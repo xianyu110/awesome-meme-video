@@ -1,0 +1,28 @@
+{
+  "source": "mediaio",
+  "source_site": "https://www.media.io",
+  "slug": "ai-food-drip-effect",
+  "name": "AI Food Drip Effect",
+  "url": "https://www.media.io/ai/effect/create/ai-food-drip-effect",
+  "listing_url": "https://www.media.io/ai/explore/zone/ai-video-trend-generator",
+  "listing_url_zh": "https://www.media.io/ai/zh/explore/zone/ai-video-trend-generator",
+  "blurb": "",
+  "crc_slug": null,
+  "crc_id": null,
+  "aigc_config_url": null,
+  "aigc_config_local": null,
+  "published": null,
+  "updated": null,
+  "scraped_at": "2026-10-17",
+  "demo_videos": [],
+  "posters": [
+    "https://storage.wondershare.com/pcloud%2F552088188%2F0%2F202609%2F1%2F802fb5d6-da0a-4b25-8ead-e79294f816bc.mp4?Expires=1792308917&OSSAccessKeyId=LTAI5t8TjkVS9EeKFhvxHYRY&Signature=qF0470yYT1g6pR%2BiExQrAbQf1us%3D",
+    "https://storage.wondershare.com/pcloud%2F552088188%2F0%2F202609%2F1%2Fa59e3ee7-5157-4664-9111-1affb2c6b72f.png?Expires=1792292776&OSSAccessKeyId=LTAI5t8TjkVS9EeKFhvxHYRY&Signature=qjM1q1EH44ZH0Xh0Z8FThJ4lA1Y%3D&x-oss-process=image%2Fresize%2Cm_lfit%2Cw_560%2Fformat%2Cwebp%2Fquality%2Cq_80"
+  ],
+  "prompts": [],
+  "prompt_count": 0,
+  "prompts_public": false,
+  "note": "No public prompt text found in Media.io aigc_config / page payload; archived demos/posters only — prompts not invented.",
+  "author": null,
+  "stats": {}
+}

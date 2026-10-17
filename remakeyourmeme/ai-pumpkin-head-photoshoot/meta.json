@@ -16,7 +16,16 @@
     "https://cdn.remakeyourmeme.com/trends/pumpkin-head/7694754222780255519.mp4"
   ],
   "preview_videos": [],
-  "posters": [],
+  "posters": [
+    "https://cdn.remakeyourmeme.com/examples/pumpkin-head/input-1.jpg",
+    "https://cdn.remakeyourmeme.com/examples/pumpkin-head/result-sm.webp",
+    "https://cdn.remakeyourmeme.com/examples/pumpkin-head/result.webp",
+    "https://cdn.remakeyourmeme.com/trends/pumpkin-head/7560438884417506574.webp",
+    "https://cdn.remakeyourmeme.com/trends/pumpkin-head/7560443750242209054.webp",
+    "https://cdn.remakeyourmeme.com/trends/pumpkin-head/7689677308348747039.webp",
+    "https://cdn.remakeyourmeme.com/trends/pumpkin-head/7691459671932161310.webp",
+    "https://cdn.remakeyourmeme.com/trends/pumpkin-head/7694754222780255519.webp"
+  ],
   "all_cdn_mp4": [
     "https://cdn.remakeyourmeme.com/trends/pumpkin-head/7560438884417506574.mp4",
     "https://cdn.remakeyourmeme.com/trends/pumpkin-head/7560443750242209054.mp4",
@@ -27,5 +36,8 @@
   "prompts": [],
   "prompt_count": 0,
   "prompts_public": false,
-  "note": "Remake Your Meme does not publish copyable prompt text on public template pages (one-tap remake). Inventory keeps demos, posters, and metadata only."
+  "note": "Remake Your Meme does not publish copyable prompt text on public template pages (one-tap remake). Inventory keeps demos, posters, and metadata only.",
+  "scraped_at": "2026-10-17",
+  "published": null,
+  "updated": null
 }

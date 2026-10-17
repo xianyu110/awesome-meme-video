@@ -9,9 +9,7 @@
   "duration_s": 14,
   "ready_to_make": true,
   "demo_videos": [
-    "https://cdn.remakeyourmeme.com/examples/bulin-47/preview-854.mp4",
     "https://cdn.remakeyourmeme.com/examples/bulin-47/video.mp4",
-    "https://cdn.remakeyourmeme.com/templates/bulin-47/preview-854.mp4",
     "https://cdn.remakeyourmeme.com/trends/bulin-47/7691875916644994326.mp4",
     "https://cdn.remakeyourmeme.com/trends/bulin-47/7693700495902280981.mp4",
     "https://cdn.remakeyourmeme.com/trends/bulin-47/7693811105356975374.mp4",
@@ -24,7 +22,15 @@
     "https://cdn.remakeyourmeme.com/templates/bulin-47/preview-854.mp4"
   ],
   "posters": [
-    "https://cdn.remakeyourmeme.com/templates/bulin-47/poster.jpg"
+    "https://cdn.remakeyourmeme.com/examples/bulin-47/input-1.jpg",
+    "https://cdn.remakeyourmeme.com/examples/bulin-47/poster.jpg",
+    "https://cdn.remakeyourmeme.com/templates/bulin-47/poster.jpg",
+    "https://cdn.remakeyourmeme.com/trends/bulin-47/7691875916644994326.webp",
+    "https://cdn.remakeyourmeme.com/trends/bulin-47/7693700495902280981.webp",
+    "https://cdn.remakeyourmeme.com/trends/bulin-47/7693811105356975374.webp",
+    "https://cdn.remakeyourmeme.com/trends/bulin-47/7694344166033132807.webp",
+    "https://cdn.remakeyourmeme.com/trends/bulin-47/7694444687498693921.webp",
+    "https://cdn.remakeyourmeme.com/trends/bulin-47/7695064422749834509.webp"
   ],
   "all_cdn_mp4": [
     "https://cdn.remakeyourmeme.com/examples/bulin-47/preview-854.mp4",
@@ -43,5 +49,8 @@
   "prompts": [],
   "prompt_count": 0,
   "prompts_public": false,
-  "note": "Remake Your Meme does not publish copyable prompt text on public template pages (one-tap remake). Inventory keeps demos, posters, and metadata only."
+  "note": "Remake Your Meme does not publish copyable prompt text on public template pages (one-tap remake). Inventory keeps demos, posters, and metadata only.",
+  "scraped_at": "2026-10-17",
+  "published": null,
+  "updated": null
 }

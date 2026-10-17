@@ -1,0 +1,45 @@
+{
+  "source": "mediaio",
+  "source_site": "https://www.media.io",
+  "slug": "nfl-ai-fan-cam-generator",
+  "name": "NFL AI Fan",
+  "url": "https://www.media.io/ai/explore/zone/nfl-ai-fan-cam-generator",
+  "listing_url": "https://www.media.io/ai/explore/zone/ai-video-trend-generator",
+  "listing_url_zh": "https://www.media.io/ai/zh/explore/zone/ai-video-trend-generator",
+  "blurb": "",
+  "crc_slug": "pugc_seedance_20_mini_lp7a_p34",
+  "crc_id": 60033864,
+  "aigc_config_url": "https://dynamic-third-res.wondershare.cc/202610202212/a0b689de14d8460ceca5927350155626/Media_io/aicommunity/json/dynamic/s9/dc4dcd5ee74476dac859a659eaa2ed05.json",
+  "aigc_config_local": "_raw/mediaio-aigc/nfl-ai-fan-cam-generator.json",
+  "published": null,
+  "updated": null,
+  "scraped_at": "2026-10-17",
+  "demo_videos": [
+    "https://static-third-res.wondershare.cc/Media_io/aicommunity/preview/static/s0/a2c12c25832892ec9dfe051e4ed43119.mp4"
+  ],
+  "posters": [
+    "https://static-third-res.wondershare.cc/Media_io/aicommunity/thumbs/static/s9/87d1278b527816762dfcd0b99b4e9de0.jpg"
+  ],
+  "prompts": [
+    {
+      "label": "prompt",
+      "variant": null,
+      "kind": "prompt",
+      "text": "Animate the stadium fan-cam image into a realistic jumbotron reaction sequence.\r\n\r\nThe subject looks toward the field, then notices people nearby pointing upward. They look toward the giant stadium screen, realize their face is being shown on the jumbotron, laugh in surprise, wave enthusiastically, and briefly point toward themselves.\r\n\r\nFans sitting around them smile, clap, point toward the screen, and react naturally.\r\n\r\nThe giant LED screen should continue displaying the same subject with synchronized but slightly delayed live-video behavior.\r\n\r\nPreserve the subject's exact facial identity.\r\n\r\nNatural stadium lighting, real crowd motion, subtle handheld broadcast camera shake, authentic live-event timing.\r\n\r\nDuration: 6 seconds."
+    }
+  ],
+  "prompt_count": 1,
+  "prompts_public": true,
+  "note": null,
+  "author": "Milo Note",
+  "stats": {
+    "collect_count": 0,
+    "dislike_count": 0,
+    "download_count": 0,
+    "liked_count": 4,
+    "share_count": 0,
+    "star_count": 0,
+    "used_count": 0,
+    "view_count": 6117
+  }
+}

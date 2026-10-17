@@ -17,7 +17,11 @@
   ],
   "preview_videos": [],
   "posters": [
-    "https://cdn.remakeyourmeme.com/templates/smalltown-boy/poster.jpg"
+    "https://cdn.remakeyourmeme.com/templates/smalltown-boy/poster.jpg",
+    "https://cdn.remakeyourmeme.com/trends/smalltown-boy/7692186349922749716.webp",
+    "https://cdn.remakeyourmeme.com/trends/smalltown-boy/7692699710783573300.webp",
+    "https://cdn.remakeyourmeme.com/trends/smalltown-boy/7694386654563339550.webp",
+    "https://cdn.remakeyourmeme.com/trends/smalltown-boy/7695113966942506253.webp"
   ],
   "all_cdn_mp4": [
     "https://cdn.remakeyourmeme.com/templates/baby-doll/video.mp4",
@@ -32,5 +36,8 @@
   "prompts": [],
   "prompt_count": 0,
   "prompts_public": false,
-  "note": "Remake Your Meme does not publish copyable prompt text on public template pages (one-tap remake). Inventory keeps demos, posters, and metadata only."
+  "note": "Remake Your Meme does not publish copyable prompt text on public template pages (one-tap remake). Inventory keeps demos, posters, and metadata only.",
+  "scraped_at": "2026-10-17",
+  "published": null,
+  "updated": null
 }

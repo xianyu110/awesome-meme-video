@@ -14,7 +14,14 @@
     "https://cdn.remakeyourmeme.com/trends/halloween-costume/7694610732666588436.mp4"
   ],
   "preview_videos": [],
-  "posters": [],
+  "posters": [
+    "https://cdn.remakeyourmeme.com/examples/halloween-costume/input-1.jpg",
+    "https://cdn.remakeyourmeme.com/examples/halloween-costume/result-sm.webp",
+    "https://cdn.remakeyourmeme.com/examples/halloween-costume/result.webp",
+    "https://cdn.remakeyourmeme.com/trends/halloween-costume/7692559585709788429.webp",
+    "https://cdn.remakeyourmeme.com/trends/halloween-costume/7694086813358558494.webp",
+    "https://cdn.remakeyourmeme.com/trends/halloween-costume/7694610732666588436.webp"
+  ],
   "all_cdn_mp4": [
     "https://cdn.remakeyourmeme.com/trends/halloween-costume/7692559585709788429.mp4",
     "https://cdn.remakeyourmeme.com/trends/halloween-costume/7694086813358558494.mp4",
@@ -23,5 +30,8 @@
   "prompts": [],
   "prompt_count": 0,
   "prompts_public": false,
-  "note": "Remake Your Meme does not publish copyable prompt text on public template pages (one-tap remake). Inventory keeps demos, posters, and metadata only."
+  "note": "Remake Your Meme does not publish copyable prompt text on public template pages (one-tap remake). Inventory keeps demos, posters, and metadata only.",
+  "scraped_at": "2026-10-17",
+  "published": null,
+  "updated": null
 }

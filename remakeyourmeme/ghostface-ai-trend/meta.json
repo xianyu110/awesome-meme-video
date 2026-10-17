@@ -16,7 +16,16 @@
     "https://cdn.remakeyourmeme.com/trends/ghostface/7690707749491068173.mp4"
   ],
   "preview_videos": [],
-  "posters": [],
+  "posters": [
+    "https://cdn.remakeyourmeme.com/examples/ghostface/input-1.jpg",
+    "https://cdn.remakeyourmeme.com/examples/ghostface/result-sm.webp",
+    "https://cdn.remakeyourmeme.com/examples/ghostface/result.webp",
+    "https://cdn.remakeyourmeme.com/trends/ghostface/7554504180187008287.webp",
+    "https://cdn.remakeyourmeme.com/trends/ghostface/7554593726463495455.webp",
+    "https://cdn.remakeyourmeme.com/trends/ghostface/7555363431918947614.webp",
+    "https://cdn.remakeyourmeme.com/trends/ghostface/7555725288861125918.webp",
+    "https://cdn.remakeyourmeme.com/trends/ghostface/7690707749491068173.webp"
+  ],
   "all_cdn_mp4": [
     "https://cdn.remakeyourmeme.com/trends/ghostface/7554504180187008287.mp4",
     "https://cdn.remakeyourmeme.com/trends/ghostface/7554593726463495455.mp4",
@@ -27,5 +36,8 @@
   "prompts": [],
   "prompt_count": 0,
   "prompts_public": false,
-  "note": "Remake Your Meme does not publish copyable prompt text on public template pages (one-tap remake). Inventory keeps demos, posters, and metadata only."
+  "note": "Remake Your Meme does not publish copyable prompt text on public template pages (one-tap remake). Inventory keeps demos, posters, and metadata only.",
+  "scraped_at": "2026-10-17",
+  "published": null,
+  "updated": null
 }

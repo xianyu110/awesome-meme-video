@@ -1,0 +1,45 @@
+{
+  "source": "mediaio",
+  "source_site": "https://www.media.io",
+  "slug": "ai-car-video-generator",
+  "name": "AI Car Video Generator",
+  "url": "https://www.media.io/ai/explore/zone/ai-car-video-generator",
+  "listing_url": "https://www.media.io/ai/explore/zone/ai-video-trend-generator",
+  "listing_url_zh": "https://www.media.io/ai/zh/explore/zone/ai-video-trend-generator",
+  "blurb": "",
+  "crc_slug": "pugc_viral_car_ai_video_p34",
+  "crc_id": 60068076,
+  "aigc_config_url": "https://dynamic-third-res.wondershare.cc/202610202150/35a418b882aed1555687c6287b3e2e17/Media_io/aicommunity/json/dynamic/s7/df090bd99dfcb31cd379dd5f197dafe2.json",
+  "aigc_config_local": "_raw/mediaio-aigc/ai-car-video-generator.json",
+  "published": null,
+  "updated": null,
+  "scraped_at": "2026-10-17",
+  "demo_videos": [
+    "https://static-third-res.wondershare.cc/Media_io/aicommunity/preview/static/s7/ebcda9630ad5db37b8d527783c68408f.mp4"
+  ],
+  "posters": [
+    "https://static-third-res.wondershare.cc/Media_io/aicommunity/thumbs/static/s0/d5470538b4a2bcaaf7ab8782c8b9952a.jpg"
+  ],
+  "prompts": [
+    {
+      "label": "prompt",
+      "variant": null,
+      "kind": "prompt",
+      "text": "STRICT MAIN CHARACTER + VEHICLE REPLACEMENT — VIDEO EDITING Replace ONLY the main character in the center of the original video with the person from @图片1, and replace the original car with a DIFFERENT globally famous real-world car. Use @图片1 strictly as the identity reference. Preserve @图片1’s exact face, facial identity, hairstyle, hair color, gender, and recognizable features. Do NOT blend @图片1’s face with the original character’s face. The replacement character must inherit the original main character’s exact: * position and body placement * scale and proportions * pose and posture * facial expressions * movement timing and trajectory * interaction with the environment Keep the black glasses. The replacement character must naturally and accurately follow the original character’s movements throughout the ENTIRE video. The replaced character continues holding the cigarette exactly as in the original video. VEHICLE REPLACEMENT: Replace the original car with ONE different, extremely famous real-world automotive brand and vehicle. Randomly select the vehicle category each generation, such as luxury sedan, sports car, supercar, SUV, off-road vehicle, coupe, or premium executive car. Use only globally recognizable automotive brands such as Mercedes-Benz, BMW, Audi, Porsche, Ferrari, Lamborghini, Bentley, Rolls-Royce, Range Rover, Toyota, or other similarly famous brands. The selected car must look like a real production vehicle from that brand, with recognizable brand design language, realistic body proportions, materials, paint, windows, wheels, headlights, interior, and reflections. The new vehicle must inherit the original car’s exact: * position * scale * orientation * movement * speed * trajectory * interaction with the character * camera relationship * perspective * lighting and shadows Do NOT randomly change the car during the video. Select ONE famous car at the beginning and keep the exact same vehicle consistent throughout the entire video. Preserve EVERYTHING ELSE from the original video exactly: * camera movement * zoom-out and camera motion * framing and composition * lighting and shadows * background * environment * timing and duration * objects and props * all surrounding/background people ALL surrounding/background people must remain completely unchanged. Preserve their original faces, identities, hairstyles, hair colors, outfits, positions, poses, and movements. Do NOT replace, modify, distort, remove, or add any background characters. Do NOT alter the background. Do NOT alter the camera. Do NOT alter the composition. Do NOT change the main character’s pose or actions. Do NOT create additional people. Do NOT change the number of people in the scene. IMPORTANT: ONLY replace the central main character with @图片1 AND replace the original vehicle with ONE randomly selected globally famous car of a random vehicle category. Everything else must remain identical to the original video."
+    }
+  ],
+  "prompt_count": 1,
+  "prompts_public": true,
+  "note": null,
+  "author": "ForestWhisper",
+  "stats": {
+    "collect_count": 0,
+    "dislike_count": 0,
+    "download_count": 0,
+    "liked_count": 242,
+    "share_count": 0,
+    "star_count": 0,
+    "used_count": 0,
+    "view_count": 0
+  }
+}

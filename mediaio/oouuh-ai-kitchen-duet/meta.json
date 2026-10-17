@@ -1,0 +1,45 @@
+{
+  "source": "mediaio",
+  "source_site": "https://www.media.io",
+  "slug": "oouuh-ai-kitchen-duet",
+  "name": "OOUUH AI Kitchen Duet",
+  "url": "https://www.media.io/ai/explore/zone/oouuh-ai-kitchen-duet",
+  "listing_url": "https://www.media.io/ai/explore/zone/ai-video-trend-generator",
+  "listing_url_zh": "https://www.media.io/ai/zh/explore/zone/ai-video-trend-generator",
+  "blurb": "",
+  "crc_slug": "pugc_oouuh_kitchen_duet_p34",
+  "crc_id": 60066144,
+  "aigc_config_url": "https://dynamic-third-res.wondershare.cc/202610202150/d5c5c3154e1688f555e10492e34a1fc9/Media_io/aicommunity/json/dynamic/s8/9572704f286a40440d00ccea67fc623f.json",
+  "aigc_config_local": "_raw/mediaio-aigc/oouuh-ai-kitchen-duet.json",
+  "published": null,
+  "updated": null,
+  "scraped_at": "2026-10-17",
+  "demo_videos": [
+    "https://static-third-res.wondershare.cc/Media_io/aicommunity/preview/static/s1/7612df3062c93f5db0f7be80cd66f903.mp4"
+  ],
+  "posters": [
+    "https://static-third-res.wondershare.cc/Media_io/aicommunity/thumbs/static/s0/179c821cc0fd10415977208380d5e33e.jpg"
+  ],
+  "prompts": [
+    {
+      "label": "prompt",
+      "variant": null,
+      "kind": "prompt",
+      "text": "STRICT DUAL ANIMAL CHARACTER REPLACEMENT\nReplace ONLY the two animal characters in the original video:\n- Replace the LEFT golden retriever holding the small guitar with @图片1.\n- Replace the RIGHT golden retriever without the instrument, standing and moving beside it, with @图片2.\n@图片1 and @图片2 are DIRECT REPLACEMENT SOURCES.\nUse @图片1 to completely replace the left-side golden retriever holding the guitar / ukulele in EVERY visible frame.\nUse @图片2 to completely replace the right-side golden retriever that does not hold the instrument in EVERY visible frame.\nPreserve each uploaded animal’s exact recognizable identity, species, breed/type, face, fur pattern, fur color, ears, eyes, muzzle, body proportions, anatomy, texture, and overall appearance.\nDo NOT blend @图片1 with the original left-side dog.\nDo NOT blend @图片2 with the original right-side dog.\nDo NOT swap the two replacement identities.\nThe replacement animal from @图片1 must inherit the original LEFT guitar-holding dog’s:\n- exact screen position\n- relative scale in frame\n- body orientation\n- head direction\n- facial / behavioral expression timing\n- body and limb movements\n- guitar / ukulele holding action\n- paw and body interaction with the instrument\n- movement timing and trajectory\n- interaction with @图片2\n- interaction with the environment\nThe replacement animal from @图片2 must inherit the original RIGHT dog’s:\n- exact screen position\n- relative scale in frame\n- body orientation\n- head direction\n- facial / behavioral expression timing\n- body and limb movements\n- standing and rhythmic movement\n- movement timing and trajectory\n- interaction with @图片1\n- interaction with the environment\nBoth replacement animals must follow the original dogs’ actions naturally and accurately throughout the ENTIRE video.\nPreserve the uploaded animals’ own anatomy and body proportions while transferring the original motion, action timing, rhythm, trajectory, and interaction.\nPreserve EVERYTHING ELSE from the original video exactly:\n- camera movement\n- framing and composition\n- lighting and shadows\n- background and environment\n- timing and duration\n- guitar / ukulele\n- objects and props\n- depth of field\n- motion blur\nDo NOT alter the background.\nDo NOT alter the camera.\nDo NOT change the original action choreography.\nDo NOT add extra animals or people.\nIMPORTANT:\nLEFT dog holding the guitar / ukulele → @图片1\nRIGHT dog without the instrument → @图片2\n@图片1 must always remain the guitar-holding character.\n@图片2 must always remain the right-side non-instrument character.\nEverything else must remain identical to the original video."
+    }
+  ],
+  "prompt_count": 1,
+  "prompts_public": true,
+  "note": null,
+  "author": "EpicExplorer",
+  "stats": {
+    "collect_count": 0,
+    "dislike_count": 0,
+    "download_count": 0,
+    "liked_count": 1,
+    "share_count": 0,
+    "star_count": 0,
+    "used_count": 0,
+    "view_count": 0
+  }
+}

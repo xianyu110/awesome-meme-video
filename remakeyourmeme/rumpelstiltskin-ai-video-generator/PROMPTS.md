@@ -7,19 +7,20 @@ Real output from this maker, unedited, made October 10, 2026 with photos of AI-g
 
 ## Demo videos (CDN)
 
-- https://cdn.remakeyourmeme.com/templates/baby-doll/video.mp4
-- https://cdn.remakeyourmeme.com/templates/closed-on-sunday/video.mp4
-- https://cdn.remakeyourmeme.com/templates/hug-in-heaven/video.mp4
+- https://cdn.remakeyourmeme.com/examples/rumpelstiltskin/video.mp4
+- https://cdn.remakeyourmeme.com/trends/rumpelstiltskin/7693232536037641486.mp4
+- https://cdn.remakeyourmeme.com/trends/rumpelstiltskin/7693713868241079582.mp4
+- https://cdn.remakeyourmeme.com/trends/rumpelstiltskin/7694520686584401182.mp4
 
 ## Posters
 
-- https://cdn.remakeyourmeme.com/templates/baby-doll/poster-640.webp
-- https://cdn.remakeyourmeme.com/templates/baby-doll/poster.jpg
-- https://cdn.remakeyourmeme.com/templates/closed-on-sunday/poster-640.webp
-- https://cdn.remakeyourmeme.com/templates/closed-on-sunday/poster.jpg
-- https://cdn.remakeyourmeme.com/templates/hug-in-heaven/poster-640.webp
-- https://cdn.remakeyourmeme.com/templates/hug-in-heaven/poster.jpg
+- https://cdn.remakeyourmeme.com/examples/rumpelstiltskin/input-1.jpg
+- https://cdn.remakeyourmeme.com/examples/rumpelstiltskin/input-2.jpg
+- https://cdn.remakeyourmeme.com/examples/rumpelstiltskin/poster.jpg
 - https://cdn.remakeyourmeme.com/templates/rumpelstiltskin/poster.jpg
+- https://cdn.remakeyourmeme.com/trends/rumpelstiltskin/7693232536037641486.webp
+- https://cdn.remakeyourmeme.com/trends/rumpelstiltskin/7693713868241079582.webp
+- https://cdn.remakeyourmeme.com/trends/rumpelstiltskin/7694520686584401182.webp
 
 ## Prompts
 

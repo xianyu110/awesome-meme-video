@@ -7,19 +7,17 @@ Real output from this maker, unedited, made October 17, 2026 with photos of AI-g
 
 ## Demo videos (CDN)
 
-- https://cdn.remakeyourmeme.com/templates/closed-on-sunday/video.mp4
-- https://cdn.remakeyourmeme.com/templates/hug-in-heaven/video.mp4
-- https://cdn.remakeyourmeme.com/templates/zombie-couple/video.mp4
+- https://cdn.remakeyourmeme.com/examples/baby-doll/sample-2/video.mp4
+- https://cdn.remakeyourmeme.com/trends/baby-doll/7674629461723139358.mp4
 
 ## Posters
 
+- https://cdn.remakeyourmeme.com/examples/baby-doll/sample-1/input-1.jpg
+- https://cdn.remakeyourmeme.com/examples/baby-doll/sample-1/input-2.jpg
+- https://cdn.remakeyourmeme.com/examples/baby-doll/sample-1/input-3.jpg
+- https://cdn.remakeyourmeme.com/examples/baby-doll/sample-2/poster.jpg
 - https://cdn.remakeyourmeme.com/templates/baby-doll/poster.jpg
-- https://cdn.remakeyourmeme.com/templates/closed-on-sunday/poster-640.webp
-- https://cdn.remakeyourmeme.com/templates/closed-on-sunday/poster.jpg
-- https://cdn.remakeyourmeme.com/templates/hug-in-heaven/poster-640.webp
-- https://cdn.remakeyourmeme.com/templates/hug-in-heaven/poster.jpg
-- https://cdn.remakeyourmeme.com/templates/zombie-couple/poster-640.webp
-- https://cdn.remakeyourmeme.com/templates/zombie-couple/poster.jpg
+- https://cdn.remakeyourmeme.com/trends/baby-doll/7674629461723139358.webp
 
 ## Prompts
 

@@ -1,12 +1,27 @@
 # Media — Crazy Frog AI Video Generator
 
-- video: https://cdn.remakeyourmeme.com/templates/baby-doll/video.mp4
-- video: https://cdn.remakeyourmeme.com/templates/closed-on-sunday/video.mp4
-- video: https://cdn.remakeyourmeme.com/templates/hug-in-heaven/video.mp4
-- poster: https://cdn.remakeyourmeme.com/templates/baby-doll/poster-640.webp
-- poster: https://cdn.remakeyourmeme.com/templates/baby-doll/poster.jpg
-- poster: https://cdn.remakeyourmeme.com/templates/closed-on-sunday/poster-640.webp
-- poster: https://cdn.remakeyourmeme.com/templates/closed-on-sunday/poster.jpg
+- video: https://cdn.remakeyourmeme.com/examples/crazy-frog/sample-1/v2/video.mp4
+- video: https://cdn.remakeyourmeme.com/examples/crazy-frog/sample-2/video.mp4
+- video: https://cdn.remakeyourmeme.com/examples/crazy-frog/sample-3/video.mp4
+- video: https://cdn.remakeyourmeme.com/examples/crazy-frog/sample-4/v2/video.mp4
+- video: https://cdn.remakeyourmeme.com/examples/crazy-frog/sample-5/video.mp4
+- video: https://cdn.remakeyourmeme.com/examples/crazy-frog/sample-7/video.mp4
+- video: https://cdn.remakeyourmeme.com/trends/crazy-frog/7693979795910069525.mp4
+- video: https://cdn.remakeyourmeme.com/trends/crazy-frog/7694760297520729358.mp4
+- video: https://cdn.remakeyourmeme.com/trends/crazy-frog/7694928656371698958.mp4
+- video: https://cdn.remakeyourmeme.com/trends/crazy-frog/7695695581510946081.mp4
+- poster: https://cdn.remakeyourmeme.com/examples/crazy-frog/sample-1/input-1.jpg
+- poster: https://cdn.remakeyourmeme.com/examples/crazy-frog/sample-1/v2/poster.jpg
+- poster: https://cdn.remakeyourmeme.com/examples/crazy-frog/sample-2/input-1.jpg
+- poster: https://cdn.remakeyourmeme.com/examples/crazy-frog/sample-2/input-2.jpg
+- poster: https://cdn.remakeyourmeme.com/examples/crazy-frog/sample-2/poster.jpg
+- poster: https://cdn.remakeyourmeme.com/examples/crazy-frog/sample-3/poster.jpg
+- poster: https://cdn.remakeyourmeme.com/examples/crazy-frog/sample-4/v2/poster.jpg
+- poster: https://cdn.remakeyourmeme.com/examples/crazy-frog/sample-5/poster.jpg
+- poster: https://cdn.remakeyourmeme.com/examples/crazy-frog/sample-7/poster.jpg
 - poster: https://cdn.remakeyourmeme.com/templates/crazy-frog/poster.jpg
-- poster: https://cdn.remakeyourmeme.com/templates/hug-in-heaven/poster-640.webp
-- poster: https://cdn.remakeyourmeme.com/templates/hug-in-heaven/poster.jpg
+- poster: https://cdn.remakeyourmeme.com/templates/crazy-frog/scenes/beach-1280.webp
+- poster: https://cdn.remakeyourmeme.com/templates/crazy-frog/scenes/beach-sm.webp
+- poster: https://cdn.remakeyourmeme.com/templates/crazy-frog/scenes/candy-house-1280.webp
+- poster: https://cdn.remakeyourmeme.com/templates/crazy-frog/scenes/candy-house-sm.webp
+- poster: https://cdn.remakeyourmeme.com/templates/crazy-frog/scenes/chocolate-factory-1280.webp

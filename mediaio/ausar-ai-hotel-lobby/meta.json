@@ -1,0 +1,29 @@
+{
+  "source": "mediaio",
+  "source_site": "https://www.media.io",
+  "slug": "ausar-ai-hotel-lobby",
+  "name": "Ausar AI Hotel Lobby",
+  "url": "https://www.media.io/ai/explore/zone/ausar-ai-hotel-lobby",
+  "listing_url": "https://www.media.io/ai/explore/zone/ai-video-trend-generator",
+  "listing_url_zh": "https://www.media.io/ai/zh/explore/zone/ai-video-trend-generator",
+  "blurb": "",
+  "crc_slug": null,
+  "crc_id": null,
+  "aigc_config_url": null,
+  "aigc_config_local": null,
+  "published": null,
+  "updated": null,
+  "scraped_at": "2026-10-17",
+  "demo_videos": [
+    "https://static-alisz-rs.wondershare.cn/file/s7/bfca220f4408ffe3a1f8893dec75c441.mp4"
+  ],
+  "posters": [
+    "https://static-alisz-rs.wondershare.cn/file/s5/9cd7d8252d42f3c8cdd328fd35d24201.jpg"
+  ],
+  "prompts": [],
+  "prompt_count": 0,
+  "prompts_public": false,
+  "note": "No public prompt text found in Media.io aigc_config / page payload; archived demos/posters only — prompts not invented.",
+  "author": null,
+  "stats": {}
+}

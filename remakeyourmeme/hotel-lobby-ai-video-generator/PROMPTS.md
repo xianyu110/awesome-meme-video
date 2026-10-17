@@ -7,19 +7,22 @@ Real output from this maker, unedited, made October 10, 2026 with photos of AI-g
 
 ## Demo videos (CDN)
 
-- https://cdn.remakeyourmeme.com/templates/baby-doll/video.mp4
-- https://cdn.remakeyourmeme.com/templates/closed-on-sunday/video.mp4
-- https://cdn.remakeyourmeme.com/templates/hug-in-heaven/video.mp4
+- https://cdn.remakeyourmeme.com/examples/hotel-lobby/video.mp4
+- https://cdn.remakeyourmeme.com/trends/hotel-lobby/7685941142646541589.mp4
+- https://cdn.remakeyourmeme.com/trends/hotel-lobby/7690388554442181921.mp4
+- https://cdn.remakeyourmeme.com/trends/hotel-lobby/7692129733860936991.mp4
+- https://cdn.remakeyourmeme.com/trends/hotel-lobby/7694802064387460366.mp4
 
 ## Posters
 
-- https://cdn.remakeyourmeme.com/templates/baby-doll/poster-640.webp
-- https://cdn.remakeyourmeme.com/templates/baby-doll/poster.jpg
-- https://cdn.remakeyourmeme.com/templates/closed-on-sunday/poster-640.webp
-- https://cdn.remakeyourmeme.com/templates/closed-on-sunday/poster.jpg
+- https://cdn.remakeyourmeme.com/examples/hotel-lobby/input-1.jpg
+- https://cdn.remakeyourmeme.com/examples/hotel-lobby/input-2.jpg
+- https://cdn.remakeyourmeme.com/examples/hotel-lobby/poster.jpg
 - https://cdn.remakeyourmeme.com/templates/hotel-lobby/poster.jpg
-- https://cdn.remakeyourmeme.com/templates/hug-in-heaven/poster-640.webp
-- https://cdn.remakeyourmeme.com/templates/hug-in-heaven/poster.jpg
+- https://cdn.remakeyourmeme.com/trends/hotel-lobby/7685941142646541589.webp
+- https://cdn.remakeyourmeme.com/trends/hotel-lobby/7690388554442181921.webp
+- https://cdn.remakeyourmeme.com/trends/hotel-lobby/7692129733860936991.webp
+- https://cdn.remakeyourmeme.com/trends/hotel-lobby/7694802064387460366.webp
 
 ## Prompts
 

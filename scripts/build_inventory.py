@@ -99,6 +99,58 @@ def visible_text(html: str) -> str:
     lines = [re.sub(r'\s+', ' ', l).strip() for l in t.splitlines()]
     return '\n'.join(l for l in lines if l)
 
+
+def remake_cdn_keys(slug: str) -> list[str]:
+    """Map remake page slug to CDN folder name candidates."""
+    s = slug.lower()
+    keys = [s]
+    core = s
+    for suf in ('-ai-video-generator', '-video-generator', '-ai-trend', '-trend', '-generator', '-ai'):
+        if core.endswith(suf):
+            core = core[: -len(suf)]
+            keys.append(core)
+    # known alias map (page slug core -> CDN folder)
+    aliases = {
+        'babydoll-dance': 'baby-doll',
+        'babydoll': 'baby-doll',
+        'smalltown-boy-cat-dance': 'smalltown-boy',
+        'ai-90s-school-photo': 'school-photo',
+        'ai-ghost-photoshoot': 'ghost-photoshoot',
+        'ai-halloween-costume': 'halloween-costume',
+        'ai-pumpkin-head-photoshoot': 'pumpkin-head',
+        'ghostface-ai-trend': 'ghostface',
+        'avatar-seven-havens': 'avatar-seven-havens',
+    }
+    for k in list(keys):
+        if k in aliases:
+            keys.append(aliases[k])
+    if 'babydoll' in s:
+        keys.append('baby-doll')
+    if 'ghostface' in s:
+        keys.append('ghostface')
+    if 'pumpkin' in s:
+        keys.append('pumpkin-head')
+    if 'witch' in s:
+        keys.append('witch-costume')
+    if 'school' in s:
+        keys.append('school-photo')
+    if 'avatar' in s or 'bender' in s:
+        keys.append('elemental-bender')
+        keys.append('avatar-seven-havens')
+    out = []
+    for k in keys:
+        if k and k not in out:
+            out.append(k)
+    return out
+
+def filter_own_cdn(urls: list[str], keys: list[str]) -> list[str]:
+    own = []
+    for u in urls:
+        low = u.lower()
+        if any(f'/{k}/' in low for k in keys):
+            own.append(u)
+    return own
+
 def parse_remake_html(path: Path) -> dict:
     html = path.read_text(errors='ignore')
     slug = path.stem
@@ -113,17 +165,19 @@ def parse_remake_html(path: Path) -> dict:
         h1t = HTML.unescape(re.sub(r'\s+', ' ', h1t)).strip()
         if h1t:
             title = h1t
-    # media - prefer template-specific paths
+    # media - prefer CDN paths matching this template's folder keys
     all_mp4 = sorted(set(clean_url(u) for u in re.findall(r'https://cdn\.remakeyourmeme\.com[^"\'\\\s#?]+\.mp4', html)))
     all_img = sorted(set(clean_url(u) for u in re.findall(r'https://cdn\.remakeyourmeme\.com[^"\'\\\s#?]+\.(?:jpg|jpeg|png|webp)', html)))
-    # heuristic: template own folder
-    # map slug fragments
-    own_videos = [u for u in all_mp4 if '/templates/' in u and 'preview' not in u]
-    own_previews = [u for u in all_mp4 if 'preview' in u]
-    demo_videos = own_videos or all_mp4
-    posters = [u for u in all_img if '/templates/' in u and ('poster' in u or u.endswith('.jpg'))]
+    keys = remake_cdn_keys(slug)
+    own_mp4 = filter_own_cdn(all_mp4, keys)
+    own_img = filter_own_cdn(all_img, keys)
+    # prefer full example/template videos over nav cross-links; drop other templates' clips
+    own_videos = [u for u in own_mp4 if 'preview' not in u.lower()]
+    own_previews = [u for u in own_mp4 if 'preview' in u.lower()]
+    demo_videos = own_videos or own_previews
+    posters = [u for u in own_img if 'poster' in u.lower() or u.lower().endswith(('.jpg', '.jpeg', '.webp', '.png'))]
     if not posters:
-        posters = [u for u in all_img if 'poster' in u][:5]
+        posters = own_img[:5]
     # photos / duration from text
     photos = None
     m = re.search(r'(\d+)\s*photos?\s*in', text, re.I)

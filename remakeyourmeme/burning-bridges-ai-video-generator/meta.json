@@ -9,13 +9,9 @@
   "duration_s": 14,
   "ready_to_make": true,
   "demo_videos": [
-    "https://cdn.remakeyourmeme.com/examples/burning-bridges/sample-1/preview-854.mp4",
     "https://cdn.remakeyourmeme.com/examples/burning-bridges/sample-1/video.mp4",
-    "https://cdn.remakeyourmeme.com/examples/burning-bridges/sample-2/preview-854.mp4",
     "https://cdn.remakeyourmeme.com/examples/burning-bridges/sample-2/video.mp4",
-    "https://cdn.remakeyourmeme.com/examples/burning-bridges/sample-3/preview-854.mp4",
     "https://cdn.remakeyourmeme.com/examples/burning-bridges/sample-3/video.mp4",
-    "https://cdn.remakeyourmeme.com/templates/burning-bridges/preview-854.mp4",
     "https://cdn.remakeyourmeme.com/trends/burning-bridges/7693216992827936013.mp4",
     "https://cdn.remakeyourmeme.com/trends/burning-bridges/7693917087428873503.mp4",
     "https://cdn.remakeyourmeme.com/trends/burning-bridges/7694447027471600909.mp4",
@@ -30,7 +26,17 @@
     "https://cdn.remakeyourmeme.com/templates/burning-bridges/preview-854.mp4"
   ],
   "posters": [
-    "https://cdn.remakeyourmeme.com/templates/burning-bridges/poster.jpg"
+    "https://cdn.remakeyourmeme.com/examples/burning-bridges/sample-1/face.jpg",
+    "https://cdn.remakeyourmeme.com/examples/burning-bridges/sample-1/poster.jpg",
+    "https://cdn.remakeyourmeme.com/examples/burning-bridges/sample-2/poster.jpg",
+    "https://cdn.remakeyourmeme.com/examples/burning-bridges/sample-3/poster.jpg",
+    "https://cdn.remakeyourmeme.com/templates/burning-bridges/poster.jpg",
+    "https://cdn.remakeyourmeme.com/trends/burning-bridges/7693216992827936013.webp",
+    "https://cdn.remakeyourmeme.com/trends/burning-bridges/7693917087428873503.webp",
+    "https://cdn.remakeyourmeme.com/trends/burning-bridges/7694447027471600909.webp",
+    "https://cdn.remakeyourmeme.com/trends/burning-bridges/7694593788458568993.webp",
+    "https://cdn.remakeyourmeme.com/trends/burning-bridges/7694662134285864206.webp",
+    "https://cdn.remakeyourmeme.com/trends/burning-bridges/7694774387920096526.webp"
   ],
   "all_cdn_mp4": [
     "https://cdn.remakeyourmeme.com/examples/burning-bridges/sample-1/preview-854.mp4",
@@ -53,5 +59,8 @@
   "prompts": [],
   "prompt_count": 0,
   "prompts_public": false,
-  "note": "Remake Your Meme does not publish copyable prompt text on public template pages (one-tap remake). Inventory keeps demos, posters, and metadata only."
+  "note": "Remake Your Meme does not publish copyable prompt text on public template pages (one-tap remake). Inventory keeps demos, posters, and metadata only.",
+  "scraped_at": "2026-10-17",
+  "published": null,
+  "updated": null
 }

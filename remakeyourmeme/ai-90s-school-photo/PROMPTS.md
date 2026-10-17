@@ -7,18 +7,20 @@ Your face, age and hair stay; the sweater and backdrop are new.
 
 ## Demo videos (CDN)
 
-- https://cdn.remakeyourmeme.com/templates/baby-doll/video.mp4
-- https://cdn.remakeyourmeme.com/templates/closed-on-sunday/video.mp4
-- https://cdn.remakeyourmeme.com/templates/hug-in-heaven/video.mp4
+- https://cdn.remakeyourmeme.com/trends/school-photo/7280231666977738026.mp4
+- https://cdn.remakeyourmeme.com/trends/school-photo/7285501653397064993.mp4
+- https://cdn.remakeyourmeme.com/trends/school-photo/7574461684543130910.mp4
+- https://cdn.remakeyourmeme.com/trends/school-photo/7618351596824562974.mp4
 
 ## Posters
 
-- https://cdn.remakeyourmeme.com/templates/baby-doll/poster-640.webp
-- https://cdn.remakeyourmeme.com/templates/baby-doll/poster.jpg
-- https://cdn.remakeyourmeme.com/templates/closed-on-sunday/poster-640.webp
-- https://cdn.remakeyourmeme.com/templates/closed-on-sunday/poster.jpg
-- https://cdn.remakeyourmeme.com/templates/hug-in-heaven/poster-640.webp
-- https://cdn.remakeyourmeme.com/templates/hug-in-heaven/poster.jpg
+- https://cdn.remakeyourmeme.com/examples/school-photo/input-1.jpg
+- https://cdn.remakeyourmeme.com/examples/school-photo/result-sm.webp
+- https://cdn.remakeyourmeme.com/examples/school-photo/result.webp
+- https://cdn.remakeyourmeme.com/trends/school-photo/7280231666977738026.webp
+- https://cdn.remakeyourmeme.com/trends/school-photo/7285501653397064993.webp
+- https://cdn.remakeyourmeme.com/trends/school-photo/7574461684543130910.webp
+- https://cdn.remakeyourmeme.com/trends/school-photo/7618351596824562974.webp
 
 ## Prompts
 

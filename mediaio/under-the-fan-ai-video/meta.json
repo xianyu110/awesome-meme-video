@@ -1,0 +1,45 @@
+{
+  "source": "mediaio",
+  "source_site": "https://www.media.io",
+  "slug": "under-the-fan-ai-video",
+  "name": "Under the Fan AI Video",
+  "url": "https://www.media.io/ai/explore/zone/under-the-fan-ai-video",
+  "listing_url": "https://www.media.io/ai/explore/zone/ai-video-trend-generator",
+  "listing_url_zh": "https://www.media.io/ai/zh/explore/zone/ai-video-trend-generator",
+  "blurb": "",
+  "crc_slug": "pugc_wan_30_gvbo_p34",
+  "crc_id": 60068680,
+  "aigc_config_url": "https://dynamic-third-res.wondershare.cc/202610202211/e400273ef9e3395f8fddaeb6b3e7f25e/Media_io/aicommunity/json/dynamic/s5/520cb03d3a30eab6c36f52e79d4090f5.json",
+  "aigc_config_local": "_raw/mediaio-aigc/under-the-fan-ai-video.json",
+  "published": null,
+  "updated": null,
+  "scraped_at": "2026-10-17",
+  "demo_videos": [
+    "https://static-third-res.wondershare.cc/Media_io/aicommunity/preview/static/s2/02e22ba01e5b797de5d7de87f4ea5c07.mp4"
+  ],
+  "posters": [
+    "https://static-third-res.wondershare.cc/Media_io/aicommunity/thumbs/static/s1/cdaabb27755d4e6891fb9413d14f9470.jpg"
+  ],
+  "prompts": [
+    {
+      "label": "prompt",
+      "variant": null,
+      "kind": "prompt",
+      "text": "Use the uploaded user image as the only identity reference for the main subject. Preserve the subject’s recognizable face, skin tone, hairstyle, age appearance, body proportions, and overall identity consistently throughout the video.\nUse the reference video only for the scene, perfect 90-degree top-down camera, framing, subject placement, three-blade ceiling-fan movement, pose changes, transition timing, and overall rhythm. Keep the camera completely locked with no zoom, pan, tilt, orbit, or drift. Recreate the same indoor setup: the subject lies centered on a vintage patterned rug over dark wooden flooring, with visible furniture edges, small household objects, and warm directional sunlight. Keep the environment, lighting, rug position, and framing unchanged.\nAutomatically generate four clearly different outfits that suit the uploaded subject’s facial appearance, hairstyle, age impression, overall vibe, and style cues. The outfits must be visually distinct from one another, not just color variations:\nLook 1: clean casual fashion — simple top or knitwear with relaxed trousers and clean everyday shoes.\nLook 2: polished preppy look — cardigan, sweater vest, structured shirt, tailored trousers, pleated bottoms, loafers, or refined casual shoes.\nLook 3: layered streetwear — bomber, overshirt, lightweight jacket, hoodie, or layered top with wide-leg or relaxed trousers and sneakers.\nLook 4: sporty or statement fashion — coordinated zip-up, sweatshirt, track jacket, fitted or relaxed top with joggers, flared pants, or modern casual trousers.\nAdapt all silhouettes, colors, proportions, and styling naturally to the uploaded subject. Every look must feel wearable, stylish, and appropriate for the same person while remaining obviously different in silhouette, layering, texture, and fashion category.\nUse a large rotating three-blade ceiling fan very close to the camera as the transition device. Each blade sweeps across the foreground with the same direction, speed, scale, trajectory, and motion blur as the reference video. Every outfit change must happen only when a fan blade heavily or almost completely covers the subject. When the blade moves away, reveal the same person in a completely new outfit and a different relaxed pose.\nEach new pose should remain subtle: small head turns, arm repositioning, one hand near the waist or chest, reaching toward a nearby object, touching the hair, adjusting clothing, or lightly bending or crossing the legs. Keep the subject lying in approximately the same central position. Do not sit up, stand, roll over, dance, or make large movements.\nPreserve this rhythm: stable pose → subtle movement → fan wipe → new outfit + new pose → next fan wipe.\nVisual style: premium cinematic fashion lookbook, warm lifestyle photography, realistic sunlight, soft shadows, natural skin texture, detailed fabrics, subtle film grain, realistic fan motion blur, and polished editorial composition.\nThe uploaded image controls identity and outfit suitability. The reference video controls scene, camera, fan movement, pose timing, and transition rhythm. No face drift, duplicated subject, body distortion, malformed hands, camera drift, changing background, fan deformation, visible clothing morphing, magical effects, subtitles, logos, or watermarks. Each fan wipe must reveal a clearly different complete outfit, not a minor variation of the previous look."
+    }
+  ],
+  "prompt_count": 1,
+  "prompts_public": true,
+  "note": null,
+  "author": "CircuitGhost",
+  "stats": {
+    "collect_count": 0,
+    "dislike_count": 0,
+    "download_count": 0,
+    "liked_count": 3,
+    "share_count": 0,
+    "star_count": 0,
+    "used_count": 0,
+    "view_count": 15496
+  }
+}

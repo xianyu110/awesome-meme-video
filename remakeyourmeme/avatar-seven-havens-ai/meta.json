@@ -8,16 +8,20 @@
   "photos_in": null,
   "duration_s": 14,
   "ready_to_make": true,
-  "demo_videos": [
-    "https://cdn.remakeyourmeme.com/templates/baby-doll/video.mp4",
-    "https://cdn.remakeyourmeme.com/templates/closed-on-sunday/video.mp4",
-    "https://cdn.remakeyourmeme.com/templates/hug-in-heaven/video.mp4"
-  ],
+  "demo_videos": [],
   "preview_videos": [],
   "posters": [
-    "https://cdn.remakeyourmeme.com/templates/baby-doll/poster-640.webp",
-    "https://cdn.remakeyourmeme.com/templates/baby-doll/poster.jpg",
-    "https://cdn.remakeyourmeme.com/templates/closed-on-sunday/poster-640.webp"
+    "https://cdn.remakeyourmeme.com/examples/elemental-bender/air-sm.webp",
+    "https://cdn.remakeyourmeme.com/examples/elemental-bender/earth-sm.webp",
+    "https://cdn.remakeyourmeme.com/examples/elemental-bender/fire-sm.webp",
+    "https://cdn.remakeyourmeme.com/examples/elemental-bender/input-1.jpg",
+    "https://cdn.remakeyourmeme.com/examples/elemental-bender/input-air.jpg",
+    "https://cdn.remakeyourmeme.com/examples/elemental-bender/input-earth.jpg",
+    "https://cdn.remakeyourmeme.com/examples/elemental-bender/input-fire.jpg",
+    "https://cdn.remakeyourmeme.com/examples/elemental-bender/input-water.jpg",
+    "https://cdn.remakeyourmeme.com/examples/elemental-bender/result-sm.webp",
+    "https://cdn.remakeyourmeme.com/examples/elemental-bender/result.webp",
+    "https://cdn.remakeyourmeme.com/examples/elemental-bender/water-sm.webp"
   ],
   "all_cdn_mp4": [
     "https://cdn.remakeyourmeme.com/templates/baby-doll/video.mp4",
@@ -27,5 +31,8 @@
   "prompts": [],
   "prompt_count": 0,
   "prompts_public": false,
-  "note": "Remake Your Meme does not publish copyable prompt text on public template pages (one-tap remake). Inventory keeps demos, posters, and metadata only."
+  "note": "Remake Your Meme does not publish copyable prompt text on public template pages (one-tap remake). Inventory keeps demos, posters, and metadata only.",
+  "scraped_at": "2026-10-17",
+  "published": null,
+  "updated": null
 }

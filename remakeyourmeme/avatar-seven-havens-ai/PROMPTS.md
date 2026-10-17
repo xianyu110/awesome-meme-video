@@ -5,20 +5,18 @@
 
 Your face, hair, glasses and skin tone stay; the robes, the element and the scene are new.
 
-## Demo videos (CDN)
-
-- https://cdn.remakeyourmeme.com/templates/baby-doll/video.mp4
-- https://cdn.remakeyourmeme.com/templates/closed-on-sunday/video.mp4
-- https://cdn.remakeyourmeme.com/templates/hug-in-heaven/video.mp4
-
 ## Posters
 
-- https://cdn.remakeyourmeme.com/templates/baby-doll/poster-640.webp
-- https://cdn.remakeyourmeme.com/templates/baby-doll/poster.jpg
-- https://cdn.remakeyourmeme.com/templates/closed-on-sunday/poster-640.webp
-- https://cdn.remakeyourmeme.com/templates/closed-on-sunday/poster.jpg
-- https://cdn.remakeyourmeme.com/templates/hug-in-heaven/poster-640.webp
-- https://cdn.remakeyourmeme.com/templates/hug-in-heaven/poster.jpg
+- https://cdn.remakeyourmeme.com/examples/elemental-bender/air-sm.webp
+- https://cdn.remakeyourmeme.com/examples/elemental-bender/earth-sm.webp
+- https://cdn.remakeyourmeme.com/examples/elemental-bender/fire-sm.webp
+- https://cdn.remakeyourmeme.com/examples/elemental-bender/input-1.jpg
+- https://cdn.remakeyourmeme.com/examples/elemental-bender/input-air.jpg
+- https://cdn.remakeyourmeme.com/examples/elemental-bender/input-earth.jpg
+- https://cdn.remakeyourmeme.com/examples/elemental-bender/input-fire.jpg
+- https://cdn.remakeyourmeme.com/examples/elemental-bender/input-water.jpg
+- https://cdn.remakeyourmeme.com/examples/elemental-bender/result-sm.webp
+- https://cdn.remakeyourmeme.com/examples/elemental-bender/result.webp
 
 ## Prompts
 

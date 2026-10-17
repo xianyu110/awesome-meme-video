@@ -15,7 +15,9 @@
   ],
   "preview_videos": [],
   "posters": [
-    "https://cdn.remakeyourmeme.com/templates/raindance/poster.jpg"
+    "https://cdn.remakeyourmeme.com/templates/raindance/poster.jpg",
+    "https://cdn.remakeyourmeme.com/trends/raindance/7689332850398678304.webp",
+    "https://cdn.remakeyourmeme.com/trends/raindance/7694325603742305568.webp"
   ],
   "all_cdn_mp4": [
     "https://cdn.remakeyourmeme.com/templates/baby-doll/video.mp4",
@@ -28,5 +30,8 @@
   "prompts": [],
   "prompt_count": 0,
   "prompts_public": false,
-  "note": "Remake Your Meme does not publish copyable prompt text on public template pages (one-tap remake). Inventory keeps demos, posters, and metadata only."
+  "note": "Remake Your Meme does not publish copyable prompt text on public template pages (one-tap remake). Inventory keeps demos, posters, and metadata only.",
+  "scraped_at": "2026-10-17",
+  "published": null,
+  "updated": null
 }

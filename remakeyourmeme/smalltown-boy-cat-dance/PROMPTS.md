@@ -7,20 +7,19 @@ A ginger cat and a tuxedo cat at the red fence, posted 2 October 2026
 
 ## Demo videos (CDN)
 
-- https://cdn.remakeyourmeme.com/templates/baby-doll/video.mp4
-- https://cdn.remakeyourmeme.com/templates/closed-on-sunday/video.mp4
-- https://cdn.remakeyourmeme.com/templates/hug-in-heaven/video.mp4
 - https://cdn.remakeyourmeme.com/templates/smalltown-boy/video.mp4
+- https://cdn.remakeyourmeme.com/trends/smalltown-boy/7692186349922749716.mp4
+- https://cdn.remakeyourmeme.com/trends/smalltown-boy/7692699710783573300.mp4
+- https://cdn.remakeyourmeme.com/trends/smalltown-boy/7694386654563339550.mp4
+- https://cdn.remakeyourmeme.com/trends/smalltown-boy/7695113966942506253.mp4
 
 ## Posters
 
-- https://cdn.remakeyourmeme.com/templates/baby-doll/poster-640.webp
-- https://cdn.remakeyourmeme.com/templates/baby-doll/poster.jpg
-- https://cdn.remakeyourmeme.com/templates/closed-on-sunday/poster-640.webp
-- https://cdn.remakeyourmeme.com/templates/closed-on-sunday/poster.jpg
-- https://cdn.remakeyourmeme.com/templates/hug-in-heaven/poster-640.webp
-- https://cdn.remakeyourmeme.com/templates/hug-in-heaven/poster.jpg
 - https://cdn.remakeyourmeme.com/templates/smalltown-boy/poster.jpg
+- https://cdn.remakeyourmeme.com/trends/smalltown-boy/7692186349922749716.webp
+- https://cdn.remakeyourmeme.com/trends/smalltown-boy/7692699710783573300.webp
+- https://cdn.remakeyourmeme.com/trends/smalltown-boy/7694386654563339550.webp
+- https://cdn.remakeyourmeme.com/trends/smalltown-boy/7695113966942506253.webp
 
 ## Prompts
 

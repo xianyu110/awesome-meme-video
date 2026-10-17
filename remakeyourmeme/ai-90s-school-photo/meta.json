@@ -16,9 +16,13 @@
   ],
   "preview_videos": [],
   "posters": [
-    "https://cdn.remakeyourmeme.com/templates/baby-doll/poster-640.webp",
-    "https://cdn.remakeyourmeme.com/templates/baby-doll/poster.jpg",
-    "https://cdn.remakeyourmeme.com/templates/closed-on-sunday/poster-640.webp"
+    "https://cdn.remakeyourmeme.com/examples/school-photo/input-1.jpg",
+    "https://cdn.remakeyourmeme.com/examples/school-photo/result-sm.webp",
+    "https://cdn.remakeyourmeme.com/examples/school-photo/result.webp",
+    "https://cdn.remakeyourmeme.com/trends/school-photo/7280231666977738026.webp",
+    "https://cdn.remakeyourmeme.com/trends/school-photo/7285501653397064993.webp",
+    "https://cdn.remakeyourmeme.com/trends/school-photo/7574461684543130910.webp",
+    "https://cdn.remakeyourmeme.com/trends/school-photo/7618351596824562974.webp"
   ],
   "all_cdn_mp4": [
     "https://cdn.remakeyourmeme.com/templates/baby-doll/video.mp4",
@@ -32,5 +36,8 @@
   "prompts": [],
   "prompt_count": 0,
   "prompts_public": false,
-  "note": "Remake Your Meme does not publish copyable prompt text on public template pages (one-tap remake). Inventory keeps demos, posters, and metadata only."
+  "note": "Remake Your Meme does not publish copyable prompt text on public template pages (one-tap remake). Inventory keeps demos, posters, and metadata only.",
+  "scraped_at": "2026-10-17",
+  "published": null,
+  "updated": null
 }

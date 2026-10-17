@@ -1,12 +1,22 @@
 # Media — Burning Bridges AI Video Generator
 
-- video: https://cdn.remakeyourmeme.com/templates/baby-doll/video.mp4
-- video: https://cdn.remakeyourmeme.com/templates/closed-on-sunday/video.mp4
-- video: https://cdn.remakeyourmeme.com/templates/hug-in-heaven/video.mp4
-- poster: https://cdn.remakeyourmeme.com/templates/baby-doll/poster-640.webp
-- poster: https://cdn.remakeyourmeme.com/templates/baby-doll/poster.jpg
+- video: https://cdn.remakeyourmeme.com/examples/burning-bridges/sample-1/video.mp4
+- video: https://cdn.remakeyourmeme.com/examples/burning-bridges/sample-2/video.mp4
+- video: https://cdn.remakeyourmeme.com/examples/burning-bridges/sample-3/video.mp4
+- video: https://cdn.remakeyourmeme.com/trends/burning-bridges/7693216992827936013.mp4
+- video: https://cdn.remakeyourmeme.com/trends/burning-bridges/7693917087428873503.mp4
+- video: https://cdn.remakeyourmeme.com/trends/burning-bridges/7694447027471600909.mp4
+- video: https://cdn.remakeyourmeme.com/trends/burning-bridges/7694593788458568993.mp4
+- video: https://cdn.remakeyourmeme.com/trends/burning-bridges/7694662134285864206.mp4
+- video: https://cdn.remakeyourmeme.com/trends/burning-bridges/7694774387920096526.mp4
+- poster: https://cdn.remakeyourmeme.com/examples/burning-bridges/sample-1/face.jpg
+- poster: https://cdn.remakeyourmeme.com/examples/burning-bridges/sample-1/poster.jpg
+- poster: https://cdn.remakeyourmeme.com/examples/burning-bridges/sample-2/poster.jpg
+- poster: https://cdn.remakeyourmeme.com/examples/burning-bridges/sample-3/poster.jpg
 - poster: https://cdn.remakeyourmeme.com/templates/burning-bridges/poster.jpg
-- poster: https://cdn.remakeyourmeme.com/templates/closed-on-sunday/poster-640.webp
-- poster: https://cdn.remakeyourmeme.com/templates/closed-on-sunday/poster.jpg
-- poster: https://cdn.remakeyourmeme.com/templates/hug-in-heaven/poster-640.webp
-- poster: https://cdn.remakeyourmeme.com/templates/hug-in-heaven/poster.jpg
+- poster: https://cdn.remakeyourmeme.com/trends/burning-bridges/7693216992827936013.webp
+- poster: https://cdn.remakeyourmeme.com/trends/burning-bridges/7693917087428873503.webp
+- poster: https://cdn.remakeyourmeme.com/trends/burning-bridges/7694447027471600909.webp
+- poster: https://cdn.remakeyourmeme.com/trends/burning-bridges/7694593788458568993.webp
+- poster: https://cdn.remakeyourmeme.com/trends/burning-bridges/7694662134285864206.webp
+- poster: https://cdn.remakeyourmeme.com/trends/burning-bridges/7694774387920096526.webp

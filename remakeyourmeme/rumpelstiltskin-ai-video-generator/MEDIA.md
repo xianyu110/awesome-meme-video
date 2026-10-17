@@ -1,12 +1,13 @@
 # Media — Rumpelstiltskin AI Video Generator
 
-- video: https://cdn.remakeyourmeme.com/templates/baby-doll/video.mp4
-- video: https://cdn.remakeyourmeme.com/templates/closed-on-sunday/video.mp4
-- video: https://cdn.remakeyourmeme.com/templates/hug-in-heaven/video.mp4
-- poster: https://cdn.remakeyourmeme.com/templates/baby-doll/poster-640.webp
-- poster: https://cdn.remakeyourmeme.com/templates/baby-doll/poster.jpg
-- poster: https://cdn.remakeyourmeme.com/templates/closed-on-sunday/poster-640.webp
-- poster: https://cdn.remakeyourmeme.com/templates/closed-on-sunday/poster.jpg
-- poster: https://cdn.remakeyourmeme.com/templates/hug-in-heaven/poster-640.webp
-- poster: https://cdn.remakeyourmeme.com/templates/hug-in-heaven/poster.jpg
+- video: https://cdn.remakeyourmeme.com/examples/rumpelstiltskin/video.mp4
+- video: https://cdn.remakeyourmeme.com/trends/rumpelstiltskin/7693232536037641486.mp4
+- video: https://cdn.remakeyourmeme.com/trends/rumpelstiltskin/7693713868241079582.mp4
+- video: https://cdn.remakeyourmeme.com/trends/rumpelstiltskin/7694520686584401182.mp4
+- poster: https://cdn.remakeyourmeme.com/examples/rumpelstiltskin/input-1.jpg
+- poster: https://cdn.remakeyourmeme.com/examples/rumpelstiltskin/input-2.jpg
+- poster: https://cdn.remakeyourmeme.com/examples/rumpelstiltskin/poster.jpg
 - poster: https://cdn.remakeyourmeme.com/templates/rumpelstiltskin/poster.jpg
+- poster: https://cdn.remakeyourmeme.com/trends/rumpelstiltskin/7693232536037641486.webp
+- poster: https://cdn.remakeyourmeme.com/trends/rumpelstiltskin/7693713868241079582.webp
+- poster: https://cdn.remakeyourmeme.com/trends/rumpelstiltskin/7694520686584401182.webp

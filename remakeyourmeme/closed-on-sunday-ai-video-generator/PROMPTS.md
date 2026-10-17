@@ -7,19 +7,20 @@ Real output from this maker, unedited, made October 17, 2026 with photos of AI-g
 
 ## Demo videos (CDN)
 
-- https://cdn.remakeyourmeme.com/templates/baby-doll/video.mp4
-- https://cdn.remakeyourmeme.com/templates/hug-in-heaven/video.mp4
-- https://cdn.remakeyourmeme.com/templates/zombie-couple/video.mp4
+- https://cdn.remakeyourmeme.com/examples/closed-on-sunday/sample-6/video.mp4
 
 ## Posters
 
-- https://cdn.remakeyourmeme.com/templates/baby-doll/poster-640.webp
-- https://cdn.remakeyourmeme.com/templates/baby-doll/poster.jpg
-- https://cdn.remakeyourmeme.com/templates/closed-on-sunday/poster.jpg
-- https://cdn.remakeyourmeme.com/templates/hug-in-heaven/poster-640.webp
-- https://cdn.remakeyourmeme.com/templates/hug-in-heaven/poster.jpg
-- https://cdn.remakeyourmeme.com/templates/zombie-couple/poster-640.webp
-- https://cdn.remakeyourmeme.com/templates/zombie-couple/poster.jpg
+- https://cdn.remakeyourmeme.com/examples/closed-on-sunday/sample-6/poster.jpg
+- https://cdn.remakeyourmeme.com/templates/closed-on-sunday/choirs/aliens-1200.webp
+- https://cdn.remakeyourmeme.com/templates/closed-on-sunday/choirs/aliens-one.webp
+- https://cdn.remakeyourmeme.com/templates/closed-on-sunday/choirs/angels-1200.webp
+- https://cdn.remakeyourmeme.com/templates/closed-on-sunday/choirs/angels-one.webp
+- https://cdn.remakeyourmeme.com/templates/closed-on-sunday/choirs/cats-1200.webp
+- https://cdn.remakeyourmeme.com/templates/closed-on-sunday/choirs/cats-one.webp
+- https://cdn.remakeyourmeme.com/templates/closed-on-sunday/choirs/dogs-1200.webp
+- https://cdn.remakeyourmeme.com/templates/closed-on-sunday/choirs/dogs-one.webp
+- https://cdn.remakeyourmeme.com/templates/closed-on-sunday/choirs/frogs-1200.webp
 
 ## Prompts
 

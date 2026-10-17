@@ -7,18 +7,27 @@
 
 ## Demo videos (CDN)
 
-- https://cdn.remakeyourmeme.com/templates/baby-doll/video.mp4
-- https://cdn.remakeyourmeme.com/templates/closed-on-sunday/video.mp4
-- https://cdn.remakeyourmeme.com/templates/zombie-couple/video.mp4
+- https://cdn.remakeyourmeme.com/examples/hug-in-heaven/v2/sample-1/video.mp4
+- https://cdn.remakeyourmeme.com/examples/hug-in-heaven/v2/sample-2/video.mp4
+- https://cdn.remakeyourmeme.com/trends/hug-in-heaven/7671245533687663886.mp4
+- https://cdn.remakeyourmeme.com/trends/hug-in-heaven/7688375907219705102.mp4
+- https://cdn.remakeyourmeme.com/trends/hug-in-heaven/7690758687815699720.mp4
+- https://cdn.remakeyourmeme.com/trends/hug-in-heaven/7695076224720227597.mp4
+- https://cdn.remakeyourmeme.com/trends/hug-in-heaven/7695121630195993887.mp4
+- https://cdn.remakeyourmeme.com/trends/hug-in-heaven/7696472081373891854.mp4
 
 ## Posters
 
-- https://cdn.remakeyourmeme.com/templates/baby-doll/poster-640.webp
-- https://cdn.remakeyourmeme.com/templates/baby-doll/poster.jpg
-- https://cdn.remakeyourmeme.com/templates/closed-on-sunday/poster-640.webp
-- https://cdn.remakeyourmeme.com/templates/closed-on-sunday/poster.jpg
-- https://cdn.remakeyourmeme.com/templates/zombie-couple/poster-640.webp
-- https://cdn.remakeyourmeme.com/templates/zombie-couple/poster.jpg
+- https://cdn.remakeyourmeme.com/examples/hug-in-heaven/v2/sample-1/input-1.jpg
+- https://cdn.remakeyourmeme.com/examples/hug-in-heaven/v2/sample-1/input-2.jpg
+- https://cdn.remakeyourmeme.com/examples/hug-in-heaven/v2/sample-1/poster.jpg
+- https://cdn.remakeyourmeme.com/examples/hug-in-heaven/v2/sample-2/input-1.jpg
+- https://cdn.remakeyourmeme.com/examples/hug-in-heaven/v2/sample-2/input-2.jpg
+- https://cdn.remakeyourmeme.com/examples/hug-in-heaven/v2/sample-2/poster.jpg
+- https://cdn.remakeyourmeme.com/trends/hug-in-heaven/7671245533687663886.webp
+- https://cdn.remakeyourmeme.com/trends/hug-in-heaven/7688375907219705102.webp
+- https://cdn.remakeyourmeme.com/trends/hug-in-heaven/7690758687815699720.webp
+- https://cdn.remakeyourmeme.com/trends/hug-in-heaven/7695076224720227597.webp
 
 ## Prompts
 

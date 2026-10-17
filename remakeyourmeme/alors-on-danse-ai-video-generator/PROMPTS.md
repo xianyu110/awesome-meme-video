@@ -7,19 +7,24 @@ Real output from this maker, unedited, made October 10, 2026 with photos of AI-g
 
 ## Demo videos (CDN)
 
-- https://cdn.remakeyourmeme.com/templates/baby-doll/video.mp4
-- https://cdn.remakeyourmeme.com/templates/closed-on-sunday/video.mp4
-- https://cdn.remakeyourmeme.com/templates/hug-in-heaven/video.mp4
+- https://cdn.remakeyourmeme.com/examples/alors-on-danse/video.mp4
+- https://cdn.remakeyourmeme.com/trends/alors-on-danse/7646336057927142689.mp4
+- https://cdn.remakeyourmeme.com/trends/alors-on-danse/7690702205229206791.mp4
+- https://cdn.remakeyourmeme.com/trends/alors-on-danse/7692527106185596168.mp4
+- https://cdn.remakeyourmeme.com/trends/alors-on-danse/7693189653947632918.mp4
+- https://cdn.remakeyourmeme.com/trends/alors-on-danse/7693870611386469654.mp4
 
 ## Posters
 
+- https://cdn.remakeyourmeme.com/examples/alors-on-danse/input-1.jpg
+- https://cdn.remakeyourmeme.com/examples/alors-on-danse/input-2.jpg
+- https://cdn.remakeyourmeme.com/examples/alors-on-danse/poster.jpg
 - https://cdn.remakeyourmeme.com/templates/alors-on-danse/poster.jpg
-- https://cdn.remakeyourmeme.com/templates/baby-doll/poster-640.webp
-- https://cdn.remakeyourmeme.com/templates/baby-doll/poster.jpg
-- https://cdn.remakeyourmeme.com/templates/closed-on-sunday/poster-640.webp
-- https://cdn.remakeyourmeme.com/templates/closed-on-sunday/poster.jpg
-- https://cdn.remakeyourmeme.com/templates/hug-in-heaven/poster-640.webp
-- https://cdn.remakeyourmeme.com/templates/hug-in-heaven/poster.jpg
+- https://cdn.remakeyourmeme.com/trends/alors-on-danse/7646336057927142689.webp
+- https://cdn.remakeyourmeme.com/trends/alors-on-danse/7690702205229206791.webp
+- https://cdn.remakeyourmeme.com/trends/alors-on-danse/7692527106185596168.webp
+- https://cdn.remakeyourmeme.com/trends/alors-on-danse/7693189653947632918.webp
+- https://cdn.remakeyourmeme.com/trends/alors-on-danse/7693870611386469654.webp
 
 ## Prompts
 

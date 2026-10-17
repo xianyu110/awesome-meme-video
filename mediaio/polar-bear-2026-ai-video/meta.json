@@ -1,0 +1,45 @@
+{
+  "source": "mediaio",
+  "source_site": "https://www.media.io",
+  "slug": "polar-bear-2026-ai-video",
+  "name": "Polar Bear 2026 AI Video",
+  "url": "https://www.media.io/ai/explore/zone/polar-bear-2026-ai-video",
+  "listing_url": "https://www.media.io/ai/explore/zone/ai-video-trend-generator",
+  "listing_url_zh": "https://www.media.io/ai/zh/explore/zone/ai-video-trend-generator",
+  "blurb": "",
+  "crc_slug": "pugc_seedance_20_mini_cywo_p34",
+  "crc_id": 60072344,
+  "aigc_config_url": "https://dynamic-third-res.wondershare.cc/202610202206/bf221a66a231b706823fc845d7073c0b/Media_io/aicommunity/json/dynamic/s8/cc70608bc2bd05aeebbe049070190701.json",
+  "aigc_config_local": "_raw/mediaio-aigc/polar-bear-2026-ai-video.json",
+  "published": null,
+  "updated": null,
+  "scraped_at": "2026-10-17",
+  "demo_videos": [
+    "https://static-third-res.wondershare.cc/Media_io/aicommunity/preview/static/s3/f0535e11caec9edfb471e074d22f6269.mp4"
+  ],
+  "posters": [
+    "https://static-third-res.wondershare.cc/Media_io/aicommunity/thumbs/static/s0/db2c6c9355aa6550126ef97c928c7162.jpg"
+  ],
+  "prompts": [
+    {
+      "label": "prompt",
+      "variant": null,
+      "kind": "prompt",
+      "text": "Begin with the polar bear standing motionless in the background. Wind slowly lifts and flips the calendar pages in the foreground while snow moves across the ground. The bear gradually turns its head toward the camera. Slowly push the camera forward. Keep the scene realistic, mysterious and restrained, with no sudden transformation or extra objects."
+    }
+  ],
+  "prompt_count": 1,
+  "prompts_public": true,
+  "note": null,
+  "author": "Milo Note",
+  "stats": {
+    "collect_count": 0,
+    "dislike_count": 0,
+    "download_count": 0,
+    "liked_count": 4,
+    "share_count": 0,
+    "star_count": 0,
+    "used_count": 0,
+    "view_count": 11817
+  }
+}

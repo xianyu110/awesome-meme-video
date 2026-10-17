@@ -7,19 +7,29 @@ Real output from this maker, unedited, made October 16, 2026 with photos of AI-g
 
 ## Demo videos (CDN)
 
-- https://cdn.remakeyourmeme.com/templates/baby-doll/video.mp4
-- https://cdn.remakeyourmeme.com/templates/closed-on-sunday/video.mp4
-- https://cdn.remakeyourmeme.com/templates/hug-in-heaven/video.mp4
+- https://cdn.remakeyourmeme.com/examples/crazy-frog/sample-1/v2/video.mp4
+- https://cdn.remakeyourmeme.com/examples/crazy-frog/sample-2/video.mp4
+- https://cdn.remakeyourmeme.com/examples/crazy-frog/sample-3/video.mp4
+- https://cdn.remakeyourmeme.com/examples/crazy-frog/sample-4/v2/video.mp4
+- https://cdn.remakeyourmeme.com/examples/crazy-frog/sample-5/video.mp4
+- https://cdn.remakeyourmeme.com/examples/crazy-frog/sample-7/video.mp4
+- https://cdn.remakeyourmeme.com/trends/crazy-frog/7693979795910069525.mp4
+- https://cdn.remakeyourmeme.com/trends/crazy-frog/7694760297520729358.mp4
+- https://cdn.remakeyourmeme.com/trends/crazy-frog/7694928656371698958.mp4
+- https://cdn.remakeyourmeme.com/trends/crazy-frog/7695695581510946081.mp4
 
 ## Posters
 
-- https://cdn.remakeyourmeme.com/templates/baby-doll/poster-640.webp
-- https://cdn.remakeyourmeme.com/templates/baby-doll/poster.jpg
-- https://cdn.remakeyourmeme.com/templates/closed-on-sunday/poster-640.webp
-- https://cdn.remakeyourmeme.com/templates/closed-on-sunday/poster.jpg
+- https://cdn.remakeyourmeme.com/examples/crazy-frog/sample-1/input-1.jpg
+- https://cdn.remakeyourmeme.com/examples/crazy-frog/sample-1/v2/poster.jpg
+- https://cdn.remakeyourmeme.com/examples/crazy-frog/sample-2/input-1.jpg
+- https://cdn.remakeyourmeme.com/examples/crazy-frog/sample-2/input-2.jpg
+- https://cdn.remakeyourmeme.com/examples/crazy-frog/sample-2/poster.jpg
+- https://cdn.remakeyourmeme.com/examples/crazy-frog/sample-3/poster.jpg
+- https://cdn.remakeyourmeme.com/examples/crazy-frog/sample-4/v2/poster.jpg
+- https://cdn.remakeyourmeme.com/examples/crazy-frog/sample-5/poster.jpg
+- https://cdn.remakeyourmeme.com/examples/crazy-frog/sample-7/poster.jpg
 - https://cdn.remakeyourmeme.com/templates/crazy-frog/poster.jpg
-- https://cdn.remakeyourmeme.com/templates/hug-in-heaven/poster-640.webp
-- https://cdn.remakeyourmeme.com/templates/hug-in-heaven/poster.jpg
 
 ## Prompts
 
