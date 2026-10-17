@@ -1,0 +1,51 @@
+# Raindance AI Trend: Put the Two of You on the Pier
+
+- Source: [makeviral](https://www.makeviral.ai/templates/raindance-ai-trend)
+- Slug: `raindance-ai-trend`
+
+The Raindance AI trend recasts the pier scene from the "Raindance" video by Dave and Tems: one person waits at the end of a wooden pier, the other walks up and sings to the camera, and then the two sit together on the beach.
+
+## Demo videos (CDN)
+
+- https://www.makeviral.ai/media/templates/raindance-ai-trend/original-main-v2.mp4
+- https://www.makeviral.ai/media/templates/raindance-ai-trend/original-pets-v2.mp4
+
+## Posters
+
+- https://www.makeviral.ai/media/templates/raindance-ai-trend/original-main-v1.jpg
+- https://www.makeviral.ai/media/templates/raindance-ai-trend/original-pets-v1.jpg
+
+## Prompts
+
+### 1. 1. The video prompt is filled in. Settings: Seedance 2.5, 15 s, 720p, 9:16, sound off. The video prompt (Human)
+
+*Kind: video_prompt*
+
+```text
+Recreate the reference video [Video 1] shot for shot: the same wooden pier, the same calm sea and sand beach, the same evening light, the same camera angles, cuts, timing and moves. The singer's mouth moves with the song exactly like in the video. The ONLY change: the young man in the purple jacket and purple shorts who sits at the end of the pier is now the person in [Image 1], and the man in the green shirt and the backwards green cap who sings to the camera is now the person in [Image 2].
+
+The one on the pier = the person in [Image 1], in EVERY shot: copy the exact face from [Image 1] - face shape, eye color and eye shape, eyebrows, nose, mouth, skin tone, age, hair color, hair length and hairstyle, and any beard, moustache, glasses or freckles exactly as in the photo. They wear the clothes from [Image 1].
+
+The singer = the person in [Image 2], in EVERY shot, also in the big close-ups: copy the exact face from [Image 2] - face shape, eye color and eye shape, eyebrows, nose, mouth, skin tone, age, hair color, hair length and hairstyle, and any beard, moustache, glasses or freckles exactly as in the photo. They wear the clothes from [Image 2], with no green cap unless [Image 2] shows one. They copy the singing mouth, the face and the hand moves of the singer in the video, not the smile in [Image 2].
+
+The same real people in every frame, from the first shot to the last, so their friends instantly recognize them. Never morph, never drift back to the original men's faces, never add or remove facial hair. Both people change: neither person from the video stays anywhere, also in the wide shots and when only the back of a head shows. Do not mix the two faces: [Image 1] is only the one on the pier, [Image 2] is only the singer.
+
+Shots, matching the reference:
+1. The person from [Image 1] sits at the end of the wooden pier and looks out to sea; the camera pulls back over the pier.
+2. Close-up of the singer by the sea, singing to the camera.
+3. Both sit on the sand: the singer sings, the person from [Image 1] sits beside them.
+4. Close-up of the singer singing.
+5. The singer points both hands at the camera.
+6. Big close-up of the singer singing, one hand on the chest.
+
+Anatomy rules: one head per person, on that person's own shoulders. A face never appears on knees, legs, hands or clothes. Exactly two people. No text, no logos.
+```
+
+### 2. 1. The video prompt is filled in. Settings: h3-recast, 15 s, 720p, 9:16, sound off. The video prompt (Pet)
+
+*Kind: video_prompt*
+
+```text
+Image 1 replaces the fluffy grey tabby cat who sits at the end of the wooden pier and looks out to sea, in every shot. Image 2 replaces the ginger cat who walks up the pier and sings to the camera, in every shot, with no leash and no strap. Keep the face, fur colors and markings from each image. Keep the pier, the sea, the beach, the light, the motion, the mouth movement and the camera exactly as in the video.
+```
+

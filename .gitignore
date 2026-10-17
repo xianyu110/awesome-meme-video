@@ -1,0 +1,6 @@
+_raw/
+_blobs/
+scripts/__pycache__/
+*.part
+.DS_Store
+git-lfs-*/

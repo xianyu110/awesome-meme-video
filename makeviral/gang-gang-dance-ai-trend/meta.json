@@ -1,0 +1,45 @@
+{
+  "source": "makeviral",
+  "source_site": "https://www.makeviral.ai",
+  "slug": "gang-gang-dance-ai-trend",
+  "name": "Gang Gang Dance AI: Do the Viral Jean Phil Battle Dance From One Photo",
+  "url": "https://www.makeviral.ai/templates/gang-gang-dance-ai-trend",
+  "markdown_url": "https://www.makeviral.ai/templates/gang-gang-dance-ai-trend.md",
+  "blurb": "The gang gang dance is the viral AI dance battle of autumn 2026: a slow, cocky hip-hop freestyle from a real battle that AI clips handed to Jean Phil, then to everyone.",
+  "updated": "2026-10-15",
+  "published": "2026-10-14",
+  "credits": 228,
+  "demo_videos": [
+    "https://www.makeviral.ai/media/templates/gang-gang-dance-ai-trend/original-main-v2.mp4"
+  ],
+  "posters": [
+    "https://www.makeviral.ai/media/templates/gang-gang-dance-ai-trend/original-main-v1.jpg"
+  ],
+  "prompts": [
+    {
+      "label": "1. The video prompt is filled in. Settings: Seedance 2.5, 15 s, 720p, 9:16, sound off. The video prompt",
+      "variant": null,
+      "kind": "video_prompt",
+      "text": "Recreate the reference video [Video 1] shot for shot. The ONLY change: the man in the neon yellow and pink ski suit who dances alone on the stage is now the person in [Image 1].\nUse [Image 1] as the only identity reference for the main performer. Preserve the subject's recognizable face, skin tone, hairstyle, body proportions, clothing characteristics, and overall identity consistently throughout the video. Copy the exact face from [Image 1] - face shape, eye color and eye shape, eyebrows, nose, mouth, skin tone, age, hair color, hair length and hairstyle, and any beard, moustache, glasses or freckles exactly as in the photo, so their friends instantly recognize them. Never drift back to the original dancer's face. NO neon ski suit, no ski gloves and no chunky white boots unless [Image 1] shows them: the dancer wears the clothes from [Image 1].\nUse the reference video [Video 1] as the only reference for the scene, camera position, framing, body movement, gesture sequence, performance rhythm, spatial blocking, and timing. Do not copy the original performer's identity; transfer only the reference video's scene, pose, motion, choreography, interaction, framing, and timing.\nCreate an approximately 15-second cinematic stage-performance video. Reproduce the same dark indoor theater environment with a glossy black stage floor, deep black background, subtle blue stage lighting, surrounding seated audience, and the same intimate live-performance atmosphere. Keep the main performer centered in the foreground.\nMaintain a mostly fixed audience-level wide camera. Do not add new locations, extra cuts, dramatic camera moves, dolly-ins, orbit shots, or unrelated close-ups.\nStrictly follow the reference performer's motion and timing. Begin with a slightly forward-leaning posture, bent knees, and both arms reaching downward and forward. Continue with alternating arm extensions, wrist and hand movements, small steps, subtle weight shifts, shoulder movement, and gradual transitions between crouched and upright posture.\nAs the performance develops, the protagonist straightens, lowers the arms, briefly pauses, then lifts the head and looks upward. In the second half, increase movement intensity according to the reference: side-to-side weight shifts, torso leans, arm swings, crossed-arm gestures, outward arm extensions, upper-body twists, and more expressive head and torso movement.\nNear the ending, reproduce the faster head and upper-body motion, followed by the final confident pose with one arm raised and the other near the waist or hip. Preserve the same progression from restrained movement to more expressive theatrical performance.\nAll motion must remain physically believable, with realistic balance, floor contact, joint movement, hand anatomy, torso rotation, and weight transfer. Do not invent new choreography or random dance moves.\nMaintain strict identity consistency. No face drift, identity blending, duplicated protagonist, random costume changes, malformed hands, extra limbs, floating feet, incorrect floor contact, changing stage environment, unnecessary subtitles, logos, watermarks, or unrelated effects. The final result should feel like the person from [Image 1] performed the same routine in the same theater, with the same scene, movements, pauses, rhythm, and framing as the reference video. The people in the audience keep their own faces and never get the dancer's face."
+    },
+    {
+      "label": "1. The video prompt is filled in. Settings: kling-3-motion, 15 s, 720p, 9:16, sound off. The video prompt",
+      "variant": null,
+      "kind": "video_prompt",
+      "text": "One continuous single take, fixed camera, vertical video. Recreate the reference video exactly, but the dancer is the person from the reference image instead of the man: the same person with the same face, hair, skin tone, body and clothes, in the place from the reference image.\nUse the reference image as the only identity reference for the main performer. Preserve the subject's recognizable face, skin tone, hairstyle, body proportions, clothing characteristics, and overall identity consistently throughout the video.\nStrictly follow the reference performer's motion and timing. Begin with a slightly forward-leaning posture, bent knees, and both arms reaching downward and forward. Continue with alternating arm extensions, wrist and hand movements, small steps, subtle weight shifts, shoulder movement, and gradual transitions between crouched and upright posture.\nAs the performance develops, the protagonist straightens, lowers the arms, briefly pauses, then lifts the head and looks upward. In the second half, increase movement intensity according to the reference: side-to-side weight shifts, torso leans, arm swings, crossed-arm gestures, outward arm extensions, upper-body twists, and more expressive head and torso movement.\nNear the ending, reproduce the faster head and upper-body motion, followed by the final confident pose with one arm raised and the other near the waist or hip. Preserve the same progression from restrained movement to more expressive theatrical performance.\nAll motion must remain physically believable, with realistic balance, floor contact, joint movement, hand anatomy, torso rotation, and weight transfer. Do not invent new choreography or random dance moves.\nNo neon yellow and pink ski suit, no ski gloves and no chunky white boots unless the reference image shows them. No cuts, no text, no captions or logos on screen. Exactly one person, no extra people."
+    }
+  ],
+  "variant_headings": [
+    "What the Gang Gang Dance video looks like",
+    "How to make the Gang Gang Dance video on MakeViral",
+    "Which photo works best?",
+    "How do I make the gang gang dance AI video with my photo?",
+    "Will the video give me the Jean Phil look or the ski suit?",
+    "What sound does my video have?",
+    "How long is the video and what format is it?",
+    "Is the dance in the video real?",
+    "Other AI video templates and tools",
+    "Make your own Gang Gang Dance video"
+  ],
+  "prompt_count": 2
+}

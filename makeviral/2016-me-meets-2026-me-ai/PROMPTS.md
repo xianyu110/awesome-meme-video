@@ -1,0 +1,56 @@
+# 2016 vs 2026: Your 2016 Self Walks In and Meets You
+
+- Source: [makeviral](https://www.makeviral.ai/templates/2016-me-meets-2026-me-ai)
+- Slug: `2016-me-meets-2026-me-ai`
+
+The 2016 vs 2026 AI trend puts your past and your present in the same video: your 2016 self arrives in 2026, walks up to you and asks what happened.
+
+## Demo videos (CDN)
+
+- https://www.makeviral.ai/media/templates/2016-me-meets-2026-me-ai/example-custom-v1.mp4
+- https://www.makeviral.ai/media/templates/2016-me-meets-2026-me-ai/example-portal-v1.mp4
+- https://www.makeviral.ai/media/templates/2016-me-meets-2026-me-ai/example-v1.mp4
+- https://www.makeviral.ai/media/templates/2016-me-meets-2026-me-ai/original-main-v2.mp4
+
+## Posters
+
+- https://www.makeviral.ai/media/templates/2016-me-meets-2026-me-ai/example-custom-v1.jpg
+- https://www.makeviral.ai/media/templates/2016-me-meets-2026-me-ai/example-input-v1.jpg
+- https://www.makeviral.ai/media/templates/2016-me-meets-2026-me-ai/example-portal-v1.jpg
+- https://www.makeviral.ai/media/templates/2016-me-meets-2026-me-ai/example-v1.jpg
+- https://www.makeviral.ai/media/templates/2016-me-meets-2026-me-ai/original-main-v1.jpg
+
+## Prompts
+
+### 1. Prompt 1
+
+*Kind: prompt*
+
+```text
+Use the two uploaded images as the base. They show the same person about ten years apart. The person in the first image is the younger version, from {then}: keep that face, facial features, skin tone, hair, age, body and the outfit from the first image exactly. The person in the second image is today's version: keep that face, facial features, skin tone, hair, age, body and the outfit from the second image exactly. Do not blend the two, do not swap their faces and do not make them the same age. An ordinary, unedited smartphone photo, taken by a friend at chest height. The place: {place}, a real, everyday place in natural light, with ordinary details and a little everyday clutter, like a snapshot from someone's camera roll. The younger version is on the left. {arrive_photo} The younger version looks fresh, curious and full of energy, and looks at today's version. A few steps away on the right, today's version looks tired, with slumped shoulders, holding a plain paper coffee cup and looking back at the younger version. Both from the knees up, both faces clear and sharp, turned three-quarters toward the camera. Photorealistic, natural skin and natural colors: no cinematic lighting, no color grading, no soft dreamy glow, no blurred bokeh background, not CGI, not a cartoon. Vertical 9:16. Exactly two people, nobody else close by. No flags, no signs, no name tags, no text, no logos, no watermarks.
+```
+
+### 2. 3. Press the film button on the still to open AI Video with the still as the first frame. Settings: Kling 3.0, 10 s, 1080p, 9:16, sound on. The video prompt
+
+*Kind: video_prompt*
+
+```text
+An ordinary, unedited phone video filmed by a friend, in one continuous shot with no cuts, in natural light with a slight handheld shake, like a real clip on social media. Keep both faces, hair, ages and outfits exactly as in the image: the younger one on the left is the version from {then}, and the older one on the right is today's version of the same person. {arrive_video} The younger version looks around in wonder, walks up to today's version, looks them slowly up and down and says, confused: "{line1}" Today's version gives a tired shrug, lifts the coffee cup and says flatly: "{line2}" {ending} Only the younger version says the first line, and only today's version says the second one, every word clearly and exactly as written. Audio: the natural sound of the scene and the two spoken lines, and nothing else: no music. Exactly two people, no extra limbs, no morphing, no cinematic look, no slow motion, no text, no subtitles, no logos.
+```
+
+### 3. Prompt 3 (Pet)
+
+*Kind: prompt*
+
+```text
+Use the two uploaded images as the base. They show the same pet years apart. The animal in the first image is the younger version: keep its species, breed, face, eye color, fur color, fur length, markings, young age and small size exactly as in the first image. The animal in the second image is today's version: keep its species, breed, face, eye color, fur color, fur length, markings, age and body size exactly as in the second image. Do not blend the two and do not make them the same age or size. An ordinary, unedited smartphone photo, taken at pet height. The place: {place}, a real, everyday place in natural light, with ordinary details, like a snapshot from someone's camera roll. The younger version is on the left. {arrive_photo} The younger version is playful, bright-eyed and full of energy, ears up, looking at today's version. A few steps away on the right, today's version sits looking tired and unimpressed, with sleepy, half-closed eyes, looking back at the younger one. Both whole bodies in frame, both faces clear and sharp. Photorealistic, natural fur detail and natural colors: no cinematic lighting, no color grading, no soft dreamy glow, not CGI, not a cartoon. Vertical 9:16. Exactly two animals, no people, no clothes. No flags, no signs, no text, no logos, no watermarks.
+```
+
+### 4. 3. Press the film button on the still to open AI Video with the still as the first frame. Settings: Kling 3.0, 10 s, 1080p, 9:16, sound on. The video prompt
+
+*Kind: video_prompt*
+
+```text
+An ordinary, unedited phone video filmed at pet height, in one continuous shot with no cuts, in natural light with a slight handheld shake, like a real clip on social media. Keep both animals' faces, fur, markings, ages and sizes exactly as in the image: the young one on the left is the pet in the past, and the older one on the right is the same pet today. {arrive_video} The younger version looks around in wonder, bounces over to today's version, sniffs it from head to tail and tilts its head in confusion. Today's version lets out a long, tired sigh, slowly lies down flat and closes its eyes. The younger version looks from its older self straight into the camera, shocked. Audio: the natural sound of the scene, one small surprised sound from the young pet and a long, tired sigh from the older pet. No music, no human voices, no talking. Exactly two animals, no people, no extra legs, no morphing, no cinematic look, no text, no subtitles, no logos.
+```
+

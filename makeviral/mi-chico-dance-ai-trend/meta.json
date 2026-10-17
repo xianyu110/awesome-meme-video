@@ -1,0 +1,50 @@
+{
+  "source": "makeviral",
+  "source_site": "https://www.makeviral.ai",
+  "slug": "mi-chico-dance-ai-trend",
+  "name": "Mi Chico Dance: Do the Trend From Your Photo",
+  "url": "https://www.makeviral.ai/templates/mi-chico-dance-ai-trend",
+  "markdown_url": "https://www.makeviral.ai/templates/mi-chico-dance-ai-trend.md",
+  "blurb": "The Mi Chico dance is the TikTok trend to DJ Goja's 2026 hit \"Mi Chico\", remixed with Jason Derulo in June: hand rolls over the chest, arm rolls, hands up by the head and hip sways.",
+  "updated": "2026-10-17",
+  "published": "2026-10-17",
+  "credits": 60,
+  "demo_videos": [
+    "https://www.makeviral.ai/media/templates/mi-chico-dance-ai-trend/original-pet-v2.mp4"
+  ],
+  "posters": [
+    "https://www.makeviral.ai/media/templates/mi-chico-dance-ai-trend/original-pet-v1.jpg"
+  ],
+  "prompts": [
+    {
+      "label": "1. The video prompt is filled in. Settings: kling-3-motion, 15 s, 720p, 9:16, sound off. The video prompt",
+      "variant": "Human",
+      "kind": "video_prompt",
+      "text": "Character replacement on the video, moment for moment. Replace the character in the video with the person from the uploaded image. Keep the camera movement and the timing of the video, as one continuous handheld shot. No text or logos. Photorealistic, identity consistent for the whole clip.\nKeep actions, poses, facial expressions and rhythm. Preserve the person's original facial features, maintain character consistency, no distortion, no glitches, no artifacts. The person dances in the place from the uploaded image, in the clothes and shoes from the uploaded image, not the beige tube top or the grey-green wide sweatpants of the dancer in the video, and keeps their own hair from the uploaded image, not long dark hair. Follow the dancer's moves and timing exactly: both hands up at the sides of the head, the hands framing the face, the arm swing and the hair flip, the steps toward the camera with hip sways, the wide side lunge, the arm rolls and the hand rolls in front of the chest, the chest brushes, the knee lift with a hand by the face, both hands up on top of the head with the elbows wide, and the arms thrown out at the end. Natural balance and stable ground contact. Exactly one person, no other people. One continuous shot, no cuts, no text, no captions, no logos."
+    },
+    {
+      "label": "1. The video prompt is filled in. Settings: Seedance 2.5, 15 s, 720p, 9:16, sound off. The video prompt",
+      "variant": null,
+      "kind": "video_prompt",
+      "text": "Character replacement on [Video 1], moment for moment. The woman on the left is now the person in [Image 1], and the man on the right is now the person in [Image 2].\nKeep the dance studio with the dark grey wall, the red ceiling, the small white wall unit, the pink side light and the grey floor, the camera movement and the timing of [Video 1], as one continuous shot. No text or logos. Photorealistic, identity consistent for the whole clip. Recreate the reference video [Video 1] shot for shot: the same fixed camera, framing, timing and dance moves, both dancers in full view from head to feet.\n\nDancer 1 (left) = the person in [Image 1], in EVERY frame: copy the exact face from [Image 1] - face shape, eye color and eye shape, eyebrows, nose, mouth, skin tone, age, hair color, hair length and hairstyle, and any beard, moustache, glasses or freckles exactly as in the photo. They wear the clothes and shoes from [Image 1]. NO grey cross-print T-shirt, no camo cargo pants and no red hair ends unless [Image 1] shows them.\n\nDancer 2 (right) = the person in [Image 2], in EVERY frame: copy the exact face from [Image 2] - face shape, eye color and eye shape, eyebrows, nose, mouth, skin tone, age, hair color, hair length and hairstyle, and any beard, moustache, glasses or freckles exactly as in the photo. They wear the clothes and shoes from [Image 2]. NO cap, no black T-shirt and no olive cargo pants unless [Image 2] shows them.\n\nThe same real people in every frame, from the first second to the last, so their friends instantly recognize them, also during the hair flips and the turns. Never morph, never drift back to the original dancers' faces, never add or remove facial hair. Do not mix the two faces: [Image 1] is only dancer 1 on the left, [Image 2] is only dancer 2 on the right. Both change: no one from the video stays.\n\nThe dance, matching the reference second by second, on the beat, both dancers in sync:\n0-4.5 s: they stand side by side and sway to the intro, one hand on the chest, the other hand brushing the hair and the face.\n4.5-6.5 s: wide lunges to the side with big arm sweeps.\n6.5-9 s: arm rolls and hand waves in front of the body, quick steps.\n9-11 s: hand flicks by the face, chest brushes, a hair flip.\n11-13 s: hand rolls at the chest, small steps and hip sways.\n13-15 s: both hands up behind the head, elbows wide, a sway to the end pose.\n\nAnatomy rules: one head per person, on that person's own shoulders. A face never appears on knees, legs, hands or clothes. Exactly two people. Natural balance, stable ground contact. No extra dancers, duplicate bodies, extra limbs, fused fingers, text, logos or watermark."
+    },
+    {
+      "label": "1. The video prompt is filled in. Settings: Seedance 2.5, 14 s, 720p, 9:16, sound off. The video prompt",
+      "variant": "Pet",
+      "kind": "video_prompt",
+      "text": "Character replacement on [Video 1], moment for moment. The pink bunny in the rhinestone sunglasses is now the pet in [Image 1].\nKeep the plain white studio, the camera movement and the timing of [Video 1], as one continuous shot. No text or logos. Photorealistic, identity consistent for the whole clip. Recreate the reference video [Video 1] shot for shot: the same white background and soft shadow, the same fixed camera with the same short push-in, the same framing, timing and dance moves.\n\nThe dancer = the pet in [Image 1], in every frame: the same species and breed, head shape, muzzle, eyes, ears, fur colors, fur length, markings and body shape as in [Image 1], with the natural body volume and proportions of that animal: never flattened, squashed, stretched or merged with anything, so its owner instantly recognizes it from the first second to the last. Real fur, a real animal, not a cartoon. It stands upright on its hind legs like a person the whole time. Never drift back to the bunny of the original video: no pink fur, no long floppy bunny ears and no white belly patch unless [Image 1] shows them. The pet wears the same rhinestone sunglasses and the same thin gold chain with a small gold pendant, and nothing else: its own fur from head to toe. If [Image 1] shows a dog, a cat or another animal, that animal dances in the same place with the same moves, with its own ears and muzzle.\n\nThe pet reproduces the bunny's full dance frame by frame with the same timing, with a happy, cheeky face. Matching the reference second by second:\n0-1 s: it stands facing the camera and points one front paw at the lens, then rolls both paws over its belly.\n1-2 s: a step to the side, one paw on the chest.\n2-3 s: a quick turn sideways with a hop, the paws swinging.\n3-5.5 s: back to the camera, little side steps, the paws rolling in front of the chest and a clap by the face.\n5.5-7 s: it leans in toward the camera with one paw up by the face, then steps back.\n7-9 s: a quick turn to the side, then both paws brushing the chest and crossed.\n9-12 s: both front paws up beside the head, then behind the head, with a sway.\n12-14 s: little fists at the belly with a bounce, then one paw out toward the camera.\n\nThe pet keeps real animal anatomy: furry front legs ending in round paws covered in its own fur, never human hands, no bare skin, no fingers. One head only, two hind legs and two front legs, no extra legs or paws. No text, no captions, no logos, no watermark, no people, no extra animals."
+    }
+  ],
+  "variant_headings": [
+    "What the Mi Chico Dance video looks like",
+    "How to make the Mi Chico Dance video on MakeViral",
+    "Which photo works best?",
+    "What happens in the Mi Chico dance video?",
+    "How do I make the Mi Chico AI video?",
+    "Where does the background of my video come from?",
+    "Will the dancers from the original clips be in my video?",
+    "Other AI video templates and tools",
+    "Make your own Mi Chico Dance video"
+  ],
+  "prompt_count": 3
+}

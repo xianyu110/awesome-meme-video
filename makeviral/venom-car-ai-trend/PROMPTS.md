@@ -1,0 +1,33 @@
+# Venom Car Trend: Black Liquid Builds Your Car
+
+- Source: [makeviral](https://www.makeviral.ai/templates/venom-car-ai-trend)
+- Slug: `venom-car-ai-trend`
+
+The Venom car trend is a TikTok AI edit: a glossy black liquid, like the symbiote in the Venom films, crawls across a dark car park and builds your own car part by part until the headlights switch on.
+
+## Demo videos (CDN)
+
+- https://www.makeviral.ai/media/templates/venom-car-ai-trend/original-main-v2.mp4
+
+## Posters
+
+- https://www.makeviral.ai/media/templates/venom-car-ai-trend/original-main-v1.jpg
+
+## Prompts
+
+### 1. 1. The video prompt is filled in. Settings: Seedance 2.5, 10 s, 720p, 9:16, sound on. The video prompt
+
+*Kind: video_prompt*
+
+```text
+Create an ultra-realistic 10-second cinematic sci-fi car transformation video. CAR: the car in [Image 1], in its own paint color from [Image 1]. Preserve its exact real-world design, proportions, headlights, grille, wheels and aerodynamic details throughout. SETTING: Dark underground parking garage at night. Concrete pillars, fluorescent ceiling lights, reflective floor, subtle haze, cool white lighting, faint red reflections and deep shadows. Same location throughout. 0–1.5s: Extreme low-angle macro shot of a small, glossy black living liquid on the floor. It spreads, rises and forms elastic, spider-like tendrils and curved claws with realistic fluid physics. 1.5–3.5s: Rapid cinematic cuts reveal an engine and chassis emerging from the liquid. Gears, suspension, radiator, axles and metallic components precisely assemble themselves as black tendrils connect the machinery. 3.5–5.5s: The liquid splashes across the floor, forming organic tentacles, spider-like legs, curved claws and dense moving structures. Alternate macro shots with the evolving mechanical car. 5.5–7.5s: Black liquid flows over the chassis, forming the hood, bumper, headlights, wheel arches and aerodynamic panels. The vehicle gradually becomes the exact specified model. 7.5–9s: Reveal the completed car, stationary in the garage. Bright white headlights switch on. Show dramatic low-angle three-quarter shots, glossy reflections, windows and bodywork details. 9–10s: Symmetrical front hero shot with illuminated headlights and subtle black liquid beneath the bumper. Quick cut to a dramatic three-quarter view of the completed vehicle.
+
+THE CAR is the one in [Image 1], whatever it is (a car, an SUV, a pickup, a van or a sports car): copy it exactly from [Image 1] (the body shape and proportions, the paint color and finish, the grille shape, the headlights and taillights, the wheels and rims, the mirrors, spoilers, body kit, roof and every other part it has), so its owner knows it at once. Once it is complete, it is the same car to the last frame: never a different or generic model, never repainted; its paint color stays the one in [Image 1]. If [Image 1] shows people, leave them out: no people anywhere.
+
+THE LIQUID is only glossy black living liquid, like wet tar: tendrils, claws, spikes and splashes. It never forms a face, eyes, teeth, a tongue, a creature or a person, and never a symbol or an emblem.
+
+Audio: deep bass hits, wet liquid squelches, metal clicks as the parts lock together, a low hum as the headlights switch on and the engine starting at the end. No music, no lyrics, no talking.
+
+Vertical 9:16. No badges, emblems, brand names or lettering on the car and no readable number plate, even if the photo shows them. No text, no captions, no logos, no watermark.
+```
+

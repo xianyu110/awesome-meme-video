@@ -1,0 +1,47 @@
+{
+  "source": "makeviral",
+  "source_site": "https://www.makeviral.ai",
+  "slug": "flying-roadster-ai-trend",
+  "name": "Flying Tesla Roadster AI Video: Rocket Over the Traffic Jam",
+  "url": "https://www.makeviral.ai/templates/flying-roadster-ai-trend",
+  "markdown_url": "https://www.makeviral.ai/templates/flying-roadster-ai-trend.md",
+  "blurb": "The flying Tesla Roadster meme is the AI video trend that followed Tesla's Roadster demo of 15 October 2026: you sit stuck in traffic, press a button, rockets fire and your car flies over the jam while your coffee goes everywhere.",
+  "updated": "2026-10-17",
+  "published": "2026-10-17",
+  "credits": 126,
+  "demo_videos": [
+    "https://www.makeviral.ai/media/templates/flying-roadster-ai-trend/original-main-v2.mp4"
+  ],
+  "posters": [
+    "https://www.makeviral.ai/media/templates/flying-roadster-ai-trend/original-main-v1.jpg"
+  ],
+  "prompts": [
+    {
+      "label": "1. The video prompt is filled in. Settings: Seedance 2.5, 10 s, 720p, 9:16, sound on. The video prompt",
+      "variant": null,
+      "kind": "video_prompt",
+      "text": "SHOT 1 [00:00-00:03] Handheld iPhone from the shoulder of a jammed freeway on a sunny day: the subject sits at the wheel of THE CAR, seen through the open driver's window from a step away, the face large and sharp: exactly the face from [Image 1]. Their car creeps past in the jam. The subject is fed up: throws both hands up, \"what is this?!\", shakes their head at the jam. Then they glance at the phone, a slow smirk, and slam a button on the dashboard. Four round rocket BOOSTER nozzles under the REAR bumper of the car IGNITE with white-hot flame and smoke; the phone shakes from the blast.\nSHOT 2 [00:03-00:06] HARD CUT inside the car: the camera sits in the BACK SEAT looking FORWARD past the subject's shoulder and out the windshield. The car RISES: through the windshield we see the roofs of the jammed cars drop away below, sky ahead, and further down the freeway the jam ending at orange traffic cones with EMPTY road beyond. The subject grips the wheel, leaning forward. The takeaway coffee cup in the cup holder jumps out and splashes across the dashboard.\nSHOT 3 [00:06-00:10] HARD CUT to a shot from BEHIND and slightly above the car, looking forward down the freeway: we see the car's REAR (tail lights and blazing boosters facing us) as it flies FORWARD, NOSE FIRST, AWAY from the camera, HIGH over the long line of stopped cars below, the jam ending at orange cones with EMPTY freeway beyond. It drops down past the cones and LANDS hard on the empty road, a burst of tyre smoke, then speeds off into the distance. The jam sits stuck below and behind it.\n\nTHE SUBJECT IS the person in [Image 1], with the same face, hair, age, build and clothes, in every shot: copy the exact face from [Image 1] (the face shape, eye color and eye shape, eyebrows, nose, mouth, skin tone, age, hair color, hair length and hairstyle, and any beard, moustache, glasses or freckles), so their friends recognize them at once. The same real person from the first frame to the last; never morph. If [Image 1] shows an animal, the driver is that animal sitting upright at the wheel, with its own face, fur and markings.\nTHE CAR IS a sleek, low, white two-seat electric sports car with a dark glass roof: exactly that car in every shot: the same shape, colour and wheels, with no badge, emblem, lettering or readable number plate. THE WHEELS NEVER CHANGE: four round, upright, normal tyres, never folding, turning flat or becoming thrusters.\n\nSound: traffic and distant horns, the driver's fed-up \"what is this?!\", a button click, a rising electric whine, a deep roaring rocket blast and rushing wind, a thud and tyre squeal on the landing. No music.\n\n真人实拍、五官清晰、面部稳定、不扭曲、不变形、人体结构正常、比例自然、同一角色、服装一致、发型不变.\n\nAvoid: the car flying backward, the car turning around, wheels folding or becoming thrusters, the car hitting other cars, a different car, the car changing colour, the face changing, text, watermarks, morphing, distortion. One person in the car. No badges or lettering on any car, no readable plates or road signs, no logos, no subtitles."
+    },
+    {
+      "label": "1. The video prompt is filled in. Settings: Seedance 2.5, 10 s, 720p, 9:16, sound on. The video prompt",
+      "variant": null,
+      "kind": "video_prompt",
+      "text": "SHOT 1 [00:00-00:03] Handheld iPhone from the shoulder of a jammed freeway on a sunny day: the subject sits at the wheel of THE CAR, seen through the open driver's window from a step away, the face large and sharp: exactly the face from [Image 1]. Their car creeps past in the jam. The subject is fed up: throws both hands up, \"what is this?!\", shakes their head at the jam. Then they glance at the phone, a slow smirk, and slam a button on the dashboard. Four round rocket BOOSTER nozzles under the REAR bumper of the car IGNITE with white-hot flame and smoke; the phone shakes from the blast.\nSHOT 2 [00:03-00:06] HARD CUT inside the car: the camera sits in the BACK SEAT looking FORWARD past the subject's shoulder and out the windshield. The car RISES: through the windshield we see the roofs of the jammed cars drop away below, sky ahead, and further down the freeway the jam ending at orange traffic cones with EMPTY road beyond. The subject grips the wheel, leaning forward. The takeaway coffee cup in the cup holder jumps out and splashes across the dashboard.\nSHOT 3 [00:06-00:10] HARD CUT to a shot from BEHIND and slightly above the car, looking forward down the freeway: we see the car's REAR (tail lights and blazing boosters facing us) as it flies FORWARD, NOSE FIRST, AWAY from the camera, HIGH over the long line of stopped cars below, the jam ending at orange cones with EMPTY freeway beyond. It drops down past the cones and LANDS hard on the empty road, a burst of tyre smoke, then speeds off into the distance. The jam sits stuck below and behind it.\n\nTHE SUBJECT IS the person in [Image 1], with the same face, hair, age, build and clothes, in every shot: copy the exact face from [Image 1] (the face shape, eye color and eye shape, eyebrows, nose, mouth, skin tone, age, hair color, hair length and hairstyle, and any beard, moustache, glasses or freckles), so their friends recognize them at once. The same real person from the first frame to the last; never morph. If [Image 1] shows an animal, the driver is that animal sitting upright at the wheel, with its own face, fur and markings.\nTHE CAR IS the car in [Image 2]: exactly that car in every shot: the same body shape, size, colour, grille, lights and wheels, any kind of vehicle, but with no badge, emblem, lettering or readable number plate, even if [Image 2] shows them. If [Image 2] shows people, leave them out. THE WHEELS NEVER CHANGE: four round, upright, normal tyres, never folding, turning flat or becoming thrusters.\n\nSound: traffic and distant horns, the driver's fed-up \"what is this?!\", a button click, a rising electric whine, a deep roaring rocket blast and rushing wind, a thud and tyre squeal on the landing. No music.\n\n真人实拍、五官清晰、面部稳定、不扭曲、不变形、人体结构正常、比例自然、同一角色、服装一致、发型不变.\n\nAvoid: the car flying backward, the car turning around, wheels folding or becoming thrusters, the car hitting other cars, a different car, the car changing colour, the face changing, text, watermarks, morphing, distortion. One person in the car. No badges or lettering on any car, no readable plates or road signs, no logos, no subtitles."
+    }
+  ],
+  "variant_headings": [
+    "What the Flying Roadster AI video looks like",
+    "How to make the Flying Roadster AI video on MakeViral",
+    "Which photo works best?",
+    "What happens in the flying Tesla Roadster AI video, second by second?",
+    "Selfie or your car: which flying car video should you make?",
+    "Is the Tesla Roadster flying video real or AI?",
+    "How do I make a Tesla Roadster AI video with my photo?",
+    "Can I use a photo of my pet?",
+    "How long is the video and what format is it?",
+    "Is the video real?",
+    "Other AI video templates and tools",
+    "Make your own Flying Roadster AI video"
+  ],
+  "prompt_count": 2
+}

@@ -1,0 +1,39 @@
+{
+  "source": "makeviral",
+  "source_site": "https://www.makeviral.ai",
+  "slug": "slap-everyone-ai-trend",
+  "name": "Slap Everyone Meme: Slap the Whole Crowd in an AI Video",
+  "url": "https://www.makeviral.ai/templates/slap-everyone-ai-trend",
+  "markdown_url": "https://www.makeviral.ai/templates/slap-everyone-ai-trend.md",
+  "blurb": "The slap everyone meme is an AI video trend: a man argues with you on the stairs of a concert venue at night, you slap him with one quick open hand, then slap three more men in a row, and each one flops onto the steps.",
+  "updated": "2026-10-16",
+  "published": "2026-10-16",
+  "credits": 126,
+  "demo_videos": [
+    "https://www.makeviral.ai/media/templates/slap-everyone-ai-trend/original-stairs-v2.mp4"
+  ],
+  "posters": [
+    "https://www.makeviral.ai/media/templates/slap-everyone-ai-trend/original-stairs-v1.jpg"
+  ],
+  "prompts": [
+    {
+      "label": "1. The video prompt is filled in. Settings: Seedance 2.5, 10 s, 720p, 9:16, sound on. The video prompt",
+      "variant": null,
+      "kind": "video_prompt",
+      "text": "A slap everyone meme video made from [Image 1]: the person in [Image 1] slaps a whole group of loud men, one after another, on the stairs of a concert venue at night. Vertical 9:16, filmed like a real handheld phone video from the crowd, photorealistic, with a little camera shake.\n\nThe slapper is the person in [Image 1], in every frame: copy the exact face from [Image 1] (the face shape, eye color and eye shape, eyebrows, nose, mouth, skin tone, age, hair color, hair length and hairstyle, and any beard, moustache, glasses or freckles), the same build, and the clothes and shoes from [Image 1]. The slapper is an adult. The same face from the first frame to the last, so their friends recognize them at once. Never morph. If [Image 1] shows an animal, the slapper is that animal standing upright, with its own face, fur and markings, and it slaps with its front paw, not a person.\n\nThe place: the wide concrete stairs inside a concert venue at night, warm orange and red light from the ceiling, glowing strip lights along the edges of the steps, metal handrails, a small crowd of adult men standing on the steps. One man holds up his phone to film.\n\nThe four men, all generic adults in their twenties and thirties: a stocky man in a beige hoodie, a bald man in a maroon T-shirt, a man in a black cap and a tall man in a denim jacket. Nobody from the crowd looks like the person in [Image 1].\n\n0-2 s: a medium shot: the man in the beige hoodie waves his hands and argues loudly in the slapper's face; the slapper stands calm and stares back.\n2-3 s: the slapper gives him one quick open-hand slap on the cheek with a loud cartoon slap sound; his head turns, he spins once and flops down onto the steps.\n3-6.5 s: without a word the slapper turns and slaps the bald man, the man in the cap and the tall man, one after another, in a fast rhythm: slap, slap, slap. Each one spins and flops down onto the steps like a rag doll, completely unhurt.\n6.5-8.5 s: the camera pulls back a little: the four men sit on the steps, rubbing their cheeks, confused; the crowd gasps and laughs.\n8.5-10 s: a close-up from the chest up: the slapper dusts off both hands, looks around and says calmly to the camera: \"Enough.\" The face is large and sharp.\n\nAudio: crowd chatter, the loud argument, crisp cartoon slap sounds, comic thuds on the steps, gasps and laughter, then the one word \"Enough.\" No music, no lyrics.\n\nPure slapstick comedy, like a silent film gag: open-hand slaps on the cheek only, no punches, no kicks, no weapons. Nobody gets hurt: no blood, no bruises, no injury, the men just flop down and sit up confused. Exactly one person from [Image 1]. Anatomy rules: two arms and five fingers on each hand; the slapper never merges with another man. No text, no captions, no logos, no watermark."
+    }
+  ],
+  "variant_headings": [
+    "What the Slap Everyone video looks like",
+    "How to make the Slap Everyone video on MakeViral",
+    "Which photo works best?",
+    "What happens in the slap everyone video?",
+    "How do you post your slap everyone video?",
+    "How do I make a video of me slapping everyone?",
+    "Can I use someone else's photo?",
+    "Is my photo private?",
+    "Other AI video templates and tools",
+    "Make your own Slap Everyone video"
+  ],
+  "prompt_count": 1
+}

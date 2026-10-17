@@ -1,0 +1,50 @@
+{
+  "source": "makeviral",
+  "source_site": "https://www.makeviral.ai",
+  "slug": "ai-dancing-dog-video",
+  "name": "AI Dog Dancing Video: Make Your Pet Dance",
+  "url": "https://www.makeviral.ai/templates/ai-dancing-dog-video",
+  "markdown_url": "https://www.makeviral.ai/templates/ai-dancing-dog-video.md",
+  "blurb": "An AI dog dancing video is a short clip where your own dog, or cat, stands upright in your home and dances like a person: side steps, paw waves, a spin and a proud final pose.",
+  "updated": "2026-10-12",
+  "published": "2026-09-30",
+  "credits": 128,
+  "demo_videos": [
+    "https://www.makeviral.ai/media/templates/ai-dancing-dog-video/example.mp4"
+  ],
+  "posters": [
+    "https://www.makeviral.ai/media/templates/ai-dancing-dog-video/example-input.jpg",
+    "https://www.makeviral.ai/media/templates/ai-dancing-dog-video/example-poster.jpg"
+  ],
+  "prompts": [
+    {
+      "label": "1. Open [AI Photo with this template](https://www.makeviral.ai/photo?template=ai-dancing-dog-video) and add your photo (your pet, whole body). The photo prompt is filled in",
+      "variant": "Pet",
+      "kind": "photo_prompt",
+      "text": "Use the uploaded image as the base. Keep the animal's breed, face, eye color, fur color and markings exactly the same. Show the same animal standing upright on its hind legs in a confident, human-like pose, front paws loose like arms, full body from ears to feet, facing the camera. Keep the same real room from the original photo, with the same walls, floor and light, and extend it so there is clear floor to dance on. Photorealistic, vertical 9:16. Exactly one animal. No text, no logos."
+    },
+    {
+      "label": "3. Press the film button on the still to open AI Video with the still as the first frame. Settings: Seedance 2.5, 10 s, 720p, 9:16, sound on. The video prompt",
+      "variant": null,
+      "kind": "video_prompt",
+      "text": "The pet stands upright in its home and does a happy, bouncy dance: side steps, paw waves, a little spin, a hip wiggle, then a proud freeze pose to the camera. Keep the animal's face, fur and markings exactly as in the image. Smooth, funny, natural motion, no extra paws, no morphing. Handheld phone look, full body in frame. Audio: an original upbeat dance beat. No text, no logos."
+    }
+  ],
+  "variant_headings": [
+    "What is the Dancing Pet trend, and where did it start?",
+    "Dancing Pet trend timeline",
+    "What the Dancing Pet video looks like",
+    "How to make the Dancing Pet video on MakeViral",
+    "Which photo works best?",
+    "How do you post an AI dancing pet video?",
+    "Dancing Pet trend questions",
+    "How do I make an AI dancing video of my dog?",
+    "Can I make an AI cat dancing video?",
+    "What is the best AI dancing video generator for pets?",
+    "Can I make my pet do a specific TikTok dance?",
+    "Can I use a photo with two pets?",
+    "Other AI video templates and tools",
+    "Make your own Dancing Pet video"
+  ],
+  "prompt_count": 2
+}

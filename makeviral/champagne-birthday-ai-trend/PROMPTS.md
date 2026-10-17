@@ -1,0 +1,72 @@
+# Champagne Birthday Trend: Pop the Bottle, Freeze in Black and White
+
+- Source: [makeviral](https://www.makeviral.ai/templates/champagne-birthday-ai-trend)
+- Slug: `champagne-birthday-ai-trend`
+
+The champagne birthday trend is a TikTok birthday video: you sit on a park bench at night, pop a bottle of champagne, a jet shoots straight up and the clip turns black and white with "Happy Birthday" in white letters.
+
+## Demo videos (CDN)
+
+- https://www.makeviral.ai/media/templates/champagne-birthday-ai-trend/original-pop-v2.mp4
+- https://www.makeviral.ai/media/templates/champagne-birthday-ai-trend/original-sunroof-v2.mp4
+
+## Posters
+
+- https://www.makeviral.ai/media/templates/champagne-birthday-ai-trend/original-pop-v1.jpg
+- https://www.makeviral.ai/media/templates/champagne-birthday-ai-trend/original-sunroof-v1.jpg
+
+## Prompts
+
+### 1. 1. The video prompt is filled in. Settings: Seedance 2.5, 10 s, 720p, 9:16, sound off. The video prompt
+
+*Kind: video_prompt*
+
+```text
+Recreate the reference video [Video 1] shot for shot: the same park at night, the same long grey concrete bench on the red brick paving, the same tree trunk, lamp posts, lawn and small white house behind, the same one fixed camera, the same timing and moves, and the same switch to black and white at the moment the champagne sprays, with the same white words HAPPY BIRTHDAY! at the top of the frame. The ONLY change: the woman with long straight dark hair in the black blazer and black lace trousers, who walks in with the champagne bottle, sits on the bench and pops it, is now the person in [Image 1].
+
+The birthday person = the person in [Image 1], in EVERY frame: copy the exact face from [Image 1] (the face shape, eye color and eye shape, eyebrows, nose, mouth, skin tone, age, hair color, hair length and hairstyle, and any beard, moustache, glasses or freckles), exactly as in the photo. They wear the clothes from [Image 1], with shoes that fit the outfit; if [Image 1] shows only the upper body, invent the rest so it matches naturally. Never the black blazer and the black lace trousers from the video unless [Image 1] shows them. NO long straight dark hair unless [Image 1] shows it: the hair color, length and style of [Image 1]. The same real person in every frame, from the first second to the last, so their friends recognize them at once, also while they walk in, while they laugh with the head back and in the black-and-white part. Never morph, never drift back to the original woman's face.
+
+THE MOVES, second by second, exactly as in [Video 1]:
+00:00-00:02: the person walks in from the right with a dark champagne bottle in one hand and turns to the camera.
+00:02-00:03.3: they sit down in the middle of the bench, the bottle upright on the bench at their side, and smile at the camera.
+00:03.3-00:06: the cork pops; the picture turns black and white; a tall jet of champagne shoots straight up from the bottle like a fountain, high above the bench, and HAPPY BIRTHDAY! writes in at the top with small sparkles. The person laughs and looks up at the jet.
+00:06-00:10: the spray falls back as drops and white foam on the bench and the paving; the person sits still and smiles at the camera, still in black and white, the words still at the top.
+
+Real live-action phone footage at night, clear face, no distortion.
+
+Avoid: other text or captions, logos, a brand or label on the bottle, watermarks, extra people, morphing, facial distortion.
+
+Anatomy rules: one head only, on the person's own shoulders. Exactly one person. Two arms, two legs, five fingers on each hand. One bottle. A face never appears on hands, legs or clothes.
+```
+
+### 2. 1. The video prompt is filled in. Settings: Seedance 2.5, 10 s, 720p, 9:16, sound on. The video prompt
+
+*Kind: video_prompt*
+
+```text
+Create a 10-second, vertical 9:16 ultra-realistic birthday celebration video, like a real phone video at night.
+
+The main character is the person in [Image 1], in every frame: copy the exact face from [Image 1] (the face shape, eye color and eye shape, eyebrows, nose, mouth, skin tone, age, hair color, hair length and hairstyle, and any beard, moustache, glasses or freckles), the hairstyle, skin tone, body proportions and clothing from [Image 1], so their friends recognize them at once. The face stays the same from the first frame to the last, also while they laugh with the head back. Never blend faces.
+
+THE CAR: a boxy black luxury SUV with a square body, a flat roof with an open sunroof, round headlights and a spare wheel on the back, glossy black paint. No badges, no emblems, no grille logo, no lettering, no readable number plate. The same car in every frame.
+
+THE PLACE: a wide palm-lined boulevard in a city of tall glass towers at night, the towers lit up, warm street lights, light traffic. The same place in every frame.
+
+The main character emerges naturally through the OPEN SUNROOF, with the upper body above the roof and the lower body inside the car. The character must NOT stand on the roof or the hood. A separate driver remains seated inside the car, seen only as a dark shape behind the tinted window.
+
+0-1.5 s: the character holds the champagne bottle with both hands and shakes it vigorously above the sunroof as the car rolls slowly along.
+1.5-3 s: champagne sprays upward. The character tilts the head backward and raises the bottle toward the sky.
+3-4.5 s: the character keeps spraying, slightly adjusting the bottle angle, celebrating.
+4.5-6 s: the character raises the bottle higher, then brings out a small gold party confetti cannon (a short cardboard tube with a twist base) with the other hand and points it at the champagne spray in the air.
+6-7.5 s: the character twists the confetti cannon: a burst of gold confetti flies up into the spray, and the champagne spray bursts into a big radial splash of golden droplets and confetti high above the car, lit by the city lights.
+7.5-10 s: the golden droplets and the confetti drift down. The character lowers the bottle and the cannon, turns toward the camera and laughs, while the car keeps rolling.
+
+Camera: a side view from the roadside that tracks the car, handheld phone footage, one continuous shot, no cuts, no orbiting, no big zooms. Keep the character, the bottle, the cannon and the splash clearly visible.
+
+The splash is liquid and paper confetti only: real droplets and mist. No fire, no smoke, no sparks, no explosion.
+
+Audio: an upbeat original party tune, the champagne spray, the pop of the cannon, laughter and city traffic. No words.
+
+Anatomy rules: one head only, on the character's own shoulders. Two arms, five fingers on each hand. Exactly one person outside the car. Do not merge the character with the driver. No text, no captions, no logos, no label on the bottle, no watermark.
+```
+

@@ -1,0 +1,63 @@
+# Car Jump AI Video: A Truck Flies Over You, You Stay Calm
+
+- Source: [makeviral](https://www.makeviral.ai/templates/ai-car-jump-trend)
+- Slug: `ai-car-jump-trend`
+
+The car jump AI video is the "unbothered" trend: you sit calm in a folding camp chair in a golden field, raise one fist, and a black pickup flies over the field behind you in slow motion and lands at your back.
+
+## Demo videos (CDN)
+
+- https://www.makeviral.ai/media/templates/ai-car-jump-trend/original-main-v2.mp4
+
+## Posters
+
+- https://www.makeviral.ai/media/templates/ai-car-jump-trend/original-main-v1.jpg
+
+## Prompts
+
+### 1. 1. The video prompt is filled in. Settings: Seedance 2.5, 10 s, 720p, 9:16, sound off. The video prompt
+
+*Kind: video_prompt*
+
+```text
+Track the exact camera movement, framing, facial expressions, and body movements from the reference video [Video 1]. Keep the face, hairstyle, body, clothing, and overall appearance exactly the same as in the reference image [Image 1], with no changes or distortion. Use the video's background and environment. Output in 9:16 vertical format.
+
+Recreate the reference video [Video 1] shot for shot: the dry golden field at sunset with the rusty autumn bushes behind, the black folding camp chair, the black pickup truck that bursts over the low ridge behind the chair, flies in slow motion over the space just behind it in a huge cloud of dust, lands at the back of the chair and rolls past, the same long-lens handheld camera, the same framing, quick cuts and timing. The ONLY change: the woman in the camp chair is now the person in [Image 1]. The black pickup stays as in [Video 1], with no badges.
+
+The one in the camp chair = the person in [Image 1], in EVERY shot: copy the exact face from [Image 1] - face shape, eye color and eye shape, eyebrows, nose, mouth, skin tone, age, hair color, hair length and hairstyle, and any beard, moustache, glasses or freckles exactly as in the photo. They wear the clothes from [Image 1]; if [Image 1] shows only the head or the upper body, invent the rest so it matches naturally. The same real person in every frame, from the first second to the last, so their friends instantly recognize them, also in the close shots at the end when the truck passes behind the chair. Never morph, never drift back to the original woman's face, never add or remove facial hair. NO sunglasses: no glasses of any kind unless [Image 1] shows glasses. No slicked-back bun, no black scarf, no taupe wool coat, no black leather trousers and no earrings unless [Image 1] shows them. If [Image 1] shows an animal, the one in the chair is that animal, sitting upright in the camp chair, with its own face, fur and markings and the natural body volume and proportions of that animal: never flattened, squashed, stretched or merged with anything.
+
+The moves, matching the reference second by second:
+0-1.3 s: sits calm in the camp chair, legs crossed, one forearm resting on the knee, and glances around.
+1.3-3.3 s: raises one hand to shoulder height in a loose fist, as if snapping the fingers, and holds it while the black pickup bursts over the low ridge behind (from 1.8 s) in a cloud of dust.
+3.3-6.8 s: the black pickup hangs in the air in slow motion just behind the chair, front to the camera, wheels hanging, in a huge cloud of dust. The person lowers the hand, rests both forearms on the crossed knee and stays perfectly still and calm, with a small, cool look, never turning around.
+6.8-8.8 s: quick cuts: the black pickup lands right behind the chair and rolls toward the camera.
+8.8-10 s: the black pickup passes close behind the chair; the person stays seated and looks into the camera, unbothered.
+
+Anatomy rules: one head only, on the person's own shoulders. Two arms and two hands. The vehicle never touches the person or the chair. No badges, emblems or lettering on the vehicle, no readable number plate, no flag on the vehicle, no text, no logos, no watermark, no extra people.
+```
+
+### 2. 1. The video prompt is filled in. Settings: Seedance 2.5, 10 s, 720p, 9:16, sound off. The video prompt
+
+*Kind: video_prompt*
+
+```text
+Use the reference video [Video 1] as-is. Replace the person with the person from [Image 1]. Replace the vehicle with the vehicle from [Image 2] (same model, color, design).
+
+Track the exact camera movement, framing, facial expressions, and body movements from the reference video [Video 1]. Keep the face, hairstyle, body, clothing, and overall appearance exactly the same as in the reference image [Image 1], with no changes or distortion. Use the video's background and environment. Output in 9:16 vertical format.
+
+Recreate the reference video [Video 1] shot for shot: the dry golden field at sunset with the rusty autumn bushes behind, the black folding camp chair, the black pickup truck that bursts over the low ridge behind the chair, flies in slow motion over the space just behind it in a huge cloud of dust, lands at the back of the chair and rolls past, the same long-lens handheld camera, the same framing, quick cuts and timing. The ONLY changes: the woman in the camp chair is now the person in [Image 1], and the black pickup is now the vehicle from [Image 2].
+
+The one in the camp chair = the person in [Image 1], in EVERY shot: copy the exact face from [Image 1] - face shape, eye color and eye shape, eyebrows, nose, mouth, skin tone, age, hair color, hair length and hairstyle, and any beard, moustache, glasses or freckles exactly as in the photo. They wear the clothes from [Image 1]; if [Image 1] shows only the head or the upper body, invent the rest so it matches naturally. The same real person in every frame, from the first second to the last, so their friends instantly recognize them, also in the close shots at the end when the truck passes behind the chair. Never morph, never drift back to the original woman's face, never add or remove facial hair. NO sunglasses: no glasses of any kind unless [Image 1] shows glasses. No slicked-back bun, no black scarf, no taupe wool coat, no black leather trousers and no earrings unless [Image 1] shows them. If [Image 1] shows an animal, the one in the chair is that animal, sitting upright in the camp chair, with its own face, fur and markings and the natural body volume and proportions of that animal: never flattened, squashed, stretched or merged with anything.
+
+The vehicle = the vehicle in [Image 2], in EVERY shot where the truck shows in [Video 1]: the same body shape, size, paint color, grille, headlights, wheels and roof as in [Image 2], whatever kind of vehicle it is. It takes the same path at the same moments as the truck in [Video 1]: over the ridge, through the air behind the chair in slow motion, the landing and the pass. Never the black pickup from [Video 1]. Nobody rides on it or stands next to it; if [Image 2] shows people, leave them out. No badges, emblems or lettering on it and no readable number plate, even if [Image 2] shows them.
+
+The moves, matching the reference second by second:
+0-1.3 s: sits calm in the camp chair, legs crossed, one forearm resting on the knee, and glances around.
+1.3-3.3 s: raises one hand to shoulder height in a loose fist, as if snapping the fingers, and holds it while the vehicle from [Image 2] bursts over the low ridge behind (from 1.8 s) in a cloud of dust.
+3.3-6.8 s: the vehicle from [Image 2] hangs in the air in slow motion just behind the chair, front to the camera, wheels hanging, in a huge cloud of dust. The person lowers the hand, rests both forearms on the crossed knee and stays perfectly still and calm, with a small, cool look, never turning around.
+6.8-8.8 s: quick cuts: the vehicle from [Image 2] lands right behind the chair and rolls toward the camera.
+8.8-10 s: the vehicle from [Image 2] passes close behind the chair; the person stays seated and looks into the camera, unbothered.
+
+Anatomy rules: one head only, on the person's own shoulders. Two arms and two hands. The vehicle never touches the person or the chair. No badges, emblems or lettering on the vehicle, no readable number plate, no flag on the vehicle, no text, no logos, no watermark, no extra people.
+```
+

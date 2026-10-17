@@ -1,0 +1,51 @@
+# Bob Filter Prank: AI Cuts Your Long Hair Into a Bob
+
+- Source: [makeviral](https://www.makeviral.ai/templates/ai-bob-haircut-filter)
+- Slug: `ai-bob-haircut-filter`
+
+The bob filter prank is the TikTok trend where an AI template turns one photo into a video of you cutting your long hair into a sleek, blunt bob with scissors.
+
+## Demo videos (CDN)
+
+- https://www.makeviral.ai/media/templates/ai-bob-haircut-filter/original-main-v2.mp4
+- https://www.makeviral.ai/media/templates/ai-bob-haircut-filter/original-prank-v2.mp4
+
+## Posters
+
+- https://www.makeviral.ai/media/templates/ai-bob-haircut-filter/original-main-v1.jpg
+- https://www.makeviral.ai/media/templates/ai-bob-haircut-filter/original-prank-v1.jpg
+
+## Prompts
+
+### 1. 1. The video prompt is filled in. Settings: Seedance 2.5, 10 s, 720p, 9:16, sound on. The video prompt
+
+*Kind: video_prompt*
+
+```text
+A viral AI haircut prank video: the person from [Image 1] cuts their own long hair into a blunt bob with scissors, filmed like a real front-camera phone video. Photorealistic, natural light, fine phone-camera grain, vertical 9:16.
+
+The person is the one in [Image 1], in every frame: copy the exact face from [Image 1] (the face shape, eye color and eye shape, eyebrows, nose, mouth, skin tone, age, and any beard, moustache, glasses, piercings or freckles), and the clothes and any jewelry from [Image 1]. The same face from the first frame to the last, so their friends recognize them at once, also while they frown, gasp and laugh. Never morph, never beautify, never change the age.
+
+THE HAIR. Before the cut: exactly the hair from [Image 1], with the same color, highlights, texture and parting, hanging long over the shoulders. After the cut: the same hair color and parting, cut into a sleek, blunt, chin-length bob with one straight, even edge at the jaw line, the ends just touching the jaw, full and glossy. No bangs unless [Image 1] shows bangs. The hair color never changes. If the hair in [Image 1] is already at the chin or shorter, the cut makes it a neat blunt bob at that length.
+
+The place is the room or the place behind the person in [Image 1], with the same walls and light; if [Image 1] shows little of it, a plain, bright bedroom wall. The camera is the phone's front camera held at arm's length, framed from the chest up, the face large and sharp.
+
+0-2 s: the person looks into the camera with a doubtful frown and lifts a pair of silver hair-cutting scissors beside the long hair.
+2-4 s: they pull a long section of hair to the side and cut straight across at the jaw line; the long locks drop out of the frame, with crisp scissor snips.
+4-6 s: a jump cut to a close-up: they cut the other side at the same height, and cut hair falls on the shoulders. The blunt bob is done; their eyes go wide and they cover the mouth with one hand in shock.
+6-7.5 s: a jump cut: a quick mist of water from a plain spray bottle over the new bob, eyes closed.
+7.5-10 s: they run both hands through the bob, give it a shake and smile proudly into the camera.
+
+Audio: the crisp snip of the scissors, a small gasp, the hiss of the spray and a short, happy laugh. No music, no lyrics, no talking.
+
+The scissors touch only the hair, never the face, the eyes or the skin. Anatomy rules: one head, two hands, five fingers on each hand. Exactly one person: no hairdresser, nobody else. No text, no captions, no logos, no watermark, no brand names on the scissors or the bottle.
+```
+
+### 2. Prompt 2
+
+*Kind: prompt*
+
+```text
+Please edit my photo without changing my face and change only the hair, leaving it in the style: Classic bob. The hair is cut into a sleek, blunt, chin-length bob with one straight, even edge at the jaw line, the ends just touching the jaw, full and glossy, with the same hair color, highlights and parting as in the photo. No bangs unless the photo already shows bangs. Keep everything else exactly as in the photo: the face, the expression, the skin, the makeup, the glasses, the jewelry, the clothes, the pose, the background and the light, like a real phone photo taken right after a haircut. Vertical 9:16: if the photo is wider, extend the background naturally. Nobody added. No hair clips, no hat, no text, no logos, no watermark, no filter look. The only change is the haircut: the identity rules below apply to the face and the hair color, and the hairstyle is the new bob described above.
+```
+

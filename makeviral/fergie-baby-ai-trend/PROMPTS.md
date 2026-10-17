@@ -1,0 +1,38 @@
+# Fergie Baby Trend: Your AI Swagger Walk Out of the Park Gate
+
+- Source: [makeviral](https://www.makeviral.ai/templates/fergie-baby-ai-trend)
+- Slug: `fergie-baby-ai-trend`
+
+The Fergie Baby trend is a TikTok swagger walk from October 2026: you step out of a park gate and rap-dance down the path toward a camera that moves back with you, to a track by Harlem rapper Fergie Baby.
+
+## Demo videos (CDN)
+
+- https://www.makeviral.ai/media/templates/fergie-baby-ai-trend/original-main-v2.mp4
+
+## Posters
+
+- https://www.makeviral.ai/media/templates/fergie-baby-ai-trend/original-main-v1.jpg
+
+## Prompts
+
+### 1. 1. The video prompt is filled in. Settings: Seedance 2.5, 15 s, 720p, 9:16, sound off. The video prompt
+
+*Kind: video_prompt*
+
+```text
+Recreate the reference video [Video 1] shot for shot: the same sunny summer day in a city park, the same green field behind a tall chain-link fence, the same open chain-link gate with the hanging chain and the metal trash can, the same red rubber path along the fence with trees, black lamp posts and blue benches, the same one continuous shot with the camera moving back in front of the walker, the same timing and moves. The ONLY change: the man with shoulder-length locs and a beard, in the brown suit, the white shirt and the black tie, who walks out of the gate and swagger-walks down the path, is now the person in [Image 1].
+
+The walker = the person in [Image 1], in EVERY frame: copy the exact face from [Image 1] - face shape, eye color and eye shape, eyebrows, nose, mouth, skin tone, age, hair color, hair length and hairstyle, and any beard, moustache, glasses or freckles exactly as in the photo. The walker wears the clothes from [Image 1], with no printed words or logos; if [Image 1] shows only the head or the upper body, invent the rest so it matches naturally, with shoes that fit the outfit. Never the brown suit, the white shirt or the black tie from the video unless [Image 1] shows them. NO locs, NO dreadlocks and NO beard unless [Image 1] shows them, and the age of [Image 1]. The same real person in every frame, from the first second to the last, so their friends instantly recognize them, also when the head drops, the hands cover the head and the face is far away behind the fence. Never morph, never drift back to the original walker's face.
+
+THE MOVES, second by second, exactly as the original walker does them:
+00:00-00:03.5: on the grass behind the fence, the walker strolls to the open gate, throws both arms up over the head and swings through the gate onto the path.
+00:03.5-00:08: on the red path, the walker bounces to the beat, puts both hands to the head, drops the shoulders and dips the head, with a relaxed, cocky rap swagger.
+00:08-00:15: the swagger walk down the path toward the camera: easy bouncing steps, hands at the chest, palms together, a point, the arms opened wide, a hand to the chin, a big grin at the lens, both hands on the head at the end.
+
+Real live-action phone footage, natural sunlight, sharp hard shadows on the path, clear face, no distortion.
+
+Avoid: text, captions, subtitles, logos, watermarks, extra people, a costume, a glow, morphing, facial distortion.
+
+Anatomy rules: one head only, on the walker's shoulders. Exactly one person. Two arms, two legs, five fingers on each hand. A face never appears on hands, legs or clothes.
+```
+

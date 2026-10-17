@@ -1,0 +1,28 @@
+# Susan Dell Dance AI: Do the Lord Farquaad Dance From One Photo
+
+- Source: [makeviral](https://www.makeviral.ai/templates/susan-dell-dance-ai)
+- Slug: `susan-dell-dance-ai`
+
+The Susan Dell dance is the new TikTok name for the Lord Farquaad dance: a deadpan solo with a hop into a wide squat, low arm sweeps, bouncy steps on the toes and a freeze on one leg with one arm out.
+
+## Demo videos (CDN)
+
+- https://www.makeviral.ai/media/templates/susan-dell-dance-ai/original-first-v2.mp4
+- https://www.makeviral.ai/media/templates/susan-dell-dance-ai/original-main-v2.mp4
+
+## Posters
+
+- https://www.makeviral.ai/media/templates/susan-dell-dance-ai/original-first-v1.jpg
+- https://www.makeviral.ai/media/templates/susan-dell-dance-ai/original-main-v1.jpg
+
+## Prompts
+
+### 1. 1. The video prompt is filled in. Settings: kling-3-motion, 11 s, 720p, 9:16, sound off. The video prompt
+
+*Kind: video_prompt*
+
+```text
+Use the reference image as the sole character identity reference and the reference video as the motion reference. Animate exactly one adult dancer, in the place from the reference image. Preserve the person's recognizable face, hairstyle, skin tone, body proportions, outfit, shoes, and accessories throughout the video. Follow the reference dancer's movement order and timing, with a deadpan, dead-serious face the whole time: the hop down into a deep, wide squat with the knees turned out and the arms crossed at the chest, the small bounces in the squat with the arms flung out wide, the low arm sweeps across the body near the floor, the quick spin back up, the bouncy steps with both fists raised by the shoulders, the light steps on the toes with one hand on the hip and the other palm turned up to the side, and the final freeze on one leg with one arm stretched out high to the side, the other hand flat at the chest and the other knee lifted. Do not invent additional moves. The quick motion-blur trails in the reference video during the spins are not other people: there is only one dancer, with no ghost copies. Keep the entire body visible from head to shoes, with enough space around both hands and feet. Follow the reference framing and camera movement. Maintain natural balance, believable landings, stable ground contact, and consistent shadows. Keep the face recognizable during turns. No extra dancers, duplicate bodies, extra limbs, fused fingers, outfit changes, new camera cuts, text, or watermark. Use a vertical 9:16 reference and output when supported.
+No black beanie, no long dark red-streaked hair, no fitted black T-shirt, no black cargo pants with chains and no studded wristbands unless the reference image shows them, and the person keeps their own body shape, not the very muscular build of the dancer in the video.
+```
+

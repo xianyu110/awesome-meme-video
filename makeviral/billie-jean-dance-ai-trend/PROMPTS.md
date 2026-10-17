@@ -1,0 +1,74 @@
+# Billie Jean Dance AI: Do the Famous Moves With One Photo
+
+- Source: [makeviral](https://www.makeviral.ai/templates/billie-jean-dance-ai-trend)
+- Slug: `billie-jean-dance-ai-trend`
+
+The Billie Jean dance trend puts an unlikely dancer into the famous 1983 moves: an AI granny in her living room, a dog in a black fedora, a puppy in a sequin jacket on a stage.
+
+## Demo videos (CDN)
+
+- https://www.makeviral.ai/media/templates/billie-jean-dance-ai-trend/original-main-v2.mp4
+- https://www.makeviral.ai/media/templates/billie-jean-dance-ai-trend/original-pet-stage-v2.mp4
+- https://www.makeviral.ai/media/templates/billie-jean-dance-ai-trend/original-pet-v2.mp4
+
+## Posters
+
+- https://www.makeviral.ai/media/templates/billie-jean-dance-ai-trend/original-main-v1.jpg
+- https://www.makeviral.ai/media/templates/billie-jean-dance-ai-trend/original-pet-stage-v1.jpg
+- https://www.makeviral.ai/media/templates/billie-jean-dance-ai-trend/original-pet-v1.jpg
+
+## Prompts
+
+### 1. 1. The video prompt is filled in. Settings: Seedance 2.5, 15 s, 720p, 9:16, sound off. The video prompt (Human)
+
+*Kind: video_prompt*
+
+```text
+Recreate the reference video [Video 1] shot for shot: the same cozy living room at night with a wooden floor, warm table lamps, fairy lights, potted palms, framed pictures and a dark green sofa, the same fixed camera that films the whole body from the front, the same framing, timing and dance moves. The ONLY change: the old woman who dances is now the person in [Image 1].
+
+The dancer = the person in [Image 1], in every frame: copy the exact face from [Image 1] - face shape, eye color and eye shape, eyebrows, nose, mouth, skin tone, age, hair color, hair length and hairstyle, and any beard, moustache, glasses or freckles exactly as in the photo. The same real person in every frame, from the first second to the last, so their friends instantly recognize them, also when the dancer laughs and sings along. Never morph, never drift back to the original dancer's face, never add or remove facial hair. No white curly hair and no glasses unless [Image 1] shows them. The dancer has the body and the clothes of the person in [Image 1], never the burgundy shirt, the black top and the black jeans of the original dancer; if [Image 1] shows only the head or the upper body, invent the rest so it matches naturally. On the feet: bright white socks and glossy black loafers.
+
+The dance, matching the reference second by second, on the beat of a famous 80s pop song:
+0-3 s: grabs the belt with both hands and rocks the hips with bent knees.
+3-5 s: flicks one foot out to the side, pumps both fists.
+5-8 s: throws one fist up, leans to the side with the hands on the hips.
+8-11 s: steps the feet together and turns, a kick to the side.
+11-15 s: claps and shakes both fists beside the face while singing along, quick shoulder shakes, the hands back at the belt.
+
+Anatomy rules: one head only, on the dancer's shoulders. Two arms and two hands, no extra limbs. No text, no logos, no watermark, no extra people.
+```
+
+### 2. 1. The video prompt is filled in. Settings: Seedance 2.5, 13 s, 720p, 9:16, sound off. The video prompt (Pet)
+
+*Kind: video_prompt*
+
+```text
+Recreate the reference video [Video 1] shot for shot: the same empty tree-lined park path with gray asphalt, green trees, black lamp posts and tall buildings far behind on a cloudy day, the same fixed camera at the pet's height that films the whole body from the front, the same framing, timing and dance moves. The ONLY change: the black-and-tan dachshund who dances upright in the black fedora is now the pet in [Image 1].
+
+The dancer = the pet in [Image 1], whole body, in every frame: the same species and breed, head shape, muzzle, eyes, ears, fur colors, fur length, markings and body shape as in [Image 1], so its owner instantly recognizes it. It stands upright on its hind legs like a person the whole time and keeps the small black fedora on its head. Never drift back to the dachshund of the original video: no black-and-tan coat, no long dachshund body and no long floppy ears unless [Image 1] shows them. If [Image 1] shows a cat or another animal, that animal dances in the same place with the same moves.
+
+The dance, matching the reference second by second, on the beat of a famous 80s pop song:
+0-3 s: front paws at the chest, sways the hips, bends the knees.
+3-6 s: turns sideways and kicks one hind leg forward.
+6-9 s: turns its back to the camera and back again.
+9-13 s: stretches one front paw out to the side, kicks a hind leg up and ends with a quick turn.
+
+Anatomy rules: one head only. Four legs, two of them on the ground, no extra legs or paws, no human hands. No text, no logos, no watermark, no people, no extra animals.
+```
+
+### 3. 1. Open [AI Photo with this template](https://www.makeviral.ai/photo?template=billie-jean-dance-ai-trend&variant=pet-stage) and add your photo (your pet, whole body). The photo prompt is filled in (Pet)
+
+*Kind: photo_prompt*
+
+```text
+Use the uploaded image as the base. The ridiculously cute pet from the image stands upright naturally on its hind legs in the center of a spectacular concert stage. The pet is extremely adorable and photogenic and looks exactly like the pet in the image: the same face, fur colors, markings, ears, eyes and body. The pet wears a stylish 80s pop-star stage outfit: a small black fedora tilted slightly forward, a sparkling black sequin jacket worn open over a clean white shirt, fitted black trousers, bright white socks and tiny glossy black dance shoes. It confidently lowers the brim of its fedora over its eyes and freezes for a brief dramatic beat. CAMERA: Keep the pet's FULL BODY visible, especially both feet. Mostly front-facing camera. SETTING: Premium live concert stage, glossy dark reflective floor, dramatic white spotlights, subtle blue backlighting, light atmospheric haze, audience silhouettes, cinematic stage lighting and realistic reflections. Ultra-realistic fur, realistic adorable pet face, correct anatomy, no extra legs, no extra paws, no human hands, no distorted face, no deformed body. Vertical 9:16. High-end cinematic realism. Extremely cute + unexpectedly cool + funny. Designed as a viral social media pet dance video. Exactly one animal. No text, no logos, no watermark.
+```
+
+### 4. 3. Press the film button on the still to open AI Video with the still as the first frame. Settings: Kling 3.0, 15 s, 1080p, 9:16, sound on. The video prompt
+
+*Kind: video_prompt*
+
+```text
+The ridiculously cute pet from the image stands upright naturally on its hind legs in the center of a spectacular concert stage. Keep the pet's face, fur colors, markings, ears and stage outfit exactly as in the image. The music begins. The adorable pet suddenly transforms into an unbelievably skilled professional pop dancer. It confidently lowers the brim of its fedora over its eyes and freezes for a brief dramatic beat. Then it launches into a beautifully smooth MOONWALK, gliding backward across the stage with clear alternating foot movements. Without stopping, the pet transitions into extremely clean heel-toe footwork, quick ankle pivots, rhythmic side steps and sharp shoulder pops. It performs a smooth SIDE GLIDE across the stage, suddenly stops on the beat and kicks one leg forward. Immediately, the pet performs a lightning-fast 360-degree SPIN. It stops perfectly after the spin and rises dramatically into a TOE STAND, balancing briefly on the tips of its tiny shoes. BIG VIRAL MOMENT: After a fast spin, the pet suddenly performs a dramatic GRAVITY-DEFYING FORWARD LEAN. Its entire body stays perfectly straight while leaning impossibly far forward. Hold this pose briefly. Then the pet snaps upright exactly on the beat. For the finale, it performs several extremely fast foot movements, smoothly moonwalks backward, spins one final time, grabs the brim of its fedora with one paw and freezes in an iconic superstar pose under a powerful spotlight. Do NOT make the pet randomly jump, bounce, wave its paws or dance like a generic cartoon animal. CAMERA: Keep the pet's FULL BODY visible for almost the entire video, especially both feet. Mostly front-facing camera with subtle cinematic tracking and gentle push-ins. Never crop the feet during the moonwalk or footwork. No extra legs, no extra paws, no human hands, no distorted face, no deformed body. Designed as a viral social media pet dance video. Original music only, no lyrics. No text, no logos.
+```
+

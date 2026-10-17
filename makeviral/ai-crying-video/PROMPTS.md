@@ -1,0 +1,53 @@
+# AI Crying Video: Make the Tears Effect From One Photo
+
+- Source: [makeviral](https://www.makeviral.ai/templates/ai-crying-video)
+- Slug: `ai-crying-video`
+
+The AI crying trend turns one photo into a 10-second drama scene.
+
+## Demo videos (CDN)
+
+- https://www.makeviral.ai/media/templates/ai-crying-video/example-farewell-hijab.mp4
+- https://www.makeviral.ai/media/templates/ai-crying-video/example-farewell.mp4
+
+## Posters
+
+- https://www.makeviral.ai/media/templates/ai-crying-video/example-farewell-hijab-input.jpg
+- https://www.makeviral.ai/media/templates/ai-crying-video/example-farewell-hijab-poster.jpg
+- https://www.makeviral.ai/media/templates/ai-crying-video/example-farewell-input.jpg
+- https://www.makeviral.ai/media/templates/ai-crying-video/example-farewell-poster.jpg
+
+## Prompts
+
+### 1. 1. Open [AI Photo with this template](https://www.makeviral.ai/photo?template=ai-crying-video) and add your photo (a clear face photo). The photo prompt is filled in
+
+*Kind: photo_prompt*
+
+```text
+Use the uploaded image as the base. Keep the person's face, facial features, skin tone, hair, makeup and outfit exactly the same. Turn the photo into a cinematic still from the farewell scene of a romantic drama. Tight over-the-shoulder close-up at night, framed from the chest up: the face fills the upper middle of the frame. In the left foreground, the back of another person's head and shoulder in a white shirt, heavily blurred into a soft shape. The person from the photo faces them and looks at them, just off camera to the left. Their face is in sharp focus: eyes red-rimmed, glossy and brimming with tears, flushed nose and cheeks, a small, fragile smile. Dark night background, a park or street with warm round bokeh lights, soft warm key light on the face, Korean drama film look, very shallow depth of field, 85mm lens at f/1.4. Photorealistic, vertical 9:16. No text, no logos.
+```
+
+### 2. 3. Press the film button on the still to open AI Video with the still as the first frame. Settings: Seedance 2.5, 10 s, 720p, 9:16, sound on. The video prompt
+
+*Kind: video_prompt*
+
+```text
+A cinematic farewell scene from a romantic drama. Keep the person's face, hair, makeup and outfit exactly as in the image. The other person stays in the foreground, out of focus, seen only from behind. Shot 1, over-the-shoulder close-up: the person looks at them with red, glossy eyes and tries to smile through the tears. The smile trembles and breaks. They blink slowly, tears roll down both cheeks, the lips and chin quiver, and they look down, crying quietly. Real, subtle acting, never exaggerated. Slight handheld drift. Shot 2, cut to a medium shot from the side: the person turns away and walks slowly off into the night, the warm bokeh lights blurring behind them. Audio: a soft, sad piano and string ballad and one quiet sniffle. No dialogue. No text, no logos.
+```
+
+### 3. 1. Open [AI Photo with this template](https://www.makeviral.ai/photo?template=ai-crying-video&variant=rain) and add your photo (your selfie). The photo prompt is filled in
+
+*Kind: photo_prompt*
+
+```text
+Use the uploaded image as the base. Keep the subject's face, facial features, skin tone, and hair exactly the same. Transform the photo into a cinematic still from an emotional drama: the subject stands alone on a city street at night in the rain, wet hair, soft neon bokeh behind, teal and orange color grade, eyes glossy with held-back tears. Medium close-up, shallow depth of field, film look. Vertical 9:16. No text, no logos.
+```
+
+### 4. 3. Press the film button on the still to open AI Video with the still as the first frame. Settings: Seedance 2.5, 8 s, 720p, 9:16, sound on. The video prompt
+
+*Kind: video_prompt*
+
+```text
+A slow, emotional movie moment. Keep the person's face, hair and outfit exactly as in the image. Rain falls in slow motion under the street lights. The person looks down, then up toward the sky, and a tear runs down their cheek. Their breath shows slightly in the cold air. The camera moves in very slowly. Audio: soft rain, distant traffic, and a gentle, sad string melody. No text, no logos.
+```
+

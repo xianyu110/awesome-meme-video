@@ -1,0 +1,84 @@
+# 24 Unforgettable Car Trend AI: Flick the 2 and 4, Reveal Your Car
+
+- Source: [makeviral](https://www.makeviral.ai/templates/unforgettable-car-trend-ai)
+- Slug: `unforgettable-car-trend-ai`
+
+The 24 Unforgettable car trend, also called the 24 car trend or Twenty-Four, is a viral TikTok and Instagram clip set to the song "Unforgettable": you hold up a 2 and a 4 card, flick them at the camera, and a sports car is parked behind you.
+
+## Demo videos (CDN)
+
+- https://www.makeviral.ai/media/templates/unforgettable-car-trend-ai/original-main-v2.mp4
+
+## Posters
+
+- https://www.makeviral.ai/media/templates/unforgettable-car-trend-ai/original-main-v1.jpg
+
+## Prompts
+
+### 1. 1. The video prompt is filled in. Settings: Seedance 2.5, 10 s, 720p, 9:16, sound off. The video prompt
+
+*Kind: video_prompt*
+
+```text
+Replace the woman in the video with the person in [Image 1]. Keep the original actions, facial expressions, poses, body movements, camera movement, background, lighting, and timing. Only replace the woman and keep everything else unchanged.
+
+Recreate the reference video [Video 1] shot for shot: the same underground parking garage, the same red sports car parked behind, the same 2 of hearts and 4 of hearts that fly at the lens, the same handheld phone camera, the same framing and timing. The ONLY change: the woman with the blonde bob is now the person in [Image 1].
+
+The one who walks toward the camera = the person in [Image 1], in every frame: copy the exact face from [Image 1] - face shape, eye color and eye shape, eyebrows, nose, mouth, skin tone, age, hair color, hair length and hairstyle, and any beard, moustache, glasses or freckles exactly as in the photo. The same real person in every frame, so their friends instantly recognize them, also in the close-up when the cards come to the lens. Never morph, never drift back to the original woman's face, never add or remove facial hair. No blonde bob, no hair clips, no dark red lipstick, no hoop earrings, no chain necklaces and no red ribbed cardigan unless [Image 1] shows them. They have the body and the clothes of the person in [Image 1]; if [Image 1] shows only the head or the upper body, invent the rest so it matches naturally.
+
+The moves, matching the reference second by second:
+0-2.5 s: walks toward the camera through the garage.
+2.5-4.2 s: holds up the 2 and the 4 of hearts close to the lens and flicks both cards at it.
+4.2-7 s: the cards fly past the lens, the red sports car is now parked behind, a confident look into the camera.
+7-10 s: turns to the car, points at it with the thumb and walks out of the frame.
+
+Anatomy rules: one head only, on their own shoulders. Two arms and two hands. No badges, emblems or lettering on the car, no readable number plates, no text, no logos, no watermark, no extra people.
+```
+
+### 2. 1. The video prompt is filled in. Settings: genjutsu-motion, 14 s, 480p, 9:16, sound off. The video prompt
+
+*Kind: video_prompt*
+
+```text
+Replace only the person and the car.
+Use @[Image 1](image_1) as the dominant identity reference for the person.
+Use @[Image 2](image_2) as the dominant identity reference for the car.
+
+For the person:
+Match Image 1 in head shape, eyes, eyelids, eye spacing, nose shape and size, lips, beard shape and density, jawline, hairline, facial proportions, sunglasses and outfit. Do not copy or blend the original actor’s eyes or nose. Use the source person for movement, positioning and timing only. Maintain the same character identity in every shot.
+Keep the body build, weight and face width of Image 1 exactly: a broad, heavy or round-faced person stays exactly as broad, heavy and round-faced. Never make the person thinner, more muscular or sharper in the face than in Image 1, and never take the original actor’s face shape or body.
+
+For the car:
+Replace the original vehicle with the exact vehicle from Image 2. Match the body silhouette, grille, headlights, wheels, center caps, badges and paint color. Remove any mismatched source-vehicle details, neon glow and crystal texture. Maintain consistency in all close-ups and angles.
+Take only the car from Image 2. Ignore the background, the ground, the sky and the daylight of Image 2.
+
+For the cards:
+Keep the two green UNO cards from the source video exactly as they are: a green 2 card and a green 4 card, with the white oval and the big numbers 2 and 4 clearly readable whenever the cards are in the frame. Never blank, recolor or change the cards.
+
+Keep the original empty parking lot at night, with the dark sky, the night lighting and the lamps of the source video, in every shot, also after the car appears. Never turn it into another place or into daytime.
+Keep the camera movement, shot timing, framing and color grading unchanged, also in the last shots, where the person walks away and the car stays alone in the frame.
+Only change those two subjects.
+```
+
+### 3. 1. The video prompt is filled in. Settings: Seedance 2.5, 10 s, 720p, 9:16, sound off. The video prompt
+
+*Kind: video_prompt*
+
+```text
+Replace the woman in the video with the person in [Image 1] and the car with a private jet. Keep the original actions, facial expressions, poses, body movements, camera movement, lighting, and timing. Only replace the woman, the car and the parking garage and keep everything else unchanged.
+
+Recreate the reference video [Video 1] shot for shot, with the same handheld phone camera, framing, light and timing, in a tall private jet hangar with a polished grey concrete floor and long rows of ceiling lights instead of the parking garage. The same 2 of hearts and 4 of hearts fly at the lens.
+
+The one who walks toward the camera = the person in [Image 1], in every frame: copy the exact face from [Image 1] - face shape, eye color and eye shape, eyebrows, nose, mouth, skin tone, age, hair color, hair length and hairstyle, and any beard, moustache, glasses or freckles exactly as in the photo. The same real person in every frame, so their friends instantly recognize them, also in the close-up when the cards come to the lens. Never drift back to the original woman's face. No blonde bob, no hair clips, no dark red lipstick, no hoop earrings, no chain necklaces and no red ribbed cardigan unless [Image 1] shows them. They have the body and the clothes of the person in [Image 1].
+
+Before the cards fly past the lens, the hangar behind them is empty. After the cards fly past the lens, a sleek white private jet is parked behind them, in the same spot as the red car in [Video 1]: its nose, cockpit windows and the front of the cabin in view, the cabin door open with its airstair down. The red car never appears, and there is no car anywhere.
+
+The moves, matching the reference second by second:
+0-2.5 s: walks toward the camera through the hangar.
+2.5-4.2 s: holds up the 2 and the 4 of hearts close to the lens and flicks both cards at it.
+4.2-7 s: the cards fly past the lens, the private jet is now parked behind, a confident look into the camera.
+7-10 s: turns to the jet, points at it with the thumb and walks out of the frame.
+
+Anatomy rules: one head only. Two arms and two hands. No airline names, logos, flags or lettering on the jet, no readable registration numbers, no text, no logos, no watermark, no extra people.
+```
+

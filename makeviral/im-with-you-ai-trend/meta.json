@@ -1,0 +1,41 @@
+{
+  "source": "makeviral",
+  "source_site": "https://www.makeviral.ai",
+  "slug": "im-with-you-ai-trend",
+  "name": "I'm With You Trend: Sing Avril Lavigne on the Roller Coaster",
+  "url": "https://www.makeviral.ai/templates/im-with-you-ai-trend",
+  "markdown_url": "https://www.makeviral.ai/templates/im-with-you-ai-trend.md",
+  "blurb": "The I'm With You Avril Lavigne trend belongs to Brazilian creator Boy Marinho, who sings Avril Lavigne's I'm With You with total emotion on theme park rides, most famously on a swinging pirate ship ride.",
+  "updated": "2026-10-15",
+  "published": "2026-10-15",
+  "credits": 152,
+  "demo_videos": [
+    "https://www.makeviral.ai/media/templates/im-with-you-ai-trend/original-coaster-v2.mp4"
+  ],
+  "posters": [
+    "https://www.makeviral.ai/media/templates/im-with-you-ai-trend/original-coaster-v1.jpg"
+  ],
+  "prompts": [
+    {
+      "label": "1. The video prompt is filled in. Settings: Seedance 2.5, 10 s, 720p, 9:16, sound off. The video prompt",
+      "variant": null,
+      "kind": "video_prompt",
+      "text": "Recreate the reference video [Video 1] shot for shot: the same selfie video filmed at arm's length in the front seat of a roller coaster, first in the covered station under the dark metal roof, then, after the cut, out in the bright sun with the blue sky, the station roof and the park behind, the same man in a grey t-shirt and a black cap with tattooed arms in the seat at the left edge, the same camera angles, cut, timing, head moves and mouth moves. The ONLY change: the man with messy bleached blond hair, a dark beard and an eyebrow piercing in the maroon track jacket, who sings into the camera, is now the person in [Image 1].\n\nThe singer = the person in [Image 1], in EVERY frame: copy the exact face from [Image 1] - face shape, eye color and eye shape, eyebrows, nose, mouth, skin tone, age, hair color, hair length and hairstyle, and any beard, moustache, glasses or freckles exactly as in the photo. The singer wears the clothes from [Image 1], with no printed words or logos; if [Image 1] shows only the head, invent the rest so it matches naturally. Never the maroon track jacket with white stripes from the video. The same real person in every frame, from the first second to the last, so their friends instantly recognize them, also with the eyes closed, the mouth wide open and the hair blowing in the wind. Never morph, never drift back to the original singer's face. NO bleached blond hair, NO beard and NO eyebrow piercing unless [Image 1] shows them, and the age of [Image 1].\n\nTHE PERFORMANCE, beat by beat, exactly as the original singer does it:\n00:00-00:05.9: in the station, sings with feeling, eyes closed, the head tilting back and to the side, the mouth opening wide on the long notes, as the train starts to roll.\n00:05.9-00:10: out in the sun, the wind blows the hair up; sings at full voice straight into the camera, mouth wide open, eyebrows up, eyes squinting in the light.\n\nLIP SYNC: the singer's mouth copies the original singer's mouth in [Video 1] frame for frame, opening, closing and widening at exactly the same moments, never early, never late.\n\nThe man at the left edge and the riders behind stay exactly as in the video and never get the face from [Image 1]: only the singer changes.\n\nReal live-action phone selfie footage, natural light, clear face, no distortion.\n\nAvoid: text, captions, subtitles, logos, watermarks, extra people, morphing, facial distortion.\n\nAnatomy rules: one head only, on the singer's shoulders. The arm that holds the phone stays at the edge of the frame. Five fingers on each hand. A face never appears on hands, arms or clothes."
+    }
+  ],
+  "variant_headings": [
+    "What the I'm With You video looks like",
+    "How to make the I'm With You video on MakeViral",
+    "Which photo works best?",
+    "What happens in the I'm With You roller coaster video?",
+    "Where was the pirate ship video filmed?",
+    "Is the pirate ship video real or AI?",
+    "How do I make the I'm With You AI video with my photo?",
+    "How long is the video and what format is it?",
+    "Does the I'm With You video cost credits?",
+    "Is my photo private?",
+    "Other AI video templates and tools",
+    "Make your own I'm With You video"
+  ],
+  "prompt_count": 1
+}

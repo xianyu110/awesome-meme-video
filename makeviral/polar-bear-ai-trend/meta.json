@@ -1,0 +1,53 @@
+{
+  "source": "makeviral",
+  "source_site": "https://www.makeviral.ai",
+  "slug": "polar-bear-ai-trend",
+  "name": "Polar Bear 2026 AI: Sing Remember November From One Photo",
+  "url": "https://www.makeviral.ai/templates/polar-bear-ai-trend",
+  "markdown_url": "https://www.makeviral.ai/templates/polar-bear-ai-trend.md",
+  "blurb": "The Polar Bear 2026 meme is an eerie, AI-looking polar bear first posted in 2023 as \"a November meme from 2026\".",
+  "updated": "2026-10-15",
+  "published": "2026-10-14",
+  "credits": 198,
+  "demo_videos": [
+    "https://www.makeviral.ai/media/templates/polar-bear-ai-trend/original-tall-sing-v2.mp4"
+  ],
+  "posters": [
+    "https://www.makeviral.ai/media/templates/polar-bear-ai-trend/original-tall-sing-v1.jpg"
+  ],
+  "prompts": [
+    {
+      "label": "1. The video prompt is filled in. Settings: Seedance 2.5, 13 s, 720p, 9:16, sound off. The video prompt",
+      "variant": null,
+      "kind": "video_prompt",
+      "text": "Recreate the reference video [Video 1] shot for shot: a music video of a polar bear singing \"Remember November 2026 is coming\". The same snowy field at night with dark pine trees under a purple-pink starry sky, the same slow push-in of the first shot, the same close-up against the dark night forest, the same framing, cut, timing, head moves and mouth moves. The ONLY change: the polar bear is now the person in [Image 1].\n\nThe singer = the person in [Image 1], in EVERY shot: a real human with the exact face from [Image 1] - face shape, eye color and eye shape, eyebrows, nose, mouth, skin tone, age, hair color, hair length and hairstyle, and any beard, moustache, glasses or freckles exactly as in the photo. A HUMAN head and face: never a bear head, no bear muzzle, no black bear nose, no fur on the face, no round bear ears. The singer wears a thick, fluffy white faux-fur winter coat, white like the polar bear's fur, with no hood, so the hair shows. The same real person in every frame, from the first second to the last, so their friends instantly recognize them, also in the big close-up of the face. Never morph, never drift back to the bear. If [Image 1] shows an animal, the singer is that animal, with its own face, fur and markings and the natural body volume and proportions of that animal: never flattened, squashed, stretched or merged with anything.\n\nThe shots, matching [Video 1] second by second:\n00:00-00:03, wide: the singer sits upright in the snow in the middle of the field, both hands on the snow in front, facing the camera with the head tilted up to the sky, the mouth open, singing, small in the frame while the camera slowly pushes in.\n00:03-00:13, a close-up of the face and shoulders against the dark forest: the singer sings to the camera, the mouth opening and closing on every word, the head tilting up and back down; at 00:05-00:06 the head sways to one side with the eyes closed, then the singer looks straight into the lens again until the end.\n\nAnatomy rules: one head only, on the singer's shoulders. Two arms and two hands. Exactly one singer: no polar bear, no other people or animals. No text, no captions, no logos, no watermark."
+    },
+    {
+      "label": "1. The video prompt is filled in. Settings: Seedance 2.5, 13 s, 720p, 9:16, sound off. The video prompt",
+      "variant": "Pet",
+      "kind": "video_prompt",
+      "text": "Recreate the reference video [Video 1] shot for shot: a music video of a polar bear singing \"Remember November 2026 is coming\". The same snowy field at night with dark pine trees under a purple-pink starry sky, the same slow push-in of the first shot, the same close-up against the dark night forest, the same framing, cut, timing, head moves and mouth moves. The ONLY change: the polar bear is now the pet in [Image 1].\n\nThe pet = the pet in [Image 1], in EVERY frame: the same species and breed, face, eyes, ears, muzzle, nose, fur colors, fur length and markings as in [Image 1], with the natural body volume and proportions of that animal: never flattened, squashed, stretched or merged with anything. The same pet in every frame, from the first second to the last, so its owner instantly recognizes it, also in the big close-up of the face. Never drift back to the polar bear: NO cream-white bear fur, NO big black bear nose and NO small round bear ears unless [Image 1] shows them, and the pet's own body, never a bear's body. Whether [Image 1] shows a dog, a cat or another animal, it stays that animal.\n\nThe shots, matching [Video 1] second by second:\n00:00-00:03, wide: the pet sits upright in the snow in the middle of the field, front paws on the snow, facing the camera with the head tilted up to the sky, the mouth open, singing, small in the frame while the camera slowly pushes in.\n00:03-00:13, a close-up of the pet's face and chest against the dark forest: the pet sings to the camera, the mouth opening and closing on every word as if it sings every word, the head tilting up and back down; at 00:05-00:06 the head sways to one side with the eyes closed, then the pet looks straight into the lens again until the end.\n\nAnatomy rules: one head only, one muzzle, natural teeth and tongue. No extra legs, animal paws, never a human hand. Exactly one animal: no polar bear, no people. No text, no captions, no logos, no watermark."
+    },
+    {
+      "label": "1. The video prompt is filled in. Settings: Seedance 2.5, 10 s, 720p, 9:16, sound on. The video prompt",
+      "variant": null,
+      "kind": "video_prompt",
+      "text": "Make a 10-second vertical meme video with the person from [Image 1] in it. Keep the bear centered in a snowy clearing at night, a few steps behind the person, standing in an unnaturally stiff posture: a big cream-white polar bear. The bear barely moves, then slowly tilts its head toward the camera while the camera makes a subtle push-in. Dark pine trees, dim blue-gray sky, faint analog noise, uncanny internet-creepypasta mood. No text, no logos, no sudden cuts, 9:16.\n\nThe person in front is the person in [Image 1], in every frame: copy the exact face from [Image 1] - face shape, eye color and eye shape, eyebrows, nose, mouth, skin tone, age, hair color, hair length and hairstyle, and any beard, moustache, glasses or freckles exactly as in the photo - and the clothes from [Image 1], so their friends recognize them at once. The face stays the same from the first frame to the last, large, sharp and clear. They stand a little to the left of the bear, framed from the knees up, facing the camera with a calm face, and do not notice the bear. If [Image 1] shows an animal, it sits in the person's place in front of the bear, with its own face, fur and markings, not a person.\n\nAt 00:06 the polar bear opens its mouth and slowly sings, in a deep, slightly off-key voice: \"Remember November 2026 is coming\". The bear's mouth moves with the words. The person's eyes go wide, still facing the camera. The bear never touches the person and never attacks.\n\nAudio: a quiet wind and the crunch of snow, then only the bear's slow singing. No music, no other voices. Exactly one person and one polar bear, no extra people, no extra limbs, no morphing."
+    }
+  ],
+  "variant_headings": [
+    "What the Polar Bear 2026 video looks like",
+    "How to make the Polar Bear 2026 video on MakeViral",
+    "Which photo works best?",
+    "What happens in the Polar Bear 2026 video, version by version?",
+    "Who made the singing polar bear video?",
+    "What do I wear in the video?",
+    "What sound is in the video?",
+    "How long is the video and what format is it?",
+    "Is the polar bear 2026 video real, and is it scary or horror?",
+    "Where is the Polar Bear 2026 original video?",
+    "Other AI video templates and tools",
+    "Make your own Polar Bear 2026 video"
+  ],
+  "prompt_count": 3
+}

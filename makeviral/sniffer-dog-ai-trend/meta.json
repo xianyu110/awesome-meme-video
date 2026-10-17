@@ -1,0 +1,49 @@
+{
+  "source": "makeviral",
+  "source_site": "https://www.makeviral.ai",
+  "slug": "sniffer-dog-ai-trend",
+  "name": "Sniffer Dog Meme AI: Put Yourself in the Viral “Bro Is So Cooked” Clip",
+  "url": "https://www.makeviral.ai/templates/sniffer-dog-ai-trend",
+  "markdown_url": "https://www.makeviral.ai/templates/sniffer-dog-ai-trend.md",
+  "blurb": "The sniffer dog meme is a viral TikTok format: a sniffer dog in a black working vest weaves through a party crowd at night, sits at one person's feet and looks up, and that person starts to cry while the caption says \"bro is so cooked\".",
+  "updated": "2026-10-15",
+  "published": "2026-10-14",
+  "credits": 32,
+  "demo_videos": [
+    "https://www.makeviral.ai/media/templates/sniffer-dog-ai-trend/example-v1.mp4",
+    "https://www.makeviral.ai/media/templates/sniffer-dog-ai-trend/original-main-v2.mp4"
+  ],
+  "posters": [
+    "https://www.makeviral.ai/media/templates/sniffer-dog-ai-trend/example-input-v1.jpg",
+    "https://www.makeviral.ai/media/templates/sniffer-dog-ai-trend/example-v1.jpg",
+    "https://www.makeviral.ai/media/templates/sniffer-dog-ai-trend/original-main-v1.jpg"
+  ],
+  "prompts": [
+    {
+      "label": "1. The video prompt is filled in. Settings: Kling 3.0 Omni, 8 s, 720p, 9:16, sound off. The video prompt",
+      "variant": "Human",
+      "kind": "video_prompt",
+      "text": "Replace the young man in the video with the person in the first image. The young man from the video must not appear in any frame. The one the sniffer dog walks up to and sits in front of, who stares down at the dog and then cries into the camera, is the person in the first image, with the face, hair, skin tone and age from the first image, whether that person is a man or a woman. The person wears the rainbow tie-dye T-shirt, the black shorts and the white sneakers from the video.\n\nTiming, second by second, as in the original video:\n0-2 s: the handheld camera follows the brown and white sniffer dog in its black vest with neon yellow straps as it weaves through the legs of the crowd on the dark green turf at night.\n2-3 s: the dog reaches the person, sniffs their legs, rears up against them once and sits down right at their feet.\n3-4 s: the camera tilts up: the person stands in full view and stares down at the dog.\n4-8 s: the dog keeps sitting at their feet and looks up at them. The person looks at the dog, then into the camera, their eyes fill with tears and they cry, lips trembling, with the crowd, the floodlights and the city lights on the hills behind them.\n\nThe person keeps the face, hair, skin tone, age and any glasses, beard or freckles from the first image in every frame, also while crying with the mouth open: no short dark hair with shaved sides unless the first image shows it. The dog and its vest stay as in the video. No new text, no logos, no watermark, no new people in front of the camera."
+    },
+    {
+      "label": "1. The video prompt is filled in. Settings: Kling 3.0 Omni, 8 s, 720p, 9:16, sound off. The video prompt",
+      "variant": null,
+      "kind": "video_prompt",
+      "text": "Replace the young man in the video with the person in the first image, and the brown and white sniffer dog with the pet in the second image. The young man and the spaniel from the video must not appear in any frame. The one the sniffer dog walks up to and sits in front of, who stares down at it and then cries into the camera, is the person in the first image, with the face, hair, skin tone and age from the first image, whether that person is a man or a woman. The person wears the rainbow tie-dye T-shirt, the black shorts and the white sneakers from the video. The sniffer dog is the pet in the second image, in the black working vest with neon yellow straps and on the orange lead from the video.\n\nTiming, second by second, as in the original video:\n0-2 s: the handheld camera follows the pet from the second image in the black vest with neon yellow straps as it weaves through the legs of the crowd on the dark green turf at night.\n2-3 s: the pet reaches the person, sniffs their legs, rears up against them once and sits down right at their feet.\n3-4 s: the camera tilts up: the person stands in full view and stares down at the pet.\n4-8 s: the pet keeps sitting at their feet and looks up at them. The person looks at the pet, then into the camera, their eyes fill with tears and they cry, lips trembling, with the crowd, the floodlights and the city lights on the hills behind them.\n\nThe pet keeps the species, breed, size, face, eyes, ears, muzzle, fur colors, fur length and markings from the second image in every frame, with the natural body volume and proportions of that animal: never flattened, squashed, stretched or merged with anything. The person keeps the face, hair, skin tone, age and any glasses, beard or freckles from the first image in every frame, also while crying with the mouth open: no short dark hair with shaved sides unless the first image shows it. No new text, no writing on the vest, no logos, no watermark, no new people in front of the camera."
+    }
+  ],
+  "variant_headings": [
+    "What the Sniffer Dog Meme video looks like",
+    "How to make the Sniffer Dog Meme video on MakeViral",
+    "Which photo works best?",
+    "Is the sniffer dog video real? How to post it as a joke",
+    "Is the sniffer dog video real?",
+    "How do I make the sniffer dog meme with my own photo?",
+    "Which AI model makes the video?",
+    "How long is the video, and does it have sound?",
+    "Does the sniffer dog video cost credits?",
+    "Other AI video templates and tools",
+    "Make your own Sniffer Dog Meme video"
+  ],
+  "prompt_count": 2
+}

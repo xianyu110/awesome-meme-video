@@ -1,0 +1,49 @@
+# AI Arrest Trend: Make the “Getting Arrested Again” Video With One Photo
+
+- Source: [makeviral](https://www.makeviral.ai/templates/ai-arrest-trend)
+- Slug: `ai-arrest-trend`
+
+The AI arrest trend turns one photo into a shaky phone video of a fake arrest: two officers walk you out at night, hands cuffed behind your back, red and blue lights flashing, and you give the camera a small, smug smile.
+
+## Demo videos (CDN)
+
+- https://www.makeviral.ai/media/templates/ai-arrest-trend/original-main-v2.mp4
+
+## Posters
+
+- https://www.makeviral.ai/media/templates/ai-arrest-trend/original-main-v1.jpg
+
+## Prompts
+
+### 1. 1. Open [AI Photo with this template](https://www.makeviral.ai/photo?template=ai-arrest-trend) and add your photo (your own photo). The photo prompt is filled in (Human)
+
+*Kind: photo_prompt*
+
+```text
+Use the uploaded image as the base. Keep the person's face, facial features, skin tone, hair, body shape and original clothing exactly the same as in the photo. A photorealistic vertical 9:16 still from a handheld smartphone video of a fictional night-time movie arrest scene on an urban night street of brick houses. The person has just been walked out of the front door of a house onto the pavement, hands cuffed behind the back, escorted by two uniformed officers, one on each side, each holding one of the person's arms just above the elbow. The officers wear plain dark navy uniforms with no badges, no patches and no writing. The person looks straight into the camera with a restrained, knowing smile. Behind them a plain white patrol car at the curb flashes red and blue roof lights that tint the faces and the house walls. Shot by a bystander a few steps in front of them at chest height, framing the three from the knees up, with slight phone-camera grain and a soft background. Exactly three people: the person in the middle and the two officers. No badges, no shoulder patches, no department names, no readable text on the uniforms or the car, no captions, no logos, no watermark.
+```
+
+### 2. 3. Press the film button on the still to open AI Video with the still as the first frame. Settings: Kling 3.0, 8 s, 1080p, 9:16, sound on. The video prompt
+
+*Kind: video_prompt*
+
+```text
+Turn the image into a photorealistic vertical 9:16 handheld smartphone video of a fictional night-time movie arrest scene. The same person keeps their identity and original clothing and is escorted by two uniformed officers with hands cuffed behind the back; they briefly look at the camera with a restrained smile, then walk on. Use for viral behind-the-scenes style clips on an urban night street. Not for identity, outfit or gender changes, subtitles, watermarks or extra main characters. Keep the face, hair and clothing exactly as in the image, from the front and from the back. Audio: footsteps on the pavement, distant sirens and faint police radio chatter on a quiet night street; no music, no dialogue. No film crew or film cameras in frame. No badges, no shoulder patches, no department names, no readable text on the uniforms or the car, no captions, no logos.
+```
+
+### 3. 1. Open [AI Photo with this template](https://www.makeviral.ai/photo?template=ai-arrest-trend&variant=pet) and add your photo (your pet, whole body). The photo prompt is filled in (Pet)
+
+*Kind: photo_prompt*
+
+```text
+Use the uploaded image as the base. Keep the animal's species, breed, face, eye color, fur color, fur length and markings exactly the same as in the photo. A photorealistic vertical 9:16 still from a handheld smartphone video of a fictional night-time movie arrest scene on an urban night street of brick houses. The pet has just been walked out of the front door of a house onto the pavement. It stands upright on its hind legs like a person, about as tall as a child, and wears a plain grey hoodie and grey joggers with no print. Its front paws are cuffed behind its back with small silver handcuffs, and two uniformed officers, one on each side, each hold one of its arms. The officers wear plain dark navy uniforms with no badges, no patches and no writing. The pet looks straight into the camera with a calm, smug face. Behind them a plain white patrol car at the curb flashes red and blue roof lights that tint the fur and the house walls. Shot by a bystander a few steps in front of them at chest height, framing all three from the knees up, with slight phone-camera grain. Exactly one animal and two officers. No other animals, no badges, no shoulder patches, no department names, no readable text on the uniforms, the clothes or the car, no captions, no logos, no watermark.
+```
+
+### 4. 3. Press the film button on the still to open AI Video with the still as the first frame. Settings: Kling 3.0, 8 s, 1080p, 9:16, sound on. The video prompt
+
+*Kind: video_prompt*
+
+```text
+Turn the image into a photorealistic vertical 9:16 handheld smartphone video of a fictional night-time movie arrest scene. The same pet keeps its face, fur, markings and clothing and walks upright on its hind legs, escorted by two uniformed officers with its front paws cuffed behind its back; it briefly looks at the camera with a calm, smug face, then walks on. A funny viral clip on an urban night street. No changes to the animal's species, face or fur, no subtitles, no watermarks, no extra animals. Keep the animal's face, fur and clothes exactly as in the image in every frame, from the front and from the back. Audio: footsteps on the pavement, distant sirens and faint police radio chatter on a quiet night street; no music, no dialogue, no barking. No film crew or film cameras in frame. No badges, no shoulder patches, no department names, no readable text on the uniforms or the car, no captions, no logos.
+```
+

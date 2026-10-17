@@ -1,0 +1,46 @@
+{
+  "source": "makeviral",
+  "source_site": "https://www.makeviral.ai",
+  "slug": "ai-future-baby-video",
+  "name": "AI Baby Generator: Make a Future Baby Home Video",
+  "url": "https://www.makeviral.ai/templates/ai-future-baby-video",
+  "markdown_url": "https://www.makeviral.ai/templates/ai-future-baby-video.md",
+  "blurb": "An AI baby generator video takes photos of two adults and imagines a baby who mixes their looks, then plays it as a warm early-2000s home video of one day with the family.",
+  "updated": "2026-10-15",
+  "published": "2026-09-30",
+  "credits": 128,
+  "demo_videos": [
+    "https://www.makeviral.ai/media/templates/ai-future-baby-video/example.mp4"
+  ],
+  "posters": [
+    "https://www.makeviral.ai/media/templates/ai-future-baby-video/example-input.jpg",
+    "https://www.makeviral.ai/media/templates/ai-future-baby-video/example-poster.jpg"
+  ],
+  "prompts": [
+    {
+      "label": null,
+      "variant": null,
+      "kind": "prompt",
+      "text": "Use the two uploaded images as the base. Keep both adults' faces, facial features, skin tones and hair exactly the same as in their own photos. Show both adults together on a sofa in a cozy living room, smiling and holding a happy baby about one year old. The baby clearly mixes features from both adults: eye shape, hair color and skin tone. Warm early-2000s home photo look, soft light, gentle grain. Vertical 9:16. No text, no logos."
+    },
+    {
+      "label": "3. Press the film button on the still to open AI Video with the still as the first frame. Settings: Seedance 2.5, 10 s, 720p, 9:16, sound on. The video prompt",
+      "variant": null,
+      "kind": "video_prompt",
+      "text": "A warm early-2000s home-video montage of one happy day. Keep the two parents and the baby exactly as in the image across every moment. The baby wakes up in the crib and stretches, takes wobbly first steps toward a parent's open arms, laughs in a high chair with food on its face, and rides on a parent's shoulders at sunset. Gentle cuts between moments, handheld camcorder look, faded warm colors. Audio: baby giggles and babble, soft parent voices, quiet room tone. Wholesome and tender. No text, no logos."
+    }
+  ],
+  "variant_headings": [
+    "What the Future Baby video looks like",
+    "How to make the Future Baby video on MakeViral",
+    "Which photo works best?",
+    "What goes wrong with an AI future baby video, and how do you fix it?",
+    "How do you keep a future baby video kind and safe?",
+    "What is an AI future baby video?",
+    "Is there a future baby generator that makes a video, not only a photo?",
+    "Can I make an AI baby video with one photo?",
+    "Other AI video templates and tools",
+    "Make your own Future Baby video"
+  ],
+  "prompt_count": 2
+}

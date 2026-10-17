@@ -1,0 +1,43 @@
+{
+  "source": "makeviral",
+  "source_site": "https://www.makeviral.ai",
+  "slug": "barbie-and-raquelle-ai-trend",
+  "name": "Barbie and Raquelle AI Trend: You as a 3D Doll Cartoon",
+  "url": "https://www.makeviral.ai/templates/barbie-and-raquelle-ai-trend",
+  "markdown_url": "https://www.makeviral.ai/templates/barbie-and-raquelle-ai-trend.md",
+  "blurb": "The Barbie and Raquelle trend is the TikTok slideshow where the top half shows a 3D cartoon doll and the bottom half shows you in the same pose.",
+  "updated": "2026-10-16",
+  "published": "2026-10-16",
+  "credits": 3,
+  "demo_videos": [
+    "https://www.makeviral.ai/media/templates/barbie-and-raquelle-ai-trend/original-main-v2.mp4"
+  ],
+  "posters": [
+    "https://www.makeviral.ai/media/templates/barbie-and-raquelle-ai-trend/original-main-v1.jpg"
+  ],
+  "prompts": [
+    {
+      "label": null,
+      "variant": null,
+      "kind": "prompt",
+      "text": "Use the uploaded image as the base. Keep the original pose, hand gestures, camera angle, background and clothing, and turn the ordinary selfie in the uploaded image into the classic 3D cartoon style of a 2010s computer-animated fashion-doll TV series: a glossy 3D CGI fashion doll with smooth, flawless, slightly shiny doll skin, slim doll proportions and a long slim neck, a small neat nose, big glossy almond-shaped eyes with thick long lashes and soft eyeshadow, full glossy lips, thick shiny hair sculpted into smooth glossy locks, bright saturated colors and soft, even, cinematic studio light. Same pose, same background, a bold, glamorous doll style. Make ONE vertical 9:16 picture split into two equal halves, one above the other, with a clean straight horizontal seam across the middle and no border, no gap and no frame. TOP HALF: the person from the uploaded image as that 3D cartoon fashion doll, in exactly the same pose, head tilt, hand gestures, expression, camera angle and framing as in the photo, with the same clothes, jewelry and accessories and the same background, all redrawn in the same glossy 3D cartoon look. The doll is clearly this person: the same face shape, eye color, skin tone, eyebrows, hairstyle, hair color and hair length, and any beard, moustache, glasses, piercings, tattoos and freckles. Keep the person's gender: a man becomes a male fashion doll. BOTTOM HALF: the uploaded photo itself, exactly as it is: the same real person, face, pose, clothes, background, colors and light, photorealistic, not a cartoon, not retouched. Only scale and crop it to fill the half. Both halves show the same crop of the scene, centered on the face and upper body, so the two poses line up one above the other. Exactly one doll in the top half. No logos, no brand names, no letters or initials on necklaces, clothes or walls unless the photo has them, no doll box or packaging, no text, no captions, no watermark, no third panel. In the top half the face is a 3D doll-cartoon face of this person (big glossy doll eyes and doll makeup are the style there): the identity rules below apply in full to the real person in the bottom half, and to the doll's face shape, eye color, skin tone, hair, facial hair, glasses and age."
+    },
+    {
+      "label": null,
+      "variant": null,
+      "kind": "prompt",
+      "text": "Use the uploaded image as the base. Keep the original pose, hand gestures, camera angle, background and clothing of every person, and turn the ordinary selfie in the uploaded image into the classic 3D cartoon style of a 2010s computer-animated fashion-doll TV series: a glossy 3D CGI fashion doll with smooth, flawless, slightly shiny doll skin, slim doll proportions and a long slim neck, a small neat nose, big glossy almond-shaped eyes with thick long lashes and soft eyeshadow, full glossy lips, thick shiny hair sculpted into smooth glossy locks, bright saturated colors and soft, even, cinematic studio light. Same pose, same background, a bold, glamorous doll style. Make ONE vertical 9:16 picture split into two equal halves, one above the other, with a clean straight horizontal seam across the middle and no border, no gap and no frame. TOP HALF: every person from the uploaded image as that 3D cartoon fashion doll: exactly as many dolls as there are people in the photo, side by side in the same order, the same poses, head tilts, hand gestures, expressions and closeness as in the photo (cheek to cheek stays cheek to cheek), with the same camera angle and framing, their own clothes, jewelry and accessories and the same background, all redrawn in the same glossy 3D cartoon look. Each doll is clearly that one person: the same face shape, eye color, skin tone, eyebrows, hairstyle, hair color and hair length, and any beard, moustache, glasses, piercings, tattoos and freckles. Never blend two people, never swap hair, glasses or clothes between them, never add or drop a person. Keep each person's gender: a man becomes a male fashion doll. BOTTOM HALF: the uploaded photo itself, exactly as it is: the same real people, faces, poses, clothes, background, colors and light, photorealistic, not a cartoon, not retouched. Only scale and crop it to fill the half. Both halves show the same crop of the scene, centered on the faces and upper bodies, so the poses line up one above the other. The same people in both halves, nobody else. No logos, no brand names, no letters or initials on necklaces, clothes or walls unless the photo has them, no doll box or packaging, no text, no captions, no watermark, no third panel. In the top half every face is a 3D doll-cartoon face of that person (big glossy doll eyes and doll makeup are the style there): the identity rules below apply in full to the real people in the bottom half, and to each doll's face shape, eye color, skin tone, hair, facial hair, glasses and age."
+    }
+  ],
+  "variant_headings": [
+    "What the Barbie and Raquelle photo looks like",
+    "How to make the Barbie and Raquelle photo on MakeViral",
+    "Which photo works best?",
+    "Solo or Besties: which version should you pick?",
+    "Can I turn the picture into a video?",
+    "Is my photo private?",
+    "Other AI video templates and tools",
+    "Make your own Barbie and Raquelle photo"
+  ],
+  "prompt_count": 2
+}

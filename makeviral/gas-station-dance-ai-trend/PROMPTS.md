@@ -1,0 +1,51 @@
+# Gas Station Dance AI: Put You and Your Friends in the Viral Road Trip Reel
+
+- Source: [makeviral](https://www.makeviral.ai/templates/gas-station-dance-ai-trend)
+- Slug: `gas-station-dance-ai-trend`
+
+The gas station dance is a 2024 road trip reel that went viral again in September 2026: on a roadside gas station parking lot, one friend dances, one films a selfie and one steps out of a car, to Akcent's 2009 song "Stay with Me".
+
+## Demo videos (CDN)
+
+- https://www.makeviral.ai/media/templates/gas-station-dance-ai-trend/original-mop-unc-v2.mp4
+- https://www.makeviral.ai/media/templates/parking-lot-sunset-ai-trend/original-friends-v2.mp4
+
+## Posters
+
+- https://www.makeviral.ai/media/templates/gas-station-dance-ai-trend/original-mop-unc-v1.jpg
+- https://www.makeviral.ai/media/templates/parking-lot-sunset-ai-trend/original-friends-v1.jpg
+
+## Prompts
+
+### 1. 1. The video prompt is filled in. Settings: genjutsu-motion, 15 s, 480p, 9:16, sound off. The video prompt
+
+*Kind: video_prompt*
+
+```text
+Use the reference video's actions, timing, camera movement, and setting. Replace the opening dancer with image 1, the selfie appearance with image 2, and the car-side performer with image 3. Use each photo's face, hair, body, and outfit. Keep roles consistent, preserve the vehicle, and add no people or actions. Take only the moves from the people in the reference video, never their hair, beard, makeup or clothes. Image 1 replaces the man in the white polo shirt and light blue jeans who dances alone on the empty parking lot and throws both arms up: keep the face, hair, skin tone and body of image 1 exactly, in the clothes from image 1, with no beard unless image 1 shows one. Image 2 replaces the man in the black bucket hat and the black t-shirt who films himself in the selfie in front of the gas station: keep the face, hair and skin tone of image 2 exactly, in the clothes from image 2, with no bucket hat and no beard unless image 2 shows them. Image 3 replaces the young woman in the black track jacket who steps out of the grey car, looks into the camera in the close-up and then dances between the two cars: keep the face, hair and skin tone of image 3 exactly in every shot, also in the close-up, in the clothes from image 3. The hair of image 3 keeps its own length, cut and color in every shot: short hair stays short in the close-up, and the wind only moves it a little. No long hair and no makeup unless image 3 shows them. Do not mix the three faces. No text, no captions, no logos, no badges or lettering on the cars, no readable number plates.
+```
+
+### 2. 1. The video prompt is filled in. Settings: genjutsu-motion, 15 s, 480p, 9:16, sound off. The video prompt
+
+*Kind: video_prompt*
+
+```text
+Use the reference video's actions, timing, camera movement, and setting. Replace the opening dancer, the selfie appearance and the car-side performer with image 1. Every performer shares the identity of image 1 while keeping each role's original actions and screen position. Use the photo's face, hair, body, and outfit. Keep roles consistent, preserve the vehicle, and add no people or actions. The man in the white polo shirt who dances alone on the empty parking lot, the man in the black bucket hat who films himself in the selfie, and the young woman in the black track jacket who steps out of the grey car and looks into the camera in the close-up are all the person from image 1: keep the face, hair, skin tone and body of image 1 exactly in every shot, in the clothes from image 1, with no beard, no bucket hat and no long dark hair unless image 1 shows them. Take only the moves from the people in the reference video, never their hair, beard, makeup or clothes: the hair of image 1 keeps its own length, cut and color in every shot, also in the close-up, where the wind only moves it a little. No text, no captions, no logos, no badges or lettering on the cars, no readable number plates.
+```
+
+### 3. 1. The video prompt is filled in. Settings: Seedance 2.5, 15 s, 720p, 9:16, sound off. The video prompt
+
+*Kind: video_prompt*
+
+```text
+Recreate the reference video [Video 1] shot for shot: the same gas station at night under the white canopy lights, the same dark grey four-door car with the driver door open, the same handheld phone camera, the same two takes, camera angles, cut, timing and dance moves. The ONLY change: the muscular man in the tan blazer with the tall grey hair who climbs out of the car and dances is now the person in [Image 1].
+
+The dancer = the person in [Image 1], in EVERY shot: copy the exact face from [Image 1] (the face shape, eye color and eye shape, eyebrows, nose, mouth, skin tone, age, hair color, hair length and hairstyle, and any beard, moustache, glasses or freckles), so their friends recognize them at once. The hair is the hair from [Image 1]: NO tall grey stepped hair, no grey hair unless [Image 1] shows it. The body has the same build as in [Image 1]: NO huge bodybuilder arms, chest or shoulders unless [Image 1] shows them. They wear the clothes from [Image 1], with long trousers and shoes: NO tan blazer and NO red pocket square unless [Image 1] shows them. They copy the dance, the laugh and the face of the man in the video, not the pose in [Image 1].
+
+The same real person in every frame, from the first shot to the last, also from behind and when bent low. Never morph, never drift back to the original man's face, hair or body.
+
+The moves, beat by beat, as in [Video 1]: [00:00-00:01.5] the dancer climbs out of the driver door. [00:01.5-00:06] on the empty forecourt: arm swings, a turn with both hands up over the head, the hands behind the head. [00:06] cut to the second take, the car behind. [00:06-00:10] the mop: both hands clasped and pushed forward, swept side to side with low knee bounces. [00:10-00:15] bends down low, springs up with one fist high, high-knee steps and arm swings, a deep crouch by the car.
+
+Anatomy rules: exactly one person, one head on that person's shoulders, two arms, two legs, five fingers on each hand. A face never appears on hands, clothes or the car. No text, no captions, no logos, no badges or lettering on the car, no readable signs or brand names, no watermarks.
+```
+

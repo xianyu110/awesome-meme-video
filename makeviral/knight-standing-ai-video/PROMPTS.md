@@ -1,0 +1,48 @@
+# Remember Your Gym Bro AI Video: Your Tiny Knight Next to a Giant
+
+- Source: [makeviral](https://www.makeviral.ai/templates/knight-standing-ai-video)
+- Slug: `knight-standing-ai-video`
+
+The remember your gym bro AI video copies the viral tiny knight and giant reel shot by shot.
+
+## Demo videos (CDN)
+
+- https://www.makeviral.ai/media/templates/knight-standing-ai-video/example-giant.mp4
+- https://www.makeviral.ai/media/templates/knight-standing-ai-video/example.mp4
+
+## Posters
+
+- https://www.makeviral.ai/media/templates/knight-standing-ai-video/example-giant-input.jpg
+- https://www.makeviral.ai/media/templates/knight-standing-ai-video/example-giant-poster.jpg
+- https://www.makeviral.ai/media/templates/knight-standing-ai-video/example-input.jpg
+- https://www.makeviral.ai/media/templates/knight-standing-ai-video/example-poster.jpg
+
+## Prompts
+
+### 1. 1. The video prompt is filled in. Settings: Seedance 2.0 Mini, 10 s, 720p, 9:16, sound on. The video prompt
+
+*Kind: video_prompt*
+
+```text
+[Video 1] is a motion guide only. Copy its camera moves, timing and actions, the foggy green field and the soft grey lightWhen the camera pulls back, the huge figure who stands next to the tiny knight and holds a giant sword upright in front of the chest is the one in [Image 2]: very tall and very muscular, in a tight grey t-shirt and black trousers, staring calmly ahead. Keep the face, hair and skin tone from [Image 2] in every shot, with no mask and no helmet: the face stays visible. Photorealistic, like a real film. One continuous shot. Sound: strong wind and an original epic orchestral score, no lyrics, no dialogue. No text, no subtitles, no logos, no extra people or animals.
+```
+
+### 2. 1. The video prompt is filled in. Settings: Seedance 2.5, 15 s, 720p, 9:16, sound off. The video prompt
+
+*Kind: video_prompt*
+
+```text
+Recreate the reference video [Video 1] shot for shot: the same windy moor with long wet grass, the same fog and grey sky, the same army with banners far behind, the same slow pull-back of the camera from a close-up of the tiny knight to the wide shot, the same timing. Two changes only: the tiny knight is now the one in [Image 1], and the giant knight is now the person in [Image 2].
+
+The tiny knight = the one in [Image 1] (a child, a baby or a pet), in every frame: copy the exact face from [Image 1] - face shape, eyes, eye color, nose, mouth, skin tone or fur colors and markings, ears, age, hair color and hairstyle - so the family instantly recognizes them in the big close-up at the start. The tiny knight wears small silver plate armor and holds the long steel sword upright in front of the face, as in the reference. No pink bow and no hair clip. If [Image 1] shows a person, it is that same person, small next to the giant. Never drift back to the kitten of the original video: no kitten face, no cat ears and no fur unless [Image 1] shows a cat.
+
+The giant knight = the person in [Image 2], in every frame where the head is visible: a HUMAN head with the exact face from [Image 2] - face shape, eye color and eye shape, eyebrows, nose, mouth, skin tone, age, hair color, hair length and hairstyle, and any beard or glasses exactly as in the photo. No helmet, no mask: the face stays visible. Never a cat head, no cat ears, no fur, no whiskers. The giant wears the dark plate armor and the black fur cape of the reference, stands behind the tiny knight and looks out over the battlefield with a calm, proud face.
+
+Shots, matching the reference:
+0-7 s: big close-up of the tiny knight with the sword, the face clearly the one from [Image 1].
+7-10 s: the camera pulls back, the giant's armored body fills the background.
+10-15 s: wide shot, the giant's human face from [Image 2] comes into view high above the tiny knight, both look out over the moor.
+
+Anatomy rules: one head per knight, on its own shoulders. Do not mix the two faces. No text, no logos, no watermark, no extra people or animals.
+```
+

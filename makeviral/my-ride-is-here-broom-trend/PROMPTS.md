@@ -1,0 +1,25 @@
+# My Ride Is Here: Hop on the Broom and Fly Off Beside the Car
+
+- Source: [makeviral](https://www.makeviral.ai/templates/my-ride-is-here-broom-trend)
+- Slug: `my-ride-is-here-broom-trend`
+
+The My Ride Is Here broom trend is a Halloween 2026 video joke: filmed from a car window, someone pulls up on a flying broom, smiles at the camera and flies away, as if the broom were their ride.
+
+## Demo videos (CDN)
+
+- https://www.makeviral.ai/media/templates/my-ride-is-here-broom-trend/original-forest-v2.mp4
+
+## Posters
+
+- https://www.makeviral.ai/media/templates/my-ride-is-here-broom-trend/original-forest-v1.jpg
+
+## Prompts
+
+### 1. 1. The video prompt is filled in. Settings: h3-recast, 10 s, 720p, 9:16, sound off. The video prompt
+
+*Kind: video_prompt*
+
+```text
+Image 1 replaces the young woman with short black hair in the black polka-dot dress, black tights and black boots who walks along the forest road with a broom beside the car, looks back at the camera with a smile, sits on the broom and flies up over the trees, in every shot. Preserve the person's face, hairstyle, skin tone, proportions and outfit from image 1 in every shot, also when the rider looks back and smiles, with no short black hair and no black polka-dot dress unless image 1 shows them. The rider and the broom move as one connected unit. Keep the forest road, the tall pine trees, the car window and the side mirror, the broom, the flight path, the motion and the camera exactly as in the video.
+```
+

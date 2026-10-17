@@ -1,0 +1,31 @@
+{
+  "source": "remakeyourmeme",
+  "source_site": "https://remakeyourmeme.com",
+  "slug": "ai-pumpkin-head-photoshoot",
+  "name": "AI pumpkin head photoshoot",
+  "url": "https://remakeyourmeme.com/templates/ai-pumpkin-head-photoshoot/",
+  "blurb": "Your outfit, build and hair colour stay; the head becomes a pumpkin.",
+  "photos_in": null,
+  "duration_s": null,
+  "ready_to_make": true,
+  "demo_videos": [
+    "https://cdn.remakeyourmeme.com/trends/pumpkin-head/7560438884417506574.mp4",
+    "https://cdn.remakeyourmeme.com/trends/pumpkin-head/7560443750242209054.mp4",
+    "https://cdn.remakeyourmeme.com/trends/pumpkin-head/7689677308348747039.mp4",
+    "https://cdn.remakeyourmeme.com/trends/pumpkin-head/7691459671932161310.mp4",
+    "https://cdn.remakeyourmeme.com/trends/pumpkin-head/7694754222780255519.mp4"
+  ],
+  "preview_videos": [],
+  "posters": [],
+  "all_cdn_mp4": [
+    "https://cdn.remakeyourmeme.com/trends/pumpkin-head/7560438884417506574.mp4",
+    "https://cdn.remakeyourmeme.com/trends/pumpkin-head/7560443750242209054.mp4",
+    "https://cdn.remakeyourmeme.com/trends/pumpkin-head/7689677308348747039.mp4",
+    "https://cdn.remakeyourmeme.com/trends/pumpkin-head/7691459671932161310.mp4",
+    "https://cdn.remakeyourmeme.com/trends/pumpkin-head/7694754222780255519.mp4"
+  ],
+  "prompts": [],
+  "prompt_count": 0,
+  "prompts_public": false,
+  "note": "Remake Your Meme does not publish copyable prompt text on public template pages (one-tap remake). Inventory keeps demos, posters, and metadata only."
+}

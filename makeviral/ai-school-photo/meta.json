@@ -1,0 +1,53 @@
+{
+  "source": "makeviral",
+  "source_site": "https://www.makeviral.ai",
+  "slug": "ai-school-photo",
+  "name": "AI School Photo: Classic School Pictures From a Phone Photo",
+  "url": "https://www.makeviral.ai/templates/ai-school-photo",
+  "markdown_url": "https://www.makeviral.ai/templates/ai-school-photo.md",
+  "blurb": "The AI school photo trend, also called ChatGPT school pictures, is parents turning a phone picture of their child, taken at home, into a classic school portrait: a mottled blue backdrop, soft studio light, head and shoulders.",
+  "updated": "2026-10-15",
+  "published": "2026-10-09",
+  "credits": 3,
+  "demo_videos": [
+    "https://www.makeviral.ai/media/templates/ai-school-photo/example-laser-v2.mp4",
+    "https://www.makeviral.ai/media/templates/ai-school-photo/example-v2.mp4"
+  ],
+  "posters": [
+    "https://www.makeviral.ai/media/templates/ai-school-photo/example-laser-v2-input.jpg",
+    "https://www.makeviral.ai/media/templates/ai-school-photo/example-laser-v2-poster.jpg",
+    "https://www.makeviral.ai/media/templates/ai-school-photo/example-v2-input.jpg",
+    "https://www.makeviral.ai/media/templates/ai-school-photo/example-v2-poster.jpg"
+  ],
+  "prompts": [
+    {
+      "label": null,
+      "variant": null,
+      "kind": "prompt",
+      "text": "Use the uploaded image as the base. This is a careful photo edit of a real child, not a new portrait. Keep the child's face exactly as it is in the photo: the same face shape, eyes, eye color, eyebrows, nose, lips, teeth (keep any gaps, missing teeth, crooked teeth or braces), freckles, moles, skin texture, skin tone, hairline, hairstyle, hair color, glasses and expression. Keep the exact face width, cheeks and jaw line: do not make the face rounder, fuller, slimmer or more symmetric. Keep the head angle and the exact shape of the smile, even if it is uneven or lopsided. Keep the child's real age: do not make the child look older or younger. No beauty filter: do not smooth the skin, do not slim or reshape the face, do not enlarge the eyes, do not whiten the teeth, no makeup. Keep the child's own clothes from the photo. Turn the photo into a classic school picture day portrait taken by a professional school photographer. Crop it head and shoulders, from the middle of the chest up, with the face centered in the upper half of the frame and a little space above the hair. Replace the background with a traditional mottled blue studio backdrop: a soft, cloudy, painted blue canvas texture, a little lighter behind the head and darker toward the edges, slightly out of focus. Light it like a school portrait studio: a large soft key light from the front left, gentle fill light, a soft hair light from behind, a small catchlight in each eye, even and flattering light with no harsh shadows. True, natural skin color. Sharp focus on the eyes, 85mm portrait lens look, clean professional print quality. Vertical 9:16. Exactly one child. If the uploaded photo already shows a watermark, a studio logo or the word proof, keep it exactly where it is and never remove or cover it. Do not add any text, logo, watermark, school name, frame or border."
+    }
+  ],
+  "variant_headings": [
+    "What is the School Photo trend, and where did it start?",
+    "School Photo trend timeline",
+    "What the School Photo photo looks like",
+    "How to make the School Photo photo on MakeViral",
+    "Which photo works best?",
+    "AI school photo or the school photographer?",
+    "Is it safe to upload my child's photo?",
+    "School Photo trend questions",
+    "What is the AI school photo trend?",
+    "Is an AI school photo a real school photo?",
+    "What is the AI school photo prompt?",
+    "Is this an AI school photo generator or an app?",
+    "Is this the AI yearbook photo trend?",
+    "Can I make a sibling photo with two children?",
+    "Can I make it a short video?",
+    "Can I print the AI school photo?",
+    "Is my child's photo private?",
+    "Does the AI school photo cost credits?",
+    "Other AI video templates and tools",
+    "Make your own School Photo photo"
+  ],
+  "prompt_count": 1
+}

@@ -1,0 +1,40 @@
+# Sen Sağ Bek, Sen Sol Bek AI: Be the Halı Saha Captain Who Says "Konum Gönderin"
+
+- Source: [makeviral](https://www.makeviral.ai/templates/hali-saha-konum-gonderin-ai-trend)
+- Slug: `hali-saha-konum-gonderin-ai-trend`
+
+"Sen sağ bek, sen sol bek" is a Turkish football meme: on a five-a-side pitch (halı saha), a man who knows nothing about football hands out the positions and ends with "Top bana gelirse konum gönderin" ("if the ball comes to me, send me the location").
+
+## Demo videos (CDN)
+
+- https://www.makeviral.ai/media/templates/hali-saha-konum-gonderin-ai-trend/original-trend-v2.mp4
+
+## Posters
+
+- https://www.makeviral.ai/media/templates/hali-saha-konum-gonderin-ai-trend/original-trend-v1.jpg
+
+## Prompts
+
+### 1. 1. The video prompt is filled in. Settings: Seedance 2.5, 15 s, 720p, 9:16, sound on. The video prompt
+
+*Kind: video_prompt*
+
+```text
+A funny Turkish five-a-side football clip, like a real phone video filmed by a friend at the pitch at night: handheld, vertical 9:16, photorealistic, natural floodlight colors.
+
+The captain is the person in [Image 1], in every shot: copy the exact face from [Image 1] (the face shape, eye color and eye shape, eyebrows, nose, mouth, skin tone, age, hair color, hair length and hairstyle, and any beard, moustache, glasses or freckles), the same build, and the clothes from [Image 1]: their own everyday clothes, never a football kit. The person is an adult. The same person from the first frame to the last, so their friends recognize them at once, also in the close-up. Never morph. If [Image 1] shows an animal, the captain is that animal standing upright on its hind legs, with its own face, fur and markings, and it talks.
+
+The place: a small outdoor five-a-side football pitch at night: bright green artificial turf with white lines, tall floodlights on poles, a high green net fence all around, a small goal with a white net, and plain apartment blocks with lit windows behind the fence. Five adult amateur players stand in a loose half circle around the captain, hands on hips, in plain matching coral-red jerseys and black shorts with no logos, no badges, no names and no numbers.
+
+0-3 s, a medium shot from the knees up: the captain claps once, looks around the circle with total confidence and says loudly in Turkish: "Ben mevkileri belirliyorum."
+3-5 s: the captain points at the player on the left: "Sen kalecisin." The player nods, biting his lip to keep from laughing.
+5-9 s: the captain points at the next player: "Sen sağ bek." That player asks, confused: "Orası neresi?" The captain shrugs and waves a hand to the right: "Ne bileyim, sağda bir yer." Two players turn away, laughing.
+9-11 s: pointing at the next two players, fast: "Sen sol bek. Forvet... sen ol."
+11-14 s, a cut to a close shot of the captain from the chest up, the face large and sharp, exactly the face from [Image 1]: one hand on the chest, completely serious, the captain says: "Top bana gelirse konum gönderin, ona göre hareket edeceğim."
+14-15 s, a cut back to the group: the players burst out laughing, one bends over with his hands on his knees; the captain keeps a straight face and nods.
+
+Audio: the captain speaks clear, natural Turkish in their own voice, the mouth moving in sync with every word; one player says only "Orası neresi?"; real laughter of the players, the hum of the floodlights, distant city sounds. No music, no commentary, no other words.
+
+Exactly six people: the captain and five players. No club or national team kits, no crests, no sponsor names, no famous athlete or celebrity: the players are generic adults. One head, two arms and five fingers on each hand. No text, no captions, no subtitles, no logos, no watermark.
+```
+

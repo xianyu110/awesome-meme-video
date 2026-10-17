@@ -1,0 +1,44 @@
+{
+  "source": "makeviral",
+  "source_site": "https://www.makeviral.ai",
+  "slug": "single-ladies-dog-dance-ai",
+  "name": "Single Ladies Dog Dance: Your Pet Takes Center Stage",
+  "url": "https://www.makeviral.ai/templates/single-ladies-dog-dance-ai",
+  "markdown_url": "https://www.makeviral.ai/templates/single-ladies-dog-dance-ai.md",
+  "blurb": "The Single Ladies dog dance is the viral AI trend where a pet takes the middle dancer's spot in a trio doing Beyoncé's \"Single Ladies\" routine in a dark studio.",
+  "updated": "2026-10-13",
+  "published": "2026-10-12",
+  "credits": 228,
+  "demo_videos": [
+    "https://www.makeviral.ai/media/templates/ai-pet-stage-dance/original-human-v2.mp4",
+    "https://www.makeviral.ai/media/templates/ai-pet-stage-dance/original-pet-v2.mp4"
+  ],
+  "posters": [
+    "https://www.makeviral.ai/media/templates/ai-pet-stage-dance/original-human-v1.jpg",
+    "https://www.makeviral.ai/media/templates/ai-pet-stage-dance/original-pet-v1.jpg"
+  ],
+  "prompts": [
+    {
+      "label": "1. The video prompt is filled in. Settings: Seedance 2.5, 15 s, 720p, 9:16, sound off. The video prompt",
+      "variant": "Pet",
+      "kind": "video_prompt",
+      "text": "Recreate the reference video [Video 1] shot for shot: the same dark dance studio with a reflective floor and warm spotlights, the same two female backup dancers behind with their own faces, outfits, hair tosses and positions, the same low camera angle and continuous shot, the same timing. The ONLY change: the long-haired brown dog in the center foreground is now the pet in [Image 1].\n\nThe dancer = the pet in [Image 1], whole body, in every frame: the same species and breed, head shape, muzzle, eyes, ears, fur colors, natural fur length, markings and body proportions as in [Image 1], so its owner instantly recognizes it. Never drift back to the dog of the original video: no long brown fur and no long feathered ears unless [Image 1] shows them. It follows the reference dog's head dip, upward lift, side tilts and head tosses at the same moments, with natural neck movement and fur that responds to each move. Keep all four paws on the floor. If [Image 1] shows a cat, it stays clearly a cat with a cat's head and ears, with gentle head dips, lifts and tilts.\n\nThe moments, matching the reference second by second:\n0-1 s: the head dips low toward the floor.\n1-3 s: the head lifts up and looks at the camera.\n3-6 s: a big head toss up and back, then side tilts.\n6-10 s: head tilts left and right on the beat while the dancers behind toss their hair.\n10-15 s: a second big head toss, then looks straight at the camera.\n\nAnatomy rules: one head only. Four legs, no extra legs or paws, no human arms. The backup dancers keep their own faces. No text, no logos, no watermark, no extra animals, no cuts."
+    },
+    {
+      "label": "1. The video prompt is filled in. Settings: Seedance 2.0 Mini, 15 s, 720p, 9:16, sound off. The video prompt",
+      "variant": "Human",
+      "kind": "video_prompt",
+      "text": "[Video 1] is a motion guide only. Copy its camera, timing and choreography, the dark dance studio with a pale floor, the low camera angle and the continuous shot. Do NOT copy the people in [Video 1]: not their faces, hair, skin tone or clothes. Replace all of them. The lead dancer in the center foreground is the one in [Image 1]. Keep the face, hair, skin tone, body and clothes from [Image 1] in every shot, also in the hair tosses, with no gray crop top and no wide plaid pants unless [Image 1] shows them. Follow the reference dancer's head dip, upward lift, hip sways, hand on the hip, hand turns by the face and head tosses at the same moments. The two backup dancers behind on the left and the right are new young women in casual dance clothes, not the ones in [Video 1], who do the same choreography in the same positions. Photorealistic, like a real phone video in a dance studio. One continuous shot. No text, no subtitles, no logos, no extra people, no cuts."
+    }
+  ],
+  "variant_headings": [
+    "What the Single Ladies Dog video looks like",
+    "How to make the Single Ladies Dog video on MakeViral",
+    "Which photo works best?",
+    "How long is the video and what format is it?",
+    "Will Beyoncé be in my video?",
+    "Other AI video templates and tools",
+    "Make your own Single Ladies Dog video"
+  ],
+  "prompt_count": 2
+}

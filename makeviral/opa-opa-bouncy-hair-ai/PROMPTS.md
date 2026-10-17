@@ -1,0 +1,58 @@
+# Opa Opa Opa Trend AI: Bounce Your Hair to the Viral Sound
+
+- Source: [makeviral](https://www.makeviral.ai/templates/opa-opa-bouncy-hair-ai)
+- Slug: `opa-opa-bouncy-hair-ai`
+
+The Opa Opa Opa trend is the TikTok trend where you film a selfie, bounce to a sped-up Russian hook, "slysh ty zalip, opa opa op", and let your hair fly like jelly.
+
+## Demo videos (CDN)
+
+- https://www.makeviral.ai/media/templates/opa-opa-bouncy-hair-ai/original-bounce-v2.mp4
+
+## Posters
+
+- https://www.makeviral.ai/media/templates/opa-opa-bouncy-hair-ai/original-bounce-v1.jpg
+
+## Prompts
+
+### 1. 1. The video prompt is filled in. Settings: Seedance 2.5, 10 s, 720p, 9:16, sound off. The video prompt (Human)
+
+*Kind: video_prompt*
+
+```text
+Recreate the reference video [Video 1] shot for shot: the same selfie video filmed with the front phone camera held out at arm's length, the same living room with cream walls, a white ceiling, a small chandelier and a dark doorway behind, the same warm indoor light, the same framing from the top of the head to the chest, the same timing and moves, one continuous handheld take that bounces with the beat. The ONLY change: the young woman with very long straight ginger hair who bounces and tosses her hair is now the person in [Image 1].
+
+The person = the person in [Image 1], in every frame: copy the exact face from [Image 1] - face shape, eye color and eye shape, eyebrows, nose, mouth, skin tone, age, hair color, hair length and hairstyle, and any beard, moustache, glasses or freckles exactly as in the photo. The same real person in every frame, from the first second to the last, so their friends instantly recognize them, also when the hair flies across the face and while they laugh with the eyes shut. Never morph, never drift back to the original woman's face, never add or remove facial hair. NO long ginger hair, NO lip piercing and NO arm tattoo unless [Image 1] shows them. They wear the clothes from [Image 1], never the black T-shirt with the pink print of the original video; if [Image 1] shows only the head, invent the rest so it matches naturally.
+
+Their own hair, with the color, length and style from [Image 1], bounces on every beat: it lifts, swings and flies around the head and drops back, springy like jelly. Short hair springs up too.
+
+The moves, matching the reference second by second, on the beat:
+0-2 s: bounces on the spot facing the camera and smiles, the hair swinging from side to side.
+2-5 s: raises one hand and runs it through the hair on top of the head, pushes the hair back and turns the head from side to side, a wide-eyed look to the side, then a smile.
+5-7 s: the hand comes down with a small wave by the head; keeps bouncing to the camera with a playful face.
+7-8 s: laughs with the eyes squeezed shut while the hair tosses.
+8-10 s: bounces and smiles, then wide eyes and a round "o" mouth on the last beat.
+
+Anatomy rules: one head only, on the person's own shoulders. Two arms and two hands with five fingers each; one arm holds the phone outside the frame. No text, no captions, no logos, no watermark, no extra people.
+```
+
+### 2. 1. Open [AI Photo with this template](https://www.makeviral.ai/photo?template=opa-opa-bouncy-hair-ai&variant=anime) and add your photo (your photo). The photo prompt is filled in
+
+*Kind: photo_prompt*
+
+```text
+Use [Image 1] as the character reference. Recreate the character from [Image 1] in the exact pose below.
+Match this pose closely: tight upper-body portrait, character leaning slightly toward the camera, torso subtly angled, head slightly tilted and lowered while looking directly at the viewer. One arm is raised beside the face with the elbow bent and forearm pointing upward. The hand is close to the camera and beside the face, palm mostly facing the viewer, with all five fingers separated and naturally curled inward into the same loose claw-like gesture. Keep the hand prominent in the foreground and preserve its position relative to the face. The other arm is stretched out toward the camera, as if holding the phone for a selfie.
+Use the [Image 1] character's hair color, hairstyle, bangs, eye color, hair accessories, clothing, colors, and facial features exactly. Keep the character recognizable while adapting the expression to a gentle, playful smile.
+Polished anime style, clean linework, soft cel shading, pastel colors, natural anatomy, detailed hands and fingers, soft lighting, minimal pale background. Vertical 9:16. Exactly one person. No text, no logos, no watermark.
+The face is always drawn in this polished anime style, never a photo face: the identity rules below apply to the anime character's face shape, eye color, hair color, hairstyle, bangs, skin tone, glasses, gender and clothes.
+```
+
+### 3. 3. Press the film button on the still to open AI Video with the still as the first frame. Settings: Kling 3.0, 10 s, 1080p, 9:16, sound on. The video prompt
+
+*Kind: video_prompt*
+
+```text
+Animate the character subtly bopping their head and upper body in place to fast-paced music. Keep the exact same pose, composition, and framing. The claw-like hand remains in the exact same position, but its fingers make very subtle, natural movements - slight curling and relaxing while maintaining the same overall claw gesture and placement. The other arm stays extended as if holding the camera/phone. No camera movement, panning, zooming, or perspective changes. Add realistic hair and clothing gravity with gentle secondary motion. The character occasionally blinks, gives an occasional quick wink, and makes small cute facial expressions. The whole body should rhythmically bop as if casually vibing to energetic music, but keep the movement subtle and natural, never exaggerated, keep the background completely unchanged. One continuous shot. No text, no subtitles, no logos, no watermark, no extra people, no extra hands, no cuts.
+```
+

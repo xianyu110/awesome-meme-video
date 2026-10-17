@@ -1,0 +1,57 @@
+{
+  "source": "makeviral",
+  "source_site": "https://www.makeviral.ai",
+  "slug": "squishy-ai-trend",
+  "name": "Squishy Face AI Trend: Turn Your Face Into a Squishy Toy From One Photo",
+  "url": "https://www.makeviral.ai/templates/squishy-ai-trend",
+  "markdown_url": "https://www.makeviral.ai/templates/squishy-ai-trend.md",
+  "blurb": "The squishy face AI trend turns one photo of your face into a glossy, jelly-like silicone head lying on a table.",
+  "updated": "2026-10-15",
+  "published": "2026-10-13",
+  "credits": 46,
+  "demo_videos": [
+    "https://www.makeviral.ai/media/templates/squishy-ai-trend/original-alt-v2.mp4",
+    "https://www.makeviral.ai/media/templates/squishy-ai-trend/original-main-v2.mp4"
+  ],
+  "posters": [
+    "https://www.makeviral.ai/media/templates/squishy-ai-trend/original-alt-v1.jpg",
+    "https://www.makeviral.ai/media/templates/squishy-ai-trend/original-main-v1.jpg"
+  ],
+  "prompts": [
+    {
+      "label": "1. Open [AI Photo with this template](https://www.makeviral.ai/photo?template=squishy-ai-trend) and add your photo (your face, straight on). The photo prompt is filled in",
+      "variant": null,
+      "kind": "photo_prompt",
+      "text": "Use the uploaded image as the base: keep the person's face and hair. Hyper realistic glossy silicone jelly face mask resting on wooden table surface, soft squishy skin texture, cheeks slightly spread outward against the table, face slightly flattened by gravity, macro close up top-down portrait, perfectly centered composition, ultra smooth reflective skin highlights, studio soft lighting reflections, extremely detailed pores and eyelashes, hyper realistic octane render, oddly satisfying ASMR aesthetic, no hands visible, portrait orientation, aspect ratio 9:16, ultra detailed 8k, gentle calm expression, relaxed eyes, smooth cheeks, soft innocent look, use reference image for 100% face identity, facial structure and identity must exactly match the uploaded reference image. Exactly one face. No text, no logos, no watermark."
+    },
+    {
+      "label": "3. Press the film button on the still to open AI Video with the still as the first frame. Settings: Kling 3.0, 8 s, 1080p, 9:16, sound on. The video prompt",
+      "variant": null,
+      "kind": "video_prompt",
+      "text": "Macro cinematic shot of a glossy silicone jelly human face resting on wooden table, hyper realistic skin texture, two hands entering frame and aggressively kneading and mashing the entire face like soft dough, deep compression folding and stretching deformation, cheeks spreading across the surface, facial features heavily distorted then slowly bouncing back, oddly satisfying ASMR motion, cinematic studio lighting, ultra realistic physics simulation, vertical 9:16, 4k animation. Keep the face and hair from the image: at the end it bounces back to exactly that face. Audio: close-up wet silicone squelches and soft sticky pops in time with every squeeze; no music, no speech. Exactly two hands with five fingers each. One continuous shot, no cuts. No text, no logos, no watermark."
+    },
+    {
+      "label": "1. Open [AI Photo with this template](https://www.makeviral.ai/photo?template=squishy-ai-trend&variant=pet) and add your photo (your pet's face, straight on). The photo prompt is filled in",
+      "variant": "Pet",
+      "kind": "photo_prompt",
+      "text": "Use the uploaded image as the base: keep the pet's species, breed, face, eye color, fur color and markings. Hyper realistic glossy silicone jelly face mask of the pet resting on wooden table surface, soft squishy skin texture, cheeks slightly spread outward against the table, face slightly flattened by gravity, macro close up top-down portrait, perfectly centered composition, ultra smooth reflective skin highlights, studio soft lighting reflections, extremely detailed fur and eyelashes, hyper realistic octane render, oddly satisfying ASMR aesthetic, no hands visible, portrait orientation, aspect ratio 9:16, ultra detailed 8k, gentle calm expression, relaxed eyes, smooth cheeks, soft innocent look, use reference image for 100% face identity, the pet's face and identity must exactly match the uploaded reference image. Exactly one animal face. No text, no logos, no watermark."
+    },
+    {
+      "label": "3. Press the film button on the still to open AI Video with the still as the first frame. Settings: Kling 3.0, 8 s, 1080p, 9:16, sound on. The video prompt",
+      "variant": null,
+      "kind": "video_prompt",
+      "text": "Macro cinematic shot of a glossy silicone jelly pet face resting on wooden table, hyper realistic skin texture, two hands entering frame and aggressively kneading and mashing the entire face like soft dough, deep compression folding and stretching deformation, cheeks spreading across the surface, facial features heavily distorted then slowly bouncing back, oddly satisfying ASMR motion, cinematic studio lighting, ultra realistic physics simulation, vertical 9:16, 4k animation. Keep the pet's face, fur colors and markings from the image: at the end it bounces back to exactly that face. Audio: close-up wet silicone squelches and soft sticky pops in time with every squeeze; no music, no speech, no barking. Exactly two hands with five fingers each. One continuous shot, no cuts. No text, no logos, no watermark."
+    }
+  ],
+  "variant_headings": [
+    "What the Squishy Face video looks like",
+    "How to make the Squishy Face video on MakeViral",
+    "Which photo works best?",
+    "What happens in the squishy face video, second by second?",
+    "How long is the squishy video, and does it have sound?",
+    "Does the squishy face video cost credits?",
+    "Other AI video templates and tools",
+    "Make your own Squishy Face video"
+  ],
+  "prompt_count": 4
+}

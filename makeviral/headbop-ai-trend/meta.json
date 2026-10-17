@@ -1,0 +1,54 @@
+{
+  "source": "makeviral",
+  "source_site": "https://www.makeviral.ai",
+  "slug": "headbop-ai-trend",
+  "name": "Headbop Trend AI: Your Family's Heads Bop in a Row",
+  "url": "https://www.makeviral.ai/templates/headbop-ai-trend",
+  "markdown_url": "https://www.makeviral.ai/templates/headbop-ai-trend.md",
+  "blurb": "The headbop trend is a TikTok edit where a row of cut-out heads on a black background bops to a phonk beat, from the smallest to the biggest.",
+  "updated": "2026-10-15",
+  "published": "2026-10-14",
+  "credits": 44,
+  "demo_videos": [
+    "https://www.makeviral.ai/media/templates/headbop-ai-trend/example-v1.mp4",
+    "https://www.makeviral.ai/media/templates/headbop-ai-trend/original-main-v2.mp4"
+  ],
+  "posters": [
+    "https://www.makeviral.ai/media/templates/headbop-ai-trend/example-input-v1.jpg",
+    "https://www.makeviral.ai/media/templates/headbop-ai-trend/example-v1.jpg",
+    "https://www.makeviral.ai/media/templates/headbop-ai-trend/original-main-v1.jpg"
+  ],
+  "prompts": [
+    {
+      "label": "1. The video prompt is filled in. Settings: Kling 3.0 Omni, 11 s, 720p, 9:16, sound off. The video prompt",
+      "variant": null,
+      "kind": "video_prompt",
+      "text": "Replace each of the four cats in the video with the person in the first image: the small striped cat, the black-and-white cat, the grey cat with the big round eyes and the orange cat in the black hoodie all become the head and shoulders of this same person. Keep the original actions, facial expressions, poses, body movements, camera movement, background, lighting and timing. Only replace the cats and keep everything else unchanged.\n\nThe video is a headbop: a row of cut-out heads on a black background, from small to big, that bop to the beat while the camera slides along the row.\n\nTiming, second by second, as in the original video:\n0-3.2 s: four heads in a row, the smallest on the left and the biggest at the right edge of the frame, partly out of the frame. They bop in turn to the beat.\n3.2-5.3 s: the camera moves closer to the three heads on the left. The biggest head is out of the frame.\n5.3-5.7 s: a quick fade to black and back.\n5.7-9.2 s: the same row, mirrored: the biggest head slides in at the left edge of the frame, then the others down to the smallest on the right. All four heads are the person again, no cat. They bop in turn to the beat.\n9.2-11 s: the camera moves closer to the three heads on the right. The biggest head is out of the frame.\n\nEvery head is the person from the first image, in every frame: the same face, eye color, eyebrows, nose, mouth, skin tone, age, hair color and hairstyle, and any glasses, beard or freckles as in the first image. Only the size changes from head to head, so their friends recognize them at once. Each head is a clean cut-out of the head, neck and shoulders, in the clothes from the first image. No cat in any frame, also after the fade to black: not the small striped cat, not the black-and-white cat, not the grey cat with the big round eyes, not the orange cat in the hoodie. No cat ears, no fur, no whiskers and no cat face anywhere. No hoodie, no badge, nothing in the mouth. One head in each place, no extra heads. The black background stays black above and below the row. No text, no logos, no watermark."
+    },
+    {
+      "label": "1. The video prompt is filled in. Settings: Kling 3.0 Omni, 11 s, 720p, 9:16, sound off. The video prompt",
+      "variant": null,
+      "kind": "video_prompt",
+      "text": "Replace the cats in the video with the people in the first, second and third images, and remove the orange cat in the black hoodie. Keep the original actions, facial expressions, poses, body movements, camera movement, background, lighting and timing. Only replace and remove the cats and keep everything else unchanged.\n\nWho is who, in every frame:\nThe big grey cat with the big round eyes = the person in the first image.\nThe black-and-white cat = the person in the second image.\nThe small striped cat = the person in the third image.\nThe orange cat in the black hoodie never appears: where it is in the video, there is only the black background.\n\nThe video is a headbop: a row of cut-out heads on a black background, from small to big, that bop to the beat while the camera slides along the row.\n\nTiming, second by second, as in the original video:\n0-5.3 s: three heads in a row: the person from the third image (small, left), the person from the second image (middle), the person from the first image (big, right). They bop in turn to the beat, and the camera moves closer.\n5.3-5.7 s: a quick fade to black and back.\n5.7-11 s: the same row, mirrored: the person from the first image (big, left), the person from the second image (middle), the person from the third image (small, right). They bop in turn to the beat, and the camera moves closer.\n\nEach person keeps the face, eye color, eyebrows, nose, mouth, skin tone, age, hair color and hairstyle, and any glasses, beard or freckles from their own image in every frame, so their friends recognize them at once. Never blend their faces. Each head is a clean cut-out of the head, neck and shoulders, in the clothes from their own image. No cat ears, no fur, no whiskers and no cat face anywhere. No hoodie, no badge, nothing in the mouth. Exactly three heads, never a fourth. The black background stays black above and below the row. No text, no logos, no watermark."
+    },
+    {
+      "label": "1. The video prompt is filled in. Settings: Kling 3.0 Omni, 11 s, 720p, 9:16, sound off. The video prompt",
+      "variant": "Pet",
+      "kind": "video_prompt",
+      "text": "Replace each of the four cats in the video with the pet in the first image: the small striped cat, the black-and-white cat, the grey cat with the big round eyes and the orange cat in the black hoodie all become the head and shoulders of this same pet. Keep the original actions, facial expressions, poses, body movements, camera movement, background, lighting and timing. Only replace the cats and keep everything else unchanged.\n\nThe video is a headbop: a row of cut-out heads on a black background, from small to big, that bop to the beat while the camera slides along the row.\n\nTiming, second by second, as in the original video:\n0-3.2 s: four heads in a row, the smallest on the left and the biggest at the right edge of the frame, partly out of the frame. They bop in turn to the beat.\n3.2-5.3 s: the camera moves closer to the three heads on the left. The biggest head is out of the frame.\n5.3-5.7 s: a quick fade to black and back.\n5.7-9.2 s: the same row, mirrored: the biggest head slides in at the left edge of the frame, then the others down to the smallest on the right. All four heads are the pet again, no cat from the video. They bop in turn to the beat.\n9.2-11 s: the camera moves closer to the three heads on the right. The biggest head is out of the frame.\n\nEvery head is the pet from the first image, in every frame: the same species and breed, face, eyes, ears, muzzle, fur colors, fur length and markings as in the first image, with the natural proportions of that animal: never flattened, squashed or stretched. Only the size changes from head to head. None of the cats from the video stays: not the small striped cat, not the black-and-white cat, not the grey cat with the big round eyes, not the orange cat. No hoodie, no badge, nothing in the mouth. One head in each place, no extra heads. The black background stays black above and below the row. No text, no logos, no watermark."
+    }
+  ],
+  "variant_headings": [
+    "What the Headbop Trend video looks like",
+    "How to make the Headbop Trend video on MakeViral",
+    "Which photo works best?",
+    "What happens in the headbop video, second by second?",
+    "Just you, Family or Pet: which headbop should you make?",
+    "Is the headbop video real?",
+    "How long is the video and what format is it?",
+    "Is there a head bop AI video?",
+    "Other AI video templates and tools",
+    "Make your own Headbop Trend video"
+  ],
+  "prompt_count": 3
+}

@@ -1,0 +1,33 @@
+# Dimitri Meme AI: Amanhã é Feriado, Starring You
+
+- Source: [makeviral](https://www.makeviral.ai/templates/amanha-e-feriado-ai-trend)
+- Slug: `amanha-e-feriado-ai-trend`
+
+The Dimitri meme is a 2008 Russian club interview: a young man grumbles to a TV reporter, hears some news and bursts into a wild dance.
+
+## Demo videos (CDN)
+
+- https://www.makeviral.ai/media/templates/amanha-e-feriado-ai-trend/original-main-v2.mp4
+
+## Posters
+
+- https://www.makeviral.ai/media/templates/amanha-e-feriado-ai-trend/original-main-v1.jpg
+
+## Prompts
+
+### 1. 1. The video prompt is filled in. Settings: Seedance 2.5, 20 s, 720p, 9:16, sound off. The video prompt
+
+*Kind: video_prompt*
+
+```text
+Recreate the reference video [Video 1] shot for shot: the same dark night club with red curtains and dancers in the back, the same handheld TV-interview camera with very close framing, the same cuts, timing, head moves, mouth moves and facial expressions. The ONLY change: the young man with short blond hair in the beige sweater, who is interviewed and then dances, is now the person in [Image 1].
+
+The interviewed person = the person in [Image 1], in EVERY shot: copy the exact face from [Image 1] - face shape, eye color and eye shape, eyebrows, nose, mouth, skin tone, age, hair color, hair length and hairstyle, and any beard, moustache, glasses or freckles exactly as in the photo. NO short blond hair unless [Image 1] shows it. They wear the clothes from [Image 1], never the beige sweater from the video, with no printed words or logos on the clothes. The same real person in every frame, in the side close-ups and while laughing with the mouth wide open, so their friends instantly recognize them. Never morph, never drift back to the original young man's face.
+
+Matching the reference second by second: 0-4 s, side close-ups: they talk into the silver microphone, bored and disappointed, looking off to the side. 4-5 s: they lean in toward the camera with a frown. 5-10 s: they keep talking to the interviewer at the left edge of the frame, unimpressed. 10-12 s: the interviewer leans in and tells them something, they turn to her, their eyes go wide and a huge grin spreads. 12-14.5 s: they laugh with the mouth wide open and start to dance. 14.5-20 s: they dance toward the camera and wave both open hands in front of the lens, laughing, exactly when the young man in [Video 1] does.
+
+The interviewer with reddish-brown hair, the crowd and the club stay exactly as in the video. The microphone is a plain silver microphone with a plain dark blue cube, no logo and no letters on it.
+
+Anatomy rules: one head only, on the person's own shoulders. A face never appears on the hands, the microphone or the clothes. Five fingers on each hand. No text, no captions, no logos, no watermark.
+```
+

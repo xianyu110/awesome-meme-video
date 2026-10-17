@@ -1,0 +1,49 @@
+{
+  "source": "makeviral",
+  "source_site": "https://www.makeviral.ai",
+  "slug": "bulin-47-ai-trend",
+  "name": "Bulin 47 AI: Step Into the Dame Hombro Freestyle",
+  "url": "https://www.makeviral.ai/templates/bulin-47-ai-trend",
+  "markdown_url": "https://www.makeviral.ai/templates/bulin-47-ai-trend.md",
+  "blurb": "The Bulin 47 AI trend, also called the Dame Hombro trend, recasts a viral freestyle from October 2026.",
+  "updated": "2026-10-15",
+  "published": "2026-10-10",
+  "credits": 152,
+  "demo_videos": [
+    "https://www.makeviral.ai/media/templates/bulin-47-ai-trend/original-main-v2.mp4",
+    "https://www.makeviral.ai/media/templates/bulin-47-ai-trend/original-pet-v2.mp4"
+  ],
+  "posters": [
+    "https://www.makeviral.ai/media/templates/bulin-47-ai-trend/original-main-v1.jpg",
+    "https://www.makeviral.ai/media/templates/bulin-47-ai-trend/original-pet-v1.jpg"
+  ],
+  "prompts": [
+    {
+      "label": "1. The video prompt is filled in. Settings: Seedance 2.5, 10 s, 720p, 9:16, sound off. The video prompt",
+      "variant": "Human",
+      "kind": "video_prompt",
+      "text": "Recreate the reference video [Video 1] shot for shot: the same red-lit club stairs, the same crowd filming on phones, the same handheld phone camera, the same camera angles, cuts, timing and moves. The rapper's mouth moves with the words exactly like in the video. The ONLY change: the man in the black t-shirt with the chain who freestyles to the speaker is now the person in [Image 1].\n\nThe rapper = the person in [Image 1], in EVERY shot: copy the exact face from [Image 1] - face shape, eye color and eye shape, eyebrows, nose, mouth, skin tone, age, hair color, hair length and hairstyle, and any beard, moustache, glasses or freckles exactly as in the photo, with no beard unless [Image 1] shows one. They wear the clothes from [Image 1]. They copy the rapping mouth, the face and the hand moves of the rapper in the video, not the smile in [Image 1].\n\nThe same real person in every frame, from the first shot to the last, so their friends instantly recognize them. Never morph, never drift back to the original rapper's face, never add or remove facial hair.\n\nThe man in the maroon hoodie who holds the speaker in the foreground keeps his own look and the back of his head; the crowd keeps their own faces.\n\nAnatomy rules: one head per person, on that person's own shoulders. A face never appears on hands, clothes or the speaker. No text, no logos."
+    },
+    {
+      "label": "1. The video prompt is filled in. Settings: Seedance 2.5, 14 s, 720p, 9:16, sound off. The video prompt",
+      "variant": "Pet",
+      "kind": "video_prompt",
+      "text": "Recreate the reference video [Video 1] shot for shot: the same red-lit club stairs, the same crowd filming on phones, the same handheld phone camera, the same dance, the same camera angles, cuts, timing and moves. The ONLY change: the head of the fluffy white cat with the brown bowl-cut wig is now the head of the pet in [Image 1].\n\nThe dancer's head = the pet in [Image 1], in EVERY shot: the same species and breed, face, eyes, ears, muzzle, fur colors, fur length and markings as in [Image 1], with the natural body volume and proportions of that animal: never flattened, squashed, stretched or merged with anything, with no wig. It keeps the human body in the gray sweatshirt, the jeans and the white sneakers, and the same dance moves as in the video.\n\nThe pet looks exactly like its photo in every frame, from the first shot to the last. The man who holds the speaker and the crowd keep their own looks.\n\nAnatomy rules: one head only, the pet's head, on the dancer's shoulders. No text, no logos."
+    }
+  ],
+  "variant_headings": [
+    "What the Bulin 47 Freestyle video looks like",
+    "How to make the Bulin 47 Freestyle video on MakeViral",
+    "Which photo works best?",
+    "What happens in the Bulin 47 AI video?",
+    "How do I make the Bulin 47 AI video with my photo?",
+    "¿Cómo hacer el video de Bulin 47?",
+    "Does the video have the original freestyle song?",
+    "How long is the video and what format is it?",
+    "Is this an official Bulin 47 video maker?",
+    "Where was the Bulin 47 viral video filmed?",
+    "Other AI video templates and tools",
+    "Make your own Bulin 47 Freestyle video"
+  ],
+  "prompt_count": 2
+}

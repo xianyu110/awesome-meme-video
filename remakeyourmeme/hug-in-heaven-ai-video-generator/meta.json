@@ -1,0 +1,51 @@
+{
+  "source": "remakeyourmeme",
+  "source_site": "https://remakeyourmeme.com",
+  "slug": "hug-in-heaven-ai-video-generator",
+  "name": "Hug in Heaven AI Video Generator",
+  "url": "https://remakeyourmeme.com/templates/hug-in-heaven-ai-video-generator/",
+  "blurb": "2 real videos from this maker, unedited, made October 15, 2026 with photos of AI-generated sample people. Pick a tab to watch each one.",
+  "photos_in": null,
+  "duration_s": 14,
+  "ready_to_make": true,
+  "demo_videos": [
+    "https://cdn.remakeyourmeme.com/examples/hug-in-heaven/v2/sample-1/preview-854.mp4",
+    "https://cdn.remakeyourmeme.com/examples/hug-in-heaven/v2/sample-1/video.mp4",
+    "https://cdn.remakeyourmeme.com/examples/hug-in-heaven/v2/sample-2/preview-854.mp4",
+    "https://cdn.remakeyourmeme.com/examples/hug-in-heaven/v2/sample-2/video.mp4",
+    "https://cdn.remakeyourmeme.com/trends/hug-in-heaven/7671245533687663886.mp4",
+    "https://cdn.remakeyourmeme.com/trends/hug-in-heaven/7688375907219705102.mp4",
+    "https://cdn.remakeyourmeme.com/trends/hug-in-heaven/7690758687815699720.mp4",
+    "https://cdn.remakeyourmeme.com/trends/hug-in-heaven/7695076224720227597.mp4",
+    "https://cdn.remakeyourmeme.com/trends/hug-in-heaven/7695121630195993887.mp4",
+    "https://cdn.remakeyourmeme.com/trends/hug-in-heaven/7696472081373891854.mp4"
+  ],
+  "preview_videos": [
+    "https://cdn.remakeyourmeme.com/examples/hug-in-heaven/v2/sample-1/preview-854.mp4",
+    "https://cdn.remakeyourmeme.com/examples/hug-in-heaven/v2/sample-2/preview-854.mp4"
+  ],
+  "posters": [
+    "https://cdn.remakeyourmeme.com/templates/baby-doll/poster-640.webp",
+    "https://cdn.remakeyourmeme.com/templates/baby-doll/poster.jpg",
+    "https://cdn.remakeyourmeme.com/templates/closed-on-sunday/poster-640.webp"
+  ],
+  "all_cdn_mp4": [
+    "https://cdn.remakeyourmeme.com/examples/hug-in-heaven/v2/sample-1/preview-854.mp4",
+    "https://cdn.remakeyourmeme.com/examples/hug-in-heaven/v2/sample-1/video.mp4",
+    "https://cdn.remakeyourmeme.com/examples/hug-in-heaven/v2/sample-2/preview-854.mp4",
+    "https://cdn.remakeyourmeme.com/examples/hug-in-heaven/v2/sample-2/video.mp4",
+    "https://cdn.remakeyourmeme.com/templates/baby-doll/video.mp4",
+    "https://cdn.remakeyourmeme.com/templates/closed-on-sunday/video.mp4",
+    "https://cdn.remakeyourmeme.com/templates/zombie-couple/video.mp4",
+    "https://cdn.remakeyourmeme.com/trends/hug-in-heaven/7671245533687663886.mp4",
+    "https://cdn.remakeyourmeme.com/trends/hug-in-heaven/7688375907219705102.mp4",
+    "https://cdn.remakeyourmeme.com/trends/hug-in-heaven/7690758687815699720.mp4",
+    "https://cdn.remakeyourmeme.com/trends/hug-in-heaven/7695076224720227597.mp4",
+    "https://cdn.remakeyourmeme.com/trends/hug-in-heaven/7695121630195993887.mp4",
+    "https://cdn.remakeyourmeme.com/trends/hug-in-heaven/7696472081373891854.mp4"
+  ],
+  "prompts": [],
+  "prompt_count": 0,
+  "prompts_public": false,
+  "note": "Remake Your Meme does not publish copyable prompt text on public template pages (one-tap remake). Inventory keeps demos, posters, and metadata only."
+}

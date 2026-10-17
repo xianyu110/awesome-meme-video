@@ -1,0 +1,30 @@
+# Storm AI Trend: Stand Still While the Crowd Bows
+
+- Source: [makeviral](https://www.makeviral.ai/templates/storm-ai-trend)
+- Slug: `storm-ai-trend`
+
+The Storm AI trend is a short clip where one person in white stands perfectly still in the middle of a crowd in black suits.
+
+## Demo videos (CDN)
+
+- https://www.makeviral.ai/media/templates/storm-ai-trend/example.mp4
+
+## Posters
+
+- https://www.makeviral.ai/media/templates/storm-ai-trend/example-input.jpg
+- https://www.makeviral.ai/media/templates/storm-ai-trend/example-poster.jpg
+
+## Prompts
+
+### 1. 1. The video prompt is filled in. Settings: Seedance 2.5, 10 s, 720p, 9:16, sound on. The video prompt
+
+*Kind: video_prompt*
+
+```text
+A cinematic music-video shot in one continuous take. The lead is the person in [Image 1], in every frame: copy the exact face from [Image 1] (the face shape, eye color and eye shape, eyebrows, nose, mouth, skin tone, age, hair color, hair length and hairstyle, and any beard, moustache, glasses or freckles), so their friends recognize them at once. The lead wears a clean all-white outfit and stands perfectly still in the exact center of wide grey stone steps in front of a large building, looking straight into the camera for the whole clip. Around and behind the lead stand forty to sixty people in identical black suits, in tight rows like a wall, all facing the camera. The lead is the only person in white. Overcast daylight, slight film grain.
+
+The camera starts at a medium shot of the lead, from the waist up, with the crowd behind, and slowly pushes in. On a heavy beat, the whole crowd in black suits explodes into one sharp synchronized move: they clutch their ties, twist and snap their heads to the side, then fold into a deep, fast bow and snap back up. They repeat the bow once more and freeze. Only the crowd moves; the lead never moves and keeps the same face from the first frame to the last.
+
+Audio: an original dark, heavy electronic beat with deep drums. No cigarettes, no text, no logos.
+```
+

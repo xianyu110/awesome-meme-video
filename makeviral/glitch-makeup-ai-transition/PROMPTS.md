@@ -1,0 +1,33 @@
+# Glitch Makeup AI Transition: From Paint Swipe to Cyber Look
+
+- Source: [makeviral](https://www.makeviral.ai/templates/glitch-makeup-ai-transition)
+- Slug: `glitch-makeup-ai-transition`
+
+Glitch makeup is the TikTok transition where you paint bright green stripes on your face, glitch colors flicker inside the paint, and on the beat drop you cut to a finished cyber look.
+
+## Demo videos (CDN)
+
+- https://www.makeviral.ai/media/templates/glitch-makeup-ai-transition/original-main-v2.mp4
+
+## Posters
+
+- https://www.makeviral.ai/media/templates/glitch-makeup-ai-transition/original-main-v1.jpg
+
+## Prompts
+
+### 1. 1. The video prompt is filled in. Settings: Seedance 2.5, 10 s, 720p, 9:16, sound on. The video prompt
+
+*Kind: video_prompt*
+
+```text
+A glitch makeup transition clip, like a real vertical makeup video filmed on a phone on a tripod: the person faces the camera from the chest up in front of a plain light grey wall, in soft, even beauty light. Photorealistic.
+
+The person in the clip is the person in [Image 1], in every frame: copy the exact face from [Image 1] (the face shape, eye color and eye shape, eyebrows, nose, mouth, skin tone, age, and any beard, moustache, glasses or freckles), so their friends recognize them at once. The face stays the same from the first frame to the last, also under the makeup and after the cut: never a different person, never morph.
+
+0-4.5 s, BEFORE: the person, with their own hair from [Image 1] pulled back off the face and the clothes from [Image 1], holds a flat makeup brush loaded with bright chroma-green face paint and paints quick, bold strokes across the forehead, down one cheek and along the jaw, while looking calmly into the lens. Inside every green stroke, glitchy digital color bars in red, blue, magenta and cyan flicker and slide sideways, like a broken screen showing through the skin.
+4.5-4.8 s: the beat drops and the whole picture glitches for a moment: an RGB split, horizontal tearing bands and pixel blocks. This is the only cut.
+4.8-10 s, AFTER: the same person with the same face, now in full cyber glitch makeup: thin graphic lines like circuit traces in white, black and neon magenta, cyan, lime and violet that run over the forehead, around the eyes, down the nose, along the cheekbones and the jaw and down the neck, a small geometric diamond on the forehead, a few short bars and a few tiny silver rhinestones, glossy lips; the bare skin between the lines stays clear, and the colors of the lines shift and flicker like a glitching screen. They wear a long, straight platinum-white wig with a center part and a silver metallic top. The eyes keep their own natural color from [Image 1]: no white or colored contact lenses. They turn the head slowly from one side to the other with a cool, serious stare, a short glitch flash runs through the lines on each beat, and they end on a still pose looking straight into the lens. The face stays large, sharp and well lit.
+
+Audio: a punchy original electronic beat with digital glitch sounds and a heavy bass drop at 4.5 s, no words, no singing. Exactly one person. No text, no subtitles, no numbers, no logos, no watermark.
+```
+

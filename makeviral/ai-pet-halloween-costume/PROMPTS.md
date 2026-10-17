@@ -1,0 +1,53 @@
+# AI Dog Costume: Your Dog or Cat in Any Halloween Costume
+
+- Source: [makeviral](https://www.makeviral.ai/templates/ai-pet-halloween-costume)
+- Slug: `ai-pet-halloween-costume`
+
+An AI dog costume puts your dog or cat in a Halloween costume with no shopping and no photo shoot.
+
+## Demo videos (CDN)
+
+- https://www.makeviral.ai/media/templates/ai-pet-halloween-costume/example-v2.mp4
+- https://www.makeviral.ai/media/templates/ai-pet-halloween-costume/example-video.mp4
+
+## Posters
+
+- https://www.makeviral.ai/media/templates/ai-pet-halloween-costume/example-v2-input.jpg
+- https://www.makeviral.ai/media/templates/ai-pet-halloween-costume/example-v2-poster.jpg
+- https://www.makeviral.ai/media/templates/ai-pet-halloween-costume/example-video-input.jpg
+- https://www.makeviral.ai/media/templates/ai-pet-halloween-costume/example-video-poster.jpg
+
+## Prompts
+
+### 1. Prompt 1 (Pet)
+
+*Kind: prompt*
+
+```text
+Use the uploaded image as the base. Keep the animal's species, breed, face, eye color, fur color, fur length, markings and body size exactly the same as in the photo. Dress the pet in a cute, well-fitted Halloween pet costume: a soft, round orange pumpkin costume around its body with a little green stem and leaf cap between its ears. The head, face, ears and markings stay fully visible. The pet sits on a wooden porch step at dusk beside carved jack-o'-lanterns glowing warm orange and a few fallen autumn leaves, and looks at the camera with a sweet, curious face. Warm porch light. A real phone photo taken at the pet's eye level, shallow depth of field, natural fur detail. The whole pet is in frame. Vertical 9:16. Exactly one animal in a natural four-legged pose, no people. No camera app interface, no icons, no frames or overlays. No text, no logos.
+```
+
+### 2. Prompt 2 (Pet)
+
+*Kind: prompt*
+
+```text
+Use the two uploaded images as the base. The person is from the first image and the pet is from the second image. Keep the person's face, facial features, skin tone, hair, age and body shape exactly the same as in their photo. Keep the animal's species, breed, face, eye color, fur color, markings and size exactly the same as in its photo. Do not blend the person and the animal. The two wear matching Halloween costumes: the person wears a witch costume made for an adult, with a tall black pointed hat, a long black witch robe and a short cape with a purple lining; the pet wears a tiny matching black pointed witch hat and a small cape with a purple lining, well fitted to its body. The person sits on a wooden porch step at dusk with the pet sitting right beside them, one arm gently around the pet, and both look at the camera; the person smiles. Carved jack-o'-lanterns glow warm orange, a few fallen autumn leaves, warm porch light. A real phone photo at eye level, shallow depth of field. Both are in frame from head to feet, and both faces are sharp. Vertical 9:16. Exactly one person and one animal, no extra paws. No camera app interface, no icons, no frames or overlays. No text, no logos.
+```
+
+### 3. 1. Open [AI Photo with this template](https://www.makeviral.ai/photo?template=ai-pet-halloween-costume&variant=video) and add your photo (your pet, whole body). The photo prompt is filled in (Pet)
+
+*Kind: photo_prompt*
+
+```text
+Use the uploaded image as the base. Keep the animal's species, breed, face, eye color, fur color, fur length, markings and body size exactly the same as in the photo. Dress the pet in a cute, well-fitted Halloween pet costume: a soft, round orange pumpkin costume around its body with a little green stem and leaf cap between its ears. The head, face, ears and markings stay fully visible. The pet sits on a wooden porch step at dusk beside carved jack-o'-lanterns glowing warm orange and a few fallen autumn leaves, and looks at the camera with a sweet, curious face. Warm porch light. A real phone photo taken at the pet's eye level, shallow depth of field, natural fur detail. The whole pet is in frame. Vertical 9:16. Exactly one animal in a natural four-legged pose, no people. No camera app interface, no icons, no frames or overlays. No text, no logos.
+```
+
+### 4. 3. Press the film button on the still to open AI Video with the still as the first frame. Settings: Seedance 2.0 Mini, 6 s, 720p, 9:16, sound on. The video prompt
+
+*Kind: video_prompt*
+
+```text
+A cute, real home video of the pet in its Halloween costume on a porch at dusk, filmed on a phone at the pet's eye level in one continuous shot. Keep the animal's face, fur, markings and costume exactly as in the image. The pet tilts its head at the camera and its tail wags, then it stands up, trots happily two steps toward the camera, sits down again proudly and gives one happy bark or a soft meow, whichever fits the animal. A few leaves drift past and the jack-o'-lanterns flicker. Natural, real animal motion; the costume stays on and moves with the body. Audio: a playful original pizzicato Halloween tune, paws on the wooden porch, rustling leaves and the one bark or meow. No people, no extra paws, no morphing, no text, no logos.
+```
+

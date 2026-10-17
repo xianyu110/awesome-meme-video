@@ -1,0 +1,27 @@
+{
+  "source": "remakeyourmeme",
+  "source_site": "https://remakeyourmeme.com",
+  "slug": "ai-halloween-costume",
+  "name": "AI Halloween costume",
+  "url": "https://remakeyourmeme.com/templates/ai-halloween-costume/",
+  "blurb": "Your face, hair and skin tone stay; the costume and porch are new.",
+  "photos_in": null,
+  "duration_s": null,
+  "ready_to_make": true,
+  "demo_videos": [
+    "https://cdn.remakeyourmeme.com/trends/halloween-costume/7692559585709788429.mp4",
+    "https://cdn.remakeyourmeme.com/trends/halloween-costume/7694086813358558494.mp4",
+    "https://cdn.remakeyourmeme.com/trends/halloween-costume/7694610732666588436.mp4"
+  ],
+  "preview_videos": [],
+  "posters": [],
+  "all_cdn_mp4": [
+    "https://cdn.remakeyourmeme.com/trends/halloween-costume/7692559585709788429.mp4",
+    "https://cdn.remakeyourmeme.com/trends/halloween-costume/7694086813358558494.mp4",
+    "https://cdn.remakeyourmeme.com/trends/halloween-costume/7694610732666588436.mp4"
+  ],
+  "prompts": [],
+  "prompt_count": 0,
+  "prompts_public": false,
+  "note": "Remake Your Meme does not publish copyable prompt text on public template pages (one-tap remake). Inventory keeps demos, posters, and metadata only."
+}

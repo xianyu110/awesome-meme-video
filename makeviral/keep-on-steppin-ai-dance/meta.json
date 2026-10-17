@@ -1,0 +1,37 @@
+{
+  "source": "makeviral",
+  "source_site": "https://www.makeviral.ai",
+  "slug": "keep-on-steppin-ai-dance",
+  "name": "Cale Brown Dance AI: Do the Viral Keep On Steppin Steps From One Photo",
+  "url": "https://www.makeviral.ai/templates/keep-on-steppin-ai-dance",
+  "markdown_url": "https://www.makeviral.ai/templates/keep-on-steppin-ai-dance.md",
+  "blurb": "The Cale Brown dance is the routine from Cale Brown's viral \"Keep On Steppin\" video.",
+  "updated": "2026-10-15",
+  "published": "2026-10-13",
+  "credits": 29,
+  "demo_videos": [
+    "https://www.makeviral.ai/media/templates/keep-on-steppin-ai-dance/example-v1.mp4"
+  ],
+  "posters": [
+    "https://www.makeviral.ai/media/templates/keep-on-steppin-ai-dance/example-input-v1.jpg",
+    "https://www.makeviral.ai/media/templates/keep-on-steppin-ai-dance/example-v1.jpg"
+  ],
+  "prompts": [
+    {
+      "label": "1. The video prompt is filled in. Settings: kling-3-motion, 7 s, 720p, 9:16, sound off. The video prompt",
+      "variant": null,
+      "kind": "video_prompt",
+      "text": "Replace the character in the video with the person from the uploaded image. Keep actions, poses, facial expressions, camera movement and rhythm. Preserve the person's original facial features, maintain character consistency, no distortion, no glitches, no artifacts.\nThe person dances in the place from the uploaded image, in the clothes from the uploaded image, not the clothes or the hood of the dancer in the video. Exactly one person, no other people. One continuous shot, no cuts, no text, no captions, no logos."
+    }
+  ],
+  "variant_headings": [
+    "What the Keep On Steppin video looks like",
+    "How to make the Keep On Steppin video on MakeViral",
+    "Which photo works best?",
+    "Where does the background of the video come from?",
+    "How long is the video and what format is it?",
+    "Other AI video templates and tools",
+    "Make your own Keep On Steppin video"
+  ],
+  "prompt_count": 1
+}

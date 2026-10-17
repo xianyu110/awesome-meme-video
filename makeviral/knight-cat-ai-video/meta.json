@@ -1,0 +1,104 @@
+{
+  "source": "makeviral",
+  "source_site": "https://www.makeviral.ai",
+  "slug": "knight-cat-ai-video",
+  "name": "Knight Cat AI Video: Make Your Cat or Dog the Kitten Knight",
+  "url": "https://www.makeviral.ai/templates/knight-cat-ai-video",
+  "markdown_url": "https://www.makeviral.ai/templates/knight-cat-ai-video.md",
+  "blurb": "The knight cat AI video, also called the cat knight or the cat with a sword meme, is the viral clip of a tiny kitten in fitted silver armor, gripping a sword twice its height and refusing to step back in a storm on a misty moor.",
+  "updated": "2026-10-13",
+  "published": "2026-10-08",
+  "credits": 128,
+  "demo_videos": [
+    "https://www.makeviral.ai/media/templates/knight-cat-ai-video/example-song-dragon.mp4",
+    "https://www.makeviral.ai/media/templates/knight-cat-ai-video/example-song-quest.mp4",
+    "https://www.makeviral.ai/media/templates/knight-cat-ai-video/example-song-selfie.mp4",
+    "https://www.makeviral.ai/media/templates/knight-cat-ai-video/example-song-with-you-reel.mp4",
+    "https://www.makeviral.ai/media/templates/knight-cat-ai-video/example-with-you.mp4",
+    "https://www.makeviral.ai/media/templates/knight-cat-ai-video/example.mp4"
+  ],
+  "posters": [
+    "https://www.makeviral.ai/media/templates/knight-cat-ai-video/example-input.jpg",
+    "https://www.makeviral.ai/media/templates/knight-cat-ai-video/example-poster.jpg",
+    "https://www.makeviral.ai/media/templates/knight-cat-ai-video/example-song-dragon-input.jpg",
+    "https://www.makeviral.ai/media/templates/knight-cat-ai-video/example-song-dragon-poster.jpg",
+    "https://www.makeviral.ai/media/templates/knight-cat-ai-video/example-song-quest-input.jpg",
+    "https://www.makeviral.ai/media/templates/knight-cat-ai-video/example-song-quest-poster.jpg",
+    "https://www.makeviral.ai/media/templates/knight-cat-ai-video/example-song-selfie-input.jpg",
+    "https://www.makeviral.ai/media/templates/knight-cat-ai-video/example-song-selfie-poster.jpg",
+    "https://www.makeviral.ai/media/templates/knight-cat-ai-video/example-song-with-you-reel-input.jpg",
+    "https://www.makeviral.ai/media/templates/knight-cat-ai-video/example-song-with-you-reel-poster.jpg",
+    "https://www.makeviral.ai/media/templates/knight-cat-ai-video/example-with-you-input.jpg",
+    "https://www.makeviral.ai/media/templates/knight-cat-ai-video/example-with-you-poster.jpg"
+  ],
+  "prompts": [
+    {
+      "label": "1. Open [AI Photo with this template](https://www.makeviral.ai/photo?template=knight-cat-ai-video) and add your photo (your pet, whole body). The photo prompt is filled in",
+      "variant": "Pet",
+      "kind": "photo_prompt",
+      "text": "Use the uploaded image as the base. Keep the animal's breed, face, eye color, fur color, fur length and markings exactly the same as in the photo. Turn the animal into a tiny, brave knight in a still from a real film. The animal stands upright on its hind legs and wears a full suit of fitted miniature medieval plate armor made for its small body: a polished, slightly scratched steel breastplate, rounded steel shoulder plates, jointed steel plates on the front legs, a short chainmail skirt, steel plates and small steel boots on the hind legs, leather straps with small brass buckles, and a short cream linen cape that whips sideways in the wind. No helmet: the head, face, ears and fur stay fully visible. With both front paws it grips the hilt of a real plain steel longsword at chest height and holds it straight up, point to the sky, just beside its face, so the blade never hides the face. The blade rises far above its ears, so the sword is about twice as tall as the animal. A strong wind blows from the left: the fur on its head and cheeks streams sideways. Its big eyes are open and look ahead, calm and brave. It is alone in the middle of a wide, misty moor of long, wet, green grass, with thick fog hiding the horizon. Overcast, soft, cool light, muted grey-green colors. Low camera at the animal's eye level, long lens, shallow depth of field, soft blurred grass in the foreground. Full body from ears to feet, with the whole sword in frame and open misty sky above. Photorealistic, natural film grain, not CGI, not a cartoon. Vertical 9:16. Exactly one animal, no people, no extra paws, no text or letters on the sword, no logos."
+    },
+    {
+      "label": "3. Press the film button on the still to open AI Video with the still as the first frame. Settings: Seedance 2.5, 10 s, 720p, 9:16, sound on. The video prompt",
+      "variant": null,
+      "kind": "video_prompt",
+      "text": "A slow, epic, cinematic scene on a misty moor, filmed like a real movie. Keep the animal's face, fur, markings and armor exactly as in the image. The little knight holds its ground in a strong, gusting wind: its fur streams sideways, the short cream cape snaps and flutters, the long grass ripples in waves and mist drifts past. For the first seconds it stands perfectly still and calm, gripping the tall sword. Then a huge gust hits: it narrows its eyes, grips the sword tighter with both front paws, plants its feet and leans into the wind without taking a step back. As the gust passes, it slowly lifts its chin and looks bravely ahead into the fog. The sword stays straight up the whole time. The camera stays low and close at the animal's eye level with a gentle handheld drift and a very slow push in, so the little knight stays big in the frame the whole time. Natural, real animal motion. Audio: loud howling wind and the cape flapping from the first second, soft clinks of armor, then an original slow, epic orchestral score with deep drums and strings that swells when the big gust hits. No people, no extra paws, no morphing, no text, no logos."
+    },
+    {
+      "label": null,
+      "variant": "Pet",
+      "kind": "prompt",
+      "text": "Use the two uploaded images as the base. The person in the first image is the big knight. The animal in the second image is the little knight. Keep the person's face, facial features, skin tone, hair and body shape exactly the same as in their photo. Keep the animal's breed, face, eye color, fur color and markings exactly the same as in its photo. Do not blend the person and the animal. A still from a real film on a wide, misty moor of long, wet, green grass, with thick fog hiding the horizon, overcast soft cool light and a strong wind from the left. In the front, the animal stands upright on its hind legs in a full suit of fitted miniature medieval plate armor made for its small body: a polished steel breastplate, rounded steel shoulder plates, jointed plates on the front legs, a short chainmail skirt, steel plates and small steel boots on the hind legs, leather straps, small brass buckles and a short cream cape that whips in the wind. No helmet on the animal. With both front paws it grips a real plain steel longsword at chest height and holds it straight up, point to the sky, just beside its face; the blade rises far above its ears. A few steps behind the animal and to the right, the person stands tall in full polished steel plate armor with no helmet and a long dark red cape with gold trim that streams in the wind. The person holds a longsword point-down at their side, with a calm, proud face and a faint, gentle smile, the face turned three-quarters toward the camera. Low camera at the animal's eye level. The animal is full body from ears to feet, the person is full body from head to feet, and both faces are clear and sharp. Photorealistic, natural film grain, muted grey-green colors, not CGI. Vertical 9:16. Exactly one person and one animal, no extra paws, no extra limbs, no text or letters on the swords, no logos."
+    },
+    {
+      "label": "3. Press the film button on the still to open AI Video with the still as the first frame. Settings: Seedance 2.5, 10 s, 720p, 9:16, sound on. The video prompt",
+      "variant": null,
+      "kind": "video_prompt",
+      "text": "A slow, epic, cinematic scene on a misty moor in a strong wind, filmed like a real movie. Keep the person's face, hair and armor and the animal's face, fur and markings exactly as in the image. The little animal knight stands in front and holds its ground, gripping the tall sword while its fur and short cape stream in the wind. Behind it, the person in plate armor and a long dark red cape walks slowly forward through the wind, kneels on one knee right beside the little knight, plants their sword point-down in the grass, and rests one armored hand gently on the animal's back to protect it. The animal looks up at the person, and the person looks back with a soft, proud smile. Then both turn their heads and look out to the left into the wind with calm, brave faces, side by side, standing guard, while the long red cape and the fur whip in the wind and mist drifts past. Their faces stay visible in three-quarter view, never turned away from the camera. One continuous shot with no cuts. The camera stays low and almost still, with a slight handheld sway. Natural motion. Audio: howling wind from the first second, the cape flapping, armor clinking with each step, and an original slow, emotional orchestral score with sweeping strings and deep drums that swells when the person kneels. No dialogue, no lyrics. Exactly one person and one animal. No smoke, no fire, no extra limbs or paws, no merged bodies, no morphing, no text, no logos."
+    },
+    {
+      "label": "1. The video prompt is filled in. Settings: Seedance 2.5, 12 s, 720p, 9:16, sound off. The video prompt",
+      "variant": "Pet",
+      "kind": "video_prompt",
+      "text": "Recreate the reference video [Video 1] shot for shot: the same battlefield, the same big knight in dark armor with the closed helmet, the arrow in his shoulder and the bloody sword, the same army, the same grey light, the same camera angles, cuts, timing and moves. Keep the white caption text exactly as in the video. The ONLY change: the little kitten knight with the pink bow and the cream cape is now the pet in [Image 1].\n\nThe little knight = the pet in [Image 1], in EVERY shot: the same species and breed, face, eyes, ears, muzzle, fur colors, fur length and markings as in [Image 1], with the natural body volume and proportions of that animal: never flattened, squashed, stretched or merged with anything, in the same small silver armor and cream cape, with no bow. It stands beside the big knight and then walks with him toward the army.\n\nThe pet looks exactly like its photo in every frame, from the first shot to the last. The big knight keeps his closed helmet: no face shows.\n\nAnatomy rules: one head per character, on its own body. No extra animals, no new text, no logos."
+    },
+    {
+      "label": "1. The video prompt is filled in. Settings: genjutsu-motion, 14 s, 480p, 9:16, sound off. The video prompt",
+      "variant": "Pet",
+      "kind": "video_prompt",
+      "text": "Replace the tall knight in dark armor and the long red cape with the person from image 1: keep that face, hair and skin tone exactly, with no helmet. Replace the tiny kitten knight that holds the sword with the pet from image 2: keep its face, fur colors and markings exactly, with no bow. Both swords are plain steel, not glowing. Keep the armor, the capes, the moor, the sleeping dragon, the motion and the camera of the video."
+    },
+    {
+      "label": "1. The video prompt is filled in. Settings: Seedance 2.5, 15 s, 720p, 9:16, sound off. The video prompt",
+      "variant": "Pet",
+      "kind": "video_prompt",
+      "text": "Recreate the reference video [Video 1] shot for shot: the same dark moor, the same black dragon with the orange eyes, the same lightning, the same giant black cat knight with the crown, the same camera angles, cuts, timing and moves. The ONLY change: the little white kitten knight with the sword and the short cape is now the pet in [Image 1].\n\nThe little knight = the pet in [Image 1], in EVERY shot: the same species and breed, face, eyes, ears, muzzle, fur colors, fur length and markings as in [Image 1], with the natural body volume and proportions of that animal: never flattened, squashed, stretched or merged with anything, in the same small armor and short cape, with no bow and no ribbon. It holds the sword and faces the dragon.\n\nThe pet looks exactly like its photo in every frame, from the first shot to the last. The giant black cat knight with the crown and the dragon stay exactly as in the video.\n\nAnatomy rules: one head per character, on its own body. No people, no text, no logos."
+    },
+    {
+      "label": "1. The video prompt is filled in. Settings: Seedance 2.5, 15 s, 720p, 9:16, sound off. The video prompt",
+      "variant": "Pet",
+      "kind": "video_prompt",
+      "text": "Recreate the reference video [Video 1] shot for shot: the same green field, the same fog, the same red dragon, the same phone selfie camera that drops to the grass, the same camera angles, cuts, timing and moves. The ONLY change: the kitten knight with the pink bow who sips the iced drink in the selfie and then stands up to the dragon is now the pet in [Image 1].\n\nThe kitten knight = the pet in [Image 1], in EVERY shot: the same species and breed, face, eyes, ears, muzzle, fur colors, fur length and markings as in [Image 1], with the natural body volume and proportions of that animal: never flattened, squashed, stretched or merged with anything, with no bow. It wears the same silver plate armor as the kitten in the video in every shot, from the neck down: the armor stays, only the animal inside it changes. It sips the iced drink, drops the phone and faces the dragon.\n\nAfter the phone drops, the picture lies on its side exactly as in the video: the grass, the little knight and the dragon are turned 90 degrees, as the fallen phone films them. Do not turn the picture upright.\n\nThe pet looks exactly like its photo in every frame, from the first shot to the last. The red dragon stays exactly as in the video.\n\nAnatomy rules: one head per character, on its own body. No people, no text, no logos."
+    }
+  ],
+  "variant_headings": [
+    "What the Knight Cat video looks like",
+    "How to make the Knight Cat video on MakeViral",
+    "Which photo works best?",
+    "What goes wrong with a knight cat video, and how do you fix it?",
+    "How do you make the knight cat video in other apps?",
+    "What is the knight cat AI video?",
+    "What app was the knight cat video made with?",
+    "How do I make a knight cat video with my own cat?",
+    "Can I be in the knight cat video with my pet?",
+    "Can I put my pet into the original knight cat reels?",
+    "What is the muscular character AI video?",
+    "How long is the video, and how long does it take to make?",
+    "Does the knight cat video cost credits?",
+    "Why does my knight cat look different from my pet or from the trend?",
+    "Can I post my knight cat video on TikTok or Instagram?",
+    "Other AI video templates and tools",
+    "Make your own Knight Cat video"
+  ],
+  "prompt_count": 8
+}

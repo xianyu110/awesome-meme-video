@@ -1,0 +1,51 @@
+# Lego Car Wash AI: Tiny Toy Workers Wash Your Ride
+
+- Source: [makeviral](https://www.makeviral.ai/templates/lego-car-wash-ai-trend)
+- Slug: `lego-car-wash-ai-trend`
+
+The Lego car wash AI trend turns a photo of your truck, car or motorbike into a muddy toy-brick model that tiny toy workers power-wash and foam in a mini car wash until it shines.
+
+## Demo videos (CDN)
+
+- https://www.makeviral.ai/media/templates/lego-car-wash-ai-trend/original-first-v2.mp4
+- https://www.makeviral.ai/media/templates/lego-car-wash-ai-trend/original-moto-v2.mp4
+- https://www.makeviral.ai/media/templates/lego-car-wash-ai-trend/original-truck-v2.mp4
+
+## Posters
+
+- https://www.makeviral.ai/media/templates/lego-car-wash-ai-trend/original-first-v1.jpg
+- https://www.makeviral.ai/media/templates/lego-car-wash-ai-trend/original-moto-v1.jpg
+- https://www.makeviral.ai/media/templates/lego-car-wash-ai-trend/original-truck-v1.jpg
+
+## Prompts
+
+### 1. 1. The video prompt is filled in. Settings: Seedance 2.5, 10 s, 720p, 9:16, sound on. The video prompt
+
+*Kind: video_prompt*
+
+```text
+A viral AI toy car wash video: the vehicle from [Image 1] becomes a muddy toy-brick scale model that tiny minifigure-style toy workers power-wash and foam in a miniature car wash built from plastic building bricks. Macro tabletop photography, shallow depth of field, warm studio light on a dark background, a calm and satisfying mood, vertical 9:16.
+
+THE VEHICLE is the one in [Image 1], whatever it is (a car, a pickup, a truck with or without its trailer, a bus, a van, a motorbike or a quad), as a glossy toy scale model in every shot: copy it exactly from [Image 1] (the body shape and proportions, the cab, bed, trunk, trailer or fairing, the paint colors, stripes and decals as plain shapes, the wheels and rims, the lights, the grille shape, the chrome, visors, racks, light bars and stacks, the lift or ride height, and every other part it has), so its owner knows it at once. The same model from the first frame to the last: never a different or generic model, never a cartoon. If [Image 1] shows people, leave them out.
+
+The car wash: a grey brick baseplate with a drain grate and yellow lane lines, a brick gantry with rows of small spray nozzles, two small floodlights, puddles and suds on the floor, a dark background with warm studio light. The workers are four to six little toy minifigure-style figures with yellow skin, simple painted smiling faces, blue overalls and caps, holding tiny pressure washers, sponges and brushes: toy figures, not real people.
+
+0-2 s: a real adult hand sets the toy vehicle, covered in thick brown mud and dried dirt, down on the wash bay, and the toy workers walk up to it.
+2-4 s: the workers blast it with thin jets of water from their pressure washers; the mud runs off in streams and the paint starts to show.
+4-6 s: a close-up: thick white foam pours over the roof and covers the vehicle; a toy worker scrubs a window or a headlight with a sponge in the foam.
+6-8 s: the gantry nozzles rinse it with fan-shaped sprays; the foam slides off and the clean paint shines.
+8-10 s: the clean, gleaming toy vehicle stands on a brick display base under two bright spotlights with a star glint, its lights on, while the tiny workers cheer and raise their arms.
+
+Audio: the hiss of the pressure washers, splashing water, squishy foam, the squeak of a sponge and tiny cheers at the end. No music, no lyrics, no talking.
+
+Only one human body part in the whole video: the one adult hand at the start, with five fingers. No badges, emblems, brand names or lettering on the vehicle and no readable number plate, even if the photo shows them. Plain round studs with no lettering on every brick. No text, no captions, no logos, no watermark.
+```
+
+### 2. Prompt 2
+
+*Kind: prompt*
+
+```text
+Use the uploaded image as the base. Turn the exact vehicle in the uploaded image, whatever kind it is (a car, a pickup, a truck with or without its trailer, a bus, a van, a motorbike or a quad), into a glossy toy-brick scale model in the middle of its wash in a miniature car wash built from plastic building bricks. It is half washed: thick white foam slides down the roof and the sides, thin jets of water from tiny pressure washers hit it from both sides, the clean paint shines where the foam is gone, and some brown mud is still on the wheels and the lower edges. It is still clearly the same vehicle as in the photo, so the owner knows it at once (the body shape and proportions, the cab, bed, trunk, trailer or fairing, the paint colors, stripes and decals as plain shapes, the wheels and rims, the lights, the grille shape, the chrome, visors, racks, light bars and stacks, the lift or ride height, and every other part it has). Never a different or generic model, never a cartoon. The car wash: a grey brick baseplate with a drain grate and yellow lane lines, a brick gantry with rows of small spray nozzles, two small floodlights, puddles and suds on the floor, a dark background with warm studio light. The workers are four to six little toy minifigure-style figures with yellow skin, simple painted smiling faces, blue overalls and caps, holding tiny pressure washers, sponges and brushes: toy figures, not real people. The whole vehicle in frame in a front three-quarter view, in the lower half of the picture, the camera low at the model's headlight height, water drops sharp in the light. Macro tabletop photography, shallow depth of field, photorealistic toys. Vertical 9:16. No human faces: the workers are toy figures with simple painted faces. No badges, emblems, brand names or lettering on the vehicle and no readable number plate, even if the photo shows them. Plain round studs with no lettering on every brick. No text, no captions, no logos, no watermark.
+```
+

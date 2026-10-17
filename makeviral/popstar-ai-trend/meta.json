@@ -1,0 +1,46 @@
+{
+  "source": "makeviral",
+  "source_site": "https://www.makeviral.ai",
+  "slug": "popstar-ai-trend",
+  "name": "Popstar AI: Star in the Popstar Music Video From One Photo",
+  "url": "https://www.makeviral.ai/templates/popstar-ai-trend",
+  "markdown_url": "https://www.makeviral.ai/templates/popstar-ai-trend.md",
+  "blurb": "The Popstar AI trend puts you in the lead role of the Popstar music video: you walk down a wood-panelled mansion hallway toward the camera with a champagne bottle, swing your arms wide and rap the verse straight into the lens.",
+  "updated": "2026-10-15",
+  "published": "2026-10-13",
+  "credits": 42,
+  "demo_videos": [
+    "https://www.makeviral.ai/media/templates/popstar-ai-trend/example-v1.mp4",
+    "https://www.makeviral.ai/media/templates/popstar-ai-trend/original-main-v2.mp4"
+  ],
+  "posters": [
+    "https://www.makeviral.ai/media/templates/popstar-ai-trend/example-input-v1.jpg",
+    "https://www.makeviral.ai/media/templates/popstar-ai-trend/example-v1.jpg",
+    "https://www.makeviral.ai/media/templates/popstar-ai-trend/original-main-v1.jpg"
+  ],
+  "prompts": [
+    {
+      "label": "1. The video prompt is filled in. Settings: kling-3-motion, 10 s, 720p, 9:16, sound off. The video prompt",
+      "variant": null,
+      "kind": "video_prompt",
+      "text": "One continuous handheld take, vertical video. Recreate the reference video, but the performer is the person from the reference image: the same face, hair, skin tone, clothes and jewellery, in the mansion hallway from the reference image.\nThe person walks the warm wood-panelled hallway toward the camera with the champagne bottle in the right hand, lip-syncing the verse straight to the camera, arms swinging wide, and the shot ends out on the glass balcony. Every step toward the lens, every time the arms swing wide, every point of the champagne bottle, on the same beats as the reference video. The mouth copies the performer's mouth frame by frame.\nNo white T-shirt, no black curly wig, no tattoos and no light jeans unless the reference image shows them. Exactly one person: no bodyguard, no other people. No cuts, no text, no captions, no logos, no label on the bottle."
+    }
+  ],
+  "variant_headings": [
+    "What the Popstar AI video looks like",
+    "How to make the Popstar AI video on MakeViral",
+    "Which photo works best?",
+    "What happens in the Popstar AI video, second by second?",
+    "How do I make the Popstar AI video with my photo?",
+    "Is it the real Popstar music video house?",
+    "Does my video have the Popstar bodyguard?",
+    "What sound does the Popstar AI video have?",
+    "What is the Popstar music video story?",
+    "Is this a way to put yourself in a music video?",
+    "Can I put a celebrity in the Popstar video?",
+    "How long is the video and what format is it?",
+    "Other AI video templates and tools",
+    "Make your own Popstar AI video"
+  ],
+  "prompt_count": 1
+}

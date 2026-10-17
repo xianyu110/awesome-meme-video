@@ -1,0 +1,50 @@
+{
+  "source": "makeviral",
+  "source_site": "https://www.makeviral.ai",
+  "slug": "you-look-lonely-ai-trend",
+  "name": "You Look Lonely, I Can Fix That: The AI Hologram Video",
+  "url": "https://www.makeviral.ai/templates/you-look-lonely-ai-trend",
+  "markdown_url": "https://www.makeviral.ai/templates/you-look-lonely-ai-trend.md",
+  "blurb": "You look lonely, I can fix that is the line of a giant hologram that leans down to a lonely person in a rainy neon city.",
+  "updated": "2026-10-17",
+  "published": "2026-10-17",
+  "credits": 152,
+  "demo_videos": [
+    "https://www.makeviral.ai/media/templates/you-look-lonely-ai-trend/original-wallpaper-v2.mp4"
+  ],
+  "posters": [
+    "https://www.makeviral.ai/media/templates/you-look-lonely-ai-trend/original-wallpaper-v1.jpg"
+  ],
+  "prompts": [
+    {
+      "label": "1. The video prompt is filled in. Settings: Seedance 2.5, 12 s, 720p, 9:16, sound on. The video prompt",
+      "variant": null,
+      "kind": "video_prompt",
+      "text": "A vertical cinematic shot in the style of a neon sci-fi noir film. A colossal holographic projection of the person in [Image 1], keeping their exact outfit and appearance unchanged, but with a translucent purple digital texture. They are gigantic, lean down from the sky and reach out their index finger to touch a small silhouette of the person in [Image 2], who stands on a rainy futuristic bridge. The person in [Image 2] keeps their exact original clothes and look. Dramatic cyberpunk atmosphere, volumetric purple and violet neon lighting, wet surfaces, heavy rain, emotional connection, massive difference in scale, 8k resolution, photorealistic masterpiece. The one on the bridge looks straight at the giant, with emphasis on the holographic effect of the giant.\n\nThe giant hologram is the person in [Image 1], in every frame: copy the exact face from [Image 1] (the face shape, eye color and eye shape, eyebrows, nose, mouth, skin tone, age, hair color, hair length and hairstyle, and any beard, moustache, glasses or freckles). Only the light changes: a soft see-through glow with faint scan lines; the face stays clear and recognizable through the glow, never another face. The one on the bridge is the person in [Image 2], in every frame: copy the exact face from [Image 2] (the face shape, eye color and eye shape, eyebrows, nose, mouth, skin tone, age, hair color, hair length and hairstyle, and any beard, moustache, glasses or freckles). Never blend their faces. Each face stays the same from the first frame to the last, so their friends recognize them at once. If an image shows an animal, that one is that animal with its own face, fur and markings, not a person.\n\n0-3 s: a wide, low shot from behind the small figure of [Image 2] on the wet bridge at night: between dark towers in fog and rain, the giant hologram of [Image 1] leans down out of the sky toward them, one huge hand reaching out.\n3-6 s: a close-up of [Image 2] from the front, rain on the face, looking up in wonder, purple neon light on the wet skin. The face is large and sharp: exactly the face from [Image 2].\n6-9.5 s: the giant, glowing face of the hologram fills the frame, soft and kind, the small dark silhouette of [Image 2] in front of it. The hologram says slowly and softly, the lips moving in sync: \"You look lonely. I can fix that.\" The face is exactly the face from [Image 1].\n9.5-12 s: back to a close-up of [Image 2]: the giant fingertip glows just above them, its light falls on their face, and a small smile starts.\n\nAudio: rain, a deep city hum, a slow synth pad, and the hologram's soft, warm voice with a light echo. Only the hologram speaks, one time. Exactly two people: the hologram and the one on the bridge, no other people. No text, no subtitles, no logos, no brand names, no readable signs, no watermark."
+    },
+    {
+      "label": "1. The video prompt is filled in. Settings: Seedance 2.5, 10 s, 720p, 9:16, sound on. The video prompt",
+      "variant": null,
+      "kind": "video_prompt",
+      "text": "A vertical cinematic shot in the style of a neon sci-fi noir film. A colossal holographic projection of the person in [Image 1], keeping their exact outfit and appearance unchanged, but with a translucent purple digital texture. They are gigantic, lean down from the sky and reach out their index finger to touch a small silhouette of a stranger in a long dark coat, seen only from behind, who stands on a rainy futuristic bridge. Dramatic cyberpunk atmosphere, volumetric purple and violet neon lighting, wet surfaces, heavy rain, emotional connection, massive difference in scale, 8k resolution, photorealistic masterpiece. The stranger looks straight at the giant, with emphasis on the holographic effect of the giant.\n\nThe giant hologram is the person in [Image 1], in every frame: copy the exact face from [Image 1] (the face shape, eye color and eye shape, eyebrows, nose, mouth, skin tone, age, hair color, hair length and hairstyle, and any beard, moustache, glasses or freckles). Only the light changes: a soft see-through glow with faint scan lines; the face stays clear and recognizable through the glow, never another face. The face stays the same from the first frame to the last, so their friends recognize them at once. If [Image 1] shows an animal, the giant is that animal with its own face, fur and markings, not a person. The stranger's face never shows.\n\n0-3 s: a wide, low shot from behind the small stranger on the wet bridge at night: between dark towers in fog and rain, the giant hologram of [Image 1] leans down out of the sky toward him, one huge hand reaching out.\n3-7 s: over the stranger's shoulder, the giant, glowing face of the hologram comes close and fills the frame, soft and kind, looking at him. It says slowly and softly, the lips moving in sync: \"You look lonely. I can fix that.\" The face is large and sharp: exactly the face from [Image 1].\n7-10 s: a wide shot again: the giant fingertip glows just above the stranger, and its light falls on the wet bridge around him.\n\nAudio: rain, a deep city hum, a slow synth pad, and the hologram's soft, warm voice with a light echo. Only the hologram speaks, one time. Exactly one giant and one small stranger, no other people. No text, no subtitles, no logos, no brand names, no readable signs, no watermark."
+    },
+    {
+      "label": null,
+      "variant": null,
+      "kind": "prompt",
+      "text": "Use the uploaded image as the base. A vertical cinematic shot in the style of a neon sci-fi noir film. A colossal holographic projection of the person from the uploaded image, keeping their exact outfit and appearance unchanged, but with a translucent purple digital texture. They are gigantic, lean down from the sky and reach out their index finger to touch a small silhouette of a stranger in a long dark coat, seen only from behind, who stands on a rainy futuristic bridge. Dramatic cyberpunk atmosphere, volumetric purple and violet neon lighting, wet surfaces, heavy rain, emotional connection, massive difference in scale, 8k resolution, photorealistic masterpiece. The stranger looks straight at the giant, with emphasis on the holographic effect of the giant. The giant's face is turned toward the camera, large, sharp and clear through the glow. Vertical 9:16. Exactly one giant and one small stranger. No text, no logos, no brand names, no readable signs, no watermark."
+    }
+  ],
+  "variant_headings": [
+    "What the You Look Lonely video looks like",
+    "How to make the You Look Lonely video on MakeViral",
+    "Which photo works best?",
+    "What happens in the Duo video?",
+    "How do I make the you look lonely AI video?",
+    "Is it a GIF or a video?",
+    "Is the video real?",
+    "Other AI video templates and tools",
+    "Make your own You Look Lonely video"
+  ],
+  "prompt_count": 3
+}

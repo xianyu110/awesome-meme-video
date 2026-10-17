@@ -1,0 +1,67 @@
+# Ghost Filter Prank: A Creepy Ghost Rises Behind You
+
+- Source: [makeviral](https://www.makeviral.ai/templates/ghost-filter-prank-ai-trend)
+- Slug: `ghost-filter-prank-ai-trend`
+
+The ghost filter is the TikTok prank where a creepy grey ghost with long grey hair, round white eyes and long claws rises behind someone on the phone screen while they talk, and their reaction is the whole post.
+
+## Demo videos (CDN)
+
+- https://www.makeviral.ai/media/templates/ghost-filter-prank-ai-trend/original-main-v2.mp4
+
+## Posters
+
+- https://www.makeviral.ai/media/templates/ghost-filter-prank-ai-trend/original-main-v1.jpg
+
+## Prompts
+
+### 1. 1. The video prompt is filled in. Settings: Seedance 2.5, 12 s, 720p, 9:16, sound off. The video prompt
+
+*Kind: video_prompt*
+
+```text
+Recreate the reference video [Video 1] shot for shot: the same narrow cream-colored hallway beside an open white door hung with towels, at night, the same handheld front phone camera, the same framing, timing, head turns, steps and mouth moves, and the same grey ghost behind the person. The ONLY change: the young man in the black T-shirt is now the person in [Image 1].
+
+The person = the person in [Image 1], in EVERY frame: copy the exact face from [Image 1] - face shape, eye color and eye shape, eyebrows, nose, mouth, skin tone, age, hair color, hair length and hairstyle, and any beard, moustache, glasses or freckles exactly as in the photo. The person wears the clothes and the hair from [Image 1]; if [Image 1] shows only the head or the upper body, invent the rest so it matches naturally. The same real person in every frame, from the first second to the last, so their friends instantly recognize them, also when they look back over the shoulder and when they crouch. Never morph, never drift back to the original man's face. NO black cap, NO goatee and NO gold chain unless [Image 1] shows them. If [Image 1] shows an animal, the person is that animal, with its own face, fur and markings and the natural body volume and proportions of that animal: never flattened, squashed, stretched or merged with anything.
+
+THE GHOST stays exactly as in [Video 1]: a creepy grey ghost woman with long, straight grey hair, grey skin, oversized round white eyes with tiny dark pupils, a wide eerie grin and long thin grey fingers with dark claws, behind the person's shoulder. It appears and disappears at the same moments as in [Video 1]: when the person looks back over the shoulder it is gone, when they face the camera again it is back. It always stays behind the person and never covers the face.
+
+THE PERFORMANCE, beat by beat, exactly as in [Video 1]:
+00:00-00:01: turns to face the camera and steps toward it; the ghost rises behind the shoulder on the right of the frame.
+00:01-00:01.6: very close to the camera, eyes wide.
+00:01.6-00:04.1: stares into the camera, scared, mouth half open, while the ghost peers over the shoulder on the left of the frame with its claws raised.
+00:04.1-00:05.3: looks back over the shoulder: the ghost is gone.
+00:05.3-00:08.9: faces the camera again, frozen and wide-eyed, talking under the breath; the ghost is back behind the left shoulder, grinning.
+00:08.9-00:09.5: glances back over the shoulder again: the ghost is gone.
+00:09.5-00:10.3: faces the camera, the ghost back behind the shoulder, then ducks forward.
+00:10.3-00:12: crouches down low, only the head and shoulders in frame, while the ghost looms tall behind.
+
+FACIAL EXPRESSION: scared, confused and wide-eyed the whole time, never smiling. LIP SYNC: the mouth opens and closes exactly when the original man's mouth does in [Video 1], and is closed when his is.
+
+Real live-action phone footage, clear facial features, no distortion. Anatomy rules: one head only, on the person's shoulders. Two arms and two hands, five fingers on each hand. Exactly one real person and one ghost. No text, no captions, no logos, no watermark, no blurred patches on the clothes.
+```
+
+### 2. 1. The video prompt is filled in. Settings: Seedance 2.5, 10 s, 720p, 9:16, sound on. The video prompt
+
+*Kind: video_prompt*
+
+```text
+Make a creepy grey ghost appear behind the person in [Image 1], build suspense with a slow reveal: a spooky ghost filter prank video, filmed like a real front-camera phone video at home, in one continuous shot with no cuts. Photorealistic, fine phone-camera grain.
+
+The person is the one in [Image 1], in every frame: copy the exact face from [Image 1] (the face shape, eye color and eye shape, eyebrows, nose, mouth, skin tone, age, hair color, hair length and hairstyle, and any beard, moustache, glasses or freckles) and the clothes from [Image 1]. Keep the person in front recognizable while the spooky reveal builds: the same face from the first frame to the last, so their friends recognize them at once, also in the dim light and when the person turns. Never morph. If [Image 1] shows an animal, the person is that animal, with its own face, fur and markings.
+
+The place is the room behind the person in [Image 1], with the same walls, doors, furniture and light; if [Image 1] shows little of the room, a dim home hallway at night with a half-open door behind the person. The person stands close to the camera, framed from the chest up, the face large and sharp, with empty space behind both shoulders.
+
+A grey, long-haired ghost slowly rising in the background: a creepy grey ghost woman with long, straight grey hair, grey skin, oversized round white eyes with tiny dark pupils, a wide eerie grin and long thin grey fingers with dark claws, in a long grey dress.
+0-3 s: the person talks to the camera with a relaxed smile, unaware; a subtle flickering light.
+3-6 s: a slow entrance: the ghost slowly rises behind one shoulder, staring into the camera.
+6-8 s: a sudden peek: the ghost leans out right beside the person's head with an eerie grin and lifts its clawed fingers.
+8-10 s: the person stops talking, eyes wide, and spins around to look behind: nothing is there. The person turns back to the camera, frozen.
+
+A creepy grey ghost with long hair and oversized white eyes emerging slowly behind the person. A stable camera, a consistent face, and a brief suspenseful reveal.
+
+Audio: quiet room tone, a low eerie hum that slowly rises, the person's own casual chatter, then a sharp gasp. No music, no lyrics.
+
+A static camera, realistic room lighting, a ghost placed clearly behind the subject, and a short gradual reveal. The ghost never overlaps the person and never covers the face. Exactly one real person and one ghost. No blood, no gore, no text, no captions, no logos, no watermark.
+```
+

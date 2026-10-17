@@ -1,0 +1,39 @@
+{
+  "source": "makeviral",
+  "source_site": "https://www.makeviral.ai",
+  "slug": "subway-outfit-change-ai-trend",
+  "name": "Subway Outfit Change AI: Every Train Brings a New Outfit",
+  "url": "https://www.makeviral.ai/templates/subway-outfit-change-ai-trend",
+  "markdown_url": "https://www.makeviral.ai/templates/subway-outfit-change-ai-trend.md",
+  "blurb": "The subway outfit change is the fashion clip filmed across the tracks: you wait on the platform looking at your phone, a train rushes past and hides you for a second, and when it is gone you stand there in a new outfit.",
+  "updated": "2026-10-16",
+  "published": "2026-10-16",
+  "credits": 168,
+  "demo_videos": [
+    "https://www.makeviral.ai/media/templates/subway-outfit-change-ai-trend/original-main-v2.mp4"
+  ],
+  "posters": [
+    "https://www.makeviral.ai/media/templates/subway-outfit-change-ai-trend/original-main-v1.jpg"
+  ],
+  "prompts": [
+    {
+      "label": "1. The video prompt is filled in. Settings: genjutsu-motion, 13 s, 480p, 9:16, sound off. The video prompt",
+      "variant": null,
+      "kind": "video_prompt",
+      "text": "Replace the young woman with long dark wavy hair who stands on the subway platform and looks at her phone with the person from image 1: keep that face, hair and skin tone exactly, in every outfit. Take only the face, hair and skin tone from image 1, never the clothes: in every shot the person wears the outfit of the video. Keep every outfit, every outfit change hidden by a passing train, the phone in her hand, the tiled platform, the yellow edge strip, the trains, the light, the motion and the camera of the video."
+    }
+  ],
+  "variant_headings": [
+    "What the Subway Outfits video looks like",
+    "How to make the Subway Outfits video on MakeViral",
+    "Which photo works best?",
+    "Which looks are in the video, and can you write your own?",
+    "What subway outfit works best for the video?",
+    "How long is the video?",
+    "Does the subway outfit video cost credits?",
+    "Can I post my subway outfit video on TikTok or Instagram?",
+    "Other AI video templates and tools",
+    "Make your own Subway Outfits video"
+  ],
+  "prompt_count": 1
+}

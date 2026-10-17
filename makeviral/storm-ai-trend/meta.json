@@ -1,0 +1,40 @@
+{
+  "source": "makeviral",
+  "source_site": "https://www.makeviral.ai",
+  "slug": "storm-ai-trend",
+  "name": "Storm AI Trend: Stand Still While the Crowd Bows",
+  "url": "https://www.makeviral.ai/templates/storm-ai-trend",
+  "markdown_url": "https://www.makeviral.ai/templates/storm-ai-trend.md",
+  "blurb": "The Storm AI trend is a short clip where one person in white stands perfectly still in the middle of a crowd in black suits.",
+  "updated": "2026-10-13",
+  "published": "2026-09-30",
+  "credits": 126,
+  "demo_videos": [
+    "https://www.makeviral.ai/media/templates/storm-ai-trend/example.mp4"
+  ],
+  "posters": [
+    "https://www.makeviral.ai/media/templates/storm-ai-trend/example-input.jpg",
+    "https://www.makeviral.ai/media/templates/storm-ai-trend/example-poster.jpg"
+  ],
+  "prompts": [
+    {
+      "label": "1. The video prompt is filled in. Settings: Seedance 2.5, 10 s, 720p, 9:16, sound on. The video prompt",
+      "variant": null,
+      "kind": "video_prompt",
+      "text": "A cinematic music-video shot in one continuous take. The lead is the person in [Image 1], in every frame: copy the exact face from [Image 1] (the face shape, eye color and eye shape, eyebrows, nose, mouth, skin tone, age, hair color, hair length and hairstyle, and any beard, moustache, glasses or freckles), so their friends recognize them at once. The lead wears a clean all-white outfit and stands perfectly still in the exact center of wide grey stone steps in front of a large building, looking straight into the camera for the whole clip. Around and behind the lead stand forty to sixty people in identical black suits, in tight rows like a wall, all facing the camera. The lead is the only person in white. Overcast daylight, slight film grain.\n\nThe camera starts at a medium shot of the lead, from the waist up, with the crowd behind, and slowly pushes in. On a heavy beat, the whole crowd in black suits explodes into one sharp synchronized move: they clutch their ties, twist and snap their heads to the side, then fold into a deep, fast bow and snap back up. They repeat the bow once more and freeze. Only the crowd moves; the lead never moves and keeps the same face from the first frame to the last.\n\nAudio: an original dark, heavy electronic beat with deep drums. No cigarettes, no text, no logos."
+    }
+  ],
+  "variant_headings": [
+    "What the Storm video looks like",
+    "How to make the Storm video on MakeViral",
+    "Which photo works best?",
+    "Why is the Storm crowd video so popular?",
+    "Why doesn't my Storm video copy the music video move for move?",
+    "How do I make the Storm AI video with my own photo?",
+    "Can I make a crowd bow AI video with a different outfit or setting?",
+    "How long is the Storm video and what format is it?",
+    "Other AI video templates and tools",
+    "Make your own Storm video"
+  ],
+  "prompt_count": 1
+}

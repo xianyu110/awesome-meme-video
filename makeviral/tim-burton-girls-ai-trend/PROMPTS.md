@@ -1,0 +1,42 @@
+# Tim Burton Girls: Sit with the Gothic Dolls in One AI Photo
+
+- Source: [makeviral](https://www.makeviral.ai/templates/tim-burton-girls-ai-trend)
+- Slug: `tim-burton-girls-ai-trend`
+
+The Tim Burton Girls trend, "Chicas Tim Burton" in Spanish, is a Halloween photo trend from Mexico, October 2026: you sit in the center of a dark portrait while pale gothic girls and dolls in a dark storybook style stand behind you, and one of them covers your eyes with her hands.
+
+## Demo videos (CDN)
+
+- https://www.makeviral.ai/media/templates/tim-burton-girls-ai-trend/original-main-v2.mp4
+
+## Posters
+
+- https://www.makeviral.ai/media/templates/tim-burton-girls-ai-trend/original-main-v1.jpg
+
+## Prompts
+
+### 1. Prompt 1
+
+*Kind: prompt*
+
+```text
+Use the uploaded image as the base. Keep the person's face, facial features, skin tone, hair, gender and body shape exactly the same as in the photo, and keep the clothes from the photo: no gothic makeup and no costume on the person. Do not beautify or change the face. A dark, moody studio portrait in a gothic storybook style, like a still from a dark fairy-tale film. The person sits in the center in front, on a low black chair, facing the camera with a calm, soft smile, both hands resting on their knees, shown from the head down to the knees. Behind the person stand four pale gothic women and dolls in a dark storybook style, leaning in close: on the left, a tall woman with long black hair in black lace; directly behind the person, a woman with black curls pinned up, in black velvet; next to her, a porcelain-doll girl with huge glassy dark eyes and burgundy braids; on the far right, a ghostly woman with silver-white hair in torn grey lace, close together like an old family portrait. All four have ghost-pale skin, dark-rimmed eyes and dark lips. The woman directly behind the person covers the person's eyes from behind with both of her pale, slender hands with long dark nails: her fingers lie gently across the eyes and eyebrows only, and the person's nose, cheeks, mouth, chin and hair stay fully visible, sharp and well lit. The other three rest a hand on the person's shoulders or keep their hands at their sides, and look into the camera with calm, knowing half smiles. Pitch-black background with a soft white backlight glowing behind their heads, soft cool light on the faces, deep shadows, muted cold colors with small accents of plum and dark red, fine film grain, sharp focus on the person. Vertical 9:16. Exactly one real person and four gothic women, exactly two hands over the person's eyes, no extra hands, arms or fingers. They are not known film or cartoon characters: no blue skin, no stitches, no veil, no red yarn hair, no spiky hair. No text, no captions, no logos, no watermark.
+```
+
+### 2. 1. The video prompt is filled in. Settings: Seedance 2.5, 10 s, 720p, 9:16, sound on. The video prompt
+
+*Kind: video_prompt*
+
+```text
+A dark gothic storybook portrait that slowly comes to life, in one shot with no cuts. Photorealistic, fine film grain.
+
+The person sitting in the center is the person in [Image 1], in every frame: copy the exact face from [Image 1] (the face shape, eye color and eye shape, eyebrows, nose, mouth, skin tone, age, hair color, hair length and hairstyle, and any beard, moustache, glasses or freckles) and the clothes from [Image 1], so their friends recognize them at once. No gothic makeup and no costume on this person. If [Image 1] already shows this portrait with hands over the eyes, it is the first frame: skip the reveal and keep the hands over the eyes for the whole clip.
+
+The person sits in front on a low black chair, facing the camera, hands on the knees, framed from the head to the knees. Behind them stand four pale gothic women and dolls in a dark storybook style, leaning in close: on the left, a tall woman with long black hair in black lace; directly behind the person, a woman with black curls pinned up, in black velvet; next to her, a porcelain-doll girl with huge glassy dark eyes and burgundy braids; on the far right, a ghostly woman with silver-white hair in torn grey lace. Pitch-black background, soft white backlight behind their heads.
+
+0-5 s, a living photo: the woman directly behind covers the person's eyes with both pale hands, and the person smiles softly. The backlight flickers like candlelight; the women lean in. Slow push in.
+5-10 s, the reveal: she slowly slides her hands down onto the person's shoulders, and the person opens their eyes and looks into the camera with a calm smile. The whole face is large and sharp: exactly the face from [Image 1], with its eye color. Never morph.
+
+Audio: an original slow music-box lullaby with a wordless choir. Exactly one real person and four gothic women, no extra hands. They are not known film or cartoon characters: no blue skin, no stitches, no veil, no red yarn hair, no spiky hair. No text, no logos.
+```
+

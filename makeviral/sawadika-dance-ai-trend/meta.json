@@ -1,0 +1,49 @@
+{
+  "source": "makeviral",
+  "source_site": "https://www.makeviral.ai",
+  "slug": "sawadika-dance-ai-trend",
+  "name": "SaWaDiKa Dance: Do LISA's Trend From One Photo",
+  "url": "https://www.makeviral.ai/templates/sawadika-dance-ai-trend",
+  "markdown_url": "https://www.makeviral.ai/templates/sawadika-dance-ai-trend.md",
+  "blurb": "The SaWaDiKa dance is the TikTok trend to the chorus of LISA's 2026 song \"SaWaDiKa\": palms pressed together like the Thai greeting, sharp diagonal arm accents, kicks and hip sways.",
+  "updated": "2026-10-16",
+  "published": "2026-10-16",
+  "credits": 60,
+  "demo_videos": [
+    "https://www.makeviral.ai/media/templates/sawadika-dance-ai-trend/original-ai-human-v2.mp4",
+    "https://www.makeviral.ai/media/templates/sawadika-dance-ai-trend/original-pet-v2.mp4"
+  ],
+  "posters": [
+    "https://www.makeviral.ai/media/templates/sawadika-dance-ai-trend/original-ai-human-v1.jpg",
+    "https://www.makeviral.ai/media/templates/sawadika-dance-ai-trend/original-pet-v1.jpg"
+  ],
+  "prompts": [
+    {
+      "label": "1. The video prompt is filled in. Settings: kling-3-motion, 15 s, 720p, 9:16, sound off. The video prompt",
+      "variant": "Human",
+      "kind": "video_prompt",
+      "text": "Strictly replicate the camera movements and actions of the characters in the video. Replace the character in the video with the person from the uploaded image. Keep actions, poses, facial expressions and rhythm. Preserve the person's original facial features, maintain character consistency, no distortion, no glitches, no artifacts.\nThe person dances in the place from the uploaded image, in the clothes and shoes from the uploaded image, not the white lace corset top, the silver belt or the black wide-leg pants of the dancer in the video, and keeps their own hair from the uploaded image, not a dark red bob. Follow the dancer's moves and timing exactly: the palms pressed together high above the head, the quick turn with one arm up, the sharp diagonal arm accents, the knee lifts and the kicks to the side, the hip sways with one hand at the waist, the hand flicks by the face, the palms pressed together at the chest in a Thai greeting, both arms thrown up in a V and the hands behind the head at the end. Keep the whole body in view from head to feet, with natural balance and stable ground contact. Exactly one person, no other people. One continuous shot, no cuts, no text, no captions, no logos."
+    },
+    {
+      "label": "1. The video prompt is filled in. Settings: Seedance 2.5, 15 s, 720p, 9:16, sound off. The video prompt",
+      "variant": "Pet",
+      "kind": "video_prompt",
+      "text": "Recreate the reference video [Video 1] shot for shot: the same bedroom at night with the purple and blue light, the bed with the lilac covers on the left, the shelf of records on the right, the grey shaggy rug on the wooden floor, the same fixed camera, the same framing, timing and dance moves, one continuous take with no cuts. The ONLY change: the ginger-and-white cat who dances upright is now the pet in [Image 1].\n\nThe dancer = the pet in [Image 1], in every frame: the same species and breed, head shape, muzzle, eyes, ears, fur colors, fur length, markings and body shape as in [Image 1], with the natural body volume and proportions of that animal: never flattened, squashed, stretched or merged with anything, so its owner instantly recognizes it from the first second to the last. It stands upright on its hind legs like a person the whole time. Never drift back to the cat of the original video: no ginger-and-white coat and no ginger striped tail unless [Image 1] shows them. The pet wears the same glowing light-blue headphones with little cat ears on its head, and nothing else: its own fur from head to toe. If [Image 1] shows a dog or another animal, that animal dances in the same place with the same moves, with its own ears and muzzle.\n\nThe pet reproduces the cat's full dance frame by frame with the same timing, with a happy, playful face. Matching the reference second by second:\n0-1 s: it stands upright facing the camera, front paws at the chest, then presses both front paws together high above its head.\n1-2 s: one front paw stretched up to the side, a hind leg kicked back, then both paws to its face.\n2-3.5 s: a quick turn to the side with a kick, one paw tucked at the chest, then back to the camera.\n3.5-5 s: a wide stance, the front paws held out low, sharp little paw accents from side to side.\n5-7 s: hip sways and small steps, one knee lifted, one paw swept across the body.\n7-10 s: hip sways with the paws on the belly, then one paw on the hip and the other paw up to the head.\n10-12 s: one paw up by the face, then both paws to the face.\n12-13 s: both front paws pressed together at the chest like a Thai greeting, then crossed at the chest.\n13-15 s: both front paws thrown up high, then behind the head, then down at the sides with small steps.\n\nThe pet keeps real animal anatomy: furry front legs ending in round paws covered in its own fur, never human hands, no bare skin, no fingers, also when the paws press together. One head only, two hind legs and two front legs, no extra legs or paws. No text, no captions, no logos, no watermark, no people, no extra animals."
+    }
+  ],
+  "variant_headings": [
+    "What the SaWaDiKa Dance video looks like",
+    "How to make the SaWaDiKa Dance video on MakeViral",
+    "Which photo works best?",
+    "What happens in the SaWaDiKa dance video, beat by beat?",
+    "What is the SaWaDiKa song meaning, and are the lyrics in the video?",
+    "Where can I watch the SaWaDiKa video and LISA's own dance?",
+    "How do I make the SaWaDiKa dance AI video?",
+    "Where does the background of my video come from?",
+    "Will the dancer from the original clip be in my video?",
+    "How long is the video and what format is it?",
+    "Other AI video templates and tools",
+    "Make your own SaWaDiKa Dance video"
+  ],
+  "prompt_count": 2
+}

@@ -1,0 +1,54 @@
+# AI Zombie Trend: The Zombie Love Story With Your Partner or Pet
+
+- Source: [makeviral](https://www.makeviral.ai/templates/ai-zombie-trend)
+- Slug: `ai-zombie-trend`
+
+The AI zombie trend is a short love story: your partner or pet has turned into a zombie, you aim a pistol through tears, lower it and hug them anyway, then the clip cuts to a happy memory of you both.
+
+## Demo videos (CDN)
+
+- https://www.makeviral.ai/media/templates/ai-zombie-trend/example-pet.mp4
+- https://www.makeviral.ai/media/templates/ai-zombie-trend/example.mp4
+
+## Posters
+
+- https://www.makeviral.ai/media/templates/ai-zombie-trend/example-input.jpg
+- https://www.makeviral.ai/media/templates/ai-zombie-trend/example-pet-input.jpg
+- https://www.makeviral.ai/media/templates/ai-zombie-trend/example-pet-poster.jpg
+- https://www.makeviral.ai/media/templates/ai-zombie-trend/example-poster.jpg
+
+## Prompts
+
+### 1. 1. The video prompt is filled in. Settings: Seedance 2.5, 10 s, 720p, 9:16, sound on. The video prompt
+
+*Kind: video_prompt*
+
+```text
+A cinematic, emotional scene from a real zombie apocalypse film, in two shots, shot on film with natural grain, shallow depth of field and a muted teal and grey color grade. Photorealistic, not CGI.
+
+The survivor is the person in [Image 1], in every frame: copy the exact face from [Image 1] (the face shape, eye color and eye shape, eyebrows, nose, mouth, skin tone, age, hair color, hair length and hairstyle, and any beard, moustache, glasses or freckles) and wear a dusty, worn version of the outfit from [Image 1].
+The zombie is the person in [Image 2], in every frame: copy the exact face from [Image 2] in the same way, with only light zombie makeup: a light grey tint on the skin, a few thin dark veins at the temples and on the neck, a faint milky film over their own eye color, soft dark rings under the eyes, slightly messy hair and a torn, dirty version of the outfit from [Image 2]. No hollow cheeks, no weight loss, no age change: the zombie is still clearly the person in [Image 2].
+They are two different people. Never blend their faces. Each face stays the same from the first frame to the last, so their friends recognize them at once.
+
+Shot 1, a medium shot inside a dim, abandoned farmhouse kitchen in daytime: a dusty floor, an overturned chair, peeling walls, cold blue-grey daylight through dirty windows and floating dust. On the left the survivor aims a black pistol with both shaking hands toward the doorway, eyes wet and red, one tear on the cheek, lips pressed together. On the right, a few steps away in the open doorway, the zombie stops, tilts its head and looks at the survivor as if it remembers them. The survivor slowly lowers the pistol, lets it drop to the floor and opens their arms wide. The zombie stumbles forward into their arms and they hold each other tightly, the survivor with quiet tears, both faces still visible to the camera.
+Shot 2, a hard cut for the last seconds: a bright wheat field at golden hour, the same two people, healthy and human again in clean clothes, with exactly the faces from [Image 1] and [Image 2], laughing and hugging with their faces turned toward the camera; one lifts the other and spins around in the warm sunlight.
+
+Audio: an original slow, sad piano melody with soft strings and quiet breathing that turns warm and hopeful at the cut. No dialogue, no lyrics. Exactly two people, no blood, no gore, no text, no logos.
+```
+
+### 2. Prompt 2 (Pet)
+
+*Kind: prompt*
+
+```text
+Use the two uploaded images as the base. The person in the first image is the survivor. The animal in the second image is their pet, now a zombie. Keep the person's face, facial features, hair and body shape exactly the same as in their photo. Keep the animal's breed, size, face shape, fur color, ear shape and markings exactly the same as in its photo, so it is clearly the same pet. Do not blend the person and the animal. A still from a real zombie apocalypse film, inside a dim, abandoned farmhouse kitchen in daytime: dusty floor, an overturned chair, peeling walls, cold blue-grey daylight through dirty windows, floating dust. On the left, in the foreground, the survivor stands in three-quarter view facing right, in a dusty, worn version of their own outfit, and holds a wooden baseball bat raised in both shaking hands. The survivor's eyes are wet and red, one tear runs down one cheek, the lips are pressed together: they cannot do it. The survivor's face is clearly their own, not twisted by crying. On the right, a few steps away in the open doorway, the pet stands on all four legs facing the survivor: the same animal, now a zombie, with dull, matted, patchy fur, grey skin showing through, clouded milky-white eyes and a low, sad stance. Its face is still clearly the same pet. The survivor is shown from the knees up, the pet is shown whole, both faces clear and in focus. Muted teal and grey color grade, natural film grain, shallow depth of field, photorealistic, not CGI. Vertical 9:16. Exactly one person and one animal, no blood, no gore, no text, no logos.
+```
+
+### 3. 3. Press the film button on the still to open AI Video with the still as the first frame. Settings: Seedance 2.0 Mini, 10 s, 720p, 9:16, sound on. The video prompt
+
+*Kind: video_prompt*
+
+```text
+A cinematic, emotional scene from a zombie apocalypse film, in two shots. Keep the person's face, hair and clothes and the pet's breed, fur color and face exactly as in the image. Shot 1: in the dim abandoned kitchen, the survivor holds the baseball bat raised with shaking hands, with tears in the eyes. The zombie pet in the doorway stops, tilts its head and looks at the survivor as if it remembers them, and its tail moves once. The survivor slowly lowers the bat, lets it drop to the floor, kneels down and opens their arms. The pet limps forward into their arms, and the survivor hugs it tightly with quiet tears, eyes open, the face still visible to the camera. Shot 2, a hard cut for the last seconds: a sunny green backyard at golden hour, the same person and the same pet, healthy again with clean, shiny fur; the pet runs into the person's arms, wags its tail and licks their face while the person laughs. Audio: an original slow, sad piano melody with soft strings and quiet breathing that turns warm and hopeful at the cut. No dialogue, no lyrics, no blood, no gore, no text, no logos.
+```
+
