@@ -7,7 +7,7 @@
 ## Stats
 
 - **MakeViral**: 135 templates · 313 prompt blocks · 216 demo videos
-- **Remake Your Meme**: 18 templates · public prompts: **none** (one-tap remake only) · demos/posters archived
+- **Remake Your Meme**: 29 templates · public prompts: **none** (one-tap remake only) · demos/posters archived
 - **Media.io**: 14 templates · 9 prompt blocks · 10 demo videos
 - Scraped: 2026-10-18 (Asia/Shanghai)
 - Sort: **newest first** by `updated || published || scraped_at (newest first); Asia/Shanghai scrape clock`
@@ -182,43 +182,54 @@ Demo MP4s are stored via Git LFS when present. Each template folder also lists o
 
 | Template | Slug | Date | Prompts | Demo | Page |
 | --- | --- | --- | --- | --- | --- |
-| [Zombie Couple AI Video Generator](remakeyourmeme/zombie-couple-ai-video-generator/PROMPTS.md) | `zombie-couple-ai-video-generator` | 2026-10-17 | no (one-tap) | ✅ | [link](https://remakeyourmeme.com/templates/zombie-couple-ai-video-generator/) |
-| [Smalltown Boy cat dance](remakeyourmeme/smalltown-boy-cat-dance/PROMPTS.md) | `smalltown-boy-cat-dance` | 2026-10-17 | no (one-tap) | ✅ | [link](https://remakeyourmeme.com/templates/smalltown-boy-cat-dance/) |
-| [Rumpelstiltskin AI Video Generator](remakeyourmeme/rumpelstiltskin-ai-video-generator/PROMPTS.md) | `rumpelstiltskin-ai-video-generator` | 2026-10-17 | no (one-tap) | ✅ | [link](https://remakeyourmeme.com/templates/rumpelstiltskin-ai-video-generator/) |
-| [Raindance AI trend](remakeyourmeme/raindance-ai-trend/PROMPTS.md) | `raindance-ai-trend` | 2026-10-17 | no (one-tap) | ✅ | [link](https://remakeyourmeme.com/templates/raindance-ai-trend/) |
-| [Hug in Heaven AI Video Generator](remakeyourmeme/hug-in-heaven-ai-video-generator/PROMPTS.md) | `hug-in-heaven-ai-video-generator` | 2026-10-17 | no (one-tap) | ✅ | [link](https://remakeyourmeme.com/templates/hug-in-heaven-ai-video-generator/) |
-| [Hotel Lobby AI Video Generator](remakeyourmeme/hotel-lobby-ai-video-generator/PROMPTS.md) | `hotel-lobby-ai-video-generator` | 2026-10-17 | no (one-tap) | ✅ | [link](https://remakeyourmeme.com/templates/hotel-lobby-ai-video-generator/) |
-| [Ghostface AI trend](remakeyourmeme/ghostface-ai-trend/PROMPTS.md) | `ghostface-ai-trend` | 2026-10-17 | no (one-tap) | ✅ | [link](https://remakeyourmeme.com/templates/ghostface-ai-trend/) |
-| [Crazy Frog AI Video Generator](remakeyourmeme/crazy-frog-ai-video-generator/PROMPTS.md) | `crazy-frog-ai-video-generator` | 2026-10-17 | no (one-tap) | ✅ | [link](https://remakeyourmeme.com/templates/crazy-frog-ai-video-generator/) |
-| [Closed on Sunday AI Video Generator](remakeyourmeme/closed-on-sunday-ai-video-generator/PROMPTS.md) | `closed-on-sunday-ai-video-generator` | 2026-10-17 | no (one-tap) | ✅ | [link](https://remakeyourmeme.com/templates/closed-on-sunday-ai-video-generator/) |
-| [Burning Bridges AI Video Generator](remakeyourmeme/burning-bridges-ai-video-generator/PROMPTS.md) | `burning-bridges-ai-video-generator` | 2026-10-17 | no (one-tap) | ✅ | [link](https://remakeyourmeme.com/templates/burning-bridges-ai-video-generator/) |
-| [Bulin 47 AI Video Generator](remakeyourmeme/bulin-47-ai-video-generator/PROMPTS.md) | `bulin-47-ai-video-generator` | 2026-10-17 | no (one-tap) | ✅ | [link](https://remakeyourmeme.com/templates/bulin-47-ai-video-generator/) |
-| [Babydoll Dance AI Video Generator](remakeyourmeme/babydoll-dance-ai-video-generator/PROMPTS.md) | `babydoll-dance-ai-video-generator` | 2026-10-17 | no (one-tap) | ✅ | [link](https://remakeyourmeme.com/templates/babydoll-dance-ai-video-generator/) |
-| [Avatar Seven Havens AI](remakeyourmeme/avatar-seven-havens-ai/PROMPTS.md) | `avatar-seven-havens-ai` | 2026-10-17 | no (one-tap) | — | [link](https://remakeyourmeme.com/templates/avatar-seven-havens-ai/) |
-| [Alors On Danse AI Video Generator](remakeyourmeme/alors-on-danse-ai-video-generator/PROMPTS.md) | `alors-on-danse-ai-video-generator` | 2026-10-17 | no (one-tap) | ✅ | [link](https://remakeyourmeme.com/templates/alors-on-danse-ai-video-generator/) |
-| [AI pumpkin head photoshoot](remakeyourmeme/ai-pumpkin-head-photoshoot/PROMPTS.md) | `ai-pumpkin-head-photoshoot` | 2026-10-17 | no (one-tap) | ✅ | [link](https://remakeyourmeme.com/templates/ai-pumpkin-head-photoshoot/) |
-| [AI Halloween costume](remakeyourmeme/ai-halloween-costume/PROMPTS.md) | `ai-halloween-costume` | 2026-10-17 | no (one-tap) | ✅ | [link](https://remakeyourmeme.com/templates/ai-halloween-costume/) |
-| [AI ghost photoshoot](remakeyourmeme/ai-ghost-photoshoot/PROMPTS.md) | `ai-ghost-photoshoot` | 2026-10-17 | no (one-tap) | ✅ | [link](https://remakeyourmeme.com/templates/ai-ghost-photoshoot/) |
-| [AI 90s school photo](remakeyourmeme/ai-90s-school-photo/PROMPTS.md) | `ai-90s-school-photo` | 2026-10-17 | no (one-tap) | ✅ | [link](https://remakeyourmeme.com/templates/ai-90s-school-photo/) |
+| [Zombie Couple AI Video Generator](remakeyourmeme/zombie-couple-ai-video-generator/PROMPTS.md) | `zombie-couple-ai-video-generator` | 2026-10-18 | no (one-tap) | ✅ | [link](https://remakeyourmeme.com/templates/zombie-couple-ai-video-generator/) |
+| [Zombie Couple AI Video Generator](remakeyourmeme/zombie-couple-ai-trend/PROMPTS.md) | `zombie-couple-ai-trend` | 2026-10-18 | no (one-tap) | ✅ | [link](https://remakeyourmeme.com/templates/zombie-couple-ai-trend/) |
+| [Smalltown Boy cat dance](remakeyourmeme/smalltown-boy-cat-dance/PROMPTS.md) | `smalltown-boy-cat-dance` | 2026-10-18 | no (one-tap) | ✅ | [link](https://remakeyourmeme.com/templates/smalltown-boy-cat-dance/) |
+| [Rumpelstiltskin AI Video Generator](remakeyourmeme/rumpelstiltskin-ai-video-generator/PROMPTS.md) | `rumpelstiltskin-ai-video-generator` | 2026-10-18 | no (one-tap) | ✅ | [link](https://remakeyourmeme.com/templates/rumpelstiltskin-ai-video-generator/) |
+| [Rumpelstiltskin AI Video Generator](remakeyourmeme/rumpelstiltskin-ai-video/PROMPTS.md) | `rumpelstiltskin-ai-video` | 2026-10-18 | no (one-tap) | ✅ | [link](https://remakeyourmeme.com/templates/rumpelstiltskin-ai-video/) |
+| [Raindance AI trend](remakeyourmeme/raindance-ai-trend/PROMPTS.md) | `raindance-ai-trend` | 2026-10-18 | no (one-tap) | ✅ | [link](https://remakeyourmeme.com/templates/raindance-ai-trend/) |
+| [Hug in Heaven AI Video Generator](remakeyourmeme/hug-in-heaven-ai-video-generator/PROMPTS.md) | `hug-in-heaven-ai-video-generator` | 2026-10-18 | no (one-tap) | ✅ | [link](https://remakeyourmeme.com/templates/hug-in-heaven-ai-video-generator/) |
+| [Hug in Heaven AI Video Generator](remakeyourmeme/hug-in-heaven/PROMPTS.md) | `hug-in-heaven` | 2026-10-18 | no (one-tap) | ✅ | [link](https://remakeyourmeme.com/templates/hug-in-heaven/) |
+| [Hotel Lobby AI Video Generator](remakeyourmeme/hotel-lobby-ai-video-generator/PROMPTS.md) | `hotel-lobby-ai-video-generator` | 2026-10-18 | no (one-tap) | ✅ | [link](https://remakeyourmeme.com/templates/hotel-lobby-ai-video-generator/) |
+| [Ghostface AI trend](remakeyourmeme/ghostface-ai-trend/PROMPTS.md) | `ghostface-ai-trend` | 2026-10-18 | no (one-tap) | ✅ | [link](https://remakeyourmeme.com/templates/ghostface-ai-trend/) |
+| [Crochet filter AI](remakeyourmeme/crochet-filter-ai/PROMPTS.md) | `crochet-filter-ai` | 2026-10-18 | no (one-tap) | — | [link](https://remakeyourmeme.com/templates/crochet-filter-ai/) |
+| [Crazy Frog AI Video Generator](remakeyourmeme/crazy-frog-ai-video-generator/PROMPTS.md) | `crazy-frog-ai-video-generator` | 2026-10-18 | no (one-tap) | ✅ | [link](https://remakeyourmeme.com/templates/crazy-frog-ai-video-generator/) |
+| [Crazy Frog AI Video Generator](remakeyourmeme/crazy-frog-ai-trend/PROMPTS.md) | `crazy-frog-ai-trend` | 2026-10-18 | no (one-tap) | ✅ | [link](https://remakeyourmeme.com/templates/crazy-frog-ai-trend/) |
+| [Closed on Sunday AI Video Generator](remakeyourmeme/closed-on-sunday-ai-video-generator/PROMPTS.md) | `closed-on-sunday-ai-video-generator` | 2026-10-18 | no (one-tap) | ✅ | [link](https://remakeyourmeme.com/templates/closed-on-sunday-ai-video-generator/) |
+| [Closed on Sunday AI Video Generator](remakeyourmeme/closed-on-sunday-ai-trend/PROMPTS.md) | `closed-on-sunday-ai-trend` | 2026-10-18 | no (one-tap) | ✅ | [link](https://remakeyourmeme.com/templates/closed-on-sunday-ai-trend/) |
+| [Burning Bridges AI Video Generator](remakeyourmeme/burning-bridges-ai-video-generator/PROMPTS.md) | `burning-bridges-ai-video-generator` | 2026-10-18 | no (one-tap) | ✅ | [link](https://remakeyourmeme.com/templates/burning-bridges-ai-video-generator/) |
+| [Burning Bridges AI Video Generator](remakeyourmeme/burning-bridges-ai-trend/PROMPTS.md) | `burning-bridges-ai-trend` | 2026-10-18 | no (one-tap) | ✅ | [link](https://remakeyourmeme.com/templates/burning-bridges-ai-trend/) |
+| [Bulin 47 AI Video Generator](remakeyourmeme/bulin-47-ai-video-generator/PROMPTS.md) | `bulin-47-ai-video-generator` | 2026-10-18 | no (one-tap) | ✅ | [link](https://remakeyourmeme.com/templates/bulin-47-ai-video-generator/) |
+| [Bulin 47 AI Video Generator](remakeyourmeme/bulin-47-ai-trend/PROMPTS.md) | `bulin-47-ai-trend` | 2026-10-18 | no (one-tap) | ✅ | [link](https://remakeyourmeme.com/templates/bulin-47-ai-trend/) |
+| [Babydoll Dance AI Video Generator](remakeyourmeme/babydoll-dance-ai-video-generator/PROMPTS.md) | `babydoll-dance-ai-video-generator` | 2026-10-18 | no (one-tap) | ✅ | [link](https://remakeyourmeme.com/templates/babydoll-dance-ai-video-generator/) |
+| [Babydoll Dance AI Video Generator](remakeyourmeme/babydoll-dance-ai/PROMPTS.md) | `babydoll-dance-ai` | 2026-10-18 | no (one-tap) | ✅ | [link](https://remakeyourmeme.com/templates/babydoll-dance-ai/) |
+| [Avatar Seven Havens AI](remakeyourmeme/avatar-seven-havens-ai/PROMPTS.md) | `avatar-seven-havens-ai` | 2026-10-18 | no (one-tap) | — | [link](https://remakeyourmeme.com/templates/avatar-seven-havens-ai/) |
+| [Alors On Danse AI Video Generator](remakeyourmeme/alors-on-danse-ai-video-generator/PROMPTS.md) | `alors-on-danse-ai-video-generator` | 2026-10-18 | no (one-tap) | ✅ | [link](https://remakeyourmeme.com/templates/alors-on-danse-ai-video-generator/) |
+| [Alors On Danse AI Video Generator](remakeyourmeme/alors-on-danse-ai-trend/PROMPTS.md) | `alors-on-danse-ai-trend` | 2026-10-18 | no (one-tap) | ✅ | [link](https://remakeyourmeme.com/templates/alors-on-danse-ai-trend/) |
+| [AI pumpkin head photoshoot](remakeyourmeme/ai-pumpkin-head-photoshoot/PROMPTS.md) | `ai-pumpkin-head-photoshoot` | 2026-10-18 | no (one-tap) | ✅ | [link](https://remakeyourmeme.com/templates/ai-pumpkin-head-photoshoot/) |
+| [Hotel Lobby AI Video Generator](remakeyourmeme/ai-hotel-lobby-trend/PROMPTS.md) | `ai-hotel-lobby-trend` | 2026-10-18 | no (one-tap) | ✅ | [link](https://remakeyourmeme.com/templates/ai-hotel-lobby-trend/) |
+| [AI Halloween costume](remakeyourmeme/ai-halloween-costume/PROMPTS.md) | `ai-halloween-costume` | 2026-10-18 | no (one-tap) | ✅ | [link](https://remakeyourmeme.com/templates/ai-halloween-costume/) |
+| [AI ghost photoshoot](remakeyourmeme/ai-ghost-photoshoot/PROMPTS.md) | `ai-ghost-photoshoot` | 2026-10-18 | no (one-tap) | ✅ | [link](https://remakeyourmeme.com/templates/ai-ghost-photoshoot/) |
+| [AI 90s school photo](remakeyourmeme/ai-90s-school-photo/PROMPTS.md) | `ai-90s-school-photo` | 2026-10-18 | no (one-tap) | ✅ | [link](https://remakeyourmeme.com/templates/ai-90s-school-photo/) |
 
 ### Media.io
 
 | Template | Slug | Date | Prompts | Demo | Page |
 | --- | --- | --- | ---: | --- | --- |
-| [Under the Fan AI Video](mediaio/under-the-fan-ai-video/PROMPTS.md) | `under-the-fan-ai-video` | 2026-10-17 | 1 | ✅ | [link](https://www.media.io/ai/explore/zone/under-the-fan-ai-video) |
-| [Ramalama Bang Bang](mediaio/ramalama-halloween-ai-video-trend/PROMPTS.md) | `ramalama-halloween-ai-video-trend` | 2026-10-17 | none found | — | [link](https://www.media.io/ai/explore/zone/ramalama-halloween-ai-video-trend) |
-| [Raindance AI Trend](mediaio/raindance-ai-video-generator/PROMPTS.md) | `raindance-ai-video-generator` | 2026-10-17 | 1 | ✅ | [link](https://www.media.io/ai/explore/zone/raindance-ai-video-generator) |
-| [Polar Bear 2026 AI Video](mediaio/polar-bear-2026-ai-video/PROMPTS.md) | `polar-bear-2026-ai-video` | 2026-10-17 | 1 | ✅ | [link](https://www.media.io/ai/explore/zone/polar-bear-2026-ai-video) |
-| [Parking Lot Vibe AI Video Trend](mediaio/parking-lot-vibe-ai-video/PROMPTS.md) | `parking-lot-vibe-ai-video` | 2026-10-17 | 1 | ✅ | [link](https://www.media.io/ai/explore/zone/parking-lot-vibe-ai-video) |
-| [OOUUH AI Kitchen Duet](mediaio/oouuh-ai-kitchen-duet/PROMPTS.md) | `oouuh-ai-kitchen-duet` | 2026-10-17 | 1 | ✅ | [link](https://www.media.io/ai/explore/zone/oouuh-ai-kitchen-duet) |
-| [Not Bro Getting Arrested Again AI Video Generator](mediaio/not-bro-getting-arrested-again-ai-video-trend/PROMPTS.md) | `not-bro-getting-arrested-again-ai-video-trend` | 2026-10-17 | none found | — | [link](https://www.media.io/ai/explore/zone/not-bro-getting-arrested-again-ai-video-trend) |
-| [NFL AI Fan](mediaio/nfl-ai-fan-cam-generator/PROMPTS.md) | `nfl-ai-fan-cam-generator` | 2026-10-17 | 1 | ✅ | [link](https://www.media.io/ai/explore/zone/nfl-ai-fan-cam-generator) |
-| [Navratri Metro Nine Forms AI Video](mediaio/navratri-metro-nine-forms-ai-video/PROMPTS.md) | `navratri-metro-nine-forms-ai-video` | 2026-10-17 | 1 | ✅ | [link](https://www.media.io/ai/explore/zone/navratri-metro-nine-forms-ai-video) |
-| [Gang Gang Dance](mediaio/gang-gang-dance-ai-video/PROMPTS.md) | `gang-gang-dance-ai-video` | 2026-10-17 | 1 | ✅ | [link](https://www.media.io/ai/explore/zone/gang-gang-dance-ai-video) |
-| [Ausar AI Hotel Lobby](mediaio/ausar-ai-hotel-lobby/PROMPTS.md) | `ausar-ai-hotel-lobby` | 2026-10-17 | none found | ✅ | [link](https://www.media.io/ai/explore/zone/ausar-ai-hotel-lobby) |
-| [Aura Farming Korean AI Video](mediaio/aura-farming-korean-ai-video/PROMPTS.md) | `aura-farming-korean-ai-video` | 2026-10-17 | none found | — | [link](https://www.media.io/ai/explore/zone/aura-farming-korean-ai-video) |
-| [AI Food Drip Effect](mediaio/ai-food-drip-effect/PROMPTS.md) | `ai-food-drip-effect` | 2026-10-17 | none found | — | [link](https://www.media.io/ai/effect/create/ai-food-drip-effect) |
-| [AI Car Video Generator](mediaio/ai-car-video-generator/PROMPTS.md) | `ai-car-video-generator` | 2026-10-17 | 1 | ✅ | [link](https://www.media.io/ai/explore/zone/ai-car-video-generator) |
+| [Under the Fan AI Video](mediaio/under-the-fan-ai-video/PROMPTS.md) | `under-the-fan-ai-video` | 2026-10-18 | 1 | ✅ | [link](https://www.media.io/ai/explore/zone/under-the-fan-ai-video) |
+| [Ramalama Bang Bang](mediaio/ramalama-halloween-ai-video-trend/PROMPTS.md) | `ramalama-halloween-ai-video-trend` | 2026-10-18 | none found | — | [link](https://www.media.io/ai/explore/zone/ramalama-halloween-ai-video-trend) |
+| [Raindance AI Trend](mediaio/raindance-ai-video-generator/PROMPTS.md) | `raindance-ai-video-generator` | 2026-10-18 | 1 | ✅ | [link](https://www.media.io/ai/explore/zone/raindance-ai-video-generator) |
+| [Polar Bear 2026 AI Video](mediaio/polar-bear-2026-ai-video/PROMPTS.md) | `polar-bear-2026-ai-video` | 2026-10-18 | 1 | ✅ | [link](https://www.media.io/ai/explore/zone/polar-bear-2026-ai-video) |
+| [Parking Lot Vibe AI Video Trend](mediaio/parking-lot-vibe-ai-video/PROMPTS.md) | `parking-lot-vibe-ai-video` | 2026-10-18 | 1 | ✅ | [link](https://www.media.io/ai/explore/zone/parking-lot-vibe-ai-video) |
+| [OOUUH AI Kitchen Duet](mediaio/oouuh-ai-kitchen-duet/PROMPTS.md) | `oouuh-ai-kitchen-duet` | 2026-10-18 | 1 | ✅ | [link](https://www.media.io/ai/explore/zone/oouuh-ai-kitchen-duet) |
+| [Not Bro Getting Arrested Again AI Video Generator](mediaio/not-bro-getting-arrested-again-ai-video-trend/PROMPTS.md) | `not-bro-getting-arrested-again-ai-video-trend` | 2026-10-18 | none found | — | [link](https://www.media.io/ai/explore/zone/not-bro-getting-arrested-again-ai-video-trend) |
+| [NFL AI Fan](mediaio/nfl-ai-fan-cam-generator/PROMPTS.md) | `nfl-ai-fan-cam-generator` | 2026-10-18 | 1 | ✅ | [link](https://www.media.io/ai/explore/zone/nfl-ai-fan-cam-generator) |
+| [Navratri Metro Nine Forms AI Video](mediaio/navratri-metro-nine-forms-ai-video/PROMPTS.md) | `navratri-metro-nine-forms-ai-video` | 2026-10-18 | 1 | ✅ | [link](https://www.media.io/ai/explore/zone/navratri-metro-nine-forms-ai-video) |
+| [Gang Gang Dance](mediaio/gang-gang-dance-ai-video/PROMPTS.md) | `gang-gang-dance-ai-video` | 2026-10-18 | 1 | ✅ | [link](https://www.media.io/ai/explore/zone/gang-gang-dance-ai-video) |
+| [Ausar AI Hotel Lobby](mediaio/ausar-ai-hotel-lobby/PROMPTS.md) | `ausar-ai-hotel-lobby` | 2026-10-18 | none found | ✅ | [link](https://www.media.io/ai/explore/zone/ausar-ai-hotel-lobby) |
+| [Aura Farming Korean AI Video](mediaio/aura-farming-korean-ai-video/PROMPTS.md) | `aura-farming-korean-ai-video` | 2026-10-18 | none found | — | [link](https://www.media.io/ai/explore/zone/aura-farming-korean-ai-video) |
+| [AI Food Drip Effect](mediaio/ai-food-drip-effect/PROMPTS.md) | `ai-food-drip-effect` | 2026-10-18 | none found | — | [link](https://www.media.io/ai/effect/create/ai-food-drip-effect) |
+| [AI Car Video Generator](mediaio/ai-car-video-generator/PROMPTS.md) | `ai-car-video-generator` | 2026-10-18 | 1 | ✅ | [link](https://www.media.io/ai/explore/zone/ai-car-video-generator) |
 
 ## Attribution & license
 
@@ -232,4 +243,4 @@ This repository is an **inventory / awesome-list** for discovery and research. R
 
 ## Disclaimer
 
-Prompts are copied verbatim from public pages / public aigc configs — nothing invented. Remake Your Meme pages explicitly say there is no prompt to write; we do not fabricate prompts for those entries. Media.io entries without an extractable public prompt are marked accordingly.
+Prompts are copied verbatim from public pages — nothing invented. Remake Your Meme pages explicitly say there is no prompt to write; we do not fabricate prompts for those entries. Media.io entries without a public aigc_config prompt are marked as such.

@@ -7,12 +7,12 @@ Real output from this maker, unedited, made October 10, 2026 with photos of AI-g
 
 ## Demo videos (CDN)
 
-- https://cdn.remakeyourmeme.com/examples/alors-on-danse/video.mp4
 - https://cdn.remakeyourmeme.com/trends/alors-on-danse/7646336057927142689.mp4
 - https://cdn.remakeyourmeme.com/trends/alors-on-danse/7690702205229206791.mp4
 - https://cdn.remakeyourmeme.com/trends/alors-on-danse/7692527106185596168.mp4
 - https://cdn.remakeyourmeme.com/trends/alors-on-danse/7693189653947632918.mp4
 - https://cdn.remakeyourmeme.com/trends/alors-on-danse/7693870611386469654.mp4
+- https://cdn.remakeyourmeme.com/wm/remakeyourmeme/examples/alors-on-danse/video.mp4
 
 ## Posters
 

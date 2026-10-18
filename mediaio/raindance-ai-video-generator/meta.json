@@ -9,11 +9,11 @@
   "blurb": "",
   "crc_slug": "pugc_kling_30_omni_6jjw_p34",
   "crc_id": 60064808,
-  "aigc_config_url": "https://dynamic-third-res.wondershare.cc/202610202211/abc9231d736e24562ece39b1fe1630c7/Media_io/aicommunity/json/dynamic/s7/284f018a5c8caae3807c2dc4eedf1a3f.json",
+  "aigc_config_url": "https://dynamic-third-res.wondershare.cc/202610211244/071d3d995b9edfeda96d559930894d89/Media_io/aicommunity/json/dynamic/s7/284f018a5c8caae3807c2dc4eedf1a3f.json",
   "aigc_config_local": "_raw/mediaio-aigc/raindance-ai-video-generator.json",
   "published": null,
   "updated": null,
-  "scraped_at": "2026-10-17",
+  "scraped_at": "2026-10-18",
   "demo_videos": [
     "https://static-third-res.wondershare.cc/Media_io/aicommunity/preview/static/s1/3967fe9423056ab718696472fe152291.mp4"
   ],
@@ -40,6 +40,6 @@
     "share_count": 0,
     "star_count": 0,
     "used_count": 0,
-    "view_count": 6861
+    "view_count": 6911
   }
 }

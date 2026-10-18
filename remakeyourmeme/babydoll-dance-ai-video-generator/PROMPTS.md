@@ -7,8 +7,8 @@ Real output from this maker, unedited, made October 17, 2026 with photos of AI-g
 
 ## Demo videos (CDN)
 
-- https://cdn.remakeyourmeme.com/examples/baby-doll/sample-2/video.mp4
 - https://cdn.remakeyourmeme.com/trends/baby-doll/7674629461723139358.mp4
+- https://cdn.remakeyourmeme.com/wm/remakeyourmeme/examples/baby-doll/sample-2/video.mp4
 
 ## Posters
 

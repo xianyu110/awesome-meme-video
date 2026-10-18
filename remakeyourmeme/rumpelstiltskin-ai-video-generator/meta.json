@@ -9,14 +9,14 @@
   "duration_s": 14,
   "ready_to_make": true,
   "demo_videos": [
-    "https://cdn.remakeyourmeme.com/examples/rumpelstiltskin/video.mp4",
     "https://cdn.remakeyourmeme.com/trends/rumpelstiltskin/7693232536037641486.mp4",
     "https://cdn.remakeyourmeme.com/trends/rumpelstiltskin/7693713868241079582.mp4",
-    "https://cdn.remakeyourmeme.com/trends/rumpelstiltskin/7694520686584401182.mp4"
+    "https://cdn.remakeyourmeme.com/trends/rumpelstiltskin/7694520686584401182.mp4",
+    "https://cdn.remakeyourmeme.com/wm/remakeyourmeme/examples/rumpelstiltskin/video.mp4"
   ],
   "preview_videos": [
-    "https://cdn.remakeyourmeme.com/examples/rumpelstiltskin/preview-854.mp4",
-    "https://cdn.remakeyourmeme.com/templates/rumpelstiltskin/preview-854.mp4"
+    "https://cdn.remakeyourmeme.com/templates/rumpelstiltskin/preview-854.mp4",
+    "https://cdn.remakeyourmeme.com/wm/remakeyourmeme/examples/rumpelstiltskin/preview-854.mp4"
   ],
   "posters": [
     "https://cdn.remakeyourmeme.com/examples/rumpelstiltskin/input-1.jpg",
@@ -28,21 +28,21 @@
     "https://cdn.remakeyourmeme.com/trends/rumpelstiltskin/7694520686584401182.webp"
   ],
   "all_cdn_mp4": [
-    "https://cdn.remakeyourmeme.com/examples/rumpelstiltskin/preview-854.mp4",
-    "https://cdn.remakeyourmeme.com/examples/rumpelstiltskin/video.mp4",
     "https://cdn.remakeyourmeme.com/templates/baby-doll/video.mp4",
     "https://cdn.remakeyourmeme.com/templates/closed-on-sunday/video.mp4",
     "https://cdn.remakeyourmeme.com/templates/hug-in-heaven/video.mp4",
     "https://cdn.remakeyourmeme.com/templates/rumpelstiltskin/preview-854.mp4",
     "https://cdn.remakeyourmeme.com/trends/rumpelstiltskin/7693232536037641486.mp4",
     "https://cdn.remakeyourmeme.com/trends/rumpelstiltskin/7693713868241079582.mp4",
-    "https://cdn.remakeyourmeme.com/trends/rumpelstiltskin/7694520686584401182.mp4"
+    "https://cdn.remakeyourmeme.com/trends/rumpelstiltskin/7694520686584401182.mp4",
+    "https://cdn.remakeyourmeme.com/wm/remakeyourmeme/examples/rumpelstiltskin/preview-854.mp4",
+    "https://cdn.remakeyourmeme.com/wm/remakeyourmeme/examples/rumpelstiltskin/video.mp4"
   ],
   "prompts": [],
   "prompt_count": 0,
   "prompts_public": false,
   "note": "Remake Your Meme does not publish copyable prompt text on public template pages (one-tap remake). Inventory keeps demos, posters, and metadata only.",
-  "scraped_at": "2026-10-17",
+  "scraped_at": "2026-10-18",
   "published": null,
   "updated": null
 }

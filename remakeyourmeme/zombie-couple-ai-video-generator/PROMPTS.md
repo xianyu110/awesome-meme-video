@@ -7,13 +7,13 @@ Real output from this maker, unedited, made October 15, 2026 with photos of AI-g
 
 ## Demo videos (CDN)
 
-- https://cdn.remakeyourmeme.com/examples/zombie-couple/sample-2/video.mp4
 - https://cdn.remakeyourmeme.com/trends/zombie-couple/7691766350611598605.mp4
 - https://cdn.remakeyourmeme.com/trends/zombie-couple/7691835688706116878.mp4
 - https://cdn.remakeyourmeme.com/trends/zombie-couple/7693462806938553613.mp4
 - https://cdn.remakeyourmeme.com/trends/zombie-couple/7694661370104515854.mp4
 - https://cdn.remakeyourmeme.com/trends/zombie-couple/7694860811377954078.mp4
 - https://cdn.remakeyourmeme.com/trends/zombie-couple/7695470450041818376.mp4
+- https://cdn.remakeyourmeme.com/wm/remakeyourmeme/examples/zombie-couple/sample-2/video.mp4
 
 ## Posters
 

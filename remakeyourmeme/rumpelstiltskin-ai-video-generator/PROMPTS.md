@@ -7,10 +7,10 @@ Real output from this maker, unedited, made October 10, 2026 with photos of AI-g
 
 ## Demo videos (CDN)
 
-- https://cdn.remakeyourmeme.com/examples/rumpelstiltskin/video.mp4
 - https://cdn.remakeyourmeme.com/trends/rumpelstiltskin/7693232536037641486.mp4
 - https://cdn.remakeyourmeme.com/trends/rumpelstiltskin/7693713868241079582.mp4
 - https://cdn.remakeyourmeme.com/trends/rumpelstiltskin/7694520686584401182.mp4
+- https://cdn.remakeyourmeme.com/wm/remakeyourmeme/examples/rumpelstiltskin/video.mp4
 
 ## Posters
 

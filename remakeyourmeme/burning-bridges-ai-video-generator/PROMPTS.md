@@ -7,15 +7,15 @@ Real output from this maker, unedited, made October 11, 2026 with photos of AI-g
 
 ## Demo videos (CDN)
 
-- https://cdn.remakeyourmeme.com/examples/burning-bridges/sample-1/video.mp4
-- https://cdn.remakeyourmeme.com/examples/burning-bridges/sample-2/video.mp4
-- https://cdn.remakeyourmeme.com/examples/burning-bridges/sample-3/video.mp4
 - https://cdn.remakeyourmeme.com/trends/burning-bridges/7693216992827936013.mp4
 - https://cdn.remakeyourmeme.com/trends/burning-bridges/7693917087428873503.mp4
 - https://cdn.remakeyourmeme.com/trends/burning-bridges/7694447027471600909.mp4
 - https://cdn.remakeyourmeme.com/trends/burning-bridges/7694593788458568993.mp4
 - https://cdn.remakeyourmeme.com/trends/burning-bridges/7694662134285864206.mp4
 - https://cdn.remakeyourmeme.com/trends/burning-bridges/7694774387920096526.mp4
+- https://cdn.remakeyourmeme.com/wm/remakeyourmeme/examples/burning-bridges/sample-1/video.mp4
+- https://cdn.remakeyourmeme.com/wm/remakeyourmeme/examples/burning-bridges/sample-2/video.mp4
+- https://cdn.remakeyourmeme.com/wm/remakeyourmeme/examples/burning-bridges/sample-3/video.mp4
 
 ## Posters
 

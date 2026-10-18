@@ -7,11 +7,11 @@ Real output from this maker, unedited, made October 10, 2026 with photos of AI-g
 
 ## Demo videos (CDN)
 
-- https://cdn.remakeyourmeme.com/examples/hotel-lobby/video.mp4
 - https://cdn.remakeyourmeme.com/trends/hotel-lobby/7685941142646541589.mp4
 - https://cdn.remakeyourmeme.com/trends/hotel-lobby/7690388554442181921.mp4
 - https://cdn.remakeyourmeme.com/trends/hotel-lobby/7692129733860936991.mp4
 - https://cdn.remakeyourmeme.com/trends/hotel-lobby/7694802064387460366.mp4
+- https://cdn.remakeyourmeme.com/wm/remakeyourmeme/examples/hotel-lobby/video.mp4
 
 ## Posters
 

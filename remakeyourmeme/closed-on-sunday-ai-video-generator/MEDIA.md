@@ -1,6 +1,6 @@
 # Media — Closed on Sunday AI Video Generator
 
-- video: https://cdn.remakeyourmeme.com/examples/closed-on-sunday/sample-6/video.mp4
+- video: https://cdn.remakeyourmeme.com/wm/remakeyourmeme/examples/closed-on-sunday/sample-6/video.mp4
 - poster: https://cdn.remakeyourmeme.com/examples/closed-on-sunday/sample-6/poster.jpg
 - poster: https://cdn.remakeyourmeme.com/templates/closed-on-sunday/choirs/aliens-1200.webp
 - poster: https://cdn.remakeyourmeme.com/templates/closed-on-sunday/choirs/aliens-one.webp

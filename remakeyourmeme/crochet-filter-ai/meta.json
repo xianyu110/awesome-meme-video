@@ -1,0 +1,34 @@
+{
+  "source": "remakeyourmeme",
+  "source_site": "https://remakeyourmeme.com",
+  "slug": "crochet-filter-ai",
+  "name": "Crochet filter AI",
+  "url": "https://remakeyourmeme.com/templates/crochet-filter-ai/",
+  "blurb": "One person, a couple or a pet. Hair, clothes and the place stay; everyone turns to yarn.",
+  "photos_in": null,
+  "duration_s": 14,
+  "ready_to_make": true,
+  "demo_videos": [],
+  "preview_videos": [],
+  "posters": [
+    "https://cdn.remakeyourmeme.com/examples/crochet-filter/couple-sm.webp",
+    "https://cdn.remakeyourmeme.com/examples/crochet-filter/input-1.jpg",
+    "https://cdn.remakeyourmeme.com/examples/crochet-filter/input-couple.jpg",
+    "https://cdn.remakeyourmeme.com/examples/crochet-filter/input-pet.jpg",
+    "https://cdn.remakeyourmeme.com/examples/crochet-filter/pet-sm.webp",
+    "https://cdn.remakeyourmeme.com/examples/crochet-filter/result-sm.webp",
+    "https://cdn.remakeyourmeme.com/examples/crochet-filter/result.webp"
+  ],
+  "all_cdn_mp4": [
+    "https://cdn.remakeyourmeme.com/templates/baby-doll/video.mp4",
+    "https://cdn.remakeyourmeme.com/templates/closed-on-sunday/video.mp4",
+    "https://cdn.remakeyourmeme.com/templates/hug-in-heaven/video.mp4"
+  ],
+  "prompts": [],
+  "prompt_count": 0,
+  "prompts_public": false,
+  "note": "Remake Your Meme does not publish copyable prompt text on public template pages (one-tap remake). Inventory keeps demos, posters, and metadata only.",
+  "scraped_at": "2026-10-18",
+  "published": null,
+  "updated": null
+}

@@ -21,4 +21,4 @@ Inventory, README tables, PROMPTS.md, and the Pages gallery are sorted **newest 
 `updated` (MakeViral) → else `published` → else `scraped_at` (Asia/Shanghai scrape date).
 Remake / Media.io pages often have no public publish date, so they fall back to `scraped_at`.
 
-Synced 2026-10-18T12:07:09+08:00 (Asia/Shanghai) for the awesome-meme-video inventory.
+Synced 2026-10-18T13:41:09+08:00 (Asia/Shanghai) for the awesome-meme-video inventory.

@@ -7,7 +7,7 @@ Real output from this maker, unedited, made October 17, 2026 with photos of AI-g
 
 ## Demo videos (CDN)
 
-- https://cdn.remakeyourmeme.com/examples/closed-on-sunday/sample-6/video.mp4
+- https://cdn.remakeyourmeme.com/wm/remakeyourmeme/examples/closed-on-sunday/sample-6/video.mp4
 
 ## Posters
 

@@ -9,16 +9,16 @@
   "duration_s": 14,
   "ready_to_make": true,
   "demo_videos": [
-    "https://cdn.remakeyourmeme.com/examples/alors-on-danse/video.mp4",
     "https://cdn.remakeyourmeme.com/trends/alors-on-danse/7646336057927142689.mp4",
     "https://cdn.remakeyourmeme.com/trends/alors-on-danse/7690702205229206791.mp4",
     "https://cdn.remakeyourmeme.com/trends/alors-on-danse/7692527106185596168.mp4",
     "https://cdn.remakeyourmeme.com/trends/alors-on-danse/7693189653947632918.mp4",
-    "https://cdn.remakeyourmeme.com/trends/alors-on-danse/7693870611386469654.mp4"
+    "https://cdn.remakeyourmeme.com/trends/alors-on-danse/7693870611386469654.mp4",
+    "https://cdn.remakeyourmeme.com/wm/remakeyourmeme/examples/alors-on-danse/video.mp4"
   ],
   "preview_videos": [
-    "https://cdn.remakeyourmeme.com/examples/alors-on-danse/preview-854.mp4",
-    "https://cdn.remakeyourmeme.com/templates/alors-on-danse/preview-854.mp4"
+    "https://cdn.remakeyourmeme.com/templates/alors-on-danse/preview-854.mp4",
+    "https://cdn.remakeyourmeme.com/wm/remakeyourmeme/examples/alors-on-danse/preview-854.mp4"
   ],
   "posters": [
     "https://cdn.remakeyourmeme.com/examples/alors-on-danse/input-1.jpg",
@@ -32,8 +32,6 @@
     "https://cdn.remakeyourmeme.com/trends/alors-on-danse/7693870611386469654.webp"
   ],
   "all_cdn_mp4": [
-    "https://cdn.remakeyourmeme.com/examples/alors-on-danse/preview-854.mp4",
-    "https://cdn.remakeyourmeme.com/examples/alors-on-danse/video.mp4",
     "https://cdn.remakeyourmeme.com/templates/alors-on-danse/preview-854.mp4",
     "https://cdn.remakeyourmeme.com/templates/baby-doll/video.mp4",
     "https://cdn.remakeyourmeme.com/templates/closed-on-sunday/video.mp4",
@@ -42,13 +40,15 @@
     "https://cdn.remakeyourmeme.com/trends/alors-on-danse/7690702205229206791.mp4",
     "https://cdn.remakeyourmeme.com/trends/alors-on-danse/7692527106185596168.mp4",
     "https://cdn.remakeyourmeme.com/trends/alors-on-danse/7693189653947632918.mp4",
-    "https://cdn.remakeyourmeme.com/trends/alors-on-danse/7693870611386469654.mp4"
+    "https://cdn.remakeyourmeme.com/trends/alors-on-danse/7693870611386469654.mp4",
+    "https://cdn.remakeyourmeme.com/wm/remakeyourmeme/examples/alors-on-danse/preview-854.mp4",
+    "https://cdn.remakeyourmeme.com/wm/remakeyourmeme/examples/alors-on-danse/video.mp4"
   ],
   "prompts": [],
   "prompt_count": 0,
   "prompts_public": false,
   "note": "Remake Your Meme does not publish copyable prompt text on public template pages (one-tap remake). Inventory keeps demos, posters, and metadata only.",
-  "scraped_at": "2026-10-17",
+  "scraped_at": "2026-10-18",
   "published": null,
   "updated": null
 }

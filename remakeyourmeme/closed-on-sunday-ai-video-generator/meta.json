@@ -9,11 +9,11 @@
   "duration_s": 14,
   "ready_to_make": true,
   "demo_videos": [
-    "https://cdn.remakeyourmeme.com/examples/closed-on-sunday/sample-6/video.mp4"
+    "https://cdn.remakeyourmeme.com/wm/remakeyourmeme/examples/closed-on-sunday/sample-6/video.mp4"
   ],
   "preview_videos": [
-    "https://cdn.remakeyourmeme.com/examples/closed-on-sunday/sample-6/preview-854.mp4",
-    "https://cdn.remakeyourmeme.com/templates/closed-on-sunday/preview-854.mp4"
+    "https://cdn.remakeyourmeme.com/templates/closed-on-sunday/preview-854.mp4",
+    "https://cdn.remakeyourmeme.com/wm/remakeyourmeme/examples/closed-on-sunday/sample-6/preview-854.mp4"
   ],
   "posters": [
     "https://cdn.remakeyourmeme.com/examples/closed-on-sunday/sample-6/poster.jpg",
@@ -33,18 +33,18 @@
     "https://cdn.remakeyourmeme.com/templates/closed-on-sunday/choirs/original-one.webp"
   ],
   "all_cdn_mp4": [
-    "https://cdn.remakeyourmeme.com/examples/closed-on-sunday/sample-6/preview-854.mp4",
-    "https://cdn.remakeyourmeme.com/examples/closed-on-sunday/sample-6/video.mp4",
     "https://cdn.remakeyourmeme.com/templates/baby-doll/video.mp4",
     "https://cdn.remakeyourmeme.com/templates/closed-on-sunday/preview-854.mp4",
     "https://cdn.remakeyourmeme.com/templates/hug-in-heaven/video.mp4",
-    "https://cdn.remakeyourmeme.com/templates/zombie-couple/video.mp4"
+    "https://cdn.remakeyourmeme.com/templates/zombie-couple/video.mp4",
+    "https://cdn.remakeyourmeme.com/wm/remakeyourmeme/examples/closed-on-sunday/sample-6/preview-854.mp4",
+    "https://cdn.remakeyourmeme.com/wm/remakeyourmeme/examples/closed-on-sunday/sample-6/video.mp4"
   ],
   "prompts": [],
   "prompt_count": 0,
   "prompts_public": false,
   "note": "Remake Your Meme does not publish copyable prompt text on public template pages (one-tap remake). Inventory keeps demos, posters, and metadata only.",
-  "scraped_at": "2026-10-17",
+  "scraped_at": "2026-10-18",
   "published": null,
   "updated": null
 }

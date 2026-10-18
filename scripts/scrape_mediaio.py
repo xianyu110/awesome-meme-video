@@ -191,7 +191,8 @@ def main():
 
         # Prefer EN page URL; keep ZH listing as source listing
         page_url = turn_url or f'{ZONE_URL_EN}'
-        published = None
+        published_date = None
+        updated_date = None
         # try detail zone info if turn is a zone page
         m = re.search(r'/zone/([a-z0-9\-]+)', turn_url or '')
         detail_zone = None
@@ -206,12 +207,8 @@ def main():
                     detail_zone = None
             if detail_zone and detail_zone.get('data'):
                 (RAW / 'mediaio-aigc' / f'{slug}.zone.json').write_text(json.dumps(detail_zone, ensure_ascii=False, indent=2) + '\n')
-                published = parse_mediaio_date(detail_zone['data'].get('created_at'))
-                updated = parse_mediaio_date(detail_zone['data'].get('updated_at'))
-            else:
-                updated = None
-        else:
-            updated = None
+                published_date = parse_mediaio_date(detail_zone['data'].get('created_at'))
+                updated_date = parse_mediaio_date(detail_zone['data'].get('updated_at'))
 
         item = {
             'source': 'mediaio',
@@ -226,8 +223,8 @@ def main():
             'crc_id': raw.get('crc_id') or ((raw.get('crc_resource') or {}).get('id')),
             'aigc_config_url': aigc_url or None,
             'aigc_config_local': aigc_local,
-            'published': published,
-            'updated': updated,
+            'published': published_date,
+            'updated': updated_date,
             'scraped_at': SCRAPE_DATE,
             'demo_videos': demo_videos,
             'posters': posters,
@@ -250,8 +247,7 @@ def main():
         if old_hash is None:
             added.append(slug)
         elif old_hash != new_hash:
-            updated.append(slug) if False else updated.append(slug)  # noqa
-            # fix: use list name collision with date var
+            updated.append(slug)
         else:
             unchanged.append(slug)
         results.append(item)
