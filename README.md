@@ -6,10 +6,10 @@
 
 ## Stats
 
-- **MakeViral**: 129 templates · 299 prompt blocks · 208 demo videos
+- **MakeViral**: 135 templates · 313 prompt blocks · 216 demo videos
 - **Remake Your Meme**: 18 templates · public prompts: **none** (one-tap remake only) · demos/posters archived
 - **Media.io**: 14 templates · 9 prompt blocks · 10 demo videos
-- Scraped: 2026-10-17 (Asia/Shanghai)
+- Scraped: 2026-10-18 (Asia/Shanghai)
 - Sort: **newest first** by `updated || published || scraped_at (newest first); Asia/Shanghai scrape clock`
 - Gallery: https://xianyu110.github.io/awesome-meme-video/
 
@@ -46,18 +46,24 @@ Demo MP4s are stored via Git LFS when present. Each template folder also lists o
 | [Yamal Rabona AI: Fake the Rabona and Leave the Defender on the Grass](makeviral/yamal-no-rabona-ai-trend/PROMPTS.md) | `yamal-no-rabona-ai-trend` | 2026-10-17 | 3 | ✅ | [link](https://www.makeviral.ai/templates/yamal-no-rabona-ai-trend) |
 | [Susan Dell Dance AI: Do the Lord Farquaad Dance From One Photo](makeviral/susan-dell-dance-ai/PROMPTS.md) | `susan-dell-dance-ai` | 2026-10-17 | 1 | ✅ | [link](https://www.makeviral.ai/templates/susan-dell-dance-ai) |
 | [Singing Dog AI Trend: Your Dog Blow-Dries Its Fur and Sings](makeviral/singing-dog-ai-trend/PROMPTS.md) | `singing-dog-ai-trend` | 2026-10-17 | 2 | ✅ | [link](https://www.makeviral.ai/templates/singing-dog-ai-trend) |
+| [Shan Shen Bu AI Dance: Do the Flash Step From One Photo](makeviral/shan-shen-bu-ai-dance/PROMPTS.md) | `shan-shen-bu-ai-dance` | 2026-10-17 | 2 | ✅ | [link](https://www.makeviral.ai/templates/shan-shen-bu-ai-dance) |
 | [Mi Chico Dance: Do the Trend From Your Photo](makeviral/mi-chico-dance-ai-trend/PROMPTS.md) | `mi-chico-dance-ai-trend` | 2026-10-17 | 3 | ✅ | [link](https://www.makeviral.ai/templates/mi-chico-dance-ai-trend) |
 | [La Calabaza Dance: Your Pet Times Three, From One Photo](makeviral/la-calabaza-ai-dance/PROMPTS.md) | `la-calabaza-ai-dance` | 2026-10-17 | 3 | ✅ | [link](https://www.makeviral.ai/templates/la-calabaza-ai-dance) |
 | [Sen Sağ Bek, Sen Sol Bek AI: Be the Halı Saha Captain Who Says "Konum Gönderin"](makeviral/hali-saha-konum-gonderin-ai-trend/PROMPTS.md) | `hali-saha-konum-gonderin-ai-trend` | 2026-10-17 | 1 | ✅ | [link](https://www.makeviral.ai/templates/hali-saha-konum-gonderin-ai-trend) |
 | [AI Grandma Parkour: Your Grandma (or Grandpa) Does the Stunts](makeviral/grandma-parkour-ai-trend/PROMPTS.md) | `grandma-parkour-ai-trend` | 2026-10-17 | 3 | ✅ | [link](https://www.makeviral.ai/templates/grandma-parkour-ai-trend) |
+| [Gemini Rain AI Effect: Put Yourself, or the Two of You, in Cinematic Rain](makeviral/gemini-rain-ai-effect/PROMPTS.md) | `gemini-rain-ai-effect` | 2026-10-17 | 3 | ✅ | [link](https://www.makeviral.ai/templates/gemini-rain-ai-effect) |
 | [Gas Station Dance AI: Put You and Your Friends in the Viral Road Trip Reel](makeviral/gas-station-dance-ai-trend/PROMPTS.md) | `gas-station-dance-ai-trend` | 2026-10-17 | 3 | ✅ | [link](https://www.makeviral.ai/templates/gas-station-dance-ai-trend) |
 | [Flying Tesla Roadster AI Video: Rocket Over the Traffic Jam](makeviral/flying-roadster-ai-trend/PROMPTS.md) | `flying-roadster-ai-trend` | 2026-10-17 | 2 | ✅ | [link](https://www.makeviral.ai/templates/flying-roadster-ai-trend) |
 | [Damon Salvatore AI Trend: Walk Into the Church and Smirk as Damon](makeviral/damon-salvatore-ai-trend/PROMPTS.md) | `damon-salvatore-ai-trend` | 2026-10-17 | 2 | ✅ | [link](https://www.makeviral.ai/templates/damon-salvatore-ai-trend) |
 | [Closer Dance AI: You and a Friend in the Original Reel](makeviral/closer-dance-ai-trend/PROMPTS.md) | `closer-dance-ai-trend` | 2026-10-17 | 1 | ✅ | [link](https://www.makeviral.ai/templates/closer-dance-ai-trend) |
 | [Closed on Sunday AI Trend: Stand Still While the Choir Sings](makeviral/closed-on-sunday-ai-trend/PROMPTS.md) | `closed-on-sunday-ai-trend` | 2026-10-17 | 2 | ✅ | [link](https://www.makeviral.ai/templates/closed-on-sunday-ai-trend) |
 | [Boombox Rap AI: Rap Down the Street While Your Friend Carries the Boombox](makeviral/boombox-rap-ai-trend/PROMPTS.md) | `boombox-rap-ai-trend` | 2026-10-17 | 2 | ✅ | [link](https://www.makeviral.ai/templates/boombox-rap-ai-trend) |
+| [High Altitude Trampoline AI Video: Leap, Bounce, Fly Back Up](makeviral/ai-high-altitude-trampoline/PROMPTS.md) | `ai-high-altitude-trampoline` | 2026-10-17 | 3 | ✅ | [link](https://www.makeviral.ai/templates/ai-high-altitude-trampoline) |
 | [Hair Dye Filter: AI Dyes Your Hair Burgundy From One Photo](makeviral/ai-hair-dye-filter/PROMPTS.md) | `ai-hair-dye-filter` | 2026-10-17 | 2 | ✅ | [link](https://www.makeviral.ai/templates/ai-hair-dye-filter) |
+| [Electric Shock Meme AI: You, Your Dog, Two Wires and Sooty Hair](makeviral/ai-electric-shock-pet-prank/PROMPTS.md) | `ai-electric-shock-pet-prank` | 2026-10-17 | 2 | ✅ | [link](https://www.makeviral.ai/templates/ai-electric-shock-pet-prank) |
 | [AI Dunk Trend: Dunk in a Pro Game From One Photo](makeviral/ai-dunk-trend/PROMPTS.md) | `ai-dunk-trend` | 2026-10-17 | 6 | ✅ | [link](https://www.makeviral.ai/templates/ai-dunk-trend) |
+| [Crochet Filter: AI Turns Your Photo Into a Crochet Doll of You](makeviral/ai-crochet-doll-filter/PROMPTS.md) | `ai-crochet-doll-filter` | 2026-10-17 | 2 | ✅ | [link](https://www.makeviral.ai/templates/ai-crochet-doll-filter) |
+| [Celebrity Signature Filter: Sign Autographs for Your Fans with AI](makeviral/ai-celebrity-autograph-signing/PROMPTS.md) | `ai-celebrity-autograph-signing` | 2026-10-17 | 2 | ✅ | [link](https://www.makeviral.ai/templates/ai-celebrity-autograph-signing) |
 | [A2O LITE NEON Dance: Do the Duo Intro From Your Photos](makeviral/a2o-lite-neon-ai-dance/PROMPTS.md) | `a2o-lite-neon-ai-dance` | 2026-10-17 | 3 | ✅ | [link](https://www.makeviral.ai/templates/a2o-lite-neon-ai-dance) |
 | [Topo Gigio Trend: Do the Enzo Fernandez Celebration With AI](makeviral/topo-gigio-celebration-ai-trend/PROMPTS.md) | `topo-gigio-celebration-ai-trend` | 2026-10-16 | 1 | ✅ | [link](https://www.makeviral.ai/templates/topo-gigio-celebration-ai-trend) |
 | [The Jawn Dance: Wait for the Drop From One Photo](makeviral/the-jawn-ai-dance/PROMPTS.md) | `the-jawn-ai-dance` | 2026-10-16 | 2 | ✅ | [link](https://www.makeviral.ai/templates/the-jawn-ai-dance) |
@@ -175,7 +181,7 @@ Demo MP4s are stored via Git LFS when present. Each template folder also lists o
 ### Remake Your Meme
 
 | Template | Slug | Date | Prompts | Demo | Page |
-| --- | --- | --- | ---: | --- | --- |
+| --- | --- | --- | --- | --- | --- |
 | [Zombie Couple AI Video Generator](remakeyourmeme/zombie-couple-ai-video-generator/PROMPTS.md) | `zombie-couple-ai-video-generator` | 2026-10-17 | no (one-tap) | ✅ | [link](https://remakeyourmeme.com/templates/zombie-couple-ai-video-generator/) |
 | [Smalltown Boy cat dance](remakeyourmeme/smalltown-boy-cat-dance/PROMPTS.md) | `smalltown-boy-cat-dance` | 2026-10-17 | no (one-tap) | ✅ | [link](https://remakeyourmeme.com/templates/smalltown-boy-cat-dance/) |
 | [Rumpelstiltskin AI Video Generator](remakeyourmeme/rumpelstiltskin-ai-video-generator/PROMPTS.md) | `rumpelstiltskin-ai-video-generator` | 2026-10-17 | no (one-tap) | ✅ | [link](https://remakeyourmeme.com/templates/rumpelstiltskin-ai-video-generator/) |

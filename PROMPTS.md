@@ -1,17 +1,19 @@
 # All prompts (MakeViral + Media.io)
 
-> 308 prompt blocks from public template pages / aigc configs.
+> MakeViral: 313 prompt blocks from 135 public template markdown pages.
+> Media.io: 9 prompt blocks from 9 templates with public aigc_config prompts (14 total Media.io entries).
 >
 > Remake Your Meme does not publish prompts; see `remakeyourmeme/*/PROMPTS.md` for metadata only.
 >
-> Sorted newest-first by updated/published/scraped_at (2026-10-17).
+> Sorted newest-first by updated/published (2026-10-18).
+
+## MakeViral
 
 ## You Look Lonely, I Can Fix That: The AI Hologram Video
 
-- Source: makeviral
 - Page: https://www.makeviral.ai/templates/you-look-lonely-ai-trend
 - Markdown: https://www.makeviral.ai/templates/you-look-lonely-ai-trend.md
-- Updated: 2026-10-17 · Published: 2026-10-17 · Scraped: 2026-10-17
+- Updated: 2026-10-17 · Published: 2026-10-17
 - Local: [`makeviral/you-look-lonely-ai-trend/PROMPTS.md`](makeviral/you-look-lonely-ai-trend/PROMPTS.md)
 
 ### 1. The video prompt is filled in. Settings: Seedance 2.5, 12 s, 720p, 9:16, sound on. The video prompt
@@ -53,10 +55,9 @@ Use the uploaded image as the base. A vertical cinematic shot in the style of a 
 
 ## Yamal Rabona AI: Fake the Rabona and Leave the Defender on the Grass
 
-- Source: makeviral
 - Page: https://www.makeviral.ai/templates/yamal-no-rabona-ai-trend
 - Markdown: https://www.makeviral.ai/templates/yamal-no-rabona-ai-trend.md
-- Updated: 2026-10-17 · Published: 2026-10-16 · Scraped: 2026-10-17
+- Updated: 2026-10-17 · Published: 2026-10-16
 - Local: [`makeviral/yamal-no-rabona-ai-trend/PROMPTS.md`](makeviral/yamal-no-rabona-ai-trend/PROMPTS.md)
 
 ### 1. The video prompt is filled in. Settings: Seedance 2.5, 8 s, 720p, 9:16, sound on. The video prompt
@@ -120,39 +121,11 @@ Exactly one person, one animal and one ball. No referee, no other players close 
 
 ---
 
-## Under the Fan AI Video
-
-- Source: mediaio
-- Page: https://www.media.io/ai/explore/zone/under-the-fan-ai-video
-- Updated: — · Published: — · Scraped: 2026-10-17
-- Local: [`mediaio/under-the-fan-ai-video/PROMPTS.md`](mediaio/under-the-fan-ai-video/PROMPTS.md)
-
-### prompt
-
-```text
-Use the uploaded user image as the only identity reference for the main subject. Preserve the subject’s recognizable face, skin tone, hairstyle, age appearance, body proportions, and overall identity consistently throughout the video.
-Use the reference video only for the scene, perfect 90-degree top-down camera, framing, subject placement, three-blade ceiling-fan movement, pose changes, transition timing, and overall rhythm. Keep the camera completely locked with no zoom, pan, tilt, orbit, or drift. Recreate the same indoor setup: the subject lies centered on a vintage patterned rug over dark wooden flooring, with visible furniture edges, small household objects, and warm directional sunlight. Keep the environment, lighting, rug position, and framing unchanged.
-Automatically generate four clearly different outfits that suit the uploaded subject’s facial appearance, hairstyle, age impression, overall vibe, and style cues. The outfits must be visually distinct from one another, not just color variations:
-Look 1: clean casual fashion — simple top or knitwear with relaxed trousers and clean everyday shoes.
-Look 2: polished preppy look — cardigan, sweater vest, structured shirt, tailored trousers, pleated bottoms, loafers, or refined casual shoes.
-Look 3: layered streetwear — bomber, overshirt, lightweight jacket, hoodie, or layered top with wide-leg or relaxed trousers and sneakers.
-Look 4: sporty or statement fashion — coordinated zip-up, sweatshirt, track jacket, fitted or relaxed top with joggers, flared pants, or modern casual trousers.
-Adapt all silhouettes, colors, proportions, and styling naturally to the uploaded subject. Every look must feel wearable, stylish, and appropriate for the same person while remaining obviously different in silhouette, layering, texture, and fashion category.
-Use a large rotating three-blade ceiling fan very close to the camera as the transition device. Each blade sweeps across the foreground with the same direction, speed, scale, trajectory, and motion blur as the reference video. Every outfit change must happen only when a fan blade heavily or almost completely covers the subject. When the blade moves away, reveal the same person in a completely new outfit and a different relaxed pose.
-Each new pose should remain subtle: small head turns, arm repositioning, one hand near the waist or chest, reaching toward a nearby object, touching the hair, adjusting clothing, or lightly bending or crossing the legs. Keep the subject lying in approximately the same central position. Do not sit up, stand, roll over, dance, or make large movements.
-Preserve this rhythm: stable pose → subtle movement → fan wipe → new outfit + new pose → next fan wipe.
-Visual style: premium cinematic fashion lookbook, warm lifestyle photography, realistic sunlight, soft shadows, natural skin texture, detailed fabrics, subtle film grain, realistic fan motion blur, and polished editorial composition.
-The uploaded image controls identity and outfit suitability. The reference video controls scene, camera, fan movement, pose timing, and transition rhythm. No face drift, duplicated subject, body distortion, malformed hands, camera drift, changing background, fan deformation, visible clothing morphing, magical effects, subtitles, logos, or watermarks. Each fan wipe must reveal a clearly different complete outfit, not a minor variation of the previous look.
-```
-
----
-
 ## Susan Dell Dance AI: Do the Lord Farquaad Dance From One Photo
 
-- Source: makeviral
 - Page: https://www.makeviral.ai/templates/susan-dell-dance-ai
 - Markdown: https://www.makeviral.ai/templates/susan-dell-dance-ai.md
-- Updated: 2026-10-17 · Published: 2026-10-17 · Scraped: 2026-10-17
+- Updated: 2026-10-17 · Published: 2026-10-17
 - Local: [`makeviral/susan-dell-dance-ai/PROMPTS.md`](makeviral/susan-dell-dance-ai/PROMPTS.md)
 
 ### 1. The video prompt is filled in. Settings: kling-3-motion, 11 s, 720p, 9:16, sound off. The video prompt
@@ -166,10 +139,9 @@ No black beanie, no long dark red-streaked hair, no fitted black T-shirt, no bla
 
 ## Singing Dog AI Trend: Your Dog Blow-Dries Its Fur and Sings
 
-- Source: makeviral
 - Page: https://www.makeviral.ai/templates/singing-dog-ai-trend
 - Markdown: https://www.makeviral.ai/templates/singing-dog-ai-trend.md
-- Updated: 2026-10-17 · Published: 2026-10-17 · Scraped: 2026-10-17
+- Updated: 2026-10-17 · Published: 2026-10-17
 - Local: [`makeviral/singing-dog-ai-trend/PROMPTS.md`](makeviral/singing-dog-ai-trend/PROMPTS.md)
 
 ### 1. The video prompt is filled in. Settings: Kling 3.0 Omni, 10 s, 720p, 9:16, sound off. The video prompt
@@ -203,208 +175,46 @@ The pet keeps its own look from the first image in every frame, with the natural
 
 ---
 
-## Raindance AI Trend
+## Shan Shen Bu AI Dance: Do the Flash Step From One Photo
 
-- Source: mediaio
-- Page: https://www.media.io/ai/explore/zone/raindance-ai-video-generator
-- Updated: — · Published: — · Scraped: 2026-10-17
-- Local: [`mediaio/raindance-ai-video-generator/PROMPTS.md`](mediaio/raindance-ai-video-generator/PROMPTS.md)
+- Page: https://www.makeviral.ai/templates/shan-shen-bu-ai-dance
+- Markdown: https://www.makeviral.ai/templates/shan-shen-bu-ai-dance.md
+- Updated: 2026-10-17 · Published: 2026-10-17
+- Local: [`makeviral/shan-shen-bu-ai-dance/PROMPTS.md`](makeviral/shan-shen-bu-ai-dance/PROMPTS.md)
 
-### prompt
+### 1. The video prompt is filled in. Settings: kling-3-motion, 13 s, 720p, 9:16, sound off. The video prompt — Human
 
 ```text
-Replace the original woman completely with Anna from <<<Image1>>> in every appearance, including every solo singing close-up and the final solo shot. Replace the original man completely with Kristoff from <<<Image2>>>. Preserve Anna’s recognizable face, hairstyle, body proportions, and outfit, and Kristoff’s blond hair, broad build, facial features, clothing, and accessories. Replace both original performers’ complete appearances with the uploaded character designs. Create gentle affectionate glances while preserving the reference video’s actions, singing expressions, camera movements, timing, and scenery. Keep their original animation style, identities, and outfits consistent across all shots.
+Replace the character in the video with the person from the uploaded image. Keep actions, poses, facial expressions, camera movement and rhythm. Preserve the person's original facial features, maintain character consistency, no distortion, no glitches, no artifacts.
+The person dances in the place from the uploaded image, in the clothes from the uploaded image, not the black hoodie, the black cap, the black wide trousers and the white sneakers of the dancer in the video, and keeps their own hair from the uploaded image, with the face uncovered and clearly visible: no hood, no cap and no mask unless the uploaded image shows them. Follow the dancer's moves and timing exactly, the four steps of the folk dance routine in order: first a quick spin from the back to face the camera; then the flash step, the torso snapping sideways and back while the feet step out wide, twice; then the ball kick, a knee lifted and the foot flicked out to the side with the arms swinging; then the shiver, both arms thrown up and out and the whole body shaking with small jumps; and last the head wobble, a wide low stance with the hands together at the chest while the head and shoulders roll from side to side. Keep the whole body in view from the head to the feet, with natural balance. Exactly one person, no other people. One continuous shot, no cuts, no text, no captions, no logos.
 ```
 
----
-
-## Polar Bear 2026 AI Video
-
-- Source: mediaio
-- Page: https://www.media.io/ai/explore/zone/polar-bear-2026-ai-video
-- Updated: — · Published: — · Scraped: 2026-10-17
-- Local: [`mediaio/polar-bear-2026-ai-video/PROMPTS.md`](mediaio/polar-bear-2026-ai-video/PROMPTS.md)
-
-### prompt
+### 1. The video prompt is filled in. Settings: Seedance 2.5, 15 s, 720p, 9:16, sound off. The video prompt — Pet
 
 ```text
-Begin with the polar bear standing motionless in the background. Wind slowly lifts and flips the calendar pages in the foreground while snow moves across the ground. The bear gradually turns its head toward the camera. Slowly push the camera forward. Keep the scene realistic, mysterious and restrained, with no sudden transformation or extra objects.
-```
+Character replacement on [Video 1]. Recreate the reference video [Video 1] shot for shot: the same paved courtyard in front of an old wooden house with a red-edged tiled roof, potted plants by the wall and warm low sunlight, the same low handheld camera, the same framing, timing and moves, one continuous take that ends on a close-up. The ONLY change: the fluffy white cat with green eyes who dances upright is now the pet in [Image 1].
 
----
+The dancer = the pet in [Image 1], in every frame, also in the close-up at the end: the same species and breed, head shape, muzzle, eyes, ears, fur colors, fur length, markings and body shape as in [Image 1], with the natural body volume and proportions of that animal: never flattened, squashed, stretched or merged with anything, so its owner instantly recognizes it from the first second to the last. It stands upright on its hind legs like a person while it dances. Never drift back to the cat of the original video: no fluffy white coat, no round flat face and no green eyes unless [Image 1] shows them. It wears nothing: its own fur from head to toe. If [Image 1] shows a dog or another animal, that animal stands in the same place with the same moves, with its own ears and muzzle.
 
-## Parking Lot Vibe AI Video Trend
+The pet copies the white cat's moves, a folk dance flash step routine, with the same timing. Matching the reference second by second:
+0-2 s: close to the camera, it steps back on its hind legs with a swing of the tail.
+2-5 s: it stands upright in the middle of the courtyard, front paws loose at its sides, sways, then a quick flash step: the body snaps sideways and back while the feet stay planted.
+5-7.5 s: a light brown dog walks past behind it; it twists sideways and kicks one hind leg out to the side, twice, the tail flicking.
+7.5-10 s: front paws up high, the whole body shakes, then a jump with the paws out wide.
+10-13 s: a small hamster runs in on the ground; the pet swings a paw out and jumps again.
+13-14 s: it drops onto all four legs behind the hamster.
+14-15 s: the camera comes in to a close-up of the pet's face, staring into the lens with wide eyes.
 
-- Source: mediaio
-- Page: https://www.media.io/ai/explore/zone/parking-lot-vibe-ai-video
-- Updated: — · Published: — · Scraped: 2026-10-17
-- Local: [`mediaio/parking-lot-vibe-ai-video/PROMPTS.md`](mediaio/parking-lot-vibe-ai-video/PROMPTS.md)
-
-### prompt
-
-```text
-Recreate <<<Video1>>>using exactly three featured people. Use <<<Image1>>> for the opening male performer, <<<Image3>>>for the female performer, and <<<Image2>>>for the third person appearing in the reference video. Map each photo to its corresponding person and maintain that identity throughout every shot. Never merge faces, swap identities, duplicate a person, or omit the third person.Use <<<Video1>>> as the guide for the original choreography, gestures, expressions, shot sequence, screen positions, and handheld camera movement. Each person must appear at the same moments and in the same position as their counterpart in the reference. Keep people off-screen when the original framing does not show them; do not force all three into every shot.Preserve the roadside gas-station parking lot at golden hour, the stationary silver sedan, the dark SUV, and the warm sunset background.Follow the original sequence: the opening man performs casual rhythmic steps and raised-hand gestures; the camera swings toward the parked cars; the woman appears near the silver sedan, followed by her facial close-up and wider shots between the cars; the camera returns to the man for the ending. Preserve the third person's presence, movements, interactions, and background or foreground placement exactly where they occur in @video1.Keep each person's facial features, hairstyle, skin tone, and body proportions consistent with their reference photo. Retain the corresponding outfit from the source video, including the opening man's dark shirt and sunglasses and the woman's yellow-green traditional outfit. Preserve natural fabric movement, hair movement, hand gestures, and foot contact with the ground.Match the reference video's duration, cuts, handheld shake, slight camera tilts, and candid social-video energy. Output vertical 9:16. Keep the cars stationary and their shapes stable. No additional featured people, no missing person, no invented group choreography, no distorted hands or limbs, and no text overlays.
-```
-
----
-
-## OOUUH AI Kitchen Duet
-
-- Source: mediaio
-- Page: https://www.media.io/ai/explore/zone/oouuh-ai-kitchen-duet
-- Updated: — · Published: — · Scraped: 2026-10-17
-- Local: [`mediaio/oouuh-ai-kitchen-duet/PROMPTS.md`](mediaio/oouuh-ai-kitchen-duet/PROMPTS.md)
-
-### prompt
-
-```text
-STRICT DUAL ANIMAL CHARACTER REPLACEMENT
-Replace ONLY the two animal characters in the original video:
-- Replace the LEFT golden retriever holding the small guitar with @图片1.
-- Replace the RIGHT golden retriever without the instrument, standing and moving beside it, with @图片2.
-@图片1 and @图片2 are DIRECT REPLACEMENT SOURCES.
-Use @图片1 to completely replace the left-side golden retriever holding the guitar / ukulele in EVERY visible frame.
-Use @图片2 to completely replace the right-side golden retriever that does not hold the instrument in EVERY visible frame.
-Preserve each uploaded animal’s exact recognizable identity, species, breed/type, face, fur pattern, fur color, ears, eyes, muzzle, body proportions, anatomy, texture, and overall appearance.
-Do NOT blend @图片1 with the original left-side dog.
-Do NOT blend @图片2 with the original right-side dog.
-Do NOT swap the two replacement identities.
-The replacement animal from @图片1 must inherit the original LEFT guitar-holding dog’s:
-- exact screen position
-- relative scale in frame
-- body orientation
-- head direction
-- facial / behavioral expression timing
-- body and limb movements
-- guitar / ukulele holding action
-- paw and body interaction with the instrument
-- movement timing and trajectory
-- interaction with @图片2
-- interaction with the environment
-The replacement animal from @图片2 must inherit the original RIGHT dog’s:
-- exact screen position
-- relative scale in frame
-- body orientation
-- head direction
-- facial / behavioral expression timing
-- body and limb movements
-- standing and rhythmic movement
-- movement timing and trajectory
-- interaction with @图片1
-- interaction with the environment
-Both replacement animals must follow the original dogs’ actions naturally and accurately throughout the ENTIRE video.
-Preserve the uploaded animals’ own anatomy and body proportions while transferring the original motion, action timing, rhythm, trajectory, and interaction.
-Preserve EVERYTHING ELSE from the original video exactly:
-- camera movement
-- framing and composition
-- lighting and shadows
-- background and environment
-- timing and duration
-- guitar / ukulele
-- objects and props
-- depth of field
-- motion blur
-Do NOT alter the background.
-Do NOT alter the camera.
-Do NOT change the original action choreography.
-Do NOT add extra animals or people.
-IMPORTANT:
-LEFT dog holding the guitar / ukulele → @图片1
-RIGHT dog without the instrument → @图片2
-@图片1 must always remain the guitar-holding character.
-@图片2 must always remain the right-side non-instrument character.
-Everything else must remain identical to the original video.
-```
-
----
-
-## NFL AI Fan
-
-- Source: mediaio
-- Page: https://www.media.io/ai/explore/zone/nfl-ai-fan-cam-generator
-- Updated: — · Published: — · Scraped: 2026-10-17
-- Local: [`mediaio/nfl-ai-fan-cam-generator/PROMPTS.md`](mediaio/nfl-ai-fan-cam-generator/PROMPTS.md)
-
-### prompt
-
-```text
-Animate the stadium fan-cam image into a realistic jumbotron reaction sequence.
-
-The subject looks toward the field, then notices people nearby pointing upward. They look toward the giant stadium screen, realize their face is being shown on the jumbotron, laugh in surprise, wave enthusiastically, and briefly point toward themselves.
-
-Fans sitting around them smile, clap, point toward the screen, and react naturally.
-
-The giant LED screen should continue displaying the same subject with synchronized but slightly delayed live-video behavior.
-
-Preserve the subject's exact facial identity.
-
-Natural stadium lighting, real crowd motion, subtle handheld broadcast camera shake, authentic live-event timing.
-
-Duration: 6 seconds.
-```
-
----
-
-## Navratri Metro Nine Forms AI Video
-
-- Source: mediaio
-- Page: https://www.media.io/ai/explore/zone/navratri-metro-nine-forms-ai-video
-- Updated: — · Published: — · Scraped: 2026-10-17
-- Local: [`mediaio/navratri-metro-nine-forms-ai-video/PROMPTS.md`](mediaio/navratri-metro-nine-forms-ai-video/PROMPTS.md)
-
-### prompt
-
-```text
-Create a 15-second ultra-photorealistic, Hollywood-level cinematic video with premium film production quality and authentic documentary-style realism.
-Use the uploaded user image as the only appearance reference for the main character. Preserve the subject’s recognizable facial features, hairstyle, skin tone, body proportions, and identity throughout the video. The character maintains a happy, excited, joyful, and naturally amazed expression throughout the experience.
-
-CHARACTER POSITION AND GAZE:
-The character sits naturally beside the metro window, with their body and head turned sideways toward the window. Maintain a clear side-profile or three-quarter side-profile view of the character, allowing both the character's facial expressions and the changing world outside the window to remain visible. The character continuously looks outside, attentively watching the spectacular transformations of the passing landscapes. Their eyes naturally follow the changing scenery, with subtle head movements and joyful expressions. The character never turns toward or looks directly at the camera.
-
-For the first 3 seconds, the character sits beside the window inside a fast-moving metro train, looking sideways through the glass at a normal, motion-blurred dark metro tunnel with a curious and happy expression.
-
-Suddenly, the metro accelerates forward with an explosive burst of speed, creating a spectacular near-light-speed visual effect. The entire scenery outside the window stretches into intense luminous streaks, resembling a cinematic hyperspace tunnel. At the exact moment of acceleration, the character's head, shoulders, and upper body naturally lean backward due to inertia, while their face remains oriented toward the window with an excited, joyful expression.
-
-As the metro rapidly decelerates, the light-speed streaks gradually disappear. The character smoothly returns to an upright seated posture, keeping their head turned sideways and eyes focused outside the window, smiling happily as the first breathtaking divine landscape becomes clearly visible.
-
-Immediately after the first landscape appears, the metro suddenly accelerates again at near-light-speed. The character is pushed backward into the seat again by inertia while still looking toward the window. The visible landscape instantly stretches into powerful streaming light trails, creating a spectacular cinematic hyperspace transition.
-
-As the metro slows down again, the light trails gradually dissolve, revealing the next magnificent divine landscape. The character naturally returns to an upright seated position, watching the changing world outside with a joyful smile and genuine amazement.
-
-Repeat this continuous cycle throughout the video: divine landscape appears → character watches outside happily → immediate explosive acceleration → character leans backward while facing the window → intense light-speed tunnel transition → rapid deceleration → character returns upright and watches the next landscape → immediate acceleration again.
-
-Every time a new landscape becomes visible, the metro must immediately accelerate again, triggering another synchronized backward body reaction and luminous high-speed transition. Maintain a rapid, rhythmic sequence without long pauses between landscapes.
-
-The changing landscapes feature majestic forms of Goddess Durga: a goddess riding a white bull through snowy Himalayan mountains, a powerful goddess riding a roaring lion in a golden landscape, a spectacular mystical waterfall, and a radiant goddess seated on a glowing pink lotus.
-
-CAMERA AND COMPOSITION:
-Maintain a consistent cinematic side-angle camera perspective from inside the metro, framing the character in the foreground and the large train window beside them. The character's side profile and the extraordinary landscapes outside must remain clearly visible within the same composition. Use natural documentary-style observational cinematography, subtle handheld vibrations, and realistic environmental depth. The camera observes the character watching the outside world rather than positioning the character to face the lens.
-
-Maintain the same metro interior, character position, and camera perspective throughout. All landscape transitions must occur outside the train window through extreme forward acceleration, intense directional light streaks, and natural deceleration, without abrupt cuts.
-
-CINEMATIC VISUAL QUALITY:
-Shot with the visual characteristics of an ARRI ALEXA 35 cinema camera and premium anamorphic lenses, with subtle Kodak Vision3 5219 film characteristics. Authentic cinematic dynamic range, natural skin texture, realistic happy facial expressions, physically accurate lighting, soft highlight roll-off, deep yet detailed shadows, subtle organic film grain, controlled contrast, and sophisticated cinematic color grading.
-
-Use realistic global illumination, natural volumetric light, physically accurate window reflections, atmospheric depth, and seamless integration of high-end VFX with live-action photography. Cinematic golden light dynamically illuminates the character's side profile, smiling face, clothing, and train interior with believable exposure changes.
-
-Apply realistic shutter-based motion blur during every acceleration, subtle handheld camera vibrations, natural depth of field, realistic environmental parallax, and physically convincing speed ramping. Each sudden acceleration must produce a clearly visible backward body movement synchronized with the near-light-speed visual effect.
-
-AUDIO:
-Use an energetic, festive Navratri-style Indian pop song as the background music, with vibrant traditional rhythmic elements, celebratory mood, and modern popular Indian musical styling. The music should enhance the joyful festival atmosphere and match the rhythm of the metro’s acceleration, deceleration, and scene transitions.
-
-The final result should feel like a scene from a high-budget cinematic fantasy film, captured with a real cinema camera rather than an AI-generated animation. Avoid artificial CGI appearance, plastic skin, excessive sharpening, exaggerated glow, unnatural body movements, frightened expressions, direct eye contact with the camera, frontal-facing poses, long pauses between scenes, and overly stylized transitions.
-
-Preserve photorealism, joyful character expressions, continuous sideways gaze toward the changing world outside the window, rhythmic acceleration, synchronized body inertia, and consistent character identity throughout the entire video.
+The pet keeps real animal anatomy: furry front legs ending in round paws covered in its own fur, never human hands, no fingers. One head only, two hind legs and two front legs, no extra legs or paws. The light brown dog and the hamster stay as they are in the video and never take the pet's look. No people. Add no other text or logos. Photorealistic, identity consistent for the whole clip.
 ```
 
 ---
 
 ## Mi Chico Dance: Do the Trend From Your Photo
 
-- Source: makeviral
 - Page: https://www.makeviral.ai/templates/mi-chico-dance-ai-trend
 - Markdown: https://www.makeviral.ai/templates/mi-chico-dance-ai-trend.md
-- Updated: 2026-10-17 · Published: 2026-10-17 · Scraped: 2026-10-17
+- Updated: 2026-10-17 · Published: 2026-10-17
 - Local: [`makeviral/mi-chico-dance-ai-trend/PROMPTS.md`](makeviral/mi-chico-dance-ai-trend/PROMPTS.md)
 
 ### 1. The video prompt is filled in. Settings: kling-3-motion, 15 s, 720p, 9:16, sound off. The video prompt — Human
@@ -462,10 +272,9 @@ The pet keeps real animal anatomy: furry front legs ending in round paws covered
 
 ## La Calabaza Dance: Your Pet Times Three, From One Photo
 
-- Source: makeviral
 - Page: https://www.makeviral.ai/templates/la-calabaza-ai-dance
 - Markdown: https://www.makeviral.ai/templates/la-calabaza-ai-dance.md
-- Updated: 2026-10-17 · Published: 2026-10-17 · Scraped: 2026-10-17
+- Updated: 2026-10-17 · Published: 2026-10-17
 - Local: [`makeviral/la-calabaza-ai-dance/PROMPTS.md`](makeviral/la-calabaza-ai-dance/PROMPTS.md)
 
 ### 1. The video prompt is filled in. Settings: Seedance 2.5, 14 s, 720p, 9:16, sound off. The video prompt — Pet
@@ -515,10 +324,9 @@ The person dances in the place from the uploaded image, in the clothes from the 
 
 ## Sen Sağ Bek, Sen Sol Bek AI: Be the Halı Saha Captain Who Says "Konum Gönderin"
 
-- Source: makeviral
 - Page: https://www.makeviral.ai/templates/hali-saha-konum-gonderin-ai-trend
 - Markdown: https://www.makeviral.ai/templates/hali-saha-konum-gonderin-ai-trend.md
-- Updated: 2026-10-17 · Published: 2026-10-17 · Scraped: 2026-10-17
+- Updated: 2026-10-17 · Published: 2026-10-17
 - Local: [`makeviral/hali-saha-konum-gonderin-ai-trend/PROMPTS.md`](makeviral/hali-saha-konum-gonderin-ai-trend/PROMPTS.md)
 
 ### 1. The video prompt is filled in. Settings: Seedance 2.5, 15 s, 720p, 9:16, sound on. The video prompt
@@ -546,10 +354,9 @@ Exactly six people: the captain and five players. No club or national team kits,
 
 ## AI Grandma Parkour: Your Grandma (or Grandpa) Does the Stunts
 
-- Source: makeviral
 - Page: https://www.makeviral.ai/templates/grandma-parkour-ai-trend
 - Markdown: https://www.makeviral.ai/templates/grandma-parkour-ai-trend.md
-- Updated: 2026-10-17 · Published: 2026-10-17 · Scraped: 2026-10-17
+- Updated: 2026-10-17 · Published: 2026-10-17
 - Local: [`makeviral/grandma-parkour-ai-trend/PROMPTS.md`](makeviral/grandma-parkour-ai-trend/PROMPTS.md)
 
 ### 1. The video prompt is filled in. Settings: Seedance 2.5, 12 s, 720p, 9:16, sound on. The video prompt
@@ -604,12 +411,58 @@ Exactly one skater. No falls, no injuries. A plain skateboard and plain clothes:
 
 ---
 
+## Gemini Rain AI Effect: Put Yourself, or the Two of You, in Cinematic Rain
+
+- Page: https://www.makeviral.ai/templates/gemini-rain-ai-effect
+- Markdown: https://www.makeviral.ai/templates/gemini-rain-ai-effect.md
+- Updated: 2026-10-17 · Published: 2026-10-17
+- Local: [`makeviral/gemini-rain-ai-effect/PROMPTS.md`](makeviral/gemini-rain-ai-effect/PROMPTS.md)
+
+### 1. The video prompt is filled in. Settings: Seedance 2.5, 10 s, 720p, 9:16, sound on. The video prompt
+
+```text
+Ultra-realistic portrait photography: On a deep blue rainy night, the one in [Image 2] leans into the arms of the one in [Image 1], eyes closed, cheek against their chest, while the one in [Image 1] holds them close and rests the chin on their head. Rain runs down their hair, face and neck, soaking their clothes. The background is a blurred, cool-toned rainy night, filled with a moist atmosphere and a lazy, mellow mood. The lighting is delicate, with transparent water-droplet texture, featuring a cinematic blue tone. 8K resolution, 9:16 aspect ratio.
+
+The one who holds is the person in [Image 1], in every frame: copy the exact face from [Image 1] (the face shape, eye color and eye shape, eyebrows, nose, mouth, skin tone, age, hair color, hair length and hairstyle, and any beard, moustache, glasses or freckles). The one who leans in is the person in [Image 2], in every frame: copy the exact face from [Image 2] (the face shape, eye color and eye shape, eyebrows, nose, mouth, skin tone, age, hair color, hair length and hairstyle, and any beard, moustache, glasses or freckles). Never blend their faces and never swap them. Each face stays the same from the first frame to the last, so their friends recognize them at once. Each keeps the hair color and length from their own photo, only wet, and the clothes from their own photo, darkened by the rain, fully clothed and never see-through. Both are adults. If an image shows an animal, that one is the animal with its own face, fur and markings, not a person.
+
+One slow-motion film take at night on a wet cobblestone street under glowing streetlights, heavy rain in long silver streaks, puddles that mirror the lights. Vertical 9:16, both faces large and sharp.
+0-3 s: the two run toward the camera hand in hand through the pouring rain, laughing, wet hair flying, splashes at their feet.
+3-6 s: they stop; the one in [Image 1] pulls the other into a tight hug and they turn slowly once on the spot; raindrops burst off their shoulders.
+6-10 s: a close shot from the chest up: the one in [Image 2] leans into the arms of the one in [Image 1], eyes closed, cheek on their chest; the one in [Image 1] rests the chin on their head and smiles softly; then they rest their foreheads together for a moment, rain running down their faces. The camera circles slowly. A few raindrops land on the lens.
+
+Sound: heavy rain, splashing footsteps, soft distant thunder, one slow romantic piano melody. No speech.
+Tender and romantic, never sexual: no kiss on the mouth, no body focus. Exactly two people. No umbrella. No text, no subtitles, no logos, no watermark.
+```
+
+### 1. The video prompt is filled in. Settings: Seedance 2.5, 8 s, 720p, 9:16, sound on. The video prompt
+
+```text
+A cinematic portrait of the person in [Image 1] standing in the rain, their eyes closed and face lifted peacefully towards the sky. Their hair is wet, with delicate water droplets glistening on their skin. Blue light reflects softly on their face, creating a dramatic and emotional atmosphere. High detail, 4K resolution, studio lighting, artistic rain photoshoot style.
+
+The person is the one in [Image 1], in every frame: copy the exact face from [Image 1] (the face shape, eye color and eye shape, eyebrows, nose, mouth, skin tone, age, hair color, hair length and hairstyle, and any beard, moustache, glasses or freckles), so their friends recognize them at once. The face stays the same from the first frame to the last; never morph. The hair keeps the color, length and style from [Image 1], only wet. They wear the clothes from [Image 1], darkened by the rain, fully clothed and never see-through. If [Image 1] shows an animal, it is that animal sitting in the rain with its own face, fur and markings, not a person.
+
+One continuous slow-motion shot at night, vertical 9:16, a medium close-up from the chest up, the face large and sharp, a dark background with soft blue bokeh. Heavy rain falls in long silver streaks.
+0-2 s: the person looks straight into the camera with a calm, soft face, drops running down the cheeks.
+2-6 s: they slowly lift the face towards the sky and close the eyes, at peace; rain hits the forehead and cheeks and runs down the neck; wet strands of hair cling to the face; the camera pushes in very slowly.
+6-8 s: they lower the chin, open the eyes and look back into the lens with a small, soft smile. A few raindrops land on the lens.
+
+Sound: heavy rain, soft distant thunder, one slow piano melody. No speech.
+Exactly one person. No umbrella. No text, no subtitles, no logos, no watermark.
+```
+
+### Prompt 3
+
+```text
+Use the uploaded image as the base. A cinematic portrait of the person from the uploaded image standing in the rain, their eyes closed and face lifted slightly towards the sky, turned three-quarters to the camera, the whole face in view. Their hair is wet, with delicate water droplets glistening on their skin. Blue light reflects softly on their face, creating a dramatic and emotional atmosphere. High detail, 4K resolution, studio lighting, artistic rain photoshoot style. Vertical 9:16 photo from the chest up, a dark background with heavy rain in long silver streaks. They wear the clothes from the uploaded image, darkened by the rain, fully clothed and never see-through. Exactly one person. No umbrella, no text, no logos, no watermark.
+```
+
+---
+
 ## Gas Station Dance AI: Put You and Your Friends in the Viral Road Trip Reel
 
-- Source: makeviral
 - Page: https://www.makeviral.ai/templates/gas-station-dance-ai-trend
 - Markdown: https://www.makeviral.ai/templates/gas-station-dance-ai-trend.md
-- Updated: 2026-10-17 · Published: 2026-10-12 · Scraped: 2026-10-17
+- Updated: 2026-10-17 · Published: 2026-10-12
 - Local: [`makeviral/gas-station-dance-ai-trend/PROMPTS.md`](makeviral/gas-station-dance-ai-trend/PROMPTS.md)
 
 ### 1. The video prompt is filled in. Settings: genjutsu-motion, 15 s, 480p, 9:16, sound off. The video prompt
@@ -640,37 +493,11 @@ Anatomy rules: exactly one person, one head on that person's shoulders, two arms
 
 ---
 
-## Gang Gang Dance
-
-- Source: mediaio
-- Page: https://www.media.io/ai/explore/zone/gang-gang-dance-ai-video
-- Updated: — · Published: — · Scraped: 2026-10-17
-- Local: [`mediaio/gang-gang-dance-ai-video/PROMPTS.md`](mediaio/gang-gang-dance-ai-video/PROMPTS.md)
-
-### prompt
-
-```text
-Use the uploaded character image as the only identity reference for the main performer. Preserve the subject’s recognizable face, skin tone, hairstyle, body proportions, clothing characteristics, and overall identity consistently throughout the video.
-Use the uploaded reference video as the only reference for the scene, camera position, framing, body movement, gesture sequence, performance rhythm, spatial blocking, and timing. Do not copy the original performer’s identity; transfer only the reference video’s scene, pose, motion, choreography, interaction, framing, and timing.
-Create an approximately 15-second cinematic stage-performance video. Reproduce the same dark indoor theater environment with a glossy black stage floor, deep black background, subtle blue stage lighting, surrounding seated audience, and the same intimate live-performance atmosphere. Keep the main performer centered in the foreground, with the secondary performer remaining behind them in the same relative position as the reference.
-Maintain a mostly fixed audience-level wide camera. Do not add new locations, extra cuts, dramatic camera moves, dolly-ins, orbit shots, or unrelated close-ups.
-Strictly follow the reference performer’s motion and timing. Begin with a slightly forward-leaning posture, bent knees, and both arms reaching downward and forward. Continue with alternating arm extensions, wrist and hand movements, small steps, subtle weight shifts, shoulder movement, and gradual transitions between crouched and upright posture.
-As the performance develops, the protagonist straightens, lowers the arms, briefly pauses, then lifts the head and looks upward. In the second half, increase movement intensity according to the reference: side-to-side weight shifts, torso leans, arm swings, crossed-arm gestures, outward arm extensions, upper-body twists, and more expressive head and torso movement.
-Near the ending, reproduce the faster head and upper-body motion, followed by the final confident pose with one arm raised and the other near the waist or hip. Preserve the same progression from restrained movement to more expressive theatrical performance.
-All motion must remain physically believable, with realistic balance, floor contact, joint movement, hand anatomy, torso rotation, and weight transfer. Do not invent new choreography or random dance moves.
-The reference video controls scene, pose, motion trajectory, gesture timing, performance rhythm, spatial blocking, camera, and duration. The uploaded image controls only the performer’s identity.
-Visual style: cinematic live theater photography, deep blacks, cool blue rim lighting, realistic skin and fabric texture, subtle stage reflections, natural motion blur, controlled highlights, atmospheric depth, ARRI Alexa 35 aesthetic, restrained saturation, and subtle film grain.
-Maintain strict identity consistency. No face drift, identity blending, duplicated protagonist, random costume changes, malformed hands, extra limbs, floating feet, incorrect floor contact, changing stage environment, unnecessary subtitles, logos, watermarks, or unrelated effects. The final result should feel like the uploaded character performed the same routine in the same theater, with the same scene, movements, pauses, rhythm, and framing as the reference video.
-```
-
----
-
 ## Flying Tesla Roadster AI Video: Rocket Over the Traffic Jam
 
-- Source: makeviral
 - Page: https://www.makeviral.ai/templates/flying-roadster-ai-trend
 - Markdown: https://www.makeviral.ai/templates/flying-roadster-ai-trend.md
-- Updated: 2026-10-17 · Published: 2026-10-17 · Scraped: 2026-10-17
+- Updated: 2026-10-17 · Published: 2026-10-17
 - Local: [`makeviral/flying-roadster-ai-trend/PROMPTS.md`](makeviral/flying-roadster-ai-trend/PROMPTS.md)
 
 ### 1. The video prompt is filled in. Settings: Seedance 2.5, 10 s, 720p, 9:16, sound on. The video prompt
@@ -711,10 +538,9 @@ Avoid: the car flying backward, the car turning around, wheels folding or becomi
 
 ## Damon Salvatore AI Trend: Walk Into the Church and Smirk as Damon
 
-- Source: makeviral
 - Page: https://www.makeviral.ai/templates/damon-salvatore-ai-trend
 - Markdown: https://www.makeviral.ai/templates/damon-salvatore-ai-trend.md
-- Updated: 2026-10-17 · Published: 2026-10-17 · Scraped: 2026-10-17
+- Updated: 2026-10-17 · Published: 2026-10-17
 - Local: [`makeviral/damon-salvatore-ai-trend/PROMPTS.md`](makeviral/damon-salvatore-ai-trend/PROMPTS.md)
 
 ### 1. The video prompt is filled in. Settings: Seedance 2.5, 11 s, 720p, 9:16, sound off. The video prompt
@@ -761,10 +587,9 @@ Anatomy rules: one head only, on the person's shoulders. Two hands with five fin
 
 ## Closer Dance AI: You and a Friend in the Original Reel
 
-- Source: makeviral
 - Page: https://www.makeviral.ai/templates/closer-dance-ai-trend
 - Markdown: https://www.makeviral.ai/templates/closer-dance-ai-trend.md
-- Updated: 2026-10-17 · Published: 2026-10-17 · Scraped: 2026-10-17
+- Updated: 2026-10-17 · Published: 2026-10-17
 - Local: [`makeviral/closer-dance-ai-trend/PROMPTS.md`](makeviral/closer-dance-ai-trend/PROMPTS.md)
 
 ### 1. The video prompt is filled in. Settings: Seedance 2.5, 15 s, 720p, 9:16, sound off. The video prompt
@@ -799,10 +624,9 @@ One head per person, on their own shoulders. A face never appears on hands, legs
 
 ## Closed on Sunday AI Trend: Stand Still While the Choir Sings
 
-- Source: makeviral
 - Page: https://www.makeviral.ai/templates/closed-on-sunday-ai-trend
 - Markdown: https://www.makeviral.ai/templates/closed-on-sunday-ai-trend.md
-- Updated: 2026-10-17 · Published: 2026-10-17 · Scraped: 2026-10-17
+- Updated: 2026-10-17 · Published: 2026-10-17
 - Local: [`makeviral/closed-on-sunday-ai-trend/PROMPTS.md`](makeviral/closed-on-sunday-ai-trend/PROMPTS.md)
 
 ### 1. The video prompt is filled in. Settings: Seedance 2.5, 10 s, 720p, 9:16, sound on. The video prompt — Human
@@ -838,10 +662,9 @@ Anatomy rules: one head per animal, on its own body. No people, no text, no logo
 
 ## Boombox Rap AI: Rap Down the Street While Your Friend Carries the Boombox
 
-- Source: makeviral
 - Page: https://www.makeviral.ai/templates/boombox-rap-ai-trend
 - Markdown: https://www.makeviral.ai/templates/boombox-rap-ai-trend.md
-- Updated: 2026-10-17 · Published: 2026-10-17 · Scraped: 2026-10-17
+- Updated: 2026-10-17 · Published: 2026-10-17
 - Local: [`makeviral/boombox-rap-ai-trend/PROMPTS.md`](makeviral/boombox-rap-ai-trend/PROMPTS.md)
 
 ### 1. The video prompt is filled in. Settings: Seedance 2.5, 10 s, 720p, 9:16, sound on. The video prompt
@@ -889,12 +712,119 @@ Audio: an original upbeat, bouncy hip-hop beat that plays from the boombox, the 
 
 ---
 
+## High Altitude Trampoline AI Video: Leap, Bounce, Fly Back Up
+
+- Page: https://www.makeviral.ai/templates/ai-high-altitude-trampoline
+- Markdown: https://www.makeviral.ai/templates/ai-high-altitude-trampoline.md
+- Updated: 2026-10-17 · Published: 2026-10-17
+- Local: [`makeviral/ai-high-altitude-trampoline/PROMPTS.md`](makeviral/ai-high-altitude-trampoline/PROMPTS.md)
+
+### 1. The video prompt is filled in. Settings: Seedance 2.5, 10 s, 720p, 9:16, sound on. The video prompt
+
+```text
+Duration: 10 seconds
+Aspect ratio: 9:16
+Reference: [Image 1], locking in the protagonist's face, hairstyle, and character design, no changing of clothes
+Audio: Realistic quarry ambient sounds, footsteps on rock, howling strong winds, low-frequency rebound of the elastic device, landing thud, friends cheering; no dialogue, no subtitles
+Overall style: Extreme sports mobile phone handheld shot, real high-altitude distance, one-shot, slight handheld shake and motion blur, reject game CG feel
+
+GLOBAL CONTINUITY
+Setting: The top of a huge old stone quarry on a misty day: a bare rock ledge at the edge of a sheer cliff, a deep turquoise lake far below.
+Lower apparatus: A small round black trampoline with a blue rim floats on the lake far below, directly under the ledge.
+Main subject: [Image 1] is the sole protagonist: copy the exact face from [Image 1] (the face shape, eye color and eye shape, eyebrows, nose, mouth, skin tone, age, hair color, hair length and hairstyle, and any beard, moustache, glasses or freckles), so their friends recognize them at once; consistent throughout, never morph. If [Image 1] shows an animal, the protagonist is that animal.
+Bystanders: Three to four friends stand on the ledge, filming with phones.
+
+CAMERA CONTINUITY: One-shot by a friend on the ledge with a phone, no cuts.
+
+STUNT ENGINE: Leap off the ledge → High-altitude descent → Hit the center of the trampoline → Deep depression → Strong rebound → Feet return to the same ledge → Cheering celebration.
+
+SHOT 1 (00:00-00:10)
+00:00-00:01.50 | At the edge: The protagonist faces the camera, the lake far below, the face large and sharp, an excited grin.
+00:01.50-00:02.30 | Leap: They turn and leap off, arms spread; the filmer tilts down.
+00:02.30-00:04.80 | High-altitude descent: Almost vertically top-down, the protagonist falls fast, arms spread, accurately targeting the center of the device.
+00:04.80-00:05.50 | Hitting the center: The black elastic surface clearly caves in, then rebounds with great force, propelling the protagonist vertically upward.
+00:05.50-00:08.20 | Rebound: They rise back up the same vertical path, the camera tilting up, one tuck flip near the top.
+00:08.20-00:09.40 | Landing: Both feet land on the ledge, knees deeply bent.
+00:09.40-00:10.00 | Celebration: Friends grab and hug the protagonist, who laughs into the camera, the face large and sharp.
+
+Constraints: A professionally staged fictional extreme sports scene. The device clearly catches and rebounds the protagonist, never an unprotected fall; descent and ascent on the same vertical line, not flying or ropes.
+
+Negative: face drift, character replacement, redesign clothing, mid-cut, camera teleportation, levitation, no elastic device, wrong landing point, device breaking, distorted limbs during flips, extra arms, extra legs, duplicate characters, falling and injured, blood, game CG, subtitles, screen text, watermark, brand logo
+```
+
+### 1. The video prompt is filled in. Settings: Seedance 2.5, 10 s, 720p, 9:16, sound on. The video prompt
+
+```text
+Duration: 10 seconds
+Aspect ratio: 9:16
+Reference: [Image 1], locking in the protagonist's face, hairstyle, and character design, no changing of clothes
+Audio: Realistic helicopter rotor noise, howling strong winds, low-frequency rebound of the elastic device, landing thud, friends cheering; no dialogue, no subtitles
+Overall style: Extreme sports mobile phone handheld shot, real high-altitude distance, one-shot, slight handheld shake and motion blur, reject game CG feel
+
+GLOBAL CONTINUITY
+Setting: The open side door of a helicopter high above an old city of terracotta roofs on a sunny day, a huge ancient round stone amphitheater and a round plaza far below.
+Lower apparatus: A round black trampoline in the middle of the plaza far below, directly under the helicopter.
+Main subject: [Image 1] is the sole protagonist: copy the exact face from [Image 1] (the face shape, eye color and eye shape, eyebrows, nose, mouth, skin tone, age, hair color, hair length and hairstyle, and any beard, moustache, glasses or freckles), so their friends recognize them at once; consistent throughout, never morph. If [Image 1] shows an animal, the protagonist is that animal.
+Bystanders: Two or three friends sit inside the helicopter, filming with phones.
+
+CAMERA CONTINUITY: One-shot by a friend inside the helicopter with a phone, no cuts.
+
+STUNT ENGINE: Leap out of the door → High-altitude descent → Hit the center of the trampoline → Deep depression → Strong rebound → Grab the landing skid → Cheering celebration.
+
+SHOT 1 (00:00-00:10)
+00:00-00:01.50 | At the door: The protagonist stands on the skid, looks back at the camera with an excited grin, the face large and sharp.
+00:01.50-00:02.30 | Leap: They leap out, arms spread; the filmer leans out and tilts down.
+00:02.30-00:04.80 | High-altitude descent: Almost vertically top-down, the protagonist falls fast, arms spread, accurately targeting the center of the device.
+00:04.80-00:05.50 | Hitting the center: The black elastic surface clearly caves in, then rebounds with great force, propelling the protagonist vertically upward.
+00:05.50-00:08.20 | Rebound: They fly back up the same vertical path toward the helicopter, the camera tilting up.
+00:08.20-00:09.40 | Grab: They catch the landing skid with both hands and hang on, legs swinging.
+00:09.40-00:10.00 | Celebration: Friends pull them back in; the protagonist laughs into the camera, the face large and sharp.
+
+Constraints: A professionally staged fictional extreme sports scene. The device clearly catches and rebounds the protagonist, never an unprotected fall; descent and ascent on the same vertical line, not flying or ropes.
+
+Negative: face drift, character replacement, redesign clothing, mid-cut, camera teleportation, levitation, no elastic device, wrong landing point, device breaking, distorted limbs during flips, extra arms, extra legs, duplicate characters, falling and injured, blood, game CG, subtitles, screen text, watermark, brand logo
+```
+
+### 1. The video prompt is filled in. Settings: Seedance 2.5, 10 s, 720p, 9:16, sound on. The video prompt
+
+```text
+Duration: 10 seconds
+Aspect ratio: 9:16
+Reference: [Image 1], locking in the protagonist's face, hairstyle, and character design, no changing of clothes
+Audio: Realistic urban night ambient sounds, running footsteps, howling strong winds, low-frequency rebound of the elastic device, landing thud, friends cheering; no dialogue, no subtitles
+Overall style: Extreme sports mobile phone handheld shot, real high-altitude distance, one-shot, slight handheld shake and motion blur, reject game CG feel
+
+GLOBAL CONTINUITY
+Setting: Nighttime city high-rise rooftop, green helicopter pad, low concrete parapet wall, a vertical street canyon between two high-rise buildings, vehicles and streetlights far below.
+Lower apparatus: A huge circular black elastic rebound device in the middle of the street, a continuous rainbow light strip around the outer ring.
+Main subject: [Image 1] is the sole protagonist: copy the exact face from [Image 1] (the face shape, eye color and eye shape, eyebrows, nose, mouth, skin tone, age, hair color, hair length and hairstyle, and any beard, moustache, glasses or freckles), so their friends recognize them at once; consistent throughout, never morph. If [Image 1] shows an animal, the protagonist is that animal.
+Bystanders: Three to four friends stand on the left side of the rooftop, filming with phones.
+
+CAMERA CONTINUITY: One-shot by a friend on the rooftop with a phone, no cuts.
+
+STUNT ENGINE: Rooftop run-up → Leap over parapet → High-altitude descent → Hit the center of the elastic surface → Deep depression → Strong rebound → Mid-air tuck and flip → Feet return to the same rooftop → Cheering celebration.
+
+SHOT 1 (00:00-00:10)
+00:00-00:01.50 | Run-up: The protagonist glances back at the camera with an excited grin, the face large and sharp, then runs to the edge.
+00:01.50-00:02.30 | Leap: They leap over the low parapet, arms spread; the filmer rushes to the parapet and tilts down.
+00:02.30-00:04.80 | High-altitude descent: Almost vertically top-down, the protagonist falls fast, arms spread, accurately targeting the center of the device.
+00:04.80-00:05.50 | Hitting the center: The black elastic surface clearly caves in, then rebounds with great force, propelling the protagonist vertically upward.
+00:05.50-00:08.20 | Rebound and flip: They rise up the same vertical path, the camera tilting up, one tuck flip near roof height.
+00:08.20-00:09.40 | Landing: Both feet land on the green pad, knees deeply bent.
+00:09.40-00:10.00 | Celebration: The protagonist cheers into the camera, the face large and sharp; friends rush in.
+
+Constraints: A professionally staged fictional extreme sports scene. The device clearly catches and rebounds the protagonist, never an unprotected fall; descent and ascent on the same vertical line, not flying or ropes.
+
+Negative: face drift, character replacement, redesign clothing, mid-cut, camera teleportation, levitation, no elastic device, wrong landing point, device breaking, distorted limbs during flips, extra arms, extra legs, duplicate characters, falling and injured, blood, game CG, subtitles, screen text, watermark, brand logo
+```
+
+---
+
 ## Hair Dye Filter: AI Dyes Your Hair Burgundy From One Photo
 
-- Source: makeviral
 - Page: https://www.makeviral.ai/templates/ai-hair-dye-filter
 - Markdown: https://www.makeviral.ai/templates/ai-hair-dye-filter.md
-- Updated: 2026-10-17 · Published: 2026-10-17 · Scraped: 2026-10-17
+- Updated: 2026-10-17 · Published: 2026-10-17
 - Local: [`makeviral/ai-hair-dye-filter/PROMPTS.md`](makeviral/ai-hair-dye-filter/PROMPTS.md)
 
 ### 1. The video prompt is filled in. Settings: Seedance 2.5, 10 s, 720p, 9:16, sound on. The video prompt
@@ -927,12 +857,65 @@ Using the uploaded photo, generate a 9:16 vertical image featuring one hair colo
 
 ---
 
+## Electric Shock Meme AI: You, Your Dog, Two Wires and Sooty Hair
+
+- Page: https://www.makeviral.ai/templates/ai-electric-shock-pet-prank
+- Markdown: https://www.makeviral.ai/templates/ai-electric-shock-pet-prank.md
+- Updated: 2026-10-17 · Published: 2026-10-17
+- Local: [`makeviral/ai-electric-shock-pet-prank/PROMPTS.md`](makeviral/ai-electric-shock-pet-prank/PROMPTS.md)
+
+### 1. The video prompt is filled in. Settings: Seedance 2.5, 10 s, 720p, 9:16, sound on. The video prompt
+
+```text
+A funny, photorealistic electric shock prank clip, vertical 9:16, like a real phone video.
+
+The person is the one in [Image 1], in every frame: copy the exact face from [Image 1] (the face shape, eye color and eye shape, eyebrows, nose, mouth, skin tone, age, hair color, hair length and hairstyle, and any beard, moustache, glasses or freckles), and the clothes from [Image 1], so their friends recognize them at once. Before the spark the hair is as in [Image 1].
+The pet is the animal in [Image 2], in every frame: the same species and breed, face, eyes, ears, muzzle, fur colors, fur length and markings as in [Image 2], with the natural body volume and proportions of that animal: never flattened, squashed, stretched or merged with anything. A real animal with no clothes; it never turns into a person and the person never gets fur. If [Image 1] shows the animal and [Image 2] the person, swap the roles. The same person and the same pet from the first frame to the last; never morph.
+
+The place: a cozy home workshop in soft daylight: a wooden workbench with a few screwdrivers, pliers and loose screws on it, a pegboard of tools and a shelf behind.
+
+Shot 1, 0-2 s: a low camera at the edge of the bench, level with the faces. Behind it lean the person on the LEFT and the pet on the RIGHT, its front paws on the bench, side by side, frowning in deep concentration. The one on the LEFT pinches a loose RED wire, the one on the RIGHT holds a loose BLUE wire; they slowly bring the bare ends together.
+Shot 2, 2-4.5 s: an extreme close-up of the two bare wire ends, red and blue, shiny copper strands, the workshop blurred behind; they creep closer, then TOUCH: a small bright blue-white spark and a crackle.
+Shot 3, 4.5-5 s: a big puff of dark grey cartoon smoke fills the whole frame, like in an old comic.
+Shot 4, 5-10 s: back to the framing of shot 1 as the smoke clears. Both sit where they were, frozen, still holding their wires, and they are fine: grey soot smudges on the cheeks and noses, a thin curl of smoke above their heads. The person's hair stands straight up in a huge frizzy, spiky crown; the pet's fur is puffed out and standing on end all over. Wide eyes, mouths open in shock. They slowly turn and look at each other, blink, then both burst out laughing: the pet opens its mouth in a big happy grin, wags its tail and gives one quick shake that puffs a little soot out of its fur. The faces stay large, sharp and turned to the camera.
+
+Exactly one person and one animal. Harmless cartoon slapstick: nobody is hurt, no burns, no wounds, no pain, no fire on anyone; the soot and the wild hair are the whole joke.
+
+Audio: a quiet workshop, a sharp electric crackle and zap at the spark, a soft comic poof, a beat of stunned silence, then the laughter. No music, no words.
+
+Avoid: a wall socket, a plug, a power strip or any device the wires lead into; flames; injuries; faces changing or blending; extra people, animals, limbs or paws; morphing; text, subtitles, logos, watermarks.
+```
+
+### 1. The video prompt is filled in. Settings: Seedance 2.5, 10 s, 720p, 9:16, sound on. The video prompt
+
+```text
+A funny, photorealistic electric shock prank clip with two friends, vertical 9:16, like a real phone video.
+
+The friend on the LEFT is the person in [Image 1], in every frame: copy the exact face from [Image 1] (the face shape, eye color and eye shape, eyebrows, nose, mouth, skin tone, age, hair color, hair length and hairstyle, and any beard, moustache, glasses or freckles), and the clothes from [Image 1].
+The friend on the RIGHT is the person in [Image 2], in every frame: copy the exact face from [Image 2] (the face shape, eye color and eye shape, eyebrows, nose, mouth, skin tone, age, hair color, hair length and hairstyle, and any beard, moustache, glasses or freckles), and the clothes from [Image 2].
+Never blend their faces: each face stays the same from the first frame to the last, so their friends recognize them at once. Before the spark each hairstyle is as in its photo. Both are adults. If an image shows an animal, that friend is that animal, with its own face, fur and markings, not a person.
+
+The place: a cozy home workshop in soft daylight: a wooden workbench with a few screwdrivers, pliers and loose screws on it, a pegboard of tools and a shelf behind.
+
+Shot 1, 0-2 s: a low camera at the edge of the bench, level with the faces. Behind it lean the two friends, side by side, frowning in deep concentration. The one on the LEFT pinches a loose RED wire, the one on the RIGHT holds a loose BLUE wire; they slowly bring the bare ends together.
+Shot 2, 2-4.5 s: an extreme close-up of the two bare wire ends, red and blue, shiny copper strands, the workshop blurred behind; they creep closer, then TOUCH: a small bright blue-white spark and a crackle.
+Shot 3, 4.5-5 s: a big puff of dark grey cartoon smoke fills the whole frame, like in an old comic.
+Shot 4, 5-10 s: back to the framing of shot 1 as the smoke clears. Both sit where they were, frozen, still holding their wires, and they are fine: grey soot smudges on the cheeks and noses, a thin curl of smoke above their heads. Both have their hair standing straight up in a huge frizzy, spiky crown. Wide eyes, mouths open in shock. They slowly turn and look at each other, blink, then both burst out laughing, leaning on each other. The faces stay large, sharp and turned to the camera.
+
+Exactly two people. Harmless cartoon slapstick: nobody is hurt, no burns, no wounds, no pain, no fire on anyone; the soot and the wild hair are the whole joke.
+
+Audio: a quiet workshop, a sharp electric crackle and zap at the spark, a soft comic poof, a beat of stunned silence, then the laughter. No music, no words.
+
+Avoid: a wall socket, a plug, a power strip or any device the wires lead into; flames; injuries; faces changing or blending; extra people, animals, limbs or paws; morphing; text, subtitles, logos, watermarks.
+```
+
+---
+
 ## AI Dunk Trend: Dunk in a Pro Game From One Photo
 
-- Source: makeviral
 - Page: https://www.makeviral.ai/templates/ai-dunk-trend
 - Markdown: https://www.makeviral.ai/templates/ai-dunk-trend.md
-- Updated: 2026-10-17 · Published: 2026-10-15 · Scraped: 2026-10-17
+- Updated: 2026-10-17 · Published: 2026-10-15
 - Local: [`makeviral/ai-dunk-trend/PROMPTS.md`](makeviral/ai-dunk-trend/PROMPTS.md)
 
 ### 1. The video prompt is filled in. Settings: Seedance 2.5, 10 s, 720p, 9:16, sound on. The video prompt
@@ -1029,27 +1012,79 @@ Let the pet in the image recreate the dunk move; the scene stays the same. Keep 
 
 ---
 
-## AI Car Video Generator
+## Crochet Filter: AI Turns Your Photo Into a Crochet Doll of You
 
-- Source: mediaio
-- Page: https://www.media.io/ai/explore/zone/ai-car-video-generator
-- Updated: — · Published: — · Scraped: 2026-10-17
-- Local: [`mediaio/ai-car-video-generator/PROMPTS.md`](mediaio/ai-car-video-generator/PROMPTS.md)
+- Page: https://www.makeviral.ai/templates/ai-crochet-doll-filter
+- Markdown: https://www.makeviral.ai/templates/ai-crochet-doll-filter.md
+- Updated: 2026-10-17 · Published: 2026-10-17
+- Local: [`makeviral/ai-crochet-doll-filter/PROMPTS.md`](makeviral/ai-crochet-doll-filter/PROMPTS.md)
 
-### prompt
+### Prompt 1
 
 ```text
-STRICT MAIN CHARACTER + VEHICLE REPLACEMENT — VIDEO EDITING Replace ONLY the main character in the center of the original video with the person from @图片1, and replace the original car with a DIFFERENT globally famous real-world car. Use @图片1 strictly as the identity reference. Preserve @图片1’s exact face, facial identity, hairstyle, hair color, gender, and recognizable features. Do NOT blend @图片1’s face with the original character’s face. The replacement character must inherit the original main character’s exact: * position and body placement * scale and proportions * pose and posture * facial expressions * movement timing and trajectory * interaction with the environment Keep the black glasses. The replacement character must naturally and accurately follow the original character’s movements throughout the ENTIRE video. The replaced character continues holding the cigarette exactly as in the original video. VEHICLE REPLACEMENT: Replace the original car with ONE different, extremely famous real-world automotive brand and vehicle. Randomly select the vehicle category each generation, such as luxury sedan, sports car, supercar, SUV, off-road vehicle, coupe, or premium executive car. Use only globally recognizable automotive brands such as Mercedes-Benz, BMW, Audi, Porsche, Ferrari, Lamborghini, Bentley, Rolls-Royce, Range Rover, Toyota, or other similarly famous brands. The selected car must look like a real production vehicle from that brand, with recognizable brand design language, realistic body proportions, materials, paint, windows, wheels, headlights, interior, and reflections. The new vehicle must inherit the original car’s exact: * position * scale * orientation * movement * speed * trajectory * interaction with the character * camera relationship * perspective * lighting and shadows Do NOT randomly change the car during the video. Select ONE famous car at the beginning and keep the exact same vehicle consistent throughout the entire video. Preserve EVERYTHING ELSE from the original video exactly: * camera movement * zoom-out and camera motion * framing and composition * lighting and shadows * background * environment * timing and duration * objects and props * all surrounding/background people ALL surrounding/background people must remain completely unchanged. Preserve their original faces, identities, hairstyles, hair colors, outfits, positions, poses, and movements. Do NOT replace, modify, distort, remove, or add any background characters. Do NOT alter the background. Do NOT alter the camera. Do NOT alter the composition. Do NOT change the main character’s pose or actions. Do NOT create additional people. Do NOT change the number of people in the scene. IMPORTANT: ONLY replace the central main character with @图片1 AND replace the original vehicle with ONE randomly selected globally famous car of a random vehicle category. Everything else must remain identical to the original video.
+Turn this photo into an image in a knitted crochet style, as if the person were a doll made completely by hand with wool and yarn. Keep the facial features, the skin tone, the hair, the clothes, the pose and the background of the original photo, but make everything have a knitted texture, with visible stitches and realistic amigurumi details. Make it look sweet, pretty and very detailed, without losing the essence of the original photo. Vertical 9:16; if the photo is wider, extend the background naturally in the same knitted style. Everything is crocheted, like a real handmade amigurumi set photographed with a phone in the same light: the body, the clothes with their colors and prints, any jewelry, glasses, hat or phone, and every wall, floor, plant, piece of furniture and object of the place. Any logo, brand name or writing on the clothes or in the place becomes plain knitted fabric. Exactly one doll: nobody added, nobody removed. No text, no captions, no logos, no watermark, no frame. The face is always a crocheted amigurumi doll face made of fine yarn stitches, never a photo face: big glossy doll eyes in the eye color from the photo, with long lashes, soft blush on the cheeks, a small stitched nose and lips. The identity rules below apply to the doll's face shape, eye color, eyebrows, nose, lips, skin tone (as the yarn color), age, hairline, hair color, hair length and hairstyle (as yarn strands), facial hair, glasses, moles and freckles.
+```
+
+### Prompt 2
+
+```text
+Turn this photo into an image in a knitted crochet style, as if the people were dolls made completely by hand with wool and yarn. Keep the facial features, the skin tone, the hair, the clothes, the pose and the background of the original photo, but make everything have a knitted texture, with visible stitches and realistic amigurumi details. Make it look sweet, pretty and very detailed, without losing the essence of the original photo. Vertical 9:16; if the photo is wider, extend the background naturally in the same knitted style. Everything is crocheted, like a real handmade amigurumi set photographed with a phone in the same light: the body, the clothes with their colors and prints, any jewelry, glasses, hat or phone, and every wall, floor, plant, piece of furniture and object of the place. Any logo, brand name or writing on the clothes or in the place becomes plain knitted fabric. Each person becomes their own doll, in the same place, pose and order as in the photo, with their own face, skin tone, hair and clothes: never blend two people, never swap hair, glasses or clothes between them, and never add or drop a person. If the photo also shows a pet, it becomes a small crochet animal with its own fur colors. No text, no captions, no logos, no watermark, no frame. Every face is a crocheted amigurumi doll face made of fine yarn stitches, never a photo face: big glossy doll eyes in the eye color from the photo, with long lashes, soft blush on the cheeks, a small stitched nose and lips. The identity rules below apply to the doll's face shape, eye color, eyebrows, nose, lips, skin tone (as the yarn color), age, hairline, hair color, hair length and hairstyle (as yarn strands), facial hair, glasses, moles and freckles.
+```
+
+---
+
+## Celebrity Signature Filter: Sign Autographs for Your Fans with AI
+
+- Page: https://www.makeviral.ai/templates/ai-celebrity-autograph-signing
+- Markdown: https://www.makeviral.ai/templates/ai-celebrity-autograph-signing.md
+- Updated: 2026-10-17 · Published: 2026-10-17
+- Local: [`makeviral/ai-celebrity-autograph-signing/PROMPTS.md`](makeviral/ai-celebrity-autograph-signing/PROMPTS.md)
+
+### 1. The video prompt is filled in. Settings: Seedance 2.5, 10 s, 720p, 9:16, sound on. The video prompt
+
+```text
+Animate the person in [Image 1] as a famous adult performer signing an autograph for an adult fan, polished original composition, realistic detail, vertical 9:16 frame, filmed handheld on a fan's phone at a fan meeting in a bright, modern event room.
+
+THE STAR is the person in [Image 1], in every frame: copy the exact face from [Image 1] (the face shape, eye color and eye shape, eyebrows, nose, mouth, skin tone, age, hair color, hair length and hairstyle, and any beard, moustache, glasses or freckles) and the clothes from [Image 1], so their friends recognize them at once. The face stays the same from the first frame to the last; never morph. If [Image 1] shows an animal, the star is that animal sitting or walking upright, with its own face, fur and markings, and it signs with a paw print.
+
+The set: a long table covered in a black cloth, with black markers on it. Right behind the star's chair stands a giant roll-up poster: a glossy close-up portrait photo of THE SAME person from [Image 1], the same face, much larger than life. Excited adult fans stand in a line on both sides and hold up their phones; phone flashes and camera flashes go off.
+
+0-3 s: the star walks into the room past the cheering fans, smiling, and sits down at the table under the poster.
+3-8 s: fans' hands in the foreground hand over printed photos of the star's own face, one after another; the star signs each photo with a quick, loopy signature, then looks up and smiles into the camera, the face large and sharp: exactly the face from [Image 1].
+8-10 s: the star hands a signed photo back to the fan who holds the camera and gives a small, happy wave.
+
+Audio: the fans cheering and calling out, camera shutter clicks, the marker squeaking on paper, a busy room. No music. The star does not speak.
+
+No collage, no split panels, no logos, no watermark, no readable text: no words on the poster, the table or the walls, and the signature is a loose scribble, not real letters. Exactly one star; the poster and every photo show only the star's face from [Image 1]. All fans are adults. No subtitles.
+```
+
+### 1. The video prompt is filled in. Settings: Seedance 2.5, 10 s, 720p, 9:16, sound on. The video prompt
+
+```text
+Vertical 9:16 aspect ratio video. A highly photorealistic, pure live-action tracking shot, filmed handheld on a fan's phone from behind a metal crowd barrier. The camera is positioned at a slight left angle, not dead center.
+
+THE STAR is the person in [Image 1], in every frame: copy the exact face from [Image 1] (the face shape, eye color and eye shape, eyebrows, nose, mouth, skin tone, age, hair color, hair length and hairstyle, and any beard, moustache, glasses or freckles) and the clothes from [Image 1], so their friends recognize them at once. The face stays the same from the first frame to the last; never morph. If [Image 1] shows an animal, the star is that animal sitting or walking upright, with its own face, fur and markings, and it signs with a paw print.
+
+A glamorous celebrity, the star from [Image 1], walks confidently forward out of the revolving glass doors of a grand city hotel at night, onto a short red carpet on wet, shining pavement. Background fans and paparazzi behind metal barriers are softly blurred, holding up phones and blank notepads. Two tall bodyguards in plain black suits walk beside the star. The scene is illuminated by natural event lighting and authentic camera flashes, strictly avoiding overly dramatic, artificial, or glossy cinematic lighting. The celebrity pauses, waves warmly to the crowd, smoothly signs one autograph, and continues walking.
+
+0-4 s: the star walks toward the camera, smiling at the crowd. A fan's hand in the foreground holds out a white spiral notepad and a black marker.
+4-8 s: the star stops at the barrier, takes the marker and signs the notepad with a quick, loopy signature, then smiles into the camera, the face large and sharp: exactly the face from [Image 1].
+8-10 s: the star hands the notepad back, waves warmly to the crowd and walks on toward a black car at the curb.
+
+Raw lifelike skin textures and natural fabric physics. Strictly avoiding any CGI, 3D renders, or plastic aesthetics, maintaining a pure, grounded reality.
+
+Audio: the crowd cheering and calling out, camera shutter clicks, the marker squeaking on paper, city night sounds. No music. The star does not speak.
+
+Exactly one star. All fans are adults. No text, no subtitles, no logos, no watermark, no hotel name or signs you can read; the signature is a loose scribble, not real letters.
 ```
 
 ---
 
 ## A2O LITE NEON Dance: Do the Duo Intro From Your Photos
 
-- Source: makeviral
 - Page: https://www.makeviral.ai/templates/a2o-lite-neon-ai-dance
 - Markdown: https://www.makeviral.ai/templates/a2o-lite-neon-ai-dance.md
-- Updated: 2026-10-17 · Published: 2026-10-17 · Scraped: 2026-10-17
+- Updated: 2026-10-17 · Published: 2026-10-17
 - Local: [`makeviral/a2o-lite-neon-ai-dance/PROMPTS.md`](makeviral/a2o-lite-neon-ai-dance/PROMPTS.md)
 
 ### 1. The video prompt is filled in. Settings: Seedance 2.5, 15 s, 720p, 9:16, sound off. The video prompt
@@ -1093,10 +1128,9 @@ Image 1 replaces the white cat with grey tabby patches who dances upright on the
 
 ## Topo Gigio Trend: Do the Enzo Fernandez Celebration With AI
 
-- Source: makeviral
 - Page: https://www.makeviral.ai/templates/topo-gigio-celebration-ai-trend
 - Markdown: https://www.makeviral.ai/templates/topo-gigio-celebration-ai-trend.md
-- Updated: 2026-10-16 · Published: 2026-10-16 · Scraped: 2026-10-17
+- Updated: 2026-10-16 · Published: 2026-10-16
 - Local: [`makeviral/topo-gigio-celebration-ai-trend/PROMPTS.md`](makeviral/topo-gigio-celebration-ai-trend/PROMPTS.md)
 
 ### 1. The video prompt is filled in. Settings: Seedance 2.5, 8 s, 720p, 9:16, sound on. The video prompt
@@ -1121,10 +1155,9 @@ Exactly one person celebrates. No score graphic, no scoreboard, no TV channel lo
 
 ## The Jawn Dance: Wait for the Drop From One Photo
 
-- Source: makeviral
 - Page: https://www.makeviral.ai/templates/the-jawn-ai-dance
 - Markdown: https://www.makeviral.ai/templates/the-jawn-ai-dance.md
-- Updated: 2026-10-16 · Published: 2026-10-16 · Scraped: 2026-10-17
+- Updated: 2026-10-16 · Published: 2026-10-16
 - Local: [`makeviral/the-jawn-ai-dance/PROMPTS.md`](makeviral/the-jawn-ai-dance/PROMPTS.md)
 
 ### 1. The video prompt is filled in. Settings: kling-3-motion, 12 s, 720p, 9:16, sound off. The video prompt
@@ -1158,10 +1191,9 @@ The pet keeps real animal anatomy: furry front legs ending in round paws covered
 
 ## La Tormenta de Arena AI Trend: Te He Perdido Entre la Gente
 
-- Source: makeviral
 - Page: https://www.makeviral.ai/templates/te-he-perdido-entre-la-gente-ai-trend
 - Markdown: https://www.makeviral.ai/templates/te-he-perdido-entre-la-gente-ai-trend.md
-- Updated: 2026-10-16 · Published: 2026-10-16 · Scraped: 2026-10-17
+- Updated: 2026-10-16 · Published: 2026-10-16
 - Local: [`makeviral/te-he-perdido-entre-la-gente-ai-trend/PROMPTS.md`](makeviral/te-he-perdido-entre-la-gente-ai-trend/PROMPTS.md)
 
 ### 1. The video prompt is filled in. Settings: Seedance 2.5, 10 s, 720p, 9:16, sound off. The video prompt
@@ -1193,10 +1225,9 @@ Image 1 replaces the brown-and-white terrier in the black bow tie who stands wit
 
 ## Subway Outfit Change AI: Every Train Brings a New Outfit
 
-- Source: makeviral
 - Page: https://www.makeviral.ai/templates/subway-outfit-change-ai-trend
 - Markdown: https://www.makeviral.ai/templates/subway-outfit-change-ai-trend.md
-- Updated: 2026-10-16 · Published: 2026-10-16 · Scraped: 2026-10-17
+- Updated: 2026-10-16 · Published: 2026-10-16
 - Local: [`makeviral/subway-outfit-change-ai-trend/PROMPTS.md`](makeviral/subway-outfit-change-ai-trend/PROMPTS.md)
 
 ### 1. The video prompt is filled in. Settings: genjutsu-motion, 13 s, 480p, 9:16, sound off. The video prompt
@@ -1209,10 +1240,9 @@ Replace the young woman with long dark wavy hair who stands on the subway platfo
 
 ## Slap Everyone Meme: Slap the Whole Crowd in an AI Video
 
-- Source: makeviral
 - Page: https://www.makeviral.ai/templates/slap-everyone-ai-trend
 - Markdown: https://www.makeviral.ai/templates/slap-everyone-ai-trend.md
-- Updated: 2026-10-16 · Published: 2026-10-16 · Scraped: 2026-10-17
+- Updated: 2026-10-16 · Published: 2026-10-16
 - Local: [`makeviral/slap-everyone-ai-trend/PROMPTS.md`](makeviral/slap-everyone-ai-trend/PROMPTS.md)
 
 ### 1. The video prompt is filled in. Settings: Seedance 2.5, 10 s, 720p, 9:16, sound on. The video prompt
@@ -1241,10 +1271,9 @@ Pure slapstick comedy, like a silent film gag: open-hand slaps on the cheek only
 
 ## SaWaDiKa Dance: Do LISA's Trend From One Photo
 
-- Source: makeviral
 - Page: https://www.makeviral.ai/templates/sawadika-dance-ai-trend
 - Markdown: https://www.makeviral.ai/templates/sawadika-dance-ai-trend.md
-- Updated: 2026-10-16 · Published: 2026-10-16 · Scraped: 2026-10-17
+- Updated: 2026-10-16 · Published: 2026-10-16
 - Local: [`makeviral/sawadika-dance-ai-trend/PROMPTS.md`](makeviral/sawadika-dance-ai-trend/PROMPTS.md)
 
 ### 1. The video prompt is filled in. Settings: kling-3-motion, 15 s, 720p, 9:16, sound off. The video prompt — Human
@@ -1279,10 +1308,9 @@ The pet keeps real animal anatomy: furry front legs ending in round paws covered
 
 ## Backwards Hurdle AI: Do the Famous Reverse Hurdle From One Photo
 
-- Source: makeviral
 - Page: https://www.makeviral.ai/templates/reverse-hurdle-ai-trend
 - Markdown: https://www.makeviral.ai/templates/reverse-hurdle-ai-trend.md
-- Updated: 2026-10-16 · Published: 2026-10-16 · Scraped: 2026-10-17
+- Updated: 2026-10-16 · Published: 2026-10-16
 - Local: [`makeviral/reverse-hurdle-ai-trend/PROMPTS.md`](makeviral/reverse-hurdle-ai-trend/PROMPTS.md)
 
 ### 1. The video prompt is filled in. Settings: Seedance 2.5, 10 s, 720p, 9:16, sound on. The video prompt
@@ -1310,10 +1338,9 @@ Exactly one football. No league, team, stadium or broadcaster logos, no team nam
 
 ## No Renunciaré AI Trend: Sing the Bolero With a Giant Mustache
 
-- Source: makeviral
 - Page: https://www.makeviral.ai/templates/no-renunciare-ai-trend
 - Markdown: https://www.makeviral.ai/templates/no-renunciare-ai-trend.md
-- Updated: 2026-10-16 · Published: 2026-10-16 · Scraped: 2026-10-17
+- Updated: 2026-10-16 · Published: 2026-10-16
 - Local: [`makeviral/no-renunciare-ai-trend/PROMPTS.md`](makeviral/no-renunciare-ai-trend/PROMPTS.md)
 
 ### 1. The video prompt is filled in. Settings: Seedance 2.5, 15 s, 720p, 9:16, sound on. The video prompt
@@ -1352,10 +1379,9 @@ Exactly one animal and one microphone in every shot, no people, no band, no audi
 
 ## I Wanna Love You Cat Trend: Your Pet Sings the Viral AI Selfie
 
-- Source: makeviral
 - Page: https://www.makeviral.ai/templates/i-wanna-love-you-ai-pet
 - Markdown: https://www.makeviral.ai/templates/i-wanna-love-you-ai-pet.md
-- Updated: 2026-10-16 · Published: 2026-10-14 · Scraped: 2026-10-17
+- Updated: 2026-10-16 · Published: 2026-10-14
 - Local: [`makeviral/i-wanna-love-you-ai-pet/PROMPTS.md`](makeviral/i-wanna-love-you-ai-pet/PROMPTS.md)
 
 ### 1. The video prompt is filled in. Settings: Seedance 2.5, 13 s, 720p, 9:16, sound off. The video prompt — Pet
@@ -1414,10 +1440,9 @@ Avoid: an upside-down face, the selfie arm switching sides, a phone in the frame
 
 ## Glitch Makeup AI Transition: From Paint Swipe to Cyber Look
 
-- Source: makeviral
 - Page: https://www.makeviral.ai/templates/glitch-makeup-ai-transition
 - Markdown: https://www.makeviral.ai/templates/glitch-makeup-ai-transition.md
-- Updated: 2026-10-16 · Published: 2026-10-16 · Scraped: 2026-10-17
+- Updated: 2026-10-16 · Published: 2026-10-16
 - Local: [`makeviral/glitch-makeup-ai-transition/PROMPTS.md`](makeviral/glitch-makeup-ai-transition/PROMPTS.md)
 
 ### 1. The video prompt is filled in. Settings: Seedance 2.5, 10 s, 720p, 9:16, sound on. The video prompt
@@ -1438,10 +1463,9 @@ Audio: a punchy original electronic beat with digital glitch sounds and a heavy 
 
 ## Escalator Outfit Change AI: A New Look With Every Ride
 
-- Source: makeviral
 - Page: https://www.makeviral.ai/templates/escalator-outfit-change-ai-trend
 - Markdown: https://www.makeviral.ai/templates/escalator-outfit-change-ai-trend.md
-- Updated: 2026-10-16 · Published: 2026-10-16 · Scraped: 2026-10-17
+- Updated: 2026-10-16 · Published: 2026-10-16
 - Local: [`makeviral/escalator-outfit-change-ai-trend/PROMPTS.md`](makeviral/escalator-outfit-change-ai-trend/PROMPTS.md)
 
 ### 1. The video prompt is filled in. Settings: genjutsu-motion, 13 s, 480p, 9:16, sound off. The video prompt
@@ -1454,10 +1478,9 @@ Replace the young woman with long straight black hair who sits and lounges on th
 
 ## AI Couple Thriller: The Cliff Kiss With a Twist
 
-- Source: makeviral
 - Page: https://www.makeviral.ai/templates/couple-thriller-ai-trend
 - Markdown: https://www.makeviral.ai/templates/couple-thriller-ai-trend.md
-- Updated: 2026-10-16 · Published: 2026-10-16 · Scraped: 2026-10-17
+- Updated: 2026-10-16 · Published: 2026-10-16
 - Local: [`makeviral/couple-thriller-ai-trend/PROMPTS.md`](makeviral/couple-thriller-ai-trend/PROMPTS.md)
 
 ### 1. The video prompt is filled in. Settings: Seedance 2.5, 15 s, 720p, 9:16, sound on. The video prompt
@@ -1485,10 +1508,9 @@ No blood, no injury, never a body on the rocks: the fall ends in deep water and 
 
 ## Champagne Birthday Trend: Pop the Bottle, Freeze in Black and White
 
-- Source: makeviral
 - Page: https://www.makeviral.ai/templates/champagne-birthday-ai-trend
 - Markdown: https://www.makeviral.ai/templates/champagne-birthday-ai-trend.md
-- Updated: 2026-10-16 · Published: 2026-10-16 · Scraped: 2026-10-17
+- Updated: 2026-10-16 · Published: 2026-10-16
 - Local: [`makeviral/champagne-birthday-ai-trend/PROMPTS.md`](makeviral/champagne-birthday-ai-trend/PROMPTS.md)
 
 ### 1. The video prompt is filled in. Settings: Seedance 2.5, 10 s, 720p, 9:16, sound off. The video prompt
@@ -1544,10 +1566,9 @@ Anatomy rules: one head only, on the character's own shoulders. Two arms, five f
 
 ## Blue Screen Glitch AI Trend: You, a Burning Sofa and a System Crash
 
-- Source: makeviral
 - Page: https://www.makeviral.ai/templates/blue-screen-glitch-ai-trend
 - Markdown: https://www.makeviral.ai/templates/blue-screen-glitch-ai-trend.md
-- Updated: 2026-10-16 · Published: 2026-10-16 · Scraped: 2026-10-17
+- Updated: 2026-10-16 · Published: 2026-10-16
 - Local: [`makeviral/blue-screen-glitch-ai-trend/PROMPTS.md`](makeviral/blue-screen-glitch-ai-trend/PROMPTS.md)
 
 ### 1. The video prompt is filled in. Settings: Seedance 2.5, 6 s, 720p, 9:16, sound on. The video prompt
@@ -1572,10 +1593,9 @@ Exactly one person. The person never burns and never touches the fire. No logos 
 
 ## Barbie and Raquelle AI Trend: You as a 3D Doll Cartoon
 
-- Source: makeviral
 - Page: https://www.makeviral.ai/templates/barbie-and-raquelle-ai-trend
 - Markdown: https://www.makeviral.ai/templates/barbie-and-raquelle-ai-trend.md
-- Updated: 2026-10-16 · Published: 2026-10-16 · Scraped: 2026-10-17
+- Updated: 2026-10-16 · Published: 2026-10-16
 - Local: [`makeviral/barbie-and-raquelle-ai-trend/PROMPTS.md`](makeviral/barbie-and-raquelle-ai-trend/PROMPTS.md)
 
 ### Prompt 1
@@ -1594,10 +1614,9 @@ Use the uploaded image as the base. Keep the original pose, hand gestures, camer
 
 ## AI Werewolf Transformation: Watch Yourself Turn Into a Wolf
 
-- Source: makeviral
 - Page: https://www.makeviral.ai/templates/ai-werewolf-transformation
 - Markdown: https://www.makeviral.ai/templates/ai-werewolf-transformation.md
-- Updated: 2026-10-16 · Published: 2026-10-16 · Scraped: 2026-10-17
+- Updated: 2026-10-16 · Published: 2026-10-16
 - Local: [`makeviral/ai-werewolf-transformation/PROMPTS.md`](makeviral/ai-werewolf-transformation/PROMPTS.md)
 
 ### 1. The video prompt is filled in. Settings: Seedance 2.5, 10 s, 720p, 9:16, sound on. The video prompt — Human
@@ -1628,10 +1647,9 @@ In the first 3 seconds the pet is exactly the pet from the image: the same face,
 
 ## Wipe Me Down AI Dance: Do the Viral Dance From One Photo
 
-- Source: makeviral
 - Page: https://www.makeviral.ai/templates/wipe-me-down-ai-dance
 - Markdown: https://www.makeviral.ai/templates/wipe-me-down-ai-dance.md
-- Updated: 2026-10-15 · Published: 2026-10-14 · Scraped: 2026-10-17
+- Updated: 2026-10-15 · Published: 2026-10-14
 - Local: [`makeviral/wipe-me-down-ai-dance/PROMPTS.md`](makeviral/wipe-me-down-ai-dance/PROMPTS.md)
 
 ### 1. The video prompt is filled in. Settings: kling-3-motion, 10 s, 720p, 9:16, sound off. The video prompt
@@ -1646,10 +1664,9 @@ No curly afro wig, no orange headband, no orange wristbands, no white basketball
 
 ## Whining Dog Meme: Make Your Dog Whine Like the Viral Doberman
 
-- Source: makeviral
 - Page: https://www.makeviral.ai/templates/whiny-dog-ai-trend
 - Markdown: https://www.makeviral.ai/templates/whiny-dog-ai-trend.md
-- Updated: 2026-10-15 · Published: 2026-10-13 · Scraped: 2026-10-17
+- Updated: 2026-10-15 · Published: 2026-10-13
 - Local: [`makeviral/whiny-dog-ai-trend/PROMPTS.md`](makeviral/whiny-dog-ai-trend/PROMPTS.md)
 
 ### 1. The video prompt is filled in. Settings: Seedance 2.5, 7 s, 720p, 9:16, sound off. The video prompt
@@ -1668,10 +1685,9 @@ Anatomy rules: one head only, one muzzle, natural teeth and tongue. No extra leg
 
 ## Walk It Like I Talk It AI: Your Squad in the Carpool Rap
 
-- Source: makeviral
 - Page: https://www.makeviral.ai/templates/walk-it-like-i-talk-it-ai-trend
 - Markdown: https://www.makeviral.ai/templates/walk-it-like-i-talk-it-ai-trend.md
-- Updated: 2026-10-15 · Published: 2026-10-14 · Scraped: 2026-10-17
+- Updated: 2026-10-15 · Published: 2026-10-14
 - Local: [`makeviral/walk-it-like-i-talk-it-ai-trend/PROMPTS.md`](makeviral/walk-it-like-i-talk-it-ai-trend/PROMPTS.md)
 
 ### 1. The video prompt is filled in. Settings: Seedance 2.5, 15 s, 720p, 9:16, sound off. The video prompt
@@ -1783,10 +1799,9 @@ Anatomy rules: one head per character, on its own shoulders. The pet's face neve
 
 ## Venom Car Trend: Black Liquid Builds Your Car
 
-- Source: makeviral
 - Page: https://www.makeviral.ai/templates/venom-car-ai-trend
 - Markdown: https://www.makeviral.ai/templates/venom-car-ai-trend.md
-- Updated: 2026-10-15 · Published: 2026-10-15 · Scraped: 2026-10-17
+- Updated: 2026-10-15 · Published: 2026-10-15
 - Local: [`makeviral/venom-car-ai-trend/PROMPTS.md`](makeviral/venom-car-ai-trend/PROMPTS.md)
 
 ### 1. The video prompt is filled in. Settings: Seedance 2.5, 10 s, 720p, 9:16, sound on. The video prompt
@@ -1807,10 +1822,9 @@ Vertical 9:16. No badges, emblems, brand names or lettering on the car and no re
 
 ## 24 Unforgettable Car Trend AI: Flick the 2 and 4, Reveal Your Car
 
-- Source: makeviral
 - Page: https://www.makeviral.ai/templates/unforgettable-car-trend-ai
 - Markdown: https://www.makeviral.ai/templates/unforgettable-car-trend-ai.md
-- Updated: 2026-10-15 · Published: 2026-10-12 · Scraped: 2026-10-17
+- Updated: 2026-10-15 · Published: 2026-10-12
 - Local: [`makeviral/unforgettable-car-trend-ai/PROMPTS.md`](makeviral/unforgettable-car-trend-ai/PROMPTS.md)
 
 ### 1. The video prompt is filled in. Settings: Seedance 2.5, 10 s, 720p, 9:16, sound off. The video prompt
@@ -1878,10 +1892,9 @@ Anatomy rules: one head only. Two arms and two hands. No airline names, logos, f
 
 ## Toz Pembe AI: Dance the Routine at the Giant Boombox
 
-- Source: makeviral
 - Page: https://www.makeviral.ai/templates/toz-pembe-ai-trend
 - Markdown: https://www.makeviral.ai/templates/toz-pembe-ai-trend.md
-- Updated: 2026-10-15 · Published: 2026-10-12 · Scraped: 2026-10-17
+- Updated: 2026-10-15 · Published: 2026-10-12
 - Local: [`makeviral/toz-pembe-ai-trend/PROMPTS.md`](makeviral/toz-pembe-ai-trend/PROMPTS.md)
 
 ### 1. The video prompt is filled in. Settings: Seedance 2.0 Mini, 15 s, 720p, 9:16, sound off. The video prompt — Human
@@ -1906,10 +1919,9 @@ Anatomy rules: one head only. Two arms and two hands. No airline names, logos, f
 
 ## Toc Toc Dance AI: Do the Viral Jean Phil Dance From One Photo
 
-- Source: makeviral
 - Page: https://www.makeviral.ai/templates/toc-toc-dance-ai-trend
 - Markdown: https://www.makeviral.ai/templates/toc-toc-dance-ai-trend.md
-- Updated: 2026-10-15 · Published: 2026-10-14 · Scraped: 2026-10-17
+- Updated: 2026-10-15 · Published: 2026-10-14
 - Local: [`makeviral/toc-toc-dance-ai-trend/PROMPTS.md`](makeviral/toc-toc-dance-ai-trend/PROMPTS.md)
 
 ### 1. The video prompt is filled in. Settings: kling-3-motion, 10 s, 720p, 9:16, sound off. The video prompt — Human
@@ -1961,10 +1973,9 @@ Anatomy rules: one head only, one tail. Two hind legs on the floor and two front
 
 ## Tim Burton Girls: Sit with the Gothic Dolls in One AI Photo
 
-- Source: makeviral
 - Page: https://www.makeviral.ai/templates/tim-burton-girls-ai-trend
 - Markdown: https://www.makeviral.ai/templates/tim-burton-girls-ai-trend.md
-- Updated: 2026-10-15 · Published: 2026-10-14 · Scraped: 2026-10-17
+- Updated: 2026-10-15 · Published: 2026-10-14
 - Local: [`makeviral/tim-burton-girls-ai-trend/PROMPTS.md`](makeviral/tim-burton-girls-ai-trend/PROMPTS.md)
 
 ### Prompt 1
@@ -1992,10 +2003,9 @@ Audio: an original slow music-box lullaby with a wordless choir. Exactly one rea
 
 ## Thriller Dance AI: Do the Zombie Dance With a Friend or Your Pet
 
-- Source: makeviral
 - Page: https://www.makeviral.ai/templates/thriller-dance-ai-trend
 - Markdown: https://www.makeviral.ai/templates/thriller-dance-ai-trend.md
-- Updated: 2026-10-15 · Published: 2026-10-12 · Scraped: 2026-10-17
+- Updated: 2026-10-15 · Published: 2026-10-12
 - Local: [`makeviral/thriller-dance-ai-trend/PROMPTS.md`](makeviral/thriller-dance-ai-trend/PROMPTS.md)
 
 ### 1. The video prompt is filled in. Settings: h3-recast, 15 s, 720p, 9:16, sound off. The video prompt
@@ -2020,10 +2030,9 @@ Anatomy rules: one head per animal. Two legs on the ground and two front legs ea
 
 ## The End AI Trend: Your Dog or Cat Waving Goodbye, Then It Runs Off
 
-- Source: makeviral
 - Page: https://www.makeviral.ai/templates/the-end-ai-trend
 - Markdown: https://www.makeviral.ai/templates/the-end-ai-trend.md
-- Updated: 2026-10-15 · Published: 2026-10-15 · Scraped: 2026-10-17
+- Updated: 2026-10-15 · Published: 2026-10-15
 - Local: [`makeviral/the-end-ai-trend/PROMPTS.md`](makeviral/the-end-ai-trend/PROMPTS.md)
 
 ### 1. Open [AI Photo with this template](https://www.makeviral.ai/photo?template=the-end-ai-trend&variant=pet) and add your photo (your pet, whole body). The photo prompt is filled in — Pet
@@ -2063,10 +2072,9 @@ Audio: a light, playful original tune and quick footsteps on the road; at the ve
 
 ## Tecktonik Dance AI: Your Turn on the String-Light Stage
 
-- Source: makeviral
 - Page: https://www.makeviral.ai/templates/tecktonik-dance-ai-trend
 - Markdown: https://www.makeviral.ai/templates/tecktonik-dance-ai-trend.md
-- Updated: 2026-10-15 · Published: 2026-10-12 · Scraped: 2026-10-17
+- Updated: 2026-10-15 · Published: 2026-10-12
 - Local: [`makeviral/tecktonik-dance-ai-trend/PROMPTS.md`](makeviral/tecktonik-dance-ai-trend/PROMPTS.md)
 
 ### 1. The video prompt is filled in. Settings: Seedance 2.5, 15 s, 720p, 9:16, sound off. The video prompt — Human
@@ -2126,10 +2134,9 @@ Anatomy rules: one head only. Two hind legs on the stage and two front legs, no 
 
 ## Squishy Face AI Trend: Turn Your Face Into a Squishy Toy From One Photo
 
-- Source: makeviral
 - Page: https://www.makeviral.ai/templates/squishy-ai-trend
 - Markdown: https://www.makeviral.ai/templates/squishy-ai-trend.md
-- Updated: 2026-10-15 · Published: 2026-10-13 · Scraped: 2026-10-17
+- Updated: 2026-10-15 · Published: 2026-10-13
 - Local: [`makeviral/squishy-ai-trend/PROMPTS.md`](makeviral/squishy-ai-trend/PROMPTS.md)
 
 ### 1. Open [AI Photo with this template](https://www.makeviral.ai/photo?template=squishy-ai-trend) and add your photo (your face, straight on). The photo prompt is filled in
@@ -2160,10 +2167,9 @@ Macro cinematic shot of a glossy silicone jelly pet face resting on wooden table
 
 ## Spooky Scary Skeletons AI Dance: You as the Vampire Under the Orange Moon
 
-- Source: makeviral
 - Page: https://www.makeviral.ai/templates/spooky-scary-skeletons-ai-dance
 - Markdown: https://www.makeviral.ai/templates/spooky-scary-skeletons-ai-dance.md
-- Updated: 2026-10-15 · Published: 2026-10-14 · Scraped: 2026-10-17
+- Updated: 2026-10-15 · Published: 2026-10-14
 - Local: [`makeviral/spooky-scary-skeletons-ai-dance/PROMPTS.md`](makeviral/spooky-scary-skeletons-ai-dance/PROMPTS.md)
 
 ### 1. The video prompt is filled in. Settings: Seedance 2.5, 10 s, 720p, 9:16, sound off. The video prompt — Human
@@ -2204,10 +2210,9 @@ The orange full moon, the bats, the bare trees, the gravestones and the glowing 
 
 ## South Park Filter: You as a Paper Cut-Out Cartoon
 
-- Source: makeviral
 - Page: https://www.makeviral.ai/templates/south-park-ai-filter
 - Markdown: https://www.makeviral.ai/templates/south-park-ai-filter.md
-- Updated: 2026-10-15 · Published: 2026-10-14 · Scraped: 2026-10-17
+- Updated: 2026-10-15 · Published: 2026-10-14
 - Local: [`makeviral/south-park-ai-filter/PROMPTS.md`](makeviral/south-park-ai-filter/PROMPTS.md)
 
 ### Prompt 1
@@ -2232,10 +2237,9 @@ Use the uploaded image as the base. Turn the pet in the photo into a flat constr
 
 ## Sniffer Dog Meme AI: Put Yourself in the Viral “Bro Is So Cooked” Clip
 
-- Source: makeviral
 - Page: https://www.makeviral.ai/templates/sniffer-dog-ai-trend
 - Markdown: https://www.makeviral.ai/templates/sniffer-dog-ai-trend.md
-- Updated: 2026-10-15 · Published: 2026-10-14 · Scraped: 2026-10-17
+- Updated: 2026-10-15 · Published: 2026-10-14
 - Local: [`makeviral/sniffer-dog-ai-trend/PROMPTS.md`](makeviral/sniffer-dog-ai-trend/PROMPTS.md)
 
 ### 1. The video prompt is filled in. Settings: Kling 3.0 Omni, 8 s, 720p, 9:16, sound off. The video prompt — Human
@@ -2270,10 +2274,9 @@ The pet keeps the species, breed, size, face, eyes, ears, muzzle, fur colors, fu
 
 ## Smash and Grab AI Video: Spot It, Smash the Window, Run
 
-- Source: makeviral
 - Page: https://www.makeviral.ai/templates/smash-and-grab-ai-trend
 - Markdown: https://www.makeviral.ai/templates/smash-and-grab-ai-trend.md
-- Updated: 2026-10-15 · Published: 2026-10-14 · Scraped: 2026-10-17
+- Updated: 2026-10-15 · Published: 2026-10-14
 - Local: [`makeviral/smash-and-grab-ai-trend/PROMPTS.md`](makeviral/smash-and-grab-ai-trend/PROMPTS.md)
 
 ### 1. The video prompt is filled in. Settings: Seedance 2.5, 10 s, 720p, 9:16, sound on. The video prompt
@@ -2303,10 +2306,9 @@ Audio: soft bubble pops, sparkly chimes, tiny paw steps and a playful original t
 
 ## Ramalama Bang Bang Trend: Your Pet's Halloween Costume Walk
 
-- Source: makeviral
 - Page: https://www.makeviral.ai/templates/ramalama-ai-trend
 - Markdown: https://www.makeviral.ai/templates/ramalama-ai-trend.md
-- Updated: 2026-10-15 · Published: 2026-10-11 · Scraped: 2026-10-17
+- Updated: 2026-10-15 · Published: 2026-10-11
 - Local: [`makeviral/ramalama-ai-trend/PROMPTS.md`](makeviral/ramalama-ai-trend/PROMPTS.md)
 
 ### 1. The video prompt is filled in. Settings: Seedance 2.5, 15 s, 720p, 9:16, sound off. The video prompt — Pet
@@ -2327,10 +2329,9 @@ Anatomy rules: one head per animal, on its own body. No people, no text, no logo
 
 ## Raindance AI Trend: Put the Two of You on the Pier
 
-- Source: makeviral
 - Page: https://www.makeviral.ai/templates/raindance-ai-trend
 - Markdown: https://www.makeviral.ai/templates/raindance-ai-trend.md
-- Updated: 2026-10-15 · Published: 2026-10-10 · Scraped: 2026-10-17
+- Updated: 2026-10-15 · Published: 2026-10-10
 - Local: [`makeviral/raindance-ai-trend/PROMPTS.md`](makeviral/raindance-ai-trend/PROMPTS.md)
 
 ### 1. The video prompt is filled in. Settings: Seedance 2.5, 15 s, 720p, 9:16, sound off. The video prompt — Human
@@ -2365,10 +2366,9 @@ Image 1 replaces the fluffy grey tabby cat who sits at the end of the wooden pie
 
 ## Popstar AI: Star in the Popstar Music Video From One Photo
 
-- Source: makeviral
 - Page: https://www.makeviral.ai/templates/popstar-ai-trend
 - Markdown: https://www.makeviral.ai/templates/popstar-ai-trend.md
-- Updated: 2026-10-15 · Published: 2026-10-13 · Scraped: 2026-10-17
+- Updated: 2026-10-15 · Published: 2026-10-13
 - Local: [`makeviral/popstar-ai-trend/PROMPTS.md`](makeviral/popstar-ai-trend/PROMPTS.md)
 
 ### 1. The video prompt is filled in. Settings: kling-3-motion, 10 s, 720p, 9:16, sound off. The video prompt
@@ -2383,10 +2383,9 @@ No white T-shirt, no black curly wig, no tattoos and no light jeans unless the r
 
 ## Polar Bear 2026 AI: Sing Remember November From One Photo
 
-- Source: makeviral
 - Page: https://www.makeviral.ai/templates/polar-bear-ai-trend
 - Markdown: https://www.makeviral.ai/templates/polar-bear-ai-trend.md
-- Updated: 2026-10-15 · Published: 2026-10-14 · Scraped: 2026-10-17
+- Updated: 2026-10-15 · Published: 2026-10-14
 - Local: [`makeviral/polar-bear-ai-trend/PROMPTS.md`](makeviral/polar-bear-ai-trend/PROMPTS.md)
 
 ### 1. The video prompt is filled in. Settings: Seedance 2.5, 13 s, 720p, 9:16, sound off. The video prompt
@@ -2433,10 +2432,9 @@ Audio: a quiet wind and the crunch of snow, then only the bear's slow singing. N
 
 ## Ozil Goal AI Trend: Score the Famous Solo Goal Yourself
 
-- Source: makeviral
 - Page: https://www.makeviral.ai/templates/ozil-goal-ai-trend
 - Markdown: https://www.makeviral.ai/templates/ozil-goal-ai-trend.md
-- Updated: 2026-10-15 · Published: 2026-10-11 · Scraped: 2026-10-17
+- Updated: 2026-10-15 · Published: 2026-10-11
 - Local: [`makeviral/ozil-goal-ai-trend/PROMPTS.md`](makeviral/ozil-goal-ai-trend/PROMPTS.md)
 
 ### 1. The video prompt is filled in. Settings: Seedance 2.0 Mini, 15 s, 720p, 9:16, sound off. The video prompt
@@ -2449,10 +2447,9 @@ Audio: a quiet wind and the crunch of snow, then only the bear's slow singing. N
 
 ## Otsukare Summer Dance: Do the Daijoubu Trend From One Photo
 
-- Source: makeviral
 - Page: https://www.makeviral.ai/templates/otsukare-summer-dance-ai-trend
 - Markdown: https://www.makeviral.ai/templates/otsukare-summer-dance-ai-trend.md
-- Updated: 2026-10-15 · Published: 2026-10-15 · Scraped: 2026-10-17
+- Updated: 2026-10-15 · Published: 2026-10-15
 - Local: [`makeviral/otsukare-summer-dance-ai-trend/PROMPTS.md`](makeviral/otsukare-summer-dance-ai-trend/PROMPTS.md)
 
 ### 1. The video prompt is filled in. Settings: kling-3-motion, 15 s, 720p, 9:16, sound off. The video prompt
@@ -2488,10 +2485,9 @@ The pet keeps real animal anatomy: furry front legs ending in round paws covered
 
 ## Opa Opa Opa Trend AI: Bounce Your Hair to the Viral Sound
 
-- Source: makeviral
 - Page: https://www.makeviral.ai/templates/opa-opa-bouncy-hair-ai
 - Markdown: https://www.makeviral.ai/templates/opa-opa-bouncy-hair-ai.md
-- Updated: 2026-10-15 · Published: 2026-10-14 · Scraped: 2026-10-17
+- Updated: 2026-10-15 · Published: 2026-10-14
 - Local: [`makeviral/opa-opa-bouncy-hair-ai/PROMPTS.md`](makeviral/opa-opa-bouncy-hair-ai/PROMPTS.md)
 
 ### 1. The video prompt is filled in. Settings: Seedance 2.5, 10 s, 720p, 9:16, sound off. The video prompt — Human
@@ -2533,10 +2529,9 @@ Animate the character subtly bopping their head and upper body in place to fast-
 
 ## Fredo Bang Oouuh AI Trend: Put the Two of You in the Kitchen
 
-- Source: makeviral
 - Page: https://www.makeviral.ai/templates/oouuh-ai-trend
 - Markdown: https://www.makeviral.ai/templates/oouuh-ai-trend.md
-- Updated: 2026-10-15 · Published: 2026-10-11 · Scraped: 2026-10-17
+- Updated: 2026-10-15 · Published: 2026-10-11
 - Local: [`makeviral/oouuh-ai-trend/PROMPTS.md`](makeviral/oouuh-ai-trend/PROMPTS.md)
 
 ### 1. The video prompt is filled in. Settings: Seedance 2.5, 14 s, 720p, 9:16, sound off. The video prompt
@@ -2557,10 +2552,9 @@ Anatomy rules: one head per person, on that person's own shoulders. A face never
 
 ## Nicole Kidman Dance AI: Do the Viral Routine With One Photo
 
-- Source: makeviral
 - Page: https://www.makeviral.ai/templates/nicole-kidman-dance-ai-trend
 - Markdown: https://www.makeviral.ai/templates/nicole-kidman-dance-ai-trend.md
-- Updated: 2026-10-15 · Published: 2026-10-11 · Scraped: 2026-10-17
+- Updated: 2026-10-15 · Published: 2026-10-11
 - Local: [`makeviral/nicole-kidman-dance-ai-trend/PROMPTS.md`](makeviral/nicole-kidman-dance-ai-trend/PROMPTS.md)
 
 ### 1. The video prompt is filled in. Settings: Seedance 2.5, 13 s, 720p, 9:16, sound off. The video prompt — Human
@@ -2591,10 +2585,9 @@ Anatomy rules: one head only, on the dancer's shoulders. Two arms and two hands,
 
 ## My Ride Is Here: Hop on the Broom and Fly Off Beside the Car
 
-- Source: makeviral
 - Page: https://www.makeviral.ai/templates/my-ride-is-here-broom-trend
 - Markdown: https://www.makeviral.ai/templates/my-ride-is-here-broom-trend.md
-- Updated: 2026-10-15 · Published: 2026-10-12 · Scraped: 2026-10-17
+- Updated: 2026-10-15 · Published: 2026-10-12
 - Local: [`makeviral/my-ride-is-here-broom-trend/PROMPTS.md`](makeviral/my-ride-is-here-broom-trend/PROMPTS.md)
 
 ### 1. The video prompt is filled in. Settings: h3-recast, 10 s, 720p, 9:16, sound off. The video prompt
@@ -2607,10 +2600,9 @@ Image 1 replaces the young woman with short black hair in the black polka-dot dr
 
 ## Mind Enterprises Balcony AI Video: You and a Friend as the Balcony DJ Duo
 
-- Source: makeviral
 - Page: https://www.makeviral.ai/templates/mind-enterprises-balcony-ai-trend
 - Markdown: https://www.makeviral.ai/templates/mind-enterprises-balcony-ai-trend.md
-- Updated: 2026-10-15 · Published: 2026-10-14 · Scraped: 2026-10-17
+- Updated: 2026-10-15 · Published: 2026-10-14
 - Local: [`makeviral/mind-enterprises-balcony-ai-trend/PROMPTS.md`](makeviral/mind-enterprises-balcony-ai-trend/PROMPTS.md)
 
 ### 1. The video prompt is filled in. Settings: Seedance 2.5, 10 s, 720p, 9:16, sound on. The video prompt
@@ -2634,10 +2626,9 @@ Audio: an original upbeat Italo-disco instrumental in the 1980s style, with a bo
 
 ## Lego Car Wash AI: Tiny Toy Workers Wash Your Ride
 
-- Source: makeviral
 - Page: https://www.makeviral.ai/templates/lego-car-wash-ai-trend
 - Markdown: https://www.makeviral.ai/templates/lego-car-wash-ai-trend.md
-- Updated: 2026-10-15 · Published: 2026-10-15 · Scraped: 2026-10-17
+- Updated: 2026-10-15 · Published: 2026-10-15
 - Local: [`makeviral/lego-car-wash-ai-trend/PROMPTS.md`](makeviral/lego-car-wash-ai-trend/PROMPTS.md)
 
 ### 1. The video prompt is filled in. Settings: Seedance 2.5, 10 s, 720p, 9:16, sound on. The video prompt
@@ -2670,10 +2661,9 @@ Use the uploaded image as the base. Turn the exact vehicle in the uploaded image
 
 ## Cale Brown Dance AI: Do the Viral Keep On Steppin Steps From One Photo
 
-- Source: makeviral
 - Page: https://www.makeviral.ai/templates/keep-on-steppin-ai-dance
 - Markdown: https://www.makeviral.ai/templates/keep-on-steppin-ai-dance.md
-- Updated: 2026-10-15 · Published: 2026-10-13 · Scraped: 2026-10-17
+- Updated: 2026-10-15 · Published: 2026-10-13
 - Local: [`makeviral/keep-on-steppin-ai-dance/PROMPTS.md`](makeviral/keep-on-steppin-ai-dance/PROMPTS.md)
 
 ### 1. The video prompt is filled in. Settings: kling-3-motion, 7 s, 720p, 9:16, sound off. The video prompt
@@ -2687,10 +2677,9 @@ The person dances in the place from the uploaded image, in the clothes from the 
 
 ## I'm With You Trend: Sing Avril Lavigne on the Roller Coaster
 
-- Source: makeviral
 - Page: https://www.makeviral.ai/templates/im-with-you-ai-trend
 - Markdown: https://www.makeviral.ai/templates/im-with-you-ai-trend.md
-- Updated: 2026-10-15 · Published: 2026-10-15 · Scraped: 2026-10-17
+- Updated: 2026-10-15 · Published: 2026-10-15
 - Local: [`makeviral/im-with-you-ai-trend/PROMPTS.md`](makeviral/im-with-you-ai-trend/PROMPTS.md)
 
 ### 1. The video prompt is filled in. Settings: Seedance 2.5, 10 s, 720p, 9:16, sound off. The video prompt
@@ -2719,10 +2708,9 @@ Anatomy rules: one head only, on the singer's shoulders. The arm that holds the 
 
 ## Happy Friday I'm Onnat: Drive the Football Toy Car
 
-- Source: makeviral
 - Page: https://www.makeviral.ai/templates/im-onnat-football-ai-trend
 - Markdown: https://www.makeviral.ai/templates/im-onnat-football-ai-trend.md
-- Updated: 2026-10-15 · Published: 2026-10-15 · Scraped: 2026-10-17
+- Updated: 2026-10-15 · Published: 2026-10-15
 - Local: [`makeviral/im-onnat-football-ai-trend/PROMPTS.md`](makeviral/im-onnat-football-ai-trend/PROMPTS.md)
 
 ### Prompt 1
@@ -2753,10 +2741,9 @@ Anatomy rules: one head, two hands, five fingers on each hand; the player sits i
 
 ## Hit the Road Dude: Be the Private Property Meme Driver
 
-- Source: makeviral
 - Page: https://www.makeviral.ai/templates/hit-the-road-dude-ai-trend
 - Markdown: https://www.makeviral.ai/templates/hit-the-road-dude-ai-trend.md
-- Updated: 2026-10-15 · Published: 2026-10-14 · Scraped: 2026-10-17
+- Updated: 2026-10-15 · Published: 2026-10-14
 - Local: [`makeviral/hit-the-road-dude-ai-trend/PROMPTS.md`](makeviral/hit-the-road-dude-ai-trend/PROMPTS.md)
 
 ### 1. The video prompt is filled in. Settings: Seedance 2.5, 11 s, 720p, 9:16, sound off. The video prompt
@@ -2860,10 +2847,9 @@ Anatomy rules: one head only, one muzzle, natural teeth and tongue. Exactly two 
 
 ## Headbop Trend AI: Your Family's Heads Bop in a Row
 
-- Source: makeviral
 - Page: https://www.makeviral.ai/templates/headbop-ai-trend
 - Markdown: https://www.makeviral.ai/templates/headbop-ai-trend.md
-- Updated: 2026-10-15 · Published: 2026-10-14 · Scraped: 2026-10-17
+- Updated: 2026-10-15 · Published: 2026-10-14
 - Local: [`makeviral/headbop-ai-trend/PROMPTS.md`](makeviral/headbop-ai-trend/PROMPTS.md)
 
 ### 1. The video prompt is filled in. Settings: Kling 3.0 Omni, 11 s, 720p, 9:16, sound off. The video prompt
@@ -2925,10 +2911,9 @@ Every head is the pet from the first image, in every frame: the same species and
 
 ## Hawak Mo Ang Beat Dance AI: Do the Viral Filipino Dance From One Photo
 
-- Source: makeviral
 - Page: https://www.makeviral.ai/templates/hawak-mo-ang-beat-ai-dance
 - Markdown: https://www.makeviral.ai/templates/hawak-mo-ang-beat-ai-dance.md
-- Updated: 2026-10-15 · Published: 2026-10-13 · Scraped: 2026-10-17
+- Updated: 2026-10-15 · Published: 2026-10-13
 - Local: [`makeviral/hawak-mo-ang-beat-ai-dance/PROMPTS.md`](makeviral/hawak-mo-ang-beat-ai-dance/PROMPTS.md)
 
 ### 1. The video prompt is filled in. Settings: kling-3-motion, 12 s, 720p, 9:16, sound off. The video prompt
@@ -2943,10 +2928,9 @@ No black T-shirt with a white logo, no blue jeans, no black sneakers and no wris
 
 ## Halay AI Trend: Dance the TV Show Halay With Two Friends
 
-- Source: makeviral
 - Page: https://www.makeviral.ai/templates/halay-ai-trend
 - Markdown: https://www.makeviral.ai/templates/halay-ai-trend.md
-- Updated: 2026-10-15 · Published: 2026-10-12 · Scraped: 2026-10-17
+- Updated: 2026-10-15 · Published: 2026-10-12
 - Local: [`makeviral/halay-ai-trend/PROMPTS.md`](makeviral/halay-ai-trend/PROMPTS.md)
 
 ### 1. The video prompt is filled in. Settings: Seedance 2.5, 15 s, 720p, 9:16, sound off. The video prompt
@@ -2979,10 +2963,9 @@ Anatomy rules: one head per dancer, on their own shoulders. Two arms and two leg
 
 ## Gömleği Cekete Dönüşen Adam AI: Dance the Viral Turkish Wedding Clip
 
-- Source: makeviral
 - Page: https://www.makeviral.ai/templates/gomlegi-cekete-donusen-adam-ai
 - Markdown: https://www.makeviral.ai/templates/gomlegi-cekete-donusen-adam-ai.md
-- Updated: 2026-10-15 · Published: 2026-10-12 · Scraped: 2026-10-17
+- Updated: 2026-10-15 · Published: 2026-10-12
 - Local: [`makeviral/gomlegi-cekete-donusen-adam-ai/PROMPTS.md`](makeviral/gomlegi-cekete-donusen-adam-ai/PROMPTS.md)
 
 ### 1. The video prompt is filled in. Settings: Seedance 2.5, 15 s, 720p, 9:16, sound off. The video prompt
@@ -3046,10 +3029,9 @@ The dancer has the face, skin tone, age and hair of the person in image 1 in eve
 
 ## Giant Bed AI Trend: Make "The Bed of My Dreams" Video
 
-- Source: makeviral
 - Page: https://www.makeviral.ai/templates/giant-bed-ai-trend
 - Markdown: https://www.makeviral.ai/templates/giant-bed-ai-trend.md
-- Updated: 2026-10-15 · Published: 2026-09-30 · Scraped: 2026-10-17
+- Updated: 2026-10-15 · Published: 2026-09-30
 - Local: [`makeviral/giant-bed-ai-trend/PROMPTS.md`](makeviral/giant-bed-ai-trend/PROMPTS.md)
 
 ### 1. Open [AI Photo with this template](https://www.makeviral.ai/photo?template=giant-bed-ai-trend) and add your photo (your photo). The photo prompt is filled in
@@ -3068,10 +3050,9 @@ Static wide phone shot, like a real home video. Keep the person's face and pajam
 
 ## Ghostface AI Trend: Put Yourself in the 90s Horror Phone Call
 
-- Source: makeviral
 - Page: https://www.makeviral.ai/templates/ghostface-ai-trend
 - Markdown: https://www.makeviral.ai/templates/ghostface-ai-trend.md
-- Updated: 2026-10-15 · Published: 2026-10-08 · Scraped: 2026-10-17
+- Updated: 2026-10-15 · Published: 2026-10-08
 - Local: [`makeviral/ghostface-ai-trend/PROMPTS.md`](makeviral/ghostface-ai-trend/PROMPTS.md)
 
 ### Prompt 1
@@ -3102,10 +3083,9 @@ Use the two uploaded images as the base. The person in the first image is on the
 
 ## Ghost Filter Prank: A Creepy Ghost Rises Behind You
 
-- Source: makeviral
 - Page: https://www.makeviral.ai/templates/ghost-filter-prank-ai-trend
 - Markdown: https://www.makeviral.ai/templates/ghost-filter-prank-ai-trend.md
-- Updated: 2026-10-15 · Published: 2026-10-14 · Scraped: 2026-10-17
+- Updated: 2026-10-15 · Published: 2026-10-14
 - Local: [`makeviral/ghost-filter-prank-ai-trend/PROMPTS.md`](makeviral/ghost-filter-prank-ai-trend/PROMPTS.md)
 
 ### 1. The video prompt is filled in. Settings: Seedance 2.5, 12 s, 720p, 9:16, sound off. The video prompt
@@ -3158,10 +3138,9 @@ A static camera, realistic room lighting, a ghost placed clearly behind the subj
 
 ## Gang Gang Dance AI: Do the Viral Jean Phil Battle Dance From One Photo
 
-- Source: makeviral
 - Page: https://www.makeviral.ai/templates/gang-gang-dance-ai-trend
 - Markdown: https://www.makeviral.ai/templates/gang-gang-dance-ai-trend.md
-- Updated: 2026-10-15 · Published: 2026-10-14 · Scraped: 2026-10-17
+- Updated: 2026-10-15 · Published: 2026-10-14
 - Local: [`makeviral/gang-gang-dance-ai-trend/PROMPTS.md`](makeviral/gang-gang-dance-ai-trend/PROMPTS.md)
 
 ### 1. The video prompt is filled in. Settings: Seedance 2.5, 15 s, 720p, 9:16, sound off. The video prompt
@@ -3195,10 +3174,9 @@ No neon yellow and pink ski suit, no ski gloves and no chunky white boots unless
 
 ## Fergie Baby Trend: Your AI Swagger Walk Out of the Park Gate
 
-- Source: makeviral
 - Page: https://www.makeviral.ai/templates/fergie-baby-ai-trend
 - Markdown: https://www.makeviral.ai/templates/fergie-baby-ai-trend.md
-- Updated: 2026-10-15 · Published: 2026-10-15 · Scraped: 2026-10-17
+- Updated: 2026-10-15 · Published: 2026-10-15
 - Local: [`makeviral/fergie-baby-ai-trend/PROMPTS.md`](makeviral/fergie-baby-ai-trend/PROMPTS.md)
 
 ### 1. The video prompt is filled in. Settings: Seedance 2.5, 15 s, 720p, 9:16, sound off. The video prompt
@@ -3224,10 +3202,9 @@ Anatomy rules: one head only, on the walker's shoulders. Exactly one person. Two
 
 ## Elsa AI Trend: Let It Go in the Ice Palace, Starring Your Kid
 
-- Source: makeviral
 - Page: https://www.makeviral.ai/templates/elsa-ai-trend
 - Markdown: https://www.makeviral.ai/templates/elsa-ai-trend.md
-- Updated: 2026-10-15 · Published: 2026-10-12 · Scraped: 2026-10-17
+- Updated: 2026-10-15 · Published: 2026-10-12
 - Local: [`makeviral/elsa-ai-trend/PROMPTS.md`](makeviral/elsa-ai-trend/PROMPTS.md)
 
 ### 1. The video prompt is filled in. Settings: Seedance 2.5, 14 s, 720p, 9:16, sound off. The video prompt — Human
@@ -3268,10 +3245,9 @@ Anatomy rules: one head only. Four legs, no extra legs or paws, no human hands. 
 
 ## Crazy Frog AI Trend: You on the Invisible Motorbike
 
-- Source: makeviral
 - Page: https://www.makeviral.ai/templates/crazy-frog-ai-trend
 - Markdown: https://www.makeviral.ai/templates/crazy-frog-ai-trend.md
-- Updated: 2026-10-15 · Published: 2026-10-14 · Scraped: 2026-10-17
+- Updated: 2026-10-15 · Published: 2026-10-14
 - Local: [`makeviral/crazy-frog-ai-trend/PROMPTS.md`](makeviral/crazy-frog-ai-trend/PROMPTS.md)
 
 ### 1. The video prompt is filled in. Settings: Seedance 2.5, 11 s, 720p, 9:16, sound off. The video prompt
@@ -3421,10 +3397,9 @@ Anatomy rules: one head per person, on that person's own shoulders. A face never
 
 ## Clapping Cat: Make Your Pet Grin and Clap Like the Black Cat
 
-- Source: makeviral
 - Page: https://www.makeviral.ai/templates/clapping-cat-ai-video
 - Markdown: https://www.makeviral.ai/templates/clapping-cat-ai-video.md
-- Updated: 2026-10-15 · Published: 2026-10-11 · Scraped: 2026-10-17
+- Updated: 2026-10-15 · Published: 2026-10-11
 - Local: [`makeviral/clapping-cat-ai-video/PROMPTS.md`](makeviral/clapping-cat-ai-video/PROMPTS.md)
 
 ### 1. Open [AI Photo with this template](https://www.makeviral.ai/photo?template=clapping-cat-ai-video&variant=pet) and add your photo (your pet, whole body). The photo prompt is filled in — Pet
@@ -3443,10 +3418,9 @@ A real, funny home video filmed on a phone in one continuous shot, from above, b
 
 ## ChatGPT Millionaire Trend: “How I Become a Millionaire?” “Get a Job.”
 
-- Source: makeviral
 - Page: https://www.makeviral.ai/templates/chatgpt-millionaire-ai-trend
 - Markdown: https://www.makeviral.ai/templates/chatgpt-millionaire-ai-trend.md
-- Updated: 2026-10-15 · Published: 2026-10-15 · Scraped: 2026-10-17
+- Updated: 2026-10-15 · Published: 2026-10-15
 - Local: [`makeviral/chatgpt-millionaire-ai-trend/PROMPTS.md`](makeviral/chatgpt-millionaire-ai-trend/PROMPTS.md)
 
 ### 1. The video prompt is filled in. Settings: Seedance 2.5, 13 s, 720p, 9:16, sound off. The video prompt
@@ -3521,10 +3495,9 @@ Avoid: a white studio background, the mouth pausing mid-line, the mouth moving w
 
 ## Chat GTT Lookin' Ahh AI: You or Your Pet in the Card Declined Meme
 
-- Source: makeviral
 - Page: https://www.makeviral.ai/templates/chat-gtt-lookin-ahh-ai
 - Markdown: https://www.makeviral.ai/templates/chat-gtt-lookin-ahh-ai.md
-- Updated: 2026-10-15 · Published: 2026-10-15 · Scraped: 2026-10-17
+- Updated: 2026-10-15 · Published: 2026-10-15
 - Local: [`makeviral/chat-gtt-lookin-ahh-ai/PROMPTS.md`](makeviral/chat-gtt-lookin-ahh-ai/PROMPTS.md)
 
 ### 1. The video prompt is filled in. Settings: Seedance 2.5, 15 s, 720p, 9:16, sound off. The video prompt
@@ -3598,10 +3571,9 @@ Avoid: a heavier or thinner body than in the photo, cuts, the phone switching pa
 
 ## Caught at the Window: AI Commercial Generator for Your Brand
 
-- Source: makeviral
 - Page: https://www.makeviral.ai/templates/caught-at-the-window-ai-ad
 - Markdown: https://www.makeviral.ai/templates/caught-at-the-window-ai-ad.md
-- Updated: 2026-10-15 · Published: 2026-10-15 · Scraped: 2026-10-17
+- Updated: 2026-10-15 · Published: 2026-10-15
 - Local: [`makeviral/caught-at-the-window-ai-ad/PROMPTS.md`](makeviral/caught-at-the-window-ai-ad/PROMPTS.md)
 
 ### 1. The video prompt is filled in. Settings: gemini-omni-flash, 10 s, 1080p, 9:16, sound on. The video prompt
@@ -3654,10 +3626,9 @@ Audio: quiet night city ambience, soft sounds from the room, a quick fabric swis
 
 ## Car Roof Backflip AI Video: You Flip From One Car to the Next
 
-- Source: makeviral
 - Page: https://www.makeviral.ai/templates/car-roof-backflip-ai-trend
 - Markdown: https://www.makeviral.ai/templates/car-roof-backflip-ai-trend.md
-- Updated: 2026-10-15 · Published: 2026-10-14 · Scraped: 2026-10-17
+- Updated: 2026-10-15 · Published: 2026-10-14
 - Local: [`makeviral/car-roof-backflip-ai-trend/PROMPTS.md`](makeviral/car-roof-backflip-ai-trend/PROMPTS.md)
 
 ### 1. The video prompt is filled in. Settings: Seedance 2.5, 10 s, 720p, 9:16, sound off. The video prompt
@@ -3685,10 +3656,9 @@ Anatomy rules: one head only, on the performer's own shoulders. Two arms, two ha
 
 ## Burning Bridges AI Trend: Put Yourself in the "Where She At?" Party
 
-- Source: makeviral
 - Page: https://www.makeviral.ai/templates/burning-bridges-ai-trend
 - Markdown: https://www.makeviral.ai/templates/burning-bridges-ai-trend.md
-- Updated: 2026-10-15 · Published: 2026-10-10 · Scraped: 2026-10-17
+- Updated: 2026-10-15 · Published: 2026-10-10
 - Local: [`makeviral/burning-bridges-ai-trend/PROMPTS.md`](makeviral/burning-bridges-ai-trend/PROMPTS.md)
 
 ### 1. The video prompt is filled in. Settings: Seedance 2.0 Mini, 15 s, 720p, 9:16, sound off. The video prompt — Human
@@ -3723,10 +3693,9 @@ Anatomy rules: one head only, on the dancer's shoulders. Two arms and two hands.
 
 ## Bulin 47 AI: Step Into the Dame Hombro Freestyle
 
-- Source: makeviral
 - Page: https://www.makeviral.ai/templates/bulin-47-ai-trend
 - Markdown: https://www.makeviral.ai/templates/bulin-47-ai-trend.md
-- Updated: 2026-10-15 · Published: 2026-10-10 · Scraped: 2026-10-17
+- Updated: 2026-10-15 · Published: 2026-10-10
 - Local: [`makeviral/bulin-47-ai-trend/PROMPTS.md`](makeviral/bulin-47-ai-trend/PROMPTS.md)
 
 ### 1. The video prompt is filled in. Settings: Seedance 2.5, 10 s, 720p, 9:16, sound off. The video prompt — Human
@@ -3759,10 +3728,9 @@ Anatomy rules: one head only, the pet's head, on the dancer's shoulders. No text
 
 ## Billie Jean Dance AI: Do the Famous Moves With One Photo
 
-- Source: makeviral
 - Page: https://www.makeviral.ai/templates/billie-jean-dance-ai-trend
 - Markdown: https://www.makeviral.ai/templates/billie-jean-dance-ai-trend.md
-- Updated: 2026-10-15 · Published: 2026-10-12 · Scraped: 2026-10-17
+- Updated: 2026-10-15 · Published: 2026-10-12
 - Local: [`makeviral/billie-jean-dance-ai-trend/PROMPTS.md`](makeviral/billie-jean-dance-ai-trend/PROMPTS.md)
 
 ### 1. The video prompt is filled in. Settings: Seedance 2.5, 15 s, 720p, 9:16, sound off. The video prompt — Human
@@ -3814,10 +3782,9 @@ The ridiculously cute pet from the image stands upright naturally on its hind le
 
 ## BbY WOW Dance AI Trend: Garage Dance, Quince Meme or Your Pet
 
-- Source: makeviral
 - Page: https://www.makeviral.ai/templates/bby-wow-dance-ai-trend
 - Markdown: https://www.makeviral.ai/templates/bby-wow-dance-ai-trend.md
-- Updated: 2026-10-15 · Published: 2026-10-15 · Scraped: 2026-10-17
+- Updated: 2026-10-15 · Published: 2026-10-15
 - Local: [`makeviral/bby-wow-dance-ai-trend/PROMPTS.md`](makeviral/bby-wow-dance-ai-trend/PROMPTS.md)
 
 ### 1. The video prompt is filled in. Settings: kling-3-motion, 9 s, 720p, 9:16, sound off. The video prompt
@@ -3853,10 +3820,9 @@ Image 1 replaces the orange cat in the black backwards cap on the left who dance
 
 ## Bad Times AI Trend: Argue With the Camera From One Photo
 
-- Source: makeviral
 - Page: https://www.makeviral.ai/templates/bad-times-ai-trend
 - Markdown: https://www.makeviral.ai/templates/bad-times-ai-trend.md
-- Updated: 2026-10-15 · Published: 2026-10-14 · Scraped: 2026-10-17
+- Updated: 2026-10-15 · Published: 2026-10-14
 - Local: [`makeviral/bad-times-ai-trend/PROMPTS.md`](makeviral/bad-times-ai-trend/PROMPTS.md)
 
 ### 1. The video prompt is filled in. Settings: kling-3-motion, 10 s, 720p, 9:16, sound off. The video prompt — Human
@@ -3889,10 +3855,9 @@ The pet keeps real animal anatomy: furry forelegs ending in round fluffy paws co
 
 ## Babydoll Dance AI: Do the Viral Jamie Miller Dance From One Photo
 
-- Source: makeviral
 - Page: https://www.makeviral.ai/templates/babydoll-dance-ai-trend
 - Markdown: https://www.makeviral.ai/templates/babydoll-dance-ai-trend.md
-- Updated: 2026-10-15 · Published: 2026-10-15 · Scraped: 2026-10-17
+- Updated: 2026-10-15 · Published: 2026-10-15
 - Local: [`makeviral/babydoll-dance-ai-trend/PROMPTS.md`](makeviral/babydoll-dance-ai-trend/PROMPTS.md)
 
 ### 1. The video prompt is filled in. Settings: kling-3-motion, 15 s, 720p, 9:16, sound off. The video prompt — Human
@@ -3918,10 +3883,9 @@ Image 1 replaces the grey-brown tabby cat on the left who dances upright on its 
 
 ## APT AI Video: You and a Friend in the Pink APT. Studio
 
-- Source: makeviral
 - Page: https://www.makeviral.ai/templates/apt-ai-trend
 - Markdown: https://www.makeviral.ai/templates/apt-ai-trend.md
-- Updated: 2026-10-15 · Published: 2026-10-15 · Scraped: 2026-10-17
+- Updated: 2026-10-15 · Published: 2026-10-15
 - Local: [`makeviral/apt-ai-trend/PROMPTS.md`](makeviral/apt-ai-trend/PROMPTS.md)
 
 ### 1. The video prompt is filled in. Settings: Seedance 2.5, 15 s, 720p, 9:16, sound off. The video prompt
@@ -3965,10 +3929,9 @@ Image 1 replaces the black cat who plays the red drum kit, in every shot, also i
 
 ## Dimitri Meme AI: Amanhã é Feriado, Starring You
 
-- Source: makeviral
 - Page: https://www.makeviral.ai/templates/amanha-e-feriado-ai-trend
 - Markdown: https://www.makeviral.ai/templates/amanha-e-feriado-ai-trend.md
-- Updated: 2026-10-15 · Published: 2026-10-14 · Scraped: 2026-10-17
+- Updated: 2026-10-15 · Published: 2026-10-14
 - Local: [`makeviral/amanha-e-feriado-ai-trend/PROMPTS.md`](makeviral/amanha-e-feriado-ai-trend/PROMPTS.md)
 
 ### 1. The video prompt is filled in. Settings: Seedance 2.5, 20 s, 720p, 9:16, sound off. The video prompt
@@ -3989,10 +3952,9 @@ Anatomy rules: one head only, on the person's own shoulders. A face never appear
 
 ## AI Muscle Generator: You, With a Huge Bodybuilder Body
 
-- Source: makeviral
 - Page: https://www.makeviral.ai/templates/ai-steroids-filter
 - Markdown: https://www.makeviral.ai/templates/ai-steroids-filter.md
-- Updated: 2026-10-15 · Published: 2026-10-15 · Scraped: 2026-10-17
+- Updated: 2026-10-15 · Published: 2026-10-15
 - Local: [`makeviral/ai-steroids-filter/PROMPTS.md`](makeviral/ai-steroids-filter/PROMPTS.md)
 
 ### Prompt 1
@@ -4028,10 +3990,9 @@ Enhance the body definition and muscle tone of the pet in the first image. Add m
 
 ## AI School Photo: Classic School Pictures From a Phone Photo
 
-- Source: makeviral
 - Page: https://www.makeviral.ai/templates/ai-school-photo
 - Markdown: https://www.makeviral.ai/templates/ai-school-photo.md
-- Updated: 2026-10-15 · Published: 2026-10-09 · Scraped: 2026-10-17
+- Updated: 2026-10-15 · Published: 2026-10-09
 - Local: [`makeviral/ai-school-photo/PROMPTS.md`](makeviral/ai-school-photo/PROMPTS.md)
 
 ### Prompt 1
@@ -4044,10 +4005,9 @@ Use the uploaded image as the base. This is a careful photo edit of a real child
 
 ## AI Pumpkin Head Photoshoot: The Halloween Trend From One Photo
 
-- Source: makeviral
 - Page: https://www.makeviral.ai/templates/ai-pumpkin-head-photoshoot
 - Markdown: https://www.makeviral.ai/templates/ai-pumpkin-head-photoshoot.md
-- Updated: 2026-10-15 · Published: 2026-10-09 · Scraped: 2026-10-17
+- Updated: 2026-10-15 · Published: 2026-10-09
 - Local: [`makeviral/ai-pumpkin-head-photoshoot/PROMPTS.md`](makeviral/ai-pumpkin-head-photoshoot/PROMPTS.md)
 
 ### Prompt 1
@@ -4078,10 +4038,9 @@ A slow, eerie, cinematic shot on a dirt path through an open field at dusk, film
 
 ## Airplane Flying Over Head AI Trend: A Jet Right Above You
 
-- Source: makeviral
 - Page: https://www.makeviral.ai/templates/ai-plane-over-head-trend
 - Markdown: https://www.makeviral.ai/templates/ai-plane-over-head-trend.md
-- Updated: 2026-10-15 · Published: 2026-10-13 · Scraped: 2026-10-17
+- Updated: 2026-10-15 · Published: 2026-10-13
 - Local: [`makeviral/ai-plane-over-head-trend/PROMPTS.md`](makeviral/ai-plane-over-head-trend/PROMPTS.md)
 
 ### 1. Open [AI Photo with this template](https://www.makeviral.ai/photo?template=ai-plane-over-head-trend) and add your photo (your photo). The photo prompt is filled in — Human
@@ -4112,10 +4071,9 @@ One continuous shot from a low wide angle, like a real phone video at an airport
 
 ## AI Dog Costume: Your Dog or Cat in Any Halloween Costume
 
-- Source: makeviral
 - Page: https://www.makeviral.ai/templates/ai-pet-halloween-costume
 - Markdown: https://www.makeviral.ai/templates/ai-pet-halloween-costume.md
-- Updated: 2026-10-15 · Published: 2026-10-08 · Scraped: 2026-10-17
+- Updated: 2026-10-15 · Published: 2026-10-08
 - Local: [`makeviral/ai-pet-halloween-costume/PROMPTS.md`](makeviral/ai-pet-halloween-costume/PROMPTS.md)
 
 ### Prompt 1 — Pet
@@ -4146,10 +4104,9 @@ A cute, real home video of the pet in its Halloween costume on a porch at dusk, 
 
 ## AI Lion Friend: A Lion Walks Up to You on a Night Road
 
-- Source: makeviral
 - Page: https://www.makeviral.ai/templates/ai-lion-friend-video
 - Markdown: https://www.makeviral.ai/templates/ai-lion-friend-video.md
-- Updated: 2026-10-15 · Published: 2026-10-12 · Scraped: 2026-10-17
+- Updated: 2026-10-15 · Published: 2026-10-12
 - Local: [`makeviral/ai-lion-friend-video/PROMPTS.md`](makeviral/ai-lion-friend-video/PROMPTS.md)
 
 ### 1. Open [AI Photo with this template](https://www.makeviral.ai/photo?template=ai-lion-friend-video) and add your photo (your photo). The photo prompt is filled in
@@ -4168,10 +4125,9 @@ Dashcam-style night footage in one continuous shot, filmed through the windshiel
 
 ## AI Hug Video: Turn Two Photos Into a Warm Hug
 
-- Source: makeviral
 - Page: https://www.makeviral.ai/templates/ai-hug-video
 - Markdown: https://www.makeviral.ai/templates/ai-hug-video.md
-- Updated: 2026-10-15 · Published: 2026-09-30 · Scraped: 2026-10-17
+- Updated: 2026-10-15 · Published: 2026-09-30
 - Local: [`makeviral/ai-hug-video/PROMPTS.md`](makeviral/ai-hug-video/PROMPTS.md)
 
 ### 1. Open [AI Photo with this template](https://www.makeviral.ai/photo?template=ai-hug-video) and add the two photos in this order: first person, then second person. The photo prompt is filled in
@@ -4190,10 +4146,9 @@ Two people stand a few steps apart in a sunny park. Keep both faces and outfits 
 
 ## Hotel Lobby AI: Make the Hotel Lobby Trend Video
 
-- Source: makeviral
 - Page: https://www.makeviral.ai/templates/ai-hotel-lobby-trend
 - Markdown: https://www.makeviral.ai/templates/ai-hotel-lobby-trend.md
-- Updated: 2026-10-15 · Published: 2026-09-30 · Scraped: 2026-10-17
+- Updated: 2026-10-15 · Published: 2026-09-30
 - Local: [`makeviral/ai-hotel-lobby-trend/PROMPTS.md`](makeviral/ai-hotel-lobby-trend/PROMPTS.md)
 
 ### 1. The video prompt is filled in. Settings: h3-recast, 15 s, 720p, 9:16, sound on. The video prompt
@@ -4239,10 +4194,9 @@ Two pets stand upright in a small orange studio booth with one hanging microphon
 
 ## Heaven Hug AI: Run Into Their Arms Above the Clouds
 
-- Source: makeviral
 - Page: https://www.makeviral.ai/templates/ai-heaven-reunion-hug
 - Markdown: https://www.makeviral.ai/templates/ai-heaven-reunion-hug.md
-- Updated: 2026-10-15 · Published: 2026-10-14 · Scraped: 2026-10-17
+- Updated: 2026-10-15 · Published: 2026-10-14
 - Local: [`makeviral/ai-heaven-reunion-hug/PROMPTS.md`](makeviral/ai-heaven-reunion-hug/PROMPTS.md)
 
 ### 1. The video prompt is filled in. Settings: Seedance 2.5, 10 s, 720p, 9:16, sound on. The video prompt
@@ -4293,10 +4247,9 @@ Only the one who climbs and the one who waits, nobody else. No wings, no halos, 
 
 ## AI Halloween Costume Try-On: See Yourself in a Costume Before You Buy
 
-- Source: makeviral
 - Page: https://www.makeviral.ai/templates/ai-halloween-costume
 - Markdown: https://www.makeviral.ai/templates/ai-halloween-costume.md
-- Updated: 2026-10-15 · Published: 2026-10-08 · Scraped: 2026-10-17
+- Updated: 2026-10-15 · Published: 2026-10-08
 - Local: [`makeviral/ai-halloween-costume/PROMPTS.md`](makeviral/ai-halloween-costume/PROMPTS.md)
 
 ### Prompt 1
@@ -4327,10 +4280,9 @@ One continuous handheld phone shot at a Halloween house party at night, with no 
 
 ## AI Ghost Photoshoot: The Sheet Ghost Trend From One Photo
 
-- Source: makeviral
 - Page: https://www.makeviral.ai/templates/ai-ghost-photoshoot
 - Markdown: https://www.makeviral.ai/templates/ai-ghost-photoshoot.md
-- Updated: 2026-10-15 · Published: 2026-10-08 · Scraped: 2026-10-17
+- Updated: 2026-10-15 · Published: 2026-10-08
 - Local: [`makeviral/ai-ghost-photoshoot/PROMPTS.md`](makeviral/ai-ghost-photoshoot/PROMPTS.md)
 
 ### Prompt 1
@@ -4367,10 +4319,9 @@ A playful autumn clip for the ghost photoshoot trend, one continuous shot. Keep 
 
 ## AI Baby Generator: Make a Future Baby Home Video
 
-- Source: makeviral
 - Page: https://www.makeviral.ai/templates/ai-future-baby-video
 - Markdown: https://www.makeviral.ai/templates/ai-future-baby-video.md
-- Updated: 2026-10-15 · Published: 2026-09-30 · Scraped: 2026-10-17
+- Updated: 2026-10-15 · Published: 2026-09-30
 - Local: [`makeviral/ai-future-baby-video/PROMPTS.md`](makeviral/ai-future-baby-video/PROMPTS.md)
 
 ### Prompt 1
@@ -4389,10 +4340,9 @@ A warm early-2000s home-video montage of one happy day. Keep the two parents and
 
 ## Split Face Trend: Half Your Face, Half Your Parent's
 
-- Source: makeviral
 - Page: https://www.makeviral.ai/templates/ai-family-resemblance-photo
 - Markdown: https://www.makeviral.ai/templates/ai-family-resemblance-photo.md
-- Updated: 2026-10-15 · Published: 2026-10-15 · Scraped: 2026-10-17
+- Updated: 2026-10-15 · Published: 2026-10-15
 - Local: [`makeviral/ai-family-resemblance-photo/PROMPTS.md`](makeviral/ai-family-resemblance-photo/PROMPTS.md)
 
 ### Prompt 1
@@ -4405,10 +4355,9 @@ Create a photorealistic black and white portrait collage of the two uploaded ima
 
 ## Day of the Dead Pet AI: Your Pet's First Día de Muertos
 
-- Source: makeviral
 - Page: https://www.makeviral.ai/templates/ai-day-of-the-dead-pet
 - Markdown: https://www.makeviral.ai/templates/ai-day-of-the-dead-pet.md
-- Updated: 2026-10-15 · Published: 2026-10-14 · Scraped: 2026-10-17
+- Updated: 2026-10-15 · Published: 2026-10-14
 - Local: [`makeviral/ai-day-of-the-dead-pet/PROMPTS.md`](makeviral/ai-day-of-the-dead-pet/PROMPTS.md)
 
 ### 1. The video prompt is filled in. Settings: Kling 3.0 Omni, 10 s, 720p, 9:16, sound off. The video prompt — Pet
@@ -4442,10 +4391,9 @@ Turn this photo into a video, please. The pet is running over the bridge of flow
 
 ## Catrina Makeup AI: See Yourself in Day of the Dead Makeup
 
-- Source: makeviral
 - Page: https://www.makeviral.ai/templates/ai-day-of-the-dead-makeup
 - Markdown: https://www.makeviral.ai/templates/ai-day-of-the-dead-makeup.md
-- Updated: 2026-10-15 · Published: 2026-10-12 · Scraped: 2026-10-17
+- Updated: 2026-10-15 · Published: 2026-10-12
 - Local: [`makeviral/ai-day-of-the-dead-makeup/PROMPTS.md`](makeviral/ai-day-of-the-dead-makeup/PROMPTS.md)
 
 ### Prompt 1
@@ -4476,10 +4424,9 @@ Usa mi foto subida como base. Como un experto en fotografía de estudio crea est
 
 ## AI Cinema Breakout Video: The Train Comes Out of the Screen
 
-- Source: makeviral
 - Page: https://www.makeviral.ai/templates/ai-cinema-breakout-video
 - Markdown: https://www.makeviral.ai/templates/ai-cinema-breakout-video.md
-- Updated: 2026-10-15 · Published: 2026-09-30 · Scraped: 2026-10-17
+- Updated: 2026-10-15 · Published: 2026-09-30
 - Local: [`makeviral/ai-cinema-breakout-video/PROMPTS.md`](makeviral/ai-cinema-breakout-video/PROMPTS.md)
 
 ### 1. Open [AI Photo with this template](https://www.makeviral.ai/photo?template=ai-cinema-breakout-video) and add your photo (your photo). The photo prompt is filled in
@@ -4498,10 +4445,9 @@ One continuous handheld phone shot from the front row of a dark cinema, no cuts,
 
 ## Car Jump AI Video: A Truck Flies Over You, You Stay Calm
 
-- Source: makeviral
 - Page: https://www.makeviral.ai/templates/ai-car-jump-trend
 - Markdown: https://www.makeviral.ai/templates/ai-car-jump-trend.md
-- Updated: 2026-10-15 · Published: 2026-10-14 · Scraped: 2026-10-17
+- Updated: 2026-10-15 · Published: 2026-10-14
 - Local: [`makeviral/ai-car-jump-trend/PROMPTS.md`](makeviral/ai-car-jump-trend/PROMPTS.md)
 
 ### 1. The video prompt is filled in. Settings: Seedance 2.5, 10 s, 720p, 9:16, sound off. The video prompt
@@ -4550,10 +4496,9 @@ Anatomy rules: one head only, on the person's own shoulders. Two arms and two ha
 
 ## Car Crash Prank: The AI Airbag Filter From One Photo
 
-- Source: makeviral
 - Page: https://www.makeviral.ai/templates/ai-car-crash-prank-filter
 - Markdown: https://www.makeviral.ai/templates/ai-car-crash-prank-filter.md
-- Updated: 2026-10-15 · Published: 2026-10-15 · Scraped: 2026-10-17
+- Updated: 2026-10-15 · Published: 2026-10-15
 - Local: [`makeviral/ai-car-crash-prank-filter/PROMPTS.md`](makeviral/ai-car-crash-prank-filter/PROMPTS.md)
 
 ### 1. The video prompt is filled in. Settings: Seedance 2.5, 10 s, 720p, 9:16, sound on. The video prompt
@@ -4596,10 +4541,9 @@ A movie stunt look, not a news clip and not a dashcam video. Exactly one driver 
 
 ## Bob Filter Prank: AI Cuts Your Long Hair Into a Bob
 
-- Source: makeviral
 - Page: https://www.makeviral.ai/templates/ai-bob-haircut-filter
 - Markdown: https://www.makeviral.ai/templates/ai-bob-haircut-filter.md
-- Updated: 2026-10-15 · Published: 2026-10-14 · Scraped: 2026-10-17
+- Updated: 2026-10-15 · Published: 2026-10-14
 - Local: [`makeviral/ai-bob-haircut-filter/PROMPTS.md`](makeviral/ai-bob-haircut-filter/PROMPTS.md)
 
 ### 1. The video prompt is filled in. Settings: Seedance 2.5, 10 s, 720p, 9:16, sound on. The video prompt
@@ -4634,10 +4578,9 @@ Please edit my photo without changing my face and change only the hair, leaving 
 
 ## Barn Find AI Trend: What Your Kids Will Find in the Barn
 
-- Source: makeviral
 - Page: https://www.makeviral.ai/templates/ai-barn-find-truck-trend
 - Markdown: https://www.makeviral.ai/templates/ai-barn-find-truck-trend.md
-- Updated: 2026-10-15 · Published: 2026-10-14 · Scraped: 2026-10-17
+- Updated: 2026-10-15 · Published: 2026-10-14
 - Local: [`makeviral/ai-barn-find-truck-trend/PROMPTS.md`](makeviral/ai-barn-find-truck-trend/PROMPTS.md)
 
 ### Prompt 1
@@ -4668,10 +4611,9 @@ A slow, quiet, cinematic push-in inside an old wooden barn, one continuous shot 
 
 ## AI Baby Dance: Turn One Baby Photo Into the Viral Dance
 
-- Source: makeviral
 - Page: https://www.makeviral.ai/templates/ai-baby-dance
 - Markdown: https://www.makeviral.ai/templates/ai-baby-dance.md
-- Updated: 2026-10-15 · Published: 2026-10-13 · Scraped: 2026-10-17
+- Updated: 2026-10-15 · Published: 2026-10-13
 - Local: [`makeviral/ai-baby-dance/PROMPTS.md`](makeviral/ai-baby-dance/PROMPTS.md)
 
 ### 1. The video prompt is filled in. Settings: kling-3-motion, 10 s, 720p, 9:16, sound off. The video prompt
@@ -4694,10 +4636,9 @@ The baby keeps real baby anatomy: a small chubby body, a big round head, short a
 
 ## AI Arrest Trend: Make the “Getting Arrested Again” Video With One Photo
 
-- Source: makeviral
 - Page: https://www.makeviral.ai/templates/ai-arrest-trend
 - Markdown: https://www.makeviral.ai/templates/ai-arrest-trend.md
-- Updated: 2026-10-15 · Published: 2026-10-12 · Scraped: 2026-10-17
+- Updated: 2026-10-15 · Published: 2026-10-12
 - Local: [`makeviral/ai-arrest-trend/PROMPTS.md`](makeviral/ai-arrest-trend/PROMPTS.md)
 
 ### 1. Open [AI Photo with this template](https://www.makeviral.ai/photo?template=ai-arrest-trend) and add your photo (your own photo). The photo prompt is filled in — Human
@@ -4728,10 +4669,9 @@ Turn the image into a photorealistic vertical 9:16 handheld smartphone video of 
 
 ## AI Airport Celebrity Video: Walk Out of Arrivals Like a Star
 
-- Source: makeviral
 - Page: https://www.makeviral.ai/templates/ai-airport-star-arrival
 - Markdown: https://www.makeviral.ai/templates/ai-airport-star-arrival.md
-- Updated: 2026-10-15 · Published: 2026-10-12 · Scraped: 2026-10-17
+- Updated: 2026-10-15 · Published: 2026-10-12
 - Local: [`makeviral/ai-airport-star-arrival/PROMPTS.md`](makeviral/ai-airport-star-arrival/PROMPTS.md)
 
 ### 1. Open [AI Photo with this template](https://www.makeviral.ai/photo?template=ai-airport-star-arrival) and add your photo (your photo). The photo prompt is filled in — Human
@@ -4762,10 +4702,9 @@ Style: Ultra realistic mass celebrity entry scene. Single continuous shot. Handh
 
 ## 80s AI Trend: Your 1985 Photo and Home Video
 
-- Source: makeviral
 - Page: https://www.makeviral.ai/templates/80s-ai-trend
 - Markdown: https://www.makeviral.ai/templates/80s-ai-trend.md
-- Updated: 2026-10-15 · Published: 2026-09-30 · Scraped: 2026-10-17
+- Updated: 2026-10-15 · Published: 2026-09-30
 - Local: [`makeviral/80s-ai-trend/PROMPTS.md`](makeviral/80s-ai-trend/PROMPTS.md)
 
 ### 1. Open [AI Photo with this template](https://www.makeviral.ai/photo?template=80s-ai-trend) and add your photo (your selfie). The photo prompt is filled in
@@ -4784,10 +4723,9 @@ A 1985 home video filmed on a consumer camcorder by a parent. Keep the person's 
 
 ## 2016 vs 2026: Your 2016 Self Walks In and Meets You
 
-- Source: makeviral
 - Page: https://www.makeviral.ai/templates/2016-me-meets-2026-me-ai
 - Markdown: https://www.makeviral.ai/templates/2016-me-meets-2026-me-ai.md
-- Updated: 2026-10-15 · Published: 2026-10-12 · Scraped: 2026-10-17
+- Updated: 2026-10-15 · Published: 2026-10-12
 - Local: [`makeviral/2016-me-meets-2026-me-ai/PROMPTS.md`](makeviral/2016-me-meets-2026-me-ai/PROMPTS.md)
 
 ### Prompt 1
@@ -4818,10 +4756,9 @@ An ordinary, unedited phone video filmed at pet height, in one continuous shot w
 
 ## Storm AI Trend: Stand Still While the Crowd Bows
 
-- Source: makeviral
 - Page: https://www.makeviral.ai/templates/storm-ai-trend
 - Markdown: https://www.makeviral.ai/templates/storm-ai-trend.md
-- Updated: 2026-10-13 · Published: 2026-09-30 · Scraped: 2026-10-17
+- Updated: 2026-10-13 · Published: 2026-09-30
 - Local: [`makeviral/storm-ai-trend/PROMPTS.md`](makeviral/storm-ai-trend/PROMPTS.md)
 
 ### 1. The video prompt is filled in. Settings: Seedance 2.5, 10 s, 720p, 9:16, sound on. The video prompt
@@ -4838,10 +4775,9 @@ Audio: an original dark, heavy electronic beat with deep drums. No cigarettes, n
 
 ## Smalltown Boy Cats: Put Your Two Pets in the Viral AI Dance
 
-- Source: makeviral
 - Page: https://www.makeviral.ai/templates/smalltown-boy-ai-dance
 - Markdown: https://www.makeviral.ai/templates/smalltown-boy-ai-dance.md
-- Updated: 2026-10-13 · Published: 2026-10-10 · Scraped: 2026-10-17
+- Updated: 2026-10-13 · Published: 2026-10-10
 - Local: [`makeviral/smalltown-boy-ai-dance/PROMPTS.md`](makeviral/smalltown-boy-ai-dance/PROMPTS.md)
 
 ### 1. The video prompt is filled in. Settings: h3-recast, 14 s, 720p, 9:16, sound off. The video prompt — Pet
@@ -4874,10 +4810,9 @@ Anatomy rules: one head per person, on that person's own shoulders. A face never
 
 ## Single Ladies Dog Dance: Your Pet Takes Center Stage
 
-- Source: makeviral
 - Page: https://www.makeviral.ai/templates/single-ladies-dog-dance-ai
 - Markdown: https://www.makeviral.ai/templates/single-ladies-dog-dance-ai.md
-- Updated: 2026-10-13 · Published: 2026-10-12 · Scraped: 2026-10-17
+- Updated: 2026-10-13 · Published: 2026-10-12
 - Local: [`makeviral/single-ladies-dog-dance-ai/PROMPTS.md`](makeviral/single-ladies-dog-dance-ai/PROMPTS.md)
 
 ### 1. The video prompt is filled in. Settings: Seedance 2.5, 15 s, 720p, 9:16, sound off. The video prompt — Pet
@@ -4907,10 +4842,9 @@ Anatomy rules: one head only. Four legs, no extra legs or paws, no human arms. T
 
 ## Phone on the Train Trend: Your Face in the Paris Metro Reel
 
-- Source: makeviral
 - Page: https://www.makeviral.ai/templates/phone-on-train-trend
 - Markdown: https://www.makeviral.ai/templates/phone-on-train-trend.md
-- Updated: 2026-10-13 · Published: 2026-10-12 · Scraped: 2026-10-17
+- Updated: 2026-10-13 · Published: 2026-10-12
 - Local: [`makeviral/phone-on-train-trend/PROMPTS.md`](makeviral/phone-on-train-trend/PROMPTS.md)
 
 ### 1. The video prompt is filled in. Settings: Seedance 2.5, 22 s, 480p, 9:16, sound off. The video prompt
@@ -4940,10 +4874,9 @@ Do not add text, captions, logos or new people. Do not change the background. Re
 
 ## Knight Sword Swap AI Video: The Big Knight Takes the Heavy Sword
 
-- Source: makeviral
 - Page: https://www.makeviral.ai/templates/knight-sword-swap-ai-video
 - Markdown: https://www.makeviral.ai/templates/knight-sword-swap-ai-video.md
-- Updated: 2026-10-13 · Published: 2026-10-08 · Scraped: 2026-10-17
+- Updated: 2026-10-13 · Published: 2026-10-08
 - Local: [`makeviral/knight-sword-swap-ai-video/PROMPTS.md`](makeviral/knight-sword-swap-ai-video/PROMPTS.md)
 
 ### 1. The video prompt is filled in. Settings: Seedance 2.5, 10 s, 720p, 9:16, sound on. The video prompt — Pet
@@ -4979,10 +4912,9 @@ A slow, tender, cinematic scene on a misty moor in a strong wind, filmed like a 
 
 ## Remember Your Gym Bro AI Video: Your Tiny Knight Next to a Giant
 
-- Source: makeviral
 - Page: https://www.makeviral.ai/templates/knight-standing-ai-video
 - Markdown: https://www.makeviral.ai/templates/knight-standing-ai-video.md
-- Updated: 2026-10-13 · Published: 2026-10-08 · Scraped: 2026-10-17
+- Updated: 2026-10-13 · Published: 2026-10-08
 - Local: [`makeviral/knight-standing-ai-video/PROMPTS.md`](makeviral/knight-standing-ai-video/PROMPTS.md)
 
 ### 1. The video prompt is filled in. Settings: Seedance 2.0 Mini, 10 s, 720p, 9:16, sound on. The video prompt
@@ -5012,10 +4944,9 @@ Anatomy rules: one head per knight, on its own shoulders. Do not mix the two fac
 
 ## Knight Cat AI Video: Make Your Cat or Dog the Kitten Knight
 
-- Source: makeviral
 - Page: https://www.makeviral.ai/templates/knight-cat-ai-video
 - Markdown: https://www.makeviral.ai/templates/knight-cat-ai-video.md
-- Updated: 2026-10-13 · Published: 2026-10-08 · Scraped: 2026-10-17
+- Updated: 2026-10-13 · Published: 2026-10-08
 - Local: [`makeviral/knight-cat-ai-video/PROMPTS.md`](makeviral/knight-cat-ai-video/PROMPTS.md)
 
 ### 1. Open [AI Photo with this template](https://www.makeviral.ai/photo?template=knight-cat-ai-video) and add your photo (your pet, whole body). The photo prompt is filled in — Pet
@@ -5090,10 +5021,9 @@ Anatomy rules: one head per character, on its own body. No people, no text, no l
 
 ## Mom and Baby Knight AI Video: You and Your Little One as Knights
 
-- Source: makeviral
 - Page: https://www.makeviral.ai/templates/baby-knight-ai-video
 - Markdown: https://www.makeviral.ai/templates/baby-knight-ai-video.md
-- Updated: 2026-10-13 · Published: 2026-10-08 · Scraped: 2026-10-17
+- Updated: 2026-10-13 · Published: 2026-10-08
 - Local: [`makeviral/baby-knight-ai-video/PROMPTS.md`](makeviral/baby-knight-ai-video/PROMPTS.md)
 
 ### 1. The video prompt is filled in. Settings: Seedance 2.5, 10 s, 720p, 9:16, sound on. The video prompt
@@ -5116,10 +5046,9 @@ Audio: howling wind, the cape flapping, soft clinks of armor, and an original sl
 
 ## Alors On Danse AI: Put You and a Friend in the Studio Sketch
 
-- Source: makeviral
 - Page: https://www.makeviral.ai/templates/alors-on-danse-ai-trend
 - Markdown: https://www.makeviral.ai/templates/alors-on-danse-ai-trend.md
-- Updated: 2026-10-13 · Published: 2026-10-10 · Scraped: 2026-10-17
+- Updated: 2026-10-13 · Published: 2026-10-10
 - Local: [`makeviral/alors-on-danse-ai-trend/PROMPTS.md`](makeviral/alors-on-danse-ai-trend/PROMPTS.md)
 
 ### 1. The video prompt is filled in. Settings: Seedance 2.5, 11 s, 720p, 9:16, sound off. The video prompt
@@ -5158,10 +5087,9 @@ Anatomy rules: one head per pet, on its own body. Exactly two animals. No people
 
 ## AI Zombie Trend: The Zombie Love Story With Your Partner or Pet
 
-- Source: makeviral
 - Page: https://www.makeviral.ai/templates/ai-zombie-trend
 - Markdown: https://www.makeviral.ai/templates/ai-zombie-trend.md
-- Updated: 2026-10-13 · Published: 2026-10-08 · Scraped: 2026-10-17
+- Updated: 2026-10-13 · Published: 2026-10-08
 - Local: [`makeviral/ai-zombie-trend/PROMPTS.md`](makeviral/ai-zombie-trend/PROMPTS.md)
 
 ### 1. The video prompt is filled in. Settings: Seedance 2.5, 10 s, 720p, 9:16, sound on. The video prompt
@@ -5195,10 +5123,9 @@ A cinematic, emotional scene from a zombie apocalypse film, in two shots. Keep t
 
 ## Rumpelstiltskin AI: Make the Tip Toe Dance With Your Face
 
-- Source: makeviral
 - Page: https://www.makeviral.ai/templates/ai-rumpelstiltskin-dance
 - Markdown: https://www.makeviral.ai/templates/ai-rumpelstiltskin-dance.md
-- Updated: 2026-10-13 · Published: 2026-10-08 · Scraped: 2026-10-17
+- Updated: 2026-10-13 · Published: 2026-10-08
 - Local: [`makeviral/ai-rumpelstiltskin-dance/PROMPTS.md`](makeviral/ai-rumpelstiltskin-dance/PROMPTS.md)
 
 ### 1. The video prompt is filled in. Settings: Seedance 2.5, 15 s, 720p, 9:16, sound off. The video prompt
@@ -5281,10 +5208,9 @@ A strange, funny scene from a 1970s European fairy-tale film, shot on 35mm with 
 
 ## AI Dog Dancing Video: Make Your Pet Dance
 
-- Source: makeviral
 - Page: https://www.makeviral.ai/templates/ai-dancing-dog-video
 - Markdown: https://www.makeviral.ai/templates/ai-dancing-dog-video.md
-- Updated: 2026-10-12 · Published: 2026-09-30 · Scraped: 2026-10-17
+- Updated: 2026-10-12 · Published: 2026-09-30
 - Local: [`makeviral/ai-dancing-dog-video/PROMPTS.md`](makeviral/ai-dancing-dog-video/PROMPTS.md)
 
 ### 1. Open [AI Photo with this template](https://www.makeviral.ai/photo?template=ai-dancing-dog-video) and add your photo (your pet, whole body). The photo prompt is filled in — Pet
@@ -5303,10 +5229,9 @@ The pet stands upright in its home and does a happy, bouncy dance: side steps, p
 
 ## AI Ceiling Fan Trend: Change Your Outfit on Every Blade Pass
 
-- Source: makeviral
 - Page: https://www.makeviral.ai/templates/ai-ceiling-fan-trend
 - Markdown: https://www.makeviral.ai/templates/ai-ceiling-fan-trend.md
-- Updated: 2026-10-12 · Published: 2026-10-08 · Scraped: 2026-10-17
+- Updated: 2026-10-12 · Published: 2026-10-08
 - Local: [`makeviral/ai-ceiling-fan-trend/PROMPTS.md`](makeviral/ai-ceiling-fan-trend/PROMPTS.md)
 
 ### 1. The video prompt is filled in. Settings: genjutsu-motion, 13 s, 480p, 9:16, sound off. The video prompt
@@ -5331,10 +5256,9 @@ Replace the young woman with long chestnut-brown hair who lies on her back on th
 
 ## AI Crying Video: Make the Tears Effect From One Photo
 
-- Source: makeviral
 - Page: https://www.makeviral.ai/templates/ai-crying-video
 - Markdown: https://www.makeviral.ai/templates/ai-crying-video.md
-- Updated: 2026-10-04 · Published: 2026-09-30 · Scraped: 2026-10-17
+- Updated: 2026-10-04 · Published: 2026-09-30
 - Local: [`makeviral/ai-crying-video/PROMPTS.md`](makeviral/ai-crying-video/PROMPTS.md)
 
 ### 1. Open [AI Photo with this template](https://www.makeviral.ai/photo?template=ai-crying-video) and add your photo (a clear face photo). The photo prompt is filled in
@@ -5365,10 +5289,9 @@ A slow, emotional movie moment. Keep the person's face, hair and outfit exactly 
 
 ## Earth Zoom Out AI: From a Selfie to Space in One Shot
 
-- Source: makeviral
 - Page: https://www.makeviral.ai/templates/earth-zoom-out-ai
 - Markdown: https://www.makeviral.ai/templates/earth-zoom-out-ai.md
-- Updated: 2026-09-30 · Published: 2026-09-30 · Scraped: 2026-10-17
+- Updated: 2026-09-30 · Published: 2026-09-30
 - Local: [`makeviral/earth-zoom-out-ai/PROMPTS.md`](makeviral/earth-zoom-out-ai/PROMPTS.md)
 
 ### 1. Open [AI Photo with this template](https://www.makeviral.ai/photo?template=earth-zoom-out-ai) and add your photo (your photo). The photo prompt is filled in
@@ -5381,6 +5304,262 @@ Use the uploaded image as the base. Keep the subject's face, facial features, sk
 
 ```text
 One continuous take with no cuts. Keep the person's face exactly as in the image. The person smiles and waves up at the lens. The camera rises smoothly backward and up, the person becomes a small dot in the plaza, the whole city spreads out below, then the coast and mountains, clouds slide past, the horizon curves, and the camera breaks into black space with the whole blue Earth hanging among the stars. Audio: plaza ambience, rising wind, a deep cinematic swell, then near silence. No text, no logos.
+```
+
+---
+
+## Media.io
+
+## Under the Fan AI Video
+
+- Page: https://www.media.io/ai/explore/zone/under-the-fan-ai-video
+- Updated: — · Published: —
+- Local: [`mediaio/under-the-fan-ai-video/PROMPTS.md`](mediaio/under-the-fan-ai-video/PROMPTS.md)
+
+### prompt
+
+```text
+Use the uploaded user image as the only identity reference for the main subject. Preserve the subject’s recognizable face, skin tone, hairstyle, age appearance, body proportions, and overall identity consistently throughout the video.
+Use the reference video only for the scene, perfect 90-degree top-down camera, framing, subject placement, three-blade ceiling-fan movement, pose changes, transition timing, and overall rhythm. Keep the camera completely locked with no zoom, pan, tilt, orbit, or drift. Recreate the same indoor setup: the subject lies centered on a vintage patterned rug over dark wooden flooring, with visible furniture edges, small household objects, and warm directional sunlight. Keep the environment, lighting, rug position, and framing unchanged.
+Automatically generate four clearly different outfits that suit the uploaded subject’s facial appearance, hairstyle, age impression, overall vibe, and style cues. The outfits must be visually distinct from one another, not just color variations:
+Look 1: clean casual fashion — simple top or knitwear with relaxed trousers and clean everyday shoes.
+Look 2: polished preppy look — cardigan, sweater vest, structured shirt, tailored trousers, pleated bottoms, loafers, or refined casual shoes.
+Look 3: layered streetwear — bomber, overshirt, lightweight jacket, hoodie, or layered top with wide-leg or relaxed trousers and sneakers.
+Look 4: sporty or statement fashion — coordinated zip-up, sweatshirt, track jacket, fitted or relaxed top with joggers, flared pants, or modern casual trousers.
+Adapt all silhouettes, colors, proportions, and styling naturally to the uploaded subject. Every look must feel wearable, stylish, and appropriate for the same person while remaining obviously different in silhouette, layering, texture, and fashion category.
+Use a large rotating three-blade ceiling fan very close to the camera as the transition device. Each blade sweeps across the foreground with the same direction, speed, scale, trajectory, and motion blur as the reference video. Every outfit change must happen only when a fan blade heavily or almost completely covers the subject. When the blade moves away, reveal the same person in a completely new outfit and a different relaxed pose.
+Each new pose should remain subtle: small head turns, arm repositioning, one hand near the waist or chest, reaching toward a nearby object, touching the hair, adjusting clothing, or lightly bending or crossing the legs. Keep the subject lying in approximately the same central position. Do not sit up, stand, roll over, dance, or make large movements.
+Preserve this rhythm: stable pose → subtle movement → fan wipe → new outfit + new pose → next fan wipe.
+Visual style: premium cinematic fashion lookbook, warm lifestyle photography, realistic sunlight, soft shadows, natural skin texture, detailed fabrics, subtle film grain, realistic fan motion blur, and polished editorial composition.
+The uploaded image controls identity and outfit suitability. The reference video controls scene, camera, fan movement, pose timing, and transition rhythm. No face drift, duplicated subject, body distortion, malformed hands, camera drift, changing background, fan deformation, visible clothing morphing, magical effects, subtitles, logos, or watermarks. Each fan wipe must reveal a clearly different complete outfit, not a minor variation of the previous look.
+```
+
+---
+
+## Raindance AI Trend
+
+- Page: https://www.media.io/ai/explore/zone/raindance-ai-video-generator
+- Updated: — · Published: —
+- Local: [`mediaio/raindance-ai-video-generator/PROMPTS.md`](mediaio/raindance-ai-video-generator/PROMPTS.md)
+
+### prompt
+
+```text
+Replace the original woman completely with Anna from <<<Image1>>> in every appearance, including every solo singing close-up and the final solo shot. Replace the original man completely with Kristoff from <<<Image2>>>. Preserve Anna’s recognizable face, hairstyle, body proportions, and outfit, and Kristoff’s blond hair, broad build, facial features, clothing, and accessories. Replace both original performers’ complete appearances with the uploaded character designs. Create gentle affectionate glances while preserving the reference video’s actions, singing expressions, camera movements, timing, and scenery. Keep their original animation style, identities, and outfits consistent across all shots.
+```
+
+---
+
+## Polar Bear 2026 AI Video
+
+- Page: https://www.media.io/ai/explore/zone/polar-bear-2026-ai-video
+- Updated: — · Published: —
+- Local: [`mediaio/polar-bear-2026-ai-video/PROMPTS.md`](mediaio/polar-bear-2026-ai-video/PROMPTS.md)
+
+### prompt
+
+```text
+Begin with the polar bear standing motionless in the background. Wind slowly lifts and flips the calendar pages in the foreground while snow moves across the ground. The bear gradually turns its head toward the camera. Slowly push the camera forward. Keep the scene realistic, mysterious and restrained, with no sudden transformation or extra objects.
+```
+
+---
+
+## Parking Lot Vibe AI Video Trend
+
+- Page: https://www.media.io/ai/explore/zone/parking-lot-vibe-ai-video
+- Updated: — · Published: —
+- Local: [`mediaio/parking-lot-vibe-ai-video/PROMPTS.md`](mediaio/parking-lot-vibe-ai-video/PROMPTS.md)
+
+### prompt
+
+```text
+Recreate <<<Video1>>>using exactly three featured people. Use <<<Image1>>> for the opening male performer, <<<Image3>>>for the female performer, and <<<Image2>>>for the third person appearing in the reference video. Map each photo to its corresponding person and maintain that identity throughout every shot. Never merge faces, swap identities, duplicate a person, or omit the third person.Use <<<Video1>>> as the guide for the original choreography, gestures, expressions, shot sequence, screen positions, and handheld camera movement. Each person must appear at the same moments and in the same position as their counterpart in the reference. Keep people off-screen when the original framing does not show them; do not force all three into every shot.Preserve the roadside gas-station parking lot at golden hour, the stationary silver sedan, the dark SUV, and the warm sunset background.Follow the original sequence: the opening man performs casual rhythmic steps and raised-hand gestures; the camera swings toward the parked cars; the woman appears near the silver sedan, followed by her facial close-up and wider shots between the cars; the camera returns to the man for the ending. Preserve the third person's presence, movements, interactions, and background or foreground placement exactly where they occur in @video1.Keep each person's facial features, hairstyle, skin tone, and body proportions consistent with their reference photo. Retain the corresponding outfit from the source video, including the opening man's dark shirt and sunglasses and the woman's yellow-green traditional outfit. Preserve natural fabric movement, hair movement, hand gestures, and foot contact with the ground.Match the reference video's duration, cuts, handheld shake, slight camera tilts, and candid social-video energy. Output vertical 9:16. Keep the cars stationary and their shapes stable. No additional featured people, no missing person, no invented group choreography, no distorted hands or limbs, and no text overlays.
+```
+
+---
+
+## OOUUH AI Kitchen Duet
+
+- Page: https://www.media.io/ai/explore/zone/oouuh-ai-kitchen-duet
+- Updated: — · Published: —
+- Local: [`mediaio/oouuh-ai-kitchen-duet/PROMPTS.md`](mediaio/oouuh-ai-kitchen-duet/PROMPTS.md)
+
+### prompt
+
+```text
+STRICT DUAL ANIMAL CHARACTER REPLACEMENT
+Replace ONLY the two animal characters in the original video:
+- Replace the LEFT golden retriever holding the small guitar with @图片1.
+- Replace the RIGHT golden retriever without the instrument, standing and moving beside it, with @图片2.
+@图片1 and @图片2 are DIRECT REPLACEMENT SOURCES.
+Use @图片1 to completely replace the left-side golden retriever holding the guitar / ukulele in EVERY visible frame.
+Use @图片2 to completely replace the right-side golden retriever that does not hold the instrument in EVERY visible frame.
+Preserve each uploaded animal’s exact recognizable identity, species, breed/type, face, fur pattern, fur color, ears, eyes, muzzle, body proportions, anatomy, texture, and overall appearance.
+Do NOT blend @图片1 with the original left-side dog.
+Do NOT blend @图片2 with the original right-side dog.
+Do NOT swap the two replacement identities.
+The replacement animal from @图片1 must inherit the original LEFT guitar-holding dog’s:
+- exact screen position
+- relative scale in frame
+- body orientation
+- head direction
+- facial / behavioral expression timing
+- body and limb movements
+- guitar / ukulele holding action
+- paw and body interaction with the instrument
+- movement timing and trajectory
+- interaction with @图片2
+- interaction with the environment
+The replacement animal from @图片2 must inherit the original RIGHT dog’s:
+- exact screen position
+- relative scale in frame
+- body orientation
+- head direction
+- facial / behavioral expression timing
+- body and limb movements
+- standing and rhythmic movement
+- movement timing and trajectory
+- interaction with @图片1
+- interaction with the environment
+Both replacement animals must follow the original dogs’ actions naturally and accurately throughout the ENTIRE video.
+Preserve the uploaded animals’ own anatomy and body proportions while transferring the original motion, action timing, rhythm, trajectory, and interaction.
+Preserve EVERYTHING ELSE from the original video exactly:
+- camera movement
+- framing and composition
+- lighting and shadows
+- background and environment
+- timing and duration
+- guitar / ukulele
+- objects and props
+- depth of field
+- motion blur
+Do NOT alter the background.
+Do NOT alter the camera.
+Do NOT change the original action choreography.
+Do NOT add extra animals or people.
+IMPORTANT:
+LEFT dog holding the guitar / ukulele → @图片1
+RIGHT dog without the instrument → @图片2
+@图片1 must always remain the guitar-holding character.
+@图片2 must always remain the right-side non-instrument character.
+Everything else must remain identical to the original video.
+```
+
+---
+
+## NFL AI Fan
+
+- Page: https://www.media.io/ai/explore/zone/nfl-ai-fan-cam-generator
+- Updated: — · Published: —
+- Local: [`mediaio/nfl-ai-fan-cam-generator/PROMPTS.md`](mediaio/nfl-ai-fan-cam-generator/PROMPTS.md)
+
+### prompt
+
+```text
+Animate the stadium fan-cam image into a realistic jumbotron reaction sequence.
+
+The subject looks toward the field, then notices people nearby pointing upward. They look toward the giant stadium screen, realize their face is being shown on the jumbotron, laugh in surprise, wave enthusiastically, and briefly point toward themselves.
+
+Fans sitting around them smile, clap, point toward the screen, and react naturally.
+
+The giant LED screen should continue displaying the same subject with synchronized but slightly delayed live-video behavior.
+
+Preserve the subject's exact facial identity.
+
+Natural stadium lighting, real crowd motion, subtle handheld broadcast camera shake, authentic live-event timing.
+
+Duration: 6 seconds.
+```
+
+---
+
+## Navratri Metro Nine Forms AI Video
+
+- Page: https://www.media.io/ai/explore/zone/navratri-metro-nine-forms-ai-video
+- Updated: — · Published: —
+- Local: [`mediaio/navratri-metro-nine-forms-ai-video/PROMPTS.md`](mediaio/navratri-metro-nine-forms-ai-video/PROMPTS.md)
+
+### prompt
+
+```text
+Create a 15-second ultra-photorealistic, Hollywood-level cinematic video with premium film production quality and authentic documentary-style realism.
+Use the uploaded user image as the only appearance reference for the main character. Preserve the subject’s recognizable facial features, hairstyle, skin tone, body proportions, and identity throughout the video. The character maintains a happy, excited, joyful, and naturally amazed expression throughout the experience.
+
+CHARACTER POSITION AND GAZE:
+The character sits naturally beside the metro window, with their body and head turned sideways toward the window. Maintain a clear side-profile or three-quarter side-profile view of the character, allowing both the character's facial expressions and the changing world outside the window to remain visible. The character continuously looks outside, attentively watching the spectacular transformations of the passing landscapes. Their eyes naturally follow the changing scenery, with subtle head movements and joyful expressions. The character never turns toward or looks directly at the camera.
+
+For the first 3 seconds, the character sits beside the window inside a fast-moving metro train, looking sideways through the glass at a normal, motion-blurred dark metro tunnel with a curious and happy expression.
+
+Suddenly, the metro accelerates forward with an explosive burst of speed, creating a spectacular near-light-speed visual effect. The entire scenery outside the window stretches into intense luminous streaks, resembling a cinematic hyperspace tunnel. At the exact moment of acceleration, the character's head, shoulders, and upper body naturally lean backward due to inertia, while their face remains oriented toward the window with an excited, joyful expression.
+
+As the metro rapidly decelerates, the light-speed streaks gradually disappear. The character smoothly returns to an upright seated posture, keeping their head turned sideways and eyes focused outside the window, smiling happily as the first breathtaking divine landscape becomes clearly visible.
+
+Immediately after the first landscape appears, the metro suddenly accelerates again at near-light-speed. The character is pushed backward into the seat again by inertia while still looking toward the window. The visible landscape instantly stretches into powerful streaming light trails, creating a spectacular cinematic hyperspace transition.
+
+As the metro slows down again, the light trails gradually dissolve, revealing the next magnificent divine landscape. The character naturally returns to an upright seated position, watching the changing world outside with a joyful smile and genuine amazement.
+
+Repeat this continuous cycle throughout the video: divine landscape appears → character watches outside happily → immediate explosive acceleration → character leans backward while facing the window → intense light-speed tunnel transition → rapid deceleration → character returns upright and watches the next landscape → immediate acceleration again.
+
+Every time a new landscape becomes visible, the metro must immediately accelerate again, triggering another synchronized backward body reaction and luminous high-speed transition. Maintain a rapid, rhythmic sequence without long pauses between landscapes.
+
+The changing landscapes feature majestic forms of Goddess Durga: a goddess riding a white bull through snowy Himalayan mountains, a powerful goddess riding a roaring lion in a golden landscape, a spectacular mystical waterfall, and a radiant goddess seated on a glowing pink lotus.
+
+CAMERA AND COMPOSITION:
+Maintain a consistent cinematic side-angle camera perspective from inside the metro, framing the character in the foreground and the large train window beside them. The character's side profile and the extraordinary landscapes outside must remain clearly visible within the same composition. Use natural documentary-style observational cinematography, subtle handheld vibrations, and realistic environmental depth. The camera observes the character watching the outside world rather than positioning the character to face the lens.
+
+Maintain the same metro interior, character position, and camera perspective throughout. All landscape transitions must occur outside the train window through extreme forward acceleration, intense directional light streaks, and natural deceleration, without abrupt cuts.
+
+CINEMATIC VISUAL QUALITY:
+Shot with the visual characteristics of an ARRI ALEXA 35 cinema camera and premium anamorphic lenses, with subtle Kodak Vision3 5219 film characteristics. Authentic cinematic dynamic range, natural skin texture, realistic happy facial expressions, physically accurate lighting, soft highlight roll-off, deep yet detailed shadows, subtle organic film grain, controlled contrast, and sophisticated cinematic color grading.
+
+Use realistic global illumination, natural volumetric light, physically accurate window reflections, atmospheric depth, and seamless integration of high-end VFX with live-action photography. Cinematic golden light dynamically illuminates the character's side profile, smiling face, clothing, and train interior with believable exposure changes.
+
+Apply realistic shutter-based motion blur during every acceleration, subtle handheld camera vibrations, natural depth of field, realistic environmental parallax, and physically convincing speed ramping. Each sudden acceleration must produce a clearly visible backward body movement synchronized with the near-light-speed visual effect.
+
+AUDIO:
+Use an energetic, festive Navratri-style Indian pop song as the background music, with vibrant traditional rhythmic elements, celebratory mood, and modern popular Indian musical styling. The music should enhance the joyful festival atmosphere and match the rhythm of the metro’s acceleration, deceleration, and scene transitions.
+
+The final result should feel like a scene from a high-budget cinematic fantasy film, captured with a real cinema camera rather than an AI-generated animation. Avoid artificial CGI appearance, plastic skin, excessive sharpening, exaggerated glow, unnatural body movements, frightened expressions, direct eye contact with the camera, frontal-facing poses, long pauses between scenes, and overly stylized transitions.
+
+Preserve photorealism, joyful character expressions, continuous sideways gaze toward the changing world outside the window, rhythmic acceleration, synchronized body inertia, and consistent character identity throughout the entire video.
+```
+
+---
+
+## Gang Gang Dance
+
+- Page: https://www.media.io/ai/explore/zone/gang-gang-dance-ai-video
+- Updated: — · Published: —
+- Local: [`mediaio/gang-gang-dance-ai-video/PROMPTS.md`](mediaio/gang-gang-dance-ai-video/PROMPTS.md)
+
+### prompt
+
+```text
+Use the uploaded character image as the only identity reference for the main performer. Preserve the subject’s recognizable face, skin tone, hairstyle, body proportions, clothing characteristics, and overall identity consistently throughout the video.
+Use the uploaded reference video as the only reference for the scene, camera position, framing, body movement, gesture sequence, performance rhythm, spatial blocking, and timing. Do not copy the original performer’s identity; transfer only the reference video’s scene, pose, motion, choreography, interaction, framing, and timing.
+Create an approximately 15-second cinematic stage-performance video. Reproduce the same dark indoor theater environment with a glossy black stage floor, deep black background, subtle blue stage lighting, surrounding seated audience, and the same intimate live-performance atmosphere. Keep the main performer centered in the foreground, with the secondary performer remaining behind them in the same relative position as the reference.
+Maintain a mostly fixed audience-level wide camera. Do not add new locations, extra cuts, dramatic camera moves, dolly-ins, orbit shots, or unrelated close-ups.
+Strictly follow the reference performer’s motion and timing. Begin with a slightly forward-leaning posture, bent knees, and both arms reaching downward and forward. Continue with alternating arm extensions, wrist and hand movements, small steps, subtle weight shifts, shoulder movement, and gradual transitions between crouched and upright posture.
+As the performance develops, the protagonist straightens, lowers the arms, briefly pauses, then lifts the head and looks upward. In the second half, increase movement intensity according to the reference: side-to-side weight shifts, torso leans, arm swings, crossed-arm gestures, outward arm extensions, upper-body twists, and more expressive head and torso movement.
+Near the ending, reproduce the faster head and upper-body motion, followed by the final confident pose with one arm raised and the other near the waist or hip. Preserve the same progression from restrained movement to more expressive theatrical performance.
+All motion must remain physically believable, with realistic balance, floor contact, joint movement, hand anatomy, torso rotation, and weight transfer. Do not invent new choreography or random dance moves.
+The reference video controls scene, pose, motion trajectory, gesture timing, performance rhythm, spatial blocking, camera, and duration. The uploaded image controls only the performer’s identity.
+Visual style: cinematic live theater photography, deep blacks, cool blue rim lighting, realistic skin and fabric texture, subtle stage reflections, natural motion blur, controlled highlights, atmospheric depth, ARRI Alexa 35 aesthetic, restrained saturation, and subtle film grain.
+Maintain strict identity consistency. No face drift, identity blending, duplicated protagonist, random costume changes, malformed hands, extra limbs, floating feet, incorrect floor contact, changing stage environment, unnecessary subtitles, logos, watermarks, or unrelated effects. The final result should feel like the uploaded character performed the same routine in the same theater, with the same scene, movements, pauses, rhythm, and framing as the reference video.
+```
+
+---
+
+## AI Car Video Generator
+
+- Page: https://www.media.io/ai/explore/zone/ai-car-video-generator
+- Updated: — · Published: —
+- Local: [`mediaio/ai-car-video-generator/PROMPTS.md`](mediaio/ai-car-video-generator/PROMPTS.md)
+
+### prompt
+
+```text
+STRICT MAIN CHARACTER + VEHICLE REPLACEMENT — VIDEO EDITING Replace ONLY the main character in the center of the original video with the person from @图片1, and replace the original car with a DIFFERENT globally famous real-world car. Use @图片1 strictly as the identity reference. Preserve @图片1’s exact face, facial identity, hairstyle, hair color, gender, and recognizable features. Do NOT blend @图片1’s face with the original character’s face. The replacement character must inherit the original main character’s exact: * position and body placement * scale and proportions * pose and posture * facial expressions * movement timing and trajectory * interaction with the environment Keep the black glasses. The replacement character must naturally and accurately follow the original character’s movements throughout the ENTIRE video. The replaced character continues holding the cigarette exactly as in the original video. VEHICLE REPLACEMENT: Replace the original car with ONE different, extremely famous real-world automotive brand and vehicle. Randomly select the vehicle category each generation, such as luxury sedan, sports car, supercar, SUV, off-road vehicle, coupe, or premium executive car. Use only globally recognizable automotive brands such as Mercedes-Benz, BMW, Audi, Porsche, Ferrari, Lamborghini, Bentley, Rolls-Royce, Range Rover, Toyota, or other similarly famous brands. The selected car must look like a real production vehicle from that brand, with recognizable brand design language, realistic body proportions, materials, paint, windows, wheels, headlights, interior, and reflections. The new vehicle must inherit the original car’s exact: * position * scale * orientation * movement * speed * trajectory * interaction with the character * camera relationship * perspective * lighting and shadows Do NOT randomly change the car during the video. Select ONE famous car at the beginning and keep the exact same vehicle consistent throughout the entire video. Preserve EVERYTHING ELSE from the original video exactly: * camera movement * zoom-out and camera motion * framing and composition * lighting and shadows * background * environment * timing and duration * objects and props * all surrounding/background people ALL surrounding/background people must remain completely unchanged. Preserve their original faces, identities, hairstyles, hair colors, outfits, positions, poses, and movements. Do NOT replace, modify, distort, remove, or add any background characters. Do NOT alter the background. Do NOT alter the camera. Do NOT alter the composition. Do NOT change the main character’s pose or actions. Do NOT create additional people. Do NOT change the number of people in the scene. IMPORTANT: ONLY replace the central main character with @图片1 AND replace the original vehicle with ONE randomly selected globally famous car of a random vehicle category. Everything else must remain identical to the original video.
 ```
 
 ---

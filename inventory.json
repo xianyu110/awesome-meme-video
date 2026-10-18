@@ -1,16 +1,23 @@
 {
-  "generated_at": "2026-10-17",
-  "generated_at_iso": "2026-10-17T22:46:34+08:00",
+  "generated_at": "2026-10-18",
+  "generated_at_iso": "2026-10-18T12:07:09+08:00",
   "sorted_by": "updated || published || scraped_at (newest first); Asia/Shanghai scrape clock",
   "sources": {
     "makeviral": {
       "listing": "https://www.makeviral.ai/templates",
-      "count": 129,
-      "with_prompts": 129,
-      "total_prompt_blocks": 299,
-      "total_demo_videos": 208,
+      "count": 135,
+      "with_prompts": 135,
+      "total_prompt_blocks": 313,
+      "total_demo_videos": 216,
       "sync": {
-        "added": [],
+        "added": [
+          "ai-celebrity-autograph-signing",
+          "ai-crochet-doll-filter",
+          "ai-electric-shock-pet-prank",
+          "ai-high-altitude-trampoline",
+          "gemini-rain-ai-effect",
+          "shan-shen-bu-ai-dance"
+        ],
         "updated": [],
         "failed": []
       }
@@ -390,6 +397,52 @@
       ],
       "prompt_count": 2,
       "scraped_at": "2026-10-17"
+    },
+    {
+      "source": "makeviral",
+      "source_site": "https://www.makeviral.ai",
+      "slug": "shan-shen-bu-ai-dance",
+      "name": "Shan Shen Bu AI Dance: Do the Flash Step From One Photo",
+      "url": "https://www.makeviral.ai/templates/shan-shen-bu-ai-dance",
+      "markdown_url": "https://www.makeviral.ai/templates/shan-shen-bu-ai-dance.md",
+      "blurb": "Shan shen bu (闪身步, also written 閃身步 or shanshenbu) is the \"flash step\": a sudden sideways dodge from a Chinese folk dance teaching video that became the meme of autumn 2026.",
+      "updated": "2026-10-17",
+      "published": "2026-10-17",
+      "credits": 52,
+      "demo_videos": [
+        "https://www.makeviral.ai/media/templates/shan-shen-bu-ai-dance/original-pet-v2.mp4",
+        "https://www.makeviral.ai/media/templates/shan-shen-bu-ai-dance/original-shrimp-v2.mp4"
+      ],
+      "posters": [
+        "https://www.makeviral.ai/media/templates/shan-shen-bu-ai-dance/original-pet-v1.jpg",
+        "https://www.makeviral.ai/media/templates/shan-shen-bu-ai-dance/original-shrimp-v1.jpg"
+      ],
+      "prompts": [
+        {
+          "label": "1. The video prompt is filled in. Settings: kling-3-motion, 13 s, 720p, 9:16, sound off. The video prompt",
+          "variant": "Human",
+          "kind": "video_prompt",
+          "text": "Replace the character in the video with the person from the uploaded image. Keep actions, poses, facial expressions, camera movement and rhythm. Preserve the person's original facial features, maintain character consistency, no distortion, no glitches, no artifacts.\nThe person dances in the place from the uploaded image, in the clothes from the uploaded image, not the black hoodie, the black cap, the black wide trousers and the white sneakers of the dancer in the video, and keeps their own hair from the uploaded image, with the face uncovered and clearly visible: no hood, no cap and no mask unless the uploaded image shows them. Follow the dancer's moves and timing exactly, the four steps of the folk dance routine in order: first a quick spin from the back to face the camera; then the flash step, the torso snapping sideways and back while the feet step out wide, twice; then the ball kick, a knee lifted and the foot flicked out to the side with the arms swinging; then the shiver, both arms thrown up and out and the whole body shaking with small jumps; and last the head wobble, a wide low stance with the hands together at the chest while the head and shoulders roll from side to side. Keep the whole body in view from the head to the feet, with natural balance. Exactly one person, no other people. One continuous shot, no cuts, no text, no captions, no logos."
+        },
+        {
+          "label": "1. The video prompt is filled in. Settings: Seedance 2.5, 15 s, 720p, 9:16, sound off. The video prompt",
+          "variant": "Pet",
+          "kind": "video_prompt",
+          "text": "Character replacement on [Video 1]. Recreate the reference video [Video 1] shot for shot: the same paved courtyard in front of an old wooden house with a red-edged tiled roof, potted plants by the wall and warm low sunlight, the same low handheld camera, the same framing, timing and moves, one continuous take that ends on a close-up. The ONLY change: the fluffy white cat with green eyes who dances upright is now the pet in [Image 1].\n\nThe dancer = the pet in [Image 1], in every frame, also in the close-up at the end: the same species and breed, head shape, muzzle, eyes, ears, fur colors, fur length, markings and body shape as in [Image 1], with the natural body volume and proportions of that animal: never flattened, squashed, stretched or merged with anything, so its owner instantly recognizes it from the first second to the last. It stands upright on its hind legs like a person while it dances. Never drift back to the cat of the original video: no fluffy white coat, no round flat face and no green eyes unless [Image 1] shows them. It wears nothing: its own fur from head to toe. If [Image 1] shows a dog or another animal, that animal stands in the same place with the same moves, with its own ears and muzzle.\n\nThe pet copies the white cat's moves, a folk dance flash step routine, with the same timing. Matching the reference second by second:\n0-2 s: close to the camera, it steps back on its hind legs with a swing of the tail.\n2-5 s: it stands upright in the middle of the courtyard, front paws loose at its sides, sways, then a quick flash step: the body snaps sideways and back while the feet stay planted.\n5-7.5 s: a light brown dog walks past behind it; it twists sideways and kicks one hind leg out to the side, twice, the tail flicking.\n7.5-10 s: front paws up high, the whole body shakes, then a jump with the paws out wide.\n10-13 s: a small hamster runs in on the ground; the pet swings a paw out and jumps again.\n13-14 s: it drops onto all four legs behind the hamster.\n14-15 s: the camera comes in to a close-up of the pet's face, staring into the lens with wide eyes.\n\nThe pet keeps real animal anatomy: furry front legs ending in round paws covered in its own fur, never human hands, no fingers. One head only, two hind legs and two front legs, no extra legs or paws. The light brown dog and the hamster stay as they are in the video and never take the pet's look. No people. Add no other text or logos. Photorealistic, identity consistent for the whole clip."
+        }
+      ],
+      "variant_headings": [
+        "What the Shan Shen Bu Dance video looks like",
+        "How to make the Shan Shen Bu Dance video on MakeViral",
+        "Which photo works best?",
+        "What happens in the Shan Shen Bu AI dance video?",
+        "How do I make a Shan Shen Bu AI video of myself?",
+        "How long is the video and what format is it?",
+        "Other AI video templates and tools",
+        "Make your own Shan Shen Bu Dance video"
+      ],
+      "prompt_count": 2,
+      "scraped_at": "2026-10-18"
     },
     {
       "source": "remakeyourmeme",
@@ -1154,6 +1207,62 @@
       "scraped_at": "2026-10-17",
       "published": null,
       "updated": null
+    },
+    {
+      "source": "makeviral",
+      "source_site": "https://www.makeviral.ai",
+      "slug": "gemini-rain-ai-effect",
+      "name": "Gemini Rain AI Effect: Put Yourself, or the Two of You, in Cinematic Rain",
+      "url": "https://www.makeviral.ai/templates/gemini-rain-ai-effect",
+      "markdown_url": "https://www.makeviral.ai/templates/gemini-rain-ai-effect.md",
+      "blurb": "Gemini rain is the AI rain effect that turns a normal photo into a cinematic night-rain shot: soaked hair, water drops on your face, soft blue light, your eyes closed and your face lifted to the sky.",
+      "updated": "2026-10-17",
+      "published": "2026-10-17",
+      "credits": 126,
+      "demo_videos": [
+        "https://www.makeviral.ai/media/templates/gemini-rain-ai-effect/original-main-v2.mp4",
+        "https://www.makeviral.ai/media/templates/gemini-rain-ai-effect/original-solo-v2.mp4"
+      ],
+      "posters": [
+        "https://www.makeviral.ai/media/templates/gemini-rain-ai-effect/original-main-v1.jpg",
+        "https://www.makeviral.ai/media/templates/gemini-rain-ai-effect/original-solo-v1.jpg"
+      ],
+      "prompts": [
+        {
+          "label": "1. The video prompt is filled in. Settings: Seedance 2.5, 10 s, 720p, 9:16, sound on. The video prompt",
+          "variant": null,
+          "kind": "video_prompt",
+          "text": "Ultra-realistic portrait photography: On a deep blue rainy night, the one in [Image 2] leans into the arms of the one in [Image 1], eyes closed, cheek against their chest, while the one in [Image 1] holds them close and rests the chin on their head. Rain runs down their hair, face and neck, soaking their clothes. The background is a blurred, cool-toned rainy night, filled with a moist atmosphere and a lazy, mellow mood. The lighting is delicate, with transparent water-droplet texture, featuring a cinematic blue tone. 8K resolution, 9:16 aspect ratio.\n\nThe one who holds is the person in [Image 1], in every frame: copy the exact face from [Image 1] (the face shape, eye color and eye shape, eyebrows, nose, mouth, skin tone, age, hair color, hair length and hairstyle, and any beard, moustache, glasses or freckles). The one who leans in is the person in [Image 2], in every frame: copy the exact face from [Image 2] (the face shape, eye color and eye shape, eyebrows, nose, mouth, skin tone, age, hair color, hair length and hairstyle, and any beard, moustache, glasses or freckles). Never blend their faces and never swap them. Each face stays the same from the first frame to the last, so their friends recognize them at once. Each keeps the hair color and length from their own photo, only wet, and the clothes from their own photo, darkened by the rain, fully clothed and never see-through. Both are adults. If an image shows an animal, that one is the animal with its own face, fur and markings, not a person.\n\nOne slow-motion film take at night on a wet cobblestone street under glowing streetlights, heavy rain in long silver streaks, puddles that mirror the lights. Vertical 9:16, both faces large and sharp.\n0-3 s: the two run toward the camera hand in hand through the pouring rain, laughing, wet hair flying, splashes at their feet.\n3-6 s: they stop; the one in [Image 1] pulls the other into a tight hug and they turn slowly once on the spot; raindrops burst off their shoulders.\n6-10 s: a close shot from the chest up: the one in [Image 2] leans into the arms of the one in [Image 1], eyes closed, cheek on their chest; the one in [Image 1] rests the chin on their head and smiles softly; then they rest their foreheads together for a moment, rain running down their faces. The camera circles slowly. A few raindrops land on the lens.\n\nSound: heavy rain, splashing footsteps, soft distant thunder, one slow romantic piano melody. No speech.\nTender and romantic, never sexual: no kiss on the mouth, no body focus. Exactly two people. No umbrella. No text, no subtitles, no logos, no watermark."
+        },
+        {
+          "label": "1. The video prompt is filled in. Settings: Seedance 2.5, 8 s, 720p, 9:16, sound on. The video prompt",
+          "variant": null,
+          "kind": "video_prompt",
+          "text": "A cinematic portrait of the person in [Image 1] standing in the rain, their eyes closed and face lifted peacefully towards the sky. Their hair is wet, with delicate water droplets glistening on their skin. Blue light reflects softly on their face, creating a dramatic and emotional atmosphere. High detail, 4K resolution, studio lighting, artistic rain photoshoot style.\n\nThe person is the one in [Image 1], in every frame: copy the exact face from [Image 1] (the face shape, eye color and eye shape, eyebrows, nose, mouth, skin tone, age, hair color, hair length and hairstyle, and any beard, moustache, glasses or freckles), so their friends recognize them at once. The face stays the same from the first frame to the last; never morph. The hair keeps the color, length and style from [Image 1], only wet. They wear the clothes from [Image 1], darkened by the rain, fully clothed and never see-through. If [Image 1] shows an animal, it is that animal sitting in the rain with its own face, fur and markings, not a person.\n\nOne continuous slow-motion shot at night, vertical 9:16, a medium close-up from the chest up, the face large and sharp, a dark background with soft blue bokeh. Heavy rain falls in long silver streaks.\n0-2 s: the person looks straight into the camera with a calm, soft face, drops running down the cheeks.\n2-6 s: they slowly lift the face towards the sky and close the eyes, at peace; rain hits the forehead and cheeks and runs down the neck; wet strands of hair cling to the face; the camera pushes in very slowly.\n6-8 s: they lower the chin, open the eyes and look back into the lens with a small, soft smile. A few raindrops land on the lens.\n\nSound: heavy rain, soft distant thunder, one slow piano melody. No speech.\nExactly one person. No umbrella. No text, no subtitles, no logos, no watermark."
+        },
+        {
+          "label": null,
+          "variant": null,
+          "kind": "prompt",
+          "text": "Use the uploaded image as the base. A cinematic portrait of the person from the uploaded image standing in the rain, their eyes closed and face lifted slightly towards the sky, turned three-quarters to the camera, the whole face in view. Their hair is wet, with delicate water droplets glistening on their skin. Blue light reflects softly on their face, creating a dramatic and emotional atmosphere. High detail, 4K resolution, studio lighting, artistic rain photoshoot style. Vertical 9:16 photo from the chest up, a dark background with heavy rain in long silver streaks. They wear the clothes from the uploaded image, darkened by the rain, fully clothed and never see-through. Exactly one person. No umbrella, no text, no logos, no watermark."
+        }
+      ],
+      "variant_headings": [
+        "What the Gemini Rain AI video looks like",
+        "How to make the Gemini Rain AI video on MakeViral",
+        "Which photo works best?",
+        "How do I make the Gemini rain AI effect with my photo?",
+        "Can I make a couple in the rain video with two photos?",
+        "Can I get just a photo, without the video?",
+        "How do I put an AI rain effect on a photo?",
+        "How long is the video and what format is it?",
+        "Is it a real photo shoot in the rain?",
+        "Can I use a photo of someone else?",
+        "Other AI video templates and tools",
+        "Make your own Gemini Rain AI video"
+      ],
+      "prompt_count": 3,
+      "scraped_at": "2026-10-18"
     },
     {
       "source": "makeviral",
@@ -1969,6 +2078,60 @@
       "updated": null
     },
     {
+      "source": "makeviral",
+      "source_site": "https://www.makeviral.ai",
+      "slug": "ai-high-altitude-trampoline",
+      "name": "High Altitude Trampoline AI Video: Leap, Bounce, Fly Back Up",
+      "url": "https://www.makeviral.ai/templates/ai-high-altitude-trampoline",
+      "markdown_url": "https://www.makeviral.ai/templates/ai-high-altitude-trampoline.md",
+      "blurb": "The high altitude trampoline trend is an AI video stunt: you jump from a cliff, a helicopter or a rooftop, hit a small trampoline far below, and the bounce throws you all the way back up to where you started.",
+      "updated": "2026-10-17",
+      "published": "2026-10-17",
+      "credits": 126,
+      "demo_videos": [
+        "https://www.makeviral.ai/media/templates/ai-high-altitude-trampoline/original-main-v2.mp4"
+      ],
+      "posters": [
+        "https://www.makeviral.ai/media/templates/ai-high-altitude-trampoline/original-main-v1.jpg"
+      ],
+      "prompts": [
+        {
+          "label": "1. The video prompt is filled in. Settings: Seedance 2.5, 10 s, 720p, 9:16, sound on. The video prompt",
+          "variant": null,
+          "kind": "video_prompt",
+          "text": "Duration: 10 seconds\nAspect ratio: 9:16\nReference: [Image 1], locking in the protagonist's face, hairstyle, and character design, no changing of clothes\nAudio: Realistic quarry ambient sounds, footsteps on rock, howling strong winds, low-frequency rebound of the elastic device, landing thud, friends cheering; no dialogue, no subtitles\nOverall style: Extreme sports mobile phone handheld shot, real high-altitude distance, one-shot, slight handheld shake and motion blur, reject game CG feel\n\nGLOBAL CONTINUITY\nSetting: The top of a huge old stone quarry on a misty day: a bare rock ledge at the edge of a sheer cliff, a deep turquoise lake far below.\nLower apparatus: A small round black trampoline with a blue rim floats on the lake far below, directly under the ledge.\nMain subject: [Image 1] is the sole protagonist: copy the exact face from [Image 1] (the face shape, eye color and eye shape, eyebrows, nose, mouth, skin tone, age, hair color, hair length and hairstyle, and any beard, moustache, glasses or freckles), so their friends recognize them at once; consistent throughout, never morph. If [Image 1] shows an animal, the protagonist is that animal.\nBystanders: Three to four friends stand on the ledge, filming with phones.\n\nCAMERA CONTINUITY: One-shot by a friend on the ledge with a phone, no cuts.\n\nSTUNT ENGINE: Leap off the ledge → High-altitude descent → Hit the center of the trampoline → Deep depression → Strong rebound → Feet return to the same ledge → Cheering celebration.\n\nSHOT 1 (00:00-00:10)\n00:00-00:01.50 | At the edge: The protagonist faces the camera, the lake far below, the face large and sharp, an excited grin.\n00:01.50-00:02.30 | Leap: They turn and leap off, arms spread; the filmer tilts down.\n00:02.30-00:04.80 | High-altitude descent: Almost vertically top-down, the protagonist falls fast, arms spread, accurately targeting the center of the device.\n00:04.80-00:05.50 | Hitting the center: The black elastic surface clearly caves in, then rebounds with great force, propelling the protagonist vertically upward.\n00:05.50-00:08.20 | Rebound: They rise back up the same vertical path, the camera tilting up, one tuck flip near the top.\n00:08.20-00:09.40 | Landing: Both feet land on the ledge, knees deeply bent.\n00:09.40-00:10.00 | Celebration: Friends grab and hug the protagonist, who laughs into the camera, the face large and sharp.\n\nConstraints: A professionally staged fictional extreme sports scene. The device clearly catches and rebounds the protagonist, never an unprotected fall; descent and ascent on the same vertical line, not flying or ropes.\n\nNegative: face drift, character replacement, redesign clothing, mid-cut, camera teleportation, levitation, no elastic device, wrong landing point, device breaking, distorted limbs during flips, extra arms, extra legs, duplicate characters, falling and injured, blood, game CG, subtitles, screen text, watermark, brand logo"
+        },
+        {
+          "label": "1. The video prompt is filled in. Settings: Seedance 2.5, 10 s, 720p, 9:16, sound on. The video prompt",
+          "variant": null,
+          "kind": "video_prompt",
+          "text": "Duration: 10 seconds\nAspect ratio: 9:16\nReference: [Image 1], locking in the protagonist's face, hairstyle, and character design, no changing of clothes\nAudio: Realistic helicopter rotor noise, howling strong winds, low-frequency rebound of the elastic device, landing thud, friends cheering; no dialogue, no subtitles\nOverall style: Extreme sports mobile phone handheld shot, real high-altitude distance, one-shot, slight handheld shake and motion blur, reject game CG feel\n\nGLOBAL CONTINUITY\nSetting: The open side door of a helicopter high above an old city of terracotta roofs on a sunny day, a huge ancient round stone amphitheater and a round plaza far below.\nLower apparatus: A round black trampoline in the middle of the plaza far below, directly under the helicopter.\nMain subject: [Image 1] is the sole protagonist: copy the exact face from [Image 1] (the face shape, eye color and eye shape, eyebrows, nose, mouth, skin tone, age, hair color, hair length and hairstyle, and any beard, moustache, glasses or freckles), so their friends recognize them at once; consistent throughout, never morph. If [Image 1] shows an animal, the protagonist is that animal.\nBystanders: Two or three friends sit inside the helicopter, filming with phones.\n\nCAMERA CONTINUITY: One-shot by a friend inside the helicopter with a phone, no cuts.\n\nSTUNT ENGINE: Leap out of the door → High-altitude descent → Hit the center of the trampoline → Deep depression → Strong rebound → Grab the landing skid → Cheering celebration.\n\nSHOT 1 (00:00-00:10)\n00:00-00:01.50 | At the door: The protagonist stands on the skid, looks back at the camera with an excited grin, the face large and sharp.\n00:01.50-00:02.30 | Leap: They leap out, arms spread; the filmer leans out and tilts down.\n00:02.30-00:04.80 | High-altitude descent: Almost vertically top-down, the protagonist falls fast, arms spread, accurately targeting the center of the device.\n00:04.80-00:05.50 | Hitting the center: The black elastic surface clearly caves in, then rebounds with great force, propelling the protagonist vertically upward.\n00:05.50-00:08.20 | Rebound: They fly back up the same vertical path toward the helicopter, the camera tilting up.\n00:08.20-00:09.40 | Grab: They catch the landing skid with both hands and hang on, legs swinging.\n00:09.40-00:10.00 | Celebration: Friends pull them back in; the protagonist laughs into the camera, the face large and sharp.\n\nConstraints: A professionally staged fictional extreme sports scene. The device clearly catches and rebounds the protagonist, never an unprotected fall; descent and ascent on the same vertical line, not flying or ropes.\n\nNegative: face drift, character replacement, redesign clothing, mid-cut, camera teleportation, levitation, no elastic device, wrong landing point, device breaking, distorted limbs during flips, extra arms, extra legs, duplicate characters, falling and injured, blood, game CG, subtitles, screen text, watermark, brand logo"
+        },
+        {
+          "label": "1. The video prompt is filled in. Settings: Seedance 2.5, 10 s, 720p, 9:16, sound on. The video prompt",
+          "variant": null,
+          "kind": "video_prompt",
+          "text": "Duration: 10 seconds\nAspect ratio: 9:16\nReference: [Image 1], locking in the protagonist's face, hairstyle, and character design, no changing of clothes\nAudio: Realistic urban night ambient sounds, running footsteps, howling strong winds, low-frequency rebound of the elastic device, landing thud, friends cheering; no dialogue, no subtitles\nOverall style: Extreme sports mobile phone handheld shot, real high-altitude distance, one-shot, slight handheld shake and motion blur, reject game CG feel\n\nGLOBAL CONTINUITY\nSetting: Nighttime city high-rise rooftop, green helicopter pad, low concrete parapet wall, a vertical street canyon between two high-rise buildings, vehicles and streetlights far below.\nLower apparatus: A huge circular black elastic rebound device in the middle of the street, a continuous rainbow light strip around the outer ring.\nMain subject: [Image 1] is the sole protagonist: copy the exact face from [Image 1] (the face shape, eye color and eye shape, eyebrows, nose, mouth, skin tone, age, hair color, hair length and hairstyle, and any beard, moustache, glasses or freckles), so their friends recognize them at once; consistent throughout, never morph. If [Image 1] shows an animal, the protagonist is that animal.\nBystanders: Three to four friends stand on the left side of the rooftop, filming with phones.\n\nCAMERA CONTINUITY: One-shot by a friend on the rooftop with a phone, no cuts.\n\nSTUNT ENGINE: Rooftop run-up → Leap over parapet → High-altitude descent → Hit the center of the elastic surface → Deep depression → Strong rebound → Mid-air tuck and flip → Feet return to the same rooftop → Cheering celebration.\n\nSHOT 1 (00:00-00:10)\n00:00-00:01.50 | Run-up: The protagonist glances back at the camera with an excited grin, the face large and sharp, then runs to the edge.\n00:01.50-00:02.30 | Leap: They leap over the low parapet, arms spread; the filmer rushes to the parapet and tilts down.\n00:02.30-00:04.80 | High-altitude descent: Almost vertically top-down, the protagonist falls fast, arms spread, accurately targeting the center of the device.\n00:04.80-00:05.50 | Hitting the center: The black elastic surface clearly caves in, then rebounds with great force, propelling the protagonist vertically upward.\n00:05.50-00:08.20 | Rebound and flip: They rise up the same vertical path, the camera tilting up, one tuck flip near roof height.\n00:08.20-00:09.40 | Landing: Both feet land on the green pad, knees deeply bent.\n00:09.40-00:10.00 | Celebration: The protagonist cheers into the camera, the face large and sharp; friends rush in.\n\nConstraints: A professionally staged fictional extreme sports scene. The device clearly catches and rebounds the protagonist, never an unprotected fall; descent and ascent on the same vertical line, not flying or ropes.\n\nNegative: face drift, character replacement, redesign clothing, mid-cut, camera teleportation, levitation, no elastic device, wrong landing point, device breaking, distorted limbs during flips, extra arms, extra legs, duplicate characters, falling and injured, blood, game CG, subtitles, screen text, watermark, brand logo"
+        }
+      ],
+      "variant_headings": [
+        "What the Trampoline Jump AI video looks like",
+        "How to make the Trampoline Jump AI video on MakeViral",
+        "Which photo works best?",
+        "What happens in the high altitude trampoline AI video, second by second?",
+        "How do I make a high altitude trampoline AI video with my photo?",
+        "Who made the first helicopter trampoline video?",
+        "Can I do a cliff jump AI video instead?",
+        "How long is the video and what format is it?",
+        "Can I use a photo of a child or a pet?",
+        "Is the video real?",
+        "Other AI video templates and tools",
+        "Make your own Trampoline Jump AI video"
+      ],
+      "prompt_count": 3,
+      "scraped_at": "2026-10-18"
+    },
+    {
       "source": "remakeyourmeme",
       "source_site": "https://remakeyourmeme.com",
       "slug": "ai-halloween-costume",
@@ -2128,6 +2291,52 @@
     {
       "source": "makeviral",
       "source_site": "https://www.makeviral.ai",
+      "slug": "ai-electric-shock-pet-prank",
+      "name": "Electric Shock Meme AI: You, Your Dog, Two Wires and Sooty Hair",
+      "url": "https://www.makeviral.ai/templates/ai-electric-shock-pet-prank",
+      "markdown_url": "https://www.makeviral.ai/templates/ai-electric-shock-pet-prank.md",
+      "blurb": "The electric shock meme is the AI video trend where you and your dog touch two wires, a spark flies, a puff of smoke fills the screen, and you are left with sooty faces and electrocuted hair before you both laugh.",
+      "updated": "2026-10-17",
+      "published": "2026-10-17",
+      "credits": 126,
+      "demo_videos": [
+        "https://www.makeviral.ai/media/templates/ai-electric-shock-pet-prank/original-main-v2.mp4"
+      ],
+      "posters": [
+        "https://www.makeviral.ai/media/templates/ai-electric-shock-pet-prank/original-main-v1.jpg"
+      ],
+      "prompts": [
+        {
+          "label": "1. The video prompt is filled in. Settings: Seedance 2.5, 10 s, 720p, 9:16, sound on. The video prompt",
+          "variant": null,
+          "kind": "video_prompt",
+          "text": "A funny, photorealistic electric shock prank clip, vertical 9:16, like a real phone video.\n\nThe person is the one in [Image 1], in every frame: copy the exact face from [Image 1] (the face shape, eye color and eye shape, eyebrows, nose, mouth, skin tone, age, hair color, hair length and hairstyle, and any beard, moustache, glasses or freckles), and the clothes from [Image 1], so their friends recognize them at once. Before the spark the hair is as in [Image 1].\nThe pet is the animal in [Image 2], in every frame: the same species and breed, face, eyes, ears, muzzle, fur colors, fur length and markings as in [Image 2], with the natural body volume and proportions of that animal: never flattened, squashed, stretched or merged with anything. A real animal with no clothes; it never turns into a person and the person never gets fur. If [Image 1] shows the animal and [Image 2] the person, swap the roles. The same person and the same pet from the first frame to the last; never morph.\n\nThe place: a cozy home workshop in soft daylight: a wooden workbench with a few screwdrivers, pliers and loose screws on it, a pegboard of tools and a shelf behind.\n\nShot 1, 0-2 s: a low camera at the edge of the bench, level with the faces. Behind it lean the person on the LEFT and the pet on the RIGHT, its front paws on the bench, side by side, frowning in deep concentration. The one on the LEFT pinches a loose RED wire, the one on the RIGHT holds a loose BLUE wire; they slowly bring the bare ends together.\nShot 2, 2-4.5 s: an extreme close-up of the two bare wire ends, red and blue, shiny copper strands, the workshop blurred behind; they creep closer, then TOUCH: a small bright blue-white spark and a crackle.\nShot 3, 4.5-5 s: a big puff of dark grey cartoon smoke fills the whole frame, like in an old comic.\nShot 4, 5-10 s: back to the framing of shot 1 as the smoke clears. Both sit where they were, frozen, still holding their wires, and they are fine: grey soot smudges on the cheeks and noses, a thin curl of smoke above their heads. The person's hair stands straight up in a huge frizzy, spiky crown; the pet's fur is puffed out and standing on end all over. Wide eyes, mouths open in shock. They slowly turn and look at each other, blink, then both burst out laughing: the pet opens its mouth in a big happy grin, wags its tail and gives one quick shake that puffs a little soot out of its fur. The faces stay large, sharp and turned to the camera.\n\nExactly one person and one animal. Harmless cartoon slapstick: nobody is hurt, no burns, no wounds, no pain, no fire on anyone; the soot and the wild hair are the whole joke.\n\nAudio: a quiet workshop, a sharp electric crackle and zap at the spark, a soft comic poof, a beat of stunned silence, then the laughter. No music, no words.\n\nAvoid: a wall socket, a plug, a power strip or any device the wires lead into; flames; injuries; faces changing or blending; extra people, animals, limbs or paws; morphing; text, subtitles, logos, watermarks."
+        },
+        {
+          "label": "1. The video prompt is filled in. Settings: Seedance 2.5, 10 s, 720p, 9:16, sound on. The video prompt",
+          "variant": null,
+          "kind": "video_prompt",
+          "text": "A funny, photorealistic electric shock prank clip with two friends, vertical 9:16, like a real phone video.\n\nThe friend on the LEFT is the person in [Image 1], in every frame: copy the exact face from [Image 1] (the face shape, eye color and eye shape, eyebrows, nose, mouth, skin tone, age, hair color, hair length and hairstyle, and any beard, moustache, glasses or freckles), and the clothes from [Image 1].\nThe friend on the RIGHT is the person in [Image 2], in every frame: copy the exact face from [Image 2] (the face shape, eye color and eye shape, eyebrows, nose, mouth, skin tone, age, hair color, hair length and hairstyle, and any beard, moustache, glasses or freckles), and the clothes from [Image 2].\nNever blend their faces: each face stays the same from the first frame to the last, so their friends recognize them at once. Before the spark each hairstyle is as in its photo. Both are adults. If an image shows an animal, that friend is that animal, with its own face, fur and markings, not a person.\n\nThe place: a cozy home workshop in soft daylight: a wooden workbench with a few screwdrivers, pliers and loose screws on it, a pegboard of tools and a shelf behind.\n\nShot 1, 0-2 s: a low camera at the edge of the bench, level with the faces. Behind it lean the two friends, side by side, frowning in deep concentration. The one on the LEFT pinches a loose RED wire, the one on the RIGHT holds a loose BLUE wire; they slowly bring the bare ends together.\nShot 2, 2-4.5 s: an extreme close-up of the two bare wire ends, red and blue, shiny copper strands, the workshop blurred behind; they creep closer, then TOUCH: a small bright blue-white spark and a crackle.\nShot 3, 4.5-5 s: a big puff of dark grey cartoon smoke fills the whole frame, like in an old comic.\nShot 4, 5-10 s: back to the framing of shot 1 as the smoke clears. Both sit where they were, frozen, still holding their wires, and they are fine: grey soot smudges on the cheeks and noses, a thin curl of smoke above their heads. Both have their hair standing straight up in a huge frizzy, spiky crown. Wide eyes, mouths open in shock. They slowly turn and look at each other, blink, then both burst out laughing, leaning on each other. The faces stay large, sharp and turned to the camera.\n\nExactly two people. Harmless cartoon slapstick: nobody is hurt, no burns, no wounds, no pain, no fire on anyone; the soot and the wild hair are the whole joke.\n\nAudio: a quiet workshop, a sharp electric crackle and zap at the spark, a soft comic poof, a beat of stunned silence, then the laughter. No music, no words.\n\nAvoid: a wall socket, a plug, a power strip or any device the wires lead into; flames; injuries; faces changing or blending; extra people, animals, limbs or paws; morphing; text, subtitles, logos, watermarks."
+        }
+      ],
+      "variant_headings": [
+        "What the Electric Shock Prank AI video looks like",
+        "How to make the Electric Shock Prank AI video on MakeViral",
+        "Which photo works best?",
+        "You + pet or You + friend: which electric shock video should you make?",
+        "How do I make the dog electric shock AI trend with my photo?",
+        "Does my dog get hurt in the video?",
+        "Is it an AI video of me and my dog, or a real one?",
+        "How long is the video and what format is it?",
+        "Other AI video templates and tools",
+        "Make your own Electric Shock Prank AI video"
+      ],
+      "prompt_count": 2,
+      "scraped_at": "2026-10-18"
+    },
+    {
+      "source": "makeviral",
+      "source_site": "https://www.makeviral.ai",
       "slug": "ai-dunk-trend",
       "name": "AI Dunk Trend: Dunk in a Pro Game From One Photo",
       "url": "https://www.makeviral.ai/templates/ai-dunk-trend",
@@ -2196,6 +2405,100 @@
       ],
       "prompt_count": 6,
       "scraped_at": "2026-10-17"
+    },
+    {
+      "source": "makeviral",
+      "source_site": "https://www.makeviral.ai",
+      "slug": "ai-crochet-doll-filter",
+      "name": "Crochet Filter: AI Turns Your Photo Into a Crochet Doll of You",
+      "url": "https://www.makeviral.ai/templates/ai-crochet-doll-filter",
+      "markdown_url": "https://www.makeviral.ai/templates/ai-crochet-doll-filter.md",
+      "blurb": "The crochet filter is the AI photo trend that turns one photo of you into an AI crochet doll: an amigurumi doll of yarn with your hair, clothes and pose, in a crocheted copy of the place in your photo.",
+      "updated": "2026-10-17",
+      "published": "2026-10-17",
+      "credits": 3,
+      "demo_videos": [
+        "https://www.makeviral.ai/media/templates/ai-crochet-doll-filter/original-main-v2.mp4"
+      ],
+      "posters": [
+        "https://www.makeviral.ai/media/templates/ai-crochet-doll-filter/original-main-v1.jpg"
+      ],
+      "prompts": [
+        {
+          "label": null,
+          "variant": null,
+          "kind": "prompt",
+          "text": "Turn this photo into an image in a knitted crochet style, as if the person were a doll made completely by hand with wool and yarn. Keep the facial features, the skin tone, the hair, the clothes, the pose and the background of the original photo, but make everything have a knitted texture, with visible stitches and realistic amigurumi details. Make it look sweet, pretty and very detailed, without losing the essence of the original photo. Vertical 9:16; if the photo is wider, extend the background naturally in the same knitted style. Everything is crocheted, like a real handmade amigurumi set photographed with a phone in the same light: the body, the clothes with their colors and prints, any jewelry, glasses, hat or phone, and every wall, floor, plant, piece of furniture and object of the place. Any logo, brand name or writing on the clothes or in the place becomes plain knitted fabric. Exactly one doll: nobody added, nobody removed. No text, no captions, no logos, no watermark, no frame. The face is always a crocheted amigurumi doll face made of fine yarn stitches, never a photo face: big glossy doll eyes in the eye color from the photo, with long lashes, soft blush on the cheeks, a small stitched nose and lips. The identity rules below apply to the doll's face shape, eye color, eyebrows, nose, lips, skin tone (as the yarn color), age, hairline, hair color, hair length and hairstyle (as yarn strands), facial hair, glasses, moles and freckles."
+        },
+        {
+          "label": null,
+          "variant": null,
+          "kind": "prompt",
+          "text": "Turn this photo into an image in a knitted crochet style, as if the people were dolls made completely by hand with wool and yarn. Keep the facial features, the skin tone, the hair, the clothes, the pose and the background of the original photo, but make everything have a knitted texture, with visible stitches and realistic amigurumi details. Make it look sweet, pretty and very detailed, without losing the essence of the original photo. Vertical 9:16; if the photo is wider, extend the background naturally in the same knitted style. Everything is crocheted, like a real handmade amigurumi set photographed with a phone in the same light: the body, the clothes with their colors and prints, any jewelry, glasses, hat or phone, and every wall, floor, plant, piece of furniture and object of the place. Any logo, brand name or writing on the clothes or in the place becomes plain knitted fabric. Each person becomes their own doll, in the same place, pose and order as in the photo, with their own face, skin tone, hair and clothes: never blend two people, never swap hair, glasses or clothes between them, and never add or drop a person. If the photo also shows a pet, it becomes a small crochet animal with its own fur colors. No text, no captions, no logos, no watermark, no frame. Every face is a crocheted amigurumi doll face made of fine yarn stitches, never a photo face: big glossy doll eyes in the eye color from the photo, with long lashes, soft blush on the cheeks, a small stitched nose and lips. The identity rules below apply to the doll's face shape, eye color, eyebrows, nose, lips, skin tone (as the yarn color), age, hairline, hair color, hair length and hairstyle (as yarn strands), facial hair, glasses, moles and freckles."
+        }
+      ],
+      "variant_headings": [
+        "What the Crochet Filter photo looks like",
+        "How to make the Crochet Filter photo on MakeViral",
+        "Which photo works best?",
+        "Can I turn my photo into a crochet version of me, or of yourself?",
+        "Is there a crochet photo filter for my whole group or my pet?",
+        "Can I make it a video?",
+        "Can I use a photo of my friend?",
+        "Is my photo private?",
+        "Other AI video templates and tools",
+        "Make your own Crochet Filter photo"
+      ],
+      "prompt_count": 2,
+      "scraped_at": "2026-10-18"
+    },
+    {
+      "source": "makeviral",
+      "source_site": "https://www.makeviral.ai",
+      "slug": "ai-celebrity-autograph-signing",
+      "name": "Celebrity Signature Filter: Sign Autographs for Your Fans with AI",
+      "url": "https://www.makeviral.ai/templates/ai-celebrity-autograph-signing",
+      "markdown_url": "https://www.makeviral.ai/templates/ai-celebrity-autograph-signing.md",
+      "blurb": "The celebrity signature filter is the AI autograph trend where you become the star: fans with phones crowd around, flashes go off, and you sign autographs for them, at a signing table under a giant poster of yourself or outside a hotel at night.",
+      "updated": "2026-10-17",
+      "published": "2026-10-17",
+      "credits": 126,
+      "demo_videos": [
+        "https://www.makeviral.ai/media/templates/ai-celebrity-autograph-signing/original-entrance-v2.mp4"
+      ],
+      "posters": [
+        "https://www.makeviral.ai/media/templates/ai-celebrity-autograph-signing/original-entrance-v1.jpg"
+      ],
+      "prompts": [
+        {
+          "label": "1. The video prompt is filled in. Settings: Seedance 2.5, 10 s, 720p, 9:16, sound on. The video prompt",
+          "variant": null,
+          "kind": "video_prompt",
+          "text": "Animate the person in [Image 1] as a famous adult performer signing an autograph for an adult fan, polished original composition, realistic detail, vertical 9:16 frame, filmed handheld on a fan's phone at a fan meeting in a bright, modern event room.\n\nTHE STAR is the person in [Image 1], in every frame: copy the exact face from [Image 1] (the face shape, eye color and eye shape, eyebrows, nose, mouth, skin tone, age, hair color, hair length and hairstyle, and any beard, moustache, glasses or freckles) and the clothes from [Image 1], so their friends recognize them at once. The face stays the same from the first frame to the last; never morph. If [Image 1] shows an animal, the star is that animal sitting or walking upright, with its own face, fur and markings, and it signs with a paw print.\n\nThe set: a long table covered in a black cloth, with black markers on it. Right behind the star's chair stands a giant roll-up poster: a glossy close-up portrait photo of THE SAME person from [Image 1], the same face, much larger than life. Excited adult fans stand in a line on both sides and hold up their phones; phone flashes and camera flashes go off.\n\n0-3 s: the star walks into the room past the cheering fans, smiling, and sits down at the table under the poster.\n3-8 s: fans' hands in the foreground hand over printed photos of the star's own face, one after another; the star signs each photo with a quick, loopy signature, then looks up and smiles into the camera, the face large and sharp: exactly the face from [Image 1].\n8-10 s: the star hands a signed photo back to the fan who holds the camera and gives a small, happy wave.\n\nAudio: the fans cheering and calling out, camera shutter clicks, the marker squeaking on paper, a busy room. No music. The star does not speak.\n\nNo collage, no split panels, no logos, no watermark, no readable text: no words on the poster, the table or the walls, and the signature is a loose scribble, not real letters. Exactly one star; the poster and every photo show only the star's face from [Image 1]. All fans are adults. No subtitles."
+        },
+        {
+          "label": "1. The video prompt is filled in. Settings: Seedance 2.5, 10 s, 720p, 9:16, sound on. The video prompt",
+          "variant": null,
+          "kind": "video_prompt",
+          "text": "Vertical 9:16 aspect ratio video. A highly photorealistic, pure live-action tracking shot, filmed handheld on a fan's phone from behind a metal crowd barrier. The camera is positioned at a slight left angle, not dead center.\n\nTHE STAR is the person in [Image 1], in every frame: copy the exact face from [Image 1] (the face shape, eye color and eye shape, eyebrows, nose, mouth, skin tone, age, hair color, hair length and hairstyle, and any beard, moustache, glasses or freckles) and the clothes from [Image 1], so their friends recognize them at once. The face stays the same from the first frame to the last; never morph. If [Image 1] shows an animal, the star is that animal sitting or walking upright, with its own face, fur and markings, and it signs with a paw print.\n\nA glamorous celebrity, the star from [Image 1], walks confidently forward out of the revolving glass doors of a grand city hotel at night, onto a short red carpet on wet, shining pavement. Background fans and paparazzi behind metal barriers are softly blurred, holding up phones and blank notepads. Two tall bodyguards in plain black suits walk beside the star. The scene is illuminated by natural event lighting and authentic camera flashes, strictly avoiding overly dramatic, artificial, or glossy cinematic lighting. The celebrity pauses, waves warmly to the crowd, smoothly signs one autograph, and continues walking.\n\n0-4 s: the star walks toward the camera, smiling at the crowd. A fan's hand in the foreground holds out a white spiral notepad and a black marker.\n4-8 s: the star stops at the barrier, takes the marker and signs the notepad with a quick, loopy signature, then smiles into the camera, the face large and sharp: exactly the face from [Image 1].\n8-10 s: the star hands the notepad back, waves warmly to the crowd and walks on toward a black car at the curb.\n\nRaw lifelike skin textures and natural fabric physics. Strictly avoiding any CGI, 3D renders, or plastic aesthetics, maintaining a pure, grounded reality.\n\nAudio: the crowd cheering and calling out, camera shutter clicks, the marker squeaking on paper, city night sounds. No music. The star does not speak.\n\nExactly one star. All fans are adults. No text, no subtitles, no logos, no watermark, no hotel name or signs you can read; the signature is a loose scribble, not real letters."
+        }
+      ],
+      "variant_headings": [
+        "What the Celebrity Autograph AI video looks like",
+        "How to make the Celebrity Autograph AI video on MakeViral",
+        "Which photo works best?",
+        "What happens in the celebrity signature filter video, second by second?",
+        "Fan meet or Star entrance: which AI autograph video should you make?",
+        "How do I make the AI autograph trend video with my photo?",
+        "Can I use a celebrity's photo or put a real star's poster behind me?",
+        "Can my pet be the star?",
+        "Is this a famous filter or a video?",
+        "Is the video real?",
+        "Other AI video templates and tools",
+        "Make your own Celebrity Autograph AI video"
+      ],
+      "prompt_count": 2,
+      "scraped_at": "2026-10-18"
     },
     {
       "source": "mediaio",

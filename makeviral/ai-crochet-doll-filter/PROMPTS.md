@@ -1,0 +1,33 @@
+# Crochet Filter: AI Turns Your Photo Into a Crochet Doll of You
+
+- Source: [makeviral](https://www.makeviral.ai/templates/ai-crochet-doll-filter)
+- Slug: `ai-crochet-doll-filter`
+
+The crochet filter is the AI photo trend that turns one photo of you into an AI crochet doll: an amigurumi doll of yarn with your hair, clothes and pose, in a crocheted copy of the place in your photo.
+
+## Demo videos (CDN)
+
+- https://www.makeviral.ai/media/templates/ai-crochet-doll-filter/original-main-v2.mp4
+
+## Posters
+
+- https://www.makeviral.ai/media/templates/ai-crochet-doll-filter/original-main-v1.jpg
+
+## Prompts
+
+### 1. Prompt 1
+
+*Kind: prompt*
+
+```text
+Turn this photo into an image in a knitted crochet style, as if the person were a doll made completely by hand with wool and yarn. Keep the facial features, the skin tone, the hair, the clothes, the pose and the background of the original photo, but make everything have a knitted texture, with visible stitches and realistic amigurumi details. Make it look sweet, pretty and very detailed, without losing the essence of the original photo. Vertical 9:16; if the photo is wider, extend the background naturally in the same knitted style. Everything is crocheted, like a real handmade amigurumi set photographed with a phone in the same light: the body, the clothes with their colors and prints, any jewelry, glasses, hat or phone, and every wall, floor, plant, piece of furniture and object of the place. Any logo, brand name or writing on the clothes or in the place becomes plain knitted fabric. Exactly one doll: nobody added, nobody removed. No text, no captions, no logos, no watermark, no frame. The face is always a crocheted amigurumi doll face made of fine yarn stitches, never a photo face: big glossy doll eyes in the eye color from the photo, with long lashes, soft blush on the cheeks, a small stitched nose and lips. The identity rules below apply to the doll's face shape, eye color, eyebrows, nose, lips, skin tone (as the yarn color), age, hairline, hair color, hair length and hairstyle (as yarn strands), facial hair, glasses, moles and freckles.
+```
+
+### 2. Prompt 2
+
+*Kind: prompt*
+
+```text
+Turn this photo into an image in a knitted crochet style, as if the people were dolls made completely by hand with wool and yarn. Keep the facial features, the skin tone, the hair, the clothes, the pose and the background of the original photo, but make everything have a knitted texture, with visible stitches and realistic amigurumi details. Make it look sweet, pretty and very detailed, without losing the essence of the original photo. Vertical 9:16; if the photo is wider, extend the background naturally in the same knitted style. Everything is crocheted, like a real handmade amigurumi set photographed with a phone in the same light: the body, the clothes with their colors and prints, any jewelry, glasses, hat or phone, and every wall, floor, plant, piece of furniture and object of the place. Any logo, brand name or writing on the clothes or in the place becomes plain knitted fabric. Each person becomes their own doll, in the same place, pose and order as in the photo, with their own face, skin tone, hair and clothes: never blend two people, never swap hair, glasses or clothes between them, and never add or drop a person. If the photo also shows a pet, it becomes a small crochet animal with its own fur colors. No text, no captions, no logos, no watermark, no frame. Every face is a crocheted amigurumi doll face made of fine yarn stitches, never a photo face: big glossy doll eyes in the eye color from the photo, with long lashes, soft blush on the cheeks, a small stitched nose and lips. The identity rules below apply to the doll's face shape, eye color, eyebrows, nose, lips, skin tone (as the yarn color), age, hairline, hair color, hair length and hairstyle (as yarn strands), facial hair, glasses, moles and freckles.
+```
+

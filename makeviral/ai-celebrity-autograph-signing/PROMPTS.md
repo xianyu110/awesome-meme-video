@@ -1,0 +1,59 @@
+# Celebrity Signature Filter: Sign Autographs for Your Fans with AI
+
+- Source: [makeviral](https://www.makeviral.ai/templates/ai-celebrity-autograph-signing)
+- Slug: `ai-celebrity-autograph-signing`
+
+The celebrity signature filter is the AI autograph trend where you become the star: fans with phones crowd around, flashes go off, and you sign autographs for them, at a signing table under a giant poster of yourself or outside a hotel at night.
+
+## Demo videos (CDN)
+
+- https://www.makeviral.ai/media/templates/ai-celebrity-autograph-signing/original-entrance-v2.mp4
+
+## Posters
+
+- https://www.makeviral.ai/media/templates/ai-celebrity-autograph-signing/original-entrance-v1.jpg
+
+## Prompts
+
+### 1. 1. The video prompt is filled in. Settings: Seedance 2.5, 10 s, 720p, 9:16, sound on. The video prompt
+
+*Kind: video_prompt*
+
+```text
+Animate the person in [Image 1] as a famous adult performer signing an autograph for an adult fan, polished original composition, realistic detail, vertical 9:16 frame, filmed handheld on a fan's phone at a fan meeting in a bright, modern event room.
+
+THE STAR is the person in [Image 1], in every frame: copy the exact face from [Image 1] (the face shape, eye color and eye shape, eyebrows, nose, mouth, skin tone, age, hair color, hair length and hairstyle, and any beard, moustache, glasses or freckles) and the clothes from [Image 1], so their friends recognize them at once. The face stays the same from the first frame to the last; never morph. If [Image 1] shows an animal, the star is that animal sitting or walking upright, with its own face, fur and markings, and it signs with a paw print.
+
+The set: a long table covered in a black cloth, with black markers on it. Right behind the star's chair stands a giant roll-up poster: a glossy close-up portrait photo of THE SAME person from [Image 1], the same face, much larger than life. Excited adult fans stand in a line on both sides and hold up their phones; phone flashes and camera flashes go off.
+
+0-3 s: the star walks into the room past the cheering fans, smiling, and sits down at the table under the poster.
+3-8 s: fans' hands in the foreground hand over printed photos of the star's own face, one after another; the star signs each photo with a quick, loopy signature, then looks up and smiles into the camera, the face large and sharp: exactly the face from [Image 1].
+8-10 s: the star hands a signed photo back to the fan who holds the camera and gives a small, happy wave.
+
+Audio: the fans cheering and calling out, camera shutter clicks, the marker squeaking on paper, a busy room. No music. The star does not speak.
+
+No collage, no split panels, no logos, no watermark, no readable text: no words on the poster, the table or the walls, and the signature is a loose scribble, not real letters. Exactly one star; the poster and every photo show only the star's face from [Image 1]. All fans are adults. No subtitles.
+```
+
+### 2. 1. The video prompt is filled in. Settings: Seedance 2.5, 10 s, 720p, 9:16, sound on. The video prompt
+
+*Kind: video_prompt*
+
+```text
+Vertical 9:16 aspect ratio video. A highly photorealistic, pure live-action tracking shot, filmed handheld on a fan's phone from behind a metal crowd barrier. The camera is positioned at a slight left angle, not dead center.
+
+THE STAR is the person in [Image 1], in every frame: copy the exact face from [Image 1] (the face shape, eye color and eye shape, eyebrows, nose, mouth, skin tone, age, hair color, hair length and hairstyle, and any beard, moustache, glasses or freckles) and the clothes from [Image 1], so their friends recognize them at once. The face stays the same from the first frame to the last; never morph. If [Image 1] shows an animal, the star is that animal sitting or walking upright, with its own face, fur and markings, and it signs with a paw print.
+
+A glamorous celebrity, the star from [Image 1], walks confidently forward out of the revolving glass doors of a grand city hotel at night, onto a short red carpet on wet, shining pavement. Background fans and paparazzi behind metal barriers are softly blurred, holding up phones and blank notepads. Two tall bodyguards in plain black suits walk beside the star. The scene is illuminated by natural event lighting and authentic camera flashes, strictly avoiding overly dramatic, artificial, or glossy cinematic lighting. The celebrity pauses, waves warmly to the crowd, smoothly signs one autograph, and continues walking.
+
+0-4 s: the star walks toward the camera, smiling at the crowd. A fan's hand in the foreground holds out a white spiral notepad and a black marker.
+4-8 s: the star stops at the barrier, takes the marker and signs the notepad with a quick, loopy signature, then smiles into the camera, the face large and sharp: exactly the face from [Image 1].
+8-10 s: the star hands the notepad back, waves warmly to the crowd and walks on toward a black car at the curb.
+
+Raw lifelike skin textures and natural fabric physics. Strictly avoiding any CGI, 3D renders, or plastic aesthetics, maintaining a pure, grounded reality.
+
+Audio: the crowd cheering and calling out, camera shutter clicks, the marker squeaking on paper, city night sounds. No music. The star does not speak.
+
+Exactly one star. All fans are adults. No text, no subtitles, no logos, no watermark, no hotel name or signs you can read; the signature is a loose scribble, not real letters.
+```
+

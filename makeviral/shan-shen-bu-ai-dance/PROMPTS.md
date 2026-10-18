@@ -1,0 +1,49 @@
+# Shan Shen Bu AI Dance: Do the Flash Step From One Photo
+
+- Source: [makeviral](https://www.makeviral.ai/templates/shan-shen-bu-ai-dance)
+- Slug: `shan-shen-bu-ai-dance`
+
+Shan shen bu (闪身步, also written 閃身步 or shanshenbu) is the "flash step": a sudden sideways dodge from a Chinese folk dance teaching video that became the meme of autumn 2026.
+
+## Demo videos (CDN)
+
+- https://www.makeviral.ai/media/templates/shan-shen-bu-ai-dance/original-pet-v2.mp4
+- https://www.makeviral.ai/media/templates/shan-shen-bu-ai-dance/original-shrimp-v2.mp4
+
+## Posters
+
+- https://www.makeviral.ai/media/templates/shan-shen-bu-ai-dance/original-pet-v1.jpg
+- https://www.makeviral.ai/media/templates/shan-shen-bu-ai-dance/original-shrimp-v1.jpg
+
+## Prompts
+
+### 1. 1. The video prompt is filled in. Settings: kling-3-motion, 13 s, 720p, 9:16, sound off. The video prompt (Human)
+
+*Kind: video_prompt*
+
+```text
+Replace the character in the video with the person from the uploaded image. Keep actions, poses, facial expressions, camera movement and rhythm. Preserve the person's original facial features, maintain character consistency, no distortion, no glitches, no artifacts.
+The person dances in the place from the uploaded image, in the clothes from the uploaded image, not the black hoodie, the black cap, the black wide trousers and the white sneakers of the dancer in the video, and keeps their own hair from the uploaded image, with the face uncovered and clearly visible: no hood, no cap and no mask unless the uploaded image shows them. Follow the dancer's moves and timing exactly, the four steps of the folk dance routine in order: first a quick spin from the back to face the camera; then the flash step, the torso snapping sideways and back while the feet step out wide, twice; then the ball kick, a knee lifted and the foot flicked out to the side with the arms swinging; then the shiver, both arms thrown up and out and the whole body shaking with small jumps; and last the head wobble, a wide low stance with the hands together at the chest while the head and shoulders roll from side to side. Keep the whole body in view from the head to the feet, with natural balance. Exactly one person, no other people. One continuous shot, no cuts, no text, no captions, no logos.
+```
+
+### 2. 1. The video prompt is filled in. Settings: Seedance 2.5, 15 s, 720p, 9:16, sound off. The video prompt (Pet)
+
+*Kind: video_prompt*
+
+```text
+Character replacement on [Video 1]. Recreate the reference video [Video 1] shot for shot: the same paved courtyard in front of an old wooden house with a red-edged tiled roof, potted plants by the wall and warm low sunlight, the same low handheld camera, the same framing, timing and moves, one continuous take that ends on a close-up. The ONLY change: the fluffy white cat with green eyes who dances upright is now the pet in [Image 1].
+
+The dancer = the pet in [Image 1], in every frame, also in the close-up at the end: the same species and breed, head shape, muzzle, eyes, ears, fur colors, fur length, markings and body shape as in [Image 1], with the natural body volume and proportions of that animal: never flattened, squashed, stretched or merged with anything, so its owner instantly recognizes it from the first second to the last. It stands upright on its hind legs like a person while it dances. Never drift back to the cat of the original video: no fluffy white coat, no round flat face and no green eyes unless [Image 1] shows them. It wears nothing: its own fur from head to toe. If [Image 1] shows a dog or another animal, that animal stands in the same place with the same moves, with its own ears and muzzle.
+
+The pet copies the white cat's moves, a folk dance flash step routine, with the same timing. Matching the reference second by second:
+0-2 s: close to the camera, it steps back on its hind legs with a swing of the tail.
+2-5 s: it stands upright in the middle of the courtyard, front paws loose at its sides, sways, then a quick flash step: the body snaps sideways and back while the feet stay planted.
+5-7.5 s: a light brown dog walks past behind it; it twists sideways and kicks one hind leg out to the side, twice, the tail flicking.
+7.5-10 s: front paws up high, the whole body shakes, then a jump with the paws out wide.
+10-13 s: a small hamster runs in on the ground; the pet swings a paw out and jumps again.
+13-14 s: it drops onto all four legs behind the hamster.
+14-15 s: the camera comes in to a close-up of the pet's face, staring into the lens with wide eyes.
+
+The pet keeps real animal anatomy: furry front legs ending in round paws covered in its own fur, never human hands, no fingers. One head only, two hind legs and two front legs, no extra legs or paws. The light brown dog and the hamster stay as they are in the video and never take the pet's look. No people. Add no other text or logos. Photorealistic, identity consistent for the whole clip.
+```
+
