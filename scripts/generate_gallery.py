@@ -1,15 +1,58 @@
 #!/usr/bin/env python3
-"""Generate root index.html GitHub Pages gallery from inventory.json (newest first)."""
+"""Generate root index.html GitHub Pages gallery from inventory.json (newest first).
+
+Date rule: use source listing date = published, else updated if published missing.
+Never use scraped_at for sort, filter chips, or displayed card date.
+"""
 from __future__ import annotations
 import json
+import re
 from pathlib import Path
 
 ROOT = Path(__file__).resolve().parent.parent
 
+# Topic buckets derived from name/slug/blurb (first match wins). Low-confidence → Other.
+TOPIC_RULES = [
+    ('Dance', re.compile(
+        r'dance|dancing|ballet|choreograph|groove|twerk|hip.?hop|disco|'
+        r'\bbop\b|navratri|raindance|wipe.?me.?down|head.?bop', re.I)),
+    ('Pet', re.compile(
+        r'\bpet\b|dog|cat|puppy|kitten|animal|hamster|parrot|bunny|rabbit|'
+        r'polar.?bear|\bbear\b|whiny.?dog|smalltown.?boy.?cat', re.I)),
+    ('Car', re.compile(
+        r'\bcar\b|vehicle|drive|driving|truck|motorcycle|race|racing|drift|'
+        r'parking|behind the wheel|luxury se', re.I)),
+    ('Couple', re.compile(
+        r'couple|romance|romantic|kiss|\bdate\b|wedding|boyfriend|girlfriend|'
+        r'\blove\b|proposal|reunion|hug in heaven|heavenly reunion|zombie.?couple', re.I)),
+    ('Filter-Prank', re.compile(
+        r'filter|prank|joke|morph|swap|face.?swap|ai.?filter|ghostface|'
+        r'ghost photo|arrested|abra.?kadabra', re.I)),
+    ('Sports', re.compile(
+        r'sport|football|soccer|basketball|tennis|golf|gym|workout|fitness|'
+        r'boxing|swim|skate|baseball|nfl|rabona|ozil|\bgoal\b|keeper|lamine', re.I)),
+    ('Birthday', re.compile(
+        r'birthday|bday|\bcake\b|celebration|\bparty\b|anniversary', re.I)),
+]
+
+
+def listing_date(item: dict) -> str:
+    """Source listing/inclusion date: published, else updated. Never scraped_at."""
+    d = item.get('published') or item.get('updated') or ''
+    return str(d)[:10] if d else ''
+
 
 def sort_key(item):
-    d = item.get('updated') or item.get('published') or item.get('scraped_at') or '1970-01-01'
-    return (str(d)[:10], item.get('slug') or '')
+    d = listing_date(item) or '0000-00-00'
+    return (d, item.get('slug') or '')
+
+
+def topic_of(t: dict) -> str:
+    text = f"{t.get('name') or ''} {t.get('slug') or ''} {t.get('blurb') or ''}"
+    for name, rx in TOPIC_RULES:
+        if rx.search(text):
+            return name
+    return 'Other'
 
 
 def cover_url(t: dict) -> str:
@@ -37,9 +80,14 @@ def main():
     cards = []
     for t in templates:
         src = t.get('source')
-        label = {'makeviral': 'MakeViral', 'remakeyourmeme': 'Remake', 'mediaio': 'Media.io', 'kavel': 'Kavel'}.get(src, src or 'Unknown')
+        label = {
+            'makeviral': 'MakeViral',
+            'remakeyourmeme': 'Remake',
+            'mediaio': 'Media.io',
+            'kavel': 'Kavel',
+        }.get(src, src or 'Unknown')
         folder = f"{src}/{t['slug']}/"
-        date = t.get('updated') or t.get('published') or t.get('scraped_at') or ''
+        date = listing_date(t)
         pc = int(t.get('prompt_count') or 0)
         if src == 'remakeyourmeme':
             badge, badge_cls = 'no prompts', 'none'
@@ -53,7 +101,8 @@ def main():
             'slug': t['slug'],
             'source': src,
             'label': label,
-            'date': str(date)[:10] if date else '',
+            'date': date,  # ISO YYYY-MM-DD or '' — never scraped_at
+            'topic': topic_of(t),
             'badge': badge,
             'badge_cls': badge_cls,
             'cover': cover_url(t),
@@ -65,13 +114,14 @@ def main():
             'has_prompts': pc > 0 and src != 'remakeyourmeme',
         })
 
-    # Prefer live counts from cards; fall back to inventory sources
     n_mv = sum(1 for c in cards if c['source'] == 'makeviral')
     n_rm = sum(1 for c in cards if c['source'] == 'remakeyourmeme')
     n_mio = sum(1 for c in cards if c['source'] == 'mediaio')
     n_kv = sum(1 for c in cards if c['source'] == 'kavel')
     n_total = len(cards)
     n_with_prompts = sum(1 for c in cards if c['has_prompts'])
+    n_dated = sum(1 for c in cards if c['date'])
+    n_unknown_date = n_total - n_dated
     s_mv = inv.get('sources', {}).get('makeviral') or {}
     s_rm = inv.get('sources', {}).get('remakeyourmeme') or {}
     s_mio = inv.get('sources', {}).get('mediaio') or {}
@@ -84,11 +134,17 @@ def main():
     meta_desc = (
         f"Public inventory of {n_total} AI meme / viral video templates from "
         f"MakeViral ({n_mv}), Remake Your Meme ({n_rm}), Media.io ({n_mio}), and Kavel ({n_kv}). "
-        f"Prompts, demos, and posters — newest first."
+        f"Prompts, demos, and posters — filter by source, topic, date."
     )
     og_desc = (
         f"{n_mv} MakeViral + {n_rm} Remake + {n_mio} Media.io + {n_kv} Kavel templates "
         f"({n_with_prompts} with prompts)."
+    )
+
+    # Topic chip order (stable)
+    topic_order = ['Dance', 'Pet', 'Car', 'Couple', 'Filter-Prank', 'Sports', 'Birthday', 'Other']
+    topic_btns = '\n    '.join(
+        f'<button type="button" data-topic="{esc(t)}">{esc(t)}</button>' for t in topic_order
     )
 
     html = f'''<!doctype html>
@@ -124,17 +180,18 @@ header p.lead{{color:var(--sub);margin:0 0 8px;font-size:14px}}
 .box b{{color:var(--txt)}} .box code{{background:#1a2633;padding:2px 6px;border-radius:5px;font-size:12px}}
 .toolbar{{
   position:sticky;top:0;z-index:40;
-  margin:0 -16px 14px;padding:10px 16px;
-  background:rgba(7,11,18,.82);
+  margin:0 -16px 14px;padding:10px 16px 12px;
+  background:rgba(7,11,18,.88);
   backdrop-filter:blur(14px);-webkit-backdrop-filter:blur(14px);
   border-bottom:1px solid rgba(36,50,71,.85);
 }}
-.bar{{display:flex;flex-wrap:wrap;gap:8px;align-items:center}}
-.bar button{{background:var(--card);color:var(--txt);border:1px solid var(--line);border-radius:999px;padding:7px 13px;cursor:pointer;font-size:13px;transition:background .15s,border-color .15s}}
+.bar{{display:flex;flex-wrap:wrap;gap:8px;align-items:center;margin-top:6px}}
+.bar:first-child{{margin-top:0}}
+.bar-label{{font-size:11px;color:var(--sub);text-transform:uppercase;letter-spacing:.04em;margin-right:2px;min-width:2.5em}}
+.bar button{{background:var(--card);color:var(--txt);border:1px solid var(--line);border-radius:999px;padding:6px 12px;cursor:pointer;font-size:12.5px;transition:background .15s,border-color .15s}}
 .bar button:hover{{border-color:#3a4d6a}}
 .bar button.on{{background:var(--acc);border-color:var(--acc);color:#fff}}
-.bar button.sep{{margin-left:4px}}
-.bar input{{flex:1;min-width:180px;background:var(--card);border:1px solid var(--line);color:var(--txt);border-radius:999px;padding:8px 14px;font-size:14px}}
+.bar input{{flex:1;min-width:160px;background:var(--card);border:1px solid var(--line);color:var(--txt);border-radius:999px;padding:7px 14px;font-size:13px}}
 .bar input:focus{{outline:none;border-color:var(--acc)}}
 .count{{color:var(--sub);font-size:13px;margin:0 0 12px;padding:0 2px}}
 .count b{{color:var(--txt)}}
@@ -154,6 +211,7 @@ header p.lead{{color:var(--sub);margin:0 0 8px;font-size:14px}}
 .tag.mio{{background:rgba(34,211,238,.9);color:#042f2e}}
 .tag.kv{{background:rgba(244,114,182,.92);color:#3b0764}}
 .date{{position:absolute;bottom:8px;left:10px;z-index:2;font-size:11px;background:rgba(0,0,0,.72);padding:2px 8px;border-radius:6px}}
+.date.unk{{color:var(--sub)}}
 .preview-hint{{position:absolute;bottom:8px;right:10px;z-index:2;font-size:11px;background:rgba(124,108,255,.85);padding:3px 9px;border-radius:999px;color:#fff;font-weight:600;opacity:0;transition:opacity .15s}}
 .card:hover .preview-hint{{opacity:1}}
 .bd{{padding:12px 13px 14px;flex:1;display:flex;flex-direction:column;gap:7px}}
@@ -187,6 +245,7 @@ body.modal-open{{overflow:hidden}}
 @media (max-width:520px){{
   .grid{{grid-template-columns:repeat(auto-fill,minmax(150px,1fr));gap:10px}}
   .preview-hint{{opacity:.85}}
+  .bar-label{{min-width:auto}}
 }}
 </style>
 </head>
@@ -206,23 +265,44 @@ body.modal-open{{overflow:hidden}}
     <span class="chip"><b>{n_mio}</b> Media.io · <b>{mio_prompts}</b> prompts</span>
     <span class="chip"><b>{n_kv}</b> Kavel · <b>{kv_prompts}</b> prompts</span>
     <span class="chip"><b>{n_with_prompts}</b> with prompts</span>
-    <span class="chip">Sorted <b>newest first</b></span>
+    <span class="chip"><b>{n_dated}</b> with listing date · <b>{n_unknown_date}</b> unknown</span>
     <span class="chip">Scraped <b>{scraped}</b> Asia/Shanghai</span>
   </div>
 </header>
 <div class="box"><b>What is this?</b> A public inventory of AI meme templates.
 MakeViral pages publish copyable prompts (archived verbatim). Remake Your Meme is one-tap only — demos/posters archived, marked <b>no public prompts</b>.
-Media.io and Kavel prompts are kept when present on public pages. Media stays on source CDNs when local LFS demos are missing.</div>
-<div class="toolbar">
-  <div class="bar" id="bar">
+Media.io and Kavel prompts are kept when present on public pages. Media stays on source CDNs when local LFS demos are missing.
+Dates are source <b>listing / publish</b> times (not scrape time); Remake / Media.io / Kavel often lack a public listing date.</div>
+<div class="toolbar" id="toolbar">
+  <div class="bar" id="bar-src">
+    <span class="bar-label">源</span>
     <button type="button" class="on" data-src="all">All</button>
     <button type="button" data-src="makeviral">MakeViral</button>
     <button type="button" data-src="remakeyourmeme">Remake</button>
     <button type="button" data-src="mediaio">Media.io</button>
     <button type="button" data-src="kavel">Kavel</button>
-    <button type="button" class="sep on" data-prompt="all">Any prompts</button>
-    <button type="button" data-prompt="yes">Has prompts</button>
-    <button type="button" data-prompt="no">No prompts</button>
+  </div>
+  <div class="bar" id="bar-topic">
+    <span class="bar-label">题材</span>
+    <button type="button" class="on" data-topic="all">全部</button>
+    {topic_btns}
+  </div>
+  <div class="bar" id="bar-date">
+    <span class="bar-label">日期</span>
+    <button type="button" class="on" data-date="all">全部</button>
+    <button type="button" data-date="today">今天</button>
+    <button type="button" data-date="7d">近7天</button>
+    <button type="button" data-date="30d">近30天</button>
+    <button type="button" data-date="unknown">未知日期</button>
+  </div>
+  <div class="bar" id="bar-more">
+    <span class="bar-label">提示</span>
+    <button type="button" class="on" data-prompt="all">Any</button>
+    <button type="button" data-prompt="yes">Has</button>
+    <button type="button" data-prompt="no">No</button>
+    <span class="bar-label" style="margin-left:6px">排序</span>
+    <button type="button" class="on" data-sort="new">新→旧</button>
+    <button type="button" data-sort="old">旧→新</button>
     <input id="q" type="search" placeholder="Search title, slug, blurb…" autocomplete="off">
   </div>
 </div>
@@ -262,9 +342,30 @@ const modalMeta = document.getElementById('modal-meta');
 const modalBlurb = document.getElementById('modal-blurb');
 const modalActions = document.getElementById('modal-actions');
 let srcFilter = 'all';
+let topicFilter = 'all';
+let dateFilter = 'all';
 let promptFilter = 'all';
+let sortOrder = 'new'; // new = 新→旧, old = 旧→新
 let activeCard = null;
+let searchTimer = null;
 const coarse = window.matchMedia('(hover: none), (pointer: coarse)').matches;
+
+function todayISO() {{
+  const d = new Date();
+  const y = d.getFullYear();
+  const m = String(d.getMonth()+1).padStart(2,'0');
+  const day = String(d.getDate()).padStart(2,'0');
+  return y + '-' + m + '-' + day;
+}}
+
+function daysAgoISO(n) {{
+  const d = new Date();
+  d.setDate(d.getDate() - n);
+  const y = d.getFullYear();
+  const m = String(d.getMonth()+1).padStart(2,'0');
+  const day = String(d.getDate()).padStart(2,'0');
+  return y + '-' + m + '-' + day;
+}}
 
 function tagClass(src) {{
   if (src === 'makeviral') return 'mv';
@@ -299,6 +400,10 @@ function playHoverVideo(cv) {{
   if (p && p.catch) p.catch(() => {{}});
 }}
 
+function dateLabel(c) {{
+  return c.date ? c.date : 'date unknown';
+}}
+
 function coverHtml(c) {{
   const attrs = ' class="cv"'
     + (c.demo ? ' data-demo="' + esc(c.demo) + '"' : '')
@@ -311,39 +416,88 @@ function coverHtml(c) {{
   }} else {{
     inner = '<div class="ph">No cover</div>';
   }}
+  const dspan = c.date
+    ? '<span class="date" data-date="' + esc(c.date) + '">' + esc(c.date) + '</span>'
+    : '<span class="date unk" data-date="">date unknown</span>';
   return '<div' + attrs + '>' + inner
     + '<span class="tag ' + tagClass(c.source) + '">' + esc(c.label) + '</span>'
-    + (c.date ? '<span class="date">' + esc(c.date) + '</span>' : '')
+    + dspan
     + (c.demo ? '<span class="preview-hint">Preview</span>' : '')
     + '</div>';
 }}
 
+function inDateWindow(c) {{
+  if (dateFilter === 'all') return true;
+  if (dateFilter === 'unknown') return !c.date;
+  if (!c.date) return false; // 今天/近N天 never match scrape-less empty dates
+  const today = todayISO();
+  if (dateFilter === 'today') return c.date === today;
+  if (dateFilter === '7d') return c.date >= daysAgoISO(7) && c.date <= today;
+  if (dateFilter === '30d') return c.date >= daysAgoISO(30) && c.date <= today;
+  return true;
+}}
+
 function filtered() {{
   const needle = (q.value || '').trim().toLowerCase();
-  return DATA.filter(c => {{
+  let list = DATA.filter(c => {{
     if (srcFilter !== 'all' && c.source !== srcFilter) return false;
+    if (topicFilter !== 'all' && c.topic !== topicFilter) return false;
+    if (!inDateWindow(c)) return false;
     if (promptFilter === 'yes' && !c.has_prompts) return false;
     if (promptFilter === 'no' && c.has_prompts) return false;
     if (!needle) return true;
-    return (c.name + ' ' + c.slug + ' ' + c.blurb + ' ' + c.label).toLowerCase().includes(needle);
+    return (c.name + ' ' + c.slug + ' ' + c.blurb + ' ' + c.label + ' ' + c.topic).toLowerCase().includes(needle);
   }});
+  list = list.slice();
+  list.sort((a, b) => {{
+    const da = a.date || '';
+    const db = b.date || '';
+    // undated sink to end for 新→旧, to start for 旧→新 (treat as oldest)
+    if (!da && !db) return (a.slug || '').localeCompare(b.slug || '');
+    if (!da) return sortOrder === 'new' ? 1 : -1;
+    if (!db) return sortOrder === 'new' ? -1 : 1;
+    if (da !== db) return sortOrder === 'new' ? (db > da ? 1 : -1) : (da > db ? 1 : -1);
+    return (a.slug || '').localeCompare(b.slug || '');
+  }});
+  return list;
+}}
+
+function filterSummary() {{
+  const parts = [];
+  if (srcFilter !== 'all') {{
+    const map = {{makeviral:'MakeViral', remakeyourmeme:'Remake', mediaio:'Media.io', kavel:'Kavel'}};
+    parts.push(map[srcFilter] || srcFilter);
+  }}
+  if (topicFilter !== 'all') parts.push(topicFilter);
+  if (dateFilter === 'today') parts.push('今天');
+  else if (dateFilter === '7d') parts.push('近7天');
+  else if (dateFilter === '30d') parts.push('近30天');
+  else if (dateFilter === 'unknown') parts.push('未知日期');
+  if (promptFilter === 'yes') parts.push('Has prompts');
+  else if (promptFilter === 'no') parts.push('No prompts');
+  parts.push(sortOrder === 'new' ? '新→旧' : '旧→新');
+  const needle = (q.value || '').trim();
+  if (needle) parts.push('"' + needle + '"');
+  return parts.length ? parts.join(' · ') : 'all';
 }}
 
 function render() {{
   const list = filtered();
-  countEl.innerHTML = 'Showing <b>' + list.length + '</b> of <b>' + TOTAL + '</b>';
-  grid.innerHTML = list.map((c, i) => {{
+  countEl.innerHTML = 'Showing <b>' + list.length + '</b> of <b>' + TOTAL + '</b> · ' + esc(filterSummary());
+  grid.innerHTML = list.map(c => {{
     const idx = DATA.indexOf(c);
-    return '<article class="card" tabindex="0" data-i="' + idx + '" role="button" aria-label="Preview ' + esc(c.name) + '">'
+    return '<article class="card" tabindex="0" data-i="' + idx + '" data-date="' + esc(c.date || '') + '" data-topic="' + esc(c.topic) + '" data-source="' + esc(c.source) + '" role="button" aria-label="Preview ' + esc(c.name) + '">'
       + coverHtml(c)
       + '<div class="bd"><h3>' + esc(c.name) + '</h3>'
       + '<p class="blurb">' + esc(c.blurb || '—') + '</p>'
       + '<div class="row"><span class="badge ' + esc(c.badge_cls) + '">' + esc(c.badge) + '</span>'
+      + '<span class="badge">' + esc(c.topic) + '</span>'
       + '<span class="badge">' + esc(c.slug) + '</span></div>'
       + '<div class="links"><a href="' + esc(c.folder) + 'PROMPTS.md" data-stop>Folder</a>'
       + (c.url ? '<a href="' + esc(c.url) + '" target="_blank" rel="noopener" data-stop>Original</a>' : '')
       + '</div></div></article>';
   }}).join('');
+  syncUrl();
 }}
 
 function openModal(c) {{
@@ -352,7 +506,8 @@ function openModal(c) {{
   modalMeta.innerHTML =
     '<span class="badge ' + esc(c.badge_cls) + '">' + esc(c.badge) + '</span>'
     + '<span class="tag ' + tagClass(c.source) + '" style="position:static">' + esc(c.label) + '</span>'
-    + (c.date ? '<span class="badge">' + esc(c.date) + '</span>' : '')
+    + '<span class="badge">' + esc(dateLabel(c)) + '</span>'
+    + '<span class="badge">' + esc(c.topic) + '</span>'
     + '<span class="badge">' + esc(c.slug) + '</span>';
   modalBlurb.textContent = c.blurb || '—';
   let media = '';
@@ -387,20 +542,86 @@ function closeModal() {{
   activeCard = null;
 }}
 
-document.getElementById('bar').addEventListener('click', e => {{
+function setToggle(groupSel, attr, value) {{
+  document.querySelectorAll(groupSel + ' button[' + attr + ']').forEach(b => {{
+    b.classList.toggle('on', b.getAttribute(attr) === value);
+  }});
+}}
+
+function syncUrl() {{
+  try {{
+    const p = new URLSearchParams();
+    if (srcFilter !== 'all') p.set('src', srcFilter === 'remakeyourmeme' ? 'remake' : (srcFilter === 'mediaio' ? 'mediaio' : srcFilter));
+    if (topicFilter !== 'all') p.set('topic', topicFilter);
+    if (dateFilter !== 'all') p.set('date', dateFilter);
+    if (promptFilter !== 'all') p.set('prompt', promptFilter);
+    if (sortOrder !== 'new') p.set('sort', sortOrder);
+    const needle = (q.value || '').trim();
+    if (needle) p.set('q', needle);
+    const qs = p.toString();
+    const next = qs ? ('?' + qs) : location.pathname;
+    if (location.search.slice(1) !== qs) history.replaceState(null, '', next);
+  }} catch(_){{}}
+}}
+
+function applyUrl() {{
+  try {{
+    const p = new URLSearchParams(location.search);
+    const srcMap = {{all:'all', makeviral:'makeviral', remake:'remakeyourmeme', remakeyourmeme:'remakeyourmeme', mediaio:'mediaio', kavel:'kavel', mv:'makeviral', rm:'remakeyourmeme', mio:'mediaio', kv:'kavel'}};
+    if (p.has('src') && srcMap[p.get('src')]) {{
+      srcFilter = srcMap[p.get('src')];
+      setToggle('#bar-src', 'data-src', srcFilter);
+    }}
+    if (p.has('topic')) {{
+      topicFilter = p.get('topic') || 'all';
+      setToggle('#bar-topic', 'data-topic', topicFilter);
+    }}
+    if (p.has('date') && ['all','today','7d','30d','unknown'].includes(p.get('date'))) {{
+      dateFilter = p.get('date');
+      setToggle('#bar-date', 'data-date', dateFilter);
+    }}
+    if (p.has('prompt') && ['all','yes','no'].includes(p.get('prompt'))) {{
+      promptFilter = p.get('prompt');
+      setToggle('#bar-more', 'data-prompt', promptFilter);
+    }}
+    if (p.has('sort') && (p.get('sort') === 'new' || p.get('sort') === 'old')) {{
+      sortOrder = p.get('sort');
+      setToggle('#bar-more', 'data-sort', sortOrder);
+    }}
+    if (p.has('q')) q.value = p.get('q') || '';
+  }} catch(_){{}}
+}}
+
+document.getElementById('toolbar').addEventListener('click', e => {{
   const btn = e.target.closest('button');
   if (!btn) return;
   if (btn.dataset.src !== undefined) {{
     srcFilter = btn.dataset.src;
-    document.querySelectorAll('#bar button[data-src]').forEach(b => b.classList.toggle('on', b === btn));
+    setToggle('#bar-src', 'data-src', srcFilter);
+    render();
+  }} else if (btn.dataset.topic !== undefined) {{
+    topicFilter = btn.dataset.topic;
+    setToggle('#bar-topic', 'data-topic', topicFilter);
+    render();
+  }} else if (btn.dataset.date !== undefined) {{
+    dateFilter = btn.dataset.date;
+    setToggle('#bar-date', 'data-date', dateFilter);
     render();
   }} else if (btn.dataset.prompt !== undefined) {{
     promptFilter = btn.dataset.prompt;
-    document.querySelectorAll('#bar button[data-prompt]').forEach(b => b.classList.toggle('on', b === btn));
+    setToggle('#bar-more', 'data-prompt', promptFilter);
+    render();
+  }} else if (btn.dataset.sort !== undefined) {{
+    sortOrder = btn.dataset.sort;
+    setToggle('#bar-more', 'data-sort', sortOrder);
     render();
   }}
 }});
-q.addEventListener('input', render);
+
+q.addEventListener('input', () => {{
+  clearTimeout(searchTimer);
+  searchTimer = setTimeout(render, 120);
+}});
 
 grid.addEventListener('click', e => {{
   if (e.target.closest('[data-stop]')) return;
@@ -452,13 +673,19 @@ document.addEventListener('keydown', e => {{
   if (e.key === 'Escape' && modal.classList.contains('open')) closeModal();
 }});
 
+applyUrl();
 render();
 </script>
 </body>
 </html>
 '''
     (ROOT / 'index.html').write_text(html)
-    print(f'Wrote index.html with {len(cards)} cards (MV={n_mv} RM={n_rm} MIO={n_mio} KV={n_kv} prompts={n_with_prompts})')
+    dated = sum(1 for c in cards if c['date'])
+    print(
+        f'Wrote index.html with {len(cards)} cards '
+        f'(MV={n_mv} RM={n_rm} MIO={n_mio} KV={n_kv} prompts={n_with_prompts} '
+        f'dated={dated} unknown_date={len(cards)-dated})'
+    )
 
 
 if __name__ == '__main__':
