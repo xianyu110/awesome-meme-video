@@ -1,0 +1,63 @@
+{
+  "source": "kavel",
+  "source_site": "https://www.kavel.ai",
+  "slug": "earth-zoom-out-ai",
+  "name": "Earth Zoom Out AI",
+  "url": "https://www.kavel.ai/video/earth-zoom-out-ai",
+  "listing_url": "https://www.kavel.ai/ai-video-trends",
+  "blurb": "Start on your photo and pull back until the whole planet is in frame.",
+  "published": null,
+  "updated": null,
+  "scraped_at": "2026-10-19",
+  "listing_index": 61,
+  "this_week_rank": null,
+  "demo_videos": [
+    "https://cdn.kavel.ai/videos/kavel-showcase/earth-zoom-waterfall-dive.mp4",
+    "https://cdn.kavel.ai/videos/kavel-showcase/earth-zoom-summit-dive.mp4",
+    "https://cdn.kavel.ai/videos/kavel-showcase/earth-zoom-kashmir-dive-crop.mp4",
+    "https://cdn.kavel.ai/videos/kavel-showcase/earth-zoom-rinjani-summit.mp4"
+  ],
+  "posters": [
+    "https://cdn.kavel.ai/posters/kavel-showcase/earth-zoom-waterfall-dive-fx-poster.webp",
+    "https://cdn.kavel.ai/posters/kavel-showcase/earth-zoom-waterfall-dive-fx-poster-thumb-240.webp",
+    "https://cdn.kavel.ai/posters/kavel-showcase/earth-zoom-summit-dive-fx-poster.webp",
+    "https://cdn.kavel.ai/posters/kavel-showcase/earth-zoom-kashmir-dive-crop-poster.webp",
+    "https://cdn.kavel.ai/posters/kavel-showcase/earth-zoom-rinjani-summit-fx-poster.webp"
+  ],
+  "prompts": [
+    {
+      "label": "Template prompt",
+      "variant": null,
+      "kind": "video_prompt",
+      "text": "Start exactly on the photo: the person from the photo in the same place, same pose and same framing. The camera pulls straight back and up in one smooth continuous move: the person shrinks into the scene, then the street or landscape around them, the whole town or coastline, up through a layer of white clouds, out of the blue atmosphere, until the whole planet Earth hangs in black space with the sun on its edge. Photorealistic, seamless zoom out, no cuts, vertical video. No text, no logos, no watermark."
+    },
+    {
+      "label": "Earth zoom AI â from space down to a man under a waterfall",
+      "variant": "earth-zoom-waterfall-dive",
+      "kind": "video_prompt",
+      "text": "Begin in black space looking at the whole planet Earth. The camera dives straight down in one smooth continuous move: through the blue atmosphere, through white clouds, down over green mountains and forest, toward a tall waterfall, and lands on the person from the photo standing in the pool at its foot with arms spread wide, keeping their face, hair and clothes exactly as in the photo. Photorealistic, seamless zoom in, no cuts, vertical video. No text, no logos, no watermark."
+    },
+    {
+      "label": "Earth zoom AI â down through the clouds onto a summit",
+      "variant": "earth-zoom-summit-dive",
+      "kind": "video_prompt",
+      "text": "Begin high above the Earth, looking down on a sea of white clouds. The camera dives straight down in one smooth continuous move: through the clouds, past a mountain ridge, onto a rocky summit where the person from the photo stands looking out over the peaks, then circles round to their face. Keep their face, hair and clothes exactly as in the photo. Clear blue sky, bright morning light, photorealistic, seamless zoom in, no cuts, vertical video. No text, no logos, no watermark."
+    },
+    {
+      "label": "Earth zoom AI â snowfields, a green valley, then him on the ridge",
+      "variant": "earth-zoom-kashmir-dive",
+      "kind": "video_prompt",
+      "text": "Begin in black space above the whole planet Earth. The camera dives straight down in one smooth continuous move: through the atmosphere, over snow-capped mountain peaks and a glacier lake, down into a green valley, and finds the person from the photo walking on the ridge, ending on the same framing as the photo. Keep their face, hair and clothes exactly as in the photo. Photorealistic, seamless zoom in, no cuts, vertical video. No text, no logos, no watermark."
+    },
+    {
+      "label": "Earth zoom AI â from orbit to a hiker on a volcano summit",
+      "variant": "earth-zoom-rinjani-summit",
+      "kind": "video_prompt",
+      "text": "Begin in orbit looking down at the Earth. The camera dives straight down in one smooth continuous move: through a layer of white clouds, over a volcano with a crater lake, and lands on the person from the photo standing on the summit, ending on the same framing as the photo. Keep their face, hair and clothes exactly as in the photo. Clear high-altitude light, photorealistic, seamless zoom in, no cuts, vertical video. No text, no logos, no watermark."
+    }
+  ],
+  "prompt_count": 5,
+  "prompts_public": true,
+  "note": null,
+  "showcase_count": 4
+}

@@ -1,0 +1,63 @@
+{
+  "source": "kavel",
+  "source_site": "https://www.kavel.ai",
+  "slug": "ghost-filter-prank-ai",
+  "name": "Ghost Filter Prank AI",
+  "url": "https://www.kavel.ai/video/ghost-filter-prank-ai",
+  "listing_url": "https://www.kavel.ai/ai-video-trends",
+  "blurb": "One photo of them in, and a grinning ghost creeps up behind their shoulder.",
+  "published": null,
+  "updated": null,
+  "scraped_at": "2026-10-19",
+  "listing_index": 47,
+  "this_week_rank": null,
+  "demo_videos": [
+    "https://cdn.kavel.ai/videos/kavel-showcase/ghost-filter-prank-kitchen-counter.mp4",
+    "https://cdn.kavel.ai/videos/kavel-showcase/ghost-filter-prank-bathroom-door.mp4",
+    "https://cdn.kavel.ai/videos/kavel-showcase/ghost-filter-prank-mirror-scream.mp4",
+    "https://cdn.kavel.ai/videos/kavel-showcase/ghost-filter-prank-sink-boy.mp4"
+  ],
+  "posters": [
+    "https://cdn.kavel.ai/posters/kavel-showcase/ghost-filter-prank-kitchen-counter-fx-poster.webp",
+    "https://cdn.kavel.ai/posters/kavel-showcase/ghost-filter-prank-kitchen-counter-fx-poster-thumb-240.webp",
+    "https://cdn.kavel.ai/posters/kavel-showcase/ghost-filter-prank-bathroom-door-fx-poster.webp",
+    "https://cdn.kavel.ai/posters/kavel-showcase/ghost-filter-prank-mirror-scream-fx-poster.webp",
+    "https://cdn.kavel.ai/posters/kavel-showcase/ghost-filter-prank-sink-boy-fx-poster.webp"
+  ],
+  "prompts": [
+    {
+      "label": "Template prompt",
+      "variant": null,
+      "kind": "video_prompt",
+      "text": "Bring the photo to life and keep the person exactly as photographed: same face, hair, skin tone, age and clothes, in the same room. Filmed on a phone propped up in front of them, like a front-camera video. They chat and smile at the camera, completely unaware. Behind them, a tall, gaunt ghost woman with pale grey-green skin, long straight grey hair, round staring white eyes, a wide unnatural grin and long bony clawed fingers, slowly rises into view over their shoulder, hunched, both clawed hands lifting up on either side of them, and leans in closer and closer, grinning at the camera. The person glances back once, sees nothing, turns back to the camera and keeps talking while the ghost hovers right behind their head. Creepy, not gory: no blood, no wounds, the ghost never grabs or hurts anyone. One continuous shot, natural indoor light, vertical 9:16 video. Quiet room tone with a low eerie drone in the audio, no music with vocals. No text, no captions, no logos, no watermark."
+    },
+    {
+      "label": "Ghost filter prank â at the kitchen counter",
+      "variant": "ghost-filter-prank-kitchen-counter",
+      "kind": "video_prompt",
+      "text": "Bring the photo to life and keep the person exactly as photographed: same face, hair, skin tone, age and clothes. They sit at a kitchen counter under a crystal pendant light, a tablet and a snack bowl in front of them, filmed on a phone lying on the counter. They nibble a snack, chat and wave their hands at the camera, laughing, never looking back. Behind them by the window blinds, a tall, gaunt ghost woman with pale grey-green skin, long straight grey hair, round staring white eyes, a wide unnatural grin and long bony clawed fingers, stands hunched with both clawed hands raised and creeps closer over their shoulder, grinning at the camera. Creepy, not gory: no blood, no wounds, the ghost never grabs or hurts anyone. One continuous shot, natural indoor light, vertical 9:16 video. Quiet room tone with a low eerie drone in the audio, no music with vocals. No text, no captions, no logos, no watermark."
+    },
+    {
+      "label": "Ghost filter prank â the bathroom door",
+      "variant": "ghost-filter-prank-bathroom-door",
+      "kind": "video_prompt",
+      "text": "Bring the photo to life and keep the person exactly as photographed: same face, hair, skin tone, age and clothes. They stand in front of a closed white door in a bright bathroom, filmed on a phone resting on the sink. They smile at the camera and sway; behind them a tall, gaunt ghost woman with pale grey-green skin, long straight grey hair, round staring white eyes, a wide unnatural grin and long bony clawed fingers rises up from the side, clawed hands spread on either side of them. They turn to look at the door behind them, see nothing, turn back and walk right up to the lens while the ghost leans over their shoulder. Creepy, not gory: no blood, no wounds, the ghost never grabs or hurts anyone. One continuous shot, natural indoor light, vertical 9:16 video. Quiet room tone with a low eerie drone in the audio, no music with vocals. No text, no captions, no logos, no watermark."
+    },
+    {
+      "label": "Ghost filter prank â the scream at the sink",
+      "variant": "ghost-filter-prank-mirror-scream",
+      "kind": "video_prompt",
+      "text": "Bring the photo to life and keep the person exactly as photographed: same face, hair, skin tone, age and clothes. They stand at a bathroom counter wiping the sink with a yellow sponge, filmed on a phone propped on the counter. A tall, gaunt ghost woman with pale grey-green skin, long straight grey hair, round staring white eyes, a wide unnatural grin and long bony clawed fingers lunges out from behind them with both clawed arms stretched toward the camera. They spin around, see her, scream with their mouth wide open, flinch back clutching what they are holding, and stare at the camera wide-eyed. Creepy, not gory: no blood, no wounds, the ghost never grabs or hurts anyone. One continuous shot, natural indoor light, vertical 9:16 video. Quiet room tone with a low eerie drone in the audio, no music with vocals. No text, no captions, no logos, no watermark."
+    },
+    {
+      "label": "Ghost filter prank â hand washing",
+      "variant": "ghost-filter-prank-sink-boy",
+      "kind": "video_prompt",
+      "text": "Bring the photo to life and keep the person exactly as photographed: same face, hair, skin tone, age and clothes. They lean on a bathroom sink with the tap running, washing their hands and smiling at the camera, filmed on a phone on the counter. Over their shoulder, a tall, gaunt ghost woman with pale grey-green skin, long straight grey hair, round staring white eyes, a wide unnatural grin and long bony clawed fingers, peers out from behind them, clawed fingers curling around their shoulder line without touching. They keep smiling, then slowly notice something on the screen, freeze and stare at the camera wide-eyed, mouth open. Creepy, not gory: no blood, no wounds, the ghost never grabs or hurts anyone. One continuous shot, natural indoor light, vertical 9:16 video. Quiet room tone with a low eerie drone in the audio, no music with vocals. No text, no captions, no logos, no watermark."
+    }
+  ],
+  "prompt_count": 5,
+  "prompts_public": true,
+  "note": null,
+  "showcase_count": 4
+}

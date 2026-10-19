@@ -1,0 +1,30 @@
+{
+  "source": "kavel",
+  "source_site": "https://www.kavel.ai",
+  "slug": "susan-dell-dance-ai-video",
+  "name": "Susan Dell Dance AI",
+  "url": "https://www.kavel.ai/video/susan-dell-dance-ai-video",
+  "listing_url": "https://www.kavel.ai/ai-video-trends",
+  "blurb": "One photo in: you squat wide, sweep the air, tiptoe forward and freeze on one leg, dead serious.",
+  "published": null,
+  "updated": null,
+  "scraped_at": "2026-10-19",
+  "listing_index": 20,
+  "this_week_rank": null,
+  "demo_videos": [
+    "https://cdn.kavel.ai/videos/kavel-showcase/susan-dell-dance-red-dress.mp4",
+    "https://cdn.kavel.ai/videos/kavel-showcase/susan-dell-dance-grandma.mp4",
+    "https://cdn.kavel.ai/videos/kavel-showcase/susan-dell-dance-park-guy.mp4"
+  ],
+  "posters": [
+    "https://cdn.kavel.ai/posters/kavel-showcase/susan-dell-dance-red-dress-poster.webp",
+    "https://cdn.kavel.ai/posters/kavel-showcase/susan-dell-dance-red-dress-poster-thumb-240.webp",
+    "https://cdn.kavel.ai/posters/kavel-showcase/susan-dell-dance-grandma-fx-poster.webp",
+    "https://cdn.kavel.ai/posters/kavel-showcase/susan-dell-dance-park-guy-fx-poster.webp"
+  ],
+  "prompts": [],
+  "prompt_count": 0,
+  "prompts_public": false,
+  "note": "No public prompt text found on Kavel page payload; demos/posters only — prompts not invented.",
+  "showcase_count": 3
+}

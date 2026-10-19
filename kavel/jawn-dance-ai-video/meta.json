@@ -1,0 +1,63 @@
+{
+  "source": "kavel",
+  "source_site": "https://www.kavel.ai",
+  "slug": "jawn-dance-ai-video",
+  "name": "The Jawn Dance AI",
+  "url": "https://www.kavel.ai/video/jawn-dance-ai-video",
+  "listing_url": "https://www.kavel.ai/ai-video-trends",
+  "blurb": "One photo, and your baby, pet or you does the deadpan Jawn bounce.",
+  "published": null,
+  "updated": null,
+  "scraped_at": "2026-10-19",
+  "listing_index": 59,
+  "this_week_rank": null,
+  "demo_videos": [
+    "https://cdn.kavel.ai/videos/kavel-showcase/jawn-dance-cavoodle-coffee.mp4",
+    "https://cdn.kavel.ai/videos/kavel-showcase/jawn-dance-pug-hoodie.mp4",
+    "https://cdn.kavel.ai/videos/kavel-showcase/jawn-dance-mom-pajamas.mp4",
+    "https://cdn.kavel.ai/videos/kavel-showcase/jawn-dance-onesie-baby.mp4"
+  ],
+  "posters": [
+    "https://cdn.kavel.ai/posters/kavel-showcase/jawn-dance-cavoodle-coffee-poster.webp",
+    "https://cdn.kavel.ai/posters/kavel-showcase/jawn-dance-cavoodle-coffee-poster-thumb-240.webp",
+    "https://cdn.kavel.ai/posters/kavel-showcase/jawn-dance-pug-hoodie-fx-poster.webp",
+    "https://cdn.kavel.ai/posters/kavel-showcase/jawn-dance-mom-pajamas-fx-poster.webp",
+    "https://cdn.kavel.ai/posters/kavel-showcase/jawn-dance-onesie-baby-poster.webp"
+  ],
+  "prompts": [
+    {
+      "label": "Template prompt",
+      "variant": null,
+      "kind": "video_prompt",
+      "text": "Bring the photo to life and keep the subject exactly as photographed: same face, hair or fur, body, outfit and background. The subject stands facing the camera holding a drink at chest height (a cup, a bottle or a glass) and does the Jawn dance: weight rocking side to side on the kick drum, knees soft, feet mostly planted, shoulders and chest riding the beat, head nodding on the count, the free hand making small casual moves close to the chest, never above the shoulders. A completely deadpan face for most of the clip, then a small smirk at the very end. If the subject is a baby or a pet, keep real proportions: a baby stays a baby, paws stay paws. Fixed phone camera at chest height, natural light, one continuous take, vertical video. Upbeat tech-house beat in the audio. No text, no captions, no logos, no watermark."
+    },
+    {
+      "label": "The Jawn dance AI â a pug in a hoodie",
+      "variant": "jawn-dance-pug-hoodie",
+      "kind": "video_prompt",
+      "text": "Bring the photo to life and keep the dog exactly as photographed: same breed, fur colour, face and markings. Dress it in a colourful colour-block hoodie and black-and-white high-top sneakers. At night on a wet street lined with neon signs and graffiti walls, the dog stands up on its hind legs facing the camera and does the Jawn bounce: rocking side to side on the beat, lifting one sneaker then the other, front paws tucked at its chest, a completely deadpan face. Real dog anatomy: paws, never human hands. Low camera at the dog's eye level, neon reflections on the wet ground, one continuous take, vertical video. Upbeat tech-house beat in the audio. No people, no text, no brand logos, no watermark."
+    },
+    {
+      "label": "The Jawn dance AI â a cavoodle with a coffee cup",
+      "variant": "jawn-dance-cavoodle-coffee",
+      "kind": "video_prompt",
+      "text": "Bring the photo to life and keep the dog exactly as photographed: same face, fur colour and markings. Dress it in a slouchy pink knit beanie and white fleece pyjamas, holding a plain takeaway coffee cup in both front paws at chest height. In a cosy living room with soft afternoon light, the dog stands upright and grooves to the beat: shoulders bouncing, rocking side to side, head nodding, a straight face, then a happy grin over the cup at the end. Real dog anatomy: paws, not human hands. Fixed camera at chest height, one continuous take, vertical video. Upbeat tech-house beat in the audio. No people, no text, no logos on the cup, no watermark."
+    },
+    {
+      "label": "The Jawn dance AI â a 3D mom in pyjamas",
+      "variant": "jawn-dance-mom-pajamas",
+      "kind": "video_prompt",
+      "text": "Turn the person in the photo into a soft 3D animated character while keeping their face, hair and build recognisable. They wear a white T-shirt and pink pyjama bottoms with hearts and hold an iced drink, standing on a terrace with string lights and roses at sunset. They take a sip, then slide into the Jawn dance: hips rocking side to side on the beat, shoulders bouncing, free hand loose at the chest, a cool deadpan look that breaks into a laugh at the end. Animated feature-film look, warm golden light, fixed camera, one continuous take, vertical video. Upbeat tech-house beat in the audio. No text, no captions, no logos, no watermark."
+    },
+    {
+      "label": "The Jawn dance AI â a baby with a bottle",
+      "variant": "jawn-dance-onesie-baby",
+      "kind": "video_prompt",
+      "text": "Bring the photo to life and keep the baby exactly as photographed: same face, hair, onesie and room. The baby stands on the bed, steadied by an adult's hands at the sides, holding a milk bottle with both hands at chest height, and bops to the beat: knees bouncing, shoulders rocking side to side, eyes wide and face completely serious, then a tiny smile. Real baby proportions and movements. Phone camera at the baby's eye level, warm indoor light, one continuous take, vertical video. Upbeat tech-house beat in the audio. No text, no captions, no logos, no watermark."
+    }
+  ],
+  "prompt_count": 5,
+  "prompts_public": true,
+  "note": null,
+  "showcase_count": 4
+}

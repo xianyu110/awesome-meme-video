@@ -1,0 +1,32 @@
+{
+  "source": "kavel",
+  "source_site": "https://www.kavel.ai",
+  "slug": "flying-car-ai-video",
+  "name": "Flying Car AI Video",
+  "url": "https://www.kavel.ai/video/flying-car-ai-video",
+  "listing_url": "https://www.kavel.ai/ai-video-trends",
+  "blurb": "One photo of any car in: it fires jet thrusters, rises out of the queue and flies off.",
+  "published": null,
+  "updated": null,
+  "scraped_at": "2026-10-19",
+  "listing_index": 5,
+  "this_week_rank": null,
+  "demo_videos": [
+    "https://cdn.kavel.ai/videos/kavel-showcase/flying-car-pickup.mp4",
+    "https://cdn.kavel.ai/videos/kavel-showcase/flying-car-suv.mp4",
+    "https://cdn.kavel.ai/videos/kavel-showcase/flying-car-classic.mp4",
+    "https://cdn.kavel.ai/videos/kavel-showcase/flying-car-city-crowd.mp4"
+  ],
+  "posters": [
+    "https://cdn.kavel.ai/posters/kavel-showcase/flying-car-pickup-poster.webp",
+    "https://cdn.kavel.ai/posters/kavel-showcase/flying-car-pickup-poster-thumb-240.webp",
+    "https://cdn.kavel.ai/posters/kavel-showcase/flying-car-suv-poster.webp",
+    "https://cdn.kavel.ai/posters/kavel-showcase/flying-car-classic-poster.webp",
+    "https://cdn.kavel.ai/posters/kavel-showcase/flying-car-city-crowd-poster.webp"
+  ],
+  "prompts": [],
+  "prompt_count": 0,
+  "prompts_public": false,
+  "note": "No public prompt text found on Kavel page payload; demos/posters only — prompts not invented.",
+  "showcase_count": 4
+}

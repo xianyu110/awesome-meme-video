@@ -1,0 +1,55 @@
+{
+  "source": "kavel",
+  "source_site": "https://www.kavel.ai",
+  "slug": "ozil-goal-ai-video",
+  "name": "Ozil Goal AI",
+  "url": "https://www.kavel.ai/video/ozil-goal-ai-video",
+  "listing_url": "https://www.kavel.ai/ai-video-trends",
+  "blurb": "One photo in: you rounding the keeper, letting two defenders slide past, then tapping it in.",
+  "published": null,
+  "updated": null,
+  "scraped_at": "2026-10-19",
+  "listing_index": 43,
+  "this_week_rank": null,
+  "demo_videos": [
+    "https://cdn.kavel.ai/videos/kavel-showcase/ozil-goal-ai-video-yellow-kit.mp4",
+    "https://cdn.kavel.ai/videos/kavel-showcase/ozil-goal-ai-video-white-kit.mp4",
+    "https://cdn.kavel.ai/videos/kavel-showcase/ozil-goal-ai-video-orange-kit.mp4"
+  ],
+  "posters": [
+    "https://cdn.kavel.ai/posters/kavel-showcase/ozil-goal-ai-video-yellow-kit-poster.webp",
+    "https://cdn.kavel.ai/posters/kavel-showcase/ozil-goal-ai-video-yellow-kit-poster-thumb-240.webp",
+    "https://cdn.kavel.ai/posters/kavel-showcase/ozil-goal-ai-video-white-kit-fx-poster.webp",
+    "https://cdn.kavel.ai/posters/kavel-showcase/ozil-goal-ai-video-orange-kit-fx-poster.webp"
+  ],
+  "prompts": [
+    {
+      "label": "Template prompt",
+      "variant": null,
+      "kind": "video_prompt",
+      "text": "Use the photo as the main character and keep the person exactly as photographed: same face, hair, skin tone, build and clothes. A night match in a packed floodlit stadium, filmed like a TV broadcast from behind the play. A through ball lands at their feet and they sprint clear toward goal; the goalkeeper rushes out and they knock the ball wide around him with one touch. Near the goal line two defenders race back and slide in to block; the player stops the ball dead and waits, both defenders slide past along the grass, then the player calmly taps the ball into the empty net and runs off with both arms out to the roaring crowd. Plain unbranded kits for everyone, no club badges, no sponsor logos. One continuous shot, vertical 9:16. Stadium crowd roar in the audio, no commentary. No text, no captions, no logos, no watermark."
+    },
+    {
+      "label": "Ozil goal AI â the yellow kit under the floodlights",
+      "variant": "ozil-goal-ai-video-yellow-kit",
+      "kind": "video_prompt",
+      "text": "Use the photo as the main character and keep the person exactly as photographed: same face, hair, skin tone and build, wearing the plain bright yellow shirt and black shorts. A night match in a packed floodlit stadium, filmed like a TV broadcast from behind the play. A through ball lands at their feet and they sprint clear toward goal; the goalkeeper rushes out and they knock the ball wide around him with one touch. Near the goal line two defenders race back and slide in to block; the player stops the ball dead and waits, both defenders slide past along the grass, then the player calmly taps the ball into the empty net and runs off with both arms out to the roaring crowd. Plain unbranded kits for everyone, no club badges, no sponsor logos. One continuous shot, vertical 9:16. Stadium crowd roar in the audio, no commentary. No text, no captions, no logos, no watermark."
+    },
+    {
+      "label": "Ozil goal AI â the Sunday-league striker",
+      "variant": "ozil-goal-ai-video-white-kit",
+      "kind": "video_prompt",
+      "text": "Use the photo as the main character and keep the person exactly as photographed: same face, hair, skin tone and build, wearing the plain white shirt with grey wave stripes and black shorts. A night match in a packed floodlit stadium, filmed like a TV broadcast from behind the play. A through ball lands at their feet and they sprint clear toward goal; the goalkeeper rushes out and they knock the ball wide around him with one touch. Near the goal line two defenders race back and slide in to block; the player stops the ball dead and waits, both defenders slide past along the grass, then the player calmly taps the ball into the empty net and runs off with both arms out to the roaring crowd. Plain unbranded kits for everyone, no club badges, no sponsor logos. One continuous shot, vertical 9:16. Stadium crowd roar in the audio, no commentary. No text, no captions, no logos, no watermark."
+    },
+    {
+      "label": "Ozil goal AI â number 17 in orange",
+      "variant": "ozil-goal-ai-video-orange-kit",
+      "kind": "video_prompt",
+      "text": "Use the photo as the main character and keep the person exactly as photographed: same face, hair, skin tone and build, wearing the plain orange shirt and black shorts. A night match in a packed floodlit stadium, filmed like a TV broadcast from behind the play. A through ball lands at their feet and they sprint clear toward goal; the goalkeeper rushes out and they knock the ball wide around him with one touch. Near the goal line two defenders race back and slide in to block; the player stops the ball dead and waits, both defenders slide past along the grass, then the player calmly taps the ball into the empty net and runs off with both arms out to the roaring crowd. Plain unbranded kits for everyone, no club badges, no sponsor logos. One continuous shot, vertical 9:16. Stadium crowd roar in the audio, no commentary. No text, no captions, no logos, no watermark."
+    }
+  ],
+  "prompt_count": 4,
+  "prompts_public": true,
+  "note": null,
+  "showcase_count": 3
+}

@@ -1,0 +1,26 @@
+{
+  "source": "kavel",
+  "source_site": "https://www.kavel.ai",
+  "slug": "storm-ii-ai-video",
+  "name": "STORM II AI Video",
+  "url": "https://www.kavel.ai/video/storm-ii-ai-video",
+  "listing_url": "https://www.kavel.ai/ai-video-trends",
+  "blurb": "Put yourself at the centre and let the formation move around you.",
+  "published": null,
+  "updated": null,
+  "scraped_at": "2026-10-19",
+  "listing_index": 71,
+  "this_week_rank": null,
+  "demo_videos": [
+    "https://cdn.kavel.ai/videos/kavel-showcase/woman-walking-through-white-crowd.mp4"
+  ],
+  "posters": [
+    "https://cdn.kavel.ai/posters/kavel-showcase/woman-walking-through-white-crowd-poster.webp",
+    "https://cdn.kavel.ai/posters/kavel-showcase/woman-walking-through-white-crowd-poster-thumb-240.webp"
+  ],
+  "prompts": [],
+  "prompt_count": 0,
+  "prompts_public": false,
+  "note": "No public prompt text found on Kavel page payload; demos/posters only — prompts not invented.",
+  "showcase_count": 0
+}

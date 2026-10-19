@@ -1,0 +1,30 @@
+{
+  "source": "kavel",
+  "source_site": "https://www.kavel.ai",
+  "slug": "lamine-yamal-rabona-ai",
+  "name": "Lamine Yamal Rabona AI",
+  "url": "https://www.kavel.ai/video/lamine-yamal-rabona-ai",
+  "listing_url": "https://www.kavel.ai/ai-video-trends",
+  "blurb": "One photo in: you fake the rabona cross, drag it back and leave the defender on the grass.",
+  "published": null,
+  "updated": null,
+  "scraped_at": "2026-10-19",
+  "listing_index": 10,
+  "this_week_rank": null,
+  "demo_videos": [
+    "https://cdn.kavel.ai/videos/kavel-showcase/lamine-yamal-rabona-ai-video-sky-blue.mp4",
+    "https://cdn.kavel.ai/videos/kavel-showcase/lamine-yamal-rabona-ai-video-amber.mp4",
+    "https://cdn.kavel.ai/videos/kavel-showcase/lamine-yamal-rabona-ai-video-gradient.mp4"
+  ],
+  "posters": [
+    "https://cdn.kavel.ai/posters/kavel-showcase/lamine-yamal-rabona-ai-video-sky-blue-poster.webp",
+    "https://cdn.kavel.ai/posters/kavel-showcase/lamine-yamal-rabona-ai-video-sky-blue-poster-thumb-240.webp",
+    "https://cdn.kavel.ai/posters/kavel-showcase/lamine-yamal-rabona-ai-video-amber-poster.webp",
+    "https://cdn.kavel.ai/posters/kavel-showcase/lamine-yamal-rabona-ai-video-gradient-poster.webp"
+  ],
+  "prompts": [],
+  "prompt_count": 0,
+  "prompts_public": false,
+  "note": "No public prompt text found on Kavel page payload; demos/posters only — prompts not invented.",
+  "showcase_count": 3
+}

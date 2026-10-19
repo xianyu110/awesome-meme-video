@@ -1,0 +1,33 @@
+{
+  "source": "kavel",
+  "source_site": "https://www.kavel.ai",
+  "slug": "raindance-ai-trend",
+  "name": "Raindance AI Trend",
+  "url": "https://www.kavel.ai/video/raindance-ai-trend",
+  "listing_url": "https://www.kavel.ai/ai-video-trends",
+  "blurb": "One photo, and you are singing on a golden-hour pier.",
+  "published": null,
+  "updated": null,
+  "scraped_at": "2026-10-19",
+  "listing_index": 64,
+  "this_week_rank": null,
+  "demo_videos": [
+    "https://cdn.kavel.ai/videos/kavel-showcase/raindance-pier-edge.mp4"
+  ],
+  "posters": [
+    "https://cdn.kavel.ai/posters/kavel-showcase/raindance-pier-edge-poster.webp",
+    "https://cdn.kavel.ai/posters/kavel-showcase/raindance-pier-edge-poster-thumb-240.webp"
+  ],
+  "prompts": [
+    {
+      "label": "Template prompt",
+      "variant": null,
+      "kind": "video_prompt",
+      "text": "The person in the photo, same face, hair and outfit. First second: exactly as in the photo. Hard cut: a cinematic music-video shot of the same person sitting at the very edge of an old wooden pier above calm open sea at golden hour, legs over the water, warm low sun behind them and soft lens flare. The camera slowly pushes in from a low angle as they look straight into the lens and sing softly, a light sea breeze moving their hair, then they turn their head toward the horizon and back to the lens. Slow, moody, romantic pacing, shallow depth of field, film grain, 35mm music-video look. No other people, no text, no captions, no logos, no watermark."
+    }
+  ],
+  "prompt_count": 1,
+  "prompts_public": true,
+  "note": null,
+  "showcase_count": 0
+}

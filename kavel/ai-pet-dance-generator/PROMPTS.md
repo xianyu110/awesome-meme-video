@@ -1,0 +1,85 @@
+# AI Pet Dance Generator
+
+- Source: [kavel](https://www.kavel.ai/video/ai-pet-dance-generator)
+- Slug: `ai-pet-dance-generator`
+- Listing: https://www.kavel.ai/ai-video-trends
+
+One photo of your cat or dog, and it stands up and dances.
+
+## Demo videos (CDN)
+
+- https://cdn.kavel.ai/videos/kavel-showcase/ai-pet-dance-towel-dog.mp4
+- https://cdn.kavel.ai/videos/kavel-showcase/ai-pet-dance-puppy-trio.mp4
+- https://cdn.kavel.ai/videos/kavel-showcase/ai-pet-dance-raincoat-kitten.mp4
+- https://cdn.kavel.ai/videos/kavel-showcase/ai-pet-dance-cat-trio.mp4
+- https://cdn.kavel.ai/videos/kavel-showcase/ai-pet-dance-bathtub-kittens.mp4
+- https://cdn.kavel.ai/videos/kavel-showcase/ai-pet-dance-two-cats.mp4
+
+## Posters
+
+- https://cdn.kavel.ai/posters/kavel-showcase/ai-pet-dance-towel-dog-poster.webp
+- https://cdn.kavel.ai/posters/kavel-showcase/ai-pet-dance-towel-dog-poster-thumb-240.webp
+- https://cdn.kavel.ai/posters/kavel-showcase/ai-pet-dance-puppy-trio-fx-poster.webp
+- https://cdn.kavel.ai/posters/kavel-showcase/ai-pet-dance-raincoat-kitten-fx-poster.webp
+- https://cdn.kavel.ai/posters/kavel-showcase/ai-pet-dance-cat-trio-fx-poster.webp
+- https://cdn.kavel.ai/posters/kavel-showcase/ai-pet-dance-bathtub-kittens-poster.webp
+- https://cdn.kavel.ai/posters/kavel-showcase/ai-pet-dance-two-cats-poster.webp
+
+## Prompts
+
+### 1. Template prompt
+
+*Kind: video_prompt*
+
+```text
+One to three reference photos, one pet each: a cat, a dog or any animal. Keep every pet exactly as photographed: same species, breed, fur colour, markings, eyes and ears, and never swap them. Set the dance in the place from the first photo, same room or garden, same light. Their whole bodies stay in frame from ears to paws the whole time, camera static at their eye level a couple of metres away. (1) The pets rise up onto their hind legs and start bouncing to the beat; (2) they sway side to side and swing their front paws across their bodies, heads bobbing; (3) they turn once on the spot and shake their tails at the camera; (4) they spin back round, step toward the lens and finish with both front paws up in the air. With two or three pets, they dance side by side in sync. Real animal anatomy: paws, never human hands, natural fur. One continuous shot, vertical 9:16. Upbeat, bouncy pop beat in the audio, no vocals. No people, no text, no logos, no watermark.
+```
+
+### 2. AI pet dance â the shower dance — ai-pet-dance-towel-dog
+
+*Kind: video_prompt*
+
+```text
+One reference photo of a pet; keep it exactly as photographed: same species, breed, fur colour, markings and face. It stands in a walk-in shower with grey tiles and a glass door, a white towel wrapped on its head like a turban, shampoo bottles on a corner shelf behind it. Its whole body stays in frame the whole time, camera static at its eye level outside the open glass door. (1) It rises onto its hind legs, front paws tucked at its chest, and looks straight into the lens; (2) it sways its hips left and right to the beat, head tilting with each step; (3) it turns round on its hind legs and wiggles its tail and bottom at the camera; (4) it glances back over its shoulder, still dancing. Real animal anatomy: paws, never human hands, damp curly fur. One continuous shot, vertical 9:16. Upbeat, bouncy pop beat in the audio, no vocals. No people, no text, no brand names on the bottles, no watermark.
+```
+
+### 3. AI pet dance â three puppies in the studio — ai-pet-dance-puppy-trio
+
+*Kind: video_prompt*
+
+```text
+One to three reference photos, one pet each; keep every pet exactly as photographed: same species, breed, fur colour and face, and never swap them. A bright dance studio with a full mirror wall, a polished wooden floor and rows of ceiling lights. The pets stand in a row facing the camera, whole bodies in frame, camera static at their eye level. (1) All of them rise onto their hind legs and dance the same routine in sync: paws swinging up and down, shoulders bouncing, little side steps; (2) they turn to one side together and back again; (3) the pet in the middle drops to all fours and walks right up to the lens, looking into it, while the others keep dancing behind. With one photo, that one pet dances alone in the middle of the studio. Real animal anatomy: paws, never human hands. One continuous shot, vertical 9:16. Upbeat dance-pop beat in the audio, no vocals. No people, no text, no logos, no watermark.
+```
+
+### 4. AI pet dance â raincoat kitten — ai-pet-dance-raincoat-kitten
+
+*Kind: video_prompt*
+
+```text
+One reference photo of a pet; keep it exactly as photographed: same species, breed, fur colour, markings and face. Dress it in a bright yellow hooded raincoat and small yellow rain boots. It stands in a wide puddle on a wet city pavement on a rainy autumn day, fallen leaves in the water, a few people with umbrellas blurred far behind. Its whole body stays in frame the whole time, camera static at its eye level. (1) It rises onto its hind legs and stamps its boots in the puddle to the beat, ripples spreading; (2) it turns round with its hood up and its tail swishing out from under the coat; (3) it spins back to face the camera, swings its front paws side to side and does a little hop; (4) it finishes with one paw raised, looking into the lens. Real animal anatomy: paws, never human hands. One continuous shot, vertical 9:16. Light rain and a bouncy pop beat in the audio, no vocals. No text, no logos, no watermark.
+```
+
+### 5. AI pet dance â three cats on stage — ai-pet-dance-cat-trio
+
+*Kind: video_prompt*
+
+```text
+One to three reference photos, one pet each; keep every pet exactly as photographed: same species, breed, fur colour and face, and never swap them. A dark dance stage with a black floor and a row of bright spotlights overhead. The first pet stands front and centre, the others just behind on either side, all whole bodies in frame, camera static at their eye level. (1) They rise onto their hind legs and do the same routine in sync: a hip shake, one front paw on the hip, the other waving up and down; (2) they turn their heads sharply to the side together, then back to the lens; (3) the backup dancers do a little spin while the lead keeps staring into the camera; (4) all of them finish with one paw raised high. With one photo, that one pet dances solo in the spotlight. Real animal anatomy: paws, never human hands. One continuous shot, vertical 9:16. Upbeat, punchy pop beat in the audio, no vocals. No people, no text, no logos, no watermark.
+```
+
+### 6. AI pet dance â bubble bath kittens — ai-pet-dance-bathtub-kittens
+
+*Kind: video_prompt*
+
+```text
+One to three reference photos, one pet each; keep every pet exactly as photographed: same species, breed, fur colour and face, and never swap them. A white bathtub piled high with bubble-bath foam, yellow rubber ducks and a small swim ring floating in it, beige tiles and a chrome tap behind. The pets stand up in the foam, upper bodies and front paws above the bubbles, camera static at the edge of the tub. (1) They rise onto their hind legs in the bubbles and bounce to the beat; (2) they wave their front paws in the air and sway side to side, foam flying; (3) they turn to each other and dance face to face; (4) they finish with paws up, looking into the lens, a bubble on one nose. Real animal anatomy: paws, never human hands, wet fur. One continuous shot, vertical 9:16. Splashing and a bouncy pop beat in the audio, no vocals. No people, no text, no brand names, no watermark.
+```
+
+### 7. AI pet dance â two cats, paw in paw — ai-pet-dance-two-cats
+
+*Kind: video_prompt*
+
+```text
+Two reference photos, one pet each; keep each exactly as photographed: same species, breed, fur colour and face, and never swap them. A bright living room with a pale blue floor and soft window light, a white sculpted chair behind them. The two pets stand facing each other on their hind legs, whole bodies in frame, camera static at their eye level. (1) They take each other's front paws like dance partners and sway together to the beat; (2) one turns the other round under its raised paw, then they swap and turn again; (3) they step side to side, paws still joined, tails swishing; (4) they finish nose to nose, then both look at the camera. Real animal anatomy: paws, never human hands. One continuous shot, vertical 9:16. A warm, swaying pop beat in the audio, no vocals. No people, no text, no logos, no watermark.
+```
+

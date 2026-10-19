@@ -1,0 +1,31 @@
+# Crazy Frog AI Video
+
+- Source: [kavel](https://www.kavel.ai/video/crazy-frog-ai-video)
+- Slug: `crazy-frog-ai-video`
+- Listing: https://www.kavel.ai/ai-video-trends
+
+One photo in: you or your pet squats on the invisible moped, a cop on your tail, then the flip.
+
+## Demo videos (CDN)
+
+- https://cdn.kavel.ai/videos/kavel-showcase/crazy-frog-pug-overpass.mp4
+- https://cdn.kavel.ai/videos/kavel-showcase/crazy-frog-cat-overpass.mp4
+- https://cdn.kavel.ai/videos/kavel-showcase/crazy-frog-palace-chase.mp4
+
+## Posters
+
+- https://cdn.kavel.ai/posters/kavel-showcase/crazy-frog-pug-overpass-poster.webp
+- https://cdn.kavel.ai/posters/kavel-showcase/crazy-frog-pug-overpass-poster-thumb-240.webp
+- https://cdn.kavel.ai/posters/kavel-showcase/crazy-frog-cat-overpass-fx-poster.webp
+- https://cdn.kavel.ai/posters/kavel-showcase/crazy-frog-palace-chase-poster.webp
+
+## Prompts
+
+### 1. Crazy Frog AI video â the palace garden chase — crazy-frog-palace-chase
+
+*Kind: video_prompt*
+
+```text
+Use the photo as the main character and keep them exactly as photographed: the same face, hair or fur, skin tone and build, now in a towering white powdered wig and a shimmering silver ball gown with puffed sleeves. A grand palace garden with clipped cone-shaped hedges and a gravel path at golden hour. (1) They pedal an antique penny-farthing bicycle hard down the gravel path straight toward the camera, gown billowing, face dead serious; (2) behind them a golden carriage pulled by a fluffy white poodle bursts into view and closes in between the hedges, and the camera swings to the poodle galloping; (3) they stand up on the pedals, pull away down the path and vanish in a cloud of dust with the carriage still chasing. Low tracking camera moving with the rider, one continuous take, vertical 9:16. Upbeat electronic ring-ding synth beat in the audio, no vocals. No text, no captions, no logos, no watermark.
+```
+

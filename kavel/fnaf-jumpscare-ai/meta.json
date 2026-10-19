@@ -1,0 +1,30 @@
+{
+  "source": "kavel",
+  "source_site": "https://www.kavel.ai",
+  "slug": "fnaf-jumpscare-ai",
+  "name": "FNAF Jumpscare AI",
+  "url": "https://www.kavel.ai/video/fnaf-jumpscare-ai",
+  "listing_url": "https://www.kavel.ai/ai-video-trends",
+  "blurb": "One selfie in: you turn into an animatronic on a night-vision camera and lunge at the lens.",
+  "published": null,
+  "updated": null,
+  "scraped_at": "2026-10-19",
+  "listing_index": 44,
+  "this_week_rank": null,
+  "demo_videos": [
+    "https://cdn.kavel.ai/videos/kavel-showcase/fnaf-jumpscare-ai-striped-top.mp4",
+    "https://cdn.kavel.ai/videos/kavel-showcase/fnaf-jumpscare-ai-ghost-cap.mp4",
+    "https://cdn.kavel.ai/videos/kavel-showcase/fnaf-jumpscare-ai-curly-hair.mp4"
+  ],
+  "posters": [
+    "https://cdn.kavel.ai/posters/kavel-showcase/fnaf-jumpscare-ai-striped-top-poster.webp",
+    "https://cdn.kavel.ai/posters/kavel-showcase/fnaf-jumpscare-ai-striped-top-poster-thumb-240.webp",
+    "https://cdn.kavel.ai/posters/kavel-showcase/fnaf-jumpscare-ai-ghost-cap-poster.webp",
+    "https://cdn.kavel.ai/posters/kavel-showcase/fnaf-jumpscare-ai-curly-hair-poster.webp"
+  ],
+  "prompts": [],
+  "prompt_count": 0,
+  "prompts_public": false,
+  "note": "No public prompt text found on Kavel page payload; demos/posters only — prompts not invented.",
+  "showcase_count": 3
+}

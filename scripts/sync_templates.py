@@ -1,5 +1,10 @@
 #!/usr/bin/env python3
-"""Scrape MakeViral + Remake Your Meme, rebuild inventory (newest-first), docs, gallery."""
+"""Scrape MakeViral + Remake Your Meme, rebuild inventory (newest-first), docs, gallery.
+
+Extra sources (Media.io, Kavel) are merged from on-disk folders after rebuild so a
+MakeViral/Remake sync does not drop them. Run scripts/scrape_mediaio.py and
+scripts/scrape_kavel.py separately (or via automation) to refresh those sources.
+"""
 from __future__ import annotations
 import hashlib, json, os, re, subprocess, sys, time
 from concurrent.futures import ThreadPoolExecutor, as_completed
@@ -489,10 +494,19 @@ def write_sources():
         '- CDN: https://cdn.remakeyourmeme.com/\n'
         '- `llms.txt`: https://remakeyourmeme.com/llms.txt\n'
         '- Public template pages do **not** expose copyable prompt text.\n\n'
+        '## Media.io\n'
+        '- Listing: https://www.media.io/ai/explore/zone/ai-video-trend-generator\n'
+        '- ZH: https://www.media.io/ai/zh/explore/zone/ai-video-trend-generator\n'
+        '- Prompts extracted verbatim from public `aigc_config` when present.\n\n'
+        '## Kavel\n'
+        '- Listing: https://www.kavel.ai/ai-video-trends\n'
+        '- Detail: `https://www.kavel.ai/video/<slug>`\n'
+        '- CDN: https://cdn.kavel.ai/\n'
+        '- Scrape: Next.js RSC flight HTML; prompts from hub `prompt` + showcase `templatePrompt` when present.\n\n'
         '## Sort rule\n'
         'Inventory, README tables, PROMPTS.md, and the Pages gallery are sorted **newest first** by:\n'
         '`updated` (MakeViral) → else `published` → else `scraped_at` (Asia/Shanghai scrape date).\n'
-        'Remake pages usually have no public publish date, so they fall back to `scraped_at`.\n\n'
+        'Remake / Media.io / Kavel pages often have no public publish date, so they fall back to `scraped_at`.\n\n'
         f'Synced {SCRAPE_ISO} (Asia/Shanghai) for the awesome-meme-video inventory.\n'
     )
 
@@ -526,6 +540,8 @@ def main():
 
     print('== rebuild inventory ==', flush=True)
     inv = rebuild_inventory(mv_change, rm_change)
+    print('== merge mediaio + kavel ==', flush=True)
+    inv = merge_extra_sources(inv)
     write_readme(inv)
     write_prompts_md(inv)
     write_sources()
@@ -547,6 +563,8 @@ def main():
         'totals': {
             'makeviral': inv['sources']['makeviral']['count'],
             'remakeyourmeme': inv['sources']['remakeyourmeme']['count'],
+            'mediaio': (inv['sources'].get('mediaio') or {}).get('count', 0),
+            'kavel': (inv['sources'].get('kavel') or {}).get('count', 0),
             'prompt_blocks': inv['sources']['makeviral']['total_prompt_blocks'],
         },
         'sorted_by': inv['sorted_by'],

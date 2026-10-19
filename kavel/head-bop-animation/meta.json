@@ -1,0 +1,55 @@
+{
+  "source": "kavel",
+  "source_site": "https://www.kavel.ai",
+  "slug": "head-bop-animation",
+  "name": "Head Bop Animation",
+  "url": "https://www.kavel.ai/video/head-bop-animation",
+  "listing_url": "https://www.kavel.ai/ai-video-trends",
+  "blurb": "One photo in: you lean back, point at the lens and nod on every beat. Add more photos for a lineup.",
+  "published": null,
+  "updated": null,
+  "scraped_at": "2026-10-19",
+  "listing_index": 34,
+  "this_week_rank": null,
+  "demo_videos": [
+    "https://cdn.kavel.ai/videos/kavel-showcase/head-bop-yellow-tee.mp4",
+    "https://cdn.kavel.ai/videos/kavel-showcase/head-bop-wig-shades.mp4",
+    "https://cdn.kavel.ai/videos/kavel-showcase/head-bop-cat-lineup.mp4"
+  ],
+  "posters": [
+    "https://cdn.kavel.ai/posters/kavel-showcase/head-bop-yellow-tee-fx-poster.webp",
+    "https://cdn.kavel.ai/posters/kavel-showcase/head-bop-yellow-tee-fx-poster-thumb-240.webp",
+    "https://cdn.kavel.ai/posters/kavel-showcase/head-bop-wig-shades-poster.webp",
+    "https://cdn.kavel.ai/posters/kavel-showcase/head-bop-cat-lineup-poster.webp"
+  ],
+  "prompts": [
+    {
+      "label": "Template prompt",
+      "variant": null,
+      "kind": "video_prompt",
+      "text": "Use the photo as the main character and keep them exactly as photographed: same face, hair, skin tone, body shape and outfit. They stand in front of a plain dark grey pleated curtain, lit softly from the front, knees up in frame. They do the headbop to a slowed phonk beat, every move landing on the kick: (1) a deep lean back, chin up, one palm held out, the head still nodding; (2) they snap forward and point straight at the camera, eyebrows raised; (3) an open-palm shrug with both hands while the head bobs side to side; (4) a hard nod forward on every beat to the end, a little smirk. The feet stay planted and the head carries the rhythm. Phone on a tripod, one continuous shot, vertical 9:16. Slowed phonk beat with heavy bass and cowbell in the audio, no vocals. No text, no captions, no logos, no watermark."
+    },
+    {
+      "label": "Head bop animation â the yellow tee",
+      "variant": "head-bop-yellow-tee",
+      "kind": "video_prompt",
+      "text": "Use the photo as the main character and keep them exactly as photographed: same face, hair, skin tone, body shape and outfit. They stand close to a floor-length dark grey satin curtain that fills the whole background, bright even light from the front. To a slowed phonk beat, every move on the kick: (1) they lean back so far they nearly tip over, one hand flung out to the side, mouth open; (2) they spring upright and jab a finger straight into the lens twice; (3) they spread both palms in a wide \"what?\" shrug, head bobbing; (4) they lean in toward the camera and nod hard, eyebrows up, then step back with both palms out. Feet planted, the head always on the beat. Phone on a tripod at chest height, full body in frame, one continuous shot, vertical 9:16. Slowed phonk beat with heavy bass in the audio, no vocals. No text, no captions, no logos, no watermark."
+    },
+    {
+      "label": "Head bop animation â the wig and shades",
+      "variant": "head-bop-wig-shades",
+      "kind": "video_prompt",
+      "text": "Use the photo as the main character and keep their face, skin tone and body shape exactly as photographed. Give them a big shaggy light-brown wig and black sunglasses, and keep their own top. They stand in front of a black curtain with a plain white ceiling just visible above it. The clip jump-cuts on every beat of a slowed phonk track between deadpan poses, the head nodding between each one: arms crossed and chin up; two-hand finger guns at the lens; one arm raised in a flex; a slow head tilt to one side; stepping half out of frame to the left and back in. Each pose holds for one beat, the framing jumps slightly with each cut. Phone on a tripod, waist up to full body, vertical 9:16. Slowed phonk beat with heavy bass in the audio, no vocals. No text, no captions, no logos, no watermark."
+    },
+    {
+      "label": "Head bop animation â the cat lineup",
+      "variant": "head-bop-cat-lineup",
+      "kind": "video_prompt",
+      "text": "One to four reference photos, one character each: a pet or a person. Keep every face, fur colour, markings and hairstyle exactly as photographed and never swap them. Each character appears as a cut-out head-and-shoulders photo, and they stand shoulder to shoulder in one row, in the order the photos were added, on a dark charcoal background under a soft spotlight. With fewer than four photos, the same characters repeat to fill a row of four. To a slowed phonk beat, the camera slides slowly along the row from left to right while each head bops in turn on the kick: a quick nod down and up with a tilt; then the camera slides back the other way and every head bops together on the last beats. Close framing, the row fills the screen, vertical 9:16. Slowed phonk beat with heavy bass in the audio, no vocals. No text, no captions, no logos, no watermark."
+    }
+  ],
+  "prompt_count": 4,
+  "prompts_public": true,
+  "note": null,
+  "showcase_count": 3
+}

@@ -1,0 +1,49 @@
+# AI Birthday Video Generator
+
+- Source: [kavel](https://www.kavel.ai/video/ai-birthday-video-generator)
+- Slug: `ai-birthday-video-generator`
+- Listing: https://www.kavel.ai/ai-video-trends
+
+One photo in: the birthday person blows out the candles in a scene you pick, Happy Birthday on screen.
+
+## Demo videos (CDN)
+
+- https://cdn.kavel.ai/videos/kavel-showcase/ai-birthday-video-park-bench.mp4
+- https://cdn.kavel.ai/videos/kavel-showcase/ai-birthday-video-skydive.mp4
+- https://cdn.kavel.ai/videos/kavel-showcase/ai-birthday-video-scorpio-beach.mp4
+- https://cdn.kavel.ai/videos/kavel-showcase/ai-birthday-video-then-and-now.mp4
+
+## Posters
+
+- https://cdn.kavel.ai/posters/kavel-showcase/ai-birthday-video-park-bench-fx-poster.webp
+- https://cdn.kavel.ai/posters/kavel-showcase/ai-birthday-video-park-bench-fx-poster-thumb-240.webp
+- https://cdn.kavel.ai/posters/kavel-showcase/ai-birthday-video-skydive-fx-poster.webp
+- https://cdn.kavel.ai/posters/kavel-showcase/ai-birthday-video-scorpio-beach-fx-poster.webp
+- https://cdn.kavel.ai/posters/kavel-showcase/ai-birthday-video-then-and-now-fx-poster.webp
+
+## Prompts
+
+### 1. Template prompt
+
+*Kind: video_prompt*
+
+```text
+Use the person in the first photo as the main character and keep them exactly as photographed: same face, hair, skin tone and body shape, dressed in an elegant white satin gown and white gloves for their birthday. A city park at night, a wooden bench on fallen autumn leaves, rows of warm street lamps glowing behind. (1) They walk in and sit down on the bench, a plain dark champagne bottle with no label in one hand and a white birthday cake with lit candles in the other; (2) they shake the bottle and pop the cork, a tall jet of white foam shoots straight up into the night; (3) a burst of warm orange fire flares up in the air beside the cake while they laugh and close their eyes; (4) the smoke drifts away and they smile at the camera, cake held high. Phone on a tripod, full body in frame, one continuous shot, vertical 9:16. Pop of the cork and a soft party beat in the audio, no vocals. No text, no brand names or logos, no watermark.
+```
+
+### 2. AI birthday video â the skydive — ai-birthday-video-skydive
+
+*Kind: video_prompt*
+
+```text
+Use the person in the first photo as the main character and keep them exactly as photographed: same face, hair, skin tone and body shape, in a black skydiving jumpsuit and harness. (1) They stand in the open door of a small plane high above the clouds, grin at the camera and jump; (2) they free-fall face down over a patchwork of fields far below, arms spread, hair whipping in the wind; (3) a big black parachute opens above them with "HAPPY BIRTHDAY" printed across it in large white letters; (4) they hang under the canopy, throw one arm up and laugh at the camera as they float down through bright blue sky. Wide action camera following them, one continuous shot, vertical 9:16. Wind rush and a whoosh as the parachute opens, upbeat beat, no vocals. No other text, no logos, no watermark.
+```
+
+### 3. AI birthday video â the Scorpio beach — ai-birthday-video-scorpio-beach
+
+*Kind: video_prompt*
+
+```text
+Use the person in the first photo as the main character and keep them exactly as photographed: same face, hair, skin tone and body shape, in a black leather jacket, black dress and tall black boots. A sandy beach at dusk, waves rolling in, a pink and grey sky. A giant glossy black scorpion, the Scorpio zodiac sign, stands on the sand. (1) They walk up beside the scorpion carrying a small black birthday cake with gold number candles and the Scorpio symbol on it, and a plain green champagne bottle with no label; (2) they climb up and sit on the scorpion's back, cake in one hand, bottle in the other, its tail curled high above them; (3) they lean back and breathe out a long plume of orange fire as the champagne foams over; (4) the smoke clears and they look calmly into the camera. Phone on a tripod, full body in frame, one continuous shot, vertical 9:16. Waves, a deep whoosh of fire and a dark cinematic beat in the audio, no vocals. No text, no brand names or logos, no watermark.
+```
+

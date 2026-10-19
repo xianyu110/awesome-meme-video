@@ -1,0 +1,75 @@
+# Singing Pets AI Video
+
+- Source: [kavel](https://www.kavel.ai/video/singing-pets-ai)
+- Slug: `singing-pets-ai`
+- Listing: https://www.kavel.ai/ai-video-trends
+
+One photo of your pet in: towel on, hair dryer for a mic, and it belts out the chorus with the song in the clip.
+
+## Demo videos (CDN)
+
+- https://cdn.kavel.ai/videos/kavel-showcase/singing-pets-terrier-studio.mp4
+- https://cdn.kavel.ai/videos/kavel-showcase/singing-pets-poodle-night.mp4
+- https://cdn.kavel.ai/videos/kavel-showcase/singing-pets-puppy-tennis-court.mp4
+- https://cdn.kavel.ai/videos/kavel-showcase/singing-pets-chihuahua-studio.mp4
+- https://cdn.kavel.ai/videos/kavel-showcase/singing-pets-tuxedo-cat.mp4
+
+## Posters
+
+- https://cdn.kavel.ai/posters/kavel-showcase/singing-pets-terrier-studio-poster.webp
+- https://cdn.kavel.ai/posters/kavel-showcase/singing-pets-terrier-studio-poster-thumb-240.webp
+- https://cdn.kavel.ai/posters/kavel-showcase/singing-pets-poodle-night-poster.webp
+- https://cdn.kavel.ai/posters/kavel-showcase/singing-pets-puppy-tennis-court-poster.webp
+- https://cdn.kavel.ai/posters/kavel-showcase/singing-pets-chihuahua-studio-poster.webp
+- https://cdn.kavel.ai/posters/kavel-showcase/singing-pets-tuxedo-cat-poster.webp
+
+## Prompts
+
+### 1. Template prompt
+
+*Kind: video_prompt*
+
+```text
+Use the photo as the pet and keep it recognisable from the first frame to the last: same species and breed, fur colour and markings, eyes, ears and size. Just after bath time in a bright white-tiled bathroom, vertical 9:16, realistic phone video. The pet sits upright in the bathtub with a fluffy white towel wrapped around its waist, fur still damp, holding a black hair dryer up in one front paw like a microphone while the warm air ruffles the fur on top of its head. It tips its head back, closes its eyes and sings a big, heartfelt pop chorus, its mouth opening and closing in time with every note; then it opens its eyes, leans toward the camera for the high note and waves its free paw. Locked-off camera at eye level, soft bathroom light, one continuous take. The pet keeps real animal anatomy: paws, never human hands. Audio: a catchy original pop chorus sung by a playful animal-like voice, the hum of the hair dryer and a little bathroom echo. No text, no captions, no logos, no watermark.
+```
+
+### 2. Singing pets AI â the poodle at night — singing-pets-poodle-night
+
+*Kind: video_prompt*
+
+```text
+Use the photo as the pet and keep it recognisable from the first frame to the last: same species and breed, fur colour and markings, eyes, ears and size. Night time outdoors under a deep blue sky, vertical 9:16, realistic phone video shot from slightly below. The pet starts small in the frame, then walks right up to the lens and sings a sweet love-song chorus straight into the camera, mouth opening wide on every note. On the big note it throws one front paw straight up toward the sky and holds it there, eyes squeezed shut, then lowers the paw and reaches it out toward the camera as the line ends. Soft light on its face from the phone, dark background, one continuous take. The pet keeps real animal anatomy: paws, never human hands. Audio: a tender original love-song chorus sung by a playful animal-like voice, no instruments loud enough to cover it. No text, no captions, no logos, no watermark.
+```
+
+### 3. Singing pets AI â the puppy on the court — singing-pets-puppy-tennis-court
+
+*Kind: video_prompt*
+
+```text
+Use the photo as the pet and keep it recognisable from the first frame to the last: same species and breed, fur colour and markings, eyes, ears, size and any collar it wears. Night time at an empty floodlit outdoor tennis court with a chain-link fence and green and blue court surface, vertical 9:16, realistic handheld phone video looking down at the pet. It walks up to the camera with big shiny eyes and starts singing an upbeat chorus, mouth opening and closing on every word; it raises one front paw high in the air on the big note, then waves it at the camera and gives a wide open-mouthed grin on the last line. One continuous take, the floodlights glowing behind. The pet keeps real animal anatomy: paws, never human hands. Audio: a bright, bouncy original pop chorus sung by a playful animal-like voice. No text, no captions, no logos, no brand names, no watermark.
+```
+
+### 4. Singing pets AI â the terrier in pearls — singing-pets-terrier-studio
+
+*Kind: video_prompt*
+
+```text
+Use the photo as the pet and keep it recognisable from the first frame to the last: same species and breed, fur colour and markings, eyes, ears and size. A small vocal booth lined with grey acoustic foam, vertical 9:16, realistic close-up video. The pet wears a black knit beret, over-ear studio headphones, a little black dress and a string of pearls, and sits in front of a silver condenser microphone with a round pop filter. It sings a smooth, soulful verse into the microphone with its eyes closed and its mouth moving on every word, sways its head with the melody, opens one eye and winks at the camera, then smiles wide on the last note. Locked-off camera at eye level, soft warm studio light, one continuous take. The pet keeps real animal anatomy: paws, never human hands. Audio: an original soulful jazz-pop vocal sung by a playful animal-like voice over a soft piano. No text, no captions, no logos, no brand names on the microphone or headphones, no watermark.
+```
+
+### 5. Singing pets AI â the chihuahua in the studio — singing-pets-chihuahua-studio
+
+*Kind: video_prompt*
+
+```text
+Use the photo as the pet and keep it recognisable from the first frame to the last: same species and breed, fur colour and markings, eyes, ears and size. A professional recording studio, vertical 9:16, realistic video. Open on an extreme close-up of the pet's face wearing big black over-ear headphones, eyes wide, singing straight into the lens with its mouth opening on every note. The camera slowly pulls back to reveal it sitting on a round black stool in front of a studio microphone on a stand, a large mixing desk with glowing buttons and a keyboard behind it; it keeps singing, closes its eyes on the long note and sways. One continuous take, warm studio lighting. The pet keeps real animal anatomy: paws, never human hands. Audio: an original upbeat pop vocal sung by a playful animal-like voice, recorded studio sound. No text, no captions, no readable labels, no logos, no brand names, no watermark.
+```
+
+### 6. Singing pets AI â the tuxedo cat — singing-pets-tuxedo-cat
+
+*Kind: video_prompt*
+
+```text
+Use the photo as the pet and keep it recognisable from the first frame to the last: same species and breed, fur colour and markings, eyes, ears and size. A cosy living room in the evening, a dark teal wall behind and a table lamp glowing warm and out of focus, vertical 9:16, realistic close-up video. The pet faces the camera head and shoulders in frame and sings a slow, heartfelt ballad, mouth opening and closing on every word; it squints on the soft lines, its eyes go wide on the high note, and it tilts its head slightly between phrases, whiskers moving. Locked-off camera at eye level, soft lamp light, one continuous take. The pet keeps real animal anatomy, no human hands. Audio: an original gentle ballad sung by a sweet animal-like voice with a soft piano. No text, no captions, no logos, no watermark.
+```
+

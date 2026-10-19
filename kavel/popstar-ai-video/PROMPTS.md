@@ -1,0 +1,47 @@
+# Popstar AI Video
+
+- Source: [kavel](https://www.kavel.ai/video/popstar-ai-video)
+- Slug: `popstar-ai-video`
+- Listing: https://www.kavel.ai/ai-video-trends
+
+One photo in: you or your pet walks the mansion hallway with the champagne and the bodyguard.
+
+## Demo videos (CDN)
+
+- https://cdn.kavel.ai/videos/kavel-showcase/popstar-golden-hallway.mp4
+- https://cdn.kavel.ai/videos/kavel-showcase/popstar-frenchie-hallway.mp4
+- https://cdn.kavel.ai/videos/kavel-showcase/popstar-durag-hallway.mp4
+
+## Posters
+
+- https://cdn.kavel.ai/posters/kavel-showcase/popstar-golden-hallway-poster.webp
+- https://cdn.kavel.ai/posters/kavel-showcase/popstar-golden-hallway-poster-thumb-240.webp
+- https://cdn.kavel.ai/posters/kavel-showcase/popstar-frenchie-hallway-fx-poster.webp
+- https://cdn.kavel.ai/posters/kavel-showcase/popstar-durag-hallway-poster.webp
+
+## Prompts
+
+### 1. Popstar AI video â the French bulldog in shades — popstar-frenchie-hallway
+
+*Kind: video_prompt*
+
+```text
+Use the photo as the main character and keep them exactly as photographed: the same face, fur or hair, colours and build, now wearing a thick gold chain and tiny dark sunglasses. A modern mansion with warm wood-panelled walls and a long polished hallway. (1) They trot down the hallway straight toward the camera, chest out, head held high, mouth opening and closing as if rapping into the lens, while a tall bald bodyguard with a full beard in a dark suit walks one step behind carrying a champagne bottle for them; (2) they hop down a floating wooden staircase with a glass railing, past a wall of large framed pop-art portraits of themselves in the same sunglasses; (3) at the bottom they stop, stare straight into the lens, and the bodyguard pops the cork behind them. Handheld music-video camera moving backwards in front of them, warm daylight, one continuous take, vertical 9:16. Upbeat hip-hop beat in the audio, no vocals. Plain unbranded bottle. No text, no captions, no logos, no watermark.
+```
+
+### 2. Popstar AI video â the golden in the pink bonnet — popstar-golden-hallway
+
+*Kind: video_prompt*
+
+```text
+Use the photo as the main character and keep them exactly as photographed: the same face, fur or hair, colours and build, now wearing a hot-pink satin bonnet and a gold chain. A modern mansion with warm wood-panelled walls. (1) They strut down the long hallway toward the camera, head bobbing to the beat as if rapping straight into the lens, while a tall bald bodyguard with a full beard in a dark suit follows one step behind holding a champagne bottle on a silver tray; (2) they bound down a floating wooden staircase with a glass railing, past framed pop-art portraits of themselves in the pink bonnet, looking back at the camera; (3) at the bottom they settle on the last step like a star and the bodyguard stands guard beside them. Handheld music-video camera moving backwards in front of them, warm daylight, one continuous take, vertical 9:16. Upbeat hip-hop beat in the audio, no vocals. Plain unbranded bottle. No text, no captions, no logos, no watermark.
+```
+
+### 3. Popstar AI video â the pink bonnet popstar — popstar-durag-hallway
+
+*Kind: video_prompt*
+
+```text
+Use the photo as the main character and keep them exactly as photographed: the same face, hair, skin tone and build, now wearing a hot-pink satin bonnet over a black durag, a plain black T-shirt and black trousers. A modern mansion with warm wood-panelled walls. (1) They storm down the hallway toward the camera with a dark champagne bottle in one hand, arms flung wide, mouth wide open on every line of a rap verse, a tall bald bodyguard with a full beard in a dark suit right behind their shoulder; (2) they hop down a floating wooden staircase with a glass railing, bottle up, past a wall of large framed portraits of themselves in the same pink bonnet; (3) at the bottom they point the bottle at the lens and spread their arms, the bodyguard still at their side. Handheld music-video camera moving backwards in front of them, warm daylight, one continuous take, vertical 9:16. Upbeat hip-hop beat in the audio, no vocals. Champagne bottle with a plain unbranded label. No text, no captions, no logos, no watermark.
+```
+

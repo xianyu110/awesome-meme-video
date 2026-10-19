@@ -1,0 +1,65 @@
+{
+  "source": "kavel",
+  "source_site": "https://www.kavel.ai",
+  "slug": "smalltown-boy-ai",
+  "name": "Smalltown Boy AI",
+  "url": "https://www.kavel.ai/video/smalltown-boy-ai",
+  "listing_url": "https://www.kavel.ai/ai-video-trends",
+  "blurb": "Two pet photos in: they clutch their heads, scream, then dance side by side.",
+  "published": null,
+  "updated": null,
+  "scraped_at": "2026-10-19",
+  "listing_index": 52,
+  "this_week_rank": 2,
+  "demo_videos": [
+    "https://cdn.kavel.ai/videos/kavel-showcase/smalltown-boy-cats-living-room.mp4",
+    "https://cdn.kavel.ai/videos/kavel-showcase/smalltown-boy-ginger-tuxedo-cats.mp4",
+    "https://cdn.kavel.ai/videos/kavel-showcase/smalltown-boy-dogs-playground.mp4",
+    "https://cdn.kavel.ai/videos/kavel-showcase/smalltown-boy-tabby-black-cats.mp4",
+    "https://cdn.kavel.ai/videos/kavel-showcase/smalltown-boy-cat-and-dog.mp4"
+  ],
+  "posters": [
+    "https://cdn.kavel.ai/posters/kavel-showcase/smalltown-boy-cats-living-room-fx-poster.webp",
+    "https://cdn.kavel.ai/posters/kavel-showcase/smalltown-boy-cats-living-room-fx-poster-thumb-240.webp",
+    "https://cdn.kavel.ai/posters/kavel-showcase/smalltown-boy-ginger-tuxedo-cats-poster.webp",
+    "https://cdn.kavel.ai/posters/kavel-showcase/smalltown-boy-dogs-playground-fx-poster.webp",
+    "https://cdn.kavel.ai/posters/kavel-showcase/smalltown-boy-tabby-black-cats-poster.webp",
+    "https://cdn.kavel.ai/posters/kavel-showcase/smalltown-boy-cat-and-dog-fx-poster.webp"
+  ],
+  "prompts": [
+    {
+      "label": "Smalltown Boy AI â two cats in the living room",
+      "variant": "smalltown-boy-cats-living-room",
+      "kind": "video_prompt",
+      "text": "Two reference photos, one cat each: the first photo is dancer one, the second is dancer two, each exactly as photographed and never swapped. In a bright, modern living room with a white sofa, a marble floor and a big plant in a white vase: (1) dancer one covers its face with both paws, then drops them and clutches its head, mouth open, and pushes its paws right at the lens while dancer two dances on its hind legs behind it; (2) dancer two takes its turn up close, clutching its head; (3) wide shot, both stand on their hind legs side by side and dance the same 80s routine in sync, arms swinging, shoulders shimmying; (4) both rush the camera, paws first. Real cat anatomy, paws not hands. Ultra-wide phone camera held close at cat height, the nearest face big in frame, full rectangular frame with no black border, warm ceiling light, vertical video. Upbeat 80s synth-pop beat in the audio, no vocals. No people, no text, no logos, no watermark."
+    },
+    {
+      "label": "Smalltown Boy AI â a ginger cat and a tuxedo cat",
+      "variant": "smalltown-boy-ginger-tuxedo-cats",
+      "kind": "video_prompt",
+      "text": "Two reference photos, one cat each: the first photo is dancer one, the second is dancer two, each exactly as photographed and never swapped. Both wear a red collar with a small gold bell. In a back yard in front of a dark red wooden fence with ivy, on grey tarmac: (1) dancer one runs up to the lens, clutches its head with both paws and screams, wide-eyed, then reaches its paws at the camera while dancer two dances upright behind it; (2) close-up of dancer two clutching its head, mouth wide open; (3) wide shot, both stand on their hind legs side by side and dance the same 80s routine in sync, arms swinging across their bodies; (4) both lunge at the camera, paws reaching for the lens. Real cat anatomy, paws not hands. Ultra-wide phone camera held close at cat height, the nearest face big in frame, full rectangular frame with no black border, overcast daylight, vertical video. Upbeat 80s synth-pop beat in the audio, no vocals. No people, no text, no logos, no watermark."
+    },
+    {
+      "label": "Smalltown Boy AI â two dogs on the playground",
+      "variant": "smalltown-boy-dogs-playground",
+      "kind": "video_prompt",
+      "text": "Two reference photos, one dog each: the first photo is dancer one, the second is dancer two, faces and fur exactly as photographed and never swapped. Dress dancer one in big black sunglasses, a clear plastic raincoat and black rain boots, and dancer two in a silver sequin blazer and silver boots. On a colourful playground with a slide and swings in front of apartment blocks: (1) dancer one leans into the lens, paws on its head, mouth open, while dancer two dances behind it; (2) close-up of dancer two clutching its head and grinning; (3) wide shot, both stand on their hind legs side by side and dance the same 80s routine in sync, front paws swinging, shoulders shimmying; (4) both step up to the camera together. Real dog anatomy, paws not hands. Ultra-wide phone camera held close at dog height, the nearest face big in frame, full rectangular frame with no black border, daylight, vertical video. Upbeat 80s synth-pop beat in the audio, no vocals. No people, no text, no logos, no watermark."
+    },
+    {
+      "label": "Smalltown Boy AI â a tabby and a black cat",
+      "variant": "smalltown-boy-tabby-black-cats",
+      "kind": "video_prompt",
+      "text": "Two reference photos, one cat each: the first photo is dancer one, the second is dancer two, each exactly as photographed and never swapped. In front of a dark red wooden fence with ivy, on grey tarmac: (1) dancer one stands on its hind legs right in front of the lens, clutches its head with both paws and lets out a long, dramatic scream while dancer two dances upright in the background; (2) a low shot looking up at the two of them dancing; (3) wide shot, both stand side by side on their hind legs and dance the same 80s routine in sync, paws swinging, little side steps; (4) both lunge at the camera together, mouths open, paws reaching for the lens. Real cat anatomy, paws not hands. Ultra-wide phone camera held close at cat height, the nearest face big in frame, full rectangular frame with no black border, soft daylight, vertical video. Upbeat 80s synth-pop beat in the audio, no vocals. No people, no text, no logos, no watermark."
+    },
+    {
+      "label": "Smalltown Boy AI â a cat and a dog",
+      "variant": "smalltown-boy-cat-and-dog",
+      "kind": "video_prompt",
+      "text": "Two reference photos, one animal each: the first photo is dancer one, the second is dancer two, each exactly as photographed, a cat and a dog, never swapped. In front of a dark red wooden fence with ivy, on grey tarmac: (1) dancer one runs up to the lens, clutches its head with both paws and screams, then reaches its paws at the camera while dancer two dances upright behind it; (2) close-up of dancer two clutching its head, mouth wide open; (3) wide shot, the two stand on their hind legs side by side and dance the same 80s routine in sync, arms swinging across their bodies; (4) both rush the camera, paws first. Real cat and dog anatomy, paws not hands. Ultra-wide phone camera held close at their eye level, the nearest face big in frame, full rectangular frame with no black border, overcast daylight, vertical video. Upbeat 80s synth-pop beat in the audio, no vocals. No people, no text, no logos, no watermark."
+    }
+  ],
+  "prompt_count": 5,
+  "prompts_public": true,
+  "note": null,
+  "showcase_count": 5
+}

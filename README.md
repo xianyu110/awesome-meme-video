@@ -1,15 +1,16 @@
 # Awesome Meme Video
 
-> 公开 AI 迷因 / 病毒视频模板与提示词清单（MakeViral + Remake Your Meme + Media.io）。
+> 公开 AI 迷因 / 病毒视频模板与提示词清单（MakeViral + Remake Your Meme + Media.io + Kavel）。
 >
-> Public inventory of AI meme / viral video templates and prompts from MakeViral, Remake Your Meme, and Media.io.
+> Public inventory of AI meme / viral video templates and prompts from MakeViral, Remake Your Meme, Media.io, and Kavel.
 
 ## Stats
 
 - **MakeViral**: 135 templates · 313 prompt blocks · 216 demo videos
 - **Remake Your Meme**: 19 templates · public prompts: **none** (one-tap remake only) · demos/posters archived
 - **Media.io**: 14 templates · 9 prompt blocks · 10 demo videos
-- Scraped: 2026-10-18 (Asia/Shanghai)
+- **Kavel**: 72 templates · 237 prompt blocks · 252 demo videos
+- Scraped: 2026-10-19 (Asia/Shanghai)
 - Sort: **newest first** by `updated || published || scraped_at (newest first); Asia/Shanghai scrape clock`
 - Gallery: https://xianyu110.github.io/awesome-meme-video/
 
@@ -20,6 +21,7 @@
 | [MakeViral](https://www.makeviral.ai/templates) | `/templates` + per-page `.md` | Full prompts published; demos under `/media/templates/...` |
 | [Remake Your Meme](https://remakeyourmeme.com/templates/) | `/templates/` | No copyable prompts on public pages; CDN demos kept |
 | [Media.io](https://www.media.io/ai/explore/zone/ai-video-trend-generator) | AI Video Trend Generator zone ([中文](https://www.media.io/ai/zh/explore/zone/ai-video-trend-generator)) | Prompts from public `aigc_config` when present |
+| [Kavel](https://www.kavel.ai/ai-video-trends) | `/ai-video-trends` → detail `/video/<slug>` | Public prompts from page RSC payloads when present; CDN demos on `cdn.kavel.ai` |
 
 ## Layout
 
@@ -27,11 +29,12 @@
 awesome-meme-video/
   index.html          # GitHub Pages gallery (newest first)
   README.md
-  PROMPTS.md          # MakeViral + Media.io prompts concatenated
+  PROMPTS.md          # MakeViral + Media.io + Kavel prompts concatenated
   inventory.json
   makeviral/<slug>/
   remakeyourmeme/<slug>/
   mediaio/<slug>/
+  kavel/<slug>/
 ```
 
 Demo MP4s are stored via Git LFS when present. Each template folder also lists original CDN URLs in `MEDIA.md` / `PROMPTS.md`.
@@ -205,7 +208,7 @@ Demo MP4s are stored via Git LFS when present. Each template folder also lists o
 ### Media.io
 
 | Template | Slug | Date | Prompts | Demo | Page |
-| --- | --- | --- | ---: | --- | --- |
+| --- | --- | --- | --- | --- | --- |
 | [Under the Fan AI Video](mediaio/under-the-fan-ai-video/PROMPTS.md) | `under-the-fan-ai-video` | 2026-10-18 | 1 | ✅ | [link](https://www.media.io/ai/explore/zone/under-the-fan-ai-video) |
 | [Ramalama Bang Bang](mediaio/ramalama-halloween-ai-video-trend/PROMPTS.md) | `ramalama-halloween-ai-video-trend` | 2026-10-18 | none found | — | [link](https://www.media.io/ai/explore/zone/ramalama-halloween-ai-video-trend) |
 | [Raindance AI Trend](mediaio/raindance-ai-video-generator/PROMPTS.md) | `raindance-ai-video-generator` | 2026-10-18 | 1 | ✅ | [link](https://www.media.io/ai/explore/zone/raindance-ai-video-generator) |
@@ -221,6 +224,83 @@ Demo MP4s are stored via Git LFS when present. Each template folder also lists o
 | [AI Food Drip Effect](mediaio/ai-food-drip-effect/PROMPTS.md) | `ai-food-drip-effect` | 2026-10-18 | none found | — | [link](https://www.media.io/ai/effect/create/ai-food-drip-effect) |
 | [AI Car Video Generator](mediaio/ai-car-video-generator/PROMPTS.md) | `ai-car-video-generator` | 2026-10-18 | 1 | ✅ | [link](https://www.media.io/ai/explore/zone/ai-car-video-generator) |
 
+### Kavel
+
+| Template | Slug | Date | Prompts | Demo | Page |
+| --- | --- | ---: | ---: | --- | --- |
+| [Ali G Driving Scene](kavel/ali-g-driving-scene/PROMPTS.md) | `ali-g-driving-scene` | 2026-10-19 | 4 | ✅ | [link](https://www.kavel.ai/video/ali-g-driving-scene) |
+| [Coldplay Kiss Cam Generator](kavel/coldplay-kiss-cam-generator/PROMPTS.md) | `coldplay-kiss-cam-generator` | 2026-10-19 | 3 | ✅ | [link](https://www.kavel.ai/video/coldplay-kiss-cam-generator) |
+| [ABCDEFG I Need Money](kavel/abcdefg-i-need-money/PROMPTS.md) | `abcdefg-i-need-money` | 2026-10-19 | none found | ✅ | [link](https://www.kavel.ai/video/abcdefg-i-need-money) |
+| [Bama Bound Trend](kavel/bama-bound-trend/PROMPTS.md) | `bama-bound-trend` | 2026-10-19 | 4 | ✅ | [link](https://www.kavel.ai/video/bama-bound-trend) |
+| [Plug Walk AI Filter](kavel/plug-walk-ai-filter/PROMPTS.md) | `plug-walk-ai-filter` | 2026-10-19 | 3 | ✅ | [link](https://www.kavel.ai/video/plug-walk-ai-filter) |
+| [Flying Car AI Video](kavel/flying-car-ai-video/PROMPTS.md) | `flying-car-ai-video` | 2026-10-19 | none found | ✅ | [link](https://www.kavel.ai/video/flying-car-ai-video) |
+| [Black Friday Video Maker](kavel/black-friday-video-maker/PROMPTS.md) | `black-friday-video-maker` | 2026-10-19 | 1 | ✅ | [link](https://www.kavel.ai/video/black-friday-video-maker) |
+| [Paparazzi Red Carpet AI Video](kavel/paparazzi-red-carpet-ai-video/PROMPTS.md) | `paparazzi-red-carpet-ai-video` | 2026-10-19 | none found | ✅ | [link](https://www.kavel.ai/video/paparazzi-red-carpet-ai-video) |
+| [Devil Wears Prada AI](kavel/devil-wears-prada-ai/PROMPTS.md) | `devil-wears-prada-ai` | 2026-10-19 | 3 | ✅ | [link](https://www.kavel.ai/video/devil-wears-prada-ai) |
+| [LEGO Truck Wash AI Video](kavel/lego-truck-wash-ai-video/PROMPTS.md) | `lego-truck-wash-ai-video` | 2026-10-19 | none found | ✅ | [link](https://www.kavel.ai/video/lego-truck-wash-ai-video) |
+| [Lamine Yamal Rabona AI](kavel/lamine-yamal-rabona-ai/PROMPTS.md) | `lamine-yamal-rabona-ai` | 2026-10-19 | none found | ✅ | [link](https://www.kavel.ai/video/lamine-yamal-rabona-ai) |
+| [Singing Pets AI Video](kavel/singing-pets-ai/PROMPTS.md) | `singing-pets-ai` | 2026-10-19 | 6 | ✅ | [link](https://www.kavel.ai/video/singing-pets-ai) |
+| [Airport Celebrity AI Video](kavel/airport-celebrity-ai-video/PROMPTS.md) | `airport-celebrity-ai-video` | 2026-10-19 | 1 | ✅ | [link](https://www.kavel.ai/video/airport-celebrity-ai-video) |
+| [Twilight Baseball Scene AI Video](kavel/twilight-baseball-scene/PROMPTS.md) | `twilight-baseball-scene` | 2026-10-19 | 3 | ✅ | [link](https://www.kavel.ai/video/twilight-baseball-scene) |
+| [Ghost Photoshoot Trend AI Video](kavel/ghost-photoshoot-trend/PROMPTS.md) | `ghost-photoshoot-trend` | 2026-10-19 | 1 | ✅ | [link](https://www.kavel.ai/video/ghost-photoshoot-trend) |
+| [Ramalama Bang Bang Trend AI Video](kavel/ramalama-bang-bang-trend/PROMPTS.md) | `ramalama-bang-bang-trend` | 2026-10-19 | 1 | ✅ | [link](https://www.kavel.ai/video/ramalama-bang-bang-trend) |
+| [Tesla Flying Car AI Video](kavel/tesla-flying-car-ai-video/PROMPTS.md) | `tesla-flying-car-ai-video` | 2026-10-19 | none found | ✅ | [link](https://www.kavel.ai/video/tesla-flying-car-ai-video) |
+| [Smalltown Boy Dance Meme](kavel/smalltown-boy-dance-meme/PROMPTS.md) | `smalltown-boy-dance-meme` | 2026-10-19 | 6 | ✅ | [link](https://www.kavel.ai/video/smalltown-boy-dance-meme) |
+| [ChatGPT Millionaire 30 Days AI Video](kavel/chatgpt-millionaire-30-days-ai-video/PROMPTS.md) | `chatgpt-millionaire-30-days-ai-video` | 2026-10-19 | 4 | ✅ | [link](https://www.kavel.ai/video/chatgpt-millionaire-30-days-ai-video) |
+| [AI Pet Dance Generator](kavel/ai-pet-dance-generator/PROMPTS.md) | `ai-pet-dance-generator` | 2026-10-19 | 7 | ✅ | [link](https://www.kavel.ai/video/ai-pet-dance-generator) |
+| [Susan Dell Dance AI](kavel/susan-dell-dance-ai-video/PROMPTS.md) | `susan-dell-dance-ai-video` | 2026-10-19 | none found | ✅ | [link](https://www.kavel.ai/video/susan-dell-dance-ai-video) |
+| [Fergie Baby Harlem Walk AI](kavel/fergie-baby-harlem-walk-ai-video/PROMPTS.md) | `fergie-baby-harlem-walk-ai-video` | 2026-10-19 | 3 | ✅ | [link](https://www.kavel.ai/video/fergie-baby-harlem-walk-ai-video) |
+| [Enzo Fernandez Celebration AI](kavel/enzo-fernandez-celebration-ai-video/PROMPTS.md) | `enzo-fernandez-celebration-ai-video` | 2026-10-19 | none found | ✅ | [link](https://www.kavel.ai/video/enzo-fernandez-celebration-ai-video) |
+| [Barbie AI Dance](kavel/barbie-ai-dance/PROMPTS.md) | `barbie-ai-dance` | 2026-10-19 | 3 | ✅ | [link](https://www.kavel.ai/video/barbie-ai-dance) |
+| [Crazy Frog AI Video](kavel/crazy-frog-ai-video/PROMPTS.md) | `crazy-frog-ai-video` | 2026-10-19 | 1 | ✅ | [link](https://www.kavel.ai/video/crazy-frog-ai-video) |
+| [Popstar AI Video](kavel/popstar-ai-video/PROMPTS.md) | `popstar-ai-video` | 2026-10-19 | 3 | ✅ | [link](https://www.kavel.ai/video/popstar-ai-video) |
+| [Zombie Couple Video](kavel/zombie-couple-video/PROMPTS.md) | `zombie-couple-video` | 2026-10-19 | 2 | ✅ | [link](https://www.kavel.ai/video/zombie-couple-video) |
+| [Broccoli Throw Meme AI Video](kavel/broccoli-throw-ai-video/PROMPTS.md) | `broccoli-throw-ai-video` | 2026-10-19 | 4 | ✅ | [link](https://www.kavel.ai/video/broccoli-throw-ai-video) |
+| [AI Birthday Video Generator](kavel/ai-birthday-video-generator/PROMPTS.md) | `ai-birthday-video-generator` | 2026-10-19 | 3 | ✅ | [link](https://www.kavel.ai/video/ai-birthday-video-generator) |
+| [Heavenly Reunion AI Video](kavel/heavenly-reunion-ai-video/PROMPTS.md) | `heavenly-reunion-ai-video` | 2026-10-19 | 5 | ✅ | [link](https://www.kavel.ai/video/heavenly-reunion-ai-video) |
+| [Happy Friday I'm Onnat AI Video](kavel/happy-friday-im-onnat-ai-video/PROMPTS.md) | `happy-friday-im-onnat-ai-video` | 2026-10-19 | 3 | ✅ | [link](https://www.kavel.ai/video/happy-friday-im-onnat-ai-video) |
+| [Hit the Road Dude AI Video](kavel/hit-the-road-dude-ai-video/PROMPTS.md) | `hit-the-road-dude-ai-video` | 2026-10-19 | 4 | ✅ | [link](https://www.kavel.ai/video/hit-the-road-dude-ai-video) |
+| [Blocus Poursuite AI Video](kavel/blocus-poursuite-ai-video/PROMPTS.md) | `blocus-poursuite-ai-video` | 2026-10-19 | 4 | ✅ | [link](https://www.kavel.ai/video/blocus-poursuite-ai-video) |
+| [Birthday Champagne AI Video](kavel/champagne-pop-birthday-ai-video/PROMPTS.md) | `champagne-pop-birthday-ai-video` | 2026-10-19 | 4 | ✅ | [link](https://www.kavel.ai/video/champagne-pop-birthday-ai-video) |
+| [Head Bop Animation](kavel/head-bop-animation/PROMPTS.md) | `head-bop-animation` | 2026-10-19 | 4 | ✅ | [link](https://www.kavel.ai/video/head-bop-animation) |
+| [Patrick Swayze AI Dance](kavel/patrick-swayze-dance-ai-video/PROMPTS.md) | `patrick-swayze-dance-ai-video` | 2026-10-19 | 5 | ✅ | [link](https://www.kavel.ai/video/patrick-swayze-dance-ai-video) |
+| [Keep On Steppin AI Dance](kavel/keep-on-steppin-ai-dance-video/PROMPTS.md) | `keep-on-steppin-ai-dance-video` | 2026-10-19 | 4 | ✅ | [link](https://www.kavel.ai/video/keep-on-steppin-ai-dance-video) |
+| [Thriller AI Dance](kavel/thriller-dance-ai-video/PROMPTS.md) | `thriller-dance-ai-video` | 2026-10-19 | 4 | ✅ | [link](https://www.kavel.ai/video/thriller-dance-ai-video) |
+| [I Feel Like Nicole AI](kavel/i-feel-like-nicole-ai-video/PROMPTS.md) | `i-feel-like-nicole-ai-video` | 2026-10-19 | 4 | ✅ | [link](https://www.kavel.ai/video/i-feel-like-nicole-ai-video) |
+| [Layoo AI Dance](kavel/layoo-ai-dance/PROMPTS.md) | `layoo-ai-dance` | 2026-10-19 | 3 | ✅ | [link](https://www.kavel.ai/video/layoo-ai-dance) |
+| [Bulin 47 AI Video](kavel/bulin-47-ai-video/PROMPTS.md) | `bulin-47-ai-video` | 2026-10-19 | 4 | ✅ | [link](https://www.kavel.ai/video/bulin-47-ai-video) |
+| [Wipe Me Down Dance AI](kavel/wipe-me-down-ai-dance-video/PROMPTS.md) | `wipe-me-down-ai-dance-video` | 2026-10-19 | 2 | ✅ | [link](https://www.kavel.ai/video/wipe-me-down-ai-dance-video) |
+| [Venom Car AI](kavel/venom-car-ai-video/PROMPTS.md) | `venom-car-ai-video` | 2026-10-19 | 4 | ✅ | [link](https://www.kavel.ai/video/venom-car-ai-video) |
+| [Ozil Goal AI](kavel/ozil-goal-ai-video/PROMPTS.md) | `ozil-goal-ai-video` | 2026-10-19 | 4 | ✅ | [link](https://www.kavel.ai/video/ozil-goal-ai-video) |
+| [FNAF Jumpscare AI](kavel/fnaf-jumpscare-ai/PROMPTS.md) | `fnaf-jumpscare-ai` | 2026-10-19 | none found | ✅ | [link](https://www.kavel.ai/video/fnaf-jumpscare-ai) |
+| [Knight Cat AI Video](kavel/knight-cat-ai-video/PROMPTS.md) | `knight-cat-ai-video` | 2026-10-19 | 4 | ✅ | [link](https://www.kavel.ai/video/knight-cat-ai-video) |
+| [Baby Dancing AI](kavel/baby-dancing-ai/PROMPTS.md) | `baby-dancing-ai` | 2026-10-19 | 6 | ✅ | [link](https://www.kavel.ai/video/baby-dancing-ai) |
+| [Ghost Filter Prank AI](kavel/ghost-filter-prank-ai/PROMPTS.md) | `ghost-filter-prank-ai` | 2026-10-19 | 5 | ✅ | [link](https://www.kavel.ai/video/ghost-filter-prank-ai) |
+| [Oouuh AI](kavel/oouuh-ai/PROMPTS.md) | `oouuh-ai` | 2026-10-19 | 2 | ✅ | [link](https://www.kavel.ai/video/oouuh-ai) |
+| [Tecktonik Dance AI](kavel/tecktonik-dance-ai/PROMPTS.md) | `tecktonik-dance-ai` | 2026-10-19 | 5 | ✅ | [link](https://www.kavel.ai/video/tecktonik-dance-ai) |
+| [Unforgettable Car Trend](kavel/unforgettable-car-ai-video/PROMPTS.md) | `unforgettable-car-ai-video` | 2026-10-19 | 4 | ✅ | [link](https://www.kavel.ai/video/unforgettable-car-ai-video) |
+| [Tip Toeing in My Jordans AI](kavel/tip-toeing-in-my-jordans-ai/PROMPTS.md) | `tip-toeing-in-my-jordans-ai` | 2026-10-19 | 2 | ✅ | [link](https://www.kavel.ai/video/tip-toeing-in-my-jordans-ai) |
+| [Smalltown Boy AI](kavel/smalltown-boy-ai/PROMPTS.md) | `smalltown-boy-ai` | 2026-10-19 | 5 | ✅ | [link](https://www.kavel.ai/video/smalltown-boy-ai) |
+| [Toc Toc AI Dance](kavel/toc-toc-ai-dance/PROMPTS.md) | `toc-toc-ai-dance` | 2026-10-19 | 4 | ✅ | [link](https://www.kavel.ai/video/toc-toc-ai-dance) |
+| [Chinaza Dynamic Filter AI Video](kavel/chinaza-dynamic-filter-ai-video/PROMPTS.md) | `chinaza-dynamic-filter-ai-video` | 2026-10-19 | 4 | ✅ | [link](https://www.kavel.ai/video/chinaza-dynamic-filter-ai-video) |
+| [Bad Times AI Trend Video](kavel/bad-times-ai-video/PROMPTS.md) | `bad-times-ai-video` | 2026-10-19 | 4 | ✅ | [link](https://www.kavel.ai/video/bad-times-ai-video) |
+| [Alors on Danse AI](kavel/alors-on-danse-ai-meme/PROMPTS.md) | `alors-on-danse-ai-meme` | 2026-10-19 | 5 | ✅ | [link](https://www.kavel.ai/video/alors-on-danse-ai-meme) |
+| [Gas Station Trend AI](kavel/gas-station-ai-video/PROMPTS.md) | `gas-station-ai-video` | 2026-10-19 | 5 | ✅ | [link](https://www.kavel.ai/video/gas-station-ai-video) |
+| [Burning Bridges AI Video](kavel/burning-bridges-ai-video/PROMPTS.md) | `burning-bridges-ai-video` | 2026-10-19 | 3 | ✅ | [link](https://www.kavel.ai/video/burning-bridges-ai-video) |
+| [The Jawn Dance AI](kavel/jawn-dance-ai-video/PROMPTS.md) | `jawn-dance-ai-video` | 2026-10-19 | 5 | ✅ | [link](https://www.kavel.ai/video/jawn-dance-ai-video) |
+| [Car Jump AI Video](kavel/car-jump-ai-video/PROMPTS.md) | `car-jump-ai-video` | 2026-10-19 | 7 | ✅ | [link](https://www.kavel.ai/video/car-jump-ai-video) |
+| [Earth Zoom Out AI](kavel/earth-zoom-out-ai/PROMPTS.md) | `earth-zoom-out-ai` | 2026-10-19 | 5 | ✅ | [link](https://www.kavel.ai/video/earth-zoom-out-ai) |
+| [AI Mecha Transformation](kavel/ai-mecha-transformation/PROMPTS.md) | `ai-mecha-transformation` | 2026-10-19 | 7 | ✅ | [link](https://www.kavel.ai/video/ai-mecha-transformation) |
+| [Zombie AI Video](kavel/zombie-ai-video/PROMPTS.md) | `zombie-ai-video` | 2026-10-19 | 6 | ✅ | [link](https://www.kavel.ai/video/zombie-ai-video) |
+| [Raindance AI Trend](kavel/raindance-ai-trend/PROMPTS.md) | `raindance-ai-trend` | 2026-10-19 | 1 | ✅ | [link](https://www.kavel.ai/video/raindance-ai-trend) |
+| [Pata Chalega AI Video](kavel/pata-chalega-ai-video/PROMPTS.md) | `pata-chalega-ai-video` | 2026-10-19 | 1 | ✅ | [link](https://www.kavel.ai/video/pata-chalega-ai-video) |
+| [AI Crying Filter](kavel/ai-crying-filter/PROMPTS.md) | `ai-crying-filter` | 2026-10-19 | 7 | ✅ | [link](https://www.kavel.ai/video/ai-crying-filter) |
+| [AI Arrest Filter](kavel/ai-arrest-filter/PROMPTS.md) | `ai-arrest-filter` | 2026-10-19 | 7 | ✅ | [link](https://www.kavel.ai/video/ai-arrest-filter) |
+| [Ceiling Fan Transition](kavel/ceiling-fan-transition/PROMPTS.md) | `ceiling-fan-transition` | 2026-10-19 | 7 | ✅ | [link](https://www.kavel.ai/video/ceiling-fan-transition) |
+| [Hotel Lobby AI Video](kavel/hotel-lobby-ai-video/PROMPTS.md) | `hotel-lobby-ai-video` | 2026-10-19 | 1 | ✅ | [link](https://www.kavel.ai/video/hotel-lobby-ai-video) |
+| [Genjutsu Video](kavel/genjutsu-video/PROMPTS.md) | `genjutsu-video` | 2026-10-19 | 1 | ✅ | [link](https://www.kavel.ai/video/genjutsu-video) |
+| [STORM II AI Video](kavel/storm-ii-ai-video/PROMPTS.md) | `storm-ii-ai-video` | 2026-10-19 | none found | ✅ | [link](https://www.kavel.ai/video/storm-ii-ai-video) |
+
 ## Attribution & license
 
 Templates, prompts, and demo media remain copyright of their respective sites and creators:
@@ -228,9 +308,10 @@ Templates, prompts, and demo media remain copyright of their respective sites an
 - MakeViral — https://www.makeviral.ai
 - Remake Your Meme — https://remakeyourmeme.com
 - Media.io — https://www.media.io
+- Kavel — https://www.kavel.ai
 
 This repository is an **inventory / awesome-list** for discovery and research. Re-check each site’s terms before commercial reuse. Example people/pets in demos are described by the sources as AI-generated.
 
 ## Disclaimer
 
-Prompts are copied verbatim from public pages — nothing invented. Remake Your Meme pages explicitly say there is no prompt to write; we do not fabricate prompts for those entries. Media.io entries without a public aigc_config prompt are marked as such.
+Prompts are copied verbatim from public pages — nothing invented. Remake Your Meme pages explicitly say there is no prompt to write; we do not fabricate prompts for those entries. Media.io / Kavel entries without a public prompt on the page payload are marked as such.

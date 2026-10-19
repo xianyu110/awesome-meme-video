@@ -37,7 +37,7 @@ def main():
     cards = []
     for t in templates:
         src = t.get('source')
-        label = {'makeviral': 'MakeViral', 'remakeyourmeme': 'Remake', 'mediaio': 'Media.io'}.get(src, src or 'Unknown')
+        label = {'makeviral': 'MakeViral', 'remakeyourmeme': 'Remake', 'mediaio': 'Media.io', 'kavel': 'Kavel'}.get(src, src or 'Unknown')
         folder = f"{src}/{t['slug']}/"
         date = t.get('updated') or t.get('published') or t.get('scraped_at') or ''
         pc = int(t.get('prompt_count') or 0)
@@ -69,22 +69,25 @@ def main():
     n_mv = sum(1 for c in cards if c['source'] == 'makeviral')
     n_rm = sum(1 for c in cards if c['source'] == 'remakeyourmeme')
     n_mio = sum(1 for c in cards if c['source'] == 'mediaio')
+    n_kv = sum(1 for c in cards if c['source'] == 'kavel')
     n_total = len(cards)
     n_with_prompts = sum(1 for c in cards if c['has_prompts'])
     s_mv = inv.get('sources', {}).get('makeviral') or {}
     s_rm = inv.get('sources', {}).get('remakeyourmeme') or {}
     s_mio = inv.get('sources', {}).get('mediaio') or {}
+    s_kv = inv.get('sources', {}).get('kavel') or {}
     mv_prompts = int(s_mv.get('total_prompt_blocks') or 0)
     mio_prompts = int(s_mio.get('total_prompt_blocks') or 0)
+    kv_prompts = int(s_kv.get('total_prompt_blocks') or 0)
     data_json = json.dumps(cards, ensure_ascii=False)
     scraped = esc(inv.get('generated_at'))
     meta_desc = (
         f"Public inventory of {n_total} AI meme / viral video templates from "
-        f"MakeViral ({n_mv}), Remake Your Meme ({n_rm}), and Media.io ({n_mio}). "
+        f"MakeViral ({n_mv}), Remake Your Meme ({n_rm}), Media.io ({n_mio}), and Kavel ({n_kv}). "
         f"Prompts, demos, and posters — newest first."
     )
     og_desc = (
-        f"{n_mv} MakeViral + {n_rm} Remake + {n_mio} Media.io templates "
+        f"{n_mv} MakeViral + {n_rm} Remake + {n_mio} Media.io + {n_kv} Kavel templates "
         f"({n_with_prompts} with prompts)."
     )
 
@@ -102,7 +105,7 @@ def main():
 :root{{
   --bg:#070b12;--card:#101826;--card2:#152033;--line:#243247;
   --txt:#e8eef6;--sub:#8b9bb0;--acc:#7c6cff;--acc2:#3dd6c6;--ok:#3dd6c6;
-  --mio:#22d3ee;--rm:#f0a35e;
+  --mio:#22d3ee;--rm:#f0a35e;--kv:#f472b6;
 }}
 *{{box-sizing:border-box}}
 body{{margin:0;background:radial-gradient(1200px 600px at 10% -10%,#1a1440 0%,transparent 50%),radial-gradient(900px 500px at 100% 0%,#0d2a2a 0%,transparent 45%),var(--bg);color:var(--txt);font:15px/1.55 -apple-system,BlinkMacSystemFont,"Segoe UI","PingFang SC","Microsoft YaHei",sans-serif}}
@@ -149,6 +152,7 @@ header p.lead{{color:var(--sub);margin:0 0 8px;font-size:14px}}
 .tag.mv{{background:rgba(124,108,255,.88)}}
 .tag.rm{{background:rgba(240,163,94,.92)}}
 .tag.mio{{background:rgba(34,211,238,.9);color:#042f2e}}
+.tag.kv{{background:rgba(244,114,182,.92);color:#3b0764}}
 .date{{position:absolute;bottom:8px;left:10px;z-index:2;font-size:11px;background:rgba(0,0,0,.72);padding:2px 8px;border-radius:6px}}
 .preview-hint{{position:absolute;bottom:8px;right:10px;z-index:2;font-size:11px;background:rgba(124,108,255,.85);padding:3px 9px;border-radius:999px;color:#fff;font-weight:600;opacity:0;transition:opacity .15s}}
 .card:hover .preview-hint{{opacity:1}}
@@ -190,7 +194,7 @@ body.modal-open{{overflow:hidden}}
 <div class="wrap">
 <header>
   <h1>Awesome <span>Meme Video</span></h1>
-  <p class="lead">AI meme &amp; viral video templates — MakeViral · Remake · Media.io</p>
+  <p class="lead">AI meme &amp; viral video templates — MakeViral · Remake · Media.io · Kavel</p>
   <div class="badges">
     <a href="https://github.com/xianyu110/awesome-meme-video" target="_blank" rel="noopener"><img src="https://img.shields.io/badge/GitHub-Repo-black?logo=github" alt="GitHub"></a>
     <a href="https://github.com/xianyu110/awesome-meme-video/stargazers" target="_blank" rel="noopener"><img src="https://img.shields.io/github/stars/xianyu110/awesome-meme-video?style=social" alt="Stars"></a>
@@ -200,6 +204,7 @@ body.modal-open{{overflow:hidden}}
     <span class="chip"><b>{n_mv}</b> MakeViral · <b>{mv_prompts}</b> prompts</span>
     <span class="chip"><b>{n_rm}</b> Remake (no public prompts)</span>
     <span class="chip"><b>{n_mio}</b> Media.io · <b>{mio_prompts}</b> prompts</span>
+    <span class="chip"><b>{n_kv}</b> Kavel · <b>{kv_prompts}</b> prompts</span>
     <span class="chip"><b>{n_with_prompts}</b> with prompts</span>
     <span class="chip">Sorted <b>newest first</b></span>
     <span class="chip">Scraped <b>{scraped}</b> Asia/Shanghai</span>
@@ -207,13 +212,14 @@ body.modal-open{{overflow:hidden}}
 </header>
 <div class="box"><b>What is this?</b> A public inventory of AI meme templates.
 MakeViral pages publish copyable prompts (archived verbatim). Remake Your Meme is one-tap only — demos/posters archived, marked <b>no public prompts</b>.
-Media.io prompts are kept when present on public pages. Media stays on source CDNs when local LFS demos are missing.</div>
+Media.io and Kavel prompts are kept when present on public pages. Media stays on source CDNs when local LFS demos are missing.</div>
 <div class="toolbar">
   <div class="bar" id="bar">
     <button type="button" class="on" data-src="all">All</button>
     <button type="button" data-src="makeviral">MakeViral</button>
     <button type="button" data-src="remakeyourmeme">Remake</button>
     <button type="button" data-src="mediaio">Media.io</button>
+    <button type="button" data-src="kavel">Kavel</button>
     <button type="button" class="sep on" data-prompt="all">Any prompts</button>
     <button type="button" data-prompt="yes">Has prompts</button>
     <button type="button" data-prompt="no">No prompts</button>
@@ -263,6 +269,7 @@ const coarse = window.matchMedia('(hover: none), (pointer: coarse)').matches;
 function tagClass(src) {{
   if (src === 'makeviral') return 'mv';
   if (src === 'mediaio') return 'mio';
+  if (src === 'kavel') return 'kv';
   return 'rm';
 }}
 
@@ -451,8 +458,7 @@ render();
 </html>
 '''
     (ROOT / 'index.html').write_text(html)
-    print(f'Wrote index.html with {len(cards)} cards '
-          f'(MV={n_mv} RM={n_rm} MIO={n_mio} prompts={n_with_prompts})')
+    print(f'Wrote index.html with {len(cards)} cards (MV={n_mv} RM={n_rm} MIO={n_mio} KV={n_kv} prompts={n_with_prompts})')
 
 
 if __name__ == '__main__':

@@ -1,0 +1,55 @@
+# Venom Car AI
+
+- Source: [kavel](https://www.kavel.ai/video/venom-car-ai-video)
+- Slug: `venom-car-ai-video`
+- Listing: https://www.kavel.ai/ai-video-trends
+
+One photo of your car in: black liquid grabs the badge and builds your car back, piece by piece.
+
+## Demo videos (CDN)
+
+- https://cdn.kavel.ai/videos/kavel-showcase/venom-car-ai-video-garage.mp4
+- https://cdn.kavel.ai/videos/kavel-showcase/venom-car-ai-video-two-cars.mp4
+- https://cdn.kavel.ai/videos/kavel-showcase/venom-car-ai-video-neon-bmw.mp4
+
+## Posters
+
+- https://cdn.kavel.ai/posters/kavel-showcase/venom-car-ai-video-garage-fx-poster.webp
+- https://cdn.kavel.ai/posters/kavel-showcase/venom-car-ai-video-garage-fx-poster-thumb-240.webp
+- https://cdn.kavel.ai/posters/kavel-showcase/venom-car-ai-video-two-cars-poster.webp
+- https://cdn.kavel.ai/posters/kavel-showcase/venom-car-ai-video-neon-bmw-fx-poster.webp
+
+## Prompts
+
+### 1. Template prompt
+
+*Kind: video_prompt*
+
+```text
+Use the photo as the car and keep it exactly as photographed: same make, body shape, colour, wheels and badge. Vertical 9:16 cinematic clip, one continuous take. (1) On empty asphalt at dusk, the car's own badge lies alone on the ground; a glossy black liquid like living tar crawls in on clawed tendrils and grabs it; (2) the liquid swallows the badge and swells into a shiny black sphere, then bursts flat into a ring of spiky tendrils; (3) the tendrils weave the chassis, the engine and the wheels piece by piece, black liquid flowing over each part as it forms; (4) the liquid slides off the bodywork and the finished car from the photo stands there, headlights flicking on. Slow push-in from a low angle, glossy wet reflections. Deep rumbling bass and thick liquid squelches in the audio, no music with vocals. No text, no captions, no faces or characters in the liquid, no watermark.
+```
+
+### 2. Venom car AI â the car-park rebuild — venom-car-ai-video-garage
+
+*Kind: video_prompt*
+
+```text
+Use the photo as the car and keep it exactly as photographed: same make, body shape, colour, wheels and badge. Vertical 9:16 cinematic clip, one continuous take. (1) In an underground car park with yellow lane lines and a drain grate, a black liquid creature with dozens of spiky tendrils scuttles across the concrete toward the car's badge lying on the floor and swallows it; (2) it pools into a glossy black blob, then explodes outward into a starburst of tendrils; (3) a bare chassis with the engine and suspension rises out of the liquid and the bodywork wraps over it; (4) the finished car from the photo sits under the car-park lights with its headlights glowing. Slow push-in from a low angle, glossy wet reflections. Deep rumbling bass and thick liquid squelches in the audio, no music with vocals. No text, no captions, no faces or characters in the liquid, no watermark.
+```
+
+### 3. Venom car AI â the red car and the car meet — venom-car-ai-video-two-cars
+
+*Kind: video_prompt*
+
+```text
+Use the photo as the car and keep it exactly as photographed: same make, body shape, colour, wheels and badge. Vertical 9:16 cinematic clip, one continuous take. (1) On a dusty lot at a sunny outdoor car meet, white tents and a crowd behind, a glossy black liquid hand rises from the ground gripping the car's badge; (2) it sinks into a shiny black sphere, then splashes flat into a ring of spikes; (3) the spikes knit an engine, a radiator and a chassis on bare wheels, then the bodywork flows over them; (4) the finished car from the photo stands on the lot as people at the meet turn to look. Slow push-in from a low angle, glossy wet reflections. Deep rumbling bass and thick liquid squelches in the audio, no music with vocals. No text, no captions, no faces or characters in the liquid, no watermark.
+```
+
+### 4. Venom car AI â under the neon rings — venom-car-ai-video-neon-bmw
+
+*Kind: video_prompt*
+
+```text
+Use the photo as the car and keep it exactly as photographed: same make, body shape, colour, wheels and badge. Vertical 9:16 cinematic clip, one continuous take. (1) At night under a concrete overpass lit by rows of glowing neon rings, a black puddle on wet asphalt holds the car's badge; (2) glossy black tendrils snake out of the puddle and race across the road; (3) the tendrils build the chassis and the bodywork piece by piece under the neon, the bonnet still open; (4) the bonnet drops shut and the finished car from the photo rolls forward, headlights on. Slow push-in from a low angle, glossy wet reflections. Deep rumbling bass and thick liquid squelches in the audio, no music with vocals. No text, no captions, no faces or characters in the liquid, no watermark.
+```
+

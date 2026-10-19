@@ -1,0 +1,55 @@
+{
+  "source": "kavel",
+  "source_site": "https://www.kavel.ai",
+  "slug": "broccoli-throw-ai-video",
+  "name": "Broccoli Throw Meme AI Video",
+  "url": "https://www.kavel.ai/video/broccoli-throw-ai-video",
+  "listing_url": "https://www.kavel.ai/ai-video-trends",
+  "blurb": "One photo in: your pet or you gets the broccoli, throws it over the shoulder, and the room blows up behind.",
+  "published": null,
+  "updated": null,
+  "scraped_at": "2026-10-19",
+  "listing_index": 27,
+  "this_week_rank": null,
+  "demo_videos": [
+    "https://cdn.kavel.ai/videos/kavel-showcase/broccoli-throw-kitten.mp4",
+    "https://cdn.kavel.ai/videos/kavel-showcase/broccoli-throw-shiba.mp4",
+    "https://cdn.kavel.ai/videos/kavel-showcase/broccoli-throw-pomeranian.mp4"
+  ],
+  "posters": [
+    "https://cdn.kavel.ai/posters/kavel-showcase/broccoli-throw-kitten-fx-poster.webp",
+    "https://cdn.kavel.ai/posters/kavel-showcase/broccoli-throw-kitten-fx-poster-thumb-240.webp",
+    "https://cdn.kavel.ai/posters/kavel-showcase/broccoli-throw-shiba-fx-poster.webp",
+    "https://cdn.kavel.ai/posters/kavel-showcase/broccoli-throw-pomeranian-fx-poster.webp"
+  ],
+  "prompts": [
+    {
+      "label": "Template prompt",
+      "variant": null,
+      "kind": "video_prompt",
+      "text": "Use the photo as the main character and keep them exactly as photographed: the same face, fur or hair, colours and build. (1) A hand slides a white plate piled with green broccoli florets in front of them; they look down at it and give it a flat, dead-serious stare. (2) They grab or swat the plate and fling it backwards over their shoulder, broccoli florets flying through the air behind them. (3) The moment the broccoli lands behind them, a huge fireball explosion fills the whole room, orange flames and grey smoke rolling past, while they stay sitting in front of the blast, completely unbothered, staring straight into the camera. Handheld phone camera, one continuous shot, vertical 9:16. Explosion boom and a heavy beat drop in the audio, no vocals. No text, no captions, no logos, no watermark."
+    },
+    {
+      "label": "Broccoli throw meme AI video â the kitten in the gaming chair",
+      "variant": "broccoli-throw-kitten",
+      "kind": "video_prompt",
+      "text": "Use the photo as the main character and keep them exactly as photographed: the same face, fur or hair and colours. (1) A hand slides a white plate piled with green broccoli florets in front of them; they look down at it and give it a dead-serious stare. (2) Hard cut: the same character sits in a big black leather gaming chair in a dim gamer bedroom with a red LED strip along the ceiling, the broccoli plate in front of them; they swat the plate up and fling it over their shoulder, florets flying through the air behind the chair. (3) The moment the broccoli lands, a huge fireball explosion fills the whole room, orange flames and grey smoke rolling past the chair, while they stay seated in front of the blast, totally unbothered, staring straight into the camera. Plain black chair with no logos or lettering. Handheld phone camera, one cut only, vertical 9:16. Explosion boom and a heavy beat drop in the audio, no vocals. No text, no captions, no logos, no watermark."
+    },
+    {
+      "label": "Broccoli throw meme AI video â the shiba with the broccoli hat",
+      "variant": "broccoli-throw-shiba",
+      "kind": "video_prompt",
+      "text": "Use the photo as the main character and keep them exactly as photographed: the same face, fur or hair and colours, with a single broccoli floret balanced on their head, sitting on a wooden kitchen floor. (1) They hold still for a beat, then the smile drops into a flat, offended stare at the camera; (2) they whip their head to one side and the floret flies off, spinning backwards over their shoulder across the kitchen; (3) it hits the floor behind them and a huge fireball explosion fills the kitchen, orange flames and grey smoke rolling past, while they stay sitting in front of the blast, completely unbothered, looking straight into the camera. Handheld phone camera, one continuous shot, vertical 9:16. Explosion boom and a heavy beat drop in the audio, no vocals. No text, no captions, no logos, no watermark."
+    },
+    {
+      "label": "Broccoli throw meme AI video â the Pomeranian",
+      "variant": "broccoli-throw-pomeranian",
+      "kind": "video_prompt",
+      "text": "Use the photo as the main character and keep them exactly as photographed: the same face, fur or hair and colours, holding a piece of broccoli in their mouth. (1) They chew once, freeze, and their eyes go wide with disgust; (2) they toss their head and fling the broccoli backwards over their shoulder, the floret sailing across the room behind them; (3) it lands and a huge fireball explosion fills the room, orange flames and grey smoke rolling past, while they stay sitting in front of the blast, fur blowing, completely unbothered, staring straight into the camera. Handheld phone camera, one continuous shot, vertical 9:16. Explosion boom and a heavy beat drop in the audio, no vocals. No text, no captions, no logos, no watermark."
+    }
+  ],
+  "prompt_count": 4,
+  "prompts_public": true,
+  "note": null,
+  "showcase_count": 3
+}

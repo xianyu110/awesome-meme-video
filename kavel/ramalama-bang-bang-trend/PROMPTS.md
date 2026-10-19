@@ -1,0 +1,31 @@
+# Ramalama Bang Bang Trend AI Video
+
+- Source: [kavel](https://www.kavel.ai/video/ramalama-bang-bang-trend)
+- Slug: `ramalama-bang-bang-trend`
+- Listing: https://www.kavel.ai/ai-video-trends
+
+One photo in: a phone snaps a witch crossing the moon, and the reveal is you or your pet on the broom.
+
+## Demo videos (CDN)
+
+- https://cdn.kavel.ai/videos/kavel-showcase/ramalama-pink-witch-moon.mp4
+- https://cdn.kavel.ai/videos/kavel-showcase/ramalama-cat-witch-walk.mp4
+- https://cdn.kavel.ai/videos/kavel-showcase/ramalama-skull-costume-walk.mp4
+
+## Posters
+
+- https://cdn.kavel.ai/posters/kavel-showcase/ramalama-pink-witch-moon-poster.webp
+- https://cdn.kavel.ai/posters/kavel-showcase/ramalama-pink-witch-moon-poster-thumb-240.webp
+- https://cdn.kavel.ai/posters/kavel-showcase/ramalama-cat-witch-walk-poster.webp
+- https://cdn.kavel.ai/posters/kavel-showcase/ramalama-skull-costume-walk-poster.webp
+
+## Prompts
+
+### 1. Ramalama Bang Bang trend â the costume walk — ramalama-skull-costume-walk
+
+*Kind: video_prompt*
+
+```text
+Use the photo as the main character and keep the person exactly as photographed: same face, hair, skin tone, build and the outfit they wear in the photo. A Halloween costume walk at night on a suburban sidewalk, filmed on a phone, vertical 9:16, realistic handheld look. (1) The phone is held low near the ground and follows their shoes stepping toward the camera along the dark concrete sidewalk, streetlights and parked cars blurred behind them; only their legs and outfit are in frame. (2) On the beat the phone tilts up to reveal their face painted as a white skull with dark eye sockets and a stitched black mouth. (3) They put both hands to their head, lean slowly toward the lens and strike a dramatic pose, then sway their shoulders to the beat. Audio: footsteps on concrete and a stomping, spooky beat, no vocals, no song. No text, no captions, no lyrics on screen, no logos, no watermark.
+```
+

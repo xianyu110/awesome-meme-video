@@ -1,0 +1,30 @@
+{
+  "source": "kavel",
+  "source_site": "https://www.kavel.ai",
+  "slug": "enzo-fernandez-celebration-ai-video",
+  "name": "Enzo Fernandez Celebration AI",
+  "url": "https://www.kavel.ai/video/enzo-fernandez-celebration-ai-video",
+  "listing_url": "https://www.kavel.ai/ai-video-trends",
+  "blurb": "One photo in: you turn to the stands and cup both hands behind your ears while the crowd roars.",
+  "published": null,
+  "updated": null,
+  "scraped_at": "2026-10-19",
+  "listing_index": 22,
+  "this_week_rank": null,
+  "demo_videos": [
+    "https://cdn.kavel.ai/videos/kavel-showcase/enzo-celebration-scarf-fan.mp4",
+    "https://cdn.kavel.ai/videos/kavel-showcase/enzo-celebration-two-friends.mp4",
+    "https://cdn.kavel.ai/videos/kavel-showcase/enzo-celebration-mum-and-son.mp4"
+  ],
+  "posters": [
+    "https://cdn.kavel.ai/posters/kavel-showcase/enzo-celebration-scarf-fan-ears-poster.webp",
+    "https://cdn.kavel.ai/posters/kavel-showcase/enzo-celebration-scarf-fan-ears-poster-thumb-240.webp",
+    "https://cdn.kavel.ai/posters/kavel-showcase/enzo-celebration-two-friends-ears-poster.webp",
+    "https://cdn.kavel.ai/posters/kavel-showcase/enzo-celebration-mum-and-son-ears-poster.webp"
+  ],
+  "prompts": [],
+  "prompt_count": 0,
+  "prompts_public": false,
+  "note": "No public prompt text found on Kavel page payload; demos/posters only — prompts not invented.",
+  "showcase_count": 3
+}

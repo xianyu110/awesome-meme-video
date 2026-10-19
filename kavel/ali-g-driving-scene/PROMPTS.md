@@ -1,0 +1,55 @@
+# Ali G Driving Scene
+
+- Source: [kavel](https://www.kavel.ai/video/ali-g-driving-scene)
+- Slug: `ali-g-driving-scene`
+- Listing: https://www.kavel.ai/ai-video-trends
+
+One photo in: you, a mate or the cat grip the light-blue wheel and head-bang to the beat in a little hatchback.
+
+## Demo videos (CDN)
+
+- https://cdn.kavel.ai/videos/kavel-showcase/ali-g-drive-bandana.mp4
+- https://cdn.kavel.ai/videos/kavel-showcase/ali-g-drive-camo.mp4
+- https://cdn.kavel.ai/videos/kavel-showcase/ali-g-drive-cat.mp4
+
+## Posters
+
+- https://cdn.kavel.ai/posters/kavel-showcase/ali-g-drive-bandana-poster.webp
+- https://cdn.kavel.ai/posters/kavel-showcase/ali-g-drive-bandana-poster-thumb-240.webp
+- https://cdn.kavel.ai/posters/kavel-showcase/ali-g-drive-camo-poster.webp
+- https://cdn.kavel.ai/posters/kavel-showcase/ali-g-drive-cat-poster.webp
+
+## Prompts
+
+### 1. Template prompt
+
+*Kind: video_prompt*
+
+```text
+Use the photo as the main character and keep them exactly as photographed: same face, hair, skin tone and outfit (if it's a pet, the same fur, markings and eyes). Inside a small old 1990s hatchback on a red-brick suburban street at golden hour, filmed from the dashboard facing the driver, vertical 9:16, handheld phone feel. Both hands (or paws) on a chunky light-blue steering wheel. (1) They look into the camera, cool and still, for a beat. (2) A heavy bass beat drops and they start head-banging hard to it, shoulders bouncing, yanking the wheel left and right in time with the beat while the car rocks. (3) They point at the camera and keep bobbing with a cocky grin. Audio: loud bass-heavy 2000s UK garage beat from the car speakers, engine hum. No text, no captions, no logos or badges on the wheel, no watermark.
+```
+
+### 2. Ali G driving scene â the red-brick street — ali-g-drive-bandana
+
+*Kind: video_prompt*
+
+```text
+Use the photo as the main character and keep the person exactly as photographed: same face, hair, skin tone and outfit. Inside a small old hatchback on a red-brick suburban street, late-afternoon sun, filmed from the dashboard facing the driver, vertical 9:16, handheld phone feel. Both hands on a chunky light-blue steering wheel. (1) A heavy bass beat drops and they start head-banging hard to it, shoulders bouncing, mouthing the words. (2) They yank the wheel left and right in time with the beat, leaning into each turn, the car rocking. (3) They throw one hand off the wheel, point at the camera and keep bobbing with a cocky grin. Audio: loud bass-heavy 2000s UK garage beat from the car speakers, engine hum. No text, no captions, no logos or badges on the wheel, no watermark.
+```
+
+### 3. Ali G driving scene â the fluffy-wheel stare — ali-g-drive-camo
+
+*Kind: video_prompt*
+
+```text
+Use the photo as the main character and keep the person exactly as photographed: same face, hair, skin tone and outfit. Inside a small old hatchback with a sunroof on a country lane, bright overcast daylight, filmed from the dashboard facing the driver, vertical 9:16, handheld phone feel. Both hands on a fluffy light-blue faux-fur steering wheel. (1) They stare into the camera dead serious for a beat. (2) The bass drops and they snap into wild head-bobbing, nodding hard, hands drumming on the fluffy wheel. (3) They lean back, steer with one wrist and nod slowly at the camera, totally unbothered. Audio: loud bass-heavy 2000s UK garage beat from the car speakers, engine hum. No text, no captions, no logos or badges on the wheel, no watermark.
+```
+
+### 4. Ali G driving scene â the cat at the wheel — ali-g-drive-cat
+
+*Kind: video_prompt*
+
+```text
+Use the photo as the main character and keep the pet exactly as photographed: same fur, markings, face and eyes. It sits upright in the driver's seat of a small old hatchback on a suburban street, golden late-afternoon light, filmed from the dashboard, vertical 9:16, handheld phone feel. Front paws rest on a fluffy light-blue faux-fur steering wheel. (1) The beat drops and it starts bobbing its head to the rhythm, ears twitching. (2) It pats the fluffy wheel left and right with both paws as if steering, swaying with each turn. (3) It turns to the camera, gives a slow blink and keeps nodding along. Real animal anatomy and natural movement. Audio: loud bass-heavy 2000s UK garage beat from the car speakers, engine hum. No text, no captions, no logos or badges on the wheel, no watermark.
+```
+

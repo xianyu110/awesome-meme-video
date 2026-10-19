@@ -1,11 +1,12 @@
-# All prompts (MakeViral + Media.io)
+# All prompts (MakeViral + Media.io + Kavel)
 
-> MakeViral: 313 prompt blocks from 135 public template markdown pages.
-> Media.io: 9 prompt blocks from 9 templates with public aigc_config prompts (14 total Media.io entries).
+> MakeViral: 313 prompt blocks from 135 templates.
+> Media.io: 9 prompt blocks from 9 templates with public prompts (14 total Media.io entries).
+> Kavel: 237 prompt blocks from 62 templates with public prompts (72 total Kavel entries).
 >
-> Remake Your Meme does not publish prompts; see `remakeyourmeme/*/PROMPTS.md` for metadata only.
+> Remake Your Meme does not publish prompts.
 >
-> Sorted newest-first by updated/published (2026-10-18).
+> Sorted newest-first by updated/published/scraped_at (2026-10-19). Kavel section follows site listing order.
 
 ## MakeViral
 
@@ -5560,6 +5561,1926 @@ Maintain strict identity consistency. No face drift, identity blending, duplicat
 
 ```text
 STRICT MAIN CHARACTER + VEHICLE REPLACEMENT — VIDEO EDITING Replace ONLY the main character in the center of the original video with the person from @图片1, and replace the original car with a DIFFERENT globally famous real-world car. Use @图片1 strictly as the identity reference. Preserve @图片1’s exact face, facial identity, hairstyle, hair color, gender, and recognizable features. Do NOT blend @图片1’s face with the original character’s face. The replacement character must inherit the original main character’s exact: * position and body placement * scale and proportions * pose and posture * facial expressions * movement timing and trajectory * interaction with the environment Keep the black glasses. The replacement character must naturally and accurately follow the original character’s movements throughout the ENTIRE video. The replaced character continues holding the cigarette exactly as in the original video. VEHICLE REPLACEMENT: Replace the original car with ONE different, extremely famous real-world automotive brand and vehicle. Randomly select the vehicle category each generation, such as luxury sedan, sports car, supercar, SUV, off-road vehicle, coupe, or premium executive car. Use only globally recognizable automotive brands such as Mercedes-Benz, BMW, Audi, Porsche, Ferrari, Lamborghini, Bentley, Rolls-Royce, Range Rover, Toyota, or other similarly famous brands. The selected car must look like a real production vehicle from that brand, with recognizable brand design language, realistic body proportions, materials, paint, windows, wheels, headlights, interior, and reflections. The new vehicle must inherit the original car’s exact: * position * scale * orientation * movement * speed * trajectory * interaction with the character * camera relationship * perspective * lighting and shadows Do NOT randomly change the car during the video. Select ONE famous car at the beginning and keep the exact same vehicle consistent throughout the entire video. Preserve EVERYTHING ELSE from the original video exactly: * camera movement * zoom-out and camera motion * framing and composition * lighting and shadows * background * environment * timing and duration * objects and props * all surrounding/background people ALL surrounding/background people must remain completely unchanged. Preserve their original faces, identities, hairstyles, hair colors, outfits, positions, poses, and movements. Do NOT replace, modify, distort, remove, or add any background characters. Do NOT alter the background. Do NOT alter the camera. Do NOT alter the composition. Do NOT change the main character’s pose or actions. Do NOT create additional people. Do NOT change the number of people in the scene. IMPORTANT: ONLY replace the central main character with @图片1 AND replace the original vehicle with ONE randomly selected globally famous car of a random vehicle category. Everything else must remain identical to the original video.
+```
+
+---
+
+## Kavel
+
+## Ali G Driving Scene
+
+- Page: https://www.kavel.ai/video/ali-g-driving-scene
+- Scraped: 2026-10-19
+- Local: [`kavel/ali-g-driving-scene/PROMPTS.md`](kavel/ali-g-driving-scene/PROMPTS.md)
+
+### Template prompt
+
+```text
+Use the photo as the main character and keep them exactly as photographed: same face, hair, skin tone and outfit (if it's a pet, the same fur, markings and eyes). Inside a small old 1990s hatchback on a red-brick suburban street at golden hour, filmed from the dashboard facing the driver, vertical 9:16, handheld phone feel. Both hands (or paws) on a chunky light-blue steering wheel. (1) They look into the camera, cool and still, for a beat. (2) A heavy bass beat drops and they start head-banging hard to it, shoulders bouncing, yanking the wheel left and right in time with the beat while the car rocks. (3) They point at the camera and keep bobbing with a cocky grin. Audio: loud bass-heavy 2000s UK garage beat from the car speakers, engine hum. No text, no captions, no logos or badges on the wheel, no watermark.
+```
+
+### Ali G driving scene â the red-brick street — ali-g-drive-bandana
+
+```text
+Use the photo as the main character and keep the person exactly as photographed: same face, hair, skin tone and outfit. Inside a small old hatchback on a red-brick suburban street, late-afternoon sun, filmed from the dashboard facing the driver, vertical 9:16, handheld phone feel. Both hands on a chunky light-blue steering wheel. (1) A heavy bass beat drops and they start head-banging hard to it, shoulders bouncing, mouthing the words. (2) They yank the wheel left and right in time with the beat, leaning into each turn, the car rocking. (3) They throw one hand off the wheel, point at the camera and keep bobbing with a cocky grin. Audio: loud bass-heavy 2000s UK garage beat from the car speakers, engine hum. No text, no captions, no logos or badges on the wheel, no watermark.
+```
+
+### Ali G driving scene â the fluffy-wheel stare — ali-g-drive-camo
+
+```text
+Use the photo as the main character and keep the person exactly as photographed: same face, hair, skin tone and outfit. Inside a small old hatchback with a sunroof on a country lane, bright overcast daylight, filmed from the dashboard facing the driver, vertical 9:16, handheld phone feel. Both hands on a fluffy light-blue faux-fur steering wheel. (1) They stare into the camera dead serious for a beat. (2) The bass drops and they snap into wild head-bobbing, nodding hard, hands drumming on the fluffy wheel. (3) They lean back, steer with one wrist and nod slowly at the camera, totally unbothered. Audio: loud bass-heavy 2000s UK garage beat from the car speakers, engine hum. No text, no captions, no logos or badges on the wheel, no watermark.
+```
+
+### Ali G driving scene â the cat at the wheel — ali-g-drive-cat
+
+```text
+Use the photo as the main character and keep the pet exactly as photographed: same fur, markings, face and eyes. It sits upright in the driver's seat of a small old hatchback on a suburban street, golden late-afternoon light, filmed from the dashboard, vertical 9:16, handheld phone feel. Front paws rest on a fluffy light-blue faux-fur steering wheel. (1) The beat drops and it starts bobbing its head to the rhythm, ears twitching. (2) It pats the fluffy wheel left and right with both paws as if steering, swaying with each turn. (3) It turns to the camera, gives a slow blink and keeps nodding along. Real animal anatomy and natural movement. Audio: loud bass-heavy 2000s UK garage beat from the car speakers, engine hum. No text, no captions, no logos or badges on the wheel, no watermark.
+```
+
+---
+
+## Coldplay Kiss Cam Generator
+
+- Page: https://www.kavel.ai/video/coldplay-kiss-cam-generator
+- Scraped: 2026-10-19
+- Local: [`kavel/coldplay-kiss-cam-generator/PROMPTS.md`](kavel/coldplay-kiss-cam-generator/PROMPTS.md)
+
+### Coldplay kiss cam generator â the stadium dive — coldplay-kiss-cam-glasses-duck
+
+```text
+Use the photo: the two people in it are the couple; keep both faces, hair, skin tones, builds and outfits exactly as photographed (if two photos are given, one person from each). A stadium concert at night, filmed on a phone from the crowd, vertical 9:16, handheld. A rig of bright bulb lights hangs above a giant circular screen showing the kiss cam: the couple at the railing of a box seat. (1) One stands behind the other with both arms wrapped around them, both smiling and swaying to the music. (2) They catch sight of themselves on the screen: the one behind drops straight down out of sight below the railing, the one in front turns their back to the camera and walks a step away. (3) The camera stays on the empty railing and the turned back while hands in the crowd wave and people laugh. Audio: crowd roar, a soft original live ballad with no recognisable song, a loud 'ooooh'. No text, no band, no logos, no watermark.
+```
+
+### Coldplay kiss cam generator â the arena face-palm — coldplay-kiss-cam-stadium-duck
+
+```text
+Use the photo: keep both people exactly as photographed, same faces, hair, skin tones and outfits (if two photos are given, one person from each). An indoor arena concert, filmed on a phone from the floor, vertical 9:16, pink and red stage light, a crowd silhouetted in the foreground. The giant oval screen shows the kiss cam on a row of fans in black T-shirts: the two people from the photo stand side by side among friends. (1) The camera lands on them; the one on the right freezes, then buries their face in both hands and bends forward. (2) The one on the left grins straight at the camera, puts a hand to the side of their head and flips imaginary hair, loving it. (3) A friend behind them throws a fist in the air and cheers while the screen keeps them in frame. Audio: arena crowd screaming and laughing, a booming original pop beat with no recognisable song. No text, no captions, no logos, no watermark.
+```
+
+### Coldplay kiss cam generator â the restaurant big screen — coldplay-kiss-cam-restaurant-screen
+
+```text
+Use the photo: keep both people exactly as photographed, same faces, hair, skin tones and outfits (if two photos are given, one person from each). A busy family restaurant in daytime with long tables, string flags and a big screen on the wall, filmed on a phone from a table, vertical 9:16, handheld. The big screen plays a live kiss cam with a heart-shaped frame. (1) The screen cuts to the two people from the photo sitting at a table among the other diners, both laughing at something. (2) They look up, see themselves on the screen, and one slides down in the chair to hide behind a menu while the other points at a stranger at the next table as if to say 'not us'. (3) Kids at the nearby tables laugh and point at the screen. Audio: restaurant chatter, cutlery, a cheerful original jingle from the speakers, laughter. No text, no readable signs, no logos, no brand names, no watermark.
+```
+
+---
+
+## Bama Bound Trend
+
+- Page: https://www.kavel.ai/video/bama-bound-trend
+- Scraped: 2026-10-19
+- Local: [`kavel/bama-bound-trend/PROMPTS.md`](kavel/bama-bound-trend/PROMPTS.md)
+
+### Template prompt
+
+```text
+Use the photo as the main character and keep the person exactly as photographed: same face, hair, skin tone, build and outfit the whole time. Vertical 9:16 phone video on a wide green grass field under a bright blue sky, tall pine trees along the edge, sunny midday light, natural handheld shake. (1) The main character stands in the grass smiling, holding a bright red sign with big bold white letters that read I'M BAMA BOUND, nothing else printed on it. (2) They lift the sign high over their head with both arms straight and grin at the camera. (3) They bounce, jump twice and cheer like they just got the acceptance letter with a full ride, hair flying. (4) Last beat: they hold the sign up again and pose, still laughing. Their face stays clearly visible whenever they face the camera. The sign text stays readable and spelled exactly I'M BAMA BOUND. Audio: an upbeat celebratory hip-hop beat, happy screams of "I got in!". No logos, no mascots, no other text, no captions, no watermark.
+```
+
+### Bama Bound trend â the white-dress jump — bama-bound-white-lace
+
+```text
+Use the photo as the main character and keep the person exactly as photographed: same face, hair, skin tone, build and outfit the whole time. Vertical 9:16 phone video, bright summer afternoon outside a stone-block building, natural handheld shake. (1) The main character stands smiling with a folded sign in one hand. (2) They unfold it and hold it up to the camera: a bright red sign with big bold white letters that read I'M BAMA BOUND, nothing else printed on it. (3) They lift the sign high over their head with both arms straight, bounce on their toes and jump twice, laughing and cheering like they just got the acceptance letter. (4) Last beat: they hug the sign to their chest and grin at the camera. The sign text stays readable and spelled exactly I'M BAMA BOUND. Audio: an upbeat celebratory hip-hop beat, happy screams of "I got in!". No logos, no mascots, no other text, no captions, no watermark.
+```
+
+### Bama Bound trend â the party squad — bama-bound-friends
+
+```text
+Use the photo: keep every person in it recognisable, same faces, hair, skin tones, builds and outfits; if the photo shows only one person, three friends join them. Vertical 9:16 phone video at a party in a living room with pastel bunting and tinsel on the ceiling fan, warm evening light, handheld shake. (1) The friends lean in toward the camera, laughing. (2) The main character from the photo, in the middle, pulls up a bright red sign with big bold white letters that read I'M BAMA BOUND, nothing else printed on it, and holds it high over their head. (3) Everyone screams, jumps up and down and throws their arms in the air around them, hugging and cheering like they just got in. (4) Last beat: they squeeze together behind the sign and pose for the camera. The sign text stays readable and spelled exactly I'M BAMA BOUND. Audio: an upbeat celebratory hip-hop beat, friends screaming and cheering. No logos, no mascots, no other text, no captions, no watermark.
+```
+
+### Bama Bound trend â the living-room disbelief — bama-bound-sign-guy
+
+```text
+Use the photo as the main character and keep the person exactly as photographed: same face, hair, skin tone, build and outfit the whole time. Vertical 9:16 phone video in a warm-lit living room at night, a wall lamp glowing behind, handheld shake. (1) The main character holds a bright red sign at chest height that reads I'M BAMA BOUND in big bold white letters, nothing else printed on it, and looks down at it in disbelief. (2) Slowly a huge grin spreads across their face; they raise the sign straight up over their head with both arms. (3) They jump up from the couch, pump the sign in the air and cheer like they just found out they got in with a full ride. (4) Last beat: they point at the sign and nod at the camera. The sign text stays readable and spelled exactly I'M BAMA BOUND. Audio: an upbeat celebratory hip-hop beat, them shouting "I got in!". No logos, no mascots, no other text, no captions, no watermark.
+```
+
+---
+
+## Plug Walk AI Filter
+
+- Page: https://www.kavel.ai/video/plug-walk-ai-filter
+- Scraped: 2026-10-19
+- Local: [`kavel/plug-walk-ai-filter/PROMPTS.md`](kavel/plug-walk-ai-filter/PROMPTS.md)
+
+### Plug walk AI filter â the sunset corner — plug-walk-ai-filter-puffer
+
+```text
+Use the photo as the main character and keep the person exactly as photographed: same face, hair, skin tone, build and outfit the whole time. Point-of-view shot from the driver's seat of a car, phone held at the open passenger window, vertical 9:16, golden-hour sunset at a quiet street corner with a traffic light pole, gravel and bushes, natural handheld shake. (1) A hand from inside the car holds a one-dollar bill out of the window; the main character steps up, takes the bill, looks at it and grins. (2) They point at the camera, back away a few steps onto the gravel and, on the beat, break into the plug walk: knees bent low, shoulders rocking, arms swinging side to side, a smooth gliding shuffle left and right, bill still in one hand. (3) They keep dancing, cool and confident, eyes on the camera, while the car stays parked. Audio: a laid-back trap beat with heavy bass, no vocals. No text, no captions, no logos, no watermark.
+```
+
+### Plug walk AI filter â the dusk bounce — plug-walk-ai-filter-dreads
+
+```text
+Use the photo as the main character and keep the person exactly as photographed: same face, hair, skin tone, build and outfit the whole time. Point-of-view shot from the driver's seat of a car through the open window, vertical 9:16, dusk at a street corner with a traffic light pole and dark trees against a pink sky, natural handheld shake. (1) A hand from inside the car holds out a dollar bill; the main character leans in, takes it with a nod and says thanks. (2) They walk backwards away from the car, stop on the gravel and, on the beat, start the plug walk: knees bent, a low bouncing two-step, shoulders and arms swinging loose side to side, one hand waving the bill. (3) They lean back into the groove and finish with a slow point at the car. Audio: a slow trap beat with deep bass, no vocals. No text, no captions, no logos, no watermark.
+```
+
+### Plug walk AI filter â the desert-lot shuffle — plug-walk-ai-filter-grey-tee
+
+```text
+Use the photo as the main character and keep the person exactly as photographed: same face, hair, skin tone, build and outfit the whole time. Point-of-view shot from the driver's seat of a car at the open window, vertical 9:16, bright late-afternoon sun, palm trees, a red flowering bush and a desert lot behind, natural handheld shake. (1) A hand from inside the car holds out a few dollar bills; the main character laughs, takes the cash and gives a thumbs up. (2) They turn, walk a few steps back, then spin round to face the car and, on the beat, break into the plug walk: knees bent, shoulders dipping, arms swinging low side to side, a gliding shuffle across the sand, grinning the whole time. (3) They end with both hands out toward the car like they just won the day. Audio: a laid-back trap beat with heavy bass, no vocals. No text, no captions, no logos, no watermark.
+```
+
+---
+
+## Black Friday Video Maker
+
+- Page: https://www.kavel.ai/video/black-friday-video-maker
+- Scraped: 2026-10-19
+- Local: [`kavel/black-friday-video-maker/PROMPTS.md`](kavel/black-friday-video-maker/PROMPTS.md)
+
+### Template prompt
+
+```text
+Start from this photo and keep the product exactly as photographed the whole time: same shape, colours, materials and details, never redesigned, no label or logo added to it. A 12-second vertical 9:16 Black Friday commercial, 24fps, sleek product-commercial style, the product always the hero in sharp focus. 0-2s (hook): a closed black gift box with a red ribbon sits on a dark studio floor, it shakes once. 2-5s: the lid bursts open in slow motion, red and gold confetti and tissue paper explode upward. 5-9s: the product rises out of the box and lands softly on the lid as the confetti rains down around it, the camera circling at a low angle. 9-12s (end card): the product sits in a spotlight among the falling confetti, empty space at the top for the sale text. Look: black, red and gold, punchy commercial lighting, crisp detail. Audio: a drumroll, a pop as the box opens, sparkly confetti sounds, an upbeat sting at the end. No people, no text, no numbers, no brand names, no logos, no watermark.
+```
+
+---
+
+## Devil Wears Prada AI
+
+- Page: https://www.kavel.ai/video/devil-wears-prada-ai
+- Scraped: 2026-10-19
+- Local: [`kavel/devil-wears-prada-ai/PROMPTS.md`](kavel/devil-wears-prada-ai/PROMPTS.md)
+
+### Template prompt
+
+```text
+Use the photo as the main character and keep the person exactly as photographed: same face, hair, skin tone and build. A front-camera selfie video, vertical 9:16. Part one, at home in a warm-lit bedroom, wearing the same top from the photo: they lip-sync straight into the camera with attitude, run a hand through their hair, make little devil horns with two fingers above their head and move their hands to the beat. Two plain white panels slide in from the left and right edges of the frame; they grab the edges and push them shut on the beat until only their face shows between them. Then a hard cut on the beat to the same person on a windy city street at night beside a glass office building, city lights glowing behind them, now wearing an oversized black leather jacket, hair blowing in the wind, still lip-syncing to the camera, running a hand through their hair and striking a cool pose. Pounding electronic dance beat. No text, no captions, no logos, no watermark.
+```
+
+### Devil Wears Prada AI â pink top to black leather — dwp-pink-top
+
+```text
+Use the photo as the main character and keep the person exactly as photographed: same face, hair, skin tone and build. A front-camera selfie video, vertical 9:16. Part one, at home in a warm-lit bedroom, wearing the same top from the photo: she lip-syncs straight into the camera with attitude, flips her hair, runs a hand through it, makes little devil horns with two fingers above her head and moves her hands to the beat. Two plain white panels slide in from the left and right edges of the frame; she grabs their edges and pushes them shut on the beat until only her face shows between them. Then a hard cut on the beat to the same woman on a windy city street at night beside a glass office building, city lights glowing behind her, now wearing an oversized black leather jacket, hair blowing in the wind, still lip-syncing to the camera, running a hand through her hair and striking a cool pose. Pounding electronic dance beat. No text, no captions, no logos, no watermark.
+```
+
+### Devil Wears Prada AI â the serious guy — dwp-black-tank
+
+```text
+Use the photo as the main character and keep the person exactly as photographed: same face, beard, hair, skin tone and build. A front-camera selfie video, vertical 9:16. Part one, at home in a warm-lit bedroom, wearing the same top from the photo: he lip-syncs straight into the camera, dead serious, runs a hand over his hair, makes little devil horns with two fingers above his head and moves his hands to the beat. Two plain white panels slide in from the left and right edges of the frame; he grabs their edges and pushes them shut on the beat until only his face shows between them. Then a hard cut on the beat to the same man on a windy city street at night beside a glass office building, city lights glowing behind him, now wearing an oversized black leather jacket, still lip-syncing to the camera with full model attitude, running a hand through his hair and striking a cool pose. Pounding electronic dance beat. No text, no captions, no logos, no watermark.
+```
+
+---
+
+## Singing Pets AI Video
+
+- Page: https://www.kavel.ai/video/singing-pets-ai
+- Scraped: 2026-10-19
+- Local: [`kavel/singing-pets-ai/PROMPTS.md`](kavel/singing-pets-ai/PROMPTS.md)
+
+### Template prompt
+
+```text
+Use the photo as the pet and keep it recognisable from the first frame to the last: same species and breed, fur colour and markings, eyes, ears and size. Just after bath time in a bright white-tiled bathroom, vertical 9:16, realistic phone video. The pet sits upright in the bathtub with a fluffy white towel wrapped around its waist, fur still damp, holding a black hair dryer up in one front paw like a microphone while the warm air ruffles the fur on top of its head. It tips its head back, closes its eyes and sings a big, heartfelt pop chorus, its mouth opening and closing in time with every note; then it opens its eyes, leans toward the camera for the high note and waves its free paw. Locked-off camera at eye level, soft bathroom light, one continuous take. The pet keeps real animal anatomy: paws, never human hands. Audio: a catchy original pop chorus sung by a playful animal-like voice, the hum of the hair dryer and a little bathroom echo. No text, no captions, no logos, no watermark.
+```
+
+### Singing pets AI â the poodle at night — singing-pets-poodle-night
+
+```text
+Use the photo as the pet and keep it recognisable from the first frame to the last: same species and breed, fur colour and markings, eyes, ears and size. Night time outdoors under a deep blue sky, vertical 9:16, realistic phone video shot from slightly below. The pet starts small in the frame, then walks right up to the lens and sings a sweet love-song chorus straight into the camera, mouth opening wide on every note. On the big note it throws one front paw straight up toward the sky and holds it there, eyes squeezed shut, then lowers the paw and reaches it out toward the camera as the line ends. Soft light on its face from the phone, dark background, one continuous take. The pet keeps real animal anatomy: paws, never human hands. Audio: a tender original love-song chorus sung by a playful animal-like voice, no instruments loud enough to cover it. No text, no captions, no logos, no watermark.
+```
+
+### Singing pets AI â the puppy on the court — singing-pets-puppy-tennis-court
+
+```text
+Use the photo as the pet and keep it recognisable from the first frame to the last: same species and breed, fur colour and markings, eyes, ears, size and any collar it wears. Night time at an empty floodlit outdoor tennis court with a chain-link fence and green and blue court surface, vertical 9:16, realistic handheld phone video looking down at the pet. It walks up to the camera with big shiny eyes and starts singing an upbeat chorus, mouth opening and closing on every word; it raises one front paw high in the air on the big note, then waves it at the camera and gives a wide open-mouthed grin on the last line. One continuous take, the floodlights glowing behind. The pet keeps real animal anatomy: paws, never human hands. Audio: a bright, bouncy original pop chorus sung by a playful animal-like voice. No text, no captions, no logos, no brand names, no watermark.
+```
+
+### Singing pets AI â the terrier in pearls — singing-pets-terrier-studio
+
+```text
+Use the photo as the pet and keep it recognisable from the first frame to the last: same species and breed, fur colour and markings, eyes, ears and size. A small vocal booth lined with grey acoustic foam, vertical 9:16, realistic close-up video. The pet wears a black knit beret, over-ear studio headphones, a little black dress and a string of pearls, and sits in front of a silver condenser microphone with a round pop filter. It sings a smooth, soulful verse into the microphone with its eyes closed and its mouth moving on every word, sways its head with the melody, opens one eye and winks at the camera, then smiles wide on the last note. Locked-off camera at eye level, soft warm studio light, one continuous take. The pet keeps real animal anatomy: paws, never human hands. Audio: an original soulful jazz-pop vocal sung by a playful animal-like voice over a soft piano. No text, no captions, no logos, no brand names on the microphone or headphones, no watermark.
+```
+
+### Singing pets AI â the chihuahua in the studio — singing-pets-chihuahua-studio
+
+```text
+Use the photo as the pet and keep it recognisable from the first frame to the last: same species and breed, fur colour and markings, eyes, ears and size. A professional recording studio, vertical 9:16, realistic video. Open on an extreme close-up of the pet's face wearing big black over-ear headphones, eyes wide, singing straight into the lens with its mouth opening on every note. The camera slowly pulls back to reveal it sitting on a round black stool in front of a studio microphone on a stand, a large mixing desk with glowing buttons and a keyboard behind it; it keeps singing, closes its eyes on the long note and sways. One continuous take, warm studio lighting. The pet keeps real animal anatomy: paws, never human hands. Audio: an original upbeat pop vocal sung by a playful animal-like voice, recorded studio sound. No text, no captions, no readable labels, no logos, no brand names, no watermark.
+```
+
+### Singing pets AI â the tuxedo cat — singing-pets-tuxedo-cat
+
+```text
+Use the photo as the pet and keep it recognisable from the first frame to the last: same species and breed, fur colour and markings, eyes, ears and size. A cosy living room in the evening, a dark teal wall behind and a table lamp glowing warm and out of focus, vertical 9:16, realistic close-up video. The pet faces the camera head and shoulders in frame and sings a slow, heartfelt ballad, mouth opening and closing on every word; it squints on the soft lines, its eyes go wide on the high note, and it tilts its head slightly between phrases, whiskers moving. Locked-off camera at eye level, soft lamp light, one continuous take. The pet keeps real animal anatomy, no human hands. Audio: an original gentle ballad sung by a sweet animal-like voice with a soft piano. No text, no captions, no logos, no watermark.
+```
+
+---
+
+## Airport Celebrity AI Video
+
+- Page: https://www.kavel.ai/video/airport-celebrity-ai-video
+- Scraped: 2026-10-19
+- Local: [`kavel/airport-celebrity-ai-video/PROMPTS.md`](kavel/airport-celebrity-ai-video/PROMPTS.md)
+
+### Airport celebrity AI video â Gate 4 escort — airport-celebrity-delhi-arrival
+
+```text
+Use the photo as the main character and keep the person exactly as photographed: same face, hair, skin tone, build and outfit. Ultra realistic celebrity arrival at a big airport in daylight, filmed on a phone, vertical 9:16, natural handheld shake. (1) They walk out of an arrivals gate under a yellow ARRIVAL GATE sign, relaxed, one hand by their side, travellers with suitcases behind them. (2) The camera swings to the barricade: a TV cameraman and a crowd of fans press forward, phones raised, shouting. (3) Two bodyguards in black fall in on either side and walk them past the crowd as the camera tries to keep up. (4) At the curb a black SUV waits; they smile back at the camera, climb in and the door shuts, the camera ending on the tinted window. Audio: crowd shouting and cheering, camera shutter clicks, footsteps, a car door slamming. No text, no captions, no logos, no airline or airport names, no watermark.
+```
+
+---
+
+## Twilight Baseball Scene AI Video
+
+- Page: https://www.kavel.ai/video/twilight-baseball-scene
+- Scraped: 2026-10-19
+- Local: [`kavel/twilight-baseball-scene/PROMPTS.md`](kavel/twilight-baseball-scene/PROMPTS.md)
+
+### Twilight baseball scene â the park on a grey day — twilight-baseball-park
+
+```text
+Use the photo as the main character and keep the person recognisable from the first frame to the last: same face, hair, skin tone and build, in the clothes from the photo. A grassy park with tall thin trees under a grey cloudy sky, vertical 9:16, realistic handheld phone video with a cool, slightly desaturated look. (1) They stand side-on, raise the ball high behind their head, kick one knee up and throw with the whole body, the free arm pointing the way. (2) Quick cut: they sprint across the grass in a low, impossibly fast run, arms pumping. (3) They hop up onto a big grey boulder and spring off it without breaking stride. (4) Last shot: they dash between two tree trunks toward the camera in the stiff, fast vampire run, then stop and grin. Audio: distant thunder, wind in the trees and a driving rock beat, no vocals, no song. No text, no captions, no logos, no watermark.
+```
+
+### Twilight baseball scene â friends in the woods at night — twilight-baseball-night
+
+```text
+Use the photo: keep every person in it recognisable, same faces, hair, skin tones and builds; if the photo shows only one person, two friends join them. Woods at night lit only by a phone flash and one path lamp, dead leaves on the ground, vertical 9:16, realistic handheld phone video. (1) The main character from the photo stands on the leaves in a cap, winds up, kicks one leg high and pitches into the dark. (2) Quick cuts: a friend sprints past the camera, another leaps over a low bush, the main character dashes along the path with hair flying. (3) Last shot: the main character runs straight at a thick tree trunk and scrambles up it in two big moves, then looks down at the camera from a branch. Audio: rustling leaves, fast footsteps, a distant thunder roll and a driving rock beat, no vocals, no song. No text, no captions, no logos or writing on any clothes, no watermark.
+```
+
+### Twilight baseball scene â the hotel lobby pitch — twilight-baseball-lobby
+
+```text
+Use the photo as the main character and keep the person recognisable from the first frame to the last: same face, hair, skin tone and build. An empty hotel lobby at night with a patterned carpet and a wall of glass showing lit-up city towers, vertical 9:16, realistic phone video filmed from a few metres away. They wear a plain white button-up baseball jersey, black leggings, striped knee socks and a plain dark cap, with nothing printed on any of it. (1) They come to a slow set position, glove hand at the chest, staring down an invisible batter. (2) They kick one leg straight up as high as it will go and hold it for a beat. (3) They step through and fire an imaginary pitch with the whole body, the follow-through spinning them half round. (4) Last shot: they look back at the camera over the shoulder, deadly serious. Audio: a crack of thunder on the pitch, the hum of the empty lobby and a driving rock beat, no vocals, no song. No text, no captions, no logos, no watermark.
+```
+
+---
+
+## Ghost Photoshoot Trend AI Video
+
+- Page: https://www.kavel.ai/video/ghost-photoshoot-trend
+- Scraped: 2026-10-19
+- Local: [`kavel/ghost-photoshoot-trend/PROMPTS.md`](kavel/ghost-photoshoot-trend/PROMPTS.md)
+
+### Ghost photoshoot trend â the tiniest ghost — ghost-photoshoot-pet-rat
+
+```text
+Use the photo as the pet and keep it recognisable: same species, fur colour and markings, eyes, ears and size. A tiny pet ghost photoshoot, close-up macro on a phone, the pet sitting on a sparkly gold blanket with a soft warm peach background, vertical 9:16. (1) The pet looks into the camera, whiskers twitching, as two hands lower a small piece of white cloth with two round eye holes and one round mouth hole cut into it. (2) The cloth settles over the pet like a little ghost; its pink nose pokes out through the mouth hole and sniffs, its eyes peek through the eye holes, and it shuffles forward under the cloth with its tiny paws showing at the front edge. (3) The camera slowly pushes in as the little ghost tilts its head up at the lens. The pet keeps real animal anatomy: paws, never human hands. Audio: a soft music-box tune and a tiny squeak, no vocals, no song. No text, no captions, no logos, no watermark.
+```
+
+---
+
+## Ramalama Bang Bang Trend AI Video
+
+- Page: https://www.kavel.ai/video/ramalama-bang-bang-trend
+- Scraped: 2026-10-19
+- Local: [`kavel/ramalama-bang-bang-trend/PROMPTS.md`](kavel/ramalama-bang-bang-trend/PROMPTS.md)
+
+### Ramalama Bang Bang trend â the costume walk — ramalama-skull-costume-walk
+
+```text
+Use the photo as the main character and keep the person exactly as photographed: same face, hair, skin tone, build and the outfit they wear in the photo. A Halloween costume walk at night on a suburban sidewalk, filmed on a phone, vertical 9:16, realistic handheld look. (1) The phone is held low near the ground and follows their shoes stepping toward the camera along the dark concrete sidewalk, streetlights and parked cars blurred behind them; only their legs and outfit are in frame. (2) On the beat the phone tilts up to reveal their face painted as a white skull with dark eye sockets and a stitched black mouth. (3) They put both hands to their head, lean slowly toward the lens and strike a dramatic pose, then sway their shoulders to the beat. Audio: footsteps on concrete and a stomping, spooky beat, no vocals, no song. No text, no captions, no lyrics on screen, no logos, no watermark.
+```
+
+---
+
+## Smalltown Boy Dance Meme
+
+- Page: https://www.kavel.ai/video/smalltown-boy-dance-meme
+- Scraped: 2026-10-19
+- Local: [`kavel/smalltown-boy-dance-meme/PROMPTS.md`](kavel/smalltown-boy-dance-meme/PROMPTS.md)
+
+### Smalltown Boy dance meme â tuxedo and ginger cats — smalltown-meme-tuxedo-ginger-cats
+
+```text
+Two reference photos, one cat each: the first photo is dancer one, the second is dancer two, each exactly as photographed and never swapped. In a back yard in front of a dark red wooden fence with ivy, on grey tarmac: (1) dancer one runs up to the lens, covers its face with both paws, then drops them, screams and pushes a paw right at the camera while dancer two dances on its hind legs by the fence; (2) close-up of dancer two clutching its head with both paws, mouth wide open; (3) wide shot, both stand on their hind legs side by side and dance the same 80s routine in sync, paws swinging across their bodies; (4) both lunge at the camera together, paws reaching for the lens. Real cat anatomy, paws not hands. Ultra-wide phone camera held close at cat height, the nearest face big in frame, full rectangular frame with no black border, soft daylight, vertical video. Upbeat 80s synth-pop beat in the audio, no vocals. No people, no text, no logos, no watermark.
+```
+
+### Smalltown Boy dance meme â tortie and grey cats — smalltown-meme-tortie-grey-cats
+
+```text
+Two reference photos, one cat each: the first photo is dancer one, the second is dancer two, each exactly as photographed and never swapped. Both wear a thin collar with a small gold bell. On a pale concrete patio in front of a dark brown wooden fence with ivy and green shrubs: (1) dancer one leans into the lens, screams and paws at the camera while dancer two dances upright behind it; (2) close-up of dancer two clutching its head with both paws and screaming; (3) wide shot, both stand on their hind legs side by side and dance the same 80s routine in sync, then a low shot looking up at them; (4) both lunge at the camera together, paws first. Real cat anatomy, paws not hands. Ultra-wide phone camera held close at cat height, the nearest face big in frame, full rectangular frame with no black border, overcast daylight, vertical video. Upbeat 80s synth-pop beat in the audio, no vocals. No people, no text, no logos, no watermark.
+```
+
+### Smalltown Boy dance meme â two tabbies — smalltown-meme-two-tabbies
+
+```text
+Two reference photos, one cat each: the first photo is dancer one, the second is dancer two, each exactly as photographed and never swapped. In front of a dark red wooden fence with ivy, on dark tarmac: (1) dancer one stands up right in front of the lens, screams and pushes both white paws at the camera while dancer two dances upright behind it; (2) close-up of dancer two clutching its head with both paws, mouth wide open; (3) wide shot, both stand on their hind legs side by side and dance the same 80s routine in sync, paws swinging, little side steps; (4) both lunge at the camera together, paws reaching for the lens. Real cat anatomy, paws not hands. Ultra-wide phone camera held close at cat height, the nearest face big in frame, full rectangular frame with no black border, overcast daylight, vertical video. Upbeat 80s synth-pop beat in the audio, no vocals. No people, no text, no logos, no watermark.
+```
+
+### Smalltown Boy dance meme â ginger and cream cats in a town square — smalltown-meme-ginger-cream-cats
+
+```text
+Two reference photos, one cat each: the first photo is dancer one, the second is dancer two, each exactly as photographed and never swapped. In an empty paved town square on a sunny day, trees and a street lamp behind: (1) dancer one runs up to the lens, clutches its head with both paws and screams, then presses its paws together at the camera while dancer two dances upright behind it; (2) close-up of dancer two clutching its head, mouth open; (3) wide shot, both stand on their hind legs side by side and dance the same 80s routine in sync, arms swinging across their bodies; (4) both rush the camera and squeeze into the lens together. Real cat anatomy, paws not hands. Ultra-wide phone camera held close at cat height, the nearest face big in frame, full rectangular frame with no black border, bright daylight, vertical video. Upbeat 80s synth-pop beat in the audio, no vocals. No people, no text, no logos, no watermark.
+```
+
+### Smalltown Boy dance meme â calico and grey cats indoors — smalltown-meme-calico-grey-cats
+
+```text
+Two reference photos, one cat each: the first photo is dancer one, the second is dancer two, each exactly as photographed and never swapped. Indoors in a room with a warm beige wall and a glossy wooden floor: (1) dancer one leans into the lens, screams and pushes both paws at the camera while dancer two dances upright behind it; (2) close-up of dancer two clutching its head with both paws, mouth wide open; (3) wide shot, both stand on their hind legs side by side and dance the same 80s routine in sync, paws swinging across their bodies; (4) both lunge at the camera together, faces filling the frame. Real cat anatomy, paws not hands. Ultra-wide phone camera held close at cat height, the nearest face big in frame, full rectangular frame with no black border, warm indoor light, vertical video. Upbeat 80s synth-pop beat in the audio, no vocals. No people, no text, no logos, no watermark.
+```
+
+### Smalltown Boy dance meme â two Maine Coons — smalltown-meme-maine-coons
+
+```text
+Two reference photos, one cat each: the first photo is dancer one, the second is dancer two, each exactly as photographed and never swapped. In a garden in front of a red wooden fence with ivy, on light stone tiles: (1) dancer one leans into the lens, screams and pushes both paws at the camera while dancer two dances upright behind it; (2) close-up of dancer two clutching its head with both paws, mouth wide open; (3) wide shot, both stand tall on their hind legs side by side and dance the same 80s routine in sync, paws swinging, little side steps; (4) a low shot looking up as they dance shoulder to shoulder, then both lunge at the camera. Real cat anatomy, paws not hands. Ultra-wide phone camera held close at cat height, the nearest face big in frame, full rectangular frame with no black border, overcast daylight, vertical video. Upbeat 80s synth-pop beat in the audio, no vocals. No people, no text, no logos, no watermark.
+```
+
+---
+
+## ChatGPT Millionaire 30 Days AI Video
+
+- Page: https://www.kavel.ai/video/chatgpt-millionaire-30-days-ai-video
+- Scraped: 2026-10-19
+- Local: [`kavel/chatgpt-millionaire-30-days-ai-video/PROMPTS.md`](kavel/chatgpt-millionaire-30-days-ai-video/PROMPTS.md)
+
+### Template prompt
+
+```text
+Use the photo as the main character and keep them exactly as photographed: the same face, hair or fur, skin tone, build and the clothes they are wearing. They stand in an empty paved parking lot on a cloudy day, trees and a low fence behind them, holding a plain black smartphone close to their mouth like someone sending a voice message. Handheld phone footage, waist-up, one continuous take, vertical 9:16. (1) They speak into the phone, hopeful and dead serious: "ChatGPT, how I become a millionaire in 30 days?"; (2) the phone answers in a flat, calm assistant voice: "Get a job."; (3) they lower the phone, stare at the screen in disbelief, then look straight into the camera and say, offended: "Bro, what are they talking about?" Mouth moving with every line, natural outdoor sound, no music. Plain phone with a blank screen, no app logo. No text, no captions, no logos, no watermark.
+```
+
+### ChatGPT Millionaire 30 Days AI video â the cat by the window — chatgpt-millionaire-cat-window
+
+```text
+Use the photo as the first frame and keep the main character exactly as photographed: the same face, hair or fur, colours and the same room by the window. They hold a plain black smartphone close to their mouth, like someone sending a voice message. Handheld phone footage, medium close-up, one continuous take, vertical 9:16. (1) They speak into the phone, mouth moving, in a hopeful voice: "ChatGPT, how I become a millionaire in 30 days?"; (2) the phone answers in a flat, calm assistant voice: "Get a job."; (3) they lower the phone, stare at the screen in silent disbelief, then turn their head slowly to the camera and say, offended: "Bro, what are they talking about?" Natural room sound, no music. Plain phone with a blank screen, no app logo. No text, no captions, no logos, no watermark.
+```
+
+### ChatGPT Millionaire 30 Days AI video â the crested in the turtleneck — chatgpt-millionaire-crested-sweater
+
+```text
+Use the photo as the first frame and keep the main character exactly as photographed: the same face, hair or fur, colours, a mustard knit turtleneck sweater and a dark studio background. They hold a plain black smartphone close to their mouth, like someone sending a voice message. Medium close-up, one continuous take, vertical 9:16. (1) They speak into the phone, mouth moving, in a serious, hopeful voice: "ChatGPT, how I become a millionaire in 30 days?"; (2) the phone answers in a flat, calm assistant voice: "Get a job."; (3) they lower the phone, stare at the screen with wide offended eyes, then look straight into the camera and say: "Bro, what are they talking about?" Quiet room sound, no music. Plain phone with a blank screen, no app logo. No text, no captions, no logos, no watermark.
+```
+
+### ChatGPT Millionaire 30 Days AI video â the chihuahua in the park — chatgpt-millionaire-chihuahua-park
+
+```text
+Use the photo as the first frame and keep the main character exactly as photographed: the same face, hair or fur, colours and clothes, now in an autumn park with grass and fallen leaves. They hold a plain black smartphone close to their mouth, like someone sending a voice message. Handheld phone footage at their eye level, one continuous take, vertical 9:16. (1) They speak into the phone, mouth moving, in an excited voice: "ChatGPT, how I become a millionaire in 30 days?"; (2) the phone answers in a flat, calm assistant voice: "Get a job."; (3) they freeze, lower the phone, stare at the screen in disbelief, then turn to the camera and say: "Bro, what are they talking about?" Light park ambience, no music. Plain phone with a blank screen, no app logo. No text, no captions, no logos, no watermark.
+```
+
+---
+
+## AI Pet Dance Generator
+
+- Page: https://www.kavel.ai/video/ai-pet-dance-generator
+- Scraped: 2026-10-19
+- Local: [`kavel/ai-pet-dance-generator/PROMPTS.md`](kavel/ai-pet-dance-generator/PROMPTS.md)
+
+### Template prompt
+
+```text
+One to three reference photos, one pet each: a cat, a dog or any animal. Keep every pet exactly as photographed: same species, breed, fur colour, markings, eyes and ears, and never swap them. Set the dance in the place from the first photo, same room or garden, same light. Their whole bodies stay in frame from ears to paws the whole time, camera static at their eye level a couple of metres away. (1) The pets rise up onto their hind legs and start bouncing to the beat; (2) they sway side to side and swing their front paws across their bodies, heads bobbing; (3) they turn once on the spot and shake their tails at the camera; (4) they spin back round, step toward the lens and finish with both front paws up in the air. With two or three pets, they dance side by side in sync. Real animal anatomy: paws, never human hands, natural fur. One continuous shot, vertical 9:16. Upbeat, bouncy pop beat in the audio, no vocals. No people, no text, no logos, no watermark.
+```
+
+### AI pet dance â the shower dance — ai-pet-dance-towel-dog
+
+```text
+One reference photo of a pet; keep it exactly as photographed: same species, breed, fur colour, markings and face. It stands in a walk-in shower with grey tiles and a glass door, a white towel wrapped on its head like a turban, shampoo bottles on a corner shelf behind it. Its whole body stays in frame the whole time, camera static at its eye level outside the open glass door. (1) It rises onto its hind legs, front paws tucked at its chest, and looks straight into the lens; (2) it sways its hips left and right to the beat, head tilting with each step; (3) it turns round on its hind legs and wiggles its tail and bottom at the camera; (4) it glances back over its shoulder, still dancing. Real animal anatomy: paws, never human hands, damp curly fur. One continuous shot, vertical 9:16. Upbeat, bouncy pop beat in the audio, no vocals. No people, no text, no brand names on the bottles, no watermark.
+```
+
+### AI pet dance â three puppies in the studio — ai-pet-dance-puppy-trio
+
+```text
+One to three reference photos, one pet each; keep every pet exactly as photographed: same species, breed, fur colour and face, and never swap them. A bright dance studio with a full mirror wall, a polished wooden floor and rows of ceiling lights. The pets stand in a row facing the camera, whole bodies in frame, camera static at their eye level. (1) All of them rise onto their hind legs and dance the same routine in sync: paws swinging up and down, shoulders bouncing, little side steps; (2) they turn to one side together and back again; (3) the pet in the middle drops to all fours and walks right up to the lens, looking into it, while the others keep dancing behind. With one photo, that one pet dances alone in the middle of the studio. Real animal anatomy: paws, never human hands. One continuous shot, vertical 9:16. Upbeat dance-pop beat in the audio, no vocals. No people, no text, no logos, no watermark.
+```
+
+### AI pet dance â raincoat kitten — ai-pet-dance-raincoat-kitten
+
+```text
+One reference photo of a pet; keep it exactly as photographed: same species, breed, fur colour, markings and face. Dress it in a bright yellow hooded raincoat and small yellow rain boots. It stands in a wide puddle on a wet city pavement on a rainy autumn day, fallen leaves in the water, a few people with umbrellas blurred far behind. Its whole body stays in frame the whole time, camera static at its eye level. (1) It rises onto its hind legs and stamps its boots in the puddle to the beat, ripples spreading; (2) it turns round with its hood up and its tail swishing out from under the coat; (3) it spins back to face the camera, swings its front paws side to side and does a little hop; (4) it finishes with one paw raised, looking into the lens. Real animal anatomy: paws, never human hands. One continuous shot, vertical 9:16. Light rain and a bouncy pop beat in the audio, no vocals. No text, no logos, no watermark.
+```
+
+### AI pet dance â three cats on stage — ai-pet-dance-cat-trio
+
+```text
+One to three reference photos, one pet each; keep every pet exactly as photographed: same species, breed, fur colour and face, and never swap them. A dark dance stage with a black floor and a row of bright spotlights overhead. The first pet stands front and centre, the others just behind on either side, all whole bodies in frame, camera static at their eye level. (1) They rise onto their hind legs and do the same routine in sync: a hip shake, one front paw on the hip, the other waving up and down; (2) they turn their heads sharply to the side together, then back to the lens; (3) the backup dancers do a little spin while the lead keeps staring into the camera; (4) all of them finish with one paw raised high. With one photo, that one pet dances solo in the spotlight. Real animal anatomy: paws, never human hands. One continuous shot, vertical 9:16. Upbeat, punchy pop beat in the audio, no vocals. No people, no text, no logos, no watermark.
+```
+
+### AI pet dance â bubble bath kittens — ai-pet-dance-bathtub-kittens
+
+```text
+One to three reference photos, one pet each; keep every pet exactly as photographed: same species, breed, fur colour and face, and never swap them. A white bathtub piled high with bubble-bath foam, yellow rubber ducks and a small swim ring floating in it, beige tiles and a chrome tap behind. The pets stand up in the foam, upper bodies and front paws above the bubbles, camera static at the edge of the tub. (1) They rise onto their hind legs in the bubbles and bounce to the beat; (2) they wave their front paws in the air and sway side to side, foam flying; (3) they turn to each other and dance face to face; (4) they finish with paws up, looking into the lens, a bubble on one nose. Real animal anatomy: paws, never human hands, wet fur. One continuous shot, vertical 9:16. Splashing and a bouncy pop beat in the audio, no vocals. No people, no text, no brand names, no watermark.
+```
+
+### AI pet dance â two cats, paw in paw — ai-pet-dance-two-cats
+
+```text
+Two reference photos, one pet each; keep each exactly as photographed: same species, breed, fur colour and face, and never swap them. A bright living room with a pale blue floor and soft window light, a white sculpted chair behind them. The two pets stand facing each other on their hind legs, whole bodies in frame, camera static at their eye level. (1) They take each other's front paws like dance partners and sway together to the beat; (2) one turns the other round under its raised paw, then they swap and turn again; (3) they step side to side, paws still joined, tails swishing; (4) they finish nose to nose, then both look at the camera. Real animal anatomy: paws, never human hands. One continuous shot, vertical 9:16. A warm, swaying pop beat in the audio, no vocals. No people, no text, no logos, no watermark.
+```
+
+---
+
+## Fergie Baby Harlem Walk AI
+
+- Page: https://www.kavel.ai/video/fergie-baby-harlem-walk-ai-video
+- Scraped: 2026-10-19
+- Local: [`kavel/fergie-baby-harlem-walk-ai-video/PROMPTS.md`](kavel/fergie-baby-harlem-walk-ai-video/PROMPTS.md)
+
+### Template prompt
+
+```text
+Use the photo as the main character and keep the person exactly as photographed: same face, hair, skin tone, build and clothes. They walk down a paved path in a New York city park on a bright autumn afternoon: a tall chain-link fence and a basketball court on one side, trees with yellow leaves on the other, red-brick apartment towers rising behind the trees, fallen leaves on the ground. The camera walks backward in front of them at chest height, full body in frame. (1) They stroll toward the camera with a slow, bouncing swagger, shoulders rolling, head nodding to the beat; (2) they rap straight into the lens, mouth moving with the words, pointing at the camera with one hand, then tapping their chest twice; (3) they spread both arms wide, grin, and keep strutting toward the camera, nodding. Their face stays clearly visible the whole time. One continuous handheld shot, vertical 9:16. A hard New York hip-hop beat in the audio. No text, no captions, no logos, no watermark.
+```
+
+### Fergie Baby Harlem walk AI â grandma takes Harlem — fergie-walk-grandma
+
+```text
+Use the photo as the main character and keep the person exactly as photographed: same face, hair, glasses if any, skin tone, build and the same clothes. They walk down a paved path in a New York city park on a crisp autumn afternoon: a tall chain-link fence on one side, trees with yellow leaves on the other, red-brick apartment towers behind the trees, leaves on the ground. The camera walks backward in front of them at chest height, full body in frame. (1) They strut toward the camera with a slow, bouncing swagger, shoulders rolling, chin up, completely serious; (2) they rap straight into the lens, mouth moving with the words, point at the camera, then tap their chest twice; (3) they throw both arms out wide, break into a big grin and keep strutting, nodding to the beat. Their face stays clearly visible the whole time. One continuous handheld shot, vertical 9:16. A hard New York hip-hop beat in the audio. No text, no captions, no logos, no watermark.
+```
+
+### Fergie Baby Harlem walk AI â out through the gate — fergie-walk-red-jacket
+
+```text
+Use the photo as the main character and keep the person exactly as photographed: same face, hair, skin tone, build and the same outfit. They step out through an open gate in a tall chain-link fence into a New York city park on a bright autumn afternoon, then walk down the paved path: trees with yellow leaves, red-brick apartment towers behind them, leaves on the ground. The camera walks backward in front of them at chest height, full body in frame. (1) They come through the gate and strut toward the camera with a slow, bouncing swagger, hips and shoulders rolling, head nodding to the beat; (2) they rap straight into the lens, mouth moving with the words, point at the camera, then tap their chest twice; (3) they brush their shoulder off, smirk and keep walking toward the camera. Their face stays clearly visible the whole time. One continuous handheld shot, vertical 9:16. A hard New York hip-hop beat in the audio. No text, no captions, no logos, no watermark.
+```
+
+---
+
+## Barbie AI Dance
+
+- Page: https://www.kavel.ai/video/barbie-ai-dance
+- Scraped: 2026-10-19
+- Local: [`kavel/barbie-ai-dance/PROMPTS.md`](kavel/barbie-ai-dance/PROMPTS.md)
+
+### Barbie AI dance â two best friends in pink — barbie-ai-dance-friends-field
+
+```text
+Use the photo as the starting frame and keep both people exactly as photographed: same faces, hair, skin tones and body shapes, standing side by side in the same place as the photo. On the first beat their tops turn into plain bubblegum-pink sweatshirts with no lettering, no print and no logo. (1) They start standing still, arms crossed, deadpan, looking straight into the camera; (2) on the beat they uncross their arms, point at each other with both hands and lean back laughing; (3) they break into the pink-theme dance perfectly in sync: knees bent, a bouncy side-to-side shuffle, hips swaying, arms swinging out wide like wings and back in, a little shoulder shimmy; (4) they finish with a hip bump into each other and a cheeky point at the lens. Phone camera on a tripod, full bodies in frame, one continuous shot, vertical 9:16. Upbeat bubblegum pop beat in the audio, no vocals. No text or lettering on any clothing, no captions, no logos, no watermark.
+```
+
+### Barbie AI dance â two friends and their dog — barbie-ai-dance-friends-dog
+
+```text
+Use the photo as the starting frame and keep everyone exactly as photographed: the same people with the same faces, hair, skin tones, body shapes and outfits, and any pet with its collar, in the same place as the photo. A bunch of pink balloons drifts into the frame behind them. (1) The people stand side by side, arms crossed, deadpan, looking straight into the camera, the pet sitting between them; (2) on the beat they uncross their arms and point at each other with both hands, grinning; (3) they do the pink-theme dance perfectly in sync: knees bent, a bouncy side-to-side shuffle, hips swaying, arms swinging out wide and back in, a quick shoulder shimmy, while the pet hops up and wags along between them; (4) they end with a hip bump and both point at the lens. Phone camera on a tripod, full bodies in frame, one continuous shot, vertical 9:16. Upbeat bubblegum pop beat in the audio, no vocals. No text, no captions, no logos, no watermark.
+```
+
+### Barbie AI dance â the whole family — barbie-ai-dance-family-group
+
+```text
+Use the photo as the starting frame and keep every person exactly as photographed: same faces, hair, headwear, skin tones, body shapes and outfits, standing together in the same place as the photo. Soft pink light washes over the whole scene on the first beat. (1) The whole group stands still, arms crossed, deadpan, looking straight into the camera; (2) on the beat they uncross their arms and point at each other with both hands, laughing; (3) everyone does the pink-theme dance in sync: knees bent, a bouncy side-to-side shuffle, hips swaying, arms swinging out wide and back in, a little shoulder shimmy, the kids in front bouncing highest; (4) they finish together with a hip bump and a point at the lens. Phone camera on a tripod, full bodies in frame, one continuous shot, vertical 9:16. Upbeat bubblegum pop beat in the audio, no vocals. No text, no captions, no logos, no watermark.
+```
+
+---
+
+## Crazy Frog AI Video
+
+- Page: https://www.kavel.ai/video/crazy-frog-ai-video
+- Scraped: 2026-10-19
+- Local: [`kavel/crazy-frog-ai-video/PROMPTS.md`](kavel/crazy-frog-ai-video/PROMPTS.md)
+
+### Crazy Frog AI video â the palace garden chase — crazy-frog-palace-chase
+
+```text
+Use the photo as the main character and keep them exactly as photographed: the same face, hair or fur, skin tone and build, now in a towering white powdered wig and a shimmering silver ball gown with puffed sleeves. A grand palace garden with clipped cone-shaped hedges and a gravel path at golden hour. (1) They pedal an antique penny-farthing bicycle hard down the gravel path straight toward the camera, gown billowing, face dead serious; (2) behind them a golden carriage pulled by a fluffy white poodle bursts into view and closes in between the hedges, and the camera swings to the poodle galloping; (3) they stand up on the pedals, pull away down the path and vanish in a cloud of dust with the carriage still chasing. Low tracking camera moving with the rider, one continuous take, vertical 9:16. Upbeat electronic ring-ding synth beat in the audio, no vocals. No text, no captions, no logos, no watermark.
+```
+
+---
+
+## Popstar AI Video
+
+- Page: https://www.kavel.ai/video/popstar-ai-video
+- Scraped: 2026-10-19
+- Local: [`kavel/popstar-ai-video/PROMPTS.md`](kavel/popstar-ai-video/PROMPTS.md)
+
+### Popstar AI video â the French bulldog in shades — popstar-frenchie-hallway
+
+```text
+Use the photo as the main character and keep them exactly as photographed: the same face, fur or hair, colours and build, now wearing a thick gold chain and tiny dark sunglasses. A modern mansion with warm wood-panelled walls and a long polished hallway. (1) They trot down the hallway straight toward the camera, chest out, head held high, mouth opening and closing as if rapping into the lens, while a tall bald bodyguard with a full beard in a dark suit walks one step behind carrying a champagne bottle for them; (2) they hop down a floating wooden staircase with a glass railing, past a wall of large framed pop-art portraits of themselves in the same sunglasses; (3) at the bottom they stop, stare straight into the lens, and the bodyguard pops the cork behind them. Handheld music-video camera moving backwards in front of them, warm daylight, one continuous take, vertical 9:16. Upbeat hip-hop beat in the audio, no vocals. Plain unbranded bottle. No text, no captions, no logos, no watermark.
+```
+
+### Popstar AI video â the golden in the pink bonnet — popstar-golden-hallway
+
+```text
+Use the photo as the main character and keep them exactly as photographed: the same face, fur or hair, colours and build, now wearing a hot-pink satin bonnet and a gold chain. A modern mansion with warm wood-panelled walls. (1) They strut down the long hallway toward the camera, head bobbing to the beat as if rapping straight into the lens, while a tall bald bodyguard with a full beard in a dark suit follows one step behind holding a champagne bottle on a silver tray; (2) they bound down a floating wooden staircase with a glass railing, past framed pop-art portraits of themselves in the pink bonnet, looking back at the camera; (3) at the bottom they settle on the last step like a star and the bodyguard stands guard beside them. Handheld music-video camera moving backwards in front of them, warm daylight, one continuous take, vertical 9:16. Upbeat hip-hop beat in the audio, no vocals. Plain unbranded bottle. No text, no captions, no logos, no watermark.
+```
+
+### Popstar AI video â the pink bonnet popstar — popstar-durag-hallway
+
+```text
+Use the photo as the main character and keep them exactly as photographed: the same face, hair, skin tone and build, now wearing a hot-pink satin bonnet over a black durag, a plain black T-shirt and black trousers. A modern mansion with warm wood-panelled walls. (1) They storm down the hallway toward the camera with a dark champagne bottle in one hand, arms flung wide, mouth wide open on every line of a rap verse, a tall bald bodyguard with a full beard in a dark suit right behind their shoulder; (2) they hop down a floating wooden staircase with a glass railing, bottle up, past a wall of large framed portraits of themselves in the same pink bonnet; (3) at the bottom they point the bottle at the lens and spread their arms, the bodyguard still at their side. Handheld music-video camera moving backwards in front of them, warm daylight, one continuous take, vertical 9:16. Upbeat hip-hop beat in the audio, no vocals. Champagne bottle with a plain unbranded label. No text, no captions, no logos, no watermark.
+```
+
+---
+
+## Zombie Couple Video
+
+- Page: https://www.kavel.ai/video/zombie-couple-video
+- Scraped: 2026-10-19
+- Local: [`kavel/zombie-couple-video/PROMPTS.md`](kavel/zombie-couple-video/PROMPTS.md)
+
+### Zombie couple video â the golden field — zombie-couple-hug-golden-field
+
+```text
+Two reference photos, one person each; keep both faces, hair and build exactly as photographed and never swap them. Shot 1: inside a dusty wooden farmhouse with bright windows, close-up of the person from the FIRST photo in a dark green hoodie, crying, aiming a pistol at the camera. Shot 2: over their shoulder, the person from the SECOND photo has turned into a zombie (grey rotting skin, clouded eyes, a torn bloodstained cotton dress) and walks slowly toward them. Shot 3: close-up of the zombie's face, then of the first person sobbing. Shot 4: the first person lowers the pistol and opens both arms wide; the zombie runs into them. Shot 5: hard cut to a golden field at sunset: the two of them, healthy, hugging and spinning, laughing face to face in the grass, then walking away hand in hand toward the hills and holding each other as the sun goes down. Cinematic, warm golden light in the memory, emotional piano score, no dialogue. No gunshot, no gore, no other people, no text, no logos, no watermark. Wide 16:9.
+```
+
+### Zombie couple video â noodles for two — zombie-couple-noodle-table
+
+```text
+Two reference photos, one person each; keep both faces and hair exactly as photographed and never swap them. Shot 1: in a sunlit old wooden house, the person from the FIRST photo sits at a small table with a bowl of instant noodles, across from the person from the SECOND photo, who has turned into a zombie (pale grey skin, white eyes, dark hoodie). Shot 2: close-up of the first person crying, then the zombie snarling over the bowl. Shot 3: the first person gently lifts noodles with chopsticks and feeds them to the zombie, tears running down; the zombie slowly calms. Shot 4: warm memories of the same two, healthy: laughing and feeding each other noodles at the same table, curled up on a sofa, rowing a small boat on a misty lake, eating ice cream under trees, and sitting together on a beach at dusk. Cinematic, warm natural light, soft guitar and piano score, no dialogue. No gore, no other people, no text, no logos, no watermark. Wide 16:9.
+```
+
+---
+
+## Broccoli Throw Meme AI Video
+
+- Page: https://www.kavel.ai/video/broccoli-throw-ai-video
+- Scraped: 2026-10-19
+- Local: [`kavel/broccoli-throw-ai-video/PROMPTS.md`](kavel/broccoli-throw-ai-video/PROMPTS.md)
+
+### Template prompt
+
+```text
+Use the photo as the main character and keep them exactly as photographed: the same face, fur or hair, colours and build. (1) A hand slides a white plate piled with green broccoli florets in front of them; they look down at it and give it a flat, dead-serious stare. (2) They grab or swat the plate and fling it backwards over their shoulder, broccoli florets flying through the air behind them. (3) The moment the broccoli lands behind them, a huge fireball explosion fills the whole room, orange flames and grey smoke rolling past, while they stay sitting in front of the blast, completely unbothered, staring straight into the camera. Handheld phone camera, one continuous shot, vertical 9:16. Explosion boom and a heavy beat drop in the audio, no vocals. No text, no captions, no logos, no watermark.
+```
+
+### Broccoli throw meme AI video â the kitten in the gaming chair — broccoli-throw-kitten
+
+```text
+Use the photo as the main character and keep them exactly as photographed: the same face, fur or hair and colours. (1) A hand slides a white plate piled with green broccoli florets in front of them; they look down at it and give it a dead-serious stare. (2) Hard cut: the same character sits in a big black leather gaming chair in a dim gamer bedroom with a red LED strip along the ceiling, the broccoli plate in front of them; they swat the plate up and fling it over their shoulder, florets flying through the air behind the chair. (3) The moment the broccoli lands, a huge fireball explosion fills the whole room, orange flames and grey smoke rolling past the chair, while they stay seated in front of the blast, totally unbothered, staring straight into the camera. Plain black chair with no logos or lettering. Handheld phone camera, one cut only, vertical 9:16. Explosion boom and a heavy beat drop in the audio, no vocals. No text, no captions, no logos, no watermark.
+```
+
+### Broccoli throw meme AI video â the shiba with the broccoli hat — broccoli-throw-shiba
+
+```text
+Use the photo as the main character and keep them exactly as photographed: the same face, fur or hair and colours, with a single broccoli floret balanced on their head, sitting on a wooden kitchen floor. (1) They hold still for a beat, then the smile drops into a flat, offended stare at the camera; (2) they whip their head to one side and the floret flies off, spinning backwards over their shoulder across the kitchen; (3) it hits the floor behind them and a huge fireball explosion fills the kitchen, orange flames and grey smoke rolling past, while they stay sitting in front of the blast, completely unbothered, looking straight into the camera. Handheld phone camera, one continuous shot, vertical 9:16. Explosion boom and a heavy beat drop in the audio, no vocals. No text, no captions, no logos, no watermark.
+```
+
+### Broccoli throw meme AI video â the Pomeranian — broccoli-throw-pomeranian
+
+```text
+Use the photo as the main character and keep them exactly as photographed: the same face, fur or hair and colours, holding a piece of broccoli in their mouth. (1) They chew once, freeze, and their eyes go wide with disgust; (2) they toss their head and fling the broccoli backwards over their shoulder, the floret sailing across the room behind them; (3) it lands and a huge fireball explosion fills the room, orange flames and grey smoke rolling past, while they stay sitting in front of the blast, fur blowing, completely unbothered, staring straight into the camera. Handheld phone camera, one continuous shot, vertical 9:16. Explosion boom and a heavy beat drop in the audio, no vocals. No text, no captions, no logos, no watermark.
+```
+
+---
+
+## AI Birthday Video Generator
+
+- Page: https://www.kavel.ai/video/ai-birthday-video-generator
+- Scraped: 2026-10-19
+- Local: [`kavel/ai-birthday-video-generator/PROMPTS.md`](kavel/ai-birthday-video-generator/PROMPTS.md)
+
+### Template prompt
+
+```text
+Use the person in the first photo as the main character and keep them exactly as photographed: same face, hair, skin tone and body shape, dressed in an elegant white satin gown and white gloves for their birthday. A city park at night, a wooden bench on fallen autumn leaves, rows of warm street lamps glowing behind. (1) They walk in and sit down on the bench, a plain dark champagne bottle with no label in one hand and a white birthday cake with lit candles in the other; (2) they shake the bottle and pop the cork, a tall jet of white foam shoots straight up into the night; (3) a burst of warm orange fire flares up in the air beside the cake while they laugh and close their eyes; (4) the smoke drifts away and they smile at the camera, cake held high. Phone on a tripod, full body in frame, one continuous shot, vertical 9:16. Pop of the cork and a soft party beat in the audio, no vocals. No text, no brand names or logos, no watermark.
+```
+
+### AI birthday video â the skydive — ai-birthday-video-skydive
+
+```text
+Use the person in the first photo as the main character and keep them exactly as photographed: same face, hair, skin tone and body shape, in a black skydiving jumpsuit and harness. (1) They stand in the open door of a small plane high above the clouds, grin at the camera and jump; (2) they free-fall face down over a patchwork of fields far below, arms spread, hair whipping in the wind; (3) a big black parachute opens above them with "HAPPY BIRTHDAY" printed across it in large white letters; (4) they hang under the canopy, throw one arm up and laugh at the camera as they float down through bright blue sky. Wide action camera following them, one continuous shot, vertical 9:16. Wind rush and a whoosh as the parachute opens, upbeat beat, no vocals. No other text, no logos, no watermark.
+```
+
+### AI birthday video â the Scorpio beach — ai-birthday-video-scorpio-beach
+
+```text
+Use the person in the first photo as the main character and keep them exactly as photographed: same face, hair, skin tone and body shape, in a black leather jacket, black dress and tall black boots. A sandy beach at dusk, waves rolling in, a pink and grey sky. A giant glossy black scorpion, the Scorpio zodiac sign, stands on the sand. (1) They walk up beside the scorpion carrying a small black birthday cake with gold number candles and the Scorpio symbol on it, and a plain green champagne bottle with no label; (2) they climb up and sit on the scorpion's back, cake in one hand, bottle in the other, its tail curled high above them; (3) they lean back and breathe out a long plume of orange fire as the champagne foams over; (4) the smoke clears and they look calmly into the camera. Phone on a tripod, full body in frame, one continuous shot, vertical 9:16. Waves, a deep whoosh of fire and a dark cinematic beat in the audio, no vocals. No text, no brand names or logos, no watermark.
+```
+
+---
+
+## Heavenly Reunion AI Video
+
+- Page: https://www.kavel.ai/video/heavenly-reunion-ai-video
+- Scraped: 2026-10-19
+- Local: [`kavel/heavenly-reunion-ai-video/PROMPTS.md`](kavel/heavenly-reunion-ai-video/PROMPTS.md)
+
+### Template prompt
+
+```text
+Two reference photos, one person each. The person in the FIRST photo is the one climbing; the person in the SECOND photo is the loved one waiting in heaven. Keep each face, hair, skin tone, age and build exactly as photographed and never swap them. (1) The person from the FIRST photo stands at the bottom of a long glowing golden stairway that climbs through bright white clouds, seen from behind, and starts running up the steps; (2) at the very top, the person from the SECOND photo waits in soft white clothes, warm sun rays behind them, smiling with their arms wide open; (3) the first person reaches the top step and they hold each other in a long, tight hug, eyes closed, as the camera slowly circles them and white petals drift past. Vertical 9:16, cinematic, warm golden light, one continuous dreamlike shot. Gentle piano and soft strings in the audio, no vocals. No other people, no text, no captions, no logos, no watermark.
+```
+
+### Heavenly reunion AI video â Grandma at the top — heavenly-reunion-grandma-toddler
+
+```text
+Two reference photos, one person each: the FIRST photo is the one climbing, the SECOND is their grandparent. Keep both faces, hair, skin tones and ages exactly as photographed and never swap them. The person from the FIRST photo stands at the bottom of a long glowing golden stairway that climbs through bright white clouds, seen from behind, and hurries up the steps. At the very top the grandparent from the SECOND photo crouches down with their arms wide open, sun rays behind them. The climber reaches the top and runs into their arms, and they hold each other in a long, tight hug, eyes closed, as the camera slowly circles them and white petals drift past. Vertical 9:16, cinematic, warm golden light. Gentle piano and soft strings in the audio, no vocals. No other people, no text, no captions, no logos, no watermark.
+```
+
+### Heavenly reunion AI video â Mom in white — heavenly-reunion-mom-son
+
+```text
+Two reference photos, one person each: the FIRST photo is the one climbing, the SECOND is their mother. Keep both faces, hair, skin tones and ages exactly as photographed and never swap them. The person from the FIRST photo stands at the bottom of a long glowing golden stairway that climbs through bright white clouds, seen from behind, and runs up the steps two at a time. At the very top the mother from the SECOND photo waits in a long flowing white dress, hair lifting in the breeze, sun rays behind her, arms open. The climber reaches her and throws their arms around her; she bends down and holds them close in a long, tight hug, smiling with tears in her eyes, as the camera slowly circles them and white petals drift past. Vertical 9:16, cinematic, warm golden light. Gentle piano and soft strings in the audio, no vocals. No other people, no text, no captions, no logos, no watermark.
+```
+
+### Heavenly reunion AI video â Dad lifts her up — heavenly-reunion-dad-daughter
+
+```text
+Two reference photos, one person each: the FIRST photo is the one climbing, the SECOND is their father. Keep both faces, hair, skin tones and ages exactly as photographed and never swap them. The person from the FIRST photo stands at the bottom of a long glowing golden stairway that climbs through bright white clouds, seen from behind, climbing the wide steps one at a time. At the very top the father from the SECOND photo kneels with his arms open, sun rays behind him. The climber reaches the top step and he pulls them into a long, tight hug against his chest, eyes closed, as the camera slowly circles them and white petals drift past. Vertical 9:16, cinematic, warm golden light. Gentle piano and soft strings in the audio, no vocals. No other people, no text, no captions, no logos, no watermark.
+```
+
+### Heavenly reunion AI video â One more hug with Grandma — heavenly-reunion-grandma-granddaughter
+
+```text
+Two reference photos, one person each: the FIRST photo is you, the SECOND is your grandmother. Keep both faces, hair, skin tones and ages exactly as photographed and never swap them. The person from the FIRST photo stands at the bottom of a long glowing golden stairway that climbs through bright white clouds, seen from behind, and runs up the steps. At the very top the grandmother from the SECOND photo waits, smiling, with her arms open and sun rays behind her. They reach the top and hold each other in a long, tight hug, head resting on her shoulder, as the camera slowly circles them and white petals drift past. Vertical 9:16, cinematic, warm golden light. Gentle piano and soft strings in the audio, no vocals. No other people, no text, no captions, no logos, no watermark.
+```
+
+---
+
+## Happy Friday I'm Onnat AI Video
+
+- Page: https://www.kavel.ai/video/happy-friday-im-onnat-ai-video
+- Scraped: 2026-10-19
+- Local: [`kavel/happy-friday-im-onnat-ai-video/PROMPTS.md`](kavel/happy-friday-im-onnat-ai-video/PROMPTS.md)
+
+### Template prompt
+
+```text
+Use the photo as the starting frame and keep the player exactly as photographed: the same face, helmet, jersey, number and build, the same field and crowd. (1) For the first three seconds they hold their dead-serious game face in the scene from the photo; (2) hard cut: the same player, same uniform, now squeezed into a small red plastic kids' ride-on toy car with a yellow roof and four yellow pillars, knees pushed up to their chest, both hands on a tiny steering wheel, driving slowly across the same field toward the camera; (3) as the toy car rolls up to the lens they give the camera a calm, confident nod. The toy car is far too small for them. The toy car's hood is smooth, plain plastic with no emblem, no badge and no grille. Generic toy car with no face, no stickers, no logos and no brand names. Sideline phone camera, one cut only, vertical 9:16. Upbeat hip-hop beat in the audio, no vocals. No text, no captions, no watermark.
+```
+
+### Happy Friday I'm onnat AI video â the lineman's toy buggy — onnat-buggy-clip
+
+```text
+Use the photo as the starting frame and keep its colours, black and white included. Keep every player exactly as photographed: the same helmets, jerseys, numbers, builds, the same field and background. (1) For the first three seconds they stand still and shrug at the camera, palms up, dead serious; (2) hard cut: the biggest player now sits squeezed into a small kids' ride-on toy dune buggy with chunky tyres, an open tube frame and a bare front with no grille, no badge and no emblem, knees up by the facemask, driving slowly toward the camera across the same field, while anyone beside them walks next to the toy buggy with arms still out in a shrug; (3) the buggy stops right in front of the lens and they shrug once more. The toy buggy is far too small for them. Plain jerseys with numbers only, no maker logos. Generic toy car with no stickers, no logos and no brand names. Phone camera, one cut only, vertical 9:16. Upbeat hip-hop beat in the audio, no vocals. No text, no captions, no watermark.
+```
+
+### Happy Friday I'm onnat AI video â tackled in the toy car — onnat-tackle-clip
+
+```text
+Use the photo as the starting frame and keep the whole play as photographed: the same players, the same team colours, the same stadium lights and crowd. (1) For the first three seconds the play goes on as in the photo, defenders diving on the ball carrier; (2) hard cut: the ball carrier now sits wedged in a small red plastic kids' ride-on toy car with a yellow roof, knees jammed up to their chest, ball tucked under one arm, driving slowly out of the pile toward the camera while the defenders hang on to the little yellow roof and get dragged along the turf; (3) they look straight into the lens, totally calm. The toy car is far too small for them. Plain jerseys with numbers only: no school names, no wordmarks, no helmet logos or decals. Generic toy car with no face, no stickers, no logos and no brand names. Sideline camera, one cut only, vertical 9:16. Upbeat hip-hop beat and crowd noise in the audio, no vocals. No text, no captions, no watermark.
+```
+
+---
+
+## Hit the Road Dude AI Video
+
+- Page: https://www.kavel.ai/video/hit-the-road-dude-ai-video
+- Scraped: 2026-10-19
+- Local: [`kavel/hit-the-road-dude-ai-video/PROMPTS.md`](kavel/hit-the-road-dude-ai-video/PROMPTS.md)
+
+### Template prompt
+
+```text
+Use the photo as the main character and keep them exactly as photographed: the same face, fur or hair, colours, build and any clothes or accessories. They sit in the driver's seat of a plain white pickup truck parked on the grass bank of a quiet rural fishing pond in late afternoon light, one arm resting on the open window. Two young men with fishing rods stand by the water in front of the truck. Handheld phone footage from one of the fishermen, medium shot on the driver's window. (1) The character squints at them, outraged, and says "State? This ain't no state property. This is private property!"; (2) they point down the dirt road and say "Hit the road, dude!"; (3) they hold a phone to their ear, listen for a beat, then turn back to the camera dead serious: "He said lock 'em up." A thick rural drawl, the mouth moving with every line. One continuous take, no cuts, vertical 9:16. Plain white pickup with no badge and no logos. No text, no captions, no watermark.
+```
+
+### Hit the road dude AI video â the banana hat crew — hit-the-road-dude-banana-cat
+
+```text
+Use the photo as the main character and keep them exactly as photographed: the same face, fur or hair and colours, now wearing a floppy yellow banana costume hat. They sit at the open window of a plain white pickup truck parked on a grassy roadside, with three cats in the back seat behind them, one in little black sunglasses and a green bow tie. Handheld phone footage from someone standing outside the window. (1) The character stares out, outraged, and reaches one arm out of the window, pointing down the road as if saying "This is private property. Hit the road, dude!"; (2) they pull out a clipboard and pen and start writing down the stranger's details while the back seat watches; (3) they look back up at the camera, dead serious. One continuous take, no cuts, vertical 9:16. Plain white pickup with no badge and no logos. No text, no captions, no watermark.
+```
+
+### Hit the road dude AI video â the Siamese in a bow tie — hit-the-road-dude-siamese-cats
+
+```text
+Use the photo as the main character and keep them exactly as photographed: the same face, fur or hair and colours, now wearing a pink bow tie. They sit in the driver's seat of a plain white pickup truck parked by trees, a fluffy white-and-cream cat in the passenger seat beside them. Handheld phone footage from someone standing at the driver's window. (1) The character gives the camera a wide-eyed, offended stare, one paw resting on the window frame, mouth opening as if saying "State property? This is private property!"; (2) they wave a paw out of the window toward the road as if saying "Hit the road, dude"; (3) they lean down over a clipboard on the steering wheel and write down the stranger's name with a blue pen while the passenger watches. One continuous take, no cuts, vertical 9:16. Plain white pickup with no badge and no logos. No text, no captions, no watermark.
+```
+
+### Hit the road dude AI video â the pit bull in plaid — hit-the-road-dude-pit-bull
+
+```text
+Use the photo as the main character and keep them exactly as photographed: the same face, fur or hair and colours, now wearing a blue-and-green plaid button-up shirt and a thick gold chain. They sit in the driver's seat of a plain white pickup truck parked on grass by a pond in the evening, one paw hanging out of the open window over the door. Handheld phone footage from a fisherman standing at the window. (1) The character glares into the camera and says, mouth moving, "State? This ain't no state property. This is private property!"; (2) they turn their head toward the road and say "Hit the road, dude"; (3) they look down, shake their head slowly, then glare back at the camera. One continuous take, no cuts, vertical 9:16. Plain white pickup with no badge and no logos. No text, no captions, no watermark.
+```
+
+---
+
+## Blocus Poursuite AI Video
+
+- Page: https://www.kavel.ai/video/blocus-poursuite-ai-video
+- Scraped: 2026-10-19
+- Local: [`kavel/blocus-poursuite-ai-video/PROMPTS.md`](kavel/blocus-poursuite-ai-video/PROMPTS.md)
+
+### Blocus Poursuite AI video â the baguette on a Paris street — blocus-poursuite-paris-baguette
+
+```text
+Use the photo as the starting frame and keep the person exactly as photographed: same face, hair and outfit, whatever they are holding still in hand, filming a selfie at arm's length on a Paris street. (1) They grin at the camera while, far behind them, a line of riot police steps out across the street and a crowd of teenagers with backpacks gathers at a school blockade, bins pushed into the road; (2) they glance over their shoulder, the smile drops, and the police line suddenly charges toward them; (3) they spin round and sprint away down the street still filming themselves, the camera bouncing, white smoke drifting and loose papers flying past, two officers running after them in the background. Riot police in plain dark navy riot gear and helmets with visors, no text, no badges, no insignia, no patches anywhere. Handheld phone selfie camera at arm's length, vertical 9:16, one continuous shot, shaky as they run. Street noise, shouting and running footsteps in the audio. No captions, no logos, no watermark.
+```
+
+### Blocus Poursuite AI video â iced coffee on a shopping street — blocus-poursuite-street-coffee
+
+```text
+Use the photo as the starting frame and keep the person exactly as photographed: same face, hair and outfit, drink or bag still in hand, filming a selfie at arm's length on a busy shopping street. (1) They smile and talk to the camera while, behind them, students pile up bins and barriers to block the street and a row of riot police in helmets lines up beyond them; (2) they look back, their eyes go wide, and the police line starts running straight at the crowd; (3) they turn and run, still filming themselves, hair flying, smoke and loose papers swirling behind them as two officers give chase. Riot police in plain dark navy riot gear and helmets with visors, no text, no badges, no insignia, no patches anywhere. Handheld phone selfie camera at arm's length, vertical 9:16, one continuous shot, shaky as they run. Street noise, shouting and running footsteps in the audio. No captions, no logos, no store names, no watermark.
+```
+
+### Blocus Poursuite AI video â peace sign between office towers — blocus-poursuite-city-towers
+
+```text
+Use the photo as the starting frame and keep the person exactly as photographed: same face, hair and outfit, filming a wide low-angle selfie at arm's length between tall office towers, peace sign up. (1) They keep the peace sign up and nod at the camera while, at the far end of the street behind them, a line of riot police with shields marches in and a crowd of students blocks the crossing; (2) they turn their head, see them charging, and drop the peace sign; (3) they run, still holding the phone out, the towers swinging in and out of frame, smoke rolling down the street and officers running after them in the background. Riot police in plain dark navy riot gear and helmets with visors, no text, no badges, no insignia, no patches anywhere. Handheld phone selfie camera at arm's length, vertical 9:16, one continuous shot, shaky as they run. Street noise, shouting and running footsteps in the audio. No captions, no logos, no watermark.
+```
+
+### Blocus Poursuite AI video â the akita on the sidewalk — blocus-poursuite-akita-sidewalk
+
+```text
+Use the photo as the starting frame and keep the pet exactly as photographed: same breed, fur, markings and collar or harness, sitting on a tree-lined sidewalk, the camera held close at its face height like a selfie. (1) The pet looks calmly into the camera while, down the street behind it, a line of riot police in helmets forms across the road and a crowd of teenagers blocks the way with bins and barriers; (2) its ears prick up and it glances back as the police line suddenly charges; (3) it leaps up and bolts away down the sidewalk, the shot bouncing as it runs, smoke drifting and loose papers blowing past, two officers running after it in the background. Riot police in plain dark navy riot gear and helmets with visors, no text, no badges, no insignia, no patches anywhere. Handheld phone camera, vertical 9:16, one continuous shot, shaky as it runs. Street noise, shouting and running footsteps in the audio. No captions, no logos, no watermark.
+```
+
+---
+
+## Birthday Champagne AI Video
+
+- Page: https://www.kavel.ai/video/champagne-pop-birthday-ai-video
+- Scraped: 2026-10-19
+- Local: [`kavel/champagne-pop-birthday-ai-video/PROMPTS.md`](kavel/champagne-pop-birthday-ai-video/PROMPTS.md)
+
+### Template prompt
+
+```text
+Use the photo as the main character and keep them exactly as photographed: same face, hair, skin tone, body shape and outfit. They sit on a wooden bench on a green lawn in front of a tall dark hedge, holding a plain dark green champagne bottle with gold foil and no label. (1) They shake the bottle and thumb the cork off with a loud pop; (2) a tall jet of white champagne foam shoots straight up above their head while they lean back and laugh; (3) at the very top of the spray the picture freezes and turns black and white, tiny white sparkles drift down, and the words "Happy Birthday" appear in flowing white handwritten script across the top of the frame; (4) colour comes back and the champagne rains down around them as they raise the bottle. Phone camera on a tripod, full body in frame, one continuous shot, vertical 9:16. Upbeat party beat and the pop of the cork in the audio, no vocals. No other text, no brand names or logos on the bottle, no watermark.
+```
+
+### Birthday champagne AI video â the garden bench — champagne-pop-birthday-garden-bench
+
+```text
+Use the photo as the main character and keep them exactly as photographed: same face, hair, skin tone, body shape and outfit. They sit cross-legged on a wooden garden bench on a mown lawn, a tall dark green cypress hedge behind, a plain dark green champagne bottle with gold foil and no label on the bench beside them. (1) They pick up the bottle, shake it and pop the cork; (2) a tall jet of white foam shoots straight up beside them as they lean away and laugh; (3) at the top of the spray the picture freezes and turns black and white, tiny sparkles drift down, and "Happy Birthday" appears in white handwritten script with "to me" in yellow script beneath it, near the top of the frame; (4) colour comes back and the last of the spray falls onto the grass. Daylight, phone on a tripod, full body in frame, one continuous shot, vertical 9:16. Upbeat party beat and the pop of the cork in the audio, no vocals. No other text, no brand names or logos on the bottle, no watermark.
+```
+
+### Birthday champagne AI video â the park bench at night — champagne-pop-birthday-park-night
+
+```text
+Use the photo as the main character and keep them exactly as photographed: same face, hair, skin tone, body shape and outfit. They sit on a wooden park bench at night, hedges and warm street lamps behind, a plain dark champagne bottle with no label in one hand. (1) They pop the cork and throw their free arm up in the air; (2) a jet of white foam bursts straight up out of the bottle; (3) at the top of the spray the picture freezes and turns black and white, white sparkles fall like snow, and "HAPPY BIRTHDAY" appears in red outlined capital letters with two small gold sparkles above it, near the top of the frame; (4) colour comes back and they laugh, leaning back on the bench. Night, phone on a tripod, full body in frame, one continuous shot, vertical 9:16. Upbeat party beat and the pop of the cork in the audio, no vocals. No other text, no brand names or logos on the bottle, no watermark.
+```
+
+### Birthday champagne AI video â the city ledge — champagne-pop-birthday-city-ledge
+
+```text
+Use the photo as the main character and keep them exactly as photographed: same face, hair, skin tone, body shape and outfit. They sit on a low stone ledge in a city square at night, a grand old building lit in purple and blue across the street, people walking past and a tram going by. They hold a plain dark champagne bottle with no label out at arm's length. (1) They pop the cork; (2) a jet of white foam sprays up and out into the night air; (3) at the top of the spray the picture freezes and turns black and white, sparkles fall across the whole frame, and "Happy Birthday" appears in large white handwritten script with "to me" in red beneath it; (4) colour comes back and they grin at the camera. Phone on a tripod, full body in frame, one continuous shot, vertical 9:16. Upbeat party beat and the pop of the cork in the audio, no vocals. No other text, no brand names or logos on the bottle or the buildings, no watermark.
+```
+
+---
+
+## Head Bop Animation
+
+- Page: https://www.kavel.ai/video/head-bop-animation
+- Scraped: 2026-10-19
+- Local: [`kavel/head-bop-animation/PROMPTS.md`](kavel/head-bop-animation/PROMPTS.md)
+
+### Template prompt
+
+```text
+Use the photo as the main character and keep them exactly as photographed: same face, hair, skin tone, body shape and outfit. They stand in front of a plain dark grey pleated curtain, lit softly from the front, knees up in frame. They do the headbop to a slowed phonk beat, every move landing on the kick: (1) a deep lean back, chin up, one palm held out, the head still nodding; (2) they snap forward and point straight at the camera, eyebrows raised; (3) an open-palm shrug with both hands while the head bobs side to side; (4) a hard nod forward on every beat to the end, a little smirk. The feet stay planted and the head carries the rhythm. Phone on a tripod, one continuous shot, vertical 9:16. Slowed phonk beat with heavy bass and cowbell in the audio, no vocals. No text, no captions, no logos, no watermark.
+```
+
+### Head bop animation â the yellow tee — head-bop-yellow-tee
+
+```text
+Use the photo as the main character and keep them exactly as photographed: same face, hair, skin tone, body shape and outfit. They stand close to a floor-length dark grey satin curtain that fills the whole background, bright even light from the front. To a slowed phonk beat, every move on the kick: (1) they lean back so far they nearly tip over, one hand flung out to the side, mouth open; (2) they spring upright and jab a finger straight into the lens twice; (3) they spread both palms in a wide "what?" shrug, head bobbing; (4) they lean in toward the camera and nod hard, eyebrows up, then step back with both palms out. Feet planted, the head always on the beat. Phone on a tripod at chest height, full body in frame, one continuous shot, vertical 9:16. Slowed phonk beat with heavy bass in the audio, no vocals. No text, no captions, no logos, no watermark.
+```
+
+### Head bop animation â the wig and shades — head-bop-wig-shades
+
+```text
+Use the photo as the main character and keep their face, skin tone and body shape exactly as photographed. Give them a big shaggy light-brown wig and black sunglasses, and keep their own top. They stand in front of a black curtain with a plain white ceiling just visible above it. The clip jump-cuts on every beat of a slowed phonk track between deadpan poses, the head nodding between each one: arms crossed and chin up; two-hand finger guns at the lens; one arm raised in a flex; a slow head tilt to one side; stepping half out of frame to the left and back in. Each pose holds for one beat, the framing jumps slightly with each cut. Phone on a tripod, waist up to full body, vertical 9:16. Slowed phonk beat with heavy bass in the audio, no vocals. No text, no captions, no logos, no watermark.
+```
+
+### Head bop animation â the cat lineup — head-bop-cat-lineup
+
+```text
+One to four reference photos, one character each: a pet or a person. Keep every face, fur colour, markings and hairstyle exactly as photographed and never swap them. Each character appears as a cut-out head-and-shoulders photo, and they stand shoulder to shoulder in one row, in the order the photos were added, on a dark charcoal background under a soft spotlight. With fewer than four photos, the same characters repeat to fill a row of four. To a slowed phonk beat, the camera slides slowly along the row from left to right while each head bops in turn on the kick: a quick nod down and up with a tilt; then the camera slides back the other way and every head bops together on the last beats. Close framing, the row fills the screen, vertical 9:16. Slowed phonk beat with heavy bass in the audio, no vocals. No text, no captions, no logos, no watermark.
+```
+
+---
+
+## Patrick Swayze AI Dance
+
+- Page: https://www.kavel.ai/video/patrick-swayze-dance-ai-video
+- Scraped: 2026-10-19
+- Local: [`kavel/patrick-swayze-dance-ai-video/PROMPTS.md`](kavel/patrick-swayze-dance-ai-video/PROMPTS.md)
+
+### Template prompt
+
+```text
+Use the photo as the opening frame and keep everyone exactly as photographed: same faces, hair, skin tones, body shapes and outfits, in the same place as the photo. If there are two people, one runs across the floor at the other, who catches them at the hips and lifts them straight up above their head; the lifted one holds the swan pose, arms spread wide and body straight, for a long beat, then is lowered down and spun once, both laughing. If there is only one person, they dance a late-80s Dirty Dancing mambo instead: smooth hip sways, a shoulder shimmy, arms sweeping out wide, a spin, ending with a point at the camera. One continuous take, no cuts, everyone fully in frame, vertical 9:16. Retro 60s soul ballad with a slow build in the audio, no vocals. No text, no captions, no logos, no watermark.
+```
+
+### Patrick Swayze AI dance â the studio lift — swayze-dance-studio-lift
+
+```text
+Use the photo as the opening frame and keep both people exactly as photographed: same faces, hair, skin tones, body shapes and clothes, in the same place as the photo. One runs across the floor toward the other, who catches them at the hips and lifts them straight up above their head; the lifted one holds the swan pose, arms spread wide and body straight, while the lifter takes a slow step forward, then lowers them down and spins them once. One continuous take, no cuts, both people fully in frame, vertical 9:16. Retro 60s soul ballad with a slow build in the audio, no vocals. No text, no captions, no logos, no watermark.
+```
+
+### Patrick Swayze AI dance â homecoming, then the lift — swayze-dance-hoco-lift
+
+```text
+Use the photo as the opening frame and keep both people exactly as photographed: same faces, hair, skin tones, body shapes and outfits. In the same room, one sets down anything they are holding and backs up, the other runs at them, gets caught at the waist and lifted straight up; they arch into the swan pose, arms spread wide and legs stretched out behind, held high for a beat, then they are lowered down and both burst out laughing. Warm lamp light. One continuous take, no cuts, both people fully in frame, vertical 9:16. Retro 60s soul ballad with a slow build in the audio, no vocals. No text, no captions, no logos, no watermark.
+```
+
+### Patrick Swayze AI dance â the solo mambo — swayze-dance-garage
+
+```text
+Use the photo as the opening frame and keep the person exactly as photographed: same face, hair, skin tone, body shape and outfit. In the same place, they dance the late-80s Dirty Dancing mambo: smooth hip sways, a quick shoulder shimmy, arms sweeping out wide and pulled back in, a sharp spin that flares their clothes, a little slide forward, ending with a confident point and a grin at the camera. One continuous take, no cuts, full body in frame, vertical 9:16. Upbeat 60s soul and brass mambo beat in the audio, no vocals. No text, no captions, no logos, no watermark.
+```
+
+### Patrick Swayze AI dance â the living-room mambo — swayze-dance-living-room
+
+```text
+Use the photo as the opening frame and keep the person exactly as photographed: same face, hair, skin tone, body shape and clothes. In the same room, they loosen up and dance the late-80s Dirty Dancing mambo: smooth hip sways, a slow shoulder roll, arms sweeping out wide then pulled in, a sharp turn, a knee slide across the floor, then they pop back up and point at the camera with a cocky grin. One continuous take, no cuts, full body in frame, vertical 9:16. Upbeat 60s soul and brass mambo beat in the audio, no vocals. No text, no captions, no logos, no watermark.
+```
+
+---
+
+## Keep On Steppin AI Dance
+
+- Page: https://www.kavel.ai/video/keep-on-steppin-ai-dance-video
+- Scraped: 2026-10-19
+- Local: [`kavel/keep-on-steppin-ai-dance-video/PROMPTS.md`](kavel/keep-on-steppin-ai-dance-video/PROMPTS.md)
+
+### Template prompt
+
+```text
+Use the photo as the starting frame and keep every person exactly as photographed: same faces, hair, skin tones, body shapes and outfits. The group stands in one row on an empty car park on a grey day, a green field and a line of autumn trees behind them. (1) They nod to the beat and fall into one straight line; (2) everyone does the Keep On Steppin line dance perfectly in sync, marching toward the camera with sharp step-touches, heel taps, a shoulder bounce and arms swinging low at their sides; (3) they keep stepping until the front dancer is right over the lens and the camera drops to the ground for a low-angle shot looking up as they stomp the last step together. If the photo is a close selfie, they first step back so full bodies are in frame. Phone camera on a tripod, full bodies in frame, one continuous shot, vertical 9:16. Upbeat line-dance beat in the audio, no vocals. No text, no captions, no logos, no watermark.
+```
+
+### Keep On Steppin AI dance â two coaches on the gym turf — keep-on-steppin-gym
+
+```text
+Use the photo as the starting frame and keep both women exactly as photographed: same faces, hair, skin tones, body shapes and outfits. They stand side by side on the green turf lane of a bright gym, treadmills and lights behind them. (1) They glance at each other and start on the same beat; (2) both do the Keep On Steppin line dance perfectly in sync, stepping forward along the turf with crisp step-touches, heel taps, a quick turn and a shoulder bounce, arms swinging at their sides; (3) they march right up to the camera and it drops to the floor for a low-angle shot looking up as they land the last stomp together and laugh. Phone camera on a tripod, full bodies in frame, one continuous shot, vertical 9:16. Upbeat line-dance beat in the audio, no vocals. No text, no captions, no logos or brand names, no watermark.
+```
+
+### Keep On Steppin AI dance â the pub dance floor — keep-on-steppin-pub
+
+```text
+Use the photo as the starting frame and keep everyone exactly as photographed: same faces, hair, skin tones, body shapes and outfits. A crowd of friends on the dance floor of a busy pub, screens glowing on the wall behind them. (1) The music kicks in and the group falls into rows; (2) everyone does the Keep On Steppin line dance in sync, stepping toward the camera together with step-touches, heel taps, a quarter turn and a shoulder bounce, arms swinging low; (3) the front row steps right up to the lens and the camera drops to the floor for a low-angle shot looking up as the whole floor stomps the last step and cheers. Handheld phone camera, full bodies in frame, one continuous shot, vertical 9:16. Upbeat line-dance beat and crowd noise in the audio, no vocals. No text, no captions, no logos or brand names on the screens or signs, no watermark.
+```
+
+### Keep On Steppin AI dance â a crew in summer clothes — keep-on-steppin-beach-crew
+
+```text
+Use the photo as the starting frame and keep every person exactly as photographed: same faces, hair, skin tones, body shapes and outfits. The group stands in a row on a car park on a grey day, a sandy field and a line of autumn trees behind them, dressed for summer in shorts, sun hats and bright tops. (1) They fall into one straight line on the beat; (2) everyone does the Keep On Steppin line dance perfectly in sync, marching toward the camera with high knees, step-touches, heel taps and a shoulder bounce, arms swinging; (3) the front dancer steps right over the lens and the camera drops to the ground for a low-angle shot looking up as they all stomp the last step. Phone camera on a tripod, full bodies in frame, one continuous shot, vertical 9:16. Upbeat line-dance beat in the audio, no vocals. No text, no captions, no logos, no watermark.
+```
+
+---
+
+## Thriller AI Dance
+
+- Page: https://www.kavel.ai/video/thriller-dance-ai-video
+- Scraped: 2026-10-19
+- Local: [`kavel/thriller-dance-ai-video/PROMPTS.md`](kavel/thriller-dance-ai-video/PROMPTS.md)
+
+### Template prompt
+
+```text
+Use the photo as the main character and keep them exactly as photographed: same face, hair, skin tone, body shape and outfit. They dance alone on a night sidewalk under the street lamps; low fog rolls across the path and a row of glowing jack-o'-lanterns lines the grass on both sides. They do the Thriller zombie dance: arms swung out together to one side with a deep lean, stiff claw hands raised, sharp shoulder shrugs, a slow head roll, then shuffling steps forward and a stomp, all locked to the beat. If the photo is a close selfie, they first step back from the camera so the whole body is in frame. One continuous take, no cuts, full body in frame, vertical 9:16. Spooky synth-funk beat with a deep bassline in the audio, no vocals. No text, no captions, no logos, no watermark.
+```
+
+### Thriller AI dance â the zombie make-up — thriller-ai-dance-zombie-makeup
+
+```text
+Use the photo as the opening frame and keep the person exactly as photographed: same face, make-up, hair, skin tone and clothes. They step back from the phone so their whole body comes into view on a dark parking lot at night, then do the Thriller zombie dance: arms swung out together to one side with a deep lean, stiff claw hands raised, sharp shoulder shrugs, a slow head roll, shuffling steps toward the camera and a stomp. Low fog drifts in and a row of glowing jack-o'-lanterns lines the kerb. One continuous take, no cuts, vertical 9:16. Spooky synth-funk beat with a deep bassline in the audio, no vocals. No text, no captions, no logos, no watermark.
+```
+
+### Thriller AI dance â the selfie that steps back — thriller-ai-dance-selfie-plain
+
+```text
+Use the photo as the opening frame and keep the person exactly as photographed: same face, hair, skin tone and clothes, with no logo or print added to them. They step back from the phone so their whole body comes into view in the same room, then do the Thriller zombie dance: arms swung out together to one side with a deep lean, stiff claw hands raised, sharp shoulder shrugs, a slow head roll and shuffling steps toward the camera, deadpan face. The room light dims to a moody orange Halloween glow. One continuous take, no cuts, vertical 9:16. Spooky synth-funk beat with a deep bassline in the audio, no vocals. No text, no captions, no logos or brand marks, no watermark.
+```
+
+### Thriller AI dance â the husky — thriller-ai-dance-husky
+
+```text
+Use the photo as the main character and keep the animal exactly as photographed: same breed, colours, markings and collar. It stands up on its back legs and does the Thriller zombie dance: front paws swung out to one side with a lean, paws curled like claws, a shoulder shrug and a head roll, little hops forward on its back legs, tail wagging. Glowing jack-o'-lanterns pile up at the edge of the lawn at dusk. One continuous take, no cuts, whole animal in frame, vertical 9:16. Spooky synth-funk beat in the audio. No text, no captions, no logos, no watermark.
+```
+
+---
+
+## I Feel Like Nicole AI
+
+- Page: https://www.kavel.ai/video/i-feel-like-nicole-ai-video
+- Scraped: 2026-10-19
+- Local: [`kavel/i-feel-like-nicole-ai-video/PROMPTS.md`](kavel/i-feel-like-nicole-ai-video/PROMPTS.md)
+
+### Template prompt
+
+```text
+Use the photo as the main character and keep the person exactly as photographed: same face, hair, skin tone, build and clothes. They perform right where the photo was taken, in the same place with the same background, filmed full body on a phone at chest height by a friend. It is the "I feel like Nicole" lip-sync trend: they act like the most glamorous person alive. They start with both hands on their head, eyes wide, mouthing the words to the camera; then they point straight at the lens with a smug smile, roll their shoulders and sway to the beat, toss their hair back with one hand, and finish with one hand on the hip, chin up, giving the camera a slow, confident look. One continuous take, vertical 9:16. Audio: a sultry, confident pop beat with a glossy synth bass, no vocals. No text, no captions, no logos, no watermark.
+```
+
+### I Feel Like Nicole AI â the balcony diva — i-feel-like-nicole-ai-video-balcony
+
+```text
+Use the photo as the main character and keep the person exactly as photographed: same face, long braids, skin tone, build and clothes: a cropped navy T-shirt, loose light grey joggers and white trainers. They perform on the same balcony with the terracotta wall and the black railing, filmed full body on a phone propped low on the floor. It is the "I feel like Nicole" lip-sync trend: they act like the most glamorous woman alive. They start with both hands on their head, eyes wide, mouthing the words to the camera; then they point straight at the lens with a smug smile, roll their shoulders and sway their hips to the beat, flick their braids over one shoulder, and finish with one hand on the hip, chin up, giving the camera a slow, confident look. One continuous take, vertical 9:16. Audio: a sultry, confident pop beat with a glossy synth bass, no vocals. No text, no captions, no logos, no watermark.
+```
+
+### I Feel Like Nicole AI â the wedding courtyard — i-feel-like-nicole-ai-video-courtyard
+
+```text
+Use the photo as the main character and keep the person exactly as photographed: same face, long dark wavy hair, skin tone, build and clothes: a long black dress with a white trim at the neckline and the hem, holding a small silver beaded clutch. They stand in the same stone courtyard with the fountain, the flowers and the green ivy walls, wedding guests chatting out of focus behind them, filmed on a phone at chest height. It is the "I feel like Nicole" lip-sync trend: they act like a film star at her own premiere. They mouth the words to the camera with a knowing smile, tilt their head, toss their hair back with one hand, swing the clutch and do a slow little turn to show off the dress, then step toward the lens, point at it and blow a kiss. One continuous take, vertical 9:16. Audio: a sultry, confident pop beat with a glossy synth bass and soft party chatter, no vocals. No text, no captions, no logos, no watermark.
+```
+
+### I Feel Like Nicole AI â the gym diva — i-feel-like-nicole-ai-video-gym
+
+```text
+Use the photo as the main character and keep the person exactly as photographed: same face, red hair in a high ponytail, tattoos, skin tone, build and clothes: a black tank top, black leggings and leopard-print trainers. They are in the same gym with purple walls and the barbell on the wooden lifting platform, filmed full body on a phone at chest height. It is the "I feel like Nicole" lip-sync trend: they act like a diva in the middle of a workout. They set the barbell down on the platform, stand up tall, put both hands on their head and mouth the words to the camera with wide eyes; then they point straight at the lens with a smug smile, flip the ponytail over one shoulder, sway their hips to the beat and finish with one hand on the hip, chin up, giving the camera a slow, confident look. One continuous take, vertical 9:16. Audio: a sultry, confident pop beat with a glossy synth bass and faint gym sounds, no vocals. No text, no captions, no logos, no watermark.
+```
+
+---
+
+## Layoo AI Dance
+
+- Page: https://www.kavel.ai/video/layoo-ai-dance
+- Scraped: 2026-10-19
+- Local: [`kavel/layoo-ai-dance/PROMPTS.md`](kavel/layoo-ai-dance/PROMPTS.md)
+
+### Template prompt
+
+```text
+Use the photo as the main character and keep the person exactly as photographed: same face, hair, skin tone, build and clothes. They stand front and centre in a cozy living room at night: beige carpet, a long brown leather sofa against the back wall, wooden chairs, warm recessed ceiling lights, two friends dancing in sync a step behind them. They do the Layoo dance on the beat: drop into a deep, wide squat with the knees pushed out and bounce, hands pointing down and flicking at their sides; fling both arms out wide like wings; beat both fists on the chest, gorilla style; hop on the spot with the knees out; and finish with both arms thrown straight up over the head, grinning at the camera. Full body in frame the whole time, phone camera on a tripod at waist height, one continuous take, vertical 9:16. Heavy hip-hop drum beat with deep bass in the audio, no vocals. No text, no captions, no logos, no watermark.
+```
+
+### Layoo AI dance â the basement squat — layoo-ai-dance-durag-crew
+
+```text
+Use the photo as the main character and keep the person exactly as photographed: same face, hair, skin tone and build. Give them a black durag. Dress them in a plain black sleeveless top, loose grey sweatpants and white trainers. They stand front and centre in a basement living room at night: grey carpet, a dark sectional sofa against the back wall, a big framed mirror, warm recessed ceiling lights. They do the Layoo dance on the beat: drop into a deep, wide squat with the knees pushed out and bounce, hands pointing down and flicking at their sides; fling both arms out wide like wings; beat both fists on the chest, gorilla style; hop on the spot with the knees out; and finish with both arms thrown straight up over the head, laughing at the camera. Full body in frame the whole time, phone camera on a tripod at waist height, one continuous take, vertical 9:16. Heavy hip-hop drum beat with deep bass in the audio, no vocals. No text, no captions, no logos, no watermark.
+```
+
+### Layoo AI dance â the baby version — layoo-ai-dance-baby
+
+```text
+Use the photo as the main character and keep the baby exactly as photographed: same face, eyes, hair, skin tone and age, in a blue T-shirt, grey shorts and little socks. The baby stands on a soft grey carpet in a bright open-plan living room, filmed on a phone resting on the floor, looking up. The baby does the Layoo dance in toddler form: drops into a wobbly wide squat with the knees out and bounces, flaps both arms out wide like wings, pats both hands on the chest, then claps and laughs at the camera. Wholesome, innocent toddler moves only: bouncing knees, flapping arms, clapping, little stomps; no hip thrusts, no twerking, no grown-up or suggestive dance moves. Real baby proportions. One continuous take, vertical 9:16. Bouncy hip-hop drum beat in the audio, no vocals. No adults in frame, no text, no captions, no logos, no watermark.
+```
+
+---
+
+## Bulin 47 AI Video
+
+- Page: https://www.kavel.ai/video/bulin-47-ai-video
+- Scraped: 2026-10-19
+- Local: [`kavel/bulin-47-ai-video/PROMPTS.md`](kavel/bulin-47-ai-video/PROMPTS.md)
+
+### Template prompt
+
+```text
+Use the photo as the main character and keep the person exactly as photographed: same face, hair, skin tone, build and clothes. They stand front and centre on a city pavement in front of a closed, dark grey metal roll-up shop shutter, two friends in streetwear dancing the same moves a step behind them, one on each side, filmed on a phone at chest height by someone across the pavement. They do the Dame Hombro freestyle to a dembow beat, loose and relaxed: both shoulders bounce up and down on every beat, then one shoulder rolls forward toward the camera and then the other, fists held loose at chest height; small side steps left and right; a cocky lean back with the chin up; and to finish, both shoulders shrug at the lens with a grin. Full body in frame the whole time, one continuous take, vertical 9:16. Upbeat dembow beat in the audio, no vocals. No text, no captions, no logos, no watermark.
+```
+
+### Bulin 47 AI video â the side-street freestyle — bulin-47-ai-video-side-street
+
+```text
+Use the photo as the main character and keep the person exactly as photographed: same face, hair, beard, skin tone, tattoos, build and blue mirrored sunglasses. Dress them in a plain grey oversized T-shirt with a black crossbody strap, light blue cargo jeans and white trainers. They dance in the middle of a quiet residential side street in the early evening, white clapboard houses and green hedges behind, filmed on a phone held at chest height by a friend. They do the Dame Hombro freestyle to a dembow beat, loose and relaxed: both shoulders bounce up and down on every beat, then one shoulder rolls forward toward the camera and then the other, fists held loose at chest height; small side steps left and right; a cocky lean back with the chin up; and to finish, both shoulders shrug at the lens with a grin. Full body in frame the whole time, one continuous take, vertical 9:16. Upbeat dembow beat in the audio, no vocals. No text, no captions, no logos, no watermark.
+```
+
+### Bulin 47 AI video â the backyard shoulder bounce — bulin-47-ai-video-backyard
+
+```text
+Use the photo as the main character and keep the person exactly as photographed: same face, hair, skin tone, build, dark sunglasses and clothes: a pale blue oversized sweatshirt and grey jersey shorts. They dance on the lawn of a sunny backyard, tall palm trees and a low tan block wall behind, the corner of a swimming pool to one side, filmed on a phone held at chest height by a friend. They do the Dame Hombro freestyle to a dembow beat, loose and relaxed: both shoulders bounce up and down on every beat, then one shoulder rolls forward toward the camera and then the other, fists held loose at chest height; small side steps left and right; a cocky lean back with the chin up; and to finish, both shoulders shrug at the lens with a grin. Full body in frame the whole time, one continuous take, vertical 9:16. Upbeat dembow beat in the audio, no vocals. No text, no captions, no logos, no watermark.
+```
+
+### Bulin 47 AI video â the riverside plaza — bulin-47-ai-video-park-plaza
+
+```text
+Use the photo as the main character and keep the person exactly as photographed: same face, skin tone, build, dark sunglasses and clothes: a plain black cap, black T-shirt and black trousers. They dance on the stone paving of a riverside park plaza on a bright day, red-brick apartment blocks and a long suspension bridge in the distance behind, filmed on a phone held at chest height by a friend. They do the Dame Hombro freestyle to a dembow beat, loose and relaxed: both shoulders bounce up and down on every beat, then one shoulder rolls forward toward the camera and then the other, fists held loose at chest height; small side steps left and right; a cocky lean back with the chin up; and to finish, both shoulders shrug at the lens with a grin. Full body in frame the whole time, one continuous take, vertical 9:16. Upbeat dembow beat in the audio, no vocals. No text, no captions, no logos, no watermark.
+```
+
+---
+
+## Wipe Me Down Dance AI
+
+- Page: https://www.kavel.ai/video/wipe-me-down-ai-dance-video
+- Scraped: 2026-10-19
+- Local: [`kavel/wipe-me-down-ai-dance-video/PROMPTS.md`](kavel/wipe-me-down-ai-dance-video/PROMPTS.md)
+
+### Template prompt
+
+```text
+Use the photo as the main character and keep the person exactly as photographed: same face, hair, skin tone, build and clothes. They dance right where the photo was taken, in the same room with the same background, filmed on a phone at chest height by a friend. They do the Wipe Me Down dance to an upbeat Southern hip hop beat, loose and goofy: first they lean right into the camera with a big grin, then hop back and drop into a low bouncing lean, knees bent, both arms swinging loose by their knees and the hands flicking down toward the floor on every beat as if brushing dust off, rocking side to side; then they pop back up, brush off both shoulders, and finish with a cocky little side shuffle and a nod at the lens. Full body in frame after the opening lean, one continuous take, vertical 9:16. Upbeat hip hop beat in the audio, no vocals. No text, no captions, no logos, no watermark.
+```
+
+### Wipe Me Down dance AI â the bedroom bounce — wipe-me-down-ai-dance-video-bedroom
+
+```text
+Use the photo as the main character and keep the person exactly as photographed: same face, big curly hair, skin tone, build and clothes: a cropped floral top, a brown belt and high-waisted blue jeans. They dance in a bright bedroom with a woven headboard, a striped bedspread and a geometric pendant lamp above. They do the Wipe Me Down dance to an upbeat Southern hip hop beat, loose and goofy: first they lean right into the camera with a big grin, then hop back and drop into a low bouncing lean, knees bent, both arms swinging loose by their knees and the hands flicking down toward the floor on every beat as if brushing dust off, rocking side to side; then they pop back up, brush off both shoulders, and finish with a cocky little side shuffle and a nod at the lens. Full body in frame after the opening lean, one continuous take, vertical 9:16, filmed on a phone at chest height. Upbeat hip hop beat in the audio, no vocals. No text, no captions, no logos, no watermark.
+```
+
+---
+
+## Venom Car AI
+
+- Page: https://www.kavel.ai/video/venom-car-ai-video
+- Scraped: 2026-10-19
+- Local: [`kavel/venom-car-ai-video/PROMPTS.md`](kavel/venom-car-ai-video/PROMPTS.md)
+
+### Template prompt
+
+```text
+Use the photo as the car and keep it exactly as photographed: same make, body shape, colour, wheels and badge. Vertical 9:16 cinematic clip, one continuous take. (1) On empty asphalt at dusk, the car's own badge lies alone on the ground; a glossy black liquid like living tar crawls in on clawed tendrils and grabs it; (2) the liquid swallows the badge and swells into a shiny black sphere, then bursts flat into a ring of spiky tendrils; (3) the tendrils weave the chassis, the engine and the wheels piece by piece, black liquid flowing over each part as it forms; (4) the liquid slides off the bodywork and the finished car from the photo stands there, headlights flicking on. Slow push-in from a low angle, glossy wet reflections. Deep rumbling bass and thick liquid squelches in the audio, no music with vocals. No text, no captions, no faces or characters in the liquid, no watermark.
+```
+
+### Venom car AI â the car-park rebuild — venom-car-ai-video-garage
+
+```text
+Use the photo as the car and keep it exactly as photographed: same make, body shape, colour, wheels and badge. Vertical 9:16 cinematic clip, one continuous take. (1) In an underground car park with yellow lane lines and a drain grate, a black liquid creature with dozens of spiky tendrils scuttles across the concrete toward the car's badge lying on the floor and swallows it; (2) it pools into a glossy black blob, then explodes outward into a starburst of tendrils; (3) a bare chassis with the engine and suspension rises out of the liquid and the bodywork wraps over it; (4) the finished car from the photo sits under the car-park lights with its headlights glowing. Slow push-in from a low angle, glossy wet reflections. Deep rumbling bass and thick liquid squelches in the audio, no music with vocals. No text, no captions, no faces or characters in the liquid, no watermark.
+```
+
+### Venom car AI â the red car and the car meet — venom-car-ai-video-two-cars
+
+```text
+Use the photo as the car and keep it exactly as photographed: same make, body shape, colour, wheels and badge. Vertical 9:16 cinematic clip, one continuous take. (1) On a dusty lot at a sunny outdoor car meet, white tents and a crowd behind, a glossy black liquid hand rises from the ground gripping the car's badge; (2) it sinks into a shiny black sphere, then splashes flat into a ring of spikes; (3) the spikes knit an engine, a radiator and a chassis on bare wheels, then the bodywork flows over them; (4) the finished car from the photo stands on the lot as people at the meet turn to look. Slow push-in from a low angle, glossy wet reflections. Deep rumbling bass and thick liquid squelches in the audio, no music with vocals. No text, no captions, no faces or characters in the liquid, no watermark.
+```
+
+### Venom car AI â under the neon rings — venom-car-ai-video-neon-bmw
+
+```text
+Use the photo as the car and keep it exactly as photographed: same make, body shape, colour, wheels and badge. Vertical 9:16 cinematic clip, one continuous take. (1) At night under a concrete overpass lit by rows of glowing neon rings, a black puddle on wet asphalt holds the car's badge; (2) glossy black tendrils snake out of the puddle and race across the road; (3) the tendrils build the chassis and the bodywork piece by piece under the neon, the bonnet still open; (4) the bonnet drops shut and the finished car from the photo rolls forward, headlights on. Slow push-in from a low angle, glossy wet reflections. Deep rumbling bass and thick liquid squelches in the audio, no music with vocals. No text, no captions, no faces or characters in the liquid, no watermark.
+```
+
+---
+
+## Ozil Goal AI
+
+- Page: https://www.kavel.ai/video/ozil-goal-ai-video
+- Scraped: 2026-10-19
+- Local: [`kavel/ozil-goal-ai-video/PROMPTS.md`](kavel/ozil-goal-ai-video/PROMPTS.md)
+
+### Template prompt
+
+```text
+Use the photo as the main character and keep the person exactly as photographed: same face, hair, skin tone, build and clothes. A night match in a packed floodlit stadium, filmed like a TV broadcast from behind the play. A through ball lands at their feet and they sprint clear toward goal; the goalkeeper rushes out and they knock the ball wide around him with one touch. Near the goal line two defenders race back and slide in to block; the player stops the ball dead and waits, both defenders slide past along the grass, then the player calmly taps the ball into the empty net and runs off with both arms out to the roaring crowd. Plain unbranded kits for everyone, no club badges, no sponsor logos. One continuous shot, vertical 9:16. Stadium crowd roar in the audio, no commentary. No text, no captions, no logos, no watermark.
+```
+
+### Ozil goal AI â the yellow kit under the floodlights — ozil-goal-ai-video-yellow-kit
+
+```text
+Use the photo as the main character and keep the person exactly as photographed: same face, hair, skin tone and build, wearing the plain bright yellow shirt and black shorts. A night match in a packed floodlit stadium, filmed like a TV broadcast from behind the play. A through ball lands at their feet and they sprint clear toward goal; the goalkeeper rushes out and they knock the ball wide around him with one touch. Near the goal line two defenders race back and slide in to block; the player stops the ball dead and waits, both defenders slide past along the grass, then the player calmly taps the ball into the empty net and runs off with both arms out to the roaring crowd. Plain unbranded kits for everyone, no club badges, no sponsor logos. One continuous shot, vertical 9:16. Stadium crowd roar in the audio, no commentary. No text, no captions, no logos, no watermark.
+```
+
+### Ozil goal AI â the Sunday-league striker — ozil-goal-ai-video-white-kit
+
+```text
+Use the photo as the main character and keep the person exactly as photographed: same face, hair, skin tone and build, wearing the plain white shirt with grey wave stripes and black shorts. A night match in a packed floodlit stadium, filmed like a TV broadcast from behind the play. A through ball lands at their feet and they sprint clear toward goal; the goalkeeper rushes out and they knock the ball wide around him with one touch. Near the goal line two defenders race back and slide in to block; the player stops the ball dead and waits, both defenders slide past along the grass, then the player calmly taps the ball into the empty net and runs off with both arms out to the roaring crowd. Plain unbranded kits for everyone, no club badges, no sponsor logos. One continuous shot, vertical 9:16. Stadium crowd roar in the audio, no commentary. No text, no captions, no logos, no watermark.
+```
+
+### Ozil goal AI â number 17 in orange — ozil-goal-ai-video-orange-kit
+
+```text
+Use the photo as the main character and keep the person exactly as photographed: same face, hair, skin tone and build, wearing the plain orange shirt and black shorts. A night match in a packed floodlit stadium, filmed like a TV broadcast from behind the play. A through ball lands at their feet and they sprint clear toward goal; the goalkeeper rushes out and they knock the ball wide around him with one touch. Near the goal line two defenders race back and slide in to block; the player stops the ball dead and waits, both defenders slide past along the grass, then the player calmly taps the ball into the empty net and runs off with both arms out to the roaring crowd. Plain unbranded kits for everyone, no club badges, no sponsor logos. One continuous shot, vertical 9:16. Stadium crowd roar in the audio, no commentary. No text, no captions, no logos, no watermark.
+```
+
+---
+
+## Knight Cat AI Video
+
+- Page: https://www.kavel.ai/video/knight-cat-ai-video
+- Scraped: 2026-10-19
+- Local: [`kavel/knight-cat-ai-video/PROMPTS.md`](kavel/knight-cat-ai-video/PROMPTS.md)
+
+### Knight cat AI â the pink bow and the dragon — knight-cat-dragon-fire
+
+```text
+Use the photo as the main character and keep the pet exactly as photographed: same species, breed, fur colour, markings, eyes and face. It is small and wears fitted, polished silver knight armor, a pale cream cape and a small pink bow on one ear, and holds a long knight's sword taller than itself. On a windy green moor under a grey sky, cinematic film look: (1) close-up, it holds the sword upright in front of its face, eyes wide and brave; (2) a huge black dragon lowers its head right next to it and it raises the sword at the dragon's snout; (3) it charges across the grass dragging the sword; (4) the dragon breathes a wall of fire and the little knight stands in the flames, sword up, cape blowing. Real animal anatomy: paws, never human hands. Horizontal 16:9 video. Epic orchestral music in the audio, no vocals. No people, no text, no captions, no logos, no watermark.
+```
+
+### Knight cat AI â the golden sword — knight-cat-golden-sword
+
+```text
+Use the photo as the main character and keep the pet exactly as photographed: same species, breed, fur colour, markings, eyes and face. It is small and wears fitted, polished silver knight armor with a round gold clasp, a white cape and a white bow on one ear. On a green, windswept moor under grey sky, the legs of a giant creature looming in the background, cinematic film look: (1) close-up of its face, calm and determined; (2) wide shot, it stands alone in the long grass holding the sword hilt in front of its chest; (3) it raises the sword straight up over its head with both front paws and the blade starts to glow gold; (4) golden light and sparks burst out from the sword and sweep across the whole field. Real animal anatomy: paws, never human hands. Horizontal 16:9 video. Rising epic orchestral music in the audio, no vocals. No people, no text, no captions, no logos, no watermark.
+```
+
+### Knight cat AI â beside the giant knight — knight-cat-giant-knight
+
+```text
+Use the photo as the main character and keep the pet exactly as photographed: same species, breed, fur colour, markings, eyes and face. It is small and wears fitted, polished silver knight armor and a cream cape, and holds a small knight's sword upright, its tip in the mud. On a muddy battlefield after a battle, fallen armor and arrows stuck in the ground, grey stormy sky, cinematic film look: (1) close-up of a huge knight in dark, battered plate armor with a closed helmet and arrows stuck in his shoulders, kneeling and leaning on his own sword; (2) the camera tilts down to the little armored pet standing guard at his boot, chin up; (3) wide shot, the two side by side, the giant kneeling and the tiny knight standing; (4) behind them a vast army appears on the horizon, and the two face it together. Real animal anatomy: paws, never human hands. The giant knight's face is never shown. Horizontal 16:9 video. Slow, heavy orchestral music in the audio, no vocals. No text, no captions, no logos, no watermark.
+```
+
+### Knight cat AI â the dragon slayer — knight-cat-dragon-slayer
+
+```text
+Use the photo as the main character and keep the pet exactly as photographed: same species, breed, fur colour, markings, eyes and face. It is small and wears fitted, polished silver knight armor and a white cape, and holds a long knight's sword. On dark, foggy, rocky ground under a stormy sky, cinematic film look: (1) close-up of its face in the armor, eyes wide; (2) a giant black dragon roars out of the fog; (3) the little knight runs at it, leaps onto the dragon's snout and swings the sword, cape flying; (4) it lands on the ground in a low crouch, sword held out to the side, ready for more. Real animal anatomy: paws, never human hands. Horizontal 16:9 video. Fast epic orchestral music in the audio, no vocals. No people, no text, no captions, no logos, no watermark.
+```
+
+---
+
+## Baby Dancing AI
+
+- Page: https://www.kavel.ai/video/baby-dancing-ai
+- Scraped: 2026-10-19
+- Local: [`kavel/baby-dancing-ai/PROMPTS.md`](kavel/baby-dancing-ai/PROMPTS.md)
+
+### Template prompt
+
+```text
+Use the photo as the main character and keep the baby exactly as photographed: same face, eyes, hair, skin tone, outfit and age. The baby stands on the carpet of a bright, tidy bedroom at home and does a cheerful toddler dance straight at the camera, filmed on a phone held at the baby's eye level: (1) toddles up close to the lens and waves both hands; (2) does a big, funny shrug with both palms up and a cheeky face; (3) bounces on bent knees, swinging both arms side to side and clapping; (4) takes a few wobbly steps back, then runs at the camera laughing with arms out. Wholesome, innocent toddler moves only: bouncing knees, waving, clapping, little stomps, big smiles; the baby stays fully dressed; no hip thrusts, no twerking, no grown-up or suggestive dance moves. Real baby proportions and chubby baby hands. One continuous handheld shot, soft daylight, vertical 9:16 video. Bouncy, playful kids' beat in the audio, no vocals. No adults in frame, no text, no captions, no logos, no watermark.
+```
+
+### Baby dancing AI â the cherry romper — baby-dancing-cherry-romper
+
+```text
+Use the photo as the main character and keep the baby exactly as photographed: same face, eyes, hair, skin tone and age. Dress the baby in a white cherry-print romper with ruffled shoulders and a little bow in the hair. In a bright bedroom with a grey carpet and a made bed behind: (1) the baby toddles up to the lens and waves both hands; (2) a big shrug with palms up and a cheeky grin; (3) bounces on bent knees, points at the camera and wiggles a finger; (4) steps back, then runs at the camera laughing, face filling the frame. Wholesome, innocent toddler moves only: bouncing knees, waving, clapping, little stomps; no hip thrusts, no twerking, no grown-up or suggestive dance moves. Real baby proportions. One continuous handheld phone shot at baby eye level, soft daylight, vertical 9:16 video. Bouncy, playful kids' beat in the audio, no vocals. No adults in frame, no text, no captions, no logos, no watermark.
+```
+
+### Baby dancing AI â the boy in the blue shirt — baby-dancing-blue-shirt-boy
+
+```text
+Use the photo as the main character and keep the baby exactly as photographed: same face, eyes, hair, skin tone and age. Dress the baby in a blue T-shirt with a small white flower print and white shorts. In a plain, empty room with beige walls and a dark wooden floor: (1) the baby bobs up and down on bent knees, grinning at the lens; (2) sways side to side and tilts the head with a cheeky smile; (3) leans toward the camera, scrunches the face and laughs; (4) bounces again, arms swinging at the sides. Wholesome, innocent toddler moves only: bouncing knees, swaying, little stomps, big smiles; no hip thrusts, no twerking, no grown-up or suggestive dance moves. Real baby proportions. One continuous handheld phone shot at baby eye level, soft daylight, vertical 9:16 video. Bouncy, playful kids' beat in the audio, no vocals. No adults in frame, no text, no captions, no logos, no watermark.
+```
+
+### Baby dancing AI â the pink sleepsuit — baby-dancing-pink-sleepsuit
+
+```text
+Use the photo as the main character and keep the baby exactly as photographed: same face, eyes, hair, skin tone and age. Dress the baby in a soft pink footed sleepsuit and a big white bow headband. In a living room in front of a grey sofa: (1) the baby stands up straight, swings both arms forward and back; (2) turns a little to one side and wiggles the shoulders; (3) bends the knees and bounces to the beat with a proud little face; (4) swings the arms again and grins at the camera. Wholesome, innocent toddler moves only: bouncing knees, arm swings, little stomps; no hip thrusts, no twerking, no grown-up or suggestive dance moves. Real baby proportions. One continuous handheld phone shot at baby eye level, soft daylight, vertical 9:16 video. Bouncy, playful kids' beat in the audio, no vocals. No adults in frame, no text, no captions, no logos, no watermark.
+```
+
+### Baby dancing AI â the white onesie — baby-dancing-white-onesie
+
+```text
+Use the photo as the main character and keep the baby exactly as photographed: same face, eyes, hair, skin tone and age. Dress the baby in a plain white short-sleeved onesie. On a beige carpet in front of white closet doors: (1) the baby holds both arms out wide and bounces on chubby legs; (2) lifts one hand to the mouth with a surprised face; (3) bounces again, stepping from foot to foot; (4) waves both arms in the air and smiles at the camera. Wholesome, innocent toddler moves only: bouncing knees, waving, little stomps, big smiles; no hip thrusts, no twerking, no grown-up or suggestive dance moves. Real baby proportions. One continuous handheld phone shot at baby eye level, soft indoor light, vertical 9:16 video. Bouncy, playful kids' beat in the audio, no vocals. No adults in frame, no text, no captions, no logos, no watermark.
+```
+
+### Baby dancing AI â knees up in the kitchen — baby-dancing-pink-onesie-kick
+
+```text
+Use the photo as the main character and keep the baby exactly as photographed: same face, eyes, hair, skin tone and age. Dress the baby in a pink short-sleeved onesie with two little yellow ducks on the front. In an open-plan kitchen with a wooden floor and navy cabinets behind: (1) the baby stomps toward the camera lifting each knee high, dead serious; (2) stops, frowns in concentration and puts one hand on a hip; (3) does a little march on the spot, arms pumping; (4) breaks into a big grin and waves at the camera. Wholesome, innocent toddler moves only: knee-lifting stomps, marching, waving; no hip thrusts, no twerking, no grown-up or suggestive dance moves. Real baby proportions. One continuous handheld phone shot at baby eye level, warm indoor light, vertical 9:16 video. Bouncy, playful kids' beat in the audio, no vocals. No adults in frame, no text, no captions, no logos, no watermark.
+```
+
+---
+
+## Ghost Filter Prank AI
+
+- Page: https://www.kavel.ai/video/ghost-filter-prank-ai
+- Scraped: 2026-10-19
+- Local: [`kavel/ghost-filter-prank-ai/PROMPTS.md`](kavel/ghost-filter-prank-ai/PROMPTS.md)
+
+### Template prompt
+
+```text
+Bring the photo to life and keep the person exactly as photographed: same face, hair, skin tone, age and clothes, in the same room. Filmed on a phone propped up in front of them, like a front-camera video. They chat and smile at the camera, completely unaware. Behind them, a tall, gaunt ghost woman with pale grey-green skin, long straight grey hair, round staring white eyes, a wide unnatural grin and long bony clawed fingers, slowly rises into view over their shoulder, hunched, both clawed hands lifting up on either side of them, and leans in closer and closer, grinning at the camera. The person glances back once, sees nothing, turns back to the camera and keeps talking while the ghost hovers right behind their head. Creepy, not gory: no blood, no wounds, the ghost never grabs or hurts anyone. One continuous shot, natural indoor light, vertical 9:16 video. Quiet room tone with a low eerie drone in the audio, no music with vocals. No text, no captions, no logos, no watermark.
+```
+
+### Ghost filter prank â at the kitchen counter — ghost-filter-prank-kitchen-counter
+
+```text
+Bring the photo to life and keep the person exactly as photographed: same face, hair, skin tone, age and clothes. They sit at a kitchen counter under a crystal pendant light, a tablet and a snack bowl in front of them, filmed on a phone lying on the counter. They nibble a snack, chat and wave their hands at the camera, laughing, never looking back. Behind them by the window blinds, a tall, gaunt ghost woman with pale grey-green skin, long straight grey hair, round staring white eyes, a wide unnatural grin and long bony clawed fingers, stands hunched with both clawed hands raised and creeps closer over their shoulder, grinning at the camera. Creepy, not gory: no blood, no wounds, the ghost never grabs or hurts anyone. One continuous shot, natural indoor light, vertical 9:16 video. Quiet room tone with a low eerie drone in the audio, no music with vocals. No text, no captions, no logos, no watermark.
+```
+
+### Ghost filter prank â the bathroom door — ghost-filter-prank-bathroom-door
+
+```text
+Bring the photo to life and keep the person exactly as photographed: same face, hair, skin tone, age and clothes. They stand in front of a closed white door in a bright bathroom, filmed on a phone resting on the sink. They smile at the camera and sway; behind them a tall, gaunt ghost woman with pale grey-green skin, long straight grey hair, round staring white eyes, a wide unnatural grin and long bony clawed fingers rises up from the side, clawed hands spread on either side of them. They turn to look at the door behind them, see nothing, turn back and walk right up to the lens while the ghost leans over their shoulder. Creepy, not gory: no blood, no wounds, the ghost never grabs or hurts anyone. One continuous shot, natural indoor light, vertical 9:16 video. Quiet room tone with a low eerie drone in the audio, no music with vocals. No text, no captions, no logos, no watermark.
+```
+
+### Ghost filter prank â the scream at the sink — ghost-filter-prank-mirror-scream
+
+```text
+Bring the photo to life and keep the person exactly as photographed: same face, hair, skin tone, age and clothes. They stand at a bathroom counter wiping the sink with a yellow sponge, filmed on a phone propped on the counter. A tall, gaunt ghost woman with pale grey-green skin, long straight grey hair, round staring white eyes, a wide unnatural grin and long bony clawed fingers lunges out from behind them with both clawed arms stretched toward the camera. They spin around, see her, scream with their mouth wide open, flinch back clutching what they are holding, and stare at the camera wide-eyed. Creepy, not gory: no blood, no wounds, the ghost never grabs or hurts anyone. One continuous shot, natural indoor light, vertical 9:16 video. Quiet room tone with a low eerie drone in the audio, no music with vocals. No text, no captions, no logos, no watermark.
+```
+
+### Ghost filter prank â hand washing — ghost-filter-prank-sink-boy
+
+```text
+Bring the photo to life and keep the person exactly as photographed: same face, hair, skin tone, age and clothes. They lean on a bathroom sink with the tap running, washing their hands and smiling at the camera, filmed on a phone on the counter. Over their shoulder, a tall, gaunt ghost woman with pale grey-green skin, long straight grey hair, round staring white eyes, a wide unnatural grin and long bony clawed fingers, peers out from behind them, clawed fingers curling around their shoulder line without touching. They keep smiling, then slowly notice something on the screen, freeze and stare at the camera wide-eyed, mouth open. Creepy, not gory: no blood, no wounds, the ghost never grabs or hurts anyone. One continuous shot, natural indoor light, vertical 9:16 video. Quiet room tone with a low eerie drone in the audio, no music with vocals. No text, no captions, no logos, no watermark.
+```
+
+---
+
+## Oouuh AI
+
+- Page: https://www.kavel.ai/video/oouuh-ai
+- Scraped: 2026-10-19
+- Local: [`kavel/oouuh-ai/PROMPTS.md`](kavel/oouuh-ai/PROMPTS.md)
+
+### Template prompt
+
+```text
+Two reference photos, one person each. Keep each exactly as photographed: same face, hair, skin tone and build, and never swap them. Keep their own clothes. They stand side by side in a narrow home kitchen hallway (white cabinets, warm wood floor, a wooden door at the back, warm ceiling light), filmed full body by a phone fixed at chest height. The person from the FIRST photo stands on the left and strums a small natural-wood ukulele in a steady, bouncy rhythm, nodding along. The person from the SECOND photo stands on the right and sings a long, smooth "ooouuh" straight at the camera with one hand on their chest, then bobs their head, points at the lens and leans in with a cheeky grin. Both sway to the beat; on the last strum they look at each other and laugh. One continuous take, vertical 9:16. Audio: a light acoustic ukulele groove with a soft wordless "ooouuh" vocal hum, no other lyrics. No other people, no text, no captions, no logos, no watermark.
+```
+
+### Oouuh AI â the hooded strummer and the diva — oouuh-ai-hooded-duo
+
+```text
+Two reference photos, one person each. Keep each exactly as photographed: same face, hair, skin tone and build, and never swap them. Dress the person from the FIRST photo all in black, a big black hooded jacket with the hood up, and the person from the SECOND photo in a sleeveless electric-blue sequin top, sheer black gloves and black trousers. They stand side by side in a narrow home kitchen hallway (white cabinets, warm wood floor, a wooden door at the back, warm ceiling light), filmed full body by a phone fixed at chest height. FIRST, on the left, strums a small natural-wood ukulele completely deadpan, barely moving. SECOND, on the right, sings a long, dramatic "ooouuh" at the camera, eyes wide, one gloved hand pressed to the chest, swaying slowly like a diva. One continuous take, vertical 9:16. Audio: a light acoustic ukulele groove with a soft wordless "ooouuh" vocal hum, no other lyrics. No other people, no text, no captions, no logos, no watermark.
+```
+
+---
+
+## Tecktonik Dance AI
+
+- Page: https://www.kavel.ai/video/tecktonik-dance-ai
+- Scraped: 2026-10-19
+- Local: [`kavel/tecktonik-dance-ai/PROMPTS.md`](kavel/tecktonik-dance-ai/PROMPTS.md)
+
+### Template prompt
+
+```text
+Use the photo as the main character and keep the person exactly as photographed: same face, hair, skin tone, body shape and outfit. They stand on top of a raised planter of leafy plants above a packed night courtyard party: brick walls washed in red party light, warm string lights overhead, DJ decks right in front, the crowd below cheering with their phones up, filming. They do the Tecktonik electro dance from the 2000s French clubs: sharp, jerky, robotic arm moves, forearms snapping across the face, hands flicking up over the head and out to the sides, wrists rolling, arms windmilling, with quick little footwork on the spot and a focused, deadpan face. Filmed on a phone from inside the crowd, looking slightly up at them, full body in frame, one continuous take, vertical 9:16. Retro 2000s electro house beat in the audio, no vocals. No text, no captions, no logos, no watermark.
+```
+
+### Tecktonik dance AI â the black suit — tecktonik-black-suit
+
+```text
+Use the photo as the main character and keep the person exactly as photographed: same face, hair, skin tone and body shape. Dress them in a sharp all-black suit, black shirt and black shoes. They stand on top of a raised planter above a packed night courtyard party: red-lit brick walls, warm string lights overhead, DJ decks and a DJ right in front, the crowd below filming on their phones. They do the Tecktonik electro dance: both hands snapping up to the sides of the head, arms flicking out and up over the head, forearms crossing the face, wrists rolling, with quick little footwork on the spot and a cool, deadpan face. Filmed on a phone from the crowd, looking slightly up, full body in frame, one continuous take, vertical 9:16. Retro 2000s electro house beat in the audio, no vocals. No text, no captions, no logos, no watermark.
+```
+
+### Tecktonik dance AI â two in sunglasses — tecktonik-sunglasses-duo
+
+```text
+Keep every person in the photo or photos exactly as photographed: same faces, hair, skin tones and body shapes, nobody added except as described. If one photo of one person is given, they dance next to a second dancer in matching style; if two people are given, they are the two dancers. Both wear small black sunglasses; one wears a white strapless top and black leather trousers, the other an all-black outfit. They dance side by side on a stage above a packed night party crowd, drifting smoke, deep red light, warm string lights overhead, phones raised in the crowd. They do the Tecktonik electro dance in sync: one arm bent over the head, forearms sweeping across the face, wrists rolling, sharp robotic arm hits out to the sides, little steps on the spot, faces completely cool. Filmed on a phone from inside the crowd, looking up, one continuous take, vertical 9:16. Retro 2000s electro house beat in the audio, no vocals. No text, no captions, no logos, no watermark.
+```
+
+### Tecktonik dance AI â the white robe and the black hat — tecktonik-thobe-and-suit
+
+```text
+Vertical split screen made of two tall panels side by side. Left panel: the person from the FIRST photo; right panel: the person from the SECOND photo. With only one photo, the same person appears in both panels, in the two outfits below. Keep every face exactly as photographed: same face, hair, skin tone and body shape, never swapped. Left panel: a long flowing white robe. Right panel: a black suit jacket over a white shirt, black trousers and a wide black hat. In both panels they stand on a raised planter above a packed night courtyard party, red-lit brick walls, warm string lights, the crowd below cheering, and do the Tecktonik electro dance: one arm shooting straight up, arms sweeping wide and folding back across the chest, sharp robotic hand flicks, quick little footwork, deadpan faces. Each panel filmed from the crowd, full body, one continuous take, vertical 9:16 overall. Retro 2000s electro house beat in the audio, no vocals. No text, no captions, no logos, no watermark.
+```
+
+### Tecktonik dance AI â magenta top, grey hoodie — tecktonik-pink-top-split
+
+```text
+Vertical split screen made of two tall panels side by side. Left panel: the person from the FIRST photo; right panel: the person from the SECOND photo. With only one photo, the same person appears in both panels, in the two outfits below. Keep every face exactly as photographed: same face, hair, skin tone and body shape, never swapped. Left panel: a bright magenta long-sleeved top and wide black trousers. Right panel: a grey hoodie, dark shorts and trainers. In both panels they stand on a raised planter above a night courtyard party lit in cool blue, warm string lights overhead, DJ decks in front, the crowd below with phones up, and do the Tecktonik electro dance: arms stretched out wide then snapping in, hands flicking up over the head, wrists rolling, quick little footwork. Each panel filmed from the crowd, full body, one continuous take, vertical 9:16 overall. Retro 2000s electro house beat in the audio, no vocals. No text, no captions, no logos, no watermark.
+```
+
+---
+
+## Unforgettable Car Trend
+
+- Page: https://www.kavel.ai/video/unforgettable-car-ai-video
+- Scraped: 2026-10-19
+- Local: [`kavel/unforgettable-car-ai-video/PROMPTS.md`](kavel/unforgettable-car-ai-video/PROMPTS.md)
+
+### Template prompt
+
+```text
+Use the photo as the main character and keep the person exactly as photographed: same face, hair, skin tone, build and clothes. Vertical 9:16 handheld selfie-style clip filmed at arm's length. (1) In an empty concrete car park at dusk, they look into the lens, slide on dark sunglasses and slowly raise two plain green number cards, a 2 and a 4, up to the camera; (2) the cards sweep across and cover the lens for a moment; (3) as the cards pull away the scene has changed: they now stand right in front of a gleaming sports car under warm lights, lean toward the lens and mouth the words to a slow R&B song, one hand cupped by the mouth, then glance back at the car with a proud smile. Smooth cinematic look, shallow depth of field. Slow, smooth R&B beat in the audio. No text, no captions, no logos or badges on the car or the cards, no watermark.
+```
+
+### Unforgettable car trend â the garage reveal — unforgettable-car-garage-coupe
+
+```text
+Use the photo as the main character and keep the person exactly as photographed: same face, hair, glasses, skin tone, build and clothes. Vertical 9:16 handheld selfie-style clip filmed at arm's length. (1) In an empty underground car park with red lines on the floor and a red door behind, they look into the lens deadpan and slowly raise two plain red number cards, a 2 and a 4, up to the camera; (2) the cards sweep across and cover the lens for a moment; (3) as the cards pull away the scene has changed: they now stand in the same car park under bright lights right in front of a gleaming matte-black sports coupe, lean toward the lens and mouth the words to a slow R&B song, one hand cupped by the mouth, then glance back at the car and nod with a proud smile. Smooth cinematic look, shallow depth of field. Slow, smooth R&B beat in the audio. No text, no captions, no logos or badges on the car or the cards, no watermark.
+```
+
+### Unforgettable car trend â the yellow coupe — unforgettable-car-suit-yellow
+
+```text
+Use the photo as the main character and keep the person exactly as photographed: same face, hair, skin tone and build. Dress them in a dark navy suit jacket over an open-collar white shirt. Vertical 9:16 handheld selfie-style clip. (1) On a wide, empty concrete lot at dusk, distant floodlights behind, they look into the lens with a serious face and raise two plain green number cards, a 2 and a 4, up to the camera; (2) the cards sweep across and cover the lens; (3) as the cards pull away a bright yellow sports coupe with a tall rear wing and racing stickers is parked right behind them; they lean in, cup one hand by the mouth and mouth the words to a slow R&B song, then turn to point back at the car. Smooth cinematic look, shallow depth of field. Slow, smooth R&B beat in the audio. No text, no captions, no logos or badges on the car or the cards, no watermark.
+```
+
+### Unforgettable car trend â pink and plum at golden hour — unforgettable-car-pink-porsche
+
+```text
+Use the photo as the main character and keep the person exactly as photographed: same face, hair, skin tone and build. They wear silver wraparound sunglasses and a black zip-up track jacket with pink piping. Vertical 9:16 handheld selfie-style clip. (1) On an empty lot by the water at dusk, they glance at the lens and raise two plain green number cards, a 2 and a 4, up to the camera; (2) the cards sweep across and cover the lens; (3) as the cards pull away it is golden hour on a palm-lined lot and two sports cars are parked behind them, one pastel pink and one deep plum; they lean toward the lens and mouth the words to a slow R&B song, then flick their hair and look back at the cars. Smooth cinematic look, warm sunset light, shallow depth of field. Slow, smooth R&B beat in the audio. No text, no captions, no logos or badges on the cars or the cards, no watermark.
+```
+
+---
+
+## Tip Toeing in My Jordans AI
+
+- Page: https://www.kavel.ai/video/tip-toeing-in-my-jordans-ai
+- Scraped: 2026-10-19
+- Local: [`kavel/tip-toeing-in-my-jordans-ai/PROMPTS.md`](kavel/tip-toeing-in-my-jordans-ai/PROMPTS.md)
+
+### Tip toeing in my Jordans AI â a guy in glasses and a cap — tiptoe-glasses-barn
+
+```text
+Use the photo as the main character and keep their face, hair, glasses, beard, cap and everyday clothes exactly as photographed: a plain T-shirt, jeans and sneakers. Cut between four shots like a 1987 fairytale film scene in a dim wooden barn full of straw and hay bales, warm lantern light, film grain: (1) close-up, the character looks into the lens with a sly grin and presses one finger to the lips, shh; (2) close-up of a young woman with long fair hair in a plain dark dress, eyes wide, both hands over her mouth in shock; (3) wide shot, the character in jeans crouches low and tiptoes across the straw in big exaggerated sneaky steps, knees bent, arms stretched out wide, shoulders bouncing, the woman watching from the foreground; (4) low close-up of their sneakers tiptoeing through the straw on the beat, then back to the character grinning at the camera. Horizontal 16:9 video. Light, sneaky plucked-string tune in the audio, no vocals. No text, no captions, no logos, no watermark.
+```
+
+### Tip toeing in my Jordans AI â the red dress version — tiptoe-red-dress
+
+```text
+Use the photo as the main character and keep her face, skin and hair exactly as photographed. Dress her in a long-sleeved red dress, a pearl necklace and black heels. Cut between four shots like a 1987 fairytale film scene in a dim wooden barn full of straw and hay bales, warm lantern light, film grain: (1) close-up, the woman from the photo looks into the lens with a sly grin and presses one finger to the lips, shh; (2) close-up of a young woman with long fair hair in a plain dark dress, eyes wide, both hands over her mouth in shock; (3) wide shot, the woman in the red dress crouches low and tiptoes across the straw in big exaggerated sneaky steps, knees bent, arms stretched out wide, shoulders bouncing, the woman watching from the foreground; (4) low close-up of her feet in black heels tiptoeing through the straw on the beat, then back to her grinning at the camera. Horizontal 16:9 video. Light, sneaky plucked-string tune in the audio, no vocals. No text, no captions, no logos, no watermark.
+```
+
+---
+
+## Smalltown Boy AI
+
+- Page: https://www.kavel.ai/video/smalltown-boy-ai
+- Scraped: 2026-10-19
+- Local: [`kavel/smalltown-boy-ai/PROMPTS.md`](kavel/smalltown-boy-ai/PROMPTS.md)
+
+### Smalltown Boy AI â two cats in the living room — smalltown-boy-cats-living-room
+
+```text
+Two reference photos, one cat each: the first photo is dancer one, the second is dancer two, each exactly as photographed and never swapped. In a bright, modern living room with a white sofa, a marble floor and a big plant in a white vase: (1) dancer one covers its face with both paws, then drops them and clutches its head, mouth open, and pushes its paws right at the lens while dancer two dances on its hind legs behind it; (2) dancer two takes its turn up close, clutching its head; (3) wide shot, both stand on their hind legs side by side and dance the same 80s routine in sync, arms swinging, shoulders shimmying; (4) both rush the camera, paws first. Real cat anatomy, paws not hands. Ultra-wide phone camera held close at cat height, the nearest face big in frame, full rectangular frame with no black border, warm ceiling light, vertical video. Upbeat 80s synth-pop beat in the audio, no vocals. No people, no text, no logos, no watermark.
+```
+
+### Smalltown Boy AI â a ginger cat and a tuxedo cat — smalltown-boy-ginger-tuxedo-cats
+
+```text
+Two reference photos, one cat each: the first photo is dancer one, the second is dancer two, each exactly as photographed and never swapped. Both wear a red collar with a small gold bell. In a back yard in front of a dark red wooden fence with ivy, on grey tarmac: (1) dancer one runs up to the lens, clutches its head with both paws and screams, wide-eyed, then reaches its paws at the camera while dancer two dances upright behind it; (2) close-up of dancer two clutching its head, mouth wide open; (3) wide shot, both stand on their hind legs side by side and dance the same 80s routine in sync, arms swinging across their bodies; (4) both lunge at the camera, paws reaching for the lens. Real cat anatomy, paws not hands. Ultra-wide phone camera held close at cat height, the nearest face big in frame, full rectangular frame with no black border, overcast daylight, vertical video. Upbeat 80s synth-pop beat in the audio, no vocals. No people, no text, no logos, no watermark.
+```
+
+### Smalltown Boy AI â two dogs on the playground — smalltown-boy-dogs-playground
+
+```text
+Two reference photos, one dog each: the first photo is dancer one, the second is dancer two, faces and fur exactly as photographed and never swapped. Dress dancer one in big black sunglasses, a clear plastic raincoat and black rain boots, and dancer two in a silver sequin blazer and silver boots. On a colourful playground with a slide and swings in front of apartment blocks: (1) dancer one leans into the lens, paws on its head, mouth open, while dancer two dances behind it; (2) close-up of dancer two clutching its head and grinning; (3) wide shot, both stand on their hind legs side by side and dance the same 80s routine in sync, front paws swinging, shoulders shimmying; (4) both step up to the camera together. Real dog anatomy, paws not hands. Ultra-wide phone camera held close at dog height, the nearest face big in frame, full rectangular frame with no black border, daylight, vertical video. Upbeat 80s synth-pop beat in the audio, no vocals. No people, no text, no logos, no watermark.
+```
+
+### Smalltown Boy AI â a tabby and a black cat — smalltown-boy-tabby-black-cats
+
+```text
+Two reference photos, one cat each: the first photo is dancer one, the second is dancer two, each exactly as photographed and never swapped. In front of a dark red wooden fence with ivy, on grey tarmac: (1) dancer one stands on its hind legs right in front of the lens, clutches its head with both paws and lets out a long, dramatic scream while dancer two dances upright in the background; (2) a low shot looking up at the two of them dancing; (3) wide shot, both stand side by side on their hind legs and dance the same 80s routine in sync, paws swinging, little side steps; (4) both lunge at the camera together, mouths open, paws reaching for the lens. Real cat anatomy, paws not hands. Ultra-wide phone camera held close at cat height, the nearest face big in frame, full rectangular frame with no black border, soft daylight, vertical video. Upbeat 80s synth-pop beat in the audio, no vocals. No people, no text, no logos, no watermark.
+```
+
+### Smalltown Boy AI â a cat and a dog — smalltown-boy-cat-and-dog
+
+```text
+Two reference photos, one animal each: the first photo is dancer one, the second is dancer two, each exactly as photographed, a cat and a dog, never swapped. In front of a dark red wooden fence with ivy, on grey tarmac: (1) dancer one runs up to the lens, clutches its head with both paws and screams, then reaches its paws at the camera while dancer two dances upright behind it; (2) close-up of dancer two clutching its head, mouth wide open; (3) wide shot, the two stand on their hind legs side by side and dance the same 80s routine in sync, arms swinging across their bodies; (4) both rush the camera, paws first. Real cat and dog anatomy, paws not hands. Ultra-wide phone camera held close at their eye level, the nearest face big in frame, full rectangular frame with no black border, overcast daylight, vertical video. Upbeat 80s synth-pop beat in the audio, no vocals. No people, no text, no logos, no watermark.
+```
+
+---
+
+## Toc Toc AI Dance
+
+- Page: https://www.kavel.ai/video/toc-toc-ai-dance
+- Scraped: 2026-10-19
+- Local: [`kavel/toc-toc-ai-dance/PROMPTS.md`](kavel/toc-toc-ai-dance/PROMPTS.md)
+
+### Template prompt
+
+```text
+Bring the photo to life and keep every person in it exactly as photographed: same faces, skin, body shapes and the same order from left to right, nobody added or removed. Give each of them a big glossy platinum-blonde bob wig with a straight fringe and a 1970s brown tweed suit with a white shirt and a thin tie. They stand in a line facing the camera and do the Toc Toc dance in perfect sync with completely deadpan faces: knees bent, arms swinging loose at their sides, one knee kicking up high and then the other, small stiff side shuffles, shoulders bouncing on the beat. Fixed phone camera at chest height, everyone in frame from head to shoes, one continuous take, vertical video. Upbeat retro French pop beat in the audio. No text, no captions, no logos, no watermark.
+```
+
+### Toc Toc AI dance â a whole crew of pets in wigs — toc-toc-pet-crew
+
+```text
+Bring the photo to life and keep every animal in it exactly as photographed: same species, breed, fur and faces, nobody added or removed. Dress each of them in a bright wig (curly red, rainbow, blue afro, long pink or blonde) and a loud 70s outfit, tracksuits, sequins and printed jackets, and sneakers. In a cosy living room with a patterned rug they stand up on their hind legs and do the Toc Toc dance together: knees bent, one knee kicking up and then the other, stiff little side shuffles, paws swinging loose, deadpan faces, the one in front leading. Real animal anatomy: paws, never human hands. Fixed camera at the animals' eye level, one continuous take, vertical video. Upbeat retro French pop beat in the audio. No people, no text, no logos, no watermark.
+```
+
+### Toc Toc AI dance â the knee-kick shuffle in a laundromat — toc-toc-laundromat-shuffle
+
+```text
+Bring the photo to life and keep the person exactly as photographed: same face, skin and body. Give them a huge, round mop of glossy hair, a white tank top, white shorts and chunky white boots. In a bright laundromat lined with washing machines they face the camera with a completely flat expression and do the Toc Toc dance: knees bent, arms hanging loose, one knee kicking up high, then the other, a stiff shuffle to the side and a half turn, then back to staring at the lens. Fixed camera at waist height, whole body in frame, daylight from the windows, one continuous take, vertical video. Upbeat retro French pop beat in the audio. No text, no captions, no logos, no watermark.
+```
+
+### Toc Toc AI dance â a baby does the shuffle — toc-toc-baby-bedroom
+
+```text
+Bring the photo to life and keep the baby exactly as photographed: same face, hair, clothes and room. Standing on the bedroom carpet, the baby does the Toc Toc dance for the camera: bent little knees, bouncing on the beat, one foot kicking up and then the other, arms swinging loose at the sides, a tiny stiff shuffle sideways and a proud grin at the end. Natural toddler balance and proportions. Handheld phone camera at the baby's height, soft home light, one continuous take, vertical video. Upbeat retro French pop beat in the audio. No text, no captions, no logos, no watermark.
+```
+
+---
+
+## Chinaza Dynamic Filter AI Video
+
+- Page: https://www.kavel.ai/video/chinaza-dynamic-filter-ai-video
+- Scraped: 2026-10-19
+- Local: [`kavel/chinaza-dynamic-filter-ai-video/PROMPTS.md`](kavel/chinaza-dynamic-filter-ai-video/PROMPTS.md)
+
+### Template prompt
+
+```text
+Bring the photo to life and keep everyone in it exactly as photographed: same faces, hair, clothes and place. They start standing still facing the camera, then lean right into the lens singing along to an upbeat pop chorus with big open-mouthed grins, throw both arms out wide, lean back laughing, point a finger straight up at the camera on the beat, fire finger guns at the lens and finish clapping their hands together. Handheld phone-camera feel that pushes in as they lean forward, natural light, one continuous take, vertical video. Upbeat sing-along pop music in the audio. No text, no logos, no watermark.
+```
+
+### Chinaza dynamic filter â a couple on the beach sing it to the camera — chinaza-beach-couple
+
+```text
+Bring the photo to life and keep both people exactly as photographed: same faces, hair, clothes and place. Two people stand side by side in the sun at a low beach wall. In sync they lean right into the lens singing along with big grins, throw their arms out wide, lean back laughing, point a finger straight up at the camera on the beat, fire finger guns at the lens and finish clapping. Handheld phone-camera feel that pushes in as they lean forward, bright daylight, one continuous take, vertical video. Upbeat sing-along pop music in the audio. No text, no logos, no watermark.
+```
+
+### Chinaza dynamic filter â a baby does the whole routine — chinaza-baby-bedroom
+
+```text
+Bring the photo to life and keep the child exactly as photographed: same face, hair, clothes and room. The little one waves both hands at the camera, toddles right up to the lens and points a tiny finger at it, pulls a surprised round-mouthed face, bursts out laughing, waves again and leans back in for one more point, as if singing along to the chorus. Handheld phone-camera feel that pushes in close, soft indoor light, one continuous take, vertical video. Upbeat sing-along pop music in the audio. No text, no logos, no watermark.
+```
+
+### Chinaza dynamic filter â a terrace photo it starts from — chinaza-photo-terrace-jeans
+
+```text
+Bring the photo to life and keep the person exactly as photographed: same face, hair, clothes and place. On a restaurant terrace she leans right into the lens singing along with her mouth wide open, steps back and flings both arms out, tips her head back laughing, then points a finger straight up at the camera and grins. Handheld phone-camera feel that pushes in as she leans forward, daylight, one continuous take, vertical video. Upbeat sing-along pop music in the audio. No text, no logos, no watermark.
+```
+
+---
+
+## Bad Times AI Trend Video
+
+- Page: https://www.kavel.ai/video/bad-times-ai-video
+- Scraped: 2026-10-19
+- Local: [`kavel/bad-times-ai-video/PROMPTS.md`](kavel/bad-times-ai-video/PROMPTS.md)
+
+### Template prompt
+
+```text
+Bring the photo to life and keep the subject exactly as photographed: same face, fur or hair, clothes and room. Facing the camera, they act out a dramatic argument with it, lip-syncing every word: wide eyes and a frown, jabbing straight at the lens, grabbing its own head in disbelief, pushing one flat palm or paw toward the camera like "hold on", a big shrug, then a sudden lunge right up to the lens so the face fills the frame, and back to a serious stare. Exaggerated facial acting with clear mouth shapes on every syllable. If the subject is a pet, every gesture is made with its own furry front paws and it keeps real animal anatomy the whole time; no human hand, finger or arm ever appears anywhere in the frame, including from the camera side. Fixed phone camera at chest height, one continuous take, vertical video. Upbeat dance track in the audio. No text, no captions, no logos, no watermark.
+```
+
+### Bad Times AI trend â a husky argues with the camera — bad-times-husky-kitchen
+
+```text
+Bring the photo to life and keep the dog exactly as photographed: same breed, fur, eyes and kitchen. The dog stands up on its hind legs facing the camera and argues with it, lip-syncing: it puts a paw to its nose like "shh", raises a paw at the lens, holds both front paws up beside its head like "hold on", tilts its head with a suspicious frown, then lunges at the camera so its face fills the frame and pushes a paw toward the lens. Real dog anatomy: furry paws, never human hands. Fixed phone camera at chest height, one continuous take, vertical video. Upbeat dance track in the audio. No text, no captions, no logos, no watermark.
+```
+
+### Bad Times AI trend â a baby in a playpen gives the camera attitude — bad-times-baby-crib
+
+```text
+Bring the photo to life and keep the baby exactly as photographed: same face, outfit and room. Seen from above, the baby stands facing the camera and acts out an argument, lip-syncing: points both little fingers up at the lens, turns both palms out like "what?", waves one hand dismissively, toddles back and shrugs with arms flung out, then steps right up to the lens with a cheeky scowl and points again. Exaggerated toddler expressions. Handheld phone camera looking down, one continuous take, vertical video. Upbeat dance track in the audio. No text, no captions, no logos, no watermark.
+```
+
+### Bad Times AI trend â two toddlers do the dispute side by side — bad-times-two-babies
+
+```text
+Bring the photo to life and keep the toddler exactly as photographed: same face, hair, clothes and room. Close to the camera, the toddler acts out an argument, lip-syncing: a finger tapped to the nose, a palm pushed flat at the lens like "hold on", a scrunched-up angry face, then backs away across the room, flings both arms out in a shrug and shouts at the camera, before running back for a close-up stare. Exaggerated toddler expressions. Fixed phone camera at the toddler's eye level, one continuous take, vertical video. Upbeat dance track in the audio. No text, no captions, no logos, no watermark.
+```
+
+---
+
+## Alors on Danse AI
+
+- Page: https://www.kavel.ai/video/alors-on-danse-ai-meme
+- Scraped: 2026-10-19
+- Local: [`kavel/alors-on-danse-ai-meme/PROMPTS.md`](kavel/alors-on-danse-ai-meme/PROMPTS.md)
+
+### Template prompt
+
+```text
+Two reference photos, one animal each. The animal in the FIRST photo stands on the LEFT; the animal in the SECOND photo stands on the RIGHT. Keep each animal exactly as photographed: same species, breed, fur or feathers, markings and face, and never swap them. Both stand upright at a small white desk in a bare, seamless white photo studio, with a compact black mini keyboard and an open silver laptop on the desk. The left one taps out a beat on the keys with its paws while the right one nods along, points at the screen and throws a paw up in excitement; then one of them leans right into the lens with a wide-eyed face. To finish, both leave the desk and run toward the camera side by side across the empty white floor, dancing in step. Real animal anatomy: paws, claws or wings, never human hands. Locked-off eye-level camera, soft even studio light, one continuous take, vertical video. Upbeat electro-house beat in the audio. No people, no text, no logos, no watermark.
+```
+
+### Alors on Danse AI meme â a golden retriever and a ginger cat — alors-on-danse-golden-cat
+
+```text
+Two reference photos, one animal each: the first photo stands on the left, the second on the right, each exactly as photographed and never swapped. In a bare white studio they stand at a white desk with a black mini keyboard and an open laptop. The left one rests both front paws on the keys and plays; the right one sings with its mouth wide open, throws a paw high in the air and sways, while the left one turns and grins at it. Real animal anatomy, no human hands. Locked-off eye-level camera, soft studio light, one continuous take, vertical video. Upbeat electro-house beat in the audio. No people, no text, no logos, no watermark.
+```
+
+### Alors on Danse AI meme â two chihuahuas in costume — alors-on-danse-chihuahuas
+
+```text
+Two reference photos, one animal each: the first photo stands on the left, the second on the right, faces and fur exactly as photographed and never swapped. Dress the left one in a white shirt with black trousers and the right one in a shiny pink suit. In a bright white studio they stand upright at a desk with a laptop and a mini keyboard, tapping the keys and bobbing their heads, then take turns pushing their faces right up to the lens. To finish they walk toward the camera side by side, swinging their arms and dancing in step. Real dog anatomy, paws not hands. Eye-level camera, soft studio light, one continuous take, vertical video. Upbeat electro-house beat in the audio. No people, no text, no logos, no watermark.
+```
+
+### Alors on Danse AI meme â a cat and a rat in the studio — alors-on-danse-cat-rat
+
+```text
+Two reference photos, one animal each: the first photo stands on the left, the second on the right, faces and fur exactly as photographed and never swapped. Dress the left one in a black-and-white striped shirt and the right one in a black suit and bowler hat. They stand upright at a small white desk with a mini keyboard and laptop in a bare white studio: the left one plays, the right one points at the screen and waves along, then leans into the lens. Then both turn and run across the empty white floor and dance side by side, high-stepping in sync. Real animal anatomy, no human hands. Eye-level camera, soft studio light, one continuous take, vertical video. Upbeat electro-house beat in the audio. No people, no text, no logos, no watermark.
+```
+
+### Alors on Danse AI meme â two parrots make the beat — alors-on-danse-parrots
+
+```text
+Two reference photos, one bird each: the first photo stands on the left, the second on the right, feathers and markings exactly as photographed and never swapped. Two birds perch at a white desk against a plain white wall, a small black mini keyboard and an open laptop in front of them. The left bird taps the keys with one foot, the right bird bobs its head, lifts a foot and points at the screen, then the left bird leans its face right into the lens. Real bird anatomy: claws and wings only, never human hands. Locked-off eye-level camera, soft daylight, one continuous take, vertical video. Upbeat electro-house beat in the audio. No people, no text, no logos, no watermark.
+```
+
+---
+
+## Gas Station Trend AI
+
+- Page: https://www.kavel.ai/video/gas-station-ai-video
+- Scraped: 2026-10-19
+- Local: [`kavel/gas-station-ai-video/PROMPTS.md`](kavel/gas-station-ai-video/PROMPTS.md)
+
+### Template prompt
+
+```text
+One to three reference photos, one character each: a person, a pet or a toy. Keep every face, hairstyle, body, fur and outfit exactly as photographed and never swap them. Golden-hour sunset over a wide, empty gas station parking lot, trucks parked far in the background, two cars side by side with their doors flung open. Shot 1: the first character stands alone in the middle of the lot and breaks into a loose, bouncy dance, shoulders rolling, then throws both arms high. Shot 2: handheld fisheye selfie â the next character holds the camera at arm's length, grins and dances into the lens. Shot 3: a character leans out of an open car door, looks around, then climbs out smiling and joins in. Shot 4: wide shot of everyone dancing together by the cars. With only one photo, that one character plays every shot. Wide-angle action-camera look, warm low sun, quick cuts on the beat, vertical video. Upbeat dance-pop music in the audio. No other people, no text, no logos on the cars or the station, no watermark.
+```
+
+### Gas Station Trend AI â a panda dances at the pumps — gas-station-panda
+
+```text
+One reference photo of a pet or a stuffed animal; keep its fur colour, markings and face exactly as photographed. Bright daytime at a gas station forecourt. Shot 1: standing upright on its hind legs beside a yellow sports car with no badges, it holds the camera at arm's length in a fisheye selfie and waves a paw. Shot 2: under the pump canopy it dances, bouncing side to side with both paws up, then steps toward the camera and wiggles its shoulders. Real animal anatomy: paws, never human hands. Wide-angle handheld look, quick cuts on the beat, vertical video. Upbeat dance-pop music in the audio. No people, no text, no station or car logos, no watermark.
+```
+
+### Gas Station Trend AI â two friends at sunset — gas-station-sunset-duo
+
+```text
+Two or three reference photos, one person each; keep every face, hairstyle and outfit exactly as photographed and never swap them. Golden-hour sunset over an empty gas station parking lot with trucks far behind, two cars parked side by side with the doors open. Shot 1: the person from the FIRST photo, in a white shirt and jeans, dances alone in the middle of the lot, rolling his shoulders and flicking his hands. Shot 2: handheld fisheye selfie of the SECOND person grinning and swinging the camera. Shot 3: the last person leans out of the open car door, glances around, looks straight into the lens, then breaks into a wide smile. Warm low sun, wide-angle action-camera look, quick cuts on the beat, vertical video. Upbeat dance-pop music in the audio. No other people, no text, no logos, no watermark.
+```
+
+### Gas Station Trend AI â three friends take turns — gas-station-friends
+
+```text
+Three reference photos, one friend each; keep every face, hairstyle and outfit exactly as photographed and never swap them. Sunset at a gas station parking lot, a red car and a dark SUV parked side by side with the doors open. Shot 1: the friend from the FIRST photo, in a black jacket and sunglasses, stands alone in the open lot, then throws both arms up to the sky. Shot 2: the friend from the SECOND photo, in green-tinted round glasses, holds the camera at arm's length for a fisheye selfie and nods to the beat. Shot 3: the friend from the THIRD photo, in a beige sweater, climbs out of the red car and strolls toward the camera, hands loose, dancing. Wide-angle handheld look, warm light, quick cuts on the beat, vertical video. Upbeat dance-pop music in the audio. No other people, no text, no car or station logos, no watermark.
+```
+
+### Gas Station Trend AI â golden hour, one in costume — gas-station-golden-hour
+
+```text
+Three reference photos, one person each; keep every face exactly as photographed and never swap them. Golden hour over an empty gas station parking lot, trucks far behind, two cars parked with the doors open. Shot 1: the person from the FIRST photo, in a lilac jacket and khaki cargo trousers, dances alone, hair flying, then throws both arms up into the sunset. Shot 2: the person from the SECOND photo, in a dark leather jacket, swings the camera round for a fisheye selfie and dances into the lens. Shot 3: the person from the THIRD photo, dressed in an 18th-century costume with a powdered updo, a ruffled lace collar and a burgundy coat, climbs out of the car and stares into the camera before laughing. Warm low sun, wide-angle action-camera look, quick cuts on the beat, vertical video. Upbeat dance-pop music in the audio. No other people, no text, no logos, no watermark.
+```
+
+---
+
+## Burning Bridges AI Video
+
+- Page: https://www.kavel.ai/video/burning-bridges-ai-video
+- Scraped: 2026-10-19
+- Local: [`kavel/burning-bridges-ai-video/PROMPTS.md`](kavel/burning-bridges-ai-video/PROMPTS.md)
+
+### Burning Bridges AI video â a beanie and a silver shaker — burning-bridges-beanie
+
+```text
+One reference photo of a person; keep their face, build and skin tone exactly as photographed. Dress them in a beige knit beanie and a cream padded vest over a white sweater. A crowded chandelier-lit party room with long tables, friends in caps and cream jackets crowding round. They hold a silver cocktail shaker in the left hand throughout: they bounce out of the crowd rapping, point two fingers at the lens, swing their arms wide, pour into a friend's glass, then cover their eyes with one hand and look round for "where she at?" while everyone laughs. Handheld music-video camera, warm chandelier glow, film grain, widescreen. Original hip-hop beat in the audio. No famous people, no text, no logos, no watermark.
+```
+
+### Burning Bridges AI video â sunglasses and a cream jacket — burning-bridges-white-suit
+
+```text
+One reference photo of a person; keep their face, beard and build exactly as photographed. Dress them in dark sunglasses, a cream knit cap and a cream jacket over a white shirt. A packed party room under crystal chandeliers, guests in black suits and one in a black-and-white checked scarf cheering behind. With a silver shaker in the left hand the whole way, they walk out of the crowd toward the camera, flick their fingers at the lens, grab their collar with a grin, raise the shaker, and twice cover their eyes with an open hand for "where she at?". Handheld music-video camera, creamy bokeh, halation off the chandeliers, film grain, widescreen. Original hip-hop beat in the audio. No famous people, no text, no logos, no watermark.
+```
+
+### Burning Bridges AI video â a penthouse with the city behind — burning-bridges-skyline
+
+```text
+One reference photo of a person; keep their face, beard, build and skin tone exactly as photographed. Dress them in a black cap, a black T-shirt and layered silver chains. A penthouse party at night, chandeliers overhead and the city lights in the floor-to-ceiling windows, a crew of friends in black packed in behind. Silver shaker in the left hand throughout: they lean toward the lens rapping, point at the camera, wave a hand up high, raise the shaker to the crew, then cover their eyes with one hand for "where she at?" as the crew laughs. Handheld music-video camera, warm light, film grain, widescreen. Original hip-hop beat in the audio. No famous people, no text, no logos, no watermark.
+```
+
+---
+
+## The Jawn Dance AI
+
+- Page: https://www.kavel.ai/video/jawn-dance-ai-video
+- Scraped: 2026-10-19
+- Local: [`kavel/jawn-dance-ai-video/PROMPTS.md`](kavel/jawn-dance-ai-video/PROMPTS.md)
+
+### Template prompt
+
+```text
+Bring the photo to life and keep the subject exactly as photographed: same face, hair or fur, body, outfit and background. The subject stands facing the camera holding a drink at chest height (a cup, a bottle or a glass) and does the Jawn dance: weight rocking side to side on the kick drum, knees soft, feet mostly planted, shoulders and chest riding the beat, head nodding on the count, the free hand making small casual moves close to the chest, never above the shoulders. A completely deadpan face for most of the clip, then a small smirk at the very end. If the subject is a baby or a pet, keep real proportions: a baby stays a baby, paws stay paws. Fixed phone camera at chest height, natural light, one continuous take, vertical video. Upbeat tech-house beat in the audio. No text, no captions, no logos, no watermark.
+```
+
+### The Jawn dance AI â a pug in a hoodie — jawn-dance-pug-hoodie
+
+```text
+Bring the photo to life and keep the dog exactly as photographed: same breed, fur colour, face and markings. Dress it in a colourful colour-block hoodie and black-and-white high-top sneakers. At night on a wet street lined with neon signs and graffiti walls, the dog stands up on its hind legs facing the camera and does the Jawn bounce: rocking side to side on the beat, lifting one sneaker then the other, front paws tucked at its chest, a completely deadpan face. Real dog anatomy: paws, never human hands. Low camera at the dog's eye level, neon reflections on the wet ground, one continuous take, vertical video. Upbeat tech-house beat in the audio. No people, no text, no brand logos, no watermark.
+```
+
+### The Jawn dance AI â a cavoodle with a coffee cup — jawn-dance-cavoodle-coffee
+
+```text
+Bring the photo to life and keep the dog exactly as photographed: same face, fur colour and markings. Dress it in a slouchy pink knit beanie and white fleece pyjamas, holding a plain takeaway coffee cup in both front paws at chest height. In a cosy living room with soft afternoon light, the dog stands upright and grooves to the beat: shoulders bouncing, rocking side to side, head nodding, a straight face, then a happy grin over the cup at the end. Real dog anatomy: paws, not human hands. Fixed camera at chest height, one continuous take, vertical video. Upbeat tech-house beat in the audio. No people, no text, no logos on the cup, no watermark.
+```
+
+### The Jawn dance AI â a 3D mom in pyjamas — jawn-dance-mom-pajamas
+
+```text
+Turn the person in the photo into a soft 3D animated character while keeping their face, hair and build recognisable. They wear a white T-shirt and pink pyjama bottoms with hearts and hold an iced drink, standing on a terrace with string lights and roses at sunset. They take a sip, then slide into the Jawn dance: hips rocking side to side on the beat, shoulders bouncing, free hand loose at the chest, a cool deadpan look that breaks into a laugh at the end. Animated feature-film look, warm golden light, fixed camera, one continuous take, vertical video. Upbeat tech-house beat in the audio. No text, no captions, no logos, no watermark.
+```
+
+### The Jawn dance AI â a baby with a bottle — jawn-dance-onesie-baby
+
+```text
+Bring the photo to life and keep the baby exactly as photographed: same face, hair, onesie and room. The baby stands on the bed, steadied by an adult's hands at the sides, holding a milk bottle with both hands at chest height, and bops to the beat: knees bouncing, shoulders rocking side to side, eyes wide and face completely serious, then a tiny smile. Real baby proportions and movements. Phone camera at the baby's eye level, warm indoor light, one continuous take, vertical video. Upbeat tech-house beat in the audio. No text, no captions, no logos, no watermark.
+```
+
+---
+
+## Car Jump AI Video
+
+- Page: https://www.kavel.ai/video/car-jump-ai-video
+- Scraped: 2026-10-19
+- Local: [`kavel/car-jump-ai-video/PROMPTS.md`](kavel/car-jump-ai-video/PROMPTS.md)
+
+### Template prompt
+
+```text
+Track the exact camera movement, framing, facial expressions, and body movements from the video. Keep the face, hairstyle, body, clothing, and overall appearance exactly the same as in the reference image, with no changes or distortion. Use the video's background and environment. Output in 9:16 vertical format.
+```
+
+### Car jump AI video â a yellow sedan sails over a man in a suit — car-jump-tt-yellow-sedan
+
+```text
+Track the exact camera movement, framing, facial expressions, and body movements from the video. Keep the face, hairstyle, body, clothing, and overall appearance exactly the same as in the reference image, with no changes or distortion. Use the video's background and environment. Output in 9:16 vertical format. The template clip: a man in a grey suit on a chair in a dry field as a yellow sedan flies over him and lands beside him.
+```
+
+### Car jump AI video â an SUV jumps the ridge behind him in the desert — car-jump-ig-black-shirt
+
+```text
+Track the exact camera movement, framing, facial expressions, and body movements from the video. Keep the face, hairstyle, body, clothing, and overall appearance exactly the same as in the reference image, with no changes or distortion. Use the video's background and environment. Output in 9:16 vertical format. The template clip: a man in a black shirt on a camping chair in the desert as an SUV jumps the ridge behind him.
+```
+
+### Car jump AI video â the SUV lands right beside his chair — car-jump-ig-sunglasses-close
+
+```text
+Track the exact camera movement, framing, facial expressions, and body movements from the video. Keep the face, hairstyle, body, clothing, and overall appearance exactly the same as in the reference image, with no changes or distortion. Use the video's background and environment. Output in 9:16 vertical format. The template clip: a man in sunglasses on a chair in a field as a dark SUV flies over him and lands right next to him.
+```
+
+### Car jump AI video â an SUV over a family picnic at sunset — car-jump-ig-family-picnic
+
+```text
+Track the exact camera movement, framing, facial expressions, and body movements from the video. Keep the face, hairstyle, body, clothing, and overall appearance exactly the same as in the reference image, with no changes or distortion. Use the video's background and environment. Output in 9:16 vertical format. The template clip: a couple and their baby on a rug in the desert at sunset as a black SUV jumps the dune behind them.
+```
+
+### Car jump AI video â a jeep over a man in a brown coat — car-jump-ig-brown-coat
+
+```text
+Track the exact camera movement, framing, facial expressions, and body movements from the video. Keep the face, hairstyle, body, clothing, and overall appearance exactly the same as in the reference image, with no changes or distortion. Use the video's background and environment. Output in 9:16 vertical format. The template clip: a man in a brown coat on a chair in the sand as a jeep flies over him.
+```
+
+### Car jump AI video â a black SUV over her chair in the dunes — car-jump-ig-pink-hijab
+
+```text
+Track the exact camera movement, framing, facial expressions, and body movements from the video. Keep the face, hairstyle, body, clothing, and overall appearance exactly the same as in the reference image, with no changes or distortion. Use the video's background and environment. Output in 9:16 vertical format. The template clip: a woman in a pink dress and hijab on a chair in the dunes as a black SUV jumps over her.
+```
+
+---
+
+## Earth Zoom Out AI
+
+- Page: https://www.kavel.ai/video/earth-zoom-out-ai
+- Scraped: 2026-10-19
+- Local: [`kavel/earth-zoom-out-ai/PROMPTS.md`](kavel/earth-zoom-out-ai/PROMPTS.md)
+
+### Template prompt
+
+```text
+Start exactly on the photo: the person from the photo in the same place, same pose and same framing. The camera pulls straight back and up in one smooth continuous move: the person shrinks into the scene, then the street or landscape around them, the whole town or coastline, up through a layer of white clouds, out of the blue atmosphere, until the whole planet Earth hangs in black space with the sun on its edge. Photorealistic, seamless zoom out, no cuts, vertical video. No text, no logos, no watermark.
+```
+
+### Earth zoom AI â from space down to a man under a waterfall — earth-zoom-waterfall-dive
+
+```text
+Begin in black space looking at the whole planet Earth. The camera dives straight down in one smooth continuous move: through the blue atmosphere, through white clouds, down over green mountains and forest, toward a tall waterfall, and lands on the person from the photo standing in the pool at its foot with arms spread wide, keeping their face, hair and clothes exactly as in the photo. Photorealistic, seamless zoom in, no cuts, vertical video. No text, no logos, no watermark.
+```
+
+### Earth zoom AI â down through the clouds onto a summit — earth-zoom-summit-dive
+
+```text
+Begin high above the Earth, looking down on a sea of white clouds. The camera dives straight down in one smooth continuous move: through the clouds, past a mountain ridge, onto a rocky summit where the person from the photo stands looking out over the peaks, then circles round to their face. Keep their face, hair and clothes exactly as in the photo. Clear blue sky, bright morning light, photorealistic, seamless zoom in, no cuts, vertical video. No text, no logos, no watermark.
+```
+
+### Earth zoom AI â snowfields, a green valley, then him on the ridge — earth-zoom-kashmir-dive
+
+```text
+Begin in black space above the whole planet Earth. The camera dives straight down in one smooth continuous move: through the atmosphere, over snow-capped mountain peaks and a glacier lake, down into a green valley, and finds the person from the photo walking on the ridge, ending on the same framing as the photo. Keep their face, hair and clothes exactly as in the photo. Photorealistic, seamless zoom in, no cuts, vertical video. No text, no logos, no watermark.
+```
+
+### Earth zoom AI â from orbit to a hiker on a volcano summit — earth-zoom-rinjani-summit
+
+```text
+Begin in orbit looking down at the Earth. The camera dives straight down in one smooth continuous move: through a layer of white clouds, over a volcano with a crater lake, and lands on the person from the photo standing on the summit, ending on the same framing as the photo. Keep their face, hair and clothes exactly as in the photo. Clear high-altitude light, photorealistic, seamless zoom in, no cuts, vertical video. No text, no logos, no watermark.
+```
+
+---
+
+## AI Mecha Transformation
+
+- Page: https://www.kavel.ai/video/ai-mecha-transformation
+- Scraped: 2026-10-19
+- Local: [`kavel/ai-mecha-transformation/PROMPTS.md`](kavel/ai-mecha-transformation/PROMPTS.md)
+
+### Template prompt
+
+```text
+The person in the photo reaches out and touches the fruit or object beside them. Bright light pulses out of it and runs up their arm, and armor plates in the same colors as the object unfold out of it and click into place over their arms, legs and torso, piece by piece, until they stand in a full mecha suit themed on that object, then an angular helmet with a narrow visor seals over their face and they strike a pose. Keep their face recognisable until the helmet closes. Smooth cinematic camera push-in, vertical video. The chest is a flat, angular breastplate of overlapping panels; light glows only in thin lines along the seams. Original mecha design, not any existing robot, anime or film franchise; no logos, no text, no watermark.
+```
+
+### AI mecha transformation â a carrot bunch becomes orange armor — mecha-carrot-suit
+
+```text
+The person in the photo touches a bunch of fresh carrots. Bright orange light pulses through them, and orange and leaf-green armor panels shaped like carrot segments fold out and lock around their arms, legs and torso, forming a lightweight carrot-themed mecha suit with glowing orange joints and leafy green fins on the shoulders, the helmet left open so their face stays visible. They spin once and strike a heroic pose. Keep their face recognisable. Cinematic slow-motion moments, vertical video. The chest is a flat, angular breastplate of overlapping panels; light glows only in thin lines along the seams. Original mecha design, not any existing robot, anime or film franchise; no logos, no text, no watermark.
+```
+
+### AI mecha transformation â a golden retriever in gold-and-white armor — mecha-dog-armor
+
+```text
+The dog in the photo wags its tail and paws at the air. Soft golden light wraps around it, and sleek gold-and-white armor plates assemble over its back, legs and head, forming a playful mecha suit with glowing blue paws, and the armored dog bounds toward the camera, tongue out. Keep it clearly the same dog, with the same coat color, ears and face. Bright daylight, cinematic tracking shot, vertical video. Original mecha design, not any existing robot, anime or film franchise; no logos, no text, no watermark.
+```
+
+### AI mecha transformation â a motorcycle breaks apart into body armor — mecha-motorcycle-armor
+
+```text
+The person in the photo touches the tank of their motorcycle. Cyan light races along the frame, and the motorcycle breaks apart into armor pieces that fly onto their body and lock into a matte black and gunmetal mecha suit with thin cyan lines, the two wheels becoming round shields on the shoulders, and an angular helmet with a narrow slit visor seals over their face. Keep their face recognisable until the helmet closes. Dramatic low-angle camera, vertical video. The chest is a flat, angular breastplate of overlapping panels; light glows only in thin lines along the seams. Original mecha design, not any existing robot, anime or film franchise; no logos, no text, no watermark.
+```
+
+### AI mecha transformation â armor forms around her mid-fall — mecha-falling-armor
+
+```text
+Glowing white lines trace across the clothes of the person in the photo and harden into sleek dark armor with blue light seams, piece by piece, as wind whips their hair. Their expression turns determined, they crouch, and they blast straight up into a sky of burning orange clouds, blue light trailing behind them. Keep their face recognisable. Epic cinematic close-ups, vertical video. The chest is a flat, angular breastplate of overlapping panels; light glows only in thin lines along the seams. Original mecha design, not any existing robot, anime or film franchise; no logos, no text, no watermark.
+```
+
+### AI mecha transformation â a warrior becomes a winged white-gold mecha — mecha-winged-warrior
+
+```text
+The person in the photo is wrapped in a swirl of blue-white light, and when it clears they stand as a towering winged mecha in white-and-gold armor, wide blade-like wings spreading behind them in a ruined city at night. They raise a long glowing blade and a beam of light tears across the stormy sky. Epic cinematic camera, sparks and wind, vertical video. The chest is a flat, angular breastplate of overlapping panels; light glows only in thin lines along the seams. Original mecha design, not any existing robot, anime or film franchise; no logos, no text, no watermark.
+```
+
+### AI mecha transformation â a device in his hands summons a giant robot — mecha-giant-robot-summon
+
+```text
+The person in the photo pulls a glowing metal device from their pocket and grips it with both hands. Blue lightning crackles across their body, the light around them turns to a rainy night, and a towering blue-lit giant robot rises up behind them and stands guard as they look up at it. Keep their face recognisable. Sparks, wet reflections, cinematic low angle, vertical video. Original robot design, not any existing robot, anime or film franchise; no logos, no text, no watermark.
+```
+
+---
+
+## Zombie AI Video
+
+- Page: https://www.kavel.ai/video/zombie-ai-video
+- Scraped: 2026-10-19
+- Local: [`kavel/zombie-ai-video/PROMPTS.md`](kavel/zombie-ai-video/PROMPTS.md)
+
+### Template prompt
+
+```text
+Two reference photos, one person each. Keep each face, hairstyle and build exactly as photographed and never swap them. Shot 1: in a dim, abandoned house during a zombie apocalypse, the person from the SECOND photo has turned into a zombie â grey cracked skin, clouded white eyes, torn clothes â and lunges forward snarling. Shot 2: the person from the FIRST photo raises a pistol with shaking hands, tears running down their face, unable to fire. Shot 3: a warm flashback of the two of them laughing and holding each other in a golden sunset field, both looking exactly like their photos. Shot 4: back in the dark room, the first person slowly lowers the gun. Cinematic film look, shallow depth of field, slow emotional piano score, no dialogue. No other people, no text, no logos.
+```
+
+### Zombie AI video â he aims at the girlfriend who turned — zombie-ai-kitchen-couple-field
+
+```text
+Two reference photos, one person each; keep both faces exactly as photographed and never swap them. Shot 1: in a ruined white kitchen, the person from the FIRST photo, in a black T-shirt, raises a pistol with shaking hands, eyes wet, unable to fire. Shot 2: across the room, the person from the SECOND photo, in a white shirt, has turned into a zombie â grey veined skin, clouded eyes â and stumbles toward them. Shot 3: a black-and-white flashback of the two of them hugging and laughing in tall grass. Shot 4: golden-hour close-up of the first person kissing the second person on the forehead. Cinematic, emotional piano score, no dialogue, no other people, no text, no logos.
+```
+
+### Zombie AI video â an animated couple, a cabin and a snowy memory — zombie-ai-snow-couple-cartoon
+
+```text
+Two reference photos, one person each, both turned into 3D animated film characters while keeping their recognisable faces and hair. Shot 1: inside a dark wooden cabin, the person from the SECOND photo has become a grey, snarling zombie. Shot 2: a bright snowy hillside flashback â the two of them holding hands and laughing, then hugging in the low winter sun. Shot 3: back in the cabin, the person from the FIRST photo, in a knit beanie, holds a pistol with trembling hands, crying, the zombie reaching for them. Animated feature-film look, soft cinematic light, emotional score, no dialogue, no text, no logos. Original characters, not any existing film character.
+```
+
+### Zombie AI video â noodles with the wife who turned — zombie-ai-noodle-dinner-couple
+
+```text
+Two reference photos, one person each; keep both faces exactly as photographed and never swap them. Shot 1: in a sunlit old village kitchen, the person from the FIRST photo sits at a wooden table eating instant noodles with chopsticks, tears in their eyes. Shot 2: across the table, the person from the SECOND photo is a zombie with grey skin and white eyes, sitting quietly in the chair for once, head tilted. Shot 3: a warm memory of the same two people at the same table, both laughing and eating noodles together. Bittersweet, a little funny, soft guitar score, no dialogue, no other people, no text, no logos.
+```
+
+### Zombie AI video â the gun, then the meadow, the sofa and the beach — zombie-ai-wife-memories
+
+```text
+Two reference photos, one person each; keep both faces exactly as photographed and never swap them. Shot 1: close-up of the person from the FIRST photo, in a black shirt, holding a pistol low with trembling hands, unable to raise it, tears on their face. Shot 2: a wide flashback of the two of them embracing in a wildflower meadow at sunrise. Shot 3: the two of them cuddled on a living-room sofa, laughing. Shot 4: the two of them sitting side by side on a beach at sunset, seen from behind. Cinematic film look, slow emotional piano, no dialogue, no other people, no text, no logos.
+```
+
+### Zombie AI video â a ginger cat crosses the rubble to her — zombie-ai-ginger-cat-autumn
+
+```text
+One reference photo of a person and one of their cat; keep the person's face and the cat's colour and markings exactly as photographed. Shot 1: in a collapsed, dusty building, the person holds a pistol low at their side, frightened and crying. Shot 2: the cat walks toward them across the rubble in a shaft of light and the person opens their arms. Shot 3: a warm flashback of the person sitting in a sunset meadow holding the cat. Shot 4: the person laughing as the cat rolls in autumn leaves. Cinematic, gentle emotional piano, no dialogue, no other people, no text, no logos.
+```
+
+---
+
+## Raindance AI Trend
+
+- Page: https://www.kavel.ai/video/raindance-ai-trend
+- Scraped: 2026-10-19
+- Local: [`kavel/raindance-ai-trend/PROMPTS.md`](kavel/raindance-ai-trend/PROMPTS.md)
+
+### Template prompt
+
+```text
+The person in the photo, same face, hair and outfit. First second: exactly as in the photo. Hard cut: a cinematic music-video shot of the same person sitting at the very edge of an old wooden pier above calm open sea at golden hour, legs over the water, warm low sun behind them and soft lens flare. The camera slowly pushes in from a low angle as they look straight into the lens and sing softly, a light sea breeze moving their hair, then they turn their head toward the horizon and back to the lens. Slow, moody, romantic pacing, shallow depth of field, film grain, 35mm music-video look. No other people, no text, no captions, no logos, no watermark.
+```
+
+---
+
+## Pata Chalega AI Video
+
+- Page: https://www.kavel.ai/video/pata-chalega-ai-video
+- Scraped: 2026-10-19
+- Local: [`kavel/pata-chalega-ai-video/PROMPTS.md`](kavel/pata-chalega-ai-video/PROMPTS.md)
+
+### Template prompt
+
+```text
+The person in the photo, same face, hair and outfit. First second: exactly as in the photo, they smile at the lens. Hard cut: a cinematic shot through the front windshield of a glossy black luxury car, the same person now in the driver's seat with the steering wheel directly in front of them, driving slowly down an open road, smiling at the camera, then waving and nodding along to the music. Warm late-afternoon light. Keep the camera on the driver through the windshield: the front of the car, the grille and the hood are never shown. Clear glass with only faint reflections so the face stays clearly visible. Real camera footage look. No emblems, no badges, no logos, no number plates, no stickers, no text, no captions.
+```
+
+---
+
+## AI Crying Filter
+
+- Page: https://www.kavel.ai/video/ai-crying-filter
+- Scraped: 2026-10-19
+- Local: [`kavel/ai-crying-filter/PROMPTS.md`](kavel/ai-crying-filter/PROMPTS.md)
+
+### Template prompt
+
+```text
+Use the uploaded photo as the exact reference for the person: same face, same hair, same clothing, same skin tone. Night street, warm street lamps and soft city bokeh behind them. Shoot over the blurred shoulder of a man standing in front of them, so they look at him, slightly off the lens. They start with a small, hopeful smile. The smile slowly fades, the lower lip trembles, the eyes turn red and fill with water, and real tears spill and run down both cheeks. They close their eyes, lower their head, then turn around and walk away from him down the street. Photorealistic live action, shallow depth of field, slow gentle push-in, one continuous take. Keep the face identical throughout. No text, no captions, no logos. Quiet street ambience and a soft, sad piano in the audio.
+```
+
+### A woman in a black blazer smiling, then tearing up on a night street — ai-crying-filter-black-blazer
+
+```text
+Use the uploaded photo as the exact reference for the person: same face, same hair, same skin tone. Dress them in a black blazer over a white shirt. Night street with warm lamps and parked cars out of focus. Over the blurred shoulder of a man facing them, they smile, the smile falters, their eyes fill and tears roll down, they look down, then turn and walk away along the lamplit street. Photorealistic, shallow depth of field, one continuous take, no text, no logos. Quiet street sound and a soft piano.
+```
+
+### A smile that breaks into tears, in a lilac sequin top — ai-crying-filter-lilac-top-smile
+
+```text
+Use the uploaded photo as the exact reference for the person: same face, same hair, same skin tone. Dress them in a sparkling lilac sequin top. Night garden with golden bokeh lights. Over the blurred shoulder of a man, they give him a warm, open smile, then the face slowly crumples, a single tear runs down one cheek, the eyes squeeze shut, and they turn their back to the camera. Photorealistic, close framing, one continuous take, no text, no logos. Soft sad piano in the audio.
+```
+
+### Red, wet eyes in a white camisole under street lights — ai-crying-filter-white-camisole
+
+```text
+Use the uploaded photo as the exact reference for the person: same face, same hair, same skin tone. Dress them in a simple white camisole. Dark night street, a few distant lights. Over the blurred shoulder of a man, they look up at him with already reddened, watery eyes, trying hard not to cry, lips pressed together, then glance down and turn away into the dark. Photorealistic, tight framing, one continuous take, no text, no logos. Quiet night ambience.
+```
+
+### A quiet cry by the river, then a long walk away — ai-crying-filter-riverside-walk-away
+
+```text
+Use the uploaded photo as the exact reference for the person: same face, same hair, same skin tone. Dress them in a black top. A riverside path at night with city lights reflected on the water. They smile softly with their eyes closed, the smile fades, they bow their head as tears come, the camera drifts around to their profile, and they walk away alone along the path toward the lights. Photorealistic, cinematic, one continuous take, no text, no logos. Soft piano and distant city sound.
+```
+
+### A grin that turns into a full cry, ponytail and pale shirt — ai-crying-filter-ponytail-light-shirt
+
+```text
+Use the uploaded photo as the exact reference for the person: same face, same hair, same skin tone. Tie their hair in a ponytail and dress them in a pale embroidered shirt. Night street with warm bokeh. Over a blurred shoulder, they start with a wide grin, the mouth starts to tremble, and they break into an open, heartfelt cry with tears on both cheeks before dropping their head. Photorealistic, close framing, one continuous take, no text, no logos. Quiet street sound and a sad piano.
+```
+
+### Tears in a beige hijab under the street lights — ai-crying-filter-beige-hijab
+
+```text
+Use the uploaded photo as the exact reference for the person: same face, same skin tone, and a beige hijab. Dress them in a dark floral top. Night park with a row of white street lamps. Facing a man who stands close in the foreground, they cry with their eyes shut and tears running down, look down, then turn and walk away beneath the lamps. Photorealistic, soft haze, one continuous take, no text, no logos. Soft sad piano in the audio.
+```
+
+---
+
+## AI Arrest Filter
+
+- Page: https://www.kavel.ai/video/ai-arrest-filter
+- Scraped: 2026-10-19
+- Local: [`kavel/ai-arrest-filter/PROMPTS.md`](kavel/ai-arrest-filter/PROMPTS.md)
+
+### Template prompt
+
+```text
+The person in the photo, same face, hair and outfit, is walked out of a lit building entrance at night by two police officers in plain dark navy uniforms with no shoulder patches and no text on them, one holding each arm, hands cuffed behind their back. They walk calmly toward the camera with their chin up and a small unbothered smile. The camera backs away in front of them at chest height. Red and blue patrol-car lights flicker across the pavement. No text, no captions, no logos anywhere in the frame.
+```
+
+### Walked out of the pub in a green dress, still laughing — ai-arrest-filter-pub-green-dress
+
+```text
+The person in the photo, same face, hair and outfit, is walked out of the pub at night by two police officers in plain dark navy uniforms with no shoulder patches and no text on them, one holding each arm, hands cuffed behind their back. They are still laughing and blow a kiss to the camera as they walk. The camera backs away in front of them at chest height. Red and blue lights reflect on the wet street. No text, no captions, no logos anywhere in the frame.
+```
+
+### The librarian walked out in cuffs, mildly amused — ai-arrest-filter-library-cardigan
+
+```text
+The person in the photo, same face, hair and outfit, is walked out of the library doors in daylight by two police officers in plain dark navy uniforms with no shoulder patches and no text on them, one holding each arm, hands cuffed behind their back. They walk toward the camera looking mildly amused, like a librarian who finally snapped. The camera backs away in front of them at chest height. A patrol car waits at the curb. No text, no captions, no logos anywhere in the frame.
+```
+
+### Grocery bag dropped, walked out of the supermarket smiling — ai-arrest-filter-supermarket-daylight
+
+```text
+The person in the photo, same face, hair and outfit, is walked out of the supermarket entrance in daylight by two police officers in plain dark navy uniforms with no shoulder patches and no text on them, one holding each arm, hands cuffed behind their back, the grocery bag left on the ground. They walk toward the camera calm and cheerful, winking at the lens. The camera backs away in front of them at chest height. A patrol car is parked at the curb with its lights flashing. No text, no captions, no logos anywhere in the frame.
+```
+
+### Hands behind her back and still grinning, in a yellow hoodie — ai-arrest-filter-yellow-hoodie
+
+```text
+The person in the photo, same face, hair and outfit, is walked toward the camera along the street at dusk, hands cuffed behind their back, officers holding each arm. They keep grinning and raise their eyebrows at the lens like this was worth it. Red and blue light flickers across their face. Medium shot from the waist up, tightly framed on the person: the two officers are only partly visible at the left and right edges of the frame, their shoulders and chests cropped out, plain dark sleeves and hands on the person's arms. No shoulder patches, no badges, no text anywhere in the frame. No captions, no logos.
+```
+
+### Grandma, led out of the front garden with a smile — ai-arrest-filter-garden-grandma
+
+```text
+The person in the photo, same face, hair and outfit, is walked toward the camera through the front garden in the afternoon, hands cuffed behind their back, officers holding each arm. They smile sweetly and wink at the lens like a grandparent with a secret. A patrol car's lights flash in the street behind them. Medium shot from the waist up, tightly framed on the person: the two officers are only partly visible at the left and right edges of the frame, their shoulders and chests cropped out, plain dark sleeves and hands on the person's arms. No shoulder patches, no badges, no text anywhere in the frame. No captions, no logos.
+```
+
+### Grandpa in a cardigan, walked down Main Street — ai-arrest-filter-sidewalk-grandpa
+
+```text
+The person in the photo, same face, hair and outfit, is walked toward the camera along the sidewalk in the afternoon, hands cuffed behind their back, officers holding each arm. They smile warmly and give a tiny wave with their fingers behind their back. A patrol car's lights flash behind them. Medium shot from the waist up, tightly framed on the person: the two officers are only partly visible at the left and right edges of the frame, their shoulders and chests cropped out, plain dark sleeves and hands on the person's arms. No shoulder patches, no badges, no text anywhere in the frame. No captions, no logos.
+```
+
+---
+
+## Ceiling Fan Transition
+
+- Page: https://www.kavel.ai/video/ceiling-fan-transition
+- Scraped: 2026-10-19
+- Local: [`kavel/ceiling-fan-transition/PROMPTS.md`](kavel/ceiling-fan-transition/PROMPTS.md)
+
+### Template prompt
+
+```text
+The first reference photo is the person: keep their face, hair, body and skin tone exactly as photographed in every shot. Any further reference photos are outfits, worn in the order they were uploaded; if there are none, use these four looks in order: a cream knit sweater with wide trousers, a black slip dress, a denim jacket over a white tee with jeans, and a red satin evening gown. Top-down shot from the ceiling looking straight down: the person lies on their back on a patterned rug in a sunlit living room, relaxed, a hand near the face, a slow smile at the lens. A dark wooden ceiling fan spins between the camera and the person, its blades sweeping across the frame. Every time a blade fully covers the lens, cut to the next outfit in exactly the same pose and position, so each look is revealed as the blade passes. Four outfit changes in one continuous overhead shot, locked camera, soft natural daylight. No text, no logos, no brand marks on clothing or the fan. Upbeat pop music in the audio.
+```
+
+### All black to a lilac gown in one fan spin — ceiling-fan-transition-black-to-lilac-gown
+
+```text
+The first reference photo is the person: keep their face, hair and body exactly as photographed. Further reference photos, if any, are outfits in upload order; otherwise use all-black loungewear, a floral midi dress, a lilac off-shoulder gown and a burgundy evening dress. Top-down shot from the ceiling: the person lies on an ornate red-and-cream rug between two red velvet armchairs. A wooden ceiling fan spins between camera and person; each time a blade covers the lens, cut to the next outfit in the same pose. Locked overhead camera, warm lamp light, one continuous shot, no text, no logos.
+```
+
+### Yellow co-ord to a grey blazer, one fan blade at a time — ceiling-fan-transition-yellow-to-blazer
+
+```text
+Fashion outfit-change video of the adult from the first reference photo, same face and hairstyle. Further reference photos, if any, are outfits in upload order; otherwise use a butter-yellow co-ord, a white top with camo cargo trousers, a beige blazer with white shorts and a cropped grey jacket with leggings. Shot from directly above: they are lying across a cream sofa in bright afternoon sun, striped light on the cushions. A dark ceiling fan spins between camera and person; each time a blade covers the lens, cut to the next outfit in the same pose. Locked overhead camera, one continuous shot, no text, no logos.
+```
+
+### A yellow sundress wiped into a leather jacket and whites — ceiling-fan-transition-sundress-to-jacket
+
+```text
+Fashion outfit-change video of the adult from the first reference photo, same face and hairstyle. Further reference photos, if any, are outfits in upload order; otherwise use a yellow sundress, the same dress with an oversized brown leather jacket, a white crop top with cream trousers, and a white short-sleeve playsuit. Shot from directly above: they are lying on a light sofa, hair fanned out, a phone beside them. A dark three-blade ceiling fan spins between camera and person; each time a blade covers the lens, cut to the next outfit. Locked overhead camera, soft daylight, one continuous shot, no text, no logos.
+```
+
+### Embroidered kurtas swapped under a spinning fan — ceiling-fan-transition-embroidered-kurtas
+
+```text
+The first reference photo is the person: keep their face, hair and body exactly as photographed. Further reference photos, if any, are outfits in upload order; otherwise use four embroidered kurta sets in olive, brown, plum and black. Top-down shot from the ceiling: the person lies on a cream rug with a pillow under their head, hands resting above it, smiling at the lens. A wooden ceiling fan spins between camera and person; each time a blade covers the lens, cut to the next outfit in the same pose. Locked overhead camera, warm soft light, one continuous shot, no text, no logos.
+```
+
+### Denim, boots and a camel coat on a patterned rug — ceiling-fan-transition-denim-to-camel-coat
+
+```text
+The first reference photo is the person: keep their face, hair and body exactly as photographed. Further reference photos, if any, are outfits in upload order; otherwise use a white tank with wide jeans, a denim jacket with a brown mini skirt and knee boots, the same boots with a navy cardigan, and a long camel coat with a white knit dress. Top-down shot from the ceiling: the person lies on a patterned Persian rug in golden afternoon light, a phone next to their hand. A wooden ceiling fan spins between camera and person; each time a blade covers the lens, cut to the next outfit. Locked overhead camera, one continuous shot, no text, no logos.
+```
+
+### Ceiling fan transition through four salwar suits — ceiling-fan-transition-pink-to-green-suits
+
+```text
+The first reference photo is the person: keep their face, hair and body exactly as photographed. Further reference photos, if any, are outfits in upload order; otherwise use four salwar suits: hot pink, mint green with a printed palazzo, black with red embroidery, and olive green with a sheer dupatta. Top-down shot from the ceiling: the person lies on a grey rug next to a beige sofa, sunlight on the floor. A wooden ceiling fan spins between camera and person; each time a blade covers the lens, cut to the next outfit in the same pose. Locked overhead camera, one continuous shot, no text, no logos.
+```
+
+---
+
+## Hotel Lobby AI Video
+
+- Page: https://www.kavel.ai/video/hotel-lobby-ai-video
+- Scraped: 2026-10-19
+- Local: [`kavel/hotel-lobby-ai-video/PROMPTS.md`](kavel/hotel-lobby-ai-video/PROMPTS.md)
+
+### Template prompt
+
+```text
+Two reference photos, one person each. The person in the FIRST photo stands on the LEFT; the person in the SECOND photo stands on the RIGHT. Keep each face, hairstyle and outfit exactly as photographed and never swap them. They stand side by side in a small, bare studio booth with a seamless bright orange wall and floor, a single silver condenser microphone hanging from above between their heads. Both open with a finger raised to their lips, then perform a confident rap verse straight to camera, trading lines back and forth with loose hand gestures and small head nods, completely in sync with each other and fully committed to the performance. Locked-off camera, eye-level, framed from the knees up, soft even studio light, one continuous take. No other people, no text, no logos, no cuts. A punchy hip-hop beat with both voices rapping in the audio.
+```
+
+---
+
+## Genjutsu Video
+
+- Page: https://www.kavel.ai/video/genjutsu-video
+- Scraped: 2026-10-19
+- Local: [`kavel/genjutsu-video/PROMPTS.md`](kavel/genjutsu-video/PROMPTS.md)
+
+### Template prompt
+
+```text
+Replace the main person in the reference video with the person in the uploaded image â same face, hair, skin tone and build. Keep everything else from the video exactly as it is: the choreography, body movement and timing, the camera movement and framing, the cuts, the background and the lighting.
 ```
 
 ---

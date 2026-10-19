@@ -1,0 +1,63 @@
+{
+  "source": "kavel",
+  "source_site": "https://www.kavel.ai",
+  "slug": "alors-on-danse-ai-meme",
+  "name": "Alors on Danse AI",
+  "url": "https://www.kavel.ai/video/alors-on-danse-ai-meme",
+  "listing_url": "https://www.kavel.ai/ai-video-trends",
+  "blurb": "Two pet photos in: they make the beat in the studio, then dance off.",
+  "published": null,
+  "updated": null,
+  "scraped_at": "2026-10-19",
+  "listing_index": 56,
+  "this_week_rank": null,
+  "demo_videos": [
+    "https://cdn.kavel.ai/videos/kavel-showcase/alors-on-danse-golden-cat.mp4",
+    "https://cdn.kavel.ai/videos/kavel-showcase/alors-on-danse-chihuahuas.mp4",
+    "https://cdn.kavel.ai/videos/kavel-showcase/alors-on-danse-cat-rat.mp4",
+    "https://cdn.kavel.ai/videos/kavel-showcase/alors-on-danse-parrots.mp4"
+  ],
+  "posters": [
+    "https://cdn.kavel.ai/posters/kavel-showcase/alors-on-danse-golden-cat-fx-poster.webp",
+    "https://cdn.kavel.ai/posters/kavel-showcase/alors-on-danse-golden-cat-fx-poster-thumb-240.webp",
+    "https://cdn.kavel.ai/posters/kavel-showcase/alors-on-danse-chihuahuas-poster.webp",
+    "https://cdn.kavel.ai/posters/kavel-showcase/alors-on-danse-cat-rat-poster.webp",
+    "https://cdn.kavel.ai/posters/kavel-showcase/alors-on-danse-parrots-poster.webp"
+  ],
+  "prompts": [
+    {
+      "label": "Template prompt",
+      "variant": null,
+      "kind": "video_prompt",
+      "text": "Two reference photos, one animal each. The animal in the FIRST photo stands on the LEFT; the animal in the SECOND photo stands on the RIGHT. Keep each animal exactly as photographed: same species, breed, fur or feathers, markings and face, and never swap them. Both stand upright at a small white desk in a bare, seamless white photo studio, with a compact black mini keyboard and an open silver laptop on the desk. The left one taps out a beat on the keys with its paws while the right one nods along, points at the screen and throws a paw up in excitement; then one of them leans right into the lens with a wide-eyed face. To finish, both leave the desk and run toward the camera side by side across the empty white floor, dancing in step. Real animal anatomy: paws, claws or wings, never human hands. Locked-off eye-level camera, soft even studio light, one continuous take, vertical video. Upbeat electro-house beat in the audio. No people, no text, no logos, no watermark."
+    },
+    {
+      "label": "Alors on Danse AI meme â a golden retriever and a ginger cat",
+      "variant": "alors-on-danse-golden-cat",
+      "kind": "video_prompt",
+      "text": "Two reference photos, one animal each: the first photo stands on the left, the second on the right, each exactly as photographed and never swapped. In a bare white studio they stand at a white desk with a black mini keyboard and an open laptop. The left one rests both front paws on the keys and plays; the right one sings with its mouth wide open, throws a paw high in the air and sways, while the left one turns and grins at it. Real animal anatomy, no human hands. Locked-off eye-level camera, soft studio light, one continuous take, vertical video. Upbeat electro-house beat in the audio. No people, no text, no logos, no watermark."
+    },
+    {
+      "label": "Alors on Danse AI meme â two chihuahuas in costume",
+      "variant": "alors-on-danse-chihuahuas",
+      "kind": "video_prompt",
+      "text": "Two reference photos, one animal each: the first photo stands on the left, the second on the right, faces and fur exactly as photographed and never swapped. Dress the left one in a white shirt with black trousers and the right one in a shiny pink suit. In a bright white studio they stand upright at a desk with a laptop and a mini keyboard, tapping the keys and bobbing their heads, then take turns pushing their faces right up to the lens. To finish they walk toward the camera side by side, swinging their arms and dancing in step. Real dog anatomy, paws not hands. Eye-level camera, soft studio light, one continuous take, vertical video. Upbeat electro-house beat in the audio. No people, no text, no logos, no watermark."
+    },
+    {
+      "label": "Alors on Danse AI meme â a cat and a rat in the studio",
+      "variant": "alors-on-danse-cat-rat",
+      "kind": "video_prompt",
+      "text": "Two reference photos, one animal each: the first photo stands on the left, the second on the right, faces and fur exactly as photographed and never swapped. Dress the left one in a black-and-white striped shirt and the right one in a black suit and bowler hat. They stand upright at a small white desk with a mini keyboard and laptop in a bare white studio: the left one plays, the right one points at the screen and waves along, then leans into the lens. Then both turn and run across the empty white floor and dance side by side, high-stepping in sync. Real animal anatomy, no human hands. Eye-level camera, soft studio light, one continuous take, vertical video. Upbeat electro-house beat in the audio. No people, no text, no logos, no watermark."
+    },
+    {
+      "label": "Alors on Danse AI meme â two parrots make the beat",
+      "variant": "alors-on-danse-parrots",
+      "kind": "video_prompt",
+      "text": "Two reference photos, one bird each: the first photo stands on the left, the second on the right, feathers and markings exactly as photographed and never swapped. Two birds perch at a white desk against a plain white wall, a small black mini keyboard and an open laptop in front of them. The left bird taps the keys with one foot, the right bird bobs its head, lifts a foot and points at the screen, then the left bird leans its face right into the lens. Real bird anatomy: claws and wings only, never human hands. Locked-off eye-level camera, soft daylight, one continuous take, vertical video. Upbeat electro-house beat in the audio. No people, no text, no logos, no watermark."
+    }
+  ],
+  "prompt_count": 5,
+  "prompts_public": true,
+  "note": null,
+  "showcase_count": 4
+}

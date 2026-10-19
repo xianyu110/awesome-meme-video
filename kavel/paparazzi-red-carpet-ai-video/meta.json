@@ -1,0 +1,32 @@
+{
+  "source": "kavel",
+  "source_site": "https://www.kavel.ai",
+  "slug": "paparazzi-red-carpet-ai-video",
+  "name": "Paparazzi Red Carpet AI Video",
+  "url": "https://www.kavel.ai/video/paparazzi-red-carpet-ai-video",
+  "listing_url": "https://www.kavel.ai/ai-video-trends",
+  "blurb": "One photo in: you walk the red carpet while a wall of photographers shouts your name.",
+  "published": null,
+  "updated": null,
+  "scraped_at": "2026-10-19",
+  "listing_index": 7,
+  "this_week_rank": null,
+  "demo_videos": [
+    "https://cdn.kavel.ai/videos/kavel-showcase/paparazzi-theatre-braids.mp4",
+    "https://cdn.kavel.ai/videos/kavel-showcase/paparazzi-car-arrival.mp4",
+    "https://cdn.kavel.ai/videos/kavel-showcase/paparazzi-gala-steps.mp4",
+    "https://cdn.kavel.ai/videos/kavel-showcase/paparazzi-tux-premiere.mp4"
+  ],
+  "posters": [
+    "https://cdn.kavel.ai/posters/kavel-showcase/paparazzi-theatre-braids-poster.webp",
+    "https://cdn.kavel.ai/posters/kavel-showcase/paparazzi-theatre-braids-poster-thumb-240.webp",
+    "https://cdn.kavel.ai/posters/kavel-showcase/paparazzi-car-arrival-poster.webp",
+    "https://cdn.kavel.ai/posters/kavel-showcase/paparazzi-gala-steps-poster.webp",
+    "https://cdn.kavel.ai/posters/kavel-showcase/paparazzi-tux-premiere-poster.webp"
+  ],
+  "prompts": [],
+  "prompt_count": 0,
+  "prompts_public": false,
+  "note": "No public prompt text found on Kavel page payload; demos/posters only — prompts not invented.",
+  "showcase_count": 4
+}

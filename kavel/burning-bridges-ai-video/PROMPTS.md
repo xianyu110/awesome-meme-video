@@ -1,0 +1,47 @@
+# Burning Bridges AI Video
+
+- Source: [kavel](https://www.kavel.ai/video/burning-bridges-ai-video)
+- Slug: `burning-bridges-ai-video`
+- Listing: https://www.kavel.ai/ai-video-trends
+
+One photo, and you run the chandelier party: shaker in hand, âwhere she at?â
+
+## Demo videos (CDN)
+
+- https://cdn.kavel.ai/videos/kavel-showcase/burning-bridges-beanie.mp4
+- https://cdn.kavel.ai/videos/kavel-showcase/burning-bridges-white-suit.mp4
+- https://cdn.kavel.ai/videos/kavel-showcase/burning-bridges-skyline.mp4
+
+## Posters
+
+- https://cdn.kavel.ai/posters/kavel-showcase/burning-bridges-beanie-poster.webp
+- https://cdn.kavel.ai/posters/kavel-showcase/burning-bridges-beanie-poster-thumb-240.webp
+- https://cdn.kavel.ai/posters/kavel-showcase/burning-bridges-white-suit-poster.webp
+- https://cdn.kavel.ai/posters/kavel-showcase/burning-bridges-skyline-poster.webp
+
+## Prompts
+
+### 1. Burning Bridges AI video â a beanie and a silver shaker — burning-bridges-beanie
+
+*Kind: video_prompt*
+
+```text
+One reference photo of a person; keep their face, build and skin tone exactly as photographed. Dress them in a beige knit beanie and a cream padded vest over a white sweater. A crowded chandelier-lit party room with long tables, friends in caps and cream jackets crowding round. They hold a silver cocktail shaker in the left hand throughout: they bounce out of the crowd rapping, point two fingers at the lens, swing their arms wide, pour into a friend's glass, then cover their eyes with one hand and look round for "where she at?" while everyone laughs. Handheld music-video camera, warm chandelier glow, film grain, widescreen. Original hip-hop beat in the audio. No famous people, no text, no logos, no watermark.
+```
+
+### 2. Burning Bridges AI video â sunglasses and a cream jacket — burning-bridges-white-suit
+
+*Kind: video_prompt*
+
+```text
+One reference photo of a person; keep their face, beard and build exactly as photographed. Dress them in dark sunglasses, a cream knit cap and a cream jacket over a white shirt. A packed party room under crystal chandeliers, guests in black suits and one in a black-and-white checked scarf cheering behind. With a silver shaker in the left hand the whole way, they walk out of the crowd toward the camera, flick their fingers at the lens, grab their collar with a grin, raise the shaker, and twice cover their eyes with an open hand for "where she at?". Handheld music-video camera, creamy bokeh, halation off the chandeliers, film grain, widescreen. Original hip-hop beat in the audio. No famous people, no text, no logos, no watermark.
+```
+
+### 3. Burning Bridges AI video â a penthouse with the city behind — burning-bridges-skyline
+
+*Kind: video_prompt*
+
+```text
+One reference photo of a person; keep their face, beard, build and skin tone exactly as photographed. Dress them in a black cap, a black T-shirt and layered silver chains. A penthouse party at night, chandeliers overhead and the city lights in the floor-to-ceiling windows, a crew of friends in black packed in behind. Silver shaker in the left hand throughout: they lean toward the lens rapping, point at the camera, wave a hand up high, raise the shaker to the crew, then cover their eyes with one hand for "where she at?" as the crew laughs. Handheld music-video camera, warm light, film grain, widescreen. Original hip-hop beat in the audio. No famous people, no text, no logos, no watermark.
+```
+

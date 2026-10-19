@@ -1,0 +1,67 @@
+{
+  "source": "kavel",
+  "source_site": "https://www.kavel.ai",
+  "slug": "tecktonik-dance-ai",
+  "name": "Tecktonik Dance AI",
+  "url": "https://www.kavel.ai/video/tecktonik-dance-ai",
+  "listing_url": "https://www.kavel.ai/ai-video-trends",
+  "blurb": "One photo in: you on the courtyard planter doing the jerky 2000s electro arm dance.",
+  "published": null,
+  "updated": null,
+  "scraped_at": "2026-10-19",
+  "listing_index": 49,
+  "this_week_rank": null,
+  "demo_videos": [
+    "https://cdn.kavel.ai/videos/kavel-showcase/tecktonik-black-suit.mp4",
+    "https://cdn.kavel.ai/videos/kavel-showcase/tecktonik-sunglasses-duo.mp4",
+    "https://cdn.kavel.ai/videos/kavel-showcase/tecktonik-tracksuit-split.mp4",
+    "https://cdn.kavel.ai/videos/kavel-showcase/tecktonik-tie-and-grey-top.mp4",
+    "https://cdn.kavel.ai/videos/kavel-showcase/tecktonik-thobe-and-suit.mp4",
+    "https://cdn.kavel.ai/videos/kavel-showcase/tecktonik-pink-top-split-crop.mp4"
+  ],
+  "posters": [
+    "https://cdn.kavel.ai/posters/kavel-showcase/tecktonik-black-suit-poster.webp",
+    "https://cdn.kavel.ai/posters/kavel-showcase/tecktonik-black-suit-poster-thumb-240.webp",
+    "https://cdn.kavel.ai/posters/kavel-showcase/tecktonik-sunglasses-duo-fx-poster.webp",
+    "https://cdn.kavel.ai/posters/kavel-showcase/tecktonik-tracksuit-split-fx-poster.webp",
+    "https://cdn.kavel.ai/posters/kavel-showcase/tecktonik-tie-and-grey-top-fx-poster.webp",
+    "https://cdn.kavel.ai/posters/kavel-showcase/tecktonik-thobe-and-suit-fx-poster.webp",
+    "https://cdn.kavel.ai/posters/kavel-showcase/tecktonik-pink-top-split-crop-poster.webp"
+  ],
+  "prompts": [
+    {
+      "label": "Template prompt",
+      "variant": null,
+      "kind": "video_prompt",
+      "text": "Use the photo as the main character and keep the person exactly as photographed: same face, hair, skin tone, body shape and outfit. They stand on top of a raised planter of leafy plants above a packed night courtyard party: brick walls washed in red party light, warm string lights overhead, DJ decks right in front, the crowd below cheering with their phones up, filming. They do the Tecktonik electro dance from the 2000s French clubs: sharp, jerky, robotic arm moves, forearms snapping across the face, hands flicking up over the head and out to the sides, wrists rolling, arms windmilling, with quick little footwork on the spot and a focused, deadpan face. Filmed on a phone from inside the crowd, looking slightly up at them, full body in frame, one continuous take, vertical 9:16. Retro 2000s electro house beat in the audio, no vocals. No text, no captions, no logos, no watermark."
+    },
+    {
+      "label": "Tecktonik dance AI â the black suit",
+      "variant": "tecktonik-black-suit",
+      "kind": "video_prompt",
+      "text": "Use the photo as the main character and keep the person exactly as photographed: same face, hair, skin tone and body shape. Dress them in a sharp all-black suit, black shirt and black shoes. They stand on top of a raised planter above a packed night courtyard party: red-lit brick walls, warm string lights overhead, DJ decks and a DJ right in front, the crowd below filming on their phones. They do the Tecktonik electro dance: both hands snapping up to the sides of the head, arms flicking out and up over the head, forearms crossing the face, wrists rolling, with quick little footwork on the spot and a cool, deadpan face. Filmed on a phone from the crowd, looking slightly up, full body in frame, one continuous take, vertical 9:16. Retro 2000s electro house beat in the audio, no vocals. No text, no captions, no logos, no watermark."
+    },
+    {
+      "label": "Tecktonik dance AI â two in sunglasses",
+      "variant": "tecktonik-sunglasses-duo",
+      "kind": "video_prompt",
+      "text": "Keep every person in the photo or photos exactly as photographed: same faces, hair, skin tones and body shapes, nobody added except as described. If one photo of one person is given, they dance next to a second dancer in matching style; if two people are given, they are the two dancers. Both wear small black sunglasses; one wears a white strapless top and black leather trousers, the other an all-black outfit. They dance side by side on a stage above a packed night party crowd, drifting smoke, deep red light, warm string lights overhead, phones raised in the crowd. They do the Tecktonik electro dance in sync: one arm bent over the head, forearms sweeping across the face, wrists rolling, sharp robotic arm hits out to the sides, little steps on the spot, faces completely cool. Filmed on a phone from inside the crowd, looking up, one continuous take, vertical 9:16. Retro 2000s electro house beat in the audio, no vocals. No text, no captions, no logos, no watermark."
+    },
+    {
+      "label": "Tecktonik dance AI â the white robe and the black hat",
+      "variant": "tecktonik-thobe-and-suit",
+      "kind": "video_prompt",
+      "text": "Vertical split screen made of two tall panels side by side. Left panel: the person from the FIRST photo; right panel: the person from the SECOND photo. With only one photo, the same person appears in both panels, in the two outfits below. Keep every face exactly as photographed: same face, hair, skin tone and body shape, never swapped. Left panel: a long flowing white robe. Right panel: a black suit jacket over a white shirt, black trousers and a wide black hat. In both panels they stand on a raised planter above a packed night courtyard party, red-lit brick walls, warm string lights, the crowd below cheering, and do the Tecktonik electro dance: one arm shooting straight up, arms sweeping wide and folding back across the chest, sharp robotic hand flicks, quick little footwork, deadpan faces. Each panel filmed from the crowd, full body, one continuous take, vertical 9:16 overall. Retro 2000s electro house beat in the audio, no vocals. No text, no captions, no logos, no watermark."
+    },
+    {
+      "label": "Tecktonik dance AI â magenta top, grey hoodie",
+      "variant": "tecktonik-pink-top-split",
+      "kind": "video_prompt",
+      "text": "Vertical split screen made of two tall panels side by side. Left panel: the person from the FIRST photo; right panel: the person from the SECOND photo. With only one photo, the same person appears in both panels, in the two outfits below. Keep every face exactly as photographed: same face, hair, skin tone and body shape, never swapped. Left panel: a bright magenta long-sleeved top and wide black trousers. Right panel: a grey hoodie, dark shorts and trainers. In both panels they stand on a raised planter above a night courtyard party lit in cool blue, warm string lights overhead, DJ decks in front, the crowd below with phones up, and do the Tecktonik electro dance: arms stretched out wide then snapping in, hands flicking up over the head, wrists rolling, quick little footwork. Each panel filmed from the crowd, full body, one continuous take, vertical 9:16 overall. Retro 2000s electro house beat in the audio, no vocals. No text, no captions, no logos, no watermark."
+    }
+  ],
+  "prompt_count": 5,
+  "prompts_public": true,
+  "note": null,
+  "showcase_count": 6
+}

@@ -1,0 +1,30 @@
+{
+  "source": "kavel",
+  "source_site": "https://www.kavel.ai",
+  "slug": "abcdefg-i-need-money",
+  "name": "ABCDEFG I Need Money",
+  "url": "https://www.kavel.ai/video/abcdefg-i-need-money",
+  "listing_url": "https://www.kavel.ai/ai-video-trends",
+  "blurb": "One baby photo in: your baby sings A to G, stops, and asks for money with a dead-serious face.",
+  "published": null,
+  "updated": null,
+  "scraped_at": "2026-10-19",
+  "listing_index": 2,
+  "this_week_rank": null,
+  "demo_videos": [
+    "https://cdn.kavel.ai/videos/kavel-showcase/abcdefg-money-sofa.mp4",
+    "https://cdn.kavel.ai/videos/kavel-showcase/abcdefg-money-floor.mp4",
+    "https://cdn.kavel.ai/videos/kavel-showcase/abcdefg-money-car.mp4"
+  ],
+  "posters": [
+    "https://cdn.kavel.ai/posters/kavel-showcase/abcdefg-money-sofa-poster.webp",
+    "https://cdn.kavel.ai/posters/kavel-showcase/abcdefg-money-sofa-poster-thumb-240.webp",
+    "https://cdn.kavel.ai/posters/kavel-showcase/abcdefg-money-floor-poster.webp",
+    "https://cdn.kavel.ai/posters/kavel-showcase/abcdefg-money-car-poster.webp"
+  ],
+  "prompts": [],
+  "prompt_count": 0,
+  "prompts_public": false,
+  "note": "No public prompt text found on Kavel page payload; demos/posters only — prompts not invented.",
+  "showcase_count": 3
+}

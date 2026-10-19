@@ -1,0 +1,39 @@
+# Oouuh AI
+
+- Source: [kavel](https://www.kavel.ai/video/oouuh-ai)
+- Slug: `oouuh-ai`
+- Listing: https://www.kavel.ai/ai-video-trends
+
+Two photos in: one of you strums the ukulele, the other sings the Oouuh.
+
+## Demo videos (CDN)
+
+- https://cdn.kavel.ai/videos/kavel-showcase/oouuh-ai-friends-duo.mp4
+- https://cdn.kavel.ai/videos/kavel-showcase/oouuh-ai-buddies-duo.mp4
+- https://cdn.kavel.ai/videos/kavel-showcase/oouuh-ai-hooded-duo.mp4
+
+## Posters
+
+- https://cdn.kavel.ai/posters/kavel-showcase/oouuh-ai-friends-duo-poster.webp
+- https://cdn.kavel.ai/posters/kavel-showcase/oouuh-ai-friends-duo-poster-thumb-240.webp
+- https://cdn.kavel.ai/posters/kavel-showcase/oouuh-ai-buddies-duo-fx-poster.webp
+- https://cdn.kavel.ai/posters/kavel-showcase/oouuh-ai-hooded-duo-fx-poster.webp
+
+## Prompts
+
+### 1. Template prompt
+
+*Kind: video_prompt*
+
+```text
+Two reference photos, one person each. Keep each exactly as photographed: same face, hair, skin tone and build, and never swap them. Keep their own clothes. They stand side by side in a narrow home kitchen hallway (white cabinets, warm wood floor, a wooden door at the back, warm ceiling light), filmed full body by a phone fixed at chest height. The person from the FIRST photo stands on the left and strums a small natural-wood ukulele in a steady, bouncy rhythm, nodding along. The person from the SECOND photo stands on the right and sings a long, smooth "ooouuh" straight at the camera with one hand on their chest, then bobs their head, points at the lens and leans in with a cheeky grin. Both sway to the beat; on the last strum they look at each other and laugh. One continuous take, vertical 9:16. Audio: a light acoustic ukulele groove with a soft wordless "ooouuh" vocal hum, no other lyrics. No other people, no text, no captions, no logos, no watermark.
+```
+
+### 2. Oouuh AI â the hooded strummer and the diva — oouuh-ai-hooded-duo
+
+*Kind: video_prompt*
+
+```text
+Two reference photos, one person each. Keep each exactly as photographed: same face, hair, skin tone and build, and never swap them. Dress the person from the FIRST photo all in black, a big black hooded jacket with the hood up, and the person from the SECOND photo in a sleeveless electric-blue sequin top, sheer black gloves and black trousers. They stand side by side in a narrow home kitchen hallway (white cabinets, warm wood floor, a wooden door at the back, warm ceiling light), filmed full body by a phone fixed at chest height. FIRST, on the left, strums a small natural-wood ukulele completely deadpan, barely moving. SECOND, on the right, sings a long, dramatic "ooouuh" at the camera, eyes wide, one gloved hand pressed to the chest, swaying slowly like a diva. One continuous take, vertical 9:16. Audio: a light acoustic ukulele groove with a soft wordless "ooouuh" vocal hum, no other lyrics. No other people, no text, no captions, no logos, no watermark.
+```
+

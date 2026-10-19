@@ -1,0 +1,55 @@
+# Keep On Steppin AI Dance
+
+- Source: [kavel](https://www.kavel.ai/video/keep-on-steppin-ai-dance-video)
+- Slug: `keep-on-steppin-ai-dance-video`
+- Listing: https://www.kavel.ai/ai-video-trends
+
+One group photo in: your whole crew steps at the camera in sync, then stomps right over the lens.
+
+## Demo videos (CDN)
+
+- https://cdn.kavel.ai/videos/kavel-showcase/keep-on-steppin-gym.mp4
+- https://cdn.kavel.ai/videos/kavel-showcase/keep-on-steppin-pub.mp4
+- https://cdn.kavel.ai/videos/kavel-showcase/keep-on-steppin-beach-crew.mp4
+
+## Posters
+
+- https://cdn.kavel.ai/posters/kavel-showcase/keep-on-steppin-gym-fx-poster.webp
+- https://cdn.kavel.ai/posters/kavel-showcase/keep-on-steppin-gym-fx-poster-thumb-240.webp
+- https://cdn.kavel.ai/posters/kavel-showcase/keep-on-steppin-pub-fx-poster.webp
+- https://cdn.kavel.ai/posters/kavel-showcase/keep-on-steppin-beach-crew-poster.webp
+
+## Prompts
+
+### 1. Template prompt
+
+*Kind: video_prompt*
+
+```text
+Use the photo as the starting frame and keep every person exactly as photographed: same faces, hair, skin tones, body shapes and outfits. The group stands in one row on an empty car park on a grey day, a green field and a line of autumn trees behind them. (1) They nod to the beat and fall into one straight line; (2) everyone does the Keep On Steppin line dance perfectly in sync, marching toward the camera with sharp step-touches, heel taps, a shoulder bounce and arms swinging low at their sides; (3) they keep stepping until the front dancer is right over the lens and the camera drops to the ground for a low-angle shot looking up as they stomp the last step together. If the photo is a close selfie, they first step back so full bodies are in frame. Phone camera on a tripod, full bodies in frame, one continuous shot, vertical 9:16. Upbeat line-dance beat in the audio, no vocals. No text, no captions, no logos, no watermark.
+```
+
+### 2. Keep On Steppin AI dance â two coaches on the gym turf — keep-on-steppin-gym
+
+*Kind: video_prompt*
+
+```text
+Use the photo as the starting frame and keep both women exactly as photographed: same faces, hair, skin tones, body shapes and outfits. They stand side by side on the green turf lane of a bright gym, treadmills and lights behind them. (1) They glance at each other and start on the same beat; (2) both do the Keep On Steppin line dance perfectly in sync, stepping forward along the turf with crisp step-touches, heel taps, a quick turn and a shoulder bounce, arms swinging at their sides; (3) they march right up to the camera and it drops to the floor for a low-angle shot looking up as they land the last stomp together and laugh. Phone camera on a tripod, full bodies in frame, one continuous shot, vertical 9:16. Upbeat line-dance beat in the audio, no vocals. No text, no captions, no logos or brand names, no watermark.
+```
+
+### 3. Keep On Steppin AI dance â the pub dance floor — keep-on-steppin-pub
+
+*Kind: video_prompt*
+
+```text
+Use the photo as the starting frame and keep everyone exactly as photographed: same faces, hair, skin tones, body shapes and outfits. A crowd of friends on the dance floor of a busy pub, screens glowing on the wall behind them. (1) The music kicks in and the group falls into rows; (2) everyone does the Keep On Steppin line dance in sync, stepping toward the camera together with step-touches, heel taps, a quarter turn and a shoulder bounce, arms swinging low; (3) the front row steps right up to the lens and the camera drops to the floor for a low-angle shot looking up as the whole floor stomps the last step and cheers. Handheld phone camera, full bodies in frame, one continuous shot, vertical 9:16. Upbeat line-dance beat and crowd noise in the audio, no vocals. No text, no captions, no logos or brand names on the screens or signs, no watermark.
+```
+
+### 4. Keep On Steppin AI dance â a crew in summer clothes — keep-on-steppin-beach-crew
+
+*Kind: video_prompt*
+
+```text
+Use the photo as the starting frame and keep every person exactly as photographed: same faces, hair, skin tones, body shapes and outfits. The group stands in a row on a car park on a grey day, a sandy field and a line of autumn trees behind them, dressed for summer in shorts, sun hats and bright tops. (1) They fall into one straight line on the beat; (2) everyone does the Keep On Steppin line dance perfectly in sync, marching toward the camera with high knees, step-touches, heel taps and a shoulder bounce, arms swinging; (3) the front dancer steps right over the lens and the camera drops to the ground for a low-angle shot looking up as they all stomp the last step. Phone camera on a tripod, full bodies in frame, one continuous shot, vertical 9:16. Upbeat line-dance beat in the audio, no vocals. No text, no captions, no logos, no watermark.
+```
+
