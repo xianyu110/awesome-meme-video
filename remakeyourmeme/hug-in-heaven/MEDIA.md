@@ -8,6 +8,8 @@
 - video: https://cdn.remakeyourmeme.com/trends/hug-in-heaven/7696472081373891854.mp4
 - video: https://cdn.remakeyourmeme.com/wm/remakeyourmeme/examples/hug-in-heaven/v2/sample-1/video.mp4
 - video: https://cdn.remakeyourmeme.com/wm/remakeyourmeme/examples/hug-in-heaven/v2/sample-2/video.mp4
+- video: https://cdn.remakeyourmeme.com/wm/remakeyourmeme/examples/hug-in-heaven/v2/sample-1/preview-854.mp4
+- video: https://cdn.remakeyourmeme.com/wm/remakeyourmeme/examples/hug-in-heaven/v2/sample-2/preview-854.mp4
 - poster: https://cdn.remakeyourmeme.com/examples/hug-in-heaven/v2/sample-1/input-1.jpg
 - poster: https://cdn.remakeyourmeme.com/examples/hug-in-heaven/v2/sample-1/input-2.jpg
 - poster: https://cdn.remakeyourmeme.com/examples/hug-in-heaven/v2/sample-1/poster.jpg

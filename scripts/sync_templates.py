@@ -20,20 +20,29 @@ from build_inventory import (  # noqa: E402
 )
 
 def curl(url: str, dest: Path, timeout: int = 60) -> bool:
+    ok, _ = curl_follow(url, dest, timeout=timeout)
+    return ok
+
+def curl_follow(url: str, dest: Path, timeout: int = 60) -> tuple[bool, str]:
+    """Download URL following redirects; return (ok, final_url). Remake alias slugs 301 to shorter/trend URLs."""
     dest.parent.mkdir(parents=True, exist_ok=True)
     tmp = dest.with_suffix(dest.suffix + '.part')
     cmd = ['curl', '-fsSL', '--retry', '3', '--retry-delay', '1',
            '-A', 'Mozilla/5.0 (compatible; awesome-meme-video-sync/1.0)',
            '--connect-timeout', '20', '--max-time', str(timeout),
-           '-o', str(tmp), url]
+           '-o', str(tmp), '-w', '%{url_effective}', url]
     try:
-        subprocess.check_call(cmd, stdout=subprocess.DEVNULL, stderr=subprocess.DEVNULL)
+        effective = subprocess.check_output(cmd, stderr=subprocess.DEVNULL, text=True).strip()
         tmp.replace(dest)
-        return True
+        return True, effective or url
     except subprocess.CalledProcessError:
         if tmp.exists():
             tmp.unlink()
-        return False
+        return False, url
+
+def remake_slug_from_url(url: str) -> str | None:
+    m = re.search(r'/templates/([a-z0-9\-]+)/?', url or '')
+    return m.group(1) if m else None
 
 def sha_file(p: Path) -> str:
     if not p.exists():
@@ -141,47 +150,88 @@ def fetch_all_makeviral(slugs: list[str]) -> dict:
     return {'added': sorted(added), 'updated': sorted(updated), 'unchanged': sorted(unchanged), 'failed': sorted(failed)}
 
 def fetch_all_remake(slugs: list[str]) -> dict:
+    """Fetch Remake template HTML. Alias slugs that 301 to a new path are saved under the
+    canonical slug only (treated as rename/update), so redirects do not create duplicates.
+    """
     out = RAW / 'remake-html'
     out.mkdir(exist_ok=True)
-    added, updated, unchanged, failed = [], [], [], []
+    added, updated, unchanged, failed, renamed = [], [], [], [], []
 
     def one(s):
         url = f'https://remakeyourmeme.com/templates/{s}/'
-        dest = out / f'{s}.html'
+        # Always land body in a temp path first so a redirect can retarget the dest slug.
+        tmp_dest = out / f'{s}.html.partfetch'
+        ok, effective = curl_follow(url, tmp_dest, timeout=90)
+        if not ok:
+            if tmp_dest.exists():
+                tmp_dest.unlink()
+            return ('fail', s, s)
+        canon = remake_slug_from_url(effective) or s
+        dest = out / f'{canon}.html'
         old = sha_file(dest)
         existed = dest.exists()
-        ok = curl(url, dest, timeout=90)
-        if not ok:
-            return ('fail', s)
+        # Move/replace canonical file
+        if dest.exists():
+            dest.unlink()
+        tmp_dest.replace(dest)
+        # Drop stale alias HTML if request slug redirected away
+        if canon != s:
+            alias = out / f'{s}.html'
+            if alias.exists():
+                alias.unlink()
+            return ('renamed', s, canon)
         new = sha_file(dest)
         if not existed:
-            return ('added', s)
+            return ('added', s, s)
         if old != new:
-            return ('updated', s)
-        return ('unchanged', s)
+            return ('updated', s, s)
+        return ('unchanged', s, s)
 
     with ThreadPoolExecutor(max_workers=8) as ex:
         futs = [ex.submit(one, s) for s in slugs]
         for f in as_completed(futs):
-            kind, s = f.result()
+            kind, req, canon = f.result()
             if kind == 'added':
-                added.append(s)
+                added.append(canon)
             elif kind == 'updated':
-                updated.append(s)
+                updated.append(canon)
+            elif kind == 'renamed':
+                renamed.append(f'{req}->{canon}')
+                # A rename that lands on an existing page is an update of the canonical slug
+                if canon not in updated and canon not in added:
+                    updated.append(canon)
             elif kind == 'fail':
-                failed.append(s)
+                failed.append(req)
             else:
-                unchanged.append(s)
+                unchanged.append(canon)
+    # Deduplicate list entries while preserving order
+    def uniq(xs):
+        seen, outl = set(), []
+        for x in xs:
+            if x not in seen:
+                seen.add(x); outl.append(x)
+        return outl
+    added, updated, unchanged = uniq(added), uniq(updated), uniq(unchanged)
     (RAW / 'remake-html-fetch.log').write_text(
-        f'scrape={SCRAPE_ISO}\nadded={len(added)} updated={len(updated)} unchanged={len(unchanged)} fail={len(failed)}\n'
+        f'scrape={SCRAPE_ISO}\nadded={len(added)} updated={len(updated)} unchanged={len(unchanged)} '
+        f'renamed={len(renamed)} fail={len(failed)}\n'
         + '\n'.join(f'ADDED {s}' for s in sorted(added)) + '\n'
         + '\n'.join(f'UPDATED {s}' for s in sorted(updated)) + '\n'
+        + '\n'.join(f'RENAMED {s}' for s in sorted(renamed)) + '\n'
         + '\n'.join(f'FAIL {s}' for s in sorted(failed)) + '\n'
     )
+    # URL list = HTML stems actually on disk after redirect resolution
+    on_disk = sorted(p.stem for p in out.glob('*.html'))
     (RAW / 'remake-urls.txt').write_text(
-        '\n'.join(f'https://remakeyourmeme.com/templates/{s}/' for s in slugs) + '\n'
+        '\n'.join(f'https://remakeyourmeme.com/templates/{s}/' for s in on_disk) + '\n'
     )
-    return {'added': sorted(added), 'updated': sorted(updated), 'unchanged': sorted(unchanged), 'failed': sorted(failed)}
+    return {
+        'added': sorted(added),
+        'updated': sorted(updated),
+        'unchanged': sorted(unchanged),
+        'renamed': sorted(renamed),
+        'failed': sorted(failed),
+    }
 
 def sort_key(item: dict):
     """Newest-first: prefer source updated, then published, then scraped_at, then slug."""
@@ -189,6 +239,32 @@ def sort_key(item: dict):
     # normalize to YYYY-MM-DD prefix
     d = str(d)[:10]
     return (d, item.get('slug') or '')
+
+
+def dedupe_remake_by_name(items: list[dict]) -> list[dict]:
+    """Keep one Remake template per display name. Prefer non-*-ai-video-generator slugs
+    (canonical trend/short URLs after site redirects) and richer demo lists.
+    """
+    def score(it: dict) -> tuple:
+        slug = it.get('slug') or ''
+        alias = 1 if slug.endswith('-ai-video-generator') else 0
+        demos = len(it.get('demo_videos') or []) + len(it.get('preview_videos') or [])
+        posters = len(it.get('posters') or [])
+        return (-alias, demos, posters, -len(slug))  # higher better; prefer non-alias, more media, shorter slug
+
+    best: dict[str, dict] = {}
+    order: list[str] = []
+    for it in items:
+        key = (it.get('name') or it.get('slug') or '').strip().casefold()
+        if not key:
+            key = it.get('slug') or id(it)
+        if key not in best:
+            best[key] = it
+            order.append(key)
+        else:
+            if score(it) > score(best[key]):
+                best[key] = it
+    return [best[k] for k in order]
 
 def rebuild_inventory(mv_change: dict, rm_change: dict) -> dict:
     OUT_MV = ROOT / 'makeviral'
@@ -210,8 +286,16 @@ def rebuild_inventory(mv_change: dict, rm_change: dict) -> dict:
             item['published'] = None
         if not item.get('updated'):
             item['updated'] = None
-        write_template_folder(item, OUT_RM)
+        # Prefer slug from URL path when HTML still carries an old alias filename
+        canon = remake_slug_from_url(item.get('url') or '')
+        if canon and canon != item.get('slug'):
+            item['slug'] = canon
         rm_items.append(item)
+
+    # Collapse same-title Remake pairs (redirect aliases vs canonical trend/short slugs)
+    rm_items = dedupe_remake_by_name(rm_items)
+    for item in rm_items:
+        write_template_folder(item, OUT_RM)
 
     # Sort each source newest-first, then concatenate MV then RM? Or global?
     # Spec: sort listings / inventory newest-first. Sort all together by date key.
@@ -235,7 +319,7 @@ def rebuild_inventory(mv_change: dict, rm_change: dict) -> dict:
                 'listing': 'https://remakeyourmeme.com/templates/',
                 'count': len(rm_items),
                 'with_prompts': sum(1 for i in rm_items if i['prompt_count'] > 0),
-                'note': 'Public pages do not expose copyable prompts',
+                'note': 'Public pages do not expose copyable prompts; alias *-ai-video-generator URLs that 301 are collapsed to the canonical slug',
                 'total_demo_videos': sum(len(i.get('demo_videos') or []) for i in rm_items),
                 'sync': {k: rm_change.get(k, []) for k in ('added', 'updated', 'failed')},
             },
@@ -417,13 +501,19 @@ def main():
     print('== listing ==', flush=True)
     mv_slugs = fetch_makeviral_listing()
     rm_slugs = fetch_remake_listing()
-    # If remake listing returns short aliases, prefer existing inventory slugs union
+    # Union previously fetched Remake HTML stems, but drop *-ai-video-generator aliases
+    # when a non-alias sibling already appears in the listing (site 301 redirects).
     existing_rm = [p.stem for p in (RAW / 'remake-html').glob('*.html')]
+    rm_set = set(rm_slugs)
     if existing_rm:
-        # keep llms order first, then any existing not present
         for s in existing_rm:
-            if s not in rm_slugs:
-                rm_slugs.append(s)
+            if s in rm_set:
+                continue
+            if s.endswith('-ai-video-generator'):
+                # skip stale alias files; fetch_all_remake will also redirect-resolve
+                continue
+            rm_slugs.append(s)
+            rm_set.add(s)
     print(f'makeviral slugs={len(mv_slugs)} remake slugs={len(rm_slugs)}', flush=True)
 
     print('== fetch makeviral md ==', flush=True)

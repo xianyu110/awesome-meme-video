@@ -7,6 +7,8 @@
 - video: https://cdn.remakeyourmeme.com/trends/bulin-47/7694444687498693921.mp4
 - video: https://cdn.remakeyourmeme.com/trends/bulin-47/7695064422749834509.mp4
 - video: https://cdn.remakeyourmeme.com/wm/remakeyourmeme/examples/bulin-47/video.mp4
+- video: https://cdn.remakeyourmeme.com/templates/bulin-47/preview-854.mp4
+- video: https://cdn.remakeyourmeme.com/wm/remakeyourmeme/examples/bulin-47/preview-854.mp4
 - poster: https://cdn.remakeyourmeme.com/examples/bulin-47/input-1.jpg
 - poster: https://cdn.remakeyourmeme.com/examples/bulin-47/poster.jpg
 - poster: https://cdn.remakeyourmeme.com/templates/bulin-47/poster.jpg

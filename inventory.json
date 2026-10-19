@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-18",
-  "generated_at_iso": "2026-10-18T13:41:09+08:00",
+  "generated_at": "2026-10-19",
+  "generated_at_iso": "2026-10-19T08:43:59+08:00",
   "sorted_by": "updated || published || scraped_at (newest first); Asia/Shanghai scrape clock",
   "sources": {
     "makeviral": {
@@ -17,10 +17,10 @@
     },
     "remakeyourmeme": {
       "listing": "https://remakeyourmeme.com/templates/",
-      "count": 29,
+      "count": 19,
       "with_prompts": 0,
-      "note": "Public pages do not expose copyable prompts",
-      "total_demo_videos": 152,
+      "note": "Public pages do not expose copyable prompts; Deduped 2026-10-19: dropped 10 redirected *-ai-video-generator alias slugs (301 to shorter/trend URLs).",
+      "total_demo_videos": 93,
       "sync": {
         "added": [
           "ai-hotel-lobby-trend",
@@ -66,63 +66,6 @@
     }
   },
   "templates": [
-    {
-      "source": "remakeyourmeme",
-      "source_site": "https://remakeyourmeme.com",
-      "slug": "zombie-couple-ai-video-generator",
-      "name": "Zombie Couple AI Video Generator",
-      "url": "https://remakeyourmeme.com/templates/zombie-couple-ai-video-generator/",
-      "blurb": "Real output from this maker, unedited, made October 15, 2026 with photos of AI-generated sample people. Switch to Original to see the trend clip at the same moment.",
-      "photos_in": null,
-      "duration_s": 14,
-      "ready_to_make": true,
-      "demo_videos": [
-        "https://cdn.remakeyourmeme.com/trends/zombie-couple/7691766350611598605.mp4",
-        "https://cdn.remakeyourmeme.com/trends/zombie-couple/7691835688706116878.mp4",
-        "https://cdn.remakeyourmeme.com/trends/zombie-couple/7693462806938553613.mp4",
-        "https://cdn.remakeyourmeme.com/trends/zombie-couple/7694661370104515854.mp4",
-        "https://cdn.remakeyourmeme.com/trends/zombie-couple/7694860811377954078.mp4",
-        "https://cdn.remakeyourmeme.com/trends/zombie-couple/7695470450041818376.mp4",
-        "https://cdn.remakeyourmeme.com/wm/remakeyourmeme/examples/zombie-couple/sample-2/video.mp4"
-      ],
-      "preview_videos": [
-        "https://cdn.remakeyourmeme.com/templates/zombie-couple/preview-854.mp4",
-        "https://cdn.remakeyourmeme.com/wm/remakeyourmeme/examples/zombie-couple/sample-2/preview-854.mp4"
-      ],
-      "posters": [
-        "https://cdn.remakeyourmeme.com/examples/zombie-couple/sample-2/input-1.jpg",
-        "https://cdn.remakeyourmeme.com/examples/zombie-couple/sample-2/input-2.jpg",
-        "https://cdn.remakeyourmeme.com/examples/zombie-couple/sample-2/poster.jpg",
-        "https://cdn.remakeyourmeme.com/templates/zombie-couple/poster.jpg",
-        "https://cdn.remakeyourmeme.com/trends/zombie-couple/7691766350611598605.webp",
-        "https://cdn.remakeyourmeme.com/trends/zombie-couple/7691835688706116878.webp",
-        "https://cdn.remakeyourmeme.com/trends/zombie-couple/7693462806938553613.webp",
-        "https://cdn.remakeyourmeme.com/trends/zombie-couple/7694661370104515854.webp",
-        "https://cdn.remakeyourmeme.com/trends/zombie-couple/7694860811377954078.webp",
-        "https://cdn.remakeyourmeme.com/trends/zombie-couple/7695470450041818376.webp"
-      ],
-      "all_cdn_mp4": [
-        "https://cdn.remakeyourmeme.com/templates/baby-doll/video.mp4",
-        "https://cdn.remakeyourmeme.com/templates/closed-on-sunday/video.mp4",
-        "https://cdn.remakeyourmeme.com/templates/hug-in-heaven/video.mp4",
-        "https://cdn.remakeyourmeme.com/templates/zombie-couple/preview-854.mp4",
-        "https://cdn.remakeyourmeme.com/trends/zombie-couple/7691766350611598605.mp4",
-        "https://cdn.remakeyourmeme.com/trends/zombie-couple/7691835688706116878.mp4",
-        "https://cdn.remakeyourmeme.com/trends/zombie-couple/7693462806938553613.mp4",
-        "https://cdn.remakeyourmeme.com/trends/zombie-couple/7694661370104515854.mp4",
-        "https://cdn.remakeyourmeme.com/trends/zombie-couple/7694860811377954078.mp4",
-        "https://cdn.remakeyourmeme.com/trends/zombie-couple/7695470450041818376.mp4",
-        "https://cdn.remakeyourmeme.com/wm/remakeyourmeme/examples/zombie-couple/sample-2/preview-854.mp4",
-        "https://cdn.remakeyourmeme.com/wm/remakeyourmeme/examples/zombie-couple/sample-2/video.mp4"
-      ],
-      "prompts": [],
-      "prompt_count": 0,
-      "prompts_public": false,
-      "note": "Remake Your Meme does not publish copyable prompt text on public template pages (one-tap remake). Inventory keeps demos, posters, and metadata only.",
-      "scraped_at": "2026-10-18",
-      "published": null,
-      "updated": null
-    },
     {
       "source": "remakeyourmeme",
       "source_site": "https://remakeyourmeme.com",
@@ -259,54 +202,6 @@
         "https://cdn.remakeyourmeme.com/trends/smalltown-boy/7692699710783573300.mp4",
         "https://cdn.remakeyourmeme.com/trends/smalltown-boy/7694386654563339550.mp4",
         "https://cdn.remakeyourmeme.com/trends/smalltown-boy/7695113966942506253.mp4"
-      ],
-      "prompts": [],
-      "prompt_count": 0,
-      "prompts_public": false,
-      "note": "Remake Your Meme does not publish copyable prompt text on public template pages (one-tap remake). Inventory keeps demos, posters, and metadata only.",
-      "scraped_at": "2026-10-18",
-      "published": null,
-      "updated": null
-    },
-    {
-      "source": "remakeyourmeme",
-      "source_site": "https://remakeyourmeme.com",
-      "slug": "rumpelstiltskin-ai-video-generator",
-      "name": "Rumpelstiltskin AI Video Generator",
-      "url": "https://remakeyourmeme.com/templates/rumpelstiltskin-ai-video-generator/",
-      "blurb": "Real output from this maker, unedited, made October 10, 2026 with photos of AI-generated sample people. Switch to Original to see the trend clip at the same moment.",
-      "photos_in": null,
-      "duration_s": 14,
-      "ready_to_make": true,
-      "demo_videos": [
-        "https://cdn.remakeyourmeme.com/trends/rumpelstiltskin/7693232536037641486.mp4",
-        "https://cdn.remakeyourmeme.com/trends/rumpelstiltskin/7693713868241079582.mp4",
-        "https://cdn.remakeyourmeme.com/trends/rumpelstiltskin/7694520686584401182.mp4",
-        "https://cdn.remakeyourmeme.com/wm/remakeyourmeme/examples/rumpelstiltskin/video.mp4"
-      ],
-      "preview_videos": [
-        "https://cdn.remakeyourmeme.com/templates/rumpelstiltskin/preview-854.mp4",
-        "https://cdn.remakeyourmeme.com/wm/remakeyourmeme/examples/rumpelstiltskin/preview-854.mp4"
-      ],
-      "posters": [
-        "https://cdn.remakeyourmeme.com/examples/rumpelstiltskin/input-1.jpg",
-        "https://cdn.remakeyourmeme.com/examples/rumpelstiltskin/input-2.jpg",
-        "https://cdn.remakeyourmeme.com/examples/rumpelstiltskin/poster.jpg",
-        "https://cdn.remakeyourmeme.com/templates/rumpelstiltskin/poster.jpg",
-        "https://cdn.remakeyourmeme.com/trends/rumpelstiltskin/7693232536037641486.webp",
-        "https://cdn.remakeyourmeme.com/trends/rumpelstiltskin/7693713868241079582.webp",
-        "https://cdn.remakeyourmeme.com/trends/rumpelstiltskin/7694520686584401182.webp"
-      ],
-      "all_cdn_mp4": [
-        "https://cdn.remakeyourmeme.com/templates/baby-doll/video.mp4",
-        "https://cdn.remakeyourmeme.com/templates/closed-on-sunday/video.mp4",
-        "https://cdn.remakeyourmeme.com/templates/hug-in-heaven/video.mp4",
-        "https://cdn.remakeyourmeme.com/templates/rumpelstiltskin/preview-854.mp4",
-        "https://cdn.remakeyourmeme.com/trends/rumpelstiltskin/7693232536037641486.mp4",
-        "https://cdn.remakeyourmeme.com/trends/rumpelstiltskin/7693713868241079582.mp4",
-        "https://cdn.remakeyourmeme.com/trends/rumpelstiltskin/7694520686584401182.mp4",
-        "https://cdn.remakeyourmeme.com/wm/remakeyourmeme/examples/rumpelstiltskin/preview-854.mp4",
-        "https://cdn.remakeyourmeme.com/wm/remakeyourmeme/examples/rumpelstiltskin/video.mp4"
       ],
       "prompts": [],
       "prompt_count": 0,
@@ -729,67 +624,6 @@
     {
       "source": "remakeyourmeme",
       "source_site": "https://remakeyourmeme.com",
-      "slug": "hug-in-heaven-ai-video-generator",
-      "name": "Hug in Heaven AI Video Generator",
-      "url": "https://remakeyourmeme.com/templates/hug-in-heaven-ai-video-generator/",
-      "blurb": "2 real videos from this maker, unedited, made October 15, 2026 with photos of AI-generated sample people. Pick a tab to watch each one.",
-      "photos_in": null,
-      "duration_s": 14,
-      "ready_to_make": true,
-      "demo_videos": [
-        "https://cdn.remakeyourmeme.com/trends/hug-in-heaven/7671245533687663886.mp4",
-        "https://cdn.remakeyourmeme.com/trends/hug-in-heaven/7688375907219705102.mp4",
-        "https://cdn.remakeyourmeme.com/trends/hug-in-heaven/7690758687815699720.mp4",
-        "https://cdn.remakeyourmeme.com/trends/hug-in-heaven/7695076224720227597.mp4",
-        "https://cdn.remakeyourmeme.com/trends/hug-in-heaven/7695121630195993887.mp4",
-        "https://cdn.remakeyourmeme.com/trends/hug-in-heaven/7696472081373891854.mp4",
-        "https://cdn.remakeyourmeme.com/wm/remakeyourmeme/examples/hug-in-heaven/v2/sample-1/video.mp4",
-        "https://cdn.remakeyourmeme.com/wm/remakeyourmeme/examples/hug-in-heaven/v2/sample-2/video.mp4"
-      ],
-      "preview_videos": [
-        "https://cdn.remakeyourmeme.com/wm/remakeyourmeme/examples/hug-in-heaven/v2/sample-1/preview-854.mp4",
-        "https://cdn.remakeyourmeme.com/wm/remakeyourmeme/examples/hug-in-heaven/v2/sample-2/preview-854.mp4"
-      ],
-      "posters": [
-        "https://cdn.remakeyourmeme.com/examples/hug-in-heaven/v2/sample-1/input-1.jpg",
-        "https://cdn.remakeyourmeme.com/examples/hug-in-heaven/v2/sample-1/input-2.jpg",
-        "https://cdn.remakeyourmeme.com/examples/hug-in-heaven/v2/sample-1/poster.jpg",
-        "https://cdn.remakeyourmeme.com/examples/hug-in-heaven/v2/sample-2/input-1.jpg",
-        "https://cdn.remakeyourmeme.com/examples/hug-in-heaven/v2/sample-2/input-2.jpg",
-        "https://cdn.remakeyourmeme.com/examples/hug-in-heaven/v2/sample-2/poster.jpg",
-        "https://cdn.remakeyourmeme.com/trends/hug-in-heaven/7671245533687663886.webp",
-        "https://cdn.remakeyourmeme.com/trends/hug-in-heaven/7688375907219705102.webp",
-        "https://cdn.remakeyourmeme.com/trends/hug-in-heaven/7690758687815699720.webp",
-        "https://cdn.remakeyourmeme.com/trends/hug-in-heaven/7695076224720227597.webp",
-        "https://cdn.remakeyourmeme.com/trends/hug-in-heaven/7695121630195993887.webp",
-        "https://cdn.remakeyourmeme.com/trends/hug-in-heaven/7696472081373891854.webp"
-      ],
-      "all_cdn_mp4": [
-        "https://cdn.remakeyourmeme.com/templates/baby-doll/video.mp4",
-        "https://cdn.remakeyourmeme.com/templates/closed-on-sunday/video.mp4",
-        "https://cdn.remakeyourmeme.com/templates/zombie-couple/video.mp4",
-        "https://cdn.remakeyourmeme.com/trends/hug-in-heaven/7671245533687663886.mp4",
-        "https://cdn.remakeyourmeme.com/trends/hug-in-heaven/7688375907219705102.mp4",
-        "https://cdn.remakeyourmeme.com/trends/hug-in-heaven/7690758687815699720.mp4",
-        "https://cdn.remakeyourmeme.com/trends/hug-in-heaven/7695076224720227597.mp4",
-        "https://cdn.remakeyourmeme.com/trends/hug-in-heaven/7695121630195993887.mp4",
-        "https://cdn.remakeyourmeme.com/trends/hug-in-heaven/7696472081373891854.mp4",
-        "https://cdn.remakeyourmeme.com/wm/remakeyourmeme/examples/hug-in-heaven/v2/sample-1/preview-854.mp4",
-        "https://cdn.remakeyourmeme.com/wm/remakeyourmeme/examples/hug-in-heaven/v2/sample-1/video.mp4",
-        "https://cdn.remakeyourmeme.com/wm/remakeyourmeme/examples/hug-in-heaven/v2/sample-2/preview-854.mp4",
-        "https://cdn.remakeyourmeme.com/wm/remakeyourmeme/examples/hug-in-heaven/v2/sample-2/video.mp4"
-      ],
-      "prompts": [],
-      "prompt_count": 0,
-      "prompts_public": false,
-      "note": "Remake Your Meme does not publish copyable prompt text on public template pages (one-tap remake). Inventory keeps demos, posters, and metadata only.",
-      "scraped_at": "2026-10-18",
-      "published": null,
-      "updated": null
-    },
-    {
-      "source": "remakeyourmeme",
-      "source_site": "https://remakeyourmeme.com",
       "slug": "hug-in-heaven",
       "name": "Hug in Heaven AI Video Generator",
       "url": "https://remakeyourmeme.com/templates/hug-in-heaven/",
@@ -839,57 +673,6 @@
         "https://cdn.remakeyourmeme.com/wm/remakeyourmeme/examples/hug-in-heaven/v2/sample-1/video.mp4",
         "https://cdn.remakeyourmeme.com/wm/remakeyourmeme/examples/hug-in-heaven/v2/sample-2/preview-854.mp4",
         "https://cdn.remakeyourmeme.com/wm/remakeyourmeme/examples/hug-in-heaven/v2/sample-2/video.mp4"
-      ],
-      "prompts": [],
-      "prompt_count": 0,
-      "prompts_public": false,
-      "note": "Remake Your Meme does not publish copyable prompt text on public template pages (one-tap remake). Inventory keeps demos, posters, and metadata only.",
-      "scraped_at": "2026-10-18",
-      "published": null,
-      "updated": null
-    },
-    {
-      "source": "remakeyourmeme",
-      "source_site": "https://remakeyourmeme.com",
-      "slug": "hotel-lobby-ai-video-generator",
-      "name": "Hotel Lobby AI Video Generator",
-      "url": "https://remakeyourmeme.com/templates/hotel-lobby-ai-video-generator/",
-      "blurb": "Real output from this maker, unedited, made October 10, 2026 with photos of AI-generated sample people. Switch to Original to see the trend clip at the same moment.",
-      "photos_in": null,
-      "duration_s": 14,
-      "ready_to_make": true,
-      "demo_videos": [
-        "https://cdn.remakeyourmeme.com/trends/hotel-lobby/7685941142646541589.mp4",
-        "https://cdn.remakeyourmeme.com/trends/hotel-lobby/7690388554442181921.mp4",
-        "https://cdn.remakeyourmeme.com/trends/hotel-lobby/7692129733860936991.mp4",
-        "https://cdn.remakeyourmeme.com/trends/hotel-lobby/7694802064387460366.mp4",
-        "https://cdn.remakeyourmeme.com/wm/remakeyourmeme/examples/hotel-lobby/video.mp4"
-      ],
-      "preview_videos": [
-        "https://cdn.remakeyourmeme.com/templates/hotel-lobby/preview-854.mp4",
-        "https://cdn.remakeyourmeme.com/wm/remakeyourmeme/examples/hotel-lobby/preview-854.mp4"
-      ],
-      "posters": [
-        "https://cdn.remakeyourmeme.com/examples/hotel-lobby/input-1.jpg",
-        "https://cdn.remakeyourmeme.com/examples/hotel-lobby/input-2.jpg",
-        "https://cdn.remakeyourmeme.com/examples/hotel-lobby/poster.jpg",
-        "https://cdn.remakeyourmeme.com/templates/hotel-lobby/poster.jpg",
-        "https://cdn.remakeyourmeme.com/trends/hotel-lobby/7685941142646541589.webp",
-        "https://cdn.remakeyourmeme.com/trends/hotel-lobby/7690388554442181921.webp",
-        "https://cdn.remakeyourmeme.com/trends/hotel-lobby/7692129733860936991.webp",
-        "https://cdn.remakeyourmeme.com/trends/hotel-lobby/7694802064387460366.webp"
-      ],
-      "all_cdn_mp4": [
-        "https://cdn.remakeyourmeme.com/templates/baby-doll/video.mp4",
-        "https://cdn.remakeyourmeme.com/templates/closed-on-sunday/video.mp4",
-        "https://cdn.remakeyourmeme.com/templates/hotel-lobby/preview-854.mp4",
-        "https://cdn.remakeyourmeme.com/templates/hug-in-heaven/video.mp4",
-        "https://cdn.remakeyourmeme.com/trends/hotel-lobby/7685941142646541589.mp4",
-        "https://cdn.remakeyourmeme.com/trends/hotel-lobby/7690388554442181921.mp4",
-        "https://cdn.remakeyourmeme.com/trends/hotel-lobby/7692129733860936991.mp4",
-        "https://cdn.remakeyourmeme.com/trends/hotel-lobby/7694802064387460366.mp4",
-        "https://cdn.remakeyourmeme.com/wm/remakeyourmeme/examples/hotel-lobby/preview-854.mp4",
-        "https://cdn.remakeyourmeme.com/wm/remakeyourmeme/examples/hotel-lobby/video.mp4"
       ],
       "prompts": [],
       "prompt_count": 0,
@@ -1024,84 +807,6 @@
     {
       "source": "remakeyourmeme",
       "source_site": "https://remakeyourmeme.com",
-      "slug": "crazy-frog-ai-video-generator",
-      "name": "Crazy Frog AI Video Generator",
-      "url": "https://remakeyourmeme.com/templates/crazy-frog-ai-video-generator/",
-      "blurb": "Real output from this maker, unedited, made October 16, 2026 with photos of AI-generated sample people. Switch to Original to see the trend clip at the same moment.",
-      "photos_in": null,
-      "duration_s": 14,
-      "ready_to_make": true,
-      "demo_videos": [
-        "https://cdn.remakeyourmeme.com/trends/crazy-frog/7693979795910069525.mp4",
-        "https://cdn.remakeyourmeme.com/trends/crazy-frog/7694760297520729358.mp4",
-        "https://cdn.remakeyourmeme.com/trends/crazy-frog/7694928656371698958.mp4",
-        "https://cdn.remakeyourmeme.com/trends/crazy-frog/7695695581510946081.mp4",
-        "https://cdn.remakeyourmeme.com/wm/remakeyourmeme/examples/crazy-frog/sample-1/v2/video.mp4",
-        "https://cdn.remakeyourmeme.com/wm/remakeyourmeme/examples/crazy-frog/sample-2/video.mp4",
-        "https://cdn.remakeyourmeme.com/wm/remakeyourmeme/examples/crazy-frog/sample-3/video.mp4",
-        "https://cdn.remakeyourmeme.com/wm/remakeyourmeme/examples/crazy-frog/sample-4/v2/video.mp4",
-        "https://cdn.remakeyourmeme.com/wm/remakeyourmeme/examples/crazy-frog/sample-5/video.mp4",
-        "https://cdn.remakeyourmeme.com/wm/remakeyourmeme/examples/crazy-frog/sample-7/video.mp4"
-      ],
-      "preview_videos": [
-        "https://cdn.remakeyourmeme.com/templates/crazy-frog/preview-854.mp4",
-        "https://cdn.remakeyourmeme.com/wm/remakeyourmeme/examples/crazy-frog/sample-1/v2/preview-854.mp4",
-        "https://cdn.remakeyourmeme.com/wm/remakeyourmeme/examples/crazy-frog/sample-2/preview-854.mp4",
-        "https://cdn.remakeyourmeme.com/wm/remakeyourmeme/examples/crazy-frog/sample-3/preview-854.mp4",
-        "https://cdn.remakeyourmeme.com/wm/remakeyourmeme/examples/crazy-frog/sample-4/v2/preview-854.mp4",
-        "https://cdn.remakeyourmeme.com/wm/remakeyourmeme/examples/crazy-frog/sample-5/preview-854.mp4",
-        "https://cdn.remakeyourmeme.com/wm/remakeyourmeme/examples/crazy-frog/sample-7/preview-854.mp4"
-      ],
-      "posters": [
-        "https://cdn.remakeyourmeme.com/examples/crazy-frog/sample-1/input-1.jpg",
-        "https://cdn.remakeyourmeme.com/examples/crazy-frog/sample-1/v2/poster.jpg",
-        "https://cdn.remakeyourmeme.com/examples/crazy-frog/sample-2/input-1.jpg",
-        "https://cdn.remakeyourmeme.com/examples/crazy-frog/sample-2/input-2.jpg",
-        "https://cdn.remakeyourmeme.com/examples/crazy-frog/sample-2/poster.jpg",
-        "https://cdn.remakeyourmeme.com/examples/crazy-frog/sample-3/poster.jpg",
-        "https://cdn.remakeyourmeme.com/examples/crazy-frog/sample-4/v2/poster.jpg",
-        "https://cdn.remakeyourmeme.com/examples/crazy-frog/sample-5/poster.jpg",
-        "https://cdn.remakeyourmeme.com/examples/crazy-frog/sample-7/poster.jpg",
-        "https://cdn.remakeyourmeme.com/templates/crazy-frog/poster.jpg",
-        "https://cdn.remakeyourmeme.com/templates/crazy-frog/scenes/beach-1280.webp",
-        "https://cdn.remakeyourmeme.com/templates/crazy-frog/scenes/beach-sm.webp",
-        "https://cdn.remakeyourmeme.com/templates/crazy-frog/scenes/candy-house-1280.webp",
-        "https://cdn.remakeyourmeme.com/templates/crazy-frog/scenes/candy-house-sm.webp",
-        "https://cdn.remakeyourmeme.com/templates/crazy-frog/scenes/chocolate-factory-1280.webp"
-      ],
-      "all_cdn_mp4": [
-        "https://cdn.remakeyourmeme.com/templates/baby-doll/video.mp4",
-        "https://cdn.remakeyourmeme.com/templates/closed-on-sunday/video.mp4",
-        "https://cdn.remakeyourmeme.com/templates/crazy-frog/preview-854.mp4",
-        "https://cdn.remakeyourmeme.com/templates/hug-in-heaven/video.mp4",
-        "https://cdn.remakeyourmeme.com/trends/crazy-frog/7693979795910069525.mp4",
-        "https://cdn.remakeyourmeme.com/trends/crazy-frog/7694760297520729358.mp4",
-        "https://cdn.remakeyourmeme.com/trends/crazy-frog/7694928656371698958.mp4",
-        "https://cdn.remakeyourmeme.com/trends/crazy-frog/7695695581510946081.mp4",
-        "https://cdn.remakeyourmeme.com/wm/remakeyourmeme/examples/crazy-frog/sample-1/v2/preview-854.mp4",
-        "https://cdn.remakeyourmeme.com/wm/remakeyourmeme/examples/crazy-frog/sample-1/v2/video.mp4",
-        "https://cdn.remakeyourmeme.com/wm/remakeyourmeme/examples/crazy-frog/sample-2/preview-854.mp4",
-        "https://cdn.remakeyourmeme.com/wm/remakeyourmeme/examples/crazy-frog/sample-2/video.mp4",
-        "https://cdn.remakeyourmeme.com/wm/remakeyourmeme/examples/crazy-frog/sample-3/preview-854.mp4",
-        "https://cdn.remakeyourmeme.com/wm/remakeyourmeme/examples/crazy-frog/sample-3/video.mp4",
-        "https://cdn.remakeyourmeme.com/wm/remakeyourmeme/examples/crazy-frog/sample-4/v2/preview-854.mp4",
-        "https://cdn.remakeyourmeme.com/wm/remakeyourmeme/examples/crazy-frog/sample-4/v2/video.mp4",
-        "https://cdn.remakeyourmeme.com/wm/remakeyourmeme/examples/crazy-frog/sample-5/preview-854.mp4",
-        "https://cdn.remakeyourmeme.com/wm/remakeyourmeme/examples/crazy-frog/sample-5/video.mp4",
-        "https://cdn.remakeyourmeme.com/wm/remakeyourmeme/examples/crazy-frog/sample-7/preview-854.mp4",
-        "https://cdn.remakeyourmeme.com/wm/remakeyourmeme/examples/crazy-frog/sample-7/video.mp4"
-      ],
-      "prompts": [],
-      "prompt_count": 0,
-      "prompts_public": false,
-      "note": "Remake Your Meme does not publish copyable prompt text on public template pages (one-tap remake). Inventory keeps demos, posters, and metadata only.",
-      "scraped_at": "2026-10-18",
-      "published": null,
-      "updated": null
-    },
-    {
-      "source": "remakeyourmeme",
-      "source_site": "https://remakeyourmeme.com",
       "slug": "crazy-frog-ai-trend",
       "name": "Crazy Frog AI Video Generator",
       "url": "https://remakeyourmeme.com/templates/crazy-frog-ai-trend/",
@@ -1180,56 +885,6 @@
     {
       "source": "remakeyourmeme",
       "source_site": "https://remakeyourmeme.com",
-      "slug": "closed-on-sunday-ai-video-generator",
-      "name": "Closed on Sunday AI Video Generator",
-      "url": "https://remakeyourmeme.com/templates/closed-on-sunday-ai-video-generator/",
-      "blurb": "Real output from this maker, unedited, made October 17, 2026 with photos of AI-generated sample people. Switch to Original to see the trend clip at the same moment.",
-      "photos_in": null,
-      "duration_s": 14,
-      "ready_to_make": true,
-      "demo_videos": [
-        "https://cdn.remakeyourmeme.com/wm/remakeyourmeme/examples/closed-on-sunday/sample-6/video.mp4"
-      ],
-      "preview_videos": [
-        "https://cdn.remakeyourmeme.com/templates/closed-on-sunday/preview-854.mp4",
-        "https://cdn.remakeyourmeme.com/wm/remakeyourmeme/examples/closed-on-sunday/sample-6/preview-854.mp4"
-      ],
-      "posters": [
-        "https://cdn.remakeyourmeme.com/examples/closed-on-sunday/sample-6/poster.jpg",
-        "https://cdn.remakeyourmeme.com/templates/closed-on-sunday/choirs/aliens-1200.webp",
-        "https://cdn.remakeyourmeme.com/templates/closed-on-sunday/choirs/aliens-one.webp",
-        "https://cdn.remakeyourmeme.com/templates/closed-on-sunday/choirs/angels-1200.webp",
-        "https://cdn.remakeyourmeme.com/templates/closed-on-sunday/choirs/angels-one.webp",
-        "https://cdn.remakeyourmeme.com/templates/closed-on-sunday/choirs/cats-1200.webp",
-        "https://cdn.remakeyourmeme.com/templates/closed-on-sunday/choirs/cats-one.webp",
-        "https://cdn.remakeyourmeme.com/templates/closed-on-sunday/choirs/dogs-1200.webp",
-        "https://cdn.remakeyourmeme.com/templates/closed-on-sunday/choirs/dogs-one.webp",
-        "https://cdn.remakeyourmeme.com/templates/closed-on-sunday/choirs/frogs-1200.webp",
-        "https://cdn.remakeyourmeme.com/templates/closed-on-sunday/choirs/frogs-one.webp",
-        "https://cdn.remakeyourmeme.com/templates/closed-on-sunday/choirs/grandmas-1200.webp",
-        "https://cdn.remakeyourmeme.com/templates/closed-on-sunday/choirs/grandmas-one.webp",
-        "https://cdn.remakeyourmeme.com/templates/closed-on-sunday/choirs/original-1200.webp",
-        "https://cdn.remakeyourmeme.com/templates/closed-on-sunday/choirs/original-one.webp"
-      ],
-      "all_cdn_mp4": [
-        "https://cdn.remakeyourmeme.com/templates/baby-doll/video.mp4",
-        "https://cdn.remakeyourmeme.com/templates/closed-on-sunday/preview-854.mp4",
-        "https://cdn.remakeyourmeme.com/templates/hug-in-heaven/video.mp4",
-        "https://cdn.remakeyourmeme.com/templates/zombie-couple/video.mp4",
-        "https://cdn.remakeyourmeme.com/wm/remakeyourmeme/examples/closed-on-sunday/sample-6/preview-854.mp4",
-        "https://cdn.remakeyourmeme.com/wm/remakeyourmeme/examples/closed-on-sunday/sample-6/video.mp4"
-      ],
-      "prompts": [],
-      "prompt_count": 0,
-      "prompts_public": false,
-      "note": "Remake Your Meme does not publish copyable prompt text on public template pages (one-tap remake). Inventory keeps demos, posters, and metadata only.",
-      "scraped_at": "2026-10-18",
-      "published": null,
-      "updated": null
-    },
-    {
-      "source": "remakeyourmeme",
-      "source_site": "https://remakeyourmeme.com",
       "slug": "closed-on-sunday-ai-trend",
       "name": "Closed on Sunday AI Video Generator",
       "url": "https://remakeyourmeme.com/templates/closed-on-sunday-ai-trend/",
@@ -1268,72 +923,6 @@
         "https://cdn.remakeyourmeme.com/templates/zombie-couple/video.mp4",
         "https://cdn.remakeyourmeme.com/wm/remakeyourmeme/examples/closed-on-sunday/sample-6/preview-854.mp4",
         "https://cdn.remakeyourmeme.com/wm/remakeyourmeme/examples/closed-on-sunday/sample-6/video.mp4"
-      ],
-      "prompts": [],
-      "prompt_count": 0,
-      "prompts_public": false,
-      "note": "Remake Your Meme does not publish copyable prompt text on public template pages (one-tap remake). Inventory keeps demos, posters, and metadata only.",
-      "scraped_at": "2026-10-18",
-      "published": null,
-      "updated": null
-    },
-    {
-      "source": "remakeyourmeme",
-      "source_site": "https://remakeyourmeme.com",
-      "slug": "burning-bridges-ai-video-generator",
-      "name": "Burning Bridges AI Video Generator",
-      "url": "https://remakeyourmeme.com/templates/burning-bridges-ai-video-generator/",
-      "blurb": "Real output from this maker, unedited, made October 11, 2026 with photos of AI-generated sample people. Switch to Original to see the trend clip at the same moment.",
-      "photos_in": null,
-      "duration_s": 14,
-      "ready_to_make": true,
-      "demo_videos": [
-        "https://cdn.remakeyourmeme.com/trends/burning-bridges/7693216992827936013.mp4",
-        "https://cdn.remakeyourmeme.com/trends/burning-bridges/7693917087428873503.mp4",
-        "https://cdn.remakeyourmeme.com/trends/burning-bridges/7694447027471600909.mp4",
-        "https://cdn.remakeyourmeme.com/trends/burning-bridges/7694593788458568993.mp4",
-        "https://cdn.remakeyourmeme.com/trends/burning-bridges/7694662134285864206.mp4",
-        "https://cdn.remakeyourmeme.com/trends/burning-bridges/7694774387920096526.mp4",
-        "https://cdn.remakeyourmeme.com/wm/remakeyourmeme/examples/burning-bridges/sample-1/video.mp4",
-        "https://cdn.remakeyourmeme.com/wm/remakeyourmeme/examples/burning-bridges/sample-2/video.mp4",
-        "https://cdn.remakeyourmeme.com/wm/remakeyourmeme/examples/burning-bridges/sample-3/video.mp4"
-      ],
-      "preview_videos": [
-        "https://cdn.remakeyourmeme.com/templates/burning-bridges/preview-854.mp4",
-        "https://cdn.remakeyourmeme.com/wm/remakeyourmeme/examples/burning-bridges/sample-1/preview-854.mp4",
-        "https://cdn.remakeyourmeme.com/wm/remakeyourmeme/examples/burning-bridges/sample-2/preview-854.mp4",
-        "https://cdn.remakeyourmeme.com/wm/remakeyourmeme/examples/burning-bridges/sample-3/preview-854.mp4"
-      ],
-      "posters": [
-        "https://cdn.remakeyourmeme.com/examples/burning-bridges/sample-1/face.jpg",
-        "https://cdn.remakeyourmeme.com/examples/burning-bridges/sample-1/poster.jpg",
-        "https://cdn.remakeyourmeme.com/examples/burning-bridges/sample-2/poster.jpg",
-        "https://cdn.remakeyourmeme.com/examples/burning-bridges/sample-3/poster.jpg",
-        "https://cdn.remakeyourmeme.com/templates/burning-bridges/poster.jpg",
-        "https://cdn.remakeyourmeme.com/trends/burning-bridges/7693216992827936013.webp",
-        "https://cdn.remakeyourmeme.com/trends/burning-bridges/7693917087428873503.webp",
-        "https://cdn.remakeyourmeme.com/trends/burning-bridges/7694447027471600909.webp",
-        "https://cdn.remakeyourmeme.com/trends/burning-bridges/7694593788458568993.webp",
-        "https://cdn.remakeyourmeme.com/trends/burning-bridges/7694662134285864206.webp",
-        "https://cdn.remakeyourmeme.com/trends/burning-bridges/7694774387920096526.webp"
-      ],
-      "all_cdn_mp4": [
-        "https://cdn.remakeyourmeme.com/templates/baby-doll/video.mp4",
-        "https://cdn.remakeyourmeme.com/templates/burning-bridges/preview-854.mp4",
-        "https://cdn.remakeyourmeme.com/templates/closed-on-sunday/video.mp4",
-        "https://cdn.remakeyourmeme.com/templates/hug-in-heaven/video.mp4",
-        "https://cdn.remakeyourmeme.com/trends/burning-bridges/7693216992827936013.mp4",
-        "https://cdn.remakeyourmeme.com/trends/burning-bridges/7693917087428873503.mp4",
-        "https://cdn.remakeyourmeme.com/trends/burning-bridges/7694447027471600909.mp4",
-        "https://cdn.remakeyourmeme.com/trends/burning-bridges/7694593788458568993.mp4",
-        "https://cdn.remakeyourmeme.com/trends/burning-bridges/7694662134285864206.mp4",
-        "https://cdn.remakeyourmeme.com/trends/burning-bridges/7694774387920096526.mp4",
-        "https://cdn.remakeyourmeme.com/wm/remakeyourmeme/examples/burning-bridges/sample-1/preview-854.mp4",
-        "https://cdn.remakeyourmeme.com/wm/remakeyourmeme/examples/burning-bridges/sample-1/video.mp4",
-        "https://cdn.remakeyourmeme.com/wm/remakeyourmeme/examples/burning-bridges/sample-2/preview-854.mp4",
-        "https://cdn.remakeyourmeme.com/wm/remakeyourmeme/examples/burning-bridges/sample-2/video.mp4",
-        "https://cdn.remakeyourmeme.com/wm/remakeyourmeme/examples/burning-bridges/sample-3/preview-854.mp4",
-        "https://cdn.remakeyourmeme.com/wm/remakeyourmeme/examples/burning-bridges/sample-3/video.mp4"
       ],
       "prompts": [],
       "prompt_count": 0,
@@ -1412,62 +1001,6 @@
     {
       "source": "remakeyourmeme",
       "source_site": "https://remakeyourmeme.com",
-      "slug": "bulin-47-ai-video-generator",
-      "name": "Bulin 47 AI Video Generator",
-      "url": "https://remakeyourmeme.com/templates/bulin-47-ai-video-generator/",
-      "blurb": "Real output from this maker, unedited, made October 11, 2026 with photos of AI-generated sample people. Switch to Original to see the trend clip at the same moment.",
-      "photos_in": null,
-      "duration_s": 14,
-      "ready_to_make": true,
-      "demo_videos": [
-        "https://cdn.remakeyourmeme.com/trends/bulin-47/7691875916644994326.mp4",
-        "https://cdn.remakeyourmeme.com/trends/bulin-47/7693700495902280981.mp4",
-        "https://cdn.remakeyourmeme.com/trends/bulin-47/7693811105356975374.mp4",
-        "https://cdn.remakeyourmeme.com/trends/bulin-47/7694344166033132807.mp4",
-        "https://cdn.remakeyourmeme.com/trends/bulin-47/7694444687498693921.mp4",
-        "https://cdn.remakeyourmeme.com/trends/bulin-47/7695064422749834509.mp4",
-        "https://cdn.remakeyourmeme.com/wm/remakeyourmeme/examples/bulin-47/video.mp4"
-      ],
-      "preview_videos": [
-        "https://cdn.remakeyourmeme.com/templates/bulin-47/preview-854.mp4",
-        "https://cdn.remakeyourmeme.com/wm/remakeyourmeme/examples/bulin-47/preview-854.mp4"
-      ],
-      "posters": [
-        "https://cdn.remakeyourmeme.com/examples/bulin-47/input-1.jpg",
-        "https://cdn.remakeyourmeme.com/examples/bulin-47/poster.jpg",
-        "https://cdn.remakeyourmeme.com/templates/bulin-47/poster.jpg",
-        "https://cdn.remakeyourmeme.com/trends/bulin-47/7691875916644994326.webp",
-        "https://cdn.remakeyourmeme.com/trends/bulin-47/7693700495902280981.webp",
-        "https://cdn.remakeyourmeme.com/trends/bulin-47/7693811105356975374.webp",
-        "https://cdn.remakeyourmeme.com/trends/bulin-47/7694344166033132807.webp",
-        "https://cdn.remakeyourmeme.com/trends/bulin-47/7694444687498693921.webp",
-        "https://cdn.remakeyourmeme.com/trends/bulin-47/7695064422749834509.webp"
-      ],
-      "all_cdn_mp4": [
-        "https://cdn.remakeyourmeme.com/templates/baby-doll/video.mp4",
-        "https://cdn.remakeyourmeme.com/templates/bulin-47/preview-854.mp4",
-        "https://cdn.remakeyourmeme.com/templates/closed-on-sunday/video.mp4",
-        "https://cdn.remakeyourmeme.com/templates/hug-in-heaven/video.mp4",
-        "https://cdn.remakeyourmeme.com/trends/bulin-47/7691875916644994326.mp4",
-        "https://cdn.remakeyourmeme.com/trends/bulin-47/7693700495902280981.mp4",
-        "https://cdn.remakeyourmeme.com/trends/bulin-47/7693811105356975374.mp4",
-        "https://cdn.remakeyourmeme.com/trends/bulin-47/7694344166033132807.mp4",
-        "https://cdn.remakeyourmeme.com/trends/bulin-47/7694444687498693921.mp4",
-        "https://cdn.remakeyourmeme.com/trends/bulin-47/7695064422749834509.mp4",
-        "https://cdn.remakeyourmeme.com/wm/remakeyourmeme/examples/bulin-47/preview-854.mp4",
-        "https://cdn.remakeyourmeme.com/wm/remakeyourmeme/examples/bulin-47/video.mp4"
-      ],
-      "prompts": [],
-      "prompt_count": 0,
-      "prompts_public": false,
-      "note": "Remake Your Meme does not publish copyable prompt text on public template pages (one-tap remake). Inventory keeps demos, posters, and metadata only.",
-      "scraped_at": "2026-10-18",
-      "published": null,
-      "updated": null
-    },
-    {
-      "source": "remakeyourmeme",
-      "source_site": "https://remakeyourmeme.com",
       "slug": "bulin-47-ai-trend",
       "name": "Bulin 47 AI Video Generator",
       "url": "https://remakeyourmeme.com/templates/bulin-47-ai-trend/",
@@ -1512,49 +1045,6 @@
         "https://cdn.remakeyourmeme.com/trends/bulin-47/7695064422749834509.mp4",
         "https://cdn.remakeyourmeme.com/wm/remakeyourmeme/examples/bulin-47/preview-854.mp4",
         "https://cdn.remakeyourmeme.com/wm/remakeyourmeme/examples/bulin-47/video.mp4"
-      ],
-      "prompts": [],
-      "prompt_count": 0,
-      "prompts_public": false,
-      "note": "Remake Your Meme does not publish copyable prompt text on public template pages (one-tap remake). Inventory keeps demos, posters, and metadata only.",
-      "scraped_at": "2026-10-18",
-      "published": null,
-      "updated": null
-    },
-    {
-      "source": "remakeyourmeme",
-      "source_site": "https://remakeyourmeme.com",
-      "slug": "babydoll-dance-ai-video-generator",
-      "name": "Babydoll Dance AI Video Generator",
-      "url": "https://remakeyourmeme.com/templates/babydoll-dance-ai-video-generator/",
-      "blurb": "Real output from this maker, unedited, made October 17, 2026 with photos of AI-generated sample people. Switch to Original to see the trend clip at the same moment.",
-      "photos_in": null,
-      "duration_s": 14,
-      "ready_to_make": true,
-      "demo_videos": [
-        "https://cdn.remakeyourmeme.com/trends/baby-doll/7674629461723139358.mp4",
-        "https://cdn.remakeyourmeme.com/wm/remakeyourmeme/examples/baby-doll/sample-2/video.mp4"
-      ],
-      "preview_videos": [
-        "https://cdn.remakeyourmeme.com/templates/baby-doll/preview-854.mp4",
-        "https://cdn.remakeyourmeme.com/wm/remakeyourmeme/examples/baby-doll/sample-2/preview-854.mp4"
-      ],
-      "posters": [
-        "https://cdn.remakeyourmeme.com/examples/baby-doll/sample-1/input-1.jpg",
-        "https://cdn.remakeyourmeme.com/examples/baby-doll/sample-1/input-2.jpg",
-        "https://cdn.remakeyourmeme.com/examples/baby-doll/sample-1/input-3.jpg",
-        "https://cdn.remakeyourmeme.com/examples/baby-doll/sample-2/poster.jpg",
-        "https://cdn.remakeyourmeme.com/templates/baby-doll/poster.jpg",
-        "https://cdn.remakeyourmeme.com/trends/baby-doll/7674629461723139358.webp"
-      ],
-      "all_cdn_mp4": [
-        "https://cdn.remakeyourmeme.com/templates/baby-doll/preview-854.mp4",
-        "https://cdn.remakeyourmeme.com/templates/closed-on-sunday/video.mp4",
-        "https://cdn.remakeyourmeme.com/templates/hug-in-heaven/video.mp4",
-        "https://cdn.remakeyourmeme.com/templates/zombie-couple/video.mp4",
-        "https://cdn.remakeyourmeme.com/trends/baby-doll/7674629461723139358.mp4",
-        "https://cdn.remakeyourmeme.com/wm/remakeyourmeme/examples/baby-doll/sample-2/preview-854.mp4",
-        "https://cdn.remakeyourmeme.com/wm/remakeyourmeme/examples/baby-doll/sample-2/video.mp4"
       ],
       "prompts": [],
       "prompt_count": 0,
@@ -1701,60 +1191,6 @@
       "note": "No public prompt text found in Media.io aigc_config / page payload; archived demos/posters only — prompts not invented.",
       "author": null,
       "stats": {}
-    },
-    {
-      "source": "remakeyourmeme",
-      "source_site": "https://remakeyourmeme.com",
-      "slug": "alors-on-danse-ai-video-generator",
-      "name": "Alors On Danse AI Video Generator",
-      "url": "https://remakeyourmeme.com/templates/alors-on-danse-ai-video-generator/",
-      "blurb": "Real output from this maker, unedited, made October 10, 2026 with photos of AI-generated sample people. Switch to Original to see the trend clip at the same moment.",
-      "photos_in": null,
-      "duration_s": 14,
-      "ready_to_make": true,
-      "demo_videos": [
-        "https://cdn.remakeyourmeme.com/trends/alors-on-danse/7646336057927142689.mp4",
-        "https://cdn.remakeyourmeme.com/trends/alors-on-danse/7690702205229206791.mp4",
-        "https://cdn.remakeyourmeme.com/trends/alors-on-danse/7692527106185596168.mp4",
-        "https://cdn.remakeyourmeme.com/trends/alors-on-danse/7693189653947632918.mp4",
-        "https://cdn.remakeyourmeme.com/trends/alors-on-danse/7693870611386469654.mp4",
-        "https://cdn.remakeyourmeme.com/wm/remakeyourmeme/examples/alors-on-danse/video.mp4"
-      ],
-      "preview_videos": [
-        "https://cdn.remakeyourmeme.com/templates/alors-on-danse/preview-854.mp4",
-        "https://cdn.remakeyourmeme.com/wm/remakeyourmeme/examples/alors-on-danse/preview-854.mp4"
-      ],
-      "posters": [
-        "https://cdn.remakeyourmeme.com/examples/alors-on-danse/input-1.jpg",
-        "https://cdn.remakeyourmeme.com/examples/alors-on-danse/input-2.jpg",
-        "https://cdn.remakeyourmeme.com/examples/alors-on-danse/poster.jpg",
-        "https://cdn.remakeyourmeme.com/templates/alors-on-danse/poster.jpg",
-        "https://cdn.remakeyourmeme.com/trends/alors-on-danse/7646336057927142689.webp",
-        "https://cdn.remakeyourmeme.com/trends/alors-on-danse/7690702205229206791.webp",
-        "https://cdn.remakeyourmeme.com/trends/alors-on-danse/7692527106185596168.webp",
-        "https://cdn.remakeyourmeme.com/trends/alors-on-danse/7693189653947632918.webp",
-        "https://cdn.remakeyourmeme.com/trends/alors-on-danse/7693870611386469654.webp"
-      ],
-      "all_cdn_mp4": [
-        "https://cdn.remakeyourmeme.com/templates/alors-on-danse/preview-854.mp4",
-        "https://cdn.remakeyourmeme.com/templates/baby-doll/video.mp4",
-        "https://cdn.remakeyourmeme.com/templates/closed-on-sunday/video.mp4",
-        "https://cdn.remakeyourmeme.com/templates/hug-in-heaven/video.mp4",
-        "https://cdn.remakeyourmeme.com/trends/alors-on-danse/7646336057927142689.mp4",
-        "https://cdn.remakeyourmeme.com/trends/alors-on-danse/7690702205229206791.mp4",
-        "https://cdn.remakeyourmeme.com/trends/alors-on-danse/7692527106185596168.mp4",
-        "https://cdn.remakeyourmeme.com/trends/alors-on-danse/7693189653947632918.mp4",
-        "https://cdn.remakeyourmeme.com/trends/alors-on-danse/7693870611386469654.mp4",
-        "https://cdn.remakeyourmeme.com/wm/remakeyourmeme/examples/alors-on-danse/preview-854.mp4",
-        "https://cdn.remakeyourmeme.com/wm/remakeyourmeme/examples/alors-on-danse/video.mp4"
-      ],
-      "prompts": [],
-      "prompt_count": 0,
-      "prompts_public": false,
-      "note": "Remake Your Meme does not publish copyable prompt text on public template pages (one-tap remake). Inventory keeps demos, posters, and metadata only.",
-      "scraped_at": "2026-10-18",
-      "published": null,
-      "updated": null
     },
     {
       "source": "remakeyourmeme",

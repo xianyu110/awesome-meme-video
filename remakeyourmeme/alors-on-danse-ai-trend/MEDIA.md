@@ -6,6 +6,8 @@
 - video: https://cdn.remakeyourmeme.com/trends/alors-on-danse/7693189653947632918.mp4
 - video: https://cdn.remakeyourmeme.com/trends/alors-on-danse/7693870611386469654.mp4
 - video: https://cdn.remakeyourmeme.com/wm/remakeyourmeme/examples/alors-on-danse/video.mp4
+- video: https://cdn.remakeyourmeme.com/templates/alors-on-danse/preview-854.mp4
+- video: https://cdn.remakeyourmeme.com/wm/remakeyourmeme/examples/alors-on-danse/preview-854.mp4
 - poster: https://cdn.remakeyourmeme.com/examples/alors-on-danse/input-1.jpg
 - poster: https://cdn.remakeyourmeme.com/examples/alors-on-danse/input-2.jpg
 - poster: https://cdn.remakeyourmeme.com/examples/alors-on-danse/poster.jpg

@@ -7,6 +7,8 @@
 - video: https://cdn.remakeyourmeme.com/trends/zombie-couple/7694860811377954078.mp4
 - video: https://cdn.remakeyourmeme.com/trends/zombie-couple/7695470450041818376.mp4
 - video: https://cdn.remakeyourmeme.com/wm/remakeyourmeme/examples/zombie-couple/sample-2/video.mp4
+- video: https://cdn.remakeyourmeme.com/templates/zombie-couple/preview-854.mp4
+- video: https://cdn.remakeyourmeme.com/wm/remakeyourmeme/examples/zombie-couple/sample-2/preview-854.mp4
 - poster: https://cdn.remakeyourmeme.com/examples/zombie-couple/sample-2/input-1.jpg
 - poster: https://cdn.remakeyourmeme.com/examples/zombie-couple/sample-2/input-2.jpg
 - poster: https://cdn.remakeyourmeme.com/examples/zombie-couple/sample-2/poster.jpg
