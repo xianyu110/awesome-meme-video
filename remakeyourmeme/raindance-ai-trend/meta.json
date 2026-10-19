@@ -6,7 +6,7 @@
   "url": "https://remakeyourmeme.com/templates/raindance-ai-trend/",
   "blurb": "Unchained and KevkoYt in the pier scene, posted 8 October 2026",
   "photos_in": null,
-  "duration_s": 14,
+  "duration_s": 10,
   "ready_to_make": true,
   "demo_videos": [
     "https://cdn.remakeyourmeme.com/templates/raindance/video.mp4",
@@ -22,7 +22,7 @@
   "all_cdn_mp4": [
     "https://cdn.remakeyourmeme.com/templates/baby-doll/video.mp4",
     "https://cdn.remakeyourmeme.com/templates/closed-on-sunday/video.mp4",
-    "https://cdn.remakeyourmeme.com/templates/hug-in-heaven/video.mp4",
+    "https://cdn.remakeyourmeme.com/templates/coldplay-kiss-cam/video.mp4",
     "https://cdn.remakeyourmeme.com/templates/raindance/video.mp4",
     "https://cdn.remakeyourmeme.com/trends/raindance/7689332850398678304.mp4",
     "https://cdn.remakeyourmeme.com/trends/raindance/7694325603742305568.mp4"
@@ -31,7 +31,7 @@
   "prompt_count": 0,
   "prompts_public": false,
   "note": "Remake Your Meme does not publish copyable prompt text on public template pages (one-tap remake). Inventory keeps demos, posters, and metadata only.",
-  "scraped_at": "2026-10-18",
+  "scraped_at": "2026-10-19",
   "published": null,
   "updated": null
 }

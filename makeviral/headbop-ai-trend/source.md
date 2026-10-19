@@ -3,7 +3,7 @@
 > The headbop trend is a TikTok edit where a row of cut-out heads on a black background bops to a phonk beat, from the smallest to the biggest.
 
 Canonical: https://www.makeviral.ai/templates/headbop-ai-trend
-Updated: 2026-10-15
+Updated: 2026-10-18
 Published: 2026-10-14
 Author: İrfan Şener (https://www.makeviral.ai/about)
 Publisher: MakeViral (https://www.makeviral.ai)
@@ -12,9 +12,11 @@ The **headbop trend** is a TikTok edit where a row of cut-out heads on a black b
 
 A row of heads on black, from small to big, bopping in turn to the beat. Add one photo and every head is you, three photos for your family or friends, or one photo of your pet. No cut-outs and no keyframes: the AI does the edit, with the trend's sound.
 
+Also called: Head bop edit trend, Headpop.
+
 **Make it now:** [Make this video](https://www.makeviral.ai/templates/headbop-ai-trend/create). 1 photo · 11 s · 9:16 with sound · 44 credits, charged once · ready in a few minutes · no prompt to write.
 
-Keyword: headbop. Also answers: head bop, head bop animation, headbop meme, head bop edit, head bop trend, headbop animation, headbop trend, head bop ai, headbop ai, head bobbing trend, head bop animation app, head bop animation meme, head bop tutorial capcut, head bop capcut template, head bop tutorial, family headbop, family headpop, headbop with your family, meme cat headbop, pet headbop, headbop template, head bop meme, headbop edit, head bop animation ai.
+Keyword: headbop. Also answers: head bop, head bop animation, headbop meme, head bop edit, head bop trend, headbop animation, headbop trend, head bop ai, headbop ai, head bobbing trend, head bop animation app, head bop animation meme, head bop tutorial capcut, head bop capcut template, head bop tutorial, family headbop, family headpop, headbop with your family, meme cat headbop, pet headbop, headbop template, head bop meme, headbop edit, head bop animation ai, head bop tiktok trend.
 
 ## What is the Headbop Trend trend, and where did it start?
 
@@ -247,7 +249,7 @@ No. The heads are made with AI from still photos and put into a reel of cat head
 
 ### Is it headbop or head bop?
 
-Both spellings are common, as in headbop animation or head bop edit, and both mean the same head bop trend.
+Both spellings are common, as in headbop animation or head bop edit, and both mean the same head bop trend. Some people write head bob instead, but the trend's TikTok tags use bop.
 
 ### Is there a head bop animation app?
 

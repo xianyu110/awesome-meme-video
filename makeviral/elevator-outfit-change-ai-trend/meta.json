@@ -1,0 +1,47 @@
+{
+  "source": "makeviral",
+  "source_site": "https://www.makeviral.ai",
+  "slug": "elevator-outfit-change-ai-trend",
+  "name": "Elevator Outfit Change AI: The Doors Close, a New Outfit Steps Out",
+  "url": "https://www.makeviral.ai/templates/elevator-outfit-change-ai-trend",
+  "markdown_url": "https://www.makeviral.ai/templates/elevator-outfit-change-ai-trend.md",
+  "blurb": "The elevator outfit change is the fit check where the elevator does the edit: you stand in the car, the doors close, and when they open again you wear something new.",
+  "updated": "2026-10-18",
+  "published": "2026-10-18",
+  "credits": 168,
+  "demo_videos": [
+    "https://www.makeviral.ai/media/templates/elevator-outfit-change-ai-trend/original-main-v2.mp4",
+    "https://www.makeviral.ai/media/templates/elevator-outfit-change-ai-trend/original-men-v2.mp4"
+  ],
+  "posters": [
+    "https://www.makeviral.ai/media/templates/elevator-outfit-change-ai-trend/original-main-v1.jpg",
+    "https://www.makeviral.ai/media/templates/elevator-outfit-change-ai-trend/original-men-v1.jpg"
+  ],
+  "prompts": [
+    {
+      "label": "1. The video prompt is filled in. Settings: genjutsu-motion, 13 s, 480p, 9:16, sound off. The video prompt",
+      "variant": null,
+      "kind": "video_prompt",
+      "text": "Replace the young woman with long straight brown hair who stands and poses inside the steel elevator with the person from image 1: keep that face, hair and skin tone exactly, in every outfit, also in the first second when she turns from the back. Take only the face, hair and skin tone from image 1, never the clothes: in every shot the person wears the gown of the video. Keep every gown, every outfit change hidden by the closing elevator doors, the steel doors, the mirrored steel walls, the ceiling lights, the light, the motion and the camera of the video."
+    },
+    {
+      "label": "1. The video prompt is filled in. Settings: genjutsu-motion, 13 s, 480p, 9:16, sound off. The video prompt",
+      "variant": null,
+      "kind": "video_prompt",
+      "text": "Replace the young man with short dark hair, a dark cap and tinted glasses who stands inside the steel elevator with the person from image 1: keep that face, hair and skin tone exactly, in every outfit, also when he walks out toward the camera at the end. Take only the face, hair and skin tone from image 1, never the clothes: in every shot the person wears the outfit of the video. Glasses only if image 1 shows glasses. Keep every outfit, every outfit change hidden by the closing elevator doors, the black bag, the steel doors and walls, the curved light strips, the light, the motion and the camera of the video."
+    }
+  ],
+  "variant_headings": [
+    "What the Elevator Outfits video looks like",
+    "How to make the Elevator Outfits video on MakeViral",
+    "Which photo works best?",
+    "Which looks are in the video, and can you write your own?",
+    "Is this the AI elevator trend with the photo prompt?",
+    "How long is the video?",
+    "Does the elevator outfit video cost credits?",
+    "Other AI video templates and tools",
+    "Make your own Elevator Outfits video"
+  ],
+  "prompt_count": 2,
+  "scraped_at": "2026-10-19"
+}

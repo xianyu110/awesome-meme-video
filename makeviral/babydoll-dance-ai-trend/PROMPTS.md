@@ -7,10 +7,12 @@ The Babydoll dance is the bouncy two-step that took over TikTok in autumn 2026 t
 
 ## Demo videos (CDN)
 
+- https://www.makeviral.ai/media/templates/babydoll-dance-ai-trend/original-friends-v2.mp4
 - https://www.makeviral.ai/media/templates/babydoll-dance-ai-trend/original-pet-v2.mp4
 
 ## Posters
 
+- https://www.makeviral.ai/media/templates/babydoll-dance-ai-trend/original-friends-v1.jpg
 - https://www.makeviral.ai/media/templates/babydoll-dance-ai-trend/original-pet-v1.jpg
 
 ## Prompts
@@ -24,7 +26,31 @@ Replace the character in the video with the person from the uploaded image. Keep
 The person dances in the place from the uploaded image, in the clothes and shoes from the uploaded image, not the white sleeveless top or the blue-and-white striped flared jeans of the dancer in the video, and keeps their own hair from the uploaded image. Follow the dancer's moves and timing exactly: the bouncy chugs toward the camera with the arms circling low, the steps out to the side, the hand flick by the face, the ball changes, the step touches and the arm thrown up high. Keep the whole body in view from head to shoes, with natural balance and stable ground contact. Exactly one person, no other people. One continuous shot, no cuts, no text, no captions, no logos.
 ```
 
-### 2. 1. The video prompt is filled in. Settings: h3-recast, 9 s, 720p, 9:16, sound off. The video prompt (Pet)
+### 2. 1. The video prompt is filled in. Settings: Seedance 2.5, 15 s, 720p, 9:16, sound off. The video prompt
+
+*Kind: video_prompt*
+
+```text
+Recreate the reference video [Video 1] shot for shot: the same quiet country lane of grey gravel between tall green trees, with grass verges and a low wire fence on both sides, in soft cloudy daylight, the same fixed phone camera at waist height, the same two shots, framing, timing and dance moves, all three dancers in full view from head to feet. Three changes only: the three women who dance side by side are now the three people in [Image 1], [Image 2] and [Image 3], always in this order: [Image 1] in the middle, [Image 2] on the left, [Image 3] on the right, in every shot.
+
+The dancer in the middle, one step in front, who points at the camera and leads = the person in [Image 1], never the woman with the brown bun, the long black open coat and the dark brown top of the original video.
+The dancer on the left = the person in [Image 2], never the woman in the black hoodie with white letters on the chest.
+The dancer on the right = the person in [Image 3], never the blonde woman in the black zip-up fleece.
+
+Each one, in every frame, also when they turn sideways: copy the exact face from their own image (face shape, eye color and eye shape, eyebrows, nose, mouth, skin tone, age, hair color, hair length and hairstyle, and any beard, moustache, glasses or freckles exactly as in the photo), with the body, the clothes and the shoes from their own image, so their friends instantly recognize all three. If a photo shows only the head or the upper body, invent the rest so it matches naturally. Never morph, never drift back to the original dancers' faces, never mix the three faces, never add or remove facial hair. All three change: no one from the video stays. No long black coat, no black hoodie and no black zip-up fleece unless an image shows one. No letters, words or logos on any clothes.
+
+The dance, matching the reference second by second, on the beat:
+0-1 s: the middle dancer points at the camera with a grin; the two others bounce on the spot.
+1-3 s: all three throw both arms up high and wave them.
+3-5 s: arms out wide to the sides, swaying from side to side.
+5-8 s: small steps and arm swings, then they walk a few steps toward the camera.
+8-12 s: they hold hands in a row and do the bouncy two-step toward the camera, the joined hands swinging on the beat.
+12-15 s: a cut on the same lane: all three now wear big black sunglasses, stand in a line turned to the side, each with one hand on the next one's shoulder, and shuffle sideways to the beat, smiling.
+
+Anatomy rules: one head per dancer, on their own shoulders. A face never appears on knees, legs, hands or clothes. Two arms and two legs each, no extra limbs, no fused hands where they hold hands. Exactly three people, no other people on the lane. No text, no subtitles, no logos, no watermark.
+```
+
+### 3. 1. The video prompt is filled in. Settings: h3-recast, 9 s, 720p, 9:16, sound off. The video prompt (Pet)
 
 *Kind: video_prompt*
 
@@ -32,7 +58,7 @@ The person dances in the place from the uploaded image, in the clothes and shoes
 Image 1 replaces the grey-brown tabby cat on the left who dances upright on its hind legs, in every shot, also when it turns its back to the camera. Keep the pet's face, ears, fur colors, fur length and markings from image 1, on the whole body, the head, the legs and the tail, with no tabby stripes and no green eyes unless image 1 shows them. The pet keeps the natural body volume and proportions of its own animal: never flattened, squashed, stretched or merged with anything. If image 1 shows a dog or another animal, that animal takes the same place, standing upright on its hind legs and doing the same paw moves, with its own ears and muzzle. The black-and-white tuxedo cat on the right stays exactly as in the video, with its own face, in every shot. Keep the cozy living room, the beige sofa, the warm lamps, the plants, the patterned rug, the warm light, the dance moves, the motion and the camera exactly as in the video.
 ```
 
-### 3. 1. The video prompt is filled in. Settings: h3-recast, 9 s, 720p, 9:16, sound off. The video prompt (Pet)
+### 4. 1. The video prompt is filled in. Settings: h3-recast, 9 s, 720p, 9:16, sound off. The video prompt (Pet)
 
 *Kind: video_prompt*
 

@@ -12,11 +12,11 @@ The **AI zombie trend** is a short love story: your partner or pet has turned in
 
 Your partner, or your pet, has turned into a zombie. You aim through tears, lower the gun and hug them anyway. Then a hard cut to a sunny memory of you two. Two photos in, a 10-second clip with sound out.
 
-Also called: Zombie Love Story, Zombie Hug, My Beloved Zombie, Would You Still Love Me If I Were a Zombie.
+Also called: Zombie Love Story, Zombie Hug, Zombie Hug Scene, My Beloved Zombie, Would You Still Love Me If I Were a Zombie.
 
 **Make it now:** [Make this video](https://www.makeviral.ai/templates/ai-zombie-trend/create). 2 photos · 10 s · 9:16 with sound · 126 credits, charged once · ready in a few minutes · no prompt to write.
 
-Keyword: ai zombie trend. Also answers: zombie ai, ai zombie, zombie ai trend, zombie trend, zombie couple, zombie boyfriend, zombie ai video trend, zombie trend ai, zombie ai video, ai zombie video, zombie ai video generator, ai zombie video generator, zombie trend on tiktok, zombie trend tiktok, zombie love story ai, ai zombie love story, zombie love story trend, zombie ai love, zombie love ai prompt, zombie hug ai, zombie couple ai, zombie couple video, zombie girlfriend ai, would you still love me if i was a zombie, zombie ai prompt, ai zombie prompt, ai zombie prompt video, zombie ai trend prompt, zombie ai trend tutorial, zombie dog ai, ai zombie dog, zombie cat ai, ai cat zombie, pet zombie ai, zombie apocalypse ai video, ai zombie scene, yapay zeka zombi, trend zombi, tren zombie tik tok.
+Keyword: ai zombie trend. Also answers: zombie ai, ai zombie, zombie ai trend, zombie trend, zombie couple, zombie boyfriend, zombie ai video trend, zombie trend ai, zombie ai video, ai zombie video, zombie ai video generator, ai zombie video generator, zombie trend on tiktok, zombie trend tiktok, zombie love story ai, my zombie lover ai, ai zombie love story, zombie love story trend, zombie ai love, zombie love ai prompt, zombie hug ai, ai zombie hug trend, zombie hug scene original, zombie love ai, zombie couple ai, zombie couple video, zombie hug trend, zombie love story ai trend, zombie girlfriend ai, would you still love me if i was a zombie, zombie ai prompt, ai zombie prompt, ai zombie prompt video, zombie ai trend prompt, zombie ai trend tutorial, zombie dog ai, ai zombie dog, zombie cat ai, ai cat zombie, pet zombie ai, zombie apocalypse ai video, ai zombie scene, yapay zeka zombi, trend zombi, tren zombie tik tok.
 
 ## What is the AI Zombie Love Story trend, and where did it start?
 

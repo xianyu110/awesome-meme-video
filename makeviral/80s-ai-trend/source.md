@@ -3,7 +3,7 @@
 > The 80s AI trend (also called "Back in '85") restyles your selfie as a real-looking 1985 photo: big mid-80s hair, a bright jacket, film grain, direct flash and a red-orange date stamp.
 
 Canonical: https://www.makeviral.ai/templates/80s-ai-trend
-Updated: 2026-10-15
+Updated: 2026-10-18
 Published: 2026-09-30
 Author: İrfan Şener (https://www.makeviral.ai/about)
 Publisher: MakeViral (https://www.makeviral.ai)
@@ -12,11 +12,11 @@ The **80s AI trend** (also called "Back in '85") restyles your selfie as a real-
 
 One selfie becomes a faded 1985 snapshot with big hair and a date stamp. Stop there for the photo, or animate it into a 10-second camcorder home video with sound.
 
-Also called: Back in '85, 80s trend.
+Also called: Back in '85, 80s trend, 1985 trend, 1980s AI photo trend.
 
 **Make it now:** [Make this video](https://www.makeviral.ai/templates/80s-ai-trend/create). 1 photo · 10 s · 9:16 with sound · 128 credits, charged once · ready in a few minutes · no prompt to write.
 
-Keyword: 80s ai trend. Also answers: 80s trend prompt, 80s trend chatgpt prompt, 80s trend chatgpt, 80s ai prompt, 80s ai trend prompt, ai 80s photo, 80s ai photo generator, what would i look like in the 80s ai, 80s trend ai, 80s trend photo, 80s ai video, ai prompt 80s, 80s trend instagram, 80s trend picture, 80s trend pics, 80s ai trend app, 80s trend social media, 80s ai trend instagram, 80s ai trend reddit, 80s ai trend photo, 80s ai trend chatgpt, 80s trend chatgpt ai, 80s trend on fb, 80s ai trend on facebook, 80s ai trend prompt generator, 80s ai trend how to do, 80s ai trend prompt for women, 80s ai trend prompt for couple, 80s ai trend caption, 80s ai trend how to make, 80s ai trend news, viral ai 80s.
+Keyword: 80s ai trend. Also answers: 80s trend prompt, 80s trend chatgpt prompt, 80s trend chatgpt, 80s ai prompt, 80s ai trend prompt, ai 80s photo, 80s ai photo generator, what would i look like in the 80s ai, 80s trend ai, 80s trend photo, 1985 trend photo, 1985 photo trend, 1985 trend prompt, 1985 ai trend, 80s ai video, ai prompt 80s, 80s trend instagram, 80s trend picture, 80s trend pics, 80s ai trend app, 80s trend social media, 80s ai trend instagram, 80s ai trend reddit, 80s ai trend photo, 80s ai trend chatgpt, 80s trend chatgpt ai, 80s trend on fb, 80s ai trend on facebook, 80s ai trend prompt generator, 80s ai trend how to do, 80s ai trend prompt for women, 80s ai trend prompt for couple, 80s ai trend caption, 80s ai trend how to make, 80s ai trend news, viral ai 80s.
 
 ## What is the 80s AI trend, and where did it start?
 
@@ -142,9 +142,13 @@ For the video, the first second should already look like old tape. Keep the ambi
 
 It is a September 2026 trend where people use AI to restyle a selfie as a genuine-looking 1985 photo, with mid-80s hair, clothes, film grain, flash and a red-orange date stamp. It started on Instagram with a shared ChatGPT prompt. A newer version animates the photo into a camcorder home video.
 
+### What is the 1985 trend?
+
+It is the 80s AI trend under another name, after the year in the shared prompt. A 1985 trend photo shows your own face as a snapshot from about 1985, with big hair, bright clothes, direct flash and a date stamp. You may also see it called the 1985 photo trend.
+
 ### What is the 80s AI trend prompt?
 
-The shared prompt asks the AI to show you as you would have looked around 1985, keep your face, and add bold mid-80s styling, analog grain, faded color, direct flash and a date stamp. Our version of it is in the copy box on this page, together with the video prompt for step 2.
+The shared prompt asks the AI to show you as you would have looked around 1985, keep your face, and add bold mid-80s styling, analog grain, faded color, direct flash and a date stamp. Our version of it is in the copy box on this page, together with the video prompt for step 2. People also call the shared prompt the 1985 trend prompt.
 
 ### What would I look like in the 80s? How do I find out with AI?
 
@@ -173,6 +177,10 @@ Yes. The 80s trend prompt on Instagram was a ChatGPT prompt, and our 80s AI prom
 ### Where did the 80s AI trend spread?
 
 It went viral on Instagram Stories first, then spread to TikTok, Reddit threads and news sites such as BusinessToday. The photo you make here works on any social media app, Facebook (FB) included.
+
+### Who started the 80s AI trend?
+
+Instagram users started it in the first week of September 2026: they shared a ChatGPT prompt through the Stories "Add Yours" sticker and challenged their followers to post their own version. On 10 September, Storyboard18 reported that OpenAI had shared the 1980s prompt in a blog post of its own.
 
 ### How do I do the 80s AI trend?
 

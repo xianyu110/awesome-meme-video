@@ -3,7 +3,7 @@
 - Source: [makeviral](https://www.makeviral.ai/templates/amanha-e-feriado-ai-trend)
 - Slug: `amanha-e-feriado-ai-trend`
 
-The Dimitri meme is a 2008 Russian club interview: a young man grumbles to a TV reporter, hears some news and bursts into a wild dance.
+The Dimitri meme, called the "amanhã é feriado" (tomorrow is a holiday) meme in Brazil, is a 2008 Russian club interview: a young man grumbles to a TV reporter, hears some news and bursts into a wild dance.
 
 ## Demo videos (CDN)
 

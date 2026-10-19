@@ -1,18 +1,18 @@
 # Dimitri Meme AI: Amanhã é Feriado, Starring You
 
-> The Dimitri meme is a 2008 Russian club interview: a young man grumbles to a TV reporter, hears some news and bursts into a wild dance.
+> The Dimitri meme, called the "amanhã é feriado" (tomorrow is a holiday) meme in Brazil, is a 2008 Russian club interview: a young man grumbles to a TV reporter, hears some news and bursts into a wild dance.
 
 Canonical: https://www.makeviral.ai/templates/amanha-e-feriado-ai-trend
-Updated: 2026-10-15
+Updated: 2026-10-18
 Published: 2026-10-14
 Author: İrfan Şener (https://www.makeviral.ai/about)
 Publisher: MakeViral (https://www.makeviral.ai)
 
-The **Dimitri meme** is a 2008 Russian club interview: a young man grumbles to a TV reporter, hears some news and bursts into a wild dance. In Brazil it is the **"amanhã é feriado"** (tomorrow is a holiday) meme, and in October 2026 a Portuguese dub made it viral again. Here you play the part. You need one clear photo.
+The **Dimitri meme**, called the **"amanhã é feriado"** (tomorrow is a holiday) meme in Brazil, is a 2008 Russian club interview: a young man grumbles to a TV reporter, hears some news and bursts into a wild dance. In October 2026 a Portuguese dub made it viral again. Here you play the part. You need one clear photo.
 
 You stand in a dark club, bored and grumpy in front of a TV microphone. Then you hear "mas amanhã é feriado!", your eyes go wide and you dance off with both hands waving. One photo in, a 20-second clip with the Brazilian dub out.
 
-Also called: Very Bad Music.
+Also called: Meme amanhã é feriado, Dimitri finds out it's Friday, Very Bad Music, Dimitri na balada.
 
 **Make it now:** [Make this video](https://www.makeviral.ai/templates/amanha-e-feriado-ai-trend/create). 1 photo · 20 s · 9:16 with sound · 304 credits, charged once · ready in up to several minutes · no prompt to write.
 

@@ -1,0 +1,22 @@
+# Media — Coldplay Kiss Cam AI Video Generator
+
+- video: https://cdn.remakeyourmeme.com/trends/coldplay-kiss-cam/7527910323681070367.mp4
+- video: https://cdn.remakeyourmeme.com/trends/coldplay-kiss-cam/7528413025238322454.mp4
+- video: https://cdn.remakeyourmeme.com/trends/coldplay-kiss-cam/7640103515293207829.mp4
+- video: https://cdn.remakeyourmeme.com/trends/coldplay-kiss-cam/7696943049192115478.mp4
+- video: https://cdn.remakeyourmeme.com/trends/coldplay-kiss-cam/7697949394666048781.mp4
+- video: https://cdn.remakeyourmeme.com/trends/coldplay-kiss-cam/7697951946497477921.mp4
+- video: https://cdn.remakeyourmeme.com/wm/remakeyourmeme/examples/coldplay-kiss-cam/sample-1/video.mp4
+- video: https://cdn.remakeyourmeme.com/wm/remakeyourmeme/examples/coldplay-kiss-cam/sample-2/video.mp4
+- poster: https://cdn.remakeyourmeme.com/examples/coldplay-kiss-cam/sample-1/input-1.jpg
+- poster: https://cdn.remakeyourmeme.com/examples/coldplay-kiss-cam/sample-1/input-2.jpg
+- poster: https://cdn.remakeyourmeme.com/examples/coldplay-kiss-cam/sample-1/poster.jpg
+- poster: https://cdn.remakeyourmeme.com/examples/coldplay-kiss-cam/sample-2/input-1.jpg
+- poster: https://cdn.remakeyourmeme.com/examples/coldplay-kiss-cam/sample-2/input-2.jpg
+- poster: https://cdn.remakeyourmeme.com/examples/coldplay-kiss-cam/sample-2/poster.jpg
+- poster: https://cdn.remakeyourmeme.com/trends/coldplay-kiss-cam/7527910323681070367.webp
+- poster: https://cdn.remakeyourmeme.com/trends/coldplay-kiss-cam/7528413025238322454.webp
+- poster: https://cdn.remakeyourmeme.com/trends/coldplay-kiss-cam/7640103515293207829.webp
+- poster: https://cdn.remakeyourmeme.com/trends/coldplay-kiss-cam/7696943049192115478.webp
+- poster: https://cdn.remakeyourmeme.com/trends/coldplay-kiss-cam/7697949394666048781.webp
+- poster: https://cdn.remakeyourmeme.com/trends/coldplay-kiss-cam/7697951946497477921.webp

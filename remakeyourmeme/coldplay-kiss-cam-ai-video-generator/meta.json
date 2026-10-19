@@ -1,0 +1,61 @@
+{
+  "source": "remakeyourmeme",
+  "source_site": "https://remakeyourmeme.com",
+  "slug": "coldplay-kiss-cam-ai-video-generator",
+  "name": "Coldplay Kiss Cam AI Video Generator",
+  "url": "https://remakeyourmeme.com/templates/coldplay-kiss-cam-ai-video-generator/",
+  "blurb": "2 real videos from this maker, unedited, made October 19, 2026 with photos of AI-generated sample people. Pick a tab to watch each one.",
+  "photos_in": null,
+  "duration_s": 14,
+  "ready_to_make": true,
+  "demo_videos": [
+    "https://cdn.remakeyourmeme.com/trends/coldplay-kiss-cam/7527910323681070367.mp4",
+    "https://cdn.remakeyourmeme.com/trends/coldplay-kiss-cam/7528413025238322454.mp4",
+    "https://cdn.remakeyourmeme.com/trends/coldplay-kiss-cam/7640103515293207829.mp4",
+    "https://cdn.remakeyourmeme.com/trends/coldplay-kiss-cam/7696943049192115478.mp4",
+    "https://cdn.remakeyourmeme.com/trends/coldplay-kiss-cam/7697949394666048781.mp4",
+    "https://cdn.remakeyourmeme.com/trends/coldplay-kiss-cam/7697951946497477921.mp4",
+    "https://cdn.remakeyourmeme.com/wm/remakeyourmeme/examples/coldplay-kiss-cam/sample-1/video.mp4",
+    "https://cdn.remakeyourmeme.com/wm/remakeyourmeme/examples/coldplay-kiss-cam/sample-2/video.mp4"
+  ],
+  "preview_videos": [
+    "https://cdn.remakeyourmeme.com/wm/remakeyourmeme/examples/coldplay-kiss-cam/sample-1/preview-854.mp4",
+    "https://cdn.remakeyourmeme.com/wm/remakeyourmeme/examples/coldplay-kiss-cam/sample-2/preview-854.mp4"
+  ],
+  "posters": [
+    "https://cdn.remakeyourmeme.com/examples/coldplay-kiss-cam/sample-1/input-1.jpg",
+    "https://cdn.remakeyourmeme.com/examples/coldplay-kiss-cam/sample-1/input-2.jpg",
+    "https://cdn.remakeyourmeme.com/examples/coldplay-kiss-cam/sample-1/poster.jpg",
+    "https://cdn.remakeyourmeme.com/examples/coldplay-kiss-cam/sample-2/input-1.jpg",
+    "https://cdn.remakeyourmeme.com/examples/coldplay-kiss-cam/sample-2/input-2.jpg",
+    "https://cdn.remakeyourmeme.com/examples/coldplay-kiss-cam/sample-2/poster.jpg",
+    "https://cdn.remakeyourmeme.com/trends/coldplay-kiss-cam/7527910323681070367.webp",
+    "https://cdn.remakeyourmeme.com/trends/coldplay-kiss-cam/7528413025238322454.webp",
+    "https://cdn.remakeyourmeme.com/trends/coldplay-kiss-cam/7640103515293207829.webp",
+    "https://cdn.remakeyourmeme.com/trends/coldplay-kiss-cam/7696943049192115478.webp",
+    "https://cdn.remakeyourmeme.com/trends/coldplay-kiss-cam/7697949394666048781.webp",
+    "https://cdn.remakeyourmeme.com/trends/coldplay-kiss-cam/7697951946497477921.webp"
+  ],
+  "all_cdn_mp4": [
+    "https://cdn.remakeyourmeme.com/templates/baby-doll/video.mp4",
+    "https://cdn.remakeyourmeme.com/templates/closed-on-sunday/video.mp4",
+    "https://cdn.remakeyourmeme.com/templates/hug-in-heaven/video.mp4",
+    "https://cdn.remakeyourmeme.com/trends/coldplay-kiss-cam/7527910323681070367.mp4",
+    "https://cdn.remakeyourmeme.com/trends/coldplay-kiss-cam/7528413025238322454.mp4",
+    "https://cdn.remakeyourmeme.com/trends/coldplay-kiss-cam/7640103515293207829.mp4",
+    "https://cdn.remakeyourmeme.com/trends/coldplay-kiss-cam/7696943049192115478.mp4",
+    "https://cdn.remakeyourmeme.com/trends/coldplay-kiss-cam/7697949394666048781.mp4",
+    "https://cdn.remakeyourmeme.com/trends/coldplay-kiss-cam/7697951946497477921.mp4",
+    "https://cdn.remakeyourmeme.com/wm/remakeyourmeme/examples/coldplay-kiss-cam/sample-1/preview-854.mp4",
+    "https://cdn.remakeyourmeme.com/wm/remakeyourmeme/examples/coldplay-kiss-cam/sample-1/video.mp4",
+    "https://cdn.remakeyourmeme.com/wm/remakeyourmeme/examples/coldplay-kiss-cam/sample-2/preview-854.mp4",
+    "https://cdn.remakeyourmeme.com/wm/remakeyourmeme/examples/coldplay-kiss-cam/sample-2/video.mp4"
+  ],
+  "prompts": [],
+  "prompt_count": 0,
+  "prompts_public": false,
+  "note": "Remake Your Meme does not publish copyable prompt text on public template pages (one-tap remake). Inventory keeps demos, posters, and metadata only.",
+  "scraped_at": "2026-10-19",
+  "published": null,
+  "updated": null
+}

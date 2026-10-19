@@ -3,28 +3,28 @@
 > The Babydoll dance is the bouncy two-step that took over TikTok in autumn 2026 to Jamie Miller's song "Babydoll": chugs forward, arm circles, steps out and big arm moves, done with a grin.
 
 Canonical: https://www.makeviral.ai/templates/babydoll-dance-ai-trend
-Updated: 2026-10-15
+Updated: 2026-10-18
 Published: 2026-10-15
 Author: İrfan Şener (https://www.makeviral.ai/about)
 Publisher: MakeViral (https://www.makeviral.ai)
 
-The **Babydoll dance** is the bouncy two-step that took over TikTok in autumn 2026 to Jamie Miller's song "Babydoll": chugs forward, arm circles, steps out and big arm moves, done with a grin. This Babydoll dance AI template makes the person or pet in your photo do it. You need one photo, or two for two pets.
+The **Babydoll dance** is the bouncy two-step that took over TikTok in autumn 2026 to Jamie Miller's song "Babydoll": chugs forward, arm circles, steps out and big arm moves, done with a grin. This Babydoll dance AI template makes the person or pet in your photo do it. You need one photo, two for two pets, or three to do the Babydoll dance with friends.
 
-Bouncy chugs toward the camera, circling arms, steps out to the side, ball changes and an arm thrown up high, all on the beat. Add a photo of you or your pet and get your own Babydoll dance video with the song.
+Bouncy chugs toward the camera, circling arms, steps out to the side, ball changes and an arm thrown up high, all on the beat. Add a photo of you or your pet, or three photos of you and two friends, and get your own Babydoll dance video with the song.
 
 Also called: Babydoll trend, Babydoll two step, Babydoll challenge, Babydoll dance challenge, Baby doll challenge.
 
 **Make it now:** [Make this video](https://www.makeviral.ai/templates/babydoll-dance-ai-trend/create). 1 photo · 15 s · 9:16 with sound · 60 credits, charged once · ready in a few minutes · no prompt to write.
 
-Keyword: babydoll dance. Also answers: baby doll dance, babydoll dancing, jamie miller babydoll dance, babydoll dance trend, babydoll jamie miller dance, babydoll dance tutorial, jamie miller dance, babydoll dance ai, babydoll song dance, jamie miller babydoll dance tutorial, jaime miller babydoll, babydoll tiktok dance, babydoll viral dance, learn babydoll dance, babydoll dance video, the babydoll dance, babydoll tiktok trend, babydoll choreography, babydoll dance tiktok, babydoll dance steps, babydoll ai, baby doll dance ai, babydoll dance moves, babydoll dance how to, babydoll dance craze, babydoll trend tiktok, babydoll trend 2026, baby doll dance trend, baby doll dance jamie miller, babydoll dance dog, babydoll dance with dog, babydoll dance cat, babydoll dance pet, babydoll ai trend, babydoll dance ai video, babydoll dance prompt, babydoll dance jamie miller.
+Keyword: babydoll dance. Also answers: baby doll dance, babydoll dancing, jamie miller babydoll dance, babydoll dance trend, babydoll jamie miller dance, babydoll dance tutorial, jamie miller dance, babydoll dance ai, babydoll song dance, jamie miller babydoll dance tutorial, jaime miller babydoll, babydoll tiktok dance, babydoll viral dance, learn babydoll dance, babydoll dance video, the babydoll dance, babydoll tiktok trend, babydoll choreography, babydoll dance tiktok, babydoll dance steps, babydoll ai, baby doll dance ai, babydoll dance moves, babydoll dance how to, babydoll dance craze, babydoll trend tiktok, babydoll trend 2026, baby doll dance trend, baby doll dance jamie miller, babydoll dance dog, babydoll dance with dog, babydoll dance cat, babydoll dance pet, babydoll ai trend, babydoll dance ai video, babydoll dance prompt, babydoll dance jamie miller, babydoll two step dance, babydoll dance group, babydoll dance with friends, babydoll dance trio, make your friends dance ai, make friends dance ai, babydoll dance friends, babydoll dance ai friends, babydoll dance three friends, ai dance with friends.
 
 ## What is the Babydoll Dance trend, and where did it start?
 
 Singer Jamie Miller put out "Babydoll" in August 2026. On 16 August he posted a clip of himself and two friends in black suits and sunglasses doing a bouncy two-step in the street, captioned "Had to hit the babydoll two step". It had 6.5 million views by 15 October. Dance teacher Xito Rico, who says he helped Jamie Miller make the "baby doll challenge", posted a tutorial on 24 August, and tutorials credit the two of them for the Babydoll choreography.
 
-In September the Babydoll dance craze spread through tutorials, couples, grandparents and pets. A beginner tutorial by @beginnerdancetutorials passed 2.4 million views, and a couple married for 53 years (@twojays2) reached 3.9 million. In an interview posted on 9 October, Miller said he never set out to make the dance a trend. By 15 October the song's main TikTok sound was in 58,600 videos, and US Google searches for "babydoll dance" had jumped from 390 in August to 2,900 in September.
+In September the Babydoll dance craze spread through tutorials, couples, grandparents and pets, and friend groups made it a group dance again, hand in hand like the first clip. A beginner tutorial by @beginnerdancetutorials passed 2.4 million views, and a couple married for 53 years (@twojays2) reached 3.9 million. In an interview posted on 9 October, Miller said he never set out to make the dance a trend. By 15 October the song's main TikTok sound was in 58,600 videos, and US Google searches for "babydoll dance" had jumped from 390 in August to 2,900 in September.
 
-AI versions are only starting. On 14 October @sebby.phin posted an AI version of the creator's own two cats doing the routine, the reel the Pet versions here copy.
+AI versions are only starting. On 14 October @sebby.phin posted an AI version of the creator's own two cats doing the routine, the reel the Pet versions here copy. The same day @gracebettyharmer and two friends two-stepped hand in hand down a tree-lined country lane (157,200 views by 18 October), the reel the Friends version copies.
 
 ### Babydoll Dance trend timeline
 
@@ -34,6 +34,7 @@ AI versions are only starting. On 14 October @sebby.phin posted an AI version of
 - **2026-09-18**: A new version of "Babydoll" with actor Antonio Cipriano comes out after he joined the dance trend online. Source: [uDiscover Music](https://www.udiscovermusic.com/news/jamie-miller-babydoll-antonio-cipriano/).
 - **2026-10-10**: Jamie Miller posts that "Babydoll is officially top 3 in the UK"; by 15 October the song's main TikTok sound is in 58,600 videos. Source: [TikTok](https://www.tiktok.com/@jamiemillmusic/video/7695049406302752031).
 - **2026-10-14**: @sebby.phin posts an AI version of the creator's own two cats doing the Babydoll dance in a living room, the reel the Pet versions copy. Source: [TikTok](https://www.tiktok.com/@sebby.phin/video/7696329516620287245).
+- **2026-10-14**: @gracebettyharmer and two friends do the Babydoll dance on a tree-lined country lane: the arms thrown up, the hand-in-hand two-step toward the camera and a sunglasses shuffle at the end (157,200 views by 18 October), the reel the Friends version copies. Source: [TikTok](https://www.tiktok.com/@gracebettyharmer/video/7696497514341731607).
 
 ## What the Babydoll Dance video looks like
 
@@ -42,6 +43,9 @@ Made from the prompts on this page. The people and pets are AI-made, not real pe
 - **Example 1** (9 s, 9:16 MP4 with sound): The original reel by @sebby.phin: an AI version of the creator's own two cats, a tabby and a tuxedo cat, doing the Babydoll dance upright in a cozy living room. Pet and Two pets copy this reel.
   - Video: https://www.makeviral.ai/media/templates/babydoll-dance-ai-trend/original-pet-v2.mp4
   - Poster: https://www.makeviral.ai/media/templates/babydoll-dance-ai-trend/original-pet-v1.jpg
+- **Example 2** (15 s, 9:16 MP4 with sound): The original reel by @gracebettyharmer: three friends do the Babydoll dance on a tree-lined country lane, arms up, then the hand-in-hand two-step toward the camera and a sunglasses shuffle. Friends copies this reel. The letters on one hoodie are blurred.
+  - Video: https://www.makeviral.ai/media/templates/babydoll-dance-ai-trend/original-friends-v2.mp4
+  - Poster: https://www.makeviral.ai/media/templates/babydoll-dance-ai-trend/original-friends-v1.jpg
 
 ## How to make the Babydoll Dance video on MakeViral
 
@@ -71,6 +75,36 @@ The person dances in the place from the uploaded image, in the clothes and shoes
 2. Press Generate, then download the 9:16 MP4.
 
 One-tap version of this variant: https://www.makeviral.ai/templates/babydoll-dance-ai-trend/create
+
+#### Variant: Friends
+
+Settings: 3 photos (you, in the middle + friend on the left + friend on the right) · Seedance 2.5 · 15 s · 720p · 9:16 · no sound · 228 credits in one tap.
+
+1. The video prompt is filled in. Settings: Seedance 2.5, 15 s, 720p, 9:16, sound off. The video prompt:
+
+   ```text
+   Recreate the reference video [Video 1] shot for shot: the same quiet country lane of grey gravel between tall green trees, with grass verges and a low wire fence on both sides, in soft cloudy daylight, the same fixed phone camera at waist height, the same two shots, framing, timing and dance moves, all three dancers in full view from head to feet. Three changes only: the three women who dance side by side are now the three people in [Image 1], [Image 2] and [Image 3], always in this order: [Image 1] in the middle, [Image 2] on the left, [Image 3] on the right, in every shot.
+
+The dancer in the middle, one step in front, who points at the camera and leads = the person in [Image 1], never the woman with the brown bun, the long black open coat and the dark brown top of the original video.
+The dancer on the left = the person in [Image 2], never the woman in the black hoodie with white letters on the chest.
+The dancer on the right = the person in [Image 3], never the blonde woman in the black zip-up fleece.
+
+Each one, in every frame, also when they turn sideways: copy the exact face from their own image (face shape, eye color and eye shape, eyebrows, nose, mouth, skin tone, age, hair color, hair length and hairstyle, and any beard, moustache, glasses or freckles exactly as in the photo), with the body, the clothes and the shoes from their own image, so their friends instantly recognize all three. If a photo shows only the head or the upper body, invent the rest so it matches naturally. Never morph, never drift back to the original dancers' faces, never mix the three faces, never add or remove facial hair. All three change: no one from the video stays. No long black coat, no black hoodie and no black zip-up fleece unless an image shows one. No letters, words or logos on any clothes.
+
+The dance, matching the reference second by second, on the beat:
+0-1 s: the middle dancer points at the camera with a grin; the two others bounce on the spot.
+1-3 s: all three throw both arms up high and wave them.
+3-5 s: arms out wide to the sides, swaying from side to side.
+5-8 s: small steps and arm swings, then they walk a few steps toward the camera.
+8-12 s: they hold hands in a row and do the bouncy two-step toward the camera, the joined hands swinging on the beat.
+12-15 s: a cut on the same lane: all three now wear big black sunglasses, stand in a line turned to the side, each with one hand on the next one's shoulder, and shuffle sideways to the beat, smiling.
+
+Anatomy rules: one head per dancer, on their own shoulders. A face never appears on knees, legs, hands or clothes. Two arms and two legs each, no extra limbs, no fused hands where they hold hands. Exactly three people, no other people on the lane. No text, no subtitles, no logos, no watermark.
+   ```
+
+2. Press Generate, then download the 9:16 MP4.
+
+One-tap version of this variant: https://www.makeviral.ai/templates/babydoll-dance-ai-trend/create?variant=friends
 
 #### Variant: Pet
 
@@ -102,13 +136,14 @@ One-tap version of this variant: https://www.makeviral.ai/templates/babydoll-dan
 
 ### Which photo works best?
 
-You need **one photo** for Human and Pet, and **two** for Two pets.
+You need **one photo** for Human and Pet, **two** for Two pets and **three** for Friends.
 
 - **Human:** you alone, standing, head to toes in view. The dance is all bounces and steps, so a full-body photo gives the best legs and feet. You dance in your photo's own place, in the clothes you wear in it.
 - **Pet:** a sharp photo with the whole animal in view, from ears to paws. Fur colors and markings come from the photo.
 - **Two pets:** photo 1 is the pet on the left, photo 2 the pet on the right. One pet per photo.
+- **Friends:** photo 1 is you, in the middle; photo 2 the friend on the left; photo 3 the friend on the right. One adult per photo, the face clear, ideally head to toes. Each friend dances in the clothes from their own photo.
 - Good light, no sunglasses and no hat over the face.
-- Use your own photo, a photo of an adult who said yes, or your own pets. Never a celebrity or a stranger.
+- Use your own photo, photos of adult friends who said yes, or your own pets. Never a celebrity, a stranger or a child.
 
 ## How many credits does it cost?
 
@@ -134,22 +169,26 @@ The Human version takes the moves of a full-speed take of the routine and plays 
 
 Keep the smile on: the Babydoll dance is meant to look easy and happy. Pet and Two pets copy the AI cat reel instead, with small paw moves, bounces and a turn.
 
+Friends copies a reel of three friends on a country lane, 15 seconds with one cut: a point at the camera (0 to 1 s), both arms thrown up and then out wide (1 to 5 s), steps and a walk toward the camera (5 to 8 s), the hand-in-hand Babydoll two step dance toward the camera (8 to 12 s), then sunglasses on and a sideways shuffle with a hand on the next friend's shoulder (12 to 15 s).
+
 Want to learn Babydoll dance steps yourself? Search for a Jamie Miller Babydoll dance tutorial: Xito Rico's own Babydoll dance how-to counts the routine in eights (chugs, a step to the side, a ball change, a "90s groove", a "superstar" jump and a "rockstar" arm move). The AI version needs no practice.
 
 The exact price of each version shows on the Generate button before you spend anything. Human costs the least. Every run is a new take, so results differ.
 
-## Human, Pet or Two pets: which Babydoll dance should you make?
+## Human, Friends, Pet or Two pets: which Babydoll dance should you make?
 
 Press "Create your own" and pick a version, or press the button under the cat reel on this page for Pet.
 
-| | Human | Pet | Two pets |
-|---|---|---|---|
-| Photos | 1, you | 1, your pet | 2, your pets |
-| How it works | Kling 3.0 Motion Control takes only the moves of a full-speed Babydoll take and plays them with you | H3 Recast puts your pet into the AI cat reel above, in place of the tabby on the left; the tuxedo cat stays as its dance partner | H3 Recast puts your two pets into the AI cat reel, in place of both cats |
-| Where you dance | Your photo's own place | The reel's cozy living room | The reel's cozy living room |
-| Looks | Your face, hair and clothes from your photo | Fur and markings from your photo | Each pet's fur and markings from its own photo |
-| Length | About 15 s | 9 s | 9 s |
-| Sound | The song, put back on after the run; you can turn it off | The same | The same |
+| | Human | Friends | Pet | Two pets |
+|---|---|---|---|---|
+| Photos | 1, you | 3, you and two friends | 1, your pet | 2, your pets |
+| How it works | Kling 3.0 Motion Control takes only the moves of a full-speed Babydoll take and plays them with you | Seedance 2.5 puts the three of you into the friends' reel itself, in place of its three dancers | H3 Recast puts your pet into the AI cat reel above, in place of the tabby on the left; the tuxedo cat stays as its dance partner | H3 Recast puts your two pets into the AI cat reel, in place of both cats |
+| Where you dance | Your photo's own place | The reel's tree-lined country lane | The reel's cozy living room | The reel's cozy living room |
+| Looks | Your face, hair and clothes from your photo | Each friend's face, hair and clothes from their own photo | Fur and markings from your photo | Each pet's fur and markings from its own photo |
+| Length | About 15 s | 15 s | 9 s | 9 s |
+| Sound | The song, put back on after the run; you can turn it off | The same | The same | The same |
+
+**The Babydoll dance with friends:** the trend started as a group dance, three people two-stepping hand in hand, and friend groups still post it that way. Friends is that Babydoll dance trio: photo 1 is you in the middle, photos 2 and 3 are the friends on the left and the right. It costs more than Human, because it copies a whole reel with three faces; the Generate button shows the price first.
 
 The Pet versions make a Babydoll dance video of a dog, a cat or another pet, standing upright on its hind legs like the cats in the reel. With a dog, use a photo where its whole body shows.
 
@@ -164,6 +203,8 @@ The Pet versions make a Babydoll dance video of a dog, a cat or another pet, sta
 | Your pet comes out with tabby stripes or green eyes (Pet) | The cat in the reel is a green-eyed tabby. Use a sharp photo where the fur is clear, then run it again. |
 | Your pet looks flat or squashed | Use a photo where the whole animal shows from the side or the front, then run it again. |
 | The two pets swap places or faces (Two pets) | Photo 1 is always the left pet, photo 2 the right one. Use one pet per photo, then run it again. |
+| A friend keeps a face from the reel, or two faces mix (Friends) | Use one sharp photo per friend with the face to the camera, keep the order (you, left, right), then run it again. |
+| A long black coat or a hoodie with letters shows up (Friends) | The dancers in the reel wear them. The prompt bans them unless a photo has them; run it again. |
 | A paw or a hand blurs in a quick move | This is common in fast steps. A second run comes out different. |
 | The model refuses a photo | Some photos get refused. The credits come back; try another photo. |
 
@@ -193,11 +234,15 @@ This page is the dance to "Babydoll" by Jamie Miller (2026). It is not the older
 
 ### How do I make the Babydoll dance AI video with my photo?
 
-Press "Create your own", pick Human, Pet or Two pets, and add your photo, or two photos for Two pets. Press Generate; the button shows the price first. You get a Babydoll dance AI video of about 15 seconds (Human) or 9 seconds (Pet and Two pets) with the song. You write no prompt, and the video waits in your Library when it is ready.
+Press "Create your own", pick Human, Friends, Pet or Two pets, and add your photo, two photos for Two pets or three for Friends. Press Generate; the button shows the price first. You get a Babydoll dance AI video of about 15 seconds (Human and Friends) or 9 seconds (Pet and Two pets) with the song. You write no prompt, and the video waits in your Library when it is ready.
 
 ### Can my dog or cat do the Babydoll dance?
 
 Yes, with Pet. Add one sharp photo of your pet, whole body in view. H3 Recast puts it into the viral AI cat reel on this page in place of the tabby, next to the tuxedo cat: it stands on its hind legs, bounces and moves its paws to the beat, with its own fur and markings. With Two pets, both cats become your pets.
+
+### Can I do the Babydoll dance with friends?
+
+Yes, with Friends, the Babydoll dance group version for three. Add a photo of you and one of each of two friends, one adult per photo. Seedance 2.5 puts the three of you into a real Babydoll dance trio reel: arms up, the hand-in-hand two step toward the camera and a sunglasses shuffle on a country lane, 15 seconds with the song. It is the quick way to make your friends dance with AI, also the friends who would never dance on camera. Only use photos of friends who said yes.
 
 ### Can I learn Babydoll dance moves instead of using AI?
 
@@ -205,11 +250,11 @@ Sure. A Babydoll dance tutorial teaches the routine in a few minutes: Xito Rico'
 
 ### What prompt does the Babydoll dance AI use?
 
-No creator shared a Babydoll dance prompt, and the template sites that have this trend show none. The Human version uses Kling's own motion prompt (copy the moves of the clip onto the person in the photo) plus our lines for your place and clothes. The Pet versions use our own pet-swap prompt, in the shape that worked on other cat reels. You write no prompt yourself.
+No creator shared a Babydoll dance prompt, and the template sites that have this trend show none. The Human version uses Kling's own motion prompt (copy the moves of the clip onto the person in the photo) plus our lines for your place and clothes. The Pet versions use our own pet-swap prompt, in the shape that worked on other cat reels, and Friends our own three-person reel-copy prompt. You write no prompt yourself.
 
 ### Where does the background of the video come from?
 
-For Human, from your photo: Kling 3.0 Motion Control keeps your room, street or garden and only takes the moves of the dance clip. Pet and Two pets copy the AI cat reel, so your pets dance in its cozy living room.
+For Human, from your photo: Kling 3.0 Motion Control keeps your room, street or garden and only takes the moves of the dance clip. Friends copies the three friends' reel, so you dance on its tree-lined country lane. Pet and Two pets copy the AI cat reel, so your pets dance in its cozy living room.
 
 ### What sound does my video have?
 
@@ -225,7 +270,7 @@ It is the Babydoll AI trend: the Jamie Miller dance done with AI. People also se
 
 ### How long is the video and what format is it?
 
-Human makes about 15 seconds in the frame of your photo, so a vertical photo gives a vertical 9:16 clip. Pet and Two pets make 9 seconds, vertical 9:16. All are MP4 files at 720p with the song and no watermark, ready for TikTok, Reels or Shorts.
+Human makes about 15 seconds in the frame of your photo, so a vertical photo gives a vertical 9:16 clip. Friends makes 15 seconds, vertical 9:16. Pet and Two pets make 9 seconds, vertical 9:16. All are MP4 files at 720p with the song and no watermark, ready for TikTok, Reels or Shorts.
 
 ### Is the dance in the video real?
 

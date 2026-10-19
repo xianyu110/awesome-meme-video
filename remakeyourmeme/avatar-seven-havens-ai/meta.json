@@ -6,7 +6,7 @@
   "url": "https://remakeyourmeme.com/templates/avatar-seven-havens-ai/",
   "blurb": "Your face, hair, glasses and skin tone stay; the robes, the element and the scene are new.",
   "photos_in": null,
-  "duration_s": 14,
+  "duration_s": 10,
   "ready_to_make": true,
   "demo_videos": [],
   "preview_videos": [],
@@ -26,13 +26,13 @@
   "all_cdn_mp4": [
     "https://cdn.remakeyourmeme.com/templates/baby-doll/video.mp4",
     "https://cdn.remakeyourmeme.com/templates/closed-on-sunday/video.mp4",
-    "https://cdn.remakeyourmeme.com/templates/hug-in-heaven/video.mp4"
+    "https://cdn.remakeyourmeme.com/templates/coldplay-kiss-cam/video.mp4"
   ],
   "prompts": [],
   "prompt_count": 0,
   "prompts_public": false,
   "note": "Remake Your Meme does not publish copyable prompt text on public template pages (one-tap remake). Inventory keeps demos, posters, and metadata only.",
-  "scraped_at": "2026-10-18",
+  "scraped_at": "2026-10-19",
   "published": null,
   "updated": null
 }

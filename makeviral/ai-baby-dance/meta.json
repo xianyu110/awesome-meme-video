@@ -6,7 +6,7 @@
   "url": "https://www.makeviral.ai/templates/ai-baby-dance",
   "markdown_url": "https://www.makeviral.ai/templates/ai-baby-dance.md",
   "blurb": "The AI baby dance turns one photo of your baby into a short clip where the baby dances on the beat.",
-  "updated": "2026-10-15",
+  "updated": "2026-10-18",
   "published": "2026-10-13",
   "credits": 40,
   "demo_videos": [
@@ -45,5 +45,5 @@
     "Make your own AI Baby Dance video"
   ],
   "prompt_count": 2,
-  "scraped_at": "2026-10-18"
+  "scraped_at": "2026-10-19"
 }

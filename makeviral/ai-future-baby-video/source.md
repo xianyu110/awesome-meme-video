@@ -3,7 +3,7 @@
 > An AI baby generator video takes photos of two adults and imagines a baby who mixes their looks, then plays it as a warm early-2000s home video of one day with the family.
 
 Canonical: https://www.makeviral.ai/templates/ai-future-baby-video
-Updated: 2026-10-15
+Updated: 2026-10-18
 Published: 2026-09-30
 Author: İrfan Şener (https://www.makeviral.ai/about)
 Publisher: MakeViral (https://www.makeviral.ai)
@@ -12,11 +12,11 @@ An **AI baby generator** video takes photos of two adults and imagines a baby wh
 
 Two partner photos in, one imagined baby out: a nostalgic camcorder montage of first steps, messy breakfasts and a ride on a parent's shoulders.
 
-Also called: future baby generator.
+Also called: future baby generator, future child generator.
 
 **Make it now:** [Make this video](https://www.makeviral.ai/templates/ai-future-baby-video/create). 2 photos · 10 s · 9:16 with sound · 128 credits, charged once · ready in a few minutes · no prompt to write.
 
-Keyword: ai baby generator. Also answers: ai baby video, ai baby generator app, ai baby generator from parents, future baby app, baby ai generator, baby ai videos, ai baby generator online, ai baby generator prompt, ai baby generator chatgpt, ai baby generator reddit, ai baby generator couple, ai baby generator face maker, ai future baby video, future baby ai, future baby ai generator, what will my baby look like ai.
+Keyword: ai baby generator. Also answers: ai baby video, ai baby generator app, ai baby generator from parents, future baby app, baby ai generator, baby ai videos, ai baby generator online, ai baby generator prompt, ai baby generator chatgpt, ai baby generator reddit, ai baby generator couple, baby face generator, ai baby generator face maker, ai future baby video, future baby ai, future baby ai generator, what will my baby look like ai.
 
 ## What is the Future Baby trend, and where did it start?
 
@@ -158,6 +158,10 @@ No, and no future baby app either: this page is an AI baby generator online. Add
 ### How does an AI baby generator from parents' photos work?
 
 It reads the two faces and draws one baby who mixes their features, much like a face maker app. Then this baby AI generator animates the still, so you get one of those baby AI videos instead of a single photo.
+
+### Is this a baby face generator?
+
+Yes, and it adds a video. A baby face generator mixes two faces into one baby photo, and the first step here does the same: one still of the two of you holding the baby. The second step turns that still into a 10-second home video. People also search for it as a future child generator. Like any of these tools, it makes an AI guess from how two faces look, not a prediction.
 
 ### Do I need an AI baby generator ChatGPT prompt?
 

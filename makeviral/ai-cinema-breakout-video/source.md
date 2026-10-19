@@ -3,7 +3,7 @@
 > An AI cinema breakout video is a shaky phone clip from the front row of a cinema where the film breaks out of the screen.
 
 Canonical: https://www.makeviral.ai/templates/ai-cinema-breakout-video
-Updated: 2026-10-15
+Updated: 2026-10-18
 Published: 2026-09-30
 Author: İrfan Şener (https://www.makeviral.ai/about)
 Publisher: MakeViral (https://www.makeviral.ai)

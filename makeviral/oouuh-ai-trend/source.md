@@ -3,7 +3,7 @@
 > The Oouuh AI trend recasts a famous kitchen clip: one person strums a ukulele while the other sings Fredo Bang's "Oouuh" and dances toward the phone camera, in one continuous shot.
 
 Canonical: https://www.makeviral.ai/templates/oouuh-ai-trend
-Updated: 2026-10-15
+Updated: 2026-10-18
 Published: 2026-10-11
 Author: İrfan Şener (https://www.makeviral.ai/about)
 Publisher: MakeViral (https://www.makeviral.ai)
@@ -16,7 +16,7 @@ Also called: Oouuh trend, Ouuuh trend, Fredo Bang ukulele trend, kitchen ukulele
 
 **Make it now:** [Make this video](https://www.makeviral.ai/templates/oouuh-ai-trend/create). 2 photos · 14 s · 9:16 with sound · 213 credits, charged once · ready in up to several minutes · no prompt to write.
 
-Keyword: fredo bang oouuh. Also answers: einer bankz, oouuh fredo bang, oouuh, oouuh ai trend, fredo bang ukulele, oouuh ai, oouuh ai video, fredo bang ai trend, fredo bang oouuh ai, fredo bang oouuh ukulele, ouuu fredo bang, ooouuu fredo bang, fredo bang ouuu, fredo bang ouu, oouuh fredo bang ukulele, oouuh ukulele, fredo bang einer bankz, einer bankz fredo bang, fredo bang oouuh acoustic, oouuh acoustic, fredo bang oouuh meme, oouuh song, oouuh sound, ukulele duo pioneer trend, ukulele duo ai trend, kitchen ukulele ai trend, oouuh capcut template, put yourself in the oouuh video, oouuh tiktok.
+Keyword: fredo bang oouuh. Also answers: einer bankz, oouuh fredo bang, oouuh, oouuh ai trend, fredo bang ukulele, fredo bang ai, oouuh ai, ai fredo bang, oouuh ai video, fredo bang ai trend, fredo bang oouuh ai, fredo bang oouuh ukulele, ouuu fredo bang, ooouuu fredo bang, fredo bang ouuu, fredo bang ouu, oouuh fredo bang ukulele, oouuh ukulele, fredo bang einer bankz, einer bankz fredo bang, fredo bang oouuh acoustic, oouuh acoustic, fredo bang oouuh meme, oouuh song, oouuh sound, ukulele duo pioneer trend, ukulele duo ai trend, kitchen ukulele ai trend, oouuh capcut template, put yourself in the oouuh video, oouuh tiktok.
 
 ## What is the Oouuh Kitchen Duet trend, and where did it start?
 
@@ -150,6 +150,10 @@ Your clip comes with the Oouuh sound of the reel: the same 14 seconds of "Oouuh"
 ### What is the Oouuh AI trend?
 
 It is a viral AI video format from early October 2026. People recast a famous kitchen clip in which one person strums a ukulele and the other sings Fredo Bang's "Oouuh" and dances toward the phone camera. AI puts new faces on both, so friends, couples and roommates turn into the duo.
+
+### What is the AI Fredo Bang video?
+
+It is the Oouuh kitchen duet made with AI. In the AI versions, new faces take the places of Fredo Bang and Einer Bankz: one person strums the ukulele, and the other sings "Oouuh" and dances toward the camera. On this page, your two photos fill both places.
 
 ### Which song is used in the Oouuh trend?
 

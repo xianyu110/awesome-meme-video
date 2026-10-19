@@ -3,7 +3,7 @@
 > The sniffer dog meme is a viral TikTok format: a sniffer dog in a black working vest weaves through a party crowd at night, sits at one person's feet and looks up, and that person starts to cry while the caption says "bro is so cooked".
 
 Canonical: https://www.makeviral.ai/templates/sniffer-dog-ai-trend
-Updated: 2026-10-15
+Updated: 2026-10-18
 Published: 2026-10-14
 Author: İrfan Şener (https://www.makeviral.ai/about)
 Publisher: MakeViral (https://www.makeviral.ai)
@@ -11,6 +11,8 @@ Publisher: MakeViral (https://www.makeviral.ai)
 The **sniffer dog meme** is a viral TikTok format: a sniffer dog in a black working vest weaves through a party crowd at night, sits at one person's feet and looks up, and that person starts to cry while the caption says "bro is so cooked". You need one photo of yourself, or add your pet as the dog.
 
 A sniffer dog in a black vest weaves through the crowd, sits down right at your feet and looks up at you, and you burst into tears. One photo of you, or add your own pet as the sniffer dog. 8 seconds, with the reel's sound. A joke, made with your own photo.
+
+Also called: Stitch the Snitch, Bro is so cooked meme, Sniffer dog in club.
 
 **Make it now:** [Make this video](https://www.makeviral.ai/templates/sniffer-dog-ai-trend/create). 1 photo · 8 s · 9:16 with sound · 32 credits, charged once · ready in a few minutes · no prompt to write.
 

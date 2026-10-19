@@ -3,7 +3,7 @@
 > An AI dog costume puts your dog or cat in a Halloween costume with no shopping and no photo shoot.
 
 Canonical: https://www.makeviral.ai/templates/ai-pet-halloween-costume
-Updated: 2026-10-15
+Updated: 2026-10-18
 Published: 2026-10-08
 Author: İrfan Şener (https://www.makeviral.ai/about)
 Publisher: MakeViral (https://www.makeviral.ai)

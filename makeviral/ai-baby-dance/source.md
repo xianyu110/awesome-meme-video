@@ -3,7 +3,7 @@
 > The AI baby dance turns one photo of your baby into a short clip where the baby dances on the beat.
 
 Canonical: https://www.makeviral.ai/templates/ai-baby-dance
-Updated: 2026-10-15
+Updated: 2026-10-18
 Published: 2026-10-13
 Author: İrfan Şener (https://www.makeviral.ai/about)
 Publisher: MakeViral (https://www.makeviral.ai)
@@ -12,15 +12,15 @@ The **AI baby dance** turns one photo of your baby into a short clip where the b
 
 Wait until your baby starts dancing: hands on the head, a hand on the hip, "talk to the hand" and stop palms, all on the beat. One photo of your baby in, a 10-second clip with the trend's sound out.
 
-Also called: AI dancing baby, Baby dance trend, Dancing baby trend, Wait until your baby starts dancing.
+Also called: AI dancing baby, Baby dance trend, Dancing baby trend, Wait until your baby starts dancing, Sway dance trend, Last Call for Love dance.
 
 **Make it now:** [Make this video](https://www.makeviral.ai/templates/ai-baby-dance/create). 1 photo · 10 s · 9:16 with sound · 40 credits, charged once · ready in a few minutes · no prompt to write.
 
-Keyword: ai baby dance. Also answers: ai baby dancing, baby dancing ai, baby dance ai, dancing baby ai, ai baby dance video, ai baby dance video generator, make my baby dance, make your baby dance ai, ai baby dance meme, ai baby dance tiktok, ai baby dance trend, make my baby dance ai, ai baby dance generator, ai baby dance song, ai baby dance app, baby dance ai video, dancing baby ai video, ai baby dance prompt, baby dance ai prompt, ai baby dance capcut template, ai baby dance template, ai baby dance filter, ai baby dance effect, ai video of my baby dancing, baby dance trend tiktok, ai baby dance instagram, ai baby boy dance, ai baby girl dance, toddler dance ai, bebê dançando ia, bebé bailando ia, bébé qui danse ia.
+Keyword: ai baby dance. Also answers: ai baby dancing, baby dancing ai, baby dance ai, dancing baby ai, ai baby dance video, ai baby dance video generator, make my baby dance, make your baby dance ai, ai baby dance meme, ai baby dance tiktok, ai baby dance trend, ai sway dance, make my baby dance ai, ai baby dance generator, ai baby dance song, ai baby dance app, baby dance ai video, dancing baby ai video, ai baby dance prompt, baby dance ai prompt, ai baby dance capcut template, ai baby dance template, ai baby dance filter, ai baby dance effect, ai sway dance effect, ai baby sway dance, last call for love ai dance, ai video of my baby dancing, baby dance trend tiktok, ai baby dance instagram, ai baby boy dance, ai baby girl dance, toddler dance ai, bebê dançando ia, bebé bailando ia, bébé qui danse ia.
 
 ## What is the AI Baby Dance trend, and where did it start?
 
-The AI baby dance meme is not new. A wave of dancing baby AI clips, babies animated to an AI-made song, spread on TikTok in early January 2026, and the Daily Dot covered it on 29 January, with clips at 1.5 million and 1.8 million views.
+The AI baby dance meme is not new. A wave of dancing baby AI clips, babies animated to an AI-made song, spread on TikTok in early January 2026, and the Daily Dot covered it on 29 January, with clips at 1.5 million and 1.8 million views. Know Your Meme lists that first wave as the Sway Dance trend: babies wobble in a Bollywood-like dance.
 
 The autumn wave started with an adult. On 9 September 2026 the French creator @bouuhyachaka posted a "dispute" routine in her kitchen to a deep house track: she grabs her head, frames her face, puts a hand on her hip, waves the camera off, then storms up to the lens. It had 17.2 million views and 1.1 million likes by 12 October. AI versions with pets followed, among them an AI cat on 22 September with 2.3 million views.
 
@@ -169,6 +169,10 @@ Want your pet in a dance instead? Try the [AI dancing pet video](https://www.mak
 ### What is the AI baby dance trend?
 
 It is a TikTok trend where one photo of a baby becomes a short AI video of the baby dancing on the beat. The autumn 2026 version copies a sassy "dispute" routine: hands on the head, a hand on the hip, "talk to the hand" and stop palms. The most viewed post of the CapCut baby template had 7.9 million views by 12 October 2026.
+
+### Is this the AI sway dance?
+
+It is the same trend with a newer dance. The AI baby sway dance was the first wave, in December 2025 and January 2026: AI-animated babies wobbled and swayed in a Bollywood-like dance to an AI-made song. A May 2026 TikTok tutorial calls it the AI sway dance effect. Know Your Meme also calls it the Last Call for Love dance, after that song. This page makes the newer dances: the sassy autumn 2026 routine and the Toc Toc dance.
 
 ### How do I make my baby dance with AI?
 

@@ -6,7 +6,7 @@
   "url": "https://remakeyourmeme.com/templates/crazy-frog-ai-trend/",
   "blurb": "Real output from this maker, unedited, made October 16, 2026 with photos of AI-generated sample people. Switch to Original to see the trend clip at the same moment.",
   "photos_in": null,
-  "duration_s": 14,
+  "duration_s": 10,
   "ready_to_make": true,
   "demo_videos": [
     "https://cdn.remakeyourmeme.com/trends/crazy-frog/7693979795910069525.mp4",
@@ -49,8 +49,8 @@
   "all_cdn_mp4": [
     "https://cdn.remakeyourmeme.com/templates/baby-doll/video.mp4",
     "https://cdn.remakeyourmeme.com/templates/closed-on-sunday/video.mp4",
+    "https://cdn.remakeyourmeme.com/templates/coldplay-kiss-cam/video.mp4",
     "https://cdn.remakeyourmeme.com/templates/crazy-frog/preview-854.mp4",
-    "https://cdn.remakeyourmeme.com/templates/hug-in-heaven/video.mp4",
     "https://cdn.remakeyourmeme.com/trends/crazy-frog/7693979795910069525.mp4",
     "https://cdn.remakeyourmeme.com/trends/crazy-frog/7694760297520729358.mp4",
     "https://cdn.remakeyourmeme.com/trends/crazy-frog/7694928656371698958.mp4",
@@ -72,7 +72,7 @@
   "prompt_count": 0,
   "prompts_public": false,
   "note": "Remake Your Meme does not publish copyable prompt text on public template pages (one-tap remake). Inventory keeps demos, posters, and metadata only.",
-  "scraped_at": "2026-10-18",
+  "scraped_at": "2026-10-19",
   "published": null,
   "updated": null
 }

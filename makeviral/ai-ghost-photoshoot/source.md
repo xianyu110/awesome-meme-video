@@ -3,7 +3,7 @@
 > The ghost photoshoot (also spelled ghost photo shoot) is the October trend where people pose under a white bedsheet with round black sunglasses on top, alone, with friends or with their dog, in a fall setting.
 
 Canonical: https://www.makeviral.ai/templates/ai-ghost-photoshoot
-Updated: 2026-10-15
+Updated: 2026-10-18
 Published: 2026-10-08
 Author: İrfan Şener (https://www.makeviral.ai/about)
 Publisher: MakeViral (https://www.makeviral.ai)

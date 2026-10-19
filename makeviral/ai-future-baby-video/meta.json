@@ -6,7 +6,7 @@
   "url": "https://www.makeviral.ai/templates/ai-future-baby-video",
   "markdown_url": "https://www.makeviral.ai/templates/ai-future-baby-video.md",
   "blurb": "An AI baby generator video takes photos of two adults and imagines a baby who mixes their looks, then plays it as a warm early-2000s home video of one day with the family.",
-  "updated": "2026-10-15",
+  "updated": "2026-10-18",
   "published": "2026-09-30",
   "credits": 128,
   "demo_videos": [
@@ -43,5 +43,5 @@
     "Make your own Future Baby video"
   ],
   "prompt_count": 2,
-  "scraped_at": "2026-10-18"
+  "scraped_at": "2026-10-19"
 }

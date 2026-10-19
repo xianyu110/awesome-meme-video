@@ -6,7 +6,7 @@
   "url": "https://www.makeviral.ai/templates/ai-cinema-breakout-video",
   "markdown_url": "https://www.makeviral.ai/templates/ai-cinema-breakout-video.md",
   "blurb": "An AI cinema breakout video is a shaky phone clip from the front row of a cinema where the film breaks out of the screen.",
-  "updated": "2026-10-15",
+  "updated": "2026-10-18",
   "published": "2026-09-30",
   "credits": 103,
   "demo_videos": [
@@ -44,5 +44,5 @@
     "Make your own Cinema Breakout video"
   ],
   "prompt_count": 2,
-  "scraped_at": "2026-10-18"
+  "scraped_at": "2026-10-19"
 }

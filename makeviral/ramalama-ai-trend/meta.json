@@ -6,7 +6,7 @@
   "url": "https://www.makeviral.ai/templates/ramalama-ai-trend",
   "markdown_url": "https://www.makeviral.ai/templates/ramalama-ai-trend.md",
   "blurb": "The Ramalama Bang Bang trend is a Halloween costume walk set to Róisín Murphy's 2005 song \"Ramalama (Bang Bang)\": a slow, low walk toward the camera, then the costume hits on the beat.",
-  "updated": "2026-10-15",
+  "updated": "2026-10-18",
   "published": "2026-10-11",
   "credits": 228,
   "demo_videos": [
@@ -21,6 +21,12 @@
       "variant": "Pet",
       "kind": "video_prompt",
       "text": "Recreate the reference video [Video 1] shot for shot: the same wet cobblestone street, the same glowing jack-o'-lanterns, ghost decorations, street lamps, full moon and falling leaves, the same camera angles, cuts, timing and moves. The ONLY change: the kitten who walks upright toward the low camera with the orange jack-o'-lantern candy bucket is now the pet in [Image 1].\n\nThe walking pet = the pet in [Image 1], in EVERY shot: the same species and breed, face, eyes, ears, muzzle, fur colors, fur length and markings as in [Image 1], with the natural body volume and proportions of that animal: never flattened, squashed, stretched or merged with anything. Not the calico, black or cream fur of the kittens in the video. It walks upright on its hind legs with the candy bucket. If [Image 1] shows a dog or another animal, that animal takes the same place.\n\nIt wears each costume from the video, which changes at every cut: first the black pointed witch hat with the orange bow and the starry black cape with the striped bow, then the black vampire cape with the red lining and the high collar, then the black witch hat with bat wings and the short black cape. In the last shot it is the kitten on the left, and the tabby kitten in the orange pumpkin suit stays exactly as in the video.\n\nThe pet looks exactly like its photo in every frame, from the first shot to the last, only the costume changes.\n\nAnatomy rules: one head per animal, on its own body. No people, no text, no logos."
+    },
+    {
+      "label": "1. The video prompt is filled in. Settings: Seedance 2.5, 10 s, 720p, 9:16, sound on. The video prompt",
+      "variant": "Human",
+      "kind": "video_prompt",
+      "text": "A Halloween night clip, photorealistic and cinematic, in deep blue and violet moonlight, vertical 9:16: a phone snaps a witch flying across the full moon, then the reveal shows who is on the broom.\n\nThe witch is the person in [Image 1]: copy the exact face from [Image 1] (the face shape, eye color and eye shape, eyebrows, nose, mouth, skin tone, age, hair color, hair length and hairstyle, and any beard, moustache, glasses or freckles), so their friends recognize them at once. The face stays the same from the first frame to the last. Never morph. They wear a tall black pointed witch hat with a wide brim and a flowing black witch outfit with a long cape, not the clothes from [Image 1]; their own hair shows under the hat. If [Image 1] shows an animal, the witch is that animal, with its own face, fur and markings, sitting on the broom.\n\n0-3 s: a wide shot from a rooftop over a big city at night, skyscrapers with lit windows. A huge glowing full moon fills the upper half of the sky, and the small black silhouette of a witch on a broom flies across the face of the moon.\n3-5 s: two hands rise from the bottom of the frame and hold up a phone in a plain black case; its screen shows the moon and the flying silhouette. Only the hands show, no face. The phone takes the picture: a bright white flash and a shutter click.\n5-6 s: the dark silhouette swoops past right in front of the lens in a blur, with a loud whoosh.\n6-10 s, the reveal on the beat: a medium shot from the knees up. The witch sits sideways on a wooden broom with a straw brush, floating in the night sky in front of the huge full moon, light clouds below and the city lights far down. The face is large, sharp and lit by the moon: exactly the face from [Image 1]. A new pose on each beat: they cross the legs and lean back with a hand on the knee, then tip the hat brim with one finger and give a cheeky smile, then wink and point a thin wooden wand at the camera, which gives off a few small sparks.\n\nAudio: a quiet night ambience, a phone shutter click at the flash, a whoosh as the broom flies past, then a playful, bouncy Halloween beat with a short hit on each pose. No singing, no words.\n\nExactly one witch on one broom. No other people, no other witches. Anatomy: two arms and two legs, and the legs never merge with the broom. No text, no subtitles, no logos, no watermark, no buttons or text on the phone screen."
     }
   ],
   "variant_headings": [
@@ -28,14 +34,15 @@
     "How to make the Ramalama video on MakeViral",
     "Which photo works best?",
     "What happens in the Ramalama pet video, shot by shot?",
+    "What happens in the Ramalama witch video?",
     "How do I make the Ramalama trend with my pet?",
+    "Can I make the Ramalama trend with myself instead of a pet?",
     "Can I make the Ramalama video with my dog instead of a cat?",
     "Which Ramalama costumes does my pet wear?",
-    "Can I make the Ramalama walk with myself instead of a pet?",
     "How long is the video and what format is it?",
     "Other AI video templates and tools",
     "Make your own Ramalama video"
   ],
-  "prompt_count": 1,
-  "scraped_at": "2026-10-18"
+  "prompt_count": 2,
+  "scraped_at": "2026-10-19"
 }

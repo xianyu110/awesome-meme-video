@@ -3,7 +3,7 @@
 > The Ghostface AI trend is a Halloween photo trend from September 2025: a grainy late-90s film photo of you on a corded phone in a dim bedroom, while a masked figure in a black robe watches from the doorway behind you.
 
 Canonical: https://www.makeviral.ai/templates/ghostface-ai-trend
-Updated: 2026-10-15
+Updated: 2026-10-18
 Published: 2026-10-08
 Author: İrfan Şener (https://www.makeviral.ai/about)
 Publisher: MakeViral (https://www.makeviral.ai)

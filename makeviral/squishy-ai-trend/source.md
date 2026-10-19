@@ -3,7 +3,7 @@
 > The squishy face AI trend turns one photo of your face into a glossy, jelly-like silicone head lying on a table.
 
 Canonical: https://www.makeviral.ai/templates/squishy-ai-trend
-Updated: 2026-10-15
+Updated: 2026-10-18
 Published: 2026-10-13
 Author: İrfan Şener (https://www.makeviral.ai/about)
 Publisher: MakeViral (https://www.makeviral.ai)
@@ -11,6 +11,8 @@ Publisher: MakeViral (https://www.makeviral.ai)
 The **squishy face AI trend** turns one photo of your face into a glossy, jelly-like silicone head lying on a table. Two hands squeeze the cheeks, knead the face like soft dough and let go, and it slowly bounces back into shape, with squishy ASMR sounds. You need one clear photo of your face, or of your pet.
 
 Your face becomes a glossy silicone squishy lying on a wooden table. Two hands squeeze your cheeks, knead you like soft dough, then let go, and your face slowly bounces back. One photo in, an 8-second clip with squish sounds out.
+
+Also called: AI squishy ASMR, Face ASMR, Silicone jelly face.
 
 **Make it now:** [Make this video](https://www.makeviral.ai/templates/squishy-ai-trend/create). 1 photo · 8 s · 9:16 with sound · 46 credits, charged once · ready in a few minutes · no prompt to write.
 

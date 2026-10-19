@@ -9,11 +9,11 @@
   "blurb": "",
   "crc_slug": "pugc_seedance_20_mini_cywo_p34",
   "crc_id": 60072344,
-  "aigc_config_url": "https://dynamic-third-res.wondershare.cc/202610211258/15d859ef6cbb463f0c75788eee59a28d/Media_io/aicommunity/json/dynamic/s8/cc70608bc2bd05aeebbe049070190701.json",
+  "aigc_config_url": "https://dynamic-third-res.wondershare.cc/202610221304/24aed6d3cf78e1da5ec19e53637d2fe1/Media_io/aicommunity/json/dynamic/s8/cc70608bc2bd05aeebbe049070190701.json",
   "aigc_config_local": "_raw/mediaio-aigc/polar-bear-2026-ai-video.json",
   "published": null,
   "updated": null,
-  "scraped_at": "2026-10-18",
+  "scraped_at": "2026-10-19",
   "demo_videos": [
     "https://static-third-res.wondershare.cc/Media_io/aicommunity/preview/static/s3/f0535e11caec9edfb471e074d22f6269.mp4"
   ],
@@ -40,6 +40,6 @@
     "share_count": 0,
     "star_count": 0,
     "used_count": 0,
-    "view_count": 11818
+    "view_count": 11819
   }
 }

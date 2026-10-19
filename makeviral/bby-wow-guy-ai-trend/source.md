@@ -1,0 +1,217 @@
+# Bby Wow Guy AI: Put Your Face in the Guy Dancing at a Quince Meme
+
+> The bby wow guy is the man in the viral quince party clip: he dances toward the phone, takes a bite of a concha, stares into the camera with puffed cheeks and dances off into the crowd.
+
+Canonical: https://www.makeviral.ai/templates/bby-wow-guy-ai-trend
+Updated: 2026-10-18
+Published: 2026-10-18
+Author: İrfan Şener (https://www.makeviral.ai/about)
+Publisher: MakeViral (https://www.makeviral.ai)
+
+The **bby wow guy** is the man in the viral quince party clip: he dances toward the phone, takes a bite of a concha, stares into the camera with puffed cheeks and dances off into the crowd. In October 2026 the clip came back with the song "BbY WOW", and the bby wow guy dance became a meme of its own. From one photo, MakeViral puts you in his place in the same party hall, shot for shot.
+
+Dance up to the camera at a quinceañera, bite the concha, chew with full cheeks while you stare into the lens, then dance away. Add one photo and become the bby wow guy, with the song.
+
+Also called: Guy dancing at a quince meme, El de la Mirada Preñadora, Eve el Cholo, Staff shirt guy dance, Guy eating bread while dancing at a quince.
+
+**Make it now:** [Make this video](https://www.makeviral.ai/templates/bby-wow-guy-ai-trend/create). 1 photo · 10 s · 9:16 with sound · 152 credits, charged once · ready in up to several minutes · no prompt to write.
+
+Keyword: bby wow guy. Also answers: bby wow guy dance, bby wow meme, bby wow guy meme, guy dancing at a quince, concha meme, bby wow guy dance trend, bby wow guy trend, baby wow meme, mirada preñadora, eve ramirez, guy dancing at quince meme, guy dancing at quinceanera eating concha meme, pan dulce meme, el chico de la mirada preñadora, la mirada preñadora, bby wow guy ai, guy dancing at a quince ai, bby wow guy template, bby wow guy green screen, baby wow guy dance eating, guy dancing at a quince original, bby wow guy original, dime dime baby meme, quince meme, concha bread meme, guy eating bread meme, mirada preñadora meme, quien es el de la mirada preñadora, de donde es el de la mirada preñadora, baby wow guy name, guy dancing at a quince staring at camera, quinceanera dancing guy ai trend, meme quinceañera, dancing guy meme, guy dancing to oh wow karol g, video de la mirada preñadora, el cholo de muzquiz, el chavo viral de la concha, la mirada especial, meme pan dulce, meme concha, meme del pan dulce, el del pan, bby wow dancing guy, baby wow guy, el chico que baila baby wow.
+
+## What is the Bby Wow Guy trend, and where did it start?
+
+The clip comes from a quinceañera in Múzquiz, Coahuila, Mexico. The earliest copy we found was posted on 27 June 2025 by @enriquecruzmart, with the line "si tu fueras un pan, yo sería este peligroso" (583,400 views by 18 October 2026). The man is Eve Ramírez, who worked as staff at the party, which is why he wears a black STAFF polo. He opened his own account, @eve.el.cholo, and on 24 July 2025 he posted the clip himself as "El video original" (7.3 million views by 18 October 2026). Mexican TikTok named him "el de la mirada preñadora" for that stare, and his bio calls him "el chavo viral de la concha". His other party videos went further: one from a different XV party passed 44 million views.
+
+The meme came back in October 2026. Green screen templates of the "staff shirt guy dance" went up on 1 and 2 October. On 12 and 13 October new templates put the sped-up "BbY WOW" sound by KAROL G, Judeline and rusowsky on the clip, with captions like "Bby wow guy dance trend" (267,600 and 301,500 views by 18 October), and people started to ask who the guy dancing at a quince was. On 16 October the clothing brand @dakitibra posted the same clip on Instagram with his shirt changed to its own T-shirt, and it passed 1.9 million likes in two days. On 18 October Eve Ramírez posted a new party dance, "Como en los viejos tiempos", which had 894,900 views within a day.
+
+### Bby Wow Guy trend timeline
+
+- **2025-06-27**: @enriquecruzmart posts the quince party clip from Múzquiz, Coahuila; it is the earliest copy found and has 583,400 views by 18 October 2026. Source: [TikTok](https://www.tiktok.com/@enriquecruzmart/video/7520413983380229384).
+- **2025-07-24**: Eve Ramírez posts the clip on his own account as "El video original"; it has 7.3 million views and 568,700 likes by 18 October 2026. Source: [TikTok](https://www.tiktok.com/@eve.el.cholo/video/7530706948828712197).
+- **2026-10-01**: A green screen template of the "staff shirt guy dance" goes up, without the song. Source: [TikTok](https://www.tiktok.com/@greenscreenmemes.com/video/7691568203910122766).
+- **2026-10-12**: A green screen template puts the sped-up BbY WOW sound on the clip; it has 267,600 views by 18 October. Source: [TikTok](https://www.tiktok.com/@greenscreenmemes.com/video/7695877225618377998).
+- **2026-10-13**: The "Bby wow guy dance trend" template goes up; it has 301,500 views and 5,250 shares by 18 October. Source: [TikTok](https://www.tiktok.com/@greenscreenmemes.com/video/7696052653914180878).
+- **2026-10-16**: The clothing brand @dakitibra posts the clip on Instagram with his shirt changed to its own T-shirt; it passes 1.9 million likes in two days. Source: [Instagram](https://www.instagram.com/reel/DekKniPAfr7/).
+- **2026-10-18**: Eve Ramírez posts a new party dance, "Como en los viejos tiempos"; it has 894,900 views within a day. Source: [TikTok](https://www.tiktok.com/@eve.el.cholo/video/7697846924992367879).
+
+## What the Bby Wow Guy video looks like
+
+Made from the prompts on this page. The people and pets are AI-made, not real persons, and the sound is original. Your result will differ from run to run.
+
+- **Example 1** (9 s, 9:16 MP4 with sound): Made with MakeViral from one photo of an AI-made man (not a real person): he dances in, bites the concha, stares into the camera with full cheeks and dances away into the party.
+  - Video: https://www.makeviral.ai/media/templates/bby-wow-guy-meme-ai/example-v1.mp4
+  - Poster: https://www.makeviral.ai/media/templates/bby-wow-guy-meme-ai/example-v1-poster.jpg
+  - Input photo: https://www.makeviral.ai/media/templates/bby-wow-guy-meme-ai/example-v1-input.jpg
+- **Example 2** (7 s, 9:16 MP4 with sound): The original clip by Eve Ramírez (@eve.el.cholo), from a quinceañera in Múzquiz: he dances up to the camera, bites the concha, stares with full cheeks and turns away. Your video copies these moves with your face.
+  - Video: https://www.makeviral.ai/media/templates/bby-wow-guy-meme-ai/original-main-v2.mp4
+  - Poster: https://www.makeviral.ai/media/templates/bby-wow-guy-meme-ai/original-main-v1.jpg
+
+## How to make the Bby Wow Guy video on MakeViral
+
+Everything runs in the browser. No editing app, no watermark.
+
+### The one-tap way (no prompt to write)
+
+1. **Add your photo.** Press "Make yours" and add your photo, face clear. Take it with the camera or pick it from your library. Start here: https://www.makeviral.ai/templates/bby-wow-guy-ai-trend/create
+2. **Press Generate.** The button shows the price. Seedance 2.5 puts your photos into the BbY WOW guy meme trend clip and copies it shot by shot for 10 seconds, with the reel's original song. You write no prompt.
+3. **Download or share.** The video is ready in up to several minutes as a 9:16 MP4. Download it, share it from your phone, or find it later in your Library.
+
+### The by-hand way, with the exact prompts
+
+The one-tap flow runs this prompt for you. The video prompt animates your own photo directly. To change it, copy it and edit it in AI Video.
+
+Settings: 1 photo (your photo, face clear) · Seedance 2.5 · 10 s · 720p · 9:16 · no sound · 152 credits in one tap.
+
+1. The video prompt is filled in. Settings: Seedance 2.5, 10 s, 720p, 9:16, sound off. The video prompt:
+
+   ```text
+   Recreate the reference video [Video 1] shot for shot: the same quinceañera party hall at night with purple, pink and green party lights, white curtains, flower centerpieces, gold chairs, a photo light on a stand and guests in party dresses and shirts, the same handheld phone camera, the same vertical framing, timing and moves. The ONLY change: the young man with the short dark hair and the silver chain who dances toward the camera, bites a small sweet bread, stares into the lens with full cheeks and dances away is now the person in [Image 1].
+
+The party guest = the person in [Image 1], in EVERY shot: copy the exact face from [Image 1] - face shape, eye color and eye shape, eyebrows, nose, mouth, skin tone, age, hair color, hair length and hairstyle, and any beard, moustache, glasses or freckles exactly as in the photo. The party guest wears the clothes from [Image 1]; if [Image 1] shows only the head or the upper body, a plain white oversized T-shirt with no print and loose black pants. The same real person in every frame, from the first second to the last, so their friends instantly recognize them, also in the big close-up while they chew. When only the back of the head shows, it has the hair from [Image 1]. Never morph, never drift back to the original young man's face. NO letters, NO horse print and NO cross print on the T-shirt, front or back, NO text or logo on any clothes, and NO silver chain unless [Image 1] shows them. If [Image 1] shows an animal, the party guest is that animal standing upright, with its own face, fur and markings and the natural body volume and proportions of that animal: never flattened, squashed, stretched or merged with anything.
+
+The party guest copies the young man's moves and face second by second:
+0-2.5 s: dances in from the left toward the camera with loose, bouncy steps, shoulders swaying to the beat, between the guests.
+2.5-4 s: close to the camera, lifts a small round sweet bread to the mouth with one hand and takes a big bite.
+4-6.5 s: big close-up: chews with puffed cheeks, eyes wide, staring straight into the lens, dead serious.
+6.5-9.5 s: still chewing, turns around and dances away into the crowd with the back to the camera, one hand up.
+
+The other guests stay as they are in the video, small and soft in the background; never put the face from [Image 1] on a guest. Anatomy rules: one head only, on the party guest's shoulders. Two arms and two hands, five fingers on each hand, one sweet bread. No text, no captions, no emojis, no logos, no watermark.
+   ```
+
+2. Press Generate, then download the 9:16 MP4.
+
+One-tap version of this variant: https://www.makeviral.ai/templates/bby-wow-guy-ai-trend/create
+
+### Which photo works best?
+
+You need **one photo** of yourself.
+
+- A sharp photo where your face is big and clear (head and shoulders is enough), turned to the camera, in good light, with no sunglasses.
+- Your face goes into the big close-up of the clip, so a close photo works best.
+- Use a photo of yourself or of an adult who agreed. Never a child, a celebrity or a stranger.
+
+## How many credits does it cost?
+
+You pay per video in credits, and the create page shows the exact price on the Generate button before you spend anything. The one-tap price covers the scene photo and the video, charged once. The cheaper models are there if you run the prompts by hand in AI Video.
+
+| Video model | Settings | Credits |
+| --- | --- | --- |
+| Seedance 2.5 (this template) | 10 s, 720p, copies the trend clip, one tap | 152 |
+
+Credits come with a plan; see [pricing](https://www.makeviral.ai/pricing). A failed video gives its credits back.
+
+## What happens in your bby wow guy video?
+
+| | Vertical | Square |
+|---|---|---|
+| The clip | The full-frame, vertical copy of the quince clip | The square crop that most reposts of the meme show |
+| What happens | You dance in from the left, bite the concha, chew with full cheeks while you stare into the lens, then turn and dance away into the crowd | The same bite, stare and exit, a little shorter |
+| Length | About 9.5 s | About 6 s |
+| Frame | 9:16, ready for TikTok and Reels | Square |
+
+Seedance 2.5 puts you into the party clip itself, shot for shot, at 720p: the same hall, the purple and pink lights, the guests and the moving phone camera. The other guests stay in the background. Both come with the song, put back on after the run, and you can turn it off on the result screen. Press "Create your own", pick the frame and add your photo; the exact price shows on the Generate button before you spend anything. A run can take several minutes, and every run is a new take, so results differ.
+
+In our example run, the man got the plain white T-shirt of the clip, not the shirt from his photo. The prompt bans the print, the letters and the chain of the original, so they do not come back.
+
+## Who is the bby wow guy, and what does "la mirada preñadora" mean?
+
+The baby wow guy name is Eve Ramírez, known on TikTok as Eve el Cholo and "El de la Mirada Preñadora". He is from Múzquiz, Coahuila, and he was working as staff at the quinceañera when a guest filmed him, so Spanish posts also call him el cholo de Muzquiz. People who ask quien es el de la mirada preñadora, or de donde es el de la mirada preñadora, mean him: el chico de la mirada preñadora from Múzquiz.
+
+**La mirada preñadora** is Mexican slang for a stare so intense it could get someone pregnant. TikTok gave the name to his deadpan look into the camera while he chews, and #lamiradapreñadora has 175.5 million views. Some fans call it la mirada especial. The mirada preñadora meme and the video de la mirada preñadora are the same clip as the bby wow guy meme.
+
+MakeViral is not linked with Eve Ramírez. This template copies the moves and the camera of his clip and puts your face in his place; he does not appear in your video.
+
+## Why do people call it the concha meme or the pan dulce meme?
+
+Because the joke is the bread. He holds a concha, the round Mexican sweet bread with a sugar shell, takes a big bite and chews it like nothing else exists. His bio calls him "el chavo viral de la concha", and fans write the meme concha or the meme del pan dulce. In English it is the concha meme, the concha bread meme, the pan dulce meme or simply the guy eating bread meme, and in Spanish the meme pan dulce and the clip of el del pan. TikTok also lists it as the guy dancing at quinceanera eating concha meme and the baby wow guy dance eating clip.
+
+The stare is the second joke: the guy dancing at a quince staring at camera with his cheeks full. Our clip copies the bite, the chew and the stare second by second.
+
+## Bby wow meme, dime dime baby meme or guy dancing at a quince: which name is right?
+
+All of them. In English, most people search the bby wow guy, the bby wow meme or the baby wow meme, and the bby wow guy dance trend took its name from the green screen templates. In October 2026 the clip got the sped-up "BbY WOW" sound, whose hook goes "dime, dime baby", so it is also the dime dime baby meme, and some people searched for the guy dancing to oh wow karol g because they misheard the title.
+
+Before the song, the same clip was the guy dancing at a quince meme, or just the quince meme, and Spanish posts file it under meme quinceañera or call him el chico que baila Baby Wow. People looking for the guy dancing at a quince original or the bby wow guy original want his own post of 24 July 2025 (see the timeline). The bby wow guy template and the bby wow guy green screen are the templates you cut yourself in an editor; this page makes the whole clip with your face instead.
+
+The dance trend to the same song is a different joke: see the [BbY WOW dance](https://www.makeviral.ai/templates/bby-wow-dance-ai-trend) for the garage routine and the pet version.
+
+## Which sound and hashtags should you post it with?
+
+Your clip comes with the BbY WOW sound of the clip it copies, so it is ready to post. You can turn the song off on the result screen and add a sound when you post instead. The song belongs to its owners, and MakeViral gives you no rights to it. Music rules differ from platform to platform, so check them before you use the clip in an ad or a paid post.
+
+**Hashtags:** #bbywow is the big one, with 112,621 TikTok videos and 885.9 million views on 18 October 2026. Posts about the guy add #bbywowguy, #dimedimebaby and #lamiradapreñadora. The same tags work on Instagram Reels. Keep the platform's AI label on.
+
+**Caption ideas:** "Me at the quince I was not invited to", "When they bring out the conchas", "POV: the DJ plays BbY WOW", "La mirada preñadora". Or write your own.
+
+## What goes wrong, and how do you fix it?
+
+| Problem | Fix |
+|---|---|
+| The face looks less like you | Use a sharp photo with your face big, turned to the camera and in good light, then run it again. |
+| A print, letters or a chain show up on the shirt | The man in the clip wears them. The prompt bans them unless your photo shows them; run it again. |
+| You get a white T-shirt, not your own shirt | The clip's plain white T-shirt sometimes wins over the shirt in your photo. A photo that shows more of your outfit helps. |
+| A guest gets your face | Rare: run it again with a photo where only you are in view. |
+| The mouth moves, but not to the words | The video copies the moves and the face of the clip, not the lyrics, so there is no exact lip sync. |
+| The video model refuses the photo | Some photos get refused. The credits come back; try another photo. |
+
+## Bby Wow Guy trend questions
+
+### What is the bby wow guy meme?
+
+A short clip from a quinceañera: a young man dances toward the camera, bites a concha, chews with puffed cheeks while he stares into the lens, then turns and dances away into the crowd. It first went around in June and July 2025 and came back in October 2026 with the BbY WOW song, as the bby wow guy dance.
+
+### Who is the guy dancing at a quince?
+
+Eve Ramírez, known as Eve el Cholo and "El de la Mirada Preñadora", from Múzquiz, Coahuila. He was working as staff at the party, which is why he wears a STAFF polo, and he posted the original clip on his own TikTok on 24 July 2025. MakeViral is not linked with him.
+
+### How do I make the bby wow guy AI video?
+
+Press "Create your own", pick Vertical or Square and add one clear photo of yourself. Press Generate; the button shows the price first. You get a bby wow guy AI video of about 6 to 9.5 seconds with the song. You write no prompt, and the video waits in your Library when it is ready.
+
+### Is this the bby wow guy template from TikTok?
+
+It does the same job without the editing. The TikTok templates are green screen clips that you cut over your own video. Here you add one photo, and the AI makes the whole quinceanera dancing guy AI trend clip with your face in the party itself.
+
+### What does he eat in the video?
+
+A concha, the Mexican sweet bread with a sugar shell. That is why it is also called the concha meme and the pan dulce meme, and why his bio says "el chavo viral de la concha".
+
+### Will the man from the original clip be in my video?
+
+No. You take his place in every shot, also in the big close-up and when you turn away. The guests stay small in the background. Use a photo of yourself or of an adult who agreed, never a child, a celebrity or a stranger.
+
+### Can I put my friend in the bby wow guy meme?
+
+Yes, if your friend is an adult and agrees. Use one clear photo of their face. It is the classic way to tag the friend who goes to every party for the food.
+
+### Can I use my pet?
+
+This page is made for people. Add a pet photo and the video model may show the pet standing upright in the party, but the faces and the bite are made for a person, so results vary a lot.
+
+### Which AI model makes the video?
+
+Seedance 2.5. It copies the quince clip shot for shot and puts the person from your photo into it at 720p, with a close-up of your face as the face reference. A run can take several minutes.
+
+### What prompt does the bby wow guy trend use?
+
+No creator of the meme shared a prompt, and the green screen templates have none. We use our own prompt in the same tested style as our other reel copies. You write no prompt yourself.
+
+### How long is the video and what format is it?
+
+Vertical makes about 9.5 seconds in 9:16, ready for TikTok and Reels. Square makes about 6 seconds, like the meme reposts. Both are MP4 files at 720p with the song, with no watermark.
+
+## Other AI video templates and tools
+
+- [BbY WOW Dance AI Trend: Garage Dance, Quince Meme or Your Pet](https://www.makeviral.ai/templates/bby-wow-dance-ai-trend): A palms-up shrug, arm slices, hands on your head and a point at the camera: the viral dance to "BbY WOW". Or bite the sweet bread at the quince party and dance away. Add one photo of you or your pet and get the clip with the song.
+- [Fergie Baby Trend: Your AI Swagger Walk Out of the Park Gate](https://www.makeviral.ai/templates/fergie-baby-ai-trend): Add one photo and you take the lead in the viral Fergie Baby walk: out through the chain-link gate, then a slow, bouncing swagger walk down the park path toward the camera, with the song on the video.
+- [Bad Times AI Trend: Argue With the Camera From One Photo](https://www.makeviral.ai/templates/bad-times-ai-trend): Hands on the head, a hand on the hip, stop palms and a long stare at whoever is filming: the viral routine to Imael Angel's "Bad Times". Add one photo of you or your pet and get the clip with the song.
+- [AI TikTok Video](https://www.makeviral.ai/tools/ai-tiktok-video-generator): Eight native TikTok formats, one prompt or product URL, a finished 9:16 video with captions burned in.
+- [AI Reels](https://www.makeviral.ai/tools/ai-reels-generator): Pick a format, give it a topic or a product link, and get a finished vertical reel with voice and captions. Nothing to film, nothing to edit.
+- [AI photo generator](https://www.makeviral.ai/ai-photo-generator)
+- [All AI video templates](https://www.makeviral.ai/templates)
+
+## Make your own Bby Wow Guy video
+
+Add one photo and press Generate. No prompt to write. 152 credits, charged once.
+
+[Make this video](https://www.makeviral.ai/templates/bby-wow-guy-ai-trend/create)

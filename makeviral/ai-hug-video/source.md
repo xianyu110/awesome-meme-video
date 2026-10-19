@@ -3,7 +3,7 @@
 > An AI hug video is a short clip where two people from two separate photos walk toward each other and hug.
 
 Canonical: https://www.makeviral.ai/templates/ai-hug-video
-Updated: 2026-10-15
+Updated: 2026-10-18
 Published: 2026-09-30
 Author: İrfan Şener (https://www.makeviral.ai/about)
 Publisher: MakeViral (https://www.makeviral.ai)
@@ -12,11 +12,11 @@ An **AI hug video** is a short clip where two people from two separate photos wa
 
 Two people step toward each other in a sunny park and share a warm hug. Two photos in, an 8-second clip with gentle original music out.
 
-Also called: hug my younger self, trend hug my younger self, trend hug your younger self, ai hugging, hug video.
+Also called: hug my younger self, trend hug my younger self, trend hug your younger self, ai hugging, hug video, Polaroid hug trend, Hug yourself trend.
 
 **Make it now:** [Make this video](https://www.makeviral.ai/templates/ai-hug-video/create). 2 photos · 8 s · 9:16 with sound · 103 credits, charged once · ready in a few minutes · no prompt to write.
 
-Keyword: ai hug. Also answers: ai hug generator, ai hug video generator, ai hug video, ai hug trend, hug ai photo, hug ai prompt, hug trend prompt, hug trend tiktok, hug trend ai prompt, hug trend photo, trend hug me, trend hug younger self, hug ai video generator, hug ai image, hug trend gemini, hug trend tutorial, hug trend instagram, hug trend video, hug ai photo prompt, hug trend gemini prompt, hug my younger self ai generator, hug trend ai, hug ai video.
+Keyword: ai hug. Also answers: ai hug generator, ai hug video generator, ai hug video, ai hug trend, hug ai photo, hug ai prompt, hug trend prompt, hug trend tiktok, hug trend ai prompt, hug trend photo, trend hug me, trend hug younger self, ai hug yourself, hug ai video generator, hug ai image, hug trend gemini, hug trend tutorial, hug trend instagram, hug trend video, hug ai photo prompt, hug trend gemini prompt, hug my younger self ai generator, hug your little self, hug trend ai, hug ai video.
 
 ## What is the AI Hug trend, and where did it start?
 
@@ -143,6 +143,10 @@ On MakeViral it takes two steps. AI Photo with Nano Banana 2 places both people 
 ### Is there a hug my younger self AI generator?
 
 Use the prompts on this page with an old photo of yourself as a child and a recent photo of yourself. Tell the photo prompt the first person is a small child, and change the hug to "the adult kneels down and hugs the child" for a natural height.
+
+### Is this the Polaroid hug trend?
+
+It is the same idea, as a video. In the 2025 "hug my younger self" posts, people used Google's Nano Banana image model to make nostalgic, Polaroid-style photos, as Storyboard18 described them. This page makes an AI still of the two of you in a sunny park first, then turns it into an 8-second hug video. For the hug yourself trend, add an old photo of yourself as a child and a recent photo of yourself. The clip then shows your adult self hugging your little self.
 
 ### Can I make an AI hug video from one photo with two people?
 

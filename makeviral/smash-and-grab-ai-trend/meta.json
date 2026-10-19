@@ -6,7 +6,7 @@
   "url": "https://www.makeviral.ai/templates/smash-and-grab-ai-trend",
   "markdown_url": "https://www.makeviral.ai/templates/smash-and-grab-ai-trend.md",
   "blurb": "The smash and grab AI video is a fictional car-window heist: a fixed camera inside a parked car shows an item on the back seat, you walk up, the glass shatters like a movie stunt, and you grab the item and run.",
-  "updated": "2026-10-15",
+  "updated": "2026-10-18",
   "published": "2026-10-14",
   "credits": 126,
   "demo_videos": [
@@ -43,5 +43,5 @@
     "Make your own Smash and Grab AI video"
   ],
   "prompt_count": 2,
-  "scraped_at": "2026-10-18"
+  "scraped_at": "2026-10-19"
 }

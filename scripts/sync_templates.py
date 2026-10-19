@@ -354,6 +354,104 @@ def rebuild_inventory(mv_change: dict, rm_change: dict) -> dict:
     (RAW / 'download-posters.tsv').write_text('\n'.join(f'{s}\t{sl}\t{u}' for s, sl, u in posters_dedup) + '\n')
     return inventory
 
+
+def merge_extra_sources(inv: dict) -> dict:
+    """Merge Media.io + Kavel items from on-disk folders into MV/RM inventory."""
+    mediaio_items = []
+    mio_dir = ROOT / 'mediaio'
+    if mio_dir.exists():
+        for meta in sorted(mio_dir.glob('*/meta.json')):
+            try:
+                mediaio_items.append(json.loads(meta.read_text()))
+            except Exception:
+                pass
+
+    kavel_items = []
+    kav_dir = ROOT / 'kavel'
+    if kav_dir.exists():
+        for meta in sorted(kav_dir.glob('*/meta.json')):
+            try:
+                kavel_items.append(json.loads(meta.read_text()))
+            except Exception:
+                pass
+
+    # Keep only MV/RM from current rebuild; replace mediaio/kavel from disk
+    others = [
+        t for t in inv.get('templates', [])
+        if t.get('source') not in ('mediaio', 'kavel')
+    ]
+    all_items = others + mediaio_items + kavel_items
+    all_items.sort(key=sort_key, reverse=True)
+
+    sources = dict(inv.get('sources') or {})
+    if mediaio_items:
+        prev_mio = sources.get('mediaio') or {}
+        mio_sync = {}
+        mio_sum = RAW / 'mediaio-sync-summary.json'
+        if mio_sum.exists():
+            try:
+                mio_sync = json.loads(mio_sum.read_text())
+            except Exception:
+                pass
+        sources['mediaio'] = {
+            **prev_mio,
+            'listing': prev_mio.get(
+                'listing',
+                'https://www.media.io/ai/explore/zone/ai-video-trend-generator',
+            ),
+            'listing_zh': prev_mio.get(
+                'listing_zh',
+                'https://www.media.io/ai/zh/explore/zone/ai-video-trend-generator',
+            ),
+            'count': len(mediaio_items),
+            'with_prompts': sum(1 for i in mediaio_items if i.get('prompt_count', 0) > 0),
+            'total_prompt_blocks': sum(i.get('prompt_count', 0) for i in mediaio_items),
+            'total_demo_videos': sum(len(i.get('demo_videos') or []) for i in mediaio_items),
+            'sync': {
+                'added': mio_sync.get('added', []),
+                'updated': mio_sync.get('updated', []),
+                'failed': mio_sync.get('failed', []),
+            },
+        }
+    if kavel_items:
+        prev_kav = sources.get('kavel') or {}
+        kav_sync = {}
+        kav_sum = RAW / 'kavel-sync-summary.json'
+        if kav_sum.exists():
+            try:
+                kav_sync = json.loads(kav_sum.read_text())
+            except Exception:
+                pass
+        sources['kavel'] = {
+            **prev_kav,
+            'listing': prev_kav.get('listing', 'https://www.kavel.ai/ai-video-trends'),
+            'count': len(kavel_items),
+            'with_prompts': sum(1 for i in kavel_items if i.get('prompt_count', 0) > 0),
+            'total_prompt_blocks': sum(i.get('prompt_count', 0) for i in kavel_items),
+            'total_demo_videos': sum(len(i.get('demo_videos') or []) for i in kavel_items),
+            'note': prev_kav.get('note') or (
+                'Prompts extracted verbatim from public Next.js RSC payloads '
+                '(form hub prompt + showcase templatePrompt) when present; '
+                'detail URLs are /video/<slug>. Deduped by canonical slug.'
+            ),
+            'sync': {
+                'added': kav_sync.get('added', []),
+                'updated': kav_sync.get('updated', []),
+                'failed': kav_sync.get('failed', []),
+            },
+        }
+
+    inv = {
+        'generated_at': SCRAPE_DATE,
+        'generated_at_iso': SCRAPE_ISO,
+        'sorted_by': inv.get('sorted_by')
+        or 'updated || published || scraped_at (newest first); Asia/Shanghai scrape clock',
+        'sources': sources,
+        'templates': all_items,
+    }
+    (ROOT / 'inventory.json').write_text(json.dumps(inv, ensure_ascii=False, indent=2) + '\n')
+    return inv
+
 def has_local_demo(src: str, slug: str) -> bool:
     d = ROOT / ('makeviral' if src == 'makeviral' else 'remakeyourmeme') / slug / 'demos'
     if not d.exists():

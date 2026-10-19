@@ -6,7 +6,7 @@
   "url": "https://remakeyourmeme.com/templates/smalltown-boy-cat-dance/",
   "blurb": "A ginger cat and a tuxedo cat at the red fence, posted 2 October 2026",
   "photos_in": null,
-  "duration_s": 14,
+  "duration_s": 10,
   "ready_to_make": true,
   "demo_videos": [
     "https://cdn.remakeyourmeme.com/templates/smalltown-boy/video.mp4",
@@ -26,7 +26,7 @@
   "all_cdn_mp4": [
     "https://cdn.remakeyourmeme.com/templates/baby-doll/video.mp4",
     "https://cdn.remakeyourmeme.com/templates/closed-on-sunday/video.mp4",
-    "https://cdn.remakeyourmeme.com/templates/hug-in-heaven/video.mp4",
+    "https://cdn.remakeyourmeme.com/templates/coldplay-kiss-cam/video.mp4",
     "https://cdn.remakeyourmeme.com/templates/smalltown-boy/video.mp4",
     "https://cdn.remakeyourmeme.com/trends/smalltown-boy/7692186349922749716.mp4",
     "https://cdn.remakeyourmeme.com/trends/smalltown-boy/7692699710783573300.mp4",
@@ -37,7 +37,7 @@
   "prompt_count": 0,
   "prompts_public": false,
   "note": "Remake Your Meme does not publish copyable prompt text on public template pages (one-tap remake). Inventory keeps demos, posters, and metadata only.",
-  "scraped_at": "2026-10-18",
+  "scraped_at": "2026-10-19",
   "published": null,
   "updated": null
 }

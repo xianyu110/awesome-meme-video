@@ -6,7 +6,7 @@
   "url": "https://www.makeviral.ai/templates/ai-hug-video",
   "markdown_url": "https://www.makeviral.ai/templates/ai-hug-video.md",
   "blurb": "An AI hug video is a short clip where two people from two separate photos walk toward each other and hug.",
-  "updated": "2026-10-15",
+  "updated": "2026-10-18",
   "published": "2026-09-30",
   "credits": 103,
   "demo_videos": [
@@ -45,5 +45,5 @@
     "Make your own AI Hug video"
   ],
   "prompt_count": 2,
-  "scraped_at": "2026-10-18"
+  "scraped_at": "2026-10-19"
 }

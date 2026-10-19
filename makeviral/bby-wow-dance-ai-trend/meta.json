@@ -6,7 +6,7 @@
   "url": "https://www.makeviral.ai/templates/bby-wow-dance-ai-trend",
   "markdown_url": "https://www.makeviral.ai/templates/bby-wow-dance-ai-trend.md",
   "blurb": "The BbY WOW dance is the TikTok trend to \"BbY WOW\" by KAROL G, Judeline and rusowsky: a palms-up shrug, arm slices across the body, hands on the head and a point at the camera.",
-  "updated": "2026-10-15",
+  "updated": "2026-10-18",
   "published": "2026-10-15",
   "credits": 36,
   "demo_videos": [
@@ -23,12 +23,6 @@
       "text": "Replace the character in the video with the person from the uploaded image. Keep actions, poses, facial expressions, camera movement and rhythm. Preserve the person's original facial features, maintain character consistency, no distortion, no glitches, no artifacts.\nThe person dances in the place from the uploaded image, in the clothes and shoes from the uploaded image, not the black T-shirt, the black shorts or the white socks of the dancer in the video, and keeps their own hair from the uploaded image. Follow the dancer's moves and timing exactly: the bouncy palms-up shrug, one arm and then the other slicing across the chest, the body roll with the hands low at the hips, both hands held on the head, then a few steps toward the camera and a playful point right at the lens. Keep the whole body in view until the last steps, with natural balance and stable ground contact. Exactly one person, no other people. One continuous shot, no cuts, no text, no captions, no logos."
     },
     {
-      "label": "1. The video prompt is filled in. Settings: Seedance 2.5, 6 s, 720p, 9:16, sound off. The video prompt",
-      "variant": null,
-      "kind": "video_prompt",
-      "text": "Recreate the reference video [Video 1] shot for shot: the same quinceañera party hall at night with purple, pink and green party lights, white curtains, flower centerpieces, chairs and guests in party clothes, the same handheld phone camera, the same square framing, timing and moves. The ONLY change: the young man with the short dark hair in the black polo shirt who dances toward the camera, bites a sweet bread, stares into the lens with full cheeks and dances away is now the person in [Image 1].\n\nThe party guest = the person in [Image 1], in EVERY shot: copy the exact face from [Image 1] - face shape, eye color and eye shape, eyebrows, nose, mouth, skin tone, age, hair color, hair length and hairstyle, and any beard, moustache, glasses or freckles exactly as in the photo. The party guest wears the clothes from [Image 1]; if [Image 1] shows only the head or the upper body, a plain dark party shirt. The same real person in every frame, from the first second to the last, so their friends instantly recognize them, also in the big close-up while they chew. Never morph, never drift back to the original young man's face. NO black polo shirt with a round logo, NO white STAFF letters, NO sleeve print and NO silver chain unless [Image 1] shows them. If [Image 1] shows an animal, the party guest is that animal standing upright, with its own face, fur and markings and the natural body volume and proportions of that animal: never flattened, squashed, stretched or merged with anything.\n\nThe party guest copies the young man's moves and face second by second:\n0-1.5 s: walks in from the left and dances toward the camera, shoulders swaying to the beat, between the guests.\n1.5-2.5 s: close to the camera, lifts a small round sweet bread to the mouth with one hand.\n2.5-4.5 s: big close-up: takes a big bite and chews with puffed cheeks, eyes wide, staring straight into the lens, dead serious.\n4.5-6 s: still chewing, turns around and dances away into the crowd, back to the camera.\n\nThe other guests stay as they are in the video, small and soft in the background; never put the face from [Image 1] on a guest. Anatomy rules: one head only, on the party guest's shoulders. Two arms and two hands, five fingers on each hand, one sweet bread. No text, no captions, no emojis, no logos, no watermark."
-    },
-    {
       "label": "1. The video prompt is filled in. Settings: h3-recast, 10 s, 720p, 9:16, sound off. The video prompt",
       "variant": "Pet",
       "kind": "video_prompt",
@@ -39,7 +33,7 @@
     "What the BbY WOW Dance video looks like",
     "How to make the BbY WOW Dance video on MakeViral",
     "Which photo works best?",
-    "Garage, Quince or Pet: which one should you make?",
+    "Garage or Pet: which one should you make?",
     "How do I make the BbY WOW dance AI video?",
     "Where does the background of my video come from?",
     "Will the people from the original clips be in my video?",
@@ -47,6 +41,6 @@
     "Other AI video templates and tools",
     "Make your own BbY WOW Dance video"
   ],
-  "prompt_count": 3,
-  "scraped_at": "2026-10-18"
+  "prompt_count": 2,
+  "scraped_at": "2026-10-19"
 }

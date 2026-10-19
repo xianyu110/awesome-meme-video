@@ -31,3 +31,22 @@ The pet looks exactly like its photo in every frame, from the first shot to the 
 Anatomy rules: one head per animal, on its own body. No people, no text, no logos.
 ```
 
+### 2. 1. The video prompt is filled in. Settings: Seedance 2.5, 10 s, 720p, 9:16, sound on. The video prompt (Human)
+
+*Kind: video_prompt*
+
+```text
+A Halloween night clip, photorealistic and cinematic, in deep blue and violet moonlight, vertical 9:16: a phone snaps a witch flying across the full moon, then the reveal shows who is on the broom.
+
+The witch is the person in [Image 1]: copy the exact face from [Image 1] (the face shape, eye color and eye shape, eyebrows, nose, mouth, skin tone, age, hair color, hair length and hairstyle, and any beard, moustache, glasses or freckles), so their friends recognize them at once. The face stays the same from the first frame to the last. Never morph. They wear a tall black pointed witch hat with a wide brim and a flowing black witch outfit with a long cape, not the clothes from [Image 1]; their own hair shows under the hat. If [Image 1] shows an animal, the witch is that animal, with its own face, fur and markings, sitting on the broom.
+
+0-3 s: a wide shot from a rooftop over a big city at night, skyscrapers with lit windows. A huge glowing full moon fills the upper half of the sky, and the small black silhouette of a witch on a broom flies across the face of the moon.
+3-5 s: two hands rise from the bottom of the frame and hold up a phone in a plain black case; its screen shows the moon and the flying silhouette. Only the hands show, no face. The phone takes the picture: a bright white flash and a shutter click.
+5-6 s: the dark silhouette swoops past right in front of the lens in a blur, with a loud whoosh.
+6-10 s, the reveal on the beat: a medium shot from the knees up. The witch sits sideways on a wooden broom with a straw brush, floating in the night sky in front of the huge full moon, light clouds below and the city lights far down. The face is large, sharp and lit by the moon: exactly the face from [Image 1]. A new pose on each beat: they cross the legs and lean back with a hand on the knee, then tip the hat brim with one finger and give a cheeky smile, then wink and point a thin wooden wand at the camera, which gives off a few small sparks.
+
+Audio: a quiet night ambience, a phone shutter click at the flash, a whoosh as the broom flies past, then a playful, bouncy Halloween beat with a short hit on each pose. No singing, no words.
+
+Exactly one witch on one broom. No other people, no other witches. Anatomy: two arms and two legs, and the legs never merge with the broom. No text, no subtitles, no logos, no watermark, no buttons or text on the phone screen.
+```
+

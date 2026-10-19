@@ -3,7 +3,7 @@
 > The smash and grab AI video is a fictional car-window heist: a fixed camera inside a parked car shows an item on the back seat, you walk up, the glass shatters like a movie stunt, and you grab the item and run.
 
 Canonical: https://www.makeviral.ai/templates/smash-and-grab-ai-trend
-Updated: 2026-10-15
+Updated: 2026-10-18
 Published: 2026-10-14
 Author: İrfan Şener (https://www.makeviral.ai/about)
 Publisher: MakeViral (https://www.makeviral.ai)
@@ -11,6 +11,8 @@ Publisher: MakeViral (https://www.makeviral.ai)
 The **smash and grab AI video** is a fictional car-window heist: a fixed camera inside a parked car shows an item on the back seat, you walk up, the glass shatters like a movie stunt, and you grab the item and run. You need a photo of yourself and one of the item, or of your pet and its treats.
 
 Your item sits on the back seat of a parked car. You walk up to the side window, the glass shatters in a movie-stunt moment, you grab it and run down the street. Add a photo of you and a photo of the item. A fictional AI heist, made with your own photo.
+
+Also called: Smash and Grab effect, Car window heist.
 
 **Make it now:** [Make this video](https://www.makeviral.ai/templates/smash-and-grab-ai-trend/create). 2 photos · 10 s · 9:16 with sound · 126 credits, charged once · ready in a few minutes · no prompt to write.
 

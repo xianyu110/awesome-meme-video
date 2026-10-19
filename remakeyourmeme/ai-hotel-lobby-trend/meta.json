@@ -6,32 +6,16 @@
   "url": "https://remakeyourmeme.com/templates/ai-hotel-lobby-trend/",
   "blurb": "Real output from this maker, unedited, made October 10, 2026 with photos of AI-generated sample people. Switch to Original to see the trend clip at the same moment.",
   "photos_in": null,
-  "duration_s": 14,
+  "duration_s": 10,
   "ready_to_make": true,
-  "demo_videos": [
-    "https://cdn.remakeyourmeme.com/templates/hotel-lobby/preview-854.mp4",
-    "https://cdn.remakeyourmeme.com/trends/hotel-lobby/7685941142646541589.mp4",
-    "https://cdn.remakeyourmeme.com/trends/hotel-lobby/7690388554442181921.mp4",
-    "https://cdn.remakeyourmeme.com/trends/hotel-lobby/7692129733860936991.mp4",
-    "https://cdn.remakeyourmeme.com/trends/hotel-lobby/7694802064387460366.mp4",
-    "https://cdn.remakeyourmeme.com/wm/remakeyourmeme/examples/hotel-lobby/preview-854.mp4"
-  ],
+  "demo_videos": [],
   "preview_videos": [],
-  "posters": [
-    "https://cdn.remakeyourmeme.com/examples/hotel-lobby/poster.jpg",
-    "https://cdn.remakeyourmeme.com/examples/hotel-lobby/input-1.jpg",
-    "https://cdn.remakeyourmeme.com/examples/hotel-lobby/input-2.jpg",
-    "https://cdn.remakeyourmeme.com/trends/hotel-lobby/7685941142646541589.webp",
-    "https://cdn.remakeyourmeme.com/trends/hotel-lobby/7694802064387460366.webp",
-    "https://cdn.remakeyourmeme.com/trends/hotel-lobby/7690388554442181921.webp",
-    "https://cdn.remakeyourmeme.com/trends/hotel-lobby/7692129733860936991.webp",
-    "https://cdn.remakeyourmeme.com/templates/hotel-lobby/poster.jpg"
-  ],
+  "posters": [],
   "all_cdn_mp4": [
     "https://cdn.remakeyourmeme.com/templates/baby-doll/video.mp4",
     "https://cdn.remakeyourmeme.com/templates/closed-on-sunday/video.mp4",
+    "https://cdn.remakeyourmeme.com/templates/coldplay-kiss-cam/video.mp4",
     "https://cdn.remakeyourmeme.com/templates/hotel-lobby/preview-854.mp4",
-    "https://cdn.remakeyourmeme.com/templates/hug-in-heaven/video.mp4",
     "https://cdn.remakeyourmeme.com/trends/hotel-lobby/7685941142646541589.mp4",
     "https://cdn.remakeyourmeme.com/trends/hotel-lobby/7690388554442181921.mp4",
     "https://cdn.remakeyourmeme.com/trends/hotel-lobby/7692129733860936991.mp4",
@@ -43,7 +27,7 @@
   "prompt_count": 0,
   "prompts_public": false,
   "note": "Remake Your Meme does not publish copyable prompt text on public template pages (one-tap remake). Inventory keeps demos, posters, and metadata only.",
-  "scraped_at": "2026-10-18",
+  "scraped_at": "2026-10-19",
   "published": null,
   "updated": null
 }

@@ -3,7 +3,7 @@
 > The pumpkin head photoshoot is the October photo where your head is a carved jack-o'-lantern, usually in a field or a pumpkin patch; people also call the pictures pumpkin head photos.
 
 Canonical: https://www.makeviral.ai/templates/ai-pumpkin-head-photoshoot
-Updated: 2026-10-15
+Updated: 2026-10-18
 Published: 2026-10-09
 Author: İrfan Şener (https://www.makeviral.ai/about)
 Publisher: MakeViral (https://www.makeviral.ai)
