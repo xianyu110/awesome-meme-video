@@ -21,15 +21,7 @@ Two photos in: your other half has turned, you drop the gun, and the charge ends
 
 ## Prompts
 
-### 1. Zombie couple video â the golden field — zombie-couple-hug-golden-field
-
-*Kind: video_prompt*
-
-```text
-Two reference photos, one person each; keep both faces, hair and build exactly as photographed and never swap them. Shot 1: inside a dusty wooden farmhouse with bright windows, close-up of the person from the FIRST photo in a dark green hoodie, crying, aiming a pistol at the camera. Shot 2: over their shoulder, the person from the SECOND photo has turned into a zombie (grey rotting skin, clouded eyes, a torn bloodstained cotton dress) and walks slowly toward them. Shot 3: close-up of the zombie's face, then of the first person sobbing. Shot 4: the first person lowers the pistol and opens both arms wide; the zombie runs into them. Shot 5: hard cut to a golden field at sunset: the two of them, healthy, hugging and spinning, laughing face to face in the grass, then walking away hand in hand toward the hills and holding each other as the sun goes down. Cinematic, warm golden light in the memory, emotional piano score, no dialogue. No gunshot, no gore, no other people, no text, no logos, no watermark. Wide 16:9.
-```
-
-### 2. Zombie couple video â noodles for two — zombie-couple-noodle-table
+### 1. Zombie couple video â noodles for two — zombie-couple-noodle-table
 
 *Kind: video_prompt*
 

@@ -1,0 +1,47 @@
+# My Ride Is Here Broom Trend
+
+- Source: [kavel](https://www.kavel.ai/video/my-ride-is-here-broom-trend)
+- Slug: `my-ride-is-here-broom-trend`
+- Listing: https://www.kavel.ai/ai-video-trends
+
+One photo in: you float past the car window on a broom at the red light, wave, and fly off on the green.
+
+## Demo videos (CDN)
+
+- https://cdn.kavel.ai/videos/kavel-showcase/my-ride-broom-teacher.mp4
+- https://cdn.kavel.ai/videos/kavel-showcase/my-ride-broom-field.mp4
+- https://cdn.kavel.ai/videos/kavel-showcase/my-ride-broom-friends.mp4
+
+## Posters
+
+- https://cdn.kavel.ai/posters/kavel-showcase/my-ride-broom-teacher-poster.webp
+- https://cdn.kavel.ai/posters/kavel-showcase/my-ride-broom-teacher-poster-thumb-240.webp
+- https://cdn.kavel.ai/posters/kavel-showcase/my-ride-broom-field-poster.webp
+- https://cdn.kavel.ai/posters/kavel-showcase/my-ride-broom-friends-poster.webp
+
+## Prompts
+
+### 1. Template prompt
+
+*Kind: video_prompt*
+
+```text
+Use the photo as the main character and keep them exactly as photographed: same face, hair, skin tone and outfit (if it's a pet, the same fur, markings and eyes). One continuous handheld phone shot filmed from the passenger seat of a car stopped at a red light on a suburban street in autumn, through the open side window, the car's side mirror in the lower left corner, vertical 9:16. (1) They float slowly into frame sitting sideways on an old wooden witch's broom with a straw end, about one metre above the painted crosswalk, legs dangling, bobbing gently in the air. (2) Level with the car they turn to the window and wave, as if this is just their ride home. (3) The light turns green, they grip the handle, lean forward and the broom shoots up and away over the rooftops, a few autumn leaves swirling behind. Audio: street ambience, a car indicator ticking, a soft whoosh on take-off, a playful original spooky tune. No text, no captions, no logos, no watermark.
+```
+
+### 2. My Ride Is Here broom trend â the deadpan commute — my-ride-broom-field
+
+*Kind: video_prompt*
+
+```text
+Use the photo as the main character and keep the person exactly as photographed: same face, hair, skin tone and outfit. One continuous handheld phone shot filmed from the driver's seat of a car stopped at a red light, through the side window, the side mirror in the lower left corner, vertical 9:16, overcast sky and autumn trees behind. (1) They hover on an old wooden witch's broom about one metre above the crosswalk, legs tucked up, both hands on the handle, waiting at the light like a motorbike rider. (2) They turn their head slowly and give the car a dead-serious nod. (3) The light turns green, they lean forward and the broom zooms off across the intersection and climbs over the rooftops, bristles trailing. Audio: idling engines, distant traffic, a deep whoosh on take-off, a short original spooky organ sting. No text, no captions, no logos, no watermark.
+```
+
+### 3. My Ride Is Here broom trend â three friends, one broom — my-ride-broom-friends
+
+*Kind: video_prompt*
+
+```text
+Use the photo: everyone in it rides together and keeps their faces, hair, skin tones and outfits exactly as photographed. Rolling golden grassland at sunset, wildflowers in the foreground, the sun low on the horizon, vertical 9:16, handheld phone feel. (1) They climb onto one old wooden witch's broom one behind the other, the front rider gripping the handle, and the broom lifts off the dry grass in a puff of dust. (2) The broom skims low over the hills toward the camera, hair blowing, everyone laughing and holding on to the person in front. (3) It swoops past the lens through the wildflowers as petals fly up around them. Audio: wind rushing, laughter and screams of joy, a light original whimsical tune. No text, no captions, no logos, no watermark.
+```
+

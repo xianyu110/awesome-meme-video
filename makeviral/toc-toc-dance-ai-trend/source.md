@@ -16,7 +16,7 @@ Also called: Jean Phil dance, Toc Toc Toc dance, Jean Philanthrope dance.
 
 **Make it now:** [Make this video](https://www.makeviral.ai/templates/toc-toc-dance-ai-trend/create). 1 photo · 10 s · 9:16 with sound · 40 credits, charged once · ready in a few minutes · no prompt to write.
 
-Keyword: toc toc dance. Also answers: toc toc trend, toc toc dance ai, toc toc dance trend, toc toc dance tiktok, toc toc ai dance, toc toc dance video, jean phil toc toc, toc toc dance capcut template, toc toc song dance, toc toc ai trend, jean phil dance ai, jean phil dance trend, how to do the toc toc dance, toc toc dance with friend, toc toc dance cat, toc toc dance dog, toc toc ai video generator, toc toc dance prompt, toco toco dance, toc dance.
+Keyword: toc toc dance. Also answers: toc toc trend, toc toc dance ai, toc toc dance trend, toc toc dance tiktok, toc toc ai dance, toc toc dance video, jean phil toc toc, toc toc dance capcut template, toc toc song dance, toc toc ai trend, jean philanthrope toc toc, jean phil dance toc toc, jean phil toc toc dance, toc toc ai dance trend, toc toc ai meme, toc toc jean phil, jean phil dance ai, jean phil dance trend, how to do the toc toc dance, toc toc dance with friend, toc toc dance cat, toc toc dance dog, toc toc ai video generator, toc toc dance prompt, toco toco dance, toc dance.
 
 ## What is the Toc Toc Dance trend, and where did it start?
 

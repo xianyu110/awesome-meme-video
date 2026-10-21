@@ -8,10 +8,12 @@ The AI airport celebrity video turns you into a star walking out of airport arri
 ## Demo videos (CDN)
 
 - https://www.makeviral.ai/media/templates/ai-airport-star-arrival/original-airport-v2.mp4
+- https://www.makeviral.ai/media/templates/ai-airport-star-arrival/original-hotel-v2.mp4
 
 ## Posters
 
 - https://www.makeviral.ai/media/templates/ai-airport-star-arrival/original-airport-v1.jpg
+- https://www.makeviral.ai/media/templates/ai-airport-star-arrival/original-hotel-v1.jpg
 
 ## Prompts
 
@@ -45,5 +47,37 @@ Use the uploaded image as the base. use same face, same fur, same markings, same
 
 ```text
 Style: Ultra realistic mass celebrity entry scene. Single continuous shot. Handheld camera from crowd perspective. Natural micro-shake. No cuts. Documentary realism. Audio: Only natural environment sound: loud crowd cheering, people shouting, rapid camera shutter clicks, airport announcements echoing, footsteps, distant engine idle and rev. Lighting: Natural daylight through airport glass panels. Main Character: the celebrity is the pet in the image, with the same species, breed, face, fur colors, markings and small black sunglasses in every frame, walking on all four paws. Calm, confident presence. Face must remain consistent throughout. SCENE. 0–3s: Handheld camera starts from inside the crowd behind barricades. People partially block the view. Phones raised high. Crowd loud and restless. 3–6s: Camera lifts slightly above shoulder level, shaky but controlled. Focus shifts between heads, waving hands, glimpses of the arrival gate. Media cameras flash repeatedly. 6–10s: Security suddenly steps in, pushing the crowd slightly back. Through the gaps, the celebrity pet becomes visible in the distance, slightly blurred at first, then gradually clearer as it trots forward gracefully with bodyguards flanking both sides. 10–13s: Camera zooms slightly (natural handheld push-in feel). The pet now clearly visible, walking confidently in center. Security clears the path. Suddenly from the left side of the barricade, a fan screams: "Please, one photo!!" The pet turns its head toward the voice, looks at the fan and wags its tail. Crowd erupts louder. 13–15s: Camera tilts and shifts trying to follow as it reaches the convoy. Partial view of a black luxury car. Bodyguard opens the door. The pet hops in gracefully but quickly. Engine revs. Vehicles begin moving. No music. Exactly one animal. No text, no logos, no readable signs, no airline or airport names, no car badges.
+```
+
+### 5. 1. Open [AI Photo with this template](https://www.makeviral.ai/photo?template=ai-airport-star-arrival&variant=hotel) and add your photo (your photo). The photo prompt is filled in
+
+*Kind: photo_prompt*
+
+```text
+Use the uploaded image as the base. use same face, same hairstyle, same identity, realistic face match ultra realistic cinematic night arrival scene at the entrance of a grand five-star hotel, the person from the image stepping out of the open rear door of a long black luxury car onto a red carpet, one foot on the carpet, face turned toward the camera, wearing the same outfit as in the uploaded image, confident expression, celebrity attitude, two bodyguards in black suits beside the car, one holding the door open, serious faces, fans and photographers behind velvet ropes on both sides recording videos with phones, paparazzi, camera flashes, warm golden light from the hotel's glass doors, wet reflections on the stone driveway, main subject in sharp focus, shallow depth of field, background slightly blurred, cinematic lighting, HDR, 8K ultra detailed, professional photography, dramatic entrance, high status vibe, viral reel style, social media trending look. Vertical 9:16. No text, no logos, no brand prints on the clothes, no readable signs, no hotel name, no car badges or emblems.
+```
+
+### 6. 3. Press the film button on the still to open AI Video with the still as the first frame. Settings: Kling 3.0, 15 s, 1080p, 9:16, sound on. The video prompt
+
+*Kind: video_prompt*
+
+```text
+Style: Ultra realistic celebrity hotel arrival scene at night. Single continuous shot. Handheld camera from crowd perspective. Natural micro-shake. No cuts. Documentary realism. Audio: Only natural environment sound: loud crowd cheering, people shouting, rapid camera shutter clicks, a car door opening and closing, footsteps, a soft engine idle. Lighting: Night. Warm golden light from the hotel entrance, bright camera flashes, wet reflections on the driveway. Main Character: the celebrity is the person in the image, with the same face, hair, skin tone and outfit in every frame. Calm, confident presence with a soft controlled expression. Face must remain consistent throughout. SCENE. 0-3s: Handheld camera starts from inside the crowd behind the velvet rope. Phones raised high. A long black luxury car stands at the red carpet, a bodyguard holds its rear door open. Media cameras flash repeatedly. 3-6s: The celebrity steps out of the car onto the red carpet and stands tall. A second bodyguard steps in on the other side. The bodyguard closes the door. Flashes burst from both sides. 6-10s: The celebrity walks forward gracefully down the red carpet with bodyguards flanking both sides, past the photographers and the fans behind the rope. Security clears the path. 10-13s: Camera zooms slightly (natural handheld push-in feel). Celebrity now clearly visible, walking confidently in center. Suddenly from the left side of the rope, a fan screams: "Please, one photo!!" Celebrity turns slightly toward the voice, locks eyes with the fan, gives a warm genuine smile and a small acknowledging wave. Crowd erupts louder. 13-15s: Camera tilts and shifts trying to follow as they reach the glass doors of the hotel. A doorman opens the door. Celebrity walks in gracefully but quickly. Flashes keep firing. No music. No text, no logos, no readable signs, no hotel name, no car badges or emblems.
+```
+
+### 7. 1. Open [AI Photo with this template](https://www.makeviral.ai/photo?template=ai-airport-star-arrival&variant=hotel-pet) and add your photo (your pet, whole body). The photo prompt is filled in (Pet)
+
+*Kind: photo_prompt*
+
+```text
+Use the uploaded image as the base. use same face, same fur, same markings, same identity, realistic match of the animal. Keep the animal's species, breed, body size, fur colors and markings exactly as in the photo. Ultra realistic cinematic night arrival scene at the entrance of a grand five-star hotel, the pet from the image hopping out of the open rear door of a long black luxury car onto a red carpet on all four paws, wearing small black sunglasses, confident expression, celebrity attitude, two bodyguards in black suits beside the car, one holding the door open, serious faces, fans and photographers behind velvet ropes on both sides recording videos with phones, paparazzi, camera flashes, warm golden light from the hotel's glass doors, low camera at the pet's eye level so the pet is big in the frame, main subject in sharp focus, shallow depth of field, background slightly blurred, cinematic lighting, HDR, 8K ultra detailed, professional photography, dramatic entrance, high status vibe, viral reel style, social media trending look. Vertical 9:16. Exactly one animal. No clothes on the pet, no text, no logos, no readable signs, no hotel name, no car badges or emblems.
+```
+
+### 8. 3. Press the film button on the still to open AI Video with the still as the first frame. Settings: Kling 3.0, 15 s, 1080p, 9:16, sound on. The video prompt
+
+*Kind: video_prompt*
+
+```text
+Style: Ultra realistic celebrity hotel arrival scene at night. Single continuous shot. Handheld camera from crowd perspective. Natural micro-shake. No cuts. Documentary realism. Audio: Only natural environment sound: loud crowd cheering, people shouting, rapid camera shutter clicks, a car door opening and closing, footsteps, a soft engine idle. Lighting: Night. Warm golden light from the hotel entrance, bright camera flashes, wet reflections on the driveway. Main Character: the celebrity is the pet in the image, with the same species, breed, face, fur colors, markings and small black sunglasses in every frame, walking on all four paws. Calm, confident presence. Face must remain consistent throughout. SCENE. 0-3s: Handheld camera starts from inside the crowd behind the velvet rope. Phones raised high. A long black luxury car stands at the red carpet, a bodyguard holds its rear door open. Media cameras flash repeatedly. 3-6s: The pet hops out of the car onto the red carpet and looks around proudly. A second bodyguard steps in on the other side. The bodyguard closes the door. Flashes burst from both sides. 6-10s: The celebrity pet trots forward gracefully down the red carpet with bodyguards flanking both sides, past the photographers and the fans behind the rope. Security clears the path. 10-13s: Camera zooms slightly (natural handheld push-in feel). The pet now clearly visible, walking confidently in center. Suddenly from the left side of the rope, a fan screams: "Please, one photo!!" The pet turns its head toward the voice, looks at the fan and wags its tail. Crowd erupts louder. 13-15s: Camera tilts and shifts trying to follow as it reaches the glass doors of the hotel. A doorman opens the door. The pet trots in gracefully but quickly. Flashes keep firing. No music. Exactly one animal. No text, no logos, no readable signs, no hotel name, no car badges or emblems.
 ```
 

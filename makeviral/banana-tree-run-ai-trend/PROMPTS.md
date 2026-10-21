@@ -1,0 +1,59 @@
+# AI Running on Banana Trees: Leap Across Giant Banana Leaves
+
+- Source: [makeviral](https://www.makeviral.ai/templates/banana-tree-run-ai-trend)
+- Slug: `banana-tree-run-ai-trend`
+
+AI running on banana trees is the October 2026 trend where you run and jump across the tops of giant banana plants, leaf to leaf, like a parkour run through a plantation.
+
+## Demo videos (CDN)
+
+- https://www.makeviral.ai/media/templates/banana-tree-run-ai-trend/original-main-v2.mp4
+
+## Posters
+
+- https://www.makeviral.ai/media/templates/banana-tree-run-ai-trend/original-main-v1.jpg
+
+## Prompts
+
+### 1. 1. The video prompt is filled in. Settings: Seedance 2.5, 10 s, 720p, 9:16, sound off. The video prompt
+
+*Kind: video_prompt*
+
+```text
+Recreate the reference video [Video 1] shot for shot: the same huge banana plantation on a steep green hillside with red dirt paths between the rows, tall banana plants with giant green leaves everywhere, the same soft, overcast daylight and natural colors, the same single continuous take with the camera running alongside at the height of the leaf tops, the same timing and moves. The ONLY change: the young man in the dark sleeveless jersey and the light-blue jeans who runs across the tops of the banana plants is now the person in [Image 1].
+
+The runner = the person in [Image 1], in EVERY frame: copy the exact face from [Image 1]: face shape, eye color and eye shape, eyebrows, nose, mouth, skin tone, age, hair color, hair length and hairstyle, and any beard, moustache, glasses or freckles exactly as in the photo. The face stays clear and recognizable in the side views, so their friends recognize them at once. The same real person from the first frame to the last; never morph, never drift back to the original young man's face. The runner wears the clothes and shoes from [Image 1] (if [Image 1] shows only the upper body, plain trousers and sneakers that go with that top): NO purple-and-yellow sleeveless jersey, NO number on the back, NO light-blue jeans and NO sandals unless [Image 1] shows them. If [Image 1] shows an animal, the runner is that animal, bounding on four legs across the same leaves, with its own face, fur and markings.
+
+THE RUN, at the same times as [Video 1]:
+0.0-2.5 s: a side view from a few steps away: the runner sprints to the right along the tops of the tall banana plants and pushes off a broad, flat leaf.
+2.5-5.0 s: long leaps from the top of one plant to the next, arms pumping, landing on the big leaves, which bend a little and spring back.
+5.0-7.0 s: a high leap, knees up, between two tall plants, over a red dirt path far below.
+7.0-8.5 s: the camera swings behind the runner for a moment as they land on a leaf and keep going.
+8.5-10.0 s: a side view again: the runner keeps running across the leaf tops, light and fast.
+
+Every landing is light and sure: never a slip, a stumble, a fall, a torn leaf or an injury. The feet always land on leaves, never in the air. A fun, effortless run.
+
+Anatomy rules: one head only, on the runner's shoulders. Two arms and two legs. Exactly one person in the video. No text, no captions, no logos, no watermark.
+```
+
+### 2. 1. Open [AI Photo with this template](https://www.makeviral.ai/photo?template=banana-tree-run-ai-trend&variant=pet) and add your photo (your pet, whole body). The photo prompt is filled in (Pet)
+
+*Kind: photo_prompt*
+
+```text
+Use the uploaded image as the base. 9:16 vertical photo, like a real phone photo taken from the side at the height of the tops of tall banana plants. The pet from the uploaded image stands on all four paws on top of a broad, flat green leaf of a tall banana plant, high above the ground, in a huge banana plantation on a steep green hillside with red dirt paths far below, in soft, overcast daylight. It faces to the right, turned three-quarters toward the camera, ears up, alert and happy, ready to jump to the next plant. Its whole body is in view, from the ears to the tail. Rows of tall banana plants with giant green leaves all around and behind. Realistic photo with natural colors. Exactly one animal and no people. No clothes on the pet. No text, no logos, no watermark.
+```
+
+### 3. 3. Press the film button on the still to open AI Video with the still as the first frame. Settings: Kling 3.0, 10 s, 1080p, 9:16, sound on. The video prompt
+
+*Kind: video_prompt*
+
+```text
+One continuous shot with no cuts, like a real phone video: the camera moves along at the height of the leaf tops and follows the pet from the side. Keep the animal's face, fur, markings, tail and size, and the banana plantation on the hillside, exactly as in the image.
+0-2 s: the pet crouches on the big leaf, wags its tail, then springs off.
+2-6 s: it bounds to the right from the top of one banana plant to the next, on four legs, landing lightly on the broad leaves with all four paws, ears flapping, tail up; the leaves bend a little and spring back.
+6-8 s: a long, happy leap over a red dirt path between two tall plants and a soft landing on a big leaf.
+8-10 s: it bounds on along the leaf tops, then stops on a leaf, turns its head to the camera and pants happily. The pet has the same fur colors and markings from every side.
+Audio: rustling leaves, soft thumps of paws on the leaves, light wind and birds. No music, no voices. Exactly one animal and no people. It always runs on four legs, never upright like a person. Every landing is light and sure: never a slip, a fall or an injury. No extra legs, no morphing. No text, no subtitles, no logos, no watermark.
+```
+

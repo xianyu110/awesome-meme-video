@@ -7,10 +7,12 @@
 
 ## Demo videos (CDN)
 
+- https://www.makeviral.ai/media/templates/hali-saha-konum-gonderin-ai-trend/original-dribble-v2.mp4
 - https://www.makeviral.ai/media/templates/hali-saha-konum-gonderin-ai-trend/original-trend-v2.mp4
 
 ## Posters
 
+- https://www.makeviral.ai/media/templates/hali-saha-konum-gonderin-ai-trend/original-dribble-v1.jpg
 - https://www.makeviral.ai/media/templates/hali-saha-konum-gonderin-ai-trend/original-trend-v1.jpg
 
 ## Prompts
@@ -36,5 +38,27 @@ The place: a small outdoor five-a-side football pitch at night: bright green art
 Audio: the captain speaks clear, natural Turkish in their own voice, the mouth moving in sync with every word; one player says only "Orası neresi?"; real laughter of the players, the hum of the floodlights, distant city sounds. No music, no commentary, no other words.
 
 Exactly six people: the captain and five players. No club or national team kits, no crests, no sponsor names, no famous athlete or celebrity: the players are generic adults. One head, two arms and five fingers on each hand. No text, no captions, no subtitles, no logos, no watermark.
+```
+
+### 2. 1. The video prompt is filled in. Settings: Seedance 2.5, 15 s, 720p, 9:16, sound on. The video prompt
+
+*Kind: video_prompt*
+
+```text
+A funny Turkish five-a-side football clip, like a real phone video filmed by a friend at the pitch at night: handheld, vertical 9:16, photorealistic, natural floodlight colors.
+
+The captain is the person in [Image 1], in every shot: copy the exact face from [Image 1] (the face shape, eye color and eye shape, eyebrows, nose, mouth, skin tone, age, hair color, hair length and hairstyle, and any beard, moustache, glasses or freckles), the same build, and the clothes from [Image 1]: their own everyday clothes, never a football kit. The person is an adult. The same person from the first frame to the last, so their friends recognize them at once, also in the close-ups. Never morph. If [Image 1] shows an animal, the captain is that animal standing upright on its hind legs, with its own face, fur and markings, and it talks.
+
+The place: a small outdoor five-a-side football pitch at night: bright green artificial turf with white lines, tall floodlights on poles, a high green net fence all around, a small goal with a white net, and plain apartment blocks with lit windows behind the fence. The captain's team wears plain matching coral-red jerseys and black shorts, the other team plain white jerseys and black shorts, with no logos, no badges, no names and no numbers.
+
+0-5 s, a close shot of the captain from the chest up, the face large and sharp, exactly the face from [Image 1], players warming up behind: the captain looks straight into the camera, raises one open hand and says politely but dead serious in Turkish: "Ay lütfen şu topa şöyle vurmayın, yani rica ediyorum. Benim bir yerime gelirse topunuzu keserim."
+5-8 s, a wide handheld shot of the match: the captain runs with the ball in a panic, waving the arms: "Nereye gideceğim? Buraya, buraya!" A teammate in coral-red shouts: "Koş, koş, koş!"
+8-11 s: a player in a white jersey runs at the captain for the ball; the captain shrieks and jumps aside, and the player trips over the ball and tumbles onto the soft turf in a comic slapstick fall. No contact, no kick, no blood.
+11-13 s: the captain points at the player on the ground, half shocked, half delighted: "Ya ne yapıyorsun? Allah belanı vermesin senin!"
+13-15 s, a cut to a close shot of the captain from the chest up, the face large and sharp: hands on the cheeks, the captain shouts "Sakatlandı!" and then cheers with both fists up. Behind, the fallen player sits up, fine, and the others laugh.
+
+Audio: the captain speaks clear, natural Turkish in their own voice, the mouth moving in sync with every word; one teammate says only "Koş, koş, koş!"; the thud of the ball, running feet, real laughter of the players, the hum of the floodlights. No music, no commentary, no other words.
+
+At most ten players on the pitch, all generic adults: no club or national team kits, no crests, no sponsor names, no famous athlete or celebrity. One head, two arms and five fingers on each hand. No text, no captions, no subtitles, no logos, no watermark.
 ```
 

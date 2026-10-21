@@ -8,8 +8,8 @@
   "blurb": "One photo of your truck in: tiny workers wash its toy-size copy from mud to shine.",
   "published": null,
   "updated": null,
-  "scraped_at": "2026-10-19",
-  "listing_index": 9,
+  "scraped_at": "2026-10-21",
+  "listing_index": 23,
   "this_week_rank": null,
   "demo_videos": [
     "https://cdn.kavel.ai/videos/kavel-showcase/lego-truck-wash-pickup.mp4",
@@ -26,5 +26,5 @@
   "prompt_count": 0,
   "prompts_public": false,
   "note": "No public prompt text found on Kavel page payload; demos/posters only — prompts not invented.",
-  "showcase_count": 3
+  "showcase_count": 2
 }

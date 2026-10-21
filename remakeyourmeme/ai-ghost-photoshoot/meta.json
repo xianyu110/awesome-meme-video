@@ -4,7 +4,7 @@
   "slug": "ai-ghost-photoshoot",
   "name": "AI ghost photoshoot",
   "url": "https://remakeyourmeme.com/templates/ai-ghost-photoshoot/",
-  "blurb": "The person in this photo agreed to be in this photo, and is not a public figure or a minor.",
+  "blurb": "the person in this photo agreed to be in this photo, and is not a public figure or a minor.",
   "photos_in": null,
   "duration_s": null,
   "ready_to_make": true,
@@ -40,7 +40,7 @@
   "prompt_count": 0,
   "prompts_public": false,
   "note": "Remake Your Meme does not publish copyable prompt text on public template pages (one-tap remake). Inventory keeps demos, posters, and metadata only.",
-  "scraped_at": "2026-10-19",
+  "scraped_at": "2026-10-21",
   "published": null,
   "updated": null
 }

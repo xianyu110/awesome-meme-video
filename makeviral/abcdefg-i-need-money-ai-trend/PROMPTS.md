@@ -1,0 +1,59 @@
+# ABCDEFG I Need Money AI Trend: Your Pet (or You) Sings the Money Line
+
+- Source: [makeviral](https://www.makeviral.ai/templates/abcdefg-i-need-money-ai-trend)
+- Slug: `abcdefg-i-need-money-ai-trend`
+
+The ABCDEFG I need money trend is a TikTok meme line: "A, B, C, D, E, F, G...
+
+## Demo videos (CDN)
+
+- https://www.makeviral.ai/media/templates/abcdefg-i-need-money-ai-trend/original-reel-v2.mp4
+
+## Posters
+
+- https://www.makeviral.ai/media/templates/abcdefg-i-need-money-ai-trend/original-reel-v1.jpg
+
+## Prompts
+
+### 1. 1. The video prompt is filled in. Settings: Seedance 2.5, 10 s, 720p, 9:16, sound on. The video prompt (Pet)
+
+*Kind: video_prompt*
+
+```text
+A funny phone video in one continuous shot with no cuts: vertical 9:16, photorealistic, filmed handheld at eye level about one meter away, so the face stays large and sharp.
+
+The singer is the pet in [Image 1], in every frame: the same species and breed, face, eyes, ears, muzzle, fur colors, fur length and markings as in [Image 1], with the natural body volume and proportions of that animal: never flattened, squashed, stretched or merged with anything. Its owner recognizes it at once. It sits upright on the sofa facing the camera, seen from the chest up with both front paws in view. No clothes on the pet. Only its mouth and face move like a singer; it keeps its own animal face, teeth and tongue.
+
+The place: a cozy living room in soft evening lamp light, a cream sofa with a few cushions, a plain wall and a houseplant out of focus behind.
+
+The take, second by second:
+0-1 s: the pet looks straight into the lens with the eyebrows up, like a singer about to start.
+1-5 s: the pet sings the letters on a bouncy beat, one letter per beat, the mouth opening on each one, a small head bob and the eyebrows going up on every letter: "A... B... C... D... E... F... G..."
+5-6 s: the pet stops dead. Silence. A blank, dead-serious stare into the lens.
+6-9 s: the pet leans in close to the lens with a straight face and says slowly, spelling it out: "I need M... O... N... E... Y... on me." While spelling it, it lifts one front paw next to its face and rubs the toes together, the "pay me" money gesture.
+9-10 s: the pet holds the deadpan stare, one eyebrow raised, and keeps the gesture going.
+
+The mouth moves in sync with every letter and every word. Audio: one original, deadpan sung voice with a playful rhythm, only these English words, a soft finger-snap beat under the letters and no beat during the stop. It is a new voice, not an impression of any singer or famous person. Exactly one animal and no people. No human hands, no human mouth, no human body parts on the pet, one head, one tail. No cash or bills in the frame. No hat, no sunglasses, no glove, no costume. No text, no captions, no subtitles, no logos, no watermark.
+```
+
+### 2. 1. The video prompt is filled in. Settings: Seedance 2.5, 10 s, 720p, 9:16, sound on. The video prompt
+
+*Kind: video_prompt*
+
+```text
+A funny selfie-style phone video in one continuous shot with no cuts: vertical 9:16, photorealistic, filmed on the front camera held at arm's length, the face and shoulders large in the frame.
+
+The singer is the person in [Image 1], in every frame: copy the exact face from [Image 1] (the face shape, eye color and eye shape, eyebrows, nose, mouth, skin tone, age, hair color, hair length and hairstyle, and any beard, moustache, glasses or freckles) and the clothes from [Image 1], so their friends recognize them at once. The face stays the same from the first frame to the last, also when it comes close to the lens. Never morph. If [Image 1] shows an animal, the singer is that animal sitting upright, with its own face, fur and markings, not a person.
+
+The place: a cozy living room in soft evening lamp light, a cream sofa with a few cushions, a plain wall and a houseplant out of focus behind.
+
+The take, second by second:
+0-1 s: the person looks straight into the lens with the eyebrows up, like a singer about to start.
+1-5 s: the person sings the letters on a bouncy beat, one letter per beat, the mouth opening on each one, a small head bob and the eyebrows going up on every letter: "A... B... C... D... E... F... G..."
+5-6 s: the person stops dead. Silence. A blank, dead-serious stare into the lens.
+6-9 s: the person leans in close to the lens with a straight face and says slowly, spelling it out: "I need M... O... N... E... Y... on me." While spelling it, one hand comes up next to the face and the thumb rubs the fingertips, the money gesture.
+9-10 s: the person holds the deadpan stare, one eyebrow raised, and keeps the gesture going.
+
+The mouth moves in sync with every letter and every word. Audio: one original, deadpan sung voice with a playful rhythm, only these English words, a soft finger-snap beat under the letters and no beat during the stop. It is a new voice, not an impression of any singer or famous person. Exactly one person, no other people. Five fingers on each hand. No cash or bills in the frame. No hat, no sunglasses, no glove and no costume unless [Image 1] shows them. No text, no captions, no subtitles, no logos, no watermark.
+```
+

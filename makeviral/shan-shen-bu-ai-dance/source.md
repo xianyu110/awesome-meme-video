@@ -3,7 +3,7 @@
 > Shan shen bu (闪身步, also written 閃身步 or shanshenbu) is the "flash step": a sudden sideways dodge from a Chinese folk dance teaching video that became the meme of autumn 2026.
 
 Canonical: https://www.makeviral.ai/templates/shan-shen-bu-ai-dance
-Updated: 2026-10-17
+Updated: 2026-10-21
 Published: 2026-10-17
 Author: İrfan Şener (https://www.makeviral.ai/about)
 Publisher: MakeViral (https://www.makeviral.ai)
@@ -16,7 +16,7 @@ Also called: Flash step, Dodge step, Body-dodging step.
 
 **Make it now:** [Make this video](https://www.makeviral.ai/templates/shan-shen-bu-ai-dance/create). 1 photo · 13 s · 9:16 with sound · 52 credits, charged once · ready in a few minutes · no prompt to write.
 
-Keyword: shan shen bu. Also answers: shanshenbu, 閃身步, 闪身步, shan shen bu dance, shan shen bu ai, shan shen bu meme, ai cat dance, flash step dance, chinese flash step, chinese dodge dance, chinese dance meme, ai dance video, ai dancing cat, shanshenbu dance, shanshenbu ai, shanshenbu meme, shan shen bu trend, shan shen bu tiktok, shan shen bu original, shan shen bu tutorial, shan shen bu meaning, shan shen bu cat, shanshenbu cat, ai dance trend, flash step meme, flash step trend, flash step ai, chinese flash step dance, chinese flash dance, dodge step dance, chinese dodge step, chinese dodge meme, chinese dodging dance, chinese dodge dance original, feint step, huagudeng, flower drum lantern dance, beijing dance academy, prodigal son kicks the ball, bear shivering fur dance, make my cat dance, sha shen bu, shanshen bu, shan shen bu capcut, shan shen bu template.
+Keyword: shan shen bu. Also answers: shanshenbu, 閃身步, 闪身步, shan shen bu meme, shan shen bu meaning, shanshen bu, shan shen bu original video, shan shen bu dance, shan shen bu ai, ai cat dance, shan shen bu in chinese, shan shenbu, shan shen bu original, what is shan shen bu, flash step dance, chinese flash step, chinese dodge dance, chinese dance meme, ai dance video, ai dancing cat, shanshenbu dance, shanshenbu ai, shanshenbu meme, shan shen bu trend, shan shen bu tiktok, shan shen bu tutorial, shan shen bu cat, shanshenbu cat, ai dance trend, flash step meme, flash step trend, flash step ai, chinese flash step dance, chinese flash dance, dodge step dance, chinese dodge step, chinese dodge meme, chinese dodging dance, chinese dodge dance original, feint step, huagudeng, flower drum lantern dance, beijing dance academy, prodigal son kicks the ball, bear shivering fur dance, make my cat dance, sha shen bu, shan shen bu capcut, shan shen bu template.
 
 ## What is the Shan Shen Bu Dance trend, and where did it start?
 
@@ -33,7 +33,7 @@ Then the flash step dance went worldwide. On 29 September @._su05 turned the mov
 - **2026-09-29**: The first AI version goes viral: the teacher becomes a delivery rider on a scooter, then a car does the flash step (6.1 million views). Source: [TikTok](https://www.tiktok.com/@alanliu7890321/video/7691087435165437191).
 - **2026-10-03**: An AI shrimp does the flash step and the ball kick in the blue teaching studio: 2.1 million views, the first example on this page. Source: [TikTok](https://www.tiktok.com/@wangxiaohu70/video/7692280767124213012).
 - **2026-10-05**: The French comedy account @abregefrere posts a kung fu skit built on the moves: 5.5 million views by 17 October. Source: [TikTok](https://www.tiktok.com/@abregefrere/video/7693165826433617185).
-- **2026-10-17**: #闪身步 has 2,100 TikTok videos and 169.6 million views; #shanshenbu has 10 million views and grows by about 30 videos a day.
+- **2026-10-17**: #闪身步 has 2,100 TikTok videos and 169.6 million views; #shanshenbu has 10 million views and grows by about 30 videos a day. Source: [TikTok #闪身步](https://www.tiktok.com/tag/%E9%97%AA%E8%BA%AB%E6%AD%A5).
 
 ## What the Shan Shen Bu Dance video looks like
 
@@ -175,6 +175,10 @@ More meme dances: the [Gas Station dance](https://www.makeviral.ai/templates/gas
 
 Shan Shen Bu (闪身步, shanshenbu) is the "flash step", a sudden sideways dodge from Anhui Huagudeng folk dance. An old Beijing Dance Academy teaching video of it went viral in late September 2026, and the Shan Shen Bu dance became a meme: people use it to dodge brooms, bosses and chores, and AI makes animals do it.
 
+### How do you write Shan Shen Bu in Chinese?
+
+In simplified Chinese, used in mainland China, it is 闪身步. Taiwan and Hong Kong write it 閃身步, in traditional characters. The pinyin is shǎn shēn bù, which people also type as shan shenbu. Character by character it reads "dodge, body, step".
+
 ### How do I make a Shan Shen Bu AI video of myself?
 
 Press "Create your own", pick Human and add one full-body photo. Kling 3.0 Motion Control copies the flash step, the ball kick, the shiver and the head wobble from a viral solo take and plays them with you in your own place, with the sound. You need no Shan Shen Bu CapCut template and no dance class.
@@ -187,9 +191,9 @@ Yes. Pick Pet and add one clear photo of your cat or dog. Seedance 2.5 puts your
 
 It can be. On 1 October 2026 CCTV reported people with knee ligament injuries after copying the step without training: the move needs strong core and leg control. Warm up if you try it yourself, or let the AI do the flash step for you.
 
-### Where does the Shan Shen Bu original come from?
+### Where does the Shan Shen Bu original video come from?
 
-From a teaching video of Huagudeng, the flower drum lantern dance of Anhui, recorded years ago at the Beijing Dance Academy with Professor Zhao Tiechun. The teacher names each move (闪身步, 浪子踢球, 狗熊哆嗦毛, 摇头晃脑) and shows it on a blue stage. It went viral in China in late September 2026, then on TikTok worldwide.
+From a teaching video of Huagudeng, the flower drum lantern dance of Anhui, recorded years ago at the Beijing Dance Academy with Professor Zhao Tiechun. The teacher names each move (闪身步, 浪子踢球, 狗熊哆嗦毛, 摇头晃脑) and shows it on a blue stage. It went viral in China in late September 2026, then on TikTok worldwide. Many TikTok takes still cut back to that old footage between their own moves.
 
 ### Who made the first AI Shan Shen Bu videos?
 

@@ -3,20 +3,20 @@
 > The 24 Unforgettable car trend, also called the 24 car trend or Twenty-Four, is a viral TikTok and Instagram clip set to the song "Unforgettable": you hold up a 2 and a 4 card, flick them at the camera, and a sports car is parked behind you.
 
 Canonical: https://www.makeviral.ai/templates/unforgettable-car-trend-ai
-Updated: 2026-10-15
+Updated: 2026-10-19
 Published: 2026-10-12
 Author: İrfan Şener (https://www.makeviral.ai/about)
 Publisher: MakeViral (https://www.makeviral.ai)
 
 The **24 Unforgettable car trend**, also called the 24 car trend or Twenty-Four, is a viral TikTok and Instagram clip set to the song "Unforgettable": you hold up a 2 and a 4 card, flick them at the camera, and a sports car is parked behind you. You need one waist-up photo, plus a car photo for your own car.
 
-You walk up to the camera, hold up a 2 and a 4, flick both cards at the lens, and a sports car is parked behind you. One photo, add a photo of the car you want, or swap the car for a private jet. 10 to 14 seconds, with the song from the viral clips.
+You walk up to the camera, hold up a 2 and a 4, flick both cards at the lens, and a sports car is parked behind you. One photo, add a photo of the car you want, swap the car for a private jet, or make the car backflip on thrusters. 10 to 14 seconds, with the song from the viral clips.
 
-Also called: unforgettable car trend, 24 car trend, twenty four car trend, twentyfour trend, uno card car reveal, uno card trend.
+Also called: unforgettable car trend, 24 car trend, twenty four car trend, twentyfour trend, uno card car reveal, uno card trend, unforgettable car 24 card.
 
 **Make it now:** [Make this video](https://www.makeviral.ai/templates/unforgettable-car-trend-ai/create). 1 photo · 10 s · 9:16 with sound · 152 credits, charged once · ready in up to several minutes · no prompt to write.
 
-Keyword: 24 unforgettable car trend. Also answers: unforgettable car trend ai, 24 car trend ai, unforgettable trend, unforgettable 24 car trend, uno car trend, 24 car trend kling, 24 uno trend, unforgettable car trend tutorial, unforgettable car trend template, 2 and 4 card car trend, uno reverse car transition ai, 24 trend private jet, unforgettable trend private jet, unforgettable trend ia, 24 trend car, 24 car reveal ai, how to do the unforgettable car trend, unforgettable car trend prompt, 24 car trend prompt.
+Keyword: 24 unforgettable car trend. Also answers: unforgettable car trend ai, 24 car trend ai, unforgettable trend, unforgettable 24 car trend, uno car trend, 24 car trend kling, 24 uno trend, unforgettable car trend tutorial, unforgettable car trend template, 2 and 4 card car trend, uno reverse car transition ai, 24 trend private jet, unforgettable trend private jet, unforgettable trend ia, 24 trend car, 24 car reveal ai, how to do the unforgettable car trend, unforgettable car trend prompt, 24 car trend prompt, 24 car trend backflip, car backflip ai, unforgettable car trend backflip, 24 card car trend, ai backflip video, 24 car trend flip, 24 car trend thrusters.
 
 ## What is the 24 Unforgettable Car trend, and where did it start?
 
@@ -140,6 +140,36 @@ Anatomy rules: one head only. Two arms and two hands. No airline names, logos, f
 
 One-tap version of this variant: https://www.makeviral.ai/templates/unforgettable-car-trend-ai/create?variant=jet
 
+#### Variant: Thruster flip
+
+Settings: 1 photo (your photo) · Seedance 2.5 · 10 s · 720p · 9:16 · no sound · 152 credits in one tap.
+
+1. The video prompt is filled in. Settings: Seedance 2.5, 10 s, 720p, 9:16, sound off. The video prompt:
+
+   ```text
+   Replace the woman in the video with the person in [Image 1]. Keep the original actions, facial expressions, poses, body movements, camera movement, lighting, and timing. Only replace the woman and the parking garage, let the red sports car fire its thrusters and do a backflip, and keep everything else unchanged.
+
+Recreate the reference video [Video 1] shot for shot, with the same handheld phone camera, framing and timing, on a wide, empty open-air parking lot at night instead of the parking garage: grey concrete with white parking lines, tall lamp posts with warm light in the distance, a dark blue night sky. The same 2 of hearts and 4 of hearts fly at the lens.
+
+The one who walks toward the camera = the person in [Image 1], in every frame: copy the exact face from [Image 1]: the face shape, eye color and eye shape, eyebrows, nose, mouth, skin tone, age, hair color, hair length and hairstyle, and any beard, moustache, glasses or freckles exactly as in the photo. The same real person in every frame, so their friends instantly recognize them, also in the close-up when the cards come to the lens. Never drift back to the original woman's face. No blonde bob, no hair clips, no dark red lipstick, no hoop earrings, no chain necklaces and no red ribbed cardigan unless [Image 1] shows them. They have the body and the clothes of the person in [Image 1].
+
+Before the cards fly past the lens, the lot behind them is empty. After the cards, the same red sports car as in [Video 1] is parked behind them, in the same spot. Then it does a backflip on thrusters where it stands, behind the person and never over them: four round rocket thrusters under the car ignite with white-hot flame and thick white smoke, the car rises straight up to about twice its height, turns one full backflip (the nose rises, the car rotates backward, upside down at the top, and comes round upright) and lands on its four wheels in the same spot in a puff of white smoke, bouncing once on its suspension. The car keeps its shape, red paint and wheels. The wheels never change: four round, upright, normal tyres, never folding, turning flat or becoming thrusters.
+
+The moves, matching the reference second by second:
+0-2.5 s: walks toward the camera across the empty lot.
+2.5-4.2 s: holds up the 2 and the 4 of hearts close to the lens and flicks both cards at it.
+4.2-6.5 s: the cards fly past the lens, the red sports car is now parked behind, a confident look into the camera.
+6.5-7.5 s: turns to the car; its thrusters ignite and it lifts off.
+7.5-9 s: points at it with the thumb while it turns its full backflip behind them.
+9-10 s: the car lands in the same spot in white smoke while the person walks out of the frame; the car gets the last shot.
+
+Anatomy rules: one head only, on their own shoulders. Two arms and two hands. Exactly one car: no ramp, no crash, nothing hits the person. No badges, emblems or lettering on the car, no readable number plates, no text, no logos, no watermark, no extra people.
+   ```
+
+2. Press Generate, then download the 9:16 MP4.
+
+One-tap version of this variant: https://www.makeviral.ai/templates/unforgettable-car-trend-ai/create?variant=flip
+
 ### Which photo works best?
 
 **Photo 1 is you** (or a friend who agreed).
@@ -151,7 +181,7 @@ One-tap version of this variant: https://www.makeviral.ai/templates/unforgettabl
 
 **Photo 2 is the car** (only in the "Your dream car" version): a clear photo of the whole car from the side or the front corner, in daylight, with no people in it. A plain background works best, for example a white wall or a cut-out on one color, as in the Kling how-tos: then only the car is copied, not the street around it. A photo of your own car or of the car you dream of both work.
 
-The **Private jet** version needs only photo 1.
+The **Private jet** and **Thruster flip** versions need only photo 1.
 
 ## How many credits does it cost?
 
@@ -175,16 +205,16 @@ Your clip follows the 10 seconds of the AI reel by @phm_hang, in one take in an 
 | 6.5 to 9 | You turn to the car, point at it with your thumb and look back with a small smile. |
 | 9 to 10 | You walk out of the frame, and the car gets the last shot. |
 
-**Three versions.** "Red sports car" takes one photo and keeps the red car from the reel. "Your dream car" takes a second photo and puts that car behind you instead. "Private jet" takes one photo, turns the garage into a private jet hangar and puts a white private jet behind you.
+**Four versions.** "Red sports car" takes one photo and keeps the red car from the reel. "Your dream car" takes a second photo and puts that car behind you instead. "Private jet" takes one photo, turns the garage into a private jet hangar and puts a white private jet behind you. "Thruster flip" takes one photo and moves the clip to an open parking lot at night: after the reveal, rocket thrusters fire under the red sports car, it lifts off, turns one full backflip behind you while you point at it, and lands in white smoke as you walk off. It is the unforgettable car trend backflip: a template site added this 24 car trend flip on 18 October 2026, three days after a car maker showed a sports car that flips on thrusters.
 
 "Your dream car" follows another clip of the trend, about 14 seconds long: a man walks up in an empty parking lot at night, holds up two green UNO cards, a 2 and a 4, and then the car stands behind him. At the end he walks off, and the car gets the last shot. You get his moves, in a black leather bomber and sunglasses.
 
 **Which model?** Each version has one quality.
 
-| | Red sports car, Private jet | Your dream car |
+| | Red sports car, Private jet, Thruster flip | Your dream car |
 |---|---|---|
 | Model | Seedance 2.5 | Higgsfield Genjutsu |
-| How it works | Puts you into the reel itself: the same moves, camera and timing, with the garage and the red car, or the hangar and the jet | Turns your photo into a character sheet, then puts you into the parking lot clip: you flash the UNO cards, then the car from your second photo is parked behind you |
+| How it works | Puts you into the reel itself: the same moves, camera and timing, with the garage and the red car, the hangar and the jet, or the night lot and the flipping car | Turns your photo into a character sheet, then puts you into the parking lot clip: you flash the UNO cards, then the car from your second photo is parked behind you |
 | Frame | Vertical 9:16, 720p | Landscape 16:9, 480p |
 | Length | 10 s | About 14 s |
 | Sound | The reel's song, which you can turn off | The same |
@@ -212,6 +242,7 @@ Yes. Pick the **Your dream car** version and add a car photo after your own. Thi
 - **The car you dream of.** A clear photo of it works too. Some how-to videos call this a dream car manifestation video.
 - **Something silly.** A tiny old hatchback, a scooter or a golf cart makes the reveal funnier than another supercar.
 - **A private jet.** Pick the **Private jet** version and add only your own photo. The garage becomes a private jet hangar, and when the cards fly past the lens a white private jet stands behind you, door open and stairs down. You need no jet photo.
+- **A thruster flip.** Pick the **Thruster flip** version and add only your own photo. The red sports car appears behind you, fires its rocket thrusters and does a full backflip in the air, then lands in smoke: a car backflip AI video in the 24 car trend, made from one photo. Want the car from your own photo to flip? The Ramp flip version of the [Flying roadster AI trend](https://www.makeviral.ai/templates/flying-roadster-ai-trend) does that on a giant curved ramp.
 
 The clip copies the shape, color and wheels of the car in your photo. Want another flex trend? Walk out of the arrivals hall as a star in the [AI Airport Star Arrival](https://www.makeviral.ai/templates/ai-airport-star-arrival), or score a famous solo goal in the [Ozil goal AI trend](https://www.makeviral.ai/templates/ozil-goal-ai-trend).
 
@@ -229,6 +260,7 @@ Your clip comes with the sound of the reel it copies: a cut of "Unforgettable" b
 | The face looks less like you | Your face is close to the camera for a few seconds. Use a front-facing photo in good light with no sunglasses, then run it again. |
 | The cards show the wrong numbers | Small card details are hard for video models. Run it again. |
 | The car from your photo changes shape or color | Use a clear photo of the whole car from the side or the front corner, with nothing in front of it. |
+| In Thruster flip, the car stays parked, only floats or the garage stays | The flip is the hardest part of that version. Run it again. |
 | The run fails | Some photos get refused. The credits come back; try another photo. |
 
 ## 24 Unforgettable Car trend questions
@@ -265,13 +297,21 @@ Yes. Pick the "Your dream car" version and add a car photo after your own photo.
 
 Yes. Pick the "Private jet" version and add one photo of yourself. You walk up in a private jet hangar, flick the 2 and the 4 at the camera, and a white private jet with its door open is parked behind you. You get 10 seconds with the reel's song, made with Seedance 2.5.
 
+### Is there a 24 car trend backflip version?
+
+Yes. Pick the "Thruster flip" version and add one photo of yourself. You flick the 2 and the 4 at the camera on an open parking lot at night, the red sports car appears behind you, rocket thrusters fire under it, and it turns one full backflip and lands in white smoke. It is our version of the 24 car trend with thrusters: 10 seconds, vertical, with the reel's song, made with Seedance 2.5. It is new, so no example clip of it is on this page yet.
+
+### What is the Unforgettable Car 24 card trend?
+
+It is the same trend under another name: the 24 card car trend, after the 2 and the 4 card you flick at the camera. Template sites and tutorial captions call it the Unforgettable Car 24 card trend, and one added a version where the car itself does the backflip: an AI backflip video that stars the car. Here that is the Thruster flip version.
+
 ### Does this template use the same prompt as the trend?
 
 Yes. It uses the recreate prompt that the trend's Kling how-to videos shared: replace the person and the car in the clip with yours, and keep the actions, expressions, camera, background, lighting and timing unchanged. We only added the photo labels our video model needs and a few lines that keep the reel's woman and the car badges out.
 
 ### Which AI models make the videos?
 
-Red sports car and Private jet use Seedance 2.5: it puts you into the reel itself at 720p, with the reel's own moves, camera and timing, and can take up to several minutes. Your dream car uses Higgsfield Genjutsu, as in a popular how-to guide: it first turns your photo into a character sheet, then puts you into a man's clip of the trend in an empty parking lot at night, in a black leather bomber and sunglasses, landscape at 480p, with the car from your second photo behind you after the cards. Its clip is longer, so it costs more.
+Red sports car, Private jet and Thruster flip use Seedance 2.5: it puts you into the reel itself at 720p, with the reel's own moves, camera and timing, and can take up to several minutes. Your dream car uses Higgsfield Genjutsu, as in a popular how-to guide: it first turns your photo into a character sheet, then puts you into a man's clip of the trend in an empty parking lot at night, in a black leather bomber and sunglasses, landscape at 480p, with the car from your second photo behind you after the cards. Its clip is longer, so it costs more.
 
 ### Which song is used in the Unforgettable car trend?
 
@@ -291,11 +331,11 @@ No. The example is an AI-made reel by @phm_hang, made with a CapCut AI template 
 
 ### How long is the video and what format is it?
 
-Red sports car and Private jet: 10 seconds, as a vertical 9:16 MP4 at 720p. Your dream car: about 14 seconds, as a landscape 16:9 MP4 at 480p. Each comes with the song, which you can turn off.
+Red sports car, Private jet and Thruster flip: 10 seconds, as a vertical 9:16 MP4 at 720p. Your dream car: about 14 seconds, as a landscape 16:9 MP4 at 480p. Each comes with the song, which you can turn off.
 
 ## Other AI video templates and tools
 
-- [AI Airport Celebrity Video: Walk Out of Arrivals Like a Star](https://www.makeviral.ai/templates/ai-airport-star-arrival): Fans behind the barriers, phones up, flashes going off, bodyguards clearing your path: you walk out of the arrival gate as a star, wave to a fan and get into a waiting car. One photo of you or your pet in, a 15-second clip with crowd sound out.
+- [AI Airport Celebrity Video: Walk Out of Arrivals Like a Star](https://www.makeviral.ai/templates/ai-airport-star-arrival): Fans behind the barriers, phones up, flashes going off, bodyguards clearing your path: you walk out of the arrival gate as a star, wave to a fan and get into a waiting car. Or arrive at a hotel at night: you step out of a black luxury car onto the red carpet. One photo of you or your pet in, a 15-second clip with crowd sound out.
 - [Ozil Goal AI Trend: Score the Famous Solo Goal Yourself](https://www.makeviral.ai/templates/ozil-goal-ai-trend): You flick the ball over the diving keeper, take it on the chest, let two defenders slide past and roll it into the net, under the floodlights, in your own clothes. One photo, 15 seconds, with the song from the viral clips.
 - [Hotel Lobby AI: Make the Hotel Lobby Trend Video](https://www.makeviral.ai/templates/ai-hotel-lobby-trend): You and a friend, or your two pets, trade a rap into one hanging mic in a bright orange booth. Step into the real clip or the viral cat version with the original song, or get a new 10-second version with an original beat.
 - [Meme Video](https://www.makeviral.ai/tools/meme-video-generator): One line of text, one image, six seconds. The cheapest format to produce and the easiest one to test ten different ways in an afternoon.

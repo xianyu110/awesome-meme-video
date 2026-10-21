@@ -95,7 +95,7 @@ Settings: 2 photos (listener pet + singer pet) · h3-recast · 15 s · 720p · 9
 1. The video prompt is filled in. Settings: h3-recast, 15 s, 720p, 9:16, sound off. The video prompt:
 
    ```text
-   Image 1 replaces the fluffy grey tabby cat who sits at the end of the wooden pier and looks out to sea, in every shot. Image 2 replaces the ginger cat who walks up the pier and sings to the camera, in every shot, with no leash and no strap. Keep the face, fur colors and markings from each image. Keep the pier, the sea, the beach, the light, the motion, the mouth movement and the camera exactly as in the video.
+   Image 1 replaces the cat who sits at the end of the wooden pier and looks out to sea, in every shot. Image 2 replaces the cat who walks up the pier and sings to the camera, in every shot, with no leash and no strap. Keep the face shape, ears, fur colors, fur length and markings from each image, not those of the cats in the video. Keep the pier, the sea, the beach, the light, the motion, the mouth movement and the camera exactly as in the video.
    ```
 
 2. Press Generate, then download the 9:16 MP4.

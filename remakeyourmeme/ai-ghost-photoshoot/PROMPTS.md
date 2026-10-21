@@ -3,7 +3,7 @@
 - Source: [remakeyourmeme](https://remakeyourmeme.com/templates/ai-ghost-photoshoot/)
 - Slug: `ai-ghost-photoshoot`
 
-The person in this photo agreed to be in this photo, and is not a public figure or a minor.
+the person in this photo agreed to be in this photo, and is not a public figure or a minor.
 
 ## Demo videos (CDN)
 

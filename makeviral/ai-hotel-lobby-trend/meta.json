@@ -35,7 +35,7 @@
       "label": "1. The video prompt is filled in. Settings: h3-recast, 15 s, 720p, 9:16, sound off. The video prompt",
       "variant": "Pet",
       "kind": "video_prompt",
-      "text": "Replace both cats in the video with characters from image 1 and image 2, and preserve the original background, actions, poses, camera movement, lighting and timing. Only replace the two cats keep everything else unchanged. Image 1 replaces the black cat on the left, who stands upright and raps into the hanging microphone, in every shot. Image 2 replaces the long-haired ginger cat on the right, who stands upright and dances with its front paws, in every shot, also when it turns its back to the camera. Each pet keeps the face, ears, fur colors, fur length and markings from its own image, not those of the cats in the video. If an image shows a dog or another animal, that animal takes the same place, standing upright on its hind legs and doing the same moves. Keep the orange studio, the hanging microphone and the mouth movement exactly as in the video."
+      "text": "Replace both cats in the video with characters from image 1 and image 2, and preserve the original background, actions, poses, camera movement, lighting and timing. Only replace the two cats keep everything else unchanged. Image 1 replaces the cat on the left, who stands upright and raps into the hanging microphone, in every shot. Image 2 replaces the cat on the right, who stands upright and dances with its front paws, in every shot, also when it turns its back to the camera. Each pet keeps the face shape, ears, fur colors, fur length and markings from its own image, not those of the cats in the video. If an image shows a dog or another animal, that animal takes the same place, standing upright on its hind legs and doing the same moves. Keep the orange studio, the hanging microphone and the mouth movement exactly as in the video."
     },
     {
       "label": "1. The video prompt is filled in. Settings: Seedance 2.5, 10 s, 720p, 9:16, sound on. The video prompt",
@@ -67,5 +67,5 @@
     "Make your own Hotel Lobby video"
   ],
   "prompt_count": 5,
-  "scraped_at": "2026-10-19"
+  "scraped_at": "2026-10-21"
 }

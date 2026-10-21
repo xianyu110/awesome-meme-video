@@ -1,0 +1,49 @@
+{
+  "source": "kavel",
+  "source_site": "https://www.kavel.ai",
+  "slug": "dime-dime-baby-ai-dance",
+  "name": "Dime Dime Baby AI Dance",
+  "url": "https://www.kavel.ai/video/dime-dime-baby-ai-dance",
+  "listing_url": "https://www.kavel.ai/ai-video-trends",
+  "blurb": "One photo in: the person, baby or pet in it walks up, bites the bread, stares down the camera and dances off, in a 12-second vertical clip.",
+  "published": null,
+  "updated": null,
+  "scraped_at": "2026-10-21",
+  "listing_index": 6,
+  "this_week_rank": null,
+  "demo_videos": [
+    "https://cdn.kavel.ai/videos/kavel-showcase/dime-dime-baby-guy.mp4",
+    "https://cdn.kavel.ai/videos/kavel-showcase/dime-dime-baby-toddler.mp4",
+    "https://cdn.kavel.ai/videos/kavel-showcase/dime-dime-baby-frenchie.mp4"
+  ],
+  "posters": [
+    "https://cdn.kavel.ai/posters/kavel-showcase/dime-dime-baby-guy-poster.webp",
+    "https://cdn.kavel.ai/posters/kavel-showcase/dime-dime-baby-guy-poster-thumb-240.webp",
+    "https://cdn.kavel.ai/posters/kavel-showcase/dime-dime-baby-toddler-poster.webp",
+    "https://cdn.kavel.ai/posters/kavel-showcase/dime-dime-baby-frenchie-poster.webp"
+  ],
+  "prompts": [
+    {
+      "label": "Template prompt",
+      "variant": null,
+      "kind": "video_prompt",
+      "text": "Use the photo: keep whoever is in it exactly as photographed, same face, hair, skin tone, build and outfit; if it is a pet, keep its exact fur, markings and face and real animal movement. A party at night in a banquet hall turned dance floor, pink and purple lights, round tables with white cloths, guests dancing behind, filmed handheld on a phone at the subject's eye level, vertical 9:16, one continuous shot. (1) They walk straight toward the camera through the crowd with a slow, cocky little dance step, holding a soft bread roll (a pet carries it in its mouth). (2) They take a big bite and stare dead into the lens while chewing, completely deadpan. (3) They sway and do a few loose side steps to the beat, then turn around and dance away into the crowd. Smooth realistic motion, the face stays the same throughout. Audio: party crowd noise and an original upbeat reggaeton beat with no vocals. No text, no captions, no logos, no watermark."
+    },
+    {
+      "label": "Dime Dime Baby AI dance â the toddler at the cookout",
+      "variant": "dime-dime-baby-toddler",
+      "kind": "video_prompt",
+      "text": "Use the photo: keep the toddler exactly as photographed, same face, braided hair with beads, skin tone and navy star-print jumpsuit. A family birthday party in a backyard in the evening, colourful papel picado and string lights overhead, relatives dancing on a patio behind her, filmed handheld on a phone at a toddler's eye level, vertical 9:16, one continuous shot. (1) She toddles straight toward the camera with a little bouncing dance step, gripping a small sweet bread roll in both hands. (2) She takes a bite of the bread and stares dead into the lens while chewing, serious and unimpressed. (3) She bounces her knees and wiggles her shoulders to the beat, then turns around and toddles off into the dancing grown-ups. Real toddler proportions and natural movement, her face stays the same throughout. Audio: party chatter, laughter and an original upbeat reggaeton beat with no vocals. No text, no captions, no logos, no watermark."
+    },
+    {
+      "label": "Dime Dime Baby AI dance â the Frenchie at the house party",
+      "variant": "dime-dime-baby-frenchie",
+      "kind": "video_prompt",
+      "text": "Use the photo: keep the dog exactly as photographed, a fawn French bulldog with the same face, ears and markings, wearing the same mint-green T-shirt. A house party at night, the living room turned into a dance floor with purple and pink lights, people dancing in the background from the knees down, filmed handheld on a phone low to the floor, vertical 9:16, one continuous shot. (1) The dog trots straight toward the camera with a proud little bounce, a soft bread roll in its mouth. (2) It stops, sits, chews the bread and stares dead into the lens, completely deadpan. (3) It stands, wiggles its back end and hops side to side to the beat, then turns and trots off into the dancing feet. Real dog anatomy and natural movement, its face stays the same throughout. Audio: party noise and an original upbeat reggaeton beat with no vocals. No text, no captions, no logos, no watermark."
+    }
+  ],
+  "prompt_count": 3,
+  "prompts_public": true,
+  "note": null,
+  "showcase_count": 2
+}

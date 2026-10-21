@@ -55,6 +55,6 @@ One head per person, on their own shoulders. Exactly two people. No text, no log
 *Kind: video_prompt*
 
 ```text
-Image 1 replaces the black cat who plays the red drum kit, in every shot, also in the big close-up of its face. Image 2 replaces the cream long-haired cat with the brown tabby face and blue eyes who kneels on the pink floor and sings into the microphone, then leans on the drummer and dances, in every shot, also in the close-up of its open mouth. Keep the face, eyes, ears, fur colors, fur length and markings from each image, with the natural body volume and proportions of that animal: never flattened, squashed, stretched or merged with anything. Keep the pink studio, the drum kit, the amps, the moves, the mouth movement, the cuts and the camera exactly as in the video. No text, no logos.
+Image 1 replaces the cat who plays the red drum kit, in every shot, also in the big close-up of its face. Image 2 replaces the cat who kneels on the pink floor and sings into the microphone, then leans on the drummer and dances, in every shot, also in the close-up of its open mouth. Keep the face shape, eyes, ears, fur colors, fur length and markings from each image, not those of the cats in the video, with the natural body volume and proportions of that animal: never flattened, squashed, stretched or merged with anything. Keep the pink studio, the drum kit, the amps, the moves, the mouth movement, the cuts and the camera exactly as in the video. No text, no logos.
 ```
 

@@ -1,0 +1,46 @@
+# C-Walk AI: Do the C-Walk From One Photo
+
+- Source: [makeviral](https://www.makeviral.ai/templates/c-walk-ai-dance)
+- Slug: `c-walk-ai-dance`
+
+C-Walk AI is the trend where one photo becomes a C-Walk dance video: the person in the picture does the footwork, heel-toe shuffles, V-steps and quick turns.
+
+## Demo videos (CDN)
+
+- https://www.makeviral.ai/media/templates/c-walk-ai-dance/original-pet-v2.mp4
+- https://www.makeviral.ai/media/templates/c-walk-ai-dance/original-street-v1.mp4
+
+## Posters
+
+- https://www.makeviral.ai/media/templates/c-walk-ai-dance/original-pet-v1.jpg
+- https://www.makeviral.ai/media/templates/c-walk-ai-dance/original-street-v1.jpg
+
+## Prompts
+
+### 1. 1. The video prompt is filled in. Settings: kling-3-motion, 12 s, 720p, 9:16, sound off. The video prompt (Human)
+
+*Kind: video_prompt*
+
+```text
+Replace the character in the video with the person from the uploaded image. Keep actions, poses, facial expressions, camera movement and rhythm. Preserve the person's original facial features, maintain character consistency, no distortion, no glitches, no artifacts.
+The person dances in the place from the uploaded image, in the clothes and shoes from the uploaded image, not the blue bucket hat, the round glasses, the gold chain, the white printed sweater and the printed jeans of the man in the video, and keeps their own hair from the uploaded image. Follow the man's footwork and timing exactly: the quick heel-toe shuffles and crossover steps with the hands loosely at the chest, the kick to the side and the low dip, the V-steps out and in, then the turn with both arms out wide. Light, fast feet that stay close to the floor, knees soft, the upper body calm and cool. The hands stay relaxed and open, with no finger gestures. Keep the whole body in view from the head to the feet, both feet always in the frame, with natural balance. Exactly one person, no other people. One continuous shot, no cuts, no text, no captions, no logos.
+```
+
+### 2. 1. The video prompt is filled in. Settings: Seedance 2.5, 12 s, 720p, 9:16, sound off. The video prompt (Pet)
+
+*Kind: video_prompt*
+
+```text
+Recreate the reference video [Video 1] shot for shot: the same living room with the dark wooden floor, the grey patterned rug, the grey storage box and the bookshelf behind, the same fixed phone camera at about knee height, the same framing, timing and moves, one continuous take with no cuts. The ONLY change: the dancing cat is now the pet in [Image 1].
+
+The dancer = the pet in [Image 1], in every frame: the same species and breed, head shape, muzzle, eyes, ears, fur colors, fur length, markings and body shape as in [Image 1], with the natural body volume and proportions of that animal: never flattened, squashed, stretched or merged with anything, so its owner instantly recognizes it. It stands upright on its hind legs like a little person the whole time, also when it turns its back. Never drift back to the cat of the original video: not the coat, the face or the eyes of the cat in the video, and NO pink collar and no bow unless [Image 1] shows them. No clothes. If [Image 1] shows a dog or another animal, the dancer is that animal, with its own ears, muzzle and tail.
+
+It copies the cat's footwork in time with the reference, second by second:
+0-2 s: facing the camera, front paws held at the chest, quick heel-toe steps on the spot.
+2-6 s: crossover steps and V-steps, turning a little to one side and back to the front, elbows out, the tail swinging.
+6-9 s: it shuffles sideways, turns its back to the camera and comes back around.
+9-12 s: more quick footwork, one fast turn, and it ends facing the camera, standing tall.
+
+Real animal anatomy: furry front legs ending in round paws in their own fur, never human hands, no fingers. One head, two hind legs and two front legs, no extra legs or paws, one tail. Exactly one animal, no people. No text, no captions, no logos, no watermark.
+```
+

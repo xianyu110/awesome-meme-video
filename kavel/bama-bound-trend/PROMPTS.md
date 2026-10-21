@@ -37,15 +37,7 @@ Use the photo as the main character and keep the person exactly as photographed:
 Use the photo as the main character and keep the person exactly as photographed: same face, hair, skin tone, build and outfit the whole time. Vertical 9:16 phone video, bright summer afternoon outside a stone-block building, natural handheld shake. (1) The main character stands smiling with a folded sign in one hand. (2) They unfold it and hold it up to the camera: a bright red sign with big bold white letters that read I'M BAMA BOUND, nothing else printed on it. (3) They lift the sign high over their head with both arms straight, bounce on their toes and jump twice, laughing and cheering like they just got the acceptance letter. (4) Last beat: they hug the sign to their chest and grin at the camera. The sign text stays readable and spelled exactly I'M BAMA BOUND. Audio: an upbeat celebratory hip-hop beat, happy screams of "I got in!". No logos, no mascots, no other text, no captions, no watermark.
 ```
 
-### 3. Bama Bound trend â the party squad — bama-bound-friends
-
-*Kind: video_prompt*
-
-```text
-Use the photo: keep every person in it recognisable, same faces, hair, skin tones, builds and outfits; if the photo shows only one person, three friends join them. Vertical 9:16 phone video at a party in a living room with pastel bunting and tinsel on the ceiling fan, warm evening light, handheld shake. (1) The friends lean in toward the camera, laughing. (2) The main character from the photo, in the middle, pulls up a bright red sign with big bold white letters that read I'M BAMA BOUND, nothing else printed on it, and holds it high over their head. (3) Everyone screams, jumps up and down and throws their arms in the air around them, hugging and cheering like they just got in. (4) Last beat: they squeeze together behind the sign and pose for the camera. The sign text stays readable and spelled exactly I'M BAMA BOUND. Audio: an upbeat celebratory hip-hop beat, friends screaming and cheering. No logos, no mascots, no other text, no captions, no watermark.
-```
-
-### 4. Bama Bound trend â the living-room disbelief — bama-bound-sign-guy
+### 3. Bama Bound trend â the living-room disbelief — bama-bound-sign-guy
 
 *Kind: video_prompt*
 

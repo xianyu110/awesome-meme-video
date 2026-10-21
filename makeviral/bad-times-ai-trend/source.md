@@ -16,7 +16,7 @@ Also called: Bad Times dance, Imael Angel Bad Times trend, Bad Times dispute tre
 
 **Make it now:** [Make this video](https://www.makeviral.ai/templates/bad-times-ai-trend/create). 1 photo · 10 s · 9:16 with sound · 40 credits, charged once · ready in a few minutes · no prompt to write.
 
-Keyword: bad times ai. Also answers: bad times trend, bad times imael angel, bad times ai trend, bad times dog, bad times song, bad times deep house, is bad times an ai song, bad times trend ai, bad times ai video, bad times meme, bad times imael angel ai, is the song bad times ai, bad times ismael angel, bad times omael angel, bad times email angel, bad times cat, bad times pet trend, bad times trend tiktok, bad times tiktok song, bad times song tiktok, bad times trend instagram, bad times imael angel trend, bad times imael angel dance, bad times dance video, is bad times ai generated, trend bad times.
+Keyword: bad times ai. Also answers: bad times trend, bad times imael angel, bad times ai trend, bad times dog, bad times song, bad times deep house, is bad times an ai song, old people with ai music, ai music meme, bad times trend ai, bad times ai video, bad times meme, bad times imael angel ai, is the song bad times ai, bad times ismael angel, bad times omael angel, bad times email angel, bad times cat, bad times pet trend, bad times trend tiktok, bad times tiktok song, bad times song tiktok, bad times trend instagram, bad times imael angel trend, bad times imael angel dance, bad times dance video, is bad times ai generated, trend bad times.
 
 ## What is the Bad Times Trend trend, and where did it start?
 
@@ -214,7 +214,7 @@ No creator of the trend shared a prompt, and the CapCut templates of the trend a
 
 ### Is Bad Times an AI song?
 
-Partly. Songfacts writes that the songwriter behind the Imael Angel name writes the lyrics and uses AI tools to develop them into full songs. So the song is not fully AI generated: a person writes the words. MakeViral did not make the song and has no ties to the artist.
+Partly. Songfacts writes that the songwriter behind the Imael Angel name writes the lyrics and uses AI tools to develop them into full songs. So the song is not fully AI generated: a person writes the words. In October 2026 the question turned into the AI music meme: "old people with AI music" clips, where creators act like a parent who loves an AI song and dances to Bad Times with full feeling (the first big one, by @snarkymarky on 13 October, passed 2.8 million views). MakeViral did not make the song and has no ties to the artist.
 
 ### How long is the video and what format is it?
 

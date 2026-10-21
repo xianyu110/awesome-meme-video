@@ -8,8 +8,8 @@
   "blurb": "One game photo in: the game face, then a hard cut to the same player driving a kidsâ toy car.",
   "published": null,
   "updated": null,
-  "scraped_at": "2026-10-19",
-  "listing_index": 30,
+  "scraped_at": "2026-10-21",
+  "listing_index": 44,
   "this_week_rank": null,
   "demo_videos": [
     "https://cdn.kavel.ai/videos/kavel-showcase/onnat-tackle-clip.mp4",
@@ -34,16 +34,10 @@
       "variant": "onnat-buggy-clip",
       "kind": "video_prompt",
       "text": "Use the photo as the starting frame and keep its colours, black and white included. Keep every player exactly as photographed: the same helmets, jerseys, numbers, builds, the same field and background. (1) For the first three seconds they stand still and shrug at the camera, palms up, dead serious; (2) hard cut: the biggest player now sits squeezed into a small kids' ride-on toy dune buggy with chunky tyres, an open tube frame and a bare front with no grille, no badge and no emblem, knees up by the facemask, driving slowly toward the camera across the same field, while anyone beside them walks next to the toy buggy with arms still out in a shrug; (3) the buggy stops right in front of the lens and they shrug once more. The toy buggy is far too small for them. Plain jerseys with numbers only, no maker logos. Generic toy car with no stickers, no logos and no brand names. Phone camera, one cut only, vertical 9:16. Upbeat hip-hop beat in the audio, no vocals. No text, no captions, no watermark."
-    },
-    {
-      "label": "Happy Friday I'm onnat AI video â tackled in the toy car",
-      "variant": "onnat-tackle-clip",
-      "kind": "video_prompt",
-      "text": "Use the photo as the starting frame and keep the whole play as photographed: the same players, the same team colours, the same stadium lights and crowd. (1) For the first three seconds the play goes on as in the photo, defenders diving on the ball carrier; (2) hard cut: the ball carrier now sits wedged in a small red plastic kids' ride-on toy car with a yellow roof, knees jammed up to their chest, ball tucked under one arm, driving slowly out of the pile toward the camera while the defenders hang on to the little yellow roof and get dragged along the turf; (3) they look straight into the lens, totally calm. The toy car is far too small for them. Plain jerseys with numbers only: no school names, no wordmarks, no helmet logos or decals. Generic toy car with no face, no stickers, no logos and no brand names. Sideline camera, one cut only, vertical 9:16. Upbeat hip-hop beat and crowd noise in the audio, no vocals. No text, no captions, no watermark."
     }
   ],
-  "prompt_count": 3,
+  "prompt_count": 2,
   "prompts_public": true,
   "note": null,
-  "showcase_count": 3
+  "showcase_count": 2
 }

@@ -1,0 +1,67 @@
+{
+  "source": "kavel",
+  "source_site": "https://www.kavel.ai",
+  "slug": "corpse-bride-ai",
+  "name": "Corpse Bride AI",
+  "url": "https://www.kavel.ai/video/corpse-bride-ai",
+  "listing_url": "https://www.kavel.ai/ai-video-trends",
+  "blurb": "One photo in: you become a blue-skinned undead bride in a torn veil and dance under the full moon, in a 12-second vertical clip.",
+  "published": null,
+  "updated": null,
+  "scraped_at": "2026-10-21",
+  "listing_index": 4,
+  "this_week_rank": null,
+  "demo_videos": [
+    "https://cdn.kavel.ai/videos/kavel-showcase/corpse-bride-glasses.mp4",
+    "https://cdn.kavel.ai/videos/kavel-showcase/corpse-bride-transform.mp4",
+    "https://cdn.kavel.ai/videos/kavel-showcase/corpse-bride-veil-reveal.mp4",
+    "https://cdn.kavel.ai/videos/kavel-showcase/corpse-bride-hallway-dance.mp4",
+    "https://cdn.kavel.ai/videos/kavel-showcase/corpse-bride-night-dance.mp4",
+    "https://cdn.kavel.ai/videos/kavel-showcase/corpse-bride-forest-ghost.mp4"
+  ],
+  "posters": [
+    "https://cdn.kavel.ai/posters/kavel-showcase/corpse-bride-glasses-poster.webp",
+    "https://cdn.kavel.ai/posters/kavel-showcase/corpse-bride-glasses-poster-thumb-240.webp",
+    "https://cdn.kavel.ai/posters/kavel-showcase/corpse-bride-transform-poster.webp",
+    "https://cdn.kavel.ai/posters/kavel-showcase/corpse-bride-veil-reveal-poster.webp",
+    "https://cdn.kavel.ai/posters/kavel-showcase/corpse-bride-hallway-dance-poster.webp",
+    "https://cdn.kavel.ai/posters/kavel-showcase/corpse-bride-night-dance-poster.webp",
+    "https://cdn.kavel.ai/posters/kavel-showcase/corpse-bride-forest-ghost-poster.webp"
+  ],
+  "prompts": [
+    {
+      "label": "Corpse Bride AI â plain face to bride in one flick",
+      "variant": "corpse-bride-transform",
+      "kind": "video_prompt",
+      "text": "Use the photo: keep the woman exactly as photographed, same face, hair colour and build, so she is clearly the same person. Vertical 9:16, one continuous shot, phone video against a plain grey wall. (1) For the first two seconds she is exactly as in the photo, talking casually to the camera. (2) She flicks her wrist across the lens and, in one cut, she is an undead bride: pale blue-grey skin, a dark stitched scar across her brow, smoky grey eyes, dark red lips, her hair set in vintage pin curls, a torn lace veil and a stained, ripped white wedding dress. (3) She stares into the lens, slowly runs her hand down her neck and tilts her head to the beat, lip-syncing with a cold little smile. Her face stays the same person throughout. Audio: an original eerie pop beat with a music-box melody, no vocals. No text, no captions, no logos, no watermark, no cartoon characters."
+    },
+    {
+      "label": "Corpse Bride AI â the veil comes off",
+      "variant": "corpse-bride-veil-reveal",
+      "kind": "video_prompt",
+      "text": "Use the photo: keep the woman exactly as photographed, same face, hair and build, so she is clearly the same person. Vertical 9:16, one continuous shot, phone video against a plain sage-green wall. (1) A long torn bridal veil with a crown of white flowers covers her face and shoulders. (2) To the beat she throws the veil back over her head and is revealed as an undead bride: pale blue-grey skin, dark cracked makeup running from her eyes, grey lips and a ripped white lace corset dress. (3) She snaps her head from side to side, pulls a wide, creepy grin at the lens and poses as the veil settles. Her face stays the same person throughout. Audio: an original dark trap beat with a hard drop on the reveal, no vocals. No text, no captions, no logos, no watermark, no cartoon characters."
+    },
+    {
+      "label": "Corpse Bride AI â the jerky hallway dance",
+      "variant": "corpse-bride-hallway-dance",
+      "kind": "video_prompt",
+      "text": "Use the photo: keep the woman exactly as photographed, same face, long hair and build, so she is clearly the same person. Vertical 9:16, one continuous shot, phone on a tripod in a narrow hallway with a plain white wall. (1) Close up, her face turns pale blue-grey with sunken dark eyes as she backs away from the lens. (2) Now in full body, she wears a faded, stained vintage wedding gown with lace cuffs and stands perfectly still, head down. (3) To the beat she starts a jerky undead-bride dance: shoulders twitching, arms swinging stiffly, a slow sway, a shuffle step toward the camera and a final lurch into the lens. Her face stays the same person throughout. Audio: an original spooky electro-swing beat, no vocals. No text, no captions, no logos, no watermark, no cartoon characters."
+    },
+    {
+      "label": "Corpse Bride AI â flashlight dance at night",
+      "variant": "corpse-bride-night-dance",
+      "kind": "video_prompt",
+      "text": "Use the photo: keep the woman exactly as photographed, same face, dark hair, hoop earrings and build, so she is clearly the same person. Vertical 9:16, one continuous shot, handheld phone video at night in a backyard lit by one hard flashlight. (1) She dances into the light as an undead bride: pale blue-grey skin, a long grey veil, a white top and a short torn tulle skirt. (2) She leans into the camera for a close-up, cold eyes, then spins away. (3) She dances hard to the beat under the flashlight, hips and shoulders, the veil whipping around her, and ends on a slow head turn back to the lens. Her face stays the same person throughout. Audio: an original fast reggaeton beat with a spooky synth, no vocals. No text, no captions, no logos, no watermark, no cartoon characters."
+    },
+    {
+      "label": "Corpse Bride AI â the ghost bride in the misty forest",
+      "variant": "corpse-bride-forest-ghost",
+      "kind": "video_prompt",
+      "text": "Use the photo: keep the woman exactly as photographed, same face, dark hair and build, so she is clearly the same person. Vertical 9:16, one continuous shot, cinematic, a misty pine forest at dawn with white smoke drifting between the trees, desaturated colours. (1) Far away between the trees, a figure in a long white wedding gown and veil stands in the fog. (2) She glides closer: pale blue-grey skin, heavy black eye shadows and black lips, the veil over her hair, a lace gown trailing on the forest floor. (3) She raises her arms and turns slowly in the smoke, then stops in a close-up and stares straight through the lens. Her face stays the same person throughout. Audio: wind in the pines, a low choir hum and an original slow, haunting beat, no vocals. No text, no captions, no logos, no watermark, no cartoon characters."
+    }
+  ],
+  "prompt_count": 5,
+  "prompts_public": true,
+  "note": null,
+  "showcase_count": 5
+}

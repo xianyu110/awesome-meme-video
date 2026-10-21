@@ -29,15 +29,7 @@ One photo in: your pet or you gets the broccoli, throws it over the shoulder, an
 Use the photo as the main character and keep them exactly as photographed: the same face, fur or hair, colours and build. (1) A hand slides a white plate piled with green broccoli florets in front of them; they look down at it and give it a flat, dead-serious stare. (2) They grab or swat the plate and fling it backwards over their shoulder, broccoli florets flying through the air behind them. (3) The moment the broccoli lands behind them, a huge fireball explosion fills the whole room, orange flames and grey smoke rolling past, while they stay sitting in front of the blast, completely unbothered, staring straight into the camera. Handheld phone camera, one continuous shot, vertical 9:16. Explosion boom and a heavy beat drop in the audio, no vocals. No text, no captions, no logos, no watermark.
 ```
 
-### 2. Broccoli throw meme AI video â the kitten in the gaming chair — broccoli-throw-kitten
-
-*Kind: video_prompt*
-
-```text
-Use the photo as the main character and keep them exactly as photographed: the same face, fur or hair and colours. (1) A hand slides a white plate piled with green broccoli florets in front of them; they look down at it and give it a dead-serious stare. (2) Hard cut: the same character sits in a big black leather gaming chair in a dim gamer bedroom with a red LED strip along the ceiling, the broccoli plate in front of them; they swat the plate up and fling it over their shoulder, florets flying through the air behind the chair. (3) The moment the broccoli lands, a huge fireball explosion fills the whole room, orange flames and grey smoke rolling past the chair, while they stay seated in front of the blast, totally unbothered, staring straight into the camera. Plain black chair with no logos or lettering. Handheld phone camera, one cut only, vertical 9:16. Explosion boom and a heavy beat drop in the audio, no vocals. No text, no captions, no logos, no watermark.
-```
-
-### 3. Broccoli throw meme AI video â the shiba with the broccoli hat — broccoli-throw-shiba
+### 2. Broccoli throw meme AI video â the shiba with the broccoli hat — broccoli-throw-shiba
 
 *Kind: video_prompt*
 
@@ -45,7 +37,7 @@ Use the photo as the main character and keep them exactly as photographed: the s
 Use the photo as the main character and keep them exactly as photographed: the same face, fur or hair and colours, with a single broccoli floret balanced on their head, sitting on a wooden kitchen floor. (1) They hold still for a beat, then the smile drops into a flat, offended stare at the camera; (2) they whip their head to one side and the floret flies off, spinning backwards over their shoulder across the kitchen; (3) it hits the floor behind them and a huge fireball explosion fills the kitchen, orange flames and grey smoke rolling past, while they stay sitting in front of the blast, completely unbothered, looking straight into the camera. Handheld phone camera, one continuous shot, vertical 9:16. Explosion boom and a heavy beat drop in the audio, no vocals. No text, no captions, no logos, no watermark.
 ```
 
-### 4. Broccoli throw meme AI video â the Pomeranian — broccoli-throw-pomeranian
+### 3. Broccoli throw meme AI video â the Pomeranian — broccoli-throw-pomeranian
 
 *Kind: video_prompt*
 

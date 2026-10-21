@@ -3,7 +3,7 @@
 > The flying Tesla Roadster meme is the AI video trend that followed Tesla's Roadster demo of 15 October 2026: you sit stuck in traffic, press a button, rockets fire and your car flies over the jam while your coffee goes everywhere.
 
 Canonical: https://www.makeviral.ai/templates/flying-roadster-ai-trend
-Updated: 2026-10-18
+Updated: 2026-10-19
 Published: 2026-10-17
 Author: İrfan Şener (https://www.makeviral.ai/about)
 Publisher: MakeViral (https://www.makeviral.ai)
@@ -12,11 +12,11 @@ The **flying Tesla Roadster** meme is the AI video trend that followed Tesla's R
 
 You sit in a freeway jam, throw your hands up, smirk and slam a button. Rocket boosters fire under the rear bumper and your car flies over the traffic. Add a selfie, or a selfie and a photo of your own car.
 
-Also called: Tesla Roadster meme, Day 1 owning a Tesla Roadster, Flying car AI trend, Roadster Stole My Parking Spot, I Wasn't Finished Talking, Roadster Ramp.
+Also called: Tesla Roadster meme, Day 1 owning a Tesla Roadster, Flying car AI trend, Roadster Stole My Parking Spot, I Wasn't Finished Talking, Roadster Ramp, Roadster Police Stop.
 
 **Make it now:** [Make this video](https://www.makeviral.ai/templates/flying-roadster-ai-trend/create). 1 photo · 10 s · 9:16 with sound · 126 credits, charged once · ready in a few minutes · no prompt to write.
 
-Keyword: flying tesla roadster. Also answers: tesla roadster flying, flying tesla, tesla roadster flying car, flying car meme, flying roadster, tesla roadster ai video, flying car video, flying tesla car, flying roadster tesla, flying car ai, ai flying car, tesla roadster ai, flying tesla roadster ai, flying roadster ai trend, tesla roadster memes, ai car video generator, rocket car meme, ai car video, tesla roadster flying video, flying car traffic, flying car over traffic, car flying over traffic, flying tesla meme, flying tesla video, flying car ai video, flying car ai video prompt, flying car trend, car flying ai video, flying car tiktok, tesla roadster ai generated, tesla roadster flying ai, tesla roadster flying over cars, tesla roadster meme video, flying tesla ai, flying roadster video, flying roadster ai, flying roadster ai video, tesla roadster ai trend, tesla roadster trend, tesla roadster ai video generator, tesla roadster ai prompt, flying car ai generated, ai flying car video, make my car fly, make my car fly ai, day 1 owning a roadster, tesla roadster coffee meme, tesla roadster ai or real, roadster ai video, tesla roadster flip, tesla roadster ramp, tesla roadster flips over truck, tesla roadster semi jump, tesla roadster parking spot, i wasn't finished talking meme, i wasn't done talking meme, last parking spot meme, flying car parking, tesla roadster plane, flying car plane window, tesla roadster ramp ai video, my car tesla roadster ai, tesla roadster ramp flip, tesla roadster flip video, tesla roadster ramp video, tesla roadster flipping upside down, tesla roadster ai with my car.
+Keyword: flying tesla roadster. Also answers: tesla roadster flying, flying tesla, tesla roadster flying car, flying car meme, flying roadster, tesla roadster ai video, flying car video, flying tesla car, tesla roadster video download, tesla flying car video download, tesla roadster flying gif, flying roadster tesla, flying car ai, ai flying car, tesla roadster mems, elon musk flying car video download, elon musk flying car prompt, tesla car trend, flying roadster meme, flying tesla roadster meme, tesla roadster ai, flying tesla roadster ai, flying roadster ai trend, tesla roadster memes, ai car video generator, rocket car meme, ai car video, tesla roadster flying video, flying car traffic, flying car over traffic, car flying over traffic, flying tesla meme, flying tesla video, flying car ai video, flying car ai video prompt, flying car trend, car flying ai video, flying car tiktok, tesla roadster ai generated, tesla roadster flying ai, tesla roadster flying over cars, tesla roadster meme video, flying tesla ai, flying roadster video, flying roadster ai, flying roadster ai video, tesla roadster ai trend, tesla roadster trend, tesla roadster ai video generator, tesla roadster ai prompt, flying car ai generated, ai flying car video, make my car fly, make my car fly ai, day 1 owning a roadster, tesla roadster coffee meme, tesla roadster ai or real, roadster ai video, tesla roadster prompt, new roadster meme, tesla flying car gif, tesla roadster fly gif, download tesla roadster video, flying car meme video, flying roadster gif, flying tesla roadster gif, roadster fly gif, tesla roadster gif flying, tesla flying roadster meme, tesla roadster mem, tesla rocket car meme, tesla roadster clip, tesla flying car ai video, tesla flying car trend, tesla flying car video real, tesla flying car viral video fake october 2026, tesla roadster flip, tesla roadster ramp, tesla roadster flips over truck, tesla roadster semi jump, tesla roadster parking spot, i wasn't finished talking meme, i wasn't done talking meme, last parking spot meme, flying car parking, tesla roadster plane, flying car plane window, tesla roadster ramp ai video, my car tesla roadster ai, tesla roadster ramp flip, tesla roadster flip video, tesla roadster ramp video, tesla roadster flipping upside down, tesla roadster ai with my car, tesla roadster police chase, tesla roadster police, tesla roadster police stop, flying car police chase, tesla roadster pulled over, do you know how fast you were going meme, car driving on tunnel wall, car driving on ceiling, car driving on roof of tunnel, car drives on wall and ceiling, tesla roadster tunnel, tesla roadster driving on walls, flying car paris, tesla roadster paris, flying tesla paris.
 
 ## What is the Flying Roadster AI trend, and where did it start?
 
@@ -31,6 +31,8 @@ The memes came that night. At 05:51 UTC on 16 October, X user **@pingu4ty** repl
 - **2026-10-16**: From 08:00 UTC the scene spreads on TikTok as "Day 1 owning a Tesla Roadster"; creators remake it with their own faces, and one remake has 222,000 views by 17 October. Source: [TikTok](https://www.tiktok.com/@djvenomlive/video/7697266174396042527).
 - **2026-10-16**: @xander.sgc's AI clip of a sky full of flying cars becomes the first of the trend past a million views (1.9 million by 17 October). Source: [TikTok](https://www.tiktok.com/@xander.sgc/video/7697226798148504865).
 - **2026-10-16**: At 15:03 UTC @jude57181 posts an animated clip of a flying car that drops out of the sky into the last empty parking space; it has 7.7 million views by 17 October and starts the parking spot meme. Source: [TikTok](https://www.tiktok.com/@jude57181/video/7697281605466983712).
+- **2026-10-16**: At 15:59 UTC @aianimalmiracles posts an AI clip from inside a tunnel jam: the car in front drives up the curved tunnel wall and on along the ceiling ("They'll be driving on the walls!"). Source: [TikTok](https://www.tiktok.com/@aianimalmiracles/video/7697295794772249877).
+- **2026-10-16**: At 18:19 UTC @jim.frner7 posts an AI body camera clip of a traffic stop: the officer knocks, the driver smiles, and the car lifts off in a cloud of vapour. It has 385,300 views by 18 October and becomes the police stop version of the meme. Source: [TikTok](https://www.tiktok.com/@jim.frner7/video/7697332031671373089).
 - **2026-10-17**: On TikTok, #teslaflyingcar holds 888 videos with 9.5 million views and #flyingtesla 680 videos with 7.4 million views.
 
 ## What the Flying Roadster AI video looks like
@@ -49,6 +51,15 @@ Made from the prompts on this page. The people and pets are AI-made, not real pe
 - **Example 4** (8 s, 9:16 MP4 with sound): The parking spot meme by @jude57181 on TikTok (16 October 2026, 7.7 million views by 17 October): a car is about to pull into the last empty space when a white flying car drops out of the sky on thrusters and takes it. The Parking spot version makes it with your own car.
   - Video: https://www.makeviral.ai/media/templates/flying-roadster-ai-trend/original-parking-v2.mp4
   - Poster: https://www.makeviral.ai/media/templates/flying-roadster-ai-trend/original-parking-v1.jpg
+- **Example 5** (15 s, 9:16 MP4 with sound): The police stop version by @jim.frner7 on TikTok (16 October 2026, 385,000 views by 18 October): on the officer's body camera, a gloved hand knocks on the window, the driver just smiles, and the car lifts off in a cloud of white vapour. Police stop makes it with your face and a red roadster.
+  - Video: https://www.makeviral.ai/media/templates/flying-roadster-ai-trend/original-police-v2.mp4
+  - Poster: https://www.makeviral.ai/media/templates/flying-roadster-ai-trend/original-police-v1.jpg
+- **Example 6** (10 s, 9:16 MP4 with sound): The tunnel wall clip by @aianimalmiracles on TikTok (16 October 2026): stuck in a tunnel jam, the white car in front turns up the curved wall, drives sideways along it and on across the ceiling. Tunnel wall does this with a photo of your car.
+  - Video: https://www.makeviral.ai/media/templates/flying-roadster-ai-trend/original-tunnel-v2.mp4
+  - Poster: https://www.makeviral.ai/media/templates/flying-roadster-ai-trend/original-tunnel-v1.jpg
+- **Example 7** (10 s, 9:16 MP4 with sound): A flying roadster over Paris by @withaistory on TikTok (16 October 2026): the car lifts out of a Paris traffic jam on its jets, hovers over the street and flies off over the roofs toward the Eiffel Tower. Shown without sound. Paris street does this with a photo of your car.
+  - Video: https://www.makeviral.ai/media/templates/flying-roadster-ai-trend/original-paris-v1.mp4
+  - Poster: https://www.makeviral.ai/media/templates/flying-roadster-ai-trend/original-paris-v1.jpg
 
 ## How to make the Flying Roadster AI video on MakeViral
 
@@ -184,15 +195,94 @@ Avoid: cuts, a different car, wings or propellers on the car, the sign's words c
 
 One-tap version of this variant: https://www.makeviral.ai/templates/flying-roadster-ai-trend/create?variant=plane
 
+#### Variant: Police stop
+
+Settings: 1 photo (you, face clear) · Seedance 2.5 · 10 s · 720p · 9:16 · with sound · 126 credits in one tap.
+
+1. The video prompt is filled in. Settings: Seedance 2.5, 10 s, 720p, 9:16, sound on. The video prompt:
+
+   ```text
+   Create a fictional vertical 9:16 nighttime police-stop comedy from a human-height bodycam-style view beside a stopped sleek red two-seat electric roadster. Match a sleek, low red two-seat body with a dark glass roof, a slim full-width red rear light and four attached wheels, with no badge, emblem or lettering. An adult officer's shoulder and black-gloved arm occupy one edge, and the adult driver is visible through the side window. Handheld, slightly shaky body camera footage, red and blue lights washing over the car, a dark empty road shoulder.
+THE DRIVER IS the person in [Image 1], with the same face, hair, age, build and clothes, in every shot: copy the exact face from [Image 1] (the face shape, eye color and eye shape, eyebrows, nose, mouth, skin tone, age, hair color, hair length and hairstyle, and any beard, moustache, glasses or freckles), so their friends recognize them at once. The face shows large and sharp through the open window. If [Image 1] shows an animal, the driver is that animal sitting upright at the wheel, with its own face, fur and markings.
+
+[00:00-00:02] Begin with the officer gently tapping the glass with a black-gloved knuckle.
+[00:02-00:05] The window slides down. The driver slowly turns and stares straight into the camera, then holds a completely deadpan look for two seconds.
+[00:05-00:07] The officer says: "Do you know how fast you were going?" The driver says nothing, gives a tiny smirk and presses a button on the dashboard.
+[00:07-00:10] A huge puff of white vapor bursts from under the car and swallows the camera, followed by a vertical lift: the car rises straight up above the empty shoulder and is gone into the night sky. The officer steps back and the camera tilts up in surprise.
+
+Keep the driver seated, the officer clear of the vehicle and the background stable. THE WHEELS NEVER CHANGE: four round, upright, normal tyres, never folding, turning flat or becoming thrusters.
+
+Sound: night road ambience, a crackle of a police radio, the knock on the glass, the officer's one line, a button click, a deep hiss and roar of thrusters, rushing wind. No music. Only the officer speaks.
+
+真人实拍、五官清晰、面部稳定、不扭曲、不变形、人体结构正常、比例自然、同一角色、服装一致、发型不变.
+
+No pursuit, weapons, collisions, injury, police insignia, badge text, patches, department names or any writing on the uniform or the patrol car, timestamps, fake evidence labels, captions or watermark. No badge or readable number plate on any car. This is staged AI parody with a deliberately absurd ending.
+   ```
+
+2. Press Generate, then download the 9:16 MP4.
+
+One-tap version of this variant: https://www.makeviral.ai/templates/flying-roadster-ai-trend/create?variant=police
+
+#### Variant: Tunnel wall
+
+Settings: 1 photo (your car, the whole car) · Seedance 2.5 · 10 s · 720p · 9:16 · with sound · 126 credits in one tap.
+
+1. The video prompt is filled in. Settings: Seedance 2.5, 10 s, 720p, 9:16, sound on. The video prompt:
+
+   ```text
+   Create a fictional vertical 9:16 tunnel-wall car video, filmed handheld through the windshield of a car stuck in the queue behind THE CAR, the top of our dashboard along the bottom of the frame. An oval tunnel with tiled walls and a row of warm lights along the top, a motionless queue of cars and a white van ahead.
+[00:00-00:03] Begin with THE CAR upright beside a motionless queue in the oval tunnel, right in front of us. Leave the curve from road to left sidewall clearly visible.
+[00:03-00:06] THE CAR turns toward that curve, then follows it upward until its tires rest against the sidewall and its roof faces the open tunnel interior. Hold that tilted wall-climbing position briefly so the orientation is readable.
+[00:06-00:10] THE CAR climbs on until it is inverted against the ceiling above the traffic jam: all four tires contact the ceiling; its roof faces downward toward the road. It drives forward along the ceiling while the normal cars remain upright and almost stationary below, and grows smaller down the tunnel. Preserve a visible gap between the inverted car roof and the traffic.
+Keep the traffic below upright, the tunnel lights fixed and the car dimensions consistent.
+
+THE CAR is the one in [Image 1], whatever it is (a car, an SUV, a pickup, a van or a sports car): copy it exactly from [Image 1] (the body shape and proportions, the paint color and finish, the grille shape, the headlights and taillights, the wheels and rims, the mirrors, spoilers, body kit, roof and every other part it has), so its owner knows it at once, in every shot: never a different or generic model, never repainted. The thrusters are small round nozzles under its floor; the rest of the car stays as in the photo. If [Image 1] shows people, leave them out: the windows are dark and there are no people anywhere.
+THE WHEELS NEVER CHANGE: four round, upright, normal tyres, never folding, turning flat or becoming thrusters.
+
+Sound: the hum of the tunnel and idling engines, tyres squealing on the tiles, then our driver's stunned voice off-screen: "What the... that car is driving on the wall!" No music.
+
+Avoid: levitation away from the wall, extra wheels, wings, robot parts, a camera orbit, rolling the whole scene, mirroring the road, floating wheels, morphing panels, cutting to a different car, the car changing colour or shape, collisions, injuries, people, faces. Vertical 9:16. No badges, emblems, brand names or lettering on any car or truck and no readable number plate, even if the photo shows them. No text, no captions, no logos, no watermark.
+   ```
+
+2. Press Generate, then download the 9:16 MP4.
+
+One-tap version of this variant: https://www.makeviral.ai/templates/flying-roadster-ai-trend/create?variant=tunnel
+
+#### Variant: Paris street
+
+Settings: 1 photo (your car, the whole car) · Seedance 2.5 · 10 s · 720p · 9:16 · with sound · 126 credits in one tap.
+
+1. The video prompt is filled in. Settings: Seedance 2.5, 10 s, 720p, 9:16, sound on. The video prompt:
+
+   ```text
+   Medium wide shot, eye level. The camera pans left. THE CAR from [Image 1] hovers above a Paris street using four jet nozzles under its floor. Passersby on the pavements film it with their smartphones. Classic Haussmann-style buildings are visible in the background: cream stone facades, black wrought-iron balconies, café awnings, a large iron lattice tower far away at the end of the avenue.
+[00:00-00:06] THE CAR hovers a few metres above the street, gently bobbing, the four jets blasting down and white smoke rolling over the cobbles, while the people hold up their phones, point and cheer.
+[00:06-00:10] THE CAR tilts its nose forward, rises above the roofs and flies off down the avenue toward the iron tower, NOSE FIRST, AWAY from the camera, its jets glowing.
+
+THE CAR is the one in [Image 1], whatever it is (a car, an SUV, a pickup, a van or a sports car): copy it exactly from [Image 1] (the body shape and proportions, the paint color and finish, the grille shape, the headlights and taillights, the wheels and rims, the mirrors, spoilers, body kit, roof and every other part it has), so its owner knows it at once, in every frame: never a different or generic model, never repainted. The jet nozzles are small and round, under its floor; the rest of the car stays as in the photo. If [Image 1] shows people, leave them out: its windows are dark.
+THE WHEELS NEVER CHANGE: four round, upright, normal tyres, never folding, turning flat or becoming thrusters.
+
+Background music: none. Sound effects: a high-pitched jet hiss, huge cheers and gasps from the crowd. Narration: none.
+
+Summary: a realistic video of a flying sports car on a Paris street. The handheld camera work and realistic smoke create a highly viral "found-footage" style. The audio is dominated by the mechanical turbine sound and the crowd's excited reactions.
+
+Avoid: the car flying backward, the car hitting anything, a different car, the car changing colour or shape, wings or propellers, people close to the car, faces in close-up, morphing, distortion. Vertical 9:16. No badges, emblems, brand names or lettering on any car or truck and no readable number plate, even if the photo shows them. No text, no captions, no logos, no watermark.
+   ```
+
+2. Press Generate, then download the 9:16 MP4.
+
+One-tap version of this variant: https://www.makeviral.ai/templates/flying-roadster-ai-trend/create?variant=paris
+
 ### Which photo works best?
 
-Upload **one selfie** for Selfie, **one photo of any vehicle** for Ramp flip, **two photos** for Your car (you first, then your car), **one car photo** for Parking spot, or **two photos** for Plane window (you, then your partner).
+Upload **one selfie** for Selfie, **one photo of any vehicle** for Ramp flip, **two photos** for Your car (you first, then your car), **one car photo** for Parking spot, **two photos** for Plane window (you, then your partner), **one selfie** for Police stop, or **one car photo** for Tunnel wall or Paris street.
 
 - **Face to the camera, sharp and well lit, no sunglasses.** Your face shows large in the first shot, through the open car window, so make it a clear one.
 - **Head and shoulders or waist up** works best. You keep the clothes from your photo.
 - **One person per photo,** so the AI picks the right face.
 - **The car photo:** the whole vehicle in daylight, from the back or a back corner, because the boosters fire under the rear bumper. Any car, truck or van works. Badges and number plates come out blank.
-- **Parking spot:** just the whole car, sharp, in daylight, best from the side. No person needed.
+- **Parking spot, Tunnel wall and Paris street:** just the whole car, sharp, in daylight, best from the side or a back corner. No person needed.
+- **Police stop:** a face photo, like Selfie. The face shows through the open car window, so look at the camera.
 - **Ramp flip:** the whole vehicle, sharp and well lit, from any angle. A car, truck, van, bus or motorbike works; a rider on it stays on it.
 - Use your own photo, or one of a friend who said yes. Never a celebrity or a stranger.
 
@@ -218,15 +308,18 @@ The AI builds the whole scene from your photo, in three shots:
 
 **How it works:** Seedance 2.5 makes the clip straight from your photo, with no in-between picture, so your face stays yours. You get 10 seconds at 720p, vertical, with the model's own sound: traffic, horns, the button click, the rocket blast, the landing. There is no music, so you can add a sound when you post. The exact price shows on the Generate button before you spend anything, and every run is a new take.
 
-## Which flying car video should you make: Selfie, Ramp flip, Your car, Parking spot or Plane window?
+## Which of the eight flying car videos should you make?
 
 - **Selfie** (1 photo): you drive a sleek white two-seat sports car with a dark glass roof and no badge. It is the look of the first AI clips of the flying Tesla car, without any brand on the car.
 - **Ramp flip** (1 photo of any vehicle): the real footage of the Roadster ramp, the most viewed clip of the event, with your vehicle in place of the Tesla. It waits at the foot of the giant curved ramp, climbs it, hangs upside down at the top, drops off, flips on thrusters and lands in smoke. 13 seconds, with the event's own sound.
 - **Your car** (2 photos): photo 1 is you, photo 2 is your car. Your own car gets the boosters and flies over the traffic: the make my car fly AI version. It works with a car, a truck or a van; badges, lettering and number plates come out blank on purpose.
 - **Parking spot** (1 photo of your car): the Roadster stole my parking spot meme. Seen from high above a parking lot at night, another car is about to pull into the last empty space when your car drops out of the sky on blue thrusters and takes it in a cloud of smoke.
 - **Plane window** (2 photos: you, then your partner): the "I wasn't finished talking" meme. You sit at a plane window, and your partner flies up beside it in a red sports car, holding a big cardboard sign that says "I WASN'T FINISHED TALKING".
+- **Police stop** (1 photo of you): the Tesla Roadster police stop meme. At night, on the officer's body camera, a gloved hand knocks on the window of your sleek red roadster. You turn and stare into the lens, the officer asks "Do you know how fast you were going?", and white vapour swallows the camera as the car lifts straight up into the night sky.
+- **Tunnel wall** (1 photo of your car): the car driving on tunnel wall clip. Seen through the windshield of the car behind, your car leaves a stuck tunnel jam, turns up the curved wall and drives on upside down along the ceiling, while a stunned voice says "that car is driving on the wall!"
+- **Paris street** (1 photo of your car): the flying car Paris version. Your car hovers above a Paris street on four jets while people on the pavements film it with their phones, then it flies off over the roofs toward the iron tower.
 
-Ramp flip costs a little more and can take up to 20 minutes, because it swaps your vehicle into 13 seconds of real footage; the other four cost the same and take the same time. A pet photo in the first slot can work too: the prompt sits the animal upright at the wheel, but results vary more.
+Ramp flip costs a little more and can take up to 20 minutes, because it swaps your vehicle into 13 seconds of real footage; the other seven cost the same and take the same time. A pet photo in the first slot can work too: the prompt sits the animal upright at the wheel, but results vary more.
 
 ## What goes wrong, and how do you fix it?
 
@@ -240,6 +333,8 @@ Ramp flip costs a little more and can take up to 20 minutes, because it swaps yo
 | Your car lands across two spaces (Parking spot) | Run it again. A photo of the whole car from the side helps. |
 | A letter on the sign is wrong (Plane window) | The AI draws the sign. Run it again. |
 | The white car stays in a shot (Ramp flip) | The car is small in the wide shot. Use a sharp photo of the whole vehicle and run it again. |
+| The officer's line is missing or the driver says it (Police stop) | The AI makes the speech. Run it again, or add the line as a caption when you post. |
+| The car leaves the wall or falls off the ceiling (Tunnel wall) | The prompt keeps all four tyres on the wall and the ceiling, but it can happen. Run it again. |
 | The model refuses a photo | Some photos get refused. The credits come back; try another photo. |
 
 ## Which caption and hashtags fit the flying Tesla Roadster meme?
@@ -262,11 +357,11 @@ Both exist. Tesla's own demo footage from McGregor, Texas, is real: Snopes check
 
 ### How do I make a Tesla Roadster AI video with my photo?
 
-Pick a version (Selfie, Ramp flip, Your car, Parking spot or Plane window), press "Create your own" and add the photos it asks for. Press Generate; the button shows the price first. You get a vertical flying car AI video with sound (10 seconds, 13 for Ramp flip), and it waits in your Library when it is ready. You need no separate Tesla Roadster AI video generator or AI car video generator: this page makes the clip.
+Pick a version (Selfie, Ramp flip, Your car, Parking spot, Plane window, Police stop, Tunnel wall or Paris street), press "Create your own" and add the photos it asks for. Press Generate; the button shows the price first. You get a vertical flying car AI video with sound (10 seconds, 13 for Ramp flip), and it waits in your Library when it is ready. You need no separate Tesla Roadster AI video generator or AI car video generator: this page makes the clip.
 
 ### Can I make my car fly with AI?
 
-Yes. Make my car fly AI is the Your car version: add a selfie and a photo of your own car, and your car gets the rocket boosters and flies over the traffic. With only a photo of your car, pick Ramp flip or Parking spot. In Your car and Parking spot, badges and number plates come out blank.
+Yes. Make my car fly AI is the Your car version: add a selfie and a photo of your own car, and your car gets the rocket boosters and flies over the traffic. With only a photo of your car, pick Ramp flip, Parking spot, Tunnel wall or Paris street. In those made from your photos, badges and number plates come out blank.
 
 ### Can I make the Tesla Roadster ramp and flip with a photo of my car?
 
@@ -283,6 +378,18 @@ It is the flying car parking meme from 16 October 2026: a driver is about to tak
 ### What is the "I wasn't finished talking" plane meme?
 
 It is a flying car joke: you leave on a plane, and your partner catches up in a flying car, right outside your window, with a sign that says "I wasn't finished talking". Some people search it as the I wasn't done talking meme. The Plane window version makes the I wasn't finished talking meme from two photos, you and your partner, with a red sports car at the plane window instead of a Tesla Roadster.
+
+### What is the Tesla Roadster police stop meme?
+
+It is the night traffic stop version of the flying car meme. An officer knocks on the window, the driver says nothing, and the car lifts off in a cloud of white vapour: you cannot get pulled over if your car flies. The first popular clip is an AI body camera clip by @jim.frner7 from 16 October 2026 (385,000 views by 18 October). Police stop makes it with your face, a red roadster and the officer's line "Do you know how fast you were going?", the line people know from the do you know how fast you were going meme. It shows no real police department, badge or patch, and it has no chase. If you searched for the Tesla Roadster police chase or the flying car police chase clips, this is the calm version: one stop, one lift-off.
+
+### Can my car drive on the tunnel wall like in the Tesla Roadster tunnel clip?
+
+Yes, with Tunnel wall: add one photo of your car. The AI clip by @aianimalmiracles (16 October 2026) showed the car in front of a tunnel jam driving up the wall, "Tesla Roadster owners will be driving on the walls". Tunnel wall makes the car driving on ceiling joke with your own car: it turns up the curved wall, drives sideways along it and on along the roof of the tunnel, upside down above the stuck traffic. It is the car drives on wall and ceiling idea people ask about, and the car driving on roof of tunnel myth, as an AI effect only.
+
+### Is there a flying Tesla Paris version?
+
+Yes. Some template sites added a flying car Paris scene, and Paris street is our version: your car hovers above a Paris street on four jets while people film it with their phones, then flies off toward the Eiffel Tower. Add one photo of your car. The earliest AI clip of a Tesla Roadster in Paris we found is by @withaistory (16 October 2026); it is on this page without its music. The clip shows your own car, not the Tesla.
 
 ### What prompt does the flying Roadster AI trend use?
 
@@ -306,7 +413,7 @@ Yes. The flying Roadster posts on TikTok started on 16 October 2026, and the Tes
 
 ### Is MakeViral made by Tesla, and does the car have the Tesla logo?
 
-No. MakeViral is not linked to Tesla. The flying Roadster Tesla showed in Texas is a real prototype; the trend's name uses its words, but the clips made from your photos show a generic white sports car with no badge, and those prompts ask for no logos or lettering on any car. Ramp flip uses Tesla's public demo footage as the scene and swaps your own vehicle in, so the Roadster leaves the shot.
+No. MakeViral is not linked to Tesla. The flying Roadster Tesla showed in Texas is a real prototype; the trend's name uses its words, but the clips made from your photos show a generic white or red sports car, or your own car, with no badge, and those prompts ask for no logos or lettering on any car. Ramp flip uses Tesla's public demo footage as the scene and swaps your own vehicle in, so the Roadster leaves the shot.
 
 ### Can I use a photo of my pet?
 
@@ -328,7 +435,7 @@ No. Use your own photo, or a friend who said yes. Never a celebrity or a strange
 
 - [Car Jump AI Video: A Truck Flies Over You, You Stay Calm](https://www.makeviral.ai/templates/ai-car-jump-trend): You sit in a folding camp chair with your legs crossed, raise one fist, and a black pickup flies over the field behind you and lands at your back. You never turn around. Add a selfie, or a selfie and a photo of your own car.
 - [Venom Car Trend: Black Liquid Builds Your Car](https://www.makeviral.ai/templates/venom-car-ai-trend): Add one photo of your car. A glossy black living liquid crawls across a dark underground car park, builds the engine and chassis, flows into the body, and your own car stands there with its headlights on. 10 or 20 seconds, with sound.
-- [24 Unforgettable Car Trend AI: Flick the 2 and 4, Reveal Your Car](https://www.makeviral.ai/templates/unforgettable-car-trend-ai): You walk up to the camera, hold up a 2 and a 4, flick both cards at the lens, and a sports car is parked behind you. One photo, add a photo of the car you want, or swap the car for a private jet. 10 to 14 seconds, with the song from the viral clips.
+- [24 Unforgettable Car Trend AI: Flick the 2 and 4, Reveal Your Car](https://www.makeviral.ai/templates/unforgettable-car-trend-ai): You walk up to the camera, hold up a 2 and a 4, flick both cards at the lens, and a sports car is parked behind you. One photo, add a photo of the car you want, swap the car for a private jet, or make the car backflip on thrusters. 10 to 14 seconds, with the song from the viral clips.
 - [AI TikTok Video](https://www.makeviral.ai/tools/ai-tiktok-video-generator): Eight native TikTok formats, one prompt or product URL, a finished 9:16 video with captions burned in.
 - [AI Reels](https://www.makeviral.ai/tools/ai-reels-generator): Pick a format, give it a topic or a product link, and get a finished vertical reel with voice and captions. Nothing to film, nothing to edit.
 - [AI photo generator](https://www.makeviral.ai/ai-photo-generator)

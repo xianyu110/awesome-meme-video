@@ -346,7 +346,7 @@ def write_template(item: dict) -> Path:
 
 
 def sort_key(item: dict):
-    d = item.get('updated') or item.get('published') or item.get('scraped_at') or '1970-01-01'
+    d = item.get('published') or item.get('updated') or '0000-00-00'
     return (str(d)[:10], item.get('slug') or '')
 
 
@@ -414,7 +414,7 @@ def merge_into_inventory(kavel_items: list[dict], kavel_sync: dict) -> dict:
         'generated_at': SCRAPE_DATE,
         'generated_at_iso': SCRAPE_ISO,
         'sorted_by': inv.get('sorted_by')
-        or 'updated || published || scraped_at (newest first); Asia/Shanghai scrape clock',
+        or 'published || updated (newest first); undated=unknown; never scraped_at',
         'sources': sources,
         'templates': all_items,
     }

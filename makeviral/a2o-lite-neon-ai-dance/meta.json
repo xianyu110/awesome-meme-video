@@ -34,7 +34,7 @@
       "label": "1. The video prompt is filled in. Settings: h3-recast, 15 s, 720p, 9:16, sound off. The video prompt",
       "variant": "Pet",
       "kind": "video_prompt",
-      "text": "Image 1 replaces the white cat with grey tabby patches who dances upright on the left, in every shot. Image 2 replaces the fluffy long-haired ginger cat who dances upright on the right, in every shot. Use image 1 and image 2 as the appearance references for the two performers in the dance: keep each pet's face, ears, fur colors, fur length, markings, body proportions and screen position consistent; do not swap roles or merge identities. SAME IDENTITY. FIXED POSITIONS. NO ROLE SWAP. NO DUPLICATE. No grey tabby patches and no long ginger fur unless that pet's own image shows them. Each pet keeps the natural body volume and proportions of its own animal: never flattened, squashed, stretched or merged with anything, with real furry paws, never human hands. If an image shows a dog or another animal, that animal takes the same place, standing upright on its hind legs and doing the same moves. Keep the plain lavender studio, the light, the dance moves, the paw moves, the motion and the camera exactly as in the video. Avoid extra animals, extra legs, foot sliding and background drift."
+      "text": "Image 1 replaces the cat who dances upright on the left, in every shot. Image 2 replaces the cat who dances upright on the right, in every shot. Use image 1 and image 2 as the appearance references for the two performers in the dance: keep each pet's face shape, ears, fur colors, fur length, markings, body proportions and screen position consistent; do not swap roles or merge identities. SAME IDENTITY. FIXED POSITIONS. NO ROLE SWAP. NO DUPLICATE. Each pet keeps its own head shape, ears, fur length and coat from its own image, not those of the cats in the video. Each pet keeps the natural body volume and proportions of its own animal: never flattened, squashed, stretched or merged with anything, with real furry paws, never human hands. If an image shows a dog or another animal, that animal takes the same place, standing upright on its hind legs and doing the same moves. Keep the plain lavender studio, the light, the dance moves, the paw moves, the motion and the camera exactly as in the video. Avoid extra animals, extra legs, foot sliding and background drift."
     }
   ],
   "variant_headings": [
@@ -55,5 +55,5 @@
     "Make your own NEON Duo Dance video"
   ],
   "prompt_count": 3,
-  "scraped_at": "2026-10-19"
+  "scraped_at": "2026-10-21"
 }

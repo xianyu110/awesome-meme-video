@@ -1,0 +1,33 @@
+# Perdon Trend: The Perfect AI Photo of You, Then "Perdón"
+
+- Source: [makeviral](https://www.makeviral.ai/templates/perdon-ai-photo-trend)
+- Slug: `perdon-ai-photo-trend`
+
+The perdon trend is the TikTok AI vs reality photo trend: first a perfect AI photo of you ("esta soy yo"), then the real photo with the word "perdón" (sorry).
+
+## Demo videos (CDN)
+
+- https://www.makeviral.ai/media/templates/perdon-ai-photo-trend/original-pet-v2.mp4
+
+## Posters
+
+- https://www.makeviral.ai/media/templates/perdon-ai-photo-trend/original-pet-v1.jpg
+
+## Prompts
+
+### 1. Prompt 1
+
+*Kind: prompt*
+
+```text
+Use the uploaded image as the base. Make the perfect, idealized AI version of this exact photo, the "this is me" first slide of an AI vs reality photo post: the same person, the same pose, the same moment and the same camera angle, but everything a little too perfect. Upgrade only these things, like an AI photo edit that went a little too far: the place becomes the dream version of where the photo was taken (a plain room becomes a bright luxury living room with marble, fresh white flowers and warm lamps; a local court, field or gym becomes a big modern stadium full of cheering fans under bright lights; a street becomes a stylish city street at golden hour; a beach becomes a perfect sunny beach with turquoise water; a kitchen or dining table becomes an elegant restaurant table); the light becomes soft, warm, flattering photo-shoot light with a gently blurred background; the image is sharp, clean and polished, like a professional photographer's shot. The hair is freshly styled at a salon, glossy and neat, in its own color and its own length. The clothes become a clean, ironed, stylish version of the same outfit in the same colors. The skin looks rested and fresh; if the photo shows makeup, it is neat. The expression stays the same, relaxed and photogenic. Keep the body shape and body size exactly as in the photo: never slimmer, curvier, taller or more muscular. Keep the age. Exactly one person: nobody added, nobody removed; a pet in the photo stays, groomed and fluffy. Any logo, crest, brand name or writing on the clothes or in the place becomes plain. Vertical 9:16; if the photo is wider, extend the dream place naturally. Photorealistic, so people believe it for a second. No text, no captions, no stickers, no logos, no watermark, no frame.
+```
+
+### 2. Prompt 2 (Pet)
+
+*Kind: prompt*
+
+```text
+Use the uploaded image as the base. Make the perfect, idealized AI version of this exact pet photo, the "this is my princess" first slide of an AI vs reality pet post: the same pet, the same pose and the same camera angle, but everything a little too perfect, like a professional pet photo shoot. The pet keeps its own species, breed look, face, eyes, ears, muzzle, fur colors and markings, and the natural body volume and proportions of that animal, never flattened, stretched or swapped for another breed, but looks its very best: freshly groomed, fluffy, glossy and clean fur, bright happy eyes, a small pastel bow or a neat collar. The place becomes the dream version: a soft velvet cushion on a cream sofa in a bright luxury living room with fresh white flowers and warm lamps (if the photo is outdoors, a perfect green garden at golden hour). Soft, warm photo-shoot light with a gently blurred background. Exactly the pets of the photo: none added, none removed, and no people added. Any logo, crest, brand name or writing on the clothes or in the place becomes plain. Vertical 9:16; if the photo is wider, extend the dream place naturally. Photorealistic, so people believe it for a second. No text, no captions, no stickers, no logos, no watermark, no frame.
+```
+

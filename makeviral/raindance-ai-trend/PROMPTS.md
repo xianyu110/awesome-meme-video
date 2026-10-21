@@ -46,6 +46,6 @@ Anatomy rules: one head per person, on that person's own shoulders. A face never
 *Kind: video_prompt*
 
 ```text
-Image 1 replaces the fluffy grey tabby cat who sits at the end of the wooden pier and looks out to sea, in every shot. Image 2 replaces the ginger cat who walks up the pier and sings to the camera, in every shot, with no leash and no strap. Keep the face, fur colors and markings from each image. Keep the pier, the sea, the beach, the light, the motion, the mouth movement and the camera exactly as in the video.
+Image 1 replaces the cat who sits at the end of the wooden pier and looks out to sea, in every shot. Image 2 replaces the cat who walks up the pier and sings to the camera, in every shot, with no leash and no strap. Keep the face shape, ears, fur colors, fur length and markings from each image, not those of the cats in the video. Keep the pier, the sea, the beach, the light, the motion, the mouth movement and the camera exactly as in the video.
 ```
 

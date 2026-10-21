@@ -60,7 +60,7 @@ def main(kind: str):
     ok = fail = 0
     log = []
     for i, (src, slug, url) in enumerate(rows, 1):
-        out_dir = ROOT / ('makeviral' if src=='makeviral' else 'remakeyourmeme') / slug / ('demos' if kind=='videos' else 'posters')
+        out_dir = ROOT / src / slug / ('demos' if kind=='videos' else 'posters')
         name = filename_from_url(url)
         dest = out_dir / name
         success, info = download(url, dest)

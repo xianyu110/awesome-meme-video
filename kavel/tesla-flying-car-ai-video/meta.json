@@ -8,8 +8,8 @@
   "blurb": "One photo of your car in: it fires jet thrusters in traffic and flies over the jam.",
   "published": null,
   "updated": null,
-  "scraped_at": "2026-10-19",
-  "listing_index": 16,
+  "scraped_at": "2026-10-21",
+  "listing_index": 30,
   "this_week_rank": null,
   "demo_videos": [
     "https://cdn.kavel.ai/videos/kavel-showcase/tesla-flying-car-camaro.mp4",
@@ -26,5 +26,5 @@
   "prompt_count": 0,
   "prompts_public": false,
   "note": "No public prompt text found on Kavel page payload; demos/posters only — prompts not invented.",
-  "showcase_count": 3
+  "showcase_count": 2
 }

@@ -8,8 +8,8 @@
   "blurb": "One photo in: you swagger down a Harlem park path, rapping into the camera like the album just dropped.",
   "published": null,
   "updated": null,
-  "scraped_at": "2026-10-19",
-  "listing_index": 21,
+  "scraped_at": "2026-10-21",
+  "listing_index": 35,
   "this_week_rank": null,
   "demo_videos": [
     "https://cdn.kavel.ai/videos/kavel-showcase/fergie-walk-denim.mp4",
@@ -45,5 +45,5 @@
   "prompt_count": 3,
   "prompts_public": true,
   "note": null,
-  "showcase_count": 3
+  "showcase_count": 2
 }

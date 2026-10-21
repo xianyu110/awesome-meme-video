@@ -1,0 +1,67 @@
+{
+  "source": "kavel",
+  "source_site": "https://www.kavel.ai",
+  "slug": "abra-kadabra-ai",
+  "name": "Abra Kadabra AI Video",
+  "url": "https://www.kavel.ai/video/abra-kadabra-ai",
+  "listing_url": "https://www.kavel.ai/ai-video-trends",
+  "blurb": "Two photos in: you dance alone, snap, and your friend, partner or pet is suddenly beside you, then you dance it together.",
+  "published": null,
+  "updated": null,
+  "scraped_at": "2026-10-21",
+  "listing_index": 5,
+  "this_week_rank": null,
+  "demo_videos": [
+    "https://cdn.kavel.ai/videos/kavel-showcase/abra-kadabra-twin-snap.mp4",
+    "https://cdn.kavel.ai/videos/kavel-showcase/abra-kadabra-twins-milan.mp4",
+    "https://cdn.kavel.ai/videos/kavel-showcase/abra-kadabra-airport-duo.mp4",
+    "https://cdn.kavel.ai/videos/kavel-showcase/abra-kadabra-dog-snap.mp4",
+    "https://cdn.kavel.ai/videos/kavel-showcase/abra-kadabra-brothers-appear.mp4",
+    "https://cdn.kavel.ai/videos/kavel-showcase/abra-kadabra-snap-swap.mp4"
+  ],
+  "posters": [
+    "https://cdn.kavel.ai/posters/kavel-showcase/abra-kadabra-twin-snap-poster.webp",
+    "https://cdn.kavel.ai/posters/kavel-showcase/abra-kadabra-twin-snap-poster-thumb-240.webp",
+    "https://cdn.kavel.ai/posters/kavel-showcase/abra-kadabra-twins-milan-poster.webp",
+    "https://cdn.kavel.ai/posters/kavel-showcase/abra-kadabra-airport-duo-poster.webp",
+    "https://cdn.kavel.ai/posters/kavel-showcase/abra-kadabra-dog-snap-poster.webp",
+    "https://cdn.kavel.ai/posters/kavel-showcase/abra-kadabra-brothers-appear-poster.webp",
+    "https://cdn.kavel.ai/posters/kavel-showcase/abra-kadabra-snap-swap-poster.webp"
+  ],
+  "prompts": [
+    {
+      "label": "Abra Kadabra AI trend â the sister in sunglasses",
+      "variant": "abra-kadabra-twins-milan",
+      "kind": "video_prompt",
+      "text": "Two reference photos, the FIRST is the one who dances first, the SECOND is the one who appears; keep both faces, hair and outfits exactly as photographed and never swap them. A grand shopping arcade with a glass roof and painted domes, crowds walking past, phone on a tripod, full body, vertical 9:16, one continuous shot. (1) The first one dances alone, arms up over the head, then a few loose funk steps, the spot beside them empty. (2) On the beat the second one walks into the empty spot, sunglasses on, and slots straight into the dance. (3) The two of them do the same routine side by side, hands to the chest, hip sways, and finish facing the camera. Audio: an original Brazilian funk beat with a chanted hook. No text, no logos, no watermark."
+    },
+    {
+      "label": "Abra Kadabra AI trend â the friend at arrivals",
+      "variant": "abra-kadabra-airport-duo",
+      "kind": "video_prompt",
+      "text": "Two reference photos, the FIRST is the one who dances first, the SECOND is the one who appears; keep both faces, hair and outfits exactly as photographed and never swap them. A wide, bright airport hall with a wooden slatted ceiling and tiled floor, travellers in the distance, phone on a tripod, knees up, vertical 9:16, one continuous shot. (1) The first one sells the moves alone, hands out, leaning toward the lens, the space beside them empty. (2) On the beat the second one slides in from the side and lands right at their shoulder. (3) They hit the routine together in sync, then the second one leans into the camera with a grin. Audio: an original Brazilian funk beat with a chanted hook. No text, no readable signs, no logos, no watermark."
+    },
+    {
+      "label": "Abra Kadabra AI trend â the dog on the snap",
+      "variant": "abra-kadabra-dog-snap",
+      "kind": "video_prompt",
+      "text": "Two reference photos: the FIRST is the person who dances and snaps, the SECOND is the pet who appears; keep the person's face, hair and build exactly as photographed and the pet's exact fur, markings and face. A home corner with a black pull-up tower and grey walls, phone on a tripod at chest height, vertical 9:16, one continuous shot. (1) The person dances a few cheeky funk steps alone, the floor beside them empty. (2) A snap on the beat, and on the very next frame the pet is sitting right beside them. (3) The pet jumps up with its front paws on their arm and they bounce to the beat together, the person grinning at the camera. Real animal anatomy and movement. Audio: an original Brazilian funk beat with a chanted hook, a snap and a happy bark. No text, no logos, no watermark."
+    },
+    {
+      "label": "Abra Kadabra AI trend â the brother who drops in",
+      "variant": "abra-kadabra-brothers-appear",
+      "kind": "video_prompt",
+      "text": "Two reference photos, the FIRST is the one who dances first, the SECOND is the one who appears; keep both faces, hair and outfits exactly as photographed and never swap them. A bedroom at night lit purple and warm orange, phone propped up at chest height, vertical 9:16, one continuous shot. (1) The first one waves both hands at the empty space beside them, eyebrows up, like a magician. (2) On the beat the second one drops into that space. (3) They do the arm moves together in sync, crossing arms, flicking wrists, and laugh at the camera. Audio: an original Brazilian funk beat with a chanted hook. No text, no logos, no watermark."
+    },
+    {
+      "label": "Abra Kadabra AI trend â the swap",
+      "variant": "abra-kadabra-snap-swap",
+      "kind": "video_prompt",
+      "text": "Two reference photos, the FIRST is the one who snaps, the SECOND is the one who takes their place; keep both faces, hair and outfits exactly as photographed and never swap them. A bedroom in front of a white wardrobe, phone held at face height, vertical 9:16. (1) The first one talks to the camera, then raises a hand and snaps on the beat. (2) On the very next frame the second one is standing in exactly the same spot, same framing. (3) The second one shrugs, waves a hand at the camera and dances a few steps to the beat. Audio: an original Brazilian funk beat with a chanted hook and a crisp snap. No text, no logos, no watermark."
+    }
+  ],
+  "prompt_count": 5,
+  "prompts_public": true,
+  "note": null,
+  "showcase_count": 5
+}

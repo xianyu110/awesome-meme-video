@@ -8,8 +8,8 @@
   "blurb": "One product photo in: a 12-second vertical Black Friday promo with the gold reveal, the gift-box burst or the shop window.",
   "published": null,
   "updated": null,
-  "scraped_at": "2026-10-19",
-  "listing_index": 6,
+  "scraped_at": "2026-10-21",
+  "listing_index": 20,
   "this_week_rank": null,
   "demo_videos": [
     "https://cdn.kavel.ai/videos/kavel-showcase/black-friday-soap-gift-box-promo.mp4",
@@ -33,5 +33,5 @@
   "prompt_count": 1,
   "prompts_public": true,
   "note": null,
-  "showcase_count": 3
+  "showcase_count": 2
 }

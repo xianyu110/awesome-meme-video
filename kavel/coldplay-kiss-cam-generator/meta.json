@@ -8,8 +8,8 @@
   "blurb": "One photo of you two in: the stadium screen finds you mid-hug, and you both dive out of the shot.",
   "published": null,
   "updated": null,
-  "scraped_at": "2026-10-19",
-  "listing_index": 1,
+  "scraped_at": "2026-10-21",
+  "listing_index": 15,
   "this_week_rank": null,
   "demo_videos": [
     "https://cdn.kavel.ai/videos/kavel-showcase/coldplay-kiss-cam-glasses-duck.mp4",
@@ -24,12 +24,6 @@
   ],
   "prompts": [
     {
-      "label": "Coldplay kiss cam generator â the stadium dive",
-      "variant": "coldplay-kiss-cam-glasses-duck",
-      "kind": "video_prompt",
-      "text": "Use the photo: the two people in it are the couple; keep both faces, hair, skin tones, builds and outfits exactly as photographed (if two photos are given, one person from each). A stadium concert at night, filmed on a phone from the crowd, vertical 9:16, handheld. A rig of bright bulb lights hangs above a giant circular screen showing the kiss cam: the couple at the railing of a box seat. (1) One stands behind the other with both arms wrapped around them, both smiling and swaying to the music. (2) They catch sight of themselves on the screen: the one behind drops straight down out of sight below the railing, the one in front turns their back to the camera and walks a step away. (3) The camera stays on the empty railing and the turned back while hands in the crowd wave and people laugh. Audio: crowd roar, a soft original live ballad with no recognisable song, a loud 'ooooh'. No text, no band, no logos, no watermark."
-    },
-    {
       "label": "Coldplay kiss cam generator â the arena face-palm",
       "variant": "coldplay-kiss-cam-stadium-duck",
       "kind": "video_prompt",
@@ -42,8 +36,8 @@
       "text": "Use the photo: keep both people exactly as photographed, same faces, hair, skin tones and outfits (if two photos are given, one person from each). A busy family restaurant in daytime with long tables, string flags and a big screen on the wall, filmed on a phone from a table, vertical 9:16, handheld. The big screen plays a live kiss cam with a heart-shaped frame. (1) The screen cuts to the two people from the photo sitting at a table among the other diners, both laughing at something. (2) They look up, see themselves on the screen, and one slides down in the chair to hide behind a menu while the other points at a stranger at the next table as if to say 'not us'. (3) Kids at the nearby tables laugh and point at the screen. Audio: restaurant chatter, cutlery, a cheerful original jingle from the speakers, laughter. No text, no readable signs, no logos, no brand names, no watermark."
     }
   ],
-  "prompt_count": 3,
+  "prompt_count": 2,
   "prompts_public": true,
   "note": null,
-  "showcase_count": 3
+  "showcase_count": 2
 }

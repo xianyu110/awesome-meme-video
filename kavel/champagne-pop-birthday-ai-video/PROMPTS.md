@@ -31,15 +31,7 @@ One photo in: you pop the bottle, the spray shoots up and the frame freezes with
 Use the photo as the main character and keep them exactly as photographed: same face, hair, skin tone, body shape and outfit. They sit on a wooden bench on a green lawn in front of a tall dark hedge, holding a plain dark green champagne bottle with gold foil and no label. (1) They shake the bottle and thumb the cork off with a loud pop; (2) a tall jet of white champagne foam shoots straight up above their head while they lean back and laugh; (3) at the very top of the spray the picture freezes and turns black and white, tiny white sparkles drift down, and the words "Happy Birthday" appear in flowing white handwritten script across the top of the frame; (4) colour comes back and the champagne rains down around them as they raise the bottle. Phone camera on a tripod, full body in frame, one continuous shot, vertical 9:16. Upbeat party beat and the pop of the cork in the audio, no vocals. No other text, no brand names or logos on the bottle, no watermark.
 ```
 
-### 2. Birthday champagne AI video â the garden bench — champagne-pop-birthday-garden-bench
-
-*Kind: video_prompt*
-
-```text
-Use the photo as the main character and keep them exactly as photographed: same face, hair, skin tone, body shape and outfit. They sit cross-legged on a wooden garden bench on a mown lawn, a tall dark green cypress hedge behind, a plain dark green champagne bottle with gold foil and no label on the bench beside them. (1) They pick up the bottle, shake it and pop the cork; (2) a tall jet of white foam shoots straight up beside them as they lean away and laugh; (3) at the top of the spray the picture freezes and turns black and white, tiny sparkles drift down, and "Happy Birthday" appears in white handwritten script with "to me" in yellow script beneath it, near the top of the frame; (4) colour comes back and the last of the spray falls onto the grass. Daylight, phone on a tripod, full body in frame, one continuous shot, vertical 9:16. Upbeat party beat and the pop of the cork in the audio, no vocals. No other text, no brand names or logos on the bottle, no watermark.
-```
-
-### 3. Birthday champagne AI video â the park bench at night — champagne-pop-birthday-park-night
+### 2. Birthday champagne AI video â the park bench at night — champagne-pop-birthday-park-night
 
 *Kind: video_prompt*
 
@@ -47,7 +39,7 @@ Use the photo as the main character and keep them exactly as photographed: same 
 Use the photo as the main character and keep them exactly as photographed: same face, hair, skin tone, body shape and outfit. They sit on a wooden park bench at night, hedges and warm street lamps behind, a plain dark champagne bottle with no label in one hand. (1) They pop the cork and throw their free arm up in the air; (2) a jet of white foam bursts straight up out of the bottle; (3) at the top of the spray the picture freezes and turns black and white, white sparkles fall like snow, and "HAPPY BIRTHDAY" appears in red outlined capital letters with two small gold sparkles above it, near the top of the frame; (4) colour comes back and they laugh, leaning back on the bench. Night, phone on a tripod, full body in frame, one continuous shot, vertical 9:16. Upbeat party beat and the pop of the cork in the audio, no vocals. No other text, no brand names or logos on the bottle, no watermark.
 ```
 
-### 4. Birthday champagne AI video â the city ledge — champagne-pop-birthday-city-ledge
+### 3. Birthday champagne AI video â the city ledge — champagne-pop-birthday-city-ledge
 
 *Kind: video_prompt*
 

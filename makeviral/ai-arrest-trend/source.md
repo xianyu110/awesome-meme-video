@@ -239,9 +239,9 @@ Yes. Each video costs credits, and the create page shows the exact price on the 
 
 ## Other AI video templates and tools
 
-- [AI Airport Celebrity Video: Walk Out of Arrivals Like a Star](https://www.makeviral.ai/templates/ai-airport-star-arrival): Fans behind the barriers, phones up, flashes going off, bodyguards clearing your path: you walk out of the arrival gate as a star, wave to a fan and get into a waiting car. One photo of you or your pet in, a 15-second clip with crowd sound out.
+- [ILLIT You're Under Arrest Dance: Do the 체포하겠어 Challenge From a Photo](https://www.makeviral.ai/templates/illit-youre-under-arrest-ai-dance): The cap toss, the dog-leg shake (개다리춤), the whistle and the finger gun: ILLIT's police point dance, with you in a modest police-style costume. Solo, with one or two friends, or with your pet.
+- [AI Airport Celebrity Video: Walk Out of Arrivals Like a Star](https://www.makeviral.ai/templates/ai-airport-star-arrival): Fans behind the barriers, phones up, flashes going off, bodyguards clearing your path: you walk out of the arrival gate as a star, wave to a fan and get into a waiting car. Or arrive at a hotel at night: you step out of a black luxury car onto the red carpet. One photo of you or your pet in, a 15-second clip with crowd sound out.
 - [Storm AI Trend: Stand Still While the Crowd Bows](https://www.makeviral.ai/templates/storm-ai-trend): You stand calm in the center, dressed in white. Around you, dozens of people in black suits snap, twist and bow on a heavy beat. One photo in, a 10-second clip with sound out.
-- [Clapping Cat: Make Your Pet Grin and Clap Like the Black Cat](https://www.makeviral.ai/templates/clapping-cat-ai-video): Your cat or dog sits up, grows two small human hands, flashes a wide human grin and gives you a slow, loud clap, like the black cat clapping meme. One pet photo in, a 6-second clip with clap sounds out.
 - [Nano Banana 2](https://www.makeviral.ai/tools/nano-banana-2-image-generator): Google's image model, in a browser tab, with the reference-image dropzone that makes it useful: up to 14 photos in, one new image out.
 - [AI TikTok Video](https://www.makeviral.ai/tools/ai-tiktok-video-generator): Eight native TikTok formats, one prompt or product URL, a finished 9:16 video with captions burned in.
 - [AI photo generator](https://www.makeviral.ai/ai-photo-generator)

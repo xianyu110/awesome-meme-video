@@ -8,8 +8,8 @@
   "blurb": "One photo in: the birthday person blows out the candles in a scene you pick, Happy Birthday on screen.",
   "published": null,
   "updated": null,
-  "scraped_at": "2026-10-19",
-  "listing_index": 28,
+  "scraped_at": "2026-10-21",
+  "listing_index": 42,
   "this_week_rank": null,
   "demo_videos": [
     "https://cdn.kavel.ai/videos/kavel-showcase/ai-birthday-video-park-bench.mp4",
@@ -47,5 +47,5 @@
   "prompt_count": 3,
   "prompts_public": true,
   "note": null,
-  "showcase_count": 4
+  "showcase_count": 3
 }

@@ -1,0 +1,45 @@
+{
+  "source": "mediaio",
+  "source_site": "https://www.media.io",
+  "slug": "bby-wow-guy-ai-video",
+  "name": "BbY Wow Guy AI Dance",
+  "url": "https://www.media.io/ai/explore/zone/bby-wow-guy-ai-video",
+  "listing_url": "https://www.media.io/ai/explore/zone/ai-video-trend-generator",
+  "listing_url_zh": "https://www.media.io/ai/zh/explore/zone/ai-video-trend-generator",
+  "blurb": "",
+  "crc_slug": "pugc_kling_30_omni_njzz_p34",
+  "crc_id": 60100484,
+  "aigc_config_url": "https://dynamic-third-res.wondershare.cc/202610241133/a0fdc4e374a9a6f14d7dc8be54ac92ee/Media_io/aicommunity/json/dynamic/s0/bbfca5772a297408d67a9d626707ad78.json",
+  "aigc_config_local": "_raw/mediaio-aigc/bby-wow-guy-ai-video.json",
+  "published": null,
+  "updated": null,
+  "scraped_at": "2026-10-21",
+  "demo_videos": [
+    "https://static-third-res.wondershare.cc/Media_io/aicommunity/preview/static/s8/30567792c97ed3e1c79f081c2b9050c9.mp4"
+  ],
+  "posters": [
+    "https://static-third-res.wondershare.cc/Media_io/aicommunity/thumbs/static/s6/e173a8b1d36917c550909b5e06141e24.jpg"
+  ],
+  "prompts": [
+    {
+      "label": "prompt",
+      "variant": null,
+      "kind": "prompt",
+      "text": "Replace the entire main performer in  <<<Video1>>> with the man from <<<Image1>>>.\r\n\r\nPreserve the complete appearance of the man from <<<Image1>>> in every frame, including his exact face, bowl-cut hairstyle, mustache, skin tone, body proportions, brown suit jacket, white shirt, striped tie and complete outfit. Do not retain the original performer’s face, body, pink shirt or any part of his appearance.\r\n\r\nTransfer only the original performer’s position, movements and timing from  <<<Video1>>>to the man from <<<Image1>>>.. He performs the same dance, walks toward the camera, holds and bites the concha, briefly chews with puffed cheeks while staring seriously into the lens, and then continues dancing.\r\n\r\nKeep everything else from  <<<Video1>>>completely unchanged, including the quinceañera venue, background guests, lighting, camera angle, framing, camera movement, duration and editing. The result should look as if the fully dressed man from <<<Image1>>>.originally appeared in and performed the source video. Avoid partial face swaps, retained pink clothing, mixed bodies, identity drift, outfit changes, warped hands, missing concha, flicker or background alterations."
+    }
+  ],
+  "prompt_count": 1,
+  "prompts_public": true,
+  "note": null,
+  "author": "Milo Note",
+  "stats": {
+    "collect_count": 0,
+    "dislike_count": 0,
+    "download_count": 0,
+    "liked_count": 0,
+    "share_count": 0,
+    "star_count": 0,
+    "used_count": 0,
+    "view_count": 5995
+  }
+}

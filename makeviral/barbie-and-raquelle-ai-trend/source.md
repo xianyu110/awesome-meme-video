@@ -3,7 +3,7 @@
 > The Barbie and Raquelle trend is the TikTok slideshow where the top half shows a 3D cartoon doll and the bottom half shows you in the same pose.
 
 Canonical: https://www.makeviral.ai/templates/barbie-and-raquelle-ai-trend
-Updated: 2026-10-16
+Updated: 2026-10-21
 Published: 2026-10-16
 Author: İrfan Şener (https://www.makeviral.ai/about)
 Publisher: MakeViral (https://www.makeviral.ai)
@@ -16,7 +16,7 @@ Also called: Barbie and Raquelle trend, Raquelle Barbie trend, Barbie slideshow 
 
 **Make it now:** [Make this photo](https://www.makeviral.ai/templates/barbie-and-raquelle-ai-trend/create). 1 photo in · 2K photo out · 9:16 · 3 credits, charged once · ready in a few minutes · no prompt to write.
 
-Keyword: barbie and raquelle. Also answers: raquelle barbie, barbie slideshow, ai barbie, barbie ai, raquelle pfp, barbie trend, barbie filter, barbie and raquelle together, barbie ai photo, barbie and raquelle meme, raquelle tiktok, barbie ai generator, barbie trend tiktok, barbie filter app, barbie in real life ai, barbie and raquelle matching pfp, barbie trend instagram, barbie ai filter, barbie doll filter, barbie and raquelle tiktok, barbie and raquelle together tiktok, pictures of barbie and raquelle, barbie and raquelle cartoon, barbie trend ai, barbie trend photo, barbie photo trend, barbie ai filter tiktok, barbie ai filter app, barbie doll ai filter, barbie filter ai, barbie filter tiktok, barbie filter trend, barbie filter generator, turn yourself into barbie, turn yourself into a barbie ai, turn yourself into barbie doll, turn me into barbie, turn me into a barbie ai, turn me into a barbie filter, real life barbie trend, black barbie trend, barbie and ken trend, barbie and ken filter, barbie and raquelle tiktok picture, barbie and raquelle tiktok trend, barbie and raquelle photo, barbie and raquelle selfie, barbie and raquelle poses, barbie and raquelle ai, raquelle ai, raquelle slideshow, barbie raquelle trend, barbie slides trend, barbie trend slides, barbie life in the dreamhouse ai, barbie life in the dreamhouse trend, barbie dreamhouse trend, barbie cartoon filter, barbie cartoon ai, 3d barbie filter, barbie split screen trend, barbie bestie trend.
+Keyword: barbie and raquelle. Also answers: raquelle barbie, barbie slideshow, ai barbie, barbie ai, raquelle pfp, barbie trend, barbie filter, barbie and raquelle together, barbie ai photo, barbie and raquelle meme, barbie and raquelle selfie, barbie and raquelle photo, barbie and raquelle mirror pic, barbie and raquel selfie, raquelle and barbie selfie, barbie and raquelle photos, raquelle tiktok, barbie ai generator, barbie trend tiktok, barbie filter app, barbie in real life ai, barbie and raquelle matching pfp, barbie trend instagram, barbie ai filter, barbie doll filter, barbie and raquelle tiktok, barbie and raquelle together tiktok, pictures of barbie and raquelle, barbie and raquelle cartoon, barbie trend ai, barbie trend photo, barbie photo trend, barbie ai filter tiktok, barbie ai filter app, barbie doll ai filter, barbie filter ai, barbie filter tiktok, barbie filter trend, barbie filter generator, turn yourself into barbie, turn yourself into a barbie ai, turn yourself into barbie doll, turn me into barbie, turn me into a barbie ai, turn me into a barbie filter, real life barbie trend, black barbie trend, barbie and ken trend, barbie and ken filter, barbie and raquelle tiktok picture, barbie and raquelle tiktok trend, barbie and raquelle poses, barbie and raquelle ai, raquelle ai, raquelle slideshow, barbie raquelle trend, barbie slides trend, barbie trend slides, barbie life in the dreamhouse ai, barbie life in the dreamhouse trend, barbie dreamhouse trend, barbie cartoon filter, barbie cartoon ai, 3d barbie filter, barbie split screen trend, barbie bestie trend.
 
 ## What is the Barbie and Raquelle trend, and where did it start?
 
@@ -190,6 +190,10 @@ The names change from post to post: Barbie and Raquelle tiktok trend, Raquelle s
 ### Which poses work best for Barbie and Raquelle pictures?
 
 The poses from pictures of Barbie and Raquelle: a hand in the hair, a pout or a wink, a mirror selfie, a hand under the chin, or two besties cheek to cheek. A clear Barbie and Raquelle selfie or photo, waist up, gives the doll the most to copy. The Barbie and Raquelle tiktok picture posts and the Barbie and Raquelle meme posts use the same poses.
+
+### How do I make a Barbie and Raquelle mirror pic or selfie?
+
+Take a mirror pic or a selfie in a Raquelle pose, waist up, in good light, with your face clear and not hidden by the phone, and add it as your one photo. The AI turns it into the split picture of the trend: your doll cartoon on top, the same photo below. For a pair, use Besties with one Raquelle and Barbie selfie of you and your bestie. Make a few and post your Barbie and Raquelle photos together as a slideshow. Her name is Raquelle, though many people type Raquel.
 
 ### Does the Barbie and Raquelle AI make a cartoon of a man?
 

@@ -1,0 +1,57 @@
+# Baile Charme Dance
+
+- Source: [kavel](https://www.kavel.ai/video/baile-charme-dance)
+- Slug: `baile-charme-dance`
+- Listing: https://www.kavel.ai/ai-video-trends
+
+One photo in: you do the smooth Rio charme steps in a packed night street party, crowd clapping around you.
+
+## Demo videos (CDN)
+
+- https://cdn.kavel.ai/videos/kavel-showcase/baile-charme-street-square.mp4
+- https://cdn.kavel.ai/videos/kavel-showcase/baile-charme-viaduct.mp4
+- https://cdn.kavel.ai/videos/kavel-showcase/baile-charme-dance-class.mp4
+- https://cdn.kavel.ai/videos/kavel-showcase/baile-charme-madureira-crew.mp4
+
+## Posters
+
+- https://cdn.kavel.ai/posters/kavel-showcase/baile-charme-street-square-poster.webp
+- https://cdn.kavel.ai/posters/kavel-showcase/baile-charme-street-square-poster-thumb-240.webp
+- https://cdn.kavel.ai/posters/kavel-showcase/baile-charme-viaduct-poster.webp
+- https://cdn.kavel.ai/posters/kavel-showcase/baile-charme-dance-class-poster.webp
+- https://cdn.kavel.ai/posters/kavel-showcase/baile-charme-madureira-crew-poster.webp
+
+## Prompts
+
+### 1. Template prompt
+
+*Kind: video_prompt*
+
+```text
+Use the photo as the main character and keep the person exactly as photographed: same face, hair, skin tone, body shape and outfit. A packed street party at night in an old Rio de Janeiro square, colonial building fronts, bright white street lamps overhead, blue party tents and a crowd of dancers all around, filmed on a phone held at chest height inside the crowd, vertical 9:16, framed from the knees up. (1) They stand among the crowd, nodding to the beat with a cool, unbothered face. (2) The charme step: smooth side-to-side two-steps, shoulders rolling, knees soft, both hands rolling and clapping low in front of the hips. (3) A slow turn on the spot, a point at the camera, then back into the side steps while the people around them cheer and clap. Real party footage, warm and joyful, natural motion, one continuous shot. Audio: crowd noise and a smooth original slow R&B groove, no vocals. Exactly one person in focus dancing, no text, no captions, no logos, no watermark.
+```
+
+### 2. Baile charme dance â under the viaduct — baile-charme-viaduct
+
+*Kind: video_prompt*
+
+```text
+Use the photo as the main character and keep the person exactly as photographed: same face, hair, skin tone, body shape and outfit. A dance floor under a big concrete highway viaduct at night in Rio de Janeiro, blue and red party lights on the pillars, rows of people behind them dancing the same steps in sync, filmed on a phone held at chest height, vertical 9:16, framed from the knees up. (1) They start the routine with the rows behind them: two smooth steps to the side and back, shoulders leading. (2) The charme step: knees soft, hips swaying, a quick little kick-step, hands rolling in front of the waist, then a half turn with the whole row. (3) They turn back to the camera, smiling, and finish with a slow shoulder shimmy as the crowd keeps dancing. Real party footage, smooth and confident, natural motion, one continuous shot. Audio: crowd noise and a smooth original slow R&B groove, no vocals. No text, no captions, no logos, no watermark.
+```
+
+### 3. Baile charme dance â the dance class — baile-charme-dance-class
+
+*Kind: video_prompt*
+
+```text
+Use the photo as the main character and keep the person exactly as photographed: same face, hair, skin tone, body shape and outfit. A bright dance studio at night, white walls, dark windows, a shiny tiled floor and purple party light from one side, a few people in a loose line behind them, filmed on a phone held still at waist height, vertical 9:16, whole body in view from head to feet. (1) They lead the class: the charme two-step side to side, knees soft, arms swinging easy. (2) Hands roll in front of the chest, one arm sweeps up and out, a little hop-step forward, the people behind copying every move. (3) They turn to the camera with a big laugh and keep the steps going. Real dance-class footage, relaxed and joyful, natural motion, one continuous shot. Audio: a smooth original slow R&B groove, no vocals. No text, no captions, no printed logos on clothes, no watermark.
+```
+
+### 4. Baile charme dance â the Madureira crew — baile-charme-madureira-crew
+
+*Kind: video_prompt*
+
+```text
+Use the photo as the main character and keep the person exactly as photographed: same face, hair, skin tone, body shape and outfit. A street at night in Madureira, Rio de Janeiro: painted metal shop shutters with colourful murals, air-conditioning units on the wall above, one lamp lighting the asphalt, filmed on a phone on a tripod across the street, vertical 9:16, whole group in view head to feet. They stand at the front of a crew of about fifteen dancers in black and white. (1) The crew hits the first beat together, arms crossing. (2) They all run the charme routine in formation: side steps, shoulder rolls, a sharp half turn and a low lean, the person from the photo dead centre. (3) The crew breaks into cheers around them on the last beat. Real street-dance footage, tight and in sync, natural motion, one continuous shot. Audio: a smooth original slow R&B groove with a heavier beat, no vocals. No text, no captions, no logos, no watermark.
+```
+

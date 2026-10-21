@@ -1,0 +1,55 @@
+{
+  "source": "makeviral",
+  "source_site": "https://www.makeviral.ai",
+  "slug": "love-options-ai-dance",
+  "name": "Love Options Dance: Do the 연애의 조건 Hand Gestures With AI",
+  "url": "https://www.makeviral.ai/templates/love-options-ai-dance",
+  "markdown_url": "https://www.makeviral.ai/templates/love-options-ai-dance.md",
+  "blurb": "The Love Options dance is the TikTok trend built on the chorus of \"Love Options\" (연애의 조건), a 2013 K-pop song by BESTie: small, cute hand gestures at the chest and face on \"dudududu\".",
+  "updated": "2026-10-19",
+  "published": "2026-10-19",
+  "credits": 60,
+  "demo_videos": [
+    "https://www.makeviral.ai/media/templates/love-options-ai-dance/original-duo-v4.mp4",
+    "https://www.makeviral.ai/media/templates/love-options-ai-dance/original-pet-v2.mp4"
+  ],
+  "posters": [
+    "https://www.makeviral.ai/media/templates/love-options-ai-dance/original-duo-v3.jpg",
+    "https://www.makeviral.ai/media/templates/love-options-ai-dance/original-pet-v1.jpg"
+  ],
+  "prompts": [
+    {
+      "label": "1. The video prompt is filled in. Settings: kling-3-motion, 15 s, 720p, 9:16, sound off. The video prompt",
+      "variant": null,
+      "kind": "video_prompt",
+      "text": "Upload a full-body photo, and generate a popular K-pop dance: the person in the uploaded image dances the cute hand-gesture chorus dance of the reference video, in the place and light of the uploaded image.\nReplace the character in the video with the person from the uploaded image. Keep actions, poses, facial expressions and rhythm. Preserve the person's original facial features, maintain character consistency, no distortion, no glitches, no artifacts. The person dances in the clothes and shoes from the uploaded image, not the black T-shirt with the red print or the wide dark-blue cargo jeans of the dancer in the video, and keeps their own face and hair from the uploaded image, not short black hair. Follow the dancer's moves and timing exactly: a hand by the ear and the other on the hip, both hands framing the cheeks with a shy cute smile, the arms opened low with the palms up, one arm stretched out to the side at shoulder height while the other hand rests on the chest, a hand at the cheek, small fists at the chest with little arm pumps on the beat, quick little hand flaps at chest height with the wrists bouncing, a knee lift, and a light step to the side with an arm out. The moves are small, cute and playful, the hands mostly at chest and face height, the feet planted. Keep the whole body in view from head to feet, with natural balance and stable ground contact. Preserve the scene and lighting of the uploaded image; do not add other performers or switch locations. SAME IDENTITY. NO DUPLICATE. NO NEW SCENES. Exactly one person, no other people. One continuous shot, no text, no captions, no logos."
+    },
+    {
+      "label": "1. The video prompt is filled in. Settings: Seedance 2.5, 15 s, 720p, 9:16, sound off. The video prompt",
+      "variant": null,
+      "kind": "video_prompt",
+      "text": "Recreate the reference video [Video 1] shot for shot: the same wooden deck in a small city park, the green bushes, trees and grey stone walls behind it, the big curved white building in the background, the same wide low camera, framing, timing and dance moves. The ONLY change: the young man in the white T-shirt and light-blue flared jeans who dances in front, close to the camera on the left, is now the person in [Image 1], and the man in the white T-shirt and dark-blue jeans who dances behind him on the right is now the person in [Image 2].\n\nDancer 1 (front, left) = the person in [Image 1], in EVERY frame: copy the exact face from [Image 1] (the face shape, eye color and eye shape, eyebrows, nose, mouth, skin tone, age, hair color, hair length and hairstyle, and any beard, moustache, glasses or freckles). They wear the clothes and shoes from [Image 1]. NO white T-shirt and no light-blue flared jeans unless [Image 1] shows them.\n\nDancer 2 (behind, right) = the person in [Image 2], in EVERY frame: copy the exact face from [Image 2] (the face shape, eye color and eye shape, eyebrows, nose, mouth, skin tone, age, hair color, hair length and hairstyle, and any beard, moustache, glasses or freckles). They wear the clothes and shoes from [Image 2]. NO white T-shirt and no dark-blue jeans unless [Image 2] shows them.\n\nThe same real people from the first second to the last, so their friends recognize them at once. Never morph, never drift back to the original dancers' faces. Both change: no one from the video stays, also when a face is small and far from the camera. Keep both dancers fully visible. SAME IDENTITY. FIXED POSITIONS. NO ROLE SWAP. NO DUPLICATE.\n\nThe dance is a cute K-pop hand-gesture chorus, both dancers in sync, matching the reference second by second:\n0-2.5 s: a wide stance, one hand by the ear and the other on the hip, then both hands on the hips.\n2.5-4 s: the arms open low with the palms up, then both hands frame the cheeks.\n4-6 s: small fists at the chest, little arm pumps on the beat.\n6-8 s: one arm up high and the other hand by the head, then a hand at the cheek.\n8-12 s: small steps in place with quick little hand flaps at chest height, the wrists bouncing, a shy cute smile.\n12-13 s: both arms up in a V.\n13-15 s: the hands back to the chest, then a step forward with one arm out.\n\nOne head per person, on that person's own shoulders. A face never appears on knees, legs, hands or clothes. Five fingers on each hand. Exactly two people. No text, no signs, no logos, no watermark."
+    },
+    {
+      "label": "1. The video prompt is filled in. Settings: h3-recast, 15 s, 720p, 9:16, sound off. The video prompt",
+      "variant": "Pet",
+      "kind": "video_prompt",
+      "text": "Image 1 replaces the smaller cat that dances upright on the left, in every shot. Image 2 replaces the bigger cat that leads the dance upright on the right, in every shot. Use image 1 and image 2 as the appearance references for the two performers in the dance: keep each pet's face, ears, fur colors, fur length, markings, body proportions and screen position consistent; do not swap roles or merge identities. SAME IDENTITY. FIXED POSITIONS. NO ROLE SWAP. NO DUPLICATE. Each pet keeps the coat from its own image, never the coat of the cat in the video. Each pet keeps the natural body volume and proportions of its own animal: never flattened, squashed, stretched or merged with anything, with real furry paws, never human hands. If an image shows a dog or another animal, that animal takes the same place, standing upright on its hind legs and doing the same paw moves. If both images show the same pet, that pet dances twice, side by side. Keep the plain hallway with white walls and a brown door, the light wooden floor, the light, the dance moves, the paw moves at chest and face height, the motion and the camera exactly as in the video. Avoid extra animals, extra legs, foot sliding and background drift. No text, no logos."
+    }
+  ],
+  "variant_headings": [
+    "What the Love Options Dance video looks like",
+    "How to make the Love Options Dance video on MakeViral",
+    "Which photo works best?",
+    "What happens in the Love Options dance video, beat by beat?",
+    "Solo, Duo or Pet: which version should you pick?",
+    "How do I make the Love Options AI dance video?",
+    "Is my video a Love Options dance cover?",
+    "Will BESTie or the dancers from the original clips be in my video?",
+    "How long is the video and what format is it?",
+    "Other AI video templates and tools",
+    "Make your own Love Options Dance video"
+  ],
+  "prompt_count": 3,
+  "scraped_at": "2026-10-21"
+}

@@ -1,0 +1,59 @@
+# Pet Memorial AI Video
+
+- Source: [kavel](https://www.kavel.ai/video/pet-memorial-ai-video)
+- Slug: `pet-memorial-ai-video`
+- Listing: https://www.kavel.ai/ai-video-trends
+
+One photo of the pet you lost: it walks the marigold path home and settles beside its own picture on a candlelit DÃ­a de Muertos altar.
+
+## Demo videos (CDN)
+
+- https://cdn.kavel.ai/videos/kavel-showcase/pet-memorial-dog-altar-frame.mp4
+- https://cdn.kavel.ai/videos/kavel-showcase/pet-memorial-cat-altar-frame.mp4
+- https://cdn.kavel.ai/videos/kavel-showcase/pet-memorial-pet-train.mp4
+- https://cdn.kavel.ai/videos/kavel-showcase/pet-memorial-painted-van.mp4
+- https://cdn.kavel.ai/videos/kavel-showcase/pet-memorial-golden-path.mp4
+
+## Posters
+
+- https://cdn.kavel.ai/posters/kavel-showcase/pet-memorial-dog-altar-frame-poster.webp
+- https://cdn.kavel.ai/posters/kavel-showcase/pet-memorial-dog-altar-frame-poster-thumb-240.webp
+- https://cdn.kavel.ai/posters/kavel-showcase/pet-memorial-cat-altar-frame-poster.webp
+- https://cdn.kavel.ai/posters/kavel-showcase/pet-memorial-pet-train-poster.webp
+- https://cdn.kavel.ai/posters/kavel-showcase/pet-memorial-painted-van-poster.webp
+- https://cdn.kavel.ai/posters/kavel-showcase/pet-memorial-golden-path-poster.webp
+
+## Prompts
+
+### 1. Pet memorial AI video â the painted bus to the altar — pet-memorial-cat-altar-frame
+
+*Kind: video_prompt*
+
+```text
+Use the photo: keep this pet exactly as photographed, same breed, fur, markings and face, real animal anatomy. DÃ­a de Muertos at dusk, vertical 9:16, one continuous cinematic shot. (1) An old school bus painted with flowers and covered in marigolds rolls along a road lined with candles under a purple sky and a crescent moon, the pet looking out of the front window. (2) The bus stops in a cobbled town square with a church glowing behind; the pet hops down onto the marigold petals and walks toward the camera. (3) It reaches a candlelit altar with marigolds, painted skulls and a carved frame holding its own photo, and settles beside the frame, blinking slowly. Audio: soft acoustic guitar and evening crickets, no vocals. No text, no readable signs, no logos, no watermark, no cartoon or skeleton characters.
+```
+
+### 2. Pet memorial AI video â the pet train — pet-memorial-pet-train
+
+*Kind: video_prompt*
+
+```text
+Use the photo: keep this pet exactly as photographed, same breed, fur, markings and face, real animal anatomy. DÃ­a de Muertos night under a full moon, vertical 9:16, one continuous cinematic shot. (1) An old steam engine decorated with papel picado, marigolds and painted skulls rolls slowly toward the camera, the pet riding at the very front with its head out, ears in the wind. (2) The train stops between rows of candlelit altars; the pet jumps down onto the petals and trots along the platform. (3) It finds the altar with its own photo in a frame of marigolds and candles, and sits down beside it, looking into the camera. Audio: a gentle train whistle, soft acoustic guitar, no vocals. No text, no logos, no watermark, no cartoon or skeleton characters.
+```
+
+### 3. Pet memorial AI video â the van on the petals — pet-memorial-painted-van
+
+*Kind: video_prompt*
+
+```text
+Use the photo: keep this pet exactly as photographed, same breed, fur, markings and face, real animal anatomy. DÃ­a de Muertos morning, vertical 9:16, one continuous cinematic shot, golden sunrise light. (1) A hand-painted vintage van covered in flowers stops on a road carpeted with marigold petals; the side door opens and the pet hops out. (2) It looks around, then into the camera, butterflies and petals drifting past. (3) It walks off down a petal path between fields of marigolds toward the rising sun, candles and clay pots along both sides, and turns back once before it goes. Audio: soft acoustic guitar and birdsong, no vocals. No text, no logos, no watermark, no cartoon or skeleton characters.
+```
+
+### 4. Pet memorial AI video â the bridge at sunset — pet-memorial-golden-path
+
+*Kind: video_prompt*
+
+```text
+Use the photo: keep this pet exactly as photographed, same breed, fur, markings and face, real animal anatomy. DÃ­a de Muertos at sunset, vertical 9:16, one continuous cinematic shot. (1) The pet crosses a glowing stone bridge over a meadow, the sky gold and orange behind it. (2) It passes under an arch of marigolds into a warm house lit with candles and stops at the family altar with papel picado, sugar skulls and its own framed photo. (3) A hand reaches in and strokes its head; the pet closes its eyes and leans into it, glowing softly. Audio: gentle acoustic guitar, no vocals. No text, no logos, no watermark, no cartoon or skeleton characters.
+```
+

@@ -16,7 +16,7 @@ Also called: Clapping kitten meme, Peep the clapping cat.
 
 **Make it now:** [Make this video](https://www.makeviral.ai/templates/clapping-cat-ai-video/create). 1 photo · 6 s · 9:16 with sound · 35 credits, charged once · ready in a few minutes · no prompt to write.
 
-Keyword: clapping cat. Also answers: cat clapping, clapping cat gif, cat clapping meme, cat with human hands, clapping cat meme, creepy smiling cat, black cat clapping, cat with human hands meme, clapping cat meme gif, cat clapping hands meme, black cat clapping meme, cat clapping ai, dog clapping ai, clapping cat ai, clapping cat ai video, smiling cat clapping, clapping cat green screen, make my cat clap, clapping cat video, clapping cat edit, clap cat app.
+Keyword: clapping cat. Also answers: cat clapping, clapping cat gif, cat clapping meme, cat with human hands, clapping cat meme, creepy smiling cat, black cat clapping, ai clapping cat, cat with human hands meme, clapping cat meme gif, cat clapping hands meme, black cat clapping meme, ai cat clapping, cat clapping ai, dog clapping ai, clapping cat ai, ai clapping cat meme, clapping cat ai meme, cat clapping meme ai, clapping cat meme ai, black cat clapping ai, cat clap ai, ai cat clapping gif, clapping cat ai video, smiling cat clapping, clapping cat green screen, make my cat clap, clapping cat video, cat clapping video, clapping cat edit, clapping cat filter, clap cat app, black cat clap, black cat clapping meme download, the clapping cat.
 
 ## What is the Clapping Cat trend, and where did it start?
 

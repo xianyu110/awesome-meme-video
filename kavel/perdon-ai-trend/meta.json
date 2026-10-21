@@ -1,0 +1,30 @@
+{
+  "source": "kavel",
+  "source_site": "https://www.kavel.ai",
+  "slug": "perdon-ai-trend",
+  "name": "Perdon AI Trend",
+  "url": "https://www.kavel.ai/video/perdon-ai-trend",
+  "listing_url": "https://www.kavel.ai/ai-video-trends",
+  "blurb": "One real photo in: the too-perfect AI you plays first, then every lie is wiped away until the real photo is left, in a 12-second vertical clip.",
+  "published": null,
+  "updated": null,
+  "scraped_at": "2026-10-21",
+  "listing_index": 0,
+  "this_week_rank": null,
+  "demo_videos": [
+    "https://cdn.kavel.ai/videos/kavel-showcase/perdon-mirror.mp4",
+    "https://cdn.kavel.ai/videos/kavel-showcase/perdon-floor.mp4",
+    "https://cdn.kavel.ai/videos/kavel-showcase/perdon-chihuahua.mp4"
+  ],
+  "posters": [
+    "https://cdn.kavel.ai/posters/kavel-showcase/perdon-mirror-poster.webp",
+    "https://cdn.kavel.ai/posters/kavel-showcase/perdon-mirror-poster-thumb-240.webp",
+    "https://cdn.kavel.ai/posters/kavel-showcase/perdon-floor-poster.webp",
+    "https://cdn.kavel.ai/posters/kavel-showcase/perdon-chihuahua-poster.webp"
+  ],
+  "prompts": [],
+  "prompt_count": 0,
+  "prompts_public": false,
+  "note": "No public prompt text found on Kavel page payload; demos/posters only — prompts not invented.",
+  "showcase_count": 2
+}

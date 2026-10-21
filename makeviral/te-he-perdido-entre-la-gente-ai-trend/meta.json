@@ -30,7 +30,7 @@
       "label": "1. The video prompt is filled in. Settings: h3-recast, 15 s, 720p, 9:16, sound off. The video prompt",
       "variant": "Pet",
       "kind": "video_prompt",
-      "text": "Image 1 replaces the brown-and-white terrier in the black bow tie who stands with its front paws on the balcony rail and looks down, in every shot, also from behind. Image 2 replaces the small white curly dog in the cream shirt who stands in the spotlight on the dance floor and looks up, in every shot, also small in the crowd and in the close-up. Keep the face, eyes, ears, fur colors, fur length and markings from each image, with the natural body volume and proportions of that animal: never flattened, squashed, stretched or merged with anything. The pet from image 1 keeps the black bow tie and the pet from image 2 keeps the cream shirt. Keep the club, the balcony, the bar, the crowd, the blue light, the white spotlight, the moves, the cuts and the camera exactly as in the video. No text, no logos."
+      "text": "Image 1 replaces the dog in the black bow tie who stands with its front paws on the balcony rail and looks down, in every shot, also from behind. Image 2 replaces the dog in the cream shirt who stands in the spotlight on the dance floor and looks up, in every shot, also small in the crowd and in the close-up. Keep the face shape, eyes, ears, fur colors, fur length and markings from each image, not those of the dogs in the video, with the natural body volume and proportions of that animal: never flattened, squashed, stretched or merged with anything. The pet from image 1 keeps the black bow tie and the pet from image 2 keeps the cream shirt. Keep the club, the balcony, the bar, the crowd, the blue light, the white spotlight, the moves, the cuts and the camera exactly as in the video. No text, no logos."
     }
   ],
   "variant_headings": [
@@ -47,5 +47,5 @@
     "Make your own Club Spotlight Couple video"
   ],
   "prompt_count": 2,
-  "scraped_at": "2026-10-19"
+  "scraped_at": "2026-10-21"
 }

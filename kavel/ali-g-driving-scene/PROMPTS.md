@@ -29,15 +29,7 @@ One photo in: you, a mate or the cat grip the light-blue wheel and head-bang to 
 Use the photo as the main character and keep them exactly as photographed: same face, hair, skin tone and outfit (if it's a pet, the same fur, markings and eyes). Inside a small old 1990s hatchback on a red-brick suburban street at golden hour, filmed from the dashboard facing the driver, vertical 9:16, handheld phone feel. Both hands (or paws) on a chunky light-blue steering wheel. (1) They look into the camera, cool and still, for a beat. (2) A heavy bass beat drops and they start head-banging hard to it, shoulders bouncing, yanking the wheel left and right in time with the beat while the car rocks. (3) They point at the camera and keep bobbing with a cocky grin. Audio: loud bass-heavy 2000s UK garage beat from the car speakers, engine hum. No text, no captions, no logos or badges on the wheel, no watermark.
 ```
 
-### 2. Ali G driving scene â the red-brick street — ali-g-drive-bandana
-
-*Kind: video_prompt*
-
-```text
-Use the photo as the main character and keep the person exactly as photographed: same face, hair, skin tone and outfit. Inside a small old hatchback on a red-brick suburban street, late-afternoon sun, filmed from the dashboard facing the driver, vertical 9:16, handheld phone feel. Both hands on a chunky light-blue steering wheel. (1) A heavy bass beat drops and they start head-banging hard to it, shoulders bouncing, mouthing the words. (2) They yank the wheel left and right in time with the beat, leaning into each turn, the car rocking. (3) They throw one hand off the wheel, point at the camera and keep bobbing with a cocky grin. Audio: loud bass-heavy 2000s UK garage beat from the car speakers, engine hum. No text, no captions, no logos or badges on the wheel, no watermark.
-```
-
-### 3. Ali G driving scene â the fluffy-wheel stare — ali-g-drive-camo
+### 2. Ali G driving scene â the fluffy-wheel stare — ali-g-drive-camo
 
 *Kind: video_prompt*
 
@@ -45,7 +37,7 @@ Use the photo as the main character and keep the person exactly as photographed:
 Use the photo as the main character and keep the person exactly as photographed: same face, hair, skin tone and outfit. Inside a small old hatchback with a sunroof on a country lane, bright overcast daylight, filmed from the dashboard facing the driver, vertical 9:16, handheld phone feel. Both hands on a fluffy light-blue faux-fur steering wheel. (1) They stare into the camera dead serious for a beat. (2) The bass drops and they snap into wild head-bobbing, nodding hard, hands drumming on the fluffy wheel. (3) They lean back, steer with one wrist and nod slowly at the camera, totally unbothered. Audio: loud bass-heavy 2000s UK garage beat from the car speakers, engine hum. No text, no captions, no logos or badges on the wheel, no watermark.
 ```
 
-### 4. Ali G driving scene â the cat at the wheel — ali-g-drive-cat
+### 3. Ali G driving scene â the cat at the wheel — ali-g-drive-cat
 
 *Kind: video_prompt*
 

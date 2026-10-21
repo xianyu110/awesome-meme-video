@@ -1,0 +1,62 @@
+# AI Fruit Story: You as a 3D Fruit Person in a Soap Opera
+
+- Source: [makeviral](https://www.makeviral.ai/templates/ai-fruit-story)
+- Slug: `ai-fruit-story`
+
+An AI fruit story is a short 3D cartoon soap opera with fruit people: a strawberry, a banana, a grape, with love, betrayal and rags-to-riches twists.
+
+## Demo videos (CDN)
+
+- https://www.makeviral.ai/media/templates/ai-fruit-story/original-main-v2.mp4
+
+## Posters
+
+- https://www.makeviral.ai/media/templates/ai-fruit-story/original-main-v1.jpg
+
+## Prompts
+
+### 1. 1. The video prompt is filled in. Settings: Seedance 2.5, 12 s, 720p, 9:16, sound on. The video prompt
+
+*Kind: video_prompt*
+
+```text
+A 12-second vertical 9:16 rags-to-riches mini soap opera in a glossy 3D animated cartoon look, like a modern animated feature film: smooth stylized shapes, big expressive eyes, rich warm colors and soft cinematic light, with clear cuts.
+
+The main character is the person in [Image 1] as a 3D cartoon fruit person, in every shot: the head is shaped like a ripe red strawberry with tiny golden seeds and a crown of fresh green leaves on top, with the face on the fruit. Copy from [Image 1] so their friends recognize them at once: the eye color and eye shape, the eyebrows, nose, mouth and smile, the age, the hair color, hair length and hairstyle (the hair grows from the fruit head), and any beard, moustache, glasses or freckles. The skin of the face, neck, arms and hands is strawberry red with tiny golden seeds. An adult human body with their own build. The same face and hair in every shot, never a generic cartoon face. Exactly one main character: never a second copy of them.
+
+Outfits: in the first two shots, simple worn everyday clothes in the colors of the clothes in [Image 1], with a plain patched apron. On the red carpet, an elegant evening version of their own style: a long satin gown with a high neckline and long sleeves, or a sharp tailored suit, in a rich color.
+
+Everyone around is an adult fruit person in everyday clothes.
+
+0-3 s: a poor, cozy village kitchen with cracked plaster walls, a wood fire and a big black iron pot. The main character stirs golden potato chips frying in the pot, wipes the forehead, looks into the camera with tired, hopeful eyes and says softly: "One day, everything will change."
+3-6 s: a sunny village market. At a small wooden stall the main character hands paper cones of crispy chips to a long line of smiling customers; coins fill a jar; the main character laughs.
+6-8 s: a bright new chip shop full of customers, then the main character counts a stack of plain banknotes at a big desk by a window over a city at sunset, grinning.
+8-12 s: a red carpet at night before a glittering grand building with golden lights. The main character steps out of a long white car in the evening outfit and walks the carpet while photographers flash their cameras and a crowd cheers. A slow push-in to a close-up: a big smile into the camera: "I told you. Everything changed!"
+
+Audio: a dramatic telenovela-style original tune, soft and sad at first, swelling to a big happy finale, with fire crackle, market chatter, camera shutters and cheers. Only the two spoken lines, by the main character.
+
+No children anywhere: everyone is an adult. Everyone wears modest clothes: no low necklines, no cleavage, no slits, no revealing outfits, no swimwear; close-ups show faces only. They are original cartoon characters, not existing cartoon, film or game characters. No brand names, no logos, no car badges, no readable writing on signs, shops, money, bags or screens: signs show only pictures. No text, no subtitles, no captions, no watermark.
+```
+
+### 2. 1. The video prompt is filled in. Settings: Seedance 2.5, 12 s, 720p, 9:16, sound on. The video prompt
+
+*Kind: video_prompt*
+
+```text
+A 12-second vertical 9:16 soap opera love scene in a glossy 3D animated cartoon look, like a modern animated feature film: smooth stylized shapes, big expressive eyes, rich warm colors and soft cinematic light, with clear cuts and dramatic zooms like a telenovela.
+
+Two characters come from the photos, each as a 3D cartoon fruit person with the face on the fruit. The person in [Image 1] is ONE: the head is shaped like a ripe red strawberry with tiny golden seeds and a crown of fresh green leaves on top, and the skin is strawberry red with tiny golden seeds. The person in [Image 2] is TWO: the head is shaped like a ripe yellow banana standing upright, with a small brown stem at the top, and the skin is smooth banana yellow. Each copies their own photo so their friends recognize them at once: the eye color and eye shape, the eyebrows, nose, mouth and smile, the age, the hair color, hair length and hairstyle (the hair grows from the fruit head), and any beard, moustache, glasses or freckles. Each keeps the clothes and colors of their own photo; if a photo shows only the upper body, add everyday trousers or a skirt and shoes that go with it. Adult bodies with their own builds. Never blend the two faces, never swap their fruit, hair, glasses or clothes.
+
+The place: a cozy apartment at night with warm lamps and a big window over the city.
+
+0-3 s: ONE peeks around a half-open kitchen door: TWO whispers into a phone with a secretive grin and hides one hand behind the back. A dramatic music sting; ONE gasps, eyes huge.
+3-5 s: a fast dramatic zoom onto ONE's shocked face. ONE marches in, arms crossed, one eyebrow raised: "Who are you talking to?!"
+5-7 s: TWO freezes, caught, then slowly smiles and brings the hidden hand forward: a small dark velvet ring box.
+7-9 s: TWO drops to one knee and opens the box: a simple shining ring. ONE's anger melts; both hands fly to the mouth, happy tears.
+9-12 s: ONE nods: "Yes!" They hug and spin, fireworks burst in the night sky outside the window and a few small cartoon hearts float up. The camera pulls back slowly.
+
+Audio: a dramatic telenovela-style original tune with a suspense sting that turns into a sweet, swelling love theme, a gasp, soft laughter and fireworks. Only the two spoken lines, both by ONE.
+
+Only ONE and TWO in the scene, nobody else. Hugs only, no kisses on the lips. No children anywhere: everyone is an adult. Everyone wears modest clothes: no low necklines, no cleavage, no slits, no revealing outfits, no swimwear; close-ups show faces only. They are original cartoon characters, not existing cartoon, film or game characters. No brand names, no logos, no car badges, no readable writing on signs, shops, money, bags or screens: signs show only pictures. No text, no subtitles, no captions, no watermark.
+```
+

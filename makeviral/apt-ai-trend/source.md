@@ -104,7 +104,7 @@ Settings: 2 photos (drummer pet + singer pet) · h3-recast · 15 s · 720p · 9:
 1. The video prompt is filled in. Settings: h3-recast, 15 s, 720p, 9:16, sound off. The video prompt:
 
    ```text
-   Image 1 replaces the black cat who plays the red drum kit, in every shot, also in the big close-up of its face. Image 2 replaces the cream long-haired cat with the brown tabby face and blue eyes who kneels on the pink floor and sings into the microphone, then leans on the drummer and dances, in every shot, also in the close-up of its open mouth. Keep the face, eyes, ears, fur colors, fur length and markings from each image, with the natural body volume and proportions of that animal: never flattened, squashed, stretched or merged with anything. Keep the pink studio, the drum kit, the amps, the moves, the mouth movement, the cuts and the camera exactly as in the video. No text, no logos.
+   Image 1 replaces the cat who plays the red drum kit, in every shot, also in the big close-up of its face. Image 2 replaces the cat who kneels on the pink floor and sings into the microphone, then leans on the drummer and dances, in every shot, also in the close-up of its open mouth. Keep the face shape, eyes, ears, fur colors, fur length and markings from each image, not those of the cats in the video, with the natural body volume and proportions of that animal: never flattened, squashed, stretched or merged with anything. Keep the pink studio, the drum kit, the amps, the moves, the mouth movement, the cuts and the camera exactly as in the video. No text, no logos.
    ```
 
 2. Press Generate, then download the 9:16 MP4.

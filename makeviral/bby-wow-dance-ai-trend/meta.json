@@ -26,7 +26,7 @@
       "label": "1. The video prompt is filled in. Settings: h3-recast, 10 s, 720p, 9:16, sound off. The video prompt",
       "variant": "Pet",
       "kind": "video_prompt",
-      "text": "Image 1 replaces the orange cat in the black backwards cap on the left who dances upright on its hind legs, in every shot, also when it turns to the side or its back is to the camera. Keep the pet's face, ears, fur colors, fur length and markings from image 1, on the whole body, the head, the legs and the tail, with no orange stripes unless image 1 shows them. The pet wears the same black backwards cap. The pet keeps the natural body volume and proportions of its own animal: never flattened, squashed, stretched or merged with anything. If image 1 shows a dog or another animal, that animal takes the same place, standing upright on its hind legs and doing the same paw moves, with its own ears and muzzle. The white cat with the pink flower on the right stays exactly as in the video, with its own face, in every shot. Keep the shopping mall, the shiny stone floor, the ceiling lights, the dance moves, the motion and the camera exactly as in the video."
+      "text": "Image 1 replaces the cat in the black backwards cap on the left who dances upright on its hind legs, in every shot, also when it turns to the side or its back is to the camera. Keep the pet's face shape, ears, fur colors, fur length and markings from image 1, on the whole body, the head, the legs and the tail, not those of the cat in the video. The pet wears the same black backwards cap. The pet keeps the natural body volume and proportions of its own animal: never flattened, squashed, stretched or merged with anything. If image 1 shows a dog or another animal, that animal takes the same place, standing upright on its hind legs and doing the same paw moves, with its own ears and muzzle. The cat with the pink flower on the right stays exactly as in the video, with its own face, in every shot. Keep the shopping mall, the shiny stone floor, the ceiling lights, the dance moves, the motion and the camera exactly as in the video."
     }
   ],
   "variant_headings": [
@@ -42,5 +42,5 @@
     "Make your own BbY WOW Dance video"
   ],
   "prompt_count": 2,
-  "scraped_at": "2026-10-19"
+  "scraped_at": "2026-10-21"
 }

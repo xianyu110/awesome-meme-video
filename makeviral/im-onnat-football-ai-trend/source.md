@@ -3,7 +3,7 @@
 > The Happy Friday I'm onnat trend is a two-photo TikTok joke from football players: a serious game photo that says "Happy Friday", then the same player squeezed into a tiny red and yellow kids' toy car on the field that says "I'm onnat" (I'm on that).
 
 Canonical: https://www.makeviral.ai/templates/im-onnat-football-ai-trend
-Updated: 2026-10-15
+Updated: 2026-10-21
 Published: 2026-10-15
 Author: İrfan Şener (https://www.makeviral.ai/about)
 Publisher: MakeViral (https://www.makeviral.ai)
@@ -16,7 +16,7 @@ Also called: I'm onnat football trend, Football toy car trend, I'm on dat footba
 
 **Make it now:** [Make this photo](https://www.makeviral.ai/templates/im-onnat-football-ai-trend/create). 1 photo in · 2K photo out · 9:16 · 3 credits, charged once · ready in a few minutes · no prompt to write.
 
-Keyword: happy friday im onnat. Also answers: im onnat, im onnat football, im onnat trend, happy friday im onnat trend, im onnat ai, happy friday im onnat ai, im onnat meme, im onnat good morning, onnat car, onnat car meme, football player toy car, football player toy car ai, football toy car ai, football toy car, football player in toy car meme, football kid car meme, im on dat, happy friday im on dat, im onat, imonnat, happy friday imonat, happy friday football, little tikes car football trend, football player little tikes car, cozy coupe football trend, cozy coupe football, im onnat car, happy friday im onnat football, im onnat prompt, football player toy car prompt, im onnat capcut template, happy friday im onnat tutorial, how to do the im onnat trend, im onnat baseball, im onnat soccer, ai toy car photo, toy car ai filter, onnat meaning, im onnat meaning.
+Keyword: happy friday im onnat. Also answers: im onnat, im onnat meaning, im onnat football, im onnat trend, happy friday im onnat trend, im onnat ai, happy friday im onnat ai, im onnat meme, im onnat good morning, onnat car, onnat car meme, what does im onnat mean, what does onnat mean, get onnat car meme, football player toy car, football player toy car ai, football toy car ai, football toy car, football player in toy car meme, football kid car meme, im on dat, happy friday im on dat, im onat, imonnat, happy friday imonat, happy friday football, little tikes car football trend, football player little tikes car, cozy coupe football trend, cozy coupe football, im onnat car, happy friday im onnat football, im onnat prompt, football player toy car prompt, im onnat capcut template, happy friday im onnat tutorial, how to do the im onnat trend, im onnat baseball, im onnat soccer, ai toy car photo, toy car ai filter, onnat meaning.
 
 ## What is the I'm Onnat Toy Car trend, and where did it start?
 
@@ -200,7 +200,7 @@ Yes. Pick Video: a 10-second clip with your game face first, then a hard cut to 
 
 ### Is it the onnat car meme?
 
-Yes, it is the same joke under other names, such as the football kid car meme: a serious football player, a tiny kids' toy car and "I'm onnat".
+Yes, it is the same joke under other names, such as the football kid car meme: a serious football player, a tiny kids' toy car and "I'm onnat". To get the onnat car meme with your own face, add one game photo of you in uniform and press Generate.
 
 ### Can I use a photo of a teammate?
 

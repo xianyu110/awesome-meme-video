@@ -45,11 +45,3 @@ Use the photo as the main character and keep them exactly as photographed: the s
 Use the photo as the main character and keep them exactly as photographed: the same face, fur or hair and colours, now wearing a pink bow tie. They sit in the driver's seat of a plain white pickup truck parked by trees, a fluffy white-and-cream cat in the passenger seat beside them. Handheld phone footage from someone standing at the driver's window. (1) The character gives the camera a wide-eyed, offended stare, one paw resting on the window frame, mouth opening as if saying "State property? This is private property!"; (2) they wave a paw out of the window toward the road as if saying "Hit the road, dude"; (3) they lean down over a clipboard on the steering wheel and write down the stranger's name with a blue pen while the passenger watches. One continuous take, no cuts, vertical 9:16. Plain white pickup with no badge and no logos. No text, no captions, no watermark.
 ```
 
-### 4. Hit the road dude AI video â the pit bull in plaid — hit-the-road-dude-pit-bull
-
-*Kind: video_prompt*
-
-```text
-Use the photo as the main character and keep them exactly as photographed: the same face, fur or hair and colours, now wearing a blue-and-green plaid button-up shirt and a thick gold chain. They sit in the driver's seat of a plain white pickup truck parked on grass by a pond in the evening, one paw hanging out of the open window over the door. Handheld phone footage from a fisherman standing at the window. (1) The character glares into the camera and says, mouth moving, "State? This ain't no state property. This is private property!"; (2) they turn their head toward the road and say "Hit the road, dude"; (3) they look down, shake their head slowly, then glare back at the camera. One continuous take, no cuts, vertical 9:16. Plain white pickup with no badge and no logos. No text, no captions, no watermark.
-```
-

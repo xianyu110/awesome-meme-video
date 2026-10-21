@@ -1,0 +1,100 @@
+# I'm Gonna TOESA AI: Your 퇴사할게여 Stage Debut or Office Exit
+
+- Source: [makeviral](https://www.makeviral.ai/templates/toesa-quit-job-ai-trend)
+- Slug: `toesa-quit-job-ai-trend`
+
+I'm gonna TOESA (퇴사할게여, "I'm going to quit my job") is SOYEON's office-worker anthem and one of Korea's biggest songs of autumn 2026.
+
+## Demo videos (CDN)
+
+- https://www.makeviral.ai/media/templates/toesa-quit-job-ai-trend/original-main-v2.mp4
+
+## Posters
+
+- https://www.makeviral.ai/media/templates/toesa-quit-job-ai-trend/original-main-v1.jpg
+
+## Prompts
+
+### 1. 1. The video prompt is filled in. Settings: Seedance 2.5, 10 s, 720p, 9:16, sound on. The video prompt
+
+*Kind: video_prompt*
+
+```text
+We change the 3 performers on this stage. 1. The adult singer in the middle is the person in [Image 1], with the look from [Image 1]: copy the exact face from [Image 1] (the face shape, eye color and eye shape, eyebrows, nose, mouth, skin tone, age, hair color, hair length and hairstyle, and any beard, moustache, glasses or freckles), so their friends recognize them at once. 2. Shoes: black flat shoes. The outfit is the outfit from [Image 1]. 3. The two dancers on both sides are a cute rabbit and a teddy bear: a fluffy white rabbit mascot on the left and a fluffy brown teddy bear mascot on the right, both with adult body size, dancing the same moves in sync. If [Image 1] shows an animal, the singer is that animal standing upright, with its own face, fur and markings, holding the mic.
+
+A K-pop music-show performance, vertical 9:16, photorealistic like a real TV broadcast, 4 shots with hard cuts. The singer holds a mint-green handheld mic. The same real person in every shot, also in the wide shot; the face never morphs and never turns into anyone else.
+
+The stage: a bright K-pop music-show stage dressed as a pastel cartoon office: a giant tilted pink office door, big speech-bubble boards, a wooden bookshelf, a mint-green sofa, thin white neon frame lines, a glossy dark floor that reflects the lights. A dark studio audience fills the front rows in silhouette. Every board and screen is blank: no letters, no words, no logos.
+
+The moves, cheerful and a little cheeky, on the beat: a big goodbye wave with a small bow, a skip step to the side, both arms flung out wide, peace signs next to the face, one hand shading the eyes as if checking the nice weather, a hand on the lower back like a tired old office worker, then one hand reaching out to the camera.
+
+0-2.5 s: a close-up from the chest up: the singer sings into the mint-green mic with a big smile, the face large and sharp, exactly the face from [Image 1].
+2.5-5 s: a wide shot from the audience: the singer in the middle, the rabbit on the left and the teddy bear on the right wave goodbye with a small bow and skip to the side in sync.
+5-7.5 s: a medium shot from the knees up: the singer flings both arms out wide, then puts one hand on the lower back with a funny tired face; the rabbit and the bear copy it.
+7.5-10 s: a close-up: the singer winks, reaches one hand to the camera and sings the last line with a happy grin.
+
+Audio: an original bright, bouncy K-pop dance-pop track with a fast beat, handclaps and a cheerful synth; no known song. The studio audience cheers; the singer sings along into the mic. Only one human on stage: the singer. The rabbit and the bear are costume mascots with no human face. No famous people, no children. No logos, no company name, no channel logo, no captions, no readable text on any board, screen, card or sign, no watermark. One head, two arms, two legs and five fingers per hand; nobody merges with anyone.
+```
+
+### 2. 1. The video prompt is filled in. Settings: Seedance 2.5, 10 s, 720p, 9:16, sound on. The video prompt
+
+*Kind: video_prompt*
+
+```text
+Animate the person in [Image 1]: their last day at work. They sit at their office desk, stand up, drop their ID badge on the desk and dance out of the office, happy. Vertical 9:16, photorealistic, like a real phone video filmed by a coworker, one continuous shot that follows them, natural office light.
+
+The office worker is the person in [Image 1], in every frame: copy the exact face from [Image 1] (the face shape, eye color and eye shape, eyebrows, nose, mouth, skin tone, age, hair color, hair length and hairstyle, and any beard, moustache, glasses or freckles), the same build, and the clothes from [Image 1], so their friends recognize them at once. They are an adult. The face stays the same from the first frame to the last, also in the turns. Never morph. If [Image 1] shows an animal, the office worker is that animal standing upright on its hind legs, with its own face, fur and markings, not a person.
+
+The place: an ordinary open-plan office: rows of white desks with computer monitors, office chairs, a printer, potted plants, big windows with blinds, a glass door at the end. A few adult coworkers in office clothes sit at their desks and look up in surprise. Every screen, paper and sign is blank or out of focus.
+
+The moves, cheerful and a little cheeky, on the beat: a big goodbye wave with a small bow, a skip step to the side, both arms flung out wide, peace signs next to the face, one hand shading the eyes as if checking the nice weather, a hand on the lower back like a tired old office worker, then one hand reaching out to the camera.
+
+0-2 s: a medium shot from the waist up: they sit at the desk in front of the computer with a tired, bored face, then take a deep breath.
+2-4 s: they stand up with a big grin, lift the ID badge on its lanyard over the head and drop it on the keyboard: a plain white card with no writing and no photo.
+4-7 s: they dance away between the desks on the beat: a goodbye wave to the coworkers with a small bow, a skip step, both arms flung out wide, peace signs next to the face. The coworkers stare, one laughs.
+7-10 s: at the glass door they turn back to the camera, put one hand on the lower back like a tired old worker, laugh, wave goodbye and walk out into the sunlight; the face is large and sharp in the turn.
+
+Audio: keyboard clicks and a quiet office hum, then, the moment they stand up, an original bright, bouncy K-pop dance-pop beat with handclaps kicks in; no known song, no lyrics. Nobody speaks. No famous people, no children. No logos, no company name, no channel logo, no captions, no readable text on any board, screen, card or sign, no watermark. One head, two arms, two legs and five fingers per hand; nobody merges with anyone.
+```
+
+### 3. 1. The video prompt is filled in. Settings: Seedance 2.5, 10 s, 720p, 9:16, sound on. The video prompt
+
+*Kind: video_prompt*
+
+```text
+Animate the three people in [Image 1], [Image 2] and [Image 3]: their last day at work, together. They sit side by side at their office desks, stand up at the same time, drop their ID badges on the desks and dance out of the office in a line, happy. Vertical 9:16, photorealistic, like a real phone video filmed by another coworker, one continuous shot, natural office light, all three from the knees up.
+
+The one in the MIDDLE is the person in [Image 1]. The one on the LEFT is the person in [Image 2]. The one on the RIGHT is the person in [Image 3]. Each one, in every frame, also in the turns: copy the exact face from their own image (the face shape, eye color and eye shape, eyebrows, nose, mouth, skin tone, age, hair color, hair length and hairstyle, and any beard, moustache, glasses or freckles), with the clothes from their own image. All three are adults. Never blend their faces. Each face stays the same from the first frame to the last, so their friends recognize all three at once. If an image shows an animal, that one is that animal standing upright, with its own face, fur and markings.
+
+The place: an ordinary open-plan office: rows of white desks with computer monitors, office chairs, a printer, potted plants, big windows with blinds, a glass door at the end. A few adult coworkers in office clothes sit at their desks and look up in surprise. Every screen, paper and sign is blank or out of focus.
+
+The moves, cheerful and a little cheeky, on the beat: a big goodbye wave with a small bow, a skip step to the side, both arms flung out wide, peace signs next to the face, one hand shading the eyes as if checking the nice weather, a hand on the lower back like a tired old office worker, then one hand reaching out to the camera. The three dance the same moves in sync.
+
+0-2 s: all three sit side by side at their desks with tired, bored faces, then look at each other and nod.
+2-4 s: they stand up together with big grins and drop their ID badges on the desks: plain white cards with no writing and no photo.
+4-7 s: they dance away between the desks in a line on the beat: a goodbye wave with a small bow, a skip step, both arms flung out wide, peace signs; the other coworkers stare.
+7-10 s: at the glass door the three turn back to the camera, faces large and sharp, [Image 1] in the middle, wave goodbye together and walk out into the sunlight.
+
+Audio: keyboard clicks and a quiet office hum, then an original bright, bouncy K-pop dance-pop beat with handclaps kicks in when they stand up; no known song, no lyrics. Nobody speaks. Exactly three dancers in front. No famous people, no children. No logos, no company name, no channel logo, no captions, no readable text on any board, screen, card or sign, no watermark. One head, two arms, two legs and five fingers per hand; nobody merges with anyone.
+```
+
+### 4. 1. Open [AI Photo with this template](https://www.makeviral.ai/photo?template=toesa-quit-job-ai-trend&variant=pet) and add your photo (your pet, face clear). The photo prompt is filled in (Pet)
+
+*Kind: photo_prompt*
+
+```text
+Use the uploaded image as the base. 9:16 vertical photo, like a real phone photo taken in an office. The pet from the uploaded image sits upright on an office chair at a white office desk with a computer monitor and a keyboard. It wears a tiny navy necktie with a small white shirt collar, and a plain white ID badge on a lanyard hangs on its chest: a blank card with no writing and no photo. It looks at the camera with a cheeky, done-with-work face, one front paw on the desk next to the keyboard. Its head and front body are in full view, with its own natural size and proportions. Behind it: an ordinary open-plan office with desks, potted plants and big windows with blinds, slightly out of focus. Realistic photo with soft office light. Exactly one animal. No people. No text, no logos, no company name, no readable screen, no watermark.
+```
+
+### 5. 3. Press the film button on the still to open AI Video with the still as the first frame. Settings: Kling 3.0, 10 s, 1080p, 9:16, sound on. The video prompt
+
+*Kind: video_prompt*
+
+```text
+One continuous vertical shot, like a real phone video filmed in an office. Keep the animal's face, fur, markings and size, the tiny tie, the shirt collar and the blank ID badge, and the desk and the office, exactly as in the image.
+0-3 s: the pet looks at the camera, then lifts the ID badge off its chest with one paw and pushes it off the desk; the badge falls to the floor.
+3-7 s: it hops down and dances away between the desks on its hind legs, on the beat: a goodbye wave with one front paw, a little skip, both front paws up in the air.
+7-10 s: at the glass door it turns back to the camera with a happy face, waves one paw goodbye and trots out.
+Audio: a quiet office hum, the badge clatters on the floor, then an original bright, bouncy K-pop dance-pop beat with handclaps; no known song, no lyrics. The pet never speaks. Exactly one animal, with real furry paws. No extra animals, no extra legs, no morphing. No people in front. No text, no logos, no company name, no readable screen, no watermark.
+```
+

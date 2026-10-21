@@ -7,10 +7,12 @@ The Topo Gigio trend puts you into the Enzo Fernandez celebration: on the touchl
 
 ## Demo videos (CDN)
 
+- https://www.makeviral.ai/media/templates/topo-gigio-celebration-ai-trend/original-reel-v2.mp4
 - https://www.makeviral.ai/media/templates/topo-gigio-celebration-ai-trend/original-trend-v2.mp4
 
 ## Posters
 
+- https://www.makeviral.ai/media/templates/topo-gigio-celebration-ai-trend/original-reel-v1.jpg
 - https://www.makeviral.ai/media/templates/topo-gigio-celebration-ai-trend/original-trend-v1.jpg
 
 ## Prompts
@@ -33,5 +35,13 @@ The place: a huge covered football stadium packed with fans at night, bright flo
 Audio: the roar of a packed stadium crowd that swells when the hands go behind the ears, and one deep drum hit on the cut to black and white. No commentary, no music with words.
 
 Exactly one person celebrates. No score graphic, no scoreboard, no TV channel logo, no flags, no national team or club kits, no crests, no sponsor names, no captions, no watermark. No famous athlete: every player and every fan is a generic adult. Anatomy rules: one head, two arms, two hands with five fingers each; the hands touch the head behind the ears and never merge with the ears, the hair or the face.
+```
+
+### 2. 1. The video prompt is filled in. Settings: genjutsu-motion, 7 s, 480p, 9:16, sound off. The video prompt
+
+*Kind: video_prompt*
+
+```text
+Replace the green ogre in the brown vest and the cream tunic who salutes on the touchline, cups both hands behind the ears and looks up at the stands with the person from image 1: keep that face, hair, skin tone and body exactly, in the clothes from image 1, with normal human skin and their own ears, no green skin, no ogre ears, no brown vest and no tunic unless image 1 shows them. Keep the stadium, the crowd, the motion and the camera of the video.
 ```
 

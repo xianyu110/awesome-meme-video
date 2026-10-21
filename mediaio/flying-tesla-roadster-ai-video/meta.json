@@ -1,0 +1,28 @@
+{
+  "source": "mediaio",
+  "source_site": "https://www.media.io",
+  "slug": "flying-tesla-roadster-ai-video",
+  "name": "Flying Tesla Roadster AI Video",
+  "url": "https://www.media.io/ai/explore/zone/flying-tesla-roadster-ai-video",
+  "listing_url": "https://www.media.io/ai/explore/zone/ai-video-trend-generator",
+  "listing_url_zh": "https://www.media.io/ai/zh/explore/zone/ai-video-trend-generator",
+  "blurb": "",
+  "crc_slug": null,
+  "crc_id": null,
+  "aigc_config_url": null,
+  "aigc_config_local": null,
+  "published": null,
+  "updated": null,
+  "scraped_at": "2026-10-21",
+  "demo_videos": [],
+  "posters": [
+    "https://storage.wondershare.com/pcloud%2F552088188%2F0%2F202610%2F1%2F72e6a894-a2c0-4d23-9525-b2c477890ca1.mp4?Expires=1793151831&OSSAccessKeyId=LTAI5t8TjkVS9EeKFhvxHYRY&Signature=OgJWicud4JJXuf5JdpcHZtQHFzA%3D",
+    "https://storage.wondershare.com/pcloud%2F552088188%2F0%2F202610%2F1%2Ffa0c4e54-1490-4903-8757-8bc38b4e699e.png?Expires=1792570707&OSSAccessKeyId=LTAI5t8TjkVS9EeKFhvxHYRY&Signature=akmJF6PtjmsvHVvYm0PBZa0Ybuc%3D&x-oss-process=image%2Fresize%2Cm_lfit%2Cw_560%2Fformat%2Cwebp%2Fquality%2Cq_80"
+  ],
+  "prompts": [],
+  "prompt_count": 0,
+  "prompts_public": false,
+  "note": "No public prompt text found in Media.io aigc_config / page payload; archived demos/posters only — prompts not invented.",
+  "author": null,
+  "stats": {}
+}

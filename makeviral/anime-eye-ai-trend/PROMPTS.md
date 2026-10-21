@@ -1,0 +1,42 @@
+# Anime Face Trend: Your Own Anime Twin in the Star Eye Photo
+
+- Source: [makeviral](https://www.makeviral.ai/templates/anime-eye-ai-trend)
+- Slug: `anime-eye-ai-trend`
+
+The anime face trend, also called the anime eye trend, is a TikTok selfie trend from October 2026: a star-shaped cut-out of an anime eye sits over your real eye, with small anime stickers around you.
+
+## Demo videos (CDN)
+
+- https://www.makeviral.ai/media/templates/anime-eye-ai-trend/example-v1.mp4
+
+## Posters
+
+- https://www.makeviral.ai/media/templates/anime-eye-ai-trend/example-v1-input.jpg
+- https://www.makeviral.ai/media/templates/anime-eye-ai-trend/example-v1-poster.jpg
+
+## Prompts
+
+### 1. Prompt 1
+
+*Kind: prompt*
+
+```text
+Use the uploaded image as the base: it is the real selfie and it stays a real, unchanged photo. Keep the photo exactly as it is: the same person, face, skin, pose, camera angle, light, background, hood, hands and hair. Do not redraw, retouch, slim or stylize the real person: only add the stickers on top. First design this person's anime twin: an ORIGINAL anime character who looks like them, in a clean modern anime style (crisp ink lines, soft cel shading, large expressive eyes with bright highlights). The twin has the same hair color, hair length and hairstyle (with the same fringe), the same eye shape and eye color, the same eyebrows, skin tone and age, and the same clothes in the same colors as the person in the photo. It is an original design, not any existing anime, manga, cartoon or game character, and not copied from any series or studio. Then make the anime star eye edit on top of the photo: a large five-pointed STAR-shaped cut-out of the anime twin's face is pasted over ONE of the person's eyes (the one on the left of the picture when both show), at exactly the same place, size and angle, so the anime eye sits right where the real eye is and lines up with the real eyebrow, nose and cheek. The star shows a close-up of the twin's eye, eyebrow, a bit of its fringe and its cheek. The star has soft rounded points and a clean flat edge, like a cut paper sticker, with no border and no shadow. The other real eye stays visible and real. Three or four small sticker portraits of the same anime twin sit around the person, on the background and on the clothes, never on the real face: each one a different still of the twin like a frame from an anime episode (a look back over the shoulder, a side view, a calm stare at the camera, a small smile), with soft simple anime backgrounds (a classroom window, a pale sky, a blurred street). They have slightly different sizes and sit straight or a little tilted, like stickers in a phone photo collage. The stickers are squares with rounded corners. Exactly one real person, and every sticker shows only the anime twin of that person: no other characters, no famous anime, manga, cartoon or game character. Any logo or writing on the clothes becomes plain. Vertical 9:16; if the photo is wider, extend the background naturally. No text, no captions, no letters, no speech bubbles, no watermark, no app interface, no frame.
+```
+
+### 2. Prompt 2
+
+*Kind: prompt*
+
+```text
+Use the uploaded image as the base: it is the real selfie and it stays a real, unchanged photo. Keep the photo exactly as it is: the same person, face, skin, pose, camera angle, light, background, hood, hands and hair. Do not redraw, retouch, slim or stylize the real person: only add the stickers on top. First design this person's anime twin: an ORIGINAL anime character who looks like them, in a clean modern anime style (crisp ink lines, soft cel shading, large expressive eyes with bright highlights). The twin has the same hair color, hair length and hairstyle (with the same fringe), the same eye shape and eye color, the same eyebrows, skin tone and age, and the same clothes in the same colors as the person in the photo. It is an original design, not any existing anime, manga, cartoon or game character, and not copied from any series or studio. Then make the anime heart eye edit on top of the photo: a large HEART-shaped cut-out of the anime twin's face is pasted over ONE of the person's eyes (the one on the left of the picture when both show), at exactly the same place, size and angle, so the anime eye sits right where the real eye is and lines up with the real eyebrow, nose and cheek. The heart shows a close-up of the twin's eye, eyebrow, a bit of its fringe and its cheek, with a clean flat edge like a cut paper sticker, no border and no shadow. The other real eye stays visible and real. Three or four small sticker portraits of the same anime twin sit around the person, on the background and on the clothes, never on the real face: each one a different still of the twin like a frame from an anime episode (a look back over the shoulder, a side view, a calm stare at the camera, a small smile), with soft simple anime backgrounds (a classroom window, a pale sky, a blurred street). They have slightly different sizes and sit straight or a little tilted, like stickers in a phone photo collage. The stickers are a mix of shapes: one circle, one small heart and one or two squares with rounded corners. Exactly one real person, and every sticker shows only the anime twin of that person: no other characters, no famous anime, manga, cartoon or game character. Any logo or writing on the clothes becomes plain. Vertical 9:16; if the photo is wider, extend the background naturally. No text, no captions, no letters, no speech bubbles, no watermark, no app interface, no frame.
+```
+
+### 3. Prompt 3
+
+*Kind: prompt*
+
+```text
+Use the uploaded image as the base: it is the real selfie and it stays a real, unchanged photo. Keep the photo exactly as it is: the same person, face, skin, pose, camera angle, light, background, hood, hands and hair. Do not redraw, retouch, slim or stylize the real person: only add the stickers on top. Turn the whole picture into a soft black-and-white photo with a little film grain, like the trend's monochrome edits; the person, the light and the pose stay exactly the same. First design this person's anime twin: an ORIGINAL anime character who looks like them, drawn as a black-and-white manga character (bold black ink lines, screentone shading, large expressive eyes with white highlights). The twin has the same hair color, hair length and hairstyle (with the same fringe), the same eye shape and eye color, the same eyebrows, skin tone and age, and the same clothes in the same colors as the person in the photo. It is an original design, not any existing anime, manga, cartoon or game character, and not copied from any series or studio. Then make the manga star eye edit on top of the photo: a large five-pointed STAR-shaped cut-out of the manga twin's face is pasted over ONE of the person's eyes (the one on the left of the picture when both show), at exactly the same place, size and angle, so the manga eye sits right where the real eye is and lines up with the real eyebrow, nose and cheek. The star shows a close-up of the twin's eye, eyebrow, a bit of its fringe and its cheek, in black ink on white paper, with soft rounded points and a clean flat edge, no border and no shadow. The other real eye stays visible and real. Three or four small sticker portraits of the same anime twin sit around the person, on the background and on the clothes, never on the real face: each one a different still of the twin like a panel cut from a black-and-white manga page (a look back over the shoulder, a side view, a calm stare at the camera, a small smile), with simple inked backgrounds (screentone, speed lines, a window). They have slightly different sizes and sit straight or a little tilted, like stickers in a phone photo collage. The stickers are squares with rounded corners, all in black and white. Exactly one real person, and every sticker shows only the anime twin of that person: no other characters, no famous anime, manga, cartoon or game character. Any logo or writing on the clothes becomes plain. Vertical 9:16; if the photo is wider, extend the background naturally. No text, no captions, no letters, no speech bubbles, no watermark, no app interface, no frame.
+```
+

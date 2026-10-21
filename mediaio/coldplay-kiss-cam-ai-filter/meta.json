@@ -1,0 +1,44 @@
+{
+  "source": "mediaio",
+  "source_site": "https://www.media.io",
+  "slug": "coldplay-kiss-cam-ai-filter",
+  "name": "Coldplay Kiss Cam AI",
+  "url": "https://www.media.io/ai/explore/zone/coldplay-kiss-cam-ai-filter",
+  "listing_url": "https://www.media.io/ai/explore/zone/ai-video-trend-generator",
+  "listing_url_zh": "https://www.media.io/ai/zh/explore/zone/ai-video-trend-generator",
+  "blurb": "",
+  "crc_slug": "pugc_gpt_image_2_4w7r_p34",
+  "crc_id": 60100392,
+  "aigc_config_url": "https://dynamic-third-res.wondershare.cc/202610241135/bbea4e3eb67dc79f6266981ece6c96a3/Media_io/aicommunity/json/dynamic/s0/13f79d0bc89cc23dce12eb979a5d4d68.json",
+  "aigc_config_local": "_raw/mediaio-aigc/coldplay-kiss-cam-ai-filter.json",
+  "published": null,
+  "updated": null,
+  "scraped_at": "2026-10-21",
+  "demo_videos": [],
+  "posters": [
+    "https://static-third-res.wondershare.cc/Media_io/aicommunity/thumbs/static/s5/f8234f3f7d65e7be35f5b1ab86e1410c.jpg",
+    "https://static-third-res.wondershare.cc/Media_io/aicommunity/thumbs/static/s5/f8234f3f7d65e7be35f5b1ab86e1410c.jpg"
+  ],
+  "prompts": [
+    {
+      "label": "prompt",
+      "variant": null,
+      "kind": "prompt",
+      "text": "Use <<<Image1>>> as the exact scene, composition and pose reference. Recreate the same nighttime stadium Kiss Cam shot displayed on a giant circular concert screen.\r\n\r\nReplace the person in front with Lionel Messi wearing an Argentina football jersey. Keep him turning away and covering his face with one hand in an embarrassed reaction. Replace the person behind with Cristiano Ronaldo wearing a Portugal football jersey. Keep him hugging Messi around the waist while staring at the camera with a shocked, wide-eyed expression.\r\n\r\nMake both celebrities immediately recognizable. Match the original framing, body positions, hand placement, warm stadium lighting, screen softness and low-resolution phone-camera quality. Clearly fictional comedic AI parody. No additional people, swapped faces, distorted hands, text, logos or watermark."
+    }
+  ],
+  "prompt_count": 1,
+  "prompts_public": true,
+  "note": null,
+  "author": "Milo Note",
+  "stats": {
+    "collect_count": 0,
+    "dislike_count": 0,
+    "download_count": 0,
+    "liked_count": 0,
+    "share_count": 0,
+    "star_count": 0,
+    "used_count": 0,
+    "view_count": 0
+  }
+}

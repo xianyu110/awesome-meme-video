@@ -8,8 +8,8 @@
   "blurb": "One photo in: the white sheet goes on, sunglasses on top, autumn poses, then the peek that shows it was you.",
   "published": null,
   "updated": null,
-  "scraped_at": "2026-10-19",
-  "listing_index": 14,
+  "scraped_at": "2026-10-21",
+  "listing_index": 28,
   "this_week_rank": null,
   "demo_videos": [
     "https://cdn.kavel.ai/videos/kavel-showcase/ghost-photoshoot-friends.mp4",
@@ -35,5 +35,5 @@
   "prompt_count": 1,
   "prompts_public": true,
   "note": null,
-  "showcase_count": 4
+  "showcase_count": 3
 }

@@ -3,7 +3,7 @@
 > The bby wow guy is the man in the viral quince party clip: he dances toward the phone, takes a bite of a concha, stares into the camera with puffed cheeks and dances off into the crowd.
 
 Canonical: https://www.makeviral.ai/templates/bby-wow-guy-ai-trend
-Updated: 2026-10-18
+Updated: 2026-10-20
 Published: 2026-10-18
 Author: İrfan Şener (https://www.makeviral.ai/about)
 Publisher: MakeViral (https://www.makeviral.ai)
@@ -16,7 +16,7 @@ Also called: Guy dancing at a quince meme, El de la Mirada Preñadora, Eve el Ch
 
 **Make it now:** [Make this video](https://www.makeviral.ai/templates/bby-wow-guy-ai-trend/create). 1 photo · 10 s · 9:16 with sound · 152 credits, charged once · ready in up to several minutes · no prompt to write.
 
-Keyword: bby wow guy. Also answers: bby wow guy dance, bby wow meme, bby wow guy meme, guy dancing at a quince, concha meme, bby wow guy dance trend, bby wow guy trend, baby wow meme, mirada preñadora, eve ramirez, guy dancing at quince meme, guy dancing at quinceanera eating concha meme, pan dulce meme, el chico de la mirada preñadora, la mirada preñadora, bby wow guy ai, guy dancing at a quince ai, bby wow guy template, bby wow guy green screen, baby wow guy dance eating, guy dancing at a quince original, bby wow guy original, dime dime baby meme, quince meme, concha bread meme, guy eating bread meme, mirada preñadora meme, quien es el de la mirada preñadora, de donde es el de la mirada preñadora, baby wow guy name, guy dancing at a quince staring at camera, quinceanera dancing guy ai trend, meme quinceañera, dancing guy meme, guy dancing to oh wow karol g, video de la mirada preñadora, el cholo de muzquiz, el chavo viral de la concha, la mirada especial, meme pan dulce, meme concha, meme del pan dulce, el del pan, bby wow dancing guy, baby wow guy, el chico que baila baby wow.
+Keyword: bby wow guy. Also answers: bby wow guy dance, bby wow meme, bby wow guy meme, guy dancing at a quince, concha meme, bby wow guy dance trend, bby wow guy trend, baby wow meme, mirada preñadora, eve ramirez, guy dancing at quince meme, guy dancing at quinceanera eating concha meme, pan dulce meme, el chico de la mirada preñadora, la mirada preñadora, bby wow guy ai, guy dancing at a quince ai, bby wow guy template, bby wow guy green screen, baby wow guy dance eating, guy dancing at a quince original, bby wow guy original, dime dime baby meme, dime dime baby ai, dime dime baby ai trend, dime dime baby ai dance, dime dime baby ai video, dime dime baby ai tutorial, dime dime baby trend, baile dime dime baby, dime dime baby photo to video, quince meme, concha bread meme, guy eating bread meme, mirada preñadora meme, quien es el de la mirada preñadora, de donde es el de la mirada preñadora, baby wow guy name, guy dancing at a quince staring at camera, quinceanera dancing guy ai trend, meme quinceañera, dancing guy meme, guy dancing to oh wow karol g, video de la mirada preñadora, el cholo de muzquiz, el chavo viral de la concha, la mirada especial, meme pan dulce, meme concha, meme del pan dulce, el del pan, bby wow dancing guy, baby wow guy, el chico que baila baby wow.
 
 ## What is the Bby Wow Guy trend, and where did it start?
 
@@ -32,7 +32,9 @@ The meme came back in October 2026. Green screen templates of the "staff shirt g
 - **2026-10-12**: A green screen template puts the sped-up BbY WOW sound on the clip; it has 267,600 views by 18 October. Source: [TikTok](https://www.tiktok.com/@greenscreenmemes.com/video/7695877225618377998).
 - **2026-10-13**: The "Bby wow guy dance trend" template goes up; it has 301,500 views and 5,250 shares by 18 October. Source: [TikTok](https://www.tiktok.com/@greenscreenmemes.com/video/7696052653914180878).
 - **2026-10-16**: The clothing brand @dakitibra posts the clip on Instagram with his shirt changed to its own T-shirt; it passes 1.9 million likes in two days. Source: [Instagram](https://www.instagram.com/reel/DekKniPAfr7/).
+- **2026-10-17**: @elmariobrox posts the clip remade with AI, with a man in a cowboy hat in his place and the caption "Dime dime baby"; it has 1.5 million views by 20 October and starts the dime dime baby AI trend. Source: [TikTok](https://www.tiktok.com/@elmariobrox/video/7697698998819294484).
 - **2026-10-18**: Eve Ramírez posts a new party dance, "Como en los viejos tiempos"; it has 894,900 views within a day. Source: [TikTok](https://www.tiktok.com/@eve.el.cholo/video/7697846924992367879).
+- **2026-10-19**: Spanish tutorials for the dime dime baby AI dance template go up in Mexico and the US; the first has 1 million views within a day. Source: [TikTok](https://www.tiktok.com/@kspjw7xc66/video/7698406193550642453).
 
 ## What the Bby Wow Guy video looks like
 
@@ -131,6 +133,8 @@ The stare is the second joke: the guy dancing at a quince staring at camera with
 
 All of them. In English, most people search the bby wow guy, the bby wow meme or the baby wow meme, and the bby wow guy dance trend took its name from the green screen templates. In October 2026 the clip got the sped-up "BbY WOW" sound, whose hook goes "dime, dime baby", so it is also the dime dime baby meme, and some people searched for the guy dancing to oh wow karol g because they misheard the title.
 
+Then came the AI version. On 17 October 2026 @elmariobrox, an AI creator from Mexico, posted the clip remade with AI, with a man in a cowboy hat in the guy's place and the caption "Dime dime baby" (1.5 million views by 20 October). A CapCut AI template followed, and the tutorials call it the dime dime baby AI trend, the dime dime baby AI dance, the dime dime baby AI video or the dime dime baby AI tutorial, and Spanish posts say baile dime dime baby. It is the same dime dime baby trend as this page: each dime dime baby photo to video clip puts a new face into the quince clip. Here you add one photo and get the whole clip, with no template to edit.
+
 Before the song, the same clip was the guy dancing at a quince meme, or just the quince meme, and Spanish posts file it under meme quinceañera or call him el chico que baila Baby Wow. People looking for the guy dancing at a quince original or the bby wow guy original want his own post of 24 July 2025 (see the timeline). The bby wow guy template and the bby wow guy green screen are the templates you cut yourself in an editor; this page makes the whole clip with your face instead.
 
 The dance trend to the same song is a different joke: see the [BbY WOW dance](https://www.makeviral.ai/templates/bby-wow-dance-ai-trend) for the garage routine and the pet version.
@@ -171,6 +175,10 @@ Press "Create your own", pick Vertical or Square and add one clear photo of your
 ### Is this the bby wow guy template from TikTok?
 
 It does the same job without the editing. The TikTok templates are green screen clips that you cut over your own video. Here you add one photo, and the AI makes the whole quinceanera dancing guy AI trend clip with your face in the party itself.
+
+### Is this the dime dime baby AI trend?
+
+Yes. The dime dime baby AI trend, which took off on 17 October 2026, puts another person into this quince clip with AI, to the BbY WOW song. Add one photo here and you get the same clip with your face, with no template to edit.
 
 ### What does he eat in the video?
 

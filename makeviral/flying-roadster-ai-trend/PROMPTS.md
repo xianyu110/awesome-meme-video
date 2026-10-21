@@ -9,14 +9,20 @@ The flying Tesla Roadster meme is the AI video trend that followed Tesla's Roads
 
 - https://www.makeviral.ai/media/templates/flying-roadster-ai-trend/original-flip-v2.mp4
 - https://www.makeviral.ai/media/templates/flying-roadster-ai-trend/original-main-v2.mp4
+- https://www.makeviral.ai/media/templates/flying-roadster-ai-trend/original-paris-v1.mp4
 - https://www.makeviral.ai/media/templates/flying-roadster-ai-trend/original-parking-v2.mp4
+- https://www.makeviral.ai/media/templates/flying-roadster-ai-trend/original-police-v2.mp4
+- https://www.makeviral.ai/media/templates/flying-roadster-ai-trend/original-tunnel-v2.mp4
 - https://www.makeviral.ai/media/templates/flying-roadster-ai-trend/sample-flip-v2.mp4
 
 ## Posters
 
 - https://www.makeviral.ai/media/templates/flying-roadster-ai-trend/original-flip-v1.jpg
 - https://www.makeviral.ai/media/templates/flying-roadster-ai-trend/original-main-v1.jpg
+- https://www.makeviral.ai/media/templates/flying-roadster-ai-trend/original-paris-v1.jpg
 - https://www.makeviral.ai/media/templates/flying-roadster-ai-trend/original-parking-v1.jpg
+- https://www.makeviral.ai/media/templates/flying-roadster-ai-trend/original-police-v1.jpg
+- https://www.makeviral.ai/media/templates/flying-roadster-ai-trend/original-tunnel-v1.jpg
 - https://www.makeviral.ai/media/templates/flying-roadster-ai-trend/sample-flip-v1.jpg
 
 ## Prompts
@@ -109,5 +115,65 @@ SOUND: realistic sound effects only, with NO music, NO song and NO words: jet en
 真人实拍、五官清晰、面部稳定、不扭曲、不变形、人体结构正常、同一角色、服装一致、发型不变.
 
 Avoid: cuts, a different car, wings or propellers on the car, the sign's words changing or misspelt, any other writing, captions, subtitles, watermarks, logos, a badge on the car, extra people, extra limbs, morphing, facial distortion.
+```
+
+### 6. 1. The video prompt is filled in. Settings: Seedance 2.5, 10 s, 720p, 9:16, sound on. The video prompt
+
+*Kind: video_prompt*
+
+```text
+Create a fictional vertical 9:16 nighttime police-stop comedy from a human-height bodycam-style view beside a stopped sleek red two-seat electric roadster. Match a sleek, low red two-seat body with a dark glass roof, a slim full-width red rear light and four attached wheels, with no badge, emblem or lettering. An adult officer's shoulder and black-gloved arm occupy one edge, and the adult driver is visible through the side window. Handheld, slightly shaky body camera footage, red and blue lights washing over the car, a dark empty road shoulder.
+THE DRIVER IS the person in [Image 1], with the same face, hair, age, build and clothes, in every shot: copy the exact face from [Image 1] (the face shape, eye color and eye shape, eyebrows, nose, mouth, skin tone, age, hair color, hair length and hairstyle, and any beard, moustache, glasses or freckles), so their friends recognize them at once. The face shows large and sharp through the open window. If [Image 1] shows an animal, the driver is that animal sitting upright at the wheel, with its own face, fur and markings.
+
+[00:00-00:02] Begin with the officer gently tapping the glass with a black-gloved knuckle.
+[00:02-00:05] The window slides down. The driver slowly turns and stares straight into the camera, then holds a completely deadpan look for two seconds.
+[00:05-00:07] The officer says: "Do you know how fast you were going?" The driver says nothing, gives a tiny smirk and presses a button on the dashboard.
+[00:07-00:10] A huge puff of white vapor bursts from under the car and swallows the camera, followed by a vertical lift: the car rises straight up above the empty shoulder and is gone into the night sky. The officer steps back and the camera tilts up in surprise.
+
+Keep the driver seated, the officer clear of the vehicle and the background stable. THE WHEELS NEVER CHANGE: four round, upright, normal tyres, never folding, turning flat or becoming thrusters.
+
+Sound: night road ambience, a crackle of a police radio, the knock on the glass, the officer's one line, a button click, a deep hiss and roar of thrusters, rushing wind. No music. Only the officer speaks.
+
+真人实拍、五官清晰、面部稳定、不扭曲、不变形、人体结构正常、比例自然、同一角色、服装一致、发型不变.
+
+No pursuit, weapons, collisions, injury, police insignia, badge text, patches, department names or any writing on the uniform or the patrol car, timestamps, fake evidence labels, captions or watermark. No badge or readable number plate on any car. This is staged AI parody with a deliberately absurd ending.
+```
+
+### 7. 1. The video prompt is filled in. Settings: Seedance 2.5, 10 s, 720p, 9:16, sound on. The video prompt
+
+*Kind: video_prompt*
+
+```text
+Create a fictional vertical 9:16 tunnel-wall car video, filmed handheld through the windshield of a car stuck in the queue behind THE CAR, the top of our dashboard along the bottom of the frame. An oval tunnel with tiled walls and a row of warm lights along the top, a motionless queue of cars and a white van ahead.
+[00:00-00:03] Begin with THE CAR upright beside a motionless queue in the oval tunnel, right in front of us. Leave the curve from road to left sidewall clearly visible.
+[00:03-00:06] THE CAR turns toward that curve, then follows it upward until its tires rest against the sidewall and its roof faces the open tunnel interior. Hold that tilted wall-climbing position briefly so the orientation is readable.
+[00:06-00:10] THE CAR climbs on until it is inverted against the ceiling above the traffic jam: all four tires contact the ceiling; its roof faces downward toward the road. It drives forward along the ceiling while the normal cars remain upright and almost stationary below, and grows smaller down the tunnel. Preserve a visible gap between the inverted car roof and the traffic.
+Keep the traffic below upright, the tunnel lights fixed and the car dimensions consistent.
+
+THE CAR is the one in [Image 1], whatever it is (a car, an SUV, a pickup, a van or a sports car): copy it exactly from [Image 1] (the body shape and proportions, the paint color and finish, the grille shape, the headlights and taillights, the wheels and rims, the mirrors, spoilers, body kit, roof and every other part it has), so its owner knows it at once, in every shot: never a different or generic model, never repainted. The thrusters are small round nozzles under its floor; the rest of the car stays as in the photo. If [Image 1] shows people, leave them out: the windows are dark and there are no people anywhere.
+THE WHEELS NEVER CHANGE: four round, upright, normal tyres, never folding, turning flat or becoming thrusters.
+
+Sound: the hum of the tunnel and idling engines, tyres squealing on the tiles, then our driver's stunned voice off-screen: "What the... that car is driving on the wall!" No music.
+
+Avoid: levitation away from the wall, extra wheels, wings, robot parts, a camera orbit, rolling the whole scene, mirroring the road, floating wheels, morphing panels, cutting to a different car, the car changing colour or shape, collisions, injuries, people, faces. Vertical 9:16. No badges, emblems, brand names or lettering on any car or truck and no readable number plate, even if the photo shows them. No text, no captions, no logos, no watermark.
+```
+
+### 8. 1. The video prompt is filled in. Settings: Seedance 2.5, 10 s, 720p, 9:16, sound on. The video prompt
+
+*Kind: video_prompt*
+
+```text
+Medium wide shot, eye level. The camera pans left. THE CAR from [Image 1] hovers above a Paris street using four jet nozzles under its floor. Passersby on the pavements film it with their smartphones. Classic Haussmann-style buildings are visible in the background: cream stone facades, black wrought-iron balconies, café awnings, a large iron lattice tower far away at the end of the avenue.
+[00:00-00:06] THE CAR hovers a few metres above the street, gently bobbing, the four jets blasting down and white smoke rolling over the cobbles, while the people hold up their phones, point and cheer.
+[00:06-00:10] THE CAR tilts its nose forward, rises above the roofs and flies off down the avenue toward the iron tower, NOSE FIRST, AWAY from the camera, its jets glowing.
+
+THE CAR is the one in [Image 1], whatever it is (a car, an SUV, a pickup, a van or a sports car): copy it exactly from [Image 1] (the body shape and proportions, the paint color and finish, the grille shape, the headlights and taillights, the wheels and rims, the mirrors, spoilers, body kit, roof and every other part it has), so its owner knows it at once, in every frame: never a different or generic model, never repainted. The jet nozzles are small and round, under its floor; the rest of the car stays as in the photo. If [Image 1] shows people, leave them out: its windows are dark.
+THE WHEELS NEVER CHANGE: four round, upright, normal tyres, never folding, turning flat or becoming thrusters.
+
+Background music: none. Sound effects: a high-pitched jet hiss, huge cheers and gasps from the crowd. Narration: none.
+
+Summary: a realistic video of a flying sports car on a Paris street. The handheld camera work and realistic smoke create a highly viral "found-footage" style. The audio is dominated by the mechanical turbine sound and the crowd's excited reactions.
+
+Avoid: the car flying backward, the car hitting anything, a different car, the car changing colour or shape, wings or propellers, people close to the car, faces in close-up, morphing, distortion. Vertical 9:16. No badges, emblems, brand names or lettering on any car or truck and no readable number plate, even if the photo shows them. No text, no captions, no logos, no watermark.
 ```
 

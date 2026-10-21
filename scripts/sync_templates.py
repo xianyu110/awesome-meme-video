@@ -238,11 +238,15 @@ def fetch_all_remake(slugs: list[str]) -> dict:
         'failed': sorted(failed),
     }
 
+def listing_date(item: dict) -> str:
+    """Source listing/inclusion date only. Never scraped_at (missing → empty/unknown)."""
+    d = item.get('published') or item.get('updated') or ''
+    return str(d)[:10] if d else ''
+
+
 def sort_key(item: dict):
-    """Newest-first: prefer source updated, then published, then scraped_at, then slug."""
-    d = item.get('updated') or item.get('published') or item.get('scraped_at') or '1970-01-01'
-    # normalize to YYYY-MM-DD prefix
-    d = str(d)[:10]
+    """Newest-first by published||updated; undated → end; never scraped_at."""
+    d = listing_date(item) or '0000-00-00'
     return (d, item.get('slug') or '')
 
 
@@ -310,7 +314,7 @@ def rebuild_inventory(mv_change: dict, rm_change: dict) -> dict:
     inventory = {
         'generated_at': SCRAPE_DATE,
         'generated_at_iso': SCRAPE_ISO,
-        'sorted_by': 'updated || published || scraped_at (newest first); Asia/Shanghai scrape clock',
+        'sorted_by': 'published || updated (newest first); undated=unknown; never scraped_at',
         'sources': {
             'makeviral': {
                 'listing': 'https://www.makeviral.ai/templates',
@@ -445,7 +449,7 @@ def merge_extra_sources(inv: dict) -> dict:
         'generated_at': SCRAPE_DATE,
         'generated_at_iso': SCRAPE_ISO,
         'sorted_by': inv.get('sorted_by')
-        or 'updated || published || scraped_at (newest first); Asia/Shanghai scrape clock',
+        or 'published || updated (newest first); undated=unknown; never scraped_at',
         'sources': sources,
         'templates': all_items,
     }
@@ -459,27 +463,40 @@ def has_local_demo(src: str, slug: str) -> bool:
     return any(p.suffix.lower() in ('.mp4', '.webm') for p in d.iterdir())
 
 def write_readme(inv: dict):
-    mv = [t for t in inv['templates'] if t['source'] == 'makeviral']
-    rm = [t for t in inv['templates'] if t['source'] == 'remakeyourmeme']
-    # already globally sorted; keep order within each section by same key
-    mv = sorted(mv, key=sort_key, reverse=True)
-    rm = sorted(rm, key=sort_key, reverse=True)
-    s_mv = inv['sources']['makeviral']
-    s_rm = inv['sources']['remakeyourmeme']
+    def section(src: str) -> list[dict]:
+        return sorted(
+            [t for t in inv['templates'] if t.get('source') == src],
+            key=sort_key,
+            reverse=True,
+        )
+
+    mv = section('makeviral')
+    rm = section('remakeyourmeme')
+    mio = section('mediaio')
+    kav = section('kavel')
+    s = inv['sources']
+    s_mv = s['makeviral']
+    s_rm = s['remakeyourmeme']
+    s_mio = s.get('mediaio') or {}
+    s_kav = s.get('kavel') or {}
+    total = len(inv['templates'])
     lines = [
         '# Awesome Meme Video',
         '',
-        '> 公开 AI 迷因 / 病毒视频模板与提示词清单（MakeViral + Remake Your Meme）。',
+        '> 公开 AI 迷因 / 病毒视频模板与提示词清单（MakeViral · Remake Your Meme · Media.io · Kavel）。',
         '>',
-        '> Public inventory of AI meme / viral video templates and prompts from MakeViral and Remake Your Meme.',
+        '> Public inventory of AI meme / viral video templates and prompts.',
         '',
         '## Stats',
         '',
+        f"- **Total**: {total} templates",
         f"- **MakeViral**: {s_mv['count']} templates · {s_mv['total_prompt_blocks']} prompt blocks · {s_mv['total_demo_videos']} demo videos",
         f"- **Remake Your Meme**: {s_rm['count']} templates · public prompts: **none** (one-tap remake only) · demos/posters archived",
+        f"- **Media.io**: {s_mio.get('count', 0)} templates · {s_mio.get('total_prompt_blocks', 0)} prompt blocks · {s_mio.get('total_demo_videos', 0)} demo videos",
+        f"- **Kavel**: {s_kav.get('count', 0)} templates · {s_kav.get('total_prompt_blocks', 0)} prompt blocks · {s_kav.get('total_demo_videos', 0)} demo videos",
         f"- Scraped: {inv['generated_at']} (Asia/Shanghai)",
         f"- Sort: **newest first** by `{inv['sorted_by']}`",
-        f"- Gallery: https://xianyu110.github.io/awesome-meme-video/",
+        f"- Gallery: https://xianyu110.github.io/awesome-meme-video/ (repo is private — Pages may be unavailable)",
         '',
         '## Sources',
         '',
@@ -487,6 +504,8 @@ def write_readme(inv: dict):
         '| --- | --- | --- |',
         '| [MakeViral](https://www.makeviral.ai/templates) | `/templates` + per-page `.md` | Full prompts published; demos under `/media/templates/...` |',
         '| [Remake Your Meme](https://remakeyourmeme.com/templates/) | `/templates/` | No copyable prompts on public pages; CDN demos kept |',
+        '| [Media.io](https://www.media.io/ai/explore/zone/ai-video-trend-generator) | AI Video Trend Generator zone | Prompts from public `aigc_config` when present |',
+        '| [Kavel](https://www.kavel.ai/ai-video-trends) | `/ai-video-trends` · `/video/<slug>` | Prompts from public RSC payloads when present |',
         '',
         '## Layout',
         '',
@@ -497,56 +516,61 @@ def write_readme(inv: dict):
         '  PROMPTS.md          # all MakeViral prompts concatenated',
         '  inventory.json      # machine-readable index',
         '  makeviral/<slug>/',
-        '    PROMPTS.md meta.json source.md demos/ posters/',
         '  remakeyourmeme/<slug>/',
-        '    PROMPTS.md meta.json demos/ posters/',
+        '  mediaio/<slug>/',
+        '  kavel/<slug>/',
         '```',
         '',
         'Demo MP4s are stored via Git LFS when present. Each template folder also lists original CDN URLs in `MEDIA.md` / `PROMPTS.md`.',
         '',
         '## Contents',
         '',
-        '### MakeViral',
-        '',
-        '| Template | Slug | Date | Prompts | Demo | Page |',
-        '| --- | --- | --- | ---: | --- | --- |',
     ]
-    for t in mv:
-        date = t.get('updated') or t.get('published') or t.get('scraped_at') or ''
-        demo = '✅' if has_local_demo('makeviral', t['slug']) or t.get('demo_videos') else '—'
-        lines.append(
-            f"| [{t['name']}](makeviral/{t['slug']}/PROMPTS.md) | `{t['slug']}` | {date} | {t['prompt_count']} | {demo} | [link]({t['url']}) |"
-        )
+
+    def has_demo(src: str, slug: str, t: dict) -> bool:
+        d = ROOT / src / slug / 'demos'
+        if d.exists() and any(p.suffix.lower() in ('.mp4', '.webm') for p in d.iterdir()):
+            return True
+        return bool(t.get('demo_videos'))
+
+    def append_table(title: str, items: list[dict], src: str, prompt_cell):
+        lines.append(f'### {title}')
+        lines.append('')
+        lines.append('| Template | Slug | Date | Prompts | Demo | Page |')
+        lines.append('| --- | --- | --- | ---: | --- | --- |')
+        for t in items:
+            date = listing_date(t) or 'unknown'
+            demo = '✅' if has_demo(src, t['slug'], t) else '—'
+            pc = prompt_cell(t)
+            lines.append(
+                f"| [{t['name']}]({src}/{t['slug']}/PROMPTS.md) | `{t['slug']}` | {date} | {pc} | {demo} | [link]({t['url']}) |"
+            )
+        lines.append('')
+
+    append_table('MakeViral', mv, 'makeviral', lambda t: t.get('prompt_count') or 0)
+    append_table('Remake Your Meme', rm, 'remakeyourmeme', lambda t: 'no (one-tap)')
+    append_table('Media.io', mio, 'mediaio', lambda t: t.get('prompt_count') or 0)
+    append_table('Kavel', kav, 'kavel', lambda t: t.get('prompt_count') or 0)
+
     lines += [
-        '',
-        '### Remake Your Meme',
-        '',
-        '| Template | Slug | Date | Prompts | Demo | Page |',
-        '| --- | --- | --- | --- | --- | --- |',
-    ]
-    for t in rm:
-        date = t.get('updated') or t.get('published') or t.get('scraped_at') or ''
-        demo = '✅' if has_local_demo('remakeyourmeme', t['slug']) or t.get('demo_videos') else '—'
-        lines.append(
-            f"| [{t['name']}](remakeyourmeme/{t['slug']}/PROMPTS.md) | `{t['slug']}` | {date} | no (one-tap) | {demo} | [link]({t['url']}) |"
-        )
-    lines += [
-        '',
         '## Attribution & license',
         '',
         'Templates, prompts, and demo media remain copyright of their respective sites and creators:',
         '',
         '- MakeViral — https://www.makeviral.ai',
         '- Remake Your Meme — https://remakeyourmeme.com',
+        '- Media.io — https://www.media.io',
+        '- Kavel — https://www.kavel.ai',
         '',
         'This repository is an **inventory / awesome-list** for discovery and research. Re-check each site’s terms before commercial reuse. Example people/pets in demos are described by the sources as AI-generated.',
         '',
         '## Disclaimer',
         '',
-        'Prompts are copied verbatim from public pages — nothing invented. Remake Your Meme pages explicitly say there is no prompt to write; we do not fabricate prompts for those entries.',
+        'Prompts are copied verbatim from public pages — nothing invented. Remake Your Meme pages explicitly say there is no prompt to write; we do not fabricate prompts for those entries. Media.io / Kavel entries without a public prompt are marked accordingly.',
         '',
     ]
     (ROOT / 'README.md').write_text('\n'.join(lines))
+
 
 def write_prompts_md(inv: dict):
     mv = [t for t in inv['templates'] if t['source'] == 'makeviral']
@@ -559,7 +583,7 @@ def write_prompts_md(inv: dict):
         '>',
         '> Remake Your Meme does not publish prompts; see `remakeyourmeme/*/PROMPTS.md` for metadata only.',
         '>',
-        f"> Sorted newest-first by updated/published ({inv['generated_at']}).",
+        f"> Sorted newest-first by published||updated ({inv['generated_at']}; undated=unknown).",
         '',
     ]
     for t in mv:
@@ -603,8 +627,8 @@ def write_sources():
         '- Scrape: Next.js RSC flight HTML; prompts from hub `prompt` + showcase `templatePrompt` when present.\n\n'
         '## Sort rule\n'
         'Inventory, README tables, PROMPTS.md, and the Pages gallery are sorted **newest first** by:\n'
-        '`updated` (MakeViral) → else `published` → else `scraped_at` (Asia/Shanghai scrape date).\n'
-        'Remake / Media.io / Kavel pages often have no public publish date, so they fall back to `scraped_at`.\n\n'
+        '`published` → else `updated`. **Never** use `scraped_at` as the listing date.\n'
+        'If a source has no public publish/update date, display **unknown** (sort to the end).\n\n'
         f'Synced {SCRAPE_ISO} (Asia/Shanghai) for the awesome-meme-video inventory.\n'
     )
 

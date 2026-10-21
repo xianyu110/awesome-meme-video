@@ -31,15 +31,7 @@ One selfie in: you film yourself at a school blockade, the riot police charge, a
 Use the photo as the starting frame and keep the person exactly as photographed: same face, hair and outfit, whatever they are holding still in hand, filming a selfie at arm's length on a Paris street. (1) They grin at the camera while, far behind them, a line of riot police steps out across the street and a crowd of teenagers with backpacks gathers at a school blockade, bins pushed into the road; (2) they glance over their shoulder, the smile drops, and the police line suddenly charges toward them; (3) they spin round and sprint away down the street still filming themselves, the camera bouncing, white smoke drifting and loose papers flying past, two officers running after them in the background. Riot police in plain dark navy riot gear and helmets with visors, no text, no badges, no insignia, no patches anywhere. Handheld phone selfie camera at arm's length, vertical 9:16, one continuous shot, shaky as they run. Street noise, shouting and running footsteps in the audio. No captions, no logos, no watermark.
 ```
 
-### 2. Blocus Poursuite AI video â iced coffee on a shopping street — blocus-poursuite-street-coffee
-
-*Kind: video_prompt*
-
-```text
-Use the photo as the starting frame and keep the person exactly as photographed: same face, hair and outfit, drink or bag still in hand, filming a selfie at arm's length on a busy shopping street. (1) They smile and talk to the camera while, behind them, students pile up bins and barriers to block the street and a row of riot police in helmets lines up beyond them; (2) they look back, their eyes go wide, and the police line starts running straight at the crowd; (3) they turn and run, still filming themselves, hair flying, smoke and loose papers swirling behind them as two officers give chase. Riot police in plain dark navy riot gear and helmets with visors, no text, no badges, no insignia, no patches anywhere. Handheld phone selfie camera at arm's length, vertical 9:16, one continuous shot, shaky as they run. Street noise, shouting and running footsteps in the audio. No captions, no logos, no store names, no watermark.
-```
-
-### 3. Blocus Poursuite AI video â peace sign between office towers — blocus-poursuite-city-towers
+### 2. Blocus Poursuite AI video â peace sign between office towers — blocus-poursuite-city-towers
 
 *Kind: video_prompt*
 
@@ -47,7 +39,7 @@ Use the photo as the starting frame and keep the person exactly as photographed:
 Use the photo as the starting frame and keep the person exactly as photographed: same face, hair and outfit, filming a wide low-angle selfie at arm's length between tall office towers, peace sign up. (1) They keep the peace sign up and nod at the camera while, at the far end of the street behind them, a line of riot police with shields marches in and a crowd of students blocks the crossing; (2) they turn their head, see them charging, and drop the peace sign; (3) they run, still holding the phone out, the towers swinging in and out of frame, smoke rolling down the street and officers running after them in the background. Riot police in plain dark navy riot gear and helmets with visors, no text, no badges, no insignia, no patches anywhere. Handheld phone selfie camera at arm's length, vertical 9:16, one continuous shot, shaky as they run. Street noise, shouting and running footsteps in the audio. No captions, no logos, no watermark.
 ```
 
-### 4. Blocus Poursuite AI video â the akita on the sidewalk — blocus-poursuite-akita-sidewalk
+### 3. Blocus Poursuite AI video â the akita on the sidewalk — blocus-poursuite-akita-sidewalk
 
 *Kind: video_prompt*
 

@@ -1,0 +1,63 @@
+# Champagne Car Window Trend: Pop the Bottle Out of a Moving SUV
+
+- Source: [makeviral](https://www.makeviral.ai/templates/champagne-car-window-ai-trend)
+- Slug: `champagne-car-window-ai-trend`
+
+The champagne car window trend is a night reel from a rainy highway: someone leans out of the rear window of a moving luxury SUV, pops a bottle of champagne, sprays it and drinks, filmed from the car alongside.
+
+## Demo videos (CDN)
+
+- https://www.makeviral.ai/media/templates/champagne-car-window-ai-trend/original-ai-v2.mp4
+- https://www.makeviral.ai/media/templates/champagne-car-window-ai-trend/original-main-v2.mp4
+
+## Posters
+
+- https://www.makeviral.ai/media/templates/champagne-car-window-ai-trend/original-ai-v1.jpg
+- https://www.makeviral.ai/media/templates/champagne-car-window-ai-trend/original-main-v1.jpg
+
+## Prompts
+
+### 1. 1. The video prompt is filled in. Settings: Seedance 2.5, 7 s, 720p, 9:16, sound off. The video prompt
+
+*Kind: video_prompt*
+
+```text
+Recreate the reference video [Video 1] shot for shot: a wide highway at night in the rain, rows of street lights, shiny wet asphalt, filmed with a handheld phone from a car driving right next to a dark burgundy matte boxy luxury SUV, with the same framing, camera moves and timing, one continuous shot with no cuts. The ONLY change: the woman with long dark hair in the black jacket who leans out of the SUV's rear window is now the person in [Image 1]. The SUV, the driver, the rain, the road and the lights stay exactly as in [Video 1], with no badges.
+
+The one in the window = the person in [Image 1], in EVERY frame: copy the exact face from [Image 1] (the face shape, eye color and eye shape, eyebrows, nose, mouth, skin tone, age, hair color, hair length and hairstyle, and any beard, moustache, glasses or freckles) exactly as in the photo. They wear the clothes from [Image 1], and their own hair blows in the wind. The same real person from the first frame to the last, so their friends instantly recognize them, also when the hair blows across the face, when they drink and inside the spray. Never morph, never drift back to the original woman's face. No long dark hair, no black jacket and no low-cut black top unless [Image 1] shows them.
+
+The driver at the wheel stays the small figure behind the front side window, as in [Video 1], and never gets the face from [Image 1].
+
+The moves, matching the reference second by second:
+0-1.5 s: the person sits on the frame of the open rear window of the SUV, leans far out and holds a champagne bottle high overhead with both arms straight up, the hair streaming back.
+1.5-3.5 s: brings the bottle down to the chest and works the cork loose with both thumbs, smiling, the hair blowing.
+3.5-4.3 s: the cork pops and a tall jet of foam shoots high into the night sky, then the spray bursts around the head.
+4.3-6 s: tips the head back and drinks straight from the bottle; the champagne runs down the chin and drips down the door of the SUV.
+6-6.5 s: throws the bottle high into the air behind the car with one arm.
+
+Anatomy rules: one head only, on the person's own shoulders; two arms, five fingers on each hand. Exactly one person in the window and the one driver; no other people. A plain dark green champagne bottle with a plain gold foil top and no readable label. Nothing in the hands but the bottle, and no weapon of any kind. No badges, emblems or lettering on the car, no readable number plates, no text, no captions, no logos, no watermark.
+```
+
+### 2. 1. The video prompt is filled in. Settings: Seedance 2.5, 7 s, 720p, 9:16, sound off. The video prompt
+
+*Kind: video_prompt*
+
+```text
+Recreate the reference video [Video 1] shot for shot: a wide highway at night in the rain, rows of street lights, shiny wet asphalt, filmed with a handheld phone from a car driving right next to a dark burgundy matte boxy luxury SUV, with the same framing, camera moves and timing, one continuous shot with no cuts. The ONLY changes: the woman who leans out of the SUV's rear window is now the person in [Image 1], and the burgundy SUV is now the car from [Image 2]. The driver, the rain, the road and the lights stay as in [Video 1].
+
+The one in the window = the person in [Image 1], in EVERY frame: copy the exact face from [Image 1] (the face shape, eye color and eye shape, eyebrows, nose, mouth, skin tone, age, hair color, hair length and hairstyle, and any beard, moustache, glasses or freckles) exactly as in the photo. They wear the clothes from [Image 1], and their own hair blows in the wind. The same real person from the first frame to the last, so their friends instantly recognize them, also when the hair blows across the face, when they drink and inside the spray. Never morph, never drift back to the original woman's face. No long dark hair, no black jacket and no low-cut black top unless [Image 1] shows them.
+
+The driver at the wheel stays the small figure behind the front side window, as in [Video 1], and never gets the face from [Image 1].
+
+The car = the car in [Image 2], in EVERY frame: the same body shape, size, paint color, wheels, windows and lights as in [Image 2], whatever kind of car it is, so its owner knows it at once, never the burgundy SUV. It drives in the same lane, at the same speed and distance from the camera as the SUV in [Video 1], seen from the side, and the person leans out of its open rear side window, behind the driver. Take only the car from [Image 2], not its background or daylight: it is night and raining. No people from [Image 2], no badges or lettering, no readable number plate.
+
+The moves, matching the reference second by second:
+0-1.5 s: the person sits on the frame of the open rear window of the car, leans far out and holds a champagne bottle high overhead with both arms straight up, the hair streaming back.
+1.5-3.5 s: brings the bottle down to the chest and works the cork loose with both thumbs, smiling, the hair blowing.
+3.5-4.3 s: the cork pops and a tall jet of foam shoots high into the night sky, then the spray bursts around the head.
+4.3-6 s: tips the head back and drinks straight from the bottle; the champagne runs down the chin and drips down the door of the car.
+6-6.5 s: throws the bottle high into the air behind the car with one arm.
+
+Anatomy rules: one head only, on the person's own shoulders; two arms, five fingers on each hand. Exactly one person in the window and the one driver; no other people. A plain dark green champagne bottle with a plain gold foil top and no readable label. Nothing in the hands but the bottle, and no weapon of any kind. No badges, emblems or lettering on the car, no readable number plates, no text, no captions, no logos, no watermark.
+```
+
