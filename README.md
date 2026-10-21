@@ -6,8 +6,8 @@
 
 ## Stats
 
-- **Total**: 293 templates
-- **MakeViral**: 169 templates · 429 prompt blocks · 270 demo videos
+- **Total**: 294 templates
+- **MakeViral**: 170 templates · 430 prompt blocks · 271 demo videos
 - **Remake Your Meme**: 20 templates · public prompts: **none** (one-tap remake only) · demos/posters archived
 - **Media.io**: 18 templates · 12 prompt blocks · 12 demo videos
 - **Kavel**: 86 templates · 270 prompt blocks · 310 demo videos
@@ -46,6 +46,7 @@ Demo MP4s are stored via Git LFS when present. Each template folder also lists o
 
 | Template | Slug | Date | Prompts | Demo | Page |
 | --- | --- | --- | ---: | --- | --- |
+| [Toy Car to Real Car AI Trend: Your Car Drives Off the Train Window](makeviral/toy-car-to-real-car-ai-trend/PROMPTS.md) | `toy-car-to-real-car-ai-trend` | 2026-10-21 | 1 | ✅ | [link](https://www.makeviral.ai/templates/toy-car-to-real-car-ai-trend) |
 | [ATM Glitch AI Trend: The Money Explosion on CCTV, Starring You](makeviral/atm-glitch-ai-trend/PROMPTS.md) | `atm-glitch-ai-trend` | 2026-10-21 | 2 | ✅ | [link](https://www.makeviral.ai/templates/atm-glitch-ai-trend) |
 | [Victoria Secret AI Runway Video: Your Angel Walk in Giant Wings](makeviral/victoria-secret-runway-ai-trend/PROMPTS.md) | `victoria-secret-runway-ai-trend` | 2026-10-20 | 4 | ✅ | [link](https://www.makeviral.ai/templates/victoria-secret-runway-ai-trend) |
 | [Nunca Ando Sola AI: You and the Holy Shadows](makeviral/nunca-ando-sola-ai-trend/PROMPTS.md) | `nunca-ando-sola-ai-trend` | 2026-10-20 | 2 | ✅ | [link](https://www.makeviral.ai/templates/nunca-ando-sola-ai-trend) |
