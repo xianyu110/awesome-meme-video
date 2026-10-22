@@ -5,7 +5,7 @@
 Canonical: https://www.makeviral.ai/templates/giant-bed-ai-trend
 Updated: 2026-10-15
 Published: 2026-09-30
-Author: İrfan Şener (https://www.makeviral.ai/about)
+Author: MakeViral Team (https://www.makeviral.ai/about)
 Publisher: MakeViral (https://www.makeviral.ai)
 
 The **giant bed AI trend** is a calm, funny clip of someone climbing onto an enormous white bed that fills a whole bedroom, then crawling across it for a long time to reach the pillows. It spread as "the bed of my dreams". To make your own you need one photo of yourself, or of your pet.
@@ -55,7 +55,7 @@ Everything runs in the browser. No editing app, no watermark.
 
 ### The by-hand way, with the exact prompts
 
-The one-tap flow runs these prompts for you. A photo prompt puts your photo into the scene (Nano Banana 2, image mode, 9:16, 1K), then a video prompt animates that still. To change them, copy them and edit them in AI Photo and AI Video.
+The one-tap flow runs these prompts for you. A photo prompt puts your photo into the scene (Nano Banana 2.1, image mode, 9:16, 1K), then a video prompt animates that still. To change them, copy them and edit them in AI Photo and AI Video.
 
 Settings: 1 photo (your photo) · Seedance 2.5 · 10 s · 720p · 9:16 · with sound · 128 credits in one tap.
 

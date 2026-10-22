@@ -5,7 +5,7 @@
 Canonical: https://www.makeviral.ai/templates/otsukare-summer-dance-ai-trend
 Updated: 2026-10-15
 Published: 2026-10-15
-Author: İrfan Şener (https://www.makeviral.ai/about)
+Author: MakeViral Team (https://www.makeviral.ai/about)
 Publisher: MakeViral (https://www.makeviral.ai)
 
 The **Otsukare Summer dance** is the TikTok routine to the line "大丈Vでしょ" (daijoubu desho, "it's fine, right?") from HALCALI's song "おつかれSUMMER": quick punches, one arm across the waist with the other fist under the chin, V signs and a poke in both cheeks. From one photo, MakeViral plays the routine in your own place, or puts your dog or cat into the AI Pomeranian version of the dance.

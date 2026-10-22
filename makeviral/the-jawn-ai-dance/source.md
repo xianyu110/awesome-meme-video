@@ -5,7 +5,7 @@
 Canonical: https://www.makeviral.ai/templates/the-jawn-ai-dance
 Updated: 2026-10-16
 Published: 2026-10-16
-Author: İrfan Şener (https://www.makeviral.ai/about)
+Author: MakeViral Team (https://www.makeviral.ai/about)
 Publisher: MakeViral (https://www.makeviral.ai)
 
 The **Jawn dance** is the TikTok trend set to Jerri's song "The JAWN": a drink at your chest, a scratch of the neck, a deadpan wait for the beat to drop, then a grin and a bounce. From one photo, MakeViral plays it with you in your own place, or puts your cat or dog into the AI cat version.

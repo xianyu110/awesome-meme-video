@@ -5,7 +5,7 @@
 Canonical: https://www.makeviral.ai/templates/oouuh-ai-trend
 Updated: 2026-10-18
 Published: 2026-10-11
-Author: İrfan Şener (https://www.makeviral.ai/about)
+Author: MakeViral Team (https://www.makeviral.ai/about)
 Publisher: MakeViral (https://www.makeviral.ai)
 
 The **Oouuh AI trend** recasts a famous kitchen clip: one person strums a ukulele while the other sings Fredo Bang's "Oouuh" and dances toward the phone camera, in one continuous shot. AI puts two new faces into the clip. You need two photos: the ukulele player first, then the singer.

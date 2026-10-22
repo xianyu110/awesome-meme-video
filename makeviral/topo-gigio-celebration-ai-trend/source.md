@@ -5,7 +5,7 @@
 Canonical: https://www.makeviral.ai/templates/topo-gigio-celebration-ai-trend
 Updated: 2026-10-19
 Published: 2026-10-16
-Author: İrfan Şener (https://www.makeviral.ai/about)
+Author: MakeViral Team (https://www.makeviral.ai/about)
 Publisher: MakeViral (https://www.makeviral.ai)
 
 The **Topo Gigio trend** puts you into the Enzo Fernandez celebration: on the touchline of a packed stadium at night you salute the crowd, cup both hands behind your ears and puff out your cheeks, filmed like a slow-motion TV replay. It is the gesture Juan Román Riquelme made famous in 2001. You need one photo.

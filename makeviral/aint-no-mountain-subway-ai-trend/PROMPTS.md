@@ -1,0 +1,62 @@
+# Ain't No Mountain High Enough Trend: Sing on the Subway With AI
+
+- Source: [makeviral](https://www.makeviral.ai/templates/aint-no-mountain-subway-ai-trend)
+- Slug: `aint-no-mountain-subway-ai-trend`
+
+The Ain't No Mountain High Enough trend is a selfie video: you sit alone in a nearly empty subway car with white wired earphones, close your eyes, raise one hand and belt out the 1967 soul classic.
+
+## Demo videos (CDN)
+
+- https://www.makeviral.ai/media/templates/aint-no-mountain-subway-ai-trend/example-v1.mp4
+
+## Posters
+
+- https://www.makeviral.ai/media/templates/aint-no-mountain-subway-ai-trend/example-v1-input.jpg
+- https://www.makeviral.ai/media/templates/aint-no-mountain-subway-ai-trend/example-v1-poster.jpg
+
+## Prompts
+
+### 1. 1. The video prompt is filled in. Settings: Seedance 2.5, 10 s, 720p, 9:16, sound on. The video prompt
+
+*Kind: video_prompt*
+
+```text
+A realistic vertical phone selfie of the person in [Image 1], seated in a nearly empty subway carriage, wearing wired earbuds. They sing passionately to a soulful chorus, close their eyes, lift their chin, raise one hand, and move their lips naturally. Preserve their face and hairstyle, keep the train background consistent, subtle handheld camera movement, emotional expression, cinematic realism, 9:16.
+
+The singer is the person in [Image 1], in every frame: copy the exact face from [Image 1] (the face shape, eye color and eye shape, eyebrows, nose, mouth, skin tone, age, hair color, hair length and hairstyle, and any beard, moustache, glasses or freckles), and the clothes from [Image 1], so their friends recognize them at once. The face stays the same from the first frame to the last, also with the eyes closed, the chin up and the mouth wide open on the long notes. Never morph. If [Image 1] shows an animal, the singer is that animal sitting upright on the seat, with its own face, fur and markings, not a person.
+
+The place: the inside of a clean, nearly empty city subway car at night under bright white ceiling lights: long blue bench seats along both walls, steel grab poles and handrails, sliding doors, a framed route map on the wall with no readable words, the car stretching away behind, dark windows with lights flicking past. The train sways softly.
+
+The camera: their own front phone camera in one outstretched hand, a little above eye level, a medium close-up from the chest up, one continuous take with no cuts; the face stays big and sharp. Thin white wired earphones in both ears, the white cable hanging down over the chest.
+
+0-2 s: eyes on the lens, a small smile; they hold the other hand to the ear like a phone, thumb and little finger out: call me.
+2-4 s: they close their eyes, tip the head back and start to sing out loud with feeling.
+4-7 s: the other hand rises high above the head, fingers spread, the chin lifted, the mouth wide open on a long held note; they sway with the train.
+7-10 s: they open their eyes, look straight into the lens and sing the chorus right at the camera, the other hand reaching out with an open palm, then a big happy smile.
+
+Audio: only their own voice, a big, soulful chorus with long held notes, a little off-key, over the low rumble and clatter of the train. No instruments: the music plays only in their earphones.
+
+Exactly one person in the car, no other passengers. One head only, two arms, five fingers on each hand. No phone visible in the frame. No text, no subtitles, no logos, no line names or route numbers, no watermark.
+```
+
+### 2. 1. Open [AI Photo with this template](https://www.makeviral.ai/photo?template=aint-no-mountain-subway-ai-trend&variant=pet) and add your photo (your pet, face clear). The photo prompt is filled in (Pet)
+
+*Kind: photo_prompt*
+
+```text
+Use the uploaded image as the base. 9:16 vertical photo, like a real phone selfie taken close in front of the pet, at its eye level. The pet from the uploaded image sits upright alone on a blue bench seat in the inside of a clean, nearly empty city subway car at night under bright white ceiling lights: long blue bench seats along both walls, steel grab poles and handrails, sliding doors, a framed route map on the wall with no readable words, the car stretching away behind, dark windows with lights flicking past. A medium close-up from the chest up, the face big and sharp, looking into the lens. Thin white wired earphones sit in its ears, the white cable hanging down over its chest. Realistic photo with natural colors. Exactly one animal and no people. No clothes on the pet. No phone visible, no text, no logos, no line names or route numbers, no watermark.
+```
+
+### 3. 3. Press the film button on the still to open AI Video with the still as the first frame. Settings: Kling 3.0, 10 s, 1080p, 9:16, sound on. The video prompt
+
+*Kind: video_prompt*
+
+```text
+One continuous shot with no cuts, like a real phone video filmed close in front of the pet at its eye level, in a nearly empty subway car at night. Keep the animal's face, fur, markings and size, the white wired earphones in its ears and the subway car exactly as in the image. The train sways softly, subtle handheld camera movement.
+0-2 s: the pet looks into the lens, ears up, as the music starts in its earphones.
+2-4 s: it closes its eyes, lifts its chin and starts to sing with feeling.
+4-7 s: one front paw rises high, the head tips back and the mouth opens wide on a long, soulful note; it sways with the train.
+7-10 s: it sings straight at the camera, then opens its eyes and looks into the lens, very pleased with itself.
+Audio: only the pet's own singing voice, long melodic howls from a dog or long sung meows from a cat, over the low rumble and clatter of the train. No instruments, no human voice. Exactly one animal, no people. Real furry paws, never human hands. No extra legs, no morphing. No text, no subtitles, no logos, no watermark.
+```
+

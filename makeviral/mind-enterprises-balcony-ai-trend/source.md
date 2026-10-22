@@ -5,7 +5,7 @@
 Canonical: https://www.makeviral.ai/templates/mind-enterprises-balcony-ai-trend
 Updated: 2026-10-15
 Published: 2026-10-14
-Author: İrfan Şener (https://www.makeviral.ai/about)
+Author: MakeViral Team (https://www.makeviral.ai/about)
 Publisher: MakeViral (https://www.makeviral.ai)
 
 The **Mind Enterprises balcony AI video** puts you and a friend into the retro balcony meme of the Italian Italo disco duo: one of you plays the DJ at the decks, the other dances beside them, cool and deadpan, on a sunny balcony in vintage summer clothes. You need two photos, one person in each.

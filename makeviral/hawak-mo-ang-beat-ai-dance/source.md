@@ -5,7 +5,7 @@
 Canonical: https://www.makeviral.ai/templates/hawak-mo-ang-beat-ai-dance
 Updated: 2026-10-15
 Published: 2026-10-13
-Author: İrfan Şener (https://www.makeviral.ai/about)
+Author: MakeViral Team (https://www.makeviral.ai/about)
 Publisher: MakeViral (https://www.makeviral.ai)
 
 The **Hawak Mo Ang Beat AI dance** turns one photo of you into a short clip of you doing the viral Filipino dance: a fist pumped high with the other hand behind your head, chest hits and side steps on the beat of the budots track. You need one photo of yourself, and the clip comes with the song.

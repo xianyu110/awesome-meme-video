@@ -5,7 +5,7 @@
 Canonical: https://www.makeviral.ai/templates/smalltown-boy-ai-dance
 Updated: 2026-10-13
 Published: 2026-10-10
-Author: İrfan Şener (https://www.makeviral.ai/about)
+Author: MakeViral Team (https://www.makeviral.ai/about)
 Publisher: MakeViral (https://www.makeviral.ai)
 
 The **Smalltown Boy cats** trend is a viral AI reel from October 2026. Two cats stand upright: one grabs its head and screams into a wide lens, then both dance side by side to the 1984 song "Smalltown Boy" and lunge at the camera. You need two photos of pets or of people, and MakeViral puts them into the reel.

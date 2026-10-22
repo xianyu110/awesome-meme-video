@@ -5,7 +5,7 @@
 Canonical: https://www.makeviral.ai/templates/chatgpt-millionaire-ai-trend
 Updated: 2026-10-15
 Published: 2026-10-15
-Author: İrfan Şener (https://www.makeviral.ai/about)
+Author: MakeViral Team (https://www.makeviral.ai/about)
 Publisher: MakeViral (https://www.makeviral.ai)
 
 The **ChatGPT millionaire trend** is the "Get a job" meme of October 2026. Someone holds the phone to their mouth and asks the chatbot how to become a millionaire in 30 days. The answer is "Get a job", and they look deeply offended. Add one photo, and you or your pet play the part, with the original voice.

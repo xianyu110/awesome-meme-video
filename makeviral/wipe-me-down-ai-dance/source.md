@@ -5,7 +5,7 @@
 Canonical: https://www.makeviral.ai/templates/wipe-me-down-ai-dance
 Updated: 2026-10-15
 Published: 2026-10-14
-Author: İrfan Şener (https://www.makeviral.ai/about)
+Author: MakeViral Team (https://www.makeviral.ai/about)
 Publisher: MakeViral (https://www.makeviral.ai)
 
 The **Wipe Me Down AI dance** turns one full-body photo of you into a short clip of you doing the viral Wipe Me Down dance: a low, bouncy stomp with your hands flicking at the floor on the beat, a hop, then arms swinging side to side. You need one photo, and the clip comes with the song.

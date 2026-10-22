@@ -5,7 +5,7 @@
 Canonical: https://www.makeviral.ai/templates/grandma-parkour-ai-trend
 Updated: 2026-10-17
 Published: 2026-10-17
-Author: İrfan Şener (https://www.makeviral.ai/about)
+Author: MakeViral Team (https://www.makeviral.ai/about)
 Publisher: MakeViral (https://www.makeviral.ai)
 
 **AI grandma** stunt videos show an older person moving like a pro. This template turns one photo of your grandma, grandpa or yourself into a 10 to 12 second clip: grandma parkour over concrete walls, a karate kick at the pyramids, or a skateboard run. Clean landings, no falls: the star is strong and cool.
@@ -250,7 +250,7 @@ Yes. Each video costs credits, and the create page shows the exact price on the 
 ## Other AI video templates and tools
 
 - [Billie Jean Dance AI: Do the Famous Moves With One Photo](https://www.makeviral.ai/templates/billie-jean-dance-ai-trend): A granny in white socks and loafers, a dachshund in a black fedora, a puppy in a sequin jacket on a concert stage: the Billie Jean dance trend puts anyone into the famous 80s moves. Add one photo of you or your pet.
-- [AI Dunk Trend: Dunk in a Pro Game From One Photo](https://www.makeviral.ai/templates/ai-dunk-trend): Add one photo. AI puts you on the court in your own clothes: dunk in a packed night game and scream at the camera, jump over a green furry mascot, cross up a pickup game, or catch an alley-oop in slow motion.
+- [AI Dunk Trend: Dunk in a Pro Game From One Photo](https://www.makeviral.ai/templates/ai-dunk-trend): Add one photo. AI puts you on the court in your own clothes: dunk in a packed night game and scream at the camera, jump over a green furry mascot, cross up a pickup game, or catch an alley-oop in slow motion. Add a friend's photo too, and you dunk right over them.
 - [Yamal Rabona AI: Fake the Rabona and Leave the Defender on the Grass](https://www.makeviral.ai/templates/yamal-no-rabona-ai-trend): Add one photo. AI puts you on the goal line of a floodlit match: you shape up for a rabona, the defender slides in, you never kick, and he slides right past. Then you shrug at the camera. Add a second photo and your friend or your pet is the defender.
 - [AI TikTok Video](https://www.makeviral.ai/tools/ai-tiktok-video-generator): Eight native TikTok formats, one prompt or product URL, a finished 9:16 video with captions burned in.
 - [AI Reels](https://www.makeviral.ai/tools/ai-reels-generator): Pick a format, give it a topic or a product link, and get a finished vertical reel with voice and captions. Nothing to film, nothing to edit.

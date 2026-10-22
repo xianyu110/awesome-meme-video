@@ -5,7 +5,7 @@
 Canonical: https://www.makeviral.ai/templates/ai-baby-dance
 Updated: 2026-10-18
 Published: 2026-10-13
-Author: İrfan Şener (https://www.makeviral.ai/about)
+Author: MakeViral Team (https://www.makeviral.ai/about)
 Publisher: MakeViral (https://www.makeviral.ai)
 
 The **AI baby dance** turns one photo of your baby into a short clip where the baby dances on the beat. The viral version copies a sassy routine: hands on the head, a hand on the hip, "talk to the hand" and stop palms. You need one photo of your own baby, and the clip comes with the trend's sound.
@@ -228,9 +228,9 @@ About 10 seconds for the sassy dance and about 12 seconds for the Toc Toc dance,
 
 ## Other AI video templates and tools
 
-- [Bad Times AI Trend: Argue With the Camera From One Photo](https://www.makeviral.ai/templates/bad-times-ai-trend): Hands on the head, a hand on the hip, stop palms and a long stare at whoever is filming: the viral routine to Imael Angel's "Bad Times". Add one photo of you or your pet and get the clip with the song.
+- [Thank You Baby Meme: Turn One Baby Photo Into the Thank You Babeh Dance](https://www.makeviral.ai/templates/thank-you-baby-ai-trend): "Thank you baby, thank you babeh": the chant from a TikTok LIVE, now a dance. Add one photo of your baby and get a 15-second clip where your baby bounces, shrugs and ends with a heart, with the trend's sound. Or put your pet in the famous wig.
 - [Toc Toc Dance AI: Do the Viral Jean Phil Dance From One Photo](https://www.makeviral.ai/templates/toc-toc-dance-ai-trend): One-foot hops with a knee up, a fist that knocks on an invisible door, kicks and a wide-arm finish, all on the toc toc beat. Add a photo of you, of you and a friend, or of your pet, and get the dance with the sound.
-- [Mom and Baby Knight AI Video: You and Your Little One as Knights](https://www.makeviral.ai/templates/baby-knight-ai-video): Your child stands in tiny armor and holds a heavy sword in the wind. You walk in, kneel, take the sword and hand them a teddy bear. Works for moms and dads.
+- [Bad Times AI Trend: Argue With the Camera From One Photo](https://www.makeviral.ai/templates/bad-times-ai-trend): Hands on the head, a hand on the hip, stop palms and a long stare at whoever is filming: the viral routine to Imael Angel's "Bad Times". Add one photo of you or your pet and get the clip with the song.
 - [AI TikTok Video](https://www.makeviral.ai/tools/ai-tiktok-video-generator): Eight native TikTok formats, one prompt or product URL, a finished 9:16 video with captions burned in.
 - [AI Reels](https://www.makeviral.ai/tools/ai-reels-generator): Pick a format, give it a topic or a product link, and get a finished vertical reel with voice and captions. Nothing to film, nothing to edit.
 - [AI photo generator](https://www.makeviral.ai/ai-photo-generator)

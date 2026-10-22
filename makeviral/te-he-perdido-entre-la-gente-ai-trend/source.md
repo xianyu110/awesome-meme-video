@@ -5,7 +5,7 @@
 Canonical: https://www.makeviral.ai/templates/te-he-perdido-entre-la-gente-ai-trend
 Updated: 2026-10-16
 Published: 2026-10-16
-Author: İrfan Şener (https://www.makeviral.ai/about)
+Author: MakeViral Team (https://www.makeviral.ai/about)
 Publisher: MakeViral (https://www.makeviral.ai)
 
 The **La Tormenta de Arena** trend, also called **te he perdido entre la gente**, is an AI couple video: one person smiles down from a club balcony, a spotlight finds the other in the crowd, who looks up. It copies a club scene from a 2010 Spanish film. You need two photos, one person each, or two pets.

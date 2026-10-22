@@ -5,7 +5,7 @@
 Canonical: https://www.makeviral.ai/templates/earth-zoom-out-ai
 Updated: 2026-09-30
 Published: 2026-09-30
-Author: İrfan Şener (https://www.makeviral.ai/about)
+Author: MakeViral Team (https://www.makeviral.ai/about)
 Publisher: MakeViral (https://www.makeviral.ai)
 
 The **Earth zoom out** is a short video that starts on a close, wide-angle selfie and pulls back in one unbroken camera move: you shrink to a dot, the city spreads out, the clouds pass, and the shot ends on the whole planet in space. To make the AI version you need one clear photo of yourself.
@@ -55,7 +55,7 @@ Everything runs in the browser. No editing app, no watermark.
 
 ### The by-hand way, with the exact prompts
 
-The one-tap flow runs these prompts for you. A photo prompt puts your photo into the scene (Nano Banana 2, image mode, 9:16, 1K), then a video prompt animates that still. To change them, copy them and edit them in AI Photo and AI Video.
+The one-tap flow runs these prompts for you. A photo prompt puts your photo into the scene (Nano Banana 2.1, image mode, 9:16, 1K), then a video prompt animates that still. To change them, copy them and edit them in AI Photo and AI Video.
 
 Settings: 1 photo (your photo) · Seedance 2.5 · 10 s · 720p · 9:16 · with sound · 128 credits in one tap.
 

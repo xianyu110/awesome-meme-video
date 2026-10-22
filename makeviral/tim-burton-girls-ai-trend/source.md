@@ -5,7 +5,7 @@
 Canonical: https://www.makeviral.ai/templates/tim-burton-girls-ai-trend
 Updated: 2026-10-15
 Published: 2026-10-14
-Author: İrfan Şener (https://www.makeviral.ai/about)
+Author: MakeViral Team (https://www.makeviral.ai/about)
 Publisher: MakeViral (https://www.makeviral.ai)
 
 The **Tim Burton Girls** trend, "Chicas Tim Burton" in Spanish, is a Halloween photo trend from Mexico, October 2026: you sit in the center of a dark portrait while pale gothic girls and dolls in a dark storybook style stand behind you, and one of them covers your eyes with her hands. You need one clear selfie.
@@ -47,16 +47,16 @@ Everything runs in the browser. No editing app, no watermark.
 ### The one-tap way (no prompt to write)
 
 1. **Add your photo.** Press "Make yours" and add your selfie, face clear. Take it with the camera or pick it from your library. Start here: https://www.makeviral.ai/templates/tim-burton-girls-ai-trend/create
-2. **Press Generate.** The button shows the price. Nano Banana 2 puts your photo into the Tim Burton Girls scene and makes one 2K photo. You write no prompt.
+2. **Press Generate.** The button shows the price. Nano Banana 2.1 puts your photo into the Tim Burton Girls scene and makes one 2K photo. You write no prompt.
 3. **Download or share.** The photo is ready in a few minutes as a 9:16 2K image. Download it, share it from your phone, turn it into a video, or find it later in your Library.
 
 ### The by-hand way, with the exact prompts
 
-The one-tap flow runs this prompt for you. The photo prompt puts your photo into the scene (Nano Banana 2, image mode, 9:16, 2K). To change it, copy it and edit it in AI Photo.
+The one-tap flow runs this prompt for you. The photo prompt puts your photo into the scene (Nano Banana 2.1, image mode, 9:16, 2K). To change it, copy it and edit it in AI Photo.
 
 #### Variant: Photo
 
-Settings: 1 photo (your selfie, face clear) · Nano Banana 2 · photo · 2K · 9:16 · 3 credits in one tap.
+Settings: 1 photo (your selfie, face clear) · Nano Banana 2.1 · photo · 2K · 9:16 · 3 credits in one tap.
 
 1. Open [AI Photo with this template](https://www.makeviral.ai/photo?template=tim-burton-girls-ai-trend) and add your photo (your selfie, face clear). Pick 2K for the same size as the one-tap photo. The photo prompt is filled in:
 
@@ -107,8 +107,8 @@ You pay per photo in credits, and the create page shows the exact price on the G
 
 | Model | Settings | Credits |
 | --- | --- | --- |
-| Nano Banana 2 (this template) | 2K photo, 9:16, one tap | 3 |
-| Nano Banana 2 (by hand in AI Photo) | 1K photo, 9:16, same prompt | 2 |
+| Nano Banana 2.1 (this template) | 2K photo, 9:16, one tap | 3 |
+| Nano Banana 2.1 (by hand in AI Photo) | 1K photo, 9:16, same prompt | 2 |
 
 Credits come with a plan; see [pricing](https://www.makeviral.ai/pricing). A failed photo gives its credits back.
 
@@ -218,7 +218,7 @@ The CapCut template maker Fabihola CC (@fabihola_cc), who posts from Mexico. The
 
 ### Which AI models make it?
 
-The Photo runs on Nano Banana 2, Google's image model, as one 2K image. The Video runs on Seedance 2.5, made straight from your selfie: 10 seconds, vertical, 720p, with sound.
+The Photo runs on Nano Banana 2.1, Google's image model, as one 2K image. The Video runs on Seedance 2.5, made straight from your selfie: 10 seconds, vertical, 720p, with sound.
 
 ### Can men or couples do it?
 

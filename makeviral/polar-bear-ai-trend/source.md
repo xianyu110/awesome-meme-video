@@ -5,7 +5,7 @@
 Canonical: https://www.makeviral.ai/templates/polar-bear-ai-trend
 Updated: 2026-10-15
 Published: 2026-10-14
-Author: İrfan Şener (https://www.makeviral.ai/about)
+Author: MakeViral Team (https://www.makeviral.ai/about)
 Publisher: MakeViral (https://www.makeviral.ai)
 
 The **Polar Bear 2026** meme is an eerie, AI-looking polar bear first posted in 2023 as "a November meme from 2026". In August 2026 an AI clip of the bear singing "Remember November 2026 is coming" brought it back. You need one photo: you or your pet sing in the bear's place, or the bear appears behind you.

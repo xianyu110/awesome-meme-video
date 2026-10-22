@@ -63,7 +63,30 @@ SOUND: a dark, slow, heavy runway beat with NO singing and NO lyrics, a gasping,
 Avoid: singing, lyrics, a different outfit, missing wings, a different face, a different animal or species, extra people on the runway, writing, logos, captions, subtitles, watermarks, extra limbs, morphing, facial distortion. The outfit covers the body like an evening gown: never a bra top, never underwear or lingerie as the outfit. No letters, words or logos on the stage, the screens or the clothes. The wings grow from the back, never from the arms.
 ```
 
-### 3. 1. Open [AI Photo with this template](https://www.makeviral.ai/photo?template=victoria-secret-runway-ai-trend&variant=pet) and add your photo (your pet, whole body). The photo prompt is filled in (Pet)
+### 3. 1. The video prompt is filled in. Settings: Seedance 2.5, 10 s, 720p, 9:16, sound on. The video prompt
+
+*Kind: video_prompt*
+
+```text
+High-end photorealistic fashion backstage video. A glamorous high-fashion backstage preparation scene immediately before a spectacular runway show: a dark backstage dressing area, mirrors framed by round bulbs, clothes rails, staff in black.
+THE MODEL: the person in [Image 1], in every frame: copy the exact face from [Image 1] (the face shape, eye color and eye shape, eyebrows, nose, mouth, skin tone, age, hair color, hair length and hairstyle, and any beard, moustache, glasses or freckles), so their friends recognize them at once. The face stays the same from the first frame to the last; never morph.
+THE OUTFIT: an elaborate white couture gown with long sleeves and a high neck, the bodice decorated with intricate bead embroidery and sparkling crystals, a floor-length layered feather-textured skirt, silver heels; from 00:05, large dramatic white feather wings. If [Image 1] shows a man, he wears a white beaded couture suit and the same wings.
+
+[00:00-00:03] a cinematic medium close-up from a three-quarter side angle: THE MODEL sits calmly at the bulb mirror while professional makeup artists prepare them for the runway. Only the makeup artists' hands are visible: a soft brush on the cheek, then lipstick (a man: powder only). THE MODEL remains still and composed, then looks subtly toward the camera, the face large and sharp: exactly the face from [Image 1]. Makeup appears polished and sophisticated with realistic skin texture: soft glam that keeps their own features.
+[00:03-00:05] the camera slowly moves downward: a dresser in black kneels at THE MODEL's feet and fastens the strap of a silver heel.
+[00:05-00:08] a smooth upward reveal: THE MODEL stands up in the large white feather wings, a dresser adjusts the wing straps, bright camera flashes make the crystals sparkle.
+[00:08-00:10] THE MODEL turns and walks toward a doorway of bright white runway light, the wings seen from behind, and glances back with a subtle confident smile. If [Image 1] shows an animal, THE MODEL is that animal with its own face, fur and markings: the brush grooms its fur, a small crystal collar instead of heels, small white wings, no gown, on four legs.
+
+Camera: smooth gimbal, slow push-in, shallow depth of field. Lighting: dark backstage, bright flashes, subtle haze.
+SOUND: soft backstage chatter, brushes, camera shutters, then a glossy runway beat with NO singing and NO lyrics as THE MODEL walks into the light.
+
+No nudity. No letters on the chair backs, the mirrors or the walls.
+真人实拍、五官清晰、面部稳定、不扭曲、不变形、人体结构正常、同一角色、服装一致、发型不变.
+
+Avoid: singing, lyrics, a different outfit, missing wings, a different face, a different animal or species, extra people on the runway, writing, logos, captions, subtitles, watermarks, extra limbs, morphing, facial distortion. The outfit covers the body like an evening gown: never a bra top, never underwear or lingerie as the outfit. No letters, words or logos on the stage, the screens or the clothes. The wings grow from the back, never from the arms.
+```
+
+### 4. 1. Open [AI Photo with this template](https://www.makeviral.ai/photo?template=victoria-secret-runway-ai-trend&variant=pet) and add your photo (your pet, whole body). The photo prompt is filled in (Pet)
 
 *Kind: photo_prompt*
 
@@ -71,7 +94,7 @@ Avoid: singing, lyrics, a different outfit, missing wings, a different face, a d
 Use the uploaded image as the base. 9:16 vertical photo, like a real phone photo taken from the audience at a glamorous televised fashion show. The pet from the uploaded image stands on its four paws at the far end of a long glossy runway, facing the camera, with small white feathered angel wings strapped to its back, sized for the pet, and a thin sparkling crystal collar. Its whole body is in view, from the ears to the paws, with its tail. A dark arena full of cheering people on both sides, small blue spotlights, white beams, photographers at the foot of the runway. Realistic photo with natural colors. Exactly one animal on the runway and no people on it. No clothes on the pet except the wings and the collar. No text, no logos, no letters on the stage or the screens, no watermark.
 ```
 
-### 4. 3. Press the film button on the still to open AI Video with the still as the first frame. Settings: Kling 3.0, 10 s, 1080p, 9:16, sound on. The video prompt
+### 5. 3. Press the film button on the still to open AI Video with the still as the first frame. Settings: Kling 3.0, 10 s, 1080p, 9:16, sound on. The video prompt
 
 *Kind: video_prompt*
 

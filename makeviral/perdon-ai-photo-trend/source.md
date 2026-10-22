@@ -3,20 +3,20 @@
 > The perdon trend is the TikTok AI vs reality photo trend: first a perfect AI photo of you ("esta soy yo"), then the real photo with the word "perdón" (sorry).
 
 Canonical: https://www.makeviral.ai/templates/perdon-ai-photo-trend
-Updated: 2026-10-19
+Updated: 2026-10-21
 Published: 2026-10-19
-Author: İrfan Şener (https://www.makeviral.ai/about)
+Author: MakeViral Team (https://www.makeviral.ai/about)
 Publisher: MakeViral (https://www.makeviral.ai)
 
 The **perdon trend** is the TikTok AI vs reality photo trend: first a perfect AI photo of you ("esta soy yo"), then the real photo with the word "perdón" (sorry). It took off in Argentina and Mexico in October 2026. Here, AI makes the perfect version from one photo of you or your pet.
 
 Add one everyday photo of yourself or your pet. AI gives it back too perfect: the dream place, salon hair, studio light. Post it first, then your real photo with one word: perdón.
 
-Also called: Perdón trend, Perdón IA foto, AI vs reality photo trend.
+Also called: Perdón trend, Perdón IA foto, AI vs reality photo trend, I'm so sorry costume trend, I'm sorry I lied trend.
 
 **Make it now:** [Make this photo](https://www.makeviral.ai/templates/perdon-ai-photo-trend/create). 1 photo in · 2K photo out · 9:16 · 3 credits, charged once · ready in a few minutes · no prompt to write.
 
-Keyword: perdon trend. Also answers: perdon trend ia, perdon trend de fotos ia, perdon ai trend, ai vs reality, perdon trend ai, ia vs realidad, ai vs realidad, perdon ia, perdon photo trend, ai vs reality photo, perdon trend de fotos, perdon fotos ia, perdon ia trend de fotos, perdon trend ia tutorial, perdon trend como hacer, como hacer el trend perdon, perdon trend plantilla, esta soy yo perdon ia, esta soy yo perdon, perdon trend perro, perdon trend meme, perdon trend gracioso, perdon con ia trend, tendencia perdon fotos ia, perdon fotos trend, ai vs reality meme, ai vs reality photos, ai expectation vs reality meme, ai vs real photo, pardon ai trend, ai perfect photo trend, expectation vs reality ai trend, lo siento trend.
+Keyword: perdon trend. Also answers: im so sorry i lied trend, perdon trend ia, im sorry i lied costume, im so sorry i lied halloween costume, perdon trend de fotos ia, perdon ai trend, ai vs reality, perdon trend ai, ia vs realidad, ai vs realidad, perdon ia, perdon photo trend, ai vs reality photo, so sorry i lied ai costume, im sorry i lied halloween costume, im sorry i lied ai costume, im sorry i lied costume ai, im so sorry i lied, im sorry halloween costume, im so sorry trend, sorry i lied ai trend, im sorry i lied costume tutorial, im so sorry i lied trend funny, im sorry i lied slideshow, im sorry i lied photo trend, halloween costume trend tiktok, costume trend ai, perdon trend de fotos, perdon fotos ia, perdon ia trend de fotos, perdon trend ia tutorial, perdon trend como hacer, como hacer el trend perdon, perdon trend plantilla, esta soy yo perdon ia, esta soy yo perdon, perdon trend perro, perdon trend meme, perdon trend gracioso, perdon con ia trend, tendencia perdon fotos ia, perdon fotos trend, ai vs reality meme, ai vs reality photos, ai expectation vs reality meme, ai vs real photo, pardon ai trend, ai perfect photo trend, expectation vs reality ai trend, lo siento trend.
 
 ## What is the Perdon Trend trend, and where did it start?
 
@@ -31,6 +31,7 @@ The sound under it is a 60-second piece of music by the TikTok user Harrison, po
 - **2026-10-15**: The format spreads: a jiu-jitsu competitor in Mexico (4.2 million views) and firefighters in Chile (4.3 million) post their own perfect-then-real carousels on the same sound. Source: [TikTok](https://www.tiktok.com/music/original-sound-7670770865642621710).
 - **2026-10-17**: A pet version from Mexico, "Está es mi chihuahua princess" and then the real chihuahua, reaches 6.6 million views and 2 million likes. The biggest post of the trend, from Argentina, passes 30 million views the same week. Source: [TikTok](https://www.tiktok.com/@jimherrp031727/video/7697729254355782933).
 - **2026-10-18**: AI templates and Spanish how-to videos for the "perdon trend de fotos ia" appear (the biggest has 80,100 views by 19 October), and the hashtag #perdontrendia starts. Source: [TikTok](https://www.tiktok.com/tag/perdontrend).
+- **2026-10-19**: An English Halloween costume wave starts on the same sound: an AI-perfect costume, then the real homemade one and "I'm so sorry". The first big US post (18 October, a mummy costume) reaches 4.2 million views, and by 21 October the sound has 148,200 videos. Source: [TikTok sound](https://www.tiktok.com/music/original-sound-7670770865642621710).
 
 ## What the Perdon Trend photo looks like
 
@@ -47,16 +48,16 @@ Everything runs in the browser. No editing app, no watermark.
 ### The one-tap way (no prompt to write)
 
 1. **Add your photo.** Press "Make yours" and add your everyday photo, face in view. Take it with the camera or pick it from your library. Start here: https://www.makeviral.ai/templates/perdon-ai-photo-trend/create
-2. **Press Generate.** The button shows the price. Nano Banana 2 puts your photo into the Perdon AI vs Reality scene and makes one 2K photo. You write no prompt.
+2. **Press Generate.** The button shows the price. Nano Banana 2.1 puts your photo into the Perdon AI vs Reality scene and makes one 2K photo. You write no prompt.
 3. **Download or share.** The photo is ready in a few minutes as a 9:16 2K image. Download it, share it from your phone, turn it into a video, or find it later in your Library.
 
 ### The by-hand way, with the exact prompts
 
-The one-tap flow runs this prompt for you. The photo prompt puts your photo into the scene (Nano Banana 2, image mode, 9:16, 2K). To change it, copy it and edit it in AI Photo.
+The one-tap flow runs this prompt for you. The photo prompt puts your photo into the scene (Nano Banana 2.1, image mode, 9:16, 2K). To change it, copy it and edit it in AI Photo.
 
 #### Variant: You
 
-Settings: 1 photo (your everyday photo, face in view) · Nano Banana 2 · photo · 2K · 9:16 · 3 credits in one tap.
+Settings: 1 photo (your everyday photo, face in view) · Nano Banana 2.1 · photo · 2K · 9:16 · 3 credits in one tap.
 
 1. Open [AI Photo with this template](https://www.makeviral.ai/photo?template=perdon-ai-photo-trend) and add your photo (your everyday photo, face in view). Pick 2K for the same size as the one-tap photo. The photo prompt is filled in:
 
@@ -70,7 +71,7 @@ One-tap version of this variant: https://www.makeviral.ai/templates/perdon-ai-ph
 
 #### Variant: Pet
 
-Settings: 1 photo (your pet's face and body, in clear light) · Nano Banana 2 · photo · 2K · 9:16 · 3 credits in one tap.
+Settings: 1 photo (your pet's face and body, in clear light) · Nano Banana 2.1 · photo · 2K · 9:16 · 3 credits in one tap.
 
 1. Open [AI Photo with this template](https://www.makeviral.ai/photo?template=perdon-ai-photo-trend&variant=pet) and add your photo (your pet's face and body, in clear light). Pick 2K for the same size as the one-tap photo. The photo prompt is filled in:
 
@@ -82,6 +83,34 @@ Settings: 1 photo (your pet's face and body, in clear light) · Nano Banana 2 ·
 
 One-tap version of this variant: https://www.makeviral.ai/templates/perdon-ai-photo-trend/create?variant=pet
 
+#### Variant: Halloween costume
+
+Settings: 1 photo (you today, in your real costume) · Nano Banana 2.1 · photo · 2K · 9:16 · 3 credits in one tap.
+
+1. Open [AI Photo with this template](https://www.makeviral.ai/photo?template=perdon-ai-photo-trend&variant=costume) and add your photo (you today, in your real costume). Pick 2K for the same size as the one-tap photo. The photo prompt is filled in:
+
+   ```text
+   Use the uploaded image as the base. Make the stunning, fancy version of this exact Halloween costume photo, the first slide of an "I'm so sorry I lied" costume post: the same person, the same costume idea in the same main colors, the same pose and the same camera angle, but the costume as a professional costume maker would make it, with all the luxury details. Upgrade only the costume and the polish, like an AI photo edit that went a little too far: the cheap or homemade parts become rich, well-made materials (satin, velvet, lace, tulle, sequins instead of felt, paper, plastic or a bedsheet), with clean seams and a perfect fit, and with the luxury details that fit this costume: gold jewelry, a matching headpiece or crown, gloves, a cape, wings or a tail when the costume has one, and polished versions of the props in the photo. For an Egyptian mummy, that is clean, neatly wrapped cream bandages with layered gold necklaces, an ankh pendant, gold bracelets and a gold snake arm cuff. Face paint or makeup becomes neat, professional Halloween makeup; a mask stays a mask and a wig stays a wig, styled and glossy. Without a wig the hair is freshly styled, in its own color and its own length. If the person wears no costume, give them the stunning, fancy Egyptian mummy Halloween costume. The place stays the same place, tidied and dressed for Halloween (carved pumpkins, warm string lights), with soft, warm photo-shoot light and a gently blurred background; the image is sharp, clean and polished, like a professional photographer's shot. The expression stays the same, happy and photogenic. Keep the face, the age, the body shape and the body size exactly as in the photo: never slimmer, curvier, taller, younger or more muscular, and the costume is never tighter, shorter or more revealing than in the photo. Exactly one person: nobody added, nobody removed; a pet in the photo stays, groomed and fluffy. Any logo, crest, brand name or writing on the clothes or in the place becomes plain. Vertical 9:16; if the photo is wider, extend the dream place naturally. Photorealistic, so people believe it for a second. No text, no captions, no stickers, no logos, no watermark, no frame.
+   ```
+
+2. Press Generate, then download the 9:16 image. To make it move, press "Make it a video" on it.
+
+One-tap version of this variant: https://www.makeviral.ai/templates/perdon-ai-photo-trend/create?variant=costume
+
+#### Variant: Pet costume
+
+Settings: 1 photo (your pet in its real costume) · Nano Banana 2.1 · photo · 2K · 9:16 · 3 credits in one tap.
+
+1. Open [AI Photo with this template](https://www.makeviral.ai/photo?template=perdon-ai-photo-trend&variant=petcostume) and add your photo (your pet in its real costume). Pick 2K for the same size as the one-tap photo. The photo prompt is filled in:
+
+   ```text
+   Use the uploaded image as the base. Make the stunning, fancy version of this exact pet Halloween costume photo, the first slide of an "I'm so sorry I lied" costume post: the same pet, the same costume idea in the same main colors, the same pose and the same camera angle, but the costume as a professional pet costume maker would make it, with all the luxury details. The pet keeps its own species, breed look, face, eyes, ears, muzzle, fur colors and markings, and the natural body volume and proportions of that animal, never flattened, stretched or swapped for another breed, but looks its very best: freshly groomed, fluffy, glossy and clean fur, bright happy eyes. The cheap or homemade costume becomes a soft, rich, well-fitted pet costume (velvet, satin, plush, tulle), with neat seams and the luxury details that fit it: a small crown or hat, a little cape, wings or a bow tie, gold trim. It is comfortable and made for the pet: nothing covers the eyes, the nose or the mouth. If the pet wears no costume, give it the stunning, fancy Egyptian mummy Halloween costume: clean cream bandage wraps on the body and a small gold collar. The place becomes the dream Halloween version of the same spot: carved pumpkins, warm candle lights and soft autumn decor. Soft, warm photo-shoot light with a gently blurred background. Exactly the pets of the photo: none added, none removed, and no people added. Any logo, crest, brand name or writing on the clothes or in the place becomes plain. Vertical 9:16; if the photo is wider, extend the dream place naturally. Photorealistic, so people believe it for a second. No text, no captions, no stickers, no logos, no watermark, no frame.
+   ```
+
+2. Press Generate, then download the 9:16 image. To make it move, press "Make it a video" on it.
+
+One-tap version of this variant: https://www.makeviral.ai/templates/perdon-ai-photo-trend/create?variant=petcostume
+
 ### Which photo works best?
 
 Upload **one everyday photo**: the real one you will post last. For **You**, a photo of you alone. For **Pet**, a photo of your own dog or cat.
@@ -89,6 +118,7 @@ Upload **one everyday photo**: the real one you will post last. For **You**, a p
 - **The more ordinary, the better the joke.** Your living room, the local court, the bus stop, a messy desk. The AI turns that place into the dream version.
 - **Show the face clearly,** in normal light, with no sunglasses. The AI keeps your face, age, hair color and body shape, so your friends still see it is you.
 - **Any pose works.** The perfect photo keeps the same pose and angle, which makes the side by side funnier.
+- **Halloween costume:** you today, in your real costume, head to feet. **Pet costume:** your pet in its costume.
 - Use your own photo, or your own pet. Adults only: never a child, a celebrity or a stranger. The joke is on you.
 
 ## How many credits does it cost?
@@ -97,8 +127,8 @@ You pay per photo in credits, and the create page shows the exact price on the G
 
 | Model | Settings | Credits |
 | --- | --- | --- |
-| Nano Banana 2 (this template) | 2K photo, 9:16, one tap | 3 |
-| Nano Banana 2 (by hand in AI Photo) | 1K photo, 9:16, same prompt | 2 |
+| Nano Banana 2.1 (this template) | 2K photo, 9:16, one tap | 3 |
+| Nano Banana 2.1 (by hand in AI Photo) | 1K photo, 9:16, same prompt | 2 |
 
 Credits come with a plan; see [pricing](https://www.makeviral.ai/pricing). A failed photo gives its credits back.
 
@@ -114,9 +144,9 @@ One new picture: the "esta soy yo" slide. It is your photo, same pose, same angl
 | Your clothes | A neat, clean, stylish version of the same outfit, in the same colors |
 | Your face, age and body | The same. The AI never makes you slimmer, taller or more muscular |
 
-**You** makes the perfect photo of you. **Pet** makes your dog or cat the groomed, fluffy "princess" version, on a velvet cushion in a fancy room, still clearly your pet.
+**You** makes the perfect photo of you. **Pet** makes your dog or cat the groomed, fluffy "princess" version, on a velvet cushion in a fancy room, still clearly your pet. **Halloween costume** and **Pet costume** do the same for the costume in your photo: they make the stunning, fancy version of it for the I'm so sorry I lied posts (see below).
 
-**How MakeViral makes it:** your photo goes to Nano Banana 2, Google's image model, and comes back as one 2K vertical picture. The real photo is your own: you post it last. The create page shows the exact price on the Generate button before you spend anything, and every run is a new take.
+**How MakeViral makes it:** your photo goes to Nano Banana 2.1, Google's image model, and comes back as one 2K vertical picture. The real photo is your own: you post it last. The create page shows the exact price on the Generate button before you spend anything, and every run is a new take.
 
 ## How to post the perdon trend (the AI vs realidad carousel)
 
@@ -130,9 +160,24 @@ One new picture: the "esta soy yo" slide. It is your photo, same pose, same angl
 
 Want the middle slides too? Run the template again on the same photo, or keep the real photo for the end and let the jump do the work: many of the biggest posts have only two or three slides.
 
+## I'm so sorry I lied: the Halloween costume version
+
+In October 2026 the same sound got an English wave: the **I'm so sorry I lied trend**, the perdon trend with a Halloween costume. Slide 1 is a stunning AI photo of a costume ("When I was little I was a butterfly for Halloween"), the middle slides take the lies back ("Sorry, I lied, I didn't have jewelry", "my outfit was all black"), and the last slide is the real, homemade costume with "I'm so sorry". The first big English post came from the US on 18 October (4.2 million views), posts with up to 6.3 million views followed the next day, and on 20 October more than ten how-to videos called it the I'm so sorry I lied Halloween costume trend, the I'm so sorry costume trend or the I'm sorry I lied trend.
+
+Most of those posts use an old photo from when the creator was little. Here you use a photo of you today: this page is for adults and pets only.
+
+| Version | Your photo | What you get |
+|---|---|---|
+| **Halloween costume** | You today, in the costume you really wore or made, head to feet | The stunning, fancy version of the same costume, with all the luxury details: rich fabrics, gold jewelry, a styled wig, neat makeup, a place dressed for Halloween. Your face, age and body stay yours. No costume in the photo? You get the fancy Egyptian mummy. |
+| **Pet costume** | Your dog or cat in its costume | The deluxe version of the same pet costume, on a groomed pet, in a Halloween set |
+
+Then post a TikTok photo slideshow on the sound of the trend: the AI photo first with "This was my Halloween costume", your real photo last with "I'm sorry I lied" or "I'm so sorry". That is the whole I'm sorry I lied costume post, and Halloween is on 31 October.
+
 ## Where does the prompt come from?
 
 The trend started as AI photo edits, and since 18 October it also runs on closed app templates. None of the creators shared a prompt: we read the captions and about 1,200 comments of the five biggest posts, and the how-to videos show only the template buttons. So our prompt is written from the creators' own slide lines. Each "mentira" line names one thing the AI made too good (the place, the hair, the outfit, the polish), and the prompt asks for exactly those upgrades and nothing else. It keeps your face, age, body and hair color, so the joke lands on the place and the polish, not on how you look.
+
+For the Halloween costume versions, one how-to for the costume template did share its idea in the caption: "start with a stunning, fancy Egyptian mummy Halloween costume, then slowly strip away all the luxury details, and finally show the simple, plain original look". Our costume prompt keeps those words. It makes the stunning, fancy costume with all the luxury details, and your own photo is the simple, plain original look.
 
 ## What goes wrong, and how do you fix it?
 
@@ -142,6 +187,7 @@ The trend started as AI photo edits, and since 18 October it also runs on closed
 | The place did not change much | Run it again. A plain, everyday background gives the AI more to upgrade. |
 | It is too perfect to be funny | That is the point: the real photo after it is the punchline. Pick your most ordinary real photo. |
 | Your pet came out as a different breed (Pet) | Use a photo where the pet's face and fur are clear and not too small. |
+| The AI made a different costume (Halloween costume) | Use a photo where the whole costume shows, head to feet, in good light. Every run is a new take. |
 | A run fails, or the model refuses a photo | The credits come back. Try another photo. |
 
 ## Perdon Trend trend questions
@@ -185,6 +231,14 @@ Close cousins. The AI vs reality meme and the AI expectation vs reality meme com
 ### What other names does the perdon trend have?
 
 The how-to captions call it the perdon trend gracioso (the funny perdón trend), the perdon con ia trend, the tendencia perdon fotos ia (the perdón AI photo trend) and the perdon fotos trend. In English some write the pardon ai trend, and a few pet posts end on "lo siento" instead of perdón, so it is also the lo siento trend.
+
+### What is the I'm so sorry I lied trend?
+
+It is the English Halloween costume version of the perdon trend, from October 2026, on the same sound. Slide 1 is a stunning AI photo of a Halloween costume, the last slide is the real, homemade costume with "I'm so sorry". People also call it the I'm so sorry costume trend. The funny part is the gap: the cheaper the real costume, the bigger the laugh.
+
+### Is there an I'm sorry I lied costume tutorial? Can I make it with an AI photo?
+
+Here is the short one. Pick Halloween costume, add one photo of you today in the costume you really wore, and press Generate: you get the stunning, fancy AI version of that costume. Then post a TikTok photo slideshow, the AI photo first and your real photo last, with "I'm sorry I lied" on the last slide. For your dog or cat, pick Pet costume. You need no template and no prompt.
 
 ### Is the photo real or AI?
 

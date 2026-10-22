@@ -5,7 +5,7 @@
 Canonical: https://www.makeviral.ai/templates/susan-dell-dance-ai
 Updated: 2026-10-17
 Published: 2026-10-17
-Author: İrfan Şener (https://www.makeviral.ai/about)
+Author: MakeViral Team (https://www.makeviral.ai/about)
 Publisher: MakeViral (https://www.makeviral.ai)
 
 The **Susan Dell dance** is the new TikTok name for the Lord Farquaad dance: a deadpan solo with a hop into a wide squat, low arm sweeps, bouncy steps on the toes and a freeze on one leg with one arm out. From one full-body photo, MakeViral plays the routine with you, in your own place, with the sound.

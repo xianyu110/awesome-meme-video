@@ -7,10 +7,12 @@ The boombox rap AI trend turns two photos into a street rap video: you walk towa
 
 ## Demo videos (CDN)
 
+- https://www.makeviral.ai/media/templates/boombox-rap-ai-trend/original-pet-v2.mp4
 - https://www.makeviral.ai/media/templates/boombox-rap-ai-trend/original-slide-v2.mp4
 
 ## Posters
 
+- https://www.makeviral.ai/media/templates/boombox-rap-ai-trend/original-pet-v1.jpg
 - https://www.makeviral.ai/media/templates/boombox-rap-ai-trend/original-slide-v1.jpg
 
 ## Prompts
@@ -60,5 +62,30 @@ The friend carries a big silver retro boombox on the right shoulder, away from t
 8-10 s: the rapper raises one hand to shield the face from flashing cameras, then drops it with a big smile; both stop and give the camera a cool nod.
 
 Audio: an original upbeat, bouncy hip-hop beat that plays from the boombox, the rapper rapping short, clean, playful lines in English in sync with the mouth, and the friend's short ad-libs. Exactly two people, nobody else on the street, one boombox, no extra arms or hands. No text, no subtitles, no logos, no brand names on the boombox or the clothes.
+```
+
+### 3. 1. The video prompt is filled in. Settings: Seedance 2.5, 10 s, 720p, 9:16, sound on. The video prompt (Pet)
+
+*Kind: video_prompt*
+
+```text
+A playful street rap clip like a real music video, in one continuous handheld shot with no cuts: the camera moves backward down the street in front of a pet and its owner as they walk toward it, low enough to keep the whole pet in view, and frames the owner from the knees up, both faces large and sharp. Photorealistic, soft overcast daylight, slightly warm film colors.
+
+The place: a quiet side street next to a long red-brick building with rows of windows, on a grey, overcast day: cracked grey asphalt with faded parking lines, a few parked cars far back, trees and low brick houses at the end of the street.
+
+The rapper, in FRONT on the RIGHT, closest to the camera, is the pet in [Image 2], in every frame: the same species and breed, face, eyes, ears, muzzle, fur colors, fur length and markings as in [Image 2], with the natural body volume and proportions of that animal: never flattened, squashed, stretched or merged with anything, so its owner recognizes it at once. It walks upright on its hind legs, with real furry paws, never human hands. Its mouth opens and closes with every rapped word; it keeps its own animal face, teeth and tongue. No clothes, no costume, no sunglasses, no chain.
+The owner with the boombox, half a step behind on the LEFT, is the person in [Image 1], in every frame: copy the exact face from [Image 1] (the face shape, eye color and eye shape, eyebrows, nose, mouth, skin tone, age, hair color, hair length and hairstyle, and any beard, moustache, glasses or freckles) and the clothes from [Image 1]. The face stays the same from the first frame to the last, so their friends recognize them at once. Never morph.
+If [Image 1] shows the animal and [Image 2] the person, swap the roles: the animal always raps in front, the person always carries the boombox.
+
+The owner carries a big silver retro boombox on the left shoulder, away from the pet, one hand on its handle, never in front of a face, and nods to the beat, grins and hypes the pet up.
+
+0-3 s: they walk toward the camera; the pet raps into the lens, points a front paw at the camera and bounces on each step.
+3-6 s: still walking, the pet turns an invisible steering wheel with both front paws, taps a paw on its head and makes binoculars with both paws around the eyes.
+6-8 s: the pet leans toward the camera with a cheeky look for the punchline, while the owner lifts the boombox a little higher and laughs.
+8-10 s: the pet shields its face from flashing cameras with one paw, then drops it; both stop, the pet gives the camera a cool nod and the owner points at it with a big smile.
+
+Audio: an original upbeat, bouncy hip-hop beat from the boombox, a playful, clean rap in English for the pet in sync with its mouth, and the owner's short ad-libs and laughs.
+
+Exactly one person, one animal and one boombox, nobody else on the street; they never merge with each other or with the boombox. No text, no subtitles, no logos, no brand names on the boombox or the clothes.
 ```
 

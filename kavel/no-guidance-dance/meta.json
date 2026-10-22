@@ -1,0 +1,73 @@
+{
+  "source": "kavel",
+  "source_site": "https://www.kavel.ai",
+  "slug": "no-guidance-dance",
+  "name": "No Guidance Dance AI",
+  "url": "https://www.kavel.ai/video/no-guidance-dance",
+  "listing_url": "https://www.kavel.ai/ai-video-trends",
+  "blurb": "Pick a real No Guidance dance clip, add one photo, and you do the whole routine.",
+  "published": null,
+  "updated": null,
+  "scraped_at": "2026-10-22",
+  "listing_index": 1,
+  "this_week_rank": null,
+  "demo_videos": [
+    "https://cdn.kavel.ai/videos/kavel-showcase/no-guidance-pink-tulle.mp4",
+    "https://cdn.kavel.ai/videos/kavel-showcase/no-guidance-trench-garden.mp4",
+    "https://cdn.kavel.ai/videos/kavel-showcase/no-guidance-yellow-top.mp4",
+    "https://cdn.kavel.ai/videos/kavel-showcase/no-guidance-sunglasses-jeans.mp4",
+    "https://cdn.kavel.ai/videos/kavel-showcase/no-guidance-red-dress.mp4",
+    "https://cdn.kavel.ai/videos/kavel-showcase/no-guidance-studio-hoodie.mp4"
+  ],
+  "posters": [
+    "https://cdn.kavel.ai/posters/kavel-showcase/no-guidance-pink-tulle-poster.webp",
+    "https://cdn.kavel.ai/posters/kavel-showcase/no-guidance-pink-tulle-poster-thumb-240.webp",
+    "https://cdn.kavel.ai/posters/kavel-showcase/no-guidance-trench-garden-poster.webp",
+    "https://cdn.kavel.ai/posters/kavel-showcase/no-guidance-yellow-top-poster.webp",
+    "https://cdn.kavel.ai/posters/kavel-showcase/no-guidance-sunglasses-jeans-poster.webp",
+    "https://cdn.kavel.ai/posters/kavel-showcase/no-guidance-red-dress-poster.webp",
+    "https://cdn.kavel.ai/posters/kavel-showcase/no-guidance-studio-hoodie-poster.webp"
+  ],
+  "prompts": [
+    {
+      "label": "Template prompt",
+      "variant": null,
+      "kind": "video_prompt",
+      "text": "Track the exact camera movement, framing, facial expressions, and body movements from the video. Keep the face, hairstyle, body, clothing, and overall appearance exactly the same as in the reference image, with no changes or distortion. Use the video's background and environment. Keep every dance move from the video in time with the beat, from the first step to the final pose. Output in 9:16 vertical format."
+    },
+    {
+      "label": "No Guidance dance â trench coat in a sunny garden",
+      "variant": "no-guidance-trench-garden",
+      "kind": "video_prompt",
+      "text": "Track the exact camera movement, framing, facial expressions, and body movements from the video. Keep the face, hairstyle, body, clothing, and overall appearance exactly the same as in the reference image, with no changes or distortion. Use the video's background and environment. Keep every dance move from the video in time with the beat, from the first step to the final pose. Output in 9:16 vertical format. The template clip: a dancer in a long beige trench coat doing the No Guidance dance under a slatted roof in a sunny garden."
+    },
+    {
+      "label": "No Guidance dance â yellow top and spins by the sofa",
+      "variant": "no-guidance-yellow-top",
+      "kind": "video_prompt",
+      "text": "Track the exact camera movement, framing, facial expressions, and body movements from the video. Keep the face, hairstyle, body, clothing, and overall appearance exactly the same as in the reference image, with no changes or distortion. Use the video's background and environment. Keep every dance move from the video in time with the beat, from the first step to the final pose. Output in 9:16 vertical format. The template clip: a dancer in a yellow crop top and black skirt doing the No Guidance dance with spins in front of a leather sofa."
+    },
+    {
+      "label": "No Guidance dance â sunglasses and jeans in the living room",
+      "variant": "no-guidance-sunglasses-jeans",
+      "kind": "video_prompt",
+      "text": "Track the exact camera movement, framing, facial expressions, and body movements from the video. Keep the face, hairstyle, body, clothing, and overall appearance exactly the same as in the reference image, with no changes or distortion. Use the video's background and environment. Keep every dance move from the video in time with the beat, from the first step to the final pose. Output in 9:16 vertical format. The template clip: a dancer in sunglasses, a headband, a crop top and jeans doing the No Guidance dance in a living room."
+    },
+    {
+      "label": "No Guidance dance â red dress close to the camera",
+      "variant": "no-guidance-red-dress",
+      "kind": "video_prompt",
+      "text": "Track the exact camera movement, framing, facial expressions, and body movements from the video. Keep the face, hairstyle, body, clothing, and overall appearance exactly the same as in the reference image, with no changes or distortion. Use the video's background and environment. Keep every dance move from the video in time with the beat, from the first step to the final pose. Output in 9:16 vertical format. The template clip: a dancer in a red slip dress doing the No Guidance dance close to the camera by a wooden door."
+    },
+    {
+      "label": "No Guidance dance â black hoodie in a dance studio",
+      "variant": "no-guidance-studio-hoodie",
+      "kind": "video_prompt",
+      "text": "Track the exact camera movement, framing, facial expressions, and body movements from the video. Keep the face, hairstyle, body, clothing, and overall appearance exactly the same as in the reference image, with no changes or distortion. Use the video's background and environment. Keep every dance move from the video in time with the beat, from the first step to the final pose. Output in 9:16 vertical format. The template clip: a dancer in a black hoodie and wide track pants doing the No Guidance choreography in a mirrored dance studio, a second dancer behind; the person in the photo replaces the dancer in front."
+    }
+  ],
+  "prompt_count": 6,
+  "prompts_public": true,
+  "note": null,
+  "showcase_count": 5
+}

@@ -5,7 +5,7 @@
 Canonical: https://www.makeviral.ai/templates/ai-day-of-the-dead-makeup
 Updated: 2026-10-15
 Published: 2026-10-12
-Author: İrfan Şener (https://www.makeviral.ai/about)
+Author: MakeViral Team (https://www.makeviral.ai/about)
 Publisher: MakeViral (https://www.makeviral.ai)
 
 **Catrina makeup**, maquillaje de Catrina in Spanish, is the sugar skull face paint of Mexico's Day of the Dead: a painted skull with dark eye sockets, flowers and fine lines, often with a flower crown. Here you skip the brushes. Add one clear selfie, pick a look, and MakeViral paints the Catrina on your own face in one 2K portrait.
@@ -49,16 +49,16 @@ Everything runs in the browser. No editing app, no watermark.
 ### The one-tap way (no prompt to write)
 
 1. **Add your photo.** Press "Make yours" and add you, face clear. Take it with the camera or pick it from your library. Start here: https://www.makeviral.ai/templates/ai-day-of-the-dead-makeup/create
-2. **Press Generate.** The button shows the price. Nano Banana 2 puts your photo into the Catrina makeup scene and makes one 2K photo. You write no prompt.
+2. **Press Generate.** The button shows the price. Nano Banana 2.1 puts your photo into the Catrina makeup scene and makes one 2K photo. You write no prompt.
 3. **Download or share.** The photo is ready in a few minutes as a 9:16 2K image. Download it, share it from your phone, turn it into a video, or find it later in your Library.
 
 ### The by-hand way, with the exact prompts
 
-The one-tap flow runs this prompt for you. The photo prompt puts your photo into the scene (Nano Banana 2, image mode, 9:16, 2K). To change it, copy it and edit it in AI Photo.
+The one-tap flow runs this prompt for you. The photo prompt puts your photo into the scene (Nano Banana 2.1, image mode, 9:16, 2K). To change it, copy it and edit it in AI Photo.
 
 #### Variant: Skull crown
 
-Settings: 1 photo (you, face clear) · Nano Banana 2 · photo · 2K · 9:16 · 3 credits in one tap.
+Settings: 1 photo (you, face clear) · Nano Banana 2.1 · photo · 2K · 9:16 · 3 credits in one tap.
 
 1. Open [AI Photo with this template](https://www.makeviral.ai/photo?template=ai-day-of-the-dead-makeup&variant=skull) and add your photo (you, face clear). Pick 2K for the same size as the one-tap photo. The photo prompt is filled in:
 
@@ -72,7 +72,7 @@ One-tap version of this variant: https://www.makeviral.ai/templates/ai-day-of-th
 
 #### Variant: Catrina
 
-Settings: 1 photo (you, face clear) · Nano Banana 2 · photo · 2K · 9:16 · 3 credits in one tap.
+Settings: 1 photo (you, face clear) · Nano Banana 2.1 · photo · 2K · 9:16 · 3 credits in one tap.
 
 1. Open [AI Photo with this template](https://www.makeviral.ai/photo?template=ai-day-of-the-dead-makeup) and add your photo (you, face clear). Pick 2K for the same size as the one-tap photo. The photo prompt is filled in:
 
@@ -86,7 +86,7 @@ One-tap version of this variant: https://www.makeviral.ai/templates/ai-day-of-th
 
 #### Variant: Catrín (for men)
 
-Settings: 1 photo (you, face clear) · Nano Banana 2 · photo · 2K · 9:16 · 3 credits in one tap.
+Settings: 1 photo (you, face clear) · Nano Banana 2.1 · photo · 2K · 9:16 · 3 credits in one tap.
 
 1. Open [AI Photo with this template](https://www.makeviral.ai/photo?template=ai-day-of-the-dead-makeup&variant=catrin) and add your photo (you, face clear). Pick 2K for the same size as the one-tap photo. The photo prompt is filled in:
 
@@ -100,7 +100,7 @@ One-tap version of this variant: https://www.makeviral.ai/templates/ai-day-of-th
 
 #### Variant: Marigold field
 
-Settings: 1 photo (you, face clear) · Nano Banana 2 · photo · 2K · 9:16 · 3 credits in one tap.
+Settings: 1 photo (you, face clear) · Nano Banana 2.1 · photo · 2K · 9:16 · 3 credits in one tap.
 
 1. Open [AI Photo with this template](https://www.makeviral.ai/photo?template=ai-day-of-the-dead-makeup&variant=field) and add your photo (you, face clear). Pick 2K for the same size as the one-tap photo. The photo prompt is filled in:
 
@@ -129,8 +129,8 @@ You pay per photo in credits, and the create page shows the exact price on the G
 
 | Model | Settings | Credits |
 | --- | --- | --- |
-| Nano Banana 2 (this template) | 2K photo, 9:16, one tap | 3 |
-| Nano Banana 2 (by hand in AI Photo) | 1K photo, 9:16, same prompt | 2 |
+| Nano Banana 2.1 (this template) | 2K photo, 9:16, one tap | 3 |
+| Nano Banana 2.1 (by hand in AI Photo) | 1K photo, 9:16, same prompt | 2 |
 
 Credits come with a plan; see [pricing](https://www.makeviral.ai/pricing). A failed photo gives its credits back.
 
@@ -206,7 +206,7 @@ It is the skull face paint of La Catrina, the elegant skeleton lady of Mexico's 
 
 ### How do I try Catrina makeup on my photo with AI?
 
-Press "Create your own", add one clear selfie and pick a look: Skull crown, Catrina, Catrín or Marigold field. Press Generate. Nano Banana 2 paints the Catrina look on your face and returns one 2K portrait, usually in a few minutes, and it lands in your Library.
+Press "Create your own", add one clear selfie and pick a look: Skull crown, Catrina, Catrín or Marigold field. Press Generate. Nano Banana 2.1 paints the Catrina look on your face and returns one 2K portrait, usually in a few minutes, and it lands in your Library.
 
 ### What is the Catrina AI prompt?
 
@@ -214,7 +214,7 @@ The prompts behind the Catrina AI trend, viral in Mexico in October 2025, were w
 
 ### Is this the same as the Gemini Catrina trend?
 
-Yes, with the same prompts: each look runs a Catrina Gemini prompt that a creator or a news site shared. The 2025 posts used Google's Gemini app; MakeViral runs those prompts on Nano Banana 2, Google's image model, with the vertical 9:16 format already set. You add your photo and press one button.
+Yes, with the same prompts: each look runs a Catrina Gemini prompt that a creator or a news site shared. The 2025 posts used Google's Gemini app; MakeViral runs those prompts on Nano Banana 2.1, Google's image model, with the vertical 9:16 format already set. You add your photo and press one button.
 
 ### Can men do the Catrina makeup trend?
 
@@ -226,7 +226,7 @@ Every prompt asks the model to keep your facial features, but full skull paint c
 
 ### Is this a Catrina filter or a Day of the Dead filter?
 
-Not a live one. A sugar skull filter in a camera app lays a mask over your face; here Nano Banana 2, an AI image model, paints a new 2K portrait from your selfie, like a photo filter that keeps your face.
+Not a live one. A sugar skull filter in a camera app lays a mask over your face; here Nano Banana 2.1, an AI image model, paints a new 2K portrait from your selfie, like a photo filter that keeps your face.
 
 ### Can I use it to plan my real Day of the Dead makeup?
 

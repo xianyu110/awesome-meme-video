@@ -1,0 +1,54 @@
+# Enchantress Filter AI: From Your Photo to a Dark Moon Witch
+
+- Source: [makeviral](https://www.makeviral.ai/templates/enchantress-filter-ai)
+- Slug: `enchantress-filter-ai`
+
+The Enchantress filter is a Halloween transformation trend on TikTok.
+
+## Demo videos (CDN)
+
+- https://www.makeviral.ai/media/templates/enchantress-filter-ai/original-main-v2.mp4
+
+## Posters
+
+- https://www.makeviral.ai/media/templates/enchantress-filter-ai/original-main-v1.jpg
+
+## Prompts
+
+### 1. 1. The video prompt is filled in. Settings: Seedance 2.5, 10 s, 720p, 9:16, sound on. The video prompt
+
+*Kind: video_prompt*
+
+```text
+A dark Halloween transformation clip: one vertical take like a polished phone video on a tripod, in front of a plain black backdrop. Photorealistic.
+
+The person in the clip is the person in [Image 1], in every frame: copy the exact face from [Image 1] (the face shape, eye color and eye shape, eyebrows, nose, mouth, skin tone, age, and any beard, moustache, glasses or freckles), so their friends recognize them at once. The face stays the same from the first frame to the last, also under the witch makeup and the crown after the change: never a different person, never morph. The eyes keep their own natural color from [Image 1]: no white, glowing or colored contact lenses.
+
+0-4.5 s, BEFORE: the person, in the clothes from [Image 1] and with their own hair, faces the camera from the chest up in front of a plain black backdrop, in soft, warm studio light. Their eyes are calmly closed and they hold one hand out toward the camera at chest height, palm down, fingers relaxed. From the bottom of the frame a long, slender, pitch-black hand with long, sharp black claw nails rises slowly, reaches the person's hand and laces its black fingers through the person's fingers until it holds the hand tight. Each hand has exactly five fingers.
+4.5-4.6 s: the black hand sweeps up toward the lens and covers the whole frame for a moment, a dark wipe with a deep whoosh. This is the only change.
+4.6-10 s, AFTER: the same person with the same face, now a dark moon witch: a large antique-gold crescent-moon crown with its two horns pointing up, a round gold medallion at its center and small gold crescent moons hanging on fine chains across the forehead; their own hair color, worn long and loose with thin braids and small gold beads; dark smoky eye makeup, fine black dotted lines under the eyes, black lips and one thin black line from the lower lip down to the chin; layered antique-gold necklaces with a crescent-moon pendant; a dark brown lace gown with a high lace collar and long lace sleeves; both hands are now pitch black with long black claw nails. Behind them a black void with glowing orange embers drifting slowly. They open their eyes, look straight into the lens with a calm, knowing stare, slowly raise one black finger to their lips in a "shh" gesture and hold it, then lower the hand a little. The face stays large, sharp and well lit, framed from the chest up.
+
+Audio: a slow, dark cinematic Halloween beat, a deep whoosh on the hand wipe at 4.5 s and soft magic chimes after it, no words, no singing.
+Exactly one person; the black hand belongs to nobody we see. A high neckline in both parts: no cleavage, no bare chest, no close-up of the body; close-ups show the face. No blood, no gore. No text, no subtitles, no logos, no watermark.
+```
+
+### 2. 1. Open [AI Photo with this template](https://www.makeviral.ai/photo?template=enchantress-filter-ai&variant=pet) and add your photo (your pet, face clear). The photo prompt is filled in (Pet)
+
+*Kind: photo_prompt*
+
+```text
+Use the uploaded image as the base. 9:16 vertical photo, like a polished studio pet portrait on a tripod: the pet from the uploaded image sits facing the camera in front of a plain black backdrop, in soft, warm studio light, framed from the chest up with its whole head and ears in view. It holds one front paw up a little toward the camera. Realistic photo with natural fur and natural colors. Exactly one animal and no people. No clothes on the pet. No text, no logos, no watermark.
+```
+
+### 3. 3. Press the film button on the still to open AI Video with the still as the first frame. Settings: Kling 3.0, 10 s, 1080p, 9:16, sound on. The video prompt
+
+*Kind: video_prompt*
+
+```text
+One take on a tripod in front of a plain black backdrop. Keep the animal's face, eyes, ears, fur colors, markings and size exactly as in the image, from the first frame to the last.
+0-4.5 s: the pet sits calmly and holds one front paw up. From the bottom of the frame a long, slender, pitch-black hand with long black claw nails rises slowly and gently takes the paw.
+4.5-4.6 s: the black hand sweeps up toward the lens and covers the whole frame for a moment, a dark wipe.
+4.6-10 s: the same pet, now a moon witch's familiar: a small antique-gold crescent-moon crown with its two horns pointing up sits on its head, small gold crescent moons hang on fine chains across its forehead, and a dark lace collar with gold beads and a crescent-moon pendant sits around its neck. Its own fur, face and eye color stay. Glowing orange embers drift slowly in the black behind it. It looks into the lens, tilts its head and blinks slowly.
+Audio: a slow, dark cinematic Halloween beat, a deep whoosh on the wipe and soft magic chimes, no words. Exactly one animal, no people; the black hand belongs to nobody we see. No text, no subtitles, no logos, no watermark.
+```
+

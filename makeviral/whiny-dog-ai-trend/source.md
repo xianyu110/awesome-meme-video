@@ -5,7 +5,7 @@
 Canonical: https://www.makeviral.ai/templates/whiny-dog-ai-trend
 Updated: 2026-10-18
 Published: 2026-10-13
-Author: İrfan Şener (https://www.makeviral.ai/about)
+Author: MakeViral Team (https://www.makeviral.ai/about)
 Publisher: MakeViral (https://www.makeviral.ai)
 
 The **whining dog meme** is the viral Doberman clip from September 2026: a black-and-tan Doberman stares into the camera and lets out a string of dramatic "hmm hmm hmm" whines, as if its complaints cannot wait. Here your own dog plays the part. You need one clear photo of your dog.

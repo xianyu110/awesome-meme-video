@@ -5,7 +5,7 @@
 Canonical: https://www.makeviral.ai/templates/car-roof-backflip-ai-trend
 Updated: 2026-10-15
 Published: 2026-10-14
-Author: İrfan Şener (https://www.makeviral.ai/about)
+Author: MakeViral Team (https://www.makeviral.ai/about)
 Publisher: MakeViral (https://www.makeviral.ai)
 
 The **car roof backflip AI video** puts you into the trend's highway clip: you climb out through the roof of a black SUV, stand up, backflip across the gap between two moving cars and land feet first on a red hatchback's roof. You need one clear photo of yourself. It is an AI effect: never try it for real.

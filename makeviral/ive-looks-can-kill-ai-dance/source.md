@@ -5,7 +5,7 @@
 Canonical: https://www.makeviral.ai/templates/ive-looks-can-kill-ai-dance
 Updated: 2026-10-19
 Published: 2026-10-19
-Author: İrfan Şener (https://www.makeviral.ai/about)
+Author: MakeViral Team (https://www.makeviral.ai/about)
 Publisher: MakeViral (https://www.makeviral.ai)
 
 The **IVE Looks Can Kill** dance is the "girl hero" point challenge of IVE's new song (룩스캔킬, 19 October 2026): finger guns that snap out and fire on the beat, then action-hero poses. From one photo, MakeViral makes you the hero of a night-time rooftop scene doing the moves, or plays a real dance cover with you.

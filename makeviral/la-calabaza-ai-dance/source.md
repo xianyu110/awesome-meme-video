@@ -5,7 +5,7 @@
 Canonical: https://www.makeviral.ai/templates/la-calabaza-ai-dance
 Updated: 2026-10-17
 Published: 2026-10-17
-Author: İrfan Şener (https://www.makeviral.ai/about)
+Author: MakeViral Team (https://www.makeviral.ai/about)
 Publisher: MakeViral (https://www.makeviral.ai)
 
 The **La Calabaza dance** is the dancing cat meme of autumn 2026: three AI kittens stand on their hind legs on a roadside at night and dance in sync to Pumpky's "La Calabaza". From one photo, MakeViral puts three copies of your cat or dog into that reel, or plays the dance with you in your own place. Halloween is on Saturday, 31 October 2026.

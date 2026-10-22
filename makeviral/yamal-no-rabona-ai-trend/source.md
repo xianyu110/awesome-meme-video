@@ -5,7 +5,7 @@
 Canonical: https://www.makeviral.ai/templates/yamal-no-rabona-ai-trend
 Updated: 2026-10-17
 Published: 2026-10-16
-Author: İrfan Şener (https://www.makeviral.ai/about)
+Author: MakeViral Team (https://www.makeviral.ai/about)
 Publisher: MakeViral (https://www.makeviral.ai)
 
 The **Yamal rabona** trend puts you, or your grandma, into Lamine Yamal's fake rabona: on the goal line of a floodlit match you swing one leg behind the other as if to cross, never kick, and watch the defender slide past. It copies his assist of 13 October 2026. You need one full-body photo, or two when your friend or your pet plays the defender.

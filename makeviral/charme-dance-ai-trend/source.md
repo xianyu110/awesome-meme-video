@@ -5,7 +5,7 @@
 Canonical: https://www.makeviral.ai/templates/charme-dance-ai-trend
 Updated: 2026-10-19
 Published: 2026-10-19
-Author: İrfan Şener (https://www.makeviral.ai/about)
+Author: MakeViral Team (https://www.makeviral.ai/about)
 Publisher: MakeViral (https://www.makeviral.ai)
 
 The **charme dance AI** trend puts you in a packed baile charme in Rio at night: you dance the smooth charme side steps while the crowd films you, like the viral AI grandpa Seu Zé de Madureira. From one photo, MakeViral makes your own 10-second clip, solo, as a duo, or with your pet.
@@ -228,7 +228,7 @@ No creator shared one: the CapCut template is closed and the AI clips name no pr
 
 ### Which AI models make the videos?
 
-Human and Duo use Seedance 2.5 straight from your photos, at 720p, so the faces stay close to the photos. Pet makes a still of your pet at the party with Nano Banana 2, then animates it with Kling 3.0 Pro (Standard) or Seedance 2.5 (Best). It can take a few minutes.
+Human and Duo use Seedance 2.5 straight from your photos, at 720p, so the faces stay close to the photos. Pet makes a still of your pet at the party with Nano Banana 2.1, then animates it with Kling 3.0 Pro (Standard) or Seedance 2.5 (Best). It can take a few minutes.
 
 ### Como fazer o vídeo da dança charme com IA?
 

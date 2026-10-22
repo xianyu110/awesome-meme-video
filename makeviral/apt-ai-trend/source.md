@@ -5,7 +5,7 @@
 Canonical: https://www.makeviral.ai/templates/apt-ai-trend
 Updated: 2026-10-15
 Published: 2026-10-15
-Author: İrfan Şener (https://www.makeviral.ai/about)
+Author: MakeViral Team (https://www.makeviral.ai/about)
 Publisher: MakeViral (https://www.makeviral.ai)
 
 The **APT AI trend** puts you and a friend into the hot-pink studio of the Rosé APT. video: one of you plays the red drum kit, the other sings into the microphone, then you lean on each other and dance. You need two photos, one person in each, or two pet photos.

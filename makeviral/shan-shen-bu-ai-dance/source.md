@@ -5,7 +5,7 @@
 Canonical: https://www.makeviral.ai/templates/shan-shen-bu-ai-dance
 Updated: 2026-10-21
 Published: 2026-10-17
-Author: İrfan Şener (https://www.makeviral.ai/about)
+Author: MakeViral Team (https://www.makeviral.ai/about)
 Publisher: MakeViral (https://www.makeviral.ai)
 
 **Shan shen bu** (闪身步, also written 閃身步 or shanshenbu) is the "flash step": a sudden sideways dodge from a Chinese folk dance teaching video that became the meme of autumn 2026. From one photo, MakeViral plays the shan shen bu dance with you in your own place, or puts your pet into a viral AI cat take of it.

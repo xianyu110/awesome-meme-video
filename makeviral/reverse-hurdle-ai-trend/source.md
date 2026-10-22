@@ -5,7 +5,7 @@
 Canonical: https://www.makeviral.ai/templates/reverse-hurdle-ai-trend
 Updated: 2026-10-16
 Published: 2026-10-16
-Author: İrfan Şener (https://www.makeviral.ai/about)
+Author: MakeViral Team (https://www.makeviral.ai/about)
 Publisher: MakeViral (https://www.makeviral.ai)
 
 The **reverse hurdle AI** trend puts you into football's most famous backwards hurdle. From one photo, AI makes a broadcast-style clip: you run with the ball in your own clothes, make the first defender miss, spin all the way around and jump backward over a tackler, then laugh on the grass. You need one full-body photo.
@@ -184,7 +184,7 @@ Yes. MakeViral does not post your photo or the result anywhere or show them to o
 
 ## Other AI video templates and tools
 
-- [AI Dunk Trend: Dunk in a Pro Game From One Photo](https://www.makeviral.ai/templates/ai-dunk-trend): Add one photo. AI puts you on the court in your own clothes: dunk in a packed night game and scream at the camera, jump over a green furry mascot, cross up a pickup game, or catch an alley-oop in slow motion.
+- [AI Dunk Trend: Dunk in a Pro Game From One Photo](https://www.makeviral.ai/templates/ai-dunk-trend): Add one photo. AI puts you on the court in your own clothes: dunk in a packed night game and scream at the camera, jump over a green furry mascot, cross up a pickup game, or catch an alley-oop in slow motion. Add a friend's photo too, and you dunk right over them.
 - [Ozil Goal AI Trend: Score the Famous Solo Goal Yourself](https://www.makeviral.ai/templates/ozil-goal-ai-trend): You flick the ball over the diving keeper, take it on the chest, let two defenders slide past and roll it into the net, under the floodlights, in your own clothes. One photo, 15 seconds, with the song from the viral clips.
 - [Car Roof Backflip AI Video: You Flip From One Car to the Next](https://www.makeviral.ai/templates/car-roof-backflip-ai-trend): You climb out of a black SUV on the highway, stand on its roof, do one slow backflip across the gap and land in a crouch on the red hatchback next to it. Add one photo. It is an AI effect, never a stunt to try.
 - [Meme Video](https://www.makeviral.ai/tools/meme-video-generator): One line of text, one image, six seconds. The cheapest format to produce and the easiest one to test ten different ways in an afternoon.

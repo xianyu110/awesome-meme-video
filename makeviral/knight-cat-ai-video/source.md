@@ -5,7 +5,7 @@
 Canonical: https://www.makeviral.ai/templates/knight-cat-ai-video
 Updated: 2026-10-13
 Published: 2026-10-08
-Author: İrfan Şener (https://www.makeviral.ai/about)
+Author: MakeViral Team (https://www.makeviral.ai/about)
 Publisher: MakeViral (https://www.makeviral.ai)
 
 The **knight cat AI video**, also called the cat knight or the cat with a sword meme, is the viral clip of a tiny kitten in fitted silver armor, gripping a sword twice its height and refusing to step back in a storm on a misty moor. Here your own cat or dog plays the knight, alone or with you kneeling beside it. You need one full-body photo of your pet. Four more versions put your pet into the viral reels themselves, shot by shot: **I am with you** (your pet stands by a wounded knight), **Dragon selfie** (the first kitten reel, with the iced drink), **Dragon quest** (a black dragon and a giant cat knight) and **Sleeping dragon**, where you and your pet charge at a dragon asleep on the moor.
@@ -79,7 +79,7 @@ Everything runs in the browser. No editing app, no watermark.
 
 ### The by-hand way, with the exact prompts
 
-The one-tap flow runs these prompts for you. A photo prompt puts your photo into the scene (Nano Banana 2, image mode, 9:16, 1K), then a video prompt animates that still. To change them, copy them and edit them in AI Photo and AI Video.
+The one-tap flow runs these prompts for you. A photo prompt puts your photo into the scene (Nano Banana 2.1, image mode, 9:16, 1K), then a video prompt animates that still. To change them, copy them and edit them in AI Photo and AI Video.
 
 #### Variant: Pet knight
 
@@ -272,7 +272,7 @@ There are four common routes. Each one fits a different goal.
 | The creator's own workflow | The creator's guide makes the character still in GPT Image 2.0 or Seedream 5.0, then animates 10-second single shots in Seedance 2.5. The creator sells the long prompts through a guide and Patreon. | A whole series with many shots and full control |
 | Higgsfield Genjutsu | Motion transfer, launched at the end of August 2026: upload a reference clip, such as the gym bro video, plus photos of your cast. It keeps the camera and the motion and swaps who is in it. | Copying one exact viral clip move by move |
 | CapCut "Kitten With Sword" templates | Pick the template in the CapCut phone app and drop in a photo. | Speed, if you already edit in CapCut |
-| MakeViral, on this page | Add your pet's photo, and yours if you want to be in it, then press Generate. Nano Banana 2 builds the knight still, then Seedance 2.5 animates it with sound. | Your own pet as the knight in one tap, with no prompt and no watermark |
+| MakeViral, on this page | Add your pet's photo, and yours if you want to be in it, then press Generate. Nano Banana 2.1 builds the knight still, then Seedance 2.5 animates it with sound. | Your own pet as the knight in one tap, with no prompt and no watermark |
 
 Pet knight and You and your pet make a new scene from your photos. I am with you, Dragon selfie, Dragon quest and Sleeping dragon put your pet (and you, in Sleeping dragon) into four viral reels themselves, shot by shot. For a move-by-move copy of any other clip, motion transfer is the better tool.
 
@@ -310,7 +310,7 @@ The original frame is on GIF sites such as Tenor and Imgflip. MakeViral makes a 
 
 ### What app was the knight cat video made with?
 
-The creator's own guide names Seedance 2.5 for the video and GPT Image 2.0 or Seedream 5.0 for the stills. Many remixes credit Higgsfield, and CapCut has "Kitten With Sword" templates on mobile. On this page, MakeViral uses Nano Banana 2 for the still and Seedance 2.5 for the video, in one tap.
+The creator's own guide names Seedance 2.5 for the video and GPT Image 2.0 or Seedream 5.0 for the stills. Many remixes credit Higgsfield, and CapCut has "Kitten With Sword" templates on mobile. On this page, MakeViral uses Nano Banana 2.1 for the still and Seedance 2.5 for the video, in one tap.
 
 ### How do I make a knight cat video with my own cat?
 

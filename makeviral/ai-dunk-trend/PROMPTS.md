@@ -102,7 +102,31 @@ Audio: a quiet arena murmur and footsteps; in the slow motion the sound drops to
 Exactly one ball. No league, team, college or arena logos, no team names, no sponsor boards with words, no scoreboard text, no captions, no watermark. No famous athlete: every other player and every fan is a generic adult. Anatomy rules: one head, two arms, two legs, five fingers on each hand; the dunker never merges with another player, the rim or the ball.
 ```
 
-### 5. 1. Open [AI Photo with this template](https://www.makeviral.ai/photo?template=ai-dunk-trend&variant=pet) and add your photo (your pet, face and body clear). The photo prompt is filled in (Pet)
+### 5. 1. The video prompt is filled in. Settings: Seedance 2.5, 12 s, 720p, 9:16, sound on. The video prompt
+
+*Kind: video_prompt*
+
+```text
+An AI poster dunk video. Let the person in [Image 1] be the player who makes the dunk and the person in [Image 2] the defender who gets dunked on, in a real pro basketball game at night. Vertical 9:16, filmed like a real TV broadcast camera at court level, photorealistic and sharp.
+
+The dunker is the person in [Image 1], in every frame: copy the exact face from [Image 1] (the face shape, eye color and eye shape, eyebrows, nose, mouth, skin tone, age, hair color, hair length and hairstyle, and any beard, moustache, glasses or freckles), the same build, and the clothes and shoes from [Image 1]: everyday clothes, never a jersey or a uniform. The dunker is an adult. The same face from the first frame to the last, so their friends recognize them at once, also in the air and at the end. Never morph. If [Image 1] shows an animal, the dunker is that animal running upright on its hind legs, with its own face, fur and markings, not a person.
+
+The defender is the person in [Image 2], in every frame: copy the exact face from [Image 2] in the same way, the same build, and the clothes and shoes from [Image 2], never a jersey. An adult. Two different people: never blend or swap their faces, hair or clothes, also when the bodies overlap in the air.
+
+The place: a packed indoor pro basketball arena during a night game, a polished light hardwood court with plain painted lines and no logo at center court, a glass backboard with an orange rim and a white net, bright arena lights, a dark crowd filling the stands. The other players are generic adult players in plain navy and white jerseys with no names, no readable numbers and no team logos; a referee in a black-and-white striped shirt.
+
+0-3 s: a wide side shot: the dunker dribbles in fast from the LEFT; the defender waits under the basket on the RIGHT, knees bent.
+3-4.5 s: the camera pushes in low: the dunker takes off; the defender jumps, both arms high to block.
+4.5-8.5 s: slow motion: both rise in front of the backboard, the ball in one hand above the defender's arms; the dunker elevates over the defender and throws down a thunderous one-handed poster dunk that rattles the entire backboard.
+8.5-10 s: normal speed: the dunker hangs on the rim, the defender lands and stumbles back, unhurt. The crowd erupts instantly.
+10-12 s: a close shot, both from the chest up: in front, the dunker screams at the camera with joy, fists clenched; just behind, the defender holds their head in disbelief, then laughs. Both faces large and sharp: exactly the faces from [Image 1] and [Image 2].
+
+Audio: sneakers, the crowd roaring, a muffled hum in the slow motion, a loud rim clang, the scream. No music, no lyrics, no commentary.
+
+Exactly two people at the rim; no other player jumps. No injury. Exactly one ball. No league, team, college or arena logos, no team names, no sponsor boards with words, no scoreboard text, no captions, no watermark. No famous athlete: every other player and every fan is a generic adult. Anatomy rules: one head, two arms, two legs, five fingers on each hand; the dunker never merges with another player, the rim or the ball.
+```
+
+### 6. 1. Open [AI Photo with this template](https://www.makeviral.ai/photo?template=ai-dunk-trend&variant=pet) and add your photo (your pet, face and body clear). The photo prompt is filled in (Pet)
 
 *Kind: photo_prompt*
 
@@ -112,7 +136,7 @@ Use the input pet image as the main subject and strictly preserve the pet's orig
 It holds the ball in its front paws: animal paws, never human hands. Exactly one animal, no person in the front. Vertical 9:16. No logos, no team names, no text on the court or the boards, no watermark.
 ```
 
-### 6. 3. Press the film button on the still to open AI Video with the still as the first frame. Settings: Kling 3.0, 10 s, 1080p, 9:16, sound on. The video prompt
+### 7. 3. Press the film button on the still to open AI Video with the still as the first frame. Settings: Kling 3.0, 10 s, 1080p, 9:16, sound on. The video prompt
 
 *Kind: video_prompt*
 

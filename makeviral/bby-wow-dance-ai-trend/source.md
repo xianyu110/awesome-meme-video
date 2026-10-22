@@ -5,7 +5,7 @@
 Canonical: https://www.makeviral.ai/templates/bby-wow-dance-ai-trend
 Updated: 2026-10-18
 Published: 2026-10-15
-Author: İrfan Şener (https://www.makeviral.ai/about)
+Author: MakeViral Team (https://www.makeviral.ai/about)
 Publisher: MakeViral (https://www.makeviral.ai)
 
 The **BbY WOW dance** is the TikTok trend to "BbY WOW" by KAROL G, Judeline and rusowsky: a palms-up shrug, arm slices across the body, hands on the head and a point at the camera. From one photo, MakeViral plays the dance in your own place, puts you in the quince party meme, or makes your pet dance.

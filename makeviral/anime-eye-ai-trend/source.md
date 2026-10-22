@@ -5,7 +5,7 @@
 Canonical: https://www.makeviral.ai/templates/anime-eye-ai-trend
 Updated: 2026-10-20
 Published: 2026-10-20
-Author: İrfan Şener (https://www.makeviral.ai/about)
+Author: MakeViral Team (https://www.makeviral.ai/about)
 Publisher: MakeViral (https://www.makeviral.ai)
 
 The **anime face trend**, also called the **anime eye trend**, is a TikTok selfie trend from October 2026: a star-shaped cut-out of an anime eye sits over your real eye, with small anime stickers around you. Here, AI draws your own original anime twin from one selfie and makes the whole picture.
@@ -48,16 +48,16 @@ Everything runs in the browser. No editing app, no watermark.
 ### The one-tap way (no prompt to write)
 
 1. **Add your photo.** Press "Make yours" and add your selfie, face close, one eye in view. Take it with the camera or pick it from your library. Start here: https://www.makeviral.ai/templates/anime-eye-ai-trend/create
-2. **Press Generate.** The button shows the price. Nano Banana 2 puts your photo into the Anime Eye Trend scene and makes one 2K photo. You write no prompt.
+2. **Press Generate.** The button shows the price. Nano Banana 2.1 puts your photo into the Anime Eye Trend scene and makes one 2K photo. You write no prompt.
 3. **Download or share.** The photo is ready in a few minutes as a 9:16 2K image. Download it, share it from your phone, turn it into a video, or find it later in your Library.
 
 ### The by-hand way, with the exact prompts
 
-The one-tap flow runs this prompt for you. The photo prompt puts your photo into the scene (Nano Banana 2, image mode, 9:16, 2K). To change it, copy it and edit it in AI Photo.
+The one-tap flow runs this prompt for you. The photo prompt puts your photo into the scene (Nano Banana 2.1, image mode, 9:16, 2K). To change it, copy it and edit it in AI Photo.
 
 #### Variant: Star eye
 
-Settings: 1 photo (your selfie, face close, one eye in view) · Nano Banana 2 · photo · 2K · 9:16 · 3 credits in one tap.
+Settings: 1 photo (your selfie, face close, one eye in view) · Nano Banana 2.1 · photo · 2K · 9:16 · 3 credits in one tap.
 
 1. Open [AI Photo with this template](https://www.makeviral.ai/photo?template=anime-eye-ai-trend) and add your photo (your selfie, face close, one eye in view). Pick 2K for the same size as the one-tap photo. The photo prompt is filled in:
 
@@ -71,7 +71,7 @@ One-tap version of this variant: https://www.makeviral.ai/templates/anime-eye-ai
 
 #### Variant: Heart eye
 
-Settings: 1 photo (your selfie, face close, one eye in view) · Nano Banana 2 · photo · 2K · 9:16 · 3 credits in one tap.
+Settings: 1 photo (your selfie, face close, one eye in view) · Nano Banana 2.1 · photo · 2K · 9:16 · 3 credits in one tap.
 
 1. Open [AI Photo with this template](https://www.makeviral.ai/photo?template=anime-eye-ai-trend&variant=heart) and add your photo (your selfie, face close, one eye in view). Pick 2K for the same size as the one-tap photo. The photo prompt is filled in:
 
@@ -85,7 +85,7 @@ One-tap version of this variant: https://www.makeviral.ai/templates/anime-eye-ai
 
 #### Variant: Manga
 
-Settings: 1 photo (your selfie, face close, one eye in view) · Nano Banana 2 · photo · 2K · 9:16 · 3 credits in one tap.
+Settings: 1 photo (your selfie, face close, one eye in view) · Nano Banana 2.1 · photo · 2K · 9:16 · 3 credits in one tap.
 
 1. Open [AI Photo with this template](https://www.makeviral.ai/photo?template=anime-eye-ai-trend&variant=manga) and add your photo (your selfie, face close, one eye in view). Pick 2K for the same size as the one-tap photo. The photo prompt is filled in:
 
@@ -113,8 +113,8 @@ You pay per photo in credits, and the create page shows the exact price on the G
 
 | Model | Settings | Credits |
 | --- | --- | --- |
-| Nano Banana 2 (this template) | 2K photo, 9:16, one tap | 3 |
-| Nano Banana 2 (by hand in AI Photo) | 1K photo, 9:16, same prompt | 2 |
+| Nano Banana 2.1 (this template) | 2K photo, 9:16, one tap | 3 |
+| Nano Banana 2.1 (by hand in AI Photo) | 1K photo, 9:16, same prompt | 2 |
 
 Credits come with a plan; see [pricing](https://www.makeviral.ai/pricing). A failed photo gives its credits back.
 
@@ -130,7 +130,7 @@ One new picture, your anime face trend photo, in three looks:
 
 Your selfie stays a real photo: same face, same pose, same light. Only the anime parts are new. The AI first designs **your own anime twin**, an original character with your hair color and style, your eye shape and eye color, your skin tone and your outfit, then puts it in the star and on every sticker. It never uses an existing anime character, so the picture really shows the anime character you look like.
 
-**How MakeViral makes it:** your photo goes to Nano Banana 2, Google's image model, and comes back as one 2K vertical picture. The create page shows the exact price on the Generate button before you spend anything, and every run is a new take.
+**How MakeViral makes it:** your photo goes to Nano Banana 2.1, Google's image model, and comes back as one 2K vertical picture. The create page shows the exact price on the Generate button before you spend anything, and every run is a new take.
 
 ## How to post your anime star eye trend photo
 

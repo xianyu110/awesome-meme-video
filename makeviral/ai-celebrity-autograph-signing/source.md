@@ -5,7 +5,7 @@
 Canonical: https://www.makeviral.ai/templates/ai-celebrity-autograph-signing
 Updated: 2026-10-17
 Published: 2026-10-17
-Author: İrfan Şener (https://www.makeviral.ai/about)
+Author: MakeViral Team (https://www.makeviral.ai/about)
 Publisher: MakeViral (https://www.makeviral.ai)
 
 The **celebrity signature filter** is the AI autograph trend where you become the star: fans with phones crowd around, flashes go off, and you sign autographs for them, at a signing table under a giant poster of yourself or outside a hotel at night. You need one clear photo of your face. Nobody else's face is used.

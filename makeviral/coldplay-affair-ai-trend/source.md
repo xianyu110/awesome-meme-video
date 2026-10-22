@@ -5,7 +5,7 @@
 Canonical: https://www.makeviral.ai/templates/coldplay-affair-ai-trend
 Updated: 2026-10-18
 Published: 2026-10-18
-Author: İrfan Şener (https://www.makeviral.ai/about)
+Author: MakeViral Team (https://www.makeviral.ai/about)
 Publisher: MakeViral (https://www.makeviral.ai)
 
 The **Coldplay kiss cam meme** is back as an AI trend. In October 2026 a CapCut template, the Coldplay affair AI filter, started putting people on the round big screen of a night stadium concert: a hug from behind, a shocked look, then one hides the face and the other ducks. Here, AI makes yours from one or two photos.

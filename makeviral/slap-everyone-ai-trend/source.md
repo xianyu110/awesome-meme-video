@@ -5,7 +5,7 @@
 Canonical: https://www.makeviral.ai/templates/slap-everyone-ai-trend
 Updated: 2026-10-16
 Published: 2026-10-16
-Author: İrfan Şener (https://www.makeviral.ai/about)
+Author: MakeViral Team (https://www.makeviral.ai/about)
 Publisher: MakeViral (https://www.makeviral.ai)
 
 The **slap everyone meme** is an AI video trend: a man argues with you on the stairs of a concert venue at night, you slap him with one quick open hand, then slap three more men in a row, and each one flops onto the steps. Cartoon slap sounds, no injuries. You need one photo of yourself.
@@ -189,9 +189,9 @@ Yes. MakeViral does not post your photo or the result anywhere or show them to o
 
 ## Other AI video templates and tools
 
-- [AI Arrest Trend: Make the “Getting Arrested Again” Video With One Photo](https://www.makeviral.ai/templates/ai-arrest-trend): Two officers walk you out of the house at night, hands cuffed behind your back, red and blue lights on your face, and you give the camera a small, smug smile. One photo in, an 8-second AI clip with night street sound out. A joke, made with your own photo.
+- [Not Bro Getting Arrested Again AI Video: The AI Arrest Trend From One Photo](https://www.makeviral.ai/templates/ai-arrest-trend): Two officers walk you out of the house at night, hands cuffed behind your back, red and blue lights on your face, and you give the camera a small, smug smile. One photo in, an 8-second AI clip with night street sound out. A joke, made with your own photo.
 - [Car Crash Prank: The AI Airbag Filter From One Photo](https://www.makeviral.ai/templates/ai-car-crash-prank-filter): You laugh behind the wheel, then the airbag bursts, the windscreen cracks and you stare at the camera, stunned and unhurt. It is the car crash filter from TikTok, made here as a movie-style AI clip from one photo. Prank only friends who agreed, and say it is AI within seconds.
-- [AI Dunk Trend: Dunk in a Pro Game From One Photo](https://www.makeviral.ai/templates/ai-dunk-trend): Add one photo. AI puts you on the court in your own clothes: dunk in a packed night game and scream at the camera, jump over a green furry mascot, cross up a pickup game, or catch an alley-oop in slow motion.
+- [AI Dunk Trend: Dunk in a Pro Game From One Photo](https://www.makeviral.ai/templates/ai-dunk-trend): Add one photo. AI puts you on the court in your own clothes: dunk in a packed night game and scream at the camera, jump over a green furry mascot, cross up a pickup game, or catch an alley-oop in slow motion. Add a friend's photo too, and you dunk right over them.
 - [Meme Video](https://www.makeviral.ai/tools/meme-video-generator): One line of text, one image, six seconds. The cheapest format to produce and the easiest one to test ten different ways in an afternoon.
 - [AI TikTok Video](https://www.makeviral.ai/tools/ai-tiktok-video-generator): Eight native TikTok formats, one prompt or product URL, a finished 9:16 video with captions burned in.
 - [AI photo generator](https://www.makeviral.ai/ai-photo-generator)

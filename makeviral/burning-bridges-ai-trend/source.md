@@ -5,7 +5,7 @@
 Canonical: https://www.makeviral.ai/templates/burning-bridges-ai-trend
 Updated: 2026-10-15
 Published: 2026-10-10
-Author: İrfan Şener (https://www.makeviral.ai/about)
+Author: MakeViral Team (https://www.makeviral.ai/about)
 Publisher: MakeViral (https://www.makeviral.ai)
 
 The **Burning Bridges AI trend** puts you or your pet in place of Drake in the party scene from his "Burning Bridges" video: a crowded dinner party under crystal chandeliers, a silver cup in one hand, and the Drake "Where she at?" move, one hand flat over the eyes while scanning the room. You need one clear photo.

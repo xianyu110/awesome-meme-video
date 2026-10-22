@@ -5,7 +5,7 @@
 Canonical: https://www.makeviral.ai/templates/ai-electric-shock-pet-prank
 Updated: 2026-10-17
 Published: 2026-10-17
-Author: İrfan Şener (https://www.makeviral.ai/about)
+Author: MakeViral Team (https://www.makeviral.ai/about)
 Publisher: MakeViral (https://www.makeviral.ai)
 
 The **electric shock meme** is the AI video trend where you and your dog touch two wires, a spark flies, a puff of smoke fills the screen, and you are left with sooty faces and electrocuted hair before you both laugh. Cartoon slapstick: nobody gets hurt. You need a photo of you and one of your dog or cat.

@@ -5,7 +5,7 @@
 Canonical: https://www.makeviral.ai/templates/c-walk-ai-dance
 Updated: 2026-10-20
 Published: 2026-10-20
-Author: İrfan Şener (https://www.makeviral.ai/about)
+Author: MakeViral Team (https://www.makeviral.ai/about)
 Publisher: MakeViral (https://www.makeviral.ai)
 
 **C-Walk AI** is the trend where one photo becomes a C-Walk dance video: the person in the picture does the footwork, heel-toe shuffles, V-steps and quick turns. On MakeViral you add one full-body photo, or a photo of your cat or dog, and get a 12-second vertical C-Walk AI video.

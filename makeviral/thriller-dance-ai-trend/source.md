@@ -5,7 +5,7 @@
 Canonical: https://www.makeviral.ai/templates/thriller-dance-ai-trend
 Updated: 2026-10-15
 Published: 2026-10-12
-Author: İrfan Şener (https://www.makeviral.ai/about)
+Author: MakeViral Team (https://www.makeviral.ai/about)
 Publisher: MakeViral (https://www.makeviral.ai)
 
 The **Thriller dance** is the zombie routine from Michael Jackson's 1983 "Thriller" video: arms swung out with a deep lean, head rolls, claw hands and shoulder shrugs. It comes back at Halloween. MakeViral puts you and a friend (two photos) or your pet (one photo) into a viral reel of the dance, with the song.

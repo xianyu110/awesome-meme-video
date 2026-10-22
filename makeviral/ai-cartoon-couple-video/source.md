@@ -5,7 +5,7 @@
 Canonical: https://www.makeviral.ai/templates/ai-cartoon-couple-video
 Updated: 2026-10-20
 Published: 2026-10-20
-Author: İrfan Şener (https://www.makeviral.ai/about)
+Author: MakeViral Team (https://www.makeviral.ai/about)
 Publisher: MakeViral (https://www.makeviral.ai)
 
 An **AI cartoon couple video** turns the two of you into 3D animated cartoon characters in a short comedy skit, like the AI cartoon couple clips that fill TikTok in October 2026. Pick the shop stance or the surprise kiss, add your photo and your partner's photo, and get a vertical clip with music.

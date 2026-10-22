@@ -5,7 +5,7 @@
 Canonical: https://www.makeviral.ai/templates/ai-crying-video
 Updated: 2026-10-04
 Published: 2026-09-30
-Author: İrfan Şener (https://www.makeviral.ai/about)
+Author: MakeViral Team (https://www.makeviral.ai/about)
 Publisher: MakeViral (https://www.makeviral.ai)
 
 The **AI crying** trend turns one photo into a 10-second drama scene. You stand at night facing a blurred person, try to smile through red, wet eyes, the smile breaks, the tears fall, and you turn and walk away, over a sad ballad. To make your own you need one clear photo of your face.
@@ -59,7 +59,7 @@ Everything runs in the browser. No editing app, no watermark.
 
 ### The by-hand way, with the exact prompts
 
-The one-tap flow runs these prompts for you. A photo prompt puts your photo into the scene (Nano Banana 2, image mode, 9:16, 1K), then a video prompt animates that still. To change them, copy them and edit them in AI Photo and AI Video.
+The one-tap flow runs these prompts for you. A photo prompt puts your photo into the scene (Nano Banana 2.1, image mode, 9:16, 1K), then a video prompt animates that still. To change them, copy them and edit them in AI Photo and AI Video.
 
 #### Variant: Farewell scene
 

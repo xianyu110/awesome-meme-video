@@ -5,7 +5,7 @@
 Canonical: https://www.makeviral.ai/templates/you-talking-bout-me-ai-trend
 Updated: 2026-10-19
 Published: 2026-10-19
-Author: İrfan Şener (https://www.makeviral.ai/about)
+Author: MakeViral Team (https://www.makeviral.ai/about)
 Publisher: MakeViral (https://www.makeviral.ai)
 
 The **You Talking Bout Me** trend remakes a viral stream clip of the rapper DDG and two friends at a bar counter. One grins "I be thinking about my bills, and I be thinking about his bills", the middle one keeps asking "You talking about me?", and the joke lands on the quiet one. You need one to three photos.

@@ -5,7 +5,7 @@
 Canonical: https://www.makeviral.ai/templates/tamagawa-koi-ai-dance
 Updated: 2026-10-19
 Published: 2026-10-19
-Author: İrfan Şener (https://www.makeviral.ai/about)
+Author: MakeViral Team (https://www.makeviral.ai/about)
 Publisher: MakeViral (https://www.makeviral.ai)
 
 **多摩川で恋してみたい** is the TikTok dance to Yuu Ichijo's J-pop song "多摩川で、恋…したい♡" (tamagawa de koi shitai, "I want to fall in love at the Tama River"): slow sways, hand hearts and a crouch on the river stones. From one photo, MakeViral makes your own 10-second riverbank clip, solo, as a duo, or with your pet.
@@ -174,7 +174,7 @@ Every version is one continuous shot on a wide riverbank at golden hour: a shall
 | 6.5-8.5 s | You crouch on the river stones and make small finger hearts. | You face each other and press your palms together high. | It waves a paw at the camera. |
 | 8.5-10 s | You reach both hands to the camera with a big smile. | Both lean in to the camera with finger hearts. | It leans close with both paws by its cheeks. |
 
-**Solo** and **Duo** use Seedance 2.5 straight from your photos, so your faces stay yours. **Pet** first makes a still of your pet on the riverbank with Nano Banana 2, then animates it with Kling 3.0 Pro (Standard) or Seedance 2.5 (Best). Every clip comes with an original retro J-pop beat made for your video, not the song. Every run is a new take, so results differ.
+**Solo** and **Duo** use Seedance 2.5 straight from your photos, so your faces stay yours. **Pet** first makes a still of your pet on the riverbank with Nano Banana 2.1, then animates it with Kling 3.0 Pro (Standard) or Seedance 2.5 (Best). Every clip comes with an original retro J-pop beat made for your video, not the song. Every run is a new take, so results differ.
 
 ## What does 多摩川で恋したい mean, and who is 一条ゆう?
 
@@ -239,7 +239,7 @@ No creator shared one: the CapCut template is closed and the AI clips name no pr
 
 ### Which AI models make the videos?
 
-Solo and Duo use Seedance 2.5 straight from your photos, at 720p, so the faces stay close to the photos. Pet makes a still of your pet on the riverbank with Nano Banana 2, then animates it with Kling 3.0 Pro (Standard) or Seedance 2.5 (Best). It can take a few minutes.
+Solo and Duo use Seedance 2.5 straight from your photos, at 720p, so the faces stay close to the photos. Pet makes a still of your pet on the riverbank with Nano Banana 2.1, then animates it with Kling 3.0 Pro (Standard) or Seedance 2.5 (Best). It can take a few minutes.
 
 ### Is the tamagawa trend still on TikTok?
 

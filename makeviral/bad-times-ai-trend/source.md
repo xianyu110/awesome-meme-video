@@ -5,7 +5,7 @@
 Canonical: https://www.makeviral.ai/templates/bad-times-ai-trend
 Updated: 2026-10-15
 Published: 2026-10-14
-Author: İrfan Şener (https://www.makeviral.ai/about)
+Author: MakeViral Team (https://www.makeviral.ai/about)
 Publisher: MakeViral (https://www.makeviral.ai)
 
 The **Bad Times AI trend** puts you or your pet in the TikTok routine to "Bad Times" (Imael Angel): you grab your head, put a hand on your hip, hold up stop palms and argue with whoever is filming. From one photo, MakeViral plays the routine in your own place, or puts your pet into the viral AI dog clip.

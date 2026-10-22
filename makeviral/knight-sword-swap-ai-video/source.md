@@ -5,7 +5,7 @@
 Canonical: https://www.makeviral.ai/templates/knight-sword-swap-ai-video
 Updated: 2026-10-13
 Published: 2026-10-08
-Author: İrfan Şener (https://www.makeviral.ai/about)
+Author: MakeViral Team (https://www.makeviral.ai/about)
 Publisher: MakeViral (https://www.makeviral.ai)
 
 The **knight sword swap AI video** remakes a viral knight reel with your own cast. A little knight stands alone in the wind with a sword twice its size; a big knight walks in, kneels, takes the sword and gives a toy instead. You need two photos: the little knight first, then the big one.
@@ -153,7 +153,7 @@ A Best clip comes with the reel's own original sound instead. You can turn it of
 | Reference | Standard (default) | Best |
 |---|---|---|
 | Red cape | Seedance 2.5 takes your two photos (and your object photo, if you add one) and films the sword swap straight from them, with no AI picture in between, your two knights in silver armor, the big one in a long dark red cape: 10 s, 720p, vertical 9:16, with original sound. It follows the story and look of the reel, not its exact shots. | Higgsfield Genjutsu motion transfer: the reel itself is the source, and your photos replace its two people. 15 s, 480p, in the reel's own 4:3 frame, with no sound. |
-| Golden armor | MakeViral first makes a photo of your two knights in golden armor with your object (Nano Banana 2), then Kling 3.0 animates the sword swap: 10 s, 1080p, vertical 9:16, with original sound. It follows the story and look of the reel, not its exact shots. | Genjutsu on the golden armor reel itself: 14 s, 480p, in the reel's own 4:3 frame, with no sound. |
+| Golden armor | MakeViral first makes a photo of your two knights in golden armor with your object (Nano Banana 2.1), then Kling 3.0 animates the sword swap: 10 s, 1080p, vertical 9:16, with original sound. It follows the story and look of the reel, not its exact shots. | Genjutsu on the golden armor reel itself: 14 s, 480p, in the reel's own 4:3 frame, with no sound. |
 
 **Why does Standard make a new scene?** The cheaper models that copy a reel shot by shot (Seedance 2.0 Mini, Seedance 2.5 and Kling O3) often kept the reel's own mom and child instead of the people in the photos. Only Genjutsu swapped both faces every time. So Best copies the reel with Genjutsu, and Standard builds the same story from your photos.
 

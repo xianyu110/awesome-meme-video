@@ -1,4 +1,4 @@
-# AI Arrest Trend: Make the “Getting Arrested Again” Video With One Photo
+# Not Bro Getting Arrested Again AI Video: The AI Arrest Trend From One Photo
 
 - Source: [makeviral](https://www.makeviral.ai/templates/ai-arrest-trend)
 - Slug: `ai-arrest-trend`

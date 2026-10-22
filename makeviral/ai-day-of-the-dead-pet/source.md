@@ -5,7 +5,7 @@
 Canonical: https://www.makeviral.ai/templates/ai-day-of-the-dead-pet
 Updated: 2026-10-15
 Published: 2026-10-14
-Author: İrfan Şener (https://www.makeviral.ai/about)
+Author: MakeViral Team (https://www.makeviral.ai/about)
 Publisher: MakeViral (https://www.makeviral.ai)
 
 The **Day of the Dead pet** trend is a gentle way to remember a pet that died. One photo becomes a video of its first Día de Muertos: your dog or cat walks a glowing marigold path into the land of the dead, or runs across the marigold bridge back to you. You need one clear photo of your pet.
@@ -139,7 +139,7 @@ Credits come with a plan; see [pricing](https://www.makeviral.ai/pricing). A fai
 
 Kling 3.0 Omni edits the template clip itself, so the path, the gate, the officer and the city stay, and your pet comes in, in the same animated look. The clip is vertical 9:16 at 720p and comes with the template's sound. **Best** runs the same clip on Seedance 2.5, for more credits.
 
-**Marigold bridge** is the 2025 original, in a lifelike look, made in two steps as its creator made it. First Nano Banana 2 makes a photo of your pet on a bridge of marigolds decorated for the Day of the Dead, with fireworks behind it, using @alemerinoj's own Gemini prompt word for word. Then Kling 3.0 (Standard) or Seedance 2.5 (Best) turns that photo into an 8-second video of your pet running across the bridge toward you, with the fireworks going off and soft music.
+**Marigold bridge** is the 2025 original, in a lifelike look, made in two steps as its creator made it. First Nano Banana 2.1 makes a photo of your pet on a bridge of marigolds decorated for the Day of the Dead, with fireworks behind it, using @alemerinoj's own Gemini prompt word for word. Then Kling 3.0 (Standard) or Seedance 2.5 (Best) turns that photo into an 8-second video of your pet running across the bridge toward you, with the fireworks going off and soft music.
 
 The exact price of each shows on the Generate button before you spend anything. You write no prompt, and the video waits in your Library when it is ready.
 

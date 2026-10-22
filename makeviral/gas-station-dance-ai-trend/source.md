@@ -5,7 +5,7 @@
 Canonical: https://www.makeviral.ai/templates/gas-station-dance-ai-trend
 Updated: 2026-10-17
 Published: 2026-10-12
-Author: İrfan Şener (https://www.makeviral.ai/about)
+Author: MakeViral Team (https://www.makeviral.ai/about)
 Publisher: MakeViral (https://www.makeviral.ai)
 
 The **gas station dance** is a 2024 road trip reel that went viral again in September 2026: on a roadside gas station parking lot, one friend dances, one films a selfie and one steps out of a car, to Akcent's 2009 song "Stay with Me". Your photos take their places in that reel. You need three photos, or one.

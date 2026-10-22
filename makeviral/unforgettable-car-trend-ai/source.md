@@ -5,7 +5,7 @@
 Canonical: https://www.makeviral.ai/templates/unforgettable-car-trend-ai
 Updated: 2026-10-19
 Published: 2026-10-12
-Author: İrfan Şener (https://www.makeviral.ai/about)
+Author: MakeViral Team (https://www.makeviral.ai/about)
 Publisher: MakeViral (https://www.makeviral.ai)
 
 The **24 Unforgettable car trend**, also called the 24 car trend or Twenty-Four, is a viral TikTok and Instagram clip set to the song "Unforgettable": you hold up a 2 and a 4 card, flick them at the camera, and a sports car is parked behind you. You need one waist-up photo, plus a car photo for your own car.

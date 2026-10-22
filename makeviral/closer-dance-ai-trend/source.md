@@ -5,7 +5,7 @@
 Canonical: https://www.makeviral.ai/templates/closer-dance-ai-trend
 Updated: 2026-10-17
 Published: 2026-10-17
-Author: İrfan Şener (https://www.makeviral.ai/about)
+Author: MakeViral Team (https://www.makeviral.ai/about)
 Publisher: MakeViral (https://www.makeviral.ai)
 
 The **Closer dance** is the TikTok routine set to Ne-Yo's 2008 song "Closer": one person waits and pulls down their sunglasses, the other sprints in, and the two do a fast, jerky face-off, then dance side by side. Add two photos, one per dancer, and MakeViral puts you both into the original reel, with the song.

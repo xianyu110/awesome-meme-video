@@ -5,7 +5,7 @@
 Canonical: https://www.makeviral.ai/templates/ai-school-photo
 Updated: 2026-10-18
 Published: 2026-10-09
-Author: İrfan Şener (https://www.makeviral.ai/about)
+Author: MakeViral Team (https://www.makeviral.ai/about)
 Publisher: MakeViral (https://www.makeviral.ai)
 
 The **AI school photo** trend, also called ChatGPT school pictures, is parents turning a phone picture of their child, taken at home, into a classic school portrait: a mottled blue backdrop, soft studio light, head and shoulders. Here you add one photo, pick a backdrop and get the picture in one tap. The face, smile and age stay the same.
@@ -38,10 +38,10 @@ The AI school picture trend then split. A second wave of posts used AI to remove
 
 Made from the prompt on this page. The people and pets are AI-made, not real persons. Each example is a short before-and-after clip of the photo. Your result will differ from run to run.
 
-- **Example 1** (5 s before-and-after clip, 9:16 MP4): Classic school photo, one phone photo: an AI-made six-year-old against a hallway wall becomes a picture day portrait on mottled blue. The missing front tooth and the freckles stay.
-  - Video: https://www.makeviral.ai/media/templates/ai-school-photo/example-v2.mp4
-  - Poster: https://www.makeviral.ai/media/templates/ai-school-photo/example-v2-poster.jpg
-  - Input photo: https://www.makeviral.ai/media/templates/ai-school-photo/example-v2-input.jpg
+- **Example 1** (5 s before-and-after clip, 9:16 MP4): Classic school photo, one phone photo: an AI-made nine-year-old against a hallway wall becomes a picture day portrait on mottled blue. His smile, his hair and his sweater stay.
+  - Video: https://www.makeviral.ai/media/templates/ai-school-photo/example-v3.mp4
+  - Poster: https://www.makeviral.ai/media/templates/ai-school-photo/example-v3-poster.jpg
+  - Input photo: https://www.makeviral.ai/media/templates/ai-school-photo/example-v3-input.jpg
 - **Example 2** (5 s before-and-after clip, 9:16 MP4): The 90s laser backdrop from "Make it yours": an AI-made thirteen-year-old keeps her braces, braids and smile in front of neon laser beams.
   - Video: https://www.makeviral.ai/media/templates/ai-school-photo/example-laser-v2.mp4
   - Poster: https://www.makeviral.ai/media/templates/ai-school-photo/example-laser-v2-poster.jpg
@@ -54,14 +54,14 @@ Everything runs in the browser. No editing app, no watermark.
 ### The one-tap way (no prompt to write)
 
 1. **Add your photo.** Press "Make yours" and add your child, chest up. Take it with the camera or pick it from your library. Start here: https://www.makeviral.ai/templates/ai-school-photo/create
-2. **Press Generate.** The button shows the price. Nano Banana 2 puts your photo into the School photo scene and makes one 2K photo. You write no prompt.
+2. **Press Generate.** The button shows the price. Nano Banana 2.1 puts your photo into the School photo scene and makes one 2K photo. You write no prompt.
 3. **Download or share.** The photo is ready in a few minutes as a 9:16 2K image. Download it, share it from your phone, turn it into a video, or find it later in your Library.
 
 ### The by-hand way, with the exact prompts
 
-The one-tap flow runs this prompt for you. The photo prompt puts your photo into the scene (Nano Banana 2, image mode, 9:16, 2K). To change it, copy it and edit it in AI Photo.
+The one-tap flow runs this prompt for you. The photo prompt puts your photo into the scene (Nano Banana 2.1, image mode, 9:16, 2K). To change it, copy it and edit it in AI Photo.
 
-Settings: 1 photo (your child, chest up) · Nano Banana 2 · photo · 2K · 9:16 · 3 credits in one tap.
+Settings: 1 photo (your child, chest up) · Nano Banana 2.1 · photo · 2K · 9:16 · 3 credits in one tap.
 
 1. Open [AI Photo with this template](https://www.makeviral.ai/photo?template=ai-school-photo) and add your photo (your child, chest up). Pick 2K for the same size as the one-tap photo. The photo prompt is filled in:
 
@@ -92,8 +92,8 @@ You pay per photo in credits, and the create page shows the exact price on the G
 
 | Model | Settings | Credits |
 | --- | --- | --- |
-| Nano Banana 2 (this template) | 2K photo, 9:16, one tap | 3 |
-| Nano Banana 2 (by hand in AI Photo) | 1K photo, 9:16, same prompt | 2 |
+| Nano Banana 2.1 (this template) | 2K photo, 9:16, one tap | 3 |
+| Nano Banana 2.1 (by hand in AI Photo) | 1K photo, 9:16, same prompt | 2 |
 
 Credits come with a plan; see [pricing](https://www.makeviral.ai/pricing). A failed photo gives its credits back.
 
@@ -123,7 +123,7 @@ We tested it before we published it, on three AI-made children, and measured how
 
 | Test child (AI-made) | What we watched | What happened |
 |---|---|---|
-| 6 years old, a missing front tooth, freckles, pigtails, plain hallway wall | The gap and the freckles | Both stayed in every run. Face match 0.89 at 1K and 0.77 in the final 2K example, which is the same child with slightly different light. |
+| 6 years old, a missing front tooth, freckles, pigtails, plain hallway wall | The gap and the freckles | Both stayed in every run. Face match 0.89 at 1K and 0.77 at 2K, the same child with slightly different light. |
 | 9 years old, round glasses, an uneven closed-mouth smile, a cluttered kitchen | Glasses, the smile, the background | The kitchen was replaced and the glasses stayed. Our first prompt made his smile more even and his face a little fuller (0.82). The final prompt says to keep the face width and the exact smile "even if it is uneven": 0.84, with his own smile. |
 | 13 years old, metal braces, box braids, earrings | Braces, braids, earrings | All kept. 0.72 with the first prompt, 0.89 with the final one. |
 | The 9-year-old with the grey, fall leaves and library backdrops | The face when the backdrop changes | 0.74 to 0.84; the glasses and the smile stayed. |
@@ -185,7 +185,7 @@ Retake day is a second photo session some weeks after picture day, for children 
 
 ### Which AI do parents use for school photos?
 
-Most viral posts were ChatGPT school photos; the first one asked it to "keep them exactly the same but make it look like a school picture". People also search for a Gemini school photo prompt. General chat apps often change the face, which parents complained about in the comments. On this page, MakeViral uses Nano Banana 2, Google's image model, with a prompt written and tested only for this job.
+Most viral posts were ChatGPT school photos; the first one asked it to "keep them exactly the same but make it look like a school picture". People also search for a Gemini school photo prompt. General chat apps often change the face, which parents complained about in the comments. On this page, MakeViral uses Nano Banana 2.1, Google's image model, with a prompt written and tested only for this job.
 
 ### What is the AI school photo prompt?
 

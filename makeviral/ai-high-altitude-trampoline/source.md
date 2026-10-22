@@ -5,7 +5,7 @@
 Canonical: https://www.makeviral.ai/templates/ai-high-altitude-trampoline
 Updated: 2026-10-17
 Published: 2026-10-17
-Author: İrfan Şener (https://www.makeviral.ai/about)
+Author: MakeViral Team (https://www.makeviral.ai/about)
 Publisher: MakeViral (https://www.makeviral.ai)
 
 The **high altitude trampoline** trend is an AI video stunt: you jump from a cliff, a helicopter or a rooftop, hit a small trampoline far below, and the bounce throws you all the way back up to where you started. You need one clear photo of yourself; the AI makes the 10-second clip with sound.

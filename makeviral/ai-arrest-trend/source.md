@@ -1,11 +1,11 @@
-# AI Arrest Trend: Make the “Getting Arrested Again” Video With One Photo
+# Not Bro Getting Arrested Again AI Video: The AI Arrest Trend From One Photo
 
 > The AI arrest trend turns one photo into a shaky phone video of a fake arrest: two officers walk you out at night, hands cuffed behind your back, red and blue lights flashing, and you give the camera a small, smug smile.
 
 Canonical: https://www.makeviral.ai/templates/ai-arrest-trend
-Updated: 2026-10-15
+Updated: 2026-10-21
 Published: 2026-10-12
-Author: İrfan Şener (https://www.makeviral.ai/about)
+Author: MakeViral Team (https://www.makeviral.ai/about)
 Publisher: MakeViral (https://www.makeviral.ai)
 
 The **AI arrest trend** turns one photo into a shaky phone video of a fake arrest: two officers walk you out at night, hands cuffed behind your back, red and blue lights flashing, and you give the camera a small, smug smile. Its caption is "Not bro, getting arrested again". You need one photo of yourself, or of a pet.
@@ -18,7 +18,7 @@ Also called: not bro getting arrested again, ai arrested trend, ai police filter
 
 Keyword: ai arrest. Also answers: ai arrest trend, ai arrest filter, ai police arrest, ai arrest video, ai arrest template, arrest trend, ai police arrest filter, how to do the ai arrested trend, ai dog police, ai cat police, dog arrested ai, ai police arrest trend, ai arrest photo, ai arrested generator, arrest trend tiktok, ai police arrest video, capcut arrest template, ai arrest prank, getting arrested again ai, arrested trend tiktok.
 
-## What is the AI Arrest Trend trend, and where did it start?
+## What is the Not Bro Getting Arrested Again trend, and where did it start?
 
 The AI arrest trend is a joke edit. You upload one ordinary photo, and an AI template turns it into a clip that looks like a bystander filmed you on a phone: two officers walk you out of a house at night, your hands cuffed behind your back, and instead of looking scared you smirk at the camera.
 
@@ -26,7 +26,7 @@ AI arrest clips were already on TikTok in 2025: the #aiarresttrend tag was first
 
 By 12 October both tags had about 8,300 to 8,400 videos and 70 million views each. Posts on the template sound peaked from 4 to 7 October.
 
-### AI Arrest Trend trend timeline
+### Not Bro Getting Arrested Again trend timeline
 
 - **2025-06-05**: The #aiarresttrend tag is first used on TikTok. By 12 October 2026 it has 8,261 videos and 71.2 million views. Source: [TikTok](https://www.tiktok.com/tag/aiarresttrend).
 - **2026-09-10**: A CapCut tutorial shows a clip captioned "not bro gettin arrested again", and the #notbrogettingarrestedagain tag starts the same day. The tutorial has 220,500 views by 12 October; the tag has 8,413 videos and 69.8 million views. Source: [TikTok](https://www.tiktok.com/@user2312450393252/video/7683932331559669006).
@@ -35,7 +35,7 @@ By 12 October both tags had about 8,300 to 8,400 videos and 70 million views eac
 - **2026-09-30**: A tutorial shows the CapCut AI template "Cinematic Staged Arrest Scene" at 2.5 million uses, remade in CapCut's AI agent with the Seedance 1.5 Pro model. It has 951,100 views by 12 October. Source: [TikTok](https://www.tiktok.com/@viral_scope14/video/7691236733345664286).
 - **2026-10-02**: @hj_mua, a Birmingham hair and makeup artist, posts her own version: "Me happily going to jail / For protecting my peace / And sanity". It has 55,100 views by 12 October. Source: [TikTok](https://www.tiktok.com/@hj_mua/video/7692169309715664130).
 
-## What the AI Arrest Trend video looks like
+## What the Not Bro Getting Arrested Again video looks like
 
 Made from the prompts on this page. The people and pets are AI-made, not real persons, and the sound is original. Your result will differ from run to run.
 
@@ -43,7 +43,7 @@ Made from the prompts on this page. The people and pets are AI-made, not real pe
   - Video: https://www.makeviral.ai/media/templates/ai-arrest-trend/original-main-v2.mp4
   - Poster: https://www.makeviral.ai/media/templates/ai-arrest-trend/original-main-v1.jpg
 
-## How to make the AI Arrest Trend video on MakeViral
+## How to make the Not Bro Getting Arrested Again video on MakeViral
 
 Everything runs in the browser. No editing app, no watermark.
 
@@ -55,7 +55,7 @@ Everything runs in the browser. No editing app, no watermark.
 
 ### The by-hand way, with the exact prompts
 
-The one-tap flow runs these prompts for you. A photo prompt puts your photo into the scene (Nano Banana 2, image mode, 9:16, 1K), then a video prompt animates that still. To change them, copy them and edit them in AI Photo and AI Video.
+The one-tap flow runs these prompts for you. A photo prompt puts your photo into the scene (Nano Banana 2.1, image mode, 9:16, 1K), then a video prompt animates that still. To change them, copy them and edit them in AI Photo and AI Video.
 
 #### Variant: Human
 
@@ -139,7 +139,7 @@ The sound is the street at night: footsteps, distant sirens and police radio cha
 
 The template works in two steps, so your face and your clothes stay yours:
 
-1. **The still.** Nano Banana 2 takes your photo and puts you on a street at night, just outside a front door, between two officers in plain dark uniforms, with a patrol car flashing behind you. Your face, hair and outfit stay as in your photo.
+1. **The still.** Nano Banana 2.1 takes your photo and puts you on a street at night, just outside a front door, between two officers in plain dark uniforms, with a patrol car flashing behind you. Your face, hair and outfit stay as in your photo.
 2. **The video.** A video model animates the still for 8 seconds: the walk, the look at the camera, the smile and the night street sound.
 
 | | Standard (default) | Best |
@@ -175,7 +175,7 @@ Every run is a new take, so results differ. If one take is not smug enough, run 
 
 Want another walk-out moment? Arrive like a star with the [AI airport star arrival](https://www.makeviral.ai/templates/ai-airport-star-arrival), or stand still while a crowd moves around you in the [storm AI trend](https://www.makeviral.ai/templates/storm-ai-trend).
 
-## AI Arrest Trend trend questions
+## Not Bro Getting Arrested Again trend questions
 
 ### Is this an AI arrest filter?
 
@@ -247,7 +247,7 @@ Yes. Each video costs credits, and the create page shows the exact price on the 
 - [AI photo generator](https://www.makeviral.ai/ai-photo-generator)
 - [All AI video templates](https://www.makeviral.ai/templates)
 
-## Make your own AI Arrest Trend video
+## Make your own Not Bro Getting Arrested Again video
 
 Add one photo and press Generate. No prompt to write. 46 credits, charged once.
 

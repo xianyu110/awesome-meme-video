@@ -5,7 +5,7 @@
 Canonical: https://www.makeviral.ai/templates/toz-pembe-ai-trend
 Updated: 2026-10-15
 Published: 2026-10-12
-Author: İrfan Şener (https://www.makeviral.ai/about)
+Author: MakeViral Team (https://www.makeviral.ai/about)
 Publisher: MakeViral (https://www.makeviral.ai)
 
 The **Toz Pembe AI** trend puts you into the dance of "Toz Pembe", the summer 2026 hit by the Turkish girl group manifest: a synced girl-group routine in front of a giant retro boombox. You need one photo of you, two photos for you and a friend, or one photo of your pet. The song stays on the clip.

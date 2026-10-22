@@ -5,7 +5,7 @@
 Canonical: https://www.makeviral.ai/templates/lego-car-wash-ai-trend
 Updated: 2026-10-15
 Published: 2026-10-15
-Author: İrfan Şener (https://www.makeviral.ai/about)
+Author: MakeViral Team (https://www.makeviral.ai/about)
 Publisher: MakeViral (https://www.makeviral.ai)
 
 The **Lego car wash AI** trend turns a photo of your truck, car or motorbike into a muddy toy-brick model that tiny toy workers power-wash and foam in a mini car wash until it shines. Truck drivers in Central America made it viral in October 2026; tutorials call it the **Lego Car Spa**. You need one photo.
@@ -91,7 +91,7 @@ One-tap version of this variant: https://www.makeviral.ai/templates/lego-car-was
 
 #### Variant: Car wash photo
 
-Settings: 1 photo (your truck, car or motorbike, the whole vehicle) · Nano Banana 2 · photo · 2K · 9:16 · 3 credits in one tap.
+Settings: 1 photo (your truck, car or motorbike, the whole vehicle) · Nano Banana 2.1 · photo · 2K · 9:16 · 3 credits in one tap.
 
 1. Open [AI Photo with this template](https://www.makeviral.ai/photo?template=lego-car-wash-ai-trend&variant=photo) and add your photo (your truck, car or motorbike, the whole vehicle). Pick 2K for the same size as the one-tap photo. The photo prompt is filled in:
 

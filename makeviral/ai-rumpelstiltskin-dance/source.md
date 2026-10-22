@@ -5,7 +5,7 @@
 Canonical: https://www.makeviral.ai/templates/ai-rumpelstiltskin-dance
 Updated: 2026-10-13
 Published: 2026-10-08
-Author: İrfan Şener (https://www.makeviral.ai/about)
+Author: MakeViral Team (https://www.makeviral.ai/about)
 Publisher: MakeViral (https://www.makeviral.ai)
 
 **Rumpelstiltskin AI** is the viral clip of a strange little man in a shiny velvet tuxedo who shushes the camera and tiptoes across a hay barn at night while a princess gasps. It looks like a scene from a 1987 film, but AI made it in 2026. Here you play the dancer: you need one clear photo of your face.
@@ -224,7 +224,7 @@ There are four versions.
 |---|---|---|---|
 | Original clip (default) | One photo. Seedance 2.5 puts your face into the real AI clip in place of the little man's, in every shot and every close-up. Pick Whole body to put your whole photo (a person, a pet or a character) in his place instead. The princess, the barn, every cut and every move stay the same. | 15 s, wide 16:9 like the original | The clip's own creepy film score and the princess's "Oh my God" |
 | Original clip, 2 people | Two photos, the little man first. The same real clip, and your friend's face and hair go on the princess in every shot where she appears. She keeps the white nightgown. | 15 s, wide 16:9 like the original | The clip's own film score and the princess's "Oh my God" |
-| You dance | One photo. Nano Banana 2 dresses you in the velvet tuxedo, then Seedance 2.5 animates a new take on the five meme shots. | 10 s, vertical 9:16 | An original tiptoe score |
+| You dance | One photo. Nano Banana 2.1 dresses you in the velvet tuxedo, then Seedance 2.5 animates a new take on the five meme shots. | 10 s, vertical 9:16 | An original tiptoe score |
 | You and a friend | Two photos, the dancer first. The same as You dance, with your friend as the one in the white nightgown who gasps. | 10 s, vertical 9:16 | An original tiptoe score |
 
 The two Original clip versions cost more than the other two, because they recast 15 seconds of the real clip, and they can take up to several minutes. The 2-person version and Whole body cost the same as the 1-person version. The exact price of each version shows on its card and on the Generate button, before you spend anything.
@@ -267,7 +267,7 @@ There are three common routes, and each one fits a different goal.
 |---|---|---|
 | Green-screen versions | The original dancer is cut out on a green background, and you place him over your own video or photo in an editor. | Putting the original little man in your kitchen, office or bedroom |
 | CapCut "tip toeing in my jordans AI trend" templates | Pick the template in the CapCut phone app and add a photo. Many TikTok tutorials from 6 October show it. | Speed, if you already edit in CapCut |
-| MakeViral, on this page | Add one photo of your face and press Generate. **Original clip** puts you into the real clip with Seedance 2.5, and **Original clip, 2 people** adds a friend as the princess. **You dance** and **You and a friend** dress you in the velvet tuxedo with Nano Banana 2, then Seedance 2.5 animates a new take on the shush, the shock and the tiptoe dance. | You as the dancer, in one tap, with no prompt and no watermark |
+| MakeViral, on this page | Add one photo of your face and press Generate. **Original clip** puts you into the real clip with Seedance 2.5, and **Original clip, 2 people** adds a friend as the princess. **You dance** and **You and a friend** dress you in the velvet tuxedo with Nano Banana 2.1, then Seedance 2.5 animates a new take on the shush, the shock and the tiptoe dance. | You as the dancer, in one tap, with no prompt and no watermark |
 
 Original clip keeps the original shot by shot, with your face on the dancer. The other two versions make a new clip with you in it, so their shots are close to the meme but not frame by frame.
 

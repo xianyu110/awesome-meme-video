@@ -5,7 +5,7 @@
 Canonical: https://www.makeviral.ai/templates/no-renunciare-ai-trend
 Updated: 2026-10-16
 Published: 2026-10-16
-Author: İrfan Şener (https://www.makeviral.ai/about)
+Author: MakeViral Team (https://www.makeviral.ai/about)
 Publisher: MakeViral (https://www.makeviral.ai)
 
 The **No Renunciaré trend** is an AI singing clip from October 2026: you sing a dramatic bolero into a vintage chrome microphone on three stages, completely serious, and a man gets a giant curled mustache. It rides the TikTok comeback of the 1970s bolero song "No Renunciaré". You need one photo of yourself or your pet.

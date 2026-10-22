@@ -9,11 +9,11 @@
   "blurb": "",
   "crc_slug": "pugc_kling_30_omni_njzz_p34",
   "crc_id": 60100484,
-  "aigc_config_url": "https://dynamic-third-res.wondershare.cc/202610241312/48bf9ff4a64bd90ed4b027fcbd9ae07c/Media_io/aicommunity/json/dynamic/s0/bbfca5772a297408d67a9d626707ad78.json",
+  "aigc_config_url": "https://dynamic-third-res.wondershare.cc/202610251300/36c3c309cb0afef4310c528eae499c04/Media_io/aicommunity/json/dynamic/s0/bbfca5772a297408d67a9d626707ad78.json",
   "aigc_config_local": "_raw/mediaio-aigc/bby-wow-guy-ai-video.json",
   "published": null,
   "updated": null,
-  "scraped_at": "2026-10-21",
+  "scraped_at": "2026-10-22",
   "demo_videos": [
     "https://static-third-res.wondershare.cc/Media_io/aicommunity/preview/static/s8/30567792c97ed3e1c79f081c2b9050c9.mp4"
   ],
@@ -36,10 +36,10 @@
     "collect_count": 0,
     "dislike_count": 0,
     "download_count": 0,
-    "liked_count": 0,
+    "liked_count": 1,
     "share_count": 0,
     "star_count": 0,
     "used_count": 0,
-    "view_count": 5998
+    "view_count": 6061
   }
 }

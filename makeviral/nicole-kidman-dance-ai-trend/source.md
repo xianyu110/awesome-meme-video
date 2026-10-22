@@ -5,7 +5,7 @@
 Canonical: https://www.makeviral.ai/templates/nicole-kidman-dance-ai-trend
 Updated: 2026-10-15
 Published: 2026-10-11
-Author: İrfan Şener (https://www.makeviral.ai/about)
+Author: MakeViral Team (https://www.makeviral.ai/about)
 Publisher: MakeViral (https://www.makeviral.ai)
 
 The **Nicole Kidman dance** is the viral TikTok routine to ADÉLA's 2026 song "Nicole Kidman": hands to the chest, a hip sway, both arms straight up and a spin with a hair flip. You need one photo. MakeViral puts you, or your dog or cat, into a viral AI version of the dance, with the song.

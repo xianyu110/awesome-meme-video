@@ -5,7 +5,7 @@
 Canonical: https://www.makeviral.ai/templates/abcdefg-i-need-money-ai-trend
 Updated: 2026-10-20
 Published: 2026-10-20
-Author: İrfan Şener (https://www.makeviral.ai/about)
+Author: MakeViral Team (https://www.makeviral.ai/about)
 Publisher: MakeViral (https://www.makeviral.ai)
 
 The **ABCDEFG I need money** trend is a TikTok meme line: "A, B, C, D, E, F, G... I need M-O-N-E-Y on me." The singer runs through the letters, stops, then asks for money with a dead-serious face and a finger rub. This template makes your pet or you sing it from one photo.

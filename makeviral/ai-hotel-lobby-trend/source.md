@@ -5,7 +5,7 @@
 Canonical: https://www.makeviral.ai/templates/ai-hotel-lobby-trend
 Updated: 2026-10-15
 Published: 2026-09-30
-Author: İrfan Şener (https://www.makeviral.ai/about)
+Author: MakeViral Team (https://www.makeviral.ai/about)
 Publisher: MakeViral (https://www.makeviral.ai)
 
 The **hotel lobby AI trend** (the AI Hotel Lobby trend, also called the **Migos AI trend**) shows two people or two pets in a flat orange booth, taking turns rapping into one hanging microphone. It copies a 2022 music performance. You need two photos, left first. The Original song versions put you or your pets into a real clip, with the song.
@@ -177,7 +177,7 @@ There are four versions. All of them take two photos, left side first.
 | Original song (default) | MiniMax H3 Max Recast puts your two photos into the real 2022 clip in place of the two performers. It keeps the moves, the camera cuts, the lip sync and the song. | 15 s | Wide 16:9, the frame of the original clip | The real song with the real lip sync, inside the file | Costs more |
 | Original song, pets | MiniMax H3 Max Recast puts your two pets into the most viral AI cat version of the trend, in place of the black cat and the ginger cat. It keeps the shots, the moves and the mouth movement. | 15 s | Wide 16:9, a crop of the 4:3 cat reel | The reel's song, put back on after the run; you can turn it off | Costs more |
 | Two people | Seedance 2.5 takes your two photos and films a new rap duet in the orange booth straight from them, with no AI picture in between, so both faces stay yours. | 10 s | Vertical 9:16, 720p | An original AI beat and generated rap lines | Less than Original song |
-| Two pets | MakeViral builds an orange booth photo of your two pets with Nano Banana 2, then Kling 3.0 animates them standing upright at the mic. | 10 s | Vertical 9:16, 1080p | An original AI beat and small cartoon voices | The lowest price |
+| Two pets | MakeViral builds an orange booth photo of your two pets with Nano Banana 2.1, then Kling 3.0 animates them standing upright at the mic. | 10 s | Vertical 9:16, 1080p | An original AI beat and small cartoon voices | The lowest price |
 
 The exact price of each version shows on its card in the prompts section of this page and on the Generate button, before you spend anything.
 

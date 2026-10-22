@@ -5,7 +5,7 @@
 Canonical: https://www.makeviral.ai/templates/i-wanna-love-you-ai-pet
 Updated: 2026-10-16
 Published: 2026-10-14
-Author: İrfan Şener (https://www.makeviral.ai/about)
+Author: MakeViral Team (https://www.makeviral.ai/about)
 Publisher: MakeViral (https://www.makeviral.ai)
 
 The **I Wanna Love You cat trend** is the viral AI clip of October 2026: a cat in a suit films a night selfie, sings "I Wanna Love You" into the camera, throws a paw in the air and falls back onto the grass with its legs up the wall. You need one photo of your cat or dog.

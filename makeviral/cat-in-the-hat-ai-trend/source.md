@@ -5,7 +5,7 @@
 Canonical: https://www.makeviral.ai/templates/cat-in-the-hat-ai-trend
 Updated: 2026-10-19
 Published: 2026-10-19
-Author: İrfan Şener (https://www.makeviral.ai/about)
+Author: MakeViral Team (https://www.makeviral.ai/about)
 Publisher: MakeViral (https://www.makeviral.ai)
 
 The **cat in the hat trend** is the 2026 TikTok wave of creepy AI pictures and night clips of a tall cat in a striped top hat on porches, streets and inside homes. Police said the sightings were fake. Here you make your own Cat in the Hat AI prank from one photo of your porch, window, room or you.
@@ -56,7 +56,7 @@ Everything runs in the browser. No editing app, no watermark.
 
 ### The by-hand way, with the exact prompts
 
-The one-tap flow runs these prompts for you. A photo prompt puts your photo into the scene (Nano Banana 2, image mode, 9:16, 1K), then a video prompt animates that still. To change them, copy them and edit them in AI Photo and AI Video.
+The one-tap flow runs these prompts for you. A photo prompt puts your photo into the scene (Nano Banana 2.1, image mode, 9:16, 1K), then a video prompt animates that still. To change them, copy them and edit them in AI Photo and AI Video.
 
 #### Variant: Doorbell cam
 
@@ -110,7 +110,7 @@ One-tap version of this variant: https://www.makeviral.ai/templates/cat-in-the-h
 
 #### Variant: Peek
 
-Settings: 1 photo (your room, hallway or doorway) · Nano Banana 2 · photo · 2K · 9:16 · 3 credits in one tap.
+Settings: 1 photo (your room, hallway or doorway) · Nano Banana 2.1 · photo · 2K · 9:16 · 3 credits in one tap.
 
 1. Open [AI Photo with this template](https://www.makeviral.ai/photo?template=cat-in-the-hat-ai-trend&variant=photo) and add your photo (your room, hallway or doorway). Pick 2K for the same size as the one-tap photo. The photo prompt is filled in:
 
@@ -124,7 +124,7 @@ One-tap version of this variant: https://www.makeviral.ai/templates/cat-in-the-h
 
 #### Variant: Behind me
 
-Settings: 1 photo (you, face clear) · Nano Banana 2 · photo · 2K · 9:16 · 3 credits in one tap.
+Settings: 1 photo (you, face clear) · Nano Banana 2.1 · photo · 2K · 9:16 · 3 credits in one tap.
 
 1. Open [AI Photo with this template](https://www.makeviral.ai/photo?template=cat-in-the-hat-ai-trend&variant=behind) and add your photo (you, face clear). Pick 2K for the same size as the one-tap photo. The photo prompt is filled in:
 

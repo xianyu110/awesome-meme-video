@@ -1,10 +1,444 @@
 # All prompts (MakeViral)
 
-> 430 prompt blocks from 170 public template markdown pages.
+> 493 prompt blocks from 191 public template markdown pages.
 >
 > Remake Your Meme does not publish prompts; see `remakeyourmeme/*/PROMPTS.md` for metadata only.
 >
-> Sorted newest-first by published||updated (2026-10-21; undated=unknown).
+> Sorted newest-first by published||updated (2026-10-22; undated=unknown).
+
+## Window Peeper Filter: Get Caught Eating a Burger at the Window
+
+- Page: https://www.makeviral.ai/templates/window-peeper-ai-filter
+- Markdown: https://www.makeviral.ai/templates/window-peeper-ai-filter.md
+- Updated: 2026-10-22 · Published: 2026-10-22
+- Local: [`makeviral/window-peeper-ai-filter/PROMPTS.md`](makeviral/window-peeper-ai-filter/PROMPTS.md)
+
+### 1. The video prompt is filled in. Settings: Seedance 2.5, 10 s, 720p, 9:16, sound on. The video prompt
+
+```text
+Create a photorealistic vertical video of the person in [Image 1], caught eating a burger alone at a lit window at night. Never write the words of this prompt, photo labels or file names as text anywhere in the video.
+
+The person is the one in [Image 1], in every frame: copy the exact face from [Image 1] (the face shape, eye color and eye shape, eyebrows, nose, mouth, skin tone, age, hair color, hair length and hairstyle, and any beard, moustache, glasses or freckles), so their friends recognize them at once. The same face from the first frame to the last; never morph. They wear the clothes from [Image 1]. If [Image 1] shows an animal, it is that animal sitting upright on the chair, with its own face, fur and markings.
+
+Nighttime exterior of a modern apartment building. Start far away, showing the building facade with many windows. Only one apartment window is warmly illuminated. All the other windows are dark.
+
+ONE SINGLE CONTINUOUS SHOT, NO CUTS.
+
+0-2.5 s: the camera begins a slow, smooth, cinematic physical push-in through the night air toward that illuminated window: NOT a digital zoom, NOT a sudden crop, NOT a transition. Then the window fills the frame: the person sits at a small wooden table right behind the glass, seen from the waist up, the face large and sharp, a long cream curtain at the side of the window.
+
+Through the window, the person is alone, eating a big burger with both hands. On the table: a plain brown paper takeaway bag and an open plain red burger box, with no logo and no writing.
+
+2.5-4 s: at first, the person is completely unaware of the camera, takes a big bite and does NOT look toward the lens.
+
+4-7.5 s: then the person notices the camera, freezes mid-chew and looks directly into the camera with a deadpan, irritated, suspicious expression, as if realizing a stranger has been watching them, cheeks full, still chewing slowly. They do NOT smile. They are NOT surprised or scared. They do NOT immediately close the curtain.
+
+7.5-8.5 s: still visibly annoyed, they slowly put the burger down in the box and stand up, keeping eye contact with the camera. No rushing.
+
+8.5-10 s: only then, they grab the curtain and pull it across until the window is completely covered. The closed curtain stays warmly lit from inside until the end.
+
+VISUAL STYLE: photorealistic, like a real phone video filmed from across the street at night, subtle natural acting, warm interior light against the cool blue night, realistic window reflections, 9:16 vertical.
+
+NO cuts, NO instant zoom, NO morphing faces, NO distorted hands, NO smiling at camera, NO waving, NO second person. NO logos, brand names or text on the bag, the box, the window or anywhere, no subtitles, no watermark.
+
+Audio: quiet night city ambience, the crinkle of the paper bag, soft chewing, a fabric swish when the curtain closes. No music, no speech.
+```
+
+---
+
+## Venom Makeup AI: Black Goo Takes Over Half Your Face
+
+- Page: https://www.makeviral.ai/templates/venom-makeup-ai-trend
+- Markdown: https://www.makeviral.ai/templates/venom-makeup-ai-trend.md
+- Updated: 2026-10-22 · Published: 2026-10-22
+- Local: [`makeviral/venom-makeup-ai-trend/PROMPTS.md`](makeviral/venom-makeup-ai-trend/PROMPTS.md)
+
+### 1. The video prompt is filled in. Settings: Seedance 2.5, 10 s, 720p, 9:16, sound on. The video prompt
+
+```text
+A Halloween half face goo makeup video, like a real vertical phone video on a tripod: the person faces the camera from the chest up in a dim room, one soft key light from the side, a faint red rim light behind them and a dark plain wall. Photorealistic, fine phone-camera grain, vertical 9:16.
+
+The person in the clip is the person in [Image 1], in every frame: copy the exact face from [Image 1] (the face shape, eye color and eye shape, eyebrows, nose, mouth, skin tone, age, hair color, hair length and hairstyle, and any beard, moustache, glasses or freckles), and the clothes from [Image 1], so their friends recognize them at once. The bare half of the face stays exactly the face from [Image 1] from the first frame to the last: never a different person, never morph, never beautify. If [Image 1] shows an animal, that animal gets the goo on one half of its face.
+
+0-2 s: the person looks calmly into the lens with their own bare face and no makeup, the whole face large, sharp and well lit.
+2-6 s: thick, glossy black goo seeps up from the collar like living liquid, climbs the neck in thin tendrils and spreads up over one half of the face (the left side of the frame) until it stops in a hard, jagged line down the middle of the forehead, the nose, the lips and the chin. As it settles, a large white jagged eye shape forms around that eye, a row of long, thin, curved white fangs appears along the jaw from the corner of the mouth to the ear, and thin dark veins spread from the edge of the goo across the bare cheek and down the neck.
+6-8 s: the beat drops: the person tilts the head, gives a slow, cocky smirk and flicks the tip of the tongue out for a moment, a normal human tongue.
+8-10 s: they turn the face slowly from one side to the other so the glossy goo catches the light, and end on a still pose looking straight into the lens: the goo, the white eye shape and the fangs on one half, the other half their own bare face, large, sharp and exactly the face from [Image 1].
+
+Audio: a dark, punchy original trap beat with a deep bass drop at 6 s, wet, sticky goo sounds while it spreads and a low breath. No words, no singing.
+
+Exactly one person, one head, two hands. Black goo only: no blood, no wounds, no torn skin, no gore. The goo and the white shapes stay on one half of the face and the neck; the other half stays bare. No mask, no helmet, no costume, no suit, no emblem or symbol on the chest or the clothes, no spider shape anywhere. No text, no subtitles, no logos, no watermark.
+```
+
+### Prompt 2
+
+```text
+Use the uploaded image as the base. A 9:16 vertical Halloween makeup portrait of the person from the uploaded image, from the chest up, facing the camera, in a dim room with one soft key light from the side, a faint red rim light behind them and a dark plain wall, like a real makeup photo taken on a phone. Half face goo makeup: one half of the face (the left side of the frame) is covered in thick, glossy, wet-looking black goo, like living liquid tar, that ends in a hard, jagged line straight down the middle of the forehead, the nose, the lips and the chin; on the goo side, a large white jagged eye shape, like a curved white teardrop with a spiky edge, sits around the eye, and the real eye stays open inside it with its own color; a row of long, thin, curved white fangs runs along the jaw from the corner of the mouth back toward the ear; thin dark veins spread from the edge of the goo across the bare cheek and down the neck, with a few slow drips of goo on the neck. The other half of the face stays the person's own bare face, with its own skin, eye, eyebrow and lips. The person wears their own clothes from the uploaded image and looks straight into the lens with a calm, confident face and a slight smirk. Realistic skin texture and natural colors. Exactly one person. Black goo only: no blood, no wounds, no torn skin, no gore. The goo and the white shapes stay on one half of the face and the neck; the other half stays bare. No mask, no helmet, no costume, no suit, no emblem or symbol on the chest or the clothes, no spider shape anywhere. No text, no subtitles, no logos, no watermark.
+```
+
+---
+
+## No Scrubs AI: You and Two Friends in a 1999-Style Music Video
+
+- Page: https://www.makeviral.ai/templates/no-scrubs-ai-trend
+- Markdown: https://www.makeviral.ai/templates/no-scrubs-ai-trend.md
+- Updated: 2026-10-22 · Published: 2026-10-22
+- Local: [`makeviral/no-scrubs-ai-trend/PROMPTS.md`](makeviral/no-scrubs-ai-trend/PROMPTS.md)
+
+### 1. The video prompt is filled in. Settings: Seedance 2.5, 15 s, 720p, 9:16, sound on. The video prompt
+
+```text
+A vertical, glossy 1999-style girl-group R&B music video, made new. [Image 1], [Image 2] and [Image 3] are the three people. Three performers in the video, one person each, in every shot, including every close-up and the solo shots: the performer in the MIDDLE (the one alone in the elevator at the start, in the second close-up and in the overhead shot) is the person in [Image 1]; the performer on the LEFT (the first close-up) is the person in [Image 2]; the performer on the RIGHT (the third close-up) is the person in [Image 3]. Each person wears the clothes, hat, glasses and jewellery from their own image, in every shot.
+
+Each performer has the exact face from their own image (the face shape, eye color and eye shape, eyebrows, nose, mouth, skin tone, age, hair color, hair length and hairstyle, and any beard, moustache, glasses or freckles). Never blend their faces and never swap them. Each face stays the same from the first frame to the last, so their friends recognize them at once. Each one keeps the hair from their own image: no braided pigtails, no short red hair and no long curly hair unless their own image shows it. If an image shows an animal, that performer is that animal standing upright, with its own face, fur and markings, not a person.
+
+The set: a futuristic space station, all brushed silver and white: curved metal walls, glossy white floors and cool blue-white light. Plain walls with no letters, no logos and no writing.
+
+0-2.5 s: the elevator intro: a long, narrow silver elevator shaft lit from the sides; [Image 1] rides up alone on a small platform toward the camera, head high, arms loose.
+2.5-5 s: the first close-up, against a pale blue-white wall: [Image 2] points at the camera with attitude. The face is large and sharp: exactly the face from [Image 2].
+5-7.5 s: the second close-up: [Image 1] raises both hands at the sides, palms out, and tilts the head. Exactly the face from [Image 1].
+7.5-9.5 s: the third close-up: [Image 3] leans toward the lens with a sly smile and wags one finger. Exactly the face from [Image 3].
+9.5-11.5 s: an overhead fisheye shot from the ceiling: [Image 1] looks up into the lens with both arms spread wide, [Image 2] and [Image 3] at the sides.
+11.5-15 s: a wide, low shot: all three dance the same sharp, slinky R&B routine in sync on the glossy floor, [Image 2] on the left, [Image 1] in the middle, [Image 3] on the right: hip sways, shoulder rolls, a slow turn and a finger wag at the camera.
+
+Keep every face clearly lit. Audio: an original late-90s R&B beat with a plucked guitar riff, finger snaps and a deep bass, instrumental only: no singing voice, no lyrics. The performers mouth along to the beat with attitude. Exactly three people, no other people. Do not add any text or logos: no subtitles, no letters on the walls, no watermark.
+```
+
+### 1. The video prompt is filled in. Settings: Seedance 2.5, 10 s, 720p, 9:16, sound on. The video prompt
+
+```text
+A vertical, glossy 1999-style girl-group R&B music video, made new. The lead performer in the MIDDLE is the person in [Image 1], in every shot, including every close-up and the solo shots: the one alone in the elevator at the start, in both close-ups and in the overhead shot. The lead wears the clothes, hat, glasses and jewellery from [Image 1], in every shot. Two backup dancers in plain black outfits dance a step behind the lead, one on the left and one on the right, only in the last wide shot, softly out of focus, with their own different faces.
+
+The lead has the exact face from [Image 1] (the face shape, eye color and eye shape, eyebrows, nose, mouth, skin tone, age, hair color, hair length and hairstyle, and any beard, moustache, glasses or freckles), the same from the first frame to the last, so their friends recognize them at once. The backup dancers never get the face from [Image 1]. The lead keeps the hair from [Image 1]: no braided pigtails, no short red hair and no long curly hair unless [Image 1] shows it. If [Image 1] shows an animal, the lead is that animal standing upright, with its own face, fur and markings, not a person.
+
+The set: a futuristic space station, all brushed silver and white: curved metal walls, glossy white floors and cool blue-white light. Plain walls with no letters, no logos and no writing.
+
+0-2.5 s: the elevator intro: a long, narrow silver elevator shaft lit from the sides; the lead rides up alone on a small platform toward the camera, head high, arms loose.
+2.5-5 s: the first close-up, against a pale blue-white wall: the lead points at the camera with attitude. The face is large and sharp: exactly the face from [Image 1].
+5-7 s: the second close-up: the lead raises both hands at the sides, palms out, with a sly smile. Exactly the face from [Image 1].
+7-8.5 s: an overhead fisheye shot from the ceiling: the lead looks up into the lens with both arms spread wide.
+8.5-10 s: a wide, low shot: the lead dances a sharp, slinky R&B routine in front, with hip sways and a finger wag at the camera; the two backup dancers move in sync behind.
+
+Keep every face clearly lit. Audio: an original late-90s R&B beat with a plucked guitar riff, finger snaps and a deep bass, instrumental only: no singing voice, no lyrics. The performers mouth along to the beat with attitude. Exactly one lead and two backup dancers, no other people. Do not add any text or logos: no subtitles, no letters on the walls, no watermark.
+```
+
+---
+
+## No Guidance Dance: Do the Train Dance or a Duo From Your Photos
+
+- Page: https://www.makeviral.ai/templates/no-guidance-dance-ai-trend
+- Markdown: https://www.makeviral.ai/templates/no-guidance-dance-ai-trend.md
+- Updated: 2026-10-22 · Published: 2026-10-22
+- Local: [`makeviral/no-guidance-dance-ai-trend/PROMPTS.md`](makeviral/no-guidance-dance-ai-trend/PROMPTS.md)
+
+### 1. The video prompt is filled in. Settings: Seedance 2.5, 11 s, 720p, 9:16, sound off. The video prompt
+
+```text
+Recreate the reference video [Video 1] shot for shot: the same underground train platform with grey floor tiles, the yellow edge line, the steel pillars, the escalators and the yellow handrails behind, the people who wait on the platform, filmed from inside a moving train through the window glass with its soft reflections, the steel pillars sliding past in front, the same framing, timing and moves, one continuous take with no cuts. The ONLY change: the man who dances on the platform is now the person in [Image 1].
+
+The dancer = the person in [Image 1], in EVERY frame: copy the exact face from [Image 1]: face shape, eye color and eye shape, eyebrows, nose, mouth, skin tone, age, hair color, hair length and hairstyle, and any beard, moustache, glasses or freckles exactly as in the photo. They wear the clothes and shoes from [Image 1]. NO bleached blond hair, no red trousers, no dark knit sweater and no glasses unless [Image 1] shows them. The same real person in every frame, from the first second to the last, also when the back of the head shows and when the face is far, so their friends instantly recognize them. Never morph, never drift back to the original dancer's face.
+
+The dance, matching the reference second by second, on the beat:
+0-1.5 s: the dancer runs in across the platform from the left and stops in front of the train.
+1.5-5 s: half turned away from the camera, both hands behind the head, elbows wide, a big swing of the hips from side to side.
+5-8 s: steps along the platform, one hand on the head and the other at the waist, a knee lift and hip rolls, turning toward the camera.
+8-11 s: facing the camera, one hand on the head, knees bent, a bounce and a step to the side, looking straight into the lens.
+
+The people waiting on the platform stay as they are, small and in the back; only the dancer changes. Anatomy rules: one head only, on the dancer's shoulders. A face never appears on knees, legs, hands, clothes or in the glass. Exactly one dancer. Natural balance, stable ground contact. No extra limbs, no duplicate bodies, no text, no signs you can read, no logos, no watermark.
+```
+
+### 1. The video prompt is filled in. Settings: Seedance 2.5, 12 s, 720p, 9:16, sound off. The video prompt
+
+```text
+Recreate the reference video [Video 1] shot for shot: the same bright living room with the white walls, the dark glass door behind, the black leather sofa, the striped rug and the dark wooden floor, the same fixed camera, framing, timing and dance moves, both dancers in full view from head to feet, one continuous shot with no cuts. The ONLY change: the woman on the left is now the person in [Image 1], and the man on the right is now the person in [Image 2].
+
+Dancer 1 (left) = the person in [Image 1], in EVERY frame: copy the exact face from [Image 1]: face shape, eye color and eye shape, eyebrows, nose, mouth, skin tone, age, hair color, hair length and hairstyle, and any beard, moustache, glasses or freckles exactly as in the photo. They wear the clothes and shoes from [Image 1]. NO pink top, no gold leggings and no pink heels unless [Image 1] shows them.
+
+Dancer 2 (right) = the person in [Image 2], in EVERY frame: copy the exact face from [Image 2]: face shape, eye color and eye shape, eyebrows, nose, mouth, skin tone, age, hair color, hair length and hairstyle, and any beard, moustache, glasses or freckles exactly as in the photo. They wear the clothes and shoes from [Image 2]. NO cap, no olive shirt, no camo trousers and no beard unless [Image 2] shows them.
+
+The same real people in every frame, from the first second to the last, so their friends instantly recognize them, also when they laugh and turn. Never morph, never drift back to the original dancers' faces, never add or remove facial hair. Do not mix the two faces: [Image 1] is only dancer 1 on the left, [Image 2] is only dancer 2 on the right. Both change: no one from the video stays.
+
+The dance, matching the reference second by second, on the beat, side by side:
+0-2 s: they stand side by side, small sways, hands at the chest, smiling at the camera.
+2-6 s: they groove: hand waves by the face, shoulder rolls, chest brushes and small steps.
+6-7.5 s: both flex one arm like bodybuilders and laugh.
+7.5-10 s: hands rolling at the chest, the right dancer leans in with knee lifts.
+10-12 s: side steps, the left dancer turns to the side, the right dancer steps forward.
+
+Anatomy rules: one head per person, on that person's own shoulders. A face never appears on knees, legs, hands or clothes. Exactly two people. Natural balance, stable ground contact. No extra dancers, duplicate bodies, extra limbs, fused fingers, text, logos or watermark.
+```
+
+---
+
+## Laughing Fairy Meme AI: Turn You and Your Bestie Into Gossiping Fairies
+
+- Page: https://www.makeviral.ai/templates/laughing-fairy-ai-trend
+- Markdown: https://www.makeviral.ai/templates/laughing-fairy-ai-trend.md
+- Updated: 2026-10-22 · Published: 2026-10-22
+- Local: [`makeviral/laughing-fairy-ai-trend/PROMPTS.md`](makeviral/laughing-fairy-ai-trend/PROMPTS.md)
+
+### 1. Open [AI Photo with this template](https://www.makeviral.ai/photo?template=laughing-fairy-ai-trend) and add your photo (you, face clear). The photo prompt is filled in
+
+```text
+Use the uploaded image as the base. 9:16 vertical photo. Like a real phone photo taken at night with the flash on, close up and a little grainy, like found footage of something hidden in the woods: the flash makes the fairies, the moss and the wet leaves bright and the forest behind them black. Two tiny forest fairies, each about the size of a hand, sit side by side on a thick fallen branch covered in wet green moss, deep in a dark forest at night, with a few tiny pale mushrooms on the moss, wet leaves with water drops close in front of the lens at the bottom of the frame, and black trees and ferns behind. The fairy on the left is the person from the uploaded image as a tiny fairy: the face, skin tone and hair from the uploaded image, with long pointed fairy ears that stick out through the hair, a small round belly, thin arms and legs, long thin fingers and toes, and two thin, see-through insect wings on the back. It wears a little tunic made of moss and leaves. If the uploaded image shows an animal, the left fairy has that animal's own face, fur and markings instead. The fairy on the right is a pale, wrinkly fairy creature with very long pointed ears, a long thin nose, big dark eyes, wisps of fuzzy white hair, see-through wings and a little skirt of dry grass. It leans in close to the left fairy's ear with one hand by its mouth, about to whisper a secret. The left fairy's face is large, sharp and lit by the flash, turned three-quarters to the camera, with a curious look. Both fairies are grown-ups, creepy-cute and funny, never scary. Exactly two fairies, each about the size of a hand, nobody else. No blood, no wounds, no sharp teeth. No text, no logos, no watermark.
+```
+
+### 3. Press the film button on the still to open AI Video with the still as the first frame. Settings: Kling 3.0, 8 s, 1080p, 9:16, sound on. The video prompt
+
+```text
+One continuous shot with no cuts, like a real phone video filmed at night with the flash on, close up and a little shaky, like found footage. Keep both fairies' faces, hair, ears, wings, clothes and tiny size, the mossy branch and the wet leaves exactly as in the image.
+0-1 s: the camera creeps a little closer past the wet leaves in the foreground, and the two tiny fairies on the mossy branch come into full view.
+1-4 s: the fairy on the right cups a hand by its mouth and whispers into the left fairy's ear in a squeaky made-up fairy babble. The left fairy listens, its eyes go wide and its mouth drops open in a gasp.
+4-8 s: both fairies burst into high-pitched, wheezing giggles: they cover their mouths, rock back and forth, kick their tiny feet, and one nearly topples off the branch laughing, glancing at the camera between laughs.
+Audio: crickets and a quiet night forest, the squeaky whispered fairy babble with no real words, then shrill, wheezy, contagious giggles. No music. Each face stays exactly the face from the image in every frame, also while laughing with the mouth wide open. Exactly two fairies, no people, no other creatures. No blood, no sharp teeth, no morphing, no extra limbs. No text, no subtitles, no logos, no watermark.
+```
+
+### Prompt 3
+
+```text
+Use the two uploaded images as the base. 9:16 vertical photo. Like a real phone photo taken at night with the flash on, close up and a little grainy, like found footage of something hidden in the woods: the flash makes the fairies, the moss and the wet leaves bright and the forest behind them black. Two tiny forest fairies, each about the size of a hand, sit side by side on a thick fallen branch covered in wet green moss, deep in a dark forest at night, with a few tiny pale mushrooms on the moss, wet leaves with water drops close in front of the lens at the bottom of the frame, and black trees and ferns behind. The fairy on the left is the person from the first image as a tiny fairy: the face, skin tone and hair from the first image, with long pointed fairy ears that stick out through the hair, a small round belly, thin arms and legs, long thin fingers and toes, and two thin, see-through insect wings on the back. It wears a little tunic made of moss and leaves. The fairy on the right is the person from the second image as a tiny fairy: the face, skin tone and hair from the second image, with long pointed fairy ears that stick out through the hair, a small round belly, thin arms and legs, long thin fingers and toes, and two thin, see-through insect wings on the back. It wears a little tunic made of moss and leaves. Do not blend the two faces and do not swap them. If an image shows an animal, that fairy has the animal's own face, fur and markings instead. The fairy on the right leans in close to the left fairy's ear with one hand by its mouth, about to whisper a secret. Both faces are large, sharp and lit by the flash, turned three-quarters to the camera, with a mischievous look. Both fairies are grown-ups, creepy-cute and funny, never scary. Exactly two fairies, each about the size of a hand, nobody else. No blood, no wounds, no sharp teeth. No text, no logos, no watermark.
+```
+
+### 3. Press the film button on the still to open AI Video with the still as the first frame. Settings: Kling 3.0, 8 s, 1080p, 9:16, sound on. The video prompt
+
+```text
+One continuous shot with no cuts, like a real phone video filmed at night with the flash on, close up and a little shaky, like found footage. Keep both fairies' faces, hair, ears, wings, clothes and tiny size, the mossy branch and the wet leaves exactly as in the image.
+0-1 s: the camera creeps a little closer past the wet leaves in the foreground, and the two tiny fairies on the mossy branch come into full view.
+1-4 s: the fairy on the right cups a hand by its mouth and whispers into the left fairy's ear in a squeaky made-up fairy babble. The left fairy listens, its eyes go wide and its mouth drops open in a gasp.
+4-8 s: both fairies burst into high-pitched, wheezing giggles: they cover their mouths, rock back and forth, kick their tiny feet, and one nearly topples off the branch laughing, glancing at the camera between laughs.
+Audio: crickets and a quiet night forest, the squeaky whispered fairy babble with no real words, then shrill, wheezy, contagious giggles. No music. Each face stays exactly the face from the image in every frame, also while laughing with the mouth wide open. Exactly two fairies, no people, no other creatures. No blood, no sharp teeth, no morphing, no extra limbs. No text, no subtitles, no logos, no watermark.
+```
+
+---
+
+## Gangnam Style Dance AI: Put Your Face in the Viral Trio Reel
+
+- Page: https://www.makeviral.ai/templates/gangnam-style-ai-dance
+- Markdown: https://www.makeviral.ai/templates/gangnam-style-ai-dance.md
+- Updated: 2026-10-22 · Published: 2026-10-22
+- Local: [`makeviral/gangnam-style-ai-dance/PROMPTS.md`](makeviral/gangnam-style-ai-dance/PROMPTS.md)
+
+### 1. The video prompt is filled in. Settings: Seedance 2.5, 15 s, 720p, 9:16, sound off. The video prompt
+
+```text
+Recreate the reference video [Video 1] shot for shot: the same wide handheld selfie video at sunset on a city sidewalk between glass towers, flags on tall poles, cars and a few people passing, the same arm's-length selfie camera, cuts, framing, timing and moves. The ONLY change: the friend in the middle is now the person in [Image 1].
+
+Use [Image 1] as adult Person A at center in [Video 1]. Follow the exact reference sequence: group, center close-up, right solo, left solo, center return. Keep Person A's face, hairstyle, outfit, body proportions and screen position consistent.
+
+[Image 1] replaces the woman in the middle with the wavy, shoulder-length dark-brown bob and bangs in the black leather jacket, in EVERY shot: copy the exact face from [Image 1] (the face shape, eye color and eye shape, eyebrows, nose, mouth, skin tone, age, hair color, hair length and hairstyle, and any beard, moustache, glasses or freckles). They wear the clothes from [Image 1]. NO black leather jacket and no bob with bangs unless [Image 1] shows them. The same real person from the first second to the last, so their friends recognize them at once. Never morph, never drift back to the original woman's face.
+
+The friend on the left (black baseball cap, white turtleneck) and the friend on the right (long straight black hair, white lace camisole) stay exactly as in the video, with their own faces, also in their solo shots.
+
+Shots, matching the reference second by second:
+0-2 s: group selfie, the three side by side, smiling and singing along.
+2-4.9 s: the middle friend alone, sings to the lens, points at it, sways.
+4.9-8.4 s: the right friend alone by the road, a hair flip and a wave.
+8.4-12.3 s: the left friend alone on a side street with orange cones, hands on the head, then a finger heart.
+12.3-15 s: the middle friend again, close to the lens, sings and dances.
+
+One head per person, on that person's own shoulders. Never a fourth friend; the people passing far behind stay small strangers. No text, no logos, no watermark.
+```
+
+### 1. The video prompt is filled in. Settings: Seedance 2.5, 15 s, 720p, 9:16, sound off. The video prompt
+
+```text
+Recreate the reference video [Video 1] shot for shot: the same wide handheld selfie video at sunset on a city sidewalk between glass towers, flags on tall poles, cars and a few people passing, the same arm's-length selfie camera, cuts, framing, timing and moves. The ONLY change: the friend in the middle is now the person in [Image 1], and the friend on the left is now the person in [Image 2].
+
+Use [Image 1] as adult Person A at center, [Image 2] as adult Person B at screen-left, in [Video 1]. Follow the exact reference sequence: group, center close-up, right solo, left solo, center return. Keep each person's face, hairstyle, outfit, body proportions and screen position consistent; do not swap roles or merge identities.
+
+Person A: [Image 1] replaces the woman in the middle with the wavy, shoulder-length dark-brown bob and bangs in the black leather jacket, in EVERY shot: copy the exact face from [Image 1] (the face shape, eye color and eye shape, eyebrows, nose, mouth, skin tone, age, hair color, hair length and hairstyle, and any beard, moustache, glasses or freckles). They wear the clothes from [Image 1]. NO black leather jacket and no bob with bangs unless [Image 1] shows them.
+
+Person B: [Image 2] replaces the woman on the left in the black baseball cap and the white turtleneck, in EVERY shot, also in the left solo: copy the exact face from [Image 2] (the face shape, eye color and eye shape, eyebrows, nose, mouth, skin tone, age, hair color, hair length and hairstyle, and any beard, moustache, glasses or freckles). They wear the clothes from [Image 2]. NO black cap and no white turtleneck unless [Image 2] shows them.
+
+The same real people from the first second to the last, so their friends recognize them at once. Never morph, never drift back to the original women's faces. The friend on the right (long straight black hair, white lace camisole) stays exactly as in the video, with her own face, also in her solo shot.
+
+Shots, matching the reference second by second:
+0-2 s: group selfie, the three side by side, smiling and singing along.
+2-4.9 s: the middle friend alone, sings to the lens, points at it, sways.
+4.9-8.4 s: the right friend alone by the road, a hair flip and a wave.
+8.4-12.3 s: the left friend alone on a side street with orange cones, hands on the head, then a finger heart.
+12.3-15 s: the middle friend again, close to the lens, sings and dances.
+
+One head per person, on that person's own shoulders. Never a fourth friend; the people passing far behind stay small strangers. No text, no logos, no watermark.
+```
+
+### 1. The video prompt is filled in. Settings: Seedance 2.5, 15 s, 720p, 9:16, sound off. The video prompt
+
+```text
+Recreate the reference video [Video 1] shot for shot: the same wide handheld selfie video at sunset on a city sidewalk between glass towers, flags on tall poles, cars and a few people passing, the same arm's-length selfie camera, cuts, framing, timing and moves. The ONLY change: the three friends are now the people in [Image 1], [Image 2] and [Image 3].
+
+Use [Image 1] as adult Person A at center, [Image 2] as adult Person B at screen-left, [Image 3] as adult Person C at screen-right, in [Video 1]. Follow the exact reference sequence: group, center close-up, right solo, left solo, center return. Keep each face, hairstyle, outfit and screen position; do not swap roles or merge identities.
+
+A: [Image 1] replaces the woman in the middle (dark-brown bob with bangs, black leather jacket) in EVERY shot: the exact face from [Image 1] (the face shape, eye color and eye shape, eyebrows, nose, mouth, skin tone, age, hair color, hair length and hairstyle, and any beard, moustache, glasses or freckles), the clothes from [Image 1]. NO leather jacket, no bob unless [Image 1] shows them.
+
+B: [Image 2] replaces the woman on the left (black cap, white turtleneck) in EVERY shot: the exact face from [Image 2] (the face shape, eye color and eye shape, eyebrows, nose, mouth, skin tone, age, hair color, hair length and hairstyle, and any beard, moustache, glasses or freckles), the clothes from [Image 2]. NO cap, no turtleneck unless [Image 2] shows them.
+
+C: [Image 3] replaces the woman on the right (long straight black hair, white lace camisole) in EVERY shot: the exact face from [Image 3] (the face shape, eye color and eye shape, eyebrows, nose, mouth, skin tone, age, hair color, hair length and hairstyle, and any beard, moustache, glasses or freckles), the clothes from [Image 3]. NO long black hair, no camisole unless [Image 3] shows them.
+
+The same real people from the first second to the last, so their friends recognize them at once. Never morph, never drift back to the original women's faces. All three change: no one from the video stays, also in the solos.
+
+Shots, matching the reference second by second:
+0-2 s: group selfie, the three side by side, smiling and singing along.
+2-4.9 s: the middle friend alone, sings to the lens, points at it, sways.
+4.9-8.4 s: the right friend alone by the road, a hair flip and a wave.
+8.4-12.3 s: the left friend alone on a side street with orange cones, hands on the head, then a finger heart.
+12.3-15 s: the middle friend again, close to the lens, sings and dances.
+
+One head per person, on that person's own shoulders. Never a fourth friend; the people passing far behind stay small strangers. No text, no logos, no watermark.
+```
+
+---
+
+## Firestarter Dance AI: The KDA Chorus, in Your Own Place
+
+- Page: https://www.makeviral.ai/templates/firestarter-dance-ai-trend
+- Markdown: https://www.makeviral.ai/templates/firestarter-dance-ai-trend.md
+- Updated: 2026-10-22 · Published: 2026-10-22
+- Local: [`makeviral/firestarter-dance-ai-trend/PROMPTS.md`](makeviral/firestarter-dance-ai-trend/PROMPTS.md)
+
+### 1. The video prompt is filled in. Settings: kling-3-motion, 13 s, 720p, 9:16, sound off. The video prompt
+
+```text
+Replace the character in the video with the person from the uploaded image. Keep actions, poses, facial expressions, camera movement and rhythm. Preserve the person's original facial features, maintain character consistency, no distortion, no glitches, no artifacts.
+The person dances in the place from the uploaded image, in the clothes and shoes from the uploaded image, not the black crop top with red trim and the black wide trousers of the woman in the video, and keeps their own hair from the uploaded image, not black hair with bangs in a high ponytail. Follow the woman's moves and timing exactly: she walks into the middle with small bouncy steps and a quick kick, drops into a deep wide stance with both arms pushed out to one side, rises with one arm up high and the other hand on the head, flips the hair, rolls the body with the hands framing the hips and the chest, crosses the legs with both hands framing the head, bends low, opens into a wide lunge with the arms crossed in front of the chest and then over the head, whips the hair, and ends on a strong pose with one hand on the hip and a confident look into the camera. Keep the whole body in view from head to feet, with natural balance and stable ground contact. Exactly one person, no other people. One continuous shot. No costume, no animal ears, no tail, no fire, no glowing effects, no text, no captions, no logos.
+```
+
+---
+
+## Check One Check Two Filter: Rap the JME Grime Verse in the Night Crowd
+
+- Page: https://www.makeviral.ai/templates/check-one-check-two-ai-filter
+- Markdown: https://www.makeviral.ai/templates/check-one-check-two-ai-filter.md
+- Updated: 2026-10-22 · Published: 2026-10-22
+- Local: [`makeviral/check-one-check-two-ai-filter/PROMPTS.md`](makeviral/check-one-check-two-ai-filter/PROMPTS.md)
+
+### 1. The video prompt is filled in. Settings: Seedance 2.5, 10 s, 720p, 9:16, sound off. The video prompt
+
+```text
+Recreate the reference video [Video 1] shot for shot: the same grainy, low-light camcorder footage of a packed crowd outside at night, the same handheld camera held a hand's width from the face, the same camera angles, swings, timing and moves. The rapper's mouth moves with the words exactly like in the video. The ONLY change: the young man in the white T-shirt and the black durag who leans into the lens and raps is now the person in [Image 1].
+
+The rapper = the person in [Image 1], in EVERY frame from 0.6 s to the end: copy the exact face from [Image 1] - face shape, eye color and eye shape, eyebrows, nose, mouth, skin tone, age, hair color, hair length and hairstyle, and any beard, moustache, glasses or freckles exactly as in the photo. Preserve the person's facial features, hairstyle, body proportions, and outfit throughout the video. They wear the clothes and the hair or headwear from [Image 1]: NO black durag, NO earring and NO white T-shirt unless [Image 1] shows them. They copy the rapping mouth, the raised eyebrows, the head moves and the pointing finger of the rapper in the video, not the smile in [Image 1]. If [Image 1] shows an animal, the rapper is that animal, with its own face, fur and markings.
+
+The same real person in every frame, so their friends instantly recognize them, also in the extreme close-ups and while the mouth is wide open. Never morph, never drift back to the original rapper's face, never add or remove facial hair.
+
+THE SHOTS, at the same times as [Video 1]:
+0.0-0.6 s: the camera looks at two men side by side in the crowd under a street light; they keep their own faces.
+0.6-10.0 s: the camera swings to the rapper and stays right at the face: a huge, slightly distorted close-up that fills the frame, the dark crowd behind. The rapper spits the verse straight into the lens, leans in, raises the eyebrows, points one finger at the lens, turns the head away and back, and keeps the eyes on the camera. The face is large and sharp: exactly the face from [Image 1].
+
+The people in the crowd behind keep their own faces and never take the face from [Image 1].
+
+Anatomy rules: one head only, on the rapper's own shoulders. A face never appears on hands or clothes. Two hands with five fingers each. No text, no captions, no logos, no watermark.
+```
+
+### 1. The video prompt is filled in. Settings: Seedance 2.5, 10 s, 720p, 9:16, sound off. The video prompt
+
+```text
+Recreate the reference video [Video 1] shot for shot: the same grainy, low-light camcorder footage of a packed crowd outside at night, the same handheld camera held a hand's width from the face, the same camera angles, swings, timing and moves. The rapper's mouth moves with the words exactly like in the video. The ONLY change: the two men in the opening shot are now the people in [Image 1] and [Image 2], and the young man in the white T-shirt and the black durag who leans into the lens and raps is now the person in [Image 1], with the person in [Image 2] at the shoulder.
+
+[Image 1] = the rapper, in EVERY frame: copy the exact face from [Image 1] - face shape, eye color and eye shape, eyebrows, nose, mouth, skin tone, age, hair color, hair length and hairstyle, and any beard, moustache, glasses or freckles exactly as in the photo. NO black durag, NO earring and NO white T-shirt unless [Image 1] shows them. They copy the rapping mouth, the raised eyebrows, the head moves and the pointing finger of the rapper in the video.
+[Image 2] = the friend, in EVERY frame: copy the exact face from [Image 2] - face shape, eye color and eye shape, eyebrows, nose, mouth, skin tone, age, hair color, hair length and hairstyle, and any beard, moustache, glasses or freckles exactly as in the photo.
+Preserve each person's facial features, hairstyle, body proportions, and outfit throughout the video: each one wears the clothes and the hair or headwear from their own photo. Never blend their faces. Both change: no one from the video stays as the two men or the rapper. The same two real people in every frame, so their friends instantly recognize them. Never morph, never drift back to the original faces. If an image shows an animal, that person is that animal, with its own face, fur and markings.
+
+THE SHOTS, at the same times as [Video 1]:
+0.0-0.6 s: the opening shot of two people side by side in the crowd under a street light: the one on the LEFT is the person in [Image 1], the one on the RIGHT is the person in [Image 2]. Both look into the camera.
+0.6-10.0 s: the camera swings to the rapper and stays right at the face: a huge, slightly distorted close-up of the person in [Image 1] that fills the frame. They spit the verse straight into the lens, lean in, raise the eyebrows, point one finger at the lens, turn the head away and back. The person in [Image 2] stands just behind the rapper's shoulder, half in the dark but with the face clear, nodding to the words and grinning at the camera. The rapper's face is large and sharp: exactly the face from [Image 1].
+
+The other people in the crowd keep their own faces and never take a face from the photos.
+
+Anatomy rules: one head per person, on that person's own shoulders. A face never appears on hands or clothes. Two hands with five fingers each. No text, no captions, no logos, no watermark.
+```
+
+---
+
+## White Chicks Car Scene AI: Sing A Thousand Miles With a Friend
+
+- Page: https://www.makeviral.ai/templates/white-chicks-ai-trend
+- Markdown: https://www.makeviral.ai/templates/white-chicks-ai-trend.md
+- Updated: 2026-10-21 · Published: 2026-10-21
+- Local: [`makeviral/white-chicks-ai-trend/PROMPTS.md`](makeviral/white-chicks-ai-trend/PROMPTS.md)
+
+### 1. The video prompt is filled in. Settings: Seedance 2.5, 12 s, 720p, 9:16, sound on. The video prompt
+
+```text
+A night drive, four shots cut on the beat: a cream convertible with the top down on a city street at night, warm street-light bokeh behind, a 35mm film look with halation, bloom and grain. Photorealistic live action, vertical 9:16.
+
+WHO IS WHO: the DRIVER (behind the wheel, the one who sings) is the person in [Image 1], in every frame: copy the exact face from [Image 1] (the face shape, eye color and eye shape, eyebrows, nose, mouth, skin tone, age, hair color, hair length and hairstyle, and any beard, moustache, glasses or freckles), with the hair and clothes from [Image 1]. The PASSENGER (the other front seat, left of the frame in the wide shot, holding a small fluffy orange Pomeranian, never sings) is the person in [Image 2], in every frame: copy the exact face from [Image 2] (the face shape, eye color and eye shape, eyebrows, nose, mouth, skin tone, age, hair color, hair length and hairstyle, and any beard, moustache, glasses or freckles), with the hair and clothes from [Image 2]. The seats come ONLY from the photo order, never from gender. Never swap them. A hat only if that person's photo shows one. If an image shows an animal, that one is that animal sitting upright, with its own face and fur, not a person.
+
+THE PASSENGER'S MOOD: flat, monotone, deadpan annoyance: half-lidded eyes, a level unimpressed stare, lips closed. Never wide-eyed shock, never an open mouth.
+
+[0-3.5 s] SHOT 1, WIDE from the hood: the DRIVER sings from the first frame, head bobbing to the beat, turning to the passenger with a huge delighted grin; the PASSENGER sits rigid, clutching the Pomeranian: a flat stare at the driver, then faces forward, frozen, then a dry side-eye.
+[3.5-5.5 s] SHOT 2, CLOSE-UP of the PASSENGER only, the Pomeranian against the chest: head turned away, a slow, tired blink, then the eyes slide onto the driver: a long, deadpan side-stare.
+[5.5-10.5 s] SHOT 3, one long CLOSE-UP of the DRIVER only, in profile: turns to the passenger with a huge grin, singing at them, eyebrows up; lifts the chin and belts the high note, eyes half closed; then taps one finger to the temple with a smug grin.
+[10.5-12 s] SHOT 4, CLOSE-UP of the PASSENGER, the live Pomeranian low in front, its fox-like face visible: head tilted back, looking up at the driver, deeply annoyed, perfectly still.
+
+Audio: an upbeat, original piano-pop song on the car radio (a fast rolling piano riff, drums), never a known song. The driver sings along at full voice: "All the way, all the way to you!" on the big note in shot 3, a happy "ooh-ooh" the rest of the time. The passenger never sings or speaks.
+
+Only these two people and their Pomeranian. Each keeps their exact face, hair, skin tone and clothes: never blend them, never swap clothes or seats. Clear facial features, stable faces, no distortion. Avoid: an eye-roll, a cartoonish passenger, the passenger singing, a split screen, a plush toy instead of the live dog, extra people, text, subtitles, logos, a badge on the car, watermarks, extra limbs, morphing.
+```
+
+### 1. The video prompt is filled in. Settings: Seedance 2.5, 10 s, 720p, 9:16, sound on. The video prompt — Pet
+
+```text
+A night drive, four shots cut on the beat: a cream convertible with the top down on a city street at night, warm street-light bokeh behind, a 35mm film look with halation, bloom and grain. Photorealistic live action, vertical 9:16.
+
+THE DRIVER is the pet in [Image 1], in every frame: the same species and breed, face, eyes, ears, muzzle, fur colors, fur length and markings as in [Image 1], with the natural body volume and proportions of that animal: never flattened, squashed, stretched or merged with anything. Its owner recognizes it at once. It sits upright behind the steering wheel like a person, front paws on the wheel, and sings with full emotion: it keeps its own animal face, teeth and tongue, only its mouth moves like a singer. No clothes on the pet.
+
+THE PASSENGER, in the other front seat (on the left of the frame in the wide shot), is a small fluffy orange Pomeranian sitting upright like a person, with flat, monotone, deadpan annoyance the whole way through: half-lidded eyes, a level unimpressed stare. It never sings. If [Image 1] shows a small fluffy orange dog, the passenger is a fluffy white cat instead. Never blend the two animals.
+
+THE SHOTS:
+[0-3 s] SHOT 1, the WIDE shot from the hood: the pet driver sings from the very first frame, head bobbing to the beat, turning toward the passenger with a huge happy face; the passenger sits rigid, stares at it, then turns to face forward, frozen.
+[3-5 s] SHOT 2, CLOSE-UP of the PASSENGER only: a slow, tired blink, then the eyes slide sideways onto the driver: a long, deadpan side-stare.
+[5-8.5 s] SHOT 3, one long CLOSE-UP of the pet DRIVER ONLY: it turns to the passenger, singing straight at it; lifts its chin and belts the high note with the eyes half closed and the mouth wide open; then taps one front paw to the side of its head with a smug look.
+[8.5-10 s] SHOT 4, CLOSE-UP of the PASSENGER again: head tilted slightly back, looking up at the driver with a flat, deeply annoyed stare, perfectly still.
+
+Audio: an upbeat, original piano-pop song on the car radio (a fast rolling piano riff, drums), never a known song. The pet driver sings along with a funny, happy "ooh-ooh-ooh" on the high notes. The passenger never makes a sound. Soft wind and a car engine under the music.
+
+Exactly two animals and no people. One head, four legs and one tail each, no human hands, no human body parts on the animals. Avoid: a cartoon look, a plush toy, a split screen, extra animals, text, captions, subtitles, logos, a badge on the car, watermarks, morphing.
+```
+
+---
+
+## Stop Sign? What Stop Sign? AI: Put Yourself or Your Pet in the Bodycam Meme
+
+- Page: https://www.makeviral.ai/templates/what-stop-sign-ai-trend
+- Markdown: https://www.makeviral.ai/templates/what-stop-sign-ai-trend.md
+- Updated: 2026-10-21 · Published: 2026-10-21
+- Local: [`makeviral/what-stop-sign-ai-trend/PROMPTS.md`](makeviral/what-stop-sign-ai-trend/PROMPTS.md)
+
+### 1. The video prompt is filled in. Settings: Seedance 2.5, 10 s, 720p, 9:16, sound on. The video prompt — Human
+
+```text
+Create a fictional vertical 9:16 nighttime traffic-stop comedy from a human-height bodycam-style view beside a stopped plain silver four-door sedan with no badge, emblem or lettering. An adult officer's shoulder and black-gloved hand occupy one edge; the officer's face never shows. The driver sits at the wheel behind the open side window. Handheld, slightly shaky body camera footage with a wide, slightly curved lens, red and blue lights from a patrol car parked far behind washing over the car, a dark, empty road shoulder and a few street lights.
+THE DRIVER IS the person in [Image 1], with the same face, hair, age, build and clothes, in every shot: copy the exact face from [Image 1] (the face shape, eye color and eye shape, eyebrows, nose, mouth, skin tone, age, hair color, hair length and hairstyle, and any beard, moustache, glasses or freckles), so their friends recognize them at once. The face shows large and sharp through the open window. The same real person from the first frame to the last; never morph. If [Image 1] shows an animal, the driver is that animal sitting upright at the wheel, with its own face, fur and markings.
+
+[00:00-00:02] Begin with the officer walking up to the open driver's window; the driver turns to the camera.
+[00:02-00:04] The driver, puzzled and polite, says: "Can you please tell me why you stopping me?" The officer, off screen, answers calmly: "I'm about to tell you."
+[00:04-00:07] The driver squints and leans toward the camera as if mishearing, and asks: "Huh? Stop sign?" The officer says: "No."
+[00:07-00:10] The driver throws both open palms up with a completely confused, innocent face, eyebrows high: "What stop sign, man?" Then holds that baffled look into the lens.
+
+Keep the driver seated, the officer clear of the vehicle and the background stable. A light comedy: the driver is confused, never angry, never scared. Sound: night road ambience, a soft crackle of a police radio, the officer's calm voice off screen and the driver's puzzled voice, each line once, clear and in this order. No music. Only the officer and the driver speak.
+
+真人实拍、五官清晰、面部稳定、不扭曲、不变形、人体结构正常、比例自然、同一角色、服装一致、发型不变.
+
+No arrest, handcuffs, chase, weapons, alcohol, bottles or cans, collisions or injury. No police insignia, badge text, patches, department names or any writing on the uniform or the patrol car. No on-screen text of any kind: no date, time, camera name, serial number, timestamps, captions, subtitles or watermark. No badge or readable number plate on any car, no road signs in view. No other people. This is staged AI parody.
+```
+
+### 1. The video prompt is filled in. Settings: Seedance 2.5, 10 s, 720p, 9:16, sound on. The video prompt — Pet
+
+```text
+Create a fictional vertical 9:16 nighttime traffic-stop comedy from a human-height bodycam-style view beside a stopped plain silver four-door sedan with no badge, emblem or lettering. An adult officer's shoulder and black-gloved hand occupy one edge; the officer's face never shows. The driver sits at the wheel behind the open side window. Handheld, slightly shaky body camera footage with a wide, slightly curved lens, red and blue lights from a patrol car parked far behind washing over the car, a dark, empty road shoulder and a few street lights.
+THE DRIVER IS the pet in [Image 1], in every shot: the same species and breed, face, eyes, ears, muzzle, fur colors, fur length and markings as in [Image 1], with the natural body volume and proportions of that animal: never flattened, squashed, stretched or merged with anything. Its owner recognizes it at once. It sits upright at the wheel like a person, front paws on the wheel, and wears a plain grey hoodie with the hood down, so its ears show. It speaks the driver's lines in a funny, puzzled voice: it keeps its own animal face, teeth and tongue, only its mouth moves with the words. The face shows large and sharp through the open window.
+
+[00:00-00:02] Begin with the officer walking up to the open driver's window; the driver turns to the camera.
+[00:02-00:04] The driver, puzzled and polite, says: "Can you please tell me why you stopping me?" The officer, off screen, answers calmly: "I'm about to tell you."
+[00:04-00:07] The driver squints and leans toward the camera as if mishearing, and asks: "Huh? Stop sign?" The officer says: "No."
+[00:07-00:10] The pet lifts both front paws off the wheel with a completely confused, innocent face, eyebrows high: "What stop sign, man?" Then holds that baffled look into the lens.
+
+Keep the driver seated, the officer clear of the vehicle and the background stable. A light comedy: the driver is confused, never angry, never scared. Sound: night road ambience, a soft crackle of a police radio, the officer's calm voice off screen and the driver's puzzled voice, each line once, clear and in this order. No music. Only the officer and the driver speak.
+
+One animal at the wheel, one head, four legs and one tail, no human hands or human body parts on the pet. Avoid: a cartoon look, a plush toy, extra animals, morphing. No arrest, handcuffs, chase, weapons, alcohol, bottles or cans, collisions or injury. No police insignia, badge text, patches, department names or any writing on the uniform or the patrol car. No on-screen text of any kind: no date, time, camera name, serial number, timestamps, captions, subtitles or watermark. No badge or readable number plate on any car, no road signs in view. No other people. This is staged AI parody.
+```
+
+---
 
 ## Toy Car to Real Car AI Trend: Your Car Drives Off the Train Window
 
@@ -29,6 +463,352 @@ The moves, matching the reference second by second:
 9.1-10 s: the real car drives on a highway at night under tall street lights, filmed from behind and to the side.
 
 Exactly one car; no people, no hands, no other vehicles close by. No badges, emblems, brand names or lettering on the car, no readable number plate, no text, no captions, no logos, no watermark.
+```
+
+---
+
+## Times Square Billboard AI Video: Your Face on the Giant Screen
+
+- Page: https://www.makeviral.ai/templates/times-square-billboard-ai-trend
+- Markdown: https://www.makeviral.ai/templates/times-square-billboard-ai-trend.md
+- Updated: 2026-10-21 · Published: 2026-10-21
+- Local: [`makeviral/times-square-billboard-ai-trend/PROMPTS.md`](makeviral/times-square-billboard-ai-trend/PROMPTS.md)
+
+### 1. The video prompt is filled in. Settings: Seedance 2.5, 10 s, 720p, 9:16, sound on. The video prompt
+
+```text
+An ultra-realistic 9:16 fashion show advertising campaign displayed on a massive digital billboard on the front of a tall skyscraper in Times Square, New York, at night after rain, filmed in one continuous shot with no cuts, like a real handheld phone video from the street.
+
+THE BILLBOARD features a breathtaking high-fashion portrait of the person in [Image 1], from the waist up, presented as the star of the fashion show: copy the exact face from [Image 1] (the face shape, eye color and eye shape, eyebrows, nose, mouth, skin tone, age, hair color, hair length and hairstyle, and any beard, moustache, glasses or freckles), so their friends recognize them at once. Luminous natural skin with visible realistic texture, glamorous fashion show makeup, and a confident, elegant expression directed toward the viewer. They wear an elegant sparkling evening outfit, with huge soft pink feathered wings rising behind the shoulders. Behind the portrait, a rich hot-pink gradient with dramatic luxury-editorial lighting, making the campaign appear enormous and larger than life. The LED display is seamlessly integrated into the building façade, with realistic screen perspective, subtle pixel structure, reflections, and brightness falloff. The person in [Image 1] appears ONLY on the screen, never in the street. If [Image 1] shows an animal, the portrait shows that animal.
+
+0-3 s: close on the screen from the street, looking up: the portrait fills most of the frame, the face large and sharp: exactly the face from [Image 1]. The portrait moves like a video advert: a subtle breeze lifts several strands of hair, a slow blink, a small confident smile. Fine rain falls through the light.
+3-8 s: the camera slowly pulls back and tilts down, showing the immense scale of the billboard against Times Square in New York at night after rain: towering glass skyscrapers with other glowing screens that show only soft abstract color, illuminated storefronts, the wet street shining with pink reflections, yellow taxis rolling past, steam rising from a street vent, pedestrians with umbrellas, some stopping to film the screen with their phones.
+8-10 s: a wide view of the square: the gigantic portrait high on the tower above the dense crowd.
+The face on the screen stays the same from the first frame to the last; never morph.
+
+Audio: a slow, glamorous original electronic beat, like a fashion show intro, under the city sounds after rain: wet tyres, light rain, a distant horn, the murmur of the crowd. No singing, no words.
+
+Avoid distorted facial features, duplicate subjects, additional faces on the billboard, malformed anatomy, cartoon or anime aesthetics, obvious CGI rendering, plastic skin, excessive saturation, random illegible text, watermarks, pixelated signage, or unrealistic billboard integration. No words, letters, numbers, brand names or logos on the poster or on any other screen, sign or taxi, unless a later line names words for the poster. No real person's face on any other screen. No subtitles.
+```
+
+### 1. Open [AI Photo with this template](https://www.makeviral.ai/photo?template=times-square-billboard-ai-trend&variant=pet) and add your photo (your pet, face clear). The photo prompt is filled in — Pet
+
+```text
+Create an ultra-realistic 9:16 fashion show advertising campaign displayed on a massive digital billboard on the front of a tall skyscraper in Times Square, New York, at night after rain. Use the uploaded image as the sole visual reference for the pet, preserving the pet's recognizable face, fur colors, markings, ear shape, proportions, and overall identity while translating the look into a world-class fashion show campaign. The billboard features a breathtaking high-fashion portrait of the pet, from the waist up, presented as the star of the fashion show. The pet keeps its own face, fur colors, markings and natural body shape, with glossy, well-groomed fur, a sparkling jeweled collar, and huge soft pink feathered wings rising behind it, looking toward the viewer with a proud, confident face. Exactly one animal on the screen and no people on it. Behind the portrait, use a rich hot-pink gradient with dramatic luxury-editorial lighting, making the campaign appear enormous and larger than life. Photograph the scene from the wet street, close to the tower and looking up, so the screen fills the upper two thirds of the frame and the face on it is large and sharp; at the bottom of the frame, the edge of the dark building façade, other glowing screens with soft abstract color, wet reflections, yellow taxis and pedestrians with umbrellas. The LED display must be seamlessly integrated into the building façade, with realistic screen perspective, subtle pixel structure, reflections, and brightness falloff. The contrast between the gigantic portrait and the dense New York streetscape should create a powerful sense of scale and prestige. The campaign should feel like a world-class fashion show launch, combining premium commercial photography, high-fashion editorial styling, cinematic night light after rain, architectural realism, pink and neon color grading, and polished global fashion art direction. Photorealistic detail, physically accurate LED signage, high dynamic range, cinematic depth, premium advertising photography. Avoid distorted facial features, duplicate subjects, additional faces on the billboard, malformed anatomy, cartoon or anime aesthetics, obvious CGI rendering, plastic skin, excessive saturation, random illegible text, watermarks, pixelated signage, or unrealistic billboard integration. No words, letters, numbers, brand names or logos on the poster or on any other screen, sign or taxi, unless a later line names words for the poster. No real person's face on any other screen. No subtitles.
+```
+
+### 3. Press the film button on the still to open AI Video with the still as the first frame. Settings: Kling 3.0, 10 s, 1080p, 9:16, sound on. The video prompt
+
+```text
+One continuous shot with no cuts, like a real handheld phone video filmed from the street in Times Square, New York, at night after rain. Keep the giant screen, the pet on it (the same face, fur, markings, collar and pink feathered wings), the tower and the street exactly as in the image.
+0-3 s: the camera holds on the screen, looking up. The pet on the screen moves like a video advert: its ears twitch, a slow blink, it tilts its head and looks proudly into the lens. Fine rain falls through the light.
+3-8 s: the camera slowly pulls back and tilts down, showing the immense scale of the billboard against Times Square in New York at night after rain: towering glass skyscrapers with other glowing screens that show only soft abstract color, illuminated storefronts, the wet street shining with pink reflections, yellow taxis rolling past, steam rising from a street vent, pedestrians with umbrellas, some stopping to film the screen with their phones.
+8-10 s: a wide view of the square: the gigantic portrait high on the tower above the dense crowd.
+The pet on the screen stays the same from the first frame to the last; never morph. Audio: a slow, glamorous original electronic beat, like a fashion show intro, under the city sounds after rain: wet tyres, light rain, a distant horn, the murmur of the crowd. No singing, no words. Avoid distorted facial features, duplicate subjects, additional faces on the billboard, malformed anatomy, cartoon or anime aesthetics, obvious CGI rendering, plastic skin, excessive saturation, random illegible text, watermarks, pixelated signage, or unrealistic billboard integration. No words, letters, numbers, brand names or logos on the poster or on any other screen, sign or taxi, unless a later line names words for the poster. No real person's face on any other screen. No subtitles.
+```
+
+---
+
+## Thank You Baby Meme: Turn One Baby Photo Into the Thank You Babeh Dance
+
+- Page: https://www.makeviral.ai/templates/thank-you-baby-ai-trend
+- Markdown: https://www.makeviral.ai/templates/thank-you-baby-ai-trend.md
+- Updated: 2026-10-21 · Published: 2026-10-21
+- Local: [`makeviral/thank-you-baby-ai-trend/PROMPTS.md`](makeviral/thank-you-baby-ai-trend/PROMPTS.md)
+
+### 1. The video prompt is filled in. Settings: kling-3-motion, 15 s, 720p, 9:16, sound off. The video prompt
+
+```text
+One continuous single take, steady camera, vertical video. Recreate the reference video exactly, but the dancer is the baby from the reference image instead of the man: the same baby with the same face, hair, skin tone and clothes, standing upright in the place from the reference image.
+The baby reproduces the man's full dance frame by frame with the same timing, on the beat: the loose, bouncy two-step with bent knees and a little kick, the steps toward the camera and back, the shrug with both palms up, the arms swinging wide, a hand to the forehead, both hands behind the head, the point to the side, one arm thrown up high, and at the very end both hands making a heart in front of the chest. Above all his big, happy facial acting: a wide grin, raised brows and cheeky looks into the camera. Very expressive, joyful baby face.
+The baby keeps real baby anatomy: a small chubby body, a big round head, short arms and legs and small baby hands, never an adult body, no jewelry, even when it throws an arm up or steps toward the lens. No cuts, no text, no captions or labels on screen. No olive-green T-shirt, no camouflage trousers, no belt, no tan boots, no glasses, no wristwatch, no tattoos and no uniform of any kind unless the reference image shows them. Exactly one baby, no extra people.
+```
+
+### 1. The video prompt is filled in. Settings: Seedance 2.5, 10 s, 720p, 9:16, sound off. The video prompt — Pet
+
+```text
+Recreate the reference video [Video 1] shot for shot: the same living room with the grey sofa and the cream fluffy blanket, the same evening lamp light, the same handheld phone camera, framing, timing and head moves. The ONLY change: the small dog in the dark brown bob wig is now the pet in [Image 1], and the pet wears that same dark brown bob wig on its head in every frame.
+
+The pet = the pet in [Image 1], in EVERY frame: the same species and breed, head shape, face, eyes, ears, muzzle, fur colors, fur length and markings as in [Image 1], with the natural body volume and proportions of that animal: never flattened, squashed, stretched or merged with anything, so its owner instantly recognizes it. Whether [Image 1] shows a dog, a cat or another animal, it stays that animal. Never drift back to the dog in the wig of the original video: not the coat, the ears or the face of the dog in the video unless [Image 1] shows them.
+
+The other small dog, the one with no wig on the sofa behind it, stays exactly as in the video and never takes the look of [Image 1].
+
+The pet in the wig grooves to the chant like a little rapper. Matching the reference second by second:
+1. 0-2 s: on the edge of the sofa it shakes its head hard from side to side, so the wig flips and swings.
+2. 2-5 s: it turns on the blanket, tosses the wig with another head shake and sniffs the sofa.
+3. 5-8 s: it steps to the front edge of the sofa, faces the camera and bobs its head under the wig.
+4. 8-10 s: it stares into the lens with the wig on, sticks its tongue out, then shakes its head again.
+
+Anatomy rules: one head only, one muzzle, natural teeth and tongue, four legs with real paws. The wig sits on top of the head like a real wig and never merges with the fur. No text, no logos, no watermark, no people.
+```
+
+---
+
+## Nightwing Trend AI: Lift the Blue Mask, Then Dance in Costume
+
+- Page: https://www.makeviral.ai/templates/nightwing-costume-ai-trend
+- Markdown: https://www.makeviral.ai/templates/nightwing-costume-ai-trend.md
+- Updated: 2026-10-21 · Published: 2026-10-21
+- Local: [`makeviral/nightwing-costume-ai-trend/PROMPTS.md`](makeviral/nightwing-costume-ai-trend/PROMPTS.md)
+
+### 1. The video prompt is filled in. Settings: Seedance 2.5, 10 s, 720p, 9:16, sound on. The video prompt
+
+```text
+A Halloween costume transformation clip in the style of a viral dance trend, like a real vertical phone video filmed at night. Photorealistic.
+
+The performer is the person in [Image 1], in every frame: copy the exact face from [Image 1] (the face shape, eye color and eye shape, eyebrows, nose, mouth, skin tone, age, hair color, hair length and hairstyle, and any beard, moustache, glasses or freckles), so their friends recognize them at once. The face stays the same from the first frame to the last, also behind the mask, after the cut and in the costume: never a different person, never morph. If [Image 1] shows an animal, the performer is that animal standing upright on its hind legs, with its own face, fur and markings, not a person.
+
+0-2.5 s, BEFORE: a medium shot from the knees up. The person stands in front of a plain wall washed in soft violet-blue light, with a dark grey stone panel at one side, in the clothes from [Image 1], and looks down at a small blue eye mask in one hand: a plain domino mask that covers only the area around the eyes, with no symbol. They lift it to their eyes with one hand and hold it there for a beat with a cool, serious face; the eyes show through the eye holes.
+2.5-3 s: they flick the mask hand out to the side and the camera whips after it in a fast whip pan with motion blur. This is the only transition.
+3-10 s, AFTER: the same person, with the same face and hair, now wears a matte black long-sleeved bodysuit, like a stunt suit, with one plain, straight royal-blue stripe across the chest, black gloves and black boots, and the small blue eye mask on. The suit is plain: no symbol, no bird shape, no V shape across the shoulders, no emblem, no logo, in a large, dim living room at night lit by purple and magenta LED light, with a dark wooden floor, a low pale sofa along the back wall, open doorways and a sparkly star-shaped ceiling lamp. They dance with two black stick batons with glowing blue light strips, one in each hand. 3-5.5 s, a wide shot: they raise both sticks and cross them behind the head, turn their back to the camera and spin the sticks. 5.5-7.5 s: they turn back and swing the sticks in quick circles at their sides with sharp, confident steps. 7.5-10 s, a close shot from the chest up: they turn the head slowly to look past the camera, then raise both sticks over the shoulders and end on a strong pose looking straight into the lens. The face is large, sharp and well lit in the close shot.
+
+Audio: an upbeat funk dance remix with a heavy bass and a bright, accordion-like synth hook, no words, no singing. Exactly one person, no other people. No text, no subtitles, no logos, no symbols on the clothes, no watermark.
+```
+
+### 1. The video prompt is filled in. Settings: Seedance 2.5, 10 s, 720p, 9:16, sound on. The video prompt
+
+```text
+A Halloween costume transformation clip in the style of a viral dance trend, like a real vertical phone video filmed at night. Photorealistic.
+
+The performer is the person in [Image 1], in every frame: copy the exact face from [Image 1] (the face shape, eye color and eye shape, eyebrows, nose, mouth, skin tone, age, hair color, hair length and hairstyle, and any beard, moustache, glasses or freckles), so their friends recognize them at once. The face stays the same from the first frame to the last, also behind the mask, after the cut and in the costume: never a different person, never morph. If [Image 1] shows an animal, the performer is that animal standing upright on its hind legs, with its own face, fur and markings, not a person.
+
+0-2.5 s, BEFORE: a medium shot from the knees up. The person stands in front of a plain wall washed in soft violet-blue light, with a dark grey stone panel at one side, in the clothes from [Image 1], and looks down at a small blue eye mask in one hand: a plain domino mask that covers only the area around the eyes, with no symbol. They lift it to their eyes with one hand and hold it there for a beat with a cool, serious face; the eyes show through the eye holes.
+2.5-3 s: they flick the mask hand out to the side and the camera whips after it in a fast whip pan with motion blur. This is the only transition.
+3-10 s, AFTER: the same person, with the same face and hair, now wears a lilac velvet fairy dress with short puffed sleeves trimmed in white lace, a high stand-up collar, a pearl necklace and a long, full skirt down to the ankles, sheer iridescent fairy wings on the back and a small gold tiara. The mask is off now, so the whole face shows. A man in [Image 1] stays a man in the dress, with his own face, hair and any beard: that is the joke of the trend, in a large, dim living room at night lit by purple and magenta LED light, with a dark wooden floor, a low pale sofa along the back wall, open doorways and a sparkly star-shaped ceiling lamp. They dance with two long golden wand sticks, one in each hand. 3-5.5 s, a wide shot: they raise both sticks and cross them behind the head, turn their back to the camera and spin the sticks. 5.5-7.5 s: they turn back and swing the sticks in quick circles at their sides with sharp, confident steps. 7.5-10 s, a close shot from the chest up: they turn the head slowly to look past the camera, then raise both sticks over the shoulders and end on a strong pose looking straight into the lens. The face is large, sharp and well lit in the close shot.
+
+Audio: an upbeat funk dance remix with a heavy bass and a bright, accordion-like synth hook, no words, no singing. Exactly one person, no other people. No text, no subtitles, no logos, no symbols on the clothes, no watermark.
+```
+
+### 1. The video prompt is filled in. Settings: Seedance 2.5, 10 s, 720p, 9:16, sound on. The video prompt
+
+```text
+A Halloween costume transformation clip in the style of a viral dance trend, like a real vertical phone video filmed at night. Photorealistic.
+
+The performer is the person in [Image 1], in every frame: copy the exact face from [Image 1] (the face shape, eye color and eye shape, eyebrows, nose, mouth, skin tone, age, hair color, hair length and hairstyle, and any beard, moustache, glasses or freckles), so their friends recognize them at once. The face stays the same from the first frame to the last, also behind the mask, after the cut and in the costume: never a different person, never morph. If [Image 1] shows an animal, the performer is that animal standing upright on its hind legs, with its own face, fur and markings, not a person.
+
+0-2.5 s, BEFORE: a medium shot from the knees up. The person stands in front of a plain wall washed in soft violet-blue light, with a dark grey stone panel at one side, in the clothes from [Image 1], and looks down at a small blue eye mask in one hand: a plain domino mask that covers only the area around the eyes, with no symbol. They lift it to their eyes with one hand and hold it there for a beat with a cool, serious face; the eyes show through the eye holes.
+2.5-3 s: they flick the mask hand out to the side and the camera whips after it in a fast whip pan with motion blur. This is the only transition.
+3-10 s, AFTER: the same person, with the same face and hair, now wears a classic black maid dress with short puffed sleeves, a white collar with a small black bow, a long skirt that falls below the knee, a long white apron tied with a big bow at the back, white wrist cuffs and a frilly white headband: a modest, playful Halloween costume. The mask is off now, so the whole face shows. A man in [Image 1] stays a man in the dress, with his own face, hair and any beard: that is the joke of the trend, in a large, dim living room at night lit by purple and magenta LED light, with a dark wooden floor, a low pale sofa along the back wall, open doorways and a sparkly star-shaped ceiling lamp. They dance with two black stick batons with glowing blue light strips, one in each hand. 3-5.5 s, a wide shot: they raise both sticks and cross them behind the head, turn their back to the camera and spin the sticks. 5.5-7.5 s: they turn back and swing the sticks in quick circles at their sides with sharp, confident steps. 7.5-10 s, a close shot from the chest up: they turn the head slowly to look past the camera, then raise both sticks over the shoulders and end on a strong pose looking straight into the lens. The face is large, sharp and well lit in the close shot.
+
+Audio: an upbeat funk dance remix with a heavy bass and a bright, accordion-like synth hook, no words, no singing. Exactly one person, no other people. No text, no subtitles, no logos, no symbols on the clothes, no watermark.
+```
+
+### 1. Open [AI Photo with this template](https://www.makeviral.ai/photo?template=nightwing-costume-ai-trend&variant=pet) and add your photo (your pet, whole body). The photo prompt is filled in — Pet
+
+```text
+Use the uploaded image as the base. 9:16 vertical photo, like a real phone photo at night, taken from low down at the height of the pet. The pet from the uploaded image stands upright on its two hind legs in front of a plain wall washed in soft violet-blue light, with a dark grey stone panel at one side, facing the camera, its whole body in view, from the ears to the hind paws, with its tail. It holds a small plain blue eye mask (a domino mask with no symbol) in one front paw, low in front of its chest, and looks into the lens with a cool, serious face. Realistic photo with natural fur and natural colors. Exactly one animal and no people. No clothes on the pet. No text, no logos, no watermark.
+```
+
+### 3. Press the film button on the still to open AI Video with the still as the first frame. Settings: Kling 3.0, 10 s, 1080p, 9:16, sound on. The video prompt
+
+```text
+A Halloween costume clip with one fast whip pan, like a real vertical phone video filmed at night. Keep the animal's face, eyes, ears, fur colors, markings, tail and size exactly as in the image, in every frame.
+0-2.5 s: the pet stands upright on its hind legs in front of the violet wall, lifts the small blue eye mask to its eyes with one front paw and holds it there with a cool face.
+2.5-3 s: it flicks the paw out to the side and the camera whips after it in a fast blur. This is the only transition.
+3-10 s: the same pet, still upright on its hind legs, in a large, dim living room at night lit by purple and magenta LED light, with a dark wooden floor, a low pale sofa along the back wall, open doorways and a sparkly star-shaped ceiling lamp, now wears a little matte black bodysuit with one plain, straight royal-blue stripe across the chest and the blue eye mask, and dances with two short black sticks with glowing blue tips: it crosses them over its head, wiggles its hips, spins them at its sides and ends on a proud pose looking into the lens. Its head, ears, paws and tail keep their own fur colors and markings, with the natural body volume of that animal.
+Audio: an upbeat funk dance remix with a heavy bass and a bright, accordion-like synth hook, no words, no singing. Exactly one animal, no people. The suit is plain: no symbol, no bird shape, no V shape, no emblem. No extra legs, no morphing. No text, no subtitles, no logos, no watermark.
+```
+
+---
+
+## Malfoid AI Trend: Turn Yourself Into Female Draco Malfoy
+
+- Page: https://www.makeviral.ai/templates/malfoid-ai-trend
+- Markdown: https://www.makeviral.ai/templates/malfoid-ai-trend.md
+- Updated: 2026-10-21 · Published: 2026-10-21
+- Local: [`makeviral/malfoid-ai-trend/PROMPTS.md`](makeviral/malfoid-ai-trend/PROMPTS.md)
+
+### 1. The video prompt is filled in. Settings: Seedance 2.5, 10 s, 720p, 9:16, sound on. The video prompt
+
+```text
+A viral cosplay transition video: the person from [Image 1] turns into the fan-made female version of a famous blond, aristocratic rival from a wizard fantasy saga, filmed like a real front-camera phone video. Photorealistic, cinematic, vertical 9:16.
+
+The person is the one in [Image 1], in every frame: copy the exact face from [Image 1] (the face shape, eye color and eye shape, eyebrows, nose, mouth, skin tone, age, and any beard, moustache, glasses, piercings, freckles or face marks). The same face from the first frame to the last, so their friends recognize them at once, also after the change and while they smirk. They are an adult and look exactly their own age from [Image 1]: never younger. Never morph, never beautify, never change the skin tone.
+
+BEFORE the cut: exactly the hair, the clothes and the place from [Image 1]. AFTER the cut: platinum slicked-back hair (platinum-blonde, combed smoothly back from the forehead and falling long and straight behind the shoulders; short hair becomes a sleek platinum slick-back), a cool porcelain makeup finish that keeps their own skin tone, a long black hooded robe with an emerald-green satin lining worn over a crisp white collared shirt and a charcoal-grey V-neck sweater with green and silver trim, a green and silver striped tie, and small dark hoop earrings.
+
+The camera is a phone held at arm's length, framed from the chest up, the face large and sharp.
+0-2.5 s: in the place behind the person in [Image 1], in their own clothes and hair, they look into the camera with a bored face and sweep one open hand slowly across the lens.
+2.5 s: as the hand passes the lens, a quick cut: the change is done. The person now has the look above and stands in a candle-lit castle hall of old grey stone, with tall arched windows, long dark wooden tables, iron candelabras and warm candlelight against cool blue-green shadows.
+2.5-5 s: they lower the hand, lift the chin and look down into the camera with a cool, cold stare.
+5-7.5 s: they flick the platinum hair back over one shoulder and slowly raise one eyebrow.
+7.5-10 s: they cross their arms, a slim dark wooden wand in one hand, and give a slow, smug smirk straight into the lens, the candlelight flickering behind them.
+
+Audio: a soft magical whoosh at the cut, then a quiet, dark original string melody and the crackle of the candles. No lyrics, no talking.
+
+Anatomy rules: one head, two hands, five fingers on each hand. The robe, the sweater and the tie are plain: no crest, no badge, no emblem, no patch, no snake, no letter or symbol on any clothes or anywhere in the room. A modest outfit, the robe closed over the sweater. Exactly one person. No text, no captions, no logos, no watermark.
+```
+
+### Prompt 2
+
+```text
+Turn this person into the fan-made female version of a famous blond, aristocratic rival from a wizard fantasy saga: platinum slicked-back hair, a porcelain makeup finish, a black robe, a green and silver tie, a smug smirk, a candle-lit castle hall. Using the uploaded photo, generate a 9:16 vertical portrait of the same person, framed from the waist up, with platinum slicked-back hair (platinum-blonde, combed smoothly back from the forehead and falling long and straight behind the shoulders; short hair becomes a sleek platinum slick-back), a cool porcelain makeup finish that keeps their own skin tone, a long black hooded robe with an emerald-green satin lining worn over a crisp white collared shirt and a charcoal-grey V-neck sweater with green and silver trim, a green and silver striped tie, and small dark hoop earrings. They stand with their arms crossed, a slim dark wooden wand in one hand, the chin slightly raised, looking into the camera with a cool stare and a smug, one-sided smirk. The place: a candle-lit castle hall of old grey stone, with tall arched windows, long dark wooden tables, iron candelabras and warm candlelight against cool blue-green shadows. Cinematic, photorealistic, soft warm candlelight on the face, a shallow depth of field. They are an adult and look exactly their own age. The robe, the sweater and the tie are plain: no crest, no badge, no emblem, no patch, no snake, no letter or symbol on any clothes or anywhere in the room. A modest outfit, the robe closed over the sweater. Exactly one person. No text, no captions, no logos, no watermark. The only changes are the hair, the outfit, the place and the smirk: the identity rules below apply to the face, and the hair color and hairstyle are the new platinum look described above.
+```
+
+---
+
+## Knocked Out Shadow Boxing: Get Knocked Out by Your Own Shadow
+
+- Page: https://www.makeviral.ai/templates/knocked-out-shadow-boxing-ai-trend
+- Markdown: https://www.makeviral.ai/templates/knocked-out-shadow-boxing-ai-trend.md
+- Updated: 2026-10-21 · Published: 2026-10-21
+- Local: [`makeviral/knocked-out-shadow-boxing-ai-trend/PROMPTS.md`](makeviral/knocked-out-shadow-boxing-ai-trend/PROMPTS.md)
+
+### 1. The video prompt is filled in. Settings: Seedance 2.5, 10 s, 720p, 9:16, sound on. The video prompt
+
+```text
+A knocked out shadow boxing meme video made from [Image 1]: the person in [Image 1] shadowboxes in a boxing gym and gets knocked out by nobody, as if their own shadow punched them. Vertical 9:16, one take like a real handheld phone video by a gym mate, photorealistic, natural gym light.
+
+The boxer is the person in [Image 1], in every frame: copy the exact face from [Image 1] (the face shape, eye color and eye shape, eyebrows, nose, mouth, skin tone, age, hair color, hair length and hairstyle, and any beard, moustache, glasses or freckles), and the same build. The boxer is an adult. The same face from the first frame to the last, also while they fall and while they lie on the floor, so their friends recognize them at once. Never morph, never a different person. If [Image 1] shows an animal, the boxer is that animal standing upright on its back legs, with its own face, fur and markings, punching with its front paws, not a person. They wear plain gym clothes: a plain T-shirt and athletic shorts with no logos, training shoes and white hand wraps, no gloves.
+
+The place: a big, bright boxing gym with white walls, high windows, a black rubber floor, red dumbbells and exercise bikes at the back. Three other adult boxers in plain T-shirts and shorts shadowbox in the background, several meters away. Nobody stands near the boxer and nobody touches them. Nobody else looks like the person in [Image 1].
+
+0-1.5 s: a wide shot of the gym; a coach off camera calls out: "Alright guys, straight to shadowboxing."
+1.5-5 s: a medium shot of the boxer, the whole body in frame, three-quarters to the camera, face clear: they bounce on their toes in a boxing stance and throw sharp jabs, crosses and hooks at the empty air, dead serious.
+5-6 s: mid-combo, the boxer's head snaps back as if an invisible jab hit the chin, then snaps to the side as if an invisible left hook landed. Nobody is there. Two soft comic thwack sounds come from nowhere.
+6-7.5 s: the boxer's knees go soft, they turn half around and fall stiffly backward like a plank, flat onto the soft rubber mat, arms spread out. A soft thud.
+7.5-10 s: the boxer lies flat on their back, eyes closed, out cold with a peaceful face, completely unhurt, while the three boxers behind keep shadowboxing as if nothing happened. The camera steps closer and tilts down: the boxer's face is large, sharp and clearly visible. A voice off camera says: "What the hell?" and laughs.
+
+Audio: shoes squeaking on the mat, quick breaths, punches swishing, the coach's line, the two thwacks, the thud, then "What the hell?" and a laugh. No music.
+
+Pure comedy, like a slapstick gag: nobody touches the boxer, the punches come from nowhere. No blood, no bruises, no injury, no pain, no medical scene: the boxer just lies there peacefully. Exactly one person from [Image 1]. Anatomy rules: one head, two arms and five fingers on each hand; the boxer never merges with anyone. No text, no captions, no subtitles, no logos, no signs, no watermark.
+```
+
+---
+
+## I Put My Heart in This: Take the Mic in the Viral Meme
+
+- Page: https://www.makeviral.ai/templates/i-put-my-heart-in-this-ai-trend
+- Markdown: https://www.makeviral.ai/templates/i-put-my-heart-in-this-ai-trend.md
+- Updated: 2026-10-21 · Published: 2026-10-21
+- Local: [`makeviral/i-put-my-heart-in-this-ai-trend/PROMPTS.md`](makeviral/i-put-my-heart-in-this-ai-trend/PROMPTS.md)
+
+### 1. The video prompt is filled in. Settings: Seedance 2.5, 12 s, 720p, 9:16, sound off. The video prompt
+
+```text
+Recreate the reference video [Video 1] shot for shot: the same street interview on a cloudy day on a residential street of brick terraced houses, with two parked grey cars behind, the same handheld phone camera at chest height, the same framing, timing, head moves, hand moves, mouth moves and facial expressions. The ONLY change: the young man with short black hair and a thin moustache in the dark red zip-up tracksuit hoodie, who is asked a question and then takes the microphone and sings, is now the person in [Image 1].
+
+The interviewed person = the person in [Image 1], in EVERY shot: copy the exact face from [Image 1] - face shape, eye color and eye shape, eyebrows, nose, mouth, skin tone, age, hair color, hair length and hairstyle, and any beard, moustache, glasses or freckles exactly as in the photo. NO thin moustache unless [Image 1] shows one. They wear the clothes from [Image 1], never the dark red tracksuit hoodie from the video, with no logos or printed words on the clothes. The same real person in every frame, also while looking down at the phone and while singing, so their friends instantly recognize them. Never morph, never drift back to the original young man's face.
+
+Matching the reference second by second: 0-3 s: the interviewer at the left edge holds out a phone and a black microphone; the person looks down at the phone screen, thinking, unsure. 3-4 s: the person takes the microphone out of the interviewer's hand with one hand and lifts it to the mouth. 4-7 s: holding the microphone close, they start to sing with full confidence and a calm, serious face, and raise one open hand, palm toward the camera. 7-10 s: they keep singing, eyes on the camera, with slow, smooth hand moves, one hand held out palm up. 10-12 s: they press one flat hand down twice, as if to calm everyone down, exactly when the young man in [Video 1] does.
+
+The interviewer's hands at the left edge, the street, the houses and the cars stay exactly as in the video. The car's number plate stays blurred, with no readable letters. The microphone is a plain black handheld microphone with no logo.
+
+Anatomy rules: one head only, on the person's own shoulders. A face never appears on the hands, the microphone or the clothes. Five fingers on each hand. No text, no captions, no logos, no watermark.
+```
+
+---
+
+## Hole in Shirt Effect: A Mini You Waves From Inside Your Shirt
+
+- Page: https://www.makeviral.ai/templates/hole-in-shirt-ai-effect
+- Markdown: https://www.makeviral.ai/templates/hole-in-shirt-ai-effect.md
+- Updated: 2026-10-21 · Published: 2026-10-21
+- Local: [`makeviral/hole-in-shirt-ai-effect/PROMPTS.md`](makeviral/hole-in-shirt-ai-effect/PROMPTS.md)
+
+### 1. Open [AI Photo with this template](https://www.makeviral.ai/photo?template=hole-in-shirt-ai-effect) and add your photo (you, waist up, your top in view). The photo prompt is filled in
+
+```text
+Use the uploaded image as the base: it is the person's own photo and it stays a real, unchanged photo. Keep the same person, face, hair, skin, pose, hands, clothes, camera angle, light and background exactly as they are. Do not retouch, slim or restyle the person. Then add the hole in shirt effect: a perfectly round hole is cut in the front of the person's top, in the middle of the chest, about one third as wide as the body, with a thin, softly frayed white rim of fabric curling back around its edge, as if the shirt itself was cut open. The hole does not show skin or a body: it is a window into a smaller copy of the same photo. Inside the hole is a mini version of the same person, the same adult with the same face, hair, clothes and pose, seen from the head to the waist, standing in a small copy of the same place and light and smiling out of the hole at the camera. The mini version's own top is whole, with no hole. Around the hole, a thin glowing light-blue neon ring circles it at a slight tilt, like the ring of a planet, with a soft blue glow on the fabric, and a few small white sparkles float in the air in front of the picture. Exactly one person and one mini copy of that same person: no other people, no third copy. The mini copy is the same adult, never a child. No skin, no chest and no underwear show in the hole: only the mini copy and its background. Any logo or writing on the clothes becomes plain. Realistic photo, vertical 9:16; if the photo is wider, extend the background naturally. No text, no captions, no letters, no emoji, no stickers, no watermark, no app interface, no frame.
+```
+
+### 3. Press the film button on the still to open AI Video with the still as the first frame. Settings: Kling 3.0, 8 s, 1080p, 9:16, sound on. The video prompt
+
+```text
+One continuous shot with no cuts, like a real phone video, the camera almost still. Keep the person's face, hair, clothes and the place exactly as in the image, and keep the round hole in the front of the shirt with the mini copy of the same person inside it, the same size and in the same place.
+0-2 s: the thin light-blue neon ring around the hole lights up brighter and starts to circle the hole, tilted like the ring of a planet; small white sparkles drift slowly down through the frame.
+2-5 s: inside the hole, the mini copy of the person comes alive: it smiles, looks up at the camera and waves one hand, then gives a happy peace sign. The big person smiles and moves only a little, with natural breathing and a small nod.
+5-8 s: the round picture inside the hole slowly turns once around its center, with the mini copy in it, like a spinning window, and comes back upright; the mini copy waves again as the ring keeps circling and the sparkles keep falling.
+Audio: a soft, dreamy original tune and a light chime when the ring lights up. No speech. Exactly one person and one mini copy of that same adult, never a child. The hole shows only the mini copy and its background, never skin or a body. No extra people, no extra limbs, no morphing. No text, no subtitles, no logos, no watermark.
+```
+
+### Prompt 3
+
+```text
+Use the uploaded image as the base: it is the person's own photo and it stays a real, unchanged photo. Keep the same person, face, hair, skin, pose, hands, clothes, camera angle, light and background exactly as they are. Do not retouch, slim or restyle the person. Then add the hole in shirt effect: a perfectly round hole is cut in the front of the person's top, in the middle of the chest, about one third as wide as the body, with a thin, softly frayed white rim of fabric curling back around its edge, as if the shirt itself was cut open. The hole does not show skin or a body: it is a window into a smaller copy of the same photo. Inside the hole is a mini version of the same person, the same adult with the same face, hair, clothes and pose, seen from the head to the waist, standing in a small copy of the same place and light and smiling out of the hole at the camera. The mini version's own top is whole, with no hole. Around the hole, a thin glowing light-blue neon ring circles it at a slight tilt, like the ring of a planet, with a soft blue glow on the fabric, and a few small white sparkles float in the air in front of the picture. Exactly one person and one mini copy of that same person: no other people, no third copy. The mini copy is the same adult, never a child. No skin, no chest and no underwear show in the hole: only the mini copy and its background. Any logo or writing on the clothes becomes plain. Realistic photo, vertical 9:16; if the photo is wider, extend the background naturally. No text, no captions, no letters, no emoji, no stickers, no watermark, no app interface, no frame.
+```
+
+---
+
+## Enchantress Filter AI: From Your Photo to a Dark Moon Witch
+
+- Page: https://www.makeviral.ai/templates/enchantress-filter-ai
+- Markdown: https://www.makeviral.ai/templates/enchantress-filter-ai.md
+- Updated: 2026-10-21 · Published: 2026-10-21
+- Local: [`makeviral/enchantress-filter-ai/PROMPTS.md`](makeviral/enchantress-filter-ai/PROMPTS.md)
+
+### 1. The video prompt is filled in. Settings: Seedance 2.5, 10 s, 720p, 9:16, sound on. The video prompt
+
+```text
+A dark Halloween transformation clip: one vertical take like a polished phone video on a tripod, in front of a plain black backdrop. Photorealistic.
+
+The person in the clip is the person in [Image 1], in every frame: copy the exact face from [Image 1] (the face shape, eye color and eye shape, eyebrows, nose, mouth, skin tone, age, and any beard, moustache, glasses or freckles), so their friends recognize them at once. The face stays the same from the first frame to the last, also under the witch makeup and the crown after the change: never a different person, never morph. The eyes keep their own natural color from [Image 1]: no white, glowing or colored contact lenses.
+
+0-4.5 s, BEFORE: the person, in the clothes from [Image 1] and with their own hair, faces the camera from the chest up in front of a plain black backdrop, in soft, warm studio light. Their eyes are calmly closed and they hold one hand out toward the camera at chest height, palm down, fingers relaxed. From the bottom of the frame a long, slender, pitch-black hand with long, sharp black claw nails rises slowly, reaches the person's hand and laces its black fingers through the person's fingers until it holds the hand tight. Each hand has exactly five fingers.
+4.5-4.6 s: the black hand sweeps up toward the lens and covers the whole frame for a moment, a dark wipe with a deep whoosh. This is the only change.
+4.6-10 s, AFTER: the same person with the same face, now a dark moon witch: a large antique-gold crescent-moon crown with its two horns pointing up, a round gold medallion at its center and small gold crescent moons hanging on fine chains across the forehead; their own hair color, worn long and loose with thin braids and small gold beads; dark smoky eye makeup, fine black dotted lines under the eyes, black lips and one thin black line from the lower lip down to the chin; layered antique-gold necklaces with a crescent-moon pendant; a dark brown lace gown with a high lace collar and long lace sleeves; both hands are now pitch black with long black claw nails. Behind them a black void with glowing orange embers drifting slowly. They open their eyes, look straight into the lens with a calm, knowing stare, slowly raise one black finger to their lips in a "shh" gesture and hold it, then lower the hand a little. The face stays large, sharp and well lit, framed from the chest up.
+
+Audio: a slow, dark cinematic Halloween beat, a deep whoosh on the hand wipe at 4.5 s and soft magic chimes after it, no words, no singing.
+Exactly one person; the black hand belongs to nobody we see. A high neckline in both parts: no cleavage, no bare chest, no close-up of the body; close-ups show the face. No blood, no gore. No text, no subtitles, no logos, no watermark.
+```
+
+### 1. Open [AI Photo with this template](https://www.makeviral.ai/photo?template=enchantress-filter-ai&variant=pet) and add your photo (your pet, face clear). The photo prompt is filled in — Pet
+
+```text
+Use the uploaded image as the base. 9:16 vertical photo, like a polished studio pet portrait on a tripod: the pet from the uploaded image sits facing the camera in front of a plain black backdrop, in soft, warm studio light, framed from the chest up with its whole head and ears in view. It holds one front paw up a little toward the camera. Realistic photo with natural fur and natural colors. Exactly one animal and no people. No clothes on the pet. No text, no logos, no watermark.
+```
+
+### 3. Press the film button on the still to open AI Video with the still as the first frame. Settings: Kling 3.0, 10 s, 1080p, 9:16, sound on. The video prompt
+
+```text
+One take on a tripod in front of a plain black backdrop. Keep the animal's face, eyes, ears, fur colors, markings and size exactly as in the image, from the first frame to the last.
+0-4.5 s: the pet sits calmly and holds one front paw up. From the bottom of the frame a long, slender, pitch-black hand with long black claw nails rises slowly and gently takes the paw.
+4.5-4.6 s: the black hand sweeps up toward the lens and covers the whole frame for a moment, a dark wipe.
+4.6-10 s: the same pet, now a moon witch's familiar: a small antique-gold crescent-moon crown with its two horns pointing up sits on its head, small gold crescent moons hang on fine chains across its forehead, and a dark lace collar with gold beads and a crescent-moon pendant sits around its neck. Its own fur, face and eye color stay. Glowing orange embers drift slowly in the black behind it. It looks into the lens, tilts its head and blinks slowly.
+Audio: a slow, dark cinematic Halloween beat, a deep whoosh on the wipe and soft magic chimes, no words. Exactly one animal, no people; the black hand belongs to nobody we see. No text, no subtitles, no logos, no watermark.
+```
+
+---
+
+## Corpse Bride AI Trend: Turn Into a Ghost Bride From One Photo
+
+- Page: https://www.makeviral.ai/templates/corpse-bride-ai-trend
+- Markdown: https://www.makeviral.ai/templates/corpse-bride-ai-trend.md
+- Updated: 2026-10-21 · Published: 2026-10-21
+- Local: [`makeviral/corpse-bride-ai-trend/PROMPTS.md`](makeviral/corpse-bride-ai-trend/PROMPTS.md)
+
+### 1. The video prompt is filled in. Settings: Seedance 2.5, 10 s, 720p, 9:16, sound on. The video prompt
+
+```text
+A haunting Halloween transformation in one continuous shot with no cuts, like a dark fairy-tale film. Photorealistic, cinematic, cold blue moonlight.
+
+The person in this clip is the person in [Image 1], in every frame: copy the exact face from [Image 1] (the face shape, eye color and eye shape, eyebrows, nose, mouth, skin tone, age, hair color, hair length and hairstyle, and any beard, moustache, glasses or freckles), so their friends recognize them at once. The only changes to the face are a soft pale-blue tint and the makeup below: the face shape and the eye color stay theirs. If [Image 1] shows an animal, that animal is the one that changes, with its own face and fur.
+
+The place: a dark old cemetery at night, with tombstones, dry bare trees and a dim blue light that creates a gloomy but elegant atmosphere, more tombstones all around, low cold mist on the ground and a huge full moon behind.
+
+0-2 s: the person stands among the tombstones in the clothes from [Image 1], facing the camera, framed from the knees up. The face is large, sharp and clearly the face from [Image 1]. A cold blue mist rolls in along the ground.
+2-6 s: the mist starts to glow with blue magic and swirls up the body from the feet to the head. Where it passes, the clothes from [Image 1] turn into the ghost bride look: a white dress with a corset and sheer parts, lace details, and an asymmetrical tulle skirt that covers their legs, white stockings with a translucent floral pattern, very elegant strappy high-heeled sandals, long white lace gloves; their own hair, in its own length and style, turns dark blue or blue-black; pink lips and intense makeup that gives a mysterious air; a simple necklace and a white veil that falls down the back, with a crown of white and blue flowers; they hold a small bouquet of flowers that matches the crown. The ghost touches: a soft, pale-blue tint on the skin, the veil and the hem of the skirt torn at the edges, the flowers a little wilted. The corset is modest and covers the chest. The camera tilts up with the glow.
+6-10 s: holding the bouquet, they dance slowly between the tombstones: a slow sway, one slow spin that lifts the veil and the torn skirt, then they turn back to the camera with a soft, sad smile. The whole face is large and sharp again: exactly the face from [Image 1]. Never morph.
+
+Audio: an original slow, haunting music-box waltz with a soft wordless choir, wind in the dry trees. No words.
+Exactly one person, no other people. This is a real person in a gothic ghost costume, not a film or cartoon character: no stop-motion or cartoon style, no huge cartoon eyes, no bare bones or skeleton parts, no stitches, no butterflies, no insects. No blood, no gore, no nudity. No text, no subtitles, no logos, no watermark.
+```
+
+### 1. The video prompt is filled in. Settings: Seedance 2.5, 10 s, 720p, 9:16, sound on. The video prompt
+
+```text
+A haunting Halloween transformation in one continuous shot with no cuts, like a dark fairy-tale film. Photorealistic, cinematic, cold blue moonlight.
+
+The person in this clip is the person in [Image 1], in every frame: copy the exact face from [Image 1] (the face shape, eye color and eye shape, eyebrows, nose, mouth, skin tone, age, hair color, hair length and hairstyle, and any beard, moustache, glasses or freckles), so their friends recognize them at once. The only change to the face is a soft pale-blue tint and dark shadows around the eyes: the face shape and the eye color stay theirs. If [Image 1] shows an animal, that animal is the one that changes, with its own face and fur.
+
+The place: a dark old cemetery at night, with tombstones, dry bare trees and a dim blue light that creates a gloomy but elegant atmosphere, more tombstones all around, low cold mist on the ground and a huge full moon behind.
+
+0-2 s: the person stands among the tombstones in the clothes from [Image 1], facing the camera, framed from the knees up. The face is large, sharp and clearly the face from [Image 1]. A cold blue mist rolls in along the ground.
+2-6 s: the mist starts to glow with blue magic and swirls up the body from the feet to the head. Where it passes, the clothes from [Image 1] turn into the ghost groom look: a tattered black Victorian tailcoat with long tails, a grey waistcoat with small buttons, a white shirt with a loose black cravat, a wilted white flower on the lapel, dark trousers and old leather boots; their own hair, in its own length and style, a little windswept and dusted grey; soft dark shadows around the eyes. The ghost touches: a soft, pale-blue tint on the skin, the coat torn at the hem and the cuffs, cobwebs of mist on the shoulders. The camera tilts up with the glow.
+6-10 s: they dance a slow waltz alone between the tombstones, one hand raised as if it holds the hand of an unseen partner, one slow turn that swings the coat tails, then they face the camera with a soft, sad smile. The whole face is large and sharp again: exactly the face from [Image 1]. Never morph.
+
+Audio: an original slow, haunting music-box waltz with a soft wordless choir, wind in the dry trees. No words.
+Exactly one person, no other people, no partner in view. This is a real person in a gothic ghost costume, not a film or cartoon character: no stop-motion or cartoon style, no huge cartoon eyes, no bare bones or skeleton parts, no stitches, no butterflies, no insects. No blood, no gore, no nudity. No text, no subtitles, no logos, no watermark.
 ```
 
 ---
@@ -76,11 +856,107 @@ Exactly one animal in the booth; no people. Plain banknotes with no readable tex
 
 ---
 
+## Ain't No Mountain High Enough Trend: Sing on the Subway With AI
+
+- Page: https://www.makeviral.ai/templates/aint-no-mountain-subway-ai-trend
+- Markdown: https://www.makeviral.ai/templates/aint-no-mountain-subway-ai-trend.md
+- Updated: 2026-10-21 · Published: 2026-10-21
+- Local: [`makeviral/aint-no-mountain-subway-ai-trend/PROMPTS.md`](makeviral/aint-no-mountain-subway-ai-trend/PROMPTS.md)
+
+### 1. The video prompt is filled in. Settings: Seedance 2.5, 10 s, 720p, 9:16, sound on. The video prompt
+
+```text
+A realistic vertical phone selfie of the person in [Image 1], seated in a nearly empty subway carriage, wearing wired earbuds. They sing passionately to a soulful chorus, close their eyes, lift their chin, raise one hand, and move their lips naturally. Preserve their face and hairstyle, keep the train background consistent, subtle handheld camera movement, emotional expression, cinematic realism, 9:16.
+
+The singer is the person in [Image 1], in every frame: copy the exact face from [Image 1] (the face shape, eye color and eye shape, eyebrows, nose, mouth, skin tone, age, hair color, hair length and hairstyle, and any beard, moustache, glasses or freckles), and the clothes from [Image 1], so their friends recognize them at once. The face stays the same from the first frame to the last, also with the eyes closed, the chin up and the mouth wide open on the long notes. Never morph. If [Image 1] shows an animal, the singer is that animal sitting upright on the seat, with its own face, fur and markings, not a person.
+
+The place: the inside of a clean, nearly empty city subway car at night under bright white ceiling lights: long blue bench seats along both walls, steel grab poles and handrails, sliding doors, a framed route map on the wall with no readable words, the car stretching away behind, dark windows with lights flicking past. The train sways softly.
+
+The camera: their own front phone camera in one outstretched hand, a little above eye level, a medium close-up from the chest up, one continuous take with no cuts; the face stays big and sharp. Thin white wired earphones in both ears, the white cable hanging down over the chest.
+
+0-2 s: eyes on the lens, a small smile; they hold the other hand to the ear like a phone, thumb and little finger out: call me.
+2-4 s: they close their eyes, tip the head back and start to sing out loud with feeling.
+4-7 s: the other hand rises high above the head, fingers spread, the chin lifted, the mouth wide open on a long held note; they sway with the train.
+7-10 s: they open their eyes, look straight into the lens and sing the chorus right at the camera, the other hand reaching out with an open palm, then a big happy smile.
+
+Audio: only their own voice, a big, soulful chorus with long held notes, a little off-key, over the low rumble and clatter of the train. No instruments: the music plays only in their earphones.
+
+Exactly one person in the car, no other passengers. One head only, two arms, five fingers on each hand. No phone visible in the frame. No text, no subtitles, no logos, no line names or route numbers, no watermark.
+```
+
+### 1. Open [AI Photo with this template](https://www.makeviral.ai/photo?template=aint-no-mountain-subway-ai-trend&variant=pet) and add your photo (your pet, face clear). The photo prompt is filled in — Pet
+
+```text
+Use the uploaded image as the base. 9:16 vertical photo, like a real phone selfie taken close in front of the pet, at its eye level. The pet from the uploaded image sits upright alone on a blue bench seat in the inside of a clean, nearly empty city subway car at night under bright white ceiling lights: long blue bench seats along both walls, steel grab poles and handrails, sliding doors, a framed route map on the wall with no readable words, the car stretching away behind, dark windows with lights flicking past. A medium close-up from the chest up, the face big and sharp, looking into the lens. Thin white wired earphones sit in its ears, the white cable hanging down over its chest. Realistic photo with natural colors. Exactly one animal and no people. No clothes on the pet. No phone visible, no text, no logos, no line names or route numbers, no watermark.
+```
+
+### 3. Press the film button on the still to open AI Video with the still as the first frame. Settings: Kling 3.0, 10 s, 1080p, 9:16, sound on. The video prompt
+
+```text
+One continuous shot with no cuts, like a real phone video filmed close in front of the pet at its eye level, in a nearly empty subway car at night. Keep the animal's face, fur, markings and size, the white wired earphones in its ears and the subway car exactly as in the image. The train sways softly, subtle handheld camera movement.
+0-2 s: the pet looks into the lens, ears up, as the music starts in its earphones.
+2-4 s: it closes its eyes, lifts its chin and starts to sing with feeling.
+4-7 s: one front paw rises high, the head tips back and the mouth opens wide on a long, soulful note; it sways with the train.
+7-10 s: it sings straight at the camera, then opens its eyes and looks into the lens, very pleased with itself.
+Audio: only the pet's own singing voice, long melodic howls from a dog or long sung meows from a cat, over the low rumble and clatter of the train. No instruments, no human voice. Exactly one animal, no people. Real furry paws, never human hands. No extra legs, no morphing. No text, no subtitles, no logos, no watermark.
+```
+
+---
+
+## AI Cupid Trend: Cupid Dives at You, Your Handbag Says Not Today
+
+- Page: https://www.makeviral.ai/templates/ai-cupid-trend
+- Markdown: https://www.makeviral.ai/templates/ai-cupid-trend.md
+- Updated: 2026-10-21 · Published: 2026-10-21
+- Local: [`makeviral/ai-cupid-trend/PROMPTS.md`](makeviral/ai-cupid-trend/PROMPTS.md)
+
+### 1. The video prompt is filled in. Settings: Seedance 2.5, 15 s, 720p, 9:16, sound off. The video prompt
+
+```text
+Recreate the reference video [Video 1] shot for shot: a sunny autumn afternoon on a wide grey paved square in front of a Gothic cathedral, a young man dressed as Cupid with big white feathered wings and a gold bow, and one woman who walks across the square, with the same camera angles, cuts, timing and moves. The ONLY change: the woman with long brown hair in the tan suede jacket is now the person in [Image 1]. Cupid, the cathedral, the square, the light and the camera stay exactly as in [Video 1].
+
+The woman = the person in [Image 1], in EVERY shot: copy the exact face from [Image 1] (the face shape, eye color and eye shape, eyebrows, nose, mouth, skin tone, age, hair color, hair length and hairstyle, and any beard, moustache, glasses or freckles) exactly as in the photo. They wear the clothes from [Image 1] and carry a plain black leather handbag with no logo. The same real person from the first frame to the last, so their friends recognize them at once, also in the hit and in the last close walk to the camera. Never morph, never drift back to the original woman's face. No long wavy brown hair and no tan suede jacket unless [Image 1] shows them.
+
+Cupid stays the same young man as in [Video 1] in every shot: short curly dark hair, a white toga with a gold belt, big white feathered wings on his back, bare feet and a gold bow. He never gets the face from [Image 1].
+
+The shots, matching the reference second by second:
+0-3 s: high angle from a carved stone ledge of the cathedral: Cupid sits on the ledge high above the square and draws the gold bow with a gold arrow; far below, one small figure walks across the square. At about 1.2 s he drops off the ledge and dives head first, wings spreading.
+3-5.7 s: from behind and above, Cupid glides down over the square toward the cathedral front, the woman small ahead of him.
+5.7-7.3 s: street level in front of the cathedral's carved arched doors: the woman walks toward the camera with the handbag in one hand; Cupid swoops down at her from above with the bow raised; she swings the handbag hard with both hands and smacks him in mid-air.
+7.3-8.5 s: Cupid flips backwards and crashes flat on his back on the paving stones, arms and wings spread; a burst of white feathers flies up, the gold bow lands next to him.
+8.5-12.5 s: he lies still, knocked out, feathers floating down; the woman smooths her hair, bends down and picks up the handbag, cool and calm.
+12.5-15 s: the woman walks past him toward the camera, calm and a little proud, one hand on her jacket, the face big and sharp in the frame, Cupid knocked out on the ground behind her.
+
+Anatomy rules: one head only per person, on their own shoulders; two arms and five fingers on each hand; Cupid has exactly two wings, on his back. Only Cupid and the woman up close; the tiny far walkers of the first shots may stay. Comic slapstick: no blood, no wound, Cupid is only knocked out cold and lies still. No text, no captions, no logos, no watermark.
+```
+
+### 1. The video prompt is filled in. Settings: Seedance 2.5, 15 s, 720p, 9:16, sound off. The video prompt
+
+```text
+Recreate the reference video [Video 1] shot for shot: an autumn city boulevard with yellow trees, wet fallen leaves and parked cars, a little winged cherub who shoots heart-tipped arrows from a carved Gothic stone balcony, one woman in a long black coat and one man in a long brown coat, with the same camera angles, cuts, timing and moves. The ONLY change: the woman with long blonde hair in the black coat is now the person in [Image 1]. The cherub, the man, the street, the shop window, the green coat and the light stay exactly as in [Video 1].
+
+The woman = the person in [Image 1], in EVERY shot she is in: copy the exact face from [Image 1] (the face shape, eye color and eye shape, eyebrows, nose, mouth, skin tone, age, hair color, hair length and hairstyle, and any beard, moustache, glasses or freckles) exactly as in the photo. They wear a long black belted wool coat over their own clothes, so the arrow can stick in it. The same real person in both of her shots, so their friends recognize them at once, also in the last close shot through the shop window. Never morph, never drift back to the original woman's face. No long straight blonde hair unless [Image 1] shows it.
+
+The man in the long dark brown coat stays the same man as in [Video 1], and the little winged cherub with blond curls on the balcony stays exactly as in [Video 1]. Neither of them gets the face from [Image 1].
+
+The shots, matching the reference second by second:
+0-2.5 s: close: the cherub leans over the edge of the stone balcony and draws a gold bow with an arrow that has a red heart tip, aiming down at the street.
+2.5-4.3 s: the woman walks toward the camera down the boulevard; an arrow with a red heart tip flies in from the left and sticks in the chest of her coat; she stops, looks down at it, surprised.
+4.3-5.7 s: close: the cherub draws the bow again and aims.
+5.7-12.1 s: the man walks past a lit boutique window; the heart arrow flies at his face, he leans back so it passes right in front of his mouth and pushes it away with one hand; it flies past him through the shop window, and the camera moves in to a mannequin in a long olive-green leather trench coat with the heart arrow stuck in its chest.
+12.1-13.8 s: through the shop glass, with the heart arrow tip in the front of the frame, the woman stands outside, looks at the green coat and breaks into a soft, in-love smile, the face big and sharp.
+13.8-14.5 s: close: the cherub on the balcony with the bow again.
+
+Anatomy rules: one head only per person, on their own shoulders; two arms and five fingers on each hand; the cherub has exactly two small wings, on his back, and wears his cream drape. Exactly one woman, one man and the cherub. No blood, no wound: the arrows only stick in the coats. No brand names, no logos, no text, no captions, no watermark.
+```
+
+---
+
 ## Victoria Secret AI Runway Video: Your Angel Walk in Giant Wings
 
 - Page: https://www.makeviral.ai/templates/victoria-secret-runway-ai-trend
 - Markdown: https://www.makeviral.ai/templates/victoria-secret-runway-ai-trend.md
-- Updated: 2026-10-20 · Published: 2026-10-20
+- Updated: 2026-10-21 · Published: 2026-10-20
 - Local: [`makeviral/victoria-secret-runway-ai-trend/PROMPTS.md`](makeviral/victoria-secret-runway-ai-trend/PROMPTS.md)
 
 ### 1. The video prompt is filled in. Settings: Seedance 2.5, 10 s, 720p, 9:16, sound on. The video prompt
@@ -118,6 +994,27 @@ THE OUTFIT: dramatic black feathered wings strapped to the back, taller than the
 
 SOUND: a dark, slow, heavy runway beat with NO singing and NO lyrics, a gasping, cheering crowd and camera shutters clicking.
 
+真人实拍、五官清晰、面部稳定、不扭曲、不变形、人体结构正常、同一角色、服装一致、发型不变.
+
+Avoid: singing, lyrics, a different outfit, missing wings, a different face, a different animal or species, extra people on the runway, writing, logos, captions, subtitles, watermarks, extra limbs, morphing, facial distortion. The outfit covers the body like an evening gown: never a bra top, never underwear or lingerie as the outfit. No letters, words or logos on the stage, the screens or the clothes. The wings grow from the back, never from the arms.
+```
+
+### 1. The video prompt is filled in. Settings: Seedance 2.5, 10 s, 720p, 9:16, sound on. The video prompt
+
+```text
+High-end photorealistic fashion backstage video. A glamorous high-fashion backstage preparation scene immediately before a spectacular runway show: a dark backstage dressing area, mirrors framed by round bulbs, clothes rails, staff in black.
+THE MODEL: the person in [Image 1], in every frame: copy the exact face from [Image 1] (the face shape, eye color and eye shape, eyebrows, nose, mouth, skin tone, age, hair color, hair length and hairstyle, and any beard, moustache, glasses or freckles), so their friends recognize them at once. The face stays the same from the first frame to the last; never morph.
+THE OUTFIT: an elaborate white couture gown with long sleeves and a high neck, the bodice decorated with intricate bead embroidery and sparkling crystals, a floor-length layered feather-textured skirt, silver heels; from 00:05, large dramatic white feather wings. If [Image 1] shows a man, he wears a white beaded couture suit and the same wings.
+
+[00:00-00:03] a cinematic medium close-up from a three-quarter side angle: THE MODEL sits calmly at the bulb mirror while professional makeup artists prepare them for the runway. Only the makeup artists' hands are visible: a soft brush on the cheek, then lipstick (a man: powder only). THE MODEL remains still and composed, then looks subtly toward the camera, the face large and sharp: exactly the face from [Image 1]. Makeup appears polished and sophisticated with realistic skin texture: soft glam that keeps their own features.
+[00:03-00:05] the camera slowly moves downward: a dresser in black kneels at THE MODEL's feet and fastens the strap of a silver heel.
+[00:05-00:08] a smooth upward reveal: THE MODEL stands up in the large white feather wings, a dresser adjusts the wing straps, bright camera flashes make the crystals sparkle.
+[00:08-00:10] THE MODEL turns and walks toward a doorway of bright white runway light, the wings seen from behind, and glances back with a subtle confident smile. If [Image 1] shows an animal, THE MODEL is that animal with its own face, fur and markings: the brush grooms its fur, a small crystal collar instead of heels, small white wings, no gown, on four legs.
+
+Camera: smooth gimbal, slow push-in, shallow depth of field. Lighting: dark backstage, bright flashes, subtle haze.
+SOUND: soft backstage chatter, brushes, camera shutters, then a glossy runway beat with NO singing and NO lyrics as THE MODEL walks into the light.
+
+No nudity. No letters on the chair backs, the mirrors or the walls.
 真人实拍、五官清晰、面部稳定、不扭曲、不变形、人体结构正常、同一角色、服装一致、发型不变.
 
 Avoid: singing, lyrics, a different outfit, missing wings, a different face, a different animal or species, extra people on the runway, writing, logos, captions, subtitles, watermarks, extra limbs, morphing, facial distortion. The outfit covers the body like an evening gown: never a bra top, never underwear or lingerie as the outfit. No letters, words or logos on the stage, the screens or the clothes. The wings grow from the back, never from the arms.
@@ -518,11 +1415,11 @@ The camera stays on the dashboard, almost still, with a little shake from the ro
 
 ---
 
-## AI Fruit Story: You as a 3D Fruit Person in a Soap Opera
+## AI Fruit Story: Make a Talking 3D Fruit Soap Opera
 
 - Page: https://www.makeviral.ai/templates/ai-fruit-story
 - Markdown: https://www.makeviral.ai/templates/ai-fruit-story.md
-- Updated: 2026-10-20 · Published: 2026-10-20
+- Updated: 2026-10-21 · Published: 2026-10-20
 - Local: [`makeviral/ai-fruit-story/PROMPTS.md`](makeviral/ai-fruit-story/PROMPTS.md)
 
 ### 1. The video prompt is filled in. Settings: Seedance 2.5, 12 s, 720p, 9:16, sound on. The video prompt
@@ -998,7 +1895,7 @@ The camera stays in the driver's seat. Its back and sides have the same fur colo
 
 - Page: https://www.makeviral.ai/templates/perdon-ai-photo-trend
 - Markdown: https://www.makeviral.ai/templates/perdon-ai-photo-trend.md
-- Updated: 2026-10-19 · Published: 2026-10-19
+- Updated: 2026-10-21 · Published: 2026-10-19
 - Local: [`makeviral/perdon-ai-photo-trend/PROMPTS.md`](makeviral/perdon-ai-photo-trend/PROMPTS.md)
 
 ### Prompt 1
@@ -1011,6 +1908,18 @@ Use the uploaded image as the base. Make the perfect, idealized AI version of th
 
 ```text
 Use the uploaded image as the base. Make the perfect, idealized AI version of this exact pet photo, the "this is my princess" first slide of an AI vs reality pet post: the same pet, the same pose and the same camera angle, but everything a little too perfect, like a professional pet photo shoot. The pet keeps its own species, breed look, face, eyes, ears, muzzle, fur colors and markings, and the natural body volume and proportions of that animal, never flattened, stretched or swapped for another breed, but looks its very best: freshly groomed, fluffy, glossy and clean fur, bright happy eyes, a small pastel bow or a neat collar. The place becomes the dream version: a soft velvet cushion on a cream sofa in a bright luxury living room with fresh white flowers and warm lamps (if the photo is outdoors, a perfect green garden at golden hour). Soft, warm photo-shoot light with a gently blurred background. Exactly the pets of the photo: none added, none removed, and no people added. Any logo, crest, brand name or writing on the clothes or in the place becomes plain. Vertical 9:16; if the photo is wider, extend the dream place naturally. Photorealistic, so people believe it for a second. No text, no captions, no stickers, no logos, no watermark, no frame.
+```
+
+### Prompt 3
+
+```text
+Use the uploaded image as the base. Make the stunning, fancy version of this exact Halloween costume photo, the first slide of an "I'm so sorry I lied" costume post: the same person, the same costume idea in the same main colors, the same pose and the same camera angle, but the costume as a professional costume maker would make it, with all the luxury details. Upgrade only the costume and the polish, like an AI photo edit that went a little too far: the cheap or homemade parts become rich, well-made materials (satin, velvet, lace, tulle, sequins instead of felt, paper, plastic or a bedsheet), with clean seams and a perfect fit, and with the luxury details that fit this costume: gold jewelry, a matching headpiece or crown, gloves, a cape, wings or a tail when the costume has one, and polished versions of the props in the photo. For an Egyptian mummy, that is clean, neatly wrapped cream bandages with layered gold necklaces, an ankh pendant, gold bracelets and a gold snake arm cuff. Face paint or makeup becomes neat, professional Halloween makeup; a mask stays a mask and a wig stays a wig, styled and glossy. Without a wig the hair is freshly styled, in its own color and its own length. If the person wears no costume, give them the stunning, fancy Egyptian mummy Halloween costume. The place stays the same place, tidied and dressed for Halloween (carved pumpkins, warm string lights), with soft, warm photo-shoot light and a gently blurred background; the image is sharp, clean and polished, like a professional photographer's shot. The expression stays the same, happy and photogenic. Keep the face, the age, the body shape and the body size exactly as in the photo: never slimmer, curvier, taller, younger or more muscular, and the costume is never tighter, shorter or more revealing than in the photo. Exactly one person: nobody added, nobody removed; a pet in the photo stays, groomed and fluffy. Any logo, crest, brand name or writing on the clothes or in the place becomes plain. Vertical 9:16; if the photo is wider, extend the dream place naturally. Photorealistic, so people believe it for a second. No text, no captions, no stickers, no logos, no watermark, no frame.
+```
+
+### Prompt 4 — Pet
+
+```text
+Use the uploaded image as the base. Make the stunning, fancy version of this exact pet Halloween costume photo, the first slide of an "I'm so sorry I lied" costume post: the same pet, the same costume idea in the same main colors, the same pose and the same camera angle, but the costume as a professional pet costume maker would make it, with all the luxury details. The pet keeps its own species, breed look, face, eyes, ears, muzzle, fur colors and markings, and the natural body volume and proportions of that animal, never flattened, stretched or swapped for another breed, but looks its very best: freshly groomed, fluffy, glossy and clean fur, bright happy eyes. The cheap or homemade costume becomes a soft, rich, well-fitted pet costume (velvet, satin, plush, tulle), with neat seams and the luxury details that fit it: a small crown or hat, a little cape, wings or a bow tie, gold trim. It is comfortable and made for the pet: nothing covers the eyes, the nose or the mouth. If the pet wears no costume, give it the stunning, fancy Egyptian mummy Halloween costume: clean cream bandage wraps on the body and a small gold collar. The place becomes the dream Halloween version of the same spot: carved pumpkins, warm candle lights and soft autumn decor. Soft, warm photo-shoot light with a gently blurred background. Exactly the pets of the photo: none added, none removed, and no people added. Any logo, crest, brand name or writing on the clothes or in the place becomes plain. Vertical 9:16; if the photo is wider, extend the dream place naturally. Photorealistic, so people believe it for a second. No text, no captions, no stickers, no logos, no watermark, no frame.
 ```
 
 ---
@@ -1681,7 +2590,7 @@ Only these two on the screen, apart from blurred fans. No band, singer or stage 
 
 - Page: https://www.makeviral.ai/templates/bby-wow-guy-ai-trend
 - Markdown: https://www.makeviral.ai/templates/bby-wow-guy-ai-trend.md
-- Updated: 2026-10-20 · Published: 2026-10-18
+- Updated: 2026-10-21 · Published: 2026-10-18
 - Local: [`makeviral/bby-wow-guy-ai-trend/PROMPTS.md`](makeviral/bby-wow-guy-ai-trend/PROMPTS.md)
 
 ### 1. The video prompt is filled in. Settings: Seedance 2.5, 10 s, 720p, 9:16, sound off. The video prompt
@@ -1689,7 +2598,7 @@ Only these two on the screen, apart from blurred fans. No band, singer or stage 
 ```text
 Recreate the reference video [Video 1] shot for shot: the same quinceañera party hall at night with purple, pink and green party lights, white curtains, flower centerpieces, gold chairs, a photo light on a stand and guests in party dresses and shirts, the same handheld phone camera, the same vertical framing, timing and moves. The ONLY change: the young man with the short dark hair and the silver chain who dances toward the camera, bites a small sweet bread, stares into the lens with full cheeks and dances away is now the person in [Image 1].
 
-The party guest = the person in [Image 1], in EVERY shot: copy the exact face from [Image 1] - face shape, eye color and eye shape, eyebrows, nose, mouth, skin tone, age, hair color, hair length and hairstyle, and any beard, moustache, glasses or freckles exactly as in the photo. The party guest wears the clothes from [Image 1]; if [Image 1] shows only the head or the upper body, a plain white oversized T-shirt with no print and loose black pants. The same real person in every frame, from the first second to the last, so their friends instantly recognize them, also in the big close-up while they chew. When only the back of the head shows, it has the hair from [Image 1]. Never morph, never drift back to the original young man's face. NO letters, NO horse print and NO cross print on the T-shirt, front or back, NO text or logo on any clothes, and NO silver chain unless [Image 1] shows them. If [Image 1] shows an animal, the party guest is that animal standing upright, with its own face, fur and markings and the natural body volume and proportions of that animal: never flattened, squashed, stretched or merged with anything.
+The party guest = the person in [Image 1], in EVERY shot: copy the exact face from [Image 1] - face shape, eye color and eye shape, eyebrows, nose, mouth, skin tone, age, hair color, hair length and hairstyle, and any beard, moustache, glasses or freckles exactly as in the photo. The party guest wears exactly the clothes from [Image 1] in every shot: the same top with the same color, pattern and print, the same jacket, shirt or dress, front and back. NEVER the white T-shirt or the loose black pants of the young man in the video unless [Image 1] shows them. If [Image 1] does not show the legs, plain trousers that go with that top. The same real person in every frame, from the first second to the last, so their friends instantly recognize them, also in the big close-up while they chew. When only the back of the head shows, it has the hair from [Image 1]. Never morph, never drift back to the original young man's face or clothes. NO DAKITI letters, NO horse print, NO cross print and NO silver chain unless [Image 1] shows them. If [Image 1] shows an animal, the party guest is that animal standing upright, with its own face, fur and markings and the natural body volume and proportions of that animal: never flattened, squashed, stretched or merged with anything.
 
 The party guest copies the young man's moves and face second by second:
 0-2.5 s: dances in from the left toward the camera with loose, bouncy steps, shoulders swaying to the beat, between the guests.
@@ -1698,6 +2607,41 @@ The party guest copies the young man's moves and face second by second:
 6.5-9.5 s: still chewing, turns around and dances away into the crowd with the back to the camera, one hand up.
 
 The other guests stay as they are in the video, small and soft in the background; never put the face from [Image 1] on a guest. Anatomy rules: one head only, on the party guest's shoulders. Two arms and two hands, five fingers on each hand, one sweet bread. No text, no captions, no emojis, no logos, no watermark.
+```
+
+### 1. The video prompt is filled in. Settings: Seedance 2.5, 10 s, 720p, 9:16, sound on. The video prompt
+
+```text
+A funny party clip in one continuous handheld shot with no cuts, like a real phone video filmed at night. Photorealistic. The camera is held low, at the baby's eye level, and follows the baby with a slight sway in a vertical frame, so the baby's face stays large and sharp.
+
+The baby is the one in [Image 1], in every frame: copy the exact face from [Image 1] (the face shape, eye color and eye shape, eyebrows, nose, mouth, cheeks, skin tone, hair color, hair length and hairstyle) and the clothes from [Image 1]. Keep the same baby at the same age: a boy stays a boy and a girl stays a girl, with the same hair length, never an older child. The baby keeps real baby anatomy: a small chubby body, a big round head, short arms and legs and small baby hands, never an adult body. The face stays the same from the first frame to the last, so the family recognizes the baby at once. If [Image 1] shows an animal, the dancer is that animal instead, with its own face, fur and markings. If [Image 1] shows an adult, that adult does the same moves with their own body.
+
+The place: a quinceañera party hall at night with purple, pink and green party lights, white curtains, flower centerpieces on round tables, gold chairs and grown-up guests in party dresses and shirts dancing, soft and out of focus behind the baby. The baby is the only child: every guest is a grown-up, seen mostly from the waist down at this low camera height, and no guest has the face from [Image 1].
+
+Second by second:
+0-2.5 s: the baby toddles in from the left toward the camera with wobbly, bouncy little steps, shoulders swaying to the beat, between the guests.
+2.5-4 s: close to the camera, lifts a small round sweet bread with a pink sugar shell to the mouth with both hands and takes a big bite.
+4-7 s: big close-up: chews with puffed cheeks, eyes wide, staring straight into the lens, dead serious.
+7-10 s: still chewing, turns around and toddles away into the crowd with the back to the camera, one little hand up, bopping to the beat.
+
+Audio: loud, upbeat Latin party music with a reggaeton beat, party chatter and soft chewing sounds. No dialogue. One baby, one sweet bread, no extra limbs, no morphing. No text, no captions, no emojis, no logos, no watermark.
+```
+
+### 1. Open [AI Photo with this template](https://www.makeviral.ai/photo?template=bby-wow-guy-ai-trend&variant=pet) and add your photo (your pet, whole body). The photo prompt is filled in — Pet
+
+```text
+Use the uploaded image as the base. 9:16 vertical photo, like a real phone photo taken from low down, at the pet's eye level, at a party at night. The pet from the uploaded image stands on the shiny dance floor of a quinceañera party hall at night with purple, pink and green party lights, white curtains, flower centerpieces on round tables, gold chairs and grown-up guests in party dresses and shirts dancing; the guests are soft and out of focus, seen mostly from the waist down at this low height. The pet stands a few steps from the camera, facing the camera, with a small round sweet bread with a pink sugar shell held gently in its mouth, ears up, looking into the lens with a cool, serious face. Its whole body is in view, with its tail, and purple and pink party light falls on its fur. Realistic photo with natural colors and a soft, shallow depth of field. Exactly one animal. No clothes on the pet. No text, no logos, no watermark.
+```
+
+### 3. Press the film button on the still to open AI Video with the still as the first frame. Settings: Kling 3.0, 10 s, 1080p, 9:16, sound on. The video prompt
+
+```text
+One continuous handheld shot with no cuts, like a real phone video filmed from low down at a quinceañera party at night. Keep the animal's face, fur, markings and size, the sweet bread, the purple and pink party lights and the dancing guests exactly as in the image.
+0-2.5 s: the pet trots toward the camera across the dance floor with the sweet bread in its mouth, bouncing to the beat, its head bobbing.
+2.5-4 s: it stops right in front of the lens, sits down and chomps a big bite off the sweet bread.
+4-7 s: big close-up: it chews with puffed cheeks, eyes wide, staring straight into the lens, dead serious.
+7-10 s: still chewing, it turns around and wiggles away into the crowd, tail up, hips swinging to the beat, its back to the camera. The back of the pet has the same fur colors and markings as in the image.
+The camera stays low and follows it with a slight sway. Audio: loud, upbeat Latin party music with a reggaeton beat, party chatter and soft chewing sounds. The pet never speaks. Exactly one animal, on four legs, no extra legs, no human hands, one sweet bread, no morphing. No text, no subtitles, no logos, no watermark.
 ```
 
 ---
@@ -2445,7 +3389,7 @@ Anatomy rules: one head per animal, on its own body. No people, no text, no logo
 
 - Page: https://www.makeviral.ai/templates/boombox-rap-ai-trend
 - Markdown: https://www.makeviral.ai/templates/boombox-rap-ai-trend.md
-- Updated: 2026-10-17 · Published: 2026-10-17
+- Updated: 2026-10-22 · Published: 2026-10-17
 - Local: [`makeviral/boombox-rap-ai-trend/PROMPTS.md`](makeviral/boombox-rap-ai-trend/PROMPTS.md)
 
 ### 1. The video prompt is filled in. Settings: Seedance 2.5, 10 s, 720p, 9:16, sound on. The video prompt
@@ -2489,6 +3433,29 @@ The friend carries a big silver retro boombox on the right shoulder, away from t
 8-10 s: the rapper raises one hand to shield the face from flashing cameras, then drops it with a big smile; both stop and give the camera a cool nod.
 
 Audio: an original upbeat, bouncy hip-hop beat that plays from the boombox, the rapper rapping short, clean, playful lines in English in sync with the mouth, and the friend's short ad-libs. Exactly two people, nobody else on the street, one boombox, no extra arms or hands. No text, no subtitles, no logos, no brand names on the boombox or the clothes.
+```
+
+### 1. The video prompt is filled in. Settings: Seedance 2.5, 10 s, 720p, 9:16, sound on. The video prompt — Pet
+
+```text
+A playful street rap clip like a real music video, in one continuous handheld shot with no cuts: the camera moves backward down the street in front of a pet and its owner as they walk toward it, low enough to keep the whole pet in view, and frames the owner from the knees up, both faces large and sharp. Photorealistic, soft overcast daylight, slightly warm film colors.
+
+The place: a quiet side street next to a long red-brick building with rows of windows, on a grey, overcast day: cracked grey asphalt with faded parking lines, a few parked cars far back, trees and low brick houses at the end of the street.
+
+The rapper, in FRONT on the RIGHT, closest to the camera, is the pet in [Image 2], in every frame: the same species and breed, face, eyes, ears, muzzle, fur colors, fur length and markings as in [Image 2], with the natural body volume and proportions of that animal: never flattened, squashed, stretched or merged with anything, so its owner recognizes it at once. It walks upright on its hind legs, with real furry paws, never human hands. Its mouth opens and closes with every rapped word; it keeps its own animal face, teeth and tongue. No clothes, no costume, no sunglasses, no chain.
+The owner with the boombox, half a step behind on the LEFT, is the person in [Image 1], in every frame: copy the exact face from [Image 1] (the face shape, eye color and eye shape, eyebrows, nose, mouth, skin tone, age, hair color, hair length and hairstyle, and any beard, moustache, glasses or freckles) and the clothes from [Image 1]. The face stays the same from the first frame to the last, so their friends recognize them at once. Never morph.
+If [Image 1] shows the animal and [Image 2] the person, swap the roles: the animal always raps in front, the person always carries the boombox.
+
+The owner carries a big silver retro boombox on the left shoulder, away from the pet, one hand on its handle, never in front of a face, and nods to the beat, grins and hypes the pet up.
+
+0-3 s: they walk toward the camera; the pet raps into the lens, points a front paw at the camera and bounces on each step.
+3-6 s: still walking, the pet turns an invisible steering wheel with both front paws, taps a paw on its head and makes binoculars with both paws around the eyes.
+6-8 s: the pet leans toward the camera with a cheeky look for the punchline, while the owner lifts the boombox a little higher and laughs.
+8-10 s: the pet shields its face from flashing cameras with one paw, then drops it; both stop, the pet gives the camera a cool nod and the owner points at it with a big smile.
+
+Audio: an original upbeat, bouncy hip-hop beat from the boombox, a playful, clean rap in English for the pet in sync with its mouth, and the owner's short ad-libs and laughs.
+
+Exactly one person, one animal and one boombox, nobody else on the street; they never merge with each other or with the boombox. No text, no subtitles, no logos, no brand names on the boombox or the clothes.
 ```
 
 ---
@@ -2634,6 +3601,36 @@ The dye stays on the hair and in the bowl: never on the face or the skin. Anatom
 
 ```text
 Using the uploaded photo, generate a 9:16 vertical image featuring one hair color applied to the same person: burgundy, a deep wine red with a brighter cherry-red shine at the roots and along the parting, glossy and fresh, as if just dyed. Keep the person's face, expression, skin tone, lighting, outfit, and background identical to the original photo: only the hair color should change, with the same hairstyle, length, texture, parting and volume. Ensure the hair color looks realistic and blends naturally with the person's hairstyle, with natural shine and darker depth underneath, on every strand, braid or curl in view, and none on the skin. If the photo is wider, extend the background naturally. Nobody added. No hat, no hair clips, no text, no logos, no watermark, no filter look. The only change is the hair color: the identity rules below apply to the face, the hairstyle and the hair length, and the hair color is the new burgundy described above.
+```
+
+### Prompt 3
+
+```text
+Using the uploaded photo, generate a 9:16 vertical image featuring one hair color applied to the same person: blonde, a bright, warm golden blonde with a lighter, almost platinum shine at the roots and along the parting, glossy and fresh, as if just dyed. Keep the person's face, expression, skin tone, lighting, outfit, and background identical to the original photo: only the hair color should change, with the same hairstyle, length, texture, parting and volume. Ensure the hair color looks realistic and blends naturally with the person's hairstyle, with natural shine and darker depth underneath, on every strand, braid or curl in view, and none on the skin. If the photo is wider, extend the background naturally. Nobody added. No hat, no hair clips, no text, no logos, no watermark, no filter look. The only change is the hair color: the identity rules below apply to the face, the hairstyle and the hair length, and the hair color is the new blonde described above.
+```
+
+### Prompt 4
+
+```text
+Using the uploaded photo, generate a 9:16 vertical image featuring one hair color applied to the same person: red, a vivid, bright true red with a lighter, fiery copper-red shine at the roots and along the parting, glossy and fresh, as if just dyed. Keep the person's face, expression, skin tone, lighting, outfit, and background identical to the original photo: only the hair color should change, with the same hairstyle, length, texture, parting and volume. Ensure the hair color looks realistic and blends naturally with the person's hairstyle, with natural shine and darker depth underneath, on every strand, braid or curl in view, and none on the skin. If the photo is wider, extend the background naturally. Nobody added. No hat, no hair clips, no text, no logos, no watermark, no filter look. The only change is the hair color: the identity rules below apply to the face, the hairstyle and the hair length, and the hair color is the new red described above.
+```
+
+### Prompt 5
+
+```text
+Using the uploaded photo, generate a 9:16 vertical image featuring one hair color applied to the same person: black, a deep jet black with a cool blue-black shine at the roots and along the parting, glossy and fresh, as if just dyed. Keep the person's face, expression, skin tone, lighting, outfit, and background identical to the original photo: only the hair color should change, with the same hairstyle, length, texture, parting and volume. Ensure the hair color looks realistic and blends naturally with the person's hairstyle, with natural shine and darker depth underneath, on every strand, braid or curl in view, and none on the skin. If the photo is wider, extend the background naturally. Nobody added. No hat, no hair clips, no text, no logos, no watermark, no filter look. The only change is the hair color: the identity rules below apply to the face, the hairstyle and the hair length, and the hair color is the new black described above.
+```
+
+### Prompt 6
+
+```text
+Using the uploaded photo, generate a 9:16 vertical image featuring one hair color applied to the same person: brown, a rich chocolate brown with a lighter, warm caramel-brown shine at the roots and along the parting, glossy and fresh, as if just dyed. Keep the person's face, expression, skin tone, lighting, outfit, and background identical to the original photo: only the hair color should change, with the same hairstyle, length, texture, parting and volume. Ensure the hair color looks realistic and blends naturally with the person's hairstyle, with natural shine and darker depth underneath, on every strand, braid or curl in view, and none on the skin. If the photo is wider, extend the background naturally. Nobody added. No hat, no hair clips, no text, no logos, no watermark, no filter look. The only change is the hair color: the identity rules below apply to the face, the hairstyle and the hair length, and the hair color is the new brown described above.
+```
+
+### Prompt 7
+
+```text
+Using the uploaded photo, generate a 9:16 vertical image featuring one hair color applied to the same person: pink, a soft pastel pink with a brighter rose-pink shine at the roots and along the parting, glossy and fresh, as if just dyed. Keep the person's face, expression, skin tone, lighting, outfit, and background identical to the original photo: only the hair color should change, with the same hairstyle, length, texture, parting and volume. Ensure the hair color looks realistic and blends naturally with the person's hairstyle, with natural shine and darker depth underneath, on every strand, braid or curl in view, and none on the skin. If the photo is wider, extend the background naturally. Nobody added. No hat, no hair clips, no text, no logos, no watermark, no filter look. The only change is the hair color: the identity rules below apply to the face, the hairstyle and the hair length, and the hair color is the new pink described above.
 ```
 
 ---
@@ -3731,7 +4728,7 @@ Avoid: a heavier or thinner body than in the photo, cuts, the phone switching pa
 ### 1. The video prompt is filled in. Settings: gemini-omni-flash, 10 s, 1080p, 9:16, sound on. The video prompt
 
 ```text
-Create a photorealistic vertical brand commercial using the uploaded PRODUCT IMAGE ([Image 1]) as the exact product reference and the uploaded LOGO IMAGE ([Image 2]) only for the final end frame.
+Create a photorealistic vertical brand commercial using the uploaded product photo ([Image 1]) as the exact product reference and the uploaded logo photo ([Image 2]) only for the final end frame. Never write the words of this prompt, photo labels or file names as text anywhere in the video.
 
 Nighttime exterior of a modern apartment building. Start very far away, showing most of the building facade with many windows. Only one apartment window is warmly illuminated and subtly attracts attention. All the other windows are dark.
 
@@ -3763,7 +4760,7 @@ Only then, he grabs both curtains and slowly pulls them together from both sides
 
 The curtains physically block the camera’s view of the apartment. The closed curtains stay warmly lit from inside.
 
-After the curtains fully close, hold for a brief beat, then transition naturally to a clean final brand frame using the uploaded LOGO IMAGE exactly as provided. Centered logo, premium minimal presentation. Do not redesign, rewrite or distort the logo. Do not substitute any other version of the brand's logo.
+After the curtains fully close, hold for a brief beat, then transition naturally to a clean final brand frame that shows only the logo from the uploaded logo photo ([Image 2]), exactly as provided, with no other words around it. Centered logo, premium minimal presentation. Do not redesign, rewrite or distort the logo. Do not substitute any other version of the brand's logo.
 
 VISUAL STYLE: Photorealistic live-action commercial, realistic apartment architecture, realistic humans, subtle natural acting, premium cinematic lighting, warm interior light contrasted with cool blue nighttime exterior, realistic window reflections, natural depth of field, believable camera movement, high-end advertising cinematography, 9:16 vertical.
 
@@ -3951,7 +4948,7 @@ Create a photorealistic black and white portrait collage of the two uploaded ima
 
 - Page: https://www.makeviral.ai/templates/ai-dunk-trend
 - Markdown: https://www.makeviral.ai/templates/ai-dunk-trend.md
-- Updated: 2026-10-17 · Published: 2026-10-15
+- Updated: 2026-10-21 · Published: 2026-10-15
 - Local: [`makeviral/ai-dunk-trend/PROMPTS.md`](makeviral/ai-dunk-trend/PROMPTS.md)
 
 ### 1. The video prompt is filled in. Settings: Seedance 2.5, 10 s, 720p, 9:16, sound on. The video prompt
@@ -4030,6 +5027,28 @@ The place: a dark indoor pro basketball arena at night, the stands full of fans 
 Audio: a quiet arena murmur and footsteps; in the slow motion the sound drops to a deep, muffled hum and a slow heartbeat; at the dunk a loud rim clang and the crowd roars. No music, no lyrics, no commentary.
 
 Exactly one ball. No league, team, college or arena logos, no team names, no sponsor boards with words, no scoreboard text, no captions, no watermark. No famous athlete: every other player and every fan is a generic adult. Anatomy rules: one head, two arms, two legs, five fingers on each hand; the dunker never merges with another player, the rim or the ball.
+```
+
+### 1. The video prompt is filled in. Settings: Seedance 2.5, 12 s, 720p, 9:16, sound on. The video prompt
+
+```text
+An AI poster dunk video. Let the person in [Image 1] be the player who makes the dunk and the person in [Image 2] the defender who gets dunked on, in a real pro basketball game at night. Vertical 9:16, filmed like a real TV broadcast camera at court level, photorealistic and sharp.
+
+The dunker is the person in [Image 1], in every frame: copy the exact face from [Image 1] (the face shape, eye color and eye shape, eyebrows, nose, mouth, skin tone, age, hair color, hair length and hairstyle, and any beard, moustache, glasses or freckles), the same build, and the clothes and shoes from [Image 1]: everyday clothes, never a jersey or a uniform. The dunker is an adult. The same face from the first frame to the last, so their friends recognize them at once, also in the air and at the end. Never morph. If [Image 1] shows an animal, the dunker is that animal running upright on its hind legs, with its own face, fur and markings, not a person.
+
+The defender is the person in [Image 2], in every frame: copy the exact face from [Image 2] in the same way, the same build, and the clothes and shoes from [Image 2], never a jersey. An adult. Two different people: never blend or swap their faces, hair or clothes, also when the bodies overlap in the air.
+
+The place: a packed indoor pro basketball arena during a night game, a polished light hardwood court with plain painted lines and no logo at center court, a glass backboard with an orange rim and a white net, bright arena lights, a dark crowd filling the stands. The other players are generic adult players in plain navy and white jerseys with no names, no readable numbers and no team logos; a referee in a black-and-white striped shirt.
+
+0-3 s: a wide side shot: the dunker dribbles in fast from the LEFT; the defender waits under the basket on the RIGHT, knees bent.
+3-4.5 s: the camera pushes in low: the dunker takes off; the defender jumps, both arms high to block.
+4.5-8.5 s: slow motion: both rise in front of the backboard, the ball in one hand above the defender's arms; the dunker elevates over the defender and throws down a thunderous one-handed poster dunk that rattles the entire backboard.
+8.5-10 s: normal speed: the dunker hangs on the rim, the defender lands and stumbles back, unhurt. The crowd erupts instantly.
+10-12 s: a close shot, both from the chest up: in front, the dunker screams at the camera with joy, fists clenched; just behind, the defender holds their head in disbelief, then laughs. Both faces large and sharp: exactly the faces from [Image 1] and [Image 2].
+
+Audio: sneakers, the crowd roaring, a muffled hum in the slow motion, a loud rim clang, the scream. No music, no lyrics, no commentary.
+
+Exactly two people at the rim; no other player jumps. No injury. Exactly one ball. No league, team, college or arena logos, no team names, no sponsor boards with words, no scoreboard text, no captions, no watermark. No famous athlete: every other player and every fan is a generic adult. Anatomy rules: one head, two arms, two legs, five fingers on each hand; the dunker never merges with another player, the rim or the ball.
 ```
 
 ### 1. Open [AI Photo with this template](https://www.makeviral.ai/photo?template=ai-dunk-trend&variant=pet) and add your photo (your pet, face and body clear). The photo prompt is filled in — Pet
@@ -5776,13 +6795,19 @@ Do not add text, captions, logos or new people. Do not change the background. Re
 
 - Page: https://www.makeviral.ai/templates/my-ride-is-here-broom-trend
 - Markdown: https://www.makeviral.ai/templates/my-ride-is-here-broom-trend.md
-- Updated: 2026-10-15 · Published: 2026-10-12
+- Updated: 2026-10-21 · Published: 2026-10-12
 - Local: [`makeviral/my-ride-is-here-broom-trend/PROMPTS.md`](makeviral/my-ride-is-here-broom-trend/PROMPTS.md)
 
 ### 1. The video prompt is filled in. Settings: h3-recast, 10 s, 720p, 9:16, sound off. The video prompt
 
 ```text
 Image 1 replaces the young woman with short black hair in the black polka-dot dress, black tights and black boots who walks along the forest road with a broom beside the car, looks back at the camera with a smile, sits on the broom and flies up over the trees, in every shot. Preserve the person's face, hairstyle, skin tone, proportions and outfit from image 1 in every shot, also when the rider looks back and smiles, with no short black hair and no black polka-dot dress unless image 1 shows them. The rider and the broom move as one connected unit. Keep the forest road, the tall pine trees, the car window and the side mirror, the broom, the flight path, the motion and the camera exactly as in the video.
+```
+
+### 1. The video prompt is filled in. Settings: h3-recast, 10 s, 720p, 9:16, sound off. The video prompt
+
+```text
+Image 1 replaces the woman with shoulder-length brown hair in the grey hooded sweatshirt and blue jeans who flies on the broom down the street toward the camera, smiles and flashes a peace sign at the camera, flies into the road sign, falls onto the grass and gets back up, in every shot. Preserve the person's face, hairstyle, skin tone, proportions and outfit from image 1 in every shot, also when the rider smiles at the camera and while they lie on the grass, with no shoulder-length brown hair and no grey hooded sweatshirt unless image 1 shows them. The rider and the broom move as one connected unit until the crash. The fall is harmless slapstick: the rider lands on the grass unhurt, with no blood and no injury. Keep the quiet street, the trees, the houses, the blank road sign, the grass, the broom, the flight path, the crash, the motion and the camera exactly as in the video. No text, no logos, no watermark.
 ```
 
 ---
@@ -6074,11 +7099,11 @@ Usa mi foto subida como base. Como un experto en fotografía de estudio crea est
 
 ---
 
-## AI Arrest Trend: Make the “Getting Arrested Again” Video With One Photo
+## Not Bro Getting Arrested Again AI Video: The AI Arrest Trend From One Photo
 
 - Page: https://www.makeviral.ai/templates/ai-arrest-trend
 - Markdown: https://www.makeviral.ai/templates/ai-arrest-trend.md
-- Updated: 2026-10-15 · Published: 2026-10-12
+- Updated: 2026-10-21 · Published: 2026-10-12
 - Local: [`makeviral/ai-arrest-trend/PROMPTS.md`](makeviral/ai-arrest-trend/PROMPTS.md)
 
 ### 1. Open [AI Photo with this template](https://www.makeviral.ai/photo?template=ai-arrest-trend) and add your photo (your own photo). The photo prompt is filled in — Human
@@ -6442,7 +7467,7 @@ Anatomy rules: one head only, on the dancer's shoulders. Two arms and two hands.
 
 - Page: https://www.makeviral.ai/templates/bulin-47-ai-trend
 - Markdown: https://www.makeviral.ai/templates/bulin-47-ai-trend.md
-- Updated: 2026-10-15 · Published: 2026-10-10
+- Updated: 2026-10-21 · Published: 2026-10-10
 - Local: [`makeviral/bulin-47-ai-trend/PROMPTS.md`](makeviral/bulin-47-ai-trend/PROMPTS.md)
 
 ### 1. The video prompt is filled in. Settings: Seedance 2.5, 10 s, 720p, 9:16, sound off. The video prompt — Human
@@ -6469,6 +7494,20 @@ The dancer's head = the pet in [Image 1], in EVERY shot: the same species and br
 The pet looks exactly like its photo in every frame, from the first shot to the last. The man who holds the speaker and the crowd keep their own looks.
 
 Anatomy rules: one head only, the pet's head, on the dancer's shoulders. No text, no logos.
+```
+
+### 1. The video prompt is filled in. Settings: Seedance 2.5, 10 s, 720p, 9:16, sound off. The video prompt
+
+```text
+Recreate the reference video [Video 1] shot for shot: the same red-lit club stairs, the same crowd filming on phones, the same handheld phone camera, the same camera angles, cuts, timing and moves. The rapper's mouth moves with the words exactly like in the video. The ONLY change: the man in the black t-shirt with the chain who freestyles to the speaker is now the baby in [Image 1].
+
+The rapper = the baby in [Image 1], in EVERY shot: a real baby with natural proportions, a small chubby body, a big round head, short arms and legs and small baby hands, never an adult body. Copy the exact face from [Image 1]: face shape, eye color and eye shape, eyebrows, nose, mouth, skin tone, age, hair color, hair length and hairstyle, and any glasses or freckles exactly as in the photo, with no beard and no moustache. The baby wears the clothes from [Image 1], never the black t-shirt or the chain. The baby stands on a tall black flight case, so the face is in the same place in the frame as the rapper's face in the video, never hidden behind the man with the speaker. The baby copies the rapping mouth, the face and the hand moves of the rapper in the video, not the smile in [Image 1].
+
+The same real baby in every frame, from the first shot to the last, so their family instantly recognizes them. Never morph, never grow older, never drift back to the original rapper's face, never add facial hair, never a baby face on an adult body.
+
+The man in the maroon hoodie who holds the speaker in the foreground keeps his own look and the back of his head; the crowd keeps their own faces. The baby is the only child: everyone else stays an adult.
+
+Anatomy rules: one head per person, on that person's own shoulders. Natural hands, stable face, consistent outfit. A face never appears on hands, clothes or the speaker. Exactly one baby. No text, no logos.
 ```
 
 ---

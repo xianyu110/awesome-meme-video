@@ -5,7 +5,7 @@
 Canonical: https://www.makeviral.ai/templates/80s-ai-trend
 Updated: 2026-10-18
 Published: 2026-09-30
-Author: İrfan Şener (https://www.makeviral.ai/about)
+Author: MakeViral Team (https://www.makeviral.ai/about)
 Publisher: MakeViral (https://www.makeviral.ai)
 
 The **80s AI trend** (also called "Back in '85") restyles your selfie as a real-looking 1985 photo: big mid-80s hair, a bright jacket, film grain, direct flash and a red-orange date stamp. A newer version turns that photo into a shaky camcorder home video. You need one clear selfie. Step 1 alone gives you the photo.
@@ -56,7 +56,7 @@ Everything runs in the browser. No editing app, no watermark.
 
 ### The by-hand way, with the exact prompts
 
-The one-tap flow runs these prompts for you. A photo prompt puts your photo into the scene (Nano Banana 2, image mode, 9:16, 1K), then a video prompt animates that still. To change them, copy them and edit them in AI Photo and AI Video.
+The one-tap flow runs these prompts for you. A photo prompt puts your photo into the scene (Nano Banana 2.1, image mode, 9:16, 1K), then a video prompt animates that still. To change them, copy them and edit them in AI Photo and AI Video.
 
 Settings: 1 photo (your selfie) · Seedance 2.5 · 10 s · 720p · 9:16 · with sound · 128 credits in one tap.
 

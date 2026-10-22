@@ -5,7 +5,7 @@
 Canonical: https://www.makeviral.ai/templates/ai-lion-friend-video
 Updated: 2026-10-15
 Published: 2026-10-12
-Author: İrfan Şener (https://www.makeviral.ai/about)
+Author: MakeViral Team (https://www.makeviral.ai/about)
 Publisher: MakeViral (https://www.makeviral.ai)
 
 The **AI lion** trend is a night clip filmed through a car windshield: you stand on an empty road beside an open car door, a big male lion walks out of the dark toward you, and instead of attacking, it greets you like an old friend while you stroke its mane. You need one clear photo of yourself.
@@ -54,7 +54,7 @@ Everything runs in the browser. No editing app, no watermark.
 
 ### The by-hand way, with the exact prompts
 
-The one-tap flow runs these prompts for you. A photo prompt puts your photo into the scene (Nano Banana 2, image mode, 9:16, 1K), then a video prompt animates that still. To change them, copy them and edit them in AI Photo and AI Video.
+The one-tap flow runs these prompts for you. A photo prompt puts your photo into the scene (Nano Banana 2.1, image mode, 9:16, 1K), then a video prompt animates that still. To change them, copy them and edit them in AI Photo and AI Video.
 
 Settings: 1 photo (your photo) · Kling 3.0 · 10 s · 1080p · 9:16 · with sound · 56 credits in one tap.
 
@@ -115,7 +115,7 @@ The sound is the night itself: a quiet engine, crickets, a soft low rumble from 
 
 The template works in two steps, so your face and your clothes stay yours:
 
-1. **The still.** Nano Banana 2 takes your photo and puts you on a dark country road at night, beside the open door of a stopped car, lit by headlights. Down the road, a lion walks out of the dark.
+1. **The still.** Nano Banana 2.1 takes your photo and puts you on a dark country road at night, beside the open door of a stopped car, lit by headlights. Down the road, a lion walks out of the dark.
 2. **The video.** A video model animates the still for 10 seconds: the walk, the greeting, the petting and the night sounds.
 
 | | Standard (default) | Best |

@@ -5,7 +5,7 @@
 Canonical: https://www.makeviral.ai/templates/ai-family-resemblance-photo
 Updated: 2026-10-15
 Published: 2026-10-15
-Author: İrfan Şener (https://www.makeviral.ai/about)
+Author: MakeViral Team (https://www.makeviral.ai/about)
 Publisher: MakeViral (https://www.makeviral.ai)
 
 The **split face trend** is the TikTok and Instagram trend where one black-and-white portrait joins the left half of your face to the right half of your mom's or dad's, straight down the middle. It answers "Do I look like my mom or dad?" at a glance. You need two photos: you and your parent.
@@ -51,14 +51,14 @@ Everything runs in the browser. No editing app, no watermark.
 ### The one-tap way (no prompt to write)
 
 1. **Add the two photos.** Press "Make yours" and add you, face to the camera, then your mom, dad or family member, face to the camera. Add them in this order, because the order decides who is who in the scene. Take them with the camera or pick them from your library. Start here: https://www.makeviral.ai/templates/ai-family-resemblance-photo/create
-2. **Press Generate.** The button shows the price. Nano Banana 2 puts your photos into the Split face scene and makes one 2K photo. You write no prompt.
+2. **Press Generate.** The button shows the price. Nano Banana 2.1 puts your photos into the Split face scene and makes one 2K photo. You write no prompt.
 3. **Download or share.** The photo is ready in a few minutes as a 9:16 2K image. Download it, share it from your phone, turn it into a video, or find it later in your Library.
 
 ### The by-hand way, with the exact prompts
 
-The one-tap flow runs this prompt for you. The photo prompt puts your photo into the scene (Nano Banana 2, image mode, 9:16, 2K). To change it, copy it and edit it in AI Photo.
+The one-tap flow runs this prompt for you. The photo prompt puts your photo into the scene (Nano Banana 2.1, image mode, 9:16, 2K). To change it, copy it and edit it in AI Photo.
 
-Settings: 2 photos (you, face to the camera + your mom, dad or family member, face to the camera) · Nano Banana 2 · photo · 2K · 9:16 · 3 credits in one tap.
+Settings: 2 photos (you, face to the camera + your mom, dad or family member, face to the camera) · Nano Banana 2.1 · photo · 2K · 9:16 · 3 credits in one tap.
 
 1. Open [AI Photo with this template](https://www.makeviral.ai/photo?template=ai-family-resemblance-photo) and add the two photos in this order: you, face to the camera, then your mom, dad or family member, face to the camera. Pick 2K for the same size as the one-tap photo. The photo prompt is filled in:
 
@@ -87,8 +87,8 @@ You pay per photo in credits, and the create page shows the exact price on the G
 
 | Model | Settings | Credits |
 | --- | --- | --- |
-| Nano Banana 2 (this template) | 2K photo, 9:16, one tap | 3 |
-| Nano Banana 2 (by hand in AI Photo) | 1K photo, 9:16, same prompt | 2 |
+| Nano Banana 2.1 (this template) | 2K photo, 9:16, one tap | 3 |
+| Nano Banana 2.1 (by hand in AI Photo) | 1K photo, 9:16, same prompt | 2 |
 
 Credits come with a plan; see [pricing](https://www.makeviral.ai/pricing). A failed photo gives its credits back.
 
@@ -103,7 +103,7 @@ This is the whole split face trend how-to:
 
 Since people also call it the half face trend, this is also how to do the half face trend. Want both parents? Run it twice, once with your mom and once with your dad, and post the two pictures as a carousel. That is the mom or dad trend in one post, and it answers "Who do I look like more, mom or dad?" for your friends.
 
-**How MakeViral makes it:** your two photos go to Nano Banana 2, Google's image model, with the prompt the trend's creators shared (see below) and a face lock that keeps each half true to its own photo. The create page shows the exact price on the Generate button, and every run is a new take.
+**How MakeViral makes it:** your two photos go to Nano Banana 2.1, Google's image model, with the prompt the trend's creators shared (see below) and a face lock that keeps each half true to its own photo. The create page shows the exact price on the Generate button, and every run is a new take.
 
 ## Which prompt does the split face trend use?
 
@@ -152,7 +152,7 @@ Yes, many people did it in ChatGPT, often after several tries; under the trend, 
 
 ### Is there a split face prompt for ChatGPT or a half face prompt for Gemini?
 
-The prompt people share for the trend was written for ChatGPT. This template runs the same long text on Nano Banana 2, Google's AI image model, so you need neither app and write no prompt.
+The prompt people share for the trend was written for ChatGPT. This template runs the same long text on Nano Banana 2.1, Google's AI image model, so you need neither app and write no prompt.
 
 ### Is the look alike trend prompt the same?
 

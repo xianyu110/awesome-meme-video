@@ -5,7 +5,7 @@
 Canonical: https://www.makeviral.ai/templates/raindance-ai-trend
 Updated: 2026-10-15
 Published: 2026-10-10
-Author: İrfan Şener (https://www.makeviral.ai/about)
+Author: MakeViral Team (https://www.makeviral.ai/about)
 Publisher: MakeViral (https://www.makeviral.ai)
 
 The **Raindance AI trend** recasts the pier scene from the "Raindance" video by Dave and Tems: one person waits at the end of a wooden pier, the other walks up and sings to the camera, and then the two sit together on the beach. You need two photos: the one who waits first, then the singer.

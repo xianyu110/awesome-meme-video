@@ -5,7 +5,7 @@
 Canonical: https://www.makeviral.ai/templates/gomlegi-cekete-donusen-adam-ai
 Updated: 2026-10-18
 Published: 2026-10-12
-Author: İrfan Şener (https://www.makeviral.ai/about)
+Author: MakeViral Team (https://www.makeviral.ai/about)
 Publisher: MakeViral (https://www.makeviral.ai)
 
 **Gömleği cekete dönüşen adam** ("the man whose shirt turns into a jacket") is a viral Turkish wedding clip: a man in a blue plaid shirt dances to the davul and zurna at night, and his shirt seems to become a jacket. The AI trend puts someone else in his place. You need one photo, or two with the spoon player.

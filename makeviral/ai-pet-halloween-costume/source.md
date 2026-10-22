@@ -5,7 +5,7 @@
 Canonical: https://www.makeviral.ai/templates/ai-pet-halloween-costume
 Updated: 2026-10-18
 Published: 2026-10-08
-Author: İrfan Şener (https://www.makeviral.ai/about)
+Author: MakeViral Team (https://www.makeviral.ai/about)
 Publisher: MakeViral (https://www.makeviral.ai)
 
 An **AI dog costume** puts your dog or cat in a Halloween costume with no shopping and no photo shoot. Add one full-body photo of your pet, pick a costume such as a pumpkin, hot dog or ghost, and get a 2K photo on a Halloween porch. Add your photo for matching costumes, or make a 6-second video.
@@ -54,16 +54,16 @@ Everything runs in the browser. No editing app, no watermark.
 ### The one-tap way (no prompt to write)
 
 1. **Add your photo.** Press "Make yours" and add your pet, whole body. Take it with the camera or pick it from your library. Start here: https://www.makeviral.ai/templates/ai-pet-halloween-costume/create
-2. **Press Generate.** The button shows the price. Nano Banana 2 puts your photo into the Pet costume scene and makes one 2K photo. You write no prompt.
+2. **Press Generate.** The button shows the price. Nano Banana 2.1 puts your photo into the Pet costume scene and makes one 2K photo. You write no prompt.
 3. **Download or share.** The photo is ready in a few minutes as a 9:16 2K image. Download it, share it from your phone, turn it into a video, or find it later in your Library.
 
 ### The by-hand way, with the exact prompts
 
-The one-tap flow runs this prompt for you. The photo prompt puts your photo into the scene (Nano Banana 2, image mode, 9:16, 2K). To change it, copy it and edit it in AI Photo.
+The one-tap flow runs this prompt for you. The photo prompt puts your photo into the scene (Nano Banana 2.1, image mode, 9:16, 2K). To change it, copy it and edit it in AI Photo.
 
 #### Variant: Pet costume
 
-Settings: 1 photo (your pet, whole body) · Nano Banana 2 · photo · 2K · 9:16 · 3 credits in one tap.
+Settings: 1 photo (your pet, whole body) · Nano Banana 2.1 · photo · 2K · 9:16 · 3 credits in one tap.
 
 1. Open [AI Photo with this template](https://www.makeviral.ai/photo?template=ai-pet-halloween-costume) and add your photo (your pet, whole body). Pick 2K for the same size as the one-tap photo. The photo prompt is filled in:
 
@@ -77,7 +77,7 @@ One-tap version of this variant: https://www.makeviral.ai/templates/ai-pet-hallo
 
 #### Variant: You and your pet
 
-Settings: 2 photos (your photo + your pet) · Nano Banana 2 · photo · 2K · 9:16 · 3 credits in one tap.
+Settings: 2 photos (your photo + your pet) · Nano Banana 2.1 · photo · 2K · 9:16 · 3 credits in one tap.
 
 1. Open [AI Photo with this template](https://www.makeviral.ai/photo?template=ai-pet-halloween-costume&variant=with-you) and add the two photos in this order: your photo, then your pet. Pick 2K for the same size as the one-tap photo. The photo prompt is filled in:
 
@@ -127,8 +127,8 @@ You pay per photo in credits, and the create page shows the exact price on the G
 
 | Model | Settings | Credits |
 | --- | --- | --- |
-| Nano Banana 2 (this template) | 2K photo, 9:16, one tap | 3 |
-| Nano Banana 2 (by hand in AI Photo) | 1K photo, 9:16, same prompt | 2 |
+| Nano Banana 2.1 (this template) | 2K photo, 9:16, one tap | 3 |
+| Nano Banana 2.1 (by hand in AI Photo) | 1K photo, 9:16, same prompt | 2 |
 
 Credits come with a plan; see [pricing](https://www.makeviral.ai/pricing). A failed photo gives its credits back.
 
@@ -193,7 +193,7 @@ It is a photo of your own dog or cat in a Halloween costume, made by AI from a n
 
 ### How do I put my dog in a Halloween costume with AI?
 
-Press "Create your own", add one full-body photo of your dog, then type a costume in Make it yours or tap a quick pick such as Pumpkin, Hot dog or Ghost. Press Generate. Nano Banana 2 makes a 2K photo of your dog in the costume on a Halloween porch, usually in a few minutes. This AI dog costume generator runs in the browser, so there is nothing to install.
+Press "Create your own", add one full-body photo of your dog, then type a costume in Make it yours or tap a quick pick such as Pumpkin, Hot dog or Ghost. Press Generate. Nano Banana 2.1 makes a 2K photo of your dog in the costume on a Halloween porch, usually in a few minutes. This AI dog costume generator runs in the browser, so there is nothing to install.
 
 ### Does it work with cats?
 
@@ -225,7 +225,7 @@ Yes. Pick "Photo + video". You get the costume photo and a 6-second vertical vid
 
 ### Which AI models does it use?
 
-The photos use Nano Banana 2 at 2K. The video uses Nano Banana 2 for the first frame, then Seedance 2.0 Mini at 720p for 6 seconds, the default (Standard) option. The Best option uses Seedance 2.5. We picked Mini after it made 5 good clips in 5 runs on this page and the costume try-on page; Veo 3.1 Lite failed 4 of 5 runs with a server error on our test day.
+The photos use Nano Banana 2.1 at 2K. The video uses Nano Banana 2.1 for the first frame, then Seedance 2.0 Mini at 720p for 6 seconds, the default (Standard) option. The Best option uses Seedance 2.5. We picked Mini after it made 5 good clips in 5 runs on this page and the costume try-on page; Veo 3.1 Lite failed 4 of 5 runs with a server error on our test day.
 
 ### Will the costume in the photo fit my real pet?
 

@@ -5,7 +5,7 @@
 Canonical: https://www.makeviral.ai/templates/banana-tree-run-ai-trend
 Updated: 2026-10-20
 Published: 2026-10-20
-Author: İrfan Şener (https://www.makeviral.ai/about)
+Author: MakeViral Team (https://www.makeviral.ai/about)
 Publisher: MakeViral (https://www.makeviral.ai)
 
 **AI running on banana trees** is the October 2026 trend where you run and jump across the tops of giant banana plants, leaf to leaf, like a parkour run through a plantation. MakeViral puts your face into the trend's first viral clip, 10 seconds with its sound. You need one photo. Pet: your dog or cat bounds across the leaves.

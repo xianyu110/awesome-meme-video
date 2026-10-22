@@ -5,7 +5,7 @@
 Canonical: https://www.makeviral.ai/templates/glitch-makeup-ai-transition
 Updated: 2026-10-16
 Published: 2026-10-16
-Author: İrfan Şener (https://www.makeviral.ai/about)
+Author: MakeViral Team (https://www.makeviral.ai/about)
 Publisher: MakeViral (https://www.makeviral.ai)
 
 **Glitch makeup** is the TikTok transition where you paint bright green stripes on your face, glitch colors flicker inside the paint, and on the beat drop you cut to a finished cyber look. The real version takes hours of makeup and editing. Here you add one photo, and AI makes the whole glitch makeup transition for you.

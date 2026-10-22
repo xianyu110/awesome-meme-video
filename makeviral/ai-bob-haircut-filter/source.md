@@ -5,7 +5,7 @@
 Canonical: https://www.makeviral.ai/templates/ai-bob-haircut-filter
 Updated: 2026-10-15
 Published: 2026-10-14
-Author: İrfan Şener (https://www.makeviral.ai/about)
+Author: MakeViral Team (https://www.makeviral.ai/about)
 Publisher: MakeViral (https://www.makeviral.ai)
 
 The **bob filter** prank is the TikTok trend where an AI template turns one photo into a video of you cutting your long hair into a sleek, blunt bob with scissors. People send it to a partner or a parent, or post it as "Pranking my friends with the bob filter". Here, AI makes it from one photo.
@@ -90,7 +90,7 @@ One-tap version of this variant: https://www.makeviral.ai/templates/ai-bob-hairc
 
 #### Variant: Bob photo
 
-Settings: 1 photo (your photo, hair down) · Nano Banana 2 · photo · 2K · 9:16 · 3 credits in one tap.
+Settings: 1 photo (your photo, hair down) · Nano Banana 2.1 · photo · 2K · 9:16 · 3 credits in one tap.
 
 1. Open [AI Photo with this template](https://www.makeviral.ai/photo?template=ai-bob-haircut-filter&variant=photo) and add your photo (your photo, hair down). Pick 2K for the same size as the one-tap photo. The photo prompt is filled in:
 
@@ -136,7 +136,7 @@ Credits come with a plan; see [pricing](https://www.makeviral.ai/pricing). A fai
 
 **How MakeViral makes it:** your photo goes straight to Seedance 2.5, ByteDance's video model, with no in-between picture, so the face stays close to yours. The hair keeps its color and its parting; only the length changes. The clip is vertical, 720p, with its own sound: scissor snips, a gasp and a laugh, no music.
 
-**Bob photo** sends your photo to Nano Banana 2, Google's image model, and changes only the hair. You get one 2K vertical picture of you with a fresh bob.
+**Bob photo** sends your photo to Nano Banana 2.1, Google's image model, and changes only the hair. You get one 2K vertical picture of you with a fresh bob.
 
 The create page shows the exact price on the Generate button before you spend anything, and every run is a new take.
 
@@ -189,7 +189,7 @@ Nothing gets cut. The bob filter is an AI video made from a still photo: the sci
 
 ### Is this the CapCut bob filter?
 
-No. MakeViral has no link to CapCut. Our Haircut video is made by Seedance 2.5 from your photo, with a prompt written from the beats of the trend's clips, and the Bob photo by Nano Banana 2.
+No. MakeViral has no link to CapCut. Our Haircut video is made by Seedance 2.5 from your photo, with a prompt written from the beats of the trend's clips, and the Bob photo by Nano Banana 2.1.
 
 ### Is there a bob filter prompt?
 

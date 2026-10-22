@@ -5,7 +5,7 @@
 Canonical: https://www.makeviral.ai/templates/ai-pumpkin-head-photoshoot
 Updated: 2026-10-18
 Published: 2026-10-09
-Author: İrfan Şener (https://www.makeviral.ai/about)
+Author: MakeViral Team (https://www.makeviral.ai/about)
 Publisher: MakeViral (https://www.makeviral.ai)
 
 The **pumpkin head photoshoot** is the October photo where your head is a carved jack-o'-lantern, usually in a field or a pumpkin patch; people also call the pictures pumpkin head photos. Here you skip the pumpkin: add one full-body photo, and MakeViral keeps your outfit and body and adds the glowing pumpkin head, the field at dusk and film grain.
@@ -55,16 +55,16 @@ Everything runs in the browser. No editing app, no watermark.
 ### The one-tap way (no prompt to write)
 
 1. **Add your photo.** Press "Make yours" and add you, full body. Take it with the camera or pick it from your library. Start here: https://www.makeviral.ai/templates/ai-pumpkin-head-photoshoot/create
-2. **Press Generate.** The button shows the price. Nano Banana 2 puts your photo into the Pumpkin head scene and makes one 2K photo. You write no prompt.
+2. **Press Generate.** The button shows the price. Nano Banana 2.1 puts your photo into the Pumpkin head scene and makes one 2K photo. You write no prompt.
 3. **Download or share.** The photo is ready in a few minutes as a 9:16 2K image. Download it, share it from your phone, turn it into a video, or find it later in your Library.
 
 ### The by-hand way, with the exact prompts
 
-The one-tap flow runs this prompt for you. The photo prompt puts your photo into the scene (Nano Banana 2, image mode, 9:16, 2K). To change it, copy it and edit it in AI Photo.
+The one-tap flow runs this prompt for you. The photo prompt puts your photo into the scene (Nano Banana 2.1, image mode, 9:16, 2K). To change it, copy it and edit it in AI Photo.
 
 #### Variant: Pumpkin head photo
 
-Settings: 1 photo (you, full body) · Nano Banana 2 · photo · 2K · 9:16 · 3 credits in one tap.
+Settings: 1 photo (you, full body) · Nano Banana 2.1 · photo · 2K · 9:16 · 3 credits in one tap.
 
 1. Open [AI Photo with this template](https://www.makeviral.ai/photo?template=ai-pumpkin-head-photoshoot) and add your photo (you, full body). Pick 2K for the same size as the one-tap photo. The photo prompt is filled in:
 
@@ -78,7 +78,7 @@ One-tap version of this variant: https://www.makeviral.ai/templates/ai-pumpkin-h
 
 #### Variant: Couple or friends
 
-Settings: 2 photos (left person, full body + right person, full body) · Nano Banana 2 · photo · 2K · 9:16 · 3 credits in one tap.
+Settings: 2 photos (left person, full body + right person, full body) · Nano Banana 2.1 · photo · 2K · 9:16 · 3 credits in one tap.
 
 1. Open [AI Photo with this template](https://www.makeviral.ai/photo?template=ai-pumpkin-head-photoshoot&variant=couple) and add the two photos in this order: left person, full body, then right person, full body. Pick 2K for the same size as the one-tap photo. The photo prompt is filled in:
 
@@ -128,8 +128,8 @@ You pay per photo in credits, and the create page shows the exact price on the G
 
 | Model | Settings | Credits |
 | --- | --- | --- |
-| Nano Banana 2 (this template) | 2K photo, 9:16, one tap | 3 |
-| Nano Banana 2 (by hand in AI Photo) | 1K photo, 9:16, same prompt | 2 |
+| Nano Banana 2.1 (this template) | 2K photo, 9:16, one tap | 3 |
+| Nano Banana 2.1 (by hand in AI Photo) | 1K photo, 9:16, same prompt | 2 |
 
 Credits come with a plan; see [pricing](https://www.makeviral.ai/pricing). A failed photo gives its credits back.
 

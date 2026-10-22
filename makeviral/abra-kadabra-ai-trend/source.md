@@ -5,7 +5,7 @@
 Canonical: https://www.makeviral.ai/templates/abra-kadabra-ai-trend
 Updated: 2026-10-18
 Published: 2026-10-18
-Author: İrfan Şener (https://www.makeviral.ai/about)
+Author: MakeViral Team (https://www.makeviral.ai/about)
 Publisher: MakeViral (https://www.makeviral.ai)
 
 The **Abra Kadabra trend** is the TikTok duo dance to a Brazilian funk track with a chanted "abra kadabra" hook: one dancer starts alone, and on the beat a second dancer appears next to them, then both dance the same routine in sync. The new AI twist adds a snap. Add your photos and MakeViral puts you, and your friend, your pet or your twin, into the original reel, with the song.

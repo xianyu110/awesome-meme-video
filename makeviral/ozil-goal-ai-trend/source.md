@@ -5,7 +5,7 @@
 Canonical: https://www.makeviral.ai/templates/ozil-goal-ai-trend
 Updated: 2026-10-15
 Published: 2026-10-11
-Author: İrfan Şener (https://www.makeviral.ai/about)
+Author: MakeViral Team (https://www.makeviral.ai/about)
 Publisher: MakeViral (https://www.makeviral.ai)
 
 The **Ozil goal AI trend** remakes a famous 2016 solo goal with someone else as the scorer: a grandma, a game character, a friend or you. The scorer flicks the ball over the diving keeper, takes it on the chest, lets two defenders slide past and rolls it into the net. You need one full-body photo.

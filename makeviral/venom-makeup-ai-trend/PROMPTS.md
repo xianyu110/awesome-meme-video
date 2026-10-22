@@ -1,0 +1,44 @@
+# Venom Makeup AI: Black Goo Takes Over Half Your Face
+
+- Source: [makeviral](https://www.makeviral.ai/templates/venom-makeup-ai-trend)
+- Slug: `venom-makeup-ai-trend`
+
+The Venom makeup trend is the Halloween half-face look on TikTok: one half of the face painted glossy black, with a big white jagged eye, long white fangs along the jaw and veins down the neck.
+
+## Demo videos (CDN)
+
+- https://www.makeviral.ai/media/templates/venom-makeup-ai-trend/original-main-v2.mp4
+
+## Posters
+
+- https://www.makeviral.ai/media/templates/venom-makeup-ai-trend/original-main-v1.jpg
+
+## Prompts
+
+### 1. 1. The video prompt is filled in. Settings: Seedance 2.5, 10 s, 720p, 9:16, sound on. The video prompt
+
+*Kind: video_prompt*
+
+```text
+A Halloween half face goo makeup video, like a real vertical phone video on a tripod: the person faces the camera from the chest up in a dim room, one soft key light from the side, a faint red rim light behind them and a dark plain wall. Photorealistic, fine phone-camera grain, vertical 9:16.
+
+The person in the clip is the person in [Image 1], in every frame: copy the exact face from [Image 1] (the face shape, eye color and eye shape, eyebrows, nose, mouth, skin tone, age, hair color, hair length and hairstyle, and any beard, moustache, glasses or freckles), and the clothes from [Image 1], so their friends recognize them at once. The bare half of the face stays exactly the face from [Image 1] from the first frame to the last: never a different person, never morph, never beautify. If [Image 1] shows an animal, that animal gets the goo on one half of its face.
+
+0-2 s: the person looks calmly into the lens with their own bare face and no makeup, the whole face large, sharp and well lit.
+2-6 s: thick, glossy black goo seeps up from the collar like living liquid, climbs the neck in thin tendrils and spreads up over one half of the face (the left side of the frame) until it stops in a hard, jagged line down the middle of the forehead, the nose, the lips and the chin. As it settles, a large white jagged eye shape forms around that eye, a row of long, thin, curved white fangs appears along the jaw from the corner of the mouth to the ear, and thin dark veins spread from the edge of the goo across the bare cheek and down the neck.
+6-8 s: the beat drops: the person tilts the head, gives a slow, cocky smirk and flicks the tip of the tongue out for a moment, a normal human tongue.
+8-10 s: they turn the face slowly from one side to the other so the glossy goo catches the light, and end on a still pose looking straight into the lens: the goo, the white eye shape and the fangs on one half, the other half their own bare face, large, sharp and exactly the face from [Image 1].
+
+Audio: a dark, punchy original trap beat with a deep bass drop at 6 s, wet, sticky goo sounds while it spreads and a low breath. No words, no singing.
+
+Exactly one person, one head, two hands. Black goo only: no blood, no wounds, no torn skin, no gore. The goo and the white shapes stay on one half of the face and the neck; the other half stays bare. No mask, no helmet, no costume, no suit, no emblem or symbol on the chest or the clothes, no spider shape anywhere. No text, no subtitles, no logos, no watermark.
+```
+
+### 2. Prompt 2
+
+*Kind: prompt*
+
+```text
+Use the uploaded image as the base. A 9:16 vertical Halloween makeup portrait of the person from the uploaded image, from the chest up, facing the camera, in a dim room with one soft key light from the side, a faint red rim light behind them and a dark plain wall, like a real makeup photo taken on a phone. Half face goo makeup: one half of the face (the left side of the frame) is covered in thick, glossy, wet-looking black goo, like living liquid tar, that ends in a hard, jagged line straight down the middle of the forehead, the nose, the lips and the chin; on the goo side, a large white jagged eye shape, like a curved white teardrop with a spiky edge, sits around the eye, and the real eye stays open inside it with its own color; a row of long, thin, curved white fangs runs along the jaw from the corner of the mouth back toward the ear; thin dark veins spread from the edge of the goo across the bare cheek and down the neck, with a few slow drips of goo on the neck. The other half of the face stays the person's own bare face, with its own skin, eye, eyebrow and lips. The person wears their own clothes from the uploaded image and looks straight into the lens with a calm, confident face and a slight smirk. Realistic skin texture and natural colors. Exactly one person. Black goo only: no blood, no wounds, no torn skin, no gore. The goo and the white shapes stay on one half of the face and the neck; the other half stays bare. No mask, no helmet, no costume, no suit, no emblem or symbol on the chest or the clothes, no spider shape anywhere. No text, no subtitles, no logos, no watermark.
+```
+

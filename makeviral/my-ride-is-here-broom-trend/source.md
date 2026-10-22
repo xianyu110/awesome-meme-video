@@ -3,20 +3,20 @@
 > The My Ride Is Here broom trend is a Halloween 2026 video joke: filmed from a car window, someone pulls up on a flying broom, smiles at the camera and flies away, as if the broom were their ride.
 
 Canonical: https://www.makeviral.ai/templates/my-ride-is-here-broom-trend
-Updated: 2026-10-15
+Updated: 2026-10-21
 Published: 2026-10-12
-Author: İrfan Şener (https://www.makeviral.ai/about)
+Author: MakeViral Team (https://www.makeviral.ai/about)
 Publisher: MakeViral (https://www.makeviral.ai)
 
 The **My Ride Is Here** broom trend is a Halloween 2026 video joke: filmed from a car window, someone pulls up on a flying broom, smiles at the camera and flies away, as if the broom were their ride. Here you take the rider's place in a real viral reel. You need one clear photo of yourself.
 
 You walk down a forest road next to a moving car, broom in hand, look back with a smile, hop on and fly up over the pines, like the viral witch reel. One photo in, a 10-second clip with the reel's own sound out.
 
-Also called: broom trend, broomstick trend, flying broom trend, broom riding trend, your ride is here meme, witch broom trend.
+Also called: broom trend, broomstick trend, flying broom trend, broom riding trend, your ride is here meme, witch broom trend, broom crash, funny flying broom.
 
 **Make it now:** [Make this video](https://www.makeviral.ai/templates/my-ride-is-here-broom-trend/create). 1 photo · 10 s · 9:16 with sound · 120 credits, charged once · ready in a few minutes · no prompt to write.
 
-Keyword: my ride is here broom trend. Also answers: my ride is here trend, my ride is here broom, my ride is here meme, ai flying broom video, flying broom video, how to make my ride is here broom trend, my ride is here capcut template, my ride is here song, my ride is here ai, broom trend ai, witch flying on broom, broom trend tiktok.
+Keyword: my ride is here broom trend. Also answers: my ride is here trend, my ride is here broom, my ride is here meme, ai flying broom video, flying broom video, how to make my ride is here broom trend, my ride is here capcut template, my ride is here song, my ride is here ai, broom trend ai, witch flying on broom, broom trend tiktok, witch broom crash, broom crash trend, broom crash ai, broomstick crash, flying broom crash, flying broom meme.
 
 ## What is the My Ride Is Here trend, and where did it start?
 
@@ -42,6 +42,9 @@ Made from the prompts on this page. The people and pets are AI-made, not real pe
 - **Example 1** (10 s, 9:16 MP4 with sound): The original reel by @aiman_nazarovna: she walks down a forest road beside the car with a broom, looks back, hops on and flies up over the pines. Your photo takes her place in this reel, with its own sound.
   - Video: https://www.makeviral.ai/media/templates/my-ride-is-here-broom-trend/original-forest-v2.mp4
   - Poster: https://www.makeviral.ai/media/templates/my-ride-is-here-broom-trend/original-forest-v1.jpg
+- **Example 2** (10 s, 9:16 MP4 with sound): The Crash version: an AI clip by @boxermomof4_ (19 October 2026, 672,800 views by 20 October), the first big post of the witch broom crash trend with a person on the broom. She flies down a quiet street toward the camera, flashes a peace sign, flies straight into a blank road sign, falls off the broomstick onto the grass, unhurt, and gets back up. Your photo takes her place in this flying broom meme, with its own sound.
+  - Video: https://www.makeviral.ai/media/templates/my-ride-is-here-broom-trend/original-crash-v2.mp4
+  - Poster: https://www.makeviral.ai/media/templates/my-ride-is-here-broom-trend/original-crash-v1.jpg
 
 ## How to make the My Ride Is Here video on MakeViral
 
@@ -57,6 +60,8 @@ Everything runs in the browser. No editing app, no watermark.
 
 The one-tap flow runs this prompt for you. The video prompt animates your own photo directly. To change it, copy it and edit it in AI Video.
 
+#### Variant: Forest road
+
 Settings: 1 photo (your photo) · h3-recast · 10 s · 720p · 9:16 · no sound · 120 credits in one tap.
 
 1. The video prompt is filled in. Settings: h3-recast, 10 s, 720p, 9:16, sound off. The video prompt:
@@ -68,6 +73,20 @@ Settings: 1 photo (your photo) · h3-recast · 10 s · 720p · 9:16 · no sound 
 2. Press Generate, then download the 9:16 MP4.
 
 One-tap version of this variant: https://www.makeviral.ai/templates/my-ride-is-here-broom-trend/create?variant=forest
+
+#### Variant: Crash
+
+Settings: 1 photo (your photo) · h3-recast · 10 s · 720p · 9:16 · no sound · 120 credits in one tap.
+
+1. The video prompt is filled in. Settings: h3-recast, 10 s, 720p, 9:16, sound off. The video prompt:
+
+   ```text
+   Image 1 replaces the woman with shoulder-length brown hair in the grey hooded sweatshirt and blue jeans who flies on the broom down the street toward the camera, smiles and flashes a peace sign at the camera, flies into the road sign, falls onto the grass and gets back up, in every shot. Preserve the person's face, hairstyle, skin tone, proportions and outfit from image 1 in every shot, also when the rider smiles at the camera and while they lie on the grass, with no shoulder-length brown hair and no grey hooded sweatshirt unless image 1 shows them. The rider and the broom move as one connected unit until the crash. The fall is harmless slapstick: the rider lands on the grass unhurt, with no blood and no injury. Keep the quiet street, the trees, the houses, the blank road sign, the grass, the broom, the flight path, the crash, the motion and the camera exactly as in the video. No text, no logos, no watermark.
+   ```
+
+2. Press Generate, then download the 9:16 MP4.
+
+One-tap version of this variant: https://www.makeviral.ai/templates/my-ride-is-here-broom-trend/create?variant=crash
 
 ### Which photo works best?
 

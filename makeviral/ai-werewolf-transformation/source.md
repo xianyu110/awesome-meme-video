@@ -5,7 +5,7 @@
 Canonical: https://www.makeviral.ai/templates/ai-werewolf-transformation
 Updated: 2026-10-16
 Published: 2026-10-16
-Author: İrfan Şener (https://www.makeviral.ai/about)
+Author: MakeViral Team (https://www.makeviral.ai/about)
 Publisher: MakeViral (https://www.makeviral.ai)
 
 The **AI werewolf** trend turns one photo into a 10-second werewolf transformation: you double over in pain, your jaw stretches into a muzzle, your body grows and thick fur covers you until you are a dire wolf. Pets can do it too, howling at a full moon. It is a Halloween favorite on TikTok.
@@ -137,7 +137,7 @@ Is this a werewolf transformation in real life? No: it is AI, so nobody has to s
 
 | | Human | Pet: Standard (default) | Pet: Best |
 |---|---|---|---|
-| How it works | Seedance 2.5 makes the video straight from your photo, with no in-between picture, so your face stays yours until the fur takes over | Nano Banana 2 puts your pet in a moonlit backyard in a still, then Kling 3.0 plays the change | The same still, then Seedance 2.5 plays it |
+| How it works | Seedance 2.5 makes the video straight from your photo, with no in-between picture, so your face stays yours until the fur takes over | Nano Banana 2.1 puts your pet in a moonlit backyard in a still, then Kling 3.0 plays the change | The same still, then Seedance 2.5 plays it |
 | Place | A dim washroom (the creator's scene) | A backyard under a full moon | The same |
 | Length | 10 s | 10 s | 10 s |
 | Frame | Vertical 9:16, 720p | Vertical 9:16, 1080p | Vertical 9:16, 720p |

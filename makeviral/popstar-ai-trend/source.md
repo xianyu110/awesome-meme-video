@@ -5,7 +5,7 @@
 Canonical: https://www.makeviral.ai/templates/popstar-ai-trend
 Updated: 2026-10-15
 Published: 2026-10-13
-Author: İrfan Şener (https://www.makeviral.ai/about)
+Author: MakeViral Team (https://www.makeviral.ai/about)
 Publisher: MakeViral (https://www.makeviral.ai)
 
 The **Popstar AI** trend puts you in the lead role of the Popstar music video: you walk down a wood-panelled mansion hallway toward the camera with a champagne bottle, swing your arms wide and rap the verse straight into the lens. You need one clear photo of yourself, and the clip comes with the trend's sound.
@@ -106,7 +106,7 @@ Your video follows a 10-second cut of the trend's hallway shot, in one continuou
 | 5 to 7 | Your arms swing wide, the champagne bottle out to the side. |
 | 7 to 10 | You turn toward the glass balcony and look back over your shoulder at the camera. |
 
-**How it works:** to star in a music video, AI needs two steps. First, Nano Banana 2 makes a still of you from your photo: you stand in a warm, wood-panelled mansion hallway with a champagne bottle in your right hand. Then Kling 3.0 Motion Control takes the moves, the camera and the mouth movement of the trend clip and plays them with you, in that hallway. The trend's sound goes back on after the run. The clip is about 10 seconds at 720p, vertical 9:16. The exact price shows on the Generate button before you spend anything.
+**How it works:** to star in a music video, AI needs two steps. First, Nano Banana 2.1 makes a still of you from your photo: you stand in a warm, wood-panelled mansion hallway with a champagne bottle in your right hand. Then Kling 3.0 Motion Control takes the moves, the camera and the mouth movement of the trend clip and plays them with you, in that hallway. The trend's sound goes back on after the run. The clip is about 10 seconds at 720p, vertical 9:16. The exact price shows on the Generate button before you spend anything.
 
 **Who is not in it:** Motion Control animates one person, so the bodyguard from the trend clip does not come along. Your video is a solo walk through the mansion.
 
@@ -143,7 +143,7 @@ Press "Create your own" and add one clear photo of yourself, waist up or full bo
 
 ### Is it the real Popstar music video house?
 
-No. The first step of the run makes a new one: Nano Banana 2 draws you in a warm, wood-panelled hallway like the one in the Popstar mansion music video, with a champagne bottle in your right hand, from your own photo. Kling 3.0 Motion Control then plays the moves of the trend clip in that hallway. Your own room or background does not show.
+No. The first step of the run makes a new one: Nano Banana 2.1 draws you in a warm, wood-panelled hallway like the one in the Popstar mansion music video, with a champagne bottle in your right hand, from your own photo. Kling 3.0 Motion Control then plays the moves of the trend clip in that hallway. Your own room or background does not show.
 
 ### Does my video have the Popstar bodyguard?
 

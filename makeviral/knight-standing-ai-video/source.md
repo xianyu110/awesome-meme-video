@@ -5,7 +5,7 @@
 Canonical: https://www.makeviral.ai/templates/knight-standing-ai-video
 Updated: 2026-10-13
 Published: 2026-10-08
-Author: İrfan Şener (https://www.makeviral.ai/about)
+Author: MakeViral Team (https://www.makeviral.ai/about)
 Publisher: MakeViral (https://www.makeviral.ai)
 
 The **remember your gym bro AI video** copies the viral tiny knight and giant reel shot by shot. A tiny knight holds a long sword in close-up, then the camera pulls back to reveal a huge figure standing beside it. You need two photos: the tiny knight first (a pet, a child or a friend), then the big one.

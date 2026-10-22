@@ -5,7 +5,7 @@
 Canonical: https://www.makeviral.ai/templates/sawadika-dance-ai-trend
 Updated: 2026-10-16
 Published: 2026-10-16
-Author: İrfan Şener (https://www.makeviral.ai/about)
+Author: MakeViral Team (https://www.makeviral.ai/about)
 Publisher: MakeViral (https://www.makeviral.ai)
 
 The **SaWaDiKa dance** is the TikTok trend to the chorus of LISA's 2026 song "SaWaDiKa": palms pressed together like the Thai greeting, sharp diagonal arm accents, kicks and hip sways. From one photo, MakeViral plays the routine with you in your own place, or puts your cat or dog into the AI cat version of the dance.

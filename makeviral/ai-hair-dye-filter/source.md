@@ -5,7 +5,7 @@
 Canonical: https://www.makeviral.ai/templates/ai-hair-dye-filter
 Updated: 2026-10-17
 Published: 2026-10-17
-Author: İrfan Şener (https://www.makeviral.ai/about)
+Author: MakeViral Team (https://www.makeviral.ai/about)
 Publisher: MakeViral (https://www.makeviral.ai)
 
 The **hair dye filter** is the TikTok trend where an AI template turns one photo into a video of you painting burgundy dye onto your hair from a bowl, then showing off long, sleek burgundy hair, a flat iron and big glossy curls. It took off in October 2026. Here, AI makes it from your photo.
@@ -16,7 +16,7 @@ Also called: AI hair dye effect, AI hair color change effect, hair color transit
 
 **Make it now:** [Make this video](https://www.makeviral.ai/templates/ai-hair-dye-filter/create). 1 photo · 10 s · 9:16 with sound · 126 credits, charged once · ready in a few minutes · no prompt to write.
 
-Keyword: hair dye filter. Also answers: hair dye trend, ai hair dye filter, burgundy hair color, burgundy hair, burgundy hair dye, hair color try on, hair color changer, ai hair color changer, hair color filter, ai hair color change, virtual hair color try on, hair color changer ai, hair color changer online, ai hair color, hair color changing filter, red hair filter, hair color filter app, ai hair filter, what would i look like with red hair, hair color transformation, hair color filter online, tiktok hair dye filter, hair color filter tiktok, ai hair dye, hair dye prank, hair color prank, ai hair color filter, what would i look like with burgundy hair, burgundy hair filter, hair dye filter app, hair dye filter online, cherry red hair filter, ai hair transformation, hair color filter ai, ai hair dye trend, hair dye ai trend, hair dye trend tiktok, burgundy hair dye filter, burgundy hair color filter, maroon hair filter, burgundy red hair filter, wine red hair filter, red hair dye filter, dye my hair burgundy, hair dye filter tiktok, hair dye filter try on, ai hair dye simulator, ai hair dye try on, ai hair dye app, ai hair dye generator, ai hair dye changer, hair dye filter capcut, capcut hair dye template, hair color change template capcut, hair dye filter snapchat, hair dye filter instagram, red hair filter tiktok, ai hair color filter tiktok, red hair dye prank, fake hair dye prank, burgundy hair transformation, hair color change video, ai hair color change video, hair transformation filter, cherry red hair dye trend, how to do the ai hair dye filter, hair dye filter prompt, ai hair color trend, burgundy hair filter tiktok, ai hair color change filter.
+Keyword: hair dye filter. Also answers: hair dye trend, ai hair dye filter, burgundy hair color, burgundy hair, burgundy hair dye, hair color try on, hair color changer, ai hair color changer, hair color filter, ai hair color change, virtual hair color try on, hair color changer ai, hair color changer online, ai hair color, hair color changing filter, red hair filter, hair color filter app, ai hair filter, what would i look like with red hair, hair color transformation, hair color filter online, tiktok hair dye filter, hair color filter tiktok, ai hair dye, hair dye prank, hair color prank, ai hair color filter, what would i look like with burgundy hair, burgundy hair filter, hair dye filter app, hair dye filter online, cherry red hair filter, ai hair transformation, hair color filter ai, ai hair dye trend, hair dye ai trend, hair dye trend tiktok, burgundy hair dye filter, burgundy hair color filter, maroon hair filter, burgundy red hair filter, wine red hair filter, red hair dye filter, dye my hair burgundy, hair dye filter tiktok, hair dye filter try on, ai hair dye simulator, ai hair dye try on, ai hair dye app, ai hair dye generator, ai hair dye changer, hair dye filter capcut, capcut hair dye template, hair color change template capcut, hair dye filter snapchat, hair dye filter instagram, red hair filter tiktok, ai hair color filter tiktok, red hair dye prank, fake hair dye prank, burgundy hair transformation, hair color change video, ai hair color change video, hair transformation filter, cherry red hair dye trend, how to do the ai hair dye filter, hair dye filter prompt, ai hair color trend, burgundy hair filter tiktok, ai hair color change filter, blonde hair filter, what would i look like with blonde hair, black hair filter, what would i look like with black hair, brown hair filter, what would i look like with brown hair, pink hair filter, pink hair color filter.
 
 ## What is the Hair Dye Filter trend, and where did it start?
 
@@ -86,7 +86,7 @@ One-tap version of this variant: https://www.makeviral.ai/templates/ai-hair-dye-
 
 #### Variant: Burgundy photo
 
-Settings: 1 photo (your photo, face and hair in view) · Nano Banana 2 · photo · 2K · 9:16 · 3 credits in one tap.
+Settings: 1 photo (your photo, face and hair in view) · Nano Banana 2.1 · photo · 2K · 9:16 · 3 credits in one tap.
 
 1. Open [AI Photo with this template](https://www.makeviral.ai/photo?template=ai-hair-dye-filter&variant=photo) and add your photo (your photo, face and hair in view). Pick 2K for the same size as the one-tap photo. The photo prompt is filled in:
 
@@ -98,9 +98,79 @@ Settings: 1 photo (your photo, face and hair in view) · Nano Banana 2 · photo 
 
 One-tap version of this variant: https://www.makeviral.ai/templates/ai-hair-dye-filter/create?variant=photo
 
+#### Variant: Blonde photo
+
+Settings: 1 photo (your photo, face and hair in view) · Nano Banana 2.1 · photo · 2K · 9:16 · 3 credits in one tap.
+
+1. Open [AI Photo with this template](https://www.makeviral.ai/photo?template=ai-hair-dye-filter&variant=blonde) and add your photo (your photo, face and hair in view). Pick 2K for the same size as the one-tap photo. The photo prompt is filled in:
+
+   ```text
+   Using the uploaded photo, generate a 9:16 vertical image featuring one hair color applied to the same person: blonde, a bright, warm golden blonde with a lighter, almost platinum shine at the roots and along the parting, glossy and fresh, as if just dyed. Keep the person's face, expression, skin tone, lighting, outfit, and background identical to the original photo: only the hair color should change, with the same hairstyle, length, texture, parting and volume. Ensure the hair color looks realistic and blends naturally with the person's hairstyle, with natural shine and darker depth underneath, on every strand, braid or curl in view, and none on the skin. If the photo is wider, extend the background naturally. Nobody added. No hat, no hair clips, no text, no logos, no watermark, no filter look. The only change is the hair color: the identity rules below apply to the face, the hairstyle and the hair length, and the hair color is the new blonde described above.
+   ```
+
+2. Press Generate, then download the 9:16 image. To make it move, press "Make it a video" on it.
+
+One-tap version of this variant: https://www.makeviral.ai/templates/ai-hair-dye-filter/create?variant=blonde
+
+#### Variant: Red photo
+
+Settings: 1 photo (your photo, face and hair in view) · Nano Banana 2.1 · photo · 2K · 9:16 · 3 credits in one tap.
+
+1. Open [AI Photo with this template](https://www.makeviral.ai/photo?template=ai-hair-dye-filter&variant=red) and add your photo (your photo, face and hair in view). Pick 2K for the same size as the one-tap photo. The photo prompt is filled in:
+
+   ```text
+   Using the uploaded photo, generate a 9:16 vertical image featuring one hair color applied to the same person: red, a vivid, bright true red with a lighter, fiery copper-red shine at the roots and along the parting, glossy and fresh, as if just dyed. Keep the person's face, expression, skin tone, lighting, outfit, and background identical to the original photo: only the hair color should change, with the same hairstyle, length, texture, parting and volume. Ensure the hair color looks realistic and blends naturally with the person's hairstyle, with natural shine and darker depth underneath, on every strand, braid or curl in view, and none on the skin. If the photo is wider, extend the background naturally. Nobody added. No hat, no hair clips, no text, no logos, no watermark, no filter look. The only change is the hair color: the identity rules below apply to the face, the hairstyle and the hair length, and the hair color is the new red described above.
+   ```
+
+2. Press Generate, then download the 9:16 image. To make it move, press "Make it a video" on it.
+
+One-tap version of this variant: https://www.makeviral.ai/templates/ai-hair-dye-filter/create?variant=red
+
+#### Variant: Black photo
+
+Settings: 1 photo (your photo, face and hair in view) · Nano Banana 2.1 · photo · 2K · 9:16 · 3 credits in one tap.
+
+1. Open [AI Photo with this template](https://www.makeviral.ai/photo?template=ai-hair-dye-filter&variant=black) and add your photo (your photo, face and hair in view). Pick 2K for the same size as the one-tap photo. The photo prompt is filled in:
+
+   ```text
+   Using the uploaded photo, generate a 9:16 vertical image featuring one hair color applied to the same person: black, a deep jet black with a cool blue-black shine at the roots and along the parting, glossy and fresh, as if just dyed. Keep the person's face, expression, skin tone, lighting, outfit, and background identical to the original photo: only the hair color should change, with the same hairstyle, length, texture, parting and volume. Ensure the hair color looks realistic and blends naturally with the person's hairstyle, with natural shine and darker depth underneath, on every strand, braid or curl in view, and none on the skin. If the photo is wider, extend the background naturally. Nobody added. No hat, no hair clips, no text, no logos, no watermark, no filter look. The only change is the hair color: the identity rules below apply to the face, the hairstyle and the hair length, and the hair color is the new black described above.
+   ```
+
+2. Press Generate, then download the 9:16 image. To make it move, press "Make it a video" on it.
+
+One-tap version of this variant: https://www.makeviral.ai/templates/ai-hair-dye-filter/create?variant=black
+
+#### Variant: Brown photo
+
+Settings: 1 photo (your photo, face and hair in view) · Nano Banana 2.1 · photo · 2K · 9:16 · 3 credits in one tap.
+
+1. Open [AI Photo with this template](https://www.makeviral.ai/photo?template=ai-hair-dye-filter&variant=brown) and add your photo (your photo, face and hair in view). Pick 2K for the same size as the one-tap photo. The photo prompt is filled in:
+
+   ```text
+   Using the uploaded photo, generate a 9:16 vertical image featuring one hair color applied to the same person: brown, a rich chocolate brown with a lighter, warm caramel-brown shine at the roots and along the parting, glossy and fresh, as if just dyed. Keep the person's face, expression, skin tone, lighting, outfit, and background identical to the original photo: only the hair color should change, with the same hairstyle, length, texture, parting and volume. Ensure the hair color looks realistic and blends naturally with the person's hairstyle, with natural shine and darker depth underneath, on every strand, braid or curl in view, and none on the skin. If the photo is wider, extend the background naturally. Nobody added. No hat, no hair clips, no text, no logos, no watermark, no filter look. The only change is the hair color: the identity rules below apply to the face, the hairstyle and the hair length, and the hair color is the new brown described above.
+   ```
+
+2. Press Generate, then download the 9:16 image. To make it move, press "Make it a video" on it.
+
+One-tap version of this variant: https://www.makeviral.ai/templates/ai-hair-dye-filter/create?variant=brown
+
+#### Variant: Pink photo
+
+Settings: 1 photo (your photo, face and hair in view) · Nano Banana 2.1 · photo · 2K · 9:16 · 3 credits in one tap.
+
+1. Open [AI Photo with this template](https://www.makeviral.ai/photo?template=ai-hair-dye-filter&variant=pink) and add your photo (your photo, face and hair in view). Pick 2K for the same size as the one-tap photo. The photo prompt is filled in:
+
+   ```text
+   Using the uploaded photo, generate a 9:16 vertical image featuring one hair color applied to the same person: pink, a soft pastel pink with a brighter rose-pink shine at the roots and along the parting, glossy and fresh, as if just dyed. Keep the person's face, expression, skin tone, lighting, outfit, and background identical to the original photo: only the hair color should change, with the same hairstyle, length, texture, parting and volume. Ensure the hair color looks realistic and blends naturally with the person's hairstyle, with natural shine and darker depth underneath, on every strand, braid or curl in view, and none on the skin. If the photo is wider, extend the background naturally. Nobody added. No hat, no hair clips, no text, no logos, no watermark, no filter look. The only change is the hair color: the identity rules below apply to the face, the hairstyle and the hair length, and the hair color is the new pink described above.
+   ```
+
+2. Press Generate, then download the 9:16 image. To make it move, press "Make it a video" on it.
+
+One-tap version of this variant: https://www.makeviral.ai/templates/ai-hair-dye-filter/create?variant=pink
+
 ### Which photo works best?
 
-Upload **one photo of one person** with your face and hair in view. It works for both versions.
+Upload **one photo of one person** with your face and hair in view. It works for every version.
 
 - **Face the camera in good light,** from the chest up. No sunglasses and nothing over the face.
 - **Any hair works:** straight, curly, braids, a bun or short hair. The video paints the dye on the hair you have, then gives you long, sleek burgundy hair. The photo keeps your own hairstyle and changes only the color.
@@ -132,7 +202,7 @@ Credits come with a plan; see [pricing](https://www.makeviral.ai/pricing). A fai
 
 **How MakeViral makes it:** your photo goes straight to Seedance 2.5, ByteDance's video model, with no in-between picture, so the face stays close to yours. The clip is vertical, 720p, with its own sound: brush strokes, the flat iron and a light beat, no lyrics.
 
-**Burgundy photo** sends your photo to Nano Banana 2, Google's image model, and changes only the hair color: one 2K vertical picture of you with burgundy hair, in your own hairstyle. It is an AI hair color change, like a filter, that you can use as a hair color try on before a real dye job.
+**Burgundy photo** sends your photo to Nano Banana 2.1, Google's image model, and changes only the hair color: one 2K vertical picture of you with burgundy hair, in your own hairstyle. It is an AI hair color change, like a filter, that you can use as a hair color try on before a real dye job.
 
 The create page shows the exact price on the Generate button before you spend anything, and every run is a new take.
 
@@ -182,7 +252,7 @@ Press "Create your own", pick Dye video or Burgundy photo, add one photo with yo
 
 ### Is this the CapCut hair dye filter?
 
-No. MakeViral has no link to CapCut. The CapCut hair dye template, like every hair color change template in CapCut, is closed. Our Dye video is made by Seedance 2.5 from your photo, with a prompt written from the beats of the trend's clips, and the Burgundy photo by Nano Banana 2.
+No. MakeViral has no link to CapCut. The CapCut hair dye template, like every hair color change template in CapCut, is closed. Our Dye video is made by Seedance 2.5 from your photo, with a prompt written from the beats of the trend's clips, and the Burgundy photo by Nano Banana 2.1.
 
 ### Is there a hair dye filter prompt?
 
@@ -198,7 +268,7 @@ Pick Burgundy photo. It works like an AI hair color changer and a virtual hair c
 
 ### Can I try other colors, like red or cherry red?
 
-This page makes burgundy, the trend's color: a deep wine red, close to maroon. If you wonder what you would look like with red hair in another shade, a cherry red hair filter or a bright red hair filter is a different look: use the AI photo tool and write your own color. A cherry red hair dye trend went around TikTok in September 2026 with another CapCut template.
+Yes. Burgundy photo gives you the trend's color, a deep wine red, close to maroon. Next to it, pick Blonde photo, Red photo, Black photo, Brown photo or Pink photo. Each one changes only the hair color in your photo and keeps your face, your hairstyle and your clothes, so you can see what you would look like with blonde, red, black, brown or pink hair before a real dye job. The Dye video stays burgundy. For a cherry red or another shade, use the AI photo tool and write your own color.
 
 ### Is there a hair dye filter app, or can I use it online?
 

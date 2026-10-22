@@ -5,7 +5,7 @@
 Canonical: https://www.makeviral.ai/templates/fridge-pov-ai-trend
 Updated: 2026-10-20
 Published: 2026-10-19
-Author: İrfan Şener (https://www.makeviral.ai/about)
+Author: MakeViral Team (https://www.makeviral.ai/about)
 Publisher: MakeViral (https://www.makeviral.ai)
 
 The **fridge POV** meme films a midnight snack from inside the fridge: the camera sits on the shelf behind a tray of tiramisu, someone opens the door and eats spoon after spoon straight from the tray, then sneaks back for more. From two photos, MakeViral makes it with two people: a first eater and a second eater.

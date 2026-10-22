@@ -5,7 +5,7 @@
 Canonical: https://www.makeviral.ai/templates/storm-ai-trend
 Updated: 2026-10-13
 Published: 2026-09-30
-Author: İrfan Şener (https://www.makeviral.ai/about)
+Author: MakeViral Team (https://www.makeviral.ai/about)
 Publisher: MakeViral (https://www.makeviral.ai)
 
 The **Storm AI trend** is a short clip where one person in white stands perfectly still in the middle of a crowd in black suits. On a heavy beat the whole crowd clutches their ties, snaps their heads and folds into a deep bow, while the lead never moves. You need one clear photo of yourself.

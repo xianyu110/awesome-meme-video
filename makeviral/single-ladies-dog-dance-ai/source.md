@@ -5,7 +5,7 @@
 Canonical: https://www.makeviral.ai/templates/single-ladies-dog-dance-ai
 Updated: 2026-10-13
 Published: 2026-10-12
-Author: İrfan Şener (https://www.makeviral.ai/about)
+Author: MakeViral Team (https://www.makeviral.ai/about)
 Publisher: MakeViral (https://www.makeviral.ai)
 
 The **Single Ladies dog dance** is the viral AI trend where a pet takes the middle dancer's spot in a trio doing Beyoncé's "Single Ladies" routine in a dark studio. The pet dips, lifts and tosses its head while two backup dancers flip their hair. You need one photo of your pet, and the clip comes with the song.

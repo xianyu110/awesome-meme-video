@@ -1,0 +1,66 @@
+{
+  "source": "makeviral",
+  "source_site": "https://www.makeviral.ai",
+  "slug": "nightwing-costume-ai-trend",
+  "name": "Nightwing Trend AI: Lift the Blue Mask, Then Dance in Costume",
+  "url": "https://www.makeviral.ai/templates/nightwing-costume-ai-trend",
+  "markdown_url": "https://www.makeviral.ai/templates/nightwing-costume-ai-trend.md",
+  "blurb": "The Nightwing trend AI template makes the viral Halloween clip with your face.",
+  "updated": "2026-10-21",
+  "published": "2026-10-21",
+  "credits": 126,
+  "demo_videos": [
+    "https://www.makeviral.ai/media/templates/nightwing-costume-ai-trend/example-v1.mp4"
+  ],
+  "posters": [
+    "https://www.makeviral.ai/media/templates/nightwing-costume-ai-trend/example-v1-input.jpg",
+    "https://www.makeviral.ai/media/templates/nightwing-costume-ai-trend/example-v1-poster.jpg"
+  ],
+  "prompts": [
+    {
+      "label": "1. The video prompt is filled in. Settings: Seedance 2.5, 10 s, 720p, 9:16, sound on. The video prompt",
+      "variant": null,
+      "kind": "video_prompt",
+      "text": "A Halloween costume transformation clip in the style of a viral dance trend, like a real vertical phone video filmed at night. Photorealistic.\n\nThe performer is the person in [Image 1], in every frame: copy the exact face from [Image 1] (the face shape, eye color and eye shape, eyebrows, nose, mouth, skin tone, age, hair color, hair length and hairstyle, and any beard, moustache, glasses or freckles), so their friends recognize them at once. The face stays the same from the first frame to the last, also behind the mask, after the cut and in the costume: never a different person, never morph. If [Image 1] shows an animal, the performer is that animal standing upright on its hind legs, with its own face, fur and markings, not a person.\n\n0-2.5 s, BEFORE: a medium shot from the knees up. The person stands in front of a plain wall washed in soft violet-blue light, with a dark grey stone panel at one side, in the clothes from [Image 1], and looks down at a small blue eye mask in one hand: a plain domino mask that covers only the area around the eyes, with no symbol. They lift it to their eyes with one hand and hold it there for a beat with a cool, serious face; the eyes show through the eye holes.\n2.5-3 s: they flick the mask hand out to the side and the camera whips after it in a fast whip pan with motion blur. This is the only transition.\n3-10 s, AFTER: the same person, with the same face and hair, now wears a matte black long-sleeved bodysuit, like a stunt suit, with one plain, straight royal-blue stripe across the chest, black gloves and black boots, and the small blue eye mask on. The suit is plain: no symbol, no bird shape, no V shape across the shoulders, no emblem, no logo, in a large, dim living room at night lit by purple and magenta LED light, with a dark wooden floor, a low pale sofa along the back wall, open doorways and a sparkly star-shaped ceiling lamp. They dance with two black stick batons with glowing blue light strips, one in each hand. 3-5.5 s, a wide shot: they raise both sticks and cross them behind the head, turn their back to the camera and spin the sticks. 5.5-7.5 s: they turn back and swing the sticks in quick circles at their sides with sharp, confident steps. 7.5-10 s, a close shot from the chest up: they turn the head slowly to look past the camera, then raise both sticks over the shoulders and end on a strong pose looking straight into the lens. The face is large, sharp and well lit in the close shot.\n\nAudio: an upbeat funk dance remix with a heavy bass and a bright, accordion-like synth hook, no words, no singing. Exactly one person, no other people. No text, no subtitles, no logos, no symbols on the clothes, no watermark."
+    },
+    {
+      "label": "1. The video prompt is filled in. Settings: Seedance 2.5, 10 s, 720p, 9:16, sound on. The video prompt",
+      "variant": null,
+      "kind": "video_prompt",
+      "text": "A Halloween costume transformation clip in the style of a viral dance trend, like a real vertical phone video filmed at night. Photorealistic.\n\nThe performer is the person in [Image 1], in every frame: copy the exact face from [Image 1] (the face shape, eye color and eye shape, eyebrows, nose, mouth, skin tone, age, hair color, hair length and hairstyle, and any beard, moustache, glasses or freckles), so their friends recognize them at once. The face stays the same from the first frame to the last, also behind the mask, after the cut and in the costume: never a different person, never morph. If [Image 1] shows an animal, the performer is that animal standing upright on its hind legs, with its own face, fur and markings, not a person.\n\n0-2.5 s, BEFORE: a medium shot from the knees up. The person stands in front of a plain wall washed in soft violet-blue light, with a dark grey stone panel at one side, in the clothes from [Image 1], and looks down at a small blue eye mask in one hand: a plain domino mask that covers only the area around the eyes, with no symbol. They lift it to their eyes with one hand and hold it there for a beat with a cool, serious face; the eyes show through the eye holes.\n2.5-3 s: they flick the mask hand out to the side and the camera whips after it in a fast whip pan with motion blur. This is the only transition.\n3-10 s, AFTER: the same person, with the same face and hair, now wears a lilac velvet fairy dress with short puffed sleeves trimmed in white lace, a high stand-up collar, a pearl necklace and a long, full skirt down to the ankles, sheer iridescent fairy wings on the back and a small gold tiara. The mask is off now, so the whole face shows. A man in [Image 1] stays a man in the dress, with his own face, hair and any beard: that is the joke of the trend, in a large, dim living room at night lit by purple and magenta LED light, with a dark wooden floor, a low pale sofa along the back wall, open doorways and a sparkly star-shaped ceiling lamp. They dance with two long golden wand sticks, one in each hand. 3-5.5 s, a wide shot: they raise both sticks and cross them behind the head, turn their back to the camera and spin the sticks. 5.5-7.5 s: they turn back and swing the sticks in quick circles at their sides with sharp, confident steps. 7.5-10 s, a close shot from the chest up: they turn the head slowly to look past the camera, then raise both sticks over the shoulders and end on a strong pose looking straight into the lens. The face is large, sharp and well lit in the close shot.\n\nAudio: an upbeat funk dance remix with a heavy bass and a bright, accordion-like synth hook, no words, no singing. Exactly one person, no other people. No text, no subtitles, no logos, no symbols on the clothes, no watermark."
+    },
+    {
+      "label": "1. The video prompt is filled in. Settings: Seedance 2.5, 10 s, 720p, 9:16, sound on. The video prompt",
+      "variant": null,
+      "kind": "video_prompt",
+      "text": "A Halloween costume transformation clip in the style of a viral dance trend, like a real vertical phone video filmed at night. Photorealistic.\n\nThe performer is the person in [Image 1], in every frame: copy the exact face from [Image 1] (the face shape, eye color and eye shape, eyebrows, nose, mouth, skin tone, age, hair color, hair length and hairstyle, and any beard, moustache, glasses or freckles), so their friends recognize them at once. The face stays the same from the first frame to the last, also behind the mask, after the cut and in the costume: never a different person, never morph. If [Image 1] shows an animal, the performer is that animal standing upright on its hind legs, with its own face, fur and markings, not a person.\n\n0-2.5 s, BEFORE: a medium shot from the knees up. The person stands in front of a plain wall washed in soft violet-blue light, with a dark grey stone panel at one side, in the clothes from [Image 1], and looks down at a small blue eye mask in one hand: a plain domino mask that covers only the area around the eyes, with no symbol. They lift it to their eyes with one hand and hold it there for a beat with a cool, serious face; the eyes show through the eye holes.\n2.5-3 s: they flick the mask hand out to the side and the camera whips after it in a fast whip pan with motion blur. This is the only transition.\n3-10 s, AFTER: the same person, with the same face and hair, now wears a classic black maid dress with short puffed sleeves, a white collar with a small black bow, a long skirt that falls below the knee, a long white apron tied with a big bow at the back, white wrist cuffs and a frilly white headband: a modest, playful Halloween costume. The mask is off now, so the whole face shows. A man in [Image 1] stays a man in the dress, with his own face, hair and any beard: that is the joke of the trend, in a large, dim living room at night lit by purple and magenta LED light, with a dark wooden floor, a low pale sofa along the back wall, open doorways and a sparkly star-shaped ceiling lamp. They dance with two black stick batons with glowing blue light strips, one in each hand. 3-5.5 s, a wide shot: they raise both sticks and cross them behind the head, turn their back to the camera and spin the sticks. 5.5-7.5 s: they turn back and swing the sticks in quick circles at their sides with sharp, confident steps. 7.5-10 s, a close shot from the chest up: they turn the head slowly to look past the camera, then raise both sticks over the shoulders and end on a strong pose looking straight into the lens. The face is large, sharp and well lit in the close shot.\n\nAudio: an upbeat funk dance remix with a heavy bass and a bright, accordion-like synth hook, no words, no singing. Exactly one person, no other people. No text, no subtitles, no logos, no symbols on the clothes, no watermark."
+    },
+    {
+      "label": "1. Open [AI Photo with this template](https://www.makeviral.ai/photo?template=nightwing-costume-ai-trend&variant=pet) and add your photo (your pet, whole body). The photo prompt is filled in",
+      "variant": "Pet",
+      "kind": "photo_prompt",
+      "text": "Use the uploaded image as the base. 9:16 vertical photo, like a real phone photo at night, taken from low down at the height of the pet. The pet from the uploaded image stands upright on its two hind legs in front of a plain wall washed in soft violet-blue light, with a dark grey stone panel at one side, facing the camera, its whole body in view, from the ears to the hind paws, with its tail. It holds a small plain blue eye mask (a domino mask with no symbol) in one front paw, low in front of its chest, and looks into the lens with a cool, serious face. Realistic photo with natural fur and natural colors. Exactly one animal and no people. No clothes on the pet. No text, no logos, no watermark."
+    },
+    {
+      "label": "3. Press the film button on the still to open AI Video with the still as the first frame. Settings: Kling 3.0, 10 s, 1080p, 9:16, sound on. The video prompt",
+      "variant": null,
+      "kind": "video_prompt",
+      "text": "A Halloween costume clip with one fast whip pan, like a real vertical phone video filmed at night. Keep the animal's face, eyes, ears, fur colors, markings, tail and size exactly as in the image, in every frame.\n0-2.5 s: the pet stands upright on its hind legs in front of the violet wall, lifts the small blue eye mask to its eyes with one front paw and holds it there with a cool face.\n2.5-3 s: it flicks the paw out to the side and the camera whips after it in a fast blur. This is the only transition.\n3-10 s: the same pet, still upright on its hind legs, in a large, dim living room at night lit by purple and magenta LED light, with a dark wooden floor, a low pale sofa along the back wall, open doorways and a sparkly star-shaped ceiling lamp, now wears a little matte black bodysuit with one plain, straight royal-blue stripe across the chest and the blue eye mask, and dances with two short black sticks with glowing blue tips: it crosses them over its head, wiggles its hips, spins them at its sides and ends on a proud pose looking into the lens. Its head, ears, paws and tail keep their own fur colors and markings, with the natural body volume of that animal.\nAudio: an upbeat funk dance remix with a heavy bass and a bright, accordion-like synth hook, no words, no singing. Exactly one animal, no people. The suit is plain: no symbol, no bird shape, no V shape, no emblem. No extra legs, no morphing. No text, no subtitles, no logos, no watermark."
+    }
+  ],
+  "variant_headings": [
+    "What the Nightwing Trend AI video looks like",
+    "How to make the Nightwing Trend AI video on MakeViral",
+    "Which photo works best?",
+    "What happens in the Nightwing trend video, second by second?",
+    "Hero suit, Fairy, Maid or Pet: which one?",
+    "How should you post your Nightwing trend video?",
+    "Is this a Nightwing AI video generator?",
+    "How long is the video, and does it cost credits?",
+    "Is the video real?",
+    "Other AI video templates and tools",
+    "Make your own Nightwing Trend AI video"
+  ],
+  "prompt_count": 5,
+  "scraped_at": "2026-10-22"
+}

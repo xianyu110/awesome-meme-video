@@ -5,7 +5,7 @@
 Canonical: https://www.makeviral.ai/templates/toesa-quit-job-ai-trend
 Updated: 2026-10-19
 Published: 2026-10-19
-Author: İrfan Şener (https://www.makeviral.ai/about)
+Author: MakeViral Team (https://www.makeviral.ai/about)
 Publisher: MakeViral (https://www.makeviral.ai)
 
 **I'm gonna TOESA** (퇴사할게여, "I'm going to quit my job") is SOYEON's office-worker anthem and one of Korea's biggest songs of autumn 2026. On TikTok it became an AI trend: people put themselves on the song's music-show stage, "나도 데뷔했어요" ("I debuted too"). From one photo, MakeViral gives you that stage debut, or your own last day at work.

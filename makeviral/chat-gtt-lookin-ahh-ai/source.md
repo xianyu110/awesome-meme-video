@@ -5,7 +5,7 @@
 Canonical: https://www.makeviral.ai/templates/chat-gtt-lookin-ahh-ai
 Updated: 2026-10-15
 Published: 2026-10-15
-Author: İrfan Şener (https://www.makeviral.ai/about)
+Author: MakeViral Team (https://www.makeviral.ai/about)
 Publisher: MakeViral (https://www.makeviral.ai)
 
 **Chat GTT lookin' ahh** is the viral card declined meme: a customer on a phone call hears the cashier repeat "the card declined" in a flat robot voice, snaps "I heard you the first time, bro" and calls the cashier "Chat GTT lookin' ahh". Add one photo, and you or your pet play the customer.

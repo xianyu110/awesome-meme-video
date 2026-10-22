@@ -5,7 +5,7 @@
 Canonical: https://www.makeviral.ai/templates/ai-barn-find-truck-trend
 Updated: 2026-10-15
 Published: 2026-10-14
-Author: İrfan Şener (https://www.makeviral.ai/about)
+Author: MakeViral Team (https://www.makeviral.ai/about)
 Publisher: MakeViral (https://www.makeviral.ai)
 
 The **barn find AI trend** turns a photo of your truck, car or bike into the dusty barn find your kids will stumble on in 20 years: thick dust, spiderwebs and flat tires in an old wooden barn. People post it as "What my kids are gonna find in the barn in 20 years". You need one photo.
@@ -54,16 +54,16 @@ Everything runs in the browser. No editing app, no watermark.
 ### The one-tap way (no prompt to write)
 
 1. **Add your photo.** Press "Make yours" and add your truck or car, the whole vehicle. Take it with the camera or pick it from your library. Start here: https://www.makeviral.ai/templates/ai-barn-find-truck-trend/create
-2. **Press Generate.** The button shows the price. Nano Banana 2 puts your photo into the Barn find scene and makes one 2K photo. You write no prompt.
+2. **Press Generate.** The button shows the price. Nano Banana 2.1 puts your photo into the Barn find scene and makes one 2K photo. You write no prompt.
 3. **Download or share.** The photo is ready in a few minutes as a 9:16 2K image. Download it, share it from your phone, turn it into a video, or find it later in your Library.
 
 ### The by-hand way, with the exact prompts
 
-The one-tap flow runs this prompt for you. The photo prompt puts your photo into the scene (Nano Banana 2, image mode, 9:16, 2K). To change it, copy it and edit it in AI Photo.
+The one-tap flow runs this prompt for you. The photo prompt puts your photo into the scene (Nano Banana 2.1, image mode, 9:16, 2K). To change it, copy it and edit it in AI Photo.
 
 #### Variant: Truck or car
 
-Settings: 1 photo (your truck or car, the whole vehicle) · Nano Banana 2 · photo · 2K · 9:16 · 3 credits in one tap.
+Settings: 1 photo (your truck or car, the whole vehicle) · Nano Banana 2.1 · photo · 2K · 9:16 · 3 credits in one tap.
 
 1. Open [AI Photo with this template](https://www.makeviral.ai/photo?template=ai-barn-find-truck-trend) and add your photo (your truck or car, the whole vehicle). Pick 2K for the same size as the one-tap photo. The photo prompt is filled in:
 
@@ -77,7 +77,7 @@ One-tap version of this variant: https://www.makeviral.ai/templates/ai-barn-find
 
 #### Variant: Bike
 
-Settings: 1 photo (your bike, the whole bike) · Nano Banana 2 · photo · 2K · 9:16 · 3 credits in one tap.
+Settings: 1 photo (your bike, the whole bike) · Nano Banana 2.1 · photo · 2K · 9:16 · 3 credits in one tap.
 
 1. Open [AI Photo with this template](https://www.makeviral.ai/photo?template=ai-barn-find-truck-trend&variant=bike) and add your photo (your bike, the whole bike). Pick 2K for the same size as the one-tap photo. The photo prompt is filled in:
 
@@ -126,8 +126,8 @@ You pay per photo in credits, and the create page shows the exact price on the G
 
 | Model | Settings | Credits |
 | --- | --- | --- |
-| Nano Banana 2 (this template) | 2K photo, 9:16, one tap | 3 |
-| Nano Banana 2 (by hand in AI Photo) | 1K photo, 9:16, same prompt | 2 |
+| Nano Banana 2.1 (this template) | 2K photo, 9:16, one tap | 3 |
+| Nano Banana 2.1 (by hand in AI Photo) | 1K photo, 9:16, same prompt | 2 |
 
 Credits come with a plan; see [pricing](https://www.makeviral.ai/pricing). A failed photo gives its credits back.
 
@@ -146,7 +146,7 @@ The trend works because the vehicle is clearly yours, just 20 years older. The c
 
 It leaves out people, badges, emblems and the number plate.
 
-**How MakeViral makes it:** your photo goes to Nano Banana 2, Google's image model. The prompt starts with the words a creator of the first wave shared for his ChatGPT version, "put my truck in an old barn with spiderwebs", then adds the barn find scene and the look of the trend's most viewed pictures. You get one 2K vertical picture (9:16) with no text and no watermark. The create page shows the exact price on the Generate button, and every run ages your vehicle a little differently.
+**How MakeViral makes it:** your photo goes to Nano Banana 2.1, Google's image model. The prompt starts with the words a creator of the first wave shared for his ChatGPT version, "put my truck in an old barn with spiderwebs", then adds the barn find scene and the look of the trend's most viewed pictures. You get one 2K vertical picture (9:16) with no text and no watermark. The create page shows the exact price on the Generate button, and every run ages your vehicle a little differently.
 
 ## Truck or car, Bike or Video: which version should you pick?
 

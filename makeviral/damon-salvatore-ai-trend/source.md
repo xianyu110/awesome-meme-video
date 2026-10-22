@@ -5,7 +5,7 @@
 Canonical: https://www.makeviral.ai/templates/damon-salvatore-ai-trend
 Updated: 2026-10-17
 Published: 2026-10-17
-Author: İrfan Şener (https://www.makeviral.ai/about)
+Author: MakeViral Team (https://www.makeviral.ai/about)
 Publisher: MakeViral (https://www.makeviral.ai)
 
 The **Damon Salvatore AI** trend puts your face on Damon Salvatore in his best-known scenes. Church: you walk into a church as the guests in the pews turn, make a lazy sign of the cross and smirk. Smirk: you grin in a dim room, then cut through his night, car and kitchen moments. You need one photo.

@@ -5,7 +5,7 @@
 Canonical: https://www.makeviral.ai/templates/ai-plane-over-head-trend
 Updated: 2026-10-15
 Published: 2026-10-13
-Author: İrfan Şener (https://www.makeviral.ai/about)
+Author: MakeViral Team (https://www.makeviral.ai/about)
 Publisher: MakeViral (https://www.makeviral.ai)
 
 The **airplane flying over head** AI trend turns one photo into a short clip where a huge airliner glides so low over you that its belly, engines and wheels fill the sky, while you sit at an airport viewing deck at sunset and wave up at it. You need one clear photo of yourself or your pet.
@@ -53,7 +53,7 @@ Everything runs in the browser. No editing app, no watermark.
 
 ### The by-hand way, with the exact prompts
 
-The one-tap flow runs these prompts for you. A photo prompt puts your photo into the scene (Nano Banana 2, image mode, 9:16, 1K), then a video prompt animates that still. To change them, copy them and edit them in AI Photo and AI Video.
+The one-tap flow runs these prompts for you. A photo prompt puts your photo into the scene (Nano Banana 2.1, image mode, 9:16, 1K), then a video prompt animates that still. To change them, copy them and edit them in AI Photo and AI Video.
 
 #### Variant: Human
 
@@ -139,7 +139,7 @@ The sound is the scene itself: a deep jet roar that peaks as the plane passes, r
 
 Both versions work in two steps:
 
-1. **The still.** Nano Banana 2 puts you or your pet at the airport viewing deck at dusk, with a low airliner overhead. It uses the description of Dreamina's "Sunset-Aviation" skill, word for word, plus a line that keeps your face and a ban on airline names and logos.
+1. **The still.** Nano Banana 2.1 puts you or your pet at the airport viewing deck at dusk, with a low airliner overhead. It uses the description of Dreamina's "Sunset-Aviation" skill, word for word, plus a line that keeps your face and a ban on airline names and logos.
 2. **The video.** A video model plays the 8-second flyover from that still, with its own sound.
 
 | | Standard (default) | Best |

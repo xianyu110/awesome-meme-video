@@ -3,9 +3,9 @@
 > The bby wow guy is the man in the viral quince party clip: he dances toward the phone, takes a bite of a concha, stares into the camera with puffed cheeks and dances off into the crowd.
 
 Canonical: https://www.makeviral.ai/templates/bby-wow-guy-ai-trend
-Updated: 2026-10-20
+Updated: 2026-10-21
 Published: 2026-10-18
-Author: İrfan Şener (https://www.makeviral.ai/about)
+Author: MakeViral Team (https://www.makeviral.ai/about)
 Publisher: MakeViral (https://www.makeviral.ai)
 
 The **bby wow guy** is the man in the viral quince party clip: he dances toward the phone, takes a bite of a concha, stares into the camera with puffed cheeks and dances off into the crowd. In October 2026 the clip came back with the song "BbY WOW", and the bby wow guy dance became a meme of its own. From one photo, MakeViral puts you in his place in the same party hall, shot for shot.
@@ -16,7 +16,7 @@ Also called: Guy dancing at a quince meme, El de la Mirada Preñadora, Eve el Ch
 
 **Make it now:** [Make this video](https://www.makeviral.ai/templates/bby-wow-guy-ai-trend/create). 1 photo · 10 s · 9:16 with sound · 152 credits, charged once · ready in up to several minutes · no prompt to write.
 
-Keyword: bby wow guy. Also answers: bby wow guy dance, bby wow meme, bby wow guy meme, guy dancing at a quince, concha meme, bby wow guy dance trend, bby wow guy trend, baby wow meme, mirada preñadora, eve ramirez, guy dancing at quince meme, guy dancing at quinceanera eating concha meme, pan dulce meme, el chico de la mirada preñadora, la mirada preñadora, bby wow guy ai, guy dancing at a quince ai, bby wow guy template, bby wow guy green screen, baby wow guy dance eating, guy dancing at a quince original, bby wow guy original, dime dime baby meme, dime dime baby ai, dime dime baby ai trend, dime dime baby ai dance, dime dime baby ai video, dime dime baby ai tutorial, dime dime baby trend, baile dime dime baby, dime dime baby photo to video, quince meme, concha bread meme, guy eating bread meme, mirada preñadora meme, quien es el de la mirada preñadora, de donde es el de la mirada preñadora, baby wow guy name, guy dancing at a quince staring at camera, quinceanera dancing guy ai trend, meme quinceañera, dancing guy meme, guy dancing to oh wow karol g, video de la mirada preñadora, el cholo de muzquiz, el chavo viral de la concha, la mirada especial, meme pan dulce, meme concha, meme del pan dulce, el del pan, bby wow dancing guy, baby wow guy, el chico que baila baby wow.
+Keyword: bby wow guy. Also answers: bby wow guy dance, bby wow meme, bby wow guy meme, guy dancing at a quince, concha meme, bby wow guy dance trend, bby wow guy trend, baby wow meme, mirada preñadora, eve ramirez, guy dancing at quince meme, guy dancing at quinceanera eating concha meme, pan dulce meme, el chico de la mirada preñadora, la mirada preñadora, bby wow guy ai, guy dancing at a quince ai, bby wow guy template, bby wow guy green screen, baby wow guy dance eating, guy dancing at a quince original, bby wow guy original, dime dime baby meme, dime dime baby ai, dime dime baby ai trend, dime dime baby ai dance, dime dime baby ai video, dime dime baby ai tutorial, dime dime baby trend, baile dime dime baby, dime dime baby photo to video, quince meme, concha bread meme, guy eating bread meme, mirada preñadora meme, quien es el de la mirada preñadora, de donde es el de la mirada preñadora, baby wow guy name, guy dancing at a quince staring at camera, quinceanera dancing guy ai trend, meme quinceañera, dancing guy meme, guy dancing to oh wow karol g, video de la mirada preñadora, el cholo de muzquiz, el chavo viral de la concha, la mirada especial, meme pan dulce, meme concha, meme del pan dulce, el del pan, bby wow dancing guy, baby wow guy, el chico que baila baby wow, bby wow guy dancing and eating, dime dime baby dance tutorial, dime dime baby viral dance ai, dime dime baby original video ai, dime dime baby dance trend, bby wow trend capcut template, dime dime baby con ia, dime dime baby dog, dime dime baby perro, dime dime baby cat, dime dime baby gato, dime dime baby ai baby, tendencia dime dime baby.
 
 ## What is the Bby Wow Guy trend, and where did it start?
 
@@ -54,7 +54,7 @@ Everything runs in the browser. No editing app, no watermark.
 
 ### The one-tap way (no prompt to write)
 
-1. **Add your photo.** Press "Make yours" and add your photo, face clear. Take it with the camera or pick it from your library. Start here: https://www.makeviral.ai/templates/bby-wow-guy-ai-trend/create
+1. **Add your photo.** Press "Make yours" and add you, waist up, face clear. Take it with the camera or pick it from your library. Start here: https://www.makeviral.ai/templates/bby-wow-guy-ai-trend/create
 2. **Press Generate.** The button shows the price. Seedance 2.5 puts your photos into the BbY WOW guy meme trend clip and copies it shot by shot for 10 seconds, with the reel's original song. You write no prompt.
 3. **Download or share.** The video is ready in up to several minutes as a 9:16 MP4. Download it, share it from your phone, or find it later in your Library.
 
@@ -62,14 +62,16 @@ Everything runs in the browser. No editing app, no watermark.
 
 The one-tap flow runs this prompt for you. The video prompt animates your own photo directly. To change it, copy it and edit it in AI Video.
 
-Settings: 1 photo (your photo, face clear) · Seedance 2.5 · 10 s · 720p · 9:16 · no sound · 152 credits in one tap.
+#### Variant: Human
+
+Settings: 1 photo (you, waist up, face clear) · Seedance 2.5 · 10 s · 720p · 9:16 · no sound · 152 credits in one tap.
 
 1. The video prompt is filled in. Settings: Seedance 2.5, 10 s, 720p, 9:16, sound off. The video prompt:
 
    ```text
    Recreate the reference video [Video 1] shot for shot: the same quinceañera party hall at night with purple, pink and green party lights, white curtains, flower centerpieces, gold chairs, a photo light on a stand and guests in party dresses and shirts, the same handheld phone camera, the same vertical framing, timing and moves. The ONLY change: the young man with the short dark hair and the silver chain who dances toward the camera, bites a small sweet bread, stares into the lens with full cheeks and dances away is now the person in [Image 1].
 
-The party guest = the person in [Image 1], in EVERY shot: copy the exact face from [Image 1] - face shape, eye color and eye shape, eyebrows, nose, mouth, skin tone, age, hair color, hair length and hairstyle, and any beard, moustache, glasses or freckles exactly as in the photo. The party guest wears the clothes from [Image 1]; if [Image 1] shows only the head or the upper body, a plain white oversized T-shirt with no print and loose black pants. The same real person in every frame, from the first second to the last, so their friends instantly recognize them, also in the big close-up while they chew. When only the back of the head shows, it has the hair from [Image 1]. Never morph, never drift back to the original young man's face. NO letters, NO horse print and NO cross print on the T-shirt, front or back, NO text or logo on any clothes, and NO silver chain unless [Image 1] shows them. If [Image 1] shows an animal, the party guest is that animal standing upright, with its own face, fur and markings and the natural body volume and proportions of that animal: never flattened, squashed, stretched or merged with anything.
+The party guest = the person in [Image 1], in EVERY shot: copy the exact face from [Image 1] - face shape, eye color and eye shape, eyebrows, nose, mouth, skin tone, age, hair color, hair length and hairstyle, and any beard, moustache, glasses or freckles exactly as in the photo. The party guest wears exactly the clothes from [Image 1] in every shot: the same top with the same color, pattern and print, the same jacket, shirt or dress, front and back. NEVER the white T-shirt or the loose black pants of the young man in the video unless [Image 1] shows them. If [Image 1] does not show the legs, plain trousers that go with that top. The same real person in every frame, from the first second to the last, so their friends instantly recognize them, also in the big close-up while they chew. When only the back of the head shows, it has the hair from [Image 1]. Never morph, never drift back to the original young man's face or clothes. NO DAKITI letters, NO horse print, NO cross print and NO silver chain unless [Image 1] shows them. If [Image 1] shows an animal, the party guest is that animal standing upright, with its own face, fur and markings and the natural body volume and proportions of that animal: never flattened, squashed, stretched or merged with anything.
 
 The party guest copies the young man's moves and face second by second:
 0-2.5 s: dances in from the left toward the camera with loose, bouncy steps, shoulders swaying to the beat, between the guests.
@@ -84,13 +86,66 @@ The other guests stay as they are in the video, small and soft in the background
 
 One-tap version of this variant: https://www.makeviral.ai/templates/bby-wow-guy-ai-trend/create
 
+#### Variant: Baby
+
+Settings: 1 photo (your baby, face clear) · Seedance 2.5 · 10 s · 720p · 9:16 · with sound · 126 credits in one tap.
+
+1. The video prompt is filled in. Settings: Seedance 2.5, 10 s, 720p, 9:16, sound on. The video prompt:
+
+   ```text
+   A funny party clip in one continuous handheld shot with no cuts, like a real phone video filmed at night. Photorealistic. The camera is held low, at the baby's eye level, and follows the baby with a slight sway in a vertical frame, so the baby's face stays large and sharp.
+
+The baby is the one in [Image 1], in every frame: copy the exact face from [Image 1] (the face shape, eye color and eye shape, eyebrows, nose, mouth, cheeks, skin tone, hair color, hair length and hairstyle) and the clothes from [Image 1]. Keep the same baby at the same age: a boy stays a boy and a girl stays a girl, with the same hair length, never an older child. The baby keeps real baby anatomy: a small chubby body, a big round head, short arms and legs and small baby hands, never an adult body. The face stays the same from the first frame to the last, so the family recognizes the baby at once. If [Image 1] shows an animal, the dancer is that animal instead, with its own face, fur and markings. If [Image 1] shows an adult, that adult does the same moves with their own body.
+
+The place: a quinceañera party hall at night with purple, pink and green party lights, white curtains, flower centerpieces on round tables, gold chairs and grown-up guests in party dresses and shirts dancing, soft and out of focus behind the baby. The baby is the only child: every guest is a grown-up, seen mostly from the waist down at this low camera height, and no guest has the face from [Image 1].
+
+Second by second:
+0-2.5 s: the baby toddles in from the left toward the camera with wobbly, bouncy little steps, shoulders swaying to the beat, between the guests.
+2.5-4 s: close to the camera, lifts a small round sweet bread with a pink sugar shell to the mouth with both hands and takes a big bite.
+4-7 s: big close-up: chews with puffed cheeks, eyes wide, staring straight into the lens, dead serious.
+7-10 s: still chewing, turns around and toddles away into the crowd with the back to the camera, one little hand up, bopping to the beat.
+
+Audio: loud, upbeat Latin party music with a reggaeton beat, party chatter and soft chewing sounds. No dialogue. One baby, one sweet bread, no extra limbs, no morphing. No text, no captions, no emojis, no logos, no watermark.
+   ```
+
+2. Press Generate, then download the 9:16 MP4.
+
+One-tap version of this variant: https://www.makeviral.ai/templates/bby-wow-guy-ai-trend/create?variant=baby
+
+#### Variant: Pet
+
+Settings: 1 photo (your pet, whole body) · Kling 3.0 · 10 s · 1080p · 9:16 · with sound · 56 credits in one tap.
+
+1. Open [AI Photo with this template](https://www.makeviral.ai/photo?template=bby-wow-guy-ai-trend&variant=pet) and add your photo (your pet, whole body). The photo prompt is filled in:
+
+   ```text
+   Use the uploaded image as the base. 9:16 vertical photo, like a real phone photo taken from low down, at the pet's eye level, at a party at night. The pet from the uploaded image stands on the shiny dance floor of a quinceañera party hall at night with purple, pink and green party lights, white curtains, flower centerpieces on round tables, gold chairs and grown-up guests in party dresses and shirts dancing; the guests are soft and out of focus, seen mostly from the waist down at this low height. The pet stands a few steps from the camera, facing the camera, with a small round sweet bread with a pink sugar shell held gently in its mouth, ears up, looking into the lens with a cool, serious face. Its whole body is in view, with its tail, and purple and pink party light falls on its fur. Realistic photo with natural colors and a soft, shallow depth of field. Exactly one animal. No clothes on the pet. No text, no logos, no watermark.
+   ```
+
+2. Check the still before you spend credits on the video. Everything the video model does starts from that one frame.
+3. Press the film button on the still to open AI Video with the still as the first frame. Settings: Kling 3.0, 10 s, 1080p, 9:16, sound on. The video prompt:
+
+   ```text
+   One continuous handheld shot with no cuts, like a real phone video filmed from low down at a quinceañera party at night. Keep the animal's face, fur, markings and size, the sweet bread, the purple and pink party lights and the dancing guests exactly as in the image.
+0-2.5 s: the pet trots toward the camera across the dance floor with the sweet bread in its mouth, bouncing to the beat, its head bobbing.
+2.5-4 s: it stops right in front of the lens, sits down and chomps a big bite off the sweet bread.
+4-7 s: big close-up: it chews with puffed cheeks, eyes wide, staring straight into the lens, dead serious.
+7-10 s: still chewing, it turns around and wiggles away into the crowd, tail up, hips swinging to the beat, its back to the camera. The back of the pet has the same fur colors and markings as in the image.
+The camera stays low and follows it with a slight sway. Audio: loud, upbeat Latin party music with a reggaeton beat, party chatter and soft chewing sounds. The pet never speaks. Exactly one animal, on four legs, no extra legs, no human hands, one sweet bread, no morphing. No text, no subtitles, no logos, no watermark.
+   ```
+
+4. Press Generate, then download the 9:16 MP4.
+
+One-tap version of this variant: https://www.makeviral.ai/templates/bby-wow-guy-ai-trend/create?variant=pet
+
 ### Which photo works best?
 
 You need **one photo** of yourself.
 
 - A sharp photo where your face is big and clear (head and shoulders is enough), turned to the camera, in good light, with no sunglasses.
 - Your face goes into the big close-up of the clip, so a close photo works best.
-- Use a photo of yourself or of an adult who agreed. Never a child, a celebrity or a stranger.
+- Use a photo of yourself or of an adult who agreed. Never a celebrity or a stranger.
+- **Baby or Pet tab:** one photo of your own baby or toddler, or of your pet with the whole body in view.
 
 ## How many credits does it cost?
 
@@ -113,7 +168,7 @@ Credits come with a plan; see [pricing](https://www.makeviral.ai/pricing). A fai
 
 Seedance 2.5 puts you into the party clip itself, shot for shot, at 720p: the same hall, the purple and pink lights, the guests and the moving phone camera. The other guests stay in the background. Both come with the song, put back on after the run, and you can turn it off on the result screen. Press "Create your own", pick the frame and add your photo; the exact price shows on the Generate button before you spend anything. A run can take several minutes, and every run is a new take, so results differ.
 
-In our example run, the man got the plain white T-shirt of the clip, not the shirt from his photo. The prompt bans the print, the letters and the chain of the original, so they do not come back.
+In our example run, made before a prompt fix on 21 October, the man got the plain white T-shirt of the clip. Now the prompt keeps the clothes from your photo. It also bans the print, the letters and the chain of the original, so they do not come back.
 
 ## Who is the bby wow guy, and what does "la mirada preñadora" mean?
 
@@ -153,7 +208,7 @@ Your clip comes with the BbY WOW sound of the clip it copies, so it is ready to 
 |---|---|
 | The face looks less like you | Use a sharp photo with your face big, turned to the camera and in good light, then run it again. |
 | A print, letters or a chain show up on the shirt | The man in the clip wears them. The prompt bans them unless your photo shows them; run it again. |
-| You get a white T-shirt, not your own shirt | The clip's plain white T-shirt sometimes wins over the shirt in your photo. A photo that shows more of your outfit helps. |
+| You get a white T-shirt, not your own shirt | The prompt keeps the clothes from your photo, but now and then the clip's white T-shirt still wins. A waist-up photo that shows your top helps; run it again. |
 | A guest gets your face | Rare: run it again with a photo where only you are in view. |
 | The mouth moves, but not to the words | The video copies the moves and the face of the clip, not the lyrics, so there is no exact lip sync. |
 | The video model refuses the photo | Some photos get refused. The credits come back; try another photo. |
@@ -194,7 +249,11 @@ Yes, if your friend is an adult and agrees. Use one clear photo of their face. I
 
 ### Can I use my pet?
 
-This page is made for people. Add a pet photo and the video model may show the pet standing upright in the party, but the faces and the bite are made for a person, so results vary a lot.
+Yes. Pick the Pet tab and add one photo of your dog or cat with the whole body in view. Your pet trots up across the party dance floor with a sweet bread in its mouth, sits, chews with full cheeks while it stares into the camera, then wiggles off. The Pet tab makes the party scene from your photo, so it comes with a party beat; add the BbY WOW sound when you post.
+
+### Can I make the bby wow guy video with my baby?
+
+Yes, with the Baby tab. Add one photo of your own baby or toddler, face clear. The baby toddles up at a quince party at night, bites a sweet bread with both hands, chews and stares into the camera, then toddles away. Use only a photo of your own child, or of a child whose parent or guardian asked you to. The video goes to your Library, not to a public feed.
 
 ### Which AI model makes the video?
 

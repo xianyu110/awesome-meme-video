@@ -5,7 +5,7 @@
 Canonical: https://www.makeviral.ai/templates/devil-wears-prada-ai-trend
 Updated: 2026-10-18
 Published: 2026-10-18
-Author: İrfan Şener (https://www.makeviral.ai/about)
+Author: MakeViral Team (https://www.makeviral.ai/about)
 Publisher: MakeViral (https://www.makeviral.ai)
 
 The **Devil Wears Prada trend** is a two-part lip-sync to the "Prada Prada Prada" sound. First you lip-sync at home, play with your hair and make devil horns. On the beat the picture closes in from both sides, then a hard cut puts you on a windy night street in a black leather jacket. Here AI makes your version from one photo.

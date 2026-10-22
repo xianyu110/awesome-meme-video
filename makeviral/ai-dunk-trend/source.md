@@ -3,20 +3,20 @@
 > The AI dunk trend turns one photo into a pro basketball moment: you, in your everyday clothes, dribble down the court of a packed night game, slam the ball home with one hand and scream at the camera.
 
 Canonical: https://www.makeviral.ai/templates/ai-dunk-trend
-Updated: 2026-10-17
+Updated: 2026-10-21
 Published: 2026-10-15
-Author: İrfan Şener (https://www.makeviral.ai/about)
+Author: MakeViral Team (https://www.makeviral.ai/about)
 Publisher: MakeViral (https://www.makeviral.ai)
 
-The **AI dunk** trend turns one photo into a pro basketball moment: you, in your everyday clothes, dribble down the court of a packed night game, slam the ball home with one hand and scream at the camera. In the mascot version you jump over a green furry mascot to dunk. Two newer scenes add a pickup game crossover that ends in a fall and a slow-motion alley-oop dunk. You need one photo.
+The **AI dunk** trend turns one photo into a pro basketball moment: you, in your everyday clothes, dribble down the court of a packed night game, slam the ball home with one hand and scream at the camera. In the mascot version you jump over a green furry mascot to dunk. Two newer scenes add a pickup game crossover that ends in a fall and a slow-motion alley-oop dunk. You need one photo, or two to dunk on a friend.
 
-Add one photo. AI puts you on the court in your own clothes: dunk in a packed night game and scream at the camera, jump over a green furry mascot, cross up a pickup game, or catch an alley-oop in slow motion.
+Add one photo. AI puts you on the court in your own clothes: dunk in a packed night game and scream at the camera, jump over a green furry mascot, cross up a pickup game, or catch an alley-oop in slow motion. Add a friend's photo too, and you dunk right over them.
 
 Also called: Court dunk trend, Mascot dunk courtside, NBA court dunk, Dunking AI video, Basketball meme dunk trend, Pickup game crossover dunk, Walk-on alley-oop.
 
 **Make it now:** [Make this video](https://www.makeviral.ai/templates/ai-dunk-trend/create). 1 photo · 10 s · 9:16 with sound · 126 credits, charged once · ready in a few minutes · no prompt to write.
 
-Keyword: ai dunk. Also answers: basketball dunk meme, alley oop dunk, alley oop slam dunk, basketball meme dunk, ai basketball meme, ai dunking, ai dunk trend, ai dunking meme, ai basketball video, ai basketball trend, mascot dunk, ai slam dunk, ai dunk video, ai basketball video generator, ai dunk contest, ai basketball trend prompt, dunk over mascot, nba mascot dunk, mascot slam dunk, slow motion dunk, ai generated dunk, crossover dunk, slow motion slam dunk, alley oop dunk meme, dunk and fall, ai dunk video generator, ai dunk generator, dunking ai, dunking ai template, how to dunk on ai, dunk on ai, ai dunking video, ai dunk meme, dunking ai meme, ai dunking app, ai dunk basketball, ai dunking basketball, slam dunk ai video, ai generated slam dunk, ai slam dunk meme, ai dunk prompt, slam dunk ai prompt, ai basketball trend tiktok, how to do the ai basketball trend, basketball trend ai video, ai trend basketball game, ai basketball tiktok, nba ai trend, ai nba video, nba dunk ai, ai dunk filter, dunk ai filter, ai dunk tutorial, dunking ai tutorial, dunk ai template, mascot dunk ai, dunk over mascot ai, jump over mascot dunk, dunk contest over mascot, pet slam dunk, cat dunk ai, dog basketball ai, grandpa dunk ai, ai alley oop, alley oop ai, ai alley oop dunk, alley oop dunk ai, ai crossover dunk, crossover dunk ai, pickup game ai, ai pickup basketball, ai dunk and fall, ai slow motion dunk, basketball dunk meme video, basketball dunk meme tiktok, basketball dunk meme template, ai basketball dunk, ai basketball dunk generator, basketball dunk ai video, ai dunk highlights, ai basketball video maker, ai basketball video prompt, ai video basketball player.
+Keyword: ai dunk. Also answers: basketball dunk meme, alley oop dunk, alley oop slam dunk, basketball meme dunk, ai basketball meme, ai dunking, ai dunk trend, ai dunking meme, ai basketball video, ai basketball trend, mascot dunk, ai slam dunk, ai dunk video, ai basketball video generator, ai dunk contest, ai basketball trend prompt, dunk over mascot, nba mascot dunk, mascot slam dunk, slow motion dunk, ai generated dunk, crossover dunk, slow motion slam dunk, alley oop dunk meme, dunk and fall, poster dunk, poster dunk ai, ai poster dunk, poster dunk meme, posterize dunk, posterized dunk, dunk on someone meme, dunking on someone meme template, ai dunk on someone, dunking on my friend, ai dunk on friend, poster dunk ai video, ai basketball duo, basketball duo ai video, po and tai lung basketball, ai dunk video generator, ai dunk generator, dunking ai, dunking ai template, how to dunk on ai, dunk on ai, ai dunking video, ai dunk meme, dunking ai meme, ai dunking app, ai dunk basketball, ai dunking basketball, slam dunk ai video, ai generated slam dunk, ai slam dunk meme, ai dunk prompt, slam dunk ai prompt, ai basketball trend tiktok, how to do the ai basketball trend, basketball trend ai video, ai trend basketball game, ai basketball tiktok, nba ai trend, ai nba video, nba dunk ai, ai dunk filter, dunk ai filter, ai dunk tutorial, dunking ai tutorial, dunk ai template, mascot dunk ai, dunk over mascot ai, jump over mascot dunk, dunk contest over mascot, pet slam dunk, cat dunk ai, dog basketball ai, grandpa dunk ai, ai alley oop, alley oop ai, ai alley oop dunk, alley oop dunk ai, ai crossover dunk, crossover dunk ai, pickup game ai, ai pickup basketball, ai dunk and fall, ai slow motion dunk, basketball dunk meme video, basketball dunk meme tiktok, basketball dunk meme template, ai basketball dunk, ai basketball dunk generator, basketball dunk ai video, ai dunk highlights, ai basketball video maker, ai basketball video prompt, ai video basketball player.
 
 ## What is the AI Dunk trend, and where did it start?
 
@@ -26,6 +26,8 @@ The new AI dunk trend is more cinematic. From 12 October 2026 an AI video app be
 
 On 15 October 2026 the same app added two more dunk scenes. In the pickup game, the person crosses over two defenders in a packed college gym, dunks with one hand and then falls flat on the floor: a basketball dunk meme in one clip. In the walk-on alley-oop, the person strolls onto a dark arena court in street clothes, a player lobs the ball high, and the catch and the dunk play in slow motion. By 16 October they ran in 56 and 36 ads, and dunk videos were the app's biggest ad group of the day, with 158 new ads in four versions. The same day two more AI template sites published "basketball meme dunk" pages.
 
+Then the trend got a second player. On 19 October 2026 an Instagram creator posted an AI clip that put Po and Tai Lung, the panda and the snow leopard of the Kung Fu Panda films, into a slow-motion poster dunk from a real pro game. The next day an AI template site added a two-photo "Poster Dunk" template: you pick the dunker and the defender.
+
 ### AI Dunk trend timeline
 
 - **2026-07-02**: A CapCut "dunking AI template" video by @matthewherrera1030 is posted on TikTok; it has 1.7 million views and 29,000 likes by 15 October 2026, the biggest post of the first AI dunk wave. Source: [TikTok](https://www.tiktok.com/@matthewherrera1030/video/7657939406275333407).
@@ -34,6 +36,8 @@ On 15 October 2026 the same app added two more dunk scenes. In the pickup game, 
 - **2026-10-15**: US Google Trends interest in "ai dunk" reaches 100, up from 44 on 8 October 2026. Source: [Google Trends](https://trends.google.com/trends/explore?date=today%201-m&geo=US&q=ai%20dunk).
 - **2026-10-15**: The same AI video app adds two more dunk templates: a pickup game crossover dunk that ends in a fall, and a walk-on alley-oop dunk in slow motion. By 16 October they run in 56 and 36 ads.
 - **2026-10-16**: Two AI template sites publish "Basketball Meme Dunk" pages for the trend. Dunk videos are also the biggest ad group of the day for the AI video app that started it: 158 new ads in four versions.
+- **2026-10-19**: Instagram creator @tisha_bimbo posts an AI clip of Po dunking over Tai Lung in a slow-motion pro game poster dunk; it has 34,887 likes by 21 October 2026. Source: [Instagram](https://www.instagram.com/reel/DesZQEKsQCj/).
+- **2026-10-20**: An AI template site publishes a two-photo "Poster Dunk" template for the trend, with one photo for the dunker and one for the defender.
 
 ## What the AI Dunk video looks like
 
@@ -168,6 +172,36 @@ Exactly one ball. No league, team, college or arena logos, no team names, no spo
 
 One-tap version of this variant: https://www.makeviral.ai/templates/ai-dunk-trend/create?variant=alleyoop
 
+#### Variant: Poster dunk
+
+Settings: 2 photos (you (the dunker), full body + your friend (the defender), full body) · Seedance 2.5 · 12 s · 720p · 9:16 · with sound · 152 credits in one tap.
+
+1. The video prompt is filled in. Settings: Seedance 2.5, 12 s, 720p, 9:16, sound on. The video prompt:
+
+   ```text
+   An AI poster dunk video. Let the person in [Image 1] be the player who makes the dunk and the person in [Image 2] the defender who gets dunked on, in a real pro basketball game at night. Vertical 9:16, filmed like a real TV broadcast camera at court level, photorealistic and sharp.
+
+The dunker is the person in [Image 1], in every frame: copy the exact face from [Image 1] (the face shape, eye color and eye shape, eyebrows, nose, mouth, skin tone, age, hair color, hair length and hairstyle, and any beard, moustache, glasses or freckles), the same build, and the clothes and shoes from [Image 1]: everyday clothes, never a jersey or a uniform. The dunker is an adult. The same face from the first frame to the last, so their friends recognize them at once, also in the air and at the end. Never morph. If [Image 1] shows an animal, the dunker is that animal running upright on its hind legs, with its own face, fur and markings, not a person.
+
+The defender is the person in [Image 2], in every frame: copy the exact face from [Image 2] in the same way, the same build, and the clothes and shoes from [Image 2], never a jersey. An adult. Two different people: never blend or swap their faces, hair or clothes, also when the bodies overlap in the air.
+
+The place: a packed indoor pro basketball arena during a night game, a polished light hardwood court with plain painted lines and no logo at center court, a glass backboard with an orange rim and a white net, bright arena lights, a dark crowd filling the stands. The other players are generic adult players in plain navy and white jerseys with no names, no readable numbers and no team logos; a referee in a black-and-white striped shirt.
+
+0-3 s: a wide side shot: the dunker dribbles in fast from the LEFT; the defender waits under the basket on the RIGHT, knees bent.
+3-4.5 s: the camera pushes in low: the dunker takes off; the defender jumps, both arms high to block.
+4.5-8.5 s: slow motion: both rise in front of the backboard, the ball in one hand above the defender's arms; the dunker elevates over the defender and throws down a thunderous one-handed poster dunk that rattles the entire backboard.
+8.5-10 s: normal speed: the dunker hangs on the rim, the defender lands and stumbles back, unhurt. The crowd erupts instantly.
+10-12 s: a close shot, both from the chest up: in front, the dunker screams at the camera with joy, fists clenched; just behind, the defender holds their head in disbelief, then laughs. Both faces large and sharp: exactly the faces from [Image 1] and [Image 2].
+
+Audio: sneakers, the crowd roaring, a muffled hum in the slow motion, a loud rim clang, the scream. No music, no lyrics, no commentary.
+
+Exactly two people at the rim; no other player jumps. No injury. Exactly one ball. No league, team, college or arena logos, no team names, no sponsor boards with words, no scoreboard text, no captions, no watermark. No famous athlete: every other player and every fan is a generic adult. Anatomy rules: one head, two arms, two legs, five fingers on each hand; the dunker never merges with another player, the rim or the ball.
+   ```
+
+2. Press Generate, then download the 9:16 MP4.
+
+One-tap version of this variant: https://www.makeviral.ai/templates/ai-dunk-trend/create?variant=poster
+
 #### Variant: Pet dunk
 
 Settings: 1 photo (your pet, face and body clear) · Kling 3.0 · 10 s · 1080p · 9:16 · with sound · 56 credits in one tap.
@@ -193,7 +227,7 @@ One-tap version of this variant: https://www.makeviral.ai/templates/ai-dunk-tren
 
 ### Which photo works best?
 
-Upload **one photo**: you for Court dunk, Mascot dunk, Pickup game and Alley-oop, your pet for Pet dunk.
+Upload **one photo**: you for Court dunk, Mascot dunk, Pickup game and Alley-oop, your pet for Pet dunk. For **Poster dunk**, upload **two photos**: you first (the dunker), then your friend (the defender).
 
 - **Full body or from the knees up, face clear and well lit.** The AI keeps your face, build, clothes and shoes, so wear what you want to dunk in. Heels, a suit or a T-shirt all work: the contrast is the joke.
 - **Look at the camera or a little to the side.** No sunglasses, and no cap or hair over the eyes.
@@ -219,15 +253,18 @@ Credits come with a plan; see [pricing](https://www.makeviral.ai/pricing). A fai
 | **Mascot dunk** | You stand courtside. A green furry mascot runs out and holds up the ball, you sprint, jump over the mascot, grab the ball in the air and dunk. You land laughing, then two fans courtside jump up and scream. | 12 s |
 | **Pickup game** | A packed college gym, a pickup run. You cross over one defender, spin past a second, drive and dunk with one hand, hang on the rim, then fall flat on your back and burst out laughing. It is the basketball dunk meme in one clip: the dunk goes in and the dunker goes down. | 12 s |
 | **Alley-oop** | You walk onto a dark arena court in your street clothes, as if you came down from the stands. A player lobs the ball high, and in slow motion you jump, catch it above the rim and throw it down, the alley-oop slam dunk of the trend clips. You land and walk off cool. | 10 s |
+| **Poster dunk** | Two photos: you and a friend. In a packed night game you drive to the basket, your friend jumps to block, and in slow motion you rise over them and throw down a one-handed poster dunk that shakes the backboard. Then you scream at the camera while your friend holds their head behind you. | 12 s |
 | **Pet dunk** | Your pet stands at the foul line in a red jersey, bounces the ball, runs to the hoop on its hind legs and dunks, then celebrates while the crowd goes wild. | 10 s |
 
-All five are vertical (9:16) with game sounds: sneakers, the bouncing ball, the rim and a roaring crowd; in the alley-oop the sound drops to a heartbeat during the slow motion dunk. There is no music, so you can add your own sound when you post. The arena, the players and the mascot are generic: no league, team or arena logos, no real players and no real team mascot.
+All six are vertical (9:16) with game sounds: sneakers, the bouncing ball, the rim and a roaring crowd; in the alley-oop the sound drops to a heartbeat during the slow motion dunk, and in the poster dunk to a low hum. There is no music, so you can add your own sound when you post. The arena, the players and the mascot are generic: no league, team or arena logos, no real players and no real team mascot.
 
 ## How does MakeViral make the AI dunk video?
 
 **Court dunk, Mascot dunk, Pickup game and Alley-oop** are made straight from your photo with Seedance 2.5, ByteDance's newest video model, with no in-between picture, so your face stays close to the photo. Our prompt starts from the line the AI template sites use for this trend, "replace the person, copy the dunk, keep the scene", then writes out the arena, the moves second by second and the end shot, so your face is large and sharp when you scream, laugh or look into the camera. Think of it as an AI basketball video generator, or an AI basketball video maker for one shot: you add the photo, it does the rest, and in the AI video you are the basketball player.
 
-**Pet dunk** takes two steps: Nano Banana 2 first makes a picture of your pet in a red jersey at the foul line, from the template sites' own pet basketball prompt, then Kling 3.0 turns it into the dunk. It costs less than the people versions.
+**Poster dunk** works the same way from your two photos: top-quality AI video models put both of you into one clip with no in-between picture, so both faces stay close to the photos. The prompt says who dunks and who defends, keeps the two faces apart when you meet in the air, and ends on a close shot of both of you.
+
+**Pet dunk** takes two steps: Nano Banana 2.1 first makes a picture of your pet in a red jersey at the foul line, from the template sites' own pet basketball prompt, then Kling 3.0 turns it into the dunk. It costs less than the people versions.
 
 The create page shows the exact price on the Generate button before you spend anything. If a run fails, the credits come back.
 
@@ -242,6 +279,8 @@ The create page shows the exact price on the Generate button before you spend an
 | You do not fall in the Pickup game, or you land on the rim | The fall is the joke, but it is a hard move for any model. Run it again, ideally with a full-body photo |
 | The fall looks painful | It should look like slapstick: you land on your back and laugh. If a run looks rough, run it again |
 | The alley-oop is not in slow motion, or there are two balls | The prompt asks for one ball and a slow-motion catch. Each run is different: run it again |
+| In the poster dunk the two faces mix, or you trade places | Use two clear photos of two different people, you in photo 1. Swap the photos to swap the roles, and run it again |
+| Your friend blocks the dunk, or a third player jumps | The prompt asks for a dunk right over the defender and only two players at the rim. Each run is different: run it again |
 | The mascot looks like a real team's mascot | It should not: the prompt asks for a generic green furry mascot, never a dragon. Run it again |
 | A logo or text shows up | The prompt bans logos, team names and scoreboard text. Run it again if one slips in |
 
@@ -249,21 +288,21 @@ The create page shows the exact price on the Generate button before you spend an
 
 Post it as a joke, not as real footage: the fun is that you, in heels or a hoodie, are suddenly dunking in a pro game.
 
-- **Caption ideas:** "They finally put me in", "Coach said shoot your shot", "Mascot had it coming", "Crossed him so bad I fell too", "Walked in off the street and caught the lob".
+- **Caption ideas:** "They finally put me in", "Coach said shoot your shot", "Mascot had it coming", "Crossed him so bad I fell too", "Walked in off the street and caught the lob", and for the poster dunk "Dunking on my friend in a pro game" or "Sorry, you're on the poster now".
 - **Sound:** the trend's alley-oop clips play a sped-up "Careless Whisper" over the slow motion. Our video has game sounds only, so pick any sound you like in TikTok or Instagram when you post.
-- **Hashtags:** #aidunk (233 TikTok videos on 15 October 2026) and #aibasketball (509 videos, 4.7 million views). Add #dunk and #basketball for reach.
+- **Hashtags:** #aidunk (233 TikTok videos on 15 October 2026) and #aibasketball (509 videos, 4.7 million views). Add #dunk and #basketball for reach, and #posterdunk for the poster dunk (32,147 TikTok videos on 21 October 2026, most of them real dunks).
 - **Keep TikTok's AI label on.** It is an AI dunk basketball video, and people should know it.
-- **Make it a series of AI dunk highlights:** the court dunk, the pickup game, the alley-oop, the mascot dunk, then your dog's pet dunk. Your friends can run their own AI dunk contest with their photos and compare.
+- **Make it a series of AI dunk highlights:** the court dunk, the pickup game, the alley-oop, the mascot dunk, a poster dunk on your best friend, then your dog's pet dunk. Your friends can run their own AI dunk contest with their photos and compare.
 
 ## AI Dunk trend questions
 
 ### What is the AI dunk trend?
 
-It is an AI basketball trend from October 2026: one photo becomes a video of you dunking in a packed pro game. In the court dunk you dribble down the court in your own clothes, dunk with one hand and scream at the camera. In the mascot dunk you jump over a green furry mascot to dunk. Since 15 October there is also a pickup game dunk that ends in a fall and a slow-motion alley-oop. People also call it the court dunk trend, the mascot dunk courtside trend or the basketball meme dunk trend.
+It is an AI basketball trend from October 2026: one photo becomes a video of you dunking in a packed pro game. In the court dunk you dribble down the court in your own clothes, dunk with one hand and scream at the camera. In the mascot dunk you jump over a green furry mascot to dunk. Since 15 October there is also a pickup game dunk that ends in a fall and a slow-motion alley-oop, and since 20 October a poster dunk with two photos, where you dunk right over a friend. People also call it the court dunk trend, the mascot dunk courtside trend or the basketball meme dunk trend.
 
 ### How do I make an AI dunking video?
 
-Press "Create your own", pick Court dunk, Mascot dunk, Pickup game, Alley-oop or Pet dunk, add one photo and press Generate. MakeViral works as an AI dunk video generator: the AI dunking video lands in your Library, ready to post. You need no app, no template and no prompt.
+Press "Create your own", pick Court dunk, Mascot dunk, Pickup game, Alley-oop, Poster dunk or Pet dunk, add one photo (two for Poster dunk) and press Generate. MakeViral works as an AI dunk video generator: the AI dunking video lands in your Library, ready to post. You need no app, no template and no prompt.
 
 ### Is this the dunking AI template from TikTok?
 
@@ -276,6 +315,18 @@ Yes. Pick Pickup game. You cross over two defenders in a packed college gym, dun
 ### How do I make the AI alley-oop dunk video?
 
 Pick Alley-oop and add one photo. You walk onto a dark arena court in your own clothes, a player throws the ball up, and you catch it above the rim in slow motion and dunk. It is an AI alley oop in 10 seconds: a slow motion dunk with no editing, no slow-motion app and no alley-oop dunk AI prompt to write.
+
+### How do I make an AI poster dunk on my friend?
+
+Pick Poster dunk and add two photos: you first (the dunker), then your friend (the defender). In a packed pro game you drive to the basket, your friend jumps to block, and in slow motion you rise over them and throw down a one-handed poster dunk. Then you scream at the camera while they hold their head behind you. It is the easiest way to make an AI dunk on someone you know: a 12-second poster dunk AI video with both faces from your photos. Swap the photos to swap the roles, and use photos of adults who said yes.
+
+### What is a poster dunk?
+
+In basketball, a poster dunk is a dunk right over a defender, the kind of shot that ends up on a poster. To posterize someone is to dunk on them like that, and every posterized dunk becomes a poster dunk meme. The dunk on someone meme and the dunking on someone meme template are classics for teasing a friend. Here you make your own: you are the dunker, and your friend is the one on the poster.
+
+### Is this the Po and Tai Lung basketball AI clip?
+
+It is the same idea with your own faces. On 19 October 2026 an Instagram creator posted an AI clip of Po and Tai Lung, the panda and the snow leopard of the Kung Fu Panda films, in a slow-motion poster dunk, and the next day an AI template site made it a two-photo template. MakeViral never uses film characters or real game footage: Poster dunk is our AI basketball duo version, a basketball duo AI video of you and a friend in a generic arena with no logos.
 
 ### Is this the basketball dunk meme people post on TikTok?
 
@@ -315,7 +366,7 @@ Because it is clearly impossible: a woman in heels, an office worker in a T-shir
 
 ### Does it cost credits?
 
-Yes. The people versions cost more than the Pet dunk, which uses a picture first, and the 12-second versions (Mascot dunk and Pickup game) cost a little more than the 10-second ones. The create page shows the exact price on the Generate button before you spend anything, and if a run fails, the credits come back.
+Yes. The people versions cost more than the Pet dunk, which uses a picture first, and the 12-second versions (Mascot dunk, Pickup game and Poster dunk) cost a little more than the 10-second ones. The second photo in Poster dunk costs nothing extra. The create page shows the exact price on the Generate button before you spend anything, and if a run fails, the credits come back.
 
 ### Is my photo private?
 

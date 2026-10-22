@@ -5,7 +5,7 @@
 Canonical: https://www.makeviral.ai/templates/elevator-outfit-change-ai-trend
 Updated: 2026-10-18
 Published: 2026-10-18
-Author: İrfan Şener (https://www.makeviral.ai/about)
+Author: MakeViral Team (https://www.makeviral.ai/about)
 Publisher: MakeViral (https://www.makeviral.ai)
 
 The **elevator outfit change** is the fit check where the elevator does the edit: you stand in the car, the doors close, and when they open again you wear something new. Creators call it an elevator fit check or an elevator outfit check, and they film one take per outfit. Here you need one photo with your face clear.
@@ -109,7 +109,7 @@ Credits come with a plan; see [pricing](https://www.makeviral.ai/pricing). A fai
 
 The elevator doors are the edit. The camera stands still outside the elevator and films you full length inside it. The doors slide shut, and for a moment you are gone behind the steel. That is where the cut hides: when the doors open again, you stand in the same spot in a new outfit. It is the elevator outfit transition that fashion creators film floor by floor, one take per look, and that brands now use as an elevator fashion show.
 
-MakeViral has two versions. **Women's looks** copies @karolvidaldiaz's elevator fit check from 12 August 2025: 13 seconds, four evening gowns, three door closes. **Men's looks** copies @fabianparks's AI elevator reel from 12 October 2026: 13 seconds, three outfits, two door closes, and at the end you walk out of the elevator toward the camera. First Nano Banana 2 makes a close portrait from your photo, so only your face and hair go into the reel. Then Higgsfield Genjutsu puts you in place of the person in the reel, shot by shot, so every door closes and every outfit changes exactly where it does in the original. Your face, hair and skin tone come from your photo. The outfits, the elevator and the camera come from the reel.
+MakeViral has two versions. **Women's looks** copies @karolvidaldiaz's elevator fit check from 12 August 2025: 13 seconds, four evening gowns, three door closes. **Men's looks** copies @fabianparks's AI elevator reel from 12 October 2026: 13 seconds, three outfits, two door closes, and at the end you walk out of the elevator toward the camera. First Nano Banana 2.1 makes a close portrait from your photo, so only your face and hair go into the reel. Then Higgsfield Genjutsu puts you in place of the person in the reel, shot by shot, so every door closes and every outfit changes exactly where it does in the original. Your face, hair and skin tone come from your photo. The outfits, the elevator and the camera come from the reel.
 
 With **Your outfits** you write your own look for any of the outfits. MakeViral first changes those looks in the reel itself (FLUX.3 Edit Video), so the new outfits still appear behind the doors, and then puts you in. It is an elevator fashion editorial without the building, the camera or the changes of clothes.
 

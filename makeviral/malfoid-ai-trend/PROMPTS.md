@@ -1,0 +1,48 @@
+# Malfoid AI Trend: Turn Yourself Into Female Draco Malfoy
+
+- Source: [makeviral](https://www.makeviral.ai/templates/malfoid-ai-trend)
+- Slug: `malfoid-ai-trend`
+
+Malfoid is the internet's name for a female Draco Malfoy: a fan-made, gender-swapped version of the Harry Potter rival that took over X and TikTok in September and October 2026.
+
+## Demo videos (CDN)
+
+- https://www.makeviral.ai/media/templates/malfoid-ai-trend/original-main-v2.mp4
+
+## Posters
+
+- https://www.makeviral.ai/media/templates/malfoid-ai-trend/original-main-v1.jpg
+
+## Prompts
+
+### 1. 1. The video prompt is filled in. Settings: Seedance 2.5, 10 s, 720p, 9:16, sound on. The video prompt
+
+*Kind: video_prompt*
+
+```text
+A viral cosplay transition video: the person from [Image 1] turns into the fan-made female version of a famous blond, aristocratic rival from a wizard fantasy saga, filmed like a real front-camera phone video. Photorealistic, cinematic, vertical 9:16.
+
+The person is the one in [Image 1], in every frame: copy the exact face from [Image 1] (the face shape, eye color and eye shape, eyebrows, nose, mouth, skin tone, age, and any beard, moustache, glasses, piercings, freckles or face marks). The same face from the first frame to the last, so their friends recognize them at once, also after the change and while they smirk. They are an adult and look exactly their own age from [Image 1]: never younger. Never morph, never beautify, never change the skin tone.
+
+BEFORE the cut: exactly the hair, the clothes and the place from [Image 1]. AFTER the cut: platinum slicked-back hair (platinum-blonde, combed smoothly back from the forehead and falling long and straight behind the shoulders; short hair becomes a sleek platinum slick-back), a cool porcelain makeup finish that keeps their own skin tone, a long black hooded robe with an emerald-green satin lining worn over a crisp white collared shirt and a charcoal-grey V-neck sweater with green and silver trim, a green and silver striped tie, and small dark hoop earrings.
+
+The camera is a phone held at arm's length, framed from the chest up, the face large and sharp.
+0-2.5 s: in the place behind the person in [Image 1], in their own clothes and hair, they look into the camera with a bored face and sweep one open hand slowly across the lens.
+2.5 s: as the hand passes the lens, a quick cut: the change is done. The person now has the look above and stands in a candle-lit castle hall of old grey stone, with tall arched windows, long dark wooden tables, iron candelabras and warm candlelight against cool blue-green shadows.
+2.5-5 s: they lower the hand, lift the chin and look down into the camera with a cool, cold stare.
+5-7.5 s: they flick the platinum hair back over one shoulder and slowly raise one eyebrow.
+7.5-10 s: they cross their arms, a slim dark wooden wand in one hand, and give a slow, smug smirk straight into the lens, the candlelight flickering behind them.
+
+Audio: a soft magical whoosh at the cut, then a quiet, dark original string melody and the crackle of the candles. No lyrics, no talking.
+
+Anatomy rules: one head, two hands, five fingers on each hand. The robe, the sweater and the tie are plain: no crest, no badge, no emblem, no patch, no snake, no letter or symbol on any clothes or anywhere in the room. A modest outfit, the robe closed over the sweater. Exactly one person. No text, no captions, no logos, no watermark.
+```
+
+### 2. Prompt 2
+
+*Kind: prompt*
+
+```text
+Turn this person into the fan-made female version of a famous blond, aristocratic rival from a wizard fantasy saga: platinum slicked-back hair, a porcelain makeup finish, a black robe, a green and silver tie, a smug smirk, a candle-lit castle hall. Using the uploaded photo, generate a 9:16 vertical portrait of the same person, framed from the waist up, with platinum slicked-back hair (platinum-blonde, combed smoothly back from the forehead and falling long and straight behind the shoulders; short hair becomes a sleek platinum slick-back), a cool porcelain makeup finish that keeps their own skin tone, a long black hooded robe with an emerald-green satin lining worn over a crisp white collared shirt and a charcoal-grey V-neck sweater with green and silver trim, a green and silver striped tie, and small dark hoop earrings. They stand with their arms crossed, a slim dark wooden wand in one hand, the chin slightly raised, looking into the camera with a cool stare and a smug, one-sided smirk. The place: a candle-lit castle hall of old grey stone, with tall arched windows, long dark wooden tables, iron candelabras and warm candlelight against cool blue-green shadows. Cinematic, photorealistic, soft warm candlelight on the face, a shallow depth of field. They are an adult and look exactly their own age. The robe, the sweater and the tie are plain: no crest, no badge, no emblem, no patch, no snake, no letter or symbol on any clothes or anywhere in the room. A modest outfit, the robe closed over the sweater. Exactly one person. No text, no captions, no logos, no watermark. The only changes are the hair, the outfit, the place and the smirk: the identity rules below apply to the face, and the hair color and hairstyle are the new platinum look described above.
+```
+

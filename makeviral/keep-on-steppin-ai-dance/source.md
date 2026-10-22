@@ -5,7 +5,7 @@
 Canonical: https://www.makeviral.ai/templates/keep-on-steppin-ai-dance
 Updated: 2026-10-15
 Published: 2026-10-13
-Author: İrfan Şener (https://www.makeviral.ai/about)
+Author: MakeViral Team (https://www.makeviral.ai/about)
 Publisher: MakeViral (https://www.makeviral.ai)
 
 The **Cale Brown dance** is the routine from Cale Brown's viral "Keep On Steppin" video. The Keep On Steppin AI dance turns one photo of you into a short clip of the leader's solo: a strut to the front, footwork on the beat, a lean and a turn. You need one full-body photo, and the clip comes with the song.

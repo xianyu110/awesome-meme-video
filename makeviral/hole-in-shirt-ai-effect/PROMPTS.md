@@ -1,0 +1,45 @@
+# Hole in Shirt Effect: A Mini You Waves From Inside Your Shirt
+
+- Source: [makeviral](https://www.makeviral.ai/templates/hole-in-shirt-ai-effect)
+- Slug: `hole-in-shirt-ai-effect`
+
+The hole in shirt effect is a TikTok photo effect from October 2026: a round hole in the front of your shirt shows a small copy of you inside, with a glowing blue ring around it.
+
+## Demo videos (CDN)
+
+- https://www.makeviral.ai/media/templates/hole-in-shirt-ai-effect/original-main-v2.mp4
+
+## Posters
+
+- https://www.makeviral.ai/media/templates/hole-in-shirt-ai-effect/original-main-v1.jpg
+
+## Prompts
+
+### 1. 1. Open [AI Photo with this template](https://www.makeviral.ai/photo?template=hole-in-shirt-ai-effect) and add your photo (you, waist up, your top in view). The photo prompt is filled in
+
+*Kind: photo_prompt*
+
+```text
+Use the uploaded image as the base: it is the person's own photo and it stays a real, unchanged photo. Keep the same person, face, hair, skin, pose, hands, clothes, camera angle, light and background exactly as they are. Do not retouch, slim or restyle the person. Then add the hole in shirt effect: a perfectly round hole is cut in the front of the person's top, in the middle of the chest, about one third as wide as the body, with a thin, softly frayed white rim of fabric curling back around its edge, as if the shirt itself was cut open. The hole does not show skin or a body: it is a window into a smaller copy of the same photo. Inside the hole is a mini version of the same person, the same adult with the same face, hair, clothes and pose, seen from the head to the waist, standing in a small copy of the same place and light and smiling out of the hole at the camera. The mini version's own top is whole, with no hole. Around the hole, a thin glowing light-blue neon ring circles it at a slight tilt, like the ring of a planet, with a soft blue glow on the fabric, and a few small white sparkles float in the air in front of the picture. Exactly one person and one mini copy of that same person: no other people, no third copy. The mini copy is the same adult, never a child. No skin, no chest and no underwear show in the hole: only the mini copy and its background. Any logo or writing on the clothes becomes plain. Realistic photo, vertical 9:16; if the photo is wider, extend the background naturally. No text, no captions, no letters, no emoji, no stickers, no watermark, no app interface, no frame.
+```
+
+### 2. 3. Press the film button on the still to open AI Video with the still as the first frame. Settings: Kling 3.0, 8 s, 1080p, 9:16, sound on. The video prompt
+
+*Kind: video_prompt*
+
+```text
+One continuous shot with no cuts, like a real phone video, the camera almost still. Keep the person's face, hair, clothes and the place exactly as in the image, and keep the round hole in the front of the shirt with the mini copy of the same person inside it, the same size and in the same place.
+0-2 s: the thin light-blue neon ring around the hole lights up brighter and starts to circle the hole, tilted like the ring of a planet; small white sparkles drift slowly down through the frame.
+2-5 s: inside the hole, the mini copy of the person comes alive: it smiles, looks up at the camera and waves one hand, then gives a happy peace sign. The big person smiles and moves only a little, with natural breathing and a small nod.
+5-8 s: the round picture inside the hole slowly turns once around its center, with the mini copy in it, like a spinning window, and comes back upright; the mini copy waves again as the ring keeps circling and the sparkles keep falling.
+Audio: a soft, dreamy original tune and a light chime when the ring lights up. No speech. Exactly one person and one mini copy of that same adult, never a child. The hole shows only the mini copy and its background, never skin or a body. No extra people, no extra limbs, no morphing. No text, no subtitles, no logos, no watermark.
+```
+
+### 3. Prompt 3
+
+*Kind: prompt*
+
+```text
+Use the uploaded image as the base: it is the person's own photo and it stays a real, unchanged photo. Keep the same person, face, hair, skin, pose, hands, clothes, camera angle, light and background exactly as they are. Do not retouch, slim or restyle the person. Then add the hole in shirt effect: a perfectly round hole is cut in the front of the person's top, in the middle of the chest, about one third as wide as the body, with a thin, softly frayed white rim of fabric curling back around its edge, as if the shirt itself was cut open. The hole does not show skin or a body: it is a window into a smaller copy of the same photo. Inside the hole is a mini version of the same person, the same adult with the same face, hair, clothes and pose, seen from the head to the waist, standing in a small copy of the same place and light and smiling out of the hole at the camera. The mini version's own top is whole, with no hole. Around the hole, a thin glowing light-blue neon ring circles it at a slight tilt, like the ring of a planet, with a soft blue glow on the fabric, and a few small white sparkles float in the air in front of the picture. Exactly one person and one mini copy of that same person: no other people, no third copy. The mini copy is the same adult, never a child. No skin, no chest and no underwear show in the hole: only the mini copy and its background. Any logo or writing on the clothes becomes plain. Realistic photo, vertical 9:16; if the photo is wider, extend the background naturally. No text, no captions, no letters, no emoji, no stickers, no watermark, no app interface, no frame.
+```
+

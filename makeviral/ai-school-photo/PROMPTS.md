@@ -8,14 +8,14 @@ The AI school photo trend, also called ChatGPT school pictures, is parents turni
 ## Demo videos (CDN)
 
 - https://www.makeviral.ai/media/templates/ai-school-photo/example-laser-v2.mp4
-- https://www.makeviral.ai/media/templates/ai-school-photo/example-v2.mp4
+- https://www.makeviral.ai/media/templates/ai-school-photo/example-v3.mp4
 
 ## Posters
 
 - https://www.makeviral.ai/media/templates/ai-school-photo/example-laser-v2-input.jpg
 - https://www.makeviral.ai/media/templates/ai-school-photo/example-laser-v2-poster.jpg
-- https://www.makeviral.ai/media/templates/ai-school-photo/example-v2-input.jpg
-- https://www.makeviral.ai/media/templates/ai-school-photo/example-v2-poster.jpg
+- https://www.makeviral.ai/media/templates/ai-school-photo/example-v3-input.jpg
+- https://www.makeviral.ai/media/templates/ai-school-photo/example-v3-poster.jpg
 
 ## Prompts
 

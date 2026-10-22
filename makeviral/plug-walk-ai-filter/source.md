@@ -5,7 +5,7 @@
 Canonical: https://www.makeviral.ai/templates/plug-walk-ai-filter
 Updated: 2026-10-19
 Published: 2026-10-19
-Author: İrfan Şener (https://www.makeviral.ai/about)
+Author: MakeViral Team (https://www.makeviral.ai/about)
 Publisher: MakeViral (https://www.makeviral.ai)
 
 The **plug walk filter** is the AI video trend where a hand passes you a dollar out of a car window, you take it with a grin, step back and do the plug walk dance, the loose-knee strut from the plug walk meme. You need one clear photo of yourself or one photo of your pet.

@@ -5,7 +5,7 @@
 Canonical: https://www.makeviral.ai/templates/illit-youre-under-arrest-ai-dance
 Updated: 2026-10-19
 Published: 2026-10-19
-Author: İrfan Şener (https://www.makeviral.ai/about)
+Author: MakeViral Team (https://www.makeviral.ai/about)
 Publisher: MakeViral (https://www.makeviral.ai)
 
 The **ILLIT You're Under Arrest** dance is the 체포하겠어 challenge of ILLIT's new title track (full song out 26 October 2026): you toss a police cap, shake your legs, blow a whistle and end with a finger gun at the camera. From your photo, MakeViral makes you do it in a modest police-style costume, with friends or your pet.
@@ -203,7 +203,7 @@ Press "Create your own" and pick one.
 | | Solo (default) | Duo | Squad | Pet |
 |---|---|---|---|---|
 | Photos | 1: you | 2: you and a friend | 3: you and two friends | 1: your dog or cat |
-| How it works | Seedance 2.5 makes the scene straight from your photo | The same, from two photos | The same, from three photos | A Nano Banana 2 picture of your pet in the cap, then Kling 3.0 Pro (Best: Seedance 2.5) |
+| How it works | Seedance 2.5 makes the scene straight from your photo | The same, from two photos | The same, from three photos | A Nano Banana 2.1 picture of your pet in the cap, then Kling 3.0 Pro (Best: Seedance 2.5) |
 | Frame | Vertical 9:16, 720p | 9:16, 720p | 9:16, 720p | 9:16, 1080p (Best 720p) |
 | Length | 10 s | 10 s | 10 s | 10 s |
 | Sound | An original K-pop style beat with whistle hits | The same | The same | The same |
@@ -286,7 +286,7 @@ Yes. This template makes one AI kpop dance; for more kpop dance AI clips, try th
 
 ### Which AI models make the videos?
 
-Solo, Duo and Squad use Seedance 2.5, straight from your photos, vertical at 720p. Pet first makes a Nano Banana 2 picture of your pet in the cap, then Kling 3.0 Pro animates it at 1080p (Best: Seedance 2.5 at 720p). Each makes a 10-second MP4 with sound and no watermark.
+Solo, Duo and Squad use Seedance 2.5, straight from your photos, vertical at 720p. Pet first makes a Nano Banana 2.1 picture of your pet in the cap, then Kling 3.0 Pro animates it at 1080p (Best: Seedance 2.5 at 720p). Each makes a 10-second MP4 with sound and no watermark.
 
 ### What prompt does the You're Under Arrest AI trend use?
 
@@ -294,7 +294,7 @@ On 19 October 2026 nobody had shared a prompt: the trend was a real dance, and n
 
 ## Other AI video templates and tools
 
-- [AI Arrest Trend: Make the “Getting Arrested Again” Video With One Photo](https://www.makeviral.ai/templates/ai-arrest-trend): Two officers walk you out of the house at night, hands cuffed behind your back, red and blue lights on your face, and you give the camera a small, smug smile. One photo in, an 8-second AI clip with night street sound out. A joke, made with your own photo.
+- [Not Bro Getting Arrested Again AI Video: The AI Arrest Trend From One Photo](https://www.makeviral.ai/templates/ai-arrest-trend): Two officers walk you out of the house at night, hands cuffed behind your back, red and blue lights on your face, and you give the camera a small, smug smile. One photo in, an 8-second AI clip with night street sound out. A joke, made with your own photo.
 - [IVE Looks Can Kill Dance: Be the Action Hero From Your Photo](https://www.makeviral.ai/templates/ive-looks-can-kill-ai-dance): The crossed finger guns, the arm snap, the point at the lens and the hero pose: the Looks Can Kill (룩스캔킬) challenge, with you as the action hero on a city rooftop at night. Solo, with two friends, as a dance cover, or with your pet.
 - [A2O LITE NEON Dance: Do the Duo Intro From Your Photos](https://www.makeviral.ai/templates/a2o-lite-neon-ai-dance): The sway, the spin kick, the high-and-low pose and the squat: the viral NEON intro from A2O LITE's debut song. Add two photos for a duo, one for a solo, or two of your pets.
 - [AI TikTok Video](https://www.makeviral.ai/tools/ai-tiktok-video-generator): Eight native TikTok formats, one prompt or product URL, a finished 9:16 video with captions burned in.

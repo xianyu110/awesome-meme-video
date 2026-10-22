@@ -5,7 +5,7 @@
 Canonical: https://www.makeviral.ai/templates/ai-hug-video
 Updated: 2026-10-18
 Published: 2026-09-30
-Author: İrfan Şener (https://www.makeviral.ai/about)
+Author: MakeViral Team (https://www.makeviral.ai/about)
 Publisher: MakeViral (https://www.makeviral.ai)
 
 An **AI hug video** is a short clip where two people from two separate photos walk toward each other and hug. People make them with a friend, a partner, a parent, or an old photo of themselves as a child. You need two photos, one person in each, and both people must agree to it.
@@ -54,7 +54,7 @@ Everything runs in the browser. No editing app, no watermark.
 
 ### The by-hand way, with the exact prompts
 
-The one-tap flow runs these prompts for you. A photo prompt puts your photo into the scene (Nano Banana 2, image mode, 9:16, 1K), then a video prompt animates that still. To change them, copy them and edit them in AI Photo and AI Video.
+The one-tap flow runs these prompts for you. A photo prompt puts your photo into the scene (Nano Banana 2.1, image mode, 9:16, 1K), then a video prompt animates that still. To change them, copy them and edit them in AI Photo and AI Video.
 
 Settings: 2 photos (first person + second person) · Seedance 2.5 · 8 s · 720p · 9:16 · with sound · 103 credits in one tap.
 

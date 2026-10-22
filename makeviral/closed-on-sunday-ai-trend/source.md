@@ -5,7 +5,7 @@
 Canonical: https://www.makeviral.ai/templates/closed-on-sunday-ai-trend
 Updated: 2026-10-17
 Published: 2026-10-17
-Author: İrfan Şener (https://www.makeviral.ai/about)
+Author: MakeViral Team (https://www.makeviral.ai/about)
 Publisher: MakeViral (https://www.makeviral.ai)
 
 The **Closed on Sunday AI trend** recreates the last scene of Kanye West's 2019 "Closed on Sunday" video: one person stands still in the middle of a huge robed choir while it bobs, waves and sings. Add one clear photo and you take the center, or pick Pet and your pet becomes a little knight with angel wings.

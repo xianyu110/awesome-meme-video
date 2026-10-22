@@ -5,7 +5,7 @@
 Canonical: https://www.makeviral.ai/templates/ai-future-baby-video
 Updated: 2026-10-18
 Published: 2026-09-30
-Author: İrfan Şener (https://www.makeviral.ai/about)
+Author: MakeViral Team (https://www.makeviral.ai/about)
 Publisher: MakeViral (https://www.makeviral.ai)
 
 An **AI baby generator** video takes photos of two adults and imagines a baby who mixes their looks, then plays it as a warm early-2000s home video of one day with the family. It is a fun AI guess, not a prediction. To make one you need two clear photos: one of each partner, both adults who agreed.
@@ -55,7 +55,7 @@ Everything runs in the browser. No editing app, no watermark.
 
 ### The by-hand way, with the exact prompts
 
-The one-tap flow runs these prompts for you. A photo prompt puts your photo into the scene (Nano Banana 2, image mode, 9:16, 1K), then a video prompt animates that still. To change them, copy them and edit them in AI Photo and AI Video.
+The one-tap flow runs these prompts for you. A photo prompt puts your photo into the scene (Nano Banana 2.1, image mode, 9:16, 1K), then a video prompt animates that still. To change them, copy them and edit them in AI Photo and AI Video.
 
 Settings: 2 photos (first partner + second partner) · Seedance 2.5 · 10 s · 720p · 9:16 · with sound · 128 credits in one tap.
 

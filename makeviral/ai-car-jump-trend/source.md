@@ -5,7 +5,7 @@
 Canonical: https://www.makeviral.ai/templates/ai-car-jump-trend
 Updated: 2026-10-15
 Published: 2026-10-14
-Author: İrfan Şener (https://www.makeviral.ai/about)
+Author: MakeViral Team (https://www.makeviral.ai/about)
 Publisher: MakeViral (https://www.makeviral.ai)
 
 The **car jump AI video** is the "unbothered" trend: you sit calm in a folding camp chair in a golden field, raise one fist, and a black pickup flies over the field behind you in slow motion and lands at your back. You need one clear photo of yourself, plus a photo of your car for your own ride.

@@ -5,7 +5,7 @@
 Canonical: https://www.makeviral.ai/templates/love-options-ai-dance
 Updated: 2026-10-19
 Published: 2026-10-19
-Author: İrfan Şener (https://www.makeviral.ai/about)
+Author: MakeViral Team (https://www.makeviral.ai/about)
 Publisher: MakeViral (https://www.makeviral.ai)
 
 The **Love Options dance** is the TikTok trend built on the chorus of "Love Options" (연애의 조건), a 2013 K-pop song by BESTie: small, cute hand gestures at the chest and face on "dudududu". From your photos, MakeViral plays the moves with you, puts you and a friend into a real duo cover, or makes two pets dance it.

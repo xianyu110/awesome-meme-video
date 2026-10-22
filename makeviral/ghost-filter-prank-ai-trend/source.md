@@ -5,7 +5,7 @@
 Canonical: https://www.makeviral.ai/templates/ghost-filter-prank-ai-trend
 Updated: 2026-10-15
 Published: 2026-10-14
-Author: İrfan Şener (https://www.makeviral.ai/about)
+Author: MakeViral Team (https://www.makeviral.ai/about)
 Publisher: MakeViral (https://www.makeviral.ai)
 
 The **ghost filter** is the TikTok prank where a creepy grey ghost with long grey hair, round white eyes and long claws rises behind someone on the phone screen while they talk, and their reaction is the whole post. Here AI makes that ghost prank video from one photo of you, in the viral clip or your own room.

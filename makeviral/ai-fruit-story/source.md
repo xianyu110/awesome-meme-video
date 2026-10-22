@@ -1,20 +1,20 @@
-# AI Fruit Story: You as a 3D Fruit Person in a Soap Opera
+# AI Fruit Story: Make a Talking 3D Fruit Soap Opera
 
-> An AI fruit story is a short 3D cartoon soap opera with fruit people: a strawberry, a banana, a grape, with love, betrayal and rags-to-riches twists.
+> An AI fruit story is a short 3D cartoon soap opera with fruit people: a strawberry, a banana, a lemon, with love, betrayal and rags-to-riches twists, and every fruit person talks.
 
 Canonical: https://www.makeviral.ai/templates/ai-fruit-story
-Updated: 2026-10-20
+Updated: 2026-10-21
 Published: 2026-10-20
-Author: İrfan Şener (https://www.makeviral.ai/about)
+Author: MakeViral Team (https://www.makeviral.ai/about)
 Publisher: MakeViral (https://www.makeviral.ai)
 
-An **AI fruit story** is a short 3D cartoon soap opera with fruit people: a strawberry, a banana, a grape, with love, betrayal and rags-to-riches twists. Here you are the star. Add one photo and you become a fruit person with your own face, hair and clothes, in a 12-second story with music.
+An **AI fruit story** is a short 3D cartoon soap opera with fruit people: a strawberry, a banana, a lemon, with love, betrayal and rags-to-riches twists, and every fruit person talks. Here you pick the cast and the drama, and we film it scene by scene, from 4 to 8 scenes, with the lines spoken on camera and big captions.
 
-Become a 3D cartoon fruit person with your own face, hair and clothes in a 12-second fruit soap opera. Go from a poor village kitchen to the red carpet, or catch your partner in a dramatic twist.
+Pick up to three 3D fruit people, type one line of drama or tap a twist, and get a talking fruit soap opera in 4 to 8 scenes, with captions. Want your own face in it? There is a photo version too.
 
 Also called: Fruit Love Island, Frutinovelas, Fruit story trend, AI fruit soap opera.
 
-**Make it now:** [Make this video](https://www.makeviral.ai/templates/ai-fruit-story/create). 1 photo · 12 s · 9:16 with sound · 152 credits, charged once · ready in a few minutes · no prompt to write.
+**Make it now:** [Make this video](https://www.makeviral.ai/fruit-story). 1 photo · 12 s · 9:16 with sound · 152 credits, charged once · ready in a few minutes · no prompt to write.
 
 Keyword: ai fruit story. Also answers: ai fruit video, ai fruit drama, ai fruit love island, ai fruit story generator, ai fruit video generator, how to make ai fruit videos, ai fruit stories, fruit drama ai, fruit love island ai, ai fruit videos, ai fruit story maker, ai fruit video maker, ai fruit story prompt, ai fruit video prompt, ai fruit drama prompt, ai fruit characters, ai fruit people, fruit love island characters, fruit story ai, ai fruit story tiktok, fruit drama ai tiktok, ai fruit drama generator, ai fruit drama videos, fruit ai drama series, fruit love story ai, fruit love island strawberry, ai fruit cheating, fruit people ai, turn me into a fruit, make me a fruit, ai fruit love island couples, how to make ai fruit love island videos, frutinovelas ia, ai fruit story video generator, ai fruit couple, fruit soap opera ai, fruit drama ai app, ai fruit story characters.
 
@@ -36,7 +36,7 @@ The genre never stopped. On 20 October 2026 #fruitstory had 319,941 videos and 2
 
 Made from the prompts on this page. The people and pets are AI-made, not real persons, and the sound is original. Your result will differ from run to run.
 
-- **Example 1** (13 s, 9:16 MP4 with sound): A fruit story by @fruitstory880 (15 October 2026, 744,000 views): a sleepy mango woman naps through a job interview in a hotel lobby, and her coconut friend has the perfect contest for her. Glow up makes a story like this with your face.
+- **Example 1** (13 s, 9:16 MP4 with sound): A fruit story by @fruitstory880 (15 October 2026, 744,000 views): a sleepy mango woman naps through a job interview in a hotel lobby, and her coconut friend has the perfect contest for her. The story maker makes talking scenes like this with your own fruit people.
   - Video: https://www.makeviral.ai/media/templates/ai-fruit-story/original-main-v2.mp4
   - Poster: https://www.makeviral.ai/media/templates/ai-fruit-story/original-main-v1.jpg
 
@@ -46,7 +46,7 @@ Everything runs in the browser. No editing app, no watermark.
 
 ### The one-tap way (no prompt to write)
 
-1. **Add your photo.** Press "Make yours" and add you, face and upper body. Take it with the camera or pick it from your library. Start here: https://www.makeviral.ai/templates/ai-fruit-story/create
+1. **Add your photo.** Press "Make yours" and add you, face and upper body. Take it with the camera or pick it from your library. Start here: https://www.makeviral.ai/fruit-story
 2. **Press Generate.** The button shows the price. Seedance 2.5 films the AI Fruit Story scene straight from your photo, with no in-between picture, for 12 seconds with original sound. You write no prompt.
 3. **Download or share.** The video is ready in a few minutes as a 9:16 MP4. Download it, share it from your phone, or find it later in your Library.
 
@@ -113,7 +113,7 @@ One-tap version of this variant: https://www.makeviral.ai/templates/ai-fruit-sto
 
 ### Which photo works best?
 
-Glow up needs **one photo**, Couple needs **two**, one person in each.
+The fruit story maker needs **no photo**: you pick ready-made fruit people or type your own fruit. The photos are only for the two photo versions ("Put your face in it"): Glow up needs **one photo**, Couple needs **two**, one person in each.
 
 - **A sharp face in good light**, looking at the camera, with your usual hair. The AI puts your eyes, brows, smile, hair, glasses and beard on the fruit head, so a clear face makes a fruit person your friends know at once.
 - **Face and upper body is enough.** Your clothes come along in the first shots of Glow up and in the whole Couple story.
@@ -130,14 +130,26 @@ You pay per video in credits, and the create page shows the exact price on the G
 
 Credits come with a plan; see [pricing](https://www.makeviral.ai/pricing). A failed video gives its credits back.
 
+## How does the fruit story maker work?
+
+| Step | What you do |
+|---|---|
+| **1. Your fruit people** | Pick 1 to 3 of our ready-made fruit people (Fresa the strawberry, Benny the banana, Lola the lemon, Abuela the pineapple and more), or type your own fruit, like mango or coconut. Give each one a name, a role (partner, ex, rival, mom, kid) and a personality. |
+| **2. Your story** | Type one line, like "Fresa finds a lipstick on Benny's shirt", or the lines you want them to say, like "Fresa: Who is she?!". Tap a twist if you like: Cheating twist, Rags to riches, Gold digger, Number on the forehead or Revenge. |
+| **3. Write my story** (no credits) | See the scene cards first: the place, what happens, who talks and the line. Change any of them, or skip this step and we write the story when you make the video. |
+| **4. Make it** | Pick the language (English, Spanish, French or Portuguese), 4, 6 or 8 scenes, captions on or off, and the Glossy 3D or Jelly glass look. The button shows the price. |
+
+Every scene is one picture of the place with your fruit people in it, then an 8-second talking clip of that picture with the line and its own voice, the way the creators of the trend make theirs. We join the scenes, cut them a little after the last word and put big word captions on. The video waits in your Library.
+
 ## Which fruit story can you make?
 
-| Version | Photos | What happens | Length |
+| Version | You add | What happens | Length |
 |---|---|---|---|
-| **Glow up** (default) | 1 | You fry chips in a poor village kitchen, sell them at the market, count your money in a big office and walk a red carpet. Pick your fruit: Strawberry, Banana, Grape or Pineapple. | 12 s |
-| **Couple** | 2 | You, the strawberry, catch your partner, the banana, whispering on the phone. It looks like a betrayal, but the secret is a ring. | 12 s |
+| **Fruit story maker** (default) | No photo: fruit people and one line | Your own story with up to three fruit people, one spoken line per scene, captions | 4, 6 or 8 scenes, up to 64 s |
+| **Glow up** (photo version) | 1 photo | You fry chips in a poor village kitchen, sell them at the market, count your money in a big office and walk a red carpet. Pick your fruit: Strawberry, Banana, Grape or Pineapple. | 12 s |
+| **Couple** (photo version) | 2 photos | You, the strawberry, catch your partner, the banana, whispering on the phone. It looks like a betrayal, but the secret is a ring. | 12 s |
 
-Both are vertical 9:16 at 720p, with a dramatic telenovela-style tune and two short spoken lines. They are made straight from your photos with top-quality AI video models, including Seedance 2.5, so there is no in-between picture. The exact price shows on the Generate button before you spend anything.
+All are vertical 9:16 at 720p with sound. The story maker films with Veo 3.1 Fast from Nano Banana 2.1 scene pictures; the two photo versions are made straight from your photos with Seedance 2.5, with a telenovela-style tune and two short lines. The exact price shows on the button before you spend anything.
 
 ## Glow up, shot by shot
 
@@ -154,8 +166,12 @@ It is the rags-to-riches arc of the fruit drama AI clips, without the dark parts
 
 | Problem | Fix |
 |---|---|
-| The fruit person looks less like you | Use a sharp, front-facing photo with your usual hair. Sunglasses, hats and side views make it harder. |
-| The wrong person is the strawberry in Couple | Photo 1 is always the strawberry. Swap your photos and run it again. |
+| A scene is missing from the story | Now and then the video model refuses or fails one scene. We leave it out and its credits come back by themselves. |
+| The wrong fruit person says a line | Keep two fruit people per scene at most and make the line clearly theirs. In the scene cards, "Who talks" decides it. |
+| A voice sounds a little different from scene to scene | Every scene is a new clip. Each fruit person keeps the same voice words in every scene, so the voices stay close, but they are not one recording. |
+| A line is cut off | Keep each line short: one scene is 8 seconds, and about 12 words fit. |
+| The fruit person looks less like you (photo versions) | Use a sharp, front-facing photo with your usual hair. Sunglasses, hats and side views make it harder. |
+| The wrong person is the strawberry in Couple (photo version) | Photo 1 is always the strawberry. Swap your photos and run it again. |
 | The two fruit people look alike | Use two photos with one person each, not one photo of you together. |
 | The story plays out a little differently | Every run is a new take. Run it again for another one. |
 | The model refuses a photo | Some photos get refused. The credits come back; try another photo. |
@@ -174,13 +190,17 @@ An AI fruit story is an AI fruit drama: a short 3D cartoon soap opera where AI f
 
 Fruit Love Island was an AI dating-show parody by the account Ai Cinema (@ai.cinema021) in March 2026, with fruit contestants. The Fruit Love Island characters became memes, the Fruit Love Island strawberry most of all, and the AI fruit Love Island couples broke up and made up every episode. This page does not copy the show: it makes your own fruit scene.
 
-### How do I make an AI fruit story with my face?
+### How do I make an AI fruit story?
 
-Press "Create your own", pick Glow up or Couple, add your photo (Couple: two photos), pick a fruit for Glow up and press Generate. The button shows the price first. You write no AI fruit story prompt, no AI fruit video prompt and no AI fruit drama prompt: the story, the 3D fruit look and the music are built in. The video waits in your Library when it is ready.
+Press "Create your own", pick up to three fruit people, type one line of drama or tap a twist, and press the button. The button shows the price first. You write no AI fruit story prompt, no AI fruit video prompt and no AI fruit drama prompt: we write the scenes (you can change them), and the 3D fruit look, the voices and the captions are built in. The video waits in your Library when it is ready.
+
+### Can I put my own face in the fruit story?
+
+Yes, with the photo versions. Under the button, tap "Put your face in it", pick Glow up or Couple and add your photo (Couple: two photos). You become a fruit person with your own face, hair and clothes in a 12-second scene with music.
 
 ### Is this an AI fruit video generator?
 
-Yes, for one scene at a time: an AI fruit video generator, an AI fruit story generator and an AI fruit story video generator, an AI fruit video maker and AI fruit story maker that puts you in the story. It is not an AI fruit drama generator for a whole fruit AI drama series with parts: for that, post your clip as part 1 and make the next scene later.
+Yes: an AI fruit video generator, an AI fruit story generator and an AI fruit story video generator in one, an AI fruit video maker and AI fruit story maker that writes the scenes and makes the fruit people talk. It also works as an AI fruit drama generator for a fruit AI drama series with parts: make part 1 with 4 to 8 scenes, then part 2 with the same fruit people.
 
 ### How to make AI fruit videos with your own face?
 
@@ -188,7 +208,7 @@ Most AI fruit videos start from text, so the fruit people look like nobody. Here
 
 ### Can I pick my fruit?
 
-Yes. Glow up has a Fruit pick: Strawberry (the default), Banana, Grape or Pineapple. In Couple you are the strawberry and your partner is the banana, the classic AI fruit couple of the genre.
+Yes. The story maker has ten ready-made fruit people, from a strawberry and a banana to a pineapple grandma and a little kiwi kid, and you can type any other fruit or veggie. In the photo versions, Glow up has a Fruit pick (Strawberry, Banana, Grape or Pineapple), and in Couple you are the strawberry and your partner is the banana, the classic AI fruit couple of the genre.
 
 ### What happens in the Couple version?
 
@@ -200,15 +220,15 @@ Frutinovelas (frutinovelas IA) are AI fruit telenovelas in Spanish: the fruit so
 
 ### Is there a fruit drama AI app?
 
-You need no fruit drama AI app: MakeViral runs in your browser on your phone or computer. Your AI fruit story characters are made from your photos, and the people around you are AI fruit characters made for the scene.
+You need no fruit drama AI app: MakeViral runs in your browser on your phone or computer. Your AI fruit story characters are ready-made fruit people or fruits you type, or, in the photo versions, made from your photos.
 
 ### How long is the video and where can I post it?
 
-12 seconds, vertical 9:16, as a 720p MP4 with music and two short spoken lines, with no watermark. It fits an AI fruit story TikTok post, Reels and Shorts, next to the other AI fruit drama videos. Post it as a fruit story AI part 1 and make your friends wait for part 2.
+A story from the maker has 4, 6 or 8 scenes, up to about a minute, vertical 9:16, as a 720p MP4 with the voices and captions, with no watermark. The photo versions are 12 seconds with music. Both fit an AI fruit story TikTok post, Reels and Shorts, next to the other AI fruit drama videos. Post it as a fruit story AI part 1 and make your friends wait for part 2.
 
 ### Is the video real?
 
-No. It is made with AI from your photos, and everyone else in it is an AI-made character. Use only photos of adults who agreed, never a child, and keep the AI label on when you post.
+No. Every fruit person in it is an AI-made cartoon character, and the photo versions are made with AI from your photos. Never use real people or brand names in the story, use only photos of adults who agreed (never a photo of a child), and keep the AI label on when you post.
 
 ## Other AI video templates and tools
 
@@ -224,4 +244,4 @@ No. It is made with AI from your photos, and everyone else in it is an AI-made c
 
 Add one photo and press Generate. No prompt to write. 152 credits, charged once.
 
-[Make this video](https://www.makeviral.ai/templates/ai-fruit-story/create)
+[Make this video](https://www.makeviral.ai/fruit-story)

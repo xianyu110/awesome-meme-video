@@ -5,7 +5,7 @@
 Canonical: https://www.makeviral.ai/templates/blue-screen-glitch-ai-trend
 Updated: 2026-10-16
 Published: 2026-10-16
-Author: İrfan Şener (https://www.makeviral.ai/about)
+Author: MakeViral Team (https://www.makeviral.ai/about)
 Publisher: MakeViral (https://www.makeviral.ai)
 
 **Blue Screen Glitch** is an AI trend that turns one photo of you into a retro computer crash: you stand still in a black suit in a dusky field, an old armchair burns behind you, error windows pop up, and a blue screen glitch flashes over everything. It is a glitch effect made from one full-body photo.

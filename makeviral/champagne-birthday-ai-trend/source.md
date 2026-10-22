@@ -5,7 +5,7 @@
 Canonical: https://www.makeviral.ai/templates/champagne-birthday-ai-trend
 Updated: 2026-10-20
 Published: 2026-10-16
-Author: İrfan Şener (https://www.makeviral.ai/about)
+Author: MakeViral Team (https://www.makeviral.ai/about)
 Publisher: MakeViral (https://www.makeviral.ai)
 
 The **champagne birthday trend** is a TikTok birthday video: you sit on a park bench at night, pop a bottle of champagne, a jet shoots straight up and the clip turns black and white with "Happy Birthday" in white letters. This template makes your version from one photo, as a real-reel copy or as a sunroof scene.

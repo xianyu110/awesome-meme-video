@@ -5,7 +5,7 @@
 Canonical: https://www.makeviral.ai/templates/smash-and-grab-ai-trend
 Updated: 2026-10-18
 Published: 2026-10-14
-Author: İrfan Şener (https://www.makeviral.ai/about)
+Author: MakeViral Team (https://www.makeviral.ai/about)
 Publisher: MakeViral (https://www.makeviral.ai)
 
 The **smash and grab AI video** is a fictional car-window heist: a fixed camera inside a parked car shows an item on the back seat, you walk up, the glass shatters like a movie stunt, and you grab the item and run. You need a photo of yourself and one of the item, or of your pet and its treats.
@@ -221,7 +221,7 @@ Yes. Each video costs credits, and the create page shows the exact price on the 
 
 ## Other AI video templates and tools
 
-- [AI Arrest Trend: Make the “Getting Arrested Again” Video With One Photo](https://www.makeviral.ai/templates/ai-arrest-trend): Two officers walk you out of the house at night, hands cuffed behind your back, red and blue lights on your face, and you give the camera a small, smug smile. One photo in, an 8-second AI clip with night street sound out. A joke, made with your own photo.
+- [Not Bro Getting Arrested Again AI Video: The AI Arrest Trend From One Photo](https://www.makeviral.ai/templates/ai-arrest-trend): Two officers walk you out of the house at night, hands cuffed behind your back, red and blue lights on your face, and you give the camera a small, smug smile. One photo in, an 8-second AI clip with night street sound out. A joke, made with your own photo.
 - [Car Roof Backflip AI Video: You Flip From One Car to the Next](https://www.makeviral.ai/templates/car-roof-backflip-ai-trend): You climb out of a black SUV on the highway, stand on its roof, do one slow backflip across the gap and land in a crouch on the red hatchback next to it. Add one photo. It is an AI effect, never a stunt to try.
 - [Car Jump AI Video: A Truck Flies Over You, You Stay Calm](https://www.makeviral.ai/templates/ai-car-jump-trend): You sit in a folding camp chair with your legs crossed, raise one fist, and a black pickup flies over the field behind you and lands at your back. You never turn around. Add a selfie, or a selfie and a photo of your own car.
 - [AI TikTok Video](https://www.makeviral.ai/tools/ai-tiktok-video-generator): Eight native TikTok formats, one prompt or product URL, a finished 9:16 video with captions burned in.

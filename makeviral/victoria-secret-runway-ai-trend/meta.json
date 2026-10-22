@@ -6,7 +6,7 @@
   "url": "https://www.makeviral.ai/templates/victoria-secret-runway-ai-trend",
   "markdown_url": "https://www.makeviral.ai/templates/victoria-secret-runway-ai-trend.md",
   "blurb": "The Victoria Secret AI trend turns one photo into a fashion show clip: you walk to the end of a glossy runway in giant angel wings, wave, strut and blow a kiss while the cameras flash.",
-  "updated": "2026-10-20",
+  "updated": "2026-10-21",
   "published": "2026-10-20",
   "credits": 126,
   "demo_videos": [
@@ -33,6 +33,12 @@
       "text": "Transform the person in [Image 1] into a stunning Dark Angel runway queen with dramatic black wings, gothic couture, and a luxurious red-lit fashion show.\n\nA phone video filmed from the audience: one continuous handheld take that slowly zooms in. A long glossy black runway lit in deep red, thin red light beams and haze, a dark arena full of cheering people, camera rigs and photographers in the foreground.\nTHE MODEL: the person in [Image 1], in every frame: copy the exact face from [Image 1] (the face shape, eye color and eye shape, eyebrows, nose, mouth, skin tone, age, hair color, hair length and hairstyle, and any beard, moustache, glasses or freckles), so their friends recognize them at once. The face stays the same from the first frame to the last; never morph.\nTHE OUTFIT: dramatic black feathered wings strapped to the back, taller than the head and wider than the shoulders; gothic couture: a floor-length black beaded gown with long black lace sleeves and a high black lace collar, long black gloves, and a crown of thin black spikes like a dark halo; dark lipstick. If [Image 1] shows a man, he is the runway king in a black beaded gothic suit with a high collar, the same wings and the same crown.\n\n[00:00-00:02] THE MODEL stands at the far end of the runway in the red light, chin up, with a cool, fierce look.\n[00:02-00:06] THE MODEL struts down the runway toward the camera with a slow, powerful catwalk, the black wings moving with each step, camera flashes popping on both sides.\n[00:06-00:08] the camera zooms in closer: THE MODEL stops at the end of the runway, one hand on the hip, and gives a slow smirk.\n[00:08-00:10] THE MODEL looks straight into the lens as the black wings spread wide behind them, the face large and sharp: exactly the face from [Image 1]. If [Image 1] shows an animal, THE MODEL is that animal walking the runway on its own four legs, with its own face, fur and markings, in small black wings sized for it, and no gown.\n\nSOUND: a dark, slow, heavy runway beat with NO singing and NO lyrics, a gasping, cheering crowd and camera shutters clicking.\n\n真人实拍、五官清晰、面部稳定、不扭曲、不变形、人体结构正常、同一角色、服装一致、发型不变.\n\nAvoid: singing, lyrics, a different outfit, missing wings, a different face, a different animal or species, extra people on the runway, writing, logos, captions, subtitles, watermarks, extra limbs, morphing, facial distortion. The outfit covers the body like an evening gown: never a bra top, never underwear or lingerie as the outfit. No letters, words or logos on the stage, the screens or the clothes. The wings grow from the back, never from the arms."
     },
     {
+      "label": "1. The video prompt is filled in. Settings: Seedance 2.5, 10 s, 720p, 9:16, sound on. The video prompt",
+      "variant": null,
+      "kind": "video_prompt",
+      "text": "High-end photorealistic fashion backstage video. A glamorous high-fashion backstage preparation scene immediately before a spectacular runway show: a dark backstage dressing area, mirrors framed by round bulbs, clothes rails, staff in black.\nTHE MODEL: the person in [Image 1], in every frame: copy the exact face from [Image 1] (the face shape, eye color and eye shape, eyebrows, nose, mouth, skin tone, age, hair color, hair length and hairstyle, and any beard, moustache, glasses or freckles), so their friends recognize them at once. The face stays the same from the first frame to the last; never morph.\nTHE OUTFIT: an elaborate white couture gown with long sleeves and a high neck, the bodice decorated with intricate bead embroidery and sparkling crystals, a floor-length layered feather-textured skirt, silver heels; from 00:05, large dramatic white feather wings. If [Image 1] shows a man, he wears a white beaded couture suit and the same wings.\n\n[00:00-00:03] a cinematic medium close-up from a three-quarter side angle: THE MODEL sits calmly at the bulb mirror while professional makeup artists prepare them for the runway. Only the makeup artists' hands are visible: a soft brush on the cheek, then lipstick (a man: powder only). THE MODEL remains still and composed, then looks subtly toward the camera, the face large and sharp: exactly the face from [Image 1]. Makeup appears polished and sophisticated with realistic skin texture: soft glam that keeps their own features.\n[00:03-00:05] the camera slowly moves downward: a dresser in black kneels at THE MODEL's feet and fastens the strap of a silver heel.\n[00:05-00:08] a smooth upward reveal: THE MODEL stands up in the large white feather wings, a dresser adjusts the wing straps, bright camera flashes make the crystals sparkle.\n[00:08-00:10] THE MODEL turns and walks toward a doorway of bright white runway light, the wings seen from behind, and glances back with a subtle confident smile. If [Image 1] shows an animal, THE MODEL is that animal with its own face, fur and markings: the brush grooms its fur, a small crystal collar instead of heels, small white wings, no gown, on four legs.\n\nCamera: smooth gimbal, slow push-in, shallow depth of field. Lighting: dark backstage, bright flashes, subtle haze.\nSOUND: soft backstage chatter, brushes, camera shutters, then a glossy runway beat with NO singing and NO lyrics as THE MODEL walks into the light.\n\nNo nudity. No letters on the chair backs, the mirrors or the walls.\n真人实拍、五官清晰、面部稳定、不扭曲、不变形、人体结构正常、同一角色、服装一致、发型不变.\n\nAvoid: singing, lyrics, a different outfit, missing wings, a different face, a different animal or species, extra people on the runway, writing, logos, captions, subtitles, watermarks, extra limbs, morphing, facial distortion. The outfit covers the body like an evening gown: never a bra top, never underwear or lingerie as the outfit. No letters, words or logos on the stage, the screens or the clothes. The wings grow from the back, never from the arms."
+    },
+    {
       "label": "1. Open [AI Photo with this template](https://www.makeviral.ai/photo?template=victoria-secret-runway-ai-trend&variant=pet) and add your photo (your pet, whole body). The photo prompt is filled in",
       "variant": "Pet",
       "kind": "photo_prompt",
@@ -50,7 +56,7 @@
     "How to make the VS Angel Runway AI video on MakeViral",
     "Which photo works best?",
     "What happens in the Victoria Secret AI runway video, second by second?",
-    "Angel, Dark angel or Pet: which version should you make?",
+    "Angel, Dark angel, Backstage or Pet: which version should you make?",
     "How do I make a Victoria Secret AI video from my photo?",
     "Is there an angel wings AI effect for video?",
     "Can I make a Victoria Secret AI photo instead of a video?",
@@ -59,6 +65,6 @@
     "Other AI video templates and tools",
     "Make your own VS Angel Runway AI video"
   ],
-  "prompt_count": 4,
-  "scraped_at": "2026-10-21"
+  "prompt_count": 5,
+  "scraped_at": "2026-10-22"
 }

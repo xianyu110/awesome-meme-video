@@ -5,7 +5,7 @@
 Canonical: https://www.makeviral.ai/templates/clapping-cat-ai-video
 Updated: 2026-10-15
 Published: 2026-10-11
-Author: İrfan Şener (https://www.makeviral.ai/about)
+Author: MakeViral Team (https://www.makeviral.ai/about)
 Publisher: MakeViral (https://www.makeviral.ai)
 
 The **clapping cat** meme, also called **black cat clapping**, is an AI clip from September 2026: a black cat sits up on its hind legs, grins with human teeth and slowly claps a pair of human hands at the camera. Here your own cat or dog plays the part. You need one clear photo of your pet.
@@ -55,7 +55,7 @@ Everything runs in the browser. No editing app, no watermark.
 
 ### The by-hand way, with the exact prompts
 
-The one-tap flow runs these prompts for you. A photo prompt puts your photo into the scene (Nano Banana 2, image mode, 9:16, 1K), then a video prompt animates that still. To change them, copy them and edit them in AI Photo and AI Video.
+The one-tap flow runs these prompts for you. A photo prompt puts your photo into the scene (Nano Banana 2.1, image mode, 9:16, 1K), then a video prompt animates that still. To change them, copy them and edit them in AI Photo and AI Video.
 
 Settings: 1 photo (your pet, whole body) · Kling 3.0 · 6 s · 1080p · 9:16 · with sound · 35 credits in one tap.
 
@@ -117,7 +117,7 @@ The original reel has no music, just room sound and a few loud claps, so your cl
 
 The template works in two steps, the same route the creator described in his tutorial: first a still, then a video.
 
-1. **The still.** Nano Banana 2 takes your photo and sits your pet upright in your room, with two small human hands instead of front paws, held together at its chest. The fur, the face and the markings stay as in your photo.
+1. **The still.** Nano Banana 2.1 takes your photo and sits your pet upright in your room, with two small human hands instead of front paws, held together at its chest. The fur, the face and the markings stay as in your photo.
 2. **The video.** A video model animates the still for 6 seconds: the grin, the slow claps and the clap sounds.
 
 | | Standard (default) | Best |

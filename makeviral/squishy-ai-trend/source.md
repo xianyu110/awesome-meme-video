@@ -5,7 +5,7 @@
 Canonical: https://www.makeviral.ai/templates/squishy-ai-trend
 Updated: 2026-10-18
 Published: 2026-10-13
-Author: İrfan Şener (https://www.makeviral.ai/about)
+Author: MakeViral Team (https://www.makeviral.ai/about)
 Publisher: MakeViral (https://www.makeviral.ai)
 
 The **squishy face AI trend** turns one photo of your face into a glossy, jelly-like silicone head lying on a table. Two hands squeeze the cheeks, knead the face like soft dough and let go, and it slowly bounces back into shape, with squishy ASMR sounds. You need one clear photo of your face, or of your pet.
@@ -56,7 +56,7 @@ Everything runs in the browser. No editing app, no watermark.
 
 ### The by-hand way, with the exact prompts
 
-The one-tap flow runs these prompts for you. A photo prompt puts your photo into the scene (Nano Banana 2, image mode, 9:16, 1K), then a video prompt animates that still. To change them, copy them and edit them in AI Photo and AI Video.
+The one-tap flow runs these prompts for you. A photo prompt puts your photo into the scene (Nano Banana 2.1, image mode, 9:16, 1K), then a video prompt animates that still. To change them, copy them and edit them in AI Photo and AI Video.
 
 #### Variant: Human
 
@@ -142,7 +142,7 @@ The sound is close-up ASMR: wet squelches and soft sticky pops with every squeez
 
 The template works in two steps, so the squishy keeps your face:
 
-1. **The still.** Nano Banana 2 takes your photo and makes a glossy silicone version of your face lying on a wooden table, seen from above, with your features, hair and skin tone.
+1. **The still.** Nano Banana 2.1 takes your photo and makes a glossy silicone version of your face lying on a wooden table, seen from above, with your features, hair and skin tone.
 2. **The video.** A video model animates the still for 8 seconds: the hands, the squeeze, the kneading, the bounce back and the squish sounds.
 
 | | Standard (default) | Best |
@@ -153,7 +153,7 @@ The template works in two steps, so the squishy keeps your face:
 | Sound | ASMR squish sounds | The same |
 | Price | Lower | Higher |
 
-The exact price shows on the Generate button before you spend anything. You write no prompt. Both steps use the prompt that the trend's creators shared in March 2026 and that the tutorials repeat word for word, with your photo added and rules for the sound, the hands and no text. A tutorial from 19 March 2026 made this look with Nano Banana 2 and Kling 3.0, the same models as Standard.
+The exact price shows on the Generate button before you spend anything. You write no prompt. Both steps use the prompt that the trend's creators shared in March 2026 and that the tutorials repeat word for word, with your photo added and rules for the sound, the hands and no text. A tutorial from 19 March 2026 made this look with Nano Banana 2 and Kling 3.0. Standard uses Nano Banana 2.1 and Kling 3.0.
 
 ## What goes wrong, and how do you fix it?
 

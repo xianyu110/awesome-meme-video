@@ -25,7 +25,7 @@ The bby wow guy is the man in the viral quince party clip: he dances toward the 
 ```text
 Recreate the reference video [Video 1] shot for shot: the same quinceañera party hall at night with purple, pink and green party lights, white curtains, flower centerpieces, gold chairs, a photo light on a stand and guests in party dresses and shirts, the same handheld phone camera, the same vertical framing, timing and moves. The ONLY change: the young man with the short dark hair and the silver chain who dances toward the camera, bites a small sweet bread, stares into the lens with full cheeks and dances away is now the person in [Image 1].
 
-The party guest = the person in [Image 1], in EVERY shot: copy the exact face from [Image 1] - face shape, eye color and eye shape, eyebrows, nose, mouth, skin tone, age, hair color, hair length and hairstyle, and any beard, moustache, glasses or freckles exactly as in the photo. The party guest wears the clothes from [Image 1]; if [Image 1] shows only the head or the upper body, a plain white oversized T-shirt with no print and loose black pants. The same real person in every frame, from the first second to the last, so their friends instantly recognize them, also in the big close-up while they chew. When only the back of the head shows, it has the hair from [Image 1]. Never morph, never drift back to the original young man's face. NO letters, NO horse print and NO cross print on the T-shirt, front or back, NO text or logo on any clothes, and NO silver chain unless [Image 1] shows them. If [Image 1] shows an animal, the party guest is that animal standing upright, with its own face, fur and markings and the natural body volume and proportions of that animal: never flattened, squashed, stretched or merged with anything.
+The party guest = the person in [Image 1], in EVERY shot: copy the exact face from [Image 1] - face shape, eye color and eye shape, eyebrows, nose, mouth, skin tone, age, hair color, hair length and hairstyle, and any beard, moustache, glasses or freckles exactly as in the photo. The party guest wears exactly the clothes from [Image 1] in every shot: the same top with the same color, pattern and print, the same jacket, shirt or dress, front and back. NEVER the white T-shirt or the loose black pants of the young man in the video unless [Image 1] shows them. If [Image 1] does not show the legs, plain trousers that go with that top. The same real person in every frame, from the first second to the last, so their friends instantly recognize them, also in the big close-up while they chew. When only the back of the head shows, it has the hair from [Image 1]. Never morph, never drift back to the original young man's face or clothes. NO DAKITI letters, NO horse print, NO cross print and NO silver chain unless [Image 1] shows them. If [Image 1] shows an animal, the party guest is that animal standing upright, with its own face, fur and markings and the natural body volume and proportions of that animal: never flattened, squashed, stretched or merged with anything.
 
 The party guest copies the young man's moves and face second by second:
 0-2.5 s: dances in from the left toward the camera with loose, bouncy steps, shoulders swaying to the beat, between the guests.
@@ -34,5 +34,46 @@ The party guest copies the young man's moves and face second by second:
 6.5-9.5 s: still chewing, turns around and dances away into the crowd with the back to the camera, one hand up.
 
 The other guests stay as they are in the video, small and soft in the background; never put the face from [Image 1] on a guest. Anatomy rules: one head only, on the party guest's shoulders. Two arms and two hands, five fingers on each hand, one sweet bread. No text, no captions, no emojis, no logos, no watermark.
+```
+
+### 2. 1. The video prompt is filled in. Settings: Seedance 2.5, 10 s, 720p, 9:16, sound on. The video prompt
+
+*Kind: video_prompt*
+
+```text
+A funny party clip in one continuous handheld shot with no cuts, like a real phone video filmed at night. Photorealistic. The camera is held low, at the baby's eye level, and follows the baby with a slight sway in a vertical frame, so the baby's face stays large and sharp.
+
+The baby is the one in [Image 1], in every frame: copy the exact face from [Image 1] (the face shape, eye color and eye shape, eyebrows, nose, mouth, cheeks, skin tone, hair color, hair length and hairstyle) and the clothes from [Image 1]. Keep the same baby at the same age: a boy stays a boy and a girl stays a girl, with the same hair length, never an older child. The baby keeps real baby anatomy: a small chubby body, a big round head, short arms and legs and small baby hands, never an adult body. The face stays the same from the first frame to the last, so the family recognizes the baby at once. If [Image 1] shows an animal, the dancer is that animal instead, with its own face, fur and markings. If [Image 1] shows an adult, that adult does the same moves with their own body.
+
+The place: a quinceañera party hall at night with purple, pink and green party lights, white curtains, flower centerpieces on round tables, gold chairs and grown-up guests in party dresses and shirts dancing, soft and out of focus behind the baby. The baby is the only child: every guest is a grown-up, seen mostly from the waist down at this low camera height, and no guest has the face from [Image 1].
+
+Second by second:
+0-2.5 s: the baby toddles in from the left toward the camera with wobbly, bouncy little steps, shoulders swaying to the beat, between the guests.
+2.5-4 s: close to the camera, lifts a small round sweet bread with a pink sugar shell to the mouth with both hands and takes a big bite.
+4-7 s: big close-up: chews with puffed cheeks, eyes wide, staring straight into the lens, dead serious.
+7-10 s: still chewing, turns around and toddles away into the crowd with the back to the camera, one little hand up, bopping to the beat.
+
+Audio: loud, upbeat Latin party music with a reggaeton beat, party chatter and soft chewing sounds. No dialogue. One baby, one sweet bread, no extra limbs, no morphing. No text, no captions, no emojis, no logos, no watermark.
+```
+
+### 3. 1. Open [AI Photo with this template](https://www.makeviral.ai/photo?template=bby-wow-guy-ai-trend&variant=pet) and add your photo (your pet, whole body). The photo prompt is filled in (Pet)
+
+*Kind: photo_prompt*
+
+```text
+Use the uploaded image as the base. 9:16 vertical photo, like a real phone photo taken from low down, at the pet's eye level, at a party at night. The pet from the uploaded image stands on the shiny dance floor of a quinceañera party hall at night with purple, pink and green party lights, white curtains, flower centerpieces on round tables, gold chairs and grown-up guests in party dresses and shirts dancing; the guests are soft and out of focus, seen mostly from the waist down at this low height. The pet stands a few steps from the camera, facing the camera, with a small round sweet bread with a pink sugar shell held gently in its mouth, ears up, looking into the lens with a cool, serious face. Its whole body is in view, with its tail, and purple and pink party light falls on its fur. Realistic photo with natural colors and a soft, shallow depth of field. Exactly one animal. No clothes on the pet. No text, no logos, no watermark.
+```
+
+### 4. 3. Press the film button on the still to open AI Video with the still as the first frame. Settings: Kling 3.0, 10 s, 1080p, 9:16, sound on. The video prompt
+
+*Kind: video_prompt*
+
+```text
+One continuous handheld shot with no cuts, like a real phone video filmed from low down at a quinceañera party at night. Keep the animal's face, fur, markings and size, the sweet bread, the purple and pink party lights and the dancing guests exactly as in the image.
+0-2.5 s: the pet trots toward the camera across the dance floor with the sweet bread in its mouth, bouncing to the beat, its head bobbing.
+2.5-4 s: it stops right in front of the lens, sits down and chomps a big bite off the sweet bread.
+4-7 s: big close-up: it chews with puffed cheeks, eyes wide, staring straight into the lens, dead serious.
+7-10 s: still chewing, it turns around and wiggles away into the crowd, tail up, hips swinging to the beat, its back to the camera. The back of the pet has the same fur colors and markings as in the image.
+The camera stays low and follows it with a slight sway. Audio: loud, upbeat Latin party music with a reggaeton beat, party chatter and soft chewing sounds. The pet never speaks. Exactly one animal, on four legs, no extra legs, no human hands, one sweet bread, no morphing. No text, no subtitles, no logos, no watermark.
 ```
 

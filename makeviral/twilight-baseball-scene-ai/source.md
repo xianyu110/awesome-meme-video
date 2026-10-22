@@ -5,7 +5,7 @@
 Canonical: https://www.makeviral.ai/templates/twilight-baseball-scene-ai
 Updated: 2026-10-18
 Published: 2026-10-18
-Author: İrfan Şener (https://www.makeviral.ai/about)
+Author: MakeViral Team (https://www.makeviral.ai/about)
 Publisher: MakeViral (https://www.makeviral.ai)
 
 The **twilight baseball scene** trend recreates the vampire baseball game from the 2008 film: the high leg kick and the pitch, thunder on the swing, a sprint and a leaping catch between the pines. The **Twilight baseball scene AI** template makes that clip with you, or your pet, from one photo.
@@ -222,7 +222,7 @@ Human makes 12 seconds at 720p and Pet makes 10 seconds, both vertical 9:16, as 
 
 - [Damon Salvatore AI Trend: Walk Into the Church and Smirk as Damon](https://www.makeviral.ai/templates/damon-salvatore-ai-trend): Your face, Damon's dark blazer and his entrance: you step into a sunlit church, every head in the pews turns, and you end on his slow smirk. Or take the first viral clip, the smirk in a dim room. One photo, the trend's own clip, with its sound.
 - [AI Werewolf Transformation: Watch Yourself Turn Into a Wolf](https://www.makeviral.ai/templates/ai-werewolf-transformation): The camera circles you as your bones shift, your jaw stretches into a muzzle and thick wolf fur covers you, until a dire wolf stands where you were. One photo of you or your pet, a 10-second clip with growls and a howl.
-- [AI Dunk Trend: Dunk in a Pro Game From One Photo](https://www.makeviral.ai/templates/ai-dunk-trend): Add one photo. AI puts you on the court in your own clothes: dunk in a packed night game and scream at the camera, jump over a green furry mascot, cross up a pickup game, or catch an alley-oop in slow motion.
+- [AI Dunk Trend: Dunk in a Pro Game From One Photo](https://www.makeviral.ai/templates/ai-dunk-trend): Add one photo. AI puts you on the court in your own clothes: dunk in a packed night game and scream at the camera, jump over a green furry mascot, cross up a pickup game, or catch an alley-oop in slow motion. Add a friend's photo too, and you dunk right over them.
 - [AI TikTok Video](https://www.makeviral.ai/tools/ai-tiktok-video-generator): Eight native TikTok formats, one prompt or product URL, a finished 9:16 video with captions burned in.
 - [AI Reels](https://www.makeviral.ai/tools/ai-reels-generator): Pick a format, give it a topic or a product link, and get a finished vertical reel with voice and captions. Nothing to film, nothing to edit.
 - [AI photo generator](https://www.makeviral.ai/ai-photo-generator)

@@ -5,7 +5,7 @@
 Canonical: https://www.makeviral.ai/templates/mi-chico-dance-ai-trend
 Updated: 2026-10-17
 Published: 2026-10-17
-Author: İrfan Şener (https://www.makeviral.ai/about)
+Author: MakeViral Team (https://www.makeviral.ai/about)
 Publisher: MakeViral (https://www.makeviral.ai)
 
 The **Mi Chico dance** is the TikTok trend to DJ Goja's 2026 hit "Mi Chico", remixed with Jason Derulo in June: hand rolls over the chest, arm rolls, hands up by the head and hip sways. From your photos, MakeViral plays it with you in your own place, with you and a friend as a duo, or with your pet.

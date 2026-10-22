@@ -1,0 +1,50 @@
+# Window Peeper Filter: Get Caught Eating a Burger at the Window
+
+- Source: [makeviral](https://www.makeviral.ai/templates/window-peeper-ai-filter)
+- Slug: `window-peeper-ai-filter`
+
+The window peeper filter is the window peeper trend of October 2026: a night shot pushes in to the one lit window of a dark building, someone eats a burger alone, catches the camera, stares and shuts the curtain.
+
+## Demo videos (CDN)
+
+- https://www.makeviral.ai/media/templates/window-peeper-ai-filter/example-v1.mp4
+
+## Posters
+
+- https://www.makeviral.ai/media/templates/window-peeper-ai-filter/example-v1-input.jpg
+- https://www.makeviral.ai/media/templates/window-peeper-ai-filter/example-v1-poster.jpg
+
+## Prompts
+
+### 1. 1. The video prompt is filled in. Settings: Seedance 2.5, 10 s, 720p, 9:16, sound on. The video prompt
+
+*Kind: video_prompt*
+
+```text
+Create a photorealistic vertical video of the person in [Image 1], caught eating a burger alone at a lit window at night. Never write the words of this prompt, photo labels or file names as text anywhere in the video.
+
+The person is the one in [Image 1], in every frame: copy the exact face from [Image 1] (the face shape, eye color and eye shape, eyebrows, nose, mouth, skin tone, age, hair color, hair length and hairstyle, and any beard, moustache, glasses or freckles), so their friends recognize them at once. The same face from the first frame to the last; never morph. They wear the clothes from [Image 1]. If [Image 1] shows an animal, it is that animal sitting upright on the chair, with its own face, fur and markings.
+
+Nighttime exterior of a modern apartment building. Start far away, showing the building facade with many windows. Only one apartment window is warmly illuminated. All the other windows are dark.
+
+ONE SINGLE CONTINUOUS SHOT, NO CUTS.
+
+0-2.5 s: the camera begins a slow, smooth, cinematic physical push-in through the night air toward that illuminated window: NOT a digital zoom, NOT a sudden crop, NOT a transition. Then the window fills the frame: the person sits at a small wooden table right behind the glass, seen from the waist up, the face large and sharp, a long cream curtain at the side of the window.
+
+Through the window, the person is alone, eating a big burger with both hands. On the table: a plain brown paper takeaway bag and an open plain red burger box, with no logo and no writing.
+
+2.5-4 s: at first, the person is completely unaware of the camera, takes a big bite and does NOT look toward the lens.
+
+4-7.5 s: then the person notices the camera, freezes mid-chew and looks directly into the camera with a deadpan, irritated, suspicious expression, as if realizing a stranger has been watching them, cheeks full, still chewing slowly. They do NOT smile. They are NOT surprised or scared. They do NOT immediately close the curtain.
+
+7.5-8.5 s: still visibly annoyed, they slowly put the burger down in the box and stand up, keeping eye contact with the camera. No rushing.
+
+8.5-10 s: only then, they grab the curtain and pull it across until the window is completely covered. The closed curtain stays warmly lit from inside until the end.
+
+VISUAL STYLE: photorealistic, like a real phone video filmed from across the street at night, subtle natural acting, warm interior light against the cool blue night, realistic window reflections, 9:16 vertical.
+
+NO cuts, NO instant zoom, NO morphing faces, NO distorted hands, NO smiling at camera, NO waving, NO second person. NO logos, brand names or text on the bag, the box, the window or anywhere, no subtitles, no watermark.
+
+Audio: quiet night city ambience, the crinkle of the paper bag, soft chewing, a fabric swish when the curtain closes. No music, no speech.
+```
+

@@ -7,10 +7,12 @@ The My Ride Is Here broom trend is a Halloween 2026 video joke: filmed from a ca
 
 ## Demo videos (CDN)
 
+- https://www.makeviral.ai/media/templates/my-ride-is-here-broom-trend/original-crash-v2.mp4
 - https://www.makeviral.ai/media/templates/my-ride-is-here-broom-trend/original-forest-v2.mp4
 
 ## Posters
 
+- https://www.makeviral.ai/media/templates/my-ride-is-here-broom-trend/original-crash-v1.jpg
 - https://www.makeviral.ai/media/templates/my-ride-is-here-broom-trend/original-forest-v1.jpg
 
 ## Prompts
@@ -21,5 +23,13 @@ The My Ride Is Here broom trend is a Halloween 2026 video joke: filmed from a ca
 
 ```text
 Image 1 replaces the young woman with short black hair in the black polka-dot dress, black tights and black boots who walks along the forest road with a broom beside the car, looks back at the camera with a smile, sits on the broom and flies up over the trees, in every shot. Preserve the person's face, hairstyle, skin tone, proportions and outfit from image 1 in every shot, also when the rider looks back and smiles, with no short black hair and no black polka-dot dress unless image 1 shows them. The rider and the broom move as one connected unit. Keep the forest road, the tall pine trees, the car window and the side mirror, the broom, the flight path, the motion and the camera exactly as in the video.
+```
+
+### 2. 1. The video prompt is filled in. Settings: h3-recast, 10 s, 720p, 9:16, sound off. The video prompt
+
+*Kind: video_prompt*
+
+```text
+Image 1 replaces the woman with shoulder-length brown hair in the grey hooded sweatshirt and blue jeans who flies on the broom down the street toward the camera, smiles and flashes a peace sign at the camera, flies into the road sign, falls onto the grass and gets back up, in every shot. Preserve the person's face, hairstyle, skin tone, proportions and outfit from image 1 in every shot, also when the rider smiles at the camera and while they lie on the grass, with no shoulder-length brown hair and no grey hooded sweatshirt unless image 1 shows them. The rider and the broom move as one connected unit until the crash. The fall is harmless slapstick: the rider lands on the grass unhurt, with no blood and no injury. Keep the quiet street, the trees, the houses, the blank road sign, the grass, the broom, the flight path, the crash, the motion and the camera exactly as in the video. No text, no logos, no watermark.
 ```
 

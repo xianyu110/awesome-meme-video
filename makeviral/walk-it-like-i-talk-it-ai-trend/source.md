@@ -5,7 +5,7 @@
 Canonical: https://www.makeviral.ai/templates/walk-it-like-i-talk-it-ai-trend
 Updated: 2026-10-15
 Published: 2026-10-14
-Author: İrfan Şener (https://www.makeviral.ai/about)
+Author: MakeViral Team (https://www.makeviral.ai/about)
 Publisher: MakeViral (https://www.makeviral.ai)
 
 The **Walk It Like I Talk It AI trend** puts you and your friends into the viral carpool rap clip: you lead the rap from the front passenger seat, a friend drives, another raps in the back, with the same head bops, lip sync and fast cuts. Add three photos, two, or one photo of your pet.

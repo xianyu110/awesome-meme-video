@@ -5,7 +5,7 @@
 Canonical: https://www.makeviral.ai/templates/sniffer-dog-ai-trend
 Updated: 2026-10-18
 Published: 2026-10-14
-Author: İrfan Şener (https://www.makeviral.ai/about)
+Author: MakeViral Team (https://www.makeviral.ai/about)
 Publisher: MakeViral (https://www.makeviral.ai)
 
 The **sniffer dog meme** is a viral TikTok format: a sniffer dog in a black working vest weaves through a party crowd at night, sits at one person's feet and looks up, and that person starts to cry while the caption says "bro is so cooked". You need one photo of yourself, or add your pet as the dog.
@@ -236,7 +236,7 @@ Stitch the Snitch is the dog behind the TikTok account @stitchthesnitchh, which 
 
 ## Other AI video templates and tools
 
-- [AI Arrest Trend: Make the “Getting Arrested Again” Video With One Photo](https://www.makeviral.ai/templates/ai-arrest-trend): Two officers walk you out of the house at night, hands cuffed behind your back, red and blue lights on your face, and you give the camera a small, smug smile. One photo in, an 8-second AI clip with night street sound out. A joke, made with your own photo.
+- [Not Bro Getting Arrested Again AI Video: The AI Arrest Trend From One Photo](https://www.makeviral.ai/templates/ai-arrest-trend): Two officers walk you out of the house at night, hands cuffed behind your back, red and blue lights on your face, and you give the camera a small, smug smile. One photo in, an 8-second AI clip with night street sound out. A joke, made with your own photo.
 - [AI Crying Video: Make the Tears Effect From One Photo](https://www.makeviral.ai/templates/ai-crying-video): One photo of you becomes the night farewell scene from a drama: you smile through tears at someone, the smile breaks, and you walk away.
 - [Whining Dog Meme: Make Your Dog Whine Like the Viral Doberman](https://www.makeviral.ai/templates/whiny-dog-ai-trend): Your dog looks into the camera, tilts its head and whines "hmm hmm hmm" like the viral Doberman, on the sofa from the original clip. One dog photo in, a 7-second clip with the whine sound out.
 - [Meme Video](https://www.makeviral.ai/tools/meme-video-generator): One line of text, one image, six seconds. The cheapest format to produce and the easiest one to test ten different ways in an afternoon.

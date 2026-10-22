@@ -5,7 +5,7 @@
 Canonical: https://www.makeviral.ai/templates/baby-knight-ai-video
 Updated: 2026-10-13
 Published: 2026-10-08
-Author: İrfan Şener (https://www.makeviral.ai/about)
+Author: MakeViral Team (https://www.makeviral.ai/about)
 Publisher: MakeViral (https://www.makeviral.ai)
 
 The **mom and baby knight AI video** turns you and your child into knights on a misty moor. Your little one holds a sword twice their height in the wind; you kneel, take the heavy sword, give them a teddy bear and stand guard. It works for dads too. You need two photos: yours first, then your child's.

@@ -5,7 +5,7 @@
 Canonical: https://www.makeviral.ai/templates/ai-heaven-reunion-hug
 Updated: 2026-10-15
 Published: 2026-10-14
-Author: İrfan Şener (https://www.makeviral.ai/about)
+Author: MakeViral Team (https://www.makeviral.ai/about)
 Publisher: MakeViral (https://www.makeviral.ai)
 
 The **heaven hug** is an AI video trend where you run up a stairway of light or across golden clouds and hug a loved one who has passed away. Spanish posts call it *abrazo en el cielo*. You need two photos: one of you and one of the person you miss.

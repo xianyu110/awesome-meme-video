@@ -5,7 +5,7 @@
 Canonical: https://www.makeviral.ai/templates/im-with-you-ai-trend
 Updated: 2026-10-15
 Published: 2026-10-15
-Author: İrfan Şener (https://www.makeviral.ai/about)
+Author: MakeViral Team (https://www.makeviral.ai/about)
 Publisher: MakeViral (https://www.makeviral.ai)
 
 The **I'm With You Avril Lavigne trend** belongs to Brazilian creator Boy Marinho, who sings Avril Lavigne's I'm With You with total emotion on theme park rides, most famously on a swinging pirate ship ride. This template copies his roller coaster reel: he sings it straight into his selfie camera. Add one photo and you take his seat.

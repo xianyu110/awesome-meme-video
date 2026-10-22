@@ -5,7 +5,7 @@
 Canonical: https://www.makeviral.ai/templates/ramalama-ai-trend
 Updated: 2026-10-18
 Published: 2026-10-11
-Author: İrfan Şener (https://www.makeviral.ai/about)
+Author: MakeViral Team (https://www.makeviral.ai/about)
 Publisher: MakeViral (https://www.makeviral.ai)
 
 The **Ramalama Bang Bang trend** is a Halloween costume walk set to Róisín Murphy's 2005 song "Ramalama (Bang Bang)": a slow, low walk toward the camera, then the costume hits on the beat. Since 1 October 2026 the trend also has a witch reveal, where a phone snaps a witch crossing the full moon. The AI version needs one photo of your cat or dog: your pet trick-or-treats down a Halloween street in a new costume at every cut. The Human version needs one photo of you, and you ride the witch's broom past the moon.

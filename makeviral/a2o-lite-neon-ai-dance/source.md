@@ -5,7 +5,7 @@
 Canonical: https://www.makeviral.ai/templates/a2o-lite-neon-ai-dance
 Updated: 2026-10-17
 Published: 2026-10-17
-Author: İrfan Şener (https://www.makeviral.ai/about)
+Author: MakeViral Team (https://www.makeviral.ai/about)
 Publisher: MakeViral (https://www.makeviral.ai)
 
 The **A2O LITE NEON dance** is the TikTok trend built on the duo intro of "NEON", A2O LITE's debut song (13 October 2026): two dancers sway, spin, kick and hit a high-and-low pose. From your photos, MakeViral puts you and a friend into a real duo cover, plays the moves solo, or makes two pets dance it.

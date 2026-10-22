@@ -5,7 +5,7 @@
 Canonical: https://www.makeviral.ai/templates/couple-thriller-ai-trend
 Updated: 2026-10-16
 Published: 2026-10-16
-Author: İrfan Şener (https://www.makeviral.ai/about)
+Author: MakeViral Team (https://www.makeviral.ai/about)
 Publisher: MakeViral (https://www.makeviral.ai)
 
 The **AI couple thriller** is a short AI kiss video with a twist: a couple kisses on a stormy sea cliff, one of them turns cold and pushes the other off, and a top-down shot follows the fall. In our version the one who falls lands in the sea and pops up unhurt. You need two photos.

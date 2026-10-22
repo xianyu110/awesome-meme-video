@@ -5,7 +5,7 @@
 Canonical: https://www.makeviral.ai/templates/crazy-frog-ai-trend
 Updated: 2026-10-15
 Published: 2026-10-14
-Author: İrfan Şener (https://www.makeviral.ai/about)
+Author: MakeViral Team (https://www.makeviral.ai/about)
 Publisher: MakeViral (https://www.makeviral.ai)
 
 The **Crazy Frog AI trend** recreates the chase from the 2005 Crazy Frog music video with real people: you sit in the air on an invisible motorbike, fists forward, and race down a futuristic highway while a car chases you. Add one photo, two with a friend at the wheel, or three with your own car.

@@ -1,9 +1,9 @@
-# AI Fruit Story: You as a 3D Fruit Person in a Soap Opera
+# AI Fruit Story: Make a Talking 3D Fruit Soap Opera
 
 - Source: [makeviral](https://www.makeviral.ai/templates/ai-fruit-story)
 - Slug: `ai-fruit-story`
 
-An AI fruit story is a short 3D cartoon soap opera with fruit people: a strawberry, a banana, a grape, with love, betrayal and rags-to-riches twists.
+An AI fruit story is a short 3D cartoon soap opera with fruit people: a strawberry, a banana, a lemon, with love, betrayal and rags-to-riches twists, and every fruit person talks.
 
 ## Demo videos (CDN)
 

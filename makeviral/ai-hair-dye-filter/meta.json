@@ -27,6 +27,36 @@
       "variant": null,
       "kind": "prompt",
       "text": "Using the uploaded photo, generate a 9:16 vertical image featuring one hair color applied to the same person: burgundy, a deep wine red with a brighter cherry-red shine at the roots and along the parting, glossy and fresh, as if just dyed. Keep the person's face, expression, skin tone, lighting, outfit, and background identical to the original photo: only the hair color should change, with the same hairstyle, length, texture, parting and volume. Ensure the hair color looks realistic and blends naturally with the person's hairstyle, with natural shine and darker depth underneath, on every strand, braid or curl in view, and none on the skin. If the photo is wider, extend the background naturally. Nobody added. No hat, no hair clips, no text, no logos, no watermark, no filter look. The only change is the hair color: the identity rules below apply to the face, the hairstyle and the hair length, and the hair color is the new burgundy described above."
+    },
+    {
+      "label": null,
+      "variant": null,
+      "kind": "prompt",
+      "text": "Using the uploaded photo, generate a 9:16 vertical image featuring one hair color applied to the same person: blonde, a bright, warm golden blonde with a lighter, almost platinum shine at the roots and along the parting, glossy and fresh, as if just dyed. Keep the person's face, expression, skin tone, lighting, outfit, and background identical to the original photo: only the hair color should change, with the same hairstyle, length, texture, parting and volume. Ensure the hair color looks realistic and blends naturally with the person's hairstyle, with natural shine and darker depth underneath, on every strand, braid or curl in view, and none on the skin. If the photo is wider, extend the background naturally. Nobody added. No hat, no hair clips, no text, no logos, no watermark, no filter look. The only change is the hair color: the identity rules below apply to the face, the hairstyle and the hair length, and the hair color is the new blonde described above."
+    },
+    {
+      "label": null,
+      "variant": null,
+      "kind": "prompt",
+      "text": "Using the uploaded photo, generate a 9:16 vertical image featuring one hair color applied to the same person: red, a vivid, bright true red with a lighter, fiery copper-red shine at the roots and along the parting, glossy and fresh, as if just dyed. Keep the person's face, expression, skin tone, lighting, outfit, and background identical to the original photo: only the hair color should change, with the same hairstyle, length, texture, parting and volume. Ensure the hair color looks realistic and blends naturally with the person's hairstyle, with natural shine and darker depth underneath, on every strand, braid or curl in view, and none on the skin. If the photo is wider, extend the background naturally. Nobody added. No hat, no hair clips, no text, no logos, no watermark, no filter look. The only change is the hair color: the identity rules below apply to the face, the hairstyle and the hair length, and the hair color is the new red described above."
+    },
+    {
+      "label": null,
+      "variant": null,
+      "kind": "prompt",
+      "text": "Using the uploaded photo, generate a 9:16 vertical image featuring one hair color applied to the same person: black, a deep jet black with a cool blue-black shine at the roots and along the parting, glossy and fresh, as if just dyed. Keep the person's face, expression, skin tone, lighting, outfit, and background identical to the original photo: only the hair color should change, with the same hairstyle, length, texture, parting and volume. Ensure the hair color looks realistic and blends naturally with the person's hairstyle, with natural shine and darker depth underneath, on every strand, braid or curl in view, and none on the skin. If the photo is wider, extend the background naturally. Nobody added. No hat, no hair clips, no text, no logos, no watermark, no filter look. The only change is the hair color: the identity rules below apply to the face, the hairstyle and the hair length, and the hair color is the new black described above."
+    },
+    {
+      "label": null,
+      "variant": null,
+      "kind": "prompt",
+      "text": "Using the uploaded photo, generate a 9:16 vertical image featuring one hair color applied to the same person: brown, a rich chocolate brown with a lighter, warm caramel-brown shine at the roots and along the parting, glossy and fresh, as if just dyed. Keep the person's face, expression, skin tone, lighting, outfit, and background identical to the original photo: only the hair color should change, with the same hairstyle, length, texture, parting and volume. Ensure the hair color looks realistic and blends naturally with the person's hairstyle, with natural shine and darker depth underneath, on every strand, braid or curl in view, and none on the skin. If the photo is wider, extend the background naturally. Nobody added. No hat, no hair clips, no text, no logos, no watermark, no filter look. The only change is the hair color: the identity rules below apply to the face, the hairstyle and the hair length, and the hair color is the new brown described above."
+    },
+    {
+      "label": null,
+      "variant": null,
+      "kind": "prompt",
+      "text": "Using the uploaded photo, generate a 9:16 vertical image featuring one hair color applied to the same person: pink, a soft pastel pink with a brighter rose-pink shine at the roots and along the parting, glossy and fresh, as if just dyed. Keep the person's face, expression, skin tone, lighting, outfit, and background identical to the original photo: only the hair color should change, with the same hairstyle, length, texture, parting and volume. Ensure the hair color looks realistic and blends naturally with the person's hairstyle, with natural shine and darker depth underneath, on every strand, braid or curl in view, and none on the skin. If the photo is wider, extend the background naturally. Nobody added. No hat, no hair clips, no text, no logos, no watermark, no filter look. The only change is the hair color: the identity rules below apply to the face, the hairstyle and the hair length, and the hair color is the new pink described above."
     }
   ],
   "variant_headings": [
@@ -41,6 +71,6 @@
     "Other AI video templates and tools",
     "Make your own Hair Dye Filter video"
   ],
-  "prompt_count": 2,
-  "scraped_at": "2026-10-21"
+  "prompt_count": 7,
+  "scraped_at": "2026-10-22"
 }

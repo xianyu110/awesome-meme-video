@@ -5,7 +5,7 @@
 Canonical: https://www.makeviral.ai/templates/barbie-and-raquelle-ai-trend
 Updated: 2026-10-21
 Published: 2026-10-16
-Author: İrfan Şener (https://www.makeviral.ai/about)
+Author: MakeViral Team (https://www.makeviral.ai/about)
 Publisher: MakeViral (https://www.makeviral.ai)
 
 The **Barbie and Raquelle** trend is the TikTok slideshow where the top half shows a 3D cartoon doll and the bottom half shows you in the same pose. In the AI version the doll is you: one photo becomes a split picture, your glossy doll cartoon above, your real photo below. Do it alone or with your bestie.
@@ -47,16 +47,16 @@ Everything runs in the browser. No editing app, no watermark.
 ### The one-tap way (no prompt to write)
 
 1. **Add your photo.** Press "Make yours" and add your posed selfie or photo, waist up. Take it with the camera or pick it from your library. Start here: https://www.makeviral.ai/templates/barbie-and-raquelle-ai-trend/create
-2. **Press Generate.** The button shows the price. Nano Banana 2 puts your photo into the Barbie and Raquelle scene and makes one 2K photo. You write no prompt.
+2. **Press Generate.** The button shows the price. Nano Banana 2.1 puts your photo into the Barbie and Raquelle scene and makes one 2K photo. You write no prompt.
 3. **Download or share.** The photo is ready in a few minutes as a 9:16 2K image. Download it, share it from your phone, turn it into a video, or find it later in your Library.
 
 ### The by-hand way, with the exact prompts
 
-The one-tap flow runs this prompt for you. The photo prompt puts your photo into the scene (Nano Banana 2, image mode, 9:16, 2K). To change it, copy it and edit it in AI Photo.
+The one-tap flow runs this prompt for you. The photo prompt puts your photo into the scene (Nano Banana 2.1, image mode, 9:16, 2K). To change it, copy it and edit it in AI Photo.
 
 #### Variant: Solo
 
-Settings: 1 photo (your posed selfie or photo, waist up) · Nano Banana 2 · photo · 2K · 9:16 · 3 credits in one tap.
+Settings: 1 photo (your posed selfie or photo, waist up) · Nano Banana 2.1 · photo · 2K · 9:16 · 3 credits in one tap.
 
 1. Open [AI Photo with this template](https://www.makeviral.ai/photo?template=barbie-and-raquelle-ai-trend) and add your photo (your posed selfie or photo, waist up). Pick 2K for the same size as the one-tap photo. The photo prompt is filled in:
 
@@ -70,7 +70,7 @@ One-tap version of this variant: https://www.makeviral.ai/templates/barbie-and-r
 
 #### Variant: Besties
 
-Settings: 1 photo (one photo of you and your bestie together) · Nano Banana 2 · photo · 2K · 9:16 · 3 credits in one tap.
+Settings: 1 photo (one photo of you and your bestie together) · Nano Banana 2.1 · photo · 2K · 9:16 · 3 credits in one tap.
 
 1. Open [AI Photo with this template](https://www.makeviral.ai/photo?template=barbie-and-raquelle-ai-trend&variant=besties) and add your photo (one photo of you and your bestie together). Pick 2K for the same size as the one-tap photo. The photo prompt is filled in:
 
@@ -98,8 +98,8 @@ You pay per photo in credits, and the create page shows the exact price on the G
 
 | Model | Settings | Credits |
 | --- | --- | --- |
-| Nano Banana 2 (this template) | 2K photo, 9:16, one tap | 3 |
-| Nano Banana 2 (by hand in AI Photo) | 1K photo, 9:16, same prompt | 2 |
+| Nano Banana 2.1 (this template) | 2K photo, 9:16, one tap | 3 |
+| Nano Banana 2.1 (by hand in AI Photo) | 1K photo, 9:16, same prompt | 2 |
 
 Credits come with a plan; see [pricing](https://www.makeviral.ai/pricing). A failed photo gives its credits back.
 
@@ -114,7 +114,7 @@ You get one vertical 2K Barbie AI photo split in two halves, like a slide of the
 | Your face shape, eye color, skin tone, glasses and piercings | Your eyes: big and glossy, with long lashes |
 | Your clothes, jewelry and background | Your look: bright colors and soft studio light |
 
-**How MakeViral makes it:** your photo goes to Nano Banana 2, Google's AI image model, with the prompt the trend's creator shared on 11 October: keep your original pose, hand gestures, camera angle, background and clothing, and turn your ordinary selfie into the classic 3D cartoon style. We describe that style in words instead of naming the show, add the split layout and keep your real photo for the bottom half. The picture has no logo, no doll box, no text and no watermark. The create page shows the exact price on the Generate button.
+**How MakeViral makes it:** your photo goes to Nano Banana 2.1, Google's AI image model, with the prompt the trend's creator shared on 11 October: keep your original pose, hand gestures, camera angle, background and clothing, and turn your ordinary selfie into the classic 3D cartoon style. We describe that style in words instead of naming the show, add the split layout and keep your real photo for the bottom half. The picture has no logo, no doll box, no text and no watermark. The create page shows the exact price on the Generate button.
 
 ## Solo or Besties: which version should you pick?
 

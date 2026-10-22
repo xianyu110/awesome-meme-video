@@ -5,7 +5,7 @@
 Canonical: https://www.makeviral.ai/templates/ali-g-driving-scene-ai
 Updated: 2026-10-20
 Published: 2026-10-20
-Author: İrfan Şener (https://www.makeviral.ai/about)
+Author: MakeViral Team (https://www.makeviral.ai/about)
 Publisher: MakeViral (https://www.makeviral.ai)
 
 The **Ali G driving scene** AI trend puts you in the car scene from the 2002 film Ali G Indahouse: you grip a light-blue steering wheel with a dead-serious face, then head-bang hard when the bass drops. You need one photo for Solo or Pet, or two or three photos to fill the car with your mates.

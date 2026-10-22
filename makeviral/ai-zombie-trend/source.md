@@ -5,7 +5,7 @@
 Canonical: https://www.makeviral.ai/templates/ai-zombie-trend
 Updated: 2026-10-13
 Published: 2026-10-08
-Author: İrfan Şener (https://www.makeviral.ai/about)
+Author: MakeViral Team (https://www.makeviral.ai/about)
 Publisher: MakeViral (https://www.makeviral.ai)
 
 The **AI zombie trend** is a short love story: your partner or pet has turned into a zombie, you aim a pistol through tears, lower it and hug them anyway, then the clip cuts to a happy memory of you both. It went viral on TikTok in early October 2026. You need two photos: you, and your partner or pet.
@@ -174,11 +174,11 @@ It is a TikTok trend from late September and October 2026. An AI video turns you
 
 ### How do I do the zombie AI trend?
 
-On this page, press "Create your own", add a photo of yourself and a photo of your partner or pet, and press Generate. Seedance 2.5 films the whole story from your two photos, with sound, in 10 seconds of video. With a pet, MakeViral first makes the zombie scene photo with Nano Banana 2, then animates it. You write no prompt and edit nothing.
+On this page, press "Create your own", add a photo of yourself and a photo of your partner or pet, and press Generate. Seedance 2.5 films the whole story from your two photos, with sound, in 10 seconds of video. With a pet, MakeViral first makes the zombie scene photo with Nano Banana 2.1, then animates it. You write no prompt and edit nothing.
 
 ### What app is used for the zombie AI trend?
 
-TikTok tutorials use CapCut (the "My Beloved Zombie" template), Dreamina, PixVerse and Higgsfield. MakeViral does it on the web in one tap: for two people, Seedance 2.5 makes the video straight from your two photos; with a pet, Nano Banana 2 makes the zombie still first, then Seedance 2.0 Mini (Standard) or Seedance 2.5 (Best) makes the video.
+TikTok tutorials use CapCut (the "My Beloved Zombie" template), Dreamina, PixVerse and Higgsfield. MakeViral does it on the web in one tap: for two people, Seedance 2.5 makes the video straight from your two photos; with a pet, Nano Banana 2.1 makes the zombie still first, then Seedance 2.0 Mini (Standard) or Seedance 2.5 (Best) makes the video.
 
 ### Is there a zombie AI video generator for this trend?
 

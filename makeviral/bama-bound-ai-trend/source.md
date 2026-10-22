@@ -5,7 +5,7 @@
 Canonical: https://www.makeviral.ai/templates/bama-bound-ai-trend
 Updated: 2026-10-19
 Published: 2026-10-19
-Author: İrfan Şener (https://www.makeviral.ai/about)
+Author: MakeViral Team (https://www.makeviral.ai/about)
 Publisher: MakeViral (https://www.makeviral.ai)
 
 The **Bama Bound trend** is the TikTok meme "Applied to Bama as a joke... got in plus full ride": a photo of you in a sunny green field, holding a red I'M BAMA BOUND banner over your head as if you just got into college. It took off on 16 October 2026. Here, AI makes it from your photo.
@@ -88,7 +88,7 @@ One-tap version of this variant: https://www.makeviral.ai/templates/bama-bound-a
 
 #### Variant: Photo
 
-Settings: 1 photo (you, face clear (from the knees up is best)) · Nano Banana 2 · photo · 2K · 9:16 · 3 credits in one tap.
+Settings: 1 photo (you, face clear (from the knees up is best)) · Nano Banana 2.1 · photo · 2K · 9:16 · 3 credits in one tap.
 
 1. Open [AI Photo with this template](https://www.makeviral.ai/photo?template=bama-bound-ai-trend&variant=photo) and add your photo (you, face clear (from the knees up is best)). Pick 2K for the same size as the one-tap photo. The photo prompt is filled in:
 
@@ -186,7 +186,7 @@ Credits come with a plan; see [pricing](https://www.makeviral.ai/pricing). A fai
 | Friends | 2 | An 8-second video: you and a friend hold one banner together, scream, jump together and bump shoulders. |
 | Pet | 1 | An 8-second video: your dog or cat stands on its hind legs with the banner over its head, hops and barks or meows. |
 
-**How MakeViral makes it:** the Solo and Friends videos send your photos straight to Seedance 2.5, ByteDance's video model, with no in-between picture, so the faces stay close to yours. The Photo goes to Nano Banana 2, Google's image model, with the same prompt the trend's Kling how-tos shared: replace the person in the trend photo with the person from your photo and keep everything else. The Pet video makes a picture of your pet with the banner first, then turns it into a video. Every video comes with its own sound: screams, cheers or barks, a light breeze and an upbeat beat.
+**How MakeViral makes it:** the Solo and Friends videos send your photos straight to Seedance 2.5, ByteDance's video model, with no in-between picture, so the faces stay close to yours. The Photo goes to Nano Banana 2.1, Google's image model, with the same prompt the trend's Kling how-tos shared: replace the person in the trend photo with the person from your photo and keep everything else. The Pet video makes a picture of your pet with the banner first, then turns it into a video. Every video comes with its own sound: screams, cheers or barks, a light breeze and an upbeat beat.
 
 The create page shows the exact price on the Generate button before you spend anything, and every run is a new take.
 
@@ -245,7 +245,7 @@ Yes. The Kling how-tos for the Bama Bound trend prompt show it on screen: replac
 
 ### Is this the CapCut Bama Bound template or filter?
 
-No. MakeViral has no link to CapCut. The Bama Bound CapCut template is closed and shows no prompt. Here the Bama Bound AI filter is Nano Banana 2 for the photo and Seedance 2.5 or Kling 3.0 for the videos.
+No. MakeViral has no link to CapCut. The Bama Bound CapCut template is closed and shows no prompt. Here the Bama Bound AI filter is Nano Banana 2.1 for the photo and Seedance 2.5 or Kling 3.0 for the videos.
 
 ### Who is the Bama Bound guy?
 
@@ -291,7 +291,7 @@ Yes. MakeViral does not post your photo or the result anywhere or show them to o
 
 - [AI School Photo: Classic School Pictures From a Phone Photo](https://www.makeviral.ai/templates/ai-school-photo): Take a photo of your child at home. MakeViral turns it into a classic picture day portrait: mottled blue backdrop, soft studio light, head and shoulders. The face stays exactly the same.
 - [Champagne Birthday Trend: Pop the Bottle, Freeze in Black and White](https://www.makeviral.ai/templates/champagne-birthday-ai-trend): Add one photo and you star in the viral champagne pop: you walk to a park bench at night, pop the bottle, a tall jet of champagne shoots up and the clip turns black and white with HAPPY BIRTHDAY! at the top. Or spray it from the sunroof of a black SUV in a city at night.
-- [AI Dunk Trend: Dunk in a Pro Game From One Photo](https://www.makeviral.ai/templates/ai-dunk-trend): Add one photo. AI puts you on the court in your own clothes: dunk in a packed night game and scream at the camera, jump over a green furry mascot, cross up a pickup game, or catch an alley-oop in slow motion.
+- [AI Dunk Trend: Dunk in a Pro Game From One Photo](https://www.makeviral.ai/templates/ai-dunk-trend): Add one photo. AI puts you on the court in your own clothes: dunk in a packed night game and scream at the camera, jump over a green furry mascot, cross up a pickup game, or catch an alley-oop in slow motion. Add a friend's photo too, and you dunk right over them.
 - [Nano Banana 2](https://www.makeviral.ai/tools/nano-banana-2-image-generator): Google's image model, in a browser tab, with the reference-image dropzone that makes it useful: up to 14 photos in, one new image out.
 - [AI TikTok Video](https://www.makeviral.ai/tools/ai-tiktok-video-generator): Eight native TikTok formats, one prompt or product URL, a finished 9:16 video with captions burned in.
 - [AI photo generator](https://www.makeviral.ai/ai-photo-generator)

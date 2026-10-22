@@ -5,7 +5,7 @@
 Canonical: https://www.makeviral.ai/templates/money-flex-ai-trend
 Updated: 2026-10-20
 Published: 2026-10-20
-Author: İrfan Şener (https://www.makeviral.ai/about)
+Author: MakeViral Team (https://www.makeviral.ai/about)
 Publisher: MakeViral (https://www.makeviral.ai)
 
 The **money flex** AI trend is a short clip from one photo: a phone lies low on a dresser in a bedroom, and you (or your dog or cat) hug a long chain of cash bundles, push it at the lens, throw it, rip the band off a bundle and peek over a fan of bills. This money flex ai template makes it from your photo, as a person or as a pet. The cash is a meme prop, not a money tip.

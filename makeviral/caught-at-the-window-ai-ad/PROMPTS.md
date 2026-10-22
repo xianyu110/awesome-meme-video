@@ -25,7 +25,7 @@ Caught at the window is the viral AI commercial trend of October 2026: one shot 
 *Kind: video_prompt*
 
 ```text
-Create a photorealistic vertical brand commercial using the uploaded PRODUCT IMAGE ([Image 1]) as the exact product reference and the uploaded LOGO IMAGE ([Image 2]) only for the final end frame.
+Create a photorealistic vertical brand commercial using the uploaded product photo ([Image 1]) as the exact product reference and the uploaded logo photo ([Image 2]) only for the final end frame. Never write the words of this prompt, photo labels or file names as text anywhere in the video.
 
 Nighttime exterior of a modern apartment building. Start very far away, showing most of the building facade with many windows. Only one apartment window is warmly illuminated and subtly attracts attention. All the other windows are dark.
 
@@ -57,7 +57,7 @@ Only then, he grabs both curtains and slowly pulls them together from both sides
 
 The curtains physically block the camera’s view of the apartment. The closed curtains stay warmly lit from inside.
 
-After the curtains fully close, hold for a brief beat, then transition naturally to a clean final brand frame using the uploaded LOGO IMAGE exactly as provided. Centered logo, premium minimal presentation. Do not redesign, rewrite or distort the logo. Do not substitute any other version of the brand's logo.
+After the curtains fully close, hold for a brief beat, then transition naturally to a clean final brand frame that shows only the logo from the uploaded logo photo ([Image 2]), exactly as provided, with no other words around it. Centered logo, premium minimal presentation. Do not redesign, rewrite or distort the logo. Do not substitute any other version of the brand's logo.
 
 VISUAL STYLE: Photorealistic live-action commercial, realistic apartment architecture, realistic humans, subtle natural acting, premium cinematic lighting, warm interior light contrasted with cool blue nighttime exterior, realistic window reflections, natural depth of field, believable camera movement, high-end advertising cinematography, 9:16 vertical.
 

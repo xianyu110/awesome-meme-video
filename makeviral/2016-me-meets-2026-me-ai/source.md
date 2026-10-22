@@ -5,7 +5,7 @@
 Canonical: https://www.makeviral.ai/templates/2016-me-meets-2026-me-ai
 Updated: 2026-10-15
 Published: 2026-10-12
-Author: İrfan Şener (https://www.makeviral.ai/about)
+Author: MakeViral Team (https://www.makeviral.ai/about)
 Publisher: MakeViral (https://www.makeviral.ai)
 
 The **2016 vs 2026** AI trend puts your past and your present in the same video: your 2016 self arrives in 2026, walks up to you and asks what happened. It grew out of the "2026 is the new 2016" nostalgia wave. You need two photos: an old one and a recent one.
@@ -67,7 +67,7 @@ Everything runs in the browser. No editing app, no watermark.
 
 ### The by-hand way, with the exact prompts
 
-The one-tap flow runs these prompts for you. A photo prompt puts your photo into the scene (Nano Banana 2, image mode, 9:16, 1K), then a video prompt animates that still. To change them, copy them and edit them in AI Photo and AI Video.
+The one-tap flow runs these prompts for you. A photo prompt puts your photo into the scene (Nano Banana 2.1, image mode, 9:16, 1K), then a video prompt animates that still. To change them, copy them and edit them in AI Photo and AI Video.
 
 #### Variant: Human
 
@@ -158,7 +158,7 @@ The sound is the scene itself: the room or the street and your two lines. There 
 
 The template works in two steps:
 
-1. **The still.** Nano Banana 2 takes your two photos and places both versions of you in the place you picked, like a normal phone photo: 2016 you on the left, today's you with a coffee on the right. Each face, hairstyle and outfit stays as in its own photo.
+1. **The still.** Nano Banana 2.1 takes your two photos and places both versions of you in the place you picked, like a normal phone photo: 2016 you on the left, today's you with a coffee on the right. Each face, hairstyle and outfit stays as in its own photo.
 2. **The video.** A video model animates the still for 10 seconds: the arrival, the walk, the once-over, your two lines and the ending.
 
 | | Standard (default) | Best |

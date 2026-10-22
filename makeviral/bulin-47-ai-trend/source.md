@@ -3,9 +3,9 @@
 > The Bulin 47 AI trend, also called the Dame Hombro trend, recasts a viral freestyle from October 2026.
 
 Canonical: https://www.makeviral.ai/templates/bulin-47-ai-trend
-Updated: 2026-10-15
+Updated: 2026-10-21
 Published: 2026-10-10
-Author: İrfan Şener (https://www.makeviral.ai/about)
+Author: MakeViral Team (https://www.makeviral.ai/about)
 Publisher: MakeViral (https://www.makeviral.ai)
 
 The **Bulin 47 AI trend**, also called the Dame Hombro trend, recasts a viral freestyle from October 2026. With a portable speaker, Kevin Wai stops the Dominican artist Bulin 47 outside a red-lit restaurant, and AI puts someone else in the rapper's place. You need one photo: your face for **You**, or your pet for **Your pet**. The song stays.
@@ -16,7 +16,7 @@ Also called: Dame Hombro, Dame Hombro trend, Bulin 47 freestyle, Bulin 47 viral 
 
 **Make it now:** [Make this video](https://www.makeviral.ai/templates/bulin-47-ai-trend/create). 1 photo · 10 s · 9:16 with sound · 152 credits, charged once · ready in up to several minutes · no prompt to write.
 
-Keyword: bulin 47 ai. Also answers: kevin wai, bulin 47 viral, bulin 47 ai video, bulin 47 ai trend, dame hombro ai, kevin wai bulin 47, bulin 47 freestyle ai, como hacer el video de bulin 47, bulin 47 ia, bulin 47 improvisado ia, kevincito, bulin 47 cat, bulin 47 gato, bulin 47 tiktok, bulin 47 ai video generator, bulin 47 freestyle ai video, bulin 47 video viral, dame hombro meaning, dame hombro in english, bulin 47 face swap, bullin 47, bulim 47, bulin47, dame hombro bulin 47, bulin 47 dame hombro, bulin 47 kevin wai.
+Keyword: bulin 47 ai. Also answers: kevin wai, bulin 47 viral, bulin 47 ai video, bulin 47 ai trend, dame hombro ai, kevin wai bulin 47, bulin 47 freestyle ai, como hacer el video de bulin 47, bulin 47 ia, bulin 47 improvisado ia, kevincito, bulin 47 cat, bulin 47 gato, bulin 47 tiktok, bulin 47 ai video generator, bulin 47 freestyle ai video, bulin 47 video viral, dame hombro meaning, dame hombro in english, bulin 47 face swap, bullin 47, bulim 47, bulin47, dame hombro bulin 47, bulin 47 dame hombro, bulin 47 kevin wai, dame hombro baby, bulin 47 baby, bulin 47 bebe, dame hombro bebe, dame hombro baby ai, bulin 47 baby ai, dame hombro baby trend, bulin 47 baby trend, bulin 47 baby dance, dame hombro baby dance, dame hombro baby ai dance, baby bulin 47, bebe bailando bulin 47, dame hombro bebe ia, bulin 47 bebe ia, bulin 47 baby video.
 
 ## What is the Bulin 47 Freestyle trend, and where did it start?
 
@@ -103,6 +103,28 @@ Anatomy rules: one head only, the pet's head, on the dancer's shoulders. No text
 
 One-tap version of this variant: https://www.makeviral.ai/templates/bulin-47-ai-trend/create?variant=pet
 
+#### Variant: Baby
+
+Settings: 1 photo (your baby) · Seedance 2.5 · 10 s · 720p · 9:16 · no sound · 152 credits in one tap.
+
+1. The video prompt is filled in. Settings: Seedance 2.5, 10 s, 720p, 9:16, sound off. The video prompt:
+
+   ```text
+   Recreate the reference video [Video 1] shot for shot: the same red-lit club stairs, the same crowd filming on phones, the same handheld phone camera, the same camera angles, cuts, timing and moves. The rapper's mouth moves with the words exactly like in the video. The ONLY change: the man in the black t-shirt with the chain who freestyles to the speaker is now the baby in [Image 1].
+
+The rapper = the baby in [Image 1], in EVERY shot: a real baby with natural proportions, a small chubby body, a big round head, short arms and legs and small baby hands, never an adult body. Copy the exact face from [Image 1]: face shape, eye color and eye shape, eyebrows, nose, mouth, skin tone, age, hair color, hair length and hairstyle, and any glasses or freckles exactly as in the photo, with no beard and no moustache. The baby wears the clothes from [Image 1], never the black t-shirt or the chain. The baby stands on a tall black flight case, so the face is in the same place in the frame as the rapper's face in the video, never hidden behind the man with the speaker. The baby copies the rapping mouth, the face and the hand moves of the rapper in the video, not the smile in [Image 1].
+
+The same real baby in every frame, from the first shot to the last, so their family instantly recognizes them. Never morph, never grow older, never drift back to the original rapper's face, never add facial hair, never a baby face on an adult body.
+
+The man in the maroon hoodie who holds the speaker in the foreground keeps his own look and the back of his head; the crowd keeps their own faces. The baby is the only child: everyone else stays an adult.
+
+Anatomy rules: one head per person, on that person's own shoulders. Natural hands, stable face, consistent outfit. A face never appears on hands, clothes or the speaker. Exactly one baby. No text, no logos.
+   ```
+
+2. Press Generate, then download the 9:16 MP4.
+
+One-tap version of this variant: https://www.makeviral.ai/templates/bulin-47-ai-trend/create?variant=baby
+
 ### Which photo works best?
 
 You need **one photo**.
@@ -188,6 +210,10 @@ Press "Create your own" on this page, pick Human or Pet, and add one photo. Pres
 ### Can I make it with my cat or dog?
 
 Yes, pick Pet. It copies the AI cat reel by @adolfo___angel: your pet's head goes on the dancing character in the gray sweatshirt, and the moves, the crowd and the camera stay the same. Use a sharp photo of your pet's face with both ears in view.
+
+### Can I make the Dame Hombro baby version?
+
+Yes, pick Baby and add one photo of your own baby or toddler, face clear. Your baby takes the rapper's place in the same red-lit reel, standing on a black flight case so the crowd does not hide the baby, with the reel's own sound. Use only a photo of your own child, or of a child whose parent or guardian asked you to.
 
 ### ¿Cómo hacer el video de Bulin 47?
 

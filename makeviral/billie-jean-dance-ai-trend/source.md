@@ -5,7 +5,7 @@
 Canonical: https://www.makeviral.ai/templates/billie-jean-dance-ai-trend
 Updated: 2026-10-15
 Published: 2026-10-12
-Author: İrfan Şener (https://www.makeviral.ai/about)
+Author: MakeViral Team (https://www.makeviral.ai/about)
 Publisher: MakeViral (https://www.makeviral.ai)
 
 The **Billie Jean dance** trend puts an unlikely dancer into the famous 1983 moves: an AI granny in her living room, a dog in a black fedora, a puppy in a sequin jacket on a stage. You need one photo of yourself, of a family member who agreed, or of your pet. MakeViral does the rest.
@@ -169,7 +169,7 @@ Human and Pet each copy a viral AI reel of the dance, and your photo takes the p
 
 | | Human and Pet | Pet on stage |
 |---|---|---|
-| Model | Seedance 2.5 puts you or your pet into the reel itself at 720p: the same shots, the same scene, the same camera. It can take up to several minutes. | Standard: Nano Banana 2 dresses your pet for the stage, then Kling 3.0 plays the dance at 1080p. Best: Seedance 2.5, the model the shared prompt was written for, plays the dance at 720p. |
+| Model | Seedance 2.5 puts you or your pet into the reel itself at 720p: the same shots, the same scene, the same camera. It can take up to several minutes. | Standard: Nano Banana 2.1 dresses your pet for the stage, then Kling 3.0 plays the dance at 1080p. Best: Seedance 2.5, the model the shared prompt was written for, plays the dance at 720p. |
 | Sound | The reel's Billie Jean sound, put on after the run; you can turn it off. | The video model's own music, not the song. |
 
 Every run is a new take, so results differ.

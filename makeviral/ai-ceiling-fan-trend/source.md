@@ -5,7 +5,7 @@
 Canonical: https://www.makeviral.ai/templates/ai-ceiling-fan-trend
 Updated: 2026-10-12
 Published: 2026-10-08
-Author: İrfan Şener (https://www.makeviral.ai/about)
+Author: MakeViral Team (https://www.makeviral.ai/about)
 Publisher: MakeViral (https://www.makeviral.ai)
 
 The **AI ceiling fan trend** is the TikTok clip filmed straight down through a slowly turning ceiling fan: you lie on the floor, a blade sweeps across the lens, and each time it passes you wear a new outfit. Real creators tape a phone to the ceiling and change four times. Here you need one photo with your face clear.
@@ -137,7 +137,7 @@ The fan blade is the edit. In the real clips a phone is taped to the ceiling and
 
 The clips we sampled show three to five changes in 13 to 16 seconds, with one blade pass every three seconds or so. The outfits contrast hard in color and style, and the shoes, bags and hats change too. That makes it a magic trick and an outfit inspiration post at the same time, which is why autumn "outfit rotation" clips took it over at the end of September.
 
-The MakeViral version copies two viral AI reels of the trend, one with women's looks and one with men's looks. First Nano Banana 2 makes a close portrait from your photo, so only your face and hair go into the reel. Then Higgsfield Genjutsu puts you in place of the person in the reel, shot by shot, so every blade pass and every outfit change lands exactly where it does in the original. Your face, hair and skin tone come from your photo. The four outfits, the fan and the room come from the reel.
+The MakeViral version copies two viral AI reels of the trend, one with women's looks and one with men's looks. First Nano Banana 2.1 makes a close portrait from your photo, so only your face and hair go into the reel. Then Higgsfield Genjutsu puts you in place of the person in the reel, shot by shot, so every blade pass and every outfit change lands exactly where it does in the original. Your face, hair and skin tone come from your photo. The four outfits, the fan and the room come from the reel.
 
 The **Halloween pack** uses the women's reel with four costumes in place of the outfits: a witch, a vampire, a skeleton and a red devil, with your face always uncovered.
 

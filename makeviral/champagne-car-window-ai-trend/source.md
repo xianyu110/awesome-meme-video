@@ -5,7 +5,7 @@
 Canonical: https://www.makeviral.ai/templates/champagne-car-window-ai-trend
 Updated: 2026-10-20
 Published: 2026-10-20
-Author: İrfan Şener (https://www.makeviral.ai/about)
+Author: MakeViral Team (https://www.makeviral.ai/about)
 Publisher: MakeViral (https://www.makeviral.ai)
 
 The **champagne car window trend** is a night reel from a rainy highway: someone leans out of the rear window of a moving luxury SUV, pops a bottle of champagne, sprays it and drinks, filmed from the car alongside. From one photo, MakeViral puts you in the window. Add a photo of your car to swap the SUV.

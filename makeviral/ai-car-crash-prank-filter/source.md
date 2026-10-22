@@ -5,7 +5,7 @@
 Canonical: https://www.makeviral.ai/templates/ai-car-crash-prank-filter
 Updated: 2026-10-15
 Published: 2026-10-15
-Author: İrfan Şener (https://www.makeviral.ai/about)
+Author: MakeViral Team (https://www.makeviral.ai/about)
 Publisher: MakeViral (https://www.makeviral.ai)
 
 The **car crash prank** is the October 2026 TikTok trend where a clip of someone laughing while they drive suddenly turns into a crash: the airbag fires, the glass cracks and they look at the camera in shock. Here AI makes it from one photo of you or your pet, as a clearly cinematic stunt, so nobody films while driving.

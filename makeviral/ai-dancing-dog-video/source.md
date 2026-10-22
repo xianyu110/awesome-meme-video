@@ -5,7 +5,7 @@
 Canonical: https://www.makeviral.ai/templates/ai-dancing-dog-video
 Updated: 2026-10-12
 Published: 2026-09-30
-Author: İrfan Şener (https://www.makeviral.ai/about)
+Author: MakeViral Team (https://www.makeviral.ai/about)
 Publisher: MakeViral (https://www.makeviral.ai)
 
 An **AI dog dancing video** is a short clip where your own dog, or cat, stands upright in your home and dances like a person: side steps, paw waves, a spin and a proud final pose. It is one of the longest-running AI video trends on TikTok. To make one you need a single clear photo of your pet.
@@ -55,7 +55,7 @@ Everything runs in the browser. No editing app, no watermark.
 
 ### The by-hand way, with the exact prompts
 
-The one-tap flow runs these prompts for you. A photo prompt puts your photo into the scene (Nano Banana 2, image mode, 9:16, 1K), then a video prompt animates that still. To change them, copy them and edit them in AI Photo and AI Video.
+The one-tap flow runs these prompts for you. A photo prompt puts your photo into the scene (Nano Banana 2.1, image mode, 9:16, 1K), then a video prompt animates that still. To change them, copy them and edit them in AI Photo and AI Video.
 
 Settings: 1 photo (your pet, whole body) · Seedance 2.5 · 10 s · 720p · 9:16 · with sound · 128 credits in one tap.
 

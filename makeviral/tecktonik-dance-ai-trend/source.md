@@ -5,7 +5,7 @@
 Canonical: https://www.makeviral.ai/templates/tecktonik-dance-ai-trend
 Updated: 2026-10-15
 Published: 2026-10-12
-Author: İrfan Şener (https://www.makeviral.ai/about)
+Author: MakeViral Team (https://www.makeviral.ai/about)
 Publisher: MakeViral (https://www.makeviral.ai)
 
 The **Tecktonik dance** is the 2000s French electro dance, all sharp arm moves, that the Russian dancer Cheba Man brought back on TikTok in 2026. His viral reel shows him on a small stage under string lights, dancing to Benny Benassi's "Love Is Gonna Save Us". You need one photo: you, your cat or your dog takes his place.

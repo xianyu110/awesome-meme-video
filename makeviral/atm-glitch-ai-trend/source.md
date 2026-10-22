@@ -5,7 +5,7 @@
 Canonical: https://www.makeviral.ai/templates/atm-glitch-ai-trend
 Updated: 2026-10-21
 Published: 2026-10-21
-Author: İrfan Şener (https://www.makeviral.ai/about)
+Author: MakeViral Team (https://www.makeviral.ai/about)
 Publisher: MakeViral (https://www.makeviral.ai)
 
 The **ATM glitch trend** is a fake security camera clip: an ATM money glitch makes the machine shoot out cash nonstop and buries the person at the ATM in bills. From one photo, MakeViral puts you into the viral ATM glitch AI reel, shot for shot, or your pet in the Pet version.

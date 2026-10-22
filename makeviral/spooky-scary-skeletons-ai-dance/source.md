@@ -5,7 +5,7 @@
 Canonical: https://www.makeviral.ai/templates/spooky-scary-skeletons-ai-dance
 Updated: 2026-10-15
 Published: 2026-10-14
-Author: İrfan Şener (https://www.makeviral.ai/about)
+Author: MakeViral Team (https://www.makeviral.ai/about)
 Publisher: MakeViral (https://www.makeviral.ai)
 
 The **Spooky Scary Skeletons AI dance** is the October 2026 TikTok edit where a character in a black vampire cape dances in front of an orange full moon, with bats and jack-o'-lanterns, to "Spooky, Scary Skeletons". MakeViral puts you, or your pet, in the cape: add one photo and get a 10-second dance clip with the song.

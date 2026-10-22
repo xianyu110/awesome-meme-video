@@ -5,7 +5,7 @@
 Canonical: https://www.makeviral.ai/templates/gemini-rain-ai-effect
 Updated: 2026-10-17
 Published: 2026-10-17
-Author: İrfan Şener (https://www.makeviral.ai/about)
+Author: MakeViral Team (https://www.makeviral.ai/about)
 Publisher: MakeViral (https://www.makeviral.ai)
 
 **Gemini rain** is the AI rain effect that turns a normal photo into a cinematic night-rain shot: soaked hair, water drops on your face, soft blue light, your eyes closed and your face lifted to the sky. The couple version puts two people in the rain together. You need one clear selfie, or two photos for the couple.
@@ -107,7 +107,7 @@ One-tap version of this variant: https://www.makeviral.ai/templates/gemini-rain-
 
 #### Variant: Rain photo
 
-Settings: 1 photo (you, face clear) · Nano Banana 2 · photo · 2K · 9:16 · 3 credits in one tap.
+Settings: 1 photo (you, face clear) · Nano Banana 2.1 · photo · 2K · 9:16 · 3 credits in one tap.
 
 1. Open [AI Photo with this template](https://www.makeviral.ai/photo?template=gemini-rain-ai-effect&variant=photo) and add your photo (you, face clear). Pick 2K for the same size as the one-tap photo. The photo prompt is filled in:
 
@@ -149,7 +149,7 @@ Three versions, all made from your own photos:
 | Solo | 1 | 8-second video. You look into the lens, slowly lift your face to the sky with your eyes closed while the rain runs down, then look back with a small smile. |
 | Rain photo | 1 | A still, vertical 9:16: the classic AI rain sad photo, eyes closed, wet hair, blue light. |
 
-The videos come out vertical at 720p with their own sound: heavy rain, soft thunder and a slow piano. Seedance 2.5 makes them straight from your photos, with no in-between picture, so the faces stay close to yours. The photo is made with Nano Banana 2. The exact price shows on the Generate button before you spend anything, and every run is a new take.
+The videos come out vertical at 720p with their own sound: heavy rain, soft thunder and a slow piano. Seedance 2.5 makes them straight from your photos, with no in-between picture, so the faces stay close to yours. The photo is made with Nano Banana 2.1. The exact price shows on the Generate button before you spend anything, and every run is a new take.
 
 ## Which Gemini rain prompt does this template use?
 

@@ -5,7 +5,7 @@
 Canonical: https://www.makeviral.ai/templates/subway-outfit-change-ai-trend
 Updated: 2026-10-16
 Published: 2026-10-16
-Author: İrfan Şener (https://www.makeviral.ai/about)
+Author: MakeViral Team (https://www.makeviral.ai/about)
 Publisher: MakeViral (https://www.makeviral.ai)
 
 The **subway outfit change** is the fashion clip filmed across the tracks: you wait on the platform looking at your phone, a train rushes past and hides you for a second, and when it is gone you stand there in a new outfit. Real creators need four outfits and four trains. Here you need one photo.
@@ -89,7 +89,7 @@ Credits come with a plan; see [pricing](https://www.makeviral.ai/pricing). A fai
 
 The train is the edit. The camera stands still on the far side of the tracks and films you full length on the platform. You stand calmly and scroll your phone. Then a silver train rushes through the frame between you and the camera, and for a second or two you are hidden behind its doors and windows. That is where the cut hides: when the last car is gone, you are back in the same spot in a new outfit.
 
-Our template copies Diana Qeblawi's reel from 15 October 2026: 13 seconds, four looks and three trains. First Nano Banana 2 makes a close portrait from your photo, so only your face and hair go into the reel. Then Higgsfield Genjutsu puts you in place of the woman in the reel, shot by shot, so every train passes and every outfit changes exactly where it does in the original. Your face, hair and skin tone come from your photo. The outfits, the white-tiled platform and the trains come from the reel.
+Our template copies Diana Qeblawi's reel from 15 October 2026: 13 seconds, four looks and three trains. First Nano Banana 2.1 makes a close portrait from your photo, so only your face and hair go into the reel. Then Higgsfield Genjutsu puts you in place of the woman in the reel, shot by shot, so every train passes and every outfit changes exactly where it does in the original. Your face, hair and skin tone come from your photo. The outfits, the white-tiled platform and the trains come from the reel.
 
 With **Your outfits** you write your own look for any of the four. MakeViral first changes those looks in the reel itself (FLUX.3 Edit Video), so the new outfits still appear behind the trains, and then puts you in. It is an NYC subway lookbook in 13 seconds, without the trip, the trains or the four changes of clothes.
 

@@ -5,7 +5,7 @@
 Canonical: https://www.makeviral.ai/templates/facebook-marketplace-husband-ai-trend
 Updated: 2026-10-20
 Published: 2026-10-20
-Author: İrfan Şener (https://www.makeviral.ai/about)
+Author: MakeViral Team (https://www.makeviral.ai/about)
 Publisher: MakeViral (https://www.makeviral.ai)
 
 The **facebook marketplace husband meme** is the US TikTok photo trend of October 2026: an AI picture of "how ima look in a couple years" when my husband comes back with another reckless Facebook Marketplace purchase. You stand on the porch of a white barndominium in a big camo t-shirt, barefoot, with a shocked face. Here, AI makes that picture from one photo of you, in the Wife or the Husband version.
@@ -48,16 +48,16 @@ Everything runs in the browser. No editing app, no watermark.
 ### The one-tap way (no prompt to write)
 
 1. **Add your photo.** Press "Make yours" and add your photo, full body if you have one. Take it with the camera or pick it from your library. Start here: https://www.makeviral.ai/templates/facebook-marketplace-husband-ai-trend/create
-2. **Press Generate.** The button shows the price. Nano Banana 2 puts your photo into the Facebook Marketplace Husband scene and makes one 2K photo. You write no prompt.
+2. **Press Generate.** The button shows the price. Nano Banana 2.1 puts your photo into the Facebook Marketplace Husband scene and makes one 2K photo. You write no prompt.
 3. **Download or share.** The photo is ready in a few minutes as a 9:16 2K image. Download it, share it from your phone, turn it into a video, or find it later in your Library.
 
 ### The by-hand way, with the exact prompts
 
-The one-tap flow runs this prompt for you. The photo prompt puts your photo into the scene (Nano Banana 2, image mode, 9:16, 2K). To change it, copy it and edit it in AI Photo.
+The one-tap flow runs this prompt for you. The photo prompt puts your photo into the scene (Nano Banana 2.1, image mode, 9:16, 2K). To change it, copy it and edit it in AI Photo.
 
 #### Variant: Wife
 
-Settings: 1 photo (your photo, full body if you have one) · Nano Banana 2 · photo · 2K · 9:16 · 3 credits in one tap.
+Settings: 1 photo (your photo, full body if you have one) · Nano Banana 2.1 · photo · 2K · 9:16 · 3 credits in one tap.
 
 1. Open [AI Photo with this template](https://www.makeviral.ai/photo?template=facebook-marketplace-husband-ai-trend) and add your photo (your photo, full body if you have one). Pick 2K for the same size as the one-tap photo. The photo prompt is filled in:
 
@@ -71,7 +71,7 @@ One-tap version of this variant: https://www.makeviral.ai/templates/facebook-mar
 
 #### Variant: Husband
 
-Settings: 1 photo (your photo, full body if you have one) · Nano Banana 2 · photo · 2K · 9:16 · 3 credits in one tap.
+Settings: 1 photo (your photo, full body if you have one) · Nano Banana 2.1 · photo · 2K · 9:16 · 3 credits in one tap.
 
 1. Open [AI Photo with this template](https://www.makeviral.ai/photo?template=facebook-marketplace-husband-ai-trend&variant=husband) and add your photo (your photo, full body if you have one). Pick 2K for the same size as the one-tap photo. The photo prompt is filled in:
 
@@ -98,8 +98,8 @@ You pay per photo in credits, and the create page shows the exact price on the G
 
 | Model | Settings | Credits |
 | --- | --- | --- |
-| Nano Banana 2 (this template) | 2K photo, 9:16, one tap | 3 |
-| Nano Banana 2 (by hand in AI Photo) | 1K photo, 9:16, same prompt | 2 |
+| Nano Banana 2.1 (this template) | 2K photo, 9:16, one tap | 3 |
+| Nano Banana 2.1 (by hand in AI Photo) | 1K photo, 9:16, same prompt | 2 |
 
 Credits come with a plan; see [pricing](https://www.makeviral.ai/pricing). A failed photo gives its credits back.
 
@@ -117,7 +117,7 @@ One new photo of you, a couple of years from now, in the moment the reckless Fac
 
 The picture has no text on it, so you add the meme line yourself when you post.
 
-**How MakeViral makes it:** your photo goes to Nano Banana 2, Google's image model, with the prompts the trend's creators shared, and comes back as one 2K vertical picture. The create page shows the exact price on the Generate button before you spend anything, and every run is a new take.
+**How MakeViral makes it:** your photo goes to Nano Banana 2.1, Google's image model, with the prompts the trend's creators shared, and comes back as one 2K vertical picture. The create page shows the exact price on the Generate button before you spend anything, and every run is a new take.
 
 ## How to post the facebook marketplace husband trend
 
@@ -186,7 +186,7 @@ A country line from 2020 by Billy Yarborough about a hunting dog, often called t
 
 ### Is there an app for the facebook marketplace ai photos? Can I use ChatGPT?
 
-The creators made their facebook marketplace ai photos with ChatGPT and their own prompt, which is why the chatgpt facebook marketplace trend name exists. Some said in the comments that ChatGPT and Gemini did not keep their face. This page uses the same prompt on Nano Banana 2 with our face lock, so the picture keeps your face, age and hair. No app needed: it runs in your browser.
+The creators made their facebook marketplace ai photos with ChatGPT and their own prompt, which is why the chatgpt facebook marketplace trend name exists. Some said in the comments that ChatGPT and Gemini did not keep their face. This page uses the same prompt on Nano Banana 2.1 with our face lock, so the picture keeps your face, age and hair. No app needed: it runs in your browser.
 
 ### Does it cost credits?
 

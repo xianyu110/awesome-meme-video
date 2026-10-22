@@ -5,7 +5,7 @@
 Canonical: https://www.makeviral.ai/templates/you-look-lonely-ai-trend
 Updated: 2026-10-17
 Published: 2026-10-17
-Author: İrfan Şener (https://www.makeviral.ai/about)
+Author: MakeViral Team (https://www.makeviral.ai/about)
 Publisher: MakeViral (https://www.makeviral.ai)
 
 **You look lonely, I can fix that** is the line of a giant hologram that leans down to a lonely person in a rainy neon city. This template makes that scene with your own faces: photo 1 becomes the hologram, photo 2 the one on the bridge. One photo works too, and so does a still wallpaper.
@@ -102,7 +102,7 @@ One-tap version of this variant: https://www.makeviral.ai/templates/you-look-lon
 
 #### Variant: Wallpaper photo
 
-Settings: 1 photo (you, the giant, face clear) · Nano Banana 2 · photo · 2K · 9:16 · 3 credits in one tap.
+Settings: 1 photo (you, the giant, face clear) · Nano Banana 2.1 · photo · 2K · 9:16 · 3 credits in one tap.
 
 1. Open [AI Photo with this template](https://www.makeviral.ai/photo?template=you-look-lonely-ai-trend&variant=wallpaper) and add your photo (you, the giant, face clear). Pick 2K for the same size as the one-tap photo. The photo prompt is filled in:
 

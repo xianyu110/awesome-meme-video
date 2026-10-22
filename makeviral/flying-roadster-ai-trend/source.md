@@ -5,7 +5,7 @@
 Canonical: https://www.makeviral.ai/templates/flying-roadster-ai-trend
 Updated: 2026-10-19
 Published: 2026-10-17
-Author: İrfan Şener (https://www.makeviral.ai/about)
+Author: MakeViral Team (https://www.makeviral.ai/about)
 Publisher: MakeViral (https://www.makeviral.ai)
 
 The **flying Tesla Roadster** meme is the AI video trend that followed Tesla's Roadster demo of 15 October 2026: you sit stuck in traffic, press a button, rockets fire and your car flies over the jam while your coffee goes everywhere. You need one clear selfie, plus a photo of your car to fly your own ride.
@@ -436,6 +436,7 @@ No. Use your own photo, or a friend who said yes. Never a celebrity or a strange
 - [Car Jump AI Video: A Truck Flies Over You, You Stay Calm](https://www.makeviral.ai/templates/ai-car-jump-trend): You sit in a folding camp chair with your legs crossed, raise one fist, and a black pickup flies over the field behind you and lands at your back. You never turn around. Add a selfie, or a selfie and a photo of your own car.
 - [Venom Car Trend: Black Liquid Builds Your Car](https://www.makeviral.ai/templates/venom-car-ai-trend): Add one photo of your car. A glossy black living liquid crawls across a dark underground car park, builds the engine and chassis, flows into the body, and your own car stands there with its headlights on. 10 or 20 seconds, with sound.
 - [24 Unforgettable Car Trend AI: Flick the 2 and 4, Reveal Your Car](https://www.makeviral.ai/templates/unforgettable-car-trend-ai): You walk up to the camera, hold up a 2 and a 4, flick both cards at the lens, and a sports car is parked behind you. One photo, add a photo of the car you want, swap the car for a private jet, or make the car backflip on thrusters. 10 to 14 seconds, with the song from the viral clips.
+- [Stop Sign? What Stop Sign? AI: Put Yourself or Your Pet in the Bodycam Meme](https://www.makeviral.ai/templates/what-stop-sign-ai-trend): Pulled over at night, you ask why, mishear the officer and answer "Stop sign? What stop sign, man?" with the most innocent face. A new AI bodycam scene made from your photo, or with your dog or cat at the wheel.
 - [AI TikTok Video](https://www.makeviral.ai/tools/ai-tiktok-video-generator): Eight native TikTok formats, one prompt or product URL, a finished 9:16 video with captions burned in.
 - [AI Reels](https://www.makeviral.ai/tools/ai-reels-generator): Pick a format, give it a topic or a product link, and get a finished vertical reel with voice and captions. Nothing to film, nothing to edit.
 - [AI photo generator](https://www.makeviral.ai/ai-photo-generator)

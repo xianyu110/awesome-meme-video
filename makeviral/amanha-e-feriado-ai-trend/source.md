@@ -5,7 +5,7 @@
 Canonical: https://www.makeviral.ai/templates/amanha-e-feriado-ai-trend
 Updated: 2026-10-18
 Published: 2026-10-14
-Author: İrfan Şener (https://www.makeviral.ai/about)
+Author: MakeViral Team (https://www.makeviral.ai/about)
 Publisher: MakeViral (https://www.makeviral.ai)
 
 The **Dimitri meme**, called the **"amanhã é feriado"** (tomorrow is a holiday) meme in Brazil, is a 2008 Russian club interview: a young man grumbles to a TV reporter, hears some news and bursts into a wild dance. In October 2026 a Portuguese dub made it viral again. Here you play the part. You need one clear photo.

@@ -5,7 +5,7 @@
 Canonical: https://www.makeviral.ai/templates/toc-toc-dance-ai-trend
 Updated: 2026-10-15
 Published: 2026-10-14
-Author: İrfan Şener (https://www.makeviral.ai/about)
+Author: MakeViral Team (https://www.makeviral.ai/about)
 Publisher: MakeViral (https://www.makeviral.ai)
 
 The **Toc Toc dance** is the viral TikTok dance of autumn 2026: a deadpan dancer hops on one foot, knocks on an invisible door and kicks across the room to a French party song. Many people call it the Jean Phil dance. You need one photo, or two for a duo, and your clip comes with the sound.

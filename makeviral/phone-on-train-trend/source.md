@@ -5,7 +5,7 @@
 Canonical: https://www.makeviral.ai/templates/phone-on-train-trend
 Updated: 2026-10-13
 Published: 2026-10-12
-Author: İrfan Şener (https://www.makeviral.ai/about)
+Author: MakeViral Team (https://www.makeviral.ai/about)
 Publisher: MakeViral (https://www.makeviral.ai)
 
 The **phone on the train trend** (also the Training Season train trend, or the phone taped to the train trend) is a 2026 reel joke: you tape or stick your phone on a metro window, sing on the platform while it films you, then run after the train as it leaves with your phone. Here you take the singer's place in the most-liked version, in Paris. You need one photo.

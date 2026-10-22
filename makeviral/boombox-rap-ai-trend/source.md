@@ -3,9 +3,9 @@
 > The boombox rap AI trend turns two photos into a street rap video: you walk toward the camera and rap with big hand moves, while a friend walks behind you with a silver boombox on the shoulder.
 
 Canonical: https://www.makeviral.ai/templates/boombox-rap-ai-trend
-Updated: 2026-10-17
+Updated: 2026-10-22
 Published: 2026-10-17
-Author: İrfan Şener (https://www.makeviral.ai/about)
+Author: MakeViral Team (https://www.makeviral.ai/about)
 Publisher: MakeViral (https://www.makeviral.ai)
 
 The **boombox rap** AI trend turns two photos into a street rap video: you walk toward the camera and rap with big hand moves, while a friend walks behind you with a silver boombox on the shoulder. It has the look of the Connor Price and Nic D "Slide" video. You need two clear photos, or one for solo.
@@ -16,13 +16,13 @@ Also called: Boombox rap trend, Slide boombox trend, Boombox walk trend, Street 
 
 **Make it now:** [Make this video](https://www.makeviral.ai/templates/boombox-rap-ai-trend/create). 2 photos · 10 s · 9:16 with sound · 126 credits, charged once · ready in a few minutes · no prompt to write.
 
-Keyword: boombox rap. Also answers: connor price and nic d, boombox on shoulder, ai rap video generator, connor price slide, slide connor price, ai rap video, nic d slide, connor price slide dance, ai rap trend, rap duo ai, boombox rapper, boombox ai, carrying boombox on shoulder, connor price & nic d slide, slide connor price nic d, connor price ai, boombox walking, hit em with a fus ro dah, connor price fus ro dah, fus ro dah song, fus roh dah song, connor price slide ai, connor price slide trend, connor price slide video, slide song connor price, slide dance ai, boombox rap ai, boombox rap ai trend, boombox ai video, boombox ai trend, man with boombox on shoulder, ai rap video with friends, ai music video with friends, ai video two people, boombox rap song.
+Keyword: boombox rap. Also answers: connor price and nic d, boombox on shoulder, ai rap video generator, connor price slide, slide connor price, ai rap video, nic d slide, ai pet video, connor price slide dance, ai rap trend, rap duo ai, boombox rapper, ai pet video generator, boombox ai, carrying boombox on shoulder, connor price & nic d slide, slide connor price nic d, connor price ai, boombox walking, hit em with a fus ro dah, connor price fus ro dah, fus ro dah song, fus roh dah song, dog rapping, rapping dog, dog rapper, dog rapping ai, ai dog rapping, dog rapping video, dog rapping with owner, dog with boombox, boombox dog, dog rapping meme, cat rapping, ai dog rap, boombox rap with dog, boombox rap pet, ai rap video with dog, music video dog with boombox, ai video of me and my dog, connor price slide ai, connor price slide trend, connor price slide video, slide song connor price, slide dance ai, boombox rap ai, boombox rap ai trend, boombox ai video, boombox ai trend, man with boombox on shoulder, ai rap video with friends, ai music video with friends, ai video two people, boombox rap song.
 
 ## What is the Boombox Rap trend, and where did it start?
 
 The clip comes from **"Slide" by Connor Price and Nic D**, two artists who make many songs together and film most of them as one-take walking videos. They released the song on 3 January 2026 with a video on YouTube: the two walk down a quiet street next to a red-brick building, one raps into the camera with quick hand moves, and the other walks behind him with a silver boombox on his shoulder. Nic D posted the walk on TikTok the same day, the first reel of the clip (367,100 views by 17 October 2026). Connor Price posted his own take a day later, rapping in front while Nic D carries the boombox (189,000 views). People look up the song as "Slide Connor Price" or "Nic D Slide".
 
-In October 2026 the walk became an AI template. From 15 October an AI video app ran TikTok ads for a two-photo version, and an AI template site listed it as the Connor Price Slide dance. The clip at the top of this page is Nic D's original reel. Your video is made from scratch: no real footage and no real artist's face.
+In October 2026 the walk became an AI template. From 15 October an AI video app ran TikTok ads for a two-photo version, and an AI template site listed it as the Connor Price Slide dance. The clip at the top of this page is Nic D's original reel. On 17 October an AI creator posted an animal version: an AI iguana raps in front while an AI-made friend carries the boombox, which is the idea of our Pet version. Your video is made from scratch: no real footage and no real artist's face.
 
 ### Boombox Rap trend timeline
 
@@ -31,6 +31,7 @@ In October 2026 the walk became an AI template. From 15 October an AI video app 
 - **2026-01-04**: Connor Price posts his take, rapping in front while Nic D carries the boombox: 189,000 views by 17 October 2026. Source: [TikTok](https://www.tiktok.com/@connorprice__/video/7591589476820929847).
 - **2026-01-13**: Connor Price thanks fans for taking "Slide" into Spotify's Top 10 debut chart. Source: [TikTok](https://www.tiktok.com/@connorprice__/video/7594902628190915854).
 - **2026-10-15**: An AI video app starts TikTok ads for a two-photo boombox rap template (15 ads by 16 October), and an AI template site adds the same scene.
+- **2026-10-17**: An AI creator posts an animal version of the walk: an AI iguana raps in front while an AI-made friend carries the boombox (12,500 views by 21 October 2026). Source: [TikTok](https://www.tiktok.com/@glitch.critters/video/7697730578233281806).
 
 ## What the Boombox Rap video looks like
 
@@ -39,6 +40,9 @@ Made from the prompts on this page. The people and pets are AI-made, not real pe
 - **Example 1** (15 s, 9:16 MP4 with sound): The first reel of the clip, posted by Nic D on 3 January 2026: he raps down a brick street while Connor Price walks behind with the boombox. Your version puts you and a friend in a new street scene.
   - Video: https://www.makeviral.ai/media/templates/boombox-rap-ai-trend/original-slide-v2.mp4
   - Poster: https://www.makeviral.ai/media/templates/boombox-rap-ai-trend/original-slide-v1.jpg
+- **Example 2** (15 s, 9:16 MP4 with sound): An AI version posted on 17 October 2026: an AI iguana raps down the brick street while an AI-made friend carries the boombox. The Pet version puts your own pet in front and you behind it with the boombox.
+  - Video: https://www.makeviral.ai/media/templates/boombox-rap-ai-trend/original-pet-v2.mp4
+  - Poster: https://www.makeviral.ai/media/templates/boombox-rap-ai-trend/original-pet-v1.jpg
 
 ## How to make the Boombox Rap video on MakeViral
 
@@ -113,14 +117,46 @@ Audio: an original upbeat, bouncy hip-hop beat that plays from the boombox, the 
 
 One-tap version of this variant: https://www.makeviral.ai/templates/boombox-rap-ai-trend/create?variant=solo
 
+#### Variant: Pet
+
+Settings: 2 photos (you, with the boombox + your pet, the rapper (whole body)) · Seedance 2.5 · 10 s · 720p · 9:16 · with sound · 126 credits in one tap.
+
+1. The video prompt is filled in. Settings: Seedance 2.5, 10 s, 720p, 9:16, sound on. The video prompt:
+
+   ```text
+   A playful street rap clip like a real music video, in one continuous handheld shot with no cuts: the camera moves backward down the street in front of a pet and its owner as they walk toward it, low enough to keep the whole pet in view, and frames the owner from the knees up, both faces large and sharp. Photorealistic, soft overcast daylight, slightly warm film colors.
+
+The place: a quiet side street next to a long red-brick building with rows of windows, on a grey, overcast day: cracked grey asphalt with faded parking lines, a few parked cars far back, trees and low brick houses at the end of the street.
+
+The rapper, in FRONT on the RIGHT, closest to the camera, is the pet in [Image 2], in every frame: the same species and breed, face, eyes, ears, muzzle, fur colors, fur length and markings as in [Image 2], with the natural body volume and proportions of that animal: never flattened, squashed, stretched or merged with anything, so its owner recognizes it at once. It walks upright on its hind legs, with real furry paws, never human hands. Its mouth opens and closes with every rapped word; it keeps its own animal face, teeth and tongue. No clothes, no costume, no sunglasses, no chain.
+The owner with the boombox, half a step behind on the LEFT, is the person in [Image 1], in every frame: copy the exact face from [Image 1] (the face shape, eye color and eye shape, eyebrows, nose, mouth, skin tone, age, hair color, hair length and hairstyle, and any beard, moustache, glasses or freckles) and the clothes from [Image 1]. The face stays the same from the first frame to the last, so their friends recognize them at once. Never morph.
+If [Image 1] shows the animal and [Image 2] the person, swap the roles: the animal always raps in front, the person always carries the boombox.
+
+The owner carries a big silver retro boombox on the left shoulder, away from the pet, one hand on its handle, never in front of a face, and nods to the beat, grins and hypes the pet up.
+
+0-3 s: they walk toward the camera; the pet raps into the lens, points a front paw at the camera and bounces on each step.
+3-6 s: still walking, the pet turns an invisible steering wheel with both front paws, taps a paw on its head and makes binoculars with both paws around the eyes.
+6-8 s: the pet leans toward the camera with a cheeky look for the punchline, while the owner lifts the boombox a little higher and laughs.
+8-10 s: the pet shields its face from flashing cameras with one paw, then drops it; both stop, the pet gives the camera a cool nod and the owner points at it with a big smile.
+
+Audio: an original upbeat, bouncy hip-hop beat from the boombox, a playful, clean rap in English for the pet in sync with its mouth, and the owner's short ad-libs and laughs.
+
+Exactly one person, one animal and one boombox, nobody else on the street; they never merge with each other or with the boombox. No text, no subtitles, no logos, no brand names on the boombox or the clothes.
+   ```
+
+2. Press Generate, then download the 9:16 MP4.
+
+One-tap version of this variant: https://www.makeviral.ai/templates/boombox-rap-ai-trend/create?variant=pet
+
 ### Which photo works best?
 
-Upload **two photos**: first the rapper, then the friend with the boombox. Keep this order: photo 1 always walks in front.
+Upload **two photos**: first the rapper, then the friend with the boombox. Keep this order: photo 1 always walks in front. In the Pet version, photo 1 is you with the boombox and photo 2 is your pet, the rapper.
 
 - **From the waist or knees up, face clear and well lit.** The AI keeps your faces, hair and clothes, so wear what you want to be seen in. A hoodie or a denim jacket fits the look.
 - **Look at the camera or a little to the side.** No sunglasses, and no hair over the eyes.
 - **One person per photo.** In a group photo the AI can pick the wrong person.
 - **Going solo?** Pick the "Just you" version: one photo, and a made-up friend in sunglasses carries the boombox.
+- **Your pet as the rapper?** Pick the "Pet" version. For photo 2, use a sharp photo of your dog or cat with the whole body and the face in view, in good light, with no other animals.
 - Use your own photos, or photos of adult friends who said yes. Never a celebrity or a stranger.
 
 ## How many credits does it cost?
@@ -144,6 +180,8 @@ Credits come with a plan; see [pricing](https://www.makeviral.ai/pricing). A fai
 
 Your friend keeps walking half a step behind you the whole time, the boombox on the shoulder away from you, nodding to the beat like a hype man. The video is vertical (9:16), 10 seconds, with an original beat and a rap in English. The street, the red-brick building and the boombox look the same in every run; your faces and clothes come from your photos.
 
+In the **Pet** version the roles flip: your pet walks upright in front and does the rap and the moves with its front paws, in its own fur and with no clothes, while you walk half a step behind with the boombox on your shoulder, laugh and point at your pet at the end.
+
 ## How does MakeViral make the boombox rap video?
 
 The video is made straight from your photos with Seedance 2.5, ByteDance's newest video model, with no in-between picture, so both faces stay close to the photos. The real Slide video stars two real artists, so we never copy their footage or faces. No creator has shared a prompt for this trend either, so we wrote our own: it describes the street, the walk, each hand move second by second and the boombox-on-shoulder look, and it keeps both faces large in the frame.
@@ -161,6 +199,7 @@ The create page shows the exact price on the Generate button before you spend an
 | The rap words sound made up | AI rap lines can be odd. Mute the clip and add a song when you post |
 | A third person walks into the street | The prompt asks for two people only. A second run usually fixes it |
 | Hands look odd during the binoculars move | Common in fast hand moves. A sharp photo and a second run help |
+| Your pet looks less like itself or gets human hands (Pet) | Use a sharp photo of the whole pet in good light, and run it again |
 
 ## How do you post your boombox rap video?
 
@@ -196,6 +235,14 @@ Yes, for one scene. If you came for an AI rap video generator or an AI rap video
 ### Can I make the boombox rap video alone?
 
 Yes. Pick the "Just you" version and add one photo: you rap in front, and a made-up friend in a denim jacket and sunglasses walks behind you with the boombox. The two-photo version is closer to the trend.
+
+### Can my dog be the rapper in the boombox rap video?
+
+Yes. Pick the "Pet" version and add two photos: first you, then your pet. Your dog walks upright in front and raps into the camera with paw moves, while you walk behind it with the boombox on your shoulder as its hype man. It is a dog rapping with its owner, made from your own photos as an AI pet video, not real footage. A cat or another pet works the same way, if you want a cat rapping clip instead.
+
+### Is this the AI dog rapping meme?
+
+It is a new take on it. Rapping dog clips are an old meme, and many people now look for a dog rapping AI video or a dog rapper of their own. The Pet version makes a dog rapping video in the boombox rap style: a short music video with your dog in front and you with the boombox, made as an AI video of you and your pet. For this one scene it works as an AI pet video generator: add your photos and press Generate.
 
 ### Does the friend have to be a man with a boombox on the shoulder?
 

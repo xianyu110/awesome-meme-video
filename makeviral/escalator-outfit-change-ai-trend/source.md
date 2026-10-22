@@ -5,7 +5,7 @@
 Canonical: https://www.makeviral.ai/templates/escalator-outfit-change-ai-trend
 Updated: 2026-10-16
 Published: 2026-10-16
-Author: İrfan Şener (https://www.makeviral.ai/about)
+Author: MakeViral Team (https://www.makeviral.ai/about)
 Publisher: MakeViral (https://www.makeviral.ai)
 
 The **escalator outfit change** is the fashion clip filmed from straight above a long escalator: you lounge on the moving steps, ride down through the frame, and come back in a new outfit each time. Real creators film it in a mall with a phone held over the rail. Here you need one photo with your face clear.
@@ -90,7 +90,7 @@ Credits come with a plan; see [pricing](https://www.makeviral.ai/pricing). A fai
 
 The escalator is the edit. In the real clips a phone looks straight down over the rail at a long escalator, and the creator sits or lounges on the moving steps in a different outfit for each take. In the AI version that MakeViral copies, the escalator carries the person down through the frame, and as one look leaves at the bottom, the next look already rides in at the top. It looks like an escalator fashion editorial, an outfit inspiration post and a small magic trick at once.
 
-Our template copies the AI escalator reel by @abimbola_fits from 12 October 2026, cut to 13 seconds and four looks. First Nano Banana 2 makes a close portrait from your photo, so only your face and hair go into the reel. Then Higgsfield Genjutsu puts you in place of the woman in the reel, shot by shot, so every look rides in exactly where it does in the original. Your face, hair and skin tone come from your photo. The outfits, the escalator and the camera come from the reel.
+Our template copies the AI escalator reel by @abimbola_fits from 12 October 2026, cut to 13 seconds and four looks. First Nano Banana 2.1 makes a close portrait from your photo, so only your face and hair go into the reel. Then Higgsfield Genjutsu puts you in place of the woman in the reel, shot by shot, so every look rides in exactly where it does in the original. Your face, hair and skin tone come from your photo. The outfits, the escalator and the camera come from the reel.
 
 With **Your outfits** you write your own look for any of the four rides. MakeViral first changes those looks in the reel itself (FLUX.3 Edit Video), so the new outfits still arrive with the escalator, and then puts you in. It is an escalator photoshoot without the escalator, the camera or the four changes of clothes.
 

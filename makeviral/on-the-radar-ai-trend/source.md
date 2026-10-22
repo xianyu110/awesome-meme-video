@@ -5,7 +5,7 @@
 Canonical: https://www.makeviral.ai/templates/on-the-radar-ai-trend
 Updated: 2026-10-19
 Published: 2026-10-19
-Author: İrfan Şener (https://www.makeviral.ai/about)
+Author: MakeViral Team (https://www.makeviral.ai/about)
 Publisher: MakeViral (https://www.makeviral.ai)
 
 The **On The Radar AI trend** puts you in the green-lit radio booth of the On The Radar freestyle clips. In the Duo version, you and a friend rap side by side at two mics, like the Fetty Wap 679 clip; in Solo, you freestyle alone. You need one or two photos, one person in each.

@@ -5,7 +5,7 @@
 Canonical: https://www.makeviral.ai/templates/ai-airport-star-arrival
 Updated: 2026-10-20
 Published: 2026-10-12
-Author: İrfan Şener (https://www.makeviral.ai/about)
+Author: MakeViral Team (https://www.makeviral.ai/about)
 Publisher: MakeViral (https://www.makeviral.ai)
 
 The **AI airport celebrity video** turns you into a star walking out of airport arrivals: bodyguards push back a screaming crowd, phones film you, cameras flash, a fan begs for a photo and you wave on your way to the car. It is one handheld 15-second shot. You need one clear photo of yourself or your pet.
@@ -63,7 +63,7 @@ Everything runs in the browser. No editing app, no watermark.
 
 ### The by-hand way, with the exact prompts
 
-The one-tap flow runs these prompts for you. A photo prompt puts your photo into the scene (Nano Banana 2, image mode, 9:16, 1K), then a video prompt animates that still. To change them, copy them and edit them in AI Photo and AI Video.
+The one-tap flow runs these prompts for you. A photo prompt puts your photo into the scene (Nano Banana 2.1, image mode, 9:16, 1K), then a video prompt animates that still. To change them, copy them and edit them in AI Photo and AI Video.
 
 #### Variant: Human
 
@@ -210,7 +210,7 @@ Want to stop and sign for the fans instead? That is the [AI celebrity autograph 
 
 All four versions work in two steps, like a YouTube tutorial of 7 May 2026: first a still, then a video.
 
-1. **The still.** Nano Banana 2 puts you or your pet at the arrival gate (or at the open car door on the hotel's red carpet), in the middle of the bodyguards, with fans filming. Your face, or your pet's fur and markings, come from your photo.
+1. **The still.** Nano Banana 2.1 puts you or your pet at the arrival gate (or at the open car door on the hotel's red carpet), in the middle of the bodyguards, with fans filming. Your face, or your pet's fur and markings, come from your photo.
 2. **The video.** A video model plays the 15-second scene from that still, with its own sound.
 
 | | Standard (default) | Best |
@@ -322,7 +322,7 @@ This template is that VIP arrival AI effect, and you need no filter app: pick Ho
 
 - [Storm AI Trend: Stand Still While the Crowd Bows](https://www.makeviral.ai/templates/storm-ai-trend): You stand calm in the center, dressed in white. Around you, dozens of people in black suits snap, twist and bow on a heavy beat. One photo in, a 10-second clip with sound out.
 - [Hotel Lobby AI: Make the Hotel Lobby Trend Video](https://www.makeviral.ai/templates/ai-hotel-lobby-trend): You and a friend, or your two pets, trade a rap into one hanging mic in a bright orange booth. Step into the real clip or the viral cat version with the original song, or get a new 10-second version with an original beat.
-- [AI Arrest Trend: Make the “Getting Arrested Again” Video With One Photo](https://www.makeviral.ai/templates/ai-arrest-trend): Two officers walk you out of the house at night, hands cuffed behind your back, red and blue lights on your face, and you give the camera a small, smug smile. One photo in, an 8-second AI clip with night street sound out. A joke, made with your own photo.
+- [Not Bro Getting Arrested Again AI Video: The AI Arrest Trend From One Photo](https://www.makeviral.ai/templates/ai-arrest-trend): Two officers walk you out of the house at night, hands cuffed behind your back, red and blue lights on your face, and you give the camera a small, smug smile. One photo in, an 8-second AI clip with night street sound out. A joke, made with your own photo.
 - [AI TikTok Video](https://www.makeviral.ai/tools/ai-tiktok-video-generator): Eight native TikTok formats, one prompt or product URL, a finished 9:16 video with captions burned in.
 - [Nano Banana 2](https://www.makeviral.ai/tools/nano-banana-2-image-generator): Google's image model, in a browser tab, with the reference-image dropzone that makes it useful: up to 14 photos in, one new image out.
 - [AI photo generator](https://www.makeviral.ai/ai-photo-generator)

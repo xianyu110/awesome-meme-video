@@ -5,7 +5,7 @@
 Canonical: https://www.makeviral.ai/templates/alors-on-danse-ai-trend
 Updated: 2026-10-13
 Published: 2026-10-10
-Author: İrfan Şener (https://www.makeviral.ai/about)
+Author: MakeViral Team (https://www.makeviral.ai/about)
 Publisher: MakeViral (https://www.makeviral.ai)
 
 The **Alors On Danse AI** trend recasts a 2010 comedy sketch in a white studio: one person taps a mini keyboard next to a laptop while the other claps, points at the screen and leans into the camera. You need two photos: the DJ at the keyboard first, then the MC who claps. Pets work too.

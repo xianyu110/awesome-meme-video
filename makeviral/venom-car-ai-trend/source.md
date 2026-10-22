@@ -5,7 +5,7 @@
 Canonical: https://www.makeviral.ai/templates/venom-car-ai-trend
 Updated: 2026-10-15
 Published: 2026-10-15
-Author: İrfan Şener (https://www.makeviral.ai/about)
+Author: MakeViral Team (https://www.makeviral.ai/about)
 Publisher: MakeViral (https://www.makeviral.ai)
 
 The **Venom car trend** is a TikTok AI edit: a glossy black liquid, like the symbiote in the Venom films, crawls across a dark car park and builds your own car part by part until the headlights switch on. People post it as a **Venom car edit** named after their car. You need one photo of your car.

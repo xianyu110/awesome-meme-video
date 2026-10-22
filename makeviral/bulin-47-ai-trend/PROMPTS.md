@@ -47,3 +47,19 @@ The pet looks exactly like its photo in every frame, from the first shot to the 
 Anatomy rules: one head only, the pet's head, on the dancer's shoulders. No text, no logos.
 ```
 
+### 3. 1. The video prompt is filled in. Settings: Seedance 2.5, 10 s, 720p, 9:16, sound off. The video prompt
+
+*Kind: video_prompt*
+
+```text
+Recreate the reference video [Video 1] shot for shot: the same red-lit club stairs, the same crowd filming on phones, the same handheld phone camera, the same camera angles, cuts, timing and moves. The rapper's mouth moves with the words exactly like in the video. The ONLY change: the man in the black t-shirt with the chain who freestyles to the speaker is now the baby in [Image 1].
+
+The rapper = the baby in [Image 1], in EVERY shot: a real baby with natural proportions, a small chubby body, a big round head, short arms and legs and small baby hands, never an adult body. Copy the exact face from [Image 1]: face shape, eye color and eye shape, eyebrows, nose, mouth, skin tone, age, hair color, hair length and hairstyle, and any glasses or freckles exactly as in the photo, with no beard and no moustache. The baby wears the clothes from [Image 1], never the black t-shirt or the chain. The baby stands on a tall black flight case, so the face is in the same place in the frame as the rapper's face in the video, never hidden behind the man with the speaker. The baby copies the rapping mouth, the face and the hand moves of the rapper in the video, not the smile in [Image 1].
+
+The same real baby in every frame, from the first shot to the last, so their family instantly recognizes them. Never morph, never grow older, never drift back to the original rapper's face, never add facial hair, never a baby face on an adult body.
+
+The man in the maroon hoodie who holds the speaker in the foreground keeps his own look and the back of his head; the crowd keeps their own faces. The baby is the only child: everyone else stays an adult.
+
+Anatomy rules: one head per person, on that person's own shoulders. Natural hands, stable face, consistent outfit. A face never appears on hands, clothes or the speaker. Exactly one baby. No text, no logos.
+```
+

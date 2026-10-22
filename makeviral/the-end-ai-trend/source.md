@@ -5,7 +5,7 @@
 Canonical: https://www.makeviral.ai/templates/the-end-ai-trend
 Updated: 2026-10-15
 Published: 2026-10-15
-Author: İrfan Şener (https://www.makeviral.ai/about)
+Author: MakeViral Team (https://www.makeviral.ai/about)
 Publisher: MakeViral (https://www.makeviral.ai)
 
 **The End** is an AI trend where your dog or **cat waving goodbye** becomes a tiny movie: it walks up to the camera on its hind legs, waves one paw, then runs off down a city road while a soft voice says "The end." You need one clear photo of your pet or of yourself.
@@ -52,7 +52,7 @@ Everything runs in the browser. No editing app, no watermark.
 
 ### The by-hand way, with the exact prompts
 
-The one-tap flow runs these prompts for you. A photo prompt puts your photo into the scene (Nano Banana 2, image mode, 9:16, 1K), then a video prompt animates that still. To change them, copy them and edit them in AI Photo and AI Video.
+The one-tap flow runs these prompts for you. A photo prompt puts your photo into the scene (Nano Banana 2.1, image mode, 9:16, 1K), then a video prompt animates that still. To change them, copy them and edit them in AI Photo and AI Video.
 
 #### Variant: Pet
 
@@ -146,7 +146,7 @@ The sound is made with the clip: a light, playful tune, paw steps or footsteps o
 
 | | Pet: Standard (default) | Pet: Best | Human |
 |---|---|---|---|
-| How it works | Nano Banana 2 stands your pet up on the road in a still, then Kling 3.0 plays the walk, the wave and the run | The same still, then Seedance 2.5 plays it | Seedance 2.5 makes the video straight from your photo, with no in-between picture, so your face stays yours |
+| How it works | Nano Banana 2.1 stands your pet up on the road in a still, then Kling 3.0 plays the walk, the wave and the run | The same still, then Seedance 2.5 plays it | Seedance 2.5 makes the video straight from your photo, with no in-between picture, so your face stays yours |
 | Length | 8 s | 8 s | 8 s |
 | Frame | Vertical 9:16, 1080p | Vertical 9:16, 720p | Vertical 9:16, 720p |
 | Sound | Playful tune, paw steps, the whisper | The same | Playful tune, footsteps, the whisper |

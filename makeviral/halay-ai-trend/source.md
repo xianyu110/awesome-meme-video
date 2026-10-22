@@ -5,7 +5,7 @@
 Canonical: https://www.makeviral.ai/templates/halay-ai-trend
 Updated: 2026-10-15
 Published: 2026-10-12
-Author: İrfan Şener (https://www.makeviral.ai/about)
+Author: MakeViral Team (https://www.makeviral.ai/about)
 Publisher: MakeViral (https://www.makeviral.ai)
 
 The **halay AI trend** puts you and your friends into a classic Turkish TV moment, a halay dance on a music show stage. Three people dance arm in arm, a drummer beats a big davul right in front of them, and the leader waves a white handkerchief, sinks low and kicks high. You need three photos, or just one.

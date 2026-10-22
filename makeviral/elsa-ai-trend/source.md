@@ -5,7 +5,7 @@
 Canonical: https://www.makeviral.ai/templates/elsa-ai-trend
 Updated: 2026-10-15
 Published: 2026-10-12
-Author: İrfan Şener (https://www.makeviral.ai/about)
+Author: MakeViral Team (https://www.makeviral.ai/about)
 Publisher: MakeViral (https://www.makeviral.ai)
 
 The **Elsa AI** trend puts your child, or you, into the ice queen's big song from *Frozen*: singing "Let It Go" in a glowing ice palace while a sheer cape and a frosted gown appear. Here your photo takes the singer's place in a real viral AI reel of the trend. You need one clear photo.

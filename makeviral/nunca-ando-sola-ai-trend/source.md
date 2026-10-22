@@ -5,7 +5,7 @@
 Canonical: https://www.makeviral.ai/templates/nunca-ando-sola-ai-trend
 Updated: 2026-10-20
 Published: 2026-10-20
-Author: İrfan Şener (https://www.makeviral.ai/about)
+Author: MakeViral Team (https://www.makeviral.ai/about)
 Publisher: MakeViral (https://www.makeviral.ai)
 
 **Nunca ando sola** ("I never walk alone") is a TikTok AI photo trend from Mexico and the US: you from behind on a golden path, with the haloed shadows of Jesus, Saint Jude and the Virgin of Guadalupe beside your own. The caption: "¿No te da miedo andar sola? No, yo nunca ando sola." Here it takes one photo.
@@ -48,16 +48,16 @@ Everything runs in the browser. No editing app, no watermark.
 ### The one-tap way (no prompt to write)
 
 1. **Add your photo.** Press "Make yours" and add you, full body (back or side is fine). Take it with the camera or pick it from your library. Start here: https://www.makeviral.ai/templates/nunca-ando-sola-ai-trend/create
-2. **Press Generate.** The button shows the price. Nano Banana 2 puts your photo into the Nunca Ando Sola scene and makes one 2K photo. You write no prompt.
+2. **Press Generate.** The button shows the price. Nano Banana 2.1 puts your photo into the Nunca Ando Sola scene and makes one 2K photo. You write no prompt.
 3. **Download or share.** The photo is ready in a few minutes as a 9:16 2K image. Download it, share it from your phone, turn it into a video, or find it later in your Library.
 
 ### The by-hand way, with the exact prompts
 
-The one-tap flow runs this prompt for you. The photo prompt puts your photo into the scene (Nano Banana 2, image mode, 9:16, 2K). To change it, copy it and edit it in AI Photo.
+The one-tap flow runs this prompt for you. The photo prompt puts your photo into the scene (Nano Banana 2.1, image mode, 9:16, 2K). To change it, copy it and edit it in AI Photo.
 
 #### Variant: Holy shadows
 
-Settings: 1 photo (you, full body (back or side is fine)) · Nano Banana 2 · photo · 2K · 9:16 · 3 credits in one tap.
+Settings: 1 photo (you, full body (back or side is fine)) · Nano Banana 2.1 · photo · 2K · 9:16 · 3 credits in one tap.
 
 1. Open [AI Photo with this template](https://www.makeviral.ai/photo?template=nunca-ando-sola-ai-trend) and add your photo (you, full body (back or side is fine)). Pick 2K for the same size as the one-tap photo. The photo prompt is filled in:
 
@@ -71,7 +71,7 @@ One-tap version of this variant: https://www.makeviral.ai/templates/nunca-ando-s
 
 #### Variant: Hand in hand
 
-Settings: 1 photo (you, full body (back or side is fine)) · Nano Banana 2 · photo · 2K · 9:16 · 3 credits in one tap.
+Settings: 1 photo (you, full body (back or side is fine)) · Nano Banana 2.1 · photo · 2K · 9:16 · 3 credits in one tap.
 
 1. Open [AI Photo with this template](https://www.makeviral.ai/photo?template=nunca-ando-sola-ai-trend&variant=hand) and add your photo (you, full body (back or side is fine)). Pick 2K for the same size as the one-tap photo. The photo prompt is filled in:
 
@@ -98,8 +98,8 @@ You pay per photo in credits, and the create page shows the exact price on the G
 
 | Model | Settings | Credits |
 | --- | --- | --- |
-| Nano Banana 2 (this template) | 2K photo, 9:16, one tap | 3 |
-| Nano Banana 2 (by hand in AI Photo) | 1K photo, 9:16, same prompt | 2 |
+| Nano Banana 2.1 (this template) | 2K photo, 9:16, one tap | 3 |
+| Nano Banana 2.1 (by hand in AI Photo) | 1K photo, 9:16, same prompt | 2 |
 
 Credits come with a plan; see [pricing](https://www.makeviral.ai/pricing). A failed photo gives its credits back.
 
@@ -114,7 +114,7 @@ One vertical picture of you, seen from behind, in the trend's warm golden-hour l
 
 The holy figures appear only as shadows: dark silhouettes with halos, with no faces and no painted details, the way the first posts showed them. That keeps the picture calm and respectful, and keeps the focus on the message: you are not alone. Your hair, clothes and body shape come from your photo.
 
-**How MakeViral makes it:** your photo goes to Nano Banana 2, Google's image model, and comes back as one 2K vertical picture. The create page shows the exact price on the Generate button before you spend anything, and every run is a new take.
+**How MakeViral makes it:** your photo goes to Nano Banana 2.1, Google's image model, and comes back as one 2K vertical picture. The create page shows the exact price on the Generate button before you spend anything, and every run is a new take.
 
 ## How to post the no te da miedo andar sola trend
 

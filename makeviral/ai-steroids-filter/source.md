@@ -5,7 +5,7 @@
 Canonical: https://www.makeviral.ai/templates/ai-steroids-filter
 Updated: 2026-10-15
 Published: 2026-10-15
-Author: İrfan Şener (https://www.makeviral.ai/about)
+Author: MakeViral Team (https://www.makeviral.ai/about)
 Publisher: MakeViral (https://www.makeviral.ai)
 
 The **AI steroids filter** is the viral AI edit that turns one photo of you into a huge bodybuilder: wide shoulders, big arms and a six-pack, with your face kept. Here, MakeViral makes it from one photo, as a picture, a flex video, or a buff pet. It is a joke edit: nothing real changes.
@@ -52,16 +52,16 @@ Everything runs in the browser. No editing app, no watermark.
 ### The one-tap way (no prompt to write)
 
 1. **Add your photo.** Press "Make yours" and add you alone, waist up. Take it with the camera or pick it from your library. Start here: https://www.makeviral.ai/templates/ai-steroids-filter/create
-2. **Press Generate.** The button shows the price. Nano Banana 2 puts your photo into the AI Muscle Filter scene and makes one 2K photo. You write no prompt.
+2. **Press Generate.** The button shows the price. Nano Banana 2.1 puts your photo into the AI Muscle Filter scene and makes one 2K photo. You write no prompt.
 3. **Download or share.** The photo is ready in a few minutes as a 9:16 2K image. Download it, share it from your phone, turn it into a video, or find it later in your Library.
 
 ### The by-hand way, with the exact prompts
 
-The one-tap flow runs this prompt for you. The photo prompt puts your photo into the scene (Nano Banana 2, image mode, 9:16, 2K). To change it, copy it and edit it in AI Photo.
+The one-tap flow runs this prompt for you. The photo prompt puts your photo into the scene (Nano Banana 2.1, image mode, 9:16, 2K). To change it, copy it and edit it in AI Photo.
 
 #### Variant: Human
 
-Settings: 1 photo (you alone, waist up) · Nano Banana 2 · photo · 2K · 9:16 · 3 credits in one tap.
+Settings: 1 photo (you alone, waist up) · Nano Banana 2.1 · photo · 2K · 9:16 · 3 credits in one tap.
 
 1. Open [AI Photo with this template](https://www.makeviral.ai/photo?template=ai-steroids-filter) and add your photo (you alone, waist up). Pick 2K for the same size as the one-tap photo. The photo prompt is filled in:
 
@@ -100,7 +100,7 @@ One-tap version of this variant: https://www.makeviral.ai/templates/ai-steroids-
 
 #### Variant: Pet
 
-Settings: 1 photo (your pet, whole body) · Nano Banana 2 · photo · 2K · 9:16 · 3 credits in one tap.
+Settings: 1 photo (your pet, whole body) · Nano Banana 2.1 · photo · 2K · 9:16 · 3 credits in one tap.
 
 1. Open [AI Photo with this template](https://www.makeviral.ai/photo?template=ai-steroids-filter&variant=pet) and add your photo (your pet, whole body). Pick 2K for the same size as the one-tap photo. The photo prompt is filled in:
 
@@ -128,8 +128,8 @@ You pay per photo in credits, and the create page shows the exact price on the G
 
 | Model | Settings | Credits |
 | --- | --- | --- |
-| Nano Banana 2 (this template) | 2K photo, 9:16, one tap | 3 |
-| Nano Banana 2 (by hand in AI Photo) | 1K photo, 9:16, same prompt | 2 |
+| Nano Banana 2.1 (this template) | 2K photo, 9:16, one tap | 3 |
+| Nano Banana 2.1 (by hand in AI Photo) | 1K photo, 9:16, same prompt | 2 |
 
 Credits come with a plan; see [pricing](https://www.makeviral.ai/pricing). A failed photo gives its credits back.
 
@@ -146,7 +146,7 @@ It is an AI body filter for muscle, not a face filter: the body changes and the 
 
 The six-pack comes with it, so it also works as an abs filter or a six pack filter, but it goes all the way to a big bodybuilder body. A manual muscle editor or muscle photo editor makes you brush over each arm; the AI muscle editor does the whole body from one photo. If you searched "add muscle to photo" or "add muscles to photo", this is the quick way.
 
-**How MakeViral makes it:** the Human and Pet versions send your photo to Nano Banana 2, Google's image model, with the prompt a creator shared in an AI muscle filter tutorial in January 2026: enhance the body definition and muscle tone of the person in the photo, keep the background, keep the same clothes. We added the bodybuilder size, the clothes stretched tight, and rules that keep your face. You get one 2K vertical picture. The Flex video goes straight from your photo to Seedance 2.5, ByteDance's video model, with the prompt of a muscle generator video effect. The create page shows the exact price on the Generate button, and every run is a new take.
+**How MakeViral makes it:** the Human and Pet versions send your photo to Nano Banana 2.1, Google's image model, with the prompt a creator shared in an AI muscle filter tutorial in January 2026: enhance the body definition and muscle tone of the person in the photo, keep the background, keep the same clothes. We added the bodybuilder size, the clothes stretched tight, and rules that keep your face. You get one 2K vertical picture. The Flex video goes straight from your photo to Seedance 2.5, ByteDance's video model, with the prompt of a muscle generator video effect. The create page shows the exact price on the Generate button, and every run is a new take.
 
 ## Human, Flex video or Pet: which version should you pick?
 
@@ -208,7 +208,7 @@ You do not need one. The Human and Pet versions use the prompt a creator shared 
 
 ### Is this the ChatGPT muscle filter?
 
-No, but it works the same way without any pasting. Your photo goes to Nano Banana 2 (Google's AI image model, the one behind Gemini images) with the prompt already set, and the face lock keeps your face.
+No, but it works the same way without any pasting. Your photo goes to Nano Banana 2.1 (Google's AI image model, the one behind Gemini images) with the prompt already set, and the face lock keeps your face.
 
 ### Is there an AI muscle filter app, or does it work online?
 

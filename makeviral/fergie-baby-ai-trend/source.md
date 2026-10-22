@@ -5,7 +5,7 @@
 Canonical: https://www.makeviral.ai/templates/fergie-baby-ai-trend
 Updated: 2026-10-15
 Published: 2026-10-15
-Author: İrfan Şener (https://www.makeviral.ai/about)
+Author: MakeViral Team (https://www.makeviral.ai/about)
 Publisher: MakeViral (https://www.makeviral.ai)
 
 The **Fergie Baby trend** is a TikTok swagger walk from October 2026: you step out of a park gate and rap-dance down the path toward a camera that moves back with you, to a track by Harlem rapper Fergie Baby. This template puts your face and clothes into an AI version of that walk from one photo.

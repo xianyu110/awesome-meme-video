@@ -5,7 +5,7 @@
 Canonical: https://www.makeviral.ai/templates/ai-halloween-costume
 Updated: 2026-10-18
 Published: 2026-10-08
-Author: İrfan Şener (https://www.makeviral.ai/about)
+Author: MakeViral Team (https://www.makeviral.ai/about)
 Publisher: MakeViral (https://www.makeviral.ai)
 
 An **AI Halloween costume** try-on shows you in a costume, on your own body, before you buy or make it. Add one full-body photo, type or pick a costume such as a witch, vampire or zombie bride, and get a 2K photo of yourself at a Halloween party. Two photos make a couple costume.
@@ -54,16 +54,16 @@ Everything runs in the browser. No editing app, no watermark.
 ### The one-tap way (no prompt to write)
 
 1. **Add your photo.** Press "Make yours" and add your photo, whole body. Take it with the camera or pick it from your library. Start here: https://www.makeviral.ai/templates/ai-halloween-costume/create
-2. **Press Generate.** The button shows the price. Nano Banana 2 puts your photo into the Halloween costume scene and makes one 2K photo. You write no prompt.
+2. **Press Generate.** The button shows the price. Nano Banana 2.1 puts your photo into the Halloween costume scene and makes one 2K photo. You write no prompt.
 3. **Download or share.** The photo is ready in a few minutes as a 9:16 2K image. Download it, share it from your phone, turn it into a video, or find it later in your Library.
 
 ### The by-hand way, with the exact prompts
 
-The one-tap flow runs this prompt for you. The photo prompt puts your photo into the scene (Nano Banana 2, image mode, 9:16, 2K). To change it, copy it and edit it in AI Photo.
+The one-tap flow runs this prompt for you. The photo prompt puts your photo into the scene (Nano Banana 2.1, image mode, 9:16, 2K). To change it, copy it and edit it in AI Photo.
 
 #### Variant: Your costume
 
-Settings: 1 photo (your photo, whole body) · Nano Banana 2 · photo · 2K · 9:16 · 3 credits in one tap.
+Settings: 1 photo (your photo, whole body) · Nano Banana 2.1 · photo · 2K · 9:16 · 3 credits in one tap.
 
 1. Open [AI Photo with this template](https://www.makeviral.ai/photo?template=ai-halloween-costume) and add your photo (your photo, whole body). Pick 2K for the same size as the one-tap photo. The photo prompt is filled in:
 
@@ -77,7 +77,7 @@ One-tap version of this variant: https://www.makeviral.ai/templates/ai-halloween
 
 #### Variant: Couple costume
 
-Settings: 2 photos (first person (left) + second person (right)) · Nano Banana 2 · photo · 2K · 9:16 · 3 credits in one tap.
+Settings: 2 photos (first person (left) + second person (right)) · Nano Banana 2.1 · photo · 2K · 9:16 · 3 credits in one tap.
 
 1. Open [AI Photo with this template](https://www.makeviral.ai/photo?template=ai-halloween-costume&variant=couple) and add the two photos in this order: first person (left), then second person (right). Pick 2K for the same size as the one-tap photo. The photo prompt is filled in:
 
@@ -126,8 +126,8 @@ You pay per photo in credits, and the create page shows the exact price on the G
 
 | Model | Settings | Credits |
 | --- | --- | --- |
-| Nano Banana 2 (this template) | 2K photo, 9:16, one tap | 3 |
-| Nano Banana 2 (by hand in AI Photo) | 1K photo, 9:16, same prompt | 2 |
+| Nano Banana 2.1 (this template) | 2K photo, 9:16, one tap | 3 |
+| Nano Banana 2.1 (by hand in AI Photo) | 1K photo, 9:16, same prompt | 2 |
 
 Credits come with a plan; see [pricing](https://www.makeviral.ai/pricing). A failed photo gives its credits back.
 
@@ -159,7 +159,7 @@ In our tests both faces stayed the same, and the people did not blend into each 
 
 The "costume transition" is the Halloween video where someone stands in everyday clothes, spins or snaps, and lands in the full costume. On TikTok it takes two shots and a careful cut. The **Costume reveal video** version makes it with AI from one photo, as one quick costume change:
 
-1. Nano Banana 2 puts you, in your own clothes, at a Halloween party.
+1. Nano Banana 2.1 puts you, in your own clothes, at a Halloween party.
 2. Seedance 2.0 Mini animates 6 seconds at 720p: you grin, snap your fingers and spin, orange sparks swirl, and you stop in the costume, laughing, while friends cheer. The clip has sound: the prompt asks for party noise, a whoosh on the spin, cheering and an original spooky tune, with no known song.
 
 Type a costume in Make it yours to change the witch into anything else. We made 3 reveal clips from 2 AI-made people with these prompts and all 3 changed only the clothes, not the face. Seedance 2.0 Mini is the default (Standard). The Best option uses Seedance 2.5 for more detail at a higher price; we did not test it on this prompt.
@@ -186,7 +186,7 @@ It is a photo of you in a Halloween costume, made by AI from your own picture. Y
 
 ### How do I try on a Halloween costume with AI?
 
-Press "Create your own", add one full-body photo, then type a costume in Make it yours or tap a quick pick such as Witch, Vampire or Zombie bride. Press Generate. Nano Banana 2 makes a 2K photo of you in the costume, usually in a few minutes, and it lands in your Library.
+Press "Create your own", add one full-body photo, then type a costume in Make it yours or tap a quick pick such as Witch, Vampire or Zombie bride. Press Generate. Nano Banana 2.1 makes a 2K photo of you in the costume, usually in a few minutes, and it lands in your Library.
 
 ### Can I type any costume I want?
 
@@ -242,7 +242,7 @@ Yes. Pick "Costume reveal video" and add one full-body photo. You get a 6-second
 
 ### Which AI models does it use?
 
-The photo versions use Nano Banana 2 at 2K. The reveal video uses Nano Banana 2 for the first frame, then Seedance 2.0 Mini at 720p for 6 seconds, the default (Standard) option. The Best option uses Seedance 2.5 instead. We picked Mini after it made 5 good clips in 5 runs on this page and the pet costume page; Veo 3.1 Lite failed 4 of 5 runs with a server error on our test day.
+The photo versions use Nano Banana 2.1 at 2K. The reveal video uses Nano Banana 2.1 for the first frame, then Seedance 2.0 Mini at 720p for 6 seconds, the default (Standard) option. The Best option uses Seedance 2.5 instead. We picked Mini after it made 5 good clips in 5 runs on this page and the pet costume page; Veo 3.1 Lite failed 4 of 5 runs with a server error on our test day.
 
 ### Does it cost credits?
 

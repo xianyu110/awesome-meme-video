@@ -1,0 +1,52 @@
+{
+  "source": "makeviral",
+  "source_site": "https://www.makeviral.ai",
+  "slug": "times-square-billboard-ai-trend",
+  "name": "Times Square Billboard AI Video: Your Face on the Giant Screen",
+  "url": "https://www.makeviral.ai/templates/times-square-billboard-ai-trend",
+  "markdown_url": "https://www.makeviral.ai/templates/times-square-billboard-ai-trend.md",
+  "blurb": "The Times Square billboard AI trend puts your face on the biggest screens in New York without renting one: you become the star of a fashion show poster on a giant tower screen at night, and the camera pulls back over the rainy street.",
+  "updated": "2026-10-21",
+  "published": "2026-10-21",
+  "credits": 126,
+  "demo_videos": [
+    "https://www.makeviral.ai/media/templates/times-square-billboard-ai-trend/example-v2.mp4"
+  ],
+  "posters": [
+    "https://www.makeviral.ai/media/templates/times-square-billboard-ai-trend/example-v1-input.jpg",
+    "https://www.makeviral.ai/media/templates/times-square-billboard-ai-trend/example-v2-poster.jpg"
+  ],
+  "prompts": [
+    {
+      "label": "1. The video prompt is filled in. Settings: Seedance 2.5, 10 s, 720p, 9:16, sound on. The video prompt",
+      "variant": null,
+      "kind": "video_prompt",
+      "text": "An ultra-realistic 9:16 fashion show advertising campaign displayed on a massive digital billboard on the front of a tall skyscraper in Times Square, New York, at night after rain, filmed in one continuous shot with no cuts, like a real handheld phone video from the street.\n\nTHE BILLBOARD features a breathtaking high-fashion portrait of the person in [Image 1], from the waist up, presented as the star of the fashion show: copy the exact face from [Image 1] (the face shape, eye color and eye shape, eyebrows, nose, mouth, skin tone, age, hair color, hair length and hairstyle, and any beard, moustache, glasses or freckles), so their friends recognize them at once. Luminous natural skin with visible realistic texture, glamorous fashion show makeup, and a confident, elegant expression directed toward the viewer. They wear an elegant sparkling evening outfit, with huge soft pink feathered wings rising behind the shoulders. Behind the portrait, a rich hot-pink gradient with dramatic luxury-editorial lighting, making the campaign appear enormous and larger than life. The LED display is seamlessly integrated into the building façade, with realistic screen perspective, subtle pixel structure, reflections, and brightness falloff. The person in [Image 1] appears ONLY on the screen, never in the street. If [Image 1] shows an animal, the portrait shows that animal.\n\n0-3 s: close on the screen from the street, looking up: the portrait fills most of the frame, the face large and sharp: exactly the face from [Image 1]. The portrait moves like a video advert: a subtle breeze lifts several strands of hair, a slow blink, a small confident smile. Fine rain falls through the light.\n3-8 s: the camera slowly pulls back and tilts down, showing the immense scale of the billboard against Times Square in New York at night after rain: towering glass skyscrapers with other glowing screens that show only soft abstract color, illuminated storefronts, the wet street shining with pink reflections, yellow taxis rolling past, steam rising from a street vent, pedestrians with umbrellas, some stopping to film the screen with their phones.\n8-10 s: a wide view of the square: the gigantic portrait high on the tower above the dense crowd.\nThe face on the screen stays the same from the first frame to the last; never morph.\n\nAudio: a slow, glamorous original electronic beat, like a fashion show intro, under the city sounds after rain: wet tyres, light rain, a distant horn, the murmur of the crowd. No singing, no words.\n\nAvoid distorted facial features, duplicate subjects, additional faces on the billboard, malformed anatomy, cartoon or anime aesthetics, obvious CGI rendering, plastic skin, excessive saturation, random illegible text, watermarks, pixelated signage, or unrealistic billboard integration. No words, letters, numbers, brand names or logos on the poster or on any other screen, sign or taxi, unless a later line names words for the poster. No real person's face on any other screen. No subtitles."
+    },
+    {
+      "label": "1. Open [AI Photo with this template](https://www.makeviral.ai/photo?template=times-square-billboard-ai-trend&variant=pet) and add your photo (your pet, face clear). The photo prompt is filled in",
+      "variant": "Pet",
+      "kind": "photo_prompt",
+      "text": "Create an ultra-realistic 9:16 fashion show advertising campaign displayed on a massive digital billboard on the front of a tall skyscraper in Times Square, New York, at night after rain. Use the uploaded image as the sole visual reference for the pet, preserving the pet's recognizable face, fur colors, markings, ear shape, proportions, and overall identity while translating the look into a world-class fashion show campaign. The billboard features a breathtaking high-fashion portrait of the pet, from the waist up, presented as the star of the fashion show. The pet keeps its own face, fur colors, markings and natural body shape, with glossy, well-groomed fur, a sparkling jeweled collar, and huge soft pink feathered wings rising behind it, looking toward the viewer with a proud, confident face. Exactly one animal on the screen and no people on it. Behind the portrait, use a rich hot-pink gradient with dramatic luxury-editorial lighting, making the campaign appear enormous and larger than life. Photograph the scene from the wet street, close to the tower and looking up, so the screen fills the upper two thirds of the frame and the face on it is large and sharp; at the bottom of the frame, the edge of the dark building façade, other glowing screens with soft abstract color, wet reflections, yellow taxis and pedestrians with umbrellas. The LED display must be seamlessly integrated into the building façade, with realistic screen perspective, subtle pixel structure, reflections, and brightness falloff. The contrast between the gigantic portrait and the dense New York streetscape should create a powerful sense of scale and prestige. The campaign should feel like a world-class fashion show launch, combining premium commercial photography, high-fashion editorial styling, cinematic night light after rain, architectural realism, pink and neon color grading, and polished global fashion art direction. Photorealistic detail, physically accurate LED signage, high dynamic range, cinematic depth, premium advertising photography. Avoid distorted facial features, duplicate subjects, additional faces on the billboard, malformed anatomy, cartoon or anime aesthetics, obvious CGI rendering, plastic skin, excessive saturation, random illegible text, watermarks, pixelated signage, or unrealistic billboard integration. No words, letters, numbers, brand names or logos on the poster or on any other screen, sign or taxi, unless a later line names words for the poster. No real person's face on any other screen. No subtitles."
+    },
+    {
+      "label": "3. Press the film button on the still to open AI Video with the still as the first frame. Settings: Kling 3.0, 10 s, 1080p, 9:16, sound on. The video prompt",
+      "variant": null,
+      "kind": "video_prompt",
+      "text": "One continuous shot with no cuts, like a real handheld phone video filmed from the street in Times Square, New York, at night after rain. Keep the giant screen, the pet on it (the same face, fur, markings, collar and pink feathered wings), the tower and the street exactly as in the image.\n0-3 s: the camera holds on the screen, looking up. The pet on the screen moves like a video advert: its ears twitch, a slow blink, it tilts its head and looks proudly into the lens. Fine rain falls through the light.\n3-8 s: the camera slowly pulls back and tilts down, showing the immense scale of the billboard against Times Square in New York at night after rain: towering glass skyscrapers with other glowing screens that show only soft abstract color, illuminated storefronts, the wet street shining with pink reflections, yellow taxis rolling past, steam rising from a street vent, pedestrians with umbrellas, some stopping to film the screen with their phones.\n8-10 s: a wide view of the square: the gigantic portrait high on the tower above the dense crowd.\nThe pet on the screen stays the same from the first frame to the last; never morph. Audio: a slow, glamorous original electronic beat, like a fashion show intro, under the city sounds after rain: wet tyres, light rain, a distant horn, the murmur of the crowd. No singing, no words. Avoid distorted facial features, duplicate subjects, additional faces on the billboard, malformed anatomy, cartoon or anime aesthetics, obvious CGI rendering, plastic skin, excessive saturation, random illegible text, watermarks, pixelated signage, or unrealistic billboard integration. No words, letters, numbers, brand names or logos on the poster or on any other screen, sign or taxi, unless a later line names words for the poster. No real person's face on any other screen. No subtitles."
+    }
+  ],
+  "variant_headings": [
+    "What the Times Square Billboard video looks like",
+    "How to make the Times Square Billboard video on MakeViral",
+    "Which photo works best?",
+    "What happens in the Times Square billboard AI video, second by second?",
+    "You or Pet: which version should you make?",
+    "What prompt does the AI billboard video use?",
+    "How long is the video and what format is it?",
+    "Other AI video templates and tools",
+    "Make your own Times Square Billboard video"
+  ],
+  "prompt_count": 3,
+  "scraped_at": "2026-10-22"
+}

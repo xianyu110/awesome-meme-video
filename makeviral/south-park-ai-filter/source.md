@@ -5,7 +5,7 @@
 Canonical: https://www.makeviral.ai/templates/south-park-ai-filter
 Updated: 2026-10-15
 Published: 2026-10-14
-Author: İrfan Şener (https://www.makeviral.ai/about)
+Author: MakeViral Team (https://www.makeviral.ai/about)
 Publisher: MakeViral (https://www.makeviral.ai)
 
 The **South Park filter** is the TikTok trend where one photo becomes a flat, construction-paper cartoon of you in the style of the animated show: a big round head, two big oval eyes, mitten hands and a snowy mountain town behind you. Here you add one photo of yourself, your friends or your pet.
@@ -51,16 +51,16 @@ Everything runs in the browser. No editing app, no watermark.
 ### The one-tap way (no prompt to write)
 
 1. **Add your photo.** Press "Make yours" and add you, waist up or full body. Take it with the camera or pick it from your library. Start here: https://www.makeviral.ai/templates/south-park-ai-filter/create
-2. **Press Generate.** The button shows the price. Nano Banana 2 puts your photo into the South Park filter scene and makes one 2K photo. You write no prompt.
+2. **Press Generate.** The button shows the price. Nano Banana 2.1 puts your photo into the South Park filter scene and makes one 2K photo. You write no prompt.
 3. **Download or share.** The photo is ready in a few minutes as a 9:16 2K image. Download it, share it from your phone, turn it into a video, or find it later in your Library.
 
 ### The by-hand way, with the exact prompts
 
-The one-tap flow runs this prompt for you. The photo prompt puts your photo into the scene (Nano Banana 2, image mode, 9:16, 2K). To change it, copy it and edit it in AI Photo.
+The one-tap flow runs this prompt for you. The photo prompt puts your photo into the scene (Nano Banana 2.1, image mode, 9:16, 2K). To change it, copy it and edit it in AI Photo.
 
 #### Variant: Human
 
-Settings: 1 photo (you, waist up or full body) · Nano Banana 2 · photo · 2K · 9:16 · 3 credits in one tap.
+Settings: 1 photo (you, waist up or full body) · Nano Banana 2.1 · photo · 2K · 9:16 · 3 credits in one tap.
 
 1. Open [AI Photo with this template](https://www.makeviral.ai/photo?template=south-park-ai-filter) and add your photo (you, waist up or full body). Pick 2K for the same size as the one-tap photo. The photo prompt is filled in:
 
@@ -74,7 +74,7 @@ One-tap version of this variant: https://www.makeviral.ai/templates/south-park-a
 
 #### Variant: Friends
 
-Settings: 1 photo (your group photo, 2 to 4 people) · Nano Banana 2 · photo · 2K · 9:16 · 3 credits in one tap.
+Settings: 1 photo (your group photo, 2 to 4 people) · Nano Banana 2.1 · photo · 2K · 9:16 · 3 credits in one tap.
 
 1. Open [AI Photo with this template](https://www.makeviral.ai/photo?template=south-park-ai-filter&variant=friends) and add your photo (your group photo, 2 to 4 people). Pick 2K for the same size as the one-tap photo. The photo prompt is filled in:
 
@@ -88,7 +88,7 @@ One-tap version of this variant: https://www.makeviral.ai/templates/south-park-a
 
 #### Variant: Pet
 
-Settings: 1 photo (your pet, whole body) · Nano Banana 2 · photo · 2K · 9:16 · 3 credits in one tap.
+Settings: 1 photo (your pet, whole body) · Nano Banana 2.1 · photo · 2K · 9:16 · 3 credits in one tap.
 
 1. Open [AI Photo with this template](https://www.makeviral.ai/photo?template=south-park-ai-filter&variant=pet) and add your photo (your pet, whole body). Pick 2K for the same size as the one-tap photo. The photo prompt is filled in:
 
@@ -116,8 +116,8 @@ You pay per photo in credits, and the create page shows the exact price on the G
 
 | Model | Settings | Credits |
 | --- | --- | --- |
-| Nano Banana 2 (this template) | 2K photo, 9:16, one tap | 3 |
-| Nano Banana 2 (by hand in AI Photo) | 1K photo, 9:16, same prompt | 2 |
+| Nano Banana 2.1 (this template) | 2K photo, 9:16, one tap | 3 |
+| Nano Banana 2.1 (by hand in AI Photo) | 1K photo, 9:16, same prompt | 2 |
 
 Credits come with a plan; see [pricing](https://www.makeviral.ai/pricing). A failed photo gives its credits back.
 
@@ -133,7 +133,7 @@ The filter keeps the things your friends know you by and redraws everything else
 | Your clothes, with their colors and prints | Your body: small and stubby, with short legs |
 | Your skin tone and gender | The place: a snowy small mountain town with pine trees, wooden houses and big mountains |
 
-**How MakeViral makes it:** your photo goes to Nano Banana 2, Google's AI image model, with a prompt built on the photo prompt from CapCut's own Dreamina "South Park character maker" page, because the template itself shares no prompt. We added the template's look and scene, describe the style in words instead of naming the show, and leave out the sign. You get one 2K vertical picture (9:16) with no sign, no text and no watermark. The create page shows the exact price on the Generate button, and every run draws you a little differently.
+**How MakeViral makes it:** your photo goes to Nano Banana 2.1, Google's AI image model, with a prompt built on the photo prompt from CapCut's own Dreamina "South Park character maker" page, because the template itself shares no prompt. We added the template's look and scene, describe the style in words instead of naming the show, and leave out the sign. You get one 2K vertical picture (9:16) with no sign, no text and no watermark. The create page shows the exact price on the Generate button, and every run draws you a little differently.
 
 ## South Park filter, character maker or pfp: what is the difference?
 

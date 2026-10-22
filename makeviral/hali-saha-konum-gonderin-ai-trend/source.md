@@ -5,7 +5,7 @@
 Canonical: https://www.makeviral.ai/templates/hali-saha-konum-gonderin-ai-trend
 Updated: 2026-10-19
 Published: 2026-10-17
-Author: İrfan Şener (https://www.makeviral.ai/about)
+Author: MakeViral Team (https://www.makeviral.ai/about)
 Publisher: MakeViral (https://www.makeviral.ai)
 
 **"Sen sağ bek, sen sol bek"** is a Turkish football meme: on a five-a-side pitch (halı saha), a man who knows nothing about football hands out the positions and ends with "Top bana gelirse konum gönderin" ("if the ball comes to me, send me the location"). The AI version puts you in his place. You need one photo.

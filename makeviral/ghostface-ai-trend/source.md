@@ -5,7 +5,7 @@
 Canonical: https://www.makeviral.ai/templates/ghostface-ai-trend
 Updated: 2026-10-18
 Published: 2026-10-08
-Author: İrfan Şener (https://www.makeviral.ai/about)
+Author: MakeViral Team (https://www.makeviral.ai/about)
 Publisher: MakeViral (https://www.makeviral.ai)
 
 The **Ghostface AI trend** is a Halloween photo trend from September 2025: a grainy late-90s film photo of you on a corded phone in a dim bedroom, while a masked figure in a black robe watches from the doorway behind you. You need one selfie, or two photos for a partner or friend.
@@ -55,16 +55,16 @@ Everything runs in the browser. No editing app, no watermark.
 ### The one-tap way (no prompt to write)
 
 1. **Add your photo.** Press "Make yours" and add your selfie, face clear. Take it with the camera or pick it from your library. Start here: https://www.makeviral.ai/templates/ghostface-ai-trend/create
-2. **Press Generate.** The button shows the price. Nano Banana 2 puts your photo into the Ghostface scene and makes one 2K photo. You write no prompt.
+2. **Press Generate.** The button shows the price. Nano Banana 2.1 puts your photo into the Ghostface scene and makes one 2K photo. You write no prompt.
 3. **Download or share.** The photo is ready in a few minutes as a 9:16 2K image. Download it, share it from your phone, turn it into a video, or find it later in your Library.
 
 ### The by-hand way, with the exact prompts
 
-The one-tap flow runs this prompt for you. The photo prompt puts your photo into the scene (Nano Banana 2, image mode, 9:16, 2K). To change it, copy it and edit it in AI Photo.
+The one-tap flow runs this prompt for you. The photo prompt puts your photo into the scene (Nano Banana 2.1, image mode, 9:16, 2K). To change it, copy it and edit it in AI Photo.
 
 #### Variant: Ghostface photo
 
-Settings: 1 photo (your selfie, face clear) · Nano Banana 2 · photo · 2K · 9:16 · 3 credits in one tap.
+Settings: 1 photo (your selfie, face clear) · Nano Banana 2.1 · photo · 2K · 9:16 · 3 credits in one tap.
 
 1. Open [AI Photo with this template](https://www.makeviral.ai/photo?template=ghostface-ai-trend) and add your photo (your selfie, face clear). Pick 2K for the same size as the one-tap photo. The photo prompt is filled in:
 
@@ -99,7 +99,7 @@ One-tap version of this variant: https://www.makeviral.ai/templates/ghostface-ai
 
 #### Variant: With your partner or friend
 
-Settings: 2 photos (first person (left) + second person (right)) · Nano Banana 2 · photo · 2K · 9:16 · 3 credits in one tap.
+Settings: 2 photos (first person (left) + second person (right)) · Nano Banana 2.1 · photo · 2K · 9:16 · 3 credits in one tap.
 
 1. Open [AI Photo with this template](https://www.makeviral.ai/photo?template=ghostface-ai-trend&variant=two) and add the two photos in this order: first person (left), then second person (right). Pick 2K for the same size as the one-tap photo. The photo prompt is filled in:
 
@@ -127,8 +127,8 @@ You pay per photo in credits, and the create page shows the exact price on the G
 
 | Model | Settings | Credits |
 | --- | --- | --- |
-| Nano Banana 2 (this template) | 2K photo, 9:16, one tap | 3 |
-| Nano Banana 2 (by hand in AI Photo) | 1K photo, 9:16, same prompt | 2 |
+| Nano Banana 2.1 (this template) | 2K photo, 9:16, one tap | 3 |
+| Nano Banana 2.1 (by hand in AI Photo) | 1K photo, 9:16, same prompt | 2 |
 
 Credits come with a plan; see [pricing](https://www.makeviral.ai/pricing). A failed photo gives its credits back.
 
@@ -224,7 +224,7 @@ Know Your Meme names a post by Instagram user @cortneydryden on 25 September 202
 
 ### Can I do the Ghostface AI trend with Gemini or ChatGPT?
 
-Yes. Upload your photo, paste the photo prompt from this page and send it. Results change from tool to tool and from run to run. MakeViral uses Nano Banana 2, a Google Gemini image model, with the prompt and the 9:16 format already set, and it can turn the photo into a video with sound in the same run.
+Yes. Upload your photo, paste the photo prompt from this page and send it. Results change from tool to tool and from run to run. MakeViral uses Nano Banana 2.1, a Google Gemini image model, with the prompt and the 9:16 format already set, and it can turn the photo into a video with sound in the same run.
 
 ### Does the Ghostface AI trend work for men?
 

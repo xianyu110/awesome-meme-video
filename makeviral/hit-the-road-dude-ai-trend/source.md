@@ -5,7 +5,7 @@
 Canonical: https://www.makeviral.ai/templates/hit-the-road-dude-ai-trend
 Updated: 2026-10-18
 Published: 2026-10-14
-Author: İrfan Şener (https://www.makeviral.ai/about)
+Author: MakeViral Team (https://www.makeviral.ai/about)
 Publisher: MakeViral (https://www.makeviral.ai)
 
 The **Hit the Road Dude** clip, also called the **private property meme** or State Property meme, is a viral video of a grumpy driver in a white pickup who tells a man fishing on his pond: "Hit the road, dude. This ain't no state property. This is private property." Add one photo, and you or your pet play the driver.

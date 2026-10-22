@@ -5,7 +5,7 @@
 Canonical: https://www.makeviral.ai/templates/opa-opa-bouncy-hair-ai
 Updated: 2026-10-15
 Published: 2026-10-14
-Author: İrfan Şener (https://www.makeviral.ai/about)
+Author: MakeViral Team (https://www.makeviral.ai/about)
 Publisher: MakeViral (https://www.makeviral.ai)
 
 The **Opa Opa Opa trend** is the TikTok trend where you film a selfie, bounce to a sped-up Russian hook, "slysh ty zalip, opa opa op", and let your hair fly like jelly. You need one photo. MakeViral puts you into a viral selfie clip of the trend, with the sound, or makes an anime you.
@@ -149,7 +149,7 @@ Anime follows the anime side of the trend instead: your photo becomes an anime p
 | | Human | Anime |
 |---|---|---|
 | Photo | One selfie of you | One photo of you |
-| How it works | Seedance 2.5 puts you into the viral selfie clip itself | Nano Banana 2 draws the anime portrait, then Kling 3.0 (Standard) or Seedance 2.5 (Best) animates it |
+| How it works | Seedance 2.5 puts you into the viral selfie clip itself | Nano Banana 2.1 draws the anime portrait, then Kling 3.0 (Standard) or Seedance 2.5 (Best) animates it |
 | Frame | Vertical 9:16, 720p | Vertical 9:16, 1080p (Standard) or 720p (Best) |
 | Length | 10 s | 10 s |
 | Sound | The clip's "opa opa op" sound, put on after the run; you can turn it off | A fast beat the video model makes, not the trend's song |

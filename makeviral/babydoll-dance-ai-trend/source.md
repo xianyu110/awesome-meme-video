@@ -5,7 +5,7 @@
 Canonical: https://www.makeviral.ai/templates/babydoll-dance-ai-trend
 Updated: 2026-10-18
 Published: 2026-10-15
-Author: İrfan Şener (https://www.makeviral.ai/about)
+Author: MakeViral Team (https://www.makeviral.ai/about)
 Publisher: MakeViral (https://www.makeviral.ai)
 
 The **Babydoll dance** is the bouncy two-step that took over TikTok in autumn 2026 to Jamie Miller's song "Babydoll": chugs forward, arm circles, steps out and big arm moves, done with a grin. This Babydoll dance AI template makes the person or pet in your photo do it. You need one photo, two for two pets, or three to do the Babydoll dance with friends.

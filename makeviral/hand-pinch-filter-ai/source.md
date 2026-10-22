@@ -5,7 +5,7 @@
 Canonical: https://www.makeviral.ai/templates/hand-pinch-filter-ai
 Updated: 2026-10-20
 Published: 2026-10-20
-Author: İrfan Şener (https://www.makeviral.ai/about)
+Author: MakeViral Team (https://www.makeviral.ai/about)
 Publisher: MakeViral (https://www.makeviral.ai)
 
 The **hand pinch filter** is the TikTok trend where you close your eyes because "apparently if you close your eyes you can feel it", and a realistic hand pinches and pulls your cheek. MakeViral makes that video from one photo, 10 seconds with sound: the calm wait, the pinch and your reaction. Pet: your dog or cat gets a gentle pinch.

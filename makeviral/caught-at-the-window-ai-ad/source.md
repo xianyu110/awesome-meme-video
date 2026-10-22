@@ -5,7 +5,7 @@
 Canonical: https://www.makeviral.ai/templates/caught-at-the-window-ai-ad
 Updated: 2026-10-15
 Published: 2026-10-15
-Author: İrfan Şener (https://www.makeviral.ai/about)
+Author: MakeViral Team (https://www.makeviral.ai/about)
 Publisher: MakeViral (https://www.makeviral.ai)
 
 **Caught at the window** is the viral AI commercial trend of October 2026: one shot pushes in to a lit window at night, people enjoy a product, one of them stares into the lens and shuts the curtains, and the brand logo shows on them. This **AI commercial generator** makes yours from two photos: your product and your logo.
@@ -67,7 +67,7 @@ Settings: 2 photos (your product photo + logo, bag or box) · gemini-omni-flash 
 1. The video prompt is filled in. Settings: gemini-omni-flash, 10 s, 1080p, 9:16, sound on. The video prompt:
 
    ```text
-   Create a photorealistic vertical brand commercial using the uploaded PRODUCT IMAGE ([Image 1]) as the exact product reference and the uploaded LOGO IMAGE ([Image 2]) only for the final end frame.
+   Create a photorealistic vertical brand commercial using the uploaded product photo ([Image 1]) as the exact product reference and the uploaded logo photo ([Image 2]) only for the final end frame. Never write the words of this prompt, photo labels or file names as text anywhere in the video.
 
 Nighttime exterior of a modern apartment building. Start very far away, showing most of the building facade with many windows. Only one apartment window is warmly illuminated and subtly attracts attention. All the other windows are dark.
 
@@ -99,7 +99,7 @@ Only then, he grabs both curtains and slowly pulls them together from both sides
 
 The curtains physically block the camera’s view of the apartment. The closed curtains stay warmly lit from inside.
 
-After the curtains fully close, hold for a brief beat, then transition naturally to a clean final brand frame using the uploaded LOGO IMAGE exactly as provided. Centered logo, premium minimal presentation. Do not redesign, rewrite or distort the logo. Do not substitute any other version of the brand's logo.
+After the curtains fully close, hold for a brief beat, then transition naturally to a clean final brand frame that shows only the logo from the uploaded logo photo ([Image 2]), exactly as provided, with no other words around it. Centered logo, premium minimal presentation. Do not redesign, rewrite or distort the logo. Do not substitute any other version of the brand's logo.
 
 VISUAL STYLE: Photorealistic live-action commercial, realistic apartment architecture, realistic humans, subtle natural acting, premium cinematic lighting, warm interior light contrasted with cool blue nighttime exterior, realistic window reflections, natural depth of field, believable camera movement, high-end advertising cinematography, 9:16 vertical.
 
@@ -219,9 +219,9 @@ Yes. MakeViral does not post your photos or the result anywhere or show them to 
 
 ## Other AI video templates and tools
 
+- [Window Peeper Filter: Get Caught Eating a Burger at the Window](https://www.makeviral.ai/templates/window-peeper-ai-filter): At night the camera flies across the street to the one lit window. You sit there alone with a burger, notice the camera, stare while you chew, then stand up and pull the curtain shut. Add one clear photo of your face.
 - [Earth Zoom Out AI: From a Selfie to Space in One Shot](https://www.makeviral.ai/templates/earth-zoom-out-ai): It starts as a wide 0.5x selfie of you waving. Then the camera rises, and keeps rising: over the city, through the clouds, out to the whole blue Earth.
 - [Smash and Grab AI Video: Spot It, Smash the Window, Run](https://www.makeviral.ai/templates/smash-and-grab-ai-trend): Your item sits on the back seat of a parked car. You walk up to the side window, the glass shatters in a movie-stunt moment, you grab it and run down the street. Add a photo of you and a photo of the item. A fictional AI heist, made with your own photo.
-- [Barn Find AI Trend: What Your Kids Will Find in the Barn](https://www.makeviral.ai/templates/ai-barn-find-truck-trend): Add a photo of your truck, car or bike. AI parks it in an old wooden barn 20 years from now: thick dust, spiderwebs, flat tires and sunbeams through the boards, and still clearly your ride.
 - [AI Product Video](https://www.makeviral.ai/tools/ai-product-video-generator): Upload one product image. Get a still of it in a creator's hand, an 8-second animation of that shot, or a talking hook joined to the demo clip.
 - [AI UGC Ads](https://www.makeviral.ai/tools/ai-ugc-ad-generator): Cast a creator, upload your product, write 35 words. You get a vertical ad with a person on camera in minutes, not in a two-week creator cycle.
 - [AI photo generator](https://www.makeviral.ai/ai-photo-generator)

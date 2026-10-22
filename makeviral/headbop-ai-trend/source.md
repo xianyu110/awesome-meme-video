@@ -5,7 +5,7 @@
 Canonical: https://www.makeviral.ai/templates/headbop-ai-trend
 Updated: 2026-10-18
 Published: 2026-10-14
-Author: İrfan Şener (https://www.makeviral.ai/about)
+Author: MakeViral Team (https://www.makeviral.ai/about)
 Publisher: MakeViral (https://www.makeviral.ai)
 
 The **headbop trend** is a TikTok edit where a row of cut-out heads on a black background bops to a phonk beat, from the smallest to the biggest. Here AI makes it from your photos: one photo and every head in the row is you, three photos for your family or friends, or one photo of your pet.

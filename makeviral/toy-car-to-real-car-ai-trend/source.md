@@ -5,7 +5,7 @@
 Canonical: https://www.makeviral.ai/templates/toy-car-to-real-car-ai-trend
 Updated: 2026-10-21
 Published: 2026-10-21
-Author: İrfan Şener (https://www.makeviral.ai/about)
+Author: MakeViral Team (https://www.makeviral.ai/about)
 Publisher: MakeViral (https://www.makeviral.ai)
 
 The **toy car to real car** trend is a transition edit: a toy car turns real in one shot. In the newest version the toy car on a train window comes alive in a tunnel and drives off as the real car. From one photo of your car, MakeViral makes that toy car to real car transition with your own car.
