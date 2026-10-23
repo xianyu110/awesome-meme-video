@@ -56,7 +56,7 @@ Everything runs in the browser. No editing app, no watermark.
 
 1. **Add your photo.** Press "Make yours" and add you, face clear (full body is best). Take it with the camera or pick it from your library. Start here: https://www.makeviral.ai/templates/ai-dunk-trend/create
 2. **Press Generate.** The button shows the price. Seedance 2.5 films the AI Dunk scene straight from your photo, with no in-between picture, for 10 seconds with original sound. You write no prompt.
-3. **Download or share.** The video is ready in a few minutes as a 9:16 MP4. Download it, share it from your phone, or find it later in your Library.
+3. **Download or share.** The video is ready in a few minutes as a 9:16 MP4. Download it, share it from your phone, or find it later in My videos.
 
 ### The by-hand way, with the exact prompts
 
@@ -302,7 +302,7 @@ It is an AI basketball trend from October 2026: one photo becomes a video of you
 
 ### How do I make an AI dunking video?
 
-Press "Create your own", pick Court dunk, Mascot dunk, Pickup game, Alley-oop, Poster dunk or Pet dunk, add one photo (two for Poster dunk) and press Generate. MakeViral works as an AI dunk video generator: the AI dunking video lands in your Library, ready to post. You need no app, no template and no prompt.
+Press "Create your own", pick Court dunk, Mascot dunk, Pickup game, Alley-oop, Poster dunk or Pet dunk, add one photo (two for Poster dunk) and press Generate. MakeViral works as an AI dunk video generator: the AI dunking video lands in My videos, ready to post. You need no app, no template and no prompt.
 
 ### Is this the dunking AI template from TikTok?
 
@@ -370,7 +370,7 @@ Yes. The people versions cost more than the Pet dunk, which uses a picture first
 
 ### Is my photo private?
 
-Yes. MakeViral does not post your photo or the result anywhere or show them to other users. The result goes to your private Library, and you can delete it there at any time.
+Yes. MakeViral does not post your photo or the result anywhere or show them to other users. The result goes to your private My videos page, and you can delete it there at any time.
 
 ## Other AI video templates and tools
 

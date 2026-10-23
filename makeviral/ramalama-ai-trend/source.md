@@ -55,7 +55,7 @@ Everything runs in the browser. No editing app, no watermark.
 
 1. **Add your photo.** Press "Make yours" and add your pet. Take it with the camera or pick it from your library. Start here: https://www.makeviral.ai/templates/ramalama-ai-trend/create
 2. **Press Generate.** The button shows the price. Seedance 2.5 puts your photos into the Ramalama trend clip and copies it shot by shot for 15 seconds, with the reel's original song. You write no prompt.
-3. **Download or share.** The video is ready in up to several minutes as a 9:16 MP4. Download it, share it from your phone, or find it later in your Library.
+3. **Download or share.** The video is ready in up to several minutes as a 9:16 MP4. Download it, share it from your phone, or find it later in My videos.
 
 ### The by-hand way, with the exact prompts
 
@@ -215,7 +215,7 @@ It is "Ramalama (Bang Bang)" (Róisín Murphy, 2005), track 8 on her album Ruby 
 
 ### How do I make the Ramalama trend with my pet?
 
-Press "Create your own", add one photo of your cat or dog, and press Generate. The button shows the price first. You get a 15-second vertical video with the song, within several minutes, and you write no prompt. The video waits in your Library when it is ready.
+Press "Create your own", add one photo of your cat or dog, and press Generate. The button shows the price first. You get a 15-second vertical video with the song, within several minutes, and you write no prompt. The video waits in My videos when it is ready.
 
 ### Can I make the Ramalama trend with myself instead of a pet?
 

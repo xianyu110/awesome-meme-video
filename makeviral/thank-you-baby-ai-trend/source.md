@@ -49,7 +49,7 @@ Everything runs in the browser. No editing app, no watermark.
 
 1. **Add your photo.** Press "Make yours" and add your baby. Take it with the camera or pick it from your library. Start here: https://www.makeviral.ai/templates/thank-you-baby-ai-trend/create
 2. **Press Generate.** The button shows the price. Kling 3.0 Motion Control takes the moves of the Thank You Baby clip and plays them with the one in your photo, in your photo's own scene, for about 15 seconds, with the reel's original sound. You write no prompt.
-3. **Download or share.** The video is ready in a few minutes as a 9:16 MP4. Download it, share it from your phone, or find it later in your Library.
+3. **Download or share.** The video is ready in a few minutes as a 9:16 MP4. Download it, share it from your phone, or find it later in My videos.
 
 ### The by-hand way, with the exact prompts
 
@@ -147,7 +147,7 @@ It can be, if you keep to a few rules.
 
 - **Only your own child**, or a child whose parent or guardian asked you to. Never a photo taken from someone else's account.
 - **The result is AI-made.** Your baby never did these moves. Keep the AI label on when you post, so nobody takes it for real footage.
-- **Your video goes to your Library, not to a public feed.** MakeViral does not post it anywhere, and you can delete it at any time.
+- **Your video goes to My videos, not to a public feed.** MakeViral does not post it anywhere, and you can delete it at any time.
 - **Think before you post a baby's face publicly.** A family chat, a close-friends story or a private account are good homes for it too.
 - **The moves are playful.** A bounce, a shrug, a big grin and a heart at the end: nothing in the dance is rude.
 
@@ -183,7 +183,7 @@ It is the AI version of the meme: one photo of a baby becomes a short clip of th
 
 ### How do I make the thank you baby AI video?
 
-Press "Create your own" on this page, pick Baby or Pet, and add one clear photo: your baby upright with the whole body in view, or your pet. Press Generate; the button shows the price first. That is how to make the thank you baby AI video with no editing: the thank you baby AI baby dance comes out as a vertical clip with the trend's sound, and it waits in your Library.
+Press "Create your own" on this page, pick Baby or Pet, and add one clear photo: your baby upright with the whole body in view, or your pet. Press Generate; the button shows the price first. That is how to make the thank you baby AI video with no editing: the thank you baby AI baby dance comes out as a vertical clip with the trend's sound, and it waits in My videos.
 
 ### Do I need the thank you baby CapCut template?
 
@@ -215,7 +215,7 @@ It is AI. The baby in the clip comes from one still photo, and your baby never d
 
 ### Is it safe to upload my baby's photo?
 
-Upload only a photo of your own child, or of a child whose parent or guardian asked you to. MakeViral does not post your video anywhere: it goes to your Library, and you can delete it at any time. Think about who will see your baby's face before you post it publicly.
+Upload only a photo of your own child, or of a child whose parent or guardian asked you to. MakeViral does not post your video anywhere: it goes to My videos, and you can delete it at any time. Think about who will see your baby's face before you post it publicly.
 
 ### How long is the video, and what format is it?
 

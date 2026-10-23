@@ -52,7 +52,7 @@ Everything runs in the browser. No editing app, no watermark.
 
 1. **Add your photo.** Press "Make yours" and add your photo. Take it with the camera or pick it from your library. Start here: https://www.makeviral.ai/templates/burning-bridges-ai-trend/create
 2. **Press Generate.** The button shows the price. Seedance 2.0 Mini puts your photos into the Burning Bridges trend clip and copies it shot by shot for 15 seconds, with the reel's original song. You write no prompt.
-3. **Download or share.** The video is ready in a few minutes as a 9:16 MP4. Download it, share it from your phone, or find it later in your Library.
+3. **Download or share.** The video is ready in a few minutes as a 9:16 MP4. Download it, share it from your phone, or find it later in My videos.
 
 ### The by-hand way, with the exact prompts
 
@@ -206,7 +206,7 @@ It comes from the chorus of "Burning Bridges", a track on Drake's album Iceman f
 
 ### How do I make the Burning Bridges AI video with my photo?
 
-Press "Create your own", pick Human, Cup dance or Pet, and add one clear photo of yourself or your pet. On Human and Pet you also pick Standard or Best. Press Generate; the button shows the price first. Standard makes a vertical 9:16 clip, Best and Cup dance a wide 16:9 clip like the reel, all 15 seconds long with the reel's song. You write no prompt, and the video waits in your Library when it is ready.
+Press "Create your own", pick Human, Cup dance or Pet, and add one clear photo of yourself or your pet. On Human and Pet you also pick Standard or Best. Press Generate; the button shows the price first. Standard makes a vertical 9:16 clip, Best and Cup dance a wide 16:9 clip like the reel, all 15 seconds long with the reel's song. You write no prompt, and the video waits in My videos when it is ready.
 
 ### What is the Burning Bridges cup dance?
 

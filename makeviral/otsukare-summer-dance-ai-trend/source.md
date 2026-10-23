@@ -52,7 +52,7 @@ Everything runs in the browser. No editing app, no watermark.
 
 1. **Add your photo.** Press "Make yours" and add you, head to thighs. Take it with the camera or pick it from your library. Start here: https://www.makeviral.ai/templates/otsukare-summer-dance-ai-trend/create
 2. **Press Generate.** The button shows the price. Kling 3.0 Motion Control takes the moves of the Otsukare Summer dance clip and plays them with the one in your photo, in your photo's own scene, for about 15 seconds, with the reel's original sound. You write no prompt.
-3. **Download or share.** The video is ready in a few minutes as a 9:16 MP4. Download it, share it from your phone, or find it later in your Library.
+3. **Download or share.** The video is ready in a few minutes as a 9:16 MP4. Download it, share it from your phone, or find it later in My videos.
 
 ### The by-hand way, with the exact prompts
 
@@ -199,7 +199,7 @@ There is no one original Otsukare Summer dance clip. The song is from 2003 and f
 
 ### How do I make the Otsukare Summer AI video?
 
-Press "Create your own", pick Human or Pet, and add one clear photo of yourself or your pet. Press Generate; the button shows the price first. You get an Otsukare Summer dance AI video of about 15 seconds with the song. It is the daijoubu dance AI trend you see on TikTok, with your own face or your own pet. You write no prompt, and the video waits in your Library when it is ready.
+Press "Create your own", pick Human or Pet, and add one clear photo of yourself or your pet. Press Generate; the button shows the price first. You get an Otsukare Summer dance AI video of about 15 seconds with the song. It is the daijoubu dance AI trend you see on TikTok, with your own face or your own pet. You write no prompt, and the video waits in My videos when it is ready.
 
 ### Can my cat or dog do the Otsukare Summer dance?
 

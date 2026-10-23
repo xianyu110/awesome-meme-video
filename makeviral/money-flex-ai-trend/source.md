@@ -52,7 +52,7 @@ Everything runs in the browser. No editing app, no watermark.
 
 1. **Add your photo.** Press "Make yours" and add you, face clear. Take it with the camera or pick it from your library. Start here: https://www.makeviral.ai/templates/money-flex-ai-trend/create
 2. **Press Generate.** The button shows the price. Seedance 2.5 films the Money Flex scene straight from your photo, with no in-between picture, for 12 seconds with original sound. You write no prompt.
-3. **Download or share.** The video is ready in a few minutes as a 9:16 MP4. Download it, share it from your phone, or find it later in your Library.
+3. **Download or share.** The video is ready in a few minutes as a 9:16 MP4. Download it, share it from your phone, or find it later in My videos.
 
 ### The by-hand way, with the exact prompts
 
@@ -217,7 +217,7 @@ Human takes 5 to 15 minutes. Pet Standard takes a few minutes and Best 5 to 15 m
 
 - [ChatGPT Millionaire Trend: “How I Become a Millionaire?” “Get a Job.”](https://www.makeviral.ai/templates/chatgpt-millionaire-ai-trend): "Chat GPT, how I become a millionaire in 30 days?" "Get a job." Add one photo, and you, your dog or your cat ask the phone, hear the answer and take it very personally, with the original voice track.
 - [Plug Walk Filter: Take the Dollar, Then Do the Plug Walk](https://www.makeviral.ai/templates/plug-walk-ai-filter): At a red light at sunset, a hand passes you a dollar out of the car window. You grab it, grin, back onto the gravel and break into the plug walk on the beat. Add one photo of yourself, or of your pet.
-- [Singing Dog AI Trend: Your Dog Blow-Dries Its Fur and Sings](https://www.makeviral.ai/templates/singing-dog-ai-trend): Add one photo of your dog or cat. It stands in the bathtub in a white towel, dries and brushes its own fur with a hair dryer and sings with its mouth wide open, to the trend's own sound.
+- [Wedding Money Rain AI: You Dance While the Notes Rain Down](https://www.makeviral.ai/templates/ai-money-rain-party): Add one photo. AI makes a 10-second clip: you dance in the middle of a wedding crowd while the guests throw cash and a storm of paper notes rains down on you.
 - [AI photo generator](https://www.makeviral.ai/ai-photo-generator)
 - [All AI video templates](https://www.makeviral.ai/templates)
 

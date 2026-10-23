@@ -54,7 +54,7 @@ Everything runs in the browser. No editing app, no watermark.
 
 1. **Add your photo.** Press "Make yours" and add your photo. Take it with the camera or pick it from your library. Start here: https://www.makeviral.ai/templates/my-ride-is-here-broom-trend/create
 2. **Press Generate.** The button shows the price. H3 Max Recast puts your photos into the My Ride Is Here trend clip and copies it shot by shot for 10 seconds, with the reel's original song. You write no prompt.
-3. **Download or share.** The video is ready in a few minutes as a 9:16 MP4. Download it, share it from your phone, or find it later in your Library.
+3. **Download or share.** The video is ready in a few minutes as a 9:16 MP4. Download it, share it from your phone, or find it later in My videos.
 
 ### The by-hand way, with the exact prompts
 
@@ -136,7 +136,7 @@ MiniMax H3 Max Recast takes the original reel and your photo and puts you in pla
 | Sound | The reel's own sound, which you can turn off |
 | Photos | 1 |
 
-The exact price shows on the Generate button before you spend anything, and the video waits in your Library when it is ready, within several minutes.
+The exact price shows on the Generate button before you spend anything, and the video waits in My videos when it is ready, within several minutes.
 
 **Why not make a new scene from your photo?** We tried that first: a still of you on a broom next to a car, then a video model to fly you away. It worked, but it looked made by AI. Swapping the rider in the real reel keeps the real road, the real car and the real daylight, so only the flight looks like magic.
 
@@ -189,7 +189,7 @@ No. The flight is AI. In the reel on this page the start is real phone footage f
 
 ### How do I make the My Ride Is Here broom video?
 
-Press "Create your own", add one clear photo of yourself and press Generate. The button shows the price first. You get a 10-second vertical video with the reel's own sound, within several minutes, and you write no prompt. The video waits in your Library when it is ready.
+Press "Create your own", add one clear photo of yourself and press Generate. The button shows the price first. You get a 10-second vertical video with the reel's own sound, within several minutes, and you write no prompt. The video waits in My videos when it is ready.
 
 ### Do I need CapCut or a template app?
 

@@ -49,7 +49,7 @@ Everything runs in the browser. No editing app, no watermark.
 
 1. **Add your photo.** Press "Make yours" and add your selfie, face clear. Take it with the camera or pick it from your library. Start here: https://www.makeviral.ai/templates/venom-makeup-ai-trend/create
 2. **Press Generate.** The button shows the price. Seedance 2.5 films the Venom makeup scene straight from your photo, with no in-between picture, for 10 seconds with original sound. You write no prompt.
-3. **Download or share.** The video is ready in a few minutes as a 9:16 MP4. Download it, share it from your phone, or find it later in your Library.
+3. **Download or share.** The video is ready in a few minutes as a 9:16 MP4. Download it, share it from your phone, or find it later in My videos.
 
 ### The by-hand way, with the exact prompts
 
@@ -174,7 +174,7 @@ It is a Halloween makeup trend on TikTok since July 2026: one half of the face i
 
 ### How do I do the Venom makeup trend with AI?
 
-Press "Create your own", add one sharp selfie, pick Half face for the video or Photo for a still, and press Generate. MakeViral makes it and puts it in your Library. You need no paint, no tutorial and no prompt.
+Press "Create your own", add one sharp selfie, pick Half face for the video or Photo for a still, and press Generate. MakeViral makes it and puts it in My videos. You need no paint, no tutorial and no prompt.
 
 ### Is there a venom AI filter or a venom makeup filter?
 
@@ -182,7 +182,7 @@ Not a live camera filter. MakeViral makes a new venom AI video from your selfie,
 
 ### Is there a Venom makeup CapCut template?
 
-Yes. From September 2026, CapCut tutorial accounts on TikTok showed a one-photo venom makeup CapCut template for the AI version. MakeViral has no link to CapCut. Here you need no template and no app: one selfie, and the venom makeup video lands in your Library.
+Yes. From September 2026, CapCut tutorial accounts on TikTok showed a one-photo venom makeup CapCut template for the AI version. MakeViral has no link to CapCut. Here you need no template and no app: one selfie, and the venom makeup video lands in My videos.
 
 ### Can I make the half face version?
 
@@ -222,7 +222,7 @@ Yes. The video and the photo each cost credits, and the photo costs much less. T
 
 ### Is my photo private?
 
-Yes. MakeViral does not post your selfie or the result anywhere or show them to other users. They go to your private Library, and you can delete them there at any time.
+Yes. MakeViral does not post your selfie or the result anywhere or show them to other users. They go to your private My videos page, and you can delete them there at any time.
 
 ## Other AI video templates and tools
 

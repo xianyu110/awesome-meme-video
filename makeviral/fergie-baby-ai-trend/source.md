@@ -48,7 +48,7 @@ Everything runs in the browser. No editing app, no watermark.
 
 1. **Add your photo.** Press "Make yours" and add your photo, knees up or full body. Take it with the camera or pick it from your library. Start here: https://www.makeviral.ai/templates/fergie-baby-ai-trend/create
 2. **Press Generate.** The button shows the price. Seedance 2.5 puts your photos into the Fergie Baby trend clip and copies it shot by shot for 15 seconds, with the reel's original song. You write no prompt.
-3. **Download or share.** The video is ready in up to several minutes as a 9:16 MP4. Download it, share it from your phone, or find it later in your Library.
+3. **Download or share.** The video is ready in up to several minutes as a 9:16 MP4. Download it, share it from your phone, or find it later in My videos.
 
 ### The by-hand way, with the exact prompts
 
@@ -151,7 +151,7 @@ We could not confirm that. The TikTok sound is credited to Fergie Baby alone, bu
 
 ### How do I make the Fergie Baby AI video with my photo?
 
-Press "Create your own" and add one clear photo of yourself. Press Generate; the button shows the price first. Your Fergie Baby AI video waits in your Library when it is ready, with the song on it. You write no prompt, and you do not need a Fergie Baby trend tutorial or an editing app.
+Press "Create your own" and add one clear photo of yourself. Press Generate; the button shows the price first. Your Fergie Baby AI video waits in My videos when it is ready, with the song on it. You write no prompt, and you do not need a Fergie Baby trend tutorial or an editing app.
 
 ### Is there a Fergie Baby CapCut template or filter?
 
@@ -183,7 +183,7 @@ Yes. Each AI rap video like this, with you as the rapper, costs credits, and the
 
 ### Is my photo private?
 
-Yes. MakeViral does not post your photo or the result anywhere or show them to other users. The result goes to your private Library, and you can delete it there at any time.
+Yes. MakeViral does not post your photo or the result anywhere or show them to other users. The result goes to your private My videos page, and you can delete it there at any time.
 
 ## Other AI video templates and tools
 

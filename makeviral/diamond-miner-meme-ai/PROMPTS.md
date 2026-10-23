@@ -1,0 +1,40 @@
+# Diamond Miner Meme AI: Quit One Swing Before the Diamonds
+
+- Source: [makeviral](https://www.makeviral.ai/templates/diamond-miner-meme-ai)
+- Slug: `diamond-miner-meme-ai`
+
+The diamond miner meme is the old picture of a miner who gives up one swing before the diamonds.
+
+## Demo videos (CDN)
+
+- https://www.makeviral.ai/media/templates/diamond-miner-meme-ai/original-main-v2.mp4
+
+## Posters
+
+- https://www.makeviral.ai/media/templates/diamond-miner-meme-ai/original-main-v1.jpg
+
+## Prompts
+
+### 1. 1. The video prompt is filled in. Settings: Seedance 2.5, 28 s, 480p, 9:16, sound off. The video prompt
+
+*Kind: video_prompt*
+
+```text
+Recreate the reference video [Video 1] shot for shot: a cinematic short film in a narrow mine tunnel lit by one warm lamp, with the same camera angles, cuts, timing, light and moves, every shot in the same order and the same 4:3 frame. The ONLY change: the young man with short black hair is now the person in [Image 1].
+
+The miner = the person in [Image 1], in EVERY shot: copy the exact face from [Image 1] (face shape, eyes, eyebrows, nose, mouth, skin tone, age, hair color, hair length and hairstyle, and any beard, moustache or glasses). The same real person in every frame, also in the wide shots where the miner is small, in the extreme close-up of the eyes and in the dark. Never morph, never drift back to the original man's face, eyes or short black hair. The miner wears the clothes from [Image 1], a little dusty; where [Image 1] does not show the legs, add plain work trousers and boots. No white t-shirt and no camouflage trousers unless [Image 1] shows them.
+
+The shots, second by second:
+1. 0-5.9 s: a wide side cut-through view of the earth: the miner swings a pickaxe at the end of the tunnel; the rock just past the tunnel's end and above it is packed with huge clear diamonds the miner cannot see.
+2. 5.9-10.6 s: tired, the miner sits against the rock wall, wipes the forehead with a forearm, takes out a phone and starts to smile at it.
+3. 10.6-12.9 s: front shot, the face lit by the phone's glow, a happy, hooked smile.
+4. 12.9-16.8 s: extreme close-up of the eyes in the dark; a colorful slot game with spinning reels and flashing lights reflects in both eyes.
+5. 16.8-18.4 s: the wide view, the tunnel dark: the miner lies back and scrolls, lit only by the phone.
+6. 18.4-20.9 s: still scrolling, the miner holds up a small clear diamond and looks at it, puzzled.
+7. 20.9-24.2 s: the wide view, lit again: the miner puts the phone down, kneels and picks up the pickaxe.
+8. 24.2-25.6 s: top view of the phone on the dirt next to the diamond; the screen shows only "STOP BEING DISTRACTED." in black capitals on white.
+9. 25.6-27.5 s: the wide view: one more swing into the rock and a wall of diamonds bursts out and pours toward the camera.
+
+One head only, on the miner's shoulders; no face on the rock, the diamonds or the phone. No extra limbs. Exactly one person in every shot. The slot game is a generic screen of fruit symbols and colored lights: no brand, no logo, no readable words. No other text: no subtitles, no logos, no watermark.
+```
+

@@ -48,7 +48,7 @@ Everything runs in the browser. No editing app, no watermark.
 
 1. **Add your photo.** Press "Make yours" and add your photo, face and hair in view. Take it with the camera or pick it from your library. Start here: https://www.makeviral.ai/templates/ai-hair-dye-filter/create
 2. **Press Generate.** The button shows the price. Seedance 2.5 films the AI Hair Dye Filter scene straight from your photo, with no in-between picture, for 10 seconds with original sound. You write no prompt.
-3. **Download or share.** The video is ready in a few minutes as a 9:16 MP4. Download it, share it from your phone, or find it later in your Library.
+3. **Download or share.** The video is ready in a few minutes as a 9:16 MP4. Download it, share it from your phone, or find it later in My videos.
 
 ### The by-hand way, with the exact prompts
 
@@ -248,7 +248,7 @@ From a CapCut AI template. The first clip that took off came from Nepal on 11 Oc
 
 ### How do I do the hair dye filter?
 
-Press "Create your own", pick Dye video or Burgundy photo, add one photo with your face and hair in view, and press Generate. MakeViral makes the AI video or the picture and puts it in your Library. You need no CapCut template, no app and no prompt.
+Press "Create your own", pick Dye video or Burgundy photo, add one photo with your face and hair in view, and press Generate. MakeViral makes the AI video or the picture and puts it in My videos. You need no CapCut template, no app and no prompt.
 
 ### Is this the CapCut hair dye filter?
 
@@ -304,7 +304,7 @@ Yes. The Burgundy photo costs a few credits, and the Dye video costs more, becau
 
 ### Is my photo private?
 
-Yes. MakeViral does not post your photo or the result anywhere or show them to other users. The result goes to your private Library, and you can delete it there at any time.
+Yes. MakeViral does not post your photo or the result anywhere or show them to other users. The result goes to your private My videos page, and you can delete it there at any time.
 
 ## Other AI video templates and tools
 

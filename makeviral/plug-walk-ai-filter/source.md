@@ -48,7 +48,7 @@ Everything runs in the browser. No editing app, no watermark.
 
 1. **Add your photo.** Press "Make yours" and add you, face clear. Take it with the camera or pick it from your library. Start here: https://www.makeviral.ai/templates/plug-walk-ai-filter/create
 2. **Press Generate.** The button shows the price. Seedance 2.5 films the Plug Walk Filter scene straight from your photo, with no in-between picture, for 12 seconds with original sound. You write no prompt.
-3. **Download or share.** The video is ready in a few minutes as a 9:16 MP4. Download it, share it from your phone, or find it later in your Library.
+3. **Download or share.** The video is ready in a few minutes as a 9:16 MP4. Download it, share it from your phone, or find it later in My videos.
 
 ### The by-hand way, with the exact prompts
 
@@ -179,7 +179,7 @@ The plug walk dance is a slow, bouncy strut with bent knees, rocking hips and sw
 
 ### How do I make the plug walk trend video with my photo?
 
-Pick Human or Pet, press "Create your own" and add one photo. Press Generate; the button shows the price first. You get a 12-second vertical plug walk AI video with sound, and it waits in your Library when it is ready. You need no plug walk capcut template or separate app: this page makes the clip.
+Pick Human or Pet, press "Create your own" and add one photo. Press Generate; the button shows the price first. You get a 12-second vertical plug walk AI video with sound, and it waits in My videos when it is ready. You need no plug walk capcut template or separate app: this page makes the clip.
 
 ### Is there a plug walk filter tutorial?
 

@@ -54,7 +54,7 @@ Everything runs in the browser. No editing app, no watermark.
 
 1. **Add the two photos.** Press "Make yours" and add dancer on the left, then dancer on the right. Photo 1 goes on the left of the scene, photo 2 on the right. Take them with the camera or pick them from your library. Start here: https://www.makeviral.ai/templates/thriller-dance-ai-trend/create
 2. **Press Generate.** The button shows the price. H3 Max Recast puts your photos into the Thriller dance trend clip and copies it shot by shot for 15 seconds, with the reel's original song. You write no prompt.
-3. **Download or share.** The video is ready in a few minutes as a 9:16 MP4. Download it, share it from your phone, or find it later in your Library.
+3. **Download or share.** The video is ready in a few minutes as a 9:16 MP4. Download it, share it from your phone, or find it later in My videos.
 
 ### The by-hand way, with the exact prompts
 
@@ -175,7 +175,7 @@ Michael Peters choreographed the zombie dance, working with Michael Jackson. Pet
 
 ### How do I make the Thriller dance AI video?
 
-Press "Create your own", pick Human or Pet, and add your photos: two photos (one person each) for Human, one photo of your pet for Pet. Press Generate; the button shows the price first. You get a 15-second vertical clip with the song. You write no prompt, and the video waits in your Library when it is ready.
+Press "Create your own", pick Human or Pet, and add your photos: two photos (one person each) for Human, one photo of your pet for Pet. Press Generate; the button shows the price first. You get a 15-second vertical clip with the song. You write no prompt, and the video waits in My videos when it is ready.
 
 ### Can I dance the Thriller dance next to Michael Jackson with AI?
 

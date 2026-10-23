@@ -1,0 +1,79 @@
+# Hot Tea Prank AI: Put Yourself or Your Dog in the Cafe Prank
+
+- Source: [makeviral](https://www.makeviral.ai/templates/hot-tea-prank-ai)
+- Slug: `hot-tea-prank-ai`
+
+Hot tea prank AI is a 17-second clip from one photo of you or your dog: at a cafe table with dogs that have human hands, a hand touches a hot tea spoon to a paw, you jump up with a yelp, and the dogs laugh.
+
+## Demo videos (CDN)
+
+- https://www.makeviral.ai/media/templates/hot-tea-prank-ai/original-pet-v2.mp4
+
+## Posters
+
+- https://www.makeviral.ai/media/templates/hot-tea-prank-ai/original-pet-v1.jpg
+
+## Prompts
+
+### 1. 1. The video prompt is filled in. Settings: Seedance 2.5, 17 s, 720p, 9:16, sound off. The video prompt
+
+*Kind: video_prompt*
+
+```text
+Recreate the reference video [Video 1] shot for shot: the same warm cafe with wooden benches, patterned plates on the walls and wicker lamps, the same wooden table with small tulip glasses of tea, the same single handheld phone shot, camera moves, timing, poses, mouth moves and facial expressions. The ONLY change: the dog on the left in the black cap and the blue bandana is now the person in [Image 1], a real human.
+
+The person = the person in [Image 1], in EVERY frame: copy the exact face from [Image 1] (the face shape, eye color and eye shape, eyebrows, nose, mouth, skin tone, age, hair color, hair length and hairstyle, and any beard, moustache, glasses or freckles), so their friends recognize them at once. A HUMAN head and a human body that sits on the bench like a person at a cafe: never a dog head, no dog ears, no fur, no muzzle, no tail. They wear their own clothes from [Image 1], with the plain black cap and the blue bandana around the neck from the video. The same real person in every frame, also after the cap falls off and in the close view: never morph, never drift back to the dog of the original video. If [Image 1] shows an animal, that performer is that animal with the same human hands, with its own face, fur and markings, not a person.
+
+The other two dogs with human hands stay exactly as in [Video 1]: the dog on the right in the green collar, and the laughing dog behind the camera in the last second. Matching the reference second by second:
+1. 0-2.5 s: the person sits next to the dog at the table and scrolls a phone; a hand in front stirs a glass of tea with a spoon.
+2. 2.5-4.5 s: the hand lifts the spoon from the tea and touches it to the dog's paw on the table; the dog pulls the paw back.
+3. 4.5-8 s: the person jumps up from the bench with a surprised "ah!" and waves their arms, the phone in one hand.
+4. 8-9 s: they stand, the cap falls off, they grab the blue bandana.
+5. 9-11 s: the camera swings to the dog, which laughs on the bench.
+6. 11-15.5 s: close view of the person: they hold the bandana away from their belly, fan it, blow on it and complain to the camera.
+7. 15.5-17 s: they lean into the camera, the view flips, and the dog behind the camera laughs with a hand over its face.
+The mouths open and close exactly when the mouths in [Video 1] do. Light slapstick, everyone is fine.
+
+Anatomy rules: one head per character, two hands each; the person has a human face and human hands only. No extra people, no extra animals. No text on the cap, no new text, no logos, no watermark.
+```
+
+### 2. 1. The video prompt is filled in. Settings: Seedance 2.5, 17 s, 720p, 9:16, sound off. The video prompt
+
+*Kind: video_prompt*
+
+```text
+Recreate the reference video [Video 1] shot for shot: the same warm cafe with wooden benches, patterned plates on the walls and wicker lamps, the same wooden table with small tulip glasses of tea, the same single handheld phone shot, camera moves, timing, poses, mouth moves and facial expressions. The ONLY change: the two dogs at the table are now the two people in [Image 1] and [Image 2], real humans. Both change: no dog from the table stays, also in the wide view and when only a hand or a side shows at the edge.
+
+Person 1 = the person in [Image 1], in EVERY frame: on the left in the black cap and the blue bandana, the one who scrolls the phone and jumps up. Copy the exact face from [Image 1] (the face shape, eye color and eye shape, eyebrows, nose, mouth, skin tone, age, hair color, hair length and hairstyle, and any beard, moustache, glasses or freckles).
+Person 2 = the person in [Image 2], in EVERY frame: the friend on the right who gets the spoon and laughs. Copy the exact face from [Image 2] in the same way.
+Never blend their faces; each face stays the same from the first frame to the last, so their friends recognize them at once. Both have HUMAN heads and human bodies that sit on the bench like people at a cafe: never a dog head, no dog ears, no fur, no muzzle, no tail. Each wears their own clothes from their photo; person 1 also wears the plain black cap and the blue bandana from the video. Never drift back to the dogs of the original video, also after the cap falls off and in the close view. If an image shows an animal, that performer is that animal with human hands, with its own face, fur and markings, not a person.
+
+Only the laughing dog behind the camera in the last second stays as in [Video 1]. Matching the reference second by second:
+1. 0-2.5 s: person 1 scrolls a phone next to person 2; a hand in front stirs a glass of tea with a spoon.
+2. 2.5-4.5 s: the hand touches the spoon to person 2's hand on the table; person 2 pulls the hand back.
+3. 4.5-8 s: person 1 jumps up with a surprised "ah!" and waves their arms, the phone in one hand.
+4. 8-9 s: person 1 stands, the cap falls off, they grab the blue bandana.
+5. 9-11 s: the camera swings to person 2, who laughs on the bench.
+6. 11-15.5 s: close view of person 1: they hold the bandana away from their belly, fan it, blow on it and complain to the camera.
+7. 15.5-17 s: person 1 leans into the camera, the view flips, and the dog behind the camera laughs with a hand over its face.
+The mouths open and close exactly when the mouths in [Video 1] do. Light slapstick, everyone is fine.
+
+Anatomy rules: one head per character, two hands each. No extra people, no extra animals. No text on the cap, no new text, no logos, no watermark.
+```
+
+### 3. 1. The video prompt is filled in. Settings: h3-recast, 17 s, 720p, 9:16, sound off. The video prompt
+
+*Kind: video_prompt*
+
+```text
+Image 1 replaces the dog on the left in the black cap and the blue bandana, in every frame: the dog that scrolls a phone at the cafe table, jumps up from the bench with a yelp, waves its arms, then stands and fans its bandana away from its belly and talks, and in the end leans into the camera. Also after the cap falls off at about 8 seconds, in the close view from 11 seconds and in its last look into the lens. It keeps the face shape, ears, eye color, fur colors, fur length and markings from image 1, not the coat, the ears or the face of the dog in the video, with the natural head and body proportions of that animal: never flattened, squashed or stretched. If image 1 shows a cat or another animal, that animal takes the same place and makes the same moves. It keeps the human hands, the plain black cap and the blue bandana from the video. The dog on the right in the green collar, the hand that stirs the tea and the laughing dog behind the camera in the last second stay exactly as in the video. Keep the cafe, the wooden table, the tea glasses, the spoon, the phone, the poses, the mouth movement, the facial expressions, the camera moves, the light and the timing exactly as in the video. No text, no logos, no watermark.
+```
+
+### 4. 1. The video prompt is filled in. Settings: h3-recast, 17 s, 720p, 9:16, sound off. The video prompt (Pet)
+
+*Kind: video_prompt*
+
+```text
+Replace the two dogs at the cafe table with the pets from image 1 and image 2, and preserve the original background, actions, poses, camera movement, lighting and timing. Only replace those two dogs, keep everything else unchanged. Image 1 replaces the dog on the left in the black cap and the blue bandana, in every frame: it scrolls a phone, jumps up from the bench with a yelp, waves its arms, stands and fans its bandana away from its belly and talks, and in the end leans into the camera; also after the cap falls off at about 8 seconds and in the close view from 11 seconds. Image 2 replaces the dog on the right in the green collar, in every frame: it sits next to it, rests a paw on the table, pulls the paw back when the spoon touches it and then laughs on the bench; also in the wide view at 9 to 11 seconds and when only its paws or its side show at the edge. Each pet keeps the face shape, ears, eye color, fur colors, fur length and markings from its own image, not the coats of the dogs in the video, with the natural proportions of that animal: never flattened, squashed or stretched. If an image shows a cat or another animal, that animal takes the same place and makes the same moves. Both keep the human hands from the video; pet 1 keeps the plain black cap and the blue bandana. The hand that stirs the tea and the laughing dog behind the camera in the last second stay exactly as in the video. Keep the cafe, the table, the tea glasses, the spoon, the phone, the mouth movement, the facial expressions, the camera moves and the timing exactly as in the video. No text, no logos, no watermark.
+```
+

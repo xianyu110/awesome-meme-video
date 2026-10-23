@@ -56,7 +56,7 @@ Everything runs in the browser. No editing app, no watermark.
 
 1. **Add the two photos.** Press "Make yours" and add your product photo, then logo, bag or box. Add them in this order, because the order decides who is who in the scene. Take them with the camera or pick them from your library. Start here: https://www.makeviral.ai/templates/caught-at-the-window-ai-ad/create
 2. **Press Generate.** The button shows the price. Omni 1.1 Flash films the Caught at the Window scene straight from your photos, with no in-between picture, for 10 seconds with original sound. You write no prompt.
-3. **Download or share.** The video is ready in a few minutes as a 9:16 MP4. Download it, share it from your phone, or find it later in your Library.
+3. **Download or share.** The video is ready in a few minutes as a 9:16 MP4. Download it, share it from your phone, or find it later in My videos.
 
 ### The by-hand way, with the exact prompts
 
@@ -150,7 +150,7 @@ Your ad follows the trend shot by shot, in one continuous take with no cuts:
 
 The last beat works like an AI logo animation: the curtains close and your logo takes the frame.
 
-Omni 1.1 Flash (Gemini Omni Flash) makes the whole ad straight from your two photos, the same model the trend's creators use in Google Flow. The clip is vertical 9:16 at 1080p, with night ambience, a curtain swish and a short music sting on the logo. The exact price shows on the Generate button before you spend anything, and the video waits in your Library when it is ready.
+Omni 1.1 Flash (Gemini Omni Flash) makes the whole ad straight from your two photos, the same model the trend's creators use in Google Flow. The clip is vertical 9:16 at 1080p, with night ambience, a curtain swish and a short music sting on the logo. The exact price shows on the Generate button before you spend anything, and the video waits in My videos when it is ready.
 
 ## How brands post the caught at the window ad
 
@@ -183,7 +183,7 @@ It is a viral AI ad format from October 2026, also called the YAKALANDIN trend i
 
 ### How do I make the caught at the window ad?
 
-Press "Create your own", add a photo of your product as photo 1 and your logo or branded package as photo 2, and press Generate. The button shows the price first. You get a 10-second vertical ad at 1080p, and it waits in your Library when it is ready.
+Press "Create your own", add a photo of your product as photo 1 and your logo or branded package as photo 2, and press Generate. The button shows the price first. You get a 10-second vertical ad at 1080p, and it waits in My videos when it is ready.
 
 ### Is this an AI ad generator I can use for my own business?
 
@@ -215,7 +215,7 @@ Yes. The create page shows the exact price on the Generate button before you spe
 
 ### Are my photos private?
 
-Yes. MakeViral does not post your photos or the result anywhere or show them to other users. The video goes to your private Library, and you can delete it there at any time.
+Yes. MakeViral does not post your photos or the result anywhere or show them to other users. The video goes to your private My videos page, and you can delete it there at any time.
 
 ## Other AI video templates and tools
 

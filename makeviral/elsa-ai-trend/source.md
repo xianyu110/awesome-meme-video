@@ -54,7 +54,7 @@ Everything runs in the browser. No editing app, no watermark.
 
 1. **Add your photo.** Press "Make yours" and add your kid or you. Take it with the camera or pick it from your library. Start here: https://www.makeviral.ai/templates/elsa-ai-trend/create
 2. **Press Generate.** The button shows the price. Seedance 2.5 puts your photos into the Elsa AI trend clip and copies it shot by shot for 14 seconds, with the reel's original song. You write no prompt.
-3. **Download or share.** The video is ready in up to several minutes as a 9:16 MP4. Download it, share it from your phone, or find it later in your Library.
+3. **Download or share.** The video is ready in up to several minutes as a 9:16 MP4. Download it, share it from your phone, or find it later in My videos.
 
 ### The by-hand way, with the exact prompts
 
@@ -167,7 +167,7 @@ Press "Create your own" and pick **Human** for a child or an adult, or **Pet** f
 | Sound | The reel's song, put back on after the run | The same |
 | Photos | 1 | 1 |
 
-The exact price shows on the Generate button before you spend anything. A video can take up to several minutes and waits in your Library when it is ready.
+The exact price shows on the Generate button before you spend anything. A video can take up to several minutes and waits in My videos when it is ready.
 
 **Why a fan reel and not the film?** The film's scene belongs to Disney. This template copies an AI reel that a fan made and posted herself, and no prompt names the film, the song or the character. MakeViral is not connected to Disney.
 
@@ -209,7 +209,7 @@ The first big posts came from @mer1pao.us, a family account that makes AI short 
 
 ### How do I make the Elsa AI video of my kid?
 
-Press "Create your own", pick Human, add one clear photo of your child and press Generate. The button shows the price first. You get a 14-second vertical clip with the reel's song, and it waits in your Library when it is ready. You write no prompt.
+Press "Create your own", pick Human, add one clear photo of your child and press Generate. The button shows the price first. You get a 14-second vertical clip with the reel's song, and it waits in My videos when it is ready. You write no prompt.
 
 ### Can I make it of myself, or of a boy?
 

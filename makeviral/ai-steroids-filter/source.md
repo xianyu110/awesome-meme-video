@@ -53,7 +53,7 @@ Everything runs in the browser. No editing app, no watermark.
 
 1. **Add your photo.** Press "Make yours" and add you alone, waist up. Take it with the camera or pick it from your library. Start here: https://www.makeviral.ai/templates/ai-steroids-filter/create
 2. **Press Generate.** The button shows the price. Nano Banana 2.1 puts your photo into the AI Muscle Filter scene and makes one 2K photo. You write no prompt.
-3. **Download or share.** The photo is ready in a few minutes as a 9:16 2K image. Download it, share it from your phone, turn it into a video, or find it later in your Library.
+3. **Download or share.** The photo is ready in a few minutes as a 9:16 2K image. Download it, share it from your phone, turn it into a video, or find it later in My videos.
 
 ### The by-hand way, with the exact prompts
 
@@ -192,7 +192,7 @@ We do not rank other tools. The best muscle filter app keeps your own face and c
 
 ### How do I use the AI steroids filter?
 
-Press "Create your own", pick Human, Flex video or Pet, add one photo and press Generate. MakeViral makes the picture or the clip and puts it in your Library. You need no app and no prompt.
+Press "Create your own", pick Human, Flex video or Pet, add one photo and press Generate. MakeViral makes the picture or the clip and puts it in My videos. You need no app and no prompt.
 
 ### What would I look like with muscles?
 
@@ -252,7 +252,7 @@ Yes. The Human and Pet photos cost a few credits, and the Flex video costs more,
 
 ### Is my photo private?
 
-Yes. MakeViral does not post your photo or the result anywhere or show them to other users. The result goes to your private Library, and you can delete it there at any time.
+Yes. MakeViral does not post your photo or the result anywhere or show them to other users. The result goes to your private My videos page, and you can delete it there at any time.
 
 ## Other AI video templates and tools
 

@@ -63,7 +63,7 @@ Everything runs in the browser. No editing app, no watermark.
 
 1. **Add the two photos.** Press "Make yours" and add you around 2016 (old photo), then you now. Add them in this order, because the order decides who is who in the scene. Take them with the camera or pick them from your library. Start here: https://www.makeviral.ai/templates/2016-me-meets-2026-me-ai/create
 2. **Press Generate.** The button shows the price. MakeViral builds the 2016 vs 2026 scene with your photos, then Kling 3.0 animates it for 10 seconds with original sound. You write no prompt.
-3. **Download or share.** The video is ready in a few minutes as a 9:16 MP4. Download it, share it from your phone, or find it later in your Library.
+3. **Download or share.** The video is ready in a few minutes as a 9:16 MP4. Download it, share it from your phone, or find it later in My videos.
 
 ### The by-hand way, with the exact prompts
 

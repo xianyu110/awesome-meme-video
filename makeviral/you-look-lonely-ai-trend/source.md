@@ -49,7 +49,7 @@ Everything runs in the browser. No editing app, no watermark.
 
 1. **Add the two photos.** Press "Make yours" and add the giant hologram, face clear, then the lonely one, face clear. Add them in this order, because the order decides who is who in the scene. Take them with the camera or pick them from your library. Start here: https://www.makeviral.ai/templates/you-look-lonely-ai-trend/create
 2. **Press Generate.** The button shows the price. Seedance 2.5 films the You Look Lonely scene straight from your photos, with no in-between picture, for 12 seconds with original sound. You write no prompt.
-3. **Download or share.** The video is ready in a few minutes as a 9:16 MP4. Download it, share it from your phone, or find it later in your Library.
+3. **Download or share.** The video is ready in a few minutes as a 9:16 MP4. Download it, share it from your phone, or find it later in My videos.
 
 ### The by-hand way, with the exact prompts
 
@@ -174,7 +174,7 @@ It is the same idea, made new: a giant glowing hologram leans down to someone sm
 
 ### How do I make the you look lonely AI video?
 
-Pick Duo or Solo, add your photo (photo 1 is the hologram), add photo 2 for the Duo, and press Generate. The button shows the price first. You write no prompt, and the video waits in your Library when it is ready, usually in 5 to 15 minutes.
+Pick Duo or Solo, add your photo (photo 1 is the hologram), add photo 2 for the Duo, and press Generate. The button shows the price first. You write no prompt, and the video waits in My videos when it is ready, usually in 5 to 15 minutes.
 
 ### What is the Blade Runner IA wallpaper?
 

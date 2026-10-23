@@ -51,7 +51,7 @@ Everything runs in the browser. No editing app, no watermark.
 
 1. **Add your photo.** Press "Make yours" and add your dog. Take it with the camera or pick it from your library. Start here: https://www.makeviral.ai/templates/whiny-dog-ai-trend/create
 2. **Press Generate.** The button shows the price. Seedance 2.5 puts your photos into the Whining dog trend clip and copies it shot by shot for 7 seconds, with the reel's original song. You write no prompt.
-3. **Download or share.** The video is ready in up to several minutes as a 9:16 MP4. Download it, share it from your phone, or find it later in your Library.
+3. **Download or share.** The video is ready in up to several minutes as a 9:16 MP4. Download it, share it from your phone, or find it later in My videos.
 
 ### The by-hand way, with the exact prompts
 
@@ -123,7 +123,7 @@ One step, one model. The video model takes your dog's photo and the original whi
 | Sound | The whine sound of the original clip; you can turn it off |
 | Time | Up to several minutes |
 
-The exact price shows on the Generate button before you spend anything, and the video waits in your Library when it is ready. You write no prompt.
+The exact price shows on the Generate button before you spend anything, and the video waits in My videos when it is ready. You write no prompt.
 
 **How is this different from the CapCut templates?** The "WHINEY DOBERMAN DOG" and "Whiny Puppy" templates cut the original Doberman out of its clip and put it in front of your photo. Here your own dog does the whining.
 

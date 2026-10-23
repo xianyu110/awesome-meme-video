@@ -50,7 +50,7 @@ Everything runs in the browser. No editing app, no watermark.
 
 1. **Add the two photos.** Press "Make yours" and add first person, then second person. Add them in this order, because the order decides who is who in the scene. Take them with the camera or pick them from your library. Start here: https://www.makeviral.ai/templates/ai-hug-video/create
 2. **Press Generate.** The button shows the price. MakeViral builds the AI hug scene with your photos, then Seedance 2.5 animates it for 8 seconds with original sound. You write no prompt.
-3. **Download or share.** The video is ready in a few minutes as a 9:16 MP4. Download it, share it from your phone, or find it later in your Library.
+3. **Download or share.** The video is ready in a few minutes as a 9:16 MP4. Download it, share it from your phone, or find it later in My videos.
 
 ### The by-hand way, with the exact prompts
 
@@ -158,7 +158,7 @@ This is a personal and sensitive choice, so please be thoughtful. Talk to your f
 
 ### How long is the AI hug video and what format is it?
 
-The default is 8 seconds, vertical 9:16, 720p, with sound, as an MP4 you can post to TikTok, Reels or Shorts. It lands in your Library with no watermark. You can change the length in AI Video, and the price updates on the button.
+The default is 8 seconds, vertical 9:16, 720p, with sound, as an MP4 you can post to TikTok, Reels or Shorts. It lands in My videos with no watermark. You can change the length in AI Video, and the price updates on the button.
 
 ### Is there an AI hug generator?
 

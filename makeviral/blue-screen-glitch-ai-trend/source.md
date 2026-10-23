@@ -47,7 +47,7 @@ Everything runs in the browser. No editing app, no watermark.
 
 1. **Add your photo.** Press "Make yours" and add you, full body. Take it with the camera or pick it from your library. Start here: https://www.makeviral.ai/templates/blue-screen-glitch-ai-trend/create
 2. **Press Generate.** The button shows the price. Seedance 2.5 films the Blue Screen Glitch scene straight from your photo, with no in-between picture, for 6 seconds with original sound. You write no prompt.
-3. **Download or share.** The video is ready in a few minutes as a 9:16 MP4. Download it, share it from your phone, or find it later in your Library.
+3. **Download or share.** The video is ready in a few minutes as a 9:16 MP4. Download it, share it from your phone, or find it later in My videos.
 
 ### The by-hand way, with the exact prompts
 

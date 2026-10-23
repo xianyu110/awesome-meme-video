@@ -49,7 +49,7 @@ Everything runs in the browser. No editing app, no watermark.
 
 1. **Add the two photos.** Press "Make yours" and add ukulele player, then singer. Add them in this order, because the order decides who is who in the scene. Take them with the camera or pick them from your library. Start here: https://www.makeviral.ai/templates/oouuh-ai-trend/create
 2. **Press Generate.** The button shows the price. Seedance 2.5 puts your photos into the Oouuh trend clip and copies it shot by shot for 14 seconds, with the reel's original song. You write no prompt.
-3. **Download or share.** The video is ready in up to several minutes as a 9:16 MP4. Download it, share it from your phone, or find it later in your Library.
+3. **Download or share.** The video is ready in up to several minutes as a 9:16 MP4. Download it, share it from your phone, or find it later in My videos.
 
 ### The by-hand way, with the exact prompts
 
@@ -161,7 +161,7 @@ The song is "Oouuh": Fredo Bang released it as a single in July 2018. The trend 
 
 ### How do I make the Oouuh AI video with my own photos?
 
-Press "Create your own". Add photo 1, the ukulele player, then photo 2, the singer, and press Generate. The button shows the price first. You get a 14-second vertical clip with the song, and you write no prompt. The video waits in your Library when it is ready.
+Press "Create your own". Add photo 1, the ukulele player, then photo 2, the singer, and press Generate. The button shows the price first. You get a 14-second vertical clip with the song, and you write no prompt. The video waits in My videos when it is ready.
 
 ### Do I have to sing or play the ukulele?
 

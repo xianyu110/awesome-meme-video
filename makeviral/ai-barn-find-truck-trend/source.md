@@ -55,7 +55,7 @@ Everything runs in the browser. No editing app, no watermark.
 
 1. **Add your photo.** Press "Make yours" and add your truck or car, the whole vehicle. Take it with the camera or pick it from your library. Start here: https://www.makeviral.ai/templates/ai-barn-find-truck-trend/create
 2. **Press Generate.** The button shows the price. Nano Banana 2.1 puts your photo into the Barn find scene and makes one 2K photo. You write no prompt.
-3. **Download or share.** The photo is ready in a few minutes as a 9:16 2K image. Download it, share it from your phone, turn it into a video, or find it later in your Library.
+3. **Download or share.** The photo is ready in a few minutes as a 9:16 2K image. Download it, share it from your phone, turn it into a video, or find it later in My videos.
 
 ### The by-hand way, with the exact prompts
 
@@ -191,7 +191,7 @@ It is a TikTok photo trend: an AI picture shows your own truck, car or bike as a
 
 ### How do I do the "what my kids are gonna find in the barn" trend?
 
-Press "Create your own", pick Truck or car, Bike or Video, add one photo of your vehicle and press Generate. MakeViral parks it in an old barn 20 years from now and puts the picture in your Library. Then add the line "What my kids are gonna find in the barn in 20 years" as text when you post it. You need no CapCut template, no ChatGPT and no prompt.
+Press "Create your own", pick Truck or car, Bike or Video, add one photo of your vehicle and press Generate. MakeViral parks it in an old barn 20 years from now and puts the picture in My videos. Then add the line "What my kids are gonna find in the barn in 20 years" as text when you post it. You need no CapCut template, no ChatGPT and no prompt.
 
 ### Is it "what my kids will find in the barn" or "what my grandkids will find in the barn"?
 
@@ -223,7 +223,7 @@ Yes. Pick Video: it makes the barn find picture first, then an 8-second clip whe
 
 ### Is there a CapCut template for the barn find trend?
 
-Yes, CapCut templates for the "truck in barn" trend spread on TikTok from 12 October 2026. MakeViral has no link to CapCut. Here you need no app and no template: one photo, and the picture lands in your Library.
+Yes, CapCut templates for the "truck in barn" trend spread on TikTok from 12 October 2026. MakeViral has no link to CapCut. Here you need no app and no template: one photo, and the picture lands in My videos.
 
 ### Is there an AI barn find app or barn find filter?
 
@@ -243,7 +243,7 @@ Yes. A picture costs a few credits, far fewer than a video. The create page show
 
 ### Is my photo private?
 
-Yes. MakeViral does not post your photo or the result anywhere or show them to other users. The picture goes to your private Library, and you can delete it there at any time.
+Yes. MakeViral does not post your photo or the result anywhere or show them to other users. The picture goes to your private My videos page, and you can delete it there at any time.
 
 ## Other AI video templates and tools
 

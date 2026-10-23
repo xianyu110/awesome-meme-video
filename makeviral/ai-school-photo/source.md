@@ -55,7 +55,7 @@ Everything runs in the browser. No editing app, no watermark.
 
 1. **Add your photo.** Press "Make yours" and add your child, chest up. Take it with the camera or pick it from your library. Start here: https://www.makeviral.ai/templates/ai-school-photo/create
 2. **Press Generate.** The button shows the price. Nano Banana 2.1 puts your photo into the School photo scene and makes one 2K photo. You write no prompt.
-3. **Download or share.** The photo is ready in a few minutes as a 9:16 2K image. Download it, share it from your phone, turn it into a video, or find it later in your Library.
+3. **Download or share.** The photo is ready in a few minutes as a 9:16 2K image. Download it, share it from your phone, turn it into a video, or find it later in My videos.
 
 ### The by-hand way, with the exact prompts
 
@@ -147,8 +147,8 @@ Many families do both: one small official package for school, and the extra look
 
 Kids' privacy was one of the main worries in the press coverage of this trend, so here is exactly what happens with your photo.
 
-- **Nobody else sees it.** MakeViral does not post your child's photo or the result anywhere and does not show them to other users. The school photo goes to your private Library.
-- **You can delete it.** Remove the result from your Library at any time. To erase the uploaded photo and the result from our storage for good, email privacy@makeviral.ai.
+- **Nobody else sees it.** MakeViral does not post your child's photo or the result anywhere and does not show them to other users. The school photo goes to your private My videos page.
+- **You can delete it.** Remove the result from My videos at any time. To erase the uploaded photo and the result from our storage for good, email privacy@makeviral.ai.
 - **Only your own child,** or a child whose parent or guardian asked you to. Never a photo from someone else's account.
 - **It is an AI picture.** Think about who will see your child's face before you post it publicly; a family chat or a private account is a good home for it too.
 - **The child on this page is AI-made.** Our example started from an AI-made photo, not a real child.
@@ -161,7 +161,7 @@ Parents take a photo of their child at home, usually against a plain wall, and u
 
 ### How do I make an AI school picture of my child?
 
-Press "Create your own", add one photo of your child from the chest up, pick a backdrop if you want, and press Generate. MakeViral keeps the face, smile and clothes and turns the photo into a classic school portrait with a studio backdrop and soft light. The picture lands in your Library.
+Press "Create your own", add one photo of your child from the chest up, pick a backdrop if you want, and press Generate. MakeViral keeps the face, smile and clothes and turns the photo into a classic school portrait with a studio backdrop and soft light. The picture lands in My videos.
 
 ### Will the AI change my child's face or make them look older?
 
@@ -229,7 +229,7 @@ Yes. The photo is 1536 x 2752 pixels (2K, tall 9:16), which is enough for a shar
 
 ### Is my child's photo private?
 
-Yes. MakeViral does not post it or show it to other users, and the result goes to your private Library. You can delete the result there at any time, and privacy@makeviral.ai erases the uploaded photo and the result from our storage for good.
+Yes. MakeViral does not post it or show it to other users, and the result goes to your private My videos page. You can delete the result there at any time, and privacy@makeviral.ai erases the uploaded photo and the result from our storage for good.
 
 ### Does the AI school photo cost credits?
 

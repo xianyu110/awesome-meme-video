@@ -1,10 +1,10 @@
 # All prompts (MakeViral)
 
-> 493 prompt blocks from 191 public template markdown pages.
+> 520 prompt blocks from 203 public template markdown pages.
 >
 > Remake Your Meme does not publish prompts; see `remakeyourmeme/*/PROMPTS.md` for metadata only.
 >
-> Sorted newest-first by published||updated (2026-10-22; undated=unknown).
+> Sorted newest-first by published||updated (2026-10-23; undated=unknown).
 
 ## Window Peeper Filter: Get Caught Eating a Burger at the Window
 
@@ -73,6 +73,66 @@ Exactly one person, one head, two hands. Black goo only: no blood, no wounds, no
 
 ```text
 Use the uploaded image as the base. A 9:16 vertical Halloween makeup portrait of the person from the uploaded image, from the chest up, facing the camera, in a dim room with one soft key light from the side, a faint red rim light behind them and a dark plain wall, like a real makeup photo taken on a phone. Half face goo makeup: one half of the face (the left side of the frame) is covered in thick, glossy, wet-looking black goo, like living liquid tar, that ends in a hard, jagged line straight down the middle of the forehead, the nose, the lips and the chin; on the goo side, a large white jagged eye shape, like a curved white teardrop with a spiky edge, sits around the eye, and the real eye stays open inside it with its own color; a row of long, thin, curved white fangs runs along the jaw from the corner of the mouth back toward the ear; thin dark veins spread from the edge of the goo across the bare cheek and down the neck, with a few slow drips of goo on the neck. The other half of the face stays the person's own bare face, with its own skin, eye, eyebrow and lips. The person wears their own clothes from the uploaded image and looks straight into the lens with a calm, confident face and a slight smirk. Realistic skin texture and natural colors. Exactly one person. Black goo only: no blood, no wounds, no torn skin, no gore. The goo and the white shapes stay on one half of the face and the neck; the other half stays bare. No mask, no helmet, no costume, no suit, no emblem or symbol on the chest or the clothes, no spider shape anywhere. No text, no subtitles, no logos, no watermark.
+```
+
+---
+
+## Training Season Dance AI: Your Face in the Paris Outfit Reel
+
+- Page: https://www.makeviral.ai/templates/training-season-dance-ai-trend
+- Markdown: https://www.makeviral.ai/templates/training-season-dance-ai-trend.md
+- Updated: 2026-10-22 · Published: 2026-10-22
+- Local: [`makeviral/training-season-dance-ai-trend/PROMPTS.md`](makeviral/training-season-dance-ai-trend/PROMPTS.md)
+
+### 1. The video prompt is filled in. Settings: Seedance 2.5, 26 s, 480p, 9:16, sound off. The video prompt
+
+```text
+Recreate the reference video [Video 1] shot for shot: one woman lip-syncs and dances on the beat in four hard cuts, a new outfit and a new place in Paris in each cut, with the same camera angles, cuts, timing, dance moves and mouth movements. The ONLY change: the woman with long straight black hair is now the person in [Image 1], in EVERY shot.
+
+The dancer = the person in [Image 1], in every shot: copy the exact face from [Image 1] (face shape, eye color and eye shape, eyebrows, nose, mouth, skin tone, age, hair color, hair length and hairstyle, and any beard, moustache, glasses or freckles exactly as in the photo), so their friends recognize them at once, also in far shots and from the back. The same real person in every frame. Never morph, never drift back to the original woman's face. NO long straight black hair unless [Image 1] shows it. Take only the face, the hair and the skin tone from [Image 1], never the clothes: in every shot the dancer wears the outfit of the video, and the four looks stay four different looks.
+
+The four shots, matching the reference second by second:
+0-8.9 s: the wide gravel square of a formal garden at sunset, a pink sky, a long classical palace behind the pond. Look 1: a camel zip-up peplum jacket, dark brown leather micro shorts, sheer black tights and black knee boots. A hand on the hip, the arms swing out wide, then both arms go straight up over the head with the wrists crossed and stay up while the hips sway.
+8.9-12.6 s: night on a quiet street by an iron railing, a tall iron lattice tower lit in gold behind. Look 2: a long dark brown leather trench coat over a dark brown lace midi skirt. The hands roll in small circles at the chest, then open out to the sides.
+12.6-16.6 s: day, a stone balustrade by a metro entrance with a round red sign on a green iron post, autumn trees and cream stone buildings behind. Look 3: a grey-brown suede jacket over a taupe knit top and dark blue flared jeans. The arms out to the sides, a little kick, a hand in the pocket, then a point at the camera as it moves closer.
+16.6-26.4 s: night in a large stone palace courtyard with street lamps and a glowing glass pyramid behind. Look 4: a champagne beaded slip midi dress with thin straps, long hair pinned up. The dancer sways, raises one arm high, then turns around and walks away with one arm up and the other hand on the hip.
+
+If [Image 1] shows a man, he stays a man in every shot and wears a men's version of each look in the same colors. If [Image 1] shows a baby or a toddler, the dancer is that same baby, standing upright, with real baby anatomy: a small chubby body, a big round head, short arms and legs and small baby hands, never an adult body, in baby-size versions of the four looks.
+
+Anatomy rules: one head only, on the dancer's shoulders. A face never appears on knees, legs, hands or clothes. Two arms and two legs, no extra limbs. Exactly one dancer. No added text, no subtitles, no logos, no watermark.
+```
+
+---
+
+## Stones to Castle AI Trend: They Threw Stones, You Built a Castle
+
+- Page: https://www.makeviral.ai/templates/stones-to-castle-ai-trend
+- Markdown: https://www.makeviral.ai/templates/stones-to-castle-ai-trend.md
+- Updated: 2026-10-22 · Published: 2026-10-22
+- Local: [`makeviral/stones-to-castle-ai-trend/PROMPTS.md`](makeviral/stones-to-castle-ai-trend/PROMPTS.md)
+
+### 1. The video prompt is filled in. Settings: Seedance 2.5, 15 s, 720p, 9:16, sound off. The video prompt
+
+```text
+Recreate the reference video [Video 1] shot for shot: a cloudy green mountain valley, a big crowd of angry adult women who throw grey stones toward one calm woman in a red suit, the stones she picks up, and the stone wall that grows into a huge pale Gothic castle, with the same camera angles, cuts, timing and moves. The ONLY change: the calm woman with long dark wavy hair in the red suit is now the person in [Image 1]. The crowd, the valley, the stones, the castle, the light and the camera stay exactly as in [Video 1].
+
+The woman = the person in [Image 1], in EVERY shot she is in: copy the exact face from [Image 1] (the face shape, eye color and eye shape, eyebrows, nose, mouth, skin tone, age, hair color, hair length and hairstyle, and any beard, moustache, glasses or freckles) exactly as in the photo. The same real person from the first frame to the last, so their friends recognize them at once, also in the last close shot in the window. Never morph, never drift back to the original woman's face. No long dark wavy hair unless [Image 1] shows it. The outfit is part of the look, so keep it: a red tailored suit over a black top in the valley, and a simple black sleeveless outfit in the window, never the clothes from [Image 1].
+
+The angry women of the crowd stay the same adult women as in [Video 1] and never get the face from [Image 1].
+
+The shots, matching the reference second by second:
+0-1.8 s: low wide shot: the crowd behind piles of grey stones throws stones high toward her.
+1.8-3.1 s: high top-down shot of the meadow and a low stone line: she crouches alone while stones land on the grass around her.
+3.1-4.3 s: medium shot: she stands calm in the meadow, looking at the camera; a stone flies past and lands beside her; she does not flinch.
+4.3-5.4 s: close: a crowd woman with long brown hair in a black leather jacket points at the camera and shouts.
+5.4-6.4 s: close on the grass: her hand with a silver ring picks up a grey stone.
+6.4-7.4 s: she crouches in the red suit and looks calmly at the stone in her hand.
+7.4-11 s: she stands behind a dry stone wall made of the stones; it grows higher and turns into grey castle walls as the camera tilts up and Gothic spires rise, her small red figure at the top.
+11-11.9 s: wide: the huge Gothic castle fills the valley; the crowd, seen from behind, looks up.
+11.9-12.8 s: close: crowd women look up with open mouths, stones still in their hands.
+12.8-15 s: she stands in a carved Gothic stone window of the castle in the black outfit and gives a soft, proud smile to the camera, the face big and sharp.
+
+Safety and anatomy rules: the stones only fly toward her and land on the grass around her: nobody is hit, no blood, no wound, no injury. All the women are adults. One head only per person, on their own shoulders; two arms and five fingers on each hand. Exactly one woman in red. No text, no captions, no logos, no watermark.
 ```
 
 ---
@@ -210,6 +270,69 @@ Audio: crickets and a quiet night forest, the squeaky whispered fairy babble wit
 
 ---
 
+## Hot Tea Prank AI: Put Yourself or Your Dog in the Cafe Prank
+
+- Page: https://www.makeviral.ai/templates/hot-tea-prank-ai
+- Markdown: https://www.makeviral.ai/templates/hot-tea-prank-ai.md
+- Updated: 2026-10-22 · Published: 2026-10-22
+- Local: [`makeviral/hot-tea-prank-ai/PROMPTS.md`](makeviral/hot-tea-prank-ai/PROMPTS.md)
+
+### 1. The video prompt is filled in. Settings: Seedance 2.5, 17 s, 720p, 9:16, sound off. The video prompt
+
+```text
+Recreate the reference video [Video 1] shot for shot: the same warm cafe with wooden benches, patterned plates on the walls and wicker lamps, the same wooden table with small tulip glasses of tea, the same single handheld phone shot, camera moves, timing, poses, mouth moves and facial expressions. The ONLY change: the dog on the left in the black cap and the blue bandana is now the person in [Image 1], a real human.
+
+The person = the person in [Image 1], in EVERY frame: copy the exact face from [Image 1] (the face shape, eye color and eye shape, eyebrows, nose, mouth, skin tone, age, hair color, hair length and hairstyle, and any beard, moustache, glasses or freckles), so their friends recognize them at once. A HUMAN head and a human body that sits on the bench like a person at a cafe: never a dog head, no dog ears, no fur, no muzzle, no tail. They wear their own clothes from [Image 1], with the plain black cap and the blue bandana around the neck from the video. The same real person in every frame, also after the cap falls off and in the close view: never morph, never drift back to the dog of the original video. If [Image 1] shows an animal, that performer is that animal with the same human hands, with its own face, fur and markings, not a person.
+
+The other two dogs with human hands stay exactly as in [Video 1]: the dog on the right in the green collar, and the laughing dog behind the camera in the last second. Matching the reference second by second:
+1. 0-2.5 s: the person sits next to the dog at the table and scrolls a phone; a hand in front stirs a glass of tea with a spoon.
+2. 2.5-4.5 s: the hand lifts the spoon from the tea and touches it to the dog's paw on the table; the dog pulls the paw back.
+3. 4.5-8 s: the person jumps up from the bench with a surprised "ah!" and waves their arms, the phone in one hand.
+4. 8-9 s: they stand, the cap falls off, they grab the blue bandana.
+5. 9-11 s: the camera swings to the dog, which laughs on the bench.
+6. 11-15.5 s: close view of the person: they hold the bandana away from their belly, fan it, blow on it and complain to the camera.
+7. 15.5-17 s: they lean into the camera, the view flips, and the dog behind the camera laughs with a hand over its face.
+The mouths open and close exactly when the mouths in [Video 1] do. Light slapstick, everyone is fine.
+
+Anatomy rules: one head per character, two hands each; the person has a human face and human hands only. No extra people, no extra animals. No text on the cap, no new text, no logos, no watermark.
+```
+
+### 1. The video prompt is filled in. Settings: Seedance 2.5, 17 s, 720p, 9:16, sound off. The video prompt
+
+```text
+Recreate the reference video [Video 1] shot for shot: the same warm cafe with wooden benches, patterned plates on the walls and wicker lamps, the same wooden table with small tulip glasses of tea, the same single handheld phone shot, camera moves, timing, poses, mouth moves and facial expressions. The ONLY change: the two dogs at the table are now the two people in [Image 1] and [Image 2], real humans. Both change: no dog from the table stays, also in the wide view and when only a hand or a side shows at the edge.
+
+Person 1 = the person in [Image 1], in EVERY frame: on the left in the black cap and the blue bandana, the one who scrolls the phone and jumps up. Copy the exact face from [Image 1] (the face shape, eye color and eye shape, eyebrows, nose, mouth, skin tone, age, hair color, hair length and hairstyle, and any beard, moustache, glasses or freckles).
+Person 2 = the person in [Image 2], in EVERY frame: the friend on the right who gets the spoon and laughs. Copy the exact face from [Image 2] in the same way.
+Never blend their faces; each face stays the same from the first frame to the last, so their friends recognize them at once. Both have HUMAN heads and human bodies that sit on the bench like people at a cafe: never a dog head, no dog ears, no fur, no muzzle, no tail. Each wears their own clothes from their photo; person 1 also wears the plain black cap and the blue bandana from the video. Never drift back to the dogs of the original video, also after the cap falls off and in the close view. If an image shows an animal, that performer is that animal with human hands, with its own face, fur and markings, not a person.
+
+Only the laughing dog behind the camera in the last second stays as in [Video 1]. Matching the reference second by second:
+1. 0-2.5 s: person 1 scrolls a phone next to person 2; a hand in front stirs a glass of tea with a spoon.
+2. 2.5-4.5 s: the hand touches the spoon to person 2's hand on the table; person 2 pulls the hand back.
+3. 4.5-8 s: person 1 jumps up with a surprised "ah!" and waves their arms, the phone in one hand.
+4. 8-9 s: person 1 stands, the cap falls off, they grab the blue bandana.
+5. 9-11 s: the camera swings to person 2, who laughs on the bench.
+6. 11-15.5 s: close view of person 1: they hold the bandana away from their belly, fan it, blow on it and complain to the camera.
+7. 15.5-17 s: person 1 leans into the camera, the view flips, and the dog behind the camera laughs with a hand over its face.
+The mouths open and close exactly when the mouths in [Video 1] do. Light slapstick, everyone is fine.
+
+Anatomy rules: one head per character, two hands each. No extra people, no extra animals. No text on the cap, no new text, no logos, no watermark.
+```
+
+### 1. The video prompt is filled in. Settings: h3-recast, 17 s, 720p, 9:16, sound off. The video prompt
+
+```text
+Image 1 replaces the dog on the left in the black cap and the blue bandana, in every frame: the dog that scrolls a phone at the cafe table, jumps up from the bench with a yelp, waves its arms, then stands and fans its bandana away from its belly and talks, and in the end leans into the camera. Also after the cap falls off at about 8 seconds, in the close view from 11 seconds and in its last look into the lens. It keeps the face shape, ears, eye color, fur colors, fur length and markings from image 1, not the coat, the ears or the face of the dog in the video, with the natural head and body proportions of that animal: never flattened, squashed or stretched. If image 1 shows a cat or another animal, that animal takes the same place and makes the same moves. It keeps the human hands, the plain black cap and the blue bandana from the video. The dog on the right in the green collar, the hand that stirs the tea and the laughing dog behind the camera in the last second stay exactly as in the video. Keep the cafe, the wooden table, the tea glasses, the spoon, the phone, the poses, the mouth movement, the facial expressions, the camera moves, the light and the timing exactly as in the video. No text, no logos, no watermark.
+```
+
+### 1. The video prompt is filled in. Settings: h3-recast, 17 s, 720p, 9:16, sound off. The video prompt — Pet
+
+```text
+Replace the two dogs at the cafe table with the pets from image 1 and image 2, and preserve the original background, actions, poses, camera movement, lighting and timing. Only replace those two dogs, keep everything else unchanged. Image 1 replaces the dog on the left in the black cap and the blue bandana, in every frame: it scrolls a phone, jumps up from the bench with a yelp, waves its arms, stands and fans its bandana away from its belly and talks, and in the end leans into the camera; also after the cap falls off at about 8 seconds and in the close view from 11 seconds. Image 2 replaces the dog on the right in the green collar, in every frame: it sits next to it, rests a paw on the table, pulls the paw back when the spoon touches it and then laughs on the bench; also in the wide view at 9 to 11 seconds and when only its paws or its side show at the edge. Each pet keeps the face shape, ears, eye color, fur colors, fur length and markings from its own image, not the coats of the dogs in the video, with the natural proportions of that animal: never flattened, squashed or stretched. If an image shows a cat or another animal, that animal takes the same place and makes the same moves. Both keep the human hands from the video; pet 1 keeps the plain black cap and the blue bandana. The hand that stirs the tea and the laughing dog behind the camera in the last second stay exactly as in the video. Keep the cafe, the table, the tea glasses, the spoon, the phone, the mouth movement, the facial expressions, the camera moves and the timing exactly as in the video. No text, no logos, no watermark.
+```
+
+---
+
 ## Gangnam Style Dance AI: Put Your Face in the Viral Trio Reel
 
 - Page: https://www.makeviral.ai/templates/gangnam-style-ai-dance
@@ -304,6 +427,36 @@ The person dances in the place from the uploaded image, in the clothes and shoes
 
 ---
 
+## Diamond Miner Meme AI: Quit One Swing Before the Diamonds
+
+- Page: https://www.makeviral.ai/templates/diamond-miner-meme-ai
+- Markdown: https://www.makeviral.ai/templates/diamond-miner-meme-ai.md
+- Updated: 2026-10-22 · Published: 2026-10-22
+- Local: [`makeviral/diamond-miner-meme-ai/PROMPTS.md`](makeviral/diamond-miner-meme-ai/PROMPTS.md)
+
+### 1. The video prompt is filled in. Settings: Seedance 2.5, 28 s, 480p, 9:16, sound off. The video prompt
+
+```text
+Recreate the reference video [Video 1] shot for shot: a cinematic short film in a narrow mine tunnel lit by one warm lamp, with the same camera angles, cuts, timing, light and moves, every shot in the same order and the same 4:3 frame. The ONLY change: the young man with short black hair is now the person in [Image 1].
+
+The miner = the person in [Image 1], in EVERY shot: copy the exact face from [Image 1] (face shape, eyes, eyebrows, nose, mouth, skin tone, age, hair color, hair length and hairstyle, and any beard, moustache or glasses). The same real person in every frame, also in the wide shots where the miner is small, in the extreme close-up of the eyes and in the dark. Never morph, never drift back to the original man's face, eyes or short black hair. The miner wears the clothes from [Image 1], a little dusty; where [Image 1] does not show the legs, add plain work trousers and boots. No white t-shirt and no camouflage trousers unless [Image 1] shows them.
+
+The shots, second by second:
+1. 0-5.9 s: a wide side cut-through view of the earth: the miner swings a pickaxe at the end of the tunnel; the rock just past the tunnel's end and above it is packed with huge clear diamonds the miner cannot see.
+2. 5.9-10.6 s: tired, the miner sits against the rock wall, wipes the forehead with a forearm, takes out a phone and starts to smile at it.
+3. 10.6-12.9 s: front shot, the face lit by the phone's glow, a happy, hooked smile.
+4. 12.9-16.8 s: extreme close-up of the eyes in the dark; a colorful slot game with spinning reels and flashing lights reflects in both eyes.
+5. 16.8-18.4 s: the wide view, the tunnel dark: the miner lies back and scrolls, lit only by the phone.
+6. 18.4-20.9 s: still scrolling, the miner holds up a small clear diamond and looks at it, puzzled.
+7. 20.9-24.2 s: the wide view, lit again: the miner puts the phone down, kneels and picks up the pickaxe.
+8. 24.2-25.6 s: top view of the phone on the dirt next to the diamond; the screen shows only "STOP BEING DISTRACTED." in black capitals on white.
+9. 25.6-27.5 s: the wide view: one more swing into the rock and a wall of diamonds bursts out and pours toward the camera.
+
+One head only, on the miner's shoulders; no face on the rock, the diamonds or the phone. No extra limbs. Exactly one person in every shot. The slot game is a generic screen of fruit symbols and colored lights: no brand, no logo, no readable words. No other text: no subtitles, no logos, no watermark.
+```
+
+---
+
 ## Check One Check Two Filter: Rap the JME Grime Verse in the Night Crowd
 
 - Page: https://www.makeviral.ai/templates/check-one-check-two-ai-filter
@@ -345,6 +498,309 @@ THE SHOTS, at the same times as [Video 1]:
 The other people in the crowd keep their own faces and never take a face from the photos.
 
 Anatomy rules: one head per person, on that person's own shoulders. A face never appears on hands or clothes. Two hands with five fingers each. No text, no captions, no logos, no watermark.
+```
+
+---
+
+## Bulin 47 Dance AI: Do the Dame Hombro Dance From One Photo
+
+- Page: https://www.makeviral.ai/templates/bulin-47-dance-ai-trend
+- Markdown: https://www.makeviral.ai/templates/bulin-47-dance-ai-trend.md
+- Updated: 2026-10-22 · Published: 2026-10-22
+- Local: [`makeviral/bulin-47-dance-ai-trend/PROMPTS.md`](makeviral/bulin-47-dance-ai-trend/PROMPTS.md)
+
+### 1. The video prompt is filled in. Settings: kling-3-motion, 15 s, 720p, 9:16, sound off. The video prompt
+
+```text
+Motion transfer and character replacement: the person from the uploaded image replaces the woman who dances in the video, and every move keeps the same timing and rhythm. Keep actions, poses, facial expressions, camera movement and rhythm. Preserve the person's original facial features, maintain character consistency, no distortion, no glitches, no artifacts.
+The person dances in the place from the uploaded image and strictly keeps the looks and the clothes from the uploaded image, not the white cropped t-shirt and the dark red trousers of the woman in the video, keeps their own hair from the uploaded image, not her long dark hair, and wears no bracelets unless the uploaded image shows them. Follow her moves and timing exactly: the side-on groove with the hands rolling in front of the chest and the hips swaying, the turn to the camera, the small fist pumps, the shoulder shimmies, the arm swept out to the side and the lean from side to side, the hands framing the face, the heart shape at the chest, the hand at the mouth, the flexed arm and the hand rolls at the end, with her happy, cheeky face. Smooth moves, solid footing, the light stays consistent. Keep the whole body in view, with natural balance and stable ground contact. If the uploaded image shows a baby or a toddler, the dancer is that same baby, standing upright, with a very expressive, animated baby face and real baby anatomy: a small chubby body, a big round head, short arms and legs and small baby hands, never an adult body, no jewelry. Exactly one person: the identity and the age never drift, no extra people. One continuous shot, no cuts, no text, no captions, no logos.
+```
+
+### 1. The video prompt is filled in. Settings: Seedance 2.5, 14 s, 720p, 9:16, sound off. The video prompt
+
+```text
+Motion transfer and character replacement. Recreate the reference video [Video 1] shot for shot: the same black metal roller shutter on a sunny street, the same pale grey pavement and hard midday sunlight, the same fixed camera at waist height, the same framing, timing and dance moves, one continuous take with no cuts, all three dancers in full view from head to feet. Every move keeps the same timing and rhythm. Three changes only: the three women who dance in a line are now the three people in [Image 1], [Image 2] and [Image 3], always in this order: [Image 1] in the middle, [Image 2] on the left, [Image 3] on the right, in every frame.
+
+The dancer in the middle, a step in front, who leads = the person in [Image 1], never the woman with very long straight brown hair in the tight red mini dress of the original video.
+The dancer on the left = the person in [Image 2], never the woman with wavy light brown hair in the black crop top and the grey mini skirt.
+The dancer on the right = the person in [Image 3], never the woman with the dark bob, the sunglasses on her head, the white long-sleeved crop top and the grey leggings.
+
+Each one, in every frame, also when they turn sideways: copy the exact face from their own image (face shape, eye color and eye shape, eyebrows, nose, mouth, skin tone, age, hair color, hair length and hairstyle, and any beard, moustache, glasses or freckles exactly as in the photo), and strictly keep the body, the clothes and the shoes from their own image, so their friends instantly recognize all three. If a photo shows only the head or the upper body, invent the rest so it matches naturally. Never morph, never drift back to the original dancers' faces, never mix the three faces, never add or remove facial hair. All three change: no one from the video stays. No red mini dress, no black crop top, no grey mini skirt and no sunglasses on the head unless an image shows them.
+
+The dance, matching the reference second by second, on the beat:
+0-5.5 s: all three stand turned to the side, fists at the chest, and groove with small elbow rolls and hip sways.
+5.5-6.5 s: they turn to the camera, the hands at the chest.
+6.5-8 s: hands at the chest and quick shoulder bounces.
+8-10.5 s: the middle dancer leans toward the camera; all three swing their arms out wide, lean and dip low, hair swinging.
+10.5-12 s: hands at the chest and by the face, a heart shape.
+12-13.5 s: shoulder bounces with small squats on the beat.
+
+Smooth moves, solid footing, the light stays the same. Anatomy rules: one head per dancer, on their own shoulders. A face never appears on knees, legs, hands or clothes. Two arms and two legs each, no extra limbs. Exactly three people: the identities never drift, no extra people on the street. No text, no subtitles, no logos, no watermark.
+```
+
+---
+
+## Biker Birthday Cake Trend: Ride In, Blow the Candles, Freeze in Black and White
+
+- Page: https://www.makeviral.ai/templates/biker-birthday-cake-ai-trend
+- Markdown: https://www.makeviral.ai/templates/biker-birthday-cake-ai-trend.md
+- Updated: 2026-10-22 · Published: 2026-10-22
+- Local: [`makeviral/biker-birthday-cake-ai-trend/PROMPTS.md`](makeviral/biker-birthday-cake-ai-trend/PROMPTS.md)
+
+### 1. The video prompt is filled in. Settings: Seedance 2.5, 7 s, 720p, 9:16, sound off. The video prompt
+
+```text
+Recreate the reference video [Video 1] shot for shot: the same wet, empty lot at night with apartment lights along the far edge, the same one handheld first-person camera of the friend who holds the cake, the same timing and moves, the same round black birthday cake with fine gold dust, five tall wavy gold candles and a gold scorpion figure on top, the same black sport motorbike, and the same switch to black and white at the moment the candles go out, with the same white script words Happy Birthday across the middle of the frame. The ONLY change: the rider in the black full-face helmet, black leather jacket and light blue jeans, who rides in, takes off the helmet and blows out the candles, is now the person in [Image 1].
+
+The rider = the person in [Image 1], in EVERY frame after the helmet comes off: copy the exact face from [Image 1] (the face shape, eye color and eye shape, eyebrows, nose, mouth, skin tone, age, hair color, hair length and hairstyle, and any beard, moustache, glasses or freckles), exactly as in the photo. The hair that falls out of the helmet is the hair of [Image 1]: its color, length and style. NO long straight black hair unless [Image 1] shows it. The rider keeps the black leather jacket and the jeans from the video. The same real person in every frame, so their friends recognize them at once, also while they lean in, with hair blowing across the face, and in the black-and-white part. Never morph, never drift back to the original woman's face.
+
+THE MOVES, second by second, exactly as in [Video 1]:
+00:00-00:01.7: two hands hold the cake close to the camera, the candles burn, one headlight comes toward us across the lot.
+00:01.7-00:02.8: the motorbike sweeps in from the left with a little tire smoke and stops sideways just behind the cake, the rider still in the helmet.
+00:02.8-00:03.6: the rider pulls the helmet off with both hands; the hair falls out and moves in the wind.
+00:03.6-00:04.4: the rider rests the helmet on the fuel tank, looks into the camera and leans toward the cake.
+00:04.4-00:04.8: the rider blows out the candles; thin smoke rises.
+00:04.8-00:07: the picture turns black and white and almost freezes; the wind blows strands of hair across the face; the rider looks into the camera; Happy Birthday writes in, in white script, across the middle of the frame and stays.
+
+The cake top is plain dark icing with gold dust: no writing, no letters, no name.
+
+Real live-action phone footage at night, clear face, no distortion.
+
+Avoid: other text or captions, letters on the cake, brand logos or lettering on the motorbike or the helmet, a readable number plate, watermarks, extra people, morphing, facial distortion.
+
+Anatomy rules: one head only, on the rider's own shoulders. Exactly one rider, plus the two hands of the friend who holds the cake. Two arms and five fingers on each hand. One cake, one motorbike, one helmet. A face never appears on hands, the helmet or clothes.
+```
+
+---
+
+## Wedding Money Rain AI: You Dance While the Notes Rain Down
+
+- Page: https://www.makeviral.ai/templates/ai-money-rain-party
+- Markdown: https://www.makeviral.ai/templates/ai-money-rain-party.md
+- Updated: 2026-10-22 · Published: 2026-10-22
+- Local: [`makeviral/ai-money-rain-party/PROMPTS.md`](makeviral/ai-money-rain-party/PROMPTS.md)
+
+### 1. The video prompt is filled in. Settings: Seedance 2.5, 10 s, 720p, 9:16, sound on. The video prompt
+
+```text
+A wedding money rain video made from [Image 1]: the person dances at a big South Asian wedding while banknotes rain down on them and the guests throw cash over their head. Vertical 9:16, a handheld phone video by a guest at chest height that slowly follows the dancer, photorealistic, like a real wedding video, the dancer from the knees up or full body in the center of the frame, the face always clear.
+
+The dancer is the person in [Image 1], in every frame: copy the exact face from [Image 1] (the face shape, eye color and eye shape, eyebrows, nose, mouth, skin tone, age, hair color, hair length and hairstyle, and any beard, moustache, glasses or freckles). The same face from the first frame to the last, so their friends recognize them at once. Never morph, never a different person. They wear elegant festive wedding clothes in one deep color: a long tunic over loose trousers, like the guests around them, unless [Image 1] already shows a festive outfit, then keep that outfit.
+
+The place: a huge wedding marquee in the evening: a pleated white and blue fabric ceiling with large crystal chandeliers, a long shiny cream marble walkway through the middle, a patterned carpet and gold sofas on both sides, and adult guests in festive clothes lining the walkway, clapping.
+
+The money: hundreds of generic paper banknotes in plain pale cream and soft pink, all the same simple size, with no readable numbers, no words, no portraits, no flags and no symbols of any real currency. They flutter and spin slowly in the air like confetti, land on the dancer's head and shoulders and cover the floor.
+
+0-2 s: the dancer stands in the middle of the dance floor with a big grin at the camera, then starts a joyful wedding dance to the drums: both arms up, wrists turning, shoulders bouncing.
+2-5 s: the guests around the dancer throw handfuls of notes over their head, and a shower of notes starts to rain from above. The dancer keeps dancing, turns once on the spot and laughs.
+5-8 s: the money rain gets thicker, a storm of notes fills the air. The dancer catches a few notes, throws them up again and dances forward toward the camera, shoulders bouncing.
+8-10 s: the dancer stops in front of the camera, raises both arms into the falling notes, looks up, then back at the camera with a big proud smile. The face is large, sharp and clearly visible.
+
+Audio: a loud festive dhol drum beat with claps, cheering and whistles from the guests, no words, no singing.
+The person from [Image 1] is the only dancer in the center; every guest is a different grown adult (all over 25) with their own face, never a copy of the dancer. One head, two arms and five fingers on each hand. No text, no captions, no subtitles, no logos, no signs, no watermark.
+```
+
+---
+
+## AI Makeup Filter: Watch Your Full Glam Happen on Video
+
+- Page: https://www.makeviral.ai/templates/ai-makeup-filter
+- Markdown: https://www.makeviral.ai/templates/ai-makeup-filter.md
+- Updated: 2026-10-22 · Published: 2026-10-22
+- Local: [`makeviral/ai-makeup-filter/PROMPTS.md`](makeviral/ai-makeup-filter/PROMPTS.md)
+
+### 1. The video prompt is filled in. Settings: Seedance 2.5, 10 s, 720p, 9:16, sound on. The video prompt
+
+```text
+A viral AI makeup video: a makeup artist's hands do a full glam on the person from [Image 1], step by step, filmed like a real phone video on a tripod. Photorealistic, soft natural light, fine phone-camera grain, vertical 9:16.
+
+The person is the one in [Image 1], in every frame: copy the exact face from [Image 1] (the face shape, eye color and eye shape, eyebrows, nose, mouth, skin tone, age, and any beard, moustache, glasses, piercings, freckles or face marks), and the hair, the clothes and any jewelry from [Image 1]. The same face from the first frame to the last, so their friends recognize them at once, also with the eyes closed and under the full makeup. The makeup only adds color: never a slimmer nose, bigger eyes, a new jaw or a lighter or darker skin tone. The eyes keep their own natural color from [Image 1]: no colored contact lenses.
+
+The place is the place behind the person in [Image 1], with the same light; if [Image 1] shows little of it, a plain, bright room in soft daylight. The camera does not move: framed from the chest up, the face large, centered and sharp.
+
+0-1.5 s: the person, with a bare face and no makeup, looks into the camera with a small smile, then calmly closes the eyes. Two hands of an unseen makeup artist come in from the edges of the frame; one gently holds the hair back at the hairline.
+1.5-3 s: a soft makeup sponge dabs foundation and concealer over the face; the skin looks smooth and even, in the person's own skin tone.
+3-5 s: a fluffy brush sweeps contour, blush and highlighter along the cheekbones, then a small brush blends a warm brown and bronze smoky eyeshadow, darker in the outer corners on the closed eyelids.
+5-6.5 s: a fine brush draws a sharp black winged liner, and full, fluffy lashes appear.
+6.5-8 s: a lip brush paints the lips a soft nude-brown matte color with a slightly darker lip line.
+8-10 s: the hands leave the frame. The person opens the eyes, looks straight into the lens and smiles in full glam: soft glam with warm brown smoky eyes, a sharp wing, full lashes, sculpted cheeks with a peach blush and a soft glow, and nude-brown matte lips. Hold that look to the end.
+
+Audio: soft brush taps and swishes and a light, upbeat original beat. No lyrics, no talking.
+
+Exactly one person on camera: the hands belong to an unseen makeup artist, and no other face, arm or body comes into the frame. Anatomy rules: one head, five fingers on each hand. The makeup stays on the face: never on the hair, the clothes or the lens. Plain, unbranded brushes and sponge: no product tubes, no palettes with names, no packaging. No text, no subtitles, no logos, no watermark.
+```
+
+### Prompt 2
+
+```text
+Using the uploaded photo, generate a 9:16 vertical photo of the same person with a full soft glam makeup look done by a professional makeup artist: smooth, even skin in the person's own skin tone, warm brown and bronze smoky eyeshadow, a sharp black winged liner, full fluffy lashes, sculpted cheekbones with a peach blush and a soft glow, and nude-brown matte lips. Keep the face shape, the facial features, the eye color, the skin tone, the hair and the clothes exactly as in the photo: the makeup only adds color. The person looks into the camera with a small, confident smile, framed from the chest up. The place from the photo, with the same light. Realistic photo with natural skin texture under the makeup, sharp eyes and lashes. Exactly one person. No makeup tools or products in the frame. No text, no logos, no watermark.
+```
+
+---
+
+## AI Explosion Walk Trend: Walking Away From Explosion, Starring You
+
+- Page: https://www.makeviral.ai/templates/ai-explosion-walk-trend
+- Markdown: https://www.makeviral.ai/templates/ai-explosion-walk-trend.md
+- Updated: 2026-10-22 · Published: 2026-10-22
+- Local: [`makeviral/ai-explosion-walk-trend/PROMPTS.md`](makeviral/ai-explosion-walk-trend/PROMPTS.md)
+
+### 1. The video prompt is filled in. Settings: Seedance 2.5, 11 s, 720p, 9:16, sound off. The video prompt
+
+```text
+Recreate the reference video [Video 1] shot for shot: an empty two-lane highway at night that curves away into the dark, a white center line that runs from the camera into the distance, a guardrail with red and white reflectors and glowing white road sign boards on the right, dark trees, a fixed phone camera low on the center line; the same camera angle, the same jump cut, timing, moves, fire, sparks and smoke. The ONLY change: the woman with long dark hair, dark sunglasses, a black leather jacket and a pink lace top who walks down the center line is now the person in [Image 1]. Everything else stays exactly as in [Video 1].
+
+The walker = the person in [Image 1], in EVERY shot: copy the exact face from [Image 1] (the face shape, eyebrows, nose, mouth, jaw, skin tone, age, hair color, hair length and hairstyle, and any beard or moustache) exactly as in the photo. The same real person from the first frame to the last, so their friends recognize them at once, also far away on the road, as a dark shape against the fire and when they throw their arms up at the end. Never morph, never drift back to the original woman's face. NO long dark hair unless [Image 1] shows it. They wear dark sunglasses like in [Video 1] and an open black leather jacket over the top and trousers from [Image 1]: when the jacket opens, it shows the top from [Image 1], never a pink lace top unless [Image 1] shows one. If [Image 1] shows no trousers, they wear dark fitted trousers and black boots.
+
+The moves, matching the reference second by second:
+0-1.25 s: far away on the center line, the walker crouches on the road and lights a small fuse with a lighter; a tiny spark glows on the asphalt.
+1.25 s: the jump cut. The walker now walks toward the camera along the center line with a slow, confident model walk; grey smoke rises from the road behind them.
+2.5-3.9 s: still walking, they raise one hand high for a second, then pull the leather jacket open with a cool smile.
+4.0 s: a blinding white flash fills the frame.
+4.25-5 s: a huge fireball erupts across the road far behind them, sparks shoot out to both sides and the asphalt glows orange.
+5-7.75 s: a wall of fire and bright orange clouds fills the whole background; the walker is a dark shape against it and keeps walking calmly toward the camera, never looking back, never flinching.
+7.75-9.25 s: the fire turns into dark red clouds and drifting smoke; they keep walking, the face lit red and clearly visible.
+9.25-10.5 s: grey smoke and small flames behind them; they stop close to the camera, the whole body in view.
+10.5-11 s: they throw both arms up high in a V with a big, confident smile, the face large and sharp: exactly the face from [Image 1].
+
+The fire, the sparks and the smoke stay far behind the walker: nobody is burned or hurt, and nobody else is on the road. Anatomy rules: one head only, on the walker's own shoulders; two arms, five fingers on each hand. No cars, no readable road signs, no text, no captions, no logos, no watermark.
+```
+
+### 1. The video prompt is filled in. Settings: Seedance 2.5, 10 s, 720p, 9:16, sound on. The video prompt
+
+```text
+A slow-motion cinematic video of a confident person, the person in [Image 1], wearing sunglasses, a black shirt, and ripped jeans walking forward calmly while a massive explosion erupts behind them. Fire, smoke, and debris fill the air as they walk fearlessly through the chaos. The camera moves in a dramatic low-angle shot, with sparks flying and dust swirling around. Epic background music, intense lighting, and realistic visual effects, like an action movie hero scene in 4K ultra-realistic style.
+
+The walker is the person in [Image 1], in every frame: copy the exact face from [Image 1] (the face shape, eyebrows, nose, mouth, jaw, skin tone, age, hair color, hair length and hairstyle, and any beard or moustache), so their friends recognize them at once. The sunglasses are dark, and everything else of the face comes from [Image 1]. The same real person from the first frame to the last; never morph. If [Image 1] shows an animal, the walker is that animal walking toward the camera, with its own face, fur and markings, not a person.
+
+The walk ends close to the camera, from the knees up, the face large and sharp: exactly the face from [Image 1]. The explosion stays far behind them: nobody is burned or hurt, and the walker never looks back. Exactly one person. No cars, no buildings with signs, no text, no subtitles, no logos, no watermark, no extra limbs.
+```
+
+---
+
+## AI Doodle Dance Partner: Your Sketch Twin Dances With You
+
+- Page: https://www.makeviral.ai/templates/ai-doodle-dance-partner
+- Markdown: https://www.makeviral.ai/templates/ai-doodle-dance-partner.md
+- Updated: 2026-10-22 · Published: 2026-10-22
+- Local: [`makeviral/ai-doodle-dance-partner/PROMPTS.md`](makeviral/ai-doodle-dance-partner/PROMPTS.md)
+
+### 1. The video prompt is filled in. Settings: Seedance 2.5, 10 s, 720p, 9:16, sound on. The video prompt
+
+```text
+An AI doodle dance partner video made from [Image 1]: the real person dances in a real place while a white line-drawn manga copy of them, their doodle twin, jumps into the frame and dances next to them. Vertical 9:16, one steady take on a tripod at hip height, photorealistic for the person and the place, both full body in frame, feet on the ground, at the same size.
+
+The real person is the person in [Image 1], in every frame: copy the exact face from [Image 1] (the face shape, eye color and eye shape, eyebrows, nose, mouth, skin tone, age, hair color, hair length and hairstyle, and any beard, moustache, glasses or freckles), and the same clothes, shoes and bag from [Image 1]. The same face from the first frame to the last, so their friends recognize them at once. Never morph, never a different person. If [Image 1] shows only the upper body, keep its top and add simple matching trousers or a skirt and plain shoes.
+
+The doodle twin is a hand-drawn copy of the same person, drawn like a clean manga sketch: crisp black ink outlines, a flat pure white fill, no shading, no color, no texture, and a thin white glow along its outer edge like a paper sticker. It has the same hairstyle and hair length, the same body shape and the same clothes, shoes and bag as the real person, every fold and pattern drawn as simple black lines, and a cute drawn manga face with big eyes and a big smile. It is flat 2D line art that moves like a real dancer: never a second real person, never colored in, never a photo face.
+
+The place: a white painted brick wall in warm late-afternoon sun with soft leaf shadows, a pale wooden bench in front of it, a plain concrete ground, and the tops of green trees above the wall.
+
+0-1.5 s: the real person stands on the left half of the frame with both hands over the mouth in happy surprise as the doodle twin leaps in from the right side of the frame, hair and clothes flying, arms reaching out, and lands next to them.
+1.5-3.5 s: the two turn to each other, laugh and wave at each other with both hands.
+3.5-8.5 s: both face the camera and dance the same moves side by side to the beat: both hands up and waving, a hip sway with hands on the hips, a clap, two side steps and a small bounce. The doodle twin copies every move half a beat late, then catches up.
+8.5-10 s: both throw their arms up and hold the same happy pose with big smiles. The real person's face is large, sharp and clearly visible, turned to the camera.
+
+Audio: a bright, bouncy pop dance beat with claps, no words, no singing.
+Exactly one real person and one drawn doodle twin, nobody else. The doodle twin stays white line art in every frame and never touches the camera. Both have one head, two arms and five fingers on each hand. No text, no captions, no subtitles, no logos, no signs, no watermark.
+```
+
+---
+
+## AI Danger Video: Your Normal Moment, With Danger Right Behind You
+
+- Page: https://www.makeviral.ai/templates/ai-danger-scene-trend
+- Markdown: https://www.makeviral.ai/templates/ai-danger-scene-trend.md
+- Updated: 2026-10-22 · Published: 2026-10-22
+- Local: [`makeviral/ai-danger-scene-trend/PROMPTS.md`](makeviral/ai-danger-scene-trend/PROMPTS.md)
+
+### 1. Open [AI Photo with this template](https://www.makeviral.ai/photo?template=ai-danger-scene-trend) and add your photo (you, sitting, face clear). The photo prompt is filled in
+
+```text
+Keep this shot the same, with the same person, and the same chair, with the same composition, but change the location to be an airport runway, and the person is tied up by a red rope onto the chair. This red rope is attached to the back of a jumbo jet that is in the background, facing away from us. The rope is tied to the center of the back of the Jumbo Jet as if it is ready to pull the person. In between the person and the Jumbo Jet there is a pile of red rope on the floor that this is connected to. We can see jet flames coming out the back of the jet engines as well. It's a sunny blue sky day. Do not change the composition or the person or their clothes, just change the location and add the rope and the jet. If the person is not sitting on a chair in the photo, they now sit on a plain wooden chair in the same framing. The jet is plain white with no airline name, logo, stripes of a real airline or registration letters. Photorealistic, like a real photo taken on a phone. Vertical 9:16. Exactly the people from the photo in front, no extra people close to the camera. No text, no letters, no numbers, no logos, no airline or rail company names anywhere.
+```
+
+### 3. Press the film button on the still to open AI Video with the still as the first frame. Settings: Seedance 2.5, 7 s, 720p, 9:16, sound on. The video prompt
+
+```text
+Use the image as the first frame and keep everything in it: the same person, face, clothes, pose and composition. No camera movement. The person stays calm and relaxed the whole time, looks at the camera with a small, confident smile and small, natural head movements, as if nothing is wrong. They do not panic, they do not look behind them, and they do not speak. Behind them the jet's engines roar with flames and heat haze, the jet starts to roll slowly away from us down the runway, and the pile of red rope on the floor uncoils and gets shorter and shorter. Only at the very end the rope pulls tight. Sound: the loud roar of the jet engines, wind and the rope sliding over the ground. No music. Nobody is hurt and nothing hits the person: the clip ends a moment before the danger reaches them. The same person and the same face from the first frame to the last. No text, no subtitles, no logos.
+```
+
+### 1. Open [AI Photo with this template](https://www.makeviral.ai/photo?template=ai-danger-scene-trend&variant=train) and add your photo (you, sitting, face clear). The photo prompt is filled in
+
+```text
+Keep this shot the same, with the same person in the same position, seated, with the same book or whatever they hold in the photo, in the same outfit, but change the location to be them sat on a train track in the countryside, between the rails. In the background we can see a train on the same track heading towards them, with its headlight on. The train has a black front, and a black and yellow warning stripey front design. It is a sunny blue sky day keeping the same composition as the photo but changing the location and the lighting. No other people are in the shot. The train has no logo, lettering or number. Photorealistic, like a real photo taken on a phone. Vertical 9:16. Exactly the people from the photo in front, no extra people close to the camera. No text, no letters, no numbers, no logos, no airline or rail company names anywhere.
+```
+
+### 3. Press the film button on the still to open AI Video with the still as the first frame. Settings: Seedance 2.5, 7 s, 720p, 9:16, sound on. The video prompt
+
+```text
+Use the image as the first frame and keep everything in it: the same person, face, clothes, pose and composition. No camera movement. The person stays calm and relaxed the whole time, looks at the camera with a small, confident smile and small, natural head movements, as if nothing is wrong. They do not panic, they do not look behind them, and they do not speak. Behind them the train approaches on the same track, its headlight bright, getting bigger and bigger. There is steam coming out of the train. Only at the very end the train is a few meters behind them. Sound: the train horn blaring and the rumble of the rails getting louder. No music. Nobody is hurt and nothing hits the person: the clip ends a moment before the danger reaches them. The same person and the same face from the first frame to the last. No text, no subtitles, no logos.
+```
+
+### 1. Open [AI Photo with this template](https://www.makeviral.ai/photo?template=ai-danger-scene-trend&variant=tsunami) and add your photo (you, sitting, face clear). The photo prompt is filled in
+
+```text
+Keep this shot the same, with the same person in the same position, seated, with the same book or whatever they hold in the photo, in the same outfit, but change the location to be them sat on a sun lounger at the beach. On the beach there is loads of people all running away from the sea, because in the background we can see a giant tsunami tidal wave. We can see on the tidal wave there are boats out at the sea as well that are being lifted up by the wave heading towards us. It is a sunny blue sky day keeping the same composition as the photo but changing the location and the lighting. The people running away are small, behind the person, adults only. The boats have no names or numbers. Photorealistic, like a real photo taken on a phone. Vertical 9:16. Exactly the people from the photo in front, no extra people close to the camera. No text, no letters, no numbers, no logos, no airline or rail company names anywhere.
+```
+
+### 3. Press the film button on the still to open AI Video with the still as the first frame. Settings: Seedance 2.5, 7 s, 720p, 9:16, sound on. The video prompt
+
+```text
+Use the image as the first frame and keep everything in it: the same person, face, clothes, pose and composition. No camera movement. The person stays calm and relaxed the whole time, looks at the camera with a small, confident smile and small, natural head movements, as if nothing is wrong. They do not panic, they do not look behind them, and they do not speak. Behind them the giant tsunami wave rises higher and rolls toward the beach, the boats on it are lifted up, and the small people in the background run away from the sea. Only at the very end the wave towers over the beach behind the person. Sound: the deep roar of the wave, wind and people shouting in the distance. No music. Nobody is hurt and nothing hits the person: the clip ends a moment before the danger reaches them. The same person and the same face from the first frame to the last. No text, no subtitles, no logos.
+```
+
+### 1. Open [AI Photo with this template](https://www.makeviral.ai/photo?template=ai-danger-scene-trend&variant=car) and add your photo (you, face clear). The photo prompt is filled in
+
+```text
+Keep this shot the same, the same person in the same position with the same clothes but change the environment so they're actually sat in the driver's seat of a car. Their hands are on the steering wheel of the car and they have a seatbelt across their top. We can see through the passenger window of the car that they are parked on a train track with a train heading towards them. The train has a black front, and a black and yellow warning stripey front design. It is a blue sky sunny day, and the person is looking at the camera. No other people are in the shot. The car and the train have no badge, logo, lettering or number. Photorealistic, like a real photo taken on a phone. Vertical 9:16. Exactly the people from the photo in front, no extra people close to the camera. No text, no letters, no numbers, no logos, no airline or rail company names anywhere.
+```
+
+### 3. Press the film button on the still to open AI Video with the still as the first frame. Settings: Seedance 2.5, 7 s, 720p, 9:16, sound on. The video prompt
+
+```text
+Use the image as the first frame and keep everything in it: the same person, face, clothes, pose and composition. No camera movement. The person stays calm and relaxed the whole time, looks at the camera with a small, confident smile and small, natural head movements, as if nothing is wrong. They do not panic, they do not look behind them, and they do not speak. They keep their hands on the steering wheel. Through the passenger window the train approaches on the track, getting bigger and bigger. There is steam coming out of the train. Only at the very end the train is right next to the car, its headlight filling the window. Sound: the train horn blaring, the rumble of the rails getting louder, the car's engine idling. No music. Nobody is hurt and nothing hits the person: the clip ends a moment before the danger reaches them. The same person and the same face from the first frame to the last. No text, no subtitles, no logos.
+```
+
+### 1. Open [AI Photo with this template](https://www.makeviral.ai/photo?template=ai-danger-scene-trend&variant=surprise) and add your photo (you, face clear). The photo prompt is filled in
+
+```text
+Edit this photo with an element of danger added: restyle it with an element of danger inside the scene but keep the composition the same. The same person in the same position, with the same clothes and whatever they hold, in the same framing. Pick one big, clear danger right behind them that fits the photo, for example a train heading towards them on a track, a jet with roaring engines, a giant tsunami wave, flowing lava from a volcano or a huge shark leaping from the water. The person stays calm and relaxed, as if nothing is wrong. Photorealistic, like a real photo taken on a phone. Vertical 9:16. Exactly the people from the photo in front, no extra people close to the camera. No text, no letters, no numbers, no logos, no airline or rail company names anywhere.
+```
+
+### 3. Press the film button on the still to open AI Video with the still as the first frame. Settings: Seedance 2.5, 7 s, 720p, 9:16, sound on. The video prompt
+
+```text
+Use the image as the first frame and keep everything in it: the same person, face, clothes, pose and composition. No camera movement. The person stays calm and relaxed the whole time, looks at the camera with a small, confident smile and small, natural head movements, as if nothing is wrong. They do not panic, they do not look behind them, and they do not speak. Behind them the danger in the picture comes to life and moves closer, bigger and more dramatic, while they ignore it. Only at the very end it is right behind them. Sound: the loud, realistic sound of that danger. No music. Nobody is hurt and nothing hits the person: the clip ends a moment before the danger reaches them. The same person and the same face from the first frame to the last. No text, no subtitles, no logos.
+```
+
+---
+
+## Beer Jacket AI: You Came Prepared for the Away End
+
+- Page: https://www.makeviral.ai/templates/ai-beer-jacket-trend
+- Markdown: https://www.makeviral.ai/templates/ai-beer-jacket-trend.md
+- Updated: 2026-10-22 · Published: 2026-10-22
+- Local: [`makeviral/ai-beer-jacket-trend/PROMPTS.md`](makeviral/ai-beer-jacket-trend/PROMPTS.md)
+
+### 1. The video prompt is filled in. Settings: Seedance 2.5, 10 s, 720p, 9:16, sound on. The video prompt
+
+```text
+A funny football video made from [Image 1]: the person came prepared for the away end. They stand in a packed football stand at a night match in a see-through puffer jacket full of beer and fill cups for the fans from a tap on their sleeve. Vertical 9:16, a handheld phone video filmed by a friend at chest height, photorealistic, the person from the waist up or full body in the center of the frame, the face always clear.
+
+The main person is the person in [Image 1], in every frame: copy the exact face from [Image 1] (the face shape, eye color and eye shape, eyebrows, nose, mouth, skin tone, age, hair color, hair length and hairstyle, and any beard, moustache, glasses or freckles). The same face from the first frame to the last, so their friends recognize them at once. Never morph, never a different person. Keep their own trousers and shoes from [Image 1].
+
+The jacket: a glossy see-through plastic puffer jacket with a hood, its quilted chambers filled to the top with golden beer and a layer of white foam, the beer sloshes in the chambers when they move. On the cuff of the left sleeve sits a chrome beer tap with a black lever. Plain sleeves: no logo, no badge, no patch, no label, no text anywhere on the jacket.
+
+The place: the away end of a big football stadium at night: bright floodlights, a green pitch blurred far below, steep rows of black seats, and a crowd of adult fans in plain dark winter jackets and plain dark hats around the person. No scarves, no club colours, no crests, no flags, no flares, no sponsor boards with words.
+
+0-2 s: the person stands in the stand, grins at the camera and pats the jacket with one hand; the beer sloshes inside.
+2-5 s: they hold an empty clear plastic cup under the tap on their left cuff, pull the lever, and golden beer with a white head pours in. They hand the full cup to a laughing fan next to them.
+5-8 s: they lean over a row of empty plastic cups lined up on the seat backs and fill them one by one from the sleeve tap. The fans around them laugh, point, cheer and raise the full cups.
+8-10 s: the beer level in the jacket has dropped to the bottom chambers. The person looks down at the almost empty jacket, laughs, then looks back at the camera with a big proud grin. The face is large, sharp and clearly visible.
+
+Audio: a loud stadium crowd, laughter and cheers from the fans around, the glug of the beer pouring into the cups, no words, no singing, no chants.
+The person from [Image 1] is the only one in the beer jacket; every other person is a different grown adult (all over 25) with their own face, never a copy of the main person. Nobody drinks on screen. One head, two arms and five fingers on each hand. No text, no captions, no subtitles, no logos, no crests, no badges, no brand names, no signs, no watermark.
 ```
 
 ---
@@ -4200,7 +4656,7 @@ No blood, no injury, never a body on the rocks: the fall ends in deep water and 
 
 - Page: https://www.makeviral.ai/templates/champagne-birthday-ai-trend
 - Markdown: https://www.makeviral.ai/templates/champagne-birthday-ai-trend.md
-- Updated: 2026-10-20 · Published: 2026-10-16
+- Updated: 2026-10-22 · Published: 2026-10-16
 - Local: [`makeviral/champagne-birthday-ai-trend/PROMPTS.md`](makeviral/champagne-birthday-ai-trend/PROMPTS.md)
 
 ### 1. The video prompt is filled in. Settings: Seedance 2.5, 10 s, 720p, 9:16, sound off. The video prompt

@@ -51,7 +51,7 @@ Everything runs in the browser. No editing app, no watermark.
 
 1. **Add your photo.** Press "Make yours" and add you, head to toes. Take it with the camera or pick it from your library. Start here: https://www.makeviral.ai/templates/wipe-me-down-ai-dance/create
 2. **Press Generate.** The button shows the price. Kling 3.0 Motion Control takes the moves of the Wipe Me Down clip and plays them with the one in your photo, in your photo's own scene, for about 10 seconds, with the reel's original sound. You write no prompt.
-3. **Download or share.** The video is ready in a few minutes as a 9:16 MP4. Download it, share it from your phone, or find it later in your Library.
+3. **Download or share.** The video is ready in a few minutes as a 9:16 MP4. Download it, share it from your phone, or find it later in My videos.
 
 ### The by-hand way, with the exact prompts
 
@@ -146,7 +146,7 @@ The Baltimore creator Carnell Nichols, who calls it the Carnell stomp. He has da
 
 ### How do I make the Wipe Me Down dance with AI?
 
-Press "Create your own" on this page and add one full-body photo of yourself, standing. Press Generate; the button shows the price first. You get a clip of about 10 seconds with the song. You write no prompt, and the video waits in your Library when it is ready.
+Press "Create your own" on this page and add one full-body photo of yourself, standing. Press Generate; the button shows the price first. You get a clip of about 10 seconds with the song. You write no prompt, and the video waits in My videos when it is ready.
 
 ### Is it the same as the CapCut template?
 

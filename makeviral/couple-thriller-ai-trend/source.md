@@ -46,7 +46,7 @@ Everything runs in the browser. No editing app, no watermark.
 
 1. **Add the two photos.** Press "Make yours" and add the one who pushes, then the one who falls. Add them in this order, because the order decides who is who in the scene. Take them with the camera or pick them from your library. Start here: https://www.makeviral.ai/templates/couple-thriller-ai-trend/create
 2. **Press Generate.** The button shows the price. Seedance 2.5 films the Couple Thriller scene straight from your photos, with no in-between picture, for 15 seconds with original sound. You write no prompt.
-3. **Download or share.** The video is ready in a few minutes as a 9:16 MP4. Download it, share it from your phone, or find it later in your Library.
+3. **Download or share.** The video is ready in a few minutes as a 9:16 MP4. Download it, share it from your phone, or find it later in My videos.
 
 ### The by-hand way, with the exact prompts
 
@@ -130,7 +130,7 @@ It is an AI couple video template from October 2026, a couple thriller AI video:
 
 ### How do I make the AI couple thriller video?
 
-Press "Create your own", add photo 1 (the one who pushes) and photo 2 (the one who falls), and press Generate. The button shows the price first. You write no prompt, and the video waits in your Library when it is ready.
+Press "Create your own", add photo 1 (the one who pushes) and photo 2 (the one who falls), and press Generate. The button shows the price first. You write no prompt, and the video waits in My videos when it is ready.
 
 ### Does anyone get hurt in the video?
 

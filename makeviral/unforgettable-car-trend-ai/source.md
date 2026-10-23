@@ -49,7 +49,7 @@ Everything runs in the browser. No editing app, no watermark.
 
 1. **Add your photo.** Press "Make yours" and add your photo. Take it with the camera or pick it from your library. Start here: https://www.makeviral.ai/templates/unforgettable-car-trend-ai/create
 2. **Press Generate.** The button shows the price. Seedance 2.5 puts your photos into the Unforgettable 24 Car trend clip and copies it shot by shot for 10 seconds, with the reel's original song. You write no prompt.
-3. **Download or share.** The video is ready in up to several minutes as a 9:16 MP4. Download it, share it from your phone, or find it later in your Library.
+3. **Download or share.** The video is ready in up to several minutes as a 9:16 MP4. Download it, share it from your phone, or find it later in My videos.
 
 ### The by-hand way, with the exact prompts
 
@@ -220,7 +220,7 @@ Your clip follows the 10 seconds of the AI reel by @phm_hang, in one take in an 
 | Sound | The reel's song, which you can turn off | The same |
 | Price | The lower price | Costs more |
 
-The exact price shows on the Generate button before you spend anything. You write no prompt, and the video waits in your Library when it is ready.
+The exact price shows on the Generate button before you spend anything. You write no prompt, and the video waits in My videos when it is ready.
 
 ## How do creators make the 24 car reveal in Kling, and what does MakeViral do for you?
 
@@ -287,7 +287,7 @@ Yes. AI creators on Instagram call their versions "Twenty-Four" or "24" car reve
 
 ### How do I make the 24 Unforgettable car trend video with my own photo?
 
-Press "Create your own", add one waist-up photo of yourself and press Generate. The button shows the price first. You get a 10-second vertical clip with the song, and you write no prompt. The video waits in your Library when it is ready.
+Press "Create your own", add one waist-up photo of yourself and press Generate. The button shows the price first. You get a 10-second vertical clip with the song, and you write no prompt. The video waits in My videos when it is ready.
 
 ### Can I choose the car?
 

@@ -52,7 +52,7 @@ Everything runs in the browser. No editing app, no watermark.
 
 1. **Add your photo.** Press "Make yours" and add you, face clear and close. Take it with the camera or pick it from your library. Start here: https://www.makeviral.ai/templates/hali-saha-konum-gonderin-ai-trend/create
 2. **Press Generate.** The button shows the price. Seedance 2.5 films the Konum gönderin scene straight from your photo, with no in-between picture, for 15 seconds with original sound. You write no prompt.
-3. **Download or share.** The video is ready in a few minutes as a 9:16 MP4. Download it, share it from your phone, or find it later in your Library.
+3. **Download or share.** The video is ready in a few minutes as a 9:16 MP4. Download it, share it from your phone, or find it later in My videos.
 
 ### The by-hand way, with the exact prompts
 
@@ -147,7 +147,7 @@ Your video is one night scene on a halı saha, filmed like a friend's phone vide
 | 11 to 14 | A close-up, hand on your chest, dead serious: "Top bana gelirse konum gönderin, ona göre hareket edeceğim." |
 | 14 to 15 | The players burst out laughing. You keep a straight face. |
 
-**What you get:** a vertical 9:16 video, 15 seconds, 720p, made with Seedance 2.5 straight from your photo. The model speaks your lines in Turkish, in a voice it makes, with the players' laughter and the sound of the pitch at night. The exact price shows on the Generate button before you spend anything. You write no prompt, and the video waits in your Library when it is ready.
+**What you get:** a vertical 9:16 video, 15 seconds, 720p, made with Seedance 2.5 straight from your photo. The model speaks your lines in Turkish, in a voice it makes, with the players' laughter and the sound of the pitch at night. The exact price shows on the Generate button before you spend anything. You write no prompt, and the video waits in My videos when it is ready.
 
 ## What happens in the Çalım version?
 
@@ -205,7 +205,7 @@ It is a Turkish football meme from a halı saha match video of Kerimcan Durmaz, 
 
 ### How do I make the halı saha konum gönderin AI video?
 
-Press "Create your own", add one clear photo of your face and press Generate. The button shows the price first. You get a 15-second vertical video in which you hand out the positions on a night pitch and say the lines in Turkish. You write no prompt, and the video waits in your Library when it is ready.
+Press "Create your own", add one clear photo of your face and press Generate. The button shows the price first. You get a 15-second vertical video in which you hand out the positions on a night pitch and say the lines in Turkish. You write no prompt, and the video waits in My videos when it is ready.
 
 ### Is Kerimcan Durmaz in my video?
 
@@ -260,6 +260,7 @@ The lines stay in Turkish, because the words are the meme. The page gives the En
 - [Gömleği Cekete Dönüşen Adam AI: Dance the Viral Turkish Wedding Clip](https://www.makeviral.ai/templates/gomlegi-cekete-donusen-adam-ai): You dance to the davul and zurna at a night wedding in a blue plaid shirt, a guest clicks wooden spoons in your face, and a few seconds in, your shirt turns into a jacket. One photo, or two with the spoon player. 15 seconds, with the wedding sound.
 - [Ozil Goal AI Trend: Score the Famous Solo Goal Yourself](https://www.makeviral.ai/templates/ozil-goal-ai-trend): You flick the ball over the diving keeper, take it on the chest, let two defenders slide past and roll it into the net, under the floodlights, in your own clothes. One photo, 15 seconds, with the song from the viral clips.
 - [Yamal Rabona AI: Fake the Rabona and Leave the Defender on the Grass](https://www.makeviral.ai/templates/yamal-no-rabona-ai-trend): Add one photo. AI puts you on the goal line of a floodlit match: you shape up for a rabona, the defender slides in, you never kick, and he slides right past. Then you shrug at the camera. Add a second photo and your friend or your pet is the defender.
+- [Beer Jacket AI: You Came Prepared for the Away End](https://www.makeviral.ai/templates/ai-beer-jacket-trend): Add one photo. AI makes a 10-second clip: you stand in a football crowd at night in a see-through puffer jacket full of beer and fill a row of cups from the tap on your sleeve while the fans around you laugh.
 - [Meme Video](https://www.makeviral.ai/tools/meme-video-generator): One line of text, one image, six seconds. The cheapest format to produce and the easiest one to test ten different ways in an afternoon.
 - [AI TikTok Video](https://www.makeviral.ai/tools/ai-tiktok-video-generator): Eight native TikTok formats, one prompt or product URL, a finished 9:16 video with captions burned in.
 - [AI photo generator](https://www.makeviral.ai/ai-photo-generator)

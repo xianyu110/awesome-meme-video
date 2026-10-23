@@ -49,7 +49,7 @@ Everything runs in the browser. No editing app, no watermark.
 
 1. **Add your photo.** Press "Make yours" and add you, face clear. Take it with the camera or pick it from your library. Start here: https://www.makeviral.ai/templates/what-stop-sign-ai-trend/create
 2. **Press Generate.** The button shows the price. Seedance 2.5 films the Stop Sign? What Stop Sign? scene straight from your photo, with no in-between picture, for 10 seconds with original sound. You write no prompt.
-3. **Download or share.** The video is ready in a few minutes as a 9:16 MP4. Download it, share it from your phone, or find it later in your Library.
+3. **Download or share.** The video is ready in a few minutes as a 9:16 MP4. Download it, share it from your phone, or find it later in My videos.
 
 ### The by-hand way, with the exact prompts
 
@@ -170,7 +170,7 @@ It is real police body camera footage from Daytona Beach, Florida, May 2025, rep
 
 ### How do I make the what stop sign AI video?
 
-Pick Human or Pet, upload one photo and press Generate. The button shows the price first. You write no prompt and need no CapCut template or what stop sign filter: this page is the stop sign meme generator for the what stop sign AI trend and the stop sign AI trend, and it makes a what stop sign AI video, a stop sign AI video with your own face. The video waits in your Library when it is ready, usually in 5 to 15 minutes. Many tutorials point to a what stop sign CapCut template; here you only need the photo.
+Pick Human or Pet, upload one photo and press Generate. The button shows the price first. You write no prompt and need no CapCut template or what stop sign filter: this page is the stop sign meme generator for the what stop sign AI trend and the stop sign AI trend, and it makes a what stop sign AI video, a stop sign AI video with your own face. The video waits in My videos when it is ready, usually in 5 to 15 minutes. Many tutorials point to a what stop sign CapCut template; here you only need the photo.
 
 ### Can my dog or cat be the driver?
 

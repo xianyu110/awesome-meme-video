@@ -49,7 +49,7 @@ Everything runs in the browser. No editing app, no watermark.
 
 1. **Add your photo.** Press "Make yours" and add you, face clear. Take it with the camera or pick it from your library. Start here: https://www.makeviral.ai/templates/champagne-car-window-ai-trend/create
 2. **Press Generate.** The button shows the price. Seedance 2.5 puts your photos into the Champagne Car Window trend clip and copies it shot by shot for 7 seconds, with the reel's original song. You write no prompt.
-3. **Download or share.** The video is ready in up to several minutes as a 9:16 MP4. Download it, share it from your phone, or find it later in your Library.
+3. **Download or share.** The video is ready in up to several minutes as a 9:16 MP4. Download it, share it from your phone, or find it later in My videos.
 
 ### The by-hand way, with the exact prompts
 
@@ -142,7 +142,7 @@ Credits come with a plan; see [pricing](https://www.makeviral.ai/pricing). A fai
 
 This is a character swap of the real reel, not a new scene: top-quality AI video models, including Seedance 2.5, take the original clip and put you in the woman's place, with the same SUV, the same driver, the same rain and the same camera moves. The video is vertical 9:16, about 6.5 seconds, at 720p, ready for Reels and TikTok, with the reel's own sound put back on after the run.
 
-Press "Create your own", add your photo and press Generate. The exact price shows on the Generate button before you spend anything. A run can take up to several minutes, and the video waits in your Library when it is ready.
+Press "Create your own", add your photo and press Generate. The exact price shows on the Generate button before you spend anything. A run can take up to several minutes, and the video waits in My videos when it is ready.
 
 ## You or You + your car: which version?
 

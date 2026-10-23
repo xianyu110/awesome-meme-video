@@ -51,7 +51,7 @@ Everything runs in the browser. No editing app, no watermark.
 
 1. **Add your photo.** Press "Make yours" and add you, face clear. Take it with the camera or pick it from your library. Start here: https://www.makeviral.ai/templates/elevator-outfit-change-ai-trend/create
 2. **Press Generate.** The button shows the price. Genjutsu Motion puts your photos into the Elevator outfits trend clip and copies it shot by shot for 13 seconds, with the reel's original song. You write no prompt.
-3. **Download or share.** The video is ready in a few minutes as a 9:16 MP4. Download it, share it from your phone, or find it later in your Library.
+3. **Download or share.** The video is ready in a few minutes as a 9:16 MP4. Download it, share it from your phone, or find it later in My videos.
 
 ### The by-hand way, with the exact prompts
 
@@ -163,7 +163,7 @@ It is a fashion clip filmed from outside an elevator: you stand inside, the door
 
 ### How do I make the elevator outfit change with AI?
 
-Press "Create your own" on this page, pick Women's looks or Men's looks, add one photo with your face clear and press Generate. MakeViral puts you into a real elevator outfit reel, so every door close brings a new look. You write no prompt, and the AI elevator video lands in your Library as a vertical MP4. To pick your own looks, open Your outfits first.
+Press "Create your own" on this page, pick Women's looks or Men's looks, add one photo with your face clear and press Generate. MakeViral puts you into a real elevator outfit reel, so every door close brings a new look. You write no prompt, and the AI elevator video lands in My videos as a vertical MP4. To pick your own looks, open Your outfits first.
 
 ### Is this the AI elevator trend with the photo prompt?
 
@@ -187,7 +187,7 @@ Yes. Men's looks copies @fabianparks's AI elevator reel: a trench coat with a ti
 
 ### How long is the video?
 
-13 seconds, vertical 9:16 at 480p, with the reel's original sound. It takes a few minutes, and you can leave the page while it runs: the finished clip waits in your Library.
+13 seconds, vertical 9:16 at 480p, with the reel's original sound. It takes a few minutes, and you can leave the page while it runs: the finished clip waits in My videos.
 
 ### Does the elevator outfit video cost credits?
 
@@ -201,7 +201,7 @@ Yes. The MP4 has no watermark, so you can post it to TikTok, Reels or Shorts as 
 
 - [Escalator Outfit Change AI: A New Look With Every Ride](https://www.makeviral.ai/templates/escalator-outfit-change-ai-trend): The camera looks straight down at a long moving escalator. You sit back on the steps and ride through the frame, and every time the escalator brings you back, you wear a new outfit. Keep the reel's four looks or write your own. One photo in, a vertical clip with the reel's sound out.
 - [Subway Outfit Change AI: Every Train Brings a New Outfit](https://www.makeviral.ai/templates/subway-outfit-change-ai-trend): You stand on a New York-style subway platform and scroll your phone. A train rushes past between you and the camera, and when it clears, you wear a new outfit. Three trains, four looks. Keep the reel's looks or write your own. One photo in, a vertical clip with the reel's sound out.
-- [AI Ceiling Fan Trend: Change Your Outfit on Every Blade Pass](https://www.makeviral.ai/templates/ai-ceiling-fan-trend): The camera looks straight down through a slow ceiling fan at you on the floor. Each blade wipes across the lens, and you come back in a new outfit. Pick a pack of four looks or write your own outfits. One photo in, a vertical clip with the reel's sound out.
+- [Training Season Dance AI: Your Face in the Paris Outfit Reel](https://www.makeviral.ai/templates/training-season-dance-ai-trend): Four hard cuts on the beat, four outfits, four Paris spots: the garden at sunset, the tower at night, the metro entrance and the glass pyramid. You lip-sync and dance the chorus in every one, with the song on.
 - [Nano Banana 2](https://www.makeviral.ai/tools/nano-banana-2-image-generator): Google's image model, in a browser tab, with the reference-image dropzone that makes it useful: up to 14 photos in, one new image out.
 - [AI TikTok Video](https://www.makeviral.ai/tools/ai-tiktok-video-generator): Eight native TikTok formats, one prompt or product URL, a finished 9:16 video with captions burned in.
 - [AI photo generator](https://www.makeviral.ai/ai-photo-generator)

@@ -48,7 +48,7 @@ Everything runs in the browser. No editing app, no watermark.
 
 1. **Add your photo.** Press "Make yours" and add you, full body (face clear). Take it with the camera or pick it from your library. Start here: https://www.makeviral.ai/templates/reverse-hurdle-ai-trend/create
 2. **Press Generate.** The button shows the price. Seedance 2.5 films the Reverse Hurdle scene straight from your photo, with no in-between picture, for 10 seconds with original sound. You write no prompt.
-3. **Download or share.** The video is ready in a few minutes as a 9:16 MP4. Download it, share it from your phone, or find it later in your Library.
+3. **Download or share.** The video is ready in a few minutes as a 9:16 MP4. Download it, share it from your phone, or find it later in My videos.
 
 ### The by-hand way, with the exact prompts
 
@@ -152,7 +152,7 @@ It is the same move, not the same footage. The Saquon reverse hurdle, also searc
 
 ### How do I make a backwards hurdle video of myself?
 
-Press "Create your own", add one full-body photo and press Generate. In a few minutes your backwards hurdle video lands in your Library, ready to post. You need no app, no template and no prompt.
+Press "Create your own", add one full-body photo and press Generate. In a few minutes your backwards hurdle video lands in My videos, ready to post. You need no app, no template and no prompt.
 
 ### Can I make a Saquon hurdle GIF of myself?
 
@@ -180,7 +180,7 @@ Yes. The create page shows the exact price on the Generate button before you spe
 
 ### Is my photo private?
 
-Yes. MakeViral does not post your photo or the result anywhere or show them to other users. The result goes to your private Library, and you can delete it there at any time.
+Yes. MakeViral does not post your photo or the result anywhere or show them to other users. The result goes to your private My videos page, and you can delete it there at any time.
 
 ## Other AI video templates and tools
 

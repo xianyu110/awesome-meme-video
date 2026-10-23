@@ -48,7 +48,7 @@ Everything runs in the browser. No editing app, no watermark.
 
 1. **Add your photo.** Press "Make yours" and add your car, the whole car from the front corner. Take it with the camera or pick it from your library. Start here: https://www.makeviral.ai/templates/venom-car-ai-trend/create
 2. **Press Generate.** The button shows the price. Seedance 2.5 films the Venom Car scene straight from your photo, with no in-between picture, for 10 seconds with original sound. You write no prompt.
-3. **Download or share.** The video is ready in a few minutes as a 9:16 MP4. Download it, share it from your phone, or find it later in your Library.
+3. **Download or share.** The video is ready in a few minutes as a 9:16 MP4. Download it, share it from your phone, or find it later in My videos.
 
 ### The by-hand way, with the exact prompts
 
@@ -149,7 +149,7 @@ It is a TikTok AI video trend from October 2026: from one photo of a car, a glos
 
 ### How do I do the Venom car trend?
 
-Press "Create your own", add one photo of your whole car, pick 10 or 20 seconds and press Generate. MakeViral makes the video and puts it in your Library. You need no tutorial, no CapCut template and no prompt.
+Press "Create your own", add one photo of your whole car, pick 10 or 20 seconds and press Generate. MakeViral makes the video and puts it in My videos. You need no tutorial, no CapCut template and no prompt.
 
 ### What is the Venom car prompt?
 
@@ -157,7 +157,7 @@ The Venom car trend prompt that went around is by @onurbinayy, who posted it on 
 
 ### Is there a Venom car CapCut template?
 
-Yes. The Venom car CapCut template and a Dreamina version spread on TikTok from 9 October 2026, through tutorial accounts. MakeViral has no link to CapCut or Dreamina. Here you need no app and no Venom car template: one photo, and the video lands in your Library.
+Yes. The Venom car CapCut template and a Dreamina version spread on TikTok from 9 October 2026, through tutorial accounts. MakeViral has no link to CapCut or Dreamina. Here you need no app and no Venom car template: one photo, and the video lands in My videos.
 
 ### Is this Marvel's Venom?
 
@@ -197,7 +197,7 @@ Use a photo of your own car, or one whose owner said yes. The trend is about sho
 
 ### Is my photo private?
 
-Yes. MakeViral does not post your photo or the video anywhere or show them to other users. The video goes to your private Library, and you can delete it there at any time.
+Yes. MakeViral does not post your photo or the video anywhere or show them to other users. The video goes to your private My videos page, and you can delete it there at any time.
 
 ## Other AI video templates and tools
 

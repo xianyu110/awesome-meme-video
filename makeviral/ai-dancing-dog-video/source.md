@@ -51,7 +51,7 @@ Everything runs in the browser. No editing app, no watermark.
 
 1. **Add your photo.** Press "Make yours" and add your pet, whole body. Take it with the camera or pick it from your library. Start here: https://www.makeviral.ai/templates/ai-dancing-dog-video/create
 2. **Press Generate.** The button shows the price. MakeViral builds the Dancing pet scene with your photos, then Seedance 2.5 animates it for 10 seconds with original sound. You write no prompt.
-3. **Download or share.** The video is ready in a few minutes as a 9:16 MP4. Download it, share it from your phone, or find it later in your Library.
+3. **Download or share.** The video is ready in a few minutes as a 9:16 MP4. Download it, share it from your phone, or find it later in My videos.
 
 ### The by-hand way, with the exact prompts
 
@@ -142,7 +142,7 @@ Keep the pet's name the same across posts and post the same animal again and aga
 
 ### How do I make an AI dancing video of my dog?
 
-Upload one full-body photo of your dog to AI Photo with the dancing pet prompt. You get a still of your dog standing upright in your room. Press the film button on it, and AI Video animates a 10-second dance with an original beat. The MP4 goes to your Library.
+Upload one full-body photo of your dog to AI Photo with the dancing pet prompt. You get a still of your dog standing upright in your room. Press the film button on it, and AI Video animates a 10-second dance with an original beat. The MP4 goes to My videos.
 
 ### Can I make an AI cat dancing video?
 

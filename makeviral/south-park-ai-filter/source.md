@@ -52,7 +52,7 @@ Everything runs in the browser. No editing app, no watermark.
 
 1. **Add your photo.** Press "Make yours" and add you, waist up or full body. Take it with the camera or pick it from your library. Start here: https://www.makeviral.ai/templates/south-park-ai-filter/create
 2. **Press Generate.** The button shows the price. Nano Banana 2.1 puts your photo into the South Park filter scene and makes one 2K photo. You write no prompt.
-3. **Download or share.** The photo is ready in a few minutes as a 9:16 2K image. Download it, share it from your phone, turn it into a video, or find it later in your Library.
+3. **Download or share.** The photo is ready in a few minutes as a 9:16 2K image. Download it, share it from your phone, turn it into a video, or find it later in My videos.
 
 ### The by-hand way, with the exact prompts
 
@@ -182,7 +182,7 @@ It is a TikTok trend from late September 2026: an AI template redraws a photo of
 
 ### How do I do the South Park filter?
 
-Press "Create your own", pick Human, Friends or Pet, add one photo and press Generate. MakeViral turns it into a paper cut-out cartoon in a snowy mountain town and puts the picture in your Library. You need no CapCut template and no prompt.
+Press "Create your own", pick Human, Friends or Pet, add one photo and press Generate. MakeViral turns it into a paper cut-out cartoon in a snowy mountain town and puts the picture in My videos. You need no CapCut template and no prompt.
 
 ### Is this the official South Park filter?
 
@@ -230,7 +230,7 @@ Yes, a few. A picture costs far fewer credits than a video, the create page show
 
 ### Is my photo private?
 
-Yes. MakeViral does not post your photo or the result anywhere or show them to other users. The picture goes to your private Library, and you can delete it there at any time.
+Yes. MakeViral does not post your photo or the result anywhere or show them to other users. The picture goes to your private My videos page, and you can delete it there at any time.
 
 ## Other AI video templates and tools
 

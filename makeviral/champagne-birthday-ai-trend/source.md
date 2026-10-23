@@ -3,7 +3,7 @@
 > The champagne birthday trend is a TikTok birthday video: you sit on a park bench at night, pop a bottle of champagne, a jet shoots straight up and the clip turns black and white with "Happy Birthday" in white letters.
 
 Canonical: https://www.makeviral.ai/templates/champagne-birthday-ai-trend
-Updated: 2026-10-20
+Updated: 2026-10-22
 Published: 2026-10-16
 Author: MakeViral Team (https://www.makeviral.ai/about)
 Publisher: MakeViral (https://www.makeviral.ai)
@@ -53,7 +53,7 @@ Everything runs in the browser. No editing app, no watermark.
 
 1. **Add your photo.** Press "Make yours" and add your photo, knees up or full body. Take it with the camera or pick it from your library. Start here: https://www.makeviral.ai/templates/champagne-birthday-ai-trend/create
 2. **Press Generate.** The button shows the price. Seedance 2.5 puts your photos into the Champagne Birthday trend clip and copies it shot by shot for 10 seconds, with the reel's original song. You write no prompt.
-3. **Download or share.** The video is ready in up to several minutes as a 9:16 MP4. Download it, share it from your phone, or find it later in your Library.
+3. **Download or share.** The video is ready in up to several minutes as a 9:16 MP4. Download it, share it from your phone, or find it later in My videos.
 
 ### The by-hand way, with the exact prompts
 
@@ -231,8 +231,8 @@ The same birthday bottle trend has a few cousins: the champagne slam or champagn
 ## Other AI video templates and tools
 
 - [Champagne Car Window Trend: Pop the Bottle Out of a Moving SUV](https://www.makeviral.ai/templates/champagne-car-window-ai-trend): You lean out of the rear window of a dark luxury SUV on a rainy highway at night, pop the champagne, spray it high, drink and throw the bottle, filmed from the car next to you. Add a second photo and your own car takes the SUV's place. It is an AI video: never lean out of a moving car.
+- [Biker Birthday Cake Trend: Ride In, Blow the Candles, Freeze in Black and White](https://www.makeviral.ai/templates/biker-birthday-cake-ai-trend): Add one photo and you ride into the viral birthday cake POV: a friend holds a black cake with burning candles on a wet lot at night, your motorbike pulls in, you take off the helmet, blow out the candles, and the clip freezes in black and white with Happy Birthday in white script.
 - [24 Unforgettable Car Trend AI: Flick the 2 and 4, Reveal Your Car](https://www.makeviral.ai/templates/unforgettable-car-trend-ai): You walk up to the camera, hold up a 2 and a 4, flick both cards at the lens, and a sports car is parked behind you. One photo, add a photo of the car you want, swap the car for a private jet, or make the car backflip on thrusters. 10 to 14 seconds, with the song from the viral clips.
-- [AI Airport Celebrity Video: Walk Out of Arrivals Like a Star](https://www.makeviral.ai/templates/ai-airport-star-arrival): Fans behind the barriers, phones up, flashes going off, bodyguards clearing your path: you walk out of the arrival gate as a star, wave to a fan and get into a waiting car. Or arrive at a hotel at night: you step out of a black luxury car onto the red carpet. One photo of you or your pet in, a 15-second clip with crowd sound out.
 - [AI photo generator](https://www.makeviral.ai/ai-photo-generator)
 - [All AI video templates](https://www.makeviral.ai/templates)
 

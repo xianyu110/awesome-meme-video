@@ -53,7 +53,7 @@ Everything runs in the browser. No editing app, no watermark.
 
 1. **Add your photo.** Press "Make yours" and add your photo, face clear. Take it with the camera or pick it from your library. Start here: https://www.makeviral.ai/templates/chatgpt-millionaire-ai-trend/create
 2. **Press Generate.** The button shows the price. Seedance 2.5 puts your photos into the ChatGPT Millionaire trend clip and copies it shot by shot for 13 seconds, with the reel's original song. You write no prompt.
-3. **Download or share.** The video is ready in up to several minutes as a 9:16 MP4. Download it, share it from your phone, or find it later in your Library.
+3. **Download or share.** The video is ready in up to several minutes as a 9:16 MP4. Download it, share it from your phone, or find it later in My videos.
 
 ### The by-hand way, with the exact prompts
 
@@ -224,7 +224,7 @@ Yes. Pick Pet. It copies the AI dog clip by @bark_laugh: your pet stands on its 
 
 ### How do I make the How I Become a Millionaire AI video with my photo?
 
-Press "Create your own", pick Human or Pet and add one clear photo. Press Generate; the button shows the price first. You get a 13-second clip with the original voice, and it waits in your Library when it is ready. You write no prompt, and no chatbot app is needed.
+Press "Create your own", pick Human or Pet and add one clear photo. Press Generate; the button shows the price first. You get a 13-second clip with the original voice, and it waits in My videos when it is ready. You write no prompt, and no chatbot app is needed.
 
 ### Did a chatbot really answer "Get a job"?
 

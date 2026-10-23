@@ -51,7 +51,7 @@ Everything runs in the browser. No editing app, no watermark.
 
 1. **Add the two photos.** Press "Make yours" and add partner 1, face clear (holds), then partner 2, face clear (leans in). Add them in this order, because the order decides who is who in the scene. Take them with the camera or pick them from your library. Start here: https://www.makeviral.ai/templates/gemini-rain-ai-effect/create
 2. **Press Generate.** The button shows the price. Seedance 2.5 films the Gemini Rain AI Effect scene straight from your photos, with no in-between picture, for 10 seconds with original sound. You write no prompt.
-3. **Download or share.** The video is ready in a few minutes as a 9:16 MP4. Download it, share it from your phone, or find it later in your Library.
+3. **Download or share.** The video is ready in a few minutes as a 9:16 MP4. Download it, share it from your phone, or find it later in My videos.
 
 ### The by-hand way, with the exact prompts
 
@@ -187,7 +187,7 @@ It is an AI rain effect that puts you in heavy rain at night: soaked hair, water
 
 ### How do I make the Gemini rain AI effect with my photo?
 
-Pick Couple, Solo or Rain photo, press "Create your own" and add your photo, or two photos for Couple. Press Generate; the button shows the price first. The video waits in your Library when it is ready. You do not need a separate ai rain video generator, ai rain photo generator or gemini rain app: this page makes the Gemini rain AI effect video or photo.
+Pick Couple, Solo or Rain photo, press "Create your own" and add your photo, or two photos for Couple. Press Generate; the button shows the price first. The video waits in My videos when it is ready. You do not need a separate ai rain video generator, ai rain photo generator or gemini rain app: this page makes the Gemini rain AI effect video or photo.
 
 ### What is the Gemini rain prompt?
 

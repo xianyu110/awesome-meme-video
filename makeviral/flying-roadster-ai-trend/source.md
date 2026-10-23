@@ -69,7 +69,7 @@ Everything runs in the browser. No editing app, no watermark.
 
 1. **Add your photo.** Press "Make yours" and add you, face clear. Take it with the camera or pick it from your library. Start here: https://www.makeviral.ai/templates/flying-roadster-ai-trend/create
 2. **Press Generate.** The button shows the price. Seedance 2.5 films the Flying Roadster scene straight from your photo, with no in-between picture, for 10 seconds with original sound. You write no prompt.
-3. **Download or share.** The video is ready in a few minutes as a 9:16 MP4. Download it, share it from your phone, or find it later in your Library.
+3. **Download or share.** The video is ready in a few minutes as a 9:16 MP4. Download it, share it from your phone, or find it later in My videos.
 
 ### The by-hand way, with the exact prompts
 
@@ -357,7 +357,7 @@ Both exist. Tesla's own demo footage from McGregor, Texas, is real: Snopes check
 
 ### How do I make a Tesla Roadster AI video with my photo?
 
-Pick a version (Selfie, Ramp flip, Your car, Parking spot, Plane window, Police stop, Tunnel wall or Paris street), press "Create your own" and add the photos it asks for. Press Generate; the button shows the price first. You get a vertical flying car AI video with sound (10 seconds, 13 for Ramp flip), and it waits in your Library when it is ready. You need no separate Tesla Roadster AI video generator or AI car video generator: this page makes the clip.
+Pick a version (Selfie, Ramp flip, Your car, Parking spot, Plane window, Police stop, Tunnel wall or Paris street), press "Create your own" and add the photos it asks for. Press Generate; the button shows the price first. You get a vertical flying car AI video with sound (10 seconds, 13 for Ramp flip), and it waits in My videos when it is ready. You need no separate Tesla Roadster AI video generator or AI car video generator: this page makes the clip.
 
 ### Can I make my car fly with AI?
 

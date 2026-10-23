@@ -56,7 +56,7 @@ Everything runs in the browser. No editing app, no watermark.
 
 1. **Add your photo.** Press "Make yours" and add you, waist up, face clear. Take it with the camera or pick it from your library. Start here: https://www.makeviral.ai/templates/bby-wow-guy-ai-trend/create
 2. **Press Generate.** The button shows the price. Seedance 2.5 puts your photos into the BbY WOW guy meme trend clip and copies it shot by shot for 10 seconds, with the reel's original song. You write no prompt.
-3. **Download or share.** The video is ready in up to several minutes as a 9:16 MP4. Download it, share it from your phone, or find it later in your Library.
+3. **Download or share.** The video is ready in up to several minutes as a 9:16 MP4. Download it, share it from your phone, or find it later in My videos.
 
 ### The by-hand way, with the exact prompts
 
@@ -225,7 +225,7 @@ Eve Ramírez, known as Eve el Cholo and "El de la Mirada Preñadora", from Múzq
 
 ### How do I make the bby wow guy AI video?
 
-Press "Create your own", pick Vertical or Square and add one clear photo of yourself. Press Generate; the button shows the price first. You get a bby wow guy AI video of about 6 to 9.5 seconds with the song. You write no prompt, and the video waits in your Library when it is ready.
+Press "Create your own", pick Vertical or Square and add one clear photo of yourself. Press Generate; the button shows the price first. You get a bby wow guy AI video of about 6 to 9.5 seconds with the song. You write no prompt, and the video waits in My videos when it is ready.
 
 ### Is this the bby wow guy template from TikTok?
 
@@ -253,7 +253,7 @@ Yes. Pick the Pet tab and add one photo of your dog or cat with the whole body i
 
 ### Can I make the bby wow guy video with my baby?
 
-Yes, with the Baby tab. Add one photo of your own baby or toddler, face clear. The baby toddles up at a quince party at night, bites a sweet bread with both hands, chews and stares into the camera, then toddles away. Use only a photo of your own child, or of a child whose parent or guardian asked you to. The video goes to your Library, not to a public feed.
+Yes, with the Baby tab. Add one photo of your own baby or toddler, face clear. The baby toddles up at a quince party at night, bites a sweet bread with both hands, chews and stares into the camera, then toddles away. Use only a photo of your own child, or of a child whose parent or guardian asked you to. The video goes to My videos, not to a public feed.
 
 ### Which AI model makes the video?
 

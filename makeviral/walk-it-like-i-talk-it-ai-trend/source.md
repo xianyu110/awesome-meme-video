@@ -53,7 +53,7 @@ Everything runs in the browser. No editing app, no watermark.
 
 1. **Add the three photos.** Press "Make yours" and add you, front seat (lead), then friend 2, the driver, then friend 3, back seat behind you. Add them in this order, because the order decides who is who in the scene. Take them with the camera or pick them from your library. Start here: https://www.makeviral.ai/templates/walk-it-like-i-talk-it-ai-trend/create
 2. **Press Generate.** The button shows the price. Seedance 2.5 puts your photos into the Walk It Like I Talk It trend clip and copies it shot by shot for 15 seconds, with the reel's original song. You write no prompt.
-3. **Download or share.** The video is ready in up to several minutes as a 16:9 MP4. Download it, share it from your phone, or find it later in your Library.
+3. **Download or share.** The video is ready in up to several minutes as a 16:9 MP4. Download it, share it from your phone, or find it later in My videos.
 
 ### The by-hand way, with the exact prompts
 
@@ -292,7 +292,7 @@ No. Most viral versions use famous faces; we do not make those. Use your own pho
 
 ### Do I need CapCut or another app?
 
-No. Pick a version, press "Create your own", add your photos and press Generate. The clip waits in your Library when it is ready.
+No. Pick a version, press "Create your own", add your photos and press Generate. The clip waits in My videos when it is ready.
 
 ### Is the video real?
 

@@ -1,0 +1,34 @@
+{
+  "source": "kavel",
+  "source_site": "https://www.kavel.ai",
+  "slug": "spiderman-mom-and-son-trend",
+  "name": "Spiderman Mom and Son Trend",
+  "url": "https://www.kavel.ai/video/spiderman-mom-and-son-trend",
+  "listing_url": "https://www.kavel.ai/ai-video-trends",
+  "blurb": "One photo of you lifting your kid: a flash, and you are both in red-and-blue hero suits on a city rooftop, same pose.",
+  "published": null,
+  "updated": null,
+  "scraped_at": "2026-10-23",
+  "listing_index": 0,
+  "this_week_rank": null,
+  "demo_videos": [
+    "https://cdn.kavel.ai/videos/kavel-showcase/spiderman-mom-and-son-trend-pink-flex.mp4",
+    "https://cdn.kavel.ai/videos/kavel-showcase/spiderman-mom-and-son-trend-two-boys.mp4",
+    "https://cdn.kavel.ai/videos/kavel-showcase/spiderman-mom-and-son-trend-halloween-lift.mp4",
+    "https://cdn.kavel.ai/videos/kavel-showcase/spiderman-mom-and-son-trend-shoulder-ride.mp4",
+    "https://cdn.kavel.ai/videos/kavel-showcase/spiderman-mom-and-son-trend-doorway-flex.mp4"
+  ],
+  "posters": [
+    "https://cdn.kavel.ai/posters/kavel-showcase/spiderman-mom-and-son-trend-pink-flex-poster.webp",
+    "https://cdn.kavel.ai/posters/kavel-showcase/spiderman-mom-and-son-trend-pink-flex-poster-thumb-240.webp",
+    "https://cdn.kavel.ai/posters/kavel-showcase/spiderman-mom-and-son-trend-two-boys-poster.webp",
+    "https://cdn.kavel.ai/posters/kavel-showcase/spiderman-mom-and-son-trend-halloween-lift-poster.webp",
+    "https://cdn.kavel.ai/posters/kavel-showcase/spiderman-mom-and-son-trend-shoulder-ride-poster.webp",
+    "https://cdn.kavel.ai/posters/kavel-showcase/spiderman-mom-and-son-trend-doorway-flex-poster.webp"
+  ],
+  "prompts": [],
+  "prompt_count": 0,
+  "prompts_public": false,
+  "note": "No public prompt text found on Kavel page payload; demos/posters only — prompts not invented.",
+  "showcase_count": 5
+}

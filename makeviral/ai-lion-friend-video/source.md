@@ -50,7 +50,7 @@ Everything runs in the browser. No editing app, no watermark.
 
 1. **Add your photo.** Press "Make yours" and add your photo. Take it with the camera or pick it from your library. Start here: https://www.makeviral.ai/templates/ai-lion-friend-video/create
 2. **Press Generate.** The button shows the price. MakeViral builds the AI lion friend scene with your photos, then Kling 3.0 animates it for 10 seconds with original sound. You write no prompt.
-3. **Download or share.** The video is ready in a few minutes as a 9:16 MP4. Download it, share it from your phone, or find it later in your Library.
+3. **Download or share.** The video is ready in a few minutes as a 9:16 MP4. Download it, share it from your phone, or find it later in My videos.
 
 ### The by-hand way, with the exact prompts
 
@@ -126,7 +126,7 @@ The template works in two steps, so your face and your clothes stay yours:
 | Sound | Night sounds, no music | The same |
 | Price | Lower | Higher |
 
-The exact price shows on the Generate button before you spend anything, and the video waits in your Library when it is ready. You write no prompt.
+The exact price shows on the Generate button before you spend anything, and the video waits in My videos when it is ready. You write no prompt.
 
 **Where do the prompts come from?** No public prompt exists for this trend. The first creator invites followers to comment to learn her method, and the CapCut template does not show its prompt. Our prompts describe the same scene in plain words: the windshield view, the open car door, the lion that walks out of the dark, and a calm, friendly greeting.
 

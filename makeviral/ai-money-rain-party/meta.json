@@ -1,0 +1,42 @@
+{
+  "source": "makeviral",
+  "source_site": "https://www.makeviral.ai",
+  "slug": "ai-money-rain-party",
+  "name": "Wedding Money Rain AI: You Dance While the Notes Rain Down",
+  "url": "https://www.makeviral.ai/templates/ai-money-rain-party",
+  "markdown_url": "https://www.makeviral.ai/templates/ai-money-rain-party.md",
+  "blurb": "The wedding money rain is the moment at a Pakistani or Indian wedding when friends shower the dancers with banknotes.",
+  "updated": "2026-10-22",
+  "published": "2026-10-22",
+  "credits": 126,
+  "demo_videos": [
+    "https://www.makeviral.ai/media/templates/ai-money-rain-party/original-hall-v2.mp4",
+    "https://www.makeviral.ai/media/templates/ai-money-rain-party/original-terrace-v2.mp4"
+  ],
+  "posters": [
+    "https://www.makeviral.ai/media/templates/ai-money-rain-party/original-hall-v1.jpg",
+    "https://www.makeviral.ai/media/templates/ai-money-rain-party/original-terrace-v1.jpg"
+  ],
+  "prompts": [
+    {
+      "label": "1. The video prompt is filled in. Settings: Seedance 2.5, 10 s, 720p, 9:16, sound on. The video prompt",
+      "variant": null,
+      "kind": "video_prompt",
+      "text": "A wedding money rain video made from [Image 1]: the person dances at a big South Asian wedding while banknotes rain down on them and the guests throw cash over their head. Vertical 9:16, a handheld phone video by a guest at chest height that slowly follows the dancer, photorealistic, like a real wedding video, the dancer from the knees up or full body in the center of the frame, the face always clear.\n\nThe dancer is the person in [Image 1], in every frame: copy the exact face from [Image 1] (the face shape, eye color and eye shape, eyebrows, nose, mouth, skin tone, age, hair color, hair length and hairstyle, and any beard, moustache, glasses or freckles). The same face from the first frame to the last, so their friends recognize them at once. Never morph, never a different person. They wear elegant festive wedding clothes in one deep color: a long tunic over loose trousers, like the guests around them, unless [Image 1] already shows a festive outfit, then keep that outfit.\n\nThe place: a huge wedding marquee in the evening: a pleated white and blue fabric ceiling with large crystal chandeliers, a long shiny cream marble walkway through the middle, a patterned carpet and gold sofas on both sides, and adult guests in festive clothes lining the walkway, clapping.\n\nThe money: hundreds of generic paper banknotes in plain pale cream and soft pink, all the same simple size, with no readable numbers, no words, no portraits, no flags and no symbols of any real currency. They flutter and spin slowly in the air like confetti, land on the dancer's head and shoulders and cover the floor.\n\n0-2 s: the dancer stands in the middle of the dance floor with a big grin at the camera, then starts a joyful wedding dance to the drums: both arms up, wrists turning, shoulders bouncing.\n2-5 s: the guests around the dancer throw handfuls of notes over their head, and a shower of notes starts to rain from above. The dancer keeps dancing, turns once on the spot and laughs.\n5-8 s: the money rain gets thicker, a storm of notes fills the air. The dancer catches a few notes, throws them up again and dances forward toward the camera, shoulders bouncing.\n8-10 s: the dancer stops in front of the camera, raises both arms into the falling notes, looks up, then back at the camera with a big proud smile. The face is large, sharp and clearly visible.\n\nAudio: a loud festive dhol drum beat with claps, cheering and whistles from the guests, no words, no singing.\nThe person from [Image 1] is the only dancer in the center; every guest is a different grown adult (all over 25) with their own face, never a copy of the dancer. One head, two arms and five fingers on each hand. No text, no captions, no subtitles, no logos, no signs, no watermark."
+    }
+  ],
+  "variant_headings": [
+    "What the Money Rain Party video looks like",
+    "How to make the Money Rain Party video on MakeViral",
+    "Which photo works best?",
+    "What does the AI money rain party video make?",
+    "How do I make the money rain video with my photo?",
+    "Is it like the money rain effect in video editors?",
+    "Does the video have sound?",
+    "Is my photo private?",
+    "Other AI video templates and tools",
+    "Make your own Money Rain Party video"
+  ],
+  "prompt_count": 1,
+  "scraped_at": "2026-10-23"
+}

@@ -49,7 +49,7 @@ Everything runs in the browser. No editing app, no watermark.
 
 1. **Add the three photos.** Press "Make yours" and add leader with the handkerchief, then friend in the middle, then friend on the right. Add them in this order, because the order decides who is who in the scene. Take them with the camera or pick them from your library. Start here: https://www.makeviral.ai/templates/halay-ai-trend/create
 2. **Press Generate.** The button shows the price. Seedance 2.5 puts your photos into the TV show halay trend clip and copies it shot by shot for 15 seconds, with the reel's original song. You write no prompt.
-3. **Download or share.** The video is ready in up to several minutes as a 16:9 MP4. Download it, share it from your phone, or find it later in your Library.
+3. **Download or share.** The video is ready in up to several minutes as a 16:9 MP4. Download it, share it from your phone, or find it later in My videos.
 
 ### The by-hand way, with the exact prompts
 
@@ -138,7 +138,7 @@ Your clip follows the first 15 seconds of the AI reel by @orcunaicovers, on a TV
 
 **How it works.** Seedance 2.5 puts you into the reel itself: the same stage, drum, moves and camera, with your own faces and clothes, at 720p in the reel's wide 16:9 frame, 15 seconds with the reel's halay tune (you can turn it off). It can take up to several minutes.
 
-The exact price shows on the Generate button before you spend anything. You write no prompt, and the video waits in your Library when it is ready. Every run is a new take, so results differ.
+The exact price shows on the Generate button before you spend anything. You write no prompt, and the video waits in My videos when it is ready. Every run is a new take, so results differ.
 
 ## Which halay trend is this, and who should dance in it?
 

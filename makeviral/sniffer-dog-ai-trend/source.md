@@ -55,7 +55,7 @@ Everything runs in the browser. No editing app, no watermark.
 
 1. **Add your photo.** Press "Make yours" and add your photo. Take it with the camera or pick it from your library. Start here: https://www.makeviral.ai/templates/sniffer-dog-ai-trend/create
 2. **Press Generate.** The button shows the price. Kling 3.0 Omni puts your photos into the Sniffer dog meme trend clip and copies it shot by shot for 8 seconds, with the reel's original song. You write no prompt.
-3. **Download or share.** The video is ready in a few minutes as a 9:16 MP4. Download it, share it from your phone, or find it later in your Library.
+3. **Download or share.** The video is ready in a few minutes as a 9:16 MP4. Download it, share it from your phone, or find it later in My videos.
 
 ### The by-hand way, with the exact prompts
 
@@ -138,7 +138,7 @@ Your clip follows the 8 seconds of the AI reel by @stitchthesnitchh, filmed like
 
 **Two versions.** **Human** takes one photo of you and keeps the reel's spaniel. **Pet** takes a second photo, of your own pet, and makes it the sniffer dog: in the black vest it walks up and sits at your feet.
 
-**How it is made.** Kling 3.0 Omni edits the reel itself: the crowd, the lights, the camera, the timing and the raver's tie-dye T-shirt stay, and your face and hair (and in the Pet version, your pet as the dog) come in. The reel's white caption is taken out, so you can write your own when you post. The clip is vertical 9:16 at 720p and comes with the reel's sound. The exact price shows on the Generate button before you spend anything. You write no prompt, and the video waits in your Library when it is ready.
+**How it is made.** Kling 3.0 Omni edits the reel itself: the crowd, the lights, the camera, the timing and the raver's tie-dye T-shirt stay, and your face and hair (and in the Pet version, your pet as the dog) come in. The reel's white caption is taken out, so you can write your own when you post. The clip is vertical 9:16 at 720p and comes with the reel's sound. The exact price shows on the Generate button before you spend anything. You write no prompt, and the video waits in My videos when it is ready.
 
 ## Is the sniffer dog video real? How to post it as a joke
 
@@ -192,7 +192,7 @@ No. The account @stitchthesnitchh makes its clips with AI: on 27 August 2026 the
 
 ### How do I make the sniffer dog meme with my own photo?
 
-Press "Create your own", add one photo of yourself and press Generate. The button shows the price first. You get an 8-second vertical clip where the dog sits at your feet and you cry, with the reel's sound. You write no prompt, and the video waits in your Library when it is ready.
+Press "Create your own", add one photo of yourself and press Generate. The button shows the price first. You get an 8-second vertical clip where the dog sits at your feet and you cry, with the reel's sound. You write no prompt, and the video waits in My videos when it is ready.
 
 ### Can my dog be the sniffer dog?
 

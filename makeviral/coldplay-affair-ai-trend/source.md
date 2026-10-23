@@ -48,7 +48,7 @@ Everything runs in the browser. No editing app, no watermark.
 
 1. **Add the two photos.** Press "Make yours" and add you (in front), then who hugs you from behind. Add them in this order, because the order decides who is who in the scene. Take them with the camera or pick them from your library. Start here: https://www.makeviral.ai/templates/coldplay-affair-ai-trend/create
 2. **Press Generate.** The button shows the price. Seedance 2.5 films the Coldplay Affair AI scene straight from your photos, with no in-between picture, for 10 seconds with original sound. You write no prompt.
-3. **Download or share.** The video is ready in a few minutes as a 9:16 MP4. Download it, share it from your phone, or find it later in your Library.
+3. **Download or share.** The video is ready in a few minutes as a 9:16 MP4. Download it, share it from your phone, or find it later in My videos.
 
 ### The by-hand way, with the exact prompts
 
@@ -191,7 +191,7 @@ It is the October 2026 version of the Coldplay kiss cam: a CapCut AI template th
 
 ### How do I make the Coldplay kiss cam AI video?
 
-Press "Create your own", pick Two photos or One photo of you two, add the photos and press Generate. MakeViral makes the AI kiss cam video and puts it in your Library. You need no CapCut template, no app and no prompt.
+Press "Create your own", pick Two photos or One photo of you two, add the photos and press Generate. MakeViral makes the AI kiss cam video and puts it in My videos. You need no CapCut template, no app and no prompt.
 
 ### Is this the CapCut Coldplay affair template?
 
@@ -239,7 +239,7 @@ Yes. It is a 10-second AI video, so it costs credits. The create page shows the 
 
 ### Is my photo private?
 
-Yes. MakeViral does not post your photos or the result anywhere or show them to other users. The result goes to your private Library, and you can delete it there at any time.
+Yes. MakeViral does not post your photos or the result anywhere or show them to other users. The result goes to your private My videos page, and you can delete it there at any time.
 
 ## Other AI video templates and tools
 

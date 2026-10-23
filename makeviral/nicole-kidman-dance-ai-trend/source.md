@@ -54,7 +54,7 @@ Everything runs in the browser. No editing app, no watermark.
 
 1. **Add your photo.** Press "Make yours" and add your photo. Take it with the camera or pick it from your library. Start here: https://www.makeviral.ai/templates/nicole-kidman-dance-ai-trend/create
 2. **Press Generate.** The button shows the price. Seedance 2.5 puts your photos into the Nicole Kidman Dance trend clip and copies it shot by shot for 13 seconds, with the reel's original song. You write no prompt.
-3. **Download or share.** The video is ready in up to several minutes as a 9:16 MP4. Download it, share it from your phone, or find it later in your Library.
+3. **Download or share.** The video is ready in up to several minutes as a 9:16 MP4. Download it, share it from your phone, or find it later in My videos.
 
 ### The by-hand way, with the exact prompts
 
@@ -188,7 +188,7 @@ TikTok tutorials of the routine credit the choreography to the dancer Kyler Irby
 
 ### How do I make the Nicole Kidman dance AI video with my photo?
 
-Press "Create your own", pick Human or Pet (Pet also has Standard or Best), and add one clear photo of yourself or your pet. Press Generate; the button shows the price first. You get a vertical clip of 13 seconds (Human) or 14 seconds (Pet) with the song. You write no prompt, and the video waits in your Library when it is ready.
+Press "Create your own", pick Human or Pet (Pet also has Standard or Best), and add one clear photo of yourself or your pet. Press Generate; the button shows the price first. You get a vertical clip of 13 seconds (Human) or 14 seconds (Pet) with the song. You write no prompt, and the video waits in My videos when it is ready.
 
 ### Can my dog or cat do the Nicole Kidman dance?
 

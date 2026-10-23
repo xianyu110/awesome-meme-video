@@ -54,7 +54,7 @@ Everything runs in the browser. No editing app, no watermark.
 
 1. **Add the three photos.** Press "Make yours" and add the dancer, then the selfie friend, then the friend in the car. Add them in this order, because the order decides who is who in the scene. Take them with the camera or pick them from your library. Start here: https://www.makeviral.ai/templates/gas-station-dance-ai-trend/create
 2. **Press Generate.** The button shows the price. Genjutsu Motion puts your photos into the Gas station dance trend clip and copies it shot by shot for 15 seconds, with the reel's original song. You write no prompt.
-3. **Download or share.** The video is ready in a few minutes as a 9:16 MP4. Download it, share it from your phone, or find it later in your Library.
+3. **Download or share.** The video is ready in a few minutes as a 9:16 MP4. Download it, share it from your phone, or find it later in My videos.
 
 ### The by-hand way, with the exact prompts
 
@@ -162,7 +162,7 @@ Higgsfield Genjutsu takes the original reel and your photos and puts each person
 | Sound | The reel's own sound: the song from the car stereo, which you can turn off |
 | Photos | 3 ("3 friends") or 1 ("Just you") |
 
-The exact price shows on the Generate button before you spend anything, and the video waits in your Library when it is ready, usually in a few minutes.
+The exact price shows on the Generate button before you spend anything, and the video waits in My videos when it is ready, usually in a few minutes.
 
 **Mop dance** works the same way with Seedance 2.5 instead: your photo replaces the dancer in the AI reel, shot by shot, in 720p, with the reel's song back on. It usually takes 5 to 15 minutes.
 

@@ -49,7 +49,7 @@ Everything runs in the browser. No editing app, no watermark.
 
 1. **Add your photo.** Press "Make yours" and add you, face clear. Take it with the camera or pick it from your library. Start here: https://www.makeviral.ai/templates/atm-glitch-ai-trend/create
 2. **Press Generate.** The button shows the price. Seedance 2.5 puts your photos into the ATM Glitch trend clip and copies it shot by shot for 8 seconds, with the reel's original song. You write no prompt.
-3. **Download or share.** The video is ready in up to several minutes as a 9:16 MP4. Download it, share it from your phone, or find it later in your Library.
+3. **Download or share.** The video is ready in up to several minutes as a 9:16 MP4. Download it, share it from your phone, or find it later in My videos.
 
 ### The by-hand way, with the exact prompts
 
@@ -136,7 +136,7 @@ Credits come with a plan; see [pricing](https://www.makeviral.ai/pricing). A fai
 
 This is a character swap of the viral reel, not a new scene: top-quality AI video models, including Seedance 2.5, take the original clip and put you in the woman's place, with the same booth, the same burst and the same camera. The video is vertical 9:16, 8 seconds, at 720p, ready for Reels and TikTok, with the reel's own sound put back on after the run.
 
-Press "Create your own", add your photo and press Generate. The exact price shows on the Generate button before you spend anything. A run can take 5 to 15 minutes, and the video waits in your Library when it is ready.
+Press "Create your own", add your photo and press Generate. The exact price shows on the Generate button before you spend anything. A run can take 5 to 15 minutes, and the video waits in My videos when it is ready.
 
 ## Human or Pet, Best or Standard: which one?
 
@@ -213,6 +213,7 @@ No. You take her place at the ATM, and nobody else is in the booth. MakeViral is
 - [Money Flex AI Trend: You or Your Pet Flex a Pile of Cash](https://www.makeviral.ai/templates/money-flex-ai-trend): Add one photo of you or your pet. The phone lies low on a dresser, you hug a long chain of cash bundles, throw it at the lens, rip a band and end behind a fan of bills.
 - [ChatGPT Millionaire Trend: “How I Become a Millionaire?” “Get a Job.”](https://www.makeviral.ai/templates/chatgpt-millionaire-ai-trend): "Chat GPT, how I become a millionaire in 30 days?" "Get a job." Add one photo, and you, your dog or your cat ask the phone, hear the answer and take it very personally, with the original voice track.
 - [ABCDEFG I Need Money AI Trend: Your Pet (or You) Sings the Money Line](https://www.makeviral.ai/templates/abcdefg-i-need-money-ai-trend): Add one photo of your dog, cat or yourself. The video sings "A, B, C, D, E, F, G", stops dead, leans into the camera and asks for M-O-N-E-Y with a dead-serious face and a finger rub.
+- [Wedding Money Rain AI: You Dance While the Notes Rain Down](https://www.makeviral.ai/templates/ai-money-rain-party): Add one photo. AI makes a 10-second clip: you dance in the middle of a wedding crowd while the guests throw cash and a storm of paper notes rains down on you.
 - [AI photo generator](https://www.makeviral.ai/ai-photo-generator)
 - [All AI video templates](https://www.makeviral.ai/templates)
 

@@ -48,7 +48,7 @@ Everything runs in the browser. No editing app, no watermark.
 
 1. **Add the two photos.** Press "Make yours" and add you, full body if you can, then the item you grab (a bag, a drink, a box). Add them in this order, because the order decides who is who in the scene. Take them with the camera or pick them from your library. Start here: https://www.makeviral.ai/templates/smash-and-grab-ai-trend/create
 2. **Press Generate.** The button shows the price. Seedance 2.5 films the Smash and Grab scene straight from your photos, with no in-between picture, for 10 seconds with original sound. You write no prompt.
-3. **Download or share.** The video is ready in a few minutes as a 9:16 MP4. Download it, share it from your phone, or find it later in your Library.
+3. **Download or share.** The video is ready in a few minutes as a 9:16 MP4. Download it, share it from your phone, or find it later in My videos.
 
 ### The by-hand way, with the exact prompts
 
@@ -193,7 +193,7 @@ Not yet. It is more a template than a meme, and on 14 October 2026 TikTok had no
 
 ### How do I make a smash and grab AI video?
 
-Pick Human or Pet, press "Create your own" and add two photos: first you (or your pet), then the item. Press Generate; the button shows the price first. You get a vertical clip with sound in a few minutes, and it waits in your Library when it is ready. You write no prompt.
+Pick Human or Pet, press "Create your own" and add two photos: first you (or your pet), then the item. Press Generate; the button shows the price first. You get a vertical clip with sound in a few minutes, and it waits in My videos when it is ready. You write no prompt.
 
 ### Can I use it as an ad for my own product?
 

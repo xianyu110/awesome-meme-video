@@ -52,7 +52,7 @@ Everything runs in the browser. No editing app, no watermark.
 
 1. **Add the two photos.** Press "Make yours" and add you, face to the camera, then your mom, dad or family member, face to the camera. Add them in this order, because the order decides who is who in the scene. Take them with the camera or pick them from your library. Start here: https://www.makeviral.ai/templates/ai-family-resemblance-photo/create
 2. **Press Generate.** The button shows the price. Nano Banana 2.1 puts your photos into the Split face scene and makes one 2K photo. You write no prompt.
-3. **Download or share.** The photo is ready in a few minutes as a 9:16 2K image. Download it, share it from your phone, turn it into a video, or find it later in your Library.
+3. **Download or share.** The photo is ready in a few minutes as a 9:16 2K image. Download it, share it from your phone, turn it into a video, or find it later in My videos.
 
 ### The by-hand way, with the exact prompts
 
@@ -98,7 +98,7 @@ This is the whole split face trend how-to:
 
 1. Press "Create your own". Add photo 1 (you) and photo 2 (your mom, dad or another family member).
 2. Press Generate. The button shows the price before you spend anything.
-3. Your split face portrait arrives in your Library as one 2K vertical picture (9:16) in black and white: the left half is you, the right half is them, joined through the forehead, the nose, the lips and the chin.
+3. Your split face portrait arrives in My videos as one 2K vertical picture (9:16) in black and white: the left half is you, the right half is them, joined through the forehead, the nose, the lips and the chin.
 4. Post it. Some posts show the split face first and a real photo of the two of you second, with a caption like "You look like your mom" or "She looks like her dad".
 
 Since people also call it the half face trend, this is also how to do the half face trend. Want both parents? Run it twice, once with your mom and once with your dad, and post the two pictures as a carousel. That is the mom or dad trend in one post, and it answers "Who do I look like more, mom or dad?" for your friends.
@@ -196,7 +196,7 @@ Yes, a few. A picture costs far fewer credits than a video, the create page show
 
 ### Are my photos private?
 
-Yes. MakeViral does not post your photos or the result anywhere or show them to other users. The picture goes to your private Library, and you can delete it there at any time.
+Yes. MakeViral does not post your photos or the result anywhere or show them to other users. The picture goes to your private My videos page, and you can delete it there at any time.
 
 ## Other AI video templates and tools
 

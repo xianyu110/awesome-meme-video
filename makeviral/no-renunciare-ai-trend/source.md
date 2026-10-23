@@ -49,7 +49,7 @@ Everything runs in the browser. No editing app, no watermark.
 
 1. **Add your photo.** Press "Make yours" and add you, face and upper body. Take it with the camera or pick it from your library. Start here: https://www.makeviral.ai/templates/no-renunciare-ai-trend/create
 2. **Press Generate.** The button shows the price. Seedance 2.5 films the No Renunciaré scene straight from your photo, with no in-between picture, for 15 seconds with original sound. You write no prompt.
-3. **Download or share.** The video is ready in a few minutes as a 9:16 MP4. Download it, share it from your phone, or find it later in your Library.
+3. **Download or share.** The video is ready in a few minutes as a 9:16 MP4. Download it, share it from your phone, or find it later in My videos.
 
 ### The by-hand way, with the exact prompts
 
@@ -190,7 +190,7 @@ Yes. Pick the Pet version: your cat or dog holds the chrome microphone in its pa
 
 ### How do I make the No Renunciaré AI video?
 
-Press "Create your own", pick Human or Pet and add one clear photo. Press Generate; the button shows the price first. You get a 15-second vertical clip with sound. You write no prompt, and the video waits in your Library when it is ready.
+Press "Create your own", pick Human or Pet and add one clear photo. Press Generate; the button shows the price first. You get a 15-second vertical clip with sound. You write no prompt, and the video waits in My videos when it is ready.
 
 ### Which AI model makes the video, and what prompt does it use?
 

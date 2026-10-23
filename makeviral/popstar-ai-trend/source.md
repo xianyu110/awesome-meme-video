@@ -55,7 +55,7 @@ Everything runs in the browser. No editing app, no watermark.
 
 1. **Add your photo.** Press "Make yours" and add you, face clear. Take it with the camera or pick it from your library. Start here: https://www.makeviral.ai/templates/popstar-ai-trend/create
 2. **Press Generate.** The button shows the price. Kling 3.0 Motion Control takes the moves of the Popstar AI clip and plays them with the one in your photo, in your photo's own scene, for about 10 seconds, with the reel's original sound. You write no prompt.
-3. **Download or share.** The video is ready in a few minutes as a 9:16 MP4. Download it, share it from your phone, or find it later in your Library.
+3. **Download or share.** The video is ready in a few minutes as a 9:16 MP4. Download it, share it from your phone, or find it later in My videos.
 
 ### The by-hand way, with the exact prompts
 
@@ -139,7 +139,7 @@ It is a viral AI video format from October 2026. People put themselves in the le
 
 ### How do I make the Popstar AI video with my photo?
 
-Press "Create your own" and add one clear photo of yourself, waist up or full body works best. Press Generate; the button shows the price first. You get a vertical clip of about 10 seconds with the trend's sound. You write no prompt, and the video waits in your Library when it is ready.
+Press "Create your own" and add one clear photo of yourself, waist up or full body works best. Press Generate; the button shows the price first. You get a vertical clip of about 10 seconds with the trend's sound. You write no prompt, and the video waits in My videos when it is ready.
 
 ### Is it the real Popstar music video house?
 

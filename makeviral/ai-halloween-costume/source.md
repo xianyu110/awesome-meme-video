@@ -55,7 +55,7 @@ Everything runs in the browser. No editing app, no watermark.
 
 1. **Add your photo.** Press "Make yours" and add your photo, whole body. Take it with the camera or pick it from your library. Start here: https://www.makeviral.ai/templates/ai-halloween-costume/create
 2. **Press Generate.** The button shows the price. Nano Banana 2.1 puts your photo into the Halloween costume scene and makes one 2K photo. You write no prompt.
-3. **Download or share.** The photo is ready in a few minutes as a 9:16 2K image. Download it, share it from your phone, turn it into a video, or find it later in your Library.
+3. **Download or share.** The photo is ready in a few minutes as a 9:16 2K image. Download it, share it from your phone, turn it into a video, or find it later in My videos.
 
 ### The by-hand way, with the exact prompts
 
@@ -186,7 +186,7 @@ It is a photo of you in a Halloween costume, made by AI from your own picture. Y
 
 ### How do I try on a Halloween costume with AI?
 
-Press "Create your own", add one full-body photo, then type a costume in Make it yours or tap a quick pick such as Witch, Vampire or Zombie bride. Press Generate. Nano Banana 2.1 makes a 2K photo of you in the costume, usually in a few minutes, and it lands in your Library.
+Press "Create your own", add one full-body photo, then type a costume in Make it yours or tap a quick pick such as Witch, Vampire or Zombie bride. Press Generate. Nano Banana 2.1 makes a 2K photo of you in the costume, usually in a few minutes, and it lands in My videos.
 
 ### Can I type any costume I want?
 
@@ -254,7 +254,7 @@ The model rebuilds you from one photo. A dark, blurry, cropped or close-up photo
 
 ### Is there an AI costume generator app I need to install?
 
-No. It is an online Halloween costume maker: MakeViral runs in the browser on a phone or a computer. The 2K photo lands in your Library, ready to download and post.
+No. It is an online Halloween costume maker: MakeViral runs in the browser on a phone or a computer. The 2K photo lands in My videos, ready to download and post.
 
 ### Can I post the photo or video on Instagram or TikTok?
 

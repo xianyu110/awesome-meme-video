@@ -55,7 +55,7 @@ Everything runs in the browser. No editing app, no watermark.
 
 1. **Add your photo.** Press "Make yours" and add you, full body. Take it with the camera or pick it from your library. Start here: https://www.makeviral.ai/templates/victoria-secret-runway-ai-trend/create
 2. **Press Generate.** The button shows the price. Seedance 2.5 films the Angel Runway scene straight from your photo, with no in-between picture, for 10 seconds with original sound. You write no prompt.
-3. **Download or share.** The video is ready in a few minutes as a 9:16 MP4. Download it, share it from your phone, or find it later in your Library.
+3. **Download or share.** The video is ready in a few minutes as a 9:16 MP4. Download it, share it from your phone, or find it later in My videos.
 
 ### The by-hand way, with the exact prompts
 
@@ -241,7 +241,7 @@ It is a viral AI video trend from October 2026, also searched as the Victoria's 
 
 ### Is there a Victoria Secret AI filter or app?
 
-On TikTok people call it the Victoria Secret AI filter, but it is a video template, not a live camera filter. You need no separate Victoria Secret AI app: add one photo here, press Generate, and the clip waits in your Library when it is ready. The button shows the price first.
+On TikTok people call it the Victoria Secret AI filter, but it is a video template, not a live camera filter. You need no separate Victoria Secret AI app: add one photo here, press Generate, and the clip waits in My videos when it is ready. The button shows the price first.
 
 ### How do I make a Victoria Secret AI video from my photo?
 
@@ -277,7 +277,7 @@ Yes, the Backstage version. It is the Victoria Secret backstage AI clip of the t
 
 ### Can I make a Victoria Secret AI photo instead of a video?
 
-This template makes a video. If you want a still for your profile, pause the clip on the kiss at the end and take a screenshot, or save a frame from your Library: that is your Victoria Secret AI photo.
+This template makes a video. If you want a still for your profile, pause the clip on the kiss at the end and take a screenshot, or save a frame from My videos: that is your Victoria Secret AI photo.
 
 ### Does the outfit look like lingerie?
 

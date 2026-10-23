@@ -48,7 +48,7 @@ Everything runs in the browser. No editing app, no watermark.
 
 1. **Add your photo.** Press "Make yours" and add you, face clear. Take it with the camera or pick it from your library. Start here: https://www.makeviral.ai/templates/ai-celebrity-autograph-signing/create
 2. **Press Generate.** The button shows the price. Seedance 2.5 films the Celebrity Autograph Signing scene straight from your photo, with no in-between picture, for 10 seconds with original sound. You write no prompt.
-3. **Download or share.** The video is ready in a few minutes as a 9:16 MP4. Download it, share it from your phone, or find it later in your Library.
+3. **Download or share.** The video is ready in a few minutes as a 9:16 MP4. Download it, share it from your phone, or find it later in My videos.
 
 ### The by-hand way, with the exact prompts
 
@@ -173,7 +173,7 @@ It is an AI video trend where one photo turns you into a star: fans crowd around
 
 ### How do I make the AI autograph trend video with my photo?
 
-Pick Fan meet or Star entrance, press "Create your own" and add one clear photo of your face. Press Generate; the button shows the price first. You get a 10-second vertical AI autograph video with crowd sound, and it waits in your Library when it is ready. You need no separate AI celebrity video generator: this page makes the clip.
+Pick Fan meet or Star entrance, press "Create your own" and add one clear photo of your face. Press Generate; the button shows the price first. You get a 10-second vertical AI autograph video with crowd sound, and it waits in My videos when it is ready. You need no separate AI celebrity video generator: this page makes the clip.
 
 ### What is the AI fan meeting version?
 

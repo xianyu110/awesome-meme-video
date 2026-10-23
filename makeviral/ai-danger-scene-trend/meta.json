@@ -1,0 +1,100 @@
+{
+  "source": "makeviral",
+  "source_site": "https://www.makeviral.ai",
+  "slug": "ai-danger-scene-trend",
+  "name": "AI Danger Video: Your Normal Moment, With Danger Right Behind You",
+  "url": "https://www.makeviral.ai/templates/ai-danger-scene-trend",
+  "markdown_url": "https://www.makeviral.ai/templates/ai-danger-scene-trend.md",
+  "blurb": "The ai danger video is a scroll-stopping hook: the same shot of you doing something ordinary, restyled so that real danger sits right behind you while you stay completely calm.",
+  "updated": "2026-10-22",
+  "published": "2026-10-22",
+  "credits": 91,
+  "demo_videos": [
+    "https://www.makeviral.ai/media/templates/ai-danger-scene-trend/original-main-v2.mp4"
+  ],
+  "posters": [
+    "https://www.makeviral.ai/media/templates/ai-danger-scene-trend/original-main-v1.jpg"
+  ],
+  "prompts": [
+    {
+      "label": "1. Open [AI Photo with this template](https://www.makeviral.ai/photo?template=ai-danger-scene-trend) and add your photo (you, sitting, face clear). The photo prompt is filled in",
+      "variant": null,
+      "kind": "photo_prompt",
+      "text": "Keep this shot the same, with the same person, and the same chair, with the same composition, but change the location to be an airport runway, and the person is tied up by a red rope onto the chair. This red rope is attached to the back of a jumbo jet that is in the background, facing away from us. The rope is tied to the center of the back of the Jumbo Jet as if it is ready to pull the person. In between the person and the Jumbo Jet there is a pile of red rope on the floor that this is connected to. We can see jet flames coming out the back of the jet engines as well. It's a sunny blue sky day. Do not change the composition or the person or their clothes, just change the location and add the rope and the jet. If the person is not sitting on a chair in the photo, they now sit on a plain wooden chair in the same framing. The jet is plain white with no airline name, logo, stripes of a real airline or registration letters. Photorealistic, like a real photo taken on a phone. Vertical 9:16. Exactly the people from the photo in front, no extra people close to the camera. No text, no letters, no numbers, no logos, no airline or rail company names anywhere."
+    },
+    {
+      "label": "3. Press the film button on the still to open AI Video with the still as the first frame. Settings: Seedance 2.5, 7 s, 720p, 9:16, sound on. The video prompt",
+      "variant": null,
+      "kind": "video_prompt",
+      "text": "Use the image as the first frame and keep everything in it: the same person, face, clothes, pose and composition. No camera movement. The person stays calm and relaxed the whole time, looks at the camera with a small, confident smile and small, natural head movements, as if nothing is wrong. They do not panic, they do not look behind them, and they do not speak. Behind them the jet's engines roar with flames and heat haze, the jet starts to roll slowly away from us down the runway, and the pile of red rope on the floor uncoils and gets shorter and shorter. Only at the very end the rope pulls tight. Sound: the loud roar of the jet engines, wind and the rope sliding over the ground. No music. Nobody is hurt and nothing hits the person: the clip ends a moment before the danger reaches them. The same person and the same face from the first frame to the last. No text, no subtitles, no logos."
+    },
+    {
+      "label": "1. Open [AI Photo with this template](https://www.makeviral.ai/photo?template=ai-danger-scene-trend&variant=train) and add your photo (you, sitting, face clear). The photo prompt is filled in",
+      "variant": null,
+      "kind": "photo_prompt",
+      "text": "Keep this shot the same, with the same person in the same position, seated, with the same book or whatever they hold in the photo, in the same outfit, but change the location to be them sat on a train track in the countryside, between the rails. In the background we can see a train on the same track heading towards them, with its headlight on. The train has a black front, and a black and yellow warning stripey front design. It is a sunny blue sky day keeping the same composition as the photo but changing the location and the lighting. No other people are in the shot. The train has no logo, lettering or number. Photorealistic, like a real photo taken on a phone. Vertical 9:16. Exactly the people from the photo in front, no extra people close to the camera. No text, no letters, no numbers, no logos, no airline or rail company names anywhere."
+    },
+    {
+      "label": "3. Press the film button on the still to open AI Video with the still as the first frame. Settings: Seedance 2.5, 7 s, 720p, 9:16, sound on. The video prompt",
+      "variant": null,
+      "kind": "video_prompt",
+      "text": "Use the image as the first frame and keep everything in it: the same person, face, clothes, pose and composition. No camera movement. The person stays calm and relaxed the whole time, looks at the camera with a small, confident smile and small, natural head movements, as if nothing is wrong. They do not panic, they do not look behind them, and they do not speak. Behind them the train approaches on the same track, its headlight bright, getting bigger and bigger. There is steam coming out of the train. Only at the very end the train is a few meters behind them. Sound: the train horn blaring and the rumble of the rails getting louder. No music. Nobody is hurt and nothing hits the person: the clip ends a moment before the danger reaches them. The same person and the same face from the first frame to the last. No text, no subtitles, no logos."
+    },
+    {
+      "label": "1. Open [AI Photo with this template](https://www.makeviral.ai/photo?template=ai-danger-scene-trend&variant=tsunami) and add your photo (you, sitting, face clear). The photo prompt is filled in",
+      "variant": null,
+      "kind": "photo_prompt",
+      "text": "Keep this shot the same, with the same person in the same position, seated, with the same book or whatever they hold in the photo, in the same outfit, but change the location to be them sat on a sun lounger at the beach. On the beach there is loads of people all running away from the sea, because in the background we can see a giant tsunami tidal wave. We can see on the tidal wave there are boats out at the sea as well that are being lifted up by the wave heading towards us. It is a sunny blue sky day keeping the same composition as the photo but changing the location and the lighting. The people running away are small, behind the person, adults only. The boats have no names or numbers. Photorealistic, like a real photo taken on a phone. Vertical 9:16. Exactly the people from the photo in front, no extra people close to the camera. No text, no letters, no numbers, no logos, no airline or rail company names anywhere."
+    },
+    {
+      "label": "3. Press the film button on the still to open AI Video with the still as the first frame. Settings: Seedance 2.5, 7 s, 720p, 9:16, sound on. The video prompt",
+      "variant": null,
+      "kind": "video_prompt",
+      "text": "Use the image as the first frame and keep everything in it: the same person, face, clothes, pose and composition. No camera movement. The person stays calm and relaxed the whole time, looks at the camera with a small, confident smile and small, natural head movements, as if nothing is wrong. They do not panic, they do not look behind them, and they do not speak. Behind them the giant tsunami wave rises higher and rolls toward the beach, the boats on it are lifted up, and the small people in the background run away from the sea. Only at the very end the wave towers over the beach behind the person. Sound: the deep roar of the wave, wind and people shouting in the distance. No music. Nobody is hurt and nothing hits the person: the clip ends a moment before the danger reaches them. The same person and the same face from the first frame to the last. No text, no subtitles, no logos."
+    },
+    {
+      "label": "1. Open [AI Photo with this template](https://www.makeviral.ai/photo?template=ai-danger-scene-trend&variant=car) and add your photo (you, face clear). The photo prompt is filled in",
+      "variant": null,
+      "kind": "photo_prompt",
+      "text": "Keep this shot the same, the same person in the same position with the same clothes but change the environment so they're actually sat in the driver's seat of a car. Their hands are on the steering wheel of the car and they have a seatbelt across their top. We can see through the passenger window of the car that they are parked on a train track with a train heading towards them. The train has a black front, and a black and yellow warning stripey front design. It is a blue sky sunny day, and the person is looking at the camera. No other people are in the shot. The car and the train have no badge, logo, lettering or number. Photorealistic, like a real photo taken on a phone. Vertical 9:16. Exactly the people from the photo in front, no extra people close to the camera. No text, no letters, no numbers, no logos, no airline or rail company names anywhere."
+    },
+    {
+      "label": "3. Press the film button on the still to open AI Video with the still as the first frame. Settings: Seedance 2.5, 7 s, 720p, 9:16, sound on. The video prompt",
+      "variant": null,
+      "kind": "video_prompt",
+      "text": "Use the image as the first frame and keep everything in it: the same person, face, clothes, pose and composition. No camera movement. The person stays calm and relaxed the whole time, looks at the camera with a small, confident smile and small, natural head movements, as if nothing is wrong. They do not panic, they do not look behind them, and they do not speak. They keep their hands on the steering wheel. Through the passenger window the train approaches on the track, getting bigger and bigger. There is steam coming out of the train. Only at the very end the train is right next to the car, its headlight filling the window. Sound: the train horn blaring, the rumble of the rails getting louder, the car's engine idling. No music. Nobody is hurt and nothing hits the person: the clip ends a moment before the danger reaches them. The same person and the same face from the first frame to the last. No text, no subtitles, no logos."
+    },
+    {
+      "label": "1. Open [AI Photo with this template](https://www.makeviral.ai/photo?template=ai-danger-scene-trend&variant=surprise) and add your photo (you, face clear). The photo prompt is filled in",
+      "variant": null,
+      "kind": "photo_prompt",
+      "text": "Edit this photo with an element of danger added: restyle it with an element of danger inside the scene but keep the composition the same. The same person in the same position, with the same clothes and whatever they hold, in the same framing. Pick one big, clear danger right behind them that fits the photo, for example a train heading towards them on a track, a jet with roaring engines, a giant tsunami wave, flowing lava from a volcano or a huge shark leaping from the water. The person stays calm and relaxed, as if nothing is wrong. Photorealistic, like a real photo taken on a phone. Vertical 9:16. Exactly the people from the photo in front, no extra people close to the camera. No text, no letters, no numbers, no logos, no airline or rail company names anywhere."
+    },
+    {
+      "label": "3. Press the film button on the still to open AI Video with the still as the first frame. Settings: Seedance 2.5, 7 s, 720p, 9:16, sound on. The video prompt",
+      "variant": null,
+      "kind": "video_prompt",
+      "text": "Use the image as the first frame and keep everything in it: the same person, face, clothes, pose and composition. No camera movement. The person stays calm and relaxed the whole time, looks at the camera with a small, confident smile and small, natural head movements, as if nothing is wrong. They do not panic, they do not look behind them, and they do not speak. Behind them the danger in the picture comes to life and moves closer, bigger and more dramatic, while they ignore it. Only at the very end it is right behind them. Sound: the loud, realistic sound of that danger. No music. Nobody is hurt and nothing hits the person: the clip ends a moment before the danger reaches them. The same person and the same face from the first frame to the last. No text, no subtitles, no logos."
+    }
+  ],
+  "variant_headings": [
+    "What is the AI Danger Video trend, and where did it start?",
+    "AI Danger Video trend timeline",
+    "What the AI Danger Video video looks like",
+    "How to make the AI Danger Video video on MakeViral",
+    "Which photo works best?",
+    "AI Danger Video trend questions",
+    "What is the AI danger video trend?",
+    "How do I make an AI danger hook with my photo?",
+    "Is this an AI hook video generator?",
+    "Is there an AI tsunami video version?",
+    "Can I make an AI jet engine video like the original?",
+    "Can I get just an AI danger photo?",
+    "Does anyone get hurt in the video?",
+    "Is the video real?",
+    "Other AI video templates and tools",
+    "Make your own AI Danger Video video"
+  ],
+  "prompt_count": 10,
+  "scraped_at": "2026-10-23"
+}

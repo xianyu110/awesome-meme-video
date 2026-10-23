@@ -48,7 +48,7 @@ Everything runs in the browser. No editing app, no watermark.
 
 1. **Add your photo.** Press "Make yours" and add you, waist up, your top in view. Take it with the camera or pick it from your library. Start here: https://www.makeviral.ai/templates/hole-in-shirt-ai-effect/create
 2. **Press Generate.** The button shows the price. MakeViral builds the Hole in Shirt scene with your photos, then Kling 3.0 animates it for 8 seconds with original sound. You write no prompt.
-3. **Download or share.** The video is ready in a few minutes as a 9:16 MP4. Download it, share it from your phone, or find it later in your Library.
+3. **Download or share.** The video is ready in a few minutes as a 9:16 MP4. Download it, share it from your phone, or find it later in My videos.
 
 ### The by-hand way, with the exact prompts
 
@@ -195,7 +195,7 @@ Yes. The Photo version costs a few credits; the Video versions cost more, becaus
 
 ### Is my photo private?
 
-Yes. MakeViral does not post your photo or the result anywhere or show them to other users. The result goes to your private Library, and you can delete it there at any time.
+Yes. MakeViral does not post your photo or the result anywhere or show them to other users. The result goes to your private My videos page, and you can delete it there at any time.
 
 ## Other AI video templates and tools
 

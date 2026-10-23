@@ -54,7 +54,7 @@ Everything runs in the browser. No editing app, no watermark.
 
 1. **Add your photo.** Press "Make yours" and add your pet. Take it with the camera or pick it from your library. Start here: https://www.makeviral.ai/templates/single-ladies-dog-dance-ai/create
 2. **Press Generate.** The button shows the price. Seedance 2.5 puts your photos into the Single Ladies dog dance trend clip and copies it shot by shot for 15 seconds, with the reel's original song. You write no prompt.
-3. **Download or share.** The video is ready in up to several minutes as a 9:16 MP4. Download it, share it from your phone, or find it later in your Library.
+3. **Download or share.** The video is ready in up to several minutes as a 9:16 MP4. Download it, share it from your phone, or find it later in My videos.
 
 ### The by-hand way, with the exact prompts
 
@@ -181,7 +181,7 @@ Beyoncé's "Single Ladies (Put a Ring on It)" from 2008, in the edit TikTok danc
 
 ### How do I make my dog dance like Beyoncé?
 
-Press "Create your own", keep Pet picked, and add one sharp photo of your dog with the whole body in view. Press Generate; the button shows the price first. You get a 15-second vertical clip of your dog in the middle spot, with the backup dancers and the song. You write no prompt, and the video waits in your Library when it is ready.
+Press "Create your own", keep Pet picked, and add one sharp photo of your dog with the whole body in view. Press Generate; the button shows the price first. You get a 15-second vertical clip of your dog in the middle spot, with the backup dancers and the song. You write no prompt, and the video waits in My videos when it is ready.
 
 ### Does it work with a cat?
 

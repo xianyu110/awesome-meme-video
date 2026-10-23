@@ -48,7 +48,7 @@ Everything runs in the browser. No editing app, no watermark.
 
 1. **Add your photo.** Press "Make yours" and add your pet. Take it with the camera or pick it from your library. Start here: https://www.makeviral.ai/templates/i-wanna-love-you-ai-pet/create
 2. **Press Generate.** The button shows the price. Seedance 2.5 puts your photos into the I Wanna Love You trend clip and copies it shot by shot for 13 seconds, with the reel's original song. You write no prompt.
-3. **Download or share.** The video is ready in up to several minutes as a 9:16 MP4. Download it, share it from your phone, or find it later in your Library.
+3. **Download or share.** The video is ready in up to several minutes as a 9:16 MP4. Download it, share it from your phone, or find it later in My videos.
 
 ### The by-hand way, with the exact prompts
 
@@ -212,7 +212,7 @@ It is the same routine. The first viral clip shows a character in the style of J
 
 ### How do I make the I Wanna Love You cat AI video with my pet?
 
-Press "Create your own" and add one clear photo of your pet. Press Generate; the button shows the price first. You get a 13-second vertical clip with the song. You write no prompt, and the video waits in your Library when it is ready.
+Press "Create your own" and add one clear photo of your pet. Press Generate; the button shows the price first. You get a 13-second vertical clip with the song. You write no prompt, and the video waits in My videos when it is ready.
 
 ### Is there an I Wanna Love You dog version?
 

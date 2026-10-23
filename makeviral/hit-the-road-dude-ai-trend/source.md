@@ -51,7 +51,7 @@ Everything runs in the browser. No editing app, no watermark.
 
 1. **Add your photo.** Press "Make yours" and add your photo, face clear. Take it with the camera or pick it from your library. Start here: https://www.makeviral.ai/templates/hit-the-road-dude-ai-trend/create
 2. **Press Generate.** The button shows the price. Seedance 2.5 puts your photos into the Hit the Road Dude trend clip and copies it shot by shot for 11 seconds, with the reel's original song. You write no prompt.
-3. **Download or share.** The video is ready in up to several minutes as a 16:9 MP4. Download it, share it from your phone, or find it later in your Library.
+3. **Download or share.** The video is ready in up to several minutes as a 16:9 MP4. Download it, share it from your phone, or find it later in My videos.
 
 ### The by-hand way, with the exact prompts
 
@@ -257,7 +257,7 @@ Yes. Pick Pet. It copies @oddframeco's AI bulldog clip: your pet sits at the whe
 
 ### How do I make the Hit the Road Dude AI video with my photo?
 
-Press "Create your own", pick Human or Pet and add one clear photo. Press Generate; the button shows the price first. You get an 11-second clip with the original audio, and it waits in your Library when it is ready. You write no prompt.
+Press "Create your own", pick Human or Pet and add one clear photo. Press Generate; the button shows the price first. You get an 11-second clip with the original audio, and it waits in My videos when it is ready. You write no prompt.
 
 ### Which prompt does this template use?
 

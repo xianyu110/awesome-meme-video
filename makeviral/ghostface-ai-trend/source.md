@@ -56,7 +56,7 @@ Everything runs in the browser. No editing app, no watermark.
 
 1. **Add your photo.** Press "Make yours" and add your selfie, face clear. Take it with the camera or pick it from your library. Start here: https://www.makeviral.ai/templates/ghostface-ai-trend/create
 2. **Press Generate.** The button shows the price. Nano Banana 2.1 puts your photo into the Ghostface scene and makes one 2K photo. You write no prompt.
-3. **Download or share.** The photo is ready in a few minutes as a 9:16 2K image. Download it, share it from your phone, turn it into a video, or find it later in your Library.
+3. **Download or share.** The photo is ready in a few minutes as a 9:16 2K image. Download it, share it from your phone, turn it into a video, or find it later in My videos.
 
 ### The by-hand way, with the exact prompts
 
@@ -188,7 +188,7 @@ It is an AI Halloween photo trend that started on TikTok and Instagram in late S
 
 ### How do I do the Ghostface AI trend?
 
-On this page, press "Create your own", add one clear selfie and press Generate. MakeViral puts you into the scene with the masked figure behind you, and the photo lands in your Library. You write no prompt. To do it by hand instead, copy the photo prompt on this page into an image model that accepts a reference photo, such as Gemini.
+On this page, press "Create your own", add one clear selfie and press Generate. MakeViral puts you into the scene with the masked figure behind you, and the photo lands in My videos. You write no prompt. To do it by hand instead, copy the photo prompt on this page into an image model that accepts a reference photo, such as Gemini.
 
 ### What is the Ghostface AI prompt?
 
@@ -252,7 +252,7 @@ It is a different thing. In late May 2026 the Scary Movie team launched subservi
 
 ### Is my photo safe?
 
-Your result goes to your Library, not to a public feed. MakeViral does not post it anywhere, and you can delete it from your Library at any time. Use your own photo, or the photo of an adult who agreed, and never someone else's face without asking them.
+Your result goes to My videos, not to a public feed. MakeViral does not post it anywhere, and you can delete it from My videos at any time. Use your own photo, or the photo of an adult who agreed, and never someone else's face without asking them.
 
 ### Does the Ghostface AI trend cost credits?
 
@@ -260,7 +260,7 @@ Yes. The photo costs a few credits, and the photo plus video costs more, because
 
 ### How long does it take?
 
-The photo usually is quick, a little longer when many people make one at the same time. The photo plus video takes a few minutes: first the photo, then the clip. You can leave the page while it runs, and the result waits in your Library.
+The photo usually is quick, a little longer when many people make one at the same time. The photo plus video takes a few minutes: first the photo, then the clip. You can leave the page while it runs, and the result waits in My videos.
 
 ### Why does my Ghostface photo not look like me?
 

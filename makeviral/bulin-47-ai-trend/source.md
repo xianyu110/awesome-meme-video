@@ -55,7 +55,7 @@ Everything runs in the browser. No editing app, no watermark.
 
 1. **Add your photo.** Press "Make yours" and add your face. Take it with the camera or pick it from your library. Start here: https://www.makeviral.ai/templates/bulin-47-ai-trend/create
 2. **Press Generate.** The button shows the price. Seedance 2.5 puts your photos into the Bulin 47 freestyle trend clip and copies it shot by shot for 10 seconds, with the reel's original song. You write no prompt.
-3. **Download or share.** The video is ready in up to several minutes as a 9:16 MP4. Download it, share it from your phone, or find it later in your Library.
+3. **Download or share.** The video is ready in up to several minutes as a 9:16 MP4. Download it, share it from your phone, or find it later in My videos.
 
 ### The by-hand way, with the exact prompts
 
@@ -183,7 +183,7 @@ The freestyle and its beat belong to their owners, and MakeViral gives you no ri
 | A beard or the original hair comes back | Run it again with a clearer photo of your face. The prompt asks for your own facial hair and hair. |
 | Your pet's face looks like the cat in the reel | Use a close, sharp photo of your pet's face with both ears in view, then run it again. Results differ from run to run. |
 | The model refuses the photo | Some models refuse some real faces. The credits come back; try another photo. |
-| You want the song off | Turn it off on the result screen. The silent copy stays in your Library. |
+| You want the song off | Turn it off on the result screen. The silent copy stays in My videos. |
 
 ## Bulin 47 Freestyle trend questions
 
@@ -205,7 +205,7 @@ Its English meaning is "give me shoulder". It is the line people took from the f
 
 ### How do I make the Bulin 47 AI video with my photo?
 
-Press "Create your own" on this page, pick Human or Pet, and add one photo. Press Generate; the button shows the price first. Human makes a 10-second vertical Bulin 47 freestyle AI video with your face in the reel. Pet makes a 14-second one with your pet's head on the dancing character. You write no prompt, and the video waits in your Library when it is ready.
+Press "Create your own" on this page, pick Human or Pet, and add one photo. Press Generate; the button shows the price first. Human makes a 10-second vertical Bulin 47 freestyle AI video with your face in the reel. Pet makes a 14-second one with your pet's head on the dancing character. You write no prompt, and the video waits in My videos when it is ready.
 
 ### Can I make it with my cat or dog?
 
@@ -245,9 +245,9 @@ Outside a restaurant in Spain, according to Listín Diario and El Nuevo Diario. 
 
 ## Other AI video templates and tools
 
+- [Bulin 47 Dance AI: Do the Dame Hombro Dance From One Photo](https://www.makeviral.ai/templates/bulin-47-dance-ai-trend): The side-on groove, the shoulder shimmies, the arms out wide and the heart at the chest, all on the Dame Hombro beat. Dance it alone in your own photo's place or with two friends in the AI crew line, with the song on. A baby photo works too.
 - [Hotel Lobby AI: Make the Hotel Lobby Trend Video](https://www.makeviral.ai/templates/ai-hotel-lobby-trend): You and a friend, or your two pets, trade a rap into one hanging mic in a bright orange booth. Step into the real clip or the viral cat version with the original song, or get a new 10-second version with an original beat.
 - [Burning Bridges AI Trend: Put Yourself in the "Where She At?" Party](https://www.makeviral.ai/templates/burning-bridges-ai-trend): Take the lead at a packed party under crystal chandeliers: a silver cup in your hand, rapping to the camera, then one hand over your eyes as you scan the room for her. One photo, 15 seconds, with the song.
-- [Knight Cat AI Video: Make Your Cat or Dog the Kitten Knight](https://www.makeviral.ai/templates/knight-cat-ai-video): Your cat or dog becomes the tiny knight: fitted silver armor, a sword twice its height and a cape snapping in the wind on a misty moor. Add your own photo to stand beside it as the big knight, or put your pet into the viral reels themselves.
 - [AI TikTok Video](https://www.makeviral.ai/tools/ai-tiktok-video-generator): Eight native TikTok formats, one prompt or product URL, a finished 9:16 video with captions burned in.
 - [Meme Video](https://www.makeviral.ai/tools/meme-video-generator): One line of text, one image, six seconds. The cheapest format to produce and the easiest one to test ten different ways in an afternoon.
 - [AI photo generator](https://www.makeviral.ai/ai-photo-generator)

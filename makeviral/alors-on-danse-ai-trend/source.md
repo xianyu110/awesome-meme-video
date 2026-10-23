@@ -54,7 +54,7 @@ Everything runs in the browser. No editing app, no watermark.
 
 1. **Add the two photos.** Press "Make yours" and add dj at the keyboard, then mc who claps. Add them in this order, because the order decides who is who in the scene. Take them with the camera or pick them from your library. Start here: https://www.makeviral.ai/templates/alors-on-danse-ai-trend/create
 2. **Press Generate.** The button shows the price. Seedance 2.5 puts your photos into the Alors On Danse trend clip and copies it shot by shot for 11 seconds, with the reel's original song. You write no prompt.
-3. **Download or share.** The video is ready in up to several minutes as a 16:9 MP4. Download it, share it from your phone, or find it later in your Library.
+3. **Download or share.** The video is ready in up to several minutes as a 16:9 MP4. Download it, share it from your phone, or find it later in My videos.
 
 ### The by-hand way, with the exact prompts
 
@@ -200,7 +200,7 @@ It is a scripted sketch from Made in Jamel, a 2010 comedy DVD by Jamel Debbouze.
 
 ### How do I make the Alors On Danse AI video with my own photos?
 
-Press "Create your own" and choose Human or Pet. Add photo 1, the DJ at the keyboard, then photo 2, the MC who claps and leans in, and press Generate. The button shows the price first. You get a clip with the reel's sound (11 seconds for Human, 15 for Pet), and the video waits in your Library when it is ready. You write no prompt.
+Press "Create your own" and choose Human or Pet. Add photo 1, the DJ at the keyboard, then photo 2, the MC who claps and leans in, and press Generate. The button shows the price first. You get a clip with the reel's sound (11 seconds for Human, 15 for Pet), and the video waits in My videos when it is ready. You write no prompt.
 
 ### Which photo is the DJ and which is the MC?
 

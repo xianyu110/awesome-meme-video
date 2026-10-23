@@ -50,7 +50,7 @@ Everything runs in the browser. No editing app, no watermark.
 
 1. **Add your photo.** Press "Make yours" and add you, face clear. Take it with the camera or pick it from your library. Start here: https://www.makeviral.ai/templates/ai-day-of-the-dead-makeup/create
 2. **Press Generate.** The button shows the price. Nano Banana 2.1 puts your photo into the Catrina makeup scene and makes one 2K photo. You write no prompt.
-3. **Download or share.** The photo is ready in a few minutes as a 9:16 2K image. Download it, share it from your phone, turn it into a video, or find it later in your Library.
+3. **Download or share.** The photo is ready in a few minutes as a 9:16 2K image. Download it, share it from your phone, turn it into a video, or find it later in My videos.
 
 ### The by-hand way, with the exact prompts
 
@@ -206,7 +206,7 @@ It is the skull face paint of La Catrina, the elegant skeleton lady of Mexico's 
 
 ### How do I try Catrina makeup on my photo with AI?
 
-Press "Create your own", add one clear selfie and pick a look: Skull crown, Catrina, Catrín or Marigold field. Press Generate. Nano Banana 2.1 paints the Catrina look on your face and returns one 2K portrait, usually in a few minutes, and it lands in your Library.
+Press "Create your own", add one clear selfie and pick a look: Skull crown, Catrina, Catrín or Marigold field. Press Generate. Nano Banana 2.1 paints the Catrina look on your face and returns one 2K portrait, usually in a few minutes, and it lands in My videos.
 
 ### What is the Catrina AI prompt?
 
@@ -254,7 +254,7 @@ This template is made for adults: the prompts describe a woman or a man. For a p
 
 ### Is my photo private?
 
-Yes. MakeViral does not post your photo or the result anywhere or show it to other users. The result goes to your private Library, and you can delete it there at any time.
+Yes. MakeViral does not post your photo or the result anywhere or show it to other users. The result goes to your private My videos page, and you can delete it there at any time.
 
 ## Other AI video templates and tools
 

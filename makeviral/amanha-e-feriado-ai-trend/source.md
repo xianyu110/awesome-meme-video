@@ -51,7 +51,7 @@ Everything runs in the browser. No editing app, no watermark.
 
 1. **Add your photo.** Press "Make yours" and add you, face clear. Take it with the camera or pick it from your library. Start here: https://www.makeviral.ai/templates/amanha-e-feriado-ai-trend/create
 2. **Press Generate.** The button shows the price. Seedance 2.5 puts your photos into the Amanhã é feriado trend clip and copies it shot by shot for 20 seconds, with the reel's original song. You write no prompt.
-3. **Download or share.** The video is ready in up to several minutes as a 9:16 MP4. Download it, share it from your phone, or find it later in your Library.
+3. **Download or share.** The video is ready in up to several minutes as a 9:16 MP4. Download it, share it from your phone, or find it later in My videos.
 
 ### The by-hand way, with the exact prompts
 
@@ -127,7 +127,7 @@ One step, one model. The video model takes your photo and our cut of the origina
 
 Only the man changes. The reporter at the edge of the frame and the people in the club stay as they are in the clip. The TV channel's logo on the microphone is removed. The example on this page is that same clip, the original meme, with the dub on it.
 
-The exact price shows on the Generate button before you spend anything, and the video waits in your Library when it is ready. You write no prompt.
+The exact price shows on the Generate button before you spend anything, and the video waits in My videos when it is ready. You write no prompt.
 
 ## What goes wrong, and how do you fix it?
 
@@ -177,7 +177,7 @@ No creator shared one. @jhonystark8 says he made his remake with Nano Banana Pro
 
 ### How do I make the amanhã é feriado video with my photo?
 
-Press "Create your own", add one clear photo of yourself and press Generate; the button shows the price first. You get a 20-second vertical clip of you in the club interview, from the first complaint to the dance, with the Brazilian dub. The video waits in your Library when it is ready.
+Press "Create your own", add one clear photo of yourself and press Generate; the button shows the price first. You get a 20-second vertical clip of you in the club interview, from the first complaint to the dance, with the Brazilian dub. The video waits in My videos when it is ready.
 
 ### Can I use a photo of a child?
 

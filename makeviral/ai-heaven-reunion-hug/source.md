@@ -53,7 +53,7 @@ Everything runs in the browser. No editing app, no watermark.
 
 1. **Add the two photos.** Press "Make yours" and add you, then your loved one. Add them in this order, because the order decides who is who in the scene. Take them with the camera or pick them from your library. Start here: https://www.makeviral.ai/templates/ai-heaven-reunion-hug/create
 2. **Press Generate.** The button shows the price. Seedance 2.5 films the Heaven hug scene straight from your photos, with no in-between picture, for 10 seconds with original sound. You write no prompt.
-3. **Download or share.** The video is ready in a few minutes as a 9:16 MP4. Download it, share it from your phone, or find it later in your Library.
+3. **Download or share.** The video is ready in a few minutes as a 9:16 MP4. Download it, share it from your phone, or find it later in My videos.
 
 ### The by-hand way, with the exact prompts
 
@@ -149,7 +149,7 @@ Pick the scene on the create page. Both make a 10-second vertical heaven reunion
 | **Stairway** | You run up a stairway of glowing golden steps through the clouds. Your loved one waits at the top in a doorway of light with open arms, and you hold each other. This is the stairway to heaven AI video of the US posts. |
 | **Cloud run** | You run across a sea of golden clouds, stop as you recognize someone, and run into their arms. This is the Día de Muertos AI video of the Mexican posts, the *abrazo en el cielo IA* or *reencuentro en el cielo IA*. |
 
-Seedance 2.5 makes each heaven reunion AI video straight from your two photos, with no in-between picture, so both faces stay close to the photos. The clip is 720p with soft original piano music. The exact price shows on the Generate button before you spend anything, and the video waits in your Library when it is ready.
+Seedance 2.5 makes each heaven reunion AI video straight from your two photos, with no in-between picture, so both faces stay close to the photos. The clip is 720p with soft original piano music. The exact price shows on the Generate button before you spend anything, and the video waits in My videos when it is ready.
 
 ## Who people make it for
 
@@ -189,7 +189,7 @@ It is an AI video trend in which people turn a photo of themselves and a photo o
 
 ### How do I make a heaven reunion video?
 
-Press "Create your own", pick Stairway or Cloud run, add a photo of you as photo 1 and a photo of your loved one as photo 2, and press Generate. The button shows the price first. You get a 10-second vertical video in your Library, with no CapCut template needed.
+Press "Create your own", pick Stairway or Cloud run, add a photo of you as photo 1 and a photo of your loved one as photo 2, and press Generate. The button shows the price first. You get a 10-second vertical video in My videos, with no CapCut template needed.
 
 ### What is the stairway to heaven AI trend?
 
@@ -265,7 +265,7 @@ Yes. The create page shows the exact price on the Generate button before you spe
 
 ### Are my photos private?
 
-Yes. MakeViral does not post your photos or the result anywhere or show them to other users. The video goes to your private Library, and you can delete it there at any time.
+Yes. MakeViral does not post your photos or the result anywhere or show them to other users. The video goes to your private My videos page, and you can delete it there at any time.
 
 ## Other AI video templates and tools
 

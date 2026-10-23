@@ -52,7 +52,7 @@ Everything runs in the browser. No editing app, no watermark.
 
 1. **Add your photo.** Press "Make yours" and add your photo, hair down below the chin. Take it with the camera or pick it from your library. Start here: https://www.makeviral.ai/templates/ai-bob-haircut-filter/create
 2. **Press Generate.** The button shows the price. Seedance 2.5 films the Bob Filter Prank scene straight from your photo, with no in-between picture, for 10 seconds with original sound. You write no prompt.
-3. **Download or share.** The video is ready in a few minutes as a 9:16 MP4. Download it, share it from your phone, or find it later in your Library.
+3. **Download or share.** The video is ready in a few minutes as a 9:16 MP4. Download it, share it from your phone, or find it later in My videos.
 
 ### The by-hand way, with the exact prompts
 
@@ -181,7 +181,7 @@ From AI templates in CapCut. The first ones appeared in early August 2026, and t
 
 ### How do I do the bob filter prank?
 
-Press "Create your own", pick Haircut video or Bob photo, add one photo with your hair down and press Generate. MakeViral makes the video or the picture and puts it in your Library. You need no CapCut template and no prompt.
+Press "Create your own", pick Haircut video or Bob photo, add one photo with your hair down and press Generate. MakeViral makes the video or the picture and puts it in My videos. You need no CapCut template and no prompt.
 
 ### Is it a real filter? Does anything get cut?
 
@@ -217,7 +217,7 @@ Yes. The Bob photo costs a few credits, and the Haircut video costs more, becaus
 
 ### Is my photo private?
 
-Yes. MakeViral does not post your photo or the result anywhere or show them to other users. The result goes to your private Library, and you can delete it there at any time.
+Yes. MakeViral does not post your photo or the result anywhere or show them to other users. The result goes to your private My videos page, and you can delete it there at any time.
 
 ### Is the bob filter the same as the AI haircut filter?
 

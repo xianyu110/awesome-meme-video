@@ -51,7 +51,7 @@ Everything runs in the browser. No editing app, no watermark.
 
 1. **Add your photo.** Press "Make yours" and add your photo, room beside you. Take it with the camera or pick it from your library. Start here: https://www.makeviral.ai/templates/ryuk-ai-trend/create
 2. **Press Generate.** The button shows the price. Nano Banana 2.1 puts your photo into the Ryuk AI scene and makes one 2K photo. You write no prompt.
-3. **Download or share.** The photo is ready in a few minutes as a 9:16 2K image. Download it, share it from your phone, turn it into a video, or find it later in your Library.
+3. **Download or share.** The photo is ready in a few minutes as a 9:16 2K image. Download it, share it from your phone, turn it into a video, or find it later in My videos.
 
 ### The by-hand way, with the exact prompts
 
@@ -162,7 +162,7 @@ It is an AI photo trend from October 2026: you add one photo of yourself, and AI
 
 ### How do I do the Ryuk spotted trend?
 
-Press "Create your own" on this page, add one clear photo of yourself with a little room beside you, and press Generate. The photo lands in your Library. You do not need CapCut, a green screen or a prompt of your own.
+Press "Create your own" on this page, add one clear photo of yourself with a little room beside you, and press Generate. The photo lands in My videos. You do not need CapCut, a green screen or a prompt of your own.
 
 ### What is the Ryuk AI prompt?
 
@@ -194,7 +194,7 @@ The model rebuilds your face from one photo, so a dark, blurry or side-on photo 
 
 ### Is my photo safe?
 
-Your result goes to your Library, not to a public feed. MakeViral does not post it anywhere, and you can delete it from your Library at any time. Use your own photo, or the photo of an adult who agreed.
+Your result goes to My videos, not to a public feed. MakeViral does not post it anywhere, and you can delete it from My videos at any time. Use your own photo, or the photo of an adult who agreed.
 
 ## Other AI video templates and tools
 

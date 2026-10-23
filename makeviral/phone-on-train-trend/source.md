@@ -55,7 +55,7 @@ Everything runs in the browser. No editing app, no watermark.
 
 1. **Add your photo.** Press "Make yours" and add your photo, waist up, face close. Take it with the camera or pick it from your library. Start here: https://www.makeviral.ai/templates/phone-on-train-trend/create
 2. **Press Generate.** The button shows the price. Seedance 2.5 puts your photos into the Phone on the train trend clip and copies it shot by shot for 22 seconds, then keeps the reel's own ending, with the reel's original song. You write no prompt.
-3. **Download or share.** The video is ready in up to several minutes as a 9:16 MP4. Download it, share it from your phone, or find it later in your Library.
+3. **Download or share.** The video is ready in up to several minutes as a 9:16 MP4. Download it, share it from your phone, or find it later in My videos.
 
 ### The by-hand way, with the exact prompts
 
@@ -139,7 +139,7 @@ Seedance 2.5 takes the first 22 seconds of the reel and your photo, and puts you
 | Sound | The reel's song, which you can turn off | The same | The same |
 | Photos | 1 | 1 | 1 |
 
-You pick the quality on the create page, and the exact price shows on the Generate button before you spend anything. HD and Ultra HD cost more because the model is billed per second of the reel and of the result, and more for more pixels. The video waits in your Library when it is ready, within several minutes.
+You pick the quality on the create page, and the exact price shows on the Generate button before you spend anything. HD and Ultra HD cost more because the model is billed per second of the reel and of the result, and more for more pixels. The video waits in My videos when it is ready, within several minutes.
 
 ## How do they tape the phone to the train, and how do they get it back?
 
@@ -184,7 +184,7 @@ The earliest clip we found is by the Canadian artist Manafest, on 8 June 2026. I
 
 ### How do I make the phone on the train video without a real train?
 
-Press "Create your own", add one clear photo of yourself and press Generate. The button shows the price first. You get a 33-second vertical video with the reel's song: you on the Paris platform, the run beside the train and the Eiffel Tower view. You write no prompt, and the video waits in your Library when it is ready.
+Press "Create your own", add one clear photo of yourself and press Generate. The button shows the price first. You get a 33-second vertical video with the reel's song: you on the Paris platform, the run beside the train and the Eiffel Tower view. You write no prompt, and the video waits in My videos when it is ready.
 
 ### Do I need to tape my phone to a real train?
 
@@ -216,9 +216,9 @@ Yes. Each video costs credits, and the create page shows the exact price on the 
 
 ## Other AI video templates and tools
 
+- [Training Season Dance AI: Your Face in the Paris Outfit Reel](https://www.makeviral.ai/templates/training-season-dance-ai-trend): Four hard cuts on the beat, four outfits, four Paris spots: the garden at sunset, the tower at night, the metro entrance and the glass pyramid. You lip-sync and dance the chorus in every one, with the song on.
 - [AI Airport Celebrity Video: Walk Out of Arrivals Like a Star](https://www.makeviral.ai/templates/ai-airport-star-arrival): Fans behind the barriers, phones up, flashes going off, bodyguards clearing your path: you walk out of the arrival gate as a star, wave to a fan and get into a waiting car. Or arrive at a hotel at night: you step out of a black luxury car onto the red carpet. One photo of you or your pet in, a 15-second clip with crowd sound out.
 - [24 Unforgettable Car Trend AI: Flick the 2 and 4, Reveal Your Car](https://www.makeviral.ai/templates/unforgettable-car-trend-ai): You walk up to the camera, hold up a 2 and a 4, flick both cards at the lens, and a sports car is parked behind you. One photo, add a photo of the car you want, swap the car for a private jet, or make the car backflip on thrusters. 10 to 14 seconds, with the song from the viral clips.
-- [My Ride Is Here: Hop on the Broom and Fly Off Beside the Car](https://www.makeviral.ai/templates/my-ride-is-here-broom-trend): You walk down a forest road next to a moving car, broom in hand, look back with a smile, hop on and fly up over the pines, like the viral witch reel. One photo in, a 10-second clip with the reel's own sound out.
 - [AI TikTok Video](https://www.makeviral.ai/tools/ai-tiktok-video-generator): Eight native TikTok formats, one prompt or product URL, a finished 9:16 video with captions burned in.
 - [AI Reels](https://www.makeviral.ai/tools/ai-reels-generator): Pick a format, give it a topic or a product link, and get a finished vertical reel with voice and captions. Nothing to film, nothing to edit.
 - [AI photo generator](https://www.makeviral.ai/ai-photo-generator)

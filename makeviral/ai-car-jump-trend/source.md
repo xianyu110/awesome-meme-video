@@ -48,7 +48,7 @@ Everything runs in the browser. No editing app, no watermark.
 
 1. **Add your photo.** Press "Make yours" and add your photo. Take it with the camera or pick it from your library. Start here: https://www.makeviral.ai/templates/ai-car-jump-trend/create
 2. **Press Generate.** The button shows the price. Seedance 2.5 puts your photos into the Car Jump trend clip and copies it shot by shot for 10 seconds, with the reel's original song. You write no prompt.
-3. **Download or share.** The video is ready in up to several minutes as a 9:16 MP4. Download it, share it from your phone, or find it later in your Library.
+3. **Download or share.** The video is ready in up to several minutes as a 9:16 MP4. Download it, share it from your phone, or find it later in My videos.
 
 ### The by-hand way, with the exact prompts
 
@@ -202,7 +202,7 @@ The creator shared no prompt. The how-tos shared one for Google Flow from 29 Sep
 
 ### How do I make the car jump AI video with my photo?
 
-Pick Any car or Your car, press "Create your own" and add your photo, plus a photo of your car for Your car. Press Generate; the button shows the price first. You get a 10-second vertical clip with the reel's sound, and it waits in your Library when it is ready.
+Pick Any car or Your car, press "Create your own" and add your photo, plus a photo of your car for Your car. Press Generate; the button shows the price first. You get a 10-second vertical clip with the reel's sound, and it waits in My videos when it is ready.
 
 ### Can I put my own car in it?
 

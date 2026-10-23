@@ -52,7 +52,7 @@ Everything runs in the browser. No editing app, no watermark.
 
 1. **Add your photo.** Press "Make yours" and add you (or your grandma), full body. Take it with the camera or pick it from your library. Start here: https://www.makeviral.ai/templates/yamal-no-rabona-ai-trend/create
 2. **Press Generate.** The button shows the price. Seedance 2.5 films the Yamal rabona scene straight from your photo, with no in-between picture, for 8 seconds with original sound. You write no prompt.
-3. **Download or share.** The video is ready in a few minutes as a 9:16 MP4. Download it, share it from your phone, or find it later in your Library.
+3. **Download or share.** The video is ready in a few minutes as a 9:16 MP4. Download it, share it from your phone, or find it later in My videos.
 
 ### The by-hand way, with the exact prompts
 
@@ -243,7 +243,7 @@ An October 2026 trend where AI puts someone else into Yamal's fake rabona: a gra
 
 ### How do I make the Yamal rabona AI video?
 
-Press "Create your own", pick a version (Fake rabona, Friend defender or Pet defender), add one or two full-body photos, and press Generate. The button shows the price first. You get an 8-second vertical clip with crowd sound, and you write no prompt. It waits in your Library when it is ready.
+Press "Create your own", pick a version (Fake rabona, Friend defender or Pet defender), add one or two full-body photos, and press Generate. The button shows the price first. You get an 8-second vertical clip with crowd sound, and you write no prompt. It waits in My videos when it is ready.
 
 ### Do I need the Lamine Yamal CapCut template?
 

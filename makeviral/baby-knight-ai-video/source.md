@@ -55,7 +55,7 @@ Everything runs in the browser. No editing app, no watermark.
 
 1. **Add the two photos.** Press "Make yours" and add mom or dad, then your child (twins: both in one photo). Add them in this order, because the order decides who is who in the scene. Take them with the camera or pick them from your library. Start here: https://www.makeviral.ai/templates/baby-knight-ai-video/create
 2. **Press Generate.** The button shows the price. Seedance 2.5 films the Baby knight scene straight from your photos, with no in-between picture, for 10 seconds with original sound. You write no prompt.
-3. **Download or share.** The video is ready in a few minutes as a 9:16 MP4. Download it, share it from your phone, or find it later in your Library.
+3. **Download or share.** The video is ready in a few minutes as a 9:16 MP4. Download it, share it from your phone, or find it later in My videos.
 
 ### The by-hand way, with the exact prompts
 
@@ -150,7 +150,7 @@ It can be, if you keep to a few rules.
 - **Only your own child**, or a child whose parent or guardian asked you to make it. Never a child you do not know, and never a photo taken from someone else's account.
 - **The result is AI-made.** The armor, the moor and the whole scene are generated; none of it happened. Keep the AI label on when you post, so nobody takes it for real footage.
 - **The scene is gentle on purpose.** The prompts keep the child brave, not scared: no crying, no screaming, no fighting, and the parent takes the heavy sword away.
-- **Your video goes to your Library, not to a public feed.** MakeViral does not post it anywhere, and you can delete it from your Library at any time.
+- **Your video goes to My videos, not to a public feed.** MakeViral does not post it anywhere, and you can delete it from My videos at any time.
 - **Think before you post a child's face publicly.** A family chat, a close-friends story or a private account are good homes for it too.
 - **Real people only with their consent.** Use your own face as the parent, never a celebrity or someone who did not agree.
 
@@ -194,7 +194,7 @@ The viral @gazizaaz reel uses "Outro" by M83. Your MakeViral clip has its own or
 
 ### How long is the video, and how long does it take to make?
 
-The clip is 10 seconds long, vertical 9:16, with sound. It is ready in a few minutes. You can leave the page while it runs, and the finished clip waits in your Library.
+The clip is 10 seconds long, vertical 9:16, with sound. It is ready in a few minutes. You can leave the page while it runs, and the finished clip waits in My videos.
 
 ### Does the baby knight video cost credits?
 

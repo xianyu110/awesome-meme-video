@@ -54,7 +54,7 @@ Everything runs in the browser. No editing app, no watermark.
 
 1. **Add the two photos.** Press "Make yours" and add pet who screams, then pet who dances. Add them in this order, because the order decides who is who in the scene. Take them with the camera or pick them from your library. Start here: https://www.makeviral.ai/templates/smalltown-boy-ai-dance/create
 2. **Press Generate.** The button shows the price. H3 Max Recast puts your photos into the Smalltown Boy trend clip and copies it shot by shot for 14 seconds, with the reel's original song. You write no prompt.
-3. **Download or share.** The video is ready in a few minutes as a 9:16 MP4. Download it, share it from your phone, or find it later in your Library.
+3. **Download or share.** The video is ready in a few minutes as a 9:16 MP4. Download it, share it from your phone, or find it later in My videos.
 
 ### The by-hand way, with the exact prompts
 
@@ -149,7 +149,7 @@ Both versions take the reel itself and put the pets or the people from your two 
 | Sound | The reel's original song, which you can turn off | The same |
 | Time | A few minutes | Up to several minutes |
 
-The two versions have different prices. The exact price shows on the Generate button before you spend anything, and the video waits in your Library when it is ready.
+The two versions have different prices. The exact price shows on the Generate button before you spend anything, and the video waits in My videos when it is ready.
 
 **Why these models?** In the scream and the lunge, the cats' faces fill the frame. In our tests on other reels, cheaper reference models kept the reel's own characters in shots like these, so both versions copy the reel itself. Pet uses MiniMax H3 Max Recast because, in our tests on cat reels, it kept the two pets from the photos in place of the reel's two cats. Human uses Seedance 2.5 because, in our tests, it kept the faces from the photos in every shot, also in big close-ups. It puts each person in a cat's place, in the person's own clothes.
 

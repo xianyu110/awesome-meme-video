@@ -52,7 +52,7 @@ Everything runs in the browser. No editing app, no watermark.
 
 1. **Add your photo.** Press "Make yours" and add you, chest up, face clear. Take it with the camera or pick it from your library. Start here: https://www.makeviral.ai/templates/i-put-my-heart-in-this-ai-trend/create
 2. **Press Generate.** The button shows the price. Seedance 2.5 puts your photos into the I Put My Heart in This trend clip and copies it shot by shot for 12 seconds, with the reel's original song. You write no prompt.
-3. **Download or share.** The video is ready in up to several minutes as a 16:9 MP4. Download it, share it from your phone, or find it later in your Library.
+3. **Download or share.** The video is ready in up to several minutes as a 16:9 MP4. Download it, share it from your phone, or find it later in My videos.
 
 ### The by-hand way, with the exact prompts
 
@@ -127,7 +127,7 @@ One step. The best AI video models available take your photo and our cut of the 
 
 Only the young man changes. The interviewer's hands, the street and the parked cars stay as they are in the clip, with the number plate blurred. The example on this page shows that clip with an AI-made man in his place, with the clip's own sound.
 
-The exact price shows on the Generate button before you spend anything, and the video waits in your Library when it is ready. You write no prompt.
+The exact price shows on the Generate button before you spend anything, and the video waits in My videos when it is ready. You write no prompt.
 
 ## What goes wrong, and how do you fix it?
 
@@ -185,7 +185,7 @@ We found no AI version and no shared prompt for this meme (TikTok search, 21 Oct
 
 ### How do I make the I put my heart in this meme with my photo?
 
-Press "Create your own", add one clear photo of yourself and press Generate; the button shows the price first. You get a 12-second clip of you in the street interview, from the question to "calm down, calm down", with the original sound. The video waits in your Library when it is ready.
+Press "Create your own", add one clear photo of yourself and press Generate; the button shows the price first. You get a 12-second clip of you in the street interview, from the question to "calm down, calm down", with the original sound. The video waits in My videos when it is ready.
 
 ### Can I use a photo of a child or a celebrity?
 

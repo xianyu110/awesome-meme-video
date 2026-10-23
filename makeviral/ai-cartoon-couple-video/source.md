@@ -47,7 +47,7 @@ Everything runs in the browser. No editing app, no watermark.
 
 1. **Add the two photos.** Press "Make yours" and add you (you show your stance), then your partner. Add them in this order, because the order decides who is who in the scene. Take them with the camera or pick them from your library. Start here: https://www.makeviral.ai/templates/ai-cartoon-couple-video/create
 2. **Press Generate.** The button shows the price. Seedance 2.5 films the AI Cartoon Couple scene straight from your photos, with no in-between picture, for 12 seconds with original sound. You write no prompt.
-3. **Download or share.** The video is ready in a few minutes as a 9:16 MP4. Download it, share it from your phone, or find it later in your Library.
+3. **Download or share.** The video is ready in a few minutes as a 9:16 MP4. Download it, share it from your phone, or find it later in My videos.
 
 ### The by-hand way, with the exact prompts
 
@@ -174,7 +174,7 @@ It is the show your stance trend from a funny animation clip of 19 October 2026 
 
 ### How do I make the AI cartoon couple video?
 
-Press "Create your own", pick Shop stance or Surprise kiss, add photo 1 (you) and photo 2 (your partner), and press Generate. The button shows the price first. You write no prompt and need no AI cartoon couple prompt: the skit, the music and the 3D cartoon look are built in. The video waits in your Library when it is ready.
+Press "Create your own", pick Shop stance or Surprise kiss, add photo 1 (you) and photo 2 (your partner), and press Generate. The button shows the price first. You write no prompt and need no AI cartoon couple prompt: the skit, the music and the 3D cartoon look are built in. The video waits in My videos when it is ready.
 
 ### Is this an AI cartoon video generator?
 

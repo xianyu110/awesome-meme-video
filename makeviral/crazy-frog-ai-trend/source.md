@@ -50,7 +50,7 @@ Everything runs in the browser. No editing app, no watermark.
 
 1. **Add your photo.** Press "Make yours" and add you, the rider. Take it with the camera or pick it from your library. Start here: https://www.makeviral.ai/templates/crazy-frog-ai-trend/create
 2. **Press Generate.** The button shows the price. Seedance 2.5 puts your photos into the Crazy Frog AI trend clip and copies it shot by shot for 11 seconds, with the reel's original song. You write no prompt.
-3. **Download or share.** The video is ready in up to several minutes as a 16:9 MP4. Download it, share it from your phone, or find it later in your Library.
+3. **Download or share.** The video is ready in up to several minutes as a 16:9 MP4. Download it, share it from your phone, or find it later in My videos.
 
 ### The by-hand way, with the exact prompts
 
@@ -301,7 +301,7 @@ The creator shared his prompt on 8 October 2026 in a file on Yandex Disk. It tel
 
 ### How do I make the Crazy Frog AI video with my photo?
 
-Pick a version, press "Create your own" and add your photo: one for Just you, two for You and a friend, three for Plus your car. Press Generate; the button shows the price first. You get an 11-second clip with the original sound, and it waits in your Library when it is ready.
+Pick a version, press "Create your own" and add your photo: one for Just you, two for You and a friend, three for Plus your car. Press Generate; the button shows the price first. You get an 11-second clip with the original sound, and it waits in My videos when it is ready.
 
 ### Can my friend chase me in the video?
 

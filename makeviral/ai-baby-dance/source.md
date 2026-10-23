@@ -58,7 +58,7 @@ Everything runs in the browser. No editing app, no watermark.
 
 1. **Add your photo.** Press "Make yours" and add your baby. Take it with the camera or pick it from your library. Start here: https://www.makeviral.ai/templates/ai-baby-dance/create
 2. **Press Generate.** The button shows the price. Kling 3.0 Motion Control takes the moves of the AI baby dance clip and plays them with the one in your photo, in your photo's own scene, for about 10 seconds, with the reel's original sound. You write no prompt.
-3. **Download or share.** The video is ready in a few minutes as a 9:16 MP4. Download it, share it from your phone, or find it later in your Library.
+3. **Download or share.** The video is ready in a few minutes as a 9:16 MP4. Download it, share it from your phone, or find it later in My videos.
 
 ### The by-hand way, with the exact prompts
 
@@ -139,7 +139,7 @@ It can be, if you keep to a few rules.
 
 - **Only your own child**, or a child whose parent or guardian asked you to. Never a photo taken from someone else's account.
 - **The result is AI-made.** Your baby never did these moves. Keep the AI label on when you post, so nobody takes it for real footage.
-- **Your video goes to your Library, not to a public feed.** MakeViral does not post it anywhere, and you can delete it at any time.
+- **Your video goes to My videos, not to a public feed.** MakeViral does not post it anywhere, and you can delete it at any time.
 - **Think before you post a baby's face publicly.** A family chat, a close-friends story or a private account are good homes for it too.
 - **The moves are cheeky, not mean.** The baby frowns, waves the camera off and says stop with both hands, the way a toddler says no.
 
@@ -176,7 +176,7 @@ It is the same trend with a newer dance. The AI baby sway dance was the first wa
 
 ### How do I make my baby dance with AI?
 
-Press "Create your own" on this page and add one clear photo of your baby, ideally standing or sitting upright with the whole body in view. Press Generate; the button shows the price first. You get a vertical clip of about 10 seconds with the trend's sound. You write no prompt, and the video waits in your Library when it is ready.
+Press "Create your own" on this page and add one clear photo of your baby, ideally standing or sitting upright with the whole body in view. Press Generate; the button shows the price first. You get a vertical clip of about 10 seconds with the trend's sound. You write no prompt, and the video waits in My videos when it is ready.
 
 ### Does my baby need to stand or walk to make the video?
 
@@ -204,7 +204,7 @@ No. This page copies the same routine without CapCut: add one photo of your baby
 
 ### Is there an app to make my baby dance with AI?
 
-You do not need an app. MakeViral is an AI baby dance generator on the web: it makes the clip from one photo in your browser, and the video waits in your Library.
+You do not need an app. MakeViral is an AI baby dance generator on the web: it makes the clip from one photo in your browser, and the video waits in My videos.
 
 ### Is it an AI baby dance filter?
 
@@ -216,7 +216,7 @@ It is not real. The AI baby dancing in the clip comes from one still photo, and 
 
 ### Is it safe to upload my baby's photo?
 
-Upload only a photo of your own child, or of a child whose parent or guardian asked you to. MakeViral does not post your video anywhere: it goes to your Library, and you can delete it at any time. Think about who will see your baby's face before you post it publicly.
+Upload only a photo of your own child, or of a child whose parent or guardian asked you to. MakeViral does not post your video anywhere: it goes to My videos, and you can delete it at any time. Think about who will see your baby's face before you post it publicly.
 
 ### Does it work with a toddler or an older child?
 
@@ -230,7 +230,7 @@ About 10 seconds for the sassy dance and about 12 seconds for the Toc Toc dance,
 
 - [Thank You Baby Meme: Turn One Baby Photo Into the Thank You Babeh Dance](https://www.makeviral.ai/templates/thank-you-baby-ai-trend): "Thank you baby, thank you babeh": the chant from a TikTok LIVE, now a dance. Add one photo of your baby and get a 15-second clip where your baby bounces, shrugs and ends with a heart, with the trend's sound. Or put your pet in the famous wig.
 - [Toc Toc Dance AI: Do the Viral Jean Phil Dance From One Photo](https://www.makeviral.ai/templates/toc-toc-dance-ai-trend): One-foot hops with a knee up, a fist that knocks on an invisible door, kicks and a wide-arm finish, all on the toc toc beat. Add a photo of you, of you and a friend, or of your pet, and get the dance with the sound.
-- [Bad Times AI Trend: Argue With the Camera From One Photo](https://www.makeviral.ai/templates/bad-times-ai-trend): Hands on the head, a hand on the hip, stop palms and a long stare at whoever is filming: the viral routine to Imael Angel's "Bad Times". Add one photo of you or your pet and get the clip with the song.
+- [Bulin 47 Dance AI: Do the Dame Hombro Dance From One Photo](https://www.makeviral.ai/templates/bulin-47-dance-ai-trend): The side-on groove, the shoulder shimmies, the arms out wide and the heart at the chest, all on the Dame Hombro beat. Dance it alone in your own photo's place or with two friends in the AI crew line, with the song on. A baby photo works too.
 - [AI TikTok Video](https://www.makeviral.ai/tools/ai-tiktok-video-generator): Eight native TikTok formats, one prompt or product URL, a finished 9:16 video with captions burned in.
 - [AI Reels](https://www.makeviral.ai/tools/ai-reels-generator): Pick a format, give it a topic or a product link, and get a finished vertical reel with voice and captions. Nothing to film, nothing to edit.
 - [AI photo generator](https://www.makeviral.ai/ai-photo-generator)

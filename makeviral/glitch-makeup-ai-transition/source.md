@@ -49,7 +49,7 @@ Everything runs in the browser. No editing app, no watermark.
 
 1. **Add your photo.** Press "Make yours" and add your face, chest up. Take it with the camera or pick it from your library. Start here: https://www.makeviral.ai/templates/glitch-makeup-ai-transition/create
 2. **Press Generate.** The button shows the price. Seedance 2.5 films the Glitch Makeup scene straight from your photo, with no in-between picture, for 10 seconds with original sound. You write no prompt.
-3. **Download or share.** The video is ready in a few minutes as a 9:16 MP4. Download it, share it from your phone, or find it later in your Library.
+3. **Download or share.** The video is ready in a few minutes as a 9:16 MP4. Download it, share it from your phone, or find it later in My videos.
 
 ### The by-hand way, with the exact prompts
 
@@ -142,7 +142,7 @@ It is a TikTok makeup transition from late August 2026. You paint bright green p
 
 ### How do I do the glitch makeup transition with AI?
 
-Press "Create your own", add one sharp photo of your face and press Generate. MakeViral makes the 10-second video, the paint part, the glitch cut and the cyber makeup, with an electronic beat, and puts it in your Library. You need no paint, no wig and no CapCut template.
+Press "Create your own", add one sharp photo of your face and press Generate. MakeViral makes the 10-second video, the paint part, the glitch cut and the cyber makeup, with an electronic beat, and puts it in My videos. You need no paint, no wig and no CapCut template.
 
 ### Who started the glitch makeup trend?
 
@@ -186,13 +186,13 @@ Yes. A 10-second video costs credits, the create page shows the exact price on t
 
 ### Is my photo private?
 
-Yes. MakeViral does not post your photo or the video anywhere or show them to other users. The video goes to your private Library, and you can delete it there at any time.
+Yes. MakeViral does not post your photo or the video anywhere or show them to other users. The video goes to your private My videos page, and you can delete it there at any time.
 
 ## Other AI video templates and tools
 
 - [Catrina Makeup AI: See Yourself in Day of the Dead Makeup](https://www.makeviral.ai/templates/ai-day-of-the-dead-makeup): Add one selfie and get a 2K portrait of you in full Catrina sugar skull makeup, with a crown of red roses and a lit candle in your hands. Your face stays yours. A Catrín look for men and a marigold field look are one tap away.
 - [AI Halloween Costume Try-On: See Yourself in a Costume Before You Buy](https://www.makeviral.ai/templates/ai-halloween-costume): Add one full-body photo, type or pick a costume, and see yourself in it at a Halloween party. Two photos make a matching couple costume, and a short costume transition video shows the change.
-- [Barbie and Raquelle AI Trend: You as a 3D Doll Cartoon](https://www.makeviral.ai/templates/barbie-and-raquelle-ai-trend): Add one posed photo of you, or of you and your bestie. AI redraws it as a glossy 3D fashion-doll cartoon in the same pose and puts it on top of your real photo, like the split slides of the trend.
+- [AI Makeup Filter: Watch Your Full Glam Happen on Video](https://www.makeviral.ai/templates/ai-makeup-filter): Add one photo with a bare face. AI makes the 10-second glow-up: a makeup artist's hands do your base, eyes, liner, lashes and lips, then you open your eyes and smile in full glam.
 - [AI photo generator](https://www.makeviral.ai/ai-photo-generator)
 - [All AI video templates](https://www.makeviral.ai/templates)
 

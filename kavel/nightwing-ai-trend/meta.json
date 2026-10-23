@@ -1,0 +1,34 @@
+{
+  "source": "kavel",
+  "source_site": "https://www.kavel.ai",
+  "slug": "nightwing-ai-trend",
+  "name": "Nightwing AI Trend",
+  "url": "https://www.kavel.ai/video/nightwing-ai-trend",
+  "listing_url": "https://www.kavel.ai/ai-video-trends",
+  "blurb": "One photo in: you press a blue mask on, spin, and come out of the turn in a black-and-blue hero suit with two glowing sticks.",
+  "published": null,
+  "updated": null,
+  "scraped_at": "2026-10-23",
+  "listing_index": 10,
+  "this_week_rank": null,
+  "demo_videos": [
+    "https://cdn.kavel.ai/videos/kavel-showcase/nightwing-ai-trend-purple-room.mp4",
+    "https://cdn.kavel.ai/videos/kavel-showcase/nightwing-ai-trend-neon-hallway.mp4",
+    "https://cdn.kavel.ai/videos/kavel-showcase/nightwing-ai-trend-rooftop.mp4",
+    "https://cdn.kavel.ai/videos/kavel-showcase/nightwing-ai-trend-night-street.mp4",
+    "https://cdn.kavel.ai/videos/kavel-showcase/nightwing-ai-trend-duo-bedroom.mp4"
+  ],
+  "posters": [
+    "https://cdn.kavel.ai/posters/kavel-showcase/nightwing-ai-trend-purple-room-poster.webp",
+    "https://cdn.kavel.ai/posters/kavel-showcase/nightwing-ai-trend-purple-room-poster-thumb-240.webp",
+    "https://cdn.kavel.ai/posters/kavel-showcase/nightwing-ai-trend-neon-hallway-poster.webp",
+    "https://cdn.kavel.ai/posters/kavel-showcase/nightwing-ai-trend-rooftop-poster.webp",
+    "https://cdn.kavel.ai/posters/kavel-showcase/nightwing-ai-trend-night-street-poster.webp",
+    "https://cdn.kavel.ai/posters/kavel-showcase/nightwing-ai-trend-duo-bedroom-poster.webp"
+  ],
+  "prompts": [],
+  "prompt_count": 0,
+  "prompts_public": false,
+  "note": "No public prompt text found on Kavel page payload; demos/posters only — prompts not invented.",
+  "showcase_count": 5
+}

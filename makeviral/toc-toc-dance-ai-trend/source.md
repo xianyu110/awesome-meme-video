@@ -51,7 +51,7 @@ Everything runs in the browser. No editing app, no watermark.
 
 1. **Add your photo.** Press "Make yours" and add you, head to toes. Take it with the camera or pick it from your library. Start here: https://www.makeviral.ai/templates/toc-toc-dance-ai-trend/create
 2. **Press Generate.** The button shows the price. Kling 3.0 Motion Control takes the moves of the Toc Toc dance clip and plays them with the one in your photo, in your photo's own scene, for about 10 seconds, with the reel's original sound. You write no prompt.
-3. **Download or share.** The video is ready in a few minutes as a 9:16 MP4. Download it, share it from your phone, or find it later in your Library.
+3. **Download or share.** The video is ready in a few minutes as a 9:16 MP4. Download it, share it from your phone, or find it later in My videos.
 
 ### The by-hand way, with the exact prompts
 
@@ -221,7 +221,7 @@ Nobody has shown who made up the moves. The clip most versions copy was posted b
 
 ### How do I make the Toc Toc dance AI video with my photo?
 
-Press "Create your own", pick Human, Duo or Pet, and add your photo, or two photos for Duo. Press Generate; the button shows the price first. You get a clip of about 10 seconds (Human) or 11 seconds (Duo and Pet) with the sound. You write no prompt, and the video waits in your Library when it is ready.
+Press "Create your own", pick Human, Duo or Pet, and add your photo, or two photos for Duo. Press Generate; the button shows the price first. You get a clip of about 10 seconds (Human) or 11 seconds (Duo and Pet) with the sound. You write no prompt, and the video waits in My videos when it is ready.
 
 ### Can I do the Toc Toc dance with a friend?
 

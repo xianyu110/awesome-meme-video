@@ -1,0 +1,67 @@
+# Day of the Dead AI Video
+
+- Source: [kavel](https://www.kavel.ai/video/day-of-the-dead-ai-video)
+- Slug: `day-of-the-dead-ai-video`
+- Listing: https://www.kavel.ai/ai-video-trends
+
+One photo of someone you miss: a star falls onto the marigold path, and they walk out of its light toward you.
+
+## Demo videos (CDN)
+
+- https://cdn.kavel.ai/videos/kavel-showcase/day-of-the-dead-mayita.mp4
+- https://cdn.kavel.ai/videos/kavel-showcase/day-of-the-dead-abuelita-pink.mp4
+- https://cdn.kavel.ai/videos/kavel-showcase/day-of-the-dead-mustache-dad.mp4
+- https://cdn.kavel.ai/videos/kavel-showcase/day-of-the-dead-don-panchito.mp4
+- https://cdn.kavel.ai/videos/kavel-showcase/day-of-the-dead-don-martin.mp4
+
+## Posters
+
+- https://cdn.kavel.ai/posters/kavel-showcase/day-of-the-dead-mayita-poster.webp
+- https://cdn.kavel.ai/posters/kavel-showcase/day-of-the-dead-mayita-poster-thumb-240.webp
+- https://cdn.kavel.ai/posters/kavel-showcase/day-of-the-dead-abuelita-pink-poster.webp
+- https://cdn.kavel.ai/posters/kavel-showcase/day-of-the-dead-mustache-dad-poster.webp
+- https://cdn.kavel.ai/posters/kavel-showcase/day-of-the-dead-don-panchito-poster.webp
+- https://cdn.kavel.ai/posters/kavel-showcase/day-of-the-dead-don-martin-poster.webp
+
+## Prompts
+
+### 1. Template prompt
+
+*Kind: video_prompt*
+
+```text
+Use the photo: this person is the loved one coming home for DÃ­a de Muertos. Keep their face, age, hair, skin tone, body and clothes exactly as in the photo. Vertical 9:16, one continuous cinematic shot at night. (1) A deep blue starry sky with a full moon over a long path carpeted with orange marigold petals, lined with lit candles, leading to a tall candlelit ofrenda with marigold arches, sugar skulls and papel picado. (2) A bright shooting star streaks down and lands on the path in a soft burst of golden light; the light gathers into the person from the photo, their whole figure glowing gold, then the glow fades until they look solid and real. (3) They walk slowly down the marigold path toward the camera, smiling softly, candle flames flickering on both sides, and stop close to the camera looking straight at us. Audio: gentle acoustic guitar and soft strings, no vocals. No text, no captions, no logos, no watermark, no skeleton or cartoon characters.
+```
+
+### 2. Day of the Dead AI video â Abuelita in her party dress — day-of-the-dead-abuelita-pink
+
+*Kind: video_prompt*
+
+```text
+Use the photo: this person is the loved one coming home for DÃ­a de Muertos, dressed as in the photo for a family party. Keep their face, age, hair, skin tone, body and clothes exactly as in the photo. Vertical 9:16, one continuous cinematic shot at night. (1) A huge candlelit ofrenda with marigold arches and family photos under a full moon, a path of orange petals and candles running toward the camera. (2) A shooting star falls behind the altar and its golden light gathers into the person from the photo, standing on the path with hands folded, smiling. (3) The glow softens, they become solid and real, and they step slowly down the petal path toward the camera. Audio: gentle acoustic guitar and soft strings, no vocals. No text, no captions, no logos, no watermark, no skeleton or cartoon characters.
+```
+
+### 3. Day of the Dead AI video â PapÃ¡ in his cardigan — day-of-the-dead-mustache-dad
+
+*Kind: video_prompt*
+
+```text
+Use the photo: this person is the loved one coming home for DÃ­a de Muertos. Keep their face, glasses, age, hair, skin tone and build exactly as in the photo, dressed in a dark cardigan and jeans. Vertical 9:16, one continuous cinematic shot at night. (1) Rows of candles and marigold pots line a petal path that leads to a glowing ofrenda under a full moon. (2) A shooting star streaks down onto the path and the burst of golden light becomes the person from the photo, hands in his pockets, edged in gold. (3) The glow fades, he looks solid and real, and he walks toward the camera with an easy smile, candle flames flickering on both sides. Audio: gentle acoustic guitar and soft strings, no vocals. No text, no captions, no logos, no watermark, no skeleton or cartoon characters.
+```
+
+### 4. Day of the Dead AI video â Don Panchito in the cemetery — day-of-the-dead-don-panchito
+
+*Kind: video_prompt*
+
+```text
+Use the photo: this person is the loved one coming home for DÃ­a de Muertos. Keep their face, glasses, age, hair, skin tone, body and clothes exactly as in the photo. Vertical 9:16, one continuous cinematic shot at night in an old village cemetery. (1) Every grave is covered in orange marigolds and hundreds of lit candles, a small white chapel behind, a full moon in the starry sky, and a narrow petal path winds between the graves. (2) A shooting star streaks down and lands on the path in a soft burst of golden light that gathers into the person from the photo. (3) The glow fades, they look solid and real, and they walk slowly up the path between the graves toward the camera, smiling softly. Audio: gentle acoustic guitar and soft strings, no vocals. No text, no captions, no logos, no watermark, no skeleton or cartoon characters.
+```
+
+### 5. Day of the Dead AI video â Don MartÃ­n on the village street — day-of-the-dead-don-martin
+
+*Kind: video_prompt*
+
+```text
+Use the photo: this person is the loved one coming home for DÃ­a de Muertos. Keep their face, age, hair, skin tone, build and clothes exactly as in the photo, standing upright. Vertical 9:16, one continuous cinematic shot at night on a cobblestone street in a small Mexican town. (1) Strings of colorful papel picado hang across the street, the cobblestones are scattered with marigold petals and lined with candles, and a doorway at the end glows with a family ofrenda under a full moon. (2) A shooting star streaks down onto the cobblestones in a soft burst of golden light that gathers into the person from the photo. (3) The glow fades, they look solid and real, and they walk slowly down the street toward the camera with small careful steps, smiling gently. Audio: gentle acoustic guitar and soft strings, no vocals. No text, no captions, no logos, no watermark, no skeleton or cartoon characters.
+```
+

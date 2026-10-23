@@ -52,7 +52,7 @@ Everything runs in the browser. No editing app, no watermark.
 
 1. **Add the two photos.** Press "Make yours" and add the drummer, then the singer (mic). Add them in this order, because the order decides who is who in the scene. Take them with the camera or pick them from your library. Start here: https://www.makeviral.ai/templates/apt-ai-trend/create
 2. **Press Generate.** The button shows the price. Seedance 2.5 puts your photos into the APT Pink Studio trend clip and copies it shot by shot for 15 seconds, with the reel's original song. You write no prompt.
-3. **Download or share.** The video is ready in up to several minutes as a 16:9 MP4. Download it, share it from your phone, or find it later in your Library.
+3. **Download or share.** The video is ready in up to several minutes as a 16:9 MP4. Download it, share it from your phone, or find it later in My videos.
 
 ### The by-hand way, with the exact prompts
 
@@ -183,7 +183,7 @@ It is an AI video trend from late September 2026: two people, or two pets, take 
 
 ### How do I make the APT AI video with a friend?
 
-Press "Create your own", pick Human, add photo 1 for the drummer and photo 2 for the singer, and press Generate. The button shows the price first. You write no prompt, and the video waits in your Library when it is ready.
+Press "Create your own", pick Human, add photo 1 for the drummer and photo 2 for the singer, and press Generate. The button shows the price first. You write no prompt, and the video waits in My videos when it is ready.
 
 ### Is this made by or with ROSÉ and Bruno Mars?
 

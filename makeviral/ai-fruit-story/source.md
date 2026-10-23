@@ -48,7 +48,7 @@ Everything runs in the browser. No editing app, no watermark.
 
 1. **Add your photo.** Press "Make yours" and add you, face and upper body. Take it with the camera or pick it from your library. Start here: https://www.makeviral.ai/fruit-story
 2. **Press Generate.** The button shows the price. Seedance 2.5 films the AI Fruit Story scene straight from your photo, with no in-between picture, for 12 seconds with original sound. You write no prompt.
-3. **Download or share.** The video is ready in a few minutes as a 9:16 MP4. Download it, share it from your phone, or find it later in your Library.
+3. **Download or share.** The video is ready in a few minutes as a 9:16 MP4. Download it, share it from your phone, or find it later in My videos.
 
 ### The by-hand way, with the exact prompts
 
@@ -139,7 +139,7 @@ Credits come with a plan; see [pricing](https://www.makeviral.ai/pricing). A fai
 | **3. Write my story** (no credits) | See the scene cards first: the place, what happens, who talks and the line. Change any of them, or skip this step and we write the story when you make the video. |
 | **4. Make it** | Pick the language (English, Spanish, French or Portuguese), 4, 6 or 8 scenes, captions on or off, and the Glossy 3D or Jelly glass look. The button shows the price. |
 
-Every scene is one picture of the place with your fruit people in it, then an 8-second talking clip of that picture with the line and its own voice, the way the creators of the trend make theirs. We join the scenes, cut them a little after the last word and put big word captions on. The video waits in your Library.
+Every scene is one picture of the place with your fruit people in it, then an 8-second talking clip of that picture with the line and its own voice, the way the creators of the trend make theirs. We join the scenes, cut them a little after the last word and put big word captions on. The video waits in My videos.
 
 ## Which fruit story can you make?
 
@@ -192,7 +192,7 @@ Fruit Love Island was an AI dating-show parody by the account Ai Cinema (@ai.cin
 
 ### How do I make an AI fruit story?
 
-Press "Create your own", pick up to three fruit people, type one line of drama or tap a twist, and press the button. The button shows the price first. You write no AI fruit story prompt, no AI fruit video prompt and no AI fruit drama prompt: we write the scenes (you can change them), and the 3D fruit look, the voices and the captions are built in. The video waits in your Library when it is ready.
+Press "Create your own", pick up to three fruit people, type one line of drama or tap a twist, and press the button. The button shows the price first. You write no AI fruit story prompt, no AI fruit video prompt and no AI fruit drama prompt: we write the scenes (you can change them), and the 3D fruit look, the voices and the captions are built in. The video waits in My videos when it is ready.
 
 ### Can I put my own face in the fruit story?
 

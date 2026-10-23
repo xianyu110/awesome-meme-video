@@ -50,7 +50,7 @@ Everything runs in the browser. No editing app, no watermark.
 
 1. **Add your photo.** Press "Make yours" and add your photo. Take it with the camera or pick it from your library. Start here: https://www.makeviral.ai/templates/ozil-goal-ai-trend/create
 2. **Press Generate.** The button shows the price. Seedance 2.0 Mini puts your photos into the Ozil Goal trend clip and copies it shot by shot for 15 seconds, with the reel's original song. You write no prompt.
-3. **Download or share.** The video is ready in a few minutes as a 9:16 MP4. Download it, share it from your phone, or find it later in your Library.
+3. **Download or share.** The video is ready in a few minutes as a 9:16 MP4. Download it, share it from your phone, or find it later in My videos.
 
 ### The by-hand way, with the exact prompts
 
@@ -111,7 +111,7 @@ Your clip follows the 15 seconds of the AI grandma reel by @r7538701fal, in one 
 | Sound | The reel's song, which you can turn off | The same |
 | Price | The lower price | Costs more |
 
-The exact price shows on the Generate button before you spend anything. You write no prompt, and the video waits in your Library when it is ready.
+The exact price shows on the Generate button before you spend anything. You write no prompt, and the video waits in My videos when it is ready.
 
 **Why these models?** The scorer is small or medium in the frame in every shot, with no big close-ups of the face, so the cheaper Standard model fits this clip. Best uses Genjutsu, the tool shown in one of the first how-to videos for this trend. Every run is a new take, so results differ.
 
@@ -165,7 +165,7 @@ Mesut Özil's late winner for Arsenal at Ludogorets in the Champions League on 1
 
 ### How do I make the Ozil goal AI video with my own photo?
 
-Press "Create your own", add one full-body photo of the scorer, pick Standard or Best and press Generate. The button shows the price first. You get a 15-second vertical clip with the song, and you write no prompt. The video waits in your Library when it is ready.
+Press "Create your own", add one full-body photo of the scorer, pick Standard or Best and press Generate. The button shows the price first. You get a 15-second vertical clip with the song, and you write no prompt. The video waits in My videos when it is ready.
 
 ### What is the difference between Standard and Best?
 

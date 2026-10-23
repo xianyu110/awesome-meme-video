@@ -6,7 +6,7 @@
   "url": "https://remakeyourmeme.com/templates/ai-90s-school-photo/",
   "blurb": "Your face, age and hair stay; the sweater and backdrop are new.",
   "photos_in": null,
-  "duration_s": 10,
+  "duration_s": 14,
   "ready_to_make": true,
   "demo_videos": [
     "https://cdn.remakeyourmeme.com/trends/school-photo/7280231666977738026.mp4",
@@ -25,9 +25,9 @@
     "https://cdn.remakeyourmeme.com/trends/school-photo/7618351596824562974.webp"
   ],
   "all_cdn_mp4": [
-    "https://cdn.remakeyourmeme.com/templates/baby-doll/video.mp4",
     "https://cdn.remakeyourmeme.com/templates/closed-on-sunday/video.mp4",
     "https://cdn.remakeyourmeme.com/templates/coldplay-kiss-cam/video.mp4",
+    "https://cdn.remakeyourmeme.com/templates/dime-dime-baby/video.mp4",
     "https://cdn.remakeyourmeme.com/trends/school-photo/7280231666977738026.mp4",
     "https://cdn.remakeyourmeme.com/trends/school-photo/7285501653397064993.mp4",
     "https://cdn.remakeyourmeme.com/trends/school-photo/7574461684543130910.mp4",
@@ -37,7 +37,7 @@
   "prompt_count": 0,
   "prompts_public": false,
   "note": "Remake Your Meme does not publish copyable prompt text on public template pages (one-tap remake). Inventory keeps demos, posters, and metadata only.",
-  "scraped_at": "2026-10-22",
+  "scraped_at": "2026-10-23",
   "published": null,
   "updated": null
 }

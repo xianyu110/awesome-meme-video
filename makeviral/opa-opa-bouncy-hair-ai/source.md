@@ -52,7 +52,7 @@ Everything runs in the browser. No editing app, no watermark.
 
 1. **Add your photo.** Press "Make yours" and add your selfie. Take it with the camera or pick it from your library. Start here: https://www.makeviral.ai/templates/opa-opa-bouncy-hair-ai/create
 2. **Press Generate.** The button shows the price. Seedance 2.5 puts your photos into the Opa Opa trend clip and copies it shot by shot for 10 seconds, with the reel's original song. You write no prompt.
-3. **Download or share.** The video is ready in up to several minutes as a 9:16 MP4. Download it, share it from your phone, or find it later in your Library.
+3. **Download or share.** The video is ready in up to several minutes as a 9:16 MP4. Download it, share it from your phone, or find it later in My videos.
 
 ### The by-hand way, with the exact prompts
 
@@ -154,7 +154,7 @@ Anime follows the anime side of the trend instead: your photo becomes an anime p
 | Length | 10 s | 10 s |
 | Sound | The clip's "opa opa op" sound, put on after the run; you can turn it off | A fast beat the video model makes, not the trend's song |
 
-The exact price shows on the Generate button before you spend anything. You write no prompt, and the video waits in your Library when it is ready. Human can take up to several minutes. Every run is a new take, so results differ.
+The exact price shows on the Generate button before you spend anything. You write no prompt, and the video waits in My videos when it is ready. Human can take up to several minutes. Every run is a new take, so results differ.
 
 ## Who should do the Opa Opa Opa trend?
 
@@ -197,7 +197,7 @@ The Opa Opa Opa song is a sped-up clip of "Ty zalip", a Russian dance track by P
 
 ### How do I make the Opa Opa Opa AI video with my photo?
 
-Press "Create your own", pick Human or Anime, and add one clear photo of yourself. Press Generate; the button shows the price first. Human makes a 10-second selfie clip of the bounce with the sound; Anime makes a 10-second anime clip. You write no prompt, and the video waits in your Library when it is ready.
+Press "Create your own", pick Human or Anime, and add one clear photo of yourself. Press Generate; the button shows the price first. Human makes a 10-second selfie clip of the bounce with the sound; Anime makes a 10-second anime clip. You write no prompt, and the video waits in My videos when it is ready.
 
 ### Will the creator of the original clip be in my video?
 

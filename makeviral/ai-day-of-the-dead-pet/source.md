@@ -54,7 +54,7 @@ Everything runs in the browser. No editing app, no watermark.
 
 1. **Add your photo.** Press "Make yours" and add your pet. Take it with the camera or pick it from your library. Start here: https://www.makeviral.ai/templates/ai-day-of-the-dead-pet/create
 2. **Press Generate.** The button shows the price. Kling 3.0 Omni puts your photos into the Day of the Dead pet trend clip and copies it shot by shot for 10 seconds, with the reel's original song. You write no prompt.
-3. **Download or share.** The video is ready in a few minutes as a 9:16 MP4. Download it, share it from your phone, or find it later in your Library.
+3. **Download or share.** The video is ready in a few minutes as a 9:16 MP4. Download it, share it from your phone, or find it later in My videos.
 
 ### The by-hand way, with the exact prompts
 
@@ -141,7 +141,7 @@ Kling 3.0 Omni edits the template clip itself, so the path, the gate, the office
 
 **Marigold bridge** is the 2025 original, in a lifelike look, made in two steps as its creator made it. First Nano Banana 2.1 makes a photo of your pet on a bridge of marigolds decorated for the Day of the Dead, with fireworks behind it, using @alemerinoj's own Gemini prompt word for word. Then Kling 3.0 (Standard) or Seedance 2.5 (Best) turns that photo into an 8-second video of your pet running across the bridge toward you, with the fireworks going off and soft music.
 
-The exact price of each shows on the Generate button before you spend anything. You write no prompt, and the video waits in your Library when it is ready.
+The exact price of each shows on the Generate button before you spend anything. You write no prompt, and the video waits in My videos when it is ready.
 
 ## Pet ofrenda ideas: how to make an altar for your pet
 
@@ -202,7 +202,7 @@ It is a way to remember a pet that died, which started in Mexico in 2025. People
 
 ### How do I make a Day of the Dead video of my pet?
 
-Press "Create your own", pick Land of the dead or Marigold bridge, add one clear photo of your pet and press Generate. The button shows the price first. You get a vertical video of 10 seconds (Land of the dead) or 8 seconds (Marigold bridge), and it waits in your Library when it is ready.
+Press "Create your own", pick Land of the dead or Marigold bridge, add one clear photo of your pet and press Generate. The button shows the price first. You get a vertical video of 10 seconds (Land of the dead) or 8 seconds (Marigold bridge), and it waits in My videos when it is ready.
 
 ### When is the Day of the Dead for pets?
 
@@ -242,7 +242,7 @@ Yes. Each video costs credits, and the create page shows the exact price on the 
 
 ### Is my pet's photo private?
 
-Yes. MakeViral does not post your photo or the result anywhere or show it to other users. The video goes to your private Library, and you can delete it there at any time.
+Yes. MakeViral does not post your photo or the result anywhere or show it to other users. The video goes to your private My videos page, and you can delete it there at any time.
 
 ## Other AI video templates and tools
 

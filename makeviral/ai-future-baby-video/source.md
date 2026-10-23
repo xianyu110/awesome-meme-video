@@ -51,7 +51,7 @@ Everything runs in the browser. No editing app, no watermark.
 
 1. **Add the two photos.** Press "Make yours" and add first partner, then second partner. Add them in this order, because the order decides who is who in the scene. Take them with the camera or pick them from your library. Start here: https://www.makeviral.ai/templates/ai-future-baby-video/create
 2. **Press Generate.** The button shows the price. MakeViral builds the Future baby scene with your photos, then Seedance 2.5 animates it for 10 seconds with original sound. You write no prompt.
-3. **Download or share.** The video is ready in a few minutes as a 9:16 MP4. Download it, share it from your phone, or find it later in your Library.
+3. **Download or share.** The video is ready in a few minutes as a 9:16 MP4. Download it, share it from your phone, or find it later in My videos.
 
 ### The by-hand way, with the exact prompts
 
@@ -149,7 +149,7 @@ The template is built for two photos, one per partner. With one photo, the model
 
 ### Is it safe to upload photos to make an AI baby?
 
-Upload only photos of yourself and a partner who agreed, both adults. Never upload photos of real children. The result is saved as an MP4 in your Library, and the baby in the result is AI-made, not a real person.
+Upload only photos of yourself and a partner who agreed, both adults. Never upload photos of real children. The result is saved as an MP4 in My videos, and the baby in the result is AI-made, not a real person.
 
 ### Do I need an AI baby generator app?
 

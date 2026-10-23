@@ -56,7 +56,7 @@ Everything runs in the browser. No editing app, no watermark.
 
 1. **Add the two photos.** Press "Make yours" and add you (the survivor), then your partner (the zombie). Add them in this order, because the order decides who is who in the scene. Take them with the camera or pick them from your library. Start here: https://www.makeviral.ai/templates/ai-zombie-trend/create
 2. **Press Generate.** The button shows the price. Seedance 2.5 films the AI zombie love story scene straight from your photos, with no in-between picture, for 10 seconds with original sound. You write no prompt.
-3. **Download or share.** The video is ready in a few minutes as a 9:16 MP4. Download it, share it from your phone, or find it later in your Library.
+3. **Download or share.** The video is ready in a few minutes as a 9:16 MP4. Download it, share it from your phone, or find it later in My videos.
 
 ### The by-hand way, with the exact prompts
 
@@ -210,7 +210,7 @@ Yes. Use the "You and your partner" version with any adult who agreed to it. The
 
 ### How long is the video, and how long does it take to make?
 
-The clip is 10 seconds, vertical 9:16, 720p, with sound. It is ready in a few minutes. You can leave the page while it runs; the clip waits in your Library.
+The clip is 10 seconds, vertical 9:16, 720p, with sound. It is ready in a few minutes. You can leave the page while it runs; the clip waits in My videos.
 
 ### Does the zombie AI trend video cost credits?
 

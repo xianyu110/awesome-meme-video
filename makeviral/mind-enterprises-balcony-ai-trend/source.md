@@ -50,7 +50,7 @@ Everything runs in the browser. No editing app, no watermark.
 
 1. **Add the two photos.** Press "Make yours" and add the dj (left), then the dancer (right). Photo 1 goes on the left of the scene, photo 2 on the right. Take them with the camera or pick them from your library. Start here: https://www.makeviral.ai/templates/mind-enterprises-balcony-ai-trend/create
 2. **Press Generate.** The button shows the price. Seedance 2.5 films the Balcony DJ Duo scene straight from your photos, with no in-between picture, for 10 seconds with original sound. You write no prompt.
-3. **Download or share.** The video is ready in a few minutes as a 9:16 MP4. Download it, share it from your phone, or find it later in your Library.
+3. **Download or share.** The video is ready in a few minutes as a 9:16 MP4. Download it, share it from your phone, or find it later in My videos.
 
 ### The by-hand way, with the exact prompts
 
@@ -154,7 +154,7 @@ No. MakeViral has no link to the duo. The name is only there because people call
 
 ### How do I make the balcony DJ video with my photos?
 
-Press "Create your own", add photo 1 for the DJ and photo 2 for the dancer, and press Generate. The button shows the price first. You write no prompt, and the video waits in your Library when it is ready.
+Press "Create your own", add photo 1 for the DJ and photo 2 for the dancer, and press Generate. The button shows the price first. You write no prompt, and the video waits in My videos when it is ready.
 
 ### Is there a prompt for the Mind Enterprises balcony trend?
 

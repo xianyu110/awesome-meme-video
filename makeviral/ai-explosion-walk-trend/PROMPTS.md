@@ -1,0 +1,52 @@
+# AI Explosion Walk Trend: Walking Away From Explosion, Starring You
+
+- Source: [makeviral](https://www.makeviral.ai/templates/ai-explosion-walk-trend)
+- Slug: `ai-explosion-walk-trend`
+
+The explosion walk trend is the old action movie shot made personal: you walk calmly toward the camera while a massive explosion goes off behind you.
+
+## Demo videos (CDN)
+
+- https://www.makeviral.ai/media/templates/ai-explosion-walk-trend/original-main-v2.mp4
+
+## Posters
+
+- https://www.makeviral.ai/media/templates/ai-explosion-walk-trend/original-main-v1.jpg
+
+## Prompts
+
+### 1. 1. The video prompt is filled in. Settings: Seedance 2.5, 11 s, 720p, 9:16, sound off. The video prompt
+
+*Kind: video_prompt*
+
+```text
+Recreate the reference video [Video 1] shot for shot: an empty two-lane highway at night that curves away into the dark, a white center line that runs from the camera into the distance, a guardrail with red and white reflectors and glowing white road sign boards on the right, dark trees, a fixed phone camera low on the center line; the same camera angle, the same jump cut, timing, moves, fire, sparks and smoke. The ONLY change: the woman with long dark hair, dark sunglasses, a black leather jacket and a pink lace top who walks down the center line is now the person in [Image 1]. Everything else stays exactly as in [Video 1].
+
+The walker = the person in [Image 1], in EVERY shot: copy the exact face from [Image 1] (the face shape, eyebrows, nose, mouth, jaw, skin tone, age, hair color, hair length and hairstyle, and any beard or moustache) exactly as in the photo. The same real person from the first frame to the last, so their friends recognize them at once, also far away on the road, as a dark shape against the fire and when they throw their arms up at the end. Never morph, never drift back to the original woman's face. NO long dark hair unless [Image 1] shows it. They wear dark sunglasses like in [Video 1] and an open black leather jacket over the top and trousers from [Image 1]: when the jacket opens, it shows the top from [Image 1], never a pink lace top unless [Image 1] shows one. If [Image 1] shows no trousers, they wear dark fitted trousers and black boots.
+
+The moves, matching the reference second by second:
+0-1.25 s: far away on the center line, the walker crouches on the road and lights a small fuse with a lighter; a tiny spark glows on the asphalt.
+1.25 s: the jump cut. The walker now walks toward the camera along the center line with a slow, confident model walk; grey smoke rises from the road behind them.
+2.5-3.9 s: still walking, they raise one hand high for a second, then pull the leather jacket open with a cool smile.
+4.0 s: a blinding white flash fills the frame.
+4.25-5 s: a huge fireball erupts across the road far behind them, sparks shoot out to both sides and the asphalt glows orange.
+5-7.75 s: a wall of fire and bright orange clouds fills the whole background; the walker is a dark shape against it and keeps walking calmly toward the camera, never looking back, never flinching.
+7.75-9.25 s: the fire turns into dark red clouds and drifting smoke; they keep walking, the face lit red and clearly visible.
+9.25-10.5 s: grey smoke and small flames behind them; they stop close to the camera, the whole body in view.
+10.5-11 s: they throw both arms up high in a V with a big, confident smile, the face large and sharp: exactly the face from [Image 1].
+
+The fire, the sparks and the smoke stay far behind the walker: nobody is burned or hurt, and nobody else is on the road. Anatomy rules: one head only, on the walker's own shoulders; two arms, five fingers on each hand. No cars, no readable road signs, no text, no captions, no logos, no watermark.
+```
+
+### 2. 1. The video prompt is filled in. Settings: Seedance 2.5, 10 s, 720p, 9:16, sound on. The video prompt
+
+*Kind: video_prompt*
+
+```text
+A slow-motion cinematic video of a confident person, the person in [Image 1], wearing sunglasses, a black shirt, and ripped jeans walking forward calmly while a massive explosion erupts behind them. Fire, smoke, and debris fill the air as they walk fearlessly through the chaos. The camera moves in a dramatic low-angle shot, with sparks flying and dust swirling around. Epic background music, intense lighting, and realistic visual effects, like an action movie hero scene in 4K ultra-realistic style.
+
+The walker is the person in [Image 1], in every frame: copy the exact face from [Image 1] (the face shape, eyebrows, nose, mouth, jaw, skin tone, age, hair color, hair length and hairstyle, and any beard or moustache), so their friends recognize them at once. The sunglasses are dark, and everything else of the face comes from [Image 1]. The same real person from the first frame to the last; never morph. If [Image 1] shows an animal, the walker is that animal walking toward the camera, with its own face, fur and markings, not a person.
+
+The walk ends close to the camera, from the knees up, the face large and sharp: exactly the face from [Image 1]. The explosion stays far behind them: nobody is burned or hurt, and the walker never looks back. Exactly one person. No cars, no buildings with signs, no text, no subtitles, no logos, no watermark, no extra limbs.
+```
+

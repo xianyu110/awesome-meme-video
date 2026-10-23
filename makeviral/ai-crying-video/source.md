@@ -55,7 +55,7 @@ Everything runs in the browser. No editing app, no watermark.
 
 1. **Add your photo.** Press "Make yours" and add a clear face photo. Take it with the camera or pick it from your library. Start here: https://www.makeviral.ai/templates/ai-crying-video/create
 2. **Press Generate.** The button shows the price. MakeViral builds the AI crying scene with your photos, then Seedance 2.5 animates it for 10 seconds with original sound. You write no prompt.
-3. **Download or share.** The video is ready in a few minutes as a 9:16 MP4. Download it, share it from your phone, or find it later in your Library.
+3. **Download or share.** The video is ready in a few minutes as a 9:16 MP4. Download it, share it from your phone, or find it later in My videos.
 
 ### The by-hand way, with the exact prompts
 
@@ -180,7 +180,7 @@ It is a short-video trend from September 2026. One photo becomes a night farewel
 
 ### How do I make an AI crying video from my photo?
 
-Press "Make this video" on this page. Upload one clear photo of your face, check the price on the button and press Generate. The photo step builds the night scene with you in it, then the video step animates 10 seconds of the farewell. The clip lands in your Library as a 9:16 MP4 with sound.
+Press "Make this video" on this page. Upload one clear photo of your face, check the price on the button and press Generate. The photo step builds the night scene with you in it, then the video step animates 10 seconds of the farewell. The clip lands in My videos as a 9:16 MP4 with sound.
 
 ### What is the AI crying prompt?
 

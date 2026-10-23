@@ -51,7 +51,7 @@ Everything runs in the browser. No editing app, no watermark.
 
 1. **Add your photo.** Press "Make yours" and add your pet, whole body. Take it with the camera or pick it from your library. Start here: https://www.makeviral.ai/templates/clapping-cat-ai-video/create
 2. **Press Generate.** The button shows the price. MakeViral builds the Clapping cat scene with your photos, then Kling 3.0 animates it for 6 seconds with original sound. You write no prompt.
-3. **Download or share.** The video is ready in a few minutes as a 9:16 MP4. Download it, share it from your phone, or find it later in your Library.
+3. **Download or share.** The video is ready in a few minutes as a 9:16 MP4. Download it, share it from your phone, or find it later in My videos.
 
 ### The by-hand way, with the exact prompts
 
@@ -128,7 +128,7 @@ The template works in two steps, the same route the creator described in his tut
 | Sound | Claps and room sound, no music | The same |
 | Price | Lower | Higher |
 
-The exact price shows on the Generate button before you spend anything, and the video waits in your Library when it is ready. You write no prompt.
+The exact price shows on the Generate button before you spend anything, and the video waits in My videos when it is ready. You write no prompt.
 
 **Why not copy the original reel itself?** The cat's shot in the reel lasts under four seconds, and the rest of the reel shows the creator. A copy of that shot would cost more and would put your pet into his home. The still keeps your pet in your own home, like his cat in his, and the hands come from the still, so the video model only has to move them.
 

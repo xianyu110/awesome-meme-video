@@ -48,7 +48,7 @@ Everything runs in the browser. No editing app, no watermark.
 
 1. **Add your photo.** Press "Make yours" and add your selfie, face clear. Take it with the camera or pick it from your library. Start here: https://www.makeviral.ai/templates/tim-burton-girls-ai-trend/create
 2. **Press Generate.** The button shows the price. Nano Banana 2.1 puts your photo into the Tim Burton Girls scene and makes one 2K photo. You write no prompt.
-3. **Download or share.** The photo is ready in a few minutes as a 9:16 2K image. Download it, share it from your phone, turn it into a video, or find it later in your Library.
+3. **Download or share.** The photo is ready in a few minutes as a 9:16 2K image. Download it, share it from your phone, turn it into a video, or find it later in My videos.
 
 ### The by-hand way, with the exact prompts
 
@@ -174,7 +174,7 @@ It is an AI Halloween photo trend that took off on TikTok on 13 October 2026, mo
 
 ### How do I do the Tim Burton Girls trend?
 
-Press "Create your own", add one clear selfie, pick Photo or Video and press Generate. MakeViral puts you into the portrait with the four gothic girls behind you, and the result lands in your Library. You write no prompt, and you need no Tim Burton Girls template or CapCut account.
+Press "Create your own", add one clear selfie, pick Photo or Video and press Generate. MakeViral puts you into the portrait with the four gothic girls behind you, and the result lands in My videos. You write no prompt, and you need no Tim Burton Girls template or CapCut account.
 
 ### Is there a Tim Burton Girls AI prompt?
 
@@ -234,7 +234,7 @@ Yes. There is no watermark on the result. Keep the platform's AI label on, and u
 
 ### Is my photo private?
 
-Yes. MakeViral does not post your photo or the result anywhere or show it to other users. The result goes to your private Library, and you can delete it there at any time.
+Yes. MakeViral does not post your photo or the result anywhere or show it to other users. The result goes to your private My videos page, and you can delete it there at any time.
 
 ## Other AI video templates and tools
 

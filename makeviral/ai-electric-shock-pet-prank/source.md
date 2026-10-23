@@ -49,7 +49,7 @@ Everything runs in the browser. No editing app, no watermark.
 
 1. **Add the two photos.** Press "Make yours" and add you, face clear, then your dog or cat, face clear. Add them in this order, because the order decides who is who in the scene. Take them with the camera or pick them from your library. Start here: https://www.makeviral.ai/templates/ai-electric-shock-pet-prank/create
 2. **Press Generate.** The button shows the price. Seedance 2.5 films the Electric Shock Prank scene straight from your photos, with no in-between picture, for 10 seconds with original sound. You write no prompt.
-3. **Download or share.** The video is ready in a few minutes as a 9:16 MP4. Download it, share it from your phone, or find it later in your Library.
+3. **Download or share.** The video is ready in a few minutes as a 9:16 MP4. Download it, share it from your phone, or find it later in My videos.
 
 ### The by-hand way, with the exact prompts
 
@@ -186,7 +186,7 @@ It is the same trend under another name. The comedy creator @jarolcamil0 posted 
 
 ### How do I make the dog electric shock AI trend with my photo?
 
-Pick You + pet, press "Create your own" and add a photo of you and a photo of your dog or cat. Press Generate; the button shows the price first. You get a 10-second vertical AI dog video with sound, and it waits in your Library when it is ready. You need no CapCut template and no electric shock filter app: this page makes the clip.
+Pick You + pet, press "Create your own" and add a photo of you and a photo of your dog or cat. Press Generate; the button shows the price first. You get a 10-second vertical AI dog video with sound, and it waits in My videos when it is ready. You need no CapCut template and no electric shock filter app: this page makes the clip.
 
 ### Is there an electric shock filter on TikTok or Instagram?
 

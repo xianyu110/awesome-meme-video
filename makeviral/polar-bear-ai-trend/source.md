@@ -49,7 +49,7 @@ Everything runs in the browser. No editing app, no watermark.
 
 1. **Add your photo.** Press "Make yours" and add your photo, face clear. Take it with the camera or pick it from your library. Start here: https://www.makeviral.ai/templates/polar-bear-ai-trend/create
 2. **Press Generate.** The button shows the price. Seedance 2.5 puts your photos into the Polar Bear 2026 trend clip and copies it shot by shot for 13 seconds, with the reel's original song. You write no prompt.
-3. **Download or share.** The video is ready in up to several minutes as a 16:9 MP4. Download it, share it from your phone, or find it later in your Library.
+3. **Download or share.** The video is ready in up to several minutes as a 16:9 MP4. Download it, share it from your phone, or find it later in My videos.
 
 ### The by-hand way, with the exact prompts
 
@@ -200,7 +200,7 @@ Nothing in the meme points to a real event. The date comes from a joke caption i
 
 ### How do I make the Polar Bear 2026 meme with AI?
 
-Press "Create your own", pick Human, Pet or Bear behind you, and add one clear photo. Press Generate; the button shows the price first. You write no prompt, and the video waits in your Library when it is ready.
+Press "Create your own", pick Human, Pet or Bear behind you, and add one clear photo. Press Generate; the button shows the price first. You write no prompt, and the video waits in My videos when it is ready.
 
 ### Can my dog or cat be the polar bear?
 

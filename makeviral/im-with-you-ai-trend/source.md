@@ -51,7 +51,7 @@ Everything runs in the browser. No editing app, no watermark.
 
 1. **Add your photo.** Press "Make yours" and add your photo, face clear. Take it with the camera or pick it from your library. Start here: https://www.makeviral.ai/templates/im-with-you-ai-trend/create
 2. **Press Generate.** The button shows the price. Seedance 2.5 puts your photos into the I'm With You trend clip and copies it shot by shot for 10 seconds, with the reel's original song. You write no prompt.
-3. **Download or share.** The video is ready in up to several minutes as a 9:16 MP4. Download it, share it from your phone, or find it later in your Library.
+3. **Download or share.** The video is ready in up to several minutes as a 9:16 MP4. Download it, share it from your phone, or find it later in My videos.
 
 ### The by-hand way, with the exact prompts
 
@@ -167,7 +167,7 @@ The original is real: a slow-motion video in which the crowd moves slowly while 
 
 ### How do I make the I'm With You AI video with my photo?
 
-Press "Create your own" and add one clear photo of yourself. Press Generate; the button shows the price first. Your AI singing video waits in your Library when it is ready, with the song on it. You write no prompt.
+Press "Create your own" and add one clear photo of yourself. Press Generate; the button shows the price first. Your AI singing video waits in My videos when it is ready, with the song on it. You write no prompt.
 
 ### What is the I'm With You roller coaster reel?
 
@@ -195,7 +195,7 @@ In Brazil the ride is a barco viking (viking ship) or navio pirata (pirate ship)
 
 ### Is my photo private?
 
-Yes. MakeViral does not post your photo or the result anywhere or show them to other users. The result goes to your private Library, and you can delete it there at any time.
+Yes. MakeViral does not post your photo or the result anywhere or show them to other users. The result goes to your private My videos page, and you can delete it there at any time.
 
 ## Other AI video templates and tools
 

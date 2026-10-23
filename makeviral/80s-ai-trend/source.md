@@ -52,7 +52,7 @@ Everything runs in the browser. No editing app, no watermark.
 
 1. **Add your photo.** Press "Make yours" and add your selfie. Take it with the camera or pick it from your library. Start here: https://www.makeviral.ai/templates/80s-ai-trend/create
 2. **Press Generate.** The button shows the price. MakeViral builds the 80s scene with your photos, then Seedance 2.5 animates it for 10 seconds with original sound. You write no prompt.
-3. **Download or share.** The video is ready in a few minutes as a 9:16 MP4. Download it, share it from your phone, or find it later in your Library.
+3. **Download or share.** The video is ready in a few minutes as a 9:16 MP4. Download it, share it from your phone, or find it later in My videos.
 
 ### The by-hand way, with the exact prompts
 
@@ -160,7 +160,7 @@ You can stop after step 1. It gives you the 80s photo, which is what most people
 
 ### How do I make an 80s AI video from my photo?
 
-Make the 1985 still first, then press the film button on it. AI Video opens with the still as the first frame and the camcorder prompt filled in. It generates a 10-second vertical MP4 with tape hiss and ambient sound, and saves it to your Library with no watermark.
+Make the 1985 still first, then press the film button on it. AI Video opens with the still as the first frame and the camcorder prompt filled in. It generates a 10-second vertical MP4 with tape hiss and ambient sound, and saves it to My videos with no watermark.
 
 ### Is the 80s AI trend safe for my privacy?
 

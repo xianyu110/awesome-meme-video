@@ -75,7 +75,7 @@ Everything runs in the browser. No editing app, no watermark.
 
 1. **Add your photo.** Press "Make yours" and add your pet, whole body. Take it with the camera or pick it from your library. Start here: https://www.makeviral.ai/templates/knight-cat-ai-video/create
 2. **Press Generate.** The button shows the price. MakeViral builds the Knight cat scene with your photos, then Seedance 2.5 animates it for 10 seconds with original sound. You write no prompt.
-3. **Download or share.** The video is ready in a few minutes as a 9:16 MP4. Download it, share it from your phone, or find it later in your Library.
+3. **Download or share.** The video is ready in a few minutes as a 9:16 MP4. Download it, share it from your phone, or find it later in My videos.
 
 ### The by-hand way, with the exact prompts
 
@@ -314,7 +314,7 @@ The creator's own guide names Seedance 2.5 for the video and GPT Image 2.0 or Se
 
 ### How do I make a knight cat video with my own cat?
 
-This page works as a knight cat AI generator. Press "Create your own" and add one full-body photo of your cat. Press Generate: MakeViral turns your cat into the knight in a still, then animates it for 10 seconds with wind and music. You write no prompt, and the clip lands in your Library as a 9:16 MP4.
+This page works as a knight cat AI generator. Press "Create your own" and add one full-body photo of your cat. Press Generate: MakeViral turns your cat into the knight in a still, then animates it for 10 seconds with wind and music. You write no prompt, and the clip lands in My videos as a 9:16 MP4.
 
 ### Can I make a dog in knight armor instead of a cat?
 
@@ -342,7 +342,7 @@ The original reels use their own audio, not a known song. In remixes, the most r
 
 ### How long is the video, and how long does it take to make?
 
-Pet knight and You and your pet make a 10-second vertical 9:16 clip with sound: first the knight still, then the video. The four reel versions make a 12 to 15-second clip with the reel's original song (you can turn it off), vertical 9:16 except Dragon quest, which is wide 16:9 like its reel. Pet knight, You and your pet and Sleeping dragon are ready in a few minutes. I am with you, Dragon selfie and Dragon quest can take up to several minutes. You can leave the page while it runs, and the finished clip waits in your Library.
+Pet knight and You and your pet make a 10-second vertical 9:16 clip with sound: first the knight still, then the video. The four reel versions make a 12 to 15-second clip with the reel's original song (you can turn it off), vertical 9:16 except Dragon quest, which is wide 16:9 like its reel. Pet knight, You and your pet and Sleeping dragon are ready in a few minutes. I am with you, Dragon selfie and Dragon quest can take up to several minutes. You can leave the page while it runs, and the finished clip waits in My videos.
 
 ### Does the knight cat video cost credits?
 

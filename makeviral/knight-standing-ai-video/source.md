@@ -54,7 +54,7 @@ Everything runs in the browser. No editing app, no watermark.
 
 1. **Add the two photos.** Press "Make yours" and add tiny knight, then big one. Add them in this order, because the order decides who is who in the scene. Take them with the camera or pick them from your library. Start here: https://www.makeviral.ai/templates/knight-standing-ai-video/create
 2. **Press Generate.** The button shows the price. Seedance 2.0 Mini puts your photos into the Knight standing trend clip and copies it shot by shot for 10 seconds with original sound. You write no prompt.
-3. **Download or share.** The video is ready in a few minutes as a 9:16 MP4. Download it, share it from your phone, or find it later in your Library.
+3. **Download or share.** The video is ready in a few minutes as a 9:16 MP4. Download it, share it from your phone, or find it later in My videos.
 
 ### The by-hand way, with the exact prompts
 
@@ -173,7 +173,7 @@ It can be, if you keep to a few rules.
 - **Only your own child**, or a child whose parent or guardian asked you to make it. Never a child you do not know, and never a photo taken from someone else's account.
 - **The result is AI-made.** The armor, the moor and the whole scene are generated; none of it happened. Keep the AI label on when you post, so nobody takes it for real footage.
 - **The scene is calm.** Nobody fights. The tiny knight stands and holds the sword, and the big one stands guard. In Giant knight, the army stays far in the background.
-- **Your video goes to your Library, not to a public feed.** MakeViral does not post it anywhere, and you can delete it from your Library at any time.
+- **Your video goes to My videos, not to a public feed.** MakeViral does not post it anywhere, and you can delete it from My videos at any time.
 - **Think before you post a child's face publicly.** A family chat, a close-friends story or a private account are good homes for it too.
 - **Real people only with their consent.** Use your own face, or the face of an adult who agreed, as the big one. Never a celebrity, and never someone who did not say yes.
 - **Your pet needs no costume.** The armor is AI-made, so there is no reason to dress a real pet in anything.
@@ -190,7 +190,7 @@ It is the name that creator Kevin Winnik's Higgsfield tutorial of 6 October 2026
 
 ### How do I make the gym bro knight video with my own photos?
 
-Press "Create your own" and choose Gym bro or Giant knight (Gym bro also has Standard or Best). Add photo 1, the tiny knight, then photo 2, the big one, and press Generate. The button shows the price first. Gym bro makes 10 seconds, Giant knight 15 seconds, both vertical with sound. You write no prompt, and the video waits in your Library when it is ready.
+Press "Create your own" and choose Gym bro or Giant knight (Gym bro also has Standard or Best). Add photo 1, the tiny knight, then photo 2, the big one, and press Generate. The button shows the price first. Gym bro makes 10 seconds, Giant knight 15 seconds, both vertical with sound. You write no prompt, and the video waits in My videos when it is ready.
 
 ### Can I use my cat or dog as the tiny knight?
 

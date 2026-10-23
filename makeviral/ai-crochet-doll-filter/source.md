@@ -48,7 +48,7 @@ Everything runs in the browser. No editing app, no watermark.
 
 1. **Add your photo.** Press "Make yours" and add your photo, face in view. Take it with the camera or pick it from your library. Start here: https://www.makeviral.ai/templates/ai-crochet-doll-filter/create
 2. **Press Generate.** The button shows the price. Nano Banana 2.1 puts your photo into the Crochet Filter scene and makes one 2K photo. You write no prompt.
-3. **Download or share.** The photo is ready in a few minutes as a 9:16 2K image. Download it, share it from your phone, turn it into a video, or find it later in your Library.
+3. **Download or share.** The photo is ready in a few minutes as a 9:16 2K image. Download it, share it from your phone, turn it into a video, or find it later in My videos.
 
 ### The by-hand way, with the exact prompts
 
@@ -158,7 +158,7 @@ From Colombia. On 14 October 2026 @adriana_official86 posted 15 crochet doll pic
 
 ### How do I do the crochet filter?
 
-Press "Create your own", pick You or Couple, add one photo with the faces in view, and press Generate. MakeViral turns the photo into a crochet doll picture and puts it in your Library. You need no ChatGPT account, no CapCut template and no prompt.
+Press "Create your own", pick You or Couple, add one photo with the faces in view, and press Generate. MakeViral turns the photo into a crochet doll picture and puts it in My videos. You need no ChatGPT account, no CapCut template and no prompt.
 
 ### Is there a crochet filter prompt for ChatGPT?
 
@@ -214,7 +214,7 @@ Yes, a few credits per picture, because it is one AI image. The create page show
 
 ### Is my photo private?
 
-Yes. MakeViral does not post your photo or the result anywhere or show them to other users. The result goes to your private Library, and you can delete it there at any time.
+Yes. MakeViral does not post your photo or the result anywhere or show them to other users. The result goes to your private My videos page, and you can delete it there at any time.
 
 ## Other AI video templates and tools
 

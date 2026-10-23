@@ -49,7 +49,7 @@ Everything runs in the browser. No editing app, no watermark.
 
 1. **Add your photo.** Press "Make yours" and add you in your game uniform. Take it with the camera or pick it from your library. Start here: https://www.makeviral.ai/templates/im-onnat-football-ai-trend/create
 2. **Press Generate.** The button shows the price. Nano Banana 2.1 puts your photo into the I'm Onnat Toy Car scene and makes one 2K photo. You write no prompt.
-3. **Download or share.** The photo is ready in a few minutes as a 9:16 2K image. Download it, share it from your phone, turn it into a video, or find it later in your Library.
+3. **Download or share.** The photo is ready in a few minutes as a 9:16 2K image. Download it, share it from your phone, turn it into a video, or find it later in My videos.
 
 ### The by-hand way, with the exact prompts
 
@@ -176,7 +176,7 @@ It is a football toy car trend that started on TikTok in October 2026. Slide 1 i
 
 ### How do I do the im onnat trend?
 
-Here is how to do the im onnat trend on MakeViral: press "Create your own", pick Photo or Video, add one game photo of you in uniform and press Generate. MakeViral puts you in the toy car and the result lands in your Library. Then post your real game photo with "Happy Friday" and the toy car picture with "I'm onnat", over the trend's sound. You need no app, no template and no prompt.
+Here is how to do the im onnat trend on MakeViral: press "Create your own", pick Photo or Video, add one game photo of you in uniform and press Generate. MakeViral puts you in the toy car and the result lands in My videos. Then post your real game photo with "Happy Friday" and the toy car picture with "I'm onnat", over the trend's sound. You need no app, no template and no prompt.
 
 ### What is the football player toy car prompt?
 
@@ -192,7 +192,7 @@ Yes. The tag #cozycoupefootballtrend names it after the classic red and yellow r
 
 ### Do I need the im onnat CapCut template?
 
-No. CapCut templates for Happy Friday I'm onnat, each with its own tutorial, spread on TikTok from 12 October 2026. MakeViral has no link to CapCut. Here you add one photo and get the picture or the video in your Library, with no app.
+No. CapCut templates for Happy Friday I'm onnat, each with its own tutorial, spread on TikTok from 12 October 2026. MakeViral has no link to CapCut. Here you add one photo and get the picture or the video in My videos, with no app.
 
 ### Can I make the I'm onnat picture as a video?
 
@@ -212,7 +212,7 @@ Yes. A picture costs a few credits, far fewer than a video. The create page show
 
 ### Is my photo private?
 
-Yes. MakeViral does not post your photo or the result anywhere or show them to other users. The result goes to your private Library, and you can delete it there at any time.
+Yes. MakeViral does not post your photo or the result anywhere or show them to other users. The result goes to your private My videos page, and you can delete it there at any time.
 
 ## Other AI video templates and tools
 

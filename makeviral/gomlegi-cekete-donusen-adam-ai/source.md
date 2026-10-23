@@ -49,7 +49,7 @@ Everything runs in the browser. No editing app, no watermark.
 
 1. **Add your photo.** Press "Make yours" and add the dancer, face clear. Take it with the camera or pick it from your library. Start here: https://www.makeviral.ai/templates/gomlegi-cekete-donusen-adam-ai/create
 2. **Press Generate.** The button shows the price. Seedance 2.5 puts your photos into the Shirt-to-jacket dance trend clip and copies it shot by shot for 15 seconds, with the reel's original song. You write no prompt.
-3. **Download or share.** The video is ready in up to several minutes as a 9:16 MP4. Download it, share it from your phone, or find it later in your Library.
+3. **Download or share.** The video is ready in up to several minutes as a 9:16 MP4. Download it, share it from your phone, or find it later in My videos.
 
 ### The by-hand way, with the exact prompts
 
@@ -172,7 +172,7 @@ Your video follows the 15 seconds of @gkhngykc's reel, one handheld take at a ni
 | Sound | The reel's wedding sound, which you can turn off | The same |
 | Time | Up to several minutes | A few minutes |
 
-The exact price shows on the Generate button before you spend anything. You write no prompt, and the video waits in your Library when it is ready.
+The exact price shows on the Generate button before you spend anything. You write no prompt, and the video waits in My videos when it is ready.
 
 **Why these models?** They are the trend's own tools. @gkhngykc made the reel with Genjutsu, and Two people uses it with his prompt. In Two people the spoon player's face is a big close-up, and in our earlier tests on another reel Genjutsu was the model that swapped two big faces. Many other how-to videos for this trend use Seedance 2.5 in CapCut's Dreamina or in Magnific; You dance uses Seedance 2.5 too, with the prompt those videos share.
 
@@ -217,7 +217,7 @@ It does not. Onedio explains it as an optical illusion of the camera angle and t
 
 ### How do I make the gömleği cekete dönüşen dayı video with AI?
 
-Press "Create your own", pick You dance (one photo) or Two people (two photos), add the photos and press Generate. The button shows the price first. You get a 15-second vertical video with the wedding sound, and you write no prompt. The video waits in your Library when it is ready.
+Press "Create your own", pick You dance (one photo) or Two people (two photos), add the photos and press Generate. The button shows the price first. You get a 15-second vertical video with the wedding sound, and you write no prompt. The video waits in My videos when it is ready.
 
 ### What is the second photo for?
 

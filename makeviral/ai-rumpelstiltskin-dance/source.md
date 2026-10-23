@@ -69,7 +69,7 @@ Everything runs in the browser. No editing app, no watermark.
 
 1. **Add your photo.** Press "Make yours" and add the dancer, face clear. Take it with the camera or pick it from your library. Start here: https://www.makeviral.ai/templates/ai-rumpelstiltskin-dance/create
 2. **Press Generate.** The button shows the price. Seedance 2.5 puts your photos into the Rumpelstiltskin dance trend clip and copies it shot by shot for 15 seconds, with the reel's original song. You write no prompt.
-3. **Download or share.** The video is ready in up to several minutes as a 16:9 MP4. Download it, share it from your phone, or find it later in your Library.
+3. **Download or share.** The video is ready in up to several minutes as a 16:9 MP4. Download it, share it from your phone, or find it later in My videos.
 
 ### The by-hand way, with the exact prompts
 
@@ -295,7 +295,7 @@ Nothing deep. The creepy little man stands for dancing like a fool, sneaking aro
 
 ### How do I make the Rumpelstiltskin dance with my own face?
 
-This page works as a Rumpelstiltskin AI generator. Press "Create your own", add one clear photo of your face and press Generate. With **Original clip** (the default), MakeViral puts your face on the little man in the real clip, or your whole photo with **Whole body**. With **You dance**, it dresses you in the velvet tuxedo in the hay barn, then animates the shush, the princess's shock and your tiptoe dance. You write no prompt, and the clip lands in your Library as an MP4.
+This page works as a Rumpelstiltskin AI generator. Press "Create your own", add one clear photo of your face and press Generate. With **Original clip** (the default), MakeViral puts your face on the little man in the real clip, or your whole photo with **Whole body**. With **You dance**, it dresses you in the velvet tuxedo in the hay barn, then animates the shush, the princess's shock and your tiptoe dance. You write no prompt, and the clip lands in My videos as an MP4.
 
 ### Can I put a friend in the video too?
 
@@ -319,7 +319,7 @@ MakeViral makes a vertical MP4 with sound, not a GIF. To get a GIF of yourself t
 
 ### How long is the video, and how long does it take?
 
-Original clip and Original clip, 2 people are 15 seconds, wide 16:9 like the original film, at 720p with its sound, and can take up to several minutes. You dance and You and a friend are 10 seconds, vertical 9:16, with sound, and are ready in a few minutes. You can leave the page while it runs, and the finished clip waits in your Library.
+Original clip and Original clip, 2 people are 15 seconds, wide 16:9 like the original film, at 720p with its sound, and can take up to several minutes. You dance and You and a friend are 10 seconds, vertical 9:16, with sound, and are ready in a few minutes. You can leave the page while it runs, and the finished clip waits in My videos.
 
 ### Does the Rumpelstiltskin video cost credits?
 
