@@ -3,7 +3,7 @@
 > The reverse hurdle AI trend puts you into football's most famous backwards hurdle.
 
 Canonical: https://www.makeviral.ai/templates/reverse-hurdle-ai-trend
-Updated: 2026-10-16
+Updated: 2026-11-08
 Published: 2026-10-16
 Author: MakeViral Team (https://www.makeviral.ai/about)
 Publisher: MakeViral (https://www.makeviral.ai)
@@ -16,7 +16,7 @@ Also called: Reverse hurdle AI trend, Backwards hurdle AI, Saquon hurdle AI, Spi
 
 **Make it now:** [Make this video](https://www.makeviral.ai/templates/reverse-hurdle-ai-trend/create). 1 photo · 10 s · 9:16 with sound · 126 credits, charged once · ready in a few minutes · no prompt to write.
 
-Keyword: backwards hurdle. Also answers: saquon barkley hurdle, saquon barkley backwards hurdle, saquon hurdle, saquon backwards hurdle, saquon barkley reverse hurdle, saquon reverse hurdle, reverse hurdle, saquon hurdle gif, backwards hurdle gif, american football ai, backwards hurdle nfl, ai football highlights, backwards hurdle football, nfl ai memes, ai football video generator, football ai video, ai football trend, football ai video generator, reverse hurdle nfl, reverse hurdle football, reverse hurdle video, backwards hurdle video, saquon reverse hurdle video, saquon backwards hurdle video, saquon hurdle video, reverse hurdle gif, saquon hurdle meme, saquon hurdle play, the reverse hurdle, nfl ai video, nfl ai videos, football ai video prompt, football ai trend prompt, reverse hurdle ai, ai nfl video, nfl ai video generator, nfl ai trend, ai football highlight video, ai football highlight reel, ai football video prompt, ai video football player, ai video football stadium.
+Keyword: backwards hurdle. Also answers: saquon barkley hurdle, saquon barkley backwards hurdle, saquon hurdle, saquon backwards hurdle, saquon barkley reverse hurdle, saquon reverse hurdle, reverse hurdle, saquon hurdle gif, backwards hurdle gif, american football ai, what unique move is saquon barkley known for, saquon barkley backwards hurdle gif, saquon barkley jumping backwards gif, saquon barkley ai, saquon barkley hurdle video, backwards hurdle nfl, ai football highlights, backwards hurdle football, nfl ai memes, ai football video generator, football ai video, ai football trend, football ai video generator, reverse hurdle nfl, reverse hurdle football, reverse hurdle video, backwards hurdle video, saquon reverse hurdle video, saquon backwards hurdle video, saquon hurdle video, reverse hurdle gif, saquon hurdle meme, saquon hurdle play, the reverse hurdle, nfl ai video, nfl ai videos, football ai video prompt, football ai trend prompt, reverse hurdle ai, ai nfl video, nfl ai video generator, nfl ai trend, ai football highlight video, ai football highlight reel, ai football video prompt, ai video football player, ai video football stadium.
 
 ## What is the Reverse Hurdle trend, and where did it start?
 
@@ -150,13 +150,17 @@ It is an AI football trend from October 2026: one photo becomes a broadcast-styl
 
 It is the same move, not the same footage. The Saquon reverse hurdle, also searched as the Saquon backwards hurdle or the Saquon Barkley reverse hurdle, is real game footage of a real player from 3 November 2024: the clip at the top of this page is the real Saquon hurdle play, from the NFL's own TikTok. Your video never uses that footage or his face. You are the runner in a new scene with generic teams, and MakeViral has no link to the player, the NFL or any team.
 
+### What unique move is Saquon Barkley known for?
+
+The backwards hurdle, also called the reverse hurdle. On 3 November 2024, against the Jacksonville Jaguars, he caught a short pass, spun all the way around and jumped backward over a cornerback who came in low. The NFL's TikTok clip of the play passed 21 million views, and it is the clip at the top of this page. Here you can do the same move yourself in an AI video made from one photo, with generic teams and no real player.
+
 ### How do I make a backwards hurdle video of myself?
 
 Press "Create your own", add one full-body photo and press Generate. In a few minutes your backwards hurdle video lands in My videos, ready to post. You need no app, no template and no prompt.
 
 ### Can I make a Saquon hurdle GIF of myself?
 
-MakeViral makes an MP4 video with sound, not a GIF. If you want a backwards hurdle GIF or a reverse hurdle GIF to send around like a Saquon hurdle GIF or meme, save the video and cut the 2-second jump in any GIF maker.
+MakeViral makes an MP4 video with sound, not a GIF. If you want a backwards hurdle GIF or a reverse hurdle GIF to send around like a Saquon hurdle GIF or meme, save the video and cut the 2-second jump in any GIF maker. If you came for a Saquon Barkley backwards hurdle GIF, the clip at the top of this page is the real play, from the NFL's own TikTok. It shows him jumping backwards over a cornerback who came in low.
 
 ### Is it an NFL AI video?
 
@@ -191,6 +195,15 @@ Yes. MakeViral does not post your photo or the result anywhere or show them to o
 - [AI TikTok Video](https://www.makeviral.ai/tools/ai-tiktok-video-generator): Eight native TikTok formats, one prompt or product URL, a finished 9:16 video with captions burned in.
 - [AI photo generator](https://www.makeviral.ai/ai-photo-generator)
 - [All AI video templates](https://www.makeviral.ai/templates)
+
+## New AI video trends this week
+
+- [Christmas Dance AI: Do the New TikTok Christmas Dance From Your Photos](https://www.makeviral.ai/templates/christmas-dance-ai-trend): Hip sways with the hands at the collar, rolling arms, a quick spin and raised fists, side by side in matching Christmas pajamas. Add two photos for the duo, one for a solo take, or two pets, and get the dance with the sound.
+- [Cat on Ultra Bee AI: Put Your Pet on the Wheelie](https://www.makeviral.ai/templates/cat-on-ultra-bee-ai-trend): Add one photo, and your cat or dog stands on an electric dirt bike and holds a long wheelie down a city road at golden hour, in the same shots as the viral clip, with its original sound. You can take the ride yourself, too.
+- [Tus Ojos Me Reflejan el Sentimiento: The Cafuné Eye Close-Up Trend](https://www.makeviral.ai/templates/tus-ojos-me-reflejan-ai-trend): You lie on your side, a hand rests on your cheek, warm light falls on your face, and the camera slowly moves in until your eyes fill the screen while the line plays. One photo in, an 8-second vertical clip with the trend's song out.
+- [İnşallah Maşallah AI Trend: Sing Neşe Karaböcek's Song on the Couch](https://www.makeviral.ai/templates/insallah-masallah-ai-trend): You sit on a light grey couch and sing the old Turkish love song straight to the camera: a hand on the heart, a big laugh with both hands on your head, a finger pointed at the camera and a kiss at the end. One photo of you, a grandparent or your pet, and the 15-second clip comes with the song.
+- [Ice Ice Baby Dance AI: Do the Viral Duo Dance With a Friend](https://www.makeviral.ai/templates/ice-ice-baby-dance-ai): Two dancers side by side, the same bouncy 90s steps, a spin on the beat and a strut to the camera. Add a photo of you and a friend, of you alone, or of your pet, and get the dance with the sound.
+- [Save Yourself Trend: Pull Yourself Up From the Cliff](https://www.makeviral.ai/templates/save-yourself-ai-trend): One photo plays both of you: the scared you clinging to a wet sea cliff, and the calm you who reaches down, pulls you up and holds you. Or use two photos: an older photo of you and a new one, or you and a friend. 15 seconds, vertical.
 
 ## Make your own Reverse Hurdle video
 

@@ -1,0 +1,48 @@
+{
+  "source": "makeviral",
+  "source_site": "https://www.makeviral.ai",
+  "slug": "bicep-heart-ai-trend",
+  "name": "Bicep Heart Trend AI: Flex a Heart on Your Arm From One Photo",
+  "url": "https://www.makeviral.ai/templates/bicep-heart-ai-trend",
+  "markdown_url": "https://www.makeviral.ai/templates/bicep-heart-ai-trend.md",
+  "blurb": "The bicep heart trend is a short clip where you smile at the camera, flex one arm and curl the other hand against the bicep, so the hand and the curve of the muscle make one heart.",
+  "updated": "2026-11-02",
+  "published": "2026-11-02",
+  "credits": 29,
+  "demo_videos": [
+    "https://www.makeviral.ai/media/templates/bicep-heart-ai-trend/original-main-v2.mp4"
+  ],
+  "posters": [
+    "https://www.makeviral.ai/media/templates/bicep-heart-ai-trend/original-main-v1.jpg"
+  ],
+  "prompts": [
+    {
+      "label": "1. The video prompt is filled in. Settings: kling-3-motion, 7 s, 720p, 9:16, sound off. The video prompt",
+      "variant": null,
+      "kind": "video_prompt",
+      "text": "One continuous single take, static camera, vertical video. Recreate the reference video exactly, but the performer is the person from the reference image instead of the woman: the same person with the same face, hair, skin tone, body, arms and clothes, in the place from the reference image.\nThe person smiles, flexes one bicep and makes a heart shape on it with the other hand, reproducing the woman's full performance frame by frame with the same timing: first a soft smile at the camera with both hands together low in front of the body; then one arm crosses the chest and that hand takes hold of the other arm; then the other arm bends up into a strong bicep flex with the fist next to the head; then the hand of the crossing arm curls its thumb and fingers against the inside of the flexed bicep, so the hand and the curve of the flexed arm together form one clear heart shape. The person holds the heart to the end with a proud, sweet smile and a small head tilt. Very natural, warm face.\nThe person keeps natural human anatomy: two arms and two hands with five fingers each, and the arm size and muscles of their own body, no added muscle. No cuts, no text, no captions, no heart graphics or labels on screen. No black T-shirt, no black wristwatch, no bracelets and no dark ponytail unless the reference image shows them. Exactly one person, no extra people."
+    },
+    {
+      "label": "1. The video prompt is filled in. Settings: Seedance 2.5, 7 s, 720p, 9:16, sound off. The video prompt",
+      "variant": "Pet",
+      "kind": "video_prompt",
+      "text": "Recreate the reference video [Video 1] shot for shot: the same dim room with the teal wall, the white door frame on the right and the warm low light, the same fixed phone camera at chest height, the same framing, timing and moves, one continuous take with no cuts. The ONLY change: the woman who smiles, flexes her arm and makes a heart on her bicep is now the pet in [Image 1].\n\nThe performer = the pet in [Image 1], whole body, in every frame: the same species and breed, head shape, face shape, muzzle, eyes, eye color, ears, fur colors, fur length and markings as in [Image 1], with the natural body volume and proportions of that animal: never flattened, squashed, stretched or merged with anything, so its owner instantly recognizes it. It stands upright on its hind legs like a person the whole time, facing the camera. It stays an animal: no human face, no human body, no T-shirt, no clothes and no watch unless [Image 1] shows them. Never drift back to the woman of the original video. If [Image 1] shows a cat, a dog or another animal, that animal performs in the same place with the same moves.\n\nThe pet copies the woman's performance with its front legs, matching the reference second by second:\n0-2 s: it stands upright, front paws together low in front of its belly, and looks at the camera with a happy face.\n2-3.5 s: one front leg crosses its chest and the paw touches the other front leg.\n3.5-4 s: the other front leg bends up at the elbow like a proud bicep flex, the paw next to its head.\n4-7 s: the crossing paw curls against the inside of the raised front leg, so the two front legs make a rough heart shape, as close as a pet's legs allow. It holds the pose to the end with a proud, sweet look and a small head tilt.\n\nThe pet keeps real animal anatomy: furry front legs ending in round paws covered in its own fur, never human hands, no bare skin, no fingers. One head only, two hind legs and two front legs, no extra legs or paws. No text, no captions, no heart graphics, no logos, no watermark, no people, no extra animals. No dialogue throughout the entire video. No background music."
+    }
+  ],
+  "variant_headings": [
+    "What the Bicep Heart Trend video looks like",
+    "How to make the Bicep Heart Trend video on MakeViral",
+    "Which photo works best?",
+    "What happens in the bicep heart video, beat by beat?",
+    "How do I make a bicep heart AI video?",
+    "Will the woman from the trend reel be in my video?",
+    "Can I make a bicep heart picture instead of a video?",
+    "How long is the video and what format is it?",
+    "Which AI models make the bicep heart AI video?",
+    "Other AI video templates and tools",
+    "New AI video trends this week",
+    "Make your own Bicep Heart Trend video"
+  ],
+  "prompt_count": 2,
+  "scraped_at": "2026-11-08"
+}

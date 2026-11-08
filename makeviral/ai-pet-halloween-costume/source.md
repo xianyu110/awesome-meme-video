@@ -3,7 +3,7 @@
 > An AI dog costume puts your dog or cat in a Halloween costume with no shopping and no photo shoot.
 
 Canonical: https://www.makeviral.ai/templates/ai-pet-halloween-costume
-Updated: 2026-10-18
+Updated: 2026-10-29
 Published: 2026-10-08
 Author: MakeViral Team (https://www.makeviral.ai/about)
 Publisher: MakeViral (https://www.makeviral.ai)
@@ -16,7 +16,7 @@ Also called: AI pet Halloween costume, AI cat costume, AI pet costume.
 
 **Make it now:** [Make this photo](https://www.makeviral.ai/templates/ai-pet-halloween-costume/create). 1 photo in · 2K photo out · 9:16 · 3 credits, charged once · ready in a few minutes · no prompt to write.
 
-Keyword: ai dog costume. Also answers: dog halloween costumes, halloween costumes for dogs, cat halloween costumes, halloween costumes for cats, ai dog halloween costume, ai cat halloween costume, pet halloween costumes, pet halloween costume, dog and owner halloween costumes, matching dog and owner halloween costumes, dog costume ai, dog in halloween costume, cat in halloween costume, pet costume ai, dog pumpkin costume, dog hot dog costume, dog ghost costume, small dog halloween costumes, large dog halloween costumes, dog halloween costume ideas, dog costume ideas, funny dog halloween costumes, cat pumpkin costume, dog bee costume, owner and dog halloween costumes, cute dog halloween costumes, dog lion mane costume, dog witch costume, cat witch costume, dog and human halloween costumes, dog owner costumes, halloween dog pictures, dog bat wings costume, cat halloween costume ideas, halloween dog photoshoot, dog halloween photos, halloween dog photo, pet halloween costume ideas, dog and owner halloween costumes ideas, dog and human halloween costume ideas, halloween pet pictures, pet and owner halloween costumes, dog halloween costume dinosaur, halloween pet photoshoot, what should my dog be for halloween, dog halloween costumes 2026, dog halloween photoshoot ideas, pet halloween photoshoot, pet halloween photos, matching pet and owner costumes, best dog and owner halloween costumes, cute dog and owner halloween costumes, ai dog costume generator, dog halloween ai, what can my dog be for halloween, what should me and my dog be for halloween, funny dog and owner halloween costumes, easy dog and owner halloween costumes, dog in halloween costume video, what should i dress my dog up for halloween.
+Keyword: ai dog costume. Also answers: dog halloween costumes, halloween costumes for dogs, cat halloween costumes, halloween costumes for cats, ai dog halloween costume, ai cat halloween costume, pet halloween costumes, pet halloween costume, dog and owner halloween costumes, matching dog and owner halloween costumes, dog costume ai, dog in halloween costume, cat in halloween costume, pet costume ai, dog pumpkin costume, dog hot dog costume, dog ghost costume, small dog halloween costumes, large dog halloween costumes, dog halloween costume ideas, dog costume ideas, funny dog halloween costumes, cat pumpkin costume, dog bee costume, owner and dog halloween costumes, cute dog halloween costumes, dog lion mane costume, dog witch costume, cat witch costume, dog and human halloween costumes, dog owner costumes, halloween dog pictures, dog bat wings costume, cat halloween costume ideas, halloween dog photoshoot, dog halloween photos, halloween dog photo, pet halloween costume ideas, dog and owner halloween costumes ideas, dog and human halloween costume ideas, halloween pet pictures, pet and owner halloween costumes, dog halloween costume dinosaur, halloween pet photoshoot, what should my dog be for halloween, dog halloween costumes 2026, dog halloween photoshoot ideas, pet halloween photoshoot, pet halloween photos, matching pet and owner costumes, best dog and owner halloween costumes, cute dog and owner halloween costumes, ai dog costume generator, dog halloween ai, what can my dog be for halloween, what should me and my dog be for halloween, funny dog and owner halloween costumes, easy dog and owner halloween costumes, dog in halloween costume video, what should i dress my dog up for halloween, adult pumpkin costume, pumpkin costume for adults.
 
 ## What is the Pet Halloween Costume trend, and where did it start?
 
@@ -110,6 +110,20 @@ Settings: 1 photo (your pet, whole body) · Seedance 2.0 Mini · 6 s · 720p · 
 
 One-tap version of this variant: https://www.makeviral.ai/templates/ai-pet-halloween-costume/create?variant=video
 
+#### Variant: Human
+
+Settings: 1 photo (your photo, whole body) · Nano Banana 2.1 · photo · 2K · 9:16 · 3 credits in one tap.
+
+1. Open [AI Photo with this template](https://www.makeviral.ai/photo?template=ai-pet-halloween-costume&variant=human) and add your photo (your photo, whole body). Pick 2K for the same size as the one-tap photo. The photo prompt is filled in:
+
+   ```text
+   Use the uploaded image as the base. Keep the person's face, facial features, skin tone, hair color, hairstyle, age, height and body shape exactly the same as in the photo. Do not slim, reshape or beautify the face or the body. Dress the person in a cute, well-fitted Halloween costume made for an adult, the people version of the classic pet costume: a soft, round orange pumpkin costume around the body with a little green stem and leaf cap on the head. The face and the hair stay fully visible. The person sits on a wooden porch step at dusk beside carved jack-o'-lanterns glowing warm orange and a few fallen autumn leaves, and smiles at the camera. Warm porch light. A real phone photo taken at eye level, shallow depth of field, natural skin texture. The whole person is in frame, head to shoes, and the face is sharp. Vertical 9:16. Exactly one person, no animals. No camera app interface, no icons, no frames or overlays. No text, no logos, no brand marks.
+   ```
+
+2. Press Generate, then download the 9:16 image. To make it move, press "Make it a video" on it.
+
+One-tap version of this variant: https://www.makeviral.ai/templates/ai-pet-halloween-costume/create?variant=human
+
 ### Which photo works best?
 
 Use **one sharp photo of your pet with the whole body in view**, ears to paws. The costume covers the body, so the model needs to see the size, the legs, the fur color and the markings.
@@ -119,6 +133,7 @@ Use **one sharp photo of your pet with the whole body in view**, ears to paws. T
 - One animal per photo. With two, the model may merge them.
 - Any background works: the prompt moves your pet to a Halloween porch.
 - For **You and your pet**, add your photo **first** (full body, face clear), then your pet. In a pair such as "Ketchup and hot dog", you wear the first part.
+- For **Human**, add one full-body photo of yourself with the face clear: you wear the people version of the same costume on the same porch.
 - Use your own pet, and your own face or that of an adult who agreed. Never a celebrity.
 
 ## How many credits does it cost?
@@ -245,7 +260,7 @@ Yes. There is no watermark, and the video has original sound, so it is clean to 
 
 ### Can I see myself in a costume too?
 
-Yes, on its own page: the [AI Halloween costume try-on](https://www.makeviral.ai/templates/ai-halloween-costume) dresses you, or you and a partner, in any costume you type, and can make a costume reveal video.
+Yes. On this page, pick **Human** and add one full-body photo of yourself: you get a 2K photo of you in the people version of the same costume on the same Halloween porch, the pumpkin by default, so it works as an adult pumpkin costume try-on before you buy a pumpkin costume for adults. Hot dog, Ghost, Bat wings and the other quick picks work too, or type your own. For witches, vampires and more adult costumes, or you and a partner, the [AI Halloween costume try-on](https://www.makeviral.ai/templates/ai-halloween-costume) dresses you in any costume you type, and can make a costume reveal video.
 
 ## Other AI video templates and tools
 
@@ -256,6 +271,15 @@ Yes, on its own page: the [AI Halloween costume try-on](https://www.makeviral.ai
 - [AI TikTok Video](https://www.makeviral.ai/tools/ai-tiktok-video-generator): Eight native TikTok formats, one prompt or product URL, a finished 9:16 video with captions burned in.
 - [AI photo generator](https://www.makeviral.ai/ai-photo-generator)
 - [All AI video templates](https://www.makeviral.ai/templates)
+
+## New AI video trends this week
+
+- [Christmas Dance AI: Do the New TikTok Christmas Dance From Your Photos](https://www.makeviral.ai/templates/christmas-dance-ai-trend): Hip sways with the hands at the collar, rolling arms, a quick spin and raised fists, side by side in matching Christmas pajamas. Add two photos for the duo, one for a solo take, or two pets, and get the dance with the sound.
+- [Cat on Ultra Bee AI: Put Your Pet on the Wheelie](https://www.makeviral.ai/templates/cat-on-ultra-bee-ai-trend): Add one photo, and your cat or dog stands on an electric dirt bike and holds a long wheelie down a city road at golden hour, in the same shots as the viral clip, with its original sound. You can take the ride yourself, too.
+- [Tus Ojos Me Reflejan el Sentimiento: The Cafuné Eye Close-Up Trend](https://www.makeviral.ai/templates/tus-ojos-me-reflejan-ai-trend): You lie on your side, a hand rests on your cheek, warm light falls on your face, and the camera slowly moves in until your eyes fill the screen while the line plays. One photo in, an 8-second vertical clip with the trend's song out.
+- [İnşallah Maşallah AI Trend: Sing Neşe Karaböcek's Song on the Couch](https://www.makeviral.ai/templates/insallah-masallah-ai-trend): You sit on a light grey couch and sing the old Turkish love song straight to the camera: a hand on the heart, a big laugh with both hands on your head, a finger pointed at the camera and a kiss at the end. One photo of you, a grandparent or your pet, and the 15-second clip comes with the song.
+- [Ice Ice Baby Dance AI: Do the Viral Duo Dance With a Friend](https://www.makeviral.ai/templates/ice-ice-baby-dance-ai): Two dancers side by side, the same bouncy 90s steps, a spin on the beat and a strut to the camera. Add a photo of you and a friend, of you alone, or of your pet, and get the dance with the sound.
+- [Save Yourself Trend: Pull Yourself Up From the Cliff](https://www.makeviral.ai/templates/save-yourself-ai-trend): One photo plays both of you: the scared you clinging to a wet sea cliff, and the calm you who reaches down, pulls you up and holds you. Or use two photos: an older photo of you and a new one, or you and a friend. 15 seconds, vertical.
 
 ## Make your own Pet Halloween Costume photo
 

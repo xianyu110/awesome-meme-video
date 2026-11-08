@@ -3,7 +3,7 @@
 > The Enchantress filter is a Halloween transformation trend on TikTok.
 
 Canonical: https://www.makeviral.ai/templates/enchantress-filter-ai
-Updated: 2026-10-21
+Updated: 2026-11-02
 Published: 2026-10-21
 Author: MakeViral Team (https://www.makeviral.ai/about)
 Publisher: MakeViral (https://www.makeviral.ai)
@@ -16,7 +16,7 @@ Also called: Enchantress Filter 1, Moon witch filter, Dark moon goddess filter, 
 
 **Make it now:** [Make this video](https://www.makeviral.ai/templates/enchantress-filter-ai/create). 1 photo · 10 s · 9:16 with sound · 126 credits, charged once · ready in a few minutes · no prompt to write.
 
-Keyword: enchantress filter. Also answers: enchantress filter capcut, enchantress trend, enchantress transformation, enchantress filter tiktok, enchantress filter ai, ai witch filter, witch filter tiktok, witch transformation, dark witch makeup, enchantress makeup, enchantress trend tutorial, enchantress capcut template, enchantress filter template, how to make the enchantress filter, enchantress makeup look, enchantress witch makeup, dark enchantress makeup, enchantress makeup halloween, witch filter, witch filter app, witch filter for photos, witch face filter, halloween witch filter, scary witch filter, white witch filter, ai witch photo, ai halloween witch, ai witch transformation, witch transformation ai, witch ai video generator, moon witch, dark moon witch, moon witch costume, moon goddess costume, moon goddess filter, pet witch familiar, filtro de bruja.
+Keyword: enchantress filter. Also answers: enchantress filter capcut, enchantress trend, enchantress transformation, enchantress filter tiktok, enchantress filter ai, ai witch filter, witch filter tiktok, witch transformation, dark witch makeup, enchantress makeup, enchantress face markings, enchantress ai, enchantress pose, enchantress transition, moon witch makeup, enchantress trend tutorial, enchantress capcut template, enchantress filter template, how to make the enchantress filter, enchantress makeup look, enchantress witch makeup, dark enchantress makeup, enchantress makeup halloween, witch filter, witch filter app, witch filter for photos, witch face filter, halloween witch filter, scary witch filter, white witch filter, ai witch photo, ai halloween witch, ai witch transformation, witch transformation ai, witch ai video generator, moon witch, dark moon witch, moon witch costume, moon goddess costume, moon goddess filter, pet witch familiar, filtro de bruja.
 
 ## What is the Enchantress Filter trend, and where did it start?
 
@@ -187,6 +187,14 @@ No creator has shared one: the CapCut template is closed, and the tutorials only
 
 Both, in a way. It is an AI witch filter that works like a witch AI video generator: one photo in, a 10-second video out. MakeViral works in the browser, so there is no witch filter app to install. A witch filter TikTok effect or a witch face filter only paints over your face; this is a full witch transformation: makeup, crown, gown and hands change after the wipe.
 
+### What are the Enchantress face markings?
+
+In the trend's look, the enchantress face markings are fine black dotted lines under the eyes, one thin black line from the black lips down to the chin, and a big gold crescent moon on the forehead. The AI draws them on your own face after the wipe, so you need no moon witch makeup in your photo.
+
+### What is the Enchantress transition and the pose at the end?
+
+The Enchantress transition is the hand wipe: the black witch hand that holds yours sweeps over the lens at about 4.5 seconds, and you come back changed. The Enchantress pose at the end is one finger raised to your lips: "shh". The Enchantress AI version here keeps both beats.
+
 ### Can I make a white witch instead?
 
 Yes. Pick the "White witch" look on the create page. A glowing silver hand takes yours, and you come back with a silver crescent crown, silver makeup, an ivory lace gown and silver sparkles on midnight blue.
@@ -222,6 +230,15 @@ Yes. MakeViral does not post your photo or the video anywhere or show them to ot
 - [AI Halloween Costume Try-On: See Yourself in a Costume Before You Buy](https://www.makeviral.ai/templates/ai-halloween-costume): Add one full-body photo, type or pick a costume, and see yourself in it at a Halloween party. Two photos make a matching couple costume, and a short costume transition video shows the change.
 - [AI photo generator](https://www.makeviral.ai/ai-photo-generator)
 - [All AI video templates](https://www.makeviral.ai/templates)
+
+## New AI video trends this week
+
+- [Christmas Dance AI: Do the New TikTok Christmas Dance From Your Photos](https://www.makeviral.ai/templates/christmas-dance-ai-trend): Hip sways with the hands at the collar, rolling arms, a quick spin and raised fists, side by side in matching Christmas pajamas. Add two photos for the duo, one for a solo take, or two pets, and get the dance with the sound.
+- [Cat on Ultra Bee AI: Put Your Pet on the Wheelie](https://www.makeviral.ai/templates/cat-on-ultra-bee-ai-trend): Add one photo, and your cat or dog stands on an electric dirt bike and holds a long wheelie down a city road at golden hour, in the same shots as the viral clip, with its original sound. You can take the ride yourself, too.
+- [Tus Ojos Me Reflejan el Sentimiento: The Cafuné Eye Close-Up Trend](https://www.makeviral.ai/templates/tus-ojos-me-reflejan-ai-trend): You lie on your side, a hand rests on your cheek, warm light falls on your face, and the camera slowly moves in until your eyes fill the screen while the line plays. One photo in, an 8-second vertical clip with the trend's song out.
+- [İnşallah Maşallah AI Trend: Sing Neşe Karaböcek's Song on the Couch](https://www.makeviral.ai/templates/insallah-masallah-ai-trend): You sit on a light grey couch and sing the old Turkish love song straight to the camera: a hand on the heart, a big laugh with both hands on your head, a finger pointed at the camera and a kiss at the end. One photo of you, a grandparent or your pet, and the 15-second clip comes with the song.
+- [Ice Ice Baby Dance AI: Do the Viral Duo Dance With a Friend](https://www.makeviral.ai/templates/ice-ice-baby-dance-ai): Two dancers side by side, the same bouncy 90s steps, a spin on the beat and a strut to the camera. Add a photo of you and a friend, of you alone, or of your pet, and get the dance with the sound.
+- [Save Yourself Trend: Pull Yourself Up From the Cliff](https://www.makeviral.ai/templates/save-yourself-ai-trend): One photo plays both of you: the scared you clinging to a wet sea cliff, and the calm you who reaches down, pulls you up and holds you. Or use two photos: an older photo of you and a new one, or you and a friend. 15 seconds, vertical.
 
 ## Make your own Enchantress Filter video
 

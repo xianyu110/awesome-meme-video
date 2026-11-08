@@ -152,12 +152,12 @@ A Best clip comes with the reel's own original sound instead. You can turn it of
 
 | Reference | Standard (default) | Best |
 |---|---|---|
-| Red cape | Seedance 2.5 takes your two photos (and your object photo, if you add one) and films the sword swap straight from them, with no AI picture in between, your two knights in silver armor, the big one in a long dark red cape: 10 s, 720p, vertical 9:16, with original sound. It follows the story and look of the reel, not its exact shots. | Higgsfield Genjutsu motion transfer: the reel itself is the source, and your photos replace its two people. 15 s, 480p, in the reel's own 4:3 frame, with no sound. |
-| Golden armor | MakeViral first makes a photo of your two knights in golden armor with your object (Nano Banana 2.1), then Kling 3.0 animates the sword swap: 10 s, 1080p, vertical 9:16, with original sound. It follows the story and look of the reel, not its exact shots. | Genjutsu on the golden armor reel itself: 14 s, 480p, in the reel's own 4:3 frame, with no sound. |
+| Red cape | Seedance 2.5 takes your two photos (and your object photo, if you add one) and films the sword swap straight from them, with no AI picture in between, your two knights in silver armor, the big one in a long dark red cape: 10 s, 720p, vertical 9:16, with original sound. It follows the story and look of the reel, not its exact shots. | Seedance 2.5 copies the reel itself, shot by shot, and your photos replace its two people, with both faces locked to your photos. 15 s, 720p, in the reel's own 4:3 frame, with the reel's sound. It can take 5 to 15 minutes. |
+| Golden armor | MakeViral first makes a photo of your two knights in golden armor with your object (Nano Banana 2.1), then Kling 3.0 animates the sword swap: 10 s, 1080p, vertical 9:16, with original sound. It follows the story and look of the reel, not its exact shots. | Seedance 2.5 on the golden armor reel itself, in the same way: 14 s, 720p, in the reel's own 4:3 frame, with the reel's sound. It can take 5 to 15 minutes. |
 
-**Why does Standard make a new scene?** The cheaper models that copy a reel shot by shot (Seedance 2.0 Mini, Seedance 2.5 and Kling O3) often kept the reel's own mom and child instead of the people in the photos. Only Genjutsu swapped both faces every time. So Best copies the reel with Genjutsu, and Standard builds the same story from your photos.
+**Why does Standard make a new scene?** In our first tests the cheaper models that copy a reel shot by shot (Seedance 2.0 Mini, Seedance 2.5 and Kling O3) often kept the reel's own mom and child instead of the people in the photos. So Standard builds the same story from your photos. Best copies the reel with Seedance 2.5 and newer instructions that lock each face to its photo and name what must change.
 
-**When should you pick Best?** Pick it when you want the exact moves of the reel and the closest faces: because the reel is the source, every move stays the reel's, and Genjutsu keeps faces best. Pick Standard when you want a vertical clip with sound that is ready to post as it is.
+**When should you pick Best?** Pick it when you want the exact moves of the reel: because the reel is the source, every move stays the reel's. Pick Standard when you want a vertical clip with sound that is ready to post as it is.
 
 We tested the references on 8 October 2026 and the Red cape Standard on 12 and 13 October 2026, with AI-made photos. On 13 October Red cape Standard moved to Seedance 2.5 straight from the photos: in our face check the faces matched the photos much more closely than with the photo-first method. Faces and pets carried over well, and the object came out big and clear. Most Standard runs look great, but sometimes a face looks less like the photo, or the look of the original reel comes through. If that happens, run it again or pick Best. Results differ from run to run.
 
@@ -249,7 +249,7 @@ The red cape reel by @gazizaaz uses "Outro" by M83. A Standard video from MakeVi
 
 ### What is the difference between Standard and Best?
 
-Standard is the default and costs fewer credits. It makes a vertical 9:16 video with original sound. Red cape: Seedance 2.5 films the scene straight from your two photos at 720p. Golden armor: MakeViral makes a photo of your two knights first, then Kling 3.0 animates it at 1080p. Best costs more and uses Higgsfield Genjutsu, which takes the reel itself and puts your photos in place of its two people. It keeps the reel's moves exactly and keeps faces best, but the clip is 480p, in the reel's 4:3 frame, with the reel's original sound, which you can turn off.
+Standard is the default and costs fewer credits. It makes a vertical 9:16 video with original sound. Red cape: Seedance 2.5 films the scene straight from your two photos at 720p. Golden armor: MakeViral makes a photo of your two knights first, then Kling 3.0 animates it at 1080p. Best costs more and uses Seedance 2.5, which takes the reel itself and puts your photos in place of its two people, with both faces locked to your photos. It keeps the reel's moves, at 720p in the reel's 4:3 frame, with the reel's original sound, which you can turn off. It can take 5 to 15 minutes.
 
 ### Will the little knight cry, like in the golden armor reel?
 
@@ -268,6 +268,15 @@ Your video starts from your photos, so faces, hair, fur and sizes follow them, a
 - [AI TikTok Video](https://www.makeviral.ai/tools/ai-tiktok-video-generator): Eight native TikTok formats, one prompt or product URL, a finished 9:16 video with captions burned in.
 - [AI photo generator](https://www.makeviral.ai/ai-photo-generator)
 - [All AI video templates](https://www.makeviral.ai/templates)
+
+## New AI video trends this week
+
+- [Christmas Dance AI: Do the New TikTok Christmas Dance From Your Photos](https://www.makeviral.ai/templates/christmas-dance-ai-trend): Hip sways with the hands at the collar, rolling arms, a quick spin and raised fists, side by side in matching Christmas pajamas. Add two photos for the duo, one for a solo take, or two pets, and get the dance with the sound.
+- [Cat on Ultra Bee AI: Put Your Pet on the Wheelie](https://www.makeviral.ai/templates/cat-on-ultra-bee-ai-trend): Add one photo, and your cat or dog stands on an electric dirt bike and holds a long wheelie down a city road at golden hour, in the same shots as the viral clip, with its original sound. You can take the ride yourself, too.
+- [Tus Ojos Me Reflejan el Sentimiento: The Cafuné Eye Close-Up Trend](https://www.makeviral.ai/templates/tus-ojos-me-reflejan-ai-trend): You lie on your side, a hand rests on your cheek, warm light falls on your face, and the camera slowly moves in until your eyes fill the screen while the line plays. One photo in, an 8-second vertical clip with the trend's song out.
+- [İnşallah Maşallah AI Trend: Sing Neşe Karaböcek's Song on the Couch](https://www.makeviral.ai/templates/insallah-masallah-ai-trend): You sit on a light grey couch and sing the old Turkish love song straight to the camera: a hand on the heart, a big laugh with both hands on your head, a finger pointed at the camera and a kiss at the end. One photo of you, a grandparent or your pet, and the 15-second clip comes with the song.
+- [Ice Ice Baby Dance AI: Do the Viral Duo Dance With a Friend](https://www.makeviral.ai/templates/ice-ice-baby-dance-ai): Two dancers side by side, the same bouncy 90s steps, a spin on the beat and a strut to the camera. Add a photo of you and a friend, of you alone, or of your pet, and get the dance with the sound.
+- [Save Yourself Trend: Pull Yourself Up From the Cliff](https://www.makeviral.ai/templates/save-yourself-ai-trend): One photo plays both of you: the scared you clinging to a wet sea cliff, and the calm you who reaches down, pulls you up and holds you. Or use two photos: an older photo of you and a new one, or you and a friend. 15 seconds, vertical.
 
 ## Make your own Knight Sword Swap video
 

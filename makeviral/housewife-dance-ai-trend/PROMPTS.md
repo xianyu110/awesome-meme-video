@@ -1,0 +1,46 @@
+# Housewife Dance AI: Do the Viral Routine From One Photo
+
+- Source: [makeviral](https://www.makeviral.ai/templates/housewife-dance-ai-trend)
+- Slug: `housewife-dance-ai-trend`
+
+The Housewife dance is the TikTok routine to Tate McRae's song "Housewife": a low, wide stance, hip sways, arms thrown up and hands flicked past the face, all with a lot of attitude.
+
+## Demo videos (CDN)
+
+- https://www.makeviral.ai/media/templates/housewife-dance-ai-trend/original-main-v2.mp4
+
+## Posters
+
+- https://www.makeviral.ai/media/templates/housewife-dance-ai-trend/original-main-v1.jpg
+
+## Prompts
+
+### 1. 1. The video prompt is filled in. Settings: kling-3-motion, 15 s, 720p, 9:16, sound off. The video prompt (Human)
+
+*Kind: video_prompt*
+
+```text
+Use the reference image as the sole character identity reference and the reference video as the motion reference. Animate exactly one adult dancer, in the place from the reference image. Preserve the person's recognizable face, hairstyle, skin tone, body proportions, outfit, shoes, and accessories throughout the video. Follow the reference dancer's movement order and timing, including the low wide-leg stance, the hip sways and body rolls, the arms swung out and thrown up high, the elbows-out framing, the hands on the hips, the hand flicks past the face and the final pose with both hands up, as visible in the clip. Do not invent additional moves. Keep the entire body visible from head to shoes, with enough space around both hands and feet. Follow the reference framing and camera movement. Maintain natural balance, stable ground contact, and consistent shadows. Keep the face recognizable during turns, with the confident, sassy facial attitude of the reference dancer. No extra dancers, duplicate bodies, extra limbs, fused fingers, outfit changes, new camera cuts, text, or watermark. Use a vertical 9:16 reference and output when supported.
+No red baseball cap, no white tank top, no wide black sweatpants with a white print, no beard, no moustache and no arm tattoos unless the reference image shows them.
+```
+
+### 2. 1. The video prompt is filled in. Settings: Seedance 2.5, 15 s, 720p, 9:16, sound off. The video prompt (Pet)
+
+*Kind: video_prompt*
+
+```text
+Recreate the reference video [Video 1] shot for shot: the same dim living room lit in blue and purple light, with the big TV on a low white cabinet, the dark framed picture above it, the grey curtain on the right and the concrete ceiling, the same phone camera low on the floor looking up, the same framing, timing and dance moves, one continuous take with no cuts. The ONLY change: the man who dances alone in the middle of the room is now the pet in [Image 1].
+
+The dancer = the pet in [Image 1], whole body, in every frame: the same species and breed, head shape, muzzle, eyes, ears, fur colors, fur length, markings and body shape as in [Image 1], with the natural body volume and proportions of that animal: never flattened, squashed, stretched or merged with anything, so its owner instantly recognizes it. It stands upright on its hind legs like a person the whole time. Never drift back to the man of the original video: no human face, no human body, no red cap, no white tank top and no black sweatpants. If [Image 1] shows a cat, a dog or another animal, that animal dances in the same place with the same moves.
+
+The dance, matching the reference second by second, on the beat, with a lot of attitude. Do not invent additional moves.
+0-2.5 s: a low wide stance on the hind legs, both front legs swung out to the sides.
+2.5-4 s: one front leg thrown high above the head, then a paw over the head.
+4-7.5 s: a deep wide stance, front legs bent out at the elbows, framing the body, a body roll.
+7.5-10 s: front paws on the hips, then a lean to the side in the wide stance.
+10-12 s: paw flicks past the face and a quarter turn to the side.
+12-15 s: both front paws up above the head, then paws framing the face for the final pose, a hip pop.
+
+Anatomy rules: one head only, one tail. Two hind legs on the floor and two front legs ending in round furry paws covered in its own fur, never human hands, no bare skin, no fingers, no extra legs or paws. Natural balance and stable ground contact. No dialogue throughout the entire video. No background music. No text, no captions, no logos, no watermark, no people, no extra animals.
+```
+

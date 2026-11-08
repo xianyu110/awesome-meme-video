@@ -1,0 +1,51 @@
+{
+  "source": "makeviral",
+  "source_site": "https://www.makeviral.ai",
+  "slug": "ai-concert-singing-video",
+  "name": "AI Concert Video: Sing and Rap on a Huge Concert Stage From One Photo",
+  "url": "https://www.makeviral.ai/templates/ai-concert-singing-video",
+  "markdown_url": "https://www.makeviral.ai/templates/ai-concert-singing-video.md",
+  "blurb": "The ai concert video is the stage singing trend from Myanmar: one photo becomes you singing and rapping into a mic on a huge night stage.",
+  "updated": "2026-10-26",
+  "published": "2026-10-26",
+  "credits": 126,
+  "demo_videos": [
+    "https://www.makeviral.ai/media/templates/ai-concert-singing-video/original-main-v2.mp4"
+  ],
+  "posters": [
+    "https://www.makeviral.ai/media/templates/ai-concert-singing-video/original-main-v1.jpg"
+  ],
+  "prompts": [
+    {
+      "label": "1. The video prompt is filled in. Settings: Seedance 2.5, 10 s, 720p, 9:16, sound on. The video prompt",
+      "variant": null,
+      "kind": "video_prompt",
+      "text": "A viral AI concert video: the person in [Image 1] is the star singer on a huge concert stage, singing and rapping into a handheld microphone. Vertical 9:16, photorealistic, like a fan's phone video from the front rows at night: slightly handheld, the singer always large in the frame.\n\nThe place: a huge outdoor concert stage at night. Behind the singer, a giant curved LED wall glows deep blue with soft moving light patterns (no words, no pictures, no faces on it). Steel truss towers on both sides, rows of white spotlights and moving beams cutting through light haze, a black stage floor with monitor speakers at the front edge. Below the stage, a big crowd of grown adults: dark silhouettes, raised hands and phone lights.\n\nTHE SINGER is the person in [Image 1], in every frame, with the hair and the clothes from [Image 1] (any print or logo stays plain; a uniform or camouflage becomes a plain black hoodie): copy the exact face from [Image 1] (the face shape, eye color and eye shape, eyebrows, nose, mouth, skin tone, age, hair color, hair length and hairstyle, and any beard, moustache, glasses or freckles). The same face from the first frame to the last, also while rapping with the mouth wide open, in the low lean and with the eyes closed, so their friends recognize them at once. Never morph, never a younger face. Alone on the stage: no band, no dancers, no other performer.\n\n0-2.5 s: a medium-wide shot from the front rows: the singer stands at the front of the stage with a black handheld wireless microphone close to the mouth, raps to the beat and bounces, the other hand moving in rhythm.\n2.5-5 s: a medium shot, the face large and sharp: exactly the face from [Image 1]. The singer leans forward and bends low, almost a crouch, rapping hard into the mic with raised eyebrows, then rises.\n5-7.5 s: the singer turns side-on, takes two loose, swaggering steps along the stage edge, points the other hand at the crowd and sings a long note with the eyes closed while the spotlights sweep.\n7.5-10 s: back to the front: the singer throws one arm high in the air, the crowd's hands and phone lights go up, and the singer grins into the camera as the beat drops.\n\nAudio: an original, punchy hip-hop beat with deep bass and a catchy synth line, instrumental only (no singing voice, no lyrics, no known song), and the cheers of the crowd. The singer raps and sings along into the microphone with full feeling, the mouth moving in rhythm with the beat.\n\nEveryone is a grown adult with an adult face and body, the crowd too. Plain casual clothes: no uniform, no camouflage, no flag, no political sign, no logos. No text, no captions, no banners, no watermark. One head, two arms and five fingers on each hand; the microphone stays in the hand. Never a famous singer's face."
+    },
+    {
+      "label": "1. The video prompt is filled in. Settings: Seedance 2.5, 10 s, 720p, 9:16, sound on. The video prompt",
+      "variant": null,
+      "kind": "video_prompt",
+      "text": "A viral AI concert video: the people in [Image 1] and [Image 2] share a huge concert stage as a duo, each singing and rapping into their own handheld microphone. Vertical 9:16, photorealistic, like a fan's phone video from the front rows at night: slightly handheld, the singer always large in the frame.\n\nThe place: a huge outdoor concert stage at night. Behind the singer, a giant curved LED wall glows deep blue with soft moving light patterns (no words, no pictures, no faces on it). Steel truss towers on both sides, rows of white spotlights and moving beams cutting through light haze, a black stage floor with monitor speakers at the front edge. Below the stage, a big crowd of grown adults: dark silhouettes, raised hands and phone lights.\n\nTHE SINGER ON THE LEFT is the person in [Image 1], in every frame, with the hair and the clothes from [Image 1] (any print or logo stays plain; a uniform or camouflage becomes a plain black hoodie): copy the exact face from [Image 1] (the face shape, eye color and eye shape, eyebrows, nose, mouth, skin tone, age, hair color, hair length and hairstyle, and any beard, moustache, glasses or freckles). The same face from the first frame to the last, also while rapping with the mouth wide open, in the low lean and with the eyes closed, so their friends recognize them at once. Never morph, never a younger face.\nTHE SINGER ON THE RIGHT is the person in [Image 2], in every frame, with the hair and the clothes from [Image 2] and the exact face from [Image 2] (the face shape, eye color and eye shape, eyebrows, nose, mouth, skin tone, age, hair color, hair length and hairstyle, and any beard, moustache, glasses or freckles).\nNever blend their faces, never swap them. Each face stays the same from the first frame to the last. Exactly two performers: no band, no dancers.\n\n0-2.5 s: a medium-wide shot from the front rows: both stand side by side at the front of the stage, each with a black handheld wireless microphone; the LEFT singer raps the first line while the RIGHT singer bounces to the beat.\n2.5-5 s: a medium shot of the LEFT singer, the face large and sharp: exactly the face from [Image 1]. A low lean, almost a crouch, rapping hard into the mic.\n5-7.5 s: a medium shot of the RIGHT singer, the face large and sharp: exactly the face from [Image 2]. The next line, a point at the crowd, a long note with the eyes closed.\n7.5-10 s: back to the wide shot: both throw one arm high in the air together, the crowd's hands and phone lights go up, and both grin into the camera as the beat drops.\n\nAudio: an original, punchy hip-hop beat with deep bass and a catchy synth line, instrumental only (no singing voice, no lyrics, no known song), and the cheers of the crowd. The singer raps and sings along into the microphone with full feeling, the mouth moving in rhythm with the beat.\n\nEveryone is a grown adult with an adult face and body, the crowd too. Plain casual clothes: no uniform, no camouflage, no flag, no political sign, no logos. No text, no captions, no banners, no watermark. One head, two arms and five fingers on each hand; the microphone stays in the hand. Never a famous singer's face."
+    }
+  ],
+  "variant_headings": [
+    "What is the AI Concert Video trend, and where did it start?",
+    "AI Concert Video trend timeline",
+    "What the AI Concert Video video looks like",
+    "How to make the AI Concert Video video on MakeViral",
+    "Which photo works best?",
+    "What happens in the AI concert video, second by second?",
+    "Solo or Duo: what each version gives",
+    "AI Concert Video trend questions",
+    "How do I make the AI concert video from my photo?",
+    "Does the video have the trend song?",
+    "What is a live singing AI video?",
+    "Is the ai concert singing video only for singers?",
+    "Other AI video templates and tools",
+    "New AI video trends this week",
+    "Make your own AI Concert Video video"
+  ],
+  "prompt_count": 2,
+  "scraped_at": "2026-11-08"
+}

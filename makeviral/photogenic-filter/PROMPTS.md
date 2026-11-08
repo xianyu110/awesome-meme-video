@@ -1,0 +1,79 @@
+# Photogenic Filter: Your Photo Shoot in Slow Motion and Freeze Frames
+
+- Source: [makeviral](https://www.makeviral.ai/templates/photogenic-filter)
+- Slug: `photogenic-filter`
+
+The photogenic filter is a TikTok edit that turns a short clip of you into a photo shoot: you pose in slow motion, a camera click and a flash freeze the moment, and the frame turns into a black and white still photo before the next pose.
+
+## Demo videos (CDN)
+
+- https://www.makeviral.ai/media/templates/photogenic-filter/example-v1.mp4
+
+## Posters
+
+- https://www.makeviral.ai/media/templates/photogenic-filter/example-v1-input.jpg
+- https://www.makeviral.ai/media/templates/photogenic-filter/example-v1-poster.jpg
+
+## Prompts
+
+### 1. 1. The video prompt is filled in. Settings: Seedance 2.5, 10 s, 720p, 9:16, sound on. The video prompt
+
+*Kind: video_prompt*
+
+```text
+A photogenic photo shoot clip, photorealistic, vertical 9:16, like a phone video with a slow-motion and freeze-frame edit: the person poses for the camera, and on every shutter click the moment freezes into a black-and-white still photo.
+
+The person is the one in [Image 1], in every frame: copy the exact face from [Image 1] (the face shape, eye color and eye shape, eyebrows, nose, mouth, skin tone, age, hair color, hair length and hairstyle, and any beard, moustache, glasses or freckles), so their friends recognize them at once. The face stays the same from the first frame to the last, also in the black-and-white stills. Never morph. They wear the clothes from [Image 1], with their own hair. If [Image 1] shows an animal, the subject is that animal, with its own face, fur and markings, posing in the same way.
+
+The place: the setting of [Image 1], or a bright room with soft window light if the photo has no clear setting. A medium close-up from the chest up, the camera at face height, the face large and sharp.
+
+0-2 s: in slow motion, the person turns to the camera with a big, happy smile and touches their hair.
+2-3 s: a shutter click and a quick white flash: the frame freezes and turns black and white, like a printed still photo, for about one second.
+3-5 s: the color comes back, and in slow motion they tilt the head and laugh, one hand near the chin.
+5-6 s: a click and a flash: freeze, black and white.
+6-8 s: color again; in slow motion they look back over one shoulder with a soft, confident look.
+8-9 s: a click and a flash: the last black-and-white freeze frame, held.
+9-10 s: a fast, smooth zoom blur transition ends the clip.
+
+Audio: an upbeat, catchy beat with a shutter click and a soft flash sound on each freeze. No singing, no words.
+
+Exactly one person, no other people. Anatomy: two arms, two hands with five fingers each. No text, no subtitles, no logos, no watermark, no camera or phone in the frame, no app buttons.
+```
+
+### 2. 1. The video prompt is filled in. Settings: Seedance 2.5, 10 s, 720p, 9:16, sound on. The video prompt
+
+*Kind: video_prompt*
+
+```text
+A clip of a photo printer, photorealistic, vertical 9:16, a fixed camera: a black camera rests on top of a black desktop printer, and the printer prints a photo of the person in [Image 1].
+
+The set: a white desk on thin black legs; on it a large black digital camera with a big lens lies on top of a black desktop printer; beside it a small potted plant with pink flowers and a vase of thin branches with small yellow balls; behind, a bright window with a blue sky and white clouds. Soft daylight. The printer is in the middle of the frame, seen a little from the front and above, with a white paper tray at the bottom.
+
+The printed photo shows the person in [Image 1]: copy the exact face from [Image 1] (the face shape, eye color and eye shape, eyebrows, nose, mouth, skin tone, age, hair color, hair length and hairstyle, and any beard, moustache, glasses or freckles), their clothes and their pose, so their friends recognize them at once. The person in the print stays the same from the first frame to the last. Never morph. If [Image 1] shows an animal, the print shows that animal, with its own face, fur and markings.
+
+0-2 s: the printer starts with a soft whirr and a blank white sheet slides into the tray.
+2-6 s: a glossy photo print slowly feeds out of the printer from the top down: first the top of the head, then the face, then the shoulders, in full color and sharp.
+6-8 s: the print tips forward and leans against the front of the printer; the whole photo is now in view: the person from [Image 1], large and clear.
+8-10 s: the camera pushes in slowly on the print until the face fills most of the frame; a small shine moves across the glossy paper.
+
+Audio: the whirr and clicks of the printer, the soft slide of paper, then a light, happy beat. No singing, no words.
+
+Exactly one printed photo with one person in it. No people in the room, no hands. No text on the photo, no subtitles, no logos or brand names on the camera or the printer, no watermark.
+```
+
+### 3. 1. Open [AI Photo with this template](https://www.makeviral.ai/photo?template=photogenic-filter&variant=pet) and add your photo (your pet). The photo prompt is filled in (Pet)
+
+*Kind: photo_prompt*
+
+```text
+Use the uploaded image as the base. 9:16 vertical photo, a bright, cheerful pet photo shoot in soft window light. The pet from the uploaded image sits facing the camera, head up, looking straight into the lens with a happy, alert face, in a cozy, bright room. Medium close-up, the head and the chest large and sharp, with the natural body volume and proportions of that animal. Photorealistic. Exactly one animal. No text, no logos, no watermark.
+```
+
+### 4. 3. Press the film button on the still to open AI Video with the still as the first frame. Settings: Kling 3.0, 10 s, 1080p, 9:16, sound on. The video prompt
+
+*Kind: video_prompt*
+
+```text
+Keep the pet's face, eyes, ears, fur colors, markings and body exactly as in the image, with the natural body volume and proportions of that animal. A photogenic photo shoot with a slow-motion and freeze-frame edit. 0-2 s: in slow motion the pet tilts its head at the camera. 2-3 s: a shutter click and a quick white flash: the frame freezes and turns black and white like a printed still photo for one second. 3-5 s: the color comes back; in slow motion the pet perks up its ears and licks its nose. 5-6 s: click, flash, black-and-white freeze. 6-8 s: color again; the pet turns its head to one side and back to the lens. 8-9 s: click, flash, the last black-and-white freeze frame, held. 9-10 s: a fast zoom blur transition. Audio: an upbeat, catchy beat with a shutter click and a soft flash sound on each freeze. No words. Exactly one animal, no people, no extra legs, no morphing. No text, no logos, no watermark.
+```
+

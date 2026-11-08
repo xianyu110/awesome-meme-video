@@ -46,12 +46,24 @@ Sound: traffic and distant horns, the driver's fed-up "what is this?!", a button
 Avoid: the car flying backward, the car turning around, wheels folding or becoming thrusters, the car hitting other cars, a different car, the car changing colour, the face changing, text, watermarks, morphing, distortion. One person in the car. No badges or lettering on any car, no readable plates or road signs, no logos, no subtitles.
 ```
 
-### 2. 1. The video prompt is filled in. Settings: genjutsu-motion, 13 s, 480p, 9:16, sound off. The video prompt
+### 2. 1. The video prompt is filled in. Settings: Seedance 2.5, 13 s, 720p, 9:16, sound off. The video prompt
 
 *Kind: video_prompt*
 
 ```text
-Replace only the car with the vehicle shown in the reference images, including the rider or driver on or in it, if there is one. Image 1 is the owner's photo of the vehicle; the last image is a reference sheet of the same vehicle from the rear, rear three-quarter and side. In the opening shot the vehicle is seen from the back, exactly as in the rear view of the sheet. Keep the original video's camera angles, curved ramp, night background, speed, upside-down climb, thrusters, flip, smoke landing and timing exactly. Keep the vehicle's paint, shape, wheels and details consistent in every shot.
+Recreate the reference video [Video 1] shot for shot: the same giant curved concrete ramp with the red edge lines, the same dark night, the same close rear shot at the foot of the ramp and then the one wide take, the same camera, cuts, timing and moves. The ONLY change: the low white sports car is now the vehicle in [Image 1], with its rider or driver if [Image 1] shows one.
+
+The vehicle = the vehicle in [Image 1], in EVERY shot: copy its exact look from [Image 1] - the body shape and size, the paint color and finish, the roof, the lights, the wheels and tires, the ride height, and any body kit, wrap, decals or other change exactly as in the photo. [Image 2] is a reference sheet of the same vehicle from the rear, the rear three-quarter and the side: in the opening shot the vehicle is seen from the back exactly as in the rear view of [Image 2]. NO low white wedge body and NO red light bar across the rear unless [Image 1] shows them. Never morph, never drift back to the original white car. A truck stays a truck, a bus stays a bus, a motorbike stays a motorbike, at its own size on the ramp. If someone rides or drives the vehicle in [Image 1], that same person stays in the same seat or riding position in every shot.
+
+The moves, matching the reference second by second:
+0-2 s: close rear shot, the vehicle waits at the foot of the ramp.
+2-4 s: the wide take, the vehicle sets off at the foot of the ramp.
+4-8 s: it climbs the curved ramp, faster and faster, until the ramp is vertical.
+8-10 s: it hangs upside down at the top lip of the ramp.
+10-11 s: it drops off and flips over in the air.
+11-13 s: thrusters fire under it, and it lands on its wheels in a big cloud of white smoke.
+
+Rules: one vehicle only, with its own number of wheels. No badges, emblems, brand names or lettering on the vehicle, no readable number plate, no text, no logos, no watermark.
 ```
 
 ### 3. 1. The video prompt is filled in. Settings: Seedance 2.5, 10 s, 720p, 9:16, sound on. The video prompt

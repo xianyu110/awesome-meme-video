@@ -1,0 +1,53 @@
+{
+  "source": "makeviral",
+  "source_site": "https://www.makeviral.ai",
+  "slug": "ai-red-riding-hood",
+  "name": "AI Red Riding Hood: Walk Out of the Snow With the Wolves",
+  "url": "https://www.makeviral.ai/templates/ai-red-riding-hood",
+  "markdown_url": "https://www.makeviral.ai/templates/ai-red-riding-hood.md",
+  "blurb": "AI Red Riding Hood is a cinematic AI reel: a figure in a deep-red velvet cloak walks down a snowy pine-forest road between calm grey wolves, stops, and slowly lowers the hood for a close-up face reveal.",
+  "updated": "2026-10-30",
+  "published": "2026-10-30",
+  "credits": 228,
+  "demo_videos": [
+    "https://www.makeviral.ai/media/templates/ai-red-riding-hood/original-main-v2.mp4",
+    "https://www.makeviral.ai/media/templates/ai-red-riding-hood/original-tall-main-v2.mp4"
+  ],
+  "posters": [
+    "https://www.makeviral.ai/media/templates/ai-red-riding-hood/original-main-v1.jpg",
+    "https://www.makeviral.ai/media/templates/ai-red-riding-hood/original-tall-main-v1.jpg"
+  ],
+  "prompts": [
+    {
+      "label": "1. The video prompt is filled in. Settings: Seedance 2.5, 15 s, 720p, 9:16, sound off. The video prompt",
+      "variant": null,
+      "kind": "video_prompt",
+      "text": "Edit Video 1: Replace the hooded walker in the red velvet cloak with the person from [Image 1]. Only replace that person; the road, the wolves, the snow, the moves, the timing, the camera and the cuts stay unchanged. Keep everything else the same.\n\nRecreate the reference video [Video 1] shot for shot: a snowy road through tall snow-covered pines on a grey winter day, light snow, real grey and dark wolves walking calmly beside a lone hooded walker, the same camera angles, cuts, timing and moves. The ONLY change: the hooded walker is now the person in [Image 1].\n\nReferences: [Image 1] is the sole face and hair reference for the walker; [Video 1] is for the scene, the wolves, the moves and the camera only.\n\nThe hooded walker = the person in [Image 1], in EVERY shot: copy the exact face from [Image 1]: face shape, eye color and eye shape, eyebrows, nose, mouth, skin tone, age, hair color, hair length and hairstyle, and any beard, moustache, glasses or freckles exactly as in the photo. The same real person in every frame, so their friends recognize them at once, above all in the close-up when the hood comes down. Never drift back to the original woman's face. NO long jet-black hair with blunt bangs, NO pale grey eyes and NO heavy dark eye makeup unless [Image 1] shows them: when the hood comes down, it shows the hair from [Image 1].\n\nCostume: the walker always wears the long deep-red velvet hooded cloak from [Video 1], never the clothes from [Image 1]. The hood stays up until the reveal.\n\nShot 1 [0-2.5s]: an extreme wide shot down the empty road between the pines; the walker is a tiny red figure far away, walking toward the camera.\nShot 2 [2.5-4.8s]: hard cut, a low wide shot: the walker strides toward the camera, hood up, face in shadow, wolves on the right.\nShot 3 [4.8-6.3s]: hard cut, a wider shot: the walker walks on toward the camera, wolves on both sides.\nShot 4 [6.3-7.2s]: hard cut, closer: walker and wolves come toward the camera.\nShot 5 [7.2-8.5s]: hard cut, a waist-up medium shot: the walker stands still, the face half hidden in the hood's shadow, a grey wolf left and a dark wolf right behind.\nShot 6 [8.5-13s]: hard cut, a close-up: the walker raises both hands and slowly pushes the hood back off the head; the face comes out, eyes down, then they lift to the lens, calm and confident.\nShot 7 [13-14.9s]: hard cut, a medium shot: the hood on the shoulders, the walker looks into the camera, the calm wolves around.\n\nThe wolves: as many and where they are in [Video 1], calm, at the walker's side like a loyal pack. They never snarl, chase, bite or attack.\n\nReal live-action cinematic footage, cold blue light, the red cloak the only strong color. No dialogue throughout the entire video. No background music.\n\nAnatomy rules: one head only, on the walker's shoulders. Two hands, five fingers each. Exactly one person. No text, no logos, no watermark."
+    },
+    {
+      "label": "1. The video prompt is filled in. Settings: Seedance 2.5, 15 s, 720p, 9:16, sound off. The video prompt",
+      "variant": "Pet",
+      "kind": "video_prompt",
+      "text": "Edit Video 1: Replace the hooded walker in the red velvet cloak with the pet from [Image 1]. Only replace that figure; the road, the wolves, the snow, the timing, the camera and the cuts stay unchanged. Keep everything else the same.\n\nRecreate the reference video [Video 1] shot for shot: a snowy road through tall snow-covered pines on a grey winter day, light snow, real grey and dark wolves walking calmly beside a lone hooded walker, the same camera angles, cuts, timing and moves. The ONLY change: the hooded walker is now the pet in [Image 1], on its own four legs at its natural size, in a small deep-red velvet hooded cape.\n\nReferences: [Image 1] is the sole look reference for the pet; [Video 1] is for the scene, the wolves, the path, the timing and the camera only.\n\nThe pet = the pet in [Image 1], in EVERY shot: the same species and breed, face, eyes, ears, muzzle, fur colors, fur length and markings as in [Image 1], with the natural body volume and proportions of that animal: never flattened, squashed, stretched or merged with anything. Whether [Image 1] shows a dog, a cat or another animal, it stays that animal and walks on four legs, never upright like a person, and it never turns into a wolf. The same pet in every frame, so its owner recognizes it at once. No person anywhere.\n\nCostume: the pet wears a small deep-red velvet hooded cape sized to its own body, the hood over its head and ears until the reveal.\n\nShot 1 [0-2.5s]: an extreme wide shot down the empty road between the pines; the pet is a tiny red figure far away, coming toward the camera.\nShot 2 [2.5-4.8s]: hard cut, a low wide shot: the pet trots toward the camera in its red hooded cape, wolves on the right, much bigger than the pet.\nShot 3 [4.8-6.3s]: hard cut, a wider shot: the pet comes on toward the camera, wolves on both sides.\nShot 4 [6.3-7.2s]: hard cut, closer: the pet and the wolves come toward the camera.\nShot 5 [7.2-8.5s]: hard cut, closer on the pet: it stops and sits in the snow, the hood over its head, a grey wolf on the left and a dark wolf on the right behind.\nShot 6 [8.5-13s]: hard cut, a close-up of the pet: it shakes its head and the hood slips back, its face and ears come out, it looks up into the lens; snowflakes drift.\nShot 7 [13-14.9s]: hard cut, a medium shot: the pet sits calmly with the hood on its back, looking into the camera, the calm wolves around.\n\nThe wolves: as many and where they are in [Video 1], calm, at the pet's side like its guards. They never snarl, chase, bite or attack.\n\nReal live-action cinematic footage, cold blue light, the red cape the only strong color. No dialogue throughout the entire video. No background music.\n\nAnatomy rules: one head only on the pet, four legs, animal paws, never human hands. No people, no extra pets. Every wolf has one head and four legs. No text, no captions, no logos, no watermark."
+    }
+  ],
+  "variant_headings": [
+    "What the AI Red Riding Hood video looks like",
+    "How to make the AI Red Riding Hood video on MakeViral",
+    "Which photo works best?",
+    "What happens in the AI Red Riding Hood video, second by second?",
+    "Human or Pet: which AI little red riding hood should you make?",
+    "What is the AI Red Riding Hood video?",
+    "How do I make the little red riding hood AI video with my photo?",
+    "Do the red riding hood wolves attack in the video?",
+    "How long is the video and what format is it?",
+    "Is it a good red riding hood Halloween video?",
+    "Does the AI Red Riding Hood video cost credits?",
+    "Is the video real?",
+    "Other AI video templates and tools",
+    "New AI video trends this week",
+    "Make your own AI Red Riding Hood video"
+  ],
+  "prompt_count": 2,
+  "scraped_at": "2026-11-08"
+}

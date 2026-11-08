@@ -1,0 +1,88 @@
+# Chased by Hyenas AI: Sprint Across the Savanna With the Pack at Your Heels
+
+- Source: [makeviral](https://www.makeviral.ai/templates/chased-by-hyenas-ai-trend)
+- Slug: `chased-by-hyenas-ai-trend`
+
+The chased by hyenas trend is a viral AI video from November 2026: one photo becomes a panicked sprint across the African savanna, with a pack of wild dogs right behind you and dust flying.
+
+## Demo videos (CDN)
+
+- https://www.makeviral.ai/media/templates/chased-by-hyenas-ai-trend/original-main-v2.mp4
+
+## Posters
+
+- https://www.makeviral.ai/media/templates/chased-by-hyenas-ai-trend/original-main-v1.jpg
+
+## Prompts
+
+### 1. 1. The video prompt is filled in. Settings: Seedance 2.5, 7 s, 720p, 9:16, sound off. The video prompt (Human)
+
+*Kind: video_prompt*
+
+```text
+Recreate the reference video [Video 1] shot for shot: the same dry African savanna at golden hour, red dusty ground, tufts of pale dry grass and flat-topped acacia trees behind, the same pack of African wild dogs with blotchy black, tan and white coats and big round ears running right behind and beside the runner, the same low camera that races backward in front of the runner, the same framing, timing and moves. One continuous take, no cuts. The ONLY change: the woman with the orange hair in the orange overalls who sprints toward the camera is now the person in [Image 1].
+
+The runner = the person in [Image 1], in EVERY frame: copy the exact face from [Image 1]: face shape, eye color and eye shape, eyebrows, nose, mouth, skin tone, age, hair color, hair length and hairstyle, and any beard, moustache, glasses or freckles exactly as in the photo. The runner wears the clothes from [Image 1]; if [Image 1] shows only the head or the upper body, invent the rest so it matches naturally, with shoes fit for running. The same real person in every frame, from the first second to the last, so their friends instantly recognize them, also in the wide first second, in the dust and in the leap. Never morph, never drift back to the original woman's face. NO orange or red hair, NO orange overalls, NO white turtleneck and NO glasses unless [Image 1] shows them. If [Image 1] shows an animal, the runner is that animal running on all four legs, with its own face, fur and markings and the natural body volume and proportions of that animal: never flattened, squashed, stretched or merged with anything.
+
+The chase, matching [Video 1] second by second:
+00:00-00:01.5: a wide shot, the runner bursts out from the acacia trees and sprints toward the camera, the pack of wild dogs right at the heels and spread out behind.
+00:01.5-00:04.2: the camera moves closer and races backward; the runner sprints flat out, arms pumping, a panicked, wide-eyed face, dust kicking up, wild dogs running beside both legs.
+00:04.2-00:04.9: the runner leaps high while wild dogs crash and roll in the dust right under the runner's feet; the camera dips to the dogs.
+00:04.9-00:06.8: the runner lands and keeps sprinting straight at the camera, the pack still at the heels, the face big and clear in the frame.
+
+The wild dogs chase but never catch the runner: no bite, no grab, no blood, no wound, no fall.
+
+Real live-action wildlife-documentary footage, natural golden light, motion blur only on the legs and the dust, clear facial features, no distortion. No dialogue throughout the entire video. No background music.
+
+Anatomy rules: one head only, on the runner's shoulders. Two arms, two legs, five fingers on each hand. Exactly one person in the video; the wild dogs stay wild dogs, with four legs each. No text, no captions, no logos, no watermark.
+```
+
+### 2. 1. The video prompt is filled in. Settings: Seedance 2.5, 7 s, 720p, 9:16, sound off. The video prompt (Pet)
+
+*Kind: video_prompt*
+
+```text
+Recreate the reference video [Video 1] shot for shot: the same dry African savanna at golden hour, red dusty ground, tufts of pale dry grass and flat-topped acacia trees behind, the same pack of African wild dogs with blotchy black, tan and white coats and big round ears running right behind and beside the runner, the same low camera that races backward in front of the runner, the same framing, timing and moves. One continuous take, no cuts. The ONLY change: the woman with the orange hair who sprints toward the camera is now the pet in [Image 1], running on all four legs.
+
+The runner = the pet in [Image 1], in EVERY frame: the same species and breed, face, eyes, ears, muzzle, fur colors, fur length and markings as in [Image 1], with the natural body volume and proportions of that animal: never flattened, squashed, stretched or merged with anything. Whether [Image 1] shows a dog, a cat or another animal, it stays that animal and gallops on all four legs at the woman's place in the frame, ears back, eyes wide, panicked. The same pet in every frame, from the first second to the last, so its owner instantly recognizes it. No person appears: never the woman, no human body, no clothes, no overalls. The pet never takes the blotchy black, tan and white coat or the round ears of the wild dogs, and the wild dogs never take the pet's coat.
+
+The chase, matching [Video 1] second by second:
+00:00-00:01.5: a wide shot, the pet bursts out from the acacia trees and runs toward the camera, the pack of wild dogs right behind it and spread out behind.
+00:01.5-00:04.2: the camera moves closer and races backward; the pet runs flat out, dust kicking up, wild dogs running beside it.
+00:04.2-00:04.9: the pet jumps high while wild dogs crash and roll in the dust right under it; the camera dips to the dogs.
+00:04.9-00:06.8: the pet lands and keeps running straight at the camera, the pack still behind it, its face big and clear in the frame.
+
+The wild dogs chase but never catch the pet: no bite, no grab, no blood, no wound, no fall.
+
+Real live-action wildlife-documentary footage, natural golden light, motion blur only on the legs and the dust. No dialogue throughout the entire video. No background music.
+
+Anatomy rules: one head only, one muzzle, natural teeth and tongue. The pet has four legs with animal paws, never human hands or feet. Exactly one pet; the wild dogs stay wild dogs, with four legs each. No people, no text, no captions, no logos, no watermark.
+```
+
+### 3. 1. The video prompt is filled in. Settings: Seedance 2.5, 10 s, 720p, 9:16, sound on. The video prompt
+
+*Kind: video_prompt*
+
+```text
+A real wildlife-documentary chase on the dry African savanna at golden hour: red dusty ground, tufts of pale dry grass, flat-topped acacia trees behind. Photorealistic, natural skin and natural colors, not CGI, not a cartoon. A low camera races backward in front of two runners who sprint side by side straight toward it, first head to toe, then from the knees up, both faces large, sharp and well lit.
+
+The runner on the LEFT is the person in [Image 1], in every frame: copy the exact face from [Image 1] (the face shape, eye color and eye shape, eyebrows, nose, mouth, skin tone, age, hair color, hair length and hairstyle, and any beard, moustache, glasses or freckles), with the clothes from [Image 1].
+The runner on the RIGHT is the person in [Image 2], in every frame: copy the exact face from [Image 2] (the face shape, eye color and eye shape, eyebrows, nose, mouth, skin tone, age, hair color, hair length and hairstyle, and any beard, moustache, glasses or freckles), with the clothes from [Image 2].
+If an image shows an animal, that runner is that animal running on all four legs, with its own face, fur, markings and size, not a person.
+Never blend their faces, never swap their clothes. Each face stays the same from the first frame to the last, so their friends recognize them at once.
+
+A pack of about ten African wild dogs with blotchy black, tan and white coats and big round ears chases them, right at their heels and spread out behind.
+
+The shots, one continuous take:
+1. 0-2 s: a wide shot: the two burst out from the acacia trees and sprint toward the camera, the pack right behind, dust rising.
+2. 2-5 s: the camera moves closer and races backward: both sprint flat out, arms pumping, panicked, wide-eyed faces, wild dogs running beside their legs.
+3. 5-7 s: wild dogs crash and roll in the dust right under their feet, and both leap over them without stopping.
+4. 7-10 s: they land and keep sprinting straight at the camera side by side, gasping, the one on the left grabs the other's arm to pull them along, the pack still at their heels, both faces big and clear.
+
+The wild dogs chase but never catch them: no bite, no grab, no blood, no wound, no fall.
+
+Audio: fast footsteps on dry ground, heavy panting, the yips and twittering calls of the wild dogs, wind. No dialogue, no music.
+
+Only the two runners and the wild dogs. No text, no subtitles, no logos, no watermark.
+```
+

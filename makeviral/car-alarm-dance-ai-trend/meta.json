@@ -1,0 +1,50 @@
+{
+  "source": "makeviral",
+  "source_site": "https://www.makeviral.ai",
+  "slug": "car-alarm-dance-ai-trend",
+  "name": "Car Alarm Dance AI: Dance by the Red Car When the Alarm Goes Off",
+  "url": "https://www.makeviral.ai/templates/car-alarm-dance-ai-trend",
+  "markdown_url": "https://www.makeviral.ai/templates/car-alarm-dance-ai-trend.md",
+  "blurb": "The car alarm dance is a viral TikTok and Instagram trend, and a car alarm dance meme: a car alarm goes off, and a dog or cat by the car stands up on its back legs and dances to the alarm beat.",
+  "updated": "2026-10-31",
+  "published": "2026-10-31",
+  "credits": 183,
+  "demo_videos": [
+    "https://www.makeviral.ai/media/templates/car-alarm-dance-ai-trend/original-cat-v2.mp4",
+    "https://www.makeviral.ai/media/templates/car-alarm-dance-ai-trend/original-pet-v2.mp4"
+  ],
+  "posters": [
+    "https://www.makeviral.ai/media/templates/car-alarm-dance-ai-trend/original-cat-v1.jpg",
+    "https://www.makeviral.ai/media/templates/car-alarm-dance-ai-trend/original-pet-v1.jpg"
+  ],
+  "prompts": [
+    {
+      "label": "1. The video prompt is filled in. Settings: Seedance 2.5, 12 s, 720p, 9:16, sound off. The video prompt",
+      "variant": "Human",
+      "kind": "video_prompt",
+      "text": "Recreate the reference video [Video 1] shot for shot: the same red vintage sedan parked on the left of a night street, the blurred parked cars and warm street-light bokeh behind, the same near-static phone camera, the same timing and dance moves. The ONLY change: the dog who leans on the red car and then dances upright beside it is now the person in [Image 1].\n\n[Video 1] is a one-take vertical video to copy: copy its dance, its camera and its timing exactly. The dog in [Video 1] sets ONLY the pose and the movement, never the face, the body, the fur or the size.\n\nThe dancer = the person in [Image 1], in EVERY frame: copy the exact face from [Image 1]: face shape, eye color and eye shape, eyebrows, nose, mouth, skin tone, age, hair color, hair length and hairstyle, and any beard, moustache, glasses or freckles exactly as in the photo. The dancer wears the clothes and shoes from [Image 1]; if [Image 1] shows only the head or the upper body, invent the rest so it matches naturally. The same real person in every frame, so their friends instantly recognize them. Never morph. The dancer is a grown adult at full adult height with adult body proportions: standing tall, the head is level with or above the car's roof, so they look as tall as a real adult beside a car. Frame the shot a little wider than [Video 1] if needed so the whole adult body fits from head to shoes. Never small, never child-sized, never on all fours. Two human hands with five fingers each, two feet in shoes. No fur, no tail, no dog ears, no paws and no black harness.\n\nBEAT BY BEAT: copy [Video 1] exactly:\n[00:00-00:02] MOVING FROM THE VERY FIRST FRAME: the dancer leans on the red car with one hand, bobbing to the beat, then pushes off the car and stands up tall.\n[00:02-00:06] they dance to the car alarm: bouncing on their feet, one hand swinging up and down in a wave, shifting side to side and hopping a little toward the camera.\n[00:06-00:10] they keep dancing: quick side-to-side hops, both hands pumping up and down at chest height.\n[00:10-00:12] they stop, stand tall facing the camera with both hands held together at the chest, looking into the lens.\n\nONE continuous vertical 9:16 night shot, no cuts, a near-static phone camera, the red car on the left and the blurred parked cars and warm street-light bokeh behind, the same light throughout. Keep the dancer's face sharp and clearly lit.\n\nReal live-action footage, clear facial features, no distortion, no deformation, the same character. No dialogue throughout the entire video. No background music.\n\nAvoid: a frozen or still opening, the dog from [Video 1], a child-sized body, extra people, extra limbs, captions, on-screen text, logos, car badges, readable license plates, watermarks, extra cuts, morphing, distortion.\n\nAnatomy rules: one head only, on the dancer's shoulders. A face never appears on knees, legs, hands or clothes. Two arms and two hands, five fingers on each hand. Exactly one person."
+    },
+    {
+      "label": "1. The video prompt is filled in. Settings: Seedance 2.5, 12 s, 720p, 9:16, sound off. The video prompt",
+      "variant": "Pet",
+      "kind": "video_prompt",
+      "text": "Recreate the reference video [Video 1] shot for shot: the same red vintage sedan parked on the left of a night street, the blurred parked cars and warm street-light bokeh behind, the same near-static phone camera at the pet's height, the same framing, timing and dance moves. The ONLY change: the dog who leans on the red car and then dances upright beside it is now the pet in [Image 1].\n\n[Video 1] is a one-take vertical video to copy: copy its dance, its camera and its timing exactly. The dancing dog in [Video 1] is a different animal: it sets ONLY the pose and the movement, never the face, fur, colour, ears or breed. The pet from [Image 1] is in EVERY frame, exactly as in [Image 1]: the same species, breed, face, fur colour, markings, eyes and ears, a real animal with natural anatomy and its own furry paws, never human hands, and no person anywhere in the shot.\n\nThe pet keeps the muzzle and fur length from [Image 1] and the natural body volume and proportions of that animal: never flattened, squashed, stretched or merged with anything. Whether [Image 1] shows a dog, a cat or another animal, it stays that animal, standing upright on its hind legs. Its owner instantly recognizes it in every frame. Never drift back to the dog of the video: not the coat, the ears or the face of the dog in the video, NO long golden-red coat and NO feathered golden ears unless [Image 1] shows them.\n\nBEAT BY BEAT: copy [Video 1] exactly:\n[00:00-00:02] MOVING FROM THE VERY FIRST FRAME: the pet leans on the red car with one front paw, bobbing to the beat, then pushes off the car and stands up tall on its hind legs.\n[00:02-00:06] it dances upright on its hind legs to the car alarm: bouncing on its back feet, one front paw swinging up and down in a wave, shifting side to side and hopping a little toward the camera.\n[00:06-00:10] it keeps dancing: quick side-to-side hops on its hind legs, front paws pumping up and down, tail swishing.\n[00:10-00:12] it stops, stands tall on its hind legs facing the camera with both front paws held together at its chest, tail wagging, looking into the lens.\n\nONE continuous vertical 9:16 night shot, no cuts, a near-static phone camera at the pet's height, the red car on the left and the blurred parked cars and warm street-light bokeh behind, the same light throughout. Keep the pet's face sharp and clearly lit.\n\nReal live-action footage, clear features, no distortion, no deformation, the same character. No dialogue throughout the entire video. No background music.\n\nAvoid: a harness, vest or chest strap unless [Image 1] shows one, a frozen or still opening, the dog from [Video 1], a different animal, human hands, human feet, people, fingers, extra paws, extra legs, captions, on-screen text, logos, car badges, readable license plates, watermarks, extra cuts, morphing, distortion.\n\nAnatomy rules: one head only, one muzzle. Exactly four legs: two hind legs to stand on and two front paws, animal paws, never human hands. No extra animals, no people."
+    }
+  ],
+  "variant_headings": [
+    "What the Car Alarm Dance video looks like",
+    "How to make the Car Alarm Dance video on MakeViral",
+    "Which photo works best?",
+    "What happens in the car alarm dance video, second by second?",
+    "Human or Pet: which car alarm dance should you make?",
+    "How do I make the car alarm dance AI video?",
+    "How long is the video and what format is it?",
+    "Does the car alarm dance video cost credits?",
+    "Is the video real?",
+    "Other AI video templates and tools",
+    "New AI video trends this week",
+    "Make your own Car Alarm Dance video"
+  ],
+  "prompt_count": 2,
+  "scraped_at": "2026-11-08"
+}

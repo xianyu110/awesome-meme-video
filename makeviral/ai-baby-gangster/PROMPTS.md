@@ -1,0 +1,85 @@
+# AI Baby Gangster: Turn Yourself Into a Cartoon Toddler Gangster
+
+- Source: [makeviral](https://www.makeviral.ai/templates/ai-baby-gangster)
+- Slug: `ai-baby-gangster`
+
+The AI Baby Gangster trend turns you into a tiny 3D cartoon toddler in the driver seat of a car.
+
+## Demo videos (CDN)
+
+- https://www.makeviral.ai/media/templates/ai-baby-gangster/original-tall-v2.mp4
+
+## Posters
+
+- https://www.makeviral.ai/media/templates/ai-baby-gangster/original-tall-v1.jpg
+
+## Prompts
+
+### 1. 1. The video prompt is filled in. Settings: Seedance 2.5, 12 s, 720p, 9:16, sound on. The video prompt
+
+*Kind: video_prompt*
+
+```text
+The driver is the person from [Image 1] as a 2-year-old toddler, in a 3D cartoon style, so their friends know at once who it is: a toddler's big round head, chubby cheeks and tiny body, but the same person. Copy from [Image 1] the hair color and hairstyle (in a toddler length), the eye color and eye shape, the eyebrow shape and color, the face shape, the nose shape, the skin tone, and any freckles, moles or glasses (in a tiny size). The clothes from [Image 1] in a toddler size. No beard and no mustache on the toddler. The same toddler face from the first frame to the last, also in the frown and the shocked face. Never morph, never a different child.
+If [Image 1] shows a child or a baby, do not copy that child's face: make a friendly generic cartoon toddler with only the same hair color, eye color and skin tone.
+If [Image 1] shows an animal, the driver is that animal as a cartoon baby animal sitting upright, with its own fur colors and markings, not a person.
+
+A soft 3D cartoon animation style: big round eyes, round cheeks, smooth stylized skin, soft bright colors and gentle lighting, like a modern 3D animated short. Not photoreal, not a real child.
+
+One continuous take from a camera fixed on the dashboard, facing the driver seat of a parked car: a big black leather seat with stitched panels, the black steering wheel low on the right, the center console with a small lid on the left, the open side window behind the driver showing a sunny green park with round trees and a blue sky. The camera never moves.
+
+The action, second by second:
+0-3 s: the toddler sits in the big driver seat, much too small for it, small hands on the steering wheel, looks around bored, then opens the console lid and takes out a black cartoon pistol with both small hands.
+3-6 s: the toddler turns the pistol over with curious eyes, then the face changes to a tough little frown, eyebrows down, lips pushed out. The toddler holds the pistol out to the side with one straight arm, tilted gangster style, and aims out of the open side window at the empty sky, the pistol in profile, pointed away from the camera.
+6-7 s: bang: the toddler fires one shot out of the window; a small bright cartoon flash at the muzzle and a tiny puff of smoke; the recoil jolts the small arm up.
+7-12 s: the toddler freezes, eyes wide open and round, mouth a small "o", totally shocked, slowly turns the face to the camera and holds the pistol in the lap with both small hands, blinking, stunned. Hold on the shocked face to the end.
+
+Audio: a quiet car and birds outside, a short tense hip-hop beat from the frown, one loud cartoon bang at 6 s, then silence and a tiny gasp. No music after the bang. No dialogue throughout the entire video.
+
+The pistol only ever points out of the window or rests in the lap, never at the camera. No target, nobody outside, no people or animals in the park, nobody is hit, no blood, no injury. Exactly one character in the car. One head, two small hands with five fingers each. No text, no captions, no logos, no watermark.
+```
+
+### 2. 1. The video prompt is filled in. Settings: Seedance 2.5, 12 s, 720p, 9:16, sound on. The video prompt (Pet)
+
+*Kind: video_prompt*
+
+```text
+The driver is the pet from [Image 1] as a baby animal (a puppy, a kitten, or the baby of whatever species it is), in a 3D cartoon style, so its owner knows at once who it is: the same species and breed look, fur colors, fur length, markings, eye color, ear shape and muzzle as in [Image 1], with the big head, round eyes and soft round body of a baby animal, never flattened, stretched or merged with the seat. It sits upright in the seat like a toddler and holds things in its front paws. The same pet from the first frame to the last. Never a person, no human hands, no clothes unless [Image 1] shows them.
+
+A soft 3D cartoon animation style: big round eyes, round cheeks, smooth stylized skin, soft bright colors and gentle lighting, like a modern 3D animated short. Not photoreal.
+
+One continuous take from a camera fixed on the dashboard, facing the driver seat of a parked car: a big black leather seat with stitched panels, the black steering wheel low on the right, the center console with a small lid on the left, the open side window behind the driver showing a sunny green park with round trees and a blue sky. The camera never moves.
+
+The action, second by second:
+0-3 s: the baby pet sits in the big driver seat, much too small for it, front paws on the steering wheel, looks around bored, then opens the console lid and takes out a black cartoon pistol with both front paws.
+3-6 s: the baby pet turns the pistol over with curious eyes, then the face changes to a tough little frown, eyebrows down, lips pushed out. The baby pet holds the pistol out to the side with one straight arm, tilted gangster style, and aims out of the open side window at the empty sky, the pistol in profile, pointed away from the camera.
+6-7 s: bang: the baby pet fires one shot out of the window; a small bright cartoon flash at the muzzle and a tiny puff of smoke; the recoil jolts the small arm up.
+7-12 s: the baby pet freezes, eyes wide open and round, mouth a small "o", totally shocked, slowly turns the face to the camera and holds the pistol in the lap with both front paws, blinking, stunned. Hold on the shocked face to the end.
+
+Audio: a quiet car and birds outside, a short tense hip-hop beat from the frown, one loud cartoon bang at 6 s, then silence and a tiny gasp. No music after the bang. No dialogue throughout the entire video.
+
+The pistol only ever points out of the window or rests in the lap, never at the camera. No target, nobody outside, no people or animals in the park, nobody is hit, no blood, no injury. Exactly one character in the car. One head, four legs, no human hands. No text, no captions, no logos, no watermark.
+```
+
+### 3. 1. The video prompt is filled in. Settings: Seedance 2.5, 12 s, 720p, 9:16, sound on. The video prompt
+
+*Kind: video_prompt*
+
+```text
+The driver is the character from [Image 1]: a toy, a plush, a figure, a drawing or a mascot, brought to life as a small 3D cartoon character. It keeps its whole look from [Image 1] from head to feet: the same shape, head, body, limbs, colors, face and outfit, in a cute small size that fits in the big seat. Its own whole body sits in the seat: no human arms, hands or clothes unless [Image 1] shows them. If [Image 1] shows a real person, the driver is that person as a 3D cartoon toddler with the same hair, eyes and skin tone. If [Image 1] shows a real child, make a friendly generic cartoon toddler with only the same hair color. The same character from the first frame to the last. Never morph into a different character.
+
+A soft 3D cartoon animation style: big round eyes, round cheeks, smooth stylized skin, soft bright colors and gentle lighting, like a modern 3D animated short. Not photoreal.
+
+One continuous take from a camera fixed on the dashboard, facing the driver seat of a parked car: a big black leather seat with stitched panels, the black steering wheel low on the right, the center console with a small lid on the left, the open side window behind the driver showing a sunny green park with round trees and a blue sky. The camera never moves.
+
+The action, second by second:
+0-3 s: the character sits in the big driver seat, much too small for it, hands or paws on the steering wheel, looks around bored, then opens the console lid and takes out a black cartoon pistol with both hands or paws.
+3-6 s: the character turns the pistol over with curious eyes, then the face changes to a tough little frown, eyebrows down, lips pushed out. The character holds the pistol out to the side with one straight arm, tilted gangster style, and aims out of the open side window at the empty sky, the pistol in profile, pointed away from the camera.
+6-7 s: bang: the character fires one shot out of the window; a small bright cartoon flash at the muzzle and a tiny puff of smoke; the recoil jolts the small arm up.
+7-12 s: the character freezes, eyes wide open and round, mouth a small "o", totally shocked, slowly turns the face to the camera and holds the pistol in the lap with both hands or paws, blinking, stunned. Hold on the shocked face to the end.
+
+Audio: a quiet car and birds outside, a short tense hip-hop beat from the frown, one loud cartoon bang at 6 s, then silence and a tiny gasp. No music after the bang. No dialogue throughout the entire video.
+
+The pistol only ever points out of the window or rests in the lap, never at the camera. No target, nobody outside, no people or animals in the park, nobody is hit, no blood, no injury. Exactly one character in the car. One head, its own limbs as in [Image 1]. No text, no captions, no logos, no watermark.
+```
+

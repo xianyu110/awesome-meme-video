@@ -3,7 +3,7 @@
 > The Billie Jean dance trend puts an unlikely dancer into the famous 1983 moves: an AI granny in her living room, a dog in a black fedora, a puppy in a sequin jacket on a stage.
 
 Canonical: https://www.makeviral.ai/templates/billie-jean-dance-ai-trend
-Updated: 2026-10-15
+Updated: 2026-10-29
 Published: 2026-10-12
 Author: MakeViral Team (https://www.makeviral.ai/about)
 Publisher: MakeViral (https://www.makeviral.ai)
@@ -12,7 +12,7 @@ The **Billie Jean dance** trend puts an unlikely dancer into the famous 1983 mov
 
 A granny in white socks and loafers, a dachshund in a black fedora, a puppy in a sequin jacket on a concert stage: the Billie Jean dance trend puts anyone into the famous 80s moves. Add one photo of you or your pet.
 
-Also called: Michael Jackson Billie Jean dance, Billie Jean TikTok dance.
+Also called: Michael Jackson Billie Jean dance, Billie Jean TikTok dance, Michael Jackson dance filter, MJ dance filter.
 
 **Make it now:** [Make this video](https://www.makeviral.ai/templates/billie-jean-dance-ai-trend/create). 1 photo · 15 s · 9:16 with sound · 228 credits, charged once · ready in up to several minutes · no prompt to write.
 
@@ -269,13 +269,22 @@ Your result is an MP4 video, not a GIF. The best-known 2026 routine is the one @
 
 ## Other AI video templates and tools
 
+- [Smooth Criminal Dance AI: The Viral Routine From One Photo](https://www.makeviral.ai/templates/smooth-criminal-dance-ai-trend): Arm swings, a flick at the hat brim, side glides, kicks and spins: the Smooth Criminal dance challenge is all over TikTok. Add one photo for Solo or Pet, or two for Duo, and skip the rehearsal.
 - [Thriller Dance AI: Do the Zombie Dance With a Friend or Your Pet](https://www.makeviral.ai/templates/thriller-dance-ai-trend): Arms swung out with a deep lean, head rolls, claw hands and shoulder shrugs: the Thriller zombie dance. Add two photos to dance it as a duo, or one photo of your pet, and get a 15-second clip with the song.
 - [AI Dog Dancing Video: Make Your Pet Dance](https://www.makeviral.ai/templates/ai-dancing-dog-video): Your dog or cat stands up on its hind legs at home and does a happy, bouncy dance. One pet photo in, a 10-second clip with an original beat out.
-- [Nicole Kidman Dance AI: Do the Viral Routine With One Photo](https://www.makeviral.ai/templates/nicole-kidman-dance-ai-trend): Hands to the chest, a hip sway, both arms up and a spin with a hair flip: the viral routine to ADÉLA's "Nicole Kidman". Add one photo of you or your pet and get the dance with the song.
 - [AI TikTok Video](https://www.makeviral.ai/tools/ai-tiktok-video-generator): Eight native TikTok formats, one prompt or product URL, a finished 9:16 video with captions burned in.
 - [AI Reels](https://www.makeviral.ai/tools/ai-reels-generator): Pick a format, give it a topic or a product link, and get a finished vertical reel with voice and captions. Nothing to film, nothing to edit.
 - [AI photo generator](https://www.makeviral.ai/ai-photo-generator)
 - [All AI video templates](https://www.makeviral.ai/templates)
+
+## New AI video trends this week
+
+- [Christmas Dance AI: Do the New TikTok Christmas Dance From Your Photos](https://www.makeviral.ai/templates/christmas-dance-ai-trend): Hip sways with the hands at the collar, rolling arms, a quick spin and raised fists, side by side in matching Christmas pajamas. Add two photos for the duo, one for a solo take, or two pets, and get the dance with the sound.
+- [Cat on Ultra Bee AI: Put Your Pet on the Wheelie](https://www.makeviral.ai/templates/cat-on-ultra-bee-ai-trend): Add one photo, and your cat or dog stands on an electric dirt bike and holds a long wheelie down a city road at golden hour, in the same shots as the viral clip, with its original sound. You can take the ride yourself, too.
+- [Tus Ojos Me Reflejan el Sentimiento: The Cafuné Eye Close-Up Trend](https://www.makeviral.ai/templates/tus-ojos-me-reflejan-ai-trend): You lie on your side, a hand rests on your cheek, warm light falls on your face, and the camera slowly moves in until your eyes fill the screen while the line plays. One photo in, an 8-second vertical clip with the trend's song out.
+- [İnşallah Maşallah AI Trend: Sing Neşe Karaböcek's Song on the Couch](https://www.makeviral.ai/templates/insallah-masallah-ai-trend): You sit on a light grey couch and sing the old Turkish love song straight to the camera: a hand on the heart, a big laugh with both hands on your head, a finger pointed at the camera and a kiss at the end. One photo of you, a grandparent or your pet, and the 15-second clip comes with the song.
+- [Ice Ice Baby Dance AI: Do the Viral Duo Dance With a Friend](https://www.makeviral.ai/templates/ice-ice-baby-dance-ai): Two dancers side by side, the same bouncy 90s steps, a spin on the beat and a strut to the camera. Add a photo of you and a friend, of you alone, or of your pet, and get the dance with the sound.
+- [Save Yourself Trend: Pull Yourself Up From the Cliff](https://www.makeviral.ai/templates/save-yourself-ai-trend): One photo plays both of you: the scared you clinging to a wet sea cliff, and the calm you who reaches down, pulls you up and holds you. Or use two photos: an older photo of you and a new one, or you and a friend. 15 seconds, vertical.
 
 ## Make your own Billie Jean Dance video
 

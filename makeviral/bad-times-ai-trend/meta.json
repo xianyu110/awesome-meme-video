@@ -6,13 +6,17 @@
   "url": "https://www.makeviral.ai/templates/bad-times-ai-trend",
   "markdown_url": "https://www.makeviral.ai/templates/bad-times-ai-trend.md",
   "blurb": "The Bad Times AI trend puts you or your pet in the TikTok routine to \"Bad Times\" (Imael Angel): you grab your head, put a hand on your hip, hold up stop palms and argue with whoever is filming.",
-  "updated": "2026-10-15",
+  "updated": "2026-10-27",
   "published": "2026-10-14",
   "credits": 40,
   "demo_videos": [
+    "https://www.makeviral.ai/media/templates/bad-times-ai-trend/original-angry-v2.mp4",
+    "https://www.makeviral.ai/media/templates/bad-times-ai-trend/original-couple-v2.mp4",
     "https://www.makeviral.ai/media/templates/bad-times-ai-trend/original-pet-v2.mp4"
   ],
   "posters": [
+    "https://www.makeviral.ai/media/templates/bad-times-ai-trend/original-angry-v1.jpg",
+    "https://www.makeviral.ai/media/templates/bad-times-ai-trend/original-couple-v1.jpg",
     "https://www.makeviral.ai/media/templates/bad-times-ai-trend/original-pet-v1.jpg"
   ],
   "prompts": [
@@ -21,6 +25,18 @@
       "variant": "Human",
       "kind": "video_prompt",
       "text": "One continuous single take, fixed camera, vertical video. Recreate the reference video exactly, but the performer is the person from the reference image instead of the woman: the same person with the same face, hair, skin tone, body and clothes, standing upright in the place from the reference image.\nThe person reproduces the woman's full performance frame by frame with the same timing: every body movement, head turn, arm gesture, and above all her exaggerated facial acting, wide eyes, frowns, raised brows and mouth shapes, as if arguing with the camera. Very expressive, animated face.\nThe person keeps natural human anatomy: two arms and two hands with five fingers each, no jewelry unless the reference image shows it, even when they point or push a hand toward the lens. No cuts, no text, no captions or labels on screen. No gray crop top, no black leggings, no curly hair bun, no gold bracelets, no earrings and no tattoos unless the reference image shows them. Exactly one person, no extra people."
+    },
+    {
+      "label": "1. The video prompt is filled in. Settings: Seedance 2.5, 15 s, 720p, 9:16, sound off. The video prompt",
+      "variant": null,
+      "kind": "video_prompt",
+      "text": "Recreate the reference video [Video 1] shot for shot: the same white and gray kitchen with the bare bulb hanging from the ceiling, the black wire pendant lamps, the white cabinets and the white chairs, the same daylight, the same fixed phone camera at chest height, the same framing, timing and moves, one continuous take with no cuts. The ONLY change: the woman with curly hair in a bun, the gray crop top and the black leggings who argues with the camera is now the person in [Image 1].\n\n[Image 1] replaces the woman in EVERY frame, also in the close-ups at the lens: copy the exact face from [Image 1] (the face shape, eye color and eye shape, eyebrows, nose, mouth, skin tone, age, hair color, hair length and hairstyle, and any beard, moustache, glasses or freckles). They wear the clothes from [Image 1]. The same real person from the first second to the last, so their friends recognize them at once. Never morph, never drift back to the original woman's face. NO curly hair bun, no gray crop top, no black leggings, no gold bracelets, no earrings and no tattoos unless [Image 1] shows them.\n\nThe person reproduces the woman's full performance frame by frame with the same timing: every body movement, head turn, arm gesture, and above all her exaggerated facial acting, wide eyes, frowns, raised brows and mouth shapes, as if arguing with the camera. A funny, exaggerated angry dance performance with energetic body movements, dramatic facial expressions, rhythmic gestures. Matching the reference second by second:\n0-0.5 s: standing in the kitchen, full body in view, a frown.\n0.5-1 s: a thumbs-up and a quick step toward the camera.\n1-4 s: leaning in close to the lens, waist up: one index finger taps again and again on the open palm of the other hand, lecturing the camera.\n4-5 s: a flat open hand pushed right at the lens.\n5-7 s: one finger raised to the lips and the chin, a hard stare.\n7-8.5 s: a loud shout and a dismissive flick of the hand.\n8.5-10 s: a step back and a wave of the hand in front of the face.\n10-12 s: standing back, arms down, a long cold stare.\n12-13 s: a turn away to the side with a hand on the hip, then back.\n13-14 s: a fist on the chest, then a hand pushed at the lens.\n14-15 s: a big close-up with wide eyes, then both arms thrown out in a last shout.\n\nThe person keeps natural human anatomy: one head, two arms and two hands with five fingers each, even when they point or push a hand toward the lens. Exactly one person, no extra people. No text, no captions or labels on screen, no logos, no watermark."
+    },
+    {
+      "label": "1. The video prompt is filled in. Settings: Seedance 2.5, 15 s, 720p, 9:16, sound off. The video prompt",
+      "variant": null,
+      "kind": "video_prompt",
+      "text": "Recreate the reference video [Video 1] shot for shot: the same room with the dark blue wall and the wall shelf with plants, the same warm light, the same fixed phone camera at chest height, the same framing, timing, moves and cuts. The ONLY change: the woman in front who argues with the camera is now the person in [Image 1], and the man behind her right shoulder is now the person in [Image 2].\n\nUse [Image 1] as adult Person A, in front on the left, and [Image 2] as adult Person B, just behind on the right. Keep each person's face, hairstyle, outfit and body proportions consistent; do not swap roles or merge identities.\n\nPerson A: [Image 1] replaces the woman with long straight dark hair in the gray sleeveless top, in EVERY shot, also in the side close-up and in the hug: copy the exact face from [Image 1] (the face shape, eye color and eye shape, eyebrows, nose, mouth, skin tone, age, hair color, hair length and hairstyle, and any beard, moustache, glasses or freckles). They wear the clothes from [Image 1]. NO big colorful beaded earrings, no gray sleeveless top and no long straight dark hair unless [Image 1] shows them.\n\nPerson B: [Image 2] replaces the man with short gray hair and a short beard in the cream T-shirt, in EVERY shot, also in the hug: copy the exact face from [Image 2] (the face shape, eye color and eye shape, eyebrows, nose, mouth, skin tone, age, hair color, hair length and hairstyle, and any beard, moustache, glasses or freckles). They wear the clothes from [Image 2]. NO cream T-shirt, no gray hair and no beard unless [Image 2] shows them.\n\nBoth change: no one from the video stays, also when a face turns away or only the side of a head shows. The same real people from the first second to the last, so their friends recognize them at once. Never morph, never swap the two faces, never drift back to the original couple's faces.\n\nPerson A reproduces the woman's full performance frame by frame with the same timing: every body movement, head turn, arm gesture, and above all her exaggerated facial acting, wide eyes, frowns, raised brows and mouth shapes, as if arguing with the camera. Person B copies the man's reactions. The beats, second by second:\n0-4.5 s: Person A argues at the camera with fast hand moves and pointing fingers; Person B stands behind and stares.\n4.5-6 s: Person A turns to Person B and back, ranting with both hands.\n6-7 s: Person A pulls faces at the camera: a finger on the nose, the tongue out.\n7.2-8 s: a short side close-up of Person A's face: the SAME face from [Image 1], never the woman of the video.\n8-10 s: back to the two: Person B leans in nose to nose with Person A, both stare.\n10-11 s: Person B wraps both arms around Person A from behind and pulls them close.\n11-15 s: both laugh at the camera in the hug; Person A points at the camera.\n\nOne head on each person, five fingers on each hand, no extra limbs. Exactly two people. No text, no captions, no logos, no watermark."
     },
     {
       "label": "1. The video prompt is filled in. Settings: Seedance 2.5, 15 s, 720p, 9:16, sound off. The video prompt",
@@ -39,8 +55,9 @@
     "Will the woman from the original clip be in my video?",
     "How long is the video and what format is it?",
     "Other AI video templates and tools",
+    "New AI video trends this week",
     "Make your own Bad Times Trend video"
   ],
-  "prompt_count": 2,
-  "scraped_at": "2026-10-23"
+  "prompt_count": 4,
+  "scraped_at": "2026-11-08"
 }

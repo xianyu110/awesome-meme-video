@@ -1,0 +1,35 @@
+# Party Viral Dance AI: Be the Smooth Dancer at the Viral Party
+
+- Source: [makeviral](https://www.makeviral.ai/templates/party-viral-dance-ai-trend)
+- Slug: `party-viral-dance-ai-trend`
+
+The party viral dance AI trend puts your face on the man who sways past a row of clapping guests at a night party and then jumps all over the dance floor, the clip behind every "why is he dancing like that" post of October 2026.
+
+## Demo videos (CDN)
+
+- https://www.makeviral.ai/media/templates/party-viral-dance-ai-trend/original-main-v2.mp4
+
+## Posters
+
+- https://www.makeviral.ai/media/templates/party-viral-dance-ai-trend/original-main-v1.jpg
+
+## Prompts
+
+### 1. 1. The video prompt is filled in. Settings: Seedance 2.5, 12 s, 720p, 9:16, sound off. The video prompt
+
+*Kind: video_prompt*
+
+```text
+Recreate the reference video [Video 1] shot for shot: the same party hall at night with warm wall lamps, tall arched wooden windows, dinner tables with white chairs, black speakers on stands and a row of guests in striped shirts, dark shirts and long white robes who clap and laugh, the same handheld phone camera, the same vertical framing, timing and moves. The ONLY change: the dancer with the long curly hair, the big moustache and the shiny purple jacket who sways past the clapping guests and then jumps on the open floor is now the person in [Image 1].
+
+The dancer = the person in [Image 1], in EVERY shot: copy the exact face from [Image 1] (the face shape, eye color and eye shape, eyebrows, nose, mouth, skin tone, age, hair color, hair length and hairstyle, and any beard, moustache, glasses or freckles). The dancer wears exactly the clothes from [Image 1] in every shot: the same top with the same color, pattern and print, the same jacket, shirt or dress, front and back. NEVER the purple jacket, the open white collar, the gold chain or the belt of the dancer in the video unless [Image 1] shows them, and NEVER his big moustache, his bald crown or his long curly hair unless [Image 1] shows them: the hair and the face are those of [Image 1]. If [Image 1] does not show the legs, plain dark trousers that go with that top. The same real person in every frame, from the first second to the last, so their friends instantly recognize them, also in the jumps and when the back of the head shows. Never morph, never drift back to the original dancer's face, hair or clothes. If [Image 1] shows an animal, the dancer is that animal standing upright, with its own face, fur and markings and the natural body volume and proportions of that animal: never flattened, squashed, stretched or merged with anything.
+
+The dancer copies the original dancer's moves second by second:
+0-2 s: sways side to side on loose knees next to the guest in the striped shirt, arms low, a calm face, while the row of guests claps.
+2-5 s: glides along the row of guests with a smooth, swaying walk-dance, shoulders and hips rolling, head bobbing, past a tall man in a long white robe.
+5-7 s: keeps dancing in the crowd while a guest in a white robe swings his arm past the camera.
+7-12 s: on the open floor in front of the speakers: wild bouncy jumps with the knees up, kicks and a spin, the hair flying, then lands and dances on with the arms crossed in front of the chest.
+
+The guests stay as they are in the video, with their own faces; never put the face from [Image 1] on a guest, also not on the man in the long white robe. Anatomy rules: one head only, on the dancer's shoulders. Two arms and two hands, five fingers on each hand. No logo on the belt buckle or the clothes. No text, no captions, no subtitles, no stickers, no emojis, no logos, no watermark.
+```
+

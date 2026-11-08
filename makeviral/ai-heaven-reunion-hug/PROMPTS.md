@@ -34,7 +34,7 @@ Never blend their faces, never swap their clothes. Each face stays the same from
 The shots:
 1. 0-3 s: a medium shot from the side: the one who arrives runs lightly across the soft clouds, looking around in wonder, hair moving in the breeze, then slows down.
 2. 3-6 s: a medium close-up, the face turned three-quarters to the camera: they stop, breathless, look ahead, and their eyes fill with tears as they recognize someone, with a trembling smile.
-3. 6-10 s: over their shoulder, a few steps away in a beam of warm golden light, the one who waits stands with open arms and a warm smile. The one who arrives runs into their arms and they hug tightly, swaying gently; with a child or an animal, the one who arrives kneels down to hold them. The camera moves in to a medium close-up as they lean back a little and touch foreheads, eyes closed, with quiet happy tears, both faces in three-quarter view to the camera.
+3. 6-10 s: over their shoulder, a few steps away in a beam of warm golden light, the one who waits stands with open arms and a warm smile. The one who arrives runs into their arms and they hug tightly, swaying gently. If [Image 2] shows a child or an animal, the one who arrives kneels down to hold them. The camera moves in to a medium close-up as they lean back a little and touch foreheads, eyes closed, with quiet happy tears, both faces in three-quarter view to the camera.
 
 Audio: an original slow, tender piano melody with soft strings, a soft breeze, light quick footsteps, then a quiet sob and a soft laugh in the hug. No dialogue, no lyrics.
 
@@ -58,7 +58,7 @@ Never blend their faces, never swap their clothes. Each face stays the same from
 The shots:
 1. 0-3 s: a medium shot from the side: the one who climbs runs up the glowing steps, light and eager, hair moving in the breeze, face turned up toward the light with a hopeful smile.
 2. 3-5 s: from behind, a few steps lower: the one who climbs keeps running up; at the top, in front of the doorway of light, the one who waits stands with open arms and a warm smile.
-3. 5-10 s: the one who climbs reaches the top step and runs into their arms; they hug tightly and sway gently, eyes closed, with quiet happy tears; with a child or an animal, the one who climbs kneels on the top step to hold them. The camera moves around them to a medium close-up, cheek to cheek, both faces in three-quarter view to the camera.
+3. 5-10 s: the one who climbs reaches the top step and runs into their arms; they hug tightly and sway gently, eyes closed, with quiet happy tears. If [Image 2] shows a child or an animal, the one who climbs kneels on the top step to hold them. The camera moves around them to a medium close-up, cheek to cheek, both faces in three-quarter view to the camera.
 
 Audio: an original slow, tender piano melody with soft strings, a soft breeze, quick light footsteps on the steps, then a quiet sob and a soft laugh in the hug. No dialogue, no lyrics.
 

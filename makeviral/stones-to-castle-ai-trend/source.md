@@ -3,7 +3,7 @@
 > The stones to castle AI trend is a viral AI reel of an old saying: build a castle with the stones they throw at you.
 
 Canonical: https://www.makeviral.ai/templates/stones-to-castle-ai-trend
-Updated: 2026-10-22
+Updated: 2026-10-24
 Published: 2026-10-22
 Author: MakeViral Team (https://www.makeviral.ai/about)
 Publisher: MakeViral (https://www.makeviral.ai)
@@ -16,7 +16,7 @@ Also called: Stones to castle, Castle from the stones, Stones into a castle, И�
 
 **Make it now:** [Make this video](https://www.makeviral.ai/templates/stones-to-castle-ai-trend/create). 1 photo · 15 s · 9:16 with sound · 228 credits, charged once · ready in up to several minutes · no prompt to write.
 
-Keyword: stones to castle ai trend. Also answers: build a castle with the stones they throw at you, when they throw stones at you make a castle out of it, they threw stones at me, stones castle trend, castle from stones ai, red suit castle ai, unstoppable ai trend, stones castle ai video, keep every stone they throw at you, they threw stones at me i built a castle, when they throw stones at you, stones thrown at me castle, built a castle from stones, keep all the stones they throw at you, unstoppable trend instagram, castle ai trend, stone wall to castle ai, angry crowd throws stones ai, red suit woman castle trend, из камней которые в тебя бросают построй замок, собирай камни которые в тебя бросают, замок из камней тренд, sana atılan taşları atma biriktir.
+Keyword: stones to castle ai trend. Also answers: build a castle with the stones they throw at you, when they throw stones at you make a castle out of it, they threw stones at me, they threw stones i built a castle, stones castle trend, they threw stones trend, castle from stones ai, red suit castle ai, unstoppable ai trend, stones castle ai video, keep every stone they throw at you, they threw stones at me i built a castle, they threw stones i built temples, when they throw stones at you, stones thrown at me castle, built a castle from stones, keep all the stones they throw at you, unstoppable trend instagram, castle ai trend, stone wall to castle ai, angry crowd throws stones ai, red suit woman castle trend, из камней которые в тебя бросают построй замок, собирай камни которые в тебя бросают, замок из камней тренд, sana atılan taşları atma biriktir.
 
 ## What is the Stones to Castle trend, and where did it start?
 
@@ -37,6 +37,9 @@ Made from the prompts on this page. The people and pets are AI-made, not real pe
 - **Example 1** (15 s, 9:16 MP4 with sound): The original reel by @bognina_anastasia_ (21 October 2026, 1.5 million likes on Instagram in its first day), cut to 15 seconds and made vertical: the crowd throws stones toward her, she picks them up, a castle rises from them and she smiles from its window. The You version copies this clip with your photo.
   - Video: https://www.makeviral.ai/media/templates/stones-to-castle-ai-trend/original-main-v2.mp4
   - Poster: https://www.makeviral.ai/media/templates/stones-to-castle-ai-trend/original-main-v1.jpg
+- **Example 2** (15 s, 9:16 MP4 with sound): The pink gown reel by @afsanafaraj (22 October 2026, 5.8 million plays on Instagram in about a day and a half), cut to 15 seconds: she sings along on a misty hillside while the crowd throws stones toward her, builds a wall from them and ends on the steps of a huge stone castle. The Pink gown version copies this clip with your photo.
+  - Video: https://www.makeviral.ai/media/templates/stones-to-castle-ai-trend/original-gown-v2.mp4
+  - Poster: https://www.makeviral.ai/media/templates/stones-to-castle-ai-trend/original-gown-v1.jpg
 
 ## How to make the Stones to Castle video on MakeViral
 
@@ -52,44 +55,87 @@ Everything runs in the browser. No editing app, no watermark.
 
 The one-tap flow runs this prompt for you. The video prompt animates your own photo directly. To change it, copy it and edit it in AI Video.
 
+#### Variant: You
+
 Settings: 1 photo (you, face clear) · Seedance 2.5 · 15 s · 720p · 9:16 · no sound · 228 credits in one tap.
 
 1. The video prompt is filled in. Settings: Seedance 2.5, 15 s, 720p, 9:16, sound off. The video prompt:
 
    ```text
-   Recreate the reference video [Video 1] shot for shot: a cloudy green mountain valley, a big crowd of angry adult women who throw grey stones toward one calm woman in a red suit, the stones she picks up, and the stone wall that grows into a huge pale Gothic castle, with the same camera angles, cuts, timing and moves. The ONLY change: the calm woman with long dark wavy hair in the red suit is now the person in [Image 1]. The crowd, the valley, the stones, the castle, the light and the camera stay exactly as in [Video 1].
+   Create clean, unedited-looking camera footage of the one in [Image 1] as the castle builder of [Video 1]. [Image 1] replaces the calm woman in the red suit, in every shot she is in. [Image 1] controls the builder's identity, face, hair, body, figure, clothes, shoes, accessories and style. [Video 1] controls the rest: the green mountain valley, the crowd of angry adult women who throw grey stones toward the builder, the stone wall that grows into a huge Gothic castle, the light, the motion, the camera, the timing and the cuts. Preserve shot boundaries. Do not invent objects or actions. Matching [Image 1] takes priority over the source pixels of the woman in red.
 
-The woman = the person in [Image 1], in EVERY shot she is in: copy the exact face from [Image 1] (the face shape, eye color and eye shape, eyebrows, nose, mouth, skin tone, age, hair color, hair length and hairstyle, and any beard, moustache, glasses or freckles) exactly as in the photo. The same real person from the first frame to the last, so their friends recognize them at once, also in the last close shot in the window. Never morph, never drift back to the original woman's face. No long dark wavy hair unless [Image 1] shows it. The outfit is part of the look, so keep it: a red tailored suit over a black top in the valley, and a simple black sleeveless outfit in the window, never the clothes from [Image 1].
+The builder is exactly what [Image 1] shows, a person, an animal or a thing, the same one in every frame. A person: copy the exact face from [Image 1] (the face shape, eye color and eye shape, eyebrows, nose, mouth, skin tone, age, hair color, hair length and hairstyle, and any beard, moustache, glasses or freckles), with the same body shape and figure, so friends recognize them at once, also in the window close-up. Never morph, never drift back to the original woman's face, never younger or slimmer. An animal or a thing: the same species or object, colors, markings and shape at its natural size, doing her actions in its own way.
 
-The angry women of the crowd stay the same adult women as in [Video 1] and never get the face from [Image 1].
+Clothes from [Image 1]: the builder wears exactly the clothes, shoes and accessories from [Image 1], with the same colors and fit, in every shot, also in the castle window. If [Image 1] shows only the upper body, invent the rest to match. No red suit, no black outfit, no silver ring and no long dark wavy hair unless [Image 1] shows them.
 
-The shots, matching the reference second by second:
-0-1.8 s: low wide shot: the crowd behind piles of grey stones throws stones high toward her.
-1.8-3.1 s: high top-down shot of the meadow and a low stone line: she crouches alone while stones land on the grass around her.
-3.1-4.3 s: medium shot: she stands calm in the meadow, looking at the camera; a stone flies past and lands beside her; she does not flinch.
-4.3-5.4 s: close: a crowd woman with long brown hair in a black leather jacket points at the camera and shouts.
-5.4-6.4 s: close on the grass: her hand with a silver ring picks up a grey stone.
-6.4-7.4 s: she crouches in the red suit and looks calmly at the stone in her hand.
-7.4-11 s: she stands behind a dry stone wall made of the stones; it grows higher and turns into grey castle walls as the camera tilts up and Gothic spires rise, her small red figure at the top.
-11-11.9 s: wide: the huge Gothic castle fills the valley; the crowd, seen from behind, looks up.
-11.9-12.8 s: close: crowd women look up with open mouths, stones still in their hands.
-12.8-15 s: she stands in a carved Gothic stone window of the castle in the black outfit and gives a soft, proud smile to the camera, the face big and sharp.
+The hand that picks up the stone is the builder's own, as in [Image 1]: a man's, a woman's or a child's hand, or a paw, with no painted nails or rings unless [Image 1] shows them.
 
-Safety and anatomy rules: the stones only fly toward her and land on the grass around her: nobody is hit, no blood, no wound, no injury. All the women are adults. One head only per person, on their own shoulders; two arms and five fingers on each hand. Exactly one woman in red. No text, no captions, no logos, no watermark.
+The crowd women stay as in [Video 1] and never get the face or the clothes from [Image 1].
+
+The shots, second by second as in [Video 1]:
+0-1.8 s: low wide shot: the crowd behind piles of stones throws them high toward the builder.
+1.8-3.1 s: top-down shot: the builder crouches alone while stones land on the grass around them.
+3.1-4.3 s: medium shot: the builder stands calm in the outfit from [Image 1], looking at the camera; a stone lands beside them; no flinch.
+4.3-5.4 s: close: a crowd woman in a black leather jacket points at the camera and shouts.
+5.4-6.4 s: close on the grass: the builder's own hand, as in [Image 1], picks up a grey stone.
+6.4-7.4 s: the builder crouches and looks calmly at the stone.
+7.4-11 s: the builder stands behind a wall of the stones; it grows into castle walls as the camera tilts up and Gothic spires rise, the builder small at the top.
+11-11.9 s: wide: the huge castle fills the valley; the crowd, seen from behind, looks up.
+11.9-12.8 s: close: crowd women look up with open mouths, stones in their hands.
+12.8-15 s: the builder stands in a carved Gothic stone window, still in the outfit from [Image 1], and gives a soft, proud smile to the camera, the face big, sharp and exactly the face from [Image 1].
+
+Rules: the stones only land on the grass around the builder; nobody is hit, no blood, no injury. The crowd are adults. One head per person, five fingers per hand. Exactly one builder. No text, captions, emojis, logos or watermark.
    ```
 
 2. Press Generate, then download the 9:16 MP4.
 
 One-tap version of this variant: https://www.makeviral.ai/templates/stones-to-castle-ai-trend/create
 
+#### Variant: Pink gown
+
+Settings: 1 photo (you, face clear) · Seedance 2.5 · 15 s · 720p · 9:16 · no sound · 228 credits in one tap.
+
+1. The video prompt is filled in. Settings: Seedance 2.5, 15 s, 720p, 9:16, sound off. The video prompt:
+
+   ```text
+   Create clean, unedited-looking camera footage of the one in [Image 1] as the castle builder of [Video 1]. [Image 1] replaces the singing woman in the pink satin ball gown, in every shot she is in. [Image 1] controls the builder's identity, face, hair, body, figure, clothes, shoes, accessories and style. [Video 1] controls the rest: the misty green hillside, the crowd of adult women in black coats who throw grey stones, the wall, the dark stone castle and its steps, the light, the motion, the camera, the timing and the cuts. Preserve shot boundaries. Do not invent objects or actions. Matching [Image 1] takes priority over the source pixels of the woman in the pink gown.
+
+The builder is exactly what [Image 1] shows, a person, an animal or a thing, the same one in every frame. A person: copy the exact face from [Image 1] (the face shape, eye color and eye shape, eyebrows, nose, mouth, skin tone, age, hair color, hair length and hairstyle, and any beard, moustache, glasses or freckles), with the same body shape and figure, so friends recognize them at once. Never morph, never drift back to the original woman's face, never younger or slimmer. An animal or a thing: the same species or object, colors, markings and shape at its natural size, doing her actions in its own way.
+
+In the singing shots the builder sings along with the same mouth movements and timing as the woman in [Video 1].
+
+Clothes from [Image 1]: the builder wears exactly the clothes, shoes and accessories from [Image 1], with the same colors and fit, in every shot, also on the castle steps. If [Image 1] shows only the upper body, invent the rest to match. No pink gown, no corset bodice and no ring unless [Image 1] shows them. No long auburn hair unless [Image 1] shows it.
+
+The hands that gather and stack the stones are the builder's own, as in [Image 1]: a man's, a woman's or a child's hands, or paws, with no painted nails or rings unless [Image 1] shows them.
+
+The crowd women stay as in [Video 1] and never get the face or the clothes from [Image 1].
+
+The shots, second by second as in [Video 1]:
+0-0.8 s: medium: the builder stands before the crowd and sings to the camera; a stone flies past.
+0.8-1.8 s: side view: the builder sings on; a stone lands in the grass.
+1.8-2.8 s: medium: the builder sings to the camera, hurt but strong.
+2.8-5.7 s: the builder kneels before the crowd and gathers the stones landing around them.
+5.7-8.2 s: closer: the builder kneels on dark soil and lays the stones side by side in a row.
+8.2-10.75 s: the builder stacks the stones; the wall rises until it hides them.
+10.75-12.2 s: far away, the builder walks up the steps of a huge dark castle; the crowd behind throws stones that fall short.
+12.2-13.3 s: close: crowd women stare up with open mouths, stones in their hands.
+13.3-15 s: wide: the castle; the builder stands at the top of the steps, still in the outfit from [Image 1]; the crowd looks up.
+
+Rules: the stones only land on the grass around the builder; nobody is hit, no blood, no injury. The crowd are adults. One head per person, five fingers per hand. Exactly one builder. No text, captions, emojis, logos or watermark.
+   ```
+
+2. Press Generate, then download the 9:16 MP4.
+
+One-tap version of this variant: https://www.makeviral.ai/templates/stones-to-castle-ai-trend/create?variant=gown
+
 ### Which photo works best?
 
-You need **one clear photo of yourself**: you play the calm woman in red.
+You need **one clear photo of yourself**: you take the place of the calm woman in red and build the castle.
 
-- **The face:** big, sharp and turned to the camera, in soft light. Head and shoulders or waist up works best, because the last shot is a close-up of your smile in the castle window.
-- **Your clothes do not matter:** the video always dresses you in the red suit in the valley, then in a simple black outfit in the window.
-- No sunglasses, mask or hat over the face, and only one person in the photo.
-- Use your own photo, or one of an adult friend who said yes. This template is for adults only.
+- **The face:** big, sharp and turned to the camera, in soft light. Waist up or full body works best, because the last shot is a close-up of your smile in the castle window.
+- **Your clothes come with you:** the video keeps the outfit, shoes and style of your photo in every shot, from the valley to the castle window. Wear the look you want to be seen in. For the red suit of the reel, pick "Outfit from the video" under Advanced.
+- No sunglasses, mask or hat over the face, and only one person or one pet in the photo.
+- Use your own photo, or one of an adult friend who said yes. A photo of your pet works too. This template is for adults only.
 
 ## How many credits does it cost?
 
@@ -109,12 +155,12 @@ The original reel is 30 seconds long and square. MakeViral cuts it to the 15 sec
 |---|---|
 | 0 to 1.8 | A crowd of angry women behind piles of grey stones throws them high toward you. |
 | 1.8 to 3.1 | From high above: you crouch alone on the other side of a low stone line, and the stones land in the grass around you. |
-| 3.1 to 4.3 | You stand calm in your red suit, mountains behind you. A stone flies past and you do not even blink. |
+| 3.1 to 4.3 | You stand calm in your own outfit, mountains behind you. A stone flies past and you do not even blink. |
 | 4.3 to 5.4 | A woman in the crowd points at the camera and shouts. |
 | 5.4 to 7.4 | Your hand picks up a stone from the grass, and you look at it, calm. |
 | 7.4 to 11 | The stones become a wall in front of you, the wall grows, and the camera tilts up as Gothic towers and spires rise. |
 | 11 to 12.8 | A huge castle fills the valley, and the crowd looks up with open mouths, stones still in their hands. |
-| 12.8 to 15 | You stand in a carved stone window of the castle, now in black, and smile. |
+| 12.8 to 15 | You stand in a carved stone window of the castle, still in your own outfit, and smile. |
 
 It is a character swap of the real AI reel, not a new scene: top-quality AI video models, including Seedance 2.5, take the original clip and put you in the woman's place, with the same crowd, the same valley and the same castle. The video comes at 720p, with the reel's own song put back on after the run. Press "Create your own", add your photo and press Generate. The exact price shows on the Generate button first, and a run can take 5 to 15 minutes.
 
@@ -126,6 +172,8 @@ It is a character swap of the real AI reel, not a new scene: top-quality AI vide
 | Short | 8 seconds | The same story in a fast cut: the stones fly, you pick one up, the castle rises and you smile from the window. |
 
 Short costs about half as much as Full, because the price grows with the length of the clip. Full gives the build-up time to land, and it is the one most people post. Both show their price on the Generate button.
+
+The page has two versions, and both come in Full and Short. **You** copies the first reel by @bognina_anastasia_, the woman in the red suit. **Pink gown** copies the second look by @afsanafaraj from 22 October 2026: you sing along on a misty green hillside while a crowd in black coats throws stones toward you, then you kneel, gather the stones into a wall and end on the steps of a huge dark castle. Its song is one continuous piece of her reel, so your lips stay on the song in the singing shots. People post this look with the line "they threw stones, I built a castle" and search it as the they threw stones trend. The words are close to a song lyric people also look up, "they threw stones, I built temples".
 
 ## Build a castle with the stones they throw at you: what the trend means
 
@@ -141,6 +189,7 @@ Russian speakers know the saying as "из камней, которые в теб
 |---|---|
 | The face looks like the woman from the reel | Use a closer, sharper photo with your face big and in good light, then run it again. |
 | The long dark hair of the reel comes back | Run it again with a photo that shows your own hair clearly. |
+| The red suit of the reel comes back | Use a photo that shows your outfit clearly, waist up or full body, and run it again. |
 | A woman in the crowd gets your face | Run it again. Every run is a new take. |
 | The castle looks different from the reel | That is normal: the castle is rebuilt in every run, with the same valley and the same rise. |
 | The run fails | Some photos get refused. MakeViral then tries a backup model, and if the video still fails, the credits come back. |
@@ -173,7 +222,7 @@ The reel plays a big pop anthem about being unstoppable, which Instagram marks a
 
 ### Can a man make the stones to castle video?
 
-Yes. The AI keeps your own face, hair and look from the photo. You wear the red suit in the valley and a simple black outfit in the castle window.
+Yes. The AI keeps your own face, hair, body and outfit from the photo in every shot, from the valley to the castle window. A photo of your pet works too.
 
 ### Does the stones to castle video cost credits?
 
@@ -183,6 +232,10 @@ Yes. The Generate button shows the exact price before you spend anything, Short 
 
 No. You take her place. The crowd, the valley and the castle stay as in the reel. MakeViral is not linked with @bognina_anastasia_.
 
+### What is the Pink gown version of the stones to castle trend?
+
+A second look of the same story, from a reel @afsanafaraj posted on 22 October 2026 (5.8 million plays on Instagram by 24 October). You sing along on a misty hillside while the crowd throws stones toward you, build a wall from the stones and end on the steps of a dark castle. You keep your own outfit; pick "Outfit from the video" under Advanced to wear the pink gown. MakeViral is not linked with @afsanafaraj.
+
 ## Other AI video templates and tools
 
 - [AI Cupid Trend: Cupid Dives at You, Your Handbag Says Not Today](https://www.makeviral.ai/templates/ai-cupid-trend): Cupid aims from a cathedral ledge, dives at you, and you knock him out of the air with your handbag, then walk on while he lies in a cloud of feathers. Or pick Arrow: his arrow misses the man and you fall in love with a coat. One photo, about 15 seconds, with the reel's sound.
@@ -190,6 +243,15 @@ No. You take her place. The crowd, the valley and the castle stay as in the reel
 - [ATM Glitch AI Trend: The Money Explosion on CCTV, Starring You](https://www.makeviral.ai/templates/atm-glitch-ai-trend): A black-and-white security camera in an ATM booth at night: you take your cash, the machine bursts, a storm of bills knocks you back, and you end up sitting on a floor of money, laughing up at the camera. Or put your pet at the ATM. It is an AI video, not a real glitch.
 - [AI photo generator](https://www.makeviral.ai/ai-photo-generator)
 - [All AI video templates](https://www.makeviral.ai/templates)
+
+## New AI video trends this week
+
+- [Christmas Dance AI: Do the New TikTok Christmas Dance From Your Photos](https://www.makeviral.ai/templates/christmas-dance-ai-trend): Hip sways with the hands at the collar, rolling arms, a quick spin and raised fists, side by side in matching Christmas pajamas. Add two photos for the duo, one for a solo take, or two pets, and get the dance with the sound.
+- [Cat on Ultra Bee AI: Put Your Pet on the Wheelie](https://www.makeviral.ai/templates/cat-on-ultra-bee-ai-trend): Add one photo, and your cat or dog stands on an electric dirt bike and holds a long wheelie down a city road at golden hour, in the same shots as the viral clip, with its original sound. You can take the ride yourself, too.
+- [Tus Ojos Me Reflejan el Sentimiento: The Cafuné Eye Close-Up Trend](https://www.makeviral.ai/templates/tus-ojos-me-reflejan-ai-trend): You lie on your side, a hand rests on your cheek, warm light falls on your face, and the camera slowly moves in until your eyes fill the screen while the line plays. One photo in, an 8-second vertical clip with the trend's song out.
+- [İnşallah Maşallah AI Trend: Sing Neşe Karaböcek's Song on the Couch](https://www.makeviral.ai/templates/insallah-masallah-ai-trend): You sit on a light grey couch and sing the old Turkish love song straight to the camera: a hand on the heart, a big laugh with both hands on your head, a finger pointed at the camera and a kiss at the end. One photo of you, a grandparent or your pet, and the 15-second clip comes with the song.
+- [Ice Ice Baby Dance AI: Do the Viral Duo Dance With a Friend](https://www.makeviral.ai/templates/ice-ice-baby-dance-ai): Two dancers side by side, the same bouncy 90s steps, a spin on the beat and a strut to the camera. Add a photo of you and a friend, of you alone, or of your pet, and get the dance with the sound.
+- [Save Yourself Trend: Pull Yourself Up From the Cliff](https://www.makeviral.ai/templates/save-yourself-ai-trend): One photo plays both of you: the scared you clinging to a wet sea cliff, and the calm you who reaches down, pulls you up and holds you. Or use two photos: an older photo of you and a new one, or you and a friend. 15 seconds, vertical.
 
 ## Make your own Stones to Castle video
 

@@ -1,0 +1,55 @@
+{
+  "source": "makeviral",
+  "source_site": "https://www.makeviral.ai",
+  "slug": "monkey-eating-apple-ai-trend",
+  "name": "Monkey Eating Apple AI: A Macaque Steals Your Apple",
+  "url": "https://www.makeviral.ai/templates/monkey-eating-apple-ai-trend",
+  "markdown_url": "https://www.makeviral.ai/templates/monkey-eating-apple-ai-trend.md",
+  "blurb": "The monkey eating apple AI trend is a short video where a wild macaque on a stone railing grabs the red apple you are eating, wins a quick tug of war and leaves you frozen in shock.",
+  "updated": "2026-11-02",
+  "published": "2026-11-02",
+  "credits": 137,
+  "demo_videos": [
+    "https://www.makeviral.ai/media/templates/monkey-eating-apple-ai-trend/original-main-v2.mp4"
+  ],
+  "posters": [
+    "https://www.makeviral.ai/media/templates/monkey-eating-apple-ai-trend/original-main-v1.jpg"
+  ],
+  "prompts": [
+    {
+      "label": "1. The video prompt is filled in. Settings: Seedance 2.5, 9 s, 720p, 9:16, sound off. The video prompt",
+      "variant": null,
+      "kind": "video_prompt",
+      "text": "Recreate the reference video [Video 1] shot for shot: one continuous handheld phone take on a paved path through a sunny green forest, beside a low stone railing where a wild macaque sits, a few tourists small in the far background, the same camera, framing, timing, push-in and moves. The ONLY change: the woman in the white T-shirt who eats the red apple is now the person in [Image 1]. Everything else stays the same.\n\nThe person = the person in [Image 1], in EVERY frame: copy the exact face from [Image 1]: face shape, eye color and eye shape, eyebrows, nose, mouth, skin tone, age, hair color, hair length and hairstyle, and any beard, moustache, glasses or freckles exactly as in the photo. They wear the clothes from [Image 1]; if [Image 1] shows only the head or the upper body, invent the rest so it matches naturally. The same real person in every frame, from the first second to the last, so their friends instantly recognize them, also with the back turned and in the final close-up. Never morph, never drift back to the original woman's face. NO short brown bob with bangs and NO white T-shirt unless [Image 1] shows them. If [Image 1] shows an animal, the person is that animal in the same place, with its own face, fur and markings and the natural body volume and proportions of that animal: never flattened, squashed, stretched or merged with anything.\n\nThe macaque stays exactly as in [Video 1] in every frame: a real wild macaque with brown-grey fur and a pink face, its own size, its own quick moves. It is never a person, never a toy and never merges with anyone. There is one red apple, the same apple from the first frame to the last.\n\nThe performance, matching [Video 1] second by second:\n00:00-00:01: the person stands by the stone railing and bites into the red apple held in both hands; the macaque sits on the railing just behind their shoulder.\n00:01-00:03: the macaque leans in and grabs the apple with both hands; the person pulls it back, surprised, eyebrows up.\n00:03-00:06: a tug of war: the person turns their back to the macaque and holds the apple close, the macaque reaches over their shoulder and hangs on their arm; the person screams and laughs at the same time.\n00:06-00:07.6: the person faces the camera and holds the bitten apple in both hands, stunned and out of breath; the macaque watches from the railing.\n00:07.6-00:08.2: the macaque's arm shoots in and snatches the apple out of the person's hands; the person turns toward it.\n00:08.2-00:09.1: the camera pushes in to a close-up of the person's face: eyes wide, mouth open, frozen in shock.\n\nReal live-action phone footage, natural late-afternoon light, clear facial features. No dialogue throughout the entire video. No background music.\n\nAnatomy rules: one head only, on the person's shoulders. Two arms and two hands, five fingers on each hand. Exactly one person and one macaque in the foreground.\n\nNo text, no captions, no stickers, no logos, no watermark, no extra animals, no extra limbs, no morphing, no facial distortion."
+    },
+    {
+      "label": "1. The video prompt is filled in. Settings: Seedance 2.5, 10 s, 720p, 9:16, sound on. The video prompt",
+      "variant": null,
+      "kind": "video_prompt",
+      "text": "Real handheld phone footage, filmed like a tourist video: a paved path through a sunny green forest with tall trees, a low stone railing along the path, warm late-afternoon light, a few tourists small in the far background. Photorealistic, natural skin and natural colors, not CGI, not a cartoon. The camera stays close: medium shots and a close-up keep both faces large, sharp and well lit.\n\nThe one on the LEFT is the person in [Image 1], in every frame: copy the exact face from [Image 1] (the face shape, eye color and eye shape, eyebrows, nose, mouth, skin tone, age, hair color, hair length and hairstyle, and any beard, moustache, glasses or freckles), with the clothes from [Image 1].\nThe one on the RIGHT is the person in [Image 2], in every frame: copy the exact face from [Image 2] (the face shape, eye color and eye shape, eyebrows, nose, mouth, skin tone, age, hair color, hair length and hairstyle, and any beard, moustache, glasses or freckles), with the clothes from [Image 2].\nIf an image shows an animal, that one is that animal standing at the railing, with its own face, fur and markings and the natural body volume of that animal, not a person.\nNever blend their faces, never swap their clothes. Each face stays the same from the first frame to the last, so their friends recognize them at once.\n\nA real wild macaque with brown-grey fur and a pink face sits on the stone railing right behind them, at the natural size of a macaque. There is one red apple.\n\nThe shots:\n1. 0-3 s: a medium shot: both stand side by side with their backs to the railing; the one on the left bites into a red apple held in both hands, the one on the right smiles at the camera. The macaque creeps closer along the railing behind them.\n2. 3-6 s: the macaque leans in and grabs the apple with both hands. The one on the left pulls it back, the one on the right grabs their friend's arm; a short tug of war, both scream and laugh.\n3. 6-8 s: the macaque snatches the apple, sits back on the railing and takes a big crunchy bite, looking at them.\n4. 8-10 s: the camera pushes in to a close-up of both faces side by side: eyes wide, mouths open, frozen in shock, then they turn to look at each other.\n\nAudio: forest birds, the macaque's short chatter, the crunch of the apple, a surprised scream and laughter. No dialogue, no background music.\n\nExactly the two from the photos and one macaque in the foreground. No text, no captions, no logos, no watermark, no extra animals, no extra limbs."
+    },
+    {
+      "label": "1. The video prompt is filled in. Settings: Seedance 2.5, 9 s, 720p, 9:16, sound off. The video prompt",
+      "variant": "Pet",
+      "kind": "video_prompt",
+      "text": "Recreate the reference video [Video 1] shot for shot: one continuous handheld phone take on a paved path through a sunny green forest, beside a low stone railing where a wild macaque sits, a few tourists small in the far background, the same camera, framing, timing, push-in and moves. The ONLY change: the woman in the white T-shirt who eats the red apple is completely replaced by the pet from [Image 1], the WHOLE body, not just the head. Everything else stays the same.\n\nThe pet = the pet in [Image 1], in EVERY frame: the same species and breed, face, eyes, ears, muzzle, fur colors, fur length and markings as in [Image 1], with the natural body volume and proportions of that animal: never flattened, squashed, stretched or merged with anything. Whether [Image 1] shows a dog, a cat or another animal, it stays that animal, standing up on its hind legs at the stone railing in the woman's place, front paws on the top of the railing. It stays an animal: no human body, no human hands, no clothes, no white T-shirt. The same pet in every frame, so its owner instantly recognizes it. Never drift back to the woman.\n\nThe macaque stays exactly as in [Video 1] in every frame: a real wild macaque with brown-grey fur and a pink face, its own size, its own quick moves. It is never a person, never a toy and never merges with anyone. There is one red apple, the same apple from the first frame to the last.\n\nThe performance, matching [Video 1] second by second:\n00:00-00:01: the pet stands at the stone railing and nibbles the red apple, which it holds in its mouth; the macaque sits on the railing right beside it.\n00:01-00:03: the macaque leans in and grabs the apple with both hands; the pet holds on with its teeth and pulls its head back, eyes wide.\n00:03-00:06: a tug of war: the pet turns its head away with the apple, the macaque reaches over the pet's back and tugs; the pet's ears go back.\n00:06-00:07.6: the pet faces the camera, the bitten apple between its front paws on the railing, stunned.\n00:07.6-00:08.2: the macaque's arm shoots in and snatches the apple away; the pet turns its head toward it.\n00:08.2-00:09.1: the camera pushes in to a close-up of the pet's face: eyes wide, ears up, mouth a little open, frozen in shock.\n\nReal live-action phone footage, natural late-afternoon light. No dialogue throughout the entire video. No background music.\n\nAnatomy rules: the pet has one head, one muzzle and four legs, animal paws, never human hands. Exactly one pet and one macaque in the foreground, no people in the foreground.\n\nNo text, no captions, no stickers, no logos, no watermark, no extra animals, no morphing."
+    }
+  ],
+  "variant_headings": [
+    "What the Monkey Eating Apple video looks like",
+    "How to make the Monkey Eating Apple video on MakeViral",
+    "Which photo works best?",
+    "What happens in the monkey eating apple video, second by second?",
+    "You, Duo or Pet: which one should you make?",
+    "Is the monkey eating apple video real?",
+    "How do I make the monkey eating apple AI video with my photo?",
+    "Can my dog or cat be in the monkey eating apple video?",
+    "How long is the video and what format is it?",
+    "Does the monkey eating apple video cost credits?",
+    "Other AI video templates and tools",
+    "New AI video trends this week",
+    "Make your own Monkey Eating Apple video"
+  ],
+  "prompt_count": 3,
+  "scraped_at": "2026-11-08"
+}

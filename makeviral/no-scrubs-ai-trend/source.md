@@ -3,7 +3,7 @@
 > The No Scrubs AI trend puts you and two friends into a glossy 1999-style girl-group music video, the look of the TLC No Scrubs music video: a silver space-station set, an elevator intro, solo close-ups and a dance in a row.
 
 Canonical: https://www.makeviral.ai/templates/no-scrubs-ai-trend
-Updated: 2026-10-22
+Updated: 2026-11-08
 Published: 2026-10-22
 Author: MakeViral Team (https://www.makeviral.ai/about)
 Publisher: MakeViral (https://www.makeviral.ai)
@@ -16,7 +16,7 @@ Also called: No Scrubs music video AI, TLC No Scrubs AI, No Scrubs girl group AI
 
 **Make it now:** [Make this video](https://www.makeviral.ai/templates/no-scrubs-ai-trend/create). 3 photos · 15 s · 9:16 with sound · 189 credits, charged once · ready in a few minutes · no prompt to write.
 
-Keyword: no scrubs ai. Also answers: no scrubs music video, tlc no scrubs, no scrubs video, tlc no scrubs music video, no scrubs dance, no scrubs outfit, no scrubs costume, no scrubs tiktok, no scrubs trend, no scrubs dance trend, no scrubs meme, no scrubs tiktok trend, no scrubs music video outfits, no scrubs halloween costume, no scrubs remake, no scrubs ai trend, no scrubs ai video, no scrubs ai filter, no scrubs ai dance, no scrubs face swap, tlc no scrubs face swap, 90s music video ai face swap, no scrubs ai video generator, no scrubs template, no scrubs capcut template, tlc ai video, girl group music video ai, 90s music video ai, no scrubs elevator.
+Keyword: no scrubs ai. Also answers: no scrubs music video, tlc no scrubs, no scrubs video, tlc no scrubs music video, no scrubs dance, no scrubs outfit, no scrubs costume, no scrubs tiktok, no scrubs trend, no scrubs dance trend, no scrubs meme, no scrubs tiktok trend, no scrubs music video outfits, no scrubs halloween costume, no scrubs remake, no scrubs ai trend, no scrubs ai video, no scrubs ai filter, no scrubs ai dance, no scrubs face swap, tlc no scrubs face swap, 90s music video ai face swap, no scrubs ai video generator, no scrubs template, no scrubs capcut template, tlc ai video, girl group music video ai, 90s music video ai, no scrubs elevator, no scrubs boy version, no scrubs male version, no scrubs guy version, tlc no scrubs male version.
 
 ## What is the No Scrubs AI Trio trend, and where did it start?
 
@@ -40,6 +40,10 @@ Made from the prompts on this page. The people and pets are AI-made, not real pe
   - Video: https://www.makeviral.ai/media/templates/no-scrubs-ai-trend/example-v1.mp4
   - Poster: https://www.makeviral.ai/media/templates/no-scrubs-ai-trend/example-v1-poster.jpg
   - Input photo: https://www.makeviral.ai/media/templates/no-scrubs-ai-trend/example-v1-input.jpg
+- **Example 2** (15 s, 9:16 MP4 with sound): Guys, made with MakeViral from three photos of AI-made men (not real people): the elevator intro, three close-ups, the overhead shot and the dance in a row, straight-faced, 15 seconds.
+  - Video: https://www.makeviral.ai/media/templates/no-scrubs-ai-trend/example-guys.mp4
+  - Poster: https://www.makeviral.ai/media/templates/no-scrubs-ai-trend/example-guys-poster.jpg
+  - Input photo: https://www.makeviral.ai/media/templates/no-scrubs-ai-trend/example-guys-input.jpg
 
 ## How to make the No Scrubs AI Trio video on MakeViral
 
@@ -108,6 +112,33 @@ Keep every face clearly lit. Audio: an original late-90s R&B beat with a plucked
 
 One-tap version of this variant: https://www.makeviral.ai/templates/no-scrubs-ai-trend/create?variant=solo
 
+#### Variant: Guys
+
+Settings: 3 photos (photo 1: the middle, face clear + photo 2: the left, face clear + photo 3: the right, face clear) · Seedance 2.5 · 15 s · 720p · 9:16 · with sound · 189 credits in one tap.
+
+1. The video prompt is filled in. Settings: Seedance 2.5, 15 s, 720p, 9:16, sound on. The video prompt:
+
+   ```text
+   A vertical, glossy 1999-style R&B group music video, made new, starring three men. [Image 1], [Image 2] and [Image 3] are the three people. Three performers in the video, one person each, in every shot, including every close-up and the solo shots: the performer in the MIDDLE (the one alone in the elevator at the start, in the second close-up and in the overhead shot) is the person in [Image 1]; the performer on the LEFT (the first close-up) is the person in [Image 2]; the performer on the RIGHT (the third close-up) is the person in [Image 3]. Each person wears the clothes, hat, glasses and jewellery from their own image, in every shot. Where an image shows no clothes below the chest, that man wears plain black, white or grey: a zip track jacket or a fitted tee, and dark trousers.
+
+Each performer has the exact face from their own image (the face shape, eye color and eye shape, eyebrows, nose, mouth, skin tone, age, hair color, hair length and hairstyle, and any beard, moustache, glasses or freckles). Never blend their faces and never swap them. Each face stays the same from the first frame to the last, so their friends recognize them at once. Each man keeps his own build, hair and beard from his own image, with no makeup: no braided pigtails, no short red hair, no long curly hair and no crop tops unless his image shows them. If an image shows an animal, that performer is that animal standing upright, with its own face, fur and markings, not a person.
+
+The set: a futuristic space station, all brushed silver and white: curved metal walls, glossy white floors and cool blue-white light. Plain walls with no letters, no logos and no writing.
+
+0-2.5 s: the elevator intro: a long, narrow silver elevator shaft lit from the sides; [Image 1] rides up alone on a small platform toward the camera, head high, arms loose.
+2.5-5 s: the first close-up, against a pale blue-white wall: [Image 2] points at the camera with attitude. The face is large and sharp: exactly the face from [Image 2].
+5-7.5 s: the second close-up: [Image 1] raises both hands at the sides, palms out, and tilts the head. Exactly the face from [Image 1].
+7.5-9.5 s: the third close-up: [Image 3] leans toward the lens with a sly smile and wags one finger. Exactly the face from [Image 3].
+9.5-11.5 s: an overhead fisheye shot from the ceiling: [Image 1] looks up into the lens with both arms spread wide, [Image 2] and [Image 3] at the sides.
+11.5-15 s: a wide, low shot: all three dance the same sharp, slinky R&B routine in sync on the glossy floor, straight-faced, [Image 2] on the left, [Image 1] in the middle, [Image 3] on the right: hip sways, shoulder rolls, a slow turn and a finger wag at the camera.
+
+Keep every face clearly lit. Audio: an original late-90s R&B beat with a plucked guitar riff, finger snaps and a deep bass, instrumental only: no singing voice, no lyrics. The performers mouth along to the beat with attitude. Exactly three people, no other people. Do not add any text or logos: no subtitles, no letters on the walls, no watermark.
+   ```
+
+2. Press Generate, then download the 9:16 MP4.
+
+One-tap version of this variant: https://www.makeviral.ai/templates/no-scrubs-ai-trend/create?variant=guys
+
 ### Which photo works best?
 
 You need **three photos** for Trio, one person in each, or **one photo** for Solo.
@@ -140,7 +171,7 @@ The Trio version plays six shots in 15 seconds, in the order of a late-90s girl-
 | 9.5-11.5 s | An overhead fisheye shot: photo 1 looks up with arms wide, the other two at the sides |
 | 11.5-15 s | The dance: all three in a row on the glossy floor, hip sways, shoulder rolls and a slow turn |
 
-Solo plays the same shots in 10 seconds with you as the lead in every one, and two backup dancers behind you in the last shot. Both versions come out vertical (9:16) at 720p, with an original late-90s R&B beat, not the No Scrubs song. They are made with the best AI video models available, straight from your photos, so the faces stay close to them. The exact price shows on the Generate button before you spend anything.
+Solo plays the same shots in 10 seconds with you as the lead in every one, and two backup dancers behind you in the last shot. All versions come out vertical (9:16) at 720p, with an original late-90s R&B beat, not the No Scrubs song. They are made with the best AI video models available, straight from your photos, so the faces stay close to them. The exact price shows on the Generate button before you spend anything.
 
 ## Trio or Solo: which version should you pick?
 
@@ -148,8 +179,9 @@ Solo plays the same shots in 10 seconds with you as the lead in every one, and t
 |---|---|---|
 | Trio | 3 people: the middle, the left, the right | You and two friends as the girl group: one elevator intro, a close-up each, the overhead shot and the dance, 15 seconds |
 | Solo | 1 person | You as the lead in every shot, with two backup dancers in the dance shot, 10 seconds |
+| Guys | 3 men: the middle, the left, the right | You and two friends as a three-man group: the same six shots, done straight-faced, each in your own clothes, 15 seconds |
 
-Photo 1 is the middle performer in both versions, so the same photo works in each. Men, women and mixed groups all work: each person keeps their own face, hair and clothes.
+Photo 1 is the middle performer in every version, so the same photo works in each. Men, women and mixed groups all work: each person keeps their own face, hair and clothes.
 
 Want another music video with your friends? Try the [APT pink studio duo](https://www.makeviral.ai/templates/apt-ai-trend), the [carpool rap](https://www.makeviral.ai/templates/walk-it-like-i-talk-it-ai-trend) or the [Toz Pembe girl group](https://www.makeviral.ai/templates/toz-pembe-ai-trend).
 
@@ -198,6 +230,10 @@ No. The clip comes with an original late-90s R&B beat, because the song belongs 
 
 No creator shared one, and the app templates show none. One AI template site runs its three-photo template on a prompt that puts one person in place of each performer in every shot, the middle one alone in the elevator, each in the clothes from their own photo. Our prompt keeps those words and order, and describes our own set and shots in place of the real video.
 
+### Is there a No Scrubs boy version, a male version or a guy version?
+
+Yes: pick Guys. Three men add one photo each and get the same elevator intro, close-ups, overhead shot and dance as Trio, done straight-faced as a three-man group, each in his own clothes, 15 seconds. It is the AI music video, not a TLC No Scrubs male version of the song: the clip has the same instrumental beat. Trio stays the pick for women and mixed groups.
+
 ### Can I make it alone?
 
 Yes. Pick Solo and add one photo: you are the lead in every shot, from the elevator intro to the dance, with two backup dancers behind you at the end. It is 10 seconds long.
@@ -239,6 +275,15 @@ Yes. Sites call it the No Scrubs AI video generator, a No Scrubs remake, a TLC A
 - [AI Reels](https://www.makeviral.ai/tools/ai-reels-generator): Pick a format, give it a topic or a product link, and get a finished vertical reel with voice and captions. Nothing to film, nothing to edit.
 - [AI photo generator](https://www.makeviral.ai/ai-photo-generator)
 - [All AI video templates](https://www.makeviral.ai/templates)
+
+## New AI video trends this week
+
+- [Christmas Dance AI: Do the New TikTok Christmas Dance From Your Photos](https://www.makeviral.ai/templates/christmas-dance-ai-trend): Hip sways with the hands at the collar, rolling arms, a quick spin and raised fists, side by side in matching Christmas pajamas. Add two photos for the duo, one for a solo take, or two pets, and get the dance with the sound.
+- [Cat on Ultra Bee AI: Put Your Pet on the Wheelie](https://www.makeviral.ai/templates/cat-on-ultra-bee-ai-trend): Add one photo, and your cat or dog stands on an electric dirt bike and holds a long wheelie down a city road at golden hour, in the same shots as the viral clip, with its original sound. You can take the ride yourself, too.
+- [Tus Ojos Me Reflejan el Sentimiento: The Cafuné Eye Close-Up Trend](https://www.makeviral.ai/templates/tus-ojos-me-reflejan-ai-trend): You lie on your side, a hand rests on your cheek, warm light falls on your face, and the camera slowly moves in until your eyes fill the screen while the line plays. One photo in, an 8-second vertical clip with the trend's song out.
+- [İnşallah Maşallah AI Trend: Sing Neşe Karaböcek's Song on the Couch](https://www.makeviral.ai/templates/insallah-masallah-ai-trend): You sit on a light grey couch and sing the old Turkish love song straight to the camera: a hand on the heart, a big laugh with both hands on your head, a finger pointed at the camera and a kiss at the end. One photo of you, a grandparent or your pet, and the 15-second clip comes with the song.
+- [Ice Ice Baby Dance AI: Do the Viral Duo Dance With a Friend](https://www.makeviral.ai/templates/ice-ice-baby-dance-ai): Two dancers side by side, the same bouncy 90s steps, a spin on the beat and a strut to the camera. Add a photo of you and a friend, of you alone, or of your pet, and get the dance with the sound.
+- [Save Yourself Trend: Pull Yourself Up From the Cliff](https://www.makeviral.ai/templates/save-yourself-ai-trend): One photo plays both of you: the scared you clinging to a wet sea cliff, and the calm you who reaches down, pulls you up and holds you. Or use two photos: an older photo of you and a new one, or you and a friend. 15 seconds, vertical.
 
 ## Make your own No Scrubs AI Trio video
 

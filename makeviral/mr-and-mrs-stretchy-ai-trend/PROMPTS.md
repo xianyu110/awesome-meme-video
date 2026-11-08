@@ -1,0 +1,97 @@
+# Mr and Mrs Stretchy AI Trend: Become the Clay Couple Who Wreck the Kitchen
+
+- Source: [makeviral](https://www.makeviral.ai/templates/mr-and-mrs-stretchy-ai-trend)
+- Slug: `mr-and-mrs-stretchy-ai-trend`
+
+Mr and Mrs Stretchy is the TikTok AI trend of late October 2026: a lanky clay cartoon couple with huge ears and long rubbery noses makes a mess of their home.
+
+## Demo videos (CDN)
+
+- https://www.makeviral.ai/media/templates/mr-and-mrs-stretchy-ai-trend/original-main-v2.mp4
+
+## Posters
+
+- https://www.makeviral.ai/media/templates/mr-and-mrs-stretchy-ai-trend/original-main-v1.jpg
+
+## Prompts
+
+### 1. 1. The video prompt is filled in. Settings: Seedance 2.5, 15 s, 720p, 9:16, sound off. The video prompt
+
+*Kind: video_prompt*
+
+```text
+Recreate the reference video [Video 1] shot for shot: the same single continuous low-angle shot from the kitchen counter: the sunny kitchen with sage-green cabinets, a white stove and microwave, hanging plants, the wooden counter in front with the red mug and the glass coffee jar, the same fixed camera, framing, timing and moves, in the same soft claymation style. The ONLY change: the two clay characters become clay versions of the two people in the photos. The person in the FIRST photo stands on the LEFT and the person in the SECOND photo on the RIGHT, never swapped: the woman on the LEFT who makes the coffee is now the person in [Image 1], and the tall man on the RIGHT, close to the camera, is now the person in [Image 2]. Each one is a tall, skinny, stretchy cartoon clay figure: oversized floppy ears, a long rubbery nose, very long thin arms and legs, big bare feet, soft claymation texture.
+
+LEFT = the person in [Image 1], in EVERY frame: copy the exact face from [Image 1]: face shape, eye color and eye shape, eyebrows, mouth, skin tone, age, hair color, hair length and hairstyle, and any beard, moustache, glasses or freckles exactly as in the photo. They keep the clothing colours from the photo. NO floral headscarf, no scarf around the head and no pink cardigan unless the photo shows them.
+
+RIGHT = the person in [Image 2], in EVERY frame: copy the exact face from [Image 2]: face shape, eye color and eye shape, eyebrows, mouth, skin tone, age, hair color, hair length and hairstyle, and any beard, moustache, glasses or freckles exactly as in the photo. They keep the clothing colours from the photo. NO olive t-shirt and no messy brown hair tuft unless the photo shows them.
+
+The same two people from the first second to the last, so their friends recognize them at once. Never morph, never drift back to the faces of the clay characters in the video. Do not mix the two faces: [Image 1] is only LEFT, [Image 2] is only RIGHT. Both change: no one from the video stays.
+
+The action, matching the reference second by second. Do not invent other moves.
+0-3 s: the one on the LEFT pours and spoons the coffee, but it lands on the wooden counter next to the red mug. The tall one on the RIGHT, close to the camera, watches.
+3-8 s: the LEFT one keeps missing the mug, leans over it and bends down to it. The RIGHT one leans in and gestures at the mug.
+8-10.5 s: the LEFT one pours the milk and it splashes all over the counter. The RIGHT one gives a stunned thumbs-up.
+10.5-15 s: the RIGHT one stretches a long arm, picks up the red mug and holds it, staring at the mess.
+
+Anatomy rules: one head per character, on its own shoulders. A face never appears on hands, legs or clothes. Arms may stretch long like rubber, as in the video. They stand side by side and never kiss or hug. No dialogue throughout the entire video. No background music. No text, no captions, no logos, no brand labels on the mug or the jar, no watermark, no extra characters.
+```
+
+### 2. 1. The video prompt is filled in. Settings: Seedance 2.5, 15 s, 720p, 9:16, sound off. The video prompt
+
+*Kind: video_prompt*
+
+```text
+Recreate the reference video [Video 1] shot for shot: the same single continuous low-angle shot from the kitchen counter: the sunny kitchen with sage-green cabinets, a white stove and microwave, hanging plants, the wooden counter in front with the red mug and the glass coffee jar, the same fixed camera, framing, timing and moves, in the same soft stop-motion claymation style. The ONLY change: the tall man on the RIGHT, close to the camera, becomes a clay version of the person in [Image 1]. The woman on the LEFT who makes the coffee stays exactly as in the video: the same clay character with her own face, headscarf and cardigan.
+
+RIGHT = the person in [Image 1] as a tall, skinny, stretchy cartoon clay figure: oversized floppy ears, a long rubbery nose, very long thin arms and legs, big bare feet, soft claymation texture, in EVERY frame: copy the exact face from [Image 1]: face shape, eye color and eye shape, eyebrows, mouth, skin tone, age, hair color, hair length and hairstyle, and any beard, moustache, glasses or freckles exactly as in the photo, so their friends recognize them at once. They keep the clothing colours from the photo. NO olive t-shirt and no messy brown hair tuft unless the photo shows them. Never morph, never drift back to the face of the clay man in the video.
+
+The action, matching the reference second by second. Do not invent other moves.
+0-3 s: the one on the LEFT pours and spoons the coffee, but it lands on the wooden counter next to the red mug. The tall one on the RIGHT, close to the camera, watches.
+3-8 s: the LEFT one keeps missing the mug, leans over it and bends down to it. The RIGHT one leans in and gestures at the mug.
+8-10.5 s: the LEFT one pours the milk and it splashes all over the counter. The RIGHT one gives a stunned thumbs-up.
+10.5-15 s: the RIGHT one stretches a long arm, picks up the red mug and holds it, staring at the mess.
+
+Anatomy rules: one head per character, on its own shoulders. A face never appears on hands, legs or clothes. Arms may stretch long like rubber, as in the video. They stand side by side and never kiss or hug. No dialogue throughout the entire video. No background music. No text, no captions, no logos, no brand labels on the mug or the jar, no watermark, no extra characters.
+```
+
+### 3. 1. The video prompt is filled in. Settings: Seedance 2.5, 15 s, 720p, 9:16, sound off. The video prompt (Pet)
+
+*Kind: video_prompt*
+
+```text
+Recreate the reference video [Video 1] shot for shot: the same single continuous low-angle shot from the kitchen counter: the sunny kitchen with sage-green cabinets, a white stove and microwave, hanging plants, the wooden counter in front with the red mug and the glass coffee jar, the same fixed camera, framing, timing and moves. The ONLY change: the tall clay man on the RIGHT, close to the camera, is now the pet in [Image 1]. The woman on the LEFT who makes the coffee stays exactly as in the video: the same clay character with her own face, headscarf and cardigan.
+
+RIGHT = the pet in [Image 1], in EVERY frame: the same species and breed, head shape, muzzle, eyes, ears, fur colors, fur length and markings as in [Image 1], with real fur and the natural body volume and proportions of that animal: never flattened, squashed, stretched or merged with anything, never clay, so its owner recognizes it at once. It stands upright at the counter on its hind legs like a person and uses its front paws. No t-shirt, no human ears, no long nose, no human hands. Never drift back to the clay man.
+
+The action, matching the reference second by second. Do not invent other moves.
+0-3 s: the one on the LEFT pours and spoons the coffee, but it lands on the wooden counter next to the red mug. The tall one on the RIGHT, close to the camera, watches.
+3-8 s: the LEFT one keeps missing the mug, leans over it and bends down to it. The RIGHT one leans in and gestures at the mug.
+8-10.5 s: the LEFT one pours the milk and it splashes all over the counter. The RIGHT one stares, shocked, with a paw raised.
+10.5-15 s: the RIGHT one reaches out a front paw, picks up the red mug and holds it, staring at the mess.
+
+Anatomy rules: one head and one tail for the pet, four legs, no extra paws. No dialogue throughout the entire video. No background music. No text, no captions, no logos, no brand labels on the mug or the jar, no watermark, no people, no extra animals.
+```
+
+### 4. 1. The video prompt is filled in. Settings: Seedance 2.5, 15 s, 720p, 9:16, sound off. The video prompt (Pet)
+
+*Kind: video_prompt*
+
+```text
+Recreate the reference video [Video 1] shot for shot: the same single continuous low-angle shot from the kitchen counter: the sunny kitchen with sage-green cabinets, a white stove and microwave, hanging plants, the wooden counter in front with the red mug and the glass coffee jar, the same fixed camera, framing, timing and moves. The ONLY change: the two clay characters are now the two pets in the photos. The woman on the LEFT who makes the coffee is now the pet in [Image 1], and the tall man on the RIGHT, close to the camera, is now the pet in [Image 2], never swapped.
+
+LEFT = the pet in [Image 1], in EVERY frame: the same species and breed, head shape, muzzle, eyes, ears, fur colors, fur length and markings as in [Image 1], with real fur and the natural body volume and proportions of that animal: never flattened, squashed, stretched or merged with anything, never clay, so its owner recognizes it at once. It stands upright at the counter on its hind legs like a person and uses its front paws. No headscarf, no cardigan.
+
+RIGHT = the pet in [Image 2], in EVERY frame: the same species and breed, head shape, muzzle, eyes, ears, fur colors, fur length and markings as in [Image 2], with real fur and the natural body volume and proportions of that animal: never flattened, squashed, stretched or merged with anything, never clay, so its owner recognizes it at once. It stands upright at the counter on its hind legs like a person and uses its front paws. No t-shirt.
+
+Both change: no clay character from the video stays. Never mix the two pets: each keeps its own face, fur and markings. No human ears, no long noses, no human hands.
+
+The action, matching the reference second by second. Do not invent other moves.
+0-3 s: the one on the LEFT pours and spoons the coffee, but it lands on the wooden counter next to the red mug. The tall one on the RIGHT, close to the camera, watches.
+3-8 s: the LEFT one keeps missing the mug, leans over it and bends down to it. The RIGHT one leans in and gestures at the mug.
+8-10.5 s: the LEFT one pours the milk and it splashes all over the counter. The RIGHT one stares, shocked, with a paw raised.
+10.5-15 s: the RIGHT one reaches out a front paw, picks up the red mug and holds it, staring at the mess.
+
+Anatomy rules: one head and one tail per pet, four legs each, no extra paws. No dialogue throughout the entire video. No background music. No text, no captions, no logos, no brand labels on the mug or the jar, no watermark, no people, no extra animals.
+```
+

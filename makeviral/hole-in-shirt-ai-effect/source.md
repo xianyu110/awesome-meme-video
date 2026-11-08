@@ -3,7 +3,7 @@
 > The hole in shirt effect is a TikTok photo effect from October 2026: a round hole in the front of your shirt shows a small copy of you inside, with a glowing blue ring around it.
 
 Canonical: https://www.makeviral.ai/templates/hole-in-shirt-ai-effect
-Updated: 2026-10-21
+Updated: 2026-10-30
 Published: 2026-10-21
 Author: MakeViral Team (https://www.makeviral.ai/about)
 Publisher: MakeViral (https://www.makeviral.ai)
@@ -16,7 +16,7 @@ Also called: Hole in shirt photo effect, Mini me in my shirt, Mini me hole in sh
 
 **Make it now:** [Make this video](https://www.makeviral.ai/templates/hole-in-shirt-ai-effect/create). 1 photo · 8 s · 9:16 with sound · 46 credits, charged once · ready in a few minutes · no prompt to write.
 
-Keyword: hole in shirt effect. Also answers: hole in shirt filter, hole in shirt trend, hole in shirt ai, hole in shirt capcut template, photo in photo effect, mini me effect, mini me ai, droste effect generator, droste effect maker, droste effect video, photo in photo filter, droste effect photo, droste effect meme, picture within a picture, photo inside photo, you inside your own shirt, mini me inside my shirt, hole in t shirt, capcut photo template, ai photo effect, hole in shirt effect tiktok.
+Keyword: hole in shirt effect. Also answers: hole in shirt filter, hole in shirt trend, hole in shirt ai, hole in shirt capcut template, photo in photo effect, droste effect generator, droste effect maker, droste effect video, photo in photo filter, droste effect photo, droste effect meme, picture within a picture, photo inside photo, you inside your own shirt, mini me inside my shirt, hole in t shirt, capcut photo template, ai photo effect, hole in shirt effect tiktok.
 
 ## What is the Hole in Shirt trend, and where did it start?
 
@@ -135,7 +135,7 @@ The one change is on purpose, and it is what makes this the hole in shirt ai ver
 
 ## A photo in photo effect: the Droste effect, in your shirt
 
-A picture that shows itself inside itself has a name: the **Droste effect**, after an old Dutch cocoa tin with a picture of itself on the label. The hole in shirt trend is a fun, one-step version of it: the photo in photo effect sits in your shirt, so the mini you is you inside your own shirt. People who search for a droste effect generator or a droste effect maker usually want a picture within a picture like this, and the Video version is a short droste effect video. One small difference: in our effect the mini you's own shirt stays whole, so the picture shows one mini you, not an endless tunnel. That keeps the face clear, and it makes a clean droste effect photo or droste effect meme for your friends.
+A picture that shows itself inside itself has a name: the **Droste effect**, after an old Dutch cocoa tin with a picture of itself on the label. The hole in shirt trend is a fun, one-step version of it: the photo in photo effect sits in your shirt, so the mini you is you inside your own shirt. Some people search for it as a photo in photo filter. People who search for a droste effect generator or a droste effect maker usually want a picture within a picture like this, and the Video version is a short droste effect video. One small difference: in our effect the mini you's own shirt stays whole, so the picture shows one mini you, not an endless tunnel. That keeps the face clear, and it makes a clean droste effect photo or droste effect meme for your friends.
 
 ## What goes wrong, and how do you fix it?
 
@@ -199,12 +199,22 @@ Yes. MakeViral does not post your photo or the result anywhere or show them to o
 
 ## Other AI video templates and tools
 
+- [Mini Me AI: Make the Tiny You That Eats Ice Cream](https://www.makeviral.ai/templates/ai-mini-me-trend): Add one photo of yourself. AI shrinks you into a tiny, doll-size copy with your face and clothes, sits it on a window ledge and hands it an ice cream cone. A 10-second video with sound.
 - [Headbop Trend AI: Your Family's Heads Bop in a Row](https://www.makeviral.ai/templates/headbop-ai-trend): A row of heads on black, from small to big, bopping in turn to the beat. Add one photo and every head is you, three photos for your family or friends, or one photo of your pet. No cut-outs and no keyframes: the AI does the edit, with the trend's sound.
 - [2016 vs 2026: Your 2016 Self Walks In and Meets You](https://www.makeviral.ai/templates/2016-me-meets-2026-me-ai): Your 2016 self walks in, looks you up and down and asks why you look so exhausted. Write your own lines, pick the place and the ending. An old photo and a new one in, a 10-second clip with voices out. It works with your pet too.
 - [Earth Zoom Out AI: From a Selfie to Space in One Shot](https://www.makeviral.ai/templates/earth-zoom-out-ai): It starts as a wide 0.5x selfie of you waving. Then the camera rises, and keeps rising: over the city, through the clouds, out to the whole blue Earth.
 - [Nano Banana 2](https://www.makeviral.ai/tools/nano-banana-2-image-generator): Google's image model, in a browser tab, with the reference-image dropzone that makes it useful: up to 14 photos in, one new image out.
 - [AI photo generator](https://www.makeviral.ai/ai-photo-generator)
 - [All AI video templates](https://www.makeviral.ai/templates)
+
+## New AI video trends this week
+
+- [Christmas Dance AI: Do the New TikTok Christmas Dance From Your Photos](https://www.makeviral.ai/templates/christmas-dance-ai-trend): Hip sways with the hands at the collar, rolling arms, a quick spin and raised fists, side by side in matching Christmas pajamas. Add two photos for the duo, one for a solo take, or two pets, and get the dance with the sound.
+- [Cat on Ultra Bee AI: Put Your Pet on the Wheelie](https://www.makeviral.ai/templates/cat-on-ultra-bee-ai-trend): Add one photo, and your cat or dog stands on an electric dirt bike and holds a long wheelie down a city road at golden hour, in the same shots as the viral clip, with its original sound. You can take the ride yourself, too.
+- [Tus Ojos Me Reflejan el Sentimiento: The Cafuné Eye Close-Up Trend](https://www.makeviral.ai/templates/tus-ojos-me-reflejan-ai-trend): You lie on your side, a hand rests on your cheek, warm light falls on your face, and the camera slowly moves in until your eyes fill the screen while the line plays. One photo in, an 8-second vertical clip with the trend's song out.
+- [İnşallah Maşallah AI Trend: Sing Neşe Karaböcek's Song on the Couch](https://www.makeviral.ai/templates/insallah-masallah-ai-trend): You sit on a light grey couch and sing the old Turkish love song straight to the camera: a hand on the heart, a big laugh with both hands on your head, a finger pointed at the camera and a kiss at the end. One photo of you, a grandparent or your pet, and the 15-second clip comes with the song.
+- [Ice Ice Baby Dance AI: Do the Viral Duo Dance With a Friend](https://www.makeviral.ai/templates/ice-ice-baby-dance-ai): Two dancers side by side, the same bouncy 90s steps, a spin on the beat and a strut to the camera. Add a photo of you and a friend, of you alone, or of your pet, and get the dance with the sound.
+- [Save Yourself Trend: Pull Yourself Up From the Cliff](https://www.makeviral.ai/templates/save-yourself-ai-trend): One photo plays both of you: the scared you clinging to a wet sea cliff, and the calm you who reaches down, pulls you up and holds you. Or use two photos: an older photo of you and a new one, or you and a friend. 15 seconds, vertical.
 
 ## Make your own Hole in Shirt video
 

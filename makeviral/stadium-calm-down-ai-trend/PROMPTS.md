@@ -1,0 +1,58 @@
+# Stadium Calm Down: Turn Your Back on a Roaring Crowd
+
+- Source: [makeviral](https://www.makeviral.ai/templates/stadium-calm-down-ai-trend)
+- Slug: `stadium-calm-down-ai-trend`
+
+Stadium Calm Down is a short AI video trend from late October 2026, also called the nonchalant stadium walk: a packed football stadium roars at night, and one person turns their back on it, walks slowly to the camera and presses both palms down, the calm down hand gesture, totally unbothered.
+
+## Demo videos (CDN)
+
+- https://www.makeviral.ai/media/templates/stadium-calm-down-ai-trend/example-v2.mp4
+
+## Posters
+
+- https://www.makeviral.ai/media/templates/stadium-calm-down-ai-trend/example-input.jpg
+- https://www.makeviral.ai/media/templates/stadium-calm-down-ai-trend/example-poster.jpg
+
+## Prompts
+
+### 1. 1. The video prompt is filled in. Settings: Seedance 2.5, 10 s, 720p, 9:16, sound on. The video prompt (Human)
+
+*Kind: video_prompt*
+
+```text
+One continuous handheld shot, 9:16 vertical, real live-action footage like a sports broadcast camera with a long lens, at a packed football stadium at night. THE STAR is the person in [Image 1], in every frame: copy the exact face from [Image 1] (the face shape, eye color and eye shape, eyebrows, nose, mouth, skin tone, age, hair color, hair length and hairstyle, and any beard, moustache, glasses or freckles), so their friends recognize them at once. The face stays the same from the first frame to the last, also on the turn and on the walk. Only THE STAR has this face; every fan, steward and player has their own different face. If [Image 1] shows an animal, THE STAR is that animal walking upright on its hind legs in the suit, with its own face, fur and markings, not a person. THE STAR wears a dark tailored suit, a plain light shirt and a dark tie, like a calm head coach on the touchline.
+
+THE SET: THE STAR stands at the very front of the stands. Right behind, an arm's length away, a dense wall of fans fills the whole background from top to bottom and side to side, on their feet, roaring, arms up, fists pumping, in plain white and plain blue tops, in bright stadium light. Stewards in plain yellow hi-vis vests stand in the front row. Near the end, a player in a plain white kit walks past close behind THE STAR.
+
+Shot 1 [0-10s]: one continuous take, no cuts. The camera stays at chest height, frames THE STAR from mid-thigh up and backs away slowly as THE STAR walks toward it.
+[0-1.3s] THE STAR stands with the back half turned to the camera, facing the erupting fans, arms loose, taking in the crowd.
+[1.3-2.2s] THE STAR turns away from the crowd to face the camera, with one short glance back over the shoulder, hands low.
+[2.2-3.2s] THE STAR starts to walk slowly toward the camera, both palms open and facing down at hip height.
+[3.2-7s] THE STAR keeps walking slowly and presses both palms down in front of the waist again and again, the calm down gesture, glancing once at the fans to one side; a steward in a yellow vest stands behind.
+[7-10s] Closer now, the face large, sharp and clearly the face from [Image 1]: THE STAR keeps pressing both palms down and gives the camera a cool, faintly knowing look, while the player in the white kit walks past behind and the crowd keeps roaring. The same framing to the last frame.
+
+THE STAR is calm and unbothered the whole time: deadpan, never smiling wide, never shouting. The mouth stays closed from the first frame to the last.
+
+Audio: the loud roar of a packed stadium crowd, chants, cheers and whistles. No dialogue throughout the entire video. No background music, no lyrics.
+
+Anatomy: one head, two arms, two hands with five fingers each. Exactly one person in front of the crowd.
+No cuts, no wide shot. No club crests, no sponsor logos, no names or numbers on shirts, no real team kit, no words on vests, scarves, banners or signs, no scoreboard graphics. No text, no captions, no subtitles, no logos, no watermark.
+```
+
+### 2. 1. Open [AI Photo with this template](https://www.makeviral.ai/photo?template=stadium-calm-down-ai-trend&variant=pet) and add your photo (your pet, whole body). The photo prompt is filled in (Pet)
+
+*Kind: photo_prompt*
+
+```text
+Use the uploaded image as the base. 9:16 vertical photo, a sports broadcast frame with a long lens at a packed football stadium at night. The pet from the uploaded image stands upright on its hind legs at the very front of the stands, in a small dark suit jacket over a plain light shirt collar and a small dark tie, its face turned three-quarters to the camera with a calm, unbothered look, both front paws held low. Right behind, a dense wall of fans fills the whole background, on their feet, roaring, arms up, in plain white and plain blue tops, lit by bright stadium light; stewards in plain yellow hi-vis vests in the front row. Exactly one animal. No club crests, no sponsor logos, no names or numbers on shirts, no words on vests or banners. No text, no logos, no watermark.
+```
+
+### 3. 3. Press the film button on the still to open AI Video with the still as the first frame. Settings: Kling 3.0, 10 s, 1080p, 9:16, sound on. The video prompt
+
+*Kind: video_prompt*
+
+```text
+One continuous handheld shot like a sports broadcast camera with a long lens. Keep the pet exactly as in the image: the same face, eyes, ears, fur and markings, and the small dark suit jacket and tie, with the natural body volume of that animal. The pet glances back over its shoulder at the roaring fans, then walks slowly toward the camera on its hind legs, which backs away, and pats both front paws down in front of its chest again and again, the calm down gesture, with a calm, unbothered look and the mouth closed. A player in a plain white kit walks past behind near the end. Audio: the loud roar of a packed stadium crowd, chants and whistles. No dialogue, no music. No cuts. Exactly one animal, animal paws, never human hands. No club crests, no logos, no names or numbers on shirts. No text, no watermark.
+```
+

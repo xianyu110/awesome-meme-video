@@ -3,20 +3,20 @@
 > The Bulin 47 dance, also called the Dame Hombro dance, is the dembow routine that swept TikTok in October 2026.
 
 Canonical: https://www.makeviral.ai/templates/bulin-47-dance-ai-trend
-Updated: 2026-10-22
+Updated: 2026-10-24
 Published: 2026-10-22
 Author: MakeViral Team (https://www.makeviral.ai/about)
 Publisher: MakeViral (https://www.makeviral.ai)
 
-The **Bulin 47 dance**, also called the Dame Hombro dance, is the dembow routine that swept TikTok in October 2026. AI makes it from your photo: you dance it in your own place (**You**), or with two friends in the AI crew line (**Crew**), with the song on. A photo of your baby works in You too.
+The **Bulin 47 dance**, also called the Dame Hombro dance, is the dembow routine that swept TikTok in October 2026. AI makes it from your photo: you dance it in your own place (**You**), with two friends in the AI crew line (**Crew**), or your dog or cat dances it upright like the viral AI dog (**Pet**), with the song on. A photo of your baby works in You too.
 
-The side-on groove, the shoulder shimmies, the arms out wide and the heart at the chest, all on the Dame Hombro beat. Dance it alone in your own photo's place or with two friends in the AI crew line, with the song on. A baby photo works too.
+The side-on groove, the shoulder shimmies, the arms out wide and the heart at the chest, all on the Dame Hombro beat. Dance it alone in your own photo's place, with two friends in the AI crew line, or let your dog or cat dance it like the viral AI dog, with the song on. A baby photo works too.
 
 Also called: Dame Hombro dance, Bulin 47 challenge, Dame Hombro challenge, Baile de Bulin 47, Baila igual que Bulin 47, Pio bailando como Bulin 47.
 
 **Make it now:** [Make this video](https://www.makeviral.ai/templates/bulin-47-dance-ai-trend/create). 1 photo · 15 s · 9:16 with sound · 60 credits, charged once · ready in a few minutes · no prompt to write.
 
-Keyword: bulin 47 dance. Also answers: bulin 47 baile, bulin 47 dancing, bulin 47 bailando, bulin 47 dance ai, bulin 47 dance song, dame hombro baile, bulin 47 dance trend, dame hombro dance ai, bulin 47 dance tutorial, baile viral de bulin 47, bulin47 baile, bulin 47 ia baile, como hacer el baile de bulin 47, bulin 47 bailando dembow, dame hombro dance tiktok, dame hombro challenge ai, bulin 47 dance video, bulin 47 dance capcut, bulin 47 dance with friends, ai dembow dance.
+Keyword: bulin 47 dance. Also answers: bulin 47 baile, bulin 47 dancing, bulin 47 bailando, bulin 47 dance ai, bulin 47 dance song, dame hombro baile, bulin 47 dance trend, dame hombro dance ai, bulin 47 dance tutorial, baile viral de bulin 47, bulin47 baile, bulin 47 ia baile, como hacer el baile de bulin 47, bulin 47 bailando dembow, dame hombro dance tiktok, dame hombro challenge ai, bulin 47 dance video, bulin 47 dance capcut, bulin 47 dance with friends, ai dembow dance, dame hombro dog, dame hombro perro, dame hombro perrito, dog dancing bulin 47, perrito bailando dame hombro, bulin 47 dance dog, dame hombro gato, dame hombro cat dance.
 
 ## What is the Bulin 47 Dance trend, and where did it start?
 
@@ -26,13 +26,17 @@ The dance came two days later. On 10 October @dir.labourgraph posted a three-man
 
 The AI versions started on 11 October. Tutorials called "Baila igual que Bulin 47" (dance just like Bulin 47) and "Pio bailando como Bulin 47" (Pio dancing like Bulin 47) turn one photo into a dancer, or put three photos into the crew line. Searches also spell it Bulin47 baile or Bulin 47 IA baile.
 
+Then the pets joined. AI pet clips of the routine appeared from 11 October (three AI pugs, then three AI cats), and on 20 October @jonnyslife_ posted an AI dog that dances it upright on its hind legs in a kitchen: 170,300 views by 24 October, the most viewed AI pet take we found. Spanish captions call it the perrito bailando Dame Hombro, English ones a dog dancing to Bulin 47.
+
 ### Bulin 47 Dance trend timeline
 
 - **2026-10-08**: Bulin 47's own TikTok sound of "Dame Hombro" goes up, and the #damehombrochallenge tag starts the same day. The sound is in 35,600 videos by 22 October. Source: [TikTok](https://www.tiktok.com/tag/damehombrochallenge).
-- **2026-10-10**: @dir.labourgraph posts the line dance led by the creator El Pio. It has 1.4 million views and 54,100 likes by 22 October, the earliest post of the dance with a million views that we found. Source: [TikTok](https://www.tiktok.com/@dir.labourgraph/video/7695187753880915201).
+- **2026-10-10**: @novelpoppys in the Dominican Republic posts a three-dancer take of the routine, "the new dancers of Bulin 47". It has 3.4 million views by 24 October, the earliest post of the dance with a million views that we found. Source: [TikTok](https://www.tiktok.com/@novelpoppys/video/7695164411350142228).
+- **2026-10-10**: @dir.labourgraph posts the line dance led by the creator El Pio, 91 minutes later. It has 1.4 million views and 54,100 likes by 22 October. Source: [TikTok](https://www.tiktok.com/@dir.labourgraph/video/7695187753880915201).
 - **2026-10-11**: The first AI tutorial of the dance that we found goes up ("you just need one photo"). It has 563,300 views by 22 October, and the #bulin47baile and #bulin47dance tags start the same day. Source: [TikTok](https://www.tiktok.com/@lemonglow83/video/7695468524747099423).
 - **2026-10-14**: @semirangale posts "Dembow desde Corea", a couple's take. It has 7.5 million views and 820,800 likes by 22 October, the most viewed take we found. Source: [TikTok](https://www.tiktok.com/@semirangale/video/7696345949110553908).
 - **2026-10-16**: @camilla15253's "Baila igual que Bulin 47" tutorial shows the crew line danced by three AI-made women. It is the example on this page. Source: [TikTok](https://www.tiktok.com/@camilla15253/video/7697235519431920914).
+- **2026-10-20**: @jonnyslife_ posts an AI dog that dances the routine upright on its hind legs in a kitchen. It has 170,300 views by 24 October, the most viewed AI pet take of the dance that we found. It is the Pet example on this page. Source: [TikTok](https://www.tiktok.com/@jonnyslife_/video/7698891376515124493).
 - **2026-10-22**: #bulin47ia ("ia" is Spanish for AI) has 2,981 videos and 15.1 million views, and #damehombro has 21,608 videos and 136.4 million views. Source: [TikTok](https://www.tiktok.com/tag/bulin47ia).
 
 ## What the Bulin 47 Dance video looks like
@@ -42,6 +46,9 @@ Made from the prompts on this page. The people and pets are AI-made, not real pe
 - **Example 1** (14 s, 9:16 MP4 with sound): The AI version from @camilla15253's tutorial (16 October 2026): three AI-made dancers do the Bulin 47 crew line in front of a black shutter, on the song. The Crew version copies this clip with your three photos.
   - Video: https://www.makeviral.ai/media/templates/bulin-47-dance-ai-trend/original-crew-v2.mp4
   - Poster: https://www.makeviral.ai/media/templates/bulin-47-dance-ai-trend/original-crew-v1.jpg
+- **Example 2** (14 s, 9:16 MP4 with sound): The AI pet take by @jonnyslife_ (20 October 2026): a fluffy dog stands up on its hind legs in a sunny kitchen and does the Bulin 47 dance, on the song. The Pet version copies this clip with your dog or cat.
+  - Video: https://www.makeviral.ai/media/templates/bulin-47-dance-ai-trend/original-pet-v2.mp4
+  - Poster: https://www.makeviral.ai/media/templates/bulin-47-dance-ai-trend/original-pet-v1.jpg
 
 ## How to make the Bulin 47 Dance video on MakeViral
 
@@ -102,10 +109,40 @@ Smooth moves, solid footing, the light stays the same. Anatomy rules: one head p
 
 One-tap version of this variant: https://www.makeviral.ai/templates/bulin-47-dance-ai-trend/create?variant=crew
 
+#### Variant: Pet
+
+Settings: 1 photo (your pet, whole body) · Seedance 2.5 · 14 s · 720p · 9:16 · no sound · 213 credits in one tap.
+
+1. The video prompt is filled in. Settings: Seedance 2.5, 14 s, 720p, 9:16, sound off. The video prompt:
+
+   ```text
+   Motion transfer and character replacement. Recreate the reference video [Video 1] shot for shot: the same sunny kitchen with the steel fridge, the wooden cabinets and the white tiled floor, the same fixed phone camera, the same framing, timing and dance moves, one continuous take with no cuts, the dancer in full view from the ears to the feet. Every move keeps the same timing and rhythm. The ONLY change: the dog who stands upright on its hind legs in the middle of the kitchen and dances is now the pet in [Image 1].
+
+The dancer = the pet in [Image 1], in EVERY frame: the same species and breed, head shape, muzzle, eyes, ears, fur colors, fur length and markings as in [Image 1], with the natural body volume and proportions of that animal: never flattened, squashed, stretched or merged with anything, so its owner instantly recognizes it from the first second to the last. A dog stays a dog and a cat stays a cat: if [Image 1] shows a cat or another animal, that animal stands upright on its hind legs in the same kitchen and dances the same moves, with its own face, ears, whiskers and tail. Never drift back to the dog of the original video: not the coat, not the face and not the ears of the dog in the video, unless [Image 1] shows them. No clothes, no collar and no accessories unless [Image 1] shows them.
+
+The dance, beat by beat, exactly as in [Video 1], upright on the hind legs the whole time:
+0-2.5 s: side-on to the camera, the front paws roll in front of the chest and the hips sway.
+2.5-3.5 s: it turns to the camera with small paw pumps, then a paw on the chest.
+3.5-5.5 s: the front paws cross at the chest, quick shoulder bounces and a little bounce on the hind legs.
+5.5-7.5 s: both front legs sweep out wide, and it leans and tilts the head from side to side.
+7.5-9.5 s: one paw comes up beside the face, then the front paws make a heart shape at the chest.
+9.5-11.5 s: the paws roll and cross at the chest with small shoulder shimmies.
+11.5-14 s: a paw at the mouth, then it turns side-on again with the tail out and bounces to the end.
+
+Smooth moves, solid footing, the light stays the same. Real live-action footage, a clear and stable face, real animal anatomy, the same pet with the same fur in every frame.
+
+Anatomy rules: one head only. Two hind legs and two front legs, furry paws covered in the pet's own fur, never human hands or fingers, no extra legs or paws. Exactly one animal: the identity never drifts, no people, no extra animals. No text, no captions, no logos, no watermark.
+   ```
+
+2. Press Generate, then download the 9:16 MP4.
+
+One-tap version of this variant: https://www.makeviral.ai/templates/bulin-47-dance-ai-trend/create?variant=pet
+
 ### Which photo works best?
 
 - **You: one photo where you stand**, ideally head to toes, face to the camera. The dance happens in your photo's own place, so a tidy, well-lit spot looks best. A sitting photo gives a weaker dance.
 - **Crew: three photos, one person in each.** Photo 1 is you in the middle, photo 2 dances on the left, photo 3 on the right. Full-body photos work best.
+- **Pet: one photo of your dog or cat**, the whole body in view, sharp and in daylight. Your pet dances upright in the AI dog's kitchen.
 - **A baby photo works in You too**: upright if you can, the whole body in view. The baby does the dance. Only your own child, or a child whose parent or guardian asked you to.
 - Sharp faces in daylight, no sunglasses, no filters.
 - Use your own photos or adults who said yes. Never a celebrity, a public figure or a stranger.
@@ -122,17 +159,17 @@ Credits come with a plan; see [pricing](https://www.makeviral.ai/pricing). A fai
 
 ## What happens in the Bulin 47 dance video?
 
-This page makes the Bulin 47 dance AI video in two ways. Each one copies the moves of a real take of the trend, and the song goes back on after the run.
+This page makes the Bulin 47 dance AI video in three ways. Each one copies the moves of a viral take of the trend, and the song goes back on after the run.
 
-| | You | Crew |
-|---|---|---|
-| Photos | 1 of you, or of your own baby | 3: you and two friends |
-| Where you dance | In your photo's own place | In the AI crew line: a black shutter on a sunny street |
-| The moves it copies | A viral solo take of the routine | The AI three-dancer version from a tutorial |
-| Length | About 15 s | About 14 s |
-| Frame | The frame of your photo, so a vertical photo gives 9:16 | 3:4, like the crew clip |
-| Sound | The song, which you can turn off | The same |
-| Price | The lower price | Costs more: the whole clip is remade |
+| | You | Crew | Pet |
+|---|---|---|---|
+| Photos | 1 of you, or of your own baby | 3: you and two friends | 1 of your dog or cat, the whole body |
+| Where you dance | In your photo's own place | In the AI crew line: a black shutter on a sunny street | In the AI dog clip's sunny kitchen |
+| The moves it copies | A viral solo take of the routine | The AI three-dancer version from a tutorial | An AI dog's take, upright on its hind legs |
+| Length | About 15 s | About 14 s | About 14 s |
+| Frame | The frame of your photo, so a vertical photo gives 9:16 | 3:4, like the crew clip | 9:16, like the dog clip |
+| Sound | The song, which you can turn off | The same | The same |
+| Price | The lower price | Costs more: the whole clip is remade | Costs more: the whole clip is remade |
 
 The exact price shows on the Generate button before you spend anything.
 
@@ -146,7 +183,7 @@ The exact price shows on the Generate button before you spend anything.
 | 10 to 13.5 s | Hands framing the face, a heart at the chest, a hand at the mouth, a flexed arm |
 | 13.5 to 15 s | Hand rolls at the chest to the end |
 
-**How it works:** this Dame Hombro dance AI has two methods. You takes only the moves of the take and plays them with the person in your photo, in your photo's own place, so your face, hair and clothes stay yours. A baby in the photo stays a baby. Crew puts your three faces into the AI crew clip itself, shot for shot. Both run on the best AI video models available, and every run is a new take, so results differ.
+**How it works:** this Dame Hombro dance AI has two methods. You takes only the moves of the take and plays them with the person in your photo, in your photo's own place, so your face, hair and clothes stay yours. A baby in the photo stays a baby. Crew and Pet put your three faces, or your pet, into the AI clip itself, shot for shot. In Pet a dog stays a dog and a cat stays a cat, standing up on its hind legs like the AI dog. All three run on the best AI video models available, and every run is a new take, so results differ.
 
 Want the freestyle instead of the dance? The [Bulin 47 AI freestyle](https://www.makeviral.ai/templates/bulin-47-ai-trend) puts you, your pet or your baby in the rapper's place in the viral red-lit reel.
 
@@ -160,6 +197,8 @@ Want the freestyle instead of the dance? The [Bulin 47 AI freestyle](https://www
 | In Crew, a face looks like one of the AI dancers | Use sharp, front-facing photos, one person each, then run it again. |
 | In Crew, a red mini dress shows up on a man | The prompt keeps each person's own clothes; run it again, or use a full-body photo. |
 | The baby looks older | Use a sharp, upright, full-body photo of the baby, then run it again. |
+| In Pet, your pet gets the AI dog's curly cream coat | Use a sharp photo with the whole pet in view and its face clear, then run it again. |
+| In Pet, the paws look like human hands | The prompt asks for furry paws; run it again. |
 | The model refuses the photo | Some photos get refused. The credits come back; try another photo. |
 
 ## Which sound, caption and hashtags fit the Dame Hombro challenge?
@@ -168,7 +207,7 @@ Your video comes with the song, so it is ready to post. You can turn the sound o
 
 **Hashtags:** #damehombro had 21,608 videos and 136.4 million views on 22 October 2026, #bulin47challenge 9,630 videos and 150.2 million views, and #bulin47ia 2,981 videos and 15.1 million views. #damehombrochallenge, #bulin47baile and #bulin47dance are smaller and newer. Keep the platform's AI label on.
 
-**Caption ideas:** "Dame hombro", "Learned it in one photo", "The crew said yes", "Bulin 47 dance check", or tag the friends you put in the crew.
+**Caption ideas:** "Dame hombro", "Learned it in one photo", "The crew said yes", "Bulin 47 dance check", "My dog does it better", or tag the friends you put in the crew.
 
 ## Bulin 47 Dance trend questions
 
@@ -186,7 +225,7 @@ The [Bulin 47 AI freestyle](https://www.makeviral.ai/templates/bulin-47-ai-trend
 
 ### How do I make the Bulin 47 dance AI video with my photo?
 
-Press "Create your own", pick You or Crew, and add the photos. Press Generate; the button shows the price first. You get a Bulin 47 dance video of about 14 to 15 seconds with the song. You write no prompt, and the video waits in My videos when it is ready.
+Press "Create your own", pick You, Crew or Pet, and add the photos. Press Generate; the button shows the price first. You get a Bulin 47 dance video of about 14 to 15 seconds with the song. You write no prompt, and the video waits in My videos when it is ready.
 
 ### Can I do the Bulin 47 dance with friends?
 
@@ -196,13 +235,17 @@ Yes, pick Crew and add three photos: you in the middle, a friend on the left and
 
 Yes. Pick You and add one photo of your own baby: there is no separate baby choice. The baby does the routine in the place from your photo, with the song. Use only a photo of your own child, or of a child whose parent or guardian asked you to. For more baby dances, see the [AI baby dance](https://www.makeviral.ai/templates/ai-baby-dance).
 
+### Can my dog or cat do the Bulin 47 dance?
+
+Yes. Pick Pet and add one photo of your dog or cat, the whole body in view. It copies the viral AI dog clip of the Bulin 47 dance: your pet stands upright on its hind legs in a sunny kitchen and does the paw rolls, the front legs out wide, the heart at the chest and the turn, with the song. A dog stays a dog and a cat stays a cat. People post it as the Dame Hombro dog or cat dance, or in Spanish as the Dame Hombro perro, perrito or gato. To put your pet's head on the rapper in the freestyle clip instead, see the [Bulin 47 AI freestyle](https://www.makeviral.ai/templates/bulin-47-ai-trend).
+
 ### What is the Bulin 47 dance song?
 
 "Dame Hombro" by the Dominican artist Bulin 47 with Kevin Wai. Your video comes with the part of the song the take dances to, and you can turn it off on the result screen. The song belongs to its owners; MakeViral gives you no rights to it.
 
 ### ¿Cómo hacer el baile de Bulin 47 con IA?
 
-Pulsa "Create your own", elige You o Crew, sube tu foto y pulsa Generate. La IA hace el baile viral de Bulin 47 con tu cara, con la canción. No tienes que escribir ningún prompt.
+Pulsa "Create your own", elige You, Crew o Pet, sube tu foto (o la de tu perro o gato) y pulsa Generate. La IA hace el baile viral de Bulin 47 con tu cara o con tu mascota, con la canción. No tienes que escribir ningún prompt.
 
 ### Do I need a Bulin 47 dance tutorial or a CapCut template?
 
@@ -210,19 +253,19 @@ No. The tutorials show how to use a CapCut template on your phone. Here you add 
 
 ### Where does the background of the video come from?
 
-In You, from your photo: the dance happens in the room, the street or the park of your photo. In Crew, from the crew clip: a black roller shutter on a sunny street.
+In You, from your photo: the dance happens in the room, the street or the park of your photo. In Crew, from the crew clip: a black roller shutter on a sunny street. In Pet, from the AI dog clip: a sunny kitchen with a steel fridge and wooden cabinets.
 
 ### How long is the video, and what format is it?
 
-You makes about 15 seconds in the frame of your photo, so a vertical photo gives a vertical 9:16 Bulin 47 dance video for TikTok, Reels or Shorts. Crew makes about 14 seconds in the 3:4 frame of the crew clip. Both are MP4 files at 720p with the song, with no watermark.
+You makes about 15 seconds in the frame of your photo, so a vertical photo gives a vertical 9:16 Bulin 47 dance video for TikTok, Reels or Shorts. Crew makes about 14 seconds in the 3:4 frame of the crew clip, and Pet about 14 seconds in 9:16, like the AI dog clip. All three are MP4 files at 720p with the song, with no watermark.
 
 ### Can I put a celebrity or Bulin 47 himself in it?
 
-No. Use yourself, adults who agreed, or your own baby. A fake video of a real person can break platform rules and that person's rights.
+No. Use yourself, adults who agreed, your own baby or your own pet. A fake video of a real person can break platform rules and that person's rights.
 
 ### Is this an official Bulin 47 video maker?
 
-No. MakeViral is not connected with Bulin 47, Kevin Wai or El Pio. The versions copy the moves of creators' takes of the trend, and the example is a creator's AI clip.
+No. MakeViral is not connected with Bulin 47, Kevin Wai or El Pio. The versions copy the moves of creators' takes of the trend, and the examples are creators' AI clips.
 
 ## Other AI video templates and tools
 
@@ -233,6 +276,15 @@ No. MakeViral is not connected with Bulin 47, Kevin Wai or El Pio. The versions 
 - [AI Reels](https://www.makeviral.ai/tools/ai-reels-generator): Pick a format, give it a topic or a product link, and get a finished vertical reel with voice and captions. Nothing to film, nothing to edit.
 - [AI photo generator](https://www.makeviral.ai/ai-photo-generator)
 - [All AI video templates](https://www.makeviral.ai/templates)
+
+## New AI video trends this week
+
+- [Christmas Dance AI: Do the New TikTok Christmas Dance From Your Photos](https://www.makeviral.ai/templates/christmas-dance-ai-trend): Hip sways with the hands at the collar, rolling arms, a quick spin and raised fists, side by side in matching Christmas pajamas. Add two photos for the duo, one for a solo take, or two pets, and get the dance with the sound.
+- [Cat on Ultra Bee AI: Put Your Pet on the Wheelie](https://www.makeviral.ai/templates/cat-on-ultra-bee-ai-trend): Add one photo, and your cat or dog stands on an electric dirt bike and holds a long wheelie down a city road at golden hour, in the same shots as the viral clip, with its original sound. You can take the ride yourself, too.
+- [Tus Ojos Me Reflejan el Sentimiento: The Cafuné Eye Close-Up Trend](https://www.makeviral.ai/templates/tus-ojos-me-reflejan-ai-trend): You lie on your side, a hand rests on your cheek, warm light falls on your face, and the camera slowly moves in until your eyes fill the screen while the line plays. One photo in, an 8-second vertical clip with the trend's song out.
+- [İnşallah Maşallah AI Trend: Sing Neşe Karaböcek's Song on the Couch](https://www.makeviral.ai/templates/insallah-masallah-ai-trend): You sit on a light grey couch and sing the old Turkish love song straight to the camera: a hand on the heart, a big laugh with both hands on your head, a finger pointed at the camera and a kiss at the end. One photo of you, a grandparent or your pet, and the 15-second clip comes with the song.
+- [Ice Ice Baby Dance AI: Do the Viral Duo Dance With a Friend](https://www.makeviral.ai/templates/ice-ice-baby-dance-ai): Two dancers side by side, the same bouncy 90s steps, a spin on the beat and a strut to the camera. Add a photo of you and a friend, of you alone, or of your pet, and get the dance with the sound.
+- [Save Yourself Trend: Pull Yourself Up From the Cliff](https://www.makeviral.ai/templates/save-yourself-ai-trend): One photo plays both of you: the scared you clinging to a wet sea cliff, and the calm you who reaches down, pulls you up and holds you. Or use two photos: an older photo of you and a new one, or you and a friend. 15 seconds, vertical.
 
 ## Make your own Bulin 47 Dance video
 

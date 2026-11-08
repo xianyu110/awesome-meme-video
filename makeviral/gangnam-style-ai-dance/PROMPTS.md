@@ -7,11 +7,20 @@ The Gangnam Style dance trend is back on TikTok in 2026: three friends share one
 
 ## Demo videos (CDN)
 
+- https://www.makeviral.ai/media/templates/gangnam-style-ai-dance/example-horse-v1.mp4
+- https://www.makeviral.ai/media/templates/gangnam-style-ai-dance/original-elevator-v2.mp4
 - https://www.makeviral.ai/media/templates/gangnam-style-ai-dance/original-main-v2.mp4
+- https://www.makeviral.ai/media/templates/gangnam-style-ai-dance/original-night-v2.mp4
+- https://www.makeviral.ai/media/templates/gangnam-style-ai-dance/original-pet-v2.mp4
 
 ## Posters
 
+- https://www.makeviral.ai/media/templates/gangnam-style-ai-dance/example-horse-v1-input.jpg
+- https://www.makeviral.ai/media/templates/gangnam-style-ai-dance/example-horse-v1-poster.jpg
+- https://www.makeviral.ai/media/templates/gangnam-style-ai-dance/original-elevator-v1.jpg
 - https://www.makeviral.ai/media/templates/gangnam-style-ai-dance/original-main-v1.jpg
+- https://www.makeviral.ai/media/templates/gangnam-style-ai-dance/original-night-v1.jpg
+- https://www.makeviral.ai/media/templates/gangnam-style-ai-dance/original-pet-v1.jpg
 
 ## Prompts
 
@@ -88,5 +97,94 @@ Shots, matching the reference second by second:
 12.3-15 s: the middle friend again, close to the lens, sings and dances.
 
 One head per person, on that person's own shoulders. Never a fourth friend; the people passing far behind stay small strangers. No text, no logos, no watermark.
+```
+
+### 4. 1. The video prompt is filled in. Settings: Seedance 2.5, 20 s, 720p, 9:16, sound off. The video prompt
+
+*Kind: video_prompt*
+
+```text
+Recreate the reference video [Video 1] shot for shot. The ONLY change: the three women are now the people in the photos.
+
+REFS: [Image 1], [Image 2] and [Image 3] are photos of the three people who appear in the video, one person per photo: [Image 1] = PERSON A, the singer, in the CENTRE; [Image 2] = PERSON B, on the LEFT; [Image 3] = PERSON C, on the RIGHT, each with his or her own face, hair, body and clothes from the photo. Copy their faces, skin, hair, bodies and clothes exactly, the same real face as in the photo in every frame, close and far.
+
+[Video 1]: 20 seconds, horizontal 16:9, a handheld night music-video clip: three young women dance and lip-sync to the camera on a city square at night. Shot order: 0-1.5 s all three together in a tight arm's-length selfie, faces filling the frame; 1.5-4.5 s close-up of the centre woman alone, she sings into the lens; whip pan; 4.7-8.1 s the left woman alone dancing by the lamp posts; whip pan; 8.3-11.9 s the right woman alone dancing in front of the stone building; whip pan; 12-16.2 s close-up of the centre woman alone, she pushes her open palm to the lens and sings; 16.2-20 s all three together again in the same tight selfie, palms to the camera.
+
+WHO IS WHO: the CENTRE woman of [Video 1] (the singer) = PERSON A from [Image 1]; the LEFT woman of [Video 1] = PERSON B from [Image 2]; the RIGHT woman of [Video 1] = PERSON C from [Image 3]. Everything that is a person in [Video 1] becomes the matching person from the photos: head, face, hair, body, arms, hands, legs, clothes, at the same position, size in frame, pose and timing, copying every dance move, hand gesture, head turn and expression frame by frame, including the whip pans. FACES FIRST: the same real faces as in the photos in every shot; bare open eyes, nothing on the faces; their own clothes from the photos fitting their own bodies and proportions. NO black sunglasses, NO leather jacket, NO olive bomber, NO striped black jacket unless that person's photo shows them. Never morph, never drift back to the original women's faces.
+
+LIP-SYNC (strict): PERSON A's mouth copies the [Video 1] singer's mouth exactly, frame by frame: lips and jaw open and close at the same moments, shaping every word; all three faces are alive, smiling and blinking like [Video 1], eyes into the lens.
+
+THE PLACE STAYS THE SAME: the night square, the lamp posts, the lights, the fountain, the buildings, the tree, the night street light and the colour grade stay exactly as in [Video 1]; the light on the new people comes from this place.
+
+CAMERA AND CUTS (strict): copy the camera and the editing of [Video 1] exactly: the same shots, the same cuts and whip pans at the same moments, the same framing and handheld shake, the same size of the people in frame. No new shots, no extra zoom, no drift. Keep the timing and the full length. No text, no logos, no subtitles. Photorealistic phone-video footage.
+
+HARD CHECKS: exactly three people and they are the three from the photos, in the right places; faces identical to the photos in every close shot; their own clothes.
+```
+
+### 5. 1. The video prompt is filled in. Settings: Seedance 2.5, 10 s, 720p, 9:16, sound on. The video prompt
+
+*Kind: video_prompt*
+
+```text
+A vertical 9:16 dance video, photorealistic, a phone on a small tripod at chest height, on a city rooftop at sunset: a wide flat roof with a low glass railing, glass towers and a warm orange sky behind, golden light on the face. One person does the horse-riding dance to the camera with a cool, serious, deadpan face.
+
+The dancer is the person in [Image 1], in EVERY frame: copy the exact face from [Image 1] (the face shape, eye color and eye shape, eyebrows, nose, mouth, skin tone, age, hair color, hair length and hairstyle, and any beard, moustache, glasses or freckles), so their friends recognize them at once. The face stays the same from the first frame to the last, also while they bounce. Never morph. They wear the clothes from [Image 1]. NO sunglasses, no blue tuxedo jacket and no bow tie unless [Image 1] shows them. If [Image 1] shows an animal, the dancer is that animal standing upright on its hind legs, with its own face, fur and markings and the natural body volume of that animal.
+
+The dance, beat by beat:
+0-2 s: a medium shot from the knees up, the face large and sharp: they stare into the lens and cross the wrists in front of the chest as if holding the reins.
+2-5 s: wrists crossed on the reins and a bouncy gallop in place: a skip on one foot, then the other, knees up, the crossed hands bobbing on the beat; the camera eases back so the hop shows from head to feet.
+5-7.5 s: one arm swinging a lasso high over the head while the gallop goes on, the other hand still on the reins.
+7.5-9 s: a quick side shuffle left and right, two hops each way, the wrists crossed again.
+9-10 s: a last gallop facing the camera, then they stop, point at the lens and grin.
+
+Audio: a fast K-pop electro house dance beat with a heavy kick, no singing, no words, and a soft tap of shoes on the roof on each hop.
+
+Exactly one person. Anatomy: one head, two arms, two legs, hands with five fingers. No other people, no horse. No text, no subtitles, no logos, no watermark.
+```
+
+### 6. 1. The video prompt is filled in. Settings: Seedance 2.5, 10 s, 720p, 9:16, sound on. The video prompt
+
+*Kind: video_prompt*
+
+```text
+[Image 1] and [Image 2] are the two people. A vertical 9:16 comedy dance video, photorealistic, one continuous take from a camera fixed at chest height in the open doorway of a small steel elevator: brushed steel walls, handrails and a bright ceiling light. The one standing who dances becomes the person in [Image 1]; the one on the floor underneath becomes the person in [Image 2].
+
+The dancer is the person in [Image 1], in EVERY frame: copy the exact face from [Image 1] (the face shape, eye color and eye shape, eyebrows, nose, mouth, skin tone, age, hair color, hair length and hairstyle, and any beard, moustache, glasses or freckles).
+The one on the floor is the person in [Image 2], in EVERY frame: copy the exact face from [Image 2] (the face shape, eye color and eye shape, eyebrows, nose, mouth, skin tone, age, hair color, hair length and hairstyle, and any beard, moustache, glasses or freckles).
+Each person wears the clothes from their own image, never a dark jacket or a navy suit and tie unless their image shows them. NO sunglasses unless their image shows them. Both are real, photorealistic people. Never blend their faces, never swap their clothes. Each face stays the same from the first frame to the last, so their friends recognize them at once. If an image shows an animal, that one is that animal with its own face, fur and markings and the natural body volume of that animal: the dancer stands up on its hind legs, the one on the floor lies on its belly.
+
+The scene, beat by beat:
+0-1.5 s: the elevator doors slide open. The dancer stands in the middle, legs wide, knees bent, arms held out low at the sides, a cool, serious, deadpan face to the lens. The one on the floor lies on the stomach between the dancer's feet, propped on the forearms, chin up, face to the camera.
+1.5-5 s: the dancer does the hip thrust dance: quick hip thrusts forward on the beat, the knees bouncing, the arms swinging out and in, the head bobbing, the eyes on the lens. The one on the floor stays below, mouthing the words to the camera with big mouth moves.
+5-7.5 s: the one on the floor looks up at the dancer, then back to the lens with a cheeky, smug face, while the hip thrusts go on, faster.
+7.5-9 s: the dancer points at the lens with both hands without missing a beat; the one on the floor raises the eyebrows and grins.
+9-10 s: the doors slide shut on them.
+
+Keep the steel elevator, the handrails and the ceiling light unchanged. Keep both faces clearly lit: the dancer is seen from head to feet, the one on the floor is close to the lens, the face large and sharp.
+
+Audio: a fast K-pop electro house dance beat with a heavy kick and a soft elevator ding as the doors open. No singing, no words. No dialogue throughout the entire video.
+
+Exactly two people, nobody else. Anatomy: each one head, two arms, two legs, hands with five fingers; the two never merge. No text, no subtitles, no logos, no watermark.
+```
+
+### 7. 1. The video prompt is filled in. Settings: Seedance 2.5, 10 s, 720p, 9:16, sound off. The video prompt (Pet)
+
+*Kind: video_prompt*
+
+```text
+Recreate the reference video [Video 1] shot for shot: the same bright modern kitchen with dark wooden cabinets, warm ceiling spotlights and a pale tiled floor, the same fixed camera low in front of the dancer, the same framing, timing and moves, one continuous take with no cuts. The ONLY change: the cat who stands on its hind legs and dances in the middle of the kitchen is now the pet in [Image 1].
+
+The dancer = the pet in [Image 1], in EVERY frame: the same species and breed, head shape, muzzle, eyes, ears, fur colors, fur length and markings as in [Image 1], with the natural body volume and proportions of that animal: never flattened, squashed, stretched or merged with anything, so its owner instantly recognizes it from the first second to the last. Never drift back to the cat of the original video: not the coat, not the stripes and not the face of the cat in the video, unless [Image 1] shows them. If [Image 1] shows a dog or another animal, that animal stands upright on its hind legs in the same kitchen and dances the same moves, with its own muzzle, ears, tongue and tail.
+
+The horse-riding dance, beat by beat, exactly as in [Video 1], with the same serious, deadpan face:
+0-2.5 s: front paws crossed on the reins and a bouncy gallop in place, lifting one hind leg, then the other.
+2.5-5 s: both front paws held up in front of the chest, trotting in place on the beat.
+5-6.5 s: a quick side shuffle, one front paw swinging out wide, the tail out for balance.
+6.5-8 s: back to the middle, front paws crossed on the reins again, the gallop goes on.
+8-10 s: a wide stance, one front paw swinging a lasso high over the head, then the last pose facing the camera.
+
+Real live-action footage, one continuous take, a clear and stable face, real animal anatomy, the same pet in every frame, the same fur.
+
+Anatomy rules: one head only. Two hind legs and two front legs, furry paws covered in the pet's own fur, never human hands or fingers, no extra legs or paws. Exactly one animal, no people. No text, no captions, no logos, no watermark.
 ```
 

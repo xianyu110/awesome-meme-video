@@ -1,0 +1,87 @@
+# Permission to Cry Sir: Salute, Shed One Tear and Ask the Line
+
+- Source: [makeviral](https://www.makeviral.ai/templates/permission-to-cry-sir-ai-trend)
+- Slug: `permission-to-cry-sir-ai-trend`
+
+The permission to cry sir meme, also called permission to cry soldier, is a TikTok joke from late October 2026: a masked "soldier" reacts to an overly sad salute video and asks, or grants, permission to cry.
+
+## Demo videos (CDN)
+
+- https://www.makeviral.ai/media/templates/permission-to-cry-sir-ai-trend/original-pet-v2.mp4
+
+## Posters
+
+- https://www.makeviral.ai/media/templates/permission-to-cry-sir-ai-trend/original-pet-v1.jpg
+
+## Prompts
+
+### 1. 1. The video prompt is filled in. Settings: Seedance 2.5, 10 s, 720p, 9:16, sound on. The video prompt
+
+*Kind: video_prompt*
+
+```text
+A viral reaction meme video, one continuous take, no cuts: the person from [Image 1] sits in a dark bedroom streaming setup at night: a pink and purple LED strip glows on the wall behind, a large United States flag hangs flat on that wall, a black gaming chair behind the shoulders, soft cinematic light on the face, gives a slow military salute, sheds one tear and asks "Permission to cry, sir." Photorealistic live action, vertical 9:16, a medium close-up from the chest up, the camera at eye level and almost still.
+
+THE PERSON is the one in [Image 1], in every frame; [Image 1] is the only reference for their face: copy the exact face from [Image 1] (the face shape, eye color and eye shape, eyebrows, nose, mouth, skin tone, age, hair color, hair length and hairstyle, and any beard, moustache, glasses or freckles). The eyes, eyebrows, forehead, hair and skin tone stay exactly as in [Image 1] from the first to the last frame, so friends recognize them at once, also in tears. They are an adult and look exactly their own age from [Image 1]. Never morph, never beautify. If [Image 1] shows an animal, that performer is that animal sitting upright, with its own face, fur and markings, not a person.
+
+Clothes: a plain black hoodie with no print, a black over-ear gaming headset with a small boom microphone worn over the hair, the hood down, and a plain black cloth face mask that covers ONLY the nose, the mouth and the chin, printed with a simple white skull jaw and teeth; its top edge sits just under the eyes. The mask never slides over the eyes. No logo, no patch, no name, no text anywhere on the clothes, the headset or the mask. No helmet, no sunglasses, no goggles, no military uniform, no medals, no weapon.
+
+THE BEATS:
+[0-2 s] looks straight into the lens, very serious, the eyes wet and shiny, the eyebrows pulled together, breathing slowly.
+[2-5 s] slowly raises the RIGHT hand, fingers straight and together, to the right eyebrow in a crisp military salute and holds it, chin up, the eyes still on the lens and filling with tears.
+[5-7 s] still saluting, one single tear rolls from one eye down the cheek; the eyes blink once.
+[7-10 s] still holding the salute, says in a quiet, shaky, respectful voice: "Permission to cry, sir." Then one small sniff, and the salute stays to the end.
+
+Sound: one voice says one line only, at about 7 s: "Permission to cry, sir." Quiet, slow, shaky, holding back tears, a plain American accent. No other dialogue throughout the entire video. A soft, slow, sad piano melody plays quietly under the whole clip. No singing, no other music, no sound effects except one small sniff. The voice comes from behind the mask, and the mask moves a little with the words.
+
+Exactly one person. Real live-action footage, clear facial features, no distortion. Avoid: cuts, text, captions, subtitles, logos, watermarks, a coffin, a funeral, other people, a cartoon look, extra hands or fingers, morphing, facial distortion.
+```
+
+### 2. 1. The video prompt is filled in. Settings: Seedance 2.5, 10 s, 720p, 9:16, sound on. The video prompt
+
+*Kind: video_prompt*
+
+```text
+A viral reaction meme video, one continuous take, no cuts: the person from [Image 1], in a full skull mask, sits in a dark bedroom streaming setup at night: a pink and purple LED strip glows on the wall behind, a large United States flag hangs flat on that wall, a black gaming chair behind the shoulders, soft cinematic light on the face, gives a slow military salute, sheds one tear and asks "Permission to cry, sir." Photorealistic live action, vertical 9:16, a medium close-up from the chest up, the camera at eye level and almost still.
+
+THE PERSON is the one in [Image 1], in every frame; [Image 1] is the only reference for them: the eyes in the eye slit are exactly the eyes from [Image 1] (eye color, eye shape, eyebrows and the skin tone around them), and the body shape and build match [Image 1]. They are an adult. If [Image 1] shows an animal, that performer is that animal sitting upright, with its own face, fur and markings, in the hoodie and headset but no mask.
+
+Clothes: a plain black hoodie with no print, a black over-ear gaming headset with a small boom microphone worn over the hood, and a plain black balaclava hood that covers the whole head, face and neck, printed with a simple white skull face (dark eye sockets, a small nose hole, a jaw with teeth); the person's own eyes and the skin around them show through one open eye slit. The mask stays on the whole time. No logo, no patch, no name, no text anywhere on the clothes, the headset or the mask. No helmet, no sunglasses, no goggles, no military uniform, no medals, no weapon.
+
+THE BEATS:
+[0-2 s] looks straight into the lens, very serious, the eyes wet and shiny, the eyebrows pulled together, breathing slowly.
+[2-5 s] slowly raises the RIGHT hand, fingers straight and together, to the right eyebrow in a crisp military salute and holds it, chin up, the eyes still on the lens and filling with tears.
+[5-7 s] still saluting, one single tear rolls from one eye down over the printed skull; the eyes blink once.
+[7-10 s] still holding the salute, says in a quiet, shaky, respectful voice: "Permission to cry, sir." Then one small sniff, and the salute stays to the end.
+
+Sound: one voice says one line only, at about 7 s: "Permission to cry, sir." Quiet, slow, shaky, holding back tears, a plain American accent. No other dialogue throughout the entire video. A soft, slow, sad piano melody plays quietly under the whole clip. No singing, no other music, no sound effects except one small sniff. The voice comes from behind the mask, and the mask moves a little with the words.
+
+Exactly one person. Real live-action footage, clear facial features, no distortion. Avoid: cuts, text, captions, subtitles, logos, watermarks, a coffin, a funeral, other people, a cartoon look, extra hands or fingers, morphing, facial distortion.
+```
+
+### 3. 1. Open [AI Photo with this template](https://www.makeviral.ai/photo?template=permission-to-cry-sir-ai-trend&variant=pet) and add your photo (your pet, face and chest). The photo prompt is filled in (Pet)
+
+*Kind: photo_prompt*
+
+```text
+Use the uploaded image as the base. Keep the animal's species, breed, face, eye color, fur color, fur length, markings and body size exactly the same as in the photo. A real photo of the same pet sitting upright like a person in a dark bedroom streaming setup at night: a pink and purple LED strip glows on the wall behind, a large United States flag hangs flat on that wall, a black gaming chair behind the shoulders, soft cinematic light on the face. It wears a small plain black hoodie with no print, and a small black over-ear gaming headset with a boom microphone fitted around its ears. A small plain black bandana printed with a simple white skull jaw is tied loosely around its neck, below the chin, so the whole face shows. The pet looks straight into the camera with big, wet, sad eyes and a closed mouth. A medium close-up from the chest up, the camera at eye level. Photorealistic, natural fur detail, not a cartoon, not CGI, not a plush toy. Vertical 9:16. Exactly one animal, with real paws. No people, no human hands. No logo, no patch, no name, no text anywhere on the clothes, the headset or the mask. No helmet, no sunglasses, no goggles, no military uniform, no medals, no weapon. No text.
+```
+
+### 4. 3. Press the film button on the still to open AI Video with the still as the first frame. Settings: Kling 3.0, 10 s, 1080p, 9:16, sound on. The video prompt
+
+*Kind: video_prompt*
+
+```text
+A real reaction meme video in one continuous shot, a medium close-up, the camera almost still at eye level. Keep the animal's face, fur, markings, the black hoodie, the headset and the bandana exactly as in the image.
+
+THE BEATS:
+[0-2 s] the pet looks straight into the lens, very serious, the eyes wet and shiny.
+[2-5 s] it slowly raises its right front paw to its brow in a military salute and holds it, chin up, the eyes filling with tears.
+[5-7 s] still saluting, one single tear rolls from one eye down the fur of its cheek; it blinks once.
+[7-10 s] still saluting, the pet says in a quiet, shaky, respectful voice: "Permission to cry, sir." Its mouth moves a little with the words, then it sniffs once and keeps the salute to the end.
+
+Sound: one voice says one line only, at about 7 s: "Permission to cry, sir." Quiet, slow, shaky, holding back tears, a plain American accent. No other dialogue throughout the entire video. A soft, slow, sad piano melody plays quietly under the whole clip. No singing, no other music, no sound effects except one small sniff.
+
+Exactly one animal: one head, four legs, real furry paws, no human hands or human body parts. No people. Avoid: cuts, text, captions, subtitles, logos, watermarks, a coffin, a cartoon look, a plush toy, a person in an animal costume, extra limbs, morphing.
+```
+

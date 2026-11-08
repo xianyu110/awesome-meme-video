@@ -1,0 +1,63 @@
+# Cardo, Your Dinner Is Ready: Make the Meme With Your Friend
+
+- Source: [makeviral](https://www.makeviral.ai/templates/cardo-dinner-ai-trend)
+- Slug: `cardo-dinner-ai-trend`
+
+Cardo your dinner is ready is a TikTok meme from the dinner skits of the creator duo @realjayllnn and Cardo.
+
+## Demo videos (CDN)
+
+- https://www.makeviral.ai/media/templates/cardo-dinner-ai-trend/original-main-v2.mp4
+
+## Posters
+
+- https://www.makeviral.ai/media/templates/cardo-dinner-ai-trend/original-main-v1.jpg
+
+## Prompts
+
+### 1. 1. The video prompt is filled in. Settings: Seedance 2.5, 15 s, 720p, 9:16, sound off. The video prompt
+
+*Kind: video_prompt*
+
+```text
+Recreate the reference video [Video 1] shot for shot: the same living room, the plate of giant red spicy-crusted cheese sticks and the bowl of nacho cheese, the same camera, framing, cut, timing and mouth moves. The ONLY change: the two people are now the people in [Image 1] and [Image 2].
+
+There are two people in this indoor video. Person 1 is the one in front who leans in, smiles at the camera and eats the red spicy-crusted cheese sticks: they become the person in [Image 1] in every shot. Person 2 is the one standing behind them with long red fake nails who talks, points and then feeds Person 1 a cheese stick by hand: they become the person in [Image 2] in every shot, with the long red fake nails. Both are real, photorealistic people. Keep every movement, every word, the mouth movements, the feeding, every camera move and the timing exactly as in the video. Keep the plate of red cheese sticks, the bowl of nacho cheese, the room and the lighting unchanged. Keep both faces clearly lit.
+
+Person 1 = the person in [Image 1], in EVERY frame: copy the exact face from [Image 1]: face shape, eye color and eye shape, eyebrows, nose, mouth, skin tone, age, hair color, hair length and hairstyle, and any beard, moustache, glasses or freckles exactly as in the photo. They wear the clothes from [Image 1]. NO cornrow braids, NO stud earrings and no plain black T-shirt unless [Image 1] shows them.
+
+Person 2 = the person in [Image 2], in EVERY frame: copy the exact face from [Image 2]: face shape, eye color and eye shape, eyebrows, nose, mouth, skin tone, age, hair color, hair length and hairstyle, and any beard, moustache, glasses or freckles exactly as in the photo. They wear the clothes from [Image 2]. NO red-dyed curly hair and NO black apron with white writing unless [Image 2] shows them. Only the long glossy bright-red fake nails stay from the video, on Person 2's fingers whenever the hands show.
+
+The same real people in every frame, so their friends instantly recognize them, also while Person 1 bites and chews. The faces are fully locked to Person 1 from [Image 1] (in front) and Person 2 from [Image 2] (behind). Never drift back to the original people's faces. Do not mix the two faces. Both change: no one from the video stays.
+
+Shot 1 [0-5.9s]: Person 2 stands alone behind the plate, says "Cardo, your dinner is ready" (0-2 s), raises the arms and points at the food; at 4.5 s Person 1 leans into the frame, sits in front and smiles at the camera.
+Shot 2 [5.9-14.9s]: hard cut, closer. Person 1 chews and holds a red cheese stick; Person 2 behind asks "Is it giving what it needs to give?" (6.7-8 s); Person 1 nods and hums (8.3 s). At 9.5 s Person 2 dips a red cheese stick into the nacho cheese; from 11 s Person 2 holds it to Person 1's mouth and Person 1 bites it from Person 2's hand.
+
+The mouths open and close exactly when the mouths in [Video 1] do. No background music.
+
+Anatomy rules: one head per person, five fingers on each hand. Exactly two people. No text, no logos, no watermark.
+```
+
+### 2. 1. The video prompt is filled in. Settings: Seedance 2.5, 15 s, 720p, 9:16, sound off. The video prompt (Pet)
+
+*Kind: video_prompt*
+
+```text
+Recreate the reference video [Video 1] shot for shot: the same living room, the plate of giant red spicy-crusted cheese sticks and the bowl of nacho cheese, the same camera, framing, cut, timing and mouth moves. The ONLY change: the eater is now the pet in [Image 1], the server the person in [Image 2].
+
+There are two characters in this indoor video. Person 1 is the one in front who leans in, smiles at the camera and eats the red spicy-crusted cheese sticks: here Person 1 is the pet in [Image 1], sitting upright at the table. Person 2 is the one standing behind with long red fake nails who talks, points and then feeds Person 1 a cheese stick by hand: they become the person in [Image 2] in every shot, with the long red fake nails. Keep every movement, every word, the mouth movements, the feeding, every camera move and the timing exactly as in the video. Keep the plate of red cheese sticks, the bowl of nacho cheese, the room and the lighting unchanged. Keep both faces clearly lit.
+
+Person 1 = the pet in [Image 1], in EVERY frame: the same species and breed, face, eyes, ears, muzzle, fur colors, fur length and markings as in [Image 1], with the natural body volume and proportions of that animal: never flattened, squashed, stretched or merged with anything. Whether [Image 1] shows a dog, a cat or another animal, it stays that animal, with its own face, fur and paws: no human body or hands, no clothes, no braids, no earrings. It bites the cheese stick from Person 2's hand with its own mouth, so its owner instantly recognizes it.
+
+Person 2 = the person in [Image 2], in EVERY frame: copy the exact face from [Image 2]: face shape, eye color and eye shape, eyebrows, nose, mouth, skin tone, age, hair color, hair length and hairstyle, and any beard, moustache, glasses or freckles exactly as in the photo. They wear the clothes from [Image 2]. NO red-dyed curly hair and NO black apron with white writing unless [Image 2] shows them. Only the long glossy bright-red fake nails stay from the video, on Person 2's fingers whenever the hands show. Never the original server's face.
+
+Both change: no one from the video stays. The pet is locked to [Image 1] (in front), the person to [Image 2] (behind).
+
+Shot 1 [0-5.9s]: Person 2 stands alone behind the plate, says "Cardo, your dinner is ready" (0-2 s), raises the arms and points at the food; at 4.5 s Person 1 leans into the frame, sits in front and smiles at the camera.
+Shot 2 [5.9-14.9s]: hard cut, closer. Person 1 licks its lips and looks at the cheese sticks; Person 2 behind asks "Is it giving what it needs to give?" (6.7-8 s); the pet looks up at Person 2 (8.3 s). At 9.5 s Person 2 dips a red cheese stick into the nacho cheese; from 11 s Person 2 holds it to Person 1's mouth and Person 1 bites it from Person 2's hand.
+
+Person 2's mouth moves exactly when the server's mouth in [Video 1] does. No background music.
+
+Anatomy rules: one head each. The pet has one muzzle, animal paws, no extra legs. Person 2 has five fingers on each hand. Exactly one pet and one person. No text, no logos, no watermark.
+```
+

@@ -1,0 +1,47 @@
+{
+  "source": "makeviral",
+  "source_site": "https://www.makeviral.ai",
+  "slug": "christmas-lights-wife-ai-trend",
+  "name": "My Wife on November 1st: The Christmas Lights Run, With Your Faces",
+  "url": "https://www.makeviral.ai/templates/christmas-lights-wife-ai-trend",
+  "markdown_url": "https://www.makeviral.ai/templates/christmas-lights-wife-ai-trend.md",
+  "blurb": "The November 1st Christmas meme is a couple skit: one partner calmly takes a drink from the fridge while the other, in red Christmas pajamas, sprints past behind them with the Christmas lights the moment November starts.",
+  "updated": "2026-11-06",
+  "published": "2026-11-06",
+  "credits": 122,
+  "demo_videos": [
+    "https://www.makeviral.ai/media/templates/christmas-lights-wife-ai-trend/original-main-v2.mp4"
+  ],
+  "posters": [
+    "https://www.makeviral.ai/media/templates/christmas-lights-wife-ai-trend/original-main-v1.jpg"
+  ],
+  "prompts": [
+    {
+      "label": "1. The video prompt is filled in. Settings: Seedance 2.5, 8 s, 720p, 9:16, sound off. The video prompt",
+      "variant": null,
+      "kind": "video_prompt",
+      "text": "Recreate the reference video [Video 1] shot for shot: one continuous handheld phone shot in a bright home kitchen with pale blue-green walls, white cabinets, a stainless steel fridge on the left and an open doorway to a hallway behind, a wood floor and soft daylight, the same camera, framing, timing and moves. The ONLY change: the young man in the dark sweatshirt at the fridge, in front, is now the person in [Image 1], and the woman in red pajamas with reindeer antlers who dashes past in the background is now the person in [Image 2]. [Image 1] is the sole identity reference for the one in front, [Image 2] for the runner.\n\nThe one in front = the person in [Image 1], in EVERY frame: copy the exact face from [Image 1]: face shape, eye color and eye shape, eyebrows, nose, mouth, skin tone, age, hair color, hair length and hairstyle, and any beard, moustache, glasses or freckles exactly as in the photo. Wears the clothes from [Image 1]; if [Image 1] shows only the head or the upper body, invent the rest so it matches naturally. The same real person from the first second to the last, also when they look back over the shoulder. Never morph, never drift back to the original man's face. NO dark sweatshirt with red letters unless [Image 1] shows it.\n\nThe runner = the person in [Image 2], in every frame where they appear: the exact face and hair from [Image 2], copied in the same way. The runner always wears bright red one-piece Christmas pajamas and a headband with small red reindeer antlers, never the clothes from [Image 2]. If [Image 2] shows an animal, the runner is that animal running on four legs, with its own face, fur and markings and the natural body volume of that animal, the string of lights in its mouth and small reindeer antlers on its head, never a person.\n\nBoth change: no one from the video stays, also in the far background and when only the back of a head shows. Never blend the two faces: [Image 1] is only the one in front, [Image 2] is only the runner.\n\nThe beats, one continuous take, no cuts:\n0-3.3 s: the one in front opens the fridge on the left, takes out a white drink can, closes the door and looks down at the can, calm and slow.\n3.3-4.2 s: turns toward the camera and steps forward with the can, a small relaxed smile, unaware.\n4.2-5.0 s: behind them, through the open doorway, the runner sprints across from right to left at full speed, bent forward, arms full of a tangle of colorful Christmas lights and a green garland, the lit string trailing behind, motion-blurred, gone in under a second.\n5.0-8.2 s: the one in front slowly turns the head and looks back over the shoulder at the doorway: a string of glowing red, green and white Christmas lights now lies along the bottom of the wall, where nothing was before. They stand still with the can, deadpan and resigned.\n\nReal live-action phone footage, natural light, natural skin, the face in front sharp. No dialogue, no background music. Anatomy rules: one head each, two arms and two hands each. Exactly two in the video: the one in front and the runner. No text, no captions, no logos, no watermark."
+    },
+    {
+      "label": "1. The video prompt is filled in. Settings: Seedance 2.5, 8 s, 720p, 9:16, sound off. The video prompt",
+      "variant": "Pet",
+      "kind": "video_prompt",
+      "text": "Recreate the reference video [Video 1] shot for shot: one continuous handheld phone shot in a bright home kitchen with pale blue-green walls, white cabinets, a stainless steel fridge on the left and an open doorway to a hallway behind, a wood floor and soft daylight, the same camera, framing, timing and moves. The ONLY change: the young man in the dark sweatshirt at the fridge, in front, is now the person in [Image 1], and the woman in red pajamas who dashes past in the background is now the pet in [Image 2], running on four legs. [Image 1] is the sole identity reference for the one in front, [Image 2] for the pet.\n\nThe one in front = the person in [Image 1], in EVERY frame: copy the exact face from [Image 1]: face shape, eye color and eye shape, eyebrows, nose, mouth, skin tone, age, hair color, hair length and hairstyle, and any beard, moustache, glasses or freckles exactly as in the photo. Wears the clothes from [Image 1]; if [Image 1] shows only the head or the upper body, invent the rest so it matches naturally. The same real person from the first second to the last, also when they look back over the shoulder. Never morph, never drift back to the original man's face. NO dark sweatshirt with red letters unless [Image 1] shows it.\n\nThe runner = the pet in [Image 2]: the same species and breed, face, eyes, ears, muzzle, fur colors, fur length and markings as in [Image 2], with the natural body volume and proportions of that animal: never flattened, squashed, stretched or merged with anything. It wears a small headband with red reindeer antlers and runs on four legs at full speed, the end of a string of colorful Christmas lights in its mouth and a green garland over its back, the lit string trailing behind it. The woman from the video never appears: no person runs in the background, only the pet.\n\nBoth change: no one from the video stays.\n\nThe beats, one continuous take, no cuts:\n0-3.3 s: the one in front opens the fridge on the left, takes out a white drink can, closes the door and looks down at the can, calm and slow.\n3.3-4.2 s: turns toward the camera and steps forward with the can, a small relaxed smile, unaware.\n4.2-5.0 s: behind them, through the open doorway, the runner sprints across from right to left at full speed, ears back, the lights in its mouth, the lit string trailing behind, motion-blurred, gone in under a second.\n5.0-8.2 s: the one in front slowly turns the head and looks back over the shoulder at the doorway: a string of glowing red, green and white Christmas lights now lies along the bottom of the wall, where nothing was before. They stand still with the can, deadpan and resigned.\n\nReal live-action phone footage, natural light, natural skin and fur, the face in front sharp. No dialogue, no background music. Anatomy rules: one head each; the person has two arms and two hands, the pet four legs and one tail if it has one. Exactly one person and one pet in the video. No text, no captions, no logos, no watermark."
+    }
+  ],
+  "variant_headings": [
+    "What the My Wife on Nov 1st video looks like",
+    "How to make the My Wife on Nov 1st video on MakeViral",
+    "Which photo works best?",
+    "Two versions: Couple and Pet",
+    "Can my pet be the one who runs with the Christmas lights?",
+    "Does the video have the caption and the sound?",
+    "Is this a real video or AI?",
+    "How long is the video?",
+    "Other AI video templates and tools",
+    "New AI video trends this week",
+    "Make your own My Wife on Nov 1st video"
+  ],
+  "prompt_count": 2,
+  "scraped_at": "2026-11-08"
+}

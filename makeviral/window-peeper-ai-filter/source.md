@@ -3,20 +3,20 @@
 > The window peeper filter is the window peeper trend of October 2026: a night shot pushes in to the one lit window of a dark building, someone eats a burger alone, catches the camera, stares and shuts the curtain.
 
 Canonical: https://www.makeviral.ai/templates/window-peeper-ai-filter
-Updated: 2026-10-22
+Updated: 2026-10-25
 Published: 2026-10-22
 Author: MakeViral Team (https://www.makeviral.ai/about)
 Publisher: MakeViral (https://www.makeviral.ai)
 
-The **window peeper filter** is the window peeper trend of October 2026: a night shot pushes in to the one lit window of a dark building, someone eats a burger alone, catches the camera, stares and shuts the curtain. This window peeper AI template makes the clip with your face from one photo.
+The **window peeper filter** is the window peeper trend of October 2026: a night shot pushes in to the one lit window of a dark building, someone eats a burger alone, catches the camera, stares and shuts the curtain. This window peeper AI template makes the clip with your face from one photo, and the Pet version does it with your dog or cat.
 
-At night the camera flies across the street to the one lit window. You sit there alone with a burger, notice the camera, stare while you chew, then stand up and pull the curtain shut. Add one clear photo of your face.
+At night the camera flies across the street to the one lit window. You sit there alone with a burger, notice the camera, stare while you chew, then stand up and pull the curtain shut. Add one clear photo of your face, or pick Pet and put your dog or cat in the window.
 
 Also called: Burger Window meme, Caught eating a burger at the window, Window Peeking burger, Window zoom meme, Mirón de ventana.
 
 **Make it now:** [Make this video](https://www.makeviral.ai/templates/window-peeper-ai-filter/create). 1 photo · 10 s · 9:16 with sound · 126 credits, charged once · ready in a few minutes · no prompt to write.
 
-Keyword: window peeper filter. Also answers: window peeper trend, window peeper, window peeper ai, window peeper meme, window peeper ai filter, window peeper capcut, window peeper template, window burger meme, window peeper effect, window burger trend, window peeper tutorial, how to do window peeper filter, window peeper ai trend, window peeper filter capcut, window peeper capcut template, eating burger at window meme, window burger ai, window peeper prompt, window peeper ai prompt, window peeper ai video, peeking through window eating burger, window peeper prank, window peeper gif, window peeper meaning, window peeper filter tiktok, window peeper burger, window peeper app, curtain close meme, filtro mirón de ventana, efecto mirón de ventana.
+Keyword: window peeper filter. Also answers: window peeper trend, window peeper, window peeper ai, window peeper meme, window peeper ai filter, window peeper capcut, window peeper template, window burger meme, window peeper effect, window burger trend, window peeper tutorial, how to do window peeper filter, window peeper ai trend, window peeper filter capcut, window peeper capcut template, eating burger at window meme, window burger ai, window peeper prompt, window peeper ai prompt, window peeper ai video, peeking through window eating burger, window peeper prank, window peeper gif, window peeper meaning, window peeper filter tiktok, window peeper burger, window peeper app, curtain close meme, filtro mirón de ventana, efecto mirón de ventana, window peeper dog, window peeper cat, window peeper pet, dog eating burger meme, cat eating burger meme, burger pet window.
 
 ## What is the Window Peeper Filter trend, and where did it start?
 
@@ -24,13 +24,18 @@ The scene came first as an ad. On 11 October 2026 the AI creator @karina.aiconte
 
 People wanted the joke without the ad. On 13 October a TikTok swap put a TV actor's face in the window and got 341,000 views. On 20 October at 09:53 UTC, @therealrodentspawn posted the first CapCut template of it, with Mr Bean's face and the line "Try this filter yourself": 1.1 million views by 22 October. That evening a copy with a footballer's face reached 4.1 million views and 318,800 likes in 31 hours, and #windowpeeperfilter started at 21:20 UTC. By 22 October it held 764 videos, and template accounts posted tutorials in English, Portuguese, Spanish and French, almost all with celebrity photos. The window peeper meme is about being caught with your burger, so this template uses your own photo.
 
+Pets joined on the first day. At 20:31 UTC on 20 October, the UK bulldog account @justabulldog posted the template made with its own bulldog: the dog munches a burger at the window, spots the camera and stands up (21,400 views by 25 October). On 23 and 24 October, AI template sites added a pet version that takes one photo of a cat or a dog. Our Pet version makes the same night shot from your pet's photo, with a plain bag and box and no brand.
+
 ### Window Peeper Filter trend timeline
 
 - **2026-10-11**: @karina.aicontent posts an AI concept ad for a burger chain: the camera pushes in to a lit window, the eater sees it and pulls the curtain. It passes 25 million views. Source: [Instagram](https://www.instagram.com/reel/DeWqJNmIku6/).
 - **2026-10-13**: A TikTok swap puts a TV actor's face into the same window scene, "Caught this dude just eating a burger": 341,100 views by 22 October. Source: [TikTok](https://www.tiktok.com/@koffeeshots/video/7696301876119178526).
 - **2026-10-20**: At 09:53 UTC @therealrodentspawn posts the first CapCut template of the scene, "Try this filter yourself" (#windowpeeper): 1.1 million views by 22 October. Source: [TikTok](https://www.tiktok.com/@therealrodentspawn/video/7698685812455591190).
+- **2026-10-20**: At 20:31 UTC @justabulldog posts the first pet take we found: the template made with the creator's own bulldog, caught with a burger at the window. 21,400 views by 25 October. Source: [TikTok](https://www.tiktok.com/@justabulldog/video/7698850364711259414).
 - **2026-10-20**: At 20:50 UTC a copy with a footballer's face goes up; it reaches 4.1 million views and 318,800 likes in 31 hours. #windowpeeperfilter starts at 21:20 UTC. Source: [TikTok](https://www.tiktok.com/@capcutfever/video/7698855236907076896).
 - **2026-10-22**: On TikTok, #windowpeeperfilter holds 764 videos with 583,500 views, #windowpeepertrend 589 videos and #windowpeeperai 292 videos.
+- **2026-10-24**: AI template sites add a pet version of the scene: one photo of a cat or a dog, eating the burger at the lit window.
+- **2026-10-25**: #windowpeeperfilter holds 2,009 videos with 2.3 million views and #windowpeeper 843 videos with 35.6 million views. New posts come more slowly than in the first days.
 
 ## What the Window Peeper Filter video looks like
 
@@ -54,6 +59,8 @@ Everything runs in the browser. No editing app, no watermark.
 ### The by-hand way, with the exact prompts
 
 The one-tap flow runs this prompt for you. The video model takes your photo as a reference ([Image 1]) and films the scene straight from it, with no photo step first. AI Video takes one photo as the first frame, so it cannot run this prompt the same way: the prompt is here to read.
+
+#### Variant: You
 
 Settings: 1 photo (you, face clear) · Seedance 2.5 · 10 s · 720p · 9:16 · with sound · 126 credits in one tap.
 
@@ -91,14 +98,50 @@ Audio: quiet night city ambience, the crinkle of the paper bag, soft chewing, a 
 
 One-tap version of this variant: https://www.makeviral.ai/templates/window-peeper-ai-filter/create
 
+#### Variant: Pet
+
+Settings: 1 photo (your pet, head and front paws clear) · Seedance 2.5 · 10 s · 720p · 9:16 · with sound · 126 credits in one tap.
+
+1. The video prompt is filled in. Settings: Seedance 2.5, 10 s, 720p, 9:16, sound on. The video prompt:
+
+   ```text
+   Create a photorealistic single-take 10-second vertical video of the pet in [Image 1], caught eating a burger alone at a lit window at night, like a real phone video filmed from across the street. Never write the words of this prompt, photo labels or file names as text anywhere in the video.
+
+The building exterior: the nighttime facade of a modern apartment building with many windows. Only one window is lit, with warm amber interior light; all the other windows are dark. A dark window frame, a long cream curtain at the side of the window. Right behind the glass: a small wooden table with a big burger, a plain brown paper takeaway bag and an open plain red burger box, with no logo and no writing. ONE SINGLE CONTINUOUS SHOT, NO CUTS: a slow, smooth, physical camera push-in toward that window, NOT a digital zoom, NOT a sudden crop.
+
+The only animal in the video is the single pet shown in [Image 1], throughout the entire shot. Use [Image 1] as the identity reference: preserve its species and breed, face shape, eyes, muzzle, ears, coat color, fur length and distinctive fur markings, with the natural body volume and proportions of that animal, adapting its pose naturally to the action, so its owner recognizes it at once. A dog stays a dog and a cat stays a cat. No clothes, no collar and no accessories unless [Image 1] shows them. Do not copy the background from the photo. Do not substitute a preset cat or dog.
+
+At the start the pet is small in the distant lit window; the camera approaches the window as the pet, sitting upright on a chair at the table, holds the hamburger with both front paws and eats with funny contented chewing. It notices the camera, pauses with a lovable caught-in-the-act expression, lowers the burger onto the table, and rises upright at the end, looking toward the camera.
+
+0-2.5 s: the camera pushes in from the far facade until the window fills the frame; the pet is seen from the chest up, its face large and sharp.
+
+2.5-4 s: the pet holds the burger with both front paws and takes a big bite, completely unaware of the camera.
+
+4-7.5 s: it notices the camera, freezes mid-chew with full cheeks and stares straight into the lens, deadpan, caught in the act. It does NOT run away.
+
+7.5-8.5 s: still staring, it slowly lowers the burger onto the box.
+
+8.5-10 s: it rises upright on its hind legs behind the table, front paws on the table edge, and keeps looking straight at the camera until the end.
+
+Preserve coherent paws, burger and face throughout, realistic fur, natural anatomy and the original understated comic mood. Furry paws in the pet's own fur, never human hands or fingers; one head, its own ears and tail.
+
+No humans, no extra pets, no added text or logos: NO logos, brand names or writing on the bag, the box, the window or anywhere, no subtitles, no watermark. NO cuts, NO instant zoom, NO morphing.
+
+Audio: quiet night city ambience, the crinkle of the paper bag, soft contented munching. No music, no speech.
+   ```
+
+2. Press Generate, then download the 9:16 MP4.
+
+One-tap version of this variant: https://www.makeviral.ai/templates/window-peeper-ai-filter/create?variant=pet
+
 ### Which photo works best?
 
-Upload **one photo** of the person who gets caught: you, or a friend who said yes.
+Upload **one photo** of the one who gets caught: you, a friend who said yes, or your pet in the Pet version.
 
 - **Face to the camera, sharp and well lit, no sunglasses.** Once the camera reaches the window, the face shows large for the stare, so a clear face matters most.
 - **Head and shoulders or waist up** works best. The person keeps the clothes from the photo.
 - **One person in the photo,** so the AI picks the right face.
-- **A pet photo** can work too: the pet sits upright at the table. The scene was made for people, so results vary more.
+- **For the Pet version,** use one sharp photo of your dog or cat alone, the head and front paws in view, facing the camera. It sits at the table with the burger in its paws.
 - Never use a photo of a celebrity or a stranger.
 
 ## How many credits does it cost?
@@ -125,9 +168,11 @@ The AI builds the whole scene from your photo in one continuous shot, like a pho
 
 **How it works:** top-quality AI video models, including Seedance 2.5, make the clip straight from your photo, with no in-between picture, so your face stays yours. You get 10 seconds, vertical 9:16, with night sounds: the paper bag, the chewing and the swish of the curtain. There is no music, so you can add the trend's sound when you post. The exact price shows on the Generate button before you spend anything, and every run is a new take.
 
+**The Pet version** plays the same night shot with your dog or cat. After the push-in it holds the burger in both front paws and munches (2.5 to 4 s), notices the camera and freezes mid-chew with full cheeks (4 to 7.5 s), lowers the burger onto the box (7.5 to 8.5 s) and stands up on its hind legs, still staring (8.5 to 10 s). The stare is the ending: no curtain. It has the same length, the same night sounds and the same price as the You version.
+
 ## Window peeper filter vs the caught at the window ad
 
-Both use the same shot. The [caught at the window AI ad](https://www.makeviral.ai/templates/caught-at-the-window-ai-ad) is the brand version: two friends enjoy your product and the curtains close on your logo. The window peeper filter is the people version: one face, one burger, one stare, no logo. The bag and the box in your clip are plain, with no fast-food brand on them, because the meme is about you, not the burger chain.
+Both use the same shot. The [caught at the window AI ad](https://www.makeviral.ai/templates/caught-at-the-window-ai-ad) is the brand version: two friends enjoy your product and the curtains close on your logo. The window peeper filter is the people and pet version: one face, one burger, one stare, no logo. The bag and the box in your clip are plain, with no fast-food brand on them, because the meme is about you, not the burger chain.
 
 The window burger meme works because it looks like a real neighbor caught you. Post it as a joke about yourself or a friend, with a caption like "When the neighbor sees your 2 am burger" or "Caught in 4K", and keep the platform's AI label on.
 
@@ -140,6 +185,8 @@ The window burger meme works because it looks like a real neighbor caught you. P
 | The curtain closes at once, before the stare | Run it again. Every run is a new take. |
 | A camera cut breaks the one-take look | Run it again. |
 | A logo or letters show on the bag | Run it again. The prompt bans every logo and every word. |
+| Your pet gets another coat, or paws that look like hands | Use a sharp photo of your pet alone, head and front paws in view, in good light. Run it again. |
+| Your pet does not stand up at the end | Run it again. Every run is a new take. |
 | The model refuses a photo | Some photos get refused. The credits come back; try another photo. |
 
 ## Window Peeper Filter trend questions
@@ -172,6 +219,10 @@ The window peeper filter TikTok posts carry #windowpeeper, #windowpeeperfilter a
 
 No creator shared a window peeper prompt: the trend runs on a closed template. The scene comes from the caught at the window AI ad, whose creators did share one, so this template uses that prompt, set to one person, a plain burger and a closed curtain at the end. You do not need to write a window peeper AI prompt yourself.
 
+### Can I make the window peeper with my dog or cat?
+
+Yes. Pick the Pet version and add one sharp photo of your pet. The window peeper dog or window peeper cat clip puts your pet at the lit window at night with a burger in both front paws: it spots the camera, freezes mid-chew, stares and stands up. Template sites call this window peeper pet take the burger pet window, and it posts well as a dog eating burger meme or a cat eating burger meme. The bag and the box stay plain, with no brand.
+
 ### Is there a window peeper app?
 
 You do not need a separate window peeper app. This page is the window peeper AI filter in your browser: add a photo and the AI makes the clip. It works on a phone and on a computer.
@@ -195,12 +246,21 @@ Yes. MakeViral does not post your photo or the result anywhere or show them to o
 ## Other AI video templates and tools
 
 - [Caught at the Window: AI Commercial Generator for Your Brand](https://www.makeviral.ai/templates/caught-at-the-window-ai-ad): Add a photo of your product and your logo. The camera flies to the one lit window at night, two friends enjoy your product, one of them catches the camera watching, and pulls the curtains shut on your logo. One 10-second shot at 1080p, with sound.
+- [Window Dance Trend: Get Caught Dancing at the Lit Window](https://www.makeviral.ai/templates/window-dance-ai-trend): At night the camera flies across the street to the one lit window. You dance alone next to a small speaker, notice the camera, grin, then pull the curtain shut. Add one clear photo of your face, or pick Pet and let your dog or cat dance.
 - [Fridge POV AI Trend: Put You and a Friend in the Tiramisu Fridge Meme](https://www.makeviral.ai/templates/fridge-pov-ai-trend): The camera sits inside the fridge. Your first photo sneaks spoonfuls of tiramisu straight from the tray, the door closes, and your second photo opens it again and digs into the same tray. 10 seconds, with the spoon and fridge sounds. One photo works too: go Solo, or let your pet raid the fridge.
-- [You Talking Bout Me AI Trend: Star in the "I Be Thinking About My Bills" Meme](https://www.makeviral.ai/templates/you-talking-bout-me-ai-trend): Three friends at a bar counter: one laughs about his bills, one keeps asking "You talking about me?", and the joke lands on the quiet one. Put your own faces in the scene, with the lines spoken.
 - [AI TikTok Video](https://www.makeviral.ai/tools/ai-tiktok-video-generator): Eight native TikTok formats, one prompt or product URL, a finished 9:16 video with captions burned in.
 - [AI Reels](https://www.makeviral.ai/tools/ai-reels-generator): Pick a format, give it a topic or a product link, and get a finished vertical reel with voice and captions. Nothing to film, nothing to edit.
 - [AI photo generator](https://www.makeviral.ai/ai-photo-generator)
 - [All AI video templates](https://www.makeviral.ai/templates)
+
+## New AI video trends this week
+
+- [Christmas Dance AI: Do the New TikTok Christmas Dance From Your Photos](https://www.makeviral.ai/templates/christmas-dance-ai-trend): Hip sways with the hands at the collar, rolling arms, a quick spin and raised fists, side by side in matching Christmas pajamas. Add two photos for the duo, one for a solo take, or two pets, and get the dance with the sound.
+- [Cat on Ultra Bee AI: Put Your Pet on the Wheelie](https://www.makeviral.ai/templates/cat-on-ultra-bee-ai-trend): Add one photo, and your cat or dog stands on an electric dirt bike and holds a long wheelie down a city road at golden hour, in the same shots as the viral clip, with its original sound. You can take the ride yourself, too.
+- [Tus Ojos Me Reflejan el Sentimiento: The Cafuné Eye Close-Up Trend](https://www.makeviral.ai/templates/tus-ojos-me-reflejan-ai-trend): You lie on your side, a hand rests on your cheek, warm light falls on your face, and the camera slowly moves in until your eyes fill the screen while the line plays. One photo in, an 8-second vertical clip with the trend's song out.
+- [İnşallah Maşallah AI Trend: Sing Neşe Karaböcek's Song on the Couch](https://www.makeviral.ai/templates/insallah-masallah-ai-trend): You sit on a light grey couch and sing the old Turkish love song straight to the camera: a hand on the heart, a big laugh with both hands on your head, a finger pointed at the camera and a kiss at the end. One photo of you, a grandparent or your pet, and the 15-second clip comes with the song.
+- [Ice Ice Baby Dance AI: Do the Viral Duo Dance With a Friend](https://www.makeviral.ai/templates/ice-ice-baby-dance-ai): Two dancers side by side, the same bouncy 90s steps, a spin on the beat and a strut to the camera. Add a photo of you and a friend, of you alone, or of your pet, and get the dance with the sound.
+- [Save Yourself Trend: Pull Yourself Up From the Cliff](https://www.makeviral.ai/templates/save-yourself-ai-trend): One photo plays both of you: the scared you clinging to a wet sea cliff, and the calm you who reaches down, pulls you up and holds you. Or use two photos: an older photo of you and a new one, or you and a friend. 15 seconds, vertical.
 
 ## Make your own Window Peeper Filter video
 

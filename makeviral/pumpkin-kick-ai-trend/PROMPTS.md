@@ -1,0 +1,62 @@
+# Pumpkin Kick AI Trend: Spin, Kick, Freeze, "Halloween"
+
+- Source: [makeviral](https://www.makeviral.ai/templates/pumpkin-kick-ai-trend)
+- Slug: `pumpkin-kick-ai-trend`
+
+The pumpkin kick is a 10-second Halloween reel: at a night fairground, a woman in a red riding hood costume sets a glowing jack-o'-lantern on a table, spins and smashes it with a high kick.
+
+## Demo videos (CDN)
+
+- https://www.makeviral.ai/media/templates/pumpkin-kick-ai-trend/original-main-v2.mp4
+
+## Posters
+
+- https://www.makeviral.ai/media/templates/pumpkin-kick-ai-trend/original-main-v1.jpg
+
+## Prompts
+
+### 1. 1. The video prompt is filled in. Settings: Seedance 2.5, 10 s, 720p, 9:16, sound off. The video prompt (Human)
+
+*Kind: video_prompt*
+
+```text
+Recreate the reference video [Video 1] shot for shot: the same night fairground by a lake, with the lit Ferris wheel, the string lights in the trees, the old street lamp, the wet ground with colored reflections and the round wooden cafe table in front; the same fixed vertical camera, timing and moves, one continuous take with no cuts. The ONLY change: the woman who kicks the pumpkin is now the person in [Image 1]. [Image 1] is the sole reference for the kicker's face and hair; [Video 1] is for the moves, the effects and the camera only.
+
+The kicker = the person in [Image 1], in EVERY frame, also in the spin, in the kick and in the black-and-white ending: copy the exact face from [Image 1] (the face shape, eye color and eye shape, eyebrows, nose, mouth, skin tone, age, hair color, hair length and hairstyle, and any beard, moustache, glasses or freckles). The same real person in every frame, so their friends instantly recognize them. Never morph, never drift back to the original woman's face: not her face shape, her eyes, her nose or her full lips. NO long dark wavy hair with a red tint unless [Image 1] shows it: the hair is the hair from [Image 1].
+
+The costume is the Halloween look and stays exactly as in the video, never the clothes from [Image 1]: the long red hooded cape tied at the neck with a red ribbon, the white ruffled off-shoulder blouse, the black laced corset and the short red skirt. For a man: the same red hooded cape over a white shirt, a black laced vest and dark trousers.
+
+The moves, second by second:
+0-1 s: the empty table in front of the fairground lights.
+1-2 s: the kicker steps in from the right and sets a glowing carved jack-o'-lantern with two small black horns on the table.
+2-5.3 s: stands behind the table, holds the pumpkin by its stem, looks down at it, then pulls a cheeky, sassy face at the camera.
+5.3-6 s: turns away in a fast spin, the cape flaring wide.
+6-6.4 s: the spinning high kick hits the pumpkin: it bursts into big orange pieces that fly off the table.
+6.4-10 s: the picture freezes into black-and-white slow motion: the kicker hangs in the air at the end of the kick, pumpkin pieces and snowflakes float, and a white handwritten cursive title "Halloween" writes itself across the middle of the frame, letter by letter, exactly as in the video.
+
+Only replace the kicker; the fairground, the table, the pumpkin, the kick, the freeze, the black-and-white look, the snow and the title stay completely unchanged. Keep everything else the same.
+
+Anatomy rules: one head only, on the kicker's shoulders. Two arms, two legs, five fingers on each hand. Exactly one person. The only text is the single word "Halloween" in the same white cursive script: no other text, no captions, no logos, no watermark. No dialogue throughout the entire video. No background music.
+```
+
+### 2. 1. The video prompt is filled in. Settings: Seedance 2.5, 10 s, 720p, 9:16, sound off. The video prompt (Pet)
+
+*Kind: video_prompt*
+
+```text
+Recreate the reference video [Video 1] shot for shot: the same night fairground by a lake, with the lit Ferris wheel, the string lights in the trees, the old street lamp, the wet ground with colored reflections and the round wooden cafe table in front with a glowing carved jack-o'-lantern with two small black horns; the same fixed vertical camera, timing and effects, one continuous take with no cuts. The ONLY change: the woman who kicks the pumpkin is now the pet in [Image 1], whole body, and the pet knocks the pumpkin off the table. [Image 1] is the sole reference for the pet; [Video 1] is for the timing, the effects and the camera only.
+
+The pet = the pet in [Image 1], whole body, in every frame: the same species and breed, head shape, muzzle, eyes, eye color, ears, fur colors, fur length, markings and body shape as in [Image 1], with the natural body volume and proportions of that animal: never flattened, squashed, stretched or merged with anything, so its owner instantly recognizes it. It wears only a small red hooded cape tied at the neck with a red ribbon. The woman from the video never appears: no human body, no human face, no human hands, no legs in a skirt. If [Image 1] shows a dog or another animal, that animal takes the same place and makes the same moves.
+
+The moves, second by second:
+0-2 s: the glowing jack-o'-lantern stands on the table; the pet jumps up onto the table from the right and lands beside it.
+2-5.3 s: the pet sits beside the pumpkin, sniffs it, taps it with one front paw and gives the camera a cheeky look.
+5.3-6 s: it turns around on the table, the little cape flaring.
+6-6.4 s: it pounces with a jump and a swipe of its paw, and the pumpkin flies off the table and bursts into big orange pieces.
+6.4-10 s: the picture freezes into black-and-white slow motion: the pet hangs in the air in mid-jump, pumpkin pieces and snowflakes float, and a white handwritten cursive title "Halloween" writes itself across the middle of the frame, letter by letter, exactly as in the video.
+
+Only replace the kicker with the pet; the fairground, the table, the pumpkin, the burst, the freeze, the black-and-white look, the snow and the title stay completely unchanged. Keep everything else the same.
+
+Real animal anatomy: one head, four legs ending in round furry paws, never human hands, no fingers, one tail if the animal has one. Exactly one animal, no people. The only text is the single word "Halloween" in the same white cursive script: no other text, no captions, no logos, no watermark. No dialogue throughout the entire video. No background music.
+```
+

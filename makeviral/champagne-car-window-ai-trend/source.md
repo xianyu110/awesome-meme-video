@@ -3,7 +3,7 @@
 > The champagne car window trend is a night reel from a rainy highway: someone leans out of the rear window of a moving luxury SUV, pops a bottle of champagne, sprays it and drinks, filmed from the car alongside.
 
 Canonical: https://www.makeviral.ai/templates/champagne-car-window-ai-trend
-Updated: 2026-10-20
+Updated: 2026-11-07
 Published: 2026-10-20
 Author: MakeViral Team (https://www.makeviral.ai/about)
 Publisher: MakeViral (https://www.makeviral.ai)
@@ -216,6 +216,10 @@ No. You take her place in the window. The driver of the SUV stays as a small fig
 
 You need no extra app. MakeViral runs in the browser on your phone or computer: add a photo and it makes the whole champagne car window AI clip, ready to post on Instagram or TikTok.
 
+### Is there a Christmas or New Year version?
+
+Yes. On 7 November 2026 @ai.creatorledii posted a New Year version: a black SUV wrapped in Christmas lights on a snowy road at night, Santa at the wheel and a woman in a light-blue Snow Maiden dress popping champagne in the rear window. It is the Champagne window version of our Christmas lights on car template, where you can also put your own car in it. This page keeps the original reel on the rainy highway.
+
 ### Is this the champagne birthday trend?
 
 No. The champagne birthday trend is a bottle popped on a park bench with a black-and-white freeze and a Happy Birthday title, and it has its own template on MakeViral. This one is the car window version on a night highway. You can still post it for a birthday and add your own title.
@@ -223,10 +227,19 @@ No. The champagne birthday trend is a bottle popped on a park bench with a black
 ## Other AI video templates and tools
 
 - [Champagne Birthday Trend: Pop the Bottle, Freeze in Black and White](https://www.makeviral.ai/templates/champagne-birthday-ai-trend): Add one photo and you star in the viral champagne pop: you walk to a park bench at night, pop the bottle, a tall jet of champagne shoots up and the clip turns black and white with HAPPY BIRTHDAY! at the top. Or spray it from the sunroof of a black SUV in a city at night.
+- [Christmas Lights on Car AI: Light Up Your Own Car](https://www.makeviral.ai/templates/christmas-lights-car-ai-trend): Add a photo of your car. AI parks it on fresh snow at dusk and traces its roofline, windows and mirrors in glowing Christmas lights, with a lit house behind. Still clearly your car.
 - [Car Roof Backflip AI Video: You Flip From One Car to the Next](https://www.makeviral.ai/templates/car-roof-backflip-ai-trend): You climb out of a black SUV on the highway, stand on its roof, do one slow backflip across the gap and land in a crouch on the red hatchback next to it. Add one photo. It is an AI effect, never a stunt to try.
-- [Car Jump AI Video: A Truck Flies Over You, You Stay Calm](https://www.makeviral.ai/templates/ai-car-jump-trend): You sit in a folding camp chair with your legs crossed, raise one fist, and a black pickup flies over the field behind you and lands at your back. You never turn around. Add a selfie, or a selfie and a photo of your own car.
 - [AI photo generator](https://www.makeviral.ai/ai-photo-generator)
 - [All AI video templates](https://www.makeviral.ai/templates)
+
+## New AI video trends this week
+
+- [Christmas Dance AI: Do the New TikTok Christmas Dance From Your Photos](https://www.makeviral.ai/templates/christmas-dance-ai-trend): Hip sways with the hands at the collar, rolling arms, a quick spin and raised fists, side by side in matching Christmas pajamas. Add two photos for the duo, one for a solo take, or two pets, and get the dance with the sound.
+- [Cat on Ultra Bee AI: Put Your Pet on the Wheelie](https://www.makeviral.ai/templates/cat-on-ultra-bee-ai-trend): Add one photo, and your cat or dog stands on an electric dirt bike and holds a long wheelie down a city road at golden hour, in the same shots as the viral clip, with its original sound. You can take the ride yourself, too.
+- [Tus Ojos Me Reflejan el Sentimiento: The Cafuné Eye Close-Up Trend](https://www.makeviral.ai/templates/tus-ojos-me-reflejan-ai-trend): You lie on your side, a hand rests on your cheek, warm light falls on your face, and the camera slowly moves in until your eyes fill the screen while the line plays. One photo in, an 8-second vertical clip with the trend's song out.
+- [İnşallah Maşallah AI Trend: Sing Neşe Karaböcek's Song on the Couch](https://www.makeviral.ai/templates/insallah-masallah-ai-trend): You sit on a light grey couch and sing the old Turkish love song straight to the camera: a hand on the heart, a big laugh with both hands on your head, a finger pointed at the camera and a kiss at the end. One photo of you, a grandparent or your pet, and the 15-second clip comes with the song.
+- [Ice Ice Baby Dance AI: Do the Viral Duo Dance With a Friend](https://www.makeviral.ai/templates/ice-ice-baby-dance-ai): Two dancers side by side, the same bouncy 90s steps, a spin on the beat and a strut to the camera. Add a photo of you and a friend, of you alone, or of your pet, and get the dance with the sound.
+- [Save Yourself Trend: Pull Yourself Up From the Cliff](https://www.makeviral.ai/templates/save-yourself-ai-trend): One photo plays both of you: the scared you clinging to a wet sea cliff, and the calm you who reaches down, pulls you up and holds you. Or use two photos: an older photo of you and a new one, or you and a friend. 15 seconds, vertical.
 
 ## Make your own Champagne Car Window video
 

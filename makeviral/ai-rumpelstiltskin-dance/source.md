@@ -16,7 +16,7 @@ Also called: Rumpelstiltskin 1987, Tip Toeing in My Jordans, Rumpelstiltskin mem
 
 **Make it now:** [Make this video](https://www.makeviral.ai/templates/ai-rumpelstiltskin-dance/create). 1 photo · 15 s · 9:16 with sound · 228 credits, charged once · ready in up to several minutes · no prompt to write.
 
-Keyword: rumpelstiltskin ai. Also answers: ai rumpelstiltskin, rumpelstiltskin 1987 movie, tip toe in my jordans, tiptoeing in my jordans, rumpelstiltskin ai video, rumpelstiltskin gif, tip toeing in my jordans song, rumpelstiltskin dancing in hay, riff raff tip toeing in my jordans, rumpelstiltskin 1987 dance, rumpelstiltskin 1987 little guy, rumpelstiltskin tiktok, rumpelstiltskin ai dance, ai rumpelstiltskin gif, ai rumpelstiltskin costume, ai rumplestilskin, rumplestilskin ai, ai rumpelstiltskin video, ai rumpelstiltskin dancing, rumpelstiltskin ai video generator, is rumpelstiltskin ai, tip toeing in my jordans gif, ai rumplestiltskin, tiptoe meme, rumpelstiltskin tip toe gif, rumpelstiltskin reel, rumpelstiltskin dance gif, tip toeing in my jordans meme, rumpelstiltskin meme gif, rumpelstiltskin ai gif, rumpelstiltskin dance actor, rumplestiltskin ai, rumpelstiltskin ai video original, rumpelstiltskin tap dance, rumpelstiltskin dance ai, rumpelstiltskin dancing actor, rumpelstiltskin in a haystack, rumpelstiltskin dance movie, rumplestiltskin dance, rumpelstiltskin movie dance, billy barty rumpelstiltskin dance, rumpelstilskin ai, tip toeing in my jordans halloween costume, tip toeing in my jordans original, rumpelstiltskin trend, rumpelstiltskin dancing on hay, rumpelstiltskin tip toe dance, rumpelstiltskin creepy dance, rumpelstiltskin shh, tip toeing in my jordans template, rumpelstiltskin movie ai, rumpelstiltskin dance original, rumpelstiltskin tip toe, rumpelstiltskin 1987 tip toe, rumpelstiltskin dance meme, rumpelstiltskin meme generator, rumpelstiltskin meme origin, rumpelstiltskin tiptoe meme, tip toeing in my jordans ai, rumpelstiltskin 1987 ai, rumpelstiltskin 1987 green screen, rumpelstiltskin ai meme, rumpelstiltskin ai movie, rumpelstiltskin dancing meme, rumpelstiltskin viral video, rumpelstiltskin tiptoeing in my jordans, tip toeing in my jordans rumpelstiltskin, rumpelstiltskin jordans, tip toeing in my jordans ai video, tip toeing in my jordans meme origin, tip toeing in my jordans meme generator, tip toeing in my jordans movie, rumpelstiltskin tip toe movie, rumpelstiltskin meme video, rumpelstiltskin tiptoe gif, tip toe in my jordans ai, rumpelstiltskin dance video, rumpelstiltskin video ai, is the tip toe guy ai, tip toe dance movie, stroinaya rumpelstiltskin, movie scene little man dancing in hay barn blonde woman shush meme what film.
+Keyword: rumpelstiltskin ai. Also answers: ai rumpelstiltskin, rumpelstiltskin 1987 movie, tip toe in my jordans, tiptoeing in my jordans, rumpelstiltskin ai video, rumpelstiltskin gif, tip toeing in my jordans song, rumpelstiltskin dancing in hay, riff raff tip toeing in my jordans, rumpelstiltskin 1987 dance, rumpelstiltskin 1987 little guy, rumpelstiltskin tiktok, rumpelstiltskin ai dance, ai rumpelstiltskin gif, ai rumpelstiltskin costume, ai rumplestilskin, rumplestilskin ai, ai rumpelstiltskin video, ai rumpelstiltskin dancing, rumpelstiltskin ai video generator, is rumpelstiltskin ai, tip toeing in my jordans gif, ai rumplestiltskin, tiptoe meme, rumpelstiltskin tip toe gif, rumpelstiltskin reel, rumpelstiltskin dance gif, tip toeing in my jordans meme, rumpelstiltskin meme gif, rumpelstiltskin ai gif, rumpelstiltskin dance actor, rumplestiltskin ai, rumpelstiltskin ai video original, rumpelstiltskin tap dance, rumpelstiltskin dance ai, rumpelstiltskin dancing actor, rumpelstiltskin in a haystack, rumpelstiltskin dance movie, rumplestiltskin dance, tip toe ai, rumpelstiltskin movie dance, billy barty rumpelstiltskin dance, rumpelstilskin ai, tip toeing in my jordans halloween costume, tip toeing in my jordans original, rumpelstiltskin trend, rumpelstiltskin dancing on hay, rumpelstiltskin tip toe dance, rumpelstiltskin creepy dance, rumpelstiltskin shh, rumpelstiltskin ai costume, tip toeing in my jordans mask, rumpelstiltskin dancing, rumpelstiltskin ai original, tip toeing in my jordans template, rumpelstiltskin movie ai, rumpelstiltskin dance original, rumpelstiltskin tip toe, rumpelstiltskin 1987 tip toe, rumpelstiltskin dance meme, rumpelstiltskin meme generator, rumpelstiltskin meme origin, rumpelstiltskin tiptoe meme, tip toeing in my jordans ai, rumpelstiltskin 1987 ai, rumpelstiltskin 1987 green screen, rumpelstiltskin ai meme, rumpelstiltskin ai movie, rumpelstiltskin dancing meme, rumpelstiltskin viral video, rumpelstiltskin tiptoeing in my jordans, tip toeing in my jordans rumpelstiltskin, rumpelstiltskin jordans, tip toeing in my jordans ai video, tip toeing in my jordans meme origin, tip toeing in my jordans meme generator, tip toeing in my jordans movie, rumpelstiltskin tip toe movie, rumpelstiltskin meme video, rumpelstiltskin tiptoe gif, tip toe in my jordans ai, rumpelstiltskin dance video, rumpelstiltskin video ai, is the tip toe guy ai, tip toe dance movie, stroinaya rumpelstiltskin, movie scene little man dancing in hay barn blonde woman shush meme what film, tip toe ai video, blonde rumpelstiltskin, ai rumpelstiltskin dance, rumpelstiltskin ai clip, billy barty rumpelstiltskin ai, rumpelstiltskin tiptoe trend, movie scene little person shiny green suit hay barn blonde woman, rumpelstilskin dance, rumpelstiltskin costume tip toe, ai rumpelstiltskin halloween costume, dancing rumpelstiltskin gif, rumpelstiltskin dancing in hay original, rumpelstiltskin danse, rumplestilskin dance, rumplestiltskin dance gif, billy barty rumpelstiltskin dancing, rumpelstiltskin 1987 blonde, rumpelstiltskin 1987 dance gif, rumpelstiltskin face, rumpelstiltskin shush, rumpelstiltskin tip toe ai, rumplestiltskin dancing, ai rumpelstiltskin original, dancing rumpelstiltskin, rumpelstiltskin blonde, rumpelstiltskin blonde hair, rumpelstiltskin meme mask, rumpelstiltskin tip toe costume, rumpelstiltskin tiptoe ai, rumplestiltskin shh, tiptoeing in my jordans mask, viral ai rumpelstiltskin.
 
 ## What is the Rumpelstiltskin Dance trend, and where did it start?
 
@@ -109,7 +109,7 @@ One-tap version of this variant: https://www.makeviral.ai/templates/ai-rumpelsti
 
 #### Variant: Original clip, 2 people
 
-Settings: 2 photos (the little man + the princess) · Seedance 2.5 · 15 s · 720p · 9:16 · no sound · 228 credits in one tap.
+Settings: 2 photos (photo 1: the little man, face clear + photo 2: the princess, a second person, face clear) · Seedance 2.5 · 15 s · 720p · 9:16 · no sound · 228 credits in one tap.
 
 1. The video prompt is filled in. Settings: Seedance 2.5, 15 s, 720p, 9:16, sound off. The video prompt:
 
@@ -125,16 +125,18 @@ Both are the same real people in every frame, from the first shot to the last, s
 Shots, matching the reference:
 1. Close-up of the woman ([Image 2]): she turns around in the hay, gasps and covers her mouth with her hand.
 2. Wide: the dancer ([Image 1]) peeks out of the dark doorway behind her; the back of her head in the foreground.
-3. Wide: the woman sits in the hay in her white nightgown and looks around.
-4. Medium shot: the dancer stands in the hay, holds a finger to the lips "shh" with a sly grin; the back of her head in the foreground.
+3. Wide: the woman sits in the hay in her white nightgown and looks around - her face turned to the camera is the face from [Image 2].
+4. Medium shot: the dancer stands in the hay, holds a finger to the lips "shh" with a sly grin; the back of her head in the foreground, with the hair color and length from [Image 2].
 5. Close-up of the dancer's face with the finger on the lips, sly look - clearly the person from [Image 1].
 6. Extreme close-up of the woman's eyes, her hand on her mouth - clearly the person from [Image 2].
 7-8. Wide: the dancer tiptoes toward the camera and does the bouncy tiptoe dance across the hay, knees bent, arms spread wide, coat tails flapping.
 9. Medium close-up: the dancer, arms spread wide, grinning, bobbing to the rhythm.
 10. Low shot of ONLY the dancer's legs and pointed black shoes tiptoeing through the straw - NO face, NO head anywhere in this shot.
-11. Close-up of the woman, both hands pressed to her mouth.
+11. Close-up of the woman, both hands pressed to her mouth - clearly the person from [Image 2], her face large and sharp.
 12-13. The dancer raises one finger and grins: first wide, then a medium close-up.
-14. Wide: the woman sits among gold coins in the hay while the dancer runs past her to the right.
+14. Wide: the woman sits among gold coins in the hay while the dancer runs past her to the right - she is still the person from [Image 2].
+
+[Image 1] and [Image 2] are two different people, each in their own part only: the woman from [Image 2] is as clear and recognizable as the dancer in every shot she is in, never a stranger, never the original blonde actress.
 
 Anatomy rules: one head per person, on that person's own shoulders. A face never appears on knees, legs, hands, clothes or the hay. Exactly two people. No text, no logos, no modern objects.
    ```
@@ -194,7 +196,7 @@ Use **one sharp, well-lit photo of your face**, looking at the camera or slightl
 - One person per photo.
 - In **Original clip**, your face takes the place of the little man's face, and he keeps the velvet tuxedo. The princess stays the woman from the original clip.
 - Pick **Whole body** in Original clip to put the whole person, pet or character from your photo in his place, in their own clothes or fur. A full-body photo works best for it.
-- In **Original clip, 2 people**, add the little man **first**, then the princess. The second photo gives the princess her face and hair; she keeps the white nightgown.
+- In **Original clip, 2 people**, add the little man **first**, then the princess: two different people, one sharp face photo each. The second photo gives the princess her face and hair; she keeps the white nightgown.
 - For **You and a friend**, add the dancer **first**, then the person who watches. The second photo becomes the one in the white nightgown who gasps.
 - Use your own face, or a friend who said yes. Never a celebrity or a stranger: many viral swaps used famous faces, and we do not make those.
 
@@ -338,6 +340,15 @@ Yes. The MP4 has no watermark and carries original sound, so you can post it to 
 - [AI TikTok Video](https://www.makeviral.ai/tools/ai-tiktok-video-generator): Eight native TikTok formats, one prompt or product URL, a finished 9:16 video with captions burned in.
 - [AI photo generator](https://www.makeviral.ai/ai-photo-generator)
 - [All AI video templates](https://www.makeviral.ai/templates)
+
+## New AI video trends this week
+
+- [Christmas Dance AI: Do the New TikTok Christmas Dance From Your Photos](https://www.makeviral.ai/templates/christmas-dance-ai-trend): Hip sways with the hands at the collar, rolling arms, a quick spin and raised fists, side by side in matching Christmas pajamas. Add two photos for the duo, one for a solo take, or two pets, and get the dance with the sound.
+- [Cat on Ultra Bee AI: Put Your Pet on the Wheelie](https://www.makeviral.ai/templates/cat-on-ultra-bee-ai-trend): Add one photo, and your cat or dog stands on an electric dirt bike and holds a long wheelie down a city road at golden hour, in the same shots as the viral clip, with its original sound. You can take the ride yourself, too.
+- [Tus Ojos Me Reflejan el Sentimiento: The Cafuné Eye Close-Up Trend](https://www.makeviral.ai/templates/tus-ojos-me-reflejan-ai-trend): You lie on your side, a hand rests on your cheek, warm light falls on your face, and the camera slowly moves in until your eyes fill the screen while the line plays. One photo in, an 8-second vertical clip with the trend's song out.
+- [İnşallah Maşallah AI Trend: Sing Neşe Karaböcek's Song on the Couch](https://www.makeviral.ai/templates/insallah-masallah-ai-trend): You sit on a light grey couch and sing the old Turkish love song straight to the camera: a hand on the heart, a big laugh with both hands on your head, a finger pointed at the camera and a kiss at the end. One photo of you, a grandparent or your pet, and the 15-second clip comes with the song.
+- [Ice Ice Baby Dance AI: Do the Viral Duo Dance With a Friend](https://www.makeviral.ai/templates/ice-ice-baby-dance-ai): Two dancers side by side, the same bouncy 90s steps, a spin on the beat and a strut to the camera. Add a photo of you and a friend, of you alone, or of your pet, and get the dance with the sound.
+- [Save Yourself Trend: Pull Yourself Up From the Cliff](https://www.makeviral.ai/templates/save-yourself-ai-trend): One photo plays both of you: the scared you clinging to a wet sea cliff, and the calm you who reaches down, pulls you up and holds you. Or use two photos: an older photo of you and a new one, or you and a friend. 15 seconds, vertical.
 
 ## Make your own Rumpelstiltskin Dance video
 

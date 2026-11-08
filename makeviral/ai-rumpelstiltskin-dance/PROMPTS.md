@@ -71,16 +71,18 @@ Both are the same real people in every frame, from the first shot to the last, s
 Shots, matching the reference:
 1. Close-up of the woman ([Image 2]): she turns around in the hay, gasps and covers her mouth with her hand.
 2. Wide: the dancer ([Image 1]) peeks out of the dark doorway behind her; the back of her head in the foreground.
-3. Wide: the woman sits in the hay in her white nightgown and looks around.
-4. Medium shot: the dancer stands in the hay, holds a finger to the lips "shh" with a sly grin; the back of her head in the foreground.
+3. Wide: the woman sits in the hay in her white nightgown and looks around - her face turned to the camera is the face from [Image 2].
+4. Medium shot: the dancer stands in the hay, holds a finger to the lips "shh" with a sly grin; the back of her head in the foreground, with the hair color and length from [Image 2].
 5. Close-up of the dancer's face with the finger on the lips, sly look - clearly the person from [Image 1].
 6. Extreme close-up of the woman's eyes, her hand on her mouth - clearly the person from [Image 2].
 7-8. Wide: the dancer tiptoes toward the camera and does the bouncy tiptoe dance across the hay, knees bent, arms spread wide, coat tails flapping.
 9. Medium close-up: the dancer, arms spread wide, grinning, bobbing to the rhythm.
 10. Low shot of ONLY the dancer's legs and pointed black shoes tiptoeing through the straw - NO face, NO head anywhere in this shot.
-11. Close-up of the woman, both hands pressed to her mouth.
+11. Close-up of the woman, both hands pressed to her mouth - clearly the person from [Image 2], her face large and sharp.
 12-13. The dancer raises one finger and grins: first wide, then a medium close-up.
-14. Wide: the woman sits among gold coins in the hay while the dancer runs past her to the right.
+14. Wide: the woman sits among gold coins in the hay while the dancer runs past her to the right - she is still the person from [Image 2].
+
+[Image 1] and [Image 2] are two different people, each in their own part only: the woman from [Image 2] is as clear and recognizable as the dancer in every shot she is in, never a stranger, never the original blonde actress.
 
 Anatomy rules: one head per person, on that person's own shoulders. A face never appears on knees, legs, hands, clothes or the hay. Exactly two people. No text, no logos, no modern objects.
 ```

@@ -16,7 +16,7 @@ Also called: Babydoll trend, Babydoll two step, Babydoll challenge, Babydoll dan
 
 **Make it now:** [Make this video](https://www.makeviral.ai/templates/babydoll-dance-ai-trend/create). 1 photo · 15 s · 9:16 with sound · 60 credits, charged once · ready in a few minutes · no prompt to write.
 
-Keyword: babydoll dance. Also answers: baby doll dance, babydoll dancing, jamie miller babydoll dance, babydoll dance trend, babydoll jamie miller dance, babydoll dance tutorial, jamie miller dance, babydoll dance ai, babydoll song dance, jamie miller babydoll dance tutorial, jaime miller babydoll, babydoll tiktok dance, babydoll viral dance, learn babydoll dance, babydoll dance video, the babydoll dance, babydoll tiktok trend, babydoll choreography, babydoll dance tiktok, babydoll dance steps, babydoll ai, baby doll dance ai, babydoll dance moves, babydoll dance how to, babydoll dance craze, babydoll trend tiktok, babydoll trend 2026, baby doll dance trend, baby doll dance jamie miller, babydoll dance dog, babydoll dance with dog, babydoll dance cat, babydoll dance pet, babydoll ai trend, babydoll dance ai video, babydoll dance prompt, babydoll dance jamie miller, babydoll two step dance, babydoll dance group, babydoll dance with friends, babydoll dance trio, make your friends dance ai, make friends dance ai, babydoll dance friends, babydoll dance ai friends, babydoll dance three friends, ai dance with friends.
+Keyword: babydoll dance. Also answers: baby doll dance, babydoll dancing, jamie miller babydoll dance, babydoll dance trend, babydoll jamie miller dance, babydoll dance tutorial, jamie miller dance, babydoll dance ai, babydoll song dance, jamie miller babydoll dance tutorial, is babydoll by jamie miller ai, jamie miller ai, is jamie miller ai, is jamie miller babydoll ai, baby doll jamie miller sample, is babydoll song ai, jaime miller babydoll, babydoll tiktok dance, babydoll viral dance, learn babydoll dance, babydoll dance video, the babydoll dance, babydoll tiktok trend, babydoll choreography, babydoll dance tiktok, babydoll dance steps, babydoll ai, is babydoll an ai song, baby doll dance ai, babydoll dance moves, babydoll dance how to, babydoll dance craze, babydoll trend tiktok, babydoll trend 2026, baby doll dance trend, baby doll dance jamie miller, babydoll dance dog, babydoll dance with dog, babydoll dance cat, babydoll dance pet, babydoll ai trend, babydoll dance ai video, babydoll dance prompt, babydoll dance jamie miller, babydoll two step dance, babydoll dance group, babydoll dance with friends, babydoll dance trio, make your friends dance ai, make friends dance ai, babydoll dance friends, babydoll dance ai friends, babydoll dance three friends, ai dance with friends.
 
 ## What is the Babydoll Dance trend, and where did it start?
 
@@ -108,12 +108,24 @@ One-tap version of this variant: https://www.makeviral.ai/templates/babydoll-dan
 
 #### Variant: Pet
 
-Settings: 1 photo (your pet, whole body) · h3-recast · 9 s · 720p · 9:16 · no sound · 108 credits in one tap.
+Settings: 1 photo (your pet, whole body) · Seedance 2.5 · 9 s · 720p · 9:16 · no sound · 137 credits in one tap.
 
-1. The video prompt is filled in. Settings: h3-recast, 9 s, 720p, 9:16, sound off. The video prompt:
+1. The video prompt is filled in. Settings: Seedance 2.5, 9 s, 720p, 9:16, sound off. The video prompt:
 
    ```text
-   Image 1 replaces the cat on the left who dances upright on its hind legs, in every shot, also when it turns its back to the camera. Keep the pet's face shape, ears, eye color, fur colors, fur length and markings from image 1, on the whole body, the head, the legs and the tail, not those of the cat in the video. The pet keeps the natural body volume and proportions of its own animal: never flattened, squashed, stretched or merged with anything. If image 1 shows a dog or another animal, that animal takes the same place, standing upright on its hind legs and doing the same paw moves, with its own ears and muzzle. The cat on the right stays exactly as in the video, with its own face, in every shot. Keep the cozy living room, the beige sofa, the warm lamps, the plants, the patterned rug, the warm light, the dance moves, the motion and the camera exactly as in the video.
+   Recreate the reference video [Video 1] shot for shot: the same cozy living room with the beige sofa, the two warm lamps, the plants, the framed pictures and the patterned rug, the same warm light, the same fixed camera, framing, timing and dance moves, and the same black-and-white cat on the right, with its own face and coat, in every frame. The ONLY change: the cat on the left who dances upright on its hind legs is now the pet in [Image 1].
+
+The dancer on the left = the pet in [Image 1], whole body, in every frame, also when it turns its back to the camera: the same species and breed, head shape, face shape, muzzle, eyes, eye color, ear size and shape, fur colors, fur length and markings as in [Image 1], on the head, the body, the legs and the tail, with the natural body volume and proportions of that animal: never flattened, squashed, stretched or merged with anything, so its owner instantly recognizes it. It stands upright on its hind legs like a person the whole time. Never drift back to the cat of the original video on the left: not its coat, its stripes, its face or its ears, unless [Image 1] shows them. If [Image 1] shows a dog or another animal, that animal dances in the same place with the same paw moves, with its own ears, muzzle and tail.
+
+The pet from [Image 1] replaces only the cat on the left. The black-and-white cat on the right stays exactly as in the video and never takes the pet's face or coat.
+
+The dance, one continuous take, matching the reference second by second, both in sync on the beat:
+[0-3 s]: small bouncy steps with the front paws held at the chest.
+[3-5.5 s]: a sway from side to side, the front paws opening out.
+[5.5-7 s]: the pet on the left turns sideways with its back to the camera, then turns back.
+[7-9 s]: bouncy steps facing the camera, the front paws at the chest.
+
+Anatomy rules: one head per animal, one tail each. Two hind legs on the rug and two front legs each, no extra legs or paws, no human hands. Exactly two animals. No people, no text, no logos, no watermark. No dialogue throughout the entire video. No background music.
    ```
 
 2. Press Generate, then download the 9:16 MP4.
@@ -122,12 +134,26 @@ One-tap version of this variant: https://www.makeviral.ai/templates/babydoll-dan
 
 #### Variant: Two pets
 
-Settings: 2 photos (pet 1, on the left + pet 2, on the right) · h3-recast · 9 s · 720p · 9:16 · no sound · 108 credits in one tap.
+Settings: 2 photos (pet 1, on the left + pet 2, on the right) · Seedance 2.5 · 9 s · 720p · 9:16 · no sound · 137 credits in one tap.
 
-1. The video prompt is filled in. Settings: h3-recast, 9 s, 720p, 9:16, sound off. The video prompt:
+1. The video prompt is filled in. Settings: Seedance 2.5, 9 s, 720p, 9:16, sound off. The video prompt:
 
    ```text
-   Image 1 replaces the cat on the left who dances upright on its hind legs, in every shot, also when it turns its back to the camera. Image 2 replaces the cat on the right who dances upright beside it, in every shot. Keep the face shape, ears, fur colors, fur length and markings of each pet from its own image, on the whole body, the head, the legs and the tail, not the coats, stripes or markings of the cats in the video. Each pet keeps the natural body volume and proportions of its own animal: never flattened, squashed, stretched or merged with anything. Each pet keeps its own face from the first frame to the last; never swap the two faces. If an image shows a dog or another animal, that animal takes the same place, standing upright on its hind legs and doing the same paw moves. Keep the cozy living room, the beige sofa, the warm lamps, the plants, the patterned rug, the warm light, the dance moves, the motion and the camera exactly as in the video.
+   Recreate the reference video [Video 1] shot for shot: the same cozy living room with the beige sofa, the two warm lamps, the plants, the framed pictures and the patterned rug, the same warm light, the same fixed camera, framing, timing and dance moves. The ONLY change: the cat on the left who dances upright is now the pet in [Image 1], and the cat on the right who dances upright beside it is now the pet in [Image 2]. Both change: no cat from the video stays, not its face, its ears, its body or its coat, also when only the back of a head shows.
+
+The pet on the left = the pet in [Image 1], whole body, in EVERY frame, also when it turns its back to the camera: the same species and breed, head shape, face shape, muzzle, eyes, eye color, ear size and shape, fur colors, fur length and markings as in [Image 1], with the natural body volume and proportions of that animal: never flattened, squashed, stretched or merged with anything.
+
+The pet on the right = the pet in [Image 2], whole body, in EVERY frame: the same species and breed, head shape, face shape, muzzle, eyes, eye color, ear size and shape, fur colors, fur length and markings as in [Image 2], with the natural body volume and proportions of that animal: never flattened, squashed, stretched or merged with anything.
+
+Each coat is not the coat of the cat in the video: the colors, the pattern and the fur length come only from each pet's own photo, on the head, the chest, the belly, the legs and the tail. A pet with no stripes gets no stripes, a pet with no white chest gets no white chest. The same two pets from the first second to the last, so their owners instantly recognize them. Never morph, never drift back to the cats of the video. Do not mix the two pets: [Image 1] is only the pet on the left, [Image 2] is only the pet on the right. If a photo shows a dog or another animal, that animal takes the same place, upright on its hind legs, with the same paw moves.
+
+The dance, one continuous take, matching the reference second by second, both in sync on the beat:
+[0-3 s]: small bouncy steps with the front paws held at the chest.
+[3-5.5 s]: a sway from side to side, the front paws opening out.
+[5.5-7 s]: the pet on the left turns sideways with its back to the camera, then turns back.
+[7-9 s]: bouncy steps facing the camera, the front paws at the chest.
+
+Anatomy rules: one head per pet, on its own body, one tail each. Two hind legs on the rug and two front legs each, no extra legs or paws, no human hands. Exactly two animals. No people, no extra animals, no text, no logos, no watermark. No dialogue throughout the entire video. No background music.
    ```
 
 2. Press Generate, then download the 9:16 MP4.
@@ -182,7 +208,7 @@ Press "Create your own" and pick a version, or press the button under the cat re
 | | Human | Friends | Pet | Two pets |
 |---|---|---|---|---|
 | Photos | 1, you | 3, you and two friends | 1, your pet | 2, your pets |
-| How it works | Kling 3.0 Motion Control takes only the moves of a full-speed Babydoll take and plays them with you | Seedance 2.5 puts the three of you into the friends' reel itself, in place of its three dancers | H3 Recast puts your pet into the AI cat reel above, in place of the tabby on the left; the tuxedo cat stays as its dance partner | H3 Recast puts your two pets into the AI cat reel, in place of both cats |
+| How it works | Kling 3.0 Motion Control takes only the moves of a full-speed Babydoll take and plays them with you | Seedance 2.5 puts the three of you into the friends' reel itself, in place of its three dancers | Top-quality AI video models put your pet into the AI cat reel above, in place of the tabby on the left; the tuxedo cat stays as its dance partner | The same models put your two pets into the AI cat reel, in place of both cats |
 | Where you dance | Your photo's own place | The reel's tree-lined country lane | The reel's cozy living room | The reel's cozy living room |
 | Looks | Your face, hair and clothes from your photo | Each friend's face, hair and clothes from their own photo | Fur and markings from your photo | Each pet's fur and markings from its own photo |
 | Length | About 15 s | 15 s | 9 s | 9 s |
@@ -238,7 +264,7 @@ Press "Create your own", pick Human, Friends, Pet or Two pets, and add your phot
 
 ### Can my dog or cat do the Babydoll dance?
 
-Yes, with Pet. Add one sharp photo of your pet, whole body in view. H3 Recast puts it into the viral AI cat reel on this page in place of the tabby, next to the tuxedo cat: it stands on its hind legs, bounces and moves its paws to the beat, with its own fur and markings. With Two pets, both cats become your pets.
+Yes, with Pet. Add one sharp photo of your pet, whole body in view. Top-quality AI video models put it into the viral AI cat reel on this page in place of the tabby, next to the tuxedo cat: it stands on its hind legs, bounces and moves its paws to the beat, with its own fur and markings. With Two pets, both cats become your pets.
 
 ### Can I do the Babydoll dance with friends?
 
@@ -285,6 +311,15 @@ No. The dance is made with AI from still photos, and you or your pets never did 
 - [AI Reels](https://www.makeviral.ai/tools/ai-reels-generator): Pick a format, give it a topic or a product link, and get a finished vertical reel with voice and captions. Nothing to film, nothing to edit.
 - [AI photo generator](https://www.makeviral.ai/ai-photo-generator)
 - [All AI video templates](https://www.makeviral.ai/templates)
+
+## New AI video trends this week
+
+- [Christmas Dance AI: Do the New TikTok Christmas Dance From Your Photos](https://www.makeviral.ai/templates/christmas-dance-ai-trend): Hip sways with the hands at the collar, rolling arms, a quick spin and raised fists, side by side in matching Christmas pajamas. Add two photos for the duo, one for a solo take, or two pets, and get the dance with the sound.
+- [Cat on Ultra Bee AI: Put Your Pet on the Wheelie](https://www.makeviral.ai/templates/cat-on-ultra-bee-ai-trend): Add one photo, and your cat or dog stands on an electric dirt bike and holds a long wheelie down a city road at golden hour, in the same shots as the viral clip, with its original sound. You can take the ride yourself, too.
+- [Tus Ojos Me Reflejan el Sentimiento: The Cafuné Eye Close-Up Trend](https://www.makeviral.ai/templates/tus-ojos-me-reflejan-ai-trend): You lie on your side, a hand rests on your cheek, warm light falls on your face, and the camera slowly moves in until your eyes fill the screen while the line plays. One photo in, an 8-second vertical clip with the trend's song out.
+- [İnşallah Maşallah AI Trend: Sing Neşe Karaböcek's Song on the Couch](https://www.makeviral.ai/templates/insallah-masallah-ai-trend): You sit on a light grey couch and sing the old Turkish love song straight to the camera: a hand on the heart, a big laugh with both hands on your head, a finger pointed at the camera and a kiss at the end. One photo of you, a grandparent or your pet, and the 15-second clip comes with the song.
+- [Ice Ice Baby Dance AI: Do the Viral Duo Dance With a Friend](https://www.makeviral.ai/templates/ice-ice-baby-dance-ai): Two dancers side by side, the same bouncy 90s steps, a spin on the beat and a strut to the camera. Add a photo of you and a friend, of you alone, or of your pet, and get the dance with the sound.
+- [Save Yourself Trend: Pull Yourself Up From the Cliff](https://www.makeviral.ai/templates/save-yourself-ai-trend): One photo plays both of you: the scared you clinging to a wet sea cliff, and the calm you who reaches down, pulls you up and holds you. Or use two photos: an older photo of you and a new one, or you and a friend. 15 seconds, vertical.
 
 ## Make your own Babydoll Dance video
 

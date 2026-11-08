@@ -3,7 +3,7 @@
 > The Coldplay kiss cam meme is back as an AI trend.
 
 Canonical: https://www.makeviral.ai/templates/coldplay-affair-ai-trend
-Updated: 2026-10-18
+Updated: 2026-10-27
 Published: 2026-10-18
 Author: MakeViral Team (https://www.makeviral.ai/about)
 Publisher: MakeViral (https://www.makeviral.ai)
@@ -16,7 +16,7 @@ Also called: Coldplay CEO kiss cam trend, Coldplay cheating couple trend, CEO af
 
 **Make it now:** [Make this video](https://www.makeviral.ai/templates/coldplay-affair-ai-trend/create). 2 photos · 10 s · 9:16 with sound · 126 credits, charged once · ready in a few minutes · no prompt to write.
 
-Keyword: coldplay kiss cam meme. Also answers: coldplay kiss cam, coldplay affair, coldplay affair ai filter, coldplay affair filter, coldplay kiss cam meme generator, kiss cam meme, coldplay kiss cam ai, ai kiss cam, kiss cam meme generator, coldplay affair meme, coldplay ceo meme, coldplay kiss cam meme template, kiss cam meme template, coldplay kiss cam ai generator, ai coldplay kiss cam, kiss cam ai generator, ai kiss cam generator, kiss cam ai trend, coldplay affair trend, coldplay affair ai, coldplay ai trend, coldplay couple meme, coldplay cheating meme, ceo kiss cam meme, ai ceo kiss cam, coldplay concert ai ceo, coldplay kiss cam trend, coldplay cam trend, coldplay kiss cam video, kiss cam memes coldplay, coldplay kiss cam memes funny, kiss cam memes funny, cheating kiss cam meme, kiss cam scandal memes, best kiss cam memes, kiss cam trend, kiss cam tiktok, kiss camera meme, kiss cam meme gif, coldplay affair gif, coldplay couple gif, jumbotron ai, jumbotron ai trend, coldplay affair capcut template, concert big screen filter, coldplay affair ai video, ai kiss filter, kiss cam generator, kiss cam app, either they're having an affair or they're just very shy.
+Keyword: coldplay kiss cam meme. Also answers: coldplay kiss cam, coldplay affair, coldplay kiss cam incident, coldplay affair ai filter, coldplay affair filter, coldplay kiss cam meme generator, kiss cam meme, coldplay kiss cam ai, ai kiss cam, kiss cam meme generator, coldplay affair meme, coldplay ceo meme, coldplay kiss cam meme template, coldplay kiss cam incident meme, kiss cam meme template, coldplay kiss cam ai generator, ai coldplay kiss cam, kiss cam ai generator, ai kiss cam generator, kiss cam ai trend, coldplay affair trend, coldplay affair ai, coldplay ai trend, coldplay couple meme, coldplay cheating meme, ceo kiss cam meme, ai ceo kiss cam, coldplay concert ai ceo, coldplay kiss cam trend, coldplay cam trend, coldplay kiss cam video, kiss cam memes coldplay, coldplay kiss cam memes funny, kiss cam memes funny, cheating kiss cam meme, kiss cam scandal memes, best kiss cam memes, kiss cam trend, kiss cam tiktok, kiss camera meme, kiss cam meme gif, coldplay affair gif, coldplay couple gif, jumbotron ai, jumbotron ai trend, coldplay affair capcut template, concert big screen filter, coldplay affair ai video, ai kiss filter, kiss cam generator, kiss cam app, either they're having an affair or they're just very shy.
 
 ## What is the Coldplay Kiss Cam trend, and where did it start?
 
@@ -28,6 +28,7 @@ The Coldplay affair AI filter is the 2026 return of that meme. On 15 October 202
 
 - **2025-07-16**: At a Coldplay concert at Gillette Stadium, the kiss cam catches a couple who hide from the screen, and the singer's joke about it goes viral with a fan's clip. Source: [CTV News](https://www.ctvnews.ca/entertainment/article/coldplay-concert-kiss-cam-gets-awkward-after-couple-hides-from-camera/).
 - **2025-07-17**: The TikTok tags #coldplaykisscam and #coldplayaffair start. By October 2026 they have about 2,200 videos and 107 to 110 million views each. Source: [TikTok](https://www.tiktok.com/tag/coldplayaffair).
+- **2025-07-19**: At the band's first show after the Coldplay kiss cam incident, at Camp Randall Stadium in Wisconsin, the singer warns the crowd before the kiss cam: "We're gonna use our cameras." Source: [NBC News](https://www.nbcnews.com/pop-culture/viral/coldplay-kiss-cam-warning-concertgoers-rcna219882).
 - **2026-10-15**: @capcuttingcorner posts the first clip of the Coldplay affair AI template, with two TV sitcom actors put on the screen. It passes 868,000 views by 17 October. Source: [TikTok](https://www.tiktok.com/@capcuttingcorner/video/7696943049192115478).
 - **2026-10-16**: The template's biggest clip, again by @capcuttingcorner, reaches 2.7 million views, and a clip by @luciferleechh passes 1.4 million. Source: [TikTok](https://www.tiktok.com/@capcuttingcorner/video/7697270432491130134).
 - **2026-10-17**: How-to videos for the Coldplay affair filter appear in several languages, and the tag #coldplayaffairfilter starts. By 18 October the template's four sounds have 111 videos. Source: [TikTok](https://www.tiktok.com/tag/coldplayaffairfilter).
@@ -185,6 +186,10 @@ Everything in the video is AI: the stadium, the screen, the hug and the reaction
 
 It comes from a Coldplay concert on 16 July 2025, when the kiss cam showed a couple hugging and they hid from the screen: she covered her face, he ducked, and the singer joked "Either they're having an affair or they're just very shy." The clip became the Coldplay affair meme. In October 2026 it came back as an AI trend where you put yourself and a friend in that moment.
 
+### Is this the Coldplay kiss cam incident meme?
+
+Yes. News reports called the moment of 16 July 2025 the "kiss cam" incident, and this meme copies it: the hug on the big screen, the shocked look, the hidden face and the duck. Here AI makes it with you and a friend, never with the real couple, their names or the concert footage.
+
 ### What is the Coldplay affair AI filter?
 
 It is the October 2026 version of the Coldplay kiss cam: a CapCut AI template that re-makes the kiss cam with the faces from your photo. The first clip went up on 15 October 2026 and passed 868,000 views; the biggest reached 2.7 million on 16 October. People call it the Coldplay affair filter, the Coldplay affair AI trend or the Coldplay AI trend.
@@ -250,6 +255,15 @@ Yes. MakeViral does not post your photos or the result anywhere or show them to 
 - [AI Reels](https://www.makeviral.ai/tools/ai-reels-generator): Pick a format, give it a topic or a product link, and get a finished vertical reel with voice and captions. Nothing to film, nothing to edit.
 - [AI photo generator](https://www.makeviral.ai/ai-photo-generator)
 - [All AI video templates](https://www.makeviral.ai/templates)
+
+## New AI video trends this week
+
+- [Christmas Dance AI: Do the New TikTok Christmas Dance From Your Photos](https://www.makeviral.ai/templates/christmas-dance-ai-trend): Hip sways with the hands at the collar, rolling arms, a quick spin and raised fists, side by side in matching Christmas pajamas. Add two photos for the duo, one for a solo take, or two pets, and get the dance with the sound.
+- [Cat on Ultra Bee AI: Put Your Pet on the Wheelie](https://www.makeviral.ai/templates/cat-on-ultra-bee-ai-trend): Add one photo, and your cat or dog stands on an electric dirt bike and holds a long wheelie down a city road at golden hour, in the same shots as the viral clip, with its original sound. You can take the ride yourself, too.
+- [Tus Ojos Me Reflejan el Sentimiento: The Cafuné Eye Close-Up Trend](https://www.makeviral.ai/templates/tus-ojos-me-reflejan-ai-trend): You lie on your side, a hand rests on your cheek, warm light falls on your face, and the camera slowly moves in until your eyes fill the screen while the line plays. One photo in, an 8-second vertical clip with the trend's song out.
+- [İnşallah Maşallah AI Trend: Sing Neşe Karaböcek's Song on the Couch](https://www.makeviral.ai/templates/insallah-masallah-ai-trend): You sit on a light grey couch and sing the old Turkish love song straight to the camera: a hand on the heart, a big laugh with both hands on your head, a finger pointed at the camera and a kiss at the end. One photo of you, a grandparent or your pet, and the 15-second clip comes with the song.
+- [Ice Ice Baby Dance AI: Do the Viral Duo Dance With a Friend](https://www.makeviral.ai/templates/ice-ice-baby-dance-ai): Two dancers side by side, the same bouncy 90s steps, a spin on the beat and a strut to the camera. Add a photo of you and a friend, of you alone, or of your pet, and get the dance with the sound.
+- [Save Yourself Trend: Pull Yourself Up From the Cliff](https://www.makeviral.ai/templates/save-yourself-ai-trend): One photo plays both of you: the scared you clinging to a wet sea cliff, and the calm you who reaches down, pulls you up and holds you. Or use two photos: an older photo of you and a new one, or you and a friend. 15 seconds, vertical.
 
 ## Make your own Coldplay Kiss Cam video
 

@@ -12,11 +12,11 @@ The **La Tormenta de Arena** trend, also called **te he perdido entre la gente**
 
 One of you leans on a club balcony and smiles down, the camera turns to the packed dance floor, and a white spotlight finds the other, who looks up. Add two photos, or two pets, and get the clip with its song.
 
-Also called: Te he perdido entre la gente, La Tormenta de Arena trend, I've lost you in the crowd, I found you in the crowd, Te perdí entre la multitud, 3MSC club scene.
+Also called: Te he perdido entre la gente, La Tormenta de Arena trend, I've lost you in the crowd, I found you in the crowd, Te perdí entre la multitud, 3MSC club scene, I lost you in the crowd trend, I thought I lost you in the crowd.
 
 **Make it now:** [Make this video](https://www.makeviral.ai/templates/te-he-perdido-entre-la-gente-ai-trend/create). 2 photos · 10 s · 9:16 with sound · 152 credits, charged once · ready in up to several minutes · no prompt to write.
 
-Keyword: la tormenta de arena. Also answers: tormenta de arena, tormenta de arena dorian, la tormenta de arena dorian, ai couple video, tormenta de arena meme, te he perdido entre la gente trend, tormenta de arena trend, couple ai video generator, ai couple trend, te perdido entre la gente, la tormenta de arena movie, te e perdido entre la gente, tormenta de arena tiktok, 3 metros sobre el cielo escena discoteca, three meters above the sky scene, te he perdido entre la gente 3msc, dorian te he perdido entre la gente, te perdi entre la gente, te he perdido entre la gente ia, la tormenta de arena meme original, la tormenta de arena ai, la tormenta de arena ai video, te he perdido entre la gente cancion, te he perdido entre la gente ai, te he perdido entre la gente tiktok, te he perdido entre la gente pelicula, tormenta de arena ia, tormenta de arena ai, la tormenta de arena ai trend, la tormenta de arena meme origin, la tormenta de arena song meaning, 3 metros sobre el cielo trend, tres metros sobre el cielo escena de la discoteca, escena antro 3msc, escena disco 3msc, 3 metros sobre el cielo escena disco, 3msc trend, i found you in the crowd ai, i found you in the crowd trend, i lost you in the crowd, i lost you in the crowd trend, i lost you in the crowd ai, balcony spotlight trend, tormenta de arena perro, te he perdido entre la gente perro, te he perdido entre la gente gato, la tormenta de arena capcut, te he perdido entre la gente capcut, te he perdido entre la gente plantilla, te he perdido entre la gente tutorial, como hacer el trend de te he perdido entre la gente, tormenta de arena trend ia, 3 metros sobre el cielo trend ia.
+Keyword: la tormenta de arena. Also answers: tormenta de arena, tormenta de arena dorian, la tormenta de arena dorian, ai couple video, tormenta de arena meme, te he perdido entre la gente trend, tormenta de arena trend, couple ai video generator, ai couple trend, te perdido entre la gente, la tormenta de arena movie, te e perdido entre la gente, tormenta de arena tiktok, 3 metros sobre el cielo escena discoteca, three meters above the sky scene, te he perdido entre la gente 3msc, dorian te he perdido entre la gente, te perdi entre la gente, te he perdido entre la gente ia, la tormenta de arena meme original, la tormenta de arena ai, la tormenta de arena ai video, te he perdido entre la gente cancion, te he perdido entre la gente ai, te he perdido entre la gente tiktok, te he perdido entre la gente pelicula, tormenta de arena ia, tormenta de arena ai, la tormenta de arena ai trend, la tormenta de arena meme origin, la tormenta de arena song meaning, la tormenta de arena ai meme, la tormenta de arena meme, la tormenta de arena мем, la tormenta de arena meme original video, la tormenta de arena club scene, trend la tormenta de arena, la tormenta de arena scene, dorian la tormenta de arena meme, club balcony meme, la tormenta de arena ia, dorian la tormenta de arena ai, meme la tormenta de arena, la tormenta de arena dorian meme, la tormenta de arena original, la tormenta de arena тренд, video original te he perdido entre la gente, la tormenta de arena film, la tormenta de arena mem, la tormenta meme, te he perdido entre la gente escena, la tormenta de arena ai generator, 3 metros sobre el cielo trend, tres metros sobre el cielo escena de la discoteca, escena antro 3msc, escena disco 3msc, 3 metros sobre el cielo escena disco, 3msc trend, i found you in the crowd ai, i found you in the crowd trend, i lost you in the crowd, i lost you in the crowd ai, balcony spotlight trend, tormenta de arena perro, te he perdido entre la gente perro, te he perdido entre la gente gato, la tormenta de arena capcut, te he perdido entre la gente capcut, te he perdido entre la gente plantilla, te he perdido entre la gente tutorial, como hacer el trend de te he perdido entre la gente, tormenta de arena trend ia, 3 metros sobre el cielo trend ia.
 
 ## What is the Club Spotlight Couple trend, and where did it start?
 
@@ -89,12 +89,27 @@ One-tap version of this variant: https://www.makeviral.ai/templates/te-he-perdid
 
 #### Variant: Pet
 
-Settings: 2 photos (pet on the balcony + pet in the spotlight) · h3-recast · 15 s · 720p · 9:16 · no sound · 180 credits in one tap.
+Settings: 2 photos (pet on the balcony + pet in the spotlight) · Seedance 2.5 · 15 s · 720p · 9:16 · no sound · 228 credits in one tap.
 
-1. The video prompt is filled in. Settings: h3-recast, 15 s, 720p, 9:16, sound off. The video prompt:
+1. The video prompt is filled in. Settings: Seedance 2.5, 15 s, 720p, 9:16, sound off. The video prompt:
 
    ```text
-   Image 1 replaces the dog in the black bow tie who stands with its front paws on the balcony rail and looks down, in every shot, also from behind. Image 2 replaces the dog in the cream shirt who stands in the spotlight on the dance floor and looks up, in every shot, also small in the crowd and in the close-up. Keep the face shape, eyes, ears, fur colors, fur length and markings from each image, not those of the dogs in the video, with the natural body volume and proportions of that animal: never flattened, squashed, stretched or merged with anything. The pet from image 1 keeps the black bow tie and the pet from image 2 keeps the cream shirt. Keep the club, the balcony, the bar, the crowd, the blue light, the white spotlight, the moves, the cuts and the camera exactly as in the video. No text, no logos.
+   Recreate the reference video [Video 1] shot for shot: the same dark nightclub with a balcony high above a packed dance floor in deep blue light, the same bar with glowing bottles and guests behind the steel rail, the same white spotlight beam, the same camera angles, cuts, timing and moves. The ONLY change: the dog in the black bow tie who stands with its front paws on the balcony rail is now the pet in [Image 1], and the dog in the cream shirt who sits in the spotlight is now the pet in [Image 2]. Both change: no dog from the video stays, also from behind, small and far in the crowd, and in the close-up.
+
+[Image 1] is the sole look reference for the pet on the balcony, [Image 2] is the sole look reference for the pet in the spotlight, and [Video 1] gives only the moves, the timing and the camera.
+
+The pet on the balcony = the pet in [Image 1], in EVERY shot, also from behind: the same species and breed, head shape, face, eyes, eye color, ears, muzzle, fur colors, fur length and markings as in [Image 1], so its owner instantly recognizes it. It wears the black bow tie of the video on its own fur. Never drift back to the balcony dog of the video: not its face, its ears or its coat unless [Image 1] shows them; from behind, the head, the ears and the fur are those of [Image 1].
+
+The pet in the spotlight = the pet in [Image 2], in EVERY shot, also as a small figure far below in the crowd: the same species and breed, head shape, face, eyes, eye color, ears, muzzle, fur colors, fur length and markings as in [Image 2], so its owner instantly recognizes it. It wears the cream shirt with the white bib of the video. Never drift back to the spotlight dog of the video: not its face, its ears or its coat unless [Image 2] shows them.
+
+Each pet keeps the natural body volume and proportions of its own animal: never flattened, squashed, stretched or merged with anything. Real fur, real animals, not cartoons. If a photo shows a cat or another animal, that animal takes the same place and does the same moves. If both photos show the same pet, it plays both parts. Do not mix the two pets: [Image 1] is only on the balcony, [Image 2] is only in the spotlight.
+
+Shots, matching the reference:
+1. 0-5.2 s: the pet from [Image 1] stands upright with its front paws on the steel rail of the balcony and looks down into the camera with a happy face, the bar lights and the guests behind; the camera slowly pushes in.
+2. 5.2-12.5 s: from behind, over its shoulder: its head and back fill one side of the frame while the camera looks down past it on the packed dance floor in blue light and finds one small pet in a white spotlight, the pet from [Image 2].
+3. 12.5-14.8 s: a close-up from above of the pet from [Image 2] in the spotlight: it sits on the dance floor in the cream shirt and looks up at the camera.
+
+Anatomy rules: one head per pet, on its own body, no extra legs or paws, no human hands. Exactly two animals. The crowd stays small human strangers as in the video, never a copy of the two pets. No text, no logos, no watermark. No dialogue, no background music.
    ```
 
 2. Press Generate, then download the 9:16 MP4.
@@ -140,7 +155,7 @@ The clip is vertical, at 720p, and comes back with the clip's own sound, the te 
 | Human | 2 people: on the balcony, in the spotlight | You and your partner or friend in the club spotlight scene, with your own faces and clothes, the same cuts and camera moves |
 | Pet | 2 pets: on the balcony, in the spotlight | Your two pets in the dog version: pet 1 in a bow tie on the balcony, pet 2 in a little shirt under the spotlight |
 
-The photo order is the same in both versions: photo 1 on the balcony, photo 2 in the spotlight. The Human version runs on Seedance 2.5 as a video edit of the clip. The Pet version runs on a pet swap model that keeps each animal's own fur and face. Both take a few minutes.
+The photo order is the same in both versions: photo 1 on the balcony, photo 2 in the spotlight. The Human version runs on Seedance 2.5 as a video edit of the clip. The Pet version runs on top-quality AI video models that keep each animal's own fur and face. The Human version takes a few minutes, and the Pet version 5 to 15 minutes.
 
 Want another two-person clip? Try the [Raindance pier duet](https://www.makeviral.ai/templates/raindance-ai-trend), the [APT pink studio](https://www.makeviral.ai/templates/apt-ai-trend) or the [Hotel Lobby duet](https://www.makeviral.ai/templates/ai-hotel-lobby-trend).
 
@@ -225,6 +240,15 @@ No. It is made with AI from two still photos, and you never stood in that club. 
 - [AI Reels](https://www.makeviral.ai/tools/ai-reels-generator): Pick a format, give it a topic or a product link, and get a finished vertical reel with voice and captions. Nothing to film, nothing to edit.
 - [AI photo generator](https://www.makeviral.ai/ai-photo-generator)
 - [All AI video templates](https://www.makeviral.ai/templates)
+
+## New AI video trends this week
+
+- [Christmas Dance AI: Do the New TikTok Christmas Dance From Your Photos](https://www.makeviral.ai/templates/christmas-dance-ai-trend): Hip sways with the hands at the collar, rolling arms, a quick spin and raised fists, side by side in matching Christmas pajamas. Add two photos for the duo, one for a solo take, or two pets, and get the dance with the sound.
+- [Cat on Ultra Bee AI: Put Your Pet on the Wheelie](https://www.makeviral.ai/templates/cat-on-ultra-bee-ai-trend): Add one photo, and your cat or dog stands on an electric dirt bike and holds a long wheelie down a city road at golden hour, in the same shots as the viral clip, with its original sound. You can take the ride yourself, too.
+- [Tus Ojos Me Reflejan el Sentimiento: The Cafuné Eye Close-Up Trend](https://www.makeviral.ai/templates/tus-ojos-me-reflejan-ai-trend): You lie on your side, a hand rests on your cheek, warm light falls on your face, and the camera slowly moves in until your eyes fill the screen while the line plays. One photo in, an 8-second vertical clip with the trend's song out.
+- [İnşallah Maşallah AI Trend: Sing Neşe Karaböcek's Song on the Couch](https://www.makeviral.ai/templates/insallah-masallah-ai-trend): You sit on a light grey couch and sing the old Turkish love song straight to the camera: a hand on the heart, a big laugh with both hands on your head, a finger pointed at the camera and a kiss at the end. One photo of you, a grandparent or your pet, and the 15-second clip comes with the song.
+- [Ice Ice Baby Dance AI: Do the Viral Duo Dance With a Friend](https://www.makeviral.ai/templates/ice-ice-baby-dance-ai): Two dancers side by side, the same bouncy 90s steps, a spin on the beat and a strut to the camera. Add a photo of you and a friend, of you alone, or of your pet, and get the dance with the sound.
+- [Save Yourself Trend: Pull Yourself Up From the Cliff](https://www.makeviral.ai/templates/save-yourself-ai-trend): One photo plays both of you: the scared you clinging to a wet sea cliff, and the calm you who reaches down, pulls you up and holds you. Or use two photos: an older photo of you and a new one, or you and a friend. 15 seconds, vertical.
 
 ## Make your own Club Spotlight Couple video
 

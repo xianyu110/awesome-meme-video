@@ -3,7 +3,7 @@
 > The hand pinch filter is the TikTok trend where you close your eyes because "apparently if you close your eyes you can feel it", and a realistic hand pinches and pulls your cheek.
 
 Canonical: https://www.makeviral.ai/templates/hand-pinch-filter-ai
-Updated: 2026-10-20
+Updated: 2026-10-23
 Published: 2026-10-20
 Author: MakeViral Team (https://www.makeviral.ai/about)
 Publisher: MakeViral (https://www.makeviral.ai)
@@ -205,9 +205,18 @@ No. Use your own photo or a photo of an adult friend who agreed, or your pet. We
 
 - [Squishy Face AI Trend: Turn Your Face Into a Squishy Toy From One Photo](https://www.makeviral.ai/templates/squishy-ai-trend): Your face becomes a glossy silicone squishy lying on a wooden table. Two hands squeeze your cheeks, knead you like soft dough, then let go, and your face slowly bounces back. One photo in, an 8-second clip with squish sounds out.
 - [Electric Shock Meme AI: You, Your Dog, Two Wires and Sooty Hair](https://www.makeviral.ai/templates/ai-electric-shock-pet-prank): You and your dog frown over two wires and touch the ends together. A spark, a puff of smoke, and you both sit there with sooty faces and hair standing straight up, then burst out laughing. Add your photo and your pet's.
-- [The End AI Trend: Your Dog or Cat Waving Goodbye, Then It Runs Off](https://www.makeviral.ai/templates/the-end-ai-trend): Your pet walks up to the camera on its hind legs, waves one paw, then turns and runs off down a city road lined with a pink fence. One photo in, an 8-second clip with a whispered "The end" out.
+- [My Girl Couple Trend: A Giant Hand Pinches You Two, Then the Reveal](https://www.makeviral.ai/templates/my-girl-couple-pinch-ai-trend): A giant hand right in front of the lens pinches you and your partner, covering your eyes. Seven seconds later it pulls away and there you are, smiling together. Two photos, 10 seconds, with sound. Besties: the same reveal on a beach at night, with fireworks.
 - [AI photo generator](https://www.makeviral.ai/ai-photo-generator)
 - [All AI video templates](https://www.makeviral.ai/templates)
+
+## New AI video trends this week
+
+- [Christmas Dance AI: Do the New TikTok Christmas Dance From Your Photos](https://www.makeviral.ai/templates/christmas-dance-ai-trend): Hip sways with the hands at the collar, rolling arms, a quick spin and raised fists, side by side in matching Christmas pajamas. Add two photos for the duo, one for a solo take, or two pets, and get the dance with the sound.
+- [Cat on Ultra Bee AI: Put Your Pet on the Wheelie](https://www.makeviral.ai/templates/cat-on-ultra-bee-ai-trend): Add one photo, and your cat or dog stands on an electric dirt bike and holds a long wheelie down a city road at golden hour, in the same shots as the viral clip, with its original sound. You can take the ride yourself, too.
+- [Tus Ojos Me Reflejan el Sentimiento: The Cafuné Eye Close-Up Trend](https://www.makeviral.ai/templates/tus-ojos-me-reflejan-ai-trend): You lie on your side, a hand rests on your cheek, warm light falls on your face, and the camera slowly moves in until your eyes fill the screen while the line plays. One photo in, an 8-second vertical clip with the trend's song out.
+- [İnşallah Maşallah AI Trend: Sing Neşe Karaböcek's Song on the Couch](https://www.makeviral.ai/templates/insallah-masallah-ai-trend): You sit on a light grey couch and sing the old Turkish love song straight to the camera: a hand on the heart, a big laugh with both hands on your head, a finger pointed at the camera and a kiss at the end. One photo of you, a grandparent or your pet, and the 15-second clip comes with the song.
+- [Ice Ice Baby Dance AI: Do the Viral Duo Dance With a Friend](https://www.makeviral.ai/templates/ice-ice-baby-dance-ai): Two dancers side by side, the same bouncy 90s steps, a spin on the beat and a strut to the camera. Add a photo of you and a friend, of you alone, or of your pet, and get the dance with the sound.
+- [Save Yourself Trend: Pull Yourself Up From the Cliff](https://www.makeviral.ai/templates/save-yourself-ai-trend): One photo plays both of you: the scared you clinging to a wet sea cliff, and the calm you who reaches down, pulls you up and holds you. Or use two photos: an older photo of you and a new one, or you and a friend. 15 seconds, vertical.
 
 ## Make your own Hand Pinch Filter video
 

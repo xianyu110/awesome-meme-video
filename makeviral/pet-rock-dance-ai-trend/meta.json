@@ -1,0 +1,64 @@
+{
+  "source": "makeviral",
+  "source_site": "https://www.makeviral.ai",
+  "slug": "pet-rock-dance-ai-trend",
+  "name": "Pet Rock Dance: Your Pet Headbangs Like a Metal Fan",
+  "url": "https://www.makeviral.ai/templates/pet-rock-dance-ai-trend",
+  "markdown_url": "https://www.makeviral.ai/templates/pet-rock-dance-ai-trend.md",
+  "blurb": "The pet rock dance, also called Pet Metal Era, is a TikTok trend that started in November 2026: a pet in a black hoodie stands up and headbangs like a metal fan to a loud rock song, ears flying, then grins into the camera.",
+  "updated": "2026-11-07",
+  "published": "2026-11-07",
+  "credits": 152,
+  "demo_videos": [
+    "https://www.makeviral.ai/media/templates/pet-rock-dance-ai-trend/original-pet-v2.mp4"
+  ],
+  "posters": [
+    "https://www.makeviral.ai/media/templates/pet-rock-dance-ai-trend/original-pet-v1.jpg"
+  ],
+  "prompts": [
+    {
+      "label": "1. The video prompt is filled in. Settings: Seedance 2.5, 10 s, 720p, 9:16, sound off. The video prompt",
+      "variant": null,
+      "kind": "video_prompt",
+      "text": "Recreate the reference video [Video 1] shot for shot: the same bright room with a plain white wall, a light gray floor, a small green rubber toy on the floor at the left and the edge of a wooden shelf at the right, the same soft indoor light, the same fixed phone camera, the same framing, timing and moves, one continuous take with no cuts. The ONLY change: the dog in the black hoodie who stands upright and headbangs like a heavy metal fan is now the person in [Image 1], a real grown adult.\n\nThe headbanger = the person in [Image 1], in EVERY frame: copy the exact face from [Image 1] (the face shape, eye color and eye shape, eyebrows, nose, mouth, skin tone, age, hair color, hair length and hairstyle, and any beard, moustache, glasses or freckles), so their friends recognize them at once, also in the big close-up at the end and while the head whips. A HUMAN head and a human body: never a dog head, no dog ears, no fur, no muzzle, no tail, no pink hair tie. They wear a plain black hoodie like the dog's, never the clothes from [Image 1]. The same real person from the first second to the last: never morph, never drift back to the dog of [Video 1]. If [Image 1] shows an animal, it stays that animal with its own face, fur and markings, not a person.\n\nSize: the person has a grown adult's real size, never shrunk to the dog's size, never a child's body. They stand in the middle of the room, seen from the hips up, with adult shoulders, arms and hands, and the head always inside the frame, never cut off by the top edge.\n\nThe person copies the dog's whole performance with the same timing, like a metal fan at a rock concert. Matching the reference second by second:\n0-0.5 s: the head thrown back, both hands out at shoulder height.\n0.5-2 s: two hard headbangs, the head whips down and back up, the hair (if any) flying.\n2-3 s: they face the camera and throw one fist high in the air.\n3-4.5 s: another big headbang down, then a toss of the head back up.\n4.5-6.5 s: they face the camera and shake the head fast from side to side, both fists pumping.\n6.5-7.5 s: they step toward the camera, still nodding hard.\n7.5-9.9 s: big close-up, the face fills the upper half of the frame, a wide happy grin, both hands up and open, the head bobbing to the beat; at the very end the head whips to one side.\n\nReal live-action footage, natural motion, real skin, five fingers on each hand. No dialogue throughout the entire video. No background music. No text, no captions, no logos, no watermark, no animals, no other people."
+    },
+    {
+      "label": "1. The video prompt is filled in. Settings: Seedance 2.5, 10 s, 720p, 9:16, sound off. The video prompt",
+      "variant": "Pet",
+      "kind": "video_prompt",
+      "text": "Recreate the reference video [Video 1] shot for shot: the same bright room with a plain white wall, a light gray floor, a small green rubber toy on the floor at the left and the edge of a wooden shelf at the right, the same soft indoor light, the same fixed phone camera, the same framing, timing and moves, one continuous take with no cuts. The ONLY change: the dog in the black hoodie who stands upright and headbangs like a heavy metal fan is now the pet in [Image 1].\n\nThe headbanger = the pet in [Image 1], in every frame: the same species and breed, head shape, muzzle, eyes, ears, fur colors, fur length, markings and body shape as in [Image 1], with the natural body volume and proportions of that animal: never flattened, squashed, stretched or merged with anything, so its owner instantly recognizes it, also in the big close-up at the end. It wears the same black hoodie as the dog in [Video 1] and stands upright on its hind legs the whole time. Never drift back to the dog of the original video: not its coat, NO big round tufts of curly fur on the head and ears, NO pink hair tie, NO fluffy pom-pom paws unless [Image 1] shows them. If [Image 1] shows a cat or another animal, that animal headbangs in the same place with the same moves.\n\nThe pet copies the dog's whole performance frame by frame with the same timing, like a metal fan at a rock concert: hard headbangs where the head whips down and back up, the ears and fur fly with every hit, and the front paws pump in the air. Matching the reference second by second:\n0-0.5 s: it stands upright, the head thrown back, both front paws out.\n0.5-2 s: two hard headbangs, the head whips down toward the floor and back up, the ears flying.\n2-3 s: it faces the camera and lifts one front paw high.\n3-4.5 s: another big headbang down, then a toss of the head back up, the fur flying.\n4.5-6.5 s: it faces the camera and shakes its head fast from side to side, ears flapping, paws pumping.\n6.5-7.5 s: it hops toward the camera, still nodding hard.\n7.5-9.9 s: big close-up, its face fills the upper half of the frame, the mouth open in a happy grin, both front paws up and spread wide, the head bobbing to the beat; at the very end it whips its head to one side.\n\nThe pet keeps real animal anatomy: furry forelegs that end in its own paws, never human hands, no fingers, no bare skin. One head only, two hind legs and two front legs, no extra legs or paws. No dialogue throughout the entire video. No background music. No text, no captions or labels on screen, no logos, no watermark, no people, no extra animals."
+    },
+    {
+      "label": "1. The video prompt is filled in. Settings: Seedance 2.5, 10 s, 720p, 9:16, sound on. The video prompt",
+      "variant": "Pet",
+      "kind": "video_prompt",
+      "text": "Two pets headbang side by side like heavy metal fans at a rock concert, sitting upright on a made bed in a cozy bedroom with soft daylight from a window, filmed by a fixed phone camera at bed height, a medium shot that keeps both pets whole and their faces big, one continuous take with no cuts.\n\nThe pet on the LEFT is the pet in [Image 1], in every frame: the same species and breed, head shape, muzzle, eyes, ears, fur colors, fur length, markings and body shape as in [Image 1], with the natural body volume and proportions of that animal, never flattened, squashed or stretched, so its owner recognizes it at once.\nThe pet on the RIGHT is the pet in [Image 2], in every frame: the same species and breed, head shape, muzzle, eyes, ears, fur colors, fur length, markings and body shape as in [Image 2], with the natural body volume and proportions of that animal, never flattened, squashed or stretched.\nNever blend the two pets: each keeps its own face, fur and markings from the first frame to the last. If an image shows a person, that performer is that same person, a grown adult with their own face, sitting on the bed.\n\nThe action, second by second:\n0-1 s: both sit upright on the bed facing the camera, heads still, as the music starts.\n1-4 s: the beat drops: both headbang hard together, the heads whip down and back up, ears and fur flying.\n4-6 s: they shake their heads fast from side to side, front paws pumping in the air.\n6-8 s: another round of hard headbangs in sync with the drums.\n8-10 s: both lean toward the camera, faces big in the frame, mouths open in happy grins, still nodding to the beat.\n\nSound: a loud heavy rock track with distorted electric guitars and pounding drums that hits on every headbang. No vocals, no dialogue.\n\nReal animal anatomy: furry legs that end in their own paws, never human hands, one head each. No text, no captions, no logos, no watermark, no other animals."
+    }
+  ],
+  "variant_headings": [
+    "What is the Pet Rock Dance trend, and where did it start?",
+    "Pet Rock Dance trend timeline",
+    "What the Pet Rock Dance video looks like",
+    "How to make the Pet Rock Dance video on MakeViral",
+    "Which photo works best?",
+    "What happens in the pet rock dance video, second by second?",
+    "Pet, Human or Two pets: which pet metal era version should you make?",
+    "Pet Rock Dance trend questions",
+    "What is the pet rock dance trend?",
+    "What does \"pet metal era\" mean?",
+    "What song is used in the pet rock dance trend?",
+    "How do I make the pet rock dance with my own pet?",
+    "Is the pet rock dance a CapCut template? It says it is not available in my region.",
+    "Can I make a headbanging dog or headbanging cat video?",
+    "Can I do the pet rock dance myself?",
+    "Is there a dancing pet AI app or generator for this?",
+    "How long is the video and what format is it?",
+    "Does the pet rock dance video cost credits?",
+    "Is the video real?",
+    "Other AI video templates and tools",
+    "New AI video trends this week",
+    "Make your own Pet Rock Dance video"
+  ],
+  "prompt_count": 3,
+  "scraped_at": "2026-11-08"
+}

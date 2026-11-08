@@ -1,0 +1,61 @@
+{
+  "source": "remakeyourmeme",
+  "source_site": "https://remakeyourmeme.com",
+  "slug": "hop-hop-hop-ai",
+  "name": "Hop Hop Hop AI Video Generator",
+  "url": "https://remakeyourmeme.com/templates/hop-hop-hop-ai/",
+  "blurb": "2 real videos from this maker, unedited, made October 30, 2026 with photos of AI-generated sample people. Pick a tab to watch each one.",
+  "photos_in": null,
+  "duration_s": 13,
+  "ready_to_make": true,
+  "demo_videos": [
+    "https://cdn.remakeyourmeme.com/trends/hop-hop-hop/7698128108691492126.mp4",
+    "https://cdn.remakeyourmeme.com/trends/hop-hop-hop/7699262571446062366.mp4",
+    "https://cdn.remakeyourmeme.com/trends/hop-hop-hop/7699849893854203157.mp4",
+    "https://cdn.remakeyourmeme.com/trends/hop-hop-hop/7700633763893513494.mp4",
+    "https://cdn.remakeyourmeme.com/trends/hop-hop-hop/7700657705572257044.mp4",
+    "https://cdn.remakeyourmeme.com/wm/remakeyourmeme/examples/hop-hop-hop/sample-1/video.mp4",
+    "https://cdn.remakeyourmeme.com/wm/remakeyourmeme/examples/hop-hop-hop/sample-2/video.mp4"
+  ],
+  "preview_videos": [
+    "https://cdn.remakeyourmeme.com/wm/remakeyourmeme/examples/hop-hop-hop/sample-1/preview-854.mp4",
+    "https://cdn.remakeyourmeme.com/wm/remakeyourmeme/examples/hop-hop-hop/sample-2/preview-854.mp4"
+  ],
+  "posters": [
+    "https://cdn.remakeyourmeme.com/examples/hop-hop-hop/sample-1/input-1.jpg",
+    "https://cdn.remakeyourmeme.com/examples/hop-hop-hop/sample-1/input-2.jpg",
+    "https://cdn.remakeyourmeme.com/examples/hop-hop-hop/sample-1/poster.jpg",
+    "https://cdn.remakeyourmeme.com/examples/hop-hop-hop/sample-2/input-1.jpg",
+    "https://cdn.remakeyourmeme.com/examples/hop-hop-hop/sample-2/input-2.jpg",
+    "https://cdn.remakeyourmeme.com/examples/hop-hop-hop/sample-2/poster.jpg",
+    "https://cdn.remakeyourmeme.com/trends/hop-hop-hop/7698128108691492126.webp",
+    "https://cdn.remakeyourmeme.com/trends/hop-hop-hop/7699262571446062366.webp",
+    "https://cdn.remakeyourmeme.com/trends/hop-hop-hop/7699849893854203157.webp",
+    "https://cdn.remakeyourmeme.com/trends/hop-hop-hop/7700633763893513494.webp",
+    "https://cdn.remakeyourmeme.com/trends/hop-hop-hop/7700657705572257044.webp"
+  ],
+  "all_cdn_mp4": [
+    "https://cdn.remakeyourmeme.com/templates/24k-magic/video.mp4",
+    "https://cdn.remakeyourmeme.com/templates/car-alarm-dance/video.mp4",
+    "https://cdn.remakeyourmeme.com/templates/chipmunks-dance/video.mp4",
+    "https://cdn.remakeyourmeme.com/templates/gangnam-style/video.mp4",
+    "https://cdn.remakeyourmeme.com/templates/no-scrubs/video.mp4",
+    "https://cdn.remakeyourmeme.com/templates/vossi-bop/video.mp4",
+    "https://cdn.remakeyourmeme.com/trends/hop-hop-hop/7698128108691492126.mp4",
+    "https://cdn.remakeyourmeme.com/trends/hop-hop-hop/7699262571446062366.mp4",
+    "https://cdn.remakeyourmeme.com/trends/hop-hop-hop/7699849893854203157.mp4",
+    "https://cdn.remakeyourmeme.com/trends/hop-hop-hop/7700633763893513494.mp4",
+    "https://cdn.remakeyourmeme.com/trends/hop-hop-hop/7700657705572257044.mp4",
+    "https://cdn.remakeyourmeme.com/wm/remakeyourmeme/examples/hop-hop-hop/sample-1/preview-854.mp4",
+    "https://cdn.remakeyourmeme.com/wm/remakeyourmeme/examples/hop-hop-hop/sample-1/video.mp4",
+    "https://cdn.remakeyourmeme.com/wm/remakeyourmeme/examples/hop-hop-hop/sample-2/preview-854.mp4",
+    "https://cdn.remakeyourmeme.com/wm/remakeyourmeme/examples/hop-hop-hop/sample-2/video.mp4"
+  ],
+  "prompts": [],
+  "prompt_count": 0,
+  "prompts_public": false,
+  "note": "Remake Your Meme does not publish copyable prompt text on public template pages (one-tap remake). Inventory keeps demos, posters, and metadata only.",
+  "scraped_at": "2026-11-08",
+  "published": null,
+  "updated": null
+}

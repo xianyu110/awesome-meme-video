@@ -8,11 +8,13 @@ The champagne birthday trend is a TikTok birthday video: you sit on a park bench
 ## Demo videos (CDN)
 
 - https://www.makeviral.ai/media/templates/champagne-birthday-ai-trend/original-pop-v2.mp4
+- https://www.makeviral.ai/media/templates/champagne-birthday-ai-trend/original-roof-v2.mp4
 - https://www.makeviral.ai/media/templates/champagne-birthday-ai-trend/original-sunroof-v2.mp4
 
 ## Posters
 
 - https://www.makeviral.ai/media/templates/champagne-birthday-ai-trend/original-pop-v1.jpg
+- https://www.makeviral.ai/media/templates/champagne-birthday-ai-trend/original-roof-v1.jpg
 - https://www.makeviral.ai/media/templates/champagne-birthday-ai-trend/original-sunroof-v1.jpg
 
 ## Prompts
@@ -39,7 +41,91 @@ Avoid: other text or captions, logos, a brand or label on the bottle, watermarks
 Anatomy rules: one head only, on the person's own shoulders. Exactly one person. Two arms, two legs, five fingers on each hand. One bottle. A face never appears on hands, legs or clothes.
 ```
 
-### 2. 1. The video prompt is filled in. Settings: Seedance 2.5, 10 s, 720p, 9:16, sound on. The video prompt
+### 2. 1. The video prompt is filled in. Settings: Seedance 2.5, 5 s, 720p, 9:16, sound off. The video prompt
+
+*Kind: video_prompt*
+
+```text
+Change the man in [Video 1] to the person in [Image 1] and keep everything the same.
+
+Recreate the reference video [Video 1] shot for shot: the same city street at night, the same boxy black SUV rolling slowly beside the camera car, the same handheld phone shot from the next lane with the side mirror of the camera car in the lower left corner, the same framing, timing and moves. The ONLY change: the man in the light grey tracksuit who sits on the edge of the open roof is now the person in [Image 1].
+
+The roof person = the person in [Image 1], in EVERY frame: copy the exact face from [Image 1] (the face shape, eye color and eye shape, eyebrows, nose, mouth, skin tone, age, hair color, hair length and hairstyle, and any beard, moustache, glasses or freckles), exactly as in the photo. They wear the clothes from [Image 1], with shoes that fit the outfit; if [Image 1] shows only the upper body, invent the rest so it matches naturally. NO light grey tracksuit, NO grey hooded jacket, NO white sneakers and NO shaved head unless [Image 1] shows them: the hair color, length and style of [Image 1]. The same real person in every frame, so their friends recognize them at once, also while they drink with the head back, while the spray passes the face and while the arm is up. Never morph, never drift back to the original man's face.
+
+The driver stays in the driver's seat behind the open window, a dim, generic adult in the dark car, hands on the wheel: never the face from [Image 1], never a second copy of the roof person.
+
+THE CAR stays exactly as in [Video 1]: a boxy black SUV with a square body, glossy black paint and dark windows. No badges, no emblems, no grille logo, no lettering, no readable number plate.
+
+THE MOVES, second by second, exactly as in [Video 1]:
+00:00-00:02: the person sits on the edge of the open roof above the driver's door, one leg inside the car, and shakes a dark green champagne bottle with both hands, grinning.
+00:02-00:03: the cork pops and a long jet of champagne sprays high up and away into the night air; the person leans back and points the bottle at the sky.
+00:03-00:04: the person drinks from the bottle with the head tilted back, drops and foam fly off it, then lowers it and laughs.
+00:04-00:04.9: the person tosses the bottle high into the air and keeps one arm raised, the hand open and empty.
+
+Real live-action phone footage at night, street lights, clear face, no distortion. The spray is liquid only: real droplets and foam, no fire, no smoke, no sparks.
+
+Avoid: text, captions, logos, a brand or label on the bottle, watermarks, extra people, morphing, facial distortion.
+
+Anatomy rules: one head only, on the roof person's own shoulders. Exactly one person on the roof and one driver. Two arms, two legs, five fingers on each hand. One bottle, and nothing else in the hands.
+```
+
+### 3. 1. The video prompt is filled in. Settings: Seedance 2.5, 5 s, 720p, 9:16, sound off. The video prompt
+
+*Kind: video_prompt*
+
+```text
+Change the man in [Video 1] to the person in [Image 1] and keep everything the same.
+
+Recreate the reference video [Video 1] shot for shot: the same city street at night, the same boxy black SUV rolling slowly beside the camera car, the same handheld phone shot from the next lane with the side mirror of the camera car in the lower left corner, the same framing, timing and moves. The ONLY changes: the man in the light grey tracksuit who sits on the edge of the open roof is now the person in [Image 1], and the boxy black SUV is now the vehicle in [Image 2].
+
+The roof person = the person in [Image 1], in EVERY frame: copy the exact face from [Image 1] (the face shape, eye color and eye shape, eyebrows, nose, mouth, skin tone, age, hair color, hair length and hairstyle, and any beard, moustache, glasses or freckles), exactly as in the photo. They wear the clothes from [Image 1], with shoes that fit the outfit; if [Image 1] shows only the upper body, invent the rest so it matches naturally. NO light grey tracksuit, NO grey hooded jacket, NO white sneakers and NO shaved head unless [Image 1] shows them: the hair color, length and style of [Image 1]. The same real person in every frame, so their friends recognize them at once, also while they drink with the head back, while the spray passes the face and while the arm is up. Never morph, never drift back to the original man's face.
+
+The driver stays in the driver's seat behind the open window, a dim, generic adult in the dark car, hands on the wheel: never the face from [Image 1], never a second copy of the roof person.
+
+THE CAR = the vehicle in [Image 2], in EVERY frame: its body shape, size, paint color, wheels, lights and windows as in [Image 2], with an open roof where the person sits. Never the boxy black SUV of the video unless [Image 2] shows it. A convertible, a pickup or a van takes the SUV's place at its real size. No badges, no brand names, no readable number plate.
+
+THE MOVES, second by second, exactly as in [Video 1]:
+00:00-00:02: the person sits on the edge of the open roof above the driver's door, one leg inside the car, and shakes a dark green champagne bottle with both hands, grinning.
+00:02-00:03: the cork pops and a long jet of champagne sprays high up and away into the night air; the person leans back and points the bottle at the sky.
+00:03-00:04: the person drinks from the bottle with the head tilted back, drops and foam fly off it, then lowers it and laughs.
+00:04-00:04.9: the person tosses the bottle high into the air and keeps one arm raised, the hand open and empty.
+
+Real live-action phone footage at night, street lights, clear face, no distortion. The spray is liquid only: real droplets and foam, no fire, no smoke, no sparks.
+
+Avoid: text, captions, logos, a brand or label on the bottle, watermarks, extra people, morphing, facial distortion.
+
+Anatomy rules: one head only, on the roof person's own shoulders. Exactly one person on the roof and one driver. Two arms, two legs, five fingers on each hand. One bottle, and nothing else in the hands.
+```
+
+### 4. 1. The video prompt is filled in. Settings: Seedance 2.5, 5 s, 720p, 9:16, sound off. The video prompt (Pet)
+
+*Kind: video_prompt*
+
+```text
+Change the man in [Video 1] to the pet in [Image 1] and keep everything the same.
+
+Recreate the reference video [Video 1] shot for shot: the same city street at night, the same boxy black SUV rolling slowly beside the camera car, the same handheld phone shot from the next lane with the side mirror of the camera car in the lower left corner, the same framing, timing and moves. The ONLY change: the man in the light grey tracksuit who sits on the edge of the open roof is now the pet in [Image 1], and the champagne bottle stands in a small black bottle holder fixed on the roof edge right beside the pet.
+
+The roof pet = the pet in [Image 1], in EVERY frame: the same species and breed, head shape, face, eyes, ears, muzzle, fur colors, fur length and markings as in [Image 1], with the natural body volume and proportions of that animal: never flattened, squashed, stretched or merged with anything, so its owner recognizes it at once, also while the spray falls around it. Whether [Image 1] shows a dog, a cat or another animal, it stays that animal, sitting upright on the edge of the open roof above the driver's door at the natural size of that animal, happy and excited. Its own fur from head to toe, with a collar only if [Image 1] shows one: NO light grey tracksuit, NO hood, NO sneakers, NO human body and NO human hands.
+
+The driver stays in the driver's seat behind the open window, a dim, generic adult in the dark car, hands on the wheel: never the pet, never a second animal.
+
+THE CAR stays exactly as in [Video 1]: a boxy black SUV with a square body, glossy black paint and dark windows. No badges, no emblems, no grille logo, no lettering, no readable number plate.
+
+THE MOVES, second by second, at the times of [Video 1]:
+00:00-00:02: the pet sits on the roof edge and noses and paws at the dark green champagne bottle in its holder; the bottle shakes and fizzes, the pet wags and looks at the camera.
+00:02-00:03: the cork pops by itself and a long jet of champagne sprays from the bottle high up and away into the night air, away from the pet; the pet leans back and looks up at the spray.
+00:03-00:04: drops and foam fall around it; the pet blinks, shakes its head and looks happy. It never drinks from the bottle.
+00:04-00:04.9: the pet lifts one front paw high in the air, proud; the bottle stays in its holder, still foaming.
+
+Real live-action phone footage at night, street lights, the pet's face clear, no distortion. The spray is liquid only: real droplets and foam, no fire, no smoke, no sparks.
+
+Avoid: text, captions, logos, a brand or label on the bottle, watermarks, extra people, extra animals, morphing.
+
+Anatomy rules: one head only, one muzzle, natural teeth and tongue. Exactly one pet on the roof and one driver. Four legs with animal paws, never a human hand; the paws never hold or grip the bottle. One bottle, always in its holder.
+```
+
+### 5. 1. The video prompt is filled in. Settings: Seedance 2.5, 10 s, 720p, 9:16, sound on. The video prompt
 
 *Kind: video_prompt*
 

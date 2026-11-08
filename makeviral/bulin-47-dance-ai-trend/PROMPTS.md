@@ -8,10 +8,12 @@ The Bulin 47 dance, also called the Dame Hombro dance, is the dembow routine tha
 ## Demo videos (CDN)
 
 - https://www.makeviral.ai/media/templates/bulin-47-dance-ai-trend/original-crew-v2.mp4
+- https://www.makeviral.ai/media/templates/bulin-47-dance-ai-trend/original-pet-v2.mp4
 
 ## Posters
 
 - https://www.makeviral.ai/media/templates/bulin-47-dance-ai-trend/original-crew-v1.jpg
+- https://www.makeviral.ai/media/templates/bulin-47-dance-ai-trend/original-pet-v1.jpg
 
 ## Prompts
 
@@ -46,5 +48,28 @@ The dance, matching the reference second by second, on the beat:
 12-13.5 s: shoulder bounces with small squats on the beat.
 
 Smooth moves, solid footing, the light stays the same. Anatomy rules: one head per dancer, on their own shoulders. A face never appears on knees, legs, hands or clothes. Two arms and two legs each, no extra limbs. Exactly three people: the identities never drift, no extra people on the street. No text, no subtitles, no logos, no watermark.
+```
+
+### 3. 1. The video prompt is filled in. Settings: Seedance 2.5, 14 s, 720p, 9:16, sound off. The video prompt (Pet)
+
+*Kind: video_prompt*
+
+```text
+Motion transfer and character replacement. Recreate the reference video [Video 1] shot for shot: the same sunny kitchen with the steel fridge, the wooden cabinets and the white tiled floor, the same fixed phone camera, the same framing, timing and dance moves, one continuous take with no cuts, the dancer in full view from the ears to the feet. Every move keeps the same timing and rhythm. The ONLY change: the dog who stands upright on its hind legs in the middle of the kitchen and dances is now the pet in [Image 1].
+
+The dancer = the pet in [Image 1], in EVERY frame: the same species and breed, head shape, muzzle, eyes, ears, fur colors, fur length and markings as in [Image 1], with the natural body volume and proportions of that animal: never flattened, squashed, stretched or merged with anything, so its owner instantly recognizes it from the first second to the last. A dog stays a dog and a cat stays a cat: if [Image 1] shows a cat or another animal, that animal stands upright on its hind legs in the same kitchen and dances the same moves, with its own face, ears, whiskers and tail. Never drift back to the dog of the original video: not the coat, not the face and not the ears of the dog in the video, unless [Image 1] shows them. No clothes, no collar and no accessories unless [Image 1] shows them.
+
+The dance, beat by beat, exactly as in [Video 1], upright on the hind legs the whole time:
+0-2.5 s: side-on to the camera, the front paws roll in front of the chest and the hips sway.
+2.5-3.5 s: it turns to the camera with small paw pumps, then a paw on the chest.
+3.5-5.5 s: the front paws cross at the chest, quick shoulder bounces and a little bounce on the hind legs.
+5.5-7.5 s: both front legs sweep out wide, and it leans and tilts the head from side to side.
+7.5-9.5 s: one paw comes up beside the face, then the front paws make a heart shape at the chest.
+9.5-11.5 s: the paws roll and cross at the chest with small shoulder shimmies.
+11.5-14 s: a paw at the mouth, then it turns side-on again with the tail out and bounces to the end.
+
+Smooth moves, solid footing, the light stays the same. Real live-action footage, a clear and stable face, real animal anatomy, the same pet with the same fur in every frame.
+
+Anatomy rules: one head only. Two hind legs and two front legs, furry paws covered in the pet's own fur, never human hands or fingers, no extra legs or paws. Exactly one animal: the identity never drifts, no people, no extra animals. No text, no captions, no logos, no watermark.
 ```
 

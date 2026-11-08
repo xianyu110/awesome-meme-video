@@ -3,7 +3,7 @@
 > The car jump AI video is the "unbothered" trend: you sit calm in a folding camp chair in a golden field, raise one fist, and a black pickup flies over the field behind you in slow motion and lands at your back.
 
 Canonical: https://www.makeviral.ai/templates/ai-car-jump-trend
-Updated: 2026-10-15
+Updated: 2026-11-04
 Published: 2026-10-14
 Author: MakeViral Team (https://www.makeviral.ai/about)
 Publisher: MakeViral (https://www.makeviral.ai)
@@ -12,11 +12,11 @@ The **car jump AI video** is the "unbothered" trend: you sit calm in a folding c
 
 You sit in a folding camp chair with your legs crossed, raise one fist, and a black pickup flies over the field behind you and lands at your back. You never turn around. Add a selfie, or a selfie and a photo of your own car.
 
-Also called: unbothered car trend, unbothered car stunt, camp chair car jump.
+Also called: unbothered car trend, unbothered car stunt, camp chair car jump, sheep stampede trend.
 
 **Make it now:** [Make this video](https://www.makeviral.ai/templates/ai-car-jump-trend/create). 1 photo · 10 s · 9:16 with sound · 152 credits, charged once · ready in up to several minutes · no prompt to write.
 
-Keyword: car jump ai video. Also answers: car jump video, car jumping video, car jump ai, ai car jump, car jump trend, ai car jump trend, car jump ai trend, car jump ai video editing, car jump video editing, instagram viral car jumping video, car jump meme, car jump tiktok, car jump ai video generator, car jump video prompt, car jumping ai video prompt, trending car jump prompt, trending car jump video prompt, car jump trending video, car jumping ai video, car jump ai prompt, car jump ai video prompt, instagram car jump video, car flies over me ai, truck jumps over me ai.
+Keyword: car jump ai video. Also answers: car jump video, car jumping video, car jump ai, ai car jump, car jump trend, ai car jump trend, car jump ai trend, car jump ai video editing, car jump video editing, instagram viral car jumping video, car jump meme, car jump tiktok, car jump ai video generator, car jump video prompt, car jumping ai video prompt, trending car jump prompt, trending car jump video prompt, car jump trending video, car jumping ai video, car jump ai prompt, car jump ai video prompt, instagram car jump video, car flies over me ai, truck jumps over me ai, sheep stampede ai video, sheep ai video, sheep jumping ai video, sheep running ai video.
 
 ## What is the Car Jump AI trend, and where did it start?
 
@@ -39,6 +39,9 @@ Made from the prompts on this page. The people and pets are AI-made, not real pe
 - **Example 1** (10 s, 9:16 MP4 with sound): The original reel by @ya_danilova01, the AI clip that started the trend: she put her own face into it. A black pickup flies over the field behind her and lands at her back while she stays calm. Your photo takes her place. Shown: the last 10 seconds, with the car badges blurred.
   - Video: https://www.makeviral.ai/media/templates/ai-car-jump-trend/original-main-v2.mp4
   - Poster: https://www.makeviral.ai/media/templates/ai-car-jump-trend/original-main-v1.jpg
+- **Example 2** (12 s, 9:16 MP4 with sound): The sheep version, posted by @damdari_khaleghi: a herd of sheep charges over the ridge and leaps past behind the man in the camp chair while he stays calm. Your photo takes his place in Sheep stampede. Shown: the whole 12-second reel.
+  - Video: https://www.makeviral.ai/media/templates/ai-car-jump-trend/original-sheep-v2.mp4
+  - Poster: https://www.makeviral.ai/media/templates/ai-car-jump-trend/original-sheep-v1.jpg
 
 ## How to make the Car Jump AI video on MakeViral
 
@@ -112,6 +115,37 @@ Anatomy rules: one head only, on the person's own shoulders. Two arms and two ha
 
 One-tap version of this variant: https://www.makeviral.ai/templates/ai-car-jump-trend/create?variant=car
 
+#### Variant: Sheep stampede
+
+Settings: 1 photo (your photo) · Seedance 2.5 · 12 s · 720p · 9:16 · no sound · 183 credits in one tap.
+
+1. The video prompt is filled in. Settings: Seedance 2.5, 12 s, 720p, 9:16, sound off. The video prompt:
+
+   ```text
+   Keep every detail of the reference video [Video 1] exactly the same, including the camera angle, camera movement, framing, composition, perspective, lighting, color grading, exposure, shadows, highlights, atmosphere, and overall visual style.
+Only replace the person in the video with the person from the reference image [Image 1]. Preserve the reference person's identity with maximum accuracy, including their exact facial structure, proportions, skin tone, eyes, nose, lips, jawline, and all distinctive facial features. Make sure the replacement looks completely natural and seamlessly integrated into the original video.
+Do not change anything else about the scene, camera, lighting, colors, or motion.
+Keep the herd of sheep exactly as in [Video 1]: the same sheep, the same run and the same leaps.
+The final result should look photorealistic and seamless, as if the original video was filmed this way.
+
+Recreate [Video 1] shot for shot, in one continuous take: the golden pasture at sunset by the river, the black folding camp chair, the herd of sheep that bursts over the ridge, charges down, leaps through the air behind the chair and streams past it in golden dust, the same camera, framing and timing. The ONLY change: the man in the camp chair is now the person in [Image 1].
+
+The one in the camp chair = the person in [Image 1], in EVERY frame: copy the exact face from [Image 1] - face shape, eye color and eye shape, eyebrows, nose, mouth, skin tone, age, hair color, hair length and hairstyle, and any beard, moustache, glasses or freckles exactly as in the photo. They wear the clothes from [Image 1]; if it shows only the upper body, invent the rest to match. The same real person from the first second to the last, so their friends instantly recognize them, also in the dust at the end. Never morph, never drift back to the original man's face. NO sunglasses: no glasses of any kind unless [Image 1] shows glasses. No beard, no light blue T-shirt and no black trousers unless [Image 1] shows them. If [Image 1] shows an animal, the one in the chair is that animal, sitting upright in the camp chair, with its own face, fur and markings and its natural body proportions: never flattened or stretched.
+
+The moves, second by second:
+0-3 s: sits calm in the chair, legs crossed, and glances around.
+3-4 s: raises one hand in a loose fist, as if snapping the fingers, as the first sheep come over the ridge behind.
+4-6.5 s: the herd charges down toward the chair. The person lowers the hand and stays still and calm, never turning around.
+6.5-9 s: sheep leap through the air in slow motion behind and beside the chair; one runs past in front.
+9-12 s: the herd streams past both sides of the chair in thick dust; the person stays seated, unbothered.
+
+No dialogue throughout the entire video. No background music. Anatomy rules: one head only, on the person's own shoulders. Two arms and two hands. No sheep touches the person or has a human face. Only sheep in the herd, no cows or goats. No text, no logos, no watermark, no extra people.
+   ```
+
+2. Press Generate, then download the 9:16 MP4.
+
+One-tap version of this variant: https://www.makeviral.ai/templates/ai-car-jump-trend/create?variant=sheep
+
 ### Which photo works best?
 
 Upload **one photo of you** for Any car, or **two photos** for Your car (you first, then your car).
@@ -152,6 +186,8 @@ MakeViral puts you into @ya_danilova01's original AI reel itself. The field, the
 - **Your car** (2 photos): photo 1 is you, photo 2 is your car. Your car takes the pickup's place: it bursts over the ridge, flies over the field behind you and lands at your back. A how-to on YouTube made this version popular a few days after the original.
 
 Both use the same reel, the same sound and the same model, and both cost the same. Your car works with any vehicle in the photo; badges, lettering and number plates come out blurred or blank on purpose.
+
+**Sheep stampede** (1 photo) is the trend's sheep twist, which livestock farmers in Iran and Uzbekistan made popular from 3 October 2026: you sit calm in the camp chair by a river while a whole herd of sheep charges over the ridge and leaps past behind you in golden dust. It copies a 12-second reel posted by @damdari_khaleghi on 6 October, with its sound.
 
 ## What goes wrong, and how do you fix it?
 
@@ -212,6 +248,10 @@ Yes. Your car takes a second photo, your vehicle, and puts it in place of the bl
 
 No. We blurred the badges in the reel, and the prompt asks for no badges, lettering or readable number plates, also on your own car.
 
+### Is there a sheep stampede AI video version?
+
+Yes. Sheep stampede is the sheep AI video of the trend: you sit calm in the camp chair while a herd of sheep comes running over the ridge, jumping through the air behind you and past your chair. It takes one photo and gives you 12 seconds with the reel's sound; you can try a pet photo too: the pet sits in the chair, and results vary more than with people.
+
 ### Can I use a photo of my pet?
 
 You can try. When the photo shows an animal, the prompt sits that animal upright in the camp chair. The reel was made for a person, so results with pets vary more.
@@ -241,6 +281,15 @@ No. Use your own photo, or a friend who said yes. Never a celebrity or a strange
 - [AI Reels](https://www.makeviral.ai/tools/ai-reels-generator): Pick a format, give it a topic or a product link, and get a finished vertical reel with voice and captions. Nothing to film, nothing to edit.
 - [AI photo generator](https://www.makeviral.ai/ai-photo-generator)
 - [All AI video templates](https://www.makeviral.ai/templates)
+
+## New AI video trends this week
+
+- [Christmas Dance AI: Do the New TikTok Christmas Dance From Your Photos](https://www.makeviral.ai/templates/christmas-dance-ai-trend): Hip sways with the hands at the collar, rolling arms, a quick spin and raised fists, side by side in matching Christmas pajamas. Add two photos for the duo, one for a solo take, or two pets, and get the dance with the sound.
+- [Cat on Ultra Bee AI: Put Your Pet on the Wheelie](https://www.makeviral.ai/templates/cat-on-ultra-bee-ai-trend): Add one photo, and your cat or dog stands on an electric dirt bike and holds a long wheelie down a city road at golden hour, in the same shots as the viral clip, with its original sound. You can take the ride yourself, too.
+- [Tus Ojos Me Reflejan el Sentimiento: The Cafuné Eye Close-Up Trend](https://www.makeviral.ai/templates/tus-ojos-me-reflejan-ai-trend): You lie on your side, a hand rests on your cheek, warm light falls on your face, and the camera slowly moves in until your eyes fill the screen while the line plays. One photo in, an 8-second vertical clip with the trend's song out.
+- [İnşallah Maşallah AI Trend: Sing Neşe Karaböcek's Song on the Couch](https://www.makeviral.ai/templates/insallah-masallah-ai-trend): You sit on a light grey couch and sing the old Turkish love song straight to the camera: a hand on the heart, a big laugh with both hands on your head, a finger pointed at the camera and a kiss at the end. One photo of you, a grandparent or your pet, and the 15-second clip comes with the song.
+- [Ice Ice Baby Dance AI: Do the Viral Duo Dance With a Friend](https://www.makeviral.ai/templates/ice-ice-baby-dance-ai): Two dancers side by side, the same bouncy 90s steps, a spin on the beat and a strut to the camera. Add a photo of you and a friend, of you alone, or of your pet, and get the dance with the sound.
+- [Save Yourself Trend: Pull Yourself Up From the Cliff](https://www.makeviral.ai/templates/save-yourself-ai-trend): One photo plays both of you: the scared you clinging to a wet sea cliff, and the calm you who reaches down, pulls you up and holds you. Or use two photos: an older photo of you and a new one, or you and a friend. 15 seconds, vertical.
 
 ## Make your own Car Jump AI video
 

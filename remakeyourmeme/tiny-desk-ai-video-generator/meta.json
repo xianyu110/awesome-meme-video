@@ -1,0 +1,62 @@
+{
+  "source": "remakeyourmeme",
+  "source_site": "https://remakeyourmeme.com",
+  "slug": "tiny-desk-ai-video-generator",
+  "name": "Outstanding Tiny Desk AI Video Generator",
+  "url": "https://remakeyourmeme.com/templates/tiny-desk-ai-video-generator/",
+  "blurb": "2 real videos from this maker, unedited, made October 27, 2026 with photos of AI-generated sample people. Pick a tab to watch each one.",
+  "photos_in": null,
+  "duration_s": 13,
+  "ready_to_make": true,
+  "demo_videos": [
+    "https://cdn.remakeyourmeme.com/trends/tiny-desk/7273609193888697643.mp4",
+    "https://cdn.remakeyourmeme.com/trends/tiny-desk/7698160711830129934.mp4",
+    "https://cdn.remakeyourmeme.com/trends/tiny-desk/7699712149400128799.mp4",
+    "https://cdn.remakeyourmeme.com/trends/tiny-desk/7700260501552450847.mp4",
+    "https://cdn.remakeyourmeme.com/trends/tiny-desk/7700499002558663949.mp4",
+    "https://cdn.remakeyourmeme.com/wm/remakeyourmeme/examples/tiny-desk/sample-1/video.mp4",
+    "https://cdn.remakeyourmeme.com/wm/remakeyourmeme/examples/tiny-desk/sample-2/video.mp4"
+  ],
+  "preview_videos": [
+    "https://cdn.remakeyourmeme.com/wm/remakeyourmeme/examples/tiny-desk/sample-1/preview-854.mp4",
+    "https://cdn.remakeyourmeme.com/wm/remakeyourmeme/examples/tiny-desk/sample-2/preview-854.mp4"
+  ],
+  "posters": [
+    "https://cdn.remakeyourmeme.com/examples/tiny-desk/sample-1/input-1.jpg",
+    "https://cdn.remakeyourmeme.com/examples/tiny-desk/sample-1/input-2.jpg",
+    "https://cdn.remakeyourmeme.com/examples/tiny-desk/sample-1/input-3.jpg",
+    "https://cdn.remakeyourmeme.com/examples/tiny-desk/sample-1/input-4.jpg",
+    "https://cdn.remakeyourmeme.com/examples/tiny-desk/sample-1/input-5.jpg",
+    "https://cdn.remakeyourmeme.com/examples/tiny-desk/sample-1/poster.jpg",
+    "https://cdn.remakeyourmeme.com/examples/tiny-desk/sample-2/input-1.jpg",
+    "https://cdn.remakeyourmeme.com/examples/tiny-desk/sample-2/input-2.jpg",
+    "https://cdn.remakeyourmeme.com/examples/tiny-desk/sample-2/input-3.jpg",
+    "https://cdn.remakeyourmeme.com/examples/tiny-desk/sample-2/poster.jpg",
+    "https://cdn.remakeyourmeme.com/trends/tiny-desk/7273609193888697643.webp",
+    "https://cdn.remakeyourmeme.com/trends/tiny-desk/7698160711830129934.webp",
+    "https://cdn.remakeyourmeme.com/trends/tiny-desk/7699712149400128799.webp",
+    "https://cdn.remakeyourmeme.com/trends/tiny-desk/7700260501552450847.webp",
+    "https://cdn.remakeyourmeme.com/trends/tiny-desk/7700499002558663949.webp"
+  ],
+  "all_cdn_mp4": [
+    "https://cdn.remakeyourmeme.com/templates/chipmunks-dance/video.mp4",
+    "https://cdn.remakeyourmeme.com/templates/no-scrubs/video.mp4",
+    "https://cdn.remakeyourmeme.com/templates/vossi-bop/video.mp4",
+    "https://cdn.remakeyourmeme.com/trends/tiny-desk/7273609193888697643.mp4",
+    "https://cdn.remakeyourmeme.com/trends/tiny-desk/7698160711830129934.mp4",
+    "https://cdn.remakeyourmeme.com/trends/tiny-desk/7699712149400128799.mp4",
+    "https://cdn.remakeyourmeme.com/trends/tiny-desk/7700260501552450847.mp4",
+    "https://cdn.remakeyourmeme.com/trends/tiny-desk/7700499002558663949.mp4",
+    "https://cdn.remakeyourmeme.com/wm/remakeyourmeme/examples/tiny-desk/sample-1/preview-854.mp4",
+    "https://cdn.remakeyourmeme.com/wm/remakeyourmeme/examples/tiny-desk/sample-1/video.mp4",
+    "https://cdn.remakeyourmeme.com/wm/remakeyourmeme/examples/tiny-desk/sample-2/preview-854.mp4",
+    "https://cdn.remakeyourmeme.com/wm/remakeyourmeme/examples/tiny-desk/sample-2/video.mp4"
+  ],
+  "prompts": [],
+  "prompt_count": 0,
+  "prompts_public": false,
+  "note": "Remake Your Meme does not publish copyable prompt text on public template pages (one-tap remake). Inventory keeps demos, posters, and metadata only.",
+  "scraped_at": "2026-11-08",
+  "published": null,
+  "updated": null
+}

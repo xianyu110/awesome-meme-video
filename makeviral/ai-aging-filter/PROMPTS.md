@@ -1,0 +1,38 @@
+# AI Aging Filter: See Yourself Get Older, Age by Age, From One Photo
+
+- Source: [makeviral](https://www.makeviral.ai/templates/ai-aging-filter)
+- Slug: `ai-aging-filter`
+
+The ai aging filter is the "me at every age" trend: one photo becomes a video of you getting older, one age per beat, in the same pose and place.
+
+## Demo videos (CDN)
+
+- https://www.makeviral.ai/media/templates/ai-aging-filter/original-main-v1.mp4
+
+## Posters
+
+- https://www.makeviral.ai/media/templates/ai-aging-filter/original-main-v1.jpg
+
+## Prompts
+
+### 1. 1. The video prompt is filled in. Settings: Seedance 2.5, 10 s, 720p, 9:16, sound on. The video prompt
+
+*Kind: video_prompt*
+
+```text
+A viral AI aging filter video: the person in [Image 1] gets older step by step, one age on each beat, like their own photo coming to life. Vertical 9:16, photorealistic, a locked-off camera: the same framing, the same pose, the same place, the same light and the same background as [Image 1] in every frame. Only the age changes.
+
+THE PERSON is the person in [Image 1], in every frame: copy the exact face from [Image 1] (the face shape, eye color and eye shape, eyebrows, nose, mouth, ears, skin tone, and any moles, freckles or glasses), so their friends recognize them at once at every age. A woman stays a woman, a man stays a man. The same clothes as in [Image 1] at every age (any print or logo stays plain), their own hairstyle and hair length, the hair color turning grey and then white. A beard only if [Image 1] has one. Exactly one person.
+
+The steps, each one a quick, smooth morph of about half a second on the beat, with no cut, no flash and no camera move:
+0-2 s: the person exactly as in [Image 1], at their age in the photo, with a small natural blink and breath.
+2-4 s: the same person at about 25, a young adult: smooth skin, full hair in their own color, bright eyes.
+4-6 s: the same person at about 40: the first fine lines around the eyes and the mouth, a few grey hairs at the temples, a slightly fuller face.
+6-8 s: the same person at about 60: deeper lines, mostly grey hair, thinner hair or a higher hairline, a softer jawline.
+8-10 s: the same person at about 80: white or silver hair, deep wrinkles, age spots, thinner lips, the shoulders a little bent, and a warm, calm smile into the camera.
+
+Audio: an original, upbeat instrumental beat with a soft whoosh on each change. No voice, no lyrics, no known song.
+
+Every step shows a grown adult with an adult face and body: never a child, a teen or a baby, never a teenage look. No text, no numbers, no letters, no age labels, no captions on the screen. No logos, no watermark. No second person, no mirror double. One head, two arms and five fingers on each hand. Never a famous person's face.
+```
+

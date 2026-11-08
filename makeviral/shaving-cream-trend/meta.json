@@ -1,0 +1,53 @@
+{
+  "source": "makeviral",
+  "source_site": "https://www.makeviral.ai",
+  "slug": "shaving-cream-trend",
+  "name": "Shaving Cream Trend: Wipe Your Chin, Reveal the Foam",
+  "url": "https://www.makeviral.ai/templates/shaving-cream-trend",
+  "markdown_url": "https://www.makeviral.ai/templates/shaving-cream-trend.md",
+  "blurb": "The shaving cream trend is a TikTok and Instagram selfie joke: you wipe a small dab of shaving foam off your chin, calm as anything, and the camera whips to your partner next to you, covered head to toe in foam.",
+  "updated": "2026-11-05",
+  "published": "2026-10-28",
+  "credits": 92,
+  "demo_videos": [
+    "https://www.makeviral.ai/media/templates/shaving-cream-trend/original-car-v2.mp4"
+  ],
+  "posters": [
+    "https://www.makeviral.ai/media/templates/shaving-cream-trend/original-car-v1.jpg"
+  ],
+  "prompts": [
+    {
+      "label": "1. The video prompt is filled in. Settings: Seedance 2.5, 6 s, 720p, 9:16, sound off. The video prompt",
+      "variant": null,
+      "kind": "video_prompt",
+      "text": "Recreate the reference video [Video 1] shot for shot: one continuous handheld selfie video in a dim bathroom with a gray wall and a pink shower curtain, the phone held at arm's length, the same framing, timing and gestures, and the same fast whip pan to the right at 4 seconds. The ONLY changes: the man with a dab of white shaving foam on his chin is now the person in [Image 1], and the friend who stands next to him, covered head to toe in shaving foam, is now the person in [Image 2].\n\nPerson A = the person in [Image 1], in EVERY frame: copy the exact face from [Image 1]: face shape, eye color and eye shape, eyebrows, nose, mouth, skin tone, age, hair color, hair length and hairstyle, and any beard, moustache, glasses or freckles exactly as in the photo. They wear the clothes from [Image 1]; if [Image 1] shows only the head or the upper body, invent the rest so it matches naturally. The same real person in every frame, so their friends instantly recognize them, also while the hand covers the chin and while the head turns away. Never morph, never drift back to the original man's face. NO face tattoos, NO neck or chest tattoos, NO piercings, NO long dark hair tied back and NO thin moustache unless [Image 1] shows them, and no bare chest unless [Image 1] shows it.\n\nPerson B = the person in [Image 2], covered from head to toe in thick white shaving foam, with two pointed foam cat ears on top of the head. Through the gaps in the foam, the eyes, the eyebrows, the nose, the mouth and the skin around them are exactly the face from [Image 2], so friends recognize them at once. Never the face of the woman in the video, no red lipstick unless [Image 2] shows it.\n\nBoth change: no one from the video stays, also while only a foamy hand shows at the edge of the frame. Never swap the two people, never merge their faces.\n\nThe beats, second by second:\n0-1.5 s: Person A looks calmly into the phone, a small dab of white shaving foam on the chin, and touches it with one finger.\n1.5-2 s: a hand covered in foam reaches in from the right edge and dabs more foam on Person A's chin.\n2-3 s: Person A wipes the chin with their own hand, deadpan, unbothered.\n3-4 s: the foamy hand reaches in again and smears foam along Person A's jaw and cheek; Person A turns the head a little away, still deadpan.\n4-4.7 s: the phone whips fast to the right with motion blur.\n4.7-6 s: the reveal: Person B stands right next to Person A, covered head to toe in shaving foam with the foam cat ears, smiling and waving foam-covered hands at the camera.\n\nReal live-action phone footage, natural bathroom light. Anatomy rules: one head on each person, two hands with five fingers each, exactly two people. No text, no captions, no logos, no watermark."
+    },
+    {
+      "label": "1. The video prompt is filled in. Settings: Seedance 2.5, 10 s, 720p, 9:16, sound off. The video prompt",
+      "variant": null,
+      "kind": "video_prompt",
+      "text": "Recreate the reference video [Video 1] shot for shot: the same outdoor scene at a gray industrial building with a big gray garage door, wet dark asphalt, a parking lot with white lines, fields and trees behind, a cloudy evening sky, the same handheld phone camera, the same framing, timing, the same fast whip pan and the same cuts. The ONLY changes: the man with glasses and a dab of white foam on his chin is now the person in [Image 1], and the gray supercar is now the vehicle in [Image 2].\n\nPerson A = the person in [Image 1], in EVERY frame of the first shot: copy the exact face from [Image 1]: face shape, eye color and eye shape, eyebrows, nose, mouth, skin tone, age, hair color, hair length and hairstyle, and any beard, moustache, glasses or freckles exactly as in the photo. They wear the clothes from [Image 1]; if [Image 1] shows only the head, invent the rest so it matches naturally. Never drift back to the original man's face. NO glasses unless [Image 1] shows them, NO arm tattoos, NO navy T-shirt and no logo on the clothes.\n\nThe vehicle = the vehicle in [Image 2], in EVERY shot: the same body shape, size, proportions, paint color, wheels, lights, windows and details as in [Image 2]. Never the gray supercar of the video: NO scissor doors, NO lime green accents, NO wedge-shaped supercar body unless [Image 2] shows them. If [Image 2] shows a truck, a van, an old car or a motorbike, that vehicle takes the car's place at its real size. No readable badges, brand names or license plate text.\n\nThe shots, second by second:\n0-2.1 s: a selfie of Person A outdoors in front of the gray building, a small dab of white shaving foam on the chin; Person A wipes it off with the hand, deadpan.\n2.1-2.5 s: the phone whips fast to the right with motion blur.\n2.5-4.1 s: the vehicle stands on the wet asphalt next to the building, completely covered in thick white wash foam, foam on the windows and wheels, a ring of foam on the ground. Person A is out of the frame.\n4.1-6.1 s: cut: the same vehicle, clean and glossy, front three-quarter view in front of the gray garage door, its doors open the way the doors of the vehicle in [Image 2] open.\n6.1-7.9 s: cut: the clean vehicle from the rear three-quarter view on the parking lot, fields behind.\n7.9-9.7 s: cut: the clean vehicle, front three-quarter view in front of the garage door, doors closed.\n\nReal live-action phone footage. Anatomy rules: one head, two hands with five fingers, exactly one person, only in the first shot. Exactly one vehicle in every shot. No text, no captions, no logos, no watermark."
+    },
+    {
+      "label": "1. The video prompt is filled in. Settings: Seedance 2.5, 6 s, 720p, 9:16, sound off. The video prompt",
+      "variant": "Pet",
+      "kind": "video_prompt",
+      "text": "Recreate the reference video [Video 1] shot for shot: one continuous handheld selfie video in a dim bathroom with a gray wall and a pink shower curtain, the phone held at arm's length, the same framing, timing and gestures, and the same fast whip pan to the right at 4 seconds. The ONLY changes: the man with a dab of white shaving foam on his chin is now the person in [Image 1], and the friend covered head to toe in shaving foam is now the pet in [Image 2].\n\nPerson A = the person in [Image 1], in EVERY frame: copy the exact face from [Image 1]: face shape, eye color and eye shape, eyebrows, nose, mouth, skin tone, age, hair color, hair length and hairstyle, and any beard, moustache, glasses or freckles exactly as in the photo. They wear the clothes from [Image 1]; if [Image 1] shows only the head or the upper body, invent the rest so it matches naturally. The same real person in every frame, so their friends instantly recognize them, also while the hand covers the chin and while the head turns away. Never morph, never drift back to the original man's face. NO face tattoos, NO neck or chest tattoos, NO piercings, NO long dark hair tied back and NO thin moustache unless [Image 1] shows them, and no bare chest unless [Image 1] shows it.\n\nThe pet = the pet in [Image 2], in the reveal: the same species and breed, face, eyes, ears, muzzle, fur colors, fur length and markings as in [Image 2], with the natural body volume and proportions of that animal: never flattened, squashed, stretched or merged with anything. It sits on the counter right next to Person A, its head at Person A's shoulder height, covered from head to toe in thick fluffy white foam, with a small peak of foam between its own ears. Its eyes, nose and parts of its face and fur show through the foam, so its owner recognizes it at once. It stays that animal: never a person, never a human face, never a foam figure shaped like a person.\n\nNo one from the video stays: the friend never appears.\n\nThe beats, second by second:\n0-1.5 s: Person A looks calmly into the phone, a small dab of white foam on the chin, and touches it with one finger.\n1.5-2 s: a foamy paw reaches in from the right edge and dabs more foam on Person A's chin.\n2-3 s: Person A wipes the chin with their own hand, deadpan, unbothered.\n3-4 s: the foamy paw reaches in again and smears foam along Person A's jaw; Person A turns the head a little away, still deadpan.\n4-4.7 s: the phone whips fast to the right with motion blur.\n4.7-6 s: the reveal: the pet sits right next to Person A, covered head to toe in foam, looking into the camera, blinking, a small head tilt.\n\nReal live-action phone footage, natural bathroom light. Anatomy rules: one head on Person A, two hands with five fingers; the pet has one head, animal paws and its own number of legs, never human hands. Exactly one person and one animal. No text, no captions, no logos, no watermark."
+    }
+  ],
+  "variant_headings": [
+    "What the Shaving Cream Trend video looks like",
+    "How to make the Shaving Cream Trend video on MakeViral",
+    "Which photo works best?",
+    "What happens in the shaving cream trend video, second by second?",
+    "Couple, Pet or Car: which shaving cream trend should you make?",
+    "How long is the video and what format is it?",
+    "Does the shaving cream trend AI video cost credits?",
+    "Is the video real?",
+    "Other AI video templates and tools",
+    "New AI video trends this week",
+    "Make your own Shaving Cream Trend video"
+  ],
+  "prompt_count": 3,
+  "scraped_at": "2026-11-08"
+}

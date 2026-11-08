@@ -216,10 +216,19 @@ Human takes 5 to 15 minutes. Pet Standard takes a few minutes and Best 5 to 15 m
 ## Other AI video templates and tools
 
 - [ChatGPT Millionaire Trend: “How I Become a Millionaire?” “Get a Job.”](https://www.makeviral.ai/templates/chatgpt-millionaire-ai-trend): "Chat GPT, how I become a millionaire in 30 days?" "Get a job." Add one photo, and you, your dog or your cat ask the phone, hear the answer and take it very personally, with the original voice track.
-- [Plug Walk Filter: Take the Dollar, Then Do the Plug Walk](https://www.makeviral.ai/templates/plug-walk-ai-filter): At a red light at sunset, a hand passes you a dollar out of the car window. You grab it, grin, back onto the gravel and break into the plug walk on the beat. Add one photo of yourself, or of your pet.
+- [Counting Money Meme: You as the Boss Flipping Stacks of Cash](https://www.makeviral.ai/templates/counting-money-meme-ai): Add one photo. You stand behind a desk piled with banded cash in a sharp dark suit, flip through a thick stack one bill after another, then fan it out and wave it at the camera with a smug look.
 - [Wedding Money Rain AI: You Dance While the Notes Rain Down](https://www.makeviral.ai/templates/ai-money-rain-party): Add one photo. AI makes a 10-second clip: you dance in the middle of a wedding crowd while the guests throw cash and a storm of paper notes rains down on you.
 - [AI photo generator](https://www.makeviral.ai/ai-photo-generator)
 - [All AI video templates](https://www.makeviral.ai/templates)
+
+## New AI video trends this week
+
+- [Christmas Dance AI: Do the New TikTok Christmas Dance From Your Photos](https://www.makeviral.ai/templates/christmas-dance-ai-trend): Hip sways with the hands at the collar, rolling arms, a quick spin and raised fists, side by side in matching Christmas pajamas. Add two photos for the duo, one for a solo take, or two pets, and get the dance with the sound.
+- [Cat on Ultra Bee AI: Put Your Pet on the Wheelie](https://www.makeviral.ai/templates/cat-on-ultra-bee-ai-trend): Add one photo, and your cat or dog stands on an electric dirt bike and holds a long wheelie down a city road at golden hour, in the same shots as the viral clip, with its original sound. You can take the ride yourself, too.
+- [Tus Ojos Me Reflejan el Sentimiento: The Cafuné Eye Close-Up Trend](https://www.makeviral.ai/templates/tus-ojos-me-reflejan-ai-trend): You lie on your side, a hand rests on your cheek, warm light falls on your face, and the camera slowly moves in until your eyes fill the screen while the line plays. One photo in, an 8-second vertical clip with the trend's song out.
+- [İnşallah Maşallah AI Trend: Sing Neşe Karaböcek's Song on the Couch](https://www.makeviral.ai/templates/insallah-masallah-ai-trend): You sit on a light grey couch and sing the old Turkish love song straight to the camera: a hand on the heart, a big laugh with both hands on your head, a finger pointed at the camera and a kiss at the end. One photo of you, a grandparent or your pet, and the 15-second clip comes with the song.
+- [Ice Ice Baby Dance AI: Do the Viral Duo Dance With a Friend](https://www.makeviral.ai/templates/ice-ice-baby-dance-ai): Two dancers side by side, the same bouncy 90s steps, a spin on the beat and a strut to the camera. Add a photo of you and a friend, of you alone, or of your pet, and get the dance with the sound.
+- [Save Yourself Trend: Pull Yourself Up From the Cliff](https://www.makeviral.ai/templates/save-yourself-ai-trend): One photo plays both of you: the scared you clinging to a wet sea cliff, and the calm you who reaches down, pulls you up and holds you. Or use two photos: an older photo of you and a new one, or you and a friend. 15 seconds, vertical.
 
 ## Make your own Money Flex video
 

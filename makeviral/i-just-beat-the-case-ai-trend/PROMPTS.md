@@ -1,0 +1,79 @@
+# I Just Beat The Case: Walk Out of the Courthouse in the Meme
+
+- Source: [makeviral](https://www.makeviral.ai/templates/i-just-beat-the-case-ai-trend)
+- Slug: `i-just-beat-the-case-ai-trend`
+
+I just beat the case is a viral phone clip of a man who pushes out of a courthouse door, tells the camera "I just beat the case, I'm back", flexes and skip-kicks down the walkway shouting "bow, bow, bow".
+
+## Demo videos (CDN)
+
+- https://www.makeviral.ai/media/templates/i-just-beat-the-case-ai-trend/original-pet-v2.mp4
+
+## Posters
+
+- https://www.makeviral.ai/media/templates/i-just-beat-the-case-ai-trend/original-pet-v1.jpg
+
+## Prompts
+
+### 1. 1. The video prompt is filled in. Settings: Seedance 2.5, 13 s, 720p, 9:16, sound off. The video prompt
+
+*Kind: video_prompt*
+
+```text
+Recreate the reference video [Video 1] shot for shot: the same glass courthouse doors, brick walkway, concrete pillars and passers-by far behind, the same handheld camera that backs away and tracks alongside, the same timing, steps, kicks and mouth moves. The ONLY change: THE STAR, the man who pushes out of the doors and celebrates, is now the person in [Image 1].
+
+THE STAR = the person in [Image 1], in EVERY frame: copy the exact face from [Image 1] - face shape, eye color and eye shape, eyebrows, nose, mouth, skin tone, age, hair color, hair length and hairstyle, and any beard, moustache, glasses or freckles exactly as in the photo. THE STAR wears the clothes from [Image 1]; if it shows only the upper body, invent the rest to match. The same real person in every frame, so their friends instantly recognize them, also far down the walkway. Never drift back to the original man's face, never add or remove facial hair. NO patterned tunic, NO pink sneakers, NO chain necklace and NO full beard unless [Image 1] shows them. If [Image 1] shows an animal, THE STAR is that animal walking upright, with its own face, fur and markings.
+
+ONE CONTINUOUS SHOT, no cuts, a handheld phone at chest height:
+[00:00-00:01.0] THE STAR pushes open a tall glass courthouse door and steps out onto the brick walkway.
+[00:01.0-00:02.4] THE STAR walks straight at the camera with bouncing shuffle steps, arms swinging, as the camera backs away.
+[00:02.4-00:03.4] THE STAR stops and fires a finger gun right at the camera, saying "...beat the case."
+[00:03.4-00:04.1] THE STAR grins hugely, hands at the chest.
+[00:04.1-00:05.0] THE STAR leans into the camera, saying "I'm back", and hits a double-bicep flex, roaring.
+[00:05.0-00:09.0] THE STAR skip-kicks sideways along the covered walkway, kicking a leg high on every beat, fists swinging, the camera tracking alongside past the pillars.
+[00:09.0-00:10.5] THE STAR turns back to the camera and struts back, pumping a fist overhead; passers-by cross far behind.
+[00:10.5-00:12.0] THE STAR bounces toward the camera on bent knees, one fist pumping high.
+[00:12.0-00:13] THE STAR sinks into a wide, low crouch, knees bouncing, arms out.
+
+MOUTH: THE STAR speaks the line themselves, straight to the camera: "I just" during 00:01.58-00:02.10, "beat the case." during 00:02.98-00:03.60 and "I'm back." during 00:04.20-00:04.70, lips shut on the b of "beat" and "back". The mouth is CLOSED in a sly grin during 00:00-00:01.5. After 00:04.7 no more words: the mouth only shouts the "bow" hits and laughs when the original man's mouth does.
+
+FACE: overjoyed the whole time: a sly grin stepping out, a cocky grin on the finger gun, a roar on the flex, a shout on the kicks, laughing on the fist pumps.
+
+Every frame shows THE STAR from [Image 1]; the original man never appears. Preserve THE STAR's exact identity (face, hair, skin, eyewear, clothing) as in [Image 1].
+
+Real live-action footage, clear facial features, a stable face, natural proportions.
+
+Avoid: the mouth out of time with the line, lettering, a court seal, a flag, a police badge or logo, handcuffs, text, captions, watermarks, extra people near THE STAR, extra limbs, morphing. One head; five fingers on each hand.
+```
+
+### 2. 1. The video prompt is filled in. Settings: Seedance 2.5, 13 s, 720p, 9:16, sound off. The video prompt (Pet)
+
+*Kind: video_prompt*
+
+```text
+Recreate the reference video [Video 1] shot for shot: the same glass courthouse doors, brick walkway, concrete pillars and passers-by far behind, the same handheld camera that backs away and tracks alongside, the same timing, steps, kicks and mouth moves. The ONLY change: THE STAR, the dog that walks out of the doors upright on its hind legs and celebrates, is now the pet in [Image 1].
+
+THE STAR = the pet in [Image 1], in EVERY frame: the same species and breed, face, eyes, ears, muzzle, fur colors, fur length and markings as in [Image 1], with the natural body volume and proportions of that animal: never flattened, squashed, stretched or merged with anything. Whether [Image 1] shows a dog, a cat or another animal, it stays that animal, walking upright on its hind legs and doing every move with its own paws. The same pet in every frame, so its owner instantly recognizes it, also far down the walkway. Do NOT blend [Image 1] with the dog in the video: never its face, its coat or its collar unless [Image 1] shows them. The dog in the video never appears.
+
+ONE CONTINUOUS SHOT, no cuts, a handheld phone at chest height:
+[00:00-00:01.0] THE STAR pushes open a tall glass courthouse door and steps out upright onto the brick walkway.
+[00:01.0-00:02.4] THE STAR walks straight at the camera on its hind legs with little bouncing steps, front legs swinging, as the camera backs away.
+[00:02.4-00:03.4] THE STAR stops and points a front paw right at the camera.
+[00:03.4-00:04.0] THE STAR grins hugely, mouth open.
+[00:04.0-00:05.0] THE STAR leans into the camera and raises both front legs in a double flex, roaring.
+[00:05.0-00:09.0] THE STAR skip-kicks sideways along the covered walkway, kicking a hind leg high on every beat, front paws swinging, the camera tracking alongside past the pillars.
+[00:09.0-00:10.5] THE STAR turns back to the camera and struts back, pumping a front paw overhead; passers-by cross far behind.
+[00:10.5-00:12.0] THE STAR bounces toward the camera on bent hind legs, a front paw pumping high.
+[00:12.0-00:13] THE STAR sinks into a wide, low crouch on its hind legs, front legs out.
+
+MOUTH: the mouth opens and closes exactly when the dog's mouth does in [Video 1], as if THE STAR says "I just beat the case" (00:01.5-00:03.4) and "I'm back" (00:03.7-00:04.4) itself. The mouth is closed in a grin during 00:00-00:01.4.
+
+FACE: THE STAR is overjoyed the whole time: a sly grin stepping out, a cocky grin on the point, a roar on the flex, an open-mouthed shout on the skip-kicks.
+
+Every frame shows THE STAR from [Image 1]. Preserve its exact identity (face, fur, markings, any clothing) as in [Image 1].
+
+Real live-action footage, clear features, a stable face, no distortion, natural proportions.
+
+Avoid: signs or lettering with words, a court seal, a flag, a police badge or logo, handcuffs, text, captions, subtitles, watermarks, people near THE STAR, extra animals, morphing. One head only, one muzzle, natural teeth and tongue; two front paws and two hind legs, animal paws, never human hands.
+```
+

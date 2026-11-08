@@ -1,0 +1,47 @@
+{
+  "source": "makeviral",
+  "source_site": "https://www.makeviral.ai",
+  "slug": "toosie-slide-ai-trend",
+  "name": "Toosie Slide AI: Do the Toosie Slide Dance by the Grand Piano",
+  "url": "https://www.makeviral.ai/templates/toosie-slide-ai-trend",
+  "markdown_url": "https://www.makeviral.ai/templates/toosie-slide-ai-trend.md",
+  "blurb": "The toosie slide dance is the 2020 TikTok dance of Drake's \"Toosie Slide\": right foot up, left foot slide, left foot up, right foot slide.",
+  "updated": "2026-10-24",
+  "published": "2026-10-24",
+  "credits": 59,
+  "demo_videos": [
+    "https://www.makeviral.ai/media/templates/toosie-slide-ai-trend/original-main-v2.mp4"
+  ],
+  "posters": [
+    "https://www.makeviral.ai/media/templates/toosie-slide-ai-trend/original-main-v1.jpg"
+  ],
+  "prompts": [
+    {
+      "label": "1. The video prompt is filled in. Settings: kling-3-motion, 14 s, 720p, 9:16, sound off. The video prompt",
+      "variant": null,
+      "kind": "video_prompt",
+      "text": "Replace the character in the video with the person from the uploaded image. Keep actions, poses, facial expressions, camera movement and rhythm. Preserve the person's original facial features, maintain character consistency, no distortion, no glitches, no artifacts.\nThe person dances in the marble mansion hall from the uploaded image, beside the black grand piano, in the slim black suit, the pale grey shirt, the dark tie, the black shoes and the black gloves from the uploaded image, with the gloves on both hands the whole time, and keeps their own hair from the uploaded image. Not the black jacket, the black jeans, the red sneakers or the silver chain of the young man in the video, and not his short curly black hair.\nFollow the young man's moves and timing exactly, the slide dance step by step on the beat: the right foot lifts and the left foot slides back, then the left foot lifts and the right foot slides back, the arms swung out wide and loose, a smooth lean to the side, a quick dip, then a confident swagger toward the camera with a big smile. Keep the whole body in view with natural balance and stable ground contact, smooth gliding steps, no foot sliding through the floor. Exactly one person, no other people. One continuous shot. No text, no captions, no logos."
+    },
+    {
+      "label": "1. The video prompt is filled in. Settings: kling-3-motion, 14 s, 720p, 9:16, sound off. The video prompt",
+      "variant": null,
+      "kind": "video_prompt",
+      "text": "Replace the character in the video with the person from the uploaded image. Keep actions, poses, facial expressions, camera movement and rhythm. Preserve the person's original facial features, maintain character consistency, no distortion, no glitches, no artifacts.\nThe person dances in the place from the uploaded image, in the clothes and shoes from the uploaded image, and keeps their own hair from the uploaded image. Not the black jacket, the black jeans, the red sneakers or the silver chain of the young man in the video unless the uploaded image shows them, and not his short curly black hair.\nFollow the young man's moves and timing exactly, the slide dance step by step on the beat: the right foot lifts and the left foot slides back, then the left foot lifts and the right foot slides back, the arms swung out wide and loose, a smooth lean to the side, a quick dip, then a confident swagger toward the camera with a big smile. Keep the whole body in view with natural balance and stable ground contact, smooth gliding steps. Exactly one person, no other people. One continuous shot. No text, no captions, no logos."
+    }
+  ],
+  "variant_headings": [
+    "What the Toosie Slide video looks like",
+    "How to make the Toosie Slide video on MakeViral",
+    "Which photo works best?",
+    "What happens in a Toosie Slide AI video?",
+    "How do I make a Toosie Slide AI video?",
+    "Is this Drake's music video with my face?",
+    "Which hashtags fit a Toosie Slide AI video?",
+    "How long is the video, and what do I get?",
+    "Other AI video templates and tools",
+    "New AI video trends this week",
+    "Make your own Toosie Slide video"
+  ],
+  "prompt_count": 2,
+  "scraped_at": "2026-11-08"
+}

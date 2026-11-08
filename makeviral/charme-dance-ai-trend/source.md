@@ -3,7 +3,7 @@
 > The charme dance AI trend puts you in a packed baile charme in Rio at night: you dance the smooth charme side steps while the crowd films you, like the viral AI grandpa Seu Zé de Madureira.
 
 Canonical: https://www.makeviral.ai/templates/charme-dance-ai-trend
-Updated: 2026-10-19
+Updated: 2026-10-23
 Published: 2026-10-19
 Author: MakeViral Team (https://www.makeviral.ai/about)
 Publisher: MakeViral (https://www.makeviral.ai)
@@ -12,11 +12,11 @@ The **charme dance AI** trend puts you in a packed baile charme in Rio at night:
 
 Floodlights, string lights, a packed old square in Rio at night, and you in the middle of it, gliding through smooth charme side steps while the crowd films you. Add one photo of yourself, two for a duo, or one of your pet.
 
-Also called: Baile Charme AI, Seu Zé de Madureira dance, Pedra do Sal AI dance, Festa Charme AI dance.
+Also called: Baile Charme AI, Seu Zé de Madureira dance, Pedra do Sal AI dance, Festa Charme AI dance, Van Damme dance AI.
 
 **Make it now:** [Make this video](https://www.makeviral.ai/templates/charme-dance-ai-trend/create). 1 photo · 10 s · 9:16 with sound · 126 credits, charged once · ready in a few minutes · no prompt to write.
 
-Keyword: charme dance ai. Also answers: charme dance, baile charme, seu zé de madureira, ai dog dance, ai dance video, ai dance video generator, dança charme, baile charme ia, charme dance trend, pedra do sal, dog dancing ai, dança charme ia, charme dance capcut template, dança ai retrô, ai dance trend, seu zé de madureira trend, seu zé de madureira ia, rio street party ai, rio street party, pedra do sal street party, baile charme pedra do sal, baile charme madureira, baile charme viaduto de madureira, viaduto de madureira, charme dance brazil, charme dance das antigas, baile charme das antigas, dança charme passo a passo, dança charme o que é, baile charme o que é, ia dança funk, funk dance ai, brazilian funk dance ai, make my photo dance, ai pet dance, charme ai, video charme ai, dança ia foto, app dança ia, charme dance tutorial, charme dance pet, charme dance duo.
+Keyword: charme dance ai. Also answers: charme dance, baile charme, seu zé de madureira, ai dog dance, ai dance video, ai dance video generator, dança charme, baile charme ia, charme dance trend, pedra do sal, dog dancing ai, dança charme ia, charme dance capcut template, dança ai retrô, ai dance trend, seu zé de madureira trend, seu zé de madureira ia, rio street party ai, rio street party, pedra do sal street party, baile charme pedra do sal, baile charme madureira, baile charme viaduto de madureira, viaduto de madureira, charme dance brazil, charme dance das antigas, baile charme das antigas, dança charme passo a passo, dança charme o que é, baile charme o que é, ia dança funk, funk dance ai, brazilian funk dance ai, make my photo dance, ai pet dance, charme ai, video charme ai, dança ia foto, app dança ia, charme dance tutorial, charme dance pet, charme dance duo, van damme bailando, van damme dance, kickboxer dance, van damme ai dance, jean claude van damme dance ai, van damme dance trend, baile de van damme.
 
 ## What is the Charme Dance trend, and where did it start?
 
@@ -32,7 +32,9 @@ On 18 October at 12:12 UTC the first CapCut template tutorials for the charme da
 - **2026-09-24**: He dances there again with a friend, side by side: 470,400 views. Duo charme clips become part of the trend. Source: [TikTok](https://www.tiktok.com/@zenegaooficial/video/7689204699513261330).
 - **2026-10-13**: The first AI edits of the Pedra do Sal clip appear: Hollywood action stars dance in the crowd. They stay small (2,264 views for the first one). Source: [TikTok](https://www.tiktok.com/@rafagalvao85/video/7696001816324001045).
 - **2026-10-16**: @seuzerj posts the AI grandpa Seu Zé de Madureira dancing charme in the same crowd: 96,400 views, the first AI version without a celebrity to take off. Source: [TikTok](https://www.tiktok.com/@seuzerj/video/7697396562670013716).
+- **2026-10-18**: An AI edit of the same clip with the faces of 1980s action-film stars in the crowd passes 2.9 million views by 22 October: the first AI version of the clip to pass a million. Source: [TikTok](https://www.tiktok.com/@steez_visionz/video/7697910553930403094).
 - **2026-10-18**: The first CapCut template tutorials come out at 12:12 UTC; by the next day one has 605,800 views and four more have 119,800 to 323,400. Source: [TikTok](https://www.tiktok.com/@rika318294/video/7698015448985554196).
+- **2026-10-19**: Template tutorials posted from the US take over: by 22 October the top ones have 284,400 to 466,400 views each, and the trend's sound has 570 videos. Source: [TikTok](https://www.tiktok.com/@lin62411e7u/video/7698722466088144159).
 - **2026-10-19**: English tutorials start. #charmedance has 4,701 TikTok videos and 2.9 million views, #bailecharme 14,533 videos and 182 million views.
 
 ## What the Charme Dance video looks like
@@ -136,6 +138,68 @@ Audio: an original smooth old-school R&B and soul groove at a mid tempo, warm ba
 
 One-tap version of this variant: https://www.makeviral.ai/templates/charme-dance-ai-trend/create?variant=pet
 
+#### Variant: In the crowd
+
+Settings: 1 photo (you, face clear (waist up is best)) · Seedance 2.5 · 15 s · 720p · 9:16 · no sound · 228 credits in one tap.
+
+1. The video prompt is filled in. Settings: Seedance 2.5, 15 s, 720p, 9:16, sound off. The video prompt:
+
+   ```text
+   Recreate the reference video [Video 1] shot for shot: vertical handheld phone footage, night, a packed baile charme street party in an old cobbled square in Rio de Janeiro, strong floodlights behind the crowd, the same camera movement, crowd, lighting, timing and dance rhythm. The ONLY change: the bald young man in the white collared shirt and the navy sweater vest who dances at the front is now the person in [Image 1].
+
+The lead dancer is the person in [Image 1], in EVERY frame: copy the exact face from [Image 1]: face shape, eye color and eye shape, eyebrows, nose, mouth, skin tone, age, hair color, hair length and hairstyle, and any beard, moustache, glasses or freckles exactly as in the photo. Keep their face, hairstyle, skin tone and the clothes they are wearing; if [Image 1] shows only the head or the upper body, invent the rest so it matches naturally. The same real person in every frame, from the first second to the last, so their friends instantly recognize them, also when the dancer turns to the side or leans forward. Never morph, never drift back to the original dancer's face. NO shaved head, NO white collared shirt and NO navy sweater vest with a yellow trim unless [Image 1] shows them, and no glasses unless [Image 1] shows glasses. If [Image 1] shows an animal, the dancer is that animal standing upright on its hind legs, with its own face, fur and markings and the natural body volume and proportions of that animal: never flattened, squashed, stretched or merged with anything.
+
+The dance, matching [Video 1] second by second, on the beat:
+00:00-00:02: close to the phone, the dancer looks back over the shoulder at the camera and nods to the beat.
+00:02-00:05: turns the head to look over the crowd, small nods, shoulders loose.
+00:05-00:07.5: leans in and starts the charme step: shoulders bounce up and down, hands at chest height.
+00:07.5-00:10: body leaning forward, knees soft, forearms swing left and right in front of the hips, the hands sliding past each other at waist height.
+00:10-00:12.5: a small side step and a side turn, one hand out to the beat.
+00:12.5-00:15: back to the camera, shoulders bouncing and forearms swinging while the crowd dances along.
+The camera moves exactly as in [Video 1]: one continuous handheld shot, no cuts.
+
+The crowd around them dances along, exactly as in [Video 1]. Everyone in the crowd wears plain clothes with no logos, crests or printed words. The moves stay on the beat of [Video 1].
+
+Real live-action phone footage, clear facial features, no distortion. No dialogue throughout the entire video. No background music.
+
+Anatomy rules: one head only, on the dancer's shoulders. Two arms and two hands, five fingers on each hand. A face never appears on hands or clothes. No text, captions, stickers or watermarks on screen. No logos.
+   ```
+
+2. Press Generate, then download the 9:16 MP4.
+
+One-tap version of this variant: https://www.makeviral.ai/templates/charme-dance-ai-trend/create?variant=crowd
+
+#### Variant: Pet in the crowd
+
+Settings: 1 photo (your pet, whole body) · Seedance 2.5 · 15 s · 720p · 9:16 · no sound · 228 credits in one tap.
+
+1. The video prompt is filled in. Settings: Seedance 2.5, 15 s, 720p, 9:16, sound off. The video prompt:
+
+   ```text
+   Recreate the reference video [Video 1] shot for shot: vertical handheld phone footage, night, a packed baile charme street party in an old cobbled square in Rio de Janeiro, strong floodlights behind the crowd, the same camera movement, crowd, lighting, timing and dance rhythm. The ONLY change: the bald young man in the white collared shirt and the navy sweater vest who dances at the front is now the pet in [Image 1].
+
+The lead dancer = the pet in [Image 1], in EVERY frame: the same species and breed, face, eyes, ears, muzzle, fur colors, fur length and markings as in [Image 1], with the natural body volume and proportions of that animal: never flattened, squashed, stretched or merged with anything. Whether [Image 1] shows a dog, a cat or another animal, it stays that animal, standing upright on its hind legs in the young man's place, at his height in the frame. The same pet in every frame, from the first second to the last, so its owner instantly recognizes it. It wears no clothes unless [Image 1] shows them: never the white shirt or the navy vest. No human face, no human hands: animal paws.
+
+The dance, matching [Video 1] second by second, on the beat:
+00:00-00:02: close to the phone, the pet looks back over its shoulder at the camera and nods to the beat.
+00:02-00:05: turns its head to look over the crowd, small nods.
+00:05-00:07.5: leans in and starts the charme step: shoulders bounce up and down, front paws at chest height.
+00:07.5-00:10: body leaning forward, hind legs soft, front legs swing left and right in front of its belly, the paws sliding past each other.
+00:10-00:12.5: a small side step and a side turn, one front paw out to the beat.
+00:12.5-00:15: back to the camera, shoulders bouncing and front legs swinging while the crowd dances along.
+The camera moves exactly as in [Video 1]: one continuous handheld shot, no cuts.
+
+The crowd around the pet dances along and films it, exactly as in [Video 1]. Everyone in the crowd wears plain clothes with no logos, crests or printed words. The moves stay on the beat of [Video 1].
+
+Real live-action phone footage, no distortion. No dialogue throughout the entire video. No background music.
+
+Anatomy rules: one head only, one muzzle, natural teeth and tongue. Two hind legs on the ground and two front legs with animal paws, never a human hand. No extra legs, no extra animals. No text, captions, stickers or watermarks on screen. No logos.
+   ```
+
+2. Press Generate, then download the 9:16 MP4.
+
+One-tap version of this variant: https://www.makeviral.ai/templates/charme-dance-ai-trend/create?variant=crowdpet
+
 ### Which photo works best?
 
 You need **one photo** for Human or Pet, and **two photos** for Duo.
@@ -218,6 +282,10 @@ Yes. Pick Pet for an AI dog dance at the baile: your dog (or cat) stands up on i
 
 No. Seu Zé de Madureira is an AI grandpa character of the TikTok account @seuzerj. His charme clip is an AI edit of @zenegaooficial's real Pedra do Sal dance video. Your MakeViral clip is AI-made too, so keep the platform's AI label on when you post it.
 
+### Is this the Van Damme dance AI trend?
+
+Yes, it is the same clip. From 13 October 2026, AI edits of the Pedra do Sal dance put 1980s action-film stars in the crowd, and the template tutorials now call it the Van Damme dance, Van Damme dance AI, Van Damme bailando, baile de Van Damme or the Kickboxer dance trend, after the famous bar dance meme from the 1989 film Kickboxer with Jean Claude Van Damme. MakeViral never uses a celebrity's face or film footage: the dancer is you, from your own photo, at the same Rio street party.
+
 ### What music is in the video?
 
 Each clip comes with an original smooth soul and R&B groove and the crowd sound, made by the video model for your clip. It is not the song from the viral clips: that song belongs to its owners. You can also add a sound of your choice when you post.
@@ -255,6 +323,15 @@ All versions make 10 seconds, vertical 9:16 MP4 with sound and no watermark. Hum
 - [AI Reels](https://www.makeviral.ai/tools/ai-reels-generator): Pick a format, give it a topic or a product link, and get a finished vertical reel with voice and captions. Nothing to film, nothing to edit.
 - [AI photo generator](https://www.makeviral.ai/ai-photo-generator)
 - [All AI video templates](https://www.makeviral.ai/templates)
+
+## New AI video trends this week
+
+- [Christmas Dance AI: Do the New TikTok Christmas Dance From Your Photos](https://www.makeviral.ai/templates/christmas-dance-ai-trend): Hip sways with the hands at the collar, rolling arms, a quick spin and raised fists, side by side in matching Christmas pajamas. Add two photos for the duo, one for a solo take, or two pets, and get the dance with the sound.
+- [Cat on Ultra Bee AI: Put Your Pet on the Wheelie](https://www.makeviral.ai/templates/cat-on-ultra-bee-ai-trend): Add one photo, and your cat or dog stands on an electric dirt bike and holds a long wheelie down a city road at golden hour, in the same shots as the viral clip, with its original sound. You can take the ride yourself, too.
+- [Tus Ojos Me Reflejan el Sentimiento: The Cafuné Eye Close-Up Trend](https://www.makeviral.ai/templates/tus-ojos-me-reflejan-ai-trend): You lie on your side, a hand rests on your cheek, warm light falls on your face, and the camera slowly moves in until your eyes fill the screen while the line plays. One photo in, an 8-second vertical clip with the trend's song out.
+- [İnşallah Maşallah AI Trend: Sing Neşe Karaböcek's Song on the Couch](https://www.makeviral.ai/templates/insallah-masallah-ai-trend): You sit on a light grey couch and sing the old Turkish love song straight to the camera: a hand on the heart, a big laugh with both hands on your head, a finger pointed at the camera and a kiss at the end. One photo of you, a grandparent or your pet, and the 15-second clip comes with the song.
+- [Ice Ice Baby Dance AI: Do the Viral Duo Dance With a Friend](https://www.makeviral.ai/templates/ice-ice-baby-dance-ai): Two dancers side by side, the same bouncy 90s steps, a spin on the beat and a strut to the camera. Add a photo of you and a friend, of you alone, or of your pet, and get the dance with the sound.
+- [Save Yourself Trend: Pull Yourself Up From the Cliff](https://www.makeviral.ai/templates/save-yourself-ai-trend): One photo plays both of you: the scared you clinging to a wet sea cliff, and the calm you who reaches down, pulls you up and holds you. Or use two photos: an older photo of you and a new one, or you and a friend. 15 seconds, vertical.
 
 ## Make your own Charme Dance video
 

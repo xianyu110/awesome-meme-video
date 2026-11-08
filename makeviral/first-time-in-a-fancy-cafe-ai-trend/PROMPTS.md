@@ -1,0 +1,91 @@
+# Your First Time in a Fancy Cafe: Star in the Viral Clip
+
+- Source: [makeviral](https://www.makeviral.ai/templates/first-time-in-a-fancy-cafe-ai-trend)
+- Slug: `first-time-in-a-fancy-cafe-ai-trend`
+
+First time in a fancy cafe is the viral POV: Your first time in a fancy cafe clip from November 2026: in a bare concrete cafe, a man sits on top of a tiny wall table until a woman walks in, sits on the bench and uses it as a table.
+
+## Demo videos (CDN)
+
+- https://www.makeviral.ai/media/templates/first-time-in-a-fancy-cafe-ai-trend/original-lee-v2.mp4
+
+## Posters
+
+- https://www.makeviral.ai/media/templates/first-time-in-a-fancy-cafe-ai-trend/original-lee-v1.jpg
+
+## Prompts
+
+### 1. 1. The video prompt is filled in. Settings: Seedance 2.5, 15 s, 720p, 9:16, sound off. The video prompt
+
+*Kind: video_prompt*
+
+```text
+Recreate the reference video [Video 1] shot for shot: the same bare grey concrete cafe, the same concrete wall with the vertical pillars, the same low concrete ledge along the wall with the small round steel tables on curved steel posts fixed to it, the same polished floor and soft daylight, the same fixed camera, framing, timing and moves, and the same white caption "POV: Your first time in a fancy cafe" at the top, exactly as in the video. The ONLY change: the man in the cream shirt who sits on top of the small round table on the left is now the person in [Image 1].
+
+The man on the left = the person in [Image 1], in EVERY frame: copy the exact face from [Image 1] - face shape, eye color and eye shape, eyebrows, nose, mouth, skin tone, age, hair color, hair length and hairstyle, and any beard, moustache, glasses or freckles exactly as in the photo. They wear the clothes from [Image 1]; if [Image 1] shows only the head or the upper body, invent the rest so it matches naturally. The same real person in every frame, from the first second to the last, so their friends instantly recognize them, also when they turn to look at the woman and while they climb down. Never morph, never drift back to the original man's face, never add or remove facial hair. NO short dark curly hair and NO cream short-sleeved shirt unless [Image 1] shows them. If [Image 1] shows an animal, that animal takes the man's place with its own face, fur and markings and the natural body volume and proportions of that animal.
+
+The woman who walks in keeps her own face, long dark hair and dark suit exactly as in the video.
+
+The action, matching [Video 1] second by second, one continuous shot with no cuts:
+0-1.5 s: the man on the left sits up on top of the small round table on the left, feet on the ledge, a paper coffee cup in his hand, sipping, perfectly content.
+1.5-4 s: the woman walks in from the right with a paper coffee cup and a small bag, sits down on the ledge on the right and puts her cup on the small round table in front of her.
+4-10 s: both sit and sip. The man on the left, still on top of his table, glances at her once or twice and slowly realizes.
+10-12 s: he climbs down off the table onto the ledge.
+12-13 s: he sits down on the ledge beside the table and puts his cup on the table top.
+13-15 s: he sits the right way, a little embarrassed, cup on the table, looking ahead as if nothing happened.
+
+Real live-action footage, clear faces, natural light. No dialogue throughout the entire video. No background music.
+
+Anatomy rules: one head per person, on that person's own shoulders. A face never appears on hands, legs or clothes. Two arms and two hands each, five fingers on each hand. Exactly two characters. No extra people, no duplicate bodies, no other text, no logos, no watermark.
+```
+
+### 2. 1. The video prompt is filled in. Settings: Seedance 2.5, 15 s, 720p, 9:16, sound off. The video prompt
+
+*Kind: video_prompt*
+
+```text
+Recreate the reference video [Video 1] shot for shot: the same bare grey concrete cafe, the same concrete wall with the vertical pillars, the same low concrete ledge along the wall with the small round steel tables on curved steel posts fixed to it, the same polished floor and soft daylight, the same fixed camera, framing, timing and moves, and the same white caption "POV: Your first time in a fancy cafe" at the top, exactly as in the video. The ONLY change: the man in the cream shirt who sits on top of the small round table on the left is now the person in [Image 1], and the woman in the dark suit who walks in and sits on the ledge on the right is now the person in [Image 2].
+
+The man on the left = the person in [Image 1], in EVERY frame: copy the exact face from [Image 1] - face shape, eye color and eye shape, eyebrows, nose, mouth, skin tone, age, hair color, hair length and hairstyle, and any beard, moustache, glasses or freckles exactly as in the photo. They wear the clothes from [Image 1]. NO short dark curly hair and NO cream short-sleeved shirt unless [Image 1] shows them.
+
+The woman who walks in = the person in [Image 2], in EVERY frame: copy the exact face from [Image 2] - face shape, eye color and eye shape, eyebrows, nose, mouth, skin tone, age, hair color, hair length and hairstyle, and any beard, moustache, glasses or freckles exactly as in the photo. They wear the clothes from [Image 2]. NO long dark hair and NO dark suit unless [Image 2] shows them.
+
+The same real people in every frame, so their friends instantly recognize them. Never morph, never drift back to the original faces, never add or remove facial hair. Do not mix the two faces: [Image 1] is only the one on the table, [Image 2] is only the one who walks in. Both change: no one from the video stays.
+
+The action, matching [Video 1] second by second, one continuous shot with no cuts:
+0-1.5 s: the man on the left sits up on top of the small round table on the left, feet on the ledge, a paper coffee cup in his hand, sipping, perfectly content.
+1.5-4 s: the woman walks in from the right with a paper coffee cup and a small bag, sits down on the ledge on the right and puts her cup on the small round table in front of her.
+4-10 s: both sit and sip. The man on the left, still on top of his table, glances at her once or twice and slowly realizes.
+10-12 s: he climbs down off the table onto the ledge.
+12-13 s: he sits down on the ledge beside the table and puts his cup on the table top.
+13-15 s: he sits the right way, a little embarrassed, cup on the table, looking ahead as if nothing happened.
+
+Real live-action footage, clear faces, natural light. No dialogue throughout the entire video. No background music.
+
+Anatomy rules: one head per person, on that person's own shoulders. A face never appears on hands, legs or clothes. Two arms and two hands each, five fingers on each hand. Exactly two characters. No extra people, no duplicate bodies, no other text, no logos, no watermark.
+```
+
+### 3. 1. The video prompt is filled in. Settings: Seedance 2.5, 15 s, 720p, 9:16, sound off. The video prompt (Pet)
+
+*Kind: video_prompt*
+
+```text
+Recreate the reference video [Video 1] shot for shot: the same bare grey concrete cafe, the same concrete wall with the vertical pillars, the same low concrete ledge along the wall with the small round steel tables on curved steel posts fixed to it, the same polished floor and soft daylight, the same fixed camera, framing, timing and moves, and the same white caption "POV: Your first time in a fancy cafe" at the top, exactly as in the video. The ONLY change: the man in the cream shirt who sits on top of the small round table on the left is now the pet in [Image 1].
+
+The pet = the pet in [Image 1], whole body, in EVERY frame: the same species and breed, face, eyes, ears, muzzle, fur colors, fur length and markings as in [Image 1], with the natural body volume and proportions of that animal: never flattened, squashed, stretched or merged with anything, so its owner instantly recognizes it. It sits upright like a person and holds the paper coffee cup in its front paws. No human body, no clothes, no human hands: animal paws only. Never drift back to the man: no human face, no curly hair, no cream shirt.
+
+The woman who walks in keeps her own face, long dark hair and dark suit exactly as in the video.
+
+The action, matching [Video 1] second by second, one continuous shot with no cuts:
+0-1.5 s: the pet sits up on top of the small round table on the left, the paper coffee cup in its front paws, sipping, perfectly content.
+1.5-4 s: the woman walks in from the right with a paper coffee cup and a small bag, sits down on the ledge on the right and puts her cup on the small round table in front of her.
+4-10 s: both sit and sip. The pet, still on top of its table, turns its head to look at her once or twice, ears up.
+10-12 s: the pet hops down off the table onto the ledge.
+12-13 s: it sits down upright on the ledge beside the table and sets the cup on the table top.
+13-15 s: it sits there the right way, a little embarrassed, looking ahead as if nothing happened.
+
+Real live-action footage, natural light. No dialogue throughout the entire video. No background music.
+
+Anatomy rules: one head only on the pet, one muzzle, four legs, animal paws, never human hands. One head per person. Exactly one pet and one woman. No extra animals or people, no other text, no logos, no watermark.
+```
+

@@ -14,7 +14,7 @@ The camera looks straight down at a long moving escalator. You sit back on the s
 
 Also called: Escalator fit check, Escalator outfit transition, AI escalator video, Outfits of the week escalator edition.
 
-**Make it now:** [Make this video](https://www.makeviral.ai/templates/escalator-outfit-change-ai-trend/create). 1 photo · 13 s · 9:16 with sound · 168 credits, charged once · ready in a few minutes · no prompt to write.
+**Make it now:** [Make this video](https://www.makeviral.ai/templates/escalator-outfit-change-ai-trend/create). 1 photo · 13 s · 9:16 with sound · 200 credits, charged once · ready in up to several minutes · no prompt to write.
 
 Keyword: escalator outfit change. Also answers: escalator outfits, escalator outfit, escalator outfit change ai, escalator photoshoot, escalator fashion, escalator outfit trend, escalator runway, escalator fashion show, escalator pose, escalator photo ideas, escalator outfit ideas, escalator outfits of the week, outfit change on escalator, ai escalator outfit, escalator fashion editorial, escalator outfit video, escalator video trend, escalator trend.
 
@@ -47,19 +47,27 @@ Everything runs in the browser. No editing app, no watermark.
 ### The one-tap way (no prompt to write)
 
 1. **Add your photo.** Press "Make yours" and add you, face clear. Take it with the camera or pick it from your library. Start here: https://www.makeviral.ai/templates/escalator-outfit-change-ai-trend/create
-2. **Press Generate.** The button shows the price. Genjutsu Motion puts your photos into the Escalator outfits trend clip and copies it shot by shot for 13 seconds, with the reel's original song. You write no prompt.
-3. **Download or share.** The video is ready in a few minutes as a 9:16 MP4. Download it, share it from your phone, or find it later in My videos.
+2. **Press Generate.** The button shows the price. Seedance 2.5 puts your photos into the Escalator outfits trend clip and copies it shot by shot for 13 seconds, with the reel's original song. You write no prompt.
+3. **Download or share.** The video is ready in up to several minutes as a 9:16 MP4. Download it, share it from your phone, or find it later in My videos.
 
 ### The by-hand way, with the exact prompts
 
 The one-tap flow runs this prompt for you. The video prompt animates your own photo directly. To change it, copy it and edit it in AI Video.
 
-Settings: 1 photo (you, face clear) · genjutsu-motion · 13 s · 480p · 9:16 · no sound · 168 credits in one tap.
+Settings: 1 photo (you, face clear) · Seedance 2.5 · 13 s · 720p · 9:16 · no sound · 200 credits in one tap.
 
-1. The video prompt is filled in. Settings: genjutsu-motion, 13 s, 480p, 9:16, sound off. The video prompt:
+1. The video prompt is filled in. Settings: Seedance 2.5, 13 s, 720p, 9:16, sound off. The video prompt:
 
    ```text
-   Replace the young woman with long straight black hair who sits and lounges on the moving escalator steps with the person from image 1: keep that face, hair and skin tone exactly, in every outfit, also when two looks are on screen at once. Take only the face, hair and skin tone from image 1, never the clothes: in every shot the person wears the outfit of the video. Keep every outfit, every new look that rides in from the top of the frame, the escalator, the steel side panels, the light, the motion and the camera of the video.
+   Recreate the reference video [Video 1] shot for shot: the same straight-down camera above the long moving escalator with its grey steps and steel side panels, the same person who sits and lounges on the moving steps and rides down through the frame, the same light, framing, timing and moves. The ONLY change is the face and the hair of the young woman with long straight black hair who sits and lounges on the moving escalator steps: they are now the face and the hair of the person in [Image 1], in every look.
+
+The person = the person in [Image 1], in EVERY shot and in EVERY look: copy the exact face from [Image 1] (the face shape, eye color and eye shape, eyebrows, nose, mouth, skin tone, age, hair color, hair length and hairstyle, and any beard, moustache, glasses or freckles), so their friends recognize them at once. [Image 1] is only a head-and-shoulders portrait: take ONLY the face, the hair and the skin tone from it, never its plain black t-shirt and never its grey background. The same real person in every look, from the first frame to the last, also right after each hand-over and when the face is small or turned away. Never morph, never drift back to the original woman's face or hair.
+
+Every outfit stays exactly as in [Video 1]: the same clothes, shoes, bags and accessories, the same fit, in the same order, and each outfit change at the same moment as in [Video 1]. NO black t-shirt from [Image 1] in any look. NO long straight black hair unless [Image 1] shows it: the hair is the hair from [Image 1] in every look.
+
+The looks, at the times of [Video 1]: look 1 rides through from 0 s; look 2 rides in at the top from about 2 s while look 1 leaves at the bottom; look 3 rides in from about 6 s; look 4 rides in from 10.8 s, and only its legs and skirt show at the end. During each hand-over two copies of the person are on screen at once, the leaving look at the bottom and the next look at the top: both are the person in [Image 1], each in the outfit of its own look. The escalator moves at the same speed through the whole video. No glow, no particles, no dissolve, no flash. Never mix pieces of two looks.
+
+Anatomy rules: one person, except in the hand-over frames, where the two copies are the same person in two looks. One head on each copy's shoulders, two arms, two legs, five fingers on each hand. A face never appears on hands, clothes or the steps. No text, no captions, no logos (none on the bags), no watermark.
    ```
 
 2. Press Generate, then download the 9:16 MP4.
@@ -82,7 +90,7 @@ You pay per video in credits, and the create page shows the exact price on the G
 
 | Video model | Settings | Credits |
 | --- | --- | --- |
-| Genjutsu Motion (this template) | 13 s, 480p, copies the trend clip, one tap | 168 |
+| Seedance 2.5 (this template) | 13 s, 720p, copies the trend clip, one tap | 200 |
 
 Credits come with a plan; see [pricing](https://www.makeviral.ai/pricing). A failed video gives its credits back.
 
@@ -90,7 +98,7 @@ Credits come with a plan; see [pricing](https://www.makeviral.ai/pricing). A fai
 
 The escalator is the edit. In the real clips a phone looks straight down over the rail at a long escalator, and the creator sits or lounges on the moving steps in a different outfit for each take. In the AI version that MakeViral copies, the escalator carries the person down through the frame, and as one look leaves at the bottom, the next look already rides in at the top. It looks like an escalator fashion editorial, an outfit inspiration post and a small magic trick at once.
 
-Our template copies the AI escalator reel by @abimbola_fits from 12 October 2026, cut to 13 seconds and four looks. First Nano Banana 2.1 makes a close portrait from your photo, so only your face and hair go into the reel. Then Higgsfield Genjutsu puts you in place of the woman in the reel, shot by shot, so every look rides in exactly where it does in the original. Your face, hair and skin tone come from your photo. The outfits, the escalator and the camera come from the reel.
+Our template copies the AI escalator reel by @abimbola_fits from 12 October 2026, cut to 13 seconds and four looks. First Nano Banana 2.1 makes a close portrait from your photo, so only your face and hair go into the reel. Then Seedance 2.5 puts you in place of the woman in the reel, shot by shot, so every look rides in exactly where it does in the original. Your face, hair and skin tone come from your photo. The outfits, the escalator and the camera come from the reel.
 
 With **Your outfits** you write your own look for any of the four rides. MakeViral first changes those looks in the reel itself (FLUX.3 Edit Video), so the new outfits still arrive with the escalator, and then puts you in. It is an escalator photoshoot without the escalator, the camera or the four changes of clothes.
 
@@ -119,7 +127,7 @@ To use a trending sound, add it in TikTok, Instagram or YouTube when you post, f
 
 ## What can go wrong, and how do you fix it?
 
-This version is new, and we have not run it with test photos yet. It uses the same setup as our ceiling fan template, which kept the person the same in all four looks in our tests. These are the problems to look out for:
+This version is new, and we have not run it with test photos yet. It uses the same setup as our ceiling fan template: a close portrait of you first, then Seedance 2.5 copies the reel. These are the problems to look out for:
 
 | What goes wrong | Why | What to do |
 |---|---|---|
@@ -127,7 +135,6 @@ This version is new, and we have not run it with test photos yet. It uses the sa
 | Sunglasses appear in one look | The woman in the reel wears them in the sweater look | Write your own outfit 3, or run it again. |
 | An outfit detail differs from the reel | The model redraws the clothes on your body | That is normal. The cut and the colors stay close to the reel. |
 | A soft patch on the black bag in look 3 | We blurred a brand logo in the reel | Nothing to fix, or write your own outfit 3. |
-| The clip looks soft on a big screen | Genjutsu makes 480p video | It is made for a phone screen, where 480p looks fine. |
 | A written outfit looks a little different from your words | The model draws the look in the reel's pose and light | Name fewer things, for example a color and one piece of clothing, and run it again. |
 
 ## Escalator Outfits trend questions
@@ -158,7 +165,7 @@ Looks that contrast hard in color and shape: a bright suit, a dark dress, a cozy
 
 ### What is the best escalator pose for the video?
 
-You do not pose: the reel sets the pose. The woman in the reel sits back on the steps, crosses her legs, leans on one hand and touches her hair, the poses fashion creators use in their escalator photoshoot and escalator photo ideas posts. Genjutsu copies those moves onto you.
+You do not pose: the reel sets the pose. The woman in the reel sits back on the steps, crosses her legs, leans on one hand and touches her hair, the poses fashion creators use in their escalator photoshoot and escalator photo ideas posts. Seedance 2.5 copies those moves onto you.
 
 ### Is this the same as the escalator trend?
 
@@ -166,7 +173,7 @@ No. The posts called the "escalator trend" on TikTok are a different clip, filme
 
 ### How long is the video?
 
-13 seconds, vertical 9:16 at 480p, with the reel's original sound. It takes a few minutes, and you can leave the page while it runs: the finished clip waits in My videos.
+13 seconds, vertical 9:16 at 720p, with the reel's original sound. It takes 5 to 15 minutes, and you can leave the page while it runs: the finished clip waits in My videos.
 
 ### Does the escalator outfit video cost credits?
 
@@ -186,8 +193,17 @@ Yes. The MP4 has no watermark, so you can post it to TikTok, Reels or Shorts as 
 - [AI photo generator](https://www.makeviral.ai/ai-photo-generator)
 - [All AI video templates](https://www.makeviral.ai/templates)
 
+## New AI video trends this week
+
+- [Christmas Dance AI: Do the New TikTok Christmas Dance From Your Photos](https://www.makeviral.ai/templates/christmas-dance-ai-trend): Hip sways with the hands at the collar, rolling arms, a quick spin and raised fists, side by side in matching Christmas pajamas. Add two photos for the duo, one for a solo take, or two pets, and get the dance with the sound.
+- [Cat on Ultra Bee AI: Put Your Pet on the Wheelie](https://www.makeviral.ai/templates/cat-on-ultra-bee-ai-trend): Add one photo, and your cat or dog stands on an electric dirt bike and holds a long wheelie down a city road at golden hour, in the same shots as the viral clip, with its original sound. You can take the ride yourself, too.
+- [Tus Ojos Me Reflejan el Sentimiento: The Cafuné Eye Close-Up Trend](https://www.makeviral.ai/templates/tus-ojos-me-reflejan-ai-trend): You lie on your side, a hand rests on your cheek, warm light falls on your face, and the camera slowly moves in until your eyes fill the screen while the line plays. One photo in, an 8-second vertical clip with the trend's song out.
+- [İnşallah Maşallah AI Trend: Sing Neşe Karaböcek's Song on the Couch](https://www.makeviral.ai/templates/insallah-masallah-ai-trend): You sit on a light grey couch and sing the old Turkish love song straight to the camera: a hand on the heart, a big laugh with both hands on your head, a finger pointed at the camera and a kiss at the end. One photo of you, a grandparent or your pet, and the 15-second clip comes with the song.
+- [Ice Ice Baby Dance AI: Do the Viral Duo Dance With a Friend](https://www.makeviral.ai/templates/ice-ice-baby-dance-ai): Two dancers side by side, the same bouncy 90s steps, a spin on the beat and a strut to the camera. Add a photo of you and a friend, of you alone, or of your pet, and get the dance with the sound.
+- [Save Yourself Trend: Pull Yourself Up From the Cliff](https://www.makeviral.ai/templates/save-yourself-ai-trend): One photo plays both of you: the scared you clinging to a wet sea cliff, and the calm you who reaches down, pulls you up and holds you. Or use two photos: an older photo of you and a new one, or you and a friend. 15 seconds, vertical.
+
 ## Make your own Escalator Outfits video
 
-Add one photo and press Generate. No prompt to write. 168 credits, charged once.
+Add one photo and press Generate. No prompt to write. 200 credits, charged once.
 
 [Make this video](https://www.makeviral.ai/templates/escalator-outfit-change-ai-trend/create)

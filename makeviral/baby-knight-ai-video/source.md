@@ -70,6 +70,7 @@ Settings: 2 photos (mom or dad + your child (twins: both in one photo)) · Seeda
 
 The parent is the adult in [Image 1], in every frame: copy the exact face from [Image 1] (the face shape, eye color and eye shape, eyebrows, nose, mouth, skin tone, age, hair color, hair length and hairstyle, and any beard, moustache, glasses or freckles).
 The little knight is the child in [Image 2], in every frame: copy the exact face from [Image 2] (the face shape, eye color and eye shape, eyebrows, nose, mouth, cheeks, skin tone, hair color, hair length and hairstyle) and keep the child's real age. Keep each child's gender from [Image 2]: a boy stays a boy and a girl stays a girl, with the same hair length as in [Image 2], also when the wind blows the hair; no long hair, bow or hair clip unless [Image 2] shows them. If [Image 2] shows a baby, keep the same baby at the same age, with the same face, eyes, nose, mouth, cheeks, skin tone and hair, standing upright as a tiny knight: never an older child. Leave out temporary marks on the skin, like scratches, bruises, stickers or food. If [Image 2] shows two children, both are little knights side by side, each with their own face from [Image 2] and their own sword, and the parent gives each of them a teddy bear.
+The little knight is always the child and the parent is always the adult: if [Image 1] shows a child and [Image 2] shows an adult, the child from [Image 1] is the little knight and the adult from [Image 2] is the parent. Never put an adult's face on the little knight's small body.
 Never blend the faces. Each face stays the same from the first frame to the last, so the family recognizes them at once.
 
 The child wears small fitted medieval plate armor (a polished steel breastplate, rounded shoulder plates, jointed arm and leg plates, leather straps and small brass buckles) and a short cream cape, with no helmet. The parent wears polished steel plate armor with no helmet and a long dark red cape with gold trim, and holds a small soft brown teddy bear.
@@ -221,6 +222,15 @@ Yes. The knight cat template on MakeViral turns your pet into the little knight,
 - [AI Reels](https://www.makeviral.ai/tools/ai-reels-generator): Pick a format, give it a topic or a product link, and get a finished vertical reel with voice and captions. Nothing to film, nothing to edit.
 - [AI photo generator](https://www.makeviral.ai/ai-photo-generator)
 - [All AI video templates](https://www.makeviral.ai/templates)
+
+## New AI video trends this week
+
+- [Christmas Dance AI: Do the New TikTok Christmas Dance From Your Photos](https://www.makeviral.ai/templates/christmas-dance-ai-trend): Hip sways with the hands at the collar, rolling arms, a quick spin and raised fists, side by side in matching Christmas pajamas. Add two photos for the duo, one for a solo take, or two pets, and get the dance with the sound.
+- [Cat on Ultra Bee AI: Put Your Pet on the Wheelie](https://www.makeviral.ai/templates/cat-on-ultra-bee-ai-trend): Add one photo, and your cat or dog stands on an electric dirt bike and holds a long wheelie down a city road at golden hour, in the same shots as the viral clip, with its original sound. You can take the ride yourself, too.
+- [Tus Ojos Me Reflejan el Sentimiento: The Cafuné Eye Close-Up Trend](https://www.makeviral.ai/templates/tus-ojos-me-reflejan-ai-trend): You lie on your side, a hand rests on your cheek, warm light falls on your face, and the camera slowly moves in until your eyes fill the screen while the line plays. One photo in, an 8-second vertical clip with the trend's song out.
+- [İnşallah Maşallah AI Trend: Sing Neşe Karaböcek's Song on the Couch](https://www.makeviral.ai/templates/insallah-masallah-ai-trend): You sit on a light grey couch and sing the old Turkish love song straight to the camera: a hand on the heart, a big laugh with both hands on your head, a finger pointed at the camera and a kiss at the end. One photo of you, a grandparent or your pet, and the 15-second clip comes with the song.
+- [Ice Ice Baby Dance AI: Do the Viral Duo Dance With a Friend](https://www.makeviral.ai/templates/ice-ice-baby-dance-ai): Two dancers side by side, the same bouncy 90s steps, a spin on the beat and a strut to the camera. Add a photo of you and a friend, of you alone, or of your pet, and get the dance with the sound.
+- [Save Yourself Trend: Pull Yourself Up From the Cliff](https://www.makeviral.ai/templates/save-yourself-ai-trend): One photo plays both of you: the scared you clinging to a wet sea cliff, and the calm you who reaches down, pulls you up and holds you. Or use two photos: an older photo of you and a new one, or you and a friend. 15 seconds, vertical.
 
 ## Make your own Baby Knight video
 

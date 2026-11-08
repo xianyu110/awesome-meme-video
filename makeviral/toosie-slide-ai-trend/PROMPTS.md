@@ -1,0 +1,37 @@
+# Toosie Slide AI: Do the Toosie Slide Dance by the Grand Piano
+
+- Source: [makeviral](https://www.makeviral.ai/templates/toosie-slide-ai-trend)
+- Slug: `toosie-slide-ai-trend`
+
+The toosie slide dance is the 2020 TikTok dance of Drake's "Toosie Slide": right foot up, left foot slide, left foot up, right foot slide.
+
+## Demo videos (CDN)
+
+- https://www.makeviral.ai/media/templates/toosie-slide-ai-trend/original-main-v2.mp4
+
+## Posters
+
+- https://www.makeviral.ai/media/templates/toosie-slide-ai-trend/original-main-v1.jpg
+
+## Prompts
+
+### 1. 1. The video prompt is filled in. Settings: kling-3-motion, 14 s, 720p, 9:16, sound off. The video prompt
+
+*Kind: video_prompt*
+
+```text
+Replace the character in the video with the person from the uploaded image. Keep actions, poses, facial expressions, camera movement and rhythm. Preserve the person's original facial features, maintain character consistency, no distortion, no glitches, no artifacts.
+The person dances in the marble mansion hall from the uploaded image, beside the black grand piano, in the slim black suit, the pale grey shirt, the dark tie, the black shoes and the black gloves from the uploaded image, with the gloves on both hands the whole time, and keeps their own hair from the uploaded image. Not the black jacket, the black jeans, the red sneakers or the silver chain of the young man in the video, and not his short curly black hair.
+Follow the young man's moves and timing exactly, the slide dance step by step on the beat: the right foot lifts and the left foot slides back, then the left foot lifts and the right foot slides back, the arms swung out wide and loose, a smooth lean to the side, a quick dip, then a confident swagger toward the camera with a big smile. Keep the whole body in view with natural balance and stable ground contact, smooth gliding steps, no foot sliding through the floor. Exactly one person, no other people. One continuous shot. No text, no captions, no logos.
+```
+
+### 2. 1. The video prompt is filled in. Settings: kling-3-motion, 14 s, 720p, 9:16, sound off. The video prompt
+
+*Kind: video_prompt*
+
+```text
+Replace the character in the video with the person from the uploaded image. Keep actions, poses, facial expressions, camera movement and rhythm. Preserve the person's original facial features, maintain character consistency, no distortion, no glitches, no artifacts.
+The person dances in the place from the uploaded image, in the clothes and shoes from the uploaded image, and keeps their own hair from the uploaded image. Not the black jacket, the black jeans, the red sneakers or the silver chain of the young man in the video unless the uploaded image shows them, and not his short curly black hair.
+Follow the young man's moves and timing exactly, the slide dance step by step on the beat: the right foot lifts and the left foot slides back, then the left foot lifts and the right foot slides back, the arms swung out wide and loose, a smooth lean to the side, a quick dip, then a confident swagger toward the camera with a big smile. Keep the whole body in view with natural balance and stable ground contact, smooth gliding steps. Exactly one person, no other people. One continuous shot. No text, no captions, no logos.
+```
+

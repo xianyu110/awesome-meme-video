@@ -1,0 +1,38 @@
+{
+  "source": "makeviral",
+  "source_site": "https://www.makeviral.ai",
+  "slug": "mom-dad-sister-brother-ai-trend",
+  "name": "Mom Dad Sister Brother Trend: Flick a Heart to Each Name",
+  "url": "https://www.makeviral.ai/templates/mom-dad-sister-brother-ai-trend",
+  "markdown_url": "https://www.makeviral.ai/templates/mom-dad-sister-brother-ai-trend.md",
+  "blurb": "The Mom Dad Sister Brother trend is a TikTok clip where the names Mom, Dad, Sister and Brother sit next to you.",
+  "updated": "2026-10-23",
+  "published": "2026-10-23",
+  "credits": 126,
+  "demo_videos": [
+    "https://www.makeviral.ai/media/templates/mom-dad-sister-brother-ai-trend/original-main-v2.mp4"
+  ],
+  "posters": [
+    "https://www.makeviral.ai/media/templates/mom-dad-sister-brother-ai-trend/original-main-v1.jpg"
+  ],
+  "prompts": [
+    {
+      "label": "1. The video prompt is filled in. Settings: Seedance 2.5, 10 s, 720p, 9:16, sound on. The video prompt",
+      "variant": null,
+      "kind": "video_prompt",
+      "text": "Use [Image 1] as the main character and keep the person exactly as photographed: copy the exact face from [Image 1] (the face shape, eye color and eye shape, eyebrows, nose, mouth, skin tone, age, hair color, hair length and hairstyle, and any beard, moustache, glasses or freckles), the same hair, skin tone and clothes. The same face from the first frame to the last, so their friends recognize them at once. Never morph, never a different person. They sit on their bed in a cosy bedroom in the evening, warm lamp light and fairy lights behind them, filmed with a phone propped in front of them, vertical 9:16, framed from the waist up, the face large and clear. On the left third of the frame, four short words in clean white bold sans-serif text with a soft shadow, stacked top to bottom: \"Mom\", \"Dad\", \"Sister\", \"Brother\". The words stay fixed in place, same spelling, for the whole clip. It is the \"Mom, Dad, Sister, Brother\" family heart trend: they hold one hand out palm up, pinch a tiny red heart out of it and flick it toward the words: a red heart pops up next to \"Mom\", then \"Dad\", then \"Sister\".\n0-1 s: the person smiles at the camera, three tiny red hearts lie in their open palm.\n1-5 s: one flick per name, in time with the music: a red heart pops up next to \"Mom\", then \"Dad\", then \"Sister\". Each time they glance at the word and smile.\n5-6.5 s: on \"Brother\" the palm is empty. They show both empty hands to the camera with a playful shrug.\n6.5-8.5 s: they press one hand to their chest, wince as if it stings a little, and take out their own heart with their fingertips, then flick it toward \"Brother\": a bigger realistic anatomical heart sticker, like the anatomical heart emoji (a red-pink heart with blue veins and a short artery on top), pops up next to \"Brother\". Nothing real comes out of the chest: no blood, no wound, the heart only appears as a flat sticker next to the word.\n8.5-10 s: they clutch their chest, lean back with a dramatic face, then laugh at the camera. The face is large, sharp and clearly visible.\nSmall glossy red heart emojis, flat 2D like phone stickers. One continuous shot. Audio: a soft, sweet original piano-and-ukulele melody, no vocals. Exactly one person, a grown adult. One head, two arms and five fingers on each hand. No other text, no captions, no logos, no watermark."
+    }
+  ],
+  "variant_headings": [
+    "What the Mom Dad Sister Brother video looks like",
+    "How to make the Mom Dad Sister Brother video on MakeViral",
+    "Which photo works best?",
+    "What does the Mom Dad Sister Brother video make?",
+    "How long is the video, and does it cost credits?",
+    "Other AI video templates and tools",
+    "New AI video trends this week",
+    "Make your own Mom Dad Sister Brother video"
+  ],
+  "prompt_count": 1,
+  "scraped_at": "2026-11-08"
+}

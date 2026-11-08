@@ -3,7 +3,7 @@
 > An AI hug video is a short clip where two people from two separate photos walk toward each other and hug.
 
 Canonical: https://www.makeviral.ai/templates/ai-hug-video
-Updated: 2026-10-18
+Updated: 2026-10-24
 Published: 2026-09-30
 Author: MakeViral Team (https://www.makeviral.ai/about)
 Publisher: MakeViral (https://www.makeviral.ai)
@@ -12,11 +12,11 @@ An **AI hug video** is a short clip where two people from two separate photos wa
 
 Two people step toward each other in a sunny park and share a warm hug. Two photos in, an 8-second clip with gentle original music out.
 
-Also called: hug my younger self, trend hug my younger self, trend hug your younger self, ai hugging, hug video, Polaroid hug trend, Hug yourself trend.
+Also called: hug my younger self, trend hug my younger self, trend hug your younger self, ai hugging, hug video, Polaroid hug trend, Hug yourself trend, Hug your inner child trend.
 
 **Make it now:** [Make this video](https://www.makeviral.ai/templates/ai-hug-video/create). 2 photos · 8 s · 9:16 with sound · 103 credits, charged once · ready in a few minutes · no prompt to write.
 
-Keyword: ai hug. Also answers: ai hug generator, ai hug video generator, ai hug video, ai hug trend, hug ai photo, hug ai prompt, hug trend prompt, hug trend tiktok, hug trend ai prompt, hug trend photo, trend hug me, trend hug younger self, ai hug yourself, hug ai video generator, hug ai image, hug trend gemini, hug trend tutorial, hug trend instagram, hug trend video, hug ai photo prompt, hug trend gemini prompt, hug my younger self ai generator, hug your little self, hug trend ai, hug ai video.
+Keyword: ai hug. Also answers: ai hug generator, ai hug video generator, ai hug video, ai hug trend, hug ai photo, hug ai prompt, hug trend prompt, hug trend tiktok, hug trend ai prompt, hug trend photo, trend hug me, trend hug younger self, ai hug yourself, hug ai video generator, hug ai image, hug trend gemini, hug trend tutorial, hug trend instagram, hug trend video, hug ai photo prompt, hug trend gemini prompt, hug my younger self ai generator, hug your little self, ai hug your inner child, inner child hug trend, hug your inner child ai, hug trend ai, hug ai video.
 
 ## What is the AI Hug trend, and where did it start?
 
@@ -148,6 +148,10 @@ Use the prompts on this page with an old photo of yourself as a child and a rece
 
 It is the same idea, as a video. In the 2025 "hug my younger self" posts, people used Google's Nano Banana image model to make nostalgic, Polaroid-style photos, as Storyboard18 described them. This page makes an AI still of the two of you in a sunny park first, then turns it into an 8-second hug video. For the hug yourself trend, add an old photo of yourself as a child and a recent photo of yourself. The clip then shows your adult self hugging your little self.
 
+### Is this the hug your inner child trend?
+
+Yes, it is the same idea: your adult self hugs the child you used to be. Add an old photo of yourself as a child first and a recent photo of yourself second. The AI hug video then shows you hugging your inner child in a sunny park.
+
 ### Can I make an AI hug video from one photo with two people?
 
 The prompts are written for two photos with one person each, because that keeps each face sharp. If you only have a photo of both of you, crop it into two photos, one person each, and upload both.
@@ -177,10 +181,20 @@ Both. Hug trend TikTok and Instagram posts show either a still or a clip: two pe
 - [AI Baby Generator: Make a Future Baby Home Video](https://www.makeviral.ai/templates/ai-future-baby-video): Two partner photos in, one imagined baby out: a nostalgic camcorder montage of first steps, messy breakfasts and a ride on a parent's shoulders.
 - [80s AI Trend: Your 1985 Photo and Home Video](https://www.makeviral.ai/templates/80s-ai-trend): One selfie becomes a faded 1985 snapshot with big hair and a date stamp. Stop there for the photo, or animate it into a 10-second camcorder home video with sound.
 - [AI Crying Video: Make the Tears Effect From One Photo](https://www.makeviral.ai/templates/ai-crying-video): One photo of you becomes the night farewell scene from a drama: you smile through tears at someone, the smile breaks, and you walk away.
+- [Robot Girl AI: Become the Android at the Tech Expo and Get Your First Hug](https://www.makeviral.ai/templates/robot-girl-ai-trend): A busy tech expo hall, a booth, a rope barrier and a crowd with phones: you are the android with a glowing core at the waist. A visitor asks for a hug, you hold your arms out like a robot, then you hug back and smile.
 - [Photo Reveal Video](https://www.makeviral.ai/tools/photo-reveal-video-generator): A headline hook plus four captioned photos that land together. One screen the viewer has to read twice, in six seconds.
 - [AI Reels](https://www.makeviral.ai/tools/ai-reels-generator): Pick a format, give it a topic or a product link, and get a finished vertical reel with voice and captions. Nothing to film, nothing to edit.
 - [AI photo generator](https://www.makeviral.ai/ai-photo-generator)
 - [All AI video templates](https://www.makeviral.ai/templates)
+
+## New AI video trends this week
+
+- [Christmas Dance AI: Do the New TikTok Christmas Dance From Your Photos](https://www.makeviral.ai/templates/christmas-dance-ai-trend): Hip sways with the hands at the collar, rolling arms, a quick spin and raised fists, side by side in matching Christmas pajamas. Add two photos for the duo, one for a solo take, or two pets, and get the dance with the sound.
+- [Cat on Ultra Bee AI: Put Your Pet on the Wheelie](https://www.makeviral.ai/templates/cat-on-ultra-bee-ai-trend): Add one photo, and your cat or dog stands on an electric dirt bike and holds a long wheelie down a city road at golden hour, in the same shots as the viral clip, with its original sound. You can take the ride yourself, too.
+- [Tus Ojos Me Reflejan el Sentimiento: The Cafuné Eye Close-Up Trend](https://www.makeviral.ai/templates/tus-ojos-me-reflejan-ai-trend): You lie on your side, a hand rests on your cheek, warm light falls on your face, and the camera slowly moves in until your eyes fill the screen while the line plays. One photo in, an 8-second vertical clip with the trend's song out.
+- [İnşallah Maşallah AI Trend: Sing Neşe Karaböcek's Song on the Couch](https://www.makeviral.ai/templates/insallah-masallah-ai-trend): You sit on a light grey couch and sing the old Turkish love song straight to the camera: a hand on the heart, a big laugh with both hands on your head, a finger pointed at the camera and a kiss at the end. One photo of you, a grandparent or your pet, and the 15-second clip comes with the song.
+- [Ice Ice Baby Dance AI: Do the Viral Duo Dance With a Friend](https://www.makeviral.ai/templates/ice-ice-baby-dance-ai): Two dancers side by side, the same bouncy 90s steps, a spin on the beat and a strut to the camera. Add a photo of you and a friend, of you alone, or of your pet, and get the dance with the sound.
+- [Save Yourself Trend: Pull Yourself Up From the Cliff](https://www.makeviral.ai/templates/save-yourself-ai-trend): One photo plays both of you: the scared you clinging to a wet sea cliff, and the calm you who reaches down, pulls you up and holds you. Or use two photos: an older photo of you and a new one, or you and a friend. 15 seconds, vertical.
 
 ## Make your own AI Hug video
 

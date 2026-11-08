@@ -1,0 +1,56 @@
+{
+  "source": "makeviral",
+  "source_site": "https://www.makeviral.ai",
+  "slug": "save-yourself-ai-trend",
+  "name": "Save Yourself Trend: Pull Yourself Up From the Cliff",
+  "url": "https://www.makeviral.ai/templates/save-yourself-ai-trend",
+  "markdown_url": "https://www.makeviral.ai/templates/save-yourself-ai-trend.md",
+  "blurb": "The save yourself trend is an AI video where you hang from a sea cliff above a rough sea, and a calmer, stronger version of you grabs your hand, pulls you up and hugs you.",
+  "updated": "2026-11-08",
+  "published": "2026-11-08",
+  "credits": 189,
+  "demo_videos": [
+    "https://www.makeviral.ai/media/templates/save-yourself-ai-trend/example-main-v1.mp4"
+  ],
+  "posters": [
+    "https://www.makeviral.ai/media/templates/save-yourself-ai-trend/example-main-input.jpg",
+    "https://www.makeviral.ai/media/templates/save-yourself-ai-trend/example-main-poster.jpg"
+  ],
+  "prompts": [
+    {
+      "label": "1. The video prompt is filled in. Settings: Seedance 2.5, 15 s, 720p, 9:16, sound on. The video prompt",
+      "variant": null,
+      "kind": "video_prompt",
+      "text": "Create a realistic vertical video. In the frame: two versions of the same person. The hero hangs at the top edge of a sea cliff. The rescuer comes to help. [Image 1] is the sole face reference for both of them.\nFilmed like a real film: a high sea cliff of wet black volcanic rock, a rough grey sea with white surf far below, a cold overcast sky, sea spray and wind. Photorealistic, natural skin and natural colors, gentle film grain, not CGI, not a cartoon. Close-ups and medium shots keep the faces large, sharp and well lit.\n\nThe hero = the person in [Image 1], in every shot: copy the exact face from [Image 1] (the face shape, eye color and eye shape, eyebrows, nose, mouth, skin tone, age, hair color, hair length and hairstyle, and any beard, moustache, glasses or freckles). Dark clothes, wet hair stuck to the forehead, scared and exhausted.\nThe rescuer = the same person from [Image 1], in every shot: the same exact face (the face shape, eye color and eye shape, eyebrows, nose, mouth, skin tone, age, hair color, hair length and hairstyle, and any beard, moustache, glasses or freckles), the same age. A white shirt, dry, neat hair, calm, strong and sure.\nOne face for both: they look like twins, never two strangers. Only the clothes, the wet or dry hair and the mood tell them apart. Never swap their clothes. Each face stays the same from the first frame to the last, so friends recognize them at once.\n\nShot 1 [0-4s]: from above, close: the hero in dark clothes holds on to the top edge of the wet cliff, the sea rages below. A close-up of the face: fear, tiredness, heavy breathing.\nShot 2 [4-8s]: one hand slips. The hero holds on with the other hand and reaches up. Cut to a low angle: the rescuer in a white shirt leans down from a safe ledge and firmly grabs the outstretched hand.\nShot 3 [8-12s]: the rescuer pulls the hero up onto the ledge. Show their clasped hands and both faces. The moves are smooth and steady, the grip never breaks, and the hands keep the same hold from shot to shot.\nShot 4 [12-15s]: a medium shot: both stand on top and hug. The tension gives way to relief, eyes closed. Soft sunlight breaks through the clouds. Both faces in three-quarter view to the camera.\n\nSound: waves, wind and breathing. No dialogue throughout the entire video. No background music.\n\nNatural faces, anatomy and movements. Only these two, nobody else. No falling, no injuries, no blood, no extra limbs or hands. No text, no subtitles, no logos, no watermark."
+    },
+    {
+      "label": "1. The video prompt is filled in. Settings: Seedance 2.5, 15 s, 720p, 9:16, sound on. The video prompt",
+      "variant": null,
+      "kind": "video_prompt",
+      "text": "Create a realistic vertical video. In the frame: two people. The hero from [Image 1] hangs at the top edge of a sea cliff. The rescuer from [Image 2] comes to help. Keep each one's look from their own photo: never mix faces, ages or hairstyles. [Image 1] is the sole face reference for the hero; [Image 2] for the rescuer.\nFilmed like a real film: a high sea cliff of wet black volcanic rock, a rough grey sea with white surf far below, a cold overcast sky, sea spray and wind. Photorealistic, natural skin and natural colors, gentle film grain, not CGI, not a cartoon. Close-ups and medium shots keep the faces large, sharp and well lit.\n\nThe hero = the person in [Image 1], in every shot: copy the exact face from [Image 1] (the face shape, eye color and eye shape, eyebrows, nose, mouth, skin tone, age, hair color, hair length and hairstyle, and any beard, moustache, glasses or freckles), at the age shown in [Image 1]. Dark clothes, wet hair stuck to the forehead, scared and exhausted. If [Image 1] is an old or black-and-white photo, the hero appears in natural full color with the same face.\nThe rescuer = the person in [Image 2], in every shot: copy the exact face from [Image 2] (the face shape, eye color and eye shape, eyebrows, nose, mouth, skin tone, age, hair color, hair length and hairstyle, and any beard, moustache, glasses or freckles), at the age shown in [Image 2]. A white shirt, calm, strong and sure.\nIf an image shows an animal, that one is that animal, with its own face, fur, markings and size, never a person.\nNever blend their faces, never swap their clothes. Each face stays the same from the first frame to the last, so friends recognize them at once.\n\nShot 1 [0-4s]: from above, close: the hero in dark clothes holds on to the top edge of the wet cliff, the sea rages below. A close-up of the face: fear, tiredness, heavy breathing.\nShot 2 [4-8s]: one hand slips. The hero holds on with the other hand and reaches up. Cut to a low angle: the rescuer in a white shirt leans down from a safe ledge and firmly grabs the outstretched hand.\nShot 3 [8-12s]: the rescuer pulls the hero up onto the ledge. Show their clasped hands and both faces. The moves are smooth and steady, the grip never breaks, and the hands keep the same hold from shot to shot.\nShot 4 [12-15s]: a medium shot: both stand on top and hug. The tension gives way to relief, eyes closed. Soft sunlight breaks through the clouds. Both faces in three-quarter view to the camera.\n\nSound: waves, wind and breathing. No dialogue throughout the entire video. No background music.\n\nNatural faces, anatomy and movements. Only these two, nobody else. No falling, no injuries, no blood, no extra limbs or hands. No text, no subtitles, no logos, no watermark."
+    },
+    {
+      "label": "1. The video prompt is filled in. Settings: Seedance 2.5, 10 s, 720p, 9:16, sound on. The video prompt",
+      "variant": "Pet",
+      "kind": "video_prompt",
+      "text": "Create a realistic vertical video. In the frame: two versions of the same pet. The scared one clings to the top edge of a sea cliff. The calm one comes to help. [Image 1] is the sole reference for both of them.\nFilmed like a real film: a high sea cliff of wet black volcanic rock, a rough grey sea with white surf far below, a cold overcast sky, sea spray and wind. Photorealistic, natural skin and natural colors, gentle film grain, not CGI, not a cartoon. Close-ups and medium shots keep the faces large, sharp and well lit.\n\nBoth = the animal in [Image 1], in every shot: the same species and breed, face, eyes, ears, muzzle, fur colors, fur length and markings as in [Image 1], with the natural body volume and proportions of that animal: never flattened, squashed, stretched or merged with anything. They look like twins. The scared one has damp, spiky fur from the spray; the calm one has dry, fluffy fur. Both stay animals on four legs: they never talk and never stand like people.\n\nShot 1 [0-3s]: from above, close: the scared pet scrambles at the top edge of the wet cliff, front paws on the rock, the sea rages below. A close-up of its scared face.\nShot 2 [3-6s]: one paw slips. Cut to a low angle: the calm pet stands on a safe ledge, leans down and gently grips the scared one by the scruff of the neck with its mouth.\nShot 3 [6-10s]: the calm pet pulls the scared one up onto the ledge. They press together and nuzzle, the scared one tucks its head under the other's chin, eyes closed. Soft sunlight breaks through the clouds.\n\nSound: waves, wind and breathing. No dialogue throughout the entire video. No background music.\n\nNatural faces, anatomy and movements. Only these two animals, no people, nobody else. No falling, no injuries, no blood, no extra limbs or hands. No text, no subtitles, no logos, no watermark."
+    }
+  ],
+  "variant_headings": [
+    "What the Save Yourself video looks like",
+    "How to make the Save Yourself video on MakeViral",
+    "Which photo works best?",
+    "What the video shows, second by second",
+    "Three versions: one photo, two photos, or your pet",
+    "How do I make the Save Yourself AI video?",
+    "Can I use one photo for both of me?",
+    "Can I use an old photo and a new photo, or a friend?",
+    "Can I make it with my pet?",
+    "How long is the video, and does it have sound?",
+    "Other AI video templates and tools",
+    "New AI video trends this week",
+    "Make your own Save Yourself video"
+  ],
+  "prompt_count": 3,
+  "scraped_at": "2026-11-08"
+}

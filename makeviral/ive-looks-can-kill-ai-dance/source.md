@@ -3,7 +3,7 @@
 > The IVE Looks Can Kill dance is the "girl hero" point challenge of IVE's new song (룩스캔킬, 19 October 2026): finger guns that snap out and fire on the beat, then action-hero poses.
 
 Canonical: https://www.makeviral.ai/templates/ive-looks-can-kill-ai-dance
-Updated: 2026-10-19
+Updated: 2026-11-02
 Published: 2026-10-19
 Author: MakeViral Team (https://www.makeviral.ai/about)
 Publisher: MakeViral (https://www.makeviral.ai)
@@ -16,7 +16,7 @@ Also called: IVE girl hero dance, Looks Can Kill finger gun challenge, LooksCanK
 
 **Make it now:** [Make this video](https://www.makeviral.ai/templates/ive-looks-can-kill-ai-dance/create). 1 photo · 10 s · 9:16 with sound · 126 credits, charged once · ready in a few minutes · no prompt to write.
 
-Keyword: ive looks can kill. Also answers: looks can kill challenge, ive looks can kill dance, 룩스캔킬, 아이브 룩스캔킬, looks can kill ive, ive looks can kill challenge, looks can kill dance, 룩스캔킬 챌린지, ai dance video, kpop finger gun dance, finger gun dance, looks can kill ai dance, ive looks can kill ai, looks can kill kpop, looks can kill tiktok, looks can kill dance challenge, looks can kill dance cover, looks can kill dance tutorial, finger gun dance tiktok, finger gun dance trend, ive girl hero, ai dog dance, ai cat dance, ai dance video generator, ai dance trend, ai kpop dance, kpop dance ai, kpop ai dance video, ive new song 2026, looks can kill song, 아이브 챌린지, 아이브 신곡, looks can kill cat.
+Keyword: ive looks can kill. Also answers: looks can kill challenge, ive looks can kill dance, 룩스캔킬, 아이브 룩스캔킬, looks can kill ive, ive looks can kill challenge, looks can kill dance, 룩스캔킬 챌린지, ai dance video, kpop finger gun dance, finger gun dance, looks can kill ive sample, ive looks can kill template, ive looks can kill sample, looks can kill ai dance, ive looks can kill ai, looks can kill kpop, looks can kill tiktok, looks can kill dance challenge, looks can kill dance cover, looks can kill dance tutorial, finger gun dance tiktok, finger gun dance trend, ive girl hero, ai dog dance, ai cat dance, ai dance video generator, ai dance trend, ai kpop dance, kpop dance ai, kpop ai dance video, ive new song 2026, looks can kill song, 아이브 챌린지, 아이브 신곡, looks can kill cat.
 
 ## What is the Looks Can Kill Dance trend, and where did it start?
 
@@ -30,7 +30,7 @@ The challenge came out a week before the song. On 12 October @ive.official poste
 - **2026-10-12**: IVE posts the Looks Can Kill challenge a week before the song, to a short preview of the track (2.5 million views by 19 October). Source: [TikTok](https://www.tiktok.com/@ive.official/video/7695704616163478802).
 - **2026-10-13**: The Korean press reports that IVE released the challenge before the song and calls the hero performance addictive. Source: [Sports Seoul](https://www.sportsseoul.com/news/read/1640944).
 - **2026-10-13**: @danceverse000 posts a mirrored dance cover of the point moves (66,300 views by 19 October). Source: [TikTok](https://www.tiktok.com/@danceverse000/video/7696074225672654132).
-- **2026-10-19**: The single comes out at 6 PM Korean time; #룩스캔킬 has 16.6 million TikTok views and #lookscankill 23.3 million.
+- **2026-10-19**: The single comes out at 6 PM Korean time; #룩스캔킬 has 16.6 million TikTok views and #lookscankill 23.3 million. Source: [TikTok](https://www.tiktok.com/tag/lookscankill).
 
 ## What the Looks Can Kill Dance video looks like
 
@@ -240,6 +240,10 @@ The single "Looks Can Kill" by IVE comes out on 19 October 2026 at 6 PM Korean t
 
 Press "Create your own", pick Solo, Group, Dance cover or Pet, and add your photo or photos. Press Generate; the button shows the price first. You get a Looks Can Kill AI dance clip with your own face: the IVE Looks Can Kill AI take of the challenge, made from a photo, with no prompt to write.
 
+### Is there an IVE Looks Can Kill template or sample?
+
+This page is an IVE Looks Can Kill template: add a photo, pick a version, and the AI makes the clip with no prompt to write. If you search for a Looks Can Kill IVE sample to dance to, use the official sound on TikTok when you post, because MakeViral never puts the song on your clip.
+
 ### Is this the kpop finger gun dance from TikTok?
 
 Yes. The kpop finger gun dance on TikTok this month is the Looks Can Kill point move: the finger gun dance trend where both hands snap out and fire on the beat. In this template the finger gun is only a hand sign: the hands stay empty, nothing fires and nobody gets hit. It is a different dance from the old Jamaican finger gun dance memes.
@@ -289,6 +293,15 @@ Solo, Group and Pet make 10 seconds, vertical 9:16. Dance cover makes 15 seconds
 - [AI Reels](https://www.makeviral.ai/tools/ai-reels-generator): Pick a format, give it a topic or a product link, and get a finished vertical reel with voice and captions. Nothing to film, nothing to edit.
 - [AI photo generator](https://www.makeviral.ai/ai-photo-generator)
 - [All AI video templates](https://www.makeviral.ai/templates)
+
+## New AI video trends this week
+
+- [Christmas Dance AI: Do the New TikTok Christmas Dance From Your Photos](https://www.makeviral.ai/templates/christmas-dance-ai-trend): Hip sways with the hands at the collar, rolling arms, a quick spin and raised fists, side by side in matching Christmas pajamas. Add two photos for the duo, one for a solo take, or two pets, and get the dance with the sound.
+- [Cat on Ultra Bee AI: Put Your Pet on the Wheelie](https://www.makeviral.ai/templates/cat-on-ultra-bee-ai-trend): Add one photo, and your cat or dog stands on an electric dirt bike and holds a long wheelie down a city road at golden hour, in the same shots as the viral clip, with its original sound. You can take the ride yourself, too.
+- [Tus Ojos Me Reflejan el Sentimiento: The Cafuné Eye Close-Up Trend](https://www.makeviral.ai/templates/tus-ojos-me-reflejan-ai-trend): You lie on your side, a hand rests on your cheek, warm light falls on your face, and the camera slowly moves in until your eyes fill the screen while the line plays. One photo in, an 8-second vertical clip with the trend's song out.
+- [İnşallah Maşallah AI Trend: Sing Neşe Karaböcek's Song on the Couch](https://www.makeviral.ai/templates/insallah-masallah-ai-trend): You sit on a light grey couch and sing the old Turkish love song straight to the camera: a hand on the heart, a big laugh with both hands on your head, a finger pointed at the camera and a kiss at the end. One photo of you, a grandparent or your pet, and the 15-second clip comes with the song.
+- [Ice Ice Baby Dance AI: Do the Viral Duo Dance With a Friend](https://www.makeviral.ai/templates/ice-ice-baby-dance-ai): Two dancers side by side, the same bouncy 90s steps, a spin on the beat and a strut to the camera. Add a photo of you and a friend, of you alone, or of your pet, and get the dance with the sound.
+- [Save Yourself Trend: Pull Yourself Up From the Cliff](https://www.makeviral.ai/templates/save-yourself-ai-trend): One photo plays both of you: the scared you clinging to a wet sea cliff, and the calm you who reaches down, pulls you up and holds you. Or use two photos: an older photo of you and a new one, or you and a friend. 15 seconds, vertical.
 
 ## Make your own Looks Can Kill Dance video
 

@@ -1,0 +1,56 @@
+# Skyfall AI Trend: Fall From Heaven Through the Clouds
+
+- Source: [makeviral](https://www.makeviral.ai/templates/skyfall-ai-trend)
+- Slug: `skyfall-ai-trend`
+
+The skyfall AI trend, also called the falling from the sky trend, is a slow, cinematic fall through a rose sunset sky above the clouds: a tiny figure far away, the camera follows it down, then a close-up of the calm face.
+
+## Demo videos (CDN)
+
+- https://www.makeviral.ai/media/templates/skyfall-ai-trend/original-main-v2.mp4
+
+## Posters
+
+- https://www.makeviral.ai/media/templates/skyfall-ai-trend/original-main-v1.jpg
+
+## Prompts
+
+### 1. 1. The video prompt is filled in. Settings: Seedance 2.5, 10 s, 720p, 9:16, sound on. The video prompt
+
+*Kind: video_prompt*
+
+```text
+A viral "falling from the sky trend" video made from [Image 1]: vertical 9:16, photorealistic and cinematic, with a softly blurred background and rich color grading, in slow motion, as if time has slowed.
+
+The person in the video is the person in [Image 1], in every shot: copy the exact face from [Image 1] (the face shape, eye color and eye shape, eyebrows, nose, mouth, skin tone, age, hair color, hair length and hairstyle, and any beard, moustache, glasses or freckles), and the hair, the clothes, the shoes and the accessories from [Image 1], so their friends recognize them at once. The face stays the same from the first frame to the last. If [Image 1] shows an animal, that animal falls, with its own face, fur and markings, not a person.
+
+The place: high above the ground at a rose-tinted sunset, far above a soft sea of pink and golden clouds, with open sky all around.
+
+Shot 1 (0-5 s), one continuous move: the shot starts from far away, so that the person is barely visible, a tiny figure in the upper third of the image. The person is falling downward from the sky, leaning back into the fall, and the camera cinematically follows downward, closer and closer, until it is shot at eye level with the full body in frame: the person falls backward in a horizontal pose, the expression calm, the hair and the clothes lifted by the wind.
+Shot 2 (5-7 s): a close-up of the shoes and the lower legs against the pink clouds, drifting slowly, the clothes fluttering in the wind.
+Shot 3 (7-10 s): a close-up of the face in the fall, the clouds softly blurred behind: the hair blown upward, the eyes close and slowly open, a calm, peaceful expression and a small smile. The face is large and sharp: exactly the face from [Image 1].
+
+Audio: a soft rush of wind and a slow, dreamy cinematic music bed. No spoken words, no singing.
+Calm and dreamy, never scary: the fall is slow and peaceful, no screaming, no fear, no struggling, no impact, and the ground or the sea never comes into view. No parachute, no harness, no helmet, no goggles, no wings, no plane. Exactly one person in every shot, a grown adult. One head, five fingers on each hand. No text, no captions, no subtitles, no logos, no brand names, no watermark.
+```
+
+### 2. 1. Open [AI Photo with this template](https://www.makeviral.ai/photo?template=skyfall-ai-trend&variant=pet) and add your photo (your pet, whole body in view). The photo prompt is filled in (Pet)
+
+*Kind: photo_prompt*
+
+```text
+Use the uploaded image as the base. 9:16 vertical. High above the ground at a rose-tinted sunset, the pet from the uploaded image falls backward in a horizontal pose, its expression calm, its paws loose, its ears and fur lifted by the wind, far above a soft sea of pink and golden clouds. Shot at eye level with its full body in frame, the scene feels cinematic, with a softly blurred background and rich color grading, as if time has slowed. Exactly one animal and no people. No clothes, no collar tag, no harness, no parachute, no wings on the pet. No ground, no plane. No text, no logos, no watermark.
+```
+
+### 3. 3. Press the film button on the still to open AI Video with the still as the first frame. Settings: Kling 3.0, 10 s, 1080p, 9:16, sound on. The video prompt
+
+*Kind: video_prompt*
+
+```text
+One continuous shot, like a slow-motion film shot. Keep the animal's face, fur, markings, ears, tail and size, the sunset sky and the clouds exactly as in the image.
+0-4 s: the pet is falling downward from the sky, leaning back into the fall, its paws loose, its ears and fur lifted by the wind; the camera cinematically follows downward.
+4-7 s: the camera drifts closer to its face: it blinks slowly, calm and relaxed, its ears fluttering.
+7-10 s: it keeps floating down over the pink clouds, turning gently, calm and almost sleepy.
+Audio: a soft rush of wind and a slow, dreamy cinematic music bed, no words. Calm and cute, never scary: no fear, no struggling, no impact, the ground never comes into view. Exactly one animal, no people. Real animal anatomy: paws, never human hands, no extra legs, no morphing. No text, no logos, no watermark.
+```
+

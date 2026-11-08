@@ -17,7 +17,7 @@ The White Chicks car scene is the movie moment where the driver sings "A Thousan
 
 ## Prompts
 
-### 1. 1. The video prompt is filled in. Settings: Seedance 2.5, 12 s, 720p, 9:16, sound on. The video prompt
+### 1. 1. The video prompt is filled in. Settings: Seedance 2.5, 12 s, 720p, 9:16, sound off. The video prompt
 
 *Kind: video_prompt*
 
@@ -28,17 +28,17 @@ WHO IS WHO: the DRIVER (behind the wheel, the one who sings) is the person in [I
 
 THE PASSENGER'S MOOD: flat, monotone, deadpan annoyance: half-lidded eyes, a level unimpressed stare, lips closed. Never wide-eyed shock, never an open mouth.
 
-[0-3.5 s] SHOT 1, WIDE from the hood: the DRIVER sings from the first frame, head bobbing to the beat, turning to the passenger with a huge delighted grin; the PASSENGER sits rigid, clutching the Pomeranian: a flat stare at the driver, then faces forward, frozen, then a dry side-eye.
-[3.5-5.5 s] SHOT 2, CLOSE-UP of the PASSENGER only, the Pomeranian against the chest: head turned away, a slow, tired blink, then the eyes slide onto the driver: a long, deadpan side-stare.
-[5.5-10.5 s] SHOT 3, one long CLOSE-UP of the DRIVER only, in profile: turns to the passenger with a huge grin, singing at them, eyebrows up; lifts the chin and belts the high note, eyes half closed; then taps one finger to the temple with a smug grin.
+[0-3 s] SHOT 1, WIDE from the hood: the DRIVER sings from the first frame, head bobbing to the beat, turning to the passenger with a huge delighted grin; the PASSENGER sits rigid, clutching the Pomeranian: a flat stare at the driver, then faces forward, frozen, then a dry side-eye.
+[3-5 s] SHOT 2, CLOSE-UP of the PASSENGER only, the Pomeranian against the chest: head turned away, a slow, tired blink, then the eyes slide onto the driver: a long, deadpan side-stare.
+[5-10.5 s] SHOT 3, one long CLOSE-UP of the DRIVER only, in profile: at 5 s lifts the chin and belts one long high note, mouth wide open, eyes half closed; then turns to the passenger with a huge grin, singing straight at them, eyebrows up; then taps one finger to the temple with a smug grin.
 [10.5-12 s] SHOT 4, CLOSE-UP of the PASSENGER, the live Pomeranian low in front, its fox-like face visible: head tilted back, looking up at the driver, deeply annoyed, perfectly still.
 
-Audio: an upbeat, original piano-pop song on the car radio (a fast rolling piano riff, drums), never a known song. The driver sings along at full voice: "All the way, all the way to you!" on the big note in shot 3, a happy "ooh-ooh" the rest of the time. The passenger never sings or speaks.
+Sound: none of its own; a piano-pop song is put on afterwards, so the singing must be easy to see. The driver sings along at full voice from the first frame to the end: clear lip movements in quick sung phrases with short breaths between them, one long held high note with the mouth wide open from 5 to 7 s, then wide, emotional phrases sung straight at the passenger. The passenger's lips stay closed the whole time.
 
 Only these two people and their Pomeranian. Each keeps their exact face, hair, skin tone and clothes: never blend them, never swap clothes or seats. Clear facial features, stable faces, no distortion. Avoid: an eye-roll, a cartoonish passenger, the passenger singing, a split screen, a plush toy instead of the live dog, extra people, text, subtitles, logos, a badge on the car, watermarks, extra limbs, morphing.
 ```
 
-### 2. 1. The video prompt is filled in. Settings: Seedance 2.5, 10 s, 720p, 9:16, sound on. The video prompt (Pet)
+### 2. 1. The video prompt is filled in. Settings: Seedance 2.5, 10 s, 720p, 9:16, sound off. The video prompt (Pet)
 
 *Kind: video_prompt*
 
@@ -52,10 +52,10 @@ THE PASSENGER, in the other front seat (on the left of the frame in the wide sho
 THE SHOTS:
 [0-3 s] SHOT 1, the WIDE shot from the hood: the pet driver sings from the very first frame, head bobbing to the beat, turning toward the passenger with a huge happy face; the passenger sits rigid, stares at it, then turns to face forward, frozen.
 [3-5 s] SHOT 2, CLOSE-UP of the PASSENGER only: a slow, tired blink, then the eyes slide sideways onto the driver: a long, deadpan side-stare.
-[5-8.5 s] SHOT 3, one long CLOSE-UP of the pet DRIVER ONLY: it turns to the passenger, singing straight at it; lifts its chin and belts the high note with the eyes half closed and the mouth wide open; then taps one front paw to the side of its head with a smug look.
+[5-8.5 s] SHOT 3, one long CLOSE-UP of the pet DRIVER ONLY: at 5 s it lifts its chin and belts one long high note with the eyes half closed and the mouth wide open; then it turns to the passenger, singing straight at it; then taps one front paw to the side of its head with a smug look.
 [8.5-10 s] SHOT 4, CLOSE-UP of the PASSENGER again: head tilted slightly back, looking up at the driver with a flat, deeply annoyed stare, perfectly still.
 
-Audio: an upbeat, original piano-pop song on the car radio (a fast rolling piano riff, drums), never a known song. The pet driver sings along with a funny, happy "ooh-ooh-ooh" on the high notes. The passenger never makes a sound. Soft wind and a car engine under the music.
+Sound: none of its own; a piano-pop song is put on afterwards, so the singing must be easy to see. The pet driver sings along with its whole face from the first frame: its mouth opens and closes in quick sung phrases, then holds one long high note with the mouth wide open from 5 to 6.5 s. The passenger's mouth stays closed the whole time.
 
 Exactly two animals and no people. One head, four legs and one tail each, no human hands, no human body parts on the animals. Avoid: a cartoon look, a plush toy, a split screen, extra animals, text, captions, subtitles, logos, a badge on the car, watermarks, morphing.
 ```

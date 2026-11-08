@@ -1,0 +1,61 @@
+# Santa Sleigh AI: Point at the Sky, the Reindeer Sleigh Lands
+
+- Source: [makeviral](https://www.makeviral.ai/templates/santa-sleigh-ai-trend)
+- Slug: `santa-sleigh-ai-trend`
+
+The santa sleigh ai trend is a 9-second Christmas reel: a woman dressed as the Snow Maiden sits on a wooden chair in the snow, points at the sky, and a reindeer sleigh flies in on a burst of flame.
+
+## Demo videos (CDN)
+
+- https://www.makeviral.ai/media/templates/santa-sleigh-ai-trend/original-main-v2.mp4
+
+## Posters
+
+- https://www.makeviral.ai/media/templates/santa-sleigh-ai-trend/original-main-v1.jpg
+
+## Prompts
+
+### 1. 1. The video prompt is filled in. Settings: Seedance 2.5, 9 s, 720p, 9:16, sound off. The video prompt (Human)
+
+*Kind: video_prompt*
+
+```text
+Recreate the reference video [Video 1] shot for shot: the same snowy clearing at golden hour in front of a low rock wall topped with snow, with tall fir trees and bare birches behind it and a clear pale sky, and the same wooden folding chair standing in the deep snow; the same fixed vertical camera, timing and moves, one continuous take with no cuts. The ONLY change: the woman who sits on the chair is now the person in [Image 1]. [Image 1] is the sole reference for the seated person's face and hair; [Video 1] is for the moves, the sleigh, the reindeer, the effects and the camera only.
+
+The seated person = the person in [Image 1], in EVERY frame, also when the head turns at the end: copy the exact face from [Image 1] (the face shape, eye color and eye shape, eyebrows, nose, mouth, skin tone, age, hair color, hair length and hairstyle, and any beard, moustache, glasses or freckles). The same real person in every frame, so their friends instantly recognize them. Never morph, never drift back to the original woman's face: not her face shape, her eyes, her nose or her full lips. NO long dark burgundy-red wavy hair unless [Image 1] shows it: the hair is the hair from [Image 1].
+
+The costume is the Snow Maiden look and stays exactly as in the video, never the clothes from [Image 1]: a tall white kokoshnik headdress with silver embroidery and a pearl fringe, a fitted white coat with silver embroidery and wide white fur trim at the cuffs and the hem, a long light-blue skirt with silver patterns and white fur-lined winter boots. For a man: a long light-blue embroidered coat with white fur trim, a round light-blue fur hat and white fur boots, no headdress.
+
+The moves, second by second:
+0-2.5 s: the person sits on the chair, one hand resting on the knee, and looks calmly off to the side.
+2.5-4 s: raises one hand and points up at the sky above the rock wall; two small reindeer pulling a sleigh appear far away above the rocks.
+4-6 s: a bright orange rocket-like flame bursts under the flying sleigh and a white jet of snow and mist pours down the rock wall below it; the person points after it with the outstretched arm.
+6-7.5 s: the sleigh comes down in front of the rock wall and lands behind the chair in a big burst of snow; the person lowers the hand back onto the knee.
+7.5-9 s: the two reindeer run forward past both sides of the chair toward the camera, throwing up snow, and the person turns the head to watch them, still seated.
+
+Only replace the seated person; the clearing, the rock wall, the trees, the chair, the sleigh, the two reindeer, the flame, the snow bursts, the light and the camera stay completely unchanged. Keep everything else the same.
+
+Anatomy rules: one head only, on the person's shoulders. Two arms, two legs, five fingers on each hand. Exactly one person; the sleigh is empty, with no driver. Two real reindeer with four legs each. No text, no captions, no logos, no watermark. No dialogue throughout the entire video. No background music.
+```
+
+### 2. 1. The video prompt is filled in. Settings: Seedance 2.5, 9 s, 720p, 9:16, sound off. The video prompt (Pet)
+
+*Kind: video_prompt*
+
+```text
+Recreate the reference video [Video 1] shot for shot: the same snowy clearing at golden hour in front of a low rock wall topped with snow, with tall fir trees and bare birches behind it and a clear pale sky, and the same wooden folding chair standing in the deep snow; the same fixed vertical camera, timing and effects, one continuous take with no cuts. The ONLY change: the woman who sits on the chair is now the pet in [Image 1], whole body, sitting on the same wooden chair. [Image 1] is the sole reference for the pet; [Video 1] is for the timing, the sleigh, the reindeer, the effects and the camera only.
+
+The pet = the pet in [Image 1], whole body, in every frame: the same species and breed, head shape, muzzle, eyes, eye color, ears, fur colors, fur length, markings and body shape as in [Image 1], with the natural body volume and proportions of that animal: never flattened, squashed, stretched or merged with anything, so its owner instantly recognizes it. It wears only a small light-blue cape with white fur trim tied at the neck. The woman from the video never appears: no human body, no human face, no human hands, no headdress. If [Image 1] shows a dog, a cat or another animal, that animal sits on the chair and makes the same moves.
+
+The moves, second by second:
+0-2.5 s: the pet sits upright on the wooden chair and looks around calmly.
+2.5-4 s: it lifts its head to the sky and raises one front paw toward it; two small reindeer pulling a sleigh appear far away above the rocks.
+4-6 s: a bright orange rocket-like flame bursts under the flying sleigh and a white jet of snow and mist pours down the rock wall below it; the pet watches it with its ears up.
+6-7.5 s: the sleigh comes down in front of the rock wall and lands behind the chair in a big burst of snow.
+7.5-9 s: the two reindeer run forward past both sides of the chair toward the camera, throwing up snow, and the pet turns its head to watch them, still sitting on the chair.
+
+Only replace the woman with the pet; the clearing, the rock wall, the trees, the chair, the sleigh, the two reindeer, the flame, the snow bursts, the light and the camera stay completely unchanged. Keep everything else the same.
+
+Real animal anatomy: one head, four legs ending in round furry paws, never human hands, no fingers, one tail if the animal has one. Exactly one pet and no people; the sleigh is empty. Two real reindeer with four legs each. No text, no captions, no logos, no watermark. No dialogue throughout the entire video. No background music.
+```
+

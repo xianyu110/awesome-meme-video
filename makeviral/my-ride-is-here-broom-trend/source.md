@@ -3,7 +3,7 @@
 > The My Ride Is Here broom trend is a Halloween 2026 video joke: filmed from a car window, someone pulls up on a flying broom, smiles at the camera and flies away, as if the broom were their ride.
 
 Canonical: https://www.makeviral.ai/templates/my-ride-is-here-broom-trend
-Updated: 2026-10-21
+Updated: 2026-10-29
 Published: 2026-10-12
 Author: MakeViral Team (https://www.makeviral.ai/about)
 Publisher: MakeViral (https://www.makeviral.ai)
@@ -14,9 +14,9 @@ You walk down a forest road next to a moving car, broom in hand, look back with 
 
 Also called: broom trend, broomstick trend, flying broom trend, broom riding trend, your ride is here meme, witch broom trend, broom crash, funny flying broom.
 
-**Make it now:** [Make this video](https://www.makeviral.ai/templates/my-ride-is-here-broom-trend/create). 1 photo · 10 s · 9:16 with sound · 120 credits, charged once · ready in a few minutes · no prompt to write.
+**Make it now:** [Make this video](https://www.makeviral.ai/templates/my-ride-is-here-broom-trend/create). 1 photo · 10 s · 9:16 with sound · 152 credits, charged once · ready in up to several minutes · no prompt to write.
 
-Keyword: my ride is here broom trend. Also answers: my ride is here trend, my ride is here broom, my ride is here meme, ai flying broom video, flying broom video, how to make my ride is here broom trend, my ride is here capcut template, my ride is here song, my ride is here ai, broom trend ai, witch flying on broom, broom trend tiktok, witch broom crash, broom crash trend, broom crash ai, broomstick crash, flying broom crash, flying broom meme.
+Keyword: my ride is here broom trend. Also answers: my ride is here trend, my ride is here broom, my ride is here meme, ai flying broom video, flying broom video, how to make my ride is here broom trend, my ride is here capcut template, my ride is here song, my ride is here ai, broom trend ai, witch flying on broom, broom trend tiktok, witch broom crash, broom crash trend, broom crash ai, broomstick crash, flying broom crash, flying broom meme, cat riding a broom, cat flying on a broom, black cat on a broom, cat on a broomstick, cat broom crash, dog on a broomstick, dog broom crash, witch on broom meme, witch at a red light, witch on broom car, teenage goo goo muck witch.
 
 ## What is the My Ride Is Here trend, and where did it start?
 
@@ -24,7 +24,7 @@ The flying broom started as a one-photo CapCut template. From 22 September 2026,
 
 The name came a few days later. On 27 September the creator **@rora_dd** moved the broom next to a car window, with a witch at a crosswalk and a woman in a red dress gliding beside the car, and captioned it in Spanish "¡Ya llegó mi transporte!" ("My ride is here!"). That post reached 539,800 plays and 7,785 shares by 12 October, and she posted the English "My ride is here!" version two days later. Hundreds of how-to posts then copied the caption "how to make my ride is here broom trend", most of them promoting CapCut, PixVerse or Dreamina.
 
-In October the trend moved toward Halloween, and creators made their own takes: a witch who tries to fly through a police DUI checkpoint, a witch who chats with a police officer at a crosswalk and then flies off. On 11 October **@aiman_nazarovna** posted the forest reel on this page on Instagram: real footage from a car, then an AI take-off over the pines. By 12 October, #myrideishere had 6,308 TikTok videos and 17.7 million views.
+In October the trend moved toward Halloween, and creators made their own takes: a witch who tries to fly through a police DUI checkpoint, a witch who chats with a police officer at a crosswalk and then flies off. On 11 October **@aiman_nazarovna** posted the forest reel on this page on Instagram: real footage from a car, then an AI take-off over the pines. By 12 October, #myrideishere had 6,308 TikTok videos and 17.7 million views. On 13 October the AI creator **@svetlanastriz** posted a city take for Halloween: a witch at a red light who waits beside the car, scrolls her phone and flies off on green, to the song Teenage Goo Goo Muck by The Cramps.
 
 ### My Ride Is Here trend timeline
 
@@ -45,6 +45,12 @@ Made from the prompts on this page. The people and pets are AI-made, not real pe
 - **Example 2** (10 s, 9:16 MP4 with sound): The Crash version: an AI clip by @boxermomof4_ (19 October 2026, 672,800 views by 20 October), the first big post of the witch broom crash trend with a person on the broom. She flies down a quiet street toward the camera, flashes a peace sign, flies straight into a blank road sign, falls off the broomstick onto the grass, unhurt, and gets back up. Your photo takes her place in this flying broom meme, with its own sound.
   - Video: https://www.makeviral.ai/media/templates/my-ride-is-here-broom-trend/original-crash-v2.mp4
   - Poster: https://www.makeviral.ai/media/templates/my-ride-is-here-broom-trend/original-crash-v1.jpg
+- **Example 3** (9 s, 9:16 MP4 with sound): The City traffic light version: an AI reel by @svetlanastriz (Instagram, 13 October 2026, 728 likes by 29 October). Filmed from the passenger seat at a red light on a rainy autumn street, a red-haired witch on a broom hovers beside the car, scrolls her phone, looks into the camera and flies off down the street when the light turns green, to Teenage Goo Goo Muck by The Cramps. Your photo puts your own face and hair under the witch hat in this witch on broom meme, with the same song.
+  - Video: https://www.makeviral.ai/media/templates/my-ride-is-here-broom-trend/original-city-v2.mp4
+  - Poster: https://www.makeviral.ai/media/templates/my-ride-is-here-broom-trend/original-city-v1.jpg
+- **Example 4** (10 s, 9:16 MP4 with sound): The Pet version: an AI clip by @omaileyfactor (19 October 2026, 594,400 views by 26 October) of a black cat riding a broom, flying down a quiet street toward the camera. It looks into the lens, waves a paw, flies straight into a blank road sign, slides down the post onto the sidewalk, unhurt, and walks off. Your cat or dog takes its place in this broom crash, with the reel's own sound, so a dog on a broomstick flies and crashes the same way.
+  - Video: https://www.makeviral.ai/media/templates/my-ride-is-here-broom-trend/original-pet-v2.mp4
+  - Poster: https://www.makeviral.ai/media/templates/my-ride-is-here-broom-trend/original-pet-v1.jpg
 
 ## How to make the My Ride Is Here video on MakeViral
 
@@ -53,8 +59,8 @@ Everything runs in the browser. No editing app, no watermark.
 ### The one-tap way (no prompt to write)
 
 1. **Add your photo.** Press "Make yours" and add your photo. Take it with the camera or pick it from your library. Start here: https://www.makeviral.ai/templates/my-ride-is-here-broom-trend/create
-2. **Press Generate.** The button shows the price. H3 Max Recast puts your photos into the My Ride Is Here trend clip and copies it shot by shot for 10 seconds, with the reel's original song. You write no prompt.
-3. **Download or share.** The video is ready in a few minutes as a 9:16 MP4. Download it, share it from your phone, or find it later in My videos.
+2. **Press Generate.** The button shows the price. Seedance 2.5 puts your photos into the My Ride Is Here trend clip and copies it shot by shot for 10 seconds, with the reel's original song. You write no prompt.
+3. **Download or share.** The video is ready in up to several minutes as a 9:16 MP4. Download it, share it from your phone, or find it later in My videos.
 
 ### The by-hand way, with the exact prompts
 
@@ -62,12 +68,29 @@ The one-tap flow runs this prompt for you. The video prompt animates your own ph
 
 #### Variant: Forest road
 
-Settings: 1 photo (your photo) · h3-recast · 10 s · 720p · 9:16 · no sound · 120 credits in one tap.
+Settings: 1 photo (your photo) · Seedance 2.5 · 10 s · 720p · 9:16 · no sound · 152 credits in one tap.
 
-1. The video prompt is filled in. Settings: h3-recast, 10 s, 720p, 9:16, sound off. The video prompt:
+1. The video prompt is filled in. Settings: Seedance 2.5, 10 s, 720p, 9:16, sound off. The video prompt:
 
    ```text
-   Image 1 replaces the young woman with short black hair in the black polka-dot dress, black tights and black boots who walks along the forest road with a broom beside the car, looks back at the camera with a smile, sits on the broom and flies up over the trees, in every shot. Preserve the person's face, hairstyle, skin tone, proportions and outfit from image 1 in every shot, also when the rider looks back and smiles, with no short black hair and no black polka-dot dress unless image 1 shows them. The rider and the broom move as one connected unit. Keep the forest road, the tall pine trees, the car window and the side mirror, the broom, the flight path, the motion and the camera exactly as in the video.
+   Recreate the reference video [Video 1] shot for shot: the same forest road, the same tall pine trees, the same car window and side mirror in the lower left corner, the same broom and flight path, filmed from the moving car in one continuous take, the same camera angles, timing and moves. The ONLY change: the young woman with a short black bob and bangs in the black off-shoulder polka-dot dress, black tights and black heeled boots is now the person in [Image 1]. [Image 1] is the sole reference for the rider's face, hair, body and clothes; [Video 1] is for the walk, the flight and the camera only.
+
+The rider = the person in [Image 1], in EVERY frame, also when they look back at the camera and smile: copy the exact face from [Image 1] - face shape, eye color and eye shape, eyebrows, nose, mouth, skin tone, age, hair color, hair length and hairstyle, and any beard, moustache, glasses or freckles exactly as in the photo. Keep their body proportions from [Image 1]. They wear the clothes and shoes from [Image 1]: NO black bob, NO bangs, NO polka-dot dress, NO black tights and NO heeled boots unless [Image 1] shows them.
+
+The same real person in every frame, from the first second to the last, so their friends instantly recognize them. Never morph, never drift back to the original woman's face, never add or remove facial hair. Even when [Image 1] shows a similar haircut, the face is only the face of [Image 1], never the face of the woman in the video: not her face shape, her eyes, her nose or her lips.
+
+The moves, matching the reference second by second:
+0-3 s: the rider walks away along the forest road beside the car, the broom in one hand, its bristles on the ground.
+3-3.5 s: looks back over the shoulder at the camera and smiles.
+3.5-4.5 s: swings a leg over the broom and sits on it.
+4.5-6 s: looks back at the camera again with a smile while the broom lifts off the road.
+6-8 s: flies ahead along the road, the feet off the ground.
+8-10 s: flies up over the tall pines and becomes small in the sky.
+The rider and the broom move as one connected unit.
+
+Only replace the person; the road, the trees, the car, the flight path and the camera stay completely unchanged. Keep everything else the same.
+
+Anatomy rules: one head only, on the rider's shoulders. Two arms and two legs. Exactly one person. No text, no logos, no watermark. No dialogue throughout the entire video. No background music.
    ```
 
 2. Press Generate, then download the 9:16 MP4.
@@ -76,17 +99,99 @@ One-tap version of this variant: https://www.makeviral.ai/templates/my-ride-is-h
 
 #### Variant: Crash
 
-Settings: 1 photo (your photo) · h3-recast · 10 s · 720p · 9:16 · no sound · 120 credits in one tap.
+Settings: 1 photo (your photo) · Seedance 2.5 · 10 s · 720p · 9:16 · no sound · 152 credits in one tap.
 
-1. The video prompt is filled in. Settings: h3-recast, 10 s, 720p, 9:16, sound off. The video prompt:
+1. The video prompt is filled in. Settings: Seedance 2.5, 10 s, 720p, 9:16, sound off. The video prompt:
 
    ```text
-   Image 1 replaces the woman with shoulder-length brown hair in the grey hooded sweatshirt and blue jeans who flies on the broom down the street toward the camera, smiles and flashes a peace sign at the camera, flies into the road sign, falls onto the grass and gets back up, in every shot. Preserve the person's face, hairstyle, skin tone, proportions and outfit from image 1 in every shot, also when the rider smiles at the camera and while they lie on the grass, with no shoulder-length brown hair and no grey hooded sweatshirt unless image 1 shows them. The rider and the broom move as one connected unit until the crash. The fall is harmless slapstick: the rider lands on the grass unhurt, with no blood and no injury. Keep the quiet street, the trees, the houses, the blank road sign, the grass, the broom, the flight path, the crash, the motion and the camera exactly as in the video. No text, no logos, no watermark.
+   Recreate the reference video [Video 1] shot for shot: the same quiet street with trees and houses, the same blank road sign on the strip of grass, the same broom, flight path and crash, the same camera that turns to follow the rider in one continuous take, the same timing and moves. The ONLY change: the woman with shoulder-length brown hair in the grey hooded sweatshirt, blue jeans and dark sneakers who rides the broom is now the person in [Image 1]. [Image 1] is the sole reference for the rider's face, hair, body and clothes; [Video 1] is for the flight, the crash and the camera only.
+
+The rider = the person in [Image 1], in EVERY frame, also in the close-up with the peace sign and while they lie on the grass: copy the exact face from [Image 1] - face shape, eye color and eye shape, eyebrows, nose, mouth, skin tone, age, hair color, hair length and hairstyle, and any beard, moustache, glasses or freckles exactly as in the photo. Keep their body proportions from [Image 1]. They wear the clothes and shoes from [Image 1]: NO grey hooded sweatshirt, NO blue jeans and NO shoulder-length brown hair unless [Image 1] shows them.
+
+The same real person in every frame, from the first second to the last, so their friends instantly recognize them. Never morph, never drift back to the original woman's face, never add or remove facial hair. Even when [Image 1] shows a similar haircut, the face is only the face of [Image 1], never the face of the woman in the video.
+
+The moves, matching the reference second by second:
+0-3 s: the rider sits on the broom and flies down the middle of the street toward the camera, small in the distance.
+3-4.2 s: close to the camera, the rider smiles and flashes a peace sign at the lens; the face is big and sharp.
+4.2-4.8 s: the camera turns to follow; the rider flies straight into the blank road sign on the grass.
+4.8-5.5 s: the rider, the broom and the sign fall onto the grass.
+5.5-8.5 s: the rider lies on the grass beside the broom and the sign.
+8.5-10 s: the rider gets up onto hands and knees.
+The rider and the broom move as one connected unit until the crash. The fall is harmless slapstick: the rider lands on the grass unhurt, with no blood and no injury.
+
+Only replace the person; the street, the houses, the sign, the flight path, the crash and the camera stay completely unchanged. Keep everything else the same.
+
+Anatomy rules: one head only, on the rider's shoulders. Two arms and two legs. Exactly one person. No text on the sign, no logos, no watermark. No dialogue throughout the entire video. No background music.
    ```
 
 2. Press Generate, then download the 9:16 MP4.
 
 One-tap version of this variant: https://www.makeviral.ai/templates/my-ride-is-here-broom-trend/create?variant=crash
+
+#### Variant: City traffic light
+
+Settings: 1 photo (your photo) · Seedance 2.5 · 9 s · 720p · 9:16 · no sound · 137 credits in one tap.
+
+1. The video prompt is filled in. Settings: Seedance 2.5, 9 s, 720p, 9:16, sound off. The video prompt:
+
+   ```text
+   Recreate the reference video [Video 1] shot for shot: the same rainy autumn city street with old stone buildings and yellow trees, the same traffic light that turns from red to green, the same car window and side mirror at the lower left, the same broom and flight path, filmed from the passenger seat in one continuous take, the same camera, timing and moves. The ONLY change: [Image 1] replaces the woman, a witch with long wavy red hair: the face and hair are now those of the person in [Image 1]. [Image 1] is the sole reference for the witch's face, hair and skin; [Video 1] is for the costume, the broom, the moves and the camera only.
+
+The witch = the person in [Image 1], in EVERY frame, also when they turn to look at the camera: copy the exact face from [Image 1]: face shape, eye color and eye shape, eyebrows, nose, mouth, skin tone, age, hair color, hair length and hairstyle, and any beard, moustache, glasses or freckles exactly as in the photo. Their own hair shows under the hat. NO long wavy red hair and NO red hair of any kind unless [Image 1] shows red hair. Keep their body proportions from [Image 1].
+
+The costume is the Halloween joke and stays exactly as in [Video 1]: the tall black pointed witch hat, the long black coat, black trousers and black heeled boots. What the person wears in [Image 1] never replaces it.
+
+The same real person in every frame, so their friends instantly recognize them. Never morph, never drift back to the original woman's face. Even when [Image 1] shows a similar look, the face is only the face of [Image 1], never the face of the woman in the video: not her face shape, her eyes, her nose or her full lips.
+
+The moves, matching the reference second by second:
+0-1 s: the car stands at the red light; the lane beside it is empty.
+1-1.5 s: the witch on the broom flies up from behind in the same lane, in the same direction as the car, draws level with the passenger window, gently brakes and hovers beside the side mirror, facing the same way as the car, like a road user who also stopped at the red light: in profile, about 1.5 to 2 meters from the window, a little above the eye level of a seated person.
+1.5-3.5 s: sits sideways on the broom and scrolls a phone.
+3.5-5.5 s: turns the head and looks straight at the camera with a calm, confident face.
+5.5-6.5 s: looks back at the phone, turns forward.
+6.5-7.5 s: the light turns green; the witch leans forward and flies off ahead down the street.
+7.5-9 s: small in the distance above the wet road.
+The witch and the broom move as one connected unit. The phone screen shows no readable text.
+
+Only replace the face and hair; the street, the car, the costume and the camera stay unchanged. Keep everything else the same.
+
+Anatomy rules: one head only, on the witch's shoulders. Two arms and two legs, five fingers on each hand. Exactly one witch. No text, no captions, no subtitles, no logos, no watermark. No dialogue throughout the entire video. No background music.
+   ```
+
+2. Press Generate, then download the 9:16 MP4.
+
+One-tap version of this variant: https://www.makeviral.ai/templates/my-ride-is-here-broom-trend/create?variant=city
+
+#### Variant: Pet
+
+Settings: 1 photo (your pet, whole body) · Seedance 2.5 · 10 s · 720p · 9:16 · no sound · 152 credits in one tap.
+
+1. The video prompt is filled in. Settings: Seedance 2.5, 10 s, 720p, 9:16, sound off. The video prompt:
+
+   ```text
+   Recreate the reference video [Video 1] shot for shot: the same quiet curving street with trees, the same sidewalk and grass, the same blank grey road sign, the same twig broom, flight path and crash, the same handheld camera that swings after the rider in one continuous take, the same timing and moves. The ONLY change: the cat who rides the broom is now the pet in [Image 1]. [Image 1] is the sole look reference for the rider; [Video 1] is for the flight, the crash and the camera only.
+
+The rider = the pet in [Image 1], whole body, in EVERY frame, also in the close-up at the lens and while it lies on the sidewalk: the same species and breed, face shape, eyes, ears, muzzle, fur colors, fur length and markings as in [Image 1], with the natural body volume and proportions of that animal: never flattened, squashed, stretched or merged with the broom. Not the coat, the face or the ears of the cat in the video. Real furry paws, never human hands. A dog stays a dog and a cat stays a cat: if [Image 1] shows a dog or another animal, that animal sits on the broom the same way and makes the same moves. No clothes, no collar and no accessories unless [Image 1] shows them. The pet looks exactly like its photo from the first frame to the last, so its owner instantly recognizes it.
+
+The moves, matching the reference second by second:
+0-3 s: the pet sits on the broom and flies down the street toward the camera, small in the distance.
+3-4.3 s: it comes close.
+4.3-5.2 s: close-up: it looks into the lens and waves one front paw; the face is big and sharp.
+5.2-5.7 s: the camera swings after it to the blank road sign on the sidewalk.
+5.7-6.3 s: it flies into the sign post and slides down it.
+6.3-7.5 s: it drops onto the sidewalk at the edge of the grass, the broom beside it; the post tips over and falls beside it, never on it.
+7.5-8.8 s: it lies there for a moment.
+8.8-10 s: it gets up and walks off.
+The pet and the broom move as one connected unit until the crash. The fall is harmless slapstick: the pet lands unhurt, with no blood and no injury.
+
+Only replace the animal; the street, the sign, the flight path, the crash and the camera stay completely unchanged. Keep everything else the same.
+
+Anatomy rules: one head, four legs and one tail. Exactly one animal, no people. No text, no logos, no watermark. No dialogue throughout the entire video. No background music.
+   ```
+
+2. Press Generate, then download the 9:16 MP4.
+
+One-tap version of this variant: https://www.makeviral.ai/templates/my-ride-is-here-broom-trend/create?variant=pet
 
 ### Which photo works best?
 
@@ -104,7 +209,7 @@ You pay per video in credits, and the create page shows the exact price on the G
 
 | Video model | Settings | Credits |
 | --- | --- | --- |
-| H3 Max Recast (this template) | 10 s, 720p, copies the trend clip, one tap | 120 |
+| Seedance 2.5 (this template) | 10 s, 720p, copies the trend clip, one tap | 152 |
 
 Credits come with a plan; see [pricing](https://www.makeviral.ai/pricing). A failed video gives its credits back.
 
@@ -126,17 +231,17 @@ The road, the forest, the car and the camera move come from the real reel. Only 
 
 ## How does MakeViral make it, and what does it cost?
 
-MiniMax H3 Max Recast takes the original reel and your photo and puts you in place of the rider in every shot: your face, your hair and your clothes. The forest, the car, the walk, the hop onto the broom and the flight stay exactly as in the reel. You write no prompt.
+Top-quality AI video models take the original reel and your photo and put you in place of the rider in every shot: your face, your hair and your clothes. The forest, the car, the walk, the hop onto the broom and the flight stay exactly as in the reel. You write no prompt.
 
 | | This template |
 |---|---|
-| Model | MiniMax H3 Max Recast |
+| Model | Top-quality AI video models |
 | Length | 10 s, the whole reel |
-| Frame | Vertical 9:16, 768p |
-| Sound | The reel's own sound, which you can turn off |
+| Frame | Vertical 9:16, 720p |
+| Sound | The reel's own sound, put back on after the run; you can turn it off |
 | Photos | 1 |
 
-The exact price shows on the Generate button before you spend anything, and the video waits in My videos when it is ready, within several minutes.
+The exact price shows on the Generate button before you spend anything, and the video waits in My videos when it is ready, in 5 to 15 minutes.
 
 **Why not make a new scene from your photo?** We tried that first: a still of you on a broom next to a car, then a video model to fly you away. It worked, but it looked made by AI. Swapping the rider in the real reel keeps the real road, the real car and the real daylight, so only the flight looks like magic.
 
@@ -189,7 +294,7 @@ No. The flight is AI. In the reel on this page the start is real phone footage f
 
 ### How do I make the My Ride Is Here broom video?
 
-Press "Create your own", add one clear photo of yourself and press Generate. The button shows the price first. You get a 10-second vertical video with the reel's own sound, within several minutes, and you write no prompt. The video waits in My videos when it is ready.
+Press "Create your own", add one clear photo of yourself and press Generate. The button shows the price first. You get a 10-second vertical video with the reel's own sound, in 5 to 15 minutes, and you write no prompt. The video waits in My videos when it is ready.
 
 ### Do I need CapCut or a template app?
 
@@ -203,9 +308,13 @@ Yes. The rider in the reel is a woman, but the model takes the face, the hair an
 
 No. You wear the clothes from your photo. Everyday clothes make the "this is just my commute" joke; a dark coat or a black dress looks more like a witch. Pick the photo that gives the look you want.
 
+### Is there a Halloween version with a witch on a broom beside a car at a red light?
+
+Yes. Pick "City traffic light". It copies the AI reel by @svetlanastriz: from the passenger seat, you see yourself as a witch on a broom at a red light, scrolling your phone beside the car window, then you look into the camera and fly off when the light turns green. This version keeps the witch hat and the long black coat and changes only your face and hair. You get a 9-second vertical video with the reel's song, Teenage Goo Goo Muck by The Cramps, on it.
+
 ### How long is the video, and does it have sound?
 
-10 seconds, vertical 9:16, 768p, as an MP4 file. It comes with the reel's own sound, and you can turn the sound off on the result screen if you want to add a trending sound when you post.
+10 seconds, vertical 9:16, 720p, as an MP4 file. It comes with the reel's own sound, and you can turn the sound off on the result screen if you want to add a trending sound when you post.
 
 ### Does the My Ride Is Here video cost credits?
 
@@ -217,16 +326,25 @@ The model rebuilds you from one photo, so a dark, blurry or cropped photo leaves
 
 ## Other AI video templates and tools
 
+- [Witch Flying on Broom Video: Fly Beside the Metro Train](https://www.makeviral.ai/templates/witch-flying-on-broom-video): Dressed as a witch, you tape your phone to a Paris metro window, then fly beside the train on a broom and hit the wall at the end of the platform, like the viral AI reel. One photo in, a 22-second video with the reel's song out.
 - [AI Zombie Trend: The Zombie Love Story With Your Partner or Pet](https://www.makeviral.ai/templates/ai-zombie-trend): Your partner, or your pet, has turned into a zombie. You aim through tears, lower the gun and hug them anyway. Then a hard cut to a sunny memory of you two. Two photos in, a 10-second clip with sound out.
 - [AI Halloween Costume Try-On: See Yourself in a Costume Before You Buy](https://www.makeviral.ai/templates/ai-halloween-costume): Add one full-body photo, type or pick a costume, and see yourself in it at a Halloween party. Two photos make a matching couple costume, and a short costume transition video shows the change.
-- [Rumpelstiltskin AI: Make the Tip Toe Dance With Your Face](https://www.makeviral.ai/templates/ai-rumpelstiltskin-dance): You become the little man in the velvet tuxedo: a sly "shh" to the camera, a creepy tiptoe dance across the hay and a blonde princess who cannot believe her eyes. Add a friend's photo to cast them as the one who watches.
 - [AI TikTok Video](https://www.makeviral.ai/tools/ai-tiktok-video-generator): Eight native TikTok formats, one prompt or product URL, a finished 9:16 video with captions burned in.
 - [AI Reels](https://www.makeviral.ai/tools/ai-reels-generator): Pick a format, give it a topic or a product link, and get a finished vertical reel with voice and captions. Nothing to film, nothing to edit.
 - [AI photo generator](https://www.makeviral.ai/ai-photo-generator)
 - [All AI video templates](https://www.makeviral.ai/templates)
 
+## New AI video trends this week
+
+- [Christmas Dance AI: Do the New TikTok Christmas Dance From Your Photos](https://www.makeviral.ai/templates/christmas-dance-ai-trend): Hip sways with the hands at the collar, rolling arms, a quick spin and raised fists, side by side in matching Christmas pajamas. Add two photos for the duo, one for a solo take, or two pets, and get the dance with the sound.
+- [Cat on Ultra Bee AI: Put Your Pet on the Wheelie](https://www.makeviral.ai/templates/cat-on-ultra-bee-ai-trend): Add one photo, and your cat or dog stands on an electric dirt bike and holds a long wheelie down a city road at golden hour, in the same shots as the viral clip, with its original sound. You can take the ride yourself, too.
+- [Tus Ojos Me Reflejan el Sentimiento: The Cafuné Eye Close-Up Trend](https://www.makeviral.ai/templates/tus-ojos-me-reflejan-ai-trend): You lie on your side, a hand rests on your cheek, warm light falls on your face, and the camera slowly moves in until your eyes fill the screen while the line plays. One photo in, an 8-second vertical clip with the trend's song out.
+- [İnşallah Maşallah AI Trend: Sing Neşe Karaböcek's Song on the Couch](https://www.makeviral.ai/templates/insallah-masallah-ai-trend): You sit on a light grey couch and sing the old Turkish love song straight to the camera: a hand on the heart, a big laugh with both hands on your head, a finger pointed at the camera and a kiss at the end. One photo of you, a grandparent or your pet, and the 15-second clip comes with the song.
+- [Ice Ice Baby Dance AI: Do the Viral Duo Dance With a Friend](https://www.makeviral.ai/templates/ice-ice-baby-dance-ai): Two dancers side by side, the same bouncy 90s steps, a spin on the beat and a strut to the camera. Add a photo of you and a friend, of you alone, or of your pet, and get the dance with the sound.
+- [Save Yourself Trend: Pull Yourself Up From the Cliff](https://www.makeviral.ai/templates/save-yourself-ai-trend): One photo plays both of you: the scared you clinging to a wet sea cliff, and the calm you who reaches down, pulls you up and holds you. Or use two photos: an older photo of you and a new one, or you and a friend. 15 seconds, vertical.
+
 ## Make your own My Ride Is Here video
 
-Add one photo and press Generate. No prompt to write. 120 credits, charged once.
+Add one photo and press Generate. No prompt to write. 152 credits, charged once.
 
 [Make this video](https://www.makeviral.ai/templates/my-ride-is-here-broom-trend/create)

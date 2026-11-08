@@ -9,23 +9,82 @@ The Thriller dance is the zombie routine from Michael Jackson's 1983 "Thriller" 
 
 - https://www.makeviral.ai/media/templates/thriller-dance-ai-trend/original-main-v2.mp4
 - https://www.makeviral.ai/media/templates/thriller-dance-ai-trend/original-pet-v2.mp4
+- https://www.makeviral.ai/media/templates/thriller-dance-ai-trend/original-zombie-v2.mp4
 
 ## Posters
 
 - https://www.makeviral.ai/media/templates/thriller-dance-ai-trend/original-main-v1.jpg
 - https://www.makeviral.ai/media/templates/thriller-dance-ai-trend/original-pet-v1.jpg
+- https://www.makeviral.ai/media/templates/thriller-dance-ai-trend/original-zombie-v1.jpg
 
 ## Prompts
 
-### 1. 1. The video prompt is filled in. Settings: h3-recast, 15 s, 720p, 9:16, sound off. The video prompt
+### 1. 1. The video prompt is filled in. Settings: Seedance 2.5, 15 s, 720p, 9:16, sound off. The video prompt
 
 *Kind: video_prompt*
 
 ```text
-Image 1 replaces the dancer on the left with long dark hair in the black crop top and the wide black trousers, in every shot. Image 2 replaces the dancer on the right with long brown hair in the loose white sweatshirt with the big number, the black shorts and the white socks, in every shot. Each one has their own face, hair, skin tone, body and clothes from their own image, with no number on the clothes, no black crop top and no black shorts unless their image shows them. Both keep the serious, focused faces of the dancers in the video and never smile at the camera. The two small figures in the mirror behind them are their reflections: the same two people from image 1 and image 2. Keep the dance studio, the wooden floor, the mirror wall, the ballet barre, the ceiling fan, the daylight, the dance moves, the motion and the camera exactly as in the video.
+Recreate the reference video [Video 1] shot for shot: the same dance studio with a wooden floor, a mirror wall, a ballet barre and a ceiling fan, the same daylight, the same fixed phone camera in one continuous take, the same framing, timing and dance moves, with both dancers in sync. The ONLY change: the dancer on the left with long dark hair in the black crop top and wide black trousers is now the person in [Image 1], and the dancer on the right with long brown hair in the loose white sweatshirt with the big number and black shorts is now the person in [Image 2]. Both change: no one from the video stays, also when the hair flies over a face and in the mirror. The faces are fully locked to [Image 1] on the left and [Image 2] on the right; [Video 1] is for the dance and the camera only. Two different people: never blend the two faces; each face stays sharp and easy to recognize, also in the wide shot.
+
+The dancer on the left = the person in [Image 1], in every frame: copy the exact face from [Image 1] - face shape, eye color and eye shape, eyebrows, nose, mouth, skin tone, age, hair color, hair length and hairstyle, and any beard, moustache, glasses or freckles exactly as in the photo - with the body and the clothes of the person in [Image 1], never the black crop top and the wide black trousers of the original dancer.
+
+The dancer on the right = the person in [Image 2], in every frame: copy the exact face from [Image 2] - face shape, eye color and eye shape, eyebrows, nose, mouth, skin tone, age, hair color, hair length and hairstyle, and any beard, moustache, glasses or freckles exactly as in the photo - with the body and the clothes of the person in [Image 2], never the white sweatshirt with the big number and the black shorts of the original dancer, and no number on any clothes.
+
+Each one is the same real person in every frame, from the first second to the last, so their friends instantly recognize them. If a photo shows only the head or the upper body, invent the rest so it matches naturally. Never morph, never drift back to the original dancers' faces, never add or remove facial hair. Do not mix the two faces: [Image 1] is only the dancer on the left, [Image 2] is only the dancer on the right. Both keep the serious, focused faces of the dancers in the video and never smile at the camera. The two small figures in the mirror behind them are their reflections: the same two people.
+
+The dance, matching the reference second by second:
+0-1 s: both stand still, ready.
+1-7 s: shoulder shrugs and sways with the arms spread out wide.
+7-10 s: a turn to the side with the hands raised like claws, then hip shakes.
+10-11 s: a deep bend down with the hair flying, and back up.
+11-15 s: claw hands and shrugs facing the camera.
+
+Anatomy rules: one head per dancer, on their own shoulders. Two arms and two hands each, no extra limbs. Exactly two people. No text, no logos, no watermark. No dialogue throughout the entire video. No background music.
 ```
 
-### 2. 1. The video prompt is filled in. Settings: Seedance 2.5, 15 s, 720p, 9:16, sound off. The video prompt (Pet)
+### 2. 1. The video prompt is filled in. Settings: Seedance 2.5, 10 s, 720p, 9:16, sound off. The video prompt
+
+*Kind: video_prompt*
+
+```text
+Recreate the reference video [Video 1] shot for shot: the same wide night street with wet asphalt, old brick buildings, streetlights and cold blue light, the same crowd of zombie dancers in torn clothes and grey makeup behind, the same camera move, framing and timing, and the full zombie dance routine in sync with the crowd. The ONLY change: [Image 1] replaces the man in the red leather jacket and red trousers who leads the dance in front, maintaining the same exact synchronized movements from [Video 1].
+
+The lead dancer = the person in [Image 1], in EVERY frame: copy the exact face from [Image 1] (the face shape, eye color and eye shape, eyebrows, nose, mouth, skin tone, age, hair color, hair length and hairstyle, and any beard, moustache, glasses or freckles), so their friends recognize them at once. The face is clearly lit, with the natural skin tone of [Image 1] and NO zombie makeup: no grey face paint, no dark rings around the eyes, no yellow eyes, no sores. NO short black curly hair unless [Image 1] shows it: the hair color, length and style of [Image 1]. The same real person from the first second to the last, also when the head snaps and turns and when the camera pulls back. Never morph, never blend faces, and never drift back to the face of the original lead dancer.
+
+Only the head, the face, the hair and the skin change: the lead keeps the costume of the original lead in every frame, the red leather jacket with black details, the red trousers, the white socks and the black shoes, so the person from [Image 1] wears that red jacket and those red trousers from the first second to the last.
+
+The dance, matching [Video 1] second by second, on the beat, the lead and the crowd in sync:
+0-1.5 s: close to the camera, arms swung out wide to the sides with a deep lean, claw hands.
+1.5-5 s: steps toward the camera and to the side, arms swinging, shoulders shrugging, while the camera pulls back.
+5-7 s: a low, wide stance with bent knees, hands near the thighs, a quick bow of the head.
+7-10 s: side steps with one claw arm stretched out, the whole body in view, the crowd right behind.
+
+Anatomy rules: one head only, on the lead's shoulders. A face never appears on knees, legs, hands or clothes. Two arms, five fingers on each hand. Exactly one lead dancer in front. The zombie dancers behind keep their own zombie faces: none of them gets the face from [Image 1]. Real live-action footage. No famous people. No text, no captions, no logos, no watermark.
+```
+
+### 3. 1. The video prompt is filled in. Settings: Seedance 2.5, 10 s, 720p, 9:16, sound on. The video prompt
+
+*Kind: video_prompt*
+
+```text
+Everyone in [Image 1] does the famous 80s zombie dance together and leads a crowd of zombies on a foggy street at night. [Image 1] is one photo of a group of adult friends, three or four people. One continuous vertical 9:16 shot, no cuts, photorealistic, live action.
+
+Keep each friend exactly as photographed: each adult in [Image 1] is one dancer in the front row, in the same order from left to right as in the photo, with their own face copied exactly from [Image 1] (the face shape, eye color and eye shape, eyebrows, nose, mouth, skin tone, age, hair color, hair length and hairstyle, and any beard, moustache, glasses or freckles), so their friends recognize them at once. Never blend their faces, never swap them, never leave anyone out and never add a person to the front row. Each face stays the same from the first frame to the last, clearly lit, with their own skin and NO zombie makeup. Everyone wears their own clothes from [Image 1] (a Halloween costume stays on); invent any part of the body the photo does not show.
+
+The place: an empty street in an old town at night, wet asphalt, old brick buildings, streetlights, cold blue moonlight and drifting fog, a few glowing jack-o'-lanterns on the doorsteps. One step behind the friends, about eight zombie dancers in torn clothes with grey skin dance the same moves in sync. Each zombie is an adult stranger with its own face, never a face from [Image 1]. No blood, no gore.
+
+The moves, on the beat, everyone in sync:
+0-2 s: the friends stand side by side in front, heads bowed; on the first beat they snap their heads up to the camera, claw hands raised by the shoulders.
+2-5 s: they shuffle toward the camera like zombies, arms swung out wide with a deep lean to the left, then to the right, shoulders shrugging on the beat.
+5-7 s: head rolls and wrist flicks, then a turn to the side with both claw hands raised high.
+7-10 s: back to the camera in a low, wide stance with shoulder shrugs and claw hands, then a freeze with an intense stare while the camera pushes in.
+
+Filmed from the front at chest height, the front row from head to shoes; the push in ends at the knees up, every face big and sharp.
+Audio: an original spooky 80s funk groove with deep bass and a far-off howl; no known song, no lyrics, no singing, no talking.
+No famous people and no famous costume: no red leather jacket with black stripes unless [Image 1] shows it. One head on each body, five fingers on each hand. Everyone in the front row is a grown adult from [Image 1]: no child, no extra person. No text, no captions, no logos, no watermark.
+```
+
+### 4. 1. The video prompt is filled in. Settings: Seedance 2.5, 15 s, 720p, 9:16, sound off. The video prompt (Pet)
 
 *Kind: video_prompt*
 

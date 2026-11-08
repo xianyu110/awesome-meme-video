@@ -3,7 +3,7 @@
 > Malfoid is the internet's name for a female Draco Malfoy: a fan-made, gender-swapped version of the Harry Potter rival that took over X and TikTok in September and October 2026.
 
 Canonical: https://www.makeviral.ai/templates/malfoid-ai-trend
-Updated: 2026-10-21
+Updated: 2026-10-27
 Published: 2026-10-21
 Author: MakeViral Team (https://www.makeviral.ai/about)
 Publisher: MakeViral (https://www.makeviral.ai)
@@ -12,11 +12,11 @@ Publisher: MakeViral (https://www.makeviral.ai)
 
 One selfie, and you get the hair, the makeup and the outfit of the female Draco Malfoy the internet calls Malfoid: platinum slicked-back hair, the black robe with the green lining, a green and silver tie and a slow, smug smirk in a candle-lit castle hall. Get the cosplay transition as a video, or one portrait.
 
-Also called: Fem Malfoy, Draconia Malfoid, Malfoy girl, Draco Malfoy as a girl.
+Also called: Fem Malfoy, Draconia Malfoid, Malfoy girl, Draco Malfoy as a girl, Draconia Malfoy, Fem Draco.
 
 **Make it now:** [Make this video](https://www.makeviral.ai/templates/malfoid-ai-trend/create). 1 photo · 10 s · 9:16 with sound · 126 credits, charged once · ready in a few minutes · no prompt to write.
 
-Keyword: malfoid. Also answers: female draco malfoy, draco malfoid, malfoid ai, malfoid trend, female malfoy, draco malfoy girl, malfoid meme, malfoid cosplay, female draco malfoy cosplay, malfoid costume, what is malfoid, who is malfoid, harry potter malfoid, malfoid art, malfoid anime, female draco malfoy trend, draco malfoy girl version, female draco malfoy costume, draco malfoy girl costume, malfoid ai trend, malfoid ai video, malfoid filter, malfoid ai filter, malfoid prompt, malfoid ai prompt, female draco malfoy ai, draco malfoy genderbend, malfoid makeup, malfoid tiktok, malfoid name, female draco malfoy name, why is malfoy trending, draco malfoy trend, malfoid halloween costume, draco malfoy girl look alike, draco malfoy girl hair, female draco malfoy fanart, malfoid pfp, draco malfoy ai art, draco malfoy ai image, turn yourself into malfoid.
+Keyword: malfoid. Also answers: female draco malfoy, draco malfoid, malfoid ai, malfoid trend, female malfoy, draco malfoy girl, malfoid meme, malfoid cosplay, female draco malfoy cosplay, malfoid costume, draco malfoy female cosplay, malfoid pfp, malfoy girl cosplay, draco malfoy girl cosplay, female malfoy cosplay, malfoy girl ai, malfoid ai video, malfoid tiktok, draco malfoy cosplay girl, malfoy female ai, malfoy girl anime, female draco malfoy ai, malfoid halloween costume, draco malfoy anime girl, draco malfoy slick back, female malfoy ai, gender swap draco malfoy, gender swap malfoy, malfoy female cosplay, draco malfoid cosplay, draconia malfoy ai, female malfoid cosplay, genderbent malfoy, draco malfoy girl version, draco malfoy girl costume, harry potter malfoy girl, tiktok malfoid, draco malfoy female version, draco malfoy gender swap, draconia malfoy cosplay, malfoid girl, malfoid hair, malfoid hairstyle, malfoid outfit, malfoy gender swap, malfoy girl version, female draco malfoy costume, malfoid prompt, draco malfoy costume girl, draco malfoy girl pfp, draco malfoy pfp, draconia malfoid female, female draco cosplay, female malfoy costume, girl malfoy, malfoid girl cosplay, malfoid hair color, malfoid pictures, malfoid viral, malfoy ai girl, malfoy cosplay girl, malfoy trend, malfoid anime, draco malfoy trend, what is malfoid, who is malfoid, harry potter malfoid, malfoid art, female draco malfoy trend, malfoid ai trend, malfoid filter, malfoid ai filter, malfoid ai prompt, draco malfoy genderbend, malfoid makeup, malfoid name, female draco malfoy name, why is malfoy trending, draco malfoy girl look alike, draco malfoy girl hair, female draco malfoy fanart, draco malfoy ai art, draco malfoy ai image, turn yourself into malfoid.
 
 ## What is the Malfoid AI trend, and where did it start?
 
@@ -31,7 +31,7 @@ TikTok joined in early October. Cosplayers posted Malfoid cosplay and makeup tra
 - **2026-10-03**: Cosplayers bring the look to TikTok: @anong.23's Malfoid cosplay transition, from a striped T-shirt to the platinum wig and the robe, gets 90,500 views. Source: [TikTok](https://www.tiktok.com/@anong.23/video/7692330424613309704).
 - **2026-10-05**: US Google interest in "malfoid" peaks, after 33,100 US searches in September.
 - **2026-10-12**: AI fan-film shorts of Malfoid spread on TikTok; a repost of one series, posted the next day, passes 1.4 million views.
-- **2026-10-20**: #malfoid holds 8,861 TikTok videos and 237 million views, after a cosplay makeup transition passed 1.4 million plays on 16 October.
+- **2026-10-20**: #malfoid holds 8,861 TikTok videos and 237 million views, after a cosplay makeup transition passed 1.4 million plays on 16 October. Source: [TikTok](https://www.tiktok.com/tag/malfoid).
 
 ## What the Malfoid AI video looks like
 
@@ -174,19 +174,19 @@ More looks where you are the star: walk into the church as the vampire in the [D
 
 ### What is Malfoid, and who is she?
 
-Malfoid is the name the internet gave to a female Draco Malfoy: a fan-made, gender-swapped version of the Harry Potter rival, with long platinum hair, the black robe with a green lining and a smug smirk. It began as fan art on X in September 2026 and spread to TikTok cosplay, anime edits and AI videos in October. On this page you can put the look on yourself.
+Malfoid is the name the internet gave to a female Draco Malfoy: a fan-made, gender-swapped version of the Harry Potter rival, with long platinum hair, the black robe with a green lining and a smug smirk. The gender swap began as fan art on X in September 2026 and spread to TikTok cosplay, anime edits and AI videos in October. Some fans call her a genderbent Malfoy. On this page you can put the look on yourself.
 
 ### Why is Malfoy trending?
 
-Because of Malfoid. Since 22 September 2026, artists, cosplayers and AI creators have posted Draco Malfoy as a girl, and the Draco Malfoy trend took over X and TikTok. US Google searches for "malfoid" reached 33,100 in September and peaked on 5 October.
+Because of Malfoid. Since 22 September 2026, artists, cosplayers and AI creators have posted Draco Malfoy as a girl, and the Draco Malfoy trend went viral on X and TikTok. US Google searches for "malfoid" reached 33,100 in September and peaked on 5 October.
 
 ### What is the female Draco Malfoy's name?
 
-Fans call her Malfoid or Draco Malfoid, and a Reddit meme of 29 September 2026 gave her the first name Draconia, so the full fan name is Draconia Malfoid. Fem Malfoy, female Malfoy and Malfoy girl all mean the same character. The female Draco Malfoy name is fan-made: she is not in the books or the films.
+Fans call her Malfoid or Draco Malfoid, and a Reddit meme of 29 September 2026 gave her the first name Draconia, so the full fan name is Draconia Malfoid. Fem Malfoy, female Malfoy and Malfoy girl all mean the same character. The female Draco Malfoy name is fan-made: she is not in the books or the films. Fans use these names for the fan art on X and for the cosplay on TikTok.
 
 ### What does the Draco Malfoy girl version look like?
 
-In the female Draco Malfoy fanart and the cosplays, the Draco Malfoy girl version has long, straight platinum hair, often combed back, small hoop earrings, the black robe with an emerald-green lining, a white shirt, a grey sweater and a green and silver tie, plus a cold, smug smirk. The Draco Malfoy girl hair is the key: our version turns your hair platinum and keeps your own face and eye color.
+In the female Draco Malfoy fanart and the cosplays, the Draco Malfoy girl version has long, straight platinum hair, often combed back, small hoop earrings, the black robe with an emerald-green lining, a white shirt, a grey sweater and a green and silver tie, plus a cold, smug smirk. The Draco Malfoy girl hair is the key, so the hairstyle and the hair color of Malfoid are what our version changes: your hair turns platinum, and your own face and eye color stay.
 
 ### Is there a Malfoid filter or a Malfoid AI prompt?
 
@@ -198,7 +198,11 @@ Press "Create your own", pick Malfoid (the video) or Photo, add one selfie and p
 
 ### Is this a female Draco Malfoy AI video of me?
 
-Yes. It is a female Draco Malfoy AI clip with your own face, made from your photo with no footage from the films. Each Malfoid AI video is a new clip, so no two runs come out the same.
+Yes. It is a female Draco Malfoy AI clip with your own face, made from your photo with no footage from the films. Each Malfoid AI video is a new clip, so no two runs come out the same. Whether you call her Malfoid, Draconia or the Malfoy girl, the face in the clip is yours.
+
+### What do I need for a female Draco Malfoy cosplay?
+
+The Malfoid outfit is a long platinum wig combed back, a black robe with an emerald-green lining, a white shirt, a grey V-neck sweater, a green and silver tie and small dark hoop earrings. For the makeup, cosplayers go for a smooth porcelain base, sharp eyeliner and green contact lenses. Make the Photo first to see the Malfoy girl costume on your own face before you buy the wig.
 
 ### Can I use it for a Malfoid Halloween costume?
 
@@ -210,7 +214,7 @@ Yes. Most posts show Draco Malfoy as a girl, a Draco Malfoy genderbend, but the 
 
 ### Can I make Malfoid art or a pfp?
 
-Pick Photo. Most Malfoid art is anime-style fan art; the Photo version makes a photoreal portrait of you in the look instead, like Draco Malfoy AI art or a Draco Malfoy AI image with your face. It makes a good Malfoid pfp.
+Pick Photo. Most pictures of Malfoid are anime-style fan art of a girl with platinum hair; the Photo version makes a photoreal portrait of you in the look instead, like Draco Malfoy AI art or a Draco Malfoy AI image with your face. It makes a good Malfoid pfp.
 
 ### Is this official?
 
@@ -233,6 +237,15 @@ The Malfoid video is 10 seconds, vertical, 720p, with its own sound, as an MP4 f
 - [Nano Banana 2](https://www.makeviral.ai/tools/nano-banana-2-image-generator): Google's image model, in a browser tab, with the reference-image dropzone that makes it useful: up to 14 photos in, one new image out.
 - [AI photo generator](https://www.makeviral.ai/ai-photo-generator)
 - [All AI video templates](https://www.makeviral.ai/templates)
+
+## New AI video trends this week
+
+- [Christmas Dance AI: Do the New TikTok Christmas Dance From Your Photos](https://www.makeviral.ai/templates/christmas-dance-ai-trend): Hip sways with the hands at the collar, rolling arms, a quick spin and raised fists, side by side in matching Christmas pajamas. Add two photos for the duo, one for a solo take, or two pets, and get the dance with the sound.
+- [Cat on Ultra Bee AI: Put Your Pet on the Wheelie](https://www.makeviral.ai/templates/cat-on-ultra-bee-ai-trend): Add one photo, and your cat or dog stands on an electric dirt bike and holds a long wheelie down a city road at golden hour, in the same shots as the viral clip, with its original sound. You can take the ride yourself, too.
+- [Tus Ojos Me Reflejan el Sentimiento: The Cafuné Eye Close-Up Trend](https://www.makeviral.ai/templates/tus-ojos-me-reflejan-ai-trend): You lie on your side, a hand rests on your cheek, warm light falls on your face, and the camera slowly moves in until your eyes fill the screen while the line plays. One photo in, an 8-second vertical clip with the trend's song out.
+- [İnşallah Maşallah AI Trend: Sing Neşe Karaböcek's Song on the Couch](https://www.makeviral.ai/templates/insallah-masallah-ai-trend): You sit on a light grey couch and sing the old Turkish love song straight to the camera: a hand on the heart, a big laugh with both hands on your head, a finger pointed at the camera and a kiss at the end. One photo of you, a grandparent or your pet, and the 15-second clip comes with the song.
+- [Ice Ice Baby Dance AI: Do the Viral Duo Dance With a Friend](https://www.makeviral.ai/templates/ice-ice-baby-dance-ai): Two dancers side by side, the same bouncy 90s steps, a spin on the beat and a strut to the camera. Add a photo of you and a friend, of you alone, or of your pet, and get the dance with the sound.
+- [Save Yourself Trend: Pull Yourself Up From the Cliff](https://www.makeviral.ai/templates/save-yourself-ai-trend): One photo plays both of you: the scared you clinging to a wet sea cliff, and the calm you who reaches down, pulls you up and holds you. Or use two photos: an older photo of you and a new one, or you and a friend. 15 seconds, vertical.
 
 ## Make your own Malfoid AI video
 

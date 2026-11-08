@@ -1,0 +1,48 @@
+{
+  "source": "makeviral",
+  "source_site": "https://www.makeviral.ai",
+  "slug": "halloween-ceiling-fan-trend",
+  "name": "Halloween Ceiling Fan Trend: A New Costume on Every Blade Pass",
+  "url": "https://www.makeviral.ai/templates/halloween-ceiling-fan-trend",
+  "markdown_url": "https://www.makeviral.ai/templates/halloween-ceiling-fan-trend.md",
+  "blurb": "The Halloween ceiling fan trend is the ceiling fan outfit change in costume: you lie on the floor under a turning fan, a blade sweeps across the lens, and each time it passes you wear a new Halloween costume.",
+  "updated": "2026-10-29",
+  "published": "2026-10-29",
+  "credits": 200,
+  "demo_videos": [
+    "https://www.makeviral.ai/media/templates/ai-ceiling-fan-trend/example-v2-halloween.mp4",
+    "https://www.makeviral.ai/media/templates/ai-ceiling-fan-trend/original-pet-v2.mp4"
+  ],
+  "posters": [
+    "https://www.makeviral.ai/media/templates/ai-ceiling-fan-trend/example-input.jpg",
+    "https://www.makeviral.ai/media/templates/ai-ceiling-fan-trend/example-v2-halloween.jpg",
+    "https://www.makeviral.ai/media/templates/ai-ceiling-fan-trend/original-pet-v1.jpg"
+  ],
+  "prompts": [
+    {
+      "label": "1. The video prompt is filled in. Settings: Seedance 2.5, 13 s, 720p, 9:16, sound off. The video prompt",
+      "variant": "Human",
+      "kind": "video_prompt",
+      "text": "Recreate the reference video [Video 1] shot for shot: the same fixed top-down camera that looks straight down past the slowly turning ceiling fan, the same person lying on their back on the cream carpet next to the sofa, the same room, light, framing, timing and moves, one continuous take. The ONLY change is the face and the hair of the young woman with long chestnut-brown hair who lies on her back on the cream carpet under the ceiling fan: they are now the face and the hair of the person in [Image 1], in every costume.\n\nThe person = the person in [Image 1], in EVERY shot and in EVERY look: copy the exact face from [Image 1] (the face shape, eye color and eye shape, eyebrows, nose, mouth, skin tone, age, hair color, hair length and hairstyle, and any beard, moustache, glasses or freckles), so their friends recognize them at once. [Image 1] is only a head-and-shoulders portrait: take ONLY the face, the hair and the skin tone from it, never its plain black t-shirt and never its grey background. The same real person in every look, from the first frame to the last, also right after each blade pass and when the face is small or turned away. Never morph, never drift back to the original woman's face or hair.\n\nEvery outfit stays exactly as in [Video 1]: the same clothes, shoes, bags and accessories, the same fit, in the same order, and each outfit change at the same moment as in [Video 1]. NO black t-shirt from [Image 1] in any look. NO long chestnut-brown hair unless [Image 1] shows it: the hair is the hair from [Image 1] in every costume. The face always stays uncovered in every costume: no mask, no face paint, no skull makeup, no hat brim over the eyes. Every prop on the floor stays as in [Video 1].\n\nThe costumes, at the times of [Video 1]: costume 1 from 0 s, a blade pass at 3.6 s brings costume 2, a blade pass at 7.4 s brings costume 3, a blade pass at 10.7 s brings costume 4 until the end. The ceiling fan keeps turning the same way at the same speed through the whole video. Each outfit change happens only while a blade covers the person, and the person lies in the same spot before and after each blade, with no jump. No glow, no particles, no dissolve, no flash. Never mix pieces of two looks.\n\nAnatomy rules: exactly one person, one head on that person's shoulders, two arms, two legs, five fingers on each hand. A face never appears on hands, clothes or the floor. No text, no captions, no logos, no watermark."
+    },
+    {
+      "label": "1. The video prompt is filled in. Settings: Seedance 2.5, 15 s, 720p, 9:16, sound off. The video prompt",
+      "variant": "Pet",
+      "kind": "video_prompt",
+      "text": "Recreate the reference video [Video 1] shot for shot: the same fixed vertical top-down camera, the same green carpet, the same orange velvet sofa edge on the left, the same ceiling fan with brown wooden blades very close to the lens, the same framing, light, timing and moves, one continuous take. Two changes only: the cat that drops in from the sofa and lies on its back in the middle of the green carpet is now the pet in [Image 1], and every outfit of the video is now a Halloween costume.\n\nThe pet = the pet in [Image 1], in EVERY frame: the same species and breed, head shape, muzzle, eyes, ears, fur colors, fur length and markings as in [Image 1], with the natural body volume and proportions of that animal: never flattened, squashed, stretched or merged with anything, so its owner instantly recognizes it in every costume. A dog stays a dog and a cat stays a cat: if [Image 1] shows a dog or another animal, that animal drops in, rolls onto its back and lies in the same spot, with its own face, ears, whiskers and tail. Never drift back to the cat of the original video: not the coat, face, ears or tail of the cat in the video, unless [Image 1] shows them. The pet's face is always uncovered: no mask, no face paint. Never a collar or clothes from [Image 1].\n\nThe looks, at the times of [Video 1], each a Halloween costume in place of the outfit of the video:\n0-1.5 s: the pet drops in from the sofa on the left and rolls onto its back in the middle of the carpet.\n1.5-5 s: it lies on its back, paws up, no clothes, nothing in its mouth.\n6-7.75 s: a witch costume: a small pointed black witch hat with a purple band and a short black cape.\n8.5-10.75 s: a vampire costume: a high-collared black cape lined in red, over a white ruffled shirt front; one front paw waves by the face.\n11.5-13.75 s: a pumpkin costume: a round, padded orange pumpkin suit with a small green stem cap.\n14.5-15 s: a skeleton costume: a black bodysuit with white bones printed on it.\nNever the tweed jacket, the berets, the glasses, the cardigan, the skirts, the bags, the pearls or the lace gown of the video.\n\nThe ceiling fan above keeps rotating through the whole video. Every costume change happens when the fan blades pass in front of the camera, at 5-6 s, 7.75-8.5 s, 10.75-11.5 s and 13.75-14.5 s. The blades are very close to the lens, so they look enlarged with natural motion blur and briefly cover the pet and the center of the frame. When a blade covers the pet, the costume changes; when it moves away, the next full costume shows. The pet stays in the same spot before and after each blade, with no jump. No glow, no particles, no dissolve, no flash. Never mix pieces of two costumes, never leave a piece of the previous costume. The costumes fit the pet's own body, with real folds.\n\nReal animal anatomy: one head, four legs, furry paws, never human hands or fingers. Exactly one animal, no people, no extra animals. No text, no captions, no logos, no watermark."
+    }
+  ],
+  "variant_headings": [
+    "What the Halloween Ceiling Fan video looks like",
+    "How to make the Halloween Ceiling Fan video on MakeViral",
+    "Which photo works best?",
+    "Which costumes are in the video, and can you write your own?",
+    "How long is the video, and does it cost credits?",
+    "Can I post my Halloween ceiling fan video on TikTok or Instagram?",
+    "Other AI video templates and tools",
+    "New AI video trends this week",
+    "Make your own Halloween Ceiling Fan video"
+  ],
+  "prompt_count": 2,
+  "scraped_at": "2026-11-08"
+}

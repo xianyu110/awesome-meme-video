@@ -1,0 +1,100 @@
+{
+  "source": "makeviral",
+  "source_site": "https://www.makeviral.ai",
+  "slug": "ai-christmas-photoshoot",
+  "name": "AI Christmas Photo: A Christmas Photoshoot From One Selfie",
+  "url": "https://www.makeviral.ai/templates/ai-christmas-photoshoot",
+  "markdown_url": "https://www.makeviral.ai/templates/ai-christmas-photoshoot.md",
+  "blurb": "An AI Christmas photo looks like a professional holiday photoshoot, but it starts from one ordinary selfie.",
+  "updated": "2026-11-05",
+  "published": "2026-11-05",
+  "credits": 3,
+  "demo_videos": [
+    "https://www.makeviral.ai/media/templates/ai-christmas-photoshoot/example-main-v1.mp4",
+    "https://www.makeviral.ai/media/templates/ai-christmas-photoshoot/original-main-v2.mp4"
+  ],
+  "posters": [
+    "https://www.makeviral.ai/media/templates/ai-christmas-photoshoot/example-main-input.jpg",
+    "https://www.makeviral.ai/media/templates/ai-christmas-photoshoot/example-main-poster.jpg",
+    "https://www.makeviral.ai/media/templates/ai-christmas-photoshoot/original-main-v1.jpg"
+  ],
+  "prompts": [
+    {
+      "label": null,
+      "variant": null,
+      "kind": "prompt",
+      "text": "Use the uploaded image as the base. Make a photoshoot of the person in the photo in a studio against a plain, Christmas tree with Christmas lights backdrop. She wears an off shoulder red dress showing elegant collar bone, giving off an elegant and minimalist vibe with Santa Hat. She keeps her own hair from the photo, the same length, color and style. Natural glam makeup, focusing on defined eyes, neat brows, soft blush, and natural pink lips, creates a feminine and flawless look. The woman poses with her head propped up on a white table, gazing at the camera and smile. The composition is a close-up, half-body shot, showcasing her natural, radiant skin. Professional studio lighting is used from above and in front (a softbox is visible above the frame), producing soft, even light without harsh shadows, highlighting facial details and skin texture. The overall atmosphere of the photo is clean, modern, and aesthetically pleasing, perfect for a premium beauty or skincare product photoshoot. Photo style: Beauty photography, clean studio look, minimalist, high-key lighting. Additional keywords: elegant, fresh, glowing skin, portrait photography, studio shoot, minimal background, professional lighting. If the person in the photo is a man, he wears a fitted red velvet blazer over a plain black shirt and the same Santa hat, with no makeup, and poses the same way, chin on his hand on the white table. Do not change the original face. Make it realistic. Vertical 9:16. Exactly one person. No text, no letters, no logo, no watermark, no sticker, no frame and no border."
+    },
+    {
+      "label": null,
+      "variant": null,
+      "kind": "prompt",
+      "text": "Create an ultra-realistic, professional winter photoshoot with the person from the uploaded photo. Face, facial features, eyes, nose, lips and natural identity must stay true to the original. The woman stands in the middle of a deep snowy winter landscape and playfully throws snow toward the camera with both hands. She smiles brightly, looks straight into the camera and looks happy, lively and confident. Her own hair from the photo falls loose and slightly windswept over her shoulders. Outfit: a cozy, cream-white oversized teddy fleece jacket, a bright red chunky-knit turtleneck sweater, black tight leather leggings, black lace-up winter boots with fur trim and red gloves. Camera perspective: a dynamic shot from a slightly raised bird's-eye view with a wide-angle lens. The woman looks up at the camera, both arms stretched far forward. Whirled-up snowflakes float spectacularly around her, some large and out of focus right in front of the lens. The snow never covers the face. Light and atmosphere: warm, golden sunlight of the low winter sun, beautiful light reflections in the snow, soft shadows, warm skin tones and a fairy-tale winter feeling. Photo style: high-end fashion editorial photography, photorealistic skin texture, a razor-sharp face, natural proportions, cinematic depth of field, 35 mm wide-angle look, 8K detail quality, vertical 9:16 format. Important: no change or beautification of the face, no artificial doll skin, no distorted hands or body proportions. The result should look like a real, professional winter photo of the person. If the person in the photo is a man, he wears black slim winter pants instead of the leggings, with the same jacket, sweater, boots and gloves. Exactly one person. No text, no letters, no logo, no watermark, no sticker, no frame and no border."
+    },
+    {
+      "label": null,
+      "variant": null,
+      "kind": "prompt",
+      "text": "9:16 aspect ratio. 8K resolution. Use the photo I uploaded as my reference. Keep the facial features the same to create a hyper-realistic, highly stylized and dramatic holiday-themed portrait. The central figure is the woman from the photo, with her own hair. She is wearing a striking, floor-length deep red satin gown with a strapless neckline. The dress features a dramatic high slit, showcasing her right leg. She is wearing silver or white high-heeled sandals. Her posture is dynamic, with her right leg elevated as if stepping up or posing on a pile of gifts. She holds a medium-sized dark green gift box with a red ribbon against her chest or side. Her expression is serene and contemplative, looking toward the camera. The scene is dominated by an overwhelming abundance of Christmas gifts. Presents: the woman is surrounded and partially backed by a towering, wall-like stack of wrapped presents. They vary in size and wrapping paper, featuring colors like red, green, gold, and patterned paper, often tied with luxurious ribbons. Christmas tree: to the right of the woman is a large, fully decorated Christmas tree, heavily adorned with gold and bronze ornaments and illuminated by warm lights. Decor: the overall atmosphere is warm and opulent, suggesting a luxurious interior space. There are additional hints of festive decor, including a wreath or garland visible in the upper left background and more glowing lights scattered throughout the scene, creating a rich, warm ambiance. Lighting: the lighting is low-key and dramatic, using the warm glow of the Christmas lights to highlight the subject and the shimmering gifts, creating a sense of glamour and festive excitement. The image conveys a feeling of opulence, celebration, and high fashion associated with the Christmas season. If the person in the photo is a man, he wears a tailored deep red velvet tuxedo jacket, a black shirt, black trousers and black dress shoes instead of the gown and sandals, with one foot up on the pile of gifts. Exactly one person. No text, no letters, no logo, no watermark, no sticker, no frame and no border."
+    },
+    {
+      "label": null,
+      "variant": null,
+      "kind": "prompt",
+      "text": "Use the uploaded image as the base. Create an ultra-realistic 8K Christmas portrait using a 55mm lens with bright, playful holiday lighting. The woman is in a whimsical candy-cane themed photoshoot, surrounded by pink giant peppermint decorations, snowy ground, festive trees, and oversized ornaments. Use her real facial features exactly as they are, do NOT change or alter her face in any way. Her makeup is festive glam: winged liner, warm eyeshadow, rosy cheeks, and a bold holiday soft pink lips. She wears a sparkly white long-sleeve pants jumpsuit, fitted and shimmering with sequins. The back of the jumpsuit has a scoop-back cut, keeping the holiday sparkle. She is sitting on a white cube block, posing with one leg lifted and crossed. Her expression is playful and confident, smiling warmly toward the camera. In her hand, she holds a giant pink-and-white peppermint lollipop prop, resting it over her shoulder in a fun, candy-land pose. Around her is a fully decorated Christmas set: snowy ground with fluffy artificial snow; Christmas trees dusted with frost, decorated with pink ornaments and string lights; oversized candy canes framing her, whimsical, beside her; a large shiny red Christmas ornament near her feet. Lighting should be bright, clean, and festive, capturing the glimmer of the sequins and the pink candy-themed props. The colors are vibrant reds, whites, and silvers, giving a magical North Pole holiday studio vibe. If the person in the photo is a man, he wears a sparkly white 3-piece suit, fitted and shimmering with sequins, with no makeup, in the same pose with the same lollipop. Vertical 9:16. Exactly one person. No text, no letters, no logo, no watermark, no sticker, no frame and no border."
+    },
+    {
+      "label": null,
+      "variant": null,
+      "kind": "prompt",
+      "text": "Hyperrealistic portrait, cozy Christmas atmosphere. Using the reference image as a STRICT AND NON-NEGOTIABLE source, preserve the EXACT likeness, facial structure, body proportions, and natural hair of the person. Do not alter facial structure, skin texture, or hair type. Person sitting on rug, wearing red Christmas beanie, bright red knit sweater, straight black pants, wool socks. Looking gently at camera. Fully decorated glowing snowman with all accessories and full-size Christmas tree at normal scale. Clean composition with only these three elements. Warm ambient indoor lighting. Minimalist Christmas scene, proper scale elements, intimate portrait. Vertical 9:16, raw photo style. Exactly one person. No text, no letters, no logo, no watermark, no sticker, no frame and no border."
+    },
+    {
+      "label": null,
+      "variant": "Pet",
+      "kind": "prompt",
+      "text": "Use the two uploaded images. The person in image 1 sits on the LEFT, the person in image 2 sits on the RIGHT. Realistic couple Christmas portrait with exact faces, wearing a matching red and white Christmas long sleeve set with pajamas, sitting close together beside a decorated Christmas tree with fairy lights and ornaments. Wrapped gifts and a few candles are visible nearby. The couple leans gently against each other, smiling softly at the camera. Warm indoor lighting, peaceful and romantic atmosphere, cinematic realistic photo style. Mimic the real facial features and likeness of each person from their own photo. With a red xmas hat. Each person keeps their own face, hair, skin tone, age and body. Never blend the two faces and never swap them. If an image shows an animal, that place is that same animal in a small matching red-and-white knit sweater and a small red Christmas hat, sitting close, with its own face, fur and markings, not a person. Vertical 9:16, both people from head to knees. No text, no letters, no logo, no watermark, no sticker, no frame and no border."
+    },
+    {
+      "label": null,
+      "variant": "Pet",
+      "kind": "prompt",
+      "text": "Hyperrealistic portrait, cozy Christmas atmosphere. Using the reference image as a STRICT AND NON-NEGOTIABLE source, preserve the EXACT look of the pet: the same species and breed look, head shape, ears, eye color, fur colors, fur length, pattern and markings, with the natural body volume of that animal. The pet sitting on a rug, wearing a small red Christmas beanie and a bright red knit sweater, both sized for it, its ears in view. Looking gently at camera. Fully decorated glowing snowman with all accessories and full-size Christmas tree at normal scale. Clean composition with only these three elements. Warm ambient indoor lighting. Minimalist Christmas scene, proper scale elements, intimate portrait, the whole pet in view. Vertical 9:16, raw photo style, every hair of the fur crisp. Exactly the animals in the photo, no people. No text, no letters, no logo, no watermark, no sticker, no frame and no border."
+    },
+    {
+      "label": "1. Open [AI Photo with this template](https://www.makeviral.ai/photo?template=ai-christmas-photoshoot&variant=video) and add your photo (you, waist up, face clear). The photo prompt is filled in",
+      "variant": null,
+      "kind": "photo_prompt",
+      "text": "Create an ultra-realistic, professional winter photoshoot with the person from the uploaded photo. Face, facial features, eyes, nose, lips and natural identity must stay true to the original. The woman stands in the middle of a deep snowy winter landscape and playfully throws snow toward the camera with both hands. She smiles brightly, looks straight into the camera and looks happy, lively and confident. Her own hair from the photo falls loose and slightly windswept over her shoulders. Outfit: a cozy, cream-white oversized teddy fleece jacket, a bright red chunky-knit turtleneck sweater, black tight leather leggings, black lace-up winter boots with fur trim and red gloves. Camera perspective: a dynamic shot from a slightly raised bird's-eye view with a wide-angle lens. The woman looks up at the camera, both arms stretched far forward. Whirled-up snowflakes float spectacularly around her, some large and out of focus right in front of the lens. The snow never covers the face. Light and atmosphere: warm, golden sunlight of the low winter sun, beautiful light reflections in the snow, soft shadows, warm skin tones and a fairy-tale winter feeling. Photo style: high-end fashion editorial photography, photorealistic skin texture, a razor-sharp face, natural proportions, cinematic depth of field, 35 mm wide-angle look, 8K detail quality, vertical 9:16 format. Important: no change or beautification of the face, no artificial doll skin, no distorted hands or body proportions. The result should look like a real, professional winter photo of the person. If the person in the photo is a man, he wears black slim winter pants instead of the leggings, with the same jacket, sweater, boots and gloves. Exactly one person. No text, no letters, no logo, no watermark, no sticker, no frame and no border."
+    },
+    {
+      "label": "3. Press the film button on the still to open AI Video with the still as the first frame. Settings: Kling 3.0, 5 s, 1080p, 9:16, sound on. The video prompt",
+      "variant": null,
+      "kind": "video_prompt",
+      "text": "A bright, happy winter shot. The person from the image stands in deep snow under the low golden winter sun, seen from slightly above with a wide-angle lens. Keep the face, hair and outfit exactly as in the image. The person scoops snow with both gloved hands and throws it up toward the camera, laughing. The powder snow bursts into the air and sparkles in the sunlight, big soft flakes drift past the lens, and the face stays clear. Then the person looks up into the camera with a big smile, hair moving a little in the wind. The camera drifts slowly back and up. One continuous shot, no cuts. Audio: the soft crunch of snow, a happy laugh, light winter wind and a gentle original music-box melody. No spoken words, no text, no logos."
+    }
+  ],
+  "variant_headings": [
+    "What the Christmas Photoshoot photo looks like",
+    "How to make the Christmas Photoshoot photo on MakeViral",
+    "Which photo works best?",
+    "What is the AI Christmas photo trend?",
+    "How do I make an AI Christmas photo of me?",
+    "What is the AI Christmas photo prompt?",
+    "How do I do the AI Christmas photo with the lollipop or the candy canes?",
+    "Can I make an AI Christmas photo with my partner or a friend?",
+    "Can I make an AI Christmas photo of my dog or cat?",
+    "Is there an AI Christmas photo app, maker or editor?",
+    "Can I make it a video?",
+    "Is this the AI Christmas photo trend on Facebook?",
+    "Can I get an AI Christmas photo with Santa?",
+    "Can I make a family Christmas photo with kids?",
+    "Is my photo private?",
+    "Does an AI Christmas photo cost credits?",
+    "Other AI video templates and tools",
+    "New AI video trends this week",
+    "Make your own Christmas Photoshoot photo"
+  ],
+  "prompt_count": 9,
+  "scraped_at": "2026-11-08"
+}

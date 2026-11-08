@@ -1,0 +1,65 @@
+# Three Bogatyrs AI Trend: The Back to Back Lip Sync With Your Photo
+
+- Source: [makeviral](https://www.makeviral.ai/templates/three-bogatyrs-ai-trend)
+- Slug: `three-bogatyrs-ai-trend`
+
+The Three Bogatyrs trend is a back to back lip sync with folk-epic heroes: two characters stand back to back at night, hands joined toward the phone, and sing in turn over the shoulder.
+
+## Demo videos (CDN)
+
+- https://www.makeviral.ai/media/templates/three-bogatyrs-ai-trend/original-main-v2.mp4
+
+## Posters
+
+- https://www.makeviral.ai/media/templates/three-bogatyrs-ai-trend/original-main-v1.jpg
+
+## Prompts
+
+### 1. 1. The video prompt is filled in. Settings: Seedance 2.5, 12 s, 720p, 9:16, sound off. The video prompt
+
+*Kind: video_prompt*
+
+```text
+Recreate the reference video [Video 1] shot for shot: the same night on a wide cobbled square, warm street lamps, red-brick buildings with towers and a white gate with two green spires, the same handheld phone shot from the thighs up, the same timing, head turns, mouth moves and facial expressions. The ONLY change: the slim young man on the right is now the person in [Image 1], in a new outfit.
+
+[Image 1] replaces the slim young man on the RIGHT (wavy blond hair to the chin), in EVERY shot: copy the exact face from [Image 1] (the face shape, eye color and eye shape, eyebrows, nose, mouth, skin tone, age, hair color, hair length and hairstyle, and any beard, moustache, glasses or freckles). NO wavy blond hair unless [Image 1] shows it. The same real person from the first second to the last, so their friends recognize them at once, also while singing with the mouth wide open and when only the side of the head shows. Never morph, never drift back to the original young man's face.
+
+The outfit: never the clothes from [Image 1] and never the young man's grey tunic with the zigzag trim. A man wears a knee-length chainmail shirt over a red tunic, a leather belt, a sword on the back and a pointed steel helmet that shows the whole face. A woman wears a long red sarafan over a white full-sleeved blouse and a red headscarf with white polka dots tied under the chin.
+
+The huge bald warrior on the LEFT stays exactly as in the video, with his own face, body, clothes and moves. He never gets the face from [Image 1].
+
+Shots (one continuous shot, no cuts):
+0-2 s: the two stand back to back, the big one LEFT, the slim one RIGHT, the outside hands joined and stretched to the camera; both look away.
+2-4.5 s: the one on the LEFT turns the head over the shoulder to the camera and sings with big mouth moves and a cheeky grin.
+4.5-6.5 s: the one on the RIGHT turns over the shoulder to the camera and sings, eyebrows up, mouth wide open.
+6.5-9 s: the one on the LEFT sings to the camera again with a wide grin.
+9-11.7 s: the one on the RIGHT sings the last line to the camera and smiles.
+The joined hands stay in the middle of the frame, close to the camera.
+
+Exactly two people, both adults: one head each, five fingers on each hand, the joined hands stay joined. Passers-by far behind stay small and blurred. No captions, no added text, no flags, no emblems on the towers, no logos, no watermark.
+```
+
+### 2. 1. The video prompt is filled in. Settings: Seedance 2.5, 12 s, 720p, 9:16, sound off. The video prompt
+
+*Kind: video_prompt*
+
+```text
+Recreate the reference video [Video 1] shot for shot: the same night on a wide cobbled square, warm street lamps, red-brick buildings with towers and a white gate with two green spires, the same handheld phone shot from the thighs up, the same timing, head turns, mouth moves and facial expressions. Two people change and everything else stays: the slim young man on the right is now the person in [Image 1], the huge bald warrior on the left is now the person in [Image 2], both in new outfits.
+
+[Image 1] replaces the slim young man on the RIGHT, in EVERY shot: copy the exact face from [Image 1] (the face shape, eye color and eye shape, eyebrows, nose, mouth, skin tone, age, hair color, hair length and hairstyle, and any beard, moustache, glasses or freckles). NO wavy blond hair unless [Image 1] shows it. The outfit: never the clothes from [Image 1] and never the young man's grey tunic with the zigzag trim. A man wears a knee-length chainmail shirt over a red tunic, a leather belt, a sword on the back and a pointed steel helmet that shows the whole face. A woman wears a long red sarafan over a white full-sleeved blouse and a red headscarf with white polka dots tied under the chin.
+
+[Image 2] replaces the huge bald warrior on the LEFT, in EVERY shot: copy the exact face from [Image 2] (the face shape, eye color and eye shape, eyebrows, nose, mouth, skin tone, age, hair color, hair length and hairstyle, and any beard, moustache, glasses or freckles), with their own body size and hair: NO bald head, NO black topknot, NO drooping mustache, NO bare belly unless [Image 2] shows them. The outfit, never the clothes from [Image 2]: a man wears a dark red tunic with a wide leather belt, dark red baggy trousers and studded leather arm cuffs; a woman wears the same sarafan and polka-dot headscarf.
+
+The same two real people in every frame, so their friends recognize them at once. Never morph, never blend the faces, never drift back to the men in [Video 1]: [Image 1] is only the one on the right, [Image 2] only the one on the left. Both change: no one from [Video 1] stays, also when only the side of a head shows.
+
+Shots (one continuous shot, no cuts):
+0-2 s: the two stand back to back, the big one LEFT, the slim one RIGHT, the outside hands joined and stretched to the camera; both look away.
+2-4.5 s: the one on the LEFT turns the head over the shoulder to the camera and sings with big mouth moves and a cheeky grin.
+4.5-6.5 s: the one on the RIGHT turns over the shoulder to the camera and sings, eyebrows up, mouth wide open.
+6.5-9 s: the one on the LEFT sings to the camera again with a wide grin.
+9-11.7 s: the one on the RIGHT sings the last line to the camera and smiles.
+The joined hands stay in the middle of the frame, close to the camera.
+
+Exactly two people, both adults: one head each, five fingers on each hand, the joined hands stay joined. Passers-by far behind stay small and blurred. No captions, no added text, no flags, no emblems on the towers, no logos, no watermark.
+```
+

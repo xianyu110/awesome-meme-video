@@ -1,0 +1,107 @@
+# Ba Ba Ba Dance AI: Do the Don't You Worry Bout a Thing Duo From Your Photos
+
+- Source: [makeviral](https://www.makeviral.ai/templates/ba-ba-ba-dance-ai-trend)
+- Slug: `ba-ba-ba-dance-ai-trend`
+
+The Ba Ba Ba dance is the viral TikTok duo dance of autumn 2026: two people take turns, one half each, on a remix of "Don't You Worry 'Bout a Thing".
+
+## Demo videos (CDN)
+
+- https://www.makeviral.ai/media/templates/ba-ba-ba-dance-ai-trend/original-main-v2.mp4
+
+## Posters
+
+- https://www.makeviral.ai/media/templates/ba-ba-ba-dance-ai-trend/original-main-v1.jpg
+
+## Prompts
+
+### 1. 1. The video prompt is filled in. Settings: Seedance 2.5, 15 s, 720p, 9:16, sound off. The video prompt
+
+*Kind: video_prompt*
+
+```text
+Recreate the reference video [Video 1] shot for shot: the same empty school hallway with the light green shiny floor, the pale blue lockers and the ceiling lights, the same fixed camera, framing, timing and dance moves, in one continuous shot. The ONLY change: the two dancers. The green pickle-shaped figure who starts on the left and dances the first half is now the person in [Image 1], and the tall wooden figure who grins at the camera and dances the second half is now the person in [Image 2]. Both become real human adults.
+
+Dancer 1 = the person in [Image 1], in EVERY frame: copy the exact face from [Image 1]: face shape, eye color and eye shape, eyebrows, nose, mouth, skin tone, age, hair color, hair length and hairstyle, and any beard, moustache, glasses or freckles exactly as in the photo. A real human head, hands and feet, with normal adult human body proportions. They wear the clothes and shoes from [Image 1]. NO green skin, no bumps, no pickle shape, no cartoon face.
+
+Dancer 2 = the person in [Image 2], in EVERY frame: copy the exact face from [Image 2]: face shape, eye color and eye shape, eyebrows, nose, mouth, skin tone, age, hair color, hair length and hairstyle, and any beard, moustache, glasses or freckles exactly as in the photo. A real human head, hands and feet, with normal adult human body proportions. They wear the clothes and shoes from [Image 2]. NO wood grain or wooden skin, no tall block head, no big round cartoon eyes, no silver chain necklace with letters, no bare feet unless [Image 2] shows them.
+
+The same real people in every frame, from the first second to the last, so their friends instantly recognize them, also when they walk in and out of the frame. Never morph, never drift back to the figures of the video. Do not mix the two faces: [Image 1] is only dancer 1, [Image 2] is only dancer 2. Both change: no figure from the video stays.
+
+The dance, matching the reference second by second, on the beat:
+0-1 s: both stand side by side, dancer 1 on the left, dancer 2 on the right grins at the camera.
+1-2 s: dancer 2 walks out of the frame to the right, dancer 1 points after them.
+2-8 s: dancer 1 dances alone in the middle: arms crossed, knees in, hip sways, a small hop and an arm pump up.
+8-10 s: dancer 2 steps back in from the right, and both dance side by side with fists up.
+10-11 s: dancer 1 steps out of the frame to the left.
+11-15 s: dancer 2 dances alone in the middle: points, arm swings and a hand on the chest.
+
+Anatomy rules: one head per person, on that person's own shoulders. A face never appears on knees, legs, hands or clothes. Exactly two people, never a third. Natural balance, stable ground contact. No dialogue throughout the entire video. No background music. No text, no logos, no watermark.
+```
+
+### 2. 1. The video prompt is filled in. Settings: Seedance 2.5, 15 s, 720p, 9:16, sound off. The video prompt
+
+*Kind: video_prompt*
+
+```text
+Recreate the reference video [Video 1] shot for shot: the same empty school hallway with the light green shiny floor, the pale blue lockers and the ceiling lights, the same fixed camera, framing, timing and dance moves, in one continuous shot. The ONLY change: both dancers are now the same person, the person in [Image 1], like identical twins. The green pickle-shaped figure who starts on the left and dances the first half is now the person in [Image 1], and the tall wooden figure who grins at the camera and dances the second half is also the person in [Image 1].
+
+Both dancers = the person in [Image 1], in EVERY frame: copy the exact face from [Image 1]: face shape, eye color and eye shape, eyebrows, nose, mouth, skin tone, age, hair color, hair length and hairstyle, and any beard, moustache, glasses or freckles exactly as in the photo. A real human head, hands and feet, with normal adult human body proportions. Both wear the clothes and shoes from [Image 1]. NO green skin, no bumps, no pickle shape, no wood grain, no tall block head, no big round cartoon eyes, no silver chain necklace with letters, no bare feet unless [Image 1] shows them.
+
+The same real person in both places and in every frame, from the first second to the last, so their friends instantly recognize them, also when they walk in and out of the frame. Never morph, never drift back to the figures of the video. No figure from the video stays.
+
+The dance, matching the reference second by second, on the beat:
+0-1 s: both stand side by side, the one on the right grins at the camera.
+1-2 s: the one on the right walks out of the frame to the right, the one on the left points after them.
+2-8 s: the first dancer dances alone in the middle: arms crossed, knees in, hip sways, a small hop and an arm pump up.
+8-10 s: the second dancer steps back in from the right, and both dance side by side with fists up.
+10-11 s: the first dancer steps out of the frame to the left.
+11-15 s: the second dancer dances alone in the middle: points, arm swings and a hand on the chest.
+
+Anatomy rules: one head per person, on that person's own shoulders. A face never appears on knees, legs, hands or clothes. Exactly two copies of the same person, never a third. Natural balance, stable ground contact. No dialogue throughout the entire video. No background music. No text, no logos, no watermark.
+```
+
+### 3. 1. The video prompt is filled in. Settings: Seedance 2.5, 15 s, 720p, 9:16, sound off. The video prompt (Pet)
+
+*Kind: video_prompt*
+
+```text
+Recreate the reference video [Video 1] shot for shot: the same empty school hallway with the light green shiny floor, the pale blue lockers and the ceiling lights, the same fixed camera, framing, timing and dance moves, in one continuous shot. The ONLY change: both dancers are now the pet in [Image 1], two copies of the same pet. The green pickle-shaped figure who starts on the left and dances the first half is now the pet in [Image 1], and the tall wooden figure who dances the second half is also the pet in [Image 1].
+
+Both dancers = the pet in [Image 1], whole body, in every frame: the same species and breed, head shape, muzzle, eyes, ears, fur colors, fur length, markings and body shape as in [Image 1], with the natural body volume and proportions of that animal: never flattened, squashed, stretched or merged with anything, so its owner instantly recognizes it. Each stands upright on its hind legs like a person the whole time. Never drift back to the figures of the video: no green bumpy skin, no wood grain, no human face, no cartoon eyes, no chain necklace. If [Image 1] shows a dog or another animal, that animal dances in both places with the same moves.
+
+The dance, matching the reference second by second, on the beat:
+0-1 s: both stand side by side, the one on the right faces the camera.
+1-2 s: the one on the right walks out of the frame to the right, the one on the left points after it with a front paw.
+2-8 s: the first pet dances alone in the middle: front legs crossed, hip sways, a small hop and a front paw pumped up.
+8-10 s: the second pet steps back in from the right, and both dance side by side, front paws up.
+10-11 s: the first pet steps out of the frame to the left.
+11-15 s: the second pet dances alone in the middle: front paw points and swings, a paw on the chest.
+
+Anatomy rules: one head and one tail per animal. Two hind legs on the floor and two front legs, no extra legs or paws, no human hands. Natural balance, stable ground contact. No dialogue throughout the entire video. No background music. No text, no logos, no watermark, no people, no extra animals.
+```
+
+### 4. 1. The video prompt is filled in. Settings: Seedance 2.5, 15 s, 720p, 9:16, sound off. The video prompt (Pet)
+
+*Kind: video_prompt*
+
+```text
+Recreate the reference video [Video 1] shot for shot: the same empty school hallway with the light green shiny floor, the pale blue lockers and the ceiling lights, the same fixed camera, framing, timing and dance moves, in one continuous shot. The ONLY change: the two dancers. The green pickle-shaped figure who starts on the left and dances the first half is now the pet in [Image 1], and the tall wooden figure who dances the second half is now the pet in [Image 2].
+
+Pet 1 = the pet in [Image 1], whole body, in every frame: the same species and breed, head shape, muzzle, eyes, ears, fur colors, fur length, markings and body shape as in [Image 1], with the natural body volume and proportions of that animal: never flattened, squashed, stretched or merged with anything.
+
+Pet 2 = the pet in [Image 2], whole body, in every frame: the same species and breed, head shape, muzzle, eyes, ears, fur colors, fur length, markings and body shape as in [Image 2], with the natural body volume and proportions of that animal: never flattened, squashed, stretched or merged with anything.
+
+Both stand upright on their hind legs like people the whole time, so their owners instantly recognize them. Do not mix the two pets: [Image 1] is only pet 1, [Image 2] is only pet 2. Never drift back to the figures of the video: no green bumpy skin, no wood grain, no human face, no cartoon eyes, no chain necklace. Both change: no figure from the video stays.
+
+The dance, matching the reference second by second, on the beat:
+0-1 s: both stand side by side, pet 1 on the left, pet 2 on the right faces the camera.
+1-2 s: pet 2 walks out of the frame to the right, pet 1 points after it with a front paw.
+2-8 s: pet 1 dances alone in the middle: front legs crossed, hip sways, a small hop and a front paw pumped up.
+8-10 s: pet 2 steps back in from the right, and both dance side by side, front paws up.
+10-11 s: pet 1 steps out of the frame to the left.
+11-15 s: pet 2 dances alone in the middle: front paw points and swings, a paw on the chest.
+
+Anatomy rules: one head and one tail per animal. Two hind legs on the floor and two front legs, no extra legs or paws, no human hands. Natural balance, stable ground contact. No dialogue throughout the entire video. No background music. No text, no logos, no watermark, no people, no extra animals.
+```
+

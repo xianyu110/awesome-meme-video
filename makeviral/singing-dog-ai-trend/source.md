@@ -3,7 +3,7 @@
 > The singing dog AI trend is a 10-second clip from one pet photo: your dog stands upright in a white bathtub in a towel, holds a hair dryer and a brush, dries its own fur and sings a big, dramatic note with its eyes closed.
 
 Canonical: https://www.makeviral.ai/templates/singing-dog-ai-trend
-Updated: 2026-10-17
+Updated: 2026-10-29
 Published: 2026-10-17
 Author: MakeViral Team (https://www.makeviral.ai/about)
 Publisher: MakeViral (https://www.makeviral.ai)
@@ -16,7 +16,7 @@ Also called: Singing dog trend, Dog blow-dry trend, Pet singing trend, Singing p
 
 **Make it now:** [Make this video](https://www.makeviral.ai/templates/singing-dog-ai-trend/create). 1 photo · 10 s · 9:16 with sound · 40 credits, charged once · ready in a few minutes · no prompt to write.
 
-Keyword: singing dog. Also answers: dog with hair dryer, dog singing, dog in towel, cat singing meme, dog singing meme, dog singing video, dog singing opera, cat singing opera, ai dog singing, dog in towel meme, dog singing ai, cat singing in the shower, dog singing tiktok, dog singing app, singing dog app, cat singing ai, make my dog sing, dog singing in the bathroom ai, singing dog ai, pet singing ai, singing cat ai, dog singing in the shower, ai pet singing, pet singing app, make your pet sing, dog singing ai meme, dog blow dryer meme, dog singing in shower, make my dog sing ai, how to make my dog sing, how to make my dog sing ai, make my dog sing app, app to make my dog sing, ai dog singing app, ai pet singing app, make my pet sing, dog singing meme tiktok, dog singing opera tiktok, how to make dog singing video, dog singing filter, dog hair dryer meme, cat singing in shower ai, ai cat singing in the shower, ai cat singing video, cat singing filter, animal singing ai, singing animal ai, dog blow dry ai, dog blow dry ai trend, dog singing trend, singing pets capcut template, pet singing capcut template, ai dog singing capcut, dog shower concert, shower concert dog, dog singing in bathroom, ai app to make my dog sing, ai pet singing video, dog singing opera meme, dog singing ai video, how to make dog singing ai video, make my dog photo sing, make a picture of my dog sing, singing dog ai meme, dog hair dryer singing, dog singing hair dryer, dog in a towel singing, singing cat trend, pet singing filter, ai pet singing filter, singing dog in bathtub, dog singing in bathtub.
+Keyword: singing dog. Also answers: dog with hair dryer, dog singing, dog in towel, cat singing meme, dog singing meme, dog singing video, dog singing opera, cat singing opera, ai dog singing, dog in towel meme, dog singing ai, cat singing in the shower, dog singing tiktok, dog singing app, singing dog app, cat singing ai, make my dog sing, dog singing in the bathroom ai, singing dog ai, pet singing ai, singing cat ai, dog singing in the shower, ai pet singing, pet singing app, make your pet sing, dog singing ai meme, dog blow dryer meme, dog singing in shower, make my dog sing ai, how to make my dog sing, how to make my dog sing ai, make my dog sing app, app to make my dog sing, ai dog singing app, ai pet singing app, make my pet sing, dog singing meme tiktok, dog singing opera tiktok, how to make dog singing video, dog singing filter, dog hair dryer meme, cat singing in shower ai, ai cat singing in the shower, cat singing filter, animal singing ai, singing animal ai, dog blow dry ai, dog blow dry ai trend, dog singing trend, singing pets capcut template, pet singing capcut template, ai dog singing capcut, dog shower concert, shower concert dog, dog singing in bathroom, ai app to make my dog sing, ai pet singing video, dog singing opera meme, dog singing ai video, how to make dog singing ai video, make my dog photo sing, make a picture of my dog sing, singing dog ai meme, dog hair dryer singing, dog singing hair dryer, dog in a towel singing, singing cat trend, pet singing filter, ai pet singing filter, singing dog in bathtub, dog singing in bathtub.
 
 ## What is the Singing Dog trend, and where did it start?
 
@@ -104,6 +104,31 @@ The pet keeps its own look from the first image in every frame, with the natural
 
 One-tap version of this variant: https://www.makeviral.ai/templates/singing-dog-ai-trend/create?variant=pet-cat
 
+#### Variant: Human
+
+Settings: 1 photo (you, chest up, face clear) · Seedance 2.5 · 10 s · 720p · 9:16 · no sound · 152 credits in one tap.
+
+1. The video prompt is filled in. Settings: Seedance 2.5, 10 s, 720p, 9:16, sound off. The video prompt:
+
+   ```text
+   Recreate the reference video [Video 1] shot for shot: the same bathroom with grey tiles and a glass shower, the same white bath towel, the same black hair dryer and black hairbrush, the same warm light, the same fixed phone camera, close framing from the chest up, timing, head moves, arm moves and facial expressions. The ONLY change: the cat that stands upright in the white towel is now the person in [Image 1], a real human.
+
+The singer = the person in [Image 1], in EVERY frame: copy the exact face from [Image 1] (the face shape, eye color and eye shape, eyebrows, nose, mouth, skin tone, age, hair color, hair length and hairstyle, and any beard, moustache, glasses or freckles), so their friends recognize them at once. A grown adult with a HUMAN head and an adult's full-size shoulders, arms and body, filling the frame from the chest up like the cat does: never a cat head, no cat ears, no fur, no whiskers, no paws, no tail. The white bath towel is wrapped around the body and tucked in under the arms, like just after a shower; the shoulders and arms are bare. The hair keeps the color, length and style of [Image 1], freshly washed, a little damp, and it moves in the warm air. The same real person in every frame, from the first second to the last, also with the eyes closed and the mouth wide open on the long notes. Never morph, never drift back to the cat of the original video. If [Image 1] shows an animal, the singer is that animal standing upright, with its own face, fur and markings and the natural body volume and proportions of that animal.
+
+A shower superstar: the singer stands in the bathroom, dries and brushes their own hair and sings like a big opera star. Matching the reference second by second:
+1. 0-0.5 s: they squint in the warm air of the hair dryer, mouth half open.
+2. 0.5-6 s: eyes closed, mouth wide open on a big note, the brush in one hand on top of the head, the hair dryer in the other hand blowing on the hair.
+3. 6-7 s: they open their eyes for a moment and lift the brush away.
+4. 7-10 s: they face the camera, spread both arms wide, lift the head toward the ceiling and hold the last long note, the hair dryer still in one hand.
+The mouth opens and closes exactly when the cat's mouth in [Video 1] does, like real opera singing.
+
+Anatomy rules: one head only, on the singer's shoulders; two human arms and two hands with five fingers each. No extra people, no extra animals. No text, no logos, no watermark.
+   ```
+
+2. Press Generate, then download the 9:16 MP4.
+
+One-tap version of this variant: https://www.makeviral.ai/templates/singing-dog-ai-trend/create?variant=human
+
 ### Which photo works best?
 
 Upload **one photo of your pet**: your dog in the Dog version, your cat in the Cat version (any pet works in either).
@@ -145,6 +170,8 @@ The result comes with the trend's own sound, so your singing dog sings the same 
 - **Standard** edits the clip with your pet and is ready in a few minutes.
 - **Best** uses the model we use for most pet reel copies. It costs more and takes 5 to 15 minutes. Pick it when Standard brings the clip's grey dog or orange cat back, or gets your pet's markings wrong.
 
+**Human** puts you in the cat clip instead of a pet: you stand in the towel, blow-dry and brush your hair and sing the big note yourself, with the same sound. It has one quality and takes 5 to 15 minutes.
+
 The Generate button shows the exact credit price before you spend anything.
 
 ## What goes wrong, and how do you fix it?
@@ -182,6 +209,10 @@ MakeViral works in your browser on the phone or the computer, so you need no app
 
 Yes. The Cat version copies a cat clip of the same trend: your cat stands in a towel, blow-dries its fur and sings. Singing cat AI clips, like the cat singing in the shower memes, are a big part of the trend, and cat singing opera clips are a classic. You get an AI cat singing video with the trend's sound. Any pet works in either version.
 
+### Can I be the singer myself?
+
+Yes. Pick the Human version and upload one sharp, front-facing photo of your face. You take the cat's place in the cat clip of the trend: you stand in the bathroom in a white towel, blow-dry and brush your hair, sing the big note with your eyes closed and spread your arms for the last one, with the trend's sound. It is 10 seconds and vertical, like the pet versions.
+
 ### What song does the dog sing?
 
 Every post of the trend uses the same sound: a big, operatic singing voice that came with the template. Your result gets that sound back after the run, so your dog sings the trend's song like every dog singing opera TikTok of the trend. You can turn the sound off on the result screen.
@@ -213,10 +244,20 @@ Standard takes a few minutes and Best 5 to 15 minutes. The Generate button shows
 ## Other AI video templates and tools
 
 - [Whining Dog Meme: Make Your Dog Whine Like the Viral Doberman](https://www.makeviral.ai/templates/whiny-dog-ai-trend): Your dog looks into the camera, tilts its head and whines "hmm hmm hmm" like the viral Doberman, on the sofa from the original clip. One dog photo in, a 7-second clip with the whine sound out.
-- [No Renunciaré AI Trend: Sing the Bolero With a Giant Mustache](https://www.makeviral.ai/templates/no-renunciare-ai-trend): A vintage chrome microphone, three stages, one very serious love song. Add one photo of yourself or your pet and get a 15-second bolero clip, giant curled mustache included for the men.
+- [Mabel Matiz Umrumdışı AI Trend: You, Your Pet or Any Character Sings at the Piano](https://www.makeviral.ai/templates/mabel-matiz-umrumdisi): One singer stands at the keyboard and sings to the ceiling while a pianist in a wristwatch plays along, in a music classroom full of guitars. Add you, a friend, a pet, a toy or a character, and get the 14-second clip with the song.
 - [I Wanna Love You Cat Trend: Your Pet Sings the Viral AI Selfie](https://www.makeviral.ai/templates/i-wanna-love-you-ai-pet): A night selfie by the tennis courts, a paw thrown in the air, then a fall back onto the grass with the legs up the wall, singing the whole time. Add one photo of your cat or dog and get the clip with the song.
+- [It's My Life Dog AI: Your Dog Sings in the Car](https://www.makeviral.ai/templates/its-my-life-dog-ai): The road rolls by on top, your dog sits buckled in below and belts out "It's My Life", stops dead, puts on sunglasses and sings on. Add one photo of your dog, your cat or yourself.
 - [AI photo generator](https://www.makeviral.ai/ai-photo-generator)
 - [All AI video templates](https://www.makeviral.ai/templates)
+
+## New AI video trends this week
+
+- [Christmas Dance AI: Do the New TikTok Christmas Dance From Your Photos](https://www.makeviral.ai/templates/christmas-dance-ai-trend): Hip sways with the hands at the collar, rolling arms, a quick spin and raised fists, side by side in matching Christmas pajamas. Add two photos for the duo, one for a solo take, or two pets, and get the dance with the sound.
+- [Cat on Ultra Bee AI: Put Your Pet on the Wheelie](https://www.makeviral.ai/templates/cat-on-ultra-bee-ai-trend): Add one photo, and your cat or dog stands on an electric dirt bike and holds a long wheelie down a city road at golden hour, in the same shots as the viral clip, with its original sound. You can take the ride yourself, too.
+- [Tus Ojos Me Reflejan el Sentimiento: The Cafuné Eye Close-Up Trend](https://www.makeviral.ai/templates/tus-ojos-me-reflejan-ai-trend): You lie on your side, a hand rests on your cheek, warm light falls on your face, and the camera slowly moves in until your eyes fill the screen while the line plays. One photo in, an 8-second vertical clip with the trend's song out.
+- [İnşallah Maşallah AI Trend: Sing Neşe Karaböcek's Song on the Couch](https://www.makeviral.ai/templates/insallah-masallah-ai-trend): You sit on a light grey couch and sing the old Turkish love song straight to the camera: a hand on the heart, a big laugh with both hands on your head, a finger pointed at the camera and a kiss at the end. One photo of you, a grandparent or your pet, and the 15-second clip comes with the song.
+- [Ice Ice Baby Dance AI: Do the Viral Duo Dance With a Friend](https://www.makeviral.ai/templates/ice-ice-baby-dance-ai): Two dancers side by side, the same bouncy 90s steps, a spin on the beat and a strut to the camera. Add a photo of you and a friend, of you alone, or of your pet, and get the dance with the sound.
+- [Save Yourself Trend: Pull Yourself Up From the Cliff](https://www.makeviral.ai/templates/save-yourself-ai-trend): One photo plays both of you: the scared you clinging to a wet sea cliff, and the calm you who reaches down, pulls you up and holds you. Or use two photos: an older photo of you and a new one, or you and a friend. 15 seconds, vertical.
 
 ## Make your own Singing Dog video
 

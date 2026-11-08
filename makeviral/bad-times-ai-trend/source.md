@@ -3,7 +3,7 @@
 > The Bad Times AI trend puts you or your pet in the TikTok routine to "Bad Times" (Imael Angel): you grab your head, put a hand on your hip, hold up stop palms and argue with whoever is filming.
 
 Canonical: https://www.makeviral.ai/templates/bad-times-ai-trend
-Updated: 2026-10-15
+Updated: 2026-10-27
 Published: 2026-10-14
 Author: MakeViral Team (https://www.makeviral.ai/about)
 Publisher: MakeViral (https://www.makeviral.ai)
@@ -16,7 +16,7 @@ Also called: Bad Times dance, Imael Angel Bad Times trend, Bad Times dispute tre
 
 **Make it now:** [Make this video](https://www.makeviral.ai/templates/bad-times-ai-trend/create). 1 photo · 10 s · 9:16 with sound · 40 credits, charged once · ready in a few minutes · no prompt to write.
 
-Keyword: bad times ai. Also answers: bad times trend, bad times imael angel, bad times ai trend, bad times dog, bad times song, bad times deep house, is bad times an ai song, old people with ai music, ai music meme, bad times trend ai, bad times ai video, bad times meme, bad times imael angel ai, is the song bad times ai, bad times ismael angel, bad times omael angel, bad times email angel, bad times cat, bad times pet trend, bad times trend tiktok, bad times tiktok song, bad times song tiktok, bad times trend instagram, bad times imael angel trend, bad times imael angel dance, bad times dance video, is bad times ai generated, trend bad times.
+Keyword: bad times ai. Also answers: bad times trend, bad times imael angel, bad times ai trend, bad times dog, bad times song, bad times deep house, is bad times an ai song, old people with ai music, ai music meme, bad times trend ai, angry dance filter, angry dance filter ai, angry dance trend, angry dance ai, angry dance template, angry dance filter tiktok, bad times ai video, bad times meme, bad times imael angel ai, is the song bad times ai, bad times ismael angel, bad times omael angel, bad times email angel, bad times cat, bad times pet trend, bad times trend tiktok, bad times tiktok song, bad times song tiktok, bad times trend instagram, bad times imael angel trend, bad times imael angel dance, bad times dance video, is bad times ai generated, trend bad times, bad times couple trend, bad times trend couple, bad times ai couple.
 
 ## What is the Bad Times Trend trend, and where did it start?
 
@@ -35,11 +35,17 @@ On 9 September @bouuhyachaka posted a second take in her kitchen, one fixed shot
 
 ## What the Bad Times Trend video looks like
 
-Made from the prompts on this page. The people and pets are AI-made, not real persons, and the sound is original. Your result will differ from run to run.
+These are the original reels: an AI-made dog for Pet, the creator's own kitchen take for Angry Dance and a real couple's own take for Couple. Your photos replace their characters, so your video follows the same shots with your faces. No two runs come out the same.
 
 - **Example 1** (15 s, 9:16 MP4 with sound): The original reel by @tillandsialover: an AI-made dog stands up in a bright kitchen, does the whole routine with its paws, then walks up to the camera and argues in a close-up. Pet copies this reel.
   - Video: https://www.makeviral.ai/media/templates/bad-times-ai-trend/original-pet-v2.mp4
   - Poster: https://www.makeviral.ai/media/templates/bad-times-ai-trend/original-pet-v1.jpg
+- **Example 2** (15 s, 9:16 MP4 with sound): The original kitchen take by @bouuhyachaka: in this part of her Bad Times reel she walks up to the camera, taps a finger on her palm, pushes a flat hand at the lens, shouts, flicks a hand, turns away and comes back for one last shout. The Angry Dance filter, an AI template on TikTok since 22 October 2026, copies this part of the trend, and so does Angry Dance.
+  - Video: https://www.makeviral.ai/media/templates/bad-times-ai-trend/original-angry-v2.mp4
+  - Poster: https://www.makeviral.ai/media/templates/bad-times-ai-trend/original-angry-v1.jpg
+- **Example 3** (15 s, 9:16 MP4 with sound): The original couple reel by @miledandmelissa: she argues at the camera and pulls faces, he stares, leans in and hugs her from behind, and they both burst out laughing. Couple copies this reel.
+  - Video: https://www.makeviral.ai/media/templates/bad-times-ai-trend/original-couple-v2.mp4
+  - Poster: https://www.makeviral.ai/media/templates/bad-times-ai-trend/original-couple-v1.jpg
 
 ## How to make the Bad Times Trend video on MakeViral
 
@@ -71,6 +77,70 @@ The person keeps natural human anatomy: two arms and two hands with five fingers
 
 One-tap version of this variant: https://www.makeviral.ai/templates/bad-times-ai-trend/create
 
+#### Variant: Angry Dance
+
+Settings: 1 photo (you, face clear) · Seedance 2.5 · 15 s · 720p · 9:16 · no sound · 228 credits in one tap.
+
+1. The video prompt is filled in. Settings: Seedance 2.5, 15 s, 720p, 9:16, sound off. The video prompt:
+
+   ```text
+   Recreate the reference video [Video 1] shot for shot: the same white and gray kitchen with the bare bulb hanging from the ceiling, the black wire pendant lamps, the white cabinets and the white chairs, the same daylight, the same fixed phone camera at chest height, the same framing, timing and moves, one continuous take with no cuts. The ONLY change: the woman with curly hair in a bun, the gray crop top and the black leggings who argues with the camera is now the person in [Image 1].
+
+[Image 1] replaces the woman in EVERY frame, also in the close-ups at the lens: copy the exact face from [Image 1] (the face shape, eye color and eye shape, eyebrows, nose, mouth, skin tone, age, hair color, hair length and hairstyle, and any beard, moustache, glasses or freckles). They wear the clothes from [Image 1]. The same real person from the first second to the last, so their friends recognize them at once. Never morph, never drift back to the original woman's face. NO curly hair bun, no gray crop top, no black leggings, no gold bracelets, no earrings and no tattoos unless [Image 1] shows them.
+
+The person reproduces the woman's full performance frame by frame with the same timing: every body movement, head turn, arm gesture, and above all her exaggerated facial acting, wide eyes, frowns, raised brows and mouth shapes, as if arguing with the camera. A funny, exaggerated angry dance performance with energetic body movements, dramatic facial expressions, rhythmic gestures. Matching the reference second by second:
+0-0.5 s: standing in the kitchen, full body in view, a frown.
+0.5-1 s: a thumbs-up and a quick step toward the camera.
+1-4 s: leaning in close to the lens, waist up: one index finger taps again and again on the open palm of the other hand, lecturing the camera.
+4-5 s: a flat open hand pushed right at the lens.
+5-7 s: one finger raised to the lips and the chin, a hard stare.
+7-8.5 s: a loud shout and a dismissive flick of the hand.
+8.5-10 s: a step back and a wave of the hand in front of the face.
+10-12 s: standing back, arms down, a long cold stare.
+12-13 s: a turn away to the side with a hand on the hip, then back.
+13-14 s: a fist on the chest, then a hand pushed at the lens.
+14-15 s: a big close-up with wide eyes, then both arms thrown out in a last shout.
+
+The person keeps natural human anatomy: one head, two arms and two hands with five fingers each, even when they point or push a hand toward the lens. Exactly one person, no extra people. No text, no captions or labels on screen, no logos, no watermark.
+   ```
+
+2. Press Generate, then download the 9:16 MP4.
+
+One-tap version of this variant: https://www.makeviral.ai/templates/bad-times-ai-trend/create?variant=angry
+
+#### Variant: Couple
+
+Settings: 2 photos (you (18+), face clear + your partner (18+), face clear) · Seedance 2.5 · 15 s · 720p · 9:16 · no sound · 228 credits in one tap.
+
+1. The video prompt is filled in. Settings: Seedance 2.5, 15 s, 720p, 9:16, sound off. The video prompt:
+
+   ```text
+   Recreate the reference video [Video 1] shot for shot: the same room with the dark blue wall and the wall shelf with plants, the same warm light, the same fixed phone camera at chest height, the same framing, timing, moves and cuts. The ONLY change: the woman in front who argues with the camera is now the person in [Image 1], and the man behind her right shoulder is now the person in [Image 2].
+
+Use [Image 1] as adult Person A, in front on the left, and [Image 2] as adult Person B, just behind on the right. Keep each person's face, hairstyle, outfit and body proportions consistent; do not swap roles or merge identities.
+
+Person A: [Image 1] replaces the woman with long straight dark hair in the gray sleeveless top, in EVERY shot, also in the side close-up and in the hug: copy the exact face from [Image 1] (the face shape, eye color and eye shape, eyebrows, nose, mouth, skin tone, age, hair color, hair length and hairstyle, and any beard, moustache, glasses or freckles). They wear the clothes from [Image 1]. NO big colorful beaded earrings, no gray sleeveless top and no long straight dark hair unless [Image 1] shows them.
+
+Person B: [Image 2] replaces the man with short gray hair and a short beard in the cream T-shirt, in EVERY shot, also in the hug: copy the exact face from [Image 2] (the face shape, eye color and eye shape, eyebrows, nose, mouth, skin tone, age, hair color, hair length and hairstyle, and any beard, moustache, glasses or freckles). They wear the clothes from [Image 2]. NO cream T-shirt, no gray hair and no beard unless [Image 2] shows them.
+
+Both change: no one from the video stays, also when a face turns away or only the side of a head shows. The same real people from the first second to the last, so their friends recognize them at once. Never morph, never swap the two faces, never drift back to the original couple's faces.
+
+Person A reproduces the woman's full performance frame by frame with the same timing: every body movement, head turn, arm gesture, and above all her exaggerated facial acting, wide eyes, frowns, raised brows and mouth shapes, as if arguing with the camera. Person B copies the man's reactions. The beats, second by second:
+0-4.5 s: Person A argues at the camera with fast hand moves and pointing fingers; Person B stands behind and stares.
+4.5-6 s: Person A turns to Person B and back, ranting with both hands.
+6-7 s: Person A pulls faces at the camera: a finger on the nose, the tongue out.
+7.2-8 s: a short side close-up of Person A's face: the SAME face from [Image 1], never the woman of the video.
+8-10 s: back to the two: Person B leans in nose to nose with Person A, both stare.
+10-11 s: Person B wraps both arms around Person A from behind and pulls them close.
+11-15 s: both laugh at the camera in the hug; Person A points at the camera.
+
+One head on each person, five fingers on each hand, no extra limbs. Exactly two people. No text, no captions, no logos, no watermark.
+   ```
+
+2. Press Generate, then download the 9:16 MP4.
+
+One-tap version of this variant: https://www.makeviral.ai/templates/bad-times-ai-trend/create?variant=couple
+
 #### Variant: Pet
 
 Settings: 1 photo (your pet) · Seedance 2.5 · 15 s · 720p · 9:16 · no sound · 228 credits in one tap.
@@ -99,10 +169,11 @@ One-tap version of this variant: https://www.makeviral.ai/templates/bad-times-ai
 
 ### Which photo works best?
 
-You need **one photo**: of yourself for Human, of your pet for Pet.
+You need **one photo**: of yourself for Human, of your pet for Pet. Couple takes two.
 
 - **Human:** stand up, with at least your head to your knees in view, the face turned to the camera and your arms away from your body. The video keeps the place and the frame of your photo, so a vertical photo in a tidy room or kitchen looks best.
 - Wear what you want to argue in: your clothes stay. No sunglasses, no hat that hides the face, no beauty filter, and nobody else in the photo.
+- **Couple:** two photos, one adult in each, faces sharp and turned to the camera: photo 1 is the one who argues in front, photo 2 the partner who stands behind and ends with the hug. Two separate selfies are fine; waist-up photos work best, because the clip is a close shot of the two of you.
 - **Pet:** a sharp photo with the whole animal in view and the face clear. Fur colors and markings come from the photo. A dog looks closest to the reel; a cat stands upright for the same moves.
 - Use a photo of yourself, of an adult who agreed, or of your own pet. Never a celebrity or a stranger.
 
@@ -130,9 +201,11 @@ Both versions follow the same routine. The camera stays still, and the clip is o
 
 **Human:** Kling 3.0 Motion Control copies the body moves and the face acting of the trend's original routine, not the person in it. You keep your own face, hair and clothes, and the clip plays in the place from your photo, at 720p in your photo's frame. It ends before the walk up to the camera.
 
-**Pet:** Seedance 2.5 puts your pet into the viral AI dog reel itself: the same kitchen, the same moves, the walk up to the lens and the close-up, vertical 9:16 at 720p. It can take up to several minutes. For a lower price, pick Standard: Kling 3.0 Omni puts your pet into the first 10 seconds of the reel, the kitchen routine without the walk up and the close-up.
+**Pet:** Seedance 2.5 puts your pet into the viral AI dog reel itself: the same kitchen, the same moves, the walk up to the lens and the close-up, vertical 9:16 at 720p. It can take up to several minutes. For a lower price, pick Standard: Kling 3.0 Omni puts your pet into the last 10 seconds of the reel, the end of the routine, the walk up to the camera and the close-up.
 
-Both come with the trend's song, put back on after the run. Press "Create your own" and pick Human or Pet; the exact price shows on the Generate button before you spend anything. Every run is a new take, so results differ.
+**Couple:** two photos, 15 seconds, a different take of the routine. Your two faces go into the most viewed couple version of the trend: in a cozy room with a dark blue wall, photo 1 argues at the camera with wild hand moves and pulls faces, photo 2 stands behind and stares, leans in nose to nose, then hugs from behind, and you both end up laughing at the camera.
+
+All three come with the trend's song, put back on after the run. Press "Create your own" and pick Human, Couple or Pet; the exact price shows on the Generate button before you spend anything. Every run is a new take, so results differ.
 
 ## Who should do the Bad Times trend?
 
@@ -188,6 +261,10 @@ Press "Create your own", pick Human or Pet, and add one clear photo of yourself 
 
 Yes. Pick Pet. It copies the viral Bad Times dog, the AI reel by @tillandsialover: your pet stands up in a bright kitchen, does the routine with its paws, then walks up to the camera for a close-up. Any pet can take the part. A dog looks closest to the reel, and a cat stands upright for the same moves. Use a sharp photo with the whole animal in view.
 
+### Can I do the Bad Times trend with my partner?
+
+Yes. Pick Couple and add two photos: yours first, then your partner's, both adults who agreed. It copies the couple take of the Bad Times trend: couples started posting it in late August 2026, and @miledandmelissa's version of 31 August had 20.2 million views by 24 October. You argue at the camera and pull faces while your partner stands behind you and stares, then leans in, hugs you from behind and you both burst out laughing. The Bad Times couple trend AI video is 15 seconds at 720p, with the song. Adult friends, flatmates or siblings work too.
+
 ### Where does the background of my video come from?
 
 Human keeps the place from your photo: Kling 3.0 Motion Control takes only the moves, so your own kitchen, living room or street stays. Pet keeps the kitchen of the AI dog reel, because your pet goes into that reel itself.
@@ -206,7 +283,7 @@ Not exactly. Both versions copy the face acting of the clip, so you or your pet 
 
 ### Which AI models make the videos?
 
-Human uses Kling 3.0 Motion Control: it copies the moves and the face acting of the trend's routine onto the person in your photo, at 720p in your photo's frame. Pet uses Seedance 2.5: it puts your pet into the AI dog reel itself, vertical at 720p, and can take up to several minutes. Pet's cheaper Standard option uses Kling 3.0 Omni on the first 10 seconds of the reel.
+Human uses Kling 3.0 Motion Control: it copies the moves and the face acting of the trend's routine onto the person in your photo, at 720p in your photo's frame. Pet uses Seedance 2.5: it puts your pet into the AI dog reel itself, vertical at 720p, and can take up to several minutes. Pet's cheaper Standard option uses Kling 3.0 Omni on the last 10 seconds of the reel, with the close-up.
 
 ### What prompt does the Bad Times trend use?
 
@@ -229,6 +306,15 @@ Human makes about 10 seconds at 720p in the frame of your photo, so a vertical p
 - [AI Reels](https://www.makeviral.ai/tools/ai-reels-generator): Pick a format, give it a topic or a product link, and get a finished vertical reel with voice and captions. Nothing to film, nothing to edit.
 - [AI photo generator](https://www.makeviral.ai/ai-photo-generator)
 - [All AI video templates](https://www.makeviral.ai/templates)
+
+## New AI video trends this week
+
+- [Christmas Dance AI: Do the New TikTok Christmas Dance From Your Photos](https://www.makeviral.ai/templates/christmas-dance-ai-trend): Hip sways with the hands at the collar, rolling arms, a quick spin and raised fists, side by side in matching Christmas pajamas. Add two photos for the duo, one for a solo take, or two pets, and get the dance with the sound.
+- [Cat on Ultra Bee AI: Put Your Pet on the Wheelie](https://www.makeviral.ai/templates/cat-on-ultra-bee-ai-trend): Add one photo, and your cat or dog stands on an electric dirt bike and holds a long wheelie down a city road at golden hour, in the same shots as the viral clip, with its original sound. You can take the ride yourself, too.
+- [Tus Ojos Me Reflejan el Sentimiento: The Cafuné Eye Close-Up Trend](https://www.makeviral.ai/templates/tus-ojos-me-reflejan-ai-trend): You lie on your side, a hand rests on your cheek, warm light falls on your face, and the camera slowly moves in until your eyes fill the screen while the line plays. One photo in, an 8-second vertical clip with the trend's song out.
+- [İnşallah Maşallah AI Trend: Sing Neşe Karaböcek's Song on the Couch](https://www.makeviral.ai/templates/insallah-masallah-ai-trend): You sit on a light grey couch and sing the old Turkish love song straight to the camera: a hand on the heart, a big laugh with both hands on your head, a finger pointed at the camera and a kiss at the end. One photo of you, a grandparent or your pet, and the 15-second clip comes with the song.
+- [Ice Ice Baby Dance AI: Do the Viral Duo Dance With a Friend](https://www.makeviral.ai/templates/ice-ice-baby-dance-ai): Two dancers side by side, the same bouncy 90s steps, a spin on the beat and a strut to the camera. Add a photo of you and a friend, of you alone, or of your pet, and get the dance with the sound.
+- [Save Yourself Trend: Pull Yourself Up From the Cliff](https://www.makeviral.ai/templates/save-yourself-ai-trend): One photo plays both of you: the scared you clinging to a wet sea cliff, and the calm you who reaches down, pulls you up and holds you. Or use two photos: an older photo of you and a new one, or you and a friend. 15 seconds, vertical.
 
 ## Make your own Bad Times Trend video
 

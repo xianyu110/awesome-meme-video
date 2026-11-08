@@ -1,0 +1,39 @@
+{
+  "source": "makeviral",
+  "source_site": "https://www.makeviral.ai",
+  "slug": "ai-car-edit",
+  "name": "AI Car Edit: Your Car in a Cinematic Night Edit, From One Photo",
+  "url": "https://www.makeviral.ai/templates/ai-car-edit",
+  "markdown_url": "https://www.makeviral.ai/templates/ai-car-edit.md",
+  "blurb": "An AI car edit is a cinematic car edit made from photos instead of a film shoot: speed ramps, low camera passes and wheel close-ups, cut to a beat.",
+  "updated": "2026-11-04",
+  "published": "2026-11-04",
+  "credits": 228,
+  "demo_videos": [
+    "https://www.makeviral.ai/media/templates/ai-car-edit/original-night-v2.mp4"
+  ],
+  "posters": [
+    "https://www.makeviral.ai/media/templates/ai-car-edit/original-night-v1.jpg"
+  ],
+  "prompts": [
+    {
+      "label": "1. The video prompt is filled in. Settings: Seedance 2.5, 15 s, 720p, 9:16, sound off. The video prompt",
+      "variant": null,
+      "kind": "video_prompt",
+      "text": "Recreate the reference video [Video 1] shot for shot: a cinematic night car edit in an empty parking lot under tall street lights, filmed with a low gimbal camera and a wide lens, with the same speed ramps, whip moves, close-ups, cuts, motion blur and timing. The ONLY change: the sports car in [Video 1] is now the car in [Image 1]. The parking lot, the street lights, the night sky, the building in the back, the cuts and the camera moves stay exactly as in [Video 1].\n\nThe car = the car in [Image 1], in EVERY shot, also in the close-ups of the wheels, the hood and the back: the same body shape, proportions, paint color and finish, wheels, rims, windows, lights and any spoiler as in [Image 1], whatever kind of car it is (a sedan, a hatchback, an SUV, a pickup or a sports car), so its owner knows it at once. Never the car from [Video 1]: NO sparkle or crystal wrap, NO turquoise and pink stripes, NO star-shaped silver rims and NO big rear wing unless [Image 1] shows them. Take only the car from [Image 1], not its background, its people or its light: it stands in the night parking lot with its own headlights and tail lights on. No badges, emblems or lettering on the car, and no readable number plate.\n\nThe shots, matching the reference second by second:\n0-1 s: the car stands far away in the parking lot, front three-quarter view; the camera rushes toward it low over the asphalt.\n1-2.3 s: a speed ramp into the front: the headlights, a tight close-up of the hood paint, then the whole front again.\n2.3-3.2 s: the camera pulls back to a low front view of the whole car.\n3.2-4.2 s: a fast whip to a low close-up of a rear corner and the glowing tail lights.\n4.2-5.5 s: a wide-lens pass close along the side: the front wheel, then the side profile.\n5.5-7.5 s: the camera spins fast around the car (front, low front, from above, the back) with motion blur.\n7.5-8.4 s: the back of the car from low, the tail lights glowing.\n8.4-9.9 s: extreme close-ups of the turning front wheel and rim, then the side.\n9.9-12.1 s: hard cut, a slow close-up glide low along the hood paint.\n12.1-13.8 s: hard cut, a low rear view with the tail lights; the camera pushes in.\n13.8-14.8 s: a wide front three-quarter view of the whole car standing in the lit parking lot.\n\nExactly one car; no people, no hands, no other cars close by. No dialogue throughout the entire video. No background music. No badges, emblems, brand names or lettering on the car, no readable number plate, no text, no captions, no logos, no watermark."
+    }
+  ],
+  "variant_headings": [
+    "What the AI Car Edit video looks like",
+    "How to make the AI Car Edit video on MakeViral",
+    "Which photo works best?",
+    "Which AI model makes the video?",
+    "Can I or my pet be in the car edit?",
+    "How long is the video, and does it have sound?",
+    "Other AI video templates and tools",
+    "New AI video trends this week",
+    "Make your own AI Car Edit video"
+  ],
+  "prompt_count": 1,
+  "scraped_at": "2026-11-08"
+}

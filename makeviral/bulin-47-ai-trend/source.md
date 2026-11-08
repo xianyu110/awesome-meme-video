@@ -245,13 +245,22 @@ Outside a restaurant in Spain, according to Listín Diario and El Nuevo Diario. 
 
 ## Other AI video templates and tools
 
-- [Bulin 47 Dance AI: Do the Dame Hombro Dance From One Photo](https://www.makeviral.ai/templates/bulin-47-dance-ai-trend): The side-on groove, the shoulder shimmies, the arms out wide and the heart at the chest, all on the Dame Hombro beat. Dance it alone in your own photo's place or with two friends in the AI crew line, with the song on. A baby photo works too.
+- [Bulin 47 Dance AI: Do the Dame Hombro Dance From One Photo](https://www.makeviral.ai/templates/bulin-47-dance-ai-trend): The side-on groove, the shoulder shimmies, the arms out wide and the heart at the chest, all on the Dame Hombro beat. Dance it alone in your own photo's place, with two friends in the AI crew line, or let your dog or cat dance it like the viral AI dog, with the song on. A baby photo works too.
 - [Hotel Lobby AI: Make the Hotel Lobby Trend Video](https://www.makeviral.ai/templates/ai-hotel-lobby-trend): You and a friend, or your two pets, trade a rap into one hanging mic in a bright orange booth. Step into the real clip or the viral cat version with the original song, or get a new 10-second version with an original beat.
 - [Burning Bridges AI Trend: Put Yourself in the "Where She At?" Party](https://www.makeviral.ai/templates/burning-bridges-ai-trend): Take the lead at a packed party under crystal chandeliers: a silver cup in your hand, rapping to the camera, then one hand over your eyes as you scan the room for her. One photo, 15 seconds, with the song.
 - [AI TikTok Video](https://www.makeviral.ai/tools/ai-tiktok-video-generator): Eight native TikTok formats, one prompt or product URL, a finished 9:16 video with captions burned in.
 - [Meme Video](https://www.makeviral.ai/tools/meme-video-generator): One line of text, one image, six seconds. The cheapest format to produce and the easiest one to test ten different ways in an afternoon.
 - [AI photo generator](https://www.makeviral.ai/ai-photo-generator)
 - [All AI video templates](https://www.makeviral.ai/templates)
+
+## New AI video trends this week
+
+- [Christmas Dance AI: Do the New TikTok Christmas Dance From Your Photos](https://www.makeviral.ai/templates/christmas-dance-ai-trend): Hip sways with the hands at the collar, rolling arms, a quick spin and raised fists, side by side in matching Christmas pajamas. Add two photos for the duo, one for a solo take, or two pets, and get the dance with the sound.
+- [Cat on Ultra Bee AI: Put Your Pet on the Wheelie](https://www.makeviral.ai/templates/cat-on-ultra-bee-ai-trend): Add one photo, and your cat or dog stands on an electric dirt bike and holds a long wheelie down a city road at golden hour, in the same shots as the viral clip, with its original sound. You can take the ride yourself, too.
+- [Tus Ojos Me Reflejan el Sentimiento: The Cafuné Eye Close-Up Trend](https://www.makeviral.ai/templates/tus-ojos-me-reflejan-ai-trend): You lie on your side, a hand rests on your cheek, warm light falls on your face, and the camera slowly moves in until your eyes fill the screen while the line plays. One photo in, an 8-second vertical clip with the trend's song out.
+- [İnşallah Maşallah AI Trend: Sing Neşe Karaböcek's Song on the Couch](https://www.makeviral.ai/templates/insallah-masallah-ai-trend): You sit on a light grey couch and sing the old Turkish love song straight to the camera: a hand on the heart, a big laugh with both hands on your head, a finger pointed at the camera and a kiss at the end. One photo of you, a grandparent or your pet, and the 15-second clip comes with the song.
+- [Ice Ice Baby Dance AI: Do the Viral Duo Dance With a Friend](https://www.makeviral.ai/templates/ice-ice-baby-dance-ai): Two dancers side by side, the same bouncy 90s steps, a spin on the beat and a strut to the camera. Add a photo of you and a friend, of you alone, or of your pet, and get the dance with the sound.
+- [Save Yourself Trend: Pull Yourself Up From the Cliff](https://www.makeviral.ai/templates/save-yourself-ai-trend): One photo plays both of you: the scared you clinging to a wet sea cliff, and the calm you who reaches down, pulls you up and holds you. Or use two photos: an older photo of you and a new one, or you and a friend. 15 seconds, vertical.
 
 ## Make your own Bulin 47 Freestyle video
 

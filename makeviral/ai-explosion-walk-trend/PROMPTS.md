@@ -7,10 +7,12 @@ The explosion walk trend is the old action movie shot made personal: you walk ca
 
 ## Demo videos (CDN)
 
+- https://www.makeviral.ai/media/templates/ai-explosion-walk-trend/original-gangster-v2.mp4
 - https://www.makeviral.ai/media/templates/ai-explosion-walk-trend/original-main-v2.mp4
 
 ## Posters
 
+- https://www.makeviral.ai/media/templates/ai-explosion-walk-trend/original-gangster-v1.jpg
 - https://www.makeviral.ai/media/templates/ai-explosion-walk-trend/original-main-v1.jpg
 
 ## Prompts
@@ -48,5 +50,22 @@ A slow-motion cinematic video of a confident person, the person in [Image 1], we
 The walker is the person in [Image 1], in every frame: copy the exact face from [Image 1] (the face shape, eyebrows, nose, mouth, jaw, skin tone, age, hair color, hair length and hairstyle, and any beard or moustache), so their friends recognize them at once. The sunglasses are dark, and everything else of the face comes from [Image 1]. The same real person from the first frame to the last; never morph. If [Image 1] shows an animal, the walker is that animal walking toward the camera, with its own face, fur and markings, not a person.
 
 The walk ends close to the camera, from the knees up, the face large and sharp: exactly the face from [Image 1]. The explosion stays far behind them: nobody is burned or hurt, and the walker never looks back. Exactly one person. No cars, no buildings with signs, no text, no subtitles, no logos, no watermark, no extra limbs.
+```
+
+### 3. 1. The video prompt is filled in. Settings: Seedance 2.5, 10 s, 720p, 9:16, sound on. The video prompt
+
+*Kind: video_prompt*
+
+```text
+A slow-motion cinematic video of a confident person, the person in [Image 1], dressed as a 1920s Birmingham gangster: a dark grey wool flat cap, a long black wool overcoat over a dark three-piece suit with a buttoned waistcoat, a white shirt with a dark tie, a silver watch chain and black leather gloves, walking forward calmly while a massive explosion erupts behind them. The place: the wide gravel drive in front of a grand red-brick country manor with tall white windows and chimneys, under a grey, overcast sky. Fire, smoke, and debris fill the air as they walk fearlessly through the chaos. The camera moves in a dramatic low-angle shot, with sparks flying and dust swirling around. Epic background music, intense lighting, and realistic visual effects, like an action movie hero scene in 4K ultra-realistic style, in the cold, muted colors of a 1920s period drama.
+
+One continuous take, 10 seconds.
+0-3 s: the walker stands still on the gravel in front of the manor, facing the camera, seen from the knees up, pulls the black leather gloves tight and touches the brim of the flat cap, calm and unsmiling.
+3-4 s: behind them the manor explodes: a huge orange fireball bursts out of the windows and the roof, and sparks and debris fly to both sides.
+4-10 s: a tower of dark grey smoke rises behind them; the walker walks slowly toward the low camera, hands at the sides, never looking back, never flinching, and ends close to the camera with a cold, steady stare.
+
+The walker is the person in [Image 1], in every frame: copy the exact face from [Image 1] (the face shape, eyebrows, nose, mouth, jaw, skin tone, age, hair color, hair length and hairstyle, and any beard or moustache), so their friends recognize them at once. The flat cap sits low on the forehead but never hides the eyes; everything else of the face comes from [Image 1], and the hair under the cap keeps the color from [Image 1]. The same real person from the first frame to the last; never morph. If [Image 1] shows an animal, the walker is that animal walking toward the camera in a small flat cap and a dark overcoat, with its own face, fur and markings, not a person.
+
+The walk ends close to the camera, from the knees up, the face large and sharp: exactly the face from [Image 1]. The explosion stays far behind them: nobody is burned or hurt, and the walker never looks back. No dialogue throughout the entire video. Exactly one person. No cigarette, no smoking, no gun, no weapons. No cars, no signs, no text, no subtitles, no logos, no watermark, no extra limbs.
 ```
 

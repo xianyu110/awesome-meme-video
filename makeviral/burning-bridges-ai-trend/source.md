@@ -154,13 +154,13 @@ Your chandelier party AI video follows a 15-second cut of the AI reel by @alex.k
 
 | | Standard (default) | Best |
 |---|---|---|
-| How it works | Seedance 2.0 Mini makes a new party clip that follows the reel's moves, camera and timing. | MiniMax H3 Max Recast puts you into the reel itself: the same shots, the same party, the same camera. |
-| Frame | Vertical 9:16, 720p, ready for TikTok | Wide 16:9 like the reel, 768p |
+| How it works | Seedance 2.0 Mini makes a new party clip that follows the reel's moves, camera and timing. | Top-quality AI video models put you into the reel itself: the same shots, the same party, the same camera. |
+| Frame | Vertical 9:16, 720p, ready for TikTok | Wide 16:9 like the reel, 720p |
 | The other guests | New AI-made guests | The guests from the reel |
 | Lips | They follow the reel's timing but may not match every word | The reel's own mouth moves, so they match the song |
 | Sound | The reel's song, put on after the run; you can turn it off | The same |
 
-Pick Standard for a vertical clip at the lower price. Pick Best for the closest copy of the reel. The Cup dance tab has one option, Seedance 2.5, which puts you into the reel itself at 720p, wide 16:9 like the reel, also in the close-up at the lens; it can take up to several minutes. Use a sharp, front-facing photo there: the face fills the frame for a few seconds. Results differ from run to run: if a face drifts, run it again or try the other option.
+Pick Standard for a vertical clip at the lower price. Pick Best for the closest copy of the reel; it can take 5 to 15 minutes. The Cup dance tab has one option, Seedance 2.5, which puts you into the reel itself at 720p, wide 16:9 like the reel, also in the close-up at the lens; it can take up to several minutes. Use a sharp, front-facing photo there: the face fills the frame for a few seconds. Results differ from run to run: if a face drifts, run it again or try the other option.
 
 ## Who should you put in the party?
 
@@ -222,7 +222,7 @@ Yes. Every tab puts the reel's own sound back on after the run, cut to the same 
 
 ### What is the difference between Standard and Best?
 
-Standard is the default and costs fewer credits. Seedance 2.0 Mini makes a new vertical 9:16 party clip at 720p that follows the reel's moves and timing, with new AI-made guests. Best costs more and uses MiniMax H3 Max Recast, which puts you into the reel itself: the same shots, guests and camera, wide 16:9 like the reel, at 768p, with the reel's own mouth moves. Both are 15 seconds long with the reel's song.
+Standard is the default and costs fewer credits. Seedance 2.0 Mini makes a new vertical 9:16 party clip at 720p that follows the reel's moves and timing, with new AI-made guests. Best costs more and uses top-quality AI video models, which put you into the reel itself: the same shots, guests and camera, wide 16:9 like the reel, at 720p, with the reel's own mouth moves. Both are 15 seconds long with the reel's song.
 
 ### Can I put Drake, a footballer or another celebrity in the party?
 
@@ -249,6 +249,15 @@ Your video starts from your photo, so the face, hair, outfit and body follow it.
 - [AI TikTok Video](https://www.makeviral.ai/tools/ai-tiktok-video-generator): Eight native TikTok formats, one prompt or product URL, a finished 9:16 video with captions burned in.
 - [AI photo generator](https://www.makeviral.ai/ai-photo-generator)
 - [All AI video templates](https://www.makeviral.ai/templates)
+
+## New AI video trends this week
+
+- [Christmas Dance AI: Do the New TikTok Christmas Dance From Your Photos](https://www.makeviral.ai/templates/christmas-dance-ai-trend): Hip sways with the hands at the collar, rolling arms, a quick spin and raised fists, side by side in matching Christmas pajamas. Add two photos for the duo, one for a solo take, or two pets, and get the dance with the sound.
+- [Cat on Ultra Bee AI: Put Your Pet on the Wheelie](https://www.makeviral.ai/templates/cat-on-ultra-bee-ai-trend): Add one photo, and your cat or dog stands on an electric dirt bike and holds a long wheelie down a city road at golden hour, in the same shots as the viral clip, with its original sound. You can take the ride yourself, too.
+- [Tus Ojos Me Reflejan el Sentimiento: The Cafuné Eye Close-Up Trend](https://www.makeviral.ai/templates/tus-ojos-me-reflejan-ai-trend): You lie on your side, a hand rests on your cheek, warm light falls on your face, and the camera slowly moves in until your eyes fill the screen while the line plays. One photo in, an 8-second vertical clip with the trend's song out.
+- [İnşallah Maşallah AI Trend: Sing Neşe Karaböcek's Song on the Couch](https://www.makeviral.ai/templates/insallah-masallah-ai-trend): You sit on a light grey couch and sing the old Turkish love song straight to the camera: a hand on the heart, a big laugh with both hands on your head, a finger pointed at the camera and a kiss at the end. One photo of you, a grandparent or your pet, and the 15-second clip comes with the song.
+- [Ice Ice Baby Dance AI: Do the Viral Duo Dance With a Friend](https://www.makeviral.ai/templates/ice-ice-baby-dance-ai): Two dancers side by side, the same bouncy 90s steps, a spin on the beat and a strut to the camera. Add a photo of you and a friend, of you alone, or of your pet, and get the dance with the sound.
+- [Save Yourself Trend: Pull Yourself Up From the Cliff](https://www.makeviral.ai/templates/save-yourself-ai-trend): One photo plays both of you: the scared you clinging to a wet sea cliff, and the calm you who reaches down, pulls you up and holds you. Or use two photos: an older photo of you and a new one, or you and a friend. 15 seconds, vertical.
 
 ## Make your own Burning Bridges video
 

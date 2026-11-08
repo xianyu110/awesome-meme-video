@@ -3,7 +3,7 @@
 > The champagne birthday trend is a TikTok birthday video: you sit on a park bench at night, pop a bottle of champagne, a jet shoots straight up and the clip turns black and white with "Happy Birthday" in white letters.
 
 Canonical: https://www.makeviral.ai/templates/champagne-birthday-ai-trend
-Updated: 2026-10-22
+Updated: 2026-10-29
 Published: 2026-10-16
 Author: MakeViral Team (https://www.makeviral.ai/about)
 Publisher: MakeViral (https://www.makeviral.ai)
@@ -12,11 +12,11 @@ The **champagne birthday trend** is a TikTok birthday video: you sit on a park b
 
 Add one photo and you star in the viral champagne pop: you walk to a park bench at night, pop the bottle, a tall jet of champagne shoots up and the clip turns black and white with HAPPY BIRTHDAY! at the top. Or spray it from the sunroof of a black SUV in a city at night.
 
-Also called: Champagne pop birthday, Birthday champagne pop, Champagne bottle trend, It's Raining Men birthday, Happy birthday to me champagne, Trend da champanhe.
+Also called: Champagne pop birthday, Birthday champagne pop, Champagne bottle trend, It's Raining Men birthday, Happy birthday to me champagne, Trend da champanhe, G-Wagon roof champagne.
 
 **Make it now:** [Make this video](https://www.makeviral.ai/templates/champagne-birthday-ai-trend/create). 1 photo · 10 s · 9:16 with sound · 152 credits, charged once · ready in up to several minutes · no prompt to write.
 
-Keyword: champagne birthday trend. Also answers: champagne pop, ai birthday video, birthday champagne trend, ai birthday video generator, birthday trend tiktok, birthday trends tiktok, champagne popping video, champagne pop video, champagne trend birthday, viral champagne birthday video, it's raining men birthday trend, champagne birthday video, birthday champagne video, champagne pop birthday trend, how to do the champagne birthday trend, champagne bottle birthday trend, champagne pop trend, ai champagne birthday, birthday champagne bottle trend, birthday trend with champagne, champagne trend, champagne slam trend, champagne trend instagram, champagne birthday reel, champagne pop birthday tutorial, birthday champagne ai video, birthday champagne trend ai, birthday champagne trend prompt, happy birthday champagne trend, champagne trend tiktok, champagne spray trend, champagne birthday video trend, happy birthday champagne video, how to make champagne birthday video, champagne birthday ai video, birthday bottle trend, g wagon champagne, champagne pop birthday video, birthday champagne tiktok, champagne birthday trend tutorial, champagne birthday trend tiktok, champagne birthday trend instagram, champagne spray birthday trend, birthday champagne trend ai prompt, champagne birthday video prompt, viral champagne birthday video prompt, champagne pop birthday ai, champagne birthday capcut template, g wagon birthday, champagne sunroof, champagne smash trend, trend de la botella cumpleaños, trend do champanhe aniversario, champagne birthday ai, champagne pop ai, champagne bottle trend capcut, champagne pop capcut template, g wagon birthday trend, g wagon birthday ai video, sunroof champagne, bottle trend birthday.
+Keyword: champagne birthday trend. Also answers: champagne pop, ai birthday video, birthday champagne trend, ai birthday video generator, birthday trend tiktok, birthday trends tiktok, champagne popping video, champagne pop video, champagne trend birthday, viral champagne birthday video, it's raining men birthday trend, champagne birthday video, birthday champagne video, champagne pop birthday trend, how to do the champagne birthday trend, champagne bottle birthday trend, champagne pop trend, ai champagne birthday, birthday champagne bottle trend, birthday trend with champagne, champagne trend, champagne slam trend, champagne trend instagram, champagne birthday reel, champagne pop birthday tutorial, birthday champagne ai video, birthday champagne trend ai, birthday champagne trend prompt, happy birthday champagne trend, champagne trend tiktok, champagne spray trend, champagne birthday video trend, happy birthday champagne video, how to make champagne birthday video, champagne birthday ai video, birthday bottle trend, g wagon champagne, champagne pop birthday video, birthday champagne tiktok, champagne birthday trend tutorial, champagne birthday trend tiktok, champagne birthday trend instagram, champagne spray birthday trend, birthday champagne trend ai prompt, champagne birthday video prompt, viral champagne birthday video prompt, champagne pop birthday ai, champagne birthday capcut template, g wagon birthday, champagne sunroof, champagne smash trend, trend de la botella cumpleaños, trend do champanhe aniversario, champagne birthday ai, how to do champagne birthday trend, birthday champagne video prompt, champagne photo trend, how to do the champagne trend, trend happy birthday champagne, champagne pop ai, champagne bottle trend capcut, champagne pop capcut template, g wagon birthday trend, g wagon birthday ai video, sunroof champagne, bottle trend birthday, g wagon trend, g wagon ai video, g wagon effect ai, car roof champagne, dog champagne birthday.
 
 ## What is the Champagne Birthday trend, and where did it start?
 
@@ -44,6 +44,9 @@ Made from the prompts on this page. The people and pets are AI-made, not real pe
 - **Example 2** (4 s, 9:16 MP4 with sound): The trend's template clip for the sunroof version: she stands up through the sunroof of a boxy SUV on a seafront road at night and sprays champagne high over the city. Sunroof night makes this scene from your photo, with a black SUV and a confetti cannon burst at the end.
   - Video: https://www.makeviral.ai/media/templates/champagne-birthday-ai-trend/original-sunroof-v2.mp4
   - Poster: https://www.makeviral.ai/media/templates/champagne-birthday-ai-trend/original-sunroof-v1.jpg
+- **Example 3** (5 s, 9:16 MP4 with sound): The trend's roof clip: he sits on the edge of the open roof of a black SUV rolling through the city at night, pops the champagne, sprays it high and tosses the bottle up. Roof spray copies this clip with your face.
+  - Video: https://www.makeviral.ai/media/templates/champagne-birthday-ai-trend/original-roof-v2.mp4
+  - Poster: https://www.makeviral.ai/media/templates/champagne-birthday-ai-trend/original-roof-v1.jpg
 
 ## How to make the Champagne Birthday video on MakeViral
 
@@ -86,6 +89,108 @@ Anatomy rules: one head only, on the person's own shoulders. Exactly one person.
 2. Press Generate, then download the 9:16 MP4.
 
 One-tap version of this variant: https://www.makeviral.ai/templates/champagne-birthday-ai-trend/create?variant=pop
+
+#### Variant: Roof spray
+
+Settings: 1 photo (your photo, full body or knees up) · Seedance 2.5 · 5 s · 720p · 9:16 · no sound · 76 credits in one tap.
+
+1. The video prompt is filled in. Settings: Seedance 2.5, 5 s, 720p, 9:16, sound off. The video prompt:
+
+   ```text
+   Change the man in [Video 1] to the person in [Image 1] and keep everything the same.
+
+Recreate the reference video [Video 1] shot for shot: the same city street at night, the same boxy black SUV rolling slowly beside the camera car, the same handheld phone shot from the next lane with the side mirror of the camera car in the lower left corner, the same framing, timing and moves. The ONLY change: the man in the light grey tracksuit who sits on the edge of the open roof is now the person in [Image 1].
+
+The roof person = the person in [Image 1], in EVERY frame: copy the exact face from [Image 1] (the face shape, eye color and eye shape, eyebrows, nose, mouth, skin tone, age, hair color, hair length and hairstyle, and any beard, moustache, glasses or freckles), exactly as in the photo. They wear the clothes from [Image 1], with shoes that fit the outfit; if [Image 1] shows only the upper body, invent the rest so it matches naturally. NO light grey tracksuit, NO grey hooded jacket, NO white sneakers and NO shaved head unless [Image 1] shows them: the hair color, length and style of [Image 1]. The same real person in every frame, so their friends recognize them at once, also while they drink with the head back, while the spray passes the face and while the arm is up. Never morph, never drift back to the original man's face.
+
+The driver stays in the driver's seat behind the open window, a dim, generic adult in the dark car, hands on the wheel: never the face from [Image 1], never a second copy of the roof person.
+
+THE CAR stays exactly as in [Video 1]: a boxy black SUV with a square body, glossy black paint and dark windows. No badges, no emblems, no grille logo, no lettering, no readable number plate.
+
+THE MOVES, second by second, exactly as in [Video 1]:
+00:00-00:02: the person sits on the edge of the open roof above the driver's door, one leg inside the car, and shakes a dark green champagne bottle with both hands, grinning.
+00:02-00:03: the cork pops and a long jet of champagne sprays high up and away into the night air; the person leans back and points the bottle at the sky.
+00:03-00:04: the person drinks from the bottle with the head tilted back, drops and foam fly off it, then lowers it and laughs.
+00:04-00:04.9: the person tosses the bottle high into the air and keeps one arm raised, the hand open and empty.
+
+Real live-action phone footage at night, street lights, clear face, no distortion. The spray is liquid only: real droplets and foam, no fire, no smoke, no sparks.
+
+Avoid: text, captions, logos, a brand or label on the bottle, watermarks, extra people, morphing, facial distortion.
+
+Anatomy rules: one head only, on the roof person's own shoulders. Exactly one person on the roof and one driver. Two arms, two legs, five fingers on each hand. One bottle, and nothing else in the hands.
+   ```
+
+2. Press Generate, then download the 9:16 MP4.
+
+One-tap version of this variant: https://www.makeviral.ai/templates/champagne-birthday-ai-trend/create?variant=roof
+
+#### Variant: Roof + your car
+
+Settings: 2 photos (your photo, full body or knees up + your car, the whole car from the side) · Seedance 2.5 · 5 s · 720p · 9:16 · no sound · 76 credits in one tap.
+
+1. The video prompt is filled in. Settings: Seedance 2.5, 5 s, 720p, 9:16, sound off. The video prompt:
+
+   ```text
+   Change the man in [Video 1] to the person in [Image 1] and keep everything the same.
+
+Recreate the reference video [Video 1] shot for shot: the same city street at night, the same boxy black SUV rolling slowly beside the camera car, the same handheld phone shot from the next lane with the side mirror of the camera car in the lower left corner, the same framing, timing and moves. The ONLY changes: the man in the light grey tracksuit who sits on the edge of the open roof is now the person in [Image 1], and the boxy black SUV is now the vehicle in [Image 2].
+
+The roof person = the person in [Image 1], in EVERY frame: copy the exact face from [Image 1] (the face shape, eye color and eye shape, eyebrows, nose, mouth, skin tone, age, hair color, hair length and hairstyle, and any beard, moustache, glasses or freckles), exactly as in the photo. They wear the clothes from [Image 1], with shoes that fit the outfit; if [Image 1] shows only the upper body, invent the rest so it matches naturally. NO light grey tracksuit, NO grey hooded jacket, NO white sneakers and NO shaved head unless [Image 1] shows them: the hair color, length and style of [Image 1]. The same real person in every frame, so their friends recognize them at once, also while they drink with the head back, while the spray passes the face and while the arm is up. Never morph, never drift back to the original man's face.
+
+The driver stays in the driver's seat behind the open window, a dim, generic adult in the dark car, hands on the wheel: never the face from [Image 1], never a second copy of the roof person.
+
+THE CAR = the vehicle in [Image 2], in EVERY frame: its body shape, size, paint color, wheels, lights and windows as in [Image 2], with an open roof where the person sits. Never the boxy black SUV of the video unless [Image 2] shows it. A convertible, a pickup or a van takes the SUV's place at its real size. No badges, no brand names, no readable number plate.
+
+THE MOVES, second by second, exactly as in [Video 1]:
+00:00-00:02: the person sits on the edge of the open roof above the driver's door, one leg inside the car, and shakes a dark green champagne bottle with both hands, grinning.
+00:02-00:03: the cork pops and a long jet of champagne sprays high up and away into the night air; the person leans back and points the bottle at the sky.
+00:03-00:04: the person drinks from the bottle with the head tilted back, drops and foam fly off it, then lowers it and laughs.
+00:04-00:04.9: the person tosses the bottle high into the air and keeps one arm raised, the hand open and empty.
+
+Real live-action phone footage at night, street lights, clear face, no distortion. The spray is liquid only: real droplets and foam, no fire, no smoke, no sparks.
+
+Avoid: text, captions, logos, a brand or label on the bottle, watermarks, extra people, morphing, facial distortion.
+
+Anatomy rules: one head only, on the roof person's own shoulders. Exactly one person on the roof and one driver. Two arms, two legs, five fingers on each hand. One bottle, and nothing else in the hands.
+   ```
+
+2. Press Generate, then download the 9:16 MP4.
+
+One-tap version of this variant: https://www.makeviral.ai/templates/champagne-birthday-ai-trend/create?variant=roof-car
+
+#### Variant: Roof spray: pet
+
+Settings: 1 photo (your pet, whole body) · Seedance 2.5 · 5 s · 720p · 9:16 · no sound · 76 credits in one tap.
+
+1. The video prompt is filled in. Settings: Seedance 2.5, 5 s, 720p, 9:16, sound off. The video prompt:
+
+   ```text
+   Change the man in [Video 1] to the pet in [Image 1] and keep everything the same.
+
+Recreate the reference video [Video 1] shot for shot: the same city street at night, the same boxy black SUV rolling slowly beside the camera car, the same handheld phone shot from the next lane with the side mirror of the camera car in the lower left corner, the same framing, timing and moves. The ONLY change: the man in the light grey tracksuit who sits on the edge of the open roof is now the pet in [Image 1], and the champagne bottle stands in a small black bottle holder fixed on the roof edge right beside the pet.
+
+The roof pet = the pet in [Image 1], in EVERY frame: the same species and breed, head shape, face, eyes, ears, muzzle, fur colors, fur length and markings as in [Image 1], with the natural body volume and proportions of that animal: never flattened, squashed, stretched or merged with anything, so its owner recognizes it at once, also while the spray falls around it. Whether [Image 1] shows a dog, a cat or another animal, it stays that animal, sitting upright on the edge of the open roof above the driver's door at the natural size of that animal, happy and excited. Its own fur from head to toe, with a collar only if [Image 1] shows one: NO light grey tracksuit, NO hood, NO sneakers, NO human body and NO human hands.
+
+The driver stays in the driver's seat behind the open window, a dim, generic adult in the dark car, hands on the wheel: never the pet, never a second animal.
+
+THE CAR stays exactly as in [Video 1]: a boxy black SUV with a square body, glossy black paint and dark windows. No badges, no emblems, no grille logo, no lettering, no readable number plate.
+
+THE MOVES, second by second, at the times of [Video 1]:
+00:00-00:02: the pet sits on the roof edge and noses and paws at the dark green champagne bottle in its holder; the bottle shakes and fizzes, the pet wags and looks at the camera.
+00:02-00:03: the cork pops by itself and a long jet of champagne sprays from the bottle high up and away into the night air, away from the pet; the pet leans back and looks up at the spray.
+00:03-00:04: drops and foam fall around it; the pet blinks, shakes its head and looks happy. It never drinks from the bottle.
+00:04-00:04.9: the pet lifts one front paw high in the air, proud; the bottle stays in its holder, still foaming.
+
+Real live-action phone footage at night, street lights, the pet's face clear, no distortion. The spray is liquid only: real droplets and foam, no fire, no smoke, no sparks.
+
+Avoid: text, captions, logos, a brand or label on the bottle, watermarks, extra people, extra animals, morphing.
+
+Anatomy rules: one head only, one muzzle, natural teeth and tongue. Exactly one pet on the roof and one driver. Four legs with animal paws, never a human hand; the paws never hold or grip the bottle. One bottle, always in its holder.
+   ```
+
+2. Press Generate, then download the 9:16 MP4.
+
+One-tap version of this variant: https://www.makeviral.ai/templates/champagne-birthday-ai-trend/create?variant=roof-pet
 
 #### Variant: Sunroof night
 
@@ -157,6 +262,8 @@ Credits come with a plan; see [pricing](https://www.makeviral.ai/pricing). A fai
 
 **Sunroof night** is a scene made from your photo, 10 seconds: you stand up through the sunroof of a black luxury SUV on a palm-lined boulevard in a city of glass towers at night. You shake the bottle and spray it at the sky, then fire a small confetti cannon into the spray, and it bursts into a golden splash of droplets and confetti while the car rolls on. A driver sits inside, seen only as a dark shape.
 
+**Roof spray** copies the trend's real roof clip, about 5 seconds: you sit on the edge of the open roof of a black SUV rolling at night, pop the champagne, spray it into the air and toss the bottle up, with the clip's own sound. Upload one photo of yourself, full body or from the knees up; the Roof spray with your car version takes a second photo, your whole car from the side, and puts it in place of the SUV. **Roof spray: pet** puts your dog or cat on the same roof: the bottle pops in a holder beside it and sprays into the night while your pet watches and lifts a paw.
+
 **How MakeViral makes it:** Champagne pop uses Seedance 2.5 to edit the real reel and swap the person for the one in your photo, at 720p; the reel's own sound goes back on after the run. Sunroof night uses Seedance 2.5 straight from your photo, with no in-between picture, so your face stays yours, and comes with a party tune. A run takes 5 to 15 minutes, and the Generate button shows the exact price before you spend anything. Every run is a new take, so results differ.
 
 ## How do creators make the black-and-white freeze and the Happy Birthday text?
@@ -220,6 +327,10 @@ Yes. The clip is vertical 9:16, so it fits TikTok, Instagram Reels and Stories. 
 
 Yes. The video shows alcohol, so this template is for adults: upload only photos of adults, never a child or a teen.
 
+### Can I make a dog champagne birthday video with my pet?
+
+Yes. Pick Roof spray: pet and add one sharp photo of your dog, cat or other pet. It sits on the edge of the open roof of the black SUV rolling at night, the champagne bottle pops in a holder beside it and sprays high into the air, and your pet lifts a paw at the end. A pet cannot hold a bottle, so it never holds or drinks the champagne. About 5 seconds, with the clip's own sound.
+
 ### How long does it take, and what does it cost?
 
 A run takes 5 to 15 minutes. The Generate button shows the exact credit price before you spend anything; Champagne pop costs a little more than Sunroof night because it edits the whole reel. If a run fails, the credits come back.
@@ -228,6 +339,10 @@ A run takes 5 to 15 minutes. The Generate button shows the exact credit price be
 
 The same birthday bottle trend has a few cousins: the champagne slam or champagne smash trend, where a bat breaks the bottle on a table, and the classic champagne spray trend with no freeze. People search the Brazilian names, trend da champanhe or trend do champanhe de aniversário, and the Spanish one, el trend de la botella para cumpleaños, too. This page covers the bench pop and the sunroof spray.
 
+### What is the G-Wagon roof spray version?
+
+It is the car roof champagne clip of the G Wagon trend: you sit on the edge of the open roof of a black SUV rolling at night, spray champagne and toss the bottle up. Many AI apps sell it as a G Wagon effect; Roof spray copies the real clip as an AI video with your face, and you can add a photo of your own car. The car shows no badge or brand.
+
 ## Other AI video templates and tools
 
 - [Champagne Car Window Trend: Pop the Bottle Out of a Moving SUV](https://www.makeviral.ai/templates/champagne-car-window-ai-trend): You lean out of the rear window of a dark luxury SUV on a rainy highway at night, pop the champagne, spray it high, drink and throw the bottle, filmed from the car next to you. Add a second photo and your own car takes the SUV's place. It is an AI video: never lean out of a moving car.
@@ -235,6 +350,15 @@ The same birthday bottle trend has a few cousins: the champagne slam or champagn
 - [24 Unforgettable Car Trend AI: Flick the 2 and 4, Reveal Your Car](https://www.makeviral.ai/templates/unforgettable-car-trend-ai): You walk up to the camera, hold up a 2 and a 4, flick both cards at the lens, and a sports car is parked behind you. One photo, add a photo of the car you want, swap the car for a private jet, or make the car backflip on thrusters. 10 to 14 seconds, with the song from the viral clips.
 - [AI photo generator](https://www.makeviral.ai/ai-photo-generator)
 - [All AI video templates](https://www.makeviral.ai/templates)
+
+## New AI video trends this week
+
+- [Christmas Dance AI: Do the New TikTok Christmas Dance From Your Photos](https://www.makeviral.ai/templates/christmas-dance-ai-trend): Hip sways with the hands at the collar, rolling arms, a quick spin and raised fists, side by side in matching Christmas pajamas. Add two photos for the duo, one for a solo take, or two pets, and get the dance with the sound.
+- [Cat on Ultra Bee AI: Put Your Pet on the Wheelie](https://www.makeviral.ai/templates/cat-on-ultra-bee-ai-trend): Add one photo, and your cat or dog stands on an electric dirt bike and holds a long wheelie down a city road at golden hour, in the same shots as the viral clip, with its original sound. You can take the ride yourself, too.
+- [Tus Ojos Me Reflejan el Sentimiento: The Cafuné Eye Close-Up Trend](https://www.makeviral.ai/templates/tus-ojos-me-reflejan-ai-trend): You lie on your side, a hand rests on your cheek, warm light falls on your face, and the camera slowly moves in until your eyes fill the screen while the line plays. One photo in, an 8-second vertical clip with the trend's song out.
+- [İnşallah Maşallah AI Trend: Sing Neşe Karaböcek's Song on the Couch](https://www.makeviral.ai/templates/insallah-masallah-ai-trend): You sit on a light grey couch and sing the old Turkish love song straight to the camera: a hand on the heart, a big laugh with both hands on your head, a finger pointed at the camera and a kiss at the end. One photo of you, a grandparent or your pet, and the 15-second clip comes with the song.
+- [Ice Ice Baby Dance AI: Do the Viral Duo Dance With a Friend](https://www.makeviral.ai/templates/ice-ice-baby-dance-ai): Two dancers side by side, the same bouncy 90s steps, a spin on the beat and a strut to the camera. Add a photo of you and a friend, of you alone, or of your pet, and get the dance with the sound.
+- [Save Yourself Trend: Pull Yourself Up From the Cliff](https://www.makeviral.ai/templates/save-yourself-ai-trend): One photo plays both of you: the scared you clinging to a wet sea cliff, and the calm you who reaches down, pulls you up and holds you. Or use two photos: an older photo of you and a new one, or you and a friend. 15 seconds, vertical.
 
 ## Make your own Champagne Birthday video
 

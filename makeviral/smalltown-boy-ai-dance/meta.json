@@ -8,7 +8,7 @@
   "blurb": "The Smalltown Boy cats trend is a viral AI reel from October 2026.",
   "updated": "2026-10-13",
   "published": "2026-10-10",
-  "credits": 168,
+  "credits": 213,
   "demo_videos": [
     "https://www.makeviral.ai/media/templates/smalltown-boy-ai-dance/original-pets-room-v2.mp4",
     "https://www.makeviral.ai/media/templates/smalltown-boy-ai-dance/original-pets-v2.mp4"
@@ -19,10 +19,10 @@
   ],
   "prompts": [
     {
-      "label": "1. The video prompt is filled in. Settings: h3-recast, 14 s, 720p, 9:16, sound off. The video prompt",
+      "label": "1. The video prompt is filled in. Settings: Seedance 2.5, 14 s, 720p, 9:16, sound off. The video prompt",
       "variant": "Pet",
       "kind": "video_prompt",
-      "text": "Image 1 replaces the cat in front who grabs its head with both paws and screams, in every shot, and opens its mouth wide exactly when that cat screams. Image 2 replaces the cat who dances on its hind legs behind it and then beside it, in every shot. Keep the face shape, ears, fur colors, fur length and markings of each pet from its own image, on the whole body, the head, the legs and the tail, from the first frame, not the ears, coat or markings of the cats in the video. Each pet keeps the natural body volume and proportions of its own animal: never flattened, squashed, stretched or merged with anything. Each pet keeps its own face from the first frame to the last, also in the lunge at the camera at the end; never swap the two faces. If an image shows a dog or another animal, that animal takes the same place, standing upright on its hind legs and doing the same moves. Keep the white living room, the marble floor, the warm ceiling light, the motion, the cuts and the camera exactly as in the video."
+      "text": "Recreate the reference video [Video 1] shot for shot: the same white living room, the same marble floor, the same warm ceiling light, the same wide lens, the same camera angles, cuts, timing and moves. The ONLY change: the cat in front who grabs its head and screams is now the pet in [Image 1], and the cat who dances on its hind legs behind it is now the pet in [Image 2]. Both cats change: no cat from the video stays anywhere, also in the wide shots, in the close lunge at the end and when only the side or the back of a head shows. [Image 1] is the sole look reference for the screaming pet, [Image 2] for the dancing pet, and [Video 1] is for the moves, the cuts and the camera only.\n\nThe screaming pet = the pet in [Image 1], in EVERY shot: the same species and breed, face shape, eyes, ears, muzzle, fur colors, fur length and markings as in [Image 1], on the whole body, the head, the legs and the tail, with the natural body volume and proportions of that animal: never flattened, squashed, stretched or merged with anything. Not the coat, the ears or the face of the cat in the video. It opens its mouth wide exactly when the cat in the video screams.\n\nThe dancing pet = the pet in [Image 2], in EVERY shot: the same species and breed, face shape, eyes, ears, muzzle, fur colors, fur length and markings as in [Image 2], on the whole body, the head, the legs and the tail, with the natural body volume and proportions of that animal: never flattened, squashed, stretched or merged with anything. Not the coat, the ears or the face of the cat in the video.\n\nBoth stand upright on their hind legs like the cats in the video. If an image shows a dog or another animal, that animal takes the same place, standing upright and doing the same moves: a dog stays a dog and a cat stays a cat. Each pet looks exactly like its own photo from the first frame to the last, and the two pets look as different from each other as the two photos do. Never swap the two pets.\n\nShot 1 [0-7.1 s]: close in front of the wide lens, the pet from [Image 1] holds its head with both front paws and screams, while the pet from [Image 2] dances on its hind legs behind it.\nShot 2 [7.1-9.3 s]: hard cut, wide: both dance side by side on the marble floor, the pet from [Image 1] on the left, the pet from [Image 2] on the right.\nShot 3 [9.3-11.1 s]: hard cut, closer: the same two side by side, [Image 1] on the left, [Image 2] on the right.\nShot 4 [11.1-12.5 s]: hard cut, wide: they have switched sides: the pet from [Image 2] on the left, the pet from [Image 1] on the right.\nShot 5 [12.5-14 s]: hard cut: both lunge at the lens, the pet from [Image 2] in front with a front paw out, the pet from [Image 1] beside it; both faces big and clearly their own.\n\nIf a pet in any shot still looks like a cat from the video and not like its photo, it is wrong: redraw it as the animal in its photo.\n\nAnatomy rules: one head per animal, on its own body. Exactly two animals. Real furry paws, never human hands. No people, no text, no logos. No dialogue throughout the entire video. No background music."
     },
     {
       "label": "1. The video prompt is filled in. Settings: Seedance 2.5, 14 s, 720p, 9:16, sound off. The video prompt",
@@ -39,8 +39,9 @@
     "What is the difference between Pet and Human?",
     "How long is the video and what format is it?",
     "Other AI video templates and tools",
+    "New AI video trends this week",
     "Make your own Smalltown Boy video"
   ],
   "prompt_count": 2,
-  "scraped_at": "2026-10-23"
+  "scraped_at": "2026-11-08"
 }

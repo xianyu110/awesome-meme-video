@@ -3,7 +3,7 @@
 > The thank you baby meme is the sing-song "thank you baby, thank you babeh" from a TikTok LIVE by the 50/50 Twins, and its AI version makes a baby dance to it.
 
 Canonical: https://www.makeviral.ai/templates/thank-you-baby-ai-trend
-Updated: 2026-10-21
+Updated: 2026-10-27
 Published: 2026-10-21
 Author: MakeViral Team (https://www.makeviral.ai/about)
 Publisher: MakeViral (https://www.makeviral.ai)
@@ -16,7 +16,7 @@ Also called: Thank you baby, thank you babeh, Thank you babeh trend, Thank you b
 
 **Make it now:** [Make this video](https://www.makeviral.ai/templates/thank-you-baby-ai-trend/create). 1 photo · 15 s · 9:16 with sound · 60 credits, charged once · ready in a few minutes · no prompt to write.
 
-Keyword: thank you baby meme. Also answers: thank you baby trend, thank you baby 50 50, thank you baby tiktok, thank you babeh, thank you baby ai, ai baby thank you, thank you baby dance, thank you baby song 2026, thank you baby tiktok song, thank you baby ai trend, 50 50 twins, 50 50 twins tiktok, thank you baby thank you baby, thank you babeh song, thank you baby video, thank you baby song tiktok, thank you baby 50 50 twins lyrics, thank you baby lyrics tiktok, thank you babe meme, thank you baby voice, thank you baby capcut template, thank you baby ai template, how to make thank you baby ai video, thank you baby ai dog, thank you babeh dog, thank you baby meme dog, 5050 twins, ai baby trend tiktok, thank you baby dance trend, ai baby dance thank you baby, thank you baby original, thank you baby ai cat, thank you baby ai baby dance.
+Keyword: thank you baby meme. Also answers: thank you baby trend, thank you baby 50 50, thank you baby tiktok, thank you babeh, thank you baby ai, ai baby thank you, thank you baby dance, thank you baby song 2026, thank you baby tiktok song, thank you baby ai trend, thank you babe meme, thank ya baby, thank you baby tiktok trend, thank you baby meme lyrics, thank you baby song tiktok, thank you baby 50 50 twins lyrics, thank ya baby meme, thank you babe trend, thank you baby meme 50 50, thank you baby meme original, thank you baby meme song, thank you baby twins, thank you baby viral song, 50 50 twins, 50 50 twins tiktok, thank you baby thank you baby, thank you babeh song, thank you baby video, thank you baby lyrics tiktok, thank you baby voice, thank you baby capcut template, thank you baby ai template, how to make thank you baby ai video, thank you baby ai dog, thank you babeh dog, thank you baby meme dog, 5050 twins, ai baby trend tiktok, thank you baby dance trend, ai baby dance thank you baby, thank you baby original, thank you baby ai cat, thank you baby ai baby dance.
 
 ## What is the Thank You Baby AI trend, and where did it start?
 
@@ -137,9 +137,9 @@ The **Pet** version (10 seconds) copies the viral dog-in-a-wig clip: your pet st
 
 The 50/50 Twins (on TikTok as @fiftyfifty082, also written 5050 twins) are a creator duo who go live in over-the-top rapper costumes. The thank you baby 50/50 clip is a bit from one of those 50 50 twins TikTok LIVE streams: they bounce side by side, one arm on the other's shoulder, and thank each viewer for a gift in a sing-song voice. Know Your Meme added the meme in October 2026.
 
-There are three sounds. The thank you baby TikTok song most memes use is the LIVE itself, from the @drebabygums repost (more than 240,000 videos by 20 October). The twins then released the full song "Thank You Babeh" on 12 October; their post about it had 9.6 million views by 20 October, so that is the Thank You Babeh song people mean by "thank you baby song 2026". The AI baby templates use @prodpoodee's beat remix of the chant.
+The thank you baby meme has three sounds. The thank you baby TikTok song most memes use is the LIVE itself, from the viral @drebabygums repost (more than 240,000 videos by 20 October). The twins then released the full song "Thank You Babeh" on 12 October; their post about it had 9.6 million views by 20 October, so that is the Thank You Babeh song people mean by "thank you baby song 2026". The AI baby templates use @prodpoodee's beat remix of the chant.
 
-The thank you baby 50 50 twins lyrics people look up are mostly the hook, "thank you baby, thank you babeh", said again and again on the beat; the thank you baby lyrics on TikTok are rarely more than that. This page does not print the song, and the thank you baby voice in your clip is the trend's sound: it belongs to its owners, and MakeViral gives you no rights to it.
+The thank you baby 50 50 twins lyrics people look up are mostly the hook, "thank you baby, thank you babeh", said again and again on the beat; the meme lyrics on TikTok are rarely more than that. This page does not print the song, and the thank you baby voice in your clip is the trend's sound: it belongs to its owners, and MakeViral gives you no rights to it.
 
 ## Is it safe to make an AI video of my baby?
 
@@ -175,7 +175,7 @@ Want another baby dance? The [AI baby dance](https://www.makeviral.ai/templates/
 
 ### What is the thank you baby meme?
 
-It is a TikTok meme built on a chant from a 50/50 Twins LIVE in September 2026: the duo bounce on camera and thank their viewers with a sing-song "thank you baby, thank you babeh". Screen recordings went viral, people copied it in rapper costumes, and by mid-October it turned into a dance trend, with AI babies and pets. Some people spell it the thank you babe meme.
+It is a TikTok meme built on a chant from a 50/50 Twins LIVE in September 2026: the duo bounce on camera and thank their viewers with a sing-song "thank you baby, thank you babeh". Screen recordings went viral, people copied it in rapper costumes, and by mid-October it turned into a dance trend, with AI babies and pets. Some people spell it the thank you babe meme, or hear it as thank ya baby.
 
 ### What is the thank you baby AI trend?
 
@@ -203,7 +203,7 @@ Yes. Baby gets the same seconds of the remix the AI baby templates use, and Pet 
 
 ### What is the original thank you baby video?
 
-The thank you baby original is a TikTok LIVE of the 50/50 Twins from 23 September 2026. The LIVE itself is gone; the most viewed thank you baby video of it is the @drebabygums screen recording (5.1 million views by 20 October). This page does not show the twins: our clips are made from your own photo.
+The thank you baby original is the TikTok LIVE of the 50/50 Twins from 23 September 2026 that started the meme. The LIVE itself is gone; the most viewed thank you baby video of it is the @drebabygums screen recording (5.1 million views by 20 October). This page does not show the twins: our clips are made from your own photo.
 
 ### Is this the same as the AI baby dance?
 
@@ -230,6 +230,15 @@ Baby is about 15 seconds, sometimes a moment shorter, and Pet is 10 seconds, as 
 - [AI Reels](https://www.makeviral.ai/tools/ai-reels-generator): Pick a format, give it a topic or a product link, and get a finished vertical reel with voice and captions. Nothing to film, nothing to edit.
 - [AI photo generator](https://www.makeviral.ai/ai-photo-generator)
 - [All AI video templates](https://www.makeviral.ai/templates)
+
+## New AI video trends this week
+
+- [Christmas Dance AI: Do the New TikTok Christmas Dance From Your Photos](https://www.makeviral.ai/templates/christmas-dance-ai-trend): Hip sways with the hands at the collar, rolling arms, a quick spin and raised fists, side by side in matching Christmas pajamas. Add two photos for the duo, one for a solo take, or two pets, and get the dance with the sound.
+- [Cat on Ultra Bee AI: Put Your Pet on the Wheelie](https://www.makeviral.ai/templates/cat-on-ultra-bee-ai-trend): Add one photo, and your cat or dog stands on an electric dirt bike and holds a long wheelie down a city road at golden hour, in the same shots as the viral clip, with its original sound. You can take the ride yourself, too.
+- [Tus Ojos Me Reflejan el Sentimiento: The Cafuné Eye Close-Up Trend](https://www.makeviral.ai/templates/tus-ojos-me-reflejan-ai-trend): You lie on your side, a hand rests on your cheek, warm light falls on your face, and the camera slowly moves in until your eyes fill the screen while the line plays. One photo in, an 8-second vertical clip with the trend's song out.
+- [İnşallah Maşallah AI Trend: Sing Neşe Karaböcek's Song on the Couch](https://www.makeviral.ai/templates/insallah-masallah-ai-trend): You sit on a light grey couch and sing the old Turkish love song straight to the camera: a hand on the heart, a big laugh with both hands on your head, a finger pointed at the camera and a kiss at the end. One photo of you, a grandparent or your pet, and the 15-second clip comes with the song.
+- [Ice Ice Baby Dance AI: Do the Viral Duo Dance With a Friend](https://www.makeviral.ai/templates/ice-ice-baby-dance-ai): Two dancers side by side, the same bouncy 90s steps, a spin on the beat and a strut to the camera. Add a photo of you and a friend, of you alone, or of your pet, and get the dance with the sound.
+- [Save Yourself Trend: Pull Yourself Up From the Cliff](https://www.makeviral.ai/templates/save-yourself-ai-trend): One photo plays both of you: the scared you clinging to a wet sea cliff, and the calm you who reaches down, pulls you up and holds you. Or use two photos: an older photo of you and a new one, or you and a friend. 15 seconds, vertical.
 
 ## Make your own Thank You Baby AI video
 

@@ -78,7 +78,7 @@ Never blend their faces, never swap their clothes. Each face stays the same from
 The shots:
 1. 0-3 s: a medium shot from the side: the one who arrives runs lightly across the soft clouds, looking around in wonder, hair moving in the breeze, then slows down.
 2. 3-6 s: a medium close-up, the face turned three-quarters to the camera: they stop, breathless, look ahead, and their eyes fill with tears as they recognize someone, with a trembling smile.
-3. 6-10 s: over their shoulder, a few steps away in a beam of warm golden light, the one who waits stands with open arms and a warm smile. The one who arrives runs into their arms and they hug tightly, swaying gently; with a child or an animal, the one who arrives kneels down to hold them. The camera moves in to a medium close-up as they lean back a little and touch foreheads, eyes closed, with quiet happy tears, both faces in three-quarter view to the camera.
+3. 6-10 s: over their shoulder, a few steps away in a beam of warm golden light, the one who waits stands with open arms and a warm smile. The one who arrives runs into their arms and they hug tightly, swaying gently. If [Image 2] shows a child or an animal, the one who arrives kneels down to hold them. The camera moves in to a medium close-up as they lean back a little and touch foreheads, eyes closed, with quiet happy tears, both faces in three-quarter view to the camera.
 
 Audio: an original slow, tender piano melody with soft strings, a soft breeze, light quick footsteps, then a quiet sob and a soft laugh in the hug. No dialogue, no lyrics.
 
@@ -108,7 +108,7 @@ Never blend their faces, never swap their clothes. Each face stays the same from
 The shots:
 1. 0-3 s: a medium shot from the side: the one who climbs runs up the glowing steps, light and eager, hair moving in the breeze, face turned up toward the light with a hopeful smile.
 2. 3-5 s: from behind, a few steps lower: the one who climbs keeps running up; at the top, in front of the doorway of light, the one who waits stands with open arms and a warm smile.
-3. 5-10 s: the one who climbs reaches the top step and runs into their arms; they hug tightly and sway gently, eyes closed, with quiet happy tears; with a child or an animal, the one who climbs kneels on the top step to hold them. The camera moves around them to a medium close-up, cheek to cheek, both faces in three-quarter view to the camera.
+3. 5-10 s: the one who climbs reaches the top step and runs into their arms; they hug tightly and sway gently, eyes closed, with quiet happy tears. If [Image 2] shows a child or an animal, the one who climbs kneels on the top step to hold them. The camera moves around them to a medium close-up, cheek to cheek, both faces in three-quarter view to the camera.
 
 Audio: an original slow, tender piano melody with soft strings, a soft breeze, quick light footsteps on the steps, then a quiet sob and a soft laugh in the hug. No dialogue, no lyrics.
 
@@ -276,6 +276,15 @@ Yes. MakeViral does not post your photos or the result anywhere or show them to 
 - [AI Reels](https://www.makeviral.ai/tools/ai-reels-generator): Pick a format, give it a topic or a product link, and get a finished vertical reel with voice and captions. Nothing to film, nothing to edit.
 - [AI photo generator](https://www.makeviral.ai/ai-photo-generator)
 - [All AI video templates](https://www.makeviral.ai/templates)
+
+## New AI video trends this week
+
+- [Christmas Dance AI: Do the New TikTok Christmas Dance From Your Photos](https://www.makeviral.ai/templates/christmas-dance-ai-trend): Hip sways with the hands at the collar, rolling arms, a quick spin and raised fists, side by side in matching Christmas pajamas. Add two photos for the duo, one for a solo take, or two pets, and get the dance with the sound.
+- [Cat on Ultra Bee AI: Put Your Pet on the Wheelie](https://www.makeviral.ai/templates/cat-on-ultra-bee-ai-trend): Add one photo, and your cat or dog stands on an electric dirt bike and holds a long wheelie down a city road at golden hour, in the same shots as the viral clip, with its original sound. You can take the ride yourself, too.
+- [Tus Ojos Me Reflejan el Sentimiento: The Cafuné Eye Close-Up Trend](https://www.makeviral.ai/templates/tus-ojos-me-reflejan-ai-trend): You lie on your side, a hand rests on your cheek, warm light falls on your face, and the camera slowly moves in until your eyes fill the screen while the line plays. One photo in, an 8-second vertical clip with the trend's song out.
+- [İnşallah Maşallah AI Trend: Sing Neşe Karaböcek's Song on the Couch](https://www.makeviral.ai/templates/insallah-masallah-ai-trend): You sit on a light grey couch and sing the old Turkish love song straight to the camera: a hand on the heart, a big laugh with both hands on your head, a finger pointed at the camera and a kiss at the end. One photo of you, a grandparent or your pet, and the 15-second clip comes with the song.
+- [Ice Ice Baby Dance AI: Do the Viral Duo Dance With a Friend](https://www.makeviral.ai/templates/ice-ice-baby-dance-ai): Two dancers side by side, the same bouncy 90s steps, a spin on the beat and a strut to the camera. Add a photo of you and a friend, of you alone, or of your pet, and get the dance with the sound.
+- [Save Yourself Trend: Pull Yourself Up From the Cliff](https://www.makeviral.ai/templates/save-yourself-ai-trend): One photo plays both of you: the scared you clinging to a wet sea cliff, and the calm you who reaches down, pulls you up and holds you. Or use two photos: an older photo of you and a new one, or you and a friend. 15 seconds, vertical.
 
 ## Make your own Heaven Hug video
 

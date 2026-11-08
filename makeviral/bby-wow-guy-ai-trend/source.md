@@ -3,7 +3,7 @@
 > The bby wow guy is the man in the viral quince party clip: he dances toward the phone, takes a bite of a concha, stares into the camera with puffed cheeks and dances off into the crowd.
 
 Canonical: https://www.makeviral.ai/templates/bby-wow-guy-ai-trend
-Updated: 2026-10-21
+Updated: 2026-11-05
 Published: 2026-10-18
 Author: MakeViral Team (https://www.makeviral.ai/about)
 Publisher: MakeViral (https://www.makeviral.ai)
@@ -12,11 +12,11 @@ The **bby wow guy** is the man in the viral quince party clip: he dances toward 
 
 Dance up to the camera at a quinceañera, bite the concha, chew with full cheeks while you stare into the lens, then dance away. Add one photo and become the bby wow guy, with the song.
 
-Also called: Guy dancing at a quince meme, El de la Mirada Preñadora, Eve el Cholo, Staff shirt guy dance, Guy eating bread while dancing at a quince.
+Also called: Guy dancing at a quince meme, El de la Mirada Preñadora, Eve el Cholo, Staff shirt guy dance, Guy eating bread while dancing at a quince, Bby wow wedding dance, Funk Loading dance, Dominican papi dance.
 
 **Make it now:** [Make this video](https://www.makeviral.ai/templates/bby-wow-guy-ai-trend/create). 1 photo · 10 s · 9:16 with sound · 152 credits, charged once · ready in up to several minutes · no prompt to write.
 
-Keyword: bby wow guy. Also answers: bby wow guy dance, bby wow meme, bby wow guy meme, guy dancing at a quince, concha meme, bby wow guy dance trend, bby wow guy trend, baby wow meme, mirada preñadora, eve ramirez, guy dancing at quince meme, guy dancing at quinceanera eating concha meme, pan dulce meme, el chico de la mirada preñadora, la mirada preñadora, bby wow guy ai, guy dancing at a quince ai, bby wow guy template, bby wow guy green screen, baby wow guy dance eating, guy dancing at a quince original, bby wow guy original, dime dime baby meme, dime dime baby ai, dime dime baby ai trend, dime dime baby ai dance, dime dime baby ai video, dime dime baby ai tutorial, dime dime baby trend, baile dime dime baby, dime dime baby photo to video, quince meme, concha bread meme, guy eating bread meme, mirada preñadora meme, quien es el de la mirada preñadora, de donde es el de la mirada preñadora, baby wow guy name, guy dancing at a quince staring at camera, quinceanera dancing guy ai trend, meme quinceañera, dancing guy meme, guy dancing to oh wow karol g, video de la mirada preñadora, el cholo de muzquiz, el chavo viral de la concha, la mirada especial, meme pan dulce, meme concha, meme del pan dulce, el del pan, bby wow dancing guy, baby wow guy, el chico que baila baby wow, bby wow guy dancing and eating, dime dime baby dance tutorial, dime dime baby viral dance ai, dime dime baby original video ai, dime dime baby dance trend, bby wow trend capcut template, dime dime baby con ia, dime dime baby dog, dime dime baby perro, dime dime baby cat, dime dime baby gato, dime dime baby ai baby, tendencia dime dime baby.
+Keyword: bby wow guy. Also answers: bby wow guy dance, bby wow meme, bby wow guy meme, guy dancing at a quince, concha meme, bby wow guy dance trend, bby wow guy trend, baby wow meme, mirada preñadora, eve ramirez, guy dancing at quince meme, guy dancing at quinceanera eating concha meme, pan dulce meme, el chico de la mirada preñadora, la mirada preñadora, bby wow guy ai, guy dancing at a quince ai, bby wow guy template, bby wow guy green screen, baby wow guy dance eating, guy dancing at a quince original, bby wow guy original, dime dime baby meme, dime dime baby ai, dime dime baby ai trend, dime dime baby ai dance, dime dime baby ai video, dime dime baby ai tutorial, dime dime baby trend, baile dime dime baby, dime dime baby photo to video, quince meme, concha bread meme, guy eating bread meme, mirada preñadora meme, quien es el de la mirada preñadora, de donde es el de la mirada preñadora, baby wow guy name, guy dancing at a quince staring at camera, quinceanera dancing guy ai trend, meme quinceañera, dancing guy meme, guy dancing to oh wow karol g, video de la mirada preñadora, el cholo de muzquiz, el chavo viral de la concha, la mirada especial, meme pan dulce, meme concha, meme del pan dulce, el del pan, bby wow dancing guy, baby wow guy, el chico que baila baby wow, bby wow guy dancing and eating, dime dime baby dance tutorial, dime dime baby viral dance ai, dime dime baby original video ai, dime dime baby dance trend, bby wow trend capcut template, dime dime baby con ia, dime dime baby dog, dime dime baby perro, dime dime baby cat, dime dime baby gato, dime dime baby ai baby, tendencia dime dime baby, dime dime baby wedding, abu shalab dance, bby wow wedding, bby wow guy wedding, wedding pastry dance, abu shalab ai, dime dime baby boda, bby wow wedding dance ai, dime dime baby dance, original dime dime baby dance, baile original dime dime baby, baile viral original dime dime baby, dime dime baby dance ai, efecto de ia del baile original dime dime baby, dime dime meme, dime dime baby tiktok, baby wow guy dancing, baby wow guy meme, baby wow guy ai, baby wow dancing guy, dominican papi ai dance, dominican papi meme, bby wow ai, bby wow meme guy, guy dancing and eating bread meme, funk loading dance ai, funk loading, funk loading ai, funk loading slowed, funk loading template, jxndro funk loading, phonk loading dance ai.
 
 ## What is the Bby Wow Guy trend, and where did it start?
 
@@ -47,6 +47,9 @@ Made from the prompts on this page. The people and pets are AI-made, not real pe
 - **Example 2** (7 s, 9:16 MP4 with sound): The original clip by Eve Ramírez (@eve.el.cholo), from a quinceañera in Múzquiz: he dances up to the camera, bites the concha, stares with full cheeks and turns away. Your video copies these moves with your face.
   - Video: https://www.makeviral.ai/media/templates/bby-wow-guy-meme-ai/original-main-v2.mp4
   - Poster: https://www.makeviral.ai/media/templates/bby-wow-guy-meme-ai/original-main-v1.jpg
+- **Example 3** (9 s, 9:16 MP4 with sound): The wedding version by @abu.shalab, an account that posts an AI-made man into trending clips (15 October 2026): he dances onto the wedding dance floor, pops a small pastry into his mouth, chews with a dead-serious stare and dances away. The Wedding tab copies these moves with your face.
+  - Video: https://www.makeviral.ai/media/templates/bby-wow-guy-meme-ai/original-wedding-v2.mp4
+  - Poster: https://www.makeviral.ai/media/templates/bby-wow-guy-meme-ai/original-wedding-v1.jpg
 
 ## How to make the Bby Wow Guy video on MakeViral
 
@@ -85,6 +88,55 @@ The other guests stay as they are in the video, small and soft in the background
 2. Press Generate, then download the 9:16 MP4.
 
 One-tap version of this variant: https://www.makeviral.ai/templates/bby-wow-guy-ai-trend/create
+
+#### Variant: Wedding
+
+Settings: 1 photo (you, waist up, face clear) · Seedance 2.5 · 9 s · 720p · 9:16 · no sound · 137 credits in one tap.
+
+1. The video prompt is filled in. Settings: Seedance 2.5, 9 s, 720p, 9:16, sound off. The video prompt:
+
+   ```text
+   Recreate the reference video [Video 1] shot for shot: the same wedding reception hall at night with warm gold wall lights, round tables with tall white flower centerpieces, gold chairs, a photo light with a white umbrella on a stand, a shiny white dance floor with purple and green party lights and grown-up guests in evening dresses, headscarves, shirts and suits, the same handheld phone camera, the same vertical framing, timing and moves. The ONLY change: the man with the black bowl haircut and the thick black moustache in the long white robe who dances toward the camera, pops a small round pastry into his mouth, stares into the lens while he chews and dances away is now the person in [Image 1].
+
+The wedding guest = the person in [Image 1], in EVERY shot: copy the exact face from [Image 1] - face shape, eye color and eye shape, eyebrows, nose, mouth, skin tone, age, hair color, hair length and hairstyle, and any beard, moustache, glasses or freckles exactly as in the photo. The wedding guest wears exactly the clothes from [Image 1] in every shot: the same top with the same color, pattern and print, the same jacket, shirt or dress, front and back. NEVER the long white robe of the man in the video unless [Image 1] shows it. If [Image 1] does not show the legs, plain trousers that go with that top. The same real person in every frame, from the first second to the last, so their friends instantly recognize them, also in the big close-up while they chew. When only the back of the head shows, it has the hair from [Image 1]. Never morph, never drift back to the original man's face, hair or clothes. NO black bowl haircut, NO thick black moustache and NO long white robe unless [Image 1] shows them. If [Image 1] shows an animal, the wedding guest is that animal standing upright, with its own face, fur and markings and the natural body volume and proportions of that animal: never flattened, squashed, stretched or merged with anything.
+
+The wedding guest copies the man's moves and face second by second:
+0-2 s: dances in from the left toward the camera with loose, bouncy steps, arms swinging and shoulders swaying to the beat, past a guest in a cream shirt.
+2-3 s: close to the camera, holds up a small round golden pastry with one hand and looks at it.
+3-3.5 s: pops the whole pastry into the mouth on the beat.
+3.5-5.5 s: big close-up: chews with puffed cheeks, eyes wide, staring straight into the lens, dead serious.
+5.5-9 s: still chewing, turns around and dances away across the dance floor between the guests with the back to the camera, one hand up pointing at the ceiling at the end.
+
+The other guests stay as they are in the video, grown-ups, small and soft in the background; never put the face from [Image 1] on a guest. Anatomy rules: one head only, on the wedding guest's shoulders. Two arms and two hands, five fingers on each hand, one pastry. No text, no captions, no emojis, no logos, no watermark.
+   ```
+
+2. Press Generate, then download the 9:16 MP4.
+
+One-tap version of this variant: https://www.makeviral.ai/templates/bby-wow-guy-ai-trend/create?variant=wedding
+
+#### Variant: Funk Loading
+
+Settings: 1 photo (you, waist up, face clear) · Seedance 2.5 · 10 s · 720p · 9:16 · no sound · 152 credits in one tap.
+
+1. The video prompt is filled in. Settings: Seedance 2.5, 10 s, 720p, 9:16, sound off. The video prompt:
+
+   ```text
+   Recreate the reference video [Video 1] shot for shot: the same quinceañera party hall at night with purple, pink and green party lights, white curtains, flower centerpieces, gold chairs, a photo light on a stand and guests in party dresses and shirts, the same handheld phone camera, the same vertical framing, timing and moves. The ONLY change: the young man with the short dark hair and the silver chain who dances toward the camera, bites a small sweet bread, stares into the lens with full cheeks and dances away is now the person in [Image 1].
+
+The party guest = the person in [Image 1], in EVERY shot: copy the exact face from [Image 1] - face shape, eye color and eye shape, eyebrows, nose, mouth, skin tone, age, hair color, hair length and hairstyle, and any beard, moustache, glasses or freckles exactly as in the photo. The party guest wears exactly the clothes from [Image 1] in every shot: the same top with the same color, pattern and print, the same jacket, shirt or dress, front and back. NEVER the white T-shirt or the loose black pants of the young man in the video unless [Image 1] shows them. If [Image 1] does not show the legs, plain trousers that go with that top. The same real person in every frame, from the first second to the last, so their friends instantly recognize them, also in the big close-up while they chew. When only the back of the head shows, it has the hair from [Image 1]. Never morph, never drift back to the original young man's face or clothes. NO DAKITI letters, NO horse print, NO cross print and NO silver chain unless [Image 1] shows them. If [Image 1] shows an animal, the party guest is that animal standing upright, with its own face, fur and markings and the natural body volume and proportions of that animal: never flattened, squashed, stretched or merged with anything.
+
+The party guest copies the young man's moves and face second by second:
+0-2.5 s: dances in from the left toward the camera with loose, bouncy steps, shoulders swaying to the beat, between the guests.
+2.5-4 s: close to the camera, lifts a small round sweet bread to the mouth with one hand and takes a big bite.
+4-6.5 s: big close-up: chews with puffed cheeks, eyes wide, staring straight into the lens, dead serious.
+6.5-9.5 s: still chewing, turns around and dances away into the crowd with the back to the camera, one hand up.
+
+The other guests stay as they are in the video, small and soft in the background; never put the face from [Image 1] on a guest. Anatomy rules: one head only, on the party guest's shoulders. Two arms and two hands, five fingers on each hand, one sweet bread. No text, no captions, no emojis, no logos, no watermark.
+   ```
+
+2. Press Generate, then download the 9:16 MP4.
+
+One-tap version of this variant: https://www.makeviral.ai/templates/bby-wow-guy-ai-trend/create?variant=funk
 
 #### Variant: Baby
 
@@ -202,6 +254,8 @@ Your clip comes with the BbY WOW sound of the clip it copies, so it is ready to 
 
 **Caption ideas:** "Me at the quince I was not invited to", "When they bring out the conchas", "POV: the DJ plays BbY WOW", "La mirada preñadora". Or write your own.
 
+**Funk Loading:** since late October 2026 the same moves also go with the slowed "FUNK LOADING" sound by JXNDRO. Pick the Funk Loading tab and your clip comes with that song instead of BbY WOW.
+
 ## What goes wrong, and how do you fix it?
 
 | Problem | Fix |
@@ -235,6 +289,18 @@ It does the same job without the editing. The TikTok templates are green screen 
 
 Yes. The dime dime baby AI trend, which took off on 17 October 2026, puts another person into this quince clip with AI, to the BbY WOW song. Add one photo here and you get the same clip with your face, with no template to edit.
 
+### What other names does the bby wow guy meme have?
+
+People search for this one clip under many names:
+
+- **Dime dime baby dance**, from the hook of the song. The AI tutorials call it the original dime dime baby dance, or "efecto de IA del baile original dime dime baby" in Spanish, and Spanish posts also say "tendencia dime dime baby" or "dime dime baby con IA". Its TikTok tags are #dimedimebaby, #bailedimedimebaby and #tendenciadimedimebaby.
+- **Baby wow guy**, **bby wow meme guy** or **bby wow guy dancing and eating**, from the song "BbY WOW" and the bite of bread.
+- **Dominican papi dance**, the name some template tutorials use.
+- **Guy dancing at a quince**, the **concha meme** or the **pan dulce meme**, from the party and the sweet bread.
+- **El de la mirada preñadora** or **el chavo viral de la concha**, the names Mexican TikTok gave Eve Ramírez, the man in the clip.
+
+All of them are this clip, and this page makes it with your face. "Dime dime baby" is also the name of a second trend: the dance that friends film to the same song. That one has its own page, the [BbY WOW dance](https://www.makeviral.ai/templates/bby-wow-dance-ai-trend).
+
 ### What does he eat in the video?
 
 A concha, the Mexican sweet bread with a sugar shell. That is why it is also called the concha meme and the pan dulce meme, and why his bio says "el chavo viral de la concha".
@@ -254,6 +320,14 @@ Yes. Pick the Pet tab and add one photo of your dog or cat with the whole body i
 ### Can I make the bby wow guy video with my baby?
 
 Yes, with the Baby tab. Add one photo of your own baby or toddler, face clear. The baby toddles up at a quince party at night, bites a sweet bread with both hands, chews and stares into the camera, then toddles away. Use only a photo of your own child, or of a child whose parent or guardian asked you to. The video goes to My videos, not to a public feed.
+
+### Is there a wedding version of the bby wow guy meme?
+
+Yes, the Wedding tab. On 15 October 2026 the account @abu.shalab posted the meme moved to a wedding: a man in a long white robe dances onto the wedding dance floor, pops a small pastry into his mouth on the beat, chews with a dead-serious stare and dances away (760,300 views by 23 October). Abu Shalab is not a real person: the account puts the same AI-made man into trending clips. People now call this wedding pastry dance the bby wow wedding dance, the dime dime baby wedding version or the Abu Shalab pastry dance, and Spanish posts tag it dime dime baby boda. Add one photo of yourself, waist up, and you take his place in that clip, with the BbY WOW song; your own clothes stay, not his white robe. MakeViral is not linked with the account.
+
+### Is this the Funk Loading AI dance?
+
+Yes. The Funk Loading AI dance is this meme with a new sound: from late October 2026, edit accounts put cartoon characters into the bby wow guy's walk, bite and stare and set it to the slowed "FUNK LOADING" song by JXNDRO (also searched as funk loading slowed or phonk loading). A cartoon princess version posted on 1 November 2026 had 1.25 million plays by 4 November, and CapCut posts tagged funk loading dance ai, with a funk loading template, followed from 2 November. Pick the Funk Loading tab and add one photo of yourself, waist up, or of a character you made: you get the same moves in the quince party hall with the Funk Loading song, about 9.5 seconds at 720p. Use your own photo or a character you own, never a film character or a celebrity. MakeViral is not linked with the song or its artist.
 
 ### Which AI model makes the video?
 
@@ -276,6 +350,15 @@ Vertical makes about 9.5 seconds in 9:16, ready for TikTok and Reels. Square mak
 - [AI Reels](https://www.makeviral.ai/tools/ai-reels-generator): Pick a format, give it a topic or a product link, and get a finished vertical reel with voice and captions. Nothing to film, nothing to edit.
 - [AI photo generator](https://www.makeviral.ai/ai-photo-generator)
 - [All AI video templates](https://www.makeviral.ai/templates)
+
+## New AI video trends this week
+
+- [Christmas Dance AI: Do the New TikTok Christmas Dance From Your Photos](https://www.makeviral.ai/templates/christmas-dance-ai-trend): Hip sways with the hands at the collar, rolling arms, a quick spin and raised fists, side by side in matching Christmas pajamas. Add two photos for the duo, one for a solo take, or two pets, and get the dance with the sound.
+- [Cat on Ultra Bee AI: Put Your Pet on the Wheelie](https://www.makeviral.ai/templates/cat-on-ultra-bee-ai-trend): Add one photo, and your cat or dog stands on an electric dirt bike and holds a long wheelie down a city road at golden hour, in the same shots as the viral clip, with its original sound. You can take the ride yourself, too.
+- [Tus Ojos Me Reflejan el Sentimiento: The Cafuné Eye Close-Up Trend](https://www.makeviral.ai/templates/tus-ojos-me-reflejan-ai-trend): You lie on your side, a hand rests on your cheek, warm light falls on your face, and the camera slowly moves in until your eyes fill the screen while the line plays. One photo in, an 8-second vertical clip with the trend's song out.
+- [İnşallah Maşallah AI Trend: Sing Neşe Karaböcek's Song on the Couch](https://www.makeviral.ai/templates/insallah-masallah-ai-trend): You sit on a light grey couch and sing the old Turkish love song straight to the camera: a hand on the heart, a big laugh with both hands on your head, a finger pointed at the camera and a kiss at the end. One photo of you, a grandparent or your pet, and the 15-second clip comes with the song.
+- [Ice Ice Baby Dance AI: Do the Viral Duo Dance With a Friend](https://www.makeviral.ai/templates/ice-ice-baby-dance-ai): Two dancers side by side, the same bouncy 90s steps, a spin on the beat and a strut to the camera. Add a photo of you and a friend, of you alone, or of your pet, and get the dance with the sound.
+- [Save Yourself Trend: Pull Yourself Up From the Cliff](https://www.makeviral.ai/templates/save-yourself-ai-trend): One photo plays both of you: the scared you clinging to a wet sea cliff, and the calm you who reaches down, pulls you up and holds you. Or use two photos: an older photo of you and a new one, or you and a friend. 15 seconds, vertical.
 
 ## Make your own Bby Wow Guy video
 

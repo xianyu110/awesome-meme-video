@@ -1,0 +1,62 @@
+# Closed Door AI Trend: The Door Stays Shut, Every Wall Opens
+
+- Source: [makeviral](https://www.makeviral.ai/templates/closed-door-ai-trend)
+- Slug: `closed-door-ai-trend`
+
+The Closed Door AI trend is a short, sad AI film made from one photo: you knock on a locked black door in a dark hallway and cry, and while you beg, every wall around you opens onto a new world.
+
+## Demo videos (CDN)
+
+- https://www.makeviral.ai/media/templates/closed-door-ai-trend/example-main.mp4
+
+## Posters
+
+- https://www.makeviral.ai/media/templates/closed-door-ai-trend/example-main-input.jpg
+- https://www.makeviral.ai/media/templates/closed-door-ai-trend/example-main-poster.jpg
+
+## Prompts
+
+### 1. 1. The video prompt is filled in. Settings: Seedance 2.5, 15 s, 720p, 9:16, sound on. The video prompt
+
+*Kind: video_prompt*
+
+```text
+A cinematic, emotional short film in one hallway, filmed like a real film: a long, empty hallway with matte-black walls made of tall black panels, a black ceiling and a glossy black floor that reflects the light, and one tall closed black door at the far end. Cold, dim light inside the hallway. Photorealistic, natural skin and natural colors, gentle film grain, not CGI, not a cartoon, not a painting. Vertical 9:16. Close-ups keep the face large, sharp and well lit.
+
+The only person is the one in [Image 1], in every frame: copy the exact face from [Image 1] (the face shape, eye color and eye shape, eyebrows, nose, mouth, skin tone, age, hair color, hair length and hairstyle, and any beard, moustache, glasses or freckles). The face stays the same from the first frame to the last, also while crying, so friends recognize them at once. They wear an elegant floor-length evening gown in soft ivory satin with a fitted bodice, never the clothes from [Image 1]. If [Image 1] shows a man, he wears a tailored black suit with a white shirt instead of the gown, with his own face, hair and any beard.
+
+Shot 1 [0-2s]: a wide, symmetrical shot from behind, the camera low in the middle of the hallway: the person stands small in front of the closed black door at the far end and knocks on it with one fist. The door stays shut.
+Shot 2 [2-4.5s]: hard cut, a medium close-up beside the door, the face turned three-quarters to the camera: the eyes fill with tears, the lips tremble, one tear runs down the cheek.
+Shot 3 [4.5-7.5s]: hard cut, the same wide shot from behind: one by one, the tall black wall panels on the left and on the right swing open like giant doors, and bright daylight pours in: a calm lake below green mountains, then a white sand beach with soft waves. The person keeps facing the closed door.
+Shot 4 [7.5-10s]: hard cut, a close-up of the face, three-quarters to the camera, big and sharp: crying, a fist pressed against the lips, tears on the cheeks, the face fully visible.
+Shot 5 [10-12.5s]: hard cut, a medium shot from the side: one flat hand on the door, a last soft knock, then they slowly slide down the door and sit on the floor.
+Shot 6 [12.5-15s]: hard cut, a very wide shot from far behind and a little above: now every wall is open onto another world: a golden sunset over the sea, a meadow of wild flowers, a still lake under a pale moon. The person sits small against the closed door, and the camera slowly pushes in.
+
+The far door never opens. The worlds show only in the open side walls.
+
+Audio: an original slow, sad piano melody with soft strings that swells when the walls open, soft knocks on the door, quiet sobs, and distant waves and wind through the openings. No dialogue throughout the entire video. No lyrics, no singing.
+
+One head only, on the person's shoulders; two arms, two hands with five fingers each. Exactly one person. No other people anywhere, also not in the open worlds. No text, no subtitles, no captions, no logos, no watermark, no morphing.
+```
+
+### 2. 1. The video prompt is filled in. Settings: Seedance 2.5, 10 s, 720p, 9:16, sound on. The video prompt (Pet)
+
+*Kind: video_prompt*
+
+```text
+A cinematic, emotional short film in one hallway, filmed like a real film: a long, empty hallway with matte-black walls made of tall black panels, a black ceiling and a glossy black floor that reflects the light, and one tall closed black door at the far end. Cold, dim light inside the hallway. Photorealistic, natural fur and natural colors, gentle film grain, not CGI, not a cartoon, not a painting. Vertical 9:16. Close-ups keep the pet's face large, sharp and well lit.
+
+The only animal is the pet in [Image 1], in every frame: the same species and breed, face, eyes, ears, muzzle, fur colors, fur length and markings as in [Image 1], with the natural body volume and proportions of that animal: never flattened, squashed, stretched or merged with anything. It moves like a real animal, on four legs, with no clothes. It stays the same pet from the first frame to the last, so its owner recognizes it at once.
+
+Shot 1 [0-2s]: a wide, symmetrical shot from behind, the camera low in the middle of the hallway: the pet sits small in front of the closed black door at the far end and scratches at it with one front paw. The door stays shut.
+Shot 2 [2-4s]: hard cut, a close-up of the pet's face beside the door, three-quarters to the camera: big, glossy, sad eyes, the ears down, a soft whimper.
+Shot 3 [4-7s]: hard cut, the same wide shot from behind: one by one, the tall black wall panels on the left and on the right swing open like giant doors, and bright daylight pours in: a calm lake below green mountains, a white sand beach with soft waves, a golden sunset over the sea. The pet keeps looking at the closed door.
+Shot 4 [7-10s]: hard cut, a very wide shot from far behind and a little above: now every wall is open, each opening onto another world: a meadow of wild flowers, the sunset sea, a still lake under a pale moon. The pet lies down small against the closed door with its chin on its paws, and the camera slowly pushes in.
+
+The far door never opens. The worlds show only in the open side walls.
+
+Audio: an original slow, sad piano melody with soft strings that swells when the walls open, a soft scratching at the door, quiet whimpers, and distant waves and wind through the openings. No dialogue throughout the entire video. No lyrics, no singing.
+
+Exactly one animal, with one head and four legs. No people anywhere, also not in the open worlds. No text, no subtitles, no captions, no logos, no watermark, no morphing.
+```
+

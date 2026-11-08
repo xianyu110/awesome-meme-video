@@ -1,0 +1,83 @@
+# Just a Lil Bit Dance AI: Do the Viral Trio Groove From Your Photos
+
+- Source: [makeviral](https://www.makeviral.ai/templates/just-a-lil-bit-ai-dance)
+- Slug: `just-a-lil-bit-ai-dance`
+
+The Just a Lil Bit dance is a TikTok trio dance: three friends groove side by side, in sync, to the hook of the 50 Cent song.
+
+## Demo videos (CDN)
+
+- https://www.makeviral.ai/media/templates/just-a-lil-bit-ai-dance/original-main-v2.mp4
+
+## Posters
+
+- https://www.makeviral.ai/media/templates/just-a-lil-bit-ai-dance/original-main-v1.jpg
+
+## Prompts
+
+### 1. 1. The video prompt is filled in. Settings: Seedance 2.5, 15 s, 720p, 9:16, sound off. The video prompt
+
+*Kind: video_prompt*
+
+```text
+Recreate the reference video [Video 1] shot for shot: the same rain-wet outdoor court on a grey overcast day, the green mesh fence, the autumn trees with orange and yellow leaves behind it, the dancers' reflections in the wet ground, the same fixed phone camera, framing, timing and dance moves. One continuous shot, no cuts. The ONLY change: all three dancers are now the person in [Image 1], like three clones of the same person dancing in sync.
+
+[Image 1] replaces the man in the middle (black oversized T-shirt, black beanie), the man on the left (dark-blue jacket, maroon cap) and the man on the right (black track top, black cap), in EVERY frame: each of the three has the exact face from [Image 1] (the face shape, eye color and eye shape, eyebrows, nose, mouth, skin tone, age, hair color, hair length and hairstyle, and any beard, moustache, glasses or freckles). All three wear the clothes and shoes from [Image 1]. NO black beanie, no black oversized T-shirt and no moustache, NO maroon baseball cap and no dark-blue jacket, NO black cap and no black track top with white sleeve stripes unless [Image 1] shows them.
+
+The same real person three times, from the first second to the last, so their friends recognize them at once, also when the heads are bowed at the start. Never morph, never drift back to the original dancers' faces, never add facial hair. No one from the video stays.
+
+The dance, matching the reference second by second, on the beat, all three dancers in perfect sync: small bounces, heel and toe taps, loose shoulder grooves, a forward kick and the hand moves visible in the clip. Do not invent additional moves.
+0-2 s: the three stand side by side, heads down, a small bounce.
+2-7 s: small steps and heel taps, the hands loose by the waist, a shoulder groove.
+7-10 s: the arms swing up to the chest, then one leg kicks forward and they lean into it.
+10-15 s: a low groove with toe taps and the hands at the chest, then a hand comes up by the head at the end.
+
+Anatomy rules: one head per person, on that person's own shoulders. A face never appears on knees, legs, hands or clothes. Exactly three dancers. Natural balance, stable ground contact, the reflections follow the dancers. No extra dancers, duplicate bodies, extra limbs, fused fingers, text, logos or watermark, and no team logo or letter on any cap.
+```
+
+### 2. 1. The video prompt is filled in. Settings: Seedance 2.5, 15 s, 720p, 9:16, sound off. The video prompt
+
+*Kind: video_prompt*
+
+```text
+Recreate the reference video [Video 1] shot for shot: the same rain-wet outdoor court on a grey overcast day, the green mesh fence, the autumn trees with orange and yellow leaves behind it, the dancers' reflections in the wet ground, the same fixed phone camera, framing, timing and dance moves. One continuous shot, no cuts. The ONLY change: the dancer in the middle is now the person in [Image 1], and the two dancers on the left and on the right are both the person in [Image 2], like twins.
+
+Middle = [Image 1], in EVERY frame: [Image 1] replaces the man in the middle in the black oversized T-shirt and black beanie: copy the exact face from [Image 1] (the face shape, eye color and eye shape, eyebrows, nose, mouth, skin tone, age, hair color, hair length and hairstyle, and any beard, moustache, glasses or freckles). They wear the clothes and shoes from [Image 1]. NO black beanie, no black oversized T-shirt and no moustache unless [Image 1] shows them.
+
+Left and right = [Image 2], in EVERY frame: [Image 2] replaces the man on the left (dark-blue jacket, maroon cap) and the man on the right (black track top, black cap): both have the exact face from [Image 2] (the face shape, eye color and eye shape, eyebrows, nose, mouth, skin tone, age, hair color, hair length and hairstyle, and any beard, moustache, glasses or freckles), and both wear the clothes and shoes from [Image 2]. NO maroon baseball cap and no dark-blue jacket, NO black cap and no black track top with white sleeve stripes unless [Image 2] shows them.
+
+The same real people in every frame, so their friends recognize them at once, also when the heads are bowed at the start. Never morph, never drift back to the original dancers' faces. Do not mix the faces: [Image 1] is only the middle dancer, [Image 2] only the two side dancers. All three change: no one from the video stays.
+
+The dance, matching the reference second by second, on the beat, all three dancers in perfect sync: small bounces, heel and toe taps, loose shoulder grooves, a forward kick and the hand moves visible in the clip. Do not invent additional moves.
+0-2 s: the three stand side by side, heads down, a small bounce.
+2-7 s: small steps and heel taps, the hands loose by the waist, a shoulder groove.
+7-10 s: the arms swing up to the chest, then one leg kicks forward and they lean into it.
+10-15 s: a low groove with toe taps and the hands at the chest, then a hand comes up by the head at the end.
+
+Anatomy rules: one head per person, on that person's own shoulders. A face never appears on knees, legs, hands or clothes. Exactly three dancers. Natural balance, stable ground contact, the reflections follow the dancers. No extra dancers, duplicate bodies, extra limbs, fused fingers, text, logos or watermark, and no team logo or letter on any cap.
+```
+
+### 3. 1. The video prompt is filled in. Settings: Seedance 2.5, 15 s, 720p, 9:16, sound off. The video prompt
+
+*Kind: video_prompt*
+
+```text
+Recreate the reference video [Video 1] shot for shot: the same rain-wet outdoor court on a grey overcast day, the green mesh fence, the autumn trees with orange and yellow leaves behind it, the dancers' reflections in the wet ground, the same fixed phone camera, framing, timing and dance moves. One continuous shot, no cuts. The ONLY change: the three dancers are now the people in [Image 1], [Image 2] and [Image 3].
+
+Middle = [Image 1], in EVERY frame: [Image 1] replaces the man in the middle in the black oversized T-shirt and black beanie: the exact face from [Image 1] (the face shape, eye color and eye shape, eyebrows, nose, mouth, skin tone, age, hair color, hair length and hairstyle, and any beard, moustache, glasses or freckles), the clothes and shoes from [Image 1]. NO black beanie, no black oversized T-shirt and no moustache unless [Image 1] shows them.
+
+Left = [Image 2], in EVERY frame: [Image 2] replaces the man on the left in the dark-blue jacket and maroon cap: the exact face from [Image 2] (the face shape, eye color and eye shape, eyebrows, nose, mouth, skin tone, age, hair color, hair length and hairstyle, and any beard, moustache, glasses or freckles), the clothes and shoes from [Image 2]. NO maroon baseball cap and no dark-blue jacket unless [Image 2] shows them.
+
+Right = [Image 3], in EVERY frame: [Image 3] replaces the man on the right in the black track top and black cap: the exact face from [Image 3] (the face shape, eye color and eye shape, eyebrows, nose, mouth, skin tone, age, hair color, hair length and hairstyle, and any beard, moustache, glasses or freckles), the clothes and shoes from [Image 3]. NO black cap and no black track top with white sleeve stripes unless [Image 3] shows them.
+
+The same real people in every frame, so their friends recognize them at once, also when the heads are bowed at the start. Never morph, never drift back to the original dancers' faces. Do not swap places or merge identities. All three change: no one from the video stays.
+
+The dance, matching the reference second by second, on the beat, all three dancers in perfect sync: small bounces, heel and toe taps, loose shoulder grooves, a forward kick and the hand moves visible in the clip. Do not invent additional moves.
+0-2 s: the three stand side by side, heads down, a small bounce.
+2-7 s: small steps and heel taps, the hands loose by the waist, a shoulder groove.
+7-10 s: the arms swing up to the chest, then one leg kicks forward and they lean into it.
+10-15 s: a low groove with toe taps and the hands at the chest, then a hand comes up by the head at the end.
+
+Anatomy rules: one head per person, on that person's own shoulders. A face never appears on knees, legs, hands or clothes. Exactly three dancers. Natural balance, stable ground contact, the reflections follow the dancers. No extra dancers, duplicate bodies, extra limbs, fused fingers, text, logos or watermark, and no team logo or letter on any cap.
+```
+

@@ -1,0 +1,38 @@
+# Marigold Bridge AI: Their First Walk on the Puente de Cempasúchil
+
+- Source: [makeviral](https://www.makeviral.ai/templates/marigold-bridge-ai-trend)
+- Slug: `marigold-bridge-ai-trend`
+
+The marigold bridge AI trend turns a photo of someone you lost into a short 3D animated clip of their first Día de Muertos: they step onto the glowing bridge of cempasúchil petals and gather a handful in their hands.
+
+## Demo videos (CDN)
+
+- https://www.makeviral.ai/media/templates/marigold-bridge-ai-trend/original-main-v2.mp4
+
+## Posters
+
+- https://www.makeviral.ai/media/templates/marigold-bridge-ai-trend/original-main-v1.jpg
+
+## Prompts
+
+### 1. 1. Open [AI Photo with this template](https://www.makeviral.ai/photo?template=marigold-bridge-ai-trend) and add your photo (your loved one (an adult)). The photo prompt is filled in
+
+*Kind: photo_prompt*
+
+```text
+Use the uploaded image as the base. Turn the person in the photo into a warm 3D animated film character: a gentle, lifelike 3D version of themselves, like a scene from a modern animated feature film, with soft rounded shapes, slightly larger expressive eyes, smooth stylized skin and soft, warm cinematic light. Keep everything that makes them recognizable: the face shape, eye color, eyebrows, nose, mouth, skin tone, age, wrinkles, hairline, hair color, hair length and hairstyle, any beard, moustache, glasses, freckles or moles, and their own clothes with the colors and patterns from the photo, and any watch, ring, cap or hat. If the photo shows only the head or the upper body, add everyday trousers and shoes that go with the outfit. If the photo is an old black-and-white or faded print, give the character natural, warm colors. The place: night on a wide bridge carpeted with countless glowing orange marigold petals, under a deep blue night sky; a warm golden glow rises from the petals, and the far end of the bridge leads to a city of warm, glowing lights; a few small, blurry townspeople in festive clothes stand far behind, and single orange petals float in the air. The character stands on the bridge a few steps from a low camera, the whole body in view from the hair to the shoes, turned three-quarters to the camera, eyes open, with a calm, gentle expression. Their shoes sink a little into the glowing petals, which glow brighter around them. Vertical 9:16. Exactly one character: an original 3D animated version of this person, not an existing film or cartoon character. No skulls, no skeletons, no face paint, no wings, no halo. No text, no letters, no logos, no watermark, no frame. The face is always the warm 3D animated film face described above, never a photo face: the identity rules below apply to the 3D character's face shape, eyes, nose, mouth, skin tone, age, wrinkles, hair, facial hair, glasses and clothes.
+```
+
+### 2. 3. Press the film button on the still to open AI Video with the still as the first frame. Settings: Kling 3.0, 10 s, 1080p, 9:16, sound on. The video prompt
+
+*Kind: video_prompt*
+
+```text
+One continuous shot in a warm 3D animated film style, like a scene from a modern animated feature film, at night on the bridge of glowing orange marigold petals. Keep the character's face, hair, age, clothes and colors, and the bridge, the night sky and the city lights, exactly as in the image, in the same 3D animated look.
+0-3 s: the camera is low, at the height of their knees, and moves slowly back: the character takes their first slow, careful steps forward on the bridge; each step sinks softly into the petals and lights a warm golden glow under the shoe.
+3-5 s: they slow down, look down at the glowing petals with wonder and bend their knees to crouch; the camera rises gently with them.
+5-7 s: crouching, they brush the petals with both hands and gather a big handful of glowing marigold petals in their cupped hands.
+7-10 s: still crouching, they lift the glowing petals to their chest and look at them with a soft, moved smile; a few glowing petals lift off their hands and drift up into the night air like sparks.
+The character's face stays the same in every frame, large, sharp and warmly lit. Calm, gentle movements, never rushed. The small townspeople stay blurry far behind. Audio: a soft, warm original instrumental tune on a gentle guitar, the soft rustle of petals and a quiet night breeze; no singing, no speech. Exactly one character near the camera. No cuts, no extra hands or fingers, no morphing. No skulls, no skeletons, no face paint. No text, no subtitles, no logos, no watermark.
+```
+

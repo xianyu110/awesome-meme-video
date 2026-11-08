@@ -75,12 +75,26 @@ The pet looks exactly like its photo in every frame, from the first shot to the 
 Anatomy rules: one head per character, on its own body. No extra animals, no new text, no logos.
 ```
 
-### 6. 1. The video prompt is filled in. Settings: genjutsu-motion, 14 s, 480p, 9:16, sound off. The video prompt (Pet)
+### 6. 1. The video prompt is filled in. Settings: Seedance 2.5, 14 s, 720p, 9:16, sound off. The video prompt (Pet)
 
 *Kind: video_prompt*
 
 ```text
-Replace the tall knight in dark armor and the long red cape with the person from image 1: keep that face, hair and skin tone exactly, with no helmet. Replace the tiny kitten knight that holds the sword with the pet from image 2: keep its face, fur colors and markings exactly, with no bow. Both swords are plain steel, not glowing. Keep the armor, the capes, the moor, the sleeping dragon, the motion and the camera of the video.
+Recreate the reference video [Video 1] shot for shot: the same windy green moor under a grey sky, the same sleeping dragon on the far moor, the same camera, cuts, timing and moves. Two changes only: the tall knight in the dark armor and the long dark red cape is now the person in [Image 1], and the tiny kitten knight that holds the sword is now the pet in [Image 2]. Both change: no one from the video stays, also in the wide shots from behind.
+
+The tall knight = the person in [Image 1], in EVERY shot: copy the exact face from [Image 1] (the face shape, eye color and eye shape, eyebrows, nose, mouth, skin tone, age, hair color, hair length and hairstyle, and any beard, moustache, glasses or freckles), with no helmet. NO dark tousled hair unless [Image 1] shows it. Take only the face, the hair and the skin tone from [Image 1], never the clothes: the knight keeps the dark armor and the long dark red cape from the video. Never morph, never drift back to the original knight's face. If [Image 1] shows an animal too, the tall knight is that animal upright on its hind legs, in the same armor and cape, with its own face, fur and markings.
+
+The little knight = the pet in [Image 2], in EVERY shot: the same species and breed, face, eyes, ears, muzzle, fur colors, fur length and markings as in [Image 2], with the natural body volume and proportions of that animal: never flattened, squashed, stretched or merged with anything, in the same small silver armor, with no bow. Never drift back to the original kitten.
+
+Two different subjects: never blend the person and the pet. Each stays the same from the first frame to the last.
+
+The shots, matching the reference second by second:
+0-2 s: close on the little knight, who grips the tall sword in the wind.
+2-4 s: the camera rises past the tall knight's legs and sword.
+4-7 s: the tall knight stands beside the little knight, the face to the camera, the red cape in the wind.
+7-14 s: from behind, both look at the sleeping dragon, then run across the moor toward it.
+
+Both swords are plain steel, not glowing. Anatomy rules: one head per character, on its own body; the person has two arms and two legs. No text, no logos, no watermark.
 ```
 
 ### 7. 1. The video prompt is filled in. Settings: Seedance 2.5, 15 s, 720p, 9:16, sound off. The video prompt (Pet)
@@ -111,5 +125,21 @@ After the phone drops, the picture lies on its side exactly as in the video: the
 The pet looks exactly like its photo in every frame, from the first shot to the last. The red dragon stays exactly as in the video.
 
 Anatomy rules: one head per character, on its own body. No people, no text, no logos.
+```
+
+### 9. 1. The video prompt is filled in. Settings: Seedance 2.5, 15 s, 720p, 9:16, sound off. The video prompt
+
+*Kind: video_prompt*
+
+```text
+Recreate the reference video [Video 1] shot for shot: the same green field, the same fog, the same red dragon, the same phone selfie camera that drops to the grass, the same camera angles, cuts, timing and moves. The ONLY change: the kitten knight with the pink bow who sips the iced drink in the selfie and then stands up to the dragon is now the person in [Image 1].
+
+The knight = the person in [Image 1], in EVERY shot: copy the exact face from [Image 1] (the face shape, eye color and eye shape, eyebrows, nose, mouth, skin tone, age, hair color, hair length and hairstyle, and any beard, moustache, glasses or freckles), exactly as in the photo, so their friends instantly recognize them in the big selfie close-up at the start. A HUMAN head and face: never a cat head, no cat ears, no fur, no whiskers, no kitten face. NO pink bow, no hair clip and no ribbon unless [Image 1] shows one. The knight has the age and the body proportions of the person in [Image 1], never shrunk to a child's body. The knight wears the same silver plate armor as the kitten in the video in every shot, from the neck down, never the clothes from [Image 1]: the armor stays, only the one inside it changes. Human hands with five fingers hold the phone and the iced drink. It sips the iced drink, drops the phone and faces the dragon. The same real person in every frame, from the first second to the last. Never morph, never drift back to the kitten. If [Image 1] shows an animal, the knight is that animal, with its own face, fur and markings.
+
+After the phone drops, the picture lies on its side exactly as in the video: the grass, the little knight and the dragon are turned 90 degrees, as the fallen phone films them. Do not turn the picture upright. The knight stays small in front of the huge dragon, seen from behind, as in the video.
+
+The person looks exactly like their photo in every frame where the face shows. The red dragon stays exactly as in the video.
+
+Anatomy rules: one head per character, on its own body. Exactly one person, no other animals than the dragon. No text, no logos.
 ```
 

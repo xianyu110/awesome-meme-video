@@ -7,10 +7,16 @@ The Mi Chico dance is the TikTok trend to DJ Goja's 2026 hit "Mi Chico", remixed
 
 ## Demo videos (CDN)
 
+- https://www.makeviral.ai/media/templates/mi-chico-dance-ai-trend/example-crew.mp4
+- https://www.makeviral.ai/media/templates/mi-chico-dance-ai-trend/example-petcrew.mp4
 - https://www.makeviral.ai/media/templates/mi-chico-dance-ai-trend/original-pet-v2.mp4
 
 ## Posters
 
+- https://www.makeviral.ai/media/templates/mi-chico-dance-ai-trend/example-crew-input.jpg
+- https://www.makeviral.ai/media/templates/mi-chico-dance-ai-trend/example-crew.jpg
+- https://www.makeviral.ai/media/templates/mi-chico-dance-ai-trend/example-petcrew-input.jpg
+- https://www.makeviral.ai/media/templates/mi-chico-dance-ai-trend/example-petcrew-poster.jpg
 - https://www.makeviral.ai/media/templates/mi-chico-dance-ai-trend/original-pet-v1.jpg
 
 ## Prompts
@@ -49,7 +55,33 @@ The dance, matching the reference second by second, on the beat, both dancers in
 Anatomy rules: one head per person, on that person's own shoulders. A face never appears on knees, legs, hands or clothes. Exactly two people. Natural balance, stable ground contact. No extra dancers, duplicate bodies, extra limbs, fused fingers, text, logos or watermark.
 ```
 
-### 3. 1. The video prompt is filled in. Settings: Seedance 2.5, 14 s, 720p, 9:16, sound off. The video prompt (Pet)
+### 3. 1. The video prompt is filled in. Settings: Seedance 2.5, 15 s, 720p, 9:16, sound on. The video prompt
+
+*Kind: video_prompt*
+
+```text
+Animate the three people in [Image 1], [Image 2] and [Image 3] into a 15-second crew dance video on the rooftop parking lot at sunset, as one continuous handheld shot. No text or logos. Photorealistic, identity consistent for the whole clip. Vertical 9:16, like a real phone video.
+
+Map the three friends from viewer-left to viewer-right and keep those identity assignments fixed in every shot. The friend in the MIDDLE, who takes the selfie, is the person in [Image 1], in every frame: copy the exact face from [Image 1] (the face shape, eye color and eye shape, eyebrows, nose, mouth, skin tone, age, hair color, hair length and hairstyle, and any beard, moustache, glasses or freckles). The friend on the LEFT is the person in [Image 2]: copy the exact face from [Image 2]. The friend on the RIGHT is the person in [Image 3]: copy the exact face from [Image 3]. All three are adults. Never blend their faces, never transfer a face; each keeps their own face, hair and build from the first frame to the last, also in the huddle and the selfie, so their friends recognize them at once. Each wears the clothes from their own photo; what a photo does not show is casual streetwear with baggy trousers and sneakers. If an image shows an animal, that friend is that animal, upright, with its own face and fur.
+
+The place: the rooftop parking lot at sunset: the empty top deck of a parking garage, grey concrete with faded white lines, a low wall at the edge, tall street lamps that start to glow, low buildings far away, a clear sky from blue to warm orange. No cars, no signs, no other people.
+
+The shots, one take on the beat:
+0-2.5 s: the phone lies on the ground, looking up at the sky: the three friends lean in over it in a tight circle, looking down into the lens with big grins, pointing at it and flashing peace signs.
+2.5-5 s: the person in [Image 1] grabs the phone for a selfie at arm's length: a close, smiling selfie, the other two just behind; then a hand sweeps across the lens in a quick blur.
+5-15 s: a wide shot at chest height that drifts in a slow arc: all three in a row, head to sneakers, [Image 1] in the middle a half step in front, dance in sync:
+5-7 s: a point at the camera, then both hands roll over the stomach and up the chest.
+7-9 s: chest brushes and arm rolls, small steps from side to side with hip sways.
+9-11 s: a clap above the head, then quick punches toward the camera.
+11-13 s: both hands up beside the head, framing the face, a quick hair flip.
+13-15 s: both hands behind the head, elbows wide, a sway into the end pose with big smiles, all three faces large and sharp.
+
+Audio: an original upbeat Afro house beat with shakers and hand claps, soft laughter in the huddle; no known song, no lyrics, no singing, no talking.
+
+Exactly three people: no fourth person, never merge bodies. NO ROLE SWAP. No famous people, no children. No sunglasses or hats unless a photo shows them. Five fingers per hand. No foot sliding, no outfit flicker. No captions, no logos, no watermark.
+```
+
+### 4. 1. The video prompt is filled in. Settings: Seedance 2.5, 14 s, 720p, 9:16, sound off. The video prompt (Pet)
 
 *Kind: video_prompt*
 
@@ -70,5 +102,33 @@ The pet reproduces the bunny's full dance frame by frame with the same timing, w
 12-14 s: little fists at the belly with a bounce, then one paw out toward the camera.
 
 The pet keeps real animal anatomy: furry front legs ending in round paws covered in its own fur, never human hands, no bare skin, no fingers. One head only, two hind legs and two front legs, no extra legs or paws. No text, no captions, no logos, no watermark, no people, no extra animals.
+```
+
+### 5. 1. The video prompt is filled in. Settings: Seedance 2.5, 15 s, 720p, 9:16, sound off. The video prompt (Pet)
+
+*Kind: video_prompt*
+
+```text
+Animate the five pets in [Image 1] to [Image 5] into a 15-second dance video on the rooftop parking lot at sunset, as one continuous handheld shot. No text or logos. Photorealistic, identity consistent for the whole clip. Vertical 9:16, like a real phone video.
+
+Use exactly FIVE animals, each image the sole reference for one, in fixed places from viewer-left to viewer-right: [Image 4] far left, [Image 2] left, [Image 1] in the MIDDLE (it grabs the phone), [Image 3] right, [Image 5] far right. Maintain exactly FIVE animals in every scene. Do not add, remove, merge or duplicate characters. If two images show the same animal, it dances in both places, as look-alike twins.
+
+Each pet is the animal in its own image, in every frame, the same species and breed. Preserve its real facial markings, ears, muzzle, eyes, fur colors and body proportions, with the natural body volume of that animal: never flattened, squashed, stretched or merged, so its owner knows it at once. Never blend two pets or move markings from one to another. Each must remain a real-looking animal, not a human, an animated mascot or a cartoon, no clothes. It may perform a playful stylized upright dance while retaining recognizable animal anatomy: furry front legs with round paws, never human hands.
+
+The place: the rooftop parking lot at sunset: the empty top deck of a parking garage, grey concrete with faded white lines, a low wall at the edge, tall street lamps that start to glow, low buildings far away, a clear sky from blue to warm orange. No cars, no signs, no other people.
+
+One continuous take, timed on the beat:
+[0-2.5s]: the phone lies on the ground, looking up at the sky: the five pets lean in over it in a tight circle, looking down into the lens.
+[2.5-5s]: the pet from [Image 1] grabs the phone in its front paws for a close selfie, the other four just behind it; then a paw sweeps across the lens.
+[5-15s]: a low wide shot drifting in a slow arc: all five in a row, upright on their hind legs, head to toes, [Image 1] a half step in front, dance in sync:
+5-7 s: a paw points at the camera, then both paws roll over the belly and up the chest.
+7-9 s: chest brushes and paw rolls, small side hops with hip sways.
+9-11 s: a clap above the head, then quick paw punches toward the camera.
+11-13 s: both paws up beside the head, framing the face.
+13-15 s: both paws behind the head, a sway into the end pose, all five faces large and sharp.
+
+No dialogue throughout the entire video. No background music: a song is put on afterwards.
+
+STRICTLY AVOID: identity changes, face swapping between characters, missing characters, extra people, extra animals, duplicate limbs, distorted faces, humanized animals, captions, logos, watermarks.
 ```
 

@@ -1,0 +1,102 @@
+# Spider Filter Prank: A Big Hairy Spider Lands on Their Face
+
+- Source: [makeviral](https://www.makeviral.ai/templates/spider-filter-prank-ai-trend)
+- Slug: `spider-filter-prank-ai-trend`
+
+The spider filter prank is the TikTok prank where a big hairy spider appears on someone's face on the phone screen and crawls toward their eyes, and their panic is the whole post.
+
+## Demo videos (CDN)
+
+- https://www.makeviral.ai/media/templates/spider-filter-prank-ai-trend/original-clip-v2.mp4
+
+## Posters
+
+- https://www.makeviral.ai/media/templates/spider-filter-prank-ai-trend/original-clip-v1.jpg
+
+## Prompts
+
+### 1. 1. The video prompt is filled in. Settings: Seedance 2.5, 10 s, 720p, 9:16, sound on. The video prompt
+
+*Kind: video_prompt*
+
+```text
+A big hairy spider drops onto the face of the person in [Image 1]. They scream, swat at their face and jump up from the table: a spider filter prank video, filmed like a real phone video that a friend holds facing the person, in one continuous shot with no cuts. Photorealistic, fine phone-camera grain.
+
+The person = the person in [Image 1], in EVERY frame: copy the exact face from [Image 1] - face shape, eye color and eye shape, eyebrows, nose, mouth, skin tone, age, hair color, hair length and hairstyle, and any beard, moustache, glasses or freckles exactly as in the photo. The person wears the clothes and the hair from [Image 1]. The same face from the first frame to the last, so their friends recognize them at once, also while they scream with the mouth wide open, swat at their face and jump up. Never morph. If [Image 1] shows an animal, the person is that animal, with its own face, fur and markings and the natural body volume and proportions of that animal: never flattened, squashed, stretched or merged with anything.
+
+The place is the place in [Image 1], with the same table or sofa, walls and light; if [Image 1] shows little of the place, a home kitchen table in the evening with a plate and a glass in front of the person. The person sits close to the camera, framed from the chest up, the face large and sharp.
+
+The spider: one big, realistic hairy spider about the size of a palm, dark brown and black, with a round hairy body and eight long, thick, hairy legs that move one by one. It looks like a phone camera spider filter: sharp, lit like the room and stuck to the face as it moves.
+0-3 s: the person sits relaxed at the table, chatting and smiling at the camera, unaware.
+3-5 s: the spider drops onto the person's forehead from above and crawls slowly down across the cheek toward the eye and the nose.
+5-7 s: the person freezes, eyes wide, feels it, then screams and swats at their face and hair with both hands.
+7-10 s: the person jumps up from the table and steps back, shaking their hands and brushing their hair and shoulders, then stares at the camera, breathing hard, half laughing.
+
+Audio: quiet room tone, the person's casual chatter, a loud scream, then breathless laughter from the friend holding the phone. No music, no lyrics.
+
+A handheld phone camera that shakes a little when the person jumps up. Exactly one person and one spider. The spider stays on the skin or in the air and never goes into the mouth, the nose or the eyes. No bite, no blood, no wound, no gore, no swarm of spiders, no extra limbs, no morphing. No text, no captions, no logos, no watermark, no app interface.
+```
+
+### 2. 1. The video prompt is filled in. Settings: Seedance 2.5, 13 s, 720p, 9:16, sound off. The video prompt
+
+*Kind: video_prompt*
+
+```text
+Recreate the reference video [Video 1] shot for shot: the same close, selfie-style front phone camera held low, the same living room with a sloped white ceiling, a yellow sofa, a dark wooden door and a dining room with high-backed chairs behind, the same framing, timing, head moves, steps and mouth moves, and the same big spider crawling over the face. The ONLY change: the older woman in the patterned dress is now the person in [Image 1].
+
+The person = the person in [Image 1], in EVERY frame: copy the exact face from [Image 1] - face shape, eye color and eye shape, eyebrows, nose, mouth, skin tone, age, hair color, hair length and hairstyle, and any beard, moustache, glasses or freckles exactly as in the photo. The person wears the clothes and the hair from [Image 1]; if [Image 1] shows only the head or the upper body, invent the rest so it matches naturally. The same real person in every frame, from the first second to the last, so their friends instantly recognize them, also when they grab at their head, when the camera swings and when they walk away across the room. Never morph, never drift back to the original woman's face. NO short curly black hair, NO glasses and NO patterned dress unless [Image 1] shows them. If [Image 1] shows an animal, the person is that animal, with its own face, fur and markings and the natural body volume and proportions of that animal: never flattened, squashed, stretched or merged with anything.
+
+THE SPIDER stays exactly as in [Video 1]: a big dark hairy spider with long legs that appears on the person's face at about 5 seconds and crawls over the forehead and the cheek beside the eye, stuck to the face like a phone camera filter. It never covers the whole face.
+
+0-5 s: a close selfie from below; the person looks into the phone with a doubtful frown and talks.
+5-7 s: the spider crawls across the face; the person sees it on the screen, then grabs at their head and hair with both hands.
+7-8.5 s: the camera swings around and the face passes close and blurred.
+8.5-12.6 s: the camera pulls back: the person walks away through the dining room, picks up a round white lid and holds it up like a shield, swinging it toward the camera, half angry, half laughing.
+
+One head only, on the person's shoulders. Exactly one person and one spider. No text, no captions, no logos, no watermark, no blurred patches.
+```
+
+### 3. 1. The video prompt is filled in. Settings: Seedance 2.5, 10 s, 720p, 9:16, sound on. The video prompt
+
+*Kind: video_prompt*
+
+```text
+A big hairy spider drops from the ceiling on a silk thread right in front of the person in [Image 1] and lands on their face. They scream, swat at their face and jump up from the sofa: a spider prank video, filmed like a real phone video at home, in one continuous shot with no cuts. Photorealistic, fine phone-camera grain.
+
+The person = the person in [Image 1], in EVERY frame: copy the exact face from [Image 1] - face shape, eye color and eye shape, eyebrows, nose, mouth, skin tone, age, hair color, hair length and hairstyle, and any beard, moustache, glasses or freckles exactly as in the photo. The person wears the clothes and the hair from [Image 1]. The same face from the first frame to the last, so their friends recognize them at once, also while they look up, scream with the mouth wide open and jump. Never morph. If [Image 1] shows an animal, the person is that animal, with its own face, fur and markings and the natural body volume and proportions of that animal: never flattened, squashed, stretched or merged with anything.
+
+The place is the place in [Image 1], with the same sofa or chair, walls and light; if [Image 1] shows little of the place, a cozy living room sofa in the evening with a lamp on. The person sits close to the camera, framed from the waist up, the face large and sharp, with some empty space above the head.
+
+The spider: one big, realistic hairy spider about the size of a palm, dark brown and black, with a round hairy body and eight long, thick, hairy legs that move one by one, hanging from one thin, shiny silk thread.
+0-3 s: the person relaxes on the sofa, looking at a phone in their hand with a small smile, unaware.
+3-5 s: the spider lowers slowly from the ceiling on its thread, turning a little, and stops right in front of the person's face, at eye level.
+5-7 s: the person looks up from the phone, sees the spider an inch from the nose and freezes; the spider drops onto the cheek; the person screams and swats it away with both hands.
+7-10 s: the person leaps off the sofa, hopping on the spot and brushing their hair, face and shoulders, then points at the sofa, wide-eyed, breathing hard.
+
+Audio: quiet room tone, a soft rustle, a loud scream, then laughter from the person filming. No music, no lyrics.
+
+A handheld phone camera that shakes a little when the person jumps up. Exactly one person and one spider. The spider stays on the skin or in the air and never goes into the mouth, the nose or the eyes. No bite, no blood, no wound, no gore, no swarm of spiders, no extra limbs, no morphing. No text, no captions, no logos, no watermark, no app interface.
+```
+
+### 4. 1. The video prompt is filled in. Settings: Seedance 2.5, 10 s, 720p, 9:16, sound on. The video prompt (Pet)
+
+*Kind: video_prompt*
+
+```text
+A big hairy spider drops down right in front of the pet in [Image 1]: the pet sees the spider and jumps back in shock, a funny pet reaction video, filmed like a real phone video at home, in one continuous shot with no cuts. Photorealistic, fine phone-camera grain.
+
+The pet = the pet in [Image 1], in EVERY frame: the same species and breed, face, eyes, ears, muzzle, fur colors, fur length and markings as in [Image 1], with the natural body volume and proportions of that animal: never flattened, squashed, stretched or merged with anything. The same pet from the first frame to the last, so its owner recognizes it at once, also when it jumps. If [Image 1] shows a person, that person does the same reaction with their own face from [Image 1].
+
+The place is the place in [Image 1], with the same floor, sofa or bed, walls and light; if [Image 1] shows little of the place, a living room floor in soft daylight. The pet sits close to the camera, its whole body in view and its face large and sharp.
+
+The spider: one big, realistic hairy spider about the size of a palm, dark brown and black, with a round hairy body and eight long, thick, hairy legs that move one by one, hanging from one thin, shiny silk thread.
+0-3 s: the pet sits relaxed, looking around, ears up, calm.
+3-5 s: the spider lowers slowly on its thread from above and stops right in front of the pet's nose, then lands on the floor and takes a few steps toward the pet.
+5-7 s: the pet freezes and stares at the spider with wide eyes, then jumps straight up and back in shock, ears flat, fur puffed.
+7-10 s: the pet lands a little further away, crouches low, stretches out one paw to tap at the spider very carefully, and pulls the paw back fast; the spider stays on the floor.
+
+Audio: quiet room tone, a startled meow, yelp or squeak from the pet, and a person laughing off camera. No music, no lyrics.
+
+A handheld phone camera, slightly low, at the pet's eye level. Exactly one pet and one spider. The pet is never hurt and never bitten, and the spider never touches its eyes. No blood, no wound, no swarm of spiders, no extra legs, no morphing. No text, no captions, no logos, no watermark.
+```
+

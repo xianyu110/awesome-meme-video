@@ -133,8 +133,8 @@ Pet and Human each copy a viral reel of the trend, and your photo takes the plac
 | | Pet | Human |
 |---|---|---|
 | Photo | Your pet | You |
-| How it works | Seedance 2.5 puts your pet into the reel itself | Standard: Seedance 2.0 Mini makes a new clip that follows the reel. Best: MiniMax H3 Max Recast puts you into the reel itself |
-| Length and frame | 15 s, vertical, 720p | 15 s, vertical, 720p (Standard) or 768p (Best) |
+| How it works | Seedance 2.5 puts your pet into the reel itself | Standard: Seedance 2.0 Mini makes a new clip that follows the reel. Best: top-quality AI video models put you into the reel itself |
+| Length and frame | 15 s, vertical, 720p | 15 s, vertical, 720p |
 | Sound | The reel's song, put back on after the run | The reel's song, put back on after the run |
 
 The exact price shows on the Generate button before you spend anything. Every run is a new take, so results differ.
@@ -197,7 +197,7 @@ No. The dancing in these clips is made with AI: the how-to posts of the trend st
 
 ### How long is the video and what format is it?
 
-Both versions make 15 seconds as a vertical 9:16 MP4 file with the trend song: 720p for Pet, and 720p (Standard) or 768p (Best) for Human. You can turn the song off on the result screen.
+Both versions make 15 seconds as a vertical 9:16 MP4 file with the trend song: 720p for Pet and for Human. You can turn the song off on the result screen.
 
 ### Will Beyoncé be in my video?
 
@@ -205,13 +205,22 @@ No. The reels are TikTok creators' own posts, and your photo replaces the one in
 
 ## Other AI video templates and tools
 
+- [Dog Dance Crew AI: Your Dog Leads the Crew](https://www.makeviral.ai/templates/dog-dance-crew-ai-trend): Your dog joins a crew of four dogs on a glossy black stage and leads the routine: the bow, the head bobs, the head tosses and the side tilts, all in sync. One photo in, a 15-second clip with the song out.
 - [AI Dog Dancing Video: Make Your Pet Dance](https://www.makeviral.ai/templates/ai-dancing-dog-video): Your dog or cat stands up on its hind legs at home and does a happy, bouncy dance. One pet photo in, a 10-second clip with an original beat out.
 - [Nicole Kidman Dance AI: Do the Viral Routine With One Photo](https://www.makeviral.ai/templates/nicole-kidman-dance-ai-trend): Hands to the chest, a hip sway, both arms up and a spin with a hair flip: the viral routine to ADÉLA's "Nicole Kidman". Add one photo of you or your pet and get the dance with the song.
-- [Tecktonik Dance AI: Your Turn on the String-Light Stage](https://www.makeviral.ai/templates/tecktonik-dance-ai-trend): Arms out wide, hands to the head, both arms up, then a flurry of sharp arm moves on a small stage under string lights: the 2000s electro dance that Cheba Man brought back in 2026. Add one photo of you or your pet and get the dance with the song.
 - [AI TikTok Video](https://www.makeviral.ai/tools/ai-tiktok-video-generator): Eight native TikTok formats, one prompt or product URL, a finished 9:16 video with captions burned in.
 - [AI Reels](https://www.makeviral.ai/tools/ai-reels-generator): Pick a format, give it a topic or a product link, and get a finished vertical reel with voice and captions. Nothing to film, nothing to edit.
 - [AI photo generator](https://www.makeviral.ai/ai-photo-generator)
 - [All AI video templates](https://www.makeviral.ai/templates)
+
+## New AI video trends this week
+
+- [Christmas Dance AI: Do the New TikTok Christmas Dance From Your Photos](https://www.makeviral.ai/templates/christmas-dance-ai-trend): Hip sways with the hands at the collar, rolling arms, a quick spin and raised fists, side by side in matching Christmas pajamas. Add two photos for the duo, one for a solo take, or two pets, and get the dance with the sound.
+- [Cat on Ultra Bee AI: Put Your Pet on the Wheelie](https://www.makeviral.ai/templates/cat-on-ultra-bee-ai-trend): Add one photo, and your cat or dog stands on an electric dirt bike and holds a long wheelie down a city road at golden hour, in the same shots as the viral clip, with its original sound. You can take the ride yourself, too.
+- [Tus Ojos Me Reflejan el Sentimiento: The Cafuné Eye Close-Up Trend](https://www.makeviral.ai/templates/tus-ojos-me-reflejan-ai-trend): You lie on your side, a hand rests on your cheek, warm light falls on your face, and the camera slowly moves in until your eyes fill the screen while the line plays. One photo in, an 8-second vertical clip with the trend's song out.
+- [İnşallah Maşallah AI Trend: Sing Neşe Karaböcek's Song on the Couch](https://www.makeviral.ai/templates/insallah-masallah-ai-trend): You sit on a light grey couch and sing the old Turkish love song straight to the camera: a hand on the heart, a big laugh with both hands on your head, a finger pointed at the camera and a kiss at the end. One photo of you, a grandparent or your pet, and the 15-second clip comes with the song.
+- [Ice Ice Baby Dance AI: Do the Viral Duo Dance With a Friend](https://www.makeviral.ai/templates/ice-ice-baby-dance-ai): Two dancers side by side, the same bouncy 90s steps, a spin on the beat and a strut to the camera. Add a photo of you and a friend, of you alone, or of your pet, and get the dance with the sound.
+- [Save Yourself Trend: Pull Yourself Up From the Cliff](https://www.makeviral.ai/templates/save-yourself-ai-trend): One photo plays both of you: the scared you clinging to a wet sea cliff, and the calm you who reaches down, pulls you up and holds you. Or use two photos: an older photo of you and a new one, or you and a friend. 15 seconds, vertical.
 
 ## Make your own Single Ladies Dog video
 

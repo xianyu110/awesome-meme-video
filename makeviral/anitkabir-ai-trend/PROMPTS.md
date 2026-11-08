@@ -1,0 +1,74 @@
+# Anıtkabir Yapay Zeka: You in Front of the Colonnade, for 29 Ekim and 10 Kasım
+
+- Source: [makeviral](https://www.makeviral.ai/templates/anitkabir-ai-trend)
+- Slug: `anitkabir-ai-trend`
+
+Anıtkabir yapay zeka is a Turkish AI photo and video trend: you appear full body in front of the colonnade of Anıtkabir, the mausoleum of Atatürk in Ankara, in sunny daylight.
+
+## Demo videos (CDN)
+
+- https://www.makeviral.ai/media/templates/anitkabir-ai-trend/example-v1.mp4
+
+## Posters
+
+- https://www.makeviral.ai/media/templates/anitkabir-ai-trend/example-v1-input.jpg
+- https://www.makeviral.ai/media/templates/anitkabir-ai-trend/example-v1-poster.jpg
+
+## Prompts
+
+### 1. 1. Open [AI Photo with this template](https://www.makeviral.ai/photo?template=anitkabir-ai-trend) and add your photo (you, full body if you can, face clear). The photo prompt is filled in
+
+*Kind: photo_prompt*
+
+```text
+Geniş açıyla, gün ışığında çekilmiş, ön planda şık bir kişinin durduğu gerçekçi ve sinematik bir fotoğraf. Ön plandaki kişi, yüklenen fotoğraftaki kişidir. Arka planda Ankara'daki, Türkiye Cumhuriyeti'nin kurucusunun anıt mezarının heybetli mimarisi: düz ve yalın bir saçağın taşıdığı uzun bir sıra yüksek, kare kesitli, açık bej kalker sütun ve önünde geniş taş merdivenler, merdivenlerde ve girişte toplanmış kalabalık insanlar küçük ve uzakta, net bir şekilde görülüyor. Kişi kadınsa, baştan aşağı zarif beyaz bir takım giymiş: kemerli ceket, geniş paça pantolon, beyaz topuklu ayakkabılar. Kişi erkekse, siyah takım elbise, beyaz gömlek ve gri kravat giymiş, siyah klasik ayakkabılar giyiyor. Kişi meydanın ortasında dik ve gururlu duruyor: kollar yanlarda rahat, vücudu ve yüzü kameraya dönük, yüzünde sakin bir gülümseme. Kamera göğüs hizasında, birkaç adım geride. Zeminde mozaik desenli taş kaplama detayları belirgin. Gökyüzü hafif bulutlu, güneş parlak, atmosfer net ve kontrastlı, yüksek çözünürlüklü, derinlik hissi güçlü. Yüzler net ve kameraya dönük, güneş gözlüğü yok; herkes baştan ayakkabılara kadar tam boy görünüyor. Sakin, saygılı ve gururlu bir an: dans, zıplama veya şaka pozu yok. Fotoğrafta herhangi bir kişinin portresi, heykel yüzü, bayrak, yazı, tabela veya logo yok. Dikey 9:16.
+```
+
+### 2. 3. Press the film button on the still to open AI Video with the still as the first frame. Settings: Kling 3.0, 5 s, 1080p, 9:16, sound on. The video prompt
+
+*Kind: video_prompt*
+
+```text
+Use the image as the first frame and keep everything in it: the same person, face, hair and clothes, the long colonnade of tall square stone columns, the wide stone stairs, the patterned stone square and the bright sunlight. A calm, dignified moment on a sunny day. The person stays in the same place, full body: they breathe in, straighten up a little, lift the chin slightly and give a small, calm, proud smile to the camera. A light breeze moves their hair and the edge of their jacket. Far behind them, small visitors walk slowly on the stairs and the square. The camera pushes in very slowly and stays level. The building stays exactly as it is: the columns stay straight, still and evenly spaced, nothing bends, melts or moves. No dancing, no waving, no salute, no jumping. Nobody comes close. Audio: soft wind, a distant crowd murmur and a calm, original piano melody. No speech. One continuous shot, no cuts, five fingers on each hand, no morphing. The same face from the first frame to the last. No text, no logos, no flags, no portrait or statue of a person.
+```
+
+### 3. Prompt 3
+
+*Kind: prompt*
+
+```text
+Geniş açıyla, gün ışığında çekilmiş, ön planda şık bir çiftin yürüdüğü gerçekçi ve sinematik bir fotoğraf. Ön plandaki iki kişi, yüklenen 1. ve 2. fotoğraftaki kişilerdir: 1. fotoğraftaki kişi solda, 2. fotoğraftaki kişi sağda; yüzlerini asla birbirine karıştırma. Arka planda Ankara'daki, Türkiye Cumhuriyeti'nin kurucusunun anıt mezarının heybetli mimarisi: düz ve yalın bir saçağın taşıdığı uzun bir sıra yüksek, kare kesitli, açık bej kalker sütun ve önünde geniş taş merdivenler, merdivenlerde ve girişte toplanmış kalabalık insanlar net bir şekilde görülüyor. Her kadın, baştan aşağı zarif beyaz bir takım giymiş: kemerli ceket, geniş paça pantolon, beyaz topuklu ayakkabılar. Soldaki kişi elinde sapları yeşil, çiçekleri beyaz olan bir buket taşıyor. Her erkek, siyah takım elbise, beyaz gömlek ve gri kravat giymiş. Siyah klasik ayakkabılar giyiyor. Çift, el ele tutuşmuş, özgüvenle kameraya doğru yürüyor. Zeminde mozaik desenli taş kaplama detayları belirgin. Gökyüzü hafif bulutlu, atmosfer net ve kontrastlı, yüksek çözünürlüklü, derinlik hissi güçlü. Tam olarak iki kişi ön planda. Yüzler net ve kameraya dönük, güneş gözlüğü yok; herkes baştan ayakkabılara kadar tam boy görünüyor. Sakin, saygılı ve gururlu bir an: dans, zıplama veya şaka pozu yok. Fotoğrafta herhangi bir kişinin portresi, heykel yüzü, bayrak, yazı, tabela veya logo yok. Dikey 9:16.
+```
+
+### 4. 3. Press the film button on the still to open AI Video with the still as the first frame. Settings: Kling 3.0, 5 s, 1080p, 9:16, sound on. The video prompt
+
+*Kind: video_prompt*
+
+```text
+Use the image as the first frame and keep everything in it: the same two people, their faces, hair and clothes, the flowers, the long colonnade of tall square stone columns, the wide stone stairs, the patterned stone square and the bright sunlight. A calm, happy moment on a sunny day. The two walk slowly and calmly hand in hand toward the camera across the stone square: three or four natural steps, then they stop side by side and look into the camera with calm, warm smiles. A light breeze moves their hair and clothes. Far behind them, small visitors walk slowly on the stairs and the square. The camera moves slowly backward with them and stays level, so both stay full body from head to shoes. The building stays exactly as it is: the columns stay straight, still and evenly spaced, nothing bends, melts or moves. Each person keeps their own face in every frame; never blend their faces, never swap their places. No dancing, no running, no waving, no salute. Audio: footsteps on stone, soft wind, a distant crowd murmur and a calm, original piano melody. No speech. One continuous shot, no cuts, five fingers on each hand, no morphing. No text, no logos, no flags, no portrait or statue of a person.
+```
+
+### 5. 1. Open [AI Photo with this template](https://www.makeviral.ai/photo?template=anitkabir-ai-trend&variant=pet) and add your photo (your pet, whole body). The photo prompt is filled in (Pet)
+
+*Kind: photo_prompt*
+
+```text
+Geniş açıyla, gün ışığında çekilmiş, ön planda bir evcil hayvanın oturduğu gerçekçi ve sinematik bir fotoğraf. Ön plandaki hayvan, yüklenen fotoğraftaki hayvandır: aynı tür ve ırk, aynı yüz, gözler, kulaklar, tüy rengi, tüy uzunluğu ve desen, o hayvanın doğal vücut oranlarıyla. Arka planda Ankara'daki, Türkiye Cumhuriyeti'nin kurucusunun anıt mezarının heybetli mimarisi: düz ve yalın bir saçağın taşıdığı uzun bir sıra yüksek, kare kesitli, açık bej kalker sütun ve önünde geniş taş merdivenler, merdivenlerde ve girişte toplanmış kalabalık insanlar küçük ve uzakta görülüyor. Hayvan meydanın ortasında, taş zeminde sakin ve dik oturuyor, kameraya bakıyor; boynunda sade kırmızı bir tasma var. Kamera alçakta, hayvanın göz hizasına yakın: hayvan kulaklarından ayaklarına ve kuyruğuna kadar tam görünüyor, arkasında sütunlar yükseliyor. Zeminde mozaik desenli taş kaplama detayları belirgin. Gökyüzü hafif bulutlu, güneş parlak, atmosfer net ve kontrastlı, yüksek çözünürlüklü, derinlik hissi güçlü. Ön planda tek bir hayvan ve hiç insan yok. Fotoğrafta herhangi bir kişinin portresi, heykel yüzü, bayrak, yazı, tabela veya logo yok. Dikey 9:16.
+```
+
+### 6. 3. Press the film button on the still to open AI Video with the still as the first frame. Settings: Kling 3.0, 5 s, 1080p, 9:16, sound on. The video prompt
+
+*Kind: video_prompt*
+
+```text
+Use the image as the first frame and keep everything in it: the same pet with the same face, eyes, ears, fur colors, markings and red collar, the long colonnade of tall square stone columns, the wide stone stairs, the patterned stone square and the bright sunlight. A calm moment on a sunny day. The pet sits on the stone square and stays in place: it looks to one side toward the columns, its ears turn, its tail moves gently on the stone, a light breeze moves its fur, then it looks back at the camera and tilts its head a little. Far behind it, small visitors walk slowly on the stairs and the square. Natural, real animal motion, with the natural body volume and proportions of that animal: never flattened, stretched or merged with anything. The camera stays low and pushes in very slowly. The building stays exactly as it is: the columns stay straight, still and evenly spaced, nothing bends, melts or moves. Audio: soft wind, a distant crowd murmur and a calm, original piano melody. No barking, no speech. One continuous shot, no cuts, no morphing. Exactly one animal. No text, no logos, no flags, no portrait or statue of a person.
+```
+
+### 7. Prompt 7
+
+*Kind: prompt*
+
+```text
+Geniş açıyla, gün ışığında çekilmiş, ön planda şık bir kişinin durduğu gerçekçi ve sinematik bir fotoğraf. Ön plandaki kişi, yüklenen fotoğraftaki kişidir. Arka planda Ankara'daki, Türkiye Cumhuriyeti'nin kurucusunun anıt mezarının heybetli mimarisi: düz ve yalın bir saçağın taşıdığı uzun bir sıra yüksek, kare kesitli, açık bej kalker sütun ve önünde geniş taş merdivenler, merdivenlerde ve girişte toplanmış kalabalık insanlar küçük ve uzakta, net bir şekilde görülüyor. Kişi kadınsa, baştan aşağı zarif beyaz bir takım giymiş: kemerli ceket, geniş paça pantolon, beyaz topuklu ayakkabılar. Kişi erkekse, siyah takım elbise, beyaz gömlek ve gri kravat giymiş, siyah klasik ayakkabılar giyiyor. Kişi meydanın ortasında dik ve gururlu duruyor: kollar yanlarda rahat, vücudu ve yüzü kameraya dönük, yüzünde sakin bir gülümseme. Kamera göğüs hizasında, birkaç adım geride. Zeminde mozaik desenli taş kaplama detayları belirgin. Gökyüzü hafif bulutlu, güneş parlak, atmosfer net ve kontrastlı, yüksek çözünürlüklü, derinlik hissi güçlü. Yüzler net ve kameraya dönük, güneş gözlüğü yok; herkes baştan ayakkabılara kadar tam boy görünüyor. Sakin, saygılı ve gururlu bir an: dans, zıplama veya şaka pozu yok. Fotoğrafta herhangi bir kişinin portresi, heykel yüzü, bayrak, yazı, tabela veya logo yok. Dikey 9:16.
+```
+

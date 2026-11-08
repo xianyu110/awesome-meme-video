@@ -50,19 +50,45 @@ The dance, matching the reference second by second, on the beat:
 Anatomy rules: one head per dancer, on their own shoulders. A face never appears on knees, legs, hands or clothes. Two arms and two legs each, no extra limbs, no fused hands where they hold hands. Exactly three people, no other people on the lane. No text, no subtitles, no logos, no watermark.
 ```
 
-### 3. 1. The video prompt is filled in. Settings: h3-recast, 9 s, 720p, 9:16, sound off. The video prompt (Pet)
+### 3. 1. The video prompt is filled in. Settings: Seedance 2.5, 9 s, 720p, 9:16, sound off. The video prompt (Pet)
 
 *Kind: video_prompt*
 
 ```text
-Image 1 replaces the cat on the left who dances upright on its hind legs, in every shot, also when it turns its back to the camera. Keep the pet's face shape, ears, eye color, fur colors, fur length and markings from image 1, on the whole body, the head, the legs and the tail, not those of the cat in the video. The pet keeps the natural body volume and proportions of its own animal: never flattened, squashed, stretched or merged with anything. If image 1 shows a dog or another animal, that animal takes the same place, standing upright on its hind legs and doing the same paw moves, with its own ears and muzzle. The cat on the right stays exactly as in the video, with its own face, in every shot. Keep the cozy living room, the beige sofa, the warm lamps, the plants, the patterned rug, the warm light, the dance moves, the motion and the camera exactly as in the video.
+Recreate the reference video [Video 1] shot for shot: the same cozy living room with the beige sofa, the two warm lamps, the plants, the framed pictures and the patterned rug, the same warm light, the same fixed camera, framing, timing and dance moves, and the same black-and-white cat on the right, with its own face and coat, in every frame. The ONLY change: the cat on the left who dances upright on its hind legs is now the pet in [Image 1].
+
+The dancer on the left = the pet in [Image 1], whole body, in every frame, also when it turns its back to the camera: the same species and breed, head shape, face shape, muzzle, eyes, eye color, ear size and shape, fur colors, fur length and markings as in [Image 1], on the head, the body, the legs and the tail, with the natural body volume and proportions of that animal: never flattened, squashed, stretched or merged with anything, so its owner instantly recognizes it. It stands upright on its hind legs like a person the whole time. Never drift back to the cat of the original video on the left: not its coat, its stripes, its face or its ears, unless [Image 1] shows them. If [Image 1] shows a dog or another animal, that animal dances in the same place with the same paw moves, with its own ears, muzzle and tail.
+
+The pet from [Image 1] replaces only the cat on the left. The black-and-white cat on the right stays exactly as in the video and never takes the pet's face or coat.
+
+The dance, one continuous take, matching the reference second by second, both in sync on the beat:
+[0-3 s]: small bouncy steps with the front paws held at the chest.
+[3-5.5 s]: a sway from side to side, the front paws opening out.
+[5.5-7 s]: the pet on the left turns sideways with its back to the camera, then turns back.
+[7-9 s]: bouncy steps facing the camera, the front paws at the chest.
+
+Anatomy rules: one head per animal, one tail each. Two hind legs on the rug and two front legs each, no extra legs or paws, no human hands. Exactly two animals. No people, no text, no logos, no watermark. No dialogue throughout the entire video. No background music.
 ```
 
-### 4. 1. The video prompt is filled in. Settings: h3-recast, 9 s, 720p, 9:16, sound off. The video prompt (Pet)
+### 4. 1. The video prompt is filled in. Settings: Seedance 2.5, 9 s, 720p, 9:16, sound off. The video prompt (Pet)
 
 *Kind: video_prompt*
 
 ```text
-Image 1 replaces the cat on the left who dances upright on its hind legs, in every shot, also when it turns its back to the camera. Image 2 replaces the cat on the right who dances upright beside it, in every shot. Keep the face shape, ears, fur colors, fur length and markings of each pet from its own image, on the whole body, the head, the legs and the tail, not the coats, stripes or markings of the cats in the video. Each pet keeps the natural body volume and proportions of its own animal: never flattened, squashed, stretched or merged with anything. Each pet keeps its own face from the first frame to the last; never swap the two faces. If an image shows a dog or another animal, that animal takes the same place, standing upright on its hind legs and doing the same paw moves. Keep the cozy living room, the beige sofa, the warm lamps, the plants, the patterned rug, the warm light, the dance moves, the motion and the camera exactly as in the video.
+Recreate the reference video [Video 1] shot for shot: the same cozy living room with the beige sofa, the two warm lamps, the plants, the framed pictures and the patterned rug, the same warm light, the same fixed camera, framing, timing and dance moves. The ONLY change: the cat on the left who dances upright is now the pet in [Image 1], and the cat on the right who dances upright beside it is now the pet in [Image 2]. Both change: no cat from the video stays, not its face, its ears, its body or its coat, also when only the back of a head shows.
+
+The pet on the left = the pet in [Image 1], whole body, in EVERY frame, also when it turns its back to the camera: the same species and breed, head shape, face shape, muzzle, eyes, eye color, ear size and shape, fur colors, fur length and markings as in [Image 1], with the natural body volume and proportions of that animal: never flattened, squashed, stretched or merged with anything.
+
+The pet on the right = the pet in [Image 2], whole body, in EVERY frame: the same species and breed, head shape, face shape, muzzle, eyes, eye color, ear size and shape, fur colors, fur length and markings as in [Image 2], with the natural body volume and proportions of that animal: never flattened, squashed, stretched or merged with anything.
+
+Each coat is not the coat of the cat in the video: the colors, the pattern and the fur length come only from each pet's own photo, on the head, the chest, the belly, the legs and the tail. A pet with no stripes gets no stripes, a pet with no white chest gets no white chest. The same two pets from the first second to the last, so their owners instantly recognize them. Never morph, never drift back to the cats of the video. Do not mix the two pets: [Image 1] is only the pet on the left, [Image 2] is only the pet on the right. If a photo shows a dog or another animal, that animal takes the same place, upright on its hind legs, with the same paw moves.
+
+The dance, one continuous take, matching the reference second by second, both in sync on the beat:
+[0-3 s]: small bouncy steps with the front paws held at the chest.
+[3-5.5 s]: a sway from side to side, the front paws opening out.
+[5.5-7 s]: the pet on the left turns sideways with its back to the camera, then turns back.
+[7-9 s]: bouncy steps facing the camera, the front paws at the chest.
+
+Anatomy rules: one head per pet, on its own body, one tail each. Two hind legs on the rug and two front legs each, no extra legs or paws, no human hands. Exactly two animals. No people, no extra animals, no text, no logos, no watermark. No dialogue throughout the entire video. No background music.
 ```
 

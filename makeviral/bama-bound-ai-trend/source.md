@@ -1,14 +1,14 @@
-# Bama Bound Trend: Hold the I'M BAMA BOUND Banner With AI
+# Bama Bound Meme: Hold the I'M BAMA BOUND Banner With AI
 
-> The Bama Bound trend is the TikTok meme "Applied to Bama as a joke... got in plus full ride": a photo of you in a sunny green field, holding a red I'M BAMA BOUND banner over your head as if you just got into college.
+> The Bama Bound meme is the TikTok trend "Applied to Bama as a joke... got in plus full ride": a photo of you in a sunny green field, holding a red I'M BAMA BOUND banner over your head as if you just got into college.
 
 Canonical: https://www.makeviral.ai/templates/bama-bound-ai-trend
-Updated: 2026-10-19
+Updated: 2026-10-24
 Published: 2026-10-19
 Author: MakeViral Team (https://www.makeviral.ai/about)
 Publisher: MakeViral (https://www.makeviral.ai)
 
-The **Bama Bound trend** is the TikTok meme "Applied to Bama as a joke... got in plus full ride": a photo of you in a sunny green field, holding a red I'M BAMA BOUND banner over your head as if you just got into college. It took off on 16 October 2026. Here, AI makes it from your photo.
+The **Bama Bound meme** is the TikTok trend "Applied to Bama as a joke... got in plus full ride": a photo of you in a sunny green field, holding a red I'M BAMA BOUND banner over your head as if you just got into college. It took off on 16 October 2026. Here, AI makes it from your photo.
 
 Add one photo. AI puts you in a sunny green field with a red I'M BAMA BOUND banner over your head, as the trend photo or as a video where you scream, jump and cheer. Your own face, skin tone and body, and no school logo on the banner.
 
@@ -16,7 +16,7 @@ Also called: I'm Bama Bound trend, Applied to Bama as a joke meme, Got in plus f
 
 **Make it now:** [Make this video](https://www.makeviral.ai/templates/bama-bound-ai-trend/create). 1 photo · 8 s · 9:16 with sound · 101 credits, charged once · ready in a few minutes · no prompt to write.
 
-Keyword: bama bound trend. Also answers: bama bound meme, applied to bama as a joke, bama bound, bama bound ai, bama bound tiktok, im bama bound, bama bound meaning, bama bound ai trend, bama bound sign, bama bound filter, bama bound banner, i applied to bama as a joke, applied to bama as a joke trend, bama bound ai filter, what is bama bound, bama bound guy, bama bound trend tutorial, how to do the bama bound trend, bama bound capcut template, bama bound prompt, bama bound trend prompt, bama bound photo, bama bound ai photo, bama bound ai video, bama bound image, bama bound picture, bama bound poster, bama bound full ride, got in full ride, applied for bama as a joke, applied at bama as a joke, bama bound southern belle, bama bound 2026, bama bound capcut, bama bound with friends, bama bound dog, bama bound pet, college acceptance meme, college acceptance video meme, college acceptance reaction meme, university acceptance meme, ai college acceptance photo.
+Keyword: bama bound meme. Also answers: bama bound trend, bama bound guy, im bama bound, im bama bound meme, im bama bound sign, bama bound sign, applied to bama as a joke, bama bound, bama bound ai, bama bound tiktok, alabama bound meme, im alabama bound meme, im bama bound guy, im bama bound banner, bama bound guy meme, bama bound original guy, bama bound poster, bama bound boy, bama bound meme meaning, bama bound tiktok meme, bamabound meme, bama bound meme original, bama bound dude, bama bound meme explained, im alabama bound poster, alabama bound guy, im a bama bound, bama bound meaning, im bama bound poster, bama bound original, what does bama bound mean, i am bama bound, delta dawn bama bound, bama bound ai trend, bama bound filter, bama bound banner, i applied to bama as a joke, applied to bama as a joke trend, bama bound ai filter, what is bama bound, bama bound trend tutorial, how to do the bama bound trend, bama bound capcut template, bama bound prompt, bama bound trend prompt, bama bound photo, bama bound ai photo, bama bound ai video, bama bound image, bama bound picture, bama bound full ride, got in full ride, applied for bama as a joke, applied at bama as a joke, bama bound southern belle, bama bound 2026, bama bound capcut, bama bound with friends, bama bound dog, bama bound pet, college acceptance meme, college acceptance video meme, college acceptance reaction meme, university acceptance meme, ai college acceptance photo.
 
 ## What is the Bama Bound Trend trend, and where did it start?
 
@@ -229,7 +229,7 @@ It is a TikTok meme from October 2026: "applied to Bama as a joke... got in plus
 
 ### What is Bama Bound? What does it mean?
 
-"Bama" is the nickname of the University of Alabama, and "Bama Bound" means you are headed there as a new student. It is also the name of the school's orientation. In the meme, "I'm Bama Bound" is the joke: you applied as a joke and got in anyway.
+"Bama" is the nickname of the University of Alabama, and "Bama Bound" means you are headed there as a new student. It is also the name of the school's orientation. In the meme, "I'm Bama Bound" is the joke: you applied as a joke and got in anyway. Some how-to captions call it the I'm Bama Bound meme, after the words on the sign.
 
 ### Where did "applied to Bama as a joke" come from?
 
@@ -247,13 +247,17 @@ Yes. The Kling how-tos for the Bama Bound trend prompt show it on screen: replac
 
 No. MakeViral has no link to CapCut. The Bama Bound CapCut template is closed and shows no prompt. Here the Bama Bound AI filter is Nano Banana 2.1 for the photo and Seedance 2.5 or Kling 3.0 for the videos.
 
-### Who is the Bama Bound guy?
+### Who is the original Bama Bound guy?
 
 A TikTok creator whose AI-edited "southern belle" photos with the sign started the joke; the Bama Bound southern belle posts are reposts of his photos. He is a real private person, so we do not name or show him on this page. You do not need his photos: the trend works with your own.
 
 ### Can I get just the Bama Bound photo, not a video?
 
 Yes. Pick Photo. It makes one 2K vertical Bama Bound picture of you with the banner over your head: the Bama Bound image people post as the second slide. Some also use it as a fun Bama Bound poster, but never as a real acceptance.
+
+### Do I need the real I'm Bama Bound poster?
+
+No. The red sign in the trend photos belongs to the University of Alabama and carries its logo. Here the AI puts a red banner in your hands with only the words I'M BAMA BOUND on it, so you do not need a printed poster.
 
 ### Can I do Bama Bound with friends?
 
@@ -296,6 +300,15 @@ Yes. MakeViral does not post your photo or the result anywhere or show them to o
 - [AI TikTok Video](https://www.makeviral.ai/tools/ai-tiktok-video-generator): Eight native TikTok formats, one prompt or product URL, a finished 9:16 video with captions burned in.
 - [AI photo generator](https://www.makeviral.ai/ai-photo-generator)
 - [All AI video templates](https://www.makeviral.ai/templates)
+
+## New AI video trends this week
+
+- [Christmas Dance AI: Do the New TikTok Christmas Dance From Your Photos](https://www.makeviral.ai/templates/christmas-dance-ai-trend): Hip sways with the hands at the collar, rolling arms, a quick spin and raised fists, side by side in matching Christmas pajamas. Add two photos for the duo, one for a solo take, or two pets, and get the dance with the sound.
+- [Cat on Ultra Bee AI: Put Your Pet on the Wheelie](https://www.makeviral.ai/templates/cat-on-ultra-bee-ai-trend): Add one photo, and your cat or dog stands on an electric dirt bike and holds a long wheelie down a city road at golden hour, in the same shots as the viral clip, with its original sound. You can take the ride yourself, too.
+- [Tus Ojos Me Reflejan el Sentimiento: The Cafuné Eye Close-Up Trend](https://www.makeviral.ai/templates/tus-ojos-me-reflejan-ai-trend): You lie on your side, a hand rests on your cheek, warm light falls on your face, and the camera slowly moves in until your eyes fill the screen while the line plays. One photo in, an 8-second vertical clip with the trend's song out.
+- [İnşallah Maşallah AI Trend: Sing Neşe Karaböcek's Song on the Couch](https://www.makeviral.ai/templates/insallah-masallah-ai-trend): You sit on a light grey couch and sing the old Turkish love song straight to the camera: a hand on the heart, a big laugh with both hands on your head, a finger pointed at the camera and a kiss at the end. One photo of you, a grandparent or your pet, and the 15-second clip comes with the song.
+- [Ice Ice Baby Dance AI: Do the Viral Duo Dance With a Friend](https://www.makeviral.ai/templates/ice-ice-baby-dance-ai): Two dancers side by side, the same bouncy 90s steps, a spin on the beat and a strut to the camera. Add a photo of you and a friend, of you alone, or of your pet, and get the dance with the sound.
+- [Save Yourself Trend: Pull Yourself Up From the Cliff](https://www.makeviral.ai/templates/save-yourself-ai-trend): One photo plays both of you: the scared you clinging to a wet sea cliff, and the calm you who reaches down, pulls you up and holds you. Or use two photos: an older photo of you and a new one, or you and a friend. 15 seconds, vertical.
 
 ## Make your own Bama Bound Trend video
 

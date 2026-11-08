@@ -15,11 +15,19 @@ The subway outfit change is the fashion clip filmed across the tracks: you wait 
 
 ## Prompts
 
-### 1. 1. The video prompt is filled in. Settings: genjutsu-motion, 13 s, 480p, 9:16, sound off. The video prompt
+### 1. 1. The video prompt is filled in. Settings: Seedance 2.5, 13 s, 720p, 9:16, sound off. The video prompt
 
 *Kind: video_prompt*
 
 ```text
-Replace the young woman with long dark wavy hair who stands on the subway platform and looks at her phone with the person from image 1: keep that face, hair and skin tone exactly, in every outfit. Take only the face, hair and skin tone from image 1, never the clothes: in every shot the person wears the outfit of the video. Keep every outfit, every outfit change hidden by a passing train, the phone in her hand, the tiled platform, the yellow edge strip, the trains, the light, the motion and the camera of the video.
+Recreate the reference video [Video 1] shot for shot: the same still camera across the tracks, the same white-tiled subway platform with the yellow edge strip, the same person who stands on the platform and looks at a phone, the same silver trains that rush through the frame between the person and the camera, the same light, framing, timing and moves. The ONLY change is the face and the hair of the young woman with long dark wavy hair who stands on the subway platform and looks at her phone: they are now the face and the hair of the person in [Image 1], in every look.
+
+The person = the person in [Image 1], in EVERY shot and in EVERY look: copy the exact face from [Image 1] (the face shape, eye color and eye shape, eyebrows, nose, mouth, skin tone, age, hair color, hair length and hairstyle, and any beard, moustache, glasses or freckles), so their friends recognize them at once. [Image 1] is only a head-and-shoulders portrait: take ONLY the face, the hair and the skin tone from it, never its plain black t-shirt and never its grey background. The same real person in every look, from the first frame to the last, also right after each train and when the face is small or turned away. Never morph, never drift back to the original woman's face or hair.
+
+Every outfit stays exactly as in [Video 1]: the same clothes, shoes, bags and accessories, the same fit, in the same order, and each outfit change at the same moment as in [Video 1]. NO black t-shirt from [Image 1] in any look. NO long dark wavy hair unless [Image 1] shows it: the hair is the hair from [Image 1] in every look. The phone stays in the hand as in [Video 1].
+
+The looks, at the times of [Video 1]: look 1 at 0-1.75 s, a train 1.75-3.35 s, look 2 at 3.35-5.6 s, a train 5.6-7.0 s, look 3 at 7.0-9.75 s, a train 9.75-11.5 s, look 4 at 11.5-13 s. Each outfit change happens only while a train hides the person, and the person stands in the same spot before and after each train, with no jump. Look 4 is short but it is a full, clear look. No glow, no particles, no dissolve, no flash. Never mix pieces of two looks.
+
+Anatomy rules: exactly one person, one head on that person's shoulders, two arms, two legs, five fingers on each hand. A face never appears on hands, clothes or the floor. No text, no captions, no readable signs, no car numbers or line names on the trains, no logos, no watermark.
 ```
 

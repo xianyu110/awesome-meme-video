@@ -3,7 +3,7 @@
 > The Thriller dance is the zombie routine from Michael Jackson's 1983 "Thriller" video: arms swung out with a deep lean, head rolls, claw hands and shoulder shrugs.
 
 Canonical: https://www.makeviral.ai/templates/thriller-dance-ai-trend
-Updated: 2026-10-15
+Updated: 2026-10-29
 Published: 2026-10-12
 Author: MakeViral Team (https://www.makeviral.ai/about)
 Publisher: MakeViral (https://www.makeviral.ai)
@@ -14,9 +14,9 @@ Arms swung out with a deep lean, head rolls, claw hands and shoulder shrugs: the
 
 Also called: Michael Jackson Thriller dance, Thriller zombie dance.
 
-**Make it now:** [Make this video](https://www.makeviral.ai/templates/thriller-dance-ai-trend/create). 2 photos · 15 s · 9:16 with sound · 180 credits, charged once · ready in a few minutes · no prompt to write.
+**Make it now:** [Make this video](https://www.makeviral.ai/templates/thriller-dance-ai-trend/create). 2 photos · 15 s · 9:16 with sound · 228 credits, charged once · ready in up to several minutes · no prompt to write.
 
-Keyword: thriller dance. Also answers: thriller dance tutorial, thriller dance video, thriller dance moves, thriller dance steps, thriller dance pose, thriller dance ai, ai thriller dance, thriller dance routine, thriller dance challenge, thriller dance ai trend, thriller dance halloween, thriller dance zombies, thriller dance how to, thriller dance meme, thriller dance tiktok, thriller ai trend, michael jackson thriller dance ai, michael jackson ai dance, dance with michael jackson ai, thriller dance duo, thriller dance cat, cat thriller dance, dog thriller dance, thriller dance pet, thriller dance learn, thriller dance mj, thriller dance gif, thriller dance choreography, thriller dance song, thriller dance music video, thriller dance original, thriller dance scene, thriller dance easy.
+Keyword: thriller dance. Also answers: thriller dance tutorial, thriller dance video, thriller dance moves, thriller dance steps, thriller dance pose, thriller dance ai, ai thriller dance, thriller dance routine, thriller dance challenge, thriller dance ai trend, thriller zombie dancers, thriller zombie dance scene, thriller zombie dance moves, thriller zombie dance video, thriller dance group, group thriller dance, zombie group dance, zombie dance group, zombie dance crew, thriller dance halloween, thriller dance zombies, thriller dance how to, thriller dance meme, thriller dance tiktok, thriller ai trend, michael jackson thriller dance ai, michael jackson ai dance, dance with michael jackson ai, thriller dance duo, thriller dance cat, cat thriller dance, dog thriller dance, thriller dance pet, thriller dance learn, thriller dance mj, thriller dance gif, thriller dance choreography, thriller dance song, thriller dance music video, thriller dance original, thriller dance scene, thriller dance easy.
 
 ## What is the Thriller Dance AI trend, and where did it start?
 
@@ -45,6 +45,9 @@ Made from the prompts on this page. The people and pets are AI-made, not real pe
 - **Example 2** (15 s, 9:16 MP4 with sound): The original reel by @totummare: two dancers do the Thriller dance break side by side in a studio, with the arm swings, the claw hands and the hair flip. Human copies this reel with your two photos.
   - Video: https://www.makeviral.ai/media/templates/thriller-dance-ai-trend/original-main-v2.mp4
   - Poster: https://www.makeviral.ai/media/templates/thriller-dance-ai-trend/original-main-v1.jpg
+- **Example 3** (10 s, 9:16 MP4 with sound): The zombie street dance from the 1983 "Thriller" music video, cropped to vertical (the video belongs to its owners). Zombie street copies this scene: your photo takes the lead's place, in the red jacket, with your own face.
+  - Video: https://www.makeviral.ai/media/templates/thriller-dance-ai-trend/original-zombie-v2.mp4
+  - Poster: https://www.makeviral.ai/media/templates/thriller-dance-ai-trend/original-zombie-v1.jpg
 
 ## How to make the Thriller Dance AI video on MakeViral
 
@@ -52,9 +55,9 @@ Everything runs in the browser. No editing app, no watermark.
 
 ### The one-tap way (no prompt to write)
 
-1. **Add the two photos.** Press "Make yours" and add dancer on the left, then dancer on the right. Photo 1 goes on the left of the scene, photo 2 on the right. Take them with the camera or pick them from your library. Start here: https://www.makeviral.ai/templates/thriller-dance-ai-trend/create
-2. **Press Generate.** The button shows the price. H3 Max Recast puts your photos into the Thriller dance trend clip and copies it shot by shot for 15 seconds, with the reel's original song. You write no prompt.
-3. **Download or share.** The video is ready in a few minutes as a 9:16 MP4. Download it, share it from your phone, or find it later in My videos.
+1. **Add the two photos.** Press "Make yours" and add dancer on the left, face clear, then dancer on the right: a different person, face clear. Photo 1 goes on the left of the scene, photo 2 on the right. Take them with the camera or pick them from your library. Start here: https://www.makeviral.ai/templates/thriller-dance-ai-trend/create
+2. **Press Generate.** The button shows the price. Seedance 2.5 puts your photos into the Thriller dance trend clip and copies it shot by shot for 15 seconds, with the reel's original song. You write no prompt.
+3. **Download or share.** The video is ready in up to several minutes as a 9:16 MP4. Download it, share it from your phone, or find it later in My videos.
 
 ### The by-hand way, with the exact prompts
 
@@ -62,17 +65,86 @@ The one-tap flow runs this prompt for you. The video prompt animates your own ph
 
 #### Variant: Human
 
-Settings: 2 photos (dancer on the left + dancer on the right) · h3-recast · 15 s · 720p · 9:16 · no sound · 180 credits in one tap.
+Settings: 2 photos (dancer on the left, face clear + dancer on the right: a different person, face clear) · Seedance 2.5 · 15 s · 720p · 9:16 · no sound · 228 credits in one tap.
 
-1. The video prompt is filled in. Settings: h3-recast, 15 s, 720p, 9:16, sound off. The video prompt:
+1. The video prompt is filled in. Settings: Seedance 2.5, 15 s, 720p, 9:16, sound off. The video prompt:
 
    ```text
-   Image 1 replaces the dancer on the left with long dark hair in the black crop top and the wide black trousers, in every shot. Image 2 replaces the dancer on the right with long brown hair in the loose white sweatshirt with the big number, the black shorts and the white socks, in every shot. Each one has their own face, hair, skin tone, body and clothes from their own image, with no number on the clothes, no black crop top and no black shorts unless their image shows them. Both keep the serious, focused faces of the dancers in the video and never smile at the camera. The two small figures in the mirror behind them are their reflections: the same two people from image 1 and image 2. Keep the dance studio, the wooden floor, the mirror wall, the ballet barre, the ceiling fan, the daylight, the dance moves, the motion and the camera exactly as in the video.
+   Recreate the reference video [Video 1] shot for shot: the same dance studio with a wooden floor, a mirror wall, a ballet barre and a ceiling fan, the same daylight, the same fixed phone camera in one continuous take, the same framing, timing and dance moves, with both dancers in sync. The ONLY change: the dancer on the left with long dark hair in the black crop top and wide black trousers is now the person in [Image 1], and the dancer on the right with long brown hair in the loose white sweatshirt with the big number and black shorts is now the person in [Image 2]. Both change: no one from the video stays, also when the hair flies over a face and in the mirror. The faces are fully locked to [Image 1] on the left and [Image 2] on the right; [Video 1] is for the dance and the camera only. Two different people: never blend the two faces; each face stays sharp and easy to recognize, also in the wide shot.
+
+The dancer on the left = the person in [Image 1], in every frame: copy the exact face from [Image 1] - face shape, eye color and eye shape, eyebrows, nose, mouth, skin tone, age, hair color, hair length and hairstyle, and any beard, moustache, glasses or freckles exactly as in the photo - with the body and the clothes of the person in [Image 1], never the black crop top and the wide black trousers of the original dancer.
+
+The dancer on the right = the person in [Image 2], in every frame: copy the exact face from [Image 2] - face shape, eye color and eye shape, eyebrows, nose, mouth, skin tone, age, hair color, hair length and hairstyle, and any beard, moustache, glasses or freckles exactly as in the photo - with the body and the clothes of the person in [Image 2], never the white sweatshirt with the big number and the black shorts of the original dancer, and no number on any clothes.
+
+Each one is the same real person in every frame, from the first second to the last, so their friends instantly recognize them. If a photo shows only the head or the upper body, invent the rest so it matches naturally. Never morph, never drift back to the original dancers' faces, never add or remove facial hair. Do not mix the two faces: [Image 1] is only the dancer on the left, [Image 2] is only the dancer on the right. Both keep the serious, focused faces of the dancers in the video and never smile at the camera. The two small figures in the mirror behind them are their reflections: the same two people.
+
+The dance, matching the reference second by second:
+0-1 s: both stand still, ready.
+1-7 s: shoulder shrugs and sways with the arms spread out wide.
+7-10 s: a turn to the side with the hands raised like claws, then hip shakes.
+10-11 s: a deep bend down with the hair flying, and back up.
+11-15 s: claw hands and shrugs facing the camera.
+
+Anatomy rules: one head per dancer, on their own shoulders. Two arms and two hands each, no extra limbs. Exactly two people. No text, no logos, no watermark. No dialogue throughout the entire video. No background music.
    ```
 
 2. Press Generate, then download the 9:16 MP4.
 
 One-tap version of this variant: https://www.makeviral.ai/templates/thriller-dance-ai-trend/create
+
+#### Variant: Zombie street
+
+Settings: 1 photo (your photo, face clear) · Seedance 2.5 · 10 s · 720p · 9:16 · no sound · 152 credits in one tap.
+
+1. The video prompt is filled in. Settings: Seedance 2.5, 10 s, 720p, 9:16, sound off. The video prompt:
+
+   ```text
+   Recreate the reference video [Video 1] shot for shot: the same wide night street with wet asphalt, old brick buildings, streetlights and cold blue light, the same crowd of zombie dancers in torn clothes and grey makeup behind, the same camera move, framing and timing, and the full zombie dance routine in sync with the crowd. The ONLY change: [Image 1] replaces the man in the red leather jacket and red trousers who leads the dance in front, maintaining the same exact synchronized movements from [Video 1].
+
+The lead dancer = the person in [Image 1], in EVERY frame: copy the exact face from [Image 1] (the face shape, eye color and eye shape, eyebrows, nose, mouth, skin tone, age, hair color, hair length and hairstyle, and any beard, moustache, glasses or freckles), so their friends recognize them at once. The face is clearly lit, with the natural skin tone of [Image 1] and NO zombie makeup: no grey face paint, no dark rings around the eyes, no yellow eyes, no sores. NO short black curly hair unless [Image 1] shows it: the hair color, length and style of [Image 1]. The same real person from the first second to the last, also when the head snaps and turns and when the camera pulls back. Never morph, never blend faces, and never drift back to the face of the original lead dancer.
+
+Only the head, the face, the hair and the skin change: the lead keeps the costume of the original lead in every frame, the red leather jacket with black details, the red trousers, the white socks and the black shoes, so the person from [Image 1] wears that red jacket and those red trousers from the first second to the last.
+
+The dance, matching [Video 1] second by second, on the beat, the lead and the crowd in sync:
+0-1.5 s: close to the camera, arms swung out wide to the sides with a deep lean, claw hands.
+1.5-5 s: steps toward the camera and to the side, arms swinging, shoulders shrugging, while the camera pulls back.
+5-7 s: a low, wide stance with bent knees, hands near the thighs, a quick bow of the head.
+7-10 s: side steps with one claw arm stretched out, the whole body in view, the crowd right behind.
+
+Anatomy rules: one head only, on the lead's shoulders. A face never appears on knees, legs, hands or clothes. Two arms, five fingers on each hand. Exactly one lead dancer in front. The zombie dancers behind keep their own zombie faces: none of them gets the face from [Image 1]. Real live-action footage. No famous people. No text, no captions, no logos, no watermark.
+   ```
+
+2. Press Generate, then download the 9:16 MP4.
+
+One-tap version of this variant: https://www.makeviral.ai/templates/thriller-dance-ai-trend/create?variant=zombie
+
+#### Variant: Group
+
+Settings: 1 photo (one photo of 3 or 4 friends (18+), faces clear) · Seedance 2.5 · 10 s · 720p · 9:16 · with sound · 126 credits in one tap.
+
+1. The video prompt is filled in. Settings: Seedance 2.5, 10 s, 720p, 9:16, sound on. The video prompt:
+
+   ```text
+   Everyone in [Image 1] does the famous 80s zombie dance together and leads a crowd of zombies on a foggy street at night. [Image 1] is one photo of a group of adult friends, three or four people. One continuous vertical 9:16 shot, no cuts, photorealistic, live action.
+
+Keep each friend exactly as photographed: each adult in [Image 1] is one dancer in the front row, in the same order from left to right as in the photo, with their own face copied exactly from [Image 1] (the face shape, eye color and eye shape, eyebrows, nose, mouth, skin tone, age, hair color, hair length and hairstyle, and any beard, moustache, glasses or freckles), so their friends recognize them at once. Never blend their faces, never swap them, never leave anyone out and never add a person to the front row. Each face stays the same from the first frame to the last, clearly lit, with their own skin and NO zombie makeup. Everyone wears their own clothes from [Image 1] (a Halloween costume stays on); invent any part of the body the photo does not show.
+
+The place: an empty street in an old town at night, wet asphalt, old brick buildings, streetlights, cold blue moonlight and drifting fog, a few glowing jack-o'-lanterns on the doorsteps. One step behind the friends, about eight zombie dancers in torn clothes with grey skin dance the same moves in sync. Each zombie is an adult stranger with its own face, never a face from [Image 1]. No blood, no gore.
+
+The moves, on the beat, everyone in sync:
+0-2 s: the friends stand side by side in front, heads bowed; on the first beat they snap their heads up to the camera, claw hands raised by the shoulders.
+2-5 s: they shuffle toward the camera like zombies, arms swung out wide with a deep lean to the left, then to the right, shoulders shrugging on the beat.
+5-7 s: head rolls and wrist flicks, then a turn to the side with both claw hands raised high.
+7-10 s: back to the camera in a low, wide stance with shoulder shrugs and claw hands, then a freeze with an intense stare while the camera pushes in.
+
+Filmed from the front at chest height, the front row from head to shoes; the push in ends at the knees up, every face big and sharp.
+Audio: an original spooky 80s funk groove with deep bass and a far-off howl; no known song, no lyrics, no singing, no talking.
+No famous people and no famous costume: no red leather jacket with black stripes unless [Image 1] shows it. One head on each body, five fingers on each hand. Everyone in the front row is a grown adult from [Image 1]: no child, no extra person. No text, no captions, no logos, no watermark.
+   ```
+
+2. Press Generate, then download the 9:16 MP4.
+
+One-tap version of this variant: https://www.makeviral.ai/templates/thriller-dance-ai-trend/create?variant=group
 
 #### Variant: Pet
 
@@ -96,10 +168,12 @@ One-tap version of this variant: https://www.makeviral.ai/templates/thriller-dan
 
 ### Which photo works best?
 
-**Human** takes **two photos, one person in each**: photo 1 dances on the left, photo 2 on the right. **Pet** takes **one photo** of your pet.
+**Human** takes **two photos of two different people, one person in each**: photo 1 dances on the left, photo 2 on the right. Two photos of the same person give two copies of one face. **Group** takes **one photo** of 3 or 4 friends together. **Pet** takes **one photo** of your pet.
 
 - **Human:** full body or from the knees up, with the face sharp, turned to the camera and in good light. The dancers are small in the wide studio shot, so a clear face matters more than a close-up.
+- **Group:** 3 or 4 adults side by side in one photo, every face clear and about the same size. Your crew does the Thriller zombie dance as a group, in front of a zombie crowd, with a spooky beat of its own (add the song when you post).
 - Your clothes come from your photo. Wear a red jacket for the classic look, or your Halloween costume.
+- **Zombie street:** one sharp, front-facing photo of you. You take the lead's place in the thriller zombie dance scene of the 1983 video: the night street, the blue light, the thriller zombie dancers behind you and the same thriller zombie dance moves stay, you wear the red leather jacket and red trousers, and your face stays your own, with no zombie makeup. You get a 10-second thriller zombie dance video with the song.
 - No sunglasses, no hat that hides the face and no beauty filter.
 - **Pet:** one sharp photo with the whole animal in view, from ears to paws. A cat looks closest to the reel; a dog or another pet takes the same place.
 - Use a photo of yourself, of an adult who agreed, or of your own pet. Never a celebrity or a stranger.
@@ -110,7 +184,7 @@ You pay per video in credits, and the create page shows the exact price on the G
 
 | Video model | Settings | Credits |
 | --- | --- | --- |
-| H3 Max Recast (this template) | 15 s, 720p, copies the trend clip, one tap | 180 |
+| Seedance 2.5 (this template) | 15 s, 720p, copies the trend clip, one tap | 228 |
 
 Credits come with a plan; see [pricing](https://www.makeviral.ai/pricing). A failed video gives its credits back.
 
@@ -126,7 +200,7 @@ Each version copies a viral reel of the dance, and your photos take the place of
 
 **Human or Pet?** Press "Create your own" and pick one, or press the button under its reel on this page.
 
-**Which quality?** Human has one quality: MiniMax H3 Max Recast puts the two of you into the reel itself, at 768p, because a cheaper model can keep the reel's own dancers when two people swap at once. Pet has one quality too: Seedance 2.5 puts your pet into the reel itself, in the red jacket and red trousers, between the reel's skeleton kitten and ghost kitten, at 720p, vertical, with the reel's song (you can turn it off). It can take up to several minutes.
+**Which quality?** Human has one quality: top-quality AI video models put the two of you into the reel itself, at 720p, because a cheaper model can keep the reel's own dancers when two people swap at once. It can take 5 to 15 minutes. Pet has one quality too: Seedance 2.5 puts your pet into the reel itself, in the red jacket and red trousers, between the reel's skeleton kitten and ghost kitten, at 720p, vertical, with the reel's song (you can turn it off). It can take up to several minutes.
 
 The exact price shows on the Generate button before you spend anything. Every run is a new take, so results differ.
 
@@ -185,6 +259,10 @@ Not on MakeViral. We do not put a real celebrity into your video, and you should
 
 Yes. Pick Pet. It copies the AI kitten reel by @moonwalkcats: your pet stands upright in a red jacket in the middle of a haunted street and leads the zombie dance, with a skeleton kitten and a ghost kitten beside it. A cat looks closest to the reel; a dog or another pet takes the same place.
 
+### Can I lead the zombies myself, like in the original street scene?
+
+Yes. Pick Zombie street and add one photo of yourself. It copies the 10-second zombie street scene of the 1983 video: you lead the zombie crowd in the red leather jacket and red trousers, with your own face, no zombie makeup and the song. The original lead dancer does not appear in your video.
+
 ### Do I need to know the Thriller dance moves?
 
 No. The moves come from the reel, so the people or the pet in your photos do the whole routine. You only add the photos.
@@ -199,15 +277,15 @@ Your clip carries the sound of the reel it copies, the music of the Thriller dan
 
 ### Will Michael Jackson be in my video?
 
-No. Both versions copy reels made by TikTok creators, and your photos replace their dancers. Michael Jackson does not appear in your video, and he and his estate have nothing to do with MakeViral. His name appears on this page only to name the dance and its history.
+No. Human and Pet copy reels made by TikTok creators, and your photos replace their dancers. Group is a new street scene made from your group photo. Michael Jackson does not appear in your video, and he and his estate have nothing to do with MakeViral. His name appears on this page only to name the dance and its history.
 
 ### Which AI models make the videos?
 
-Each version has one quality. Human uses MiniMax H3 Max Recast, which puts the two of you into the reel itself at 768p. Pet uses Seedance 2.5, which puts your pet into the reel itself at 720p, in the red jacket between the two kittens; it can take up to several minutes.
+Each version has one quality. Human uses top-quality AI video models, which put the two of you into the reel itself at 720p, in 5 to 15 minutes. Pet uses Seedance 2.5, which puts your pet into the reel itself at 720p, in the red jacket between the two kittens; it can take up to several minutes.
 
 ### How long is the video and what format is it?
 
-Both versions make a 15-second vertical MP4 with the song. Human is 768p and Pet is 720p.
+Human and Pet make a 15-second vertical MP4 with the song. Both are 720p. Group makes a 10-second 720p clip with its own spooky beat: add the song when you post.
 
 ### Is there a Thriller dance tutorial, and what are the Thriller dance steps?
 
@@ -239,8 +317,17 @@ It is the same dance, but this page makes it from your photos: Michael Jackson h
 - [AI photo generator](https://www.makeviral.ai/ai-photo-generator)
 - [All AI video templates](https://www.makeviral.ai/templates)
 
+## New AI video trends this week
+
+- [Christmas Dance AI: Do the New TikTok Christmas Dance From Your Photos](https://www.makeviral.ai/templates/christmas-dance-ai-trend): Hip sways with the hands at the collar, rolling arms, a quick spin and raised fists, side by side in matching Christmas pajamas. Add two photos for the duo, one for a solo take, or two pets, and get the dance with the sound.
+- [Cat on Ultra Bee AI: Put Your Pet on the Wheelie](https://www.makeviral.ai/templates/cat-on-ultra-bee-ai-trend): Add one photo, and your cat or dog stands on an electric dirt bike and holds a long wheelie down a city road at golden hour, in the same shots as the viral clip, with its original sound. You can take the ride yourself, too.
+- [Tus Ojos Me Reflejan el Sentimiento: The Cafuné Eye Close-Up Trend](https://www.makeviral.ai/templates/tus-ojos-me-reflejan-ai-trend): You lie on your side, a hand rests on your cheek, warm light falls on your face, and the camera slowly moves in until your eyes fill the screen while the line plays. One photo in, an 8-second vertical clip with the trend's song out.
+- [İnşallah Maşallah AI Trend: Sing Neşe Karaböcek's Song on the Couch](https://www.makeviral.ai/templates/insallah-masallah-ai-trend): You sit on a light grey couch and sing the old Turkish love song straight to the camera: a hand on the heart, a big laugh with both hands on your head, a finger pointed at the camera and a kiss at the end. One photo of you, a grandparent or your pet, and the 15-second clip comes with the song.
+- [Ice Ice Baby Dance AI: Do the Viral Duo Dance With a Friend](https://www.makeviral.ai/templates/ice-ice-baby-dance-ai): Two dancers side by side, the same bouncy 90s steps, a spin on the beat and a strut to the camera. Add a photo of you and a friend, of you alone, or of your pet, and get the dance with the sound.
+- [Save Yourself Trend: Pull Yourself Up From the Cliff](https://www.makeviral.ai/templates/save-yourself-ai-trend): One photo plays both of you: the scared you clinging to a wet sea cliff, and the calm you who reaches down, pulls you up and holds you. Or use two photos: an older photo of you and a new one, or you and a friend. 15 seconds, vertical.
+
 ## Make your own Thriller Dance AI video
 
-Add two photos and press Generate. No prompt to write. 180 credits, charged once.
+Add two photos and press Generate. No prompt to write. 228 credits, charged once.
 
 [Make this video](https://www.makeviral.ai/templates/thriller-dance-ai-trend/create)

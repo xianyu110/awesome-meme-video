@@ -1,0 +1,59 @@
+# BABYMONSTER DESERVE AI Video: You in the Rain at Night
+
+- Source: [makeviral](https://www.makeviral.ai/templates/babymonster-deserve-ai-video)
+- Slug: `babymonster-deserve-ai-video`
+
+BABYMONSTER DESERVE is the YG girl group's slow pop ballad, out 23 October 2026, and its TikTok trend is vocal covers and moody night edits.
+
+## Demo videos (CDN)
+
+- https://www.makeviral.ai/media/templates/babymonster-deserve-ai-video/example-main-v1.mp4
+
+## Posters
+
+- https://www.makeviral.ai/media/templates/babymonster-deserve-ai-video/example-main-input.jpg
+- https://www.makeviral.ai/media/templates/babymonster-deserve-ai-video/example-main-poster.jpg
+
+## Prompts
+
+### 1. 1. The video prompt is filled in. Settings: Seedance 2.5, 10 s, 720p, 9:16, sound on. The video prompt
+
+*Kind: video_prompt*
+
+```text
+Animate the person in [Image 1]: an emotional night scene in heavy rain, like a K-pop ballad music video. One continuous vertical 9:16 shot with no cuts, cinematic and photorealistic, a slow push-in.
+
+The star is the person in [Image 1], in every frame: copy the exact face from [Image 1] (the face shape, eye color and eye shape, eyebrows, nose, mouth, skin tone, age, hair color, hair length and hairstyle, and any beard, moustache, glasses or freckles), and the same build, so their friends recognize them at once. The star is an adult. They wear a loose grey knit top with a few frayed holes, worn over a black lace camisole, a thin black choker and dark jeans, all soaked by the rain. No logo, no print and no words or letters on it; never the clothes from [Image 1]. The face stays the same from the first frame to the last, also wet with rain and in the close-up. Never morph. If [Image 1] shows an animal, the star is that animal sitting on the wet street, with its own face, fur and markings, not a person.
+
+The place: a dark, empty city street at night in heavy pouring rain. Wet black asphalt reflects warm orange light. A parked dark sedan with no badge and no license plate stands a few steps behind the subject, and far behind the car a big bonfire burns in an empty lot, lighting the falling rain drops orange. No people, no signs, no shop fronts, no letters.
+
+The beats, slow and emotional, like a scene from a K-pop ballad music video, the camera slowly pushing in the whole time:
+0-2.5 s: a medium shot from the waist up: they stand alone in the pouring rain beside the car, no umbrella, the head down, wet hair on the cheeks.
+2.5-5 s: they lift the head and push the wet hair back with one hand, rain running down the face, the eyes looking far away, heartbroken but strong.
+5-7.5 s: the bonfire far behind the car flares up high, warm orange light on the side of the face; they slowly turn the head to the camera.
+7.5-10 s: a close-up from the chest up: they look straight into the lens with a soft, sad half smile and calm eyes, rain drops on the skin; the face fills the top of the frame.
+The lips stay closed or only slightly parted: no singing, no talking. The face is large and sharp at the end: exactly the face from [Image 1].
+
+Audio: an original slow retro synth pop ballad instrumental with soft piano and warm synth pads, plus the sound of heavy rain; no known song, no lyrics, no singing, no talking. Exactly one person. Nobody touches the fire; the flames stay far behind the car. No famous people, no idols, no children. No logos, no car badge, no license plate and no words or letters anywhere. One head, two arms, two legs, five fingers per hand. No captions, no watermark.
+```
+
+### 2. 1. The video prompt is filled in. Settings: Seedance 2.5, 10 s, 720p, 9:16, sound on. The video prompt (Pet)
+
+*Kind: video_prompt*
+
+```text
+Animate the pet in [Image 1]: an emotional night scene in heavy rain, like a K-pop ballad music video. One continuous vertical 9:16 shot with no cuts, cinematic and photorealistic, a slow push-in.
+
+The star is the pet in [Image 1], in every frame: the same species and breed, face, eyes, ears, muzzle, fur colors, fur length and markings as in [Image 1], with the natural body volume and proportions of that animal: never flattened, squashed, stretched or merged with anything. No clothes, no collar text. It stays a real animal on four legs; it never stands like a person.
+
+The place: a dark, empty city street at night in heavy pouring rain. Wet black asphalt reflects warm orange light. A parked dark sedan with no badge and no license plate stands a few steps behind the subject, and far behind the car a big bonfire burns in an empty lot, lighting the falling rain drops orange. No people, no signs, no shop fronts, no letters.
+
+The beats, slow and emotional, the camera slowly pushing in the whole time:
+0-2.5 s: the pet sits alone on the wet street a few steps in front of the car, the rain falling on its fur, the head low.
+2.5-5 s: it lifts its head and gives a small shake, a few drops flying off its ears.
+5-7.5 s: the bonfire far behind the car flares up, a warm orange glow on its fur; it slowly turns its head to the camera.
+7.5-10 s: a close-up of its face: big shiny eyes look straight into the lens, rain drops on the whiskers and the fur; the face fills the top of the frame and is exactly the pet from [Image 1].
+
+Audio: an original slow retro synth pop ballad instrumental with soft piano and warm synth pads, plus the sound of heavy rain; no known song, no lyrics, no singing, no talking. Exactly one animal and no people. The pet never goes near the fire. No logos, no car badge, no license plate and no words or letters anywhere. No captions, no watermark.
+```
+

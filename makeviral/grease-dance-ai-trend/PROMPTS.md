@@ -1,0 +1,58 @@
+# Grease Trend AI: Dance the Carnival Finale as Sandy and Danny
+
+- Source: [makeviral](https://www.makeviral.ai/templates/grease-dance-ai-trend)
+- Slug: `grease-dance-ai-trend`
+
+The Grease trend is back for Halloween: couples dress as Sandy and Danny and dance to "You're the One That I Want".
+
+## Demo videos (CDN)
+
+- https://www.makeviral.ai/media/templates/grease-dance-ai-trend/example-main.mp4
+
+## Posters
+
+- https://www.makeviral.ai/media/templates/grease-dance-ai-trend/example-main-input.jpg
+- https://www.makeviral.ai/media/templates/grease-dance-ai-trend/example-main-poster.jpg
+
+## Prompts
+
+### 1. 1. The video prompt is filled in. Settings: Seedance 2.5, 10 s, 720p, 9:16, sound on. The video prompt
+
+*Kind: video_prompt*
+
+```text
+Animate the two people in [Image 1] and [Image 2]: a 1950s greaser couple dances at a fair. One continuous vertical 9:16 shot with no cuts, the camera slowly tracking back in front of them, photorealistic live action.
+
+WHO IS WHO: the dancer in the OFF-SHOULDER TOP is the person in [Image 1], in every frame: copy the exact face from [Image 1] (the face shape, eye color and eye shape, eyebrows, nose, mouth, skin tone, age, hair color, hair length and hairstyle, and any beard, moustache, glasses or freckles). They wear a black off-shoulder fitted top with short sleeves, tight black high-waisted pants with a black belt, red high heels, red lipstick, the hair set in soft big curls, with their own hair color and length from [Image 1]. The GREASER in the LEATHER JACKET is the person in [Image 2], in every frame: copy the exact face from [Image 2] (the face shape, eye color and eye shape, eyebrows, nose, mouth, skin tone, age, hair color, hair length and hairstyle, and any beard, moustache, glasses or freckles). They wear a black leather jacket over a fitted black T-shirt, black trousers, black shoes, the hair combed back and slicked in a 1950s greaser style, with their own hair color from [Image 2]. The roles come ONLY from the photo order, never from gender. Both are adults. Never blend their faces and never swap their outfits; each face stays the same from the first frame to the last, also in the spin, so their friends recognize them at once. Never morph. If an image shows an animal, that dancer is that animal standing upright, with its own face, fur and markings, in the same outfit.
+
+The place: an old-fashioned outdoor fair at dusk, the rides just lit up: a carousel with warm bulbs, red-and-white striped tents, colorful bunting overhead, a few balloons, a soft crowd far behind. Warm golden light, a 1950s film look with gentle grain.
+
+The dance, playful and flirty on the beat of an upbeat 1950s rock and roll tune:
+0-2 s: wide shot, full bodies. The one in the off-shoulder top struts toward the camera with a confident smile, hips swinging; the greaser follows one step behind, snapping his fingers, grinning.
+2-4.5 s: side by side, a shoulder shimmy and a hip sway with bent knees, then both point at each other on the beat.
+4.5-7 s: they face each other, take hands, and the one in the off-shoulder top spins once under the greaser's raised arm.
+7-10 s: a swing step side to side, hand in hand, then they finish close together, cheek to cheek, both smiling into the camera; both faces large and sharp.
+
+Audio: an original upbeat 1950s rock and roll tune with a walking doo-wop bass, handclaps and a saxophone, no lyrics, never a known song; soft fair sounds under it. No talking. Exactly two dancers in front. No famous people, no movie actors and no look-alikes of them. No children. No logos and no words or letters anywhere, also not on the jacket. One head, two arms, two legs and five fingers per hand for each dancer. No captions, no watermark, no split screen.
+```
+
+### 2. 1. The video prompt is filled in. Settings: Seedance 2.5, 10 s, 720p, 9:16, sound on. The video prompt
+
+*Kind: video_prompt*
+
+```text
+Animate the person in [Image 1]: they dance with a partner as a 1950s greaser couple at a fair. One continuous vertical 9:16 shot with no cuts, the camera slowly tracking back in front of them, photorealistic live action.
+
+The star is the person in [Image 1], in every frame: copy the exact face from [Image 1] (the face shape, eye color and eye shape, eyebrows, nose, mouth, skin tone, age, hair color, hair length and hairstyle, and any beard, moustache, glasses or freckles), so their friends recognize them at once. The star is an adult. If [Image 1] shows a woman, she wears a black off-shoulder fitted top with short sleeves, tight black high-waisted pants with a black belt, red high heels, red lipstick, the hair set in soft big curls, and her partner is the greaser: an invented man of a similar age, not a famous person, with an ordinary friendly face, wearing a black leather jacket over a fitted black T-shirt, black trousers, black shoes, the hair combed back and slicked in a 1950s greaser style. If [Image 1] shows a man, he is the greaser and wears a black leather jacket over a fitted black T-shirt, black trousers, black shoes, the hair combed back and slicked in a 1950s greaser style, and his partner is an invented woman of a similar age, not a famous person, wearing a black off-shoulder fitted top with short sleeves, tight black high-waisted pants with a black belt, red high heels, red lipstick, the hair set in soft big curls. The star keeps their own hair color and length, and the same face from the first frame to the last, also in the spin. Never morph. The partner never looks like the star and never like a movie actor.
+
+The place: an old-fashioned outdoor fair at dusk, the rides just lit up: a carousel with warm bulbs, red-and-white striped tents, colorful bunting overhead, a few balloons, a soft crowd far behind. Warm golden light, a 1950s film look with gentle grain.
+
+The dance, playful and flirty on the beat of an upbeat 1950s rock and roll tune:
+0-2 s: wide shot, full bodies. The one in the off-shoulder top struts toward the camera with a confident smile, hips swinging; the greaser follows one step behind, snapping his fingers, grinning.
+2-4.5 s: side by side, a shoulder shimmy and a hip sway with bent knees, then both point at each other on the beat.
+4.5-7 s: they face each other, take hands, and the one in the off-shoulder top spins once under the greaser's raised arm.
+7-10 s: a swing step side to side, hand in hand, then they finish close together, cheek to cheek, both smiling into the camera; both faces large and sharp.
+
+Audio: an original upbeat 1950s rock and roll tune with a walking doo-wop bass, handclaps and a saxophone, no lyrics, never a known song; soft fair sounds under it. No talking. Exactly two dancers in front. No famous people, no movie actors and no look-alikes of them. No children. No logos and no words or letters anywhere, also not on the jacket. One head, two arms, two legs and five fingers per hand for each dancer. No captions, no watermark, no split screen.
+```
+
