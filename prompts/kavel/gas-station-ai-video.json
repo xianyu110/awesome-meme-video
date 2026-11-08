@@ -1,0 +1,36 @@
+{
+  "source": "kavel",
+  "slug": "gas-station-ai-video",
+  "prompts": [
+    {
+      "label": "Template prompt",
+      "variant": null,
+      "kind": "video_prompt",
+      "text": "One to three reference photos, one character each: a person, a pet or a toy. Keep every face, hairstyle, body, fur and outfit exactly as photographed and never swap them. Golden-hour sunset over a wide, empty gas station parking lot, trucks parked far in the background, two cars side by side with their doors flung open. Shot 1: the first character stands alone in the middle of the lot and breaks into a loose, bouncy dance, shoulders rolling, then throws both arms high. Shot 2: handheld fisheye selfie â the next character holds the camera at arm's length, grins and dances into the lens. Shot 3: a character leans out of an open car door, looks around, then climbs out smiling and joins in. Shot 4: wide shot of everyone dancing together by the cars. With only one photo, that one character plays every shot. Wide-angle action-camera look, warm low sun, quick cuts on the beat, vertical video. Upbeat dance-pop music in the audio. No other people, no text, no logos on the cars or the station, no watermark."
+    },
+    {
+      "label": "Gas Station Trend AI â a panda dances at the pumps",
+      "variant": "gas-station-panda",
+      "kind": "video_prompt",
+      "text": "One reference photo of a pet or a stuffed animal; keep its fur colour, markings and face exactly as photographed. Bright daytime at a gas station forecourt. Shot 1: standing upright on its hind legs beside a yellow sports car with no badges, it holds the camera at arm's length in a fisheye selfie and waves a paw. Shot 2: under the pump canopy it dances, bouncing side to side with both paws up, then steps toward the camera and wiggles its shoulders. Real animal anatomy: paws, never human hands. Wide-angle handheld look, quick cuts on the beat, vertical video. Upbeat dance-pop music in the audio. No people, no text, no station or car logos, no watermark."
+    },
+    {
+      "label": "Gas Station Trend AI â two friends at sunset",
+      "variant": "gas-station-sunset-duo",
+      "kind": "video_prompt",
+      "text": "Two or three reference photos, one person each; keep every face, hairstyle and outfit exactly as photographed and never swap them. Golden-hour sunset over an empty gas station parking lot with trucks far behind, two cars parked side by side with the doors open. Shot 1: the person from the FIRST photo, in a white shirt and jeans, dances alone in the middle of the lot, rolling his shoulders and flicking his hands. Shot 2: handheld fisheye selfie of the SECOND person grinning and swinging the camera. Shot 3: the last person leans out of the open car door, glances around, looks straight into the lens, then breaks into a wide smile. Warm low sun, wide-angle action-camera look, quick cuts on the beat, vertical video. Upbeat dance-pop music in the audio. No other people, no text, no logos, no watermark."
+    },
+    {
+      "label": "Gas Station Trend AI â three friends take turns",
+      "variant": "gas-station-friends",
+      "kind": "video_prompt",
+      "text": "Three reference photos, one friend each; keep every face, hairstyle and outfit exactly as photographed and never swap them. Sunset at a gas station parking lot, a red car and a dark SUV parked side by side with the doors open. Shot 1: the friend from the FIRST photo, in a black jacket and sunglasses, stands alone in the open lot, then throws both arms up to the sky. Shot 2: the friend from the SECOND photo, in green-tinted round glasses, holds the camera at arm's length for a fisheye selfie and nods to the beat. Shot 3: the friend from the THIRD photo, in a beige sweater, climbs out of the red car and strolls toward the camera, hands loose, dancing. Wide-angle handheld look, warm light, quick cuts on the beat, vertical video. Upbeat dance-pop music in the audio. No other people, no text, no car or station logos, no watermark."
+    },
+    {
+      "label": "Gas Station Trend AI â golden hour, one in costume",
+      "variant": "gas-station-golden-hour",
+      "kind": "video_prompt",
+      "text": "Three reference photos, one person each; keep every face exactly as photographed and never swap them. Golden hour over an empty gas station parking lot, trucks far behind, two cars parked with the doors open. Shot 1: the person from the FIRST photo, in a lilac jacket and khaki cargo trousers, dances alone, hair flying, then throws both arms up into the sunset. Shot 2: the person from the SECOND photo, in a dark leather jacket, swings the camera round for a fisheye selfie and dances into the lens. Shot 3: the person from the THIRD photo, dressed in an 18th-century costume with a powdered updo, a ruffled lace collar and a burgundy coat, climbs out of the car and stares into the camera before laughing. Warm low sun, wide-angle action-camera look, quick cuts on the beat, vertical video. Upbeat dance-pop music in the audio. No other people, no text, no logos, no watermark."
+    }
+  ]
+}

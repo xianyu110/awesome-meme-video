@@ -1,0 +1,12 @@
+{
+  "source": "mediaio",
+  "slug": "coldplay-kiss-cam-ai-filter",
+  "prompts": [
+    {
+      "label": "prompt",
+      "variant": null,
+      "kind": "prompt",
+      "text": "Use <<<Image1>>> as the exact scene, composition and pose reference. Recreate the same nighttime stadium Kiss Cam shot displayed on a giant circular concert screen.\r\n\r\nReplace the person in front with Lionel Messi wearing an Argentina football jersey. Keep him turning away and covering his face with one hand in an embarrassed reaction. Replace the person behind with Cristiano Ronaldo wearing a Portugal football jersey. Keep him hugging Messi around the waist while staring at the camera with a shocked, wide-eyed expression.\r\n\r\nMake both celebrities immediately recognizable. Match the original framing, body positions, hand placement, warm stadium lighting, screen softness and low-resolution phone-camera quality. Clearly fictional comedic AI parody. No additional people, swapped faces, distorted hands, text, logos or watermark."
+    }
+  ]
+}

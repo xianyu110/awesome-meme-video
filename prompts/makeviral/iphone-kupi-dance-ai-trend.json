@@ -1,0 +1,12 @@
+{
+  "source": "makeviral",
+  "slug": "iphone-kupi-dance-ai-trend",
+  "prompts": [
+    {
+      "label": "1. The video prompt is filled in. Settings: Seedance 2.5, 15 s, 720p, 9:16, sound off. The video prompt",
+      "variant": null,
+      "kind": "video_prompt",
+      "text": "Recreate the reference video [Video 1] shot for shot: the same one continuous take from a phone camera propped at chest height in a dark luxury hotel room at night, warm wood walls and ceiling, a cream armchair, tall windows with the lit night city behind, the edge of a white bed in front, with the same framing, timing and moves. No cuts. The ONLY change: the dancer is now the person in [Image 1].\n\n[Image 1] replaces the woman with the short copper-red bob and bangs, in EVERY second: copy the exact face from [Image 1] (the face shape, eye color and eye shape, eyebrows, nose, mouth, skin tone, age, hair color, hair length and hairstyle, and any beard, moustache, glasses or freckles). They wear the clothes from [Image 1]. NO red bob, no bangs, no cat-eye glasses, no glasses chain, no gold earrings, no fur coat, no leopard scarf and no floral dress unless [Image 1] shows them: no glasses of any kind unless [Image 1] shows glasses. The same real person from the first second to the last, so their friends recognize them at once, also in the wide shots, the spins and the throws. Never morph, never drift back to the original woman's face.\n\nThe devices are plain: a dark foldable phone and a plain tablet-size foldable, thin dark frames, no logo and no brand mark anywhere (also on the back), screens with a soft silver abstract glow only: no app icons, no clock, no words, no brand screen.\n\nShots, matching the reference second by second:\n0-1.2 s: close to the lens, holding the folded phone near the face, a sly smile.\n1.2-2.2 s: unfolds the phone and shows the open screen to the lens, proud.\n2.2-3.8 s: pulls it away, a playful flex, sways and leans toward the lens.\n3.8-5.5 s: holds the big tablet-size foldable up to the lens and opens it like a book.\n5.5-7.5 s: steps back to the middle of the room with the tablet at the chest; the wide shot shows the whole room.\n7.5-10 s: dances with the tablet, folds it, swings it on the beat.\n10-11.5 s: throws the device high into the air and catches it.\n11.5-15 s: dances wildly, flinging the device around, then turns and walks off to the right.\n\nOne head only, on the dancer's own shoulders; two hands. Nobody else in the room. No captions or subtitles, no added text, no logos, no watermark."
+    }
+  ]
+}

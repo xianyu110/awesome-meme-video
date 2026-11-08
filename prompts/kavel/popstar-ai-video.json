@@ -1,0 +1,18 @@
+{
+  "source": "kavel",
+  "slug": "popstar-ai-video",
+  "prompts": [
+    {
+      "label": "Popstar AI video â the French bulldog in shades",
+      "variant": "popstar-frenchie-hallway",
+      "kind": "video_prompt",
+      "text": "Use the photo as the main character and keep them exactly as photographed: the same face, fur or hair, colours and build, now wearing a thick gold chain and tiny dark sunglasses. A modern mansion with warm wood-panelled walls and a long polished hallway. (1) They trot down the hallway straight toward the camera, chest out, head held high, mouth opening and closing as if rapping into the lens, while a tall bald bodyguard with a full beard in a dark suit walks one step behind carrying a champagne bottle for them; (2) they hop down a floating wooden staircase with a glass railing, past a wall of large framed pop-art portraits of themselves in the same sunglasses; (3) at the bottom they stop, stare straight into the lens, and the bodyguard pops the cork behind them. Handheld music-video camera moving backwards in front of them, warm daylight, one continuous take, vertical 9:16. Upbeat hip-hop beat in the audio, no vocals. Plain unbranded bottle. No text, no captions, no logos, no watermark."
+    },
+    {
+      "label": "Popstar AI video â the pink bonnet popstar",
+      "variant": "popstar-durag-hallway",
+      "kind": "video_prompt",
+      "text": "Use the photo as the main character and keep them exactly as photographed: the same face, hair, skin tone and build, now wearing a hot-pink satin bonnet over a black durag, a plain black T-shirt and black trousers. A modern mansion with warm wood-panelled walls. (1) They storm down the hallway toward the camera with a dark champagne bottle in one hand, arms flung wide, mouth wide open on every line of a rap verse, a tall bald bodyguard with a full beard in a dark suit right behind their shoulder; (2) they hop down a floating wooden staircase with a glass railing, bottle up, past a wall of large framed portraits of themselves in the same pink bonnet; (3) at the bottom they point the bottle at the lens and spread their arms, the bodyguard still at their side. Handheld music-video camera moving backwards in front of them, warm daylight, one continuous take, vertical 9:16. Upbeat hip-hop beat in the audio, no vocals. Champagne bottle with a plain unbranded label. No text, no captions, no logos, no watermark."
+    }
+  ]
+}

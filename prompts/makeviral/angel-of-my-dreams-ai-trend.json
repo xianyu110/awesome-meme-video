@@ -1,0 +1,24 @@
+{
+  "source": "makeviral",
+  "slug": "angel-of-my-dreams-ai-trend",
+  "prompts": [
+    {
+      "label": "1. The video prompt is filled in. Settings: Seedance 2.5, 10 s, 720p, 9:16, sound on. The video prompt",
+      "variant": null,
+      "kind": "video_prompt",
+      "text": "A vertical phone video filmed by a friend at night: one continuous handheld take. The front door of a house at night, a warm yellow porch light, a short stone path, a dark garden and a deep blue night sky.\nTHE ANGEL: the person in [Image 1], in every frame: copy the exact face from [Image 1] (the face shape, eye color and eye shape, eyebrows, nose, mouth, skin tone, age, hair color, hair length and hairstyle, and any beard, moustache, glasses or freckles), so their friends recognize them at once. The face stays the same from the first frame to the last; never morph.\nTHE OUTFIT: a flowing white chiffon dress with long sleeves that falls to the ankles, and white shoes. If [Image 1] shows a man, he wears a white suit with a white shirt. No wings show before the reveal: the back is plain.\n\n[00:00-00:02] the front door swings open from the inside and THE ANGEL steps out into the warm porch light, looking down shyly.\n[00:02-00:05] THE ANGEL walks forward down the path toward the camera and stops, a soft white glow rising behind the shoulders.\n[00:05-00:08] giant white feathered angel wings slowly unfold from THE ANGEL's back, layer after layer of soft feathers, taller than the head and wider than the doorway; loose white feathers drift down through the porch light.\n[00:08-00:10] the camera moves in closer: THE ANGEL looks straight into the lens and smiles softly, the wings spread wide behind, the face large and sharp: exactly the face from [Image 1]. If [Image 1] shows an animal, THE ANGEL is that animal on its own four legs, with its own face, fur and markings, in small wings sized for it, and no dress.\n\nSOUND: a soft, dreamy pop music bed with NO singing and NO lyrics, a light night breeze and the soft rustle of feathers as the wings open.\n\n真人实拍、五官清晰、面部稳定、不扭曲、不变形、人体结构正常、同一角色、服装一致、发型不变.\n\nAvoid: singing, lyrics, a different outfit, wings before the reveal, missing wings, a different face, a different animal or species, extra people at the door, writing, logos, captions, subtitles, watermarks, extra limbs, morphing, facial distortion. The outfit covers the body like a long dress or a suit: never a bra top, never underwear or lingerie as the outfit. No letters, words or logos on the door, the house or the clothes. The wings grow from the back, between the shoulder blades, never from the arms."
+    },
+    {
+      "label": "1. Open [AI Photo with this template](https://www.makeviral.ai/photo?template=angel-of-my-dreams-ai-trend&variant=pet) and add your photo (your pet, whole body). The photo prompt is filled in",
+      "variant": "Pet",
+      "kind": "photo_prompt",
+      "text": "Use the uploaded image as the base. 9:16 vertical photo, like a real phone photo taken at night. The pet from the uploaded image sits on its four paws on the doorstep of an open front door at night, in a warm yellow porch light, facing the camera, its whole body in view from the ears to the paws, with its tail. Small white feathered angel wings, sized for the pet, lie folded against its back. A dark garden and a deep blue night sky behind. Realistic photo with natural colors. Exactly one animal and no people. No clothes on the pet except the wings. No text, no logos, no watermark."
+    },
+    {
+      "label": "3. Press the film button on the still to open AI Video with the still as the first frame. Settings: Kling 3.0, 10 s, 1080p, 9:16, sound on. The video prompt",
+      "variant": null,
+      "kind": "video_prompt",
+      "text": "One continuous handheld take at night at the open front door. Keep the animal's face, fur, markings, tail and size, the small white wings, the porch light and the door exactly as in the image.\n0-3 s: the pet sits on the doorstep in the porch light and looks around, ears up.\n3-7 s: the small white feathered wings on its back slowly unfold and open wide, and loose white feathers drift down through the light.\n7-10 s: the camera moves in closer; the pet looks straight into the lens and tilts its head, the wings open behind it.\nAudio: a soft, dreamy music bed with no singing, a light night breeze and the rustle of feathers. The pet never speaks. Exactly one animal, no people. No extra animals, no extra legs, no morphing. The wings stay on its back. No text, no subtitles, no logos, no watermark."
+    }
+  ]
+}

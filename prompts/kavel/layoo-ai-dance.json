@@ -1,0 +1,24 @@
+{
+  "source": "kavel",
+  "slug": "layoo-ai-dance",
+  "prompts": [
+    {
+      "label": "Template prompt",
+      "variant": null,
+      "kind": "video_prompt",
+      "text": "Use the photo as the main character and keep the person exactly as photographed: same face, hair, skin tone, build and clothes. They stand front and centre in a cozy living room at night: beige carpet, a long brown leather sofa against the back wall, wooden chairs, warm recessed ceiling lights, two friends dancing in sync a step behind them. They do the Layoo dance on the beat: drop into a deep, wide squat with the knees pushed out and bounce, hands pointing down and flicking at their sides; fling both arms out wide like wings; beat both fists on the chest, gorilla style; hop on the spot with the knees out; and finish with both arms thrown straight up over the head, grinning at the camera. Full body in frame the whole time, phone camera on a tripod at waist height, one continuous take, vertical 9:16. Heavy hip-hop drum beat with deep bass in the audio, no vocals. No text, no captions, no logos, no watermark."
+    },
+    {
+      "label": "Layoo AI dance â the basement squat",
+      "variant": "layoo-ai-dance-durag-crew",
+      "kind": "video_prompt",
+      "text": "Use the photo as the main character and keep the person exactly as photographed: same face, hair, skin tone and build. Give them a black durag. Dress them in a plain black sleeveless top, loose grey sweatpants and white trainers. They stand front and centre in a basement living room at night: grey carpet, a dark sectional sofa against the back wall, a big framed mirror, warm recessed ceiling lights. They do the Layoo dance on the beat: drop into a deep, wide squat with the knees pushed out and bounce, hands pointing down and flicking at their sides; fling both arms out wide like wings; beat both fists on the chest, gorilla style; hop on the spot with the knees out; and finish with both arms thrown straight up over the head, laughing at the camera. Full body in frame the whole time, phone camera on a tripod at waist height, one continuous take, vertical 9:16. Heavy hip-hop drum beat with deep bass in the audio, no vocals. No text, no captions, no logos, no watermark."
+    },
+    {
+      "label": "Layoo AI dance â the baby version",
+      "variant": "layoo-ai-dance-baby",
+      "kind": "video_prompt",
+      "text": "Use the photo as the main character and keep the baby exactly as photographed: same face, eyes, hair, skin tone and age, in a blue T-shirt, grey shorts and little socks. The baby stands on a soft grey carpet in a bright open-plan living room, filmed on a phone resting on the floor, looking up. The baby does the Layoo dance in toddler form: drops into a wobbly wide squat with the knees out and bounces, flaps both arms out wide like wings, pats both hands on the chest, then claps and laughs at the camera. Wholesome, innocent toddler moves only: bouncing knees, flapping arms, clapping, little stomps; no hip thrusts, no twerking, no grown-up or suggestive dance moves. Real baby proportions. One continuous take, vertical 9:16. Bouncy hip-hop drum beat in the audio, no vocals. No adults in frame, no text, no captions, no logos, no watermark."
+    }
+  ]
+}

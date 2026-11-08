@@ -1,0 +1,42 @@
+{
+  "source": "makeviral",
+  "slug": "thanksgiving-pfp-ai-trend",
+  "prompts": [
+    {
+      "label": null,
+      "variant": null,
+      "kind": "prompt",
+      "text": "Use the uploaded image as the base. An early-2000s style Thanksgiving photo of the person in the uploaded image holding a freshly baked pumpkin pie in a retro kitchen, preserving their recognizable face. Compact-camera flash, slightly oversaturated orange and brown tones, corded wall phone, fall wreath on the cabinet, light film grain, candid pose, nostalgic family-album feel, realistic photography. The person holds the pie at chest height, the whole pie in view below the face, and faces the camera with the same expression as in the photo. Keep the person's own clothes from the photo. Compose it as a profile picture: a head-and-shoulders portrait, the face in the exact center of the frame and looking into the camera, with a little room above the head, so a round or square profile picture crop keeps the whole head. The flash lights the face evenly, with true skin color and the eyes sharp. Exactly one person. No text, no letters, no numbers, no date stamp, no logo, no watermark, no sticker, no frame and no border. No cartoon character, mascot or toy figure anywhere in the picture."
+    },
+    {
+      "label": null,
+      "variant": null,
+      "kind": "prompt",
+      "text": "Use the uploaded image as the base. A close portrait of the person in the uploaded selfie framed by out-of-focus red, orange, and gold leaves in the foreground, preserving their recognizable face. Soft backlight creating a gentle glow in their hair, warm autumn clothing, sharp focus on the eyes, shallow depth of field, the same expression as in the photo, suitable as a profile picture. The leaves stay at the edges of the frame and never cover the face, the eyes or the mouth. Compose it as a profile picture: a head-and-shoulders portrait, the face in the exact center of the frame and looking into the camera, with a little room above the head, so a round or square profile picture crop keeps the whole head. Warm, soft, flattering light on the face, natural skin texture and true skin color. Photo realistic, like a real phone portrait on an autumn afternoon, not a painting. Exactly one person. No text, no letters, no numbers, no date stamp, no logo, no watermark, no sticker, no frame and no border. No cartoon character, mascot or toy figure anywhere in the picture."
+    },
+    {
+      "label": null,
+      "variant": null,
+      "kind": "prompt",
+      "text": "Use the uploaded image as the base. Transform this photo into a Thanksgiving dinner scene. Keep the person's real face and features unchanged. Place the person at a beautifully set dinner table with a golden roasted turkey, mashed potatoes, cranberry sauce, pumpkin pie, and fresh flowers. The person is wearing a cozy knitted sweater. Add warm candlelight glow and make the background slightly blurred like a magazine cover. The atmosphere should feel intimate and festive. Frame it from the chest up: the person sits behind the table and faces the camera with the same expression as in the photo, the face in the exact center, the turkey and the dishes in the lower part of the frame, never in front of the chin, with a little room above the head, so a round or square profile picture crop keeps the whole head. Natural skin texture and true skin color, sharp focus on the eyes. Exactly one person. No text, no letters, no numbers, no date stamp, no logo, no watermark, no sticker, no frame and no border. No cartoon character, mascot or toy figure anywhere in the picture."
+    },
+    {
+      "label": null,
+      "variant": "Pet",
+      "kind": "prompt",
+      "text": "Use the two uploaded images. Make a matching pair of cozy Thanksgiving profile pictures in one picture: two square portraits stacked one above the other, split by a thin straight white line across the middle, so each square can be cropped as its own profile picture. The TOP square is the subject from image 1. The BOTTOM square is the subject from image 2. Each square shows only its own subject. Both portraits match: each is a close portrait framed by out-of-focus red, orange, and gold leaves at the edges, soft backlight creating a gentle glow in the hair, warm autumn clothing, sharp focus on the eyes, shallow depth of field, with the same light, the same colors and the same framing. In each square: a head-and-shoulders portrait, the face in the center of the square and looking into the camera, with the same expression as in its photo. The leaves never cover a face. Each person keeps their own face, hair, glasses, facial hair, skin tone and age from their photo. Never blend the two faces, never swap hair, glasses or clothes between them, and never put both subjects in the same square. If an image shows an animal, that square shows that same animal with its own face, fur and markings among the autumn leaves, not a person. Natural skin texture, true skin color. Photo realistic, like two real phone portraits taken on the same autumn afternoon. No text, no letters, no numbers, no logo, no watermark and no sticker. No cartoon character, mascot or toy figure. No frame or border around the picture: the thin white line between the two squares is the only line."
+    },
+    {
+      "label": null,
+      "variant": null,
+      "kind": "prompt",
+      "text": "Use the two uploaded images. A cozy photo of a couple cooking Thanksgiving dinner together in a bright kitchen, preserving each person's recognizable facial features: the person from image 1 on the LEFT and the person from image 2 on the RIGHT. One stirs cranberry sauce while the other holds up a wooden spoon to taste, steam rising from the stove, flour on the counter, warm tungsten light with soft window fill, candid 35mm film look, affectionate mood. Both are adults. Frame it from the waist up, the two faces big and close together in the middle of the frame, both turned toward the camera, so the picture also works as a shared couple profile picture. Each keeps their own face, hair, glasses, facial hair, skin tone, age and expression from their photo. Never blend the two faces and never swap hair, glasses or clothes between them. If an image shows an animal, that place shows that same animal with its own face, fur and markings, sitting on the counter, not a person. Exactly the subjects in the two photos, no extra people. No text, no letters, no numbers, no date stamp, no logo, no watermark, no sticker, no frame and no border. No cartoon character, mascot or toy figure anywhere in the picture."
+    },
+    {
+      "label": null,
+      "variant": "Pet",
+      "kind": "prompt",
+      "text": "Use the uploaded image as the base. The pet from the uploaded image wearing a tiny knit sweater with a simple knitted turkey shape, sitting proudly at the head of a Thanksgiving table beside a small plate of pet-safe treats. Soft window light, shallow depth of field, a mini pumpkin and autumn leaves on the table, expressive eyes, realistic fur texture, warm and wholesome. The pet keeps the same species and breed look, the head shape, the ears, the eye color, the fur colors, the fur length, the pattern and the markings, and any collar or tag from the photo, with the natural body volume of that animal. Compose it as a profile picture: the pet's head and chest, the face in the exact center of the frame and looking into the camera, with a little room above the ears, so a round or square profile picture crop keeps the whole head. Every hair of the fur crisp. Exactly the animals in the photo, no people. No text, no letters, no numbers, no date stamp, no logo, no watermark, no sticker, no frame and no border. No cartoon character, mascot or toy figure anywhere in the picture."
+    }
+  ]
+}

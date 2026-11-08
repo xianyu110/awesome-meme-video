@@ -1,0 +1,12 @@
+{
+  "source": "makeviral",
+  "slug": "phone-on-train-trend",
+  "prompts": [
+    {
+      "label": "1. The video prompt is filled in. Settings: Seedance 2.5, 22 s, 480p, 9:16, sound off. The video prompt",
+      "variant": null,
+      "kind": "video_prompt",
+      "text": "Video editing task: character and outfit replacement. Replace the young man in Video 1 with the person shown in Image 1.\n\nSTRICT IDENTITY AND OUTFIT RULES:\n- The person in the output must be the exact same person as in Image 1: the same face, eyes, eyebrows, nose, lips, facial hair or no facial hair, skin tone, and the same hair color, length and hairstyle.\n- The person wears exactly the clothes from Image 1 in every frame. Where Image 1 does not show the lower body, add plain trousers and shoes that match the outfit.\n- Remove the black zip sweater, the belt and the light blue jeans of the original man. Remove the white wired earphones completely: no earphones and no cable in any frame.\n- Do not keep any facial feature or the light brown hair of the original man in Video 1. His face must not appear in any frame: not his eyes, nose, mouth, jaw or skin.\n- The face, the hair and the outfit must match Image 1 in every frame: close-ups, side views, the back of the head, and fast running.\n- Do not make the face younger, smoother or more like a model. Keep the real age, skin and face shape of Image 1.\n\nKEEP FROM VIDEO 1 EXACTLY THE SAME:\n- The same body movements, dance moves, gestures, singing mouth movements, running, timing and speed.\n- The same camera movement, framing, cuts and shot lengths.\n- The same phone, which the person holds and then sticks on the outside of the train window.\n- The same Paris metro platform, metro train, passengers, posters, lighting and colors.\n- The same length as Video 1.\n\nDo not add text, captions, logos or new people. Do not change the background. Realistic iPhone footage with natural skin texture."
+    }
+  ]
+}

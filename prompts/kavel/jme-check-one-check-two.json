@@ -1,0 +1,36 @@
+{
+  "source": "kavel",
+  "slug": "jme-check-one-check-two",
+  "prompts": [
+    {
+      "label": "Template prompt",
+      "variant": null,
+      "kind": "video_prompt",
+      "text": "Use the photo: keep this person exactly as photographed, same face, hair, skin tone and clothes. Vertical 9:16. First second: the photo as it is. Hard cut: the same person at night in the middle of a packed, dark crowd, filmed in a handheld phone close-up from the chest up, the crowd dim and out of focus behind them, a few small lights in the dark. They lean right into the lens and rap a fast UK grime verse straight to camera, opening with \"yo, check one, check two\", mouth moving clearly on every line, eyebrows up, head bobbing hard on the beat, one hand pointing at the lens. Slight camera shake, a quick white camera flash on the face halfway through, then they land the last line and stare into the lens, nodding. Real phone-footage look. Audio: a fast UK grime beat with their voice rapping the verse. No text, no captions, no logos, no watermark."
+    },
+    {
+      "label": "Check one check two AI video â white tee, tattooed hands",
+      "variant": "check-one-check-two-bald-tee",
+      "kind": "video_prompt",
+      "text": "Use the photo: keep this person exactly as photographed, same face, hair, skin tone and clothes. Vertical 9:16. First second: the photo as it is. Hard cut: the same person at night in the middle of a packed, dark crowd, filmed in a handheld phone close-up from the chest up, faces of the crowd dim and out of focus behind them. They lean right into the lens and rap a fast UK grime verse straight to camera, opening with \"yo, check one, check two\", mouth moving clearly on every line, head bobbing hard on the beat, one hand chopping the air toward the lens. A quick white camera flash on the face halfway through, then a long stare into the lens. Real phone-footage look. Audio: a fast UK grime beat with their voice rapping the verse. No text, no captions, no logos, no watermark."
+    },
+    {
+      "label": "Check one check two AI video â long hair in the dark",
+      "variant": "check-one-check-two-long-hair-garden",
+      "kind": "video_prompt",
+      "text": "Use the photo: keep this person exactly as photographed, same face, hair, skin tone and clothes. Vertical 9:16. First second: the photo as it is. Hard cut: the same person at night at the front of a packed, dark crowd, small warm lights in the dark behind them, filmed in a handheld phone close-up from the chest up. Long hair swinging, they jab a finger at the camera and rap a fast UK grime verse straight into the lens, opening with \"yo, check one, check two\", mouth moving clearly on every line, eyebrows up. Slight camera shake, then they land the last line and nod at the lens. Real phone-footage look. Audio: a fast UK grime beat with their voice rapping the verse. No text, no captions, no logos, no watermark."
+    },
+    {
+      "label": "Check one check two AI video â straight out of the car",
+      "variant": "check-one-check-two-car-headband",
+      "kind": "video_prompt",
+      "text": "Use the photo: keep this person exactly as photographed, same face, hair, headband, skin tone and clothes. Vertical 9:16. First second: the photo as it is. Hard cut: the same person at night in a packed street crowd, a streetlight glowing behind them, filmed in a handheld phone close-up from the chest up. They lean into the lens and rap a fast UK grime verse straight to camera, opening with \"yo, check one, check two\", one hand flicking out at the camera on each line, eyebrows up, head bobbing on the beat. Slight camera shake, then a stare into the lens. Real phone-footage look. Audio: a fast UK grime beat with their voice rapping the verse. No text, no captions, no logos, no watermark."
+    },
+    {
+      "label": "Check one check two AI video â hand cupped like a mic",
+      "variant": "check-one-check-two-bun-fig-plant",
+      "kind": "video_prompt",
+      "text": "Use the photo: keep this person exactly as photographed, same face, hair, skin tone and clothes. Vertical 9:16. First second: the photo as it is. Hard cut: the same person at night in a packed, dark crowd, filmed in a handheld phone close-up from the chest up. One hand cupped by the mouth like a mic, then pointing at the lens, they rap a fast UK grime verse straight to camera, opening with \"yo, check one, check two\", mouth moving clearly on every line, head bobbing hard on the beat. Slight camera shake, a quick white camera flash on the face, then a stare into the lens. Real phone-footage look. Audio: a fast UK grime beat with their voice rapping the verse. No text, no captions, no logos, no watermark."
+    }
+  ]
+}

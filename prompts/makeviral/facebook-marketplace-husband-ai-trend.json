@@ -1,0 +1,18 @@
+{
+  "source": "makeviral",
+  "slug": "facebook-marketplace-husband-ai-trend",
+  "prompts": [
+    {
+      "label": null,
+      "variant": null,
+      "kind": "prompt",
+      "text": "Use the uploaded image as the base: the person in it is \"me\". Could you put me looking to the left with a shocked face while standing on the front porch of a white barndominium and I'm wearing an oversized camo shirt holding a big insulated tumbler cup with a straw, and make my toe nails painted white. The porch: white board-and-batten walls, black window frames, a black front door, a black lantern wall light, a doormat and a rocking chair, with green fields and a wooden fence behind. The oversized camo t-shirt hangs long like a t-shirt dress over short black shorts, no shoes on, hair in a messy bun. The shocked face looks off to the left at something just out of the frame, the look of a wife who just saw what her husband brought home: eyebrows up, mouth a little open. Exactly one person in the picture, the person from the uploaded image: nobody else, no child, no baby, no second adult. Keep the body shape and body size exactly as in the photo. The camo is a plain brown and green leafy hunting camo print with no logo; no brand names or logos on the clothes. No badges, brand names, logos or license plate text on any vehicle. Vertical 9:16, one full-body phone photo from head to toe, natural late-afternoon light, photorealistic, like a real snapshot. No text, no captions, no stickers, no signs, no watermark, no frame."
+    },
+    {
+      "label": null,
+      "variant": null,
+      "kind": "prompt",
+      "text": "Use the uploaded image as the base: the person in it is \"me\". Could you put me look to the right with a scared face while standing on the driveway with a big heavy-duty pickup truck and trailer behind me with a truck on it and I'm wearing cowboy boots with blue jeans and with a black shirt with a backwards hat, half crouched next to the trailer. The pickup is big and dark; on the long flatbed trailer behind it sits another old pickup truck, the new reckless purchase. A gravel driveway in the country at dusk, trees behind. The scared face looks off to the right toward the house, the look of someone caught bringing home another deal: eyes wide, eyebrows up, a guilty half smile. Exactly one person in the picture, the person from the uploaded image: nobody else, no child, no baby, no second adult. Keep the body shape and body size exactly as in the photo. The camo is a plain brown and green leafy hunting camo print with no logo; no brand names or logos on the clothes. No badges, brand names, logos or license plate text on any vehicle. Vertical 9:16, one full-body phone photo from head to toe, natural late-afternoon light, photorealistic, like a real snapshot. No text, no captions, no stickers, no signs, no watermark, no frame."
+    }
+  ]
+}

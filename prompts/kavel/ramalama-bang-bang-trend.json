@@ -1,0 +1,12 @@
+{
+  "source": "kavel",
+  "slug": "ramalama-bang-bang-trend",
+  "prompts": [
+    {
+      "label": "Ramalama Bang Bang trend â the costume walk",
+      "variant": "ramalama-skull-costume-walk",
+      "kind": "video_prompt",
+      "text": "Use the photo as the main character and keep the person exactly as photographed: same face, hair, skin tone, build and the outfit they wear in the photo. A Halloween costume walk at night on a suburban sidewalk, filmed on a phone, vertical 9:16, realistic handheld look. (1) The phone is held low near the ground and follows their shoes stepping toward the camera along the dark concrete sidewalk, streetlights and parked cars blurred behind them; only their legs and outfit are in frame. (2) On the beat the phone tilts up to reveal their face painted as a white skull with dark eye sockets and a stitched black mouth. (3) They put both hands to their head, lean slowly toward the lens and strike a dramatic pose, then sway their shoulders to the beat. Audio: footsteps on concrete and a stomping, spooky beat, no vocals, no song. No text, no captions, no lyrics on screen, no logos, no watermark."
+    }
+  ]
+}

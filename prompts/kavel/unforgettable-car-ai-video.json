@@ -1,0 +1,30 @@
+{
+  "source": "kavel",
+  "slug": "unforgettable-car-ai-video",
+  "prompts": [
+    {
+      "label": "Template prompt",
+      "variant": null,
+      "kind": "video_prompt",
+      "text": "Use the photo as the main character and keep the person exactly as photographed: same face, hair, skin tone, build and clothes. Vertical 9:16 handheld selfie-style clip filmed at arm's length. (1) In an empty concrete car park at dusk, they look into the lens, slide on dark sunglasses and slowly raise two plain green number cards, a 2 and a 4, up to the camera; (2) the cards sweep across and cover the lens for a moment; (3) as the cards pull away the scene has changed: they now stand right in front of a gleaming sports car under warm lights, lean toward the lens and mouth the words to a slow R&B song, one hand cupped by the mouth, then glance back at the car with a proud smile. Smooth cinematic look, shallow depth of field. Slow, smooth R&B beat in the audio. No text, no captions, no logos or badges on the car or the cards, no watermark."
+    },
+    {
+      "label": "Unforgettable car trend â the garage reveal",
+      "variant": "unforgettable-car-garage-coupe",
+      "kind": "video_prompt",
+      "text": "Use the photo as the main character and keep the person exactly as photographed: same face, hair, glasses, skin tone, build and clothes. Vertical 9:16 handheld selfie-style clip filmed at arm's length. (1) In an empty underground car park with red lines on the floor and a red door behind, they look into the lens deadpan and slowly raise two plain red number cards, a 2 and a 4, up to the camera; (2) the cards sweep across and cover the lens for a moment; (3) as the cards pull away the scene has changed: they now stand in the same car park under bright lights right in front of a gleaming matte-black sports coupe, lean toward the lens and mouth the words to a slow R&B song, one hand cupped by the mouth, then glance back at the car and nod with a proud smile. Smooth cinematic look, shallow depth of field. Slow, smooth R&B beat in the audio. No text, no captions, no logos or badges on the car or the cards, no watermark."
+    },
+    {
+      "label": "Unforgettable car trend â the yellow coupe",
+      "variant": "unforgettable-car-suit-yellow",
+      "kind": "video_prompt",
+      "text": "Use the photo as the main character and keep the person exactly as photographed: same face, hair, skin tone and build. Dress them in a dark navy suit jacket over an open-collar white shirt. Vertical 9:16 handheld selfie-style clip. (1) On a wide, empty concrete lot at dusk, distant floodlights behind, they look into the lens with a serious face and raise two plain green number cards, a 2 and a 4, up to the camera; (2) the cards sweep across and cover the lens; (3) as the cards pull away a bright yellow sports coupe with a tall rear wing and racing stickers is parked right behind them; they lean in, cup one hand by the mouth and mouth the words to a slow R&B song, then turn to point back at the car. Smooth cinematic look, shallow depth of field. Slow, smooth R&B beat in the audio. No text, no captions, no logos or badges on the car or the cards, no watermark."
+    },
+    {
+      "label": "Unforgettable car trend â pink and plum at golden hour",
+      "variant": "unforgettable-car-pink-porsche",
+      "kind": "video_prompt",
+      "text": "Use the photo as the main character and keep the person exactly as photographed: same face, hair, skin tone and build. They wear silver wraparound sunglasses and a black zip-up track jacket with pink piping. Vertical 9:16 handheld selfie-style clip. (1) On an empty lot by the water at dusk, they glance at the lens and raise two plain green number cards, a 2 and a 4, up to the camera; (2) the cards sweep across and cover the lens; (3) as the cards pull away it is golden hour on a palm-lined lot and two sports cars are parked behind them, one pastel pink and one deep plum; they lean toward the lens and mouth the words to a slow R&B song, then flick their hair and look back at the cars. Smooth cinematic look, warm sunset light, shallow depth of field. Slow, smooth R&B beat in the audio. No text, no captions, no logos or badges on the cars or the cards, no watermark."
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "source": "mediaio",
+  "slug": "bby-wow-guy-ai-video",
+  "prompts": [
+    {
+      "label": "prompt",
+      "variant": null,
+      "kind": "prompt",
+      "text": "Replace the entire main performer in  <<<Video1>>> with the man from <<<Image1>>>.\r\n\r\nPreserve the complete appearance of the man from <<<Image1>>> in every frame, including his exact face, bowl-cut hairstyle, mustache, skin tone, body proportions, brown suit jacket, white shirt, striped tie and complete outfit. Do not retain the original performer’s face, body, pink shirt or any part of his appearance.\r\n\r\nTransfer only the original performer’s position, movements and timing from  <<<Video1>>>to the man from <<<Image1>>>.. He performs the same dance, walks toward the camera, holds and bites the concha, briefly chews with puffed cheeks while staring seriously into the lens, and then continues dancing.\r\n\r\nKeep everything else from  <<<Video1>>>completely unchanged, including the quinceañera venue, background guests, lighting, camera angle, framing, camera movement, duration and editing. The result should look as if the fully dressed man from <<<Image1>>>.originally appeared in and performed the source video. Avoid partial face swaps, retained pink clothing, mixed bodies, identity drift, outfit changes, warped hands, missing concha, flicker or background alterations."
+    }
+  ]
+}

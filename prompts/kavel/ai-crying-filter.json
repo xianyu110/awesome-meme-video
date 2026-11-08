@@ -1,0 +1,48 @@
+{
+  "source": "kavel",
+  "slug": "ai-crying-filter",
+  "prompts": [
+    {
+      "label": "Template prompt",
+      "variant": null,
+      "kind": "video_prompt",
+      "text": "Use the uploaded photo as the exact reference for the person: same face, same hair, same clothing, same skin tone. Night street, warm street lamps and soft city bokeh behind them. Shoot over the blurred shoulder of a man standing in front of them, so they look at him, slightly off the lens. They start with a small, hopeful smile. The smile slowly fades, the lower lip trembles, the eyes turn red and fill with water, and real tears spill and run down both cheeks. They close their eyes, lower their head, then turn around and walk away from him down the street. Photorealistic live action, shallow depth of field, slow gentle push-in, one continuous take. Keep the face identical throughout. No text, no captions, no logos. Quiet street ambience and a soft, sad piano in the audio."
+    },
+    {
+      "label": "A woman in a black blazer smiling, then tearing up on a night street",
+      "variant": "ai-crying-filter-black-blazer",
+      "kind": "video_prompt",
+      "text": "Use the uploaded photo as the exact reference for the person: same face, same hair, same skin tone. Dress them in a black blazer over a white shirt. Night street with warm lamps and parked cars out of focus. Over the blurred shoulder of a man facing them, they smile, the smile falters, their eyes fill and tears roll down, they look down, then turn and walk away along the lamplit street. Photorealistic, shallow depth of field, one continuous take, no text, no logos. Quiet street sound and a soft piano."
+    },
+    {
+      "label": "A smile that breaks into tears, in a lilac sequin top",
+      "variant": "ai-crying-filter-lilac-top-smile",
+      "kind": "video_prompt",
+      "text": "Use the uploaded photo as the exact reference for the person: same face, same hair, same skin tone. Dress them in a sparkling lilac sequin top. Night garden with golden bokeh lights. Over the blurred shoulder of a man, they give him a warm, open smile, then the face slowly crumples, a single tear runs down one cheek, the eyes squeeze shut, and they turn their back to the camera. Photorealistic, close framing, one continuous take, no text, no logos. Soft sad piano in the audio."
+    },
+    {
+      "label": "Red, wet eyes in a white camisole under street lights",
+      "variant": "ai-crying-filter-white-camisole",
+      "kind": "video_prompt",
+      "text": "Use the uploaded photo as the exact reference for the person: same face, same hair, same skin tone. Dress them in a simple white camisole. Dark night street, a few distant lights. Over the blurred shoulder of a man, they look up at him with already reddened, watery eyes, trying hard not to cry, lips pressed together, then glance down and turn away into the dark. Photorealistic, tight framing, one continuous take, no text, no logos. Quiet night ambience."
+    },
+    {
+      "label": "A quiet cry by the river, then a long walk away",
+      "variant": "ai-crying-filter-riverside-walk-away",
+      "kind": "video_prompt",
+      "text": "Use the uploaded photo as the exact reference for the person: same face, same hair, same skin tone. Dress them in a black top. A riverside path at night with city lights reflected on the water. They smile softly with their eyes closed, the smile fades, they bow their head as tears come, the camera drifts around to their profile, and they walk away alone along the path toward the lights. Photorealistic, cinematic, one continuous take, no text, no logos. Soft piano and distant city sound."
+    },
+    {
+      "label": "A grin that turns into a full cry, ponytail and pale shirt",
+      "variant": "ai-crying-filter-ponytail-light-shirt",
+      "kind": "video_prompt",
+      "text": "Use the uploaded photo as the exact reference for the person: same face, same hair, same skin tone. Tie their hair in a ponytail and dress them in a pale embroidered shirt. Night street with warm bokeh. Over a blurred shoulder, they start with a wide grin, the mouth starts to tremble, and they break into an open, heartfelt cry with tears on both cheeks before dropping their head. Photorealistic, close framing, one continuous take, no text, no logos. Quiet street sound and a sad piano."
+    },
+    {
+      "label": "Tears in a beige hijab under the street lights",
+      "variant": "ai-crying-filter-beige-hijab",
+      "kind": "video_prompt",
+      "text": "Use the uploaded photo as the exact reference for the person: same face, same skin tone, and a beige hijab. Dress them in a dark floral top. Night park with a row of white street lamps. Facing a man who stands close in the foreground, they cry with their eyes shut and tears running down, look down, then turn and walk away beneath the lamps. Photorealistic, soft haze, one continuous take, no text, no logos. Soft sad piano in the audio."
+    }
+  ]
+}

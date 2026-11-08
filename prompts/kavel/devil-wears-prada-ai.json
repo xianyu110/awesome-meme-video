@@ -1,0 +1,18 @@
+{
+  "source": "kavel",
+  "slug": "devil-wears-prada-ai",
+  "prompts": [
+    {
+      "label": "Template prompt",
+      "variant": null,
+      "kind": "video_prompt",
+      "text": "Use the photo as the main character and keep the person exactly as photographed: same face, hair, skin tone and build. A front-camera selfie video, vertical 9:16. Part one, at home in a warm-lit bedroom, wearing the same top from the photo: they lip-sync straight into the camera with attitude, run a hand through their hair, make little devil horns with two fingers above their head and move their hands to the beat. Two plain white panels slide in from the left and right edges of the frame; they grab the edges and push them shut on the beat until only their face shows between them. Then a hard cut on the beat to the same person on a windy city street at night beside a glass office building, city lights glowing behind them, now wearing an oversized black leather jacket, hair blowing in the wind, still lip-syncing to the camera, running a hand through their hair and striking a cool pose. Pounding electronic dance beat. No text, no captions, no logos, no watermark."
+    },
+    {
+      "label": "Devil Wears Prada AI â the serious guy",
+      "variant": "dwp-black-tank",
+      "kind": "video_prompt",
+      "text": "Use the photo as the main character and keep the person exactly as photographed: same face, beard, hair, skin tone and build. A front-camera selfie video, vertical 9:16. Part one, at home in a warm-lit bedroom, wearing the same top from the photo: he lip-syncs straight into the camera, dead serious, runs a hand over his hair, makes little devil horns with two fingers above his head and moves his hands to the beat. Two plain white panels slide in from the left and right edges of the frame; he grabs their edges and pushes them shut on the beat until only his face shows between them. Then a hard cut on the beat to the same man on a windy city street at night beside a glass office building, city lights glowing behind him, now wearing an oversized black leather jacket, still lip-syncing to the camera with full model attitude, running a hand through his hair and striking a cool pose. Pounding electronic dance beat. No text, no captions, no logos, no watermark."
+    }
+  ]
+}

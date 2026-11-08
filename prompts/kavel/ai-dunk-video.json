@@ -1,0 +1,12 @@
+{
+  "source": "kavel",
+  "slug": "ai-dunk-video",
+  "prompts": [
+    {
+      "label": "AI dunk video â the toddler on the backyard hoop",
+      "variant": "dunk-highlight-toddler",
+      "kind": "video_prompt",
+      "text": "Use the photo: keep the toddler exactly as photographed, same face, short hair, skin tone, purple sleeveless jersey, blue shorts and white sneakers, in full colour. A sunny backyard with a wooden fence and a red toddler basketball hoop on a stand, the family filming from the side, filmed like a sports highlight, vertical 9:16. (1) The toddler toddles toward the little hoop bouncing the small yellow and blue ball, very serious, a wobbly crossover. (2) In slow motion, the camera low, he stretches up on tiptoes and jumps as high as a toddler can, ball held up in both hands. (3) He stuffs the ball through the little rim, grabs it with both hands for a second, lands on his bottom, then stands up and throws his arms in the air while the family cheers. Real toddler proportions and movement, his face stays the same throughout. Audio: little sneaker steps, the ball bouncing, the family cheering and laughing, with an original playful hip-hop beat, no vocals. No text, no captions, no logos, no watermark."
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "source": "kavel",
+  "slug": "fergie-baby-harlem-walk-ai-video",
+  "prompts": [
+    {
+      "label": "Template prompt",
+      "variant": null,
+      "kind": "video_prompt",
+      "text": "Use the photo as the main character and keep the person exactly as photographed: same face, hair, skin tone, build and clothes. They walk down a paved path in a New York city park on a bright autumn afternoon: a tall chain-link fence and a basketball court on one side, trees with yellow leaves on the other, red-brick apartment towers rising behind the trees, fallen leaves on the ground. The camera walks backward in front of them at chest height, full body in frame. (1) They stroll toward the camera with a slow, bouncing swagger, shoulders rolling, head nodding to the beat; (2) they rap straight into the lens, mouth moving with the words, pointing at the camera with one hand, then tapping their chest twice; (3) they spread both arms wide, grin, and keep strutting toward the camera, nodding. Their face stays clearly visible the whole time. One continuous handheld shot, vertical 9:16. A hard New York hip-hop beat in the audio. No text, no captions, no logos, no watermark."
+    },
+    {
+      "label": "Fergie Baby Harlem walk AI â grandma takes Harlem",
+      "variant": "fergie-walk-grandma",
+      "kind": "video_prompt",
+      "text": "Use the photo as the main character and keep the person exactly as photographed: same face, hair, glasses if any, skin tone, build and the same clothes. They walk down a paved path in a New York city park on a crisp autumn afternoon: a tall chain-link fence on one side, trees with yellow leaves on the other, red-brick apartment towers behind the trees, leaves on the ground. The camera walks backward in front of them at chest height, full body in frame. (1) They strut toward the camera with a slow, bouncing swagger, shoulders rolling, chin up, completely serious; (2) they rap straight into the lens, mouth moving with the words, point at the camera, then tap their chest twice; (3) they throw both arms out wide, break into a big grin and keep strutting, nodding to the beat. Their face stays clearly visible the whole time. One continuous handheld shot, vertical 9:16. A hard New York hip-hop beat in the audio. No text, no captions, no logos, no watermark."
+    },
+    {
+      "label": "Fergie Baby Harlem walk AI â out through the gate",
+      "variant": "fergie-walk-red-jacket",
+      "kind": "video_prompt",
+      "text": "Use the photo as the main character and keep the person exactly as photographed: same face, hair, skin tone, build and the same outfit. They step out through an open gate in a tall chain-link fence into a New York city park on a bright autumn afternoon, then walk down the paved path: trees with yellow leaves, red-brick apartment towers behind them, leaves on the ground. The camera walks backward in front of them at chest height, full body in frame. (1) They come through the gate and strut toward the camera with a slow, bouncing swagger, hips and shoulders rolling, head nodding to the beat; (2) they rap straight into the lens, mouth moving with the words, point at the camera, then tap their chest twice; (3) they brush their shoulder off, smirk and keep walking toward the camera. Their face stays clearly visible the whole time. One continuous handheld shot, vertical 9:16. A hard New York hip-hop beat in the audio. No text, no captions, no logos, no watermark."
+    }
+  ]
+}

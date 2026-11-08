@@ -1,0 +1,12 @@
+{
+  "source": "makeviral",
+  "slug": "keep-on-steppin-ai-dance",
+  "prompts": [
+    {
+      "label": "1. The video prompt is filled in. Settings: kling-3-motion, 7 s, 720p, 9:16, sound off. The video prompt",
+      "variant": null,
+      "kind": "video_prompt",
+      "text": "Replace the character in the video with the person from the uploaded image. Keep actions, poses, facial expressions, camera movement and rhythm. Preserve the person's original facial features, maintain character consistency, no distortion, no glitches, no artifacts.\nThe person dances in the place from the uploaded image, in the clothes from the uploaded image, not the clothes or the hood of the dancer in the video. Exactly one person, no other people. One continuous shot, no cuts, no text, no captions, no logos."
+    }
+  ]
+}

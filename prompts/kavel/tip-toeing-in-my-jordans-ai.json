@@ -1,0 +1,18 @@
+{
+  "source": "kavel",
+  "slug": "tip-toeing-in-my-jordans-ai",
+  "prompts": [
+    {
+      "label": "Tip toeing in my Jordans AI â a guy in glasses and a cap",
+      "variant": "tiptoe-glasses-barn",
+      "kind": "video_prompt",
+      "text": "Use the photo as the main character and keep their face, hair, glasses, beard, cap and everyday clothes exactly as photographed: a plain T-shirt, jeans and sneakers. Cut between four shots like a 1987 fairytale film scene in a dim wooden barn full of straw and hay bales, warm lantern light, film grain: (1) close-up, the character looks into the lens with a sly grin and presses one finger to the lips, shh; (2) close-up of a young woman with long fair hair in a plain dark dress, eyes wide, both hands over her mouth in shock; (3) wide shot, the character in jeans crouches low and tiptoes across the straw in big exaggerated sneaky steps, knees bent, arms stretched out wide, shoulders bouncing, the woman watching from the foreground; (4) low close-up of their sneakers tiptoeing through the straw on the beat, then back to the character grinning at the camera. Horizontal 16:9 video. Light, sneaky plucked-string tune in the audio, no vocals. No text, no captions, no logos, no watermark."
+    },
+    {
+      "label": "Tip toeing in my Jordans AI â the red dress version",
+      "variant": "tiptoe-red-dress",
+      "kind": "video_prompt",
+      "text": "Use the photo as the main character and keep her face, skin and hair exactly as photographed. Dress her in a long-sleeved red dress, a pearl necklace and black heels. Cut between four shots like a 1987 fairytale film scene in a dim wooden barn full of straw and hay bales, warm lantern light, film grain: (1) close-up, the woman from the photo looks into the lens with a sly grin and presses one finger to the lips, shh; (2) close-up of a young woman with long fair hair in a plain dark dress, eyes wide, both hands over her mouth in shock; (3) wide shot, the woman in the red dress crouches low and tiptoes across the straw in big exaggerated sneaky steps, knees bent, arms stretched out wide, shoulders bouncing, the woman watching from the foreground; (4) low close-up of her feet in black heels tiptoeing through the straw on the beat, then back to her grinning at the camera. Horizontal 16:9 video. Light, sneaky plucked-string tune in the audio, no vocals. No text, no captions, no logos, no watermark."
+    }
+  ]
+}
