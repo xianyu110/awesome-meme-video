@@ -264,10 +264,19 @@ Yes. MakeViral does not post your photo or the result anywhere or show it to oth
 
 - [Knight Cat AI Video: Make Your Cat or Dog the Kitten Knight](https://www.makeviral.ai/templates/knight-cat-ai-video): Your cat or dog becomes the tiny knight: fitted silver armor, a sword twice its height and a cape snapping in the wind on a misty moor. Add your own photo to stand beside it as the big knight, or put your pet into the viral reels themselves.
 - [AI School Photo: Classic School Pictures From a Phone Photo](https://www.makeviral.ai/templates/ai-school-photo): Take a photo of your child at home. MakeViral turns it into a classic picture day portrait: mottled blue backdrop, soft studio light, head and shoulders. The face stays exactly the same.
-- [AI Crying Video: Make the Tears Effect From One Photo](https://www.makeviral.ai/templates/ai-crying-video): One photo of you becomes the night farewell scene from a drama: you smile through tears at someone, the smile breaks, and you walk away.
+- [Pumpkin Kick AI Trend: Spin, Kick, Freeze, "Halloween"](https://www.makeviral.ai/templates/pumpkin-kick-ai-trend): A glowing jack-o'-lantern on a cafe table, one spinning high kick, and the clip freezes into black-and-white slow motion with a cursive "Halloween" title. Add one photo, pick a costume, and you or your pet do the pumpkin kick.
 - [Nano Banana 2](https://www.makeviral.ai/tools/nano-banana-2-image-generator): Google's image model, in a browser tab, with the reference-image dropzone that makes it useful: up to 14 photos in, one new image out.
 - [AI photo generator](https://www.makeviral.ai/ai-photo-generator)
 - [All AI video templates](https://www.makeviral.ai/templates)
+
+## New AI video trends this week
+
+- [Christmas Dance AI: Do the New TikTok Christmas Dance From Your Photos](https://www.makeviral.ai/templates/christmas-dance-ai-trend): Hip sways with the hands at the collar, rolling arms, a quick spin and raised fists, side by side in matching Christmas pajamas. Add two photos for the duo, one for a solo take, or two pets, and get the dance with the sound.
+- [Cat on Ultra Bee AI: Put Your Pet on the Wheelie](https://www.makeviral.ai/templates/cat-on-ultra-bee-ai-trend): Add one photo, and your cat or dog stands on an electric dirt bike and holds a long wheelie down a city road at golden hour, in the same shots as the viral clip, with its original sound. You can take the ride yourself, too.
+- [Tus Ojos Me Reflejan el Sentimiento: The Cafuné Eye Close-Up Trend](https://www.makeviral.ai/templates/tus-ojos-me-reflejan-ai-trend): You lie on your side, a hand rests on your cheek, warm light falls on your face, and the camera slowly moves in until your eyes fill the screen while the line plays. One photo in, an 8-second vertical clip with the trend's song out.
+- [İnşallah Maşallah AI Trend: Sing Neşe Karaböcek's Song on the Couch](https://www.makeviral.ai/templates/insallah-masallah-ai-trend): You sit on a light grey couch and sing the old Turkish love song straight to the camera: a hand on the heart, a big laugh with both hands on your head, a finger pointed at the camera and a kiss at the end. One photo of you, a grandparent or your pet, and the 15-second clip comes with the song.
+- [Ice Ice Baby Dance AI: Do the Viral Duo Dance With a Friend](https://www.makeviral.ai/templates/ice-ice-baby-dance-ai): Two dancers side by side, the same bouncy 90s steps, a spin on the beat and a strut to the camera. Add a photo of you and a friend, of you alone, or of your pet, and get the dance with the sound.
+- [Save Yourself Trend: Pull Yourself Up From the Cliff](https://www.makeviral.ai/templates/save-yourself-ai-trend): One photo plays both of you: the scared you clinging to a wet sea cliff, and the calm you who reaches down, pulls you up and holds you. Or use two photos: an older photo of you and a new one, or you and a friend. 15 seconds, vertical.
 
 ## Make your own Pumpkin Head photo
 

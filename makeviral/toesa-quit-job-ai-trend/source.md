@@ -3,7 +3,7 @@
 > I'm gonna TOESA (퇴사할게여, "I'm going to quit my job") is SOYEON's office-worker anthem and one of Korea's biggest songs of autumn 2026.
 
 Canonical: https://www.makeviral.ai/templates/toesa-quit-job-ai-trend
-Updated: 2026-10-19
+Updated: 2026-10-30
 Published: 2026-10-19
 Author: MakeViral Team (https://www.makeviral.ai/about)
 Publisher: MakeViral (https://www.makeviral.ai)
@@ -16,7 +16,7 @@ Also called: 퇴사할게여 챌린지 AI, TOESA stage AI, I'm Gonna TOESA AI de
 
 **Make it now:** [Make this video](https://www.makeviral.ai/templates/toesa-quit-job-ai-trend/create). 1 photo · 10 s · 9:16 with sound · 126 credits, charged once · ready in a few minutes · no prompt to write.
 
-Keyword: i'm gonna toesa. Also answers: 퇴사할게여, 퇴사할게요, 퇴사할게요 ai, i'm gonna toesa ai, 퇴사할게여 ai, 퇴사할게요 무대 ai, toesa, soyeon i'm gonna toesa, 퇴사할게여 챌린지, i'm gonna toesa dance, imgonnatoesa, ai dance video, ai dog dance, 퇴사할게요 무대 ai 만들기, 퇴사할게요 챌린지, 전소연 퇴사할게여, 소연 퇴사할게여, toesa meaning, i'm gonna toesa meaning, toesa soyeon, 나도 데뷔했어요 ai, ai idol debut, kpop idol debut ai, i quit my job ai, quit my job dance, last day at work dance, i'm gonna toesa challenge, i'm gonna toesa stage, 퇴사할게여 안무, 퇴사 ai 영상, 퇴사할게요 고양이, 퇴사할게요 강아지, ai kpop dance, kpop ai dance video, ai dance trend, ai cat dance, 退社します ai.
+Keyword: i'm gonna toesa. Also answers: 퇴사할게여, 퇴사할게요, 퇴사할게요 ai, i'm gonna toesa ai, 퇴사할게여 ai, 퇴사할게요 무대 ai, toesa, soyeon i'm gonna toesa, 퇴사할게여 챌린지, i'm gonna toesa dance, imgonnatoesa, i'm gonna toes, i am gonna toesa, ai dance video, ai dog dance, 퇴사할게요 무대 ai 만들기, 퇴사할게요 챌린지, 전소연 퇴사할게여, 소연 퇴사할게여, toesa meaning, toesa meaning korean, i'm gonna toesa meaning, toesa soyeon, 나도 데뷔했어요 ai, ai idol debut, kpop idol debut ai, i quit my job ai, quit my job dance, last day at work dance, i'm gonna toesa challenge, i'm gonna toesa stage, 퇴사할게여 안무, 퇴사 ai 영상, 퇴사할게요 고양이, 퇴사할게요 강아지, ai kpop dance, kpop ai dance video, ai dance trend, ai cat dance, 退社します ai.
 
 ## What is the TOESA Quit Job trend, and where did it start?
 
@@ -242,6 +242,10 @@ It is the TikTok trend to SOYEON I'm gonna TOESA, the song "퇴사할게여" by 
 
 Toesa (퇴사) is Korean for leaving your company, quitting your job. So the toesa meaning in the title is "I'm going to quit my job", and the I'm gonna TOESA meaning is a happy resignation. The toesa SOYEON sings about is everyone's daydream at work: say "모두 안녕히 계세요", goodbye everyone, and walk out.
 
+### Is it I'm gonna toes or I'm gonna TOESA?
+
+It is I'm gonna TOESA, with an A at the end, because toesa (퇴사) is one Korean word. Many people type the title as "I'm gonna toes" when they search for it. Others write "I am gonna TOESA". It is the same song and the same trend.
+
 ### Is it 퇴사할게여 or 퇴사할게요?
 
 The official title is 퇴사할게여, a cute spelling of 퇴사할게요, the normal way to write "I will quit". Both spellings are everywhere: #퇴사할게여 for the song and the challenge, #퇴사할게요 and "퇴사할게요 챌린지" in many captions, and 전소연 퇴사할게여 or 소연 퇴사할게여 with the singer's name. It is the same song.
@@ -303,6 +307,15 @@ Every version makes a 10-second vertical 9:16 clip. Stage debut, Office and Cowo
 - [AI Reels](https://www.makeviral.ai/tools/ai-reels-generator): Pick a format, give it a topic or a product link, and get a finished vertical reel with voice and captions. Nothing to film, nothing to edit.
 - [AI photo generator](https://www.makeviral.ai/ai-photo-generator)
 - [All AI video templates](https://www.makeviral.ai/templates)
+
+## New AI video trends this week
+
+- [Christmas Dance AI: Do the New TikTok Christmas Dance From Your Photos](https://www.makeviral.ai/templates/christmas-dance-ai-trend): Hip sways with the hands at the collar, rolling arms, a quick spin and raised fists, side by side in matching Christmas pajamas. Add two photos for the duo, one for a solo take, or two pets, and get the dance with the sound.
+- [Cat on Ultra Bee AI: Put Your Pet on the Wheelie](https://www.makeviral.ai/templates/cat-on-ultra-bee-ai-trend): Add one photo, and your cat or dog stands on an electric dirt bike and holds a long wheelie down a city road at golden hour, in the same shots as the viral clip, with its original sound. You can take the ride yourself, too.
+- [Tus Ojos Me Reflejan el Sentimiento: The Cafuné Eye Close-Up Trend](https://www.makeviral.ai/templates/tus-ojos-me-reflejan-ai-trend): You lie on your side, a hand rests on your cheek, warm light falls on your face, and the camera slowly moves in until your eyes fill the screen while the line plays. One photo in, an 8-second vertical clip with the trend's song out.
+- [İnşallah Maşallah AI Trend: Sing Neşe Karaböcek's Song on the Couch](https://www.makeviral.ai/templates/insallah-masallah-ai-trend): You sit on a light grey couch and sing the old Turkish love song straight to the camera: a hand on the heart, a big laugh with both hands on your head, a finger pointed at the camera and a kiss at the end. One photo of you, a grandparent or your pet, and the 15-second clip comes with the song.
+- [Ice Ice Baby Dance AI: Do the Viral Duo Dance With a Friend](https://www.makeviral.ai/templates/ice-ice-baby-dance-ai): Two dancers side by side, the same bouncy 90s steps, a spin on the beat and a strut to the camera. Add a photo of you and a friend, of you alone, or of your pet, and get the dance with the sound.
+- [Save Yourself Trend: Pull Yourself Up From the Cliff](https://www.makeviral.ai/templates/save-yourself-ai-trend): One photo plays both of you: the scared you clinging to a wet sea cliff, and the calm you who reaches down, pulls you up and holds you. Or use two photos: an older photo of you and a new one, or you and a friend. 15 seconds, vertical.
 
 ## Make your own TOESA Quit Job video
 

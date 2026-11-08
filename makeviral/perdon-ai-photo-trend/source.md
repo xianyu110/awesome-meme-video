@@ -3,7 +3,7 @@
 > The perdon trend is the TikTok AI vs reality photo trend: first a perfect AI photo of you ("esta soy yo"), then the real photo with the word "perdón" (sorry).
 
 Canonical: https://www.makeviral.ai/templates/perdon-ai-photo-trend
-Updated: 2026-10-21
+Updated: 2026-11-06
 Published: 2026-10-19
 Author: MakeViral Team (https://www.makeviral.ai/about)
 Publisher: MakeViral (https://www.makeviral.ai)
@@ -12,11 +12,11 @@ The **perdon trend** is the TikTok AI vs reality photo trend: first a perfect AI
 
 Add one everyday photo of yourself or your pet. AI gives it back too perfect: the dream place, salon hair, studio light. Post it first, then your real photo with one word: perdón.
 
-Also called: Perdón trend, Perdón IA foto, AI vs reality photo trend, I'm so sorry costume trend, I'm sorry I lied trend.
+Also called: Perdón trend, Perdón IA foto, AI vs reality photo trend, I'm so sorry costume trend, I'm sorry I lied trend, My boyfriend is really tall trend, I'm so sorry carousel.
 
 **Make it now:** [Make this photo](https://www.makeviral.ai/templates/perdon-ai-photo-trend/create). 1 photo in · 2K photo out · 9:16 · 3 credits, charged once · ready in a few minutes · no prompt to write.
 
-Keyword: perdon trend. Also answers: im so sorry i lied trend, perdon trend ia, im sorry i lied costume, im so sorry i lied halloween costume, perdon trend de fotos ia, perdon ai trend, ai vs reality, perdon trend ai, ia vs realidad, ai vs realidad, perdon ia, perdon photo trend, ai vs reality photo, so sorry i lied ai costume, im sorry i lied halloween costume, im sorry i lied ai costume, im sorry i lied costume ai, im so sorry i lied, im sorry halloween costume, im so sorry trend, sorry i lied ai trend, im sorry i lied costume tutorial, im so sorry i lied trend funny, im sorry i lied slideshow, im sorry i lied photo trend, halloween costume trend tiktok, costume trend ai, perdon trend de fotos, perdon fotos ia, perdon ia trend de fotos, perdon trend ia tutorial, perdon trend como hacer, como hacer el trend perdon, perdon trend plantilla, esta soy yo perdon ia, esta soy yo perdon, perdon trend perro, perdon trend meme, perdon trend gracioso, perdon con ia trend, tendencia perdon fotos ia, perdon fotos trend, ai vs reality meme, ai vs reality photos, ai expectation vs reality meme, ai vs real photo, pardon ai trend, ai perfect photo trend, expectation vs reality ai trend, lo siento trend.
+Keyword: perdon trend. Also answers: im so sorry i lied trend, perdon trend ia, im sorry i lied costume, im so sorry i lied halloween costume, perdon trend de fotos ia, perdon ai trend, ai vs reality, perdon trend ai, ia vs realidad, ai vs realidad, perdon ia, perdon photo trend, ai vs reality photo, so sorry i lied ai costume, im sorry i lied halloween costume, im sorry i lied ai costume, im sorry i lied costume ai, im so sorry i lied, im sorry halloween costume, im so sorry trend, sorry i lied ai trend, im sorry i lied costume tutorial, im so sorry i lied trend funny, im sorry i lied slideshow, im sorry i lied photo trend, halloween costume trend tiktok, costume trend ai, perdon trend de fotos, perdon fotos ia, perdon ia trend de fotos, perdon trend ia tutorial, perdon trend como hacer, como hacer el trend perdon, perdon trend plantilla, esta soy yo perdon ia, esta soy yo perdon, perdon trend perro, perdon trend meme, perdon trend gracioso, perdon con ia trend, tendencia perdon fotos ia, perdon fotos trend, ai vs reality meme, ai vs reality photos, ai expectation vs reality meme, ai vs real photo, pardon ai trend, ai perfect photo trend, expectation vs reality ai trend, lo siento trend, this is my boyfriend he's really tall trend, tall boyfriend trend, im so sorry boyfriend trend, im sorry trend, omg im so sorry trend, im so sorry ai, im so sorry ai edit, im so sorry edit trend, im so sorry ai meme, im sorry tiktok trend, im so sorry trend prompt.
 
 ## What is the Perdon Trend trend, and where did it start?
 
@@ -68,6 +68,34 @@ Settings: 1 photo (your everyday photo, face in view) · Nano Banana 2.1 · phot
 2. Press Generate, then download the 9:16 image. To make it move, press "Make it a video" on it.
 
 One-tap version of this variant: https://www.makeviral.ai/templates/perdon-ai-photo-trend/create
+
+#### Variant: Boyfriend
+
+Settings: 1 photo (you and your boyfriend together, head to feet) · Nano Banana 2.1 · photo · 2K · 9:16 · 3 credits in one tap.
+
+1. Open [AI Photo with this template](https://www.makeviral.ai/photo?template=perdon-ai-photo-trend&variant=boyfriend) and add your photo (you and your boyfriend together, head to feet). Pick 2K for the same size as the one-tap photo. The photo prompt is filled in:
+
+   ```text
+   Use the uploaded image as the base. Make the "this is my boyfriend, he's really tall" first slide of an AI vs reality couple post: the same two people, the same place, the same pose, the same moment and the same camera angle, but the boyfriend is now really, really tall. The boyfriend is the man in the photo; if the photo shows two men or two women, he is the person on the right. He becomes very tall, whatever his real height: the top of the other person's head reaches only to his chest or his shoulder, at least a head and a half below his head. He keeps the natural, believable proportions of a very tall man: longer legs and a longer body, his own build and his own head size, never stretched thin, never cartoonish, never more muscular. His feet stand on the same ground as hers, and his pose stays the same: an arm around her stays around her, a hand on her shoulder or waist stays there, adjusted naturally to his new height. He also gets a polished look, like an AI photo edit that went a little too far: neatly styled hair in its own color and its own length, a clean, ironed, well-fitting version of the same outfit in the same colors, a fresh, rested face and a confident, relaxed posture. The other person stays exactly as in the photo: the same height, body, pose, clothes and hair; nobody becomes shorter. The camera pulls back just enough that both people show head to feet, with his head well inside the top of the frame. The place stays the same place with the same light, only sharper and cleaner, like a professional photographer's shot. Keep both faces and both ages exactly as in the photo. Exactly the people of the photo: nobody added, nobody removed; if the photo shows only one person, that person is the boyfriend and becomes the very tall one. Any logo, crest, brand name or writing on the clothes or in the place becomes plain. Vertical 9:16; if the photo is wider, extend the dream place naturally. Photorealistic, so people believe it for a second. No text, no captions, no stickers, no logos, no watermark, no frame.
+   ```
+
+2. Press Generate, then download the 9:16 image. To make it move, press "Make it a video" on it.
+
+One-tap version of this variant: https://www.makeviral.ai/templates/perdon-ai-photo-trend/create?variant=boyfriend
+
+#### Variant: Sorry carousel
+
+Settings: 1 photo (your real photo, then your last edit) · Nano Banana 2.1 · photo · 2K · 9:16 · 3 credits in one tap.
+
+1. Open [AI Photo with this template](https://www.makeviral.ai/photo?template=perdon-ai-photo-trend&variant=carousel) and add your photo (your real photo, then your last edit). Pick 2K for the same size as the one-tap photo. The photo prompt is filled in:
+
+   ```text
+   Use the uploaded image as the base. This is one step of an "I'm so sorry" AI edit carousel: the same photo gets one more AI edit each time, and each edit is bigger than the last. Make ONE distinct change: the first edit in this list that the image does not show yet. 1) Edit this image by giving the subject thick, glossy, freshly styled salon hair in its own color and its own length, and a clean, ironed, stylish designer version of the same outfit in the same colors. 2) Edit this image by turning the place into its dream version: a plain room becomes a bright luxury living room with marble, fresh white flowers and warm lamps; a local court, field or gym becomes a big stadium full of cheering fans under bright lights; a street becomes a stylish city street at golden hour; a beach becomes a perfect sunny beach with turquoise water; with soft, warm photo-shoot light. 3) Edit this image by giving the subject the over-the-top luxury life: a shiny new sports car with no badge parked right behind them, a gold watch and a thin gold chain. If the image already shows all three, make the third edit even bigger: a white luxury yacht on blue sea behind the subject. Apply this change proportionally across the entire subject, as if they naturally had it. Leave all other details in the scene unchanged: everything the image already shows, also every earlier edit, stays exactly as it is. The same pose, the same moment and the same camera angle. Keep the face, the age, the skin tone, the body shape and the body size exactly as in the image, unless this edit asks for bigger muscles. Exactly the people of the image: nobody added, nobody removed; a pet in the image stays, groomed and fluffy. Any logo, crest, brand name or writing on the clothes or in the place becomes plain. Vertical 9:16; if the photo is wider, extend the dream place naturally. Photorealistic, so people believe it for a second. No text, no captions, no stickers, no logos, no watermark, no frame.
+   ```
+
+2. Press Generate, then download the 9:16 image. To make it move, press "Make it a video" on it.
+
+One-tap version of this variant: https://www.makeviral.ai/templates/perdon-ai-photo-trend/create?variant=carousel
 
 #### Variant: Pet
 
@@ -144,7 +172,7 @@ One new picture: the "esta soy yo" slide. It is your photo, same pose, same angl
 | Your clothes | A neat, clean, stylish version of the same outfit, in the same colors |
 | Your face, age and body | The same. The AI never makes you slimmer, taller or more muscular |
 
-**You** makes the perfect photo of you. **Pet** makes your dog or cat the groomed, fluffy "princess" version, on a velvet cushion in a fancy room, still clearly your pet. **Halloween costume** and **Pet costume** do the same for the costume in your photo: they make the stunning, fancy version of it for the I'm so sorry I lied posts (see below).
+**You** makes the perfect photo of you. **Pet** makes your dog or cat the groomed, fluffy "princess" version, on a velvet cushion in a fancy room, still clearly your pet. **Halloween costume** and **Pet costume** do the same for the costume in your photo: they make the stunning, fancy version of it for the I'm so sorry I lied posts (see below). **Boyfriend** is the one version that changes a body, for the "this is my boyfriend, he's really tall" posts: from one photo of you two together it makes your boyfriend much taller and gives him a neater look, with his own face and age, so your real photo can follow with "I'm so sorry". Use it only with a boyfriend who is an adult and said yes. **Sorry carousel** is for the I'm so sorry edit carousel: each run adds one bigger AI edit on top of the last (salon hair and outfit, then the dream place, then a sports car and gold jewelry), so three runs give you the three slides that come before your real photo.
 
 **How MakeViral makes it:** your photo goes to Nano Banana 2.1, Google's image model, and comes back as one 2K vertical picture. The real photo is your own: you post it last. The create page shows the exact price on the Generate button before you spend anything, and every run is a new take.
 
@@ -236,9 +264,17 @@ The how-to captions call it the perdon trend gracioso (the funny perdón trend),
 
 It is the English Halloween costume version of the perdon trend, from October 2026, on the same sound. Slide 1 is a stunning AI photo of a Halloween costume, the last slide is the real, homemade costume with "I'm so sorry". People also call it the I'm so sorry costume trend. The funny part is the gap: the cheaper the real costume, the bigger the laugh.
 
+### What is the this is my boyfriend, he's really tall trend? Can AI make my boyfriend taller?
+
+It is the boyfriend version of the I'm so sorry trend, also called the my boyfriend is really tall trend or the tall boyfriend trend. The first big posts came from the US on 25 October 2026, and one passed 1.9 million plays in two days. Slide 1 is an AI photo where he towers over you ("this is my boyfriend, he's really tall"), the next slides shrink him back ("okay maybe not that tall"), and the last slide is your real photo with "I'm so sorry". Pick Boyfriend and add one photo of you two, head to feet. It is the only version here that changes his height and his look (taller, neater hair and clothes) while it keeps his face and age. Use it only if he is an adult and agreed, and tag him so he is in on the joke.
+
 ### Is there an I'm sorry I lied costume tutorial? Can I make it with an AI photo?
 
 Here is the short one. Pick Halloween costume, add one photo of you today in the costume you really wore, and press Generate: you get the stunning, fancy AI version of that costume. Then post a TikTok photo slideshow, the AI photo first and your real photo last, with "I'm sorry I lied" on the last slide. For your dog or cat, pick Pet costume. You need no template and no prompt.
+
+### What is the I'm so sorry edit carousel? Is there an I'm so sorry trend prompt?
+
+It is the English way to post the I'm so sorry trend, the omg I'm so sorry meme on TikTok: one photo, three AI edits that get bigger each time, then the real photo. Know Your Meme traces it to a post of 22 August 2026 that passed 25.6 million views in two months. The I'm so sorry AI edit works by stacking, as a how-to of 29 October 2026 shows with its prompt ("Edit this image by giving the subject larger, more defined muscles"): each edit starts from the last one. Pick Sorry carousel, add your real photo and press Generate, then use that result as the photo of the next run, three times in all. Each run adds the next edit by itself, or you pick it under Make it yours, bigger muscles included. Post the biggest edit first, take one lie back per slide ("okay, I lied"), and end on your real photo with "I'm so sorry".
 
 ### Is the photo real or AI?
 
@@ -261,6 +297,15 @@ Yes. MakeViral does not post your photo or the result anywhere or show them to o
 - [AI TikTok Video](https://www.makeviral.ai/tools/ai-tiktok-video-generator): Eight native TikTok formats, one prompt or product URL, a finished 9:16 video with captions burned in.
 - [AI photo generator](https://www.makeviral.ai/ai-photo-generator)
 - [All AI video templates](https://www.makeviral.ai/templates)
+
+## New AI video trends this week
+
+- [Christmas Dance AI: Do the New TikTok Christmas Dance From Your Photos](https://www.makeviral.ai/templates/christmas-dance-ai-trend): Hip sways with the hands at the collar, rolling arms, a quick spin and raised fists, side by side in matching Christmas pajamas. Add two photos for the duo, one for a solo take, or two pets, and get the dance with the sound.
+- [Cat on Ultra Bee AI: Put Your Pet on the Wheelie](https://www.makeviral.ai/templates/cat-on-ultra-bee-ai-trend): Add one photo, and your cat or dog stands on an electric dirt bike and holds a long wheelie down a city road at golden hour, in the same shots as the viral clip, with its original sound. You can take the ride yourself, too.
+- [Tus Ojos Me Reflejan el Sentimiento: The Cafuné Eye Close-Up Trend](https://www.makeviral.ai/templates/tus-ojos-me-reflejan-ai-trend): You lie on your side, a hand rests on your cheek, warm light falls on your face, and the camera slowly moves in until your eyes fill the screen while the line plays. One photo in, an 8-second vertical clip with the trend's song out.
+- [İnşallah Maşallah AI Trend: Sing Neşe Karaböcek's Song on the Couch](https://www.makeviral.ai/templates/insallah-masallah-ai-trend): You sit on a light grey couch and sing the old Turkish love song straight to the camera: a hand on the heart, a big laugh with both hands on your head, a finger pointed at the camera and a kiss at the end. One photo of you, a grandparent or your pet, and the 15-second clip comes with the song.
+- [Ice Ice Baby Dance AI: Do the Viral Duo Dance With a Friend](https://www.makeviral.ai/templates/ice-ice-baby-dance-ai): Two dancers side by side, the same bouncy 90s steps, a spin on the beat and a strut to the camera. Add a photo of you and a friend, of you alone, or of your pet, and get the dance with the sound.
+- [Save Yourself Trend: Pull Yourself Up From the Cliff](https://www.makeviral.ai/templates/save-yourself-ai-trend): One photo plays both of you: the scared you clinging to a wet sea cliff, and the calm you who reaches down, pulls you up and holds you. Or use two photos: an older photo of you and a new one, or you and a friend. 15 seconds, vertical.
 
 ## Make your own Perdon Trend photo
 

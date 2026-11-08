@@ -35,29 +35,26 @@ The moves, matching the reference second by second:
 Anatomy rules: one head only, on their own shoulders. Two arms and two hands. No badges, emblems or lettering on the car, no readable number plates, no text, no logos, no watermark, no extra people.
 ```
 
-### 2. 1. The video prompt is filled in. Settings: genjutsu-motion, 14 s, 480p, 9:16, sound off. The video prompt
+### 2. 1. The video prompt is filled in. Settings: Seedance 2.5, 14 s, 720p, 9:16, sound off. The video prompt
 
 *Kind: video_prompt*
 
 ```text
-Replace only the person and the car.
-Use @[Image 1](image_1) as the dominant identity reference for the person.
-Use @[Image 2](image_2) as the dominant identity reference for the car.
+Recreate the reference video [Video 1] shot for shot: the same empty parking lot at night with the dark sky and the lamps, the same handheld phone camera, framing, timing and moves, the same two green number cards. Two changes only: the man with the short dark fade and the short beard, in the black leather jacket and the dark sunglasses, is now the person in [Image 1]; the matte black four-door sports car that appears behind him is now the car in [Image 2]. Both change: neither the man nor the car from the video stays.
 
-For the person:
-Match Image 1 in head shape, eyes, eyelids, eye spacing, nose shape and size, lips, beard shape and density, jawline, hairline, facial proportions, sunglasses and outfit. Do not copy or blend the original actor’s eyes or nose. Use the source person for movement, positioning and timing only. Maintain the same character identity in every shot.
-Keep the body build, weight and face width of Image 1 exactly: a broad, heavy or round-faced person stays exactly as broad, heavy and round-faced. Never make the person thinner, more muscular or sharper in the face than in Image 1, and never take the original actor’s face shape or body.
+The man = the person in [Image 1], in EVERY shot: [Image 1] is a character sheet of ONE person from the front, the three-quarter, the side and the back. Copy the exact face from [Image 1] (the face shape, eye color and eye shape, eyebrows, nose, mouth, skin tone, age, hair color, hair length and hairstyle, and any beard, moustache, glasses or freckles), the body build, weight and face width, and the outfit of the sheet: the black leather bomber jacket, the black turtleneck and the black sunglasses. NO short dark fade and NO beard unless [Image 1] shows them. A broad, heavy or round-faced person stays exactly as broad, heavy and round-faced. Never morph, never drift back to the original man's face or build.
 
-For the car:
-Replace the original vehicle with the exact vehicle from Image 2. Match the body silhouette, grille, headlights, wheels, center caps, badges and paint color. Remove any mismatched source-vehicle details, neon glow and crystal texture. Maintain consistency in all close-ups and angles.
-Take only the car from Image 2. Ignore the background, the ground, the sky and the daylight of Image 2.
+The car = the car in [Image 2], in EVERY shot after it appears: copy its exact look from [Image 2] - the body shape, the paint color and finish, the grille, the headlights, the wheels and the center caps. NO matte black paint unless [Image 2] shows it. Take only the car from [Image 2]: never its background, ground, sky or daylight.
 
-For the cards:
-Keep the two green UNO cards from the source video exactly as they are: a green 2 card and a green 4 card, with the white oval and the big numbers 2 and 4 clearly readable whenever the cards are in the frame. Never blank, recolor or change the cards.
+The beats, matching the reference second by second:
+0-2 s: the person looks around the empty lot, no car yet.
+2-4 s: holds up the green 2 card to the lens.
+4-5 s: a hand sweeps over the lens, and the car is now parked behind.
+5-11 s: points at the car with the thumb and talks to the camera.
+11-13 s: runs a hand over the head, flicks a card and walks out of the frame.
+13-14 s: the car alone in the frame.
 
-Keep the original empty parking lot at night, with the dark sky, the night lighting and the lamps of the source video, in every shot, also after the car appears. Never turn it into another place or into daytime.
-Keep the camera movement, shot timing, framing and color grading unchanged, also in the last shots, where the person walks away and the car stays alone in the frame.
-Only change those two subjects.
+The two cards stay green with the white oval and the big numbers 2 and 4, readable whenever they show. Anatomy rules: one head only, on their own shoulders, two arms and two hands. No badges, emblems or lettering on the car, no readable number plates, no other text, no logos, no watermark, no extra people.
 ```
 
 ### 3. 1. The video prompt is filled in. Settings: Seedance 2.5, 10 s, 720p, 9:16, sound off. The video prompt

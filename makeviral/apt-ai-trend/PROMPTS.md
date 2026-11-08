@@ -50,11 +50,30 @@ Shots:
 One head per person, on their own shoulders. Exactly two people. No text, no logos.
 ```
 
-### 2. 1. The video prompt is filled in. Settings: h3-recast, 15 s, 720p, 9:16, sound off. The video prompt (Pet)
+### 2. 1. The video prompt is filled in. Settings: Seedance 2.5, 15 s, 720p, 9:16, sound off. The video prompt (Pet)
 
 *Kind: video_prompt*
 
 ```text
-Image 1 replaces the cat who plays the red drum kit, in every shot, also in the big close-up of its face. Image 2 replaces the cat who kneels on the pink floor and sings into the microphone, then leans on the drummer and dances, in every shot, also in the close-up of its open mouth. Keep the face shape, eyes, ears, fur colors, fur length and markings from each image, not those of the cats in the video, with the natural body volume and proportions of that animal: never flattened, squashed, stretched or merged with anything. Keep the pink studio, the drum kit, the amps, the moves, the mouth movement, the cuts and the camera exactly as in the video. No text, no logos.
+Recreate the reference video [Video 1] shot for shot: the same bright pink studio with a pink floor and a pink background, the same red drum kit, cymbals and black amps, the same microphone on its cable, the same camera angles, cuts, timing and moves. The ONLY change: the cat who plays the drums is now the pet in [Image 1], and the cat who sings into the microphone is now the pet in [Image 2]. Both change: no cat from the video stays, also in the close-ups, the wide shots and the dance at the end.
+
+[Image 1] is the sole look reference for the drummer, [Image 2] is the sole look reference for the singer, and [Video 1] gives only the moves, the timing and the camera.
+
+The drummer = the pet in [Image 1], in EVERY shot, also in the big close-up of its face: the same species and breed, head shape, face, eyes, eye color, ears, muzzle, fur colors, fur length and markings as in [Image 1], so its owner instantly recognizes it. Never drift back to the drummer cat of the video: not its face, its eyes or its coat unless [Image 1] shows them.
+
+The singer = the pet in [Image 2], in EVERY shot, also in the extreme close-up of its open mouth: the same species and breed, head shape, face, eyes, eye color, ears, muzzle, fur colors, fur length and markings as in [Image 2], so its owner instantly recognizes it. Never drift back to the singer cat of the video: not its face, its eyes or its coat unless [Image 2] shows them.
+
+Each pet keeps the natural body volume and proportions of its own animal: never flattened, squashed, stretched or merged with anything. Real fur, real animals, not cartoons. If a photo shows a dog or another animal, that animal takes the same place and does the same moves, with its own ears and muzzle. If both photos show the same pet, it plays both parts. Do not mix the two pets: [Image 1] is only the drummer, [Image 2] is only the singer.
+
+Shots, matching the reference:
+1. 0-3.3 s, from above: the singer kneels upright on the pink floor, sings into the microphone and reaches a paw to the camera; the drummer plays behind the red kit.
+2. 3.3-6.7 s: a big close-up of the drummer's face, staring into the camera: clearly the pet from [Image 1], never the drummer cat of the video.
+3. 6.7-9.8 s, at the drum kit: the drummer sits at the kit, the singer hugs it from behind and leans on it.
+4. 9.8-11.3 s: closer on the two at the kit, the singer's cheek against the drummer's head.
+5. 11.3-12.9 s: an extreme close-up of the singer's wide open mouth as it sings, with the fur, nose and whiskers of the pet from [Image 2].
+6. 12.9-14.5 s, full body: both stand upright on the pink floor and dance side by side, front paws in the air.
+7. 14.5-15 s: the drummer steps close to the camera with its mouth open, the singer dances behind.
+
+Anatomy rules: one head per pet, on its own body. Two hind legs and two front legs each, no extra legs or paws, no human hands. Exactly two animals, no people. No text, no logos, no brand names on the amps or the drums, no watermark. No dialogue, no background music.
 ```
 

@@ -1,0 +1,53 @@
+# Is That What You Tell Your Little Puerto Rican Mami? Do the Dance From Your Photo
+
+- Source: [makeviral](https://www.makeviral.ai/templates/puerto-rican-mami-ai-dance)
+- Slug: `puerto-rican-mami-ai-dance`
+
+The Puerto Rican Mami dance is the October 2026 TikTok trend on the line "Is that what you tell your little Puerto Rican mami?": two friends throw their arms up, slap a knee, swap places and lean to their knees.
+
+## Demo videos (CDN)
+
+- https://www.makeviral.ai/media/templates/puerto-rican-mami-ai-dance/original-duo-v2.mp4
+
+## Posters
+
+- https://www.makeviral.ai/media/templates/puerto-rican-mami-ai-dance/original-duo-v1.jpg
+
+## Prompts
+
+### 1. 1. The video prompt is filled in. Settings: kling-3-motion, 15 s, 720p, 9:16, sound off. The video prompt
+
+*Kind: video_prompt*
+
+```text
+Track the exact camera movement, framing, facial expressions, and body movements from the video. Keep the face, hairstyle, body, clothing, and overall appearance exactly the same as in the uploaded image, with no changes or distortion. Use the background and place of the uploaded image. Keep every dance move from the video in time with the beat, from the first step to the final pose.
+Replace the character in the video with the person from the uploaded image. Keep actions, poses, facial expressions and rhythm. Preserve the person's original facial features, maintain character consistency, no distortion, no glitches, no artifacts. The person dances in the place from the uploaded image, in the clothes and shoes from the uploaded image, not the black polo shirt, the backpack or the beige pants of the dancer in the video, and keeps their own hair from the uploaded image: the dancer in the video has a shaved head, so never shave, hide or remove the person's hair. Follow the dancer's moves and timing exactly: the hands together at the chest, the arms flung out wide with the palms up, the hands up by the shoulders with a shoulder shimmy, the arms crossing in front, the side lean with a knee lift and a slap on the knee, the arms wide again, and the hands down to the knees at the end. Keep the body in view, with natural balance and stable ground contact. Exactly one person, no other people. One continuous shot, no text, no captions, no logos.
+```
+
+### 2. 1. The video prompt is filled in. Settings: Seedance 2.5, 15 s, 720p, 9:16, sound off. The video prompt
+
+*Kind: video_prompt*
+
+```text
+Recreate the reference video [Video 1] shot for shot: two friends dance at night under a white wooden canopy on a pale concrete plaza, red-brick buildings behind them, with the same fixed low camera, framing, timing and moves. The ONLY change: [Image 1] replaces the woman in the light-grey zip hoodie with the hood up, who starts on the left, and [Image 2] replaces the woman with long red braids in the black hoodie and black beanie, who starts on the right.
+
+Track the exact camera movement, framing, facial expressions, and body movements from [Video 1]. Keep the face, hairstyle, body, clothing, and overall appearance of each dancer exactly the same as in their own image, [Image 1] or [Image 2], with no changes or distortion. Use the video's background and environment. Keep every dance move from the video in time with the beat, from the first step to the final pose. Output in 9:16 vertical format.
+
+Dancer 1 = the person in [Image 1], in EVERY frame: copy the exact face from [Image 1] (the face shape, eye color and eye shape, eyebrows, nose, mouth, skin tone, age, hair color, hair length and hairstyle, and any beard, moustache, glasses or freckles). They wear the clothes and shoes from [Image 1]. NO grey hoodie and no hood unless [Image 1] shows them.
+
+Dancer 2 = the person in [Image 2], in EVERY frame: copy the exact face from [Image 2] (the face shape, eye color and eye shape, eyebrows, nose, mouth, skin tone, age, hair color, hair length and hairstyle, and any beard, moustache, glasses or freckles). They wear the clothes and shoes from [Image 2]. NO red braids, no black beanie and no black hoodie unless [Image 2] shows them.
+
+The same real people from the first second to the last, so their friends recognize them at once. Never morph, never drift back to the original dancers' faces. Both change: no one from the video stays. After the place swap each keeps their own face, hair and clothes; never swap the faces.
+
+The dance, matching the reference second by second:
+0-1.5 s: side by side, dancer 1 with the hands on the hips.
+1.5-3.5 s: both throw their arms up and out wide.
+3.5-7.5 s: arms out, a sway, then the two lean together.
+7.5-9 s: a knee lift with a slap on the knee.
+9-10.5 s: they cross with a hop: dancer 1 goes to the right, dancer 2 to the left.
+10.5-13.5 s: hands through the hair and on the head.
+13.5-15 s: both lean forward, hands on the knees, and bounce.
+
+One head per person, on that person's own shoulders. A face never appears on knees, legs, hands or clothes. Exactly two people. No text, no logos, no watermark.
+```
+

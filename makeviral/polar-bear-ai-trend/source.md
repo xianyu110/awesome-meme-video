@@ -3,7 +3,7 @@
 > The Polar Bear 2026 meme is an eerie, AI-looking polar bear first posted in 2023 as "a November meme from 2026".
 
 Canonical: https://www.makeviral.ai/templates/polar-bear-ai-trend
-Updated: 2026-10-15
+Updated: 2026-11-05
 Published: 2026-10-14
 Author: MakeViral Team (https://www.makeviral.ai/about)
 Publisher: MakeViral (https://www.makeviral.ai)
@@ -16,7 +16,7 @@ Also called: 2026 polar bear, remember november 2026 is coming, remember novembe
 
 **Make it now:** [Make this video](https://www.makeviral.ai/templates/polar-bear-ai-trend/create). 1 photo · 13 s · 9:16 with sound · 198 credits, charged once · ready in up to several minutes · no prompt to write.
 
-Keyword: polar bear 2026. Also answers: polar bear ai, polar bear meme, polar bear 2026 meme, polar bear ai trend, polar bear 2026 ai video, remember november 2026 meme, polar bear 2026 ai, ai generated polar bear 2026, polar bear 2026 original video, polar bear 2026 sound, polar bear meme 2026, polar bear 2026 meme explained, polar bear in 2026 meme, polar bear 2026 tiktok, polar bear 2026 song, polar bear from 2026 meme, polar bear 2026 original image, polar bear 2026 know your meme, polar bear 2026 video, polar bear in 2026, polar bear from 2026, polar bear 2026 gif, polar bear 2026 real, polar bear 2026 scary, polar bear 2026 horror, polar bear 2026 explained, polar bear 2026 meaning, polar bear 2026 sound effect, polar bear 2026 meme origin, is polar bear 2026 real video.
+Keyword: polar bear 2026. Also answers: polar bear ai, polar bear meme, polar bear 2026 meme, polar bear ai trend, polar bear 2026 ai video, remember november 2026 meme, polar bear 2026 ai, ai generated polar bear 2026, polar bear 2026 original video, polar bear 2026 sound, ai polar bear 2026, @gmd_arahis, ai polar bear november 2026, is the 2026 polar bear ai, is polar bear 2026 ai, polar bear meme 2026, ai polar bear meme, ai polar bear 2023, november 2026 polar bear song, polar bear 2026 meme date, when was the 2026 polar bear meme made, polar bear 2026 meme explained, polar bear in 2026 meme, polar bear 2026 tiktok, polar bear 2026 song, polar bear from 2026 meme, polar bear 2026 original image, polar bear 2026 know your meme, polar bear 2026 video, polar bear in 2026, polar bear from 2026, polar bear 2026 gif, polar bear 2026 real, polar bear 2026 scary, polar bear 2026 horror, polar bear 2026 explained, polar bear 2026 meaning, polar bear 2026 sound effect, polar bear 2026 meme origin, is polar bear 2026 real video.
 
 ## What is the Polar Bear 2026 trend, and where did it start?
 
@@ -31,7 +31,7 @@ As the date came close, the bear came back. On 28 August 2026 @bigbakdiskk28 pos
 - **2026-01**: As the meme's year begins, US Google searches for "polar bear 2026" peak at 40,500 for the month.
 - **2026-08-28**: @bigbakdiskk28 posts the AI clip of the bear singing "Remember November 2026 is coming"; it has 1.8 million views and 190,500 likes by 14 October. Source: [TikTok](https://www.tiktok.com/@bigbakdiskk28/video/7679289039039647007).
 - **2026-09-08**: A repost of the clip by @november2026daily reaches 2.6 million views and 174,400 likes by 14 October. Source: [TikTok](https://www.tiktok.com/@november2026daily/video/7683243761974906143).
-- **2026-10-14**: #remembernovember2026iscoming has 2,521 TikTok videos and 67 million views, and #polarbear2026 1,706 videos and 122.8 million views.
+- **2026-10-14**: #remembernovember2026iscoming has 2,521 TikTok videos and 67 million views, and #polarbear2026 1,706 videos and 122.8 million views. Source: [TikTok](https://www.tiktok.com/tag/remembernovember2026iscoming).
 
 ## What the Polar Bear 2026 video looks like
 
@@ -234,6 +234,14 @@ Probably. Know Your Meme calls the 2023 picture allegedly AI-generated, and the 
 
 It is a spooky joke, not a prediction. In 2023 an odd, AI-looking polar bear was posted as a meme from the future, and the polar bear meme came back when 2026 arrived. Know Your Meme tells the same origin story as the sections above.
 
+### Is the 2026 polar bear AI?
+
+Yes. The clip of the bear singing about November, posted in August 2026, is AI-made: its caption is the AI tool's file name. The first picture, from March 2023, is probably AI too, as Know Your Meme calls it allegedly AI-generated.
+
+### When was the 2026 polar bear meme made?
+
+The picture was first posted on TikTok on 27 March 2023, as "a November meme from 2026". The polar bear 2026 AI video that brought it back, a song about that November, was posted by @bigbakdiskk28 on 28 August 2026. The date in the meme comes from the 2023 caption, not from a real event.
+
 ### Is the polar bear 2026 video real, and is it scary or horror?
 
 No. The 2026 clip is AI-made, and the 2023 picture probably is too, so no such bear sits in the snow. The creepypasta gives it a scary, horror feel, but the singing polar bear is a joke.
@@ -255,6 +263,15 @@ Yes. The Remember November 2026 meme and the polar bear AI trend are one story, 
 - [AI Reels](https://www.makeviral.ai/tools/ai-reels-generator): Pick a format, give it a topic or a product link, and get a finished vertical reel with voice and captions. Nothing to film, nothing to edit.
 - [AI photo generator](https://www.makeviral.ai/ai-photo-generator)
 - [All AI video templates](https://www.makeviral.ai/templates)
+
+## New AI video trends this week
+
+- [Christmas Dance AI: Do the New TikTok Christmas Dance From Your Photos](https://www.makeviral.ai/templates/christmas-dance-ai-trend): Hip sways with the hands at the collar, rolling arms, a quick spin and raised fists, side by side in matching Christmas pajamas. Add two photos for the duo, one for a solo take, or two pets, and get the dance with the sound.
+- [Cat on Ultra Bee AI: Put Your Pet on the Wheelie](https://www.makeviral.ai/templates/cat-on-ultra-bee-ai-trend): Add one photo, and your cat or dog stands on an electric dirt bike and holds a long wheelie down a city road at golden hour, in the same shots as the viral clip, with its original sound. You can take the ride yourself, too.
+- [Tus Ojos Me Reflejan el Sentimiento: The Cafuné Eye Close-Up Trend](https://www.makeviral.ai/templates/tus-ojos-me-reflejan-ai-trend): You lie on your side, a hand rests on your cheek, warm light falls on your face, and the camera slowly moves in until your eyes fill the screen while the line plays. One photo in, an 8-second vertical clip with the trend's song out.
+- [İnşallah Maşallah AI Trend: Sing Neşe Karaböcek's Song on the Couch](https://www.makeviral.ai/templates/insallah-masallah-ai-trend): You sit on a light grey couch and sing the old Turkish love song straight to the camera: a hand on the heart, a big laugh with both hands on your head, a finger pointed at the camera and a kiss at the end. One photo of you, a grandparent or your pet, and the 15-second clip comes with the song.
+- [Ice Ice Baby Dance AI: Do the Viral Duo Dance With a Friend](https://www.makeviral.ai/templates/ice-ice-baby-dance-ai): Two dancers side by side, the same bouncy 90s steps, a spin on the beat and a strut to the camera. Add a photo of you and a friend, of you alone, or of your pet, and get the dance with the sound.
+- [Save Yourself Trend: Pull Yourself Up From the Cliff](https://www.makeviral.ai/templates/save-yourself-ai-trend): One photo plays both of you: the scared you clinging to a wet sea cliff, and the calm you who reaches down, pulls you up and holds you. Or use two photos: an older photo of you and a new one, or you and a friend. 15 seconds, vertical.
 
 ## Make your own Polar Bear 2026 video
 

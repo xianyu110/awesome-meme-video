@@ -1,0 +1,59 @@
+# Teach Me How to Dougie Dance: Your Clones Dance While You Eat
+
+- Source: [makeviral](https://www.makeviral.ai/templates/teach-me-how-to-dougie-ai-trend)
+- Slug: `teach-me-how-to-dougie-ai-trend`
+
+The Teach Me How to Dougie dance clone trend is a reel where a guy eats tacos in a small taco restaurant while see-through copies of him rise up behind him and do the Dougie in sync.
+
+## Demo videos (CDN)
+
+- https://www.makeviral.ai/media/templates/teach-me-how-to-dougie-ai-trend/original-main-v2.mp4
+
+## Posters
+
+- https://www.makeviral.ai/media/templates/teach-me-how-to-dougie-ai-trend/original-main-v1.jpg
+
+## Prompts
+
+### 1. 1. The video prompt is filled in. Settings: Seedance 2.5, 12 s, 720p, 9:16, sound off. The video prompt
+
+*Kind: video_prompt*
+
+```text
+Recreate the reference video [Video 1] shot for shot: the same small taco restaurant at night, white tiled walls with a red lower half, the hand-painted wall lettering, the window behind, the metal table with a tray of tacos, salsa cups and a glass of dark red drink, the same fixed phone camera at table height, framing, timing and moves. One continuous shot, no cuts. The dancing copies keep the soft double-exposure clone effect of [Video 1]: semi-transparent, the wall shows through them. The ONLY change: the young man who eats at the table AND every see-through copy of him that dances behind him are now the person in [Image 1], like clones of the same person.
+
+[Image 1] replaces the man at the table and all of his see-through copies (the copy behind his shoulder at the start and the three that dance behind him), in EVERY frame: each of them has the exact face from [Image 1] (the face shape, eye color and eye shape, eyebrows, nose, mouth, skin tone, age, hair color, hair length and hairstyle, and any beard, moustache, glasses or freckles). All of them wear the clothes and shoes from [Image 1]. NO curly dark hair, no silver chain, no black T-shirt and no white trousers unless [Image 1] shows them.
+
+The same real person in every figure, from the first second to the last, so their friends recognize them at once: the one at the table is solid and sharp, the dancing copies are see-through, and every face is the face from [Image 1], also when a copy closes its eyes. Never morph, never drift back to the original man's face, never add facial hair. No one from the video stays.
+
+The performance, matching [Video 1] second by second, on the beat. Do not invent additional moves.
+0-0.5 s: the person at the table leans over the tray and bites a taco; a see-through copy rises up behind them.
+0.5-3 s: the copy stands behind their left shoulder, leans over them and waves a hand above their head, playful, while they keep eating.
+3-5.5 s: the copy steps to the left and a second copy appears on the right by the red wall; the person at the table sits up, bounces the shoulders, closes the eyes, smiles and lifts one hand to the beat.
+5.5-12 s: three see-through copies, on the left, in the middle at the back and on the right, do the Dougie in sync: one hand brushes back over the hair, the other arm swings loose, the shoulders lean side to side, then a fist pumps high into the air; the person at the table keeps eating tacos with both hands and bobs the head to the beat.
+
+The person at the table chews and smiles; nobody sings or talks. No dialogue throughout the entire video. No background music.
+
+Anatomy rules: one head per figure, on that figure's own shoulders. A face never appears on hands, arms or clothes. Exactly one solid person at the table and at most three see-through copies, all the same person. Five fingers on each hand, natural hands on the taco. No extra people, duplicate solid bodies, extra limbs or fused fingers. No captions, subtitles, watermark or readable brand logo; the wall lettering stays as in [Video 1].
+```
+
+### 2. 1. The video prompt is filled in. Settings: Seedance 2.5, 12 s, 720p, 9:16, sound off. The video prompt (Pet)
+
+*Kind: video_prompt*
+
+```text
+Recreate the reference video [Video 1] shot for shot: the same small taco restaurant at night, white tiled walls with a red lower half, the hand-painted wall lettering, the window behind, the metal table with a tray of tacos, salsa cups and a glass of dark red drink, the same fixed phone camera at table height, framing, timing and moves. One continuous shot, no cuts. The dancing copies keep the soft double-exposure clone effect of [Video 1]: semi-transparent, the wall shows through them. The ONLY change: the young man who eats at the table AND every see-through copy of him that dances behind him are now the pet in [Image 1], like clones of the same pet.
+
+The pet = the pet in [Image 1], in EVERY figure and EVERY frame: the same species and breed, face, eyes, ears, muzzle, fur colors, fur length and markings as in [Image 1], with the natural body volume and proportions of that animal: never flattened, squashed, stretched or merged with anything. Whether [Image 1] shows a dog, a cat or another animal, every figure stays that animal. The pet at the table sits upright on the chair, front paws on the table edge, and eats from the taco tray with its own mouth. The dancing copies are the same pet standing upright on its hind legs, see-through as in [Video 1], and they dance with their front paws. The same pet in every figure, from the first second to the last, so its owner instantly recognizes it. Never a human face, never human hands, never the original man. No clothes unless [Image 1] shows them: no black T-shirt, no white trousers, no silver chain.
+
+The performance, matching [Video 1] second by second, on the beat. Do not invent additional moves.
+0-0.5 s: the pet at the table leans over the tray and bites a taco; a see-through copy of the pet rises up behind it.
+0.5-3 s: the copy stands upright behind its left shoulder, leans over it and waves a front paw above its head, playful, while it keeps eating.
+3-5.5 s: the copy steps to the left and a second copy appears on the right by the red wall; the pet at the table sits up, bounces its shoulders, closes its eyes and lifts one front paw to the beat.
+5.5-12 s: three see-through copies, on the left, in the middle at the back and on the right, do the Dougie in sync on their hind legs: one front paw brushes back over the head and ears, the other front leg swings loose, the body leans side to side, then a paw pumps high into the air; the pet at the table keeps eating and bobs its head to the beat.
+
+The pet at the table chews; no animal sings, talks or barks. No dialogue throughout the entire video. No background music.
+
+Anatomy rules: one head per animal, one muzzle, natural teeth and tongue. Animal paws, never human hands. Exactly one solid pet at the table and at most three see-through copies, all the same pet. No people, no extra animals, no extra legs. No captions, subtitles, watermark or readable brand logo; the wall lettering stays as in [Video 1].
+```
+

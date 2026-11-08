@@ -1,0 +1,55 @@
+{
+  "source": "makeviral",
+  "source_site": "https://www.makeviral.ai",
+  "slug": "babymonster-deserve-ai-video",
+  "name": "BABYMONSTER DESERVE AI Video: You in the Rain at Night",
+  "url": "https://www.makeviral.ai/templates/babymonster-deserve-ai-video",
+  "markdown_url": "https://www.makeviral.ai/templates/babymonster-deserve-ai-video.md",
+  "blurb": "BABYMONSTER DESERVE is the YG girl group's slow pop ballad, out 23 October 2026, and its TikTok trend is vocal covers and moody night edits.",
+  "updated": "2026-10-30",
+  "published": "2026-10-30",
+  "credits": 126,
+  "demo_videos": [
+    "https://www.makeviral.ai/media/templates/babymonster-deserve-ai-video/example-main-v1.mp4"
+  ],
+  "posters": [
+    "https://www.makeviral.ai/media/templates/babymonster-deserve-ai-video/example-main-input.jpg",
+    "https://www.makeviral.ai/media/templates/babymonster-deserve-ai-video/example-main-poster.jpg"
+  ],
+  "prompts": [
+    {
+      "label": "1. The video prompt is filled in. Settings: Seedance 2.5, 10 s, 720p, 9:16, sound on. The video prompt",
+      "variant": null,
+      "kind": "video_prompt",
+      "text": "Animate the person in [Image 1]: an emotional night scene in heavy rain, like a K-pop ballad music video. One continuous vertical 9:16 shot with no cuts, cinematic and photorealistic, a slow push-in.\n\nThe star is the person in [Image 1], in every frame: copy the exact face from [Image 1] (the face shape, eye color and eye shape, eyebrows, nose, mouth, skin tone, age, hair color, hair length and hairstyle, and any beard, moustache, glasses or freckles), and the same build, so their friends recognize them at once. The star is an adult. They wear a loose grey knit top with a few frayed holes, worn over a black lace camisole, a thin black choker and dark jeans, all soaked by the rain. No logo, no print and no words or letters on it; never the clothes from [Image 1]. The face stays the same from the first frame to the last, also wet with rain and in the close-up. Never morph. If [Image 1] shows an animal, the star is that animal sitting on the wet street, with its own face, fur and markings, not a person.\n\nThe place: a dark, empty city street at night in heavy pouring rain. Wet black asphalt reflects warm orange light. A parked dark sedan with no badge and no license plate stands a few steps behind the subject, and far behind the car a big bonfire burns in an empty lot, lighting the falling rain drops orange. No people, no signs, no shop fronts, no letters.\n\nThe beats, slow and emotional, like a scene from a K-pop ballad music video, the camera slowly pushing in the whole time:\n0-2.5 s: a medium shot from the waist up: they stand alone in the pouring rain beside the car, no umbrella, the head down, wet hair on the cheeks.\n2.5-5 s: they lift the head and push the wet hair back with one hand, rain running down the face, the eyes looking far away, heartbroken but strong.\n5-7.5 s: the bonfire far behind the car flares up high, warm orange light on the side of the face; they slowly turn the head to the camera.\n7.5-10 s: a close-up from the chest up: they look straight into the lens with a soft, sad half smile and calm eyes, rain drops on the skin; the face fills the top of the frame.\nThe lips stay closed or only slightly parted: no singing, no talking. The face is large and sharp at the end: exactly the face from [Image 1].\n\nAudio: an original slow retro synth pop ballad instrumental with soft piano and warm synth pads, plus the sound of heavy rain; no known song, no lyrics, no singing, no talking. Exactly one person. Nobody touches the fire; the flames stay far behind the car. No famous people, no idols, no children. No logos, no car badge, no license plate and no words or letters anywhere. One head, two arms, two legs, five fingers per hand. No captions, no watermark."
+    },
+    {
+      "label": "1. The video prompt is filled in. Settings: Seedance 2.5, 10 s, 720p, 9:16, sound on. The video prompt",
+      "variant": "Pet",
+      "kind": "video_prompt",
+      "text": "Animate the pet in [Image 1]: an emotional night scene in heavy rain, like a K-pop ballad music video. One continuous vertical 9:16 shot with no cuts, cinematic and photorealistic, a slow push-in.\n\nThe star is the pet in [Image 1], in every frame: the same species and breed, face, eyes, ears, muzzle, fur colors, fur length and markings as in [Image 1], with the natural body volume and proportions of that animal: never flattened, squashed, stretched or merged with anything. No clothes, no collar text. It stays a real animal on four legs; it never stands like a person.\n\nThe place: a dark, empty city street at night in heavy pouring rain. Wet black asphalt reflects warm orange light. A parked dark sedan with no badge and no license plate stands a few steps behind the subject, and far behind the car a big bonfire burns in an empty lot, lighting the falling rain drops orange. No people, no signs, no shop fronts, no letters.\n\nThe beats, slow and emotional, the camera slowly pushing in the whole time:\n0-2.5 s: the pet sits alone on the wet street a few steps in front of the car, the rain falling on its fur, the head low.\n2.5-5 s: it lifts its head and gives a small shake, a few drops flying off its ears.\n5-7.5 s: the bonfire far behind the car flares up, a warm orange glow on its fur; it slowly turns its head to the camera.\n7.5-10 s: a close-up of its face: big shiny eyes look straight into the lens, rain drops on the whiskers and the fur; the face fills the top of the frame and is exactly the pet from [Image 1].\n\nAudio: an original slow retro synth pop ballad instrumental with soft piano and warm synth pads, plus the sound of heavy rain; no known song, no lyrics, no singing, no talking. Exactly one animal and no people. The pet never goes near the fire. No logos, no car badge, no license plate and no words or letters anywhere. No captions, no watermark."
+    }
+  ],
+  "variant_headings": [
+    "What is the DESERVE AI Video trend, and where did it start?",
+    "DESERVE AI Video trend timeline",
+    "What the DESERVE AI Video video looks like",
+    "How to make the DESERVE AI Video video on MakeViral",
+    "Which photo works best?",
+    "What happens in the DESERVE AI video, second by second?",
+    "You or Pet: which version should you pick?",
+    "DESERVE AI Video trend questions",
+    "Can I make a BABYMONSTER AI video of myself?",
+    "Does the video look like the DESERVE MV?",
+    "Bisakah saya membuat video AI BABYMONSTER DESERVE?",
+    "Are the BABYMONSTER DESERVE lyrics in my video?",
+    "Can my pet star in it?",
+    "What song does the video use?",
+    "How do I make a kpop AI video like this?",
+    "Other AI video templates and tools",
+    "New AI video trends this week",
+    "Make your own DESERVE AI Video video"
+  ],
+  "prompt_count": 2,
+  "scraped_at": "2026-11-08"
+}

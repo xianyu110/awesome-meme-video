@@ -1,0 +1,69 @@
+# Oh He Tweakin: The You Tweaking AI Trend With Your Faces
+
+- Source: [makeviral](https://www.makeviral.ai/templates/you-tweaking-ai-trend)
+- Slug: `you-tweaking-ai-trend`
+
+Oh he tweakin, also called "you tweaking", is a 2024 dating-show meme, now an AI trend: he asks her to do a 360, she turns and shows off her handbag, and he bites his fist and laughs.
+
+## Demo videos (CDN)
+
+- https://www.makeviral.ai/media/templates/you-tweaking-ai-trend/example-v1.mp4
+
+## Posters
+
+- https://www.makeviral.ai/media/templates/you-tweaking-ai-trend/example-v1-input.jpg
+- https://www.makeviral.ai/media/templates/you-tweaking-ai-trend/example-v1-poster.jpg
+
+## Prompts
+
+### 1. 1. The video prompt is filled in. Settings: Seedance 2.5, 12 s, 720p, 9:16, sound on. The video prompt
+
+*Kind: video_prompt*
+
+```text
+There are two people in this video, each shown alone in their own shots, cutting back and forth on the beat like a clip from a dating show. Vertical 9:16, photorealistic, one fixed camera at chest height, every shot a medium-wide shot from the knees up.
+
+WHO IS WHO:
+THE ONE WHO LAUGHS = the person in [Image 1]: their face, hair and skin, in every one of their shots: the exact face from [Image 1] (the face shape, eye color and eye shape, eyebrows, nose, mouth, skin tone, age, hair color, hair length and hairstyle, and any beard, moustache, glasses or freckles), and the clothes from [Image 1].
+THE ONE WITH THE HANDBAG = the person in [Image 2]: their face, hair and skin, in every one of their shots: the exact face from [Image 2] (the face shape, eye color and eye shape, eyebrows, nose, mouth, skin tone, age, hair color, hair length and hairstyle, and any beard, moustache, glasses or freckles), and the clothes from [Image 2], with a small handbag in one hand (the bag from [Image 2] if it shows one, else a plain leather handbag).
+Never blend their faces. Each face stays the same from the first frame to the last, so their friends recognize them at once. An animal in an image stays that animal, upright, with its own face, fur and markings. If THE ONE WHO LAUGHS is a woman, "he" in the lines becomes "she".
+
+Beat by beat, each shot shows only one of them:
+0-2 s: THE ONE WHO LAUGHS, grinning, lifts one hand and twirls a finger in a circle: "Let me see you do a 360."
+2-4.5 s: THE ONE WITH THE HANDBAG does one slow, full turn on the spot, then stops facing the camera and lifts the handbag beside the face like a model, chin up, a proud smile.
+4.5-6.5 s: THE ONE WHO LAUGHS bites the knuckles of one fist, looks away and bursts out laughing, the shoulders shaking.
+6.5-8 s: THE ONE WITH THE HANDBAG glances at the camera, amused, the bag held in front: "Oh, he tweaking."
+8-10 s: THE ONE WHO LAUGHS, still laughing, one hand on the chest: "I'm tweaking? How?"
+10-11.2 s: THE ONE WITH THE HANDBAG, eyebrows up, a small head tilt: "You tweaking."
+11.2-12 s: THE ONE WHO LAUGHS, the fist back at the mouth, laughing: "Huh?"
+
+Each one speaks only their own lines, the lips in sync, in relaxed, playful American English: no other words, no swearing. Audio: only the two voices and a quiet studio room tone, no music.
+Keep the plain studio wall and the lighting the same in every shot: a plain white photo studio: a seamless white wall and floor, soft, even, bright studio light, nothing else in the room. Keep every face clearly lit.
+Clean and playful: the turn is one smooth full spin, no dancing, no hip moves, never a close-up of the body; the camera never moves closer or lower. Exactly one person in each shot, no host, no crowd. No text, no captions, no subtitles, no logos, no brand names or logo patterns on the handbag or the clothes, no watermark.
+```
+
+### 2. 1. The video prompt is filled in. Settings: Seedance 2.5, 12 s, 720p, 9:16, sound on. The video prompt
+
+*Kind: video_prompt*
+
+```text
+There are two people in this video, each shown alone in their own shots, cutting back and forth on the beat like a clip from a dating show. Vertical 9:16, photorealistic, one fixed camera at chest height, every shot a medium-wide shot from the knees up.
+
+WHO IS WHO:
+THE ONE WHO LAUGHS = the person in [Image 1]: their face, hair and skin, in every one of their shots: the exact face from [Image 1] (the face shape, eye color and eye shape, eyebrows, nose, mouth, skin tone, age, hair color, hair length and hairstyle, and any beard, moustache, glasses or freckles), and the clothes from [Image 1]. The face stays the same from the first frame to the last, so their friends recognize them at once. An animal in [Image 1] stays that animal, upright, with its own face, fur and markings.
+THE ONE WITH THE HANDBAG = an invented adult woman in her late twenties with shoulder-length wavy brown hair, a cream knit top, a light camel coat and dark trousers, holding a small tan leather handbag. She never gets the face from [Image 1]. If THE ONE WHO LAUGHS is a woman, "he" in the lines becomes "she".
+
+Beat by beat, each shot shows only one of them:
+0-2 s: THE ONE WHO LAUGHS, grinning, lifts one hand and twirls a finger in a circle: "Let me see you do a 360."
+2-4.5 s: THE ONE WITH THE HANDBAG does one slow, full turn on the spot, then stops facing the camera and lifts the handbag beside the face like a model, chin up, a proud smile.
+4.5-6.5 s: THE ONE WHO LAUGHS bites the knuckles of one fist, looks away and bursts out laughing, the shoulders shaking.
+6.5-8 s: THE ONE WITH THE HANDBAG glances at the camera, amused, the bag held in front: "Oh, he tweaking."
+8-10 s: THE ONE WHO LAUGHS, still laughing, one hand on the chest: "I'm tweaking? How?"
+10-11.2 s: THE ONE WITH THE HANDBAG, eyebrows up, a small head tilt: "You tweaking."
+11.2-12 s: THE ONE WHO LAUGHS, the fist back at the mouth, laughing: "Huh?"
+
+Each one speaks only their own lines, the lips in sync, in relaxed, playful American English: no other words, no swearing. Audio: only the two voices and a quiet studio room tone, no music.
+Keep the plain studio wall and the lighting the same in every shot: a plain white photo studio: a seamless white wall and floor, soft, even, bright studio light, nothing else in the room. Keep every face clearly lit.
+Clean and playful: the turn is one smooth full spin, no dancing, no hip moves, never a close-up of the body; the camera never moves closer or lower. Exactly one person in each shot, no host, no crowd. No text, no captions, no subtitles, no logos, no brand names or logo patterns on the handbag or the clothes, no watermark.
+```
+

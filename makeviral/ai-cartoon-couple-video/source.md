@@ -3,7 +3,7 @@
 > An AI cartoon couple video turns the two of you into 3D animated cartoon characters in a short comedy skit, like the AI cartoon couple clips that fill TikTok in October 2026.
 
 Canonical: https://www.makeviral.ai/templates/ai-cartoon-couple-video
-Updated: 2026-10-20
+Updated: 2026-10-29
 Published: 2026-10-20
 Author: MakeViral Team (https://www.makeviral.ai/about)
 Publisher: MakeViral (https://www.makeviral.ai)
@@ -12,11 +12,11 @@ An **AI cartoon couple video** turns the two of you into 3D animated cartoon cha
 
 You and your partner become glossy 3D cartoon characters in a short comedy skit. A sales assistant flirts with your partner and you show your stance, or your partner steals a kiss and you blush. Add two photos.
 
-Also called: Funny Animation AI trend, Show your stance, AI cartoon couple skit, Surprise kiss reaction.
+Also called: Funny Animation AI trend, Show your stance, AI cartoon couple skit, Surprise kiss reaction, Halloween ghost skit.
 
 **Make it now:** [Make this video](https://www.makeviral.ai/templates/ai-cartoon-couple-video/create). 2 photos · 12 s · 9:16 with sound · 152 credits, charged once · ready in a few minutes · no prompt to write.
 
-Keyword: ai cartoon couple video. Also answers: ai kiss video, ai cartoon couple, ai couple cartoon, ai couple animation, ai animated couple, ai couple video, ai couple video generator, ai cartoon video generator, funny animation, funny ai cartoon video, cartoon couple video, 3d cartoon couple, funny ai animation, ai 3d animation video, ai cartoon video maker, animation couple video, cartoon couple funny, funny couple animation, 3d cartoon couple video, jealous girlfriend meme, ai couple cartoon video, ai animated couple video, show your stance trend, turn us into cartoon characters, ai couple comedy video, funny animation tiktok, ai cartoon couple prompt, ai cartoon love story.
+Keyword: ai cartoon couple video. Also answers: ai kiss video, ai cartoon couple, ai couple cartoon, ai couple animation, ai animated couple, ai couple video, ai couple video generator, ai cartoon video generator, funny animation, funny ai cartoon video, cartoon couple video, 3d cartoon couple, funny ai animation, ai 3d animation video, ai cartoon video maker, animation couple video, cartoon couple funny, funny couple animation, 3d cartoon couple video, jealous girlfriend meme, ai couple cartoon video, ai animated couple video, show your stance trend, turn us into cartoon characters, ai couple comedy video, funny animation tiktok, ai cartoon couple prompt, ai cartoon love story, ai cartoon couple generator, halloween cartoon ai, ai cartoon ghost, cartoon ghost animation, haunted ai video, ghost wife meme.
 
 ## What is the AI Cartoon Couple trend, and where did it start?
 
@@ -38,6 +38,9 @@ Made from the prompts on this page. The people and pets are AI-made, not real pe
 - **Example 1** (11 s, 9:16 MP4 with sound): The clip that made the trend, by @ludermandiamant95 (19 October 2026, 1.1 million views): at a boutique counter the sales assistant flirts with a woman's man, she rests her head on his shoulder, walks off hand in hand and gives a look back. Shop stance makes this skit with your two photos.
   - Video: https://www.makeviral.ai/media/templates/ai-cartoon-couple-video/original-main-v2.mp4
   - Poster: https://www.makeviral.ai/media/templates/ai-cartoon-couple-video/original-main-v1.jpg
+- **Example 2** (15 s, 9:16 MP4 with sound): The Halloween reel by @matleave.diaries (27 October 2026, more than 56,000 likes on Instagram): a husband gives the house ghost a yellow dress, his exhausted wife walks in looking just like her, he puts on his glasses and screams. Halloween ghost makes this skit with your two photos.
+  - Video: https://www.makeviral.ai/media/templates/ai-cartoon-couple-video/original-ghost-v2.mp4
+  - Poster: https://www.makeviral.ai/media/templates/ai-cartoon-couple-video/original-ghost-v1.jpg
 
 ## How to make the AI Cartoon Couple video on MakeViral
 
@@ -111,6 +114,43 @@ Only kisses on the cheek, sweet and funny, never romantic close-ups of lips. No 
 
 One-tap version of this variant: https://www.makeviral.ai/templates/ai-cartoon-couple-video/create?variant=kiss
 
+#### Variant: Halloween ghost
+
+Settings: 2 photos (you (you bring the gift home) + your partner (the tired one, and the ghost)) · Seedance 2.5 · 15 s · 720p · 9:16 · no sound · 228 credits in one tap.
+
+1. The video prompt is filled in. Settings: Seedance 2.5, 15 s, 720p, 9:16, sound off. The video prompt:
+
+   ```text
+   Recreate the reference video [Video 1] shot for shot: the same glossy 3D cartoon style, the same Halloween house at night, camera, cuts, timing and moves. The ONLY change: the faces and hair of the three cartoon characters. The man in the grey shirt is now the person in [Image 1]. The tired woman in pink pyjamas AND the pale blue ghost are both the person in [Image 2]. [Video 1] is for the story, the moves, the costumes and the camera only.
+
+The man = the person in [Image 1], in EVERY shot, a 3D cartoon version friends recognize at once: copy the face shape, eye color and eye shape, eyebrows, nose, mouth, skin tone, age, hair color, hair length and hairstyle, and any beard, moustache or freckles from [Image 1]. He wears the clothes from [Image 1]. NO glasses before shot 6; from shot 6 on, the glasses from [Image 1], or black-framed ones if it shows none.
+
+The woman = the person in [Image 2], the same face list from [Image 2], her own hair color and hairstyle but messy, tired dark circles under the eyes. She ALWAYS wears the pink button-up pyjamas from the video, never the clothes from [Image 2].
+
+The ghost = the SAME person from [Image 2] as a friendly ghost, so the two look alike (that is the joke): the face of [Image 2], its hair longer and floating, pale blue glowing see-through skin, dark rings around big eyes, the long tattered white nightgown from the video. Never gory.
+
+Never blend the two faces. No one from the video stays, also in wide shots. Even with a similar haircut, the faces come only from the photos, never from the video's characters. All three are adults.
+
+Shot 1 [0-2.7s]: the man pulls a yellow ruffled dress from a white gift bag and holds it out to the ghost at the left.
+Shot 2 [2.7-4.8s]: hard cut, close-up: the ghost hugs the dress, touched, with a shy smile.
+Shot 3 [4.8-5.5s]: hard cut, wide: the woman shuffles in from the hallway, exhausted.
+Shot 4 [5.5-6.5s]: hard cut, medium: the man turns to the woman beside him.
+Shot 5 [6.5-8.4s]: hard cut: the ghost on the left, the man in the middle, the woman on the right; he looks from one to the other.
+Shot 6 [8.4-10.2s]: hard cut, close-up: the man takes the glasses from his shirt pocket and puts them on.
+Shot 7 [10.2-10.9s]: hard cut, close-up: the ghost hugs the dress.
+Shot 8 [10.9-11.8s]: hard cut, close-up: the man in glasses screams in horror, mouth wide open.
+Shot 9 [11.8-12.7s]: hard cut, wide: he jumps to the woman and clings to her; the ghost floats on the left.
+Shot 10 [12.7-15s]: hard cut, medium: the woman stands grumpy while he hugs her from behind, terrified; at the end the ghost glides into the left foreground, smiling with the dress.
+
+Only replace the faces and hair; the moves, timing, camera, cuts, house and costumes stay completely unchanged. Keep everything else the same.
+
+One head per body, two arms and two legs each. Exactly three characters, nobody else, no children. No blood. No text, no subtitles, no logos, no watermark. No dialogue throughout the entire video. No background music.
+   ```
+
+2. Press Generate, then download the 9:16 MP4.
+
+One-tap version of this variant: https://www.makeviral.ai/templates/ai-cartoon-couple-video/create?variant=ghost
+
 ### Which photo works best?
 
 You need **two photos**, one person in each.
@@ -136,8 +176,9 @@ Credits come with a plan; see [pricing](https://www.makeviral.ai/pricing). A fai
 |---|---|---|
 | **Shop stance** (default) | At a boutique counter a sales assistant flirts with your partner. You notice, lean on your partner's shoulder, walk off hand in hand, then look back with a smirk, a hair flip and a little bye-bye wave. Her jaw drops. | 12 s |
 | **Surprise kiss** | You scroll on your phone on the sofa. Your partner sneaks in and kisses your cheek. You freeze and blush, pretend to be annoyed, then kiss back, and your partner melts into the cushions. | 10 s |
+| **Halloween ghost** | You come home with a yellow dress for the house ghost. Your partner walks in, exhausted, in pink pyjamas and looks just like the ghost. You put on your glasses and scream. Copied shot for shot from the viral Halloween reel, with its own music and screams. | 15 s |
 
-Both are vertical 9:16 at 720p with their own playful music. They are made straight from your two photos with Seedance 2.5, so there is no in-between picture. The exact price shows on the Generate button before you spend anything.
+Shop stance and Surprise kiss are vertical 9:16 at 720p with their own playful music. They are made straight from your two photos with Seedance 2.5, so there is no in-between picture. The exact price shows on the Generate button before you spend anything.
 
 ## Shop stance, shot by shot
 
@@ -184,6 +225,10 @@ For these skits, yes: an AI cartoon video generator and AI cartoon video maker f
 
 Yes. Pick Surprise kiss: your partner kisses your cheek and your cartoon self blushes, pouts and kisses back, a cartoon couple funny moment and a small AI cartoon love story. It is the AI kiss video of this trend, cheek kisses only. For a sweet hug instead, try the [AI hug video](https://www.makeviral.ai/templates/ai-hug-video).
 
+### Can you make the Halloween ghost skit from the ghost wife meme?
+
+Yes. Pick Halloween ghost: it copies the AI cartoon that @matleave.diaries posted on Instagram on 27 October 2026 (more than 56,000 likes), the ghost wife meme where the tired wife looks just like the house ghost. Photo 1 is you, the one who brings the dress home. Photo 2 is your partner, who plays both the tired partner and the ghost. It is 15 seconds, vertical, with the reel's own Halloween music and screams. The 3D cartoon ghost animation stays sweet and funny: a haunted AI video, but no gore. Like the other skits, this AI cartoon couple generator makes one set scene, not a story you type.
+
 ### Is this the funny animation AI trend from TikTok?
 
 It is our take on the funny animation AI trend: an animation couple video, a funny couple animation, the cartoon couple video genre that #funnyanimation clips show. Each skit is an AI couple comedy video, an AI couple cartoon video of the two of you. On 20 October 2026 the big clip came from one channel, so you can be early with it.
@@ -209,6 +254,15 @@ No. It is made with AI from two still photos, and the sales assistant is an AI-m
 - [AI Reels](https://www.makeviral.ai/tools/ai-reels-generator): Pick a format, give it a topic or a product link, and get a finished vertical reel with voice and captions. Nothing to film, nothing to edit.
 - [AI photo generator](https://www.makeviral.ai/ai-photo-generator)
 - [All AI video templates](https://www.makeviral.ai/templates)
+
+## New AI video trends this week
+
+- [Christmas Dance AI: Do the New TikTok Christmas Dance From Your Photos](https://www.makeviral.ai/templates/christmas-dance-ai-trend): Hip sways with the hands at the collar, rolling arms, a quick spin and raised fists, side by side in matching Christmas pajamas. Add two photos for the duo, one for a solo take, or two pets, and get the dance with the sound.
+- [Cat on Ultra Bee AI: Put Your Pet on the Wheelie](https://www.makeviral.ai/templates/cat-on-ultra-bee-ai-trend): Add one photo, and your cat or dog stands on an electric dirt bike and holds a long wheelie down a city road at golden hour, in the same shots as the viral clip, with its original sound. You can take the ride yourself, too.
+- [Tus Ojos Me Reflejan el Sentimiento: The Cafuné Eye Close-Up Trend](https://www.makeviral.ai/templates/tus-ojos-me-reflejan-ai-trend): You lie on your side, a hand rests on your cheek, warm light falls on your face, and the camera slowly moves in until your eyes fill the screen while the line plays. One photo in, an 8-second vertical clip with the trend's song out.
+- [İnşallah Maşallah AI Trend: Sing Neşe Karaböcek's Song on the Couch](https://www.makeviral.ai/templates/insallah-masallah-ai-trend): You sit on a light grey couch and sing the old Turkish love song straight to the camera: a hand on the heart, a big laugh with both hands on your head, a finger pointed at the camera and a kiss at the end. One photo of you, a grandparent or your pet, and the 15-second clip comes with the song.
+- [Ice Ice Baby Dance AI: Do the Viral Duo Dance With a Friend](https://www.makeviral.ai/templates/ice-ice-baby-dance-ai): Two dancers side by side, the same bouncy 90s steps, a spin on the beat and a strut to the camera. Add a photo of you and a friend, of you alone, or of your pet, and get the dance with the sound.
+- [Save Yourself Trend: Pull Yourself Up From the Cliff](https://www.makeviral.ai/templates/save-yourself-ai-trend): One photo plays both of you: the scared you clinging to a wet sea cliff, and the calm you who reaches down, pulls you up and holds you. Or use two photos: an older photo of you and a new one, or you and a friend. 15 seconds, vertical.
 
 ## Make your own AI Cartoon Couple video
 

@@ -24,20 +24,48 @@ The hotel lobby AI trend (the AI Hotel Lobby trend, also called the Migos AI tre
 
 ## Prompts
 
-### 1. 1. The video prompt is filled in. Settings: h3-recast, 15 s, 720p, 9:16, sound on. The video prompt
+### 1. 1. The video prompt is filled in. Settings: Seedance 2.5, 15 s, 720p, 9:16, sound off. The video prompt
 
 *Kind: video_prompt*
 
 ```text
-Image 1 replaces the man on the left in the striped shirt and white sunglasses. Image 2 replaces the man on the right in the orange knit shirt and tinted glasses. Each person keeps the face, hair, clothes and accessories of their own image in every shot, with no sunglasses or glasses unless their own image shows them. A dress or a skirt stays a dress or a skirt in every move, with the legs and shoes under it. Keep the background, the motion, the camera and the audio exactly as in the video.
+Recreate the reference video [Video 1] shot for shot: the same orange studio booth, the same hanging microphone, the same light, the same camera angles, cuts, timing and moves. The ONLY change: [Image 1] replaces the man on the left, and [Image 2] replaces the man on the right. Each photo can show a person, a pet, a toy, a cartoon or game character, a figure or an object: whoever or whatever it shows takes that man's place with its WHOLE body, not only the head.
+
+Use [Video 1] only for the place, the camera, the cuts, the timing and the moves. Do not copy the two men from [Video 1]: nothing of them stays in any shot, not their faces, skin, hair, hands, shirts, jeans, shorts, glasses or jewelry.
+
+The one on the left = [Image 1], from head to feet in EVERY shot. If [Image 1] shows a person: copy the exact face - face shape, eye color and eye shape, eyebrows, nose, mouth, skin tone, age, hair color, hair length and hairstyle, and any beard, moustache, glasses or freckles exactly as in the photo - and the clothes from [Image 1], with no white sunglasses unless [Image 1] shows them. If it shows anything else: that exact subject, with its own shape, proportions, colors, surface, material and art style; its own whole body, whatever it has (head, torso, arms, paws, legs, feet or a base), replaces ALL of the man's body, with no shirt, no shorts, no jeans and no human arms, hands or skin unless [Image 1] shows them; it raps and points with its own limbs, or sways and bounces with its whole body when it has none; a blocky figure stays blocky, a plush stays soft, a plant stays a plant.
+
+The one on the right = [Image 2], from head to feet in EVERY shot, copied from [Image 2] in the same way: a person in the clothes from [Image 2] with no tinted glasses unless [Image 2] shows them, anything else with its own whole body and no human arms, hands, shirt or shorts unless [Image 2] shows them.
+
+When a photo shows only a head or an upper body, add the rest so it matches. Both copy the rapping, the gestures and the hand moves of the two men in the way their own bodies allow, and a mouth moves with the song when they have one. The same two in every frame, from the first shot to the last, so their friends instantly recognize them. Never morph, never drift back to the original men. Do not mix them: [Image 1] is only the one on the left, [Image 2] is only the one on the right.
+
+Shots, matching the reference:
+1. Wide: both stand in the orange booth by the hanging microphone.
+2. Medium two-shot: they rap in turn into the microphone, with loose hand moves, and react to each other.
+
+Anatomy rules: one head each, on its own body. A face never appears on hands or clothes. Exactly two performers. No text, no logos.
 ```
 
-### 2. 1. The video prompt is filled in. Settings: h3-recast, 15 s, 720p, 9:16, sound off. The video prompt (Pet)
+### 2. 1. The video prompt is filled in. Settings: Seedance 2.5, 15 s, 720p, 9:16, sound off. The video prompt (Pet)
 
 *Kind: video_prompt*
 
 ```text
-Replace both cats in the video with characters from image 1 and image 2, and preserve the original background, actions, poses, camera movement, lighting and timing. Only replace the two cats keep everything else unchanged. Image 1 replaces the cat on the left, who stands upright and raps into the hanging microphone, in every shot. Image 2 replaces the cat on the right, who stands upright and dances with its front paws, in every shot, also when it turns its back to the camera. Each pet keeps the face shape, ears, fur colors, fur length and markings from its own image, not those of the cats in the video. If an image shows a dog or another animal, that animal takes the same place, standing upright on its hind legs and doing the same moves. Keep the orange studio, the hanging microphone and the mouth movement exactly as in the video.
+Recreate the reference video [Video 1] shot for shot: the same flat orange studio booth, the same hanging silver microphone between them, the same soft orange light, the same camera angles, cuts, timing and moves. The rapping pet's mouth opens and closes with the song exactly like in the video. The ONLY change: the cat on the left who stands upright and raps into the hanging microphone is now the pet in [Image 1], and the cat on the right who stands upright and dances with its front paws is now the pet in [Image 2]. Both change: no cat from the video stays anywhere, also when only the back of a head shows.
+
+The rapper on the left = the pet in [Image 1], whole body, in EVERY shot, also in profile at the microphone: the same species and breed, head shape, face shape, muzzle, eyes, eye color, ear size and shape, fur colors, fur length and markings as in [Image 1], with the natural body volume and proportions of that animal: never flattened, squashed, stretched or merged with anything. It raps into the microphone with the same mouth moves and paw gestures as the cat on the left in the video.
+
+The dancer on the right = the pet in [Image 2], whole body, in EVERY shot, also when it turns its back to the camera: the same species and breed, head shape, face shape, muzzle, eyes, eye color, ear size and shape, fur colors, fur length and markings as in [Image 2], with the natural body volume and proportions of that animal: never flattened, squashed, stretched or merged with anything. It dances with the same front-paw moves as the cat on the right in the video.
+
+Each coat is not the coat of the cat in the video: the colors, the pattern and the fur length come only from each pet's own photo, on the head, the back, the belly, the legs and the tail. A short-haired pet stays short-haired, a long-haired pet stays fluffy. The same two pets in every frame, from the first shot to the last, so their owners instantly recognize them. Never morph, never drift back to the cats of the video. Do not mix the two pets: [Image 1] is only the rapper on the left, [Image 2] is only the dancer on the right. If a photo shows a dog or another animal, that animal takes the same place, standing upright on its hind legs and doing the same moves.
+
+Shots, matching the reference:
+Shot 1 [0-4.5 s]: medium two-shot. The pet on the left raps into the microphone in profile; the pet on the right gestures with its front paws.
+Shot 2 [4.5-7.8 s]: hard cut, the same booth. The rapper keeps rapping; the dancer crosses its front paws at the chest and sways.
+Shot 3 [7.8-11.6 s]: hard cut. The dancer turns its back to the camera and dances; the rapper raps with one paw raised.
+Shot 4 [11.6-15 s]: hard cut. The dancer turns to the camera again, reaches up and puts its paws on its head; the rapper raps on.
+
+Anatomy rules: one head per pet, on its own body, one tail each. Real furry paws, no human hands. Exactly two animals. No people, no extra animals, no text, no logos, no watermark. No dialogue throughout the entire video. No background music.
 ```
 
 ### 3. 1. The video prompt is filled in. Settings: Seedance 2.5, 10 s, 720p, 9:16, sound on. The video prompt

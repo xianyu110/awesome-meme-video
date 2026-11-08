@@ -1,0 +1,70 @@
+# Atam İzindeyiz Prompt: Walk Beside the Atatürk Silhouette (Yapay Zeka Video)
+
+- Source: [makeviral](https://www.makeviral.ai/templates/atam-izindeyiz-ai-trend)
+- Slug: `atam-izindeyiz-ai-trend`
+
+Atam İzindeyiz ("My Ata, we follow your path") is a Turkish AI photo trend of October 2026: a person walks beside a large dark silhouette of Atatürk on a golden wall under the words "ATAM İZİNDEYİZ".
+
+## Demo videos (CDN)
+
+- https://www.makeviral.ai/media/templates/atam-izindeyiz-ai-trend/original-trend-v2.mp4
+
+## Posters
+
+- https://www.makeviral.ai/media/templates/atam-izindeyiz-ai-trend/original-trend-v1.jpg
+
+## Prompts
+
+### 1. 1. Open [AI Photo with this template](https://www.makeviral.ai/photo?template=atam-izindeyiz-ai-trend) and add your photo (you, head to toe if you can, face clear). The photo prompt is filled in
+
+*Kind: photo_prompt*
+
+```text
+Yüklediğim fotoğraftaki kişinin yüzünü, saçlarını ve fiziksel özelliklerini aynen koruyarak ultra gerçekçi, sinematik bir fotoğraf oluştur.
+Sahne: Altın saat güneşiyle aydınlanan, sıcak kehribar ve sepya tonlarında dokulu bir duvarın önünde, sağ tarafta doğal adımlarla yürüyen kişi. Erkekte siyah takım elbise ceketi, kravat ve siyah ayakkabılar; kadında siyah elbise olsun.
+Kişinin solundaki duvarda, Türkiye Cumhuriyeti'nin kurucusunun takım elbiseli, bir eli cebinde yürüdüğü ikonik görüntüsünün büyük, koyu renkli, gerçekçi fotoğraf silüeti bulunsun. Üç boyutlu olmasın; kişiyle aynı yöne yürüyormuş gibi görünsün.
+Duvarın sol üstünde zarif, siyah, klasik yazı tipiyle "ATAM İZİNDEYİZ" yazsın. Altında sonsuzluk işareti ve iki yanında ince yatay çizgiler bulunsun.
+Işık sol üstten gelsin, zeminde uzun ve doğal gölgeler oluştursun. Profesyonel moda fotoğrafçılığı kalitesinde, duygusal ve estetik bir atmosfer olsun.
+Boy ve vücut oranları: Kişinin referans fotoğrafındaki gerçek boyunu, vücut ve bacak oranlarını aynen koru; kısa veya bodur gösterme, bacaklarını gereksiz yere kısaltma, pantolon paçalarını ayak bileklerine kadar uzat ve kamera perspektifini doğal tutarak kişinin tüm vücudunu ve ayaklarını orantılı, gerçekçi şekilde göster.
+Kadraj: Dikey 9:16 format. Kişinin tüm vücudu ve ayakları, silüet ve yazı eksiksiz görünsün. Gerçek fotoğraf makinesiyle çekilmiş gibi doğal ve fotogerçekçi olsun. Kişinin yüzü kesinlikle değişmesin; ekstra kişi veya nesne eklenmesin. Duvarda başka yazı, bayrak, logo veya amblem olmasın.
+```
+
+### 2. 3. Press the film button on the still to open AI Video with the still as the first frame. Settings: Kling 3.0, 5 s, 1080p, 9:16, sound on. The video prompt
+
+*Kind: video_prompt*
+
+```text
+Use the image as the first frame and keep everything in it: the same person, face, hair and clothes, the warm wall, the large silhouette on the wall, the words "ATAM İZİNDEYİZ" with the infinity sign, and the golden light. The person walks slowly and calmly forward in the same direction as the silhouette: three or four natural steps, arms swinging lightly, a calm, proud face, eyes ahead. They do not wave, do not smile at the camera and do not speak. The camera glides slowly along with them, just enough to keep them in frame, so the silhouette and the words stay in view the whole time. The silhouette is a flat image on the wall: it never moves, never walks, never turns its head, never changes shape and never leaves the wall. No new figure appears. The words on the wall stay sharp and unchanged. Long shadows on the stone floor; the person's own shadow moves naturally with them on the floor. A calm, respectful mood. Sound: soft footsteps on stone and a light breeze. No speech, no music. No added text, no subtitles, no logos, no flags. The same person and the same face from the first frame to the last.
+```
+
+### 3. Prompt 3
+
+*Kind: prompt*
+
+```text
+Create an ultra-realistic, cinematic, full-body photograph in vertical 9:16 format. Use the uploaded reference photo as the sole identity reference. Preserve the person's exact facial features, identity, gender, hairstyle, and natural body proportions. If the reference shows a woman, depict a woman; if it shows a man, depict a man.
+The person walks confidently beside a large, soft, translucent shadow of the founder of the Republic of Türkiye on a clean, warm ochre-colored wall. The shadow must resemble his authentic historical appearance, including his slicked-back hair, distinctive profile, and classic formal suit. Both figures must visibly take a confident, synchronized walking step, with naturally extended legs and arms. Adapt the person's outfit to their gender: elegant dark formal attire inspired by his classic suit. Add the exact graffiti text "ATAM İZİNDEYİZ" and an infinity symbol in black spray paint on the wall. Clean plaster, dramatic golden-hour sunlight, long realistic shadows, cinematic amber tones, natural anatomy, photorealistic details. No extra people, no additional text, no altered facial identity. No flag, no logo and no emblem on the wall.
+```
+
+### 4. 3. Press the film button on the still to open AI Video with the still as the first frame. Settings: Kling 3.0, 5 s, 1080p, 9:16, sound on. The video prompt
+
+*Kind: video_prompt*
+
+```text
+Use the image as the first frame and keep everything in it: the same person, face, hair and clothes, the warm wall, the large silhouette on the wall, the words "ATAM İZİNDEYİZ" with the infinity sign, and the golden light. The person walks slowly and calmly forward in the same direction as the silhouette: three or four natural steps, arms swinging lightly, a calm, proud face, eyes ahead. They do not wave, do not smile at the camera and do not speak. The camera glides slowly along with them, just enough to keep them in frame, so the silhouette and the words stay in view the whole time. The silhouette is a flat image on the wall: it never moves, never walks, never turns its head, never changes shape and never leaves the wall. No new figure appears. The words on the wall stay sharp and unchanged. Long shadows on the stone floor; the person's own shadow moves naturally with them on the floor. A calm, respectful mood. Sound: soft footsteps on stone and a light breeze. No speech, no music. No added text, no subtitles, no logos, no flags. The same person and the same face from the first frame to the last.
+```
+
+### 5. Prompt 5
+
+*Kind: prompt*
+
+```text
+Yüklediğim fotoğraftaki kişinin yüzünü, saçlarını ve fiziksel özelliklerini aynen koruyarak ultra gerçekçi, sinematik bir fotoğraf oluştur.
+Sahne: Altın saat güneşiyle aydınlanan, sıcak kehribar ve sepya tonlarında dokulu bir duvarın önünde, sağ tarafta doğal adımlarla yürüyen kişi. Erkekte siyah takım elbise ceketi, kravat ve siyah ayakkabılar; kadında siyah elbise olsun.
+Kişinin solundaki duvarda, Türkiye Cumhuriyeti'nin kurucusunun takım elbiseli, bir eli cebinde yürüdüğü ikonik görüntüsünün büyük, koyu renkli, gerçekçi fotoğraf silüeti bulunsun. Üç boyutlu olmasın; kişiyle aynı yöne yürüyormuş gibi görünsün.
+Duvarın sol üstünde zarif, siyah, klasik yazı tipiyle "ATAM İZİNDEYİZ" yazsın. Altında sonsuzluk işareti ve iki yanında ince yatay çizgiler bulunsun.
+Işık sol üstten gelsin, zeminde uzun ve doğal gölgeler oluştursun. Profesyonel moda fotoğrafçılığı kalitesinde, duygusal ve estetik bir atmosfer olsun.
+Boy ve vücut oranları: Kişinin referans fotoğrafındaki gerçek boyunu, vücut ve bacak oranlarını aynen koru; kısa veya bodur gösterme, bacaklarını gereksiz yere kısaltma, pantolon paçalarını ayak bileklerine kadar uzat ve kamera perspektifini doğal tutarak kişinin tüm vücudunu ve ayaklarını orantılı, gerçekçi şekilde göster.
+Kadraj: Dikey 9:16 format. Kişinin tüm vücudu ve ayakları, silüet ve yazı eksiksiz görünsün. Gerçek fotoğraf makinesiyle çekilmiş gibi doğal ve fotogerçekçi olsun. Kişinin yüzü kesinlikle değişmesin; ekstra kişi veya nesne eklenmesin. Duvarda başka yazı, bayrak, logo veya amblem olmasın.
+```
+

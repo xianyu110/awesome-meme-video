@@ -7,12 +7,15 @@ The Victoria Secret AI trend turns one photo into a fashion show clip: you walk 
 
 ## Demo videos (CDN)
 
+- https://www.makeviral.ai/media/templates/victoria-secret-runway-ai-trend/example-fan.mp4
 - https://www.makeviral.ai/media/templates/victoria-secret-runway-ai-trend/original-dark-v2.mp4
 - https://www.makeviral.ai/media/templates/victoria-secret-runway-ai-trend/original-main-v2.mp4
 - https://www.makeviral.ai/media/templates/victoria-secret-runway-ai-trend/original-pet-v2.mp4
 
 ## Posters
 
+- https://www.makeviral.ai/media/templates/victoria-secret-runway-ai-trend/example-fan-input.jpg
+- https://www.makeviral.ai/media/templates/victoria-secret-runway-ai-trend/example-fan-poster.jpg
 - https://www.makeviral.ai/media/templates/victoria-secret-runway-ai-trend/original-dark-v1.jpg
 - https://www.makeviral.ai/media/templates/victoria-secret-runway-ai-trend/original-main-v1.jpg
 - https://www.makeviral.ai/media/templates/victoria-secret-runway-ai-trend/original-pet-v1.jpg
@@ -24,14 +27,15 @@ The Victoria Secret AI trend turns one photo into a fashion show clip: you walk 
 *Kind: video_prompt*
 
 ```text
-A phone video filmed from the audience at a glamorous televised fashion show: one continuous handheld take that slowly zooms in. A long glossy black runway with a glowing blue edge, a dark arena full of cheering people, small blue spotlights, white beams, camera rigs and photographers in the foreground.
+A phone video filmed from the audience at a glamorous televised fashion show: one continuous handheld take that slowly zooms in. A long glittering silver runway that sparkles under the lights, a soft pink-lit stage behind, white confetti drifting down, a dark arena full of cheering people on both sides, camera rigs and photographers in the foreground.
 THE MODEL: the person in [Image 1], in every frame: copy the exact face from [Image 1] (the face shape, eye color and eye shape, eyebrows, nose, mouth, skin tone, age, hair color, hair length and hairstyle, and any beard, moustache, glasses or freckles), so their friends recognize them at once. The face stays the same from the first frame to the last; never morph.
-THE OUTFIT: giant white feathered angel wings strapped to the back, taller than the head and wider than the shoulders; a floor-length, long-sleeved white sequin gown with a high neck and a long train that sparkles under the lights, and silver heels. If [Image 1] shows a man, he wears a white sequin suit with a white shirt and the same wings.
+THE OUTFIT: giant white feathered angel wings strapped to the back, taller than the head and wider than the shoulders; a pale pink satin corset gown with sparkling crystals on the bodice, thin straps and a full, floor-length cream tulle skirt that flows into a long train, crystal bracelets and silver heels. If [Image 1] shows a man, he wears a pale pink sequin suit with a white shirt and the same wings.
 
 [00:00-00:02] THE MODEL stands at the far end of the runway, smiles and waves to the crowd.
-[00:02-00:06] THE MODEL struts down the runway toward the camera with a confident catwalk, the wings bouncing softly with each step, camera flashes popping on both sides.
-[00:06-00:08] the camera zooms in closer: THE MODEL reaches the end of the runway, puts one hand on the hip and reaches the other hand out to the cheering crowd.
-[00:08-00:10] THE MODEL looks straight into the lens and blows a kiss to the camera, the face large and sharp: exactly the face from [Image 1]. If [Image 1] shows an animal, THE MODEL is that animal walking the runway on its own four legs, with its own face, fur and markings, in small wings sized for it, and no gown.
+[00:02-00:05] THE MODEL struts down the runway toward the camera with a confident catwalk, the wings bouncing softly and the tulle skirt flowing with each step, camera flashes popping on both sides.
+[00:05-00:07] THE MODEL does a quick twirl, the tulle skirt flaring out, and walks on to the end of the runway.
+[00:07-00:08] the camera zooms in closer: THE MODEL stops, puts one hand on the hip and smiles at the crowd.
+[00:08-00:10] a shower of golden sparks bursts up behind THE MODEL, who looks straight into the lens and blows a kiss to the camera, the face large and sharp: exactly the face from [Image 1]. If [Image 1] shows an animal, THE MODEL is that animal walking the runway on its own four legs, with its own face, fur and markings, in small wings sized for it, and no gown.
 
 SOUND: an upbeat, glossy runway pop instrumental with NO singing and NO lyrics, a roaring, cheering crowd, whistles and camera shutters clicking; a soft kiss sound at the end.
 
@@ -86,7 +90,31 @@ No nudity. No letters on the chair backs, the mirrors or the walls.
 Avoid: singing, lyrics, a different outfit, missing wings, a different face, a different animal or species, extra people on the runway, writing, logos, captions, subtitles, watermarks, extra limbs, morphing, facial distortion. The outfit covers the body like an evening gown: never a bra top, never underwear or lingerie as the outfit. No letters, words or logos on the stage, the screens or the clothes. The wings grow from the back, never from the arms.
 ```
 
-### 4. 1. Open [AI Photo with this template](https://www.makeviral.ai/photo?template=victoria-secret-runway-ai-trend&variant=pet) and add your photo (your pet, whole body). The photo prompt is filled in (Pet)
+### 4. 1. The video prompt is filled in. Settings: Seedance 2.5, 10 s, 720p, 9:16, sound on. The video prompt
+
+*Kind: video_prompt*
+
+```text
+Step into the spotlight of a glamorous televised fashion show, with your biggest fan in the front row. A phone video from the audience across the runway: one handheld take that pans between the front row and the runway. A long glossy black runway with a glowing blue edge, a dark arena full of cheering people, small blue spotlights, white beams.
+THE MODEL: the person in [Image 1], in every frame: copy the exact face from [Image 1] (the face shape, eye color and eye shape, eyebrows, nose, mouth, skin tone, age, hair color, hair length and hairstyle, and any beard, moustache, glasses or freckles), so their friends recognize them at once. The face stays the same from the first frame to the last; never morph.
+THE FAN: the person in [Image 2], in every shot: copy the exact face from [Image 2] (the face shape, eye color and eye shape, eyebrows, nose, mouth, skin tone, age, hair color, hair length and hairstyle, and any beard, moustache, glasses or freckles), in dark evening clothes. An adult. Two different people: never blend or swap their faces, hair or clothes.
+THE MODEL'S OUTFIT: giant white feathered angel wings strapped to the back, taller than the head; a floor-length, long-sleeved white sequin gown with a high neck, and silver heels. A man: a white sequin suit and the same wings.
+
+[00:00-00:02] the front row by the runway: THE FAN jumps up, holds a phone high to film and screams with joy, the face large and sharp: exactly the face from [Image 2].
+[00:02-00:03] a fast whip pan to the runway.
+[00:03-00:07] THE MODEL struts down the runway past the front row, the wings bouncing with each step, camera flashes popping.
+[00:07-00:08] THE MODEL stops in front of THE FAN, one hand on the hip, and blows them a kiss, the face large and sharp: exactly the face from [Image 1].
+[00:08-00:10] a whip pan back: THE FAN, still filming, catches the kiss, presses it to their heart and cheers. If [Image 1] shows an animal, THE MODEL is that animal walking the runway on its own four legs, with its own face, fur and markings, in small wings sized for it, and no gown. If [Image 2] shows an animal, THE FAN is that animal on the front-row seat, paws up, with no phone.
+
+SOUND: an upbeat, glossy runway pop instrumental with NO singing and NO lyrics, a cheering crowd, whistles and camera shutters; a happy scream from THE FAN, no words.
+
+Exactly two main people: THE MODEL on the runway and THE FAN in the front row, who never walks onto the runway. No text on the phone screen.
+真人实拍、五官清晰、面部稳定、不扭曲、不变形、人体结构正常、同一角色、服装一致、发型不变.
+
+Avoid: singing, lyrics, a different outfit, missing wings, a different face, a different animal or species, extra people on the runway, writing, logos, captions, subtitles, watermarks, extra limbs, morphing, facial distortion. The outfit covers the body like an evening gown: never a bra top, never underwear or lingerie as the outfit. No letters, words or logos on the stage, the screens or the clothes. The wings grow from the back, never from the arms.
+```
+
+### 5. 1. Open [AI Photo with this template](https://www.makeviral.ai/photo?template=victoria-secret-runway-ai-trend&variant=pet) and add your photo (your pet, whole body). The photo prompt is filled in (Pet)
 
 *Kind: photo_prompt*
 
@@ -94,7 +122,7 @@ Avoid: singing, lyrics, a different outfit, missing wings, a different face, a d
 Use the uploaded image as the base. 9:16 vertical photo, like a real phone photo taken from the audience at a glamorous televised fashion show. The pet from the uploaded image stands on its four paws at the far end of a long glossy runway, facing the camera, with small white feathered angel wings strapped to its back, sized for the pet, and a thin sparkling crystal collar. Its whole body is in view, from the ears to the paws, with its tail. A dark arena full of cheering people on both sides, small blue spotlights, white beams, photographers at the foot of the runway. Realistic photo with natural colors. Exactly one animal on the runway and no people on it. No clothes on the pet except the wings and the collar. No text, no logos, no letters on the stage or the screens, no watermark.
 ```
 
-### 5. 3. Press the film button on the still to open AI Video with the still as the first frame. Settings: Kling 3.0, 10 s, 1080p, 9:16, sound on. The video prompt
+### 6. 3. Press the film button on the still to open AI Video with the still as the first frame. Settings: Kling 3.0, 10 s, 1080p, 9:16, sound on. The video prompt
 
 *Kind: video_prompt*
 

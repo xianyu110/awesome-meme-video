@@ -138,7 +138,7 @@ Each reference is a viral reel, and your two photos replace its two characters. 
 
 | Gym bro | Standard (default) | Best |
 |---|---|---|
-| How it works | Seedance 2.0 Mini follows the reel: 10 s, 720p, vertical 9:16, with strong wind and an original epic orchestral score. | Higgsfield Genjutsu motion transfer: the reel itself is the source, and your photos replace its two characters. 10 s, 480p, in the reel's own 4:3 frame, with the reel's sound. |
+| How it works | Seedance 2.0 Mini follows the reel: 10 s, 720p, vertical 9:16, with strong wind and an original epic orchestral score. | Seedance 2.5 copies the reel itself, shot by shot, and your photos replace its two characters, with both faces locked to your photos and no mask on the big one. 10 s, 720p, in the reel's own 4:3 frame, with the reel's sound. It can take 5 to 15 minutes. |
 
 Pick Best when you want the exact moves of the reel and the closest faces. Pick Standard when you want a vertical clip with sound that is ready to post as it is. Neither version has dialogue or lyrics.
 
@@ -210,7 +210,7 @@ The original "Remember your gym bro." reel uses its own original audio, not a na
 
 ### What is the difference between Standard and Best?
 
-Only Gym bro has both. Standard is the default and costs fewer credits: Seedance 2.0 Mini follows the reel and makes a vertical 9:16 video at 720p with original sound. Best costs more and uses Higgsfield Genjutsu, which takes the reel itself and puts your photos in place of its two characters, at 480p in the reel's own 4:3 frame, with the reel's original sound. Giant knight has one quality: Seedance 2.5 puts both of you into the reel itself at 720p, vertical like the reel, with the reel's sound; it can take up to several minutes.
+Only Gym bro has both. Standard is the default and costs fewer credits: Seedance 2.0 Mini follows the reel and makes a vertical 9:16 video at 720p with original sound. Best costs more and uses Seedance 2.5, which takes the reel itself and puts your photos in place of its two characters, at 720p in the reel's own 4:3 frame, with the reel's original sound; it can take 5 to 15 minutes. Giant knight has one quality: Seedance 2.5 puts both of you into the reel itself at 720p, vertical like the reel, with the reel's sound; it can take up to several minutes.
 
 ### What is the difference between Gym bro and Giant knight?
 
@@ -229,6 +229,15 @@ Your video starts from your photos, so faces, fur and sizes follow them. With St
 - [AI TikTok Video](https://www.makeviral.ai/tools/ai-tiktok-video-generator): Eight native TikTok formats, one prompt or product URL, a finished 9:16 video with captions burned in.
 - [AI photo generator](https://www.makeviral.ai/ai-photo-generator)
 - [All AI video templates](https://www.makeviral.ai/templates)
+
+## New AI video trends this week
+
+- [Christmas Dance AI: Do the New TikTok Christmas Dance From Your Photos](https://www.makeviral.ai/templates/christmas-dance-ai-trend): Hip sways with the hands at the collar, rolling arms, a quick spin and raised fists, side by side in matching Christmas pajamas. Add two photos for the duo, one for a solo take, or two pets, and get the dance with the sound.
+- [Cat on Ultra Bee AI: Put Your Pet on the Wheelie](https://www.makeviral.ai/templates/cat-on-ultra-bee-ai-trend): Add one photo, and your cat or dog stands on an electric dirt bike and holds a long wheelie down a city road at golden hour, in the same shots as the viral clip, with its original sound. You can take the ride yourself, too.
+- [Tus Ojos Me Reflejan el Sentimiento: The Cafuné Eye Close-Up Trend](https://www.makeviral.ai/templates/tus-ojos-me-reflejan-ai-trend): You lie on your side, a hand rests on your cheek, warm light falls on your face, and the camera slowly moves in until your eyes fill the screen while the line plays. One photo in, an 8-second vertical clip with the trend's song out.
+- [İnşallah Maşallah AI Trend: Sing Neşe Karaböcek's Song on the Couch](https://www.makeviral.ai/templates/insallah-masallah-ai-trend): You sit on a light grey couch and sing the old Turkish love song straight to the camera: a hand on the heart, a big laugh with both hands on your head, a finger pointed at the camera and a kiss at the end. One photo of you, a grandparent or your pet, and the 15-second clip comes with the song.
+- [Ice Ice Baby Dance AI: Do the Viral Duo Dance With a Friend](https://www.makeviral.ai/templates/ice-ice-baby-dance-ai): Two dancers side by side, the same bouncy 90s steps, a spin on the beat and a strut to the camera. Add a photo of you and a friend, of you alone, or of your pet, and get the dance with the sound.
+- [Save Yourself Trend: Pull Yourself Up From the Cliff](https://www.makeviral.ai/templates/save-yourself-ai-trend): One photo plays both of you: the scared you clinging to a wet sea cliff, and the calm you who reaches down, pulls you up and holds you. Or use two photos: an older photo of you and a new one, or you and a friend. 15 seconds, vertical.
 
 ## Make your own Knight Standing video
 

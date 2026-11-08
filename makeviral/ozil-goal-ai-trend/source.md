@@ -104,16 +104,16 @@ Your clip follows the 15 seconds of the AI grandma reel by @r7538701fal, in one 
 
 | | Standard | Best |
 |---|---|---|
-| Model | Seedance 2.0 Mini | Higgsfield Genjutsu |
-| How it works | Makes a new vertical clip that follows the reel's moves, camera and timing, with you as the scorer | Puts you into the reel itself, shot by shot: the same keeper, defenders and stadium |
-| Frame | Vertical 9:16, 720p | Vertical 9:16 like the reel, 480p |
+| Model | Seedance 2.0 Mini | Seedance 2.5 |
+| How it works | Makes a new vertical clip that follows the reel's moves, camera and timing, with you as the scorer | Puts you into the reel itself, shot by shot: the same keeper, defenders and stadium, with your face locked to your photo |
+| Frame | Vertical 9:16, 720p | Vertical 9:16 like the reel, 720p |
 | Length | 15 s | 15 s |
 | Sound | The reel's song, which you can turn off | The same |
-| Price | The lower price | Costs more |
+| Price | The lower price | Costs more, and it can take 5 to 15 minutes |
 
 The exact price shows on the Generate button before you spend anything. You write no prompt, and the video waits in My videos when it is ready.
 
-**Why these models?** The scorer is small or medium in the frame in every shot, with no big close-ups of the face, so the cheaper Standard model fits this clip. Best uses Genjutsu, the tool shown in one of the first how-to videos for this trend. Every run is a new take, so results differ.
+**Why these models?** The scorer is small or medium in the frame in every shot, with no big close-ups of the face, so the cheaper Standard model fits this clip. Best uses Seedance 2.5, which copies the reel itself and keeps your face locked to your photo. Every run is a new take, so results differ.
 
 ## Who should score the goal?
 
@@ -142,7 +142,7 @@ Your clip comes with the sound of the reel it copies: the French love song that 
 | The face looks less like you | The face is small in most shots. Use a sharp, front-facing photo in good light, or pick Best. |
 | The ball jumps or disappears for a moment (Standard) | Fast ball moves are hard for video models. Run it again, or pick Best, which keeps the reel's own ball. |
 | The keeper or the defenders look different from the reel | Standard makes a new clip, so the other players can change. Best keeps the reel's players. |
-| The Best clip looks softer | Best is 480p and Standard is 720p. |
+| Best takes longer | Best copies the reel itself with Seedance 2.5 and can take 5 to 15 minutes. The video waits in My videos. |
 | The run fails | Some photos get refused. The credits come back; try another photo. |
 
 ## Ozil Goal trend questions
@@ -169,7 +169,7 @@ Press "Create your own", add one full-body photo of the scorer, pick Standard or
 
 ### What is the difference between Standard and Best?
 
-Standard (Seedance 2.0 Mini) makes a new 720p clip that follows the reel's moves, camera and timing, at the lower price. Best (Higgsfield Genjutsu) puts you into the reel itself, shot by shot, so the keeper, the defenders and the stadium stay exactly as in the reel; the clip is 480p and costs more.
+Standard (Seedance 2.0 Mini) makes a new 720p clip that follows the reel's moves, camera and timing, at the lower price. Best (Seedance 2.5) puts you into the reel itself, shot by shot, so the keeper, the defenders and the stadium stay exactly as in the reel; the clip is 720p, costs more and can take 5 to 15 minutes.
 
 ### Is my video made from the real match footage?
 
@@ -193,7 +193,7 @@ No. Many how-to videos for the trend point to CapCut or other AI apps. On MakeVi
 
 ### How long is the video and what format is it?
 
-15 seconds, as a vertical 9:16 MP4: 720p with Standard, 480p with Best. It comes with the reel's song, which you can turn off.
+15 seconds, as a vertical 9:16 MP4: 720p with Standard and with Best. It comes with the reel's song, which you can turn off.
 
 ## Other AI video templates and tools
 
@@ -204,6 +204,15 @@ No. Many how-to videos for the trend point to CapCut or other AI apps. On MakeVi
 - [AI TikTok Video](https://www.makeviral.ai/tools/ai-tiktok-video-generator): Eight native TikTok formats, one prompt or product URL, a finished 9:16 video with captions burned in.
 - [AI photo generator](https://www.makeviral.ai/ai-photo-generator)
 - [All AI video templates](https://www.makeviral.ai/templates)
+
+## New AI video trends this week
+
+- [Christmas Dance AI: Do the New TikTok Christmas Dance From Your Photos](https://www.makeviral.ai/templates/christmas-dance-ai-trend): Hip sways with the hands at the collar, rolling arms, a quick spin and raised fists, side by side in matching Christmas pajamas. Add two photos for the duo, one for a solo take, or two pets, and get the dance with the sound.
+- [Cat on Ultra Bee AI: Put Your Pet on the Wheelie](https://www.makeviral.ai/templates/cat-on-ultra-bee-ai-trend): Add one photo, and your cat or dog stands on an electric dirt bike and holds a long wheelie down a city road at golden hour, in the same shots as the viral clip, with its original sound. You can take the ride yourself, too.
+- [Tus Ojos Me Reflejan el Sentimiento: The Cafuné Eye Close-Up Trend](https://www.makeviral.ai/templates/tus-ojos-me-reflejan-ai-trend): You lie on your side, a hand rests on your cheek, warm light falls on your face, and the camera slowly moves in until your eyes fill the screen while the line plays. One photo in, an 8-second vertical clip with the trend's song out.
+- [İnşallah Maşallah AI Trend: Sing Neşe Karaböcek's Song on the Couch](https://www.makeviral.ai/templates/insallah-masallah-ai-trend): You sit on a light grey couch and sing the old Turkish love song straight to the camera: a hand on the heart, a big laugh with both hands on your head, a finger pointed at the camera and a kiss at the end. One photo of you, a grandparent or your pet, and the 15-second clip comes with the song.
+- [Ice Ice Baby Dance AI: Do the Viral Duo Dance With a Friend](https://www.makeviral.ai/templates/ice-ice-baby-dance-ai): Two dancers side by side, the same bouncy 90s steps, a spin on the beat and a strut to the camera. Add a photo of you and a friend, of you alone, or of your pet, and get the dance with the sound.
+- [Save Yourself Trend: Pull Yourself Up From the Cliff](https://www.makeviral.ai/templates/save-yourself-ai-trend): One photo plays both of you: the scared you clinging to a wet sea cliff, and the calm you who reaches down, pulls you up and holds you. Or use two photos: an older photo of you and a new one, or you and a friend. 15 seconds, vertical.
 
 ## Make your own Ozil Goal video
 

@@ -1,0 +1,139 @@
+# AI Witch Video: You in the '60s Witchcore Reel
+
+- Source: [makeviral](https://www.makeviral.ai/templates/ai-witch-video)
+- Slug: `ai-witch-video`
+
+The AI witch video is a fully AI-made '60s witchcore skit: a witch in a tall black hat answers a cream rotary phone, says "No, sorry.
+
+## Demo videos (CDN)
+
+- https://www.makeviral.ai/media/templates/ai-witch-video/original-candle-v1.mp4
+- https://www.makeviral.ai/media/templates/ai-witch-video/original-main-v2.mp4
+- https://www.makeviral.ai/media/templates/ai-witch-video/original-tarot-v1.mp4
+
+## Posters
+
+- https://www.makeviral.ai/media/templates/ai-witch-video/original-candle-v1.jpg
+- https://www.makeviral.ai/media/templates/ai-witch-video/original-main-v1.jpg
+- https://www.makeviral.ai/media/templates/ai-witch-video/original-tarot-v1.jpg
+
+## Prompts
+
+### 1. 1. The video prompt is filled in. Settings: Seedance 2.5, 12 s, 720p, 9:16, sound off. The video prompt
+
+*Kind: video_prompt*
+
+```text
+Recreate the reference video [Video 1] shot for shot: a 1960s Technicolor-style witchcore mini film in a candle-lit red witch parlour, the same 8 shots, camera angles, cuts, timing, light and moves, in the same vertical frame. The ONLY change: the young woman with long copper-red hair is now the person in [Image 1]. [Image 1] is the sole reference for the witch's face and hair; [Video 1] is for the costume, the set, the moves, the mouth and the camera only.
+
+The witch = the person in [Image 1], in EVERY shot, also in the face close-ups, the hand shots and the wide twirl: copy the exact face from [Image 1]: face shape, eye color and eye shape, eyebrows, nose, mouth, skin tone, age, hair color, hair length and hairstyle, and any beard, moustache, glasses or freckles exactly as in the photo. The same real person in every frame, so their friends recognize them at once. Never morph, never drift back to the original woman's face, eyes, nose or lips. NO long copper-red hair unless [Image 1] shows it; even when [Image 1] shows red hair, the face is only the face of [Image 1].
+
+The costume is the joke and stays exactly as in [Video 1]: the tall black pointed witch hat, the long black dress with sheer black flowing sleeves (or a long black robe with the same sleeves) and bold turquoise winged eyeliner, never the clothes from [Image 1].
+
+The shots, second by second:
+1. 0-1.4 s: medium shot by a dark bookshelf with jars, old books, candles and brass wall lamps: the witch holds the handset of a cream rotary phone to the ear and says "No, sorry."
+2. 1.4-2.5 s: close-up of the witch's face with the handset: "I have plans today."
+3. 2.5-2.9 s: the medium shot again: "Bye."
+4. 2.9-4.0 s: close-up of the cream rotary phone on the wooden desk: the witch's hand puts the handset down.
+5. 4.0-6.1 s: medium shot, red velvet curtains and a tall window: the witch stirs a big black cauldron of white smoking potion with a long wooden spoon.
+6. 6.1-7.3 s: close-up of the bubbling cauldron and the hand with the spoon.
+7. 7.3-8.1 s: close-up of the witch's face, calm, eyes down, then up to the camera.
+8. 8.1-11.7 s: wide shot of the red parlour: a big black cat floats down through the air beside the witch as if by magic while the witch twirls, the sheer sleeves flowing; the cat ends floating at the witch's side.
+
+The mouth: the lips move exactly as the woman's lips do in [Video 1] on "No, sorry. I have plans today. Bye.", closed whenever hers are closed. Silent video: no voice audio and no background music.
+
+Only replace the person; the parlour, the rotary phone, the cauldron, the black cat, the light and the camera stay completely unchanged. Keep everything else the same.
+
+Anatomy rules: one head only, on the witch's shoulders. Two arms, five fingers on each hand. Exactly one person and one black cat. No text, no subtitles, no captions, no logos, no watermark.
+```
+
+### 2. 1. The video prompt is filled in. Settings: Seedance 2.5, 12 s, 720p, 9:16, sound off. The video prompt (Pet)
+
+*Kind: video_prompt*
+
+```text
+Recreate the reference video [Video 1] shot for shot: a 1960s Technicolor-style witchcore mini film in a candle-lit red witch parlour, the same 8 shots, camera angles, cuts, timing, light and moves, in the same vertical frame. The ONLY changes: the young woman with long copper-red hair is now the person in [Image 1], and the black cat is now the pet in [Image 2]. [Image 1] is the sole reference for the witch; [Image 2] is the sole reference for the floating animal; [Video 1] is for the costume, the set, the moves, the mouth and the camera only. Both change: no one from the video stays.
+
+The witch = the person in [Image 1], in EVERY shot, also in the face close-ups and the wide twirl: copy the exact face from [Image 1]: face shape, eye color and eye shape, eyebrows, nose, mouth, skin tone, age, hair color, hair length and hairstyle, and any beard, moustache, glasses or freckles exactly as in the photo. Never drift back to the original woman's face. NO long copper-red hair unless [Image 1] shows it.
+
+The costume is the joke and stays exactly as in [Video 1]: the tall black pointed witch hat, the long black dress with sheer black flowing sleeves (or a long black robe with the same sleeves) and bold turquoise winged eyeliner, never the clothes from [Image 1].
+
+The familiar = the pet in [Image 2], in shot 8: its own species, breed, face, ears, fur colors and markings, with natural body proportions, never stretched or merged. It floats where the black cat floats: not a black cat unless [Image 2] shows one.
+
+The shots, second by second:
+1. 0-1.4 s: medium shot by a dark bookshelf with jars, old books, candles and brass wall lamps: the witch holds the handset of a cream rotary phone to the ear and says "No, sorry."
+2. 1.4-2.5 s: close-up of the witch's face with the handset: "I have plans today."
+3. 2.5-2.9 s: the medium shot again: "Bye."
+4. 2.9-4.0 s: close-up of the cream rotary phone on the wooden desk: the witch's hand puts the handset down.
+5. 4.0-6.1 s: medium shot, red velvet curtains and a tall window: the witch stirs a big black cauldron of white smoking potion with a long wooden spoon.
+6. 6.1-7.3 s: close-up of the bubbling cauldron and the hand with the spoon.
+7. 7.3-8.1 s: close-up of the witch's face, calm, eyes down, then up to the camera.
+8. 8.1-11.7 s: wide shot of the red parlour: the pet from [Image 2] floats down through the air beside the witch as if by magic while the witch twirls, the sheer sleeves flowing; the pet ends floating at the witch's side.
+
+The mouth: the lips move exactly as the woman's lips do in [Video 1] on "No, sorry. I have plans today. Bye.", closed whenever hers are closed. Silent video: no voice audio and no background music.
+
+Only replace the witch and the cat; the parlour, the rotary phone, the cauldron, the light and the camera stay completely unchanged. Keep everything else the same.
+
+One head on the witch's shoulders, five fingers on each hand. Exactly one person and one animal. No text, no subtitles, no logos.
+```
+
+### 3. 1. The video prompt is filled in. Settings: Seedance 2.5, 12 s, 720p, 9:16, sound off. The video prompt (Pet)
+
+*Kind: video_prompt*
+
+```text
+Recreate the reference video [Video 1] shot for shot: a 1960s Technicolor-style witchcore mini film in a candle-lit red witch parlour, the same 8 shots, camera angles, cuts, timing, light and moves, in the same vertical frame. The ONLY change: the witch is now the pet in [Image 1]. [Image 1] is the sole reference for the pet; [Video 1] is for the costume, the set, the moves, the mouth and the camera only.
+
+The witch = the pet in [Image 1], in EVERY shot: the same species and breed, face, eyes, ears, muzzle, fur colors, fur length and markings as in [Image 1], with the natural body volume and proportions of that animal: never flattened, squashed, stretched or merged with anything. It sits or stands upright where the woman stands, with animal paws, never human hands, no human face and no human body. The same pet in every frame, so its owner recognizes it at once. The woman from the video never appears.
+
+The pet wears the witch costume, sized to its body: the tall black pointed hat on its own head, between its own ears, and a small black dress with sheer black flowing sleeves like a cape. No makeup on the fur.
+
+The shots, second by second:
+1. 0-1.4 s: medium shot by a dark bookshelf with jars, old books, candles and brass wall lamps: the pet holds the handset of a cream rotary phone to its ear with a paw.
+2. 1.4-2.5 s: close-up of the pet's face with the handset.
+3. 2.5-2.9 s: the medium shot again.
+4. 2.9-4.0 s: close-up of the cream rotary phone on the wooden desk: the pet's paw puts the handset down.
+5. 4.0-6.1 s: medium shot, red velvet curtains and a tall window: the pet stirs a big black cauldron of white smoking potion with a long wooden spoon held in its paws.
+6. 6.1-7.3 s: close-up of the bubbling cauldron and the paw with the spoon.
+7. 7.3-8.1 s: close-up of the pet's face, calm, eyes down, then up to the camera.
+8. 8.1-11.7 s: wide shot of the red parlour: a big black cat floats down through the air beside the pet as if by magic while the pet turns around, the sheer sleeves flowing.
+
+The mouth opens and closes when the woman's mouth does in [Video 1], as if the pet says "No, sorry. I have plans today. Bye." Silent video: no voice audio and no background music.
+
+Only replace the woman; the parlour, the rotary phone, the cauldron, the floating black cat, the light and the camera stay completely unchanged. Keep everything else the same.
+
+Anatomy rules: one head only, one muzzle. Animal paws, never human hands. Exactly the pet and one black cat, no people. No text, no subtitles, no logos, no watermark.
+```
+
+### 4. 1. Open [AI Photo with this template](https://www.makeviral.ai/photo?template=ai-witch-video&variant=candle) and add your photo (your photo, face close and clear). The photo prompt is filled in
+
+*Kind: photo_prompt*
+
+```text
+Use the uploaded image as the base: the same person, now in a candle-lit witch ritual in a forest at night. An ordinary, unedited smartphone photo taken at night by a friend standing a few steps away, the phone at chest height, lit only by the warm light of candles. The place: a dark pine forest at night, dry pine needles and bare earth on the ground, tall straight tree trunks fading into black behind. The person kneels upright on a large black cloth in the middle of a circle of about twenty lit white pillar candles of different heights, with a few tarot cards laid face up on the cloth and a few red roses between the candles. The person holds one thin, lit, pale blue taper candle in both hands at chest height and looks straight into the camera with a calm, knowing, slightly mysterious look. Outfit: a tall black pointed witch hat with a wide brim and a long black lace dress with long sheer lace sleeves that covers the knees. A man wears the same hat and a long black robe with the same sheer lace sleeves. The kneeling person from the knees up in the middle of the frame, the nearest candles along the bottom edge, the face clear, sharp and lit warm by the candle flames, turned to the camera. Photorealistic, natural skin, real candle light and deep natural shadows: no cinematic color grading, no soft dreamy glow, no blurred bokeh, not CGI, not a cartoon. The tarot cards show plain old-style art with no readable text. Vertical 9:16. Exactly one person, no one else in the forest. No signs, no text, no logos, no watermarks.
+```
+
+### 5. 3. Press the film button on the still to open AI Video with the still as the first frame. Settings: Kling 3.0, 10 s, 1080p, 9:16, sound on. The video prompt
+
+*Kind: video_prompt*
+
+```text
+An ordinary, unedited phone video filmed at night by a friend, in one continuous shot with no cuts, lit only by the candles, with a slight handheld shake, like a real clip on social media. Keep the person's face, hair, witch hat and black lace outfit exactly as in the image. 0 to 3 s: the person tips the thin blue candle down and lights the last unlit candle in front of them, then lifts the blue candle back to the chest. 3 to 6 s: the camera moves slowly closer as the person holds the candle still, the flame lighting the face from below, and looks straight into the lens with a calm, knowing look and a small slow smile. 6 to 10 s: the camera turns slowly away to the left, off the person, into the dark forest, and holds on the empty black trees and the bare ground, with only a faint warm candle glow on the nearest trunks: nobody is there. Audio: the natural sound of a quiet forest at night, the soft crackle of candle flames, a low cold wind in the pine trees and one distant owl. No music, no voices, no talking. One person only, five fingers on each hand, the candle flames stay small and calm, no fire spreads. No slow motion, no cinematic look, no text, no subtitles, no logos.
+```
+
+### 6. Prompt 6
+
+*Kind: prompt*
+
+```text
+Use the two uploaded images as the base. The person in the first image kneels on the LEFT, and the person in the second image kneels on the RIGHT: two best friends at a witchy tarot night. Keep each one's own face, hair, skin tone and age; never blend or swap them. An ordinary, unedited smartphone photo taken at dusk by a friend a few steps away, the phone at chest height. The place: a garden lawn at dusk under a deep blue evening sky, dark hedges and trees behind. On the grass in front of them lies a big ring of about forty tarot cards laid face up edge to edge, a few more cards in the middle of the ring, tall white pillar candles at both sides and small warm tea lights dotted around the ring, all lit. The two friends kneel side by side, close together, behind the ring. The friend on the left holds one lit white pillar candle on a small dish between them at chest height; the friend on the right holds a small stack of tarot cards. Both look into the camera with a calm, playful, knowing smile. Outfits: the friend on the left wears a long deep-red ruffled dress with long sleeves, the friend on the right a long black lace dress with long sheer lace sleeves, and both wear tall black pointed witch hats; a man wears a dark shirt and a long black coat in place of the dress. Both from the knees up, the front of the card ring along the bottom of the frame, both faces clear and sharp, turned to the camera. Photorealistic, natural skin, real dusk light and candle light: no cinematic color grading, no soft dreamy glow, not CGI, not a cartoon. The tarot cards show plain old-style art with no readable text. Vertical 9:16. Exactly two people. No signs, no text, no logos, no watermarks.
+```
+
+### 7. 3. Press the film button on the still to open AI Video with the still as the first frame. Settings: Kling 3.0, 10 s, 1080p, 9:16, sound on. The video prompt
+
+*Kind: video_prompt*
+
+```text
+An ordinary, unedited phone video filmed at dusk by a friend, in one continuous shot with no cuts, with a slight handheld shake, like a real clip on social media. Keep both friends' faces, hair, witch hats and outfits exactly as in the image: the one on the left stays on the left, the one on the right stays on the right. 0 to 3 s: the friend on the right leans forward and lays one more tarot card into the ring. 3 to 6 s: the friend on the left lifts the lit candle up between their two faces; both lean in close and blow it out together, and the flame goes out with a thin curl of white smoke rising between them. 6 to 10 s: they smile at each other, the friend on the right picks up one card from the ring and both look at it, eyebrows raised, then look into the camera with a knowing smile. Audio: the natural sound of a quiet garden at dusk, soft crickets, the soft blow of the two breaths and one short shared laugh. No music, no spoken words. Exactly two people, five fingers on each hand, both faces never morph. No slow motion, no cinematic look, no text, no subtitles, no logos.
+```
+

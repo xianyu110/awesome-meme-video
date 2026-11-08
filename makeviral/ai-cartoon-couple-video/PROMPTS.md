@@ -7,10 +7,12 @@ An AI cartoon couple video turns the two of you into 3D animated cartoon charact
 
 ## Demo videos (CDN)
 
+- https://www.makeviral.ai/media/templates/ai-cartoon-couple-video/original-ghost-v2.mp4
 - https://www.makeviral.ai/media/templates/ai-cartoon-couple-video/original-main-v2.mp4
 
 ## Posters
 
+- https://www.makeviral.ai/media/templates/ai-cartoon-couple-video/original-ghost-v1.jpg
 - https://www.makeviral.ai/media/templates/ai-cartoon-couple-video/original-main-v1.jpg
 
 ## Prompts
@@ -59,5 +61,36 @@ The place: a cozy, modern living room in the evening, a soft grey sofa with cush
 Audio: a playful, light comedic original tune, the soft kiss sounds, the little squeak and a happy laugh. No dialogue, no lyrics.
 
 Only kisses on the cheek, sweet and funny, never romantic close-ups of lips. No rude or obscene hand gestures at any time: never a raised middle finger. No close-ups of chests or bodies; close-ups show faces only. Exactly the characters described, nobody else close by. No shop name, no brand names, no logos, no readable writing on bags, signs, screens or name badges. No text, no subtitles, no captions, no watermark.
+```
+
+### 3. 1. The video prompt is filled in. Settings: Seedance 2.5, 15 s, 720p, 9:16, sound off. The video prompt
+
+*Kind: video_prompt*
+
+```text
+Recreate the reference video [Video 1] shot for shot: the same glossy 3D cartoon style, the same Halloween house at night, camera, cuts, timing and moves. The ONLY change: the faces and hair of the three cartoon characters. The man in the grey shirt is now the person in [Image 1]. The tired woman in pink pyjamas AND the pale blue ghost are both the person in [Image 2]. [Video 1] is for the story, the moves, the costumes and the camera only.
+
+The man = the person in [Image 1], in EVERY shot, a 3D cartoon version friends recognize at once: copy the face shape, eye color and eye shape, eyebrows, nose, mouth, skin tone, age, hair color, hair length and hairstyle, and any beard, moustache or freckles from [Image 1]. He wears the clothes from [Image 1]. NO glasses before shot 6; from shot 6 on, the glasses from [Image 1], or black-framed ones if it shows none.
+
+The woman = the person in [Image 2], the same face list from [Image 2], her own hair color and hairstyle but messy, tired dark circles under the eyes. She ALWAYS wears the pink button-up pyjamas from the video, never the clothes from [Image 2].
+
+The ghost = the SAME person from [Image 2] as a friendly ghost, so the two look alike (that is the joke): the face of [Image 2], its hair longer and floating, pale blue glowing see-through skin, dark rings around big eyes, the long tattered white nightgown from the video. Never gory.
+
+Never blend the two faces. No one from the video stays, also in wide shots. Even with a similar haircut, the faces come only from the photos, never from the video's characters. All three are adults.
+
+Shot 1 [0-2.7s]: the man pulls a yellow ruffled dress from a white gift bag and holds it out to the ghost at the left.
+Shot 2 [2.7-4.8s]: hard cut, close-up: the ghost hugs the dress, touched, with a shy smile.
+Shot 3 [4.8-5.5s]: hard cut, wide: the woman shuffles in from the hallway, exhausted.
+Shot 4 [5.5-6.5s]: hard cut, medium: the man turns to the woman beside him.
+Shot 5 [6.5-8.4s]: hard cut: the ghost on the left, the man in the middle, the woman on the right; he looks from one to the other.
+Shot 6 [8.4-10.2s]: hard cut, close-up: the man takes the glasses from his shirt pocket and puts them on.
+Shot 7 [10.2-10.9s]: hard cut, close-up: the ghost hugs the dress.
+Shot 8 [10.9-11.8s]: hard cut, close-up: the man in glasses screams in horror, mouth wide open.
+Shot 9 [11.8-12.7s]: hard cut, wide: he jumps to the woman and clings to her; the ghost floats on the left.
+Shot 10 [12.7-15s]: hard cut, medium: the woman stands grumpy while he hugs her from behind, terrified; at the end the ghost glides into the left foreground, smiling with the dress.
+
+Only replace the faces and hair; the moves, timing, camera, cuts, house and costumes stay completely unchanged. Keep everything else the same.
+
+One head per body, two arms and two legs each. Exactly three characters, nobody else, no children. No blood. No text, no subtitles, no logos, no watermark. No dialogue throughout the entire video. No background music.
 ```
 

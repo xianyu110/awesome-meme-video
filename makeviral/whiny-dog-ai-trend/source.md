@@ -3,7 +3,7 @@
 > The whining dog meme is the viral Doberman clip from September 2026: a black-and-tan Doberman stares into the camera and lets out a string of dramatic "hmm hmm hmm" whines, as if its complaints cannot wait.
 
 Canonical: https://www.makeviral.ai/templates/whiny-dog-ai-trend
-Updated: 2026-10-18
+Updated: 2026-11-02
 Published: 2026-10-13
 Author: MakeViral Team (https://www.makeviral.ai/about)
 Publisher: MakeViral (https://www.makeviral.ai)
@@ -16,7 +16,7 @@ Also called: Whiny Puppy trend, Whiney Doberman, Dog saying hmm meme.
 
 **Make it now:** [Make this video](https://www.makeviral.ai/templates/whiny-dog-ai-trend/create). 1 photo · 7 s · 9:16 with sound · 107 credits, charged once · ready in up to several minutes · no prompt to write.
 
-Keyword: whining dog meme. Also answers: whining dog, whiny dog, dog whining meme, hmm hmm hmm dog, whining dog sound effect, whimpering dog meme, dog hmm meme, whining dog video, whining doberman, doberman whining, whiny dog meme, whining dog meme gif, whining dog meme tiktok, whining dog meme sound, whining dog meme original, whiny doberman, whining doberman meme, doberman whining meme, whiny puppy ai, whiny puppy ai trend, whiney doberman dog, make my dog whine, whining dog ai, whining dog meme song, whining dog know your meme.
+Keyword: whining dog meme. Also answers: whining dog, whiny dog, dog whining meme, hmm hmm hmm dog, whining dog sound effect, whimpering dog meme, dog hmm meme, whining dog video, whining doberman, doberman whining, ai dog whining, whiny dog meme, whining dog meme gif, whining dog meme tiktok, whining dog meme sound, whining dog meme original, whiny doberman, whining doberman meme, doberman whining ai, ai dog whining meme, doberman whining meme, ai doberman meme, whiny puppy ai, whiny puppy ai trend, whiney doberman dog, make my dog whine, whining dog ai, whining dog meme song, whining dog know your meme, ai dog whimpering, hmph dog meme.
 
 ## What is the Whining Dog trend, and where did it start?
 
@@ -57,6 +57,8 @@ Everything runs in the browser. No editing app, no watermark.
 
 The one-tap flow runs this prompt for you. The video prompt animates your own photo directly. To change it, copy it and edit it in AI Video.
 
+#### Variant: Dog
+
 Settings: 1 photo (your dog) · Seedance 2.5 · 7 s · 720p · 9:16 · no sound · 107 credits in one tap.
 
 1. The video prompt is filled in. Settings: Seedance 2.5, 7 s, 720p, 9:16, sound off. The video prompt:
@@ -74,6 +76,26 @@ Anatomy rules: one head only, one muzzle, natural teeth and tongue. No extra leg
 2. Press Generate, then download the 9:16 MP4.
 
 One-tap version of this variant: https://www.makeviral.ai/templates/whiny-dog-ai-trend/create?variant=pet
+
+#### Variant: Human
+
+Settings: 1 photo (you, chest up, face clear) · Seedance 2.5 · 7 s · 720p · 9:16 · no sound · 107 credits in one tap.
+
+1. The video prompt is filled in. Settings: Seedance 2.5, 7 s, 720p, 9:16, sound off. The video prompt:
+
+   ```text
+   Recreate the reference video [Video 1] shot for shot: the same cream leather sofa, the same window, room and evening light, the same handheld phone camera, the same close framing, timing, head moves and facial expressions. The ONLY change: the black-and-tan Doberman is now the person in [Image 1], sitting on the sofa in the dog's place.
+
+The person = the person in [Image 1], in EVERY frame: a HUMAN head with the exact face from [Image 1] (the face shape, eye color and eye shape, eyebrows, nose, mouth, skin tone, age, hair color, hair length and hairstyle, and any beard, moustache, glasses or freckles), on a grown person's own shoulders, in the clothes from [Image 1]. The person sits upright on the sofa at a grown person's natural size, the head and shoulders filling the frame where the dog's head and chest are. Never a dog: no dog head, no muzzle, no snout, no dog ears, no fur, no paws, no black-and-tan coat. The same real person in every frame, from the first second to the last, so their friends instantly recognize them. Never morph, never drift back to the dog.
+
+The person is being extra whiny, making sure everyone nearby knows that this person has some very important complaints that absolutely cannot wait. Matching the reference second by second: they sit up on the sofa, stare straight into the camera, tilt their head, purse their lips and open their mouth for each whine, make a sad, pleading face with wide-open eyes and raised eyebrows, exactly when the dog in [Video 1] does.
+
+Anatomy rules: one head only, on the person's own shoulders, two arms and two human hands. A face never appears on the sofa, the hands or the clothes. Exactly one person, no dog, no animals. No text, no logos, no watermark.
+   ```
+
+2. Press Generate, then download the 9:16 MP4.
+
+One-tap version of this variant: https://www.makeviral.ai/templates/whiny-dog-ai-trend/create?variant=human
 
 ### Which photo works best?
 
@@ -125,6 +147,8 @@ One step, one model. The video model takes your dog's photo and the original whi
 
 The exact price shows on the Generate button before you spend anything, and the video waits in My videos when it is ready. You write no prompt.
 
+**Human** puts you on the same sofa in the Doberman's place: you copy its head tilts, pleading eyes and "hmm hmm hmm" mouth on the same clip, with the same whine sound.
+
 **How is this different from the CapCut templates?** The "WHINEY DOBERMAN DOG" and "Whiny Puppy" templates cut the original Doberman out of its clip and put it in front of your photo. Here your own dog does the whining.
 
 ## What goes wrong, and how do you fix it?
@@ -166,6 +190,10 @@ The original post looks like a phone video of a real dog, and it does not say it
 
 It is the name tutorials gave the same meme from 29 September 2026. Most of those tutorials use CapCut green-screen templates that paste the original Doberman in front of a photo you pick. On MakeViral, AI makes your own dog do the whines instead.
 
+### What is the AI dog whining meme?
+
+It is the whining dog meme made with AI instead of a real dog. One AI Doberman meme is @colorepistle's clip of 11 October 2026: an AI-made Doberman does the same whines to the original sound, with TikTok's AI label. Here AI makes your own dog do the whining and whimpering of the original "hmph" clip, from one photo.
+
 ### How do I make my dog whine like the Doberman?
 
 Press "Create your own", add one clear photo of your dog with the head and chest in view, and press Generate. The button shows the price first. You get a 7-second clip of your dog doing the whines on the sofa from the original clip, with the whine sound. You write no prompt.
@@ -177,6 +205,10 @@ Not exactly. Your dog copies the moves of the clip, and the whine sound goes on 
 ### Does it work with a cat or another pet?
 
 The template is made for dogs: the moves come from a dog, and a dog looks most natural. A cat or another pet may work, but it is not what the template is built for. Use one animal per photo.
+
+### Can I do the whining dog meme myself?
+
+Yes. Pick Human and add one clear photo of yourself, chest up and facing the camera. You take the Doberman's place on the cream sofa and copy its head tilts, sad eyes and whines for 7 seconds, with the whine sound of the original clip. People already copy the whines with their own voice, like @anatoxich's "Dog hmm meme Speedrun" (14.9 million views by 13 October 2026). Use a photo of an adult who agreed to it.
 
 ### How long is the video, and does it have sound?
 
@@ -207,6 +239,15 @@ As far as we know, the original is the 23 September 2026 TikTok post by @samgam8
 - [AI TikTok Video](https://www.makeviral.ai/tools/ai-tiktok-video-generator): Eight native TikTok formats, one prompt or product URL, a finished 9:16 video with captions burned in.
 - [AI photo generator](https://www.makeviral.ai/ai-photo-generator)
 - [All AI video templates](https://www.makeviral.ai/templates)
+
+## New AI video trends this week
+
+- [Christmas Dance AI: Do the New TikTok Christmas Dance From Your Photos](https://www.makeviral.ai/templates/christmas-dance-ai-trend): Hip sways with the hands at the collar, rolling arms, a quick spin and raised fists, side by side in matching Christmas pajamas. Add two photos for the duo, one for a solo take, or two pets, and get the dance with the sound.
+- [Cat on Ultra Bee AI: Put Your Pet on the Wheelie](https://www.makeviral.ai/templates/cat-on-ultra-bee-ai-trend): Add one photo, and your cat or dog stands on an electric dirt bike and holds a long wheelie down a city road at golden hour, in the same shots as the viral clip, with its original sound. You can take the ride yourself, too.
+- [Tus Ojos Me Reflejan el Sentimiento: The Cafuné Eye Close-Up Trend](https://www.makeviral.ai/templates/tus-ojos-me-reflejan-ai-trend): You lie on your side, a hand rests on your cheek, warm light falls on your face, and the camera slowly moves in until your eyes fill the screen while the line plays. One photo in, an 8-second vertical clip with the trend's song out.
+- [İnşallah Maşallah AI Trend: Sing Neşe Karaböcek's Song on the Couch](https://www.makeviral.ai/templates/insallah-masallah-ai-trend): You sit on a light grey couch and sing the old Turkish love song straight to the camera: a hand on the heart, a big laugh with both hands on your head, a finger pointed at the camera and a kiss at the end. One photo of you, a grandparent or your pet, and the 15-second clip comes with the song.
+- [Ice Ice Baby Dance AI: Do the Viral Duo Dance With a Friend](https://www.makeviral.ai/templates/ice-ice-baby-dance-ai): Two dancers side by side, the same bouncy 90s steps, a spin on the beat and a strut to the camera. Add a photo of you and a friend, of you alone, or of your pet, and get the dance with the sound.
+- [Save Yourself Trend: Pull Yourself Up From the Cliff](https://www.makeviral.ai/templates/save-yourself-ai-trend): One photo plays both of you: the scared you clinging to a wet sea cliff, and the calm you who reaches down, pulls you up and holds you. Or use two photos: an older photo of you and a new one, or you and a friend. 15 seconds, vertical.
 
 ## Make your own Whining Dog video
 

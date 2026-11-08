@@ -6,7 +6,8 @@ from datetime import datetime, timezone, timedelta
 from pathlib import Path
 from urllib.parse import urlparse, unquote
 
-ROOT = Path('/workspace/awesome-meme-video')
+# Checkout root (repo itself). Older runners used /workspace/awesome-meme-video.
+ROOT = Path(__file__).resolve().parent.parent
 RAW = ROOT / '_raw'
 OUT = ROOT / 'mediaio'
 BLOB = ROOT / '_blobs'

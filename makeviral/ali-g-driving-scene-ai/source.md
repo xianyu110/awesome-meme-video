@@ -3,7 +3,7 @@
 > The Ali G driving scene AI trend puts you in the car scene from the 2002 film Ali G Indahouse: you grip a light-blue steering wheel with a dead-serious face, then head-bang hard when the bass drops.
 
 Canonical: https://www.makeviral.ai/templates/ali-g-driving-scene-ai
-Updated: 2026-10-20
+Updated: 2026-10-30
 Published: 2026-10-20
 Author: MakeViral Team (https://www.makeviral.ai/about)
 Publisher: MakeViral (https://www.makeviral.ai)
@@ -16,7 +16,7 @@ Also called: Ali G car scene AI, Blue steering wheel trend, On my way to pick up
 
 **Make it now:** [Make this video](https://www.makeviral.ai/templates/ali-g-driving-scene-ai/create). 1 photo · 10 s · 9:16 with sound · 126 credits, charged once · ready in a few minutes · no prompt to write.
 
-Keyword: ali g driving scene. Also answers: ali g, ali g driving scene ai, ali g driving, ali g car scene, ali g blue steering wheel, ali g ai, ali g driving scene ai trend, ali g indahouse driving scene, ali g car meme, ali g driving meme, ali g indahouse car scene, ali g driving song, ali g car scene song, ali g song in car, ali g indahouse song in the car, ali g song jungle is massive, ali g opening scene, ali g indahouse opening scene, ali g opening scene song, blue steering wheel meme, ali g driving gif, ali g car gif, ali g ai meme, ali g ai trend, ali g trend, how to make the ali g driving scene ai trend, ali g driving scene tutorial, ali g kling ai, ali g capcut template, ali g template, ali g costume, ali g meme, ali g car, ali g indahouse car, ali g yellow car, booyakasha ali g, cat driving car ai, dog driving car ai, what is love head bob.
+Keyword: ali g driving scene. Also answers: ali g, ali g driving scene ai, ali g driving, ali g car scene, ali g blue steering wheel, ali g ai, ali g driving scene ai trend, ali g indahouse driving scene, ali g car meme, ali g driving meme, ali g car, ali g who iz i ai scene, ali g ai scene, ali g yellow car, ali g indahouse car scene, ali gs car, ali g auto, ali g driving song, ali g car scene song, ali g song in car, ali g indahouse song in the car, ali g song jungle is massive, ali g opening scene, ali g indahouse opening scene, ali g opening scene song, blue steering wheel meme, ali g driving gif, ali g car gif, ali g ai meme, ali g ai trend, ali g trend, how to make the ali g driving scene ai trend, ali g driving scene tutorial, ali g kling ai, ali g capcut template, ali g template, ali g costume, ali g meme, ali g indahouse car, booyakasha ali g, cat driving car ai, dog driving car ai, what is love head bob.
 
 ## What is the Ali G Driving Scene trend, and where did it start?
 
@@ -279,11 +279,15 @@ The blue steering wheel meme is the same scene: the Ali G blue steering wheel is
 
 ### What car is it?
 
-In the film it is a small yellow 1980s hatchback with a roll cage, the Ali G yellow car many people search for. The Ali G car in our videos is a new, unbranded small old hatchback with the light-blue wheel, like the Ali G Indahouse car but with no badge or logo.
+In the film it is a small yellow 1980s hatchback with a roll cage, the Ali G yellow car many people search for. The Ali G car in our videos is a new, unbranded small old hatchback with the light-blue wheel, like the Ali G Indahouse car but with no badge or logo. Some people search it as Ali G's car or the Ali G auto.
 
 ### Is this an Ali G AI meme or a new trend?
 
 Both. The Ali G meme has been around since the film, and Ali G AI meme clips with the new trend came in October 2026, right before "Ali G: Who Iz I?" opens on 23 October. The Ali G AI trend is the newest Ali G trend on TikTok, and the Ali G Indahouse driving scene is its star.
+
+### Is the Ali G AI scene from Ali G: Who Iz I?
+
+No. The scene is the opening drive of the 2002 film Ali G Indahouse. The AI trend started on 18 October 2026, five days before the new film's cinema date, 23 October. Our version is a new scene made from your photo, not a clip from either film.
 
 ### What does booyakasha mean?
 
@@ -306,6 +310,15 @@ Every version makes 10 seconds, vertical, as an MP4 file with an original beat. 
 - [AI Reels](https://www.makeviral.ai/tools/ai-reels-generator): Pick a format, give it a topic or a product link, and get a finished vertical reel with voice and captions. Nothing to film, nothing to edit.
 - [AI photo generator](https://www.makeviral.ai/ai-photo-generator)
 - [All AI video templates](https://www.makeviral.ai/templates)
+
+## New AI video trends this week
+
+- [Christmas Dance AI: Do the New TikTok Christmas Dance From Your Photos](https://www.makeviral.ai/templates/christmas-dance-ai-trend): Hip sways with the hands at the collar, rolling arms, a quick spin and raised fists, side by side in matching Christmas pajamas. Add two photos for the duo, one for a solo take, or two pets, and get the dance with the sound.
+- [Cat on Ultra Bee AI: Put Your Pet on the Wheelie](https://www.makeviral.ai/templates/cat-on-ultra-bee-ai-trend): Add one photo, and your cat or dog stands on an electric dirt bike and holds a long wheelie down a city road at golden hour, in the same shots as the viral clip, with its original sound. You can take the ride yourself, too.
+- [Tus Ojos Me Reflejan el Sentimiento: The Cafuné Eye Close-Up Trend](https://www.makeviral.ai/templates/tus-ojos-me-reflejan-ai-trend): You lie on your side, a hand rests on your cheek, warm light falls on your face, and the camera slowly moves in until your eyes fill the screen while the line plays. One photo in, an 8-second vertical clip with the trend's song out.
+- [İnşallah Maşallah AI Trend: Sing Neşe Karaböcek's Song on the Couch](https://www.makeviral.ai/templates/insallah-masallah-ai-trend): You sit on a light grey couch and sing the old Turkish love song straight to the camera: a hand on the heart, a big laugh with both hands on your head, a finger pointed at the camera and a kiss at the end. One photo of you, a grandparent or your pet, and the 15-second clip comes with the song.
+- [Ice Ice Baby Dance AI: Do the Viral Duo Dance With a Friend](https://www.makeviral.ai/templates/ice-ice-baby-dance-ai): Two dancers side by side, the same bouncy 90s steps, a spin on the beat and a strut to the camera. Add a photo of you and a friend, of you alone, or of your pet, and get the dance with the sound.
+- [Save Yourself Trend: Pull Yourself Up From the Cliff](https://www.makeviral.ai/templates/save-yourself-ai-trend): One photo plays both of you: the scared you clinging to a wet sea cliff, and the calm you who reaches down, pulls you up and holds you. Or use two photos: an older photo of you and a new one, or you and a friend. 15 seconds, vertical.
 
 ## Make your own Ali G Driving Scene video
 

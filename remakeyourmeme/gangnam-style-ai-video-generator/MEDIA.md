@@ -1,0 +1,21 @@
+# Media — Gangnam Style AI Video Generator
+
+- video: https://cdn.remakeyourmeme.com/trends/gangnam-style/7693080012815093010.mp4
+- video: https://cdn.remakeyourmeme.com/trends/gangnam-style/7698455320691084564.mp4
+- video: https://cdn.remakeyourmeme.com/trends/gangnam-style/7698524220489288967.mp4
+- video: https://cdn.remakeyourmeme.com/trends/gangnam-style/7698817344000363783.mp4
+- video: https://cdn.remakeyourmeme.com/trends/gangnam-style/7699718458149309718.mp4
+- video: https://cdn.remakeyourmeme.com/wm/remakeyourmeme/examples/gangnam-style/sample-1/video.mp4
+- video: https://cdn.remakeyourmeme.com/wm/remakeyourmeme/examples/gangnam-style/sample-2/video.mp4
+- poster: https://cdn.remakeyourmeme.com/examples/gangnam-style/sample-1/input-1.jpg
+- poster: https://cdn.remakeyourmeme.com/examples/gangnam-style/sample-1/input-2.jpg
+- poster: https://cdn.remakeyourmeme.com/examples/gangnam-style/sample-1/input-3.jpg
+- poster: https://cdn.remakeyourmeme.com/examples/gangnam-style/sample-1/poster.jpg
+- poster: https://cdn.remakeyourmeme.com/examples/gangnam-style/sample-2/input-1.jpg
+- poster: https://cdn.remakeyourmeme.com/examples/gangnam-style/sample-2/poster.jpg
+- poster: https://cdn.remakeyourmeme.com/templates/gangnam-style/poster.jpg
+- poster: https://cdn.remakeyourmeme.com/trends/gangnam-style/7693080012815093010.webp
+- poster: https://cdn.remakeyourmeme.com/trends/gangnam-style/7698455320691084564.webp
+- poster: https://cdn.remakeyourmeme.com/trends/gangnam-style/7698524220489288967.webp
+- poster: https://cdn.remakeyourmeme.com/trends/gangnam-style/7698817344000363783.webp
+- poster: https://cdn.remakeyourmeme.com/trends/gangnam-style/7699718458149309718.webp

@@ -1,0 +1,44 @@
+{
+  "source": "makeviral",
+  "source_site": "https://www.makeviral.ai",
+  "slug": "dog-dance-crew-ai-trend",
+  "name": "Dog Dance Crew AI: Your Dog Leads the Crew",
+  "url": "https://www.makeviral.ai/templates/dog-dance-crew-ai-trend",
+  "markdown_url": "https://www.makeviral.ai/templates/dog-dance-crew-ai-trend.md",
+  "blurb": "The dog dance crew is the viral AI trend where four dogs of different breeds on a black stage move like one dog dance team: dogs dancing in sync on every beat.",
+  "updated": "2026-10-29",
+  "published": "2026-10-28",
+  "credits": 228,
+  "demo_videos": [
+    "https://www.makeviral.ai/media/templates/dog-dance-crew-ai-trend/original-pet-v2.mp4"
+  ],
+  "posters": [
+    "https://www.makeviral.ai/media/templates/dog-dance-crew-ai-trend/original-pet-v1.jpg"
+  ],
+  "prompts": [
+    {
+      "label": "1. The video prompt is filled in. Settings: Seedance 2.5, 15 s, 720p, 9:16, sound off. The video prompt",
+      "variant": "Pet",
+      "kind": "video_prompt",
+      "text": "Recreate the reference video [Video 1] shot for shot: the same glossy black stage with a mirror-like floor that reflects every dog, the same dark backdrop and small ceiling lights, the same fixed, front-facing camera, the same continuous shot with no cuts, the same timing. Four dogs stand in a row with the same lineup and spacing and dance in sync. The ONLY change: the second dog from the left, the lead dancer, is now the pet in [Image 1]. The dog on the far left, the dog third from the left and the dog on the far right stay exactly as in the video, with their own faces, coats and moves.\n\nThe lead dancer = the pet in [Image 1], whole body, in every frame: the same species and breed, head shape, muzzle, eyes, ears, fur colors, natural fur length, markings and body proportions as in [Image 1], with the natural body volume and proportions of that animal: never flattened, squashed, stretched or merged with anything, so its owner instantly recognizes it. Never drift back to the dog of the original video in that spot: not the coat of the dog in the video, no long golden fur and no red collar unless [Image 1] shows them. Its reflection on the floor is the same pet. If [Image 1] shows a cat, it stays clearly a cat with a cat's head, ears and whiskers, and does the same moves a little more gently. If [Image 1] shows two, three or four pets, each of them takes one place in the row, first the lead spot, then the third, the far right and the far left, each with its own face and coat; a dog of the video whose place is not taken stays as it is. Still exactly four dancers in the row.\n\nAnimate the pets in [Video 1] performing a cute, rhythmic dance while staying on all four paws. Start with gentle head bobs, then swing their heads from side to side in a repeating rhythm, letting their ears and fur bounce naturally. Add small alternating front-paw steps, soft knee bends, and playful shoulder and body bounces. All four dogs dance in sync while maintaining their original lineup and spacing. At the start, have them lower their heads and shoulders together into a quick bow, then lift back up. Keep their expressions cheerful and their movements lively but believable. Use a fixed, front-facing camera with their entire bodies and paws visible throughout. Preserve each pet's appearance, markings, proportions, and the original background. Maintain consistent floor reflections where present. No standing upright, human limbs, extra paws, body distortion, or flickering.\n\nThe moments, matching the reference second by second:\n0-1 s: all four dogs bow with their heads low, then lift up and look into the camera.\n1-3 s: head bobs to the beat, facing the camera.\n3-5 s: a big head toss up and back, then they look at the camera again.\n5-8 s: heads turn and tilt left and right on the beat; at about 8 s a fast head whip with ears and fur flying.\n8-11 s: heads swing from side to side, ears bounce.\n11-15 s: they look straight into the camera with happy open mouths, small head tilts and body bounces.\n\nAnatomy rules: one head per dog. Four legs each, no extra legs or paws, no human arms. Exactly four dogs, no extra animals, no people. No text, no logos, no watermark, no cuts."
+    },
+    {
+      "label": "1. The video prompt is filled in. Settings: Seedance 2.5, 15 s, 720p, 9:16, sound off. The video prompt",
+      "variant": "Human",
+      "kind": "video_prompt",
+      "text": "Recreate the reference video [Video 1] shot for shot: the same glossy black stage with a mirror-like floor, the same dark backdrop and small ceiling lights, the same fixed front camera, one continuous shot with no cuts, the same timing. The ONLY change: the second dog from the left, the lead dancer, is now the person in [Image 1], a real human. The other three dogs stay exactly as in the video, with their own faces, coats, moves and places.\n\nThe lead dancer = the person in [Image 1], in EVERY frame: copy the exact face from [Image 1] (the face shape, eye color and eye shape, eyebrows, nose, mouth, skin tone, age, hair color, hair length and hairstyle, and any beard, moustache, glasses or freckles), so their friends recognize them at once, with the clothes and shoes from [Image 1]. A real adult standing upright at full adult height, with an adult's build: the dogs' heads reach only to about their hips, and the head stays well inside the frame. Never child-sized, never shrunk to the dogs' size. No dog ears, no fur, no muzzle, no tail, no red collar and no golden fur. Never morph, never drift back to the original dog, also on the fast head whip. Their floor reflection is the same person. If [Image 1] shows an animal, the lead dancer is that animal on all four paws, with its own face, fur and markings.\n\nAnimate the pets in [Video 1] performing a cute, rhythmic dance while staying on all four paws. Start with gentle head bobs, then swing their heads from side to side in a repeating rhythm, letting their ears and fur bounce naturally. Add small alternating front-paw steps, soft knee bends, and playful shoulder and body bounces. The person does the same dance standing, with the hair bouncing and the arms loose at the sides. All four dancers dance in sync while maintaining their original lineup and spacing. At the start, have them lower their heads and shoulders together into a quick bow, then lift back up. Keep their expressions cheerful and their movements lively but believable. Use a fixed, front-facing camera with their entire bodies and paws visible throughout. Preserve each pet's appearance, markings, proportions, and the original background. Maintain consistent floor reflections where present. The dogs: no standing upright, no human limbs, no extra paws. No body distortion or flickering.\n\nThe moments, matching the reference:\n0-1 s: all four bow low (the person from the waist), then look into the camera.\n1-5 s: head bobs to the beat, then a big head toss up and back.\n5-8 s: heads tilt left and right; at about 8 s a fast head whip with hair, ears and fur flying.\n8-11 s: heads swing from side to side.\n11-15 s: happy faces into the lens, small head tilts and body bounces.\n\nAnatomy rules: one head per dancer. Four legs per dog, no human arms on a dog. The person has two arms and two hands with five fingers each. Exactly three dogs and one person, no other people. No text, no logos, no watermark, no cuts."
+    }
+  ],
+  "variant_headings": [
+    "What the Dog Dance Crew video looks like",
+    "How to make the Dog Dance Crew video on MakeViral",
+    "Which photo works best?",
+    "What happens in the dog dance crew video, second by second?",
+    "How long is the video and what format is it?",
+    "Other AI video templates and tools",
+    "New AI video trends this week",
+    "Make your own Dog Dance Crew video"
+  ],
+  "prompt_count": 2,
+  "scraped_at": "2026-11-08"
+}

@@ -115,12 +115,28 @@ One-tap version of this variant: https://www.makeviral.ai/templates/hot-tea-pran
 
 #### Variant: 1 dog
 
-Settings: 1 photo (your dog) · h3-recast · 17 s · 720p · 9:16 · no sound · 204 credits in one tap.
+Settings: 1 photo (your dog) · Seedance 2.5 · 17 s · 720p · 9:16 · no sound · 259 credits in one tap.
 
-1. The video prompt is filled in. Settings: h3-recast, 17 s, 720p, 9:16, sound off. The video prompt:
+1. The video prompt is filled in. Settings: Seedance 2.5, 17 s, 720p, 9:16, sound off. The video prompt:
 
    ```text
-   Image 1 replaces the dog on the left in the black cap and the blue bandana, in every frame: the dog that scrolls a phone at the cafe table, jumps up from the bench with a yelp, waves its arms, then stands and fans its bandana away from its belly and talks, and in the end leans into the camera. Also after the cap falls off at about 8 seconds, in the close view from 11 seconds and in its last look into the lens. It keeps the face shape, ears, eye color, fur colors, fur length and markings from image 1, not the coat, the ears or the face of the dog in the video, with the natural head and body proportions of that animal: never flattened, squashed or stretched. If image 1 shows a cat or another animal, that animal takes the same place and makes the same moves. It keeps the human hands, the plain black cap and the blue bandana from the video. The dog on the right in the green collar, the hand that stirs the tea and the laughing dog behind the camera in the last second stay exactly as in the video. Keep the cafe, the wooden table, the tea glasses, the spoon, the phone, the poses, the mouth movement, the facial expressions, the camera moves, the light and the timing exactly as in the video. No text, no logos, no watermark.
+   Recreate the reference video [Video 1] shot for shot: the same warm cafe with wooden benches, patterned plates on the walls and wicker lamps, the same wooden table with small tulip glasses of tea, the same single handheld phone shot, camera moves, timing, poses, mouth moves and facial expressions, and the same human hands on the dogs. The ONLY change: the dog on the left in the black cap and the blue bandana is now the pet in [Image 1].
+
+[Image 1] is the sole look reference for that pet, and [Video 1] gives only the moves, the timing and the camera.
+
+The pet = the pet in [Image 1], in EVERY frame: the same species and breed, head shape, face, eyes, eye color, ears, muzzle, fur colors, fur length and markings as in [Image 1], with the natural body volume and proportions of that animal: never flattened, squashed, stretched or merged with anything, so its owner instantly recognizes it. Whether [Image 1] shows a dog, a cat or another animal, it stays that animal. It wears the plain black cap and the blue bandana from the video and has the same human hands. Never drift back to the dog on the left in the video: not its face, its ears or its coat unless [Image 1] shows them, also after the cap falls off and in the close view.
+
+The other two dogs stay exactly as in [Video 1]: the dog on the right in the green collar, and the laughing dog behind the camera in the last second. Matching the reference second by second:
+1. 0-2.5 s: both dogs sit at the table, the pet scrolls a phone with its human hands, a hand in front stirs a glass of tea with a spoon.
+2. 2.5-4.5 s: the hand lifts the spoon from the tea and touches it to the paw of the dog on the right, which pulls the paw back.
+3. 4.5-8 s: the pet jumps up from the bench with a surprised yelp and waves its arms, the phone in one hand.
+4. 8-9 s: it stands, the cap falls off, it grabs its blue bandana.
+5. 9-11 s: the camera swings to the dog on the right, which laughs on the bench.
+6. 11-15.5 s: close view of the pet from [Image 1]: it holds the bandana away from its belly, fans it, blows on it and talks to the camera.
+7. 15.5-17 s: it leans into the camera, the view flips, and the dog behind the camera laughs with a hand over its face.
+The mouths open and close exactly when the mouths in [Video 1] do. Light slapstick, everyone is fine.
+
+Anatomy rules: one head per dog, one muzzle, natural teeth and tongue, two human hands per dog. No extra animals, no people. No text on the cap, no new text, no logos, no watermark.
    ```
 
 2. Press Generate, then download the 9:16 MP4.
@@ -129,12 +145,32 @@ One-tap version of this variant: https://www.makeviral.ai/templates/hot-tea-pran
 
 #### Variant: 2 dogs
 
-Settings: 2 photos (pet 1: jumps up + pet 2: laughs) · h3-recast · 17 s · 720p · 9:16 · no sound · 204 credits in one tap.
+Settings: 2 photos (pet 1: jumps up + pet 2: laughs) · Seedance 2.5 · 17 s · 720p · 9:16 · no sound · 259 credits in one tap.
 
-1. The video prompt is filled in. Settings: h3-recast, 17 s, 720p, 9:16, sound off. The video prompt:
+1. The video prompt is filled in. Settings: Seedance 2.5, 17 s, 720p, 9:16, sound off. The video prompt:
 
    ```text
-   Replace the two dogs at the cafe table with the pets from image 1 and image 2, and preserve the original background, actions, poses, camera movement, lighting and timing. Only replace those two dogs, keep everything else unchanged. Image 1 replaces the dog on the left in the black cap and the blue bandana, in every frame: it scrolls a phone, jumps up from the bench with a yelp, waves its arms, stands and fans its bandana away from its belly and talks, and in the end leans into the camera; also after the cap falls off at about 8 seconds and in the close view from 11 seconds. Image 2 replaces the dog on the right in the green collar, in every frame: it sits next to it, rests a paw on the table, pulls the paw back when the spoon touches it and then laughs on the bench; also in the wide view at 9 to 11 seconds and when only its paws or its side show at the edge. Each pet keeps the face shape, ears, eye color, fur colors, fur length and markings from its own image, not the coats of the dogs in the video, with the natural proportions of that animal: never flattened, squashed or stretched. If an image shows a cat or another animal, that animal takes the same place and makes the same moves. Both keep the human hands from the video; pet 1 keeps the plain black cap and the blue bandana. The hand that stirs the tea and the laughing dog behind the camera in the last second stay exactly as in the video. Keep the cafe, the table, the tea glasses, the spoon, the phone, the mouth movement, the facial expressions, the camera moves and the timing exactly as in the video. No text, no logos, no watermark.
+   Recreate the reference video [Video 1] shot for shot: the same warm cafe with wooden benches, patterned plates on the walls and wicker lamps, the same wooden table with small tulip glasses of tea, the same single handheld phone shot, camera moves, timing, poses, mouth moves and facial expressions, and the same human hands on the dogs. The ONLY change: the dog on the left in the black cap and the blue bandana is now the pet in [Image 1], and the dog on the right in the green collar is now the pet in [Image 2]. Both change: no dog from the table stays, also in the wide view and when only its paws or its side show at the edge of the frame.
+
+[Image 1] is the sole look reference for pet 1 on the left, [Image 2] is the sole look reference for pet 2 on the right, and [Video 1] gives only the moves, the timing and the camera.
+
+Pet 1 = the pet in [Image 1], in EVERY frame, also after the cap falls off and in the close view: the same species and breed, head shape, face, eyes, eye color, ears, muzzle, fur colors, fur length and markings as in [Image 1]. It wears the plain black cap and the blue bandana from the video and has the same human hands. Never drift back to the dog on the left in the video: not its face, its ears or its coat unless [Image 1] shows them.
+
+Pet 2 = the pet in [Image 2], in EVERY frame, also when it laughs on the bench: the same species and breed, head shape, face, eyes, eye color, ears, muzzle, fur colors, fur length and markings as in [Image 2]. It wears the green collar from the video and has the same human hands. Never drift back to the dog on the right in the video: not its face, its ears or its coat unless [Image 2] shows them.
+
+Each pet keeps the natural body volume and proportions of its own animal: never flattened, squashed, stretched or merged with anything, so its owner instantly recognizes both. Whether a photo shows a dog, a cat or another animal, it stays that animal. Do not mix the two pets: [Image 1] is only pet 1, [Image 2] is only pet 2.
+
+Only the laughing dog behind the camera in the last second stays as in [Video 1]. Matching the reference second by second:
+1. 0-2.5 s: pet 1 scrolls a phone next to pet 2; a hand in front stirs a glass of tea with a spoon.
+2. 2.5-4.5 s: the hand touches the spoon to pet 2's paw on the table; pet 2 pulls the paw back.
+3. 4.5-8 s: pet 1 jumps up with a surprised yelp and waves its arms, the phone in one hand.
+4. 8-9 s: pet 1 stands, the cap falls off, it grabs the blue bandana.
+5. 9-11 s: the camera swings to pet 2, who laughs on the bench: clearly the pet from [Image 2].
+6. 11-15.5 s: close view of pet 1: it holds the bandana away from its belly, fans it, blows on it and talks to the camera.
+7. 15.5-17 s: pet 1 leans into the camera, the view flips, and the dog behind the camera laughs with a hand over its face.
+The mouths open and close exactly when the mouths in [Video 1] do. Light slapstick, everyone is fine.
+
+Anatomy rules: one head per dog, one muzzle, natural teeth and tongue, two human hands per dog. No extra animals, no people. No text on the cap, no new text, no logos, no watermark.
    ```
 
 2. Press Generate, then download the 9:16 MP4.
@@ -186,16 +222,16 @@ There are four versions, and you never have to pick the right one by hand:
 - **1 dog**: one photo of your dog, as the dog in the cap.
 - **2 dogs**: two pet photos: pet 1 jumps up, pet 2 laughs.
 
-Add pet photos in You or You + friend and the page sees they are pets: it makes 1 dog or 2 dogs instead, and you pay the lower price. A person and a dog together? Use You + friend: the dog keeps its own face and fur.
+Add pet photos in You or You + friend and the page sees they are pets: it makes 1 dog or 2 dogs instead. A person and a dog together? Use You + friend: the dog keeps its own face and fur.
 
-The people versions use top-quality AI video models, including Seedance 2.5, so the face stays yours. 1 dog has two qualities: **Standard** and **Best** (a model that keeps a single pet's face closer; it costs more). The Generate button shows the exact credit price before you spend anything.
+The people versions use top-quality AI video models, including Seedance 2.5, so the face stays yours. The dog versions use top-quality AI video models too: the AI copies the reel itself with your dog in it. The Generate button shows the exact credit price before you spend anything.
 
 ## What goes wrong, and how do you fix it?
 
 | Problem | Fix |
 |---|---|
 | The face does not look like you | Use a sharp, front-facing photo in good light, with no sunglasses, and run it again. |
-| The clip's own white dog comes back in a dog run | Use a close photo of your dog's face, or pick Best in 1 dog. |
+| The clip's own white dog comes back in a dog run | Use a close photo of your dog's face, then run it again. |
 | A dog ear or fur shows on a person | Run it again with a photo where your face fills more of the frame. |
 | The two swap roles | Photo 1 always jumps up. Swap the photos to swap the roles. |
 | The mouths do not match the words | The clip copies the mouth moves of the original reel, so the voices fit the reel, not a new script. |
@@ -252,15 +288,24 @@ No. It is an AI video made from your photo, and nobody goes near hot tea. The or
 
 ### How long does it take, and what does it cost?
 
-Most runs take 5 to 15 minutes; 1 dog on Standard is often faster. The Generate button shows the exact credit price before you spend anything, and you never pay more than it shows. If a run fails, the credits come back.
+Most runs take 5 to 15 minutes. The Generate button shows the exact credit price before you spend anything, and you never pay more than it shows. If a run fails, the credits come back.
 
 ## Other AI video templates and tools
 
+- [Dog Bartender AI: Your Pet Makes the $1 vs $5 vs $50 Drink](https://www.makeviral.ai/templates/dog-bartender-ai-trend): Add one photo of your dog, your cat or yourself. In round glasses and a bib, with a pair of human hands, the star pours a $1 cola, a $5 cola on ice and a ridiculous $50 cocktail with carved ice, broccoli, a sparkler and a giant bottle.
 - [Clapping Cat: Make Your Pet Grin and Clap Like the Black Cat](https://www.makeviral.ai/templates/clapping-cat-ai-video): Your cat or dog sits up, grows two small human hands, flashes a wide human grin and gives you a slow, loud clap, like the black cat clapping meme. One pet photo in, a 6-second clip with clap sounds out.
 - [Whining Dog Meme: Make Your Dog Whine Like the Viral Doberman](https://www.makeviral.ai/templates/whiny-dog-ai-trend): Your dog looks into the camera, tilts its head and whines "hmm hmm hmm" like the viral Doberman, on the sofa from the original clip. One dog photo in, a 7-second clip with the whine sound out.
-- [Singing Dog AI Trend: Your Dog Blow-Dries Its Fur and Sings](https://www.makeviral.ai/templates/singing-dog-ai-trend): Add one photo of your dog or cat. It stands in the bathtub in a white towel, dries and brushes its own fur with a hair dryer and sings with its mouth wide open, to the trend's own sound.
 - [AI photo generator](https://www.makeviral.ai/ai-photo-generator)
 - [All AI video templates](https://www.makeviral.ai/templates)
+
+## New AI video trends this week
+
+- [Christmas Dance AI: Do the New TikTok Christmas Dance From Your Photos](https://www.makeviral.ai/templates/christmas-dance-ai-trend): Hip sways with the hands at the collar, rolling arms, a quick spin and raised fists, side by side in matching Christmas pajamas. Add two photos for the duo, one for a solo take, or two pets, and get the dance with the sound.
+- [Cat on Ultra Bee AI: Put Your Pet on the Wheelie](https://www.makeviral.ai/templates/cat-on-ultra-bee-ai-trend): Add one photo, and your cat or dog stands on an electric dirt bike and holds a long wheelie down a city road at golden hour, in the same shots as the viral clip, with its original sound. You can take the ride yourself, too.
+- [Tus Ojos Me Reflejan el Sentimiento: The Cafuné Eye Close-Up Trend](https://www.makeviral.ai/templates/tus-ojos-me-reflejan-ai-trend): You lie on your side, a hand rests on your cheek, warm light falls on your face, and the camera slowly moves in until your eyes fill the screen while the line plays. One photo in, an 8-second vertical clip with the trend's song out.
+- [İnşallah Maşallah AI Trend: Sing Neşe Karaböcek's Song on the Couch](https://www.makeviral.ai/templates/insallah-masallah-ai-trend): You sit on a light grey couch and sing the old Turkish love song straight to the camera: a hand on the heart, a big laugh with both hands on your head, a finger pointed at the camera and a kiss at the end. One photo of you, a grandparent or your pet, and the 15-second clip comes with the song.
+- [Ice Ice Baby Dance AI: Do the Viral Duo Dance With a Friend](https://www.makeviral.ai/templates/ice-ice-baby-dance-ai): Two dancers side by side, the same bouncy 90s steps, a spin on the beat and a strut to the camera. Add a photo of you and a friend, of you alone, or of your pet, and get the dance with the sound.
+- [Save Yourself Trend: Pull Yourself Up From the Cliff](https://www.makeviral.ai/templates/save-yourself-ai-trend): One photo plays both of you: the scared you clinging to a wet sea cliff, and the calm you who reaches down, pulls you up and holds you. Or use two photos: an older photo of you and a new one, or you and a friend. 15 seconds, vertical.
 
 ## Make your own Hot Tea Prank AI video
 

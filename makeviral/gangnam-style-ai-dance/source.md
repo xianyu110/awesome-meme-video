@@ -3,7 +3,7 @@
 > The Gangnam Style dance trend is back on TikTok in 2026: three friends share one selfie camera and take turns singing the chorus to the lens.
 
 Canonical: https://www.makeviral.ai/templates/gangnam-style-ai-dance
-Updated: 2026-10-22
+Updated: 2026-11-04
 Published: 2026-10-22
 Author: MakeViral Team (https://www.makeviral.ai/about)
 Publisher: MakeViral (https://www.makeviral.ai)
@@ -12,11 +12,11 @@ The **Gangnam Style dance** trend is back on TikTok in 2026: three friends share
 
 Three friends, one selfie camera, a sunset street in Seoul: the 2026 Gangnam Style trend, where each friend gets a solo to the chorus. Add one photo to take the middle, or bring one or two friends.
 
-Also called: Gangnam Style trio, Gangnam Style in Gangnam, Gangnam Trio, AI Gangnam Style effect, Gamgamstyle.
+Also called: Gangnam Style trio, Gangnam Style in Gangnam, Gangnam Trio, AI Gangnam Style effect, Gamgamstyle, Horse dance, Elevator scene, Gangnam Style Trio Sing.
 
 **Make it now:** [Make this video](https://www.makeviral.ai/templates/gangnam-style-ai-dance/create). 1 photo · 15 s · 9:16 with sound · 228 credits, charged once · ready in up to several minutes · no prompt to write.
 
-Keyword: gangnam style dance. Also answers: gangnam style ai, gangnam style trend, gangnam style ai dance, gangnam style tiktok trend, gangnam style dance trend, gangnam style ai video, gangnam style capcut template, gangnam style tiktok dance, oppa gangnam style dance, gangnam style dance ai, gangnam style ai trend, gangnam style dance ai generator, gangnam style dance generator, gangnam style tiktok, gangnam style trend tiktok, gangnam style trend dance, oppa gangnam style ai, gangnam style capcut, gangnam style capcut template trend, gangnam style dance video, gangnam style viral dance, gangnam style is back, gangnam style dance group, gangnam style dance challenge, gangnam style dance meme, gangnam style dance maker, gangnam style ai tutorial, how to make gangnam style ai video, gangnam style ai effect, gangnam style ai template, gangnam style trend 2026.
+Keyword: gangnam style dance. Also answers: gangnam style ai, gangnam style trend, gangnam style ai dance, gangnam style tiktok trend, gangnam style dance trend, gangnam style ai video, gangnam style capcut template, gangnam style tiktok dance, oppa gangnam style dance, gangnam style dance ai, gangnam style prompt, gangnam style viral video, gangnam style horse dance, gangnam style ai trend, horse dance ai, gangnam style dog, gangnam style cat, gangnam style dance ai generator, gangnam style dance generator, gangnam style tiktok, gangnam style trend tiktok, gangnam style edit, oppa gangnam style trend, gangnam style ai video prompt, gangnam style reel, gangnam style trend ai, gangnam style trend dance, oppa gangnam style ai, gangnam style capcut, gangnam style capcut template trend, gangnam style dance video, gangnam style ai prompt, gangnam style video, open gangnam style prompt, gangnam style viral dance, gangnam style is back, gangnam style dance group, gangnam style dance challenge, gangnam style dance meme, gangnam style dance song, gangnam style dance video original, gangnam style reference, open gangnam star, oppa gangnam style, ai gangnam style dance, psy gangnam style, psy gangnam style 2026, viral gangnam style, gangnam style meme song, gangnam style viral, open gangam star, trend gangnam style, gangnam style dance maker, gangnam style ai tutorial, how to make gangnam style ai video, gangnam style ai effect, gangnam style ai template, gangnam style trend 2026, gangnam style horse riding dance, gangnam style dog dance, gangnam style cat dance, dog gangnam style ai, gangnam style horse dance ai, what is the gangnam style dance, gangnam style dance name, cat doing gangnam style, dog doing gangnam style, gangnam style pet, gangnam style elevator, gangnam style elevator scene, gangnam style elevator guy, gangnam style elevator dance, psy elevator scene, elevator guy gangnam style, gangnam style elevator meme, gangnam style elevator trend, gangnam style elevator tiktok, gangnam style lift, gangnam style trio trend, gangnam style trio dance, gangnam style sing along.
 
 ## What is the Gangnam Style AI trend, and where did it start?
 
@@ -24,14 +24,19 @@ Keyword: gangnam style dance. Also answers: gangnam style ai, gangnam style tren
 
 The reel of the 2026 wave is "gangnam style in gangnam" by @emiliyyam: three friends at night in Seoul's Gangnam district (5 October 2026, 17.5 million views). A week later the AI versions began. On 12 October the AI influencer account @mxna.mxna remade it shot for shot with three AI-made women at sunset (106,600 views), the first popular AI version and the reel this page copies. From 19 October @yapayzekaserisi's AI clips of Harry Potter, The Lord of the Rings and Spider-Man characters (his "Gamgamstyle" posts, 601,900 views for the first) made the Gangnam Style AI trend spread, and a one-photo CapCut template of the reel followed. By 22 October 2026, #gangnamstyletrend had 773 videos and #gangnamstyleai 255.
 
+The horse-riding dance of PSY's 2012 music video, the Gangnam Style horse dance, is back in the AI wave too. Its AI pet clips started earlier: an AI-made Labrador dances it in the back of a van in a "Gangnam Style Dog" clip of 30 December 2025 (461,900 views), and an AI-made orange cat does the crossed-paw gallop in a kitchen in a YouTube Short of 20 October 2026. From 21 October 2026 CapCut tutorial captions call the effect the "Gangnam Style horse dance AI video", and AI video sites added the horse dance from one photo, for you or your pet. By 23 October #gangnamstyleai had 566 videos, with about 328 new ones a day.
+
 ### Gangnam Style AI trend timeline
 
 - **2025-01-06**: A "gangnam style trio" reel from Poland, three friends taking turns at one phone camera, starts the format (35.7 million views by October 2026).
+- **2025-12-30**: An AI-made Labrador dances the Gangnam Style horse dance in the back of a van, an early AI pet version (461,900 views by October 2026). Source: [TikTok](https://www.tiktok.com/@ai.factory3/video/7589623189827800342).
 - **2026-09-19**: The trend is back: a friend group in Malaysia posts its Gangnam Style take (3.3 million views), three days after a four-friend take in Poland (2.2 million).
 - **2026-10-05**: @emiliyyam and two friends post "gangnam style in gangnam", filmed at night in Seoul's Gangnam district: 17.5 million views and 2.9 million likes by 22 October. Source: [TikTok](https://www.tiktok.com/@emiliyyam/video/7693080012815093010).
 - **2026-10-12**: @mxna.mxna remakes the reel shot for shot with three AI-made women at sunset, the first popular AI version (106,600 views, TikTok AI label). Source: [TikTok](https://www.tiktok.com/@mxna.mxna/video/7695811852659412244).
 - **2026-10-19**: @yapayzekaserisi posts "Hogwarts Gamgamstyle Night", AI film characters doing the trio selfie (601,900 views by 22 October); The Lord of the Rings and Spider-Man versions follow on 20 and 21 October. Source: [TikTok](https://www.tiktok.com/@yapayzekaserisi/video/7698524220489288967).
+- **2026-10-20**: LOLPETS posts an AI-made orange cat that does the horse dance on its hind legs in a kitchen, the clip the Pet version copies. Source: [YouTube](https://www.youtube.com/shorts/4LNBcvMz11I).
 - **2026-10-21**: CapCut template tutorials for the one-photo Gangnam Style AI effect go up in the US, UK and Brazil, and #gangnamstyleaitrend is born; on 22 October #gangnamstyleai has 255 videos.
+- **2026-10-23**: AI video sites now offer the horse dance from one photo, for you or your pet, and #gangnamstyleai has 566 videos, with about 328 new ones a day.
 
 ## What the Gangnam Style AI video looks like
 
@@ -40,6 +45,19 @@ Made from the prompts on this page. The people and pets are AI-made, not real pe
 - **Example 1** (15 s, 9:16 MP4 with sound): The original reel by @mxna.mxna (12 October 2026): an AI-made remake of the "gangnam style in gangnam" selfie with three AI-made women at sunset, the first popular AI version of the trend. Solo, Duo and Trio all copy this reel.
   - Video: https://www.makeviral.ai/media/templates/gangnam-style-ai-dance/original-main-v2.mp4
   - Poster: https://www.makeviral.ai/media/templates/gangnam-style-ai-dance/original-main-v1.jpg
+- **Example 2** (20 s, 9:16 MP4 with sound): The trend's template clip for the Night trio version: three friends squeeze into a selfie on a city square at night, each gets a solo to the song with a whip pan in between, then all three come back, palms to the lens. Night trio makes these 20 seconds with your three photos.
+  - Video: https://www.makeviral.ai/media/templates/gangnam-style-ai-dance/original-night-v2.mp4
+  - Poster: https://www.makeviral.ai/media/templates/gangnam-style-ai-dance/original-night-v1.jpg
+- **Example 3** (10 s, 9:16 MP4 with sound): The original clip by LOLPETS (20 October 2026): an AI-made orange cat stands up in a kitchen and does the Gangnam Style horse dance, front paws crossed on the reins, a gallop in place and a paw in the air. The Pet version puts your dog or cat into this clip.
+  - Video: https://www.makeviral.ai/media/templates/gangnam-style-ai-dance/original-pet-v2.mp4
+  - Poster: https://www.makeviral.ai/media/templates/gangnam-style-ai-dance/original-pet-v1.jpg
+- **Example 4** (10 s, 9:16 MP4 with sound): Made with MakeViral from one photo of an AI-made woman (not a real person): she does the horse dance on a rooftop at sunset, wrists crossed on the reins, a gallop in place and a lasso over her head.
+  - Video: https://www.makeviral.ai/media/templates/gangnam-style-ai-dance/example-horse-v1.mp4
+  - Poster: https://www.makeviral.ai/media/templates/gangnam-style-ai-dance/example-horse-v1-poster.jpg
+  - Input photo: https://www.makeviral.ai/media/templates/gangnam-style-ai-dance/example-horse-v1-input.jpg
+- **Example 5** (8 s, 9:16 MP4 with sound): The elevator scene of PSY's 2012 "Gangnam Style" music video (official upload, 15 July 2012, over 6.1 billion views): the comedian Noh Hong-chul does the hip thrust dance in a steel elevator while PSY lies on the floor underneath. The Elevator version makes this scene with your two photos.
+  - Video: https://www.makeviral.ai/media/templates/gangnam-style-ai-dance/original-elevator-v2.mp4
+  - Poster: https://www.makeviral.ai/media/templates/gangnam-style-ai-dance/original-elevator-v1.jpg
 
 ## How to make the Gangnam Style AI video on MakeViral
 
@@ -148,6 +166,119 @@ One head per person, on that person's own shoulders. Never a fourth friend; the 
 
 One-tap version of this variant: https://www.makeviral.ai/templates/gangnam-style-ai-dance/create?variant=trio
 
+#### Variant: Night trio
+
+Settings: 3 photos (you, the singer in the middle + friend 2, on the left + friend 3, on the right) · Seedance 2.5 · 20 s · 720p · 9:16 · no sound · 304 credits in one tap.
+
+1. The video prompt is filled in. Settings: Seedance 2.5, 20 s, 720p, 9:16, sound off. The video prompt:
+
+   ```text
+   Recreate the reference video [Video 1] shot for shot. The ONLY change: the three women are now the people in the photos.
+
+REFS: [Image 1], [Image 2] and [Image 3] are photos of the three people who appear in the video, one person per photo: [Image 1] = PERSON A, the singer, in the CENTRE; [Image 2] = PERSON B, on the LEFT; [Image 3] = PERSON C, on the RIGHT, each with his or her own face, hair, body and clothes from the photo. Copy their faces, skin, hair, bodies and clothes exactly, the same real face as in the photo in every frame, close and far.
+
+[Video 1]: 20 seconds, horizontal 16:9, a handheld night music-video clip: three young women dance and lip-sync to the camera on a city square at night. Shot order: 0-1.5 s all three together in a tight arm's-length selfie, faces filling the frame; 1.5-4.5 s close-up of the centre woman alone, she sings into the lens; whip pan; 4.7-8.1 s the left woman alone dancing by the lamp posts; whip pan; 8.3-11.9 s the right woman alone dancing in front of the stone building; whip pan; 12-16.2 s close-up of the centre woman alone, she pushes her open palm to the lens and sings; 16.2-20 s all three together again in the same tight selfie, palms to the camera.
+
+WHO IS WHO: the CENTRE woman of [Video 1] (the singer) = PERSON A from [Image 1]; the LEFT woman of [Video 1] = PERSON B from [Image 2]; the RIGHT woman of [Video 1] = PERSON C from [Image 3]. Everything that is a person in [Video 1] becomes the matching person from the photos: head, face, hair, body, arms, hands, legs, clothes, at the same position, size in frame, pose and timing, copying every dance move, hand gesture, head turn and expression frame by frame, including the whip pans. FACES FIRST: the same real faces as in the photos in every shot; bare open eyes, nothing on the faces; their own clothes from the photos fitting their own bodies and proportions. NO black sunglasses, NO leather jacket, NO olive bomber, NO striped black jacket unless that person's photo shows them. Never morph, never drift back to the original women's faces.
+
+LIP-SYNC (strict): PERSON A's mouth copies the [Video 1] singer's mouth exactly, frame by frame: lips and jaw open and close at the same moments, shaping every word; all three faces are alive, smiling and blinking like [Video 1], eyes into the lens.
+
+THE PLACE STAYS THE SAME: the night square, the lamp posts, the lights, the fountain, the buildings, the tree, the night street light and the colour grade stay exactly as in [Video 1]; the light on the new people comes from this place.
+
+CAMERA AND CUTS (strict): copy the camera and the editing of [Video 1] exactly: the same shots, the same cuts and whip pans at the same moments, the same framing and handheld shake, the same size of the people in frame. No new shots, no extra zoom, no drift. Keep the timing and the full length. No text, no logos, no subtitles. Photorealistic phone-video footage.
+
+HARD CHECKS: exactly three people and they are the three from the photos, in the right places; faces identical to the photos in every close shot; their own clothes.
+   ```
+
+2. Press Generate, then download the 9:16 MP4.
+
+One-tap version of this variant: https://www.makeviral.ai/templates/gangnam-style-ai-dance/create?variant=night
+
+#### Variant: Horse dance
+
+Settings: 1 photo (you, face clear) · Seedance 2.5 · 10 s · 720p · 9:16 · with sound · 126 credits in one tap.
+
+1. The video prompt is filled in. Settings: Seedance 2.5, 10 s, 720p, 9:16, sound on. The video prompt:
+
+   ```text
+   A vertical 9:16 dance video, photorealistic, a phone on a small tripod at chest height, on a city rooftop at sunset: a wide flat roof with a low glass railing, glass towers and a warm orange sky behind, golden light on the face. One person does the horse-riding dance to the camera with a cool, serious, deadpan face.
+
+The dancer is the person in [Image 1], in EVERY frame: copy the exact face from [Image 1] (the face shape, eye color and eye shape, eyebrows, nose, mouth, skin tone, age, hair color, hair length and hairstyle, and any beard, moustache, glasses or freckles), so their friends recognize them at once. The face stays the same from the first frame to the last, also while they bounce. Never morph. They wear the clothes from [Image 1]. NO sunglasses, no blue tuxedo jacket and no bow tie unless [Image 1] shows them. If [Image 1] shows an animal, the dancer is that animal standing upright on its hind legs, with its own face, fur and markings and the natural body volume of that animal.
+
+The dance, beat by beat:
+0-2 s: a medium shot from the knees up, the face large and sharp: they stare into the lens and cross the wrists in front of the chest as if holding the reins.
+2-5 s: wrists crossed on the reins and a bouncy gallop in place: a skip on one foot, then the other, knees up, the crossed hands bobbing on the beat; the camera eases back so the hop shows from head to feet.
+5-7.5 s: one arm swinging a lasso high over the head while the gallop goes on, the other hand still on the reins.
+7.5-9 s: a quick side shuffle left and right, two hops each way, the wrists crossed again.
+9-10 s: a last gallop facing the camera, then they stop, point at the lens and grin.
+
+Audio: a fast K-pop electro house dance beat with a heavy kick, no singing, no words, and a soft tap of shoes on the roof on each hop.
+
+Exactly one person. Anatomy: one head, two arms, two legs, hands with five fingers. No other people, no horse. No text, no subtitles, no logos, no watermark.
+   ```
+
+2. Press Generate, then download the 9:16 MP4.
+
+One-tap version of this variant: https://www.makeviral.ai/templates/gangnam-style-ai-dance/create?variant=horse
+
+#### Variant: Elevator
+
+Settings: 2 photos (you, the one who dances + your friend, on the floor) · Seedance 2.5 · 10 s · 720p · 9:16 · with sound · 126 credits in one tap.
+
+1. The video prompt is filled in. Settings: Seedance 2.5, 10 s, 720p, 9:16, sound on. The video prompt:
+
+   ```text
+   [Image 1] and [Image 2] are the two people. A vertical 9:16 comedy dance video, photorealistic, one continuous take from a camera fixed at chest height in the open doorway of a small steel elevator: brushed steel walls, handrails and a bright ceiling light. The one standing who dances becomes the person in [Image 1]; the one on the floor underneath becomes the person in [Image 2].
+
+The dancer is the person in [Image 1], in EVERY frame: copy the exact face from [Image 1] (the face shape, eye color and eye shape, eyebrows, nose, mouth, skin tone, age, hair color, hair length and hairstyle, and any beard, moustache, glasses or freckles).
+The one on the floor is the person in [Image 2], in EVERY frame: copy the exact face from [Image 2] (the face shape, eye color and eye shape, eyebrows, nose, mouth, skin tone, age, hair color, hair length and hairstyle, and any beard, moustache, glasses or freckles).
+Each person wears the clothes from their own image, never a dark jacket or a navy suit and tie unless their image shows them. NO sunglasses unless their image shows them. Both are real, photorealistic people. Never blend their faces, never swap their clothes. Each face stays the same from the first frame to the last, so their friends recognize them at once. If an image shows an animal, that one is that animal with its own face, fur and markings and the natural body volume of that animal: the dancer stands up on its hind legs, the one on the floor lies on its belly.
+
+The scene, beat by beat:
+0-1.5 s: the elevator doors slide open. The dancer stands in the middle, legs wide, knees bent, arms held out low at the sides, a cool, serious, deadpan face to the lens. The one on the floor lies on the stomach between the dancer's feet, propped on the forearms, chin up, face to the camera.
+1.5-5 s: the dancer does the hip thrust dance: quick hip thrusts forward on the beat, the knees bouncing, the arms swinging out and in, the head bobbing, the eyes on the lens. The one on the floor stays below, mouthing the words to the camera with big mouth moves.
+5-7.5 s: the one on the floor looks up at the dancer, then back to the lens with a cheeky, smug face, while the hip thrusts go on, faster.
+7.5-9 s: the dancer points at the lens with both hands without missing a beat; the one on the floor raises the eyebrows and grins.
+9-10 s: the doors slide shut on them.
+
+Keep the steel elevator, the handrails and the ceiling light unchanged. Keep both faces clearly lit: the dancer is seen from head to feet, the one on the floor is close to the lens, the face large and sharp.
+
+Audio: a fast K-pop electro house dance beat with a heavy kick and a soft elevator ding as the doors open. No singing, no words. No dialogue throughout the entire video.
+
+Exactly two people, nobody else. Anatomy: each one head, two arms, two legs, hands with five fingers; the two never merge. No text, no subtitles, no logos, no watermark.
+   ```
+
+2. Press Generate, then download the 9:16 MP4.
+
+One-tap version of this variant: https://www.makeviral.ai/templates/gangnam-style-ai-dance/create?variant=elevator
+
+#### Variant: Pet
+
+Settings: 1 photo (your pet, whole body) · Seedance 2.5 · 10 s · 720p · 9:16 · no sound · 152 credits in one tap.
+
+1. The video prompt is filled in. Settings: Seedance 2.5, 10 s, 720p, 9:16, sound off. The video prompt:
+
+   ```text
+   Recreate the reference video [Video 1] shot for shot: the same bright modern kitchen with dark wooden cabinets, warm ceiling spotlights and a pale tiled floor, the same fixed camera low in front of the dancer, the same framing, timing and moves, one continuous take with no cuts. The ONLY change: the cat who stands on its hind legs and dances in the middle of the kitchen is now the pet in [Image 1].
+
+The dancer = the pet in [Image 1], in EVERY frame: the same species and breed, head shape, muzzle, eyes, ears, fur colors, fur length and markings as in [Image 1], with the natural body volume and proportions of that animal: never flattened, squashed, stretched or merged with anything, so its owner instantly recognizes it from the first second to the last. Never drift back to the cat of the original video: not the coat, not the stripes and not the face of the cat in the video, unless [Image 1] shows them. If [Image 1] shows a dog or another animal, that animal stands upright on its hind legs in the same kitchen and dances the same moves, with its own muzzle, ears, tongue and tail.
+
+The horse-riding dance, beat by beat, exactly as in [Video 1], with the same serious, deadpan face:
+0-2.5 s: front paws crossed on the reins and a bouncy gallop in place, lifting one hind leg, then the other.
+2.5-5 s: both front paws held up in front of the chest, trotting in place on the beat.
+5-6.5 s: a quick side shuffle, one front paw swinging out wide, the tail out for balance.
+6.5-8 s: back to the middle, front paws crossed on the reins again, the gallop goes on.
+8-10 s: a wide stance, one front paw swinging a lasso high over the head, then the last pose facing the camera.
+
+Real live-action footage, one continuous take, a clear and stable face, real animal anatomy, the same pet in every frame, the same fur.
+
+Anatomy rules: one head only. Two hind legs and two front legs, furry paws covered in the pet's own fur, never human hands or fingers, no extra legs or paws. Exactly one animal, no people. No text, no captions, no logos, no watermark.
+   ```
+
+2. Press Generate, then download the 9:16 MP4.
+
+One-tap version of this variant: https://www.makeviral.ai/templates/gangnam-style-ai-dance/create?variant=pet
+
 ### Which photo works best?
 
 You need **one photo for Solo**, **two for Duo** and **three for Trio**.
@@ -156,6 +287,10 @@ You need **one photo for Solo**, **two for Duo** and **three for Trio**.
 - One person per photo, face to the camera, from the chest up or closer. A selfie works well: the reel is a selfie too.
 - Good light on the face. No sunglasses, no mask, no beauty filter, nobody else in the photo.
 - Your clothes and hair come from your photo, not from the women in the reel.
+- **Night trio** needs three photos in the same order: photo 1 is the singer in the middle, photo 2 the friend on the left, photo 3 the friend on the right. No sunglasses: each face shows in a close solo.
+- **Horse dance** needs one photo of you: a sharp, well-lit face turned to the camera. A photo from the knees up shows the clothes you dance in.
+- **Pet** needs one photo of your dog or cat: the whole animal, its face to the camera, one pet per photo, no person in it.
+- **Elevator** needs two photos: photo 1 is the one who dances, photo 2 the one on the floor, each face to the camera.
 - This template is for adults. Use photos of yourself or of adult friends who agreed. Never a celebrity, a stranger or a child.
 
 ## How many credits does it cost?
@@ -170,7 +305,7 @@ Credits come with a plan; see [pricing](https://www.makeviral.ai/pricing). A fai
 
 ## What happens in the Gangnam Style AI video, shot by shot?
 
-Every version of the Gangnam Style AI dance copies the same 15 seconds of the AI reel, in a wide selfie shot at sunset on a city sidewalk between glass towers, flags on the poles:
+The Solo, Duo and Trio versions of the Gangnam Style AI dance copy the same 15 seconds of the AI reel, in a wide selfie shot at sunset on a city sidewalk between glass towers, flags on the poles:
 
 | Seconds | The shot | Solo | Duo | Trio |
 |---|---|---|---|---|
@@ -198,11 +333,26 @@ Press "Create your own" and pick one, or press the button under the reel on this
 
 **Trio** is the gangnam style trio as people know it: three friends, one camera, a solo each, the Gangnam Style dance group clip for a night out. **Duo** is for you and your best friend; the third friend stays as in the reel. **Solo** needs one photo: you take the middle, the friend who opens and closes the clip, and the two others stay. The videos come from top-quality AI video models, including Seedance 2.5. The exact price shows on the Generate button before you spend anything.
 
+## Horse dance and Pet: the Gangnam Style horse dance for you or your pet
+
+The Gangnam Style horse dance is the horse-riding dance of the 2012 music video, and the AI wave brought it back. Two versions do it from one photo:
+
+| | Horse dance | Pet |
+|---|---|---|
+| Photo | 1: you | 1: your dog or cat |
+| What happens | On a city rooftop at sunset, you cross your wrists on the reins, gallop in place, swing a lasso over your head, shuffle left and right and point at the camera | Your pet stands up in a bright kitchen, crosses its front paws on the reins, gallops in place, shuffles to the side and ends with a paw in the air |
+| How it is made | Straight from your photo, with no reel and no in-between picture | Your pet goes into the AI cat clip by LOLPETS, shot for shot |
+| Frame | Vertical 9:16, 720p | Vertical 9:16, 720p |
+| Length | 10 s | 10 s |
+| Sound | A K-pop dance beat made with the video, not the song: add the Gangnam Style sound when you post | The song from the AI cat clip, put back on after the run; you can turn it off |
+
+**Horse dance** is the horse dance AI for people: a gangnam style horse dance ai clip of you, with your face and your clothes, the deadpan face and every step written out for the AI. **Pet** turns your dog into a gangnam style dog or your cat into a gangnam style cat: the gangnam style dog dance and the gangnam style cat dance are the same horse dance on four paws, standing up. Your pet does not need to dance: the AI does the moves. Every run is a new take, so the steps and the timing differ a little.
+
 ## Which sound and hashtags should you post it with?
 
-Your clip comes with the chorus from the reel, the same seconds the video is cut to. You can turn it off on the result screen and pick the Gangnam Style sound on TikTok when you post instead. The song is PSY's and belongs to its owners, and MakeViral gives you no rights to it; check the platform's music rules before you use the clip in an ad or a paid post.
+Solo, Duo, Trio and Pet come with the song from their clip, the same seconds the video is cut to. You can turn it off on the result screen and pick the Gangnam Style sound on TikTok when you post instead. Horse dance comes with a K-pop dance beat made with the video, not the song, so add the Gangnam Style sound when you post. The song is PSY's and belongs to its owners, and MakeViral gives you no rights to it; check the platform's music rules before you use the clip in an ad or a paid post.
 
-**Why wide and not vertical?** The 2026 reel and every AI version of it are wide 16:9, so your video is too. TikTok and Reels show it with bands above and below, like the original.
+**Why wide and not vertical?** The 2026 reel and every AI version of it are wide 16:9, so Solo, Duo and Trio are too. TikTok and Reels show them with bands above and below, like the original. Horse dance and Pet are vertical.
 
 **Hashtags:** #gangnamstyle (190,641 videos), #gangnamstyletrend (773 videos and 5.9 million views on 22 October 2026), #gangnamstyleai (255 videos) and the new #gangnamstyleaitrend. Keep the platform's AI label on.
 
@@ -251,7 +401,27 @@ Yes. It works as a gangnam style dance ai generator and a gangnam style dance ma
 
 ### Do I need to know the Oppa Gangnam Style dance?
 
-No. PSY's music video made the horse-riding dance famous, but the 2026 Gangnam Style TikTok dance is a selfie sing-along: the friends sing the "Oppa Gangnam Style" chorus, point at the lens, flip their hair and make a finger heart. The AI does those moves with your face, so you never have to learn the oppa gangnam style dance.
+No. The 2026 Gangnam Style TikTok dance is a selfie sing-along: the friends sing the "Oppa Gangnam Style" chorus, point at the lens, flip their hair and make a finger heart, and Solo, Duo and Trio do those moves with your face. The horse-riding dance from PSY's 2012 music video is part of the AI wave too, and the Horse dance version does it with your face from one photo. Either way the AI dances, so you never have to learn the oppa gangnam style dance.
+
+### What is the Gangnam Style dance called?
+
+The gangnam style dance name most people use is the horse dance: the Gangnam Style horse riding dance from PSY's 2012 music video. You cross your wrists as if holding the reins, gallop in place, swing a lasso over your head and shuffle from side to side. If you search what is the Gangnam Style dance in 2026, you also find the trio selfie on this page, a sing-along with a solo for each friend.
+
+### Can my dog or cat do the Gangnam Style dance?
+
+Yes. Pick Pet and add one photo of your dog or cat. Your pet goes into an AI clip of a cat doing the horse dance in a kitchen: it stands up, crosses its front paws, gallops in place and ends with a paw in the air, with the song. A cat doing Gangnam Style or a dog doing Gangnam Style, it is the same 10-second clip; dog gangnam style ai videos and the gangnam style pet clips on TikTok work the same way. Use a photo that shows the whole animal.
+
+### Is there a horse dance AI that works from one photo?
+
+Yes, the Horse dance version. It is a gangnam style horse dance ai made straight from one photo of you: on a city rooftop at sunset you gallop in place with your wrists on the reins, swing the lasso, shuffle and point at the camera, in 10 vertical seconds with a K-pop dance beat. The horse dance AI keeps your face and your clothes from the photo.
+
+### Can I make the Gangnam Style elevator scene with a friend?
+
+Yes, pick Elevator and add two photos: photo 1 is the one who dances, photo 2 the one on the floor. The gangnam style elevator scene is the PSY elevator scene of the 2012 music video, the one that made the comedian Noh Hong-chul the elevator guy: one man does the hip thrust dance in a steel elevator (a lift, in British English) while the other is on the floor underneath, looking up. In our version you thrust and your friend lies propped on the forearms between your feet, in 10 vertical seconds made straight from your two photos, with a K-pop dance beat, not the song. Add the Gangnam Style sound when you post your elevator dance as a meme or a TikTok trend clip.
+
+### What is the Night trio, the Gangnam Style trio trend at night?
+
+It is the night take of the gangnam style trio trend: three friends on a lit city square sing along to the bridge and "Oppan Gangnam Style", each with a solo between whip pans, then the group selfie again. AI apps copy it as the "Gangnam Style Trio Sing" effect, and from 19 October 2026 its bot template tutorials spread, the top one with 3.8 million views. The Night trio version puts you and two friends into that gangnam style trio dance from three photos: 20 seconds, wide 16:9, with the song as a gangnam style sing along. Photo 1 is the singer in the middle.
 
 ### Can I do the Gangnam Style trend with my friends?
 
@@ -271,15 +441,15 @@ They are AI-made. The example is the reel by @mxna.mxna, an AI influencer accoun
 
 ### Which AI models make the video?
 
-Top-quality AI video models, including Seedance 2.5. The AI puts your face into the reel itself, shot for shot, wide 16:9 at 720p, and the reel's song goes back on after the run. MakeViral picks the model for each run.
+Top-quality AI video models, including Seedance 2.5. In Solo, Duo and Trio the AI puts your face into the reel itself, shot for shot, wide 16:9 at 720p, and the reel's song goes back on after the run. Pet does the same with your pet and the AI cat clip, vertical. Horse dance is made straight from your photo, vertical. MakeViral picks the model for each run.
 
 ### What prompt does the Gangnam Style AI trend use?
 
-No creator shared a prompt: the AI app and CapCut templates are closed. Our prompt starts from a copy-ready trio prompt of an AI template site (each photo as one adult in the middle, on the left or on the right, the reel's exact order of group, close-up and solos), plus our tested words that keep your face. You never have to write it.
+No creator shared a prompt: the AI app and CapCut templates are closed. Our prompt starts from a copy-ready trio prompt of an AI template site (each photo as one adult in the middle, on the left or on the right, the reel's exact order of group, close-up and solos), plus our tested words that keep your face. For the horse dance no creator shared a prompt either, so ours writes the moves out beat by beat: wrists crossed on the reins, a gallop in place, a lasso over the head, a side shuffle. You never have to write it.
 
 ### How long is the video and what format is it?
 
-About 15 seconds, wide 16:9 at 720p, like the original reel. It is an MP4 file with the song and no watermark.
+Solo, Duo and Trio: about 15 seconds, wide 16:9 at 720p, like the original reel. Horse dance and Pet: 10 seconds, vertical 9:16 at 720p. Each is an MP4 file with sound and no watermark.
 
 ## Other AI video templates and tools
 
@@ -290,6 +460,15 @@ About 15 seconds, wide 16:9 at 720p, like the original reel. It is an MP4 file w
 - [AI Reels](https://www.makeviral.ai/tools/ai-reels-generator): Pick a format, give it a topic or a product link, and get a finished vertical reel with voice and captions. Nothing to film, nothing to edit.
 - [AI photo generator](https://www.makeviral.ai/ai-photo-generator)
 - [All AI video templates](https://www.makeviral.ai/templates)
+
+## New AI video trends this week
+
+- [Christmas Dance AI: Do the New TikTok Christmas Dance From Your Photos](https://www.makeviral.ai/templates/christmas-dance-ai-trend): Hip sways with the hands at the collar, rolling arms, a quick spin and raised fists, side by side in matching Christmas pajamas. Add two photos for the duo, one for a solo take, or two pets, and get the dance with the sound.
+- [Cat on Ultra Bee AI: Put Your Pet on the Wheelie](https://www.makeviral.ai/templates/cat-on-ultra-bee-ai-trend): Add one photo, and your cat or dog stands on an electric dirt bike and holds a long wheelie down a city road at golden hour, in the same shots as the viral clip, with its original sound. You can take the ride yourself, too.
+- [Tus Ojos Me Reflejan el Sentimiento: The Cafuné Eye Close-Up Trend](https://www.makeviral.ai/templates/tus-ojos-me-reflejan-ai-trend): You lie on your side, a hand rests on your cheek, warm light falls on your face, and the camera slowly moves in until your eyes fill the screen while the line plays. One photo in, an 8-second vertical clip with the trend's song out.
+- [İnşallah Maşallah AI Trend: Sing Neşe Karaböcek's Song on the Couch](https://www.makeviral.ai/templates/insallah-masallah-ai-trend): You sit on a light grey couch and sing the old Turkish love song straight to the camera: a hand on the heart, a big laugh with both hands on your head, a finger pointed at the camera and a kiss at the end. One photo of you, a grandparent or your pet, and the 15-second clip comes with the song.
+- [Ice Ice Baby Dance AI: Do the Viral Duo Dance With a Friend](https://www.makeviral.ai/templates/ice-ice-baby-dance-ai): Two dancers side by side, the same bouncy 90s steps, a spin on the beat and a strut to the camera. Add a photo of you and a friend, of you alone, or of your pet, and get the dance with the sound.
+- [Save Yourself Trend: Pull Yourself Up From the Cliff](https://www.makeviral.ai/templates/save-yourself-ai-trend): One photo plays both of you: the scared you clinging to a wet sea cliff, and the calm you who reaches down, pulls you up and holds you. Or use two photos: an older photo of you and a new one, or you and a friend. 15 seconds, vertical.
 
 ## Make your own Gangnam Style AI video
 

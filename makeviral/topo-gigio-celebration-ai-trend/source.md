@@ -89,12 +89,22 @@ One-tap version of this variant: https://www.makeviral.ai/templates/topo-gigio-c
 
 #### Variant: Viral reel
 
-Settings: 1 photo (you, face clear (from the waist up is best)) · genjutsu-motion · 7 s · 480p · 9:16 · no sound · 90 credits in one tap.
+Settings: 1 photo (you, face clear (from the waist up is best)) · Seedance 2.5 · 7 s · 720p · 9:16 · no sound · 107 credits in one tap.
 
-1. The video prompt is filled in. Settings: genjutsu-motion, 7 s, 480p, 9:16, sound off. The video prompt:
+1. The video prompt is filled in. Settings: Seedance 2.5, 7 s, 720p, 9:16, sound off. The video prompt:
 
    ```text
-   Replace the green ogre in the brown vest and the cream tunic who salutes on the touchline, cups both hands behind the ears and looks up at the stands with the person from image 1: keep that face, hair, skin tone and body exactly, in the clothes from image 1, with normal human skin and their own ears, no green skin, no ogre ears, no brown vest and no tunic unless image 1 shows them. Keep the stadium, the crowd, the motion and the camera of the video.
+   Recreate the reference video [Video 1] shot for shot: the same packed night stadium under floodlights, the same dark stands, the same green pitch and touchline, the same low camera, cuts, timing and moves. The ONLY change: the green ogre in the brown vest and the cream tunic, who salutes on the touchline, cups both hands behind the ears and looks up at the stands, is now the person in [Image 1].
+
+The one who celebrates = the person in [Image 1], in EVERY shot: copy the exact face from [Image 1] (the face shape, eye color and eye shape, eyebrows, nose, mouth, skin tone, age, hair color, hair length and hairstyle, and any beard, moustache, glasses or freckles), and the build and clothes from [Image 1], with normal human skin and their own ears. NO green skin, NO ogre ears, NO round ogre body, NO brown vest and NO cream tunic unless [Image 1] shows them. The face is large in the close-ups: exactly the face from [Image 1], the same real person from the first frame to the last, so their friends recognize them at once. Never morph, never drift back to the ogre's face. If [Image 1] shows an animal, the one who celebrates is that animal upright on its hind legs, with its own face, fur and markings.
+
+The moves, matching the reference second by second:
+0-1.5 s: on the touchline, one hand raised to the forehead in a salute.
+1.5-3 s: cups both hands behind the ears with the cheeks puffed out, the camera looks up from below.
+3-4.5 s: looks up at the roaring stands.
+4.5-6.6 s: cups the ears again and turns to face the camera.
+
+Anatomy rules: one head only, on their own shoulders. Each hand has five fingers; the hands cup behind the ears and never merge with the ears, the hair or the face. The few players far in the background are new adults in plain kits, small and out of focus. No names or numbers on the shirts, no badges, no crests, no sponsor names, no score graphics, no text, no logos, no watermark.
    ```
 
 2. Press Generate, then download the 9:16 MP4.
@@ -140,7 +150,7 @@ The clip is vertical (9:16), 720p, with the roar of the crowd and a deep drum hi
 | | Standard | Best |
 |---|---|---|
 | How it works | Makes a new vertical clip that follows the reel's moves, camera and timing, with you in the ogre's place | Puts you into the reel itself, shot by shot: the same stadium, camera and close-ups |
-| Frame | Vertical 9:16, 720p | Vertical 9:16, 480p |
+| Frame | Vertical 9:16, 720p | Vertical 9:16, 720p |
 | Length | 7 s | 7 s |
 | Sound | The reel's sound, which you can turn off | The same |
 | Price | The lower price | Costs more |
@@ -222,17 +232,26 @@ This template is made for people: we found no pet version of the trend by 16 Oct
 
 ### How long is the video and what format is it?
 
-Celebration: 8 seconds, vertical 9:16, 720p, with the sound of the crowd and no music. Viral reel: about 7 seconds, vertical 9:16, 720p with Standard or 480p with Best, with the reel's own sound, which you can turn off on the result screen.
+Celebration: 8 seconds, vertical 9:16, 720p, with the sound of the crowd and no music. Viral reel: about 7 seconds, vertical 9:16, 720p, with the reel's own sound, which you can turn off on the result screen.
 
 ## Other AI video templates and tools
 
-- [Yamal Rabona AI: Fake the Rabona and Leave the Defender on the Grass](https://www.makeviral.ai/templates/yamal-no-rabona-ai-trend): Add one photo. AI puts you on the goal line of a floodlit match: you shape up for a rabona, the defender slides in, you never kick, and he slides right past. Then you shrug at the camera. Add a second photo and your friend or your pet is the defender.
+- [Yamal Rabona AI: Fake the Rabona and Leave the Defender on the Grass](https://www.makeviral.ai/templates/yamal-no-rabona-ai-trend): Add one photo. AI puts you into the trend clip itself: on the goal line you shape up for a rabona, the defender slides in, you never kick, and he slides right past. Add a second photo and your friend or your pet is the defender.
 - [Ozil Goal AI Trend: Score the Famous Solo Goal Yourself](https://www.makeviral.ai/templates/ozil-goal-ai-trend): You flick the ball over the diving keeper, take it on the chest, let two defenders slide past and roll it into the net, under the floodlights, in your own clothes. One photo, 15 seconds, with the song from the viral clips.
 - [Happy Friday I'm Onnat: Drive the Football Toy Car](https://www.makeviral.ai/templates/im-onnat-football-ai-trend): Add one game photo of you in your uniform. AI keeps your field, your teammates and your game face, and puts you behind the wheel of a tiny red and yellow kids' toy car.
 - [Meme Video](https://www.makeviral.ai/tools/meme-video-generator): One line of text, one image, six seconds. The cheapest format to produce and the easiest one to test ten different ways in an afternoon.
 - [AI TikTok Video](https://www.makeviral.ai/tools/ai-tiktok-video-generator): Eight native TikTok formats, one prompt or product URL, a finished 9:16 video with captions burned in.
 - [AI photo generator](https://www.makeviral.ai/ai-photo-generator)
 - [All AI video templates](https://www.makeviral.ai/templates)
+
+## New AI video trends this week
+
+- [Christmas Dance AI: Do the New TikTok Christmas Dance From Your Photos](https://www.makeviral.ai/templates/christmas-dance-ai-trend): Hip sways with the hands at the collar, rolling arms, a quick spin and raised fists, side by side in matching Christmas pajamas. Add two photos for the duo, one for a solo take, or two pets, and get the dance with the sound.
+- [Cat on Ultra Bee AI: Put Your Pet on the Wheelie](https://www.makeviral.ai/templates/cat-on-ultra-bee-ai-trend): Add one photo, and your cat or dog stands on an electric dirt bike and holds a long wheelie down a city road at golden hour, in the same shots as the viral clip, with its original sound. You can take the ride yourself, too.
+- [Tus Ojos Me Reflejan el Sentimiento: The Cafuné Eye Close-Up Trend](https://www.makeviral.ai/templates/tus-ojos-me-reflejan-ai-trend): You lie on your side, a hand rests on your cheek, warm light falls on your face, and the camera slowly moves in until your eyes fill the screen while the line plays. One photo in, an 8-second vertical clip with the trend's song out.
+- [İnşallah Maşallah AI Trend: Sing Neşe Karaböcek's Song on the Couch](https://www.makeviral.ai/templates/insallah-masallah-ai-trend): You sit on a light grey couch and sing the old Turkish love song straight to the camera: a hand on the heart, a big laugh with both hands on your head, a finger pointed at the camera and a kiss at the end. One photo of you, a grandparent or your pet, and the 15-second clip comes with the song.
+- [Ice Ice Baby Dance AI: Do the Viral Duo Dance With a Friend](https://www.makeviral.ai/templates/ice-ice-baby-dance-ai): Two dancers side by side, the same bouncy 90s steps, a spin on the beat and a strut to the camera. Add a photo of you and a friend, of you alone, or of your pet, and get the dance with the sound.
+- [Save Yourself Trend: Pull Yourself Up From the Cliff](https://www.makeviral.ai/templates/save-yourself-ai-trend): One photo plays both of you: the scared you clinging to a wet sea cliff, and the calm you who reaches down, pulls you up and holds you. Or use two photos: an older photo of you and a new one, or you and a friend. 15 seconds, vertical.
 
 ## Make your own Topo Gigio Celebration video
 

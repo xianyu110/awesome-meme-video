@@ -37,11 +37,21 @@ Audio: the roar of a packed stadium crowd that swells when the hands go behind t
 Exactly one person celebrates. No score graphic, no scoreboard, no TV channel logo, no flags, no national team or club kits, no crests, no sponsor names, no captions, no watermark. No famous athlete: every player and every fan is a generic adult. Anatomy rules: one head, two arms, two hands with five fingers each; the hands touch the head behind the ears and never merge with the ears, the hair or the face.
 ```
 
-### 2. 1. The video prompt is filled in. Settings: genjutsu-motion, 7 s, 480p, 9:16, sound off. The video prompt
+### 2. 1. The video prompt is filled in. Settings: Seedance 2.5, 7 s, 720p, 9:16, sound off. The video prompt
 
 *Kind: video_prompt*
 
 ```text
-Replace the green ogre in the brown vest and the cream tunic who salutes on the touchline, cups both hands behind the ears and looks up at the stands with the person from image 1: keep that face, hair, skin tone and body exactly, in the clothes from image 1, with normal human skin and their own ears, no green skin, no ogre ears, no brown vest and no tunic unless image 1 shows them. Keep the stadium, the crowd, the motion and the camera of the video.
+Recreate the reference video [Video 1] shot for shot: the same packed night stadium under floodlights, the same dark stands, the same green pitch and touchline, the same low camera, cuts, timing and moves. The ONLY change: the green ogre in the brown vest and the cream tunic, who salutes on the touchline, cups both hands behind the ears and looks up at the stands, is now the person in [Image 1].
+
+The one who celebrates = the person in [Image 1], in EVERY shot: copy the exact face from [Image 1] (the face shape, eye color and eye shape, eyebrows, nose, mouth, skin tone, age, hair color, hair length and hairstyle, and any beard, moustache, glasses or freckles), and the build and clothes from [Image 1], with normal human skin and their own ears. NO green skin, NO ogre ears, NO round ogre body, NO brown vest and NO cream tunic unless [Image 1] shows them. The face is large in the close-ups: exactly the face from [Image 1], the same real person from the first frame to the last, so their friends recognize them at once. Never morph, never drift back to the ogre's face. If [Image 1] shows an animal, the one who celebrates is that animal upright on its hind legs, with its own face, fur and markings.
+
+The moves, matching the reference second by second:
+0-1.5 s: on the touchline, one hand raised to the forehead in a salute.
+1.5-3 s: cups both hands behind the ears with the cheeks puffed out, the camera looks up from below.
+3-4.5 s: looks up at the roaring stands.
+4.5-6.6 s: cups the ears again and turns to face the camera.
+
+Anatomy rules: one head only, on their own shoulders. Each hand has five fingers; the hands cup behind the ears and never merge with the ears, the hair or the face. The few players far in the background are new adults in plain kits, small and out of focus. No names or numbers on the shirts, no badges, no crests, no sponsor names, no score graphics, no text, no logos, no watermark.
 ```
 

@@ -5,7 +5,8 @@ import hashlib, json, re, html as HTML
 from pathlib import Path
 from urllib.parse import urlparse, unquote
 
-ROOT = Path('/workspace/awesome-meme-video')
+# Checkout root (repo itself). Older runners used /workspace/awesome-meme-video.
+ROOT = Path(__file__).resolve().parent.parent
 RAW = ROOT / '_raw'
 OUT_MV = ROOT / 'makeviral'
 OUT_RM = ROOT / 'remakeyourmeme'

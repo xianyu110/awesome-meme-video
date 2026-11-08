@@ -14,7 +14,7 @@ Your first pet grabs its head and screams into a wide lens while your second pet
 
 Also called: Smalltown Boy dance, Smalltown Boy trend, Smalltown Boy meme, Screaming cat dance.
 
-**Make it now:** [Make this video](https://www.makeviral.ai/templates/smalltown-boy-ai-dance/create). 2 photos · 14 s · 9:16 with sound · 168 credits, charged once · ready in a few minutes · no prompt to write.
+**Make it now:** [Make this video](https://www.makeviral.ai/templates/smalltown-boy-ai-dance/create). 2 photos · 14 s · 9:16 with sound · 213 credits, charged once · ready in up to several minutes · no prompt to write.
 
 Keyword: smalltown boy cats. Also answers: smalltown boy ai, smalltown boy dance trend, smalltown boy ai dance, smalltown boy dance meme, smalltown boy meme dance, smalltown boy tiktok, smalltown boy tiktok trend, smalltown boy trend tiktok, smalltown boy dance tiktok, smalltown boy tiktok dance, small town boy dance, small town boy tiktok dance, small town boy cats ai, smalltown boy cat dance, two cats dancing smalltown boy, cats dancing to smalltown boy, smalltown boy dance ai, smalltown boy template, smalltown boy pets, smalltown boy dog, screaming cat dance trend, smalltown boy dance challenge, smalltown boy dance moves, parents dancing to smalltown boy, smalltown boy dance parents, bronski beat smalltown boy meme, bronski beat smalltown boy tiktok.
 
@@ -53,8 +53,8 @@ Everything runs in the browser. No editing app, no watermark.
 ### The one-tap way (no prompt to write)
 
 1. **Add the two photos.** Press "Make yours" and add pet who screams, then pet who dances. Add them in this order, because the order decides who is who in the scene. Take them with the camera or pick them from your library. Start here: https://www.makeviral.ai/templates/smalltown-boy-ai-dance/create
-2. **Press Generate.** The button shows the price. H3 Max Recast puts your photos into the Smalltown Boy trend clip and copies it shot by shot for 14 seconds, with the reel's original song. You write no prompt.
-3. **Download or share.** The video is ready in a few minutes as a 9:16 MP4. Download it, share it from your phone, or find it later in My videos.
+2. **Press Generate.** The button shows the price. Seedance 2.5 puts your photos into the Smalltown Boy trend clip and copies it shot by shot for 14 seconds, with the reel's original song. You write no prompt.
+3. **Download or share.** The video is ready in up to several minutes as a 9:16 MP4. Download it, share it from your phone, or find it later in My videos.
 
 ### The by-hand way, with the exact prompts
 
@@ -62,12 +62,28 @@ The one-tap flow runs this prompt for you. The video prompt animates your own ph
 
 #### Variant: Pet
 
-Settings: 2 photos (pet who screams + pet who dances) · h3-recast · 14 s · 720p · 9:16 · no sound · 168 credits in one tap.
+Settings: 2 photos (pet who screams + pet who dances) · Seedance 2.5 · 14 s · 720p · 9:16 · no sound · 213 credits in one tap.
 
-1. The video prompt is filled in. Settings: h3-recast, 14 s, 720p, 9:16, sound off. The video prompt:
+1. The video prompt is filled in. Settings: Seedance 2.5, 14 s, 720p, 9:16, sound off. The video prompt:
 
    ```text
-   Image 1 replaces the cat in front who grabs its head with both paws and screams, in every shot, and opens its mouth wide exactly when that cat screams. Image 2 replaces the cat who dances on its hind legs behind it and then beside it, in every shot. Keep the face shape, ears, fur colors, fur length and markings of each pet from its own image, on the whole body, the head, the legs and the tail, from the first frame, not the ears, coat or markings of the cats in the video. Each pet keeps the natural body volume and proportions of its own animal: never flattened, squashed, stretched or merged with anything. Each pet keeps its own face from the first frame to the last, also in the lunge at the camera at the end; never swap the two faces. If an image shows a dog or another animal, that animal takes the same place, standing upright on its hind legs and doing the same moves. Keep the white living room, the marble floor, the warm ceiling light, the motion, the cuts and the camera exactly as in the video.
+   Recreate the reference video [Video 1] shot for shot: the same white living room, the same marble floor, the same warm ceiling light, the same wide lens, the same camera angles, cuts, timing and moves. The ONLY change: the cat in front who grabs its head and screams is now the pet in [Image 1], and the cat who dances on its hind legs behind it is now the pet in [Image 2]. Both cats change: no cat from the video stays anywhere, also in the wide shots, in the close lunge at the end and when only the side or the back of a head shows. [Image 1] is the sole look reference for the screaming pet, [Image 2] for the dancing pet, and [Video 1] is for the moves, the cuts and the camera only.
+
+The screaming pet = the pet in [Image 1], in EVERY shot: the same species and breed, face shape, eyes, ears, muzzle, fur colors, fur length and markings as in [Image 1], on the whole body, the head, the legs and the tail, with the natural body volume and proportions of that animal: never flattened, squashed, stretched or merged with anything. Not the coat, the ears or the face of the cat in the video. It opens its mouth wide exactly when the cat in the video screams.
+
+The dancing pet = the pet in [Image 2], in EVERY shot: the same species and breed, face shape, eyes, ears, muzzle, fur colors, fur length and markings as in [Image 2], on the whole body, the head, the legs and the tail, with the natural body volume and proportions of that animal: never flattened, squashed, stretched or merged with anything. Not the coat, the ears or the face of the cat in the video.
+
+Both stand upright on their hind legs like the cats in the video. If an image shows a dog or another animal, that animal takes the same place, standing upright and doing the same moves: a dog stays a dog and a cat stays a cat. Each pet looks exactly like its own photo from the first frame to the last, and the two pets look as different from each other as the two photos do. Never swap the two pets.
+
+Shot 1 [0-7.1 s]: close in front of the wide lens, the pet from [Image 1] holds its head with both front paws and screams, while the pet from [Image 2] dances on its hind legs behind it.
+Shot 2 [7.1-9.3 s]: hard cut, wide: both dance side by side on the marble floor, the pet from [Image 1] on the left, the pet from [Image 2] on the right.
+Shot 3 [9.3-11.1 s]: hard cut, closer: the same two side by side, [Image 1] on the left, [Image 2] on the right.
+Shot 4 [11.1-12.5 s]: hard cut, wide: they have switched sides: the pet from [Image 2] on the left, the pet from [Image 1] on the right.
+Shot 5 [12.5-14 s]: hard cut: both lunge at the lens, the pet from [Image 2] in front with a front paw out, the pet from [Image 1] beside it; both faces big and clearly their own.
+
+If a pet in any shot still looks like a cat from the video and not like its photo, it is wrong: redraw it as the animal in its photo.
+
+Anatomy rules: one head per animal, on its own body. Exactly two animals. Real furry paws, never human hands. No people, no text, no logos. No dialogue throughout the entire video. No background music.
    ```
 
 2. Press Generate, then download the 9:16 MP4.
@@ -118,7 +134,7 @@ You pay per video in credits, and the create page shows the exact price on the G
 
 | Video model | Settings | Credits |
 | --- | --- | --- |
-| H3 Max Recast (this template) | 14 s, 720p, copies the trend clip, one tap | 168 |
+| Seedance 2.5 (this template) | 14 s, 720p, copies the trend clip, one tap | 213 |
 
 Credits come with a plan; see [pricing](https://www.makeviral.ai/pricing). A failed video gives its credits back.
 
@@ -138,20 +154,20 @@ Each version is a viral reel, and your two photos replace its two cats. The move
 
 ## How does MakeViral make it, and what does it cost?
 
-Both versions take the reel itself and put the pets or the people from your two photos in place of its two cats, shot by shot. Pet uses **MiniMax H3 Max Recast**, and Human uses **Seedance 2.5**. You write no prompt.
+Both versions take the reel itself and put the pets or the people from your two photos in place of its two cats, shot by shot. Pet uses **top-quality AI video models**, and Human uses **Seedance 2.5**. You write no prompt.
 
 | | Pet | Human |
 |---|---|---|
 | Reel | @zefosik, 8 October 2026 | @fluffyfishlover, 2 October 2026 |
-| Model | MiniMax H3 Max Recast | Seedance 2.5 |
+| Model | Top-quality AI video models | Seedance 2.5 |
 | Length | 14 s | 14 s |
-| Frame | Vertical 9:16, 768p | Vertical 9:16, 720p |
+| Frame | Vertical 9:16, 720p | Vertical 9:16, 720p |
 | Sound | The reel's original song, which you can turn off | The same |
-| Time | A few minutes | Up to several minutes |
+| Time | 5 to 15 minutes | Up to several minutes |
 
-The two versions have different prices. The exact price shows on the Generate button before you spend anything, and the video waits in My videos when it is ready.
+The exact price shows on the Generate button before you spend anything, and the video waits in My videos when it is ready.
 
-**Why these models?** In the scream and the lunge, the cats' faces fill the frame. In our tests on other reels, cheaper reference models kept the reel's own characters in shots like these, so both versions copy the reel itself. Pet uses MiniMax H3 Max Recast because, in our tests on cat reels, it kept the two pets from the photos in place of the reel's two cats. Human uses Seedance 2.5 because, in our tests, it kept the faces from the photos in every shot, also in big close-ups. It puts each person in a cat's place, in the person's own clothes.
+**Why these models?** In the scream and the lunge, the cats' faces fill the frame. In our tests on other reels, cheaper reference models kept the reel's own characters in shots like these, so both versions copy the reel itself. Pet uses top-quality AI video models that copy the cat reel itself, with your two pets in place of its two cats. Human uses Seedance 2.5 because, in our tests, it kept the faces from the photos in every shot, also in big close-ups. It puts each person in a cat's place, in the person's own clothes.
 
 ## What goes wrong, and how do you fix it?
 
@@ -183,7 +199,7 @@ It is a viral AI video format from October 2026. Two cats stand upright on their
 
 ### How do I make the Smalltown Boy AI dance with my own pets?
 
-Press "Create your own" and choose Pet or Human. Add photo 1, the one who screams first, then photo 2, the one who dances behind, and press Generate. The button shows the price first. You get a 14-second vertical video with the song, in a few minutes for Pet and in up to several minutes for Human. You write no prompt.
+Press "Create your own" and choose Pet or Human. Add photo 1, the one who screams first, then photo 2, the one who dances behind, and press Generate. The button shows the price first. You get a 14-second vertical video with the song, in 5 to 15 minutes for Pet and in up to several minutes for Human. You write no prompt.
 
 ### Can I use my dog, or a cat and a dog?
 
@@ -199,11 +215,11 @@ Yes. Pick Human. It puts the two people from your photos in place of the two cat
 
 ### What is the difference between Pet and Human?
 
-Pet copies the @zefosik reel of 8 October 2026, the most viral cat version: your two pets in a bright white living room with a marble floor. Human uses the @fluffyfishlover reel of 2 October 2026, in front of a red wooden fence with ivy like the original duo clip, with two people in place of the cats. Both are 14 seconds long. Pet is made with MiniMax H3 Max Recast and Human with Seedance 2.5, so the price and the wait differ.
+Pet copies the @zefosik reel of 8 October 2026, the most viral cat version: your two pets in a bright white living room with a marble floor. Human uses the @fluffyfishlover reel of 2 October 2026, in front of a red wooden fence with ivy like the original duo clip, with two people in place of the cats. Both are 14 seconds long. Pet is made with top-quality AI video models and Human with Seedance 2.5.
 
 ### How long is the video and what format is it?
 
-14 seconds, vertical 9:16, as an MP4 file with the song: 768p for Pet and 720p for Human. It covers the second scream, the whole dance and the final lunge of the reel.
+14 seconds, vertical 9:16, as an MP4 file with the song, at 720p. It covers the second scream, the whole dance and the final lunge of the reel.
 
 ### Are the cats in the reels real?
 
@@ -219,8 +235,17 @@ No. Both reels are AI-made, and both are labeled as AI-generated on TikTok. The 
 - [AI photo generator](https://www.makeviral.ai/ai-photo-generator)
 - [All AI video templates](https://www.makeviral.ai/templates)
 
+## New AI video trends this week
+
+- [Christmas Dance AI: Do the New TikTok Christmas Dance From Your Photos](https://www.makeviral.ai/templates/christmas-dance-ai-trend): Hip sways with the hands at the collar, rolling arms, a quick spin and raised fists, side by side in matching Christmas pajamas. Add two photos for the duo, one for a solo take, or two pets, and get the dance with the sound.
+- [Cat on Ultra Bee AI: Put Your Pet on the Wheelie](https://www.makeviral.ai/templates/cat-on-ultra-bee-ai-trend): Add one photo, and your cat or dog stands on an electric dirt bike and holds a long wheelie down a city road at golden hour, in the same shots as the viral clip, with its original sound. You can take the ride yourself, too.
+- [Tus Ojos Me Reflejan el Sentimiento: The Cafuné Eye Close-Up Trend](https://www.makeviral.ai/templates/tus-ojos-me-reflejan-ai-trend): You lie on your side, a hand rests on your cheek, warm light falls on your face, and the camera slowly moves in until your eyes fill the screen while the line plays. One photo in, an 8-second vertical clip with the trend's song out.
+- [İnşallah Maşallah AI Trend: Sing Neşe Karaböcek's Song on the Couch](https://www.makeviral.ai/templates/insallah-masallah-ai-trend): You sit on a light grey couch and sing the old Turkish love song straight to the camera: a hand on the heart, a big laugh with both hands on your head, a finger pointed at the camera and a kiss at the end. One photo of you, a grandparent or your pet, and the 15-second clip comes with the song.
+- [Ice Ice Baby Dance AI: Do the Viral Duo Dance With a Friend](https://www.makeviral.ai/templates/ice-ice-baby-dance-ai): Two dancers side by side, the same bouncy 90s steps, a spin on the beat and a strut to the camera. Add a photo of you and a friend, of you alone, or of your pet, and get the dance with the sound.
+- [Save Yourself Trend: Pull Yourself Up From the Cliff](https://www.makeviral.ai/templates/save-yourself-ai-trend): One photo plays both of you: the scared you clinging to a wet sea cliff, and the calm you who reaches down, pulls you up and holds you. Or use two photos: an older photo of you and a new one, or you and a friend. 15 seconds, vertical.
+
 ## Make your own Smalltown Boy video
 
-Add two photos and press Generate. No prompt to write. 168 credits, charged once.
+Add two photos and press Generate. No prompt to write. 213 credits, charged once.
 
 [Make this video](https://www.makeviral.ai/templates/smalltown-boy-ai-dance/create)

@@ -14,7 +14,7 @@ You stand inside a steel elevator, filmed straight on. The doors slide shut, ope
 
 Also called: Elevator glow-up, Elevator outfit rotation, One elevator, four outfits, Elevator door outfit transition.
 
-**Make it now:** [Make this video](https://www.makeviral.ai/templates/elevator-outfit-change-ai-trend/create). 1 photo · 13 s · 9:16 with sound · 168 credits, charged once · ready in a few minutes · no prompt to write.
+**Make it now:** [Make this video](https://www.makeviral.ai/templates/elevator-outfit-change-ai-trend/create). 1 photo · 13 s · 9:16 with sound · 200 credits, charged once · ready in up to several minutes · no prompt to write.
 
 Keyword: elevator outfit change. Also answers: elevator fit check, elevator outfit check, elevator outfit, elevator outfits, elevator outfit transition, elevator transition, elevator fits, elevator trend ai, ai elevator trend, elevator outfit change ai, elevator transition video, elevator door transition, elevator trend tiktok, elevator trend capcut, elevator door transition in capcut, elevator trend prompt, elevator fashion, elevator fashion show, elevator fashion editorial, elevator looks, lift outfit check, lift fit check, elevator transition reel, ai elevator video, elevator outfit ideas, elevator lookbook.
 
@@ -50,8 +50,8 @@ Everything runs in the browser. No editing app, no watermark.
 ### The one-tap way (no prompt to write)
 
 1. **Add your photo.** Press "Make yours" and add you, face clear. Take it with the camera or pick it from your library. Start here: https://www.makeviral.ai/templates/elevator-outfit-change-ai-trend/create
-2. **Press Generate.** The button shows the price. Genjutsu Motion puts your photos into the Elevator outfits trend clip and copies it shot by shot for 13 seconds, with the reel's original song. You write no prompt.
-3. **Download or share.** The video is ready in a few minutes as a 9:16 MP4. Download it, share it from your phone, or find it later in My videos.
+2. **Press Generate.** The button shows the price. Seedance 2.5 puts your photos into the Elevator outfits trend clip and copies it shot by shot for 13 seconds, with the reel's original song. You write no prompt.
+3. **Download or share.** The video is ready in up to several minutes as a 9:16 MP4. Download it, share it from your phone, or find it later in My videos.
 
 ### The by-hand way, with the exact prompts
 
@@ -59,12 +59,20 @@ The one-tap flow runs this prompt for you. The video prompt animates your own ph
 
 #### Variant: Women's looks
 
-Settings: 1 photo (you, face clear) · genjutsu-motion · 13 s · 480p · 9:16 · no sound · 168 credits in one tap.
+Settings: 1 photo (you, face clear) · Seedance 2.5 · 13 s · 720p · 9:16 · no sound · 200 credits in one tap.
 
-1. The video prompt is filled in. Settings: genjutsu-motion, 13 s, 480p, 9:16, sound off. The video prompt:
+1. The video prompt is filled in. Settings: Seedance 2.5, 13 s, 720p, 9:16, sound off. The video prompt:
 
    ```text
-   Replace the young woman with long straight brown hair who stands and poses inside the steel elevator with the person from image 1: keep that face, hair and skin tone exactly, in every outfit, also in the first second when she turns from the back. Take only the face, hair and skin tone from image 1, never the clothes: in every shot the person wears the gown of the video. Keep every gown, every outfit change hidden by the closing elevator doors, the steel doors, the mirrored steel walls, the ceiling lights, the light, the motion and the camera of the video.
+   Recreate the reference video [Video 1] shot for shot: the same still camera in front of the open steel elevator, the same mirrored steel walls and ceiling lights, the same doors that close and open again, the same person who stands and poses inside, the same light, framing, timing and moves. The ONLY change is the face and the hair of the young woman with long straight brown hair who stands and poses inside the steel elevator: they are now the face and the hair of the person in [Image 1], in every look.
+
+The person = the person in [Image 1], in EVERY shot and in EVERY look: copy the exact face from [Image 1] (the face shape, eye color and eye shape, eyebrows, nose, mouth, skin tone, age, hair color, hair length and hairstyle, and any beard, moustache, glasses or freckles), so their friends recognize them at once. [Image 1] is only a head-and-shoulders portrait: take ONLY the face, the hair and the skin tone from it, never its plain black t-shirt and never its grey background. The same real person in every look, from the first frame to the last, also right after each door close and when the face is small or turned away. Never morph, never drift back to the original woman's face or hair.
+
+Every outfit stays exactly as in [Video 1]: the same clothes, shoes, bags and accessories, the same fit, in the same order, and each outfit change at the same moment as in [Video 1]. NO black t-shirt from [Image 1] in any look. NO long straight brown hair unless [Image 1] shows it: the hair is the hair from [Image 1] in every look, also in the first half second, when the person turns from the back. Every reflection in the mirrored walls shows the same person with the same face.
+
+The looks, at the times of [Video 1]: look 1 at 0-4.5 s (the person turns from the back in the first half second), the doors close and open 4.5-5.5 s, look 2 at 5.5-7.5 s, the doors 7.5-8.5 s, look 3 at 8.5-11.0 s, the doors 11.0-11.8 s, look 4 at 11.8-13 s. Each outfit change happens only while the closed doors hide the person: the doors close completely, then open again on the next look, and the person stands in the same spot before and after, with no jump. No glow, no particles, no dissolve, no flash. Never mix pieces of two looks.
+
+Anatomy rules: exactly one person, one head on that person's shoulders, two arms, two legs, five fingers on each hand. A face never appears on hands, clothes or the floor. No text, no captions, no logos, no watermark.
    ```
 
 2. Press Generate, then download the 9:16 MP4.
@@ -73,12 +81,20 @@ One-tap version of this variant: https://www.makeviral.ai/templates/elevator-out
 
 #### Variant: Men's looks
 
-Settings: 1 photo (you, face clear) · genjutsu-motion · 13 s · 480p · 9:16 · no sound · 168 credits in one tap.
+Settings: 1 photo (you, face clear) · Seedance 2.5 · 13 s · 720p · 9:16 · no sound · 200 credits in one tap.
 
-1. The video prompt is filled in. Settings: genjutsu-motion, 13 s, 480p, 9:16, sound off. The video prompt:
+1. The video prompt is filled in. Settings: Seedance 2.5, 13 s, 720p, 9:16, sound off. The video prompt:
 
    ```text
-   Replace the young man with short dark hair, a dark cap and tinted glasses who stands inside the steel elevator with the person from image 1: keep that face, hair and skin tone exactly, in every outfit, also when he walks out toward the camera at the end. Take only the face, hair and skin tone from image 1, never the clothes: in every shot the person wears the outfit of the video. Glasses only if image 1 shows glasses. Keep every outfit, every outfit change hidden by the closing elevator doors, the black bag, the steel doors and walls, the curved light strips, the light, the motion and the camera of the video.
+   Recreate the reference video [Video 1] shot for shot: the same still camera in front of the elevator, the same brushed steel doors and walls and curved light strips, the same black bag, the same doors that close and open again, the same person who stands inside and walks out toward the camera at the end, the same light, framing, timing and moves. The ONLY change is the face and the hair of the young man with short dark hair, a dark cap and tinted glasses who stands inside the steel elevator: they are now the face and the hair of the person in [Image 1], in every look.
+
+The person = the person in [Image 1], in EVERY shot and in EVERY look: copy the exact face from [Image 1] (the face shape, eye color and eye shape, eyebrows, nose, mouth, skin tone, age, hair color, hair length and hairstyle, and any beard, moustache, glasses or freckles), so their friends recognize them at once. [Image 1] is only a head-and-shoulders portrait: take ONLY the face, the hair and the skin tone from it, never its plain black t-shirt and never its grey background. The same real person in every look, from the first frame to the last, also right after each door close and when the face is small or turned away. Never morph, never drift back to the original man's face or hair.
+
+Every outfit stays exactly as in [Video 1]: the same clothes, shoes, bags and accessories, the same fit, in the same order, and each outfit change at the same moment as in [Video 1]. NO black t-shirt from [Image 1] in any look. NO tinted glasses: no glasses of any kind unless [Image 1] shows glasses. NO short dark hair unless [Image 1] shows it: the caps of the looks stay as in [Video 1], with the hair from [Image 1] under them. The same face also in the walk to the camera at the end, where the face is big.
+
+The looks, at the times of [Video 1]: look 1 at 0-3.2 s, the doors close and open 3.2-5.0 s, look 2 at 5.0-8.2 s, the doors 8.2-10.2 s, look 3 from 10.2 s to the end, and from 11.0 s the person walks out toward the camera. Each outfit change happens only while the closed doors hide the person: the doors close completely, then open again on the next look, and the person stands in the same spot before and after, with no jump. No glow, no particles, no dissolve, no flash. Never mix pieces of two looks.
+
+Anatomy rules: exactly one person, one head on that person's shoulders, two arms, two legs, five fingers on each hand. A face never appears on hands, clothes or the floor. No text, no captions, no logos, no watermark.
    ```
 
 2. Press Generate, then download the 9:16 MP4.
@@ -101,7 +117,7 @@ You pay per video in credits, and the create page shows the exact price on the G
 
 | Video model | Settings | Credits |
 | --- | --- | --- |
-| Genjutsu Motion (this template) | 13 s, 480p, copies the trend clip, one tap | 168 |
+| Seedance 2.5 (this template) | 13 s, 720p, copies the trend clip, one tap | 200 |
 
 Credits come with a plan; see [pricing](https://www.makeviral.ai/pricing). A failed video gives its credits back.
 
@@ -109,7 +125,7 @@ Credits come with a plan; see [pricing](https://www.makeviral.ai/pricing). A fai
 
 The elevator doors are the edit. The camera stands still outside the elevator and films you full length inside it. The doors slide shut, and for a moment you are gone behind the steel. That is where the cut hides: when the doors open again, you stand in the same spot in a new outfit. It is the elevator outfit transition that fashion creators film floor by floor, one take per look, and that brands now use as an elevator fashion show.
 
-MakeViral has two versions. **Women's looks** copies @karolvidaldiaz's elevator fit check from 12 August 2025: 13 seconds, four evening gowns, three door closes. **Men's looks** copies @fabianparks's AI elevator reel from 12 October 2026: 13 seconds, three outfits, two door closes, and at the end you walk out of the elevator toward the camera. First Nano Banana 2.1 makes a close portrait from your photo, so only your face and hair go into the reel. Then Higgsfield Genjutsu puts you in place of the person in the reel, shot by shot, so every door closes and every outfit changes exactly where it does in the original. Your face, hair and skin tone come from your photo. The outfits, the elevator and the camera come from the reel.
+MakeViral has two versions. **Women's looks** copies @karolvidaldiaz's elevator fit check from 12 August 2025: 13 seconds, four evening gowns, three door closes. **Men's looks** copies @fabianparks's AI elevator reel from 12 October 2026: 13 seconds, three outfits, two door closes, and at the end you walk out of the elevator toward the camera. First Nano Banana 2.1 makes a close portrait from your photo, so only your face and hair go into the reel. Then Seedance 2.5 puts you in place of the person in the reel, shot by shot, so every door closes and every outfit changes exactly where it does in the original. Your face, hair and skin tone come from your photo. The outfits, the elevator and the camera come from the reel.
 
 With **Your outfits** you write your own look for any of the outfits. MakeViral first changes those looks in the reel itself (FLUX.3 Edit Video), so the new outfits still appear behind the doors, and then puts you in. It is an elevator fashion editorial without the building, the camera or the changes of clothes.
 
@@ -144,7 +160,7 @@ To use a trending sound, add it in TikTok, Instagram or YouTube when you post, f
 
 ## What can go wrong, and how do you fix it?
 
-These versions are new, and we have not run them with test photos yet. They use the same setup as our ceiling fan template, which kept the person the same in every look in our tests. These are the problems to look out for:
+These versions are new, and we have not run them with test photos yet. They use the same setup as our ceiling fan template: a close portrait of you first, then Seedance 2.5 copies the reel. These are the problems to look out for:
 
 | What goes wrong | Why | What to do |
 |---|---|---|
@@ -152,7 +168,6 @@ These versions are new, and we have not run them with test photos yet. They use 
 | Tinted glasses appear in the men's looks | The man in the reel wears them in every look | Run it again, or use the women's looks with outfits of your own. |
 | The last gown is short | In the women's reel the fourth look shows for about a second | That is the reel's timing. Write your strongest look as outfit 2 or 3. |
 | An outfit detail differs from the reel | The model redraws the clothes on your body | That is normal. The cut and the colors stay close to the reel. |
-| The clip looks soft on a big screen | Genjutsu makes 480p video | It is made for a phone screen, where 480p looks fine. |
 | A written outfit looks a little different from your words | The model draws the look in the reel's pose and light | Name fewer things, for example a color and one piece of clothing, and run it again. |
 
 ## Elevator Outfits trend questions
@@ -187,7 +202,7 @@ Yes. Men's looks copies @fabianparks's AI elevator reel: a trench coat with a ti
 
 ### How long is the video?
 
-13 seconds, vertical 9:16 at 480p, with the reel's original sound. It takes a few minutes, and you can leave the page while it runs: the finished clip waits in My videos.
+13 seconds, vertical 9:16 at 720p, with the reel's original sound. It takes 5 to 15 minutes, and you can leave the page while it runs: the finished clip waits in My videos.
 
 ### Does the elevator outfit video cost credits?
 
@@ -207,8 +222,17 @@ Yes. The MP4 has no watermark, so you can post it to TikTok, Reels or Shorts as 
 - [AI photo generator](https://www.makeviral.ai/ai-photo-generator)
 - [All AI video templates](https://www.makeviral.ai/templates)
 
+## New AI video trends this week
+
+- [Christmas Dance AI: Do the New TikTok Christmas Dance From Your Photos](https://www.makeviral.ai/templates/christmas-dance-ai-trend): Hip sways with the hands at the collar, rolling arms, a quick spin and raised fists, side by side in matching Christmas pajamas. Add two photos for the duo, one for a solo take, or two pets, and get the dance with the sound.
+- [Cat on Ultra Bee AI: Put Your Pet on the Wheelie](https://www.makeviral.ai/templates/cat-on-ultra-bee-ai-trend): Add one photo, and your cat or dog stands on an electric dirt bike and holds a long wheelie down a city road at golden hour, in the same shots as the viral clip, with its original sound. You can take the ride yourself, too.
+- [Tus Ojos Me Reflejan el Sentimiento: The Cafuné Eye Close-Up Trend](https://www.makeviral.ai/templates/tus-ojos-me-reflejan-ai-trend): You lie on your side, a hand rests on your cheek, warm light falls on your face, and the camera slowly moves in until your eyes fill the screen while the line plays. One photo in, an 8-second vertical clip with the trend's song out.
+- [İnşallah Maşallah AI Trend: Sing Neşe Karaböcek's Song on the Couch](https://www.makeviral.ai/templates/insallah-masallah-ai-trend): You sit on a light grey couch and sing the old Turkish love song straight to the camera: a hand on the heart, a big laugh with both hands on your head, a finger pointed at the camera and a kiss at the end. One photo of you, a grandparent or your pet, and the 15-second clip comes with the song.
+- [Ice Ice Baby Dance AI: Do the Viral Duo Dance With a Friend](https://www.makeviral.ai/templates/ice-ice-baby-dance-ai): Two dancers side by side, the same bouncy 90s steps, a spin on the beat and a strut to the camera. Add a photo of you and a friend, of you alone, or of your pet, and get the dance with the sound.
+- [Save Yourself Trend: Pull Yourself Up From the Cliff](https://www.makeviral.ai/templates/save-yourself-ai-trend): One photo plays both of you: the scared you clinging to a wet sea cliff, and the calm you who reaches down, pulls you up and holds you. Or use two photos: an older photo of you and a new one, or you and a friend. 15 seconds, vertical.
+
 ## Make your own Elevator Outfits video
 
-Add one photo and press Generate. No prompt to write. 168 credits, charged once.
+Add one photo and press Generate. No prompt to write. 200 credits, charged once.
 
 [Make this video](https://www.makeviral.ai/templates/elevator-outfit-change-ai-trend/create)

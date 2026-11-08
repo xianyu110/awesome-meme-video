@@ -1,0 +1,85 @@
+# Diwali Transition AI: Your Dupatta Twirl Into a Sky of Fireworks
+
+- Source: [makeviral](https://www.makeviral.ai/templates/diwali-fireworks-ai-transition)
+- Slug: `diwali-fireworks-ai-transition`
+
+The Diwali transition is the viral Diwali 2026 reel where a woman swirls a sheer red dupatta in front of the camera in daylight, and the dupatta whips away into a night sky full of golden fireworks while she twirls.
+
+## Demo videos (CDN)
+
+- https://www.makeviral.ai/media/templates/diwali-fireworks-ai-transition/original-result-v3.mp4
+
+## Posters
+
+- https://www.makeviral.ai/media/templates/diwali-fireworks-ai-transition/original-result-v1.jpg
+
+## Prompts
+
+### 1. 1. The video prompt is filled in. Settings: Seedance 2.5, 8 s, 720p, 9:16, sound off. The video prompt
+
+*Kind: video_prompt*
+
+```text
+Recreate [Video 1] shot for shot, with the same cuts, timing, camera and fireworks. The ONLY change: the young woman is now the person in [Image 1].
+
+A seamless 8-second high-definition, cinematic 9:16 vertical video recreating the exact motion, timing, and sequence of [Video 1], but replacing the subject's face entirely with the facial features, skin tone, and identity from [Image 1]. Maintain 100% fidelity to the original background, clothing, lighting, and camera transitions:
+Seconds 0-0.5: Daytime, open field with clear blue sky. A young Indian woman wearing an ivory-peach traditional anarkali dress with embroidered gold accents and a sheer bright red dupatta. She holds the edges of the red dupatta, smiling and swirling it dynamically directly in front of the camera lens, covering the frame for a smooth match-cut transition.
+Seconds 0.5-4.4: The red dupatta whips away in a seamless transition into night. She is facing away from the camera, wearing an elegant ivory/off-white anarkali gown with golden gotta-patti border, holding a matching ethnic potli purse. She twirls smoothly under a pitch-black night sky filled with spectacular, vibrant golden firework bursts and crackling sparks. Warm rim-lighting contours her back and hair.
+Seconds 4.4-6.5: Mid-twirl, she turns upwards with pure joy and laughter, looking at the dazzling fireworks exploding overhead. The intense golden embers, sparkle fountains, and bokeh lights illuminate her face from above and behind. Her red dupatta trails gracefully in the air.
+Seconds 6.5-8: Completing the spin, she glances back over her shoulder directly into the camera lens with a radiant, confident smile, head slightly tilted. Dense, sparkling golden fireworks continue to explode directly behind her in the dark sky, creating warm festive bokeh and realistic atmospheric haze.
+Technical Specs & Style: Photorealistic, 4K resolution, cinematic slow-motion effect (60fps feel), natural hair physics during twirl, precise face-swap from [Image 1] with accurate micro-expressions and eye line, warm festive lighting, highly detailed fabric textures.
+
+The dancer = the person in [Image 1], in EVERY shot: copy the exact face from [Image 1] - the face shape, eye color and eye shape, eyebrows, nose, mouth, skin tone, age, hair color, hair length and hairstyle, and any beard, moustache, glasses or freckles exactly as in the photo. The dancer keeps the anarkali, the red dupatta and the potli purse of [Video 1], never the clothes from [Image 1]. If [Image 1] shows a man, he wears an ivory gold-embroidered kurta with the red dupatta as a stole. The same real person in every frame, also in the back views and when the dupatta crosses the face, so their friends recognize them at once. Never morph, never drift back to the original woman's face.
+
+No dialogue throughout the entire video. No background music.
+
+Anatomy rules: one head only, on the dancer's shoulders. Two arms, five fingers on each hand. Exactly one person. No text, no logos, no watermark.
+```
+
+### 2. 1. The video prompt is filled in. Settings: Seedance 2.5, 10 s, 720p, 9:16, sound on. The video prompt
+
+*Kind: video_prompt*
+
+```text
+Cinematic, photorealistic, handheld smartphone-style camera feel with gentle natural movement.
+
+CHARACTERS (keep identical in every frame): the woman is the person in [Image 1]: the exact face, skin tone, age, hair and any glasses from [Image 1]. She wears a flowing deep crimson-red sheer chiffon saree-style gown with a long loose dupatta-like drape that billows and floats when she moves.
+The man is the person in [Image 2]: the exact face, skin tone, age, hair, any beard and glasses from [Image 2]. He wears a dark maroon-black short kurta and loose off-white / cream flared trousers.
+They are a romantic couple, in a joyful, intimate, Diwali celebration mood. Never blend their faces. Each face stays the same from the first frame to the last, warm-lit by the fireworks and clearly visible, so their friends recognize them at once.
+
+LOCATION: A rooftop terrace at night during Diwali. A low cream-coloured parapet wall in the background, and a dark night sky full of tiny twinkling sparks. A few small red and orange diya lights glow on the ground.
+
+LIGHTING AND COLOR GRADE (must stay the same throughout the whole clip): Dark night scene, warm golden-amber glow from fireworks on the ground, deep teal-black sky, soft white-gold sparks, thick drifting white-grey firework smoke that catches the light and creates glowing haze and strong backlight. Warm orange-gold highlights on the floor, cinematic contrast, slight film grain, soft bloom. Do not change the color tone, time of day or lighting between shots.
+
+STRICT RULES:
+- NO lip-sync. NO talking, NO singing, NO mouth movement for speech. Mouths stay natural and closed or relaxed with only soft smiles.
+- NO text, NO captions, NO subtitles, NO watermark, NO logo, NO words anywhere on the screen.
+- No extra people, no cuts to other locations.
+- Audio: only natural fireworks crackle, soft fizzing sparks, light fabric rustle and gentle night ambience. No speech, no lyrics.
+
+CLIP (10 seconds): Dance and twirl beside the sparkling firework fountain
+0-3s: Full-body shot from the knees up from a stable handheld angle. A tall silver-white sparkling firework fountain erupts on the left side of the terrace, shooting glittering sparks high into the dark sky. The woman in the red gown and the man in the dark kurta stand close in front of it, glowing in warm light. The man lifts his hand and the woman spins gracefully under his raised arm, her red gown flaring out in a wide circle and her long hair flying.
+3-7s: He draws her back in, holds her at the waist and they sway and dance together in a smooth romantic rhythm. Her red drape floats and trails in the air with each step. White smoke swirls around their feet and the sparks keep raining softly behind them. Camera slowly drifts a little to the right, keeping both of them fully in frame.
+7-10s: The woman turns toward the camera, the red gown swirling, and the man moves close behind her, both smiling. A soft warm flash from the firework lights up the smoke and their faces. The camera holds steady, ending on the couple surrounded by glowing smoke and falling sparks.
+```
+
+### 3. 1. The video prompt is filled in. Settings: Seedance 2.5, 8 s, 720p, 9:16, sound off. The video prompt (Pet)
+
+*Kind: video_prompt*
+
+```text
+Recreate the reference video [Video 1] shot for shot: the same daytime-to-night dupatta transition under golden fireworks, the same camera, cuts, timing and moves. The ONLY change: the young woman in the ivory anarkali is now the pet in [Image 1].
+
+The pet = the pet in [Image 1], in EVERY shot: the same species and breed, face, eyes, ears, muzzle, fur colors, fur length and markings as in [Image 1], with the natural body volume and proportions of that animal: never flattened, squashed, stretched or merged with anything. Whether [Image 1] shows a dog, a cat or another animal, it stays that animal. It stands upright on its hind legs where the woman stands, in a small ivory anarkali with a golden border sized to its own body, and the sheer bright red dupatta over its shoulders swirls and trails exactly as the dupatta does in [Video 1]. It never becomes a person: no human face, no human hands, no human hair. The same pet in every frame, also in the back views, so its owner recognizes it at once.
+
+The beats, as in [Video 1]:
+Seconds 0-0.5: daytime, open field with clear blue sky: the pet swirls the red dupatta directly in front of the camera lens, covering the frame for a smooth match-cut transition.
+Seconds 0.5-4.4: the red dupatta whips away into night: the pet, its back to the camera, twirls under a pitch-black sky full of vibrant golden firework bursts and crackling sparks, warm rim light on its fur.
+Seconds 4.4-6.5: mid-twirl, it looks up at the fireworks overhead with a happy face, golden embers and bokeh lights glowing on it from above and behind, the red dupatta trailing in the air.
+Seconds 6.5-8: it completes the spin and glances back over its shoulder at the camera, dense golden fireworks behind it in the dark sky.
+
+Photorealistic, cinematic slow motion, natural fur physics during the twirl, warm festive lighting, highly detailed fabric textures. No dialogue throughout the entire video. No background music.
+
+Anatomy rules: one head only, one muzzle, natural teeth and tongue. Four legs with animal paws, never human hands. Exactly one animal, no people. No text, no logos, no watermark.
+```
+

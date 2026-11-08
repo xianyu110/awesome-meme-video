@@ -1,0 +1,71 @@
+# Then I Walk In Meme: Make It With Your Own Walk-In
+
+- Source: [makeviral](https://www.makeviral.ai/templates/then-i-walk-in-ai-trend)
+- Slug: `then-i-walk-in-ai-trend`
+
+The Then I walk in meme is a TikTok trend from autumn 2026: someone sets up a moment (a date, a party, a girl's list of her type) and the answer is a confident clip of themselves under the words "Then I walk in." Here you get your own walk-in from one clear photo of you or your pet.
+
+## Demo videos (CDN)
+
+- https://www.makeviral.ai/media/templates/then-i-walk-in-ai-trend/original-main-v2.mp4
+
+## Posters
+
+- https://www.makeviral.ai/media/templates/then-i-walk-in-ai-trend/original-main-v1.jpg
+
+## Prompts
+
+### 1. 1. The video prompt is filled in. Settings: Seedance 2.5, 8 s, 720p, 9:16, sound off. The video prompt
+
+*Kind: video_prompt*
+
+```text
+Recreate the reference video [Video 1] shot for shot: the same selfie video filmed with the front phone camera held out at arm's length while walking forward, the same wet paved path beside a red-brick building with white-framed windows, green bushes and trees, the same grey, overcast daylight, the same framing from the top of the head to the chest, the same timing and moves, one continuous handheld take that sways gently with each step. Keep the white caption text "then i walk in" at the top exactly as in the video, the same words, font, size and place, in every frame. The ONLY change: the young man with the messy blond hair, the red short-sleeved shirt and the black backpack who walks and stares into the camera is now the person in [Image 1].
+
+The person = the person in [Image 1], in every frame: copy the exact face from [Image 1]: face shape, eye color and eye shape, eyebrows, nose, mouth, skin tone, age, hair color, hair length and hairstyle, and any beard, moustache, glasses or freckles exactly as in the photo. The same real person in every frame, from the first second to the last, so their friends instantly recognize them, also when the head tilts and the eyes narrow. Never morph, never drift back to the original man's face, never add or remove facial hair. NO messy blond hair, NO heavy makeup, NO blush, NO contour, NO drawn-on dark eyebrows, NO pearl earrings and NO necklace unless [Image 1] shows them. They wear the clothes from [Image 1], never the red shirt or the black backpack of the original video; if [Image 1] shows only the head, invent the rest so it matches naturally.
+
+The moves, matching the reference second by second:
+0-3 s: walks forward along the path with a calm, serious, self-assured face, looking straight into the lens, lips closed.
+3-6 s: keeps walking; tilts the head a little to one side and lowers the chin a touch: a cool, smoldering model stare.
+6-8 s: still walking, the eyes narrow a little and the eyebrows lift slightly; deadpan to the end, never smiles, never talks.
+
+Anatomy rules: one head only, on the person's own shoulders. Two arms and two hands with five fingers each; one arm holds the phone outside the frame. No other text besides the caption, no logos, no watermark, no extra people.
+```
+
+### 2. 1. The video prompt is filled in. Settings: Seedance 2.5, 8 s, 720p, 9:16, sound on. The video prompt
+
+*Kind: video_prompt*
+
+```text
+A dramatic slow-motion entrance clip, photorealistic, vertical 9:16, cinematic like a film scene: the person walks in through a pair of double doors, and the whole room turns to stare.
+
+The person is the one in [Image 1], in every frame: copy the exact face from [Image 1] (the face shape, eye color and eye shape, eyebrows, nose, mouth, skin tone, age, hair color, hair length and hairstyle, and any beard, moustache, glasses or freckles), so their friends recognize them at once. The face stays the same from the first frame to the last. Never morph. They wear the clothes from [Image 1], with their own hair. If [Image 1] shows an animal, the subject is that animal, walking in on its own legs, with its own face, fur and markings.
+
+The place: a big, warmly lit living room at a busy evening party, adults chatting in small groups with drinks in hand, seen from inside the room toward a pair of tall white double doors.
+
+0-2 s: the room buzzes with chatter; the double doors swing open and bright light spills in around the person standing in the doorway.
+2-5 s: in slow motion, the person walks in toward the camera with a calm, confident stride, the hair lifting in a soft breeze, chin up, a cool look straight ahead; the guests nearest the door stop talking and turn their heads to stare, one after another.
+5-7 s: the camera glides back in front of them, a medium shot from the knees up, the face large and sharp; the whole room has gone still and stares, one guest lowers a glass, two others whisper.
+7-8 s: the person stops, looks straight into the lens with a small, sure smirk, and the frame holds.
+
+Audio: party chatter and the doors opening, then the chatter drops away under a slow, heavy, dramatic beat and footsteps on the floor. No singing, no words.
+
+The person from [Image 1] is the only one who walks in; the guests are strangers with their own ordinary faces, never a copy of the person's face. Anatomy: two arms, two hands with five fingers each. No text, no subtitles, no logos, no watermark.
+```
+
+### 3. 1. Open [AI Photo with this template](https://www.makeviral.ai/photo?template=then-i-walk-in-ai-trend&variant=pet) and add your photo (your pet, whole body). The photo prompt is filled in (Pet)
+
+*Kind: photo_prompt*
+
+```text
+Use the uploaded image as the base. 9:16 vertical photo, a cinematic film still. The pet from the uploaded image stands in the open doorway of a pair of tall white double doors with bright light behind it, at the entrance of a big, warmly lit living room at a busy evening party; guests in the foreground turn their heads toward the door. The pet faces the camera, head up, with a proud, confident look, its whole body in view, with the natural body volume and proportions of that animal. Photorealistic. Exactly one animal. No text, no logos, no watermark.
+```
+
+### 4. 3. Press the film button on the still to open AI Video with the still as the first frame. Settings: Kling 3.0, 8 s, 1080p, 9:16, sound on. The video prompt
+
+*Kind: video_prompt*
+
+```text
+Keep the pet's face, eyes, ears, fur colors, markings and body exactly as in the image, with the natural body volume and proportions of that animal. A dramatic slow-motion entrance. 0-3 s: in slow motion the pet walks in through the double doors on all four legs, head high, toward the camera, the fur lifting in a soft breeze. 3-6 s: the guests stop talking and turn to stare at the pet, one after another; one lowers a glass, two whisper. 6-8 s: the pet stops, sits, and looks straight into the lens with a proud face, and the frame holds. Audio: party chatter that drops away under a slow, heavy, dramatic beat, soft paw steps. No words. Exactly one animal walks in, on four legs, never like a person. No extra legs, no morphing. No text, no logos, no watermark.
+```
+

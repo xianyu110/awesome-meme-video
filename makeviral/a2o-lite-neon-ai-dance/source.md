@@ -16,7 +16,7 @@ Also called: A20 LITE NEON dance, NEON duo intro, A2O MEOW, A2O LITE NEON challe
 
 **Make it now:** [Make this video](https://www.makeviral.ai/templates/a2o-lite-neon-ai-dance/create). 2 photos · 15 s · 9:16 with sound · 228 credits, charged once · ready in up to several minutes · no prompt to write.
 
-Keyword: a2o lite neon. Also answers: a2o lite neon dance, a2o lite neon ai dance, a2o lite neon ai, neon a2o lite, a20 lite neon, ai cat dance, ai dance video, neon dance, ai dance trend, neon dance challenge, a2o lite ai, a2o neon, neon a2o, a2o lite neon intro, neon intro dance, a2o lite neon choreography, a2o lite neon choreographer, a2o lite neon dance tutorial, a2o lite neon dance challenge, a2o lite neon tiktok, neon dance trend, neon dance tiktok, neon tiktok dance, a2o lite dance, neon a2o lite dance, neon ai dance, neon dance ai, a2o lite neon dance ai, a2o lite neon cat, neon cat dance, neon duo dance, ai duo dance, couple dance ai, neon dance cover, a2o lite neon dance cover, neon dance tutorial, a2o lite neon dance practice, neon kpop song, neon kpop, ai kpop dance, kpop dance ai, kpop ai dance video, neon dance challenge tiktok.
+Keyword: a2o lite neon. Also answers: a2o lite neon dance, a2o lite neon ai dance, a2o lite neon ai, neon a2o lite, a20 lite neon, ai cat dance, ai dance video, neon dance, ai dance trend, neon dance challenge, a2o lite neon ai prompt, a2o lite ai dance, a20 lite neon dance ai, a2o lite ai, a2o neon, neon a2o, a2o lite neon intro, neon intro dance, a2o lite neon choreography, a2o lite neon choreographer, a2o lite neon dance tutorial, a2o lite neon dance challenge, a2o lite neon tiktok, neon dance trend, neon dance tiktok, neon tiktok dance, a2o lite dance, neon a2o lite dance, neon ai dance, neon dance ai, a2o lite neon dance ai, a2o lite neon cat, neon cat dance, neon duo dance, ai duo dance, couple dance ai, neon dance cover, a2o lite neon dance cover, neon dance tutorial, a2o lite neon dance practice, neon kpop song, neon kpop, ai kpop dance, kpop dance ai, kpop ai dance video, neon dance challenge tiktok.
 
 ## What is the NEON Duo Dance trend, and where did it start?
 
@@ -107,12 +107,28 @@ One-tap version of this variant: https://www.makeviral.ai/templates/a2o-lite-neo
 
 #### Variant: Pet
 
-Settings: 2 photos (pet 1, on the left + pet 2, on the right) · h3-recast · 15 s · 720p · 9:16 · no sound · 180 credits in one tap.
+Settings: 2 photos (pet 1, on the left + pet 2, on the right) · Seedance 2.5 · 15 s · 720p · 9:16 · no sound · 228 credits in one tap.
 
-1. The video prompt is filled in. Settings: h3-recast, 15 s, 720p, 9:16, sound off. The video prompt:
+1. The video prompt is filled in. Settings: Seedance 2.5, 15 s, 720p, 9:16, sound off. The video prompt:
 
    ```text
-   Image 1 replaces the cat who dances upright on the left, in every shot. Image 2 replaces the cat who dances upright on the right, in every shot. Use image 1 and image 2 as the appearance references for the two performers in the dance: keep each pet's face shape, ears, fur colors, fur length, markings, body proportions and screen position consistent; do not swap roles or merge identities. SAME IDENTITY. FIXED POSITIONS. NO ROLE SWAP. NO DUPLICATE. Each pet keeps its own head shape, ears, fur length and coat from its own image, not those of the cats in the video. Each pet keeps the natural body volume and proportions of its own animal: never flattened, squashed, stretched or merged with anything, with real furry paws, never human hands. If an image shows a dog or another animal, that animal takes the same place, standing upright on its hind legs and doing the same moves. Keep the plain lavender studio, the light, the dance moves, the paw moves, the motion and the camera exactly as in the video. Avoid extra animals, extra legs, foot sliding and background drift.
+   Recreate the reference video [Video 1] shot for shot: the same plain lavender studio and floor, the same soft light, the same single camera with its push-ins and pull-backs, the same framing, timing and dance moves. The ONLY change: the cat who dances upright on the left is now the pet in [Image 1], and the cat who dances upright on the right is now the pet in [Image 2]. Both change: no cat from the video stays, not its head, ears, body or coat.
+
+The pet on the left = the pet in [Image 1], whole body, in EVERY frame: the same species and breed, head shape, face shape, muzzle, eyes, eye color, ear size and shape, fur colors, fur length and markings as in [Image 1], with the natural body volume, size and proportions of that animal: never flattened, squashed, stretched or merged with anything.
+
+The pet on the right = the pet in [Image 2], whole body, in EVERY frame, also when it spins, jumps close to the camera and drops to the floor: the same species and breed, head shape, face shape, muzzle, eyes, eye color, ear size and shape, fur colors, fur length and markings as in [Image 2], with the natural body volume, size and proportions of that animal: never flattened, squashed, stretched or merged with anything.
+
+Each pet keeps its own face shape: a flat round face stays flat and round with small round ears, a long face stays long. NO tall pointed ears with tufted tips and no long narrow face unless the photo shows them. A long-haired pet stays long-haired and fluffy, a short-haired pet stays short-haired: fur length, fluff and body size never come from the cats in the video. Each coat is not the coat of the cat in the video: the colors and pattern come only from the pet's own photo, the same on the head, chest, belly, legs and tail. The same two pets from the first second to the last, so their owners instantly recognize them. Never morph, never drift back to the cats of the video. Do not mix the two pets: [Image 1] is only the pet on the left, [Image 2] is only the pet on the right. If a photo shows a dog or another animal, that animal takes the same place, upright on its hind legs, with the same moves.
+
+The dance, one continuous take, matching the reference second by second:
+[0-2 s]: wide, side by side, upright, they sway with the front paws at the chest.
+[2-5 s]: the camera moves in; both point their front paws to the side, then turn sideways and step, tails swinging.
+[5-8 s]: the pet on the right spins with its back to the camera, then leaps toward the camera and fills the right half of the frame.
+[8-12 s]: they split apart, front legs out wide; the pet on the left raises one front paw high.
+[12-13 s]: the pet on the right drops low to the floor on all four legs, the pet on the left stands tall, one paw up.
+[13-15 s]: both stand upright again and spread their front legs wide, facing the camera.
+
+Anatomy rules: one head per pet, on its own body, one tail each. Real round furry paws, no fingers, no thumbs, no human hands. Exactly two animals. No people, no extra animals, no text, no logos, no watermark. No dialogue throughout the entire video. No background music.
    ```
 
 2. Press Generate, then download the 9:16 MP4.
@@ -161,12 +177,12 @@ Press "Create your own" and pick one, or press the button under its reel on this
 | | Duo (default) | Solo | Pet |
 |---|---|---|---|
 | Photos | 2: you on the left, a friend on the right | 1: you | 2: two pets |
-| How it works | Seedance 2.5 puts the two of you into a real duo cover, in place of its dancers | Kling 3.0 Motion Control takes only the moves of a solo cover and plays them with you | MiniMax H3 Max Recast puts your pets into the AI cat duo reel, in place of its two cats |
+| How it works | Seedance 2.5 puts the two of you into a real duo cover, in place of its dancers | Kling 3.0 Motion Control takes only the moves of a solo cover and plays them with you | Top-quality AI video models put your pets into the AI cat duo reel, in place of its two cats |
 | Where you dance | A glass-roofed atrium, filmed from the floor | Your photo's own place | A plain lavender studio |
-| Frame | Vertical 9:16, 720p | Your photo's frame, 720p | Wide 16:9, 768p |
+| Frame | Vertical 9:16, 720p | Your photo's frame, 720p | Wide 16:9, 720p |
 | Length | 15 s | 15 s | 15 s |
 | Sound | The song, put back on after the run; you can turn it off | The same | The same |
-| Time | Up to several minutes | A few minutes | A few minutes |
+| Time | Up to several minutes | A few minutes | 5 to 15 minutes |
 
 **Duo** is the trend as people know it: two people, one routine, side by side, made for best friends and couples. Your faces, hair and clothes come from your photos, not from the dancers in the cover. **Solo** costs the least and fits any photo of you standing. **Pet** is the AI cat dance version of the trend, for two cats, two dogs or one of each. The exact price shows on the Generate button before you spend anything.
 
@@ -248,7 +264,7 @@ This template makes one: the intro of the NEON kpop song, which people also sear
 
 ### Which AI models make the videos?
 
-Duo uses Seedance 2.5: it puts the two of you into the cover itself, vertical at 720p. Solo uses Kling 3.0 Motion Control: it copies the moves onto the person in your photo, at 720p in your photo's frame. Pet uses MiniMax H3 Max Recast: it puts your two pets into the AI cat reel, wide 16:9 at 768p. All three are K-pop AI dance video templates of about 15 seconds.
+Duo uses Seedance 2.5: it puts the two of you into the cover itself, vertical at 720p. Solo uses Kling 3.0 Motion Control: it copies the moves onto the person in your photo, at 720p in your photo's frame. Pet uses top-quality AI video models: they put your two pets into the AI cat reel, wide 16:9 at 720p. All three are K-pop AI dance video templates of about 15 seconds.
 
 ### What prompt does the A2O LITE NEON AI trend use?
 
@@ -256,7 +272,7 @@ No creator of the trend shared a prompt: the covers are real dances, and the AI 
 
 ### How long is the video and what format is it?
 
-All three make about 15 seconds. Duo is vertical 9:16 at 720p, Solo follows your photo's frame at 720p, and Pet is wide 16:9 at 768p. Each is an MP4 file with the song and no watermark.
+All three make about 15 seconds. Duo is vertical 9:16 at 720p, Solo follows your photo's frame at 720p, and Pet is wide 16:9 at 720p. Each is an MP4 file with the song and no watermark.
 
 ## Other AI video templates and tools
 
@@ -267,6 +283,15 @@ All three make about 15 seconds. Duo is vertical 9:16 at 720p, Solo follows your
 - [AI Reels](https://www.makeviral.ai/tools/ai-reels-generator): Pick a format, give it a topic or a product link, and get a finished vertical reel with voice and captions. Nothing to film, nothing to edit.
 - [AI photo generator](https://www.makeviral.ai/ai-photo-generator)
 - [All AI video templates](https://www.makeviral.ai/templates)
+
+## New AI video trends this week
+
+- [Christmas Dance AI: Do the New TikTok Christmas Dance From Your Photos](https://www.makeviral.ai/templates/christmas-dance-ai-trend): Hip sways with the hands at the collar, rolling arms, a quick spin and raised fists, side by side in matching Christmas pajamas. Add two photos for the duo, one for a solo take, or two pets, and get the dance with the sound.
+- [Cat on Ultra Bee AI: Put Your Pet on the Wheelie](https://www.makeviral.ai/templates/cat-on-ultra-bee-ai-trend): Add one photo, and your cat or dog stands on an electric dirt bike and holds a long wheelie down a city road at golden hour, in the same shots as the viral clip, with its original sound. You can take the ride yourself, too.
+- [Tus Ojos Me Reflejan el Sentimiento: The Cafuné Eye Close-Up Trend](https://www.makeviral.ai/templates/tus-ojos-me-reflejan-ai-trend): You lie on your side, a hand rests on your cheek, warm light falls on your face, and the camera slowly moves in until your eyes fill the screen while the line plays. One photo in, an 8-second vertical clip with the trend's song out.
+- [İnşallah Maşallah AI Trend: Sing Neşe Karaböcek's Song on the Couch](https://www.makeviral.ai/templates/insallah-masallah-ai-trend): You sit on a light grey couch and sing the old Turkish love song straight to the camera: a hand on the heart, a big laugh with both hands on your head, a finger pointed at the camera and a kiss at the end. One photo of you, a grandparent or your pet, and the 15-second clip comes with the song.
+- [Ice Ice Baby Dance AI: Do the Viral Duo Dance With a Friend](https://www.makeviral.ai/templates/ice-ice-baby-dance-ai): Two dancers side by side, the same bouncy 90s steps, a spin on the beat and a strut to the camera. Add a photo of you and a friend, of you alone, or of your pet, and get the dance with the sound.
+- [Save Yourself Trend: Pull Yourself Up From the Cliff](https://www.makeviral.ai/templates/save-yourself-ai-trend): One photo plays both of you: the scared you clinging to a wet sea cliff, and the calm you who reaches down, pulls you up and holds you. Or use two photos: an older photo of you and a new one, or you and a friend. 15 seconds, vertical.
 
 ## Make your own NEON Duo Dance video
 

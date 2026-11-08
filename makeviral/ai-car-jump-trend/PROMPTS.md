@@ -8,10 +8,12 @@ The car jump AI video is the "unbothered" trend: you sit calm in a folding camp 
 ## Demo videos (CDN)
 
 - https://www.makeviral.ai/media/templates/ai-car-jump-trend/original-main-v2.mp4
+- https://www.makeviral.ai/media/templates/ai-car-jump-trend/original-sheep-v2.mp4
 
 ## Posters
 
 - https://www.makeviral.ai/media/templates/ai-car-jump-trend/original-main-v1.jpg
+- https://www.makeviral.ai/media/templates/ai-car-jump-trend/original-sheep-v1.jpg
 
 ## Prompts
 
@@ -59,5 +61,30 @@ The moves, matching the reference second by second:
 8.8-10 s: the vehicle from [Image 2] passes close behind the chair; the person stays seated and looks into the camera, unbothered.
 
 Anatomy rules: one head only, on the person's own shoulders. Two arms and two hands. The vehicle never touches the person or the chair. No badges, emblems or lettering on the vehicle, no readable number plate, no flag on the vehicle, no text, no logos, no watermark, no extra people.
+```
+
+### 3. 1. The video prompt is filled in. Settings: Seedance 2.5, 12 s, 720p, 9:16, sound off. The video prompt
+
+*Kind: video_prompt*
+
+```text
+Keep every detail of the reference video [Video 1] exactly the same, including the camera angle, camera movement, framing, composition, perspective, lighting, color grading, exposure, shadows, highlights, atmosphere, and overall visual style.
+Only replace the person in the video with the person from the reference image [Image 1]. Preserve the reference person's identity with maximum accuracy, including their exact facial structure, proportions, skin tone, eyes, nose, lips, jawline, and all distinctive facial features. Make sure the replacement looks completely natural and seamlessly integrated into the original video.
+Do not change anything else about the scene, camera, lighting, colors, or motion.
+Keep the herd of sheep exactly as in [Video 1]: the same sheep, the same run and the same leaps.
+The final result should look photorealistic and seamless, as if the original video was filmed this way.
+
+Recreate [Video 1] shot for shot, in one continuous take: the golden pasture at sunset by the river, the black folding camp chair, the herd of sheep that bursts over the ridge, charges down, leaps through the air behind the chair and streams past it in golden dust, the same camera, framing and timing. The ONLY change: the man in the camp chair is now the person in [Image 1].
+
+The one in the camp chair = the person in [Image 1], in EVERY frame: copy the exact face from [Image 1] - face shape, eye color and eye shape, eyebrows, nose, mouth, skin tone, age, hair color, hair length and hairstyle, and any beard, moustache, glasses or freckles exactly as in the photo. They wear the clothes from [Image 1]; if it shows only the upper body, invent the rest to match. The same real person from the first second to the last, so their friends instantly recognize them, also in the dust at the end. Never morph, never drift back to the original man's face. NO sunglasses: no glasses of any kind unless [Image 1] shows glasses. No beard, no light blue T-shirt and no black trousers unless [Image 1] shows them. If [Image 1] shows an animal, the one in the chair is that animal, sitting upright in the camp chair, with its own face, fur and markings and its natural body proportions: never flattened or stretched.
+
+The moves, second by second:
+0-3 s: sits calm in the chair, legs crossed, and glances around.
+3-4 s: raises one hand in a loose fist, as if snapping the fingers, as the first sheep come over the ridge behind.
+4-6.5 s: the herd charges down toward the chair. The person lowers the hand and stays still and calm, never turning around.
+6.5-9 s: sheep leap through the air in slow motion behind and beside the chair; one runs past in front.
+9-12 s: the herd streams past both sides of the chair in thick dust; the person stays seated, unbothered.
+
+No dialogue throughout the entire video. No background music. Anatomy rules: one head only, on the person's own shoulders. Two arms and two hands. No sheep touches the person or has a human face. Only sheep in the herd, no cows or goats. No text, no logos, no watermark, no extra people.
 ```
 

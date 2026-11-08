@@ -1,0 +1,77 @@
+# Leo Cheers Meme: Raise Your Glass at a 1920s Gala
+
+- Source: [makeviral](https://www.makeviral.ai/templates/leo-cheers-ai-trend)
+- Slug: `leo-cheers-ai-trend`
+
+The Leo Cheers meme, also called the Leonardo DiCaprio cheers meme or the Great Gatsby toast, is the moment from the 2013 film where the party host turns to the camera and raises a champagne glass as fireworks burst.
+
+## Demo videos (CDN)
+
+- https://www.makeviral.ai/media/templates/leo-cheers-ai-trend/example-main-v1.mp4
+
+## Posters
+
+- https://www.makeviral.ai/media/templates/leo-cheers-ai-trend/example-main-input.jpg
+- https://www.makeviral.ai/media/templates/leo-cheers-ai-trend/example-main-poster.jpg
+
+## Prompts
+
+### 1. 1. The video prompt is filled in. Settings: Seedance 2.5, 10 s, 720p, 9:16, sound on. The video prompt
+
+*Kind: video_prompt*
+
+```text
+A glamorous party scene filmed like a lavish period film: a lavish 1920s gala at night on the marble terrace of a grand seaside mansion: guests in 1920s evening wear dance and laugh, a jazz band in white jackets plays on a small stage, strings of warm golden lights hang overhead, gold confetti floats in the air, and a dark blue night sky stretches over the water. Photorealistic, rich warm gold and deep blue colors, soft film grain, shallow depth of field. One continuous take, no cuts.
+
+The host is the person in [Image 1], in every frame: copy the exact face from [Image 1] (the face shape, eye color and eye shape, eyebrows, nose, mouth, skin tone, age, hair color, hair length and hairstyle, and any beard, moustache, glasses or freckles), so their friends recognize them at once. The face stays the same from the first frame to the last: never morph, never a famous actor's face, never a different person.
+The host wears 1920s black-tie evening wear that suits them: a black tuxedo with a crisp white shirt and a black bow tie, or a long beaded gold evening gown with long satin gloves; never the clothes from [Image 1]. In one hand they hold a crystal coupe glass of sparkling champagne.
+
+[0-3s]: a medium shot from the side: the host stands at the stone railing above the party and looks out over the dancing guests, the face in three-quarter view, the glass held low.
+[3-5s]: the host turns to the camera, looks straight into the lens and breaks into a slow, knowing, charming smile.
+[5-8s]: the host raises a glass of champagne toward the camera for a cheers, with party lights flickering in the background, while gold and white fireworks burst in the night sky behind them. The camera slowly pushes in to a medium close-up from the chest up, the face large, sharp and well lit.
+[8-10s]: the host holds the toast to the camera with a small nod and a confident grin, eyebrows slightly raised, as the fireworks keep bursting and gold confetti drifts down.
+
+Audio: an original upbeat 1920s big band jazz tune with brass and piano, the cheerful murmur of the crowd, the clink of glasses and the boom and crackle of fireworks. No dialogue throughout the entire video.
+
+Only the host is in focus; the guests stay soft in the background and never look at the camera. One head only, two arms, five fingers on each hand, one glass. No text, no subtitles, no logos, no watermark.
+```
+
+### 2. 1. The video prompt is filled in. Settings: Seedance 2.5, 10 s, 720p, 9:16, sound on. The video prompt
+
+*Kind: video_prompt*
+
+```text
+A glamorous party scene filmed like a lavish period film: a lavish 1920s gala at night on the marble terrace of a grand seaside mansion: guests in 1920s evening wear dance and laugh, a jazz band in white jackets plays on a small stage, strings of warm golden lights hang overhead, gold confetti floats in the air, and a dark blue night sky stretches over the water. Photorealistic, rich warm gold and deep blue colors, soft film grain, shallow depth of field. One continuous take, no cuts.
+
+The host on the LEFT is the person in [Image 1], in every frame: copy the exact face from [Image 1] (the face shape, eye color and eye shape, eyebrows, nose, mouth, skin tone, age, hair color, hair length and hairstyle, and any beard, moustache, glasses or freckles).
+The guest of honor on the RIGHT is the person in [Image 2], in every frame: copy the exact face from [Image 2] (the face shape, eye color and eye shape, eyebrows, nose, mouth, skin tone, age, hair color, hair length and hairstyle, and any beard, moustache, glasses or freckles).
+If an image shows an animal, that one is that animal sitting upright on the railing beside the other, with its own face, fur and markings and a small black bow tie, not a person.
+Never blend their faces, never swap them. Each face stays the same from the first frame to the last, so their friends recognize them at once: never a famous actor's face, never a different person.
+Each of them wears 1920s black-tie evening wear that suits them: a black tuxedo with a crisp white shirt and a black bow tie, or a long beaded gold evening gown with long satin gloves; never the clothes from their own photo. Each holds a crystal coupe glass of sparkling champagne.
+
+[0-3s]: a medium shot from the side: the two stand close together at the stone railing above the party, arm in arm, and look out over the dancing guests, both faces in three-quarter view.
+[3-5s]: they turn to the camera together, look straight into the lens and break into slow, knowing smiles.
+[5-8s]: they raise their glasses of champagne toward the camera for a cheers, with party lights flickering in the background, and touch the glasses together in front of the lens with a clink, while gold and white fireworks burst in the night sky behind them. The camera slowly pushes in to a medium shot from the waist up, both faces large, sharp and well lit, the person from [Image 1] always on the left.
+[8-10s]: they hold the toast to the camera with confident grins as the fireworks keep bursting and gold confetti drifts down.
+
+Audio: an original upbeat 1920s big band jazz tune with brass and piano, the cheerful murmur of the crowd, the clink of glasses and the boom and crackle of fireworks. No dialogue throughout the entire video.
+
+Only the two of them are in focus; the guests stay soft in the background. One head each, five fingers on each hand, one glass each. No text, no subtitles, no logos, no watermark.
+```
+
+### 3. 1. Open [AI Photo with this template](https://www.makeviral.ai/photo?template=leo-cheers-ai-trend&variant=pet) and add your photo (your pet, whole body). The photo prompt is filled in (Pet)
+
+*Kind: photo_prompt*
+
+```text
+Use the uploaded image as the base. 9:16 vertical photo, like a still from a lavish period film: a lavish 1920s gala at night on the marble terrace of a grand seaside mansion: guests in 1920s evening wear dance and laugh, a jazz band in white jackets plays on a small stage, strings of warm golden lights hang overhead, gold confetti floats in the air, and a dark blue night sky stretches over the water. In front, sharp, the pet from the uploaded image sits upright on a red velvet chair by the stone railing, its whole body in view, facing the camera three-quarters, wearing a small black satin bow tie on a thin collar, one front paw resting on the stem of a crystal coupe glass of sparkling champagne on a small round table. The guests behind are soft and out of focus. Rich warm gold and deep blue colors, soft film grain. Exactly one animal in focus, no people in front. The pet keeps its natural body shape and four legs; no other clothes on the pet. No text, no logos, no watermark.
+```
+
+### 4. 3. Press the film button on the still to open AI Video with the still as the first frame. Settings: Kling 3.0, 10 s, 1080p, 9:16, sound on. The video prompt
+
+*Kind: video_prompt*
+
+```text
+The pet turns its head to the camera and looks straight into the lens, then lifts the champagne coupe toward the camera in its front paw for a cheers, with party lights flickering in the background, while gold and white fireworks burst in the night sky behind it. The camera slowly pushes in to a medium close-up. It holds the toast and tilts its head with a proud, pleased look as gold confetti drifts down. The pet never drinks. The pet is exactly the pet from the image in every frame: the same face, eyes, ears, fur colors, markings and the small black bow tie, with the natural body volume and proportions of that animal. One continuous shot, no cuts. Audio: an original upbeat 1920s big band jazz tune with brass and piano, the cheerful murmur of the crowd, the clink of glasses and the boom and crackle of fireworks. No dialogue throughout the entire video. Exactly one animal in focus, no human hands, no people in front. No text, no logos, no watermark.
+```
+

@@ -16,7 +16,7 @@ Also called: Head bop edit trend, Headpop.
 
 **Make it now:** [Make this video](https://www.makeviral.ai/templates/headbop-ai-trend/create). 1 photo · 11 s · 9:16 with sound · 44 credits, charged once · ready in a few minutes · no prompt to write.
 
-Keyword: headbop. Also answers: head bop, head bop animation, headbop meme, head bop edit, head bop trend, headbop animation, headbop trend, head bop ai, headbop ai, head bobbing trend, head bop animation app, head bop animation meme, head bop tutorial capcut, head bop capcut template, head bop tutorial, family headbop, family headpop, headbop with your family, meme cat headbop, pet headbop, headbop template, head bop meme, headbop edit, head bop animation ai, head bop tiktok trend.
+Keyword: headbop. Also answers: head bop, head bop animation, headbop meme, head bop edit, head bop trend, headbop animation, headbop trend, head bop ai, headbop ai, head bobbing trend, headbop maker, head bop maker, head bop animation app, head bop animation meme, head bop tutorial capcut, head bop capcut template, head bop tutorial, family headbop, family headpop, headbop with your family, meme cat headbop, pet headbop, headbop template, head bop meme, headbop edit, head bop animation ai, headbop edit maker, photos for headbop, head bop template, realistic head bop, head bop photo, ai headbop, fotos para head bop, headbop generator, head bop generator, head bop animation maker, head bop app, headbop app, headbop background, head bop clip, headbops, headpop animation, head bop tiktok trend.
 
 ## What is the Headbop Trend trend, and where did it start?
 
@@ -272,6 +272,15 @@ Yes. The "family's headpop" how-to from 4 October uses that spelling for the sam
 - [Meme Video](https://www.makeviral.ai/tools/meme-video-generator): One line of text, one image, six seconds. The cheapest format to produce and the easiest one to test ten different ways in an afternoon.
 - [AI photo generator](https://www.makeviral.ai/ai-photo-generator)
 - [All AI video templates](https://www.makeviral.ai/templates)
+
+## New AI video trends this week
+
+- [Christmas Dance AI: Do the New TikTok Christmas Dance From Your Photos](https://www.makeviral.ai/templates/christmas-dance-ai-trend): Hip sways with the hands at the collar, rolling arms, a quick spin and raised fists, side by side in matching Christmas pajamas. Add two photos for the duo, one for a solo take, or two pets, and get the dance with the sound.
+- [Cat on Ultra Bee AI: Put Your Pet on the Wheelie](https://www.makeviral.ai/templates/cat-on-ultra-bee-ai-trend): Add one photo, and your cat or dog stands on an electric dirt bike and holds a long wheelie down a city road at golden hour, in the same shots as the viral clip, with its original sound. You can take the ride yourself, too.
+- [Tus Ojos Me Reflejan el Sentimiento: The Cafuné Eye Close-Up Trend](https://www.makeviral.ai/templates/tus-ojos-me-reflejan-ai-trend): You lie on your side, a hand rests on your cheek, warm light falls on your face, and the camera slowly moves in until your eyes fill the screen while the line plays. One photo in, an 8-second vertical clip with the trend's song out.
+- [İnşallah Maşallah AI Trend: Sing Neşe Karaböcek's Song on the Couch](https://www.makeviral.ai/templates/insallah-masallah-ai-trend): You sit on a light grey couch and sing the old Turkish love song straight to the camera: a hand on the heart, a big laugh with both hands on your head, a finger pointed at the camera and a kiss at the end. One photo of you, a grandparent or your pet, and the 15-second clip comes with the song.
+- [Ice Ice Baby Dance AI: Do the Viral Duo Dance With a Friend](https://www.makeviral.ai/templates/ice-ice-baby-dance-ai): Two dancers side by side, the same bouncy 90s steps, a spin on the beat and a strut to the camera. Add a photo of you and a friend, of you alone, or of your pet, and get the dance with the sound.
+- [Save Yourself Trend: Pull Yourself Up From the Cliff](https://www.makeviral.ai/templates/save-yourself-ai-trend): One photo plays both of you: the scared you clinging to a wet sea cliff, and the calm you who reaches down, pulls you up and holds you. Or use two photos: an older photo of you and a new one, or you and a friend. 15 seconds, vertical.
 
 ## Make your own Headbop Trend video
 

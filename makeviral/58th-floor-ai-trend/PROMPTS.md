@@ -1,0 +1,115 @@
+# 58th Floor Anderson .Paak AI Trend: Rap the Duet in the Teal Studio
+
+- Source: [makeviral](https://www.makeviral.ai/templates/58th-floor-ai-trend)
+- Slug: `58th-floor-ai-trend`
+
+The 58th Floor AI trend puts two people in the teal studio of Anderson .Paak and Cordae's A COLORS SHOW performance of "58th Floor".
+
+## Demo videos (CDN)
+
+- https://www.makeviral.ai/media/templates/58th-floor-ai-trend/original-main-v2.mp4
+
+## Posters
+
+- https://www.makeviral.ai/media/templates/58th-floor-ai-trend/original-main-v1.jpg
+
+## Prompts
+
+### 1. 1. The video prompt is filled in. Settings: Seedance 2.5, 15 s, 720p, 9:16, sound off. The video prompt
+
+*Kind: video_prompt*
+
+```text
+A live studio rap performance, four shots cut on the beat, photorealistic live action, vertical 9:16: a seamless teal-turquoise cyclorama studio, one vintage silver microphone hanging on a long black cable at mouth height, soft, even light. Nothing else is in the studio.
+
+WHO IS WHO: RAPPER 1 always stands on the LEFT of the microphone and raps first: the person in [Image 1], in every frame: copy the exact face from [Image 1] (the face shape, eye color and eye shape, eyebrows, nose, mouth, skin tone, age, hair color, hair length and hairstyle, and any beard, moustache, glasses or freckles), with the hair and clothes from [Image 1]. RAPPER 2 always stands on the RIGHT of the microphone and takes over the verse: the person in [Image 2], in every frame: copy the exact face from [Image 2] (the face shape, eye color and eye shape, eyebrows, nose, mouth, skin tone, age, hair color, hair length and hairstyle, and any beard, moustache, glasses or freckles), with the hair and clothes from [Image 2]. Who is who comes ONLY from the photo order, never from gender. If [Image 1] shows an animal, RAPPER 1 is that animal standing upright, with its own face and fur. If [Image 2] shows an animal, RAPPER 2 is that animal in the same way. The faces are fully locked to RAPPER 1 from [Image 1] (left) and RAPPER 2 from [Image 2] (right), so their friends recognize them at once.
+
+THE SHOTS: four shots, cut exactly at these times.
+Shot 1 [0-5.5s]: WAIST-UP TWO-SHOT, the camera drifting slowly right: RAPPER 1 raps toward the lens, rocking on the beat; RAPPER 2 vibes beside them with a loose waving hand, mouth closed, and from 3.5 s turns to RAPPER 1 for the handover.
+Shot 2 [5.5-8.7s]: hard cut to a CLOSE-UP of RAPPER 2, the microphone at the left edge: RAPPER 2 takes the verse, eyes half closed, a hand gesturing up into the frame. Only RAPPER 2 is in this shot.
+Shot 3 [8.7-11.5s]: hard cut to a WIDE, full figure shot: RAPPER 2 raps, turned a little toward RAPPER 1; RAPPER 1 bounces and dances beside them, mouth closed.
+Shot 4 [11.5-15s]: hard cut to a LOW WAIST-UP TWO-SHOT: RAPPER 2, in profile facing LEFT, raps straight at RAPPER 1 with a hand out; RAPPER 1 faces the lens, nodding along with a scrunched-up, impressed face, mouth closed.
+
+MOUTHS: RAPPER 1 raps ONLY from 0 to 5.2 s, then the mouth stays closed. RAPPER 2's mouth stays closed from 0 to 4.9 s, then raps in quick phrases to the last frame, with short breaths between lines. The lips press shut on m, b and p, round on o and oo, the jaw drops on long vowels, never a loose flapping jaw. Whoever is not rapping keeps the mouth closed, even while moving.
+
+FACES: the rapper with the verse is animated and confident, the other listens and reacts.
+
+Sound: none of its own; a rap song is put on afterwards, so the rapping must be easy to see. No dialogue throughout the entire video. No background music.
+
+Every frame shows only these two rappers. Do not blend them, do not swap their clothes. Real live-action footage, clear facial features, stable faces, no distortion, natural proportions.
+
+Avoid: a hat, chain or glasses that is not in that rapper's photo, a printed face on a T-shirt, swapped sides, a mouth moving while that rapper is silent, both rapping at once, extra people, text, captions, logos, watermarks, extra limbs, morphing.
+```
+
+### 2. 1. The video prompt is filled in. Settings: Seedance 2.5, 15 s, 720p, 9:16, sound off. The video prompt
+
+*Kind: video_prompt*
+
+```text
+A live studio rap performance, three shots cut on the beat, photorealistic live action, vertical 9:16: a seamless teal-turquoise cyclorama studio, one vintage silver microphone hanging on a long black cable at mouth height, soft, even light. Nothing else is in the studio.
+
+THE RAPPER is the person in [Image 1], in every frame: copy the exact face from [Image 1] (the face shape, eye color and eye shape, eyebrows, nose, mouth, skin tone, age, hair color, hair length and hairstyle, and any beard, moustache, glasses or freckles), with the hair and clothes from [Image 1]. A hat, glasses or a chain appear only if [Image 1] shows them. If [Image 1] shows an animal, the rapper is that animal standing upright, with its own face and fur, not a person. When the photo shows only a head or an upper body, add the rest so it matches. The face is fully locked to [Image 1] in every shot, so their friends recognize them at once.
+
+THE SHOTS: three shots, cut exactly at these times.
+Shot 1 [0-3.6s]: MEDIUM SHOT of the RAPPER, the camera drifting: the RAPPER raps, both hands working in front of the chest.
+Shot 2 [3.6-9s]: hard cut to a CLOSE-UP of the RAPPER, the microphone at the right edge: the RAPPER raps, a hand to the chest, shoulders rolling, the eyes going to the lens and off to the side.
+Shot 3 [9-15s]: hard cut to a WIDE, full figure shot, the RAPPER alone at the hanging microphone: as the shot opens the RAPPER swings an arm high above the head, then bounces on the beat while rapping the hook.
+
+MOUTHS: the RAPPER's mouth raps in quick phrases from the first frame to the last, pausing only for short breaths between lines. The lips press shut on m, b and p, round on o and oo, the jaw drops on long vowels, never a loose flapping jaw. Whoever is not rapping keeps the mouth closed, even while moving.
+
+FACE: animated and confident; looks go to the lens or off to the side.
+
+Sound: none of its own; a rap song is put on afterwards, so the rapping must be easy to see. No dialogue throughout the entire video. No background music.
+
+Every frame shows only this one rapper in the teal studio. Real live-action footage, clear facial features, a stable face, no distortion, no deformation, normal body structure, natural proportions, consistent clothing, an unchanged hairstyle.
+
+Avoid: a hat, hairstyle, chain or glasses that is not in the photo, a printed face or portrait on a T-shirt, a second person, a crowd, text, captions, subtitles, logos, watermarks, extra limbs, morphing, facial distortion.
+```
+
+### 3. 1. The video prompt is filled in. Settings: Seedance 2.5, 15 s, 720p, 9:16, sound off. The video prompt (Pet)
+
+*Kind: video_prompt*
+
+```text
+A live studio rap performance by two pets, four shots cut on the beat, photorealistic live action, vertical 9:16: a seamless teal-turquoise cyclorama studio, one vintage silver microphone hanging on a long black cable at mouth height, soft, even light. Nothing else is in the studio.
+
+WHO IS WHO: RAPPER 1 always stands on the LEFT of the microphone and raps first: the pet in [Image 1], in every frame: the same species, breed, face, eyes, ears, muzzle, fur colors, fur length and markings as in [Image 1], with that animal's natural body volume and proportions, never flattened, stretched or merged. It stands upright on its hind legs, front paws loose like arms, with its own animal face: only its mouth moves like a rapper's. No clothes. RAPPER 2 always stands on the RIGHT of the microphone and takes over the verse: the pet in [Image 2], in every frame: the same species, breed, face, eyes, ears, muzzle, fur colors, fur length and markings as in [Image 2], with that animal's natural body volume and proportions, never flattened, stretched or merged. It stands upright on its hind legs, front paws loose like arms, with its own animal face: only its mouth moves like a rapper's. No clothes. Never swap the sides, never blend the two animals: their owners recognize them at once.
+
+THE SHOTS: four shots, cut exactly at these times.
+Shot 1 [0-5.5s]: WAIST-UP TWO-SHOT, the camera drifting slowly right: RAPPER 1 raps toward the lens, rocking on the beat; RAPPER 2 vibes beside them with a loose waving hand, mouth closed, and from 3.5 s turns to RAPPER 1 for the handover.
+Shot 2 [5.5-8.7s]: hard cut to a CLOSE-UP of RAPPER 2, the microphone at the left edge: RAPPER 2 takes the verse, eyes half closed, a hand gesturing up into the frame. Only RAPPER 2 is in this shot.
+Shot 3 [8.7-11.5s]: hard cut to a WIDE, full figure shot: RAPPER 2 raps, turned a little toward RAPPER 1; RAPPER 1 bounces and dances beside them, mouth closed.
+Shot 4 [11.5-15s]: hard cut to a LOW WAIST-UP TWO-SHOT: RAPPER 2, in profile facing LEFT, raps straight at RAPPER 1 with a hand out; RAPPER 1 faces the lens, nodding along with a scrunched-up, impressed face, mouth closed.
+
+MOUTHS: RAPPER 1 raps ONLY from 0 to 5.2 s, then the mouth stays closed. RAPPER 2's mouth stays closed from 0 to 4.9 s, then raps in quick phrases to the last frame, with short breaths between lines. The lips press shut on m, b and p, round on o and oo, the jaw drops on long vowels, never a loose flapping jaw. Whoever is not rapping keeps the mouth closed, even while moving.
+
+FACES: the rapper with the verse is animated and confident, the other listens and reacts.
+
+Sound: none of its own; a rap song is put on afterwards, so the rapping must be easy to see. No dialogue throughout the entire video. No background music.
+
+Exactly two rappers. One head, four legs and one tail each, no human hands on the animals. Avoid: a cartoon look, a plush toy, clothes or chains on the pets, both rapping at once, a mouth moving while that rapper is silent, extra animals, text, captions, logos, watermarks, morphing.
+```
+
+### 4. 1. The video prompt is filled in. Settings: Seedance 2.5, 15 s, 720p, 9:16, sound off. The video prompt (Pet)
+
+*Kind: video_prompt*
+
+```text
+A live studio rap performance by a pet, three shots cut on the beat, photorealistic live action, vertical 9:16: a seamless teal-turquoise cyclorama studio, one vintage silver microphone hanging on a long black cable at mouth height, soft, even light. Nothing else is in the studio.
+
+THE RAPPER is the pet in [Image 1], in every frame: the same species, breed, face, eyes, ears, muzzle, fur colors, fur length and markings as in [Image 1], with that animal's natural body volume and proportions, never flattened, stretched or merged. It stands upright on its hind legs, front paws loose like arms, with its own animal face: only its mouth moves like a rapper's. No clothes. Its owner recognizes it at once.
+
+THE SHOTS: three shots, cut exactly at these times.
+Shot 1 [0-3.6s]: MEDIUM SHOT of the RAPPER, the camera drifting: the RAPPER raps, both hands working in front of the chest.
+Shot 2 [3.6-9s]: hard cut to a CLOSE-UP of the RAPPER, the microphone at the right edge: the RAPPER raps, a hand to the chest, shoulders rolling, the eyes going to the lens and off to the side.
+Shot 3 [9-15s]: hard cut to a WIDE, full figure shot, the RAPPER alone at the hanging microphone: as the shot opens the RAPPER swings an arm high above the head, then bounces on the beat while rapping the hook.
+
+MOUTHS: the RAPPER's mouth raps in quick phrases from the first frame to the last, pausing only for short breaths between lines. The lips press shut on m, b and p, round on o and oo, the jaw drops on long vowels, never a loose flapping jaw. Whoever is not rapping keeps the mouth closed, even while moving.
+
+FACE: animated and confident; looks go to the lens or off to the side.
+
+Sound: none of its own; a rap song is put on afterwards, so the rapping must be easy to see. No dialogue throughout the entire video. No background music.
+
+Exactly one animal and no people. One head, four legs and one tail, no human hands, no human body parts on the animal. Avoid: a cartoon look, a plush toy, clothes, chains or hats on the pet, extra animals, text, captions, subtitles, logos, watermarks, morphing.
+```
+

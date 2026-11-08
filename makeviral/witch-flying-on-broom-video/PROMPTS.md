@@ -1,0 +1,61 @@
+# Witch Flying on Broom Video: Fly Beside the Metro Train
+
+- Source: [makeviral](https://www.makeviral.ai/templates/witch-flying-on-broom-video)
+- Slug: `witch-flying-on-broom-video`
+
+The witch flying on broom video is a Halloween 2026 twist on the phone on the train trend: a witch tapes her phone to a metro window, and the phone films her flying beside the train on a broom until she crashes into the wall.
+
+## Demo videos (CDN)
+
+- https://www.makeviral.ai/media/templates/witch-flying-on-broom-video/original-main-v2.mp4
+
+## Posters
+
+- https://www.makeviral.ai/media/templates/witch-flying-on-broom-video/original-main-v1.jpg
+
+## Prompts
+
+### 1. 1. The video prompt is filled in. Settings: Seedance 2.5, 15 s, 720p, 9:16, sound off. The video prompt
+
+*Kind: video_prompt*
+
+```text
+Recreate the reference video [Video 1] shot for shot: the same metro station platform, the same metro train that stands and then pulls out, the same passengers, benches, lights, camera moves, cut and timing. The ONLY change: the witch's face and hair are now those of the person in [Image 1]. [Image 1] is the sole reference for the witch's face and hair; [Video 1] is for the costume, the moves, the flight and the camera only.
+
+The witch = the person in [Image 1], in EVERY frame, also in profile and in the fast flight: copy the exact face from [Image 1]: face shape, eye color and eye shape, eyebrows, nose, mouth, skin tone, age, hair color, hair length and hairstyle, and any beard, moustache or freckles exactly as in the photo. The same real person in every frame, so their friends instantly recognize them. Never morph, never drift back to the original woman's face: not her face shape, her eyes, her nose or her lips. Even when [Image 1] shows long dark hair like hers, the face is only the face of [Image 1]. NO long dark brown hair unless [Image 1] shows it.
+
+The costume is the Halloween joke and stays exactly as in the video, never the clothes from [Image 1]: the tall black pointed witch hat with a wide brim, the long black velvet and lace gown with puffed velvet sleeves, the black heeled boots and the wooden broom. NO sunglasses and NO glasses of any kind in any frame, even if [Image 1] shows glasses: the eyes are always bare and clearly visible.
+
+Shot 1 [0-3.5 s]: one handheld take on the platform: the witch stands at the stopped metro train, presses a phone flat on the outside of a train window and tapes it down with a roll of white tape.
+Shot 2 [3.5-15 s]: hard cut, the view of the taped phone from the train as it pulls out: the witch stands on the platform with the broom, sits on it and lifts off, then flies beside the train along the platform, side-on, both hands on the broom, past the posters and the benches, glancing at the camera. At about 14.3 s she hits the wall at the end of the platform, tumbles off the broom, unhurt, and drops out of the frame.
+The witch and the broom move as one connected unit.
+
+The posters on the platform walls are plain generic posters with no brand names, no logos and no readable words. The passengers are anonymous background people.
+
+Only replace the witch's face and hair; the station, the train, the costume, the flight path and the camera stay completely unchanged. Keep everything else the same.
+
+Anatomy rules: one head only, on the witch's shoulders. Two arms and two legs. Exactly one witch. No text, no captions, no logos, no watermark. No dialogue throughout the entire video. No background music.
+```
+
+### 2. 1. The video prompt is filled in. Settings: Seedance 2.5, 11 s, 720p, 9:16, sound off. The video prompt (Pet)
+
+*Kind: video_prompt*
+
+```text
+Recreate the reference video [Video 1] shot for shot: the same metro station platform, filmed from a phone fixed on the window of a metro train that pulls out, the same posters, benches, lights, camera move and timing, one continuous take. The ONLY change: the witch on the broom is now the pet in [Image 1], whole body, in a little witch costume. [Image 1] is the sole reference for the rider; [Video 1] is for the flight and the camera only.
+
+The rider = the pet in [Image 1], whole body, in every frame: the same species and breed, head shape, muzzle, eyes, eye color, ears, fur colors, fur length, markings and body shape as in [Image 1], with the natural body volume and proportions of that animal: never flattened, squashed, stretched or merged with anything, so its owner instantly recognizes it. If [Image 1] shows a dog or another animal, that animal rides the broom the same way. The woman from the video never appears: no human body, no human face, no human hands, no gown. The pet wears only a small tall black pointed witch hat between its ears and a short black velvet cape. NO sunglasses and NO glasses.
+
+The moves, matching the reference second by second:
+0-1.5 s: the pet stands on the platform beside the wooden broom, hops onto it, and the broom lifts off as the train starts.
+1.5-10.7 s: it flies beside the train along the platform, side-on, sitting on the broom with its front paws on the handle, past the posters and the benches, looking at the camera now and then.
+10.7-11.4 s: it bumps into the wall at the end of the platform, tumbles off the broom, unhurt, and drops out of the frame.
+The pet and the broom move as one connected unit.
+
+The posters on the platform walls are plain generic posters with no brand names, no logos and no readable words.
+
+Only replace the rider; the station, the train, the flight path and the camera stay completely unchanged. Keep everything else the same.
+
+Anatomy rules: one head, one tail, four legs, no extra paws, no human hands. Exactly one animal and no people on the broom. No text, no captions, no logos, no watermark. No dialogue throughout the entire video. No background music.
+```
+

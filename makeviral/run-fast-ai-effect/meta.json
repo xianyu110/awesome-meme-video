@@ -1,0 +1,45 @@
+{
+  "source": "makeviral",
+  "source_site": "https://www.makeviral.ai",
+  "slug": "run-fast-ai-effect",
+  "name": "Run Fast AI Effect: Your Chairs, Car or House Grow Legs and Run Away",
+  "url": "https://www.makeviral.ai/templates/run-fast-ai-effect",
+  "markdown_url": "https://www.makeviral.ai/templates/run-fast-ai-effect.md",
+  "blurb": "The run fast AI effect turns one still photo into a short video where the things in it grow legs and run away: plastic chairs scatter, a table trots off, a wooden hut lifts itself up and walks out of the frame.",
+  "updated": "2026-10-29",
+  "published": "2026-10-29",
+  "credits": 33,
+  "demo_videos": [
+    "https://www.makeviral.ai/media/templates/run-fast-ai-effect/original-things-v2.mp4"
+  ],
+  "posters": [
+    "https://www.makeviral.ai/media/templates/run-fast-ai-effect/original-things-v1.jpg"
+  ],
+  "prompts": [
+    {
+      "label": "2. The video prompt is filled in. Settings: Kling 3.0, 6 s, 1080p, 9:16, sound on. The video prompt",
+      "variant": null,
+      "kind": "video_prompt",
+      "text": "The objects in the image grow legs and run away. Keep the photo exactly as it is: the same place, the same light, the same camera angle, and every object with its own shape, color, material and size. 0-1.5 s: nothing moves, like a normal phone video of the place, the camera held still with a slight handheld sway. 1.5-3 s: the main objects in the photo (chairs, tables, benches, a sofa, a bed, a car, a motorbike, a shed, a hut, a house, potted plants, any big thing) suddenly grow pairs of thin, realistic legs under them, or their own legs and posts start to bend like knees, and they stand up and wobble. 3-6 s: they run away fast in different directions with quick, stiff, comical steps, bumping into each other, tipping and wobbling, kicking up a little dust, until they leave the frame or shrink into the distance. A building lifts itself off the ground on its posts or on new legs and walks or runs away, leaving bare ground where it stood. The empty place stays in view at the end. People in the photo, if any, stay where they are with their own faces and do not run. One continuous shot with no cuts, real handheld phone footage, photorealistic, not a cartoon. Audio: the fast patter and clatter of many running wooden and metal feet, scraping and creaking wood, a few thuds, outdoor ambience, no music, no voice. The objects have no faces, no eyes, no mouths and no arms. No text, no logos, no watermark."
+    },
+    {
+      "label": "2. The video prompt is filled in. Settings: Kling 3.0, 6 s, 1080p, 9:16, sound on. The video prompt",
+      "variant": "Pet",
+      "kind": "video_prompt",
+      "text": "The person or the animal in the image suddenly runs very fast. Keep their face, hair, skin tone, body and clothes (or the fur, the face and the markings of an animal) and the whole place exactly as in the photo. 0-1 s: they stand in the pose of the photo, then their eyes go wide in surprise. 1-2 s: they drop into a sprint start and take off. 2-6 s: they sprint toward the camera and past it at comical cartoon speed, legs moving in a fast blur, arms pumping (an animal stretches out at full gallop), hair, ears and clothes flapping in the wind, dust flying up behind them, and they leave the frame; the empty place stays in view for the last second. The same person, or the same animal, with the same face from the first frame to the last, never morphing. One continuous shot with no cuts, real handheld phone footage, photorealistic. Audio: a quick whoosh, fast footsteps or paws, a short surprised gasp, outdoor ambience, no music. Exactly one runner. No text, no logos, no watermark."
+    }
+  ],
+  "variant_headings": [
+    "What the Run Fast AI video looks like",
+    "How to make the Run Fast AI video on MakeViral",
+    "Which photo works best?",
+    "What happens in the video, second by second?",
+    "How do I make the AI run fast effect with my photo?",
+    "How long is the video, and does it have sound?",
+    "Other AI video templates and tools",
+    "New AI video trends this week",
+    "Make your own Run Fast AI video"
+  ],
+  "prompt_count": 2,
+  "scraped_at": "2026-11-08"
+}

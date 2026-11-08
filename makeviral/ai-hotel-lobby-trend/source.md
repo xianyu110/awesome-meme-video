@@ -14,7 +14,7 @@ You and a friend, or your two pets, trade a rap into one hanging mic in a bright
 
 Also called: Migos Hotel Lobby, Viral Rap Duo, AI Rap Duo, Orange Booth Rap.
 
-**Make it now:** [Make this video](https://www.makeviral.ai/templates/ai-hotel-lobby-trend/create). 2 photos · 15 s · 9:16 with sound · 180 credits, charged once · ready in a few minutes · no prompt to write.
+**Make it now:** [Make this video](https://www.makeviral.ai/templates/ai-hotel-lobby-trend/create). 2 photos · 15 s · 9:16 with sound · 228 credits, charged once · ready in up to several minutes · no prompt to write.
 
 Keyword: hotel lobby ai. Also answers: hotel lobby trend, hotel lobby ai video, hotel lobby ai trend, ai hotel lobby trend, hotel lobby migos, hotel lobby song, migos ai video, hotel lobby ai template, migos ai trend, hotel lobby meme, how to do the hotel lobby trend, hotel lobby ai generator, ai hotel lobby, hotel lobby trend ai, migos hotel lobby ai, hotel lobby ai filter, how to do hotel lobby trend, quavo takeoff hotel lobby, hotel lobby unc and phew, hotel lobby ai meme, migos hotel lobby video, hotel lobby migos ai, migos hotel lobby ai video, hotel lobby trend template, hotel lobby capcut template, hotel lobby ai migos, migos hotel lobby ai trend, hotel lobby song ai, hotel lobby ai prompt, migos hotel lobby ai generator, hotel lobby ai tutorial, hotel lobby colors show, hotel lobby ai trend template, ai hotel lobby template, hotel lobby cats, hotel lobby ai face swap, viral rap duo ai, hotel lobby meme template, hotel lobby ai cats, hotel lobby ai pets, hotel lobby ai original song, put yourself in the hotel lobby video, orange booth rap ai, lobby trend, trend hotel lobby, тренд hotel lobby, как сделать тренд hotel lobby, hotel lobby ии, hotel lobby готовый шаблон, hotel lobby как сделать, как сделать ии hotel lobby, промт для hotel lobby.
 
@@ -63,8 +63,8 @@ Everything runs in the browser. No editing app, no watermark.
 ### The one-tap way (no prompt to write)
 
 1. **Add the two photos.** Press "Make yours" and add left person, then right person. Photo 1 goes on the left of the scene, photo 2 on the right. Take them with the camera or pick them from your library. Start here: https://www.makeviral.ai/templates/ai-hotel-lobby-trend/create
-2. **Press Generate.** The button shows the price. H3 Max Recast puts your photos into the Hotel Lobby trend clip and copies it shot by shot for 15 seconds, with the song of the clip. You write no prompt.
-3. **Download or share.** The video is ready in a few minutes as a 16:9 MP4. Download it, share it from your phone, or find it later in My videos.
+2. **Press Generate.** The button shows the price. Seedance 2.5 puts your photos into the Hotel Lobby trend clip and copies it shot by shot for 15 seconds, with the reel's original song. You write no prompt.
+3. **Download or share.** The video is ready in up to several minutes as a 16:9 MP4. Download it, share it from your phone, or find it later in My videos.
 
 ### The by-hand way, with the exact prompts
 
@@ -72,12 +72,26 @@ The one-tap flow runs this prompt for you. The video prompt animates your own ph
 
 #### Variant: Original song
 
-Settings: 2 photos (left person + right person) · h3-recast · 15 s · 720p · 9:16 · with sound · 180 credits in one tap.
+Settings: 2 photos (left person + right person) · Seedance 2.5 · 15 s · 720p · 9:16 · no sound · 228 credits in one tap.
 
-1. The video prompt is filled in. Settings: h3-recast, 15 s, 720p, 9:16, sound on. The video prompt:
+1. The video prompt is filled in. Settings: Seedance 2.5, 15 s, 720p, 9:16, sound off. The video prompt:
 
    ```text
-   Image 1 replaces the man on the left in the striped shirt and white sunglasses. Image 2 replaces the man on the right in the orange knit shirt and tinted glasses. Each person keeps the face, hair, clothes and accessories of their own image in every shot, with no sunglasses or glasses unless their own image shows them. A dress or a skirt stays a dress or a skirt in every move, with the legs and shoes under it. Keep the background, the motion, the camera and the audio exactly as in the video.
+   Recreate the reference video [Video 1] shot for shot: the same orange studio booth, the same hanging microphone, the same light, the same camera angles, cuts, timing and moves. The ONLY change: [Image 1] replaces the man on the left, and [Image 2] replaces the man on the right. Each photo can show a person, a pet, a toy, a cartoon or game character, a figure or an object: whoever or whatever it shows takes that man's place with its WHOLE body, not only the head.
+
+Use [Video 1] only for the place, the camera, the cuts, the timing and the moves. Do not copy the two men from [Video 1]: nothing of them stays in any shot, not their faces, skin, hair, hands, shirts, jeans, shorts, glasses or jewelry.
+
+The one on the left = [Image 1], from head to feet in EVERY shot. If [Image 1] shows a person: copy the exact face - face shape, eye color and eye shape, eyebrows, nose, mouth, skin tone, age, hair color, hair length and hairstyle, and any beard, moustache, glasses or freckles exactly as in the photo - and the clothes from [Image 1], with no white sunglasses unless [Image 1] shows them. If it shows anything else: that exact subject, with its own shape, proportions, colors, surface, material and art style; its own whole body, whatever it has (head, torso, arms, paws, legs, feet or a base), replaces ALL of the man's body, with no shirt, no shorts, no jeans and no human arms, hands or skin unless [Image 1] shows them; it raps and points with its own limbs, or sways and bounces with its whole body when it has none; a blocky figure stays blocky, a plush stays soft, a plant stays a plant.
+
+The one on the right = [Image 2], from head to feet in EVERY shot, copied from [Image 2] in the same way: a person in the clothes from [Image 2] with no tinted glasses unless [Image 2] shows them, anything else with its own whole body and no human arms, hands, shirt or shorts unless [Image 2] shows them.
+
+When a photo shows only a head or an upper body, add the rest so it matches. Both copy the rapping, the gestures and the hand moves of the two men in the way their own bodies allow, and a mouth moves with the song when they have one. The same two in every frame, from the first shot to the last, so their friends instantly recognize them. Never morph, never drift back to the original men. Do not mix them: [Image 1] is only the one on the left, [Image 2] is only the one on the right.
+
+Shots, matching the reference:
+1. Wide: both stand in the orange booth by the hanging microphone.
+2. Medium two-shot: they rap in turn into the microphone, with loose hand moves, and react to each other.
+
+Anatomy rules: one head each, on its own body. A face never appears on hands or clothes. Exactly two performers. No text, no logos.
    ```
 
 2. Press Generate, then download the 9:16 MP4.
@@ -86,12 +100,26 @@ One-tap version of this variant: https://www.makeviral.ai/templates/ai-hotel-lob
 
 #### Variant: Original song, pets
 
-Settings: 2 photos (left pet + right pet) · h3-recast · 15 s · 720p · 9:16 · no sound · 180 credits in one tap.
+Settings: 2 photos (left pet + right pet) · Seedance 2.5 · 15 s · 720p · 9:16 · no sound · 228 credits in one tap.
 
-1. The video prompt is filled in. Settings: h3-recast, 15 s, 720p, 9:16, sound off. The video prompt:
+1. The video prompt is filled in. Settings: Seedance 2.5, 15 s, 720p, 9:16, sound off. The video prompt:
 
    ```text
-   Replace both cats in the video with characters from image 1 and image 2, and preserve the original background, actions, poses, camera movement, lighting and timing. Only replace the two cats keep everything else unchanged. Image 1 replaces the cat on the left, who stands upright and raps into the hanging microphone, in every shot. Image 2 replaces the cat on the right, who stands upright and dances with its front paws, in every shot, also when it turns its back to the camera. Each pet keeps the face shape, ears, fur colors, fur length and markings from its own image, not those of the cats in the video. If an image shows a dog or another animal, that animal takes the same place, standing upright on its hind legs and doing the same moves. Keep the orange studio, the hanging microphone and the mouth movement exactly as in the video.
+   Recreate the reference video [Video 1] shot for shot: the same flat orange studio booth, the same hanging silver microphone between them, the same soft orange light, the same camera angles, cuts, timing and moves. The rapping pet's mouth opens and closes with the song exactly like in the video. The ONLY change: the cat on the left who stands upright and raps into the hanging microphone is now the pet in [Image 1], and the cat on the right who stands upright and dances with its front paws is now the pet in [Image 2]. Both change: no cat from the video stays anywhere, also when only the back of a head shows.
+
+The rapper on the left = the pet in [Image 1], whole body, in EVERY shot, also in profile at the microphone: the same species and breed, head shape, face shape, muzzle, eyes, eye color, ear size and shape, fur colors, fur length and markings as in [Image 1], with the natural body volume and proportions of that animal: never flattened, squashed, stretched or merged with anything. It raps into the microphone with the same mouth moves and paw gestures as the cat on the left in the video.
+
+The dancer on the right = the pet in [Image 2], whole body, in EVERY shot, also when it turns its back to the camera: the same species and breed, head shape, face shape, muzzle, eyes, eye color, ear size and shape, fur colors, fur length and markings as in [Image 2], with the natural body volume and proportions of that animal: never flattened, squashed, stretched or merged with anything. It dances with the same front-paw moves as the cat on the right in the video.
+
+Each coat is not the coat of the cat in the video: the colors, the pattern and the fur length come only from each pet's own photo, on the head, the back, the belly, the legs and the tail. A short-haired pet stays short-haired, a long-haired pet stays fluffy. The same two pets in every frame, from the first shot to the last, so their owners instantly recognize them. Never morph, never drift back to the cats of the video. Do not mix the two pets: [Image 1] is only the rapper on the left, [Image 2] is only the dancer on the right. If a photo shows a dog or another animal, that animal takes the same place, standing upright on its hind legs and doing the same moves.
+
+Shots, matching the reference:
+Shot 1 [0-4.5 s]: medium two-shot. The pet on the left raps into the microphone in profile; the pet on the right gestures with its front paws.
+Shot 2 [4.5-7.8 s]: hard cut, the same booth. The rapper keeps rapping; the dancer crosses its front paws at the chest and sways.
+Shot 3 [7.8-11.6 s]: hard cut. The dancer turns its back to the camera and dances; the rapper raps with one paw raised.
+Shot 4 [11.6-15 s]: hard cut. The dancer turns to the camera again, reaches up and puts its paws on its head; the rapper raps on.
+
+Anatomy rules: one head per pet, on its own body, one tail each. Real furry paws, no human hands. Exactly two animals. No people, no extra animals, no text, no logos, no watermark. No dialogue throughout the entire video. No background music.
    ```
 
 2. Press Generate, then download the 9:16 MP4.
@@ -158,7 +186,7 @@ You pay per video in credits, and the create page shows the exact price on the G
 
 | Video model | Settings | Credits |
 | --- | --- | --- |
-| H3 Max Recast (this template) | 15 s, 720p, copies the trend clip, one tap | 180 |
+| Seedance 2.5 (this template) | 15 s, 720p, copies the trend clip, one tap | 228 |
 
 Credits come with a plan; see [pricing](https://www.makeviral.ai/pricing). A failed video gives its credits back.
 
@@ -174,8 +202,8 @@ There are four versions. All of them take two photos, left side first.
 
 | Version | What you get | Length | Frame | Sound | Price |
 |---|---|---|---|---|---|
-| Original song (default) | MiniMax H3 Max Recast puts your two photos into the real 2022 clip in place of the two performers. It keeps the moves, the camera cuts, the lip sync and the song. | 15 s | Wide 16:9, the frame of the original clip | The real song with the real lip sync, inside the file | Costs more |
-| Original song, pets | MiniMax H3 Max Recast puts your two pets into the most viral AI cat version of the trend, in place of the black cat and the ginger cat. It keeps the shots, the moves and the mouth movement. | 15 s | Wide 16:9, a crop of the 4:3 cat reel | The reel's song, put back on after the run; you can turn it off | Costs more |
+| Original song (default) | Top-quality AI video models put your two photos into the real 2022 clip in place of the two performers. They keep the moves, the camera cuts and the lip sync, and the real song goes back on after the run. | 15 s | Wide 16:9, the frame of the original clip | The real song, put back on after the run; you can turn it off | Costs more |
+| Original song, pets | Top-quality AI video models put your two pets into the most viral AI cat version of the trend, in place of the black cat and the ginger cat. They keep the shots, the moves and the mouth movement. | 15 s | Wide 16:9, a crop of the 4:3 cat reel | The reel's song, put back on after the run; you can turn it off | Costs more |
 | Two people | Seedance 2.5 takes your two photos and films a new rap duet in the orange booth straight from them, with no AI picture in between, so both faces stay yours. | 10 s | Vertical 9:16, 720p | An original AI beat and generated rap lines | Less than Original song |
 | Two pets | MakeViral builds an orange booth photo of your two pets with Nano Banana 2.1, then Kling 3.0 animates them standing upright at the mic. | 10 s | Vertical 9:16, 1080p | An original AI beat and small cartoon voices | The lowest price |
 
@@ -185,7 +213,7 @@ The exact price of each version shows on its card in the prompts section of this
 
 **Which part of the clip is it?** The 15 seconds that the viral swaps use. They start 12.4 seconds into the 2022 performance video; we found the spot by matching the audio of a viral swap to the original upload. We removed the show's logo. Original song, pets uses the first 15 seconds of the cat reel, from its first close shot, with the same opening verse.
 
-**Why this model?** We tested two models on the real clip with AI-made photos. Higgsfield Genjutsu kept the original man on the left. MiniMax H3 Max Recast swapped both people, and both faces and outfits came out right, so Original song uses Recast. Original song, pets uses the same model on the cat reel. Every run is a new take, so results differ.
+**Why these models?** We tested several top-quality AI video models on the real clip with AI-made photos. Original song uses the one that kept both faces right in every shot with the tightest lip sync, and the others take over if it fails. Original song, pets uses the same models in the same way on the cat reel. Every run is a new take, so results differ.
 
 ## How do you get the left and right right?
 
@@ -210,7 +238,7 @@ In **Two pets**, the photo prompt names the **first image as LEFT** and the **se
 
 ## Can you use the real Hotel Lobby song?
 
-Yes, with the two **Original song** versions. Original song starts from the real 2022 clip, so the song and the lip sync in your file are the real ones. Original song, pets copies the viral cat reel and puts the reel's song back on after the run, cut to the same 15 seconds, so the mouths match it; you can turn it off on the result screen. You do not need to add a sound when you post.
+Yes, with the two **Original song** versions. Original song copies the real 2022 clip and puts the real song back on after the run, cut to the same 15 seconds, so the mouths match it. Original song, pets does the same with the viral cat reel and its song. In both, you can turn the song off on the result screen. You do not need to add a sound when you post.
 
 The **Two people** and **Two pets** versions are different. They make a new scene with an original AI beat and generated rap lines, and the lip movement follows those lines, not the song. If you add the trending sound to one of them in TikTok, Instagram or YouTube, the lines will not match it word for word, so many creators keep the original beat and put the joke in the caption instead.
 
@@ -246,7 +274,7 @@ Press "Create your own" on this page, pick a version and add two full-body photo
 
 ### Can I get the real Hotel Lobby song and moves?
 
-Yes, with the Original song version. MiniMax H3 Max Recast takes the real 2022 clip and puts your two photos in place of the two performers. It keeps the moves, the camera cuts, the lip sync and the song, so your file plays the real Hotel Lobby audio. The clip is 15 seconds and wide (16:9) like the original, and it costs more credits than the Two people and Two pets versions. For pets, Original song, pets does the same with the viral cat reel.
+Yes, with the Original song version. Top-quality AI video models take the real 2022 clip and put your two photos in place of the two performers. They keep the moves, the camera cuts and the lip sync, and the real Hotel Lobby song goes back on after the run, so your file plays the real audio. The clip is 15 seconds and wide (16:9) like the original, and it costs more credits than the Two people and Two pets versions. For pets, Original song, pets does the same with the viral cat reel.
 
 ### Can I make the Hotel Lobby trend with my cats or dogs?
 
@@ -278,8 +306,17 @@ Two people and Two pets make a new scene with an original AI beat and generated 
 - [AI photo generator](https://www.makeviral.ai/ai-photo-generator)
 - [All AI video templates](https://www.makeviral.ai/templates)
 
+## New AI video trends this week
+
+- [Christmas Dance AI: Do the New TikTok Christmas Dance From Your Photos](https://www.makeviral.ai/templates/christmas-dance-ai-trend): Hip sways with the hands at the collar, rolling arms, a quick spin and raised fists, side by side in matching Christmas pajamas. Add two photos for the duo, one for a solo take, or two pets, and get the dance with the sound.
+- [Cat on Ultra Bee AI: Put Your Pet on the Wheelie](https://www.makeviral.ai/templates/cat-on-ultra-bee-ai-trend): Add one photo, and your cat or dog stands on an electric dirt bike and holds a long wheelie down a city road at golden hour, in the same shots as the viral clip, with its original sound. You can take the ride yourself, too.
+- [Tus Ojos Me Reflejan el Sentimiento: The Cafuné Eye Close-Up Trend](https://www.makeviral.ai/templates/tus-ojos-me-reflejan-ai-trend): You lie on your side, a hand rests on your cheek, warm light falls on your face, and the camera slowly moves in until your eyes fill the screen while the line plays. One photo in, an 8-second vertical clip with the trend's song out.
+- [İnşallah Maşallah AI Trend: Sing Neşe Karaböcek's Song on the Couch](https://www.makeviral.ai/templates/insallah-masallah-ai-trend): You sit on a light grey couch and sing the old Turkish love song straight to the camera: a hand on the heart, a big laugh with both hands on your head, a finger pointed at the camera and a kiss at the end. One photo of you, a grandparent or your pet, and the 15-second clip comes with the song.
+- [Ice Ice Baby Dance AI: Do the Viral Duo Dance With a Friend](https://www.makeviral.ai/templates/ice-ice-baby-dance-ai): Two dancers side by side, the same bouncy 90s steps, a spin on the beat and a strut to the camera. Add a photo of you and a friend, of you alone, or of your pet, and get the dance with the sound.
+- [Save Yourself Trend: Pull Yourself Up From the Cliff](https://www.makeviral.ai/templates/save-yourself-ai-trend): One photo plays both of you: the scared you clinging to a wet sea cliff, and the calm you who reaches down, pulls you up and holds you. Or use two photos: an older photo of you and a new one, or you and a friend. 15 seconds, vertical.
+
 ## Make your own Hotel Lobby video
 
-Add two photos and press Generate. No prompt to write. 180 credits, charged once.
+Add two photos and press Generate. No prompt to write. 228 credits, charged once.
 
 [Make this video](https://www.makeviral.ai/templates/ai-hotel-lobby-trend/create)

@@ -1,0 +1,49 @@
+# AI Text Prank: The Fake House Photo You Text Your Dad
+
+- Source: [makeviral](https://www.makeviral.ai/templates/ai-text-prank)
+- Slug: `ai-text-prank`
+
+The AI text prank is a TikTok trend: you edit a real photo of your house with AI so it shows something absurd, text it to your dad as if it is real, and post his replies.
+
+## Demo videos (CDN)
+
+- https://www.makeviral.ai/media/templates/ai-text-prank/original-pet-v2.mp4
+
+## Posters
+
+- https://www.makeviral.ai/media/templates/ai-text-prank/original-pet-v1.jpg
+
+## Prompts
+
+### 1. Prompt 1
+
+*Kind: prompt*
+
+```text
+cover this house with christmas lights. Use the uploaded image as the base. This is a photo edit of the same real place in the same photo, not a new picture: keep the same house, its shape, roof, walls, windows, doors and colors, the yard, the fence, the trees, the street, the neighbors' houses, the camera angle, the lens and the framing exactly as in the photo, so the owner knows the place at once. Cover this house with Christmas lights, wildly over the top, as if a crew decorated it for a week: thousands of warm white and colored string lights outline every roof line, gable, window, door, the garage and the porch; the trees and bushes are wrapped in lights; glowing candy canes line the path and the driveway; a lit reindeer and sleigh stand on the roof; and one giant inflatable Santa Claus sits on the roof, waving, taller than the roof itself and clearly too big for the house. It is early evening, so every light glows and reflects on the wet driveway, while the house stays clearly the same house. Any person or animal already in the photo stays exactly as they are. Add no new people, so no human faces appear that were not in the photo. A real, unedited-looking phone photo with natural light, correct shadows, scale and perspective, sharp detail and no AI gloss. No text, no letters, no numbers, no signs with words, no logos, no watermark, no app interface.
+```
+
+### 2. Prompt 2
+
+*Kind: prompt*
+
+```text
+add a HUGE WATERSLIDE. Use the uploaded image as the base. This is a photo edit of the same real place in the same photo, not a new picture: keep the same house, its shape, roof, walls, windows, doors and colors, the yard, the fence, the trees, the street, the neighbors' houses, the camera angle, the lens and the framing exactly as in the photo, so the owner knows the place at once. Keep the pool, the patio, the furniture and the lawn where they are. Add a HUGE WATERSLIDE, built right in this yard: a water park slide tower taller than the house, a grey steel scaffold with stairs and landings, and four glossy blue and white tube slides that twist, loop and wrap around each other on the way down and all end with a splash in the pool. If the photo has no pool, the slides end in a new rectangular pool on the lawn. Water runs down the slides and sprays at the bottom. It looks freshly installed and absurdly big for the yard, standing firmly on the ground with real shadows. Any person or animal already in the photo stays exactly as they are. Add no new people, so no human faces appear that were not in the photo. A real, unedited-looking phone photo with natural light, correct shadows, scale and perspective, sharp detail and no AI gloss. No text, no letters, no numbers, no signs with words, no logos, no watermark, no app interface.
+```
+
+### 3. Prompt 3
+
+*Kind: prompt*
+
+```text
+Have a storm blow this person away. Use the uploaded image as the base: the same real place, from the same camera angle, and the same person in the same clothes. A wild storm hits right now: a dark grey sky, heavy rain in slanting sheets, the trees and bushes bent hard by the wind, leaves, a bin lid and a garden chair flying through the air, puddles on the ground. The person from the photo is blown away: lifted off their feet and flying sideways through the air in the wind, about one meter above the ground, arms and legs flailing, hair and clothes whipped and soaked by the rain, the face turned toward the camera with a shocked, open-mouthed look. Funny and absurd, not hurt, no injury and no blood. Keep the houses, the path, the gate and the street the same as in the photo. Exactly the people in the photo, no one added. A real, unedited-looking phone photo with natural light, correct shadows, scale and perspective, sharp detail and no AI gloss. No text, no letters, no numbers, no signs with words, no logos, no watermark, no app interface.
+```
+
+### 4. Prompt 4 (Pet)
+
+*Kind: prompt*
+
+```text
+Make it so the doghouse looks expensive. Use the uploaded image as the base. This is a photo edit of the same real yard in the same photo: keep the lawn, the fence, the house, the trees, the sky, the light, the camera angle and the framing exactly as in the photo. Keep the pet exactly the same animal as in the photo, with its own natural size and proportions. Replace the pet's house (a doghouse, a kennel, a cat house or a pet bed) with an expensive luxury mini mansion for the pet, in the same spot and about three times bigger: a craftsman-style house with a stone base, thick wooden beams, a pitched shingle roof, a big arched entrance, real glass windows, two warm wall lanterns, a small wooden porch with potted plants and a tiny cushioned sofa. If the photo shows no pet house, build it on the lawn behind the pet. The pet stands proudly in the arched entrance, facing the camera. Exactly the animals in the photo, no people. A real, unedited-looking phone photo with natural light, correct shadows, scale and perspective, sharp detail and no AI gloss. No text, no letters, no numbers, no signs with words, no logos, no watermark, no app interface.
+```
+

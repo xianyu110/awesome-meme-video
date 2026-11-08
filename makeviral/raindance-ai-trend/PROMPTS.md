@@ -41,11 +41,27 @@ Shots, matching the reference:
 Anatomy rules: one head per person, on that person's own shoulders. A face never appears on knees, legs, hands or clothes. Exactly two people. No text, no logos.
 ```
 
-### 2. 1. The video prompt is filled in. Settings: h3-recast, 15 s, 720p, 9:16, sound off. The video prompt (Pet)
+### 2. 1. The video prompt is filled in. Settings: Seedance 2.5, 15 s, 720p, 9:16, sound off. The video prompt (Pet)
 
 *Kind: video_prompt*
 
 ```text
-Image 1 replaces the cat who sits at the end of the wooden pier and looks out to sea, in every shot. Image 2 replaces the cat who walks up the pier and sings to the camera, in every shot, with no leash and no strap. Keep the face shape, ears, fur colors, fur length and markings from each image, not those of the cats in the video. Keep the pier, the sea, the beach, the light, the motion, the mouth movement and the camera exactly as in the video.
+Recreate the reference video [Video 1] shot for shot: the same wooden pier, the same calm sea and sand beach, the same soft evening light, the same camera angles, cuts, timing and moves. The singing pet's mouth moves with the song exactly like in the video. The ONLY change: the cat who sits at the end of the pier is now the pet in [Image 1], and the cat who walks up the pier and sings to the camera is now the pet in [Image 2]. Both change: no cat from the video stays anywhere, also in the first shot on the pier, in the wide shots and when only the back of a head shows.
+
+The pet on the pier = the pet in [Image 1], whole body, in EVERY shot, from the very first frame: the same species and breed, head shape, face shape, muzzle, eyes, eye color, ear size and shape, fur colors, fur length and markings as in [Image 1], with the natural body volume and proportions of that animal: never flattened, squashed, stretched or merged with anything.
+
+The singer = the pet in [Image 2], whole body, in EVERY shot, also in the big close-ups: the same species and breed, head shape, face shape, muzzle, eyes, eye color, ear size and shape, fur colors, fur length and markings as in [Image 2], with the natural body volume and proportions of that animal: never flattened, squashed, stretched or merged with anything. It copies the singing mouth and the paw moves of the singer in the video. No leash and no strap.
+
+Each coat is not the coat of the cat in the video: the colors, the pattern and the fur length come only from each pet's own photo. If a pet in a shot still looks like a cat from the video and not like its photo, it is wrong: draw it as the animal in its photo. The two pets look as different from each other as the two photos do. Never morph, never drift back to the cats of the video. Do not mix the two pets: [Image 1] is only the pet on the pier, [Image 2] is only the singer. If a photo shows a dog or another animal, that animal takes the same place and does the same moves.
+
+Shots, matching the reference:
+Shot 1 [0-4.5 s]: the pet from [Image 1] sits at the end of the wooden pier and looks out to sea; the camera pulls back past it, and far behind, the singer walks up the pier.
+Shot 2 [4.5-6.7 s]: hard cut, close-up of the singer by the sea, singing to the camera.
+Shot 3 [6.7-9.8 s]: hard cut, both sit on the sand: the singer faces the camera and sings, the pet from [Image 1] sits in front at the side and turns its head to the singer.
+Shot 4 [9.8-10.9 s]: hard cut, close-up of the singer singing by the sea.
+Shot 5 [10.9-12.3 s]: hard cut, the singer raises a front paw to the camera.
+Shot 6 [12.3-15 s]: hard cut, big close-up of the singer's face, singing, one paw pointing at the camera.
+
+Anatomy rules: one head per pet, on its own body. Real furry paws, no human hands. Exactly two animals. No people, no extra animals, no text, no logos, no watermark. No dialogue throughout the entire video. No background music.
 ```
 

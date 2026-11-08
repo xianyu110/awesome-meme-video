@@ -3,7 +3,7 @@
 > The laughing fairy meme is the viral AI clip of two tiny, pale forest fairies who whisper a secret on a mossy branch at night and then burst out laughing.
 
 Canonical: https://www.makeviral.ai/templates/laughing-fairy-ai-trend
-Updated: 2026-10-22
+Updated: 2026-11-06
 Published: 2026-10-22
 Author: MakeViral Team (https://www.makeviral.ai/about)
 Publisher: MakeViral (https://www.makeviral.ai)
@@ -12,11 +12,11 @@ The **laughing fairy meme** is the viral AI clip of two tiny, pale forest fairie
 
 At night on a mossy branch, two tiny fairies whisper a secret, gasp and fall about laughing, in the camera flash. Add your photo to be one of them, or add your best friend's too.
 
-Also called: Prilili fairies, Gossip fairies, Fairy gossip meme, Fadas Prilili, Hadas chismosas.
+Also called: Prilili fairies, Bluti Fruti fairies, Gossip fairies, Fairy gossip meme, Fadas Prilili, Hadas Prilili, TikTok fairies, Hadas chismosas.
 
 **Make it now:** [Make this video](https://www.makeviral.ai/templates/laughing-fairy-ai-trend/create). 1 photo · 8 s · 9:16 with sound · 46 credits, charged once · ready in a few minutes · no prompt to write.
 
-Keyword: laughing fairy meme. Also answers: fairy meme, laughing fairy, laughing fairies, fairies laughing, prilili, gossip fairy, fairy laughing meme, ai fairy meme, fairy meme tiktok, laughing fairy ai, fairy gossip, fairies laughing meme, prilili meme, prilili fairy, nilili prilili niaka, prilili trilili niaka, fairy meme video, fairy meme green screen, fairy meme template, fairy meme funny, fairy laughing gif, gossiping fairies, whispering fairies, laughing fairy trend, laughing fairy ai trend, ai fairy video, ai fairy trend, ai fairies laughing, turn me into a fairy, turn me into a fairy ai, turn yourself into a fairy, fairy version of me, me and my bestie as fairies, us as fairies, ai fairy filter, fairy filter, fairy filter tiktok, fairy found footage, fairy caricature, creepy fairies, ugly fairy meme, fae eyes fairies, fae nest fairies, fadinhas prilili, haditas chismosas, fairy tiktok trend, fairy meme sticker.
+Keyword: laughing fairy meme. Also answers: fairy meme, laughing fairy, laughing fairies, fairies laughing, prilili, gossip fairy, fairy laughing meme, ai fairy meme, fairy meme tiktok, laughing fairy ai, fae nest, ai fairies, fairy meme ai, fae eyes, bluti fruti, blooti frooti, blooti frooti fairies, bluetti frutti, bluetti frutti fairies, bluti fruti meme, bluetti frutti meme, bluetti frutti gif, bluti fruti original, bluti fruity, blutti frutti, gossip fairies meme, laughing fairies meme, ai fairys, tiktok fairy meme, viral fairy meme videos, two fairies laughing original, ai fairies on tiktok, tiktok ai fairy, meme fairy, gossip faries, hadas trilili, nilili trilili, gossiping fairies meme, fairy gossip, fairies laughing meme, prilili meme, prilili fairy, ai fairies meme, nilili prilili niaka, prilili trilili niaka, fairy ai meme, ai fairy gif, tik tok fairies, ai faries, what is prilili, ai faires, gossip fairys, fadas prilili piriri, prilili in real life, fairy edit meme, odd fairy meme, tiktok fairy, prilili tiktok, prilili and prikiki, funny fairy meme, laughing faries, fariy meme, little fairies laughing, prilili trilili niaka meme, prilili fae, is prilili ai, fae nest gif, fairy meme original video, odd fairy ai, fairy gif, ai fairy prilili, fae meme, fairy meme effect, is fae nest ai, trilili prilili meme, prilili pririri, fadas meme, priki fairy, prilili prilili meme, prilili sticker, fairy meme video, fairy meme green screen, fairy meme template, fairy meme funny, fairy laughing gif, gossiping fairies, whispering fairies, laughing fairy trend, laughing fairy ai trend, ai fairy video, ai fairy trend, ai fairies laughing, turn me into a fairy, turn me into a fairy ai, turn yourself into a fairy, fairy version of me, me and my bestie as fairies, us as fairies, ai fairy filter, fairy filter, fairy filter tiktok, fairy found footage, fairy caricature, creepy fairies, ugly fairy meme, ai fairy laughing, ai fairies tiktok, prilili and priki, tiktok ai fairies, trilili prilili, fae.eyes tiktok, prilili prilili, trilili prilili niaka, ai fairy tiktok, prilili gif, fairy tiktok meme, prilili piriri, fairies tiktok, trilili meme, weird fairy meme, fae nest meme, two fairies meme, ai fairy funny, fae nest tiktok, two fairies, fairies gossip meme, two fairies laughing, fae eyes fairies, fae nest fairies, fadinhas prilili, fada prilili, fairies gossip, fairies gossiping meme, fairies meme, gossip fairy meme, little fairy meme, prilili meaning, prilili priki, prilili y priki, tiktok fairy effect, fada trilili, fae nest prilili, haditas chismosas, fairy filter meme, two fairies laughing meme, fairy tiktok trend, fairy meme sticker.
 
 ## What is the Laughing Fairy AI trend, and where did it start?
 
@@ -43,6 +43,9 @@ Made from the prompts on this page. The people and pets are AI-made, not real pe
 - **Example 2** (9 s, 9:16 MP4 with sound): The creator's most viewed clip, by @fae.eyes (5 October 2026, 8.5 million views): a whisper in the ear, a gasp, then both fairies giggle. Fans wrote the babble down as "ñilili, prilili, ñaca". Best friends makes this scene with you and your friend.
   - Video: https://www.makeviral.ai/media/templates/laughing-fairy-ai-trend/original-laugh-v2.mp4
   - Poster: https://www.makeviral.ai/media/templates/laughing-fairy-ai-trend/original-laugh-v1.jpg
+- **Example 3** (12 s, 9:16 MP4 with sound): The Bluti Fruti clip by @fae.eyes on TikTok (15 October 2026, 3.5 million views): a tall fairy struts past and twirls, one small fairy squeaks a line fans hear as "bluti fruti", and both fall about laughing. Bluti Fruti puts your two faces on the small fairies.
+  - Video: https://www.makeviral.ai/media/templates/laughing-fairy-ai-trend/original-bluti-v2.mp4
+  - Poster: https://www.makeviral.ai/media/templates/laughing-fairy-ai-trend/original-bluti-v1.jpg
 
 ## How to make the Laughing Fairy AI video on MakeViral
 
@@ -108,6 +111,35 @@ Audio: crickets and a quiet night forest, the squeaky whispered fairy babble wit
 
 One-tap version of this variant: https://www.makeviral.ai/templates/laughing-fairy-ai-trend/create?variant=duo
 
+#### Variant: Bluti Fruti
+
+Settings: 2 photos (you, face clear + your friend, face clear) · Seedance 2.5 · 12 s · 720p · 9:16 · no sound · 183 credits in one tap.
+
+1. The video prompt is filled in. Settings: Seedance 2.5, 12 s, 720p, 9:16, sound off. The video prompt:
+
+   ```text
+   Recreate the reference video [Video 1] shot for shot: the same two small pale fairies on wet moss in a dark forest at night, the same phone flash, the same very tall fairy who struts past, the same camera, cut, timing, moves and mouth moves. The ONLY change: the faces and the hair of the two small fairies. [Image 1] becomes the small round-bellied fairy on the LEFT, and [Image 2] becomes the slim winged fairy on the RIGHT. Both change, also in the wide shot where the faces are small.
+
+The left fairy = the person in [Image 1], in EVERY frame: copy the exact face from [Image 1] (face shape, eye color and eye shape, eyebrows, nose, mouth, skin tone, age, hair color, hair length and hairstyle, and any beard, moustache, glasses or freckles exactly as in the photo) on the tiny fairy's head, with long pointed fairy ears sticking out through the hair. Its skin has the skin tone from [Image 1]. It keeps the tiny size, the round belly, the thin arms and legs and every move of the left fairy in [Video 1]. NO fuzzy white hair unless [Image 1] shows white hair. Never the clothes from [Image 1].
+
+The right fairy = the person in [Image 2], in EVERY frame, copied from [Image 2] in the same way, with the long pointed ears, the see-through insect wings, the thin body and every move of the right fairy in [Video 1]. NO spiky white hair unless [Image 2] shows white hair. Never the clothes from [Image 2].
+
+If an image shows an animal, that fairy has the animal's own face, fur colors and markings on the tiny fairy body. Never blend the two faces: [Image 1] is only the left fairy, [Image 2] is only the right fairy. The same two faces in every frame, so their friends recognize them at once. Never drift back to the faces from the video. Both stay hand-sized fairies, never full-size people.
+
+The tall fairy stays exactly as in [Video 1] and never gets a face from the photos.
+
+Shot 1 [0-6.3s]: one handheld take near the ground: the wet leaf slides away from the lens and the two small fairies stand close together on the moss. From about 2 s the tall fairy walks in from the left, struts across in front of them, twirls with a proud swish of its long gown, and struts out of the frame on the right. The two small fairies stand still and watch.
+Shot 2 [6.3-11.9s]: hard cut, closer, the two small fairies from the knees up: the left fairy lifts one arm high in a mocking pose and squeaks a short line, then both burst into wild, wheezing laughter, heads back, mouths wide open, bending and shaking, until they tumble out of the frame.
+
+The mouths open and close exactly when the fairies' mouths do in [Video 1]; each face stays the face from its photo, also while laughing with the mouth wide open.
+
+Real night-time phone footage with the flash on, like found footage. Anatomy rules: one head each, on its own shoulders. Exactly three fairies, no people, no other creatures. No blood, no sharp teeth, no extra limbs. No text, no captions, no logos, no watermark.
+   ```
+
+2. Press Generate, then download the 9:16 MP4.
+
+One-tap version of this variant: https://www.makeviral.ai/templates/laughing-fairy-ai-trend/create?variant=bluti
+
 ### Which photo works best?
 
 Upload **one photo** of yourself for You, or **two photos** for Best friends: you first, then your friend.
@@ -146,10 +178,11 @@ First the AI draws a night flash photo of the scene: a mossy branch deep in a da
 
 - **You** (1 photo): you are the fairy on the left, and a pale, wrinkly fairy in the style of the original clips tells you the secret. It is the fairy version of me that people asked the creator for in the comments.
 - **Best friends** (2 photos): two fairies with your two faces, the me and my bestie as fairies post. Photo 1 is the fairy on the left who hears the secret, photo 2 the friend on the right who whispers it.
+- **Bluti Fruti** (2 photos): the viral Bluti Fruti clip itself, also spelled Blooti Frooti. A tall fairy struts past, then you (photo 1, left) and your friend (photo 2, right) burst out laughing as the two small fairies: 12 seconds with the clip's own sound, in one quality.
 
-Each version has two quality options. **Standard** is the default and costs less, at 1080p. **Best** uses top-quality AI video models, including Seedance 2.5, at 720p: it costs more and keeps the faces and the tiny size more often while the fairies laugh. Both start from the same fairy photo and both have sound.
+You and Best friends each have two quality options. **Standard** is the default and costs less, at 1080p. **Best** uses top-quality AI video models, including Seedance 2.5, at 720p: it costs more and keeps the faces and the tiny size more often while the fairies laugh. Both start from the same fairy photo and both have sound.
 
-The template makes its own fairies. They look like the creepy-cute creatures of the trend, not like any fairy of the Fae Nest series, and they never show blood, wounds or sharp teeth.
+You and Best friends make their own fairies. They look like the creepy-cute creatures of the trend, not like any fairy of the Fae Nest series, and they never show blood, wounds or sharp teeth.
 
 ## What goes wrong, and how do you fix it?
 
@@ -185,6 +218,10 @@ The TikTok creator @fae.eyes, whose account is called Fae Nest. The clips carry 
 ### What does Prilili mean, and what are the fairies saying?
 
 Nothing: the fairies babble with no real words. Under the 8.5 million view clip, the top comments wrote it as "ñilili, prilili, ñaca", others as nilili prilili niaka or prilili trilili niaka, and that became the prilili meme. The creator then named the main fairy Prilili, so a prilili fairy is one of the laughing fairies.
+
+### What is the Bluti Fruti fairies meme?
+
+It is a second laughing fairy clip by @fae.eyes, posted on 15 October 2026: two small fairies watch a very tall fairy strut past and twirl, one squeaks a line that fans hear as "bluti fruti", and both fall about laughing. Fans also spell it Blooti Frooti, Bluetti Frutti, Bluti Fruity or Blutti Frutti, and #blutifruti has 53.6 million views on TikTok (6 November 2026). Meme pages share it as a green screen or a GIF; the Bluti Fruti version here puts you and your friend in the original clip, with its own sound. The Blooti Frooti fairies meme is the same scene.
 
 ### Is the laughing fairy video real?
 
@@ -243,6 +280,15 @@ No. Use photos of adults only: yourself, or a friend who said yes. Never a child
 - [AI Reels](https://www.makeviral.ai/tools/ai-reels-generator): Pick a format, give it a topic or a product link, and get a finished vertical reel with voice and captions. Nothing to film, nothing to edit.
 - [AI photo generator](https://www.makeviral.ai/ai-photo-generator)
 - [All AI video templates](https://www.makeviral.ai/templates)
+
+## New AI video trends this week
+
+- [Christmas Dance AI: Do the New TikTok Christmas Dance From Your Photos](https://www.makeviral.ai/templates/christmas-dance-ai-trend): Hip sways with the hands at the collar, rolling arms, a quick spin and raised fists, side by side in matching Christmas pajamas. Add two photos for the duo, one for a solo take, or two pets, and get the dance with the sound.
+- [Cat on Ultra Bee AI: Put Your Pet on the Wheelie](https://www.makeviral.ai/templates/cat-on-ultra-bee-ai-trend): Add one photo, and your cat or dog stands on an electric dirt bike and holds a long wheelie down a city road at golden hour, in the same shots as the viral clip, with its original sound. You can take the ride yourself, too.
+- [Tus Ojos Me Reflejan el Sentimiento: The Cafuné Eye Close-Up Trend](https://www.makeviral.ai/templates/tus-ojos-me-reflejan-ai-trend): You lie on your side, a hand rests on your cheek, warm light falls on your face, and the camera slowly moves in until your eyes fill the screen while the line plays. One photo in, an 8-second vertical clip with the trend's song out.
+- [İnşallah Maşallah AI Trend: Sing Neşe Karaböcek's Song on the Couch](https://www.makeviral.ai/templates/insallah-masallah-ai-trend): You sit on a light grey couch and sing the old Turkish love song straight to the camera: a hand on the heart, a big laugh with both hands on your head, a finger pointed at the camera and a kiss at the end. One photo of you, a grandparent or your pet, and the 15-second clip comes with the song.
+- [Ice Ice Baby Dance AI: Do the Viral Duo Dance With a Friend](https://www.makeviral.ai/templates/ice-ice-baby-dance-ai): Two dancers side by side, the same bouncy 90s steps, a spin on the beat and a strut to the camera. Add a photo of you and a friend, of you alone, or of your pet, and get the dance with the sound.
+- [Save Yourself Trend: Pull Yourself Up From the Cliff](https://www.makeviral.ai/templates/save-yourself-ai-trend): One photo plays both of you: the scared you clinging to a wet sea cliff, and the calm you who reaches down, pulls you up and holds you. Or use two photos: an older photo of you and a new one, or you and a friend. 15 seconds, vertical.
 
 ## Make your own Laughing Fairy AI video
 

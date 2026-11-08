@@ -8,14 +8,40 @@ The Ramalama Bang Bang trend is a Halloween costume walk set to Róisín Murphy'
 ## Demo videos (CDN)
 
 - https://www.makeviral.ai/media/templates/ramalama-ai-trend/original-pet-v2.mp4
+- https://www.makeviral.ai/media/templates/ramalama-ai-trend/original-walk-v2.mp4
 
 ## Posters
 
 - https://www.makeviral.ai/media/templates/ramalama-ai-trend/original-pet-v1.jpg
+- https://www.makeviral.ai/media/templates/ramalama-ai-trend/original-walk-v1.jpg
 
 ## Prompts
 
-### 1. 1. The video prompt is filled in. Settings: Seedance 2.5, 15 s, 720p, 9:16, sound off. The video prompt (Pet)
+### 1. 1. The video prompt is filled in. Settings: Seedance 2.5, 10 s, 720p, 9:16, sound off. The video prompt
+
+*Kind: video_prompt*
+
+```text
+Recreate the reference video [Video 1] shot for shot, as one continuous take: the same Halloween-decorated room at night with jack-o'-lantern garlands, cobwebs, paper bats, glowing lanterns and purple and orange lights, the same low handheld camera that starts at the boots and rises to the face, the same framing, timing and moves. The ONLY change: replace the woman in the video with the person in [Image 1]. Strictly keep the way she moves: the slow walk toward the camera, the head tilt and the smirk. Keep the camera moves and her actions in the video unchanged.
+
+The walker = the person in [Image 1], in EVERY frame: copy the exact face from [Image 1]: face shape, eye color and eye shape, eyebrows, nose, mouth, skin tone, age, hair color, hair length and hairstyle, and any beard, moustache, glasses or freckles exactly as in the photo. Keep the original identity, face structure, skin tone, hairstyle and body shape of [Image 1]. The same real person in every frame, from the first second to the last, so their friends instantly recognize them, above all in the final close-up of the face. Never morph, never drift back to the original woman's face. NO purple hair and NO pixie cut unless [Image 1] shows them. NO freckles, NO nose ring and NO earrings unless [Image 1] shows them. Both eyes have the eye color of [Image 1].
+
+COSTUME: the walker always wears the witch costume from [Video 1], never the clothes from [Image 1]: the small black witch hat tilted on the head, the long-sleeved black witch dress with the red lace-up corset front, the silver-buckled belt and the spiderweb embroidery, sheer black tights and black buckled knee boots. If [Image 1] shows a man, he wears the same witch costume in a man's cut: the hat, a long black witch tunic with the red lace-up front, the belt, black trousers and the buckled boots.
+
+THE WALK, beat by beat, one continuous shot with no cuts:
+00:00-00:01.5: the camera is low, at knee height, and shows only the black buckled boots and the legs stepping slowly toward the lens.
+00:01.5-00:03.3: the camera rises past the dress and the red lace-up corset while the walker keeps walking forward.
+00:03.3-00:05.5: the face appears under the small witch hat, the walker still walks toward the camera, eyes on the lens.
+00:05.5-00:10: a close-up of the face and shoulders: the walker slows, tilts the head, gives a confident smirk and a slow look into the camera, the lips parting a little.
+
+Real live-action footage, clear facial features, no distortion. No dialogue throughout the entire video. No background music.
+
+Anatomy rules: one head only, on the walker's shoulders. A face never appears on the legs, the dress or the decorations. Two arms, two legs, five fingers on each hand. Exactly one person in the video.
+
+No cuts, no text, no captions, no logos, no watermarks, no extra people, no morphing, no facial distortion.
+```
+
+### 2. 1. The video prompt is filled in. Settings: Seedance 2.5, 15 s, 720p, 9:16, sound off. The video prompt (Pet)
 
 *Kind: video_prompt*
 
@@ -31,7 +57,7 @@ The pet looks exactly like its photo in every frame, from the first shot to the 
 Anatomy rules: one head per animal, on its own body. No people, no text, no logos.
 ```
 
-### 2. 1. The video prompt is filled in. Settings: Seedance 2.5, 10 s, 720p, 9:16, sound on. The video prompt (Human)
+### 3. 1. The video prompt is filled in. Settings: Seedance 2.5, 10 s, 720p, 9:16, sound on. The video prompt (Human)
 
 *Kind: video_prompt*
 

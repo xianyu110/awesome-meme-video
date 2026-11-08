@@ -126,15 +126,15 @@ Every version follows one viral AI reel: three cats in wigs and Y2K outfits danc
 | Your photo | You dance in front on the right | You in front on the right, your friend on the left | Your pet dances in front on the right, upright on its hind legs |
 | The other dancers | Two new AI-made dancers in pink and silver sequins | One new AI-made dancer in the middle | The two cats of the reel, in their wigs |
 | Your outfit | Cropped pink jacket, white top, white cargo trousers | The same in front; pink sequin top and flared trousers on the left | A white top, a pink jacket and white cargo trousers, with no wig |
-| Model | Seedance 2.0 Mini | Seedance 2.0 Mini | Standard: Seedance 2.0 Mini. Best: MiniMax H3 Max Recast |
-| Length and frame | 15 s, vertical 9:16, 720p | The same | The same (Best: 768p) |
+| Model | Seedance 2.0 Mini | Seedance 2.0 Mini | Standard: Seedance 2.0 Mini. Best: top-quality AI video models that copy the reel itself |
+| Length and frame | 15 s, vertical 9:16, 720p | The same | The same |
 | Sound | The reel's song, which you can turn off | The same | The same |
 
 The exact price of each version shows on the Generate button before you spend anything.
 
 **Why this reel?** We never use the official music video: it shows the real members of manifest and belongs to the label. This AI cat version copies its giant boombox set and the girl-group routine with no real person in it, and it went viral on its own.
 
-**Why these models?** The dancers are full body in one wide shot, with small faces, so Seedance 2.0 Mini can follow the moves and draw new dancers around you. For people there is no Best: a model that copies the reel shot by shot would keep the other two cats next to you. For a pet, Best uses MiniMax H3 Max Recast, which puts your pet into the reel itself, next to the two cats.
+**Why these models?** The dancers are full body in one wide shot, with small faces, so Seedance 2.0 Mini can follow the moves and draw new dancers around you. For people there is no Best: a model that copies the reel shot by shot would keep the other two cats next to you. For a pet, Best uses top-quality AI video models, which put your pet into the reel itself, next to the two cats.
 
 ## Who should you put in your Toz Pembe video?
 
@@ -201,7 +201,7 @@ Yes. Your clip comes with the sound of the reel it copies, a part of the song, a
 
 ### How long is the video and what format is it?
 
-15 seconds, vertical 9:16, as an MP4 file with the song. Standard is 720p; the Pet Best option is 768p. It is ready for TikTok, Reels and Shorts.
+15 seconds, vertical 9:16, as an MP4 file with the song. All versions are 720p. It is ready for TikTok, Reels and Shorts.
 
 ### Is this the official Toz Pembe music video?
 
@@ -232,6 +232,15 @@ The Toz Pembe challenge is the dance trend of the song Toz Pembe: manifest fans 
 - [AI Reels](https://www.makeviral.ai/tools/ai-reels-generator): Pick a format, give it a topic or a product link, and get a finished vertical reel with voice and captions. Nothing to film, nothing to edit.
 - [AI photo generator](https://www.makeviral.ai/ai-photo-generator)
 - [All AI video templates](https://www.makeviral.ai/templates)
+
+## New AI video trends this week
+
+- [Christmas Dance AI: Do the New TikTok Christmas Dance From Your Photos](https://www.makeviral.ai/templates/christmas-dance-ai-trend): Hip sways with the hands at the collar, rolling arms, a quick spin and raised fists, side by side in matching Christmas pajamas. Add two photos for the duo, one for a solo take, or two pets, and get the dance with the sound.
+- [Cat on Ultra Bee AI: Put Your Pet on the Wheelie](https://www.makeviral.ai/templates/cat-on-ultra-bee-ai-trend): Add one photo, and your cat or dog stands on an electric dirt bike and holds a long wheelie down a city road at golden hour, in the same shots as the viral clip, with its original sound. You can take the ride yourself, too.
+- [Tus Ojos Me Reflejan el Sentimiento: The Cafuné Eye Close-Up Trend](https://www.makeviral.ai/templates/tus-ojos-me-reflejan-ai-trend): You lie on your side, a hand rests on your cheek, warm light falls on your face, and the camera slowly moves in until your eyes fill the screen while the line plays. One photo in, an 8-second vertical clip with the trend's song out.
+- [İnşallah Maşallah AI Trend: Sing Neşe Karaböcek's Song on the Couch](https://www.makeviral.ai/templates/insallah-masallah-ai-trend): You sit on a light grey couch and sing the old Turkish love song straight to the camera: a hand on the heart, a big laugh with both hands on your head, a finger pointed at the camera and a kiss at the end. One photo of you, a grandparent or your pet, and the 15-second clip comes with the song.
+- [Ice Ice Baby Dance AI: Do the Viral Duo Dance With a Friend](https://www.makeviral.ai/templates/ice-ice-baby-dance-ai): Two dancers side by side, the same bouncy 90s steps, a spin on the beat and a strut to the camera. Add a photo of you and a friend, of you alone, or of your pet, and get the dance with the sound.
+- [Save Yourself Trend: Pull Yourself Up From the Cliff](https://www.makeviral.ai/templates/save-yourself-ai-trend): One photo plays both of you: the scared you clinging to a wet sea cliff, and the calm you who reaches down, pulls you up and holds you. Or use two photos: an older photo of you and a new one, or you and a friend. 15 seconds, vertical.
 
 ## Make your own Toz Pembe Dance video
 

@@ -1,0 +1,71 @@
+# Mentalist AI Trend: Put Your Face on Patrick Jane in the Black-and-White Montage
+
+- Source: [makeviral](https://www.makeviral.ai/templates/ai-mentalist-trend)
+- Slug: `ai-mentalist-trend`
+
+The Mentalist AI trend puts your face on Patrick Jane, the smiling consultant from the TV series The Mentalist, in a black-and-white montage of his scenes: a sly look, a pointed finger, a wave from a camper van door and a big smile.
+
+## Demo videos (CDN)
+
+- https://www.makeviral.ai/media/templates/ai-mentalist-trend/original-tall-main-v2.mp4
+
+## Posters
+
+- https://www.makeviral.ai/media/templates/ai-mentalist-trend/original-tall-main-v1.jpg
+
+## Prompts
+
+### 1. 1. The video prompt is filled in. Settings: Seedance 2.5, 10 s, 720p, 9:16, sound off. The video prompt
+
+*Kind: video_prompt*
+
+```text
+Recreate the reference video [Video 1] shot for shot: the same black-and-white 2000s TV-drama look with soft grain, the same rooms and places, the same camera angles, cuts, timing and moves. The ONLY change: the man with wavy, swept-back hair in the dark three-piece suit, who is in every shot, is now the person in [Image 1].
+
+The man in the suit = the person in [Image 1], in EVERY shot: copy the exact face from [Image 1] - face shape, eye color and eye shape, eyebrows, nose, mouth, skin tone, age, hair color, hair length and hairstyle, and any beard, moustache, glasses or freckles exactly as in the photo. The same real person from the first frame to the last, so their friends recognize them at once, also in the quick cuts, in the head turns and while they smile wide with the teeth showing. Never morph, never drift back to the original man's face: NO wavy swept-back fair hair, NO stubble and NO deep smile lines unless [Image 1] shows them, and the age of [Image 1]. They wear the open-collar shirt, the dark waistcoat and the dark suit jacket from [Video 1], never the clothes from [Image 1]. Black and white throughout: the face and the hair from [Image 1] in black and white, in the same light and shadow as [Video 1]. If [Image 1] shows an animal, that animal is in every shot in the same place, with its own face, fur and markings.
+
+THE SHOTS, at the same times as [Video 1]:
+0.0-0.9 s: a dark wood-panelled room with a carved pillar: the person stands in the dark suit and looks across the room.
+0.9-1.7 s: at a table with a bottle, in the striped shirt and the open waistcoat: they lean forward and talk with a knowing look, one hand raised.
+1.7-3.4 s: a busy office with desks and a small decorated tree: they stand in the dark suit, then a closer shot as a woman passes in the foreground; they look past her with a calm stare.
+3.4-4.3 s: a close-up: a small head tilt, a sly look and the start of a smirk. The face is large and sharp: exactly the face from [Image 1].
+4.3-5.0 s: they hold a cup of tea at the chest and smile.
+5.0-5.8 s: seated in a grey jacket, they point a finger at someone off camera with a sly smirk.
+5.8-6.6 s: outside on a lawn, in the waistcoat and the white shirt, they turn and look.
+6.6-7.5 s: they lean out of the open door of a camper van and give a small wave.
+7.5-8.4 s: a close-up in a doorway: a big, warm smile with the eyes squeezed shut. Exactly the face from [Image 1].
+8.4-9.1 s: outside at night by dark leaves, a glass in one hand, they gesture with the other hand and grin.
+9.1-9.9 s: a dim room with wall lamps and tall glass jars: they stand in the dark suit and the waistcoat, fix the jacket and look at the camera.
+
+The woman in the office stays as in [Video 1] and never takes the face from [Image 1].
+
+Anatomy rules: one head only, on the person's shoulders. Two hands with five fingers each. No color, no text, no captions, no logos, no watermark.
+```
+
+### 2. 1. The video prompt is filled in. Settings: Seedance 2.5, 10 s, 720p, 9:16, sound off. The video prompt (Pet)
+
+*Kind: video_prompt*
+
+```text
+Recreate the reference video [Video 1] shot for shot: the same black-and-white 2000s TV-drama look with soft grain, the same rooms and places, the same camera angles, cuts, timing and moves. The ONLY change: the man with wavy, swept-back hair in the dark three-piece suit, who is in every shot, is now the pet in [Image 1].
+
+The lead = the pet in [Image 1], in EVERY shot: the same species and breed, head shape, face, eyes, ears, muzzle, fur colors, fur length and markings as in [Image 1], with the natural body volume and proportions of that animal: never flattened, squashed, stretched or merged with anything, so its owner knows it at once, also in the quick cuts. Whether [Image 1] shows a dog, a cat or another animal, it stays that animal. It sits or stands upright like a person in the man's place, its head where his head is and as large in the frame, so the close-ups are big, sharp close-ups of the pet's face. Only the head, the face, the ears, the fur and the paws change: the pet wears the open-collar shirt, the dark waistcoat and the dark suit jacket from [Video 1], sized to its own body. NO human face, NO human skin, NO human hair, NO stubble and NO human hands: its own furry face and front paws. Black and white throughout, in the same light and shadow as [Video 1].
+
+THE SHOTS, at the same times as [Video 1]:
+0.0-0.9 s: a dark wood-panelled room with a carved pillar: the pet stands upright in the dark suit and looks across the room.
+0.9-1.7 s: at a table with a bottle, in the striped shirt and the open waistcoat: the pet leans forward with a knowing look, one front paw raised.
+1.7-3.4 s: a busy office with desks and a small decorated tree: the pet stands in the dark suit, then a closer shot as a woman passes in the foreground; it looks past her with a calm stare.
+3.4-4.3 s: a close-up: a small head tilt, half-closed eyes and a smug, knowing look. The face is large and sharp: exactly the pet from [Image 1].
+4.3-5.0 s: the pet holds a cup of tea between its front paws at the chest, pleased.
+5.0-5.8 s: seated in a grey jacket, it points one front paw at someone off camera with a smug look.
+5.8-6.6 s: outside on a lawn, in the waistcoat and the white shirt, it turns its head and looks.
+6.6-7.5 s: it leans out of the open door of a camper van and gives a small wave with one front paw.
+7.5-8.4 s: a close-up in a doorway: a big, happy face with the eyes squeezed shut. Exactly the pet from [Image 1].
+8.4-9.1 s: outside at night by dark leaves, it raises one front paw as if making a point, looking pleased.
+9.1-9.9 s: a dim room with wall lamps and tall glass jars: it stands in the dark suit and the waistcoat, tugs the jacket with a paw and looks at the camera.
+
+The woman in the office stays as in [Video 1] and never turns into the pet.
+
+Anatomy rules: one head only, on the pet's own shoulders, one muzzle, natural teeth and tongue. Animal front paws, never human hands. No extra animals. No color, no text, no captions, no logos, no watermark.
+```
+

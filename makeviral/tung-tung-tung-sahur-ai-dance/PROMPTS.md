@@ -1,0 +1,58 @@
+# Tung Tung Tung Sahur Dance: Dance Side by Side With the Log
+
+- Source: [makeviral](https://www.makeviral.ai/templates/tung-tung-tung-sahur-ai-dance)
+- Slug: `tung-tung-tung-sahur-ai-dance`
+
+The Tung Tung Tung Sahur dance, also called the Triple T dance, is the TikTok trend where people dance side by side with the wooden "Tung Tung Tung Sahur" brainrot log, matching it move for move.
+
+## Demo videos (CDN)
+
+- https://www.makeviral.ai/media/templates/tung-tung-tung-sahur-ai-dance/original-template-v2.mp4
+
+## Posters
+
+- https://www.makeviral.ai/media/templates/tung-tung-tung-sahur-ai-dance/original-template-v1.jpg
+
+## Prompts
+
+### 1. 1. The video prompt is filled in. Settings: Seedance 2.5, 10 s, 720p, 9:16, sound on. The video prompt (Human)
+
+*Kind: video_prompt*
+
+```text
+A funny, bright home dance video, photorealistic, vertical 9:16, one continuous shot from a phone on a tripod: a person and a wooden log character dance side by side on the same beat.
+
+The dancer on the RIGHT is the person in [Image 1], in every frame: copy the exact face from [Image 1] (the face shape, eye color and eye shape, eyebrows, nose, mouth, skin tone, age, hair color, hair length and hairstyle, and any beard, moustache, glasses or freckles), so their friends recognize them at once. They wear the clothes from [Image 1]. The face stays the same from the first frame to the last. Never morph, never blend their face with the log. If [Image 1] shows an animal, the dancer on the right is that animal standing upright, with its own face, fur and markings, not a person.
+
+The dancer on the LEFT is a tall wooden log character, a little taller than an adult: one thick, round, upright log of smooth light-brown wood with visible grain and a flat top, a big carved cartoon face on the upper half of the log (wide round eyes with dark pupils, thick carved eyebrows, a long straight nose and a wide mouth), thin wooden stick arms with simple wooden hands, and thin wooden stick legs with bare wooden feet. It holds a small, light toy baseball bat made of pale wood in its right hand. It is a cartoon wooden character and never takes the face from [Image 1]. The bat is only a toy prop: it rests on its shoulder or swings in small circles like a baton. It never swings at the person and nothing gets hit.
+
+Scene: a bright living room with plain white walls, a light wooden floor and soft window light. Both face the camera, framed from the knees up so the person's face is large and sharp.
+
+The routine, both in sync on every beat:
+0-2.5 s, hard to breathe: both bounce their knees on the beat, press both hands flat on the chest, then lift them to the throat, eyes wide, as if it is hard to breathe.
+2.5-4 s, the shh: one hand swings out to the side, then both put a finger to the lips in a shh and start to sink down.
+4-6.5 s, the squat: a deep bow-legged squat side by side, knees wide, bouncing on the beat, hands on the knees.
+6.5-8 s, the glance: still low, both turn the head and glance sideways at each other, then rise into a sideways lean.
+8-10 s, the grin: both stand tall, the camera pushes in to a waist-up shot, and both give a big, cheeky grin straight into the lens. The person's face is large and lit: exactly the face from [Image 1]. The log gives its toy bat one small twirl.
+
+Audio: a bouncy, dreamy, slightly eerie dance beat with deep bass and soft finger snaps, one steady tempo, with a soft drum hit on each move. No singing, no words.
+
+Exactly one person and exactly one wooden log character. No other people, no second log. Anatomy: the person has one head, two arms and two legs; the log has two stick arms and two stick legs. No green screen, no text, no subtitles, no logos, no watermark.
+```
+
+### 2. 1. Open [AI Photo with this template](https://www.makeviral.ai/photo?template=tung-tung-tung-sahur-ai-dance&variant=pet) and add your photo (your pet, whole body). The photo prompt is filled in (Pet)
+
+*Kind: photo_prompt*
+
+```text
+Use the uploaded image as the base. Keep the animal's species, breed, face, eye color, fur color, fur length, markings and body size exactly the same as in the photo. 9:16 vertical photo, a bright, real phone photo in a living room with plain white walls and a light wooden floor, soft daylight from a window. The pet stands upright on its hind legs on the right, with the natural body volume and proportions of that animal, side by side with a tall wooden log character, a little taller than an adult: one thick, round, upright log of smooth light-brown wood with visible grain and a flat top, a big carved cartoon face on the upper half of the log (wide round eyes with dark pupils, thick carved eyebrows, a long straight nose and a wide mouth), thin wooden stick arms with simple wooden hands, and thin wooden stick legs with bare wooden feet. It holds a small, light toy baseball bat made of pale wood in its right hand, which stands on the left, resting the toy bat on its shoulder. The pet faces the camera with bright eyes and its front paws held up in front of its chest, ready to dance. The whole pet is in frame from ears to hind feet, its face sharp and large. Photorealistic pet, a cartoon wooden character. Exactly one animal and one log character. No people, no clothes on the pet, no text, no logos, no watermark.
+```
+
+### 3. 3. Press the film button on the still to open AI Video with the still as the first frame. Settings: Kling 3.0, 10 s, 1080p, 9:16, sound on. The video prompt
+
+*Kind: video_prompt*
+
+```text
+A funny, bright home dance video in one continuous shot from a phone on a tripod. Keep the animal's face, fur, markings and body exactly as in the image, with the natural body volume and proportions of that animal: never flattened, squashed, stretched or merged with anything. Keep the wooden log character and the living room exactly as in the image. The pet stands upright on its hind legs and dances side by side with the log, both in sync on every beat: 0-2.5 s, both bounce on the beat, the pet presses its front paws to its chest and the log presses its hands to its chest and throat, eyes wide; 2.5-4 s, the pet lifts one paw to its muzzle and the log puts a finger to its lips in a shh, and both sink down; 4-6.5 s, both bounce low in a wide squat on the beat; 6.5-8 s, still low, both glance sideways at each other, then rise; 8-10 s, both stand tall and look straight into the lens, the pet with a happy open mouth, and the log gives its toy bat one small twirl. The bat never swings at the pet and nothing gets hit. Audio: a bouncy, dreamy, slightly eerie dance beat with deep bass and soft finger snaps. No singing, no words, no barking. Exactly one animal and one log, paws not hands, no morphing, no extra limbs, no cuts. No text, no logos, no watermark.
+```
+

@@ -216,13 +216,22 @@ Yes. Each video costs credits, and the create page shows the exact price on the 
 
 ## Other AI video templates and tools
 
+- [Witch Flying on Broom Video: Fly Beside the Metro Train](https://www.makeviral.ai/templates/witch-flying-on-broom-video): Dressed as a witch, you tape your phone to a Paris metro window, then fly beside the train on a broom and hit the wall at the end of the platform, like the viral AI reel. One photo in, a 22-second video with the reel's song out.
 - [Training Season Dance AI: Your Face in the Paris Outfit Reel](https://www.makeviral.ai/templates/training-season-dance-ai-trend): Four hard cuts on the beat, four outfits, four Paris spots: the garden at sunset, the tower at night, the metro entrance and the glass pyramid. You lip-sync and dance the chorus in every one, with the song on.
 - [AI Airport Celebrity Video: Walk Out of Arrivals Like a Star](https://www.makeviral.ai/templates/ai-airport-star-arrival): Fans behind the barriers, phones up, flashes going off, bodyguards clearing your path: you walk out of the arrival gate as a star, wave to a fan and get into a waiting car. Or arrive at a hotel at night: you step out of a black luxury car onto the red carpet. One photo of you or your pet in, a 15-second clip with crowd sound out.
-- [24 Unforgettable Car Trend AI: Flick the 2 and 4, Reveal Your Car](https://www.makeviral.ai/templates/unforgettable-car-trend-ai): You walk up to the camera, hold up a 2 and a 4, flick both cards at the lens, and a sports car is parked behind you. One photo, add a photo of the car you want, swap the car for a private jet, or make the car backflip on thrusters. 10 to 14 seconds, with the song from the viral clips.
 - [AI TikTok Video](https://www.makeviral.ai/tools/ai-tiktok-video-generator): Eight native TikTok formats, one prompt or product URL, a finished 9:16 video with captions burned in.
 - [AI Reels](https://www.makeviral.ai/tools/ai-reels-generator): Pick a format, give it a topic or a product link, and get a finished vertical reel with voice and captions. Nothing to film, nothing to edit.
 - [AI photo generator](https://www.makeviral.ai/ai-photo-generator)
 - [All AI video templates](https://www.makeviral.ai/templates)
+
+## New AI video trends this week
+
+- [Christmas Dance AI: Do the New TikTok Christmas Dance From Your Photos](https://www.makeviral.ai/templates/christmas-dance-ai-trend): Hip sways with the hands at the collar, rolling arms, a quick spin and raised fists, side by side in matching Christmas pajamas. Add two photos for the duo, one for a solo take, or two pets, and get the dance with the sound.
+- [Cat on Ultra Bee AI: Put Your Pet on the Wheelie](https://www.makeviral.ai/templates/cat-on-ultra-bee-ai-trend): Add one photo, and your cat or dog stands on an electric dirt bike and holds a long wheelie down a city road at golden hour, in the same shots as the viral clip, with its original sound. You can take the ride yourself, too.
+- [Tus Ojos Me Reflejan el Sentimiento: The Cafuné Eye Close-Up Trend](https://www.makeviral.ai/templates/tus-ojos-me-reflejan-ai-trend): You lie on your side, a hand rests on your cheek, warm light falls on your face, and the camera slowly moves in until your eyes fill the screen while the line plays. One photo in, an 8-second vertical clip with the trend's song out.
+- [İnşallah Maşallah AI Trend: Sing Neşe Karaböcek's Song on the Couch](https://www.makeviral.ai/templates/insallah-masallah-ai-trend): You sit on a light grey couch and sing the old Turkish love song straight to the camera: a hand on the heart, a big laugh with both hands on your head, a finger pointed at the camera and a kiss at the end. One photo of you, a grandparent or your pet, and the 15-second clip comes with the song.
+- [Ice Ice Baby Dance AI: Do the Viral Duo Dance With a Friend](https://www.makeviral.ai/templates/ice-ice-baby-dance-ai): Two dancers side by side, the same bouncy 90s steps, a spin on the beat and a strut to the camera. Add a photo of you and a friend, of you alone, or of your pet, and get the dance with the sound.
+- [Save Yourself Trend: Pull Yourself Up From the Cliff](https://www.makeviral.ai/templates/save-yourself-ai-trend): One photo plays both of you: the scared you clinging to a wet sea cliff, and the calm you who reaches down, pulls you up and holds you. Or use two photos: an older photo of you and a new one, or you and a friend. 15 seconds, vertical.
 
 ## Make your own Phone on the train video
 

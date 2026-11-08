@@ -3,7 +3,7 @@
 > The airplane flying over head AI trend turns one photo into a short clip where a huge airliner glides so low over you that its belly, engines and wheels fill the sky, while you sit at an airport viewing deck at sunset and wave up at it.
 
 Canonical: https://www.makeviral.ai/templates/ai-plane-over-head-trend
-Updated: 2026-10-15
+Updated: 2026-11-07
 Published: 2026-10-13
 Author: MakeViral Team (https://www.makeviral.ai/about)
 Publisher: MakeViral (https://www.makeviral.ai)
@@ -12,11 +12,11 @@ The **airplane flying over head** AI trend turns one photo into a short clip whe
 
 You sit on the guardrail of an airport viewing deck at golden dusk and wave up, and a big airliner glides so low over you that its belly, engines and wheels fill the sky. One photo of you or your pet in, an 8-second clip with jet sound out.
 
-Also called: plane over head, plane flying over head, airplane flying over your head trend, airplane flyover effect.
+Also called: plane over head, plane flying over head, airplane flying over your head trend, airplane flyover effect, plane trend, aeroplane trend.
 
 **Make it now:** [Make this video](https://www.makeviral.ai/templates/ai-plane-over-head-trend/create). 1 photo · 8 s · 9:16 with sound · 46 credits, charged once · ready in a few minutes · no prompt to write.
 
-Keyword: airplane flying over head. Also answers: ai plane over head trend, plane flying over your head ai, ai airplane effect, capcut airplane template, plane flyover ai video, airplane trend ai, low flying plane video, plane flying low trend, airplane flying over head capcut, dreamina sunset aviation, dog plane over head ai, airplane flying over head meme, plane over head meme, plane over head sound, airplane flying over my head, plane flying over my head, plane over my head, ai plane trend.
+Keyword: airplane flying over head. Also answers: ai plane over head trend, plane flying over your head ai, ai airplane effect, capcut airplane template, plane flyover ai video, airplane trend ai, low flying plane video, plane flying low trend, airplane flying over head capcut, dreamina sunset aviation, dog plane over head ai, airplane flying over head meme, plane over head meme, plane over head sound, airplane flying over my head, plane flying over my head, plane over my head, ai plane trend, plane trend tiktok, capcut plane template, aeroplane capcut template, plane so low trend, low flying plane trend.
 
 ## What is the Plane Over Your Head trend, and where did it start?
 
@@ -32,6 +32,7 @@ The AI version took off in late September as a one-photo CapCut AI template: you
 - **2026-09-28**: Dreamina adds the "Sunset-Aviation" skill: a person on the guardrail of an airport viewing platform, waving up at a low-flying airliner at dusk. The photo step of this template uses its description. Source: [Dreamina](https://dreamina.capcut.com/tools/trends-studio).
 - **2026-10-10**: A Russian tutorial for the template reaches 1.1 million views and 19,100 likes, and a Spanish one 947,800 views. Source: [TikTok](https://www.tiktok.com/@bao789055/video/7694885261951372566).
 - **2026-10-13**: The sound of @livelyiqra's clip is in 2,100 TikTok videos, and #airplanetrend has 576 videos and 8.2 million views (all time). Source: [TikTok](https://www.tiktok.com/music/original-sound-7683898020866181896).
+- **2026-11-06**: A Pakistan wave of the template starts: @abdullahchaudhary814 posts its result, a young man in a black shawl stepping back in an open field as an airliner takes off low over his head (867,700 views by 7 November). On 7 November a CapCut tutorial by @gregguan28592 in Urdu, Roman Urdu, Arabic and English, tagged #pakistanitrend, reaches 2.1 million views. Source: [TikTok](https://www.tiktok.com/@gregguan28592/video/7705262858912664854).
 
 ## What the Plane Over Your Head video looks like
 
@@ -75,6 +76,34 @@ Settings: 1 photo (your photo) · Kling 3.0 · 8 s · 1080p · 9:16 · with soun
 4. Press Generate, then download the 9:16 MP4.
 
 One-tap version of this variant: https://www.makeviral.ai/templates/ai-plane-over-head-trend/create
+
+#### Variant: Open field
+
+Settings: 1 photo (your photo, face clear) · Seedance 2.5 · 10 s · 720p · 9:16 · no sound · 152 credits in one tap.
+
+1. The video prompt is filled in. Settings: Seedance 2.5, 10 s, 720p, 9:16, sound off. The video prompt:
+
+   ```text
+   Recreate the reference video [Video 1] shot for shot: one continuous vertical phone take in a wide open field under a clear blue sky, low trees far away on the horizon, the camera low and still, the same framing, timing and moves. The ONLY change: the young man in the black shawl is now the person in [Image 1].
+
+The person = the person in [Image 1], in EVERY frame: copy the exact face from [Image 1] - face shape, eye color and eye shape, eyebrows, nose, mouth, skin tone, age, hair color, hair length and hairstyle, and any beard, moustache, glasses or freckles exactly as in the photo. The person wears the clothes from [Image 1]; if [Image 1] shows only the head or the upper body, invent the rest so it matches naturally. The same real person in every frame, from the first second to the last, so their friends instantly recognize them, also in the far full-body part and when they look up at the sky. Never morph, never drift back to the original young man's face, never add or remove facial hair. NO black shawl, NO black outfit and NO short beard unless [Image 1] shows them. If [Image 1] shows an animal, the person is that animal standing in the field on its own legs, with its own face, fur and markings and the natural body volume and proportions of that animal: never flattened, squashed, stretched or merged with anything.
+
+The moves, matching [Video 1] second by second:
+00:00-00:01: very close to the lens, the person reaches one open hand toward the camera, the face big in the frame, a calm, confident look. A small white airliner is already low in the sky far behind.
+00:01-00:02.5: the hand drops and the person steps backward, away from the camera, until the whole body stands in the middle of the field, arms relaxed at the sides.
+00:02.5-00:06: the person stands still and looks into the camera while the airliner climbs toward the camera right behind and above their head, growing bigger, nose up, landing gear down, two thin trails of engine smoke behind it.
+00:06-00:08: the airliner passes low right over the person's head, its belly, engines and wheels filling the top of the frame; the person lifts the chin and looks up at it.
+00:08-00:10: the airliner flies out of the top of the frame, leaving its smoke trails in the blue sky; the person keeps looking up, calm and amazed.
+Keep the field, the sky, the daylight, the airliner's path, size and speed, and the camera exactly as in [Video 1]. One airliner only, plain white, with no airline name, no logo, no tail emblem, no lettering and no registration number.
+
+Real live-action footage, clear facial features, no distortion. No dialogue throughout the entire video. No background music.
+
+Anatomy rules: one head only, on the person's shoulders. A face never appears on the hand, the arms, the legs or the clothes. Two arms, two hands, five fingers on each hand, two legs. Exactly one person and one airliner. No cuts, no second plane, no extra people, no morphing. No text, no captions, no logos, no watermark.
+   ```
+
+2. Press Generate, then download the 9:16 MP4.
+
+One-tap version of this variant: https://www.makeviral.ai/templates/ai-plane-over-head-trend/create?variant=field
 
 #### Variant: Pet
 
@@ -137,7 +166,9 @@ The sound is the scene itself: a deep jet roar that peaks as the plane passes, r
 
 **Human or Pet?** Press "Create your own" and pick one. Human puts you on the guardrail, waving at the plane. Pet sits your cat or dog by the guardrail, ears blown back as the jet roars over. The trend stars people; Pet is our version of the same scene.
 
-Both versions work in two steps:
+**Open field** is the move of the CapCut template itself, from its Pakistan wave of November 2026: you reach a hand to the lens, step back into an open field, and an airliner takes off behind you and passes low right over your head. It copies the template's own 10-second clip with one of the best AI video models available, puts you in it in your own clothes, and keeps the trend's aviation sound on the result.
+
+Human and Pet work in two steps:
 
 1. **The still.** Nano Banana 2.1 puts you or your pet at the airport viewing deck at dusk, with a low airliner overhead. It uses the description of Dreamina's "Sunset-Aviation" skill, word for word, plus a line that keeps your face and a ban on airline names and logos.
 2. **The video.** A video model plays the 8-second flyover from that still, with its own sound.
@@ -188,6 +219,10 @@ Yes, a closed one, and most tutorials link it. Here you need no template: add on
 ### Is the plane over head trend a meme, and what is the sound?
 
 Yes. The airplane flying over head meme plays on how low the plane gets, as in the viral line "I still can't believe how low this plane was". Many tutorials use the sound of @livelyiqra's London clip, and your clip comes with its own jet roar.
+
+### Is there a CapCut plane template for the new plane trend on TikTok?
+
+Yes: the aeroplane CapCut template of the Pakistan wave (from 6 November 2026, #pakistanitrend) is a closed one. Here, pick Open field and add one clear photo of yourself: you step back into an open field as a low flying plane takes off behind you, so low that it passes right over your head, in a 10-second clip with the trend's aviation sound.
 
 ### Can I put a plane flying over my head in a video?
 
@@ -242,6 +277,15 @@ Yes. Each video costs credits, and the create page shows the exact price on the 
 - [Nano Banana 2](https://www.makeviral.ai/tools/nano-banana-2-image-generator): Google's image model, in a browser tab, with the reference-image dropzone that makes it useful: up to 14 photos in, one new image out.
 - [AI photo generator](https://www.makeviral.ai/ai-photo-generator)
 - [All AI video templates](https://www.makeviral.ai/templates)
+
+## New AI video trends this week
+
+- [Christmas Dance AI: Do the New TikTok Christmas Dance From Your Photos](https://www.makeviral.ai/templates/christmas-dance-ai-trend): Hip sways with the hands at the collar, rolling arms, a quick spin and raised fists, side by side in matching Christmas pajamas. Add two photos for the duo, one for a solo take, or two pets, and get the dance with the sound.
+- [Cat on Ultra Bee AI: Put Your Pet on the Wheelie](https://www.makeviral.ai/templates/cat-on-ultra-bee-ai-trend): Add one photo, and your cat or dog stands on an electric dirt bike and holds a long wheelie down a city road at golden hour, in the same shots as the viral clip, with its original sound. You can take the ride yourself, too.
+- [Tus Ojos Me Reflejan el Sentimiento: The Cafuné Eye Close-Up Trend](https://www.makeviral.ai/templates/tus-ojos-me-reflejan-ai-trend): You lie on your side, a hand rests on your cheek, warm light falls on your face, and the camera slowly moves in until your eyes fill the screen while the line plays. One photo in, an 8-second vertical clip with the trend's song out.
+- [İnşallah Maşallah AI Trend: Sing Neşe Karaböcek's Song on the Couch](https://www.makeviral.ai/templates/insallah-masallah-ai-trend): You sit on a light grey couch and sing the old Turkish love song straight to the camera: a hand on the heart, a big laugh with both hands on your head, a finger pointed at the camera and a kiss at the end. One photo of you, a grandparent or your pet, and the 15-second clip comes with the song.
+- [Ice Ice Baby Dance AI: Do the Viral Duo Dance With a Friend](https://www.makeviral.ai/templates/ice-ice-baby-dance-ai): Two dancers side by side, the same bouncy 90s steps, a spin on the beat and a strut to the camera. Add a photo of you and a friend, of you alone, or of your pet, and get the dance with the sound.
+- [Save Yourself Trend: Pull Yourself Up From the Cliff](https://www.makeviral.ai/templates/save-yourself-ai-trend): One photo plays both of you: the scared you clinging to a wet sea cliff, and the calm you who reaches down, pulls you up and holds you. Or use two photos: an older photo of you and a new one, or you and a friend. 15 seconds, vertical.
 
 ## Make your own Plane Over Your Head video
 

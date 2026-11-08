@@ -1,0 +1,129 @@
+# Teletubbies AI Video: the Mud Hole Fall With Your Face
+
+- Source: [makeviral](https://www.makeviral.ai/templates/teletubbies-ai-video)
+- Slug: `teletubbies-ai-video`
+
+The Teletubbies AI video trend is a viral AI clip from the Tubby Cartel account: four plush characters hop over a muddy trench, one by one, and the green one falls in.
+
+## Demo videos (CDN)
+
+- https://www.makeviral.ai/media/templates/teletubbies-ai-video/original-main-v2.mp4
+
+## Posters
+
+- https://www.makeviral.ai/media/templates/teletubbies-ai-video/original-main-v1.jpg
+
+## Prompts
+
+### 1. 1. The video prompt is filled in. Settings: Seedance 2.5, 11 s, 720p, 9:16, sound on. The video prompt
+
+*Kind: video_prompt*
+
+```text
+Four plush costume characters hop one by one over a muddy farm trench toward the camera, and the green one falls in. Vertical 9:16, photorealistic: ONE continuous take, the camera fixed low at ground level on the near side of a muddy trench, looking across it. Warm golden-hour light.
+
+RED: red, with a small round loop antenna. YELLOW: yellow, with a thin curly antenna. GREEN: lime-green, with a straight upright stick antenna. PURPLE: purple and the tallest, with an upside-down triangle antenna. Each wears a chubby, velvety full-body plush costume with a round hood that frames the face in a round opening, the antenna on top, short mitten arms and a grey square belly panel; they waddle and bounce.
+
+WHO IS WHO: GREEN is the person in [Image 1], in every frame. Red, yellow and purple each have a plain, smooth, pale doll-like face, never the face from [Image 1]. Each person's own real face fills the round opening of their hood, large and sharp: the exact face from their own image (the face shape, eye color and eye shape, eyebrows, nose, mouth, skin tone, age, hair color, hair length and hairstyle, and any beard, moustache, glasses or freckles), never a doll face. Never blend or swap faces. Each face stays the same in every frame, also mid-jump and splashed with mud, so friends recognize them at once. The costumes cover the bodies: never the clothes from the photos.
+
+A farm field at sunset: a trench of brown mud and muddy water, about one metre wide, runs across the bottom of the frame; behind it grass, rows of tall corn, a pale wooden barn far back on the left, a pink evening sky. No vehicles, no other people, no sun with a face, no letters anywhere.
+
+0-2.5 s: the four queue on the far side of the trench, staggered so every face shows: red at the front near the camera, then yellow, green, purple. Red looks down, says "uh oh!", hops over toward the camera with a big two-footed jump and out of frame on the right.
+2.5-5 s: yellow steps to the edge, flaps its arms, says "uh oh!", hops over and bounces out on the right.
+5-6.2 s: green steps to the edge in the middle of the frame, the face large and sharp: exactly the face from [Image 1], looks down nervously, says a small "uh oh..." and jumps too short.
+6.2-8 s: SPLAT: green belly-flops into the muddy water with a big brown splash. Behind, purple stops at the edge, looks down at green, turns around and waddles away into the field.
+8-11 s: green pushes up out of the mud, dripping brown, the face muddy but clear: exactly the face from [Image 1], stares into the camera in shock, then climbs out on the far side and waddles off after purple.
+
+Audio: birds and a light breeze. Before its jump each one says only "uh oh!" in a high, squeaky, cheerful voice. On the fall a loud wet splash, squelching mud, a shocked gasp, then a small whimpering "uh oh...". No other words, no swearing. No background music. Exactly four characters, one head each: never a fifth, never a real child. No captions, no text, no watermark, no logo.
+```
+
+### 2. 1. The video prompt is filled in. Settings: Seedance 2.5, 11 s, 720p, 9:16, sound on. The video prompt
+
+*Kind: video_prompt*
+
+```text
+Four plush costume characters hop one by one over a muddy farm trench toward the camera, and the green one falls in. Vertical 9:16, photorealistic: ONE continuous take, the camera fixed low at ground level on the near side of a muddy trench, looking across it. Warm golden-hour light.
+
+RED: red, with a small round loop antenna. YELLOW: yellow, with a thin curly antenna. GREEN: lime-green, with a straight upright stick antenna. PURPLE: purple and the tallest, with an upside-down triangle antenna. Each wears a chubby, velvety full-body plush costume with a round hood that frames the face in a round opening, the antenna on top, short mitten arms and a grey square belly panel; they waddle and bounce.
+
+WHO IS WHO: GREEN is the person in [Image 1] and RED is the person in [Image 2], in every frame. Yellow and purple each have a plain, smooth, pale doll-like face, never a face from the photos. Each person's own real face fills the round opening of their hood, large and sharp: the exact face from their own image (the face shape, eye color and eye shape, eyebrows, nose, mouth, skin tone, age, hair color, hair length and hairstyle, and any beard, moustache, glasses or freckles), never a doll face. Never blend or swap faces. Each face stays the same in every frame, also mid-jump and splashed with mud, so friends recognize them at once. The costumes cover the bodies: never the clothes from the photos.
+
+A farm field at sunset: a trench of brown mud and muddy water, about one metre wide, runs across the bottom of the frame; behind it grass, rows of tall corn, a pale wooden barn far back on the left, a pink evening sky. No vehicles, no other people, no sun with a face, no letters anywhere.
+
+0-2.5 s: the four queue on the far side of the trench, staggered so every face shows: red at the front near the camera, then yellow, green, purple. Red looks down, says "uh oh!", hops over toward the camera with a big two-footed jump and out of frame on the right.
+2.5-5 s: yellow steps to the edge, flaps its arms, says "uh oh!", hops over and bounces out on the right.
+5-6.2 s: green steps to the edge in the middle of the frame, the face large and sharp: exactly the face from [Image 1], looks down nervously, says a small "uh oh..." and jumps too short.
+6.2-8 s: SPLAT: green belly-flops into the muddy water with a big brown splash. Behind, purple stops at the edge, looks down at green, turns around and waddles away into the field.
+8-11 s: green pushes up out of the mud, dripping brown, the face muddy but clear: exactly the face from [Image 1], stares into the camera in shock, then climbs out on the far side and waddles off after purple.
+
+Audio: birds and a light breeze. Before its jump each one says only "uh oh!" in a high, squeaky, cheerful voice. On the fall a loud wet splash, squelching mud, a shocked gasp, then a small whimpering "uh oh...". No other words, no swearing. No background music. Exactly four characters, one head each: never a fifth, never a real child. No captions, no text, no watermark, no logo.
+```
+
+### 3. 1. The video prompt is filled in. Settings: Seedance 2.5, 11 s, 720p, 9:16, sound on. The video prompt
+
+*Kind: video_prompt*
+
+```text
+Four plush costume characters hop one by one over a muddy farm trench toward the camera, and the green one falls in. Vertical 9:16, photorealistic: ONE continuous take, the camera fixed low at ground level on the near side of a muddy trench, looking across it. Warm golden-hour light.
+
+RED: red, with a small round loop antenna. YELLOW: yellow, with a thin curly antenna. GREEN: lime-green, with a straight upright stick antenna. PURPLE: purple and the tallest, with an upside-down triangle antenna. Each wears a chubby, velvety full-body plush costume with a round hood that frames the face in a round opening, the antenna on top, short mitten arms and a grey square belly panel; they waddle and bounce.
+
+WHO IS WHO: GREEN is the person in [Image 1], RED is the person in [Image 2] and YELLOW is the person in [Image 3], in every frame. Purple has a plain, smooth, pale doll-like face, never a face from the photos. Each person's own real face fills the round opening of their hood, large and sharp: the exact face from their own image (the face shape, eye color and eye shape, eyebrows, nose, mouth, skin tone, age, hair color, hair length and hairstyle, and any beard, moustache, glasses or freckles), never a doll face. Never blend or swap faces. Each face stays the same in every frame, also mid-jump and splashed with mud, so friends recognize them at once. The costumes cover the bodies: never the clothes from the photos.
+
+A farm field at sunset: a trench of brown mud and muddy water, about one metre wide, runs across the bottom of the frame; behind it grass, rows of tall corn, a pale wooden barn far back on the left, a pink evening sky. No vehicles, no other people, no sun with a face, no letters anywhere.
+
+0-2.5 s: the four queue on the far side of the trench, staggered so every face shows: red at the front near the camera, then yellow, green, purple. Red looks down, says "uh oh!", hops over toward the camera with a big two-footed jump and out of frame on the right.
+2.5-5 s: yellow steps to the edge, flaps its arms, says "uh oh!", hops over and bounces out on the right.
+5-6.2 s: green steps to the edge in the middle of the frame, the face large and sharp: exactly the face from [Image 1], looks down nervously, says a small "uh oh..." and jumps too short.
+6.2-8 s: SPLAT: green belly-flops into the muddy water with a big brown splash. Behind, purple stops at the edge, looks down at green, turns around and waddles away into the field.
+8-11 s: green pushes up out of the mud, dripping brown, the face muddy but clear: exactly the face from [Image 1], stares into the camera in shock, then climbs out on the far side and waddles off after purple.
+
+Audio: birds and a light breeze. Before its jump each one says only "uh oh!" in a high, squeaky, cheerful voice. On the fall a loud wet splash, squelching mud, a shocked gasp, then a small whimpering "uh oh...". No other words, no swearing. No background music. Exactly four characters, one head each: never a fifth, never a real child. No captions, no text, no watermark, no logo.
+```
+
+### 4. 1. The video prompt is filled in. Settings: Seedance 2.5, 11 s, 720p, 9:16, sound on. The video prompt
+
+*Kind: video_prompt*
+
+```text
+Four plush costume characters hop one by one over a muddy farm trench toward the camera, and the green one falls in. Vertical 9:16, photorealistic: ONE continuous take, the camera fixed low at ground level on the near side of a muddy trench, looking across it. Warm golden-hour light.
+
+RED: red, with a small round loop antenna. YELLOW: yellow, with a thin curly antenna. GREEN: lime-green, with a straight upright stick antenna. PURPLE: purple and the tallest, with an upside-down triangle antenna. Each wears a chubby, velvety full-body plush costume with a round hood that frames the face in a round opening, the antenna on top, short mitten arms and a grey square belly panel; they waddle and bounce.
+
+WHO IS WHO: GREEN is the person in [Image 1], RED is the person in [Image 2], YELLOW is the person in [Image 3] and PURPLE is the person in [Image 4], in every frame. No doll faces. Each person's own real face fills the round opening of their hood, large and sharp: the exact face from their own image (the face shape, eye color and eye shape, eyebrows, nose, mouth, skin tone, age, hair color, hair length and hairstyle, and any beard, moustache, glasses or freckles), never a doll face. Never blend or swap faces. Each face stays the same in every frame, also mid-jump and splashed with mud, so friends recognize them at once. The costumes cover the bodies: never the clothes from the photos.
+
+A farm field at sunset: a trench of brown mud and muddy water, about one metre wide, runs across the bottom of the frame; behind it grass, rows of tall corn, a pale wooden barn far back on the left, a pink evening sky. No vehicles, no other people, no sun with a face, no letters anywhere.
+
+0-2.5 s: the four queue on the far side of the trench, staggered so every face shows: red at the front near the camera, then yellow, green, purple. Red looks down, says "uh oh!", hops over toward the camera with a big two-footed jump and out of frame on the right.
+2.5-5 s: yellow steps to the edge, flaps its arms, says "uh oh!", hops over and bounces out on the right.
+5-6.2 s: green steps to the edge in the middle of the frame, the face large and sharp: exactly the face from [Image 1], looks down nervously, says a small "uh oh..." and jumps too short.
+6.2-8 s: SPLAT: green belly-flops into the muddy water with a big brown splash. Behind, purple stops at the edge, the face sharp: exactly the face from [Image 4],, looks down at green, turns around and waddles away into the field.
+8-11 s: green pushes up out of the mud, dripping brown, the face muddy but clear: exactly the face from [Image 1], stares into the camera in shock, then climbs out on the far side and waddles off after purple.
+
+Audio: birds and a light breeze. Before its jump each one says only "uh oh!" in a high, squeaky, cheerful voice. On the fall a loud wet splash, squelching mud, a shocked gasp, then a small whimpering "uh oh...". No other words, no swearing. No background music. Exactly four characters, one head each: never a fifth, never a real child. No captions, no text, no watermark, no logo.
+```
+
+### 5. 1. Open [AI Photo with this template](https://www.makeviral.ai/photo?template=teletubbies-ai-video&variant=pet) and add your photo (your pet (dog or cat), face clear). The photo prompt is filled in (Pet)
+
+*Kind: photo_prompt*
+
+```text
+Use the uploaded image as the base. A photorealistic vertical 9:16 photo, like a frame of a real phone video, taken low at ground level on the near side of a muddy trench at golden hour. A farm field at sunset: a trench of brown mud and muddy water, about one metre wide, runs across the bottom of the frame; behind it grass, rows of tall corn, a pale wooden barn far back on the left, a pink evening sky. No vehicles, no other people, no sun with a face, no letters anywhere.
+
+On the far side of the trench, four characters in plush costumes stand in a queue, a little staggered so every face shows. At the FRONT, right at the edge of the trench and close to the camera, the pet from the photo stands upright on its hind legs in a lime-green plush costume with a straight upright stick antenna; its own head, face, ears and fur show through the round opening of the hood, with the same species and breed look, face, eyes, ears, muzzle, fur colors and markings as in the photo and its natural head size, so its owner recognizes it at once. Behind it three person-sized characters in plush costumes, each with a plain, smooth, pale doll-like face in the opening: one red, with a small round loop antenna; one yellow, with a thin curly antenna; one purple and the tallest, with an upside-down triangle antenna. Each wears a chubby, velvety full-body plush costume with a round hood that frames the face in a round opening, the antenna on top, short mitten arms and a grey square belly panel; they waddle and bounce. The pet looks down at the muddy water, unsure. Exactly one animal and three costume characters, no people without costumes. No text, no letters, no logos, no watermark, no frame.
+```
+
+### 6. 3. Press the film button on the still to open AI Video with the still as the first frame. Settings: Kling 3.0, 10 s, 1080p, 9:16, sound on. The video prompt
+
+*Kind: video_prompt*
+
+```text
+The same scene, one continuous take from the same fixed low camera at golden hour. The pet in the green plush costume at the front keeps its own face, eyes, ears, fur and markings from the first frame to the last, and the costume stays on.
+0-2 s: the pet stands at the edge of the muddy trench, looks down at the water and whimpers, its ears twitching.
+2-3.5 s: it jumps toward the camera, falls short and belly-flops into the muddy water with a big brown splash.
+3.5-7 s: behind it, the red one says "uh oh!", hops over the trench toward the camera, past the pet, and bounces out of the frame on the right; then the yellow one does the same. The purple one stops at the edge, looks down at the pet, turns around and waddles away into the field.
+7-10 s: the pet pushes itself up out of the mud, the costume and its fur dripping brown, shakes its head so mud flies, and looks straight into the camera.
+
+Audio: natural outdoor sound, a light breeze and birds. The costume characters say only "uh oh!" in high, squeaky, cheerful voices. A loud wet splash and squelching mud on the fall, and the pet's own short bark or meow. No other words, no swearing, no background music. Exactly one animal and three costume characters, one head each. No text, no logo, no watermark.
+```
+

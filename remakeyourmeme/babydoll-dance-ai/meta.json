@@ -6,7 +6,7 @@
   "url": "https://remakeyourmeme.com/templates/babydoll-dance-ai/",
   "blurb": "Real output from this maker, unedited, made October 17, 2026 with photos of AI-generated sample people. Switch to Original to see the trend clip at the same moment.",
   "photos_in": null,
-  "duration_s": 14,
+  "duration_s": 13,
   "ready_to_make": true,
   "demo_videos": [
     "https://cdn.remakeyourmeme.com/trends/baby-doll/7674629461723139358.mp4",
@@ -25,10 +25,13 @@
     "https://cdn.remakeyourmeme.com/trends/baby-doll/7674629461723139358.webp"
   ],
   "all_cdn_mp4": [
+    "https://cdn.remakeyourmeme.com/templates/24k-magic/video.mp4",
     "https://cdn.remakeyourmeme.com/templates/baby-doll/preview-854.mp4",
-    "https://cdn.remakeyourmeme.com/templates/closed-on-sunday/video.mp4",
-    "https://cdn.remakeyourmeme.com/templates/coldplay-kiss-cam/video.mp4",
-    "https://cdn.remakeyourmeme.com/templates/dime-dime-baby/video.mp4",
+    "https://cdn.remakeyourmeme.com/templates/car-alarm-dance/video.mp4",
+    "https://cdn.remakeyourmeme.com/templates/chipmunks-dance/video.mp4",
+    "https://cdn.remakeyourmeme.com/templates/hop-hop-hop/video.mp4",
+    "https://cdn.remakeyourmeme.com/templates/no-scrubs/video.mp4",
+    "https://cdn.remakeyourmeme.com/templates/vossi-bop/video.mp4",
     "https://cdn.remakeyourmeme.com/trends/baby-doll/7674629461723139358.mp4",
     "https://cdn.remakeyourmeme.com/wm/remakeyourmeme/examples/baby-doll/sample-2/preview-854.mp4",
     "https://cdn.remakeyourmeme.com/wm/remakeyourmeme/examples/baby-doll/sample-2/video.mp4"
@@ -37,7 +40,7 @@
   "prompt_count": 0,
   "prompts_public": false,
   "note": "Remake Your Meme does not publish copyable prompt text on public template pages (one-tap remake). Inventory keeps demos, posters, and metadata only.",
-  "scraped_at": "2026-10-23",
+  "scraped_at": "2026-11-08",
   "published": null,
   "updated": null
 }

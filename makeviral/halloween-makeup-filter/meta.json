@@ -1,0 +1,45 @@
+{
+  "source": "makeviral",
+  "source_site": "https://www.makeviral.ai",
+  "slug": "halloween-makeup-filter",
+  "name": "Halloween Makeup Filter: Flip Your Hair, Reveal a Pro SFX Look",
+  "url": "https://www.makeviral.ai/templates/halloween-makeup-filter",
+  "markdown_url": "https://www.makeviral.ai/templates/halloween-makeup-filter.md",
+  "blurb": "The Halloween makeup filter trend is a 10-second Halloween makeup transformation: you start in soft glam on a black background, throw your head back in a hair flip and come up in full pro SFX makeup, like an evil clown.",
+  "updated": "2026-10-29",
+  "published": "2026-10-29",
+  "credits": 152,
+  "demo_videos": [
+    "https://www.makeviral.ai/media/templates/halloween-makeup-filter/original-main-v2.mp4"
+  ],
+  "posters": [
+    "https://www.makeviral.ai/media/templates/halloween-makeup-filter/original-main-v1.jpg"
+  ],
+  "prompts": [
+    {
+      "label": "1. The video prompt is filled in. Settings: Seedance 2.5, 10 s, 720p, 9:16, sound off. The video prompt",
+      "variant": null,
+      "kind": "video_prompt",
+      "text": "Recreate the reference video [Video 1] shot for shot: a beauty close-up of one person on a black background with a red rim light, with the same camera moves, framing, cuts, timing, head moves and mouth moves. The ONLY changes: the woman in [Video 1] is now the person in [Image 1], and the Halloween makeup after the hair flip is the look below.\n\nThe person = the person in [Image 1], in EVERY shot: copy the exact face from [Image 1]: face shape, eye color and eye shape, eyebrows, nose, mouth, skin tone, age, hair color, hair length and hairstyle, and any beard, moustache or freckles, exactly as in the photo. The same real person in every frame, so friends recognize them at once, also under the face paint. Never morph, never drift back to the face of the woman in [Video 1]. NO red hair and NO two high buns unless [Image 1] shows them. One head only, on the person's own shoulders.\n\nShot 1 [0-4 s]: the person in soft natural glam makeup (a light base, groomed brows, soft lashes, a satin lip) looks into the camera with a calm, sly gaze while the camera slowly pushes in; the lips move exactly as in [Video 1], mouthing one short line. [4-4.6 s]: they dip the head forward, then throw the head and the hair back, so the face turns up and out of view for a moment; the look changes while the face is hidden. [4.6-7.3 s]: they bring the head back up in the full Halloween look, look straight into the camera, and one hand rises gently to the chin.\nShot 2 [7.3-8.4 s]: hard cut, the same framing, fingertips lightly touch the lower lip, a slow sly smile.\nShot 3 [8.4-10 s]: hard cut to a close-up of the face in the full look, a slow head tilt, an intense, playful stare into the lens.\n\nThe look (an evil clown, as in [Video 1]): a matte white face base with the skin texture showing through, bold red painted lines from the forehead down through each eye to the corners of the mouth, soft black smoky eyes with long lashes, a round red nose, glossy red lips with a painted smile line, and a few thin drips of fake blood below the lips. A pale pink sheer tulle ruffle collar over the shoulders, a white costume top with red pom-pom buttons, and sheer pink gloves.\n\nClothes: the frame stays at the shoulders. Before the flip the person wears their own top from [Image 1] (a plain black top if the photo shows none). After the flip the top is part of the look. Never a strapless or low-cut top, never the white corset from [Video 1].\n\nThe makeup is real professional Halloween SFX makeup by a top makeup artist, painted ON this person's own face: it keeps their face shape, eye color, eye shape, nose and lips, and shows natural skin texture and pores under the paint, with clean, sharp paint edges. The person looks beautiful, striking and glamorous, never ugly. Photorealistic, like a real beauty reel. If the person is a man, the same look in a bold masculine style: no false lashes, a matte lip, and his own beard or stubble stays under the paint.\n\nNo dialogue. No background music. No text, no captions, no logos, no watermark. No mask, no plastic or CGI skin, no cartoon look, no real wounds, no gore, no torn skin, no glasses, no extra people."
+    },
+    {
+      "label": "1. The video prompt is filled in. Settings: Seedance 2.5, 10 s, 720p, 9:16, sound off. The video prompt",
+      "variant": "Pet",
+      "kind": "video_prompt",
+      "text": "Recreate the reference video [Video 1] shot for shot: a close-up against a pure black background with a deep red rim light, with the same camera moves, framing, cuts and timing. The ONLY change: the woman in [Video 1] is now the pet in [Image 1], a real animal, not a person.\n\nThe pet = the animal in [Image 1], in EVERY shot: the same species and breed, face, eyes, ears, muzzle, fur colors, fur length and markings as in [Image 1], with the natural body volume and proportions of that animal: never flattened, squashed, stretched or merged with anything. No human face, no human hair, no human hands, no clothes from [Video 1].\n\nShot 1 [0-4 s]: the pet sits facing the camera, calm and curious, while the camera slowly pushes in; it blinks and tilts its head. [4-4.6 s]: it gives one quick shake of the head, ears flapping, and the head turns up out of view for a moment; the look changes while the face is hidden. [4.6-7.3 s]: it looks back into the camera in a cute Halloween clown look: a pale pink tulle ruffle collar around the neck with a tiny red pom-pom, and soft pet-safe face paint on the fur: a white patch around each eye, small red diamonds above and below each eye and a red dot on the nose, with the fur texture showing through. At the end it lifts one paw.\nShot 2 [7.3-8.4 s]: hard cut, the same framing, the pet licks its nose and looks proud.\nShot 3 [8.4-10 s]: hard cut to a close-up of the pet's face in the clown look, a slow head tilt, big eyes into the lens.\n\nThe pet stays the same animal in every frame, with its own face shape, ears and coat under the paint. Cute and funny, never scary: no fake blood, no fangs. Photorealistic, real fur. No dialogue. No background music. No people, no human body parts, no extra animals, no text, no logos, no watermark."
+    }
+  ],
+  "variant_headings": [
+    "What the Halloween Makeup Filter video looks like",
+    "How to make the Halloween Makeup Filter video on MakeViral",
+    "Which photo works best?",
+    "Can my pet do the Halloween makeup transformation?",
+    "How long is the video and what format is it?",
+    "Is the video real?",
+    "Other AI video templates and tools",
+    "New AI video trends this week",
+    "Make your own Halloween Makeup Filter video"
+  ],
+  "prompt_count": 2,
+  "scraped_at": "2026-11-08"
+}

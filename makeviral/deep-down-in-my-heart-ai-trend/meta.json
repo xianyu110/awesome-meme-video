@@ -1,0 +1,41 @@
+{
+  "source": "makeviral",
+  "source_site": "https://www.makeviral.ai",
+  "slug": "deep-down-in-my-heart-ai-trend",
+  "name": "Deep Down In My Heart, I Still Love You: The Crying Meme Starring You and a Friend",
+  "url": "https://www.makeviral.ai/templates/deep-down-in-my-heart-ai-trend",
+  "markdown_url": "https://www.makeviral.ai/templates/deep-down-in-my-heart-ai-trend.md",
+  "blurb": "The deep down in my heart, I still love you meme is two people on a sofa: one confesses their love in a shaky voice, and the other breaks into a long, loud ugly cry.",
+  "updated": "2026-10-27",
+  "published": "2026-10-27",
+  "credits": 189,
+  "demo_videos": [
+    "https://www.makeviral.ai/media/templates/deep-down-in-my-heart-ai-trend/example-main.mp4"
+  ],
+  "posters": [
+    "https://www.makeviral.ai/media/templates/deep-down-in-my-heart-ai-trend/example-main-input.jpg",
+    "https://www.makeviral.ai/media/templates/deep-down-in-my-heart-ai-trend/example-main-poster.jpg"
+  ],
+  "prompts": [
+    {
+      "label": "1. The video prompt is filled in. Settings: Seedance 2.5, 15 s, 720p, 9:16, sound on. The video prompt",
+      "variant": null,
+      "kind": "video_prompt",
+      "text": "The viral \"deep down in my heart... I still love you\" crying meme, made from [Image 1] and [Image 2]: a candid documentary-style scene, two people side by side on a brown leather sofa in a cozy living room, warm lamp light, handheld camera, photorealistic, vertical 9:16, 6 shots with hard cuts, faces large in every shot.\n\nTHE CRIER sits on the LEFT and is the person in [Image 1], in every shot: copy the exact face from [Image 1] (the face shape, eye color and eye shape, eyebrows, nose, mouth, skin tone, age, hair color, hair length and hairstyle, and any beard, moustache, glasses or freckles). THE CONFESSOR, who says the words, sits on the RIGHT and is the person in [Image 2], in every shot: copy the exact face from [Image 2] (the face shape, eye color and eye shape, eyebrows, nose, mouth, skin tone, age, hair color, hair length and hairstyle, and any beard, moustache, glasses or freckles). Never swap them, never blend their faces. Each keeps the hair and clothes of their own photo, glasses only if that photo shows them. Each face stays the same from the first frame to the last, also in the wide-open cry, so their friends recognize them at once. If an image shows an animal, that one is that animal with its own face, fur and markings, not a person.\n\n0-2 s, shot 1, two-shot: THE CRIER faces the camera, serious and guarded, mouth closed. THE CONFESSOR turns to THE CRIER and says softly, the voice cracking: \"Because I know, somewhere deep down in my heart...\"\n2-4.5 s, shot 2, close-up of THE CONFESSOR: silent, the head dropping, the face folding into a teary half-smile.\n4.5-6.5 s, shot 3, close-up of THE CRIER: silent, one hand pressed over the mouth, red wet eyes staring, holding it in.\n6.5-9 s, shot 4, close-up of THE CONFESSOR, a tear rolling down, soft and sure, the lips clearly shaping: \"I still love you.\"\n9-13.5 s, shot 5, close-up of THE CRIER, three-quarter view: the face crumples, then the mouth stretches WIDE OPEN in a long, loud, high-pitched ugly cry: eyes squeezed shut, brows pulled up hard in the middle, tears streaming, the head rocking, a hand coming up to the chin.\n13.5-15 s, shot 6, close-up of THE CONFESSOR: half laughing, half crying, a wide teary smile, while the wailing goes on off-screen.\n\nAudio: THE CONFESSOR's two soft lines, each said once, then THE CRIER's long wailing cry with gasps and sobs. New voices that fit each face, never imitating a real person's voice. THE CRIER never speaks until the cry. No music. Funny and warm, never scary. Only these two in the room. No text, subtitles, logos, watermark or TV channel badge. Five fingers on each hand."
+    }
+  ],
+  "variant_headings": [
+    "What the Deep Down In My Heart video looks like",
+    "How to make the Deep Down In My Heart video on MakeViral",
+    "Which photo works best?",
+    "What happens in the video, second by second?",
+    "How do I make a deep down in my heart I still love you video?",
+    "Can I make it with one photo or with my pet?",
+    "Can I use a photo of a celebrity, a child or someone who did not agree?",
+    "Other AI video templates and tools",
+    "New AI video trends this week",
+    "Make your own Deep Down In My Heart video"
+  ],
+  "prompt_count": 1,
+  "scraped_at": "2026-11-08"
+}

@@ -6,7 +6,7 @@
   "url": "https://remakeyourmeme.com/templates/coldplay-kiss-cam-ai-video-generator/",
   "blurb": "2 real videos from this maker, unedited, made October 19, 2026 with photos of AI-generated sample people. Pick a tab to watch each one.",
   "photos_in": null,
-  "duration_s": 14,
+  "duration_s": 13,
   "ready_to_make": true,
   "demo_videos": [
     "https://cdn.remakeyourmeme.com/trends/coldplay-kiss-cam/7527910323681070367.mp4",
@@ -37,9 +37,9 @@
     "https://cdn.remakeyourmeme.com/trends/coldplay-kiss-cam/7697951946497477921.webp"
   ],
   "all_cdn_mp4": [
-    "https://cdn.remakeyourmeme.com/templates/baby-doll/video.mp4",
-    "https://cdn.remakeyourmeme.com/templates/closed-on-sunday/video.mp4",
-    "https://cdn.remakeyourmeme.com/templates/dime-dime-baby/video.mp4",
+    "https://cdn.remakeyourmeme.com/templates/chipmunks-dance/video.mp4",
+    "https://cdn.remakeyourmeme.com/templates/no-scrubs/video.mp4",
+    "https://cdn.remakeyourmeme.com/templates/vossi-bop/video.mp4",
     "https://cdn.remakeyourmeme.com/trends/coldplay-kiss-cam/7527910323681070367.mp4",
     "https://cdn.remakeyourmeme.com/trends/coldplay-kiss-cam/7528413025238322454.mp4",
     "https://cdn.remakeyourmeme.com/trends/coldplay-kiss-cam/7640103515293207829.mp4",
@@ -55,7 +55,7 @@
   "prompt_count": 0,
   "prompts_public": false,
   "note": "Remake Your Meme does not publish copyable prompt text on public template pages (one-tap remake). Inventory keeps demos, posters, and metadata only.",
-  "scraped_at": "2026-10-23",
+  "scraped_at": "2026-11-08",
   "published": null,
   "updated": null
 }

@@ -1,9 +1,9 @@
-# Bama Bound Trend: Hold the I'M BAMA BOUND Banner With AI
+# Bama Bound Meme: Hold the I'M BAMA BOUND Banner With AI
 
 - Source: [makeviral](https://www.makeviral.ai/templates/bama-bound-ai-trend)
 - Slug: `bama-bound-ai-trend`
 
-The Bama Bound trend is the TikTok meme "Applied to Bama as a joke... got in plus full ride": a photo of you in a sunny green field, holding a red I'M BAMA BOUND banner over your head as if you just got into college.
+The Bama Bound meme is the TikTok trend "Applied to Bama as a joke... got in plus full ride": a photo of you in a sunny green field, holding a red I'M BAMA BOUND banner over your head as if you just got into college.
 
 ## Demo videos (CDN)
 

@@ -1,0 +1,47 @@
+{
+  "source": "makeviral",
+  "source_site": "https://www.makeviral.ai",
+  "slug": "patrick-swayze-dance-ai-trend",
+  "name": "Rasputin Dance AI: Do the Viral Routine, or the Big Lift, From Your Photo",
+  "url": "https://www.makeviral.ai/templates/patrick-swayze-dance-ai-trend",
+  "markdown_url": "https://www.makeviral.ai/templates/patrick-swayze-dance-ai-trend.md",
+  "blurb": "The Patrick Swayze dance AI trend is the viral Rasputin dance routine that AI clips made famous with the late actor's face.",
+  "updated": "2026-10-24",
+  "published": "2026-10-24",
+  "credits": 52,
+  "demo_videos": [
+    "https://www.makeviral.ai/media/templates/patrick-swayze-dance-ai-trend/original-main-v2.mp4"
+  ],
+  "posters": [
+    "https://www.makeviral.ai/media/templates/patrick-swayze-dance-ai-trend/original-main-v1.jpg"
+  ],
+  "prompts": [
+    {
+      "label": "1. The video prompt is filled in. Settings: kling-3-motion, 13 s, 720p, 9:16, sound off. The video prompt",
+      "variant": null,
+      "kind": "video_prompt",
+      "text": "Replace the character in the video with the person from the uploaded image. Keep actions, poses, facial expressions, camera movement and rhythm. Preserve the person's original facial features, maintain character consistency, no distortion, no glitches, no artifacts.\nThe person dances in the place from the uploaded image, in the clothes from the uploaded image, not the black-and-white jacket, the black shorts, the black tights and the black boots of the woman in the video, and keeps their own hair from the uploaded image, not long bright red hair. Follow the woman's moves and timing exactly: a loose, playful folk-disco routine: a hand flicked up to the forehead, the hips rocking on bent knees, the arms crossed at the chest, a kick to the side with one arm flung out, quick stomping steps, the shoulders shaking with the arms spread wide, then a quarter turn with a last kick. Keep the whole body in view from the head to the feet, filmed from a low angle, with natural balance and stable ground contact. Exactly one person, no other people. One continuous shot, no cuts, no flash of light, no text, no captions, no logos."
+    },
+    {
+      "label": "1. The video prompt is filled in. Settings: Seedance 2.5, 10 s, 720p, 9:16, sound on. The video prompt",
+      "variant": null,
+      "kind": "video_prompt",
+      "text": "Keep both people exactly as photographed: same faces, hair, skin tones, body shapes and outfits. A warm summer-resort ballroom at night in the early 1960s: a polished wooden dance floor, a small band stage with warm lights, string lights over the rafters, adult dancers clapping along the walls. Photorealistic, natural skin and natural colors, warm film light, not CGI, not a cartoon. Medium-wide shots keep both people fully in frame and both faces large, sharp and well lit.\n\nThe one who runs and gets lifted is the person in [Image 1], in every frame: copy the exact face from [Image 1] (the face shape, eye color and eye shape, eyebrows, nose, mouth, skin tone, age, hair color, hair length and hairstyle, and any beard, moustache, glasses or freckles), with the clothes from [Image 1].\nThe one who catches and lifts is the person in [Image 2], in every frame: copy the exact face from [Image 2] (the face shape, eye color and eye shape, eyebrows, nose, mouth, skin tone, age, hair color, hair length and hairstyle, and any beard, moustache, glasses or freckles), with the clothes from [Image 2].\nNever blend their faces. Each face stays the same from the first frame to the last, so their friends recognize them at once.\n\nThe person in [Image 1] runs across the floor at the person in [Image 2], who catches them at the hips and lifts them straight up above their head; the lifted one holds the swan pose, arms spread wide and body straight, for a long beat, then is lowered down slowly and safely and spun once, both laughing. The dancers along the walls cheer and clap. A smooth catch, strong steady arms and a soft landing on both feet: nobody slips, falls or gets hurt.\n\nOne continuous take, no cuts, everyone fully in frame, vertical 9:16, with a slow push-in on the two laughing faces at the end. Retro 60s soul ballad with a slow build in the audio, no vocals, and the crowd's cheers. Only these two adults dance in the middle; the dancers behind stay in the background. No text, no captions, no logos, no watermark."
+    }
+  ],
+  "variant_headings": [
+    "What the Rasputin Dance & Lift video looks like",
+    "How to make the Rasputin Dance & Lift video on MakeViral",
+    "Which photo works best?",
+    "How do I make the Rasputin dance AI video?",
+    "Is this a Dirty Dancing AI video generator with a prompt I can copy?",
+    "What music is in the video?",
+    "Can I do it with my pet?",
+    "How long is the video and what format is it?",
+    "Other AI video templates and tools",
+    "New AI video trends this week",
+    "Make your own Rasputin Dance & Lift video"
+  ],
+  "prompt_count": 2,
+  "scraped_at": "2026-11-08"
+}

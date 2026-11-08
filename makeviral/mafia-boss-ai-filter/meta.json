@@ -1,0 +1,55 @@
+{
+  "source": "makeviral",
+  "source_site": "https://www.makeviral.ai",
+  "slug": "mafia-boss-ai-filter",
+  "name": "Mafia Boss Filter: You as the Black and White Mafia Boss",
+  "url": "https://www.makeviral.ai/templates/mafia-boss-ai-filter",
+  "markdown_url": "https://www.makeviral.ai/templates/mafia-boss-ai-filter.md",
+  "blurb": "The mafia boss filter is an AI video trend from Turkey: from one photo, you become a black and white mafia boss at a restaurant table, with bodyguards in sunglasses.",
+  "updated": "2026-11-03",
+  "published": "2026-11-03",
+  "credits": 126,
+  "demo_videos": [
+    "https://www.makeviral.ai/media/templates/mafia-boss-ai-filter/example.mp4"
+  ],
+  "posters": [
+    "https://www.makeviral.ai/media/templates/mafia-boss-ai-filter/example-input.jpg",
+    "https://www.makeviral.ai/media/templates/mafia-boss-ai-filter/example-poster.jpg"
+  ],
+  "prompts": [
+    {
+      "label": "1. The video prompt is filled in. Settings: Seedance 2.5, 10 s, 720p, 9:16, sound on. The video prompt",
+      "variant": "Human",
+      "kind": "video_prompt",
+      "text": "A black and white crime film scene in four shots, high contrast, deep blacks, bright highlights, soft 35mm film grain, slow and heavy. The boss is the person in [Image 1], in every shot: copy the exact face from [Image 1] (the face shape, eye color and eye shape, eyebrows, nose, mouth, skin tone, age, hair color, hair length and hairstyle, and any beard, moustache, glasses or freckles), so their friends recognize them at once. Only the boss has this face; every other man has his own different face. If [Image 1] shows an animal, the boss is that animal sitting upright in a small black suit jacket, with its own face, fur and markings, not a person. The boss wears a crisp white shirt with an open collar under a dark tailored jacket and never smiles.\n\nShot 1 [0-3s]: a wide shot of a quiet, upscale restaurant at night: a curved white ceiling with small spotlights, an arched mirror, a glass chandelier and long curtains. The boss sits at a round table with three men in dark suits, small glasses of tea on the table. Behind them stand two bodyguards in black suits and dark sunglasses. The boss looks down at the table, calm.\nShot 2 [3-5s]: hard cut to a slow push-in to a close-up of the boss, who slowly lifts the head and gives the camera a cold, silent stare. The face is large, sharp and clearly the face from [Image 1].\nShot 3 [5-6.5s]: hard cut to a close-up of a bald bodyguard in dark sunglasses and a black suit, who slowly turns his head toward the camera.\nShot 4 [6.5-10s]: hard cut, slow motion: the boss walks through the restaurant straight toward the camera, framed from the waist up, the bodyguards in black suits and sunglasses one step behind, the guests turning to watch. The boss fixes the jacket and keeps the cold stare to the last frame, the face large and clear.\n\nAudio: an original slow, dark cinematic beat with deep bass and a low string drone, quiet restaurant murmur and footsteps. No dialogue, no lyrics.\nBlack and white from the first frame to the last. No guns, no weapons, no violence, no blood, no cigarettes. No text, no subtitles, no logos, no watermark."
+    },
+    {
+      "label": "1. Open [AI Photo with this template](https://www.makeviral.ai/photo?template=mafia-boss-ai-filter&variant=pet) and add your photo (your pet, whole body). The photo prompt is filled in",
+      "variant": "Pet",
+      "kind": "photo_prompt",
+      "text": "Use the uploaded image as the base. 9:16 vertical black and white film still, high contrast, deep blacks, soft 35mm grain. The pet from the uploaded image sits upright on a chair at a round table in a quiet, upscale restaurant at night, as the boss: it wears a small black suit jacket over a white shirt collar, a small glass of tea in front of it, its face turned three-quarters to the camera with a calm, serious look. Behind it stand two bodyguards in black suits and dark sunglasses, seen from the chest up. A curved white ceiling with small spotlights and a glass chandelier. Exactly one animal. Black and white. No guns, no weapons, no cigarettes. No text, no logos, no watermark."
+    },
+    {
+      "label": "3. Press the film button on the still to open AI Video with the still as the first frame. Settings: Kling 3.0, 10 s, 1080p, 9:16, sound on. The video prompt",
+      "variant": null,
+      "kind": "video_prompt",
+      "text": "A black and white crime film scene, high contrast, soft film grain, slow and heavy. Keep the pet exactly as in the image: the same face, eyes, ears, fur and markings, and the small black suit jacket. The camera slowly pushes in from a medium shot to a close-up of the pet boss, who slowly lifts its head and gives the camera a cold, silent stare. Behind it, a bald bodyguard in dark sunglasses slowly turns his head toward the camera and the other bodyguard straightens his jacket. The pet pushes the small glass of tea aside with one paw and keeps staring at the camera to the last frame. Audio: an original slow, dark cinematic beat with deep bass and quiet restaurant murmur. No dialogue. Black and white from the first frame to the last. Exactly one animal. No guns, no weapons, no violence, no cigarettes. No text, no logos, no watermark."
+    }
+  ],
+  "variant_headings": [
+    "What the Mafia Boss Filter video looks like",
+    "How to make the Mafia Boss Filter video on MakeViral",
+    "Which photo works best?",
+    "What happens in the mafia boss AI video, shot by shot?",
+    "How do I make the mafia boss AI video?",
+    "How long is the video, and does it have sound?",
+    "Is this a mafia filter or a mafia photo filter?",
+    "Can I make a mafia ai photo instead of a video?",
+    "Can I use a photo of someone else?",
+    "Other AI video templates and tools",
+    "New AI video trends this week",
+    "Make your own Mafia Boss Filter video"
+  ],
+  "prompt_count": 3,
+  "scraped_at": "2026-11-08"
+}

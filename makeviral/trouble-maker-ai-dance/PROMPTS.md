@@ -1,0 +1,103 @@
+# Trouble Maker Dance AI: Do the K-pop Duet With Your Partner
+
+- Source: [makeviral](https://www.makeviral.ai/templates/trouble-maker-ai-dance)
+- Slug: `trouble-maker-ai-dance`
+
+The Trouble Maker dance is the flirty duet routine of the 2011 K-pop song "Trouble Maker" by HyunA and Hyunseung, and dance covers of it keep coming back on TikTok.
+
+## Demo videos (CDN)
+
+- https://www.makeviral.ai/media/templates/trouble-maker-ai-dance/original-couple-v2.mp4
+- https://www.makeviral.ai/media/templates/trouble-maker-ai-dance/original-friends-v2.mp4
+
+## Posters
+
+- https://www.makeviral.ai/media/templates/trouble-maker-ai-dance/original-couple-v1.jpg
+- https://www.makeviral.ai/media/templates/trouble-maker-ai-dance/original-friends-v1.jpg
+
+## Prompts
+
+### 1. 1. The video prompt is filled in. Settings: Seedance 2.5, 15 s, 720p, 9:16, sound off. The video prompt
+
+*Kind: video_prompt*
+
+```text
+Recreate the reference video [Video 1] shot for shot: the same pink-lit dance studio with the black floor, the same low handheld phone camera, framing, cuts, timing and dance moves. The ONLY change: the man on the left at the start is now the person in [Image 1], the woman on the right is now the person in [Image 2].
+
+Use [Video 1] as the fixed duet dance performance, scene and camera reference. Replace only its two main performers using the portraits in [Image 1] and [Image 2]. Assign [Image 1] to the performer on the left in the first frame where both are visible, and [Image 2] to the performer on the right. Keep these identities assigned throughout turns, crossings, occlusions and position changes; never swap or blend them. Use each portrait for that person's facial identity, hairstyle and visible skin tone. Keep the reference performers' body movement, adapting head placement naturally to each pose. Follow [Video 1]'s action order, interactions, movement timing, expressions, framing, camera angles, camera movement, environment and lighting. Preserve the original sequence and ending rather than inventing a new routine or scene.
+
+Dancer 1 = the person in [Image 1], in EVERY frame: copy the exact face from [Image 1]: face shape, eye color and eye shape, eyebrows, nose, mouth, skin tone, age, hair color, hair length and hairstyle, and any beard, glasses or freckles. They wear the clothes and shoes from [Image 1]. NO black vest, no striped shirt and no black trousers unless [Image 1] shows them.
+
+Dancer 2 = the person in [Image 2], in EVERY frame: copy the exact face from [Image 2]: face shape, eye color and eye shape, eyebrows, nose, mouth, skin tone, age, hair color, hair length and hairstyle, and any beard, glasses or freckles. They wear the clothes and shoes from [Image 2]. NO pale pink slip dress and no white heeled boots unless [Image 2] shows them.
+
+The same real people in every frame, also in the close-ups, the wide shot and the turns. Never morph, never drift back to the original dancers' faces: no one from the video stays.
+
+The dance, matching the reference second by second, on the beat:
+0-3 s: close side by side, dancer 2 leans on dancer 1's shoulder, both sway.
+3-6.6 s: hip sways and shoulder turns to the camera.
+6.6-7 s: a white flash, then a wide shot.
+7-12 s: dancer 2 kicks out, arms up; dancer 1 steps behind and mirrors.
+12-15 s: close on dancer 2, one arm high, dancer 1 behind.
+Close moves stay playful, as in the video: never a kiss, never a hand on the chest, hips or bottom.
+
+Keep two distinct people with coherent anatomy, natural balance and consistent contact and shadows. Maintain identity during profile views and when faces reappear after occlusion. One head per person, on its own shoulders. Exactly two people.
+
+No dialogue throughout the entire video. No background music. Avoid merged faces, duplicated people, extra limbs, distorted hands, flicker and sliding feet. Do not add people, cuts, captions, text, logos or watermarks.
+```
+
+### 2. 1. The video prompt is filled in. Settings: Seedance 2.5, 13 s, 720p, 9:16, sound off. The video prompt
+
+*Kind: video_prompt*
+
+```text
+Recreate the reference video [Video 1] shot for shot: the same square in front of the glass office towers, the same low fixed phone camera, framing, timing and dance moves. The ONLY change: the woman on the left is now the person in [Image 1], the woman on the right is now the person in [Image 2].
+
+Use [Video 1] as the fixed duet dance performance, scene and camera reference. Replace only its two main performers using the portraits in [Image 1] and [Image 2]. Assign [Image 1] to the performer on the left in the first frame where both are visible, and [Image 2] to the performer on the right. Keep these identities assigned throughout turns, crossings, occlusions and position changes; never swap or blend them. Use each portrait for that person's facial identity, hairstyle and visible skin tone. Keep the reference performers' body movement, adapting head placement naturally to each pose. Follow [Video 1]'s action order, interactions, movement timing, expressions, framing, camera angles, camera movement, environment and lighting. Preserve the original sequence and ending rather than inventing a new routine or scene.
+
+Dancer 1 = the person in [Image 1], in EVERY frame: copy the exact face from [Image 1]: face shape, eye color and eye shape, eyebrows, nose, mouth, skin tone, age, hair color, hair length and hairstyle, and any beard, glasses or freckles. They wear the clothes and shoes from [Image 1]. NO open black shirt, no crop top, no light jeans and no long black hair unless [Image 1] shows them.
+
+Dancer 2 = the person in [Image 2], in EVERY frame: copy the exact face from [Image 2]: face shape, eye color and eye shape, eyebrows, nose, mouth, skin tone, age, hair color, hair length and hairstyle, and any beard, glasses or freckles. They wear the clothes and shoes from [Image 2]. NO loose black top, no dark grey jeans and no long black hair with bangs unless [Image 2] shows them.
+
+The same real people in every frame, also when they turn and flip their hair. Never morph, never drift back to the original dancers' faces: the two dancers in the video are twins, and neither twin's face comes back.
+
+The dance, matching the reference second by second, on the beat:
+0-1 s: dancer 1 touches her hair.
+1-4 s: both sway, dancer 1 slides her shirt off her shoulders.
+4-6.5 s: both step and lean, dancer 2 lifts her knees.
+6.5-9 s: dancer 1 leans forward, both sway their hips.
+9-11 s: shoulder rolls, hands at the waist.
+11-13 s: hair flips and half turns.
+Moves stay playful, as in the video. Clothes stay on: a shirt slides off the shoulders only over a top.
+
+Keep two distinct people with coherent anatomy, natural balance and consistent contact and shadows. Maintain identity during profile views and when faces reappear after occlusion. One head per person, on its own shoulders. Exactly two people.
+
+No dialogue throughout the entire video. No background music. Avoid merged faces, duplicated people, extra limbs, distorted hands, flicker and sliding feet. Do not add people, cuts, captions, text, logos or watermarks.
+```
+
+### 3. 1. The video prompt is filled in. Settings: Seedance 2.5, 13 s, 720p, 9:16, sound off. The video prompt (Pet)
+
+*Kind: video_prompt*
+
+```text
+Recreate the reference video [Video 1] shot for shot: the same paved square in front of the tall glass office towers under a pale sky, the same low fixed phone camera, framing, timing and dance moves. The ONLY change: the dancer on the left is now the pet in [Image 1], and the dancer on the right is now the pet in [Image 2]. No people at all: two pets dance the duet.
+
+Use [Video 1] as the fixed duet dance performance, scene and camera reference. Replace only its two main performers using the photos in [Image 1] and [Image 2]. Assign [Image 1] to the performer on the left in the first frame where both are visible, and [Image 2] to the performer on the right. Keep these identities assigned throughout turns, crossings, occlusions and position changes; never swap or blend them. Follow [Video 1]'s action order, interactions, movement timing, framing, camera angles, camera movement, environment and lighting. Preserve the original sequence and ending rather than inventing a new routine or scene.
+
+Pet 1 = the pet in [Image 1], whole body, in EVERY frame: the same species and breed, head shape, muzzle, eyes, ears, fur colors, fur length, markings and body shape as in [Image 1], with the natural body volume and proportions of that animal: never flattened, squashed, stretched or merged with anything, so its owner instantly recognizes it.
+
+Pet 2 = the pet in [Image 2], whole body, in EVERY frame: the same species and breed, head shape, muzzle, eyes, ears, fur colors, fur length, markings and body shape as in [Image 2], with the natural body volume and proportions of that animal: never flattened, squashed, stretched or merged with anything.
+
+Both pets stand upright on their hind legs like the dancers the whole time and wear no clothes, no jeans and no shirts, only their own fur. Never a human body, human hands or human hair. Do not mix the two pets: [Image 1] is only pet 1, [Image 2] is only pet 2. Both change: no person from the video stays.
+
+The dance, matching the reference second by second, on the beat:
+0-4 s: both sway side by side, pet 1 touches its head with a front paw.
+4-6.5 s: both step and lean, pet 2 steps out with high knee lifts.
+6.5-9 s: pet 1 leans forward, both sway their hips side by side.
+9-11 s: both roll their shoulders, front paws at the waist.
+11-13 s: head shakes and half turns until the end.
+
+Anatomy rules: one head and one tail per pet, two hind legs on the ground and two front legs, no extra legs or paws. Natural balance, believable steps, stable ground contact. Exactly two animals.
+
+No dialogue throughout the entire video. No background music. No people, no text, no logos, no watermark.
+```
+

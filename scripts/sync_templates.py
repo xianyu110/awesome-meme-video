@@ -12,7 +12,8 @@ from datetime import datetime, timezone, timedelta
 from pathlib import Path
 from urllib.parse import urlparse
 
-ROOT = Path('/workspace/awesome-meme-video')
+# Checkout root (repo itself). Older runners used /workspace/awesome-meme-video.
+ROOT = Path(__file__).resolve().parent.parent
 RAW = ROOT / '_raw'
 SCRAPE_TZ = timezone(timedelta(hours=8))  # Asia/Shanghai
 NOW = datetime.now(SCRAPE_TZ)
@@ -496,7 +497,7 @@ def write_readme(inv: dict):
         f"- **Kavel**: {s_kav.get('count', 0)} templates · {s_kav.get('total_prompt_blocks', 0)} prompt blocks · {s_kav.get('total_demo_videos', 0)} demo videos",
         f"- Scraped: {inv['generated_at']} (Asia/Shanghai)",
         f"- Sort: **newest first** by `{inv['sorted_by']}`",
-        f"- Gallery: https://xianyu110.github.io/awesome-meme-video/ (repo is private — Pages may be unavailable)",
+        f"- Gallery: https://xianyu110.github.io/awesome-meme-video/",
         '',
         '## Sources',
         '',

@@ -1,0 +1,50 @@
+{
+  "source": "makeviral",
+  "source_site": "https://www.makeviral.ai",
+  "slug": "couple-back-tattoo-ai-trend",
+  "name": "Couple Back Tattoo Trend: Your Face as a Tattoo on His Back",
+  "url": "https://www.makeviral.ai/templates/couple-back-tattoo-ai-trend",
+  "markdown_url": "https://www.makeviral.ai/templates/couple-back-tattoo-ai-trend.md",
+  "blurb": "The couple back tattoo trend is an AI photo trend: a man stands with his bare back to the camera, and a large black-and-gray tattoo of his partner's face covers it, framed by roses and \"Love You\", while she hugs him.",
+  "updated": "2026-11-07",
+  "published": "2026-10-24",
+  "credits": 3,
+  "demo_videos": [
+    "https://www.makeviral.ai/media/templates/couple-back-tattoo-ai-trend/original-main-v2.mp4"
+  ],
+  "posters": [
+    "https://www.makeviral.ai/media/templates/couple-back-tattoo-ai-trend/original-main-v1.jpg"
+  ],
+  "prompts": [
+    {
+      "label": null,
+      "variant": null,
+      "kind": "prompt",
+      "text": "Use the uploaded selfie (image 1) as the identity reference for the woman. Create a photorealistic romantic couple portrait of her with a randomly generated attractive male partner, surrounded by beautiful white roses. Keep her face recognizable and consistent with the selfie. The man should be AI-generated, with a different appearance each time, and no male reference photo is needed. Show the man from behind with his bare upper back. Create a large, realistic black-and-gray tattoo on his back featuring a detailed portrait of her face, matching the woman in the scene. Surround the tattoo with shaded black-and-gray roses and leaves, and write the words \"Love You\" in large flowing tattoo script under the portrait, with one small red heart. The look of the trend: a vertical 9:16 photo in soft, even studio light, with a full wall of white roses behind the couple. He stands with his back to the camera, seen from the top of his head to his waist, his bare back large in the middle of the picture; only the back of his head and a little of the side of his face show. She stands close behind his shoulder and hugs him, her hands on his shoulder and his chest, her face next to his shoulder, turned to the camera or three-quarters to it, eyes open, with a soft smile. She wears a simple black top. The tattoo is healed, crisp fine-line ink on his skin that follows the curve of his shoulder blades and spine: the face in the tattoo is the same face as the woman beside him, with the same hairstyle, drawn the way a skilled portrait tattoo artist draws a face from a photo. If image 1 shows a man, he takes her place and stays a man, and the tattoo shows his face. Exactly two adults. No other text, no logos, no watermark, no border. The identity rules below apply twice: the person beside him and the portrait in the tattoo are both the exact person from image 1. The man is a new AI-made adult, never a copy of image 1."
+    },
+    {
+      "label": null,
+      "variant": null,
+      "kind": "prompt",
+      "text": "Use the uploaded image 1 as the identity reference for the woman and image 2 as the identity reference for her partner. Create a photorealistic romantic couple portrait of the woman from image 1 with her partner from image 2, surrounded by beautiful white roses. Keep both of them recognizable and consistent with their photos. Show the partner from behind with his bare upper back. Create a large, realistic black-and-gray tattoo on his back featuring a detailed portrait of her face, matching the woman in the scene. Surround the tattoo with shaded black-and-gray roses and leaves, and write the words \"Love You\" in large flowing tattoo script under the portrait, with one small red heart. The look of the trend: a vertical 9:16 photo in soft, even studio light, with a full wall of white roses behind the couple. He stands with his back to the camera, seen from the top of his head to his waist, his bare back large in the middle of the picture; only the back of his head and a little of the side of his face show. She stands close behind his shoulder and hugs him, her hands on his shoulder and his chest, her face next to his shoulder, turned to the camera or three-quarters to it, eyes open, with a soft smile. She wears a simple black top. The tattoo is healed, crisp fine-line ink on his skin that follows the curve of his shoulder blades and spine: the face in the tattoo is the same face as the woman beside him, with the same hairstyle, drawn the way a skilled portrait tattoo artist draws a face from a photo. The partner has the exact hair, hairline, hair color, skin tone, ears, build and any beard of image 2; his head turns a little toward her, so his ear, cheek and jaw show in profile, never his face to the camera. If image 2 shows a woman, she stays a woman and wears a low open-back black dress, so her upper back is bare. If image 1 shows a man, he stays a man and the tattoo shows his face. Exactly two adults. No other text, no logos, no watermark, no border. The identity rules below: the person who hugs and the portrait in the tattoo are both the exact person from image 1; the partner with the tattooed back is the exact person from image 2, seen from behind."
+    },
+    {
+      "label": null,
+      "variant": "Pet",
+      "kind": "prompt",
+      "text": "Use the uploaded photo (image 1) and turn every person in it into a realistic tattoo on the forearm, with the handwritten text \"My Love\" fixed at the bottom to look just like a real tattoo. Create a hyper-realistic photograph of a human body part featuring a tattoo made from image 1. The tattoo should replicate the face from image 1 exactly, without altering facial features, proportions, or expressions. Place the tattoo on the inner forearm. The tattoo should look freshly done, with natural skin texture, pores, subtle redness around the ink, and perfect lighting integration. Maintain extremely detailed realism: lifelike shading, depth, and accurate ink absorption into the skin. Ensure the tattoo clearly matches the face in image 1 with no stylistic distortion. The look of the trend: a vertical 9:16 close-up photo of one bare inner forearm held up toward the camera, the wrist and a relaxed hand or loose fist at the top of the frame, the arm filling the middle of the picture, in soft natural daylight, with a softly out-of-focus background. The tattoo is a fine-line black-and-gray portrait with soft shading: it shows the people from image 1 in the same pose, clothes and hairstyle as in the photo, from the head down to the waist or as much of the body as the photo shows, with no background behind them, only bare skin around the ink. Under the portrait, the words \"My Love\" in large flowing tattoo script, and under the words one thin straight arrow that points to the right. No other text: no year, no name, no date. If image 1 shows two people, the tattoo shows both of them side by side as in the photo, each with their own face. If image 1 shows a pet, the tattoo is a portrait of that pet with its own face, ears, fur pattern and markings, never a person. The arm belongs to an unseen adult made by AI: only the forearm and the hand show, no face, no other tattoo, no jewelry except at most one thin bracelet. No logos, no watermark, no border. The identity rules below apply to the portrait in the tattoo: every face in the ink is the exact person or pet from image 1, drawn the way a skilled portrait tattoo artist copies a face from a photo. The arm's owner shows no face."
+    }
+  ],
+  "variant_headings": [
+    "What the Couple Back Tattoo photo looks like",
+    "How to make the Couple Back Tattoo photo on MakeViral",
+    "Which photo works best?",
+    "Do I need a photo of my boyfriend or partner?",
+    "Can I turn it into a video?",
+    "Other AI video templates and tools",
+    "New AI video trends this week",
+    "Make your own Couple Back Tattoo photo"
+  ],
+  "prompt_count": 3,
+  "scraped_at": "2026-11-08"
+}

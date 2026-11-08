@@ -1,0 +1,62 @@
+# Cat on Ultra Bee AI: Put Your Pet on the Wheelie
+
+- Source: [makeviral](https://www.makeviral.ai/templates/cat-on-ultra-bee-ai-trend)
+- Slug: `cat-on-ultra-bee-ai-trend`
+
+Cat on Ultra Bee is the viral AI clip of a cat riding an electric dirt bike: it stands on the bike, paws on the handlebars, and holds a long wheelie down a city road with the skyline behind.
+
+## Demo videos (CDN)
+
+- https://www.makeviral.ai/media/templates/cat-on-ultra-bee-ai-trend/original-pet-v2.mp4
+
+## Posters
+
+- https://www.makeviral.ai/media/templates/cat-on-ultra-bee-ai-trend/original-pet-v1.jpg
+
+## Prompts
+
+### 1. 1. The video prompt is filled in. Settings: Seedance 2.5, 9 s, 720p, 9:16, sound off. The video prompt (Pet)
+
+*Kind: video_prompt*
+
+```text
+Edit [Video 1]: replace the cat riding the dirt bike with the pet from [Image 1]. Recreate [Video 1] shot for shot: a teal-and-black electric dirt bike rides a long wheelie down a wide, empty multi-lane city road at golden hour, past tall power line towers, a concrete barrier covered in graffiti and a downtown skyline, filmed from a car driving alongside. The same five shots, cuts, timing, camera moves, bike, road, cars and sky. The ONLY change: the cat riding the bike is now the pet in [Image 1].
+
+STRICT SINGLE ANIMAL REPLACEMENT
+Replace ONLY the target animal: the cat riding the dirt bike. [Image 1] is the DIRECT REPLACEMENT SOURCE, not a style reference. Do NOT blend [Image 1] with the original animal. The original animal must never appear in the final video. The pet from [Image 1] inherits the original animal's exact screen position, relative scale in frame, pose and posture, head direction, body movements, actions and movement timing, and its grip on the handlebars.
+
+The pet = the pet in [Image 1], in EVERY frame: the same species and breed, face, eyes, ears, muzzle, fur colors, fur length and markings as in [Image 1], with the natural body volume and proportions of that animal: never flattened, squashed, stretched or merged with the bike. Whether [Image 1] shows a cat, a dog or another animal, it stays that animal. The same pet in every frame, from the first second to the last, so its owner instantly recognizes it, also in the wide third shot. Never drift back to the cat in the video: not the coat, the stripes or the face of the cat in the video unless [Image 1] shows them. No helmet and no clothes unless [Image 1] shows them.
+
+Shot 1 [0-2.0s]: side tracking view, the bike on its back wheel; the pet stands up on its hind legs on the bike with both front paws on the handlebars; a white pickup passes behind.
+Shot 2 [2.0-4.2s]: hard cut, the same side view, the wheelie goes on, a dark car passes, the graffiti barrier slides by; the pet holds on and keeps its balance.
+Shot 3 [4.2-6.5s]: hard cut, a wider view from behind and to the side, the bike rolls away on its back wheel; the pet holds on at the side of the bike.
+Shot 4 [6.5-7.8s]: hard cut, a low close view from the front, the bike comes toward the camera on its back wheel; the pet hangs off the side, front paws on the handlebars, one hind leg in the air.
+Shot 5 [7.8-8.6s]: hard cut, the front wheel is down and the bike rolls on; the pet stands on the seat with its front paws on the handlebars, the skyline behind.
+
+The bike, its frame colors, the wheels, the road, the cars and the camera stay exactly as in [Video 1]. Only replace the animal; keep everything else the same.
+
+No dialogue throughout the entire video. No background music.
+Anatomy rules: one head only, one muzzle. Animal paws on the handlebars, never human hands. No extra legs, no extra animals, no rider, no people on the bike. No text, no logos, no brand names on the bike, no watermark, no readable license plates.
+```
+
+### 2. 1. The video prompt is filled in. Settings: Seedance 2.5, 9 s, 720p, 9:16, sound off. The video prompt
+
+*Kind: video_prompt*
+
+```text
+Edit [Video 1]: replace the cat riding the dirt bike with the person from [Image 1]. Recreate [Video 1] shot for shot: a teal-and-black electric dirt bike rides a long wheelie down a wide, empty multi-lane city road at golden hour, past tall power line towers, a concrete barrier covered in graffiti and a downtown skyline, filmed from a car driving alongside. The same five shots, cuts, timing, camera moves, bike, road, cars and sky. The ONLY change: the cat riding the bike is now the person in [Image 1], riding in the cat's place.
+
+The rider = the person in [Image 1], in EVERY frame: a HUMAN head with the exact face from [Image 1] (the face shape, eye color and eye shape, eyebrows, nose, mouth, skin tone, age, hair color, hair length and hairstyle, and any beard, moustache, glasses or freckles), with the hair and the clothes from [Image 1]; if [Image 1] shows only the upper body, invent the rest so it matches naturally. A grown person at full adult size on a mid-size electric dirt bike: the head well above the handlebars, the feet on the foot pegs, the hands on the grips. Never small, never child-sized: the bike keeps its own size. Never a cat: no cat head, no cat ears, no fur, no whiskers, no tail, no paws. The same real person in every frame, from the first second to the last, so their friends instantly recognize them, also in the wide third shot. Never morph, never drift back to the cat. No helmet unless [Image 1] shows one, so the face shows in every shot.
+
+Shot 1 [0-2.0s]: side tracking view, the bike on its back wheel; the rider stands on the foot pegs in a standing wheelie, both hands on the grips; a white pickup passes behind.
+Shot 2 [2.0-4.2s]: hard cut, the same side view, the wheelie goes on, a dark car passes, the graffiti barrier slides by; the rider holds the balance.
+Shot 3 [4.2-6.5s]: hard cut, a wider view from behind and to the side, the bike rolls away on its back wheel; the rider leans to the side.
+Shot 4 [6.5-7.8s]: hard cut, a low close view from the front, the bike comes toward the camera on its back wheel; the rider hangs off the side, hands on the grips, one leg off the peg.
+Shot 5 [7.8-8.6s]: hard cut, the front wheel is down and the bike rolls on; the rider stands on the pegs, the skyline behind.
+
+The bike, its frame colors, the wheels, the road, the cars and the camera stay exactly as in [Video 1]. Only replace the cat; keep everything else the same.
+
+No dialogue throughout the entire video. No background music.
+Anatomy rules: one head only, on the rider's own shoulders, two arms, two human hands with five fingers each, two legs. Exactly one person on the bike, no cat, no animals. No text, no logos, no brand names on the bike, no watermark, no readable license plates.
+```
+

@@ -3,7 +3,7 @@
 > The cat in the hat trend is the 2026 TikTok wave of creepy AI pictures and night clips of a tall cat in a striped top hat on porches, streets and inside homes.
 
 Canonical: https://www.makeviral.ai/templates/cat-in-the-hat-ai-trend
-Updated: 2026-10-19
+Updated: 2026-10-30
 Published: 2026-10-19
 Author: MakeViral Team (https://www.makeviral.ai/about)
 Publisher: MakeViral (https://www.makeviral.ai)
@@ -16,7 +16,7 @@ Also called: Cat in the Hat horror trend, Dark Cat in the Hat memes, Cat in the 
 
 **Make it now:** [Make this video](https://www.makeviral.ai/templates/cat-in-the-hat-ai-trend/create). 1 photo · 10 s · 9:16 with sound · 56 credits, charged once · ready in a few minutes · no prompt to write.
 
-Keyword: cat in the hat trend. Also answers: cat in the hat ai, what is the cat in the hat trend, cat in the hat tiktok trend, cat and the hat trend, is the cat in the hat trend real, cat in the hat trend 2026, cat in the hat scary, cat in the hat ai trend, cat in the hat doorbell, cat in the hat sightings, cat in the hat prank, cat in the hat ai video, cat in the hat ai photo, cat in the hat trend explained, cat in the hat trend ai, is the cat in the hat ai, cat in the hat ai generated, cat in the hat ai prompt, cat in the hat doorbell camera, cat in the hat caught on camera, creepy cat in the hat, scary cat in the hat, cat in the hat creepy, cat in the hat halloween prank, cat in the hat trend halloween, cat in the hat ai prank, cat in the hat ai images, cat in the hat ai photos, cat in the hat ai creepy, cat in the hat ai scary, cat in the hat ai horror, cat in the hat creepy pictures, cat in the hat creepy photo, cat in the hat filter, how to do the cat in the hat trend, cat in the hat trend video, cat in the hat trend photos, cat in the hat creepy selfie, cat in the hat creepy dance, cat in the hat analog horror ai, cat in the hat sighting, cat in the hat trend fake, cat in the hat tiktok explained, cat inthe hat trend.
+Keyword: cat in the hat trend. Also answers: cat in the hat ai, what is the cat in the hat trend, cat in the hat tiktok trend, cat and the hat trend, is the cat in the hat trend real, cat in the hat trend 2026, cat in the hat scary, cat in the hat ai trend, cat in the hat doorbell, cat in the hat sightings, cat in the hat filter, the cat in the hat prank, cat in the hat prank, cat in the hat doorbell meme, cat in the hat selfie, cat in the hat ai prank, doorbell cat in the hat, cat inthe hat trend, cat in the hat ai video, cat in the hat ai photo, cat in the hat trend explained, cat in the hat trend ai, is the cat in the hat ai, cat in the hat ai generated, cat in the hat ai prompt, cat in the hat doorbell camera, cat in the hat caught on camera, creepy cat in the hat, scary cat in the hat, cat in the hat creepy, cat in the hat halloween prank, cat in the hat trend halloween, cat in the hat ai images, cat in the hat ai photos, cat in the hat ai creepy, cat in the hat ai scary, cat in the hat ai horror, cat in the hat creepy pictures, cat in the hat creepy photo, how to do the cat in the hat trend, cat in the hat trend video, cat in the hat trend photos, cat in the hat creepy selfie, cat in the hat creepy dance, cat in the hat analog horror ai, cat in the hat sighting, cat in the hat trend fake, cat in the hat tiktok explained.
 
 ## What is the Cat in the Hat AI trend, and where did it start?
 
@@ -216,7 +216,7 @@ The prompt the trend's Kling AI template uses, shown on screen in a July 2026 tu
 
 ### Can I make a cat in the hat doorbell camera video of my own house?
 
-Yes, that is the Doorbell cam version. Upload a photo of your porch or path from beside the door, and the AI makes a grainy night clip, like the cat in the hat caught on camera posts: the cat walks up, waves and does a silly, slightly creepy dance. It is a Halloween video, so post it as AI.
+Yes, that is the Doorbell cam version. Upload a photo of your porch or path from beside the door, and the AI makes a grainy night clip, like the cat in the hat caught on camera posts: the cat walks up, waves and does a silly, slightly creepy dance. The cat in the hat doorbell meme clips on TikTok look like this too: a grainy doorbell-camera view of a porch at night. It is a Halloween video, so post it as AI.
 
 ### Is there a cat in the hat filter?
 
@@ -245,6 +245,15 @@ Yes. The videos come with their own sound: quiet night sounds, footsteps and a s
 - [AI Pumpkin Head Photoshoot: The Halloween Trend From One Photo](https://www.makeviral.ai/templates/ai-pumpkin-head-photoshoot): Your outfit stays, your head becomes a glowing carved jack-o'-lantern in an open field at dusk, shot on film. No pumpkin to carve, no field to find. Solo, as a couple, or as a short video.
 - [AI photo generator](https://www.makeviral.ai/ai-photo-generator)
 - [All AI video templates](https://www.makeviral.ai/templates)
+
+## New AI video trends this week
+
+- [Christmas Dance AI: Do the New TikTok Christmas Dance From Your Photos](https://www.makeviral.ai/templates/christmas-dance-ai-trend): Hip sways with the hands at the collar, rolling arms, a quick spin and raised fists, side by side in matching Christmas pajamas. Add two photos for the duo, one for a solo take, or two pets, and get the dance with the sound.
+- [Cat on Ultra Bee AI: Put Your Pet on the Wheelie](https://www.makeviral.ai/templates/cat-on-ultra-bee-ai-trend): Add one photo, and your cat or dog stands on an electric dirt bike and holds a long wheelie down a city road at golden hour, in the same shots as the viral clip, with its original sound. You can take the ride yourself, too.
+- [Tus Ojos Me Reflejan el Sentimiento: The Cafuné Eye Close-Up Trend](https://www.makeviral.ai/templates/tus-ojos-me-reflejan-ai-trend): You lie on your side, a hand rests on your cheek, warm light falls on your face, and the camera slowly moves in until your eyes fill the screen while the line plays. One photo in, an 8-second vertical clip with the trend's song out.
+- [İnşallah Maşallah AI Trend: Sing Neşe Karaböcek's Song on the Couch](https://www.makeviral.ai/templates/insallah-masallah-ai-trend): You sit on a light grey couch and sing the old Turkish love song straight to the camera: a hand on the heart, a big laugh with both hands on your head, a finger pointed at the camera and a kiss at the end. One photo of you, a grandparent or your pet, and the 15-second clip comes with the song.
+- [Ice Ice Baby Dance AI: Do the Viral Duo Dance With a Friend](https://www.makeviral.ai/templates/ice-ice-baby-dance-ai): Two dancers side by side, the same bouncy 90s steps, a spin on the beat and a strut to the camera. Add a photo of you and a friend, of you alone, or of your pet, and get the dance with the sound.
+- [Save Yourself Trend: Pull Yourself Up From the Cliff](https://www.makeviral.ai/templates/save-yourself-ai-trend): One photo plays both of you: the scared you clinging to a wet sea cliff, and the calm you who reaches down, pulls you up and holds you. Or use two photos: an older photo of you and a new one, or you and a friend. 15 seconds, vertical.
 
 ## Make your own Cat in the Hat AI video
 

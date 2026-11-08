@@ -3,7 +3,7 @@
 > The AI werewolf trend turns one photo into a 10-second werewolf transformation: you double over in pain, your jaw stretches into a muzzle, your body grows and thick fur covers you until you are a dire wolf.
 
 Canonical: https://www.makeviral.ai/templates/ai-werewolf-transformation
-Updated: 2026-10-16
+Updated: 2026-10-24
 Published: 2026-10-16
 Author: MakeViral Team (https://www.makeviral.ai/about)
 Publisher: MakeViral (https://www.makeviral.ai)
@@ -16,7 +16,7 @@ Also called: Werewolf transformation trend, AI werewolf filter.
 
 **Make it now:** [Make this video](https://www.makeviral.ai/templates/ai-werewolf-transformation/create). 1 photo · 10 s · 9:16 with sound · 126 credits, charged once · ready in a few minutes · no prompt to write.
 
-Keyword: ai werewolf. Also answers: werewolf transformation, werewolf transformation female, werewolf halloween, werewolf transformation gif, werewolf transformation meme, werewolf ai, turn into a werewolf, turn into a wolf, werewolf filter, wolf filter, dog werewolf meme, werewolf transformation in real life, ai werewolf transformation, female werewolf transformation video, werewolf transformation scene, transform into a werewolf, werewolf transformation video, turning into a werewolf meme, turning into a werewolf gif, werewolf generator, werewolf transformation ai, halloween ai video, human to werewolf transformation, what would i look like as a werewolf, werewolf trend, werewolf filter tiktok, werewolf ai generated, wolf filter tiktok, werewolf filter online, werewolf photo filter, dog turns into werewolf, real werewolf transformation video, werewolf trend tiktok, ai werewolf video, werewolf ai generator, werewolf transformation ai generator video, female werewolf transformation ai video, ai werewolf transformation female, male werewolf transformation videos, wolf transformation video, werewolf transformation filter, werewolf face filter, werewolf filter app, ai wolf filter, ai werewolf meme, werewolf ai prompt, werewolf transformation prompt, werewolf seedance prompt, my dog as a werewolf, dog to wolf ai, pet wolf filter.
+Keyword: ai werewolf. Also answers: werewolf transformation, werewolf transformation female, werewolf halloween, werewolf transformation gif, werewolf transformation meme, werewolf ai, turn into a werewolf, turn into a wolf, werewolf filter, wolf filter, dog werewolf meme, werewolf transformation in real life, ai werewolf transformation, female werewolf transformation video, werewolf transformation scene, transform into a werewolf, werewolf transformation video, turning into a werewolf meme, turning into a werewolf gif, werewolf generator, werewolf transformation ai, turn me into a werewolf, ai female werewolf transformation, make me a werewolf, halloween ai video, human to werewolf transformation, what would i look like as a werewolf, werewolf trend, werewolf filter tiktok, werewolf ai generated, wolf filter tiktok, werewolf filter online, werewolf photo filter, dog turns into werewolf, real werewolf transformation video, werewolf trend tiktok, ai werewolf video, werewolf ai generator, werewolf transformation ai generator video, female werewolf transformation ai video, ai werewolf transformation female, male werewolf transformation videos, wolf transformation video, werewolf transformation filter, werewolf face filter, werewolf filter app, ai wolf filter, ai werewolf meme, werewolf ai prompt, werewolf transformation prompt, werewolf seedance prompt, my dog as a werewolf, dog to wolf ai, pet wolf filter.
 
 ## What is the AI Werewolf trend, and where did it start?
 
@@ -236,11 +236,20 @@ Yes. Each video costs credits, and the create page shows the exact price on the 
 
 - [AI Zombie Trend: The Zombie Love Story With Your Partner or Pet](https://www.makeviral.ai/templates/ai-zombie-trend): Your partner, or your pet, has turned into a zombie. You aim through tears, lower the gun and hug them anyway. Then a hard cut to a sunny memory of you two. Two photos in, a 10-second clip with sound out.
 - [AI Halloween Costume Try-On: See Yourself in a Costume Before You Buy](https://www.makeviral.ai/templates/ai-halloween-costume): Add one full-body photo, type or pick a costume, and see yourself in it at a Halloween party. Two photos make a matching couple costume, and a short costume transition video shows the change.
-- [Ghostface AI Trend: Put Yourself in the 90s Horror Phone Call](https://www.makeviral.ai/templates/ghostface-ai-trend): You lie on satin bedding with a chunky 90s phone at your ear, and a figure in a black hooded robe and a white ghost mask watches from the dark doorway. One selfie in, a grainy film photo out, or a short clip where you turn around.
+- [AI Red Riding Hood: Walk Out of the Snow With the Wolves](https://www.makeviral.ai/templates/ai-red-riding-hood): A tiny red figure far down a snowy forest road, a pack of grey wolves at her side, and then the hood comes down: it is your face. Add one photo of yourself or your pet and get the cinematic reel with its moody slowed song.
 - [AI TikTok Video](https://www.makeviral.ai/tools/ai-tiktok-video-generator): Eight native TikTok formats, one prompt or product URL, a finished 9:16 video with captions burned in.
 - [AI Reels](https://www.makeviral.ai/tools/ai-reels-generator): Pick a format, give it a topic or a product link, and get a finished vertical reel with voice and captions. Nothing to film, nothing to edit.
 - [AI photo generator](https://www.makeviral.ai/ai-photo-generator)
 - [All AI video templates](https://www.makeviral.ai/templates)
+
+## New AI video trends this week
+
+- [Christmas Dance AI: Do the New TikTok Christmas Dance From Your Photos](https://www.makeviral.ai/templates/christmas-dance-ai-trend): Hip sways with the hands at the collar, rolling arms, a quick spin and raised fists, side by side in matching Christmas pajamas. Add two photos for the duo, one for a solo take, or two pets, and get the dance with the sound.
+- [Cat on Ultra Bee AI: Put Your Pet on the Wheelie](https://www.makeviral.ai/templates/cat-on-ultra-bee-ai-trend): Add one photo, and your cat or dog stands on an electric dirt bike and holds a long wheelie down a city road at golden hour, in the same shots as the viral clip, with its original sound. You can take the ride yourself, too.
+- [Tus Ojos Me Reflejan el Sentimiento: The Cafuné Eye Close-Up Trend](https://www.makeviral.ai/templates/tus-ojos-me-reflejan-ai-trend): You lie on your side, a hand rests on your cheek, warm light falls on your face, and the camera slowly moves in until your eyes fill the screen while the line plays. One photo in, an 8-second vertical clip with the trend's song out.
+- [İnşallah Maşallah AI Trend: Sing Neşe Karaböcek's Song on the Couch](https://www.makeviral.ai/templates/insallah-masallah-ai-trend): You sit on a light grey couch and sing the old Turkish love song straight to the camera: a hand on the heart, a big laugh with both hands on your head, a finger pointed at the camera and a kiss at the end. One photo of you, a grandparent or your pet, and the 15-second clip comes with the song.
+- [Ice Ice Baby Dance AI: Do the Viral Duo Dance With a Friend](https://www.makeviral.ai/templates/ice-ice-baby-dance-ai): Two dancers side by side, the same bouncy 90s steps, a spin on the beat and a strut to the camera. Add a photo of you and a friend, of you alone, or of your pet, and get the dance with the sound.
+- [Save Yourself Trend: Pull Yourself Up From the Cliff](https://www.makeviral.ai/templates/save-yourself-ai-trend): One photo plays both of you: the scared you clinging to a wet sea cliff, and the calm you who reaches down, pulls you up and holds you. Or use two photos: an older photo of you and a new one, or you and a friend. 15 seconds, vertical.
 
 ## Make your own AI Werewolf video
 

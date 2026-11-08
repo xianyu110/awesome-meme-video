@@ -3,7 +3,7 @@
 > The clapping cat meme, also called black cat clapping, is an AI clip from September 2026: a black cat sits up on its hind legs, grins with human teeth and slowly claps a pair of human hands at the camera.
 
 Canonical: https://www.makeviral.ai/templates/clapping-cat-ai-video
-Updated: 2026-10-15
+Updated: 2026-10-29
 Published: 2026-10-11
 Author: MakeViral Team (https://www.makeviral.ai/about)
 Publisher: MakeViral (https://www.makeviral.ai)
@@ -16,7 +16,7 @@ Also called: Clapping kitten meme, Peep the clapping cat.
 
 **Make it now:** [Make this video](https://www.makeviral.ai/templates/clapping-cat-ai-video/create). 1 photo · 6 s · 9:16 with sound · 35 credits, charged once · ready in a few minutes · no prompt to write.
 
-Keyword: clapping cat. Also answers: cat clapping, clapping cat gif, cat clapping meme, cat with human hands, clapping cat meme, creepy smiling cat, black cat clapping, ai clapping cat, cat with human hands meme, clapping cat meme gif, cat clapping hands meme, black cat clapping meme, ai cat clapping, cat clapping ai, dog clapping ai, clapping cat ai, ai clapping cat meme, clapping cat ai meme, cat clapping meme ai, clapping cat meme ai, black cat clapping ai, cat clap ai, ai cat clapping gif, clapping cat ai video, smiling cat clapping, clapping cat green screen, make my cat clap, clapping cat video, cat clapping video, clapping cat edit, clapping cat filter, clap cat app, black cat clap, black cat clapping meme download, the clapping cat.
+Keyword: clapping cat. Also answers: cat clapping, clapping cat gif, cat clapping meme, cat with human hands, clapping cat meme, creepy smiling cat, black cat clapping, ai clapping cat, cat with human hands meme, clapping cat meme gif, cat clapping hands meme, ai dog clapping, black cat clapping meme, ai cat clapping, cat clapping ai, dog clapping ai, clapping cat ai, ai clapping cat meme, clapping cat ai meme, cat clapping meme ai, clapping cat meme ai, black cat clapping ai, ai cat clapping video, ai black cat clapping gif, black cat clapping ai meme, cat clapping meme download, cat clap ai, ai cat clapping gif, clapping cat ai video, smiling cat clapping, clapping cat green screen, make my cat clap, clapping cat video, cat clapping video, clapping cat edit, clapping cat filter, clap cat app, black cat clap, black cat clapping meme download, black cat clapping meme gif, ai clapping cat gif, ai cat clapping meme, ai black cat clapping, claping cat, the clapping cat, ai black cat meme, cat clap, ai cat clap gif, black ai cat clapping, black cat clapping download, black cat clapping gif, black clapping cat meme, cat claping, cat clapping gif download, ai cat clapping meme gif, ar cat clapping, black cat clapping hands, black cat clapping wallpaper, black clapping cat gif, cat clapping meme gif, cat clapping meme original, cat clapping meme video download, clap cat, clapping cat photo, black dog clapping meme, cat clapping filter, clapping black cat, clapping cat meme download, the cat clapping, cat clapping ai gif, ai black cat clapping meme, ai dog clapping meme, black cat ai clapping gif, black car clapping, black cat clapping hands meme, black clapping cat, clapping cat know your meme, cat clapping video download, clapping cat video download, cat clapping ai video, clapping cay, black cat meme clap, ai clapping, cat clapping gif, clapin cat, clapping cat meme video, clapping cat wallpaper, clapping cat sound.
 
 ## What is the Clapping Cat trend, and where did it start?
 
@@ -57,6 +57,8 @@ Everything runs in the browser. No editing app, no watermark.
 
 The one-tap flow runs these prompts for you. A photo prompt puts your photo into the scene (Nano Banana 2.1, image mode, 9:16, 1K), then a video prompt animates that still. To change them, copy them and edit them in AI Photo and AI Video.
 
+#### Variant: Pet
+
 Settings: 1 photo (your pet, whole body) · Kling 3.0 · 6 s · 1080p · 9:16 · with sound · 35 credits in one tap.
 
 1. Open [AI Photo with this template](https://www.makeviral.ai/photo?template=clapping-cat-ai-video&variant=pet) and add your photo (your pet, whole body). The photo prompt is filled in:
@@ -75,6 +77,27 @@ Settings: 1 photo (your pet, whole body) · Kling 3.0 · 6 s · 1080p · 9:16 ·
 4. Press Generate, then download the 9:16 MP4.
 
 One-tap version of this variant: https://www.makeviral.ai/templates/clapping-cat-ai-video/create?variant=pet
+
+#### Variant: Human
+
+Settings: 1 photo (you, waist up, both hands in view) · Kling 3.0 · 6 s · 1080p · 9:16 · with sound · 35 credits in one tap.
+
+1. Open [AI Photo with this template](https://www.makeviral.ai/photo?template=clapping-cat-ai-video&variant=human) and add your photo (you, waist up, both hands in view). The photo prompt is filled in:
+
+   ```text
+   Use the uploaded image as the base. Keep the person's face, hair, skin tone, body and clothes exactly the same as in the photo. A real phone photo of the same person at home, taken by a friend standing in front of them, a little above their eye level. Keep the same real room from the photo, with the same colors and light, and show the floor around the person. The person sits upright on the floor in the middle of the room, legs crossed, and looks straight into the camera with a calm face and a closed mouth. They hold their two hands together in front of their chest, palms touching, as if they are about to clap. The whole person is in frame from the top of the head to the knees, with floor around them. Soft indoor daylight, a little phone-camera softness. Photorealistic, not a cartoon, not CGI. Vertical 9:16. Exactly one person and exactly two hands. No extra hands or arms, no animals, no other people, no camera app interface, no text, no logos.
+   ```
+
+2. Check the still before you spend credits on the video. Everything the video model does starts from that one frame.
+3. Press the film button on the still to open AI Video with the still as the first frame. Settings: Kling 3.0, 6 s, 1080p, 9:16, sound on. The video prompt:
+
+   ```text
+   A real, funny home video filmed on a phone in one continuous shot, a little from above, by a friend standing in front of the person. Keep the person's face, hair, skin tone and clothes exactly as in the image. For the first second the person sits upright and looks into the lens with a calm face. Then their mouth slowly stretches into a wide, creepy grin that shows a full row of straight white teeth, and their eyes narrow a little. Still grinning and staring into the lens, they clap their hands slowly and firmly four times, with a short pause between the claps, like a sarcastic slow clap, then hold their hands together and keep grinning. They stay sitting in the same spot: only their face, arms and hands move. The camera stays almost still, with a slight handheld sway. Audio: four slow, loud, real hand claps in a quiet room, and nothing else: no music, no voice. Exactly one person and exactly two hands with five fingers each. No extra hands, no extra limbs, no morphing, no cuts, no text, no logos.
+   ```
+
+4. Press Generate, then download the 9:16 MP4.
+
+One-tap version of this variant: https://www.makeviral.ai/templates/clapping-cat-ai-video/create?variant=human
 
 ### Which photo works best?
 
@@ -130,6 +153,8 @@ The template works in two steps, the same route the creator described in his tut
 
 The exact price shows on the Generate button before you spend anything, and the video waits in My videos when it is ready. You write no prompt.
 
+**Human** does the same with one photo of you: you sit on the floor of your room, grin with all your teeth and give the four slow claps yourself, like the creator did when he filmed the clap for his cat.
+
 **Why not copy the original reel itself?** The cat's shot in the reel lasts under four seconds, and the rest of the reel shows the creator. A copy of that shot would cost more and would put your pet into his home. The still keeps your pet in your own home, like his cat in his, and the hands come from the still, so the video model only has to move them.
 
 ## What goes wrong, and how do you fix it?
@@ -181,6 +206,10 @@ Press "Create your own", add one full-body photo of your cat and press Generate.
 
 Yes. The prompts say "the animal", not "the cat", and keep the breed, the fur and the markings from your photo, so a dog gets the same human hands, grin and slow clap. The original stars a black cat, so cats look closest to it.
 
+### Can I do the clapping cat meme myself, without a pet?
+
+Yes. Pick Human and add one photo of yourself, waist up with both hands in view. You sit on the floor of your room, flash the wide grin and give the same four slow claps, in a 6-second clip with clap sounds. The creator filmed his own grin and clap to make the cat move, so this is the move behind the meme. Use a photo of an adult who agreed to it.
+
 ### How long is the clapping cat video, and does it have sound?
 
 6 seconds, vertical 9:16, as an MP4 file: 1080p with Standard, 720p with Best. It has its own sound, slow claps in a quiet room with no music, like the original reel.
@@ -222,6 +251,15 @@ You need no app. Add one photo of your cat or dog on this page, and the AI makes
 - [Nano Banana 2](https://www.makeviral.ai/tools/nano-banana-2-image-generator): Google's image model, in a browser tab, with the reference-image dropzone that makes it useful: up to 14 photos in, one new image out.
 - [AI photo generator](https://www.makeviral.ai/ai-photo-generator)
 - [All AI video templates](https://www.makeviral.ai/templates)
+
+## New AI video trends this week
+
+- [Christmas Dance AI: Do the New TikTok Christmas Dance From Your Photos](https://www.makeviral.ai/templates/christmas-dance-ai-trend): Hip sways with the hands at the collar, rolling arms, a quick spin and raised fists, side by side in matching Christmas pajamas. Add two photos for the duo, one for a solo take, or two pets, and get the dance with the sound.
+- [Cat on Ultra Bee AI: Put Your Pet on the Wheelie](https://www.makeviral.ai/templates/cat-on-ultra-bee-ai-trend): Add one photo, and your cat or dog stands on an electric dirt bike and holds a long wheelie down a city road at golden hour, in the same shots as the viral clip, with its original sound. You can take the ride yourself, too.
+- [Tus Ojos Me Reflejan el Sentimiento: The Cafuné Eye Close-Up Trend](https://www.makeviral.ai/templates/tus-ojos-me-reflejan-ai-trend): You lie on your side, a hand rests on your cheek, warm light falls on your face, and the camera slowly moves in until your eyes fill the screen while the line plays. One photo in, an 8-second vertical clip with the trend's song out.
+- [İnşallah Maşallah AI Trend: Sing Neşe Karaböcek's Song on the Couch](https://www.makeviral.ai/templates/insallah-masallah-ai-trend): You sit on a light grey couch and sing the old Turkish love song straight to the camera: a hand on the heart, a big laugh with both hands on your head, a finger pointed at the camera and a kiss at the end. One photo of you, a grandparent or your pet, and the 15-second clip comes with the song.
+- [Ice Ice Baby Dance AI: Do the Viral Duo Dance With a Friend](https://www.makeviral.ai/templates/ice-ice-baby-dance-ai): Two dancers side by side, the same bouncy 90s steps, a spin on the beat and a strut to the camera. Add a photo of you and a friend, of you alone, or of your pet, and get the dance with the sound.
+- [Save Yourself Trend: Pull Yourself Up From the Cliff](https://www.makeviral.ai/templates/save-yourself-ai-trend): One photo plays both of you: the scared you clinging to a wet sea cliff, and the calm you who reaches down, pulls you up and holds you. Or use two photos: an older photo of you and a new one, or you and a friend. 15 seconds, vertical.
 
 ## Make your own Clapping Cat video
 

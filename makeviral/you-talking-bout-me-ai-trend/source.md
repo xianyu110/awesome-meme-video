@@ -12,11 +12,11 @@ The **You Talking Bout Me** trend remakes a viral stream clip of the rapper DDG 
 
 Three friends at a bar counter: one laughs about his bills, one keeps asking "You talking about me?", and the joke lands on the quiet one. Put your own faces in the scene, with the lines spoken.
 
-Also called: Talking 'Bout Me, Thinking about my bills meme, DDG counter meme.
+Also called: Talking 'Bout Me, Thinking about my bills meme, DDG counter meme, You talking to me DDG.
 
 **Make it now:** [Make this video](https://www.makeviral.ai/templates/you-talking-bout-me-ai-trend/create). 3 photos · 15 s · 9:16 with sound · 189 credits, charged once · ready in a few minutes · no prompt to write.
 
-Keyword: you talking bout me. Also answers: you talking about me, you talking bout me meme, i be thinking about my bills, you talking bout me ddg, you talking about me meme, i be thinking bout my bills, ddg bills, you talking bout me ai, you talking bout me ai trend, i be thinking about my bills meme, you talking about me ddg, ddg bills meme, i be thinking about my bills ddg, you talm bout me, you talkin bout me, u talking bout me, you talking bout me video, you talking about me clip, you talking about me tiktok, talking bout me meme, ddg you talking about me meme, you talking bout me dub, you talking about me ai, ddg bills ai, i be thinking about my bills ai, talking bout me ai video, you talking bout me template, i be thinking about my bills full video, you talking bout me gif, you talm bout me meme, ai video with friends, three friends ai video, ai meme video generator.
+Keyword: you talking bout me. Also answers: you talking about me, you talking bout me meme, i be thinking about my bills, you talking bout me ddg, you talking about me meme, i be thinking bout my bills, ddg bills, you talking bout me ai, you talking bout me ai trend, i be thinking about my bills meme, you talkin bout me meme, talm bout me meme, you talking about me ddg, ddg bills meme, i be thinking about my bills ddg, you talm bout me, you talkin bout me, u talking bout me, you talking bout me video, you talking about me clip, you talking about me tiktok, talking bout me meme, talkin bout me meme, u talking about me meme, talm bout me, u talm bout me, i be talking about my bills, i been thinking about my bills, you talkin about me meme, ddg you talking about me meme, you talking bout me dub, you talking about me ai, ddg bills ai, i be thinking about my bills ai, talking bout me ai video, you talking bout me template, i be thinking about my bills full video, you talking bout me gif, you talm bout me meme, ddg you talking to me gif, u talkin bout me meme, you talking to me dub meme, are you talking about me meme, ddg you talking to me, he talking about me meme, u talking bout me meme, you talkin about me, are you talking about me, you talking to me ddg meme, talking about me meme, u talm bout me meme, talking to me ddg, you talking abt me, ddg talking about me, dub you talking bout me, i think about my bills meme, you talk bout me, you talking to me meme ddg, you talm bout me gif, ai video with friends, three friends ai video, ai meme video generator.
 
 ## What is the You Talking Bout Me trend, and where did it start?
 
@@ -288,6 +288,15 @@ Each version makes a 15 second vertical MP4 at 720p, with sound. It costs credit
 - [AI Reels](https://www.makeviral.ai/tools/ai-reels-generator): Pick a format, give it a topic or a product link, and get a finished vertical reel with voice and captions. Nothing to film, nothing to edit.
 - [AI photo generator](https://www.makeviral.ai/ai-photo-generator)
 - [All AI video templates](https://www.makeviral.ai/templates)
+
+## New AI video trends this week
+
+- [Christmas Dance AI: Do the New TikTok Christmas Dance From Your Photos](https://www.makeviral.ai/templates/christmas-dance-ai-trend): Hip sways with the hands at the collar, rolling arms, a quick spin and raised fists, side by side in matching Christmas pajamas. Add two photos for the duo, one for a solo take, or two pets, and get the dance with the sound.
+- [Cat on Ultra Bee AI: Put Your Pet on the Wheelie](https://www.makeviral.ai/templates/cat-on-ultra-bee-ai-trend): Add one photo, and your cat or dog stands on an electric dirt bike and holds a long wheelie down a city road at golden hour, in the same shots as the viral clip, with its original sound. You can take the ride yourself, too.
+- [Tus Ojos Me Reflejan el Sentimiento: The Cafuné Eye Close-Up Trend](https://www.makeviral.ai/templates/tus-ojos-me-reflejan-ai-trend): You lie on your side, a hand rests on your cheek, warm light falls on your face, and the camera slowly moves in until your eyes fill the screen while the line plays. One photo in, an 8-second vertical clip with the trend's song out.
+- [İnşallah Maşallah AI Trend: Sing Neşe Karaböcek's Song on the Couch](https://www.makeviral.ai/templates/insallah-masallah-ai-trend): You sit on a light grey couch and sing the old Turkish love song straight to the camera: a hand on the heart, a big laugh with both hands on your head, a finger pointed at the camera and a kiss at the end. One photo of you, a grandparent or your pet, and the 15-second clip comes with the song.
+- [Ice Ice Baby Dance AI: Do the Viral Duo Dance With a Friend](https://www.makeviral.ai/templates/ice-ice-baby-dance-ai): Two dancers side by side, the same bouncy 90s steps, a spin on the beat and a strut to the camera. Add a photo of you and a friend, of you alone, or of your pet, and get the dance with the sound.
+- [Save Yourself Trend: Pull Yourself Up From the Cliff](https://www.makeviral.ai/templates/save-yourself-ai-trend): One photo plays both of you: the scared you clinging to a wet sea cliff, and the calm you who reaches down, pulls you up and holds you. Or use two photos: an older photo of you and a new one, or you and a friend. 15 seconds, vertical.
 
 ## Make your own You Talking Bout Me video
 

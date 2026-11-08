@@ -1,0 +1,92 @@
+# Robot Girl AI: Become the Android at the Tech Expo and Get Your First Hug
+
+- Source: [makeviral](https://www.makeviral.ai/templates/robot-girl-ai-trend)
+- Slug: `robot-girl-ai-trend`
+
+The robot girl AI trend is the android at a tech expo whose first hug went viral in October 2026.
+
+## Demo videos (CDN)
+
+- https://www.makeviral.ai/media/templates/robot-girl-ai-trend/original-main-v2.mp4
+
+## Posters
+
+- https://www.makeviral.ai/media/templates/robot-girl-ai-trend/original-main-v1.jpg
+
+## Prompts
+
+### 1. 1. The video prompt is filled in. Settings: Seedance 2.5, 10 s, 720p, 9:16, sound on. The video prompt
+
+*Kind: video_prompt*
+
+```text
+A viral AI tech expo video filmed on a phone, photorealistic, vertical 9:16.
+
+The place: a huge, busy tech expo hall by day: grey carpet, steel roof trusses with rows of round lights, plain blue hanging banners with no words, booths with screens far behind, a black rope barrier on short steel posts in front of the booth, and adult visitors with lanyards, some filming on their phones, small and a little blurred behind.
+
+The android at the booth is the person in [Image 1], in every frame: copy the exact face from [Image 1] (the face shape, eye color and eye shape, eyebrows, nose, mouth, skin tone, age, hair color, hair length and hairstyle, and any beard, moustache, glasses or freckles). The android looks like a real grown adult with a human face, skin and hair, but where the stomach would be, between the ribs and the waistband, the body is an open mechanical core of silver metal parts, small gears and cables with soft blue-white lights. A man is an android man, a woman an android woman. The android wears a plain navy short-sleeved t-shirt that ends just above the core, plain black knee-length shorts and plain sneakers: no print, no logo. The same face from the first frame to the last, so their friends recognize them at once, also with the eyes closed in the hug. Never morph, never a younger face.
+
+The visitor is a friendly grown adult of the same gender as the android, in a plain white t-shirt and dark jeans, with an ordinary face of their own. The visitor never gets the face from [Image 1].
+
+One handheld phone shot from beside the rope, no cuts. The android is seen from the knees up, the face big and clear.
+0-2 s: the android stands still at the booth like a display unit, arms at the sides, a calm, blank look. The visitor at the rope smiles and asks: "Can I get a hug?"
+2-4 s: the android blinks, turns the head to the booth engineer behind, an adult man in a plain black polo shirt with no logo, as if to ask for permission. He smiles and nods.
+4-6 s: the android lifts both arms straight out, stiff like a robot, and steps forward in small, jerky moves. The visitor laughs and steps in.
+6-9 s: they hug. The android's stiff arms slowly soften and wrap around the visitor, the head rests on the visitor's shoulder, the eyes close, a shy, warm smile spreads, and the core glows brighter.
+9-10 s: they step apart; the android looks at the visitor with a happy, surprised smile.
+
+Audio: the hum of the busy hall, the visitor's "Can I get a hug?", soft whirs when the android moves, a warm "aww" from the crowd, then quiet happy laughs. No music, no other words.
+
+Wholesome and friendly. Everyone is a grown adult with an adult face and body, the crowd too. Hands only on the back and shoulders, no kiss. One head, two arms and five fingers on each hand for each person. No text, no words on banners, badges, screens or clothes, no logos, no watermark.
+```
+
+### 2. 1. The video prompt is filled in. Settings: Seedance 2.5, 10 s, 720p, 9:16, sound on. The video prompt
+
+*Kind: video_prompt*
+
+```text
+A viral AI tech expo video filmed on a phone, photorealistic, vertical 9:16.
+
+The place: a huge, busy tech expo hall by day: grey carpet, steel roof trusses with rows of round lights, plain blue hanging banners with no words, booths with screens far behind, a black rope barrier on short steel posts in front of the booth, and adult visitors with lanyards, some filming on their phones, small and a little blurred behind.
+
+The visitor is the person in [Image 1], in every frame, with the clothes from [Image 1]: copy the exact face from [Image 1] (the face shape, eye color and eye shape, eyebrows, nose, mouth, skin tone, age, hair color, hair length and hairstyle, and any beard, moustache, glasses or freckles). The same face from the first frame to the last, so their friends recognize them at once. The camera is at the side, so the visitor's face stays visible in the hug.
+
+The android is AI-made: a grown adult of about thirty, the same gender as the person in [Image 1], with an ordinary, friendly face of its own, never the face from [Image 1]. The android looks like a real grown adult with a human face, skin and hair, but where the stomach would be, between the ribs and the waistband, the body is an open mechanical core of silver metal parts, small gears and cables with soft blue-white lights. A man is an android man, a woman an android woman. The android wears a plain navy short-sleeved t-shirt that ends just above the core, plain black knee-length shorts and plain sneakers: no print, no logo.
+
+One handheld phone shot from beside the rope, no cuts. The android is seen from the knees up, the face big and clear.
+0-2 s: the android stands still at the booth like a display unit, arms at the sides, a calm, blank look. The visitor at the rope smiles and asks: "Can I get a hug?"
+2-4 s: the android blinks, turns the head to the booth engineer behind, an adult man in a plain black polo shirt with no logo, as if to ask for permission. He smiles and nods.
+4-6 s: the android lifts both arms straight out, stiff like a robot, and steps forward in small, jerky moves. The visitor laughs and steps in.
+6-9 s: they hug. The android's stiff arms slowly soften and wrap around the visitor, the head rests on the visitor's shoulder, the eyes close, a shy, warm smile spreads, and the core glows brighter.
+9-10 s: they step apart; the android looks at the visitor with a happy, surprised smile.
+
+Audio: the hum of the busy hall, the visitor's "Can I get a hug?", soft whirs when the android moves, a warm "aww" from the crowd, then quiet happy laughs. No music, no other words.
+
+Wholesome and friendly. Everyone is a grown adult with an adult face and body, the crowd too. Hands only on the back and shoulders, no kiss. One head, two arms and five fingers on each hand for each person. No text, no words on banners, badges, screens or clothes, no logos, no watermark.
+```
+
+### 3. 1. The video prompt is filled in. Settings: Seedance 2.5, 10 s, 720p, 9:16, sound on. The video prompt
+
+*Kind: video_prompt*
+
+```text
+A viral AI tech expo video filmed on a phone, photorealistic, vertical 9:16.
+
+The place: a huge, busy tech expo hall by day: grey carpet, steel roof trusses with rows of round lights, plain blue hanging banners with no words, booths with screens far behind, a black rope barrier on short steel posts in front of the booth, and adult visitors with lanyards, some filming on their phones, small and a little blurred behind.
+
+The android at the booth is the person in [Image 1], in every frame: copy the exact face from [Image 1] (the face shape, eye color and eye shape, eyebrows, nose, mouth, skin tone, age, hair color, hair length and hairstyle, and any beard, moustache, glasses or freckles). The android looks like a real grown adult with a human face, skin and hair, but where the stomach would be, between the ribs and the waistband, the body is an open mechanical core of silver metal parts, small gears and cables with soft blue-white lights. A man is an android man, a woman an android woman. The android wears a plain navy short-sleeved t-shirt that ends just above the core, plain black knee-length shorts and plain sneakers: no print, no logo.
+The visitor who asks for the hug is the person in [Image 2], in every frame, with the clothes from [Image 2]: copy the exact face from [Image 2] (the face shape, eye color and eye shape, eyebrows, nose, mouth, skin tone, age, hair color, hair length and hairstyle, and any beard, moustache, glasses or freckles).
+Never blend their faces, never swap them. Each face stays the same from the first frame to the last, so their friends recognize them at once, also in the hug. The camera is at the side, so both faces stay visible.
+
+One handheld phone shot from beside the rope, no cuts. The android is seen from the knees up, the face big and clear.
+0-2 s: the android stands still at the booth like a display unit, arms at the sides, a calm, blank look. The visitor at the rope smiles and asks: "Can I get a hug?"
+2-4 s: the android blinks, turns the head to the booth engineer behind, an adult man in a plain black polo shirt with no logo, as if to ask for permission. He smiles and nods.
+4-6 s: the android lifts both arms straight out, stiff like a robot, and steps forward in small, jerky moves. The visitor laughs and steps in.
+6-9 s: they hug. The android's stiff arms slowly soften and wrap around the visitor, the head rests on the visitor's shoulder, the eyes close, a shy, warm smile spreads, and the core glows brighter.
+9-10 s: they step apart; the android looks at the visitor with a happy, surprised smile.
+
+Audio: the hum of the busy hall, the visitor's "Can I get a hug?", soft whirs when the android moves, a warm "aww" from the crowd, then quiet happy laughs. No music, no other words.
+
+Wholesome and friendly. Everyone is a grown adult with an adult face and body, the crowd too. Hands only on the back and shoulders, no kiss. One head, two arms and five fingers on each hand for each person. No text, no words on banners, badges, screens or clothes, no logos, no watermark.
+```
+

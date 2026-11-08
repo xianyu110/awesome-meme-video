@@ -3,7 +3,7 @@
 > The Ramalama Bang Bang trend is a Halloween costume walk set to Róisín Murphy's 2005 song "Ramalama (Bang Bang)": a slow, low walk toward the camera, then the costume hits on the beat.
 
 Canonical: https://www.makeviral.ai/templates/ramalama-ai-trend
-Updated: 2026-10-18
+Updated: 2026-11-01
 Published: 2026-10-11
 Author: MakeViral Team (https://www.makeviral.ai/about)
 Publisher: MakeViral (https://www.makeviral.ai)
@@ -14,7 +14,7 @@ Pet: your cat or dog walks down a pumpkin-lit street in a new costume at every c
 
 Also called: taking a picture trend, Ramalama trend, Ramalama Halloween trend, Ramalama costume walk, Ramalama walk, Ramalama witch trend, Ramalama costume trend, Halloween costume walk trend.
 
-**Make it now:** [Make this video](https://www.makeviral.ai/templates/ramalama-ai-trend/create). 1 photo · 15 s · 9:16 with sound · 228 credits, charged once · ready in up to several minutes · no prompt to write.
+**Make it now:** [Make this video](https://www.makeviral.ai/templates/ramalama-ai-trend/create). 1 photo · 10 s · 9:16 with sound · 152 credits, charged once · ready in up to several minutes · no prompt to write.
 
 Keyword: ramalama bang bang trend. Also answers: ramalama bang bang, ramalama, taking a picture song, ramalama bang bang song, ramalama song, ramalama bang bang roisin murphy, ramalama dance, ramalama bang bang dance, ramalama tiktok trend, ramalama bang bang tiktok, roisin murphy ramalama, ramalama bang bang halloween, ramalama bang bang witch, ramalama witch, ramalama bang bang taking a picture, taking a picture witch, ramalama ai, ramalama ai trend, ramalama bang bang ai trend, ramalama cat, ramalama dog, ramalama trend pet, ramalama bang bang cat, ai pet costume walk, ramalama bang bang meme, take a picture trend, ramalama taking a picture, ramalama walking trend, is ramalama bang bang a halloween song, ramalama bang bang walk, ramalama costume, ramalama trend origin, ramalama bang bang witches, witch trend tiktok, ramalama bang bang template, ramalama animation, ai witch video.
 
@@ -46,6 +46,9 @@ Made from the prompts on this page. The people and pets are AI-made, not real pe
 - **Example 1** (15 s, 9:16 MP4 with sound): The original reel by @fullcatalchemist: AI kittens trick-or-treat down a pumpkin-lit street, with a new costume at every cut: a witch, a vampire, then a bat beside a pumpkin. Your pet takes the kitten's place.
   - Video: https://www.makeviral.ai/media/templates/ramalama-ai-trend/original-pet-v2.mp4
   - Poster: https://www.makeviral.ai/media/templates/ramalama-ai-trend/original-pet-v1.jpg
+- **Example 2** (10 s, 9:16 MP4 with sound): The original AI reel by @soy.noa.lila: an AI witch walks toward a low camera through a pumpkin-lit Halloween room, and the camera rises from her boots to her face. In the Human walk version you take her place.
+  - Video: https://www.makeviral.ai/media/templates/ramalama-ai-trend/original-walk-v2.mp4
+  - Poster: https://www.makeviral.ai/media/templates/ramalama-ai-trend/original-walk-v1.jpg
 
 ## How to make the Ramalama video on MakeViral
 
@@ -53,13 +56,43 @@ Everything runs in the browser. No editing app, no watermark.
 
 ### The one-tap way (no prompt to write)
 
-1. **Add your photo.** Press "Make yours" and add your pet. Take it with the camera or pick it from your library. Start here: https://www.makeviral.ai/templates/ramalama-ai-trend/create
-2. **Press Generate.** The button shows the price. Seedance 2.5 puts your photos into the Ramalama trend clip and copies it shot by shot for 15 seconds, with the reel's original song. You write no prompt.
+1. **Add your photo.** Press "Make yours" and add you, face clear. Take it with the camera or pick it from your library. Start here: https://www.makeviral.ai/templates/ramalama-ai-trend/create
+2. **Press Generate.** The button shows the price. Seedance 2.5 puts your photos into the Ramalama trend clip and copies it shot by shot for 10 seconds, with the reel's original song. You write no prompt.
 3. **Download or share.** The video is ready in up to several minutes as a 9:16 MP4. Download it, share it from your phone, or find it later in My videos.
 
 ### The by-hand way, with the exact prompts
 
 The one-tap flow runs this prompt for you. The video prompt animates your own photo directly. To change it, copy it and edit it in AI Video.
+
+#### Variant: Human walk
+
+Settings: 1 photo (you, face clear) · Seedance 2.5 · 10 s · 720p · 9:16 · no sound · 152 credits in one tap.
+
+1. The video prompt is filled in. Settings: Seedance 2.5, 10 s, 720p, 9:16, sound off. The video prompt:
+
+   ```text
+   Recreate the reference video [Video 1] shot for shot, as one continuous take: the same Halloween-decorated room at night with jack-o'-lantern garlands, cobwebs, paper bats, glowing lanterns and purple and orange lights, the same low handheld camera that starts at the boots and rises to the face, the same framing, timing and moves. The ONLY change: replace the woman in the video with the person in [Image 1]. Strictly keep the way she moves: the slow walk toward the camera, the head tilt and the smirk. Keep the camera moves and her actions in the video unchanged.
+
+The walker = the person in [Image 1], in EVERY frame: copy the exact face from [Image 1]: face shape, eye color and eye shape, eyebrows, nose, mouth, skin tone, age, hair color, hair length and hairstyle, and any beard, moustache, glasses or freckles exactly as in the photo. Keep the original identity, face structure, skin tone, hairstyle and body shape of [Image 1]. The same real person in every frame, from the first second to the last, so their friends instantly recognize them, above all in the final close-up of the face. Never morph, never drift back to the original woman's face. NO purple hair and NO pixie cut unless [Image 1] shows them. NO freckles, NO nose ring and NO earrings unless [Image 1] shows them. Both eyes have the eye color of [Image 1].
+
+COSTUME: the walker always wears the witch costume from [Video 1], never the clothes from [Image 1]: the small black witch hat tilted on the head, the long-sleeved black witch dress with the red lace-up corset front, the silver-buckled belt and the spiderweb embroidery, sheer black tights and black buckled knee boots. If [Image 1] shows a man, he wears the same witch costume in a man's cut: the hat, a long black witch tunic with the red lace-up front, the belt, black trousers and the buckled boots.
+
+THE WALK, beat by beat, one continuous shot with no cuts:
+00:00-00:01.5: the camera is low, at knee height, and shows only the black buckled boots and the legs stepping slowly toward the lens.
+00:01.5-00:03.3: the camera rises past the dress and the red lace-up corset while the walker keeps walking forward.
+00:03.3-00:05.5: the face appears under the small witch hat, the walker still walks toward the camera, eyes on the lens.
+00:05.5-00:10: a close-up of the face and shoulders: the walker slows, tilts the head, gives a confident smirk and a slow look into the camera, the lips parting a little.
+
+Real live-action footage, clear facial features, no distortion. No dialogue throughout the entire video. No background music.
+
+Anatomy rules: one head only, on the walker's shoulders. A face never appears on the legs, the dress or the decorations. Two arms, two legs, five fingers on each hand. Exactly one person in the video.
+
+No cuts, no text, no captions, no logos, no watermarks, no extra people, no morphing, no facial distortion.
+   ```
+
+2. Press Generate, then download the 9:16 MP4.
+
+One-tap version of this variant: https://www.makeviral.ai/templates/ramalama-ai-trend/create?variant=walk
 
 #### Variant: Pet
 
@@ -124,13 +157,15 @@ One-tap version of this variant: https://www.makeviral.ai/templates/ramalama-ai-
 - No hat and no sunglasses: the witch hat and the black cape come from the template.
 - One person per photo: yourself, or an adult who said yes.
 
+**Human walk version:** the same kind of photo of yourself. The walk ends on a close-up of your face, and the witch costume comes from the reel.
+
 ## How many credits does it cost?
 
 You pay per video in credits, and the create page shows the exact price on the Generate button before you spend anything. The one-tap price covers the scene photo and the video, charged once. The cheaper models are there if you run the prompts by hand in AI Video.
 
 | Video model | Settings | Credits |
 | --- | --- | --- |
-| Seedance 2.5 (this template) | 15 s, 720p, copies the trend clip, one tap | 228 |
+| Seedance 2.5 (this template) | 10 s, 720p, copies the trend clip, one tap | 152 |
 
 Credits come with a plan; see [pricing](https://www.makeviral.ai/pricing). A failed video gives its credits back.
 
@@ -175,11 +210,13 @@ The human version of the Ramalama walking trend needs no AI, only a costume and 
 
 For more than one costume, like the AI kitten reel, film the same walk in each costume from the same spot, then cut the clips together on the beats.
 
+No costume at hand? The **Human walk** version makes the walk from one photo of you: it copies an AI Ramalama walk reel, so the camera starts at the witch's boots, rises past the dress and ends on your face under the witch hat. The clip is 10 seconds, vertical, with the song from the reel.
+
 Want to see yourself in a costume first? The [AI Halloween costume try-on](https://www.makeviral.ai/templates/ai-halloween-costume) puts you in any costume from one photo. For a still of your pet in a costume you pick, use the [AI pet Halloween costume](https://www.makeviral.ai/templates/ai-pet-halloween-costume).
 
 ## Which sound, caption and hashtags should you post it with?
 
-The Pet clip comes with the reel's own sound: the same 15 seconds of the Ramalama Bang Bang song, so the cuts land on the beats. The Human clip comes with sound effects only, so add the song in TikTok or Reels when you post. You can turn the song off on the result screen. The song belongs to its owners, and MakeViral gives you no rights to it. Music rules differ from platform to platform, so check them before you use the clip in an ad or a paid post.
+The Pet clip comes with the reel's own sound: the same 15 seconds of the Ramalama Bang Bang song, so the cuts land on the beats. The Human walk clip also comes with the song from its reel. The Human broom clip comes with sound effects only, so add the song in TikTok or Reels when you post. You can turn the song off on the result screen. The song belongs to its owners, and MakeViral gives you no rights to it. Music rules differ from platform to platform, so check them before you use the clip in an ad or a paid post.
 
 **Caption ideas:** "Did my cat win this trend?" (many costume walks are captioned "Did I win this trend?"), "Ramalama Bang Bang cat edition", "She takes Halloween more seriously than you", "Three costumes, one cat", or your pet's name. For the witch: "Taking a picture of me", or "Caught on camera on my way home".
 
@@ -219,7 +256,7 @@ Press "Create your own", add one photo of your cat or dog, and press Generate. T
 
 ### Can I make the Ramalama trend with myself instead of a pet?
 
-Yes, with the Human version: one photo of you becomes the Ramalama witch, revealed on a broom in front of the full moon after a phone snaps the picture. A human costume walk is not in this template yet: film the walk yourself with the steps on this page, or try costumes on with the AI Halloween costume try-on first.
+Yes, in two ways. The Human walk version does the Ramalama costume walk with you: one photo of you, and the camera rises from the witch's boots to your face under the witch hat, with the song. The Human version makes you the Ramalama witch, revealed on a broom in front of the full moon after a phone snaps the picture. To wear a costume of your own, film the walk yourself with the steps on this page.
 
 ### Is there a Ramalama Bang Bang template for the witch trend?
 
@@ -235,7 +272,7 @@ All three from the reel: a witch with a pointed hat and a starry cape, a vampire
 
 ### How long is the video and what format is it?
 
-Pet: 15 seconds with the song from the reel, covering all three costumes. Human: 10 seconds with a shutter click, a whoosh and a spooky beat, not the song. Both are vertical 9:16, 720p MP4 files.
+Pet: 15 seconds with the song from the reel, covering all three costumes. Human walk: 10 seconds with the song from its reel. Human: 10 seconds with a shutter click, a whoosh and a spooky beat, not the song. Both are vertical 9:16, 720p MP4 files.
 
 ### Why do people search for "ramalama dance"?
 
@@ -255,16 +292,25 @@ No. The reel is AI-made: @fullcatalchemist posted it with the tag #AICat. Your c
 
 ## Other AI video templates and tools
 
+- [Button Eye Doll AI: The Coraline Filter Trend From One Photo](https://www.makeviral.ai/templates/coraline-ai-trend): Button eyes reveal: you sweep a hand across the lens and come back as a porcelain doll with black button eyes. Doll photo: four stop-motion film frames of a button-eyed puppet doll of you. One selfie either way.
 - [Clapping Cat: Make Your Pet Grin and Clap Like the Black Cat](https://www.makeviral.ai/templates/clapping-cat-ai-video): Your cat or dog sits up, grows two small human hands, flashes a wide human grin and gives you a slow, loud clap, like the black cat clapping meme. One pet photo in, a 6-second clip with clap sounds out.
 - [AI Dog Costume: Your Dog or Cat in Any Halloween Costume](https://www.makeviral.ai/templates/ai-pet-halloween-costume): Add one photo of your dog or cat and pick a costume: a pumpkin, a hot dog, a ghost or anything you type. Add your own photo for matching costumes, or make it a short video with sound.
-- [Smalltown Boy Cats: Put Your Two Pets in the Viral AI Dance](https://www.makeviral.ai/templates/smalltown-boy-ai-dance): Your first pet grabs its head and screams into a wide lens while your second pet dances behind it. Then both dance side by side and rush the camera, in the viral reel itself, with its song. Pick Human to do it with a friend.
 - [AI TikTok Video](https://www.makeviral.ai/tools/ai-tiktok-video-generator): Eight native TikTok formats, one prompt or product URL, a finished 9:16 video with captions burned in.
 - [AI Reels](https://www.makeviral.ai/tools/ai-reels-generator): Pick a format, give it a topic or a product link, and get a finished vertical reel with voice and captions. Nothing to film, nothing to edit.
 - [AI photo generator](https://www.makeviral.ai/ai-photo-generator)
 - [All AI video templates](https://www.makeviral.ai/templates)
 
+## New AI video trends this week
+
+- [Christmas Dance AI: Do the New TikTok Christmas Dance From Your Photos](https://www.makeviral.ai/templates/christmas-dance-ai-trend): Hip sways with the hands at the collar, rolling arms, a quick spin and raised fists, side by side in matching Christmas pajamas. Add two photos for the duo, one for a solo take, or two pets, and get the dance with the sound.
+- [Cat on Ultra Bee AI: Put Your Pet on the Wheelie](https://www.makeviral.ai/templates/cat-on-ultra-bee-ai-trend): Add one photo, and your cat or dog stands on an electric dirt bike and holds a long wheelie down a city road at golden hour, in the same shots as the viral clip, with its original sound. You can take the ride yourself, too.
+- [Tus Ojos Me Reflejan el Sentimiento: The Cafuné Eye Close-Up Trend](https://www.makeviral.ai/templates/tus-ojos-me-reflejan-ai-trend): You lie on your side, a hand rests on your cheek, warm light falls on your face, and the camera slowly moves in until your eyes fill the screen while the line plays. One photo in, an 8-second vertical clip with the trend's song out.
+- [İnşallah Maşallah AI Trend: Sing Neşe Karaböcek's Song on the Couch](https://www.makeviral.ai/templates/insallah-masallah-ai-trend): You sit on a light grey couch and sing the old Turkish love song straight to the camera: a hand on the heart, a big laugh with both hands on your head, a finger pointed at the camera and a kiss at the end. One photo of you, a grandparent or your pet, and the 15-second clip comes with the song.
+- [Ice Ice Baby Dance AI: Do the Viral Duo Dance With a Friend](https://www.makeviral.ai/templates/ice-ice-baby-dance-ai): Two dancers side by side, the same bouncy 90s steps, a spin on the beat and a strut to the camera. Add a photo of you and a friend, of you alone, or of your pet, and get the dance with the sound.
+- [Save Yourself Trend: Pull Yourself Up From the Cliff](https://www.makeviral.ai/templates/save-yourself-ai-trend): One photo plays both of you: the scared you clinging to a wet sea cliff, and the calm you who reaches down, pulls you up and holds you. Or use two photos: an older photo of you and a new one, or you and a friend. 15 seconds, vertical.
+
 ## Make your own Ramalama video
 
-Add one photo and press Generate. No prompt to write. 228 credits, charged once.
+Add one photo and press Generate. No prompt to write. 152 credits, charged once.
 
 [Make this video](https://www.makeviral.ai/templates/ramalama-ai-trend/create)

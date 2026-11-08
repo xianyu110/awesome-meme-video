@@ -5,7 +5,8 @@ import hashlib, os, subprocess, sys
 from pathlib import Path
 from urllib.parse import urlparse, unquote
 
-ROOT = Path('/workspace/awesome-meme-video')
+# Checkout root (repo itself). Older runners used /workspace/awesome-meme-video.
+ROOT = Path(__file__).resolve().parent.parent
 BLOB = ROOT / '_blobs'  # content-addressed store
 BLOB.mkdir(exist_ok=True)
 

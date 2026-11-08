@@ -1,0 +1,49 @@
+{
+  "source": "makeviral",
+  "source_site": "https://www.makeviral.ai",
+  "slug": "talk-dirty-dance-ai-trend",
+  "name": "Talk Dirty Dance AI: Lead the Concert Dance Break From One Photo",
+  "url": "https://www.makeviral.ai/templates/talk-dirty-dance-ai-trend",
+  "markdown_url": "https://www.makeviral.ai/templates/talk-dirty-dance-ai-trend.md",
+  "blurb": "The Talk Dirty dance trend is a fan's phone video of the dance break of \"Talk Dirty\" at a concert, with a new face on the lead dancer.",
+  "updated": "2026-10-26",
+  "published": "2026-10-25",
+  "credits": 228,
+  "demo_videos": [
+    "https://www.makeviral.ai/media/templates/talk-dirty-dance-ai-trend/original-main-v2.mp4",
+    "https://www.makeviral.ai/media/templates/talk-dirty-dance-ai-trend/original-pet-v2.mp4"
+  ],
+  "posters": [
+    "https://www.makeviral.ai/media/templates/talk-dirty-dance-ai-trend/original-main-v1.jpg",
+    "https://www.makeviral.ai/media/templates/talk-dirty-dance-ai-trend/original-pet-v1.jpg"
+  ],
+  "prompts": [
+    {
+      "label": "1. The video prompt is filled in. Settings: Seedance 2.5, 15 s, 720p, 9:16, sound off. The video prompt",
+      "variant": null,
+      "kind": "video_prompt",
+      "text": "Recreate the reference video [Video 1] shot for shot: the same fan's phone video from the crowd of a concert dance break on a big stage, a line of backup dancers in yellow-and-black and red-and-black jackets, flame columns, white spotlights and a large LED wall, with the same handheld camera, zooms, framing, timing and moves. The ONLY change: the lead dancer at the front is now the person in [Image 1].\n\nUse the adult in [Image 1] as the identity of the central lead dancer in a 15-second group dance video. Preserve [Video 1]'s full-body choreography, ensemble formation, warm stage lighting, camera rhythm, and fire accents. Keep the face, hair, and body proportions consistent through turns and arm movements. Do not replace the background dancers or change the stage layout.\n\n[Image 1] replaces the lead man at the front of the stage (white T-shirt, light-blue jeans, a grey cap), in EVERY shot: copy the exact face from [Image 1] (the face shape, eye color and eye shape, eyebrows, nose, mouth, skin tone, age, hair color, hair length and hairstyle, and any beard, moustache, glasses or freckles). They wear the clothes from [Image 1]. NO grey cap, no hat of any kind and no silver chain unless [Image 1] shows them. The lead always wears a top: never shirtless, never a bare chest; if [Image 1] shows no top, a plain white T-shirt. The same real person from the first second to the last, so their friends recognize them at once: they stay exactly the same in every second from the first frame to the last, through every zoom, blackout, spotlight, colour change of the stage light and flame burst. Never morph, never drift back to the original lead's face.\n\nThe backup dancers stay exactly as in the video, with their own faces, jackets and moves.\n\nShots, matching the reference second by second:\n0-1.5 s: wide shot from the crowd: the lead walks out of the line of backup dancers to the front of the stage, the LED wall lights up behind.\n1.5-3 s: the camera zooms in: the lead alone at the front in a white spotlight, a bouncy step on the beat.\n3-5 s: the lead dances in front of the line, knees bent in a low wide stance, arms swinging; a flame column shoots up at the edge of the stage.\n5-10 s: the backup dancers in a line behind the lead dance the same routine in sync, shoulder bounces, side steps and arm rolls; flame columns burst at the front of the stage.\n10-12 s: a big flame in front of the lead, then the LED wall flashes, cool white light.\n12-15 s: the whole line moves forward with the lead in the middle, a low crouch and a bounce, flames burst above the stage.\n\nOne head per person, on that person's own shoulders. Exactly one lead at the front. The LED wall stays exactly as in the video. No captions or subtitles, no added text, no logos, no watermark."
+    },
+    {
+      "label": "1. The video prompt is filled in. Settings: Seedance 2.5, 15 s, 720p, 9:16, sound off. The video prompt",
+      "variant": "Pet",
+      "kind": "video_prompt",
+      "text": "Recreate the reference video [Video 1] shot for shot: the same fan's phone video from the crowd of a concert dance break on a big stage, a line of backup dancers in yellow-and-black and red-and-black jackets, flame columns, white spotlights and a large LED wall, with the same handheld camera, zooms, framing, timing and moves. The ONLY change: the lead dancer at the front is completely replaced by the pet in [Image 1]: the WHOLE body, not just the head.\n\nUse the pet in [Image 1] as the identity of the central lead dancer in a 15-second group dance video. Preserve [Video 1]'s full-body choreography, ensemble formation, warm stage lighting, camera rhythm, and fire accents. Keep the face, fur, and body proportions consistent through turns and paw movements. Do not replace the background dancers or change the stage layout.\n\nThe lead dancer = the pet in [Image 1], whole body, in EVERY shot: the same species and breed, head shape, muzzle, eyes, ears, fur colors, fur length and markings as in [Image 1], with the natural body volume and proportions of that animal: never flattened, squashed, stretched or merged with anything, so its owner instantly recognizes it. It stays exactly the same in every second from the first frame to the last, through every zoom, blackout, spotlight, colour change of the stage light and flame burst. It stands upright on its hind legs the whole time and does the lead's moves. A dog stays a dog and a cat stays a cat: if [Image 1] shows another animal, that animal takes the same place and does the same moves. Its own fur from head to toe: no clothes, cap, chain, microphone or collar unless [Image 1] shows them. Never drift back to the man who leads in the video: no white T-shirt, no jeans, no grey cap.\n\nThe backup dancers stay exactly as in the video, with their own faces, jackets and moves.\n\nShots, matching the reference second by second:\n0-1.5 s: wide shot from the crowd: the pet walks upright out of the backup line to the front of the stage, the LED wall lights up behind.\n1.5-3 s: the camera zooms in: the pet alone at the front in a white spotlight, a bouncy step on the beat.\n3-5 s: the pet dances in front of the line in a low squat, front paws swinging; a flame column shoots up at the edge of the stage.\n5-10 s: the backup line behind the pet dances the routine in sync, shoulder bounces and side steps; the pet bounces and rolls its front paws with them; flame columns burst at the front of the stage.\n10-12 s: a big flame in front of the pet, then the LED wall flashes, cool white light.\n12-15 s: the whole line moves forward with the pet in the middle, a low squat and a bounce, flames burst above the stage.\n\nReal animal anatomy: one head, four legs, furry paws, its own tail if it has one; never a human body, a human face, human hands or fingers. Exactly one lead at the front: the pet, never a person. The LED wall stays exactly as in the video. No captions or subtitles, no added text, no logos, no watermark."
+    }
+  ],
+  "variant_headings": [
+    "What the Talk Dirty Dance AI video looks like",
+    "How to make the Talk Dirty Dance AI video on MakeViral",
+    "Which photo works best?",
+    "What happens in the Talk Dirty dance AI video, second by second?",
+    "How do I make the Talk Dirty dance AI video?",
+    "Will the singer be in my video?",
+    "Does the video come with the song?",
+    "What do I need for the talk dirty dance with your photo?",
+    "Other AI video templates and tools",
+    "New AI video trends this week",
+    "Make your own Talk Dirty Dance AI video"
+  ],
+  "prompt_count": 2,
+  "scraped_at": "2026-11-08"
+}

@@ -1,0 +1,52 @@
+{
+  "source": "makeviral",
+  "source_site": "https://www.makeviral.ai",
+  "slug": "can-can-dance-ai-trend",
+  "name": "Can Can Dance AI: The Comic High-Kick Trend, Solo, Trio or Pet",
+  "url": "https://www.makeviral.ai/templates/can-can-dance-ai-trend",
+  "markdown_url": "https://www.makeviral.ai/templates/can-can-dance-ai-trend.md",
+  "blurb": "The can can dance trend is the comic take on the old Paris high-kick dance, also spelled cancan dance: hops, kicks and flapping arms to Offenbach's tune.",
+  "updated": "2026-10-23",
+  "published": "2026-10-23",
+  "credits": 52,
+  "demo_videos": [
+    "https://www.makeviral.ai/media/templates/can-can-dance-ai-trend/original-pet-v2.mp4"
+  ],
+  "posters": [
+    "https://www.makeviral.ai/media/templates/can-can-dance-ai-trend/original-pet-v1.jpg"
+  ],
+  "prompts": [
+    {
+      "label": "1. The video prompt is filled in. Settings: kling-3-motion, 13 s, 720p, 9:16, sound off. The video prompt",
+      "variant": null,
+      "kind": "video_prompt",
+      "text": "Replace the character in the video with the person from the uploaded image. Keep actions, poses, facial expressions, camera movement and rhythm. Preserve the person's original facial features, maintain character consistency, no distortion, no glitches, no artifacts.\nThe person dances in the place from the uploaded image, in the top and the shoes from the uploaded image with long loose trousers, never a skirt or a dress, not the dark green leather bomber jacket and the ripped light-blue jeans of the woman in the video, and keeps their own hair from the uploaded image, not short curly black hair. Follow the woman's moves and timing exactly: a silly, playful can-can: little hops on the spot with the knees pulled up high, quick kicks to the front and to the side, a jump with both knees tucked up, the arms flung out wide and flapping, a twist of the hips from side to side, then more high kicks and hops toward the camera with a cheeky grin. Keep the whole body in view from head to feet, filmed from chest height, with natural balance and stable ground contact. Exactly one person, no other people. One continuous shot. Comic and playful: no close-ups of the body. No text, no captions, no logos."
+    },
+    {
+      "label": "1. The video prompt is filled in. Settings: Seedance 2.5, 15 s, 720p, 9:16, sound off. The video prompt",
+      "variant": null,
+      "kind": "video_prompt",
+      "text": "Recreate the reference video [Video 1] shot for shot: the same bright living room with white walls, a fireplace and a grey sofa behind, the same wooden floor, the same fixed camera at knee height, the same framing, timing and moves, one take with no cuts. The ONLY change: replace the three people in the video with the people in the three reference images, one each, and keep the scene of the reference video unchanged.\n\nUse [Image 1] as adult Person A in the middle, [Image 2] as adult Person B on the left, [Image 3] as adult Person C on the right, in [Video 1]. Keep each face, hairstyle and screen position; do not swap roles or merge identities.\n\nA: [Image 1] replaces the woman in the middle (long blonde hair under a yellow beanie, bright blue hoodie, coral sweatpants) in EVERY frame: the exact face from [Image 1] (the face shape, eye color and eye shape, eyebrows, nose, mouth, skin tone, age, hair color, hair length and hairstyle, and any beard, moustache, glasses or freckles). NO yellow beanie and no long blonde hair unless [Image 1] shows them.\n\nB: [Image 2] replaces the bearded man on the left (teal cap, lilac sweatshirt, dark green sweatpants) in EVERY frame: the exact face from [Image 2] (the face shape, eye color and eye shape, eyebrows, nose, mouth, skin tone, age, hair color, hair length and hairstyle, and any beard, moustache, glasses or freckles). NO teal cap and no beard unless [Image 2] shows them.\n\nC: [Image 3] replaces the woman on the right (brown hair in a bun, dark green hoodie, pale lime sweatpants) in EVERY frame: the exact face from [Image 3] (the face shape, eye color and eye shape, eyebrows, nose, mouth, skin tone, age, hair color, hair length and hairstyle, and any beard, moustache, glasses or freckles). NO bun unless [Image 3] shows one.\n\nThe bright matching outfits are part of the joke: each person wears the hoodie or sweatshirt and the loose sweatpants of the dancer they replace, plain with no logo, never the clothes from their photo, never a skirt or a dress. The same real people from the first second to the last, so their friends recognize them at once. Never morph, never drift back to the original dancers' faces. All three change: no one from the video stays.\n\nThe dance, matching the reference second by second:\n0-4 s: the middle person kicks forward with the hands on the hips, then claps high above the head and hops; the two at the sides clap above their heads and lift their knees.\n4-9.5 s: all three, hands on the hips, sway, step from side to side and bend the knees on the beat.\n9.5-15 s: they step close, link arms and do the can-can kick line: high kicks in turn, with big smiles.\n\nA comic, playful dance, no close-ups of the body. One head per person, on their own shoulders; a face never appears on knees, legs, hands or clothes. Each person has two arms and two legs, no extra legs in the kick line. Exactly three people, no one else. No text, no captions, no logos, no watermark."
+    },
+    {
+      "label": "1. The video prompt is filled in. Settings: Seedance 2.5, 10 s, 720p, 9:16, sound off. The video prompt",
+      "variant": "Pet",
+      "kind": "video_prompt",
+      "text": "Recreate the reference video [Video 1] shot for shot: the same cobblestone street in an old European city at dusk, the warm street lamps and the glowing cafe fronts on the left, the blurred people who stand and sit at the cafe tables and watch, the tall iron lattice tower lit in gold at the end of the street, the same low camera close to the ground, the same framing, timing and moves, one continuous take with no cuts. The ONLY change: the kitten in the red can-can dress is now the pet in [Image 1].\n\nThe dancer = the pet in [Image 1], whole body, in every frame: the same species and breed, head shape, muzzle, eyes, ears, fur colors, fur length and markings as in [Image 1], with the natural body volume and proportions of that animal: never flattened, squashed, stretched or merged with anything, so its owner instantly recognizes it. It stands upright on its hind legs like a little dancer the whole time. Only the head, the face, the ears, the fur and the paws change: the pet keeps the costume of the original dancer in every frame, the red satin can-can dress with the big ruffled skirt, the black feather headpiece and the small black lace-up boots. Never drift back to the kitten of the original video: not the coat, the stripes or the face of the kitten in the video unless [Image 1] shows them. If [Image 1] shows a dog or another animal, that animal dances in the same place with the same moves, with its own ears and muzzle.\n\nThe dance, matching the reference second by second:\n0-4.5 s: it faces the camera and sways from side to side with both front paws held out, the ruffled skirt swishing.\n4.5-6.5 s: it leans to one side, looks down and swirls the skirt.\n6.5-8.5 s: it twirls around, the skirt flying out.\n8.5-10 s: it turns back to the camera with both front paws out in a happy pose.\n\nReal animal anatomy: furry front legs ending in round paws in their own fur, never human hands, no fingers. One head, two hind legs in the boots and two front legs, no extra legs or paws. Exactly one animal dances; the people behind stay small and blurred. No text, no captions, no logos, no watermark."
+    }
+  ],
+  "variant_headings": [
+    "What the Can Can Dance video looks like",
+    "How to make the Can Can Dance video on MakeViral",
+    "Which photo works best?",
+    "What happens in each can can dance video?",
+    "How do I make a can can dance AI video?",
+    "Which hashtags fit a can can dance video?",
+    "How long is the video and what format is it?",
+    "Other AI video templates and tools",
+    "New AI video trends this week",
+    "Make your own Can Can Dance video"
+  ],
+  "prompt_count": 3,
+  "scraped_at": "2026-11-08"
+}

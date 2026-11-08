@@ -14,7 +14,7 @@ One friend dances on an empty parking lot in low golden light, one films a selfi
 
 Also called: Gas station trend, Stay with Me dance, Parking lot sunset trend, Litvin dance, Танцы на заправке, Mop dance, Guy dancing at gas station meme.
 
-**Make it now:** [Make this video](https://www.makeviral.ai/templates/gas-station-dance-ai-trend/create). 3 photos · 15 s · 9:16 with sound · 191 credits, charged once · ready in a few minutes · no prompt to write.
+**Make it now:** [Make this video](https://www.makeviral.ai/templates/gas-station-dance-ai-trend/create). 3 photos · 15 s · 9:16 with sound · 228 credits, charged once · ready in up to several minutes · no prompt to write.
 
 Keyword: gas station dance. Also answers: akcent stay with me, gas station dance ai, gas station dance video, gas station dance trend, gas station trend ai, gas station dance song, gas station dance tiktok, gas station dance meme, adel veigel, parking lot dance, литвин танец на заправке, тренд на заправке, stay with me akcent trend, stay with me dance trend, akcent stay with me dance, akcent stay with me tiktok, stay with me dance tiktok, gas station trend tiktok, gas station trend song, gas station dance song tiktok, gas station dance viral, gas station dance ai video, gas station ai trend, ravshan litvin adel dance, mikhail litvin dance, parking lot dance trend, parking lot dance meme, sunset dance trend, тренд с машиной на заправке, how to do the gas station dance trend, gas station dance with friends, delai trend, mop mop mop song, the mop dance, mop challenge, mop dance song, the mop tisakorean, mop dance challenge, mop mop mop dance, mop dance tiktok, old man dancing at gas station, mop dance ai, mop dance trend, gas station mop dance.
 
@@ -53,8 +53,8 @@ Everything runs in the browser. No editing app, no watermark.
 ### The one-tap way (no prompt to write)
 
 1. **Add the three photos.** Press "Make yours" and add the dancer, then the selfie friend, then the friend in the car. Add them in this order, because the order decides who is who in the scene. Take them with the camera or pick them from your library. Start here: https://www.makeviral.ai/templates/gas-station-dance-ai-trend/create
-2. **Press Generate.** The button shows the price. Genjutsu Motion puts your photos into the Gas station dance trend clip and copies it shot by shot for 15 seconds, with the reel's original song. You write no prompt.
-3. **Download or share.** The video is ready in a few minutes as a 9:16 MP4. Download it, share it from your phone, or find it later in My videos.
+2. **Press Generate.** The button shows the price. Seedance 2.5 puts your photos into the Gas station dance trend clip and copies it shot by shot for 15 seconds, with the reel's original song. You write no prompt.
+3. **Download or share.** The video is ready in up to several minutes as a 9:16 MP4. Download it, share it from your phone, or find it later in My videos.
 
 ### The by-hand way, with the exact prompts
 
@@ -62,12 +62,21 @@ The one-tap flow runs this prompt for you. The video prompt animates your own ph
 
 #### Variant: 3 friends
 
-Settings: 3 photos (the dancer + the selfie friend + the friend in the car) · genjutsu-motion · 15 s · 480p · 9:16 · no sound · 191 credits in one tap.
+Settings: 3 photos (the dancer + the selfie friend + the friend in the car) · Seedance 2.5 · 15 s · 720p · 9:16 · no sound · 228 credits in one tap.
 
-1. The video prompt is filled in. Settings: genjutsu-motion, 15 s, 480p, 9:16, sound off. The video prompt:
+1. The video prompt is filled in. Settings: Seedance 2.5, 15 s, 720p, 9:16, sound off. The video prompt:
 
    ```text
-   Use the reference video's actions, timing, camera movement, and setting. Replace the opening dancer with image 1, the selfie appearance with image 2, and the car-side performer with image 3. Use each photo's face, hair, body, and outfit. Keep roles consistent, preserve the vehicle, and add no people or actions. Take only the moves from the people in the reference video, never their hair, beard, makeup or clothes. Each friend keeps their own gender, hair length and hairstyle, body and clothes from their own photo in every shot, including the close-ups: a man stays a man, a woman stays a woman, and short hair stays short. Where a photo does not show the legs, that friend wears plain long trousers and shoes that fit the outfit of their photo, never the bare legs, shorts or skirt of the person in the video. Image 1 replaces the man in the white polo shirt and light blue jeans who dances alone on the empty parking lot and throws both arms up: keep the face, hair, skin tone and body of image 1 exactly, in the clothes from image 1, with no beard unless image 1 shows one. Image 2 replaces the man in the black bucket hat and the black t-shirt who films himself in the selfie in front of the gas station: keep the face, hair and skin tone of image 2 exactly, in the clothes from image 2, with no bucket hat and no beard unless image 2 shows them. Image 3 replaces the young woman in the black track jacket who steps out of the grey car, looks into the camera in the close-up and then dances between the two cars: keep the face, hair and skin tone of image 3 exactly in every shot, also in the close-up, in the clothes from image 3. The hair of image 3 keeps its own length, cut and color in every shot: short hair stays short in the close-up, and the wind only moves it a little. No long hair and no makeup unless image 3 shows them. Do not mix the three faces. No text, no captions, no logos, no badges or lettering on the cars, no readable number plates.
+   Recreate the reference video [Video 1] shot for shot: the same roadside gas station parking lot under the big evening sky, the same two parked cars, the same two handheld phone takes, cut, camera moves, timing and dance moves. The ONLY change: each of the three people in the clip is now the person in the matching photo.
+- [Image 1] replaces the man in the white polo shirt and light blue jeans who dances alone on the empty parking lot and throws both arms up.
+- [Image 2] replaces the man who films himself in the selfie in front of the gas station.
+- [Image 3] replaces the young woman in the black track jacket who steps out of the grey car, looks into the camera in the close-up and dances between the two cars.
+
+Each of them, in EVERY shot, also in the selfie and the close-up: copy the exact face from their own photo (the face shape, eye color and eye shape, eyebrows, nose, mouth, skin tone, age, hair color, hair length and hairstyle, and any beard, moustache, glasses or freckles), with the gender, hair, body and clothes from that photo. A person with no hat in their photo is bare-headed in every shot, also in the selfie. NO beard and NO long dark hair unless that photo shows them. Where a photo shows no legs: plain long trousers and shoes, never the bare legs or the shorts from the video. If a photo shows an animal, that part is that animal standing upright, with its own face, fur and markings.
+
+All three change: no one from the video stays. Three different people: never blend or swap the faces. Each one stays the same real person from the first frame to the last, so their friends recognize them at once. Never morph, never drift back to the original people's faces.
+
+Anatomy rules: one head per person, on their own shoulders; two arms and two legs each. No text, no captions, no logos, no badges or lettering on the cars, no readable number plates.
    ```
 
 2. Press Generate, then download the 9:16 MP4.
@@ -76,12 +85,18 @@ One-tap version of this variant: https://www.makeviral.ai/templates/gas-station-
 
 #### Variant: Just you
 
-Settings: 1 photo (your photo, face clear) · genjutsu-motion · 15 s · 480p · 9:16 · no sound · 191 credits in one tap.
+Settings: 1 photo (your photo, face clear) · Seedance 2.5 · 15 s · 720p · 9:16 · no sound · 228 credits in one tap.
 
-1. The video prompt is filled in. Settings: genjutsu-motion, 15 s, 480p, 9:16, sound off. The video prompt:
+1. The video prompt is filled in. Settings: Seedance 2.5, 15 s, 720p, 9:16, sound off. The video prompt:
 
    ```text
-   Use the reference video's actions, timing, camera movement, and setting. Replace the opening dancer, the selfie appearance and the car-side performer with image 1. Every performer shares the identity of image 1 while keeping each role's original actions and screen position. Use the photo's face, hair, body, and outfit. Keep roles consistent, preserve the vehicle, and add no people or actions. The man in the white polo shirt who dances alone on the empty parking lot, the man in the black bucket hat who films himself in the selfie, and the young woman in the black track jacket who steps out of the grey car and looks into the camera in the close-up are all the person from image 1: keep the face, hair, skin tone and body of image 1 exactly in every shot, in the clothes from image 1, with no beard, no bucket hat and no long dark hair unless image 1 shows them. Take only the moves from the people in the reference video, never their hair, beard, makeup or clothes: the hair of image 1 keeps its own length, cut and color in every shot, also in the close-up, where the wind only moves it a little. The person keeps their own gender and body in all three parts: a man stays a man, a woman stays a woman. Where image 1 does not show the legs, the person wears plain long trousers and shoes that fit the outfit of image 1, never the bare legs, shorts or skirt of the woman in the video. No text, no captions, no logos, no badges or lettering on the cars, no readable number plates.
+   Recreate the reference video [Video 1] shot for shot: the same roadside gas station parking lot under the big evening sky, the same two parked cars, the same two handheld phone takes, cut, camera moves, timing and dance moves. The ONLY change: all three people in the clip are now the same person, the person in [Image 1]: the man in the white polo shirt who dances alone on the empty parking lot, the man who films himself in the selfie, and the young woman in the black track jacket who steps out of the grey car, looks into the camera in the close-up and dances between the cars.
+
+In EVERY shot, also in the selfie and the close-up: copy the exact face from [Image 1] (the face shape, eye color and eye shape, eyebrows, nose, mouth, skin tone, age, hair color, hair length and hairstyle, and any beard, moustache, glasses or freckles), with the gender, hair, body and clothes from [Image 1]. With no hat in [Image 1], the person is bare-headed in every shot, also in the selfie. NO beard and NO long dark hair unless [Image 1] shows them. Where [Image 1] shows no legs: plain long trousers and shoes, never the bare legs or the shorts from the video. If [Image 1] shows an animal, every part is that animal standing upright, with its own face, fur and markings.
+
+No one from the video stays. The same real person in every part, from the first frame to the last, so their friends recognize them at once. Never morph, never drift back to the original people's faces.
+
+Anatomy rules: one head per person, on their own shoulders; two arms and two legs each. No text, no captions, no logos, no badges or lettering on the cars, no readable number plates.
    ```
 
 2. Press Generate, then download the 9:16 MP4.
@@ -130,7 +145,7 @@ You pay per video in credits, and the create page shows the exact price on the G
 
 | Video model | Settings | Credits |
 | --- | --- | --- |
-| Genjutsu Motion (this template) | 15 s, 480p, copies the trend clip, one tap | 191 |
+| Seedance 2.5 (this template) | 15 s, 720p, copies the trend clip, one tap | 228 |
 
 Credits come with a plan; see [pricing](https://www.makeviral.ai/pricing). A failed video gives its credits back.
 
@@ -152,19 +167,19 @@ The original reel is 17.6 seconds long. It ends with the camera swinging back to
 
 ## How does MakeViral make it, and what does it cost?
 
-Higgsfield Genjutsu takes the original reel and your photos and puts each person in place of one friend, shot by shot. The parking lot, the cars, the sky, the moves and the handheld camera stay as in the reel. Each person keeps the face, hair and clothes from their photo. You write no prompt.
+Seedance 2.5 takes the original reel and your photos and puts each person in place of one friend, shot by shot. It also gets a close-up of each face, cut from your photo, so the small faces in the wide shots stay yours. The parking lot, the cars, the sky, the moves and the handheld camera stay as in the reel. Each person keeps the face, hair and clothes from their photo. You write no prompt.
 
 | | Both versions |
 |---|---|
-| Model | Higgsfield Genjutsu |
+| Model | Seedance 2.5 |
 | Length | 15 s |
-| Frame | Vertical 9:16, like the reel, 480p |
+| Frame | Vertical 9:16, like the reel, 720p |
 | Sound | The reel's own sound: the song from the car stereo, which you can turn off |
 | Photos | 3 ("3 friends") or 1 ("Just you") |
 
-The exact price shows on the Generate button before you spend anything, and the video waits in My videos when it is ready, usually in a few minutes.
+The exact price shows on the Generate button before you spend anything, and the video waits in My videos when it is ready, usually in 5 to 15 minutes.
 
-**Mop dance** works the same way with Seedance 2.5 instead: your photo replaces the dancer in the AI reel, shot by shot, in 720p, with the reel's song back on. It usually takes 5 to 15 minutes.
+**Mop dance** works the same way: your photo replaces the dancer in the AI reel, shot by shot, in 720p, with the reel's song back on.
 
 The copy of the reel that the model works from has no text on it, and the car badges and the number plate are blurred, so the model has no text or badges to copy.
 
@@ -186,7 +201,7 @@ More trends to make with friends: the [Alors on Danse AI trend](https://www.make
 |---|---|
 | A friend shows up in the wrong part | Check the order: photo 1 dances, photo 2 takes the selfie, photo 3 steps out of the car. |
 | A beard, a bucket hat or long dark hair from the reel comes back | Use sharp photos where each person's own hair and face are easy to see, then run it again. |
-| The close-up of the car friend looks soft | The clip is 480p, and the close-up is a moving handheld shot with wind and hair in the face, as in the reel. A sharp, front-facing photo helps most. |
+| The close-up of the car friend looks soft | The close-up is a moving handheld shot with wind and hair in the face, as in the reel. A sharp, front-facing photo helps most. |
 | In "Just you", one part keeps a stranger's face | Run it again with a sharper photo, or use "3 friends" with three different people. |
 | The run fails | Some photos get refused. The credits come back; try another photo. |
 
@@ -208,7 +223,7 @@ The blogger Adel Veigel posted it on Instagram on 1 July 2024 (@adelveigel). The
 
 ### How do I make the gas station dance with my friends?
 
-Press "Create your own", pick "3 friends" and add three photos in this order: the dancer, the selfie friend, the friend in the car. Then press Generate. The button shows the price first. You get a 15-second vertical video with the song, usually in a few minutes, and you write no prompt.
+Press "Create your own", pick "3 friends" and add three photos in this order: the dancer, the selfie friend, the friend in the car. Then press Generate. The button shows the price first. You get a 15-second vertical video with the song, usually in 5 to 15 minutes, and you write no prompt.
 
 ### Can I do the gas station dance alone?
 
@@ -232,7 +247,7 @@ Both: the original was filmed on the parking lot of a roadside gas station, with
 
 ### How long is the video, and does it have sound?
 
-15 seconds, vertical 9:16, 480p (720p for Mop dance), as an MP4 file. It comes with the reel's own sound, the song from the car stereo, and you can turn the sound off on the result screen.
+15 seconds, vertical 9:16, 720p, as an MP4 file. It comes with the reel's own sound, the song from the car stereo, and you can turn the sound off on the result screen.
 
 ### Does the gas station dance video cost credits?
 
@@ -252,8 +267,17 @@ Yes, if they said yes. Use photos of adults who agreed to be in the video, never
 - [AI photo generator](https://www.makeviral.ai/ai-photo-generator)
 - [All AI video templates](https://www.makeviral.ai/templates)
 
+## New AI video trends this week
+
+- [Christmas Dance AI: Do the New TikTok Christmas Dance From Your Photos](https://www.makeviral.ai/templates/christmas-dance-ai-trend): Hip sways with the hands at the collar, rolling arms, a quick spin and raised fists, side by side in matching Christmas pajamas. Add two photos for the duo, one for a solo take, or two pets, and get the dance with the sound.
+- [Cat on Ultra Bee AI: Put Your Pet on the Wheelie](https://www.makeviral.ai/templates/cat-on-ultra-bee-ai-trend): Add one photo, and your cat or dog stands on an electric dirt bike and holds a long wheelie down a city road at golden hour, in the same shots as the viral clip, with its original sound. You can take the ride yourself, too.
+- [Tus Ojos Me Reflejan el Sentimiento: The Cafuné Eye Close-Up Trend](https://www.makeviral.ai/templates/tus-ojos-me-reflejan-ai-trend): You lie on your side, a hand rests on your cheek, warm light falls on your face, and the camera slowly moves in until your eyes fill the screen while the line plays. One photo in, an 8-second vertical clip with the trend's song out.
+- [İnşallah Maşallah AI Trend: Sing Neşe Karaböcek's Song on the Couch](https://www.makeviral.ai/templates/insallah-masallah-ai-trend): You sit on a light grey couch and sing the old Turkish love song straight to the camera: a hand on the heart, a big laugh with both hands on your head, a finger pointed at the camera and a kiss at the end. One photo of you, a grandparent or your pet, and the 15-second clip comes with the song.
+- [Ice Ice Baby Dance AI: Do the Viral Duo Dance With a Friend](https://www.makeviral.ai/templates/ice-ice-baby-dance-ai): Two dancers side by side, the same bouncy 90s steps, a spin on the beat and a strut to the camera. Add a photo of you and a friend, of you alone, or of your pet, and get the dance with the sound.
+- [Save Yourself Trend: Pull Yourself Up From the Cliff](https://www.makeviral.ai/templates/save-yourself-ai-trend): One photo plays both of you: the scared you clinging to a wet sea cliff, and the calm you who reaches down, pulls you up and holds you. Or use two photos: an older photo of you and a new one, or you and a friend. 15 seconds, vertical.
+
 ## Make your own Gas Station Dance video
 
-Add three photos and press Generate. No prompt to write. 191 credits, charged once.
+Add three photos and press Generate. No prompt to write. 228 credits, charged once.
 
 [Make this video](https://www.makeviral.ai/templates/gas-station-dance-ai-trend/create)

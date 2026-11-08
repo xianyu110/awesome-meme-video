@@ -1,0 +1,49 @@
+{
+  "source": "makeviral",
+  "source_site": "https://www.makeviral.ai",
+  "slug": "meri-nas-nas-mein-ai-trend",
+  "name": "Meri Nas Nas Mein Bahe Hai: Glowing Veins That End on Your Letter",
+  "url": "https://www.makeviral.ai/templates/meri-nas-nas-mein-ai-trend",
+  "markdown_url": "https://www.makeviral.ai/templates/meri-nas-nas-mein-ai-trend.md",
+  "blurb": "Meri nas nas mein bahe hai is a romantic Instagram Reels edit from India: warm light spreads through the veins of a clenched fist, the camera dives into one glowing vein, and floating 3D copies of one letter, the initial of a loved one, fill the tunnel.",
+  "updated": "2026-10-29",
+  "published": "2026-10-29",
+  "credits": 54,
+  "demo_videos": [
+    "https://www.makeviral.ai/media/templates/meri-nas-nas-mein-ai-trend/example-v1.mp4"
+  ],
+  "posters": [
+    "https://www.makeviral.ai/media/templates/meri-nas-nas-mein-ai-trend/example-input-v1.jpg",
+    "https://www.makeviral.ai/media/templates/meri-nas-nas-mein-ai-trend/example-v1-poster.jpg"
+  ],
+  "prompts": [
+    {
+      "label": "2. The video prompt is filled in. Settings: Kling 3.0, 10 s, 1080p, 9:16, sound on. The video prompt",
+      "variant": null,
+      "kind": "video_prompt",
+      "text": "Create a 10-second ultra-realistic cinematic VFX video, vertical 9:16, using the uploaded hand image as reference. 0-2 s: Preserve the original closed fist, skin, arm hair, sleeve, any wristwatch or bracelet, and background. A faint red-orange glow appears beneath the skin of the wrist. 2-4 s: Glowing red-orange energy veins spread across the forearm with tiny sparks. Keep skin intact and realistic. 4-5 s: Smoothly zoom into a glowing branch, transitioning into a CGI tunnel. 5-7 s: Travel through a deep red-orange 3D biological tunnel with glowing strands, circular waves and floating particles. 7-10 s: Multiple glowing 3D copies of the letter \"{letter}\" float, rotate and pass the camera at different depths. Keep every letter identical and readable. The camera moves past the glowing letter forms as the red-orange energy intensifies, ending on a dramatic, clearly readable view of one large glossy 3D capital letter \"{letter}\" in the center of the frame. Use cinematic lighting, smooth motion and futuristic electronic ambience. No cuts, blood, wounds, extra symbols, captions or watermarks. Preserve the original hand. The glow is soft, warm light like energy under the skin, never blood: no blood cells, no red liquid, no needles, no open skin, no gore. Exactly one hand with five fingers, no face and no other person. The only text in the video is the capital letter \"{letter}\": no other letters, numbers or words, no logos."
+    },
+    {
+      "label": "2. The video prompt is filled in. Settings: Kling 3.0, 8 s, 1080p, 9:16, sound on. The video prompt",
+      "variant": null,
+      "kind": "video_prompt",
+      "text": "Create an 8-second ultra-realistic cinematic video using the uploaded close-up wrist and forearm photo as the exact reference. Preserve the original skin texture, skin tone, any wristwatch or bracelet, arm hair, clothing, and natural hand anatomy. Keep the camera focused on the wrist throughout. Scene 1 (0-2 seconds): A tiny red-orange light appears at the center of the wrist. Thin luminous veins slowly branch outward beneath the skin, creating a realistic glowing network. Scene 2 (2-4 seconds): The glowing branches gently converge into a bright, elegant heart shape at the center of the wrist. The heart pulses softly with warm red light, reflecting naturally on the surrounding skin. Scene 3 (4-6 seconds): The heart dissolves into flowing red-orange light trails. These trails smoothly twist and form one large, glossy 3D capital letter \"{letter}\", centered clearly above the wrist. Scene 4 (6-8 seconds): The letter glows with realistic reflections while delicate luminous branches surround it. End with a stable close-up of the glowing letter and wrist. Use photorealistic skin, subtle cinematic lighting, smooth transformations, realistic reflections, and natural anatomy. Keep \"{letter}\" correctly shaped and readable. No extra letters, words, blood, wounds, needles, distorted fingers, face generation, or watermarks. Vertical 9:16 video. The glow is soft, warm light under intact skin, never blood: no red liquid, no open skin, no gore. Exactly one hand with five fingers. No logos."
+    }
+  ],
+  "variant_headings": [
+    "What the Meri Nas Nas Mein video looks like",
+    "How to make the Meri Nas Nas Mein video on MakeViral",
+    "Which photo works best?",
+    "What happens in the video, second by second?",
+    "How do I make the meri nas nas mein AI video with my own arm?",
+    "Meri nas nas me bahe hai video kaise banaye?",
+    "Is the song on my video?",
+    "Is there a nas nas me bahe hai AI video editing app?",
+    "Is the video gory or scary?",
+    "Other AI video templates and tools",
+    "New AI video trends this week",
+    "Make your own Meri Nas Nas Mein video"
+  ],
+  "prompt_count": 2,
+  "scraped_at": "2026-11-08"
+}

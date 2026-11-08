@@ -50,3 +50,22 @@ Timing, second by second, as in the original video:
 The pet keeps its own look from the first image in every frame, with the natural body volume and proportions of that animal: never flattened, squashed, stretched or merged with anything. The fur is freshly washed, fluffy, and moves in the warm air. The mouth moves like real singing: wide open on the long notes, closing a little between them. No orange-and-white coat unless the first image shows it. The grey tiles, the glass shower, the towel, the hair dryer, the brush, the light and the camera stay as in the video. One pet only, one head, natural teeth and tongue. No new text, no logos, no watermark.
 ```
 
+### 3. 1. The video prompt is filled in. Settings: Seedance 2.5, 10 s, 720p, 9:16, sound off. The video prompt
+
+*Kind: video_prompt*
+
+```text
+Recreate the reference video [Video 1] shot for shot: the same bathroom with grey tiles and a glass shower, the same white bath towel, the same black hair dryer and black hairbrush, the same warm light, the same fixed phone camera, close framing from the chest up, timing, head moves, arm moves and facial expressions. The ONLY change: the cat that stands upright in the white towel is now the person in [Image 1], a real human.
+
+The singer = the person in [Image 1], in EVERY frame: copy the exact face from [Image 1] (the face shape, eye color and eye shape, eyebrows, nose, mouth, skin tone, age, hair color, hair length and hairstyle, and any beard, moustache, glasses or freckles), so their friends recognize them at once. A grown adult with a HUMAN head and an adult's full-size shoulders, arms and body, filling the frame from the chest up like the cat does: never a cat head, no cat ears, no fur, no whiskers, no paws, no tail. The white bath towel is wrapped around the body and tucked in under the arms, like just after a shower; the shoulders and arms are bare. The hair keeps the color, length and style of [Image 1], freshly washed, a little damp, and it moves in the warm air. The same real person in every frame, from the first second to the last, also with the eyes closed and the mouth wide open on the long notes. Never morph, never drift back to the cat of the original video. If [Image 1] shows an animal, the singer is that animal standing upright, with its own face, fur and markings and the natural body volume and proportions of that animal.
+
+A shower superstar: the singer stands in the bathroom, dries and brushes their own hair and sings like a big opera star. Matching the reference second by second:
+1. 0-0.5 s: they squint in the warm air of the hair dryer, mouth half open.
+2. 0.5-6 s: eyes closed, mouth wide open on a big note, the brush in one hand on top of the head, the hair dryer in the other hand blowing on the hair.
+3. 6-7 s: they open their eyes for a moment and lift the brush away.
+4. 7-10 s: they face the camera, spread both arms wide, lift the head toward the ceiling and hold the last long note, the hair dryer still in one hand.
+The mouth opens and closes exactly when the cat's mouth in [Video 1] does, like real opera singing.
+
+Anatomy rules: one head only, on the singer's shoulders; two human arms and two hands with five fingers each. No extra people, no extra animals. No text, no logos, no watermark.
+```
+

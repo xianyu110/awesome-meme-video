@@ -1,0 +1,50 @@
+{
+  "source": "makeviral",
+  "source_site": "https://www.makeviral.ai",
+  "slug": "fish-cutting-meme",
+  "name": "Fish Cutting Meme: Chop the Giant Fish With Your Face",
+  "url": "https://www.makeviral.ai/templates/fish-cutting-meme",
+  "markdown_url": "https://www.makeviral.ai/templates/fish-cutting-meme.md",
+  "blurb": "The fish cutting meme is a viral reel of a big man in a black cowboy hat who cuts a giant fish on a kitchen island with a huge cleaver, chop after chop, into perfectly even sections.",
+  "updated": "2026-11-05",
+  "published": "2026-11-05",
+  "credits": 152,
+  "demo_videos": [
+    "https://www.makeviral.ai/media/templates/fish-cutting-meme/original-main-v2.mp4",
+    "https://www.makeviral.ai/media/templates/fish-cutting-meme/original-tall-main-v2.mp4"
+  ],
+  "posters": [
+    "https://www.makeviral.ai/media/templates/fish-cutting-meme/original-main-v1.jpg",
+    "https://www.makeviral.ai/media/templates/fish-cutting-meme/original-tall-main-v1.jpg"
+  ],
+  "prompts": [
+    {
+      "label": "1. The video prompt is filled in. Settings: Seedance 2.5, 10 s, 720p, 9:16, sound off. The video prompt",
+      "variant": null,
+      "kind": "video_prompt",
+      "text": "Recreate the reference video [Video 1] shot for shot: the same modern kitchen at night with light wood cabinets, a second white island with dark bar stools behind, pendant lamps and a white door, the same giant silver fish lying across the white counter in front, the same big square kitchen cleaver, the same fixed front camera, the same wide 16:9 framing, the same single continuous take, timing and moves. The ONLY change: the big man in the black cowboy hat and black T-shirt who cuts the fish is now the person in [Image 1].\n\n[Image 1] is the sole face reference for that person, and [Video 1] gives only the moves, the setting, the timing and the camera.\n\nThe cook = the person in [Image 1], in EVERY frame: copy the exact face from [Image 1] - face shape, eye color and eye shape, eyebrows, nose, mouth, skin tone, age, hair color, hair length and hairstyle, and any beard, moustache, glasses or freckles exactly as in the photo - and the body build of [Image 1]. The same real person in every frame, so their friends instantly recognize them, also when the head tips down over the fish. Never morph, never drift back to the face of the man in [Video 1], never add or remove facial hair. NO beard and NO moustache unless [Image 1] shows them. NO bracelet and NO watch unless [Image 1] shows them. The cook wears the black cowboy hat and a plain black T-shirt from [Video 1], over their own hair from [Image 1]; the hat sits a little back so the face stays in view, and the T-shirt has no print and no logo. If [Image 1] shows an animal, the cook is that animal standing upright behind the counter, with its own face, fur and markings and two human hands that hold the fish and the cleaver.\n\nTHE ACTION, matching [Video 1] second by second:\nShot 1 [0-10 s]: one continuous take, no cuts. The cook stands behind the white counter, one hand flat on the giant fish to hold it steady, and works down its length from behind the head toward the tail with the big cleaver: lifts the cleaver high, brings it straight down through the fish, lifts it again. Clean cuts at about 1.3 s, 3.1 s, 4.1 s, 5.0 s, 6.0 s, 7.0 s, 8.0 s, 8.5 s and 9.2 s, each a little further toward the tail, so the fish ends up in neat, even sections. At the end the cook lays the cleaver down on the counter by the tail. The same speed, rhythm and arm swing as the cook in [Video 1]. A calm, focused, serious face the whole time, eyes on the fish, never smiling at the camera.\n\nPlain kitchen food prep: the fish stays silver outside and pale inside, with clean straight cut lines.\n\nAnatomy rules: one head only, on the cook's shoulders. Two arms and two hands, five fingers on each hand, one cleaver. Exactly one person in the kitchen. Keep everything else the same: the kitchen, the counter, the fish, the cleaver, the light and the camera. No dialogue throughout the entire video. No background music. No text, no captions, no stickers, no logos, no watermark."
+    },
+    {
+      "label": "1. The video prompt is filled in. Settings: Seedance 2.5, 10 s, 720p, 9:16, sound off. The video prompt",
+      "variant": "Pet",
+      "kind": "video_prompt",
+      "text": "Recreate the reference video [Video 1] shot for shot: the same modern kitchen at night with light wood cabinets, a second white island with dark bar stools behind, pendant lamps and a white door, the same giant silver fish lying across the white counter in front, the same big square kitchen cleaver, the same fixed front camera, the same wide 16:9 framing, the same single continuous take, timing and moves. The ONLY change: the big man in the black cowboy hat who cuts the fish is now the pet in [Image 1], standing upright behind the counter like a person.\n\n[Image 1] is the sole look reference for the pet, and [Video 1] gives only the moves, the setting, the timing and the camera.\n\nThe cook = the pet in [Image 1], in EVERY frame: the same species and breed, head shape, face, eyes, eye color, ears, muzzle, fur colors, fur length and markings as in [Image 1], with the natural head proportions of that animal: never flattened, squashed, stretched or merged with anything, so its owner instantly recognizes it. Whether [Image 1] shows a dog, a cat or another animal, it stays that animal. It stands upright behind the counter in the man's place, its head and shoulders above the counter like his, in the same black cowboy hat, sitting on its head behind its own ears, and a plain black T-shirt with no print. Instead of front paws it has two human arms and two human hands with five fingers, the skin the same color as the fur around them: one hand holds the fish steady, the other swings the cleaver. Never drift back to the man in [Video 1]: no human face, no human head, no beard, no bracelet, no watch. Its own animal face in every frame, also when the head tips down over the fish.\n\nTHE ACTION, matching [Video 1] second by second:\nShot 1 [0-10 s]: one continuous take, no cuts. The cook stands behind the white counter, one hand flat on the giant fish to hold it steady, and works down its length from behind the head toward the tail with the big cleaver: lifts the cleaver high, brings it straight down through the fish, lifts it again. Clean cuts at about 1.3 s, 3.1 s, 4.1 s, 5.0 s, 6.0 s, 7.0 s, 8.0 s, 8.5 s and 9.2 s, each a little further toward the tail, so the fish ends up in neat, even sections. At the end the cook lays the cleaver down on the counter by the tail. The same speed, rhythm and arm swing as the cook in [Video 1]. A calm, focused, serious face the whole time, eyes on the fish, never smiling at the camera.\n\nPlain kitchen food prep: the fish stays silver outside and pale inside, with clean straight cut lines.\n\nAnatomy rules: one head, one muzzle, natural teeth and tongue, exactly two arms and two human hands, one cleaver. No extra animals, no people. Keep everything else the same: the kitchen, the counter, the fish, the cleaver, the light and the camera. No dialogue throughout the entire video. No background music. No text, no captions, no stickers, no logos, no watermark."
+    }
+  ],
+  "variant_headings": [
+    "What the Fish Cutting Meme video looks like",
+    "How to make the Fish Cutting Meme video on MakeViral",
+    "Which photo works best?",
+    "What happens in the fish cutting meme video, second by second?",
+    "Cowboy hat, your look or your pet: which one should you make?",
+    "Is the fish cutting video real?",
+    "How do I make an AI fish cutting video?",
+    "How long is the video and what format is it?",
+    "Is the fish cutting meme the same as a giant fish cutting video on TikTok?",
+    "Other AI video templates and tools",
+    "New AI video trends this week",
+    "Make your own Fish Cutting Meme video"
+  ],
+  "prompt_count": 2,
+  "scraped_at": "2026-11-08"
+}

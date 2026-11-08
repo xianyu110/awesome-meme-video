@@ -1,0 +1,49 @@
+{
+  "source": "makeviral",
+  "source_site": "https://www.makeviral.ai",
+  "slug": "pray-for-me-slow-mo-ai-trend",
+  "name": "Pray For Me Trend AI: The Slow Mo Dance and Run, From Your Photos",
+  "url": "https://www.makeviral.ai/templates/pray-for-me-slow-mo-ai-trend",
+  "markdown_url": "https://www.makeviral.ai/templates/pray-for-me-slow-mo-ai-trend.md",
+  "blurb": "The pray for me trend is a dramatic slow-motion dance and run to a slowed \"Pray For Me\".",
+  "updated": "2026-10-25",
+  "published": "2026-10-25",
+  "credits": 213,
+  "demo_videos": [
+    "https://www.makeviral.ai/media/templates/pray-for-me-slow-mo-ai-trend/original-ai-v2.mp4"
+  ],
+  "posters": [
+    "https://www.makeviral.ai/media/templates/pray-for-me-slow-mo-ai-trend/original-ai-v1.jpg"
+  ],
+  "prompts": [
+    {
+      "label": "1. The video prompt is filled in. Settings: Seedance 2.5, 14 s, 720p, 9:16, sound off. The video prompt",
+      "variant": null,
+      "kind": "video_prompt",
+      "text": "Recreate the reference video [Video 1] shot for shot: one person dances alone in dramatic slow motion in a bright, empty living room with white walls, a dark wood floor, an arched doorway, a tall window with green bushes outside and a tall black-framed mirror on the wall, filmed by a phone on the floor that looks slightly up, with the same framing, timing and moves. The ONLY change: the young man with short black hair in the plain black T-shirt is now the person in [Image 1].\n\nThe dancer = the person in [Image 1], in EVERY frame: copy the exact face from [Image 1] (the face shape, eye color and eye shape, eyebrows, nose, mouth, skin tone, age, hair color, hair length and hairstyle, and any beard, moustache, glasses or freckles). They wear the clothes from [Image 1]. NO short black hair and no plain black T-shirt unless [Image 1] shows them. The same real person in every frame, also when they are small and far away outside the window and in the mirror, so their friends recognize them at once. Never morph, never drift back to the original young man's face.\n\nBeats, matching the reference second by second, all in slow motion:\n0-6.5 s: the dancer turns to the camera, sways, waves one hand, looks up with an emotional face and presses both palms together in prayer at the chest.\n6.5-11 s: the dancer drops down out of the frame; the room stays empty while the same dancer runs past outside the window and shows up small in the mirror.\n11-13.5 s: the dancer comes back up into the frame close to the camera, the face large and sharp, and dances on with small hand moves near the face.\n\nExactly one dancer: the small figure outside the window and in the mirror is always that same dancer, never anyone else. One head only, on the dancer's shoulders; five fingers on each hand. No text, no captions, no logos, no watermark."
+    },
+    {
+      "label": "1. The video prompt is filled in. Settings: Seedance 2.5, 10 s, 720p, 9:16, sound on. The video prompt",
+      "variant": null,
+      "kind": "video_prompt",
+      "text": "A viral \"pray for me\" slow mo run video of two friends, made from [Image 1] and [Image 2]: one continuous handheld phone shot at chest height, vertical 9:16, photorealistic, in dramatic slow motion at about a quarter of real speed, like heroes walking out in an action film. The place: a long covered outdoor walkway of a modern building at night, warm ceiling lights, square pillars, a smooth concrete floor and a dark sky beyond.\n\nFriend 1 is the one in [Image 1], in every frame: copy the exact face from [Image 1] (the face shape, eye color and eye shape, eyebrows, nose, mouth, skin tone, age, hair color, hair length and hairstyle, and any beard, moustache, glasses or freckles), and the hair and the clothes from [Image 1]. Friend 2 is the one in [Image 2], in every frame: copy the exact face from [Image 2] (the face shape, eye color and eye shape, eyebrows, nose, mouth, skin tone, age, hair color, hair length and hairstyle, and any beard, moustache, glasses or freckles), and the hair and the clothes from [Image 2]. Never blend their faces. Each face stays the same from the first frame to the last, so their friends recognize them at once. If an image shows an animal, that friend is that animal running upright, with its own face, fur and markings, not a person.\n\nEvery run: the friend starts far away, runs toward the camera with wide, heavy arm swings and a serious, dramatic face, hair and clothes floating in the slow motion, and passes close to the lens, the face large and sharp for a moment.\n0-3.5 s: Friend 1 runs toward the camera and passes the lens on the left.\n3.5-7 s: Friend 2 runs toward the camera and passes the lens on the right, one hand reaching out to the lens.\n7-10 s: both step back into the frame side by side, close to the lens, from the waist up, Friend 1 on the left and Friend 2 on the right; they press their palms together, then cross their arms over the chest, look into the lens with a straight face and then burst out laughing.\n\nAudio: a slow, emotional hip-hop beat with a deep bass and soft choir pads, slowed down, and a soft swish as each friend passes. No singing, no spoken words.\nExactly two people, both grown adults. Nobody falls or gets hurt. One head each, five fingers on each hand. No text, no captions, no logos, no watermark, no app interface."
+    },
+    {
+      "label": "1. The video prompt is filled in. Settings: Seedance 2.5, 10 s, 720p, 9:16, sound on. The video prompt",
+      "variant": null,
+      "kind": "video_prompt",
+      "text": "A viral \"pray for me\" slow mo run video of three friends, made from [Image 1], [Image 2] and [Image 3]: one continuous handheld phone shot at chest height, vertical 9:16, photorealistic, in dramatic slow motion at about a quarter of real speed, like heroes walking out in an action film. The place: a long covered outdoor walkway of a modern building at night, warm ceiling lights, square pillars, a smooth concrete floor and a dark sky beyond.\n\nFriend 1 is the one in [Image 1], in every frame: copy the exact face from [Image 1] (the face shape, eye color and eye shape, eyebrows, nose, mouth, skin tone, age, hair color, hair length and hairstyle, and any beard, moustache, glasses or freckles), and the hair and the clothes from [Image 1]. Friend 2 is the one in [Image 2]: copy the exact face from [Image 2] (the face shape, eye color and eye shape, eyebrows, nose, mouth, skin tone, age, hair color, hair length and hairstyle, and any beard, moustache, glasses or freckles), and the hair and the clothes from [Image 2]. Friend 3 is the one in [Image 3]: copy the exact face from [Image 3] (the face shape, eye color and eye shape, eyebrows, nose, mouth, skin tone, age, hair color, hair length and hairstyle, and any beard, moustache, glasses or freckles), and the hair and the clothes from [Image 3]. Never blend their faces. Each face stays the same from the first frame to the last, so their friends recognize them at once. If an image shows an animal, that friend is that animal running upright, with its own face, fur and markings, not a person.\n\nEvery run: the friend starts far away, runs toward the camera with wide, heavy arm swings and a serious, dramatic face, hair and clothes floating in the slow motion, and passes close to the lens, the face large and sharp for a moment.\n0-2.5 s: Friend 1 runs toward the camera and passes the lens on the left.\n2.5-5 s: Friend 2 runs toward the camera and passes the lens on the right.\n5-7.5 s: Friend 3 runs toward the camera and passes the lens on the left, one hand reaching out to the lens.\n7.5-10 s: all three step back into the frame side by side, close to the lens, from the waist up, Friend 1 in the middle, Friend 2 on the left, Friend 3 on the right; they press their palms together, then cross their arms over the chest, look into the lens with a straight face and then burst out laughing.\n\nAudio: a slow, emotional hip-hop beat with a deep bass and soft choir pads, slowed down, and a soft swish as each friend passes. No singing, no spoken words.\nExactly three people, all grown adults. Nobody falls or gets hurt. One head each, five fingers on each hand. No text, no captions, no logos, no watermark, no app interface."
+    }
+  ],
+  "variant_headings": [
+    "What the Pray For Me Slow Mo video looks like",
+    "How to make the Pray For Me Slow Mo video on MakeViral",
+    "Which photo works best?",
+    "Does the video have the song?",
+    "Other AI video templates and tools",
+    "New AI video trends this week",
+    "Make your own Pray For Me Slow Mo video"
+  ],
+  "prompt_count": 3,
+  "scraped_at": "2026-11-08"
+}

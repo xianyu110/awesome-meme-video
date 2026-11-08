@@ -3,7 +3,7 @@
 - Source: [makeviral](https://www.makeviral.ai/templates/yamal-no-rabona-ai-trend)
 - Slug: `yamal-no-rabona-ai-trend`
 
-The Yamal rabona trend puts you, or your grandma, into Lamine Yamal's fake rabona: on the goal line of a floodlit match you swing one leg behind the other as if to cross, never kick, and watch the defender slide past.
+The Yamal rabona trend puts you, or your grandma, into Lamine Yamal's fake rabona: on the goal line you swing one leg behind the other as if to cross, never kick, and watch the defender slide past.
 
 ## Demo videos (CDN)
 
@@ -15,47 +15,34 @@ The Yamal rabona trend puts you, or your grandma, into Lamine Yamal's fake rabon
 
 ## Prompts
 
-### 1. 1. The video prompt is filled in. Settings: Seedance 2.5, 8 s, 720p, 9:16, sound on. The video prompt
+### 1. 1. The video prompt is filled in. Settings: Seedance 2.5, 6 s, 720p, 9:16, sound off. The video prompt
 
 *Kind: video_prompt*
 
 ```text
-TV broadcast football shot: the person from the photo [Image 1] runs with the ball, fakes a rabona kick, a defender slides past, the crowd cheers. One vertical 9:16 football clip of a night match, photorealistic and sharp, filmed like real TV coverage by a low-angle sports camera at pitch level.
+Recreate the reference video [Video 1] shot for shot: the same football pitch, the same high TV camera and its moves, the same timing, the same defender and the same ball. The ONLY change: the old woman in the headscarf, the beige cardigan and the dark skirt, who dribbles along the goal line, fakes a rabona and takes the ball past the sliding defender, is now the person in [Image 1].
 
-The player is the person in [Image 1], in every frame: copy the exact face from [Image 1] (the face shape, eye color and eye shape, eyebrows, nose, mouth, skin tone, age, hair color, hair length and hairstyle, and any beard, moustache, glasses or freckles), the same build, and the clothes and shoes from [Image 1]: their own everyday clothes, never a football kit or a jersey. The person is an adult. The same person from the first frame to the last, so their friends recognize them at once, also in the close-up at the end. Never morph. If [Image 1] shows an animal, the player is that animal running upright on its hind legs, with its own face, fur and markings, not a person.
+The player = the person in [Image 1], in EVERY frame: copy the exact face from [Image 1] (the face shape, eye color and eye shape, eyebrows, nose, mouth, skin tone, age, hair color, hair length and hairstyle, and any beard, moustache, glasses or freckles), and the build, clothes and shoes from [Image 1]. NO headscarf unless [Image 1] shows one. The same real person from the first frame to the last, so their friends recognize them at once. Never morph, never drift back to the old woman's face. If [Image 1] shows an animal, the player is that animal upright on its hind legs, with its own face, fur and markings.
 
-The place: a big football stadium at night under bright floodlights, a full crowd in dark stands, a green pitch with mowed stripes, the white goal line and the corner of the six-yard box, a white goal with a net. One defender: a generic adult player in a plain white kit with no crest, no logo, no number and no text. A plain white ball with no logo and no pattern.
+Every move stays exactly as in [Video 1]: the leg swings behind the standing leg as if to cross, the foot never kicks the ball, the defender slides past, the player takes the ball on along the goal line.
 
-0-2 s, a low-angle sports camera at pitch level beside the goal line, tracking the play, both whole bodies in view: the person dribbles fast along the goal line toward the goal, arms out for balance, the ball close to the feet; the defender sprints in from the side.
-2-4.5 s, the feint, in a brief slow motion, still at pitch level, the legs and the ball large and sharp: beside the ball the person plants the left foot as the standing leg and swings the right leg behind the left standing leg to fake a rabona pass without striking the ball: the right leg winds far back and around behind the left leg, the legs crossed, as if to cross the ball. At the same moment the defender slides in feet first across the grass to block the cross.
-4.5-5.5 s, the fake: the right foot stops just before the ball and never touches it; the ball stays where it is. Then a quick sole drag moves the ball away, and the defender slides right past on the grass, fooled. The crowd gasps, then roars.
-5.5-8 s, a cut to a close shot at pitch level, from the chest up: the person looks into the camera with a calm, cheeky little smile and a small shrug, as if it was easy; the face is large and sharp: exactly the face from [Image 1]. The floodlights and the crowd are soft behind.
-
-Audio: the roar of the crowd, the thud of the ball, studs on the grass, the slide, a loud gasp at the fake. No commentary, no music with words.
-
-Exactly one ball and one defender near the person. No score graphic, no match clock, no TV channel logo, no flags, no club or national team kits, no crests, no sponsor names, no captions, no watermark. No famous athlete: the defender and every fan are generic adults. Plain kits, no crest, no logo, no text, also on the boards and the stadium screens. Realistic ball physics. Anatomy rules: one head, two arms, two legs, one foot at the end of each leg, no extra limbs; the legs cross behind each other but never merge or swap; the person never merges with the defender or the ball.
+Anatomy rules: one ball. One head only, on the player's own shoulders; two arms, two legs. A face never appears on hands, legs or clothes.
 ```
 
-### 2. 1. The video prompt is filled in. Settings: Seedance 2.5, 8 s, 720p, 9:16, sound on. The video prompt
+### 2. 1. The video prompt is filled in. Settings: Seedance 2.5, 6 s, 720p, 9:16, sound off. The video prompt
 
 *Kind: video_prompt*
 
 ```text
-TV broadcast football shot: the person from [Image 1] runs with the ball and fakes a rabona kick, their friend from [Image 2] slides in and slides right past, the crowd cheers. A vertical 9:16 clip of a night match, photorealistic, filmed like real TV coverage by a low-angle sports camera at pitch level.
+Recreate the reference video [Video 1] shot for shot: the same football pitch, the same high TV camera and its moves, the same timing and the same ball. Two changes only: the old woman in the headscarf, the beige cardigan and the dark skirt, who dribbles along the goal line, fakes a rabona and takes the ball past the defender, is now the person in [Image 1]; the defender in the red and yellow kit with the number 7, who slides in and slides past, is now the person in [Image 2].
 
-The player is the person in [Image 1], in every frame: copy the exact face from [Image 1] (the face shape, eye color and eye shape, eyebrows, nose, mouth, skin tone, age, hair color, hair length and hairstyle, and any beard, moustache, glasses or freckles), the same build, and the clothes and shoes from [Image 1], never a football kit.
-The defender is the person in [Image 2], in every frame: copy the exact face from [Image 2] in the same way, the same build, and the clothes and shoes from [Image 2], never a football kit. If an image shows an animal, it stays that animal with its own face, fur and markings: upright with the ball, or on four legs as the defender. Two different people: never blend the two faces. Each face stays the same from the first frame to the last, so their friends recognize them at once, also in the close-up at the end. Never morph.
+The player = the person in [Image 1], in EVERY frame: copy the exact face from [Image 1] (the face shape, eye color and eye shape, eyebrows, nose, mouth, skin tone, age, hair color, hair length and hairstyle, and any beard, moustache, glasses or freckles), and the build, clothes and shoes from [Image 1]. NO headscarf unless [Image 1] shows one. Never drift back to the old woman's face.
+The defender = the person in [Image 2], in EVERY frame: copy the exact face from [Image 2] (the face shape, eye color and eye shape, eyebrows, nose, mouth, skin tone, age, hair color, hair length and hairstyle, and any beard, moustache, glasses or freckles), and the build from [Image 2]; the defender keeps the red and yellow kit from the video. Never drift back to the original defender's face.
+Both change: no one from the video stays. Two different people: never blend the two faces. Each stays the same real person from the first frame to the last. Never morph.
 
-The place: a big football stadium at night under bright floodlights, a full crowd in dark stands, a green striped pitch, the white goal line, a white goal with a net. A plain white ball with no logo.
+Every move stays exactly as in [Video 1]: the leg swings behind the standing leg as if to cross, the foot never kicks the ball, the defender slides past, the player takes the ball on along the goal line.
 
-0-2 s, a low-angle sports camera at pitch level beside the goal line, both whole bodies in view: the player dribbles fast along the goal line toward the goal, the ball close to the feet; the defender sprints in from the side.
-2-4.5 s, the feint, in a brief slow motion, still at pitch level, the legs and the ball large and sharp: the player plants the left foot as the standing leg and swings the right leg behind the left standing leg to fake a rabona pass without striking the ball: the right leg winds far back and around behind the left leg, the legs crossed, as if to cross. The defender slides in feet first across the grass to block the cross.
-4.5-5.5 s: the right foot stops just before the ball and never touches it; the ball stays where it is. Then a quick sole drag moves the ball away, while the defender slides right past, fooled, and ends up sitting on the grass. The player rolls the ball on toward the post. The crowd gasps, then roars.
-5.5-8 s, a cut to a close shot at pitch level: in front, the player from the chest up looks into the camera with a calm, cheeky smile and a small shrug; just behind, the defender sits on the grass, mouth open in disbelief, then shakes their head and laughs. Both faces are large and sharp: exactly the faces from [Image 1] and [Image 2].
-
-Audio: the roar of the crowd, the thud of the ball, the slide, a loud gasp at the fake. No commentary, no music with words.
-
-Exactly two people near the ball and one ball. No referee, no other players close by. No score graphic, no TV logo, no club or national team kits, no crests, no sponsor names, no captions, no watermark; every fan is a generic adult. Plain kits, no crest, no logo, no text, also on the boards and the stadium screens. Realistic ball physics, no extra limbs. Anatomy: each person has two arms, two legs and two feet; the legs cross but never merge or swap; the two people never merge with each other or with the ball.
+Anatomy rules: one ball. Each person has one head on their own shoulders, two arms and two legs. A face never appears on hands, legs or clothes.
 ```
 
 ### 3. 1. The video prompt is filled in. Settings: Seedance 2.5, 8 s, 720p, 9:16, sound on. The video prompt (Pet)

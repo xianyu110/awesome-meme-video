@@ -1,0 +1,53 @@
+{
+  "source": "makeviral",
+  "source_site": "https://www.makeviral.ai",
+  "slug": "rugrats-cartoon-ai-filter",
+  "name": "Rugrats Filter: Your Group Photo as a 90s Cartoon",
+  "url": "https://www.makeviral.ai/templates/rugrats-cartoon-ai-filter",
+  "markdown_url": "https://www.makeviral.ai/templates/rugrats-cartoon-ai-filter.md",
+  "blurb": "The Rugrats filter is the TikTok trend where one photo becomes a frame of a 90s cartoon in the style of Rugrats: thick wobbly outlines, flat colors, big heads on small bodies and a toy-filled playroom behind.",
+  "updated": "2026-11-01",
+  "published": "2026-11-01",
+  "credits": 3,
+  "demo_videos": [
+    "https://www.makeviral.ai/media/templates/rugrats-cartoon-ai-filter/original-main-v2.mp4"
+  ],
+  "posters": [
+    "https://www.makeviral.ai/media/templates/rugrats-cartoon-ai-filter/original-main-v1.jpg"
+  ],
+  "prompts": [
+    {
+      "label": null,
+      "variant": null,
+      "kind": "prompt",
+      "text": "Use the uploaded image as the base. Redraw the whole photo as one frame of a classic 1990s hand-drawn TV cartoon. Turn every person in the photo into a cute cartoon character, redrawn as a classic hand-drawn 1990s TV cartoon with cute bold cartoon lines: thick, slightly wobbly black outlines, flat bright colors with simple shading, a slightly faded retro TV look, big round heads on small chubby bodies, big simple eyes, small noses, simple mouths and scratchy, sketchy line work. Keep the photo's composition: draw exactly as many characters as there are people in the photo, in the same places and the same order from left to right, with the same poses, gestures, hand positions and funny facial expressions as in the photo (a peace sign stays a peace sign, a piggyback stays a piggyback, a drink in the hand stays in the hand). Each person keeps their own age look and gender, drawn with the big head and small body of the style. Each character keeps everything that makes that one person recognizable, as simple cartoon shapes: the exact hairstyle, hair length and hair color, any beard, moustache or stubble, glasses or sunglasses, hats, caps, headbands, earrings, jewelry, tattoos and freckles, the skin tone, and the clothes with their colors and prints from the photo, plus anything they hold. Never blend two people, never swap hair, glasses or clothes between them, and never add or drop a person. If the photo also shows a pet, it becomes a cartoon animal in the same style, in its place. Behind, in the same flat cartoon style: a warm retro 1990s family living room and playroom, with pastel pink and peach walls, a few framed pictures on the wall, a big window with yellow curtains, a soft rug on the floor and toys scattered around: wooden alphabet blocks, a ball, stuffed animals, a toy rocket and a small toy chest. Vertical 9:16, everyone in view, from head to feet when the photo shows them that way. No title, no logo, no text, no letters, no watermark, no frame. No green toy dinosaur, and no existing cartoon characters: only cartoons of the subjects in the photo. Every face is a flat hand-drawn cartoon face in this style, never a photo face: the identity rules below apply to each cartoon's face shape, hair, facial hair, glasses, skin tone, gender and clothes."
+    },
+    {
+      "label": null,
+      "variant": null,
+      "kind": "prompt",
+      "text": "Use the uploaded image as the base. Redraw the photo as one frame of a classic 1990s hand-drawn TV cartoon. Turn the person in the photo into a cute cartoon character, redrawn as a classic hand-drawn 1990s TV cartoon with cute bold cartoon lines: thick, slightly wobbly black outlines, flat bright colors with simple shading, a slightly faded retro TV look, big round heads on small chubby bodies, big simple eyes, small noses, simple mouths and scratchy, sketchy line work. Keep the pose, the gesture, the hand position and the funny facial expression from the photo, and anything the person holds. They keep their own age look and gender, drawn with the big head and small body of the style. If the photo is a close selfie, draw the character from the knees up, sitting or standing on the playroom rug, with the same expression. The character keeps everything that makes the person recognizable, as simple cartoon shapes: the exact hairstyle, hair length and hair color, any beard, moustache or stubble, glasses or sunglasses, hats, caps, headbands, earrings, jewelry, tattoos and freckles, the skin tone, and the clothes with their colors and prints from the photo. Exactly one character. Behind, in the same flat cartoon style: a warm retro 1990s family living room and playroom, with pastel pink and peach walls, a few framed pictures on the wall, a big window with yellow curtains, a soft rug on the floor and toys scattered around: wooden alphabet blocks, a ball, stuffed animals, a toy rocket and a small toy chest. Vertical 9:16, the character in the middle, in the lower two thirds of the picture. No title, no logo, no text, no letters, no watermark, no frame. No green toy dinosaur, and no existing cartoon characters: only cartoons of the subjects in the photo. The face is always a flat hand-drawn cartoon face in this style, never a photo face: the identity rules below apply to the cartoon's face shape, hair, facial hair, glasses, skin tone, gender and clothes."
+    },
+    {
+      "label": null,
+      "variant": "Pet",
+      "kind": "prompt",
+      "text": "Use the uploaded image as the base. Redraw the photo as one frame of a classic 1990s hand-drawn TV cartoon. Turn the pet in the photo into a cute cartoon animal, redrawn as a classic hand-drawn 1990s TV cartoon with cute bold cartoon lines: thick, slightly wobbly black outlines, flat bright colors with simple shading, a slightly faded retro TV look, big round heads on small chubby bodies, big simple eyes, small noses, simple mouths and scratchy, sketchy line work. Keep the pet's pose and expression from the photo. It keeps everything that makes this pet recognizable, as simple cartoon shapes: the same species, the fur colors, fur pattern, markings and spots, the ear shape, the tail, and any collar, tag, bandana or sweater from the photo. If the photo shows more than one pet, draw each one, never blended. No people. Behind, in the same flat cartoon style: a warm retro 1990s family living room and playroom, with pastel pink and peach walls, a few framed pictures on the wall, a big window with yellow curtains, a soft rug on the floor and toys scattered around: wooden alphabet blocks, a ball, stuffed animals, a toy rocket and a small toy chest. The pet sits or stands on the rug, its whole body in view, in the lower two thirds of the picture. Vertical 9:16. No title, no logo, no text, no letters, no watermark, no frame. No green toy dinosaur, and no existing cartoon characters: only cartoons of the subjects in the photo. The face is always a flat hand-drawn cartoon face in this style: the identity rules below apply to the cartoon's fur colors, markings, ears and accessories."
+    }
+  ],
+  "variant_headings": [
+    "What the Rugrats Filter photo looks like",
+    "How to make the Rugrats Filter photo on MakeViral",
+    "Which photo works best?",
+    "Group, Just you or Pet: which version should you pick?",
+    "What goes wrong with a Rugrats AI photo, and how do you fix it?",
+    "Can I do it with a family photo?",
+    "Can I turn it into a video?",
+    "Is my photo private?",
+    "Other AI video templates and tools",
+    "New AI video trends this week",
+    "Make your own Rugrats Filter photo"
+  ],
+  "prompt_count": 3,
+  "scraped_at": "2026-11-08"
+}

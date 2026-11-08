@@ -77,3 +77,53 @@ One continuous vertical shot with no cuts, like a real phone video filmed at nig
 Audio: an original smooth old-school R&B and soul groove at a mid tempo, warm bass and soft keys, no known song and no lyrics; the crowd cheers, claps and chats. The pet never speaks. Exactly one animal, with real furry paws. No extra animals, no extra legs, no morphing. Every person is a generic adult, no children. No text, no logos, no club shirts, no readable signs, no watermark.
 ```
 
+### 5. 1. The video prompt is filled in. Settings: Seedance 2.5, 15 s, 720p, 9:16, sound off. The video prompt
+
+*Kind: video_prompt*
+
+```text
+Recreate the reference video [Video 1] shot for shot: vertical handheld phone footage, night, a packed baile charme street party in an old cobbled square in Rio de Janeiro, strong floodlights behind the crowd, the same camera movement, crowd, lighting, timing and dance rhythm. The ONLY change: the bald young man in the white collared shirt and the navy sweater vest who dances at the front is now the person in [Image 1].
+
+The lead dancer is the person in [Image 1], in EVERY frame: copy the exact face from [Image 1]: face shape, eye color and eye shape, eyebrows, nose, mouth, skin tone, age, hair color, hair length and hairstyle, and any beard, moustache, glasses or freckles exactly as in the photo. Keep their face, hairstyle, skin tone and the clothes they are wearing; if [Image 1] shows only the head or the upper body, invent the rest so it matches naturally. The same real person in every frame, from the first second to the last, so their friends instantly recognize them, also when the dancer turns to the side or leans forward. Never morph, never drift back to the original dancer's face. NO shaved head, NO white collared shirt and NO navy sweater vest with a yellow trim unless [Image 1] shows them, and no glasses unless [Image 1] shows glasses. If [Image 1] shows an animal, the dancer is that animal standing upright on its hind legs, with its own face, fur and markings and the natural body volume and proportions of that animal: never flattened, squashed, stretched or merged with anything.
+
+The dance, matching [Video 1] second by second, on the beat:
+00:00-00:02: close to the phone, the dancer looks back over the shoulder at the camera and nods to the beat.
+00:02-00:05: turns the head to look over the crowd, small nods, shoulders loose.
+00:05-00:07.5: leans in and starts the charme step: shoulders bounce up and down, hands at chest height.
+00:07.5-00:10: body leaning forward, knees soft, forearms swing left and right in front of the hips, the hands sliding past each other at waist height.
+00:10-00:12.5: a small side step and a side turn, one hand out to the beat.
+00:12.5-00:15: back to the camera, shoulders bouncing and forearms swinging while the crowd dances along.
+The camera moves exactly as in [Video 1]: one continuous handheld shot, no cuts.
+
+The crowd around them dances along, exactly as in [Video 1]. Everyone in the crowd wears plain clothes with no logos, crests or printed words. The moves stay on the beat of [Video 1].
+
+Real live-action phone footage, clear facial features, no distortion. No dialogue throughout the entire video. No background music.
+
+Anatomy rules: one head only, on the dancer's shoulders. Two arms and two hands, five fingers on each hand. A face never appears on hands or clothes. No text, captions, stickers or watermarks on screen. No logos.
+```
+
+### 6. 1. The video prompt is filled in. Settings: Seedance 2.5, 15 s, 720p, 9:16, sound off. The video prompt (Pet)
+
+*Kind: video_prompt*
+
+```text
+Recreate the reference video [Video 1] shot for shot: vertical handheld phone footage, night, a packed baile charme street party in an old cobbled square in Rio de Janeiro, strong floodlights behind the crowd, the same camera movement, crowd, lighting, timing and dance rhythm. The ONLY change: the bald young man in the white collared shirt and the navy sweater vest who dances at the front is now the pet in [Image 1].
+
+The lead dancer = the pet in [Image 1], in EVERY frame: the same species and breed, face, eyes, ears, muzzle, fur colors, fur length and markings as in [Image 1], with the natural body volume and proportions of that animal: never flattened, squashed, stretched or merged with anything. Whether [Image 1] shows a dog, a cat or another animal, it stays that animal, standing upright on its hind legs in the young man's place, at his height in the frame. The same pet in every frame, from the first second to the last, so its owner instantly recognizes it. It wears no clothes unless [Image 1] shows them: never the white shirt or the navy vest. No human face, no human hands: animal paws.
+
+The dance, matching [Video 1] second by second, on the beat:
+00:00-00:02: close to the phone, the pet looks back over its shoulder at the camera and nods to the beat.
+00:02-00:05: turns its head to look over the crowd, small nods.
+00:05-00:07.5: leans in and starts the charme step: shoulders bounce up and down, front paws at chest height.
+00:07.5-00:10: body leaning forward, hind legs soft, front legs swing left and right in front of its belly, the paws sliding past each other.
+00:10-00:12.5: a small side step and a side turn, one front paw out to the beat.
+00:12.5-00:15: back to the camera, shoulders bouncing and front legs swinging while the crowd dances along.
+The camera moves exactly as in [Video 1]: one continuous handheld shot, no cuts.
+
+The crowd around the pet dances along and films it, exactly as in [Video 1]. Everyone in the crowd wears plain clothes with no logos, crests or printed words. The moves stay on the beat of [Video 1].
+
+Real live-action phone footage, no distortion. No dialogue throughout the entire video. No background music.
+
+Anatomy rules: one head only, one muzzle, natural teeth and tongue. Two hind legs on the ground and two front legs with animal paws, never a human hand. No extra legs, no extra animals. No text, captions, stickers or watermarks on screen. No logos.
+```
+

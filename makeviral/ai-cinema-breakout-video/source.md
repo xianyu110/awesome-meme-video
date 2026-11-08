@@ -3,7 +3,7 @@
 > An AI cinema breakout video is a shaky phone clip from the front row of a cinema where the film breaks out of the screen.
 
 Canonical: https://www.makeviral.ai/templates/ai-cinema-breakout-video
-Updated: 2026-10-18
+Updated: 2026-11-02
 Published: 2026-09-30
 Author: MakeViral Team (https://www.makeviral.ai/about)
 Publisher: MakeViral (https://www.makeviral.ai)
@@ -172,11 +172,20 @@ This AI cinema video is made to look like a shaky phone clip from a 4D cinema se
 
 - [Giant Bed AI Trend: Make "The Bed of My Dreams" Video](https://www.makeviral.ai/templates/giant-bed-ai-trend): You climb onto a white bed so big it fills the room, crawl across it for ages, and flop into the pillows. One photo of you or your pet in, a 10-second clip with sound out.
 - [Storm AI Trend: Stand Still While the Crowd Bows](https://www.makeviral.ai/templates/storm-ai-trend): You stand calm in the center, dressed in white. Around you, dozens of people in black suits snap, twist and bow on a heavy beat. One photo in, a 10-second clip with sound out.
-- [Earth Zoom Out AI: From a Selfie to Space in One Shot](https://www.makeviral.ai/templates/earth-zoom-out-ai): It starts as a wide 0.5x selfie of you waving. Then the camera rises, and keeps rising: over the city, through the clouds, out to the whole blue Earth.
+- [Pull Out of the TV AI Trend: Someone Steps Out of Your TV and Hugs You](https://www.makeviral.ai/templates/pull-out-of-tv-ai-trend): You sit in your living room. The person on your TV smiles at you, reaches a hand out of the screen, and you pull. The TV frame sparks, they climb out into the room and hug you. Two photos, 10 seconds, with sound.
 - [Nano Banana 2](https://www.makeviral.ai/tools/nano-banana-2-image-generator): Google's image model, in a browser tab, with the reference-image dropzone that makes it useful: up to 14 photos in, one new image out.
 - [AI Reels](https://www.makeviral.ai/tools/ai-reels-generator): Pick a format, give it a topic or a product link, and get a finished vertical reel with voice and captions. Nothing to film, nothing to edit.
 - [AI photo generator](https://www.makeviral.ai/ai-photo-generator)
 - [All AI video templates](https://www.makeviral.ai/templates)
+
+## New AI video trends this week
+
+- [Christmas Dance AI: Do the New TikTok Christmas Dance From Your Photos](https://www.makeviral.ai/templates/christmas-dance-ai-trend): Hip sways with the hands at the collar, rolling arms, a quick spin and raised fists, side by side in matching Christmas pajamas. Add two photos for the duo, one for a solo take, or two pets, and get the dance with the sound.
+- [Cat on Ultra Bee AI: Put Your Pet on the Wheelie](https://www.makeviral.ai/templates/cat-on-ultra-bee-ai-trend): Add one photo, and your cat or dog stands on an electric dirt bike and holds a long wheelie down a city road at golden hour, in the same shots as the viral clip, with its original sound. You can take the ride yourself, too.
+- [Tus Ojos Me Reflejan el Sentimiento: The Cafuné Eye Close-Up Trend](https://www.makeviral.ai/templates/tus-ojos-me-reflejan-ai-trend): You lie on your side, a hand rests on your cheek, warm light falls on your face, and the camera slowly moves in until your eyes fill the screen while the line plays. One photo in, an 8-second vertical clip with the trend's song out.
+- [İnşallah Maşallah AI Trend: Sing Neşe Karaböcek's Song on the Couch](https://www.makeviral.ai/templates/insallah-masallah-ai-trend): You sit on a light grey couch and sing the old Turkish love song straight to the camera: a hand on the heart, a big laugh with both hands on your head, a finger pointed at the camera and a kiss at the end. One photo of you, a grandparent or your pet, and the 15-second clip comes with the song.
+- [Ice Ice Baby Dance AI: Do the Viral Duo Dance With a Friend](https://www.makeviral.ai/templates/ice-ice-baby-dance-ai): Two dancers side by side, the same bouncy 90s steps, a spin on the beat and a strut to the camera. Add a photo of you and a friend, of you alone, or of your pet, and get the dance with the sound.
+- [Save Yourself Trend: Pull Yourself Up From the Cliff](https://www.makeviral.ai/templates/save-yourself-ai-trend): One photo plays both of you: the scared you clinging to a wet sea cliff, and the calm you who reaches down, pulls you up and holds you. Or use two photos: an older photo of you and a new one, or you and a friend. 15 seconds, vertical.
 
 ## Make your own Cinema Breakout video
 

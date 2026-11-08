@@ -51,3 +51,11 @@ Use the uploaded image as the base. Keep the animal's species, breed, face, eye 
 A cute, real home video of the pet in its Halloween costume on a porch at dusk, filmed on a phone at the pet's eye level in one continuous shot. Keep the animal's face, fur, markings and costume exactly as in the image. The pet tilts its head at the camera and its tail wags, then it stands up, trots happily two steps toward the camera, sits down again proudly and gives one happy bark or a soft meow, whichever fits the animal. A few leaves drift past and the jack-o'-lanterns flicker. Natural, real animal motion; the costume stays on and moves with the body. Audio: a playful original pizzicato Halloween tune, paws on the wooden porch, rustling leaves and the one bark or meow. No people, no extra paws, no morphing, no text, no logos.
 ```
 
+### 5. Prompt 5
+
+*Kind: prompt*
+
+```text
+Use the uploaded image as the base. Keep the person's face, facial features, skin tone, hair color, hairstyle, age, height and body shape exactly the same as in the photo. Do not slim, reshape or beautify the face or the body. Dress the person in a cute, well-fitted Halloween costume made for an adult, the people version of the classic pet costume: a soft, round orange pumpkin costume around the body with a little green stem and leaf cap on the head. The face and the hair stay fully visible. The person sits on a wooden porch step at dusk beside carved jack-o'-lanterns glowing warm orange and a few fallen autumn leaves, and smiles at the camera. Warm porch light. A real phone photo taken at eye level, shallow depth of field, natural skin texture. The whole person is in frame, head to shoes, and the face is sharp. Vertical 9:16. Exactly one person, no animals. No camera app interface, no icons, no frames or overlays. No text, no logos, no brand marks.
+```
+

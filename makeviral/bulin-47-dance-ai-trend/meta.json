@@ -6,14 +6,16 @@
   "url": "https://www.makeviral.ai/templates/bulin-47-dance-ai-trend",
   "markdown_url": "https://www.makeviral.ai/templates/bulin-47-dance-ai-trend.md",
   "blurb": "The Bulin 47 dance, also called the Dame Hombro dance, is the dembow routine that swept TikTok in October 2026.",
-  "updated": "2026-10-22",
+  "updated": "2026-10-24",
   "published": "2026-10-22",
   "credits": 60,
   "demo_videos": [
-    "https://www.makeviral.ai/media/templates/bulin-47-dance-ai-trend/original-crew-v2.mp4"
+    "https://www.makeviral.ai/media/templates/bulin-47-dance-ai-trend/original-crew-v2.mp4",
+    "https://www.makeviral.ai/media/templates/bulin-47-dance-ai-trend/original-pet-v2.mp4"
   ],
   "posters": [
-    "https://www.makeviral.ai/media/templates/bulin-47-dance-ai-trend/original-crew-v1.jpg"
+    "https://www.makeviral.ai/media/templates/bulin-47-dance-ai-trend/original-crew-v1.jpg",
+    "https://www.makeviral.ai/media/templates/bulin-47-dance-ai-trend/original-pet-v1.jpg"
   ],
   "prompts": [
     {
@@ -27,6 +29,12 @@
       "variant": null,
       "kind": "video_prompt",
       "text": "Motion transfer and character replacement. Recreate the reference video [Video 1] shot for shot: the same black metal roller shutter on a sunny street, the same pale grey pavement and hard midday sunlight, the same fixed camera at waist height, the same framing, timing and dance moves, one continuous take with no cuts, all three dancers in full view from head to feet. Every move keeps the same timing and rhythm. Three changes only: the three women who dance in a line are now the three people in [Image 1], [Image 2] and [Image 3], always in this order: [Image 1] in the middle, [Image 2] on the left, [Image 3] on the right, in every frame.\n\nThe dancer in the middle, a step in front, who leads = the person in [Image 1], never the woman with very long straight brown hair in the tight red mini dress of the original video.\nThe dancer on the left = the person in [Image 2], never the woman with wavy light brown hair in the black crop top and the grey mini skirt.\nThe dancer on the right = the person in [Image 3], never the woman with the dark bob, the sunglasses on her head, the white long-sleeved crop top and the grey leggings.\n\nEach one, in every frame, also when they turn sideways: copy the exact face from their own image (face shape, eye color and eye shape, eyebrows, nose, mouth, skin tone, age, hair color, hair length and hairstyle, and any beard, moustache, glasses or freckles exactly as in the photo), and strictly keep the body, the clothes and the shoes from their own image, so their friends instantly recognize all three. If a photo shows only the head or the upper body, invent the rest so it matches naturally. Never morph, never drift back to the original dancers' faces, never mix the three faces, never add or remove facial hair. All three change: no one from the video stays. No red mini dress, no black crop top, no grey mini skirt and no sunglasses on the head unless an image shows them.\n\nThe dance, matching the reference second by second, on the beat:\n0-5.5 s: all three stand turned to the side, fists at the chest, and groove with small elbow rolls and hip sways.\n5.5-6.5 s: they turn to the camera, the hands at the chest.\n6.5-8 s: hands at the chest and quick shoulder bounces.\n8-10.5 s: the middle dancer leans toward the camera; all three swing their arms out wide, lean and dip low, hair swinging.\n10.5-12 s: hands at the chest and by the face, a heart shape.\n12-13.5 s: shoulder bounces with small squats on the beat.\n\nSmooth moves, solid footing, the light stays the same. Anatomy rules: one head per dancer, on their own shoulders. A face never appears on knees, legs, hands or clothes. Two arms and two legs each, no extra limbs. Exactly three people: the identities never drift, no extra people on the street. No text, no subtitles, no logos, no watermark."
+    },
+    {
+      "label": "1. The video prompt is filled in. Settings: Seedance 2.5, 14 s, 720p, 9:16, sound off. The video prompt",
+      "variant": "Pet",
+      "kind": "video_prompt",
+      "text": "Motion transfer and character replacement. Recreate the reference video [Video 1] shot for shot: the same sunny kitchen with the steel fridge, the wooden cabinets and the white tiled floor, the same fixed phone camera, the same framing, timing and dance moves, one continuous take with no cuts, the dancer in full view from the ears to the feet. Every move keeps the same timing and rhythm. The ONLY change: the dog who stands upright on its hind legs in the middle of the kitchen and dances is now the pet in [Image 1].\n\nThe dancer = the pet in [Image 1], in EVERY frame: the same species and breed, head shape, muzzle, eyes, ears, fur colors, fur length and markings as in [Image 1], with the natural body volume and proportions of that animal: never flattened, squashed, stretched or merged with anything, so its owner instantly recognizes it from the first second to the last. A dog stays a dog and a cat stays a cat: if [Image 1] shows a cat or another animal, that animal stands upright on its hind legs in the same kitchen and dances the same moves, with its own face, ears, whiskers and tail. Never drift back to the dog of the original video: not the coat, not the face and not the ears of the dog in the video, unless [Image 1] shows them. No clothes, no collar and no accessories unless [Image 1] shows them.\n\nThe dance, beat by beat, exactly as in [Video 1], upright on the hind legs the whole time:\n0-2.5 s: side-on to the camera, the front paws roll in front of the chest and the hips sway.\n2.5-3.5 s: it turns to the camera with small paw pumps, then a paw on the chest.\n3.5-5.5 s: the front paws cross at the chest, quick shoulder bounces and a little bounce on the hind legs.\n5.5-7.5 s: both front legs sweep out wide, and it leans and tilts the head from side to side.\n7.5-9.5 s: one paw comes up beside the face, then the front paws make a heart shape at the chest.\n9.5-11.5 s: the paws roll and cross at the chest with small shoulder shimmies.\n11.5-14 s: a paw at the mouth, then it turns side-on again with the tail out and bounces to the end.\n\nSmooth moves, solid footing, the light stays the same. Real live-action footage, a clear and stable face, real animal anatomy, the same pet with the same fur in every frame.\n\nAnatomy rules: one head only. Two hind legs and two front legs, furry paws covered in the pet's own fur, never human hands or fingers, no extra legs or paws. Exactly one animal: the identity never drifts, no people, no extra animals. No text, no captions, no logos, no watermark."
     }
   ],
   "variant_headings": [
@@ -39,8 +47,9 @@
     "How long is the video, and what format is it?",
     "Is this an official Bulin 47 video maker?",
     "Other AI video templates and tools",
+    "New AI video trends this week",
     "Make your own Bulin 47 Dance video"
   ],
-  "prompt_count": 2,
-  "scraped_at": "2026-10-23"
+  "prompt_count": 3,
+  "scraped_at": "2026-11-08"
 }

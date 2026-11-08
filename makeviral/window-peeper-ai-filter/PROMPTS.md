@@ -48,3 +48,33 @@ NO cuts, NO instant zoom, NO morphing faces, NO distorted hands, NO smiling at c
 Audio: quiet night city ambience, the crinkle of the paper bag, soft chewing, a fabric swish when the curtain closes. No music, no speech.
 ```
 
+### 2. 1. The video prompt is filled in. Settings: Seedance 2.5, 10 s, 720p, 9:16, sound on. The video prompt (Pet)
+
+*Kind: video_prompt*
+
+```text
+Create a photorealistic single-take 10-second vertical video of the pet in [Image 1], caught eating a burger alone at a lit window at night, like a real phone video filmed from across the street. Never write the words of this prompt, photo labels or file names as text anywhere in the video.
+
+The building exterior: the nighttime facade of a modern apartment building with many windows. Only one window is lit, with warm amber interior light; all the other windows are dark. A dark window frame, a long cream curtain at the side of the window. Right behind the glass: a small wooden table with a big burger, a plain brown paper takeaway bag and an open plain red burger box, with no logo and no writing. ONE SINGLE CONTINUOUS SHOT, NO CUTS: a slow, smooth, physical camera push-in toward that window, NOT a digital zoom, NOT a sudden crop.
+
+The only animal in the video is the single pet shown in [Image 1], throughout the entire shot. Use [Image 1] as the identity reference: preserve its species and breed, face shape, eyes, muzzle, ears, coat color, fur length and distinctive fur markings, with the natural body volume and proportions of that animal, adapting its pose naturally to the action, so its owner recognizes it at once. A dog stays a dog and a cat stays a cat. No clothes, no collar and no accessories unless [Image 1] shows them. Do not copy the background from the photo. Do not substitute a preset cat or dog.
+
+At the start the pet is small in the distant lit window; the camera approaches the window as the pet, sitting upright on a chair at the table, holds the hamburger with both front paws and eats with funny contented chewing. It notices the camera, pauses with a lovable caught-in-the-act expression, lowers the burger onto the table, and rises upright at the end, looking toward the camera.
+
+0-2.5 s: the camera pushes in from the far facade until the window fills the frame; the pet is seen from the chest up, its face large and sharp.
+
+2.5-4 s: the pet holds the burger with both front paws and takes a big bite, completely unaware of the camera.
+
+4-7.5 s: it notices the camera, freezes mid-chew with full cheeks and stares straight into the lens, deadpan, caught in the act. It does NOT run away.
+
+7.5-8.5 s: still staring, it slowly lowers the burger onto the box.
+
+8.5-10 s: it rises upright on its hind legs behind the table, front paws on the table edge, and keeps looking straight at the camera until the end.
+
+Preserve coherent paws, burger and face throughout, realistic fur, natural anatomy and the original understated comic mood. Furry paws in the pet's own fur, never human hands or fingers; one head, its own ears and tail.
+
+No humans, no extra pets, no added text or logos: NO logos, brand names or writing on the bag, the box, the window or anywhere, no subtitles, no watermark. NO cuts, NO instant zoom, NO morphing.
+
+Audio: quiet night city ambience, the crinkle of the paper bag, soft contented munching. No music, no speech.
+```
+

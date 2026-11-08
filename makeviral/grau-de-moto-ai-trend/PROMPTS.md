@@ -1,0 +1,126 @@
+# Grau de Moto AI Video: You Pull the Wheelie
+
+- Source: [makeviral](https://www.makeviral.ai/templates/grau-de-moto-ai-trend)
+- Slug: `grau-de-moto-ai-trend`
+
+Grau de moto is Brazilian slang for a motorcycle wheelie, and grau clips are one of the biggest riding scenes on TikTok and Instagram.
+
+## Demo videos (CDN)
+
+- https://www.makeviral.ai/media/templates/grau-de-moto-ai-trend/original-main-v2.mp4
+- https://www.makeviral.ai/media/templates/grau-de-moto-ai-trend/original-pets-v2.mp4
+- https://www.makeviral.ai/media/templates/grau-de-moto-ai-trend/original-superbike-v2.mp4
+
+## Posters
+
+- https://www.makeviral.ai/media/templates/grau-de-moto-ai-trend/original-main-v1.jpg
+- https://www.makeviral.ai/media/templates/grau-de-moto-ai-trend/original-pets-v1.jpg
+- https://www.makeviral.ai/media/templates/grau-de-moto-ai-trend/original-superbike-v1.jpg
+
+## Prompts
+
+### 1. 1. The video prompt is filled in. Settings: Seedance 2.5, 11 s, 720p, 9:16, sound off. The video prompt
+
+*Kind: video_prompt*
+
+```text
+Keep the same scene of the video, with the same place of the video, with no watermark, make the video more real and keep the quality the video has, do not change the scenery, put the person in [Image 1] in without changing their clothes, the same features as in the photo.
+
+Recreate the reference video [Video 1] shot for shot: one continuous handheld take at dusk on a quiet paved street between low houses, a white trail motorcycle with black graphics and two tall white hand guards, a red light glowing on the road under the engine, the same camera moves, timing and stunt. The ONLY change: the rider is now the person in [Image 1].
+
+The rider = the person in [Image 1], in EVERY frame: copy the exact face from [Image 1]: face shape, eye color and eye shape, eyebrows, nose, mouth, skin tone, age, hair color, hair length and hairstyle, and any beard, moustache, glasses or freckles exactly as in the photo. The rider wears the clothes from [Image 1]; if [Image 1] shows only the head or the upper body, invent the rest so it matches naturally. The same real person in every frame, so their friends instantly recognize them, also while the rider hangs low off the side of the bike. Never morph, never drift back to the original rider's face. NO tattoos, NO short black fade haircut, NO thin beard and NO plain black T-shirt unless [Image 1] shows them.
+
+The stunt, second by second, exactly as in [Video 1]:
+0-1.5s: the camera follows from behind on the left; the rider rides down the street, a red drink can in the right hand, the red tail light on.
+1.5-2.5s: the camera comes alongside; the rider pulls the front wheel up.
+2.5-4s: a high wheelie on the back wheel, the rider sits back, the left hand on the handlebar, the can in the right hand, and glances at the camera.
+4-6s: still in the wheelie, the rider slides down off the right side of the seat, the left arm stretched up to the handlebar.
+6-11s: the rider hangs low off the right side, the right hand with the can scraping along the asphalt in the red glow, the front wheel high in the air, the camera close beside, to the end.
+
+Real live-action phone footage, a calm, focused face, natural motion blur. The motorcycle never falls.
+
+No dialogue throughout the entire video. No background music.
+
+Anatomy rules: exactly one rider and one motorcycle, one head on the rider's shoulders, two arms and two hands with five fingers each. No extra people. No text, no captions, no watermark, no readable license plate.
+```
+
+### 2. 1. The video prompt is filled in. Settings: Seedance 2.5, 15 s, 720p, 9:16, sound off. The video prompt
+
+*Kind: video_prompt*
+
+```text
+Keep the same scene of the video, with the same place of the video, with no watermark, make the video more real and keep the quality the video has, do not change the scenery, put the person in [Image 1] in without changing their clothes, the same features as in the photo.
+
+Recreate the reference video [Video 1] shot for shot: one continuous take filmed from a second motorcycle on a wide, empty new road between red-earth fields under a grey cloudy sky, a black and yellow sport motorcycle, the same camera moves, timing and wheelies. The ONLY change: the rider is now the person in [Image 1].
+
+The rider = the person in [Image 1], in EVERY frame: copy the exact face from [Image 1]: face shape, eye color and eye shape, eyebrows, nose, mouth, skin tone, age, hair color, hair length and hairstyle, and any beard, moustache, glasses or freckles exactly as in the photo. The rider wears the clothes from [Image 1]; if [Image 1] shows only the head or the upper body, invent the rest so it matches naturally. The same real person in every frame, so their friends instantly recognize them, in the close-ups and when the rider is small in the distance. Never morph, never drift back to the original rider's face. NO sunglasses, NO cap, NO tattoos and NO black and gold patterned shirt or shorts unless [Image 1] shows them: the face stays fully visible.
+
+The ride, second by second, exactly as in [Video 1]:
+0-3.5s: close-up, the rider rides right beside the camera and grins into it, the face big in the frame.
+3.5-5.5s: the rider pulls ahead down the road and lifts the front wheel, seen from behind.
+5.5-7.5s: the front wheel comes down; the camera comes alongside, the rider rides seated and looks over.
+7.5-10.5s: ahead again, a long wheelie down the empty road, seen from behind.
+10.5-13s: from the side, a tall wheelie, almost upright, the rider leaning back, then the front comes down by a white crosswalk.
+13-15s: the rider rides back toward the camera, relaxed, the face clear.
+
+Real live-action phone footage, natural motion blur, wind in the hair and the clothes. The motorcycle never falls.
+
+No dialogue throughout the entire video. No background music.
+
+Anatomy rules: exactly one rider on the sport motorcycle, one head on the rider's shoulders, two arms and two hands with five fingers each. No extra people. No text, no captions, no watermark, no readable license plate.
+```
+
+### 3. 1. The video prompt is filled in. Settings: Seedance 2.5, 11 s, 720p, 9:16, sound off. The video prompt (Pet)
+
+*Kind: video_prompt*
+
+```text
+Keep the same scene of the video, with the same place of the video, with no watermark, make the video more real and keep the quality the video has, do not change the scenery, put the pet in [Image 1] in, the same features as in the photo.
+
+Recreate the reference video [Video 1] shot for shot: one continuous handheld take at dusk on a quiet paved street between low houses, a white trail motorcycle with black graphics and two tall white hand guards, a red light glowing on the road under the engine, the same camera moves, timing and wheelie. The ONLY change: the rider is now the pet in [Image 1].
+
+The pet = the pet in [Image 1], in EVERY frame: the same species and breed, face, eyes, ears, muzzle, fur colors, fur length and markings as in [Image 1], with the natural body volume and proportions of that animal: never flattened, squashed, stretched or merged with anything. Whether [Image 1] shows a dog, a cat or another animal, it stays that animal, never a person, never a human face, never human hands. The same pet in every frame, so its owner instantly recognizes it. No person from [Video 1] stays: no rider in a black T-shirt, no can.
+
+The stunt, second by second, exactly as in [Video 1]:
+0-1.5s: the camera follows from behind on the left; the pet sits on the seat, front paws on the handlebar, and rides down the street, the red tail light on.
+1.5-2.5s: the camera comes alongside; the front wheel lifts.
+2.5-4s: a high wheelie on the back wheel, the pet sits back on the seat and glances at the camera.
+4-6s: still in the wheelie, the pet leans down off the right side, one front paw on the handlebar.
+6-11s: the pet hangs low off the right side, the other front paw touching the asphalt in the red glow, the front wheel high in the air, the camera close beside, to the end.
+
+Real live-action phone footage, wind in the fur and the ears, natural motion blur. The motorcycle never falls.
+
+No dialogue throughout the entire video. No background music.
+
+Anatomy rules: exactly one animal and one motorcycle, one head, one muzzle, four legs with animal paws, never a human hand. No people, no extra animals. No text, no captions, no watermark, no readable license plate.
+```
+
+### 4. 1. The video prompt is filled in. Settings: Seedance 2.5, 11 s, 720p, 9:16, sound off. The video prompt (Pet)
+
+*Kind: video_prompt*
+
+```text
+The two pets must be one to one as in [Image 1] and [Image 2]. Keep the same scene of the video, with the same place of the video, with no watermark, make the video more real and keep the quality the video has, do not change the scenery, put the two pets in, the same features as in the photos.
+
+Recreate the reference video [Video 1] shot for shot: one continuous handheld take at night on a wide lit highway, a white sport motorcycle with red and blue trim, its headlight and orange turn signals on, two animals on it, the same camera moves, timing, lean and wheelie. The ONLY change: the rider at the handlebar is now the pet in [Image 1], and the passenger behind it is now the pet in [Image 2].
+
+The rider = the pet in [Image 1], in EVERY frame: the same species and breed, face, eyes, ears, muzzle, fur colors, fur length and markings as in [Image 1], with the natural body volume and proportions of that animal: never flattened, squashed, stretched or merged with anything.
+The passenger = the pet in [Image 2], in EVERY frame, by the same rules: the same species and breed, face, eyes, ears, muzzle, fur colors, fur length and markings as in [Image 2], with its natural body volume and proportions.
+Whether a photo shows a dog, a cat or another animal, it stays that animal, never a person, never a human face, never human hands. Never blend the two pets: each keeps its own face and coat from the first frame to the last, so its owner instantly recognizes it. Both change: no animal from [Video 1] stays, also in the shots from behind. Never the face, the ears or the coat of the dogs in the video.
+
+The ride, second by second, exactly as in [Video 1]:
+0-0.5s: a side view from the left, the motorcycle leans hard; the rider hangs off the left side, one hind leg reaching down to the asphalt; the passenger sits on the back of the seat.
+0.5-3s: the camera rides alongside on the left; the rider sits up with both front paws on the handlebar, the passenger right behind it, and the motorcycle leans through a fast bend.
+3-5.5s: the camera drops to the front left; the motorcycle comes on with its headlight and orange turn signals on, the rider at the handlebar, the passenger's head at its shoulder.
+5.5-6.5s: a close side view; the rider glances at the camera, the passenger hugs the rider from behind.
+6.5-7.5s: the front wheel lifts.
+7.5-10s: the camera follows from behind on the left; a tall wheelie on the back wheel down the highway and under a concrete overpass, the passenger holding on at the back.
+10-11s: still on the back wheel, the rider turns around and the two pets hug, both upright on the motorcycle, to the end.
+
+Real live-action phone footage at night, wind in the fur, natural motion blur. The motorcycle never falls.
+
+No dialogue throughout the entire video. No background music.
+
+Anatomy rules: exactly two animals and one motorcycle, each animal with one head, one muzzle and four legs with animal paws, never a human hand. No people, no extra animals. No text, no captions, no watermark, no logos, no readable license plate.
+```
+

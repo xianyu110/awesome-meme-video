@@ -3,7 +3,7 @@
 > The diamond miner meme is the old picture of a miner who gives up one swing before the diamonds.
 
 Canonical: https://www.makeviral.ai/templates/diamond-miner-meme-ai
-Updated: 2026-10-22
+Updated: 2026-10-30
 Published: 2026-10-22
 Author: MakeViral Team (https://www.makeviral.ai/about)
 Publisher: MakeViral (https://www.makeviral.ai)
@@ -12,11 +12,11 @@ The **diamond miner meme** is the old picture of a miner who gives up one swing 
 
 You dig, you quit for a slot game on your phone, a diamond drops into your hand, the screen says "STOP BEING DISTRACTED." and one more swing opens a wall of diamonds. The whole viral reel, with your face.
 
-Also called: Diamond mining meme, Digging for diamonds meme, Quit before diamonds meme, Keep digging meme, Stopping before diamonds meme, Never give up diamond digging meme, Stop being distracted video.
+Also called: Diamond mining meme, Digging for diamonds meme, Quit before diamonds meme, Keep digging meme, Stopping before diamonds meme, Never give up diamond digging meme, Stop being distracted video, Meme del minero y los diamantes.
 
 **Make it now:** [Make this video](https://www.makeviral.ai/templates/diamond-miner-meme-ai/create). 1 photo · 28 s · 9:16 with sound · 191 credits, charged once · ready in up to several minutes · no prompt to write.
 
-Keyword: diamond miner meme. Also answers: diamond miner meme gambling, diamond miner meme template, diamond miner meme generator, mining diamonds meme, diamond miner meme ai, diamond miner meme variations, miner quit before diamonds, diamond mining meme gambling, diamond miner casino meme, diamond miner meme video, miner meme gambling, keep digging meme diamonds, don't give up diamond mine meme, diamond miner giving up, stop digging diamonds meme, diamond mining meme maker, miner meme.
+Keyword: diamond miner meme. Also answers: diamond miner meme gambling, diamond miner meme template, diamond miner meme generator, mining diamonds meme, diamond miner meme ai, diamond miner meme variations, miner quit before diamonds, diamond mining meme gambling, diamond miner casino meme, diamond miner meme video, meme diamond miner, miner turning back meme, diamond miner gambling meme, miner before diamonds, gambling miner picture, diamond mining meme generator, diamond at the end of the tunnel meme, dimond miner meme, miner about to hit diamonds, miner stopping before diamonds, miner stops before diamonds, diamon miner meme, gambler diamond meme, gambling diamond miner, miner meme, miner turning away from diamonds, meme minatore diamanti, miner meme gambling, keep digging meme diamonds, don't give up diamond mine meme, diamond miner giving up, stop digging diamonds meme, diamond mining meme maker, minero diamantes meme.
 
 ## What is the Diamond Miner Meme trend, and where did it start?
 
@@ -120,7 +120,7 @@ This diamond miner meme AI copies the viral reel shot for shot and puts your fac
 
 Both, in a way. The classic diamond miner meme template is a still picture you caption. This page is a diamond miner meme generator for video: it makes the moving version, with you as the miner, from one photo and no prompt. Most diamond miner meme variations change the caption; this one changes the face.
 
-The gambling twist is the slot game in the miner's eyes, so the clip also works as a diamond miner casino meme or a miner meme gambling joke. The slot game in the video is a generic screen with colored lights: no real casino, no app name, no logo.
+The gambling twist is the slot game in the miner's eyes, so the clip also works as a diamond miner casino meme or a miner meme gambling joke. Some people call it the gambler diamond meme. The slot game in the video is a generic screen with colored lights: no real casino, no app name, no logo.
 
 Want more meme reels with your face? Try [Phone on the train](https://www.makeviral.ai/templates/phone-on-train-trend), another long reel that you replace the star of, or the [ChatGPT millionaire trend](https://www.makeviral.ai/templates/chatgpt-millionaire-ai-trend).
 
@@ -147,7 +147,11 @@ Your video comes with the reel's music, so it is ready to post. You can turn the
 
 ### What is the diamond miner meme?
 
-It is a picture of a miner who gives up one swing before a wall of diamonds, while another miner keeps digging. It means "don't quit just before you make it". People share it as the mining diamonds meme, the stop digging diamonds meme and the don't give up diamond mine meme.
+It is a picture of a miner who gives up one swing before a wall of diamonds, while another miner keeps digging. It means "don't quit just before you make it": the miner stops before diamonds he cannot see, just when he is about to hit them. People share it as the mining diamonds meme, the stop digging diamonds meme and the don't give up diamond mine meme.
+
+### Is this the miner before diamonds meme?
+
+Yes, it is the same picture under another name. Some people search for the miner stopping before diamonds, because he gives up one swing too early. In the drawing he is the miner turning away from the diamonds just behind the rock. That is why others call it the miner turning back meme. Some describe it as the diamond at the end of the tunnel meme, and some type it as the dimond miner meme or the diamon miner meme. In Spanish, people search for the meme del minero y los diamantes. In Italian it is the meme minatore diamanti.
 
 ### What is the diamond miner meme gambling version?
 
@@ -163,7 +167,7 @@ The viral AI film is by the creator @sixtyrich, posted on Instagram on 19 Octobe
 
 ### Is the diamond miner giving up meme about gambling?
 
-Not always. The classic picture is about giving up too early on anything: a job, a goal, a gym habit. The gambling twist came later. In the AI reel the miner quit before diamonds because of a slot game, then came back and won.
+Not always. The classic picture is about giving up too early on anything: a job, a goal, a gym habit. The gambling twist came later. In the AI reel the miner quit before diamonds because of a slot game, then came back and won. So the gambling diamond miner gets a happy ending that the old picture never gives him.
 
 ### How long is the video, and what format is it?
 
@@ -173,7 +177,7 @@ About 28 seconds, in the 4:3 frame of the original reel, as an MP4 with the reel
 
 Yes, with a photo of a friend who agreed. Use your own photo or adults who said yes. Never a celebrity, a public figure or a stranger: a fake video of a real person can break platform rules and that person's rights.
 
-### Is there a diamond mining meme maker for the still picture?
+### Is there a diamond mining meme maker or generator for the still picture?
 
 This page makes the video, not the still. If you only need the picture with your own caption, any image editor works. If you want yourself as the miner in a moving, 28-second version, this diamond mining meme maker does it from one photo.
 
@@ -190,6 +194,15 @@ No. MakeViral is not connected with @sixtyrich. This template copies the shots o
 - [AI Reels](https://www.makeviral.ai/tools/ai-reels-generator): Pick a format, give it a topic or a product link, and get a finished vertical reel with voice and captions. Nothing to film, nothing to edit.
 - [AI photo generator](https://www.makeviral.ai/ai-photo-generator)
 - [All AI video templates](https://www.makeviral.ai/templates)
+
+## New AI video trends this week
+
+- [Christmas Dance AI: Do the New TikTok Christmas Dance From Your Photos](https://www.makeviral.ai/templates/christmas-dance-ai-trend): Hip sways with the hands at the collar, rolling arms, a quick spin and raised fists, side by side in matching Christmas pajamas. Add two photos for the duo, one for a solo take, or two pets, and get the dance with the sound.
+- [Cat on Ultra Bee AI: Put Your Pet on the Wheelie](https://www.makeviral.ai/templates/cat-on-ultra-bee-ai-trend): Add one photo, and your cat or dog stands on an electric dirt bike and holds a long wheelie down a city road at golden hour, in the same shots as the viral clip, with its original sound. You can take the ride yourself, too.
+- [Tus Ojos Me Reflejan el Sentimiento: The Cafuné Eye Close-Up Trend](https://www.makeviral.ai/templates/tus-ojos-me-reflejan-ai-trend): You lie on your side, a hand rests on your cheek, warm light falls on your face, and the camera slowly moves in until your eyes fill the screen while the line plays. One photo in, an 8-second vertical clip with the trend's song out.
+- [İnşallah Maşallah AI Trend: Sing Neşe Karaböcek's Song on the Couch](https://www.makeviral.ai/templates/insallah-masallah-ai-trend): You sit on a light grey couch and sing the old Turkish love song straight to the camera: a hand on the heart, a big laugh with both hands on your head, a finger pointed at the camera and a kiss at the end. One photo of you, a grandparent or your pet, and the 15-second clip comes with the song.
+- [Ice Ice Baby Dance AI: Do the Viral Duo Dance With a Friend](https://www.makeviral.ai/templates/ice-ice-baby-dance-ai): Two dancers side by side, the same bouncy 90s steps, a spin on the beat and a strut to the camera. Add a photo of you and a friend, of you alone, or of your pet, and get the dance with the sound.
+- [Save Yourself Trend: Pull Yourself Up From the Cliff](https://www.makeviral.ai/templates/save-yourself-ai-trend): One photo plays both of you: the scared you clinging to a wet sea cliff, and the calm you who reaches down, pulls you up and holds you. Or use two photos: an older photo of you and a new one, or you and a friend. 15 seconds, vertical.
 
 ## Make your own Diamond Miner Meme video
 

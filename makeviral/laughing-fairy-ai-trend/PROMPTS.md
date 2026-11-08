@@ -7,11 +7,13 @@ The laughing fairy meme is the viral AI clip of two tiny, pale forest fairies wh
 
 ## Demo videos (CDN)
 
+- https://www.makeviral.ai/media/templates/laughing-fairy-ai-trend/original-bluti-v2.mp4
 - https://www.makeviral.ai/media/templates/laughing-fairy-ai-trend/original-laugh-v2.mp4
 - https://www.makeviral.ai/media/templates/laughing-fairy-ai-trend/original-main-v2.mp4
 
 ## Posters
 
+- https://www.makeviral.ai/media/templates/laughing-fairy-ai-trend/original-bluti-v1.jpg
 - https://www.makeviral.ai/media/templates/laughing-fairy-ai-trend/original-laugh-v1.jpg
 - https://www.makeviral.ai/media/templates/laughing-fairy-ai-trend/original-main-v1.jpg
 
@@ -55,5 +57,28 @@ One continuous shot with no cuts, like a real phone video filmed at night with t
 1-4 s: the fairy on the right cups a hand by its mouth and whispers into the left fairy's ear in a squeaky made-up fairy babble. The left fairy listens, its eyes go wide and its mouth drops open in a gasp.
 4-8 s: both fairies burst into high-pitched, wheezing giggles: they cover their mouths, rock back and forth, kick their tiny feet, and one nearly topples off the branch laughing, glancing at the camera between laughs.
 Audio: crickets and a quiet night forest, the squeaky whispered fairy babble with no real words, then shrill, wheezy, contagious giggles. No music. Each face stays exactly the face from the image in every frame, also while laughing with the mouth wide open. Exactly two fairies, no people, no other creatures. No blood, no sharp teeth, no morphing, no extra limbs. No text, no subtitles, no logos, no watermark.
+```
+
+### 5. 1. The video prompt is filled in. Settings: Seedance 2.5, 12 s, 720p, 9:16, sound off. The video prompt
+
+*Kind: video_prompt*
+
+```text
+Recreate the reference video [Video 1] shot for shot: the same two small pale fairies on wet moss in a dark forest at night, the same phone flash, the same very tall fairy who struts past, the same camera, cut, timing, moves and mouth moves. The ONLY change: the faces and the hair of the two small fairies. [Image 1] becomes the small round-bellied fairy on the LEFT, and [Image 2] becomes the slim winged fairy on the RIGHT. Both change, also in the wide shot where the faces are small.
+
+The left fairy = the person in [Image 1], in EVERY frame: copy the exact face from [Image 1] (face shape, eye color and eye shape, eyebrows, nose, mouth, skin tone, age, hair color, hair length and hairstyle, and any beard, moustache, glasses or freckles exactly as in the photo) on the tiny fairy's head, with long pointed fairy ears sticking out through the hair. Its skin has the skin tone from [Image 1]. It keeps the tiny size, the round belly, the thin arms and legs and every move of the left fairy in [Video 1]. NO fuzzy white hair unless [Image 1] shows white hair. Never the clothes from [Image 1].
+
+The right fairy = the person in [Image 2], in EVERY frame, copied from [Image 2] in the same way, with the long pointed ears, the see-through insect wings, the thin body and every move of the right fairy in [Video 1]. NO spiky white hair unless [Image 2] shows white hair. Never the clothes from [Image 2].
+
+If an image shows an animal, that fairy has the animal's own face, fur colors and markings on the tiny fairy body. Never blend the two faces: [Image 1] is only the left fairy, [Image 2] is only the right fairy. The same two faces in every frame, so their friends recognize them at once. Never drift back to the faces from the video. Both stay hand-sized fairies, never full-size people.
+
+The tall fairy stays exactly as in [Video 1] and never gets a face from the photos.
+
+Shot 1 [0-6.3s]: one handheld take near the ground: the wet leaf slides away from the lens and the two small fairies stand close together on the moss. From about 2 s the tall fairy walks in from the left, struts across in front of them, twirls with a proud swish of its long gown, and struts out of the frame on the right. The two small fairies stand still and watch.
+Shot 2 [6.3-11.9s]: hard cut, closer, the two small fairies from the knees up: the left fairy lifts one arm high in a mocking pose and squeaks a short line, then both burst into wild, wheezing laughter, heads back, mouths wide open, bending and shaking, until they tumble out of the frame.
+
+The mouths open and close exactly when the fairies' mouths do in [Video 1]; each face stays the face from its photo, also while laughing with the mouth wide open.
+
+Real night-time phone footage with the flash on, like found footage. Anatomy rules: one head each, on its own shoulders. Exactly three fairies, no people, no other creatures. No blood, no sharp teeth, no extra limbs. No text, no captions, no logos, no watermark.
 ```
 

@@ -3,7 +3,7 @@
 > An AI dog dancing video is a short clip where your own dog, or cat, stands upright in your home and dances like a person: side steps, paw waves, a spin and a proud final pose.
 
 Canonical: https://www.makeviral.ai/templates/ai-dancing-dog-video
-Updated: 2026-10-12
+Updated: 2026-10-29
 Published: 2026-09-30
 Author: MakeViral Team (https://www.makeviral.ai/about)
 Publisher: MakeViral (https://www.makeviral.ai)
@@ -16,7 +16,7 @@ Also called: AI dancing dog, Dog dancing AI, AI cat dancing, AI pet dance, AI da
 
 **Make it now:** [Make this video](https://www.makeviral.ai/templates/ai-dancing-dog-video/create). 1 photo · 10 s · 9:16 with sound · 128 credits, charged once · ready in a few minutes · no prompt to write.
 
-Keyword: ai dog dancing. Also answers: ai dog dance, ai cat dance, ai dog dancing gif, ai dancing video generator, ai dance dog, dancing dog ai, how to make ai dancing video, dancing cat ai, ai dog dancing meme, ai dancing animals, ai dancing trend, ai dog dancing video, dog dancing ai meme, make my dog dance, ai dog dancing tiktok, dog dancing ai video, ai cat dancing video, make my dog dance ai, ai dog dancing app, how to make ai dog dancing video, ai dancing dog video, ai dog dancing generator, dog dancing ai generator, pet dance ai, ai dog dancing video generator, make your dog dance ai, dog dancing ai app, ai dog dancing trend, ai video of my dog dancing, pet dance trend, ai pet dancing video, dog dance trend, dog dancing ai trend, dog dancing ai prompt, ai dog dancing tutorial, ai dog dancing prompt, ai dog dancing maker, make my dog dance ai video, how to do ai dog dancing trend, ai dog and cat dancing, ai dog dancing template, ai dog dancing viral, dog dance trend ai.
+Keyword: ai dog dancing. Also answers: ai dog dance, ai cat dance, ai dog dancing gif, ai dancing video generator, ai dance dog, dancing dog ai, how to make ai dancing video, dancing cat ai, ai dog dancing meme, ai dancing animals, ai dogs dancing, dancing ai dog, ai dancing dogs, dog ai dance, ai cat dance video generator, ai dancing trend, ai dog dancing video, ai video dog dancing, dog ai dancing, dog dancing ai meme, dog dancing videos ai, pet dancing ai, make my dog dance, ai dog dancing tiktok, dog dancing ai video, ai cat dancing video, make my dog dance ai, ai dog dancing app, how to make ai dog dancing video, ai dancing dog video, ai dog dancing generator, dog dancing ai generator, pet dance ai, ai animals dancing, ai cat dance video, ai dancing, ai dog dance video, dog ai meme dancing, dog ai videos, dog dance ai, dog dancing video ai, dogs dancing ai, dancing dogs ai, dog ai dancing video, ai dancing dog meme, ai dancing video, ai dancing video trend, ai dog dance video download, ai trending dance video, dancing ai, dancing ai dogs, dancing dog ai meme, dancing dog ai video, ai dog dancing video generator, make your dog dance ai, dog dancing ai app, ai dog dancing trend, ai video of my dog dancing, pet dance trend, ai pet dancing video, dog dance trend, dog dancing ai trend, dog dancing ai prompt, ai dog dancing tutorial, ai dog dancing prompt, ai dog dancing maker, make my dog dance ai video, how to do ai dog dancing trend, ai dog and cat dancing, ai dog dancing template, ai dog dancing viral, dog dance trend ai, ai dog dancing in kitchen, dog dancing in kitchen ai, ai dog dancing german shepherd, german shepherd dancing ai.
 
 ## What is the Dancing Pet trend, and where did it start?
 
@@ -42,6 +42,9 @@ Made from the prompts on this page. The people and pets are AI-made, not real pe
   - Video: https://www.makeviral.ai/media/templates/ai-dancing-dog-video/example.mp4
   - Poster: https://www.makeviral.ai/media/templates/ai-dancing-dog-video/example-poster.jpg
   - Input photo: https://www.makeviral.ai/media/templates/ai-dancing-dog-video/example-input.jpg
+- **Example 2** (15 s, 9:16 MP4 with sound): The trend's template clip for the Kitchen dance version: an AI-made German shepherd stands up in a bright white kitchen, waves its paws to the beat, leans into the lens and gives a paw high-five.
+  - Video: https://www.makeviral.ai/media/templates/ai-dancing-dog-video/original-kitchen-v2.mp4
+  - Poster: https://www.makeviral.ai/media/templates/ai-dancing-dog-video/original-kitchen-v1.jpg
 
 ## How to make the Dancing Pet video on MakeViral
 
@@ -56,6 +59,8 @@ Everything runs in the browser. No editing app, no watermark.
 ### The by-hand way, with the exact prompts
 
 The one-tap flow runs these prompts for you. A photo prompt puts your photo into the scene (Nano Banana 2.1, image mode, 9:16, 1K), then a video prompt animates that still. To change them, copy them and edit them in AI Photo and AI Video.
+
+#### Variant: Dancing pet
 
 Settings: 1 photo (your pet, whole body) · Seedance 2.5 · 10 s · 720p · 9:16 · with sound · 128 credits in one tap.
 
@@ -75,6 +80,64 @@ Settings: 1 photo (your pet, whole body) · Seedance 2.5 · 10 s · 720p · 9:16
 4. Press Generate, then download the 9:16 MP4.
 
 One-tap version of this variant: https://www.makeviral.ai/templates/ai-dancing-dog-video/create
+
+#### Variant: Kitchen dance
+
+Settings: 1 photo (your pet, face and whole body) · Seedance 2.5 · 15 s · 720p · 9:16 · no sound · 228 credits in one tap.
+
+1. The video prompt is filled in. Settings: Seedance 2.5, 15 s, 720p, 9:16, sound off. The video prompt:
+
+   ```text
+   Recreate the reference video [Video 1] exactly, shot for shot: the same bright modern kitchen with white cabinets and pendant lights, the same handheld camera, cuts and timing, and the same funny dance: the dog stands up on its hind legs, waves its front paws to the beat, bounces, leans its face right into the lens and gives a paw high-five to the camera at the end. The ONLY change: the dancing dog is now the pet in [Image 1].
+
+The dancing dog = the pet in [Image 1], in EVERY frame: exactly the same species, breed, size, face, eyes, ears, muzzle, fur colors, fur length and markings as in [Image 1], with the natural body volume and proportions of that animal: never flattened, squashed, stretched or merged with anything, no blending with the original dog. The same pet from the first second to the last, so its owner instantly recognizes it, also in the big close-ups where the face fills the frame. Never drift back to the dog of the original video: not the coat, the ears or the muzzle of the dog in the video unless [Image 1] shows them. If [Image 1] shows a cat or another animal, it stays clearly that animal, with its own head, ears and whiskers, and does the same moves on its hind legs.
+
+Natural animal motion, real-looking paws and fur. The moments, matching [Video 1] second by second:
+0-1 s: close to the lens, one front paw waving.
+1-5 s: standing upright in the middle of the kitchen, bouncing, front paws waving to the beat, small head turns.
+5-6.5 s: comes close, the face near the lens.
+6.5-9 s: steps back, both front paws up high and wide, bouncing, mouth open and happy.
+9-10 s: dances back toward the camera.
+10-12 s: the face fills the frame, looking right into the lens.
+12-13 s: presses a front paw flat onto the lens: the paw high-five.
+13-15 s: steps back with a paw raised, then comes close again with the paws near its face.
+
+Anatomy rules: one head only, one muzzle, natural teeth and tongue. Exactly two front paws and two hind legs: animal paws with paw pads and claws, never human hands or fingers, never a pointing finger or a thumb, also in the close-ups. Exactly one animal, no people. Keep the timing on the beat of the music. No text, no captions, no logos, no watermark.
+   ```
+
+2. Press Generate, then download the 9:16 MP4.
+
+One-tap version of this variant: https://www.makeviral.ai/templates/ai-dancing-dog-video/create?variant=kitchen
+
+#### Variant: Kitchen dance: you
+
+Settings: 1 photo (you, face clear and body in view) · Seedance 2.5 · 15 s · 720p · 9:16 · no sound · 228 credits in one tap.
+
+1. The video prompt is filled in. Settings: Seedance 2.5, 15 s, 720p, 9:16, sound off. The video prompt:
+
+   ```text
+   Recreate the reference video [Video 1] exactly, shot for shot: the same bright modern kitchen with white cabinets and pendant lights, the same handheld camera, cuts and timing, and the same funny dance: the dancer stands upright, waves the hands to the beat, bounces, leans the face right into the lens and gives a high-five to the camera at the end. The ONLY change: the dancing dog is now the person in [Image 1], a real grown adult who does the same dance.
+
+The dancer = the person in [Image 1], in EVERY frame: copy the exact face from [Image 1] (the face shape, eye color and eye shape, eyebrows, nose, mouth, skin tone, age, hair color, hair length and hairstyle, and any beard, moustache, glasses or freckles), so their friends recognize them at once, also in the big close-ups where the face fills the frame. A HUMAN head and a human body: never a dog head, no dog ears, no fur, no muzzle, no tail. They wear their own clothes from [Image 1]. The same real person from the first second to the last: never morph, never drift back to the dog of the original video. If [Image 1] shows an animal, it stays that animal with its own face, fur and markings, not a person.
+
+Size: a grown adult at real adult height, standing on two feet on the kitchen floor, with adult shoulders, arms and hands: never shrunk, never a child's body. The camera keeps the distance and the framing of [Video 1]: the person fills the frame from the knees or the waist up where the dog did, and the head stays in the frame, except in the close-ups where the face fills it.
+
+Natural human motion, playful and a bit silly, like the dog's dance. The moments, matching [Video 1] second by second:
+0-1 s: close to the lens, one hand waving.
+1-5 s: standing in the middle of the kitchen, bouncing, both hands waving to the beat at chest height, small head turns.
+5-6.5 s: comes close, the face near the lens.
+6.5-9 s: steps back, both hands up high and wide, bouncing, mouth open and happy.
+9-10 s: dances back toward the camera.
+10-12 s: the face fills the frame, looking right into the lens.
+12-13 s: presses a flat open hand onto the lens: the high-five.
+13-15 s: steps back with a hand raised, then comes close again with the hands near the face.
+
+Anatomy rules: one head, two arms and five fingers on each hand, also in the close-ups and on the lens. Exactly one person, no animals, no other people. Keep the timing on the beat of the music. No text, no captions, no logos, no watermark.
+   ```
+
+2. Press Generate, then download the 9:16 MP4.
+
+One-tap version of this variant: https://www.makeviral.ai/templates/ai-dancing-dog-video/create?variant=kitchen-you
 
 ### Which photo works best?
 
@@ -108,12 +171,14 @@ Small, round animals can look stiff when they stand up. If your cat or small dog
 
 Yes, for the trending dances that have their own template. Each one follows the moves of a viral reel, puts your pet in the dancer's place and comes with the song:
 
+- **Kitchen dance**, a version on this page: your pet takes the place of the big dog in the viral AI clip of a dog dancing in a bright white kitchen, 15 seconds with the clip's own sound.
+- **Kitchen dance: you**, also on this page: you take the dog's place in the same kitchen clip and do its moves, the bounces, the hand waves, the lean into the lens and a high-five on the lens at the end.
 - [Single Ladies dog dance](https://www.makeviral.ai/templates/single-ladies-dog-dance-ai): your pet takes the middle spot in the "Single Ladies" routine.
 - [Tecktonik dance](https://www.makeviral.ai/templates/tecktonik-dance-ai-trend), Pet version: the 2000s electro arm moves on a small stage.
 - [Thriller dance](https://www.makeviral.ai/templates/thriller-dance-ai-trend), Pet version: the zombie dance.
 - [Billie Jean dance](https://www.makeviral.ai/templates/billie-jean-dance-ai-trend), Pet version: the famous 80s moves.
 
-This page works differently. It has no reference clip, so the prompt makes an **original** bouncy dance in your own room, with an original beat. If you want a certain style here, change the words in the video prompt. Some examples:
+The Dancing pet version works differently. It has no reference clip, so the prompt makes an **original** bouncy dance in your own room, with an original beat. If you want a certain style here, change the words in the video prompt. Some examples:
 
 - "a slow, smooth moonwalk and a shoulder shimmy"
 - "a fast hip-hop routine with arm waves"
@@ -154,11 +219,19 @@ Any image-to-video model that keeps the animal's face and markings. On MakeViral
 
 ### Can I make my pet do a specific TikTok dance?
 
-Yes, for the trends that have their own template: the [Single Ladies dog dance](https://www.makeviral.ai/templates/single-ladies-dog-dance-ai) and the Pet versions of the [Tecktonik](https://www.makeviral.ai/templates/tecktonik-dance-ai-trend), [Thriller](https://www.makeviral.ai/templates/thriller-dance-ai-trend) and [Billie Jean](https://www.makeviral.ai/templates/billie-jean-dance-ai-trend) dance templates follow a viral reel's moves, with the song. This page makes an original dance instead, and you can describe a style in words, for example "a moonwalk".
+Yes, for the trends that have their own template: the [Single Ladies dog dance](https://www.makeviral.ai/templates/single-ladies-dog-dance-ai) and the Pet versions of the [Tecktonik](https://www.makeviral.ai/templates/tecktonik-dance-ai-trend), [Thriller](https://www.makeviral.ai/templates/thriller-dance-ai-trend) and [Billie Jean](https://www.makeviral.ai/templates/billie-jean-dance-ai-trend) dance templates follow a viral reel's moves, with the song, and so does the Kitchen dance version on this page. The Dancing pet version makes an original dance instead, and you can describe a style in words, for example "a moonwalk".
 
 ### What is the AI dancing trend?
 
 It is a long-running TikTok format where AI makes a pet, or a person, dance. Dancing-cat clips reached 10.7, 8.6 and 5.9 million views in July and August 2026, and a TikTok sample of 3,815 videos from 29 September held 61 AI pet dances.
+
+### How do I make the AI dog dancing in kitchen video?
+
+Pick the Kitchen dance version and upload one sharp photo of your dog or cat with the face and the whole body in view. Your pet takes the place of the AI German shepherd dancing in the viral kitchen clip: it stands up, waves its paws to the beat, leans into the lens and gives a paw high-five, in a 15-second vertical video with the clip's own sound.
+
+### Can I do the AI dog dancing in kitchen dance myself?
+
+Yes. Pick the Kitchen dance: you version and upload one sharp photo of yourself with the face clear and the body in view. You take the dog's place in the same white kitchen clip: you bounce, wave your hands to the beat, lean into the lens and give the camera a high-five, in 15 seconds with the clip's own sound. For your dog or cat, pick Kitchen dance.
 
 ### Can I use a photo with two pets?
 
@@ -173,6 +246,15 @@ It is better to use one pet per photo. The prompt asks for exactly one animal, a
 - [Meme Video](https://www.makeviral.ai/tools/meme-video-generator): One line of text, one image, six seconds. The cheapest format to produce and the easiest one to test ten different ways in an afternoon.
 - [AI photo generator](https://www.makeviral.ai/ai-photo-generator)
 - [All AI video templates](https://www.makeviral.ai/templates)
+
+## New AI video trends this week
+
+- [Christmas Dance AI: Do the New TikTok Christmas Dance From Your Photos](https://www.makeviral.ai/templates/christmas-dance-ai-trend): Hip sways with the hands at the collar, rolling arms, a quick spin and raised fists, side by side in matching Christmas pajamas. Add two photos for the duo, one for a solo take, or two pets, and get the dance with the sound.
+- [Cat on Ultra Bee AI: Put Your Pet on the Wheelie](https://www.makeviral.ai/templates/cat-on-ultra-bee-ai-trend): Add one photo, and your cat or dog stands on an electric dirt bike and holds a long wheelie down a city road at golden hour, in the same shots as the viral clip, with its original sound. You can take the ride yourself, too.
+- [Tus Ojos Me Reflejan el Sentimiento: The Cafuné Eye Close-Up Trend](https://www.makeviral.ai/templates/tus-ojos-me-reflejan-ai-trend): You lie on your side, a hand rests on your cheek, warm light falls on your face, and the camera slowly moves in until your eyes fill the screen while the line plays. One photo in, an 8-second vertical clip with the trend's song out.
+- [İnşallah Maşallah AI Trend: Sing Neşe Karaböcek's Song on the Couch](https://www.makeviral.ai/templates/insallah-masallah-ai-trend): You sit on a light grey couch and sing the old Turkish love song straight to the camera: a hand on the heart, a big laugh with both hands on your head, a finger pointed at the camera and a kiss at the end. One photo of you, a grandparent or your pet, and the 15-second clip comes with the song.
+- [Ice Ice Baby Dance AI: Do the Viral Duo Dance With a Friend](https://www.makeviral.ai/templates/ice-ice-baby-dance-ai): Two dancers side by side, the same bouncy 90s steps, a spin on the beat and a strut to the camera. Add a photo of you and a friend, of you alone, or of your pet, and get the dance with the sound.
+- [Save Yourself Trend: Pull Yourself Up From the Cliff](https://www.makeviral.ai/templates/save-yourself-ai-trend): One photo plays both of you: the scared you clinging to a wet sea cliff, and the calm you who reaches down, pulls you up and holds you. Or use two photos: an older photo of you and a new one, or you and a friend. 15 seconds, vertical.
 
 ## Make your own Dancing Pet video
 

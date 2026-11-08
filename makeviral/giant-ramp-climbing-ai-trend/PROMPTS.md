@@ -1,0 +1,59 @@
+# Giant Ramp Climbing: Sprint Up the Dam Wall and Backflip Off the Top
+
+- Source: [makeviral](https://www.makeviral.ai/templates/giant-ramp-climbing-ai-trend)
+- Slug: `giant-ramp-climbing-ai-trend`
+
+The giant ramp climbing trend, also called the dam wall run, is a viral AI clip: one runner sprints up the wet, curved wall of a huge dam in front of a packed grandstand, backflips off the top, slides back down and celebrates at the camera.
+
+## Demo videos (CDN)
+
+- https://www.makeviral.ai/media/templates/giant-ramp-climbing-ai-trend/original-main-v2.mp4
+
+## Posters
+
+- https://www.makeviral.ai/media/templates/giant-ramp-climbing-ai-trend/original-main-v1.jpg
+
+## Prompts
+
+### 1. 1. The video prompt is filled in. Settings: Seedance 2.5, 15 s, 720p, 9:16, sound off. The video prompt
+
+*Kind: video_prompt*
+
+```text
+Recreate the reference video [Video 1] shot for shot: one continuous handheld phone take at the foot of a giant curved concrete dam wall, wet and streaked with brown water stains, a packed grandstand under white tent roofs with pink flags behind a barrier, a line of security guards in black, spectators along the railing at the top edge of the wall, an overcast sky, the same camera moves, timing and action. The ONLY change: the runner in the black tank top is now the person in [Image 1].
+
+The runner = the person in [Image 1], in EVERY frame: copy the exact face from [Image 1]: face shape, eye color and eye shape, eyebrows, nose, mouth, skin tone, age, hair color, hair length and hairstyle, and any beard, moustache, glasses or freckles exactly as in the photo, and the body build of [Image 1]. The runner wears the clothes from [Image 1]; if [Image 1] shows only the head or the upper body, invent the rest so it matches naturally, with sneakers. The same real person in every frame, from the first second to the last, so their friends instantly recognize them, also when the runner is small and far up the wall and while they shout with the mouth wide open at the end. Never morph, never drift back to the original runner's face. NO bleached blond hair, NO silver chain and NO bodybuilder muscles unless [Image 1] shows them. If [Image 1] shows an animal, the runner is that animal, running on its own legs, with its own face, fur and markings and the natural body volume and proportions of that animal: never flattened, squashed, stretched or merged with anything.
+
+The action, second by second, exactly as in [Video 1]:
+00:00-00:02.5: the runner stands at the foot of the wall beside the barrier and the guards, bouncing on the toes and shaking out the arms, ready to go.
+00:02.5-00:07.5: sprints onto the wet concrete and runs straight up the curved wall at full speed, getting smaller as the camera tilts up to follow.
+00:07.5-00:09: reaches the railing at the very top, launches high into the air above the spectators and does a full backflip against the grey sky.
+00:09-00:12: lands feet first back on the wall and slides all the way down standing up, arms out for balance, water spraying around the feet.
+00:12-00:15: reaches the bottom, walks toward the camera and celebrates in a close medium shot: points at the camera, clenches both fists and shouts with joy.
+
+The crowd, the guards, the dam, the light and the camera stay exactly as in [Video 1]. Real live-action phone footage, natural motion, clear facial features in the close shot, no distortion. No dialogue throughout the entire video. No background music.
+
+Anatomy rules: one head only, on the runner's shoulders. Two arms and two legs, five fingers on each hand. Exactly one runner on the wall. No text, no captions, no logos, no watermark, no readable lettering on the flags or the barriers.
+```
+
+### 2. 1. The video prompt is filled in. Settings: Seedance 2.5, 15 s, 720p, 9:16, sound off. The video prompt (Pet)
+
+*Kind: video_prompt*
+
+```text
+Recreate the reference video [Video 1] shot for shot: one continuous handheld phone take at the foot of a giant curved concrete dam wall, wet and streaked with brown water stains, a packed grandstand under white tent roofs with pink flags behind a barrier, a line of security guards in black, spectators along the railing at the top edge of the wall, an overcast sky, the same camera moves, timing and action. The ONLY change: the runner in the black tank top is now the pet in [Image 1], and it moves as that animal.
+
+The pet = the pet in [Image 1], in EVERY frame: the same species and breed, face, eyes, ears, muzzle, fur colors, fur length and markings as in [Image 1], with the natural body volume and proportions of that animal: never flattened, squashed, stretched or merged with anything. Whether [Image 1] shows a dog, a cat or another animal, it stays that animal and runs on four legs with its own paws: no clothes, no human body, no human hands. The same pet in every frame, also when it is small and far up the wall, so its owner instantly recognizes it. The runner from [Video 1] never appears, and no person runs up the wall.
+
+The action, second by second, matching [Video 1]:
+00:00-00:02.5: the pet waits at the foot of the wall beside the barrier and the guards, crouched and eager, ready to run.
+00:02.5-00:07.5: dashes onto the wet concrete and sprints straight up the curved wall on all four legs at full speed, getting smaller as the camera tilts up to follow.
+00:07.5-00:09: reaches the railing at the very top, leaps high into the air above the spectators and does a full backflip against the grey sky.
+00:09-00:12: lands on all four paws back on the wall and slides all the way down, ears flapping, water spraying around its paws.
+00:12-00:15: reaches the bottom, trots toward the camera and celebrates in a close shot: hops up happily, tail wagging, mouth open, a proud look into the lens.
+
+The crowd, the guards, the dam, the light and the camera stay exactly as in [Video 1]. Real live-action phone footage, natural motion, no distortion. No dialogue throughout the entire video. No background music.
+
+Anatomy rules: one head only, one muzzle, natural teeth and tongue. Exactly four legs with animal paws, never human hands. Exactly one animal on the wall, no person running. No text, no captions, no logos, no watermark, no readable lettering on the flags or the barriers.
+```
+

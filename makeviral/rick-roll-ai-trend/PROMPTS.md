@@ -1,0 +1,69 @@
+# Rick Roll Meme: Put Yourself in the Never Gonna Give You Up Video
+
+- Source: [makeviral](https://www.makeviral.ai/templates/rick-roll-ai-trend)
+- Slug: `rick-roll-ai-trend`
+
+The Rick Roll meme sends people to the 1987 "Never Gonna Give You Up" music video when they expect something else.
+
+## Demo videos (CDN)
+
+- https://www.makeviral.ai/media/templates/rick-roll-ai-trend/original-sample-v2.mp4
+
+## Posters
+
+- https://www.makeviral.ai/media/templates/rick-roll-ai-trend/original-sample-v1.jpg
+
+## Prompts
+
+### 1. 1. The video prompt is filled in. Settings: Seedance 2.5, 10 s, 720p, 9:16, sound on. The video prompt
+
+*Kind: video_prompt*
+
+```text
+A late-1980s pop music video, filmed like a real film on 35 mm: three sets with hard cuts between them. Photorealistic, natural skin, soft film grain, warm 1980s color, not CGI, not a cartoon. The face stays large, sharp and well lit in every shot.
+
+Replace the singer with the person in [Image 1], in every shot: copy the exact face from [Image 1] (the face shape, eye color and eye shape, eyebrows, nose, mouth, skin tone, age, hair color, hair length and hairstyle, and any beard, moustache, glasses or freckles). Keep the clothes from [Image 1]. The same real person from the first frame to the last, so their friends recognize them at once. Never another singer, never drift to another face.
+
+Shot 1 [0-3s]: a bright white studio, sunlight through a tall arched lattice window throws a pattern on the wall behind. The singer stands at a chrome vintage microphone on a stand, sings into it with a big smile, sways from side to side and snaps the fingers to the beat. Medium shot from the knees up.
+Shot 2 [3-6.5s]: hard cut, night: a long wall of blue-lit brick arches, warm lamp light inside each arch, a wet stone floor. The singer now wears a long light beige trench coat, open, over the clothes from [Image 1], and dances the classic 1980s side-to-side step: knees bent, both forearms swinging in front of the chest, the hips swaying, singing toward the camera. Medium-wide shot, the camera pushes in.
+Shot 3 [6.5-10s]: hard cut, bright daylight: a tall chain-link fence with leaf shadows across it. The singer, in the clothes from [Image 1], dances along the fence with the same step, points at the camera and grins while singing. Medium shot from the waist up, the face large.
+
+The lips move as if singing along. No dialogue throughout the entire video. No background music: only soft footsteps and room tone.
+One person in the whole video. No other singer, no backup dancers, no blended faces, no extra limbs, no text, no captions, no logos, no watermark.
+```
+
+### 2. 1. The video prompt is filled in. Settings: Seedance 2.5, 10 s, 720p, 9:16, sound on. The video prompt
+
+*Kind: video_prompt*
+
+```text
+A late-1980s pop music video, filmed like a real film on 35 mm: three sets with hard cuts between them. Photorealistic, natural skin, soft film grain, warm 1980s color, not CGI, not a cartoon. Both faces stay large, sharp and well lit.
+
+The singer is the person in [Image 1], in every shot: copy the exact face from [Image 1] (the face shape, eye color and eye shape, eyebrows, nose, mouth, skin tone, age, hair color, hair length and hairstyle, and any beard, moustache, glasses or freckles), with the clothes from [Image 1].
+The dancer is the person in [Image 2], in every shot: copy the exact face from [Image 2] (the face shape, eye color and eye shape, eyebrows, nose, mouth, skin tone, age, hair color, hair length and hairstyle, and any beard, moustache, glasses or freckles), with the clothes from [Image 2].
+Never blend their faces and never swap their clothes. Each face stays the same from the first frame to the last, so their friends recognize them at once. If an image shows an animal, that performer is that animal standing upright, with its own face, fur and markings, not a person.
+
+Shot 1 [0-3s]: a bright white studio, sunlight through a tall arched lattice window throws a pattern on the wall. The singer sings into a chrome vintage microphone on a stand, sways and snaps the fingers; the dancer dances behind on the left, smiling. Medium shot.
+Shot 2 [3-6.5s]: hard cut, night: a long wall of blue-lit brick arches, warm lamp light inside each arch, a wet stone floor. The singer wears a long light beige trench coat, open, over the clothes from [Image 1]; the two dance side by side, the singer on the left, the dancer on the right, in the classic 1980s side-to-side step: knees bent, forearms swinging, singing toward the camera. Medium-wide shot, the camera pushes in.
+Shot 3 [6.5-10s]: hard cut, bright daylight: a tall chain-link fence with leaf shadows. The two dance along the fence side by side, the singer on the left, point at the camera together and grin. Medium shot from the waist up, both faces large.
+
+The singer's lips move as if singing along. No dialogue throughout the entire video. No background music: only soft footsteps and room tone.
+Only these two people. No one else, no extra limbs, no text, no captions, no logos, no watermark.
+```
+
+### 3. 1. Open [AI Photo with this template](https://www.makeviral.ai/photo?template=rick-roll-ai-trend&variant=pet) and add your photo (your pet). The photo prompt is filled in (Pet)
+
+*Kind: photo_prompt*
+
+```text
+Use the uploaded image as the base. The pet from the uploaded image stands upright on its hind legs like a 1980s pop singer at a chrome vintage microphone on a stand, wearing a long light beige trench coat, open, over a dark top, its front paws raised in a small dance move. Behind it a long wall of blue-lit brick arches at night, warm lamp light inside each arch, a wet stone floor. The pet's face is large and sharp, turned to the camera, mouth a little open as if singing. Keep the same species and breed, face, eyes, ears, muzzle, fur colors, fur length and markings as in the photo, with the natural body volume and proportions of that animal: never flattened, squashed or stretched. A real animal with its own paws, no human hands. Medium shot. A late-1980s music video look, photorealistic, soft film grain, warm color, vertical 9:16. No people, no text, no logos.
+```
+
+### 4. 3. Press the film button on the still to open AI Video with the still as the first frame. Settings: Kling 3.0, 10 s, 1080p, 9:16, sound on. The video prompt
+
+*Kind: video_prompt*
+
+```text
+A late-1980s pop music video shot, one continuous take, the camera slowly pushes in. The pet in the trench coat sways from side to side at the microphone, bobs its head to the beat and swings its front paws in front of its chest in a small dance, opening and closing its mouth as if singing, then tilts its head at the camera. The coat swings a little; its ears, whiskers and fur move. Keep the pet's face, fur, markings and the trench coat exactly as in the image, the natural body of that animal, its own paws, no human hands. Audio: soft footsteps and room tone. No dialogue, no background music. No people, no extra animals, no extra legs, no morphing, no text, no logos.
+```
+

@@ -90,12 +90,28 @@ One-tap version of this variant: https://www.makeviral.ai/templates/raindance-ai
 
 #### Variant: Pet
 
-Settings: 2 photos (listener pet + singer pet) · h3-recast · 15 s · 720p · 9:16 · no sound · 180 credits in one tap.
+Settings: 2 photos (listener pet + singer pet) · Seedance 2.5 · 15 s · 720p · 9:16 · no sound · 228 credits in one tap.
 
-1. The video prompt is filled in. Settings: h3-recast, 15 s, 720p, 9:16, sound off. The video prompt:
+1. The video prompt is filled in. Settings: Seedance 2.5, 15 s, 720p, 9:16, sound off. The video prompt:
 
    ```text
-   Image 1 replaces the cat who sits at the end of the wooden pier and looks out to sea, in every shot. Image 2 replaces the cat who walks up the pier and sings to the camera, in every shot, with no leash and no strap. Keep the face shape, ears, fur colors, fur length and markings from each image, not those of the cats in the video. Keep the pier, the sea, the beach, the light, the motion, the mouth movement and the camera exactly as in the video.
+   Recreate the reference video [Video 1] shot for shot: the same wooden pier, the same calm sea and sand beach, the same soft evening light, the same camera angles, cuts, timing and moves. The singing pet's mouth moves with the song exactly like in the video. The ONLY change: the cat who sits at the end of the pier is now the pet in [Image 1], and the cat who walks up the pier and sings to the camera is now the pet in [Image 2]. Both change: no cat from the video stays anywhere, also in the first shot on the pier, in the wide shots and when only the back of a head shows.
+
+The pet on the pier = the pet in [Image 1], whole body, in EVERY shot, from the very first frame: the same species and breed, head shape, face shape, muzzle, eyes, eye color, ear size and shape, fur colors, fur length and markings as in [Image 1], with the natural body volume and proportions of that animal: never flattened, squashed, stretched or merged with anything.
+
+The singer = the pet in [Image 2], whole body, in EVERY shot, also in the big close-ups: the same species and breed, head shape, face shape, muzzle, eyes, eye color, ear size and shape, fur colors, fur length and markings as in [Image 2], with the natural body volume and proportions of that animal: never flattened, squashed, stretched or merged with anything. It copies the singing mouth and the paw moves of the singer in the video. No leash and no strap.
+
+Each coat is not the coat of the cat in the video: the colors, the pattern and the fur length come only from each pet's own photo. If a pet in a shot still looks like a cat from the video and not like its photo, it is wrong: draw it as the animal in its photo. The two pets look as different from each other as the two photos do. Never morph, never drift back to the cats of the video. Do not mix the two pets: [Image 1] is only the pet on the pier, [Image 2] is only the singer. If a photo shows a dog or another animal, that animal takes the same place and does the same moves.
+
+Shots, matching the reference:
+Shot 1 [0-4.5 s]: the pet from [Image 1] sits at the end of the wooden pier and looks out to sea; the camera pulls back past it, and far behind, the singer walks up the pier.
+Shot 2 [4.5-6.7 s]: hard cut, close-up of the singer by the sea, singing to the camera.
+Shot 3 [6.7-9.8 s]: hard cut, both sit on the sand: the singer faces the camera and sings, the pet from [Image 1] sits in front at the side and turns its head to the singer.
+Shot 4 [9.8-10.9 s]: hard cut, close-up of the singer singing by the sea.
+Shot 5 [10.9-12.3 s]: hard cut, the singer raises a front paw to the camera.
+Shot 6 [12.3-15 s]: hard cut, big close-up of the singer's face, singing, one paw pointing at the camera.
+
+Anatomy rules: one head per pet, on its own body. Real furry paws, no human hands. Exactly two animals. No people, no extra animals, no text, no logos, no watermark. No dialogue throughout the entire video. No background music.
    ```
 
 2. Press Generate, then download the 9:16 MP4.
@@ -140,13 +156,13 @@ Each version copies a viral AI reel, and your two photos replace its two charact
 |---|---|---|
 | The reel it copies | @unchained_off and KevkoYt, 8 October 2026 | @yikes_301, two AI-made cats, 25 September 2026 |
 | Photos | Photo 1 listens, photo 2 sings | Pet 1 listens, pet 2 sings |
-| Model | Seedance 2.5 | MiniMax H3 Max Recast |
-| Frame | Vertical 9:16, 720p, ready for TikTok and Reels | Wide 16:9, 768p, a crop of the 4:3 cat reel |
+| Model | Seedance 2.5 | Top-quality AI video models |
+| Frame | Vertical 9:16, 720p, ready for TikTok and Reels | Wide 16:9, 720p, a crop of the 4:3 cat reel |
 | Length | 15 s | 15 s |
 | Sound | The reel's song, the same 15 seconds; you can turn it off | The same |
-| Time | Up to several minutes | A few minutes |
+| Time | Up to several minutes | 5 to 15 minutes |
 
-Both versions put your photos into the reel itself, shot by shot, so the shots, the camera and the singer's lip movement stay the reel's, and the faces, bodies and clothes come from your photos. The singer's face fills the frame for most of the clip and the lips have to follow the song, so neither version uses a cheaper model that makes a new scene. Human uses Seedance 2.5 because, in our tests, it kept the faces from the photos in every shot, also in big close-ups. Pet uses MiniMax H3 Max Recast because, in our tests on cat reels, it kept the two pets from the photos in place of the reel's two cats. The exact price shows on the Generate button before you spend anything. Every run is a new take, so results differ.
+Both versions put your photos into the reel itself, shot by shot, so the shots, the camera and the singer's lip movement stay the reel's, and the faces, bodies and clothes come from your photos. The singer's face fills the frame for most of the clip and the lips have to follow the song, so neither version uses a cheaper model that makes a new scene. Human uses Seedance 2.5 because, in our tests, it kept the faces from the photos in every shot, also in big close-ups. Pet uses top-quality AI video models that copy the cat reel itself, with your two pets in place of its two cats. The exact price shows on the Generate button before you spend anything. Every run is a new take, so results differ.
 
 ## Who should sing to whom?
 
@@ -202,7 +218,7 @@ Yes. Pick Pet. It copies the two-cat reel by @yikes_301, which had 3.7 million T
 
 ### How long is the video and what format is it?
 
-15 seconds, MP4. Human is vertical 9:16 at 720p, ready for TikTok and Reels. Pet is wide 16:9 at 768p, like the cat reel it copies. Both come with the reel's song, which you can turn off.
+15 seconds, MP4. Human is vertical 9:16 at 720p, ready for TikTok and Reels. Pet is wide 16:9 at 720p, like the cat reel it copies. Both come with the reel's song, which you can turn off.
 
 ### Is my video made from the real Raindance music video?
 
@@ -241,6 +257,15 @@ Yes. This Raindance AI template lets you put yourself in the Raindance video, or
 - [AI Reels](https://www.makeviral.ai/tools/ai-reels-generator): Pick a format, give it a topic or a product link, and get a finished vertical reel with voice and captions. Nothing to film, nothing to edit.
 - [AI photo generator](https://www.makeviral.ai/ai-photo-generator)
 - [All AI video templates](https://www.makeviral.ai/templates)
+
+## New AI video trends this week
+
+- [Christmas Dance AI: Do the New TikTok Christmas Dance From Your Photos](https://www.makeviral.ai/templates/christmas-dance-ai-trend): Hip sways with the hands at the collar, rolling arms, a quick spin and raised fists, side by side in matching Christmas pajamas. Add two photos for the duo, one for a solo take, or two pets, and get the dance with the sound.
+- [Cat on Ultra Bee AI: Put Your Pet on the Wheelie](https://www.makeviral.ai/templates/cat-on-ultra-bee-ai-trend): Add one photo, and your cat or dog stands on an electric dirt bike and holds a long wheelie down a city road at golden hour, in the same shots as the viral clip, with its original sound. You can take the ride yourself, too.
+- [Tus Ojos Me Reflejan el Sentimiento: The Cafuné Eye Close-Up Trend](https://www.makeviral.ai/templates/tus-ojos-me-reflejan-ai-trend): You lie on your side, a hand rests on your cheek, warm light falls on your face, and the camera slowly moves in until your eyes fill the screen while the line plays. One photo in, an 8-second vertical clip with the trend's song out.
+- [İnşallah Maşallah AI Trend: Sing Neşe Karaböcek's Song on the Couch](https://www.makeviral.ai/templates/insallah-masallah-ai-trend): You sit on a light grey couch and sing the old Turkish love song straight to the camera: a hand on the heart, a big laugh with both hands on your head, a finger pointed at the camera and a kiss at the end. One photo of you, a grandparent or your pet, and the 15-second clip comes with the song.
+- [Ice Ice Baby Dance AI: Do the Viral Duo Dance With a Friend](https://www.makeviral.ai/templates/ice-ice-baby-dance-ai): Two dancers side by side, the same bouncy 90s steps, a spin on the beat and a strut to the camera. Add a photo of you and a friend, of you alone, or of your pet, and get the dance with the sound.
+- [Save Yourself Trend: Pull Yourself Up From the Cliff](https://www.makeviral.ai/templates/save-yourself-ai-trend): One photo plays both of you: the scared you clinging to a wet sea cliff, and the calm you who reaches down, pulls you up and holds you. Or use two photos: an older photo of you and a new one, or you and a friend. 15 seconds, vertical.
 
 ## Make your own Raindance video
 

@@ -1,0 +1,60 @@
+{
+  "source": "makeviral",
+  "source_site": "https://www.makeviral.ai",
+  "slug": "police-chase-ai-trend",
+  "name": "Police Chase AI Video: You Outrun the Police Over a Bus Roof",
+  "url": "https://www.makeviral.ai/templates/police-chase-ai-trend",
+  "markdown_url": "https://www.makeviral.ai/templates/police-chase-ai-trend.md",
+  "blurb": "The police chase AI video is a CapCut trend from Pakistan, early November 2026: from one photo, you run from the police through a busy market, jump onto a moving bus and climb a billboard.",
+  "updated": "2026-11-03",
+  "published": "2026-11-03",
+  "credits": 126,
+  "demo_videos": [
+    "https://www.makeviral.ai/media/templates/police-chase-ai-trend/example.mp4"
+  ],
+  "posters": [
+    "https://www.makeviral.ai/media/templates/police-chase-ai-trend/example-input.jpg",
+    "https://www.makeviral.ai/media/templates/police-chase-ai-trend/example-poster.jpg"
+  ],
+  "prompts": [
+    {
+      "label": "1. The video prompt is filled in. Settings: Seedance 2.5, 10 s, 720p, 9:16, sound on. The video prompt",
+      "variant": "Human",
+      "kind": "video_prompt",
+      "text": "A realistic, cinematic street action scene in a busy South Asian city in warm daylight, handheld film camera, light film grain, fast and fun, in five shots. The runner is the person in [Image 1], in every shot: copy the exact face from [Image 1] (the face shape, eye color and eye shape, eyebrows, nose, mouth, skin tone, age, hair color, hair length and hairstyle, and any beard, moustache, glasses or freckles), so their friends recognize them at once. Only the runner has this face; every other person has their own different face. The runner wears the same clothes as in [Image 1], with loose matching trousers or a skirt if the photo does not show them, and keeps their own body, height and build. If [Image 1] shows an animal, the runner is that animal running on all fours with its own face, fur and markings, not a person.\n\nShot 1 [0-3s]: a crowded street market with fruit and vegetable stalls under colorful awnings. The runner sprints straight toward the camera, which moves back low and fast, and glances back over the shoulder; shoppers jump aside. Far behind, two police officers in plain khaki uniforms and caps run after the runner. The face is large and clear.\nShot 2 [3-4.5s]: hard cut, side view: at the end of the market the runner leaps high over a handcart into the air above a busy road, arms and legs stretched like a long jumper, a short slow-motion moment.\nShot 3 [4.5-7s]: hard cut: the runner lands on the roof of a moving red city bus, rises and runs along the roof toward the camera, arms out for balance, hair and clothes in the wind. Below, green and yellow auto-rickshaws and yellow and black taxis; behind, a grand old domed stone building and green trees.\nShot 4 [7-8.5s]: hard cut: the runner jumps from the bus roof and grabs the steel frame of a tall roadside billboard, then pulls up onto it.\nShot 5 [8.5-10s]: hard cut to a low-angle shot from below, through the crossed steel beams of the billboard frame against a bright sky with a sun flare: the runner stands on a beam, catches breath and grins down at the camera, proud and cheeky. The face is large, sharp and clearly the face from [Image 1].\n\nAudio: an original fast, punchy action beat with dhol drums, a whoosh on each jump, street market noise, a police whistle and a bus engine. No dialogue, no lyrics.\nNo weapons, no fights, no one gets hurt; the police never touch the runner. The bus and the billboard carry no logos, brand names or text: the back of the billboard is plain metal. No text, no subtitles, no logos, no watermark."
+    },
+    {
+      "label": "1. Open [AI Photo with this template](https://www.makeviral.ai/photo?template=police-chase-ai-trend&variant=pet) and add your photo (your pet, whole body). The photo prompt is filled in",
+      "variant": "Pet",
+      "kind": "photo_prompt",
+      "text": "Use the uploaded image as the base. 9:16 vertical realistic film still, warm daylight, light film grain. The pet from the uploaded image runs at full speed through a crowded South Asian street market toward the camera, ears back, paws off the ground, fruit and vegetable stalls under colorful awnings on both sides, shoppers stepping aside in surprise. Far behind, two police officers in plain khaki uniforms and caps run after it. A red city bus waits at the end of the market. Exactly one animal. No weapons. No text, no logos, no brand names, no watermark."
+    },
+    {
+      "label": "3. Press the film button on the still to open AI Video with the still as the first frame. Settings: Kling 3.0, 10 s, 1080p, 9:16, sound on. The video prompt",
+      "variant": null,
+      "kind": "video_prompt",
+      "text": "A realistic, cinematic street action scene, handheld film camera, fast and fun. Keep the pet exactly as in the image: the same face, eyes, ears, fur and markings, with the natural body and proportions of that animal. The pet races through the market toward the camera, which moves back fast, dodges between the shoppers, glances back at the two police officers far behind, then leaps high onto the roof of the slowly moving red city bus at the end of the market, runs along the roof and stops at the front edge, proud, looking at the camera. Audio: an original fast action beat with dhol drums, a whoosh on the jump, market noise and a police whistle. No dialogue. Exactly one animal. No weapons, no fights; the police never touch the pet. No text, no logos, no brand names, no watermark."
+    }
+  ],
+  "variant_headings": [
+    "What the Police Chase AI video looks like",
+    "How to make the Police Chase AI video on MakeViral",
+    "Which photo works best?",
+    "What happens in the police chase AI video, shot by shot?",
+    "What is the police chase AI video?",
+    "Where did the AI police running video trend start?",
+    "Is the police running AI video a scene from a film?",
+    "How do I make the police chase AI video?",
+    "Is there an AI police video prompt I can copy?",
+    "Police AI video kaise banaye?",
+    "Is this an AI running video or a bus parkour AI video?",
+    "How long is the video, and does it have sound?",
+    "Is MakeViral an AI police video generator?",
+    "Can I use a photo of someone else?",
+    "Other AI video templates and tools",
+    "New AI video trends this week",
+    "Make your own Police Chase AI video"
+  ],
+  "prompt_count": 3,
+  "scraped_at": "2026-11-08"
+}

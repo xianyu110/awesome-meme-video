@@ -51,11 +51,29 @@ The dance is a cute K-pop hand-gesture chorus, both dancers in sync, matching th
 One head per person, on that person's own shoulders. A face never appears on knees, legs, hands or clothes. Five fingers on each hand. Exactly two people. No text, no signs, no logos, no watermark.
 ```
 
-### 3. 1. The video prompt is filled in. Settings: h3-recast, 15 s, 720p, 9:16, sound off. The video prompt (Pet)
+### 3. 1. The video prompt is filled in. Settings: Seedance 2.5, 15 s, 720p, 9:16, sound off. The video prompt (Pet)
 
 *Kind: video_prompt*
 
 ```text
-Image 1 replaces the smaller cat that dances upright on the left, in every shot. Image 2 replaces the bigger cat that leads the dance upright on the right, in every shot. Use image 1 and image 2 as the appearance references for the two performers in the dance: keep each pet's face, ears, fur colors, fur length, markings, body proportions and screen position consistent; do not swap roles or merge identities. SAME IDENTITY. FIXED POSITIONS. NO ROLE SWAP. NO DUPLICATE. Each pet keeps the coat from its own image, never the coat of the cat in the video. Each pet keeps the natural body volume and proportions of its own animal: never flattened, squashed, stretched or merged with anything, with real furry paws, never human hands. If an image shows a dog or another animal, that animal takes the same place, standing upright on its hind legs and doing the same paw moves. If both images show the same pet, that pet dances twice, side by side. Keep the plain hallway with white walls and a brown door, the light wooden floor, the light, the dance moves, the paw moves at chest and face height, the motion and the camera exactly as in the video. Avoid extra animals, extra legs, foot sliding and background drift. No text, no logos.
+Recreate the reference video [Video 1] shot for shot: the same plain hallway with white walls, a white cabinet and a brown door, the same light wooden floor and soft light, the same fixed camera, framing, timing and dance moves, one continuous shot. The ONLY change: the smaller cat who dances upright on the left, a step behind, is now the pet in [Image 1], and the bigger cat who leads the dance upright on the right, in front, is now the pet in [Image 2]. Both change: no cat from the video stays, in any frame.
+
+[Image 1] is the sole look reference for the pet on the left, [Image 2] is the sole look reference for the pet on the right, and [Video 1] gives only the moves, the timing and the camera.
+
+The pet on the left = the pet in [Image 1], whole body, in EVERY frame: the same species and breed, head shape, face, eyes, eye color, ears, muzzle, fur colors, fur length and markings as in [Image 1], so its owner instantly recognizes it. Never drift back to the left cat of the video: not its face, its eyes or its coat unless [Image 1] shows them.
+
+The pet on the right = the pet in [Image 2], whole body, in EVERY frame: the same species and breed, head shape, face, eyes, eye color, ears, muzzle, fur colors, fur length and markings as in [Image 2], so its owner instantly recognizes it. Never drift back to the right cat of the video: not its face, its eyes or its coat unless [Image 2] shows them.
+
+Each pet keeps the natural body volume and proportions of its own animal: never flattened, squashed, stretched or merged with anything. Real fur, real animals, not cartoons. Both stand upright on their hind legs like people the whole time, with real furry paws, never human hands. If a photo shows a dog or another animal, that animal takes the same place and does the same paw moves. If both photos show the same pet, it dances twice, side by side. Do not mix the two pets: [Image 1] is only on the left, [Image 2] is only on the right. FIXED POSITIONS, NO ROLE SWAP.
+
+The dance is a cute K-pop hand-gesture chorus, both pets in sync, matching the reference second by second:
+0-3 s: one front paw by the face, then the paws on the chest and the hip, a sway.
+3-4.5 s: the front legs open low and wide.
+4.5-6.5 s: both paws to the cheeks and up to the head.
+6.5-8.5 s: a quarter turn to the side, one front paw raised high.
+8.5-10.5 s: both front legs out to the sides, then straight up in a V.
+10.5-15 s: small steps in place, quick little paw flaps at chest height, then one front leg out to the side.
+
+Anatomy rules: one head per pet, on its own body. Two hind legs and two front legs each, no extra legs or paws. Exactly two animals, no people. No foot sliding, no background drift. No text, no logos, no watermark. No dialogue, no background music.
 ```
 

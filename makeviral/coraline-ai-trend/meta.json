@@ -1,0 +1,46 @@
+{
+  "source": "makeviral",
+  "source_site": "https://www.makeviral.ai",
+  "slug": "coraline-ai-trend",
+  "name": "Button Eye Doll AI: The Coraline Filter Trend From One Photo",
+  "url": "https://www.makeviral.ai/templates/coraline-ai-trend",
+  "markdown_url": "https://www.makeviral.ai/templates/coraline-ai-trend.md",
+  "blurb": "The Coraline filter trend turns you into a doll with black buttons for eyes, the Other Mother's look from the 2009 stop-motion film.",
+  "updated": "2026-10-24",
+  "published": "2026-10-24",
+  "credits": 126,
+  "demo_videos": [
+    "https://www.makeviral.ai/media/templates/coraline-ai-trend/original-main-v2.mp4"
+  ],
+  "posters": [
+    "https://www.makeviral.ai/media/templates/coraline-ai-trend/original-main-v1.jpg"
+  ],
+  "prompts": [
+    {
+      "label": "1. The video prompt is filled in. Settings: Seedance 2.5, 10 s, 720p, 9:16, sound on. The video prompt",
+      "variant": null,
+      "kind": "video_prompt",
+      "text": "A button eyes doll makeup reveal, like a real vertical Halloween makeup video filmed on a phone held at arm's length in a dim bedroom: the person faces the camera from the chest up. Photorealistic, one take with one hand-swipe transition.\n\nThe person in the clip is the person in [Image 1], in every frame: copy the exact face from [Image 1] (the face shape, eye color and eye shape, eyebrows, nose, mouth, skin tone, age, hair color, hair length and hairstyle, and any beard, moustache, glasses or freckles) and the clothes from [Image 1], so their friends recognize them at once. The face shape, nose, mouth, hair and clothes stay the same from the first frame to the last, also under the doll makeup after the swipe: never a different person, never morph.\n\n0-4 s, BEFORE: the person exactly as in [Image 1], no makeup look, relaxed, looking calmly into the lens with a small curious tilt of the head.\n4-5 s, THE SWIPE: they sweep one open hand across the lens from one side to the other, and the frame goes dark for a moment behind the hand, with a soft whoosh.\n5-10 s, AFTER: the hand moves away and the same person is revealed as an unsettling handmade porcelain doll: porcelain-white doll skin with fine black hairline cracks across the forehead, the cheeks and the jaw, two oversized glossy black four-hole buttons in place of the eyes, sewn on with carefully stitched black thread at the button edges, thin high-arched black eyebrows and dark plum lips; no real eyes show anywhere, only the two buttons. Keep the same identifiable facial outline, hairstyle, clothing colors and pose from [Image 1]. The room now sits in deep purple and green shadow with one soft light on the face. They tilt the head slowly to one side, a slow, strange smile spreads, and one hand reaches toward the camera as it pushes in on the button-eyed face. The face stays large, sharp and well lit.\n\nNot a film character: no black bob wig unless [Image 1] shows one, no polka-dot dress, no yellow raincoat, no blue hair, no needle, no thread in the hands. No blood, no gore. Audio: a slow, creepy music-box lullaby, a whoosh on the swipe and a soft creak at the reveal, no words, no singing. Exactly one person. No text, no subtitles, no logos, no watermark."
+    },
+    {
+      "label": null,
+      "variant": null,
+      "kind": "prompt",
+      "text": "Turn the first picture into this animated character, transfer them into all of these pictures.\nThe first picture is the uploaded image: one real person. This animated character: a handmade stop-motion puppet doll of that same person, as if built for a dark-fantasy stop-motion film: a slim puppet body with a slightly large head, smooth matte clay skin in the person's own skin tone, their own face shape, nose, mouth and eyebrows, their own hairstyle and hair color made of fine wool strands, their own clothes from the uploaded image remade as small stitched fabric clothes, and two glossy black four-hole buttons sewn in place of the eyes with neat black thread. No real eyes show, only the two buttons.\nAll of these pictures: one vertical 9:16 image made of four frames in a 2x2 grid with thin dark lines between them, like four stills from the same stop-motion film, the same doll in every frame:\nTOP LEFT: a close shot of the doll looking up with a curious face in a dim old hallway with faded patterned wallpaper.\nTOP RIGHT: the doll sits at a long dinner table by candlelight in front of a tall birthday cake with lit candles, its chin resting on one hand, bored.\nBOTTOM LEFT: the doll stands under a crooked bare tree on a foggy hill at dusk, holding a small round lantern.\nBOTTOM RIGHT: a close-up of the doll's face, a soft highlight on the two black buttons and a faint smile.\nReal miniature set photography, matte clay skin, visible fabric fibers and wool strands, small handmade imperfections, soft cinematic light in muted teal, plum and amber. Not a film character: no yellow raincoat, no blue hair, no hair clip, no pink house, no small door in the wall, no polka-dot dress. Exactly one character. No text, no captions, no title, no logos, no watermark."
+    }
+  ],
+  "variant_headings": [
+    "What the Button Eye Doll video looks like",
+    "How to make the Button Eye Doll video on MakeViral",
+    "Which photo works best?",
+    "What does the doll photo look like?",
+    "How long is the video and what do I get?",
+    "Can I make it with my friends or my pet?",
+    "Is my photo private?",
+    "Other AI video templates and tools",
+    "New AI video trends this week",
+    "Make your own Button Eye Doll video"
+  ],
+  "prompt_count": 2,
+  "scraped_at": "2026-11-08"
+}

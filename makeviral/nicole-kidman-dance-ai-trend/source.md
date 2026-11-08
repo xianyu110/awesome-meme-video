@@ -3,7 +3,7 @@
 > The Nicole Kidman dance is the viral TikTok routine to ADÉLA's 2026 song "Nicole Kidman": hands to the chest, a hip sway, both arms straight up and a spin with a hair flip.
 
 Canonical: https://www.makeviral.ai/templates/nicole-kidman-dance-ai-trend
-Updated: 2026-10-15
+Updated: 2026-10-24
 Published: 2026-10-11
 Author: MakeViral Team (https://www.makeviral.ai/about)
 Publisher: MakeViral (https://www.makeviral.ai)
@@ -16,7 +16,7 @@ Also called: Adela Nicole Kidman dance, I feel like Nicole dance, Nicole Kidman 
 
 **Make it now:** [Make this video](https://www.makeviral.ai/templates/nicole-kidman-dance-ai-trend/create). 1 photo · 13 s · 9:16 with sound · 198 credits, charged once · ready in up to several minutes · no prompt to write.
 
-Keyword: nicole kidman dance. Also answers: adela nicole kidman, nicole kidman dance moves, nicole kidman dance ai, nicole kidman dance tutorial, nicole kidman viral dance, nicole kidman dance video, nicole kidman ai trend, nicole kidman dance ai video, nicole kidman dance adela, nicole kidman dance trend, nicole kidman song dance, nicole kidman dance challenge, nicole kidman dance gif, nicole kidman dancing meme, nicole kidman dance dog, nicole kidman dance cat, nicole kidman dance ai template, nicole kidman trend.
+Keyword: nicole kidman dance. Also answers: adela nicole kidman, nicole kidman dance moves, nicole kidman dance ai, nicole kidman dance tutorial, nicole kidman viral dance, nicole kidman dance video, nicole kidman ai trend, nicole kidman dance ai video, nicole kidman dance adela, nicole kidman dance trend, nicole kidman song dance, i feel like nicole kidman, i feel like nicole kidman song, adela nicole kidman song, nicole kidman dance challenge, nicole kidman dance gif, nicole kidman dancing meme, nicole kidman dance dog, nicole kidman dance cat, nicole kidman dance ai template, nicole kidman trend.
 
 ## What is the Nicole Kidman Dance trend, and where did it start?
 
@@ -136,11 +136,11 @@ Each version copies a viral AI reel of the dance, and your photo takes the place
 
 | Pet | Standard (default) | Best |
 |---|---|---|
-| How it works | Seedance 2.0 Mini makes a new clip that follows the reel's moves, camera and timing. | MiniMax H3 Max Recast puts your pet into the reel itself: the same shots, the same scene, the same camera. |
-| Frame | Vertical 9:16, 720p | Vertical 9:16, 768p |
+| How it works | Seedance 2.0 Mini makes a new clip that follows the reel's moves, camera and timing. | Top-quality AI video models put your pet into the reel itself: the same shots, the same scene, the same camera. |
+| Frame | Vertical 9:16, 720p | Vertical 9:16, 720p |
 | Sound | The reel's song, put on after the run; you can turn it off | The same |
 
-Pick Standard for the lower price. Pick Best for the closest copy of the reel. Every run is a new take, so results differ.
+Pick Standard for the lower price. Pick Best for the closest copy of the reel; it can take 5 to 15 minutes. Every run is a new take, so results differ.
 
 ## Who should do the Nicole Kidman dance?
 
@@ -200,7 +200,7 @@ No. The moves come from the reel, so the person or pet in your photo does the wh
 
 ### Which AI models make the videos?
 
-Human uses Seedance 2.5: it puts you into the reel itself at 720p, with the reel's own shots, camera and mouth moves, and can take up to several minutes. Pet has two qualities. Standard is the default and costs less: Seedance 2.0 Mini makes a new vertical 720p clip that follows the reel's moves and timing, and your pet can look less like its photo. Best costs more: MiniMax H3 Max Recast puts your pet into the reel itself at 768p.
+Human uses Seedance 2.5: it puts you into the reel itself at 720p, with the reel's own shots, camera and mouth moves, and can take up to several minutes. Pet has two qualities. Standard is the default and costs less: Seedance 2.0 Mini makes a new vertical 720p clip that follows the reel's moves and timing, and your pet can look less like its photo. Best costs more: top-quality AI video models put your pet into the reel itself at 720p, in 5 to 15 minutes.
 
 ### Will Nicole Kidman or ADÉLA be in my video?
 
@@ -208,11 +208,15 @@ No. Both versions copy AI reels made by TikTok creators, and your photo replaces
 
 ### How long is the video and what format is it?
 
-Human makes 13 seconds and Pet makes 14 seconds, both vertical 9:16 MP4 files with the song. Human is 720p; Pet is 720p on Standard and 768p on Best.
+Human makes 13 seconds and Pet makes 14 seconds, both vertical 9:16 MP4 files with the song. Human is 720p; Pet is 720p on Standard and on Best.
 
 ### Is the Nicole Kidman dance the same as the Adela Nicole Kidman dance?
 
 Yes. The dance goes to ADÉLA's song "Nicole Kidman", so many posts and searches add her name: Adela Nicole Kidman, or Nicole Kidman dance Adela. Others name it after the hook, the "I feel like Nicole" dance.
+
+### What is the "I feel like Nicole Kidman" song?
+
+It is the same song: "Nicole Kidman" by ADÉLA, from her debut album PRIMA. The words come from its hook, "baby girl in control, I feel like Nicole Kidman", and the dance is a short routine to that hook.
 
 ### What are the Nicole Kidman dance moves?
 
@@ -235,6 +239,15 @@ TikTok has the clips, from tutorials to the odd Nicole Kidman dancing meme. Here
 - [AI Reels](https://www.makeviral.ai/tools/ai-reels-generator): Pick a format, give it a topic or a product link, and get a finished vertical reel with voice and captions. Nothing to film, nothing to edit.
 - [AI photo generator](https://www.makeviral.ai/ai-photo-generator)
 - [All AI video templates](https://www.makeviral.ai/templates)
+
+## New AI video trends this week
+
+- [Christmas Dance AI: Do the New TikTok Christmas Dance From Your Photos](https://www.makeviral.ai/templates/christmas-dance-ai-trend): Hip sways with the hands at the collar, rolling arms, a quick spin and raised fists, side by side in matching Christmas pajamas. Add two photos for the duo, one for a solo take, or two pets, and get the dance with the sound.
+- [Cat on Ultra Bee AI: Put Your Pet on the Wheelie](https://www.makeviral.ai/templates/cat-on-ultra-bee-ai-trend): Add one photo, and your cat or dog stands on an electric dirt bike and holds a long wheelie down a city road at golden hour, in the same shots as the viral clip, with its original sound. You can take the ride yourself, too.
+- [Tus Ojos Me Reflejan el Sentimiento: The Cafuné Eye Close-Up Trend](https://www.makeviral.ai/templates/tus-ojos-me-reflejan-ai-trend): You lie on your side, a hand rests on your cheek, warm light falls on your face, and the camera slowly moves in until your eyes fill the screen while the line plays. One photo in, an 8-second vertical clip with the trend's song out.
+- [İnşallah Maşallah AI Trend: Sing Neşe Karaböcek's Song on the Couch](https://www.makeviral.ai/templates/insallah-masallah-ai-trend): You sit on a light grey couch and sing the old Turkish love song straight to the camera: a hand on the heart, a big laugh with both hands on your head, a finger pointed at the camera and a kiss at the end. One photo of you, a grandparent or your pet, and the 15-second clip comes with the song.
+- [Ice Ice Baby Dance AI: Do the Viral Duo Dance With a Friend](https://www.makeviral.ai/templates/ice-ice-baby-dance-ai): Two dancers side by side, the same bouncy 90s steps, a spin on the beat and a strut to the camera. Add a photo of you and a friend, of you alone, or of your pet, and get the dance with the sound.
+- [Save Yourself Trend: Pull Yourself Up From the Cliff](https://www.makeviral.ai/templates/save-yourself-ai-trend): One photo plays both of you: the scared you clinging to a wet sea cliff, and the calm you who reaches down, pulls you up and holds you. Or use two photos: an older photo of you and a new one, or you and a friend. 15 seconds, vertical.
 
 ## Make your own Nicole Kidman Dance video
 

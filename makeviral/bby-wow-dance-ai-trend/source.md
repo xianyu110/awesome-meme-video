@@ -72,12 +72,24 @@ One-tap version of this variant: https://www.makeviral.ai/templates/bby-wow-danc
 
 #### Variant: Pet
 
-Settings: 1 photo (your pet, whole body) · h3-recast · 10 s · 720p · 9:16 · no sound · 120 credits in one tap.
+Settings: 1 photo (your pet, whole body) · Seedance 2.5 · 10 s · 720p · 9:16 · no sound · 152 credits in one tap.
 
-1. The video prompt is filled in. Settings: h3-recast, 10 s, 720p, 9:16, sound off. The video prompt:
+1. The video prompt is filled in. Settings: Seedance 2.5, 10 s, 720p, 9:16, sound off. The video prompt:
 
    ```text
-   Image 1 replaces the cat in the black backwards cap on the left who dances upright on its hind legs, in every shot, also when it turns to the side or its back is to the camera. Keep the pet's face shape, ears, fur colors, fur length and markings from image 1, on the whole body, the head, the legs and the tail, not those of the cat in the video. The pet wears the same black backwards cap. The pet keeps the natural body volume and proportions of its own animal: never flattened, squashed, stretched or merged with anything. If image 1 shows a dog or another animal, that animal takes the same place, standing upright on its hind legs and doing the same paw moves, with its own ears and muzzle. The cat with the pink flower on the right stays exactly as in the video, with its own face, in every shot. Keep the shopping mall, the shiny stone floor, the ceiling lights, the dance moves, the motion and the camera exactly as in the video.
+   Recreate the reference video [Video 1] shot for shot: the same shopping mall with the shiny grey stone floor, the ceiling lights, the shop fronts and the colorful kiddie ride behind, the same fixed camera, framing, timing and dance moves, and the same white cat with the pink flower and the pink collar on the right, with its own face and coat, in every frame. The ONLY change: the cat in the black backwards cap who dances upright on the left is now the pet in [Image 1].
+
+The dancer on the left = the pet in [Image 1], whole body, in every frame, also when it turns to the side: the same species and breed, head shape, face shape, muzzle, eyes, eye color, ear size and shape, fur colors, fur length and markings as in [Image 1], on the head, the body, the legs and the tail, with the natural body volume and proportions of that animal: never flattened, squashed, stretched or merged with anything, so its owner instantly recognizes it. It stands upright on its hind legs like a person the whole time. It wears the same black backwards cap and a black collar with a plain round silver pendant with no letters on it. Never drift back to the cat of the original video on the left: not its coat, its face or its ears, unless [Image 1] shows them. If [Image 1] shows a dog or another animal, that animal dances in the same place with the same paw moves and the same cap, with its own ears, muzzle and tail.
+
+The pet from [Image 1] replaces only the cat on the left. The white cat on the right stays exactly as in the video and never takes the pet's face or coat.
+
+The dance, one continuous take, matching the reference second by second, both on the beat:
+[0-2 s]: both front paws up high, then a bouncy palms-up shrug.
+[2-5 s]: front paws crossed at the chest, little bounces and hip sways, a paw sliced across the chest.
+[5-6.5 s]: both turn sideways toward the right.
+[6.5-10 s]: side-on struts in place, tails swinging, the pet on the left looks back at the camera.
+
+Anatomy rules: one head per animal, one tail each. Two hind legs on the floor and two front legs each, no extra legs or paws, no human hands. Exactly two animals. No people, no text, no letters, no logos, no watermark. No dialogue throughout the entire video. No background music.
    ```
 
 2. Press Generate, then download the 9:16 MP4.
@@ -192,7 +204,7 @@ Garage is the BbY WOW dance challenge routine that people post on TikTok. The Bb
 
 ### Which AI models make the videos?
 
-Garage uses Kling 3.0 Motion Control: it copies the moves of a solo take of the dance onto the person in your photo, at 720p in your photo's frame. Pet uses H3 Recast, which puts your pet into the AI cat reel.
+Garage uses Kling 3.0 Motion Control: it copies the moves of a solo take of the dance onto the person in your photo, at 720p in your photo's frame. Pet uses top-quality AI video models, which put your pet into the AI cat reel.
 
 ### What prompt does the BbY WOW trend use?
 
@@ -212,6 +224,15 @@ Garage makes about 9 seconds at 720p in the frame of your photo, so a vertical p
 - [AI Reels](https://www.makeviral.ai/tools/ai-reels-generator): Pick a format, give it a topic or a product link, and get a finished vertical reel with voice and captions. Nothing to film, nothing to edit.
 - [AI photo generator](https://www.makeviral.ai/ai-photo-generator)
 - [All AI video templates](https://www.makeviral.ai/templates)
+
+## New AI video trends this week
+
+- [Christmas Dance AI: Do the New TikTok Christmas Dance From Your Photos](https://www.makeviral.ai/templates/christmas-dance-ai-trend): Hip sways with the hands at the collar, rolling arms, a quick spin and raised fists, side by side in matching Christmas pajamas. Add two photos for the duo, one for a solo take, or two pets, and get the dance with the sound.
+- [Cat on Ultra Bee AI: Put Your Pet on the Wheelie](https://www.makeviral.ai/templates/cat-on-ultra-bee-ai-trend): Add one photo, and your cat or dog stands on an electric dirt bike and holds a long wheelie down a city road at golden hour, in the same shots as the viral clip, with its original sound. You can take the ride yourself, too.
+- [Tus Ojos Me Reflejan el Sentimiento: The Cafuné Eye Close-Up Trend](https://www.makeviral.ai/templates/tus-ojos-me-reflejan-ai-trend): You lie on your side, a hand rests on your cheek, warm light falls on your face, and the camera slowly moves in until your eyes fill the screen while the line plays. One photo in, an 8-second vertical clip with the trend's song out.
+- [İnşallah Maşallah AI Trend: Sing Neşe Karaböcek's Song on the Couch](https://www.makeviral.ai/templates/insallah-masallah-ai-trend): You sit on a light grey couch and sing the old Turkish love song straight to the camera: a hand on the heart, a big laugh with both hands on your head, a finger pointed at the camera and a kiss at the end. One photo of you, a grandparent or your pet, and the 15-second clip comes with the song.
+- [Ice Ice Baby Dance AI: Do the Viral Duo Dance With a Friend](https://www.makeviral.ai/templates/ice-ice-baby-dance-ai): Two dancers side by side, the same bouncy 90s steps, a spin on the beat and a strut to the camera. Add a photo of you and a friend, of you alone, or of your pet, and get the dance with the sound.
+- [Save Yourself Trend: Pull Yourself Up From the Cliff](https://www.makeviral.ai/templates/save-yourself-ai-trend): One photo plays both of you: the scared you clinging to a wet sea cliff, and the calm you who reaches down, pulls you up and holds you. Or use two photos: an older photo of you and a new one, or you and a friend. 15 seconds, vertical.
 
 ## Make your own BbY WOW Dance video
 

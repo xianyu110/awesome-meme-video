@@ -1,0 +1,56 @@
+{
+  "source": "makeviral",
+  "source_site": "https://www.makeviral.ai",
+  "slug": "convertible-coffee-drive-ai-trend",
+  "name": "Convertible Coffee Drive AI: Coffee, Top Down, You at the Wheel",
+  "url": "https://www.makeviral.ai/templates/convertible-coffee-drive-ai-trend",
+  "markdown_url": "https://www.makeviral.ai/templates/convertible-coffee-drive-ai-trend.md",
+  "blurb": "The Convertible Coffee Drive AI trend puts you in the driver's seat of a red leather convertible on a city drive: you reach for a takeaway coffee, sip it and talk with your hands while glass towers roll past, like a morning car vlog.",
+  "updated": "2026-11-04",
+  "published": "2026-11-04",
+  "credits": 126,
+  "demo_videos": [
+    "https://www.makeviral.ai/media/templates/convertible-coffee-drive-ai-trend/example.mp4"
+  ],
+  "posters": [
+    "https://www.makeviral.ai/media/templates/convertible-coffee-drive-ai-trend/example-input.jpg",
+    "https://www.makeviral.ai/media/templates/convertible-coffee-drive-ai-trend/example-poster.jpg"
+  ],
+  "prompts": [
+    {
+      "label": "1. The video prompt is filled in. Settings: Seedance 2.5, 10 s, 720p, 9:16, sound on. The video prompt",
+      "variant": null,
+      "kind": "video_prompt",
+      "text": "[Image 1] defines CHARACTER. Use CHARACTER's complete image-defined appearance, including identity, face, hair, skin, anatomy, proportions, clothing and accessories. Preserve all reference-defined features across every frame.\n\nTARGET LOCK: CHARACTER is the single driver seated in the front seat of the convertible car, in every frame: copy the exact face from [Image 1] (the face shape, eye color and eye shape, eyebrows, nose, mouth, skin tone, age, hair color, hair length and hairstyle, and any beard, moustache, glasses or freckles exactly as in the photo). The same face from the first frame to the last, so their friends recognize them at once. CHARACTER wears the clothes from [Image 1].\n\nSCENE: a real phone video, vertical 9:16, one continuous take with no cuts: an open-top convertible car with red leather seats, driving slowly through a city street lined with tall glass skyscrapers on an overcast day. The camera is fixed low on the passenger side, looking up toward the driver: the dark frame of the folded soft top and the small interior light at the top of the frame, the red leather seats, the dashboard, the steering wheel, the center console and the city buildings passing outside. The seatbelt is on.\n\nPERFORMANCE: Preserve the seated posture, seatbelt placement, torso lean, head turns, eye lines, blinking, mouth movements, expressive hand gestures, pointing, wrist rotations, pauses and reactions of a relaxed morning car vlog. 0-2 s: the left hand on the steering wheel, the opening reach toward the center console and the lifting of the takeaway cup, a plain kraft-paper takeaway coffee cup with a plain white lid, no logo, no print and no sleeve text. 2-4 s: the sip around 2-3 s, then lowering and repositioning the cup. 4-10 s: subsequent conversation-like gestures while holding it: CHARACTER glances ahead at the road, turns back toward the camera, points ahead with the cup hand, rotates the wrist, pauses and smiles, as if telling a friend in the passenger seat a story; the lips move a little, but no voice is heard. The left hand stays on or near the wheel.\n\nOBJECT CONTACT LOCK: Keep the same takeaway cup, lid, steering wheel, seatbelt and console. One hand handles the cup, cup-to-mouth contact at the sip, a steady grip and cup orientation. No floating props, merged fingers, duplicated hands, missing cup or broken contact.\n\nCONTINUITY: The same CHARACTER appears at every instant, including profile, three-quarter view, hand occlusion, drinking, quick gestures and gaze changes. No identity switching, skin/hair drift, outfit flicker or extra people.\n\nSound: a relaxed, upbeat original instrumental beat, soft wind over the open top and light city traffic. No dialogue throughout the entire video, no singing, no voice-over.\n\nExactly one person in the car: one head, two arms, five fingers on each hand. No car brand logo, badge or emblem anywhere (steering wheel hub, dashboard, seats), no logo or text on the cup, no number plates, no text, no captions, no watermark."
+    },
+    {
+      "label": "1. Open [AI Photo with this template](https://www.makeviral.ai/photo?template=convertible-coffee-drive-ai-trend&variant=pet) and add your photo (your pet, whole body). The photo prompt is filled in",
+      "variant": "Pet",
+      "kind": "photo_prompt",
+      "text": "The pet from the uploaded image sits upright in the driver's seat of an open-top convertible car with red leather seats, driving slowly through a city street lined with tall glass skyscrapers on an overcast day. The camera is fixed low on the passenger side, looking up toward the driver: the dark frame of the folded soft top and the small interior light at the top of the frame, the red leather seats, the dashboard, the steering wheel, the center console and the city buildings passing outside. Its front paws rest on the steering wheel, and a plain kraft-paper takeaway coffee cup with a plain white lid, no logo, no print and no sleeve text stands in the cup holder of the center console. The pet faces three-quarters toward the camera, eyes open, ears in their natural position. Keep the pet's species, breed look, face, eyes, ears, muzzle, fur colors, fur length and markings exactly as in the photo, with the natural body size and proportions of that animal next to the seat and the wheel: never shrunk, stretched or merged with the seat. Its own collar or harness, if the photo shows one. A real phone video still, photorealistic, soft overcast daylight, vertical 9:16. No people, no car brand logo, badge or emblem, no logo or text on the cup, no number plates, no text, no watermark."
+    },
+    {
+      "label": "3. Press the film button on the still to open AI Video with the still as the first frame. Settings: Kling 3.0, 10 s, 1080p, 9:16, sound on. The video prompt",
+      "variant": null,
+      "kind": "video_prompt",
+      "text": "Keep the pet, the car and the city exactly as in the image. A real phone video, vertical 9:16, one continuous take from the fixed low passenger-side camera, while the convertible rolls slowly forward and the glass towers glide past outside; the pet's fur and ears move a little in the wind. 0-3 s: the pet sits at the wheel, front paws on it, and looks ahead at the road. 3-6 s: it leans down to the takeaway cup in the console, sniffs the lid and gives it one quick lick. 6-10 s: it turns its head to the camera with a proud, happy face, then looks ahead again, paws back on the wheel. Sound: a relaxed, upbeat instrumental beat, soft wind and light city traffic. No people, no talking. The pet keeps its own face, fur and body size in every frame, one head, no morphing. The cup stays in the holder, no floating props. No car brand logo or badge, no logo or text on the cup, no text, no watermark."
+    }
+  ],
+  "variant_headings": [
+    "What the Convertible Coffee Drive video looks like",
+    "How to make the Convertible Coffee Drive video on MakeViral",
+    "Which photo works best?",
+    "What happens in your convertible coffee drive video?",
+    "Human or Pet: which version should you pick?",
+    "How do I make the convertible coffee drive video?",
+    "Can I make an AI video of me driving a convertible without a car?",
+    "Is this an AI car driving video generator?",
+    "How long is the video, and does it have sound?",
+    "Is my photo private?",
+    "Other AI video templates and tools",
+    "New AI video trends this week",
+    "Make your own Convertible Coffee Drive video"
+  ],
+  "prompt_count": 3,
+  "scraped_at": "2026-11-08"
+}

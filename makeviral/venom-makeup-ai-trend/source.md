@@ -3,7 +3,7 @@
 > The Venom makeup trend is the Halloween half-face look on TikTok: one half of the face painted glossy black, with a big white jagged eye, long white fangs along the jaw and veins down the neck.
 
 Canonical: https://www.makeviral.ai/templates/venom-makeup-ai-trend
-Updated: 2026-10-22
+Updated: 2026-10-27
 Published: 2026-10-22
 Author: MakeViral Team (https://www.makeviral.ai/about)
 Publisher: MakeViral (https://www.makeviral.ai)
@@ -16,7 +16,7 @@ Also called: Venom transition, We are Venom trend, Venom challenge, Half Venom f
 
 **Make it now:** [Make this video](https://www.makeviral.ai/templates/venom-makeup-ai-trend/create). 1 photo · 10 s · 9:16 with sound · 126 credits, charged once · ready in a few minutes · no prompt to write.
 
-Keyword: venom makeup. Also answers: venom face paint, venom makeup trend, venom halloween makeup, venom face makeup, venom makeup look, venom half face makeup, venom makeup ai, venom makeup tutorial, venom makeup easy, venom makeup tiktok trend, half venom makeup, venom makeup half face, venom face paint half face, venom makeup tiktok, venom makeup transition, venom ai filter, venom filter ai, venom makeup filter, venom face filter, venom transformation ai, venom ai video, venom ai effect, venom makeup girl, venom makeup female, venom makeup women, venom makeup men, she venom makeup, venom makeup ideas, venom makeup inspo, venom makeup simple, venom face paint easy, venom face paint trend, venom symbiote makeup, venom teeth makeup, venom eye makeup, venom sfx makeup, venom glam makeup, venom makeup for halloween, venom makeup step by step, venom makeup capcut, venom makeup video, venom makeup photo, maquillaje de venom, efecto venom, venom make up.
+Keyword: venom makeup. Also answers: venom face paint, venom makeup trend, venom halloween makeup, venom face makeup, venom makeup look, venom half face makeup, venom makeup ai, venom makeup tutorial, venom makeup easy, venom makeup tiktok trend, venom trend, venom make up, venom makeup half face, venom half face, half venom face paint, venom half face paint, half venom makeup, venom trend makeup, half face venom makeup, trend venom, venom make up trend, venom tiktok trend, venom face paint trend, half face venom face paint, trend de venom, venom face trend, venom make up look, venom smink, venom face paint half face, vemon make up, vemon trend, venom trend tiktok, what is the venom trend, тренд веном, venom makeup transition, venom makeup tiktok, venom ai filter, venom filter ai, venom makeup filter, venom face filter, venom transformation ai, venom ai video, venom ai effect, venom makeup girl, venom makeup female, venom makeup women, venom makeup men, she venom makeup, venom makeup ideas, venom makeup inspo, venom makeup simple, venom face paint easy, venom symbiote makeup, venom teeth makeup, venom eye makeup, venom sfx makeup, venom glam makeup, venom makeup for halloween, venom makeup step by step, venom makeup capcut, venom makeup video, venom makeup photo, maquillaje de venom, efecto venom.
 
 ## What is the Venom Makeup AI trend, and where did it start?
 
@@ -208,9 +208,9 @@ Yes. Pick Photo for a still of the venom makeup look on your own face. It shows 
 
 Before Halloween on Saturday, 31 October 2026. US searches for venom makeup rose from 140 in July to 3,600 in September 2026, and the trend usually ends with the season. Post it with #venommakeup and #venom, and keep the AI label on.
 
-### What do people call it in Spanish?
+### What do people call it in other languages?
 
-In Spanish it is the maquillaje de Venom, and the AI clips are the efecto Venom. Some people type it as venom make up, with a space.
+In Spanish it is the maquillaje de Venom or the trend de Venom, and the AI clips are the efecto Venom. In Swedish it is Venom smink, and in Russian it is тренд Веном. In English, some people type it as venom make up, with a space, or as vemon, and they mean the same look.
 
 ### How long is the video, and how big is the photo?
 
@@ -233,6 +233,15 @@ Yes. MakeViral does not post your selfie or the result anywhere or show them to 
 - [AI Reels](https://www.makeviral.ai/tools/ai-reels-generator): Pick a format, give it a topic or a product link, and get a finished vertical reel with voice and captions. Nothing to film, nothing to edit.
 - [AI photo generator](https://www.makeviral.ai/ai-photo-generator)
 - [All AI video templates](https://www.makeviral.ai/templates)
+
+## New AI video trends this week
+
+- [Christmas Dance AI: Do the New TikTok Christmas Dance From Your Photos](https://www.makeviral.ai/templates/christmas-dance-ai-trend): Hip sways with the hands at the collar, rolling arms, a quick spin and raised fists, side by side in matching Christmas pajamas. Add two photos for the duo, one for a solo take, or two pets, and get the dance with the sound.
+- [Cat on Ultra Bee AI: Put Your Pet on the Wheelie](https://www.makeviral.ai/templates/cat-on-ultra-bee-ai-trend): Add one photo, and your cat or dog stands on an electric dirt bike and holds a long wheelie down a city road at golden hour, in the same shots as the viral clip, with its original sound. You can take the ride yourself, too.
+- [Tus Ojos Me Reflejan el Sentimiento: The Cafuné Eye Close-Up Trend](https://www.makeviral.ai/templates/tus-ojos-me-reflejan-ai-trend): You lie on your side, a hand rests on your cheek, warm light falls on your face, and the camera slowly moves in until your eyes fill the screen while the line plays. One photo in, an 8-second vertical clip with the trend's song out.
+- [İnşallah Maşallah AI Trend: Sing Neşe Karaböcek's Song on the Couch](https://www.makeviral.ai/templates/insallah-masallah-ai-trend): You sit on a light grey couch and sing the old Turkish love song straight to the camera: a hand on the heart, a big laugh with both hands on your head, a finger pointed at the camera and a kiss at the end. One photo of you, a grandparent or your pet, and the 15-second clip comes with the song.
+- [Ice Ice Baby Dance AI: Do the Viral Duo Dance With a Friend](https://www.makeviral.ai/templates/ice-ice-baby-dance-ai): Two dancers side by side, the same bouncy 90s steps, a spin on the beat and a strut to the camera. Add a photo of you and a friend, of you alone, or of your pet, and get the dance with the sound.
+- [Save Yourself Trend: Pull Yourself Up From the Cliff](https://www.makeviral.ai/templates/save-yourself-ai-trend): One photo plays both of you: the scared you clinging to a wet sea cliff, and the calm you who reaches down, pulls you up and holds you. Or use two photos: an older photo of you and a new one, or you and a friend. 15 seconds, vertical.
 
 ## Make your own Venom Makeup AI video
 

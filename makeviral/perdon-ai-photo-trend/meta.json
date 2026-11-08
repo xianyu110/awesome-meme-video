@@ -6,7 +6,7 @@
   "url": "https://www.makeviral.ai/templates/perdon-ai-photo-trend",
   "markdown_url": "https://www.makeviral.ai/templates/perdon-ai-photo-trend.md",
   "blurb": "The perdon trend is the TikTok AI vs reality photo trend: first a perfect AI photo of you (\"esta soy yo\"), then the real photo with the word \"perdón\" (sorry).",
-  "updated": "2026-10-21",
+  "updated": "2026-11-06",
   "published": "2026-10-19",
   "credits": 3,
   "demo_videos": [
@@ -21,6 +21,18 @@
       "variant": null,
       "kind": "prompt",
       "text": "Use the uploaded image as the base. Make the perfect, idealized AI version of this exact photo, the \"this is me\" first slide of an AI vs reality photo post: the same person, the same pose, the same moment and the same camera angle, but everything a little too perfect. Upgrade only these things, like an AI photo edit that went a little too far: the place becomes the dream version of where the photo was taken (a plain room becomes a bright luxury living room with marble, fresh white flowers and warm lamps; a local court, field or gym becomes a big modern stadium full of cheering fans under bright lights; a street becomes a stylish city street at golden hour; a beach becomes a perfect sunny beach with turquoise water; a kitchen or dining table becomes an elegant restaurant table); the light becomes soft, warm, flattering photo-shoot light with a gently blurred background; the image is sharp, clean and polished, like a professional photographer's shot. The hair is freshly styled at a salon, glossy and neat, in its own color and its own length. The clothes become a clean, ironed, stylish version of the same outfit in the same colors. The skin looks rested and fresh; if the photo shows makeup, it is neat. The expression stays the same, relaxed and photogenic. Keep the body shape and body size exactly as in the photo: never slimmer, curvier, taller or more muscular. Keep the age. Exactly one person: nobody added, nobody removed; a pet in the photo stays, groomed and fluffy. Any logo, crest, brand name or writing on the clothes or in the place becomes plain. Vertical 9:16; if the photo is wider, extend the dream place naturally. Photorealistic, so people believe it for a second. No text, no captions, no stickers, no logos, no watermark, no frame."
+    },
+    {
+      "label": null,
+      "variant": null,
+      "kind": "prompt",
+      "text": "Use the uploaded image as the base. Make the \"this is my boyfriend, he's really tall\" first slide of an AI vs reality couple post: the same two people, the same place, the same pose, the same moment and the same camera angle, but the boyfriend is now really, really tall. The boyfriend is the man in the photo; if the photo shows two men or two women, he is the person on the right. He becomes very tall, whatever his real height: the top of the other person's head reaches only to his chest or his shoulder, at least a head and a half below his head. He keeps the natural, believable proportions of a very tall man: longer legs and a longer body, his own build and his own head size, never stretched thin, never cartoonish, never more muscular. His feet stand on the same ground as hers, and his pose stays the same: an arm around her stays around her, a hand on her shoulder or waist stays there, adjusted naturally to his new height. He also gets a polished look, like an AI photo edit that went a little too far: neatly styled hair in its own color and its own length, a clean, ironed, well-fitting version of the same outfit in the same colors, a fresh, rested face and a confident, relaxed posture. The other person stays exactly as in the photo: the same height, body, pose, clothes and hair; nobody becomes shorter. The camera pulls back just enough that both people show head to feet, with his head well inside the top of the frame. The place stays the same place with the same light, only sharper and cleaner, like a professional photographer's shot. Keep both faces and both ages exactly as in the photo. Exactly the people of the photo: nobody added, nobody removed; if the photo shows only one person, that person is the boyfriend and becomes the very tall one. Any logo, crest, brand name or writing on the clothes or in the place becomes plain. Vertical 9:16; if the photo is wider, extend the dream place naturally. Photorealistic, so people believe it for a second. No text, no captions, no stickers, no logos, no watermark, no frame."
+    },
+    {
+      "label": null,
+      "variant": null,
+      "kind": "prompt",
+      "text": "Use the uploaded image as the base. This is one step of an \"I'm so sorry\" AI edit carousel: the same photo gets one more AI edit each time, and each edit is bigger than the last. Make ONE distinct change: the first edit in this list that the image does not show yet. 1) Edit this image by giving the subject thick, glossy, freshly styled salon hair in its own color and its own length, and a clean, ironed, stylish designer version of the same outfit in the same colors. 2) Edit this image by turning the place into its dream version: a plain room becomes a bright luxury living room with marble, fresh white flowers and warm lamps; a local court, field or gym becomes a big stadium full of cheering fans under bright lights; a street becomes a stylish city street at golden hour; a beach becomes a perfect sunny beach with turquoise water; with soft, warm photo-shoot light. 3) Edit this image by giving the subject the over-the-top luxury life: a shiny new sports car with no badge parked right behind them, a gold watch and a thin gold chain. If the image already shows all three, make the third edit even bigger: a white luxury yacht on blue sea behind the subject. Apply this change proportionally across the entire subject, as if they naturally had it. Leave all other details in the scene unchanged: everything the image already shows, also every earlier edit, stays exactly as it is. The same pose, the same moment and the same camera angle. Keep the face, the age, the skin tone, the body shape and the body size exactly as in the image, unless this edit asks for bigger muscles. Exactly the people of the image: nobody added, nobody removed; a pet in the image stays, groomed and fluffy. Any logo, crest, brand name or writing on the clothes or in the place becomes plain. Vertical 9:16; if the photo is wider, extend the dream place naturally. Photorealistic, so people believe it for a second. No text, no captions, no stickers, no logos, no watermark, no frame."
     },
     {
       "label": null,
@@ -49,8 +61,9 @@
     "Is the photo real or AI?",
     "Is my photo private?",
     "Other AI video templates and tools",
+    "New AI video trends this week",
     "Make your own Perdon Trend photo"
   ],
-  "prompt_count": 4,
-  "scraped_at": "2026-10-23"
+  "prompt_count": 6,
+  "scraped_at": "2026-11-08"
 }

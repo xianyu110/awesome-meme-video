@@ -1,0 +1,36 @@
+# Boyfriend Makeup Prank: Give Him Full Glam From One Photo
+
+- Source: [makeviral](https://www.makeviral.ai/templates/boyfriend-makeup-prank-filter)
+- Slug: `boyfriend-makeup-prank-filter`
+
+The boyfriend makeup prank turns one photo of him into a 10-second video: a hand dabs on foundation, sweeps on blush, draws eyeliner, presses on false lashes and paints his lips, and he ends in full glam with a shocked grin.
+
+## Demo videos (CDN)
+
+- https://www.makeviral.ai/media/templates/boyfriend-makeup-prank-filter/original-main-v2.mp4
+
+## Posters
+
+- https://www.makeviral.ai/media/templates/boyfriend-makeup-prank-filter/original-main-v1.jpg
+
+## Prompts
+
+### 1. 2. The video prompt is filled in. Settings: Kling 3.0, 10 s, 1080p, 9:16, sound on. The video prompt
+
+*Kind: video_prompt*
+
+```text
+Use the photo as the first frame and keep the man in it exactly as photographed: same face, hair, clothes, room and light. Vertical 9:16 phone video from a fixed phone camera in front of him. A friend's hands come in from the sides and give him a full face of makeup: foundation and blush, eyeshadow, mascara and lashes, then lipstick last. He sits still, blinking and looking straight ahead, a little amused. By the end he has a full glam face of makeup and gives a small shrug at the camera. Natural room light, one continuous take. Audio: brushes tapping and a light upbeat track, no talking. No text, no captions, no logos, no watermark.
+
+The steps, one at a time:
+0-1 s: the photo comes to life; he looks into the lens with wide eyes and an excited, open-mouthed face, his bare skin exactly as in the photo.
+1-3 s: a hand dabs concealer under his eyes with a small brush, then a makeup sponge blends foundation over his whole face; the skin turns smooth and even.
+3-4.5 s: a fluffy brush sweeps contour under the cheekbones and pink blush on the cheeks.
+4.5-6 s: a thin brush draws a sharp black winged eyeliner and soft brown eyeshadow; a mascara wand coats the lashes.
+6-7.5 s: tweezers press long, full false lashes onto each eye; he opens his eyes wide.
+7.5-8.5 s: a lip brush paints glossy pink-nude lipstick on his lips.
+8.5-10 s: the hands leave. He sees his full glam face, his eyes go wide in shock, then he breaks into a big, surprised smile and gives the small shrug.
+
+He is the same person from the first frame to the last: the same face shape, eyes, eye color, nose, mouth, ears, hair, beard or stubble, skin tone and age as in the photo, so his friends recognize him at once under the makeup. Never morph, never turn him into another person, never change the gender: only the makeup changes. Exactly one face in the frame; only the friend's hands and forearms come in, never a second face. Plain makeup tools with no brand names or logos. The same head size and framing as the photo, no zoom, no cuts.
+```
+

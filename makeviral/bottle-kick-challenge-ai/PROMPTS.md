@@ -1,0 +1,62 @@
+# Bottle Kick Challenge AI: Karate-Kick the Bottles From One Photo
+
+- Source: [makeviral](https://www.makeviral.ai/templates/bottle-kick-challenge-ai)
+- Slug: `bottle-kick-challenge-ai`
+
+The bottle kick challenge AI trend puts you, or your pet, into the viral clip of October 2026: a karate stance next to two bottles stacked on a box, dramatic practice kicks, one real kick, bottles flying and a limp out of frame.
+
+## Demo videos (CDN)
+
+- https://www.makeviral.ai/media/templates/bottle-kick-challenge-ai/original-dog-v2.mp4
+- https://www.makeviral.ai/media/templates/bottle-kick-challenge-ai/original-main-v2.mp4
+- https://www.makeviral.ai/media/templates/bottle-kick-challenge-ai/original-pet-v2.mp4
+
+## Posters
+
+- https://www.makeviral.ai/media/templates/bottle-kick-challenge-ai/original-dog-v1.jpg
+- https://www.makeviral.ai/media/templates/bottle-kick-challenge-ai/original-main-v1.jpg
+- https://www.makeviral.ai/media/templates/bottle-kick-challenge-ai/original-pet-v1.jpg
+
+## Prompts
+
+### 1. 1. The video prompt is filled in. Settings: Seedance 2.5, 10 s, 720p, 9:16, sound off. The video prompt
+
+*Kind: video_prompt*
+
+```text
+Replace the character in the video with the one in [Image 1], while strictly preserving the movements of the character in the video.
+
+Recreate the reference video [Video 1] shot for shot: the same sunlit room of a traditional riad with warm beige plaster walls, the dark carved wooden window frame with the small brass lantern and the palm leaves outside, the patterned tile floor, the waist-high box covered in blue, green and white mosaic tiles, and on it the two plain yellow plastic bottles with red caps, one stacked on top of the other; the same fixed camera, the same vertical framing, timing and moves, one continuous take with no cuts. The ONLY change: the thin man with the dark hair bun, the thick black moustache, the white short-sleeved shirt, the grey patterned sweater vest and the grey trousers who poses and kicks next to the box is now the person in [Image 1].
+
+The kicker = the person in [Image 1], in EVERY frame: copy the exact face from [Image 1] (the face shape, eye color and eye shape, eyebrows, nose, mouth, skin tone, age, hair color, hair length and hairstyle, and any beard, moustache, glasses or freckles). The kicker wears exactly the clothes from [Image 1] in every frame: the same top with the same color, pattern and print, front and back. NEVER the hair bun, the thick moustache, the sweater vest or the white short-sleeved shirt of the man in the video unless [Image 1] shows them: the hair and the face are those of [Image 1]. If [Image 1] does not show the legs, plain dark trousers that go with that top. The same real person in every frame, from the first second to the last, so their friends instantly recognize them, also in the fast kick and when the back of the head shows. Never morph, never drift back to the original man's face, hair or clothes. If [Image 1] shows an animal, the kicker is that animal standing upright, with its own face, fur and markings.
+
+The kicker copies the man's moves second by second, with the same serious, over-confident martial arts face:
+0-3 s: stands in a low fighting stance to the left of the box, fists up by the chin, then small hops and feints, staring hard at the bottles.
+3-6 s: lifts one knee high toward the bottles in a slow practice kick, pulls it back, fists up, then another practice kick.
+6-8 s: more knee raises and fake kicks, leaning in close to the bottles, total concentration.
+8-8.6 s: the real kick: the leg swings, the top bottle flies up, the bottom bottle falls and the tiled box tips over.
+8.6-10 s: hops on one leg holding the kicking foot, turns away and limps off with the back to the camera.
+
+Anatomy rules: one head only, on the kicker's shoulders. Two arms, two legs, five fingers on each hand. Exactly one person. The two bottles stay plain: clear yellow plastic with red caps, no label, no brand, no logo and no writing on them, also when they fly. No text, no captions, no logos, no watermark.
+```
+
+### 2. 1. The video prompt is filled in. Settings: Seedance 2.5, 10 s, 720p, 9:16, sound off. The video prompt (Pet)
+
+*Kind: video_prompt*
+
+```text
+Replace the character in the video with the one in [Image 1], while strictly preserving the movements of the character in the video.
+
+Recreate the reference video [Video 1] shot for shot: the same plain grey room with the big framed picture on the wall, the light wooden box with dovetail corners, and on it the two plain yellow plastic bottles, one stacked on top of the other; the same fixed camera, the same close vertical framing, timing and moves, one continuous take with no cuts. The ONLY change: the cat that stands upright on its hind legs to the left of the box is now the pet in [Image 1].
+
+The kicker = the pet in [Image 1], in every frame: the same species and breed, head shape, muzzle, eyes, ears, fur colors, fur length, markings and body shape as in [Image 1], with the natural body volume and proportions of that animal: never flattened, squashed, stretched or merged with anything, so its owner instantly recognizes it. Never drift back to the cat of the original video: not the coat, the stripes or the white chest of the cat in the video unless [Image 1] shows them. It stands upright on its hind legs like a little martial artist the whole time. If [Image 1] shows a dog or another animal, that animal takes the same place and makes the same moves, with its own ears and muzzle.
+
+The pet copies the cat's moves second by second, with a serious, wide-eyed face:
+0-3 s: stands upright to the left of the box, front paws up like a boxer's guard, staring hard at the bottles.
+3-6.5 s: swings a hind leg up in practice kicks and chops the air with its front paws, leaning in close to the bottles.
+6.5-7.5 s: the real kick: the bottles fly off the box and roll away.
+7.5-10 s: it jumps back with its paws in the air, spins around and bounces away.
+
+Real animal anatomy: furry front legs ending in round paws in their own fur, never human hands, no fingers. One head, two hind legs and two front legs, no extra legs or paws, one tail if the animal has one. Exactly one animal, no people. The two bottles stay plain: clear yellow plastic, no label, no brand, no logo and no writing on them. No text, no captions, no logos, no watermark.
+```
+

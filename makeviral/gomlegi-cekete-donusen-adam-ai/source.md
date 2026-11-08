@@ -77,51 +77,22 @@ One-tap version of this variant: https://www.makeviral.ai/templates/gomlegi-ceke
 
 #### Variant: Two people
 
-Settings: 2 photos (the dancer, face clear + the spoon player, face clear) · genjutsu-motion · 15 s · 480p · 9:16 · no sound · 191 credits in one tap.
+Settings: 2 photos (the dancer, face clear + the spoon player, face clear) · Seedance 2.5 · 15 s · 720p · 9:16 · no sound · 228 credits in one tap.
 
-1. The video prompt is filled in. Settings: genjutsu-motion, 15 s, 480p, 9:16, sound off. The video prompt:
+1. The video prompt is filled in. Settings: Seedance 2.5, 15 s, 720p, 9:16, sound off. The video prompt:
 
    ```text
-   Use all reference images ONLY as facial identity and hair references.
-IMPORTANT:
-DO NOT transfer clothing, body shape, accessories, pose, background, color palette, or any other visual characteristics from the reference images.
-image 1 = FACE AND HAIR IDENTITY ONLY for the main dancing man.
-image 2 = FACE AND HAIR IDENTITY ONLY for the man in the grey shirt who holds two wooden spoons, leans in beside the camera, shouts and clicks the spoons at the dancer's face.
-STRICT FACE AND HAIR REPLACEMENT:
-Change ONLY the facial identity and the hair of these 2 assigned people.
-Preserve the ORIGINAL VIDEO exactly:
-* exact clothing and wardrobe
-* exact shirt, jacket, pants and shoes
-* exact body and body proportions
-* exact hands and skin outside the face
-* exact accessories
-* exact dance movements
-* exact gestures and poses
-* exact facial performance and expressions
-* exact camera movement
-* exact framing
-* exact lighting
-* exact environment
-* exact background
-* exact drum and instruments
-* exact choreography
-* exact timing
-CRITICAL:
-The reference images are FACE AND HAIR IDENTITY REFERENCES ONLY.
-IGNORE ALL clothing, body, accessories, pose and background information from image 1 and image 2.
-Especially for image 1:
-DO NOT change the main dancing man's original outfit in any way.
-DO NOT copy any clothing from image 1.
-Keep his original clothing from the source video 100% unchanged.
-Each face must stay assigned to the correct person throughout the entire video.
-Match the original head angle, perspective, expression, eye direction, mouth movement, lighting, shadows and motion blur.
-Do not regenerate the people.
-Do not restyle them.
-Do not swap bodies.
-Do not add or remove people.
-Do not alter any non-face, non-hair element.
-Perform a seamless, photorealistic FACE AND HAIR SWAP ONLY with stable identity and no flickering, morphing, distortion or identity drift.
-The dancer has the face, skin tone, age and hair of the person in image 1 in every shot, from the first medium shot to the wide shots where he drops into a deep lunge, with a beard only if image 1 shows one. The man with the wooden spoons has the face, skin tone, age and hair of the person in image 2 in every shot, also in the big close-up where he shouts beside the camera. He always wears the grey shirt from the video, never the clothes from image 2, and he never smiles at the camera: he copies the shouting face of the man in the video. If an image shows a headscarf, that person wears the headscarf. Do not mix the two faces. The other guests and the drummer keep their own faces from the video.
+   Use [Image 1] as the exact identity of the man in the blue plaid shirt; keep his face, hair, beard, age and features unchanged throughout. Recreate the same 15 s vertical nighttime Turkish courtyard celebration as a single handheld smartphone shot: warm yellow lighting, red chairs, guests, residential building and a davul drummer entering from the right foreground. The dancer starts calmly, then gradually becomes more energetic with wide steps, one hand often behind his back, raised arm gestures, deep crouches/lunges close to the ground, then rises and continues dancing. The camera naturally walks backward from a medium shot to full body with slight shake, imperfect framing and realistic motion blur. No cuts, cinematic moves, morphing, sliding feet, extra limbs or identity changes; keep it looking like a real spontaneous viral phone video.
+
+Recreate the reference video [Video 1] shot for shot: the same courtyard, guests, drummer, camera, framing and timing, the same dancer's body, moves and clothes, and the same spoon player's body, moves and clothes. Two changes only: the dancer's face and hair are now the face and the hair of the person in [Image 1], and the face and hair of the man in the grey shirt who clicks two wooden spoons beside the dancer's face are now the face and the hair of the person in [Image 2]. Both change: no one from the video keeps their face, also in the wide shots.
+
+The dancer = the person in [Image 1], man or woman, young or old, in every frame: copy the exact face from [Image 1] - face shape, eye color and eye shape, eyebrows, nose, mouth, skin tone, age, hair color, hair length and hairstyle, and any beard, moustache, glasses or headscarf exactly as in the photo. The same real person in every frame, from the first close shot to the wide shots where the dancer drops into a deep lunge, so their friends instantly recognize them. Never morph, never drift back to the original dancer's face, no beard unless [Image 1] shows one. Take only the face, the hair and the skin tone from [Image 1], never the clothes: in every frame the dancer wears the original dancer's loose long-sleeved blue and navy plaid button-up shirt, open at the collar, and the dark trousers. No t-shirt, no jacket, no sweater from [Image 1].
+
+The spoon player = the person in [Image 2], man or woman, young or old, in every frame: copy the exact face from [Image 2] - face shape, eye color and eye shape, eyebrows, nose, mouth, skin tone, age, hair color, hair length and hairstyle, and any beard, moustache, glasses or headscarf exactly as in the photo - also in the big close-up at 4-7 s where he leans in beside the camera, shouts and clicks the spoons at the dancer's face. NO short grey hair unless [Image 2] shows it. Never drift back to the original spoon player's face. Take only the face, the hair and the skin tone from [Image 2], never the clothes: the spoon player always wears the grey shirt from the video. He copies the shouting face of the man in the video and never smiles at the camera.
+
+Two different people: never blend the two faces. [Image 1] is only the dancer, [Image 2] is only the spoon player.
+
+Anatomy rules: one head per person, on their own shoulders. Two arms and two hands each. The other guests and the drummer keep their own faces in every frame and never get the face of [Image 1] or [Image 2]. No text, no subtitles, no logos, no watermark.
    ```
 
 2. Press Generate, then download the 9:16 MP4.
@@ -165,16 +136,16 @@ Your video follows the 15 seconds of @gkhngykc's reel, one handheld take at a ni
 | | You dance | Two people |
 |---|---|---|
 | Photos | 1: the dancer | 2: the dancer, then the spoon player |
-| Model | Seedance 2.5 | Higgsfield Genjutsu |
+| Model | Seedance 2.5 | Seedance 2.5 |
 | How it works | First a portrait of you in the plaid shirt, then your face goes into the reel itself, shot by shot | Both faces go into the reel itself, shot by shot |
-| Frame | Vertical 9:16, 720p | Vertical 9:16, 480p |
+| Frame | Vertical 9:16, 720p | Vertical 9:16, 720p |
 | Length | 15 s | 15 s |
 | Sound | The reel's wedding sound, which you can turn off | The same |
-| Time | Up to several minutes | A few minutes |
+| Time | 5 to 15 minutes | 5 to 15 minutes |
 
 The exact price shows on the Generate button before you spend anything. You write no prompt, and the video waits in My videos when it is ready.
 
-**Why these models?** They are the trend's own tools. @gkhngykc made the reel with Genjutsu, and Two people uses it with his prompt. In Two people the spoon player's face is a big close-up, and in our earlier tests on another reel Genjutsu was the model that swapped two big faces. Many other how-to videos for this trend use Seedance 2.5 in CapCut's Dreamina or in Magnific; You dance uses Seedance 2.5 too, with the prompt those videos share.
+**Why this model?** @gkhngykc made the reel with Higgsfield Genjutsu, but many other how-to videos for this trend use Seedance 2.5 in CapCut's Dreamina or in Magnific. Both versions use Seedance 2.5 at 720p, with the prompt those videos share; Two people adds the spoon player's face, also in his big close-up.
 
 ## Why does the shirt turn into a jacket?
 
@@ -202,7 +173,6 @@ Your video comes with the sound of the reel it copies, cut to the same 15 second
 | A short beard appears | The dancer in the reel has one. The prompts ban it unless your photo shows a beard; run it again with a clearer photo. |
 | In Two people, the faces swap or mix | Check the order: photo 1 is the dancer, photo 2 the spoon player. Use two clear photos of two different people. |
 | The spoon player smiles like in his photo | The prompt asks for the shouting face of the reel. Run it again, or use a photo with a neutral face. |
-| The Two people clip looks softer | Two people uses Genjutsu at 480p; You dance is 720p. |
 | The run fails | Some photos get refused. The credits come back; try another photo. |
 
 ## Shirt-to-Jacket Dance trend questions
@@ -237,7 +207,7 @@ The sound of the wedding clip itself: the davul and zurna, the guests, and the l
 
 ### Which AI models make the videos?
 
-You dance uses Seedance 2.5: it first makes a portrait of you in the plaid shirt, then puts your face into the reel itself at 720p, so the guests, the spoons and the drummer stay as in the reel. It can take up to several minutes. Two people uses Higgsfield Genjutsu at 480p with the reel creator's own prompt.
+You dance uses Seedance 2.5: it first makes a portrait of you in the plaid shirt, then puts your face into the reel itself at 720p, so the guests, the spoons and the drummer stay as in the reel. Two people uses Seedance 2.5 at 720p too, with no portrait first: it puts both faces into the reel, and the spoon player keeps his grey shirt. Both can take 5 to 15 minutes.
 
 ### Is the real man from the wedding in my video?
 
@@ -253,7 +223,7 @@ This template is made for people: we found no AI pet version of this trend by 12
 
 ### How long is the video and what format is it?
 
-15 seconds, as a vertical 9:16 MP4: 720p with You dance, 480p with Two people. It comes with the wedding sound, which you can turn off.
+15 seconds, as a vertical 9:16 MP4 at 720p. It comes with the wedding sound, which you can turn off.
 
 ### Is it gömleği ceket olan adam or gömleği cekete dönüşen dayı?
 
@@ -284,6 +254,15 @@ Not quite. It is a Turkish wedding dance AI video with a guest who clicks spoons
 - [AI TikTok Video](https://www.makeviral.ai/tools/ai-tiktok-video-generator): Eight native TikTok formats, one prompt or product URL, a finished 9:16 video with captions burned in.
 - [AI photo generator](https://www.makeviral.ai/ai-photo-generator)
 - [All AI video templates](https://www.makeviral.ai/templates)
+
+## New AI video trends this week
+
+- [Christmas Dance AI: Do the New TikTok Christmas Dance From Your Photos](https://www.makeviral.ai/templates/christmas-dance-ai-trend): Hip sways with the hands at the collar, rolling arms, a quick spin and raised fists, side by side in matching Christmas pajamas. Add two photos for the duo, one for a solo take, or two pets, and get the dance with the sound.
+- [Cat on Ultra Bee AI: Put Your Pet on the Wheelie](https://www.makeviral.ai/templates/cat-on-ultra-bee-ai-trend): Add one photo, and your cat or dog stands on an electric dirt bike and holds a long wheelie down a city road at golden hour, in the same shots as the viral clip, with its original sound. You can take the ride yourself, too.
+- [Tus Ojos Me Reflejan el Sentimiento: The Cafuné Eye Close-Up Trend](https://www.makeviral.ai/templates/tus-ojos-me-reflejan-ai-trend): You lie on your side, a hand rests on your cheek, warm light falls on your face, and the camera slowly moves in until your eyes fill the screen while the line plays. One photo in, an 8-second vertical clip with the trend's song out.
+- [İnşallah Maşallah AI Trend: Sing Neşe Karaböcek's Song on the Couch](https://www.makeviral.ai/templates/insallah-masallah-ai-trend): You sit on a light grey couch and sing the old Turkish love song straight to the camera: a hand on the heart, a big laugh with both hands on your head, a finger pointed at the camera and a kiss at the end. One photo of you, a grandparent or your pet, and the 15-second clip comes with the song.
+- [Ice Ice Baby Dance AI: Do the Viral Duo Dance With a Friend](https://www.makeviral.ai/templates/ice-ice-baby-dance-ai): Two dancers side by side, the same bouncy 90s steps, a spin on the beat and a strut to the camera. Add a photo of you and a friend, of you alone, or of your pet, and get the dance with the sound.
+- [Save Yourself Trend: Pull Yourself Up From the Cliff](https://www.makeviral.ai/templates/save-yourself-ai-trend): One photo plays both of you: the scared you clinging to a wet sea cliff, and the calm you who reaches down, pulls you up and holds you. Or use two photos: an older photo of you and a new one, or you and a friend. 15 seconds, vertical.
 
 ## Make your own Shirt-to-Jacket Dance video
 

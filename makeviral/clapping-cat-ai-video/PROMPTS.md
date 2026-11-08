@@ -31,3 +31,19 @@ Use the uploaded image as the base. Keep the animal's species, breed, face, eye 
 A real, funny home video filmed on a phone in one continuous shot, from above, by the owner looking down at the pet. Keep the animal's face, fur, markings and its two small human hands exactly as in the image. For the first second the pet sits upright and looks up into the lens with a calm face. Then its mouth slowly stretches into a wide, creepy human grin that shows a full row of straight white human teeth, and its eyes narrow a little. Still grinning and staring into the lens, it claps its human hands slowly and firmly four times, with a short pause between the claps, like a sarcastic slow clap, then holds its hands together and keeps grinning. It stays upright in the same spot: only its face, arms and hands move. The camera stays almost still, with a slight handheld sway. Audio: four slow, loud, real hand claps in a quiet room, and nothing else: no music, no voice, no meow. Exactly one animal and exactly two hands with five fingers each. No extra paws, no extra limbs, no morphing, no cuts, no text, no logos.
 ```
 
+### 3. Prompt 3 (Human)
+
+*Kind: prompt*
+
+```text
+Use the uploaded image as the base. Keep the person's face, hair, skin tone, body and clothes exactly the same as in the photo. A real phone photo of the same person at home, taken by a friend standing in front of them, a little above their eye level. Keep the same real room from the photo, with the same colors and light, and show the floor around the person. The person sits upright on the floor in the middle of the room, legs crossed, and looks straight into the camera with a calm face and a closed mouth. They hold their two hands together in front of their chest, palms touching, as if they are about to clap. The whole person is in frame from the top of the head to the knees, with floor around them. Soft indoor daylight, a little phone-camera softness. Photorealistic, not a cartoon, not CGI. Vertical 9:16. Exactly one person and exactly two hands. No extra hands or arms, no animals, no other people, no camera app interface, no text, no logos.
+```
+
+### 4. 3. Press the film button on the still to open AI Video with the still as the first frame. Settings: Kling 3.0, 6 s, 1080p, 9:16, sound on. The video prompt
+
+*Kind: video_prompt*
+
+```text
+A real, funny home video filmed on a phone in one continuous shot, a little from above, by a friend standing in front of the person. Keep the person's face, hair, skin tone and clothes exactly as in the image. For the first second the person sits upright and looks into the lens with a calm face. Then their mouth slowly stretches into a wide, creepy grin that shows a full row of straight white teeth, and their eyes narrow a little. Still grinning and staring into the lens, they clap their hands slowly and firmly four times, with a short pause between the claps, like a sarcastic slow clap, then hold their hands together and keep grinning. They stay sitting in the same spot: only their face, arms and hands move. The camera stays almost still, with a slight handheld sway. Audio: four slow, loud, real hand claps in a quiet room, and nothing else: no music, no voice. Exactly one person and exactly two hands with five fingers each. No extra hands, no extra limbs, no morphing, no cuts, no text, no logos.
+```
+

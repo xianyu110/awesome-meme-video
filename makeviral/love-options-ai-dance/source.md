@@ -106,12 +106,30 @@ One-tap version of this variant: https://www.makeviral.ai/templates/love-options
 
 #### Variant: Pet
 
-Settings: 2 photos (pet 1, on the left + pet 2, on the right) · h3-recast · 15 s · 720p · 9:16 · no sound · 180 credits in one tap.
+Settings: 2 photos (pet 1, on the left + pet 2, on the right) · Seedance 2.5 · 15 s · 720p · 9:16 · no sound · 228 credits in one tap.
 
-1. The video prompt is filled in. Settings: h3-recast, 15 s, 720p, 9:16, sound off. The video prompt:
+1. The video prompt is filled in. Settings: Seedance 2.5, 15 s, 720p, 9:16, sound off. The video prompt:
 
    ```text
-   Image 1 replaces the smaller cat that dances upright on the left, in every shot. Image 2 replaces the bigger cat that leads the dance upright on the right, in every shot. Use image 1 and image 2 as the appearance references for the two performers in the dance: keep each pet's face, ears, fur colors, fur length, markings, body proportions and screen position consistent; do not swap roles or merge identities. SAME IDENTITY. FIXED POSITIONS. NO ROLE SWAP. NO DUPLICATE. Each pet keeps the coat from its own image, never the coat of the cat in the video. Each pet keeps the natural body volume and proportions of its own animal: never flattened, squashed, stretched or merged with anything, with real furry paws, never human hands. If an image shows a dog or another animal, that animal takes the same place, standing upright on its hind legs and doing the same paw moves. If both images show the same pet, that pet dances twice, side by side. Keep the plain hallway with white walls and a brown door, the light wooden floor, the light, the dance moves, the paw moves at chest and face height, the motion and the camera exactly as in the video. Avoid extra animals, extra legs, foot sliding and background drift. No text, no logos.
+   Recreate the reference video [Video 1] shot for shot: the same plain hallway with white walls, a white cabinet and a brown door, the same light wooden floor and soft light, the same fixed camera, framing, timing and dance moves, one continuous shot. The ONLY change: the smaller cat who dances upright on the left, a step behind, is now the pet in [Image 1], and the bigger cat who leads the dance upright on the right, in front, is now the pet in [Image 2]. Both change: no cat from the video stays, in any frame.
+
+[Image 1] is the sole look reference for the pet on the left, [Image 2] is the sole look reference for the pet on the right, and [Video 1] gives only the moves, the timing and the camera.
+
+The pet on the left = the pet in [Image 1], whole body, in EVERY frame: the same species and breed, head shape, face, eyes, eye color, ears, muzzle, fur colors, fur length and markings as in [Image 1], so its owner instantly recognizes it. Never drift back to the left cat of the video: not its face, its eyes or its coat unless [Image 1] shows them.
+
+The pet on the right = the pet in [Image 2], whole body, in EVERY frame: the same species and breed, head shape, face, eyes, eye color, ears, muzzle, fur colors, fur length and markings as in [Image 2], so its owner instantly recognizes it. Never drift back to the right cat of the video: not its face, its eyes or its coat unless [Image 2] shows them.
+
+Each pet keeps the natural body volume and proportions of its own animal: never flattened, squashed, stretched or merged with anything. Real fur, real animals, not cartoons. Both stand upright on their hind legs like people the whole time, with real furry paws, never human hands. If a photo shows a dog or another animal, that animal takes the same place and does the same paw moves. If both photos show the same pet, it dances twice, side by side. Do not mix the two pets: [Image 1] is only on the left, [Image 2] is only on the right. FIXED POSITIONS, NO ROLE SWAP.
+
+The dance is a cute K-pop hand-gesture chorus, both pets in sync, matching the reference second by second:
+0-3 s: one front paw by the face, then the paws on the chest and the hip, a sway.
+3-4.5 s: the front legs open low and wide.
+4.5-6.5 s: both paws to the cheeks and up to the head.
+6.5-8.5 s: a quarter turn to the side, one front paw raised high.
+8.5-10.5 s: both front legs out to the sides, then straight up in a V.
+10.5-15 s: small steps in place, quick little paw flaps at chest height, then one front leg out to the side.
+
+Anatomy rules: one head per pet, on its own body. Two hind legs and two front legs each, no extra legs or paws. Exactly two animals, no people. No foot sliding, no background drift. No text, no logos, no watermark. No dialogue, no background music.
    ```
 
 2. Press Generate, then download the 9:16 MP4.
@@ -160,12 +178,12 @@ Press "Create your own" and pick one, or press the button under its reel on this
 | | Solo (default) | Duo | Pet |
 |---|---|---|---|
 | Photos | 1: you | 2: you in front, a friend behind | 2: two pets |
-| How it works | Kling 3.0 Motion Control takes only the moves of a solo cover and plays them with you | Seedance 2.5 puts the two of you into a real duo cover, in place of its dancers | MiniMax H3 Max Recast puts your pets into the AI cat reel, in place of its two cats |
+| How it works | Kling 3.0 Motion Control takes only the moves of a solo cover and plays them with you | Seedance 2.5 puts the two of you into a real duo cover, in place of its dancers | Top-quality AI video models put your pets into the AI cat reel, in place of its two cats |
 | Where you dance | Your photo's own place | A park deck under a big white building, filmed from the floor | A plain hallway |
 | Frame | Your photo's frame, 720p | Vertical 9:16, 720p | Vertical 9:16, 720p |
 | Length | 15 s | 15 s | 15 s |
 | Sound | The song, put back on after the run; you can turn it off | The same | The same |
-| Time | A few minutes | Up to several minutes | A few minutes |
+| Time | A few minutes | Up to several minutes | 5 to 15 minutes |
 
 **Solo** is the Love Options dance as most people post it: one person, the hand gestures, in their own room or street. It costs the least. **Duo** is the duo dance with a friend, a sibling or your partner, in sync. **Pet** is the Love Options cat dance: the AI cat dance version of the trend, for two cats, two dogs or one of each. The exact price shows on the Generate button before you spend anything.
 
@@ -238,7 +256,7 @@ No, that is why it spread: the Love Options hand gesture dance is mostly small m
 
 ### Which AI models make the videos?
 
-Solo uses Kling 3.0 Motion Control: it copies the moves onto the person in your photo, at 720p in your photo's frame. Duo uses Seedance 2.5: it puts the two of you into the cover itself, vertical at 720p. Pet uses MiniMax H3 Max Recast: it puts your two pets into the AI cat reel, vertical at 720p. All three make a K-pop AI dance video of about 15 seconds. For more ai kpop dance clips and kpop dance ai templates, see the related dances below.
+Solo uses Kling 3.0 Motion Control: it copies the moves onto the person in your photo, at 720p in your photo's frame. Duo uses Seedance 2.5: it puts the two of you into the cover itself, vertical at 720p. Pet uses top-quality AI video models: they put your two pets into the AI cat reel, vertical at 720p. All three make a K-pop AI dance video of about 15 seconds. For more ai kpop dance clips and kpop dance ai templates, see the related dances below.
 
 ### What prompt does the Love Options AI trend use?
 
@@ -257,6 +275,15 @@ All three make about 15 seconds. Solo follows your photo's frame at 720p, and Du
 - [AI Reels](https://www.makeviral.ai/tools/ai-reels-generator): Pick a format, give it a topic or a product link, and get a finished vertical reel with voice and captions. Nothing to film, nothing to edit.
 - [AI photo generator](https://www.makeviral.ai/ai-photo-generator)
 - [All AI video templates](https://www.makeviral.ai/templates)
+
+## New AI video trends this week
+
+- [Christmas Dance AI: Do the New TikTok Christmas Dance From Your Photos](https://www.makeviral.ai/templates/christmas-dance-ai-trend): Hip sways with the hands at the collar, rolling arms, a quick spin and raised fists, side by side in matching Christmas pajamas. Add two photos for the duo, one for a solo take, or two pets, and get the dance with the sound.
+- [Cat on Ultra Bee AI: Put Your Pet on the Wheelie](https://www.makeviral.ai/templates/cat-on-ultra-bee-ai-trend): Add one photo, and your cat or dog stands on an electric dirt bike and holds a long wheelie down a city road at golden hour, in the same shots as the viral clip, with its original sound. You can take the ride yourself, too.
+- [Tus Ojos Me Reflejan el Sentimiento: The Cafuné Eye Close-Up Trend](https://www.makeviral.ai/templates/tus-ojos-me-reflejan-ai-trend): You lie on your side, a hand rests on your cheek, warm light falls on your face, and the camera slowly moves in until your eyes fill the screen while the line plays. One photo in, an 8-second vertical clip with the trend's song out.
+- [İnşallah Maşallah AI Trend: Sing Neşe Karaböcek's Song on the Couch](https://www.makeviral.ai/templates/insallah-masallah-ai-trend): You sit on a light grey couch and sing the old Turkish love song straight to the camera: a hand on the heart, a big laugh with both hands on your head, a finger pointed at the camera and a kiss at the end. One photo of you, a grandparent or your pet, and the 15-second clip comes with the song.
+- [Ice Ice Baby Dance AI: Do the Viral Duo Dance With a Friend](https://www.makeviral.ai/templates/ice-ice-baby-dance-ai): Two dancers side by side, the same bouncy 90s steps, a spin on the beat and a strut to the camera. Add a photo of you and a friend, of you alone, or of your pet, and get the dance with the sound.
+- [Save Yourself Trend: Pull Yourself Up From the Cliff](https://www.makeviral.ai/templates/save-yourself-ai-trend): One photo plays both of you: the scared you clinging to a wet sea cliff, and the calm you who reaches down, pulls you up and holds you. Or use two photos: an older photo of you and a new one, or you and a friend. 15 seconds, vertical.
 
 ## Make your own Love Options Dance video
 

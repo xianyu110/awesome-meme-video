@@ -3,7 +3,7 @@
 > The AI lion trend is a night clip filmed through a car windshield: you stand on an empty road beside an open car door, a big male lion walks out of the dark toward you, and instead of attacking, it greets you like an old friend while you stroke its mane.
 
 Canonical: https://www.makeviral.ai/templates/ai-lion-friend-video
-Updated: 2026-10-15
+Updated: 2026-11-08
 Published: 2026-10-12
 Author: MakeViral Team (https://www.makeviral.ai/about)
 Publisher: MakeViral (https://www.makeviral.ai)
@@ -12,11 +12,11 @@ The **AI lion** trend is a night clip filmed through a car windshield: you stand
 
 Filmed through a car windshield at night: you stand by an open car door, a big lion walks out of the dark, and instead of attacking it rubs its mane against you like an old friend. One photo in, a 10-second clip with night sounds out.
 
-Also called: ai lion friend, ai lion trend, lion reunited with caretaker, woman hugs lion, sher wali video.
+Also called: ai lion friend, ai lion trend, lion reunited with caretaker, woman hugs lion, sher wali video, man hugs giant wolf.
 
 **Make it now:** [Make this video](https://www.makeviral.ai/templates/ai-lion-friend-video/create). 1 photo · 10 s · 9:16 with sound · 56 credits, charged once · ready in a few minutes · no prompt to write.
 
-Keyword: ai lion. Also answers: lion ai, lion hug, ai lion video, lion friend ai video, ai lion hug video, lion on the road ai, capcut lion template, lion capcut template, lion video, lion trending video, ai video of lion, ai effect lion, lion trend tiktok, lion trend instagram, lion hug ai, lion reunion ai video, become friends with a lion ai.
+Keyword: ai lion. Also answers: lion ai, lion hug, ai lion video, lion friend ai video, ai lion hug video, lion on the road ai, capcut lion template, lion capcut template, lion video, lion trending video, ai video of lion, ai effect lion, lion trend tiktok, lion trend instagram, lion hug ai, lion reunion ai video, become friends with a lion ai, ai wolf, man hugging wolf, ai wolf video, wolf ai video, guy hugging wolf, man petting wolf, guy petting wolf, wolf hug human, wolf hug ai, giant wolf on the road.
 
 ## What is the AI Lion Friend trend, and where did it start?
 
@@ -41,6 +41,10 @@ Made from the prompts on this page. The people and pets are AI-made, not real pe
 - **Example 1** (12 s, 9:16 MP4 with sound): The original reel by @ten4ic: filmed from a car at night, a lion runs up to her on a dark road, she kneels, holds its face and hugs it as it lies down. With its own sound.
   - Video: https://www.makeviral.ai/media/templates/ai-lion-friend-video/original-main-v2.mp4
   - Poster: https://www.makeviral.ai/media/templates/ai-lion-friend-video/original-main-v1.jpg
+- **Example 2** (10 s, 9:16 MP4 with sound): Made with MakeViral from one photo of an AI-made woman (not a real person): a giant pale wolf walks up to her on a night road, sits down and she hugs it.
+  - Video: https://www.makeviral.ai/media/templates/ai-lion-friend-video/example-wolf.mp4
+  - Poster: https://www.makeviral.ai/media/templates/ai-lion-friend-video/example-wolf-poster.jpg
+  - Input photo: https://www.makeviral.ai/media/templates/ai-lion-friend-video/example-wolf-input.jpg
 
 ## How to make the AI Lion Friend video on MakeViral
 
@@ -55,6 +59,8 @@ Everything runs in the browser. No editing app, no watermark.
 ### The by-hand way, with the exact prompts
 
 The one-tap flow runs these prompts for you. A photo prompt puts your photo into the scene (Nano Banana 2.1, image mode, 9:16, 1K), then a video prompt animates that still. To change them, copy them and edit them in AI Photo and AI Video.
+
+#### Variant: Lion friend
 
 Settings: 1 photo (your photo) · Kling 3.0 · 10 s · 1080p · 9:16 · with sound · 56 credits in one tap.
 
@@ -74,6 +80,27 @@ Settings: 1 photo (your photo) · Kling 3.0 · 10 s · 1080p · 9:16 · with sou
 4. Press Generate, then download the 9:16 MP4.
 
 One-tap version of this variant: https://www.makeviral.ai/templates/ai-lion-friend-video/create
+
+#### Variant: Wolf
+
+Settings: 1 photo (your photo) · Kling 3.0 · 10 s · 1080p · 9:16 · with sound · 56 credits in one tap.
+
+1. Open [AI Photo with this template](https://www.makeviral.ai/photo?template=ai-lion-friend-video&variant=wolf) and add your photo (your photo). The photo prompt is filled in:
+
+   ```text
+   Use the uploaded image as the base. Keep the clothes of the person in the photo and as many of their features as possible, in high definition and ultra realism. Keep the person's face, facial features, skin tone, hair, age and body shape exactly the same as in the photo. Night footage: one frame of a real phone video filmed from the driver's seat of a car stopped on a narrow gravel road through a dark pine forest at night, with the dark dashboard and the hood across the bottom of the frame. A few meters ahead and to the left, a plain light-colored car is stopped at the side of the road with its driver's door open. The person has just stepped out of that car and stands on the road beside the open door, full body in view, lit by our headlights, calm and relaxed, the body turned toward the road ahead and the face turned three-quarters toward the camera. Farther up the road, at the edge of the headlight beam, a huge pale grey-cream wolf with a thick coat, much bigger than a normal wolf, walks slowly out of the dark toward the person, calm, with its head low and its ears up. Tall dark pine trunks and low green bushes on both sides of the road, a black sky, warm headlight glow on the gravel and a light haze. Photorealistic, grainy low-light phone footage, not CGI, not a cartoon. Vertical 9:16. Exactly one person and one wolf. No other people or animals, no readable license plates, no car badges, no text, no logos.
+   ```
+
+2. Check the still before you spend credits on the video. Everything the video model does starts from that one frame.
+3. Press the film button on the still to open AI Video with the still as the first frame. Settings: Kling 3.0, 10 s, 1080p, 9:16, sound on. The video prompt:
+
+   ```text
+   Night footage in one continuous shot, filmed from the driver's seat of a stopped car like a real phone video. Keep the person's face, hair and clothes and the wolf exactly as in the image. The huge pale wolf walks calmly along the gravel road toward the person, slow and relaxed, with its head low. The person is not afraid: they walk a few steps toward it, kneel down on the road and hold out a hand, like greeting an old friend. The wolf stops right in front of them and sits down; sitting, its head is level with the kneeling person's head. It sniffs the hand and lowers its head. The person gently strokes its head and the thick fur of its chest, then wraps both arms around its neck, hugs it and presses a soft kiss on its forehead, and the wolf closes its eyes and leans into them, calm and happy. The wolf stays calm and gentle the whole time: no growling, no jumping up, no biting, no bared teeth. The phone stays behind the windshield with a slight handheld sway and slowly zooms in toward the person and the wolf as they meet, so both stay big in the frame, and the person's face stays visible in profile or three-quarter view. Audio: a quiet engine idle, crickets and night insects, the wolf's soft sniffing and the person's soft laugh, and nothing else: no music, no dialogue, no howling. Exactly one person and one wolf. No cuts, no extra people or animals, no extra limbs, no morphing, no text, no logos.
+   ```
+
+4. Press Generate, then download the 9:16 MP4.
+
+One-tap version of this variant: https://www.makeviral.ai/templates/ai-lion-friend-video/create?variant=wolf
 
 ### Which photo works best?
 
@@ -110,6 +137,8 @@ Your clip is one continuous shot, filmed through the windshield of a car stopped
 The sound is the night itself: a quiet engine, crickets, a soft low rumble from the lion and your laugh. No music.
 
 **Why does it work?** The first second looks like danger: a wild lion, at night, on an open road. The payoff is the opposite, and that flip makes people watch it again. The original also came with a story, a lion that remembers the woman who raised it, and that is how most people shared it. In the comments under the French tutorial, the most liked jokes are about not wanting a lion as a friend.
+
+**New: the Wolf version (8 November 2026).** The same night road, with a giant pale wolf instead of the lion: it walks out of a pine forest, you kneel, it sits down in front of you, and you stroke its head, hug it and kiss its forehead. By 7 November 2026 this "man hugs giant wolf" scene was a template on an AI video site. Pick "Wolf" on the create page: it takes the same one photo and costs the same as the lion.
 
 ## How does MakeViral make it, and what does it cost?
 
@@ -209,6 +238,10 @@ No. The lion is not a camera effect: MakeViral makes the whole clip in your brow
 
 On Instagram, with the reel @ten4ic posted on 20 August 2026. The lion trend spread on TikTok through CapCut tutorials from 6 October. Label your own lion video as AI when you post it.
 
+### Can I make the AI wolf video, where a man hugs a giant wolf on the road?
+
+Yes. Pick the Wolf version: from one photo, you get a 10-second night clip filmed from a car, in which a giant wolf walks up the forest road, sits in front of you and lets you pet and hug it. People search it as the man hugging wolf or guy petting wolf video; in this wolf AI video the human is you, and the wolf hug stays calm and gentle the whole time. It is AI, so label it as AI when you post it.
+
 ## Other AI video templates and tools
 
 - [AI Hug Video: Turn Two Photos Into a Warm Hug](https://www.makeviral.ai/templates/ai-hug-video): Two people step toward each other in a sunny park and share a warm hug. Two photos in, an 8-second clip with gentle original music out.
@@ -218,6 +251,15 @@ On Instagram, with the reel @ten4ic posted on 20 August 2026. The lion trend spr
 - [AI TikTok Video](https://www.makeviral.ai/tools/ai-tiktok-video-generator): Eight native TikTok formats, one prompt or product URL, a finished 9:16 video with captions burned in.
 - [AI photo generator](https://www.makeviral.ai/ai-photo-generator)
 - [All AI video templates](https://www.makeviral.ai/templates)
+
+## New AI video trends this week
+
+- [Christmas Dance AI: Do the New TikTok Christmas Dance From Your Photos](https://www.makeviral.ai/templates/christmas-dance-ai-trend): Hip sways with the hands at the collar, rolling arms, a quick spin and raised fists, side by side in matching Christmas pajamas. Add two photos for the duo, one for a solo take, or two pets, and get the dance with the sound.
+- [Cat on Ultra Bee AI: Put Your Pet on the Wheelie](https://www.makeviral.ai/templates/cat-on-ultra-bee-ai-trend): Add one photo, and your cat or dog stands on an electric dirt bike and holds a long wheelie down a city road at golden hour, in the same shots as the viral clip, with its original sound. You can take the ride yourself, too.
+- [Tus Ojos Me Reflejan el Sentimiento: The Cafuné Eye Close-Up Trend](https://www.makeviral.ai/templates/tus-ojos-me-reflejan-ai-trend): You lie on your side, a hand rests on your cheek, warm light falls on your face, and the camera slowly moves in until your eyes fill the screen while the line plays. One photo in, an 8-second vertical clip with the trend's song out.
+- [İnşallah Maşallah AI Trend: Sing Neşe Karaböcek's Song on the Couch](https://www.makeviral.ai/templates/insallah-masallah-ai-trend): You sit on a light grey couch and sing the old Turkish love song straight to the camera: a hand on the heart, a big laugh with both hands on your head, a finger pointed at the camera and a kiss at the end. One photo of you, a grandparent or your pet, and the 15-second clip comes with the song.
+- [Ice Ice Baby Dance AI: Do the Viral Duo Dance With a Friend](https://www.makeviral.ai/templates/ice-ice-baby-dance-ai): Two dancers side by side, the same bouncy 90s steps, a spin on the beat and a strut to the camera. Add a photo of you and a friend, of you alone, or of your pet, and get the dance with the sound.
+- [Save Yourself Trend: Pull Yourself Up From the Cliff](https://www.makeviral.ai/templates/save-yourself-ai-trend): One photo plays both of you: the scared you clinging to a wet sea cliff, and the calm you who reaches down, pulls you up and holds you. Or use two photos: an older photo of you and a new one, or you and a friend. 15 seconds, vertical.
 
 ## Make your own AI Lion Friend video
 

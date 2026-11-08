@@ -1,0 +1,103 @@
+{
+  "source": "makeviral",
+  "source_site": "https://www.makeviral.ai",
+  "slug": "2027-new-year-ai-trend",
+  "name": "2027 New Year AI Trend: You Climb the Giant 2027 Letters",
+  "url": "https://www.makeviral.ai/templates/2027-new-year-ai-trend",
+  "markdown_url": "https://www.makeviral.ai/templates/2027-new-year-ai-trend.md",
+  "blurb": "The 2027 New Year AI trend, also posted as Welcome 2027 and Hello 2027, is a one-photo AI video: you climb giant white marble \"2027\" letters on a mountain top at sunset, stand on top with open arms, and the camera pulls back to show the whole year.",
+  "updated": "2026-11-04",
+  "published": "2026-10-29",
+  "credits": 46,
+  "demo_videos": [
+    "https://www.makeviral.ai/media/templates/2027-new-year-ai-trend/example-self.mp4",
+    "https://www.makeviral.ai/media/templates/2027-new-year-ai-trend/original-goodbye-v1.mp4",
+    "https://www.makeviral.ai/media/templates/2027-new-year-ai-trend/original-human-v1.mp4"
+  ],
+  "posters": [
+    "https://www.makeviral.ai/media/templates/2027-new-year-ai-trend/example-self-input.jpg",
+    "https://www.makeviral.ai/media/templates/2027-new-year-ai-trend/example-self-poster.jpg",
+    "https://www.makeviral.ai/media/templates/2027-new-year-ai-trend/original-goodbye-v1.jpg",
+    "https://www.makeviral.ai/media/templates/2027-new-year-ai-trend/original-human-v1.jpg"
+  ],
+  "prompts": [
+    {
+      "label": null,
+      "variant": "Human",
+      "kind": "prompt",
+      "text": "Use the uploaded photo of the person. A photorealistic vertical photo at golden-hour sunset on a rocky mountain summit high above a range of jagged snow-capped peaks and misty valleys. Giant white marble digits that read 2027 stand in a row along the summit ridge: solid carved stone with soft grey veins and clean rounded edges, each digit about three times as tall as a person, reading 2, 0, 2, 7 from left to right. The camera is close, at a three-quarter angle: the first digit 2 is big in the foreground and the 0, the 2 and the 7 recede behind it along the ridge, every digit sharp and readable. The person from the photo hangs on the side of the front 2, both hands gripping its flat top edge, one boot pressed against the stone, pulling themself up. Head and shoulders turn toward the camera, the face fully visible and lit by the warm low sun, with a happy, determined smile. They wear a light outdoor jacket over the clothes from the photo, trousers and hiking boots. Warm orange and pink sky, long soft shadows, natural skin, real camera detail. Vertical 9:16. Exactly four digits, 2 0 2 7, and one person. No other numbers, no letters, no text, no logos, no watermark."
+    },
+    {
+      "label": "3. Press the film button on the still to open AI Video with the still as the first frame. Settings: Kling 3.0, 8 s, 1080p, 9:16, sound on. The video prompt",
+      "variant": null,
+      "kind": "video_prompt",
+      "text": "One continuous cinematic shot at golden-hour sunset on a mountain summit. Keep the person's face, hair, body and clothes exactly as in the image, in every frame. Keep the giant white marble digits exactly as they are: the same four digits 2, 0, 2, 7 in the same order and shape, solid stone that never bends, melts, changes or multiplies. The person pulls themself up onto the flat top of the front 2, kneels there for a moment, then stands up, turns to the camera and spreads both arms wide with a big, happy smile, hair and jacket moving in the wind. As they stand, the camera slowly rises and pulls back like a drone until the whole row of giant digits 2027 shows on the rocky peak with the person standing on top, small against a sea of mountains and a glowing orange sky. Smooth, steady camera, real weight and natural climbing moves. Audio: strong mountain wind, a short breath of effort, then a calm, uplifting cinematic music swell as the camera pulls back. No voice, no singing. One person only. No extra limbs, no morphing, no cuts, no text, no captions, no logos, no watermark."
+    },
+    {
+      "label": "1. Open [AI Photo with this template](https://www.makeviral.ai/photo?template=2027-new-year-ai-trend&variant=pet) and add your photo (your pet, whole body). The photo prompt is filled in",
+      "variant": "Pet",
+      "kind": "photo_prompt",
+      "text": "Use the uploaded photo of the pet. Keep the animal's species, breed, face, eye color, fur colors, fur length, markings and body size exactly as in the photo, with the natural body volume and proportions of that animal. A photorealistic vertical photo at golden-hour sunset on a rocky mountain summit high above a range of jagged snow-capped peaks and misty valleys. Giant white marble digits that read 2027 stand in a row along the summit ridge: solid carved stone with soft grey veins and clean rounded edges, each digit about three times as tall as a person, reading 2, 0, 2, 7 from left to right. The camera is close, at a three-quarter angle: the first digit 2 is big in the foreground and the 0, the 2 and the 7 recede behind it along the ridge, every digit sharp and readable. The pet scrambles up the side of the front 2, both front paws on its flat top edge, hind legs pushing against the stone, its face turned toward the camera, eyes bright, lit by the warm low sun. Warm orange and pink sky, long soft shadows, natural fur detail. Vertical 9:16. Exactly four digits, 2 0 2 7, and exactly one animal. No people, no clothes on the pet, no other numbers, no letters, no text, no logos, no watermark."
+    },
+    {
+      "label": "3. Press the film button on the still to open AI Video with the still as the first frame. Settings: Kling 3.0, 8 s, 1080p, 9:16, sound on. The video prompt",
+      "variant": null,
+      "kind": "video_prompt",
+      "text": "One continuous cinematic shot at golden-hour sunset on a mountain summit. Keep the animal's face, fur, markings and body exactly as in the image, in every frame, with the natural body volume of that animal: never flattened, stretched or merged with the stone. Keep the giant white marble digits exactly as they are: the same four digits 2, 0, 2, 7 in the same order and shape, solid stone that never bends, melts, changes or multiplies. The pet scrambles up onto the flat top of the front 2, stands on it proudly on four legs, looks around, then faces the camera with its head held high, fur moving in the wind. As it stands, the camera slowly rises and pulls back like a drone until the whole row of giant digits 2027 shows on the rocky peak with the pet on top, small against a sea of mountains and a glowing orange sky. Smooth, steady camera, real animal moves. Audio: strong mountain wind, one short happy sound of that animal, then a calm, uplifting cinematic music swell as the camera pulls back. No voice, no singing. Exactly one animal, no people. No extra legs, no morphing, no cuts, no text, no captions, no logos, no watermark."
+    },
+    {
+      "label": null,
+      "variant": null,
+      "kind": "prompt",
+      "text": "Use the two uploaded photos: uploaded image 1 is the person on the left, uploaded image 2 is the person on the right. A photorealistic vertical photo at golden-hour sunset on a rocky mountain summit high above a range of jagged snow-capped peaks and misty valleys. Giant white marble digits that read 2027 stand close together in a row along the summit ridge: solid carved stone with soft grey veins and clean rounded edges, each digit about three times as tall as a person, reading 2, 0, 2, 7 from left to right. The camera is close, at a three-quarter angle: the first digit 2 and the 0 are big in the foreground and the 2 and the 7 recede behind them along the ridge, every digit sharp and readable. The person from image 1 hangs on the side of the front 2 and the person from image 2 on the side of the 0 next to it, both gripping the flat top edge and pulling themselves up, side by side. Both turn their heads toward the camera, faces fully visible and lit by the warm low sun, laughing. Each wears a light outdoor jacket over the clothes from their own photo, trousers and hiking boots. Warm orange and pink sky, long soft shadows, natural skin. Vertical 9:16. Exactly four digits, 2 0 2 7, and exactly two people. Never blend their faces. No other numbers, no letters, no text, no logos, no watermark."
+    },
+    {
+      "label": "3. Press the film button on the still to open AI Video with the still as the first frame. Settings: Kling 3.0, 8 s, 1080p, 9:16, sound on. The video prompt",
+      "variant": null,
+      "kind": "video_prompt",
+      "text": "One continuous cinematic shot at golden-hour sunset on a mountain summit. Keep both people's faces, hair, bodies and clothes exactly as in the image, in every frame, each on their own side, and never blend their faces. Keep the giant white marble digits exactly as they are: the same four digits 2, 0, 2, 7 in the same order and shape, solid stone that never bends, melts, changes or multiplies. The person on the left pulls up onto the flat top of the 2 and the person on the right onto the top of the 0. Both stand up, reach across the small gap and hold hands, then raise their joined hands and spread their free arms wide, laughing, hair and jackets moving in the wind. As they stand, the camera slowly rises and pulls back like a drone until the whole row of giant digits 2027 shows on the rocky peak with the two of them on top, small against a sea of mountains and a glowing orange sky. Smooth, steady camera, natural climbing moves. Audio: strong mountain wind, a short laugh, then a calm, uplifting cinematic music swell as the camera pulls back. No voice, no singing. Exactly two people. No extra limbs, no morphing, no cuts, no text, no captions, no logos, no watermark."
+    },
+    {
+      "label": null,
+      "variant": null,
+      "kind": "prompt",
+      "text": "Use the uploaded photo of the person. A photorealistic vertical photo at golden-hour sunset on a rocky mountain summit at the edge of a high cliff, above a range of jagged snow-capped peaks and misty valleys. Giant stone digits that read 2026 stand in a row along the cliff edge, each digit about three times as tall as a person: the 2, the 0 and the 2 are clean white marble with soft grey veins and rounded edges, and the last digit, the 6, is old weathered grey stone with cracks and moss, already leaning out over the drop. Right behind the old 6, half hidden by it, stands a new white marble 7 of the same size as the white digits: its flat top bar and its slanted stroke are clearly visible behind the 6. The camera is close, at a three-quarter angle: the grey 6 is big in the foreground and the white 2, 0 and 2 recede behind it along the ridge, every digit sharp and readable. The person from the photo stands on the rock ledge beside the 6, both hands pressed flat against it and one shoulder leaning in, about to push it off the cliff. Head and shoulders turn toward the camera, the face fully visible and lit by the warm low sun, with a playful, determined smile. They wear a light outdoor jacket over the clothes from the photo, trousers and hiking boots. Warm orange and pink sky, long soft shadows, natural skin, real camera detail. Vertical 9:16. Exactly the digits 2, 0, 2 and 6 plus the new 7 behind the 6, and one person. No other numbers, no letters, no text, no logos, no watermark."
+    },
+    {
+      "label": "3. Press the film button on the still to open AI Video with the still as the first frame. Settings: Kling 3.0, 8 s, 1080p, 9:16, sound on. The video prompt",
+      "variant": null,
+      "kind": "video_prompt",
+      "text": "One continuous cinematic shot at golden-hour sunset on a mountain summit. Keep the person's face, hair, body and clothes exactly as in the image, in every frame. Keep the giant white marble digits 2, 0, 2 and the white marble 7 exactly as they are: the same shapes, solid stone that never bends, melts, changes or multiplies. The person pushes hard against the old grey stone 6 with both hands. It cracks, tips over the cliff edge and tumbles away down the cliff in a cloud of dust and small rocks, and only the new white 7 stands in its place. The person climbs onto the flat top of the 7, stands up, turns to the camera and spreads both arms wide with a big, happy smile, hair and jacket moving in the wind. As they stand, the camera slowly rises and pulls back like a drone until the whole row of giant white digits 2027 shows on the rocky peak with the person standing on top, small against a sea of mountains and a glowing orange sky. Smooth, steady camera, real weight and natural moves. Audio: strong mountain wind, a short breath of effort, the deep rumble of falling stone, then a calm, uplifting cinematic music swell as the camera pulls back. No voice, no singing. One person only. The grey 6 never comes back. No extra limbs, no morphing, no cuts, no text, no captions, no logos, no watermark."
+    },
+    {
+      "label": null,
+      "variant": null,
+      "kind": "prompt",
+      "text": "Use the uploaded photo of the person. Create a cinematic, meaningful New Year photo on the theme \"Goodbye 2026, welcome 2027\". Two people who look the same appear in the picture: both are the person in the uploaded photo, the same person in two different years and two different looks, side by side, the past self and the future self meeting and shaking hands across time. 1. Look and identity: two copies of the person from the uploaded photo stand in the middle, one on each side of the road. They must be the same person, never two different people. The person on the left (the 2026 self) keeps exactly the face, face shape, skin tone, hairstyle and body proportions of the uploaded photo and wears a dark brown vintage long outfit, calm and elegant, for the memories of the past year. The person on the right (the 2027 self) keeps exactly the same face, skin tone, hairstyle and identity and wears a bright pink and purple printed long outfit, with fine flower patterns and accents such as a headscarf, a fresh new look for the future. They differ only in clothes, accessories and styling: the face is exactly the same. They stand face to face with natural smiles, look at each other and each reach out one hand in a natural handshake. Both full body in the frame, natural poses, real proportions. 2. The scene and the year signs: a wide, straight modern highway that runs far into a city, front view, centered perspective, the vanishing point in the middle. Above the road hang two large overhead highway signs of the same size on real metal gantries: on the left a blue neon sign with the white bold number 2026 and a white arrow pointing down to the left, for the past; on the right a gold-orange neon sign with the white bold number 2027 and a white arrow pointing up to the right, for the future. 3. The prop: on the road between them stands a silver-white metal suitcase with fine vertical brushed lines, rounded corners, black spinner wheels and a telescopic handle, upright directly below their handshake. 4. Light: a night after rain. The wet black asphalt reflects like a mirror the people, the suitcase, the street lights and the signs. The left side is cool blue, with cyan-blue street lights and blue mist, for 2026. The right side is warm gold, with bright golden light from the city towers and street lights, for 2027. Far away in the middle, a soft glow where the blue and the gold meet. Vertical 9:16. Exactly two people, both the person from the photo. The signs show only 2026 and 2027. No other text, no logos, no watermark."
+    },
+    {
+      "label": "3. Press the film button on the still to open AI Video with the still as the first frame. Settings: Kling 3.0, 8 s, 1080p, 9:16, sound on. The video prompt",
+      "variant": null,
+      "kind": "video_prompt",
+      "text": "One continuous shot, no camera cuts. Keep both people's faces, hair and bodies exactly as in the image, in every frame: the same person twice, the 2026 self on the left in the dark brown vintage outfit and the 2027 self on the right in the bright pink and purple printed outfit. The two highway signs keep showing 2026 and 2027. A sleek black luxury sedan drives slowly into the frame from one side, its headlights throwing bright beams on the wet road, the tires raising a light spray. It slows down smoothly and stops close to the person on the right. When the car has fully stopped, the person next to the car turns naturally, walks to the car door, takes the handle and opens the door in one smooth move; the door swings out and warm ambient light slowly comes on inside the car. The other person sits down naturally on the wet road, legs slightly bent, body relaxed, looking up at the other one: a funny contrast that tells a story. The camera slowly pushes forward and adjusts the framing to keep the black car, the open door and both people in the frame, to show their moment. Background music: a high-energy electronic beat drops in suddenly, punchy electronic drums and a low bass that build up. Sound effects: tire noise and the roar of the engine as the car comes near, the clear idle of the engine after it stops, and the natural mechanical sound of the door opening. All moves smooth and continuous, the car moves with real physics, natural human moves, cinematic light and depth of field, high detail, a stable image, no identity change, no extra people, no deformed limbs. The car has no badge, no logo and a plain blank plate. No text, no captions, no watermark."
+    }
+  ],
+  "variant_headings": [
+    "What the Hello 2027 video looks like",
+    "How to make the Hello 2027 video on MakeViral",
+    "Which photo works best?",
+    "What happens in the 2027 New Year AI video?",
+    "How do I make the happy new year AI video with my photo?",
+    "Can I make the video where my 2027 self says goodbye to my 2026 self?",
+    "Can I make the welcome 2027 AI video with my partner or a friend?",
+    "How long is the new year AI video, and does it have sound?",
+    "Is there a new year AI video generator or maker app for this?",
+    "Do I need a new year video AI prompt or a 2027 AI filter?",
+    "Is this the happy new year 2027 AI video from TikTok?",
+    "Other AI video templates and tools",
+    "New AI video trends this week",
+    "Make your own Hello 2027 video"
+  ],
+  "prompt_count": 10,
+  "scraped_at": "2026-11-08"
+}

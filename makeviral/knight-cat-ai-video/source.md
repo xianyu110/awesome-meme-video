@@ -3,7 +3,7 @@
 > The knight cat AI video, also called the cat knight or the cat with a sword meme, is the viral clip of a tiny kitten in fitted silver armor, gripping a sword twice its height and refusing to step back in a storm on a misty moor.
 
 Canonical: https://www.makeviral.ai/templates/knight-cat-ai-video
-Updated: 2026-10-13
+Updated: 2026-10-29
 Published: 2026-10-08
 Author: MakeViral Team (https://www.makeviral.ai/about)
 Publisher: MakeViral (https://www.makeviral.ai)
@@ -145,12 +145,26 @@ One-tap version of this variant: https://www.makeviral.ai/templates/knight-cat-a
 
 #### Variant: Sleeping dragon
 
-Settings: 2 photos (your photo + your pet) · genjutsu-motion · 14 s · 480p · 9:16 · no sound · 179 credits in one tap.
+Settings: 2 photos (your photo + your pet) · Seedance 2.5 · 14 s · 720p · 9:16 · no sound · 213 credits in one tap.
 
-1. The video prompt is filled in. Settings: genjutsu-motion, 14 s, 480p, 9:16, sound off. The video prompt:
+1. The video prompt is filled in. Settings: Seedance 2.5, 14 s, 720p, 9:16, sound off. The video prompt:
 
    ```text
-   Replace the tall knight in dark armor and the long red cape with the person from image 1: keep that face, hair and skin tone exactly, with no helmet. Replace the tiny kitten knight that holds the sword with the pet from image 2: keep its face, fur colors and markings exactly, with no bow. Both swords are plain steel, not glowing. Keep the armor, the capes, the moor, the sleeping dragon, the motion and the camera of the video.
+   Recreate the reference video [Video 1] shot for shot: the same windy green moor under a grey sky, the same sleeping dragon on the far moor, the same camera, cuts, timing and moves. Two changes only: the tall knight in the dark armor and the long dark red cape is now the person in [Image 1], and the tiny kitten knight that holds the sword is now the pet in [Image 2]. Both change: no one from the video stays, also in the wide shots from behind.
+
+The tall knight = the person in [Image 1], in EVERY shot: copy the exact face from [Image 1] (the face shape, eye color and eye shape, eyebrows, nose, mouth, skin tone, age, hair color, hair length and hairstyle, and any beard, moustache, glasses or freckles), with no helmet. NO dark tousled hair unless [Image 1] shows it. Take only the face, the hair and the skin tone from [Image 1], never the clothes: the knight keeps the dark armor and the long dark red cape from the video. Never morph, never drift back to the original knight's face. If [Image 1] shows an animal too, the tall knight is that animal upright on its hind legs, in the same armor and cape, with its own face, fur and markings.
+
+The little knight = the pet in [Image 2], in EVERY shot: the same species and breed, face, eyes, ears, muzzle, fur colors, fur length and markings as in [Image 2], with the natural body volume and proportions of that animal: never flattened, squashed, stretched or merged with anything, in the same small silver armor, with no bow. Never drift back to the original kitten.
+
+Two different subjects: never blend the person and the pet. Each stays the same from the first frame to the last.
+
+The shots, matching the reference second by second:
+0-2 s: close on the little knight, who grips the tall sword in the wind.
+2-4 s: the camera rises past the tall knight's legs and sword.
+4-7 s: the tall knight stands beside the little knight, the face to the camera, the red cape in the wind.
+7-14 s: from behind, both look at the sleeping dragon, then run across the moor toward it.
+
+Both swords are plain steel, not glowing. Anatomy rules: one head per character, on its own body; the person has two arms and two legs. No text, no logos, no watermark.
    ```
 
 2. Press Generate, then download the 9:16 MP4.
@@ -199,6 +213,28 @@ Anatomy rules: one head per character, on its own body. No people, no text, no l
 
 One-tap version of this variant: https://www.makeviral.ai/templates/knight-cat-ai-video/create?variant=selfie
 
+#### Variant: Human
+
+Settings: 1 photo (your photo, face clear) · Seedance 2.5 · 15 s · 720p · 9:16 · no sound · 228 credits in one tap.
+
+1. The video prompt is filled in. Settings: Seedance 2.5, 15 s, 720p, 9:16, sound off. The video prompt:
+
+   ```text
+   Recreate the reference video [Video 1] shot for shot: the same green field, the same fog, the same red dragon, the same phone selfie camera that drops to the grass, the same camera angles, cuts, timing and moves. The ONLY change: the kitten knight with the pink bow who sips the iced drink in the selfie and then stands up to the dragon is now the person in [Image 1].
+
+The knight = the person in [Image 1], in EVERY shot: copy the exact face from [Image 1] (the face shape, eye color and eye shape, eyebrows, nose, mouth, skin tone, age, hair color, hair length and hairstyle, and any beard, moustache, glasses or freckles), exactly as in the photo, so their friends instantly recognize them in the big selfie close-up at the start. A HUMAN head and face: never a cat head, no cat ears, no fur, no whiskers, no kitten face. NO pink bow, no hair clip and no ribbon unless [Image 1] shows one. The knight has the age and the body proportions of the person in [Image 1], never shrunk to a child's body. The knight wears the same silver plate armor as the kitten in the video in every shot, from the neck down, never the clothes from [Image 1]: the armor stays, only the one inside it changes. Human hands with five fingers hold the phone and the iced drink. It sips the iced drink, drops the phone and faces the dragon. The same real person in every frame, from the first second to the last. Never morph, never drift back to the kitten. If [Image 1] shows an animal, the knight is that animal, with its own face, fur and markings.
+
+After the phone drops, the picture lies on its side exactly as in the video: the grass, the little knight and the dragon are turned 90 degrees, as the fallen phone films them. Do not turn the picture upright. The knight stays small in front of the huge dragon, seen from behind, as in the video.
+
+The person looks exactly like their photo in every frame where the face shows. The red dragon stays exactly as in the video.
+
+Anatomy rules: one head per character, on its own body. Exactly one person, no other animals than the dragon. No text, no logos.
+   ```
+
+2. Press Generate, then download the 9:16 MP4.
+
+One-tap version of this variant: https://www.makeviral.ai/templates/knight-cat-ai-video/create?variant=human
+
 ### Which photo works best?
 
 Use **one sharp photo of your pet with the whole body in view**, ears to paws. The prompt stands the animal upright in armor, so the model needs to see the legs, the fur color and the markings.
@@ -208,6 +244,7 @@ Use **one sharp photo of your pet with the whole body in view**, ears to paws. T
 - One animal per photo. With two, the model may merge them.
 - Any background works: the prompt replaces it with the misty moor.
 - For **You and your pet** and **Sleeping dragon**, add your photo **first** (full or half body, face clear), then your pet. The first photo becomes the big knight.
+- For **Human**, add one sharp photo of yourself with the face clear, waist up or closer: you take the kitten's place in the Dragon selfie reel, with no pet.
 - Use your own pet, and your own face or that of an adult who agreed. Never a celebrity.
 
 ## How many credits does it cost?
@@ -328,6 +365,10 @@ Yes. Pick the "You and your pet" version and add two photos: you first, then you
 
 Yes, into four of them. **I am with you** is @khruromm's reel: your pet stands beside a wounded knight in dark armor, then walks with him toward an army, under the reel's own caption "When she says, 'I am with you.'" **Dragon selfie** is @sickmanai's first kitten reel: your pet sips an iced drink in a selfie, drops the phone and faces a red dragon. **Dragon quest** is @aimak.s's reel: your pet faces a black dragon until a giant cat knight with a crown steps in behind it. These three need one photo of your pet. **Sleeping dragon** is @raizelfrmn's reel and needs two photos, you first: you and your pet run at a dragon asleep on the moor. Each one keeps the reel's shots and camera and swaps in your faces. These clips are 12 to 15 seconds long and come with the reel's original song, which you can turn off on the result screen.
 
+### Can I be the knight cat myself, without a pet?
+
+Yes. Pick the **Human** version and add one clear photo of yourself. You take the kitten's place in @sickmanai's Dragon selfie reel, shot by shot: in the kitten's silver armor you sip an iced drink in a selfie, drop the phone and face the red dragon. Your face shows in the selfie close-up at the start; after the phone drops, the knight is small and seen from behind, as in the reel. The clip is 15 seconds, vertical 9:16, with the reel's original song, which you can turn off on the result screen.
+
 ### What is the muscular character AI video?
 
 It is the name that creator Kevin Winnik's Higgsfield tutorial of 6 October 2026 gives to the giant-and-tiny version: a huge muscular knight beside the tiny kitten knight, as in the "Remember your gym bro" clip. On this page, the "You and your pet" version makes it with you as the big knight and your own pet as the small one.
@@ -342,7 +383,7 @@ The original reels use their own audio, not a known song. In remixes, the most r
 
 ### How long is the video, and how long does it take to make?
 
-Pet knight and You and your pet make a 10-second vertical 9:16 clip with sound: first the knight still, then the video. The four reel versions make a 12 to 15-second clip with the reel's original song (you can turn it off), vertical 9:16 except Dragon quest, which is wide 16:9 like its reel. Pet knight, You and your pet and Sleeping dragon are ready in a few minutes. I am with you, Dragon selfie and Dragon quest can take up to several minutes. You can leave the page while it runs, and the finished clip waits in My videos.
+Pet knight and You and your pet make a 10-second vertical 9:16 clip with sound: first the knight still, then the video. The four reel versions make a 12 to 15-second clip with the reel's original song (you can turn it off), vertical 9:16 except Dragon quest, which is wide 16:9 like its reel. Pet knight and You and your pet are ready in a few minutes. The four reel versions can take 5 to 15 minutes. You can leave the page while it runs, and the finished clip waits in My videos.
 
 ### Does the knight cat video cost credits?
 
@@ -365,6 +406,15 @@ Yes. The MP4 has no watermark and carries original sound, so you can post it to 
 - [AI TikTok Video](https://www.makeviral.ai/tools/ai-tiktok-video-generator): Eight native TikTok formats, one prompt or product URL, a finished 9:16 video with captions burned in.
 - [AI photo generator](https://www.makeviral.ai/ai-photo-generator)
 - [All AI video templates](https://www.makeviral.ai/templates)
+
+## New AI video trends this week
+
+- [Christmas Dance AI: Do the New TikTok Christmas Dance From Your Photos](https://www.makeviral.ai/templates/christmas-dance-ai-trend): Hip sways with the hands at the collar, rolling arms, a quick spin and raised fists, side by side in matching Christmas pajamas. Add two photos for the duo, one for a solo take, or two pets, and get the dance with the sound.
+- [Cat on Ultra Bee AI: Put Your Pet on the Wheelie](https://www.makeviral.ai/templates/cat-on-ultra-bee-ai-trend): Add one photo, and your cat or dog stands on an electric dirt bike and holds a long wheelie down a city road at golden hour, in the same shots as the viral clip, with its original sound. You can take the ride yourself, too.
+- [Tus Ojos Me Reflejan el Sentimiento: The Cafuné Eye Close-Up Trend](https://www.makeviral.ai/templates/tus-ojos-me-reflejan-ai-trend): You lie on your side, a hand rests on your cheek, warm light falls on your face, and the camera slowly moves in until your eyes fill the screen while the line plays. One photo in, an 8-second vertical clip with the trend's song out.
+- [İnşallah Maşallah AI Trend: Sing Neşe Karaböcek's Song on the Couch](https://www.makeviral.ai/templates/insallah-masallah-ai-trend): You sit on a light grey couch and sing the old Turkish love song straight to the camera: a hand on the heart, a big laugh with both hands on your head, a finger pointed at the camera and a kiss at the end. One photo of you, a grandparent or your pet, and the 15-second clip comes with the song.
+- [Ice Ice Baby Dance AI: Do the Viral Duo Dance With a Friend](https://www.makeviral.ai/templates/ice-ice-baby-dance-ai): Two dancers side by side, the same bouncy 90s steps, a spin on the beat and a strut to the camera. Add a photo of you and a friend, of you alone, or of your pet, and get the dance with the sound.
+- [Save Yourself Trend: Pull Yourself Up From the Cliff](https://www.makeviral.ai/templates/save-yourself-ai-trend): One photo plays both of you: the scared you clinging to a wet sea cliff, and the calm you who reaches down, pulls you up and holds you. Or use two photos: an older photo of you and a new one, or you and a friend. 15 seconds, vertical.
 
 ## Make your own Knight Cat video
 

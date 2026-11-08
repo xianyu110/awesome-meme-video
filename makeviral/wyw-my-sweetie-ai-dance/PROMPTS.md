@@ -1,0 +1,52 @@
+# Wyw My Sweetie Dance AI: Do the Come Back and Back Trend
+
+- Source: [makeviral](https://www.makeviral.ai/templates/wyw-my-sweetie-ai-dance)
+- Slug: `wyw-my-sweetie-ai-dance`
+
+The wyw my sweetie dance is the jersey club routine that took over TikTok in autumn 2026: light bounces on the toes, shrugs, knee pops and a hand through the hair, to the hook "my sweet, where you at ... come back and back".
+
+## Demo videos (CDN)
+
+- https://www.makeviral.ai/media/templates/wyw-my-sweetie-ai-dance/original-main-v2.mp4
+
+## Posters
+
+- https://www.makeviral.ai/media/templates/wyw-my-sweetie-ai-dance/original-main-v1.jpg
+
+## Prompts
+
+### 1. 1. The video prompt is filled in. Settings: kling-3-motion, 13 s, 720p, 9:16, sound off. The video prompt
+
+*Kind: video_prompt*
+
+```text
+Replace the character in the video with the person from the uploaded image. Keep actions, poses, facial expressions, camera movement and rhythm. Preserve the person's original facial features, maintain character consistency, no distortion, no glitches, no artifacts.
+The person dances in the place from the uploaded image, in the clothes and shoes from the uploaded image, not the black cropped T-shirt, the grey joggers and the white sneakers of the young woman in the video, and keeps their own hair from the uploaded image, not the woman's long blonde hair. Follow the woman's moves and timing exactly, a light and bouncy jersey club groove: she bounces on her toes with the knees together and both hands up beside the face, palms out; she shrugs with both hands open at the sides, puts one hand on the chest and one on the stomach, sways the hips with small knee pops in and out, opens both arms wide in a shrug with one knee up, steps into a wide stance with bent knees and one hand at the chest, pops one knee in with an arm out to the side, brings both hands up to the face, steps and throws one arm out, then runs a hand through the hair and leans to one side with a playful look into the camera. Keep the whole body in view from head to feet, with natural balance and stable ground contact. Exactly one person, no other people. One continuous shot. No costume unless the uploaded image shows it, no text, no captions, no logos.
+```
+
+### 2. 1. The video prompt is filled in. Settings: Seedance 2.5, 10 s, 720p, 9:16, sound off. The video prompt
+
+*Kind: video_prompt*
+
+```text
+Recreate the reference video [Video 1] shot for shot: the same bright living room with white wooden doors, a cork board on the wall, fairy lights over the glass double doors and a light wooden floor, the same fixed camera, the same framing, timing and moves, in one continuous shot. The ONLY change: the woman who dances first is now the person in [Image 1], and the man she pulls in from the left at about 6.5 s is now the person in [Image 2].
+
+Use [Image 1] as adult Person A, who dances first in the middle, and [Image 2] as adult Person B, who comes in from screen-left. Keep each person's face, hairstyle, outfit and body proportions consistent; do not swap roles or merge identities.
+
+Person A: [Image 1] replaces the woman with long dark curly hair in the black turtleneck and the grey flared jeans, in EVERY moment, also in the hug: copy the exact face from [Image 1] (the face shape, eye color and eye shape, eyebrows, nose, mouth, skin tone, age, hair color, hair length and hairstyle, and any beard, moustache, glasses or freckles). They wear the clothes from [Image 1]. NO black turtleneck and no long dark curly hair unless [Image 1] shows them.
+
+Person B: [Image 2] replaces the man with short dark hair in the black shirt and the black trousers, from the moment his hands appear until the end, also in the hug: copy the exact face from [Image 2] (the face shape, eye color and eye shape, eyebrows, nose, mouth, skin tone, age, hair color, hair length and hairstyle, and any beard, moustache, glasses or freckles). They wear the clothes from [Image 2]. NO black shirt unless [Image 2] shows it.
+
+Both change: no one from the video stays, also when a face turns away or only the back of a head shows. The same real people from the first second to the last, so their friends recognize them at once. Never morph, never swap the two faces, never drift back to the original couple's faces.
+
+The beats, second by second:
+0-3 s: Person A dances alone in the middle of the room, facing the camera: the arms swing out wide, then a bouncy jersey club groove with small knee pops.
+3-5 s: keeps dancing, hips and shoulders on the beat, a big smile.
+5-6.5 s: turns to the left side of the frame and reaches out with both hands.
+6.5-7.5 s: pulls Person B in from the left by the hands.
+7.5-9 s: the two hold hands and swing side to side, laughing.
+9-10 s: Person A pulls Person B close and they hug, laughing.
+
+One head on each person, two arms and two legs each, hands that hold hands naturally, feet on the floor. Exactly two people. A warm, happy, homemade look. No text, no captions, no subtitles, no stickers, no emojis, no logos, no watermark.
+```
+
