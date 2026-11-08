@@ -1,0 +1,30 @@
+{
+  "source": "kavel",
+  "slug": "thriller-dance-ai-video",
+  "prompts": [
+    {
+      "label": "Template prompt",
+      "variant": null,
+      "kind": "video_prompt",
+      "text": "Use the photo as the main character and keep them exactly as photographed: same face, hair, skin tone, body shape and outfit. They dance alone on a night sidewalk under the street lamps; low fog rolls across the path and a row of glowing jack-o'-lanterns lines the grass on both sides. They do the Thriller zombie dance: arms swung out together to one side with a deep lean, stiff claw hands raised, sharp shoulder shrugs, a slow head roll, then shuffling steps forward and a stomp, all locked to the beat. If the photo is a close selfie, they first step back from the camera so the whole body is in frame. One continuous take, no cuts, full body in frame, vertical 9:16. Spooky synth-funk beat with a deep bassline in the audio, no vocals. No text, no captions, no logos, no watermark."
+    },
+    {
+      "label": "Thriller AI dance â the zombie make-up",
+      "variant": "thriller-ai-dance-zombie-makeup",
+      "kind": "video_prompt",
+      "text": "Use the photo as the opening frame and keep the person exactly as photographed: same face, make-up, hair, skin tone and clothes. They step back from the phone so their whole body comes into view on a dark parking lot at night, then do the Thriller zombie dance: arms swung out together to one side with a deep lean, stiff claw hands raised, sharp shoulder shrugs, a slow head roll, shuffling steps toward the camera and a stomp. Low fog drifts in and a row of glowing jack-o'-lanterns lines the kerb. One continuous take, no cuts, vertical 9:16. Spooky synth-funk beat with a deep bassline in the audio, no vocals. No text, no captions, no logos, no watermark."
+    },
+    {
+      "label": "Thriller AI dance â the selfie that steps back",
+      "variant": "thriller-ai-dance-selfie-plain",
+      "kind": "video_prompt",
+      "text": "Use the photo as the opening frame and keep the person exactly as photographed: same face, hair, skin tone and clothes, with no logo or print added to them. They step back from the phone so their whole body comes into view in the same room, then do the Thriller zombie dance: arms swung out together to one side with a deep lean, stiff claw hands raised, sharp shoulder shrugs, a slow head roll and shuffling steps toward the camera, deadpan face. The room light dims to a moody orange Halloween glow. One continuous take, no cuts, vertical 9:16. Spooky synth-funk beat with a deep bassline in the audio, no vocals. No text, no captions, no logos or brand marks, no watermark."
+    },
+    {
+      "label": "Thriller AI dance â the husky",
+      "variant": "thriller-ai-dance-husky",
+      "kind": "video_prompt",
+      "text": "Use the photo as the main character and keep the animal exactly as photographed: same breed, colours, markings and collar. It stands up on its back legs and does the Thriller zombie dance: front paws swung out to one side with a lean, paws curled like claws, a shoulder shrug and a head roll, little hops forward on its back legs, tail wagging. Glowing jack-o'-lanterns pile up at the edge of the lawn at dusk. One continuous take, no cuts, whole animal in frame, vertical 9:16. Spooky synth-funk beat in the audio. No text, no captions, no logos, no watermark."
+    }
+  ]
+}

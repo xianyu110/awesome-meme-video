@@ -1,0 +1,12 @@
+{
+  "source": "mediaio",
+  "slug": "polar-bear-2026-ai-video",
+  "prompts": [
+    {
+      "label": "prompt",
+      "variant": null,
+      "kind": "prompt",
+      "text": "Begin with the polar bear standing motionless in the background. Wind slowly lifts and flips the calendar pages in the foreground while snow moves across the ground. The bear gradually turns its head toward the camera. Slowly push the camera forward. Keep the scene realistic, mysterious and restrained, with no sudden transformation or extra objects."
+    }
+  ]
+}

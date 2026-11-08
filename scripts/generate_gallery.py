@@ -3,6 +3,10 @@
 
 Date rule: use source listing date = published, else updated if published missing.
 Never use scraped_at for sort, filter chips, or displayed card date.
+
+Prompt bodies are not inlined into index.html (that blob is ~3MB). Each template
+with public prompts gets prompts/<source>/<slug>.json, fetched when the modal opens.
+Remake Your Meme stays marked as having no public prompts.
 """
 from __future__ import annotations
 import json
@@ -73,6 +77,65 @@ def esc(s):
             .replace('"', '&quot;').replace("'", '&#39;'))
 
 
+SAFE_ID = re.compile(r'^[A-Za-z0-9._-]+$')
+
+
+def public_prompts(t: dict) -> list[dict]:
+    """Prompt bodies safe to show on the public gallery.
+
+    Remake Your Meme does not publish copyable prompts; ignore any extracted text.
+    """
+    if t.get('source') == 'remakeyourmeme':
+        return []
+    out = []
+    for p in t.get('prompts') or []:
+        text = p.get('text') or ''
+        if not str(text).strip():
+            continue
+        out.append({
+            'label': p.get('label'),
+            'variant': p.get('variant'),
+            'kind': p.get('kind'),
+            'text': text,
+        })
+    return out
+
+
+def prompts_relpath(src: str, slug: str) -> str:
+    if not SAFE_ID.fullmatch(src or '') or not SAFE_ID.fullmatch(slug or ''):
+        raise ValueError(f'unsafe prompts path: {src!r}/{slug!r}')
+    return f'prompts/{src}/{slug}.json'
+
+
+def write_prompt_files(templates: list[dict]) -> int:
+    """Write one JSON file per template that has public prompt text. Drop stale files."""
+    root = ROOT / 'prompts'
+    keep: set[Path] = set()
+    n = 0
+    for t in templates:
+        prompts = public_prompts(t)
+        if not prompts:
+            continue
+        dest = ROOT / prompts_relpath(t['source'], t['slug'])
+        dest.parent.mkdir(parents=True, exist_ok=True)
+        payload = {
+            'source': t['source'],
+            'slug': t['slug'],
+            'prompts': prompts,
+        }
+        dest.write_text(json.dumps(payload, ensure_ascii=False, indent=2) + '\n', encoding='utf-8')
+        keep.add(dest.resolve())
+        n += 1
+    if root.exists():
+        for path in root.rglob('*.json'):
+            if path.resolve() not in keep:
+                path.unlink()
+        for directory in sorted((p for p in root.rglob('*') if p.is_dir()), reverse=True):
+            if not any(directory.iterdir()):
+                directory.rmdir()
+    return n
+
+
 def main():
     inv = json.load(open(ROOT / 'inventory.json'))
     templates = list(inv.get('templates') or [])
@@ -88,14 +151,13 @@ def main():
         }.get(src, src or 'Unknown')
         folder = f"{src}/{t['slug']}/"
         date = listing_date(t)
-        pc = int(t.get('prompt_count') or 0)
-        if src == 'remakeyourmeme':
+        prompts = public_prompts(t)
+        pc = len(prompts)
+        if src == 'remakeyourmeme' or pc == 0:
             badge, badge_cls = 'no prompts', 'none'
-        elif pc:
+        else:
             badge = f'{pc} prompt' + ('s' if pc != 1 else '')
             badge_cls = 'ok'
-        else:
-            badge, badge_cls = 'no prompts', 'none'
         cards.append({
             'name': t.get('name') or t['slug'],
             'slug': t['slug'],
@@ -111,7 +173,8 @@ def main():
             'folder': folder,
             'url': t.get('url') or '',
             'prompt_count': pc,
-            'has_prompts': pc > 0 and src != 'remakeyourmeme',
+            'has_prompts': pc > 0,
+            'prompts_url': prompts_relpath(src, t['slug']) if pc else '',
         })
 
     n_mv = sum(1 for c in cards if c['source'] == 'makeviral')
@@ -129,7 +192,8 @@ def main():
     mv_prompts = int(s_mv.get('total_prompt_blocks') or 0)
     mio_prompts = int(s_mio.get('total_prompt_blocks') or 0)
     kv_prompts = int(s_kv.get('total_prompt_blocks') or 0)
-    data_json = json.dumps(cards, ensure_ascii=False)
+    n_prompt_files = write_prompt_files(templates)
+    data_json = json.dumps(cards, ensure_ascii=False, separators=(',', ':'))
     scraped = esc(inv.get('generated_at'))
     meta_desc = (
         f"Public inventory of {n_total} AI meme / viral video templates from "
@@ -227,21 +291,38 @@ footer{{color:var(--sub);font-size:13px;margin-top:40px;border-top:1px solid var
 .modal{{position:fixed;inset:0;z-index:100;display:none;align-items:center;justify-content:center;padding:16px}}
 .modal.open{{display:flex}}
 .modal-bg{{position:absolute;inset:0;background:rgba(0,0,0,.72);backdrop-filter:blur(6px)}}
-.modal-panel{{position:relative;z-index:1;width:min(720px,100%);max-height:min(92vh,900px);overflow:auto;background:linear-gradient(180deg,var(--card),var(--card2));border:1px solid var(--line);border-radius:18px;box-shadow:0 24px 80px rgba(0,0,0,.55)}}
+.modal-panel{{position:relative;z-index:1;width:min(1080px,100%);height:min(92vh,920px);max-height:min(92vh,920px);display:flex;flex-direction:column;overflow:hidden;background:linear-gradient(180deg,var(--card),var(--card2));border:1px solid var(--line);border-radius:18px;box-shadow:0 24px 80px rgba(0,0,0,.55)}}
 .modal-close{{position:absolute;top:10px;right:12px;z-index:3;width:36px;height:36px;border:0;border-radius:50%;background:rgba(0,0,0,.55);color:#fff;font-size:22px;cursor:pointer;line-height:1}}
 .modal-close:hover{{background:rgba(124,108,255,.85)}}
-.modal-media{{background:#000;aspect-ratio:9/14;max-height:55vh;display:grid;place-items:center;overflow:hidden}}
+.modal-layout{{display:grid;grid-template-columns:minmax(240px,.9fr) minmax(300px,1.15fr);min-height:0;flex:1}}
+.modal-media{{background:#000;min-height:220px;display:grid;place-items:center;overflow:hidden}}
 .modal-media video,.modal-media img{{width:100%;height:100%;object-fit:contain;background:#000}}
-.modal-body{{padding:16px 18px 20px}}
-.modal-body h2{{margin:0 0 8px;font-size:20px;line-height:1.3}}
+.modal-body{{padding:16px 18px 20px;overflow:auto;min-height:0}}
+.modal-body h2{{margin:0 0 8px;font-size:20px;line-height:1.3;padding-right:36px}}
 .modal-meta{{display:flex;flex-wrap:wrap;gap:8px;margin:0 0 10px}}
 .modal-blurb{{color:var(--sub);font-size:14px;margin:0 0 14px}}
+.modal-prompts{{display:flex;flex-direction:column;gap:10px;margin:0 0 16px}}
+.prompts-head{{display:flex;align-items:center;justify-content:space-between;gap:8px}}
+.prompts-head h3{{margin:0;font-size:13px;letter-spacing:.04em;text-transform:uppercase;color:var(--sub)}}
+.prompt-block{{border:1px solid var(--line);background:#0c121c;border-radius:12px;overflow:hidden}}
+.prompt-block header{{display:flex;align-items:flex-start;justify-content:space-between;gap:10px;padding:10px 12px;border-bottom:1px solid var(--line);background:rgba(255,255,255,.03)}}
+.prompt-label{{font-size:13px;font-weight:650;line-height:1.4}}
+.prompt-meta{{display:flex;flex-wrap:wrap;gap:6px;margin-top:6px}}
+.copy-btn{{flex:none;background:#152033;color:var(--txt);border:1px solid var(--line);border-radius:999px;padding:5px 12px;font-size:12px;font-weight:700;cursor:pointer}}
+.copy-btn:hover{{border-color:var(--acc)}}
+.copy-btn.copied{{border-color:var(--ok);color:var(--ok)}}
+.prompt-text{{margin:0;padding:12px 14px;white-space:pre-wrap;word-break:break-word;font:13px/1.55 ui-monospace,SFMono-Regular,Menlo,Consolas,monospace;color:#d7e0ec;user-select:text}}
+.prompts-empty,.prompts-status{{margin:0;color:var(--sub);font-size:14px;padding:12px 14px;border:1px dashed var(--line);border-radius:12px;background:rgba(0,0,0,.18)}}
 .modal-actions{{display:flex;flex-wrap:wrap;gap:10px}}
 .modal-actions a{{display:inline-flex;align-items:center;gap:6px;padding:8px 14px;border-radius:999px;font-size:13px;font-weight:600;border:1px solid var(--line);background:var(--card);color:var(--txt);text-decoration:none}}
 .modal-actions a:hover{{border-color:var(--acc);text-decoration:none}}
-.modal-actions a.primary{{background:var(--acc);border-color:var(--acc);color:#fff}}
-.modal-actions a.primary:hover{{filter:brightness(1.08)}}
 body.modal-open{{overflow:hidden}}
+@media (max-width:800px){{
+  .modal-panel{{height:auto;max-height:min(92vh,920px);overflow:auto}}
+  .modal-layout{{display:block}}
+  .modal-media{{max-height:36vh;aspect-ratio:3/4}}
+  .modal-body{{overflow:visible}}
+}}
 @media (max-width:520px){{
   .grid{{grid-template-columns:repeat(auto-fill,minmax(150px,1fr));gap:10px}}
   .preview-hint{{opacity:.85}}
@@ -270,7 +351,8 @@ body.modal-open{{overflow:hidden}}
   </div>
 </header>
 <div class="box"><b>What is this?</b> A public inventory of AI meme templates.
-MakeViral pages publish copyable prompts (archived verbatim). Remake Your Meme is one-tap only — demos/posters archived, marked <b>no public prompts</b>.
+MakeViral pages publish copyable prompts (archived verbatim). Open a card to read them here — no need to leave for PROMPTS.md.
+Remake Your Meme is one-tap only — demos/posters archived, marked <b>no public prompts</b>.
 Media.io and Kavel prompts are kept when present on public pages. Media stays on source CDNs when local LFS demos are missing.
 Dates are source <b>listing / publish</b> times (not scrape time); Remake / Media.io / Kavel often lack a public listing date.</div>
 <div class="toolbar" id="toolbar">
@@ -319,12 +401,15 @@ Dates are source <b>listing / publish</b> times (not scrape time); Remake / Medi
   <div class="modal-bg" data-close></div>
   <div class="modal-panel">
     <button type="button" class="modal-close" data-close aria-label="Close">&times;</button>
-    <div class="modal-media" id="modal-media"></div>
-    <div class="modal-body">
-      <h2 id="modal-title"></h2>
-      <div class="modal-meta" id="modal-meta"></div>
-      <p class="modal-blurb" id="modal-blurb"></p>
-      <div class="modal-actions" id="modal-actions"></div>
+    <div class="modal-layout">
+      <div class="modal-media" id="modal-media"></div>
+      <div class="modal-body">
+        <h2 id="modal-title"></h2>
+        <div class="modal-meta" id="modal-meta"></div>
+        <p class="modal-blurb" id="modal-blurb"></p>
+        <div class="modal-prompts" id="modal-prompts"></div>
+        <div class="modal-actions" id="modal-actions"></div>
+      </div>
     </div>
   </div>
 </div>
@@ -340,7 +425,11 @@ const modalMedia = document.getElementById('modal-media');
 const modalTitle = document.getElementById('modal-title');
 const modalMeta = document.getElementById('modal-meta');
 const modalBlurb = document.getElementById('modal-blurb');
+const modalPrompts = document.getElementById('modal-prompts');
 const modalActions = document.getElementById('modal-actions');
+const promptCache = new Map();
+let promptReq = 0;
+let activePrompts = [];
 let srcFilter = 'all';
 let topicFilter = 'all';
 let dateFilter = 'all';
@@ -500,6 +589,94 @@ function render() {{
   syncUrl();
 }}
 
+function kindLabel(kind) {{
+  return kind ? String(kind).replace(/_/g, ' ') : '';
+}}
+
+function promptsEmptyHtml(c) {{
+  if (c.source === 'remakeyourmeme') {{
+    return '<p class="prompts-empty">No public prompts. Remake Your Meme does not publish copyable prompt text.</p>';
+  }}
+  return '<p class="prompts-empty">No public prompts for this template.</p>';
+}}
+
+function renderPromptBlocks(prompts) {{
+  const head = '<div class="prompts-head"><h3>Prompts</h3><span class="badge ok">' + prompts.length + '</span></div>';
+  const blocks = prompts.map((p, i) => {{
+    const meta = [];
+    if (p.variant) meta.push('<span class="badge">' + esc(p.variant) + '</span>');
+    if (p.kind) meta.push('<span class="badge">' + esc(kindLabel(p.kind)) + '</span>');
+    const label = p.label || ('Prompt ' + (i + 1));
+    return '<section class="prompt-block">'
+      + '<header><div><div class="prompt-label">' + esc(label) + '</div>'
+      + (meta.length ? '<div class="prompt-meta">' + meta.join('') + '</div>' : '')
+      + '</div><button type="button" class="copy-btn" data-copy="' + i + '">Copy</button></header>'
+      + '<pre class="prompt-text">' + esc(p.text || '') + '</pre></section>';
+  }}).join('');
+  return head + blocks;
+}}
+
+function showPrompts(c) {{
+  const req = ++promptReq;
+  activePrompts = [];
+  if (!c.has_prompts || !c.prompts_url) {{
+    modalPrompts.innerHTML = promptsEmptyHtml(c);
+    return;
+  }}
+  const cached = promptCache.get(c.prompts_url);
+  if (cached) {{
+    activePrompts = cached;
+    modalPrompts.innerHTML = cached.length ? renderPromptBlocks(cached) : promptsEmptyHtml(c);
+    return;
+  }}
+  modalPrompts.innerHTML = '<p class="prompts-status">Loading prompts…</p>';
+  fetch(c.prompts_url)
+    .then(r => {{ if (!r.ok) throw new Error(String(r.status)); return r.json(); }})
+    .then(data => {{
+      const prompts = (data && Array.isArray(data.prompts)) ? data.prompts : [];
+      promptCache.set(c.prompts_url, prompts);
+      if (req !== promptReq) return;
+      activePrompts = prompts;
+      modalPrompts.innerHTML = prompts.length ? renderPromptBlocks(prompts) : promptsEmptyHtml(c);
+    }})
+    .catch(() => {{
+      if (req !== promptReq) return;
+      const href = esc(c.folder) + 'PROMPTS.md';
+      modalPrompts.innerHTML = '<p class="prompts-empty">Could not load prompts on this page. <a href="' + href + '">Open PROMPTS.md</a>.</p>';
+    }});
+}}
+
+function fallbackCopy(text, done) {{
+  const ta = document.createElement('textarea');
+  ta.value = text;
+  ta.setAttribute('readonly', '');
+  ta.style.position = 'fixed';
+  ta.style.left = '-9999px';
+  document.body.appendChild(ta);
+  ta.select();
+  try {{ document.execCommand('copy'); }} catch (_) {{}}
+  ta.remove();
+  done();
+}}
+
+function copyPrompt(i, btn) {{
+  const text = (activePrompts[i] && activePrompts[i].text) || '';
+  const done = () => {{
+    btn.textContent = 'Copied';
+    btn.classList.add('copied');
+    setTimeout(() => {{
+      if (!btn.isConnected) return;
+      btn.textContent = 'Copy';
+      btn.classList.remove('copied');
+    }}, 1400);
+  }};
+  if (navigator.clipboard && navigator.clipboard.writeText) {{
+    navigator.clipboard.writeText(text).then(done).catch(() => fallbackCopy(text, done));
+  }} else {{
+    fallbackCopy(text, done);
+  }}
+}}
+
 function openModal(c) {{
   activeCard = c;
   modalTitle.textContent = c.name;
@@ -521,10 +698,12 @@ function openModal(c) {{
     media = '<div class="ph" style="min-height:200px">No media</div>';
   }}
   modalMedia.innerHTML = media;
+  showPrompts(c);
   const promptsUrl = esc(c.folder) + 'PROMPTS.md';
-  let actions = '';
-  if (c.has_prompts) actions += '<a class="primary" href="' + promptsUrl + '">View prompts (PROMPTS.md)</a>';
-  actions += '<a href="' + promptsUrl + '">Folder</a>';
+  // Pages has no directory index; the repo tree is the folder view.
+  const folderUrl = 'https://github.com/xianyu110/awesome-meme-video/tree/main/' + esc(c.folder);
+  let actions = '<a href="' + promptsUrl + '">PROMPTS.md</a>'
+    + '<a href="' + folderUrl + '" target="_blank" rel="noopener">Folder</a>';
   if (c.url) actions += '<a href="' + esc(c.url) + '" target="_blank" rel="noopener">Original</a>';
   modalActions.innerHTML = actions;
   modal.classList.add('open');
@@ -533,9 +712,12 @@ function openModal(c) {{
 }}
 
 function closeModal() {{
+  promptReq++;
+  activePrompts = [];
   const v = modalMedia.querySelector('video');
   if (v) {{ try {{ v.pause(); }} catch(_){{}} }}
   modalMedia.innerHTML = '';
+  modalPrompts.innerHTML = '';
   modal.classList.remove('open');
   modal.setAttribute('aria-hidden', 'true');
   document.body.classList.remove('modal-open');
@@ -667,6 +849,11 @@ if (!coarse) {{
 }}
 
 modal.addEventListener('click', e => {{
+  const copyBtn = e.target.closest('[data-copy]');
+  if (copyBtn) {{
+    copyPrompt(+copyBtn.dataset.copy, copyBtn);
+    return;
+  }}
   if (e.target.closest('[data-close]')) closeModal();
 }});
 document.addEventListener('keydown', e => {{
@@ -684,7 +871,7 @@ render();
     print(
         f'Wrote index.html with {len(cards)} cards '
         f'(MV={n_mv} RM={n_rm} MIO={n_mio} KV={n_kv} prompts={n_with_prompts} '
-        f'dated={dated} unknown_date={len(cards)-dated})'
+        f'prompt_files={n_prompt_files} dated={dated} unknown_date={len(cards)-dated})'
     )
 
 

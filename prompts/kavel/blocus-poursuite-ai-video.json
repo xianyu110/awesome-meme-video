@@ -1,0 +1,24 @@
+{
+  "source": "kavel",
+  "slug": "blocus-poursuite-ai-video",
+  "prompts": [
+    {
+      "label": "Blocus Poursuite AI video â the baguette on a Paris street",
+      "variant": "blocus-poursuite-paris-baguette",
+      "kind": "video_prompt",
+      "text": "Use the photo as the starting frame and keep the person exactly as photographed: same face, hair and outfit, whatever they are holding still in hand, filming a selfie at arm's length on a Paris street. (1) They grin at the camera while, far behind them, a line of riot police steps out across the street and a crowd of teenagers with backpacks gathers at a school blockade, bins pushed into the road; (2) they glance over their shoulder, the smile drops, and the police line suddenly charges toward them; (3) they spin round and sprint away down the street still filming themselves, the camera bouncing, white smoke drifting and loose papers flying past, two officers running after them in the background. Riot police in plain dark navy riot gear and helmets with visors, no text, no badges, no insignia, no patches anywhere. Handheld phone selfie camera at arm's length, vertical 9:16, one continuous shot, shaky as they run. Street noise, shouting and running footsteps in the audio. No captions, no logos, no watermark."
+    },
+    {
+      "label": "Blocus Poursuite AI video â peace sign between office towers",
+      "variant": "blocus-poursuite-city-towers",
+      "kind": "video_prompt",
+      "text": "Use the photo as the starting frame and keep the person exactly as photographed: same face, hair and outfit, filming a wide low-angle selfie at arm's length between tall office towers, peace sign up. (1) They keep the peace sign up and nod at the camera while, at the far end of the street behind them, a line of riot police with shields marches in and a crowd of students blocks the crossing; (2) they turn their head, see them charging, and drop the peace sign; (3) they run, still holding the phone out, the towers swinging in and out of frame, smoke rolling down the street and officers running after them in the background. Riot police in plain dark navy riot gear and helmets with visors, no text, no badges, no insignia, no patches anywhere. Handheld phone selfie camera at arm's length, vertical 9:16, one continuous shot, shaky as they run. Street noise, shouting and running footsteps in the audio. No captions, no logos, no watermark."
+    },
+    {
+      "label": "Blocus Poursuite AI video â the akita on the sidewalk",
+      "variant": "blocus-poursuite-akita-sidewalk",
+      "kind": "video_prompt",
+      "text": "Use the photo as the starting frame and keep the pet exactly as photographed: same breed, fur, markings and collar or harness, sitting on a tree-lined sidewalk, the camera held close at its face height like a selfie. (1) The pet looks calmly into the camera while, down the street behind it, a line of riot police in helmets forms across the road and a crowd of teenagers blocks the way with bins and barriers; (2) its ears prick up and it glances back as the police line suddenly charges; (3) it leaps up and bolts away down the sidewalk, the shot bouncing as it runs, smoke drifting and loose papers blowing past, two officers running after it in the background. Riot police in plain dark navy riot gear and helmets with visors, no text, no badges, no insignia, no patches anywhere. Handheld phone camera, vertical 9:16, one continuous shot, shaky as it runs. Street noise, shouting and running footsteps in the audio. No captions, no logos, no watermark."
+    }
+  ]
+}

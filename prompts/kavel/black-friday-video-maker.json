@@ -1,0 +1,12 @@
+{
+  "source": "kavel",
+  "slug": "black-friday-video-maker",
+  "prompts": [
+    {
+      "label": "Template prompt",
+      "variant": null,
+      "kind": "video_prompt",
+      "text": "Start from this photo and keep the product exactly as photographed the whole time: same shape, colours, materials and details, never redesigned, no label or logo added to it. A 12-second vertical 9:16 Black Friday commercial, 24fps, sleek product-commercial style, the product always the hero in sharp focus. 0-2s (hook): a closed black gift box with a red ribbon sits on a dark studio floor, it shakes once. 2-5s: the lid bursts open in slow motion, red and gold confetti and tissue paper explode upward. 5-9s: the product rises out of the box and lands softly on the lid as the confetti rains down around it, the camera circling at a low angle. 9-12s (end card): the product sits in a spotlight among the falling confetti, empty space at the top for the sale text. Look: black, red and gold, punchy commercial lighting, crisp detail. Audio: a drumroll, a pop as the box opens, sparkly confetti sounds, an upbeat sting at the end. No people, no text, no numbers, no brand names, no logos, no watermark."
+    }
+  ]
+}

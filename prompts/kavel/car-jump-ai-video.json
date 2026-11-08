@@ -1,0 +1,48 @@
+{
+  "source": "kavel",
+  "slug": "car-jump-ai-video",
+  "prompts": [
+    {
+      "label": "Template prompt",
+      "variant": null,
+      "kind": "video_prompt",
+      "text": "Track the exact camera movement, framing, facial expressions, and body movements from the video. Keep the face, hairstyle, body, clothing, and overall appearance exactly the same as in the reference image, with no changes or distortion. Use the video's background and environment. Output in 9:16 vertical format."
+    },
+    {
+      "label": "Car jump AI video â a yellow sedan sails over a man in a suit",
+      "variant": "car-jump-tt-yellow-sedan",
+      "kind": "video_prompt",
+      "text": "Track the exact camera movement, framing, facial expressions, and body movements from the video. Keep the face, hairstyle, body, clothing, and overall appearance exactly the same as in the reference image, with no changes or distortion. Use the video's background and environment. Output in 9:16 vertical format. The template clip: a man in a grey suit on a chair in a dry field as a yellow sedan flies over him and lands beside him."
+    },
+    {
+      "label": "Car jump AI video â an SUV jumps the ridge behind him in the desert",
+      "variant": "car-jump-ig-black-shirt",
+      "kind": "video_prompt",
+      "text": "Track the exact camera movement, framing, facial expressions, and body movements from the video. Keep the face, hairstyle, body, clothing, and overall appearance exactly the same as in the reference image, with no changes or distortion. Use the video's background and environment. Output in 9:16 vertical format. The template clip: a man in a black shirt on a camping chair in the desert as an SUV jumps the ridge behind him."
+    },
+    {
+      "label": "Car jump AI video â the SUV lands right beside his chair",
+      "variant": "car-jump-ig-sunglasses-close",
+      "kind": "video_prompt",
+      "text": "Track the exact camera movement, framing, facial expressions, and body movements from the video. Keep the face, hairstyle, body, clothing, and overall appearance exactly the same as in the reference image, with no changes or distortion. Use the video's background and environment. Output in 9:16 vertical format. The template clip: a man in sunglasses on a chair in a field as a dark SUV flies over him and lands right next to him."
+    },
+    {
+      "label": "Car jump AI video â an SUV over a family picnic at sunset",
+      "variant": "car-jump-ig-family-picnic",
+      "kind": "video_prompt",
+      "text": "Track the exact camera movement, framing, facial expressions, and body movements from the video. Keep the face, hairstyle, body, clothing, and overall appearance exactly the same as in the reference image, with no changes or distortion. Use the video's background and environment. Output in 9:16 vertical format. The template clip: a couple and their baby on a rug in the desert at sunset as a black SUV jumps the dune behind them."
+    },
+    {
+      "label": "Car jump AI video â a jeep over a man in a brown coat",
+      "variant": "car-jump-ig-brown-coat",
+      "kind": "video_prompt",
+      "text": "Track the exact camera movement, framing, facial expressions, and body movements from the video. Keep the face, hairstyle, body, clothing, and overall appearance exactly the same as in the reference image, with no changes or distortion. Use the video's background and environment. Output in 9:16 vertical format. The template clip: a man in a brown coat on a chair in the sand as a jeep flies over him."
+    },
+    {
+      "label": "Car jump AI video â a black SUV over her chair in the dunes",
+      "variant": "car-jump-ig-pink-hijab",
+      "kind": "video_prompt",
+      "text": "Track the exact camera movement, framing, facial expressions, and body movements from the video. Keep the face, hairstyle, body, clothing, and overall appearance exactly the same as in the reference image, with no changes or distortion. Use the video's background and environment. Output in 9:16 vertical format. The template clip: a woman in a pink dress and hijab on a chair in the dunes as a black SUV jumps over her."
+    }
+  ]
+}

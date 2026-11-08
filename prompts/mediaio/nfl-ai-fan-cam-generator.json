@@ -1,0 +1,12 @@
+{
+  "source": "mediaio",
+  "slug": "nfl-ai-fan-cam-generator",
+  "prompts": [
+    {
+      "label": "prompt",
+      "variant": null,
+      "kind": "prompt",
+      "text": "Animate the stadium fan-cam image into a realistic jumbotron reaction sequence.\r\n\r\nThe subject looks toward the field, then notices people nearby pointing upward. They look toward the giant stadium screen, realize their face is being shown on the jumbotron, laugh in surprise, wave enthusiastically, and briefly point toward themselves.\r\n\r\nFans sitting around them smile, clap, point toward the screen, and react naturally.\r\n\r\nThe giant LED screen should continue displaying the same subject with synchronized but slightly delayed live-video behavior.\r\n\r\nPreserve the subject's exact facial identity.\r\n\r\nNatural stadium lighting, real crowd motion, subtle handheld broadcast camera shake, authentic live-event timing.\r\n\r\nDuration: 6 seconds."
+    }
+  ]
+}

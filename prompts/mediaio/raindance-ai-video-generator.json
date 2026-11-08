@@ -1,0 +1,12 @@
+{
+  "source": "mediaio",
+  "slug": "raindance-ai-video-generator",
+  "prompts": [
+    {
+      "label": "prompt",
+      "variant": null,
+      "kind": "prompt",
+      "text": "Replace the original woman completely with Anna from <<<Image1>>> in every appearance, including every solo singing close-up and the final solo shot. Replace the original man completely with Kristoff from <<<Image2>>>. Preserve Anna’s recognizable face, hairstyle, body proportions, and outfit, and Kristoff’s blond hair, broad build, facial features, clothing, and accessories. Replace both original performers’ complete appearances with the uploaded character designs. Create gentle affectionate glances while preserving the reference video’s actions, singing expressions, camera movements, timing, and scenery. Keep their original animation style, identities, and outfits consistent across all shots."
+    }
+  ]
+}

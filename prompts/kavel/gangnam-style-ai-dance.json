@@ -1,0 +1,42 @@
+{
+  "source": "kavel",
+  "slug": "gangnam-style-ai-dance",
+  "prompts": [
+    {
+      "label": "Template prompt",
+      "variant": null,
+      "kind": "video_prompt",
+      "text": "Track the exact camera movement, framing, facial expressions, and body movements from the video. Keep the face, hairstyle, body, clothing, and overall appearance exactly the same as in the reference image, with no changes or distortion. Use the video's background and environment. Keep every dance move from the video in time with the beat, from the first step to the final pose. Output in 9:16 vertical format."
+    },
+    {
+      "label": "Gangnam Style AI dance â the horse trot in a white room",
+      "variant": "gangnam-style-ai-dance-white-room",
+      "kind": "video_prompt",
+      "text": "Track the exact camera movement, framing, facial expressions, and body movements from the video. Keep the face, hairstyle, body, clothing, and overall appearance exactly the same as in the reference image, with no changes or distortion. Use the video's background and environment. Keep every dance move from the video in time with the beat, from the first step to the final pose. Output in 9:16 vertical format. The template clip: a guy in a navy sweatshirt doing the Gangnam Style horse trot and lasso swing in a bare white room."
+    },
+    {
+      "label": "Gangnam Style AI dance â rooftop solo",
+      "variant": "gangnam-style-ai-dance-rooftop",
+      "kind": "video_prompt",
+      "text": "Track the exact camera movement, framing, facial expressions, and body movements from the video. Keep the face, hairstyle, body, clothing, and overall appearance exactly the same as in the reference image, with no changes or distortion. Use the video's background and environment. Keep every dance move from the video in time with the beat, from the first step to the final pose. Output in 9:16 vertical format. The template clip: a young dancer in a dark jacket and light cargo pants doing the Gangnam Style dance on a sunny rooftop with brick walls."
+    },
+    {
+      "label": "Gangnam Style AI dance â in front of a mud-brick wall",
+      "variant": "gangnam-style-ai-dance-mud-wall",
+      "kind": "video_prompt",
+      "text": "Track the exact camera movement, framing, facial expressions, and body movements from the video. Keep the face, hairstyle, body, clothing, and overall appearance exactly the same as in the reference image, with no changes or distortion. Use the video's background and environment. Keep every dance move from the video in time with the beat, from the first step to the final pose. Output in 9:16 vertical format. The template clip: a dancer in a camouflage jacket and bucket hat doing a high-energy Gangnam Style routine in front of a mud-brick wall."
+    },
+    {
+      "label": "Gangnam Style AI dance â solo in the dance studio",
+      "variant": "gangnam-style-ai-dance-studio-solo",
+      "kind": "video_prompt",
+      "text": "Track the exact camera movement, framing, facial expressions, and body movements from the video. Keep the face, hairstyle, body, clothing, and overall appearance exactly the same as in the reference image, with no changes or distortion. Use the video's background and environment. Keep every dance move from the video in time with the beat, from the first step to the final pose. Output in 9:16 vertical format. The template clip: a girl in a blue tee and black track pants doing the horse trot and the lasso in a dance studio, then running up to point at the camera."
+    },
+    {
+      "label": "Gangnam Style AI dance â the cat version",
+      "variant": "gangnam-style-ai-dance-cat",
+      "kind": "video_prompt",
+      "text": "Track the exact camera movement, framing, facial expressions, and body movements from the video. Keep the face, hairstyle, body, clothing, and overall appearance exactly the same as in the reference image, with no changes or distortion. Use the video's background and environment. Keep every dance move from the video in time with the beat, from the first step to the final pose. Output in 9:16 vertical format. The template clip: an orange tabby cat standing on its hind legs in a kitchen, bouncing through the Gangnam Style horse trot with its front paws crossed. Works with a photo of your own cat or dog; keep its fur, markings and face exactly as in the photo."
+    }
+  ]
+}

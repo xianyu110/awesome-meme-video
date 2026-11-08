@@ -1,0 +1,12 @@
+{
+  "source": "makeviral",
+  "slug": "toy-car-to-real-car-ai-trend",
+  "prompts": [
+    {
+      "label": "1. The video prompt is filled in. Settings: Seedance 2.5, 10 s, 720p, 9:16, sound off. The video prompt",
+      "variant": null,
+      "kind": "video_prompt",
+      "text": "Recreate the reference video [Video 1] shot for shot: a handheld phone camera inside a moving train films a tiny toy model car on the window ledge, the train goes into a tunnel, and the toy comes alive and turns into the real car, with the same framing, camera moves, light changes, cut and timing. The ONLY change: the blue sports sedan, both the toy on the ledge and the real car, is now the car in [Image 1]. The train, the window, the hills, the tunnel, the road, the lights and the camera stay exactly as in [Video 1].\n\nThe car = the car in [Image 1], in EVERY frame, both as the toy and as the real car: the same body shape, proportions, paint color, wheels, rims, windows and lights as in [Image 1], whatever kind of car it is (a sedan, a hatchback, an SUV, a pickup or a sports car), so its owner knows it at once. Never the blue sedan from [Video 1]: no blue paint unless [Image 1] shows it. As the toy it is a perfect small scale model of that same car, about the size of a hand, with the same colors. Take only the car from [Image 1], not its background, its people or its light. No badges, emblems or lettering on the car, and no readable number plate.\n\nThe moves, matching the reference second by second:\n0-1.2 s: warm sunset light, green hills and a concrete wall slide past outside the train window; the toy model of the car stands still on the window ledge; the train goes into a tunnel and the window turns dark.\n1.2-3 s: in the dark tunnel, lights streak past outside the window; the toy stands on the ledge.\n3-6 s: the toy car's tail lights switch on and glow red on the ledge.\n6-8.5 s: the camera glides out through the window: the window frame slides away, the ledge becomes the tunnel road, and the toy grows into the real full-size car that drives on through the tunnel, its red tail lights reflected on the asphalt.\n8.5-9.1 s: the car drives out of the tunnel into a burst of white light.\n9.1-10 s: the real car drives on a highway at night under tall street lights, filmed from behind and to the side.\n\nExactly one car; no people, no hands, no other vehicles close by. No badges, emblems, brand names or lettering on the car, no readable number plate, no text, no captions, no logos, no watermark."
+    }
+  ]
+}

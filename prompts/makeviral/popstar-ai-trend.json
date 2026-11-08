@@ -1,0 +1,12 @@
+{
+  "source": "makeviral",
+  "slug": "popstar-ai-trend",
+  "prompts": [
+    {
+      "label": "1. The video prompt is filled in. Settings: kling-3-motion, 10 s, 720p, 9:16, sound off. The video prompt",
+      "variant": null,
+      "kind": "video_prompt",
+      "text": "One continuous handheld take, vertical video. Recreate the reference video, but the performer is the person from the reference image: the same face, hair, skin tone, clothes and jewellery, in the mansion hallway from the reference image.\nThe person walks the warm wood-panelled hallway toward the camera with the champagne bottle in the right hand, lip-syncing the verse straight to the camera, arms swinging wide, and the shot ends out on the glass balcony. Every step toward the lens, every time the arms swing wide, every point of the champagne bottle, on the same beats as the reference video. The mouth copies the performer's mouth frame by frame.\nNo white T-shirt, no black curly wig, no tattoos and no light jeans unless the reference image shows them. Exactly one person: no bodyguard, no other people. No cuts, no text, no captions, no logos, no label on the bottle."
+    }
+  ]
+}

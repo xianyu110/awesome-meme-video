@@ -1,0 +1,36 @@
+{
+  "source": "kavel",
+  "slug": "shan-shen-bu",
+  "prompts": [
+    {
+      "label": "Template prompt",
+      "variant": null,
+      "kind": "video_prompt",
+      "text": "Use the photo as the main character and keep the person exactly as photographed: same face, hair, skin tone, body shape and outfit. They stand full-length on a narrow street in front of a small fruit shop, crates of oranges and grapes behind them, filmed on a phone held still at chest height, vertical 9:16, whole body in view from head to feet. (1) They stand still for a beat, arms by their sides, a dead-serious face. (2) The flash step: the torso snaps sharply sideways and back while the feet step out wide, twice, like dodging something. (3) They flick one knee up and kick the foot out to the side, arms swinging, then throw both arms up high with the hands open and shake. (4) They drop into a wide, low stance, knees bent, one arm out to the side, and hold it, chin up. Real dance timing, crisp and slightly comic, natural balance, one continuous shot, no cuts. Audio: a bouncy original folk-pop beat with a clap on every move. Exactly one person dancing, no text, no captions, no logos, no watermark."
+    },
+    {
+      "label": "Shan Shen Bu â the fruit shop",
+      "variant": "shan-shen-bu-fruit-shop",
+      "kind": "video_prompt",
+      "text": "Use the photo as the main character and keep the person exactly as photographed: same face, hair, skin tone, body shape and outfit. A narrow street at dusk outside a small fruit shop with a red sign, crates of fruit stacked out front, filmed on a phone held still across the street, vertical 9:16, whole body in view from head to feet. (1) A motorbike rolls past in front of them; they wait, standing perfectly still, dead serious. (2) The flash step: the torso snaps sideways and back while the feet step out wide, twice. (3) One knee flicks up and the foot kicks out to the side, then both arms fly up above the head, hands open, and the whole body shivers. (4) They drop into a wide, low stance with one arm stretched out and hold it. Crisp, slightly comic timing, natural balance, one continuous shot. Audio: street noise, a passing motorbike, a bouncy original folk-pop beat. Exactly one person dancing, no text, no captions, no logos, no watermark."
+    },
+    {
+      "label": "Shan Shen Bu â the temple courtyard",
+      "variant": "shan-shen-bu-courtyard",
+      "kind": "video_prompt",
+      "text": "Use the photo as the main character and keep the person exactly as photographed: same face, hair, skin tone, body shape and outfit. A paved temple courtyard in front of a long carved stone wall, a row of red lanterns hanging above, soft overcast daylight, filmed on a phone held still at waist height, vertical 9:16, whole body in view from head to feet. (1) They start in a wide stance, arms crossed in front of the chest. (2) The flash step: the body snaps sideways and back, the feet stepping out wide, arms whipping across. (3) A quick kick out to the side, then a spin, hair flying. (4) They sink into a deep, low stance, fists up in front of the chest, and hold it with a calm face. Clean, precise moves like a dance class, natural balance, one continuous shot. Audio: a light original folk drum and flute beat. Exactly one person dancing, no text, no captions, no logos, no watermark."
+    },
+    {
+      "label": "Shan Shen Bu â the hoodie in the sun",
+      "variant": "shan-shen-bu-hoodie",
+      "kind": "video_prompt",
+      "text": "Use the photo as the main character and keep the person exactly as photographed: same face, hair, skin tone, body shape and outfit. An empty sunny path beside a tall green hedge, long morning shadows on the asphalt, filmed on a phone on the ground a few metres away, vertical 9:16, whole body in view from head to feet. (1) They stand still, hands loose, then nod once to the beat. (2) The flash step: the torso snaps sideways and back while the feet step out wide. (3) Arms fly up and out, then one knee lifts and the foot flicks out to the side, twice. (4) They clap the hands above the head, drop into a wide, low stance and wobble the head side to side. Loose, confident, like nobody is watching, natural balance, one continuous shot. Audio: birds, a little wind, a bouncy original folk-pop beat. Exactly one person dancing, no text, no captions, no logos, no watermark."
+    },
+    {
+      "label": "Shan Shen Bu â the cave",
+      "variant": "shan-shen-bu-cave",
+      "kind": "video_prompt",
+      "text": "Use the photo as the main character and keep the person exactly as photographed: same face, hair, skin tone, body shape and outfit. Inside a huge limestone cave temple, rough pale rock walls and a red railing behind, cool daylight from the entrance, filmed on a phone held still at chest height, vertical 9:16, whole body in view from head to feet. (1) They hold their head in both hands, grinning, then drop the arms. (2) The flash step: the body snaps sideways and back, feet stepping out wide. (3) A knee flicks up and the foot kicks out to the side while the arms swing, then a clap above the head. (4) They finish in a wide, bouncy low stance, laughing at the camera. Playful, grinning the whole way through, natural balance, one continuous shot. Audio: a faint cave echo and an original upbeat folk-pop beat. Exactly one person dancing, no text, no captions, no logos, no watermark."
+    }
+  ]
+}

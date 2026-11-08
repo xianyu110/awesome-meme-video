@@ -1,0 +1,36 @@
+{
+  "source": "kavel",
+  "slug": "ngifuna-wena-dance",
+  "prompts": [
+    {
+      "label": "Template prompt",
+      "variant": null,
+      "kind": "video_prompt",
+      "text": "Track the exact camera movement, framing, facial expressions, and body movements from the video. Keep the face, hairstyle, body, clothing, and overall appearance exactly the same as in the reference image, with no changes or distortion. Use the video's background and environment. Keep every dance move from the video in time with the beat, from the first step to the final pose. Output in 9:16 vertical format."
+    },
+    {
+      "label": "Ngifuna Wena dance â red shuka on open ground",
+      "variant": "ngifuna-wena-red-shuka",
+      "kind": "video_prompt",
+      "text": "Track the exact camera movement, framing, facial expressions, and body movements from the video. Keep the face, hairstyle, body, clothing, and overall appearance exactly the same as in the reference image, with no changes or distortion. Use the video's background and environment. Keep every dance move from the video in time with the beat, from the first step to the final pose. Output in 9:16 vertical format. The template clip: a barefoot dancer in a red checked shuka doing the Ngifuna Wena dance on red earth, a crowd watching from chairs."
+    },
+    {
+      "label": "Ngifuna Wena dance â black tee in an arched hallway",
+      "variant": "ngifuna-wena-arch-hallway",
+      "kind": "video_prompt",
+      "text": "Track the exact camera movement, framing, facial expressions, and body movements from the video. Keep the face, hairstyle, body, clothing, and overall appearance exactly the same as in the reference image, with no changes or distortion. Use the video's background and environment. Keep every dance move from the video in time with the beat, from the first step to the final pose. Output in 9:16 vertical format. The template clip: a dancer in a black tee and patterned shorts doing the Ngifuna Wena dance in front of an arched doorway."
+    },
+    {
+      "label": "Ngifuna Wena dance â braids and white boots on a sunny street",
+      "variant": "ngifuna-wena-street-braids",
+      "kind": "video_prompt",
+      "text": "Track the exact camera movement, framing, facial expressions, and body movements from the video. Keep the face, hairstyle, body, clothing, and overall appearance exactly the same as in the reference image, with no changes or distortion. Use the video's background and environment. Keep every dance move from the video in time with the beat, from the first step to the final pose. Output in 9:16 vertical format. The template clip: a dancer in a striped top, black shorts and white boots doing the Ngifuna Wena footwork on a sunny paved street."
+    },
+    {
+      "label": "Ngifuna Wena dance â grey sweater and denim skirt in a bare room",
+      "variant": "ngifuna-wena-beige-room",
+      "kind": "video_prompt",
+      "text": "Track the exact camera movement, framing, facial expressions, and body movements from the video. Keep the face, hairstyle, body, clothing, and overall appearance exactly the same as in the reference image, with no changes or distortion. Use the video's background and environment. Keep every dance move from the video in time with the beat, from the first step to the final pose. Output in 9:16 vertical format. The template clip: a dancer in a grey sweater and long denim skirt doing the Ngifuna Wena dance in a bare room with beige walls."
+    }
+  ]
+}

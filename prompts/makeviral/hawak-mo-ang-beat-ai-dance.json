@@ -1,0 +1,12 @@
+{
+  "source": "makeviral",
+  "slug": "hawak-mo-ang-beat-ai-dance",
+  "prompts": [
+    {
+      "label": "1. The video prompt is filled in. Settings: kling-3-motion, 12 s, 720p, 9:16, sound off. The video prompt",
+      "variant": null,
+      "kind": "video_prompt",
+      "text": "One continuous single take, fixed camera, vertical video. Recreate the reference video exactly, but the dancer is the person from the reference image instead of the man: the same person with the same face, hair, skin tone, body and clothes, in the place from the reference image.\nThe person performs the iconic hand waves, beat-points and hip movements of the Filipino dance frame by frame with the same timing, on the beat: the fist pumped high while the other hand holds the back of the head, the bounces, the lean back, the side lunge, the hand on the chest and the point at the camera. Big happy smile, full of energy.\nNo black T-shirt with a white logo, no blue jeans, no black sneakers and no wristwatch unless the reference image shows them. No cuts, no text, no captions or logos on screen. Exactly one person, no extra people."
+    }
+  ]
+}

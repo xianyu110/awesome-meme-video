@@ -1,0 +1,18 @@
+{
+  "source": "makeviral",
+  "slug": "ai-baby-dance",
+  "prompts": [
+    {
+      "label": "1. The video prompt is filled in. Settings: kling-3-motion, 10 s, 720p, 9:16, sound off. The video prompt",
+      "variant": null,
+      "kind": "video_prompt",
+      "text": "One continuous single take, fixed camera, vertical video. Recreate the reference video exactly, but the performer is the baby from the reference image instead of the woman: the same baby with the same face, hair, skin tone and clothes, standing upright in the place from the reference image.\nThe baby reproduces the woman's full performance frame by frame with the same timing: every body movement, head turn, arm gesture, and above all her exaggerated facial acting, wide eyes, frowns, raised brows and mouth shapes, as if arguing with the camera. Very expressive, animated baby face.\nThe baby keeps real baby anatomy: a small chubby body, a big round head, short arms and legs and small baby hands, never an adult body, no jewelry, even when it points or pushes a hand toward the lens. No cuts, no text, no captions or labels on screen. No gray crop top, no black leggings, no curly hair bun, no gold bracelets, no earrings and no tattoos unless the reference image shows them. Exactly one baby, no extra people."
+    },
+    {
+      "label": "1. The video prompt is filled in. Settings: kling-3-motion, 12 s, 720p, 9:16, sound off. The video prompt",
+      "variant": null,
+      "kind": "video_prompt",
+      "text": "One continuous single take, vertical video. Recreate the reference video exactly, but the dancer is the baby from the reference image instead of the baby in the video: the same baby with the same face, hair, skin tone and clothes, in the place from the reference image.\nThe baby reproduces the whole dance frame by frame with the same timing: every step, stomp, kick, turn, arm swing and head bob, on the beat.\nThe baby keeps real baby anatomy: a small chubby body, a big round head, short arms and legs and small baby hands. No yellow romper unless the reference image shows it. No cuts, no text, no captions on screen. Exactly one baby, no other people."
+    }
+  ]
+}

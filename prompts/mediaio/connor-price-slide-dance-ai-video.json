@@ -1,0 +1,12 @@
+{
+  "source": "mediaio",
+  "slug": "connor-price-slide-dance-ai-video",
+  "prompts": [
+    {
+      "label": "prompt",
+      "variant": null,
+      "kind": "prompt",
+      "text": "我要参考这个视频中的场景，人物的动作，手中的音响以及两者直接的交互动作，严禁参考视频中人物的服装等信息，提议参考视频图一男人的姿势和动作，图二参考视频中女人的动作和姿势，请你输出参考视频生视频的提示词"
+    }
+  ]
+}

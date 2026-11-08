@@ -1,0 +1,42 @@
+{
+  "source": "kavel",
+  "slug": "illit-you-re-under-arrest-ai-dance",
+  "prompts": [
+    {
+      "label": "Template prompt",
+      "variant": null,
+      "kind": "video_prompt",
+      "text": "Track the exact camera movement, framing, facial expressions, and body movements from the video. Keep the face, hairstyle, body, clothing, and overall appearance exactly the same as in the reference image, with no changes or distortion. Use the video's background and environment. Keep every dance move from the video in time with the beat, from the first step to the final pose. Output in 9:16 vertical format."
+    },
+    {
+      "label": "ILLIT You're Under Arrest dance â two friends on a plaza at night",
+      "variant": "illit-arrest-city-night-duo",
+      "kind": "video_prompt",
+      "text": "Track the exact camera movement, framing, facial expressions, and body movements from the video. Keep the face, hairstyle, body, clothing, and overall appearance exactly the same as in the reference image, with no changes or distortion. Use the video's background and environment. Keep every dance move from the video in time with the beat, from the first step to the final pose. Output in 9:16 vertical format. The template clip: two friends dancing the You're Under Arrest routine in sync on a city plaza at night; the person in the photo replaces the dancer on the left."
+    },
+    {
+      "label": "ILLIT You're Under Arrest dance â duo on a car park at night",
+      "variant": "illit-arrest-car-park-duo",
+      "kind": "video_prompt",
+      "text": "Track the exact camera movement, framing, facial expressions, and body movements from the video. Keep the face, hairstyle, body, clothing, and overall appearance exactly the same as in the reference image, with no changes or distortion. Use the video's background and environment. Keep every dance move from the video in time with the beat, from the first step to the final pose. Output in 9:16 vertical format. The template clip: two friends doing the You're Under Arrest routine on an empty car park at night; the person in the photo replaces the dancer in front."
+    },
+    {
+      "label": "ILLIT You're Under Arrest dance â in a bedroom by the mirror door",
+      "variant": "illit-arrest-bedroom-dancer",
+      "kind": "video_prompt",
+      "text": "Track the exact camera movement, framing, facial expressions, and body movements from the video. Keep the face, hairstyle, body, clothing, and overall appearance exactly the same as in the reference image, with no changes or distortion. Use the video's background and environment. Keep every dance move from the video in time with the beat, from the first step to the final pose. Output in 9:16 vertical format. The template clip: one dancer doing the You're Under Arrest routine in a bedroom with a mirror door behind them."
+    },
+    {
+      "label": "ILLIT You're Under Arrest dance â solo in a hallway",
+      "variant": "illit-arrest-hallway-solo",
+      "kind": "video_prompt",
+      "text": "Track the exact camera movement, framing, facial expressions, and body movements from the video. Keep the face, hairstyle, body, clothing, and overall appearance exactly the same as in the reference image, with no changes or distortion. Use the video's background and environment. Keep every dance move from the video in time with the beat, from the first step to the final pose. Output in 9:16 vertical format. The template clip: one dancer doing the You're Under Arrest routine in a bright hallway with wall lamps and a wooden door behind."
+    },
+    {
+      "label": "ILLIT You're Under Arrest dance â leather jacket by the roadside",
+      "variant": "illit-arrest-roadside-night",
+      "kind": "video_prompt",
+      "text": "Track the exact camera movement, framing, facial expressions, and body movements from the video. Keep the face, hairstyle, body, clothing, and overall appearance exactly the same as in the reference image, with no changes or distortion. Use the video's background and environment. Keep every dance move from the video in time with the beat, from the first step to the final pose. Output in 9:16 vertical format. The template clip: one dancer in a leather jacket doing the You're Under Arrest routine by a roadside at night, trees behind."
+    }
+  ]
+}

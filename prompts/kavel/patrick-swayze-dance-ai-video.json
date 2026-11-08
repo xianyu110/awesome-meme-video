@@ -1,0 +1,36 @@
+{
+  "source": "kavel",
+  "slug": "patrick-swayze-dance-ai-video",
+  "prompts": [
+    {
+      "label": "Template prompt",
+      "variant": null,
+      "kind": "video_prompt",
+      "text": "Use the photo as the opening frame and keep everyone exactly as photographed: same faces, hair, skin tones, body shapes and outfits, in the same place as the photo. If there are two people, one runs across the floor at the other, who catches them at the hips and lifts them straight up above their head; the lifted one holds the swan pose, arms spread wide and body straight, for a long beat, then is lowered down and spun once, both laughing. If there is only one person, they dance a late-80s Dirty Dancing mambo instead: smooth hip sways, a shoulder shimmy, arms sweeping out wide, a spin, ending with a point at the camera. One continuous take, no cuts, everyone fully in frame, vertical 9:16. Retro 60s soul ballad with a slow build in the audio, no vocals. No text, no captions, no logos, no watermark."
+    },
+    {
+      "label": "Patrick Swayze AI dance â the studio lift",
+      "variant": "swayze-dance-studio-lift",
+      "kind": "video_prompt",
+      "text": "Use the photo as the opening frame and keep both people exactly as photographed: same faces, hair, skin tones, body shapes and clothes, in the same place as the photo. One runs across the floor toward the other, who catches them at the hips and lifts them straight up above their head; the lifted one holds the swan pose, arms spread wide and body straight, while the lifter takes a slow step forward, then lowers them down and spins them once. One continuous take, no cuts, both people fully in frame, vertical 9:16. Retro 60s soul ballad with a slow build in the audio, no vocals. No text, no captions, no logos, no watermark."
+    },
+    {
+      "label": "Patrick Swayze AI dance â homecoming, then the lift",
+      "variant": "swayze-dance-hoco-lift",
+      "kind": "video_prompt",
+      "text": "Use the photo as the opening frame and keep both people exactly as photographed: same faces, hair, skin tones, body shapes and outfits. In the same room, one sets down anything they are holding and backs up, the other runs at them, gets caught at the waist and lifted straight up; they arch into the swan pose, arms spread wide and legs stretched out behind, held high for a beat, then they are lowered down and both burst out laughing. Warm lamp light. One continuous take, no cuts, both people fully in frame, vertical 9:16. Retro 60s soul ballad with a slow build in the audio, no vocals. No text, no captions, no logos, no watermark."
+    },
+    {
+      "label": "Patrick Swayze AI dance â the solo mambo",
+      "variant": "swayze-dance-garage",
+      "kind": "video_prompt",
+      "text": "Use the photo as the opening frame and keep the person exactly as photographed: same face, hair, skin tone, body shape and outfit. In the same place, they dance the late-80s Dirty Dancing mambo: smooth hip sways, a quick shoulder shimmy, arms sweeping out wide and pulled back in, a sharp spin that flares their clothes, a little slide forward, ending with a confident point and a grin at the camera. One continuous take, no cuts, full body in frame, vertical 9:16. Upbeat 60s soul and brass mambo beat in the audio, no vocals. No text, no captions, no logos, no watermark."
+    },
+    {
+      "label": "Patrick Swayze AI dance â the living-room mambo",
+      "variant": "swayze-dance-living-room",
+      "kind": "video_prompt",
+      "text": "Use the photo as the opening frame and keep the person exactly as photographed: same face, hair, skin tone, body shape and clothes. In the same room, they loosen up and dance the late-80s Dirty Dancing mambo: smooth hip sways, a slow shoulder roll, arms sweeping out wide then pulled in, a sharp turn, a knee slide across the floor, then they pop back up and point at the camera with a cocky grin. One continuous take, no cuts, full body in frame, vertical 9:16. Upbeat 60s soul and brass mambo beat in the audio, no vocals. No text, no captions, no logos, no watermark."
+    }
+  ]
+}
