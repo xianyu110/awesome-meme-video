@@ -1,10 +1,10 @@
 # All prompts (MakeViral)
 
-> 1218 prompt blocks from 423 public template markdown pages.
+> 1249 prompt blocks from 433 public template markdown pages.
 >
 > Remake Your Meme does not publish prompts; see `remakeyourmeme/*/PROMPTS.md` for metadata only.
 >
-> Sorted newest-first by published||updated (2026-11-08; undated=unknown).
+> Sorted newest-first by published||updated (2026-11-09; undated=unknown).
 
 ## Vossi Bop Dance AI: Rap on an Empty London Bridge at Dawn
 
@@ -158,6 +158,59 @@ No text, no captions, no watermark, no readable badges, logos, signs or license 
 
 ---
 
+## Ukwu Template: Color, Then Slow-Motion Black and White From One Photo
+
+- Page: https://www.makeviral.ai/templates/ukwu-ai-trend
+- Markdown: https://www.makeviral.ai/templates/ukwu-ai-trend.md
+- Updated: 2026-11-08 · Published: 2026-11-08
+- Local: [`makeviral/ukwu-ai-trend/PROMPTS.md`](makeviral/ukwu-ai-trend/PROMPTS.md)
+
+### 1. The video prompt is filled in. Settings: Seedance 2.5, 10 s, 720p, 9:16, sound off. The video prompt
+
+```text
+Recreate the reference video [Video 1] shot for shot: the same hotel room with the white curtains, the white bed and the blue light strip along the ceiling, the same fixed phone camera, the same fade up from black, the same hard cut on the beat drop at 00:05 to a closer, slightly pushed-in slow-motion shot graded to black and white, the same framing, timing and moves. The ONLY change: the young man who dances with his arms up is now the person in [Image 1].
+
+Replace the person in [Video 1] with the person in [Image 1]: the same place in the frame, the same moves, the same expressions. Keep the face, hair, skin tone, build, outfit and accessories from [Image 1] recognisable both in the colour half and in the slow black-and-white half. Keep the cut on the beat drop, the push-in, the slow motion and the black-and-white grade where [Video 1] has them, keep the framing, the background, the light and the length of [Video 1] exactly as they are. The same person from the first frame to the last, no morphing, no extra people, no logo, no watermark. Sexually explicit (NSFW) content is strictly prohibited.
+
+The dancer = the person in [Image 1], in EVERY frame: copy the exact face from [Image 1] - face shape, eye color and eye shape, eyebrows, nose, mouth, skin tone, age, hair color, hair length and hairstyle, and any beard, moustache, glasses or freckles exactly as in the photo. The dancer wears the outfit from [Image 1]; if [Image 1] shows only the head or the upper body, invent the rest so it matches naturally. The same real person in every frame, so their friends instantly recognize them, also in the black-and-white close shot and in the open-mouthed grin. Never morph, never drift back to the original dancer's face, never add or remove facial hair. NO black jersey with red-striped sleeves and big white letters unless [Image 1] shows it.
+
+THE CLIP, second by second, exactly as in [Video 1]:
+00:00-00:01.5: the picture fades up from black. Full colour, the fixed phone camera, the whole body in view by the bed, both arms raised high, hands open, vibing to the beat.
+00:01.5-00:03: both arms up and waving to the beat, a big smile at the camera.
+00:03-00:04: turns a little sideways, one arm stretched out to the side, a cheeky look at the camera.
+00:04-00:05: faces the camera again, one arm high, the other out to the side.
+00:05: a hard cut exactly on the beat drop.
+00:05-00:10: a closer, slightly pushed-in shot from the knees up, in slow motion, graded to a soft, low-contrast black and white: both arms raised, one hand behind the head, a wide, relaxed grin at the camera, a slow sway. The slow black-and-white half runs to the end, with no colour coming back.
+
+ONLY THE MOTION OF [Video 1]: the dancer does exactly what the original dancer does and nothing else. No dialogue throughout the entire video. No background music.
+
+Anatomy rules: one head only, on the dancer's shoulders. Two arms and two hands, five fingers on each hand. Exactly one person in the room. No text, no captions, no logos, no watermark.
+```
+
+### 1. The video prompt is filled in. Settings: Seedance 2.5, 10 s, 720p, 9:16, sound off. The video prompt — Pet
+
+```text
+Recreate the reference video [Video 1] shot for shot: the same hotel room with the white curtains, the white bed and the blue light strip along the ceiling, the same fixed phone camera, the same fade up from black, the same hard cut on the beat drop at 00:05 to a closer, slightly pushed-in slow-motion shot graded to black and white, the same framing, timing and moves. The ONLY change: the young man who dances with his arms up is now the pet in [Image 1], standing upright on its hind legs.
+
+Replace the person in [Video 1] with the pet in [Image 1]: the same place in the frame, the same moves, the same expressions. Keep the face, fur, markings and build from [Image 1] recognisable both in the colour half and in the slow black-and-white half. Keep the cut on the beat drop, the push-in, the slow motion and the black-and-white grade where [Video 1] has them, keep the framing, the background, the light and the length of [Video 1] exactly as they are. The same pet from the first frame to the last, no morphing, no extra people or animals, no logo, no watermark.
+
+The dancer = the pet in [Image 1], whole body, in EVERY frame: the same species and breed, head shape, face, eyes, ears, muzzle, fur colors, fur length and markings as in [Image 1], with the natural body volume and proportions of that animal: never flattened, squashed, stretched or merged with anything, so its owner instantly recognizes it, also in the black-and-white close shot. It stands upright on its hind legs like a person the whole time and raises its front legs where the man raises his arms. The man from [Video 1] never appears, and the pet wears no jersey and no clothes unless [Image 1] shows them. Whether [Image 1] shows a dog, a cat or another animal, it stays that animal and dances in the same place with the same moves.
+
+THE CLIP, second by second, exactly as in [Video 1]:
+00:00-00:01.5: the picture fades up from black. Full colour, the fixed phone camera, the whole body in view by the bed, both front legs raised high, paws open, vibing to the beat.
+00:01.5-00:03: both front legs up and waving to the beat, a happy look at the camera.
+00:03-00:04: turns a little sideways, one front leg stretched out to the side, a cheeky look at the camera.
+00:04-00:05: faces the camera again, one front leg high, the other out to the side.
+00:05: a hard cut exactly on the beat drop.
+00:05-00:10: a closer, slightly pushed-in shot, in slow motion, graded to a soft, low-contrast black and white: both front legs raised, one paw behind the head, a happy open-mouthed look at the camera, a slow sway. The slow black-and-white half runs to the end, with no colour coming back.
+
+ONLY THE MOTION OF [Video 1]: the pet does exactly what the original dancer does and nothing else. No dialogue throughout the entire video. No background music.
+
+Anatomy rules: one head only, one tail if the animal has one. Two hind legs on the floor and two front legs: animal paws, never human hands, no extra legs. No people, no extra animals. No text, no captions, no logos, no watermark.
+```
+
+---
+
 ## Tus Ojos Me Reflejan el Sentimiento: The Cafuné Eye Close-Up Trend
 
 - Page: https://www.makeviral.ai/templates/tus-ojos-me-reflejan-ai-trend
@@ -211,6 +264,73 @@ THE MOVE:
 [2.5-8 s] One very slow, smooth push-in toward the eyes until the two eyes fill the frame. At about 4 s, one slow, content blink. A warm point of light drifts across the pupils and the eyes glisten. The fingers stroke the cheek once, very gently; the pet leans into the hand.
 
 One animal and one human hand only. Avoid: cuts, a second shot, a split screen, a mirror image, extra hands or fingers, a hand over the eyes, eyes closed longer than one blink, a fast zoom, camera shake, a cartoon look, plastic skin, text, captions, lyrics, subtitles, logos, watermarks, morphing.
+```
+
+---
+
+## Spiderman Pointing Meme AI: You and Your Friend, Pointing
+
+- Page: https://www.makeviral.ai/templates/spiderman-pointing-meme-ai
+- Markdown: https://www.makeviral.ai/templates/spiderman-pointing-meme-ai.md
+- Updated: 2026-11-08 · Published: 2026-11-08
+- Local: [`makeviral/spiderman-pointing-meme-ai/PROMPTS.md`](makeviral/spiderman-pointing-meme-ai/PROMPTS.md)
+
+### 1. The video prompt is filled in. Settings: Seedance 2.5, 10 s, 720p, 9:16, sound on. The video prompt
+
+```text
+The iconic pointing meme, two identical masked heroes in the same suit standing face to face in a warehouse, both extending one arm and pointing directly at each other with their index fingers, expressive body language, humorous. Filmed like a real live-action comedy scene in an empty old brick warehouse with a concrete floor, a few wooden crates and warm daylight through tall dusty windows. Photorealistic, natural skin and colors, not CGI, not a cartoon. Vertical 9:16.
+
+Both wear the same suit: a snug full-body hero suit: bright red on the head, chest, shoulders, gloves and boots, royal blue on the sides, arms and legs, fine black web lines over the red parts, and a full red fabric mask with two big white eye lenses outlined in thick black. NO emblem or symbol on the chest or the back, no logo, no letters.
+
+The hero on the LEFT is the person in [Image 1], in every frame: copy the exact face from [Image 1] (the face shape, eye color and eye shape, eyebrows, nose, mouth, skin tone, age, hair color, hair length and hairstyle, and any beard, moustache, glasses or freckles), and their body build.
+The hero on the RIGHT is the person in [Image 2], in every frame: copy the exact face from [Image 2] (the face shape, eye color and eye shape, eyebrows, nose, mouth, skin tone, age, hair color, hair length and hairstyle, and any beard, moustache, glasses or freckles), and their body build.
+If an image shows an animal, that hero is that animal standing upright on its hind legs in a suit made for its body, with its own face, ears, fur and markings showing, never a person.
+Never blend their faces, never swap sides. Each face stays the same from the first frame to the last, so their friends recognize them at once.
+
+The shots:
+1. 0-3 s: a wide shot from the side, head to feet, masks ON: they freeze in the classic pose, one arm stretched out, the index finger pointing at the other's face, knees a little bent. They hold it, then jab the finger at each other twice, in sync.
+2. 3-6 s: a medium shot from the waist up: both pull their masks up and off at the same moment with the free hand and keep pointing with the other. Now the face from [Image 1] shows on the left and the face from [Image 2] on the right. They stare at each other, eyebrows up, mouths open in shock.
+3. 6-10 s: a medium close-up from the chest up, both faces in three-quarter view to the camera, large, sharp and well lit: they lean in and point even harder, then both turn to the camera at once with a "can you believe this?" face, still pointing.
+
+Audio: an original playful 1960s-style cartoon spy-comedy tune with brass stabs and bongos, a cloth rustle as the masks come off, then a short surprised gasp and a laugh. No dialogue throughout the entire video. No lyrics.
+
+Exactly two heroes, nobody else. Each hero has one head, two arms, two legs and five fingers on each hand; they point with the index finger. No emblem, no symbols, no text, no subtitles, no logos, no watermark.
+```
+
+### 1. The video prompt is filled in. Settings: Seedance 2.5, 10 s, 720p, 9:16, sound on. The video prompt
+
+```text
+The iconic pointing meme, two identical masked heroes in the same suit standing face to face in a warehouse, both extending one arm and pointing directly at each other with their index fingers, expressive body language, humorous. Filmed like a real live-action comedy scene in an empty old brick warehouse with a concrete floor, a few wooden crates and warm daylight through tall dusty windows. Photorealistic, natural skin and colors, not CGI, not a cartoon. Vertical 9:16.
+
+Both wear the same suit: a snug full-body hero suit: bright red on the head, chest, shoulders, gloves and boots, royal blue on the sides, arms and legs, fine black web lines over the red parts, and a full red fabric mask with two big white eye lenses outlined in thick black. NO emblem or symbol on the chest or the back, no logo, no letters.
+
+BOTH heroes are the person in [Image 1], like a mirror double, in every frame: copy the exact face from [Image 1] (the face shape, eye color and eye shape, eyebrows, nose, mouth, skin tone, age, hair color, hair length and hairstyle, and any beard, moustache, glasses or freckles) onto the hero on the LEFT and onto the hero on the RIGHT, with the same body build. The two look exactly alike: that is the joke. Never a second, different face; never a stranger. The face stays the same from the first frame to the last, so their friends recognize them at once.
+If [Image 1] shows an animal, both heroes are that animal standing upright on its hind legs in a suit made for its body, with its own face, ears, fur and markings showing, never a person.
+
+The shots:
+1. 0-3 s: a wide shot from the side, head to feet, masks ON: they freeze in the classic pose, one arm stretched out, the index finger pointing at the other's face, knees a little bent. They hold it, then jab the finger at each other twice, in sync.
+2. 3-6 s: a medium shot from the waist up: both pull their masks up and off at the same moment with the free hand and keep pointing with the other. Now the same face from [Image 1] shows on both sides. They stare at each other, eyebrows up, mouths open in shock.
+3. 6-10 s: a medium close-up from the chest up, both faces in three-quarter view to the camera, large, sharp and well lit: they lean in and point even harder, then both turn to the camera at once with a "can you believe this?" face, still pointing.
+
+Audio: an original playful 1960s-style cartoon spy-comedy tune with brass stabs and bongos, a cloth rustle as the masks come off, then a short surprised gasp and a laugh. No dialogue throughout the entire video. No lyrics.
+
+Exactly two heroes, nobody else. Each hero has one head, two arms, two legs and five fingers on each hand; they point with the index finger. No emblem, no symbols, no text, no subtitles, no logos, no watermark.
+```
+
+### Prompt 3 — Pet
+
+```text
+Use the two uploaded images as the base. The pet in the first image stands on the left; the pet in the second image stands on the right. Each keeps its own species, breed look, face, eyes, ears, fur colors, fur length, markings and size exactly as in its own photo, with the natural body volume and proportions of that animal: never flattened, squashed or stretched. Never blend the two. A real photo in an empty old brick warehouse with a concrete floor, a few wooden crates and warm daylight through tall dusty windows, taken from low down at the height of the pets. Both pets stand upright on their hind legs, face to face, in the iconic pointing meme pose: each stretches one front leg out and points its paw straight at the other's face. Each wears a pet-sized red-and-blue hero suit with fine black web lines over the red parts, the hood pulled back so the whole head, face and ears show, no emblem or symbol on the chest or the back, no logo. Both whole bodies in view, from the ears to the hind paws, both faces turned three-quarters to the camera, clear and sharp. Photorealistic, natural fur and natural colors, not CGI. Vertical 9:16. Exactly two animals and no people. No text, no logos, no watermark.
+```
+
+### 3. Press the film button on the still to open AI Video with the still as the first frame. Settings: Kling 3.0, 10 s, 1080p, 9:16, sound on. The video prompt
+
+```text
+A live-action comedy clip in an old brick warehouse in warm daylight, the camera low at the height of the pets. Keep both animals' faces, eyes, ears, fur colors, markings, sizes and suits exactly as in the image, in every frame, with the natural body volume of each animal.
+0-3 s: both stand upright and hold the pointing pose, each pointing a front paw at the other's face, then jab the paw at each other twice, in sync.
+3-6 s: both tilt their heads, ears up, and stare at each other in surprise.
+6-10 s: the camera moves in to a medium close shot; both lean in, nose to nose, point even harder, then both look straight into the lens, still pointing at each other.
+Audio: an original playful 1960s-style cartoon spy-comedy tune with brass stabs and bongos, then a short surprised little bark or meow. No dialogue. One continuous shot, no cuts. Exactly two animals and no people; four legs each, one tail each. No text, no logos, no watermark.
 ```
 
 ---
@@ -278,6 +398,101 @@ Shot 3 [6-10s]: the calm pet pulls the scared one up onto the ledge. They press 
 Sound: waves, wind and breathing. No dialogue throughout the entire video. No background music.
 
 Natural faces, anatomy and movements. Only these two animals, no people, nobody else. No falling, no injuries, no blood, no extra limbs or hands. No text, no subtitles, no logos, no watermark.
+```
+
+---
+
+## Manhattan FPV Drone AI: The Skyline Dive That Lands on You
+
+- Page: https://www.makeviral.ai/templates/manhattan-fpv-drone-ai
+- Markdown: https://www.makeviral.ai/templates/manhattan-fpv-drone-ai.md
+- Updated: 2026-11-08 · Published: 2026-11-08
+- Local: [`makeviral/manhattan-fpv-drone-ai/PROMPTS.md`](makeviral/manhattan-fpv-drone-ai/PROMPTS.md)
+
+### 1. The video prompt is filled in. Settings: Seedance 2.5, 10 s, 720p, 9:16, sound on. The video prompt
+
+```text
+The person at the end of the flight is the person in [Image 1]: copy the exact face from [Image 1] (the face shape, eye color and eye shape, eyebrows, nose, mouth, skin tone, age, hair color, hair length and hairstyle, and any beard, moustache, glasses or freckles), and the clothes from [Image 1]. The same real person from the moment they appear to the last frame, so their friends recognize them at once. Never morph, never a different person. Exactly one main person, one head, two hands with five fingers each.
+If [Image 1] shows an animal, the subject at the end is that animal sitting on the sidewalk, with its own face, fur and markings, not a person.
+
+Ultra-cinematic FPV drone flight through New York City on a clear sunny morning, hyper-realistic, one uninterrupted shot, no cuts, no teleportation, realistic inertia, dynamic acceleration and smooth deceleration. The camera starts high and dives fast in a first-person flight, threading through the city before pulling up to hover in front of the main subject. Motion blur streaks the edges while the subject stays sharp at the end of the move.
+
+The flight, second by second:
+0-2 s: a wide aerial view high above the Manhattan skyline, a tall Art Deco skyscraper with a slim silver spire in front, the rivers and the harbor far behind. The camera pitches down.
+2-5 s: it dives fast between the skyscrapers, glass and stone facades rushing past, then levels out low above a long avenue and skims over yellow taxis and traffic.
+5-7 s: it crosses the curb and follows a gray stone facade along the sidewalk, past a few small, distant pedestrians, slowing down.
+7-10 s: it glides up to the person from [Image 1], who stands on the sidewalk by the stone wall holding a paper coffee cup, takes a sip, lowers the cup and looks into the lens with a calm, confident face. The camera slows to a gentle hover in a close-up from the chest up, the face sharp, clear and well lit, a little of the stone facade and the pavement still in view.
+
+Audio: the rushing wind of a fast drone flight over the city, faint traffic and horns far below, then calm street sound at the end. No dialogue throughout the entire video. No background music.
+
+Stable horizon, natural colors, realistic reflections, high-detail architecture. Passers-by stay small, in the background and out of focus. No text, no captions, no logos, no readable signs or brand names, no watermark, no glitches, no flickering.
+```
+
+### 1. The video prompt is filled in. Settings: Seedance 2.5, 10 s, 720p, 9:16, sound on. The video prompt — Pet
+
+```text
+The animal at the end of the flight is the pet in [Image 1]: the same species and breed, face, eyes, ears, muzzle, fur colors, fur length and markings as in [Image 1], with the natural body volume and proportions of that animal: never flattened, squashed, stretched or merged with anything, so its owner recognizes it at once. The same pet from the moment it appears to the last frame. Never a person, no human hands, no clothes unless [Image 1] shows them. Exactly one animal, one head, four legs, one tail.
+
+Ultra-cinematic FPV drone flight through New York City on a clear sunny morning, hyper-realistic, one uninterrupted shot, no cuts, no teleportation, realistic inertia, dynamic acceleration and smooth deceleration. The camera starts high and dives fast in a first-person flight, threading through the city before pulling up to hover in front of the main subject. Motion blur streaks the edges while the subject stays sharp at the end of the move.
+
+The flight, second by second:
+0-2 s: a wide aerial view high above the Manhattan skyline, a tall Art Deco skyscraper with a slim silver spire in front, the rivers and the harbor far behind. The camera pitches down.
+2-5 s: it dives fast between the skyscrapers, glass and stone facades rushing past, then levels out low above a long avenue and skims over yellow taxis and traffic.
+5-7 s: it crosses the curb and follows a gray stone facade along the sidewalk, past a few small, distant pedestrians, slowing down.
+7-10 s: it glides up to the pet from [Image 1], which sits on the sidewalk by the stone wall next to a paper coffee cup on the pavement, sniffs the cup, then looks up into the lens and tilts its head. The camera slows to a gentle hover in a close-up from the chest up, the face sharp, clear and well lit, a little of the stone facade and the pavement still in view.
+
+Audio: the rushing wind of a fast drone flight over the city, faint traffic and horns far below, then calm street sound at the end. No dialogue throughout the entire video. No background music.
+
+Stable horizon, natural colors, realistic reflections, high-detail architecture. No person near the pet. Passers-by stay small, in the background and out of focus. No text, no captions, no logos, no readable signs or brand names, no watermark, no glitches, no flickering.
+```
+
+---
+
+## Let's Break Up Trend AI: From Tired Selfie to Glow Up
+
+- Page: https://www.makeviral.ai/templates/lets-break-up-ai-trend
+- Markdown: https://www.makeviral.ai/templates/lets-break-up-ai-trend.md
+- Updated: 2026-11-08 · Published: 2026-11-08
+- Local: [`makeviral/lets-break-up-ai-trend/PROMPTS.md`](makeviral/lets-break-up-ai-trend/PROMPTS.md)
+
+### 1. The video prompt is filled in. Settings: Seedance 2.5, 10 s, 720p, 9:16, sound off. The video prompt — Human
+
+```text
+A vertical phone video of the "Let's break up" glow-up meme as people post it on TikTok, in four parts with hard cuts. Photorealistic live action, a real phone video, 9:16.
+THE PERSON: the person in [Image 1], in every frame: copy the exact face from [Image 1] (the face shape, eye color and eye shape, eyebrows, nose, mouth, skin tone, age, hair color, hair length and hairstyle, and any beard, moustache, glasses or freckles), so their friends recognize them at once. The face stays the same from the first frame to the last: in the before shot, inside the sparkles and in both glow-up shots. Never morph, never a different person.
+
+[0-2.5 s] SHOT 1, THE BEFORE: an unflattering front-camera selfie at home at night under flat, dull overhead light, the phone held a little too low. The person looks tired and over it: the hair messy and unstyled, a baggy old grey hoodie, nothing done. A flat, bored stare into the lens and a small sigh. In the lower middle of the frame, a short white caption with a thin black outline reads exactly: "Let's break up". This caption is the only text in the whole video, and it shows only in this shot.
+[2.5-5 s] SHOT 2, THE SPARKLE CHANGE: hard cut to the same person standing, from the knees up, in a dark blue night haze, arms slowly rising above the head. A ribbon of glittering silver-white sparkles spirals up around them from the feet to above the head, like the magic change in a classic fairy tale, and the hoodie turns into the new outfit inside the sparkles. It ends in a soft white flash.
+[5-7.5 s] SHOT 3, THE GLOW-UP: hard cut to a close front-camera selfie of the same person on their best day: the same hair color and hair length, now freshly washed and styled; healthy skin with its real texture; well groomed; a sharp, stylish dark outfit with one small silver necklace. Warm, flattering evening light. A confident little pout and a slow head tilt, one hand touching the hair, eyes into the lens. The face is large and sharp.
+[7.5-10 s] SHOT 4, THE GLOW-UP POSE: hard cut to the same person in the same outfit, from the knees up, on a city street at night under warm street lights: one hand on the hip, a slow turn of the shoulders, a cool, confident look into the camera, then a small satisfied smile. The face is clear and sharp: exactly the face from [Image 1], the same person as in the before shot.
+
+SOUND: No dialogue throughout the entire video. No background music.
+
+真人实拍、五官清晰、面部稳定、不扭曲、不变形、人体结构正常、同一角色、发型颜色不变.
+
+Avoid: a cartoon or animated look, a princess, a ball gown, a tiara, a wand, any text other than the caption in shot 1, logos, watermarks, a beauty filter, a slimmer, younger or different face in the glow-up shots, a second person, extra limbs, morphing, facial distortion.
+```
+
+### 1. The video prompt is filled in. Settings: Seedance 2.5, 10 s, 720p, 9:16, sound off. The video prompt — Pet
+
+```text
+A vertical phone video of the "Let's break up" glow-up meme with a pet, in four parts with hard cuts. Photorealistic live action, a real phone video, 9:16.
+THE PET is the pet in [Image 1], in every frame: the same species and breed, face, eyes, ears, muzzle, fur colors, fur length and markings as in [Image 1], with the natural body volume and proportions of that animal: never flattened, squashed, stretched or merged with anything. Its owner recognizes it at once.
+
+[0-2.5 s] SHOT 1, THE BEFORE: a close, unflattering phone shot at home at night under flat, dull light. The pet lies slumped on a messy couch, its fur ruffled and a bit unkempt, sleepy half-closed eyes, a bored, done look into the lens. In the lower middle of the frame, a short white caption with a thin black outline reads exactly: "Let's break up". This caption is the only text in the whole video, and it shows only in this shot.
+[2.5-5 s] SHOT 2, THE SPARKLE CHANGE: hard cut to the same pet sitting upright in a dark blue night haze. A ribbon of glittering silver-white sparkles spirals up around it from the paws to above the ears, like the magic change in a classic fairy tale. It ends in a soft white flash.
+[5-7.5 s] SHOT 3, THE GLOW-UP: hard cut to a close-up of the same pet freshly groomed: clean, brushed, fluffy, shiny fur in its own colors and markings, bright eyes, a small sparkly collar. Warm, flattering evening light. It lifts its chin proudly and turns its head slowly toward the lens.
+[7.5-10 s] SHOT 4, THE GLOW-UP STRUT: hard cut to the same groomed pet, its whole body in view from the ears to the paws, strutting a few steps toward the camera on a city sidewalk at night under warm street lights, then it stops and looks into the lens, proud.
+
+SOUND: No dialogue throughout the entire video. No background music.
+
+Exactly one animal and no people. No clothes on the pet, only the small collar in the glow-up shots. Avoid: a cartoon or animated look, a plush toy, a different animal, a princess, a gown, a tiara, any text other than the caption in shot 1, logos, watermarks, extra legs, morphing.
+```
+
+### Prompt 3
+
+```text
+Use the uploaded image as the base. This is the AFTER photo of a "Let's break up" glow-up post: the same person on their best day. Keep the hair color and hair length from the photo, now freshly washed and styled. Healthy skin with its real texture, pores and marks: no beauty filter, no smoothing, no slimmer face, no bigger eyes, no makeup the photo does not show. Well groomed, in a sharp, stylish dark outfit with one small silver necklace. A close front-camera selfie at night in warm, flattering light, a softly lit room out of focus behind. A confident little pout and a slight head tilt, one hand touching the hair, looking into the camera. From the chest up, the face large and sharp. Photorealistic, a real phone photo, not a studio retouch. Vertical 9:16. Exactly one person. No text, no stickers, no emoji, no captions, no logos, no watermark.
 ```
 
 ---
@@ -386,6 +601,117 @@ The pet keeps real animal anatomy: furry front legs ending in round paws covered
 
 ---
 
+## I Need a Girl Dance AI: Do the Viral TikTok Duo From Two Photos
+
+- Page: https://www.makeviral.ai/templates/i-need-a-girl-dance-ai-trend
+- Markdown: https://www.makeviral.ai/templates/i-need-a-girl-dance-ai-trend.md
+- Updated: 2026-11-08 · Published: 2026-11-08
+- Local: [`makeviral/i-need-a-girl-dance-ai-trend/PROMPTS.md`](makeviral/i-need-a-girl-dance-ai-trend/PROMPTS.md)
+
+### 1. The video prompt is filled in. Settings: Seedance 2.5, 15 s, 720p, 9:16, sound off. The video prompt
+
+```text
+Recreate the reference video [Video 1] shot for shot: two dancers side by side at night in a parking lot, ONE continuous handheld phone shot, the same camera, framing, timing and moves. The ONLY change: [Image 1] replaces the woman on the LEFT who says the intro, and [Image 2] replaces the bearded man on the RIGHT who throws the peace sign.
+
+DANCER 1, always on the LEFT, who says the intro line = the person in [Image 1], in EVERY frame: copy the exact face from [Image 1] (the face shape, eye color and eye shape, eyebrows, nose, mouth, skin tone, age, hair color, hair length and hairstyle, and any beard, moustache, glasses or freckles) exactly as in the photo. They wear the clothes and shoes from [Image 1]. NO red cap, no hood, no black hoodie with white letters and no hoop earrings unless [Image 1] shows them.
+
+DANCER 2, always on the RIGHT, who throws the peace sign = the person in [Image 2], in EVERY frame: copy the exact face from [Image 2], with the same face details, exactly as in the photo. They wear the clothes and shoes from [Image 2]. NO black cap, no hood, no tinted glasses, no navy quilted puffer jacket and no grey sweatpants unless [Image 2] shows them.
+
+A dancer whose photo shows an animal is that animal standing upright, with its own face and fur.
+
+From [Video 1] take ONLY the place, the CAMERA and the PERFORMANCE: the handheld framing and its sway, every step, bounce, arm swing, hand gesture and mouth movement, each dancer on their own side, at exactly the same moments, on the beat.
+
+THE PLACE: the same night parking lot as in [Video 1]: black sky, tall white street lamps and a small lit blue sign far behind, distant parked cars, a few strangers far in the background who never come near, the dancers lit by the phone's bright light.
+
+THE SHOT: ONE continuous handheld shot, no cuts, the phone at chest height a couple of steps in front, bobbing exactly as in [Video 1].
+0-2.6 s, THE INTRO: DANCER 1 talks straight to the lens with attitude, touches the chin, turns the head toward DANCER 2, then back; DANCER 2 stands cool and deadpan, mouth closed.
+2.0-2.8 s: DANCER 2 throws a peace sign high above the head, then grins.
+2.5-15 s, THE DANCE: the beat drops and both dance: arm swings across the body, bounces on bent knees, steps toward the lens and back, exactly the moves in [Video 1], on the beat, laughing at the lens and at each other until the last frame.
+
+MOUTHS: DANCER 1 talks only during 0-2.6 s, then only grins and laughs; DANCER 2 never talks. Faces follow [Video 1] moment by moment.
+
+The same real people in every frame, so their friends recognize them at once. Never morph, never drift back to the original dancers' faces, never blend or swap them. Both change: no one from the video stays.
+
+真人实拍、五官清晰、面部稳定、不扭曲、不变形、人体结构正常、比例自然、同一角色、服装一致、发型不变.
+
+One head per dancer, on their own shoulders; two arms and two hands each. No dialogue and no background music: the sound is added later. No third person beside or in front of the dancers, no cuts, no text, captions, logos or watermarks, no extra limbs, no morphing.
+```
+
+### 1. The video prompt is filled in. Settings: Seedance 2.5, 15 s, 720p, 9:16, sound off. The video prompt
+
+```text
+Recreate the reference video [Video 1] shot for shot: two dancers side by side at night in a parking lot, ONE continuous handheld phone shot, the same camera, framing, timing and moves. The ONLY change: [Image 1] replaces the woman on the LEFT who says the intro. DANCER 2, the bearded man on the RIGHT who throws the peace sign, keeps his own face, clothes and moves from [Video 1].
+
+DANCER 1, always on the LEFT, who says the intro line = the person in [Image 1], in EVERY frame: copy the exact face from [Image 1] (the face shape, eye color and eye shape, eyebrows, nose, mouth, skin tone, age, hair color, hair length and hairstyle, and any beard, moustache, glasses or freckles) exactly as in the photo. They wear the clothes and shoes from [Image 1]. NO red cap, no hood, no black hoodie with white letters and no hoop earrings unless [Image 1] shows them.
+
+If [Image 1] shows an animal, DANCER 1 is that animal standing upright, with its own face and fur.
+
+From [Video 1] take ONLY the place, the CAMERA and the PERFORMANCE: the handheld framing and its sway, every step, bounce, arm swing, hand gesture and mouth movement, each dancer on their own side, at exactly the same moments, on the beat.
+
+THE PLACE: the same night parking lot as in [Video 1]: black sky, tall white street lamps and a small lit blue sign far behind, distant parked cars, a few strangers far in the background who never come near, the dancers lit by the phone's bright light.
+
+THE SHOT: ONE continuous handheld shot, no cuts, the phone at chest height a couple of steps in front, bobbing exactly as in [Video 1].
+0-2.6 s, THE INTRO: DANCER 1 talks straight to the lens with attitude, touches the chin, turns the head toward DANCER 2, then back; DANCER 2 stands cool and deadpan, mouth closed.
+2.0-2.8 s: DANCER 2 throws a peace sign high above the head, then grins.
+2.5-15 s, THE DANCE: the beat drops and both dance: arm swings across the body, bounces on bent knees, steps toward the lens and back, exactly the moves in [Video 1], on the beat, laughing at the lens and at each other until the last frame.
+
+MOUTHS: DANCER 1 talks only during 0-2.6 s, then only grins and laughs; DANCER 2 never talks. Faces follow [Video 1] moment by moment.
+
+DANCER 1 is the same real person in every frame, so their friends recognize them at once. Never morph, never drift back to the original woman's face, never blend the two dancers.
+
+真人实拍、五官清晰、面部稳定、不扭曲、不变形、人体结构正常、比例自然、同一角色、服装一致、发型不变.
+
+One head per dancer, on their own shoulders; two arms and two hands each. No dialogue and no background music: the sound is added later. No third person beside or in front of the dancers, no cuts, no text, captions, logos or watermarks, no extra limbs, no morphing.
+```
+
+### 1. The video prompt is filled in. Settings: Seedance 2.5, 15 s, 720p, 9:16, sound off. The video prompt — Pet
+
+```text
+Recreate the reference video [Video 1] shot for shot: two dancers side by side at night in a parking lot, ONE continuous handheld phone shot, the same camera, framing, timing and moves. The ONLY change: the pet in [Image 1] replaces the dancer on the LEFT who says the intro. DANCER 2, the bearded man on the RIGHT who throws the peace sign, keeps his own face, clothes and moves from [Video 1].
+
+DANCER 1, on the LEFT = the pet in [Image 1], whole body, in EVERY frame: the same species and breed, face, eyes, ears, fur colors, fur length and markings as in [Image 1], with the natural body volume and proportions of that animal: never flattened, squashed or stretched, so its owner instantly recognizes it. It stands upright on its hind legs and does that dancer's moves with its front legs, with no cap, hood or jacket unless [Image 1] shows them. Never drift back to the original dancer. If [Image 1] shows a person, that person takes the place with their own face and clothes.
+
+From [Video 1] take ONLY the place, the CAMERA and the PERFORMANCE: the handheld framing and its sway, every step, bounce, arm swing, hand gesture and mouth movement, each dancer on their own side, at exactly the same moments, on the beat.
+
+THE PLACE: the same night parking lot as in [Video 1]: black sky, tall white street lamps and a small lit blue sign far behind, distant parked cars, a few strangers far in the background who never come near, the dancers lit by the phone's bright light.
+
+THE SHOT: ONE continuous handheld shot, no cuts, the phone at chest height a couple of steps in front, bobbing exactly as in [Video 1].
+0-2.6 s, THE INTRO: DANCER 1 looks straight at the lens with attitude, opens and closes its mouth as if it talks, lifts a front paw to the chin, turns the head toward DANCER 2, then back; DANCER 2 stands cool and deadpan, mouth closed.
+2.0-2.8 s: DANCER 2 throws a peace sign high above the head, then grins.
+2.5-15 s, THE DANCE: the beat drops and both dance: arm swings across the body, bounces on bent knees, steps toward the lens and back, exactly the moves in [Video 1], on the beat, laughing at the lens and at each other until the last frame.
+
+MOUTHS: DANCER 1 talks only during 0-2.6 s, then only grins and laughs; DANCER 2 never talks. Faces follow [Video 1] moment by moment.
+
+The pet: one head, one tail, two hind legs on the ground and two front legs, no human hands. No dialogue and no background music: the sound is added later. No third person beside or in front of the dancers, no cuts, no text, captions, logos or watermarks, no extra limbs, no morphing.
+```
+
+### 1. The video prompt is filled in. Settings: Seedance 2.5, 15 s, 720p, 9:16, sound off. The video prompt — Pet
+
+```text
+Recreate the reference video [Video 1] shot for shot: two dancers side by side at night in a parking lot, ONE continuous handheld phone shot, the same camera, framing, timing and moves. The ONLY change: the pet in [Image 1] replaces the dancer on the LEFT who says the intro, and the pet in [Image 2] replaces the dancer on the RIGHT who throws the peace sign.
+
+DANCER 1, on the LEFT = the pet in [Image 1], whole body, in EVERY frame: the same species and breed, face, eyes, ears, fur colors, fur length and markings as in [Image 1], with the natural body volume and proportions of that animal: never flattened, squashed or stretched, so its owner instantly recognizes it. It stands upright on its hind legs and does that dancer's moves with its front legs, with no cap, hood or jacket unless [Image 1] shows them.
+
+DANCER 2, on the RIGHT = the pet in [Image 2], whole body, in EVERY frame: the same species and breed, face, eyes, ears, fur colors, fur length and markings as in [Image 2], with the natural body volume and proportions of that animal: never flattened, squashed or stretched, so its owner instantly recognizes it. It stands upright on its hind legs and does that dancer's moves with its front legs, with no cap, hood or jacket unless [Image 2] shows them.
+
+Both change: no person from the video stays. Never mix the two pets. If a photo shows a person, that person takes that place with their own face and clothes.
+
+From [Video 1] take ONLY the place, the CAMERA and the PERFORMANCE: the handheld framing and its sway, every step, bounce, arm swing, hand gesture and mouth movement, each dancer on their own side, at exactly the same moments, on the beat.
+
+THE PLACE: the same night parking lot as in [Video 1]: black sky, tall white street lamps and a small lit blue sign far behind, distant parked cars, a few strangers far in the background who never come near, the dancers lit by the phone's bright light.
+
+THE SHOT: ONE continuous handheld shot, no cuts, the phone at chest height a couple of steps in front, bobbing exactly as in [Video 1].
+0-2.6 s, THE INTRO: DANCER 1 looks straight at the lens with attitude, opens and closes its mouth as if it talks, lifts a front paw to the chin, turns the head toward DANCER 2, then back; DANCER 2 stands cool and deadpan, mouth closed.
+2.0-2.8 s: DANCER 2 throws one front paw high above the head, then grins.
+2.5-15 s, THE DANCE: the beat drops and both dance: arm swings across the body, bounces on bent knees, steps toward the lens and back, exactly the moves in [Video 1], on the beat, laughing at the lens and at each other until the last frame.
+
+MOUTHS: DANCER 1 talks only during 0-2.6 s, then only grins and laughs; DANCER 2 never talks. Faces follow [Video 1] moment by moment.
+
+Each pet: one head, one tail, two hind legs on the ground and two front legs, no human hands. No dialogue and no background music: the sound is added later. No third person beside or in front of the dancers, no cuts, no text, captions, logos or watermarks, no extra limbs, no morphing.
+```
+
+---
+
 ## Grandpa Said He'd Handle Dinner: Chop the Giant Fish Yourself
 
 - Page: https://www.makeviral.ai/templates/grandpa-handle-dinner-ai-trend
@@ -433,6 +759,178 @@ ANATOMY AND OBJECT CONTACT: Adapt CHARACTER's image-defined anatomy and proporti
 STRICT FRAME CONSISTENCY: Lock CHARACTER's identity across every frame. Preserve the exact fur colors, markings, facial proportions, ears, muzzle, tail, and accessories, especially during fast cleaver movements and partial occlusion, with the natural body volume of that animal: never flattened, squashed or stretched. No species changes, fur flickering, identity blending, or anatomical morphing.
 
 SCENE PRESERVATION: Keep the original modern kitchen, countertop, oversized silver fish, rectangular cleaver, lighting, fixed camera, landscape framing, original duration, and motion rhythm. No added text, logos, watermarks, extra characters, or camera cuts. Only replace the original performer. The cleaver touches only the fish and the counter: no blood, no injury. No dialogue. No background music.
+```
+
+---
+
+## Dog Drummer AI: Your Dog Playing Drums in the Water Drum Trend
+
+- Page: https://www.makeviral.ai/templates/dog-drummer-ai
+- Markdown: https://www.makeviral.ai/templates/dog-drummer-ai.md
+- Updated: 2026-11-08 · Published: 2026-11-08
+- Local: [`makeviral/dog-drummer-ai/PROMPTS.md`](makeviral/dog-drummer-ai/PROMPTS.md)
+
+### 1. The video prompt is filled in. Settings: Seedance 2.5, 15 s, 720p, 9:16, sound off. The video prompt
+
+```text
+Recreate the reference video [Video 1] shot for shot: the same dark studio with warm string lights and big white letters on the wall behind, the same red drum kit with cymbals, the same water bottle, neon yellow drumsticks and spraying water, the same four shots, camera angles, cuts, timing, arm swings and stick hits. The ONLY change: the drummer is now the person in [Image 1].
+
+The drummer = the person in [Image 1], in EVERY shot: copy the exact face from [Image 1] - face shape, eye color and eye shape, eyebrows, nose, mouth, skin tone, age, hair color, hair length and hairstyle, and any beard, moustache, glasses or freckles exactly as in the photo. The drummer wears the clothes from [Image 1]; if [Image 1] shows only the head or the upper body, invent the rest so it matches naturally. The same real person in every frame, from the first second to the last, so their friends instantly recognize them, also in the low angle shot, when water hits the face and when the arms are above the head. Never morph, never drift back to the original drummer's face. NO tattoos on the arms, hands or neck unless [Image 1] shows them, NO black sleeveless shirt and NO green logo unless [Image 1] shows them, and the hair of [Image 1], never the original drummer's dark tousled hair. If [Image 1] shows an animal, the drummer is that animal standing upright on its hind legs behind the kit, with its own face, fur and markings and the natural body volume and proportions of that animal, holding the bottle and the sticks in its front paws: never flattened, squashed, stretched or merged with anything.
+
+The shots, matching [Video 1] second by second:
+Shot 1 [0-2.9s]: medium front shot from just above the drums. The drummer stands behind the red kit and, calm and serious, pours water from a small plastic bottle over the drum head.
+Shot 2 [2.9-5.7s]: small jump cut, same angle. The drummer flicks the bottle away over the shoulder, grabs two neon yellow sticks and hits the wet drums: every hit throws a spray of water drops up into the light.
+Shot 3 [5.7-9.9s]: hard cut to a low angle from behind the wet floor tom close to the lens, looking up. Big overhead swings, water exploding off the drum on every hit, the drops lit from behind.
+Shot 4 [9.9-14.6s]: hard cut back to the front medium shot. Faster hits, the head nodding with the beat, a mist of water drops in the warm light.
+
+The drummer plays exactly what the original drummer plays: every hit lands on the same drum at the same moment as in [Video 1], in time with the song, with the same energy. Calm at the start, then fully into it.
+
+No dialogue throughout the entire video. No background music.
+
+Anatomy rules: one head only, on the drummer's shoulders. A face never appears on a drum or the clothes. Two arms and two hands, five fingers on each hand, one stick in each hand after the toss. Exactly one person in the video. No text, no captions, no logos, no watermark, no extra people, no extra limbs, no morphing.
+```
+
+### 1. The video prompt is filled in. Settings: Seedance 2.5, 15 s, 720p, 9:16, sound off. The video prompt — Pet
+
+```text
+Recreate the reference video [Video 1] shot for shot: the same dark studio with warm string lights and big white letters on the wall behind, the same red drum kit with cymbals, the same water bottle, neon yellow drumsticks and spraying water, the same four shots, camera angles, cuts, timing, swings and stick hits. The ONLY change: the human drummer is completely replaced by the pet in [Image 1], the WHOLE body, not just the head. No person appears anywhere in the video.
+
+The drummer = the pet in [Image 1], in EVERY shot: the same species and breed, face, eyes, ears, muzzle, fur colors, fur length and markings as in [Image 1], with the natural body volume and proportions of that animal: never flattened, squashed, stretched or merged with anything. Whether [Image 1] shows a dog, a cat or another animal, it stays that animal, standing upright on its hind legs behind the kit, balanced and steady, its front legs as its arms: it holds the bottle and then one neon yellow stick in each front paw. The same pet in every frame, from the first second to the last, so its owner instantly recognizes it, also in the low angle shot and when water splashes its face. Natural fur on the whole body, no clothes unless [Image 1] shows them: NO black sleeveless shirt, NO green logo, NO human arms, NO tattoos, NO human hands, NO human face.
+
+The shots, matching [Video 1] second by second:
+Shot 1 [0-2.9s]: medium front shot from just above the drums. The drummer stands behind the red kit and, calm and serious, pours water from a small plastic bottle over the drum head.
+Shot 2 [2.9-5.7s]: small jump cut, same angle. The drummer flicks the bottle away over the shoulder, grabs two neon yellow sticks and hits the wet drums: every hit throws a spray of water drops up into the light.
+Shot 3 [5.7-9.9s]: hard cut to a low angle from behind the wet floor tom close to the lens, looking up. Big overhead swings, water exploding off the drum on every hit, the drops lit from behind.
+Shot 4 [9.9-14.6s]: hard cut back to the front medium shot. Faster hits, the head nodding with the beat, a mist of water drops in the warm light.
+
+The pet plays exactly what the original drummer plays: every hit lands on the same drum at the same moment as in [Video 1], in time with the song, with the same energy, its head going with the beat. A deadpan, very serious face at the start, then fully into it. The water flies off the drum heads on every hit and wets the fur, as in [Video 1].
+
+No dialogue throughout the entire video. No background music.
+
+Anatomy rules: one head only, one muzzle, natural teeth and tongue. Exactly two front paws holding the sticks and two hind legs standing behind the kit: animal paws, never human hands. No extra legs, no extra animals, no people. No text, no captions, no logos, no watermark, no morphing.
+```
+
+---
+
+## DJ Cat AI: Put Your Cat, Dog or Yourself Behind the Decks
+
+- Page: https://www.makeviral.ai/templates/dj-cat-ai
+- Markdown: https://www.makeviral.ai/templates/dj-cat-ai.md
+- Updated: 2026-11-08 · Published: 2026-11-08
+- Local: [`makeviral/dj-cat-ai/PROMPTS.md`](makeviral/dj-cat-ai/PROMPTS.md)
+
+### 1. The video prompt is filled in. Settings: Seedance 2.5, 15 s, 720p, 9:16, sound off. The video prompt
+
+```text
+Recreate the reference video [Video 1] shot for shot: the same dark arena packed with a cheering crowd and phone lights, the same DJ booth with two turntable decks and a mixer, the same white spotlight from above, the same camera angles, cuts, timing and moves. The ONLY change: the dog DJ at the decks is now the person in [Image 1], a human DJ standing behind the booth.
+
+The DJ = the person in [Image 1], in EVERY shot: copy the exact face from [Image 1] (face shape, eye color and eye shape, eyebrows, nose, mouth, skin tone, age, hair color, hair length and hairstyle, and any beard, moustache, glasses or freckles) exactly as in the photo. They wear the clothes from [Image 1]. The same real person in every frame, from the first second to the last, so their friends recognize them at once. A human body with human arms and hands: never a dog, no fur, no dog ears, no snout, no paws, no tail. Never morph, never drift back to the dog from the video.
+
+Shot 1 [0-4.5s]: a close-up from the front across the turntables and the mixer, the packed crowd and its phone lights behind. Shot 2 [4.5-8.3s]: hard cut, from behind the DJ towards the sea of phone lights, the decks at the sides. Shot 3 [8.3-15s]: hard cut, a wide shot from inside the crowd: raised hands and heads in dark silhouette in front, the DJ small and centered behind the booth under one white spotlight from above.
+The performance, matching [Video 1]: 0-4.5s: the DJ leans over the decks, both hands on the mixer and the jog wheel, and grins into the camera with the mouth wide open in pure joy, the head bobbing to the beat. 4.5-8.3s: seen from behind, hands on the front edge of the booth, the DJ faces the crowd, sways, then turns a little to the decks; only the back of the head shows, with the hair from [Image 1]. 8.3-15s: the DJ dances behind the booth under the spotlight and raises one hand to the crowd.
+
+No dialogue throughout the entire video. No background music. Rules: one DJ only at the booth, one head, two arms, two hands with five fingers each. Keep the crowd as it is in the video. No text, no logos, no watermark.
+```
+
+### 1. The video prompt is filled in. Settings: Seedance 2.5, 15 s, 720p, 9:16, sound off. The video prompt — Pet
+
+```text
+Recreate the reference video [Video 1] shot for shot. [Image 1] is the pet. The dog at the DJ decks becomes the pet in [Image 1], in every shot, clearly recognisable, a real animal with natural animal anatomy, paws on the decks, never human hands. Keep every move, every scratch on the turntables, every paw raise, every cut, every camera move and the timing exactly as in the video. Keep the arena, the spotlight, the DJ decks, the crowd and the lighting unchanged. Keep the pet's face clearly lit.
+
+The pet = the pet in [Image 1], in EVERY frame: the same species and breed, face, eyes, ears, muzzle, fur colors, fur length and markings as in [Image 1], with the natural body volume and proportions of that animal: never flattened, squashed, stretched or merged with anything. Whether [Image 1] shows a cat, a dog or another animal, it stays that animal, standing up on its hind legs at the booth like the dog in the video. The same pet in every frame, from the first second to the last, so its owner instantly recognizes it. Never drift back to the dog from the video: never its face and never its coat, unless [Image 1] shows them.
+
+Shot 1 [0-4.5s]: a close-up from the front across the turntables and the mixer, the packed crowd and its phone lights behind. Shot 2 [4.5-8.3s]: hard cut, from behind the DJ towards the sea of phone lights, the decks at the sides. Shot 3 [8.3-15s]: hard cut, a wide shot from inside the crowd: raised hands and heads in dark silhouette in front, the DJ small and centered behind the booth under one white spotlight from above.
+The performance, matching [Video 1]: 0-4.5s: front paws on the mixer and the jog wheel, the mouth wide open with joy (a dog may let its tongue hang out, a cat keeps its own cat mouth), small head bobs to the beat. 4.5-8.3s: seen from behind, it stands on its hind legs with its front paws on the edge of the booth, facing the crowd, then turns to the decks. 8.3-15s: small under the spotlight behind the booth, it dances and lifts one paw to the crowd.
+
+No dialogue throughout the entire video. No background music. Anatomy rules: one head only, one muzzle, exactly two front paws on the decks, animal paws, never a human hand. No extra animals, no people at the booth. Do not add any text or logos.
+```
+
+---
+
+## Come and Get It Trend AI: The Rose Petal Edit From One Photo
+
+- Page: https://www.makeviral.ai/templates/come-and-get-it-ai-trend
+- Markdown: https://www.makeviral.ai/templates/come-and-get-it-ai-trend.md
+- Updated: 2026-11-08 · Published: 2026-11-08
+- Local: [`makeviral/come-and-get-it-ai-trend/PROMPTS.md`](makeviral/come-and-get-it-ai-trend/PROMPTS.md)
+
+### 1. The video prompt is filled in. Settings: Seedance 2.5, 12 s, 720p, 9:16, sound off. The video prompt
+
+```text
+Edit [Video 1]: recreate it shot for shot, a dreamy slow-motion music edit with warm golden tones and floating rose petals: one continuous close-up of a young woman in a black top against a dark background, the same framing, the same slow push-in, the same head tilts, hair moves and mouth moves. The same edit: the whole picture flips between black and white and warm golden color on every beat, several times a second, exactly when [Video 1] flips, and red rose petals drift down slowly in front of the face all the time (dark gray in the black-and-white moments), a dreamy slow-motion look with soft grain. The ONLY change: the woman is now the person in [Image 1]. Only replace the person; the moves, the timing, the camera, the color flips and the petals stay completely unchanged. Keep everything else the same.
+
+The person = the person in [Image 1], in EVERY frame: copy the exact face from [Image 1]: face shape, eye color and eye shape, eyebrows, nose, mouth, skin tone, age, hair color, hair length and hairstyle, and any beard, moustache, glasses or freckles exactly as in the photo. Their own hair from [Image 1], loose and moving the way the woman's hair moves. The clothes from [Image 1]; a plain dark top if the photo shows only the face. The same real person in every frame, also in the extreme close-ups at the end, with the eyes closed and with the head tipped back, so their friends recognize them at once. Never morph, never drift back to the original woman's face. NO long wavy blonde hair unless [Image 1] shows it. If [Image 1] shows an animal, the person is that animal, with its own face, ears, fur and markings and the natural body volume and proportions of that animal, and paws instead of hands.
+
+The performance, second by second, as in [Video 1]:
+00:00-00:02: faces the camera with a soft smile and small head tilts, mouthing the hook of the song.
+00:02-00:05: lifts both hands into the hair and runs them through it, eyes closed, a playful wink, the head tipping back.
+00:05-00:08: lets the hair fall, tilts the head to one side and looks into the lens.
+00:08-00:12: the camera is very close, the face fills the frame: a pout, a slow smirk, a confident smile into the lens.
+The mouth opens, closes, pouts and smiles exactly when the woman's mouth does in [Video 1].
+
+No dialogue throughout the entire video. No background music.
+
+Anatomy rules: one head only, on the person's shoulders. Two hands with five fingers each, only when [Video 1] shows hands. Exactly one person in the frame.
+No text, no captions, no logos, no watermark, no extra people, no morphing, no facial distortion.
+```
+
+### 1. The video prompt is filled in. Settings: Seedance 2.5, 12 s, 720p, 9:16, sound off. The video prompt
+
+```text
+Edit [Video 1]: recreate it shot for shot, a cinematic night edit: one continuous close-up of a young woman with long dark hair in a dark jacket, at night on a city street with blurred golden lights at both sides, a bright light right behind her head that backlights her hair, the wind blowing her hair up wildly, the same framing, head moves and mouth moves. The same edit: the picture flips between black and white and deep red-tinted color on every beat, exactly when [Video 1] flips, the backlit hair glows red in the color moments, and rose petals fall all the time. The ONLY change: the woman is now the person in [Image 1]. Only replace the person; the moves, the timing, the camera, the wind, the light, the color flips and the petals stay completely unchanged. Keep everything else the same.
+
+The person = the person in [Image 1], in EVERY frame: copy the exact face from [Image 1]: face shape, eye color and eye shape, eyebrows, nose, mouth, skin tone, age, hair color, hair length and hairstyle, and any beard, moustache, glasses or freckles exactly as in the photo. Their own hair color and length from [Image 1], blown up by the wind the way the woman's hair is. The clothes from [Image 1]; a dark jacket if the photo shows only the face. The same real person in every frame, also in the dark moments and when hair crosses the face, so their friends recognize them at once. Never morph, never drift back to the original woman's face. If [Image 1] shows an animal, the person is that animal, with its own face, ears, fur and markings and the natural body volume and proportions of that animal.
+
+The performance, second by second, as in [Video 1]:
+00:00-00:04: the head tipped back, eyes half closed, the hair blowing up into the bright light.
+00:04-00:07: lowers the head to the camera, hair whipping across the face, lips parted.
+00:07-00:12: looks into the lens and sings along with the mouth open, the hair glowing red at the edges.
+The mouth opens and closes exactly when the woman's mouth does in [Video 1].
+
+No dialogue throughout the entire video. No background music.
+
+Anatomy rules: one head only, on the person's shoulders. Exactly one person in the frame.
+No text, no captions, no logos, no watermark, no extra people, no morphing, no facial distortion.
+```
+
+### 1. The video prompt is filled in. Settings: Seedance 2.5, 12 s, 720p, 9:16, sound off. The video prompt
+
+```text
+Edit [Video 1]: recreate it shot for shot, a dreamy slow-motion music edit with warm golden tones and floating rose petals: two young women side by side from the chest up, in front of a large world map board, one continuous shot, the same framing, poses, head moves and mouth moves. The same edit: the whole picture flips between black and white and warm golden color on every beat, several times a second, exactly when [Video 1] flips, and red rose petals drift down slowly in front of the face all the time (dark gray in the black-and-white moments), a dreamy slow-motion look with soft grain. The ONLY change: the two women are now the people in [Image 1] and [Image 2]. Only replace the people; the moves, the timing, the camera, the color flips and the petals stay completely unchanged. Keep everything else the same. Both change: no one from the video stays, also when a head turns away.
+
+The woman on the LEFT = the person in [Image 1], in EVERY frame: copy the exact face from [Image 1]: face shape, eye color and eye shape, eyebrows, nose, mouth, skin tone, age, hair color, hair length and hairstyle, and any beard, moustache, glasses or freckles exactly as in the photo.
+The woman on the RIGHT = the person in [Image 2], in EVERY frame: copy the exact face from [Image 2]: face shape, eye color and eye shape, eyebrows, nose, mouth, skin tone, age, hair color, hair length and hairstyle, and any beard, moustache, glasses or freckles exactly as in the photo.
+[Image 1] is the sole face reference for the left person, [Image 2] for the right person, [Video 1] is for the poses, the moves, the mouths and the camera only. Never blend or swap their faces. Each face stays the same from the first frame to the last, so their friends recognize them at once. Never drift back to the original women's faces. Each wears the clothes from their own photo: NO graduation caps, NO black gowns and NO gold stoles unless the photos show them. If an image shows an animal, that person is that animal, with its own face, fur and markings and the natural body volume and proportions of that animal.
+
+The performance, second by second, as in [Video 1]:
+00:00-00:06: both face the camera; the left one smiles calmly, the right one holds one hand up by her face in a playful pose and sways toward the left one.
+00:06-00:09: the right one turns her face toward the left one and both smile wide into the lens.
+00:09-00:12: the left one keeps smiling into the lens, the right one turns her head away to the right, the hair swinging.
+The mouths open, close and smile exactly when the women's mouths do in [Video 1].
+
+No dialogue throughout the entire video. No background music.
+
+Anatomy rules: one head per person, on their own shoulders. Exactly two people. Five fingers on each hand.
+No readable words on the board, no text, no captions, no logos, no watermark, no extra people, no morphing, no facial distortion.
+```
+
+### 1. The video prompt is filled in. Settings: Seedance 2.5, 12 s, 720p, 9:16, sound off. The video prompt — Pet
+
+```text
+Edit [Video 1]: recreate it shot for shot, a dreamy slow-motion music edit with warm golden tones and floating rose petals: one continuous close-up against a dark background, the same framing, the same slow push-in, the same head tilts. The same edit: the whole picture flips between black and white and warm golden color on every beat, several times a second, exactly when [Video 1] flips, and red rose petals drift down slowly in front of the face all the time (dark gray in the black-and-white moments), a dreamy slow-motion look with soft grain. The ONLY change: the young woman is now the pet in [Image 1]. Only replace the woman with the pet; the timing, the camera, the color flips and the petals stay completely unchanged. Keep everything else the same.
+
+The pet = the pet in [Image 1], in EVERY frame: the same species and breed, face, eyes, ears, muzzle, fur colors, fur length and markings as in [Image 1], with the natural body volume and proportions of that animal: never flattened, squashed, stretched or merged with anything. Whether [Image 1] shows a dog, a cat or another animal, it stays that animal, its head and shoulders filling the close-up like the woman's. The same pet in every frame, also in the extreme close-ups at the end, so its owner recognizes it at once. Never drift back to the woman: NO human face, NO human hair, NO black top.
+
+The performance, second by second, as in [Video 1]:
+00:00-00:02: faces the camera, small head tilts, the mouth opening a little on the beat.
+00:02-00:05: lifts both front paws up beside its head, eyes closed, the head tipping back, the fur ruffling.
+00:05-00:08: lowers the paws, tilts the head to one side and looks into the lens.
+00:08-00:12: the camera is very close, the face fills the frame: a slow blink, a proud, confident look into the lens.
+
+No dialogue throughout the entire video. No background music.
+
+Anatomy rules: one head only, one muzzle, natural teeth and tongue. Animal paws, never human hands. No extra animals, no people.
+No text, no captions, no logos, no watermark, no morphing.
 ```
 
 ---
@@ -495,6 +993,55 @@ The dance, matching the reference second by second, on the beat. Do not invent a
 Anatomy rules: one head and one tail per pet. Two hind legs on the floor and two front legs, no extra legs or paws, no human hands. Exactly two animals. Natural balance, stable ground contact.
 No dialogue throughout the entire video. No background music.
 No people, no extra animals, no new text, no captions, no logos, no watermark.
+```
+
+---
+
+## Chiikawa Dancing Nokia: Turn Yourself Into a Tiny Chibi That Dances to the Ringtone
+
+- Page: https://www.makeviral.ai/templates/chiikawa-dancing-nokia-ai
+- Markdown: https://www.makeviral.ai/templates/chiikawa-dancing-nokia-ai.md
+- Updated: 2026-11-08 · Published: 2026-11-08
+- Local: [`makeviral/chiikawa-dancing-nokia-ai/PROMPTS.md`](makeviral/chiikawa-dancing-nokia-ai/PROMPTS.md)
+
+### 1. Open [AI Photo with this template](https://www.makeviral.ai/photo?template=chiikawa-dancing-nokia-ai) and add your photo (you, face clear). The photo prompt is filled in
+
+```text
+Use the uploaded image as the base. Turn the person in the photo into a tiny, round, cute chibi plush creature: the head and the body are one soft round bean shape, about as wide as it is tall, with small black dot eyes with a white shine, little pink blush ovals on the cheeks, a tiny happy mouth, two short stubby arms, two tiny feet and a small round tail, drawn as a simple flat 2D hand-drawn cartoon, like a cute doodle sticker animation: thin dark brown outlines, flat soft pastel colors, no shading, no texture, never 3D and never a photo. It is a cute creature version of this person that their friends recognize at once: it keeps the person's hair color and hairstyle as a soft little hair shape on top of the round head (or their bald head, cap or hat), their skin tone as the face and body color, their eye color, and any glasses, beard, moustache, freckles or earrings, all drawn in the same simple style. It wears a tiny, simple version of the clothes from the photo in the same colors, with no print, letters or logo. No rabbit ears, no bear ears, no cat ears and no animal ears of any kind. It stands in the middle of a plain, pure white empty background, like a blank page: no room, no floor line, no other objects, only a tiny soft shadow under its feet. The creature fills about a third of the frame height in the middle, its whole body in view, with white space all around, like the trend clips. Next to it lies an old small dark grey candybar mobile phone with a small green screen and a rubber number keypad, lying flat on the white floor to the lower left of the creature, with a few tiny curved vibration lines around it because it is ringing; the phone has no brand name, no letters and no logo. The creature faces the camera with a shy, happy little smile and blushing cheeks, both stubby arms a little raised, eyes open. Vertical 9:16. Exactly one character: an original cartoon creature of this person, not an existing cartoon, anime, manga or mascot character. No text, no letters, no logos, no watermark, no frame. The face is always the cute flat cartoon face described above, never a photo face: the identity rules below apply to the creature's hair color, hairstyle, skin tone, eye color, glasses, facial hair and age.
+```
+
+### 3. Press the film button on the still to open AI Video with the still as the first frame. Settings: Kling 3.0, 10 s, 1080p, 9:16, sound on. The video prompt
+
+```text
+One continuous shot with no cuts and a locked-off camera, in the same simple flat 2D hand-drawn cartoon style as the image: thin dark outlines, flat soft colors, a plain pure white background. Keep the creature's look, colors, hair or fur, clothes and the old phone on the floor exactly as in the image. The creature stays in the middle of the white frame, its whole body in view.
+The old phone on the floor rings the whole time: it buzzes and wobbles a little in place, with tiny curved vibration lines around it. The creature never picks it up: it dances to the ringtone instead, a bouncy, silly little wiggle dance on the beat.
+0-2.5 s: it faces the camera with a happy, blushing face and sways its round body left and right on the beat with small hops, the stubby arms swinging, the little tail wiggling.
+2.5-5 s: it hops around to show its back and wiggles its round bottom left and right on the beat, the tail shaking, with tiny motion lines beside it.
+5-7.5 s: it hops back around to face the camera and sways side to side, very pleased with itself, cheeks blushing.
+7.5-10 s: it turns its back again, wiggles its bottom on the beat, then looks back over its shoulder at the camera with a cute smile.
+Smooth, bouncy, simple cartoon animation. The creature's face stays the same in every frame; its back shows only hair or fur, never a second face.
+Audio: only the loud, beeping, old-phone monophonic ringtone, a fast and catchy classical melody in a minor key, over a soft vibration buzz. No voice, no talking, no words, no other music, no drums.
+Exactly one character and one phone. It never turns 3D or into a real photo, never grows extra arms or legs and never changes its colors. No camera move, no zoom, no cuts. No text, no subtitles, no letters, no logos, no brand name on the phone, no watermark.
+```
+
+### 1. Open [AI Photo with this template](https://www.makeviral.ai/photo?template=chiikawa-dancing-nokia-ai&variant=pet) and add your photo (your pet, whole body). The photo prompt is filled in — Pet
+
+```text
+Use the uploaded image as the base. Turn the pet in the photo into a tiny, round, cute chibi plush creature: the head and the body are one soft round bean shape, about as wide as it is tall, with small black dot eyes with a white shine, little pink blush ovals on the cheeks, a tiny happy mouth, two short stubby arms, two tiny feet and a small round tail, drawn as a simple flat 2D hand-drawn cartoon, like a cute doodle sticker animation: thin dark brown outlines, flat soft pastel colors, no shading, no texture, never 3D and never a photo. It is a cute creature version of this pet that its owner recognizes at once: it keeps the same species look, the ear shape, the muzzle, the eye color, the fur colors, the fur pattern and the markings of the pet in the photo, drawn in the same simple style on the round body; never swapped for another animal or breed, and no ears the pet does not have. It stands in the middle of a plain, pure white empty background, like a blank page: no room, no floor line, no other objects, only a tiny soft shadow under its feet. The creature fills about a third of the frame height in the middle, its whole body in view, with white space all around, like the trend clips. Next to it lies an old small dark grey candybar mobile phone with a small green screen and a rubber number keypad, lying flat on the white floor to the lower left of the creature, with a few tiny curved vibration lines around it because it is ringing; the phone has no brand name, no letters and no logo. The creature stands upright on its two tiny feet and faces the camera with a happy little face and blushing cheeks, eyes open, its own paws, never human hands. Vertical 9:16. Exactly one animal creature and no people: an original cartoon of this pet, not an existing cartoon, anime, manga or mascot character. No text, no letters, no logos, no watermark, no frame. The pet is always the cute flat cartoon described above, never a photo: the identity rules below apply to its species look, ear shape, eye color, fur colors and markings.
+```
+
+### 3. Press the film button on the still to open AI Video with the still as the first frame. Settings: Kling 3.0, 10 s, 1080p, 9:16, sound on. The video prompt
+
+```text
+One continuous shot with no cuts and a locked-off camera, in the same simple flat 2D hand-drawn cartoon style as the image: thin dark outlines, flat soft colors, a plain pure white background. Keep the creature's look, colors, hair or fur, clothes and the old phone on the floor exactly as in the image. The creature stays in the middle of the white frame, its whole body in view.
+The old phone on the floor rings the whole time: it buzzes and wobbles a little in place, with tiny curved vibration lines around it. The creature never picks it up: it dances to the ringtone instead, a bouncy, silly little wiggle dance on the beat.
+0-2.5 s: it faces the camera with a happy, blushing face and sways its round body left and right on the beat with small hops, the stubby arms swinging, the little tail wiggling.
+2.5-5 s: it hops around to show its back and wiggles its round bottom left and right on the beat, the tail shaking, with tiny motion lines beside it.
+5-7.5 s: it hops back around to face the camera and sways side to side, very pleased with itself, cheeks blushing.
+7.5-10 s: it turns its back again, wiggles its bottom on the beat, then looks back over its shoulder at the camera with a cute smile.
+Smooth, bouncy, simple cartoon animation. The creature's face stays the same in every frame; its back shows only hair or fur, never a second face.
+Audio: only the loud, beeping, old-phone monophonic ringtone, a fast and catchy classical melody in a minor key, over a soft vibration buzz. No voice, no talking, no words, no other music, no drums.
+Exactly one character and one phone. It never turns 3D or into a real photo, never grows extra arms or legs and never changes its colors. No camera move, no zoom, no cuts. No text, no subtitles, no letters, no logos, no brand name on the phone, no watermark.
 ```
 
 ---
@@ -620,6 +1167,98 @@ Shot 1 [0-12 s], one take:
 Sound: none of its own; a slow saxophone song is put on afterwards. No dialogue throughout the entire video. No background music. Nobody speaks, laughs or sings.
 
 Exactly two men and one animal in the car, nobody else, no famous person. One head, four legs and one tail on the animal. Five fingers on each hand. Avoid: headbands, wristbands or sportswear unless a photo shows them, a logo or writing on the bag, a car badge, a split screen, text, subtitles, captions, logos, watermarks, extra limbs, morphing.
+```
+
+---
+
+## Bruno Fernandes Singing AI Trend: Sing the Window Serenade With a Friend
+
+- Page: https://www.makeviral.ai/templates/bruno-window-serenade-ai-trend
+- Markdown: https://www.makeviral.ai/templates/bruno-window-serenade-ai-trend.md
+- Updated: 2026-11-08 · Published: 2026-11-08
+- Local: [`makeviral/bruno-window-serenade-ai-trend/PROMPTS.md`](makeviral/bruno-window-serenade-ai-trend/PROMPTS.md)
+
+### 1. The video prompt is filled in. Settings: Seedance 2.5, 13 s, 720p, 9:16, sound off. The video prompt
+
+```text
+A funny driveway serenade, three shots: a sunny Southern California suburb at midday: a beige stucco two-story house with a tile roof edge, an open upstairs window above a grey garage door, a driveway, green lawn, tall palm trees, parked cars, blue sky. Handheld phone video, natural daylight, photorealistic, not CGI. Vertical 9:16.
+
+THE SINGER (in front, microphone) is the person in [Image 1], in every frame: copy the exact face from [Image 1] (the face shape, eye color and eye shape, eyebrows, nose, mouth, skin tone, age, hair color, hair length and hairstyle, and any beard, moustache, glasses or freckles), with the hair from [Image 1].
+THE GUITARIST (behind, guitar) is the person in [Image 2], in every frame: copy the exact face from [Image 2] (the face shape, eye color and eye shape, eyebrows, nose, mouth, skin tone, age, hair color, hair length and hairstyle, and any beard, moustache, glasses or freckles), with the hair from [Image 2].
+THE ONE AT THE WINDOW is an older man with messy grey hair in a white bathrobe, a stranger who looks like no one in the photos. He never sings or smiles.
+The roles come ONLY from the photo order, never from gender: never swap them. If an image shows an animal, that performer is that animal standing upright, with its own face and fur. Never blend faces. Each face stays the same from first frame to last, so friends recognize them at once. Everyone wears the clothes from their own photo: no red football shirts, no sports jerseys, no team crest or sponsor name unless that photo shows them.
+
+SHOTS, 13 s:
+[0-1 s] Low angle up at the open upstairs window: THE ONE AT THE WINDOW stands in it, one hand on the frame, looking down, deadpan.
+[1-2.2 s] The handheld camera tilts down past a palm tree to the driveway.
+[2.2-11 s] One handheld medium shot, waist up, faces large and sharp: THE SINGER in front on the left, three-quarter profile, a black wired microphone; THE GUITARIST just behind on the right, strumming an acoustic guitar. 2.2-4.2 s: the intro, the singer sways and looks up at the window. From 4.2 s the singer belts a big romantic chorus straight up at the window, chest out, eyebrows up, the free hand pointing up at the window, then on the heart; the guitarist strums hard on the beat and grins.
+[11-13 s] The camera pans back up to a wide shot of the house: THE ONE AT THE WINDOW still in the window, arms crossed, perfectly still, deadpan.
+
+Sound: none; a 1960s love song is added afterwards. The singer's lips stay closed before 4.2 s, then sing in clear, wide phrases to 11 s, mouth wide open on long notes. The one at the window never moves their lips. No spoken dialogue.
+
+Only these three people. Stable faces, no distortion. No text, captions, logos, watermark, split screen, extra people or extra limbs, no morphing.
+```
+
+### 1. The video prompt is filled in. Settings: Seedance 2.5, 13 s, 720p, 9:16, sound off. The video prompt
+
+```text
+A funny driveway serenade, three shots: a sunny Southern California suburb at midday: a beige stucco two-story house with a tile roof edge, an open upstairs window above a grey garage door, a driveway, green lawn, tall palm trees, parked cars, blue sky. Handheld phone video, natural daylight, photorealistic, not CGI. Vertical 9:16.
+
+THE SINGER (in front, microphone) is the person in [Image 1], in every frame: copy the exact face from [Image 1] (the face shape, eye color and eye shape, eyebrows, nose, mouth, skin tone, age, hair color, hair length and hairstyle, and any beard, moustache, glasses or freckles), with the hair from [Image 1].
+THE GUITARIST (behind, guitar) is the person in [Image 2], in every frame: copy the exact face from [Image 2] (the face shape, eye color and eye shape, eyebrows, nose, mouth, skin tone, age, hair color, hair length and hairstyle, and any beard, moustache, glasses or freckles), with the hair from [Image 2].
+THE ONE AT THE WINDOW (upstairs, sung to) is the person in [Image 3], in every frame: copy the exact face from [Image 3] (the face shape, eye color and eye shape, eyebrows, nose, mouth, skin tone, age, hair color, hair length and hairstyle, and any beard, moustache, glasses or freckles), with the hair and clothes from [Image 3]. Never sings or smiles.
+The roles come ONLY from the photo order, never from gender: never swap them. If an image shows an animal, that one is that animal with its own face and fur (at the window: it sits on the sill and stares down). Never blend faces. Each face stays the same from first frame to last, so friends recognize them at once. Everyone wears the clothes from their own photo: no red football shirts, no sports jerseys, no team crest or sponsor name unless that photo shows them.
+
+SHOTS, 13 s:
+[0-1 s] Low angle up at the open upstairs window: THE ONE AT THE WINDOW stands in it, one hand on the frame, looking down, deadpan.
+[1-2.2 s] The handheld camera tilts down past a palm tree to the driveway.
+[2.2-11 s] One handheld medium shot, waist up, faces large and sharp: THE SINGER in front on the left, three-quarter profile, a black wired microphone; THE GUITARIST just behind on the right, strumming an acoustic guitar. 2.2-4.2 s: the intro, the singer sways and looks up at the window. From 4.2 s the singer belts a big romantic chorus straight up at the window, chest out, eyebrows up, the free hand pointing up at the window, then on the heart; the guitarist strums hard on the beat and grins.
+[11-13 s] The camera pans back up to a wide shot of the house: THE ONE AT THE WINDOW still in the window, arms crossed, perfectly still, deadpan.
+
+Sound: none; a 1960s love song is added afterwards. The singer's lips stay closed before 4.2 s, then sing in clear, wide phrases to 11 s, mouth wide open on long notes. The one at the window never moves their lips. No spoken dialogue.
+
+Only these three. Stable faces, no distortion. No text, captions, logos, watermark, split screen, extra people or extra limbs, no morphing.
+```
+
+### 1. The video prompt is filled in. Settings: Seedance 2.5, 13 s, 720p, 9:16, sound off. The video prompt
+
+```text
+A funny driveway serenade, three shots: a sunny Southern California suburb at midday: a beige stucco two-story house with a tile roof edge, an open upstairs window above a grey garage door, a driveway, green lawn, tall palm trees, parked cars, blue sky. Handheld phone video, natural daylight, photorealistic, not CGI. Vertical 9:16.
+
+THE SINGER (in front, microphone) is the person in [Image 1], in every frame: copy the exact face from [Image 1] (the face shape, eye color and eye shape, eyebrows, nose, mouth, skin tone, age, hair color, hair length and hairstyle, and any beard, moustache, glasses or freckles), with the hair from [Image 1]. If [Image 1] shows an animal, the singer is that animal standing upright, with its own face and fur. The face stays the same from first frame to last.
+THE GUITARIST, behind on the right, is a tall man with a short brown beard in a grey T-shirt, a stranger.
+THE ONE AT THE WINDOW is an older man with messy grey hair in a white bathrobe, a stranger who looks like no one in the photos. He never sings or smiles.
+Everyone wears the clothes from their own photo: no red football shirts, no sports jerseys, no team crest or sponsor name unless that photo shows them.
+
+SHOTS, 13 s:
+[0-1 s] Low angle up at the open upstairs window: THE ONE AT THE WINDOW stands in it, one hand on the frame, looking down, deadpan.
+[1-2.2 s] The handheld camera tilts down past a palm tree to the driveway.
+[2.2-11 s] One handheld medium shot, waist up, faces large and sharp: THE SINGER in front on the left, three-quarter profile, a black wired microphone; THE GUITARIST just behind on the right, strumming an acoustic guitar. 2.2-4.2 s: the intro, the singer sways and looks up at the window. From 4.2 s the singer belts a big romantic chorus straight up at the window, chest out, eyebrows up, the free hand pointing up at the window, then on the heart; the guitarist strums hard on the beat and grins.
+[11-13 s] The camera pans back up to a wide shot of the house: THE ONE AT THE WINDOW still in the window, arms crossed, perfectly still, deadpan.
+
+Sound: none; a 1960s love song is added afterwards. The singer's lips stay closed before 4.2 s, then sing in clear, wide phrases to 11 s, mouth wide open on long notes. The one at the window never moves their lips. No spoken dialogue.
+
+Only these three people. Stable faces, no distortion. No text, captions, logos, watermark, split screen, extra people or extra limbs, no morphing.
+```
+
+### 1. The video prompt is filled in. Settings: Seedance 2.5, 13 s, 720p, 9:16, sound off. The video prompt — Pet
+
+```text
+A funny driveway serenade, three shots: a sunny Southern California suburb at midday: a beige stucco two-story house with a tile roof edge, an open upstairs window above a grey garage door, a driveway, green lawn, tall palm trees, parked cars, blue sky. Handheld phone video, natural daylight, photorealistic, not CGI. Vertical 9:16.
+
+THE SINGER is the pet in [Image 1], in every frame: the same species and breed, face, eyes, ears, muzzle, fur colors, fur length and markings as in [Image 1], with the natural body volume and proportions of that animal: never flattened, squashed, stretched or merged with anything. Its owner recognizes it at once. It stands upright on its hind legs in front on the left, front paws on a short microphone stand, and sings with full emotion: its own animal face, only the mouth moves like a singer. No clothes, no human hands.
+THE GUITARIST, behind on the right, is a tall man with a short brown beard in a grey T-shirt.
+THE ONE AT THE WINDOW is an older man with messy grey hair in a white bathrobe, a stranger who looks like no one in the photos. He never sings or smiles.
+
+SHOTS, 13 s:
+[0-1 s] Low angle up at the open upstairs window: THE ONE AT THE WINDOW stands in it, one hand on the frame, looking down, deadpan.
+[1-2.2 s] The handheld camera tilts down past a palm tree to the driveway.
+[2.2-11 s] One handheld medium shot, waist up, faces large and sharp: THE PET SINGER in front on the left, three-quarter profile, at the microphone stand; THE GUITARIST just behind on the right, strumming an acoustic guitar. 2.2-4.2 s: the intro, the singer sways and looks up at the window. From 4.2 s the singer belts a big romantic chorus straight up at the window, chest out, eyebrows up, one front paw lifted toward the window; the guitarist strums hard on the beat and grins.
+[11-13 s] The camera pans back up to a wide shot of the house: THE ONE AT THE WINDOW still in the window, arms crossed, perfectly still, deadpan.
+
+Sound: none; a 1960s love song is added afterwards. The pet's mouth stays closed before 4.2 s, then sings in clear, wide phrases to 11 s, mouth wide open on long notes. The one at the window never moves their lips. No spoken dialogue.
+
+Only the pet, the guitarist and the man at the window. One head, four legs and one tail on the pet. No red football shirts, no team crest. Stable faces, no distortion. No text, captions, logos, watermark, split screen, extra people or extra limbs, no morphing.
 ```
 
 ---

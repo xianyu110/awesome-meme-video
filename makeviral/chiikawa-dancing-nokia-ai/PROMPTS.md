@@ -1,0 +1,65 @@
+# Chiikawa Dancing Nokia: Turn Yourself Into a Tiny Chibi That Dances to the Ringtone
+
+- Source: [makeviral](https://www.makeviral.ai/templates/chiikawa-dancing-nokia-ai)
+- Slug: `chiikawa-dancing-nokia-ai`
+
+The Chiikawa dancing Nokia trend comes from a November 2026 doodle animation: Usagi, the bunny from Chiikawa, ignores an old phone that rings on the floor and wiggles its bottom to the ringtone instead.
+
+## Demo videos (CDN)
+
+- https://www.makeviral.ai/media/templates/chiikawa-dancing-nokia-ai/original-main-v2.mp4
+
+## Posters
+
+- https://www.makeviral.ai/media/templates/chiikawa-dancing-nokia-ai/original-main-v1.jpg
+
+## Prompts
+
+### 1. 1. Open [AI Photo with this template](https://www.makeviral.ai/photo?template=chiikawa-dancing-nokia-ai) and add your photo (you, face clear). The photo prompt is filled in
+
+*Kind: photo_prompt*
+
+```text
+Use the uploaded image as the base. Turn the person in the photo into a tiny, round, cute chibi plush creature: the head and the body are one soft round bean shape, about as wide as it is tall, with small black dot eyes with a white shine, little pink blush ovals on the cheeks, a tiny happy mouth, two short stubby arms, two tiny feet and a small round tail, drawn as a simple flat 2D hand-drawn cartoon, like a cute doodle sticker animation: thin dark brown outlines, flat soft pastel colors, no shading, no texture, never 3D and never a photo. It is a cute creature version of this person that their friends recognize at once: it keeps the person's hair color and hairstyle as a soft little hair shape on top of the round head (or their bald head, cap or hat), their skin tone as the face and body color, their eye color, and any glasses, beard, moustache, freckles or earrings, all drawn in the same simple style. It wears a tiny, simple version of the clothes from the photo in the same colors, with no print, letters or logo. No rabbit ears, no bear ears, no cat ears and no animal ears of any kind. It stands in the middle of a plain, pure white empty background, like a blank page: no room, no floor line, no other objects, only a tiny soft shadow under its feet. The creature fills about a third of the frame height in the middle, its whole body in view, with white space all around, like the trend clips. Next to it lies an old small dark grey candybar mobile phone with a small green screen and a rubber number keypad, lying flat on the white floor to the lower left of the creature, with a few tiny curved vibration lines around it because it is ringing; the phone has no brand name, no letters and no logo. The creature faces the camera with a shy, happy little smile and blushing cheeks, both stubby arms a little raised, eyes open. Vertical 9:16. Exactly one character: an original cartoon creature of this person, not an existing cartoon, anime, manga or mascot character. No text, no letters, no logos, no watermark, no frame. The face is always the cute flat cartoon face described above, never a photo face: the identity rules below apply to the creature's hair color, hairstyle, skin tone, eye color, glasses, facial hair and age.
+```
+
+### 2. 3. Press the film button on the still to open AI Video with the still as the first frame. Settings: Kling 3.0, 10 s, 1080p, 9:16, sound on. The video prompt
+
+*Kind: video_prompt*
+
+```text
+One continuous shot with no cuts and a locked-off camera, in the same simple flat 2D hand-drawn cartoon style as the image: thin dark outlines, flat soft colors, a plain pure white background. Keep the creature's look, colors, hair or fur, clothes and the old phone on the floor exactly as in the image. The creature stays in the middle of the white frame, its whole body in view.
+The old phone on the floor rings the whole time: it buzzes and wobbles a little in place, with tiny curved vibration lines around it. The creature never picks it up: it dances to the ringtone instead, a bouncy, silly little wiggle dance on the beat.
+0-2.5 s: it faces the camera with a happy, blushing face and sways its round body left and right on the beat with small hops, the stubby arms swinging, the little tail wiggling.
+2.5-5 s: it hops around to show its back and wiggles its round bottom left and right on the beat, the tail shaking, with tiny motion lines beside it.
+5-7.5 s: it hops back around to face the camera and sways side to side, very pleased with itself, cheeks blushing.
+7.5-10 s: it turns its back again, wiggles its bottom on the beat, then looks back over its shoulder at the camera with a cute smile.
+Smooth, bouncy, simple cartoon animation. The creature's face stays the same in every frame; its back shows only hair or fur, never a second face.
+Audio: only the loud, beeping, old-phone monophonic ringtone, a fast and catchy classical melody in a minor key, over a soft vibration buzz. No voice, no talking, no words, no other music, no drums.
+Exactly one character and one phone. It never turns 3D or into a real photo, never grows extra arms or legs and never changes its colors. No camera move, no zoom, no cuts. No text, no subtitles, no letters, no logos, no brand name on the phone, no watermark.
+```
+
+### 3. 1. Open [AI Photo with this template](https://www.makeviral.ai/photo?template=chiikawa-dancing-nokia-ai&variant=pet) and add your photo (your pet, whole body). The photo prompt is filled in (Pet)
+
+*Kind: photo_prompt*
+
+```text
+Use the uploaded image as the base. Turn the pet in the photo into a tiny, round, cute chibi plush creature: the head and the body are one soft round bean shape, about as wide as it is tall, with small black dot eyes with a white shine, little pink blush ovals on the cheeks, a tiny happy mouth, two short stubby arms, two tiny feet and a small round tail, drawn as a simple flat 2D hand-drawn cartoon, like a cute doodle sticker animation: thin dark brown outlines, flat soft pastel colors, no shading, no texture, never 3D and never a photo. It is a cute creature version of this pet that its owner recognizes at once: it keeps the same species look, the ear shape, the muzzle, the eye color, the fur colors, the fur pattern and the markings of the pet in the photo, drawn in the same simple style on the round body; never swapped for another animal or breed, and no ears the pet does not have. It stands in the middle of a plain, pure white empty background, like a blank page: no room, no floor line, no other objects, only a tiny soft shadow under its feet. The creature fills about a third of the frame height in the middle, its whole body in view, with white space all around, like the trend clips. Next to it lies an old small dark grey candybar mobile phone with a small green screen and a rubber number keypad, lying flat on the white floor to the lower left of the creature, with a few tiny curved vibration lines around it because it is ringing; the phone has no brand name, no letters and no logo. The creature stands upright on its two tiny feet and faces the camera with a happy little face and blushing cheeks, eyes open, its own paws, never human hands. Vertical 9:16. Exactly one animal creature and no people: an original cartoon of this pet, not an existing cartoon, anime, manga or mascot character. No text, no letters, no logos, no watermark, no frame. The pet is always the cute flat cartoon described above, never a photo: the identity rules below apply to its species look, ear shape, eye color, fur colors and markings.
+```
+
+### 4. 3. Press the film button on the still to open AI Video with the still as the first frame. Settings: Kling 3.0, 10 s, 1080p, 9:16, sound on. The video prompt
+
+*Kind: video_prompt*
+
+```text
+One continuous shot with no cuts and a locked-off camera, in the same simple flat 2D hand-drawn cartoon style as the image: thin dark outlines, flat soft colors, a plain pure white background. Keep the creature's look, colors, hair or fur, clothes and the old phone on the floor exactly as in the image. The creature stays in the middle of the white frame, its whole body in view.
+The old phone on the floor rings the whole time: it buzzes and wobbles a little in place, with tiny curved vibration lines around it. The creature never picks it up: it dances to the ringtone instead, a bouncy, silly little wiggle dance on the beat.
+0-2.5 s: it faces the camera with a happy, blushing face and sways its round body left and right on the beat with small hops, the stubby arms swinging, the little tail wiggling.
+2.5-5 s: it hops around to show its back and wiggles its round bottom left and right on the beat, the tail shaking, with tiny motion lines beside it.
+5-7.5 s: it hops back around to face the camera and sways side to side, very pleased with itself, cheeks blushing.
+7.5-10 s: it turns its back again, wiggles its bottom on the beat, then looks back over its shoulder at the camera with a cute smile.
+Smooth, bouncy, simple cartoon animation. The creature's face stays the same in every frame; its back shows only hair or fur, never a second face.
+Audio: only the loud, beeping, old-phone monophonic ringtone, a fast and catchy classical melody in a minor key, over a soft vibration buzz. No voice, no talking, no words, no other music, no drums.
+Exactly one character and one phone. It never turns 3D or into a real photo, never grows extra arms or legs and never changes its colors. No camera move, no zoom, no cuts. No text, no subtitles, no letters, no logos, no brand name on the phone, no watermark.
+```
+

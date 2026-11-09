@@ -1,0 +1,47 @@
+# DJ Cat AI: Put Your Cat, Dog or Yourself Behind the Decks
+
+- Source: [makeviral](https://www.makeviral.ai/templates/dj-cat-ai)
+- Slug: `dj-cat-ai`
+
+The DJ cat trend, also called cat DJ or DJ dog, is a wave of AI videos where a pet headlines a sold-out arena: paws on the decks, a huge grin in the close-up, the crowd going wild under one spotlight.
+
+## Demo videos (CDN)
+
+- https://www.makeviral.ai/media/templates/dj-cat-ai/original-pet-v2.mp4
+
+## Posters
+
+- https://www.makeviral.ai/media/templates/dj-cat-ai/original-pet-v1.jpg
+
+## Prompts
+
+### 1. 1. The video prompt is filled in. Settings: Seedance 2.5, 15 s, 720p, 9:16, sound off. The video prompt
+
+*Kind: video_prompt*
+
+```text
+Recreate the reference video [Video 1] shot for shot: the same dark arena packed with a cheering crowd and phone lights, the same DJ booth with two turntable decks and a mixer, the same white spotlight from above, the same camera angles, cuts, timing and moves. The ONLY change: the dog DJ at the decks is now the person in [Image 1], a human DJ standing behind the booth.
+
+The DJ = the person in [Image 1], in EVERY shot: copy the exact face from [Image 1] (face shape, eye color and eye shape, eyebrows, nose, mouth, skin tone, age, hair color, hair length and hairstyle, and any beard, moustache, glasses or freckles) exactly as in the photo. They wear the clothes from [Image 1]. The same real person in every frame, from the first second to the last, so their friends recognize them at once. A human body with human arms and hands: never a dog, no fur, no dog ears, no snout, no paws, no tail. Never morph, never drift back to the dog from the video.
+
+Shot 1 [0-4.5s]: a close-up from the front across the turntables and the mixer, the packed crowd and its phone lights behind. Shot 2 [4.5-8.3s]: hard cut, from behind the DJ towards the sea of phone lights, the decks at the sides. Shot 3 [8.3-15s]: hard cut, a wide shot from inside the crowd: raised hands and heads in dark silhouette in front, the DJ small and centered behind the booth under one white spotlight from above.
+The performance, matching [Video 1]: 0-4.5s: the DJ leans over the decks, both hands on the mixer and the jog wheel, and grins into the camera with the mouth wide open in pure joy, the head bobbing to the beat. 4.5-8.3s: seen from behind, hands on the front edge of the booth, the DJ faces the crowd, sways, then turns a little to the decks; only the back of the head shows, with the hair from [Image 1]. 8.3-15s: the DJ dances behind the booth under the spotlight and raises one hand to the crowd.
+
+No dialogue throughout the entire video. No background music. Rules: one DJ only at the booth, one head, two arms, two hands with five fingers each. Keep the crowd as it is in the video. No text, no logos, no watermark.
+```
+
+### 2. 1. The video prompt is filled in. Settings: Seedance 2.5, 15 s, 720p, 9:16, sound off. The video prompt (Pet)
+
+*Kind: video_prompt*
+
+```text
+Recreate the reference video [Video 1] shot for shot. [Image 1] is the pet. The dog at the DJ decks becomes the pet in [Image 1], in every shot, clearly recognisable, a real animal with natural animal anatomy, paws on the decks, never human hands. Keep every move, every scratch on the turntables, every paw raise, every cut, every camera move and the timing exactly as in the video. Keep the arena, the spotlight, the DJ decks, the crowd and the lighting unchanged. Keep the pet's face clearly lit.
+
+The pet = the pet in [Image 1], in EVERY frame: the same species and breed, face, eyes, ears, muzzle, fur colors, fur length and markings as in [Image 1], with the natural body volume and proportions of that animal: never flattened, squashed, stretched or merged with anything. Whether [Image 1] shows a cat, a dog or another animal, it stays that animal, standing up on its hind legs at the booth like the dog in the video. The same pet in every frame, from the first second to the last, so its owner instantly recognizes it. Never drift back to the dog from the video: never its face and never its coat, unless [Image 1] shows them.
+
+Shot 1 [0-4.5s]: a close-up from the front across the turntables and the mixer, the packed crowd and its phone lights behind. Shot 2 [4.5-8.3s]: hard cut, from behind the DJ towards the sea of phone lights, the decks at the sides. Shot 3 [8.3-15s]: hard cut, a wide shot from inside the crowd: raised hands and heads in dark silhouette in front, the DJ small and centered behind the booth under one white spotlight from above.
+The performance, matching [Video 1]: 0-4.5s: front paws on the mixer and the jog wheel, the mouth wide open with joy (a dog may let its tongue hang out, a cat keeps its own cat mouth), small head bobs to the beat. 4.5-8.3s: seen from behind, it stands on its hind legs with its front paws on the edge of the booth, facing the crowd, then turns to the decks. 8.3-15s: small under the spotlight behind the booth, it dances and lifts one paw to the crowd.
+
+No dialogue throughout the entire video. No background music. Anatomy rules: one head only, one muzzle, exactly two front paws on the decks, animal paws, never a human hand. No extra animals, no people at the booth. Do not add any text or logos.
+```
+

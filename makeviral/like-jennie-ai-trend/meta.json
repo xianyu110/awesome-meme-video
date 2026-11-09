@@ -10,7 +10,7 @@
   "published": "2026-11-04",
   "credits": 177,
   "demo_videos": [
-    "https://www.makeviral.ai/media/templates/like-jennie-ai-trend/example.mp4"
+    "https://www.makeviral.ai/media/templates/like-jennie-ai-trend/example-v2.mp4"
   ],
   "posters": [
     "https://www.makeviral.ai/media/templates/like-jennie-ai-trend/example-input.jpg",
@@ -53,5 +53,5 @@
     "Make your own Like JENNIE Dance video"
   ],
   "prompt_count": 3,
-  "scraped_at": "2026-11-08"
+  "scraped_at": "2026-11-09"
 }

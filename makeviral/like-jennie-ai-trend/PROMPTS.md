@@ -7,7 +7,7 @@ The like JENNIE dance trend comes from JENNIE's 2025 hit "like JENNIE", whose vi
 
 ## Demo videos (CDN)
 
-- https://www.makeviral.ai/media/templates/like-jennie-ai-trend/example.mp4
+- https://www.makeviral.ai/media/templates/like-jennie-ai-trend/example-v2.mp4
 
 ## Posters
 

@@ -1,0 +1,83 @@
+# Spiderman Pointing Meme AI: You and Your Friend, Pointing
+
+- Source: [makeviral](https://www.makeviral.ai/templates/spiderman-pointing-meme-ai)
+- Slug: `spiderman-pointing-meme-ai`
+
+The spiderman pointing meme shows two identical masked heroes pointing at each other, each sure the other is the copy.
+
+## Demo videos (CDN)
+
+- https://www.makeviral.ai/media/templates/spiderman-pointing-meme-ai/original-duo-v2.mp4
+
+## Posters
+
+- https://www.makeviral.ai/media/templates/spiderman-pointing-meme-ai/original-duo-v1.jpg
+
+## Prompts
+
+### 1. 1. The video prompt is filled in. Settings: Seedance 2.5, 10 s, 720p, 9:16, sound on. The video prompt
+
+*Kind: video_prompt*
+
+```text
+The iconic pointing meme, two identical masked heroes in the same suit standing face to face in a warehouse, both extending one arm and pointing directly at each other with their index fingers, expressive body language, humorous. Filmed like a real live-action comedy scene in an empty old brick warehouse with a concrete floor, a few wooden crates and warm daylight through tall dusty windows. Photorealistic, natural skin and colors, not CGI, not a cartoon. Vertical 9:16.
+
+Both wear the same suit: a snug full-body hero suit: bright red on the head, chest, shoulders, gloves and boots, royal blue on the sides, arms and legs, fine black web lines over the red parts, and a full red fabric mask with two big white eye lenses outlined in thick black. NO emblem or symbol on the chest or the back, no logo, no letters.
+
+The hero on the LEFT is the person in [Image 1], in every frame: copy the exact face from [Image 1] (the face shape, eye color and eye shape, eyebrows, nose, mouth, skin tone, age, hair color, hair length and hairstyle, and any beard, moustache, glasses or freckles), and their body build.
+The hero on the RIGHT is the person in [Image 2], in every frame: copy the exact face from [Image 2] (the face shape, eye color and eye shape, eyebrows, nose, mouth, skin tone, age, hair color, hair length and hairstyle, and any beard, moustache, glasses or freckles), and their body build.
+If an image shows an animal, that hero is that animal standing upright on its hind legs in a suit made for its body, with its own face, ears, fur and markings showing, never a person.
+Never blend their faces, never swap sides. Each face stays the same from the first frame to the last, so their friends recognize them at once.
+
+The shots:
+1. 0-3 s: a wide shot from the side, head to feet, masks ON: they freeze in the classic pose, one arm stretched out, the index finger pointing at the other's face, knees a little bent. They hold it, then jab the finger at each other twice, in sync.
+2. 3-6 s: a medium shot from the waist up: both pull their masks up and off at the same moment with the free hand and keep pointing with the other. Now the face from [Image 1] shows on the left and the face from [Image 2] on the right. They stare at each other, eyebrows up, mouths open in shock.
+3. 6-10 s: a medium close-up from the chest up, both faces in three-quarter view to the camera, large, sharp and well lit: they lean in and point even harder, then both turn to the camera at once with a "can you believe this?" face, still pointing.
+
+Audio: an original playful 1960s-style cartoon spy-comedy tune with brass stabs and bongos, a cloth rustle as the masks come off, then a short surprised gasp and a laugh. No dialogue throughout the entire video. No lyrics.
+
+Exactly two heroes, nobody else. Each hero has one head, two arms, two legs and five fingers on each hand; they point with the index finger. No emblem, no symbols, no text, no subtitles, no logos, no watermark.
+```
+
+### 2. 1. The video prompt is filled in. Settings: Seedance 2.5, 10 s, 720p, 9:16, sound on. The video prompt
+
+*Kind: video_prompt*
+
+```text
+The iconic pointing meme, two identical masked heroes in the same suit standing face to face in a warehouse, both extending one arm and pointing directly at each other with their index fingers, expressive body language, humorous. Filmed like a real live-action comedy scene in an empty old brick warehouse with a concrete floor, a few wooden crates and warm daylight through tall dusty windows. Photorealistic, natural skin and colors, not CGI, not a cartoon. Vertical 9:16.
+
+Both wear the same suit: a snug full-body hero suit: bright red on the head, chest, shoulders, gloves and boots, royal blue on the sides, arms and legs, fine black web lines over the red parts, and a full red fabric mask with two big white eye lenses outlined in thick black. NO emblem or symbol on the chest or the back, no logo, no letters.
+
+BOTH heroes are the person in [Image 1], like a mirror double, in every frame: copy the exact face from [Image 1] (the face shape, eye color and eye shape, eyebrows, nose, mouth, skin tone, age, hair color, hair length and hairstyle, and any beard, moustache, glasses or freckles) onto the hero on the LEFT and onto the hero on the RIGHT, with the same body build. The two look exactly alike: that is the joke. Never a second, different face; never a stranger. The face stays the same from the first frame to the last, so their friends recognize them at once.
+If [Image 1] shows an animal, both heroes are that animal standing upright on its hind legs in a suit made for its body, with its own face, ears, fur and markings showing, never a person.
+
+The shots:
+1. 0-3 s: a wide shot from the side, head to feet, masks ON: they freeze in the classic pose, one arm stretched out, the index finger pointing at the other's face, knees a little bent. They hold it, then jab the finger at each other twice, in sync.
+2. 3-6 s: a medium shot from the waist up: both pull their masks up and off at the same moment with the free hand and keep pointing with the other. Now the same face from [Image 1] shows on both sides. They stare at each other, eyebrows up, mouths open in shock.
+3. 6-10 s: a medium close-up from the chest up, both faces in three-quarter view to the camera, large, sharp and well lit: they lean in and point even harder, then both turn to the camera at once with a "can you believe this?" face, still pointing.
+
+Audio: an original playful 1960s-style cartoon spy-comedy tune with brass stabs and bongos, a cloth rustle as the masks come off, then a short surprised gasp and a laugh. No dialogue throughout the entire video. No lyrics.
+
+Exactly two heroes, nobody else. Each hero has one head, two arms, two legs and five fingers on each hand; they point with the index finger. No emblem, no symbols, no text, no subtitles, no logos, no watermark.
+```
+
+### 3. Prompt 3 (Pet)
+
+*Kind: prompt*
+
+```text
+Use the two uploaded images as the base. The pet in the first image stands on the left; the pet in the second image stands on the right. Each keeps its own species, breed look, face, eyes, ears, fur colors, fur length, markings and size exactly as in its own photo, with the natural body volume and proportions of that animal: never flattened, squashed or stretched. Never blend the two. A real photo in an empty old brick warehouse with a concrete floor, a few wooden crates and warm daylight through tall dusty windows, taken from low down at the height of the pets. Both pets stand upright on their hind legs, face to face, in the iconic pointing meme pose: each stretches one front leg out and points its paw straight at the other's face. Each wears a pet-sized red-and-blue hero suit with fine black web lines over the red parts, the hood pulled back so the whole head, face and ears show, no emblem or symbol on the chest or the back, no logo. Both whole bodies in view, from the ears to the hind paws, both faces turned three-quarters to the camera, clear and sharp. Photorealistic, natural fur and natural colors, not CGI. Vertical 9:16. Exactly two animals and no people. No text, no logos, no watermark.
+```
+
+### 4. 3. Press the film button on the still to open AI Video with the still as the first frame. Settings: Kling 3.0, 10 s, 1080p, 9:16, sound on. The video prompt
+
+*Kind: video_prompt*
+
+```text
+A live-action comedy clip in an old brick warehouse in warm daylight, the camera low at the height of the pets. Keep both animals' faces, eyes, ears, fur colors, markings, sizes and suits exactly as in the image, in every frame, with the natural body volume of each animal.
+0-3 s: both stand upright and hold the pointing pose, each pointing a front paw at the other's face, then jab the paw at each other twice, in sync.
+3-6 s: both tilt their heads, ears up, and stare at each other in surprise.
+6-10 s: the camera moves in to a medium close shot; both lean in, nose to nose, point even harder, then both look straight into the lens, still pointing at each other.
+Audio: an original playful 1960s-style cartoon spy-comedy tune with brass stabs and bongos, then a short surprised little bark or meow. No dialogue. One continuous shot, no cuts. Exactly two animals and no people; four legs each, one tail each. No text, no logos, no watermark.
+```
+

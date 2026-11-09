@@ -1,0 +1,127 @@
+# I Need a Girl Dance AI: Do the Viral TikTok Duo From Two Photos
+
+- Source: [makeviral](https://www.makeviral.ai/templates/i-need-a-girl-dance-ai-trend)
+- Slug: `i-need-a-girl-dance-ai-trend`
+
+The I Need a Girl dance is a TikTok duo dance from October 2026: one friend says the spoken intro of "I Need a Girl (Part Two)" to the camera, the other throws a peace sign, and both dance when the beat drops.
+
+## Demo videos (CDN)
+
+- https://www.makeviral.ai/media/templates/i-need-a-girl-dance-ai-trend/original-main-v2.mp4
+
+## Posters
+
+- https://www.makeviral.ai/media/templates/i-need-a-girl-dance-ai-trend/original-main-v1.jpg
+
+## Prompts
+
+### 1. 1. The video prompt is filled in. Settings: Seedance 2.5, 15 s, 720p, 9:16, sound off. The video prompt
+
+*Kind: video_prompt*
+
+```text
+Recreate the reference video [Video 1] shot for shot: two dancers side by side at night in a parking lot, ONE continuous handheld phone shot, the same camera, framing, timing and moves. The ONLY change: [Image 1] replaces the woman on the LEFT who says the intro, and [Image 2] replaces the bearded man on the RIGHT who throws the peace sign.
+
+DANCER 1, always on the LEFT, who says the intro line = the person in [Image 1], in EVERY frame: copy the exact face from [Image 1] (the face shape, eye color and eye shape, eyebrows, nose, mouth, skin tone, age, hair color, hair length and hairstyle, and any beard, moustache, glasses or freckles) exactly as in the photo. They wear the clothes and shoes from [Image 1]. NO red cap, no hood, no black hoodie with white letters and no hoop earrings unless [Image 1] shows them.
+
+DANCER 2, always on the RIGHT, who throws the peace sign = the person in [Image 2], in EVERY frame: copy the exact face from [Image 2], with the same face details, exactly as in the photo. They wear the clothes and shoes from [Image 2]. NO black cap, no hood, no tinted glasses, no navy quilted puffer jacket and no grey sweatpants unless [Image 2] shows them.
+
+A dancer whose photo shows an animal is that animal standing upright, with its own face and fur.
+
+From [Video 1] take ONLY the place, the CAMERA and the PERFORMANCE: the handheld framing and its sway, every step, bounce, arm swing, hand gesture and mouth movement, each dancer on their own side, at exactly the same moments, on the beat.
+
+THE PLACE: the same night parking lot as in [Video 1]: black sky, tall white street lamps and a small lit blue sign far behind, distant parked cars, a few strangers far in the background who never come near, the dancers lit by the phone's bright light.
+
+THE SHOT: ONE continuous handheld shot, no cuts, the phone at chest height a couple of steps in front, bobbing exactly as in [Video 1].
+0-2.6 s, THE INTRO: DANCER 1 talks straight to the lens with attitude, touches the chin, turns the head toward DANCER 2, then back; DANCER 2 stands cool and deadpan, mouth closed.
+2.0-2.8 s: DANCER 2 throws a peace sign high above the head, then grins.
+2.5-15 s, THE DANCE: the beat drops and both dance: arm swings across the body, bounces on bent knees, steps toward the lens and back, exactly the moves in [Video 1], on the beat, laughing at the lens and at each other until the last frame.
+
+MOUTHS: DANCER 1 talks only during 0-2.6 s, then only grins and laughs; DANCER 2 never talks. Faces follow [Video 1] moment by moment.
+
+The same real people in every frame, so their friends recognize them at once. Never morph, never drift back to the original dancers' faces, never blend or swap them. Both change: no one from the video stays.
+
+真人实拍、五官清晰、面部稳定、不扭曲、不变形、人体结构正常、比例自然、同一角色、服装一致、发型不变.
+
+One head per dancer, on their own shoulders; two arms and two hands each. No dialogue and no background music: the sound is added later. No third person beside or in front of the dancers, no cuts, no text, captions, logos or watermarks, no extra limbs, no morphing.
+```
+
+### 2. 1. The video prompt is filled in. Settings: Seedance 2.5, 15 s, 720p, 9:16, sound off. The video prompt
+
+*Kind: video_prompt*
+
+```text
+Recreate the reference video [Video 1] shot for shot: two dancers side by side at night in a parking lot, ONE continuous handheld phone shot, the same camera, framing, timing and moves. The ONLY change: [Image 1] replaces the woman on the LEFT who says the intro. DANCER 2, the bearded man on the RIGHT who throws the peace sign, keeps his own face, clothes and moves from [Video 1].
+
+DANCER 1, always on the LEFT, who says the intro line = the person in [Image 1], in EVERY frame: copy the exact face from [Image 1] (the face shape, eye color and eye shape, eyebrows, nose, mouth, skin tone, age, hair color, hair length and hairstyle, and any beard, moustache, glasses or freckles) exactly as in the photo. They wear the clothes and shoes from [Image 1]. NO red cap, no hood, no black hoodie with white letters and no hoop earrings unless [Image 1] shows them.
+
+If [Image 1] shows an animal, DANCER 1 is that animal standing upright, with its own face and fur.
+
+From [Video 1] take ONLY the place, the CAMERA and the PERFORMANCE: the handheld framing and its sway, every step, bounce, arm swing, hand gesture and mouth movement, each dancer on their own side, at exactly the same moments, on the beat.
+
+THE PLACE: the same night parking lot as in [Video 1]: black sky, tall white street lamps and a small lit blue sign far behind, distant parked cars, a few strangers far in the background who never come near, the dancers lit by the phone's bright light.
+
+THE SHOT: ONE continuous handheld shot, no cuts, the phone at chest height a couple of steps in front, bobbing exactly as in [Video 1].
+0-2.6 s, THE INTRO: DANCER 1 talks straight to the lens with attitude, touches the chin, turns the head toward DANCER 2, then back; DANCER 2 stands cool and deadpan, mouth closed.
+2.0-2.8 s: DANCER 2 throws a peace sign high above the head, then grins.
+2.5-15 s, THE DANCE: the beat drops and both dance: arm swings across the body, bounces on bent knees, steps toward the lens and back, exactly the moves in [Video 1], on the beat, laughing at the lens and at each other until the last frame.
+
+MOUTHS: DANCER 1 talks only during 0-2.6 s, then only grins and laughs; DANCER 2 never talks. Faces follow [Video 1] moment by moment.
+
+DANCER 1 is the same real person in every frame, so their friends recognize them at once. Never morph, never drift back to the original woman's face, never blend the two dancers.
+
+真人实拍、五官清晰、面部稳定、不扭曲、不变形、人体结构正常、比例自然、同一角色、服装一致、发型不变.
+
+One head per dancer, on their own shoulders; two arms and two hands each. No dialogue and no background music: the sound is added later. No third person beside or in front of the dancers, no cuts, no text, captions, logos or watermarks, no extra limbs, no morphing.
+```
+
+### 3. 1. The video prompt is filled in. Settings: Seedance 2.5, 15 s, 720p, 9:16, sound off. The video prompt (Pet)
+
+*Kind: video_prompt*
+
+```text
+Recreate the reference video [Video 1] shot for shot: two dancers side by side at night in a parking lot, ONE continuous handheld phone shot, the same camera, framing, timing and moves. The ONLY change: the pet in [Image 1] replaces the dancer on the LEFT who says the intro. DANCER 2, the bearded man on the RIGHT who throws the peace sign, keeps his own face, clothes and moves from [Video 1].
+
+DANCER 1, on the LEFT = the pet in [Image 1], whole body, in EVERY frame: the same species and breed, face, eyes, ears, fur colors, fur length and markings as in [Image 1], with the natural body volume and proportions of that animal: never flattened, squashed or stretched, so its owner instantly recognizes it. It stands upright on its hind legs and does that dancer's moves with its front legs, with no cap, hood or jacket unless [Image 1] shows them. Never drift back to the original dancer. If [Image 1] shows a person, that person takes the place with their own face and clothes.
+
+From [Video 1] take ONLY the place, the CAMERA and the PERFORMANCE: the handheld framing and its sway, every step, bounce, arm swing, hand gesture and mouth movement, each dancer on their own side, at exactly the same moments, on the beat.
+
+THE PLACE: the same night parking lot as in [Video 1]: black sky, tall white street lamps and a small lit blue sign far behind, distant parked cars, a few strangers far in the background who never come near, the dancers lit by the phone's bright light.
+
+THE SHOT: ONE continuous handheld shot, no cuts, the phone at chest height a couple of steps in front, bobbing exactly as in [Video 1].
+0-2.6 s, THE INTRO: DANCER 1 looks straight at the lens with attitude, opens and closes its mouth as if it talks, lifts a front paw to the chin, turns the head toward DANCER 2, then back; DANCER 2 stands cool and deadpan, mouth closed.
+2.0-2.8 s: DANCER 2 throws a peace sign high above the head, then grins.
+2.5-15 s, THE DANCE: the beat drops and both dance: arm swings across the body, bounces on bent knees, steps toward the lens and back, exactly the moves in [Video 1], on the beat, laughing at the lens and at each other until the last frame.
+
+MOUTHS: DANCER 1 talks only during 0-2.6 s, then only grins and laughs; DANCER 2 never talks. Faces follow [Video 1] moment by moment.
+
+The pet: one head, one tail, two hind legs on the ground and two front legs, no human hands. No dialogue and no background music: the sound is added later. No third person beside or in front of the dancers, no cuts, no text, captions, logos or watermarks, no extra limbs, no morphing.
+```
+
+### 4. 1. The video prompt is filled in. Settings: Seedance 2.5, 15 s, 720p, 9:16, sound off. The video prompt (Pet)
+
+*Kind: video_prompt*
+
+```text
+Recreate the reference video [Video 1] shot for shot: two dancers side by side at night in a parking lot, ONE continuous handheld phone shot, the same camera, framing, timing and moves. The ONLY change: the pet in [Image 1] replaces the dancer on the LEFT who says the intro, and the pet in [Image 2] replaces the dancer on the RIGHT who throws the peace sign.
+
+DANCER 1, on the LEFT = the pet in [Image 1], whole body, in EVERY frame: the same species and breed, face, eyes, ears, fur colors, fur length and markings as in [Image 1], with the natural body volume and proportions of that animal: never flattened, squashed or stretched, so its owner instantly recognizes it. It stands upright on its hind legs and does that dancer's moves with its front legs, with no cap, hood or jacket unless [Image 1] shows them.
+
+DANCER 2, on the RIGHT = the pet in [Image 2], whole body, in EVERY frame: the same species and breed, face, eyes, ears, fur colors, fur length and markings as in [Image 2], with the natural body volume and proportions of that animal: never flattened, squashed or stretched, so its owner instantly recognizes it. It stands upright on its hind legs and does that dancer's moves with its front legs, with no cap, hood or jacket unless [Image 2] shows them.
+
+Both change: no person from the video stays. Never mix the two pets. If a photo shows a person, that person takes that place with their own face and clothes.
+
+From [Video 1] take ONLY the place, the CAMERA and the PERFORMANCE: the handheld framing and its sway, every step, bounce, arm swing, hand gesture and mouth movement, each dancer on their own side, at exactly the same moments, on the beat.
+
+THE PLACE: the same night parking lot as in [Video 1]: black sky, tall white street lamps and a small lit blue sign far behind, distant parked cars, a few strangers far in the background who never come near, the dancers lit by the phone's bright light.
+
+THE SHOT: ONE continuous handheld shot, no cuts, the phone at chest height a couple of steps in front, bobbing exactly as in [Video 1].
+0-2.6 s, THE INTRO: DANCER 1 looks straight at the lens with attitude, opens and closes its mouth as if it talks, lifts a front paw to the chin, turns the head toward DANCER 2, then back; DANCER 2 stands cool and deadpan, mouth closed.
+2.0-2.8 s: DANCER 2 throws one front paw high above the head, then grins.
+2.5-15 s, THE DANCE: the beat drops and both dance: arm swings across the body, bounces on bent knees, steps toward the lens and back, exactly the moves in [Video 1], on the beat, laughing at the lens and at each other until the last frame.
+
+MOUTHS: DANCER 1 talks only during 0-2.6 s, then only grins and laughs; DANCER 2 never talks. Faces follow [Video 1] moment by moment.
+
+Each pet: one head, one tail, two hind legs on the ground and two front legs, no human hands. No dialogue and no background music: the sound is added later. No third person beside or in front of the dancers, no cuts, no text, captions, logos or watermarks, no extra limbs, no morphing.
+```
+

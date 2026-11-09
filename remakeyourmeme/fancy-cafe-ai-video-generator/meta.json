@@ -1,0 +1,39 @@
+{
+  "source": "remakeyourmeme",
+  "source_site": "https://remakeyourmeme.com",
+  "slug": "fancy-cafe-ai-video-generator",
+  "name": "Fancy Cafe AI Video Generator",
+  "url": "https://remakeyourmeme.com/templates/fancy-cafe-ai-video-generator/",
+  "blurb": "Real output from this maker, unedited, made November 8, 2026 with photos of AI-generated sample people. Switch to Original to see the trend clip at the same moment.",
+  "photos_in": null,
+  "duration_s": 11,
+  "ready_to_make": true,
+  "demo_videos": [
+    "https://cdn.remakeyourmeme.com/wm/remakeyourmeme/examples/fancy-cafe/sample-1/video.mp4"
+  ],
+  "preview_videos": [
+    "https://cdn.remakeyourmeme.com/templates/fancy-cafe/preview-854.mp4",
+    "https://cdn.remakeyourmeme.com/wm/remakeyourmeme/examples/fancy-cafe/sample-1/preview-854.mp4"
+  ],
+  "posters": [
+    "https://cdn.remakeyourmeme.com/examples/fancy-cafe/sample-1/input-1.jpg",
+    "https://cdn.remakeyourmeme.com/examples/fancy-cafe/sample-1/input-2.jpg",
+    "https://cdn.remakeyourmeme.com/examples/fancy-cafe/sample-1/poster.jpg",
+    "https://cdn.remakeyourmeme.com/templates/fancy-cafe/poster.jpg"
+  ],
+  "all_cdn_mp4": [
+    "https://cdn.remakeyourmeme.com/templates/chipmunks-dance/video.mp4",
+    "https://cdn.remakeyourmeme.com/templates/fancy-cafe/preview-854.mp4",
+    "https://cdn.remakeyourmeme.com/templates/i-love-the-smiths/video.mp4",
+    "https://cdn.remakeyourmeme.com/templates/vossi-bop/video.mp4",
+    "https://cdn.remakeyourmeme.com/wm/remakeyourmeme/examples/fancy-cafe/sample-1/preview-854.mp4",
+    "https://cdn.remakeyourmeme.com/wm/remakeyourmeme/examples/fancy-cafe/sample-1/video.mp4"
+  ],
+  "prompts": [],
+  "prompt_count": 0,
+  "prompts_public": false,
+  "note": "Remake Your Meme does not publish copyable prompt text on public template pages (one-tap remake). Inventory keeps demos, posters, and metadata only.",
+  "scraped_at": "2026-11-09",
+  "published": null,
+  "updated": null
+}

@@ -37,10 +37,10 @@ The AI version is new. From late October 2026, AI video apps started to sell a "
 
 ## What the Like JENNIE Dance video looks like
 
-This example was made before the template got the song, so it is 10 seconds long with a beat of its own. Your video is 14 seconds long and comes with the like JENNIE song.
+This example was made before the template got the song: it is 10 seconds long and plays the first 10 seconds of the like JENNIE song. Your video is 14 seconds long and comes with the whole 14 seconds of the song.
 
 - **Example 1** (10 s, 9:16 MP4 with sound): An AI-made man leads about thirty dancers in black in a white studio: the front line, a close-up, the group moves, then a circle seen from above.
-  - Video: https://www.makeviral.ai/media/templates/like-jennie-ai-trend/example.mp4
+  - Video: https://www.makeviral.ai/media/templates/like-jennie-ai-trend/example-v2.mp4
   - Poster: https://www.makeviral.ai/media/templates/like-jennie-ai-trend/example-poster.jpg
   - Input photo: https://www.makeviral.ai/media/templates/like-jennie-ai-trend/example-input.jpg
 
@@ -231,12 +231,12 @@ No creator of the trend shared one, and the app templates are closed. The prompt
 
 ## New AI video trends this week
 
-- [Christmas Dance AI: Do the New TikTok Christmas Dance From Your Photos](https://www.makeviral.ai/templates/christmas-dance-ai-trend): Hip sways with the hands at the collar, rolling arms, a quick spin and raised fists, side by side in matching Christmas pajamas. Add two photos for the duo, one for a solo take, or two pets, and get the dance with the sound.
-- [Cat on Ultra Bee AI: Put Your Pet on the Wheelie](https://www.makeviral.ai/templates/cat-on-ultra-bee-ai-trend): Add one photo, and your cat or dog stands on an electric dirt bike and holds a long wheelie down a city road at golden hour, in the same shots as the viral clip, with its original sound. You can take the ride yourself, too.
-- [Tus Ojos Me Reflejan el Sentimiento: The Cafuné Eye Close-Up Trend](https://www.makeviral.ai/templates/tus-ojos-me-reflejan-ai-trend): You lie on your side, a hand rests on your cheek, warm light falls on your face, and the camera slowly moves in until your eyes fill the screen while the line plays. One photo in, an 8-second vertical clip with the trend's song out.
-- [İnşallah Maşallah AI Trend: Sing Neşe Karaböcek's Song on the Couch](https://www.makeviral.ai/templates/insallah-masallah-ai-trend): You sit on a light grey couch and sing the old Turkish love song straight to the camera: a hand on the heart, a big laugh with both hands on your head, a finger pointed at the camera and a kiss at the end. One photo of you, a grandparent or your pet, and the 15-second clip comes with the song.
-- [Ice Ice Baby Dance AI: Do the Viral Duo Dance With a Friend](https://www.makeviral.ai/templates/ice-ice-baby-dance-ai): Two dancers side by side, the same bouncy 90s steps, a spin on the beat and a strut to the camera. Add a photo of you and a friend, of you alone, or of your pet, and get the dance with the sound.
-- [Save Yourself Trend: Pull Yourself Up From the Cliff](https://www.makeviral.ai/templates/save-yourself-ai-trend): One photo plays both of you: the scared you clinging to a wet sea cliff, and the calm you who reaches down, pulls you up and holds you. Or use two photos: an older photo of you and a new one, or you and a friend. 15 seconds, vertical.
+- [Chiikawa Dancing Nokia: Turn Yourself Into a Tiny Chibi That Dances to the Ringtone](https://www.makeviral.ai/templates/chiikawa-dancing-nokia-ai): Your photo becomes a tiny, round chibi creature with your hair, your colors and your outfit. An old phone rings on the floor, and instead of picking it up, the little you turns around and wiggles to the ringtone. One photo in, a 10-second vertical clip with a ringtone sound out.
+- [Bruno Fernandes Singing AI Trend: Sing the Window Serenade With a Friend](https://www.makeviral.ai/templates/bruno-window-serenade-ai-trend): A singer with a wired microphone, a guitarist behind, and someone who stares down from the upstairs window without a smile. Add your photos and get the 13-second serenade with the trend's song.
+- [Let's Break Up Trend AI: From Tired Selfie to Glow Up](https://www.makeviral.ai/templates/lets-break-up-ai-trend): Add one photo. AI makes the 10-second Let's break up glow up: a tired selfie of you with the caption, a sparkle change, then two glowed-up shots of you, with the trend's sound.
+- [Ukwu Template: Color, Then Slow-Motion Black and White From One Photo](https://www.makeviral.ai/templates/ukwu-ai-trend): You vibe to the beat in full color, then the beat drops and the clip cuts to a closer, slow-motion black-and-white shot of you. One photo in, a 10-second vertical video with the Ukwu sound out. Works with your pet too.
+- [Come and Get It Trend AI: The Rose Petal Edit From One Photo](https://www.makeviral.ai/templates/come-and-get-it-ai-trend): A dreamy close-up that flips from black and white to warm golden color on every beat while red rose petals fall in front of your face, on the na-na-na hook of Come & Get It. Add a selfie, a photo of you and a friend, or your pet.
+- [I Need a Girl Dance AI: Do the Viral TikTok Duo From Two Photos](https://www.makeviral.ai/templates/i-need-a-girl-dance-ai-trend): One of you says the hold-up intro to the camera, the other throws a peace sign, then the beat drops and you both dance in a night parking lot. Add a photo of you and a friend, of you alone, or of your pets, and get the clip with the sound.
 
 ## Make your own Like JENNIE Dance video
 

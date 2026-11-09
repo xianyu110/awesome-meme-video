@@ -1,0 +1,58 @@
+# Manhattan FPV Drone AI: The Skyline Dive That Lands on You
+
+- Source: [makeviral](https://www.makeviral.ai/templates/manhattan-fpv-drone-ai)
+- Slug: `manhattan-fpv-drone-ai`
+
+The Manhattan FPV drone trend is an AI drone video made from one photo: a first-person drone camera dives from the New York skyline between the skyscrapers, skims over the yellow taxis, follows the sidewalk and ends in a close-up of you sipping a coffee.
+
+## Demo videos (CDN)
+
+- https://www.makeviral.ai/media/templates/manhattan-fpv-drone-ai/original-template-v1.mp4
+
+## Posters
+
+- https://www.makeviral.ai/media/templates/manhattan-fpv-drone-ai/original-template-v1.jpg
+
+## Prompts
+
+### 1. 1. The video prompt is filled in. Settings: Seedance 2.5, 10 s, 720p, 9:16, sound on. The video prompt
+
+*Kind: video_prompt*
+
+```text
+The person at the end of the flight is the person in [Image 1]: copy the exact face from [Image 1] (the face shape, eye color and eye shape, eyebrows, nose, mouth, skin tone, age, hair color, hair length and hairstyle, and any beard, moustache, glasses or freckles), and the clothes from [Image 1]. The same real person from the moment they appear to the last frame, so their friends recognize them at once. Never morph, never a different person. Exactly one main person, one head, two hands with five fingers each.
+If [Image 1] shows an animal, the subject at the end is that animal sitting on the sidewalk, with its own face, fur and markings, not a person.
+
+Ultra-cinematic FPV drone flight through New York City on a clear sunny morning, hyper-realistic, one uninterrupted shot, no cuts, no teleportation, realistic inertia, dynamic acceleration and smooth deceleration. The camera starts high and dives fast in a first-person flight, threading through the city before pulling up to hover in front of the main subject. Motion blur streaks the edges while the subject stays sharp at the end of the move.
+
+The flight, second by second:
+0-2 s: a wide aerial view high above the Manhattan skyline, a tall Art Deco skyscraper with a slim silver spire in front, the rivers and the harbor far behind. The camera pitches down.
+2-5 s: it dives fast between the skyscrapers, glass and stone facades rushing past, then levels out low above a long avenue and skims over yellow taxis and traffic.
+5-7 s: it crosses the curb and follows a gray stone facade along the sidewalk, past a few small, distant pedestrians, slowing down.
+7-10 s: it glides up to the person from [Image 1], who stands on the sidewalk by the stone wall holding a paper coffee cup, takes a sip, lowers the cup and looks into the lens with a calm, confident face. The camera slows to a gentle hover in a close-up from the chest up, the face sharp, clear and well lit, a little of the stone facade and the pavement still in view.
+
+Audio: the rushing wind of a fast drone flight over the city, faint traffic and horns far below, then calm street sound at the end. No dialogue throughout the entire video. No background music.
+
+Stable horizon, natural colors, realistic reflections, high-detail architecture. Passers-by stay small, in the background and out of focus. No text, no captions, no logos, no readable signs or brand names, no watermark, no glitches, no flickering.
+```
+
+### 2. 1. The video prompt is filled in. Settings: Seedance 2.5, 10 s, 720p, 9:16, sound on. The video prompt (Pet)
+
+*Kind: video_prompt*
+
+```text
+The animal at the end of the flight is the pet in [Image 1]: the same species and breed, face, eyes, ears, muzzle, fur colors, fur length and markings as in [Image 1], with the natural body volume and proportions of that animal: never flattened, squashed, stretched or merged with anything, so its owner recognizes it at once. The same pet from the moment it appears to the last frame. Never a person, no human hands, no clothes unless [Image 1] shows them. Exactly one animal, one head, four legs, one tail.
+
+Ultra-cinematic FPV drone flight through New York City on a clear sunny morning, hyper-realistic, one uninterrupted shot, no cuts, no teleportation, realistic inertia, dynamic acceleration and smooth deceleration. The camera starts high and dives fast in a first-person flight, threading through the city before pulling up to hover in front of the main subject. Motion blur streaks the edges while the subject stays sharp at the end of the move.
+
+The flight, second by second:
+0-2 s: a wide aerial view high above the Manhattan skyline, a tall Art Deco skyscraper with a slim silver spire in front, the rivers and the harbor far behind. The camera pitches down.
+2-5 s: it dives fast between the skyscrapers, glass and stone facades rushing past, then levels out low above a long avenue and skims over yellow taxis and traffic.
+5-7 s: it crosses the curb and follows a gray stone facade along the sidewalk, past a few small, distant pedestrians, slowing down.
+7-10 s: it glides up to the pet from [Image 1], which sits on the sidewalk by the stone wall next to a paper coffee cup on the pavement, sniffs the cup, then looks up into the lens and tilts its head. The camera slows to a gentle hover in a close-up from the chest up, the face sharp, clear and well lit, a little of the stone facade and the pavement still in view.
+
+Audio: the rushing wind of a fast drone flight over the city, faint traffic and horns far below, then calm street sound at the end. No dialogue throughout the entire video. No background music.
+
+Stable horizon, natural colors, realistic reflections, high-detail architecture. No person near the pet. Passers-by stay small, in the background and out of focus. No text, no captions, no logos, no readable signs or brand names, no watermark, no glitches, no flickering.
+```
+

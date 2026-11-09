@@ -1,0 +1,65 @@
+# Ukwu Template: Color, Then Slow-Motion Black and White From One Photo
+
+- Source: [makeviral](https://www.makeviral.ai/templates/ukwu-ai-trend)
+- Slug: `ukwu-ai-trend`
+
+The Ukwu template is a CapCut template trend from October 2026: five seconds of you vibing to the beat in full color, then a hard cut on the beat drop to a closer shot in slow motion and black and white.
+
+## Demo videos (CDN)
+
+- https://www.makeviral.ai/media/templates/ukwu-ai-trend/original-main-v2.mp4
+
+## Posters
+
+- https://www.makeviral.ai/media/templates/ukwu-ai-trend/original-main-v1.jpg
+
+## Prompts
+
+### 1. 1. The video prompt is filled in. Settings: Seedance 2.5, 10 s, 720p, 9:16, sound off. The video prompt
+
+*Kind: video_prompt*
+
+```text
+Recreate the reference video [Video 1] shot for shot: the same hotel room with the white curtains, the white bed and the blue light strip along the ceiling, the same fixed phone camera, the same fade up from black, the same hard cut on the beat drop at 00:05 to a closer, slightly pushed-in slow-motion shot graded to black and white, the same framing, timing and moves. The ONLY change: the young man who dances with his arms up is now the person in [Image 1].
+
+Replace the person in [Video 1] with the person in [Image 1]: the same place in the frame, the same moves, the same expressions. Keep the face, hair, skin tone, build, outfit and accessories from [Image 1] recognisable both in the colour half and in the slow black-and-white half. Keep the cut on the beat drop, the push-in, the slow motion and the black-and-white grade where [Video 1] has them, keep the framing, the background, the light and the length of [Video 1] exactly as they are. The same person from the first frame to the last, no morphing, no extra people, no logo, no watermark. Sexually explicit (NSFW) content is strictly prohibited.
+
+The dancer = the person in [Image 1], in EVERY frame: copy the exact face from [Image 1] - face shape, eye color and eye shape, eyebrows, nose, mouth, skin tone, age, hair color, hair length and hairstyle, and any beard, moustache, glasses or freckles exactly as in the photo. The dancer wears the outfit from [Image 1]; if [Image 1] shows only the head or the upper body, invent the rest so it matches naturally. The same real person in every frame, so their friends instantly recognize them, also in the black-and-white close shot and in the open-mouthed grin. Never morph, never drift back to the original dancer's face, never add or remove facial hair. NO black jersey with red-striped sleeves and big white letters unless [Image 1] shows it.
+
+THE CLIP, second by second, exactly as in [Video 1]:
+00:00-00:01.5: the picture fades up from black. Full colour, the fixed phone camera, the whole body in view by the bed, both arms raised high, hands open, vibing to the beat.
+00:01.5-00:03: both arms up and waving to the beat, a big smile at the camera.
+00:03-00:04: turns a little sideways, one arm stretched out to the side, a cheeky look at the camera.
+00:04-00:05: faces the camera again, one arm high, the other out to the side.
+00:05: a hard cut exactly on the beat drop.
+00:05-00:10: a closer, slightly pushed-in shot from the knees up, in slow motion, graded to a soft, low-contrast black and white: both arms raised, one hand behind the head, a wide, relaxed grin at the camera, a slow sway. The slow black-and-white half runs to the end, with no colour coming back.
+
+ONLY THE MOTION OF [Video 1]: the dancer does exactly what the original dancer does and nothing else. No dialogue throughout the entire video. No background music.
+
+Anatomy rules: one head only, on the dancer's shoulders. Two arms and two hands, five fingers on each hand. Exactly one person in the room. No text, no captions, no logos, no watermark.
+```
+
+### 2. 1. The video prompt is filled in. Settings: Seedance 2.5, 10 s, 720p, 9:16, sound off. The video prompt (Pet)
+
+*Kind: video_prompt*
+
+```text
+Recreate the reference video [Video 1] shot for shot: the same hotel room with the white curtains, the white bed and the blue light strip along the ceiling, the same fixed phone camera, the same fade up from black, the same hard cut on the beat drop at 00:05 to a closer, slightly pushed-in slow-motion shot graded to black and white, the same framing, timing and moves. The ONLY change: the young man who dances with his arms up is now the pet in [Image 1], standing upright on its hind legs.
+
+Replace the person in [Video 1] with the pet in [Image 1]: the same place in the frame, the same moves, the same expressions. Keep the face, fur, markings and build from [Image 1] recognisable both in the colour half and in the slow black-and-white half. Keep the cut on the beat drop, the push-in, the slow motion and the black-and-white grade where [Video 1] has them, keep the framing, the background, the light and the length of [Video 1] exactly as they are. The same pet from the first frame to the last, no morphing, no extra people or animals, no logo, no watermark.
+
+The dancer = the pet in [Image 1], whole body, in EVERY frame: the same species and breed, head shape, face, eyes, ears, muzzle, fur colors, fur length and markings as in [Image 1], with the natural body volume and proportions of that animal: never flattened, squashed, stretched or merged with anything, so its owner instantly recognizes it, also in the black-and-white close shot. It stands upright on its hind legs like a person the whole time and raises its front legs where the man raises his arms. The man from [Video 1] never appears, and the pet wears no jersey and no clothes unless [Image 1] shows them. Whether [Image 1] shows a dog, a cat or another animal, it stays that animal and dances in the same place with the same moves.
+
+THE CLIP, second by second, exactly as in [Video 1]:
+00:00-00:01.5: the picture fades up from black. Full colour, the fixed phone camera, the whole body in view by the bed, both front legs raised high, paws open, vibing to the beat.
+00:01.5-00:03: both front legs up and waving to the beat, a happy look at the camera.
+00:03-00:04: turns a little sideways, one front leg stretched out to the side, a cheeky look at the camera.
+00:04-00:05: faces the camera again, one front leg high, the other out to the side.
+00:05: a hard cut exactly on the beat drop.
+00:05-00:10: a closer, slightly pushed-in shot, in slow motion, graded to a soft, low-contrast black and white: both front legs raised, one paw behind the head, a happy open-mouthed look at the camera, a slow sway. The slow black-and-white half runs to the end, with no colour coming back.
+
+ONLY THE MOTION OF [Video 1]: the pet does exactly what the original dancer does and nothing else. No dialogue throughout the entire video. No background music.
+
+Anatomy rules: one head only, one tail if the animal has one. Two hind legs on the floor and two front legs: animal paws, never human hands, no extra legs. No people, no extra animals. No text, no captions, no logos, no watermark.
+```
+

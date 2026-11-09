@@ -1,0 +1,108 @@
+# Bruno Fernandes Singing AI Trend: Sing the Window Serenade With a Friend
+
+- Source: [makeviral](https://www.makeviral.ai/templates/bruno-window-serenade-ai-trend)
+- Slug: `bruno-window-serenade-ai-trend`
+
+The Bruno Fernandes singing trend is a viral AI clip from November 2026: two Manchester United players serenade their manager at an upstairs window with "Can't Take My Eyes Off You", and he just stares.
+
+## Demo videos (CDN)
+
+- https://www.makeviral.ai/media/templates/bruno-window-serenade-ai-trend/original-main-v2.mp4
+
+## Posters
+
+- https://www.makeviral.ai/media/templates/bruno-window-serenade-ai-trend/original-main-v1.jpg
+
+## Prompts
+
+### 1. 1. The video prompt is filled in. Settings: Seedance 2.5, 13 s, 720p, 9:16, sound off. The video prompt
+
+*Kind: video_prompt*
+
+```text
+A funny driveway serenade, three shots: a sunny Southern California suburb at midday: a beige stucco two-story house with a tile roof edge, an open upstairs window above a grey garage door, a driveway, green lawn, tall palm trees, parked cars, blue sky. Handheld phone video, natural daylight, photorealistic, not CGI. Vertical 9:16.
+
+THE SINGER (in front, microphone) is the person in [Image 1], in every frame: copy the exact face from [Image 1] (the face shape, eye color and eye shape, eyebrows, nose, mouth, skin tone, age, hair color, hair length and hairstyle, and any beard, moustache, glasses or freckles), with the hair from [Image 1].
+THE GUITARIST (behind, guitar) is the person in [Image 2], in every frame: copy the exact face from [Image 2] (the face shape, eye color and eye shape, eyebrows, nose, mouth, skin tone, age, hair color, hair length and hairstyle, and any beard, moustache, glasses or freckles), with the hair from [Image 2].
+THE ONE AT THE WINDOW is an older man with messy grey hair in a white bathrobe, a stranger who looks like no one in the photos. He never sings or smiles.
+The roles come ONLY from the photo order, never from gender: never swap them. If an image shows an animal, that performer is that animal standing upright, with its own face and fur. Never blend faces. Each face stays the same from first frame to last, so friends recognize them at once. Everyone wears the clothes from their own photo: no red football shirts, no sports jerseys, no team crest or sponsor name unless that photo shows them.
+
+SHOTS, 13 s:
+[0-1 s] Low angle up at the open upstairs window: THE ONE AT THE WINDOW stands in it, one hand on the frame, looking down, deadpan.
+[1-2.2 s] The handheld camera tilts down past a palm tree to the driveway.
+[2.2-11 s] One handheld medium shot, waist up, faces large and sharp: THE SINGER in front on the left, three-quarter profile, a black wired microphone; THE GUITARIST just behind on the right, strumming an acoustic guitar. 2.2-4.2 s: the intro, the singer sways and looks up at the window. From 4.2 s the singer belts a big romantic chorus straight up at the window, chest out, eyebrows up, the free hand pointing up at the window, then on the heart; the guitarist strums hard on the beat and grins.
+[11-13 s] The camera pans back up to a wide shot of the house: THE ONE AT THE WINDOW still in the window, arms crossed, perfectly still, deadpan.
+
+Sound: none; a 1960s love song is added afterwards. The singer's lips stay closed before 4.2 s, then sing in clear, wide phrases to 11 s, mouth wide open on long notes. The one at the window never moves their lips. No spoken dialogue.
+
+Only these three people. Stable faces, no distortion. No text, captions, logos, watermark, split screen, extra people or extra limbs, no morphing.
+```
+
+### 2. 1. The video prompt is filled in. Settings: Seedance 2.5, 13 s, 720p, 9:16, sound off. The video prompt
+
+*Kind: video_prompt*
+
+```text
+A funny driveway serenade, three shots: a sunny Southern California suburb at midday: a beige stucco two-story house with a tile roof edge, an open upstairs window above a grey garage door, a driveway, green lawn, tall palm trees, parked cars, blue sky. Handheld phone video, natural daylight, photorealistic, not CGI. Vertical 9:16.
+
+THE SINGER (in front, microphone) is the person in [Image 1], in every frame: copy the exact face from [Image 1] (the face shape, eye color and eye shape, eyebrows, nose, mouth, skin tone, age, hair color, hair length and hairstyle, and any beard, moustache, glasses or freckles), with the hair from [Image 1].
+THE GUITARIST (behind, guitar) is the person in [Image 2], in every frame: copy the exact face from [Image 2] (the face shape, eye color and eye shape, eyebrows, nose, mouth, skin tone, age, hair color, hair length and hairstyle, and any beard, moustache, glasses or freckles), with the hair from [Image 2].
+THE ONE AT THE WINDOW (upstairs, sung to) is the person in [Image 3], in every frame: copy the exact face from [Image 3] (the face shape, eye color and eye shape, eyebrows, nose, mouth, skin tone, age, hair color, hair length and hairstyle, and any beard, moustache, glasses or freckles), with the hair and clothes from [Image 3]. Never sings or smiles.
+The roles come ONLY from the photo order, never from gender: never swap them. If an image shows an animal, that one is that animal with its own face and fur (at the window: it sits on the sill and stares down). Never blend faces. Each face stays the same from first frame to last, so friends recognize them at once. Everyone wears the clothes from their own photo: no red football shirts, no sports jerseys, no team crest or sponsor name unless that photo shows them.
+
+SHOTS, 13 s:
+[0-1 s] Low angle up at the open upstairs window: THE ONE AT THE WINDOW stands in it, one hand on the frame, looking down, deadpan.
+[1-2.2 s] The handheld camera tilts down past a palm tree to the driveway.
+[2.2-11 s] One handheld medium shot, waist up, faces large and sharp: THE SINGER in front on the left, three-quarter profile, a black wired microphone; THE GUITARIST just behind on the right, strumming an acoustic guitar. 2.2-4.2 s: the intro, the singer sways and looks up at the window. From 4.2 s the singer belts a big romantic chorus straight up at the window, chest out, eyebrows up, the free hand pointing up at the window, then on the heart; the guitarist strums hard on the beat and grins.
+[11-13 s] The camera pans back up to a wide shot of the house: THE ONE AT THE WINDOW still in the window, arms crossed, perfectly still, deadpan.
+
+Sound: none; a 1960s love song is added afterwards. The singer's lips stay closed before 4.2 s, then sing in clear, wide phrases to 11 s, mouth wide open on long notes. The one at the window never moves their lips. No spoken dialogue.
+
+Only these three. Stable faces, no distortion. No text, captions, logos, watermark, split screen, extra people or extra limbs, no morphing.
+```
+
+### 3. 1. The video prompt is filled in. Settings: Seedance 2.5, 13 s, 720p, 9:16, sound off. The video prompt
+
+*Kind: video_prompt*
+
+```text
+A funny driveway serenade, three shots: a sunny Southern California suburb at midday: a beige stucco two-story house with a tile roof edge, an open upstairs window above a grey garage door, a driveway, green lawn, tall palm trees, parked cars, blue sky. Handheld phone video, natural daylight, photorealistic, not CGI. Vertical 9:16.
+
+THE SINGER (in front, microphone) is the person in [Image 1], in every frame: copy the exact face from [Image 1] (the face shape, eye color and eye shape, eyebrows, nose, mouth, skin tone, age, hair color, hair length and hairstyle, and any beard, moustache, glasses or freckles), with the hair from [Image 1]. If [Image 1] shows an animal, the singer is that animal standing upright, with its own face and fur. The face stays the same from first frame to last.
+THE GUITARIST, behind on the right, is a tall man with a short brown beard in a grey T-shirt, a stranger.
+THE ONE AT THE WINDOW is an older man with messy grey hair in a white bathrobe, a stranger who looks like no one in the photos. He never sings or smiles.
+Everyone wears the clothes from their own photo: no red football shirts, no sports jerseys, no team crest or sponsor name unless that photo shows them.
+
+SHOTS, 13 s:
+[0-1 s] Low angle up at the open upstairs window: THE ONE AT THE WINDOW stands in it, one hand on the frame, looking down, deadpan.
+[1-2.2 s] The handheld camera tilts down past a palm tree to the driveway.
+[2.2-11 s] One handheld medium shot, waist up, faces large and sharp: THE SINGER in front on the left, three-quarter profile, a black wired microphone; THE GUITARIST just behind on the right, strumming an acoustic guitar. 2.2-4.2 s: the intro, the singer sways and looks up at the window. From 4.2 s the singer belts a big romantic chorus straight up at the window, chest out, eyebrows up, the free hand pointing up at the window, then on the heart; the guitarist strums hard on the beat and grins.
+[11-13 s] The camera pans back up to a wide shot of the house: THE ONE AT THE WINDOW still in the window, arms crossed, perfectly still, deadpan.
+
+Sound: none; a 1960s love song is added afterwards. The singer's lips stay closed before 4.2 s, then sing in clear, wide phrases to 11 s, mouth wide open on long notes. The one at the window never moves their lips. No spoken dialogue.
+
+Only these three people. Stable faces, no distortion. No text, captions, logos, watermark, split screen, extra people or extra limbs, no morphing.
+```
+
+### 4. 1. The video prompt is filled in. Settings: Seedance 2.5, 13 s, 720p, 9:16, sound off. The video prompt (Pet)
+
+*Kind: video_prompt*
+
+```text
+A funny driveway serenade, three shots: a sunny Southern California suburb at midday: a beige stucco two-story house with a tile roof edge, an open upstairs window above a grey garage door, a driveway, green lawn, tall palm trees, parked cars, blue sky. Handheld phone video, natural daylight, photorealistic, not CGI. Vertical 9:16.
+
+THE SINGER is the pet in [Image 1], in every frame: the same species and breed, face, eyes, ears, muzzle, fur colors, fur length and markings as in [Image 1], with the natural body volume and proportions of that animal: never flattened, squashed, stretched or merged with anything. Its owner recognizes it at once. It stands upright on its hind legs in front on the left, front paws on a short microphone stand, and sings with full emotion: its own animal face, only the mouth moves like a singer. No clothes, no human hands.
+THE GUITARIST, behind on the right, is a tall man with a short brown beard in a grey T-shirt.
+THE ONE AT THE WINDOW is an older man with messy grey hair in a white bathrobe, a stranger who looks like no one in the photos. He never sings or smiles.
+
+SHOTS, 13 s:
+[0-1 s] Low angle up at the open upstairs window: THE ONE AT THE WINDOW stands in it, one hand on the frame, looking down, deadpan.
+[1-2.2 s] The handheld camera tilts down past a palm tree to the driveway.
+[2.2-11 s] One handheld medium shot, waist up, faces large and sharp: THE PET SINGER in front on the left, three-quarter profile, at the microphone stand; THE GUITARIST just behind on the right, strumming an acoustic guitar. 2.2-4.2 s: the intro, the singer sways and looks up at the window. From 4.2 s the singer belts a big romantic chorus straight up at the window, chest out, eyebrows up, one front paw lifted toward the window; the guitarist strums hard on the beat and grins.
+[11-13 s] The camera pans back up to a wide shot of the house: THE ONE AT THE WINDOW still in the window, arms crossed, perfectly still, deadpan.
+
+Sound: none; a 1960s love song is added afterwards. The pet's mouth stays closed before 4.2 s, then sings in clear, wide phrases to 11 s, mouth wide open on long notes. The one at the window never moves their lips. No spoken dialogue.
+
+Only the pet, the guitarist and the man at the window. One head, four legs and one tail on the pet. No red football shirts, no team crest. Stable faces, no distortion. No text, captions, logos, watermark, split screen, extra people or extra limbs, no morphing.
+```
+

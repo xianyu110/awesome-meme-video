@@ -6,12 +6,12 @@
 
 ## Stats
 
-- **Total**: 571 templates
-- **MakeViral**: 423 templates · 1218 prompt blocks · 612 demo videos
-- **Remake Your Meme**: 31 templates · public prompts: **none** (one-tap remake only) · demos/posters archived
+- **Total**: 583 templates
+- **MakeViral**: 433 templates · 1249 prompt blocks · 623 demo videos
+- **Remake Your Meme**: 33 templates · public prompts: **none** (one-tap remake only) · demos/posters archived
 - **Media.io**: 18 templates · 12 prompt blocks · 12 demo videos
 - **Kavel**: 99 templates · 321 prompt blocks · 377 demo videos
-- Scraped: 2026-11-08 (Asia/Shanghai)
+- Scraped: 2026-11-09 (Asia/Shanghai)
 - Sort: **newest first** by `published || updated (newest first); undated=unknown; never scraped_at`
 - Gallery: https://xianyu110.github.io/awesome-meme-video/
 
@@ -48,14 +48,24 @@ Demo MP4s are stored via Git LFS when present. Each template folder also lists o
 | --- | --- | --- | ---: | --- | --- |
 | [Vossi Bop Dance AI: Rap on an Empty London Bridge at Dawn](makeviral/vossi-bop-ai-trend/PROMPTS.md) | `vossi-bop-ai-trend` | 2026-11-08 | 2 | ✅ | [link](https://www.makeviral.ai/templates/vossi-bop-ai-trend) |
 | [Valet Shoe Drop AI: Step Out of the Convertible Into the Hotel](makeviral/valet-shoe-drop-ai-trend/PROMPTS.md) | `valet-shoe-drop-ai-trend` | 2026-11-08 | 3 | ✅ | [link](https://www.makeviral.ai/templates/valet-shoe-drop-ai-trend) |
+| [Ukwu Template: Color, Then Slow-Motion Black and White From One Photo](makeviral/ukwu-ai-trend/PROMPTS.md) | `ukwu-ai-trend` | 2026-11-08 | 2 | ✅ | [link](https://www.makeviral.ai/templates/ukwu-ai-trend) |
 | [Tus Ojos Me Reflejan el Sentimiento: The Cafuné Eye Close-Up Trend](makeviral/tus-ojos-me-reflejan-ai-trend/PROMPTS.md) | `tus-ojos-me-reflejan-ai-trend` | 2026-11-08 | 3 | ✅ | [link](https://www.makeviral.ai/templates/tus-ojos-me-reflejan-ai-trend) |
+| [Spiderman Pointing Meme AI: You and Your Friend, Pointing](makeviral/spiderman-pointing-meme-ai/PROMPTS.md) | `spiderman-pointing-meme-ai` | 2026-11-08 | 4 | ✅ | [link](https://www.makeviral.ai/templates/spiderman-pointing-meme-ai) |
 | [Save Yourself Trend: Pull Yourself Up From the Cliff](makeviral/save-yourself-ai-trend/PROMPTS.md) | `save-yourself-ai-trend` | 2026-11-08 | 3 | ✅ | [link](https://www.makeviral.ai/templates/save-yourself-ai-trend) |
+| [Manhattan FPV Drone AI: The Skyline Dive That Lands on You](makeviral/manhattan-fpv-drone-ai/PROMPTS.md) | `manhattan-fpv-drone-ai` | 2026-11-08 | 2 | ✅ | [link](https://www.makeviral.ai/templates/manhattan-fpv-drone-ai) |
+| [Let's Break Up Trend AI: From Tired Selfie to Glow Up](makeviral/lets-break-up-ai-trend/PROMPTS.md) | `lets-break-up-ai-trend` | 2026-11-08 | 3 | ✅ | [link](https://www.makeviral.ai/templates/lets-break-up-ai-trend) |
 | [İnşallah Maşallah AI Trend: Sing Neşe Karaböcek's Song on the Couch](makeviral/insallah-masallah-ai-trend/PROMPTS.md) | `insallah-masallah-ai-trend` | 2026-11-08 | 2 | ✅ | [link](https://www.makeviral.ai/templates/insallah-masallah-ai-trend) |
 | [Ice Ice Baby Dance AI: Do the Viral Duo Dance With a Friend](makeviral/ice-ice-baby-dance-ai/PROMPTS.md) | `ice-ice-baby-dance-ai` | 2026-11-08 | 3 | ✅ | [link](https://www.makeviral.ai/templates/ice-ice-baby-dance-ai) |
+| [I Need a Girl Dance AI: Do the Viral TikTok Duo From Two Photos](makeviral/i-need-a-girl-dance-ai-trend/PROMPTS.md) | `i-need-a-girl-dance-ai-trend` | 2026-11-08 | 4 | ✅ | [link](https://www.makeviral.ai/templates/i-need-a-girl-dance-ai-trend) |
 | [Grandpa Said He'd Handle Dinner: Chop the Giant Fish Yourself](makeviral/grandpa-handle-dinner-ai-trend/PROMPTS.md) | `grandpa-handle-dinner-ai-trend` | 2026-11-08 | 2 | ✅ | [link](https://www.makeviral.ai/templates/grandpa-handle-dinner-ai-trend) |
+| [Dog Drummer AI: Your Dog Playing Drums in the Water Drum Trend](makeviral/dog-drummer-ai/PROMPTS.md) | `dog-drummer-ai` | 2026-11-08 | 2 | ✅ | [link](https://www.makeviral.ai/templates/dog-drummer-ai) |
+| [DJ Cat AI: Put Your Cat, Dog or Yourself Behind the Decks](makeviral/dj-cat-ai/PROMPTS.md) | `dj-cat-ai` | 2026-11-08 | 2 | ✅ | [link](https://www.makeviral.ai/templates/dj-cat-ai) |
+| [Come and Get It Trend AI: The Rose Petal Edit From One Photo](makeviral/come-and-get-it-ai-trend/PROMPTS.md) | `come-and-get-it-ai-trend` | 2026-11-08 | 4 | ✅ | [link](https://www.makeviral.ai/templates/come-and-get-it-ai-trend) |
 | [Christmas Dance AI: Do the New TikTok Christmas Dance From Your Photos](makeviral/christmas-dance-ai-trend/PROMPTS.md) | `christmas-dance-ai-trend` | 2026-11-08 | 3 | ✅ | [link](https://www.makeviral.ai/templates/christmas-dance-ai-trend) |
+| [Chiikawa Dancing Nokia: Turn Yourself Into a Tiny Chibi That Dances to the Ringtone](makeviral/chiikawa-dancing-nokia-ai/PROMPTS.md) | `chiikawa-dancing-nokia-ai` | 2026-11-08 | 4 | ✅ | [link](https://www.makeviral.ai/templates/chiikawa-dancing-nokia-ai) |
 | [Cat on Ultra Bee AI: Put Your Pet on the Wheelie](makeviral/cat-on-ultra-bee-ai-trend/PROMPTS.md) | `cat-on-ultra-bee-ai-trend` | 2026-11-08 | 2 | ✅ | [link](https://www.makeviral.ai/templates/cat-on-ultra-bee-ai-trend) |
 | [Careless Whisper Car Meme: Star in the Deadpan Car Ride with Your Friends](makeviral/careless-whisper-car-meme/PROMPTS.md) | `careless-whisper-car-meme` | 2026-11-08 | 3 | ✅ | [link](https://www.makeviral.ai/templates/careless-whisper-car-meme) |
+| [Bruno Fernandes Singing AI Trend: Sing the Window Serenade With a Friend](makeviral/bruno-window-serenade-ai-trend/PROMPTS.md) | `bruno-window-serenade-ai-trend` | 2026-11-08 | 4 | ✅ | [link](https://www.makeviral.ai/templates/bruno-window-serenade-ai-trend) |
 | [Suave Cat Dance: Put Your Own Cats in the Three Kittens Meme](makeviral/suave-cat-dance-ai/PROMPTS.md) | `suave-cat-dance-ai` | 2026-11-07 | 5 | ✅ | [link](https://www.makeviral.ai/templates/suave-cat-dance-ai) |
 | [Single Camel AI Video: Be the Lonely Camel](makeviral/single-camel-ai-trend/PROMPTS.md) | `single-camel-ai-trend` | 2026-11-07 | 3 | ✅ | [link](https://www.makeviral.ai/templates/single-camel-ai-trend) |
 | [Santa Sleigh AI: Point at the Sky, the Reindeer Sleigh Lands](makeviral/santa-sleigh-ai-trend/PROMPTS.md) | `santa-sleigh-ai-trend` | 2026-11-07 | 2 | ✅ | [link](https://www.makeviral.ai/templates/santa-sleigh-ai-trend) |
@@ -479,14 +489,16 @@ Demo MP4s are stored via Git LFS when present. Each template folder also lists o
 | [Tip Toeing In My Jordans AI Meme Generator](remakeyourmeme/tip-toeing-in-my-jordans-ai/PROMPTS.md) | `tip-toeing-in-my-jordans-ai` | unknown | no (one-tap) | — | [link](https://remakeyourmeme.com/templates/tip-toeing-in-my-jordans-ai/) |
 | [Outstanding Tiny Desk AI Video Generator](remakeyourmeme/tiny-desk-ai-video-generator/PROMPTS.md) | `tiny-desk-ai-video-generator` | unknown | no (one-tap) | ✅ | [link](https://remakeyourmeme.com/templates/tiny-desk-ai-video-generator/) |
 | [Smalltown Boy cat dance](remakeyourmeme/smalltown-boy-cat-dance/PROMPTS.md) | `smalltown-boy-cat-dance` | unknown | no (one-tap) | ✅ | [link](https://remakeyourmeme.com/templates/smalltown-boy-cat-dance/) |
-| [Rumpelstiltskin AI Video Generator](remakeyourmeme/rumpelstiltskin-ai-video/PROMPTS.md) | `rumpelstiltskin-ai-video` | unknown | no (one-tap) | ✅ | [link](https://remakeyourmeme.com/templates/rumpelstiltskin-ai-video/) |
+| [Rumpelstiltskin AI Video Generator](remakeyourmeme/rumpelstiltskin-ai-video/PROMPTS.md) | `rumpelstiltskin-ai-video` | unknown | no (one-tap) | — | [link](https://remakeyourmeme.com/templates/rumpelstiltskin-ai-video/) |
 | [Raindance AI trend](remakeyourmeme/raindance-ai-trend/PROMPTS.md) | `raindance-ai-trend` | unknown | no (one-tap) | ✅ | [link](https://remakeyourmeme.com/templates/raindance-ai-trend/) |
 | [No Scrubs AI Video Generator](remakeyourmeme/no-scrubs-ai-video-generator/PROMPTS.md) | `no-scrubs-ai-video-generator` | unknown | no (one-tap) | ✅ | [link](https://remakeyourmeme.com/templates/no-scrubs-ai-video-generator/) |
 | [Middle Finger Dunk AI Video Generator](remakeyourmeme/middle-finger-dunk-ai-video-generator/PROMPTS.md) | `middle-finger-dunk-ai-video-generator` | unknown | no (one-tap) | ✅ | [link](https://remakeyourmeme.com/templates/middle-finger-dunk-ai-video-generator/) |
+| [I Love The Smiths AI Video Generator](remakeyourmeme/i-love-the-smiths-ai-video-generator/PROMPTS.md) | `i-love-the-smiths-ai-video-generator` | unknown | no (one-tap) | ✅ | [link](https://remakeyourmeme.com/templates/i-love-the-smiths-ai-video-generator/) |
 | [Hug in Heaven AI Video Generator](remakeyourmeme/hug-in-heaven/PROMPTS.md) | `hug-in-heaven` | unknown | no (one-tap) | ✅ | [link](https://remakeyourmeme.com/templates/hug-in-heaven/) |
 | [Hop Hop Hop AI Video Generator](remakeyourmeme/hop-hop-hop-ai/PROMPTS.md) | `hop-hop-hop-ai` | unknown | no (one-tap) | ✅ | [link](https://remakeyourmeme.com/templates/hop-hop-hop-ai/) |
 | [Ghostface AI trend](remakeyourmeme/ghostface-ai-trend/PROMPTS.md) | `ghostface-ai-trend` | unknown | no (one-tap) | ✅ | [link](https://remakeyourmeme.com/templates/ghostface-ai-trend/) |
 | [Gangnam Style AI Video Generator](remakeyourmeme/gangnam-style-ai-video-generator/PROMPTS.md) | `gangnam-style-ai-video-generator` | unknown | no (one-tap) | ✅ | [link](https://remakeyourmeme.com/templates/gangnam-style-ai-video-generator/) |
+| [Fancy Cafe AI Video Generator](remakeyourmeme/fancy-cafe-ai-video-generator/PROMPTS.md) | `fancy-cafe-ai-video-generator` | unknown | no (one-tap) | ✅ | [link](https://remakeyourmeme.com/templates/fancy-cafe-ai-video-generator/) |
 | [Dime Dime Baby AI Video Generator](remakeyourmeme/dime-dime-baby-ai-video-generator/PROMPTS.md) | `dime-dime-baby-ai-video-generator` | unknown | no (one-tap) | ✅ | [link](https://remakeyourmeme.com/templates/dime-dime-baby-ai-video-generator/) |
 | [Crochet filter AI](remakeyourmeme/crochet-filter-ai/PROMPTS.md) | `crochet-filter-ai` | unknown | no (one-tap) | — | [link](https://remakeyourmeme.com/templates/crochet-filter-ai/) |
 | [Crazy Frog AI Video Generator](remakeyourmeme/crazy-frog-ai-trend/PROMPTS.md) | `crazy-frog-ai-trend` | unknown | no (one-tap) | ✅ | [link](https://remakeyourmeme.com/templates/crazy-frog-ai-trend/) |
@@ -500,7 +512,7 @@ Demo MP4s are stored via Git LFS when present. Each template folder also lists o
 | [Avatar Seven Havens AI](remakeyourmeme/avatar-seven-havens-ai/PROMPTS.md) | `avatar-seven-havens-ai` | unknown | no (one-tap) | — | [link](https://remakeyourmeme.com/templates/avatar-seven-havens-ai/) |
 | [Alors On Danse AI Video Generator](remakeyourmeme/alors-on-danse-ai-trend/PROMPTS.md) | `alors-on-danse-ai-trend` | unknown | no (one-tap) | ✅ | [link](https://remakeyourmeme.com/templates/alors-on-danse-ai-trend/) |
 | [AI pumpkin head photoshoot](remakeyourmeme/ai-pumpkin-head-photoshoot/PROMPTS.md) | `ai-pumpkin-head-photoshoot` | unknown | no (one-tap) | ✅ | [link](https://remakeyourmeme.com/templates/ai-pumpkin-head-photoshoot/) |
-| [Hotel Lobby AI Video Generator](remakeyourmeme/ai-hotel-lobby-trend/PROMPTS.md) | `ai-hotel-lobby-trend` | unknown | no (one-tap) | ✅ | [link](https://remakeyourmeme.com/templates/ai-hotel-lobby-trend/) |
+| [Hotel Lobby AI Video Generator](remakeyourmeme/ai-hotel-lobby-trend/PROMPTS.md) | `ai-hotel-lobby-trend` | unknown | no (one-tap) | — | [link](https://remakeyourmeme.com/templates/ai-hotel-lobby-trend/) |
 | [AI Halloween costume](remakeyourmeme/ai-halloween-costume/PROMPTS.md) | `ai-halloween-costume` | unknown | no (one-tap) | ✅ | [link](https://remakeyourmeme.com/templates/ai-halloween-costume/) |
 | [AI ghost photoshoot](remakeyourmeme/ai-ghost-photoshoot/PROMPTS.md) | `ai-ghost-photoshoot` | unknown | no (one-tap) | ✅ | [link](https://remakeyourmeme.com/templates/ai-ghost-photoshoot/) |
 | [AI 90s school photo](remakeyourmeme/ai-90s-school-photo/PROMPTS.md) | `ai-90s-school-photo` | unknown | no (one-tap) | ✅ | [link](https://remakeyourmeme.com/templates/ai-90s-school-photo/) |
