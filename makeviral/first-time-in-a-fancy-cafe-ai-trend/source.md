@@ -3,7 +3,7 @@
 > First time in a fancy cafe is the viral POV: Your first time in a fancy cafe clip from November 2026: in a bare concrete cafe, a man sits on top of a tiny wall table until a woman walks in, sits on the bench and uses it as a table.
 
 Canonical: https://www.makeviral.ai/templates/first-time-in-a-fancy-cafe-ai-trend
-Updated: 2026-11-02
+Updated: 2026-11-09
 Published: 2026-11-02
 Author: MakeViral Team (https://www.makeviral.ai/about)
 Publisher: MakeViral (https://www.makeviral.ai)
@@ -12,11 +12,11 @@ Publisher: MakeViral (https://www.makeviral.ai)
 
 You perch on top of a tiny round table and sip your coffee like it is a chair, until someone walks in and sits the right way. Add one photo, or two for a couple, and you star in the viral fancy cafe clip, with its song.
 
-Also called: POV: Your first time in a fancy cafe, The fancy cafe trend, First time in a fancy coffee shop, Kevkevkiwi fancy cafe.
+Also called: POV: Your first time in a fancy cafe, The fancy cafe trend, First time in a fancy coffee shop, Kevkevkiwi fancy cafe, POV: Your second time at a fancy cafe, The reverse fancy cafe trend.
 
 **Make it now:** [Make this video](https://www.makeviral.ai/templates/first-time-in-a-fancy-cafe-ai-trend/create). 1 photo · 15 s · 9:16 with sound · 228 credits, charged once · ready in up to several minutes · no prompt to write.
 
-Keyword: first time in a fancy cafe. Also answers: your first time in a fancy cafe, fancy cafe trend, first time in a fancy cafe ai, first time at a fancy cafe, fancy cafe meme, fancy cafe ai trend, your first time in a fancy cafe template, your first time in a fancy cafe oh yeah, fancy cafe capcut template, fancy cafe tiktok, fancy cafe ai video, fancy cafe trend tutorial, your first time at a fancy cafe, fancy cafe pov.
+Keyword: first time in a fancy cafe. Also answers: your first time in a fancy cafe, fancy cafe trend, first time in a fancy cafe ai, first time at a fancy cafe, fancy cafe meme, fancy cafe ai trend, your first time in a fancy cafe template, your first time in a fancy cafe oh yeah, fancy cafe capcut template, fancy cafe tiktok, fancy cafe ai video, fancy cafe trend tutorial, your first time at a fancy cafe, fancy cafe pov, your second time at a fancy cafe, reverse fancy cafe trend, second time at a fancy cafe, your second time in a fancy cafe, reverse fancy cafe.
 
 ## What is the First Time Fancy Cafe trend, and where did it start?
 
@@ -39,6 +39,9 @@ This is a creator's own post of the trend, with real people, not a MakeViral res
 - **Example 1** (15 s, 9:16 MP4 with sound): The version by @leehoustonx that passed 4 million views in a day: he perches on the tiny table with his coffee until she sits down on the bench and uses it the right way. Human puts you in his place.
   - Video: https://www.makeviral.ai/media/templates/first-time-in-a-fancy-cafe-ai-trend/original-lee-v2.mp4
   - Poster: https://www.makeviral.ai/media/templates/first-time-in-a-fancy-cafe-ai-trend/original-lee-v1.jpg
+- **Example 2** (14 s, 9:16 MP4 with sound): The reverse, by @rupert.pike: this time he sits the right way, she climbs on top of the table, and he copies her. Reverse puts you in his place.
+  - Video: https://www.makeviral.ai/media/templates/first-time-in-a-fancy-cafe-ai-trend/original-rupert-v2.mp4
+  - Poster: https://www.makeviral.ai/media/templates/first-time-in-a-fancy-cafe-ai-trend/original-rupert-v1.jpg
 
 ## How to make the First Time Fancy Cafe video on MakeViral
 
@@ -146,6 +149,74 @@ Anatomy rules: one head only on the pet, one muzzle, four legs, animal paws, nev
 
 One-tap version of this variant: https://www.makeviral.ai/templates/first-time-in-a-fancy-cafe-ai-trend/create?variant=pet
 
+#### Variant: Reverse
+
+Settings: 1 photo (your photo, face clear) · Seedance 2.5 · 15 s · 720p · 9:16 · no sound · 228 credits in one tap.
+
+1. The video prompt is filled in. Settings: Seedance 2.5, 15 s, 720p, 9:16, sound off. The video prompt:
+
+   ```text
+   Recreate the reference video [Video 1] shot for shot: the same bare grey concrete cafe, the same low concrete ledge along the wall with the small round steel tables on curved steel posts, the same soft daylight, the same fixed camera, framing, timing and moves, and the same white caption "POV: your second time at a fancy cafe" at the top for the first 4 seconds, exactly as in the video. The ONLY change: the man in the cream suit who sits the right way on the ledge on the left is now the person in [Image 1].
+
+[Image 1] defines CHARACTER_1. Use its complete identity, face, true body proportions, hair, clothing and accessories, consistent throughout.
+
+REPLACE ONE SOURCE PERSON ONLY. TARGET_A: the man visible from the start, seated on the ledge on the left in a cream suit and sunglasses, holding a takeaway coffee. [Image 1] replaces the man: CHARACTER_1 throughout, with the exact face from [Image 1] - face shape, eye color and eye shape, eyebrows, nose, mouth, skin tone, age, hair color, hair length and hairstyle, and any beard, moustache, glasses or freckles exactly as in the photo. NO sunglasses, NO cream suit and NO short dark hair unless [Image 1] shows them. If [Image 1] shows an animal, that animal takes his place with its own face, fur and body. TARGET_B: the woman in the long dark coat with a black handbag stays exactly as in the video, her back to the camera. No swapping, merging, or duplication.
+
+FULL APPEARANCE REPLACEMENT: Erase the original man's face, hair, skin, physique and clothing. Never retain or blend his features, also during turns, occlusion and distant views. The same real person in every frame, so their friends instantly recognize them. Never morph, never drift back to the original man's face.
+
+EXACT ACTION AND INTERACTION LOCK: Preserve all original timing, poses, gaze, and motion paths, one continuous shot:
+0-4.5 s: CHARACTER_1 sits the right way on the ledge beside the small round table, coffee in hand. The woman walks in from the right, back to the camera, to the table on the right.
+4.5-5.5 s: she climbs up and sits on top of the table on the right, facing the wall.
+5.5-7.5 s: CHARACTER_1, cup on the table beside him, looks over at her, unsure.
+7.5-9.5 s: he stands up with his cup, turns to the wall and steps up onto the ledge.
+9.5-11 s: he climbs up and sits on top of his own table, facing the wall, just like her.
+11-15 s: both sit on top of the tables facing the wall; he sips his coffee as if this is how it is done.
+
+DUAL COFFEE LOCK: Each keeps their own takeaway cup with the original grips and paths. No floating, swapping or extra cups. Preserve the woman's handbag.
+
+BACKGROUND LOCK: Preserve the concrete wall, mounted small round tables, metal supports, floor, the caption, lighting, camera position and portrait framing unchanged. Preserve original duration and pacing. Real live-action footage, clear faces, natural light. No dialogue throughout the entire video. No background music.
+
+No new people, no cuts, no flicker. One head per person; a face never appears on hands, legs or clothes. Five fingers on each hand. Exactly two characters. No other text, no logos, no watermark.
+   ```
+
+2. Press Generate, then download the 9:16 MP4.
+
+One-tap version of this variant: https://www.makeviral.ai/templates/first-time-in-a-fancy-cafe-ai-trend/create?variant=reverse
+
+#### Variant: Reverse pet
+
+Settings: 1 photo (your pet, whole body) · Seedance 2.5 · 15 s · 720p · 9:16 · no sound · 228 credits in one tap.
+
+1. The video prompt is filled in. Settings: Seedance 2.5, 15 s, 720p, 9:16, sound off. The video prompt:
+
+   ```text
+   Recreate the reference video [Video 1] shot for shot: the same bare grey concrete cafe, the same low concrete ledge along the wall with the small round steel tables on curved steel posts, the same soft daylight, the same fixed camera, framing, timing and moves, and the same white caption "POV: your second time at a fancy cafe" at the top for the first 4 seconds, exactly as in the video. The ONLY change: the man in the cream suit who sits the right way on the ledge on the left is now the pet in [Image 1].
+
+[Image 1] defines CHARACTER_1, a pet. Use its complete identity, face and true body proportions, consistent throughout.
+
+REPLACE ONE SOURCE PERSON ONLY. TARGET_A: the man visible from the start, seated on the ledge on the left in a cream suit and sunglasses, holding a takeaway coffee. [Image 1] replaces the man: CHARACTER_1 = the pet in [Image 1], whole body, in EVERY frame: the same species and breed, face, eyes, ears, muzzle, fur colors, fur length and markings as in [Image 1], with the natural body volume and proportions of that animal: never flattened, squashed, stretched or merged with anything, so its owner instantly recognizes it. It sits upright like a person. No clothes, no sunglasses, no human hands: animal paws only. TARGET_B: the woman in the long dark coat with a black handbag stays exactly as in the video, her back to the camera.
+
+FULL APPEARANCE REPLACEMENT: Erase the original man. Never retain or blend his face, hair, suit or body, also during turns and distant views.
+
+EXACT ACTION AND INTERACTION LOCK: Preserve all original timing, gaze, and motion paths, one continuous shot:
+0-4.5 s: the pet sits upright the right way on the ledge beside the small round table, the paper cup in its front paws. The woman walks in from the right, back to the camera, to the table on the right.
+4.5-5.5 s: she climbs up and sits on top of the table on the right, facing the wall.
+5.5-7.5 s: the pet, its cup on the table beside it, turns its head to look at her, ears up.
+7.5-9.5 s: it gets up and hops onto the ledge, facing the wall.
+9.5-11 s: it jumps up and sits on top of its own table, facing the wall, just like her.
+11-15 s: both sit on top of the tables facing the wall, the pet upright and proud.
+
+COFFEE LOCK: the woman keeps her own cup. No floating or extra cups. Preserve her handbag.
+
+BACKGROUND LOCK: Preserve the concrete wall, mounted small round tables, metal supports, floor, the caption, lighting, camera position and portrait framing unchanged. Preserve original duration and pacing. Real live-action footage, natural light. No dialogue throughout the entire video. No background music.
+
+No new people, no cuts, no flicker. One head only on the pet, four legs, animal paws, never human hands. Exactly one pet and one woman. No other text, no logos, no watermark.
+   ```
+
+2. Press Generate, then download the 9:16 MP4.
+
+One-tap version of this variant: https://www.makeviral.ai/templates/first-time-in-a-fancy-cafe-ai-trend/create?variant=reverse-pet
+
 ### Which photo works best?
 
 Upload **one photo** for Human or Pet, **two** for Duo.
@@ -185,6 +256,7 @@ Every version copies the same 15 seconds of the clip. The camera never moves:
 
 - **Human** (1 photo): you are the one on the table. The woman who walks in stays as she is in the clip.
 - **Duo** (2 photos): both people change. Photo 1 sits on the table, photo 2 walks in and shows how it is done. Made for couples and best friends: tag the one who always knows the rules.
+- **Reverse** and **Reverse pet** (1 photo): the sequel from 6 November 2026, "POV: your second time at a fancy cafe", also called the reverse fancy cafe trend. This time you sit the right way, a woman walks in, climbs on top of the table, and you copy her. It copies its own 15-second clip, with that clip's sound.
 - **Pet** (1 photo): your dog or cat perches on the tiny table with the coffee, then hops down and sits next to it like a person. The woman stays as she is in the clip.
 
 **Caption ideas:** "POV: your first time in a fancy cafe", "Who else has been in this situation?", "Me pretending I knew all along", "My dog at the new brunch place". The fancy cafe meme works because everyone has been the one who did not know how a place works.
@@ -226,6 +298,10 @@ Press "Create your own", pick Human, Duo or Pet and add your photo (two for Duo)
 ### Is there a fancy cafe CapCut template?
 
 Yes, on 2 November 2026 a CapCut one-photo template appeared, and many fancy cafe trend tutorial videos show how to use it. This page is the fancy cafe AI video maker on MakeViral: it puts your face, a couple or a pet into the clip, with the song.
+
+### What is the reverse fancy cafe trend, "your second time at a fancy cafe"?
+
+It is the sequel that took off on 6 November 2026: the man now sits the right way, a woman climbs on top of the table, and he climbs up and copies her. The AI-made take by @rupert.pike had 1.6 million TikTok views and @chefhomiekwon's had 3.3 million by 8 November. Pick Reverse or Reverse pet and add one photo.
 
 ### Can two people do the fancy cafe trend together?
 
@@ -271,12 +347,12 @@ No. The person or pet in the cafe is put into the clip by AI from your photo, an
 
 ## New AI video trends this week
 
-- [Christmas Dance AI: Do the New TikTok Christmas Dance From Your Photos](https://www.makeviral.ai/templates/christmas-dance-ai-trend): Hip sways with the hands at the collar, rolling arms, a quick spin and raised fists, side by side in matching Christmas pajamas. Add two photos for the duo, one for a solo take, or two pets, and get the dance with the sound.
-- [Cat on Ultra Bee AI: Put Your Pet on the Wheelie](https://www.makeviral.ai/templates/cat-on-ultra-bee-ai-trend): Add one photo, and your cat or dog stands on an electric dirt bike and holds a long wheelie down a city road at golden hour, in the same shots as the viral clip, with its original sound. You can take the ride yourself, too.
-- [Tus Ojos Me Reflejan el Sentimiento: The Cafuné Eye Close-Up Trend](https://www.makeviral.ai/templates/tus-ojos-me-reflejan-ai-trend): You lie on your side, a hand rests on your cheek, warm light falls on your face, and the camera slowly moves in until your eyes fill the screen while the line plays. One photo in, an 8-second vertical clip with the trend's song out.
-- [İnşallah Maşallah AI Trend: Sing Neşe Karaböcek's Song on the Couch](https://www.makeviral.ai/templates/insallah-masallah-ai-trend): You sit on a light grey couch and sing the old Turkish love song straight to the camera: a hand on the heart, a big laugh with both hands on your head, a finger pointed at the camera and a kiss at the end. One photo of you, a grandparent or your pet, and the 15-second clip comes with the song.
-- [Ice Ice Baby Dance AI: Do the Viral Duo Dance With a Friend](https://www.makeviral.ai/templates/ice-ice-baby-dance-ai): Two dancers side by side, the same bouncy 90s steps, a spin on the beat and a strut to the camera. Add a photo of you and a friend, of you alone, or of your pet, and get the dance with the sound.
-- [Save Yourself Trend: Pull Yourself Up From the Cliff](https://www.makeviral.ai/templates/save-yourself-ai-trend): One photo plays both of you: the scared you clinging to a wet sea cliff, and the calm you who reaches down, pulls you up and holds you. Or use two photos: an older photo of you and a new one, or you and a friend. 15 seconds, vertical.
+- [Turning My Mom Into Me: Put Your Mom in Your Outfit With AI](https://www.makeviral.ai/templates/turning-my-mom-into-me-ai-trend): Your mom walks down the hallway in her own clothes, walks out, and struts back in wearing your outfit. Add one photo of her and one of you in your outfit, and get the viral reel with its caption and its sound. Dad works too.
+- [Giant Cat AI Video: Make Your Pet a Giant in New York](https://www.makeviral.ai/templates/giant-cat-ai-video): Your cat walks down a New York avenue as tall as the towers, peers into a car window and leans on a skyscraper while helicopters circle. Add one photo of your pet, or of yourself, and get the 10-second clip with the street sound.
+- [Stuffed Animal UFC AI Video: Your Plush Wins the Fight](https://www.makeviral.ai/templates/stuffed-animal-ufc-ai-video): Your teddy, your pet or a plush version of you steps into the cage, lands the body shots, gets the knockout and celebrates with both arms up. One photo in, a 10-second clip with crowd and commentary sound out. Or add two photos and fight a friend: one wins, one goes down.
+- [Black and White Cinematic Video: You in the Classic Suit Stroll](https://www.makeviral.ai/templates/black-and-white-cinematic-ai-video): One photo of you becomes a 15-second black and white film: you walk past the hedges in a long black coat, smile at the windows, wave and laugh on the stone steps, then pause under a black umbrella, to a slowed phonk beat.
+- [Düğün Dansı AI: Put Your Friends in the Wild Turkish Wedding Dance](https://www.makeviral.ai/templates/dugun-oyunu-ai-trend): Two dancers go wild around the davul player in a Turkish wedding hall, a halay line bounces behind them, and a guest in a white tank top laughs into the camera at the end. Add three photos, two for a duo, or one of your pet.
+- [Hippo Pathway What If: Become the 541 ft Giant Pop Star](https://www.makeviral.ai/templates/hippo-pathway-giant-pop-star-ai-trend): What if a pop star was 100 times taller? Add one photo: you or your pet become the giant who sings and dances down a city avenue at dusk, or the giant pop star shows up in a photo of your own street.
 
 ## Make your own First Time Fancy Cafe video
 

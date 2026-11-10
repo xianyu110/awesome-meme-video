@@ -1,0 +1,50 @@
+{
+  "source": "makeviral",
+  "source_site": "https://www.makeviral.ai",
+  "slug": "stuffed-animal-ufc-ai-video",
+  "name": "Stuffed Animal UFC AI Video: Your Plush Wins the Fight",
+  "url": "https://www.makeviral.ai/templates/stuffed-animal-ufc-ai-video",
+  "markdown_url": "https://www.makeviral.ai/templates/stuffed-animal-ufc-ai-video.md",
+  "blurb": "The stuffed animal UFC edit is an AI fight video: a soft plush toy takes the winner's place in a real-looking cage fight, throws the punches, drops the opponent and celebrates.",
+  "updated": "2026-11-09",
+  "published": "2026-11-09",
+  "credits": 126,
+  "demo_videos": [
+    "https://www.makeviral.ai/media/templates/stuffed-animal-ufc-ai-video/original-plush-v2.mp4"
+  ],
+  "posters": [
+    "https://www.makeviral.ai/media/templates/stuffed-animal-ufc-ai-video/original-plush-v1.jpg"
+  ],
+  "prompts": [
+    {
+      "label": "1. The video prompt is filled in. Settings: Seedance 2.5, 10 s, 720p, 9:16, sound on. The video prompt",
+      "variant": "Pet",
+      "kind": "video_prompt",
+      "text": "A real televised cage-fight highlight: a brightly lit eight-sided cage with black chain-link walls, a plain light gray canvas, a dark arena and a crowd. Photorealistic broadcast look. The joke: the winner is a life-size plush toy, and everything else is real.\n\nThe winning fighter = the subject of [Image 1], in EVERY shot, from the very first frame, at the height of an adult fighter. If [Image 1] shows a plush toy, a doll, a toy, a figure or a character: that exact subject with its own shape, proportions, colors, fur or fabric, face, eyes and markings, grown to fighter size. If it shows a person: a life-size plush toy version of that person, their skin tone in plush fabric, their exact hair color, hair length and hairstyle in soft plush yarn, and their face (the face shape, eye color and eye shape, eyebrows, nose, mouth, skin tone, age, hair color, hair length and hairstyle, and any beard, moustache, glasses or freckles) sewn in felt, so their friends recognize them at once; plain fight shorts in the main color of their clothes. If it shows an animal: a life-size plush toy of that animal, the same species and breed look, face, muzzle, eye color, ears, fur colors and markings as in [Image 1], standing upright on its hind legs, with the natural proportions of that animal, never flattened. In every case it is a stuffed toy that fights like a pro: visible seams, soft rounded limbs that squash a little on each punch, no human hands, no human feet, never a person in a costume, never a real animal.\n\nThe opponent: a tall, lean adult male fighter with a short dark beard, in black fight shorts and small black fingerless gloves. The referee: an adult man in a black shirt and black gloves. Neither looks like [Image 1].\n\nShots:\nShot 1 [0-2.5 s]: wide shot through the cage: the plush fighter stalks forward on its soft legs, fists up, and throws a fast combination; the opponent covers up.\nShot 2 [2.5-5 s]: the plush fighter pins the opponent against the cage and unloads a flurry of punches to the body, then a hook to the head; the opponent's knees buckle.\nShot 3 [5-6.5 s]: the opponent drops to the canvas, and the referee dives in between them and waves the fight off.\nShot 4 [6.5-8.5 s]: hard cut, a medium shot: the plush fighter walks away, jumps and raises both arms high to the roaring crowd.\nShot 5 [8.5-10 s]: hard cut, a close-up of the plush fighter's face at the cage, filling the frame: it covers its mouth with one soft hand in disbelief, then lowers it, proud.\n\nThe same plush fighter in every shot, never morphing, never two copies.\n\nAudio: a roaring arena crowd, the thuds of the punches, the referee shouting \"Stop! Stop!\", and an excited male ringside commentator: \"Just unloading right now! Those body shots set up the head shot, and it's all over!\" No background music.\n\nNo logos, no brand or sponsor names, no letters or numbers on the canvas, the cage, the posts, the shorts or the gloves. No on-screen graphics, no scoreboard, no caption, no watermark. No blood."
+    },
+    {
+      "label": "1. The video prompt is filled in. Settings: Seedance 2.5, 10 s, 720p, 9:16, sound on. The video prompt",
+      "variant": "Pet",
+      "kind": "video_prompt",
+      "text": "A real televised cage-fight highlight: a brightly lit eight-sided cage with black chain-link walls, a plain light gray canvas, a dark arena and a crowd. Photorealistic broadcast look. Two fighters: the stronger one wins, the other one gets beaten.\n\nThe WINNER, the stronger fighter = the subject of [Image 1], in every shot from the first frame, at adult fighter height. A person: that exact real person as a pro cage fighter, with the face, skin tone, age, hair and any beard or glasses exactly as in [Image 1], so friends recognize them at once; plain fight shorts in the main color of their clothes, small black fingerless gloves. A plush toy or any toy: that exact toy, its shape, colors, fabric, face and markings, grown to fighter size. An animal: a life-size plush toy of it, same breed look, face, eye color, ears, fur colors and markings, upright on its hind legs, never a real animal.\n\nThe LOSER, the fighter who gets beaten up = the subject of [Image 2], in every shot from the first frame, at adult fighter height. A person: that exact real person as a pro cage fighter, with the face, skin tone, age, hair and any beard or glasses exactly as in [Image 2], so friends recognize them at once; plain fight shorts in the main color of their clothes, small black fingerless gloves. A plush toy or any toy: that exact toy, its shape, colors, fabric, face and markings, grown to fighter size. An animal: a life-size plush toy of it, same breed look, face, eye color, ears, fur colors and markings, upright on its hind legs, never a real animal.\n\nTwo different fighters in every shot: never swap them, never mix their looks. The referee: an adult man in a black shirt, like neither photo.\n\nShots:\nShot 1 [0-2.5 s]: wide shot through the cage: the winner stalks forward, fists up, and throws a fast combination; the loser covers up.\nShot 2 [2.5-5 s]: the winner pins the loser against the cage and unloads a flurry of punches to the body, then a hook to the head; the loser's knees buckle.\nShot 3 [5-6.5 s]: the loser drops to the canvas, and the referee dives in between them and waves the fight off.\nShot 4 [6.5-8.5 s]: hard cut, a medium shot: the winner walks away, jumps and raises both arms high to the roaring crowd.\nShot 5 [8.5-10 s]: hard cut, a close-up of the winner's face at the cage, filling the frame: the winner covers their mouth with one hand in disbelief, then lowers it, proud.\n\nAudio: a roaring arena crowd, the thuds of the punches, the referee shouting \"Stop! Stop!\", and an excited male ringside commentator: \"Just unloading right now! Those body shots set up the head shot, and it's all over!\" No background music.\n\nNo logos, no brand or sponsor names, no letters or numbers on the canvas, the cage, the posts, the shorts or the gloves. No on-screen graphics, no scoreboard, no caption, no watermark. No blood, no injuries: the loser just drops and is fine."
+    }
+  ],
+  "variant_headings": [
+    "What the Stuffed Animal UFC video looks like",
+    "How to make the Stuffed Animal UFC video on MakeViral",
+    "Which photo works best?",
+    "What is the stuffed animal UFC AI video trend?",
+    "How do I make a UFC AI video with my teddy bear?",
+    "Is this a UFC AI video generator?",
+    "Can I make an AI fight video of myself?",
+    "How long is the video, and does it have sound?",
+    "Does the stuffed animal UFC video cost credits?",
+    "Are there other funny AI fight video generator templates?",
+    "Is there a UFC AI video maker or an AI fight video maker app?",
+    "Other AI video templates and tools",
+    "New AI video trends this week",
+    "Make your own Stuffed Animal UFC video"
+  ],
+  "prompt_count": 2,
+  "scraped_at": "2026-11-10"
+}

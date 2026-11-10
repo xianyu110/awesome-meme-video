@@ -7,12 +7,13 @@ The like JENNIE dance trend comes from JENNIE's 2025 hit "like JENNIE", whose vi
 
 ## Demo videos (CDN)
 
-- https://www.makeviral.ai/media/templates/like-jennie-ai-trend/example-v2.mp4
+- https://www.makeviral.ai/media/templates/like-jennie-ai-trend/original-main-v1.mp4
+- https://www.makeviral.ai/media/templates/like-jennie-ai-trend/original-tall-main-v1.mp4
 
 ## Posters
 
-- https://www.makeviral.ai/media/templates/like-jennie-ai-trend/example-input.jpg
-- https://www.makeviral.ai/media/templates/like-jennie-ai-trend/example-poster.jpg
+- https://www.makeviral.ai/media/templates/like-jennie-ai-trend/original-main-v1.jpg
+- https://www.makeviral.ai/media/templates/like-jennie-ai-trend/original-tall-main-v1.jpg
 
 ## Prompts
 
@@ -21,23 +22,22 @@ The like JENNIE dance trend comes from JENNIE's 2025 hit "like JENNIE", whose vi
 *Kind: video_prompt*
 
 ```text
-A pop music video, photorealistic and cinematic, vertical 9:16, in a bright all-white studio: a glossy white floor that reflects like a mirror, plain white walls and bright, even studio light. The person in [Image 1] is the lead dancer at the front center, and about thirty backup dancers in plain black stand behind them in a tight V formation.
+Recreate the reference video [Video 1] shot for shot: the same pop music video, the same bright white studio with the black and white light panels on the walls and the glossy reflecting floor, the same about thirty backup dancers in plain black, the same camera angles, cuts, timing, formations and dance moves. The ONLY change: the lead dancer, the woman at the front, is now the person in [Image 1].
 
-The lead dancer = the person in [Image 1], in every frame: copy the exact face from [Image 1] (the face shape, eye color and eye shape, eyebrows, nose, mouth, skin tone, age, hair color, hair length and hairstyle, and any beard, moustache, glasses or freckles), preserving their recognizable face, hairstyle, skin tone and outfit, so their friends recognize them at once. Maintain the same lead identity throughout turns and wider shots: the face stays the same from the first frame to the last. Never morph. If [Image 1] shows only the head or the upper body, invent the rest of the outfit so it matches naturally. If [Image 1] shows an animal, the lead is that animal standing upright, with its own face, fur and markings, not a person. The lead is the only dancer who is not in black.
+The lead = the person in [Image 1], in EVERY shot where the head is visible: copy the exact face from [Image 1] (the face shape, eye color and eye shape, eyebrows, nose, mouth, skin tone, age, hair color, hair length and hairstyle, and any beard, moustache, glasses or freckles) exactly as in the photo. The same real person in every frame, from the first shot to the last, also in the wide shots and the shots from above, so their friends instantly recognize them. Never morph, never drift back to the original dancer's face. No sunglasses: the eyes are always visible. The lead wears the outfit from [Image 1]; if [Image 1] shows only the head or the upper body, the lead keeps the reference outfit: a black cut-out crop top, a black and green mini skirt, black knee socks and black boots. If [Image 1] shows an animal, the lead is that animal standing upright on its hind legs, with its own face, fur and markings, wearing nothing. The lead is the only dancer who is not dressed all in black.
 
-The backup dancers: about thirty young adult dancers in identical plain black jackets, black trousers and black boots, each with their own different face. Do not apply the lead's face to any backup dancer. They move in perfect sync, one step behind the lead.
+The backup dancers stay exactly as in the video: young adult dancers in plain black, each with their own different face. Do not apply the lead's face to any backup dancer.
 
-[Image 1] is the sole character reference for the lead; it is never a reference for a backup dancer.
+Shots, matching the reference:
+1. A close shot: the lead between two backup dancers, the face large and sharp, clearly the person from [Image 1].
+2. Wide from the front: the lead at the front center, the whole crew behind, everyone hits sharp synchronized moves.
+3. Wide side angles: the crew drops to the floor and rises around the lead, who raises both arms.
+4. A low medium shot of the lead dancing alone against the light panels: hair flips and body rolls, the face clearly the person from [Image 1].
+5. The lead lies on the reflecting floor among the crew and looks into the camera.
+6. Straight down from above: the crew lies on the floor in moving geometric rows.
+7. A last close shot of black boots stepping past the camera.
 
-The shots, on the beat:
-Shot 1 [0-2.5 s]: a wide shot from the front at eye level: the lead at the front center, the whole crew behind in the V. Everyone hits the first sharp move together: a shoulder pop and a head snap to the camera.
-Shot 2 [2.5-6 s]: hard cut, a medium shot from the knees up, the lead between two backup dancers: a hair flip, a hip sway and a confident point at the camera. The lead's face is large and sharp: exactly the face from [Image 1].
-Shot 3 [6-11 s]: hard cut, the camera pulls back: the lead leads a fast synchronized routine, arms swinging in big sharp arcs, then a quick spin, and the whole crew moves as one behind.
-Shot 4 [11-14 s]: hard cut, a high shot that cranes down from above: the crew drops to the floor in a ring around the lead, who stays standing in the center, looks up into the lens and holds a confident final pose.
-
-Sound: none of its own; a pop song is put on afterwards, so the moves hit hard and sharp, on a steady fast beat. No singing, no words. No dialogue throughout the entire video.
-
-Preserve natural joints, clearly separated limbs and stable body proportions. One head per dancer, on their own shoulders. Do not duplicate the lead: exactly one person with the face from [Image 1]. No text, no subtitles, no logos, no watermark, no posters or signs in the studio.
+Anatomy rules: natural joints, clearly separated limbs and stable body proportions. One head per dancer, on their own shoulders. Exactly one person with the face from [Image 1]. No text, no subtitles, no logos, no watermark.
 ```
 
 ### 2. 1. Open [AI Photo with this template](https://www.makeviral.ai/photo?template=like-jennie-ai-trend&variant=pet) and add your photo (your pet, whole body). The photo prompt is filled in (Pet)

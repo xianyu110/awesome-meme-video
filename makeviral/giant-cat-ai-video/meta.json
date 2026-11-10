@@ -1,0 +1,52 @@
+{
+  "source": "makeviral",
+  "source_site": "https://www.makeviral.ai",
+  "slug": "giant-cat-ai-video",
+  "name": "Giant Cat AI Video: Make Your Pet a Giant in New York",
+  "url": "https://www.makeviral.ai/templates/giant-cat-ai-video",
+  "markdown_url": "https://www.makeviral.ai/templates/giant-cat-ai-video.md",
+  "blurb": "A giant cat AI video shows a cat as tall as the skyscrapers walking through a real city while people run and scream.",
+  "updated": "2026-11-09",
+  "published": "2026-11-09",
+  "credits": 152,
+  "demo_videos": [
+    "https://www.makeviral.ai/media/templates/giant-cat-ai-video/original-pet-v2.mp4"
+  ],
+  "posters": [
+    "https://www.makeviral.ai/media/templates/giant-cat-ai-video/original-pet-v1.jpg"
+  ],
+  "prompts": [
+    {
+      "label": "1. The video prompt is filled in. Settings: Seedance 2.5, 10 s, 720p, 9:16, sound off. The video prompt",
+      "variant": null,
+      "kind": "video_prompt",
+      "text": "Recreate the reference video [Video 1] shot for shot: a busy New York avenue between old stone office towers and glass skyscrapers on a bright overcast day, yellow taxis, crowds running and screaming, helicopters, early-2000s handheld camcorder look, the same camera angles, cuts, timing and moves. The ONLY change: the giant man in the gray hood who walks through the city is now the person in [Image 1], still a giant as tall as the buildings.\n\nThe giant = the person in [Image 1], in EVERY shot: copy the exact face from [Image 1]: face shape, eye color and eye shape, eyebrows, nose, mouth, skin tone, age, hair color, hair length and hairstyle, and any beard, moustache, glasses or freckles exactly as in the photo. The giant wears the clothes from [Image 1], at the giant's size; if [Image 1] shows only the head or the upper body, invent the rest so it matches naturally. The same real person in every frame, from the first second to the last, so their friends instantly recognize them, also through the car window and from the low angle. Never morph, never drift back to the original giant's face. NO hood, NO gray hoodie, NO black bomber jacket, NO very wide blue jeans and NO big silver belt buckle unless [Image 1] shows them: the hair from [Image 1] shows. If [Image 1] shows an animal, the giant is that animal with its own face, fur and markings and the natural body volume and proportions of that animal: never flattened, squashed, stretched or merged with anything.\n\nThe shots, exactly as in [Video 1]:\n00:00-00:03.75: street level on the crowded avenue, the camera backs away; the giant walks slowly toward the camera down the middle of the street, the head up at the top floors, while people run past the camera screaming.\n00:03.75-00:06.92: hard cut, from inside a car looking up through the rear side window: the giant stands beside a glass skyscraper, looks down into the car, raises one hand and waves; a helicopter flies by.\n00:06.92-00:10: hard cut, extreme low angle from the street at the giant's feet, tiny yellow taxis below: the giant rests one hand on the glass skyscraper and looks up at three helicopters circling.\n\nOnly the giant changes. The people, the taxis, the buildings and the helicopters keep their normal size and stay exactly as in [Video 1]. The giant keeps the original giant's huge scale in every shot.\n\nReal live-action footage, clear facial features, no distortion.\n\nAnatomy rules: one head only, on the giant's shoulders. Two arms and two hands, five fingers on each hand. Exactly one giant. No text, no captions, no logos, no watermark."
+    },
+    {
+      "label": "1. The video prompt is filled in. Settings: Seedance 2.5, 10 s, 720p, 9:16, sound off. The video prompt",
+      "variant": "Pet",
+      "kind": "video_prompt",
+      "text": "Recreate the reference video [Video 1] shot for shot: a busy New York avenue between old stone office towers and glass skyscrapers on a bright overcast day, yellow taxis, crowds running and screaming, helicopters, early-2000s handheld camcorder look, the same camera angles, cuts, timing and moves. The ONLY change: the giant man in the gray hood is completely replaced by the pet in [Image 1], a giant pet as tall as the buildings.\n\nSTRICT WHOLE-BODY REPLACEMENT: the WHOLE giant changes, not just the head. [Image 1] is the DIRECT REPLACEMENT SOURCE, not a style reference. Do NOT blend [Image 1] with the original giant. The pet inherits the giant's exact screen position, scale in frame, head direction, gaze, movements and timing in every shot. Never a human head, human face, human hands or human clothes: no hood, no hoodie, no jacket, no jeans, no belt.\n\nThe giant pet = the pet in [Image 1], in EVERY frame: the same species and breed, face, eyes, ears, muzzle, whiskers, fur colors, fur length and markings as in [Image 1], with the natural body volume and proportions of that animal: never flattened, squashed, stretched or merged with anything. Whether [Image 1] shows a cat, a dog or another animal, it stays that animal, soft, furry and heavy, with animal paws. The same pet in every frame, from the first second to the last, so its owner instantly recognizes it.\n\nThe shots, exactly as in [Video 1]:\n00:00-00:03.75: street level on the crowded avenue, the camera backs away; the giant pet walks slowly toward the camera down the middle of the street, upright on its hind legs like the giant, its head up at the top floors, while people run past the camera screaming.\n00:03.75-00:06.92: hard cut, from inside a car looking up through the rear side window: the giant pet stands beside a glass skyscraper, peers down into the car, lifts one front paw and waves; a helicopter flies by.\n00:06.92-00:10: hard cut, extreme low angle from the street at the pet's hind paws, tiny yellow taxis below: the giant pet stands on its hind legs, rests one front paw on the glass skyscraper and looks up at three helicopters circling.\n\nOnly the giant changes. The people, the taxis, the buildings and the helicopters keep their normal size and stay exactly as in [Video 1].\n\nReal live-action footage, realistic fur, no distortion.\n\nAnatomy rules: one head only, one muzzle. Four legs and animal paws, never human hands. Exactly one giant animal, no people as the giant. No text, no captions, no logos, no watermark."
+    }
+  ],
+  "variant_headings": [
+    "What the Giant Cat AI video looks like",
+    "How to make the Giant Cat AI video on MakeViral",
+    "Which photo works best?",
+    "What happens in the giant cat AI video, second by second?",
+    "Pet or Human: which giant should you make?",
+    "What is the giant cat AI video trend?",
+    "How do I make a giant cat AI video of my own cat?",
+    "Can I make a giant dog AI video?",
+    "Is this the \"giant cat destroys city\" or \"giant cat attacks city\" video?",
+    "How long is the video and what format is it?",
+    "Does the giant cat AI video cost credits?",
+    "Is there a giant cat world or big cat AI video account I can follow?",
+    "Can I make a giant walking in city video with something other than a cat?",
+    "Other AI video templates and tools",
+    "New AI video trends this week",
+    "Make your own Giant Cat AI video"
+  ],
+  "prompt_count": 2,
+  "scraped_at": "2026-11-10"
+}

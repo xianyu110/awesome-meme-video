@@ -6,15 +6,17 @@
   "url": "https://www.makeviral.ai/templates/i-love-the-smiths-ai-trend",
   "markdown_url": "https://www.makeviral.ai/templates/i-love-the-smiths-ai-trend.md",
   "blurb": "I love the Smiths is the line from the 500 Days of Summer elevator scene: one person hears music leak from a coworker's headphones, says \"I love the Smiths\", says it again louder and walks out.",
-  "updated": "2026-11-06",
+  "updated": "2026-11-09",
   "published": "2026-11-06",
   "credits": 189,
   "demo_videos": [
-    "https://www.makeviral.ai/media/templates/i-love-the-smiths-ai-trend/example.mp4"
+    "https://www.makeviral.ai/media/templates/i-love-the-smiths-ai-trend/example.mp4",
+    "https://www.makeviral.ai/media/templates/i-love-the-smiths-ai-trend/original-scene-v2.mp4"
   ],
   "posters": [
     "https://www.makeviral.ai/media/templates/i-love-the-smiths-ai-trend/example-input.jpg",
-    "https://www.makeviral.ai/media/templates/i-love-the-smiths-ai-trend/example-poster.jpg"
+    "https://www.makeviral.ai/media/templates/i-love-the-smiths-ai-trend/example-poster.jpg",
+    "https://www.makeviral.ai/media/templates/i-love-the-smiths-ai-trend/original-scene-v1.jpg"
   ],
   "prompts": [
     {
@@ -30,6 +32,12 @@
       "text": "The famous elevator meet-cute meme, filmed like a real film scene: a small, old office-building elevator with warm dark wood-paneled walls, brass trim, a brass handrail and brushed metal doors, under soft warm overhead light on a quiet morning. Photorealistic, natural skin and natural colors, gentle film grain, a warm cinematic grade, not CGI, not a cartoon. Vertical frame. The two stand side by side facing the doors, about an arm's length apart, framed from the waist up, so both faces stay large, sharp and well lit.\n\nThe listener is the person in [Image 1], on the LEFT in every frame: copy the exact face from [Image 1] (the face shape, eye color and eye shape, eyebrows, nose, mouth, skin tone, age, hair color, hair length and hairstyle, and any beard, moustache, glasses or freckles), with the clothes from [Image 1]. They wear large over-ear headphones with no logo.\nThe crush is the person in [Image 2], on the RIGHT in every frame: copy the exact face from [Image 2] (the face shape, eye color and eye shape, eyebrows, nose, mouth, skin tone, age, hair color, hair length and hairstyle, and any beard, moustache, glasses or freckles), with the clothes from [Image 2], holding a thin stack of folders.\nIf an image shows an animal, that one is that animal with its own face, fur and markings, not a person.\nNever blend their faces, never swap their clothes. Each face stays the same from the first frame to the last, so their friends recognize them at once.\n\nThe shots:\n1. 0-3 s: a medium two-shot from the front. The elevator hums upward. The listener stares straight ahead and nods very slightly to the music; faint, tinny guitar music leaks from the headphones. The crush glances over, hears it, and looks at the listener a beat too long.\n2. 3-5 s: a medium close-up of the crush, leaning a little closer, with a soft, flirty smile: \"I love the Smiths.\"\n3. 5-7 s: a medium close-up of the listener, who did not hear. They slide one headphone cup off one ear, puzzled, and say: \"Sorry?\"\n4. 7-11 s: the crush, louder, holding the listener's eyes with a teasing smile: \"I said I love the Smiths.\" Then they softly hum a short wordless tune, eyes on the listener.\n5. 11-13 s: a soft bell rings. The doors slide open on a bright office hallway. The crush steps out, then looks back over the shoulder with a small smile and a tiny wave.\n6. 13-15 s: the listener alone in the elevator, from the chest up, frozen, then a slow, smitten grin spreads and one hand goes to the chest as the doors slide shut. They whisper: \"Wow.\"\n\nAudio: the elevator hum, faint tinny guitar music from the headphones (an original melody), the two voices in natural English with exact lip sync, the soft hum, the bell and the doors. No other dialogue.\n\nOnly these two, nobody else in the elevator or in the hallway. No text, no subtitles, no logos, no brand names, no watermark. No other music, no famous melody, no lyrics."
     },
     {
+      "label": "1. The video prompt is filled in. Settings: Seedance 2.5, 15 s, 720p, 9:16, sound off. The video prompt",
+      "variant": null,
+      "kind": "video_prompt",
+      "text": "Recreate the reference video [Video 1] shot for shot: two people in a small office elevator with warm beige wood-paneled walls, the same camera positions, framing, cuts, timing, moves and mouth moves. The ONLY change: the two people are now the people in [Image 1] and [Image 2].\n\nSTRICT SOURCE CAMERA AND ENVIRONMENT LOCK: Replace only the two actors. Preserve the elevator wall and door colors, materials, reflections, exposure and lighting of [Video 1] in EVERY shot. Keep the exact camera position, lens, framing, crop and subject screen size at every frame. No zooming, no reframing, no new camera movement. Preserve every original cut at its exact time.\n\nPERMANENT CAST: [Image 1] replaces ONLY the man on the LEFT with the headphones and the brown leather shoulder strap. [Image 2] replaces ONLY the woman on the RIGHT with the dark bangs. The person from [Image 2] walks out at the exact original moment. The final shot contains ONLY the person from [Image 1]; do not reinsert the other person.\n\nFULL REPLACEMENT: the person on the LEFT = the person in [Image 1], in EVERY shot: copy the exact face from [Image 1] (the face shape, eye color and eye shape, eyebrows, nose, mouth, skin tone, age, hair color, hair length and hairstyle, and any beard, moustache, glasses or freckles). The person on the RIGHT = the person in [Image 2], in EVERY shot: copy the exact face from [Image 2], with the same details. Rebuild entire heads and bodies, not just faces: NO black side-parted hair and NO moustache on the left person, NO dark bangs on the right person, unless their photo shows them. Both change: no one from [Video 1] stays, also in the wide shot. Never morph, never drift back to the faces in [Video 1], never blend the two faces.\n\nCLOTHING: each wears the clothes from their own photo, with no navy shirt on the left person and no cream cardigan on the right person unless their photo shows them. The left person keeps the over-ear headphones and the shoulder bag from [Video 1] as props.\n\nACTION AND LIP SYNC: the exact poses, hand gestures, gaze, head turns, timing and walking of [Video 1]. The mouths move only on their own lines, in sync with [Video 1]:\nShot 1 [0-4.7s]: the two-shot from the front. The right person, smiling: \"I love the Smiths.\" The left person slides the headphones down: \"Sorry?\" The right person: \"I said I love the Smiths.\"\nShot 2 [4.7-11s]: hard cut, the same two-shot. The right person says \"Yeah\", faces forward and softly sings a short line with a smile, then: \"I love them.\" The left person stares, stunned.\nShot 3 [11-15s]: hard cut, a wide shot into the elevator: the doors slide open, the right person walks out, the left person stays alone inside, frozen, and mutters two words.\n\nSCENE: photorealistic live action, natural skin and hair, stable outfits and identities. No extra people, no swapped faces, no merged bodies, no extra limbs. No other dialogue. No background music. No text, no captions, no logos, no watermark."
+    },
+    {
       "label": "1. The video prompt is filled in. Settings: Seedance 2.5, 15 s, 720p, 9:16, sound on. The video prompt",
       "variant": null,
       "kind": "video_prompt",
@@ -40,7 +48,7 @@
     "What the I Love The Smiths video looks like",
     "How to make the I Love The Smiths video on MakeViral",
     "Which photo works best?",
-    "Three versions: two people, a couple, or you and your pet",
+    "Four versions: two people, a couple, the full scene, or you and your pet",
     "How do I make the I love the Smiths AI video?",
     "Is the film clip or the actors in my video?",
     "Does the video have the Smiths song?",
@@ -51,6 +59,6 @@
     "New AI video trends this week",
     "Make your own I Love The Smiths video"
   ],
-  "prompt_count": 3,
-  "scraped_at": "2026-11-08"
+  "prompt_count": 4,
+  "scraped_at": "2026-11-10"
 }

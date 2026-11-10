@@ -1,0 +1,31 @@
+{
+  "source": "remakeyourmeme",
+  "source_site": "https://remakeyourmeme.com",
+  "slug": "ice-ice-baby-dance-ai-video-generator",
+  "name": "Ice Ice Baby Dance AI Video Generator",
+  "url": "https://remakeyourmeme.com/templates/ice-ice-baby-dance-ai-video-generator/",
+  "blurb": "A real video from this maker, unedited, made November 9, 2026 with photos of AI-generated sample people.",
+  "photos_in": null,
+  "duration_s": 13,
+  "ready_to_make": true,
+  "demo_videos": [],
+  "preview_videos": [],
+  "posters": [],
+  "all_cdn_mp4": [
+    "https://cdn.remakeyourmeme.com/templates/24k-magic/video.mp4",
+    "https://cdn.remakeyourmeme.com/templates/car-alarm-dance/video.mp4",
+    "https://cdn.remakeyourmeme.com/templates/chipmunks-dance/video.mp4",
+    "https://cdn.remakeyourmeme.com/templates/hop-hop-hop/video.mp4",
+    "https://cdn.remakeyourmeme.com/templates/no-scrubs/video.mp4",
+    "https://cdn.remakeyourmeme.com/templates/vossi-bop/video.mp4",
+    "https://cdn.remakeyourmeme.com/wm/remakeyourmeme/examples/ice-ice-baby/sample-1/preview-854.mp4",
+    "https://cdn.remakeyourmeme.com/wm/remakeyourmeme/examples/ice-ice-baby/sample-1/video.mp4"
+  ],
+  "prompts": [],
+  "prompt_count": 0,
+  "prompts_public": false,
+  "note": "Remake Your Meme does not publish copyable prompt text on public template pages (one-tap remake). Inventory keeps demos, posters, and metadata only.",
+  "scraped_at": "2026-11-10",
+  "published": null,
+  "updated": null
+}

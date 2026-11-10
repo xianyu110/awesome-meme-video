@@ -6,12 +6,12 @@
 
 ## Stats
 
-- **Total**: 583 templates
-- **MakeViral**: 433 templates · 1249 prompt blocks · 623 demo videos
-- **Remake Your Meme**: 33 templates · public prompts: **none** (one-tap remake only) · demos/posters archived
+- **Total**: 595 templates
+- **MakeViral**: 444 templates · 1287 prompt blocks · 643 demo videos
+- **Remake Your Meme**: 34 templates · public prompts: **none** (one-tap remake only) · demos/posters archived
 - **Media.io**: 18 templates · 12 prompt blocks · 12 demo videos
 - **Kavel**: 99 templates · 321 prompt blocks · 377 demo videos
-- Scraped: 2026-11-09 (Asia/Shanghai)
+- Scraped: 2026-11-10 (Asia/Shanghai)
 - Sort: **newest first** by `published || updated (newest first); undated=unknown; never scraped_at`
 - Gallery: https://xianyu110.github.io/awesome-meme-video/
 
@@ -46,6 +46,17 @@ Demo MP4s are stored via Git LFS when present. Each template folder also lists o
 
 | Template | Slug | Date | Prompts | Demo | Page |
 | --- | --- | --- | ---: | --- | --- |
+| [Turning My Mom Into Me: Put Your Mom in Your Outfit With AI](makeviral/turning-my-mom-into-me-ai-trend/PROMPTS.md) | `turning-my-mom-into-me-ai-trend` | 2026-11-09 | 2 | ✅ | [link](https://www.makeviral.ai/templates/turning-my-mom-into-me-ai-trend) |
+| [Stuffed Animal UFC AI Video: Your Plush Wins the Fight](makeviral/stuffed-animal-ufc-ai-video/PROMPTS.md) | `stuffed-animal-ufc-ai-video` | 2026-11-09 | 2 | ✅ | [link](https://www.makeviral.ai/templates/stuffed-animal-ufc-ai-video) |
+| [Santa Nice List AI Video: Santa Checks His List and Finds You](makeviral/santa-nice-list-ai-video/PROMPTS.md) | `santa-nice-list-ai-video` | 2026-11-09 | 3 | ✅ | [link](https://www.makeviral.ai/templates/santa-nice-list-ai-video) |
+| [Hippo Pathway What If: Become the 541 ft Giant Pop Star](makeviral/hippo-pathway-giant-pop-star-ai-trend/PROMPTS.md) | `hippo-pathway-giant-pop-star-ai-trend` | 2026-11-09 | 3 | ✅ | [link](https://www.makeviral.ai/templates/hippo-pathway-giant-pop-star-ai-trend) |
+| [Grinch Dog and Cat AI Filter: Your Pet as a Green Christmas Grump](makeviral/grinch-pet-ai-trend/PROMPTS.md) | `grinch-pet-ai-trend` | 2026-11-09 | 6 | ✅ | [link](https://www.makeviral.ai/templates/grinch-pet-ai-trend) |
+| [Giant Cat AI Video: Make Your Pet a Giant in New York](makeviral/giant-cat-ai-video/PROMPTS.md) | `giant-cat-ai-video` | 2026-11-09 | 2 | ✅ | [link](https://www.makeviral.ai/templates/giant-cat-ai-video) |
+| [Düğün Dansı AI: Put Your Friends in the Wild Turkish Wedding Dance](makeviral/dugun-oyunu-ai-trend/PROMPTS.md) | `dugun-oyunu-ai-trend` | 2026-11-09 | 3 | ✅ | [link](https://www.makeviral.ai/templates/dugun-oyunu-ai-trend) |
+| [Cilvelim AI Trend: Sing Baran Mengüç's Song in the Back Seat](makeviral/cilvelim-ai-trend/PROMPTS.md) | `cilvelim-ai-trend` | 2026-11-09 | 2 | ✅ | [link](https://www.makeviral.ai/templates/cilvelim-ai-trend) |
+| [Christmas Princess AI: Step Out of the Carriage in a Red Gown](makeviral/christmas-princess-carriage-ai-trend/PROMPTS.md) | `christmas-princess-carriage-ai-trend` | 2026-11-09 | 3 | ✅ | [link](https://www.makeviral.ai/templates/christmas-princess-carriage-ai-trend) |
+| [Black and White Cinematic Video: You in the Classic Suit Stroll](makeviral/black-and-white-cinematic-ai-video/PROMPTS.md) | `black-and-white-cinematic-ai-video` | 2026-11-09 | 2 | ✅ | [link](https://www.makeviral.ai/templates/black-and-white-cinematic-ai-video) |
+| [90s Movie AI: Star in a 90s Rom-Com](makeviral/90s-rom-com-ai-trend/PROMPTS.md) | `90s-rom-com-ai-trend` | 2026-11-09 | 4 | ✅ | [link](https://www.makeviral.ai/templates/90s-rom-com-ai-trend) |
 | [Vossi Bop Dance AI: Rap on an Empty London Bridge at Dawn](makeviral/vossi-bop-ai-trend/PROMPTS.md) | `vossi-bop-ai-trend` | 2026-11-08 | 2 | ✅ | [link](https://www.makeviral.ai/templates/vossi-bop-ai-trend) |
 | [Valet Shoe Drop AI: Step Out of the Convertible Into the Hotel](makeviral/valet-shoe-drop-ai-trend/PROMPTS.md) | `valet-shoe-drop-ai-trend` | 2026-11-08 | 3 | ✅ | [link](https://www.makeviral.ai/templates/valet-shoe-drop-ai-trend) |
 | [Ukwu Template: Color, Then Slow-Motion Black and White From One Photo](makeviral/ukwu-ai-trend/PROMPTS.md) | `ukwu-ai-trend` | 2026-11-08 | 2 | ✅ | [link](https://www.makeviral.ai/templates/ukwu-ai-trend) |
@@ -82,7 +93,7 @@ Demo MP4s are stored via Git LFS when present. Each template folder also lists o
 | [Lorenzo Zurzolo AI Trend: Your Face in a Moody Rome Drama Scene](makeviral/lorenzo-zurzolo-ai-trend/PROMPTS.md) | `lorenzo-zurzolo-ai-trend` | 2026-11-06 | 3 | ✅ | [link](https://www.makeviral.ai/templates/lorenzo-zurzolo-ai-trend) |
 | [Leo Cheers Meme: Raise Your Glass at a 1920s Gala](makeviral/leo-cheers-ai-trend/PROMPTS.md) | `leo-cheers-ai-trend` | 2026-11-06 | 4 | ✅ | [link](https://www.makeviral.ai/templates/leo-cheers-ai-trend) |
 | [I Want Wings Trend: Your AI Glow Up After Shot From One Photo](makeviral/i-want-wings-ai-trend/PROMPTS.md) | `i-want-wings-ai-trend` | 2026-11-06 | 4 | ✅ | [link](https://www.makeviral.ai/templates/i-want-wings-ai-trend) |
-| [I Love The Smiths AI: You in the Elevator Scene](makeviral/i-love-the-smiths-ai-trend/PROMPTS.md) | `i-love-the-smiths-ai-trend` | 2026-11-06 | 3 | ✅ | [link](https://www.makeviral.ai/templates/i-love-the-smiths-ai-trend) |
+| [I Love The Smiths AI: You in the Elevator Scene](makeviral/i-love-the-smiths-ai-trend/PROMPTS.md) | `i-love-the-smiths-ai-trend` | 2026-11-06 | 4 | ✅ | [link](https://www.makeviral.ai/templates/i-love-the-smiths-ai-trend) |
 | [Housewife Dance AI: Do the Viral Routine From One Photo](makeviral/housewife-dance-ai-trend/PROMPTS.md) | `housewife-dance-ai-trend` | 2026-11-06 | 2 | ✅ | [link](https://www.makeviral.ai/templates/housewife-dance-ai-trend) |
 | [Hangover Alan AI Trend: Dance at the Window With a Baby Carrier](makeviral/hangover-alan-ai-trend/PROMPTS.md) | `hangover-alan-ai-trend` | 2026-11-06 | 2 | ✅ | [link](https://www.makeviral.ai/templates/hangover-alan-ai-trend) |
 | [Face Bouquet: Make a Flower Bouquet of Me From Your Selfies](makeviral/flower-bouquet-of-me-ai-trend/PROMPTS.md) | `flower-bouquet-of-me-ai-trend` | 2026-11-06 | 4 | ✅ | [link](https://www.makeviral.ai/templates/flower-bouquet-of-me-ai-trend) |
@@ -151,7 +162,7 @@ Demo MP4s are stored via Git LFS when present. Each template folder also lists o
 | [Quiet on the Creek Dance AI: Do the Shush and the Bounce From One Photo](makeviral/quiet-on-the-creek-ai-trend/PROMPTS.md) | `quiet-on-the-creek-ai-trend` | 2026-11-02 | 3 | ✅ | [link](https://www.makeviral.ai/templates/quiet-on-the-creek-ai-trend) |
 | [Monkey Eating Apple AI: A Macaque Steals Your Apple](makeviral/monkey-eating-apple-ai-trend/PROMPTS.md) | `monkey-eating-apple-ai-trend` | 2026-11-02 | 3 | ✅ | [link](https://www.makeviral.ai/templates/monkey-eating-apple-ai-trend) |
 | [I Don't Listen to Opinions Baby Dance: Your Baby Claps, Pats Its Chest and Shakes Off the Haters](makeviral/i-dont-listen-to-opinions-baby-dance/PROMPTS.md) | `i-dont-listen-to-opinions-baby-dance` | 2026-11-02 | 3 | ✅ | [link](https://www.makeviral.ai/templates/i-dont-listen-to-opinions-baby-dance) |
-| [Your First Time in a Fancy Cafe: Star in the Viral Clip](makeviral/first-time-in-a-fancy-cafe-ai-trend/PROMPTS.md) | `first-time-in-a-fancy-cafe-ai-trend` | 2026-11-02 | 3 | ✅ | [link](https://www.makeviral.ai/templates/first-time-in-a-fancy-cafe-ai-trend) |
+| [Your First Time in a Fancy Cafe: Star in the Viral Clip](makeviral/first-time-in-a-fancy-cafe-ai-trend/PROMPTS.md) | `first-time-in-a-fancy-cafe-ai-trend` | 2026-11-02 | 5 | ✅ | [link](https://www.makeviral.ai/templates/first-time-in-a-fancy-cafe-ai-trend) |
 | [End of Watch Locker Scene AI: Show Your Gear to the Camera](makeviral/end-of-watch-locker-scene-ai-trend/PROMPTS.md) | `end-of-watch-locker-scene-ai-trend` | 2026-11-02 | 6 | ✅ | [link](https://www.makeviral.ai/templates/end-of-watch-locker-scene-ai-trend) |
 | [Closing Door Prank: Sprint at the Door Before It Shuts](makeviral/closing-door-prank-ai-trend/PROMPTS.md) | `closing-door-prank-ai-trend` | 2026-11-02 | 3 | ✅ | [link](https://www.makeviral.ai/templates/closing-door-prank-ai-trend) |
 | [Chipmunks Dance AI: Put Your Trio in the You Spin Me Round Trend](makeviral/chipmunks-dance-ai-trend/PROMPTS.md) | `chipmunks-dance-ai-trend` | 2026-11-02 | 4 | ✅ | [link](https://www.makeviral.ai/templates/chipmunks-dance-ai-trend) |
@@ -292,7 +303,7 @@ Demo MP4s are stored via Git LFS when present. Each template folder also lists o
 | [Biker Birthday Cake Trend: Ride In, Blow the Candles, Freeze in Black and White](makeviral/biker-birthday-cake-ai-trend/PROMPTS.md) | `biker-birthday-cake-ai-trend` | 2026-10-22 | 1 | ✅ | [link](https://www.makeviral.ai/templates/biker-birthday-cake-ai-trend) |
 | [Wedding Money Rain AI: You Dance While the Notes Rain Down](makeviral/ai-money-rain-party/PROMPTS.md) | `ai-money-rain-party` | 2026-10-22 | 1 | ✅ | [link](https://www.makeviral.ai/templates/ai-money-rain-party) |
 | [AI Makeup Filter: Watch Your Full Glam Happen on Video](makeviral/ai-makeup-filter/PROMPTS.md) | `ai-makeup-filter` | 2026-10-22 | 2 | ✅ | [link](https://www.makeviral.ai/templates/ai-makeup-filter) |
-| [AI Explosion Walk Trend: Walking Away From Explosion, Starring You](makeviral/ai-explosion-walk-trend/PROMPTS.md) | `ai-explosion-walk-trend` | 2026-10-22 | 3 | ✅ | [link](https://www.makeviral.ai/templates/ai-explosion-walk-trend) |
+| [AI Explosion Walk Trend: Walking Away From Explosion, Starring You](makeviral/ai-explosion-walk-trend/PROMPTS.md) | `ai-explosion-walk-trend` | 2026-10-22 | 4 | ✅ | [link](https://www.makeviral.ai/templates/ai-explosion-walk-trend) |
 | [AI Doodle Dance Partner: Your Sketch Twin Dances With You](makeviral/ai-doodle-dance-partner/PROMPTS.md) | `ai-doodle-dance-partner` | 2026-10-22 | 1 | ✅ | [link](https://www.makeviral.ai/templates/ai-doodle-dance-partner) |
 | [AI Danger Video: Your Normal Moment, With Danger Right Behind You](makeviral/ai-danger-scene-trend/PROMPTS.md) | `ai-danger-scene-trend` | 2026-10-22 | 10 | ✅ | [link](https://www.makeviral.ai/templates/ai-danger-scene-trend) |
 | [Beer Jacket AI: You Came Prepared for the Away End](makeviral/ai-beer-jacket-trend/PROMPTS.md) | `ai-beer-jacket-trend` | 2026-10-22 | 1 | ✅ | [link](https://www.makeviral.ai/templates/ai-beer-jacket-trend) |
@@ -419,7 +430,7 @@ Demo MP4s are stored via Git LFS when present. Each template folder also lists o
 | [Dimitri Meme AI: Amanhã é Feriado, Starring You](makeviral/amanha-e-feriado-ai-trend/PROMPTS.md) | `amanha-e-feriado-ai-trend` | 2026-10-14 | 1 | ✅ | [link](https://www.makeviral.ai/templates/amanha-e-feriado-ai-trend) |
 | [Heaven Hug AI: Run Into Their Arms Above the Clouds](makeviral/ai-heaven-reunion-hug/PROMPTS.md) | `ai-heaven-reunion-hug` | 2026-10-14 | 2 | ✅ | [link](https://www.makeviral.ai/templates/ai-heaven-reunion-hug) |
 | [Day of the Dead Pet AI: Your Pet's First Día de Muertos](makeviral/ai-day-of-the-dead-pet/PROMPTS.md) | `ai-day-of-the-dead-pet` | 2026-10-14 | 4 | ✅ | [link](https://www.makeviral.ai/templates/ai-day-of-the-dead-pet) |
-| [Car Jump AI Video: A Truck Flies Over You, You Stay Calm](makeviral/ai-car-jump-trend/PROMPTS.md) | `ai-car-jump-trend` | 2026-10-14 | 3 | ✅ | [link](https://www.makeviral.ai/templates/ai-car-jump-trend) |
+| [Car Jump AI Video: A Truck Flies Over You, You Stay Calm](makeviral/ai-car-jump-trend/PROMPTS.md) | `ai-car-jump-trend` | 2026-10-14 | 4 | ✅ | [link](https://www.makeviral.ai/templates/ai-car-jump-trend) |
 | [Bob Filter Prank: AI Cuts Your Long Hair Into a Bob](makeviral/ai-bob-haircut-filter/PROMPTS.md) | `ai-bob-haircut-filter` | 2026-10-14 | 2 | ✅ | [link](https://www.makeviral.ai/templates/ai-bob-haircut-filter) |
 | [Barn Find AI Trend: What Your Kids Will Find in the Barn](makeviral/ai-barn-find-truck-trend/PROMPTS.md) | `ai-barn-find-truck-trend` | 2026-10-14 | 4 | ✅ | [link](https://www.makeviral.ai/templates/ai-barn-find-truck-trend) |
 | [Whining Dog Meme: Make Your Dog Whine Like the Viral Doberman](makeviral/whiny-dog-ai-trend/PROMPTS.md) | `whiny-dog-ai-trend` | 2026-10-13 | 2 | ✅ | [link](https://www.makeviral.ai/templates/whiny-dog-ai-trend) |
@@ -463,7 +474,7 @@ Demo MP4s are stored via Git LFS when present. Each template folder also lists o
 | [Knight Cat AI Video: Make Your Cat or Dog the Kitten Knight](makeviral/knight-cat-ai-video/PROMPTS.md) | `knight-cat-ai-video` | 2026-10-08 | 9 | ✅ | [link](https://www.makeviral.ai/templates/knight-cat-ai-video) |
 | [Ghostface AI Trend: Put Yourself in the 90s Horror Phone Call](makeviral/ghostface-ai-trend/PROMPTS.md) | `ghostface-ai-trend` | 2026-10-08 | 4 | ✅ | [link](https://www.makeviral.ai/templates/ghostface-ai-trend) |
 | [Mom and Baby Knight AI Video: You and Your Little One as Knights](makeviral/baby-knight-ai-video/PROMPTS.md) | `baby-knight-ai-video` | 2026-10-08 | 1 | ✅ | [link](https://www.makeviral.ai/templates/baby-knight-ai-video) |
-| [AI Zombie Trend: The Zombie Love Story With Your Partner or Pet](makeviral/ai-zombie-trend/PROMPTS.md) | `ai-zombie-trend` | 2026-10-08 | 3 | ✅ | [link](https://www.makeviral.ai/templates/ai-zombie-trend) |
+| [AI Zombie Trend: The Zombie Love Story With Your Partner or Pet](makeviral/ai-zombie-trend/PROMPTS.md) | `ai-zombie-trend` | 2026-10-08 | 4 | ✅ | [link](https://www.makeviral.ai/templates/ai-zombie-trend) |
 | [Rumpelstiltskin AI: Make the Tip Toe Dance With Your Face](makeviral/ai-rumpelstiltskin-dance/PROMPTS.md) | `ai-rumpelstiltskin-dance` | 2026-10-08 | 6 | ✅ | [link](https://www.makeviral.ai/templates/ai-rumpelstiltskin-dance) |
 | [AI Dog Costume: Your Dog or Cat in Any Halloween Costume](makeviral/ai-pet-halloween-costume/PROMPTS.md) | `ai-pet-halloween-costume` | 2026-10-08 | 5 | ✅ | [link](https://www.makeviral.ai/templates/ai-pet-halloween-costume) |
 | [AI Halloween Costume Try-On: See Yourself in a Costume Before You Buy](makeviral/ai-halloween-costume/PROMPTS.md) | `ai-halloween-costume` | 2026-10-08 | 4 | ✅ | [link](https://www.makeviral.ai/templates/ai-halloween-costume) |
@@ -493,6 +504,7 @@ Demo MP4s are stored via Git LFS when present. Each template folder also lists o
 | [Raindance AI trend](remakeyourmeme/raindance-ai-trend/PROMPTS.md) | `raindance-ai-trend` | unknown | no (one-tap) | ✅ | [link](https://remakeyourmeme.com/templates/raindance-ai-trend/) |
 | [No Scrubs AI Video Generator](remakeyourmeme/no-scrubs-ai-video-generator/PROMPTS.md) | `no-scrubs-ai-video-generator` | unknown | no (one-tap) | ✅ | [link](https://remakeyourmeme.com/templates/no-scrubs-ai-video-generator/) |
 | [Middle Finger Dunk AI Video Generator](remakeyourmeme/middle-finger-dunk-ai-video-generator/PROMPTS.md) | `middle-finger-dunk-ai-video-generator` | unknown | no (one-tap) | ✅ | [link](https://remakeyourmeme.com/templates/middle-finger-dunk-ai-video-generator/) |
+| [Ice Ice Baby Dance AI Video Generator](remakeyourmeme/ice-ice-baby-dance-ai-video-generator/PROMPTS.md) | `ice-ice-baby-dance-ai-video-generator` | unknown | no (one-tap) | — | [link](https://remakeyourmeme.com/templates/ice-ice-baby-dance-ai-video-generator/) |
 | [I Love The Smiths AI Video Generator](remakeyourmeme/i-love-the-smiths-ai-video-generator/PROMPTS.md) | `i-love-the-smiths-ai-video-generator` | unknown | no (one-tap) | ✅ | [link](https://remakeyourmeme.com/templates/i-love-the-smiths-ai-video-generator/) |
 | [Hug in Heaven AI Video Generator](remakeyourmeme/hug-in-heaven/PROMPTS.md) | `hug-in-heaven` | unknown | no (one-tap) | ✅ | [link](https://remakeyourmeme.com/templates/hug-in-heaven/) |
 | [Hop Hop Hop AI Video Generator](remakeyourmeme/hop-hop-hop-ai/PROMPTS.md) | `hop-hop-hop-ai` | unknown | no (one-tap) | ✅ | [link](https://remakeyourmeme.com/templates/hop-hop-hop-ai/) |

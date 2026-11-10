@@ -3,7 +3,7 @@
 > The Mentalist AI trend puts your face on Patrick Jane, the smiling consultant from the TV series The Mentalist, in a black-and-white montage of his scenes: a sly look, a pointed finger, a wave from a camper van door and a big smile.
 
 Canonical: https://www.makeviral.ai/templates/ai-mentalist-trend
-Updated: 2026-10-29
+Updated: 2026-11-09
 Published: 2026-10-29
 Author: MakeViral Team (https://www.makeviral.ai/about)
 Publisher: MakeViral (https://www.makeviral.ai)
@@ -12,17 +12,17 @@ The **Mentalist AI** trend puts your face on Patrick Jane, the smiling consultan
 
 Your face, his three-piece suit and his smirk: eleven quick black-and-white shots, from a knowing look across a table to a wave from a camper van and a big, warm smile. One photo, the trend's own montage, with its music.
 
-Also called: Patrick Jane character replace filter, Filtre Mentalist, Mantalist filter.
+Also called: Patrick Jane character replace filter, Filtre Mentalist, Mantalist filter, Noir Portrait Swap.
 
 **Make it now:** [Make this video](https://www.makeviral.ai/templates/ai-mentalist-trend/create). 1 photo · 10 s · 9:16 with sound · 152 credits, charged once · ready in up to several minutes · no prompt to write.
 
-Keyword: mentalist ai. Also answers: mentalist trend, mentalist filter, patrick jane ai, mentalist ai edit, mentalist ai video, mentalist ai template, patrick jane filter, mentalist ai prompt, patrick jane edit, the mentalist ai edit, patrick jane meme, the mentalist filter, mentalist template, capcut mentalist template, ai mentalist template, patrick jane ai video, patrick jane ai edit, patrick jane ai prompt, patrick jane face swap ai, patrick jane trend, mentalist edit, patrick jane smile, patrick jane black and white, mentalist meme, the mentalist meme, the mentalist edit, mentalist face, patrick jane face, patrick jane template, higgsfield ai patrick jane, mentalist smile, patrick jane smiling, patrick jane video, patrick jane edit meme, the mentalist face, mentalist edit ai, mentalist edit template, patrick jane edit template, patrick jane video edit, patric jane edit, patrick jane edit download video, patrik jane, mentalist face swap, patric jane meme, what is the patrick jane edit song called, mentalist meme template, ai patrick jane, why are there so many patrick jane edits, patrick jane edit photo, patrick jane edit video download, patrick jane edit clip, patrick jane meme download, mentalist edit song name, the mentalist smile, mentalist prompt, mentalista rosto, patrick jane edits be like, mentalista edit, patrick jane ia, how to make a patrick jane edit, patrick jane face swap, the mentalist viral, パトリックジェーン ミーム, mentalist ai video prompt, the mentalist trend song, mentalist edit song, patrick jane edit song, why is patrick jane trending, is the mentalist trending again, mentalist edit tiktok, patrick jane edit tiktok, mentalist trend tiktok, patrick jane smirk, patrick jane edit ai, mentalist meme song, mentalista preto e branco, patrick jane preto e branco, el mentalista edit, is patrick jane a meme, mentalist black and white, higgsfield mentalist, metalist edit, mentalist edits be like, what is a patrick jane edit, mentalist meme edit, patrick jane song, the mentalist template, edit de patrick jane, how to do the mentalist edit face ai, patrick jane black and white edit, mentalista meme, patrick jane prompt, patrick jane hitam putih, patrick jane capcut template, 멘탈리스트 밈, ترند باتريك جين, patrick jane, the mentalist, patrick jane cat, patrick jane cat meme.
+Keyword: mentalist ai. Also answers: mentalist trend, mentalist filter, patrick jane ai, mentalist ai edit, mentalist ai video, mentalist ai template, patrick jane filter, mentalist ai prompt, patrick jane edit, the mentalist ai edit, patrick jane meme, the mentalist filter, mentalist template, capcut mentalist template, ai mentalist template, patrick jane ai video, patrick jane ai edit, patrick jane ai prompt, patrick jane face swap ai, patrick jane trend, mentalist edit, patrick jane smile, patrick jane black and white, mentalist meme, the mentalist meme, the mentalist edit, mentalist face, patrick jane face, patrick jane template, higgsfield ai patrick jane, mentalist smile, patrick jane smiling, patrick jane video, patrick jane edit meme, the mentalist face, mentalist edit ai, mentalist edit template, patrick jane edit template, patrick jane video edit, patric jane edit, patrick jane edit download video, patrik jane, mentalist face swap, patric jane meme, what is the patrick jane edit song called, mentalist meme template, ai patrick jane, why are there so many patrick jane edits, patrick jane edit photo, patrick jane edit video download, patrick jane edit clip, patrick jane meme download, mentalist edit song name, the mentalist smile, mentalist prompt, mentalista rosto, patrick jane edits be like, mentalista edit, patrick jane ia, how to make a patrick jane edit, patrick jane face swap, the mentalist viral, パトリックジェーン ミーム, mentalist ai video prompt, the mentalist trend song, mentalist edit song, patrick jane edit song, why is patrick jane trending, is the mentalist trending again, mentalist edit tiktok, patrick jane edit tiktok, mentalist trend tiktok, patrick jane smirk, patrick jane edit ai, mentalist meme song, mentalista preto e branco, patrick jane preto e branco, el mentalista edit, is patrick jane a meme, mentalist black and white, higgsfield mentalist, metalist edit, mentalist edits be like, what is a patrick jane edit, mentalist meme edit, patrick jane song, the mentalist template, edit de patrick jane, how to do the mentalist edit face ai, patrick jane black and white edit, mentalista meme, patrick jane prompt, patrick jane hitam putih, patrick jane capcut template, 멘탈리스트 밈, ترند باتريك جين, patrick jane edit song name, song used in patrick jane edit, mentalist edit music, mentalist ai tutorial, wavy emotion slowed, patrick jane, the mentalist, patrick jane cat, patrick jane cat meme.
 
 ## What is the Mentalist AI trend, and where did it start?
 
 Patrick Jane edits were already big on TikTok in 2026: one by @tekno_edit_ on 28 June passed 11.1 million views, and #patrickjaneai and #patrickjanetrend were both created on 31 July. The mentalist trend became a one-photo AI template on 28 September 2026, when @ndule_24 posted a clip of the CapCut "Mentalist filter" that put another face in his scenes. It passed 5.7 million views and 666,000 likes. Tutorials for the Patrick Jane filter followed the next day (556,800 and 485,900 views), and on 2 October a clip that called it a "Patrick Jane character-replace AI filter" reached 757,700 views.
 
-From 16 October, creators on the Higgsfield AI video site remade a black-and-white montage of the character with their own faces, the version this page copies. By 28 October, #patrickjane held 348,837 TikTok videos and 15.6 billion views, and #thementalist 14.6 billion.
+From 16 October, creators on the Higgsfield AI video site remade a black-and-white montage of the character with their own faces, the version this page copies. One of them, the Noir Portrait Swap community template, uses this exact clip: it swaps in a new face and keeps the suit, the moves and the music. By 9 November 2026, #patrickjane held 385,804 TikTok videos and 17.4 billion views, and #thementalist 16 billion.
 
 ### Mentalist AI trend timeline
 
@@ -62,26 +62,26 @@ Settings: 1 photo (you, face clear) · Seedance 2.5 · 10 s · 720p · 9:16 · n
 1. The video prompt is filled in. Settings: Seedance 2.5, 10 s, 720p, 9:16, sound off. The video prompt:
 
    ```text
-   Recreate the reference video [Video 1] shot for shot: the same black-and-white 2000s TV-drama look with soft grain, the same rooms and places, the same camera angles, cuts, timing and moves. The ONLY change: the man with wavy, swept-back hair in the dark three-piece suit, who is in every shot, is now the person in [Image 1].
+   Replace the face of the main male character in the source video [Video 1], the man with wavy, swept-back hair in the dark three-piece suit who is in every shot, with my face from [Image 1]. [Image 1] shows the same person; use it to accurately preserve my identity.
 
-The man in the suit = the person in [Image 1], in EVERY shot: copy the exact face from [Image 1] - face shape, eye color and eye shape, eyebrows, nose, mouth, skin tone, age, hair color, hair length and hairstyle, and any beard, moustache, glasses or freckles exactly as in the photo. The same real person from the first frame to the last, so their friends recognize them at once, also in the quick cuts, in the head turns and while they smile wide with the teeth showing. Never morph, never drift back to the original man's face: NO wavy swept-back fair hair, NO stubble and NO deep smile lines unless [Image 1] shows them, and the age of [Image 1]. They wear the open-collar shirt, the dark waistcoat and the dark suit jacket from [Video 1], never the clothes from [Image 1]. Black and white throughout: the face and the hair from [Image 1] in black and white, in the same light and shadow as [Video 1]. If [Image 1] shows an animal, that animal is in every shot in the same place, with its own face, fur and markings.
+Match my facial proportions, eyes, nose, lips, jawline, skin tone, and distinctive facial features: face shape, eye color and eye shape, eyebrows, nose, mouth, skin tone, age, hair color, hair length and hairstyle, and any beard, moustache, glasses or freckles exactly as in the photo.
 
-THE SHOTS, at the same times as [Video 1]:
-0.0-0.9 s: a dark wood-panelled room with a carved pillar: the person stands in the dark suit and looks across the room.
-0.9-1.7 s: at a table with a bottle, in the striped shirt and the open waistcoat: they lean forward and talk with a knowing look, one hand raised.
-1.7-3.4 s: a busy office with desks and a small decorated tree: they stand in the dark suit, then a closer shot as a woman passes in the foreground; they look past her with a calm stare.
-3.4-4.3 s: a close-up: a small head tilt, a sly look and the start of a smirk. The face is large and sharp: exactly the face from [Image 1].
-4.3-5.0 s: they hold a cup of tea at the chest and smile.
-5.0-5.8 s: seated in a grey jacket, they point a finger at someone off camera with a sly smirk.
-5.8-6.6 s: outside on a lawn, in the waistcoat and the white shirt, they turn and look.
-6.6-7.5 s: they lean out of the open door of a camper van and give a small wave.
-7.5-8.4 s: a close-up in a doorway: a big, warm smile with the eyes squeezed shut. Exactly the face from [Image 1].
-8.4-9.1 s: outside at night by dark leaves, a glass in one hand, they gesture with the other hand and grin.
-9.1-9.9 s: a dim room with wall lamps and tall glass jars: they stand in the dark suit and the waistcoat, fix the jacket and look at the camera.
+My face must remain recognizable and consistent throughout the entire video, including during head turns, speech, and fast movements, the quick cuts and the wide smile. Preserve the original character's body, clothing, actions, head movements, gaze direction, and facial expressions. Keep the original camera movement, framing, background, other people, and editing unchanged. Use [Image 1] only as a facial identity reference; do not copy the clothes or background from the photo. Blend my face naturally into the scene with matching lighting, shadows, perspective, and motion blur. Preserve realistic skin texture and natural occlusions when objects or hands pass in front of the face. No identity drift, flickering, warped features, beauty filters, or visible face-swap seams. Never drift back to the original man's face: NO wavy swept-back fair hair, NO stubble and NO deep smile lines unless [Image 1] shows them. Black and white throughout. If [Image 1] shows an animal, that animal is in every shot in his place, with its own face, fur and markings.
 
-The woman in the office stays as in [Video 1] and never takes the face from [Image 1].
+THE SHOTS of [Video 1], same black-and-white TV-drama look, same times:
+0.0-0.9 s: a dark wood-panelled room: I stand in the dark suit and look across the room.
+0.9-1.7 s: at a table, in the striped shirt and open waistcoat: I lean forward and talk with a knowing look, one hand raised.
+1.7-3.4 s: a busy office: I stand in the dark suit, then a closer shot as a woman passes in front; I look past her.
+3.4-4.3 s: close-up: a small head tilt, a sly look, the start of a smirk. My face, large and sharp.
+4.3-5.0 s: I hold a cup of tea at the chest and smile.
+5.0-5.8 s: seated in a grey jacket, I point a finger off camera with a smirk.
+5.8-6.6 s: on a lawn, in the waistcoat and white shirt, I turn and look.
+6.6-7.5 s: I lean out of a camper van door and wave.
+7.5-8.4 s: close-up in a doorway: a big, warm smile, eyes squeezed shut. My face.
+8.4-9.1 s: outside at night, a glass in one hand, I gesture and grin.
+9.1-9.9 s: a dim room with wall lamps: I fix the jacket and look at the camera.
 
-Anatomy rules: one head only, on the person's shoulders. Two hands with five fingers each. No color, no text, no captions, no logos, no watermark.
+The woman in the office keeps her own face. Anatomy: one head only, two hands with five fingers each. No color, no text, no logos, no watermark.
    ```
 
 2. Press Generate, then download the 9:16 MP4.
@@ -208,7 +208,7 @@ The Mentalist filter, also called the Patrick Jane filter, is the name TikTok ga
 
 ### How do I make a Patrick Jane AI video?
 
-Add one sharp photo of your face, press Generate and wait 5 to 15 minutes. The Patrick Jane AI video comes back as a 10 second MP4 with the montage's music. A Patrick Jane AI edit like this needs no editing app.
+Add one sharp photo of your face, press Generate and wait 5 to 15 minutes. The Patrick Jane AI video comes back as a 10 second MP4 with the montage's music. A Patrick Jane AI edit like this needs no editing app, and no Mentalist AI tutorial: you write no prompt and cut nothing.
 
 ### Is there a Mentalist AI template or a CapCut Mentalist template?
 
@@ -216,7 +216,7 @@ The viral clips came from a closed CapCut Mentalist template and from Higgsfield
 
 ### What is the Mentalist AI prompt?
 
-No creator shared a Mentalist AI prompt or a Patrick Jane AI prompt: the trend lives in closed one-photo templates. MakeViral uses its own Mentalist AI video prompt, which redraws the montage shot for shot with your face, so you write nothing.
+The CapCut wave never showed a prompt, but the black-and-white version has one. A creator's Higgsfield community template, Noir Portrait Swap, uses this Mentalist AI prompt: replace the face of the main male character with your face, match your facial proportions, eyes, nose, lips, jawline and skin tone, keep his body, clothing, moves, gaze, camera, background and the other people, and blend the face in with matching light, with no identity drift or face-swap seams. MakeViral starts from that Patrick Jane AI prompt and adds the montage shot by shot, so the Mentalist AI video prompt is done for you and you write nothing.
 
 ### Is it a Patrick Jane face swap AI?
 
@@ -228,7 +228,7 @@ Yes, a Mentalist edit made with AI. The Mentalist edit and the Patrick Jane edit
 
 ### What is the Mentalist trend song?
 
-The clips use different sounds: the CapCut wave used a creator's original sound, and some Mentalist edit TikTok posts use slowed hardtekk tracks. Your video gets the music of the template clip it copies, so the Mentalist edit song and the Patrick Jane edit song question is solved for you. You can turn the sound off on the result screen and add your own when you post.
+The clips use different sounds. The black-and-white template clip this page copies uses "Wavy Emotion (Reverb)" by Mycrowscope, slowed down: search for wavy emotion slowed to find that version. The CapCut wave used a creator's original sound, and the big Patrick Jane edits use slowed hardtekk tracks: the song used in Patrick Jane edit posts like @slade.ae's (10.3 million views, 27 August 2026) is "VERITY HARDTEKK - Slowed", and @focsy.vfx used "ON MY MIND" (992,700 views, 11 October). Your video gets the music of the template clip it copies, so the Mentalist edit song, the Mentalist edit music and the Patrick Jane edit song name question are solved for you. You can turn the sound off on the result screen and add your own when you post.
 
 ### Why is Patrick Jane trending again?
 
@@ -266,12 +266,12 @@ The video is 10 seconds, square, black and white, at 720p, as an MP4 file with t
 
 ## New AI video trends this week
 
-- [Christmas Dance AI: Do the New TikTok Christmas Dance From Your Photos](https://www.makeviral.ai/templates/christmas-dance-ai-trend): Hip sways with the hands at the collar, rolling arms, a quick spin and raised fists, side by side in matching Christmas pajamas. Add two photos for the duo, one for a solo take, or two pets, and get the dance with the sound.
-- [Cat on Ultra Bee AI: Put Your Pet on the Wheelie](https://www.makeviral.ai/templates/cat-on-ultra-bee-ai-trend): Add one photo, and your cat or dog stands on an electric dirt bike and holds a long wheelie down a city road at golden hour, in the same shots as the viral clip, with its original sound. You can take the ride yourself, too.
-- [Tus Ojos Me Reflejan el Sentimiento: The Cafuné Eye Close-Up Trend](https://www.makeviral.ai/templates/tus-ojos-me-reflejan-ai-trend): You lie on your side, a hand rests on your cheek, warm light falls on your face, and the camera slowly moves in until your eyes fill the screen while the line plays. One photo in, an 8-second vertical clip with the trend's song out.
-- [İnşallah Maşallah AI Trend: Sing Neşe Karaböcek's Song on the Couch](https://www.makeviral.ai/templates/insallah-masallah-ai-trend): You sit on a light grey couch and sing the old Turkish love song straight to the camera: a hand on the heart, a big laugh with both hands on your head, a finger pointed at the camera and a kiss at the end. One photo of you, a grandparent or your pet, and the 15-second clip comes with the song.
-- [Ice Ice Baby Dance AI: Do the Viral Duo Dance With a Friend](https://www.makeviral.ai/templates/ice-ice-baby-dance-ai): Two dancers side by side, the same bouncy 90s steps, a spin on the beat and a strut to the camera. Add a photo of you and a friend, of you alone, or of your pet, and get the dance with the sound.
-- [Save Yourself Trend: Pull Yourself Up From the Cliff](https://www.makeviral.ai/templates/save-yourself-ai-trend): One photo plays both of you: the scared you clinging to a wet sea cliff, and the calm you who reaches down, pulls you up and holds you. Or use two photos: an older photo of you and a new one, or you and a friend. 15 seconds, vertical.
+- [Turning My Mom Into Me: Put Your Mom in Your Outfit With AI](https://www.makeviral.ai/templates/turning-my-mom-into-me-ai-trend): Your mom walks down the hallway in her own clothes, walks out, and struts back in wearing your outfit. Add one photo of her and one of you in your outfit, and get the viral reel with its caption and its sound. Dad works too.
+- [Giant Cat AI Video: Make Your Pet a Giant in New York](https://www.makeviral.ai/templates/giant-cat-ai-video): Your cat walks down a New York avenue as tall as the towers, peers into a car window and leans on a skyscraper while helicopters circle. Add one photo of your pet, or of yourself, and get the 10-second clip with the street sound.
+- [Stuffed Animal UFC AI Video: Your Plush Wins the Fight](https://www.makeviral.ai/templates/stuffed-animal-ufc-ai-video): Your teddy, your pet or a plush version of you steps into the cage, lands the body shots, gets the knockout and celebrates with both arms up. One photo in, a 10-second clip with crowd and commentary sound out. Or add two photos and fight a friend: one wins, one goes down.
+- [Black and White Cinematic Video: You in the Classic Suit Stroll](https://www.makeviral.ai/templates/black-and-white-cinematic-ai-video): One photo of you becomes a 15-second black and white film: you walk past the hedges in a long black coat, smile at the windows, wave and laugh on the stone steps, then pause under a black umbrella, to a slowed phonk beat.
+- [Düğün Dansı AI: Put Your Friends in the Wild Turkish Wedding Dance](https://www.makeviral.ai/templates/dugun-oyunu-ai-trend): Two dancers go wild around the davul player in a Turkish wedding hall, a halay line bounces behind them, and a guest in a white tank top laughs into the camera at the end. Add three photos, two for a duo, or one of your pet.
+- [Hippo Pathway What If: Become the 541 ft Giant Pop Star](https://www.makeviral.ai/templates/hippo-pathway-giant-pop-star-ai-trend): What if a pop star was 100 times taller? Add one photo: you or your pet become the giant who sings and dances down a city avenue at dusk, or the giant pop star shows up in a photo of your own street.
 
 ## Make your own Mentalist AI video
 

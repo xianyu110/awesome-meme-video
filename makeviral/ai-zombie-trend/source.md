@@ -3,7 +3,7 @@
 > The AI zombie trend is a short love story: your partner or pet has turned into a zombie, you aim a pistol through tears, lower it and hug them anyway, then the clip cuts to a happy memory of you both.
 
 Canonical: https://www.makeviral.ai/templates/ai-zombie-trend
-Updated: 2026-10-13
+Updated: 2026-11-09
 Published: 2026-10-08
 Author: MakeViral Team (https://www.makeviral.ai/about)
 Publisher: MakeViral (https://www.makeviral.ai)
@@ -12,11 +12,11 @@ The **AI zombie trend** is a short love story: your partner or pet has turned in
 
 Your partner, or your pet, has turned into a zombie. You aim through tears, lower the gun and hug them anyway. Then a hard cut to a sunny memory of you two. Two photos in, a 10-second clip with sound out.
 
-Also called: Zombie Love Story, Zombie Hug, Zombie Hug Scene, My Beloved Zombie, Would You Still Love Me If I Were a Zombie.
+Also called: Zombie Love Story, Zombie Hug, Zombie Hug Scene, My Beloved Zombie, Would You Still Love Me If I Were a Zombie, Cinematic Survivor Tale.
 
 **Make it now:** [Make this video](https://www.makeviral.ai/templates/ai-zombie-trend/create). 2 photos · 10 s · 9:16 with sound · 126 credits, charged once · ready in a few minutes · no prompt to write.
 
-Keyword: ai zombie trend. Also answers: zombie ai, ai zombie, zombie ai trend, zombie trend, zombie couple, zombie boyfriend, zombie ai video trend, zombie trend ai, zombie ai video, ai zombie video, zombie ai video generator, ai zombie video generator, zombie video ai, ai zombie video trend, zombie trend video, zombie trend on tiktok, zombie trend tiktok, zombie love story ai, my zombie lover ai, zombie love ai video, zombie lover ai, ai zombie love story, zombie love story trend, ai zombie love story trend, zombie ai love, zombie love ai prompt, zombie hug ai, ai zombie hug trend, zombie hug scene original, zombie love ai, how to do the ai zombie trend, zombie hug ai video, zombie love, zombie couple ai, zombie couple video, zombie hug trend, zombie love story ai trend, zombie girlfriend ai, would you still love me if i was a zombie, zombie ai prompt, ai zombie prompt, ai zombie prompt video, zombie ai trend prompt, ai zombie trend prompt, zombie ai trend tutorial, how to do the zombie ai trend, how to do zombie ai trend, zombie dog ai, ai zombie dog, zombie cat ai, ai cat zombie, pet zombie ai, zombie apocalypse ai video, ai zombie scene, yapay zeka zombi, trend zombi, trend zombie ai, zombie ai video trend prompt, zombie couple hug ai, zombie trend ai video, zombie love story ai video generator, zombie love story ai video, ai zombie hug, zombie ai trend video, zombie love story ai prompt, zombie love story prompt, tren zombie tik tok, zombietrend, zombie video trend, ai zombie trend generator, zombie ai video prompt, zombie couple ai trend, zombie love trend, zombie video ai trend, ai video zombie, zombie ai love story, zombie scene ai, zombie trend ai prompt, zombieaitrend, ai zombie love story generator, ai zombie story, how to make ai zombie video, zombie ai story, zombie ai videos, zombie ia trend, zombie lover ai video, zombie tiktok trend, zombie love ai video generator, zombie trending ai, higgsfield ai zombie trend, zombie ai meme.
+Keyword: ai zombie trend. Also answers: zombie ai, ai zombie, zombie ai trend, zombie trend, zombie couple, zombie boyfriend, zombie ai video trend, zombie trend ai, zombie ai video, ai zombie video, zombie ai video generator, ai zombie video generator, zombie video ai, ai zombie video trend, zombie trend video, zombie trend on tiktok, zombie trend tiktok, zombie love story ai, my zombie lover ai, zombie love ai video, zombie lover ai, ai zombie love story, zombie love story trend, ai zombie love story trend, zombie ai love, zombie love ai prompt, zombie hug ai, ai zombie hug trend, zombie hug scene original, zombie love ai, how to do the ai zombie trend, zombie hug ai video, zombie love, zombie couple ai, zombie couple video, zombie hug trend, zombie love story ai trend, zombie girlfriend ai, would you still love me if i was a zombie, zombie ai prompt, ai zombie prompt, ai zombie prompt video, zombie ai trend prompt, ai zombie trend prompt, zombie ai trend tutorial, how to do the zombie ai trend, how to do zombie ai trend, zombie dog ai, ai zombie dog, zombie cat ai, ai cat zombie, pet zombie ai, zombie apocalypse ai video, ai zombie scene, yapay zeka zombi, trend zombi, trend zombie ai, zombie ai video trend prompt, zombie couple hug ai, zombie trend ai video, zombie love story ai video generator, zombie love story ai video, ai zombie hug, zombie ai trend video, zombie love story ai prompt, zombie love story prompt, tren zombie tik tok, zombietrend, zombie video trend, ai zombie trend generator, zombie ai video prompt, zombie couple ai trend, zombie love trend, zombie video ai trend, ai video zombie, zombie ai love story, zombie scene ai, zombie trend ai prompt, zombieaitrend, ai zombie love story generator, ai zombie story, how to make ai zombie video, zombie ai story, zombie ai videos, zombie ia trend, zombie lover ai video, zombie tiktok trend, zombie love ai video generator, zombie trending ai, higgsfield ai zombie trend, zombie ai meme, zombie higgsfield ai, cinematic zombie love story.
 
 ## What is the AI Zombie Love Story trend, and where did it start?
 
@@ -39,11 +39,14 @@ By 8 October the TikTok tag page for the trend showed tutorials in English, Turk
 
 Made from the prompts on this page. The people and pets are AI-made, not real persons, and the sound is original. Your result will differ from run to run.
 
-- **Example 1** (10 s, 9:16 MP4 with sound): You and your partner, two photos: an AI-made woman aims at her AI-made zombie husband, cries, lowers the gun and hugs him, then a cut to the two of them in a wheat field.
+- **Example 1** (24 s, 9:16 MP4 with sound): The cinematic zombie love story, made with Higgsfield: he aims at his infected girlfriend through tears, cannot shoot and lowers the gun, then a hard cut to the two of them laughing and running in a golden field at sunset. The Cinematic version puts you two into this film. Shown: the whole 24-second clip.
+  - Video: https://www.makeviral.ai/media/templates/ai-zombie-trend/example-cinematic-v2.mp4
+  - Poster: https://www.makeviral.ai/media/templates/ai-zombie-trend/example-cinematic-v2.jpg
+- **Example 2** (10 s, 9:16 MP4 with sound): You and your partner, two photos: an AI-made woman aims at her AI-made zombie husband, cries, lowers the gun and hugs him, then a cut to the two of them in a wheat field.
   - Video: https://www.makeviral.ai/media/templates/ai-zombie-trend/example.mp4
   - Poster: https://www.makeviral.ai/media/templates/ai-zombie-trend/example-poster.jpg
   - Input photo: https://www.makeviral.ai/media/templates/ai-zombie-trend/example-input.jpg
-- **Example 2** (10 s, 9:16 MP4 with sound): You and your pet, two photos: an AI-made man drops his bat and kneels for his AI-made zombie golden retriever, then a cut to the dog jumping into his arms in a sunny yard.
+- **Example 3** (10 s, 9:16 MP4 with sound): You and your pet, two photos: an AI-made man drops his bat and kneels for his AI-made zombie golden retriever, then a cut to the dog jumping into his arms in a sunny yard.
   - Video: https://www.makeviral.ai/media/templates/ai-zombie-trend/example-pet.mp4
   - Poster: https://www.makeviral.ai/media/templates/ai-zombie-trend/example-pet-poster.jpg
   - Input photo: https://www.makeviral.ai/media/templates/ai-zombie-trend/example-pet-input.jpg
@@ -106,6 +109,39 @@ Settings: 2 photos (you (the survivor) + your pet (the zombie)) · Seedance 2.0 
 
 One-tap version of this variant: https://www.makeviral.ai/templates/ai-zombie-trend/create?variant=pet
 
+#### Variant: Cinematic
+
+Settings: 2 photos (you (the survivor) + your partner (infected, then the memory)) · Seedance 2.5 · 15 s · 720p · 9:16 · no sound · 228 credits in one tap.
+
+1. The video prompt is filled in. Settings: Seedance 2.5, 15 s, 720p, 9:16, sound off. The video prompt:
+
+   ```text
+   Recreate the reference video [Video 1] shot for shot: a cinematic zombie love story in letterbox film framing, with the black bars above and below, the same camera angles, cuts, timing, light, color grade and film grain. The ONLY change: the crying survivor with the pistol is now the person in [Image 1], and the infected woman in the dark house and the healthy woman in the golden-field memory are both the person in [Image 2]. Both change: no one from the video stays, also in the wide shots and when only the back of a head shows.
+
+Survivor = the person in [Image 1], in EVERY shot: copy the exact face from [Image 1]: face shape, eye color and eye shape, eyebrows, nose, mouth, skin tone, age, hair color, hair length and hairstyle, and any beard, moustache, glasses or freckles exactly as in the photo. Facial hair comes only from [Image 1]: NO full beard from the video unless [Image 1] shows one. In the dark house the survivor wears the video's olive-green hooded parka with the high collar, black harness straps and chest pouch; in the memory shots, the video's light clothes.
+
+Partner = the person in [Image 2], in EVERY shot: the same face shape, eye shape, eyebrows, nose, mouth, skin tone, age, hair color, hair length and hairstyle as in [Image 2]. In the dark house only: an early-stage infection, not a fully turned zombie: pale grey skin with light dirt specks and grime, pale clouded eyes, a torn and dirty grey t-shirt with holes, loose grey trousers, the same face structure as [Image 2]. In the memory shots: healthy and clean, with the exact face of [Image 2] and the video's light clothes.
+
+The same two real people in every frame. Never morph, never drift back to the original actors' faces. Never put the healthy face on the infected body or the infected skin on the memory partner. One head per body.
+
+1. 0 to 1.7 s: close-up of the survivor aiming the pistol with both hands, crying, wet tear tracks.
+2. 1.7 to 3.1 s: over the survivor's shoulder, the infected partner stands in the doorway of the dim house.
+3. 3.1 to 4.1 s: wide shot, the survivor aims by the bright window.
+4. 4.1 to 5.2 s: close-up of the infected partner snarling, with the feral twitch of the video.
+5. 5.2 to 6.5 s: close-up of the survivor crying.
+6. 6.5 to 9.6 s: wide shot, the survivor lowers the gun and opens both arms.
+7. 9.6 to 10.7 s: close-up of the survivor, eyes closed, tears.
+8. 10.7 to 12.2 s: hard cut to warm golden light: the two roll in tall grass in a sunny field.
+9. 12.2 to 14.5 s: close-up of the partner laughing, the survivor's hand on the partner's cheek.
+10. 14.5 to 15 s: close-up of the survivor smiling in the grass.
+
+No shot is fired. No blood, no gore. No text, no captions, no watermark. No dialogue throughout the entire video. No background music.
+   ```
+
+2. Press Generate, then download the 9:16 MP4.
+
+One-tap version of this variant: https://www.makeviral.ai/templates/ai-zombie-trend/create?variant=cinematic
+
 ### Which photo works best?
 
 Add **two photos, one person or animal in each**. The first photo is **you, the survivor** who holds the gun. The second is **your partner, or your pet, who becomes the zombie**. Swap the order if you want to be the zombie.
@@ -136,6 +172,8 @@ We downloaded four of the most played clips of 1 and 2 October 2026 and read the
 5. **The memory.** A hard cut to golden light: the same two people, human again, laughing and spinning in a wheat field or on a wedding day.
 
 The joke and the heartbreak sit in the caption most clips use: **"Would you still love me if I were a zombie?"** It is the zombie version of the "would you still love me if I was a worm" question. Our prompts follow these five beats in one 10-second clip with sound.
+
+Since 9 November 2026 there is also a **Cinematic** version, the cinematic zombie love story from Higgsfield: you and your partner go into the film itself, with its letterbox bars, its cuts and its music, for 15 seconds: the standoff, the lowered gun and the open arms, then the hard cut to the golden field.
 
 ## How do you make the zombie dog or zombie cat version?
 
@@ -204,6 +242,10 @@ It is the core of the trend, and the prompt keeps it a film prop: no shot is fir
 
 It is the caption of the trend and a twist on the older "Would you still love me if I was a worm?" question couples ask each other on TikTok. The video gives the answer: yes, even now.
 
+### What is the Cinematic version, and is it the Higgsfield zombie AI template?
+
+It is the zombie Higgsfield AI look, the "Cinematic Survivor Tale" template: a crying survivor in an olive parka aims at an infected partner in a dark house, lowers the gun, then a hard cut to the two of them in a golden field at sunset. Our Cinematic version copies the first 15 seconds of that film with your two photos (you first, then your partner) and puts its music back on. It costs more credits than the 10-second versions; the button shows the price first.
+
 ### Can I make it with a parent or a best friend?
 
 Yes. Use the "You and your partner" version with any adult who agreed to it. The story and the hug work the same, and the memory scene becomes the two of you laughing in the sun.
@@ -232,12 +274,12 @@ Yes. The MP4 has no watermark and carries original sound, so you can post it as 
 
 ## New AI video trends this week
 
-- [Christmas Dance AI: Do the New TikTok Christmas Dance From Your Photos](https://www.makeviral.ai/templates/christmas-dance-ai-trend): Hip sways with the hands at the collar, rolling arms, a quick spin and raised fists, side by side in matching Christmas pajamas. Add two photos for the duo, one for a solo take, or two pets, and get the dance with the sound.
-- [Cat on Ultra Bee AI: Put Your Pet on the Wheelie](https://www.makeviral.ai/templates/cat-on-ultra-bee-ai-trend): Add one photo, and your cat or dog stands on an electric dirt bike and holds a long wheelie down a city road at golden hour, in the same shots as the viral clip, with its original sound. You can take the ride yourself, too.
-- [Tus Ojos Me Reflejan el Sentimiento: The Cafuné Eye Close-Up Trend](https://www.makeviral.ai/templates/tus-ojos-me-reflejan-ai-trend): You lie on your side, a hand rests on your cheek, warm light falls on your face, and the camera slowly moves in until your eyes fill the screen while the line plays. One photo in, an 8-second vertical clip with the trend's song out.
-- [İnşallah Maşallah AI Trend: Sing Neşe Karaböcek's Song on the Couch](https://www.makeviral.ai/templates/insallah-masallah-ai-trend): You sit on a light grey couch and sing the old Turkish love song straight to the camera: a hand on the heart, a big laugh with both hands on your head, a finger pointed at the camera and a kiss at the end. One photo of you, a grandparent or your pet, and the 15-second clip comes with the song.
-- [Ice Ice Baby Dance AI: Do the Viral Duo Dance With a Friend](https://www.makeviral.ai/templates/ice-ice-baby-dance-ai): Two dancers side by side, the same bouncy 90s steps, a spin on the beat and a strut to the camera. Add a photo of you and a friend, of you alone, or of your pet, and get the dance with the sound.
-- [Save Yourself Trend: Pull Yourself Up From the Cliff](https://www.makeviral.ai/templates/save-yourself-ai-trend): One photo plays both of you: the scared you clinging to a wet sea cliff, and the calm you who reaches down, pulls you up and holds you. Or use two photos: an older photo of you and a new one, or you and a friend. 15 seconds, vertical.
+- [Turning My Mom Into Me: Put Your Mom in Your Outfit With AI](https://www.makeviral.ai/templates/turning-my-mom-into-me-ai-trend): Your mom walks down the hallway in her own clothes, walks out, and struts back in wearing your outfit. Add one photo of her and one of you in your outfit, and get the viral reel with its caption and its sound. Dad works too.
+- [Giant Cat AI Video: Make Your Pet a Giant in New York](https://www.makeviral.ai/templates/giant-cat-ai-video): Your cat walks down a New York avenue as tall as the towers, peers into a car window and leans on a skyscraper while helicopters circle. Add one photo of your pet, or of yourself, and get the 10-second clip with the street sound.
+- [Stuffed Animal UFC AI Video: Your Plush Wins the Fight](https://www.makeviral.ai/templates/stuffed-animal-ufc-ai-video): Your teddy, your pet or a plush version of you steps into the cage, lands the body shots, gets the knockout and celebrates with both arms up. One photo in, a 10-second clip with crowd and commentary sound out. Or add two photos and fight a friend: one wins, one goes down.
+- [Black and White Cinematic Video: You in the Classic Suit Stroll](https://www.makeviral.ai/templates/black-and-white-cinematic-ai-video): One photo of you becomes a 15-second black and white film: you walk past the hedges in a long black coat, smile at the windows, wave and laugh on the stone steps, then pause under a black umbrella, to a slowed phonk beat.
+- [Düğün Dansı AI: Put Your Friends in the Wild Turkish Wedding Dance](https://www.makeviral.ai/templates/dugun-oyunu-ai-trend): Two dancers go wild around the davul player in a Turkish wedding hall, a halay line bounces behind them, and a guest in a white tank top laughs into the camera at the end. Add three photos, two for a duo, or one of your pet.
+- [Hippo Pathway What If: Become the 541 ft Giant Pop Star](https://www.makeviral.ai/templates/hippo-pathway-giant-pop-star-ai-trend): What if a pop star was 100 times taller? Add one photo: you or your pet become the giant who sings and dances down a city avenue at dusk, or the giant pop star shows up in a photo of your own street.
 
 ## Make your own AI Zombie Love Story video
 

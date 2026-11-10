@@ -3,7 +3,7 @@
 > I love the Smiths is the line from the 500 Days of Summer elevator scene: one person hears music leak from a coworker's headphones, says "I love the Smiths", says it again louder and walks out.
 
 Canonical: https://www.makeviral.ai/templates/i-love-the-smiths-ai-trend
-Updated: 2026-11-06
+Updated: 2026-11-09
 Published: 2026-11-06
 Author: MakeViral Team (https://www.makeviral.ai/about)
 Publisher: MakeViral (https://www.makeviral.ai)
@@ -12,11 +12,11 @@ Publisher: MakeViral (https://www.makeviral.ai)
 
 Add a photo of you and one of a friend, your crush or your pet. One of you wears big headphones, the other says "I love the Smiths", says it again louder and walks out, in a 15-second vertical video with the spoken lines.
 
-Also called: Tom and Summer elevator scene, I love X / Me Too meme, Elevator meet-cute meme.
+Also called: Tom and Summer elevator scene, 500 Days of Summer elevator AI trend, I love X / Me Too meme, Elevator meet-cute meme, I Love The Smiths split screen trend, Elevator Duet Transition.
 
 **Make it now:** [Make this video](https://www.makeviral.ai/templates/i-love-the-smiths-ai-trend/create). 2 photos · 15 s · 9:16 with sound · 189 credits, charged once · ready in a few minutes · no prompt to write.
 
-Keyword: i love the smiths. Also answers: i said i love the smiths, 500 days of summer elevator scene, i love the smiths movie, i love the smiths what i said i love the smiths, i love the smiths i said i love the smiths, i love the smiths scene, i love the smiths meme, i love the smiths ai, i love the smiths trend, 500 days of summer meme, i love the smiths elevator scene, i love the smiths ai video, i love the smiths 500 days of summer, 500 days of summer elevator, 500 days of summer elevator meme, i said i love the smiths meme, i said i love the smiths trend, i love the smiths tiktok, i love the smiths tiktok trend, i love the smiths meme template, i love the smiths meme generator, 500 days of summer meme generator, 500 days of summer meme template, i love the smiths me too meme, i love the smiths elevator, 500 days of summer ai, 500 days of summer ai trend, i love the smiths sorry, sorry i said i love the smiths, i love the smiths tiktok audio, i love the smiths tiktok sound, i love the smiths quote, i love the smiths line, 500 days of summer elevator song, 500 days of summer lift scene, i love the smiths headphones, what movie is i said i love the smiths from, i love the smiths template, i love the smiths video, i love the smiths dialogue, i love the smiths ai trend, i love the smiths gif.
+Keyword: i love the smiths. Also answers: i said i love the smiths, 500 days of summer elevator scene, i love the smiths movie, i love the smiths what i said i love the smiths, i love the smiths i said i love the smiths, i love the smiths scene, i love the smiths meme, i love the smiths ai, i love the smiths trend, 500 days of summer meme, i love the smiths elevator scene, i love the smiths ai video, i love the smiths 500 days of summer, 500 days of summer elevator, 500 days of summer elevator meme, i said i love the smiths meme, i said i love the smiths trend, i love the smiths tiktok, i love the smiths tiktok trend, i love the smiths meme template, i love the smiths meme generator, 500 days of summer meme generator, 500 days of summer meme template, i love the smiths me too meme, i love the smiths elevator, 500 days of summer ai, 500 days of summer ai trend, i love the smiths sorry, sorry i said i love the smiths, i love the smiths tiktok audio, i love the smiths tiktok sound, i love the smiths quote, i love the smiths line, 500 days of summer elevator song, 500 days of summer lift scene, i love the smiths headphones, what movie is i said i love the smiths from, i love the smiths template, i love the smiths video, i love the smiths dialogue, i love the smiths ai trend, i love the smiths gif, 500 days of summer elevator scene i love the smiths, i said i love the smiths movie name, i love the smiths movie scene, i love the smiths audio, i love the smiths song, 500 days of summer elevator scene song, 500 days of summer elevator dialogue, 500 days of summer elevator clip, 500 days of summer elevator scene meme, 500 days of summer tiktok trend, i said i love the smiths meaning, i said i love the smiths song, you have good taste in music 500 days of summer, i love the smiths scene ai, i love the smiths split screen, 500 days of summer character swap ai, i love the smiths elevator scene ai.
 
 ## What is the I Love The Smiths trend, and where did it start?
 
@@ -41,6 +41,9 @@ Made from the prompts on this page. The people and pets are AI-made, not real pe
   - Video: https://www.makeviral.ai/media/templates/i-love-the-smiths-ai-trend/example.mp4
   - Poster: https://www.makeviral.ai/media/templates/i-love-the-smiths-ai-trend/example-poster.jpg
   - Input photo: https://www.makeviral.ai/media/templates/i-love-the-smiths-ai-trend/example-input.jpg
+- **Example 2** (24 s, 9:16 MP4 with sound): Higgsfield's "Elevator Duet Transition" template clip: two AI-made people (not real people) play the whole I love the Smiths elevator scene with its sound, from "I love the Smiths" to the doors. The Full scene version copies it.
+  - Video: https://www.makeviral.ai/media/templates/i-love-the-smiths-ai-trend/original-scene-v2.mp4
+  - Poster: https://www.makeviral.ai/media/templates/i-love-the-smiths-ai-trend/original-scene-v1.jpg
 
 ## How to make the I Love The Smiths video on MakeViral
 
@@ -118,6 +121,35 @@ Only these two, nobody else in the elevator or in the hallway. No text, no subti
 
 One-tap version of this variant: https://www.makeviral.ai/templates/i-love-the-smiths-ai-trend/create?variant=couple
 
+#### Variant: Full scene
+
+Settings: 2 photos (the listener with headphones (stays in) + the one who says the line (walks out)) · Seedance 2.5 · 15 s · 720p · 9:16 · no sound · 228 credits in one tap.
+
+1. The video prompt is filled in. Settings: Seedance 2.5, 15 s, 720p, 9:16, sound off. The video prompt:
+
+   ```text
+   Recreate the reference video [Video 1] shot for shot: two people in a small office elevator with warm beige wood-paneled walls, the same camera positions, framing, cuts, timing, moves and mouth moves. The ONLY change: the two people are now the people in [Image 1] and [Image 2].
+
+STRICT SOURCE CAMERA AND ENVIRONMENT LOCK: Replace only the two actors. Preserve the elevator wall and door colors, materials, reflections, exposure and lighting of [Video 1] in EVERY shot. Keep the exact camera position, lens, framing, crop and subject screen size at every frame. No zooming, no reframing, no new camera movement. Preserve every original cut at its exact time.
+
+PERMANENT CAST: [Image 1] replaces ONLY the man on the LEFT with the headphones and the brown leather shoulder strap. [Image 2] replaces ONLY the woman on the RIGHT with the dark bangs. The person from [Image 2] walks out at the exact original moment. The final shot contains ONLY the person from [Image 1]; do not reinsert the other person.
+
+FULL REPLACEMENT: the person on the LEFT = the person in [Image 1], in EVERY shot: copy the exact face from [Image 1] (the face shape, eye color and eye shape, eyebrows, nose, mouth, skin tone, age, hair color, hair length and hairstyle, and any beard, moustache, glasses or freckles). The person on the RIGHT = the person in [Image 2], in EVERY shot: copy the exact face from [Image 2], with the same details. Rebuild entire heads and bodies, not just faces: NO black side-parted hair and NO moustache on the left person, NO dark bangs on the right person, unless their photo shows them. Both change: no one from [Video 1] stays, also in the wide shot. Never morph, never drift back to the faces in [Video 1], never blend the two faces.
+
+CLOTHING: each wears the clothes from their own photo, with no navy shirt on the left person and no cream cardigan on the right person unless their photo shows them. The left person keeps the over-ear headphones and the shoulder bag from [Video 1] as props.
+
+ACTION AND LIP SYNC: the exact poses, hand gestures, gaze, head turns, timing and walking of [Video 1]. The mouths move only on their own lines, in sync with [Video 1]:
+Shot 1 [0-4.7s]: the two-shot from the front. The right person, smiling: "I love the Smiths." The left person slides the headphones down: "Sorry?" The right person: "I said I love the Smiths."
+Shot 2 [4.7-11s]: hard cut, the same two-shot. The right person says "Yeah", faces forward and softly sings a short line with a smile, then: "I love them." The left person stares, stunned.
+Shot 3 [11-15s]: hard cut, a wide shot into the elevator: the doors slide open, the right person walks out, the left person stays alone inside, frozen, and mutters two words.
+
+SCENE: photorealistic live action, natural skin and hair, stable outfits and identities. No extra people, no swapped faces, no merged bodies, no extra limbs. No other dialogue. No background music. No text, no captions, no logos, no watermark.
+   ```
+
+2. Press Generate, then download the 9:16 MP4.
+
+One-tap version of this variant: https://www.makeviral.ai/templates/i-love-the-smiths-ai-trend/create?variant=scene
+
 #### Variant: You + your pet
 
 Settings: 2 photos (your pet, with the headphones (stays in) + you, who say the line (walk out)) · Seedance 2.5 · 15 s · 720p · 9:16 · with sound · 189 credits in one tap.
@@ -151,7 +183,7 @@ One-tap version of this variant: https://www.makeviral.ai/templates/i-love-the-s
 
 ### Which photo works best?
 
-Use **two photos**, one person or pet in each. All three versions use the same order.
+Use **two photos**, one person or pet in each. All four versions use the same order.
 
 - **Photo 1 is the listener**: the one with the headphones, who stands on the left, does not hear the first line and stays in the elevator at the end. In the pet version, this is your pet.
 - **Photo 2 is the one who speaks**: they stand on the right, say "I love the Smiths" twice and walk out.
@@ -170,14 +202,15 @@ You pay per video in credits, and the create page shows the exact price on the G
 
 Credits come with a plan; see [pricing](https://www.makeviral.ai/pricing). A failed video gives its credits back.
 
-## Three versions: two people, a couple, or you and your pet
+## Four versions: two people, a couple, the full scene, or you and your pet
 
-Pick the version on the create page. Each one makes a 15-second vertical video of the I love the Smiths elevator scene from the same two photos.
+Pick the version on the create page. Three of them make a 15-second vertical video of the I love the Smiths elevator scene from the same two photos; Full scene copies the scene itself.
 
 | Version | What happens |
 |---|---|
 | **Two people** | You and a friend or a coworker. Photo 1 wears the headphones; photo 2 says "I love the Smiths", then "I said I love the Smiths", hums a little and walks out. Photo 1 stays behind, stunned: "Wow." |
 | **Couple** | The meet-cute version for you and your partner or crush. Photo 2 leans in with a flirty smile, looks back with a little wave on the way out, and photo 1 is left with a slow, smitten grin. |
+| **Full scene** | The I love the Smiths movie scene shot for shot, wide 16:9: the same two-shot, the looks, the sung line, the doors and the stunned last shot, with the scene's own audio (the two voices and the song), like the 500 Days of Summer elevator AI trend clips on TikTok. |
 | **You + your pet** | Your pet sits on a little bench with tiny headphones on and tilts its head at the first line. You say the line, walk out, and leave your pet staring at the doors. |
 
 The video is made straight from your two photos by top-quality AI video models, with no in-between picture, so both faces stay close to the photos. The exact price shows on the Generate button before you spend anything, and the video waits in My videos when it is ready.
@@ -197,7 +230,7 @@ Online the line is quoted in a few ways: "I love the Smiths. I said I love the S
 
 ## Sound, captions and hashtags
 
-Your video has the spoken lines, the elevator hum, a faint tune from the headphones, the bell and the doors. **The Smiths song itself is not on the video**, and neither is the film's audio. On TikTok, add the trend's sound when you post if you want the song: search the I love the Smiths TikTok audio, the clip of the scene that most posts use.
+Your video has the spoken lines, the elevator hum, a faint tune from the headphones, the bell and the doors. **The Smiths song itself is not on the video**, and neither is the film's audio, except in the Full scene version, which carries the scene's own sound. On TikTok, add the trend's sound when you post if you want the song: search the I love the Smiths TikTok audio, the clip of the scene that most posts use.
 
 Caption ideas: "I said I love the Smiths", "when someone finally gets your music taste", or a me too meme twist: "I love [your thing]." "Me too."
 
@@ -235,11 +268,11 @@ Yes, for the video version. It works as an AI I love the Smiths meme template an
 
 ### Is the film clip or the actors in my video?
 
-No. Your video is a new AI scene in a similar wood-paneled elevator, with your two faces and your clothes. Nothing from the film is used: not the footage, not the actors and not the audio.
+No. Your video is a new AI scene in a similar wood-paneled elevator, with your two faces and your clothes. Nothing from the film is used: not the footage, not the actors and not the audio. The one exception is the Full scene version: it puts the scene's own sound back on your video, the same audio the TikTok trend uses.
 
 ### Does the video have the Smiths song?
 
-No. It has the spoken lines, the elevator sounds and a faint original tune from the headphones. To use the song, add the trend's sound in TikTok when you post. The 500 Days of Summer elevator song is "There Is a Light That Never Goes Out".
+Not in Two people, Couple or You + your pet: they have the spoken lines, the elevator sounds and a faint original tune from the headphones. Full scene has the scene's own audio with the song. To use the song, add the trend's sound in TikTok when you post. The 500 Days of Summer elevator song is "There Is a Light That Never Goes Out".
 
 ### Who says the line, photo 1 or photo 2?
 
@@ -263,7 +296,11 @@ They are the same: "lift" is the British word. People search the 500 Days of Sum
 
 ### How long is the video?
 
-15 seconds, vertical 9:16, at 720p. It is a short version of the scene, which runs about 25 seconds in the film: the lines, the exit and the stunned look are all there.
+15 seconds at 720p: vertical 9:16, or wide 16:9 in Full scene. It is a short version of the scene, which runs about 25 seconds in the film: the lines, the exit and the stunned look are all there.
+
+### What is the Full scene version, the one like the I love the Smiths split screen clips?
+
+It is the 500 Days of Summer character swap AI clip: your two photos take the places of the two people in the whole elevator scene, shot for shot, wide 16:9, 15 seconds, with the scene's I love the Smiths audio, the song and the dialogue ("I love the Smiths." "Sorry?" "I said I love the Smiths."). It copies Higgsfield's Elevator Duet Transition clip of two AI-made people. In November 2026 the I love the Smiths scene AI trend took off on TikTok: a how-to by @zora.pansy_win on 7 November reached 1.4 million views, and many posts stack two takes as a split screen. Photo 1 keeps the headphones and stays in; photo 2 says the line and walks out.
 
 ### Does it cost credits?
 
@@ -284,12 +321,12 @@ Yes. MakeViral does not post your photos or the result anywhere or show them to 
 
 ## New AI video trends this week
 
-- [Christmas Dance AI: Do the New TikTok Christmas Dance From Your Photos](https://www.makeviral.ai/templates/christmas-dance-ai-trend): Hip sways with the hands at the collar, rolling arms, a quick spin and raised fists, side by side in matching Christmas pajamas. Add two photos for the duo, one for a solo take, or two pets, and get the dance with the sound.
-- [Cat on Ultra Bee AI: Put Your Pet on the Wheelie](https://www.makeviral.ai/templates/cat-on-ultra-bee-ai-trend): Add one photo, and your cat or dog stands on an electric dirt bike and holds a long wheelie down a city road at golden hour, in the same shots as the viral clip, with its original sound. You can take the ride yourself, too.
-- [Tus Ojos Me Reflejan el Sentimiento: The Cafuné Eye Close-Up Trend](https://www.makeviral.ai/templates/tus-ojos-me-reflejan-ai-trend): You lie on your side, a hand rests on your cheek, warm light falls on your face, and the camera slowly moves in until your eyes fill the screen while the line plays. One photo in, an 8-second vertical clip with the trend's song out.
-- [İnşallah Maşallah AI Trend: Sing Neşe Karaböcek's Song on the Couch](https://www.makeviral.ai/templates/insallah-masallah-ai-trend): You sit on a light grey couch and sing the old Turkish love song straight to the camera: a hand on the heart, a big laugh with both hands on your head, a finger pointed at the camera and a kiss at the end. One photo of you, a grandparent or your pet, and the 15-second clip comes with the song.
-- [Ice Ice Baby Dance AI: Do the Viral Duo Dance With a Friend](https://www.makeviral.ai/templates/ice-ice-baby-dance-ai): Two dancers side by side, the same bouncy 90s steps, a spin on the beat and a strut to the camera. Add a photo of you and a friend, of you alone, or of your pet, and get the dance with the sound.
-- [Save Yourself Trend: Pull Yourself Up From the Cliff](https://www.makeviral.ai/templates/save-yourself-ai-trend): One photo plays both of you: the scared you clinging to a wet sea cliff, and the calm you who reaches down, pulls you up and holds you. Or use two photos: an older photo of you and a new one, or you and a friend. 15 seconds, vertical.
+- [Turning My Mom Into Me: Put Your Mom in Your Outfit With AI](https://www.makeviral.ai/templates/turning-my-mom-into-me-ai-trend): Your mom walks down the hallway in her own clothes, walks out, and struts back in wearing your outfit. Add one photo of her and one of you in your outfit, and get the viral reel with its caption and its sound. Dad works too.
+- [Giant Cat AI Video: Make Your Pet a Giant in New York](https://www.makeviral.ai/templates/giant-cat-ai-video): Your cat walks down a New York avenue as tall as the towers, peers into a car window and leans on a skyscraper while helicopters circle. Add one photo of your pet, or of yourself, and get the 10-second clip with the street sound.
+- [Stuffed Animal UFC AI Video: Your Plush Wins the Fight](https://www.makeviral.ai/templates/stuffed-animal-ufc-ai-video): Your teddy, your pet or a plush version of you steps into the cage, lands the body shots, gets the knockout and celebrates with both arms up. One photo in, a 10-second clip with crowd and commentary sound out. Or add two photos and fight a friend: one wins, one goes down.
+- [Black and White Cinematic Video: You in the Classic Suit Stroll](https://www.makeviral.ai/templates/black-and-white-cinematic-ai-video): One photo of you becomes a 15-second black and white film: you walk past the hedges in a long black coat, smile at the windows, wave and laugh on the stone steps, then pause under a black umbrella, to a slowed phonk beat.
+- [Düğün Dansı AI: Put Your Friends in the Wild Turkish Wedding Dance](https://www.makeviral.ai/templates/dugun-oyunu-ai-trend): Two dancers go wild around the davul player in a Turkish wedding hall, a halay line bounces behind them, and a guest in a white tank top laughs into the camera at the end. Add three photos, two for a duo, or one of your pet.
+- [Hippo Pathway What If: Become the 541 ft Giant Pop Star](https://www.makeviral.ai/templates/hippo-pathway-giant-pop-star-ai-trend): What if a pop star was 100 times taller? Add one photo: you or your pet become the giant who sings and dances down a city avenue at dusk, or the giant pop star shows up in a photo of your own street.
 
 ## Make your own I Love The Smiths video
 

@@ -1,0 +1,95 @@
+# Christmas Princess AI: Step Out of the Carriage in a Red Gown
+
+- Source: [makeviral](https://www.makeviral.ai/templates/christmas-princess-carriage-ai-trend)
+- Slug: `christmas-princess-carriage-ai-trend`
+
+The Christmas princess trend, also called the Christmas princess carriage or princesa navideña trend, turns one selfie into a short AI video: you step out of an illuminated carriage at night in a red satin gown with gold embroidery, long white gloves and a tiara, then spin in the snow.
+
+## Demo videos (CDN)
+
+- https://www.makeviral.ai/media/templates/christmas-princess-carriage-ai-trend/original-main-v2.mp4
+
+## Posters
+
+- https://www.makeviral.ai/media/templates/christmas-princess-carriage-ai-trend/original-main-v1.jpg
+
+## Prompts
+
+### 1. 1. The video prompt is filled in. Settings: Seedance 2.5, 10 s, 720p, 9:16, sound off. The video prompt
+
+*Kind: video_prompt*
+
+```text
+Recreate the reference video [Video 1] shot for shot: a Christmas scene with lights and snow at night: an illuminated crystal carriage with gold trim, garlands with red roses, warm string lights, a lantern, snow on the ground and soft falling snowflakes, the same camera moves, cuts, timing and moves. The ONLY change: the woman in the gown, in both takes, is now the person in [Image 1].
+
+The princess = the person in [Image 1], in EVERY shot of both takes: copy the exact face from [Image 1] - face shape, eye color and eye shape, eyebrows, nose, mouth, skin tone, age, hair color, hair length and hairstyle, and any beard, moustache, glasses or freckles exactly as in the photo. The same real person in every frame, from the first second to the last, so their friends instantly recognize them, also while she turns and spins. Never morph, never drift back to the original women's faces. NO long blue hair and not the long dark wavy hair of the second take, unless [Image 1] shows it: the hair is the hair of [Image 1], with the crown or tiara on top.
+
+THE LOOK, the same in every shot: an elegant red satin dress with gold embroidery, a Christmas queen with a tiara, long gloves and an illuminated carriage at night. A red satin off-shoulder ball gown with a full skirt and a fitted bodice embroidered in gold, long white satin opera gloves, a sparkling crown or tiara, a diamond necklace, jeweled red high heels. The person wears ONLY this look, never the clothes from [Image 1].
+
+The shots of [Video 1], in the same order and timing:
+00:00-00:02.4: low close-up of the feet: a jeweled high heel steps down from the carriage step onto the snow, the gown hem lifted.
+00:02.4-00:03.6: the camera rises along the satin skirt as it sways.
+00:03.6-00:05.0: medium shot from behind, the crown on the head, she turns.
+00:05.0-00:05.8: she faces the camera, then a fast motion blur.
+00:05.8-00:06.9: close-up, a jeweled heel steps onto the snow.
+00:06.9-00:08.0: the camera rises along the gown to the bodice.
+00:08.0-00:08.9: chest-up shot of the face, the tiara and the necklace, a soft smile at the camera.
+00:08.9-00:10.4: wide shot in front of the lit carriage: she spins once, the skirt flares, and she ends facing the camera.
+
+Real live-action footage, cinematic, clear facial features, no distortion. No dialogue throughout the entire video. No background music.
+
+Anatomy rules: one head only, on the princess's shoulders. A face never appears on the gown, the hands or the carriage. Two arms, two hands in gloves, two legs and two feet. Exactly one person in every shot. No text, no captions, no logos, no watermark, no sparkle icon.
+```
+
+### 2. 1. The video prompt is filled in. Settings: Seedance 2.5, 10 s, 720p, 9:16, sound off. The video prompt
+
+*Kind: video_prompt*
+
+```text
+Recreate the reference video [Video 1] shot for shot: a Christmas scene with lights and snow at night: an illuminated crystal carriage with gold trim, garlands with red roses, warm string lights, a lantern, snow on the ground and soft falling snowflakes, the same camera moves, cuts, timing and moves. The ONLY change: the woman in the gown, in both takes, is now the person in [Image 1] as a Christmas prince.
+
+The prince = the person in [Image 1], in EVERY shot of both takes: copy the exact face from [Image 1] - face shape, eye color and eye shape, eyebrows, nose, mouth, skin tone, age, hair color, hair length and hairstyle, and any beard, moustache, glasses or freckles exactly as in the photo. The same real person in every frame, from the first second to the last, so their friends instantly recognize them, also while turning. Never morph, never drift back to the original women's faces, never long hair unless [Image 1] shows it.
+
+THE LOOK, the same in every shot: an elegant red satin prince's tailcoat with gold embroidery on the chest, the cuffs and the collar, gold buttons, a white shirt, white gloves, dark tailored trousers, polished black leather boots and a slim gold crown, a Christmas king with a crown and gloves before an illuminated carriage at night. NO gown, NO dress, NO skirt, NO high heels, NO necklace. Never the clothes from [Image 1].
+
+The shots of [Video 1], in the same order and timing:
+00:00-00:02.4: low close-up of the feet: a polished black boot steps down from the carriage step onto the snow, the coat tails swinging.
+00:02.4-00:03.6: the camera rises along the red coat and the trousers.
+00:03.6-00:05.0: medium shot from behind, the crown on the head, he turns.
+00:05.0-00:05.8: he faces the camera, then a fast motion blur.
+00:05.8-00:06.9: close-up, a black boot steps onto the snow.
+00:06.9-00:08.0: the camera rises along the coat to the gold embroidery on the chest.
+00:08.0-00:08.9: chest-up shot of the face, the crown, a soft smile at the camera.
+00:08.9-00:10.4: wide shot in front of the lit carriage: he turns once on the spot, the coat tails swing out, and he ends facing the camera.
+
+Real live-action footage, cinematic, clear facial features, no distortion. No dialogue throughout the entire video. No background music.
+
+Anatomy rules: one head only, on the prince's shoulders. Two arms, two hands in gloves, two legs and two boots. Exactly one person in every shot. No text, no captions, no logos, no watermark, no sparkle icon.
+```
+
+### 3. 1. The video prompt is filled in. Settings: Seedance 2.5, 10 s, 720p, 9:16, sound off. The video prompt (Pet)
+
+*Kind: video_prompt*
+
+```text
+Recreate the reference video [Video 1] shot for shot: a Christmas scene with lights and snow at night: an illuminated crystal carriage with gold trim, garlands with red roses, warm string lights, a lantern, snow on the ground and soft falling snowflakes, the same camera moves, cuts, timing and moves. The ONLY change: the woman in the gown, in both takes, is now the pet in [Image 1], standing upright on its hind legs like a little princess.
+
+The pet = the pet in [Image 1], in EVERY shot of both takes: the same species and breed, face, eyes, ears, muzzle, fur colors, fur length and markings as in [Image 1], with the natural body volume and proportions of that animal: never flattened, squashed, stretched or merged with anything. Whether [Image 1] shows a dog, a cat or another animal, it stays that animal, with its own animal head, never a human face, no human hair. The same pet in every frame, so its owner instantly recognizes it.
+
+THE LOOK: an elegant red satin dress with gold embroidery, a Christmas queen with a tiara, long gloves and an illuminated carriage at night. The pet wears a red satin ball gown sized to its own body, with a full skirt and a bodice embroidered in gold, a small sparkling tiara between its own ears and a diamond necklace. Its front legs end in its own furry paws (no gloves needed), and in the close-ups of the feet its own furry hind paws step down onto the snow, never human legs, never high heels.
+
+The shots of [Video 1], in the same order and timing:
+00:00-00:02.4: low close-up of the feet: a furry hind paw steps down from the carriage step onto the snow, the gown hem lifted.
+00:02.4-00:03.6: the camera rises along the satin skirt as it sways.
+00:03.6-00:05.0: medium shot from behind, the crown on the head, she turns.
+00:05.0-00:05.8: she faces the camera, then a fast motion blur.
+00:05.8-00:06.9: close-up, a furry paw steps onto the snow.
+00:06.9-00:08.0: the camera rises along the gown to the bodice.
+00:08.0-00:08.9: chest-up shot of the pet's own face, the tiara and the necklace, a calm proud look at the camera.
+00:08.9-00:10.4: wide shot in front of the lit carriage: she spins once, the skirt flares, and she ends facing the camera.
+
+No dialogue throughout the entire video. No background music.
+
+Anatomy rules: one head only, one muzzle. Animal paws, never human hands or feet. No people, no extra animals. No text, no captions, no logos, no watermark, no sparkle icon.
+```
+

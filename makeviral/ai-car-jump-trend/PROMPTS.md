@@ -7,11 +7,13 @@ The car jump AI video is the "unbothered" trend: you sit calm in a folding camp 
 
 ## Demo videos (CDN)
 
+- https://www.makeviral.ai/media/templates/ai-car-jump-trend/example-desert-v1.mp4
 - https://www.makeviral.ai/media/templates/ai-car-jump-trend/original-main-v2.mp4
 - https://www.makeviral.ai/media/templates/ai-car-jump-trend/original-sheep-v2.mp4
 
 ## Posters
 
+- https://www.makeviral.ai/media/templates/ai-car-jump-trend/example-desert-v1.jpg
 - https://www.makeviral.ai/media/templates/ai-car-jump-trend/original-main-v1.jpg
 - https://www.makeviral.ai/media/templates/ai-car-jump-trend/original-sheep-v1.jpg
 
@@ -86,5 +88,25 @@ The moves, second by second:
 9-12 s: the herd streams past both sides of the chair in thick dust; the person stays seated, unbothered.
 
 No dialogue throughout the entire video. No background music. Anatomy rules: one head only, on the person's own shoulders. Two arms and two hands. No sheep touches the person or has a human face. Only sheep in the herd, no cows or goats. No text, no logos, no watermark, no extra people.
+```
+
+### 4. 1. The video prompt is filled in. Settings: Seedance 2.5, 11 s, 720p, 9:16, sound off. The video prompt
+
+*Kind: video_prompt*
+
+```text
+Recreate the reference video [Video 1] shot for shot: the desert car jump, with the same camera angles, cuts, timing, framing, light and dust. The ONLY changes: the woman in the black camp chair is now the person in [Image 1], and the black pickup is now the vehicle from [Image 2].
+
+A cinematic, ultra-realistic desert scene at golden hour. The person from [Image 1] is seated calmly in the chair facing the camera. In the distance behind them, the vehicle from [Image 2] accelerates toward them at full speed, kicking up an enormous cloud of desert dust. The vehicle launches completely over a large sand dune, suspended dramatically in midair, then comes crashing down directly toward the seated person and rapidly brakes to a full stop just before making contact, creating a huge wave of sand and dust around them. The person remains unharmed and motionless, creating an intense near-collision moment. Dynamic low-angle camera, realistic vehicle suspension and tire movement, flying sand particles, dramatic sunlight, cinematic motion blur, high contrast, epic action-movie atmosphere, photorealistic, highly detailed, wide-angle composition.
+
+The person = the person in [Image 1], in EVERY shot: copy the exact face from [Image 1]: face shape, eye color and eye shape, eyebrows, nose, mouth, skin tone, age, hair color, hair length and hairstyle, and any beard, moustache or glasses exactly as in the photo, and the clothes from [Image 1]. NO sunglasses, no black jacket and no long blonde hair from the video unless [Image 1] shows them. Never drift back to the woman in the video. If [Image 1] shows an animal, that animal sits upright in the chair instead.
+The vehicle = the vehicle from [Image 2], in EVERY shot: its body shape, number of wheels and axles, color, wheels, roof rack and lights as in [Image 2], whatever kind of vehicle it is. Never the black pickup from the video. No badges, no lettering and no readable number plate on it.
+
+1. 0 to 3.7 s: the person sits calm in the black folding camp chair on the dry desert plain, legs crossed, facing the camera, and raises one hand.
+2. 3.7 to 8.7 s: behind the chair, the vehicle launches over the sand dune, hangs in the air in slow motion and comes crashing down.
+3. 8.7 to 10.2 s: it rushes toward the chair and brakes hard in a wave of sand and dust.
+4. 10.2 s to the end: close, the vehicle stands right at the person's back; the person never turns around.
+
+One person only, one head. No text, no captions, no watermark, no logos. No dialogue throughout the entire video. No background music.
 ```
 

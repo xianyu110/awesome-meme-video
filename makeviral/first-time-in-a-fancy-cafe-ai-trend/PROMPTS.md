@@ -8,10 +8,12 @@ First time in a fancy cafe is the viral POV: Your first time in a fancy cafe cli
 ## Demo videos (CDN)
 
 - https://www.makeviral.ai/media/templates/first-time-in-a-fancy-cafe-ai-trend/original-lee-v2.mp4
+- https://www.makeviral.ai/media/templates/first-time-in-a-fancy-cafe-ai-trend/original-rupert-v2.mp4
 
 ## Posters
 
 - https://www.makeviral.ai/media/templates/first-time-in-a-fancy-cafe-ai-trend/original-lee-v1.jpg
+- https://www.makeviral.ai/media/templates/first-time-in-a-fancy-cafe-ai-trend/original-rupert-v1.jpg
 
 ## Prompts
 
@@ -87,5 +89,61 @@ The action, matching [Video 1] second by second, one continuous shot with no cut
 Real live-action footage, natural light. No dialogue throughout the entire video. No background music.
 
 Anatomy rules: one head only on the pet, one muzzle, four legs, animal paws, never human hands. One head per person. Exactly one pet and one woman. No extra animals or people, no other text, no logos, no watermark.
+```
+
+### 4. 1. The video prompt is filled in. Settings: Seedance 2.5, 15 s, 720p, 9:16, sound off. The video prompt
+
+*Kind: video_prompt*
+
+```text
+Recreate the reference video [Video 1] shot for shot: the same bare grey concrete cafe, the same low concrete ledge along the wall with the small round steel tables on curved steel posts, the same soft daylight, the same fixed camera, framing, timing and moves, and the same white caption "POV: your second time at a fancy cafe" at the top for the first 4 seconds, exactly as in the video. The ONLY change: the man in the cream suit who sits the right way on the ledge on the left is now the person in [Image 1].
+
+[Image 1] defines CHARACTER_1. Use its complete identity, face, true body proportions, hair, clothing and accessories, consistent throughout.
+
+REPLACE ONE SOURCE PERSON ONLY. TARGET_A: the man visible from the start, seated on the ledge on the left in a cream suit and sunglasses, holding a takeaway coffee. [Image 1] replaces the man: CHARACTER_1 throughout, with the exact face from [Image 1] - face shape, eye color and eye shape, eyebrows, nose, mouth, skin tone, age, hair color, hair length and hairstyle, and any beard, moustache, glasses or freckles exactly as in the photo. NO sunglasses, NO cream suit and NO short dark hair unless [Image 1] shows them. If [Image 1] shows an animal, that animal takes his place with its own face, fur and body. TARGET_B: the woman in the long dark coat with a black handbag stays exactly as in the video, her back to the camera. No swapping, merging, or duplication.
+
+FULL APPEARANCE REPLACEMENT: Erase the original man's face, hair, skin, physique and clothing. Never retain or blend his features, also during turns, occlusion and distant views. The same real person in every frame, so their friends instantly recognize them. Never morph, never drift back to the original man's face.
+
+EXACT ACTION AND INTERACTION LOCK: Preserve all original timing, poses, gaze, and motion paths, one continuous shot:
+0-4.5 s: CHARACTER_1 sits the right way on the ledge beside the small round table, coffee in hand. The woman walks in from the right, back to the camera, to the table on the right.
+4.5-5.5 s: she climbs up and sits on top of the table on the right, facing the wall.
+5.5-7.5 s: CHARACTER_1, cup on the table beside him, looks over at her, unsure.
+7.5-9.5 s: he stands up with his cup, turns to the wall and steps up onto the ledge.
+9.5-11 s: he climbs up and sits on top of his own table, facing the wall, just like her.
+11-15 s: both sit on top of the tables facing the wall; he sips his coffee as if this is how it is done.
+
+DUAL COFFEE LOCK: Each keeps their own takeaway cup with the original grips and paths. No floating, swapping or extra cups. Preserve the woman's handbag.
+
+BACKGROUND LOCK: Preserve the concrete wall, mounted small round tables, metal supports, floor, the caption, lighting, camera position and portrait framing unchanged. Preserve original duration and pacing. Real live-action footage, clear faces, natural light. No dialogue throughout the entire video. No background music.
+
+No new people, no cuts, no flicker. One head per person; a face never appears on hands, legs or clothes. Five fingers on each hand. Exactly two characters. No other text, no logos, no watermark.
+```
+
+### 5. 1. The video prompt is filled in. Settings: Seedance 2.5, 15 s, 720p, 9:16, sound off. The video prompt (Pet)
+
+*Kind: video_prompt*
+
+```text
+Recreate the reference video [Video 1] shot for shot: the same bare grey concrete cafe, the same low concrete ledge along the wall with the small round steel tables on curved steel posts, the same soft daylight, the same fixed camera, framing, timing and moves, and the same white caption "POV: your second time at a fancy cafe" at the top for the first 4 seconds, exactly as in the video. The ONLY change: the man in the cream suit who sits the right way on the ledge on the left is now the pet in [Image 1].
+
+[Image 1] defines CHARACTER_1, a pet. Use its complete identity, face and true body proportions, consistent throughout.
+
+REPLACE ONE SOURCE PERSON ONLY. TARGET_A: the man visible from the start, seated on the ledge on the left in a cream suit and sunglasses, holding a takeaway coffee. [Image 1] replaces the man: CHARACTER_1 = the pet in [Image 1], whole body, in EVERY frame: the same species and breed, face, eyes, ears, muzzle, fur colors, fur length and markings as in [Image 1], with the natural body volume and proportions of that animal: never flattened, squashed, stretched or merged with anything, so its owner instantly recognizes it. It sits upright like a person. No clothes, no sunglasses, no human hands: animal paws only. TARGET_B: the woman in the long dark coat with a black handbag stays exactly as in the video, her back to the camera.
+
+FULL APPEARANCE REPLACEMENT: Erase the original man. Never retain or blend his face, hair, suit or body, also during turns and distant views.
+
+EXACT ACTION AND INTERACTION LOCK: Preserve all original timing, gaze, and motion paths, one continuous shot:
+0-4.5 s: the pet sits upright the right way on the ledge beside the small round table, the paper cup in its front paws. The woman walks in from the right, back to the camera, to the table on the right.
+4.5-5.5 s: she climbs up and sits on top of the table on the right, facing the wall.
+5.5-7.5 s: the pet, its cup on the table beside it, turns its head to look at her, ears up.
+7.5-9.5 s: it gets up and hops onto the ledge, facing the wall.
+9.5-11 s: it jumps up and sits on top of its own table, facing the wall, just like her.
+11-15 s: both sit on top of the tables facing the wall, the pet upright and proud.
+
+COFFEE LOCK: the woman keeps her own cup. No floating or extra cups. Preserve her handbag.
+
+BACKGROUND LOCK: Preserve the concrete wall, mounted small round tables, metal supports, floor, the caption, lighting, camera position and portrait framing unchanged. Preserve original duration and pacing. Real live-action footage, natural light. No dialogue throughout the entire video. No background music.
+
+No new people, no cuts, no flicker. One head only on the pet, four legs, animal paws, never human hands. Exactly one pet and one woman. No other text, no logos, no watermark.
 ```
 

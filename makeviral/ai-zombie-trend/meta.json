@@ -6,14 +6,16 @@
   "url": "https://www.makeviral.ai/templates/ai-zombie-trend",
   "markdown_url": "https://www.makeviral.ai/templates/ai-zombie-trend.md",
   "blurb": "The AI zombie trend is a short love story: your partner or pet has turned into a zombie, you aim a pistol through tears, lower it and hug them anyway, then the clip cuts to a happy memory of you both.",
-  "updated": "2026-10-13",
+  "updated": "2026-11-09",
   "published": "2026-10-08",
   "credits": 126,
   "demo_videos": [
+    "https://www.makeviral.ai/media/templates/ai-zombie-trend/example-cinematic-v2.mp4",
     "https://www.makeviral.ai/media/templates/ai-zombie-trend/example-pet.mp4",
     "https://www.makeviral.ai/media/templates/ai-zombie-trend/example.mp4"
   ],
   "posters": [
+    "https://www.makeviral.ai/media/templates/ai-zombie-trend/example-cinematic-v2.jpg",
     "https://www.makeviral.ai/media/templates/ai-zombie-trend/example-input.jpg",
     "https://www.makeviral.ai/media/templates/ai-zombie-trend/example-pet-input.jpg",
     "https://www.makeviral.ai/media/templates/ai-zombie-trend/example-pet-poster.jpg",
@@ -37,6 +39,12 @@
       "variant": null,
       "kind": "video_prompt",
       "text": "A cinematic, emotional scene from a zombie apocalypse film, in two shots. Keep the person's face, hair and clothes and the pet's breed, fur color and face exactly as in the image. Shot 1: in the dim abandoned kitchen, the survivor holds the baseball bat raised with shaking hands, with tears in the eyes. The zombie pet in the doorway stops, tilts its head and looks at the survivor as if it remembers them, and its tail moves once. The survivor slowly lowers the bat, lets it drop to the floor, kneels down and opens their arms. The pet limps forward into their arms, and the survivor hugs it tightly with quiet tears, eyes open, the face still visible to the camera. Shot 2, a hard cut for the last seconds: a sunny green backyard at golden hour, the same person and the same pet, healthy again with clean, shiny fur; the pet runs into the person's arms, wags its tail and licks their face while the person laughs. Audio: an original slow, sad piano melody with soft strings and quiet breathing that turns warm and hopeful at the cut. No dialogue, no lyrics, no blood, no gore, no text, no logos."
+    },
+    {
+      "label": "1. The video prompt is filled in. Settings: Seedance 2.5, 15 s, 720p, 9:16, sound off. The video prompt",
+      "variant": null,
+      "kind": "video_prompt",
+      "text": "Recreate the reference video [Video 1] shot for shot: a cinematic zombie love story in letterbox film framing, with the black bars above and below, the same camera angles, cuts, timing, light, color grade and film grain. The ONLY change: the crying survivor with the pistol is now the person in [Image 1], and the infected woman in the dark house and the healthy woman in the golden-field memory are both the person in [Image 2]. Both change: no one from the video stays, also in the wide shots and when only the back of a head shows.\n\nSurvivor = the person in [Image 1], in EVERY shot: copy the exact face from [Image 1]: face shape, eye color and eye shape, eyebrows, nose, mouth, skin tone, age, hair color, hair length and hairstyle, and any beard, moustache, glasses or freckles exactly as in the photo. Facial hair comes only from [Image 1]: NO full beard from the video unless [Image 1] shows one. In the dark house the survivor wears the video's olive-green hooded parka with the high collar, black harness straps and chest pouch; in the memory shots, the video's light clothes.\n\nPartner = the person in [Image 2], in EVERY shot: the same face shape, eye shape, eyebrows, nose, mouth, skin tone, age, hair color, hair length and hairstyle as in [Image 2]. In the dark house only: an early-stage infection, not a fully turned zombie: pale grey skin with light dirt specks and grime, pale clouded eyes, a torn and dirty grey t-shirt with holes, loose grey trousers, the same face structure as [Image 2]. In the memory shots: healthy and clean, with the exact face of [Image 2] and the video's light clothes.\n\nThe same two real people in every frame. Never morph, never drift back to the original actors' faces. Never put the healthy face on the infected body or the infected skin on the memory partner. One head per body.\n\n1. 0 to 1.7 s: close-up of the survivor aiming the pistol with both hands, crying, wet tear tracks.\n2. 1.7 to 3.1 s: over the survivor's shoulder, the infected partner stands in the doorway of the dim house.\n3. 3.1 to 4.1 s: wide shot, the survivor aims by the bright window.\n4. 4.1 to 5.2 s: close-up of the infected partner snarling, with the feral twitch of the video.\n5. 5.2 to 6.5 s: close-up of the survivor crying.\n6. 6.5 to 9.6 s: wide shot, the survivor lowers the gun and opens both arms.\n7. 9.6 to 10.7 s: close-up of the survivor, eyes closed, tears.\n8. 10.7 to 12.2 s: hard cut to warm golden light: the two roll in tall grass in a sunny field.\n9. 12.2 to 14.5 s: close-up of the partner laughing, the survivor's hand on the partner's cheek.\n10. 14.5 to 15 s: close-up of the survivor smiling in the grass.\n\nNo shot is fired. No blood, no gore. No text, no captions, no watermark. No dialogue throughout the entire video. No background music."
     }
   ],
   "variant_headings": [
@@ -52,6 +60,6 @@
     "New AI video trends this week",
     "Make your own AI Zombie Love Story video"
   ],
-  "prompt_count": 3,
-  "scraped_at": "2026-11-08"
+  "prompt_count": 4,
+  "scraped_at": "2026-11-10"
 }

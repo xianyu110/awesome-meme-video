@@ -8,11 +8,13 @@ I love the Smiths is the line from the 500 Days of Summer elevator scene: one pe
 ## Demo videos (CDN)
 
 - https://www.makeviral.ai/media/templates/i-love-the-smiths-ai-trend/example.mp4
+- https://www.makeviral.ai/media/templates/i-love-the-smiths-ai-trend/original-scene-v2.mp4
 
 ## Posters
 
 - https://www.makeviral.ai/media/templates/i-love-the-smiths-ai-trend/example-input.jpg
 - https://www.makeviral.ai/media/templates/i-love-the-smiths-ai-trend/example-poster.jpg
+- https://www.makeviral.ai/media/templates/i-love-the-smiths-ai-trend/original-scene-v1.jpg
 
 ## Prompts
 
@@ -66,7 +68,30 @@ Audio: the elevator hum, faint tinny guitar music from the headphones (an origin
 Only these two, nobody else in the elevator or in the hallway. No text, no subtitles, no logos, no brand names, no watermark. No other music, no famous melody, no lyrics.
 ```
 
-### 3. 1. The video prompt is filled in. Settings: Seedance 2.5, 15 s, 720p, 9:16, sound on. The video prompt
+### 3. 1. The video prompt is filled in. Settings: Seedance 2.5, 15 s, 720p, 9:16, sound off. The video prompt
+
+*Kind: video_prompt*
+
+```text
+Recreate the reference video [Video 1] shot for shot: two people in a small office elevator with warm beige wood-paneled walls, the same camera positions, framing, cuts, timing, moves and mouth moves. The ONLY change: the two people are now the people in [Image 1] and [Image 2].
+
+STRICT SOURCE CAMERA AND ENVIRONMENT LOCK: Replace only the two actors. Preserve the elevator wall and door colors, materials, reflections, exposure and lighting of [Video 1] in EVERY shot. Keep the exact camera position, lens, framing, crop and subject screen size at every frame. No zooming, no reframing, no new camera movement. Preserve every original cut at its exact time.
+
+PERMANENT CAST: [Image 1] replaces ONLY the man on the LEFT with the headphones and the brown leather shoulder strap. [Image 2] replaces ONLY the woman on the RIGHT with the dark bangs. The person from [Image 2] walks out at the exact original moment. The final shot contains ONLY the person from [Image 1]; do not reinsert the other person.
+
+FULL REPLACEMENT: the person on the LEFT = the person in [Image 1], in EVERY shot: copy the exact face from [Image 1] (the face shape, eye color and eye shape, eyebrows, nose, mouth, skin tone, age, hair color, hair length and hairstyle, and any beard, moustache, glasses or freckles). The person on the RIGHT = the person in [Image 2], in EVERY shot: copy the exact face from [Image 2], with the same details. Rebuild entire heads and bodies, not just faces: NO black side-parted hair and NO moustache on the left person, NO dark bangs on the right person, unless their photo shows them. Both change: no one from [Video 1] stays, also in the wide shot. Never morph, never drift back to the faces in [Video 1], never blend the two faces.
+
+CLOTHING: each wears the clothes from their own photo, with no navy shirt on the left person and no cream cardigan on the right person unless their photo shows them. The left person keeps the over-ear headphones and the shoulder bag from [Video 1] as props.
+
+ACTION AND LIP SYNC: the exact poses, hand gestures, gaze, head turns, timing and walking of [Video 1]. The mouths move only on their own lines, in sync with [Video 1]:
+Shot 1 [0-4.7s]: the two-shot from the front. The right person, smiling: "I love the Smiths." The left person slides the headphones down: "Sorry?" The right person: "I said I love the Smiths."
+Shot 2 [4.7-11s]: hard cut, the same two-shot. The right person says "Yeah", faces forward and softly sings a short line with a smile, then: "I love them." The left person stares, stunned.
+Shot 3 [11-15s]: hard cut, a wide shot into the elevator: the doors slide open, the right person walks out, the left person stays alone inside, frozen, and mutters two words.
+
+SCENE: photorealistic live action, natural skin and hair, stable outfits and identities. No extra people, no swapped faces, no merged bodies, no extra limbs. No other dialogue. No background music. No text, no captions, no logos, no watermark.
+```
+
+### 4. 1. The video prompt is filled in. Settings: Seedance 2.5, 15 s, 720p, 9:16, sound on. The video prompt
 
 *Kind: video_prompt*
 

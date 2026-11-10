@@ -3,7 +3,7 @@
 > The like JENNIE dance trend comes from JENNIE's 2025 hit "like JENNIE", whose video shows a lead in front of a big crew.
 
 Canonical: https://www.makeviral.ai/templates/like-jennie-ai-trend
-Updated: 2026-11-08
+Updated: 2026-11-09
 Published: 2026-11-04
 Author: MakeViral Team (https://www.makeviral.ai/about)
 Publisher: MakeViral (https://www.makeviral.ai)
@@ -14,7 +14,7 @@ You at the front, about thirty dancers in black behind you, a bright white studi
 
 Also called: Lead 30 backup dancers trend, Pop music video AI trend.
 
-**Make it now:** [Make this video](https://www.makeviral.ai/templates/like-jennie-ai-trend/create). 1 photo · 14 s · 9:16 with sound · 177 credits, charged once · ready in a few minutes · no prompt to write.
+**Make it now:** [Make this video](https://www.makeviral.ai/templates/like-jennie-ai-trend/create). 1 photo · 14 s · 9:16 with sound · 213 credits, charged once · ready in up to several minutes · no prompt to write.
 
 Keyword: like jennie dance. Also answers: like jennie trend, like jennie ai, like jennie ai dance, like jennie music video, like jennie dancers, like jennie dance challenge, like jennie tiktok trend, like jennie trend dance, like jennie dance video, like jennie ai trend, like jennie ai video, like jennie dance tiktok, like jennie challenge, like jennie dance trend, like jennie backup dancers, is like jennie still trending, like jennie pet dance, music video ai trend, ai music video with backup dancers.
 
@@ -24,7 +24,7 @@ Keyword: like jennie dance. Also answers: like jennie trend, like jennie ai, lik
 
 The like JENNIE dance challenge took off on TikTok within two weeks. K-pop groups posted covers on 20 March 2025: LE SSERAFIM's has 61.3 million views. A fan cover by @karinaavx__ from 22 March 2025 has 32.5 million. By 3 November 2026, #likejennie had 276,498 TikTok videos and 8 billion views.
 
-The AI version is new. From late October 2026, AI video apps started to sell a "star in a pop music video with 30 backup dancers" template on the like JENNIE trend, with app ads from 2 November 2026. On TikTok, #likejennieai still had 0 videos on 3 November, so the like JENNIE AI trend is early. MakeViral builds its own white-studio scene for it: no footage from the official video, and no K-pop star's face.
+The AI version is new. From late October 2026, AI video apps started to sell a "star in a pop music video with 30 backup dancers" template on the like JENNIE trend, with app ads from 2 November 2026. On TikTok, #likejennieai still had 0 videos on 3 November, so the like JENNIE AI trend is early. MakeViral's Human version copies the trend's AI template clip with your face: no footage from the official video, and no K-pop star's face.
 
 ### Like JENNIE Dance trend timeline
 
@@ -37,12 +37,14 @@ The AI version is new. From late October 2026, AI video apps started to sell a "
 
 ## What the Like JENNIE Dance video looks like
 
-This example was made before the template got the song: it is 10 seconds long and plays the first 10 seconds of the like JENNIE song. Your video is 14 seconds long and comes with the whole 14 seconds of the song.
+This clip is the trend's template clip, made with another AI app, not a MakeViral result. Human copies its shots with you as the lead: 14 seconds from the chorus, in the same wide frame, with the like JENNIE song. Pet makes its own white-studio scene.
 
-- **Example 1** (10 s, 9:16 MP4 with sound): An AI-made man leads about thirty dancers in black in a white studio: the front line, a close-up, the group moves, then a circle seen from above.
-  - Video: https://www.makeviral.ai/media/templates/like-jennie-ai-trend/example-v2.mp4
-  - Poster: https://www.makeviral.ai/media/templates/like-jennie-ai-trend/example-poster.jpg
-  - Input photo: https://www.makeviral.ai/media/templates/like-jennie-ai-trend/example-input.jpg
+- **Example 1** (16 s, 9:16 MP4 with sound): The trend's template clip: an AI-made woman leads about thirty dancers in black in a white studio, from a close shot to the crew lying in rows seen from above. Your Human video copies it with your face. Shown: the wide clip in a vertical frame.
+  - Video: https://www.makeviral.ai/media/templates/like-jennie-ai-trend/original-tall-main-v1.mp4
+  - Poster: https://www.makeviral.ai/media/templates/like-jennie-ai-trend/original-tall-main-v1.jpg
+- **Example 2** (16 s, 9:16 MP4 with sound): The same clip in its own wide 16:9 frame, the frame your Human video comes in.
+  - Video: https://www.makeviral.ai/media/templates/like-jennie-ai-trend/original-main-v1.mp4
+  - Poster: https://www.makeviral.ai/media/templates/like-jennie-ai-trend/original-main-v1.jpg
 
 ## How to make the Like JENNIE Dance video on MakeViral
 
@@ -51,37 +53,36 @@ Everything runs in the browser. No editing app, no watermark.
 ### The one-tap way (no prompt to write)
 
 1. **Add your photo.** Press "Make yours" and add you, face clear. Take it with the camera or pick it from your library. Start here: https://www.makeviral.ai/templates/like-jennie-ai-trend/create
-2. **Press Generate.** The button shows the price. Seedance 2.5 films the Like JENNIE scene straight from your photo, with no in-between picture, for 14 seconds, with the trend's original song. You write no prompt.
-3. **Download or share.** The video is ready in a few minutes as a 9:16 MP4. Download it, share it from your phone, or find it later in My videos.
+2. **Press Generate.** The button shows the price. Seedance 2.5 puts your photos into the Like JENNIE trend clip and copies it shot by shot for 14 seconds, with the reel's original song. You write no prompt.
+3. **Download or share.** The video is ready in up to several minutes as a 16:9 MP4. Download it, share it from your phone, or find it later in My videos.
 
 ### The by-hand way, with the exact prompts
 
-The one-tap flow runs this prompt for you. The video model takes your photo as a reference ([Image 1]) and films the scene straight from it, with no photo step first. AI Video takes one photo as the first frame, so it cannot run this prompt the same way: the prompt is here to read.
+The one-tap flow runs this prompt for you. The video prompt animates your own photo directly. To change it, copy it and edit it in AI Video.
 
 #### Variant: Human
 
-Settings: 1 photo (you, face clear) · Seedance 2.5 · 14 s · 720p · 9:16 · no sound · 177 credits in one tap.
+Settings: 1 photo (you, face clear) · Seedance 2.5 · 14 s · 720p · 9:16 · no sound · 213 credits in one tap.
 
 1. The video prompt is filled in. Settings: Seedance 2.5, 14 s, 720p, 9:16, sound off. The video prompt:
 
    ```text
-   A pop music video, photorealistic and cinematic, vertical 9:16, in a bright all-white studio: a glossy white floor that reflects like a mirror, plain white walls and bright, even studio light. The person in [Image 1] is the lead dancer at the front center, and about thirty backup dancers in plain black stand behind them in a tight V formation.
+   Recreate the reference video [Video 1] shot for shot: the same pop music video, the same bright white studio with the black and white light panels on the walls and the glossy reflecting floor, the same about thirty backup dancers in plain black, the same camera angles, cuts, timing, formations and dance moves. The ONLY change: the lead dancer, the woman at the front, is now the person in [Image 1].
 
-The lead dancer = the person in [Image 1], in every frame: copy the exact face from [Image 1] (the face shape, eye color and eye shape, eyebrows, nose, mouth, skin tone, age, hair color, hair length and hairstyle, and any beard, moustache, glasses or freckles), preserving their recognizable face, hairstyle, skin tone and outfit, so their friends recognize them at once. Maintain the same lead identity throughout turns and wider shots: the face stays the same from the first frame to the last. Never morph. If [Image 1] shows only the head or the upper body, invent the rest of the outfit so it matches naturally. If [Image 1] shows an animal, the lead is that animal standing upright, with its own face, fur and markings, not a person. The lead is the only dancer who is not in black.
+The lead = the person in [Image 1], in EVERY shot where the head is visible: copy the exact face from [Image 1] (the face shape, eye color and eye shape, eyebrows, nose, mouth, skin tone, age, hair color, hair length and hairstyle, and any beard, moustache, glasses or freckles) exactly as in the photo. The same real person in every frame, from the first shot to the last, also in the wide shots and the shots from above, so their friends instantly recognize them. Never morph, never drift back to the original dancer's face. No sunglasses: the eyes are always visible. The lead wears the outfit from [Image 1]; if [Image 1] shows only the head or the upper body, the lead keeps the reference outfit: a black cut-out crop top, a black and green mini skirt, black knee socks and black boots. If [Image 1] shows an animal, the lead is that animal standing upright on its hind legs, with its own face, fur and markings, wearing nothing. The lead is the only dancer who is not dressed all in black.
 
-The backup dancers: about thirty young adult dancers in identical plain black jackets, black trousers and black boots, each with their own different face. Do not apply the lead's face to any backup dancer. They move in perfect sync, one step behind the lead.
+The backup dancers stay exactly as in the video: young adult dancers in plain black, each with their own different face. Do not apply the lead's face to any backup dancer.
 
-[Image 1] is the sole character reference for the lead; it is never a reference for a backup dancer.
+Shots, matching the reference:
+1. A close shot: the lead between two backup dancers, the face large and sharp, clearly the person from [Image 1].
+2. Wide from the front: the lead at the front center, the whole crew behind, everyone hits sharp synchronized moves.
+3. Wide side angles: the crew drops to the floor and rises around the lead, who raises both arms.
+4. A low medium shot of the lead dancing alone against the light panels: hair flips and body rolls, the face clearly the person from [Image 1].
+5. The lead lies on the reflecting floor among the crew and looks into the camera.
+6. Straight down from above: the crew lies on the floor in moving geometric rows.
+7. A last close shot of black boots stepping past the camera.
 
-The shots, on the beat:
-Shot 1 [0-2.5 s]: a wide shot from the front at eye level: the lead at the front center, the whole crew behind in the V. Everyone hits the first sharp move together: a shoulder pop and a head snap to the camera.
-Shot 2 [2.5-6 s]: hard cut, a medium shot from the knees up, the lead between two backup dancers: a hair flip, a hip sway and a confident point at the camera. The lead's face is large and sharp: exactly the face from [Image 1].
-Shot 3 [6-11 s]: hard cut, the camera pulls back: the lead leads a fast synchronized routine, arms swinging in big sharp arcs, then a quick spin, and the whole crew moves as one behind.
-Shot 4 [11-14 s]: hard cut, a high shot that cranes down from above: the crew drops to the floor in a ring around the lead, who stays standing in the center, looks up into the lens and holds a confident final pose.
-
-Sound: none of its own; a pop song is put on afterwards, so the moves hit hard and sharp, on a steady fast beat. No singing, no words. No dialogue throughout the entire video.
-
-Preserve natural joints, clearly separated limbs and stable body proportions. One head per dancer, on their own shoulders. Do not duplicate the lead: exactly one person with the face from [Image 1]. No text, no subtitles, no logos, no watermark, no posters or signs in the studio.
+Anatomy rules: natural joints, clearly separated limbs and stable body proportions. One head per dancer, on their own shoulders. Exactly one person with the face from [Image 1]. No text, no subtitles, no logos, no watermark.
    ```
 
 2. Press Generate, then download the 9:16 MP4.
@@ -125,30 +126,30 @@ You pay per video in credits, and the create page shows the exact price on the G
 
 | Video model | Settings | Credits |
 | --- | --- | --- |
-| Seedance 2.5 (this template) | 14 s, 720p, straight from your photos, one tap | 177 |
+| Seedance 2.5 (this template) | 14 s, 720p, copies the trend clip, one tap | 213 |
 
 Credits come with a plan; see [pricing](https://www.makeviral.ai/pricing). A failed video gives its credits back.
 
 ## What happens in the like JENNIE dance video?
 
-Both versions play the like JENNIE trend dance as a 14-second pop music video in a bright white studio with a white floor that shines like a mirror. About thirty AI-made backup dancers in plain black stand behind the lead in a V. The lead is you, or your pet. Pet follows the same four beats at its own pace.
+Both versions play the like JENNIE trend dance as a 14-second pop music video in a bright white studio with a floor that shines like a mirror. About thirty AI-made backup dancers in plain black dance around the lead. The lead is you, or your pet. Human copies the shots of the trend's template clip; Pet follows four beats of its own.
 
 | Beat | Human (seconds) | Pet | Song |
 |---|---|---|---|
-| 1 (0 to 2.5) | A wide shot from the front: you and the crew hit the first sharp move together. | Your pet stands on its hind legs at the front and bobs its head to the beat while the crew moves behind it. | "Who wanna rock with JENNIE" |
-| 2 (2.5 to 6) | A close shot from the knees up between two dancers: a hair flip, a hip sway and a point at the camera. | Your pet swings its front paws left and right. | "Keep your hair done, nails done" |
-| 3 (6 to 11) | The camera pulls back and you lead a fast routine with big arm swings and a quick spin, the crew moving as one. | A little spin, with the whole crew spinning too. | "Like, like, like" and "I think I really like" |
-| 4 (11 to 14) | A high shot: the crew drops to the floor in a ring around you, and you look up into the lens for the final pose. | The camera pushes in: one paw up, a long stare into the lens, the crew holding still behind. | "Cause they can never ever be" |
+| 1 (0 to 2.5) | A close shot between two dancers, then a wide shot from the front: you and the crew hit sharp moves together. | Your pet stands on its hind legs at the front and bobs its head to the beat while the crew moves behind it. | "Who wanna rock with JENNIE" |
+| 2 (2.5 to 6) | Wide side angles: the crew drops to the floor and rises around you while you raise both arms. | Your pet swings its front paws left and right. | "Keep your hair done, nails done" |
+| 3 (6 to 11) | A low close shot of you dancing alone against the light panels, then you lie on the floor among the crew. | A little spin, with the whole crew spinning too. | "Like, like, like" and "I think I really like" |
+| 4 (11 to 14) | Straight down from above: the crew lies on the floor in moving rows, then boots step past the camera. | The camera pushes in: one paw up, a long stare into the lens, the crew holding still behind. | "Cause they can never ever be" |
 
-**Human** is made straight from your photo, with no picture in between, so your face stays close to it. **Pet** first makes a picture of your pet at the front of the crew, then turns it into the video; pick Best for top-quality AI video models, including Seedance 2.5, on the same picture.
+**Human** puts your face on the lead of the trend's template clip, shot for shot. **Pet** first makes a picture of your pet at the front of the crew, then turns it into the video; pick Best for top-quality AI video models, including Seedance 2.5, on the same picture.
 
-The video is vertical 9:16, 14 seconds long, with the like JENNIE song from the start of the chorus to the end of the post-chorus. Press "Create your own" and pick Human or Pet; the exact price shows on the Generate button before you spend anything.
+Human is wide 16:9 like the clip and Pet is vertical 9:16, both 14 seconds long, with the like JENNIE song from the start of the chorus to the end of the post-chorus. Press "Create your own" and pick Human or Pet; the exact price shows on the Generate button before you spend anything.
 
 ## Is the like JENNIE song on the video?
 
 Yes. The video comes with the like JENNIE song by JENNIE, the chorus that the like JENNIE dance challenge uses: 14 seconds from "Who wanna rock with JENNIE" to "Cause they can never ever be". The song goes on after the video, so the moves follow its beat, not each word. The clip is ready to post on the like JENNIE TikTok trend, and you can turn the song off on the result screen and add a sound when you post instead. The song belongs to its owners, and MakeViral gives you no rights to it. Music rules differ from platform to platform, so check them before you use the clip in an ad or a paid post.
 
-MakeViral does not use footage from the official like JENNIE music video and does not copy JENNIE or any K-pop star. The studio, the crew and the moves are our own.
+MakeViral does not use footage from the official like JENNIE music video and does not copy JENNIE or any K-pop star. Human copies an AI-made template clip of the trend, and Pet makes its own scene.
 
 **Hashtags:** #likejennie is the big one (276,498 TikTok videos and 8 billion views on 3 November 2026). Add #likejenniedance or #likejenniechallenge for the dance, and keep the platform's AI label on.
 
@@ -201,7 +202,7 @@ They are AI-made people, not the dancers from the like JENNIE music video. Each 
 
 ### Does the video copy the official like JENNIE music video?
 
-No. MakeViral uses no footage, set or outfit from the official video and never shows JENNIE's face. It makes its own white-studio music video with you as the lead, and the moves are a sharp pop routine, not the exact official choreography.
+No. MakeViral uses no footage from the official video and never shows JENNIE's face. Human copies an AI-made template clip of the trend with you as the lead, and the moves are a sharp pop routine, not the exact official choreography.
 
 ### Does the video have the like JENNIE song?
 
@@ -209,15 +210,15 @@ Yes. It comes with 14 seconds of the like JENNIE song, from "Who wanna rock with
 
 ### Which AI models make the video?
 
-Top-quality AI video models, including Seedance 2.5. Human is made straight from your photo, which keeps the face closest. Pet makes a picture of your pet with the crew first; Standard turns it into the video at a lower price, and Best uses a stronger model for smoother moves.
+Top-quality AI video models, including Seedance 2.5. Human copies the trend's template clip with the face from your photo. Pet makes a picture of your pet with the crew first; Standard turns it into the video at a lower price, and Best uses a stronger model for smoother moves.
 
 ### How long is the video and what format is it?
 
-14 seconds, vertical 9:16, as an MP4 file with the like JENNIE song and no watermark. It can take a few minutes; the video waits in My videos when it is ready.
+14 seconds, as an MP4 file: Human is wide 16:9 like the template clip and Pet is vertical 9:16, both with the like JENNIE song and no watermark. It can take a few minutes; the video waits in My videos when it is ready.
 
 ### Is there a prompt for the like JENNIE AI trend?
 
-No creator of the trend shared one, and the app templates are closed. The prompt here starts from a published lead-dancer prompt for the like JENNIE AI dance, rewritten for a scene made from your photo, with our own studio and crew. You write no prompt yourself.
+No creator of the trend shared one, and the app templates are closed. Human uses our shot-for-shot prompt that copies the trend's AI template clip with your face. Pet starts from a published pet prompt for the like JENNIE AI dance, with our own studio and crew. You write no prompt yourself.
 
 ## Other AI video templates and tools
 
@@ -231,15 +232,15 @@ No creator of the trend shared one, and the app templates are closed. The prompt
 
 ## New AI video trends this week
 
-- [Chiikawa Dancing Nokia: Turn Yourself Into a Tiny Chibi That Dances to the Ringtone](https://www.makeviral.ai/templates/chiikawa-dancing-nokia-ai): Your photo becomes a tiny, round chibi creature with your hair, your colors and your outfit. An old phone rings on the floor, and instead of picking it up, the little you turns around and wiggles to the ringtone. One photo in, a 10-second vertical clip with a ringtone sound out.
-- [Bruno Fernandes Singing AI Trend: Sing the Window Serenade With a Friend](https://www.makeviral.ai/templates/bruno-window-serenade-ai-trend): A singer with a wired microphone, a guitarist behind, and someone who stares down from the upstairs window without a smile. Add your photos and get the 13-second serenade with the trend's song.
-- [Let's Break Up Trend AI: From Tired Selfie to Glow Up](https://www.makeviral.ai/templates/lets-break-up-ai-trend): Add one photo. AI makes the 10-second Let's break up glow up: a tired selfie of you with the caption, a sparkle change, then two glowed-up shots of you, with the trend's sound.
-- [Ukwu Template: Color, Then Slow-Motion Black and White From One Photo](https://www.makeviral.ai/templates/ukwu-ai-trend): You vibe to the beat in full color, then the beat drops and the clip cuts to a closer, slow-motion black-and-white shot of you. One photo in, a 10-second vertical video with the Ukwu sound out. Works with your pet too.
-- [Come and Get It Trend AI: The Rose Petal Edit From One Photo](https://www.makeviral.ai/templates/come-and-get-it-ai-trend): A dreamy close-up that flips from black and white to warm golden color on every beat while red rose petals fall in front of your face, on the na-na-na hook of Come & Get It. Add a selfie, a photo of you and a friend, or your pet.
-- [I Need a Girl Dance AI: Do the Viral TikTok Duo From Two Photos](https://www.makeviral.ai/templates/i-need-a-girl-dance-ai-trend): One of you says the hold-up intro to the camera, the other throws a peace sign, then the beat drops and you both dance in a night parking lot. Add a photo of you and a friend, of you alone, or of your pets, and get the clip with the sound.
+- [Turning My Mom Into Me: Put Your Mom in Your Outfit With AI](https://www.makeviral.ai/templates/turning-my-mom-into-me-ai-trend): Your mom walks down the hallway in her own clothes, walks out, and struts back in wearing your outfit. Add one photo of her and one of you in your outfit, and get the viral reel with its caption and its sound. Dad works too.
+- [Giant Cat AI Video: Make Your Pet a Giant in New York](https://www.makeviral.ai/templates/giant-cat-ai-video): Your cat walks down a New York avenue as tall as the towers, peers into a car window and leans on a skyscraper while helicopters circle. Add one photo of your pet, or of yourself, and get the 10-second clip with the street sound.
+- [Stuffed Animal UFC AI Video: Your Plush Wins the Fight](https://www.makeviral.ai/templates/stuffed-animal-ufc-ai-video): Your teddy, your pet or a plush version of you steps into the cage, lands the body shots, gets the knockout and celebrates with both arms up. One photo in, a 10-second clip with crowd and commentary sound out. Or add two photos and fight a friend: one wins, one goes down.
+- [Black and White Cinematic Video: You in the Classic Suit Stroll](https://www.makeviral.ai/templates/black-and-white-cinematic-ai-video): One photo of you becomes a 15-second black and white film: you walk past the hedges in a long black coat, smile at the windows, wave and laugh on the stone steps, then pause under a black umbrella, to a slowed phonk beat.
+- [Düğün Dansı AI: Put Your Friends in the Wild Turkish Wedding Dance](https://www.makeviral.ai/templates/dugun-oyunu-ai-trend): Two dancers go wild around the davul player in a Turkish wedding hall, a halay line bounces behind them, and a guest in a white tank top laughs into the camera at the end. Add three photos, two for a duo, or one of your pet.
+- [Hippo Pathway What If: Become the 541 ft Giant Pop Star](https://www.makeviral.ai/templates/hippo-pathway-giant-pop-star-ai-trend): What if a pop star was 100 times taller? Add one photo: you or your pet become the giant who sings and dances down a city avenue at dusk, or the giant pop star shows up in a photo of your own street.
 
 ## Make your own Like JENNIE Dance video
 
-Add one photo and press Generate. No prompt to write. 177 credits, charged once.
+Add one photo and press Generate. No prompt to write. 213 credits, charged once.
 
 [Make this video](https://www.makeviral.ai/templates/like-jennie-ai-trend/create)
