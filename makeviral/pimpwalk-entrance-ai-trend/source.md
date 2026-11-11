@@ -3,7 +3,7 @@
 > The pimp walk entrance, also called the Pimpwalk Entrance (Hold the Door) trend, is the TikTok pimp walk meme of autumn 2026 where a stranger holds a shop door open and someone walks in with an exaggerated, slow, leaned-back pimp walk.
 
 Canonical: https://www.makeviral.ai/templates/pimpwalk-entrance-ai-trend
-Updated: 2026-11-03
+Updated: 2026-11-10
 Published: 2026-11-03
 Author: MakeViral Team (https://www.makeviral.ai/about)
 Publisher: MakeViral (https://www.makeviral.ai)
@@ -16,7 +16,7 @@ Also called: Hold the door pimp walk, Walking into the barbershop meme, Entering
 
 **Make it now:** [Make this video](https://www.makeviral.ai/templates/pimpwalk-entrance-ai-trend/create). 1 photo · 15 s · 9:16 with sound · 228 credits, charged once · ready in up to several minutes · no prompt to write.
 
-Keyword: pimp walk entrance. Also answers: pimpwalk entrance hold the door, pimpwalk entrance, hold the door trend, pimp walk trend, pimp walk meme, pimp walk entrance gif, pimpwalk into barbershop, pimp walking into store, doorway entrance trend, pimp walk ai, pimpwalk entrance hold the door ai, pimp walk tiktok, pimpwalk trend, pimp walking in door gif, pimp walking into store gif, pimpwalk entrance song, pimp entrance music, what is the pimp walk, how do pimps walk, pimp walk meaning, pimp walk video, pimp walk gif, pimp walk dance, hold the door meme, pimpwalk barbershop, pimp named slickback.
+Keyword: pimp walk entrance. Also answers: pimpwalk entrance hold the door, pimpwalk entrance, hold the door trend, pimp walk trend, pimp walk meme, pimp walk entrance gif, pimpwalk into barbershop, pimp walking into store, doorway entrance trend, pimp walk ai, pimpwalk entrance hold the door ai, pimp walk tiktok, pimpwalk trend, pimp walking in door gif, pimp walking into store gif, pimpwalk entrance song, pimp entrance music, what is the pimp walk, how do pimps walk, pimp walk meaning, pimp walk video, pimp walk gif, pimp walk dance, hold the door meme, pimpwalk barbershop, pimp named slickback, walking through crowd meme, celebrity walking through crowd, paparazzi walk, crowd walk ai, guy walking through crowd meme, walking through crowd gif.
 
 ## What is the Pimpwalk Entrance trend, and where did it start?
 
@@ -41,6 +41,10 @@ Made from the prompts on this page. The people and pets are AI-made, not real pe
 - **Example 1** (15 s, 9:16 MP4 with sound): The original AI reel by @mrmiltonfrost: a white-haired friend holds the door, and an AI-made 1970s dandy with big ginger hair walks into a burger shop with a slow, low, leaned-back strut, then rises and fans his face with a red card. All three versions copy this reel.
   - Video: https://www.makeviral.ai/media/templates/pimpwalk-entrance-ai-trend/original-main-v2.mp4
   - Poster: https://www.makeviral.ai/media/templates/pimpwalk-entrance-ai-trend/original-main-v1.jpg
+- **Example 2** (15 s, 9:16 MP4 with sound): Crowd walk, made with MakeViral from one photo of an AI-made man (not a real person): he walks in a grey suit through a red-lit club while fans and photographers push in with phones and flashes.
+  - Video: https://www.makeviral.ai/media/templates/pimpwalk-entrance-ai-trend/example-crowd-v1.mp4
+  - Poster: https://www.makeviral.ai/media/templates/pimpwalk-entrance-ai-trend/example-crowd-poster.jpg
+  - Input photo: https://www.makeviral.ai/media/templates/storm-ai-trend/example-input.jpg
 
 ## How to make the Pimpwalk Entrance video on MakeViral
 
@@ -147,6 +151,48 @@ Real live-action footage, a real animal. Anatomy rules: one head only, one muzzl
 
 One-tap version of this variant: https://www.makeviral.ai/templates/pimpwalk-entrance-ai-trend/create?variant=pet
 
+#### Variant: Crowd walk
+
+Settings: 1 photo (your photo, face clear) · Kling 3.0 · 15 s · 1080p · 9:16 · with sound · 84 credits in one tap.
+
+1. Open [AI Photo with this template](https://www.makeviral.ai/photo?template=pimpwalk-entrance-ai-trend&variant=crowd) and add your photo (your photo, face clear). The photo prompt is filled in:
+
+   ```text
+   Use the uploaded image as the base. Vertical 9:16 photo taken on a phone from inside a packed crowd at a nightclub entrance hall lit deep red. The person from the image stands in the center, sharp and big in the frame from the waist up, face turned to the camera, calm, amused and confident, wearing a tailored light grey suit, a plain white shirt open at the collar and no tie. Around them a tight crowd of adult fans and photographers push in: raised phones with bright screens, a press photographer with a big black camera lens in the near foreground, two bodyguards in black behind them. Red velvet walls, red ceiling lights, a staircase with brass railings in the background, a patterned carpet. Real camera flash on the faces, slight motion blur in the crowd, realistic nightlife phone photo. No text, no logos, no brand names, no readable signs, nothing readable on the phone screens.
+   ```
+
+2. Check the still before you spend credits on the video. Everything the video model does starts from that one frame.
+3. Press the film button on the still to open AI Video with the still as the first frame. Settings: Kling 3.0, 15 s, 1080p, 9:16, sound on. The video prompt:
+
+   ```text
+   Style: Ultra realistic nightlife arrival filmed on a phone. Single continuous handheld shot from inside the crowd. Natural shake. No cuts. Documentary realism. Audio: Only natural sound: a loud crowd cheering and shouting, rapid camera shutter clicks, muffled club bass behind the walls, footsteps. No song, no voice-over, no clear spoken words. Lighting: Deep red club light, bright phone screens and white camera flashes on the faces. Main Character: the star is the person in the image, in the light grey suit and white shirt, with the same face, hair, skin tone and outfit in every frame. Relaxed, amused, confident. The face stays the same throughout. SCENE. 0 to 3 s: The camera is pressed in the crowd at a red-lit club entrance. The star walks in through the crowd with bodyguards in black beside them, phones raised high all around. 3 to 6 s: The star stops in the center. A press photographer with a big black lens pushes in at the bottom of the frame and flashes fire. The star smiles and talks to the people in front with open hand gestures. 6 to 10 s: Fans hold their phones up in front of the star and shout. The star laughs, points at one fan, then at another, and nods, still talking. 10 to 13 s: The star raises one hand high to the crowd. The crowd cheers louder and the flashes fire again. 13 to 15 s: The star turns and moves on through the crowd while the bodyguards make a path, and the camera follows over shoulders and heads. Every person in the crowd is an adult. No text, no logos, no brand names, no readable signs, nothing readable on the phone screens.
+   ```
+
+4. Press Generate, then download the 9:16 MP4.
+
+One-tap version of this variant: https://www.makeviral.ai/templates/pimpwalk-entrance-ai-trend/create?variant=crowd
+
+#### Variant: Crowd walk pet
+
+Settings: 1 photo (your pet, face clear) · Kling 3.0 · 15 s · 1080p · 9:16 · with sound · 84 credits in one tap.
+
+1. Open [AI Photo with this template](https://www.makeviral.ai/photo?template=pimpwalk-entrance-ai-trend&variant=crowd-pet) and add your photo (your pet, face clear). The photo prompt is filled in:
+
+   ```text
+   Use the uploaded image as the base. Keep the animal's species, breed, body size, face, fur colors and markings exactly as in the photo. Vertical 9:16 photo taken on a phone from inside a packed crowd at a nightclub entrance hall lit deep red. The pet from the image stands on all four paws in the center on a patterned carpet, sharp and big in the frame, low camera at the pet's eye level, face turned to the camera, calm and confident, wearing a small tailored light grey suit jacket with a white shirt collar. Around it a tight crowd of adult fans and photographers lean in: raised phones with bright screens, a press photographer with a big black camera lens in the near foreground, two bodyguards in black behind it. Red velvet walls, red ceiling lights, a staircase with brass railings in the background. Real camera flash, slight motion blur in the crowd, realistic nightlife phone photo. Exactly one animal. No text, no logos, no brand names, no readable signs, nothing readable on the phone screens.
+   ```
+
+2. Check the still before you spend credits on the video. Everything the video model does starts from that one frame.
+3. Press the film button on the still to open AI Video with the still as the first frame. Settings: Kling 3.0, 15 s, 1080p, 9:16, sound on. The video prompt:
+
+   ```text
+   Style: Ultra realistic nightlife arrival filmed on a phone. Single continuous handheld shot from inside the crowd, low at the pet's eye level. Natural shake. No cuts. Documentary realism. Audio: Only natural sound: a loud crowd cheering and shouting, rapid camera shutter clicks, muffled club bass behind the walls, footsteps. No song, no voice-over, no clear spoken words. Lighting: Deep red club light, bright phone screens and white camera flashes. Main Character: the star is the pet in the image, with the same species, breed, face, fur colors, markings and small light grey suit jacket in every frame, walking on all four paws with the natural body of that animal. Calm and confident. The face stays the same throughout. SCENE. 0 to 3 s: The camera is pressed in the crowd at a red-lit club entrance. The pet trots in through the crowd with bodyguards in black beside it, phones raised high all around. 3 to 6 s: The pet stops in the center. A press photographer with a big black lens leans in and flashes fire. The pet looks around at the people, ears up. 6 to 10 s: Fans hold their phones down toward the pet and cheer. The pet looks at one fan, then at another, and wags its tail. 10 to 13 s: The pet sits for a second and looks straight into the camera. The crowd cheers louder and the flashes fire again. 13 to 15 s: The pet stands, turns and trots on through the crowd while the bodyguards make a path, and the camera follows. Exactly one animal. Every person in the crowd is an adult. No text, no logos, no brand names, no readable signs, nothing readable on the phone screens.
+   ```
+
+4. Press Generate, then download the 9:16 MP4.
+
+One-tap version of this variant: https://www.makeviral.ai/templates/pimpwalk-entrance-ai-trend/create?variant=crowd-pet
+
 ### Which photo works best?
 
 Upload **one photo** for Human or Pet, **two photos** for Duo.
@@ -186,6 +232,7 @@ Each version copies @mrmiltonfrost's AI reel, one continuous handheld take in a 
 - **Human:** you make the entrance in your own face and clothes. The white-haired door holder from the reel stays and holds the door for you.
 - **Duo:** you walk in, and your friend from photo 2 holds the door and grooves beside it. Tag the friend: they are the reason you get the grand entrance.
 - **Pet:** your dog or cat walks in upright on its hind legs in the reel's green velvet jacket and flared trousers and fans its face with the red card.
+- **Crowd walk (new, 10 November 2026):** a different entrance, not the door reel. You walk in a light grey suit through a packed, red-lit club while fans and photographers push in with phones and flashes; you stop, point at them, raise a hand and move on. It is the celebrity walking through crowd meme from a fan edit that had 66,400 TikTok views by 9 November, made as a new scene from one photo, 15 seconds with crowd and camera sounds (not the door reel's song). **Crowd walk pet** puts your dog or cat in a small grey suit jacket in the same scene.
 
 **How is this different from our other walk-in pages?** The [Then I walk in meme](https://www.makeviral.ai/templates/then-i-walk-in-ai-trend) is a confident walk-in under a caption, with no held door and no pimp walk. The [plug walk filter](https://www.makeviral.ai/templates/plug-walk-ai-filter) is a dance by a car at a red light. This page is the doorway entrance trend itself: the held door, the slow, low strut and the face card at the end.
 
@@ -256,6 +303,10 @@ Yes. Each video costs credits, and the create page shows the exact price on the 
 
 A pimp walk gif or a pimp walking in door gif is usually a short loop of someone strutting through a doorway, and "pimp walking into store gif" searches look for the same thing. MakeViral makes your own pimp walk video instead, as an MP4 you can post on TikTok, Reels or Shorts, not a GIF.
 
+### Can I make the walking through crowd meme, the paparazzi walk, with my photo?
+
+Yes. Pick Crowd walk and add one clear photo, or Crowd walk pet for your dog or cat. You walk through a red-lit club in a light grey suit while adult fans and photographers push in with phones and flashes: a 15-second crowd walk AI video with crowd and camera sounds. It is the guy walking through crowd meme as a video, not a gif, and top-quality AI video models make the scene new from your photo: it uses no real star's clip.
+
 ### Is the video real?
 
 No. You, your friend or your pet are put into the reel by AI from still photos, and nobody filmed it. The reel itself is AI-made too. Keep the AI label on when you post it.
@@ -276,12 +327,12 @@ No. Pimp Named Slickback is a different meme: a cartoon character and the glidin
 
 ## New AI video trends this week
 
-- [Christmas Dance AI: Do the New TikTok Christmas Dance From Your Photos](https://www.makeviral.ai/templates/christmas-dance-ai-trend): Hip sways with the hands at the collar, rolling arms, a quick spin and raised fists, side by side in matching Christmas pajamas. Add two photos for the duo, one for a solo take, or two pets, and get the dance with the sound.
-- [Cat on Ultra Bee AI: Put Your Pet on the Wheelie](https://www.makeviral.ai/templates/cat-on-ultra-bee-ai-trend): Add one photo, and your cat or dog stands on an electric dirt bike and holds a long wheelie down a city road at golden hour, in the same shots as the viral clip, with its original sound. You can take the ride yourself, too.
-- [Tus Ojos Me Reflejan el Sentimiento: The Cafuné Eye Close-Up Trend](https://www.makeviral.ai/templates/tus-ojos-me-reflejan-ai-trend): You lie on your side, a hand rests on your cheek, warm light falls on your face, and the camera slowly moves in until your eyes fill the screen while the line plays. One photo in, an 8-second vertical clip with the trend's song out.
-- [İnşallah Maşallah AI Trend: Sing Neşe Karaböcek's Song on the Couch](https://www.makeviral.ai/templates/insallah-masallah-ai-trend): You sit on a light grey couch and sing the old Turkish love song straight to the camera: a hand on the heart, a big laugh with both hands on your head, a finger pointed at the camera and a kiss at the end. One photo of you, a grandparent or your pet, and the 15-second clip comes with the song.
-- [Ice Ice Baby Dance AI: Do the Viral Duo Dance With a Friend](https://www.makeviral.ai/templates/ice-ice-baby-dance-ai): Two dancers side by side, the same bouncy 90s steps, a spin on the beat and a strut to the camera. Add a photo of you and a friend, of you alone, or of your pet, and get the dance with the sound.
-- [Save Yourself Trend: Pull Yourself Up From the Cliff](https://www.makeviral.ai/templates/save-yourself-ai-trend): One photo plays both of you: the scared you clinging to a wet sea cliff, and the calm you who reaches down, pulls you up and holds you. Or use two photos: an older photo of you and a new one, or you and a friend. 15 seconds, vertical.
+- [Dog Pool Party AI Dance: Your Pet Owns the Pool Party](https://www.makeviral.ai/templates/dog-pool-party-ai-dance): Your dog or cat puts on pink swim goggles, a ruffled pink bikini and arm floaties and dances on its hind legs at a glowing night pool party: hops, a spin, then a hip shake under a phone flashlight. One photo in, a 13-second clip with the song out.
+- [Husband Emporium: Put Your Partner on Display in the Retro Ad](https://www.makeviral.ai/templates/husband-emporium-ai-trend): "Welcome to the Emporium, madam. Looking for a husband?" Add a photo, and your partner goes on display as a husband model in the viral 1950s shop ad, or your pet becomes "the good boy". The ad's own dialogue plays on your video.
+- [La Mujer del Pelotero Dance: Do the Trend From One Photo](https://www.makeviral.ai/templates/la-mujer-del-pelotero-ai-dance): Hands by the head, the forearm roll, a hip sway and a finger to the sky: the La Mujer del Pelotero TikTok routine. Add one photo of you or your pet, or two photos for you and a friend, and get the clip with the song.
+- [Iconic By Mistake Dance AI: Do the Viral Challenge With a Friend](https://www.makeviral.ai/templates/iconic-by-mistake-ai-dance): The Iconic By Mistake TikTok dance, from your photos: peace signs over the eyes, wide-knee squats, hip pops, prayer hands and a strut to the camera, side by side. Add a photo of you and one of a friend, one of you alone, or one of your pet, and get the dance with the song.
+- [Kiat Jud Dai Cat: Turn Your Pet Into the Kitten Parade](https://www.makeviral.ai/templates/kiat-jud-dai-kitten-parade-ai): A whole line of kittens walks upright down a night road and dances past the camera to "Kiat Jud Dai". Add one photo of your pet, and every dancer in the parade becomes your cat or your dog, with the song on the video.
+- [Hey Boo Come Slide With Me AI: Slide With Your Boo From Two Photos](https://www.makeviral.ai/templates/hey-boo-come-slide-with-me-ai): Hand in hand, two steps to the side, a step back and a smooth slide close, in a ballroom full of line dancers in denim. Add a photo of you and one of your partner, or one of you alone, or two of your pets, and get the dance with the song.
 
 ## Make your own Pimpwalk Entrance video
 

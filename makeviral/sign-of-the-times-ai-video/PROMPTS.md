@@ -1,0 +1,92 @@
+# Sign of the Times AI Video: Hold Your Person at the End of the World
+
+- Source: [makeviral](https://www.makeviral.ai/templates/sign-of-the-times-ai-video)
+- Slug: `sign-of-the-times-ai-video`
+
+The Sign of the Times AI video puts you and someone you love at the end of the world.
+
+## Demo videos (CDN)
+
+- https://www.makeviral.ai/media/templates/sign-of-the-times-ai-video/original-couple-v2.mp4
+- https://www.makeviral.ai/media/templates/sign-of-the-times-ai-video/original-tall-couple-v2.mp4
+
+## Posters
+
+- https://www.makeviral.ai/media/templates/sign-of-the-times-ai-video/original-couple-v1.jpg
+- https://www.makeviral.ai/media/templates/sign-of-the-times-ai-video/original-tall-couple-v1.jpg
+
+## Prompts
+
+### 1. 1. The video prompt is filled in. Settings: Seedance 2.5, 15 s, 720p, 9:16, sound off. The video prompt
+
+*Kind: video_prompt*
+
+```text
+Edit Video 1: Replace the two people on the sea cliff with the two people from the photos: the person on the LEFT in [Video 1] becomes the person in [Image 1], the person on the RIGHT becomes the person in [Image 2]. Only replace the people; the cliff, the sea, the flash, the column of water, the giant wave, the moves, the timing and the camera stay unchanged. Keep everything else the same.
+
+Recreate [Video 1] shot for shot: a rocky sea cliff under a heavy grey sky, a dark stormy sea; a massive wall of water rises behind them, its shadow falls across the cliff, and they kiss as the wave closes in.
+
+References: [Image 1] is the sole face and hair reference for the person on the left, [Image 2] for the person on the right; [Video 1] is for the scene, the moves and the camera only. The faces are locked to [Image 1] (left) and [Image 2] (right).
+
+The person on the left = the person in [Image 1], in EVERY frame: copy the exact face from [Image 1]: face shape, eye color and eye shape, eyebrows, nose, mouth, skin tone, age, hair color, hair length and hairstyle, and any beard, moustache, glasses or freckles exactly as in the photo. NO black baseball cap and NO shoulder-length hair under a cap unless [Image 1] shows them.
+The person on the right = the person in [Image 2], in EVERY frame: copy the exact face from [Image 2]: face shape, eye color and eye shape, eyebrows, nose, mouth, skin tone, age, hair color, hair length and hairstyle, and any beard, moustache, glasses or freckles exactly as in the photo. NO long auburn-red hair unless [Image 2] shows it.
+Both change: no one from the video stays, also in the wide shots and from behind. The same two real people in every frame, so their friends recognize them at once, above all in the kiss. Never blend or swap their faces, never drift back to the faces of the original couple.
+
+Outfits: dark and plain like in [Video 1], never the clothes from the photos: the left one in a dark hooded jacket, the right one in a long black coat.
+
+Shot 1 [0-2.9s]: a side two-shot at the cliff edge: the two stand face to face and argue.
+Shot 2 [2.9-6s]: closer: a bright light flares on the horizon; they stop and look out to sea.
+Shot 3 [6-10s]: from behind their shoulders: a huge white column of water bursts up far out at sea; they stand side by side and stare.
+Shot 4 [10-12s]: a giant dark wave rises across the whole horizon; they turn to each other.
+Shot 5 [12-14.8s]: the wave towers behind them; they hold each other tight and kiss, then the wave breaks over the cliff and white spray fills the frame.
+
+Real live-action cinematic footage, cold grey-blue light, wind in the hair. No dialogue throughout the entire video. No background music.
+
+Anatomy rules: one head on each person, five fingers on each hand. Exactly two people. No text, no logos, no watermark.
+```
+
+### 2. 1. The video prompt is filled in. Settings: Seedance 2.5, 10 s, 720p, 9:16, sound on. The video prompt
+
+*Kind: video_prompt*
+
+```text
+A cinematic end-of-the-world scene, filmed like a real film: a ruined, dusty city of broken grey high-rises under a dark storm sky, cracked ground, dust and small pieces of rubble floating slowly in the air. Photorealistic, natural skin, gentle film grain, not CGI, not a cartoon, not a painting. Medium shots and close-ups keep both faces large, sharp and well lit.
+
+The one who holds on is the person in [Image 1], in every frame: copy the exact face from [Image 1] (the face shape, eye color and eye shape, eyebrows, nose, mouth, skin tone, age, hair color, hair length and hairstyle, and any beard, moustache, glasses or freckles), in a long dark coat.
+The one held close is the person in [Image 2], in every frame: copy the exact face from [Image 2] (the face shape, eye color and eye shape, eyebrows, nose, mouth, skin tone, age, hair color, hair length and hairstyle, and any beard, moustache, glasses or freckles), at the age shown in [Image 2], with the clothes from [Image 2].
+If [Image 2] shows a child, keep the same child at the same age and size, with the face from [Image 2] (the face shape, eye color and eye shape, eyebrows, nose, mouth, cheeks, skin tone, hair color, hair length and hairstyle), never an older child or an adult: the one who holds on carries the child in their arms against the chest. The child never cries and never screams.
+If [Image 2] shows an adult, the two stand and hold each other tight, cheek to cheek. If [Image 2] shows two people, the one who holds on holds them both close, each with their own face from [Image 2].
+If [Image 2] shows an animal, it stays that animal with its own face, fur, markings and natural size, held in the arms against the chest, never a person.
+Never blend their faces, never swap their clothes. Each face stays the same from the first frame to the last, so the family recognizes them at once.
+
+The shots:
+1. 0-4 s: a medium-wide shot from the front: the one who holds on stands in the middle of the ruins and holds the loved one tight against the chest, looking around with wide, frightened eyes as rubble drifts past in the wind.
+2. 4-6.5 s: a medium shot from the side: they pull the loved one closer, a cheek against their head, one hand on the back of their head, and glance over the shoulder at the broken buildings.
+3. 6.5-10 s: a medium close-up of both faces, three-quarters to the camera: the one who holds on closes their eyes; warm golden sun rays break through the storm clouds behind them and the cold grey light turns to warm gold, light flares between the ruined towers and the floating dust glows. The loved one rests calmly against them. A quiet, tender moment of relief.
+
+Audio: a low wind and a distant rumble, then a soft, slow orchestral swell with piano as the golden light comes. No dialogue, no lyrics, no singing.
+
+Nobody else in the scene. No fire on anyone, no injuries, no blood. No text, no subtitles, no logos, no watermark.
+```
+
+### 3. 1. The video prompt is filled in. Settings: Seedance 2.5, 10 s, 720p, 9:16, sound on. The video prompt (Pet)
+
+*Kind: video_prompt*
+
+```text
+A cinematic end-of-the-world scene, filmed like a real film: a ruined, dusty city of broken grey high-rises under a dark storm sky, cracked ground, dust and small pieces of rubble floating slowly in the air. Photorealistic, natural skin, gentle film grain, not CGI, not a cartoon, not a painting. Medium shots and close-ups keep both faces large, sharp and well lit.
+
+The person is the one in [Image 1], in every frame: copy the exact face from [Image 1] (the face shape, eye color and eye shape, eyebrows, nose, mouth, skin tone, age, hair color, hair length and hairstyle, and any beard, moustache, glasses or freckles), in a long dark coat.
+The pet is the animal in [Image 2], in every frame: the same species and breed, face, eyes, ears, muzzle, fur colors, fur length and markings as in [Image 2], with the natural body volume and proportions of that animal: never flattened, squashed, stretched or merged with anything. It stays that animal, never a person, never a toy. A big dog may stand pressed against the person's legs instead of being carried.
+Never blend the person and the pet. Both stay the same from the first frame to the last, so the owner recognizes them at once.
+
+The shots:
+1. 0-4 s: a medium-wide shot from the front: the person stands in the middle of the ruins and holds the pet tight in their arms against the chest, looking around with wide, frightened eyes as rubble drifts past in the wind. The pet's ears move in the wind.
+2. 4-6.5 s: a medium shot from the side: the person pulls the pet closer, a cheek against its head, one hand on its back, and glances over the shoulder at the broken buildings.
+3. 6.5-10 s: a medium close-up of the person's face and the pet's face, three-quarters to the camera: the person closes their eyes; warm golden sun rays break through the storm clouds behind them and the cold grey light turns to warm gold, light flares between the ruined towers and the floating dust glows. The pet rests calmly against the person's chest and blinks.
+
+Audio: a low wind and a distant rumble, then a soft, slow orchestral swell with piano as the golden light comes. No dialogue, no lyrics, no singing.
+
+Exactly one person and one pet, nobody else. Animal paws, never human hands on the pet. No injuries, no blood. No text, no subtitles, no logos, no watermark.
+```
+

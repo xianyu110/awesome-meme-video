@@ -7,11 +7,14 @@ The pimp walk entrance, also called the Pimpwalk Entrance (Hold the Door) trend,
 
 ## Demo videos (CDN)
 
+- https://www.makeviral.ai/media/templates/pimpwalk-entrance-ai-trend/example-crowd-v1.mp4
 - https://www.makeviral.ai/media/templates/pimpwalk-entrance-ai-trend/original-main-v2.mp4
 
 ## Posters
 
+- https://www.makeviral.ai/media/templates/pimpwalk-entrance-ai-trend/example-crowd-poster.jpg
 - https://www.makeviral.ai/media/templates/pimpwalk-entrance-ai-trend/original-main-v1.jpg
+- https://www.makeviral.ai/media/templates/storm-ai-trend/example-input.jpg
 
 ## Prompts
 
@@ -86,5 +89,37 @@ One continuous handheld take, no cuts, matching [Video 1] second by second:
 [12-15s]: the walker stands tall close to the camera, chin up, fans its face with the red card in a front paw and poses; the door holder grooves behind.
 
 Real live-action footage, a real animal. Anatomy rules: one head only, one muzzle, exactly two hind legs to walk on and two front paws, no human hands on the pet. No extra animals, no extra people. The door and shop front are completely blank: no lettering, no decals, no signage, no logos anywhere. No text, no watermark.
+```
+
+### 4. 1. Open [AI Photo with this template](https://www.makeviral.ai/photo?template=pimpwalk-entrance-ai-trend&variant=crowd) and add your photo (your photo, face clear). The photo prompt is filled in
+
+*Kind: photo_prompt*
+
+```text
+Use the uploaded image as the base. Vertical 9:16 photo taken on a phone from inside a packed crowd at a nightclub entrance hall lit deep red. The person from the image stands in the center, sharp and big in the frame from the waist up, face turned to the camera, calm, amused and confident, wearing a tailored light grey suit, a plain white shirt open at the collar and no tie. Around them a tight crowd of adult fans and photographers push in: raised phones with bright screens, a press photographer with a big black camera lens in the near foreground, two bodyguards in black behind them. Red velvet walls, red ceiling lights, a staircase with brass railings in the background, a patterned carpet. Real camera flash on the faces, slight motion blur in the crowd, realistic nightlife phone photo. No text, no logos, no brand names, no readable signs, nothing readable on the phone screens.
+```
+
+### 5. 3. Press the film button on the still to open AI Video with the still as the first frame. Settings: Kling 3.0, 15 s, 1080p, 9:16, sound on. The video prompt
+
+*Kind: video_prompt*
+
+```text
+Style: Ultra realistic nightlife arrival filmed on a phone. Single continuous handheld shot from inside the crowd. Natural shake. No cuts. Documentary realism. Audio: Only natural sound: a loud crowd cheering and shouting, rapid camera shutter clicks, muffled club bass behind the walls, footsteps. No song, no voice-over, no clear spoken words. Lighting: Deep red club light, bright phone screens and white camera flashes on the faces. Main Character: the star is the person in the image, in the light grey suit and white shirt, with the same face, hair, skin tone and outfit in every frame. Relaxed, amused, confident. The face stays the same throughout. SCENE. 0 to 3 s: The camera is pressed in the crowd at a red-lit club entrance. The star walks in through the crowd with bodyguards in black beside them, phones raised high all around. 3 to 6 s: The star stops in the center. A press photographer with a big black lens pushes in at the bottom of the frame and flashes fire. The star smiles and talks to the people in front with open hand gestures. 6 to 10 s: Fans hold their phones up in front of the star and shout. The star laughs, points at one fan, then at another, and nods, still talking. 10 to 13 s: The star raises one hand high to the crowd. The crowd cheers louder and the flashes fire again. 13 to 15 s: The star turns and moves on through the crowd while the bodyguards make a path, and the camera follows over shoulders and heads. Every person in the crowd is an adult. No text, no logos, no brand names, no readable signs, nothing readable on the phone screens.
+```
+
+### 6. 1. Open [AI Photo with this template](https://www.makeviral.ai/photo?template=pimpwalk-entrance-ai-trend&variant=crowd-pet) and add your photo (your pet, face clear). The photo prompt is filled in (Pet)
+
+*Kind: photo_prompt*
+
+```text
+Use the uploaded image as the base. Keep the animal's species, breed, body size, face, fur colors and markings exactly as in the photo. Vertical 9:16 photo taken on a phone from inside a packed crowd at a nightclub entrance hall lit deep red. The pet from the image stands on all four paws in the center on a patterned carpet, sharp and big in the frame, low camera at the pet's eye level, face turned to the camera, calm and confident, wearing a small tailored light grey suit jacket with a white shirt collar. Around it a tight crowd of adult fans and photographers lean in: raised phones with bright screens, a press photographer with a big black camera lens in the near foreground, two bodyguards in black behind it. Red velvet walls, red ceiling lights, a staircase with brass railings in the background. Real camera flash, slight motion blur in the crowd, realistic nightlife phone photo. Exactly one animal. No text, no logos, no brand names, no readable signs, nothing readable on the phone screens.
+```
+
+### 7. 3. Press the film button on the still to open AI Video with the still as the first frame. Settings: Kling 3.0, 15 s, 1080p, 9:16, sound on. The video prompt
+
+*Kind: video_prompt*
+
+```text
+Style: Ultra realistic nightlife arrival filmed on a phone. Single continuous handheld shot from inside the crowd, low at the pet's eye level. Natural shake. No cuts. Documentary realism. Audio: Only natural sound: a loud crowd cheering and shouting, rapid camera shutter clicks, muffled club bass behind the walls, footsteps. No song, no voice-over, no clear spoken words. Lighting: Deep red club light, bright phone screens and white camera flashes. Main Character: the star is the pet in the image, with the same species, breed, face, fur colors, markings and small light grey suit jacket in every frame, walking on all four paws with the natural body of that animal. Calm and confident. The face stays the same throughout. SCENE. 0 to 3 s: The camera is pressed in the crowd at a red-lit club entrance. The pet trots in through the crowd with bodyguards in black beside it, phones raised high all around. 3 to 6 s: The pet stops in the center. A press photographer with a big black lens leans in and flashes fire. The pet looks around at the people, ears up. 6 to 10 s: Fans hold their phones down toward the pet and cheer. The pet looks at one fan, then at another, and wags its tail. 10 to 13 s: The pet sits for a second and looks straight into the camera. The crowd cheers louder and the flashes fire again. 13 to 15 s: The pet stands, turns and trots on through the crowd while the bodyguards make a path, and the camera follows. Exactly one animal. Every person in the crowd is an adult. No text, no logos, no brand names, no readable signs, nothing readable on the phone screens.
 ```
 

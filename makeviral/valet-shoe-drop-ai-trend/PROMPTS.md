@@ -8,11 +8,14 @@ The valet shoe drop is a 15-second old money arrival clip: a valet opens a peach
 ## Demo videos (CDN)
 
 - https://www.makeviral.ai/media/templates/valet-shoe-drop-ai-trend/example-main-v1.mp4
+- https://www.makeviral.ai/media/templates/valet-shoe-drop-ai-trend/example-salute-v1.mp4
 
 ## Posters
 
+- https://www.makeviral.ai/media/templates/ai-ceiling-fan-trend/example-halloween-input.jpg
 - https://www.makeviral.ai/media/templates/valet-shoe-drop-ai-trend/example-main-input.jpg
 - https://www.makeviral.ai/media/templates/valet-shoe-drop-ai-trend/example-main-poster.jpg
+- https://www.makeviral.ai/media/templates/valet-shoe-drop-ai-trend/example-salute-poster.jpg
 
 ## Prompts
 
@@ -114,5 +117,70 @@ Keep the luxury building entrance, pink convertible, open car door, columns, rop
 
 No dialogue throughout the entire video. No background music.
 No text, no captions, no watermark, no readable badges, logos, signs or license plates, no extra people, no extra limbs.
+```
+
+### 4. 1. The video prompt is filled in. Settings: Seedance 2.5, 5 s, 720p, 9:16, sound off. The video prompt
+
+*Kind: video_prompt*
+
+```text
+Edit [Video 1]: Replace the man in [Video 1] with the person from [Image 1]. Keep everything else in [Video 1] exactly the same.
+
+Recreate the reference video [Video 1] shot for shot: one continuous handheld phone take on a city street, a red mid-engine supercar parked at the curb, the same camera moves, framing and timing. The ONLY change: the man who steps out of the red supercar is now the person in [Image 1]. [Video 1] is for the moves, the car, the street and the camera only.
+
+CHARACTER (from [Image 1]):
+The target = the person in [Image 1], in EVERY frame. Use the exact face, hairstyle, and body of the person in [Image 1]: face shape, eye color and eye shape, eyebrows, nose, mouth, skin tone, age, hair color, hair length and hairstyle, and any beard, moustache, glasses or freckles exactly as in the photo. Their height must look correct next to the car door and the car roof. The same real person in every frame, so their friends instantly recognize them. Never drift back to the original man's face, his short dark hair or his build.
+
+OUTFIT (exactly as in [Image 1]):
+The clothes, shoes and accessories from [Image 1]; if it does not show the legs or the shoes, plain ones that match. NO black T-shirt with a white chest print and NO navy trousers unless [Image 1] shows them.
+
+Copy the exact body movement, timing, and speed from [Video 1]. The target steps out of the car, then gives one single salute with the same hand, same angle, and same timing as the original. Keep the same walking rhythm, head turns and hand placement. Do not add or remove any movement. The salute happens only once.
+MOVEMENT, exactly as in [Video 1]'s timing:
+00:00-00:01: the driver door swings open and one leg comes out.
+00:01-00:02.5: the target climbs out and stands up beside the open door.
+00:02.5-00:03.6: walks from the car toward the camera with a relaxed smile.
+00:03.6-00:04.6: raises the right hand to the brow and gives the camera one single salute.
+00:04.6-00:05: lowers the hand toward the camera and keeps walking.
+
+KEEP 100% UNCHANGED FROM [Video 1]:
+Same car (color, shape, reflections, wheels), same background, same location, same lighting, same shadows, same camera angle, camera movement, framing, and video length. The car has a plain white number plate with no readable letters or numbers, and no badge, emblem or brand lettering. Only the target is replaced.
+
+REALISM:
+Shot like real footage from a phone camera: natural skin, correct fingers, the feet firmly on the ground. Same color grading, film grain, and motion blur as [Video 1]. Consistent face and identity in every frame, from every angle (front, side, 3/4, back).
+
+Avoid: AI look, plastic skin, CGI look, face morphing, flickering, deformed hands, distorted car, different car, sliding feet, double salute, extra arms.
+No dialogue throughout the entire video. No background music.
+No text, no captions, no watermark, no readable badges, logos, signs or license plates, no print on the clothes, no extra people, no extra limbs.
+```
+
+### 5. 1. The video prompt is filled in. Settings: Seedance 2.5, 5 s, 720p, 9:16, sound off. The video prompt (Pet)
+
+*Kind: video_prompt*
+
+```text
+Edit [Video 1]: Replace the man in [Video 1] with the pet from [Image 1]. Keep everything else in [Video 1] exactly the same.
+
+Recreate the reference video [Video 1] shot for shot: one continuous handheld phone take on a city street lined with stone buildings and trees, a red mid-engine supercar parked at the curb, the same camera moves, framing and timing. The ONLY change: the man who steps out of the red supercar is now the pet in [Image 1]. [Image 1] is the sole reference for the pet; [Video 1] is for the path, the timing, the car, the street and the camera only.
+
+CHARACTER (from [Image 1]):
+The pet = the pet in [Image 1], in EVERY frame: the same species and breed, face, eyes, ears, muzzle, fur colors, fur length and markings as in [Image 1], with the natural body volume and proportions of that animal: never flattened, squashed, stretched or merged with anything. The same pet in every frame, from the first second to the last, so its owner instantly recognizes it. It stays an animal with real paws, never a person and never human hands. No man appears anywhere at the car or on the street.
+
+MOVEMENT, with [Video 1]'s timing and path:
+00:00-00:01: the driver door of the parked red supercar swings open and the pet looks out from the driver seat.
+00:01-00:02.5: the pet hops down from the seat onto the street beside the open door and shakes out its fur.
+00:02.5-00:03.6: trots away from the car toward the camera, head up, proud.
+00:03.6-00:04.6: stops, rises on its hind legs and lifts one front paw to its brow in one single salute to the camera.
+00:04.6-00:05: drops back onto four paws and keeps walking toward the camera.
+The salute happens only once. Adapt the pet's anatomy naturally to the source motion and framing; lock its identity in every angle.
+
+KEEP 100% UNCHANGED FROM [Video 1]:
+Same car (color, shape, reflections, wheels), same background, same location, same lighting, same shadows, same camera angle, camera movement, framing, and video length. The car has a plain white number plate with no readable letters or numbers, and no badge, emblem or brand lettering. Only the target is replaced.
+
+REALISM:
+Shot like real footage from a phone camera. Real fur with natural texture, the paws touch the ground firmly, with correct shadows and weight. Same color grading, film grain, and motion blur as [Video 1].
+
+Avoid: AI look, cartoon, CGI look, plush toy look, face morphing, flickering, jitter, distorted car, different background, different car, floating paws, sliding paws, double salute, extra legs, extra animals, mismatched lighting, low quality, watermark.
+No dialogue throughout the entire video. No background music.
+No text, no captions, no watermark, no readable badges, logos, signs or license plates, no print on the clothes, no extra people, no extra limbs.
 ```
 

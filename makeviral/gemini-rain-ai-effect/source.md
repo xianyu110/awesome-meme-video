@@ -3,7 +3,7 @@
 > Gemini rain is the AI rain effect that turns a normal photo into a cinematic night-rain shot: soaked hair, water drops on your face, soft blue light, your eyes closed and your face lifted to the sky.
 
 Canonical: https://www.makeviral.ai/templates/gemini-rain-ai-effect
-Updated: 2026-10-17
+Updated: 2026-11-10
 Published: 2026-10-17
 Author: MakeViral Team (https://www.makeviral.ai/about)
 Publisher: MakeViral (https://www.makeviral.ai)
@@ -16,7 +16,7 @@ Also called: Google Gemini Rain AI Effect, AI Couple Embrace in the Rain, AI rai
 
 **Make it now:** [Make this video](https://www.makeviral.ai/templates/gemini-rain-ai-effect/create). 2 photos · 10 s · 9:16 with sound · 126 credits, charged once · ready in a few minutes · no prompt to write.
 
-Keyword: gemini rain. Also answers: couple in the rain, rain filter, ai rain effect, gemini rain ai effect filter, ai rain effect on photo, rain ai photo editing prompt, gemini rain photo prompt, couple hugging in the rain, lovers in the rain, gemini rain ai effect, rain ai effect, ai rain photo, ai rain prompt, couple rain ai photo editing prompt, gemini rain prompt, gemini rain ai, rain ai effect filter, ai rain video generator, gemini rain effect, ai rain photo prompt, ai rain photo editing, ai rain photo generator, gemini rain ai effect filter tutorial, ai rain filter, gemini rain effect prompt, rain ai effect app, ai rain effect prompt, ai rain effect video, rain photoshoot ai, rain sad photo, gemini rain filter, gemini rain couple prompt, gemini rain couple photo prompt, gemini couple in rain prompt, gemini ai rain couple prompt, gemini ai rain filter, google gemini rain couple prompt, gemini rain trend prompt, gemini rain app, ai rain filter app, ai rain photoshoot, ai couple in rain, rain filter capcut, rain filter tiktok, couple cuddling in the rain, gemini rain photo prompt couple, gemini rain ai effect tutorial, gemini rain prompt for boys, gemini rain girl prompt, gemini prompts for girl in rain, gemini prompt girl in rain, rain ai effect filter tutorial, rain ai effect tiktok, ai rain trend, couple in rain ai prompt, romantic couple in rain ai prompt, ai rain couple prompt, ai girl in rain, couple embrace in the rain, rain ai photo editing prompts for girls, ai rain photo effect, rain photoshoot ai app, couple in rain ai, ai in the rain.
+Keyword: gemini rain. Also answers: couple in the rain, rain filter, ai rain effect, gemini rain ai effect filter, ai rain effect on photo, rain ai photo editing prompt, gemini rain photo prompt, couple hugging in the rain, lovers in the rain, gemini rain ai effect, rain ai effect, ai rain photo, ai rain prompt, couple rain ai photo editing prompt, gemini rain prompt, gemini rain ai, rain ai effect filter, ai rain video generator, gemini rain effect, ai rain photo prompt, ai rain photo editing, ai rain photo generator, gemini rain ai effect filter tutorial, ai rain filter, gemini rain effect prompt, rain ai effect app, ai rain effect prompt, ai rain effect video, rain photoshoot ai, rain sad photo, gemini rain filter, gemini rain couple prompt, gemini rain couple photo prompt, gemini couple in rain prompt, gemini ai rain couple prompt, gemini ai rain filter, google gemini rain couple prompt, gemini rain trend prompt, gemini rain app, ai rain filter app, ai rain photoshoot, ai couple in rain, rain filter capcut, rain filter tiktok, couple cuddling in the rain, gemini rain photo prompt couple, gemini rain ai effect tutorial, gemini rain prompt for boys, gemini rain girl prompt, gemini prompts for girl in rain, gemini prompt girl in rain, rain ai effect filter tutorial, rain ai effect tiktok, ai rain trend, couple in rain ai prompt, romantic couple in rain ai prompt, ai rain couple prompt, ai girl in rain, couple embrace in the rain, rain ai photo editing prompts for girls, ai rain photo effect, rain photoshoot ai app, couple in rain ai, ai in the rain, wicked game trend, hug from behind ai, wicked game capcut template.
 
 ## What is the Gemini Rain AI trend, and where did it start?
 
@@ -42,6 +42,9 @@ Made from the prompts on this page. The people and pets are AI-made, not real pe
 - **Example 2** (5 s, 9:16 MP4 with sound): @pearl.akdnzz's reel of 9 October 2025, posted with the Gemini prompt this template uses: AI-made portraits in heavy rain, eyes closed, faces lifted to the sky. The Solo version makes this look as a video of you.
   - Video: https://www.makeviral.ai/media/templates/gemini-rain-ai-effect/original-solo-v2.mp4
   - Poster: https://www.makeviral.ai/media/templates/gemini-rain-ai-effect/original-solo-v1.jpg
+- **Example 3** (14 s, 9:16 MP4 with sound): The AI reel by @ai.creatorledii, posted on Instagram on 9 November 2026 to Chris Isaak's "Wicked Game": in black-and-white studio rain she walks up, holds him from behind and rests her face on his shoulder while he tilts his head up into the rain. The Black & white version copies it with your two faces.
+  - Video: https://www.makeviral.ai/media/templates/gemini-rain-ai-effect/original-noir-v2.mp4
+  - Poster: https://www.makeviral.ai/media/templates/gemini-rain-ai-effect/original-noir-v1.jpg
 
 ## How to make the Gemini Rain AI video on MakeViral
 
@@ -119,6 +122,38 @@ Settings: 1 photo (you, face clear) · Nano Banana 2.1 · photo · 2K · 9:16 ·
 
 One-tap version of this variant: https://www.makeviral.ai/templates/gemini-rain-ai-effect/create?variant=photo
 
+#### Variant: Black & white
+
+Settings: 2 photos (partner 1, face clear (stands in the rain) + partner 2, face clear (walks up and holds on)) · Seedance 2.5 · 14 s · 720p · 9:16 · no sound · 213 credits in one tap.
+
+1. The video prompt is filled in. Settings: Seedance 2.5, 14 s, 720p, 9:16, sound off. The video prompt:
+
+   ```text
+   Recreate the reference video [Video 1] shot for shot: the same black-and-white studio rain, heavy rain in long silver streaks before a dark wall, a wet shining floor, the same light, the same slow push-in, timing and moves. One take, no cuts. The ONLY change: [Image 1] replaces the man in the black shirt who stands on the right, and [Image 2] replaces the woman with long dark wet hair who walks up to him and holds him from behind. Both change: no one from the video stays, also in the first wide shot.
+
+The one who stands, on the right = the person in [Image 1], in EVERY frame: copy the exact face from [Image 1] (the face shape, eye color and eye shape, eyebrows, nose, mouth, skin tone, age, hair color, hair length and hairstyle, and any beard, moustache, glasses or freckles). NO short dark undercut and NO stubble unless [Image 1] shows them: the hair color, length and style of [Image 1], only wet. Never morph, never drift back to the original man's face.
+
+The one who walks up, on the left = the person in [Image 2], in EVERY frame: copy the exact face from [Image 2] (the face shape, eye color and eye shape, eyebrows, nose, mouth, skin tone, age, hair color, hair length and hairstyle, and any beard, moustache, glasses or freckles). NO long dark hair with red streaks unless [Image 2] shows it: the hair color, length and style of [Image 2], only wet. Never morph, never drift back to the original woman's face.
+
+Never blend or swap the two faces; each stays the same from the first frame to the last.
+
+Both wear the plain black clothes of [Video 1], soaked, never see-through, never the clothes from the photos. Black and white like [Video 1]; only the hair from [Image 2] may keep a faint tint of its own color.
+
+Timeline, matching [Video 1]:
+0-1 s: wide shot: the one from [Image 2] walks slowly toward the camera through the pouring rain; the one from [Image 1] steps in from the left, close to the lens, out of focus.
+1-3 s: the one from [Image 1] stands on the right, head lowered; the one from [Image 2] comes up behind their shoulder.
+3-5 s: push-in to a waist-up shot. The one from [Image 2] leans in close and lays one hand flat on the chest of the one from [Image 1], who covers that hand with their own.
+5-8 s: the one from [Image 2] rests a cheek on that shoulder and looks into the camera, calm; rain runs down both faces.
+8-11 s: the one from [Image 1] slowly tilts the head back into the rain, eyes closed; the one from [Image 2] closes the eyes, face on the shoulder, hand still on the chest.
+11-14 s: the one from [Image 1] lowers the head and looks ahead; the one from [Image 2] keeps the face on the shoulder. Both faces large and sharp.
+
+Tender, never sexual: no kiss. Exactly two people, one head each. No dialogue throughout the entire video. No background music. No umbrella. No color grade other than black and white. No text, no subtitles, no logos, no watermark.
+   ```
+
+2. Press Generate, then download the 9:16 MP4.
+
+One-tap version of this variant: https://www.makeviral.ai/templates/gemini-rain-ai-effect/create?variant=noir
+
 ### Which photo works best?
 
 Upload **one selfie** for Solo or Rain photo, or **two photos** for Couple: photo 1 is the one who holds, photo 2 the one who leans in.
@@ -141,13 +176,14 @@ Credits come with a plan; see [pricing](https://www.makeviral.ai/pricing). A fai
 
 ## What does the Gemini rain AI effect make?
 
-Three versions, all made from your own photos:
+Four versions, all made from your own photos:
 
 | Version | Photos | What you get |
 |---|---|---|
 | Couple | 2 | 10-second video. 0 to 3 s: you run toward the camera hand in hand down a wet cobblestone street at night. 3 to 6 s: you stop, pull each other into a tight hug and turn slowly. 6 to 10 s: a close shot of the embrace, eyes closed, foreheads together, rain running down your faces. |
 | Solo | 1 | 8-second video. You look into the lens, slowly lift your face to the sky with your eyes closed while the rain runs down, then look back with a small smile. |
 | Rain photo | 1 | A still, vertical 9:16: the classic AI rain sad photo, eyes closed, wet hair, blue light. |
+| Black & white | 2 | 14-second copy of an AI reel set to "Wicked Game": in black-and-white studio rain, photo 2 walks up and holds photo 1 from behind, a hand on the chest, the face on the shoulder, while photo 1 tilts the head up into the rain. It keeps the reel's song instead of the rain sound. |
 
 The videos come out vertical at 720p with their own sound: heavy rain, soft thunder and a slow piano. Seedance 2.5 makes them straight from your photos, with no in-between picture, so the faces stay close to yours. The photo is made with Nano Banana 2.1. The exact price shows on the Generate button before you spend anything, and every run is a new take.
 
@@ -201,6 +237,10 @@ Yes. The couple tutorials use a "Lovers in the rain" prompt: a deep blue rainy n
 
 Yes. That is the Couple version: photo 1 holds, photo 2 leans in. You run hand in hand through the rain, then hold each other close: couple hugging in the rain, couple cuddling in the rain, a couple embrace in the rain from the trend's tutorials. It is an ai couple in rain clip of 10 seconds, and it stays tender: no kissing on the mouth. For a hug without rain, see the AI hug page.
 
+### Is there a version of the Wicked Game trend, the black-and-white couple in the rain?
+
+Yes, Black & white. It copies the AI reel @ai.creatorledii posted on 9 November 2026 to Chris Isaak's "Wicked Game": in heavy studio rain, one partner walks up and holds the other from behind, a hand on the chest and the face on the shoulder, while the other tilts the head up into the rain. Photo 1 is the one who stands, photo 2 the one who walks up. You get the same 14-second black-and-white clip with your two faces and the song on it. It is the hug from behind AI look of the wicked game trend, with no wicked game CapCut template to find.
+
 ### Is there a Gemini rain prompt for boys, or a girl prompt?
 
 The same Gemini rain girl prompt works for anyone: the template takes the person from your photo, so it works as a Gemini rain prompt for boys and men too. People look for Gemini prompts for girl in rain, a Gemini prompt girl in rain, rain AI photo editing prompts for girls or an AI girl in rain look; here you just add your photo.
@@ -245,12 +285,12 @@ Only with their yes, and only adults. Never a child, a celebrity or a stranger. 
 
 ## New AI video trends this week
 
-- [Christmas Dance AI: Do the New TikTok Christmas Dance From Your Photos](https://www.makeviral.ai/templates/christmas-dance-ai-trend): Hip sways with the hands at the collar, rolling arms, a quick spin and raised fists, side by side in matching Christmas pajamas. Add two photos for the duo, one for a solo take, or two pets, and get the dance with the sound.
-- [Cat on Ultra Bee AI: Put Your Pet on the Wheelie](https://www.makeviral.ai/templates/cat-on-ultra-bee-ai-trend): Add one photo, and your cat or dog stands on an electric dirt bike and holds a long wheelie down a city road at golden hour, in the same shots as the viral clip, with its original sound. You can take the ride yourself, too.
-- [Tus Ojos Me Reflejan el Sentimiento: The Cafuné Eye Close-Up Trend](https://www.makeviral.ai/templates/tus-ojos-me-reflejan-ai-trend): You lie on your side, a hand rests on your cheek, warm light falls on your face, and the camera slowly moves in until your eyes fill the screen while the line plays. One photo in, an 8-second vertical clip with the trend's song out.
-- [İnşallah Maşallah AI Trend: Sing Neşe Karaböcek's Song on the Couch](https://www.makeviral.ai/templates/insallah-masallah-ai-trend): You sit on a light grey couch and sing the old Turkish love song straight to the camera: a hand on the heart, a big laugh with both hands on your head, a finger pointed at the camera and a kiss at the end. One photo of you, a grandparent or your pet, and the 15-second clip comes with the song.
-- [Ice Ice Baby Dance AI: Do the Viral Duo Dance With a Friend](https://www.makeviral.ai/templates/ice-ice-baby-dance-ai): Two dancers side by side, the same bouncy 90s steps, a spin on the beat and a strut to the camera. Add a photo of you and a friend, of you alone, or of your pet, and get the dance with the sound.
-- [Save Yourself Trend: Pull Yourself Up From the Cliff](https://www.makeviral.ai/templates/save-yourself-ai-trend): One photo plays both of you: the scared you clinging to a wet sea cliff, and the calm you who reaches down, pulls you up and holds you. Or use two photos: an older photo of you and a new one, or you and a friend. 15 seconds, vertical.
+- [Dog Pool Party AI Dance: Your Pet Owns the Pool Party](https://www.makeviral.ai/templates/dog-pool-party-ai-dance): Your dog or cat puts on pink swim goggles, a ruffled pink bikini and arm floaties and dances on its hind legs at a glowing night pool party: hops, a spin, then a hip shake under a phone flashlight. One photo in, a 13-second clip with the song out.
+- [Husband Emporium: Put Your Partner on Display in the Retro Ad](https://www.makeviral.ai/templates/husband-emporium-ai-trend): "Welcome to the Emporium, madam. Looking for a husband?" Add a photo, and your partner goes on display as a husband model in the viral 1950s shop ad, or your pet becomes "the good boy". The ad's own dialogue plays on your video.
+- [La Mujer del Pelotero Dance: Do the Trend From One Photo](https://www.makeviral.ai/templates/la-mujer-del-pelotero-ai-dance): Hands by the head, the forearm roll, a hip sway and a finger to the sky: the La Mujer del Pelotero TikTok routine. Add one photo of you or your pet, or two photos for you and a friend, and get the clip with the song.
+- [Iconic By Mistake Dance AI: Do the Viral Challenge With a Friend](https://www.makeviral.ai/templates/iconic-by-mistake-ai-dance): The Iconic By Mistake TikTok dance, from your photos: peace signs over the eyes, wide-knee squats, hip pops, prayer hands and a strut to the camera, side by side. Add a photo of you and one of a friend, one of you alone, or one of your pet, and get the dance with the song.
+- [Kiat Jud Dai Cat: Turn Your Pet Into the Kitten Parade](https://www.makeviral.ai/templates/kiat-jud-dai-kitten-parade-ai): A whole line of kittens walks upright down a night road and dances past the camera to "Kiat Jud Dai". Add one photo of your pet, and every dancer in the parade becomes your cat or your dog, with the song on the video.
+- [Hey Boo Come Slide With Me AI: Slide With Your Boo From Two Photos](https://www.makeviral.ai/templates/hey-boo-come-slide-with-me-ai): Hand in hand, two steps to the side, a step back and a smooth slide close, in a ballroom full of line dancers in denim. Add a photo of you and one of your partner, or one of you alone, or two of your pets, and get the dance with the song.
 
 ## Make your own Gemini Rain AI video
 

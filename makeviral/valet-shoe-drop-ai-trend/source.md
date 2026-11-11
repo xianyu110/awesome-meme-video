@@ -3,7 +3,7 @@
 > The valet shoe drop is a 15-second old money arrival clip: a valet opens a peach convertible, the passenger drops her heels on the pavement, steps into them, puts on a white blazer and walks into a luxury hotel.
 
 Canonical: https://www.makeviral.ai/templates/valet-shoe-drop-ai-trend
-Updated: 2026-11-08
+Updated: 2026-11-10
 Published: 2026-11-08
 Author: MakeViral Team (https://www.makeviral.ai/about)
 Publisher: MakeViral (https://www.makeviral.ai)
@@ -12,11 +12,11 @@ The **valet shoe drop** is a 15-second old money arrival clip: a valet opens a p
 
 A valet opens the door of a peach convertible, you drop your heels on the pavement, step into them, slip on a white blazer and walk into a grand hotel. Upload one photo and you play the lead in the real clip, with its song.
 
-Also called: Valet Convertible Arrival, Supercar Valet Entry, Old Money Arrival, Hotel Arrival trend.
+Also called: Valet Convertible Arrival, Supercar Valet Entry, Old Money Arrival, Hotel Arrival trend, Car Exit Salute.
 
 **Make it now:** [Make this video](https://www.makeviral.ai/templates/valet-shoe-drop-ai-trend/create). 1 photo · 15 s · 9:16 with sound · 228 credits, charged once · ready in up to several minutes · no prompt to write.
 
-Keyword: valet shoe drop. Also answers: valet shoe drop ai, valet shoe drop trend, valet ai trend, valet trend ai, luxury hotel arrival ai, happy nation trend, old money ai video, valet shoe drop ai trend, valet heels trend, old money arrival trend, hotel arrival ai video, valet ai video, luxury arrival ai, rich girl arrival trend, heels drop trend, happy nation tiktok trend, valet shoe drop prompt, valet shoe drop template, old money trend tiktok.
+Keyword: valet shoe drop. Also answers: valet shoe drop ai, valet shoe drop trend, valet ai trend, valet trend ai, luxury hotel arrival ai, happy nation trend, old money ai video, valet shoe drop ai trend, valet heels trend, old money arrival trend, hotel arrival ai video, valet ai video, luxury arrival ai, rich girl arrival trend, heels drop trend, happy nation tiktok trend, valet shoe drop prompt, valet shoe drop template, old money trend tiktok, getting out of supercar ai, car exit salute ai.
 
 ## What is the Valet Shoe Drop trend, and where did it start?
 
@@ -30,6 +30,8 @@ We could not find the original post or its creator (searched on 7 November 2026)
 - **2026-10-30**: An AI effects site adds two "Valet Shoe Drop" effects: one dresses you in the clip's white outfit, one keeps your own clothes.
 - **2026-11-07**: A male take, "Supercar Valet Entry" (a man walks out of a hotel to an orange supercar), has 30 likes on an AI video site's community page.
 - **2026-11-08**: MakeViral adds the valet shoe drop with three versions on the original clip: Her, Him and Pet.
+- **2026-11-09**: Another male take, "Car Exit Salute" (a man climbs out of a red supercar and salutes the camera, 5 seconds), has 330 likes on an AI video site's community page.
+- **2026-11-10**: MakeViral adds Supercar salute and Salute Pet, two versions on the 5-second car exit clip.
 
 ## What the Valet Shoe Drop video looks like
 
@@ -39,6 +41,10 @@ Made from the Her prompt on this page with an AI-made woman, not a real person. 
   - Video: https://www.makeviral.ai/media/templates/valet-shoe-drop-ai-trend/example-main-v1.mp4
   - Poster: https://www.makeviral.ai/media/templates/valet-shoe-drop-ai-trend/example-main-poster.jpg
   - Input photo: https://www.makeviral.ai/media/templates/valet-shoe-drop-ai-trend/example-main-input.jpg
+- **Example 2** (5 s, 9:16 MP4 with sound): Supercar salute, made with MakeViral from one photo of an AI-made man (not a real person): he climbs out of a red supercar, walks to the camera and salutes once.
+  - Video: https://www.makeviral.ai/media/templates/valet-shoe-drop-ai-trend/example-salute-v1.mp4
+  - Poster: https://www.makeviral.ai/media/templates/valet-shoe-drop-ai-trend/example-salute-poster.jpg
+  - Input photo: https://www.makeviral.ai/media/templates/ai-ceiling-fan-trend/example-halloween-input.jpg
 
 ## How to make the Valet Shoe Drop video on MakeViral
 
@@ -172,13 +178,90 @@ No text, no captions, no watermark, no readable badges, logos, signs or license 
 
 One-tap version of this variant: https://www.makeviral.ai/templates/valet-shoe-drop-ai-trend/create?variant=pet
 
+#### Variant: Supercar salute
+
+Settings: 1 photo (you, head to toes, face clear) · Seedance 2.5 · 5 s · 720p · 9:16 · no sound · 76 credits in one tap.
+
+1. The video prompt is filled in. Settings: Seedance 2.5, 5 s, 720p, 9:16, sound off. The video prompt:
+
+   ```text
+   Edit [Video 1]: Replace the man in [Video 1] with the person from [Image 1]. Keep everything else in [Video 1] exactly the same.
+
+Recreate the reference video [Video 1] shot for shot: one continuous handheld phone take on a city street, a red mid-engine supercar parked at the curb, the same camera moves, framing and timing. The ONLY change: the man who steps out of the red supercar is now the person in [Image 1]. [Video 1] is for the moves, the car, the street and the camera only.
+
+CHARACTER (from [Image 1]):
+The target = the person in [Image 1], in EVERY frame. Use the exact face, hairstyle, and body of the person in [Image 1]: face shape, eye color and eye shape, eyebrows, nose, mouth, skin tone, age, hair color, hair length and hairstyle, and any beard, moustache, glasses or freckles exactly as in the photo. Their height must look correct next to the car door and the car roof. The same real person in every frame, so their friends instantly recognize them. Never drift back to the original man's face, his short dark hair or his build.
+
+OUTFIT (exactly as in [Image 1]):
+The clothes, shoes and accessories from [Image 1]; if it does not show the legs or the shoes, plain ones that match. NO black T-shirt with a white chest print and NO navy trousers unless [Image 1] shows them.
+
+Copy the exact body movement, timing, and speed from [Video 1]. The target steps out of the car, then gives one single salute with the same hand, same angle, and same timing as the original. Keep the same walking rhythm, head turns and hand placement. Do not add or remove any movement. The salute happens only once.
+MOVEMENT, exactly as in [Video 1]'s timing:
+00:00-00:01: the driver door swings open and one leg comes out.
+00:01-00:02.5: the target climbs out and stands up beside the open door.
+00:02.5-00:03.6: walks from the car toward the camera with a relaxed smile.
+00:03.6-00:04.6: raises the right hand to the brow and gives the camera one single salute.
+00:04.6-00:05: lowers the hand toward the camera and keeps walking.
+
+KEEP 100% UNCHANGED FROM [Video 1]:
+Same car (color, shape, reflections, wheels), same background, same location, same lighting, same shadows, same camera angle, camera movement, framing, and video length. The car has a plain white number plate with no readable letters or numbers, and no badge, emblem or brand lettering. Only the target is replaced.
+
+REALISM:
+Shot like real footage from a phone camera: natural skin, correct fingers, the feet firmly on the ground. Same color grading, film grain, and motion blur as [Video 1]. Consistent face and identity in every frame, from every angle (front, side, 3/4, back).
+
+Avoid: AI look, plastic skin, CGI look, face morphing, flickering, deformed hands, distorted car, different car, sliding feet, double salute, extra arms.
+No dialogue throughout the entire video. No background music.
+No text, no captions, no watermark, no readable badges, logos, signs or license plates, no print on the clothes, no extra people, no extra limbs.
+   ```
+
+2. Press Generate, then download the 9:16 MP4.
+
+One-tap version of this variant: https://www.makeviral.ai/templates/valet-shoe-drop-ai-trend/create?variant=salute
+
+#### Variant: Salute Pet
+
+Settings: 1 photo (your pet, whole body) · Seedance 2.5 · 5 s · 720p · 9:16 · no sound · 76 credits in one tap.
+
+1. The video prompt is filled in. Settings: Seedance 2.5, 5 s, 720p, 9:16, sound off. The video prompt:
+
+   ```text
+   Edit [Video 1]: Replace the man in [Video 1] with the pet from [Image 1]. Keep everything else in [Video 1] exactly the same.
+
+Recreate the reference video [Video 1] shot for shot: one continuous handheld phone take on a city street lined with stone buildings and trees, a red mid-engine supercar parked at the curb, the same camera moves, framing and timing. The ONLY change: the man who steps out of the red supercar is now the pet in [Image 1]. [Image 1] is the sole reference for the pet; [Video 1] is for the path, the timing, the car, the street and the camera only.
+
+CHARACTER (from [Image 1]):
+The pet = the pet in [Image 1], in EVERY frame: the same species and breed, face, eyes, ears, muzzle, fur colors, fur length and markings as in [Image 1], with the natural body volume and proportions of that animal: never flattened, squashed, stretched or merged with anything. The same pet in every frame, from the first second to the last, so its owner instantly recognizes it. It stays an animal with real paws, never a person and never human hands. No man appears anywhere at the car or on the street.
+
+MOVEMENT, with [Video 1]'s timing and path:
+00:00-00:01: the driver door of the parked red supercar swings open and the pet looks out from the driver seat.
+00:01-00:02.5: the pet hops down from the seat onto the street beside the open door and shakes out its fur.
+00:02.5-00:03.6: trots away from the car toward the camera, head up, proud.
+00:03.6-00:04.6: stops, rises on its hind legs and lifts one front paw to its brow in one single salute to the camera.
+00:04.6-00:05: drops back onto four paws and keeps walking toward the camera.
+The salute happens only once. Adapt the pet's anatomy naturally to the source motion and framing; lock its identity in every angle.
+
+KEEP 100% UNCHANGED FROM [Video 1]:
+Same car (color, shape, reflections, wheels), same background, same location, same lighting, same shadows, same camera angle, camera movement, framing, and video length. The car has a plain white number plate with no readable letters or numbers, and no badge, emblem or brand lettering. Only the target is replaced.
+
+REALISM:
+Shot like real footage from a phone camera. Real fur with natural texture, the paws touch the ground firmly, with correct shadows and weight. Same color grading, film grain, and motion blur as [Video 1].
+
+Avoid: AI look, cartoon, CGI look, plush toy look, face morphing, flickering, jitter, distorted car, different background, different car, floating paws, sliding paws, double salute, extra legs, extra animals, mismatched lighting, low quality, watermark.
+No dialogue throughout the entire video. No background music.
+No text, no captions, no watermark, no readable badges, logos, signs or license plates, no print on the clothes, no extra people, no extra limbs.
+   ```
+
+2. Press Generate, then download the 9:16 MP4.
+
+One-tap version of this variant: https://www.makeviral.ai/templates/valet-shoe-drop-ai-trend/create?variant=salute-pet
+
 ### Which photo works best?
 
 Upload **one full-body photo**, head to toes, of one person facing the camera in good light.
 
 - The face is what carries over, so keep it sharp and not too small: no sunglasses, no hat over the eyes.
-- Your hair, face and skin tone come from the photo. The **outfit comes from the clip**: Her wears the white tank top, wide-leg trousers, heels and blazer, Him a white T-shirt, tailored trousers, loafers and a white suit jacket. Your own clothes do not matter.
-- For **Pet**, show the whole animal with its face in view, one pet per photo.
+- Your hair, face and skin tone come from the photo. The **outfit comes from the clip**: Her wears the white tank top, wide-leg trousers, heels and blazer, Him a white T-shirt, tailored trousers, loafers and a white suit jacket. Your own clothes do not matter, except in **Supercar salute**: there you keep the outfit from your photo.
+- For **Pet** and **Salute Pet**, show the whole animal with its face in view, one pet per photo.
 - Use a photo of yourself, of an adult who agreed, or of your own pet. Never a child, a celebrity or a stranger.
 
 ## How many credits does it cost?
@@ -205,13 +288,15 @@ That calm, unhurried routine is the joke and the appeal: the heels wait on the p
 
 ## Which valet shoe drop version should you pick?
 
-All three versions of this luxury hotel arrival AI template copy the same clip with top-quality AI video models, including Seedance 2.5, and take one photo.
+The three hotel versions of this luxury hotel arrival AI template copy the same clip with top-quality AI video models, including Seedance 2.5. Supercar salute and Salute Pet copy a 5-second street clip the same way. Every version takes one photo.
 
 | Version | What you get | Length | Frame | Sound |
 |---|---|---|---|---|
 | Her (default) | You take the woman's place in the clip's all-white outfit: the heels drop, the blazer goes on, the walk into the hotel. | 15 s | Vertical 9:16, 720p | The clip's song, put back on after the run |
 | Him | The same clip for a man: you drop a pair of white loafers, step into them, put on a white suit jacket and walk in. | 15 s | Vertical 9:16, 720p | The clip's song |
 | Pet | Your pet sits in the passenger seat, nudges a pair of small white heels onto the pavement, hops down and struts into the hotel. | 15 s | Vertical 9:16, 720p | The clip's song |
+| Supercar salute | You climb out of a parked red supercar on a city street, walk toward the camera and salute it once, in the clothes from your photo. | 5 s | Vertical 9:16, 720p | The clip's song |
+| Salute Pet | Your pet hops out of the same red supercar, trots toward the camera and salutes with a front paw. | 5 s | Vertical 9:16, 720p | The clip's song |
 
 The price of each version shows on its card in the prompts section of this page and on the Generate button, before you spend anything. A run takes 5 to 15 minutes. You can turn the song off on the result screen.
 
@@ -268,11 +353,11 @@ Yes. Pick Pet. Your cat or dog sits in the passenger seat, nudges a pair of smal
 
 ### Do I keep my own clothes in the video?
 
-No. The outfit is part of the trend, so Her wears the clip's white tank top, wide-leg trousers, white heels and white blazer, and Him wears a white T-shirt, tailored trousers, white loafers and a white suit jacket. Your face, hair and skin tone come from your photo.
+No. The outfit is part of the trend, so Her wears the clip's white tank top, wide-leg trousers, white heels and white blazer, and Him wears a white T-shirt, tailored trousers, white loafers and a white suit jacket. Your face, hair and skin tone come from your photo. Supercar salute is the exception: you keep the clothes from your photo.
 
 ### How long is the video and what format is it?
 
-15 seconds, vertical 9:16, 720p, one continuous take like the original clip, with its song. A run takes 5 to 15 minutes, and the create page shows the exact price on the Generate button before you spend anything.
+15 seconds (5 seconds for Supercar salute and Salute Pet), vertical 9:16, 720p, one continuous take like the original clip, with its song. A run takes 5 to 15 minutes, and the create page shows the exact price on the Generate button before you spend anything.
 
 ### Is there a valet shoe drop prompt or template I can copy?
 
@@ -281,6 +366,10 @@ This page is the valet shoe drop template, and the prompts section shows the ful
 ### Is this the Valet dance trend?
 
 No. The Valet dance on TikTok is a different trend, a dance to a song called "Valet". The valet shoe drop is the luxury hotel arrival clip with the heels on the pavement and "Happy Nation" as the sound.
+
+### Is there a getting out of supercar AI template?
+
+Yes. Pick Supercar salute, our take on the car exit salute AI clip that an AI video site's community page showed on 9 November 2026: you climb out of a parked red supercar, walk toward the camera and give it one salute. It is 5 seconds from one full-body photo, you keep the clothes from your photo, and the clip's sound, a line from "Shake It To The Max" by Moliy, goes back on after the run. Salute Pet does the same with your cat or dog. The prompt asks for a car with no badge and a plain number plate.
 
 ## Other AI video templates and tools
 
@@ -293,12 +382,12 @@ No. The Valet dance on TikTok is a different trend, a dance to a song called "Va
 
 ## New AI video trends this week
 
-- [Christmas Dance AI: Do the New TikTok Christmas Dance From Your Photos](https://www.makeviral.ai/templates/christmas-dance-ai-trend): Hip sways with the hands at the collar, rolling arms, a quick spin and raised fists, side by side in matching Christmas pajamas. Add two photos for the duo, one for a solo take, or two pets, and get the dance with the sound.
-- [Cat on Ultra Bee AI: Put Your Pet on the Wheelie](https://www.makeviral.ai/templates/cat-on-ultra-bee-ai-trend): Add one photo, and your cat or dog stands on an electric dirt bike and holds a long wheelie down a city road at golden hour, in the same shots as the viral clip, with its original sound. You can take the ride yourself, too.
-- [Tus Ojos Me Reflejan el Sentimiento: The Cafuné Eye Close-Up Trend](https://www.makeviral.ai/templates/tus-ojos-me-reflejan-ai-trend): You lie on your side, a hand rests on your cheek, warm light falls on your face, and the camera slowly moves in until your eyes fill the screen while the line plays. One photo in, an 8-second vertical clip with the trend's song out.
-- [İnşallah Maşallah AI Trend: Sing Neşe Karaböcek's Song on the Couch](https://www.makeviral.ai/templates/insallah-masallah-ai-trend): You sit on a light grey couch and sing the old Turkish love song straight to the camera: a hand on the heart, a big laugh with both hands on your head, a finger pointed at the camera and a kiss at the end. One photo of you, a grandparent or your pet, and the 15-second clip comes with the song.
-- [Ice Ice Baby Dance AI: Do the Viral Duo Dance With a Friend](https://www.makeviral.ai/templates/ice-ice-baby-dance-ai): Two dancers side by side, the same bouncy 90s steps, a spin on the beat and a strut to the camera. Add a photo of you and a friend, of you alone, or of your pet, and get the dance with the sound.
-- [Save Yourself Trend: Pull Yourself Up From the Cliff](https://www.makeviral.ai/templates/save-yourself-ai-trend): One photo plays both of you: the scared you clinging to a wet sea cliff, and the calm you who reaches down, pulls you up and holds you. Or use two photos: an older photo of you and a new one, or you and a friend. 15 seconds, vertical.
+- [Dog Pool Party AI Dance: Your Pet Owns the Pool Party](https://www.makeviral.ai/templates/dog-pool-party-ai-dance): Your dog or cat puts on pink swim goggles, a ruffled pink bikini and arm floaties and dances on its hind legs at a glowing night pool party: hops, a spin, then a hip shake under a phone flashlight. One photo in, a 13-second clip with the song out.
+- [Husband Emporium: Put Your Partner on Display in the Retro Ad](https://www.makeviral.ai/templates/husband-emporium-ai-trend): "Welcome to the Emporium, madam. Looking for a husband?" Add a photo, and your partner goes on display as a husband model in the viral 1950s shop ad, or your pet becomes "the good boy". The ad's own dialogue plays on your video.
+- [La Mujer del Pelotero Dance: Do the Trend From One Photo](https://www.makeviral.ai/templates/la-mujer-del-pelotero-ai-dance): Hands by the head, the forearm roll, a hip sway and a finger to the sky: the La Mujer del Pelotero TikTok routine. Add one photo of you or your pet, or two photos for you and a friend, and get the clip with the song.
+- [Iconic By Mistake Dance AI: Do the Viral Challenge With a Friend](https://www.makeviral.ai/templates/iconic-by-mistake-ai-dance): The Iconic By Mistake TikTok dance, from your photos: peace signs over the eyes, wide-knee squats, hip pops, prayer hands and a strut to the camera, side by side. Add a photo of you and one of a friend, one of you alone, or one of your pet, and get the dance with the song.
+- [Kiat Jud Dai Cat: Turn Your Pet Into the Kitten Parade](https://www.makeviral.ai/templates/kiat-jud-dai-kitten-parade-ai): A whole line of kittens walks upright down a night road and dances past the camera to "Kiat Jud Dai". Add one photo of your pet, and every dancer in the parade becomes your cat or your dog, with the song on the video.
+- [Hey Boo Come Slide With Me AI: Slide With Your Boo From Two Photos](https://www.makeviral.ai/templates/hey-boo-come-slide-with-me-ai): Hand in hand, two steps to the side, a step back and a smooth slide close, in a ballroom full of line dancers in denim. Add a photo of you and one of your partner, or one of you alone, or two of your pets, and get the dance with the song.
 
 ## Make your own Valet Shoe Drop video
 

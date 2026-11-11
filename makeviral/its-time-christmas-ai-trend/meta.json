@@ -1,0 +1,51 @@
+{
+  "source": "makeviral",
+  "source_site": "https://www.makeviral.ai",
+  "slug": "its-time-christmas-ai-trend",
+  "name": "Mariah Carey It's Time: Go From Halloween to Christmas at Midnight",
+  "url": "https://www.makeviral.ai/templates/its-time-christmas-ai-trend",
+  "markdown_url": "https://www.makeviral.ai/templates/its-time-christmas-ai-trend.md",
+  "blurb": "Mariah Carey It's Time is the yearly November 1st clip in which she \"defrosts\" and starts the Christmas season.",
+  "updated": "2026-11-10",
+  "published": "2026-11-10",
+  "credits": 228,
+  "demo_videos": [
+    "https://www.makeviral.ai/media/templates/its-time-christmas-ai-trend/original-main-v3.mp4"
+  ],
+  "posters": [
+    "https://www.makeviral.ai/media/templates/its-time-christmas-ai-trend/original-main-v1.jpg"
+  ],
+  "prompts": [
+    {
+      "label": "1. The video prompt is filled in. Settings: Seedance 2.5, 15 s, 720p, 9:16, sound off. The video prompt",
+      "variant": null,
+      "kind": "video_prompt",
+      "text": "Recreate the reference video [Video 1] shot for shot: the same midnight countdown cards, the same punk club close-up, the same frost, the same snowy mountain village and giant Christmas tree, the same camera moves, cut and timing. The ONLY change: the singer, in both her punk Halloween look and her red Christmas look, is now the person in [Image 1].\n\nThe singer = the person in [Image 1], in EVERY shot of both looks: copy the exact face from [Image 1]: face shape, eye color and eye shape, eyebrows, nose, mouth, skin tone, age, hair color, hair length and hairstyle, and any beard, moustache, glasses or freckles exactly as in the photo. The same real person in every frame, from the first second to the last, also while singing with the mouth wide open. Never morph, never drift back to the original singer's face. The singer keeps the hair color, hair length and hairstyle of [Image 1] in both looks: NO long honey-blonde waves and NO bright red hair unless [Image 1] shows them. The costumes come from [Video 1], fitted to the person's own body, never the clothes from [Image 1].\n\nShot 1 [0-2.0s]: a black screen with white stencil clock text in the center, exactly as in [Video 1]: \"11:59:58 PM\", then \"11:59:59 PM\", then \"12:00:00 AM\". No one shows. Keep this text exactly.\nShot 2 [2.0-3.7s]: hard cut, a close-up in a dark punk club on Halloween night: the singer in the punk look (a black cat-ear headband on their own hair, light goth makeup with dark eyeliner and dark lipstick that keeps the face from [Image 1] easy to recognize, a black studded leather jacket with chains) screams a long high note straight into the camera with the mouth wide open, while the crowd's hands reach in from every side; the first snowflakes fall.\nShot 3 [3.7-5.2s]: white frost and ice crystals grow over the whole frame, then melt into a soft white blur, and the singer appears through it in red.\nShot 4 [5.2-8.0s]: a medium close-up in front of a snowy mountain village: the singer now in the Christmas look (the red sequined Santa outfit with white fur trim and black boots), one hand by the ear, sings happily to the camera; a sleigh pulled by reindeer flies past in the sky behind.\nShot 5 [8.0-10.5s]: the camera pulls back: the singer stands, whole body, on wrapped presents at the top of a decorated Christmas tree, the sleigh passes.\nShot 6 [10.5-15s]: the camera keeps pulling back and up while the tree grows into a giant Christmas tree with the singer as the tiny star on its top, above a stone viaduct, the snowy village and the mountains; a sleigh with reindeer crosses the sky.\n\nThe mouth opens and closes exactly when the singer's mouth does in [Video 1]. No dialogue throughout the entire video. No background music.\n\nReal live-action footage. Anatomy rules: one head only, on the singer's shoulders. Two arms and two hands, five fingers on each hand. Exactly one singer; the crowd shows only as reaching hands. No pale white face paint. No text except the clock cards, no captions, no logos, no watermark."
+    },
+    {
+      "label": "1. The video prompt is filled in. Settings: Seedance 2.5, 15 s, 720p, 9:16, sound off. The video prompt",
+      "variant": "Pet",
+      "kind": "video_prompt",
+      "text": "Recreate the reference video [Video 1] shot for shot: the same midnight countdown cards, the same punk club close-up, the same frost, the same snowy mountain village and giant Christmas tree, the same camera moves, cut and timing. The ONLY change: the singer, in both the punk Halloween look and the red Christmas look, is now the pet in [Image 1].\n\nThe pet = the pet in [Image 1], in EVERY shot of both looks: the same species and breed, face, eyes, ears, muzzle, fur colors, fur length and markings as in [Image 1], with the natural body volume and proportions of that animal: never flattened, squashed, stretched or merged with anything. Whether [Image 1] shows a dog, a cat or another animal, it stays that animal, standing upright on its hind legs, with its own head and its own ears. The same pet in every frame, from the first second to the last, so its owner instantly recognizes it. Never a person: NO human face, NO human hair, NO long blonde or red hair, NO makeup. Only the costumes come from [Video 1], sized to the pet's own body.\n\nShot 1 [0-2.0s]: a black screen with white stencil clock text in the center, exactly as in [Video 1]: \"11:59:58 PM\", then \"11:59:59 PM\", then \"12:00:00 AM\". No one shows. Keep this text exactly.\nShot 2 [2.0-3.7s]: hard cut, a close-up in a dark punk club on Halloween night: the pet in the punk look (a small black studded leather jacket with chains) screams a long high note straight into the camera with the mouth wide open, while the crowd's hands reach in from every side; the first snowflakes fall.\nShot 3 [3.7-5.2s]: white frost and ice crystals grow over the whole frame, then melt into a soft white blur, and the pet appears through it in red.\nShot 4 [5.2-8.0s]: a medium close-up in front of a snowy mountain village: the pet now in the Christmas look (a red sequined Santa outfit with white fur trim), one paw by the ear, sings happily to the camera; a sleigh pulled by reindeer flies past in the sky behind.\nShot 5 [8.0-10.5s]: the camera pulls back: the pet stands, whole body, on wrapped presents at the top of a decorated Christmas tree, the sleigh passes.\nShot 6 [10.5-15s]: the camera keeps pulling back and up while the tree grows into a giant Christmas tree with the pet as the tiny star on its top, above a stone viaduct, the snowy village and the mountains; a sleigh with reindeer crosses the sky.\n\nThe pet's mouth opens wide when the singer's mouth does in [Video 1], as if it sings. No dialogue throughout the entire video. No background music.\n\nAnatomy rules: one head only, one muzzle, natural teeth and tongue. Four legs, the front ones ending in animal paws, never human hands. Exactly one pet, no people except the crowd's reaching hands in the club. No text except the clock cards, no captions, no logos, no watermark."
+    }
+  ],
+  "variant_headings": [
+    "What the It's Time Christmas video looks like",
+    "How to make the It's Time Christmas video on MakeViral",
+    "Which photo works best?",
+    "What happens in the It's Time Christmas video, second by second?",
+    "Human or Pet: which one should you make?",
+    "What happens in the 2026 It's Time video?",
+    "Can I make a Mariah Carey It's Time AI video with my own face?",
+    "Is the song on my video?",
+    "Where can I watch the original Mariah Carey It's Time video?",
+    "How long is the video and what format is it?",
+    "Does the It's Time video cost credits?",
+    "Is the video real?",
+    "Other AI video templates and tools",
+    "New AI video trends this week",
+    "Make your own It's Time Christmas video"
+  ],
+  "prompt_count": 2,
+  "scraped_at": "2026-11-11"
+}

@@ -1,0 +1,70 @@
+# Hey Boo Come Slide With Me AI: Slide With Your Boo From Two Photos
+
+- Source: [makeviral](https://www.makeviral.ai/templates/hey-boo-come-slide-with-me-ai)
+- Slug: `hey-boo-come-slide-with-me-ai`
+
+Hey Boo Come Slide With Me is the couples line dance trend of autumn 2026: a couple holds hands and slides across a ballroom to a song that opens with "Hey boo, come slide with me".
+
+## Demo videos (CDN)
+
+- https://www.makeviral.ai/media/templates/hey-boo-come-slide-with-me-ai/original-main-v2.mp4
+
+## Posters
+
+- https://www.makeviral.ai/media/templates/hey-boo-come-slide-with-me-ai/original-main-v1.jpg
+
+## Prompts
+
+### 1. 1. The video prompt is filled in. Settings: Seedance 2.5, 13 s, 720p, 9:16, sound off. The video prompt
+
+*Kind: video_prompt*
+
+```text
+Recreate the reference video [Video 1] shot for shot: the same bright ballroom with the crystal chandeliers, the polished wood dance floor, the dark blue backdrop with a silver crown and the silver sparkle curtains, the line of dancers in denim behind, the same camera angles, cuts, timing and dance moves. The ONLY change: the woman on the left is now the person in [Image 1], and the man on the right is now the person in [Image 2].
+
+Use [Image 1] as adult Person A, on the LEFT, and [Image 2] as adult Person B, on the RIGHT, hand in hand. Do not swap roles or merge identities.
+
+Person A = the person in [Image 1], in EVERY shot, also in the wide shot: copy the exact face from [Image 1] (the face shape, eye color and eye shape, eyebrows, nose, mouth, skin tone, age, hair color, hair length and hairstyle, and any beard, moustache, glasses or freckles). They wear the clothes and shoes from [Image 1]. NO long curly reddish-brown hair, no big hoop earrings and no studded denim overalls unless [Image 1] shows them.
+
+Person B = the person in [Image 2], in EVERY shot, also in the wide shot: copy the exact face from [Image 2] (the face shape, eye color and eye shape, eyebrows, nose, mouth, skin tone, age, hair color, hair length and hairstyle, and any beard, moustache, glasses or freckles). They wear the clothes and shoes from [Image 2]. NO dark sunglasses, no shaved head, no goatee, no silver chain, no denim jacket with a fleece collar and no pale yellow hoodie unless [Image 2] shows them.
+
+Both change: no one from the video stays, also in the wide shot where the two are small in the middle of the line. The same real people from the first second to the last, so their friends recognize them at once. Never morph, never swap the two faces, never drift back to the original couple's faces.
+
+The dance, matching the reference second by second, on the beat: hand in hand, small steps to the side, a step back, a smooth slide close together, relaxed hip sways and smiles at each other.
+Shot 1 [0-4.6 s]: a medium full shot, head to shoes: Person A and Person B walk toward the camera hand in hand, stepping on the beat; Person A smiles at Person B.
+Shot 2 [4.6-8.4 s]: hard cut, a wide shot of the whole ballroom: the two dance in the middle of the front line, and the whole line of dancers does the same steps.
+Shot 3 [8.4-13 s]: hard cut, back to the medium full shot: hand in hand, they step to the side, step back and slide close on the beat, smiling.
+
+The backdrop shows no words and no letters: only the crown shape and the sparkle. No dialogue throughout the entire video. No background music. One head on each person, five fingers on each hand, no extra limbs. Exactly two people in front. No text, no captions, no logos, no watermark.
+```
+
+### 2. 1. The video prompt is filled in. Settings: kling-3-motion, 10 s, 720p, 9:16, sound off. The video prompt
+
+*Kind: video_prompt*
+
+```text
+One continuous single take, fixed camera, vertical video. Use the reference image as the sole character identity reference and the reference video as the motion reference. Animate exactly one adult dancer, the person from the reference image instead of the woman, in the place from the reference image. Preserve the person's recognizable face, hairstyle, skin tone, body proportions, outfit, shoes, and accessories throughout the video. Follow the reference dancer's movement order and timing: the relaxed walk toward the camera and back, the side steps and slides on the beat, the hip sways, the loose arms and the playful smiles at the camera. Do not invent additional moves. Keep the entire body visible from head to shoes. Follow the reference framing. Maintain natural balance, stable ground contact, and consistent shadows. Keep the face recognizable during turns. No extra dancers, duplicate bodies, extra limbs, fused fingers, outfit changes, new camera cuts, text, or watermark.
+No long brown hair, no neon yellow tank top, no wide blue jeans, no white sneakers and no sunglasses on the head unless the reference image shows them.
+```
+
+### 3. 1. The video prompt is filled in. Settings: Seedance 2.5, 13 s, 720p, 9:16, sound off. The video prompt (Pet)
+
+*Kind: video_prompt*
+
+```text
+Recreate the reference video [Video 1] shot for shot: the same bright ballroom with the crystal chandeliers, the polished wood dance floor, the dark blue backdrop with a silver crown and the silver sparkle curtains, the line of dancers in denim behind, the same camera angles, cuts, timing and dance moves. The ONLY change: the woman on the left is now the pet in [Image 1], and the man on the right is now the pet in [Image 2]. Both pets stand upright on their hind legs like people, paw in paw.
+
+Pet 1 (LEFT) = the pet in [Image 1], whole body, in EVERY shot, also in the wide shot: the same species and breed, head shape, muzzle, eyes, ears, fur colors, fur length, markings and body shape as in [Image 1], with the natural body volume and proportions of that animal: never flattened, squashed, stretched or merged with anything, so its owner instantly recognizes it. No clothes, no overalls, no earrings.
+
+Pet 2 (RIGHT) = the pet in [Image 2], whole body, in EVERY shot, also in the wide shot: the same species and breed, head shape, muzzle, eyes, ears, fur colors, fur length, markings and body shape as in [Image 2], with the natural body volume and proportions of that animal: never flattened, squashed, stretched or merged with anything, so its owner instantly recognizes it. No clothes, no jacket, no hoodie, no sunglasses, no chain.
+
+Both change: neither the woman nor the man of the video stays in front, also in the wide shot. Never blend the two animals: [Image 1] is only Pet 1, [Image 2] is only Pet 2, also when both are the same kind of animal. The people in the line behind stay as in the video.
+
+The dance, matching the reference second by second, on the beat: paw in paw, small steps to the side, a step back, a smooth slide close together, little hip sways.
+Shot 1 [0-4.6 s]: a medium full shot, ears to paws: the two pets walk upright toward the camera paw in paw, stepping on the beat; Pet 1 looks at Pet 2.
+Shot 2 [4.6-8.4 s]: hard cut, a wide shot of the whole ballroom: the two pets dance in the middle of the front line, and the whole line of dancers does the same steps.
+Shot 3 [8.4-13 s]: hard cut, back to the medium full shot: paw in paw, they step to the side, step back and slide close on the beat.
+
+The backdrop shows no words and no letters: only the crown shape and the sparkle. No dialogue throughout the entire video. No background music. Anatomy rules: one head per animal, one tail if the animal has one, two hind legs on the floor and two front legs, no extra legs or paws, no human hands, no human face on an animal. Exactly two animals in front. No text, no captions, no logos, no watermark.
+```
+

@@ -8,11 +8,13 @@ Gemini rain is the AI rain effect that turns a normal photo into a cinematic nig
 ## Demo videos (CDN)
 
 - https://www.makeviral.ai/media/templates/gemini-rain-ai-effect/original-main-v2.mp4
+- https://www.makeviral.ai/media/templates/gemini-rain-ai-effect/original-noir-v2.mp4
 - https://www.makeviral.ai/media/templates/gemini-rain-ai-effect/original-solo-v2.mp4
 
 ## Posters
 
 - https://www.makeviral.ai/media/templates/gemini-rain-ai-effect/original-main-v1.jpg
+- https://www.makeviral.ai/media/templates/gemini-rain-ai-effect/original-noir-v1.jpg
 - https://www.makeviral.ai/media/templates/gemini-rain-ai-effect/original-solo-v1.jpg
 
 ## Prompts
@@ -59,5 +61,31 @@ Exactly one person. No umbrella. No text, no subtitles, no logos, no watermark.
 
 ```text
 Use the uploaded image as the base. A cinematic portrait of the person from the uploaded image standing in the rain, their eyes closed and face lifted slightly towards the sky, turned three-quarters to the camera, the whole face in view. Their hair is wet, with delicate water droplets glistening on their skin. Blue light reflects softly on their face, creating a dramatic and emotional atmosphere. High detail, 4K resolution, studio lighting, artistic rain photoshoot style. Vertical 9:16 photo from the chest up, a dark background with heavy rain in long silver streaks. They wear the clothes from the uploaded image, darkened by the rain, fully clothed and never see-through. Exactly one person. No umbrella, no text, no logos, no watermark.
+```
+
+### 4. 1. The video prompt is filled in. Settings: Seedance 2.5, 14 s, 720p, 9:16, sound off. The video prompt
+
+*Kind: video_prompt*
+
+```text
+Recreate the reference video [Video 1] shot for shot: the same black-and-white studio rain, heavy rain in long silver streaks before a dark wall, a wet shining floor, the same light, the same slow push-in, timing and moves. One take, no cuts. The ONLY change: [Image 1] replaces the man in the black shirt who stands on the right, and [Image 2] replaces the woman with long dark wet hair who walks up to him and holds him from behind. Both change: no one from the video stays, also in the first wide shot.
+
+The one who stands, on the right = the person in [Image 1], in EVERY frame: copy the exact face from [Image 1] (the face shape, eye color and eye shape, eyebrows, nose, mouth, skin tone, age, hair color, hair length and hairstyle, and any beard, moustache, glasses or freckles). NO short dark undercut and NO stubble unless [Image 1] shows them: the hair color, length and style of [Image 1], only wet. Never morph, never drift back to the original man's face.
+
+The one who walks up, on the left = the person in [Image 2], in EVERY frame: copy the exact face from [Image 2] (the face shape, eye color and eye shape, eyebrows, nose, mouth, skin tone, age, hair color, hair length and hairstyle, and any beard, moustache, glasses or freckles). NO long dark hair with red streaks unless [Image 2] shows it: the hair color, length and style of [Image 2], only wet. Never morph, never drift back to the original woman's face.
+
+Never blend or swap the two faces; each stays the same from the first frame to the last.
+
+Both wear the plain black clothes of [Video 1], soaked, never see-through, never the clothes from the photos. Black and white like [Video 1]; only the hair from [Image 2] may keep a faint tint of its own color.
+
+Timeline, matching [Video 1]:
+0-1 s: wide shot: the one from [Image 2] walks slowly toward the camera through the pouring rain; the one from [Image 1] steps in from the left, close to the lens, out of focus.
+1-3 s: the one from [Image 1] stands on the right, head lowered; the one from [Image 2] comes up behind their shoulder.
+3-5 s: push-in to a waist-up shot. The one from [Image 2] leans in close and lays one hand flat on the chest of the one from [Image 1], who covers that hand with their own.
+5-8 s: the one from [Image 2] rests a cheek on that shoulder and looks into the camera, calm; rain runs down both faces.
+8-11 s: the one from [Image 1] slowly tilts the head back into the rain, eyes closed; the one from [Image 2] closes the eyes, face on the shoulder, hand still on the chest.
+11-14 s: the one from [Image 1] lowers the head and looks ahead; the one from [Image 2] keeps the face on the shoulder. Both faces large and sharp.
+
+Tender, never sexual: no kiss. Exactly two people, one head each. No dialogue throughout the entire video. No background music. No umbrella. No color grade other than black and white. No text, no subtitles, no logos, no watermark.
 ```
 

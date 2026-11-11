@@ -6,15 +6,17 @@
   "url": "https://www.makeviral.ai/templates/gemini-rain-ai-effect",
   "markdown_url": "https://www.makeviral.ai/templates/gemini-rain-ai-effect.md",
   "blurb": "Gemini rain is the AI rain effect that turns a normal photo into a cinematic night-rain shot: soaked hair, water drops on your face, soft blue light, your eyes closed and your face lifted to the sky.",
-  "updated": "2026-10-17",
+  "updated": "2026-11-10",
   "published": "2026-10-17",
   "credits": 126,
   "demo_videos": [
     "https://www.makeviral.ai/media/templates/gemini-rain-ai-effect/original-main-v2.mp4",
+    "https://www.makeviral.ai/media/templates/gemini-rain-ai-effect/original-noir-v2.mp4",
     "https://www.makeviral.ai/media/templates/gemini-rain-ai-effect/original-solo-v2.mp4"
   ],
   "posters": [
     "https://www.makeviral.ai/media/templates/gemini-rain-ai-effect/original-main-v1.jpg",
+    "https://www.makeviral.ai/media/templates/gemini-rain-ai-effect/original-noir-v1.jpg",
     "https://www.makeviral.ai/media/templates/gemini-rain-ai-effect/original-solo-v1.jpg"
   ],
   "prompts": [
@@ -35,6 +37,12 @@
       "variant": null,
       "kind": "prompt",
       "text": "Use the uploaded image as the base. A cinematic portrait of the person from the uploaded image standing in the rain, their eyes closed and face lifted slightly towards the sky, turned three-quarters to the camera, the whole face in view. Their hair is wet, with delicate water droplets glistening on their skin. Blue light reflects softly on their face, creating a dramatic and emotional atmosphere. High detail, 4K resolution, studio lighting, artistic rain photoshoot style. Vertical 9:16 photo from the chest up, a dark background with heavy rain in long silver streaks. They wear the clothes from the uploaded image, darkened by the rain, fully clothed and never see-through. Exactly one person. No umbrella, no text, no logos, no watermark."
+    },
+    {
+      "label": "1. The video prompt is filled in. Settings: Seedance 2.5, 14 s, 720p, 9:16, sound off. The video prompt",
+      "variant": null,
+      "kind": "video_prompt",
+      "text": "Recreate the reference video [Video 1] shot for shot: the same black-and-white studio rain, heavy rain in long silver streaks before a dark wall, a wet shining floor, the same light, the same slow push-in, timing and moves. One take, no cuts. The ONLY change: [Image 1] replaces the man in the black shirt who stands on the right, and [Image 2] replaces the woman with long dark wet hair who walks up to him and holds him from behind. Both change: no one from the video stays, also in the first wide shot.\n\nThe one who stands, on the right = the person in [Image 1], in EVERY frame: copy the exact face from [Image 1] (the face shape, eye color and eye shape, eyebrows, nose, mouth, skin tone, age, hair color, hair length and hairstyle, and any beard, moustache, glasses or freckles). NO short dark undercut and NO stubble unless [Image 1] shows them: the hair color, length and style of [Image 1], only wet. Never morph, never drift back to the original man's face.\n\nThe one who walks up, on the left = the person in [Image 2], in EVERY frame: copy the exact face from [Image 2] (the face shape, eye color and eye shape, eyebrows, nose, mouth, skin tone, age, hair color, hair length and hairstyle, and any beard, moustache, glasses or freckles). NO long dark hair with red streaks unless [Image 2] shows it: the hair color, length and style of [Image 2], only wet. Never morph, never drift back to the original woman's face.\n\nNever blend or swap the two faces; each stays the same from the first frame to the last.\n\nBoth wear the plain black clothes of [Video 1], soaked, never see-through, never the clothes from the photos. Black and white like [Video 1]; only the hair from [Image 2] may keep a faint tint of its own color.\n\nTimeline, matching [Video 1]:\n0-1 s: wide shot: the one from [Image 2] walks slowly toward the camera through the pouring rain; the one from [Image 1] steps in from the left, close to the lens, out of focus.\n1-3 s: the one from [Image 1] stands on the right, head lowered; the one from [Image 2] comes up behind their shoulder.\n3-5 s: push-in to a waist-up shot. The one from [Image 2] leans in close and lays one hand flat on the chest of the one from [Image 1], who covers that hand with their own.\n5-8 s: the one from [Image 2] rests a cheek on that shoulder and looks into the camera, calm; rain runs down both faces.\n8-11 s: the one from [Image 1] slowly tilts the head back into the rain, eyes closed; the one from [Image 2] closes the eyes, face on the shoulder, hand still on the chest.\n11-14 s: the one from [Image 1] lowers the head and looks ahead; the one from [Image 2] keeps the face on the shoulder. Both faces large and sharp.\n\nTender, never sexual: no kiss. Exactly two people, one head each. No dialogue throughout the entire video. No background music. No umbrella. No color grade other than black and white. No text, no subtitles, no logos, no watermark."
     }
   ],
   "variant_headings": [
@@ -52,6 +60,6 @@
     "New AI video trends this week",
     "Make your own Gemini Rain AI video"
   ],
-  "prompt_count": 3,
-  "scraped_at": "2026-11-08"
+  "prompt_count": 4,
+  "scraped_at": "2026-11-11"
 }

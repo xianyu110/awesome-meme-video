@@ -1,0 +1,53 @@
+{
+  "source": "makeviral",
+  "source_site": "https://www.makeviral.ai",
+  "slug": "la-mujer-del-pelotero-ai-dance",
+  "name": "La Mujer del Pelotero Dance: Do the Trend From One Photo",
+  "url": "https://www.makeviral.ai/templates/la-mujer-del-pelotero-ai-dance",
+  "markdown_url": "https://www.makeviral.ai/templates/la-mujer-del-pelotero-ai-dance.md",
+  "blurb": "The La Mujer del Pelotero trend is a TikTok hand routine to the party song \"La Mujer del Pelotero\": hands beside the head, forearms rolled at the chest, a hip sway and a finger pointed up.",
+  "updated": "2026-11-10",
+  "published": "2026-11-10",
+  "credits": 44,
+  "demo_videos": [
+    "https://www.makeviral.ai/media/templates/la-mujer-del-pelotero-ai-dance/original-duo-v2.mp4",
+    "https://www.makeviral.ai/media/templates/la-mujer-del-pelotero-ai-dance/original-main-v2.mp4"
+  ],
+  "posters": [
+    "https://www.makeviral.ai/media/templates/la-mujer-del-pelotero-ai-dance/original-duo-v1.jpg",
+    "https://www.makeviral.ai/media/templates/la-mujer-del-pelotero-ai-dance/original-main-v1.jpg"
+  ],
+  "prompts": [
+    {
+      "label": "1. The video prompt is filled in. Settings: kling-3-motion, 11 s, 720p, 9:16, sound off. The video prompt",
+      "variant": "Human",
+      "kind": "video_prompt",
+      "text": "Use the reference image as the sole character identity reference and the reference video as the motion reference. Animate exactly one adult dancer, in the place from the reference image. Preserve the person's recognizable face, hairstyle, skin tone, body proportions, outfit and accessories throughout the video. Follow the reference dancer's movement order and timing: the hands together at the waist, both hands lifted beside the head, one arm swung up and out, the forearms stacked at chest height and rolled from side to side on the beat, the hands swung down low to one side, the hip sway with small hand flicks at the chest, then the palms opened to the sides and one finger pointed up. Copy the happy, flirty face and the mouth that sings along. Do not invent additional moves. Keep the body visible from the head to the knees, with enough space around both hands. Follow the reference framing: a fixed camera and one continuous take. Maintain natural balance and consistent shadows. Keep the face recognizable during every move. No extra dancers, duplicate bodies, extra limbs, fused fingers, outfit changes, new camera cuts, text, or watermark. Use a vertical 9:16 output.\nNo black crop top, no black leggings and no long dark wavy hair unless the reference image shows them."
+    },
+    {
+      "label": "1. The video prompt is filled in. Settings: Seedance 2.5, 11 s, 720p, 9:16, sound off. The video prompt",
+      "variant": null,
+      "kind": "video_prompt",
+      "text": "Recreate the reference video [Video 1] shot for shot: the same modern kitchen at night with the white counter, the bottles on it and the dark ceiling beam, the same low phone camera that looks up a little, the same framing, timing and dance moves, one continuous take with no cuts. The ONLY change: the woman on the LEFT is now the person in [Image 1], and the woman on the RIGHT is now the person in [Image 2].\n\nDancer 1 (LEFT) = the person in [Image 1], in EVERY frame: copy the exact face from [Image 1]: face shape, eye color and eye shape, eyebrows, nose, mouth, skin tone, age, hair color, hair length and hairstyle, and any beard, moustache, glasses or freckles exactly as in the photo. They wear the clothes from [Image 1]. NO black evening dress and no silver bracelets unless [Image 1] shows them.\n\nDancer 2 (RIGHT) = the person in [Image 2], in EVERY frame: copy the exact face from [Image 2]: face shape, eye color and eye shape, eyebrows, nose, mouth, skin tone, age, hair color, hair length and hairstyle, and any beard, moustache, glasses or freckles exactly as in the photo. They wear the clothes from [Image 2]. NO navy slip dress, no long wavy highlighted hair and no bracelets unless [Image 2] shows them.\n\nThe same real people in every frame, from the first second to the last, so their friends instantly recognize them, also when they turn. Never morph, never drift back to the original dancers' faces, never add or remove facial hair. Do not mix the two faces: [Image 1] is only dancer 1 on the left, [Image 2] is only dancer 2 on the right. Both change: no one from the video stays.\n\nThe dance, matching the reference second by second, on the beat, both dancers together:\n0-1 s: side by side, hands together at the waist, smiling at the camera.\n1-2.5 s: they lift their hands beside the head; dancer 1 swings one arm up high.\n2.5-5.5 s: forearms stacked at chest height and rolled from side to side, hips swaying.\n5.5-6.5 s: the hands swing down low to one side.\n6.5-8.5 s: hands together at the waist, a hip sway and small hand flicks, singing along.\n8.5-11 s: one finger points up, the palms open, and they throw one arm out as dancer 2 turns a little to the side.\n\nAnatomy rules: one head per person, on that person's own shoulders. A face never appears on hands, arms or clothes. Exactly two people. Two hands with five fingers each. No extra dancers, duplicate bodies, extra limbs, fused fingers, text, logos or watermark."
+    },
+    {
+      "label": "1. The video prompt is filled in. Settings: Seedance 2.5, 11 s, 720p, 9:16, sound off. The video prompt",
+      "variant": "Pet",
+      "kind": "video_prompt",
+      "text": "Recreate the reference video [Video 1] shot for shot: the same modern kitchen with the tall steel fridge, the built-in oven and microwave on the left and the dark counter at the bottom of the frame, the same fixed phone camera, framing, timing and dance moves, one continuous take with no cuts. The ONLY change: the woman who dances is completely replaced by the pet in [Image 1]: the WHOLE body, not just the head.\n\nThe dancer = the pet in [Image 1], whole body, in every frame: the same species and breed, head shape, muzzle, eyes, ears, fur colors, fur length, markings and body shape as in [Image 1], with the natural body volume and proportions of that animal: never flattened, squashed, stretched or merged with anything, so its owner instantly recognizes it. It stands upright on its hind legs like a person the whole time, in the woman's place. No human body, no human face, no clothes, no crop top, no leggings, no human hair. If [Image 1] shows a dog, a cat or another animal, that animal dances in the same place with the same moves.\n\nThe dance, matching the reference second by second, on the beat, done with the front paws:\n0-1 s: front paws together at the belly, looking at the camera.\n1-2 s: both front paws lifted beside the head, then one front leg swung up and out.\n2-5 s: the front legs stacked at chest height and rolled from side to side, the hips swaying.\n5-6 s: the front paws swing down low to one side.\n6-8.5 s: paws at the chest with small flicks, a hip sway, the mouth opening and closing with the beat.\n8.5-11 s: the front paws open to the sides, then one paw points up.\n\nThe pet keeps real animal anatomy: furry forelegs ending in round fluffy paws covered in its own fur, never human hands, no bare skin, no fingers, even when it points a paw up. One head only, one tail, two hind legs and two front legs, no extra legs or paws. No text, no captions or labels on screen, no logos, no watermark, no people, no extra animals."
+    }
+  ],
+  "variant_headings": [
+    "What the La Mujer del Pelotero video looks like",
+    "How to make the La Mujer del Pelotero video on MakeViral",
+    "Which photo works best?",
+    "How do I make the La Mujer del Pelotero AI dance video?",
+    "Where does the background of my video come from?",
+    "How long is the video and what format is it?",
+    "Other AI video templates and tools",
+    "New AI video trends this week",
+    "Make your own La Mujer del Pelotero video"
+  ],
+  "prompt_count": 3,
+  "scraped_at": "2026-11-11"
+}
