@@ -3,7 +3,7 @@
 > I love the Smiths is the line from the 500 Days of Summer elevator scene: one person hears music leak from a coworker's headphones, says "I love the Smiths", says it again louder and walks out.
 
 Canonical: https://www.makeviral.ai/templates/i-love-the-smiths-ai-trend
-Updated: 2026-11-09
+Updated: 2026-11-10
 Published: 2026-11-06
 Author: MakeViral Team (https://www.makeviral.ai/about)
 Publisher: MakeViral (https://www.makeviral.ai)
@@ -16,7 +16,7 @@ Also called: Tom and Summer elevator scene, 500 Days of Summer elevator AI trend
 
 **Make it now:** [Make this video](https://www.makeviral.ai/templates/i-love-the-smiths-ai-trend/create). 2 photos · 15 s · 9:16 with sound · 189 credits, charged once · ready in a few minutes · no prompt to write.
 
-Keyword: i love the smiths. Also answers: i said i love the smiths, 500 days of summer elevator scene, i love the smiths movie, i love the smiths what i said i love the smiths, i love the smiths i said i love the smiths, i love the smiths scene, i love the smiths meme, i love the smiths ai, i love the smiths trend, 500 days of summer meme, i love the smiths elevator scene, i love the smiths ai video, i love the smiths 500 days of summer, 500 days of summer elevator, 500 days of summer elevator meme, i said i love the smiths meme, i said i love the smiths trend, i love the smiths tiktok, i love the smiths tiktok trend, i love the smiths meme template, i love the smiths meme generator, 500 days of summer meme generator, 500 days of summer meme template, i love the smiths me too meme, i love the smiths elevator, 500 days of summer ai, 500 days of summer ai trend, i love the smiths sorry, sorry i said i love the smiths, i love the smiths tiktok audio, i love the smiths tiktok sound, i love the smiths quote, i love the smiths line, 500 days of summer elevator song, 500 days of summer lift scene, i love the smiths headphones, what movie is i said i love the smiths from, i love the smiths template, i love the smiths video, i love the smiths dialogue, i love the smiths ai trend, i love the smiths gif, 500 days of summer elevator scene i love the smiths, i said i love the smiths movie name, i love the smiths movie scene, i love the smiths audio, i love the smiths song, 500 days of summer elevator scene song, 500 days of summer elevator dialogue, 500 days of summer elevator clip, 500 days of summer elevator scene meme, 500 days of summer tiktok trend, i said i love the smiths meaning, i said i love the smiths song, you have good taste in music 500 days of summer, i love the smiths scene ai, i love the smiths split screen, 500 days of summer character swap ai, i love the smiths elevator scene ai.
+Keyword: i love the smiths. Also answers: i said i love the smiths, 500 days of summer elevator scene, i love the smiths movie, i love the smiths what i said i love the smiths, i love the smiths i said i love the smiths, i love the smiths scene, i love the smiths meme, i love the smiths ai, i love the smiths trend, 500 days of summer meme, i love the smiths elevator scene, 500 days of summer i love the smiths, i like the smiths, i love the smiths ai video, i love the smiths 500 days of summer, the smiths 500 days of summer, what movie is i love the smiths from, 500 days of summer elevator, 500 days of summer elevator meme, i said i love the smiths meme, i said i love the smiths trend, i love the smiths tiktok, i love the smiths tiktok trend, i love the smiths meme template, i love the smiths meme generator, 500 days of summer meme generator, 500 days of summer meme template, i love the smiths me too meme, i love the smiths elevator, 500 days of summer ai, 500 days of summer ai trend, i love the smiths sorry, sorry i said i love the smiths, i love the smiths tiktok audio, i love the smiths tiktok sound, i love the smiths quote, i love the smiths line, 500 days of summer elevator song, 500 days of summer lift scene, i love the smiths headphones, what movie is i said i love the smiths from, i love the smiths template, i love the smiths video, i love the smiths dialogue, i love the smiths ai trend, i love the smiths gif, 500 days of summer elevator scene i love the smiths, i said i love the smiths movie name, i love the smiths movie scene, i said i love the smiths movie, i love the smiths film, where is the i love the smiths audio from, i like the smiths movie, i love the smiths original, you like the smiths, i like the smiths meme, i love the smiths audio, i love the smiths song, i love the smiths hangi film, i love the smiths dialogo, 500 days of summer elevator scene song, 500 days of summer elevator dialogue, 500 days of summer elevator clip, 500 days of summer elevator scene meme, 500 days of summer tiktok trend, i said i love the smiths meaning, i said i love the smiths song, you have good taste in music 500 days of summer, i love the smiths scene ai, i love the smiths split screen, 500 days of summer character swap ai, i love the smiths elevator scene ai.
 
 ## What is the I Love The Smiths trend, and where did it start?
 
@@ -52,7 +52,7 @@ Everything runs in the browser. No editing app, no watermark.
 ### The one-tap way (no prompt to write)
 
 1. **Add the two photos.** Press "Make yours" and add the listener with headphones (stays in), then the one who says the line (walks out). Add them in this order, because the order decides who is who in the scene. Take them with the camera or pick them from your library. Start here: https://www.makeviral.ai/templates/i-love-the-smiths-ai-trend/create
-2. **Press Generate.** The button shows the price. Seedance 2.5 films the I Love The Smiths scene straight from your photos, with no in-between picture, for 15 seconds with original sound. You write no prompt.
+2. **Press Generate.** The button shows the price. Seedance 2.5 films the I Love The Smiths scene straight from your photos, with no in-between picture, for 15 seconds with original sound and the trend's song under it. You write no prompt.
 3. **Download or share.** The video is ready in a few minutes as a 9:16 MP4. Download it, share it from your phone, or find it later in My videos.
 
 ### The by-hand way, with the exact prompts
@@ -226,11 +226,11 @@ The I love the Smiths dialogue is short, and the video follows it:
 5. The bell, the doors open, and the speaker walks out.
 6. The listener stays inside, frozen, as the doors close.
 
-Online the line is quoted in a few ways: "I love the Smiths. I said I love the Smiths.", "Sorry, I said I love the Smiths", or "I love the Smiths. What? I said I love the Smiths." Both are the same I love the Smiths quote. In the film she also sings a line of the song; our video hums an original tune instead.
+Online the line is quoted in a few ways: "I love the Smiths. I said I love the Smiths.", "Sorry, I said I love the Smiths", or "I love the Smiths. What? I said I love the Smiths." Both are the same I love the Smiths quote. In the film she also sings a line of the song; in our video the speaker hums an original tune, and the song itself plays under the scene.
 
 ## Sound, captions and hashtags
 
-Your video has the spoken lines, the elevator hum, a faint tune from the headphones, the bell and the doors. **The Smiths song itself is not on the video**, and neither is the film's audio, except in the Full scene version, which carries the scene's own sound. On TikTok, add the trend's sound when you post if you want the song: search the I love the Smiths TikTok audio, the clip of the scene that most posts use.
+Your video has the spoken lines, the elevator hum, the bell and the doors, with **the Smiths song "There Is a Light That Never Goes Out" playing under them**, the part from "And if a ten-ton truck" to "the privilege is mine". The song stays low, so "I love the Smiths" and "Sorry?" are still clear. The Full scene version carries the scene's own sound instead (the two voices and the song). Want the lines without the song? Turn the song off on the result screen, then add the I love the Smiths TikTok audio when you post.
 
 Caption ideas: "I said I love the Smiths", "when someone finally gets your music taste", or a me too meme twist: "I love [your thing]." "Me too."
 
@@ -268,11 +268,11 @@ Yes, for the video version. It works as an AI I love the Smiths meme template an
 
 ### Is the film clip or the actors in my video?
 
-No. Your video is a new AI scene in a similar wood-paneled elevator, with your two faces and your clothes. Nothing from the film is used: not the footage, not the actors and not the audio. The one exception is the Full scene version: it puts the scene's own sound back on your video, the same audio the TikTok trend uses.
+No. Your video is a new AI scene in a similar wood-paneled elevator, with your two faces and your clothes. Nothing from the film is used: not the footage, not the actors and not the audio. The song under your lines is the Smiths' own recording, not the film's soundtrack. The one exception is the Full scene version: it puts the scene's own sound back on your video, the same audio the TikTok trend uses.
 
 ### Does the video have the Smiths song?
 
-Not in Two people, Couple or You + your pet: they have the spoken lines, the elevator sounds and a faint original tune from the headphones. Full scene has the scene's own audio with the song. To use the song, add the trend's sound in TikTok when you post. The 500 Days of Summer elevator song is "There Is a Light That Never Goes Out".
+Yes. Two people, Couple and You + your pet play "There Is a Light That Never Goes Out", the 500 Days of Summer elevator song, under the spoken lines and the elevator sounds, so you still hear "I love the Smiths" over it. Full scene has the scene's own audio with the song. You can turn the song off on the result screen and keep the lines.
 
 ### Who says the line, photo 1 or photo 2?
 
@@ -321,12 +321,12 @@ Yes. MakeViral does not post your photos or the result anywhere or show them to 
 
 ## New AI video trends this week
 
-- [Turning My Mom Into Me: Put Your Mom in Your Outfit With AI](https://www.makeviral.ai/templates/turning-my-mom-into-me-ai-trend): Your mom walks down the hallway in her own clothes, walks out, and struts back in wearing your outfit. Add one photo of her and one of you in your outfit, and get the viral reel with its caption and its sound. Dad works too.
-- [Giant Cat AI Video: Make Your Pet a Giant in New York](https://www.makeviral.ai/templates/giant-cat-ai-video): Your cat walks down a New York avenue as tall as the towers, peers into a car window and leans on a skyscraper while helicopters circle. Add one photo of your pet, or of yourself, and get the 10-second clip with the street sound.
-- [Stuffed Animal UFC AI Video: Your Plush Wins the Fight](https://www.makeviral.ai/templates/stuffed-animal-ufc-ai-video): Your teddy, your pet or a plush version of you steps into the cage, lands the body shots, gets the knockout and celebrates with both arms up. One photo in, a 10-second clip with crowd and commentary sound out. Or add two photos and fight a friend: one wins, one goes down.
-- [Black and White Cinematic Video: You in the Classic Suit Stroll](https://www.makeviral.ai/templates/black-and-white-cinematic-ai-video): One photo of you becomes a 15-second black and white film: you walk past the hedges in a long black coat, smile at the windows, wave and laugh on the stone steps, then pause under a black umbrella, to a slowed phonk beat.
-- [Düğün Dansı AI: Put Your Friends in the Wild Turkish Wedding Dance](https://www.makeviral.ai/templates/dugun-oyunu-ai-trend): Two dancers go wild around the davul player in a Turkish wedding hall, a halay line bounces behind them, and a guest in a white tank top laughs into the camera at the end. Add three photos, two for a duo, or one of your pet.
-- [Hippo Pathway What If: Become the 541 ft Giant Pop Star](https://www.makeviral.ai/templates/hippo-pathway-giant-pop-star-ai-trend): What if a pop star was 100 times taller? Add one photo: you or your pet become the giant who sings and dances down a city avenue at dusk, or the giant pop star shows up in a photo of your own street.
+- [Tiger Fight AI: Beat the Tiger on CCTV](https://www.makeviral.ai/templates/cctv-tiger-fight-ai-trend): A security camera on a forest path. A tiger leaps out of the bushes, and you fight it and pin it to the ground. Add one photo of yourself or your pet, and the trend's phonk sound comes with it.
+- [The Office Parkour AI Trend: You Shout "Parkour!" in the Office](https://www.makeviral.ai/templates/the-office-parkour-ai-trend): Dive over the couch, land upside down and shout "Parkour!" into the camera, then jump off the reception counter while the crew leaps over the desks. The whole office parkour scene, 24 seconds, with its own shouts.
+- [Huell Money AI: The Breaking Bad Money Pile Scene, Starring You](https://www.makeviral.ai/templates/huell-money-ai-trend): A storage unit, a bed-size pile of cash, and you fall back onto it with your eyes closed while your friend tells you to quit it. Then they give in and lie down next to you. With the scene's own lines.
+- [Peaky Blinders Explosion Scene, Starring You](https://www.makeviral.ai/templates/peaky-blinders-explosion-ai-trend): A flat cap, a long black overcoat, a match at your lips. The red-brick manor blows up behind you and you walk slowly toward the camera through the smoke, never looking back. One photo, 15 seconds, with the clip's song.
+- [Mbappe Run vs Argentina AI: The Mbappe Sprint, Starring You](https://www.makeviral.ai/templates/mbappe-sprint-ai-trend): A sunny pitch, one long sprint with the ball, a defender in a striped shirt crashing into you, and you sitting on the grass complaining while the commentator shouts "It's a penalty!". In your own clothes. It is an AI video, not real match footage.
+- [Perfume Transition AI Trend: Spray, Flame, Gangster Look](https://www.makeviral.ai/templates/perfume-transition-ai-trend): Sniff the perfume, spray it at the camera, and a lighter turns the spray into a fireball. Add one photo, and you or your pet step out of the flame in a flat cap, dark sunglasses and a long magenta coat, with the trend's song.
 
 ## Make your own I Love The Smiths video
 

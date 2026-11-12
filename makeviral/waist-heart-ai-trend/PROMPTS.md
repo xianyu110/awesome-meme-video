@@ -1,0 +1,54 @@
+# Waist Heart Trend AI: Make the Waist Heart Pose From One Photo
+
+- Source: [makeviral](https://www.makeviral.ai/templates/waist-heart-ai-trend)
+- Slug: `waist-heart-ai-trend`
+
+The waist heart trend follows the bicep heart: you rest one hand on your waist in a C shape, so the hand and the curve of your waist and hip make one heart.
+
+## Demo videos (CDN)
+
+- https://www.makeviral.ai/media/templates/waist-heart-ai-trend/original-main-v2.mp4
+
+## Posters
+
+- https://www.makeviral.ai/media/templates/waist-heart-ai-trend/original-main-v1.jpg
+
+## Prompts
+
+### 1. 1. The video prompt is filled in. Settings: kling-3-motion, 9 s, 720p, 9:16, sound off. The video prompt
+
+*Kind: video_prompt*
+
+```text
+One continuous single take, static camera, vertical video. Recreate the reference video exactly, but the performer is the person from the reference image instead of the woman: the same person with the same face, hair, skin tone, body, body shape, arms and clothes, in the place from the reference image.
+The person makes a waist heart: one hand makes a C shape on the waist so the hand and hip curve form a heart. Reproduce the woman's full performance frame by frame with the same timing: first a shy smile at the camera with one fingertip on the chin; then one arm bends up into a quick, playful bicep flex while the other hand reaches for it; then both hands come together in front of the chest with a small shrug, as if to say not this one; then one hand goes to the side of the waist, the thumb down near the hip and the fingers curved up, so the hand and the curve of the waist and hip together form one clear heart shape, while the other arm hangs loose; the person sways the hips a little and holds the waist heart with a sweet, proud smile; at the end the free hand comes back up and one fingertip rests on the chin with a shy smile, the waist heart still in place. Very natural, warm face.
+The person keeps natural human anatomy: two arms and two hands with five fingers each, and the exact body shape, waist and proportions of their own body: no slimmer waist, no body reshaping. The clothes stay exactly as in the reference image. No cuts, no text, no captions, no heart graphics or labels on screen. No off-shoulder top, no brown crop top, no blue jeans and no short black hair unless the reference image shows them. Exactly one person, no extra people.
+```
+
+### 2. Prompt 2
+
+*Kind: prompt*
+
+```text
+Use the uploaded image as the base and turn it into a mirror selfie of the same person for the waist heart trend. The person stands in front of a full-length mirror in a bright, tidy bedroom, the body turned a little to the side, and holds a plain phone low at chest height with one hand, so the whole face shows clearly in the mirror. The other hand makes a C shape on the waist so the hand and hip curve form a heart: the thumb down near the hip, the fingers curved up and over, and the curve of the waist closes the heart shape. A sweet, confident smile, the face turned to the mirror. Keep the person's own outfit from the photo, the same clothes, colors and fabrics; if the top is loose or long, it sits tucked in or closer at the waist so the waist line shows, with no more skin than in the photo. Keep the person's own body shape and proportions: no slimmer waist, no body reshaping. Soft light from a window, natural colors, a real phone photo, photorealistic. From the head to the mid-thigh in the mirror. Vertical 9:16. Exactly one person, two hands with five fingers each. No text, no heart drawings, no stickers, no logos, no phone brand.
+```
+
+### 3. 1. The video prompt is filled in. Settings: Seedance 2.5, 9 s, 720p, 9:16, sound off. The video prompt (Pet)
+
+*Kind: video_prompt*
+
+```text
+Recreate the reference video [Video 1] shot for shot: the same plain light grey wall, the same soft daylight from the left, the same fixed phone camera at chest height, the same framing, timing and moves, one continuous take with no cuts. The ONLY change: the woman who flexes, shrugs and then makes a heart with one hand on her waist is now the pet in [Image 1].
+
+The performer = the pet in [Image 1], whole body, in every frame: the same species and breed, head shape, face shape, muzzle, eyes, eye color, ears, fur colors, fur length and markings as in [Image 1], with the natural body volume and proportions of that animal: never flattened, squashed, stretched or merged with anything, so its owner instantly recognizes it. It stands upright on its hind legs like a person the whole time, facing the camera. It stays an animal: no human face, no human body, no top, no jeans and no clothes unless [Image 1] shows them. Never drift back to the woman of the original video. If [Image 1] shows a cat, a dog or another animal, that animal performs in the same place with the same moves.
+
+The pet copies the woman's performance with its front legs, matching the reference second by second:
+0-1 s: it stands upright with one front paw raised to its chin and looks at the camera with a happy face.
+1-2.5 s: one front leg bends up at the elbow like a playful bicep flex, the other paw reaches for it.
+2.5-3.5 s: both front paws come together in front of its chest with a small shrug.
+3.5-8 s: one front paw rests on its side at the waist, curved like a C, so the paw and the curve of its body make a rough heart shape, as close as a pet's legs allow; the other front leg hangs loose, and it sways a little with a proud, sweet look.
+8-9 s: the free paw comes back up to its chin, the other paw still on its side.
+
+The pet keeps real animal anatomy: furry front legs ending in round paws covered in its own fur, never human hands, no bare skin, no fingers. One head only, two hind legs and two front legs, no extra legs or paws. No text, no captions, no heart graphics, no logos, no watermark, no people, no extra animals. No dialogue throughout the entire video. No background music.
+```
+

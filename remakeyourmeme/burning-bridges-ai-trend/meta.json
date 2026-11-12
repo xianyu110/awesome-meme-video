@@ -6,7 +6,7 @@
   "url": "https://remakeyourmeme.com/templates/burning-bridges-ai-trend/",
   "blurb": "Real output from this maker, unedited, made October 11, 2026 with photos of AI-generated sample people. Switch to Original to see the trend clip at the same moment.",
   "photos_in": null,
-  "duration_s": 13,
+  "duration_s": 12,
   "ready_to_make": true,
   "demo_videos": [
     "https://cdn.remakeyourmeme.com/trends/burning-bridges/7693216992827936013.mp4",
@@ -40,9 +40,9 @@
   ],
   "all_cdn_mp4": [
     "https://cdn.remakeyourmeme.com/templates/burning-bridges/preview-854.mp4",
-    "https://cdn.remakeyourmeme.com/templates/chipmunks-dance/video.mp4",
-    "https://cdn.remakeyourmeme.com/templates/no-scrubs/video.mp4",
-    "https://cdn.remakeyourmeme.com/templates/vossi-bop/video.mp4",
+    "https://cdn.remakeyourmeme.com/templates/fancy-cafe/video.mp4",
+    "https://cdn.remakeyourmeme.com/templates/i-love-the-smiths/video.mp4",
+    "https://cdn.remakeyourmeme.com/templates/ice-ice-baby/video.mp4",
     "https://cdn.remakeyourmeme.com/trends/burning-bridges/7693216992827936013.mp4",
     "https://cdn.remakeyourmeme.com/trends/burning-bridges/7693917087428873503.mp4",
     "https://cdn.remakeyourmeme.com/trends/burning-bridges/7694447027471600909.mp4",
@@ -60,7 +60,7 @@
   "prompt_count": 0,
   "prompts_public": false,
   "note": "Remake Your Meme does not publish copyable prompt text on public template pages (one-tap remake). Inventory keeps demos, posters, and metadata only.",
-  "scraped_at": "2026-11-08",
+  "scraped_at": "2026-11-12",
   "published": null,
   "updated": null
 }

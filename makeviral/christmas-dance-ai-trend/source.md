@@ -3,7 +3,7 @@
 > The Christmas dance of November 2026 is a deadpan duo routine in matching Christmas pajamas: hip sways, rolling arms, a quick spin and raised fists, done to DJ Izzy Duzzit's Deck the Halls remix.
 
 Canonical: https://www.makeviral.ai/templates/christmas-dance-ai-trend
-Updated: 2026-11-08
+Updated: 2026-11-11
 Published: 2026-11-08
 Author: MakeViral Team (https://www.makeviral.ai/about)
 Publisher: MakeViral (https://www.makeviral.ai)
@@ -16,7 +16,7 @@ Also called: Deck the Halls dance, DJ Izzy Duzzit dance, Christmas pajama dance.
 
 **Make it now:** [Make this video](https://www.makeviral.ai/templates/christmas-dance-ai-trend/create). 2 photos · 14 s · 9:16 with sound · 213 credits, charged once · ready in up to several minutes · no prompt to write.
 
-Keyword: christmas dance. Also answers: christmas dance tiktok, christmas dance trend, christmas dances, christmas dance ai, christmas dance trend 2026, christmas dances 2026, christmas dance duo, dj izzy duzzit christmas dance, ai christmas dance video, christmas dance 2 people, christmas dance trend tiktok, christmas dances tiktok, christmas dance video, dj izzy duzzit deck the halls, christmas family dance, christmas trio dance, christmas dance capcut template, ai christmas dance maker, christmas tiktok dance challenge, new christmas dance, funny christmas dance, christmas dance parody, christmas dance cat, christmas dance dog, mom and daughter christmas dance, how to do the christmas dance, christmas dance with friends, two person christmas dance, christmas dance meme.
+Keyword: christmas dance. Also answers: christmas dance tiktok, christmas dance trend, christmas dances, christmas dance ai, christmas dance trend 2026, christmas dances 2026, christmas dance duo, dj izzy duzzit christmas dance, ai christmas dance video, christmas dance 2 people, christmas dance trend tiktok, christmas dances tiktok, christmas dance video, dj izzy duzzit deck the halls, christmas family dance, christmas trio dance, christmas dance capcut template, ai christmas dance maker, christmas tiktok dance challenge, new christmas dance, funny christmas dance, christmas dance parody, christmas dance cat, christmas dance dog, mom and daughter christmas dance, how to do the christmas dance, christmas dance with friends, two person christmas dance, christmas dance meme, christmas family dance ai, christmas dance trio, 3 person christmas dance, family christmas tiktok dance.
 
 ## What is the Christmas Dance trend, and where did it start?
 
@@ -92,6 +92,36 @@ No extra dancers, no duplicate bodies, no extra limbs, no fused fingers, no text
 
 One-tap version of this variant: https://www.makeviral.ai/templates/christmas-dance-ai-trend/create?variant=duo
 
+#### Variant: Trio
+
+Settings: 3 photos (you, on the left + friend 2, on the right + friend 3, in the middle) · Seedance 2.5 · 12 s · 720p · 9:16 · no sound · 152 credits in one tap.
+
+1. The video prompt is filled in. Settings: Seedance 2.5, 12 s, 720p, 9:16, sound off. The video prompt:
+
+   ```text
+   A funny vertical Christmas dance video: the three people in [Image 1], [Image 2] and [Image 3] do the deadpan Christmas pajama dance side by side, like a viral phone video. One continuous take with no cuts, photorealistic, a fixed phone camera at chest height, a medium-wide shot from the thighs up so the three faces stay large.
+
+The dancer on the LEFT is the person in [Image 1], in every frame: copy the exact face from [Image 1] (the face shape, eye color and eye shape, eyebrows, nose, mouth, skin tone, age, hair color, hair length and hairstyle, and any beard, moustache, glasses or freckles). The dancer on the RIGHT is the person in [Image 2], in every frame: copy the exact face from [Image 2] (the face shape, eye color and eye shape, eyebrows, nose, mouth, skin tone, age, hair color, hair length and hairstyle, and any beard, moustache, glasses or freckles). The dancer in the MIDDLE is the person in [Image 3], in every frame: copy the exact face from [Image 3] (the face shape, eye color and eye shape, eyebrows, nose, mouth, skin tone, age, hair color, hair length and hairstyle, and any beard, moustache, glasses or freckles). All three are adults. Never blend their faces and never swap their places. Each face stays the same from the first frame to the last, also during the spin, so their friends recognize them at once. If an image shows an animal, that dancer is that animal standing upright on its hind legs, with its own face, fur and markings, not a person.
+
+All three wear matching red-and-green plaid Christmas pajamas, not the clothes from their photos, and stand close together, shoulder to shoulder. The place: a bright open home kitchen with a white floor, a lit Christmas tree with warm fairy lights in the corner and a garland on the cabinets, soft daylight.
+
+The dance, all three in sync, on the beat, with straight, deadpan faces until the end:
+0-2.5 s: hands at the collar, then on the hips, swaying the hips.
+2.5-5 s: rolling arms and small side steps.
+5-8 s: the dancer on the left points at the middle dancer, then all three bump hips and hop with the arms swinging.
+8-9 s: all three turn a quick full spin, the hair flying.
+9-11 s: hands on the chest, rolling arms, one hand points up, then all three raise their fists and clap.
+11-12 s: all three step toward the camera and break into laughs; the three faces are large and sharp: exactly the faces from [Image 1], [Image 3] and [Image 2].
+
+No dialogue throughout the entire video. No background music.
+Anatomy rules: one head per person, on that person's own shoulders. Two arms, two legs and five fingers on each hand per person. Exactly three people. Natural balance, stable ground contact.
+No extra dancers, no duplicate bodies, no extra limbs, no fused fingers, no children, no text, no captions, no logos, no watermark.
+   ```
+
+2. Press Generate, then download the 9:16 MP4.
+
+One-tap version of this variant: https://www.makeviral.ai/templates/christmas-dance-ai-trend/create?variant=trio
+
 #### Variant: Solo
 
 Settings: 1 photo (you, standing, knees up or head to toes) · kling-3-motion · 12 s · 720p · 9:16 · no sound · 49 credits in one tap.
@@ -139,9 +169,10 @@ One-tap version of this variant: https://www.makeviral.ai/templates/christmas-da
 
 ### Which photo works best?
 
-You need **two photos** for Duo and Pet, and **one** for Solo.
+You need **two photos** for Duo and Pet, **three** for Trio, and **one** for Solo.
 
 - **Duo:** photo 1 is the dancer on the left, photo 2 the dancer on the right. One person per photo, face sharp and to the camera. You both wear the matching Christmas pajamas from the reel.
+- **Trio:** three photos, one adult per photo, face sharp: photo 1 dances on the left, photo 3 in the middle, photo 2 on the right.
 - **Solo:** you alone, standing, from the head to at least the knees. You dance in your photo's own place and clothes, so a photo in Christmas pajamas or a Santa hat gives the full look.
 - **Pet:** one pet per photo, whole body in view, ears to paws. Only one pet? Add its photo in both slots and it dances with its own twin.
 - Good light, no sunglasses and no hat over the face.
@@ -187,7 +218,7 @@ Press "Create your own" and pick a version, or press the button under a reel on 
 | Length | 14 s | About 12 s | 11 s |
 | Sound | The trend's sound, put back on after the run; you can turn it off | The same | The same |
 
-**Duo** is the Christmas dance for 2 people that the whole trend is about: send it to your best friend, your sister or your mom. A Christmas trio dance with three photos is not here yet; make two duos instead. **Pet** works with cats, dogs or one of each, standing upright on their hind legs.
+**Duo** is the Christmas dance for 2 people that the whole trend is about: send it to your best friend, your sister or your mom. For the Christmas trio dance, pick **Trio** and add three photos: photo 1 dances on the left, photo 3 in the middle and photo 2 on the right, all in matching pajamas by a lit tree. Trio is made from your photos, not from a reel, and runs 12 seconds with the first 12 seconds of the Deck the Halls remix put on after the run. **Pet** works with cats, dogs or one of each, standing upright on their hind legs.
 
 All versions are made with the best AI video models available, and you write no prompt.
 
@@ -238,6 +269,10 @@ Press "Create your own", pick Duo, Solo or Pet, and add your photos: two for Duo
 
 Yes, that is Duo, the Christmas dance duo the trend is known for. Add a photo of you and a photo of your friend, your sister or your mom: the two of you take the places of the mother and daughter in the viral reel, in the same matching pajamas, in the same kitchen. It is a two person Christmas dance with friends or family. Use someone's photo only with their OK.
 
+### Is there a Christmas dance trio or a Christmas family dance AI version for 3 people?
+
+Yes, Trio. The trend's creator posted the trio with her mom on 3 November 2026, and many friend groups and families copied it. Add three photos: photo 1 dances on the left, photo 3 in the middle, photo 2 on the right. You get a 3 person Christmas dance of 12 seconds in matching pajamas, made from your photos, with DJ Izzy Duzzit's Deck the Halls remix on it, ready for a family Christmas TikTok dance post. Use only photos of adults who said yes.
+
 ### Can I do the Christmas dance alone?
 
 Yes, with Solo. Add one photo of you standing. The AI takes only the moves of a creator's solo take of the dance and plays them with you, in your own room and your own clothes. Wear Christmas pajamas or a Santa hat in the photo for the full look.
@@ -282,12 +317,12 @@ No. A Christmas dance AI video is made from still photos, and you, your friend o
 
 ## New AI video trends this week
 
-- [Cat on Ultra Bee AI: Put Your Pet on the Wheelie](https://www.makeviral.ai/templates/cat-on-ultra-bee-ai-trend): Add one photo, and your cat or dog stands on an electric dirt bike and holds a long wheelie down a city road at golden hour, in the same shots as the viral clip, with its original sound. You can take the ride yourself, too.
-- [Tus Ojos Me Reflejan el Sentimiento: The Cafuné Eye Close-Up Trend](https://www.makeviral.ai/templates/tus-ojos-me-reflejan-ai-trend): You lie on your side, a hand rests on your cheek, warm light falls on your face, and the camera slowly moves in until your eyes fill the screen while the line plays. One photo in, an 8-second vertical clip with the trend's song out.
-- [İnşallah Maşallah AI Trend: Sing Neşe Karaböcek's Song on the Couch](https://www.makeviral.ai/templates/insallah-masallah-ai-trend): You sit on a light grey couch and sing the old Turkish love song straight to the camera: a hand on the heart, a big laugh with both hands on your head, a finger pointed at the camera and a kiss at the end. One photo of you, a grandparent or your pet, and the 15-second clip comes with the song.
-- [Ice Ice Baby Dance AI: Do the Viral Duo Dance With a Friend](https://www.makeviral.ai/templates/ice-ice-baby-dance-ai): Two dancers side by side, the same bouncy 90s steps, a spin on the beat and a strut to the camera. Add a photo of you and a friend, of you alone, or of your pet, and get the dance with the sound.
-- [Save Yourself Trend: Pull Yourself Up From the Cliff](https://www.makeviral.ai/templates/save-yourself-ai-trend): One photo plays both of you: the scared you clinging to a wet sea cliff, and the calm you who reaches down, pulls you up and holds you. Or use two photos: an older photo of you and a new one, or you and a friend. 15 seconds, vertical.
-- [Valet Shoe Drop AI: Step Out of the Convertible Into the Hotel](https://www.makeviral.ai/templates/valet-shoe-drop-ai-trend): A valet opens the door of a peach convertible, you drop your heels on the pavement, step into them, slip on a white blazer and walk into a grand hotel. Upload one photo and you play the lead in the real clip, with its song.
+- [Tiger Fight AI: Beat the Tiger on CCTV](https://www.makeviral.ai/templates/cctv-tiger-fight-ai-trend): A security camera on a forest path. A tiger leaps out of the bushes, and you fight it and pin it to the ground. Add one photo of yourself or your pet, and the trend's phonk sound comes with it.
+- [The Office Parkour AI Trend: You Shout "Parkour!" in the Office](https://www.makeviral.ai/templates/the-office-parkour-ai-trend): Dive over the couch, land upside down and shout "Parkour!" into the camera, then jump off the reception counter while the crew leaps over the desks. The whole office parkour scene, 24 seconds, with its own shouts.
+- [Huell Money AI: The Breaking Bad Money Pile Scene, Starring You](https://www.makeviral.ai/templates/huell-money-ai-trend): A storage unit, a bed-size pile of cash, and you fall back onto it with your eyes closed while your friend tells you to quit it. Then they give in and lie down next to you. With the scene's own lines.
+- [Peaky Blinders Explosion Scene, Starring You](https://www.makeviral.ai/templates/peaky-blinders-explosion-ai-trend): A flat cap, a long black overcoat, a match at your lips. The red-brick manor blows up behind you and you walk slowly toward the camera through the smoke, never looking back. One photo, 15 seconds, with the clip's song.
+- [Mbappe Run vs Argentina AI: The Mbappe Sprint, Starring You](https://www.makeviral.ai/templates/mbappe-sprint-ai-trend): A sunny pitch, one long sprint with the ball, a defender in a striped shirt crashing into you, and you sitting on the grass complaining while the commentator shouts "It's a penalty!". In your own clothes. It is an AI video, not real match footage.
+- [Perfume Transition AI Trend: Spray, Flame, Gangster Look](https://www.makeviral.ai/templates/perfume-transition-ai-trend): Sniff the perfume, spray it at the camera, and a lighter turns the spray into a fireball. Add one photo, and you or your pet step out of the flame in a flat cap, dark sunglasses and a long magenta coat, with the trend's song.
 
 ## Make your own Christmas Dance video
 

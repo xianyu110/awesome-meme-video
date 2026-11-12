@@ -6,11 +6,16 @@
   "url": "https://www.makeviral.ai/templates/darts-170-ai-prank",
   "markdown_url": "https://www.makeviral.ai/templates/darts-170-ai-prank.md",
   "blurb": "The darts filter is the prank of the darts season: an AI video where you hit a 170 checkout on live TV.",
-  "updated": "2026-11-03",
+  "updated": "2026-11-11",
   "published": "2026-11-03",
   "credits": 126,
-  "demo_videos": [],
-  "posters": [],
+  "demo_videos": [
+    "https://www.makeviral.ai/media/templates/darts-170-ai-prank/example-main-v1.mp4"
+  ],
+  "posters": [
+    "https://www.makeviral.ai/media/templates/darts-170-ai-prank/example-main-input.jpg",
+    "https://www.makeviral.ai/media/templates/darts-170-ai-prank/example-main-poster.jpg"
+  ],
   "prompts": [
     {
       "label": "1. The video prompt is filled in. Settings: Seedance 2.5, 10 s, 720p, 9:16, sound on. The video prompt",
@@ -26,6 +31,7 @@
     }
   ],
   "variant_headings": [
+    "What the Darts 170 Prank video looks like",
     "How to make the Darts 170 Prank video on MakeViral",
     "Which photo works best?",
     "What happens in the video, second by second?",
@@ -35,5 +41,5 @@
     "Make your own Darts 170 Prank video"
   ],
   "prompt_count": 2,
-  "scraped_at": "2026-11-08"
+  "scraped_at": "2026-11-12"
 }

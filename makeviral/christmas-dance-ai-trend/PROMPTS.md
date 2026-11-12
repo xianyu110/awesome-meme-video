@@ -43,7 +43,31 @@ No dialogue throughout the entire video. No background music.
 No extra dancers, no duplicate bodies, no extra limbs, no fused fingers, no text, no captions, no logos, no watermark.
 ```
 
-### 2. 1. The video prompt is filled in. Settings: kling-3-motion, 12 s, 720p, 9:16, sound off. The video prompt
+### 2. 1. The video prompt is filled in. Settings: Seedance 2.5, 12 s, 720p, 9:16, sound off. The video prompt
+
+*Kind: video_prompt*
+
+```text
+A funny vertical Christmas dance video: the three people in [Image 1], [Image 2] and [Image 3] do the deadpan Christmas pajama dance side by side, like a viral phone video. One continuous take with no cuts, photorealistic, a fixed phone camera at chest height, a medium-wide shot from the thighs up so the three faces stay large.
+
+The dancer on the LEFT is the person in [Image 1], in every frame: copy the exact face from [Image 1] (the face shape, eye color and eye shape, eyebrows, nose, mouth, skin tone, age, hair color, hair length and hairstyle, and any beard, moustache, glasses or freckles). The dancer on the RIGHT is the person in [Image 2], in every frame: copy the exact face from [Image 2] (the face shape, eye color and eye shape, eyebrows, nose, mouth, skin tone, age, hair color, hair length and hairstyle, and any beard, moustache, glasses or freckles). The dancer in the MIDDLE is the person in [Image 3], in every frame: copy the exact face from [Image 3] (the face shape, eye color and eye shape, eyebrows, nose, mouth, skin tone, age, hair color, hair length and hairstyle, and any beard, moustache, glasses or freckles). All three are adults. Never blend their faces and never swap their places. Each face stays the same from the first frame to the last, also during the spin, so their friends recognize them at once. If an image shows an animal, that dancer is that animal standing upright on its hind legs, with its own face, fur and markings, not a person.
+
+All three wear matching red-and-green plaid Christmas pajamas, not the clothes from their photos, and stand close together, shoulder to shoulder. The place: a bright open home kitchen with a white floor, a lit Christmas tree with warm fairy lights in the corner and a garland on the cabinets, soft daylight.
+
+The dance, all three in sync, on the beat, with straight, deadpan faces until the end:
+0-2.5 s: hands at the collar, then on the hips, swaying the hips.
+2.5-5 s: rolling arms and small side steps.
+5-8 s: the dancer on the left points at the middle dancer, then all three bump hips and hop with the arms swinging.
+8-9 s: all three turn a quick full spin, the hair flying.
+9-11 s: hands on the chest, rolling arms, one hand points up, then all three raise their fists and clap.
+11-12 s: all three step toward the camera and break into laughs; the three faces are large and sharp: exactly the faces from [Image 1], [Image 3] and [Image 2].
+
+No dialogue throughout the entire video. No background music.
+Anatomy rules: one head per person, on that person's own shoulders. Two arms, two legs and five fingers on each hand per person. Exactly three people. Natural balance, stable ground contact.
+No extra dancers, no duplicate bodies, no extra limbs, no fused fingers, no children, no text, no captions, no logos, no watermark.
+```
+
+### 3. 1. The video prompt is filled in. Settings: kling-3-motion, 12 s, 720p, 9:16, sound off. The video prompt
 
 *Kind: video_prompt*
 
@@ -52,7 +76,7 @@ Use the reference image as the sole character identity reference and the referen
 No long platinum-blonde hair and no white short pajamas with a pink print unless the reference image shows them.
 ```
 
-### 3. 1. The video prompt is filled in. Settings: Seedance 2.5, 11 s, 720p, 9:16, sound off. The video prompt (Pet)
+### 4. 1. The video prompt is filled in. Settings: Seedance 2.5, 11 s, 720p, 9:16, sound off. The video prompt (Pet)
 
 *Kind: video_prompt*
 

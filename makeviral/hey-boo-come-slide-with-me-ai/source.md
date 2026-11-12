@@ -14,7 +14,7 @@ Hand in hand, two steps to the side, a step back and a smooth slide close, in a 
 
 Also called: Boo Slide, Diamonds and Denim dance.
 
-**Make it now:** [Make this video](https://www.makeviral.ai/templates/hey-boo-come-slide-with-me-ai/create). 2 photos · 13 s · 9:16 with sound · 198 credits, charged once · ready in up to several minutes · no prompt to write.
+**Make it now:** [Make this video](https://www.makeviral.ai/templates/hey-boo-come-slide-with-me-ai/create). 2 photos · 13 s · 9:16 with sound · 412 credits, charged once · ready in up to several minutes · no prompt to write.
 
 Keyword: hey boo come slide with me. Also answers: hey boo come slide with me dance, hey boo come slide with me ai, hey boo dance, come slide with me dance, hey boo come slide with me trend, hey boo come slide with me tiktok, hey boo come slide with me song, come slide with me, hey boo come slide with me dance capcut, hey boo come slide with me dance tutorial, hey boo dance capcut template, come slide with me line dance, come slide with me hey boo, hey boo come slide with me two step, hey boo come slide with me lyrics, hey boo slide dance, come slide with me dance trend, hey boo dance challenge, hey boo come slide with me who sings, come slide with me kisha stinson, hey boo come slide with me couple dance, hey boo come slide with me ai video, hey boo dance ai, hey boo come slide with me pet, hey boo come slide with me prompt, hey boo ven a deslizarte conmigo.
 
@@ -37,7 +37,7 @@ The song came out on the streaming services on 31 October, and its original TikT
 
 This is the trend's original reel, not a MakeViral result. It is AI-made: the creator made AI twins of herself and her husband for it. Your video copies its ballroom, its moves and its song with your own faces.
 
-- **Example 1** (27 s, 9:16 MP4 with sound): The original AI reel by @experiencetheworldwithcl: her and her husband's AI twins slide hand in hand through a ballroom full of line dancers in denim, then end with a kiss. Couple copies the first 13 seconds of this reel.
+- **Example 1** (27 s, 9:16 MP4 with sound): The original AI reel by @experiencetheworldwithcl: her and her husband's AI twins slide hand in hand through a ballroom full of line dancers in denim, then end with a kiss. Couple copies this whole reel, kiss included, with its full song.
   - Video: https://www.makeviral.ai/media/templates/hey-boo-come-slide-with-me-ai/original-main-v2.mp4
   - Poster: https://www.makeviral.ai/media/templates/hey-boo-come-slide-with-me-ai/original-main-v1.jpg
 
@@ -48,7 +48,7 @@ Everything runs in the browser. No editing app, no watermark.
 ### The one-tap way (no prompt to write)
 
 1. **Add the two photos.** Press "Make yours" and add you (18+), face clear, then your partner (18+), face clear. Add them in this order, because the order decides who is who in the scene. Take them with the camera or pick them from your library. Start here: https://www.makeviral.ai/templates/hey-boo-come-slide-with-me-ai/create
-2. **Press Generate.** The button shows the price. Seedance 2.5 puts your photos into the Hey Boo Come Slide With Me trend clip and copies it shot by shot for 13 seconds, with the reel's original song. You write no prompt.
+2. **Press Generate.** The button shows the price. Seedance 2.5 puts your photos into the Hey Boo Come Slide With Me trend clip and copies it shot by shot for about 27 seconds, in two parts joined at a cut of the reel, with the reel's full original song. You write no prompt.
 3. **Download or share.** The video is ready in up to several minutes as a 9:16 MP4. Download it, share it from your phone, or find it later in My videos.
 
 ### The by-hand way, with the exact prompts
@@ -57,7 +57,7 @@ The one-tap flow runs this prompt for you. The video prompt animates your own ph
 
 #### Variant: Couple
 
-Settings: 2 photos (you (18+), face clear + your partner (18+), face clear) · Seedance 2.5 · 13 s · 720p · 9:16 · no sound · 198 credits in one tap.
+Settings: 2 photos (you (18+), face clear + your partner (18+), face clear) · Seedance 2.5 · 13 s · 720p · 9:16 · no sound · 412 credits in one tap.
 
 1. The video prompt is filled in. Settings: Seedance 2.5, 13 s, 720p, 9:16, sound off. The video prompt:
 
@@ -101,7 +101,7 @@ One-tap version of this variant: https://www.makeviral.ai/templates/hey-boo-come
 
 #### Variant: Two pets
 
-Settings: 2 photos (pet 1, whole body (left) + pet 2, whole body (right)) · Seedance 2.5 · 13 s · 720p · 9:16 · no sound · 198 credits in one tap.
+Settings: 2 photos (pet 1, whole body (left) + pet 2, whole body (right)) · Seedance 2.5 · 13 s · 720p · 9:16 · no sound · 412 credits in one tap.
 
 1. The video prompt is filled in. Settings: Seedance 2.5, 13 s, 720p, 9:16, sound off. The video prompt:
 
@@ -142,21 +142,23 @@ You pay per video in credits, and the create page shows the exact price on the G
 
 | Video model | Settings | Credits |
 | --- | --- | --- |
-| Seedance 2.5 (this template) | 13 s, 720p, copies the trend clip, one tap | 198 |
+| Seedance 2.5 (this template) | 27 s, 720p, copies the trend clip, one tap | 412 |
 
 Credits come with a plan; see [pricing](https://www.makeviral.ai/pricing). A failed video gives its credits back.
 
 ## What happens in the Hey Boo Come Slide With Me dance?
 
-The Couple version copies the first 13 seconds of the original reel, cut for cut, with the two of you in place of the dancing couple:
+The Couple version copies the whole original reel, cut for cut, with the two of you in place of the dancing couple. The AI makes it in two parts, and we join them at one of the reel's own cuts, so you get all 27 seconds:
 
 | Time | What you see |
 |---|---|
 | 0 to 4.6 s | You and your partner walk toward the camera hand in hand, stepping on the beat, while the song starts: "Hey boo, come slide with me". |
 | 4.6 to 8.4 s | A wide shot of the whole ballroom: the two of you lead the line of dancers, and everyone does the same steps. |
 | 8.4 to 13 s | Back to the two of you: side steps, a step back and a smooth slide close together, smiling at each other. |
+| 13 to 16.7 s | The wide shot again: the whole line slides with you, to "Turn me around, don't walk away". |
+| 16.7 to 27 s | Back to the two of you for "Step back, slide close" and "Diamonds and denim, we in our groove". At the end you turn to each other, hug and kiss. |
 
-The song's own words call the steps: "Two steps right now, bring it to me ... Turn me around ... Step back, slide close". That is also why people search for the hey boo come slide with me two step: the dance is a slow, smooth couples two-step.
+You hear the full song, all six lines, from "Hey boo, come slide with me" to "Diamonds and denim, we in our groove". The words call the steps, and that is also why people search for the hey boo come slide with me two step: the dance is a slow, smooth couples two-step.
 
 The exact price of each version shows on the Generate button before you spend anything. Solo costs the least. Every run is a new take, so results differ.
 
@@ -170,8 +172,8 @@ Press "Create your own" and pick a version, or press the button under the origin
 | How it works | Puts the two of you into the original reel, in place of the dancing couple | Takes only the moves of a solo take of the dance and plays them with you | Puts your two pets into the original reel, upright on their hind legs, in place of the couple |
 | Where you dance | The reel's chandelier ballroom, with the line dancers behind you | Your photo's own place | The reel's ballroom |
 | Clothes | From your photos | From your photo | Fur and markings from your photos |
-| Length | 13 s | About 10 s | 13 s |
-| Sound | The trend's song, put back on after the run; you can turn it off | The same | The same |
+| Length | About 27 s, the whole reel | About 10 s | About 27 s, the whole reel |
+| Sound | The trend's full song, put back on after the run; you can turn it off | The song from its first line, cut to the clip's length with a short fade at the end | The full song, as in Couple |
 
 All three run on the best AI video models available, including Seedance 2.5 for the reel copies. **Couple** is the one to send to your boo. **Solo** is for when your partner is not around, or you want to slide alone. **Two pets** works with two cats, two dogs or one of each.
 
@@ -187,6 +189,8 @@ Want another slide? The [Toosie Slide](https://www.makeviral.ai/templates/toosie
 | Your faces look less sharp in the wide shot | In the wide shot you are small, in the middle of the line. The close shots before and after show your faces big. |
 | The legs look stiff or the feet slide (Solo) | Use a full-body photo where you stand. With a waist-up photo, the model has to make up your legs. |
 | A pet looks flat or gets human hands (Two pets) | Use a photo with the whole animal in view, then run it again. |
+| The two faces blend in the kiss at the end (Couple) | Use two sharp photos with one face each, turned to the camera, then run it again. |
+| You get only the first 13 seconds (Couple, Two pets) | The second part could not be made this time. You get the first part with its song, and the credits of the second part come back. |
 | The model refuses a photo | Some photos get refused. The credits come back; try another photo. |
 
 ## Which song, caption and hashtags fit the Hey Boo dance?
@@ -209,7 +213,7 @@ Yes. The couple in the first clip are AI twins of the creator and her husband, a
 
 ### How do I make the Hey Boo Come Slide With Me AI video with my partner?
 
-Press "Create your own", pick Couple, add a photo of you and a photo of your partner, and press Generate; the button shows the price first. You get a 13 second clip of the two of you sliding through the ballroom, with the song. You write no prompt, and the video waits in My videos when it is ready.
+Press "Create your own", pick Couple, add a photo of you and a photo of your partner, and press Generate; the button shows the price first. You get a clip of about 27 seconds of the two of you sliding through the ballroom to the kiss at the end, with the full song. You write no prompt, and the video waits in My videos when it is ready.
 
 ### Can I do the Hey Boo dance alone?
 
@@ -225,7 +229,7 @@ Lakisha (Kisha) Stinson made the song for her 46th birthday line dance party and
 
 ### What are the Hey Boo Come Slide With Me lyrics?
 
-The clip opens with "Hey boo, come slide with me, two steps right now, bring it to me". Then come "Turn me around, don't walk away" and "Step back, slide close". The words call the steps of the dance.
+The song opens with "Hey boo, come slide with me, two steps right now, bring it to me". Then come "He got that swag, I got that sway", "Turn me around, don't walk away", "Step back, slide close, ooh that's smooth" and "Diamonds and denim, we in our groove". The words call the steps of the dance, and Couple and Two pets have all of them.
 
 ### Is there a Hey Boo Come Slide With Me dance CapCut template?
 
@@ -249,7 +253,7 @@ No. The Toosie Slide is a different song and a solo dance with its own steps. He
 
 ### What do I get, how long is it and what sound does it have?
 
-Couple and Two pets make 13 seconds in the reel's vertical 9:16 frame, Solo about 10 seconds in the frame of your photo. All are MP4 files at 720p with the trend's song and no watermark, ready for TikTok, Reels or Shorts. You can turn the song off on the result screen.
+Couple and Two pets make about 27 seconds, the whole reel with the trend's full song, in the reel's vertical 9:16 frame. Solo makes about 10 seconds in the frame of your photo, with the song from its first line. All are MP4 files at 720p with no watermark, ready for TikTok, Reels or Shorts. You can turn the song off on the result screen.
 
 ### Where do I find the Hey Boo Come Slide With Me TikTok videos?
 
@@ -275,15 +279,15 @@ Spanish-language how-to posts call it "hey boo ven a deslizarte conmigo". It is 
 
 ## New AI video trends this week
 
-- [Dog Pool Party AI Dance: Your Pet Owns the Pool Party](https://www.makeviral.ai/templates/dog-pool-party-ai-dance): Your dog or cat puts on pink swim goggles, a ruffled pink bikini and arm floaties and dances on its hind legs at a glowing night pool party: hops, a spin, then a hip shake under a phone flashlight. One photo in, a 13-second clip with the song out.
-- [Husband Emporium: Put Your Partner on Display in the Retro Ad](https://www.makeviral.ai/templates/husband-emporium-ai-trend): "Welcome to the Emporium, madam. Looking for a husband?" Add a photo, and your partner goes on display as a husband model in the viral 1950s shop ad, or your pet becomes "the good boy". The ad's own dialogue plays on your video.
-- [La Mujer del Pelotero Dance: Do the Trend From One Photo](https://www.makeviral.ai/templates/la-mujer-del-pelotero-ai-dance): Hands by the head, the forearm roll, a hip sway and a finger to the sky: the La Mujer del Pelotero TikTok routine. Add one photo of you or your pet, or two photos for you and a friend, and get the clip with the song.
-- [Iconic By Mistake Dance AI: Do the Viral Challenge With a Friend](https://www.makeviral.ai/templates/iconic-by-mistake-ai-dance): The Iconic By Mistake TikTok dance, from your photos: peace signs over the eyes, wide-knee squats, hip pops, prayer hands and a strut to the camera, side by side. Add a photo of you and one of a friend, one of you alone, or one of your pet, and get the dance with the song.
-- [Kiat Jud Dai Cat: Turn Your Pet Into the Kitten Parade](https://www.makeviral.ai/templates/kiat-jud-dai-kitten-parade-ai): A whole line of kittens walks upright down a night road and dances past the camera to "Kiat Jud Dai". Add one photo of your pet, and every dancer in the parade becomes your cat or your dog, with the song on the video.
-- [Hotline Bling Dance AI: Your Own Color Room Video From One Photo](https://www.makeviral.ai/templates/hotline-bling-ai-trend): Bouncy knees, loose arm swings, a hand at your ear like a phone: the 2015 meme dance, in an empty room whose walls glow yellow, pink, green, blue and lavender. Add one photo of you or your pet.
+- [Tiger Fight AI: Beat the Tiger on CCTV](https://www.makeviral.ai/templates/cctv-tiger-fight-ai-trend): A security camera on a forest path. A tiger leaps out of the bushes, and you fight it and pin it to the ground. Add one photo of yourself or your pet, and the trend's phonk sound comes with it.
+- [The Office Parkour AI Trend: You Shout "Parkour!" in the Office](https://www.makeviral.ai/templates/the-office-parkour-ai-trend): Dive over the couch, land upside down and shout "Parkour!" into the camera, then jump off the reception counter while the crew leaps over the desks. The whole office parkour scene, 24 seconds, with its own shouts.
+- [Huell Money AI: The Breaking Bad Money Pile Scene, Starring You](https://www.makeviral.ai/templates/huell-money-ai-trend): A storage unit, a bed-size pile of cash, and you fall back onto it with your eyes closed while your friend tells you to quit it. Then they give in and lie down next to you. With the scene's own lines.
+- [Peaky Blinders Explosion Scene, Starring You](https://www.makeviral.ai/templates/peaky-blinders-explosion-ai-trend): A flat cap, a long black overcoat, a match at your lips. The red-brick manor blows up behind you and you walk slowly toward the camera through the smoke, never looking back. One photo, 15 seconds, with the clip's song.
+- [Mbappe Run vs Argentina AI: The Mbappe Sprint, Starring You](https://www.makeviral.ai/templates/mbappe-sprint-ai-trend): A sunny pitch, one long sprint with the ball, a defender in a striped shirt crashing into you, and you sitting on the grass complaining while the commentator shouts "It's a penalty!". In your own clothes. It is an AI video, not real match footage.
+- [Perfume Transition AI Trend: Spray, Flame, Gangster Look](https://www.makeviral.ai/templates/perfume-transition-ai-trend): Sniff the perfume, spray it at the camera, and a lighter turns the spray into a fireball. Add one photo, and you or your pet step out of the flame in a flat cap, dark sunglasses and a long magenta coat, with the trend's song.
 
 ## Make your own Hey Boo Slide video
 
-Add two photos and press Generate. No prompt to write. 198 credits, charged once.
+Add two photos and press Generate. No prompt to write. 412 credits, charged once.
 
 [Make this video](https://www.makeviral.ai/templates/hey-boo-come-slide-with-me-ai/create)

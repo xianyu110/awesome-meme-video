@@ -6,7 +6,7 @@
   "url": "https://remakeyourmeme.com/templates/crochet-filter-ai/",
   "blurb": "One person, a couple or a pet. Hair, clothes and the place stay; everyone turns to yarn.",
   "photos_in": null,
-  "duration_s": 13,
+  "duration_s": 12,
   "ready_to_make": true,
   "demo_videos": [],
   "preview_videos": [],
@@ -20,15 +20,15 @@
     "https://cdn.remakeyourmeme.com/examples/crochet-filter/result.webp"
   ],
   "all_cdn_mp4": [
-    "https://cdn.remakeyourmeme.com/templates/chipmunks-dance/video.mp4",
-    "https://cdn.remakeyourmeme.com/templates/no-scrubs/video.mp4",
-    "https://cdn.remakeyourmeme.com/templates/vossi-bop/video.mp4"
+    "https://cdn.remakeyourmeme.com/templates/fancy-cafe/video.mp4",
+    "https://cdn.remakeyourmeme.com/templates/i-love-the-smiths/video.mp4",
+    "https://cdn.remakeyourmeme.com/templates/ice-ice-baby/video.mp4"
   ],
   "prompts": [],
   "prompt_count": 0,
   "prompts_public": false,
   "note": "Remake Your Meme does not publish copyable prompt text on public template pages (one-tap remake). Inventory keeps demos, posters, and metadata only.",
-  "scraped_at": "2026-11-08",
+  "scraped_at": "2026-11-12",
   "published": null,
   "updated": null
 }

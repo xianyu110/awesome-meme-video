@@ -3,7 +3,7 @@
 > The 2027 New Year AI trend, also posted as Welcome 2027 and Hello 2027, is a one-photo AI video: you climb giant white marble "2027" letters on a mountain top at sunset, stand on top with open arms, and the camera pulls back to show the whole year.
 
 Canonical: https://www.makeviral.ai/templates/2027-new-year-ai-trend
-Updated: 2026-11-04
+Updated: 2026-11-11
 Published: 2026-10-29
 Author: MakeViral Team (https://www.makeviral.ai/about)
 Publisher: MakeViral (https://www.makeviral.ai)
@@ -16,7 +16,7 @@ Also called: Giant 2027 letters AI video, 2027 mountain letters trend, Hola 2027
 
 **Make it now:** [Make this video](https://www.makeviral.ai/templates/2027-new-year-ai-trend/create). 1 photo · 8 s · 9:16 with sound · 46 credits, charged once · ready in a few minutes · no prompt to write.
 
-Keyword: new year ai trend. Also answers: happy new year ai video, new year ai video, 2027 ai trend, welcome 2027, hello 2027, goodbye 2026 welcome 2027, happy new year 2027 ai, welcome 2027 ai video, hello 2027 ai, 2027 letters ai, goodbye 2026 hello 2027, goodbye 2026, goodbye 2026 welcome 2027 ai, 2026 to 2027 ai transition, goodbye 2026 trend, happy new year 2027, 2027 ai video, new year ai video generator, new year ai video maker, happy new year ai video generator, 2027 big letters, welcome 2027 video effects, new year video ai prompt, 2027 ai filter, new year ai filter, happy new year 2027 video, bienvenido 2027, adios 2026 bienvenido 2027, adieu 2026 bienvenue 2027.
+Keyword: new year ai trend. Also answers: 2027 new year ai video, happy new year ai video, new year ai video, 2027 ai trend, welcome 2027, hello 2027, goodbye 2026 welcome 2027, hello 2027 happy new year, happy new year 2027 ai, welcome 2027 ai video, hello 2027 ai, 2027 letters ai, goodbye 2026 hello 2027, goodbye 2026, goodbye 2026 welcome 2027 ai, bye 2026 welcome 2027, 2026 to 2027 ai transition, goodbye 2026 trend, happy new year 2027, 2027 ai video, new year ai video generator, new year ai video maker, happy new year ai video generator, 2027 big letters, welcome 2027 video effects, new year video ai prompt, 2027 ai filter, new year ai filter, happy new year 2027 video, hola 2027, bienvenido 2027, adios 2026 bienvenido 2027, adieu 2026 bienvenue 2027.
 
 ## What is the Hello 2027 trend, and where did it start?
 
@@ -241,7 +241,7 @@ The exact price shows on the Generate button before you spend anything, and you 
 
 ## When and how should you post it?
 
-Last year's version peaked around New Year's Eve: the first post of the wave came on 14 November 2025 and the biggest copies landed in the last week of December. Post yours in the days before 31 December, or at midnight with a caption such as "Goodbye 2026, hello 2027" or "Bienvenido 2027".
+Last year's version peaked around New Year's Eve: the first post of the wave came on 14 November 2025 and the biggest copies landed in the last week of December. Post yours in the days before 31 December, or at midnight with a caption such as "Goodbye 2026, hello 2027" or "Bienvenido 2027". For a simple caption, try "Hello 2027, happy New Year". A shorter "Bye 2026, welcome 2027" works too.
 
 **Hashtags:** #welcome2027 (2,375 TikTok videos, 13.5 million views on 29 October 2026), #hello2027 (1,327 videos) and #happynewyear2027 (5,799 videos). Keep the platform's AI label on. Add your own song in the app if you want one.
 
@@ -303,7 +303,7 @@ Yes. Each video costs credits, and the create page shows the exact price on the 
 
 ### Can I post it in Spanish, like bienvenido 2027 or adios 2026 bienvenido 2027?
 
-Yes. The clip has no words in it, only the digits 2027, so it works in any language. Last year's biggest posts were in Spanish and Portuguese.
+Yes. The clip has no words in it, only the digits 2027, so it works in any language. A caption such as Hola 2027 fits it too. Last year's biggest posts were in Spanish and Portuguese.
 
 ## Other AI video templates and tools
 
@@ -315,12 +315,12 @@ Yes. The clip has no words in it, only the digits 2027, so it works in any langu
 
 ## New AI video trends this week
 
-- [Christmas Dance AI: Do the New TikTok Christmas Dance From Your Photos](https://www.makeviral.ai/templates/christmas-dance-ai-trend): Hip sways with the hands at the collar, rolling arms, a quick spin and raised fists, side by side in matching Christmas pajamas. Add two photos for the duo, one for a solo take, or two pets, and get the dance with the sound.
-- [Cat on Ultra Bee AI: Put Your Pet on the Wheelie](https://www.makeviral.ai/templates/cat-on-ultra-bee-ai-trend): Add one photo, and your cat or dog stands on an electric dirt bike and holds a long wheelie down a city road at golden hour, in the same shots as the viral clip, with its original sound. You can take the ride yourself, too.
-- [Tus Ojos Me Reflejan el Sentimiento: The Cafuné Eye Close-Up Trend](https://www.makeviral.ai/templates/tus-ojos-me-reflejan-ai-trend): You lie on your side, a hand rests on your cheek, warm light falls on your face, and the camera slowly moves in until your eyes fill the screen while the line plays. One photo in, an 8-second vertical clip with the trend's song out.
-- [İnşallah Maşallah AI Trend: Sing Neşe Karaböcek's Song on the Couch](https://www.makeviral.ai/templates/insallah-masallah-ai-trend): You sit on a light grey couch and sing the old Turkish love song straight to the camera: a hand on the heart, a big laugh with both hands on your head, a finger pointed at the camera and a kiss at the end. One photo of you, a grandparent or your pet, and the 15-second clip comes with the song.
-- [Ice Ice Baby Dance AI: Do the Viral Duo Dance With a Friend](https://www.makeviral.ai/templates/ice-ice-baby-dance-ai): Two dancers side by side, the same bouncy 90s steps, a spin on the beat and a strut to the camera. Add a photo of you and a friend, of you alone, or of your pet, and get the dance with the sound.
-- [Save Yourself Trend: Pull Yourself Up From the Cliff](https://www.makeviral.ai/templates/save-yourself-ai-trend): One photo plays both of you: the scared you clinging to a wet sea cliff, and the calm you who reaches down, pulls you up and holds you. Or use two photos: an older photo of you and a new one, or you and a friend. 15 seconds, vertical.
+- [Tiger Fight AI: Beat the Tiger on CCTV](https://www.makeviral.ai/templates/cctv-tiger-fight-ai-trend): A security camera on a forest path. A tiger leaps out of the bushes, and you fight it and pin it to the ground. Add one photo of yourself or your pet, and the trend's phonk sound comes with it.
+- [The Office Parkour AI Trend: You Shout "Parkour!" in the Office](https://www.makeviral.ai/templates/the-office-parkour-ai-trend): Dive over the couch, land upside down and shout "Parkour!" into the camera, then jump off the reception counter while the crew leaps over the desks. The whole office parkour scene, 24 seconds, with its own shouts.
+- [Huell Money AI: The Breaking Bad Money Pile Scene, Starring You](https://www.makeviral.ai/templates/huell-money-ai-trend): A storage unit, a bed-size pile of cash, and you fall back onto it with your eyes closed while your friend tells you to quit it. Then they give in and lie down next to you. With the scene's own lines.
+- [Peaky Blinders Explosion Scene, Starring You](https://www.makeviral.ai/templates/peaky-blinders-explosion-ai-trend): A flat cap, a long black overcoat, a match at your lips. The red-brick manor blows up behind you and you walk slowly toward the camera through the smoke, never looking back. One photo, 15 seconds, with the clip's song.
+- [Mbappe Run vs Argentina AI: The Mbappe Sprint, Starring You](https://www.makeviral.ai/templates/mbappe-sprint-ai-trend): A sunny pitch, one long sprint with the ball, a defender in a striped shirt crashing into you, and you sitting on the grass complaining while the commentator shouts "It's a penalty!". In your own clothes. It is an AI video, not real match footage.
+- [Perfume Transition AI Trend: Spray, Flame, Gangster Look](https://www.makeviral.ai/templates/perfume-transition-ai-trend): Sniff the perfume, spray it at the camera, and a lighter turns the spray into a fireball. Add one photo, and you or your pet step out of the flame in a flat cap, dark sunglasses and a long magenta coat, with the trend's song.
 
 ## Make your own Hello 2027 video
 

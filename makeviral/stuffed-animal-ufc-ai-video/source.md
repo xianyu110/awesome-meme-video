@@ -3,7 +3,7 @@
 > The stuffed animal UFC edit is an AI fight video: a soft plush toy takes the winner's place in a real-looking cage fight, throws the punches, drops the opponent and celebrates.
 
 Canonical: https://www.makeviral.ai/templates/stuffed-animal-ufc-ai-video
-Updated: 2026-11-09
+Updated: 2026-11-10
 Published: 2026-11-09
 Author: MakeViral Team (https://www.makeviral.ai/about)
 Publisher: MakeViral (https://www.makeviral.ai)
@@ -16,7 +16,7 @@ Also called: Stuffed Fighter Takedown, Plush fighter, Stuffed animal knockout.
 
 **Make it now:** [Make this video](https://www.makeviral.ai/templates/stuffed-animal-ufc-ai-video/create). 1 photo · 10 s · 9:16 with sound · 126 credits, charged once · ready in a few minutes · no prompt to write.
 
-Keyword: ufc ai video. Also answers: ai fight video, ufc ai video generator, ufc fight ai video, ai fight video generator, stuffed animal ufc, punch monkey ai, punch monkey ai fight, stuffed animal fighting, teddy bear ufc, ufc ai knockouts, funny ai fight video generator, ufc fighter plush, monkey ufc fight, ikea monkey, punch monkey, ai plush toy, ai plush toy effect, ufc ai trend, ufc ai fights, ufc ai funny, ufc ai memes, plush fighting, stuffed fighter, stuffed animal wrestling, punch monkey fights back, ai fight video maker, ufc ai video maker.
+Keyword: ufc ai video. Also answers: ufc ai video generator, ufc fight ai video, stuffed animal ufc, punch monkey ai, punch monkey ai fight, stuffed animal fighting, teddy bear ufc, ufc ai knockouts, ufc fighter plush, monkey ufc fight, ikea monkey, punch monkey, ai plush toy, ai plush toy effect, ufc ai trend, ufc ai fights, ufc ai funny, ufc ai memes, plush fighting, stuffed fighter, stuffed animal wrestling, punch monkey fights back, ufc ai video maker.
 
 ## What is the Stuffed Animal UFC trend, and where did it start?
 
@@ -218,7 +218,7 @@ Yes. Add one full-body photo of your pet. It comes out as a life-size plush toy 
 
 ### What is the punch monkey AI fight?
 
-Punch is a baby macaque at Ichikawa City Zoo in Japan who went viral in February 2026, clinging to an IKEA orangutan plush. AI videos of Punch fighting back against the monkeys who bullied him followed. The stuffed fighter edit is a different joke with the same toy: the orangutan plush itself wins a cage fight. Use a photo of your own orangutan plush to make it.
+Punch is a baby macaque at Ichikawa City Zoo in Japan who went viral in February 2026, clinging to an IKEA orangutan plush. AI videos of Punch fighting back against the monkeys who bullied him followed. The stuffed fighter edit is a different joke with the same toy: the orangutan plush itself wins a cage fight. Use a photo of your own orangutan plush to make your own monkey UFC fight.
 
 ### Is the IKEA monkey in the example real?
 
@@ -234,7 +234,7 @@ Yes. Each video costs credits, and the create page shows the exact price on the 
 
 ### Are there other funny AI fight video generator templates?
 
-Yes. The knocked out shadow boxing meme makes your own shadow knock you out. On this page, the stuffed animal fighting edit is the softest one: a fluffy toy wins by knockout.
+Yes. The [AI fight video generator](https://www.makeviral.ai/templates/ai-fight-video-generator) makes you and a friend, two pets or two toys wrestle as 3D cartoon toddlers in a park, and the knocked out shadow boxing meme makes your own shadow knock you out. On this page, the stuffed animal fighting edit is the softest one: a fluffy toy wins by knockout.
 
 ### Is there a UFC AI video maker or an AI fight video maker app?
 
@@ -246,24 +246,24 @@ A knockout is a short, loud moment that everyone understands. Put something soft
 
 ### Is there an AI plush toy effect for the fight?
 
-Yes, it is built in. A photo of a person or a pet comes out as a plush toy version of them in the fight. A photo of a plush toy stays that toy, grown to fighter size.
+Yes, it is built in. A photo of a person or a pet comes out as a UFC fighter plush: a plush toy version of them in the fight. A photo of a plush toy stays that toy, grown to fighter size.
 
 ## Other AI video templates and tools
 
 - [Knocked Out Shadow Boxing: Get Knocked Out by Your Own Shadow](https://www.makeviral.ai/templates/knocked-out-shadow-boxing-ai-trend): Add one photo. You shadowbox in a boxing gym, an invisible jab and hook snap your head back, and you drop flat on the mat while everyone keeps training. Bro got knocked out shadowboxing, and nobody touched him.
+- [AI Fight Video Generator: Make Any Two Characters Fight](https://www.makeviral.ai/templates/ai-fight-video-generator): Add two photos: you and a friend, two pets or two toys. Both become 3D cartoon toddlers who square up in a sunny park, circle, clinch, and photo 1 tips photo 2 onto the grass. 13 seconds, vertical, with playful music. Comedy wrestling, nobody gets hurt.
 - [Crochet Filter: AI Turns Your Photo Into a Crochet Doll of You](https://www.makeviral.ai/templates/ai-crochet-doll-filter): Add one photo. AI turns you into a handmade amigurumi doll of yarn, with your hair, your clothes and your pose, in a crocheted copy of your own place. Make it alone or with your partner.
-- [Monkey Eating Apple AI: A Macaque Steals Your Apple](https://www.makeviral.ai/templates/monkey-eating-apple-ai-trend): You bite into a red apple on a forest path, a wild macaque on the stone railing grabs it, a tug of war follows, and the camera pushes in on your shocked face. Add one photo for you or your pet, or two for a duo.
 - [AI photo generator](https://www.makeviral.ai/ai-photo-generator)
 - [All AI video templates](https://www.makeviral.ai/templates)
 
 ## New AI video trends this week
 
-- [Turning My Mom Into Me: Put Your Mom in Your Outfit With AI](https://www.makeviral.ai/templates/turning-my-mom-into-me-ai-trend): Your mom walks down the hallway in her own clothes, walks out, and struts back in wearing your outfit. Add one photo of her and one of you in your outfit, and get the viral reel with its caption and its sound. Dad works too.
-- [Giant Cat AI Video: Make Your Pet a Giant in New York](https://www.makeviral.ai/templates/giant-cat-ai-video): Your cat walks down a New York avenue as tall as the towers, peers into a car window and leans on a skyscraper while helicopters circle. Add one photo of your pet, or of yourself, and get the 10-second clip with the street sound.
-- [Black and White Cinematic Video: You in the Classic Suit Stroll](https://www.makeviral.ai/templates/black-and-white-cinematic-ai-video): One photo of you becomes a 15-second black and white film: you walk past the hedges in a long black coat, smile at the windows, wave and laugh on the stone steps, then pause under a black umbrella, to a slowed phonk beat.
-- [Düğün Dansı AI: Put Your Friends in the Wild Turkish Wedding Dance](https://www.makeviral.ai/templates/dugun-oyunu-ai-trend): Two dancers go wild around the davul player in a Turkish wedding hall, a halay line bounces behind them, and a guest in a white tank top laughs into the camera at the end. Add three photos, two for a duo, or one of your pet.
-- [Hippo Pathway What If: Become the 541 ft Giant Pop Star](https://www.makeviral.ai/templates/hippo-pathway-giant-pop-star-ai-trend): What if a pop star was 100 times taller? Add one photo: you or your pet become the giant who sings and dances down a city avenue at dusk, or the giant pop star shows up in a photo of your own street.
-- [Santa Nice List AI Video: Santa Checks His List and Finds You](https://www.makeviral.ai/templates/santa-nice-list-ai-video): Santa unrolls his Naughty & Nice list in his workshop, smiles at the camera, and a swirl of gold sparkles opens on your own photo in a big gold frame while he says "You're on the nice list!" One photo in, a 10-second vertical clip with Santa's voice out.
+- [Tiger Fight AI: Beat the Tiger on CCTV](https://www.makeviral.ai/templates/cctv-tiger-fight-ai-trend): A security camera on a forest path. A tiger leaps out of the bushes, and you fight it and pin it to the ground. Add one photo of yourself or your pet, and the trend's phonk sound comes with it.
+- [The Office Parkour AI Trend: You Shout "Parkour!" in the Office](https://www.makeviral.ai/templates/the-office-parkour-ai-trend): Dive over the couch, land upside down and shout "Parkour!" into the camera, then jump off the reception counter while the crew leaps over the desks. The whole office parkour scene, 24 seconds, with its own shouts.
+- [Huell Money AI: The Breaking Bad Money Pile Scene, Starring You](https://www.makeviral.ai/templates/huell-money-ai-trend): A storage unit, a bed-size pile of cash, and you fall back onto it with your eyes closed while your friend tells you to quit it. Then they give in and lie down next to you. With the scene's own lines.
+- [Peaky Blinders Explosion Scene, Starring You](https://www.makeviral.ai/templates/peaky-blinders-explosion-ai-trend): A flat cap, a long black overcoat, a match at your lips. The red-brick manor blows up behind you and you walk slowly toward the camera through the smoke, never looking back. One photo, 15 seconds, with the clip's song.
+- [Mbappe Run vs Argentina AI: The Mbappe Sprint, Starring You](https://www.makeviral.ai/templates/mbappe-sprint-ai-trend): A sunny pitch, one long sprint with the ball, a defender in a striped shirt crashing into you, and you sitting on the grass complaining while the commentator shouts "It's a penalty!". In your own clothes. It is an AI video, not real match footage.
+- [Perfume Transition AI Trend: Spray, Flame, Gangster Look](https://www.makeviral.ai/templates/perfume-transition-ai-trend): Sniff the perfume, spray it at the camera, and a lighter turns the spray into a fireball. Add one photo, and you or your pet step out of the flame in a flat cap, dark sunglasses and a long magenta coat, with the trend's song.
 
 ## Make your own Stuffed Animal UFC video
 

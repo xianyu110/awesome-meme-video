@@ -3,7 +3,7 @@
 > Did Torobo just jump?
 
 Canonical: https://www.makeviral.ai/templates/did-torobo-just-jump-allahwalai-ai-trend
-Updated: 2026-11-05
+Updated: 2026-11-11
 Published: 2026-11-05
 Author: MakeViral Team (https://www.makeviral.ai/about)
 Publisher: MakeViral (https://www.makeviral.ai)
@@ -30,6 +30,15 @@ In early November AI story channels in Nigeria made it an AI character challenge
 - **2026-11-04**: @aicontent_19 posts the first AI take seen: two AI goat women change into dry-leaf dresses and head wraps and dance on a village street. It has 321,200 views and 51,900 likes a day later, with TikTok's AI label. Source: [TikTok](https://www.tiktok.com/@aicontent_19/video/7704283064557473032).
 - **2026-11-05**: @talesbyronke posts "Did Torobo just jump 🙆 Allahwalai, torobo wahala don tired me": the AI goat Torobo covers her face and comes back in a green leaf costume on a swing (73,800 views on the same day). Source: [TikTok](https://www.tiktok.com/@talesbyronke/video/7704662609928604950).
 - **2026-11-05**: The BIBOU sound is in about 96,800 TikTok videos and adds about 8,100 a day.
+
+## What the Torobo AI Trend video looks like
+
+Made from the prompts on this page. The people and pets are AI-made, not real persons, and the sound is original. Your result will differ from run to run.
+
+- **Example 1** (13 s, 9:16 MP4 with sound): Made with MakeViral from one photo of an AI-made woman (not a real person): she runs up, covers her face, and after the cut she dances on the swing in the green leaf costume, 13 seconds with the trend's sound.
+  - Video: https://www.makeviral.ai/media/templates/did-torobo-just-jump-allahwalai-ai-trend/example-main-v1.mp4
+  - Poster: https://www.makeviral.ai/media/templates/did-torobo-just-jump-allahwalai-ai-trend/example-main-poster.jpg
+  - Input photo: https://www.makeviral.ai/media/templates/did-torobo-just-jump-allahwalai-ai-trend/example-main-input.jpg
 
 ## How to make the Torobo AI Trend video on MakeViral
 
@@ -231,12 +240,12 @@ Both. The goat TikTok trend of November 2026 is the AI version, with goat charac
 
 ## New AI video trends this week
 
-- [Christmas Dance AI: Do the New TikTok Christmas Dance From Your Photos](https://www.makeviral.ai/templates/christmas-dance-ai-trend): Hip sways with the hands at the collar, rolling arms, a quick spin and raised fists, side by side in matching Christmas pajamas. Add two photos for the duo, one for a solo take, or two pets, and get the dance with the sound.
-- [Cat on Ultra Bee AI: Put Your Pet on the Wheelie](https://www.makeviral.ai/templates/cat-on-ultra-bee-ai-trend): Add one photo, and your cat or dog stands on an electric dirt bike and holds a long wheelie down a city road at golden hour, in the same shots as the viral clip, with its original sound. You can take the ride yourself, too.
-- [Tus Ojos Me Reflejan el Sentimiento: The Cafuné Eye Close-Up Trend](https://www.makeviral.ai/templates/tus-ojos-me-reflejan-ai-trend): You lie on your side, a hand rests on your cheek, warm light falls on your face, and the camera slowly moves in until your eyes fill the screen while the line plays. One photo in, an 8-second vertical clip with the trend's song out.
-- [İnşallah Maşallah AI Trend: Sing Neşe Karaböcek's Song on the Couch](https://www.makeviral.ai/templates/insallah-masallah-ai-trend): You sit on a light grey couch and sing the old Turkish love song straight to the camera: a hand on the heart, a big laugh with both hands on your head, a finger pointed at the camera and a kiss at the end. One photo of you, a grandparent or your pet, and the 15-second clip comes with the song.
-- [Ice Ice Baby Dance AI: Do the Viral Duo Dance With a Friend](https://www.makeviral.ai/templates/ice-ice-baby-dance-ai): Two dancers side by side, the same bouncy 90s steps, a spin on the beat and a strut to the camera. Add a photo of you and a friend, of you alone, or of your pet, and get the dance with the sound.
-- [Save Yourself Trend: Pull Yourself Up From the Cliff](https://www.makeviral.ai/templates/save-yourself-ai-trend): One photo plays both of you: the scared you clinging to a wet sea cliff, and the calm you who reaches down, pulls you up and holds you. Or use two photos: an older photo of you and a new one, or you and a friend. 15 seconds, vertical.
+- [Tiger Fight AI: Beat the Tiger on CCTV](https://www.makeviral.ai/templates/cctv-tiger-fight-ai-trend): A security camera on a forest path. A tiger leaps out of the bushes, and you fight it and pin it to the ground. Add one photo of yourself or your pet, and the trend's phonk sound comes with it.
+- [The Office Parkour AI Trend: You Shout "Parkour!" in the Office](https://www.makeviral.ai/templates/the-office-parkour-ai-trend): Dive over the couch, land upside down and shout "Parkour!" into the camera, then jump off the reception counter while the crew leaps over the desks. The whole office parkour scene, 24 seconds, with its own shouts.
+- [Huell Money AI: The Breaking Bad Money Pile Scene, Starring You](https://www.makeviral.ai/templates/huell-money-ai-trend): A storage unit, a bed-size pile of cash, and you fall back onto it with your eyes closed while your friend tells you to quit it. Then they give in and lie down next to you. With the scene's own lines.
+- [Peaky Blinders Explosion Scene, Starring You](https://www.makeviral.ai/templates/peaky-blinders-explosion-ai-trend): A flat cap, a long black overcoat, a match at your lips. The red-brick manor blows up behind you and you walk slowly toward the camera through the smoke, never looking back. One photo, 15 seconds, with the clip's song.
+- [Mbappe Run vs Argentina AI: The Mbappe Sprint, Starring You](https://www.makeviral.ai/templates/mbappe-sprint-ai-trend): A sunny pitch, one long sprint with the ball, a defender in a striped shirt crashing into you, and you sitting on the grass complaining while the commentator shouts "It's a penalty!". In your own clothes. It is an AI video, not real match footage.
+- [Perfume Transition AI Trend: Spray, Flame, Gangster Look](https://www.makeviral.ai/templates/perfume-transition-ai-trend): Sniff the perfume, spray it at the camera, and a lighter turns the spray into a fireball. Add one photo, and you or your pet step out of the flame in a flat cap, dark sunglasses and a long magenta coat, with the trend's song.
 
 ## Make your own Torobo AI Trend video
 

@@ -1,0 +1,47 @@
+{
+  "source": "makeviral",
+  "source_site": "https://www.makeviral.ai",
+  "slug": "truck-driver-ai-trend",
+  "name": "Truck Driver AI Trend: Back the Big Truck Into the Yard",
+  "url": "https://www.makeviral.ai/templates/truck-driver-ai-trend",
+  "markdown_url": "https://www.makeviral.ai/templates/truck-driver-ai-trend.md",
+  "blurb": "The truck driver AI trend is a fisheye clip from inside a big truck cab: the driver leans out of the open window, looks back and turns the huge wheel while the truck backs into a yard, then sits back like a pro.",
+  "updated": "2026-11-11",
+  "published": "2026-11-11",
+  "credits": 168,
+  "demo_videos": [
+    "https://www.makeviral.ai/media/templates/truck-driver-ai-trend/original-main-v2.mp4"
+  ],
+  "posters": [
+    "https://www.makeviral.ai/media/templates/truck-driver-ai-trend/original-main-v1.jpg"
+  ],
+  "prompts": [
+    {
+      "label": "1. The video prompt is filled in. Settings: Seedance 2.5, 11 s, 720p, 9:16, sound off. The video prompt",
+      "variant": null,
+      "kind": "video_prompt",
+      "text": "Recreate the reference video [Video 1] shot for shot: the same big truck cab seen through the same wide fisheye camera fixed inside the cab, the open driver's window, the large steering wheel with its red patterned cover, the sunny truck yard with parked trucks and trailers outside, the same one continuous take, the same timing, moves and camera. The ONLY change: the young woman with long dark hair in the black sleeveless top at the wheel is now the person in [Image 1]. Only replace the person; keep the action, the motion path, the truck and the background unchanged. Keep everything else the same.\n\nThe driver = the person in [Image 1], in EVERY frame: copy the exact face from [Image 1]: face shape, eye color and eye shape, eyebrows, nose, mouth, skin tone, age, hair color, hair length and hairstyle, and any beard, moustache, glasses or freckles exactly as in the photo. The driver wears the clothes from [Image 1]; if [Image 1] shows only the head or the upper body, invent the rest so it matches naturally. The same real person in every frame, from the first second to the last, so their friends instantly recognize them, also while the driver leans out of the window with the head turned away and when they sit back and look toward the camera. Never morph, never drift back to the original woman's face. NO long dark hair, NO black sleeveless top and NO bracelet unless [Image 1] shows them, and the age of [Image 1]. If [Image 1] shows an animal, the driver is that animal sitting upright at the wheel, with its own face, fur and markings and the natural body volume and proportions of that animal: never flattened, squashed, stretched or merged with anything.\n\nTHE PERFORMANCE, matching [Video 1] second by second, like a pro truck driver backing into the yard, calm and sure:\n00:00-00:07: the driver leans far out of the open driver's window, the forearm on the window sill, and looks back along the side of the truck while the truck slowly reverses into the yard; the other hand reaches down and turns the big steering wheel.\n00:07-00:11 (the same take, no cut): the driver sits back in the seat, faces forward with the hands on the wheel, turns it, and gives a cool, confident look toward the camera.\nThe yard, the parked trucks and the light pass the window exactly as in [Video 1]. The camera stays fixed inside the cab with the same fisheye bend.\n\nReal live-action footage, clear facial features, natural skin, no distortion. No dialogue throughout the entire video. No background music.\n\nAnatomy rules: one head only, on the driver's shoulders. Two arms and two hands, five fingers on each hand. Exactly one person in the cab. No cuts, no text, no captions, no logos, no truck make badges, no readable license plates, no watermark, no extra people."
+    },
+    {
+      "label": "1. The video prompt is filled in. Settings: Seedance 2.5, 11 s, 720p, 9:16, sound off. The video prompt",
+      "variant": "Pet",
+      "kind": "video_prompt",
+      "text": "Recreate the reference video [Video 1] shot for shot: the same big truck cab seen through the same wide fisheye camera fixed inside the cab, the open driver's window, the large steering wheel with its red patterned cover, the sunny truck yard with parked trucks and trailers outside, the same one continuous take, the same timing, moves and camera. The ONLY change: the young woman at the wheel is now the pet in [Image 1], playing the truck driver. Only replace the driver; keep the action, the motion path, the truck and the background unchanged. Keep everything else the same.\n\nThe driver = the pet in [Image 1], in EVERY frame: the same species and breed, face, eyes, ears, muzzle, fur colors, fur length and markings as in [Image 1], with the natural body volume and proportions of that animal: never flattened, squashed, stretched or merged with anything. Whether [Image 1] shows a dog, a cat or another animal, it stays that animal, sitting upright in the driver's seat, big enough to reach the wheel. The same pet in every frame, from the first second to the last, so its owner instantly recognizes it. No one from [Video 1] stays: no woman, no long dark hair, no human arms or hands, no black top. Animal paws, never human hands.\n\nTHE PERFORMANCE, matching [Video 1] second by second, like a pro truck driver backing into the yard:\n00:00-00:07: the pet leans its head and chest far out of the open driver's window, one front paw on the window sill, and looks back along the side of the truck while the truck slowly reverses into the yard; the other front paw rests on the big steering wheel and turns it.\n00:07-00:11 (the same take, no cut): the pet sits back upright in the seat, both front paws on the wheel, turns it, and gives a cool, serious look toward the camera.\nThe yard, the parked trucks and the light pass the window exactly as in [Video 1]. The camera stays fixed inside the cab with the same fisheye bend.\n\nReal live-action footage, natural fur, no distortion. No dialogue throughout the entire video. No background music.\n\nAnatomy rules: one head only, one muzzle, natural teeth and tongue. Exactly two front paws, animal paws, never a human hand. No extra legs, no extra animals, no people in the cab. No cuts, no text, no captions, no logos, no truck make badges, no readable license plates, no watermark."
+    }
+  ],
+  "variant_headings": [
+    "What the Truck Driver AI video looks like",
+    "How to make the Truck Driver AI video on MakeViral",
+    "Which photo works best?",
+    "What happens in the truck driver AI video, second by second?",
+    "Human or Pet: which one should you make?",
+    "How do I make the truck driver AI video with my photo?",
+    "How long is the video and what format is it?",
+    "Does the truck driver AI video cost credits?",
+    "Other AI video templates and tools",
+    "New AI video trends this week",
+    "Make your own Truck Driver AI video"
+  ],
+  "prompt_count": 2,
+  "scraped_at": "2026-11-12"
+}

@@ -3,7 +3,7 @@
 > The Last Dance trend is the TikTok duet dance of autumn 2026: two people grab one hand, stretch the other arm out wide and spin around each other to a Vocaloid song fans call "The Last Dance".
 
 Canonical: https://www.makeviral.ai/templates/last-dance-ai-trend
-Updated: 2026-11-08
+Updated: 2026-11-11
 Published: 2026-11-04
 Author: MakeViral Team (https://www.makeviral.ai/about)
 Publisher: MakeViral (https://www.makeviral.ai)
@@ -16,7 +16,7 @@ Also called: Botsu 8 trend, The Last Dance animation meme.
 
 **Make it now:** [Make this video](https://www.makeviral.ai/templates/last-dance-ai-trend/create). 2 photos · 11 s · 9:16 with sound · 168 credits, charged once · ready in up to several minutes · no prompt to write.
 
-Keyword: the last dance trend. Also answers: last dance trend, the last dance trend song, the last dance trend tiktok, the last dance trend ai, the last dance trend irl, the last dance trend tutorial, the last dance meme, botsu 8 the last dance, the last dance trend original, last dance trend couple, the last dance song trend, botsu 8 meaning, fpd ff7 botsu 8 meaning, the last dance animation, the last dance tiktok, where is the last dance trend from, final dance trend, last dance meme, the last dance trend lyrics, what is botsu 8 from, the last dance trend meaning, the last dance trend explained, the last dance trend animation, last dance trend song, the last dance trend song name, last dance trend ai, botsu 8 dance, botsu 8, fpd ff7 botsu 8, the last dance trend template, the last dance trend background, the last dance trend base, the last dance trend pose, the last dance trend with friends, the last dance trend with dog, how to do the last dance trend, the last dance tiktok dance, the last dance trend video, last dance ai, last dance animation meme, the last dance maretu, the last dance trend origin, the last dance тренд, the last dance песня из тик тока.
+Keyword: the last dance trend. Also answers: last dance trend, the last dance trend song, the last dance trend tiktok, the last dance trend ai, the last dance trend irl, the last dance trend tutorial, the last dance meme, botsu 8 the last dance, the last dance trend original, last dance trend couple, the last dance song trend, botsu 8 meaning, fpd ff7 botsu 8 meaning, the last dance animation, the last dance tiktok, where is the last dance trend from, final dance trend, last dance meme, the last dance trend lyrics, what is botsu 8 from, the last dance trend meaning, the last dance animation trend, what is the last dance trend about, botsu 8 the last dance meaning, last dance trend template, the last dance template, the last dance trend explained, the last dance trend animation, botsu 8 the last dance song origin, last dance background trend, the last dance trebd, what is botsu 8 the last dance from, what is the last dance trend, last dance trend song, the last dance trend song name, last dance trend ai, botsu 8 dance, botsu 8, fpd ff7 botsu 8, the last dance trend template, the last dance trend background, the last dance trend base, the last dance trend pose, how to do the last dance trend irl, last dance pose, the last dance tutorial, the last dance animation frames, the last dance background, the last dance base, where does the last dance trend come from, trend last dance, the last dance trend with friends, the last dance trend with dog, how to do the last dance trend, the last dance tiktok dance, the last dance trend video, last dance ai, last dance animation meme, the last dance maretu, the last dance trend origin, the last dance тренд, the last dance песня из тик тока, one last dance trend, the last dance meme song, what song is used in the last dance trend.
 
 ## What is the The Last Dance trend, and where did it start?
 
@@ -222,19 +222,19 @@ Want another duo dance? Try the [Toc Toc dance](https://www.makeviral.ai/templat
 
 It is a TikTok trend from autumn 2026: two people hold one hand each, throw the other arm out wide and spin around each other, faster and faster, to a Vocaloid song fans call "The Last Dance". It started in August 2026 as the Last Dance meme, an animation with fan characters on a stage, and from September real duos and couples danced it too.
 
-### What is the meaning of the Last Dance trend?
+### What is the Last Dance trend about, and what does it mean?
 
 The last dance trend explained in one line: two people spin hand in hand as if it were their last dance. The last dance trend meaning is in the name: two characters, or two friends, share one final dance before something ends, often with a dramatic fall at the end of the song. Know Your Meme describes it as a pair sharing an elegant or coordinated final dance; in real-life clips it is mostly a fun challenge that goes wrong.
 
-### What is the Last Dance trend song?
+### What song is used in the Last Dance trend?
 
-The last dance trend song is "fpd ff7 botsu 8" by the Vocaloid producer Maretu, first uploaded to SoundCloud on 19 September 2014. "The Last Dance" is the fans' nickname, so the song name people search is often botsu 8 or botsu 8 the last dance. An English lyric cover by @vinnmp4s spread from 6 October 2026.
+The song is "fpd ff7 botsu 8" by the Vocaloid producer Maretu, first uploaded to SoundCloud on 19 September 2014. "The Last Dance" is the fans' nickname, so the song name people search is often botsu 8 or botsu 8 the last dance. An English lyric cover by @vinnmp4s spread from 6 October 2026.
 
-### What does botsu 8 mean, and where is it from?
+### What is the fpd ff7 botsu 8 meaning, and where is it from?
 
-Botsu 8 is part of the song's title. "fpd ff7 botsu 8" is the name the Vocaloid producer Maretu gave the track when it went up on SoundCloud on 19 September 2014, and fans later nicknamed it "The Last Dance". We found no statement from Maretu on the meaning of the title.
+Botsu 8 is part of the song's title. "fpd ff7 botsu 8" is the name the Vocaloid producer Maretu gave the track when it went up on SoundCloud on 19 September 2014, and fans later nicknamed it "The Last Dance". We found no statement from Maretu on the meaning of the title. That 2014 upload is the origin of the song; the dance came twelve years later.
 
-### Where is the Last Dance trend original?
+### Where does the Last Dance trend come from, and where is the original?
 
 Know Your Meme dates the earliest known animation to 14 August 2026, by @fugashizzz._ on TikTok. The clip most people know as the last dance trend original is @amy_yayxd's stage background of 29 August 2026, with 6.8 million views by 3 November. The animation is not an AI video: artists drew it. In short, the last dance trend origin is a fan animation from August 2026, set to a song from 2014.
 
@@ -260,7 +260,7 @@ Stand a few steps apart and face your partner. Take one hand each and throw the 
 
 ### Is there a Last Dance trend template, background or base?
 
-For the animation meme, yes: artists share a stage background (the last dance trend background by @amy_yayxd) and a dance base or pose sheet that others trace. Those are drawing aids for the animation. This template is a different thing: it makes a real-looking video of you from two photos, with no drawing.
+For the animation meme, yes: artists share a stage background (the last dance trend background by @amy_yayxd) and a dance base or pose sheet that others trace. Those are drawing aids: artists use them to draw the frames of their own last dance animation. This template is a different thing: it makes a real-looking video of you from two photos, with no drawing.
 
 ### What prompt does the Last Dance trend AI use?
 
@@ -280,7 +280,7 @@ No. The video is made by AI from still photos, and the people or pets in your ph
 
 ### Where do I find the Last Dance trend TikTok videos?
 
-Search #thelastdance on TikTok: it held 78,315 videos on 3 November 2026. The Last Dance trend TikTok sound was in about 81,000 videos by then, and you will find the animations, the real-life duos and the pet versions under it. Russian speakers search for it as the last dance тренд, and for the song as the last dance песня из тик тока (the song from TikTok).
+Search #thelastdance on TikTok: it held 78,315 videos on 3 November 2026. The Last Dance trend TikTok sound was in about 81,000 videos by then, and you will find the animations, the real-life duos and the pet versions under it. Russian speakers search for it as the last dance тренд, and for the song as the last dance песня из тик тока (the song from TikTok). Some people type it as the last dance trebd.
 
 ## Other AI video templates and tools
 
@@ -294,12 +294,12 @@ Search #thelastdance on TikTok: it held 78,315 videos on 3 November 2026. The La
 
 ## New AI video trends this week
 
-- [Christmas Dance AI: Do the New TikTok Christmas Dance From Your Photos](https://www.makeviral.ai/templates/christmas-dance-ai-trend): Hip sways with the hands at the collar, rolling arms, a quick spin and raised fists, side by side in matching Christmas pajamas. Add two photos for the duo, one for a solo take, or two pets, and get the dance with the sound.
-- [Cat on Ultra Bee AI: Put Your Pet on the Wheelie](https://www.makeviral.ai/templates/cat-on-ultra-bee-ai-trend): Add one photo, and your cat or dog stands on an electric dirt bike and holds a long wheelie down a city road at golden hour, in the same shots as the viral clip, with its original sound. You can take the ride yourself, too.
-- [Tus Ojos Me Reflejan el Sentimiento: The Cafuné Eye Close-Up Trend](https://www.makeviral.ai/templates/tus-ojos-me-reflejan-ai-trend): You lie on your side, a hand rests on your cheek, warm light falls on your face, and the camera slowly moves in until your eyes fill the screen while the line plays. One photo in, an 8-second vertical clip with the trend's song out.
-- [İnşallah Maşallah AI Trend: Sing Neşe Karaböcek's Song on the Couch](https://www.makeviral.ai/templates/insallah-masallah-ai-trend): You sit on a light grey couch and sing the old Turkish love song straight to the camera: a hand on the heart, a big laugh with both hands on your head, a finger pointed at the camera and a kiss at the end. One photo of you, a grandparent or your pet, and the 15-second clip comes with the song.
-- [Ice Ice Baby Dance AI: Do the Viral Duo Dance With a Friend](https://www.makeviral.ai/templates/ice-ice-baby-dance-ai): Two dancers side by side, the same bouncy 90s steps, a spin on the beat and a strut to the camera. Add a photo of you and a friend, of you alone, or of your pet, and get the dance with the sound.
-- [Save Yourself Trend: Pull Yourself Up From the Cliff](https://www.makeviral.ai/templates/save-yourself-ai-trend): One photo plays both of you: the scared you clinging to a wet sea cliff, and the calm you who reaches down, pulls you up and holds you. Or use two photos: an older photo of you and a new one, or you and a friend. 15 seconds, vertical.
+- [Tiger Fight AI: Beat the Tiger on CCTV](https://www.makeviral.ai/templates/cctv-tiger-fight-ai-trend): A security camera on a forest path. A tiger leaps out of the bushes, and you fight it and pin it to the ground. Add one photo of yourself or your pet, and the trend's phonk sound comes with it.
+- [The Office Parkour AI Trend: You Shout "Parkour!" in the Office](https://www.makeviral.ai/templates/the-office-parkour-ai-trend): Dive over the couch, land upside down and shout "Parkour!" into the camera, then jump off the reception counter while the crew leaps over the desks. The whole office parkour scene, 24 seconds, with its own shouts.
+- [Huell Money AI: The Breaking Bad Money Pile Scene, Starring You](https://www.makeviral.ai/templates/huell-money-ai-trend): A storage unit, a bed-size pile of cash, and you fall back onto it with your eyes closed while your friend tells you to quit it. Then they give in and lie down next to you. With the scene's own lines.
+- [Peaky Blinders Explosion Scene, Starring You](https://www.makeviral.ai/templates/peaky-blinders-explosion-ai-trend): A flat cap, a long black overcoat, a match at your lips. The red-brick manor blows up behind you and you walk slowly toward the camera through the smoke, never looking back. One photo, 15 seconds, with the clip's song.
+- [Mbappe Run vs Argentina AI: The Mbappe Sprint, Starring You](https://www.makeviral.ai/templates/mbappe-sprint-ai-trend): A sunny pitch, one long sprint with the ball, a defender in a striped shirt crashing into you, and you sitting on the grass complaining while the commentator shouts "It's a penalty!". In your own clothes. It is an AI video, not real match footage.
+- [Perfume Transition AI Trend: Spray, Flame, Gangster Look](https://www.makeviral.ai/templates/perfume-transition-ai-trend): Sniff the perfume, spray it at the camera, and a lighter turns the spray into a fireball. Add one photo, and you or your pet step out of the flame in a flat cap, dark sunglasses and a long magenta coat, with the trend's song.
 
 ## Make your own The Last Dance video
 

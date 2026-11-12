@@ -105,7 +105,32 @@ Only replace the woman; the parlour, the rotary phone, the cauldron, the floatin
 Anatomy rules: one head only, one muzzle. Animal paws, never human hands. Exactly the pet and one black cat, no people. No text, no subtitles, no logos, no watermark.
 ```
 
-### 4. 1. Open [AI Photo with this template](https://www.makeviral.ai/photo?template=ai-witch-video&variant=candle) and add your photo (your photo, face close and clear). The photo prompt is filled in
+### 4. 1. The video prompt is filled in. Settings: Seedance 2.5, 10 s, 720p, 9:16, sound off. The video prompt
+
+*Kind: video_prompt*
+
+```text
+Recreate the reference video [Video 1] shot for shot, as one continuous take: the same narrow, dark cobblestone alley at night between old stone walls, the same handheld camera that starts low on the boots, pulls back to the whole walker and rises to a close-up of the face, the same framing, timing and light. The ONLY change: replace the woman in the video with the person in [Image 1]. Strictly keep the way she moves and the camera moves. Only replace the person; the walk, the motion path and the alley stay unchanged. Keep everything else the same. [Image 1] is the sole reference for the walker's face and hair; [Video 1] is for the costume, the alley, the walk and the camera only.
+
+The walker = the person in [Image 1], in EVERY frame: copy the exact face from [Image 1]: face shape, eye color and eye shape, eyebrows, nose, mouth, skin tone, age, hair color, hair length and hairstyle, and any beard, moustache, glasses or freckles exactly as in the photo. Keep the original identity, face structure, skin tone, hairstyle and body shape of [Image 1]. The same real person in every frame, so their friends instantly recognize them, above all in the final close-up. Never morph, never drift back to the original woman's face. NO long straight black hair unless [Image 1] shows it. NO silver cross earrings and NO earrings unless [Image 1] shows them.
+
+COSTUME: always the costume from [Video 1], never the clothes from [Image 1]: a wide-brimmed pointed black witch hat, an opaque black lace top with a solid black lining, off the shoulders, with long lace sleeves, a tiered black velvet ruffle mini skirt with a long lace train behind, and black knee-high lace-up boots. The top is never see-through: the lining covers the whole chest in every frame. Bold black winged eyeliner. A man wears the same hat and boots, a lined black lace shirt, a long black coat and black trousers.
+
+THE WALK, beat by beat, one continuous shot with no cuts:
+00:00-00:02.5: the camera is low, at knee height: only the boots, the legs and the skirt hem, stepping toward the lens on the cobblestones.
+00:02.5-00:03.5: the camera pulls back: the whole walker, hat to boots, the lace train flowing behind.
+00:03.5-00:07: the walker walks straight toward the camera down the alley, calm and confident, eyes on the lens.
+00:07-00:09: the walker comes close and the camera rises from the waist to the face.
+00:09-00:10: close-up of the face under the hat brim: the walker stops and gives a slow, cool look into the camera.
+
+Real live-action footage, clear facial features. The lips stay closed. No dialogue throughout the entire video. No background music.
+
+One head only, on the walker's shoulders. Two arms, two legs, five fingers on each hand. Exactly one person.
+
+No cuts, no see-through clothes, no bare chest, no text, no captions, no logos, no watermarks, no extra people, no morphing, no facial distortion.
+```
+
+### 5. 1. Open [AI Photo with this template](https://www.makeviral.ai/photo?template=ai-witch-video&variant=candle) and add your photo (your photo, face close and clear). The photo prompt is filled in
 
 *Kind: photo_prompt*
 
@@ -113,7 +138,7 @@ Anatomy rules: one head only, one muzzle. Animal paws, never human hands. Exactl
 Use the uploaded image as the base: the same person, now in a candle-lit witch ritual in a forest at night. An ordinary, unedited smartphone photo taken at night by a friend standing a few steps away, the phone at chest height, lit only by the warm light of candles. The place: a dark pine forest at night, dry pine needles and bare earth on the ground, tall straight tree trunks fading into black behind. The person kneels upright on a large black cloth in the middle of a circle of about twenty lit white pillar candles of different heights, with a few tarot cards laid face up on the cloth and a few red roses between the candles. The person holds one thin, lit, pale blue taper candle in both hands at chest height and looks straight into the camera with a calm, knowing, slightly mysterious look. Outfit: a tall black pointed witch hat with a wide brim and a long black lace dress with long sheer lace sleeves that covers the knees. A man wears the same hat and a long black robe with the same sheer lace sleeves. The kneeling person from the knees up in the middle of the frame, the nearest candles along the bottom edge, the face clear, sharp and lit warm by the candle flames, turned to the camera. Photorealistic, natural skin, real candle light and deep natural shadows: no cinematic color grading, no soft dreamy glow, no blurred bokeh, not CGI, not a cartoon. The tarot cards show plain old-style art with no readable text. Vertical 9:16. Exactly one person, no one else in the forest. No signs, no text, no logos, no watermarks.
 ```
 
-### 5. 3. Press the film button on the still to open AI Video with the still as the first frame. Settings: Kling 3.0, 10 s, 1080p, 9:16, sound on. The video prompt
+### 6. 3. Press the film button on the still to open AI Video with the still as the first frame. Settings: Kling 3.0, 10 s, 1080p, 9:16, sound on. The video prompt
 
 *Kind: video_prompt*
 
@@ -121,7 +146,7 @@ Use the uploaded image as the base: the same person, now in a candle-lit witch r
 An ordinary, unedited phone video filmed at night by a friend, in one continuous shot with no cuts, lit only by the candles, with a slight handheld shake, like a real clip on social media. Keep the person's face, hair, witch hat and black lace outfit exactly as in the image. 0 to 3 s: the person tips the thin blue candle down and lights the last unlit candle in front of them, then lifts the blue candle back to the chest. 3 to 6 s: the camera moves slowly closer as the person holds the candle still, the flame lighting the face from below, and looks straight into the lens with a calm, knowing look and a small slow smile. 6 to 10 s: the camera turns slowly away to the left, off the person, into the dark forest, and holds on the empty black trees and the bare ground, with only a faint warm candle glow on the nearest trunks: nobody is there. Audio: the natural sound of a quiet forest at night, the soft crackle of candle flames, a low cold wind in the pine trees and one distant owl. No music, no voices, no talking. One person only, five fingers on each hand, the candle flames stay small and calm, no fire spreads. No slow motion, no cinematic look, no text, no subtitles, no logos.
 ```
 
-### 6. Prompt 6
+### 7. Prompt 7
 
 *Kind: prompt*
 
@@ -129,7 +154,7 @@ An ordinary, unedited phone video filmed at night by a friend, in one continuous
 Use the two uploaded images as the base. The person in the first image kneels on the LEFT, and the person in the second image kneels on the RIGHT: two best friends at a witchy tarot night. Keep each one's own face, hair, skin tone and age; never blend or swap them. An ordinary, unedited smartphone photo taken at dusk by a friend a few steps away, the phone at chest height. The place: a garden lawn at dusk under a deep blue evening sky, dark hedges and trees behind. On the grass in front of them lies a big ring of about forty tarot cards laid face up edge to edge, a few more cards in the middle of the ring, tall white pillar candles at both sides and small warm tea lights dotted around the ring, all lit. The two friends kneel side by side, close together, behind the ring. The friend on the left holds one lit white pillar candle on a small dish between them at chest height; the friend on the right holds a small stack of tarot cards. Both look into the camera with a calm, playful, knowing smile. Outfits: the friend on the left wears a long deep-red ruffled dress with long sleeves, the friend on the right a long black lace dress with long sheer lace sleeves, and both wear tall black pointed witch hats; a man wears a dark shirt and a long black coat in place of the dress. Both from the knees up, the front of the card ring along the bottom of the frame, both faces clear and sharp, turned to the camera. Photorealistic, natural skin, real dusk light and candle light: no cinematic color grading, no soft dreamy glow, not CGI, not a cartoon. The tarot cards show plain old-style art with no readable text. Vertical 9:16. Exactly two people. No signs, no text, no logos, no watermarks.
 ```
 
-### 7. 3. Press the film button on the still to open AI Video with the still as the first frame. Settings: Kling 3.0, 10 s, 1080p, 9:16, sound on. The video prompt
+### 8. 3. Press the film button on the still to open AI Video with the still as the first frame. Settings: Kling 3.0, 10 s, 1080p, 9:16, sound on. The video prompt
 
 *Kind: video_prompt*
 

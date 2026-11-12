@@ -6,7 +6,7 @@
   "url": "https://remakeyourmeme.com/templates/bulin-47-ai-trend/",
   "blurb": "Real output from this maker, unedited, made October 11, 2026 with photos of AI-generated sample people. Switch to Original to see the trend clip at the same moment.",
   "photos_in": null,
-  "duration_s": 13,
+  "duration_s": 12,
   "ready_to_make": true,
   "demo_videos": [
     "https://cdn.remakeyourmeme.com/trends/bulin-47/7691875916644994326.mp4",
@@ -37,7 +37,7 @@
     "https://cdn.remakeyourmeme.com/templates/bulin-47/preview-854.mp4",
     "https://cdn.remakeyourmeme.com/templates/car-alarm-dance/video.mp4",
     "https://cdn.remakeyourmeme.com/templates/chipmunks-dance/video.mp4",
-    "https://cdn.remakeyourmeme.com/templates/hop-hop-hop/video.mp4",
+    "https://cdn.remakeyourmeme.com/templates/ice-ice-baby/video.mp4",
     "https://cdn.remakeyourmeme.com/templates/no-scrubs/video.mp4",
     "https://cdn.remakeyourmeme.com/templates/vossi-bop/video.mp4",
     "https://cdn.remakeyourmeme.com/trends/bulin-47/7691875916644994326.mp4",
@@ -53,7 +53,7 @@
   "prompt_count": 0,
   "prompts_public": false,
   "note": "Remake Your Meme does not publish copyable prompt text on public template pages (one-tap remake). Inventory keeps demos, posters, and metadata only.",
-  "scraped_at": "2026-11-08",
+  "scraped_at": "2026-11-12",
   "published": null,
   "updated": null
 }

@@ -3,7 +3,7 @@
 > The AI witch video is a fully AI-made '60s witchcore skit: a witch in a tall black hat answers a cream rotary phone, says "No, sorry.
 
 Canonical: https://www.makeviral.ai/templates/ai-witch-video
-Updated: 2026-11-01
+Updated: 2026-11-11
 Published: 2026-10-29
 Author: MakeViral Team (https://www.makeviral.ai/about)
 Publisher: MakeViral (https://www.makeviral.ai)
@@ -12,11 +12,11 @@ The **AI witch video** is a fully AI-made '60s witchcore skit: a witch in a tall
 
 "No, sorry. I have plans today. Bye." Add one photo and you play the witch from the viral '60s witchcore reel: the rotary phone, the smoking cauldron and the black cat, with the original audio. Your cat or dog can join you, or play the witch itself.
 
-Also called: '60s witchcore AI witch, I have plans today witch, Witch on the rotary phone, Witch candle circle, Bestie tarot night.
+Also called: '60s witchcore AI witch, I have plans today witch, Witch on the rotary phone, Witch candle circle, Bestie tarot night, You're a witch sound, Witch alley walk.
 
 **Make it now:** [Make this video](https://www.makeviral.ai/templates/ai-witch-video/create). 1 photo · 12 s · 9:16 with sound · 183 credits, charged once · ready in up to several minutes · no prompt to write.
 
-Keyword: ai witch video. Also answers: witch ai video, ai witch, witchcore aesthetic, 60s witch aesthetic, ai witch cat, turn yourself into a witch, ai turn me into a witch, ai witch generator, ai witch meme, turn me into a witch app, witchcore, 60s witch, witch aesthetic, ai witch app, witch ai generator, 60s witch makeup, 60s witch costume, 60s witch dress, witchcore makeup, witchcore outfits, ai witch girl, halloween witch video, witch with black cat, witch on the phone, ai halloween video, witch photoshoot, witchy photoshoot, witch photoshoot with friends, forest witch photoshoot, tarot photoshoot, witch candle ritual, witch ritual circle.
+Keyword: ai witch video. Also answers: witch ai video, ai witch, witchcore aesthetic, 60s witch aesthetic, ai witch cat, turn yourself into a witch, ai turn me into a witch, ai witch generator, ai witch meme, turn me into a witch app, witchcore, 60s witch, witch aesthetic, ai witch app, witch ai generator, 60s witch makeup, 60s witch costume, 60s witch dress, witchcore makeup, witchcore outfits, ai witch girl, halloween witch video, witch with black cat, witch on the phone, ai halloween video, witch photoshoot, witchy photoshoot, witch photoshoot with friends, forest witch photoshoot, tarot photoshoot, witch candle ritual, witch ritual circle, you're a witch tiktok, you're a witch they were right, you're a witch the craft, you're a witch meme, witch walk.
 
 ## What is the AI Witch Video trend, and where did it start?
 
@@ -28,6 +28,8 @@ By late October 2026, with Halloween days away, AI template sites offered the sk
 
 ### AI Witch Video trend timeline
 
+- **1996-05-03**: The film The Craft opens in US cinemas. Its line "You're a witch! They were right!" / "They usually are." later becomes the you're a witch TikTok sound. Source: [Wikipedia](https://en.wikipedia.org/wiki/The_Craft_(film)).
+- **2024-05-01**: @honeymoonllx posts a witch beauty clip on the you're a witch sound. It has 7.4 million views and 1.1 million likes by 11 November 2026. Source: [TikTok](https://www.tiktok.com/@honeymoonllx/video/7363820996391980331).
 - **2026-07-04**: @aiwitch1111 posts the fully AI-generated '60s witchcore reel on Instagram: the rotary phone, "I have plans today", the cauldron and the floating black cat. Source: [Instagram](https://www.instagram.com/reel/DaXPKJmvDIp/).
 - **2026-10-29**: Two days before Halloween, AI template sites offer the same skit as a one-photo template: you as the 1960s witch.
 - **2026-10-29**: The reel has 25,360 likes and 90 comments on Instagram. Source: [Instagram](https://www.instagram.com/reel/DaXPKJmvDIp/).
@@ -165,6 +167,37 @@ Anatomy rules: one head only, one muzzle. Animal paws, never human hands. Exactl
 
 One-tap version of this variant: https://www.makeviral.ai/templates/ai-witch-video/create?variant=pet
 
+#### Variant: Witch alley walk
+
+Settings: 1 photo (your photo, face close and clear) · Seedance 2.5 · 10 s · 720p · 9:16 · no sound · 152 credits in one tap.
+
+1. The video prompt is filled in. Settings: Seedance 2.5, 10 s, 720p, 9:16, sound off. The video prompt:
+
+   ```text
+   Recreate the reference video [Video 1] shot for shot, as one continuous take: the same narrow, dark cobblestone alley at night between old stone walls, the same handheld camera that starts low on the boots, pulls back to the whole walker and rises to a close-up of the face, the same framing, timing and light. The ONLY change: replace the woman in the video with the person in [Image 1]. Strictly keep the way she moves and the camera moves. Only replace the person; the walk, the motion path and the alley stay unchanged. Keep everything else the same. [Image 1] is the sole reference for the walker's face and hair; [Video 1] is for the costume, the alley, the walk and the camera only.
+
+The walker = the person in [Image 1], in EVERY frame: copy the exact face from [Image 1]: face shape, eye color and eye shape, eyebrows, nose, mouth, skin tone, age, hair color, hair length and hairstyle, and any beard, moustache, glasses or freckles exactly as in the photo. Keep the original identity, face structure, skin tone, hairstyle and body shape of [Image 1]. The same real person in every frame, so their friends instantly recognize them, above all in the final close-up. Never morph, never drift back to the original woman's face. NO long straight black hair unless [Image 1] shows it. NO silver cross earrings and NO earrings unless [Image 1] shows them.
+
+COSTUME: always the costume from [Video 1], never the clothes from [Image 1]: a wide-brimmed pointed black witch hat, an opaque black lace top with a solid black lining, off the shoulders, with long lace sleeves, a tiered black velvet ruffle mini skirt with a long lace train behind, and black knee-high lace-up boots. The top is never see-through: the lining covers the whole chest in every frame. Bold black winged eyeliner. A man wears the same hat and boots, a lined black lace shirt, a long black coat and black trousers.
+
+THE WALK, beat by beat, one continuous shot with no cuts:
+00:00-00:02.5: the camera is low, at knee height: only the boots, the legs and the skirt hem, stepping toward the lens on the cobblestones.
+00:02.5-00:03.5: the camera pulls back: the whole walker, hat to boots, the lace train flowing behind.
+00:03.5-00:07: the walker walks straight toward the camera down the alley, calm and confident, eyes on the lens.
+00:07-00:09: the walker comes close and the camera rises from the waist to the face.
+00:09-00:10: close-up of the face under the hat brim: the walker stops and gives a slow, cool look into the camera.
+
+Real live-action footage, clear facial features. The lips stay closed. No dialogue throughout the entire video. No background music.
+
+One head only, on the walker's shoulders. Two arms, two legs, five fingers on each hand. Exactly one person.
+
+No cuts, no see-through clothes, no bare chest, no text, no captions, no logos, no watermarks, no extra people, no morphing, no facial distortion.
+   ```
+
+2. Press Generate, then download the 9:16 MP4.
+
+One-tap version of this variant: https://www.makeviral.ai/templates/ai-witch-video/create?variant=alley
+
 #### Variant: Candle circle
 
 Settings: 1 photo (your photo, face close and clear) · Kling 3.0 · 10 s · 1080p · 9:16 · with sound · 56 credits in one tap.
@@ -209,7 +242,7 @@ One-tap version of this variant: https://www.makeviral.ai/templates/ai-witch-vid
 
 ### Which photo works best?
 
-Upload **one photo** for You or Pet, and **two photos** for You + pet (photo 1 is you, photo 2 is your pet).
+Upload **one photo** for You, Pet or Witch alley walk, and **two photos** for You + pet (photo 1 is you, photo 2 is your pet).
 
 - **You:** chest up, face to the camera, sharp and in good light. The reel has two big close-ups of the face, so a close, clear photo matters most.
 - No sunglasses, no hat or hood that hides the hair line, and no beauty filter.
@@ -250,6 +283,7 @@ Your video copies the reel's 8 shots, with the same cuts and the same audio:
 - **You + pet** makes you the witch and your own cat or dog the familiar: in the last shot your pet floats down beside you instead of the black cat. Photo 1 is you, photo 2 is your pet.
 - **Pet** makes your pet the witch in every shot: in the tall hat on the rotary phone, at the cauldron with the wooden spoon and in the twirl, while the black cat floats down beside it. A serious-looking dog or cat on a vintage phone is the funniest version.
 - **Candle circle** and **Tarot duo** are new witchy scenes, not the reel, and they work all year: you kneel in a ring of lit candles in a dark forest at night until the camera turns into the empty trees, or you and a friend (photo 1 left, photo 2 right) blow out one candle together behind a ring of tarot cards at dusk. Each is 10 seconds with the scene's own sounds, not the reel audio.
+- **Witch alley walk** is the witch walk on the "You're a witch" sound: the camera starts low on your lace-up boots on the cobblestones of a dark alley at night, follows you as you walk toward it and ends on your face under a wide black witch hat. You wear the hat, a black lace top with a solid lining, a velvet ruffle skirt with a long lace train and the boots. One photo, 10 seconds, with the trend's sound.
 
 **Caption ideas:** "They don't need to know what I'm actually doing at home", "Me when someone asks if I'm around on Friday", "My plans for Halloween", "POV: you said you were busy". Or write your own.
 
@@ -320,6 +354,10 @@ Yes, that is this one: the witch on the phone opens the reel and the witch with 
 
 Yes, two versions that work all year, not only at Halloween. Candle circle is a forest witch photoshoot at night: you kneel inside a witch ritual circle of lit candles, hold a thin candle and look into the lens, then the camera turns away into the dark, empty trees, a witch candle ritual in one photo. Tarot duo is a witch photoshoot with friends and a tarot photoshoot in one witchy photoshoot: you and your bestie kneel behind a ring of tarot cards at dusk and blow out one candle together. Photo 1 kneels on the left, photo 2 on the right. Each makes a 10-second video with the scene's own sounds and no music. AI template apps started to offer both scenes on 30 October 2026.
 
+### Where is the "You're a witch, they were right" sound from, and can I make the witch walk with it?
+
+It is a line from the 1996 film The Craft: Chris shouts "You're a witch! They were right!" and Nancy answers "They usually are." Many people hear it as "You're a witch, you were right, we usually are." On TikTok it became a long-running WitchTok sound and a you're a witch meme: a witch beauty clip by @honeymoonllx on it had 7.4 million views by 11 November 2026, and #youreawitch had 13.7 million views. In November 2026 an AI app ad put the sound under a witch walk in a dark alley. Pick Witch alley walk and add one photo: you walk down the cobblestone alley in the wide witch hat and lace-up boots, and the camera ends on your face. You get 10 seconds, vertical, with the you're a witch TikTok sound from the trend.
+
 ### Can a man make the AI witch video?
 
 Yes. The video keeps the gender of your photo, so a man gets the same tall witch hat and a long black robe with the same sleeves. Some people call the result an AI witch girl video, but anyone can play the witch.
@@ -327,8 +365,8 @@ Yes. The video keeps the gender of your photo, so a man gets the same tall witch
 ## Other AI video templates and tools
 
 - [My Ride Is Here: Hop on the Broom and Fly Off Beside the Car](https://www.makeviral.ai/templates/my-ride-is-here-broom-trend): You walk down a forest road next to a moving car, broom in hand, look back with a smile, hop on and fly up over the pines, like the viral witch reel. One photo in, a 10-second clip with the reel's own sound out.
+- [Ramalama Bang Bang Trend: Your Pet's Halloween Costume Walk](https://www.makeviral.ai/templates/ramalama-ai-trend): Pet: your cat or dog walks down a pumpkin-lit street in a new costume at every cut, with the song. Human: a phone snaps a witch crossing the full moon, and the reveal is you on the broom. One photo either way.
 - [AI Red Riding Hood: Walk Out of the Snow With the Wolves](https://www.makeviral.ai/templates/ai-red-riding-hood): A tiny red figure far down a snowy forest road, a pack of grey wolves at her side, and then the hood comes down: it is your face. Add one photo of yourself or your pet and get the cinematic reel with its moody slowed song.
-- [AI Halloween Costume Try-On: See Yourself in a Costume Before You Buy](https://www.makeviral.ai/templates/ai-halloween-costume): Add one full-body photo, type or pick a costume, and see yourself in it at a Halloween party. Two photos make a matching couple costume, and a short costume transition video shows the change.
 - [Meme Video](https://www.makeviral.ai/tools/meme-video-generator): One line of text, one image, six seconds. The cheapest format to produce and the easiest one to test ten different ways in an afternoon.
 - [AI TikTok Video](https://www.makeviral.ai/tools/ai-tiktok-video-generator): Eight native TikTok formats, one prompt or product URL, a finished 9:16 video with captions burned in.
 - [AI photo generator](https://www.makeviral.ai/ai-photo-generator)
@@ -336,12 +374,12 @@ Yes. The video keeps the gender of your photo, so a man gets the same tall witch
 
 ## New AI video trends this week
 
-- [Christmas Dance AI: Do the New TikTok Christmas Dance From Your Photos](https://www.makeviral.ai/templates/christmas-dance-ai-trend): Hip sways with the hands at the collar, rolling arms, a quick spin and raised fists, side by side in matching Christmas pajamas. Add two photos for the duo, one for a solo take, or two pets, and get the dance with the sound.
-- [Cat on Ultra Bee AI: Put Your Pet on the Wheelie](https://www.makeviral.ai/templates/cat-on-ultra-bee-ai-trend): Add one photo, and your cat or dog stands on an electric dirt bike and holds a long wheelie down a city road at golden hour, in the same shots as the viral clip, with its original sound. You can take the ride yourself, too.
-- [Tus Ojos Me Reflejan el Sentimiento: The Cafuné Eye Close-Up Trend](https://www.makeviral.ai/templates/tus-ojos-me-reflejan-ai-trend): You lie on your side, a hand rests on your cheek, warm light falls on your face, and the camera slowly moves in until your eyes fill the screen while the line plays. One photo in, an 8-second vertical clip with the trend's song out.
-- [İnşallah Maşallah AI Trend: Sing Neşe Karaböcek's Song on the Couch](https://www.makeviral.ai/templates/insallah-masallah-ai-trend): You sit on a light grey couch and sing the old Turkish love song straight to the camera: a hand on the heart, a big laugh with both hands on your head, a finger pointed at the camera and a kiss at the end. One photo of you, a grandparent or your pet, and the 15-second clip comes with the song.
-- [Ice Ice Baby Dance AI: Do the Viral Duo Dance With a Friend](https://www.makeviral.ai/templates/ice-ice-baby-dance-ai): Two dancers side by side, the same bouncy 90s steps, a spin on the beat and a strut to the camera. Add a photo of you and a friend, of you alone, or of your pet, and get the dance with the sound.
-- [Save Yourself Trend: Pull Yourself Up From the Cliff](https://www.makeviral.ai/templates/save-yourself-ai-trend): One photo plays both of you: the scared you clinging to a wet sea cliff, and the calm you who reaches down, pulls you up and holds you. Or use two photos: an older photo of you and a new one, or you and a friend. 15 seconds, vertical.
+- [Tiger Fight AI: Beat the Tiger on CCTV](https://www.makeviral.ai/templates/cctv-tiger-fight-ai-trend): A security camera on a forest path. A tiger leaps out of the bushes, and you fight it and pin it to the ground. Add one photo of yourself or your pet, and the trend's phonk sound comes with it.
+- [The Office Parkour AI Trend: You Shout "Parkour!" in the Office](https://www.makeviral.ai/templates/the-office-parkour-ai-trend): Dive over the couch, land upside down and shout "Parkour!" into the camera, then jump off the reception counter while the crew leaps over the desks. The whole office parkour scene, 24 seconds, with its own shouts.
+- [Huell Money AI: The Breaking Bad Money Pile Scene, Starring You](https://www.makeviral.ai/templates/huell-money-ai-trend): A storage unit, a bed-size pile of cash, and you fall back onto it with your eyes closed while your friend tells you to quit it. Then they give in and lie down next to you. With the scene's own lines.
+- [Peaky Blinders Explosion Scene, Starring You](https://www.makeviral.ai/templates/peaky-blinders-explosion-ai-trend): A flat cap, a long black overcoat, a match at your lips. The red-brick manor blows up behind you and you walk slowly toward the camera through the smoke, never looking back. One photo, 15 seconds, with the clip's song.
+- [Mbappe Run vs Argentina AI: The Mbappe Sprint, Starring You](https://www.makeviral.ai/templates/mbappe-sprint-ai-trend): A sunny pitch, one long sprint with the ball, a defender in a striped shirt crashing into you, and you sitting on the grass complaining while the commentator shouts "It's a penalty!". In your own clothes. It is an AI video, not real match footage.
+- [Perfume Transition AI Trend: Spray, Flame, Gangster Look](https://www.makeviral.ai/templates/perfume-transition-ai-trend): Sniff the perfume, spray it at the camera, and a lighter turns the spray into a fireball. Add one photo, and you or your pet step out of the flame in a flat cap, dark sunglasses and a long magenta coat, with the trend's song.
 
 ## Make your own AI Witch Video video
 

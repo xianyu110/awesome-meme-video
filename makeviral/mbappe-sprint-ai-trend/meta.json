@@ -1,0 +1,51 @@
+{
+  "source": "makeviral",
+  "source_site": "https://www.makeviral.ai",
+  "slug": "mbappe-sprint-ai-trend",
+  "name": "Mbappe Run vs Argentina AI: The Mbappe Sprint, Starring You",
+  "url": "https://www.makeviral.ai/templates/mbappe-sprint-ai-trend",
+  "markdown_url": "https://www.makeviral.ai/templates/mbappe-sprint-ai-trend.md",
+  "blurb": "The Mbappe run vs Argentina is the 19-year-old's famous sprint from the 2018 World Cup: he runs from his own half, gets brought down, and wins a penalty.",
+  "updated": "2026-11-11",
+  "published": "2026-11-11",
+  "credits": 228,
+  "demo_videos": [
+    "https://www.makeviral.ai/media/templates/mbappe-sprint-ai-trend/original-main-v2.mp4"
+  ],
+  "posters": [
+    "https://www.makeviral.ai/media/templates/mbappe-sprint-ai-trend/original-main-v1.jpg"
+  ],
+  "prompts": [
+    {
+      "label": "1. The video prompt is filled in. Settings: Seedance 2.5, 15 s, 720p, 9:16, sound off. The video prompt",
+      "variant": null,
+      "kind": "video_prompt",
+      "text": "Recreate the reference video [Video 1] shot for shot: one continuous handheld broadcast shot on a sunny football pitch: real stadium grass with mowing stripes and white lines, bright sunshine with hard shadows; the camera pans and follows the runner; the same framing, timing, camera moves, zooms and lighting. Replace ONLY the main player, the runner in the centre of the frame, with the person from [Image 1]. The ONLY change: the runner is now the person in [Image 1]. Everybody else stays as in [Video 1].\n\nPERSON A = the person in [Image 1], in EVERY frame: copy the exact face from [Image 1] (the face shape, eye color and eye shape, eyebrows, nose, mouth, jaw, skin tone, age, hair color, hair length and hairstyle, and any beard, moustache, glasses or freckles), and the body type, height and proportions. If the person is short, old, bearded or wears a hat, keep exactly that, also while sprinting, falling and rolling. The same real person from the first frame to the last. Never morph, never drift back to the original runner's face. If [Image 1] shows an animal, that animal is the runner on all four legs, with its own face, fur and markings.\n\nCLOTHES AND HAIR COME ONLY FROM THE PHOTO: the outfit, socks and shoes from [Image 1] in every frame, also from behind, in motion blur and on the ground. NO lilac or purple tracksuit, NO short white curly hair, NO white sneakers, no football kit, no number or name on the back, no football boots, unless [Image 1] shows them.\n\nReal-time speed, exactly the timing of [Video 1]. ONE continuous shot, no cuts.\n\nWHAT HAPPENS, matching the reference second by second:\n0-1.5 s: PERSON A stands on the grass with the back to the camera, then starts to move.\n1.5-8.5 s: PERSON A sprints forward across the pitch past the opponents, then dribbles one football with the feet; the camera pans and follows.\n8.5-11 s: an opponent in a white-and-sky-blue striped shirt runs into PERSON A from the left, they collide and BOTH fall and roll on the grass.\n11-15 s: PERSON A sits on the grass with the legs bent and the arms out to the sides, looking around and gesturing with both hands, complaining to the referee, the face big and sharp: exactly the face from [Image 1]. At the very end a teammate's hand reaches in from the right.\n\nOTHER PEOPLE stay as in [Video 1] and never take the runner's look: the opponents in white-and-sky-blue striped shirts and black shorts, the teammate in a navy shirt, white shorts and red socks, the referee in neon green at the start. No names, no numbers and no logos on any shirt. Exactly ONE football (white with a red pattern), at the runner's feet while dribbling, never more.\n\nNobody is hurt. Anatomy rules: one head only, on the runner's own shoulders; two arms, two legs, five fingers on each hand, no extra limbs during the fall. No dialogue throughout the entire video. No background music. No text on screen, no subtitles, no watermark, no logos."
+    },
+    {
+      "label": "1. The video prompt is filled in. Settings: Seedance 2.5, 15 s, 720p, 9:16, sound off. The video prompt",
+      "variant": "Pet",
+      "kind": "video_prompt",
+      "text": "Recreate the reference video [Video 1] shot for shot: one continuous handheld broadcast shot on a sunny football pitch: real stadium grass with mowing stripes and white lines, bright sunshine with hard shadows; the camera pans and follows the runner; the same framing, timing, camera moves, zooms and lighting. Replace ONLY the main player, the runner in the centre of the frame, with the pet from [Image 1]. The ONLY change: the runner is now the pet in [Image 1], the WHOLE body, not just the head. Everybody else stays as in [Video 1].\n\nThe runner = the pet in [Image 1], in EVERY frame: the same species and breed, face, eyes, ears, muzzle, fur colors, fur length and markings as in [Image 1], with the natural body volume and proportions of that animal: never flattened, squashed, stretched or merged with anything. The same pet from the first frame to the last, so its owner recognizes it at once. No human body, no human arms or legs, no clothes, no tracksuit, no football kit, no white hair from the woman in [Video 1].\n\nNormal real-time speed, exactly matching the timing of [Video 1]. ONE continuous shot, no cuts.\n\nWHAT HAPPENS, matching the reference second by second:\n0-1.5 s: the pet stands on the grass with the back to the camera, then starts to move.\n1.5-8.5 s: the pet sprints on all four legs across the pitch past the opponents, pushing one football with its paws and nose; the camera pans and follows.\n8.5-11 s: an opponent in a white-and-sky-blue striped shirt runs into the pet from the left, the player falls and the pet tumbles and rolls on the grass, unhurt.\n11-15 s: the pet sits up on the grass on its haunches, looks around, lifts one front paw and barks as if complaining to the referee, the face big and sharp: exactly the pet from [Image 1]. At the very end a teammate's hand reaches in from the right.\n\nOTHER PEOPLE stay as in [Video 1] and never take the runner's look: the opponents in white-and-sky-blue striped shirts and black shorts, the teammate in a navy shirt, white shorts and red socks, the referee in neon green at the start. No names, no numbers and no logos on any shirt. Exactly ONE football (white with a red pattern), at the runner's feet while dribbling, never more.\n\nThe pet is never hurt and gets up fine. One head only, four legs. No dialogue throughout the entire video. No background music. No text on screen, no subtitles, no watermark, no logos."
+    }
+  ],
+  "variant_headings": [
+    "What the Mbappe Sprint video looks like",
+    "How to make the Mbappe Sprint video on MakeViral",
+    "Which photo works best?",
+    "What happens in your Mbappe sprint video?",
+    "You or Pet: which version?",
+    "How do I make the Mbappe AI video?",
+    "Is my video real match footage?",
+    "What is the sound in the Mbappe sprint video?",
+    "Is this an AI football face swap or a new video?",
+    "Is there an Mbappe AI video generator for other clips?",
+    "How long is the video?",
+    "Does the Mbappe sprint video cost credits?",
+    "Other AI video templates and tools",
+    "New AI video trends this week",
+    "Make your own Mbappe Sprint video"
+  ],
+  "prompt_count": 2,
+  "scraped_at": "2026-11-12"
+}

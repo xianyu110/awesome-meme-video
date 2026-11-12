@@ -3,7 +3,7 @@
 > The AI airport celebrity video turns you into a star walking out of airport arrivals: bodyguards push back a screaming crowd, phones film you, cameras flash, a fan begs for a photo and you wave on your way to the car.
 
 Canonical: https://www.makeviral.ai/templates/ai-airport-star-arrival
-Updated: 2026-10-20
+Updated: 2026-11-11
 Published: 2026-10-12
 Author: MakeViral Team (https://www.makeviral.ai/about)
 Publisher: MakeViral (https://www.makeviral.ai)
@@ -12,11 +12,11 @@ The **AI airport celebrity video** turns you into a star walking out of airport 
 
 Fans behind the barriers, phones up, flashes going off, bodyguards clearing your path: you walk out of the arrival gate as a star, wave to a fan and get into a waiting car. Or arrive at a hotel at night: you step out of a black luxury car onto the red carpet. One photo of you or your pet in, a 15-second clip with crowd sound out.
 
-Also called: ai airport star arrival, ai celebrity airport arrival, ai vip entry, ai celebrity hotel arrival, ai billionaire car video, ai bodyguard car arrival.
+Also called: ai airport star arrival, ai celebrity airport arrival, ai vip entry, ai celebrity hotel arrival, ai billionaire car video, ai bodyguard car arrival, dog red carpet arrival.
 
 **Make it now:** [Make this video](https://www.makeviral.ai/templates/ai-airport-star-arrival/create). 1 photo · 15 s · 9:16 with sound · 84 credits, charged once · ready in a few minutes · no prompt to write.
 
-Keyword: ai airport celebrity video. Also answers: ai airport video, ai bodyguard video, ai airport entry video, celebrity entry ai video, capcut celebrity airport arrival template, ai airport celebrity video prompt, ai airport photo, airport celebrity prompt, airport celebrity video prompt, celebrity airport video, airport entry ai video, celebrity walk out airport paparazzi video, pet celebrity airport ai video, airport celebrity ai video prompt, seedance airport celebrity prompt, airport celebrity ai video, celebrity airport arrival ai, ai paparazzi video, celebrity hotel arrival, vip arrival ai, ai vip arrival, ai bodyguard effect, ai bodyguard filter, luxury car arrival ai, ai red carpet arrival, celebrity entry video, ai hotel arrival.
+Keyword: ai airport celebrity video. Also answers: ai airport video, ai bodyguard video, ai airport entry video, celebrity entry ai video, capcut celebrity airport arrival template, ai airport celebrity video prompt, ai airport photo, airport celebrity prompt, airport celebrity video prompt, celebrity airport video, airport entry ai video, celebrity walk out airport paparazzi video, pet celebrity airport ai video, airport celebrity ai video prompt, seedance airport celebrity prompt, airport celebrity ai video, celebrity airport arrival ai, ai paparazzi video, celebrity hotel arrival, vip arrival ai, ai vip arrival, ai bodyguard effect, ai bodyguard filter, luxury car arrival ai, ai red carpet arrival, celebrity entry video, ai hotel arrival, dog red carpet ai, dog in a suit red carpet, dog red carpet.
 
 ## What is the Airport Star Arrival trend, and where did it start?
 
@@ -39,6 +39,7 @@ A second scene had spread since late August 2026: the CapCut AI template **"Cele
 - **2026-10-11**: A French tutorial for the CapCut AI template "Celebrity airport arrival" passes 309,000 views in 16 hours. By the next day it has 328,900 views and 5,340 shares. Source: [TikTok](https://www.tiktok.com/@user4947097136093/video/7695401022570695968).
 - **2026-10-12**: The template's sound has 79 videos, all of its top 27 from the past three days. #aivipentry has 280 videos and 7.6 million views, #aipaparazzi 397 videos and 1.1 million views. Source: [TikTok](https://www.tiktok.com/music/original-sound-7695401048232168224).
 - **2026-10-17**: A Turkish CapCut template clip shows a bodyguard opening the door of a black SUV for the star in front of a luxury hotel. It has 479,700 views and 3,505 shares by 19 October. Source: [TikTok](https://www.tiktok.com/@u7i556/video/7697577415349914901).
+- **2026-11-09**: @shoto_cut, a CapCut template creator from France, posts the dog red carpet clip: a star with a dog's head on a man's body in a black suit steps out of a black car, signs a printed photo of himself for a fan and walks the red carpet. It has 2.5 million views, 226,600 likes and 118,500 shares by 10 November. Source: [TikTok](https://www.tiktok.com/@shoto_cut/video/7706217036480924960).
 
 ## What the Airport Star Arrival video looks like
 
@@ -50,6 +51,9 @@ Made from the prompts on this page. The people and pets are AI-made, not real pe
 - **Example 2** (12 s, 9:16 MP4 with sound): The hotel arrival: an AI clip posted by @emi449562 on 26 September 2026, the most viewed clip of the hotel scene. A woman steps out of a black sports car at night, walks between bodyguards past fans with phones, signs autographs and heads into the hotel. With its own sound.
   - Video: https://www.makeviral.ai/media/templates/ai-airport-star-arrival/original-hotel-v2.mp4
   - Poster: https://www.makeviral.ai/media/templates/ai-airport-star-arrival/original-hotel-v1.jpg
+- **Example 3** (10 s, 9:16 MP4 with sound): The dog red carpet clip: an AI clip posted by @shoto_cut on 9 November 2026, with 2.5 million views by the next day. A bodyguard opens the car door, a star with a dog's head in a black suit steps out, signs a printed photo of himself for a fan and walks into the premiere. With its own sound.
+  - Video: https://www.makeviral.ai/media/templates/ai-airport-star-arrival/original-hotel-dog-suit-v2.mp4
+  - Poster: https://www.makeviral.ai/media/templates/ai-airport-star-arrival/original-hotel-dog-suit-v1.jpg
 
 ## How to make the Airport Star Arrival video on MakeViral
 
@@ -149,6 +153,33 @@ Settings: 1 photo (your pet, whole body) · Kling 3.0 · 15 s · 1080p · 9:16 �
 
 One-tap version of this variant: https://www.makeviral.ai/templates/ai-airport-star-arrival/create?variant=hotel-pet
 
+#### Variant: Dog in a suit
+
+Settings: 1 photo (your pet, face clear) · Seedance 2.5 · 10 s · 720p · 9:16 · no sound · 152 credits in one tap.
+
+1. The video prompt is filled in. Settings: Seedance 2.5, 10 s, 720p, 9:16, sound off. The video prompt:
+
+   ```text
+   Recreate the reference video [Video 1] shot for shot: the same red carpet at night, the same long black luxury car whose rear door opens backward, the same bald bodyguard in a black suit, the same fans behind the red rope with raised phones and printed photos, the same camera flashes, the same handheld phone camera, framing, timing and moves. The ONLY change: the star in the black suit now has the head of the pet in [Image 1].
+
+The star = the pet in [Image 1], in EVERY frame: the same species and breed, face, eyes, ears, muzzle, fur colors, fur length and markings as in [Image 1], with the natural size and proportions of that animal's head: never flattened, squashed, stretched or merged with anything. The pet's own head sits on the star's body, which walks upright like a man. Only the head, the face, the ears and the fur change: the star keeps the black suit, the white shirt and the black tie, and the hands are furry hands in the pet's own fur colors. Never drift back to the dog in the video: NO long narrow grey face, NO short grey coat and NO small folded grey ears unless [Image 1] shows them. The same pet in every frame, also in the close-up, so its owner recognizes it at once. If [Image 1] shows a person, the star is that person with their own face, hair and human hands.
+
+Every printed photo the fans hold up, and the photo the star signs, shows the same pet from [Image 1] in the black suit, never the dog from the video.
+
+The scene, matching [Video 1] second by second:
+00:00-00:02: the bald bodyguard opens the rear door of the long black car at the edge of the red carpet.
+00:02-00:04: the star steps out of the car onto the red carpet, stands tall and walks toward the fans behind the red rope, who film with phones and hold up printed photos of the star.
+00:04-00:05: the star reaches the rope, a fan holds a printed photo out, flashes go off.
+00:05-00:08.5: close-up: the star signs the printed photo with a silver pen, looks down at it, then up at the fan.
+00:08.5-00:10: the star turns and walks away down the red carpet into the bright entrance, between bodyguards and photographers, seen from behind.
+
+Anatomy rules: one head only, the pet's head, on the star's shoulders. A face never appears on the hands or the suit. Exactly two hands, each with five furry fingers, one holding the pen. The bodyguards, fans and photographers are adults and keep their own faces; no extra animals. No dialogue throughout the entire video. No background music. No text other than the scribbled signature, no captions, no logos, no car badges, no watermark.
+   ```
+
+2. Press Generate, then download the 9:16 MP4.
+
+One-tap version of this variant: https://www.makeviral.ai/templates/ai-airport-star-arrival/create?variant=hotel-dog-suit
+
 ### Which photo works best?
 
 You need **one sharp photo**: of yourself for Human, of your pet for Pet.
@@ -202,13 +233,15 @@ The **Hotel arrival** version is the other half of a star's day: the arrival at 
 
 You keep the clothes from your photo, and the car has no badge and the hotel no name. **Pet at the hotel** is the same arrival for your cat or dog: it hops out of the car in small black sunglasses and trots in between the bodyguards.
 
+**Dog in a suit** copies the viral dog red carpet clip of November 2026 itself: your pet's head on a star in a black suit who steps out of the car, signs a printed photo of itself for a fan and walks the red carpet, 10 seconds with the clip's own sound. Use a photo where your pet's face is sharp and large.
+
 Want to stop and sign for the fans instead? That is the [AI celebrity autograph signing](https://www.makeviral.ai/templates/ai-celebrity-autograph-signing) template.
 
 ## Human or Pet, Standard or Best: what is the difference?
 
 **Human or Pet?** Press "Create your own" and pick one. Human puts you in the star's place. Pet puts your cat or dog there, in tiny black sunglasses, with the same bodyguards, fans and flashes. The trend stars people; Pet is our version of the same script. **Hotel arrival** and **Pet at the hotel** move the same star moment to a hotel red carpet at night, with a black luxury car instead of the arrival gate.
 
-All four versions work in two steps, like a YouTube tutorial of 7 May 2026: first a still, then a video.
+These four versions work in two steps, like a YouTube tutorial of 7 May 2026: first a still, then a video.
 
 1. **The still.** Nano Banana 2.1 puts you or your pet at the arrival gate (or at the open car door on the hotel's red carpet), in the middle of the bodyguards, with fans filming. Your face, or your pet's fur and markings, come from your photo.
 2. **The video.** A video model plays the 15-second scene from that still, with its own sound.
@@ -318,6 +351,10 @@ Yes. Pick Pet at the hotel and add a full-body photo of your pet. It hops out of
 
 This template is that VIP arrival AI effect, and you need no filter app: pick Hotel arrival for the luxury car arrival with bodyguards, or Human for the airport. Both give an AI bodyguard effect, an AI red carpet arrival and a celebrity entry video from one photo, with crowd sound.
 
+### Can I make the dog red carpet AI video, the dog in a suit on the red carpet?
+
+Yes. Pick Dog in a suit and add one photo of your dog or cat with its face clear. Your pet's head goes on the star in the black suit from the dog red carpet clip that went viral in November 2026: out of the black car, an autograph on a printed photo of itself, then down the red carpet. It is 10 seconds long, vertical, with the clip's own sound.
+
 ## Other AI video templates and tools
 
 - [Storm AI Trend: Stand Still While the Crowd Bows](https://www.makeviral.ai/templates/storm-ai-trend): You stand calm in the center, dressed in white. Around you, dozens of people in black suits snap, twist and bow on a heavy beat. One photo in, a 10-second clip with sound out.
@@ -330,12 +367,12 @@ This template is that VIP arrival AI effect, and you need no filter app: pick Ho
 
 ## New AI video trends this week
 
-- [Christmas Dance AI: Do the New TikTok Christmas Dance From Your Photos](https://www.makeviral.ai/templates/christmas-dance-ai-trend): Hip sways with the hands at the collar, rolling arms, a quick spin and raised fists, side by side in matching Christmas pajamas. Add two photos for the duo, one for a solo take, or two pets, and get the dance with the sound.
-- [Cat on Ultra Bee AI: Put Your Pet on the Wheelie](https://www.makeviral.ai/templates/cat-on-ultra-bee-ai-trend): Add one photo, and your cat or dog stands on an electric dirt bike and holds a long wheelie down a city road at golden hour, in the same shots as the viral clip, with its original sound. You can take the ride yourself, too.
-- [Tus Ojos Me Reflejan el Sentimiento: The Cafuné Eye Close-Up Trend](https://www.makeviral.ai/templates/tus-ojos-me-reflejan-ai-trend): You lie on your side, a hand rests on your cheek, warm light falls on your face, and the camera slowly moves in until your eyes fill the screen while the line plays. One photo in, an 8-second vertical clip with the trend's song out.
-- [İnşallah Maşallah AI Trend: Sing Neşe Karaböcek's Song on the Couch](https://www.makeviral.ai/templates/insallah-masallah-ai-trend): You sit on a light grey couch and sing the old Turkish love song straight to the camera: a hand on the heart, a big laugh with both hands on your head, a finger pointed at the camera and a kiss at the end. One photo of you, a grandparent or your pet, and the 15-second clip comes with the song.
-- [Ice Ice Baby Dance AI: Do the Viral Duo Dance With a Friend](https://www.makeviral.ai/templates/ice-ice-baby-dance-ai): Two dancers side by side, the same bouncy 90s steps, a spin on the beat and a strut to the camera. Add a photo of you and a friend, of you alone, or of your pet, and get the dance with the sound.
-- [Save Yourself Trend: Pull Yourself Up From the Cliff](https://www.makeviral.ai/templates/save-yourself-ai-trend): One photo plays both of you: the scared you clinging to a wet sea cliff, and the calm you who reaches down, pulls you up and holds you. Or use two photos: an older photo of you and a new one, or you and a friend. 15 seconds, vertical.
+- [Tiger Fight AI: Beat the Tiger on CCTV](https://www.makeviral.ai/templates/cctv-tiger-fight-ai-trend): A security camera on a forest path. A tiger leaps out of the bushes, and you fight it and pin it to the ground. Add one photo of yourself or your pet, and the trend's phonk sound comes with it.
+- [The Office Parkour AI Trend: You Shout "Parkour!" in the Office](https://www.makeviral.ai/templates/the-office-parkour-ai-trend): Dive over the couch, land upside down and shout "Parkour!" into the camera, then jump off the reception counter while the crew leaps over the desks. The whole office parkour scene, 24 seconds, with its own shouts.
+- [Huell Money AI: The Breaking Bad Money Pile Scene, Starring You](https://www.makeviral.ai/templates/huell-money-ai-trend): A storage unit, a bed-size pile of cash, and you fall back onto it with your eyes closed while your friend tells you to quit it. Then they give in and lie down next to you. With the scene's own lines.
+- [Peaky Blinders Explosion Scene, Starring You](https://www.makeviral.ai/templates/peaky-blinders-explosion-ai-trend): A flat cap, a long black overcoat, a match at your lips. The red-brick manor blows up behind you and you walk slowly toward the camera through the smoke, never looking back. One photo, 15 seconds, with the clip's song.
+- [Mbappe Run vs Argentina AI: The Mbappe Sprint, Starring You](https://www.makeviral.ai/templates/mbappe-sprint-ai-trend): A sunny pitch, one long sprint with the ball, a defender in a striped shirt crashing into you, and you sitting on the grass complaining while the commentator shouts "It's a penalty!". In your own clothes. It is an AI video, not real match footage.
+- [Perfume Transition AI Trend: Spray, Flame, Gangster Look](https://www.makeviral.ai/templates/perfume-transition-ai-trend): Sniff the perfume, spray it at the camera, and a lighter turns the spray into a fireball. Add one photo, and you or your pet step out of the flame in a flat cap, dark sunglasses and a long magenta coat, with the trend's song.
 
 ## Make your own Airport Star Arrival video
 

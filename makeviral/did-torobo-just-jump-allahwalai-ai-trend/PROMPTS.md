@@ -5,6 +5,15 @@
 
 Did Torobo just jump?
 
+## Demo videos (CDN)
+
+- https://www.makeviral.ai/media/templates/did-torobo-just-jump-allahwalai-ai-trend/example-main-v1.mp4
+
+## Posters
+
+- https://www.makeviral.ai/media/templates/did-torobo-just-jump-allahwalai-ai-trend/example-main-input.jpg
+- https://www.makeviral.ai/media/templates/did-torobo-just-jump-allahwalai-ai-trend/example-main-poster.jpg
+
 ## Prompts
 
 ### 1. 1. The video prompt is filled in. Settings: Seedance 2.5, 13 s, 720p, 9:16, sound off. The video prompt

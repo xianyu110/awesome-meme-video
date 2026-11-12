@@ -3,7 +3,7 @@
 > The explosion walk trend is the old action movie shot made personal: you walk calmly toward the camera while a massive explosion goes off behind you.
 
 Canonical: https://www.makeviral.ai/templates/ai-explosion-walk-trend
-Updated: 2026-11-09
+Updated: 2026-11-11
 Published: 2026-10-22
 Author: MakeViral Team (https://www.makeviral.ai/about)
 Publisher: MakeViral (https://www.makeviral.ai)
@@ -12,11 +12,11 @@ The **explosion walk** trend is the old action movie shot made personal: you wal
 
 Night, an empty highway, you on the center line. You light a fuse, walk toward the camera, open your jacket, and a giant fireball goes off behind you. You never look back. It is an AI video, not a real explosion.
 
-Also called: Explosion walk away, Explosion behind me, Cool guys don't look at explosions, You cannot reason with a tiger, Fireball walk, Peaky Blinders explosion walk, Dramatic fire walk.
+Also called: Explosion walk away, Explosion behind me, Cool guys don't look at explosions, You cannot reason with a tiger, Fireball walk.
 
 **Make it now:** [Make this video](https://www.makeviral.ai/templates/ai-explosion-walk-trend/create). 1 photo · 11 s · 9:16 with sound · 168 credits, charged once · ready in up to several minutes · no prompt to write.
 
-Keyword: walking away from explosion. Also answers: walking away from explosion meme, explosion walk, ai explosion video, explosion walk trend, ai explosion walk, ai explosion effect, explosion filter, explosion walk away meme, explosion trend, explosion behind me meme, explosion trend tiktok, explosion trend instagram, explosion behind you, ai explosion video generator, ai explosion generator, explosion ai video, explosion filter instagram, explosion filter tiktok, explosion walk away effect, explosion walk away filter, walking away from explosion ai, walking away from explosion video, walking away from explosion scene, walking away from explosion trend, you cannot reason with a tiger when your head is in its mouth, you cannot reason with a tiger audio, explosion outfit reveal, explosion walk prompt, ai explosion prompt, explosion walk capcut, capcut explosion filter, explosion behind me video, explosion walk ai, ai explosion walk trend, peaky blinders walking away from explosion, tommy shelby walking away from explosion, peaky blinders explosion, peaky blinders explosion meme, peaky blinders explosion scene, tommy shelby explosion, tommy shelby house explosion, peaky blinders house explosion, peaky blinders mansion explosion, thomas shelby explosion scene, thomas shelby explosion meme, peaky blinders ai, peaky blinders ai filter, thomas shelby ai.
+Keyword: walking away from explosion. Also answers: walking away from explosion meme, explosion walk, ai explosion video, explosion walk trend, ai explosion walk, ai explosion effect, explosion filter, explosion walk away meme, explosion trend, explosion behind me meme, explosion trend tiktok, explosion trend instagram, explosion behind you, ai explosion video generator, ai explosion generator, explosion ai video, explosion filter instagram, explosion filter tiktok, explosion walk away effect, explosion walk away filter, walking away from explosion ai, walking away from explosion video, walking away from explosion scene, walking away from explosion trend, you cannot reason with a tiger when your head is in its mouth, you cannot reason with a tiger audio, explosion outfit reveal, explosion walk prompt, ai explosion prompt, explosion walk capcut, capcut explosion filter, explosion behind me video, explosion walk ai, ai explosion walk trend.
 
 ## What is the Explosion Walk trend, and where did it start?
 
@@ -40,12 +40,6 @@ The first clip is the original reel by @juliakors3, a real creator in her own cl
 - **Example 1** (11 s, 9:16 MP4 with sound): The original reel by @juliakors3 (18 October 2026, 346,916 likes on Instagram): she lights a fuse on a night highway, walks toward the camera, and a huge fireball goes off behind her. The Night road version copies this clip with your photo.
   - Video: https://www.makeviral.ai/media/templates/ai-explosion-walk-trend/original-main-v2.mp4
   - Poster: https://www.makeviral.ai/media/templates/ai-explosion-walk-trend/original-main-v1.jpg
-- **Example 2** (29 s, 9:16 MP4 with sound): A 1920s gangster explosion walk made with AI by @aissam_ir (22 September 2026, 2,956 views on TikTok): a man in a long overcoat and a three-piece suit stands in front of a red-brick manor, the manor blows up behind him, and he walks calmly toward the camera. The 1920s gangster version makes a scene like this from your photo, with a flat cap and no cigarette.
-  - Video: https://www.makeviral.ai/media/templates/ai-explosion-walk-trend/original-gangster-v2.mp4
-  - Poster: https://www.makeviral.ai/media/templates/ai-explosion-walk-trend/original-gangster-v1.jpg
-- **Example 3** (15 s, 9:16 MP4 with sound): The Dramatic Fire Walk, an AI face swap of the manor explosion scene from the Peaky Blinders season 6 finale, shared on Higgsfield by bahhtekkjrtv (465 likes by 9 November 2026): a man in a flat cap lights a cigarette, the red-brick manor blows up behind him, and he walks slowly toward the camera. The Manor scene version copies this clip with your photo.
-  - Video: https://www.makeviral.ai/media/templates/ai-explosion-walk-trend/original-manor-v2.mp4
-  - Poster: https://www.makeviral.ai/media/templates/ai-explosion-walk-trend/original-manor-v1.jpg
 
 ## How to make the Explosion Walk video on MakeViral
 
@@ -108,54 +102,6 @@ The walk ends close to the camera, from the knees up, the face large and sharp: 
 
 One-tap version of this variant: https://www.makeviral.ai/templates/ai-explosion-walk-trend/create?variant=scene
 
-#### Variant: 1920s gangster
-
-Settings: 1 photo (you, face clear) · Seedance 2.5 · 10 s · 720p · 9:16 · with sound · 126 credits in one tap.
-
-1. The video prompt is filled in. Settings: Seedance 2.5, 10 s, 720p, 9:16, sound on. The video prompt:
-
-   ```text
-   A slow-motion cinematic video of a confident person, the person in [Image 1], dressed as a 1920s Birmingham gangster: a dark grey wool flat cap, a long black wool overcoat over a dark three-piece suit with a buttoned waistcoat, a white shirt with a dark tie, a silver watch chain and black leather gloves, walking forward calmly while a massive explosion erupts behind them. The place: the wide gravel drive in front of a grand red-brick country manor with tall white windows and chimneys, under a grey, overcast sky. Fire, smoke, and debris fill the air as they walk fearlessly through the chaos. The camera moves in a dramatic low-angle shot, with sparks flying and dust swirling around. Epic background music, intense lighting, and realistic visual effects, like an action movie hero scene in 4K ultra-realistic style, in the cold, muted colors of a 1920s period drama.
-
-One continuous take, 10 seconds.
-0-3 s: the walker stands still on the gravel in front of the manor, facing the camera, seen from the knees up, pulls the black leather gloves tight and touches the brim of the flat cap, calm and unsmiling.
-3-4 s: behind them the manor explodes: a huge orange fireball bursts out of the windows and the roof, and sparks and debris fly to both sides.
-4-10 s: a tower of dark grey smoke rises behind them; the walker walks slowly toward the low camera, hands at the sides, never looking back, never flinching, and ends close to the camera with a cold, steady stare.
-
-The walker is the person in [Image 1], in every frame: copy the exact face from [Image 1] (the face shape, eyebrows, nose, mouth, jaw, skin tone, age, hair color, hair length and hairstyle, and any beard or moustache), so their friends recognize them at once. The flat cap sits low on the forehead but never hides the eyes; everything else of the face comes from [Image 1], and the hair under the cap keeps the color from [Image 1]. The same real person from the first frame to the last; never morph. If [Image 1] shows an animal, the walker is that animal walking toward the camera in a small flat cap and a dark overcoat, with its own face, fur and markings, not a person.
-
-The walk ends close to the camera, from the knees up, the face large and sharp: exactly the face from [Image 1]. The explosion stays far behind them: nobody is burned or hurt, and the walker never looks back. No dialogue throughout the entire video. Exactly one person. No cigarette, no smoking, no gun, no weapons. No cars, no signs, no text, no subtitles, no logos, no watermark, no extra limbs.
-   ```
-
-2. Press Generate, then download the 9:16 MP4.
-
-One-tap version of this variant: https://www.makeviral.ai/templates/ai-explosion-walk-trend/create?variant=gangster
-
-#### Variant: Manor scene
-
-Settings: 1 photo (you, face clear) · Seedance 2.5 · 15 s · 720p · 9:16 · no sound · 228 credits in one tap.
-
-1. The video prompt is filled in. Settings: Seedance 2.5, 15 s, 720p, 9:16, sound off. The video prompt:
-
-   ```text
-   Recreate the reference video [Video 1] shot for shot: one continuous take on the wide gravel drive in front of a grand red-brick country manor with tall white windows and chimneys, under a grey overcast sky; the camera starts close on the chest and face and slowly pulls back; the same framing, timing, moves, flash, fire, sparks and smoke. Replace the man with [Image 1]; do not replace the outfit and hat. The ONLY change: the man in the dark grey flat cap and the long black overcoat is now the person in [Image 1]. Everything else stays exactly as in [Video 1].
-
-The man in the flat cap = the person in [Image 1], in EVERY shot: copy the exact face from [Image 1] (the face shape, eyebrows, nose, mouth, jaw, skin tone, age, hair color, hair length and hairstyle, and any beard or moustache) exactly as in the photo. The same real person from the first frame to the last, so their friends recognize them at once, also when the head is bowed under the cap, in the bright flash and in the smoke. Never morph, never drift back to the original man's face. Do not replace the outfit and hat: the dark grey flat cap, the long black wool overcoat over a dark three-piece suit with a buttoned waistcoat and a silver watch chain, the white shirt with the dark tie and the black leather gloves stay exactly as in [Video 1], never the clothes from [Image 1]. The cap never hides the eyes, and the hair under it keeps the color and length from [Image 1]. If [Image 1] shows an animal, that animal takes the man's place, standing upright in the same cap and overcoat, with its own face, fur and markings, not a person.
-
-The moves, matching the reference second by second:
-0-6 s: close on the chest and face, the head bowed under the flat cap: the walker cups both gloved hands at the mouth and lights a cigarette with a match, a small flame between the fingers, while the camera slowly pulls back.
-6-7.4 s: the hands drop to the sides; the walker looks straight at the camera, calm and unsmiling, the cigarette at the lips, seen from the thighs up, the manor behind.
-7.4-8.5 s: a bright flash: a huge orange fireball bursts out of the manor behind the walker, sparks and debris fly to both sides.
-8.5-13 s: dark grey smoke and dust fill the whole background; the walker walks slowly toward the camera, hands at the sides, never looking back, never flinching.
-13-15 s: still walking, the walker raises one gloved hand to the cigarette at the lips, the whole body in view, the face sharp: exactly the face from [Image 1].
-
-The fire and the smoke stay far behind the walker: nobody is burned or hurt. Anatomy rules: one head only, on the walker's own shoulders; two arms, five fingers on each hand. Exactly one person. No dialogue throughout the entire video. No background music. No text, no captions, no logos, no watermark.
-   ```
-
-2. Press Generate, then download the 9:16 MP4.
-
-One-tap version of this variant: https://www.makeviral.ai/templates/ai-explosion-walk-trend/create?variant=manor
-
 ### Which photo works best?
 
 Every version takes **one photo of yourself**.
@@ -196,8 +142,6 @@ Press "Create your own", add your photo and press Generate. The exact price show
 | Night road, Best | 1 of you | The viral reel with you in it, shot for shot: the fuse, the walk, the jacket, the fireball, the arms up. The default. |
 | Night road, Standard | 1 of you | A new clip that follows the reel's camera, timing and fireball, for far fewer credits and faster. Your face is small for most of the walk, so it can look less like you. |
 | Action hero | 1 of you | A new 10-second scene: a slow-motion movie walk toward a low camera while a massive explosion goes off behind you, with fire, sparks, debris and epic sound. |
-| 1920s gangster | 1 of you | A new 10-second scene in a flat cap, a long wool overcoat and a three-piece suit: you pull on your gloves in front of a red-brick manor, the manor blows up behind you, and you walk slowly toward the camera without looking back. |
-| Manor scene | 1 of you | The viral manor explosion clip with you in it, shot for shot: in a flat cap and a long black overcoat you light a cigarette in close-up, the red-brick manor blows up behind you, and you walk slowly through the smoke. 15 seconds, with the clip's song. |
 
 Action hero is the classic walking away from explosion scene: it uses the prompt @muhammadnaveed_37 shared with his AI clip in 2025, word for word, with your photo in it. The price of each one shows on its Generate button.
 
@@ -247,9 +191,9 @@ There are CapCut explosion filter templates that add a blast behind your own cli
 
 It is not a song but a spoken line over a beat: "You cannot reason with a tiger when your head is in its mouth!", a line attributed to Winston Churchill. On Instagram it is an "Original audio" used in more than 147,000 reels. Night road puts this audio on your video, and you can turn it off on the result screen.
 
-### Is there a Peaky Blinders explosion walk version?
+### Is there a Peaky Blinders version?
 
-Yes, two. Manor scene copies the viral Peaky Blinders explosion scene shot for shot with your face: the Tommy Shelby house explosion from the season 6 finale, where the Shelby mansion explosion goes off behind him (people also search for the Thomas Shelby explosion scene), remade as an AI face swap and known on AI template sites as the Dramatic Fire Walk. You keep the flat cap, the overcoat, the cigarette and the clip's song, for 15 seconds. 1920s gangster makes a new AI scene from one photo instead: the same look, a red-brick manor that blows up behind you, a slow walk toward the camera and no cigarette. Peaky Blinders walking away from explosion edits, the Tommy Shelby walking away from explosion scene and the Peaky Blinders explosion meme are some of the most shared explosion walks, and these two versions work like a Peaky Blinders AI filter: a Thomas Shelby AI video or a Thomas Shelby explosion meme that stars you. Both are AI videos; MakeViral is not linked with the show or its makers.
+Yes, it has its own page now: the [Peaky Blinders explosion](https://www.makeviral.ai/templates/peaky-blinders-explosion-ai-trend) puts your face in the manor explosion scene from the series 6 finale.
 
 ### How long is the video?
 
@@ -265,20 +209,20 @@ No. You take her place on the road, and nobody else is in the clip. MakeViral is
 
 ## Other AI video templates and tools
 
+- [Peaky Blinders Explosion Scene, Starring You](https://www.makeviral.ai/templates/peaky-blinders-explosion-ai-trend): A flat cap, a long black overcoat, a match at your lips. The red-brick manor blows up behind you and you walk slowly toward the camera through the smoke, never looking back. One photo, 15 seconds, with the clip's song.
 - [ATM Glitch AI Trend: The Money Explosion on CCTV, Starring You](https://www.makeviral.ai/templates/atm-glitch-ai-trend): A black-and-white security camera in an ATM booth at night: you take your cash, the machine bursts, a storm of bills knocks you back, and you end up sitting on a floor of money, laughing up at the camera. Or put your pet at the ATM. It is an AI video, not a real glitch.
 - [Airplane Flying Over Head AI Trend: A Jet Right Above You](https://www.makeviral.ai/templates/ai-plane-over-head-trend): You sit on the guardrail of an airport viewing deck at golden dusk and wave up, and a big airliner glides so low over you that its belly, engines and wheels fill the sky. One photo of you or your pet in, an 8-second clip with jet sound out.
-- [Pray For Me Trend AI: The Slow Mo Dance and Run, From Your Photos](https://www.makeviral.ai/templates/pray-for-me-slow-mo-ai-trend): Add one photo and you do the pray for me slow mo dance in a bright room, with the song. Add two or three photos and your crew does the slow mo run past the camera, one by one.
 - [AI photo generator](https://www.makeviral.ai/ai-photo-generator)
 - [All AI video templates](https://www.makeviral.ai/templates)
 
 ## New AI video trends this week
 
-- [Turning My Mom Into Me: Put Your Mom in Your Outfit With AI](https://www.makeviral.ai/templates/turning-my-mom-into-me-ai-trend): Your mom walks down the hallway in her own clothes, walks out, and struts back in wearing your outfit. Add one photo of her and one of you in your outfit, and get the viral reel with its caption and its sound. Dad works too.
-- [Giant Cat AI Video: Make Your Pet a Giant in New York](https://www.makeviral.ai/templates/giant-cat-ai-video): Your cat walks down a New York avenue as tall as the towers, peers into a car window and leans on a skyscraper while helicopters circle. Add one photo of your pet, or of yourself, and get the 10-second clip with the street sound.
-- [Stuffed Animal UFC AI Video: Your Plush Wins the Fight](https://www.makeviral.ai/templates/stuffed-animal-ufc-ai-video): Your teddy, your pet or a plush version of you steps into the cage, lands the body shots, gets the knockout and celebrates with both arms up. One photo in, a 10-second clip with crowd and commentary sound out. Or add two photos and fight a friend: one wins, one goes down.
-- [Black and White Cinematic Video: You in the Classic Suit Stroll](https://www.makeviral.ai/templates/black-and-white-cinematic-ai-video): One photo of you becomes a 15-second black and white film: you walk past the hedges in a long black coat, smile at the windows, wave and laugh on the stone steps, then pause under a black umbrella, to a slowed phonk beat.
-- [Düğün Dansı AI: Put Your Friends in the Wild Turkish Wedding Dance](https://www.makeviral.ai/templates/dugun-oyunu-ai-trend): Two dancers go wild around the davul player in a Turkish wedding hall, a halay line bounces behind them, and a guest in a white tank top laughs into the camera at the end. Add three photos, two for a duo, or one of your pet.
-- [Hippo Pathway What If: Become the 541 ft Giant Pop Star](https://www.makeviral.ai/templates/hippo-pathway-giant-pop-star-ai-trend): What if a pop star was 100 times taller? Add one photo: you or your pet become the giant who sings and dances down a city avenue at dusk, or the giant pop star shows up in a photo of your own street.
+- [Tiger Fight AI: Beat the Tiger on CCTV](https://www.makeviral.ai/templates/cctv-tiger-fight-ai-trend): A security camera on a forest path. A tiger leaps out of the bushes, and you fight it and pin it to the ground. Add one photo of yourself or your pet, and the trend's phonk sound comes with it.
+- [The Office Parkour AI Trend: You Shout "Parkour!" in the Office](https://www.makeviral.ai/templates/the-office-parkour-ai-trend): Dive over the couch, land upside down and shout "Parkour!" into the camera, then jump off the reception counter while the crew leaps over the desks. The whole office parkour scene, 24 seconds, with its own shouts.
+- [Huell Money AI: The Breaking Bad Money Pile Scene, Starring You](https://www.makeviral.ai/templates/huell-money-ai-trend): A storage unit, a bed-size pile of cash, and you fall back onto it with your eyes closed while your friend tells you to quit it. Then they give in and lie down next to you. With the scene's own lines.
+- [Peaky Blinders Explosion Scene, Starring You](https://www.makeviral.ai/templates/peaky-blinders-explosion-ai-trend): A flat cap, a long black overcoat, a match at your lips. The red-brick manor blows up behind you and you walk slowly toward the camera through the smoke, never looking back. One photo, 15 seconds, with the clip's song.
+- [Mbappe Run vs Argentina AI: The Mbappe Sprint, Starring You](https://www.makeviral.ai/templates/mbappe-sprint-ai-trend): A sunny pitch, one long sprint with the ball, a defender in a striped shirt crashing into you, and you sitting on the grass complaining while the commentator shouts "It's a penalty!". In your own clothes. It is an AI video, not real match footage.
+- [Perfume Transition AI Trend: Spray, Flame, Gangster Look](https://www.makeviral.ai/templates/perfume-transition-ai-trend): Sniff the perfume, spray it at the camera, and a lighter turns the spray into a fireball. Add one photo, and you or your pet step out of the flame in a flat cap, dark sunglasses and a long magenta coat, with the trend's song.
 
 ## Make your own Explosion Walk video
 

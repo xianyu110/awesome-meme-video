@@ -5,6 +5,15 @@
 
 The darts filter is the prank of the darts season: an AI video where you hit a 170 checkout on live TV.
 
+## Demo videos (CDN)
+
+- https://www.makeviral.ai/media/templates/darts-170-ai-prank/example-main-v1.mp4
+
+## Posters
+
+- https://www.makeviral.ai/media/templates/darts-170-ai-prank/example-main-input.jpg
+- https://www.makeviral.ai/media/templates/darts-170-ai-prank/example-main-poster.jpg
+
 ## Prompts
 
 ### 1. 1. The video prompt is filled in. Settings: Seedance 2.5, 10 s, 720p, 9:16, sound on. The video prompt

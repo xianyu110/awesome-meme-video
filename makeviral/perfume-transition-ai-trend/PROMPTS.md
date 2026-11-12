@@ -1,0 +1,69 @@
+# Perfume Transition AI Trend: Spray, Flame, Gangster Look
+
+- Source: [makeviral](https://www.makeviral.ai/templates/perfume-transition-ai-trend)
+- Slug: `perfume-transition-ai-trend`
+
+The perfume transition is a video trend: you spray perfume at the camera and step out of the spray in a new look.
+
+## Demo videos (CDN)
+
+- https://www.makeviral.ai/media/templates/perfume-transition-ai-trend/original-main-v2.mp4
+
+## Posters
+
+- https://www.makeviral.ai/media/templates/perfume-transition-ai-trend/original-main-v1.jpg
+
+## Prompts
+
+### 1. 1. The video prompt is filled in. Settings: Seedance 2.5, 10 s, 720p, 9:16, sound off. The video prompt
+
+*Kind: video_prompt*
+
+```text
+Recreate the reference video [Video 1] shot for shot, as one continuous handheld take: the same small bedroom with magenta walls and a ceiling fan, the same low camera near the floor, the same framing, timing and moves, and the fireball on the same beat. The ONLY change: replace the small 3D cartoon girl in [Video 1] with the subject in [Image 1], as real live-action footage. Keep everything else the same. [Image 1] is the sole reference for the subject's face, hair and body; [Video 1] is for the moves, the camera, the room, the flame and the new outfit only.
+
+If [Image 1] shows a person, the subject = that person in EVERY frame, before and after the flame: copy the exact face from [Image 1]: face shape, eye color and eye shape, eyebrows, nose, mouth, skin tone, age, hair color, hair length and hairstyle, and any beard, moustache, glasses or freckles exactly as in the photo. An adult keeps a real adult's height, head size and body proportions: never a child's body, never a big cartoon head. The same real person in every frame, so their friends instantly recognize them, above all in the close-ups. Never drift back to the cartoon girl's face. NO rosy cartoon cheeks, NO blonde bob unless [Image 1] shows one. A toy, character or object in [Image 1] keeps its own whole body, colors and style, upright in the girl's place.
+
+BEFORE THE FLAME (0-2.5 s): the subject is dressed exactly as in [Image 1], never in the girl's magenta headscarf and dress.
+AFTER THE FLAME (2.7 s to the end): the 1920s gangster look from [Video 1]: a dark grey herringbone flat cap, rectangular silver-framed dark sunglasses, a long magenta wool overcoat, a grey herringbone three-piece suit with a buttoned waistcoat and a silver pocket-watch chain, a white shirt and a black tie. The face, the hair under the cap and the skin stay as in [Image 1].
+
+THE VIDEO, beat by beat, no cuts:
+00:00-00:01.3: the subject sniffs a blue glass perfume bottle, eyes half closed.
+00:01.3-00:02.4: the subject pushes the bottle toward the lens; a hand from below the camera flicks a lighter on next to the nozzle.
+00:02.4-00:02.7: the spray catches the flame and a big orange fireball fills the frame.
+00:02.7-00:03.3: the flame clears: the subject stands close to the lens in the gangster look.
+00:03.3-00:07: the subject steps back and poses with swagger: two thumbs up, an arm thrown out, a hand fixing the sunglasses.
+00:07-00:09.3: the subject leans in close, straightens the coat collar with both hands, then two thumbs up.
+00:09.3-00:10.5: the subject steps back, touches the sunglasses and gives a cool, sly look into the camera.
+
+Real live-action footage, clear facial features, not a cartoon, not 3D animation. The lips stay closed. No dialogue throughout the entire video. No background music.
+
+One head only, on the subject's shoulders. Two arms, five fingers on each hand. Exactly one subject and one hand with the lighter. The flame stays in the air in front of the lens: no fire on the body, hair or clothes. No text, no captions, no logos, no brand name on the bottle, no watermarks, no facial distortion.
+```
+
+### 2. 1. The video prompt is filled in. Settings: Seedance 2.5, 10 s, 720p, 9:16, sound off. The video prompt (Pet)
+
+*Kind: video_prompt*
+
+```text
+Recreate the reference video [Video 1] shot for shot, as one continuous handheld take: the same small bedroom with magenta walls and a ceiling fan, the same low camera near the floor, the same framing, timing, light and moves, and the fireball transition on the same beat. The ONLY change: replace the small 3D cartoon girl in [Video 1] with the pet in [Image 1], as real live-action footage. Keep everything else the same. [Image 1] is the sole reference for the pet; [Video 1] is for the moves, the camera, the room, the flame and the new outfit only.
+
+The pet = the pet in [Image 1], in EVERY frame, before and after the flame: the same species and breed, face, eyes, ears, muzzle, fur colors, fur length and markings as in [Image 1], with the natural body volume and proportions of that animal: never flattened, squashed, stretched or merged with anything. It sits up on its hind legs in the girl's place and uses its front paws like hands: animal paws, never human hands, never a person, never a cartoon. The same pet in every frame, so its owner instantly recognizes it, above all in the close-ups after the flame.
+
+BEFORE THE FLAME (0-2.5 s): the pet as in [Image 1], with no headscarf and no dress.
+AFTER THE FLAME (2.7 s to the end): the 1920s gangster look from [Video 1], made for its body: a dark grey herringbone flat cap, rectangular silver-framed dark sunglasses, a long magenta wool overcoat, a grey herringbone three-piece suit with a buttoned waistcoat and a silver pocket-watch chain, a white shirt and a black tie. The cap sits between its ears; its own face and fur show clearly.
+
+THE VIDEO, beat by beat, no cuts:
+00:00-00:01.3: the pet holds a blue glass perfume bottle in its front paws and sniffs it.
+00:01.3-00:02.4: the pet pushes the bottle toward the lens; a hand from below the camera flicks a lighter on next to the nozzle.
+00:02.4-00:02.7: the spray catches the flame and a big orange fireball fills the frame.
+00:02.7-00:03.3: the flame clears: the pet sits up close to the lens in the gangster look.
+00:03.3-00:07: the pet poses with swagger: both front paws up, one paw out to the side, a paw on the sunglasses.
+00:07-00:09.3: the pet leans in close and tugs the coat collar with both front paws, then raises both paws.
+00:09.3-00:10.5: the pet sits back, touches the sunglasses and gives a cool, sly look into the camera.
+
+Real live-action footage, warm indoor light, no distortion. No dialogue throughout the entire video. No background music.
+
+Exactly one pet with one head, four legs and one tail, and one hand with the lighter; no other people or animals. The flame stays in the air in front of the lens: no fire on the pet, its fur or the clothes. No text, no captions, no logos, no brand name on the bottle, no watermarks.
+```
+

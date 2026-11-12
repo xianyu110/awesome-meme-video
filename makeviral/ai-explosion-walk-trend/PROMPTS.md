@@ -7,15 +7,11 @@ The explosion walk trend is the old action movie shot made personal: you walk ca
 
 ## Demo videos (CDN)
 
-- https://www.makeviral.ai/media/templates/ai-explosion-walk-trend/original-gangster-v2.mp4
 - https://www.makeviral.ai/media/templates/ai-explosion-walk-trend/original-main-v2.mp4
-- https://www.makeviral.ai/media/templates/ai-explosion-walk-trend/original-manor-v2.mp4
 
 ## Posters
 
-- https://www.makeviral.ai/media/templates/ai-explosion-walk-trend/original-gangster-v1.jpg
 - https://www.makeviral.ai/media/templates/ai-explosion-walk-trend/original-main-v1.jpg
-- https://www.makeviral.ai/media/templates/ai-explosion-walk-trend/original-manor-v1.jpg
 
 ## Prompts
 
@@ -52,41 +48,5 @@ A slow-motion cinematic video of a confident person, the person in [Image 1], we
 The walker is the person in [Image 1], in every frame: copy the exact face from [Image 1] (the face shape, eyebrows, nose, mouth, jaw, skin tone, age, hair color, hair length and hairstyle, and any beard or moustache), so their friends recognize them at once. The sunglasses are dark, and everything else of the face comes from [Image 1]. The same real person from the first frame to the last; never morph. If [Image 1] shows an animal, the walker is that animal walking toward the camera, with its own face, fur and markings, not a person.
 
 The walk ends close to the camera, from the knees up, the face large and sharp: exactly the face from [Image 1]. The explosion stays far behind them: nobody is burned or hurt, and the walker never looks back. Exactly one person. No cars, no buildings with signs, no text, no subtitles, no logos, no watermark, no extra limbs.
-```
-
-### 3. 1. The video prompt is filled in. Settings: Seedance 2.5, 10 s, 720p, 9:16, sound on. The video prompt
-
-*Kind: video_prompt*
-
-```text
-A slow-motion cinematic video of a confident person, the person in [Image 1], dressed as a 1920s Birmingham gangster: a dark grey wool flat cap, a long black wool overcoat over a dark three-piece suit with a buttoned waistcoat, a white shirt with a dark tie, a silver watch chain and black leather gloves, walking forward calmly while a massive explosion erupts behind them. The place: the wide gravel drive in front of a grand red-brick country manor with tall white windows and chimneys, under a grey, overcast sky. Fire, smoke, and debris fill the air as they walk fearlessly through the chaos. The camera moves in a dramatic low-angle shot, with sparks flying and dust swirling around. Epic background music, intense lighting, and realistic visual effects, like an action movie hero scene in 4K ultra-realistic style, in the cold, muted colors of a 1920s period drama.
-
-One continuous take, 10 seconds.
-0-3 s: the walker stands still on the gravel in front of the manor, facing the camera, seen from the knees up, pulls the black leather gloves tight and touches the brim of the flat cap, calm and unsmiling.
-3-4 s: behind them the manor explodes: a huge orange fireball bursts out of the windows and the roof, and sparks and debris fly to both sides.
-4-10 s: a tower of dark grey smoke rises behind them; the walker walks slowly toward the low camera, hands at the sides, never looking back, never flinching, and ends close to the camera with a cold, steady stare.
-
-The walker is the person in [Image 1], in every frame: copy the exact face from [Image 1] (the face shape, eyebrows, nose, mouth, jaw, skin tone, age, hair color, hair length and hairstyle, and any beard or moustache), so their friends recognize them at once. The flat cap sits low on the forehead but never hides the eyes; everything else of the face comes from [Image 1], and the hair under the cap keeps the color from [Image 1]. The same real person from the first frame to the last; never morph. If [Image 1] shows an animal, the walker is that animal walking toward the camera in a small flat cap and a dark overcoat, with its own face, fur and markings, not a person.
-
-The walk ends close to the camera, from the knees up, the face large and sharp: exactly the face from [Image 1]. The explosion stays far behind them: nobody is burned or hurt, and the walker never looks back. No dialogue throughout the entire video. Exactly one person. No cigarette, no smoking, no gun, no weapons. No cars, no signs, no text, no subtitles, no logos, no watermark, no extra limbs.
-```
-
-### 4. 1. The video prompt is filled in. Settings: Seedance 2.5, 15 s, 720p, 9:16, sound off. The video prompt
-
-*Kind: video_prompt*
-
-```text
-Recreate the reference video [Video 1] shot for shot: one continuous take on the wide gravel drive in front of a grand red-brick country manor with tall white windows and chimneys, under a grey overcast sky; the camera starts close on the chest and face and slowly pulls back; the same framing, timing, moves, flash, fire, sparks and smoke. Replace the man with [Image 1]; do not replace the outfit and hat. The ONLY change: the man in the dark grey flat cap and the long black overcoat is now the person in [Image 1]. Everything else stays exactly as in [Video 1].
-
-The man in the flat cap = the person in [Image 1], in EVERY shot: copy the exact face from [Image 1] (the face shape, eyebrows, nose, mouth, jaw, skin tone, age, hair color, hair length and hairstyle, and any beard or moustache) exactly as in the photo. The same real person from the first frame to the last, so their friends recognize them at once, also when the head is bowed under the cap, in the bright flash and in the smoke. Never morph, never drift back to the original man's face. Do not replace the outfit and hat: the dark grey flat cap, the long black wool overcoat over a dark three-piece suit with a buttoned waistcoat and a silver watch chain, the white shirt with the dark tie and the black leather gloves stay exactly as in [Video 1], never the clothes from [Image 1]. The cap never hides the eyes, and the hair under it keeps the color and length from [Image 1]. If [Image 1] shows an animal, that animal takes the man's place, standing upright in the same cap and overcoat, with its own face, fur and markings, not a person.
-
-The moves, matching the reference second by second:
-0-6 s: close on the chest and face, the head bowed under the flat cap: the walker cups both gloved hands at the mouth and lights a cigarette with a match, a small flame between the fingers, while the camera slowly pulls back.
-6-7.4 s: the hands drop to the sides; the walker looks straight at the camera, calm and unsmiling, the cigarette at the lips, seen from the thighs up, the manor behind.
-7.4-8.5 s: a bright flash: a huge orange fireball bursts out of the manor behind the walker, sparks and debris fly to both sides.
-8.5-13 s: dark grey smoke and dust fill the whole background; the walker walks slowly toward the camera, hands at the sides, never looking back, never flinching.
-13-15 s: still walking, the walker raises one gloved hand to the cigarette at the lips, the whole body in view, the face sharp: exactly the face from [Image 1].
-
-The fire and the smoke stay far behind the walker: nobody is burned or hurt. Anatomy rules: one head only, on the walker's own shoulders; two arms, five fingers on each hand. Exactly one person. No dialogue throughout the entire video. No background music. No text, no captions, no logos, no watermark.
 ```
 

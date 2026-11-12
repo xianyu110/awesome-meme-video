@@ -6,7 +6,7 @@
   "url": "https://remakeyourmeme.com/templates/raindance-ai-trend/",
   "blurb": "Unchained and KevkoYt in the pier scene, posted 8 October 2026",
   "photos_in": null,
-  "duration_s": 13,
+  "duration_s": 12,
   "ready_to_make": true,
   "demo_videos": [
     "https://cdn.remakeyourmeme.com/templates/raindance/video.mp4",
@@ -20,10 +20,10 @@
     "https://cdn.remakeyourmeme.com/trends/raindance/7694325603742305568.webp"
   ],
   "all_cdn_mp4": [
-    "https://cdn.remakeyourmeme.com/templates/chipmunks-dance/video.mp4",
-    "https://cdn.remakeyourmeme.com/templates/no-scrubs/video.mp4",
+    "https://cdn.remakeyourmeme.com/templates/fancy-cafe/video.mp4",
+    "https://cdn.remakeyourmeme.com/templates/i-love-the-smiths/video.mp4",
+    "https://cdn.remakeyourmeme.com/templates/ice-ice-baby/video.mp4",
     "https://cdn.remakeyourmeme.com/templates/raindance/video.mp4",
-    "https://cdn.remakeyourmeme.com/templates/vossi-bop/video.mp4",
     "https://cdn.remakeyourmeme.com/trends/raindance/7689332850398678304.mp4",
     "https://cdn.remakeyourmeme.com/trends/raindance/7694325603742305568.mp4"
   ],
@@ -31,7 +31,7 @@
   "prompt_count": 0,
   "prompts_public": false,
   "note": "Remake Your Meme does not publish copyable prompt text on public template pages (one-tap remake). Inventory keeps demos, posters, and metadata only.",
-  "scraped_at": "2026-11-08",
+  "scraped_at": "2026-11-12",
   "published": null,
   "updated": null
 }

@@ -3,18 +3,18 @@
 > The AI zombie trend is a short love story: your partner or pet has turned into a zombie, you aim a pistol through tears, lower it and hug them anyway, then the clip cuts to a happy memory of you both.
 
 Canonical: https://www.makeviral.ai/templates/ai-zombie-trend
-Updated: 2026-11-09
+Updated: 2026-11-11
 Published: 2026-10-08
 Author: MakeViral Team (https://www.makeviral.ai/about)
 Publisher: MakeViral (https://www.makeviral.ai)
 
 The **AI zombie trend** is a short love story: your partner or pet has turned into a zombie, you aim a pistol through tears, lower it and hug them anyway, then the clip cuts to a happy memory of you both. It went viral on TikTok in early October 2026. You need two photos: you, and your partner or pet.
 
-Your partner, or your pet, has turned into a zombie. You aim through tears, lower the gun and hug them anyway. Then a hard cut to a sunny memory of you two. Two photos in, a 10-second clip with sound out.
+Your partner, or your pet, has turned into a zombie. You aim through tears, the zombie lunges to bite, then a throwback: a golden day of you two in the field. Two photos in, the 15-second film at the top of this page out, with its music (10 seconds with a pet).
 
 Also called: Zombie Love Story, Zombie Hug, Zombie Hug Scene, My Beloved Zombie, Would You Still Love Me If I Were a Zombie, Cinematic Survivor Tale.
 
-**Make it now:** [Make this video](https://www.makeviral.ai/templates/ai-zombie-trend/create). 2 photos · 10 s · 9:16 with sound · 126 credits, charged once · ready in a few minutes · no prompt to write.
+**Make it now:** [Make this video](https://www.makeviral.ai/templates/ai-zombie-trend/create). 2 photos · 15 s · 9:16 with sound · 191 credits, charged once · ready in up to several minutes · no prompt to write.
 
 Keyword: ai zombie trend. Also answers: zombie ai, ai zombie, zombie ai trend, zombie trend, zombie couple, zombie boyfriend, zombie ai video trend, zombie trend ai, zombie ai video, ai zombie video, zombie ai video generator, ai zombie video generator, zombie video ai, ai zombie video trend, zombie trend video, zombie trend on tiktok, zombie trend tiktok, zombie love story ai, my zombie lover ai, zombie love ai video, zombie lover ai, ai zombie love story, zombie love story trend, ai zombie love story trend, zombie ai love, zombie love ai prompt, zombie hug ai, ai zombie hug trend, zombie hug scene original, zombie love ai, how to do the ai zombie trend, zombie hug ai video, zombie love, zombie couple ai, zombie couple video, zombie hug trend, zombie love story ai trend, zombie girlfriend ai, would you still love me if i was a zombie, zombie ai prompt, ai zombie prompt, ai zombie prompt video, zombie ai trend prompt, ai zombie trend prompt, zombie ai trend tutorial, how to do the zombie ai trend, how to do zombie ai trend, zombie dog ai, ai zombie dog, zombie cat ai, ai cat zombie, pet zombie ai, zombie apocalypse ai video, ai zombie scene, yapay zeka zombi, trend zombi, trend zombie ai, zombie ai video trend prompt, zombie couple hug ai, zombie trend ai video, zombie love story ai video generator, zombie love story ai video, ai zombie hug, zombie ai trend video, zombie love story ai prompt, zombie love story prompt, tren zombie tik tok, zombietrend, zombie video trend, ai zombie trend generator, zombie ai video prompt, zombie couple ai trend, zombie love trend, zombie video ai trend, ai video zombie, zombie ai love story, zombie scene ai, zombie trend ai prompt, zombieaitrend, ai zombie love story generator, ai zombie story, how to make ai zombie video, zombie ai story, zombie ai videos, zombie ia trend, zombie lover ai video, zombie tiktok trend, zombie love ai video generator, zombie trending ai, higgsfield ai zombie trend, zombie ai meme, zombie higgsfield ai, cinematic zombie love story.
 
@@ -39,10 +39,10 @@ By 8 October the TikTok tag page for the trend showed tutorials in English, Turk
 
 Made from the prompts on this page. The people and pets are AI-made, not real persons, and the sound is original. Your result will differ from run to run.
 
-- **Example 1** (24 s, 9:16 MP4 with sound): The cinematic zombie love story, made with Higgsfield: he aims at his infected girlfriend through tears, cannot shoot and lowers the gun, then a hard cut to the two of them laughing and running in a golden field at sunset. The Cinematic version puts you two into this film. Shown: the whole 24-second clip.
+- **Example 1** (24 s, 9:16 MP4 with sound): The cinematic zombie love story, made with Higgsfield: he aims at his infected girlfriend through tears, she lunges to bite him, then a hard cut to a throwback of the two of them laughing and running in a golden field at sunset. "You and your partner" puts you two into this film: 15 seconds of its shots, in order, with its music. Shown: the whole 24-second clip.
   - Video: https://www.makeviral.ai/media/templates/ai-zombie-trend/example-cinematic-v2.mp4
   - Poster: https://www.makeviral.ai/media/templates/ai-zombie-trend/example-cinematic-v2.jpg
-- **Example 2** (10 s, 9:16 MP4 with sound): You and your partner, two photos: an AI-made woman aims at her AI-made zombie husband, cries, lowers the gun and hugs him, then a cut to the two of them in a wheat field.
+- **Example 2** (10 s, 9:16 MP4 with sound): Our first 10-second take on the zombie love story (October 2026), from two AI-made photos: an AI-made woman aims at her AI-made zombie husband, cries, lowers the gun and hugs him, then a cut to the two of them in a wheat field. Since 10 November 2026, You and your partner makes the film at the top of the page instead.
   - Video: https://www.makeviral.ai/media/templates/ai-zombie-trend/example.mp4
   - Poster: https://www.makeviral.ai/media/templates/ai-zombie-trend/example-poster.jpg
   - Input photo: https://www.makeviral.ai/media/templates/ai-zombie-trend/example-input.jpg
@@ -58,30 +58,35 @@ Everything runs in the browser. No editing app, no watermark.
 ### The one-tap way (no prompt to write)
 
 1. **Add the two photos.** Press "Make yours" and add you (the survivor), then your partner (the zombie). Add them in this order, because the order decides who is who in the scene. Take them with the camera or pick them from your library. Start here: https://www.makeviral.ai/templates/ai-zombie-trend/create
-2. **Press Generate.** The button shows the price. Seedance 2.5 films the AI zombie love story scene straight from your photos, with no in-between picture, for 10 seconds with original sound. You write no prompt.
-3. **Download or share.** The video is ready in a few minutes as a 9:16 MP4. Download it, share it from your phone, or find it later in My videos.
+2. **Press Generate.** The button shows the price. Seedance 2.5 puts your photos into the AI zombie love story trend clip and copies it shot by shot for 15 seconds, with the reel's original song. You write no prompt.
+3. **Download or share.** The video is ready in up to several minutes as a 9:16 MP4. Download it, share it from your phone, or find it later in My videos.
 
 ### The by-hand way, with the exact prompts
 
-The one-tap flow runs this prompt for you. The video model takes your photos as references ([Image 1], [Image 2] in the order you add them) and films the scene straight from them, with no photo step first. AI Video takes one photo as the first frame, so it cannot run this prompt the same way: the prompt is here to read.
+The one-tap flow runs this prompt for you. The video prompt animates your own photo directly. To change it, copy it and edit it in AI Video.
 
 #### Variant: You and your partner
 
-Settings: 2 photos (you (the survivor) + your partner (the zombie)) · Seedance 2.5 · 10 s · 720p · 9:16 · with sound · 126 credits in one tap.
+Settings: 2 photos (you (the survivor) + your partner (the zombie)) · Seedance 2.5 · 15 s · 480p · 9:16 · no sound · 191 credits in one tap.
 
-1. The video prompt is filled in. Settings: Seedance 2.5, 10 s, 720p, 9:16, sound on. The video prompt:
+1. The video prompt is filled in. Settings: Seedance 2.5, 15 s, 480p, 9:16, sound off. The video prompt:
 
    ```text
-   A cinematic, emotional scene from a real zombie apocalypse film, in two shots, shot on film with natural grain, shallow depth of field and a muted teal and grey color grade. Photorealistic, not CGI.
-
-The survivor is the person in [Image 1], in every frame: copy the exact face from [Image 1] (the face shape, eye color and eye shape, eyebrows, nose, mouth, skin tone, age, hair color, hair length and hairstyle, and any beard, moustache, glasses or freckles) and wear a dusty, worn version of the outfit from [Image 1].
-The zombie is the person in [Image 2], in every frame: copy the exact face from [Image 2] in the same way, with only light zombie makeup: a light grey tint on the skin, a few thin dark veins at the temples and on the neck, a faint milky film over their own eye color, soft dark rings under the eyes, slightly messy hair and a torn, dirty version of the outfit from [Image 2]. No hollow cheeks, no weight loss, no age change: the zombie is still clearly the person in [Image 2].
-They are two different people. Never blend their faces. Each face stays the same from the first frame to the last, so their friends recognize them at once.
-
-Shot 1, a medium shot inside a dim, abandoned farmhouse kitchen in daytime: a dusty floor, an overturned chair, peeling walls, cold blue-grey daylight through dirty windows and floating dust. On the left the survivor aims a black pistol with both shaking hands toward the doorway, eyes wet and red, one tear on the cheek, lips pressed together. On the right, a few steps away in the open doorway, the zombie stops, tilts its head and looks at the survivor as if it remembers them. The survivor slowly lowers the pistol, lets it drop to the floor and opens their arms wide. The zombie stumbles forward into their arms and they hold each other tightly, the survivor with quiet tears, both faces still visible to the camera.
-Shot 2, a hard cut for the last seconds: a bright wheat field at golden hour, the same two people, healthy and human again in clean clothes, with exactly the faces from [Image 1] and [Image 2], laughing and hugging with their faces turned toward the camera; one lifts the other and spins around in the warm sunlight.
-
-Audio: an original slow, sad piano melody with soft strings and quiet breathing that turns warm and hopeful at the cut. No dialogue, no lyrics. Exactly two people, no blood, no gore, no text, no logos.
+   Recreate the reference video [Video 1] shot for shot: a cinematic zombie love story with the same camera angles, cuts, timing, light, color grade and film grain. The ONLY change: the survivor with the pistol is now the person in [Image 1], and the partner is the person in [Image 2] in every shot: the zombie in the house and the healthy partner in every throwback shot. No one from the video stays: [Video 1] gives no face, hair color or skin tone.
+Copy each exact face in EVERY shot: face shape, eyes, eyebrows, nose, mouth, skin tone, age, hair, and any beard, moustache or glasses as in the photo. The survivor wears the video's olive parka. In the house the partner is the person in [Image 2] in zombie makeup (grey cracked skin, dark veins, milky white eyes, torn dirty clothes). Shots 8 to 12 are a throwback, a warm golden memory of a good day: the partner has the face, hair color, hair length and skin tone of [Image 2], healthy and happy.
+1. 0 to 1.4 s: close-up, the survivor aims the pistol, crying.
+2. 1.4 to 2.2 s: wide, the survivor aims by the window.
+3. 2.2 to 3.1 s: close-up, the zombie partner snarls.
+4. 3.1 to 5.6 s: close-up, the survivor cries, the eyes close.
+5. 5.6 to 6.1 s: close-up, the zombie partner screams.
+6. 6.1 to 6.5 s: close-up, the survivor, eyes closed.
+7. 6.5 to 6.75 s: wide, the zombie partner lunges at the survivor to bite.
+8. 6.75 to 8 s: hard cut to the throwback, a golden field on a sunny day: the two hug and fall into the tall grass.
+9. 8 to 9 s: close-up, the partner from [Image 2] laughs, the survivor's hand on the cheek.
+10. 9 to 10.7 s: close-up, the survivor smiles in the grass.
+11. 10.7 to 12.3 s: from behind, the two run hand in hand.
+12. 12.3 to 15 s: close-up at sunset, the survivor kisses the head of the partner from [Image 2].
+No shot is fired. No blood, no gore. No text, no watermark. No dialogue throughout the entire video. No background music.
    ```
 
 2. Press Generate, then download the 9:16 MP4.
@@ -109,45 +114,12 @@ Settings: 2 photos (you (the survivor) + your pet (the zombie)) · Seedance 2.0 
 
 One-tap version of this variant: https://www.makeviral.ai/templates/ai-zombie-trend/create?variant=pet
 
-#### Variant: Cinematic
-
-Settings: 2 photos (you (the survivor) + your partner (infected, then the memory)) · Seedance 2.5 · 15 s · 720p · 9:16 · no sound · 228 credits in one tap.
-
-1. The video prompt is filled in. Settings: Seedance 2.5, 15 s, 720p, 9:16, sound off. The video prompt:
-
-   ```text
-   Recreate the reference video [Video 1] shot for shot: a cinematic zombie love story in letterbox film framing, with the black bars above and below, the same camera angles, cuts, timing, light, color grade and film grain. The ONLY change: the crying survivor with the pistol is now the person in [Image 1], and the infected woman in the dark house and the healthy woman in the golden-field memory are both the person in [Image 2]. Both change: no one from the video stays, also in the wide shots and when only the back of a head shows.
-
-Survivor = the person in [Image 1], in EVERY shot: copy the exact face from [Image 1]: face shape, eye color and eye shape, eyebrows, nose, mouth, skin tone, age, hair color, hair length and hairstyle, and any beard, moustache, glasses or freckles exactly as in the photo. Facial hair comes only from [Image 1]: NO full beard from the video unless [Image 1] shows one. In the dark house the survivor wears the video's olive-green hooded parka with the high collar, black harness straps and chest pouch; in the memory shots, the video's light clothes.
-
-Partner = the person in [Image 2], in EVERY shot: the same face shape, eye shape, eyebrows, nose, mouth, skin tone, age, hair color, hair length and hairstyle as in [Image 2]. In the dark house only: an early-stage infection, not a fully turned zombie: pale grey skin with light dirt specks and grime, pale clouded eyes, a torn and dirty grey t-shirt with holes, loose grey trousers, the same face structure as [Image 2]. In the memory shots: healthy and clean, with the exact face of [Image 2] and the video's light clothes.
-
-The same two real people in every frame. Never morph, never drift back to the original actors' faces. Never put the healthy face on the infected body or the infected skin on the memory partner. One head per body.
-
-1. 0 to 1.7 s: close-up of the survivor aiming the pistol with both hands, crying, wet tear tracks.
-2. 1.7 to 3.1 s: over the survivor's shoulder, the infected partner stands in the doorway of the dim house.
-3. 3.1 to 4.1 s: wide shot, the survivor aims by the bright window.
-4. 4.1 to 5.2 s: close-up of the infected partner snarling, with the feral twitch of the video.
-5. 5.2 to 6.5 s: close-up of the survivor crying.
-6. 6.5 to 9.6 s: wide shot, the survivor lowers the gun and opens both arms.
-7. 9.6 to 10.7 s: close-up of the survivor, eyes closed, tears.
-8. 10.7 to 12.2 s: hard cut to warm golden light: the two roll in tall grass in a sunny field.
-9. 12.2 to 14.5 s: close-up of the partner laughing, the survivor's hand on the partner's cheek.
-10. 14.5 to 15 s: close-up of the survivor smiling in the grass.
-
-No shot is fired. No blood, no gore. No text, no captions, no watermark. No dialogue throughout the entire video. No background music.
-   ```
-
-2. Press Generate, then download the 9:16 MP4.
-
-One-tap version of this variant: https://www.makeviral.ai/templates/ai-zombie-trend/create?variant=cinematic
-
 ### Which photo works best?
 
 Add **two photos, one person or animal in each**. The first photo is **you, the survivor** who holds the gun. The second is **your partner, or your pet, who becomes the zombie**. Swap the order if you want to be the zombie.
 
-- Use a sharp photo from the knees up or a full-body photo, face clear and in good light. The prompt shows both of you from the knees up, and the face must stay recognizable under the zombie skin.
-- Plain clothes work best. The prompt keeps each outfit and makes it dusty and torn for the zombie.
+- Use a sharp, close photo, face clear, in good light and turned to the camera. The face must stay recognizable under the zombie skin and in the close-ups of the film.
+- With two people, any outfit works: you wear the film's olive parka, your partner the torn zombie clothes, then light clothes in the memory. With a pet, plain clothes work best; the prompt keeps your outfit and makes it dusty.
 - For a pet, use one sharp photo of the whole animal, standing, in daylight.
 - Use only your own photo, an adult who agreed to it, or your own pet. Never a celebrity.
 
@@ -157,7 +129,7 @@ You pay per video in credits, and the create page shows the exact price on the G
 
 | Video model | Settings | Credits |
 | --- | --- | --- |
-| Seedance 2.5 (this template) | 10 s, 720p, straight from your photos, one tap | 126 |
+| Seedance 2.5 (this template) | 15 s, 480p, copies the trend clip, one tap | 191 |
 
 Credits come with a plan; see [pricing](https://www.makeviral.ai/pricing). A failed video gives its credits back.
 
@@ -171,9 +143,9 @@ We downloaded four of the most played clips of 1 and 2 October 2026 and read the
 4. **The hug.** The zombie rushes into their arms, and they hold each other.
 5. **The memory.** A hard cut to golden light: the same two people, human again, laughing and spinning in a wheat field or on a wedding day.
 
-The joke and the heartbreak sit in the caption most clips use: **"Would you still love me if I were a zombie?"** It is the zombie version of the "would you still love me if I was a worm" question. Our prompts follow these five beats in one 10-second clip with sound.
+The joke and the heartbreak sit in the caption most clips use: **"Would you still love me if I were a zombie?"** It is the zombie version of the "would you still love me if I was a worm" question. The pet version follows these five beats in one 10-second clip with sound.
 
-Since 9 November 2026 there is also a **Cinematic** version, the cinematic zombie love story from Higgsfield: you and your partner go into the film itself, with its letterbox bars, its cuts and its music, for 15 seconds: the standoff, the lowered gun and the open arms, then the hard cut to the golden field.
+Since 10 November 2026, **You and your partner** puts you two into the cinematic zombie love story from Higgsfield, the film at the top of this page: 15 seconds of its shots, with its cuts and its music. The zombie keeps the film's look at the start (grey, cracked skin, veins, milky eyes, torn clothes), screams and lunges to bite. Then a hard cut to a throwback, like in a film: a golden day of the two of you, healthy and happy, in the field.
 
 ## How do you make the zombie dog or zombie cat version?
 
@@ -189,16 +161,16 @@ We tested these prompts on couples and on people with their dogs, with several v
 
 | What goes wrong | What the prompt does about it | If you still see it |
 |---|---|---|
-| The faces do not look like you two | Since 13 October 2026 the two-people version makes the video with Seedance 2.5 straight from your two photos, with no AI picture in between, and the prompt lists every part of each face to keep, also after the cut | In our tests the faces matched the photos much more closely this way. Use a sharp, close photo of each person. |
+| The faces do not look like you two | Since 10 November 2026 the two-people version puts your two photos straight into the film, with no AI picture in between, and the prompt locks each face to its own photo in every shot, also under the zombie skin | Use a sharp, close photo of each person, looking at the camera. |
 | The partner in the memory looks like someone else | Asks for "exactly the faces" of the two photos after the cut | Veo 3.1 Lite changed the man's face in an early test. Run it again with sharper photos. |
-| The zombie looks only a little pale | Keeps the face recognizable first, so the memory still works: since 12 October 2026 the makeup is a light grey tint and thin veins, with no hollow cheeks and no age change | That is on purpose: a heavy zombie face hides who it is. In the pet version, use "Edit the prompts yourself" and add "strong zombie makeup" to the photo prompt. |
+| The zombie looks only a little pale | Two people: the film's zombie look (grey, cracked skin, veins, milky eyes) on your partner's own face. Pet: dull, matted fur and milky eyes, with the breed and face kept | That is on purpose: a heavy zombie face hides who it is. In the pet version, use "Edit the prompts yourself" and add "strong zombie makeup" to the photo prompt. |
 | The survivor smiles instead of crying | Asks for wet, red eyes and a tear on the cheek. Since 12 October 2026 it asks for quiet tears with open eyes, not an ugly cry, because a hard cry changed faces | Run it again; one of our Veo tests smiled in the first seconds. |
-| The clothes change in the memory | The memory says "clean clothes", so the model often picks summer clothes | That is on purpose: it reads as "before". Run it again if you want other clothes. |
+| The clothes change in the memory | Two people: the memory uses the film's light clothes. Pet: the memory says "clean clothes", so the model often picks summer clothes | That is on purpose: it reads as "before". |
 | The video model refuses the photo | Leaves out blood and gore | Some models refuse some faces or the gun. The credits come back; try another photo. |
 
 ## Which caption, sound and hashtags should you post it with?
 
-Your MakeViral clip comes with its own sound: an original slow, sad piano melody with soft strings and quiet sobbing that turns warm at the cut to the memory. There are no lyrics and no copyrighted music, so the file is clean to post anywhere. The four top clips we checked also used their own audio. If you want a trending sound, add it in TikTok or Instagram when you post, and turn the original audio down.
+Your MakeViral clip comes with sound. **You and your partner** gets the film's own instrumental music, with no words, which turns warm at the cut to the golden field; you can turn it off on the result screen. **You and your pet** gets an original slow, sad piano melody with soft strings and quiet sobbing that turns warm at the cut to the memory. The four top clips we checked also used their own audio. If you want a trending sound, add it in TikTok or Instagram when you post, and turn the original audio down.
 
 **Captions** that work: "Would you still love me if I were a zombie?" (the classic), "In every lifetime", or a real line from your relationship, such as "I'd still pick you". Tag your partner: the trend lives on the reaction.
 
@@ -212,15 +184,15 @@ It is a TikTok trend from late September and October 2026. An AI video turns you
 
 ### How do I do the zombie AI trend?
 
-On this page, press "Create your own", add a photo of yourself and a photo of your partner or pet, and press Generate. Seedance 2.5 films the whole story from your two photos, with sound, in 10 seconds of video. With a pet, MakeViral first makes the zombie scene photo with Nano Banana 2.1, then animates it. You write no prompt and edit nothing.
+On this page, press "Create your own", add a photo of yourself and a photo of your partner or pet, and press Generate. With two people, top AI video models put your two faces into the film at the top of this page: 15 seconds with its music. With a pet, MakeViral first makes the zombie scene photo with Nano Banana 2.1, then animates it into 10 seconds. You write no prompt and edit nothing.
 
 ### What app is used for the zombie AI trend?
 
-TikTok tutorials use CapCut (the "My Beloved Zombie" template), Dreamina, PixVerse and Higgsfield. MakeViral does it on the web in one tap: for two people, Seedance 2.5 makes the video straight from your two photos; with a pet, Nano Banana 2.1 makes the zombie still first, then Seedance 2.0 Mini (Standard) or Seedance 2.5 (Best) makes the video.
+TikTok tutorials use CapCut (the "My Beloved Zombie" template), Dreamina, PixVerse and Higgsfield. MakeViral does it on the web in one tap: for two people, top AI video models put your two photos into the cinematic film; with a pet, Nano Banana 2.1 makes the zombie still first, then Seedance 2.0 Mini (Standard) or Seedance 2.5 (Best) makes the video.
 
 ### Is there a zombie AI video generator for this trend?
 
-Yes. This page works as a zombie AI video generator for the love story. It takes two photos and makes a 10-second vertical clip with the standoff, the hug and the cut to a memory, with original sound and no watermark.
+Yes. This page works as a zombie AI video generator for the love story. It takes two photos and makes a vertical clip with the standoff, the zombie and the cut to a memory, with sound and no watermark: 15 seconds for two people, 10 seconds with a pet.
 
 ### Can I make the zombie AI trend with my dog or cat?
 
@@ -232,31 +204,31 @@ Yes. The second photo always becomes the zombie. Put your partner's photo first 
 
 ### What is the zombie AI trend prompt?
 
-Each version has a photo prompt and a video prompt, and all of them are on this page to copy under "Edit the prompts yourself". The photo prompt sets the dim abandoned kitchen, the survivor with the gun and the zombie in the doorway; the video prompt plays the five beats and the hard cut to the memory.
+The two-people version has one video prompt that copies the film shot by shot: who replaces whom, the zombie look, the bite and the throwback to a golden day. The pet version has a photo prompt (the dim abandoned kitchen, the survivor with the bat, the zombie pet in the doorway) and a video prompt (the five beats and the hard cut to the memory). The prompts are on the create page under "Edit the prompts yourself".
 
 ### Is the gun a problem?
 
-It is the core of the trend, and the prompt keeps it a film prop: no shot is fired, there is no blood and no gore, and the gun drops to the floor. The pet version uses a baseball bat. If a model refuses, the credits come back.
+It is the core of the trend, and the prompt keeps it a film prop: no shot is fired and there is no blood and no gore. The pet version uses a baseball bat. If a model refuses, the credits come back.
 
 ### What does "Would you still love me if I were a zombie?" mean?
 
 It is the caption of the trend and a twist on the older "Would you still love me if I was a worm?" question couples ask each other on TikTok. The video gives the answer: yes, even now.
 
-### What is the Cinematic version, and is it the Higgsfield zombie AI template?
+### Is this the Higgsfield zombie AI template, the cinematic zombie love story?
 
-It is the zombie Higgsfield AI look, the "Cinematic Survivor Tale" template: a crying survivor in an olive parka aims at an infected partner in a dark house, lowers the gun, then a hard cut to the two of them in a golden field at sunset. Our Cinematic version copies the first 15 seconds of that film with your two photos (you first, then your partner) and puts its music back on. It costs more credits than the 10-second versions; the button shows the price first.
+Yes, for two people. The zombie Higgsfield AI look is the "Cinematic Survivor Tale" template: a crying survivor in an olive parka aims at an infected partner in a dark house, the partner lunges to bite, then a hard cut to a throwback of the two of them in a golden field at sunset. Since 10 November 2026 "You and your partner" copies 15 seconds of that film with your two photos (you first, then your partner), keeps the bite and the throwback, and puts its music back on. It costs more credits than the 10-second pet version; the button shows the price first.
 
 ### Can I make it with a parent or a best friend?
 
-Yes. Use the "You and your partner" version with any adult who agreed to it. The story and the hug work the same, and the memory scene becomes the two of you laughing in the sun.
+Yes. Use the "You and your partner" version with any adult who agreed to it. The story and the hug work the same, and the memory becomes the two of you in the golden field.
 
 ### How long is the video, and how long does it take to make?
 
-The clip is 10 seconds, vertical 9:16, 720p, with sound. It is ready in a few minutes. You can leave the page while it runs; the clip waits in My videos.
+With two people the clip is 15 seconds at 480p, with a pet 10 seconds at 720p, vertical 9:16, with sound. The film version takes 5 to 15 minutes, the pet version a few minutes. You can leave the page while it runs; the clip waits in My videos.
 
 ### Does the zombie AI trend video cost credits?
 
-Yes. Each video costs credits, and the create page shows the exact price on the Generate button before you spend anything. You and your partner uses Seedance 2.5. You and your pet has Standard (Seedance 2.0 Mini) and Best (Seedance 2.5, which costs more). If a video fails, the credits come back.
+Yes. Each video costs credits, and the create page shows the exact price on the Generate button before you spend anything. You and your partner copies a 15-second film, so it costs more. You and your pet has Standard (Seedance 2.0 Mini) and Best (Seedance 2.5, which costs more). If a video fails, the credits come back.
 
 ### Can I post my zombie trend video on TikTok or Instagram?
 
@@ -274,15 +246,15 @@ Yes. The MP4 has no watermark and carries original sound, so you can post it as 
 
 ## New AI video trends this week
 
-- [Turning My Mom Into Me: Put Your Mom in Your Outfit With AI](https://www.makeviral.ai/templates/turning-my-mom-into-me-ai-trend): Your mom walks down the hallway in her own clothes, walks out, and struts back in wearing your outfit. Add one photo of her and one of you in your outfit, and get the viral reel with its caption and its sound. Dad works too.
-- [Giant Cat AI Video: Make Your Pet a Giant in New York](https://www.makeviral.ai/templates/giant-cat-ai-video): Your cat walks down a New York avenue as tall as the towers, peers into a car window and leans on a skyscraper while helicopters circle. Add one photo of your pet, or of yourself, and get the 10-second clip with the street sound.
-- [Stuffed Animal UFC AI Video: Your Plush Wins the Fight](https://www.makeviral.ai/templates/stuffed-animal-ufc-ai-video): Your teddy, your pet or a plush version of you steps into the cage, lands the body shots, gets the knockout and celebrates with both arms up. One photo in, a 10-second clip with crowd and commentary sound out. Or add two photos and fight a friend: one wins, one goes down.
-- [Black and White Cinematic Video: You in the Classic Suit Stroll](https://www.makeviral.ai/templates/black-and-white-cinematic-ai-video): One photo of you becomes a 15-second black and white film: you walk past the hedges in a long black coat, smile at the windows, wave and laugh on the stone steps, then pause under a black umbrella, to a slowed phonk beat.
-- [Düğün Dansı AI: Put Your Friends in the Wild Turkish Wedding Dance](https://www.makeviral.ai/templates/dugun-oyunu-ai-trend): Two dancers go wild around the davul player in a Turkish wedding hall, a halay line bounces behind them, and a guest in a white tank top laughs into the camera at the end. Add three photos, two for a duo, or one of your pet.
-- [Hippo Pathway What If: Become the 541 ft Giant Pop Star](https://www.makeviral.ai/templates/hippo-pathway-giant-pop-star-ai-trend): What if a pop star was 100 times taller? Add one photo: you or your pet become the giant who sings and dances down a city avenue at dusk, or the giant pop star shows up in a photo of your own street.
+- [Tiger Fight AI: Beat the Tiger on CCTV](https://www.makeviral.ai/templates/cctv-tiger-fight-ai-trend): A security camera on a forest path. A tiger leaps out of the bushes, and you fight it and pin it to the ground. Add one photo of yourself or your pet, and the trend's phonk sound comes with it.
+- [The Office Parkour AI Trend: You Shout "Parkour!" in the Office](https://www.makeviral.ai/templates/the-office-parkour-ai-trend): Dive over the couch, land upside down and shout "Parkour!" into the camera, then jump off the reception counter while the crew leaps over the desks. The whole office parkour scene, 24 seconds, with its own shouts.
+- [Huell Money AI: The Breaking Bad Money Pile Scene, Starring You](https://www.makeviral.ai/templates/huell-money-ai-trend): A storage unit, a bed-size pile of cash, and you fall back onto it with your eyes closed while your friend tells you to quit it. Then they give in and lie down next to you. With the scene's own lines.
+- [Peaky Blinders Explosion Scene, Starring You](https://www.makeviral.ai/templates/peaky-blinders-explosion-ai-trend): A flat cap, a long black overcoat, a match at your lips. The red-brick manor blows up behind you and you walk slowly toward the camera through the smoke, never looking back. One photo, 15 seconds, with the clip's song.
+- [Mbappe Run vs Argentina AI: The Mbappe Sprint, Starring You](https://www.makeviral.ai/templates/mbappe-sprint-ai-trend): A sunny pitch, one long sprint with the ball, a defender in a striped shirt crashing into you, and you sitting on the grass complaining while the commentator shouts "It's a penalty!". In your own clothes. It is an AI video, not real match footage.
+- [Perfume Transition AI Trend: Spray, Flame, Gangster Look](https://www.makeviral.ai/templates/perfume-transition-ai-trend): Sniff the perfume, spray it at the camera, and a lighter turns the spray into a fireball. Add one photo, and you or your pet step out of the flame in a flat cap, dark sunglasses and a long magenta coat, with the trend's song.
 
 ## Make your own AI Zombie Love Story video
 
-Add two photos and press Generate. No prompt to write. 126 credits, charged once.
+Add two photos and press Generate. No prompt to write. 191 credits, charged once.
 
 [Make this video](https://www.makeviral.ai/templates/ai-zombie-trend/create)

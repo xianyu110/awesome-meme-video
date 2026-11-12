@@ -3,7 +3,7 @@
 > A Thanksgiving pfp is a Thanksgiving version of your profile picture, and people switch to one every November.
 
 Canonical: https://www.makeviral.ai/templates/thanksgiving-pfp-ai-trend
-Updated: 2026-11-06
+Updated: 2026-11-11
 Published: 2026-11-06
 Author: MakeViral Team (https://www.makeviral.ai/about)
 Publisher: MakeViral (https://www.makeviral.ai)
@@ -16,7 +16,7 @@ Also called: Fall profile picture, Turkey day pfp, Friendsgiving pfp, Y2K Thanks
 
 **Make it now:** [Make this photo](https://www.makeviral.ai/templates/thanksgiving-pfp-ai-trend/create). 1 photo in · 2K photo out · 9:16 · 3 credits, charged once · ready in a few minutes · no prompt to write.
 
-Keyword: thanksgiving pfp. Also answers: thanksgiving profile picture, thanksgiving pfp ai, thanksgiving pfp matching, thanksgiving matching pfp for couples, thanksgiving couple pfp, thanksgiving pfp ideas, thanksgiving ai, thanksgiving pfp aesthetic, thanksgiving pfp cute, thanksgiving pfp funny, thanksgiving pfp cat, thanksgiving dog pfp, thanksgiving pfps, thanksgiving profile pictures, matching thanksgiving pfp, matching thanksgiving pfps, matching thanksgiving profile pictures, thanksgiving profile picture ideas, cute thanksgiving profile pictures, thanksgiving profile picture funny, thanksgiving cat profile picture, happy thanksgiving pfp, happy thanksgiving profile picture, thanksgiving profile pictures for facebook, thanksgiving fb profile pictures, thanksgiving profile photo, thanksgiving pfp discord, thanksgiving pfp pinterest, thanksgiving pfp anime, thanksgiving pfp meme, thanksgiving turkey pfp, thanksgiving themed pfp, pfp for thanksgiving, thanksgiving pfp gif, thanksgiving ai pfp, thanksgiving filter, thanksgiving pfp maker, thanksgiving pfp generator, thanksgiving ai photo, y2k thanksgiving photo, fall pfp, fall pfp aesthetic, fall pfp matching, fall pfp cat, thanksgiving pfp prompt.
+Keyword: thanksgiving pfp. Also answers: thanksgiving profile picture, thanksgiving pfp ai, thanksgiving pfp matching, thanksgiving matching pfp, thanksgiving matching pfp for couples, thanksgiving couple pfp, thanksgiving pfp ideas, thanksgiving ai, thanksgiving pfp aesthetic, thanksgiving pfp cute, thanksgiving pfp funny, thanksgiving pfp cat, thanksgiving cat pfp, thanksgiving dog pfp, thanksgiving pfps, thanks giving pfp, thanksgiving profile pictures, matching thanksgiving pfp, matching thanksgiving pfps, thanksgiving matching pfps, matching thanksgiving profile pictures, thanksgiving profile picture ideas, cute thanksgiving profile pictures, thanksgiving profile picture funny, thanksgiving cat profile picture, happy thanksgiving pfp, happy thanksgiving profile picture, thanksgiving profile pictures for facebook, thanksgiving fb profile pictures, thanksgiving profile photo, thanksgiving pfp discord, thanksgiving pfp pinterest, thanksgiving pfp anime, thanksgiving pfp meme, thanksgiving turkey pfp, thanksgiving themed pfp, pfp thanksgiving, pfp for thanksgiving, thanksgiving pfp gif, thanksgiving ai pfp, thanksgiving filter, thanksgiving pfp maker, thanksgiving pfp generator, thanksgiving ai photo, y2k thanksgiving photo, fall pfp, fall pfp aesthetic, fall pfp matching, fall pfp cat, thanksgiving pfp prompt.
 
 ## What is the Thanksgiving PFP trend, and where did it start?
 
@@ -32,7 +32,7 @@ The 2026 season started early. On 2 November 2026 cartoon Thanksgiving backgroun
 - **2024-11-28**: @g0regirlll posts a vintage cartoon Thanksgiving clip ("Happy Thanksgiving!"): about 116,000 plays and 9,200 likes. Source: [TikTok](https://www.tiktok.com/@g0regirlll/video/7442375557519609130).
 - **2025-11**: US Google searches for "thanksgiving pfp" reach 8,100 in the month (590 in October 2025), and "thanksgiving profile picture" reaches 3,600.
 - **2026-11-02**: Cartoon Thanksgiving background posts return to TikTok for the new season. Source: [TikTok](https://www.tiktok.com/@backgrounds3219/video/7703388868292201742).
-- **2026-11-04**: An AI prompt guide publishes 60+ Thanksgiving photo prompts, led by an early-2000s flash photo with a pumpkin pie in a retro kitchen.
+- **2026-11-04**: An AI prompt guide publishes 60+ Thanksgiving photo prompts, led by an early-2000s flash photo with a pumpkin pie in a retro kitchen. Source: [Anijam](https://www.anijam.ai/blog/ai-thanksgiving-prompts/).
 
 ## What the Thanksgiving PFP photo looks like
 
@@ -205,7 +205,7 @@ Switch in early November and keep it until Thanksgiving, then move on to your Ch
 
 ### What is a Thanksgiving pfp?
 
-It is a Thanksgiving profile picture: a seasonal version of your pfp that you switch to in November. On TikTok, #thanksgivingpfps dates from 20 November 2022, and in the US, Google searches for "thanksgiving pfp" reached 8,100 in November 2025. Most posts use found cartoon pictures; this template puts you in the picture.
+It is a Thanksgiving profile picture: a seasonal version of your pfp that you switch to in November. On TikTok, #thanksgivingpfps dates from 20 November 2022, and in the US, Google searches for "thanksgiving pfp" reached 8,100 in November 2025. Most posts use found cartoon pictures; this template puts you in the picture. Some people type it as two words, thanks giving pfp.
 
 ### How do I make a Thanksgiving pfp with AI?
 
@@ -270,6 +270,7 @@ Yes. The create page shows the exact price on the Generate button before you spe
 ## Other AI video templates and tools
 
 - [Christmas PFP: Turn Your Photo Into a Christmas Profile Picture](https://www.makeviral.ai/templates/christmas-pfp-ai-trend): Add one selfie or one pet photo. MakeViral gives it a red Santa hat, falling snow and warm fairy lights, or redraws it as a Christmas cartoon, with your face in the middle for the profile picture circle.
+- [Beans Greens Potatoes Tomatoes Dance: Your Thanksgiving Bend](https://www.makeviral.ai/templates/thanksgiving-dance-ai-trend): "Beans, greens, potatoes, tomatoes ... you name it!" Add one photo, and you or your pet dance the Thanksgiving bend from a real take of the trend, with the remix on.
 - [AI Pumpkin Head Photoshoot: The Halloween Trend From One Photo](https://www.makeviral.ai/templates/ai-pumpkin-head-photoshoot): Your outfit stays, your head becomes a glowing carved jack-o'-lantern in an open field at dusk, shot on film. No pumpkin to carve, no field to find. Solo, as a couple, or as a short video.
 - [AI Christmas Photo: A Christmas Photoshoot From One Selfie](https://www.makeviral.ai/templates/ai-christmas-photoshoot): Add one selfie. MakeViral turns it into a studio Christmas photoshoot: a lit tree and a Santa hat, a snow throw in the golden winter sun, a red gown among the gifts, candy canes, a cozy sweater, or a couple by the tree. Your face stays the same.
 - [Nano Banana 2](https://www.makeviral.ai/tools/nano-banana-2-image-generator): Google's image model, in a browser tab, with the reference-image dropzone that makes it useful: up to 14 photos in, one new image out.
@@ -278,12 +279,12 @@ Yes. The create page shows the exact price on the Generate button before you spe
 
 ## New AI video trends this week
 
-- [Christmas Dance AI: Do the New TikTok Christmas Dance From Your Photos](https://www.makeviral.ai/templates/christmas-dance-ai-trend): Hip sways with the hands at the collar, rolling arms, a quick spin and raised fists, side by side in matching Christmas pajamas. Add two photos for the duo, one for a solo take, or two pets, and get the dance with the sound.
-- [Cat on Ultra Bee AI: Put Your Pet on the Wheelie](https://www.makeviral.ai/templates/cat-on-ultra-bee-ai-trend): Add one photo, and your cat or dog stands on an electric dirt bike and holds a long wheelie down a city road at golden hour, in the same shots as the viral clip, with its original sound. You can take the ride yourself, too.
-- [Tus Ojos Me Reflejan el Sentimiento: The Cafuné Eye Close-Up Trend](https://www.makeviral.ai/templates/tus-ojos-me-reflejan-ai-trend): You lie on your side, a hand rests on your cheek, warm light falls on your face, and the camera slowly moves in until your eyes fill the screen while the line plays. One photo in, an 8-second vertical clip with the trend's song out.
-- [İnşallah Maşallah AI Trend: Sing Neşe Karaböcek's Song on the Couch](https://www.makeviral.ai/templates/insallah-masallah-ai-trend): You sit on a light grey couch and sing the old Turkish love song straight to the camera: a hand on the heart, a big laugh with both hands on your head, a finger pointed at the camera and a kiss at the end. One photo of you, a grandparent or your pet, and the 15-second clip comes with the song.
-- [Ice Ice Baby Dance AI: Do the Viral Duo Dance With a Friend](https://www.makeviral.ai/templates/ice-ice-baby-dance-ai): Two dancers side by side, the same bouncy 90s steps, a spin on the beat and a strut to the camera. Add a photo of you and a friend, of you alone, or of your pet, and get the dance with the sound.
-- [Save Yourself Trend: Pull Yourself Up From the Cliff](https://www.makeviral.ai/templates/save-yourself-ai-trend): One photo plays both of you: the scared you clinging to a wet sea cliff, and the calm you who reaches down, pulls you up and holds you. Or use two photos: an older photo of you and a new one, or you and a friend. 15 seconds, vertical.
+- [Tiger Fight AI: Beat the Tiger on CCTV](https://www.makeviral.ai/templates/cctv-tiger-fight-ai-trend): A security camera on a forest path. A tiger leaps out of the bushes, and you fight it and pin it to the ground. Add one photo of yourself or your pet, and the trend's phonk sound comes with it.
+- [The Office Parkour AI Trend: You Shout "Parkour!" in the Office](https://www.makeviral.ai/templates/the-office-parkour-ai-trend): Dive over the couch, land upside down and shout "Parkour!" into the camera, then jump off the reception counter while the crew leaps over the desks. The whole office parkour scene, 24 seconds, with its own shouts.
+- [Huell Money AI: The Breaking Bad Money Pile Scene, Starring You](https://www.makeviral.ai/templates/huell-money-ai-trend): A storage unit, a bed-size pile of cash, and you fall back onto it with your eyes closed while your friend tells you to quit it. Then they give in and lie down next to you. With the scene's own lines.
+- [Peaky Blinders Explosion Scene, Starring You](https://www.makeviral.ai/templates/peaky-blinders-explosion-ai-trend): A flat cap, a long black overcoat, a match at your lips. The red-brick manor blows up behind you and you walk slowly toward the camera through the smoke, never looking back. One photo, 15 seconds, with the clip's song.
+- [Mbappe Run vs Argentina AI: The Mbappe Sprint, Starring You](https://www.makeviral.ai/templates/mbappe-sprint-ai-trend): A sunny pitch, one long sprint with the ball, a defender in a striped shirt crashing into you, and you sitting on the grass complaining while the commentator shouts "It's a penalty!". In your own clothes. It is an AI video, not real match footage.
+- [Perfume Transition AI Trend: Spray, Flame, Gangster Look](https://www.makeviral.ai/templates/perfume-transition-ai-trend): Sniff the perfume, spray it at the camera, and a lighter turns the spray into a fireball. Add one photo, and you or your pet step out of the flame in a flat cap, dark sunglasses and a long magenta coat, with the trend's song.
 
 ## Make your own Thanksgiving PFP photo
 

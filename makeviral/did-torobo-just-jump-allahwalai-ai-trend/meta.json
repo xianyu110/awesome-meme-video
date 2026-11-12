@@ -6,11 +6,16 @@
   "url": "https://www.makeviral.ai/templates/did-torobo-just-jump-allahwalai-ai-trend",
   "markdown_url": "https://www.makeviral.ai/templates/did-torobo-just-jump-allahwalai-ai-trend.md",
   "blurb": "Did Torobo just jump?",
-  "updated": "2026-11-05",
+  "updated": "2026-11-11",
   "published": "2026-11-05",
   "credits": 198,
-  "demo_videos": [],
-  "posters": [],
+  "demo_videos": [
+    "https://www.makeviral.ai/media/templates/did-torobo-just-jump-allahwalai-ai-trend/example-main-v1.mp4"
+  ],
+  "posters": [
+    "https://www.makeviral.ai/media/templates/did-torobo-just-jump-allahwalai-ai-trend/example-main-input.jpg",
+    "https://www.makeviral.ai/media/templates/did-torobo-just-jump-allahwalai-ai-trend/example-main-poster.jpg"
+  ],
   "prompts": [
     {
       "label": "1. The video prompt is filled in. Settings: Seedance 2.5, 13 s, 720p, 9:16, sound off. The video prompt",
@@ -26,6 +31,7 @@
     }
   ],
   "variant_headings": [
+    "What the Torobo AI Trend video looks like",
     "How to make the Torobo AI Trend video on MakeViral",
     "Which photo works best?",
     "What happens in the Torobo AI trend video, second by second?",
@@ -39,5 +45,5 @@
     "Make your own Torobo AI Trend video"
   ],
   "prompt_count": 2,
-  "scraped_at": "2026-11-08"
+  "scraped_at": "2026-11-12"
 }
