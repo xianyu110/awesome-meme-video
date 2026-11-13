@@ -38,7 +38,7 @@ Exactly one person, who becomes one wolf. No nudity: the torn clothes and the gr
 Use the uploaded image as the base. 9:16 vertical photo, a dark cinematic film still: anamorphic lens, 35mm film, soft lens glare. The pet from the uploaded image stands on a dark backyard lawn at night under a huge, bright full moon, a wooden fence and black trees behind, cold blue moonlight, its whole body in view, facing the camera three-quarters, the moonlight on its fur. Exactly one animal and no people. No clothes on the pet. No text, no logos, no watermark.
 ```
 
-### 3. 3. Press the film button on the still to open AI Video with the still as the first frame. Settings: Kling 3.0, 10 s, 1080p, 9:16, sound on. The video prompt
+### 3. 3. Press the film button on the still to open AI Video with the still as the first frame. Settings: Seedance 2.5, 10 s, 720p, 9:16, sound on. The video prompt
 
 *Kind: video_prompt*
 

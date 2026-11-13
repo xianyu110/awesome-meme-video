@@ -54,7 +54,7 @@
       "text": "Use the uploaded image as the base. 9:16 vertical photo, like a real phone photo taken from the audience at a glamorous televised fashion show. The pet from the uploaded image stands on its four paws at the far end of a long glossy runway, facing the camera, with small white feathered angel wings strapped to its back, sized for the pet, and a thin sparkling crystal collar. Its whole body is in view, from the ears to the paws, with its tail. A dark arena full of cheering people on both sides, small blue spotlights, white beams, photographers at the foot of the runway. Realistic photo with natural colors. Exactly one animal on the runway and no people on it. No clothes on the pet except the wings and the collar. No text, no logos, no letters on the stage or the screens, no watermark."
     },
     {
-      "label": "3. Press the film button on the still to open AI Video with the still as the first frame. Settings: Kling 3.0, 10 s, 1080p, 9:16, sound on. The video prompt",
+      "label": "3. Press the film button on the still to open AI Video with the still as the first frame. Settings: Seedance 2.5, 10 s, 720p, 9:16, sound on. The video prompt",
       "variant": null,
       "kind": "video_prompt",
       "text": "One continuous handheld take filmed from the audience at a fashion show, slowly zooming in. Keep the animal's face, fur, markings, tail and size, the small white wings, the collar, the runway and the arena exactly as in the image.\n0-2 s: the pet stands at the far end of the runway and looks around at the cheering crowd.\n2-6 s: it trots down the runway toward the camera like a supermodel, a proud, bouncy catwalk on four legs, the wings bouncing softly with each step, camera flashes popping on both sides.\n6-8 s: the camera zooms in closer: the pet stops at the end of the runway and turns its head to one side and then the other for the photographers.\n8-10 s: it looks straight into the lens, tilts its head and gives a quick lick of its nose, like a kiss to the camera.\nAudio: an upbeat, glossy runway pop instrumental with no singing, a cheering crowd, whistles and camera shutters clicking. The pet never speaks. Exactly one animal on the runway, no people on it. No extra animals, no extra legs, no morphing. The wings stay on its back. No text, no subtitles, no logos, no watermark."
@@ -77,5 +77,5 @@
     "Make your own VS Angel Runway AI video"
   ],
   "prompt_count": 6,
-  "scraped_at": "2026-11-12"
+  "scraped_at": "2026-11-13"
 }

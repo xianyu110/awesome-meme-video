@@ -36,7 +36,7 @@
       "text": "Use the uploaded image as the base. 9:16 vertical photo, like a still from a lavish period film: a lavish 1920s gala at night on the marble terrace of a grand seaside mansion: guests in 1920s evening wear dance and laugh, a jazz band in white jackets plays on a small stage, strings of warm golden lights hang overhead, gold confetti floats in the air, and a dark blue night sky stretches over the water. In front, sharp, the pet from the uploaded image sits upright on a red velvet chair by the stone railing, its whole body in view, facing the camera three-quarters, wearing a small black satin bow tie on a thin collar, one front paw resting on the stem of a crystal coupe glass of sparkling champagne on a small round table. The guests behind are soft and out of focus. Rich warm gold and deep blue colors, soft film grain. Exactly one animal in focus, no people in front. The pet keeps its natural body shape and four legs; no other clothes on the pet. No text, no logos, no watermark."
     },
     {
-      "label": "3. Press the film button on the still to open AI Video with the still as the first frame. Settings: Kling 3.0, 10 s, 1080p, 9:16, sound on. The video prompt",
+      "label": "3. Press the film button on the still to open AI Video with the still as the first frame. Settings: Seedance 2.5, 10 s, 720p, 9:16, sound on. The video prompt",
       "variant": null,
       "kind": "video_prompt",
       "text": "The pet turns its head to the camera and looks straight into the lens, then lifts the champagne coupe toward the camera in its front paw for a cheers, with party lights flickering in the background, while gold and white fireworks burst in the night sky behind it. The camera slowly pushes in to a medium close-up. It holds the toast and tilts its head with a proud, pleased look as gold confetti drifts down. The pet never drinks. The pet is exactly the pet from the image in every frame: the same face, eyes, ears, fur colors, markings and the small black bow tie, with the natural body volume and proportions of that animal. One continuous shot, no cuts. Audio: an original upbeat 1920s big band jazz tune with brass and piano, the cheerful murmur of the crowd, the clink of glasses and the boom and crackle of fireworks. No dialogue throughout the entire video. Exactly one animal in focus, no human hands, no people in front. No text, no logos, no watermark."
@@ -59,5 +59,5 @@
     "Make your own Leo Cheers video"
   ],
   "prompt_count": 4,
-  "scraped_at": "2026-11-12"
+  "scraped_at": "2026-11-13"
 }

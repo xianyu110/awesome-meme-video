@@ -25,7 +25,7 @@ The shaking head trend is the October 2026 TikTok meme where an animal stares in
 Zoom in on the pet's head: a tight close-up at the pet's eye level. The head fills most of the frame: the ear tips near the top edge, the face as wide as about two thirds of the frame, the chin a little below the middle, the top of the chest at the bottom edge. The legs, the paws and the lower body are out of the frame. Do not keep the framing of the photo if it shows more of the body. Use the uploaded image as the base. Keep the animal's species, breed, face, eye color, fur color, fur length, markings and body size exactly the same as in the photo. A real phone photo of the same pet in the same real place from the photo, with the same colors and light. The face turned straight to the camera, both eyes open, the mouth closed, a calm face. Soft natural light, natural fur detail, a little phone-camera softness. Photorealistic, not a cartoon, not CGI. Vertical 9:16. Exactly one animal. No people, no hands, no clothes on the pet, no camera app interface, no text, no logos.
 ```
 
-### 2. 3. Press the film button on the still to open AI Video with the still as the first frame. Settings: Kling 3.0, 10 s, 1080p, 9:16, sound on. The video prompt
+### 2. 3. Press the film button on the still to open AI Video with the still as the first frame. Settings: Seedance 2.5, 10 s, 720p, 9:16, sound on. The video prompt
 
 *Kind: video_prompt*
 

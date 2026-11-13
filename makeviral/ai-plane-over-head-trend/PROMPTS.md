@@ -61,7 +61,7 @@ Anatomy rules: one head only, on the person's shoulders. A face never appears on
 Use the uploaded image as the base. Keep the animal's species, breed, face, eye color, fur color, fur length, markings and body size exactly the same as in the photo. 9:16 vertical travel portrait. The pet from the reference image sits on the wide ledge of the guardrail at airport viewing platform, in profile, looking up at the sky with its ears up. Low wide-angle shot with a low-flying airliner overhead. Warm golden dusk rim light, strong perspective, 8K realistic photo with film texture. Exactly one animal and no people. No clothes on the pet. The airliner is plain white with no airline name, no logo, no tail emblem, no lettering and no registration number. No text, no logos, no watermark.
 ```
 
-### 5. 3. Press the film button on the still to open AI Video with the still as the first frame. Settings: Kling 3.0, 8 s, 1080p, 9:16, sound on. The video prompt
+### 5. 3. Press the film button on the still to open AI Video with the still as the first frame. Settings: Seedance 2.5, 8 s, 720p, 9:16, sound on. The video prompt
 
 *Kind: video_prompt*
 

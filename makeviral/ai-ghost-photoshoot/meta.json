@@ -51,7 +51,7 @@
       "text": "Use the uploaded image as the base. Keep the person's face, facial features, skin tone, hair, body shape and outfit exactly the same as in the photo. The person stands in the middle of a path covered in orange and yellow fallen leaves in an autumn park, tall trees in fall colors behind, golden afternoon light. They hold a plain white cotton bedsheet over their head like a hood with both hands: the sheet hangs down their back and sides to the knees, the front edge is held up above the forehead, and the whole face and hair fringe are clearly visible. They smile playfully at the camera, about to pull the sheet down over their face for the ghost photoshoot. A pair of round black sunglasses hangs from the neckline of their top. Full body from head to shoes, camera at chest height. Soft 35mm film photo, warm muted colors, natural grain, a real photo. Vertical 9:16. Exactly one person, no text, no logos."
     },
     {
-      "label": "3. Press the film button on the still to open AI Video with the still as the first frame. Settings: Seedance 2.0 Mini, 6 s, 720p, 9:16, sound on. The video prompt",
+      "label": "3. Press the film button on the still to open AI Video with the still as the first frame. Settings: Seedance 2.5, 6 s, 720p, 9:16, sound on. The video prompt",
       "variant": null,
       "kind": "video_prompt",
       "text": "A playful autumn clip for the ghost photoshoot trend, one continuous shot. Keep the person's face, hair, outfit and shoes exactly as in the image. The person smiles at the camera, then pulls the white bedsheet down over their face so it covers the head and body like a classic cartoon ghost, falling to just above the knees. They take the round black sunglasses and set them on the sheet where the eyes are. Then the little ghost strikes a cute pose, tilts its head and gives a small wave to the camera. Orange leaves drift down and blow across the path. The camera stays still at chest height with a slight handheld sway. Audio: soft rustling leaves, a light breeze and an original playful acoustic guitar tune. No dialogue, no lyrics, no text, no logos."
@@ -69,5 +69,5 @@
     "Make your own Ghost Photoshoot photo"
   ],
   "prompt_count": 5,
-  "scraped_at": "2026-11-12"
+  "scraped_at": "2026-11-13"
 }

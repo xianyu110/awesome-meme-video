@@ -103,7 +103,7 @@ Audio: loud, upbeat Latin party music with a reggaeton beat, party chatter and s
 Use the uploaded image as the base. 9:16 vertical photo, like a real phone photo taken from low down, at the pet's eye level, at a party at night. The pet from the uploaded image stands on the shiny dance floor of a quinceañera party hall at night with purple, pink and green party lights, white curtains, flower centerpieces on round tables, gold chairs and grown-up guests in party dresses and shirts dancing; the guests are soft and out of focus, seen mostly from the waist down at this low height. The pet stands a few steps from the camera, facing the camera, with a small round sweet bread with a pink sugar shell held gently in its mouth, ears up, looking into the lens with a cool, serious face. Its whole body is in view, with its tail, and purple and pink party light falls on its fur. Realistic photo with natural colors and a soft, shallow depth of field. Exactly one animal. No clothes on the pet. No text, no logos, no watermark.
 ```
 
-### 6. 3. Press the film button on the still to open AI Video with the still as the first frame. Settings: Kling 3.0, 10 s, 1080p, 9:16, sound on. The video prompt
+### 6. 3. Press the film button on the still to open AI Video with the still as the first frame. Settings: Seedance 2.5, 10 s, 720p, 9:16, sound on. The video prompt
 
 *Kind: video_prompt*
 

@@ -19,12 +19,23 @@ The remember your gym bro AI video copies the viral tiny knight and giant reel s
 
 ## Prompts
 
-### 1. 1. The video prompt is filled in. Settings: Seedance 2.0 Mini, 10 s, 720p, 9:16, sound on. The video prompt
+### 1. 1. The video prompt is filled in. Settings: Seedance 2.5, 10 s, 720p, 9:16, sound off. The video prompt
 
 *Kind: video_prompt*
 
 ```text
-[Video 1] is a motion guide only. Copy its camera moves, timing and actions, the foggy green field and the soft grey lightWhen the camera pulls back, the huge figure who stands next to the tiny knight and holds a giant sword upright in front of the chest is the one in [Image 2]: very tall and very muscular, in a tight grey t-shirt and black trousers, staring calmly ahead. Keep the face, hair and skin tone from [Image 2] in every shot, with no mask and no helmet: the face stays visible. Photorealistic, like a real film. One continuous shot. Sound: strong wind and an original epic orchestral score, no lyrics, no dialogue. No text, no subtitles, no logos, no extra people or animals.
+Recreate the reference video [Video 1] shot for shot: the same foggy green field in the wind, the same soft grey light, the same wide frame, the same big close-up at the start, the same slow pull-back of the camera to the wide shot, the same timing. The ONLY change: [Image 1] replaces the kitten knight with the pink bow, and [Image 2] replaces the man in the black balaclava. Both change: no one from the video stays, also in the wide shot.
+
+The tiny knight = the one in [Image 1], in EVERY shot. If [Image 1] shows an animal: the same species and breed, face, eyes, ears, muzzle, fur colors, fur length and markings as in [Image 1], with the natural body volume and proportions of that animal: never flattened, squashed or stretched. If [Image 1] shows a person: the exact face from [Image 1] (the face shape, eye color and eye shape, eyebrows, nose, mouth, skin tone, age, hair color, hair length and hairstyle, and any beard, moustache, glasses or freckles), tiny next to the big one. The tiny knight wears small silver plate armor and a short cream cape and holds the long sword upright in front of the chest, as in [Video 1]. NO pink bow and no hair clip. Never drift back to the kitten of [Video 1]: no kitten face, no cat ears and no fur unless [Image 1] shows a cat.
+
+The big one = the person in [Image 2], in EVERY shot: copy the exact face from [Image 2] (the face shape, eye color and eye shape, eyebrows, nose, mouth, skin tone, age, hair color, hair length and hairstyle, and any beard, moustache, glasses or freckles), so their friends recognize them at once. NO balaclava, NO mask and NO helmet: the whole face is visible, with the hair of [Image 2], and the hair never falls over the face. Very tall and very muscular, in a plain tight grey t-shirt with no print and black trousers, holding a giant sword upright in front of the chest and staring calmly ahead. If [Image 2] shows an animal, the big one is that animal, huge and standing upright, with its own face, fur and markings. Never morph, never drift back to the masked man of [Video 1].
+
+Shots, matching [Video 1]:
+0-3 s: big close-up of the tiny knight with the sword, the face clearly the one from [Image 1].
+3-5 s: the camera pulls back, and the big one's legs in black trousers step in beside the tiny knight.
+5-10 s: wide shot: the big one stands next to the tiny knight with the giant sword upright, the face from [Image 2] in full view.
+
+Anatomy rules: one head each, on its own body. Two different people: never blend the faces. Exactly two figures, no extra people or animals. No text, no logos, no watermark.
 ```
 
 ### 2. 1. The video prompt is filled in. Settings: Seedance 2.5, 15 s, 720p, 9:16, sound off. The video prompt

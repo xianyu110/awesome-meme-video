@@ -91,7 +91,7 @@ One-tap version of this variant: https://www.makeviral.ai/templates/ai-halloween
 
 #### Variant: Costume reveal video
 
-Settings: 1 photo (your photo, whole body) · Seedance 2.0 Mini · 6 s · 720p · 9:16 · with sound · 17 credits in one tap.
+Settings: 1 photo (your photo, whole body) · Seedance 2.5 · 6 s · 720p · 9:16 · with sound · 78 credits in one tap.
 
 1. Open [AI Photo with this template](https://www.makeviral.ai/photo?template=ai-halloween-costume&variant=reveal) and add your photo (your photo, whole body). The photo prompt is filled in:
 
@@ -100,7 +100,7 @@ Settings: 1 photo (your photo, whole body) · Seedance 2.0 Mini · 6 s · 720p �
    ```
 
 2. Check the still before you spend credits on the video. Everything the video model does starts from that one frame.
-3. Press the film button on the still to open AI Video with the still as the first frame. Settings: Seedance 2.0 Mini, 6 s, 720p, 9:16, sound on. The video prompt:
+3. Press the film button on the still to open AI Video with the still as the first frame. Settings: Seedance 2.5, 6 s, 720p, 9:16, sound on. The video prompt:
 
    ```text
    One continuous handheld phone shot at a Halloween house party at night, with no cuts. Keep the person's face, hair and body exactly as in the image for the whole clip. The person grins at the camera, snaps their fingers and does one quick full spin on the spot. During the spin, a swirl of orange sparks and soft smoke wraps around them and their everyday clothes change into a complete witch costume: a tall black pointed hat, a long black witch robe with lace sleeves, a short cape and black boots. They stop facing the camera in the full costume, strike a proud pose and laugh. Only the clothes change, the face stays the same. The friends in the blurred background cheer. Audio: party chatter, a magical whoosh and sparkle on the spin, friends cheering, and an original playful spooky tune. No text, no logos.
@@ -160,9 +160,9 @@ In our tests both faces stayed the same, and the people did not blend into each 
 The "costume transition" is the Halloween video where someone stands in everyday clothes, spins or snaps, and lands in the full costume. On TikTok it takes two shots and a careful cut. The **Costume reveal video** version makes it with AI from one photo, as one quick costume change:
 
 1. Nano Banana 2.1 puts you, in your own clothes, at a Halloween party.
-2. Seedance 2.0 Mini animates 6 seconds at 720p: you grin, snap your fingers and spin, orange sparks swirl, and you stop in the costume, laughing, while friends cheer. The clip has sound: the prompt asks for party noise, a whoosh on the spin, cheering and an original spooky tune, with no known song.
+2. Seedance 2.5 animates 6 seconds at 720p: you grin, snap your fingers and spin, orange sparks swirl, and you stop in the costume, laughing, while friends cheer. The clip has sound: the prompt asks for party noise, a whoosh on the spin, cheering and an original spooky tune, with no known song.
 
-Type a costume in Make it yours to change the witch into anything else. We made 3 reveal clips from 2 AI-made people with these prompts and all 3 changed only the clothes, not the face. Seedance 2.0 Mini is the default (Standard). The Best option uses Seedance 2.5 for more detail at a higher price; we did not test it on this prompt.
+Type a costume in Make it yours to change the witch into anything else. Our 3 test clips from 2 AI-made people, made with these prompts on an earlier video model, changed only the clothes, not the face. A video takes a few minutes, and it waits in My videos when it is ready.
 
 ## What goes wrong with an AI costume try-on, and how do you fix it?
 
@@ -176,7 +176,7 @@ We tested these prompts on AI-made adults before we published them. These are th
 | You look slimmer or taller | Says "do not slim, reshape or beautify" | Use a straight, full-body photo. A wide-angle or close photo distorts the body. |
 | Half your body is made up | The model must invent what it cannot see | Use a photo from head to shoes. |
 | A famous character looks off | Makes a generic costume with no logos on purpose | That is the rule, not a bug. |
-| The video morphs the face | Says "only the clothes change, the face stays the same" | It did not happen in our 3 tests. Run it again, or pick Best. |
+| The video morphs the face | Says "only the clothes change, the face stays the same" | It did not happen in our 3 early tests. Run it again. |
 
 ## Halloween Costume trend questions
 
@@ -242,7 +242,7 @@ Yes. Pick "Costume reveal video" and add one full-body photo. You get a 6-second
 
 ### Which AI models does it use?
 
-The photo versions use Nano Banana 2.1 at 2K. The reveal video uses Nano Banana 2.1 for the first frame, then Seedance 2.0 Mini at 720p for 6 seconds, the default (Standard) option. The Best option uses Seedance 2.5 instead. We picked Mini after it made 5 good clips in 5 runs on this page and the pet costume page; Veo 3.1 Lite failed 4 of 5 runs with a server error on our test day.
+The photo versions use Nano Banana 2.1 at 2K. The reveal video uses Nano Banana 2.1 for the first frame, then Seedance 2.5 at 720p for 6 seconds. It is the only video option, and a video takes a few minutes.
 
 ### Does it cost credits?
 
@@ -276,12 +276,12 @@ Yes, on its own page: the [AI pet Halloween costume](https://www.makeviral.ai/te
 
 ## New AI video trends this week
 
-- [Tiger Fight AI: Beat the Tiger on CCTV](https://www.makeviral.ai/templates/cctv-tiger-fight-ai-trend): A security camera on a forest path. A tiger leaps out of the bushes, and you fight it and pin it to the ground. Add one photo of yourself or your pet, and the trend's phonk sound comes with it.
-- [The Office Parkour AI Trend: You Shout "Parkour!" in the Office](https://www.makeviral.ai/templates/the-office-parkour-ai-trend): Dive over the couch, land upside down and shout "Parkour!" into the camera, then jump off the reception counter while the crew leaps over the desks. The whole office parkour scene, 24 seconds, with its own shouts.
-- [Huell Money AI: The Breaking Bad Money Pile Scene, Starring You](https://www.makeviral.ai/templates/huell-money-ai-trend): A storage unit, a bed-size pile of cash, and you fall back onto it with your eyes closed while your friend tells you to quit it. Then they give in and lie down next to you. With the scene's own lines.
-- [Peaky Blinders Explosion Scene, Starring You](https://www.makeviral.ai/templates/peaky-blinders-explosion-ai-trend): A flat cap, a long black overcoat, a match at your lips. The red-brick manor blows up behind you and you walk slowly toward the camera through the smoke, never looking back. One photo, 15 seconds, with the clip's song.
-- [Mbappe Run vs Argentina AI: The Mbappe Sprint, Starring You](https://www.makeviral.ai/templates/mbappe-sprint-ai-trend): A sunny pitch, one long sprint with the ball, a defender in a striped shirt crashing into you, and you sitting on the grass complaining while the commentator shouts "It's a penalty!". In your own clothes. It is an AI video, not real match footage.
-- [Perfume Transition AI Trend: Spray, Flame, Gangster Look](https://www.makeviral.ai/templates/perfume-transition-ai-trend): Sniff the perfume, spray it at the camera, and a lighter turns the spray into a fireball. Add one photo, and you or your pet step out of the flame in a flat cap, dark sunglasses and a long magenta coat, with the trend's song.
+- [Kara Sevda AI Trend: Your AI Video with Celebrity Stars Kemal and Emir](https://www.makeviral.ai/templates/ai-video-with-celebrity): You film a night selfie, the camera swings to the Kemal look-alike in his navy suit, face to face with you, and the Emir look-alike walks in and rests his head on his shoulder, jealous. One photo is enough. It is an AI video with look-alikes, not a real meeting.
+- [Misanthropy Meme AI: You as the Horned Anime Side-Eye](https://www.makeviral.ai/templates/misanthropy-meme-ai-trend): Your photo becomes a hand-drawn anime character with small horns. It glances left and right on a gray screen, then the background floods red and it breaks into a slow, smug grin, twice, to the trend's laughing beat. One photo in, an 8-second vertical clip out.
+- [Ahh Almost Almost: Train Hard, Miss by an Inch, From One Photo](https://www.makeviral.ai/templates/almost-almost-ai-trend): "While they're out partying btw": you grind alone late at night. Then the big shot rolls around the rim and out, twice, as the sound groans "ahhh almost almost". One photo in, an 11-second clip with the trend's own sound out.
+- [If I Was ChatGPT Trend: Your Observe, Just Observe Mood Board](https://www.makeviral.ai/templates/if-i-was-chatgpt-trend): Add one photo. The AI looks at it, picks the city, season, flower, painting, animal and element that fit you, and puts them around your photo in one mood board with short labels.
+- [Davul Zurna Yapay Zeka: Dance and Sing in the Viral Warehouse Clip](https://www.makeviral.ai/templates/davul-zurna-ai-trend): You dance between a zurna player and a davul player in a big workshop, walk up to the camera, sing right into it and walk back with your arms up. One photo, three for the whole band, or your pet. 15 seconds, with the live davul and zurna.
+- [Come On Barbie Let's Go Party AI: Do the Barbie Girl Dance Trend From Two Photos](https://www.makeviral.ai/templates/barbie-girl-dance-ai-trend): You turn around, sway your hips, pump a fist on "ah ah ah yeah" and lean on each other, side by side, on the sped-up Barbie Girl beat. Add two photos and get a real couple's viral reel with your faces and the song.
 
 ## Make your own Halloween Costume photo
 

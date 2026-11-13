@@ -30,7 +30,7 @@
       "text": "Use the uploaded image as the base. 9:16 vertical photo, a sports broadcast frame with a long lens at a packed football stadium at night. The pet from the uploaded image stands upright on its hind legs at the very front of the stands, in a small dark suit jacket over a plain light shirt collar and a small dark tie, its face turned three-quarters to the camera with a calm, unbothered look, both front paws held low. Right behind, a dense wall of fans fills the whole background, on their feet, roaring, arms up, in plain white and plain blue tops, lit by bright stadium light; stewards in plain yellow hi-vis vests in the front row. Exactly one animal. No club crests, no sponsor logos, no names or numbers on shirts, no words on vests or banners. No text, no logos, no watermark."
     },
     {
-      "label": "3. Press the film button on the still to open AI Video with the still as the first frame. Settings: Kling 3.0, 10 s, 1080p, 9:16, sound on. The video prompt",
+      "label": "3. Press the film button on the still to open AI Video with the still as the first frame. Settings: Seedance 2.5, 10 s, 720p, 9:16, sound on. The video prompt",
       "variant": null,
       "kind": "video_prompt",
       "text": "One continuous handheld shot like a sports broadcast camera with a long lens. Keep the pet exactly as in the image: the same face, eyes, ears, fur and markings, and the small dark suit jacket and tie, with the natural body volume of that animal. The pet glances back over its shoulder at the roaring fans, then walks slowly toward the camera on its hind legs, which backs away, and pats both front paws down in front of its chest again and again, the calm down gesture, with a calm, unbothered look and the mouth closed. A player in a plain white kit walks past behind near the end. Audio: the loud roar of a packed stadium crowd, chants and whistles. No dialogue, no music. No cuts. Exactly one animal, animal paws, never human hands. No club crests, no logos, no names or numbers on shirts. No text, no watermark."
@@ -52,5 +52,5 @@
     "Make your own Stadium Calm Down video"
   ],
   "prompt_count": 3,
-  "scraped_at": "2026-11-12"
+  "scraped_at": "2026-11-13"
 }

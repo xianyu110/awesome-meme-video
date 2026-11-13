@@ -64,7 +64,7 @@ Anatomy rules: one head only. Four legs, two of them on the ground, no extra leg
 Use the uploaded image as the base. The ridiculously cute pet from the image stands upright naturally on its hind legs in the center of a spectacular concert stage. The pet is extremely adorable and photogenic and looks exactly like the pet in the image: the same face, fur colors, markings, ears, eyes and body. The pet wears a stylish 80s pop-star stage outfit: a small black fedora tilted slightly forward, a sparkling black sequin jacket worn open over a clean white shirt, fitted black trousers, bright white socks and tiny glossy black dance shoes. It confidently lowers the brim of its fedora over its eyes and freezes for a brief dramatic beat. CAMERA: Keep the pet's FULL BODY visible, especially both feet. Mostly front-facing camera. SETTING: Premium live concert stage, glossy dark reflective floor, dramatic white spotlights, subtle blue backlighting, light atmospheric haze, audience silhouettes, cinematic stage lighting and realistic reflections. Ultra-realistic fur, realistic adorable pet face, correct anatomy, no extra legs, no extra paws, no human hands, no distorted face, no deformed body. Vertical 9:16. High-end cinematic realism. Extremely cute + unexpectedly cool + funny. Designed as a viral social media pet dance video. Exactly one animal. No text, no logos, no watermark.
 ```
 
-### 4. 3. Press the film button on the still to open AI Video with the still as the first frame. Settings: Kling 3.0, 15 s, 1080p, 9:16, sound on. The video prompt
+### 4. 3. Press the film button on the still to open AI Video with the still as the first frame. Settings: Seedance 2.5, 15 s, 720p, 9:16, sound on. The video prompt
 
 *Kind: video_prompt*
 

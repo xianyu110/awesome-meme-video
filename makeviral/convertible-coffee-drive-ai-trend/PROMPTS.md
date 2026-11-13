@@ -46,7 +46,7 @@ Exactly one person in the car: one head, two arms, five fingers on each hand. No
 The pet from the uploaded image sits upright in the driver's seat of an open-top convertible car with red leather seats, driving slowly through a city street lined with tall glass skyscrapers on an overcast day. The camera is fixed low on the passenger side, looking up toward the driver: the dark frame of the folded soft top and the small interior light at the top of the frame, the red leather seats, the dashboard, the steering wheel, the center console and the city buildings passing outside. Its front paws rest on the steering wheel, and a plain kraft-paper takeaway coffee cup with a plain white lid, no logo, no print and no sleeve text stands in the cup holder of the center console. The pet faces three-quarters toward the camera, eyes open, ears in their natural position. Keep the pet's species, breed look, face, eyes, ears, muzzle, fur colors, fur length and markings exactly as in the photo, with the natural body size and proportions of that animal next to the seat and the wheel: never shrunk, stretched or merged with the seat. Its own collar or harness, if the photo shows one. A real phone video still, photorealistic, soft overcast daylight, vertical 9:16. No people, no car brand logo, badge or emblem, no logo or text on the cup, no number plates, no text, no watermark.
 ```
 
-### 3. 3. Press the film button on the still to open AI Video with the still as the first frame. Settings: Kling 3.0, 10 s, 1080p, 9:16, sound on. The video prompt
+### 3. 3. Press the film button on the still to open AI Video with the still as the first frame. Settings: Seedance 2.5, 10 s, 720p, 9:16, sound on. The video prompt
 
 *Kind: video_prompt*
 

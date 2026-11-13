@@ -48,7 +48,7 @@ No cuts, no wide shot. No club crests, no sponsor logos, no names or numbers on 
 Use the uploaded image as the base. 9:16 vertical photo, a sports broadcast frame with a long lens at a packed football stadium at night. The pet from the uploaded image stands upright on its hind legs at the very front of the stands, in a small dark suit jacket over a plain light shirt collar and a small dark tie, its face turned three-quarters to the camera with a calm, unbothered look, both front paws held low. Right behind, a dense wall of fans fills the whole background, on their feet, roaring, arms up, in plain white and plain blue tops, lit by bright stadium light; stewards in plain yellow hi-vis vests in the front row. Exactly one animal. No club crests, no sponsor logos, no names or numbers on shirts, no words on vests or banners. No text, no logos, no watermark.
 ```
 
-### 3. 3. Press the film button on the still to open AI Video with the still as the first frame. Settings: Kling 3.0, 10 s, 1080p, 9:16, sound on. The video prompt
+### 3. 3. Press the film button on the still to open AI Video with the still as the first frame. Settings: Seedance 2.5, 10 s, 720p, 9:16, sound on. The video prompt
 
 *Kind: video_prompt*
 

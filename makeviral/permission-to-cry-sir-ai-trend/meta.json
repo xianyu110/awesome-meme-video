@@ -35,7 +35,7 @@
       "text": "Use the uploaded image as the base. Keep the animal's species, breed, face, eye color, fur color, fur length, markings and body size exactly the same as in the photo. A real photo of the same pet sitting upright like a person in a dark bedroom streaming setup at night: a pink and purple LED strip glows on the wall behind, a large United States flag hangs flat on that wall, a black gaming chair behind the shoulders, soft cinematic light on the face. It wears a small plain black hoodie with no print, and a small black over-ear gaming headset with a boom microphone fitted around its ears. A small plain black bandana printed with a simple white skull jaw is tied loosely around its neck, below the chin, so the whole face shows. The pet looks straight into the camera with big, wet, sad eyes and a closed mouth. A medium close-up from the chest up, the camera at eye level. Photorealistic, natural fur detail, not a cartoon, not CGI, not a plush toy. Vertical 9:16. Exactly one animal, with real paws. No people, no human hands. No logo, no patch, no name, no text anywhere on the clothes, the headset or the mask. No helmet, no sunglasses, no goggles, no military uniform, no medals, no weapon. No text."
     },
     {
-      "label": "3. Press the film button on the still to open AI Video with the still as the first frame. Settings: Kling 3.0, 10 s, 1080p, 9:16, sound on. The video prompt",
+      "label": "3. Press the film button on the still to open AI Video with the still as the first frame. Settings: Seedance 2.5, 10 s, 720p, 9:16, sound on. The video prompt",
       "variant": null,
       "kind": "video_prompt",
       "text": "A real reaction meme video in one continuous shot, a medium close-up, the camera almost still at eye level. Keep the animal's face, fur, markings, the black hoodie, the headset and the bandana exactly as in the image.\n\nTHE BEATS:\n[0-2 s] the pet looks straight into the lens, very serious, the eyes wet and shiny.\n[2-5 s] it slowly raises its right front paw to its brow in a military salute and holds it, chin up, the eyes filling with tears.\n[5-7 s] still saluting, one single tear rolls from one eye down the fur of its cheek; it blinks once.\n[7-10 s] still saluting, the pet says in a quiet, shaky, respectful voice: \"Permission to cry, sir.\" Its mouth moves a little with the words, then it sniffs once and keeps the salute to the end.\n\nSound: one voice says one line only, at about 7 s: \"Permission to cry, sir.\" Quiet, slow, shaky, holding back tears, a plain American accent. No other dialogue throughout the entire video. A soft, slow, sad piano melody plays quietly under the whole clip. No singing, no other music, no sound effects except one small sniff.\n\nExactly one animal: one head, four legs, real furry paws, no human hands or human body parts. No people. Avoid: cuts, text, captions, subtitles, logos, watermarks, a coffin, a cartoon look, a plush toy, a person in an animal costume, extra limbs, morphing."
@@ -55,5 +55,5 @@
     "Make your own Permission to Cry video"
   ],
   "prompt_count": 4,
-  "scraped_at": "2026-11-12"
+  "scraped_at": "2026-11-13"
 }

@@ -43,7 +43,7 @@ Use the two uploaded images as the base. The person is from the first image and 
 Use the uploaded image as the base. Keep the animal's species, breed, face, eye color, fur color, fur length, markings and body size exactly the same as in the photo. Dress the pet in a cute, well-fitted Halloween pet costume: a soft, round orange pumpkin costume around its body with a little green stem and leaf cap between its ears. The head, face, ears and markings stay fully visible. The pet sits on a wooden porch step at dusk beside carved jack-o'-lanterns glowing warm orange and a few fallen autumn leaves, and looks at the camera with a sweet, curious face. Warm porch light. A real phone photo taken at the pet's eye level, shallow depth of field, natural fur detail. The whole pet is in frame. Vertical 9:16. Exactly one animal in a natural four-legged pose, no people. No camera app interface, no icons, no frames or overlays. No text, no logos.
 ```
 
-### 4. 3. Press the film button on the still to open AI Video with the still as the first frame. Settings: Seedance 2.0 Mini, 6 s, 720p, 9:16, sound on. The video prompt
+### 4. 3. Press the film button on the still to open AI Video with the still as the first frame. Settings: Seedance 2.5, 6 s, 720p, 9:16, sound on. The video prompt
 
 *Kind: video_prompt*
 

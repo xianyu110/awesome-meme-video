@@ -122,7 +122,7 @@ Avoid: singing, lyrics, a different outfit, missing wings, a different face, a d
 Use the uploaded image as the base. 9:16 vertical photo, like a real phone photo taken from the audience at a glamorous televised fashion show. The pet from the uploaded image stands on its four paws at the far end of a long glossy runway, facing the camera, with small white feathered angel wings strapped to its back, sized for the pet, and a thin sparkling crystal collar. Its whole body is in view, from the ears to the paws, with its tail. A dark arena full of cheering people on both sides, small blue spotlights, white beams, photographers at the foot of the runway. Realistic photo with natural colors. Exactly one animal on the runway and no people on it. No clothes on the pet except the wings and the collar. No text, no logos, no letters on the stage or the screens, no watermark.
 ```
 
-### 6. 3. Press the film button on the still to open AI Video with the still as the first frame. Settings: Kling 3.0, 10 s, 1080p, 9:16, sound on. The video prompt
+### 6. 3. Press the film button on the still to open AI Video with the still as the first frame. Settings: Seedance 2.5, 10 s, 720p, 9:16, sound on. The video prompt
 
 *Kind: video_prompt*
 

@@ -14,7 +14,7 @@ Take the lead at a packed party under crystal chandeliers: a silver cup in your 
 
 Also called: Where She At meme, Burning Bridges meme, Where She At trend, Burning Bridges trend, Drake AI trend.
 
-**Make it now:** [Make this video](https://www.makeviral.ai/templates/burning-bridges-ai-trend/create). 1 photo · 15 s · 9:16 with sound · 48 credits, charged once · ready in a few minutes · no prompt to write.
+**Make it now:** [Make this video](https://www.makeviral.ai/templates/burning-bridges-ai-trend/create). 1 photo · 15 s · 9:16 with sound · 228 credits, charged once · ready in up to several minutes · no prompt to write.
 
 Keyword: burning bridges ai. Also answers: where she at drake, drake where she at, where she at, burning bridges ai video, burning bridges ai trend, burning bridges drake ai, where she at drake meme, where she at meme drake, where she at ai, burning bridges drake, drake burning bridges, drake burning bridges ai, burning bridges ai template, burning bridges ai tutorial, burning bridges cup dance, burning bridges music video, burning bridges drake music video, drake ai video, put yourself in drake's video, chandelier party ai video, chandelier party dance ai, burning bridges ai video generator, burning bridges drake meme, where she at move, where she at dance, burning bridges where she at, burning bridges ai dog, burning bridges ai cat, burning bridges ai prompt.
 
@@ -51,8 +51,8 @@ Everything runs in the browser. No editing app, no watermark.
 ### The one-tap way (no prompt to write)
 
 1. **Add your photo.** Press "Make yours" and add your photo. Take it with the camera or pick it from your library. Start here: https://www.makeviral.ai/templates/burning-bridges-ai-trend/create
-2. **Press Generate.** The button shows the price. Seedance 2.0 Mini puts your photos into the Burning Bridges trend clip and copies it shot by shot for 15 seconds, with the reel's original song. You write no prompt.
-3. **Download or share.** The video is ready in a few minutes as a 9:16 MP4. Download it, share it from your phone, or find it later in My videos.
+2. **Press Generate.** The button shows the price. Seedance 2.5 puts your photos into the Burning Bridges trend clip and copies it shot by shot for 15 seconds, with the reel's original song. You write no prompt.
+3. **Download or share.** The video is ready in up to several minutes as a 16:9 MP4. Download it, share it from your phone, or find it later in My videos.
 
 ### The by-hand way, with the exact prompts
 
@@ -60,12 +60,24 @@ The one-tap flow runs this prompt for you. The video prompt animates your own ph
 
 #### Variant: Human
 
-Settings: 1 photo (your photo) · Seedance 2.0 Mini · 15 s · 720p · 9:16 · no sound · 48 credits in one tap.
+Settings: 1 photo (your photo) · Seedance 2.5 · 15 s · 720p · 9:16 · no sound · 228 credits in one tap.
 
-1. The video prompt is filled in. Settings: Seedance 2.0 Mini, 15 s, 720p, 9:16, sound off. The video prompt:
+1. The video prompt is filled in. Settings: Seedance 2.5, 15 s, 720p, 9:16, sound off. The video prompt:
 
    ```text
-   [Video 1] is a motion guide only. Copy its camera moves, timing and actions, the handheld phone camera, and the warm dinner party room with crystal chandeliers, dark curtains, long tables with white tablecloths and red cups. Do NOT copy the people in [Video 1]: not their faces, hair, glasses, skin tone or clothes. Replace all of them. The one in front of the camera the whole time, who raps along with a silver metal cup in one hand, points at the camera and at the friends, then puts one hand flat over the eyes like a visor and looks around the room, is the one in [Image 1]. Keep the face, hair, skin tone, body and outfit from [Image 1] in every shot, with no glasses unless [Image 1] shows glasses and no plaid shirt unless [Image 1] shows one. Keep any moustache or beard exactly as in [Image 1], and add none when [Image 1] shows none. Keep the face shape, jaw, nose and age of [Image 1]: never a younger, slimmer or smoother face. The party guests around them are new people, not the ones in [Video 1]: young adults in casual clothes who cheer, point back and copy the hand-over-the-eyes move. Photorealistic, like a real phone video at a party at night, in warm light. One continuous shot. No text, no subtitles, no logos, no watermark, no extra limbs.
+   Recreate the reference video [Video 1] shot for shot: the same dinner party at night in a room with crystal chandeliers, dark curtains, long tables with white tablecloths and red cups, the same friends around with their own faces, the same handheld phone camera in one continuous take, the same framing, timing and moves. The rapper's mouth moves with the words exactly like in the video. The ONLY change: the young man in the black-and-white plaid shirt over a black T-shirt, with glasses, who raps to the camera with the silver metal cup is now the person in [Image 1]. [Image 1] is the sole reference for the rapper; [Video 1] is for the moves, the mouth, the guests and the camera only.
+
+The rapper = the person in [Image 1], in every frame: copy the exact face from [Image 1] - face shape, eye color and eye shape, eyebrows, nose, mouth, skin tone, age, hair color, hair length and hairstyle, and any beard, moustache, glasses or freckles exactly as in the photo. The same real person in every frame, from the first second to the last, so their friends instantly recognize them, also when a hand covers the eyes and when the face comes close to the lens. Never morph, never drift back to the original man's face, never add or remove facial hair. NO glasses unless [Image 1] shows glasses. The rapper has the body and the clothes of the person in [Image 1], never the plaid shirt of the original man; if [Image 1] shows only the head or the upper body, invent the rest so it matches naturally. They copy the rapping mouth, the face and the hand moves of the man in the video, not the smile in [Image 1].
+
+The moves, matching the reference second by second:
+0-4 s: raps along to the camera, the silver cup in one hand, the other hand on the chest, then pointing at the camera.
+4-8 s: turns to the friends, who cheer, point back and raise their red cups.
+8-9 s: points a finger close to the lens.
+9-15 s: puts one hand flat over the eyes like a visor and looks around the room; the friends copy the move.
+
+Only replace the rapper; the guests, the room, the moves and the camera stay completely unchanged. Keep everything else the same.
+
+Anatomy rules: one head only, on the rapper's shoulders. Two arms and two hands. The other guests keep their own faces in every frame and never get the face of [Image 1]. No text, no logos, no watermark. No dialogue throughout the entire video. No background music.
    ```
 
 2. Press Generate, then download the 9:16 MP4.
@@ -98,12 +110,24 @@ One-tap version of this variant: https://www.makeviral.ai/templates/burning-brid
 
 #### Variant: Pet
 
-Settings: 1 photo (your pet) · Seedance 2.0 Mini · 15 s · 720p · 9:16 · no sound · 48 credits in one tap.
+Settings: 1 photo (your pet) · Seedance 2.5 · 15 s · 720p · 9:16 · no sound · 228 credits in one tap.
 
-1. The video prompt is filled in. Settings: Seedance 2.0 Mini, 15 s, 720p, 9:16, sound off. The video prompt:
+1. The video prompt is filled in. Settings: Seedance 2.5, 15 s, 720p, 9:16, sound off. The video prompt:
 
    ```text
-   [Video 1] is a motion guide only. Copy its camera moves, timing and actions, the handheld phone camera, and the warm dinner party room with crystal chandeliers, dark curtains, long tables with white tablecloths and red cups. Do NOT copy the people in [Video 1]: not their faces, hair, glasses, skin tone or clothes. Replace all of them. The one in front of the camera the whole time, who raps along with a silver metal cup in one hand, points at the camera and at the friends, then puts one hand flat over the eyes like a visor and looks around the room, is the pet in [Image 1], standing upright on its hind legs like a person, holding the cup in one front paw and putting the other paw over its eyes. Keep the face, fur colors, markings and ears from [Image 1] in every shot. No glasses, no plaid shirt, no human face. The party guests around them are new people, not the ones in [Video 1]: young adults in casual clothes who cheer, point back and copy the hand-over-the-eyes move. Photorealistic, like a real phone video at a party at night, in warm light. One continuous shot. No text, no subtitles, no logos, no watermark, no extra limbs.
+   Recreate the reference video [Video 1] shot for shot: the same dinner party at night in a room with crystal chandeliers, dark curtains, long tables with white tablecloths and red cups, the same friends around with their own faces, the same handheld phone camera in one continuous take, the same framing, timing and moves. The ONLY change: the young man in the black-and-white plaid shirt and glasses who raps to the camera with the silver metal cup is now the pet in [Image 1]. [Image 1] is the sole look reference for the pet; [Video 1] is for the moves, the guests and the camera only.
+
+The rapper = the pet in [Image 1], whole body, in every frame: the same species and breed, head shape, muzzle, eyes, ears, fur colors, fur length and markings as in [Image 1], with the natural body volume and proportions of that animal: never flattened, squashed, stretched or merged with anything, so its owner instantly recognizes it. It stands upright on its hind legs like a person the whole time, holds the silver cup in one front paw, points with the other paw and at the end puts a paw over its eyes. A dog stays a dog and a cat stays a cat. No glasses, no plaid shirt, no clothes, no human face, no human hands.
+
+The moves, matching the reference second by second:
+0-4 s: bobs to the beat with the silver cup, a front paw on the chest, then pointing at the camera.
+4-8 s: turns to the friends, who cheer, point back and raise their red cups.
+8-9 s: points a front paw close to the lens.
+9-15 s: puts one front paw over its eyes like a visor and looks around the room; the friends copy the move.
+
+Only replace the young man; the guests, the room, the moves and the camera stay completely unchanged. Keep everything else the same.
+
+Anatomy rules: one head only. Two hind legs and two front legs, no extra legs or paws. The guests are people and keep their own faces. No text, no logos, no watermark, no extra animals. No dialogue throughout the entire video. No background music.
    ```
 
 2. Press Generate, then download the 9:16 MP4.
@@ -126,7 +150,7 @@ You pay per video in credits, and the create page shows the exact price on the G
 
 | Video model | Settings | Credits |
 | --- | --- | --- |
-| Seedance 2.0 Mini (this template) | 15 s, 720p, copies the trend clip, one tap | 48 |
+| Seedance 2.5 (this template) | 15 s, 720p, copies the trend clip, one tap | 228 |
 
 Credits come with a plan; see [pricing](https://www.makeviral.ai/pricing). A failed video gives its credits back.
 
@@ -150,17 +174,7 @@ Your chandelier party AI video follows a 15-second cut of the AI reel by @alex.k
 | 6 to 11 | You point down with both hands, then put one hand on your chest. |
 | 11 to 15 | You turn to your friends and point at them, and they cheer with their red cups. |
 
-**Standard or Best?** On the create page you pick the quality, and an info button next to each option explains it. Standard is the default and costs fewer credits. Best costs more. The exact price shows on the button before you spend anything.
-
-| | Standard (default) | Best |
-|---|---|---|
-| How it works | Seedance 2.0 Mini makes a new party clip that follows the reel's moves, camera and timing. | Top-quality AI video models put you into the reel itself: the same shots, the same party, the same camera. |
-| Frame | Vertical 9:16, 720p, ready for TikTok | Wide 16:9 like the reel, 720p |
-| The other guests | New AI-made guests | The guests from the reel |
-| Lips | They follow the reel's timing but may not match every word | The reel's own mouth moves, so they match the song |
-| Sound | The reel's song, put on after the run; you can turn it off | The same |
-
-Pick Standard for a vertical clip at the lower price. Pick Best for the closest copy of the reel; it can take 5 to 15 minutes. The Cup dance tab has one option, Seedance 2.5, which puts you into the reel itself at 720p, wide 16:9 like the reel, also in the close-up at the lens; it can take up to several minutes. Use a sharp, front-facing photo there: the face fills the frame for a few seconds. Results differ from run to run: if a face drifts, run it again or try the other option.
+**How it works:** on every tab, top-quality AI video models put you into the reel itself: the same shots, the same party, the same guests and the same camera. You get 15 seconds at 720p, wide 16:9 like the reel, with the reel's own mouth moves, so the lips match the song. The reel's song goes on after the run, and you can turn it off. A run can take up to several minutes, and the exact price shows on the button before you spend anything. Cup dance also puts you in the close-up at the lens, so use a sharp, front-facing photo there: the face fills the frame for a few seconds. Results differ from run to run: if a face drifts, run it again.
 
 ## Who should you put in the party?
 
@@ -187,9 +201,8 @@ The song belongs to its owners, and MakeViral gives you no rights to it. Music r
 
 | Problem | Fix |
 |---|---|
-| The face looks less like your photo | Use a sharp, front-facing photo in good light, then run it again, or pick Best. |
+| The face looks less like your photo | Use a sharp, front-facing photo in good light, then run it again. |
 | Glasses or a plaid shirt from the reel show up | The prompts ask for them only when your photo has them. Run it again, or use a photo where your outfit is easy to see. |
-| The lips do not match every word (Standard) | Standard makes new moves on the reel's timing. Best keeps the reel's own mouth moves. |
 | A hand or the cup warps in a fast move | This is common in quick handheld clips. A second run comes out different. |
 | Your pet looks stiff or loses the cup | Use a full-body pet photo with the face in focus, then run it again. |
 | The video model refuses the photo | Some models refuse some photos. The credits come back; try another photo. |
@@ -206,7 +219,7 @@ It comes from the chorus of "Burning Bridges", a track on Drake's album Iceman f
 
 ### How do I make the Burning Bridges AI video with my photo?
 
-Press "Create your own", pick Human, Cup dance or Pet, and add one clear photo of yourself or your pet. On Human and Pet you also pick Standard or Best. Press Generate; the button shows the price first. Standard makes a vertical 9:16 clip, Best and Cup dance a wide 16:9 clip like the reel, all 15 seconds long with the reel's song. You write no prompt, and the video waits in My videos when it is ready.
+Press "Create your own", pick Human, Cup dance or Pet, and add one clear photo of yourself or your pet. Press Generate; the button shows the price first. Every tab makes a wide 16:9 clip like the reel, 15 seconds long with the reel's song. You write no prompt, and the video waits in My videos when it is ready.
 
 ### What is the Burning Bridges cup dance?
 
@@ -220,9 +233,9 @@ Yes. Pick Pet and upload a sharp photo of your pet with the face and fur in view
 
 Yes. Every tab puts the reel's own sound back on after the run, cut to the same 15 seconds as the clip, so the song lines up with the moves. You can turn the song off on the result screen. The song belongs to its owners, and MakeViral gives you no rights to it.
 
-### What is the difference between Standard and Best?
+### Which AI makes the video, and in what format?
 
-Standard is the default and costs fewer credits. Seedance 2.0 Mini makes a new vertical 9:16 party clip at 720p that follows the reel's moves and timing, with new AI-made guests. Best costs more and uses top-quality AI video models, which put you into the reel itself: the same shots, guests and camera, wide 16:9 like the reel, at 720p, with the reel's own mouth moves. Both are 15 seconds long with the reel's song.
+Top-quality AI video models put you into the reel itself: the same shots, guests and camera, wide 16:9 like the reel, at 720p, with the reel's own mouth moves. Every tab makes 15 seconds with the reel's song. A run can take up to several minutes.
 
 ### Can I put Drake, a footballer or another celebrity in the party?
 
@@ -238,7 +251,7 @@ No. It copies the AI half of the @alex.kuri reel, not the music video itself. Dr
 
 ### Why does my video look different from the reel?
 
-Your video starts from your photo, so the face, hair, outfit and body follow it. Standard builds a new vertical scene that follows the reel, so the room and the guests come out a little different each time. Best keeps the reel's shots and guests and changes only the main person. Every run is a new take.
+Your video starts from your photo, so the face, hair, outfit and body follow it. The video keeps the reel's shots and guests and changes only the main person. Every run is a new take, so the details differ a little each time.
 
 ## Other AI video templates and tools
 
@@ -252,15 +265,15 @@ Your video starts from your photo, so the face, hair, outfit and body follow it.
 
 ## New AI video trends this week
 
-- [Tiger Fight AI: Beat the Tiger on CCTV](https://www.makeviral.ai/templates/cctv-tiger-fight-ai-trend): A security camera on a forest path. A tiger leaps out of the bushes, and you fight it and pin it to the ground. Add one photo of yourself or your pet, and the trend's phonk sound comes with it.
-- [The Office Parkour AI Trend: You Shout "Parkour!" in the Office](https://www.makeviral.ai/templates/the-office-parkour-ai-trend): Dive over the couch, land upside down and shout "Parkour!" into the camera, then jump off the reception counter while the crew leaps over the desks. The whole office parkour scene, 24 seconds, with its own shouts.
-- [Huell Money AI: The Breaking Bad Money Pile Scene, Starring You](https://www.makeviral.ai/templates/huell-money-ai-trend): A storage unit, a bed-size pile of cash, and you fall back onto it with your eyes closed while your friend tells you to quit it. Then they give in and lie down next to you. With the scene's own lines.
-- [Peaky Blinders Explosion Scene, Starring You](https://www.makeviral.ai/templates/peaky-blinders-explosion-ai-trend): A flat cap, a long black overcoat, a match at your lips. The red-brick manor blows up behind you and you walk slowly toward the camera through the smoke, never looking back. One photo, 15 seconds, with the clip's song.
-- [Mbappe Run vs Argentina AI: The Mbappe Sprint, Starring You](https://www.makeviral.ai/templates/mbappe-sprint-ai-trend): A sunny pitch, one long sprint with the ball, a defender in a striped shirt crashing into you, and you sitting on the grass complaining while the commentator shouts "It's a penalty!". In your own clothes. It is an AI video, not real match footage.
-- [Perfume Transition AI Trend: Spray, Flame, Gangster Look](https://www.makeviral.ai/templates/perfume-transition-ai-trend): Sniff the perfume, spray it at the camera, and a lighter turns the spray into a fireball. Add one photo, and you or your pet step out of the flame in a flat cap, dark sunglasses and a long magenta coat, with the trend's song.
+- [Kara Sevda AI Trend: Your AI Video with Celebrity Stars Kemal and Emir](https://www.makeviral.ai/templates/ai-video-with-celebrity): You film a night selfie, the camera swings to the Kemal look-alike in his navy suit, face to face with you, and the Emir look-alike walks in and rests his head on his shoulder, jealous. One photo is enough. It is an AI video with look-alikes, not a real meeting.
+- [Misanthropy Meme AI: You as the Horned Anime Side-Eye](https://www.makeviral.ai/templates/misanthropy-meme-ai-trend): Your photo becomes a hand-drawn anime character with small horns. It glances left and right on a gray screen, then the background floods red and it breaks into a slow, smug grin, twice, to the trend's laughing beat. One photo in, an 8-second vertical clip out.
+- [Ahh Almost Almost: Train Hard, Miss by an Inch, From One Photo](https://www.makeviral.ai/templates/almost-almost-ai-trend): "While they're out partying btw": you grind alone late at night. Then the big shot rolls around the rim and out, twice, as the sound groans "ahhh almost almost". One photo in, an 11-second clip with the trend's own sound out.
+- [If I Was ChatGPT Trend: Your Observe, Just Observe Mood Board](https://www.makeviral.ai/templates/if-i-was-chatgpt-trend): Add one photo. The AI looks at it, picks the city, season, flower, painting, animal and element that fit you, and puts them around your photo in one mood board with short labels.
+- [Davul Zurna Yapay Zeka: Dance and Sing in the Viral Warehouse Clip](https://www.makeviral.ai/templates/davul-zurna-ai-trend): You dance between a zurna player and a davul player in a big workshop, walk up to the camera, sing right into it and walk back with your arms up. One photo, three for the whole band, or your pet. 15 seconds, with the live davul and zurna.
+- [Come On Barbie Let's Go Party AI: Do the Barbie Girl Dance Trend From Two Photos](https://www.makeviral.ai/templates/barbie-girl-dance-ai-trend): You turn around, sway your hips, pump a fist on "ah ah ah yeah" and lean on each other, side by side, on the sped-up Barbie Girl beat. Add two photos and get a real couple's viral reel with your faces and the song.
 
 ## Make your own Burning Bridges video
 
-Add one photo and press Generate. No prompt to write. 48 credits, charged once.
+Add one photo and press Generate. No prompt to write. 228 credits, charged once.
 
 [Make this video](https://www.makeviral.ai/templates/burning-bridges-ai-trend/create)

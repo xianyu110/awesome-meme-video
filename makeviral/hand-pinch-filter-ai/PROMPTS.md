@@ -40,7 +40,7 @@ The whole face stays large and sharp in the frame. The pinch is playful: no pain
 Use the uploaded image as the base. 9:16 vertical photo, like a real phone photo taken close up at the pet's eye level. The pet from the uploaded image sits or lies calmly in a cozy home spot (a sofa, a bed or a soft blanket), in a close-up from the chest up, its face toward the camera, relaxed and content, in soft indoor light. Both of its cheeks are fully visible. Realistic photo with natural colors. Exactly one animal and no people, no hands. No clothes on the pet. No text, no logos, no watermark.
 ```
 
-### 3. 3. Press the film button on the still to open AI Video with the still as the first frame. Settings: Kling 3.0, 10 s, 1080p, 9:16, sound on. The video prompt
+### 3. 3. Press the film button on the still to open AI Video with the still as the first frame. Settings: Seedance 2.5, 10 s, 720p, 9:16, sound on. The video prompt
 
 *Kind: video_prompt*
 

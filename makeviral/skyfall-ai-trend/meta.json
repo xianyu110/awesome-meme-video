@@ -29,7 +29,7 @@
       "text": "Use the uploaded image as the base. 9:16 vertical. High above the ground at a rose-tinted sunset, the pet from the uploaded image falls backward in a horizontal pose, its expression calm, its paws loose, its ears and fur lifted by the wind, far above a soft sea of pink and golden clouds. Shot at eye level with its full body in frame, the scene feels cinematic, with a softly blurred background and rich color grading, as if time has slowed. Exactly one animal and no people. No clothes, no collar tag, no harness, no parachute, no wings on the pet. No ground, no plane. No text, no logos, no watermark."
     },
     {
-      "label": "3. Press the film button on the still to open AI Video with the still as the first frame. Settings: Kling 3.0, 10 s, 1080p, 9:16, sound on. The video prompt",
+      "label": "3. Press the film button on the still to open AI Video with the still as the first frame. Settings: Seedance 2.5, 10 s, 720p, 9:16, sound on. The video prompt",
       "variant": null,
       "kind": "video_prompt",
       "text": "One continuous shot, like a slow-motion film shot. Keep the animal's face, fur, markings, ears, tail and size, the sunset sky and the clouds exactly as in the image.\n0-4 s: the pet is falling downward from the sky, leaning back into the fall, its paws loose, its ears and fur lifted by the wind; the camera cinematically follows downward.\n4-7 s: the camera drifts closer to its face: it blinks slowly, calm and relaxed, its ears fluttering.\n7-10 s: it keeps floating down over the pink clouds, turning gently, calm and almost sleepy.\nAudio: a soft rush of wind and a slow, dreamy cinematic music bed, no words. Calm and cute, never scary: no fear, no struggling, no impact, the ground never comes into view. Exactly one animal, no people. Real animal anatomy: paws, never human hands, no extra legs, no morphing. No text, no logos, no watermark."
@@ -50,5 +50,5 @@
     "Make your own Skyfall AI video"
   ],
   "prompt_count": 3,
-  "scraped_at": "2026-11-12"
+  "scraped_at": "2026-11-13"
 }

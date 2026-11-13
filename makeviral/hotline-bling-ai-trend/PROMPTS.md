@@ -49,7 +49,7 @@ Exactly one person in the room. No other people, no dancers in silhouette, no re
 Use the uploaded image as the base. 9:16 vertical photo, a frame from a music video. The pet from the uploaded image stands upright on its two hind legs, alone in the middle of an empty, minimalist room shaped like a big open box, like a light art installation: smooth, seamless matte walls, floor and ceiling that meet in soft rounded corners, no furniture, no windows, no doors, no stairs and nothing on the walls. The whole room glows with one solid color of soft light that fills every surface, warm golden yellow at this moment. It wears a small, plain, puffy red winter jacket with no logo, open at the front. It faces the camera with a calm, cool look, front paws held loosely out to the sides, the whole body in view from the ears to the hind paws, with its tail. Realistic photo, soft even light from the glowing walls. Exactly one animal and no people. No text, no logos, no watermark.
 ```
 
-### 3. 3. Press the film button on the still to open AI Video with the still as the first frame. Settings: Kling 3.0, 10 s, 1080p, 9:16, sound on. The video prompt
+### 3. 3. Press the film button on the still to open AI Video with the still as the first frame. Settings: Seedance 2.5, 10 s, 720p, 9:16, sound on. The video prompt
 
 *Kind: video_prompt*
 

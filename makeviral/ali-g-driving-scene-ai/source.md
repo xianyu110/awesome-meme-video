@@ -149,7 +149,7 @@ One-tap version of this variant: https://www.makeviral.ai/templates/ali-g-drivin
 
 #### Variant: Pet
 
-Settings: 1 photo (your pet, head and front paws) · Kling 3.0 · 10 s · 1080p · 9:16 · with sound · 56 credits in one tap.
+Settings: 1 photo (your pet, head and front paws) · Seedance 2.5 · 10 s · 720p · 9:16 · with sound · 128 credits in one tap.
 
 1. Open [AI Photo with this template](https://www.makeviral.ai/photo?template=ali-g-driving-scene-ai&variant=pet) and add your photo (your pet, head and front paws). The photo prompt is filled in:
 
@@ -158,7 +158,7 @@ Settings: 1 photo (your pet, head and front paws) · Kling 3.0 · 10 s · 1080p 
    ```
 
 2. Check the still before you spend credits on the video. Everything the video model does starts from that one frame.
-3. Press the film button on the still to open AI Video with the still as the first frame. Settings: Kling 3.0, 10 s, 1080p, 9:16, sound on. The video prompt:
+3. Press the film button on the still to open AI Video with the still as the first frame. Settings: Seedance 2.5, 10 s, 720p, 9:16, sound on. The video prompt:
 
    ```text
    One continuous shot with no cuts, like a real phone video filmed from the dashboard of a small old car rolling slowly down a red-brick street in warm late-afternoon sun. Keep the animal's face, fur, markings, ears and size, and the light-blue wheel, the seat, the roll cage and the street, exactly as in the image.
@@ -215,7 +215,7 @@ Press "Create your own" and pick a version. Your photo stays when you switch.
 | Photos | 1 | 2 | 3 | 1 pet photo |
 | Who is where | You drive | You drive, your mate rides in front | You drive, mate 2 in front, mate 3 in the back | Your pet at the wheel |
 | Look | Your own clothes, or "Costume" | Your own clothes | Your own clothes | Just your pet |
-| Model | Seedance 2.5, made straight from your photo | The same | The same | A photo of your pet at the wheel, then Kling 3.0 (Standard) or Seedance 2.5 (Best) |
+| Model | Seedance 2.5, made straight from your photo | The same | The same | A photo of your pet at the wheel, then a top-quality AI video model |
 | Length | 10 s, vertical | 10 s | 10 s | 10 s |
 
 The Costume look adds small yellow-tinted glasses, a shiny yellow tracksuit jacket and a bandana, if you want the full Ali G costume feel; your face and hair still come from your photo. Every version has an original jungle-style beat with a big bass drop. The exact price shows on the Generate button before you spend anything, and you write no prompt.
@@ -227,7 +227,7 @@ The Costume look adds small yellow-tinted glasses, a shiny yellow tracksuit jack
 | Your face is blurry in the head-bang | That is the head-bang itself. The first 2 seconds and the last point at the camera are still, close shots of your face. Use a sharp, front-facing photo. |
 | The face does not look like you | Use a closer, sharper photo in good light, with no sunglasses, then run it again. |
 | Two faces mix in the crew | Use one person per photo, each facing the camera, in the right order. Run it again. |
-| Your pet's paws slip off the wheel (Standard) | Run it again or pick Best, which keeps the moves more often. |
+| Your pet's paws slip off the wheel | Run it again. A photo that shows the front paws helps. |
 | A badge or a word shows on the wheel | The prompt bans every logo and word. Run it again if one slips in. |
 | No film song in the video | On purpose: the video has an original beat. Add the trending sound when you post. |
 
@@ -313,12 +313,12 @@ Every version makes 10 seconds, vertical, as an MP4 file with an original beat. 
 
 ## New AI video trends this week
 
-- [Tiger Fight AI: Beat the Tiger on CCTV](https://www.makeviral.ai/templates/cctv-tiger-fight-ai-trend): A security camera on a forest path. A tiger leaps out of the bushes, and you fight it and pin it to the ground. Add one photo of yourself or your pet, and the trend's phonk sound comes with it.
-- [The Office Parkour AI Trend: You Shout "Parkour!" in the Office](https://www.makeviral.ai/templates/the-office-parkour-ai-trend): Dive over the couch, land upside down and shout "Parkour!" into the camera, then jump off the reception counter while the crew leaps over the desks. The whole office parkour scene, 24 seconds, with its own shouts.
-- [Huell Money AI: The Breaking Bad Money Pile Scene, Starring You](https://www.makeviral.ai/templates/huell-money-ai-trend): A storage unit, a bed-size pile of cash, and you fall back onto it with your eyes closed while your friend tells you to quit it. Then they give in and lie down next to you. With the scene's own lines.
-- [Peaky Blinders Explosion Scene, Starring You](https://www.makeviral.ai/templates/peaky-blinders-explosion-ai-trend): A flat cap, a long black overcoat, a match at your lips. The red-brick manor blows up behind you and you walk slowly toward the camera through the smoke, never looking back. One photo, 15 seconds, with the clip's song.
-- [Mbappe Run vs Argentina AI: The Mbappe Sprint, Starring You](https://www.makeviral.ai/templates/mbappe-sprint-ai-trend): A sunny pitch, one long sprint with the ball, a defender in a striped shirt crashing into you, and you sitting on the grass complaining while the commentator shouts "It's a penalty!". In your own clothes. It is an AI video, not real match footage.
-- [Perfume Transition AI Trend: Spray, Flame, Gangster Look](https://www.makeviral.ai/templates/perfume-transition-ai-trend): Sniff the perfume, spray it at the camera, and a lighter turns the spray into a fireball. Add one photo, and you or your pet step out of the flame in a flat cap, dark sunglasses and a long magenta coat, with the trend's song.
+- [Kara Sevda AI Trend: Your AI Video with Celebrity Stars Kemal and Emir](https://www.makeviral.ai/templates/ai-video-with-celebrity): You film a night selfie, the camera swings to the Kemal look-alike in his navy suit, face to face with you, and the Emir look-alike walks in and rests his head on his shoulder, jealous. One photo is enough. It is an AI video with look-alikes, not a real meeting.
+- [Misanthropy Meme AI: You as the Horned Anime Side-Eye](https://www.makeviral.ai/templates/misanthropy-meme-ai-trend): Your photo becomes a hand-drawn anime character with small horns. It glances left and right on a gray screen, then the background floods red and it breaks into a slow, smug grin, twice, to the trend's laughing beat. One photo in, an 8-second vertical clip out.
+- [Ahh Almost Almost: Train Hard, Miss by an Inch, From One Photo](https://www.makeviral.ai/templates/almost-almost-ai-trend): "While they're out partying btw": you grind alone late at night. Then the big shot rolls around the rim and out, twice, as the sound groans "ahhh almost almost". One photo in, an 11-second clip with the trend's own sound out.
+- [If I Was ChatGPT Trend: Your Observe, Just Observe Mood Board](https://www.makeviral.ai/templates/if-i-was-chatgpt-trend): Add one photo. The AI looks at it, picks the city, season, flower, painting, animal and element that fit you, and puts them around your photo in one mood board with short labels.
+- [Davul Zurna Yapay Zeka: Dance and Sing in the Viral Warehouse Clip](https://www.makeviral.ai/templates/davul-zurna-ai-trend): You dance between a zurna player and a davul player in a big workshop, walk up to the camera, sing right into it and walk back with your arms up. One photo, three for the whole band, or your pet. 15 seconds, with the live davul and zurna.
+- [Come On Barbie Let's Go Party AI: Do the Barbie Girl Dance Trend From Two Photos](https://www.makeviral.ai/templates/barbie-girl-dance-ai-trend): You turn around, sway your hips, pump a fist on "ah ah ah yeah" and lean on each other, side by side, on the sped-up Barbie Girl beat. Add two photos and get a real couple's viral reel with your faces and the song.
 
 ## Make your own Ali G Driving Scene video
 

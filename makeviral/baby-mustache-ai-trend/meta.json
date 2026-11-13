@@ -36,7 +36,7 @@
       "text": "Use the uploaded image as the base. The pet from the photo, swaddled like a newborn in a white hospital blanket on a blue hospital bed pad, only the head out, soft hospital light, a real phone photo framed close, the face large and sharp, looking at the camera. Keep the same species and breed, face, eyes, ears, muzzle, fur colors, fur length and markings exactly as in the photo, with the natural proportions of that animal. A thick, dark, grown-up human-style mustache of real hair sits over the pet's upper lip, under the nose, from one side of the muzzle to the other, as if the pet was born with it. Vertical 9:16. Exactly one animal, no people, no hands. No text, no logos, no watermark."
     },
     {
-      "label": "3. Press the film button on the still to open AI Video with the still as the first frame. Settings: Kling 3.0, 10 s, 1080p, 9:16, sound on. The video prompt",
+      "label": "3. Press the film button on the still to open AI Video with the still as the first frame. Settings: Seedance 2.5, 10 s, 720p, 9:16, sound on. The video prompt",
       "variant": null,
       "kind": "video_prompt",
       "text": "Keep the pet's face, fur, the mustache, the blanket and the place exactly as in the image. A real phone video, static camera, one continuous take, soft hospital light. 0-3 s: the pet blinks slowly, swaddled in the blanket. 3-6 s: it twitches the nose and the whiskers, and the thick mustache wiggles with the lip. 6-8 s: it yawns wide under the mustache. 8-10 s: it squints at the camera with a serious little frown. The mustache stays over the lip in every frame. The animal keeps its natural body volume and proportions, never stretched or merged with the blanket. Audio: soft animal sounds that fit the species and a quiet room, no music, no talking. Exactly one animal, no people, no hands, no morphing. No text, no logos, no watermark."
@@ -59,5 +59,5 @@
     "Make your own Baby With Mustache video"
   ],
   "prompt_count": 4,
-  "scraped_at": "2026-11-12"
+  "scraped_at": "2026-11-13"
 }

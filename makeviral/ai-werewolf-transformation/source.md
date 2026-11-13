@@ -79,7 +79,7 @@ One-tap version of this variant: https://www.makeviral.ai/templates/ai-werewolf-
 
 #### Variant: Pet
 
-Settings: 1 photo (your pet, whole body) · Kling 3.0 · 10 s · 1080p · 9:16 · with sound · 56 credits in one tap.
+Settings: 1 photo (your pet, whole body) · Seedance 2.5 · 10 s · 720p · 9:16 · with sound · 128 credits in one tap.
 
 1. Open [AI Photo with this template](https://www.makeviral.ai/photo?template=ai-werewolf-transformation&variant=pet) and add your photo (your pet, whole body). The photo prompt is filled in:
 
@@ -88,7 +88,7 @@ Settings: 1 photo (your pet, whole body) · Kling 3.0 · 10 s · 1080p · 9:16 �
    ```
 
 2. Check the still before you spend credits on the video. Everything the video model does starts from that one frame.
-3. Press the film button on the still to open AI Video with the still as the first frame. Settings: Kling 3.0, 10 s, 1080p, 9:16, sound on. The video prompt:
+3. Press the film button on the still to open AI Video with the still as the first frame. Settings: Seedance 2.5, 10 s, 720p, 9:16, sound on. The video prompt:
 
    ```text
    A dramatic intense scene, camera spin 360° around the pet from the image, it is in pain as its bones dislocate and skin ripple, camera captures the intricate details as its body transforms gradually. Its jaws gradually elongate like a dire wolf, its body gradually grows bigger and muscular, gradually its whole body gets covered with thick wild wolf fur and it transforms into a majestic dire wolf. Camera captures its facial expressions while the camera dynamically orbits around it, crash zoom in and out focusing on its face and body, the growing furry tail, anamorphic lens, 35mm film, lens glare, a cinematic masterpiece, on a dark backyard lawn at night under a huge, bright full moon, a wooden fence and black trees behind, cold blue moonlight. At the end the wolf lifts its head to the full moon and howls.
@@ -131,17 +131,17 @@ The sound is made with the clip: heavy breathing, cracking bones, tearing cloth,
 
 Is this a werewolf transformation in real life? No: it is AI, so nobody has to sit in a makeup chair. That is also why the werewolf transformation scene can happen around a real-looking you in 10 seconds.
 
-## Human or Pet, Standard or Best: what is the difference?
+## Human or Pet: what is the difference?
 
 **Human or Pet?** Press "Create your own" and pick one.
 
-| | Human | Pet: Standard (default) | Pet: Best |
-|---|---|---|---|
-| How it works | Seedance 2.5 makes the video straight from your photo, with no in-between picture, so your face stays yours until the fur takes over | Nano Banana 2.1 puts your pet in a moonlit backyard in a still, then Kling 3.0 plays the change | The same still, then Seedance 2.5 plays it |
-| Place | A dim washroom (the creator's scene) | A backyard under a full moon | The same |
-| Length | 10 s | 10 s | 10 s |
-| Frame | Vertical 9:16, 720p | Vertical 9:16, 1080p | Vertical 9:16, 720p |
-| Price | Shown on the button | Lower | Higher |
+| | Human | Pet |
+|---|---|---|
+| How it works | Seedance 2.5 makes the video straight from your photo, with no in-between picture, so your face stays yours until the fur takes over | Nano Banana 2.1 puts your pet in a moonlit backyard in a still, then Seedance 2.5 plays the change |
+| Place | A dim washroom (the creator's scene) | A backyard under a full moon |
+| Length | 10 s | 10 s |
+| Frame | Vertical 9:16, 720p | Vertical 9:16, 720p |
+| Price | Shown on the button | Shown on the button |
 
 You write no prompt: the template already holds the creator's prompt, second by second. The exact price shows on the Generate button before you spend anything.
 
@@ -154,8 +154,7 @@ The Human version works for anyone: a werewolf transformation female or male, an
 | Your face is hard to see before the change | The prompt keeps your face large and sharp for the first 3 seconds. Use a close, sharp photo in good light, then run it again. |
 | You end as a half-wolf on two legs | The prompt ends on a dire wolf, but some runs stop halfway. Run it again. |
 | The camera spin shows the back of your head for too long | Every run is a new take. Run it again. |
-| Your pet's wolf has different colors | The prompt keeps your pet's fur colors and markings. Use a photo where they show clearly, or pick Best. |
-| The change looks jumpy on Pet Standard | Pick Best: Seedance 2.5 plays the change more smoothly. |
+| Your pet's wolf has different colors | The prompt keeps your pet's fur colors and markings. Use a photo where they show clearly, then run it again. |
 | The video model refuses the photo | Some photos get refused. The credits come back; try another photo. |
 
 Results differ from run to run, so a second try often fixes the small things.
@@ -226,11 +225,11 @@ Yes. It is one of our Halloween AI video templates for October 2026, made for po
 
 ### How long is the video, and does it have sound?
 
-10 seconds, vertical 9:16, as an MP4 file: 720p for Human and Pet Best, 1080p for Pet Standard. It has its own sound: breathing, cracking bones, a growl and a howl. There is no song.
+10 seconds, vertical 9:16, as an MP4 file: 720p for both Human and Pet. It has its own sound: breathing, cracking bones, a growl and a howl. There is no song.
 
 ### Does the AI werewolf video cost credits?
 
-Yes. Each video costs credits, and the create page shows the exact price on the Generate button before you spend anything. Pet Standard (Kling 3.0) costs less than Pet Best (Seedance 2.5). If a video fails, the credits come back.
+Yes. Each video costs credits, and the create page shows the exact price on the Generate button before you spend anything. If a video fails, the credits come back.
 
 ## Other AI video templates and tools
 
@@ -244,12 +243,12 @@ Yes. Each video costs credits, and the create page shows the exact price on the 
 
 ## New AI video trends this week
 
-- [Tiger Fight AI: Beat the Tiger on CCTV](https://www.makeviral.ai/templates/cctv-tiger-fight-ai-trend): A security camera on a forest path. A tiger leaps out of the bushes, and you fight it and pin it to the ground. Add one photo of yourself or your pet, and the trend's phonk sound comes with it.
-- [The Office Parkour AI Trend: You Shout "Parkour!" in the Office](https://www.makeviral.ai/templates/the-office-parkour-ai-trend): Dive over the couch, land upside down and shout "Parkour!" into the camera, then jump off the reception counter while the crew leaps over the desks. The whole office parkour scene, 24 seconds, with its own shouts.
-- [Huell Money AI: The Breaking Bad Money Pile Scene, Starring You](https://www.makeviral.ai/templates/huell-money-ai-trend): A storage unit, a bed-size pile of cash, and you fall back onto it with your eyes closed while your friend tells you to quit it. Then they give in and lie down next to you. With the scene's own lines.
-- [Peaky Blinders Explosion Scene, Starring You](https://www.makeviral.ai/templates/peaky-blinders-explosion-ai-trend): A flat cap, a long black overcoat, a match at your lips. The red-brick manor blows up behind you and you walk slowly toward the camera through the smoke, never looking back. One photo, 15 seconds, with the clip's song.
-- [Mbappe Run vs Argentina AI: The Mbappe Sprint, Starring You](https://www.makeviral.ai/templates/mbappe-sprint-ai-trend): A sunny pitch, one long sprint with the ball, a defender in a striped shirt crashing into you, and you sitting on the grass complaining while the commentator shouts "It's a penalty!". In your own clothes. It is an AI video, not real match footage.
-- [Perfume Transition AI Trend: Spray, Flame, Gangster Look](https://www.makeviral.ai/templates/perfume-transition-ai-trend): Sniff the perfume, spray it at the camera, and a lighter turns the spray into a fireball. Add one photo, and you or your pet step out of the flame in a flat cap, dark sunglasses and a long magenta coat, with the trend's song.
+- [Kara Sevda AI Trend: Your AI Video with Celebrity Stars Kemal and Emir](https://www.makeviral.ai/templates/ai-video-with-celebrity): You film a night selfie, the camera swings to the Kemal look-alike in his navy suit, face to face with you, and the Emir look-alike walks in and rests his head on his shoulder, jealous. One photo is enough. It is an AI video with look-alikes, not a real meeting.
+- [Misanthropy Meme AI: You as the Horned Anime Side-Eye](https://www.makeviral.ai/templates/misanthropy-meme-ai-trend): Your photo becomes a hand-drawn anime character with small horns. It glances left and right on a gray screen, then the background floods red and it breaks into a slow, smug grin, twice, to the trend's laughing beat. One photo in, an 8-second vertical clip out.
+- [Ahh Almost Almost: Train Hard, Miss by an Inch, From One Photo](https://www.makeviral.ai/templates/almost-almost-ai-trend): "While they're out partying btw": you grind alone late at night. Then the big shot rolls around the rim and out, twice, as the sound groans "ahhh almost almost". One photo in, an 11-second clip with the trend's own sound out.
+- [If I Was ChatGPT Trend: Your Observe, Just Observe Mood Board](https://www.makeviral.ai/templates/if-i-was-chatgpt-trend): Add one photo. The AI looks at it, picks the city, season, flower, painting, animal and element that fit you, and puts them around your photo in one mood board with short labels.
+- [Davul Zurna Yapay Zeka: Dance and Sing in the Viral Warehouse Clip](https://www.makeviral.ai/templates/davul-zurna-ai-trend): You dance between a zurna player and a davul player in a big workshop, walk up to the camera, sing right into it and walk back with your arms up. One photo, three for the whole band, or your pet. 15 seconds, with the live davul and zurna.
+- [Come On Barbie Let's Go Party AI: Do the Barbie Girl Dance Trend From Two Photos](https://www.makeviral.ai/templates/barbie-girl-dance-ai-trend): You turn around, sway your hips, pump a fist on "ah ah ah yeah" and lean on each other, side by side, on the sped-up Barbie Girl beat. Add two photos and get a real couple's viral reel with your faces and the song.
 
 ## Make your own AI Werewolf video
 

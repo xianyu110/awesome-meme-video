@@ -64,7 +64,7 @@ Exactly one baby, nobody else, no hands in the frame. Anatomy: one head, two sma
 Use the uploaded image as the base. The pet from the photo, swaddled like a newborn in a white hospital blanket on a blue hospital bed pad, only the head out, soft hospital light, a real phone photo framed close, the face large and sharp, looking at the camera. Keep the same species and breed, face, eyes, ears, muzzle, fur colors, fur length and markings exactly as in the photo, with the natural proportions of that animal. A thick, dark, grown-up human-style mustache of real hair sits over the pet's upper lip, under the nose, from one side of the muzzle to the other, as if the pet was born with it. Vertical 9:16. Exactly one animal, no people, no hands. No text, no logos, no watermark.
 ```
 
-### 4. 3. Press the film button on the still to open AI Video with the still as the first frame. Settings: Kling 3.0, 10 s, 1080p, 9:16, sound on. The video prompt
+### 4. 3. Press the film button on the still to open AI Video with the still as the first frame. Settings: Seedance 2.5, 10 s, 720p, 9:16, sound on. The video prompt
 
 *Kind: video_prompt*
 

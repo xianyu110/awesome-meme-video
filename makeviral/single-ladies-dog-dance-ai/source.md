@@ -87,12 +87,25 @@ One-tap version of this variant: https://www.makeviral.ai/templates/single-ladie
 
 #### Variant: Human
 
-Settings: 1 photo (your photo) · Seedance 2.0 Mini · 15 s · 720p · 9:16 · no sound · 48 credits in one tap.
+Settings: 1 photo (your photo) · Seedance 2.5 · 15 s · 720p · 9:16 · no sound · 228 credits in one tap.
 
-1. The video prompt is filled in. Settings: Seedance 2.0 Mini, 15 s, 720p, 9:16, sound off. The video prompt:
+1. The video prompt is filled in. Settings: Seedance 2.5, 15 s, 720p, 9:16, sound off. The video prompt:
 
    ```text
-   [Video 1] is a motion guide only. Copy its camera, timing and choreography, the dark dance studio with a pale floor, the low camera angle and the continuous shot. Do NOT copy the people in [Video 1]: not their faces, hair, skin tone or clothes. Replace all of them. The lead dancer in the center foreground is the one in [Image 1]. Keep the face, hair, skin tone, body and clothes from [Image 1] in every shot, also in the hair tosses, with no gray crop top and no wide plaid pants unless [Image 1] shows them. Follow the reference dancer's head dip, upward lift, hip sways, hand on the hip, hand turns by the face and head tosses at the same moments. The two backup dancers behind on the left and the right are new young women in casual dance clothes, not the ones in [Video 1], who do the same choreography in the same positions. Photorealistic, like a real phone video in a dance studio. One continuous shot. No text, no subtitles, no logos, no extra people, no cuts.
+   Recreate the reference video [Video 1] shot for shot: the same dark dance studio with a pale floor, the same two backup dancers on the left and the right with their own faces, outfits, choreography and positions, the same low camera angle in one continuous take, the same timing and choreography. The ONLY change: the lead dancer in the center foreground with long dark hair, in the grey crop top and the wide brown plaid trousers, is now the person in [Image 1]. [Image 1] is the sole reference for the lead dancer; [Video 1] is for the dance, the backup dancers and the camera only.
+
+The lead dancer = the person in [Image 1], in every frame: copy the exact face from [Image 1] - face shape, eye color and eye shape, eyebrows, nose, mouth, skin tone, age, hair color, hair length and hairstyle, and any beard, moustache, glasses or freckles exactly as in the photo. The same real person in every frame, from the first second to the last, so their friends instantly recognize them, also in the hair tosses and when the head turns. Never morph, never drift back to the original dancer's face, never add or remove facial hair. The lead dancer has the body and the clothes of the person in [Image 1], never the grey crop top and the wide brown plaid trousers of the original dancer; if [Image 1] shows only the head or the upper body, invent the rest so it matches naturally.
+
+The choreography, matching the reference second by second:
+0-1 s: bent over, the head dips low.
+1-4 s: rises up, a hand on the hip, hip sways.
+4-7 s: a hand turns beside the face, a head toss.
+7-10 s: hip sways with one hand raised, a big head toss.
+10-15 s: hands to the head, side tilts, ends facing the camera.
+
+Only replace the lead dancer; the backup dancers, the studio, the moves and the camera stay completely unchanged. Keep everything else the same.
+
+Anatomy rules: one head only, on the lead dancer's shoulders. Two arms and two hands, no extra limbs. The backup dancers keep their own faces and never get the face of [Image 1]. No text, no logos, no watermark, no extra people, no cuts. No dialogue throughout the entire video. No background music.
    ```
 
 2. Press Generate, then download the 9:16 MP4.
@@ -133,7 +146,7 @@ Pet and Human each copy a viral reel of the trend, and your photo takes the plac
 | | Pet | Human |
 |---|---|---|
 | Photo | Your pet | You |
-| How it works | Seedance 2.5 puts your pet into the reel itself | Standard: Seedance 2.0 Mini makes a new clip that follows the reel. Best: top-quality AI video models put you into the reel itself |
+| How it works | Seedance 2.5 puts your pet into the reel itself | Top-quality AI video models put you into the reel itself |
 | Length and frame | 15 s, vertical, 720p | 15 s, vertical, 720p |
 | Sound | The reel's song, put back on after the run | The reel's song, put back on after the run |
 
@@ -165,7 +178,7 @@ Both versions come with the sound of the reel they copy: the trend's edit of "Si
 | Your pet gets long brown fur or long ears (Pet) | The dog in the reel is a long-haired brown dachshund. The prompt keeps your pet's own coat; use a photo where the fur and ears are clear, then run it again. |
 | A cat looks like a dog (Pet) | Use a sharp photo with the whole cat in view. The prompt asks for a clear cat face and gentle head moves. |
 | A paw or the tail blurs on a head toss | This is common in fast moves. A second run comes out different. |
-| The face looks less like your photo (Human, Standard) | Use a sharp, front-facing photo in good light, run it again, or pick Best. |
+| The face looks less like your photo (Human) | Use a sharp, front-facing photo in good light, then run it again. |
 | The gray crop top or plaid pants show up (Human) | The dancer in the reel wears both. The prompts ask for your own clothes; run it again. |
 | The video model refuses a photo | Some photos get refused. The credits come back; try another photo. |
 
@@ -189,7 +202,7 @@ Yes. Pick Pet and add a photo of your cat. The prompt keeps the cat's face, whis
 
 ### Can I be in the middle spot myself?
 
-Yes. Pick Human and add one photo of yourself. It copies the original trio reel by @beridzelenee, with you as the dancer in the middle and two dancers beside you. Standard costs less and makes a new clip that follows the reel; Best puts you into the reel itself.
+Yes. Pick Human and add one photo of yourself. It copies the original trio reel by @beridzelenee, with you as the dancer in the middle and two dancers beside you. Top-quality AI video models put you into the reel itself.
 
 ### Is the dancing dog real?
 
@@ -215,12 +228,12 @@ No. The reels are TikTok creators' own posts, and your photo replaces the one in
 
 ## New AI video trends this week
 
-- [Tiger Fight AI: Beat the Tiger on CCTV](https://www.makeviral.ai/templates/cctv-tiger-fight-ai-trend): A security camera on a forest path. A tiger leaps out of the bushes, and you fight it and pin it to the ground. Add one photo of yourself or your pet, and the trend's phonk sound comes with it.
-- [The Office Parkour AI Trend: You Shout "Parkour!" in the Office](https://www.makeviral.ai/templates/the-office-parkour-ai-trend): Dive over the couch, land upside down and shout "Parkour!" into the camera, then jump off the reception counter while the crew leaps over the desks. The whole office parkour scene, 24 seconds, with its own shouts.
-- [Huell Money AI: The Breaking Bad Money Pile Scene, Starring You](https://www.makeviral.ai/templates/huell-money-ai-trend): A storage unit, a bed-size pile of cash, and you fall back onto it with your eyes closed while your friend tells you to quit it. Then they give in and lie down next to you. With the scene's own lines.
-- [Peaky Blinders Explosion Scene, Starring You](https://www.makeviral.ai/templates/peaky-blinders-explosion-ai-trend): A flat cap, a long black overcoat, a match at your lips. The red-brick manor blows up behind you and you walk slowly toward the camera through the smoke, never looking back. One photo, 15 seconds, with the clip's song.
-- [Mbappe Run vs Argentina AI: The Mbappe Sprint, Starring You](https://www.makeviral.ai/templates/mbappe-sprint-ai-trend): A sunny pitch, one long sprint with the ball, a defender in a striped shirt crashing into you, and you sitting on the grass complaining while the commentator shouts "It's a penalty!". In your own clothes. It is an AI video, not real match footage.
-- [Perfume Transition AI Trend: Spray, Flame, Gangster Look](https://www.makeviral.ai/templates/perfume-transition-ai-trend): Sniff the perfume, spray it at the camera, and a lighter turns the spray into a fireball. Add one photo, and you or your pet step out of the flame in a flat cap, dark sunglasses and a long magenta coat, with the trend's song.
+- [Kara Sevda AI Trend: Your AI Video with Celebrity Stars Kemal and Emir](https://www.makeviral.ai/templates/ai-video-with-celebrity): You film a night selfie, the camera swings to the Kemal look-alike in his navy suit, face to face with you, and the Emir look-alike walks in and rests his head on his shoulder, jealous. One photo is enough. It is an AI video with look-alikes, not a real meeting.
+- [Misanthropy Meme AI: You as the Horned Anime Side-Eye](https://www.makeviral.ai/templates/misanthropy-meme-ai-trend): Your photo becomes a hand-drawn anime character with small horns. It glances left and right on a gray screen, then the background floods red and it breaks into a slow, smug grin, twice, to the trend's laughing beat. One photo in, an 8-second vertical clip out.
+- [Ahh Almost Almost: Train Hard, Miss by an Inch, From One Photo](https://www.makeviral.ai/templates/almost-almost-ai-trend): "While they're out partying btw": you grind alone late at night. Then the big shot rolls around the rim and out, twice, as the sound groans "ahhh almost almost". One photo in, an 11-second clip with the trend's own sound out.
+- [If I Was ChatGPT Trend: Your Observe, Just Observe Mood Board](https://www.makeviral.ai/templates/if-i-was-chatgpt-trend): Add one photo. The AI looks at it, picks the city, season, flower, painting, animal and element that fit you, and puts them around your photo in one mood board with short labels.
+- [Davul Zurna Yapay Zeka: Dance and Sing in the Viral Warehouse Clip](https://www.makeviral.ai/templates/davul-zurna-ai-trend): You dance between a zurna player and a davul player in a big workshop, walk up to the camera, sing right into it and walk back with your arms up. One photo, three for the whole band, or your pet. 15 seconds, with the live davul and zurna.
+- [Come On Barbie Let's Go Party AI: Do the Barbie Girl Dance Trend From Two Photos](https://www.makeviral.ai/templates/barbie-girl-dance-ai-trend): You turn around, sway your hips, pump a fist on "ah ah ah yeah" and lean on each other, side by side, on the sped-up Barbie Girl beat. Add two photos and get a real couple's viral reel with your faces and the song.
 
 ## Make your own Single Ladies Dog video
 

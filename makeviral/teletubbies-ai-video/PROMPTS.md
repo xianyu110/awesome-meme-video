@@ -113,7 +113,7 @@ Use the uploaded image as the base. A photorealistic vertical 9:16 photo, like a
 On the far side of the trench, four characters in plush costumes stand in a queue, a little staggered so every face shows. At the FRONT, right at the edge of the trench and close to the camera, the pet from the photo stands upright on its hind legs in a lime-green plush costume with a straight upright stick antenna; its own head, face, ears and fur show through the round opening of the hood, with the same species and breed look, face, eyes, ears, muzzle, fur colors and markings as in the photo and its natural head size, so its owner recognizes it at once. Behind it three person-sized characters in plush costumes, each with a plain, smooth, pale doll-like face in the opening: one red, with a small round loop antenna; one yellow, with a thin curly antenna; one purple and the tallest, with an upside-down triangle antenna. Each wears a chubby, velvety full-body plush costume with a round hood that frames the face in a round opening, the antenna on top, short mitten arms and a grey square belly panel; they waddle and bounce. The pet looks down at the muddy water, unsure. Exactly one animal and three costume characters, no people without costumes. No text, no letters, no logos, no watermark, no frame.
 ```
 
-### 6. 3. Press the film button on the still to open AI Video with the still as the first frame. Settings: Kling 3.0, 10 s, 1080p, 9:16, sound on. The video prompt
+### 6. 3. Press the film button on the still to open AI Video with the still as the first frame. Settings: Seedance 2.5, 10 s, 720p, 9:16, sound on. The video prompt
 
 *Kind: video_prompt*
 

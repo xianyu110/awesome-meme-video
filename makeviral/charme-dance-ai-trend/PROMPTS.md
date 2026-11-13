@@ -65,7 +65,7 @@ Audio: an original smooth old-school R&B and soul groove at a mid tempo, warm ba
 Use the uploaded image as the base. 9:16 vertical photo, like a real phone photo taken at night from inside a dancing crowd, at the height of the pet. The pet from the uploaded image stands upright on its two hind legs in the middle of a packed open-air charme party at night in a historic old square of Rio de Janeiro: old two-storey colonial houses with painted walls and colorful murals, warm string lights across the street, bright white floodlights on tall poles, blue market tents. Adult partygoers in light summer clothes dance around it, some hold up their phones to film it. The pet faces the camera with a happy, cheeky face, its front paws held up in front of its chest as if it is about to dance. Its whole body is in view, from the ears to the hind paws, with its tail. Realistic photo with natural night colors and a soft, shallow depth of field. Exactly one animal. No clothes on the pet. No children. No text, no logos, no club shirts, no readable signs, no watermark.
 ```
 
-### 4. 3. Press the film button on the still to open AI Video with the still as the first frame. Settings: Kling 3.0, 10 s, 1080p, 9:16, sound on. The video prompt
+### 4. 3. Press the film button on the still to open AI Video with the still as the first frame. Settings: Seedance 2.5, 10 s, 720p, 9:16, sound on. The video prompt
 
 *Kind: video_prompt*
 

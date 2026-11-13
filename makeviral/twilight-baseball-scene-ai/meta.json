@@ -29,7 +29,7 @@
       "text": "Use the input pet image as the main subject and strictly preserve the pet's face, fur colors, markings, ears and body. A vampire pitcher in misty twilight: the pet stands upright on its hind legs on a plain dirt pitcher's mound in a wet grassy clearing at the edge of a dark pine forest under a low, stormy grey sky, thick grey-blue mist between the pines, icy 7000K light, a navy and crisp white athletic outfit: a small baseball jersey with navy sleeves and a white body, plain, with no letters, no numbers and no logo. It holds a baseball in its front paws, ready for the wind-up. Bullet-time editorial energy, photorealistic, detailed fur. Full body, the face toward the camera.\n\nAnimal paws, never human hands. Exactly one animal, no person. No fangs, no red eyes. Vertical 9:16. No text, no logos, no watermark."
     },
     {
-      "label": "3. Press the film button on the still to open AI Video with the still as the first frame. Settings: Kling 3.0, 10 s, 1080p, 9:16, sound on. The video prompt",
+      "label": "3. Press the film button on the still to open AI Video with the still as the first frame. Settings: Seedance 2.5, 10 s, 720p, 9:16, sound on. The video prompt",
       "variant": null,
       "kind": "video_prompt",
       "text": "Keep the pet's face, fur colors, markings, ears and size and the jersey exactly as in the image. A vampire pitcher in misty twilight, photorealistic, cinematic. 0-4 s: the pet, upright on its hind legs, rises into an impossibly graceful baseball wind-up, one hind leg high in the air, leans back, then snaps forward in supernatural speed to hurl the ball into the fog and lands in an elegant crouch. 4-6 s: thunder booms and lightning lights up the sky as a bat cracks somewhere in the mist and the ball flies high toward the pines. 6-10 s: the pet sprints across the wet grass at supernatural speed, leaps high between the pine trees, catches the ball in its front paws in mid-air, lands softly and looks at the camera. Audio: rolling thunder, wind in the pines, the crack of a bat, the pet's own happy sound. No music, no lyrics, no speech. Exactly one animal, never a person, animal paws, never human hands, the natural body volume of that animal, no morphing. Exactly one ball. No fangs. No text, no logos, no watermark."
@@ -49,5 +49,5 @@
     "Make your own Twilight Baseball AI video"
   ],
   "prompt_count": 3,
-  "scraped_at": "2026-11-12"
+  "scraped_at": "2026-11-13"
 }

@@ -88,12 +88,22 @@ One-tap version of this variant: https://www.makeviral.ai/templates/nicole-kidma
 
 #### Variant: Pet
 
-Settings: 1 photo (your pet) · Seedance 2.0 Mini · 14 s · 720p · 9:16 · no sound · 45 credits in one tap.
+Settings: 1 photo (your pet) · Seedance 2.5 · 14 s · 720p · 9:16 · no sound · 213 credits in one tap.
 
-1. The video prompt is filled in. Settings: Seedance 2.0 Mini, 14 s, 720p, 9:16, sound off. The video prompt:
+1. The video prompt is filled in. Settings: Seedance 2.5, 14 s, 720p, 9:16, sound off. The video prompt:
 
    ```text
-   [Video 1] is a motion guide only. Copy its camera moves, timing and dance moves, the sunny city sidewalk with tall palm trees, the bus stop with a bench and a glass shelter, the red curb, the bus that drives past, the traffic and the green hills in the distance, filmed with a handheld phone camera. Do NOT copy the dog in [Video 1]: not its tan fur, face, ears or black collar. Replace it completely. The dancer is the pet in [Image 1], standing upright on its hind legs like a person the whole time. Keep the face, fur colors, markings, ears and body from [Image 1] in every shot, with no collar unless [Image 1] shows one. The pet waits at the bus stop while the bus drives past, then turns to the camera and dances on the beat: low squats with the front paws at the chest, side steps, a hip sway, a front paw waved in the air and a little hop, then it stands tall and looks down the street. Photorealistic, like a real phone video on a sunny day. One continuous shot. No text, no letters, no signs with words, no logos, no watermark, no extra animals.
+   Recreate the reference video [Video 1] shot for shot: the same sunny city sidewalk with tall palm trees, the same bus stop with a bench and a glass shelter, the red curb, the bus that drives past, the traffic, the people walking by and the green hills in the distance, the same handheld phone camera, the same framing, timing and dance moves. The ONLY change: the dog with the black collar who stands upright and dances at the bus stop is now the pet in [Image 1].
+
+The dancer = the pet in [Image 1], whole body, in every frame: the same species and breed, head shape, muzzle, eyes, eye color, ears, fur colors, fur length, markings and body shape as in [Image 1], with the natural body volume and proportions of that animal: never flattened, squashed, stretched or merged with anything, so its owner instantly recognizes it, also side-on at the start. It stands upright on its hind legs like a person the whole time. Never drift back to the dog of the original video: not the coat, the face or the ears of the dog in the video, and no black collar unless [Image 1] shows one. If [Image 1] shows a cat or another animal, that animal dances in the same place with the same moves, with its own ears, muzzle and tail.
+
+The dance, one continuous take, matching the reference second by second, on the beat:
+[0-3 s]: stands upright side-on at the bus stop and looks down the street while the bus drives past.
+[3-6 s]: turns to the camera, low squats with the front paws at the chest.
+[6-10 s]: side steps, a hip sway, a front paw waved in the air.
+[10-14 s]: a little hop, then stands tall and looks down the street.
+
+Anatomy rules: one head only, one tail. Two hind legs on the ground and two front legs, no extra legs or paws, no human hands. No text, no letters, no signs with words, no logos, no watermark, no extra animals. No dialogue throughout the entire video. No background music.
    ```
 
 2. Press Generate, then download the 9:16 MP4.
@@ -132,15 +142,7 @@ Each version copies a viral AI reel of the dance, and your photo takes the place
 
 **Human or Pet?** Press "Create your own" and pick one, or press the button under its reel on this page.
 
-**Which quality?** Human has one: Seedance 2.5 puts you into the reel itself at 720p, vertical 9:16: the same alley, the same moves, the same camera and the reel's own mouth moves, with your face and clothes. It can take up to several minutes. Pet has two. Standard is the default and costs fewer credits. Best costs more. The exact price shows on the Generate button before you spend anything.
-
-| Pet | Standard (default) | Best |
-|---|---|---|
-| How it works | Seedance 2.0 Mini makes a new clip that follows the reel's moves, camera and timing. | Top-quality AI video models put your pet into the reel itself: the same shots, the same scene, the same camera. |
-| Frame | Vertical 9:16, 720p | Vertical 9:16, 720p |
-| Sound | The reel's song, put on after the run; you can turn it off | The same |
-
-Pick Standard for the lower price. Pick Best for the closest copy of the reel; it can take 5 to 15 minutes. Every run is a new take, so results differ.
+**How it works:** Human uses Seedance 2.5: it puts you into the reel itself at 720p, vertical 9:16: the same alley, the same moves, the same camera and the reel's own mouth moves, with your face and clothes. It can take up to several minutes. For Pet, top-quality AI video models put your pet into the reel itself: the same shots, the same scene, the same camera, vertical 9:16 at 720p. It can take 5 to 15 minutes. Both come with the reel's song, put on after the run; you can turn it off. The exact price shows on the Generate button before you spend anything. Every run is a new take, so results differ.
 
 ## Who should do the Nicole Kidman dance?
 
@@ -167,7 +169,7 @@ Your clip comes with the sound of the reel it copies: the hook of "Nicole Kidman
 |---|---|
 | The face looks less like your photo | Use a sharp, front-facing photo in good light, then run it again. |
 | Long black hair or a black tank top shows up (Human) | The dancer in the reel has both. The prompts ask for them only when your photo has them. Run it again. |
-| Your pet comes out tan or gets a black collar (Pet) | The dog in the reel is tan with a black collar. Use a photo where the fur is clear, run it again, or pick Best. |
+| Your pet comes out tan or gets a black collar (Pet) | The dog in the reel is tan with a black collar. Use a photo where the fur is clear, then run it again. |
 | A cat looks stiff on its hind legs | The reel stars a dog. Use a photo with the whole cat in view, then run it again. |
 | A hand or a paw blurs in the spin or a hop | This is common in fast moves. A second run comes out different. |
 | The video model refuses a photo | Some photos get refused. The credits come back; try another photo. |
@@ -188,7 +190,7 @@ TikTok tutorials of the routine credit the choreography to the dancer Kyler Irby
 
 ### How do I make the Nicole Kidman dance AI video with my photo?
 
-Press "Create your own", pick Human or Pet (Pet also has Standard or Best), and add one clear photo of yourself or your pet. Press Generate; the button shows the price first. You get a vertical clip of 13 seconds (Human) or 14 seconds (Pet) with the song. You write no prompt, and the video waits in My videos when it is ready.
+Press "Create your own", pick Human or Pet, and add one clear photo of yourself or your pet. Press Generate; the button shows the price first. You get a vertical clip of 13 seconds (Human) or 14 seconds (Pet) with the song. You write no prompt, and the video waits in My videos when it is ready.
 
 ### Can my dog or cat do the Nicole Kidman dance?
 
@@ -200,7 +202,7 @@ No. The moves come from the reel, so the person or pet in your photo does the wh
 
 ### Which AI models make the videos?
 
-Human uses Seedance 2.5: it puts you into the reel itself at 720p, with the reel's own shots, camera and mouth moves, and can take up to several minutes. Pet has two qualities. Standard is the default and costs less: Seedance 2.0 Mini makes a new vertical 720p clip that follows the reel's moves and timing, and your pet can look less like its photo. Best costs more: top-quality AI video models put your pet into the reel itself at 720p, in 5 to 15 minutes.
+Human uses Seedance 2.5: it puts you into the reel itself at 720p, with the reel's own shots, camera and mouth moves, and can take up to several minutes. Pet uses top-quality AI video models: they put your pet into the reel itself at 720p, in 5 to 15 minutes.
 
 ### Will Nicole Kidman or ADÉLA be in my video?
 
@@ -208,7 +210,7 @@ No. Both versions copy AI reels made by TikTok creators, and your photo replaces
 
 ### How long is the video and what format is it?
 
-Human makes 13 seconds and Pet makes 14 seconds, both vertical 9:16 MP4 files with the song. Human is 720p; Pet is 720p on Standard and on Best.
+Human makes 13 seconds and Pet makes 14 seconds, both vertical 9:16 MP4 files with the song. Both are 720p.
 
 ### Is the Nicole Kidman dance the same as the Adela Nicole Kidman dance?
 
@@ -242,12 +244,12 @@ TikTok has the clips, from tutorials to the odd Nicole Kidman dancing meme. Here
 
 ## New AI video trends this week
 
-- [Tiger Fight AI: Beat the Tiger on CCTV](https://www.makeviral.ai/templates/cctv-tiger-fight-ai-trend): A security camera on a forest path. A tiger leaps out of the bushes, and you fight it and pin it to the ground. Add one photo of yourself or your pet, and the trend's phonk sound comes with it.
-- [The Office Parkour AI Trend: You Shout "Parkour!" in the Office](https://www.makeviral.ai/templates/the-office-parkour-ai-trend): Dive over the couch, land upside down and shout "Parkour!" into the camera, then jump off the reception counter while the crew leaps over the desks. The whole office parkour scene, 24 seconds, with its own shouts.
-- [Huell Money AI: The Breaking Bad Money Pile Scene, Starring You](https://www.makeviral.ai/templates/huell-money-ai-trend): A storage unit, a bed-size pile of cash, and you fall back onto it with your eyes closed while your friend tells you to quit it. Then they give in and lie down next to you. With the scene's own lines.
-- [Peaky Blinders Explosion Scene, Starring You](https://www.makeviral.ai/templates/peaky-blinders-explosion-ai-trend): A flat cap, a long black overcoat, a match at your lips. The red-brick manor blows up behind you and you walk slowly toward the camera through the smoke, never looking back. One photo, 15 seconds, with the clip's song.
-- [Mbappe Run vs Argentina AI: The Mbappe Sprint, Starring You](https://www.makeviral.ai/templates/mbappe-sprint-ai-trend): A sunny pitch, one long sprint with the ball, a defender in a striped shirt crashing into you, and you sitting on the grass complaining while the commentator shouts "It's a penalty!". In your own clothes. It is an AI video, not real match footage.
-- [Perfume Transition AI Trend: Spray, Flame, Gangster Look](https://www.makeviral.ai/templates/perfume-transition-ai-trend): Sniff the perfume, spray it at the camera, and a lighter turns the spray into a fireball. Add one photo, and you or your pet step out of the flame in a flat cap, dark sunglasses and a long magenta coat, with the trend's song.
+- [Kara Sevda AI Trend: Your AI Video with Celebrity Stars Kemal and Emir](https://www.makeviral.ai/templates/ai-video-with-celebrity): You film a night selfie, the camera swings to the Kemal look-alike in his navy suit, face to face with you, and the Emir look-alike walks in and rests his head on his shoulder, jealous. One photo is enough. It is an AI video with look-alikes, not a real meeting.
+- [Misanthropy Meme AI: You as the Horned Anime Side-Eye](https://www.makeviral.ai/templates/misanthropy-meme-ai-trend): Your photo becomes a hand-drawn anime character with small horns. It glances left and right on a gray screen, then the background floods red and it breaks into a slow, smug grin, twice, to the trend's laughing beat. One photo in, an 8-second vertical clip out.
+- [Ahh Almost Almost: Train Hard, Miss by an Inch, From One Photo](https://www.makeviral.ai/templates/almost-almost-ai-trend): "While they're out partying btw": you grind alone late at night. Then the big shot rolls around the rim and out, twice, as the sound groans "ahhh almost almost". One photo in, an 11-second clip with the trend's own sound out.
+- [If I Was ChatGPT Trend: Your Observe, Just Observe Mood Board](https://www.makeviral.ai/templates/if-i-was-chatgpt-trend): Add one photo. The AI looks at it, picks the city, season, flower, painting, animal and element that fit you, and puts them around your photo in one mood board with short labels.
+- [Davul Zurna Yapay Zeka: Dance and Sing in the Viral Warehouse Clip](https://www.makeviral.ai/templates/davul-zurna-ai-trend): You dance between a zurna player and a davul player in a big workshop, walk up to the camera, sing right into it and walk back with your arms up. One photo, three for the whole band, or your pet. 15 seconds, with the live davul and zurna.
+- [Come On Barbie Let's Go Party AI: Do the Barbie Girl Dance Trend From Two Photos](https://www.makeviral.ai/templates/barbie-girl-dance-ai-trend): You turn around, sway your hips, pump a fist on "ah ah ah yeah" and lean on each other, side by side, on the sped-up Barbie Girl beat. Add two photos and get a real couple's viral reel with your faces and the song.
 
 ## Make your own Nicole Kidman Dance video
 

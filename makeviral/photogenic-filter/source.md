@@ -117,7 +117,7 @@ One-tap version of this variant: https://www.makeviral.ai/templates/photogenic-f
 
 #### Variant: Pet
 
-Settings: 1 photo (your pet) · Kling 3.0 · 10 s · 1080p · 9:16 · with sound · 56 credits in one tap.
+Settings: 1 photo (your pet) · Seedance 2.5 · 10 s · 720p · 9:16 · with sound · 128 credits in one tap.
 
 1. Open [AI Photo with this template](https://www.makeviral.ai/photo?template=photogenic-filter&variant=pet) and add your photo (your pet). The photo prompt is filled in:
 
@@ -126,7 +126,7 @@ Settings: 1 photo (your pet) · Kling 3.0 · 10 s · 1080p · 9:16 · with sound
    ```
 
 2. Check the still before you spend credits on the video. Everything the video model does starts from that one frame.
-3. Press the film button on the still to open AI Video with the still as the first frame. Settings: Kling 3.0, 10 s, 1080p, 9:16, sound on. The video prompt:
+3. Press the film button on the still to open AI Video with the still as the first frame. Settings: Seedance 2.5, 10 s, 720p, 9:16, sound on. The video prompt:
 
    ```text
    Keep the pet's face, eyes, ears, fur colors, markings and body exactly as in the image, with the natural body volume and proportions of that animal. A photogenic photo shoot with a slow-motion and freeze-frame edit. 0-2 s: in slow motion the pet tilts its head at the camera. 2-3 s: a shutter click and a quick white flash: the frame freezes and turns black and white like a printed still photo for one second. 3-5 s: the color comes back; in slow motion the pet perks up its ears and licks its nose. 5-6 s: click, flash, black-and-white freeze. 6-8 s: color again; the pet turns its head to one side and back to the lens. 8-9 s: click, flash, the last black-and-white freeze frame, held. 9-10 s: a fast zoom blur transition. Audio: an upbeat, catchy beat with a shutter click and a soft flash sound on each freeze. No words. Exactly one animal, no people, no extra legs, no morphing. No text, no logos, no watermark.
@@ -176,8 +176,8 @@ Press "Create your own" and pick one. All three take one photo and make a vertic
 | | Photo shoot | Photo print | Pet |
 |---|---|---|---|
 | What you get | You pose in slow motion; each pose freezes into a black and white still | A camera on a desk printer prints your photo | Your dog or cat poses; each pose freezes in black and white |
-| How it works | Top-quality AI video models, including Seedance 2.5, make the video straight from your photo, so your face stays close to it | The same, straight from your photo | Standard: a still of your pet, then an AI video model plays it. Best: the stronger model |
-| Frame | 720p | 720p | Standard 1080p, Best 720p |
+| How it works | Top-quality AI video models, including Seedance 2.5, make the video straight from your photo, so your face stays close to it | The same, straight from your photo | A still of your pet first, then a top-quality AI video model plays it |
+| Frame | 720p | 720p | 720p |
 | Sound | An upbeat beat, a shutter click and a flash sound on each freeze | Printer whirr, paper, a light beat | The same as Photo shoot |
 
 The exact price shows on the Generate button before you spend anything, and you write no prompt.
@@ -269,12 +269,12 @@ Yes. Each video costs credits, and the create page shows the exact price on the 
 
 ## New AI video trends this week
 
-- [Tiger Fight AI: Beat the Tiger on CCTV](https://www.makeviral.ai/templates/cctv-tiger-fight-ai-trend): A security camera on a forest path. A tiger leaps out of the bushes, and you fight it and pin it to the ground. Add one photo of yourself or your pet, and the trend's phonk sound comes with it.
-- [The Office Parkour AI Trend: You Shout "Parkour!" in the Office](https://www.makeviral.ai/templates/the-office-parkour-ai-trend): Dive over the couch, land upside down and shout "Parkour!" into the camera, then jump off the reception counter while the crew leaps over the desks. The whole office parkour scene, 24 seconds, with its own shouts.
-- [Huell Money AI: The Breaking Bad Money Pile Scene, Starring You](https://www.makeviral.ai/templates/huell-money-ai-trend): A storage unit, a bed-size pile of cash, and you fall back onto it with your eyes closed while your friend tells you to quit it. Then they give in and lie down next to you. With the scene's own lines.
-- [Peaky Blinders Explosion Scene, Starring You](https://www.makeviral.ai/templates/peaky-blinders-explosion-ai-trend): A flat cap, a long black overcoat, a match at your lips. The red-brick manor blows up behind you and you walk slowly toward the camera through the smoke, never looking back. One photo, 15 seconds, with the clip's song.
-- [Mbappe Run vs Argentina AI: The Mbappe Sprint, Starring You](https://www.makeviral.ai/templates/mbappe-sprint-ai-trend): A sunny pitch, one long sprint with the ball, a defender in a striped shirt crashing into you, and you sitting on the grass complaining while the commentator shouts "It's a penalty!". In your own clothes. It is an AI video, not real match footage.
-- [Perfume Transition AI Trend: Spray, Flame, Gangster Look](https://www.makeviral.ai/templates/perfume-transition-ai-trend): Sniff the perfume, spray it at the camera, and a lighter turns the spray into a fireball. Add one photo, and you or your pet step out of the flame in a flat cap, dark sunglasses and a long magenta coat, with the trend's song.
+- [Kara Sevda AI Trend: Your AI Video with Celebrity Stars Kemal and Emir](https://www.makeviral.ai/templates/ai-video-with-celebrity): You film a night selfie, the camera swings to the Kemal look-alike in his navy suit, face to face with you, and the Emir look-alike walks in and rests his head on his shoulder, jealous. One photo is enough. It is an AI video with look-alikes, not a real meeting.
+- [Misanthropy Meme AI: You as the Horned Anime Side-Eye](https://www.makeviral.ai/templates/misanthropy-meme-ai-trend): Your photo becomes a hand-drawn anime character with small horns. It glances left and right on a gray screen, then the background floods red and it breaks into a slow, smug grin, twice, to the trend's laughing beat. One photo in, an 8-second vertical clip out.
+- [Ahh Almost Almost: Train Hard, Miss by an Inch, From One Photo](https://www.makeviral.ai/templates/almost-almost-ai-trend): "While they're out partying btw": you grind alone late at night. Then the big shot rolls around the rim and out, twice, as the sound groans "ahhh almost almost". One photo in, an 11-second clip with the trend's own sound out.
+- [If I Was ChatGPT Trend: Your Observe, Just Observe Mood Board](https://www.makeviral.ai/templates/if-i-was-chatgpt-trend): Add one photo. The AI looks at it, picks the city, season, flower, painting, animal and element that fit you, and puts them around your photo in one mood board with short labels.
+- [Davul Zurna Yapay Zeka: Dance and Sing in the Viral Warehouse Clip](https://www.makeviral.ai/templates/davul-zurna-ai-trend): You dance between a zurna player and a davul player in a big workshop, walk up to the camera, sing right into it and walk back with your arms up. One photo, three for the whole band, or your pet. 15 seconds, with the live davul and zurna.
+- [Come On Barbie Let's Go Party AI: Do the Barbie Girl Dance Trend From Two Photos](https://www.makeviral.ai/templates/barbie-girl-dance-ai-trend): You turn around, sway your hips, pump a fist on "ah ah ah yeah" and lean on each other, side by side, on the sped-up Barbie Girl beat. Add two photos and get a real couple's viral reel with your faces and the song.
 
 ## Make your own Photogenic Filter video
 

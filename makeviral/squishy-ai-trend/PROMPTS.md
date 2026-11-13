@@ -41,7 +41,7 @@ Macro cinematic shot of a glossy silicone jelly human face resting on wooden tab
 Use the uploaded image as the base: keep the pet's species, breed, face, eye color, fur color and markings. Hyper realistic glossy silicone jelly face mask of the pet resting on wooden table surface, soft squishy skin texture, cheeks slightly spread outward against the table, face slightly flattened by gravity, macro close up top-down portrait, perfectly centered composition, ultra smooth reflective skin highlights, studio soft lighting reflections, extremely detailed fur and eyelashes, hyper realistic octane render, oddly satisfying ASMR aesthetic, no hands visible, portrait orientation, aspect ratio 9:16, ultra detailed 8k, gentle calm expression, relaxed eyes, smooth cheeks, soft innocent look, use reference image for 100% face identity, the pet's face and identity must exactly match the uploaded reference image. Exactly one animal face. No text, no logos, no watermark.
 ```
 
-### 4. 3. Press the film button on the still to open AI Video with the still as the first frame. Settings: Kling 3.0, 8 s, 1080p, 9:16, sound on. The video prompt
+### 4. 3. Press the film button on the still to open AI Video with the still as the first frame. Settings: Seedance 2.5, 8 s, 720p, 9:16, sound on. The video prompt
 
 *Kind: video_prompt*
 

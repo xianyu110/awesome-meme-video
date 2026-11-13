@@ -29,7 +29,7 @@
       "text": "Use the input pet image as the main subject and strictly preserve the pet's original appearance, fur color, face shape, and identity. A photorealistic still from a live pro basketball game filmed from the courtside seats on a long telephoto lens: on a light-maple court, the pet stands upright on its hind legs and bends down low over a basketball at the top of the three-point arc, dribbling it with its front paws and sizing up a defender in a plain white jersey. Warm arena light, slightly muted film colour, natural grain. A packed courtside front row of adult fans behind the sideline. Full body, the pet large in the frame, its face toward the camera.\n\nIt touches the ball with its front paws: animal paws, never human hands. Exactly one animal, no person in the front. Vertical 9:16. No captions, no scoreboard graphics, no logos, no team names, no readable numbers, no watermark."
     },
     {
-      "label": "3. Press the film button on the still to open AI Video with the still as the first frame. Settings: Kling 3.0, 12 s, 1080p, 9:16, sound on. The video prompt",
+      "label": "3. Press the film button on the still to open AI Video with the still as the first frame. Settings: Seedance 2.5, 12 s, 720p, 9:16, sound on. The video prompt",
       "variant": null,
       "kind": "video_prompt",
       "text": "Keep the pet's face, fur colors, markings, ears and size and the arena exactly as in the image. A live pro basketball game filmed from the courtside seats on a long telephoto lens, one continuous handheld take, no cuts, photorealistic. 0-3 s: the pet, upright on its hind legs, dribbles low with its front paws, sizing up the defender in white. 3-5 s: the defender reaches in and pokes the ball loose. 5-7 s: the snatch back: the pet gets down extremely low and rips the ball right back with its front paws; the defender stumbles forward. 7-9 s: the pet hops back behind the three-point line and shoots the ball with both front paws; the camera whips up and follows the ball in a high arc. 9-10 s: the ball drops clean through the net, a splash. 10-12 s: the camera drops back to the court: the pet trots back up the court proudly while the courtside fans jump up and cheer. Audio: sneakers squeaking, the ball bouncing, a rising \"oh, oh, oh\" from the fans, a big cheer at the splash. No background music, no lyrics, no commentary. No dialogue throughout the entire video. Exactly one animal, never a person, animal paws, never human hands, the natural body volume of that animal, no morphing. Exactly one ball. No logos, no team names, no readable numbers, no text, no watermark."
@@ -50,5 +50,5 @@
     "Make your own Snatch Back Splash video"
   ],
   "prompt_count": 3,
-  "scraped_at": "2026-11-12"
+  "scraped_at": "2026-11-13"
 }

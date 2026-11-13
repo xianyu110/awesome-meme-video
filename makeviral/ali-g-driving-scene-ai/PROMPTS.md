@@ -97,7 +97,7 @@ Exactly three people in the car, nobody else. One steering wheel, no extra limbs
 Use the uploaded image as the base. 9:16 vertical photo, like a real phone photo taken from the dashboard of a small old car, looking back at the driver's seat. The pet from the uploaded image sits upright in the driver's seat of a small, old, boxy 1980s three-door hatchback with a stripped interior: a bare metal roll cage behind the front seats, black racing bucket seats with harness belts, a painted teal-green dashboard, and a small, chunky light-blue padded steering wheel; outside the windows, a quiet red-brick suburban street of semi-detached houses in warm late-afternoon sun. Its two front paws rest on the top of the small, chunky light-blue padded steering wheel, and it looks straight into the camera with a dead-serious face. Its head, chest and front paws are in view, from the ears to the paws on the wheel, with the street and the houses behind the side window. Realistic photo with natural colors and warm late-afternoon light, a soft, shallow depth of field. Exactly one animal and no people. No clothes on the pet. No badges, no logos, no brand names and no text anywhere, not on the wheel, the seat, the dashboard or the windscreen. No watermark.
 ```
 
-### 5. 3. Press the film button on the still to open AI Video with the still as the first frame. Settings: Kling 3.0, 10 s, 1080p, 9:16, sound on. The video prompt
+### 5. 3. Press the film button on the still to open AI Video with the still as the first frame. Settings: Seedance 2.5, 10 s, 720p, 9:16, sound on. The video prompt
 
 *Kind: video_prompt*
 

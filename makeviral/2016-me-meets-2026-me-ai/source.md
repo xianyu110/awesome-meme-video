@@ -67,7 +67,7 @@ Everything runs in the browser. No editing app, no watermark.
 
 ### The by-hand way, with the exact prompts
 
-The one-tap flow runs these prompts for you. A photo prompt puts your photo into the scene (Nano Banana 2.1, image mode, 9:16, 1K), then a video prompt animates that still. To change them, copy them and edit them in AI Photo and AI Video.
+The one-tap flow runs these prompts for you. A photo prompt puts your photo into the scene (GPT Image 2.6, image mode, 9:16, 1K), then a video prompt animates that still. To change them, copy them and edit them in AI Photo and AI Video.
 
 #### Variant: Human
 
@@ -92,7 +92,7 @@ One-tap version of this variant: https://www.makeviral.ai/templates/2016-me-meet
 
 #### Variant: Pet
 
-Settings: 2 photos (your pet when young + your pet now) · Kling 3.0 · 10 s · 1080p · 9:16 · with sound · 56 credits in one tap.
+Settings: 2 photos (your pet when young + your pet now) · Seedance 2.5 · 10 s · 720p · 9:16 · with sound · 128 credits in one tap.
 
 1. Open [AI Photo with this template](https://www.makeviral.ai/photo?template=2016-me-meets-2026-me-ai&variant=pet) and add the two photos in this order: your pet when young, then your pet now. The photo prompt is filled in:
 
@@ -101,7 +101,7 @@ Settings: 2 photos (your pet when young + your pet now) · Kling 3.0 · 10 s · 
    ```
 
 2. Check the still before you spend credits on the video. Everything the video model does starts from that one frame.
-3. Press the film button on the still to open AI Video with the still as the first frame. Settings: Kling 3.0, 10 s, 1080p, 9:16, sound on. The video prompt:
+3. Press the film button on the still to open AI Video with the still as the first frame. Settings: Seedance 2.5, 10 s, 720p, 9:16, sound on. The video prompt:
 
    ```text
    An ordinary, unedited phone video filmed at pet height, in one continuous shot with no cuts, in natural light with a slight handheld shake, like a real clip on social media. Keep both animals' faces, fur, markings, ages and sizes exactly as in the image: the young one on the left is the pet in the past, and the older one on the right is the same pet today. {arrive_video} The younger version looks around in wonder, bounces over to today's version, sniffs it from head to tail and tilts its head in confusion. Today's version lets out a long, tired sigh, slowly lies down flat and closes its eyes. The younger version looks from its older self straight into the camera, shocked. Audio: the natural sound of the scene, one small surprised sound from the young pet and a long, tired sigh from the older pet. No music, no human voices, no talking. Exactly two animals, no people, no extra legs, no morphing, no cinematic look, no text, no subtitles, no logos.
@@ -169,7 +169,7 @@ The template works in two steps:
 | Sound | Your two spoken lines and the sound of the place | The same |
 | Price | Lower | Higher |
 
-The exact price shows on the Generate button before you spend anything. You write no prompt.
+The Pet version has one setting, Best: 10 seconds, vertical 9:16, 720p. The exact price shows on the Generate button before you spend anything. You write no prompt.
 
 **Is it the trend's own prompt?** The creators of the viral clips did not share their prompts. Ours follow the beats of the September clips that started the format: the arrival, the once-over and the "Why do you look so exhausted?" line. Seedance, the model behind the viral celebrity version, is the Best option.
 
@@ -180,7 +180,7 @@ The exact price shows on the Generate button before you spend anything. You writ
 | Both versions look the same age | Use photos that are further apart, or an old photo where your hair or style was clearly different. Then run it again. |
 | The two faces swap sides | Check the order: photo 1 is 2016 you, photo 2 is you now. Then run it again. |
 | The wrong one says a line, or both talk at once | Two people talking is hard for AI. Run it again or pick Best. |
-| The clip cuts to another shot | The prompt asks for one shot. Run it again or pick Best. |
+| The clip cuts to another shot | The prompt asks for one shot. Run it again. On Human, you can also pick Best. |
 | Your face looks less like your photo | Use a sharper, front-facing photo in good light. |
 | A line you typed comes out wrong | Keep each line short and simple, then run it again. |
 | The video model refuses the photo | Some photos get refused. The credits come back; try another photo. |
@@ -229,11 +229,11 @@ Not as of 12 October 2026. The viral clips came without a prompt, so ours are wr
 
 ### How long is the video, and does it have sound?
 
-10 seconds, vertical 9:16, as an MP4 file: 1080p with Standard, 720p with Best. It has its own sound: your two spoken lines and the sound of the place, with no music.
+10 seconds, vertical 9:16, as an MP4 file: 1080p with Standard, 720p with Best. The Pet version uses Best only, so it is 720p. It has its own sound: your two spoken lines and the sound of the place, with no music.
 
 ### Does the 2016 vs 2026 video cost credits?
 
-Yes. Each video costs credits, and the create page shows the exact price on the Generate button before you spend anything. Standard (Kling 3.0) costs less than Best (Seedance 2.5). If a video fails, the credits come back.
+Yes. Each video costs credits, and the create page shows the exact price on the Generate button before you spend anything. Standard (Kling 3.0) costs less than Best (Seedance 2.5). The Pet version has Best only. If a video fails, the credits come back.
 
 ### Can I make one with a celebrity's old and new photos?
 
@@ -267,12 +267,12 @@ The 2016 trend is the nostalgia wave in which people post their 2016 photos, son
 
 ## New AI video trends this week
 
-- [Tiger Fight AI: Beat the Tiger on CCTV](https://www.makeviral.ai/templates/cctv-tiger-fight-ai-trend): A security camera on a forest path. A tiger leaps out of the bushes, and you fight it and pin it to the ground. Add one photo of yourself or your pet, and the trend's phonk sound comes with it.
-- [The Office Parkour AI Trend: You Shout "Parkour!" in the Office](https://www.makeviral.ai/templates/the-office-parkour-ai-trend): Dive over the couch, land upside down and shout "Parkour!" into the camera, then jump off the reception counter while the crew leaps over the desks. The whole office parkour scene, 24 seconds, with its own shouts.
-- [Huell Money AI: The Breaking Bad Money Pile Scene, Starring You](https://www.makeviral.ai/templates/huell-money-ai-trend): A storage unit, a bed-size pile of cash, and you fall back onto it with your eyes closed while your friend tells you to quit it. Then they give in and lie down next to you. With the scene's own lines.
-- [Peaky Blinders Explosion Scene, Starring You](https://www.makeviral.ai/templates/peaky-blinders-explosion-ai-trend): A flat cap, a long black overcoat, a match at your lips. The red-brick manor blows up behind you and you walk slowly toward the camera through the smoke, never looking back. One photo, 15 seconds, with the clip's song.
-- [Mbappe Run vs Argentina AI: The Mbappe Sprint, Starring You](https://www.makeviral.ai/templates/mbappe-sprint-ai-trend): A sunny pitch, one long sprint with the ball, a defender in a striped shirt crashing into you, and you sitting on the grass complaining while the commentator shouts "It's a penalty!". In your own clothes. It is an AI video, not real match footage.
-- [Perfume Transition AI Trend: Spray, Flame, Gangster Look](https://www.makeviral.ai/templates/perfume-transition-ai-trend): Sniff the perfume, spray it at the camera, and a lighter turns the spray into a fireball. Add one photo, and you or your pet step out of the flame in a flat cap, dark sunglasses and a long magenta coat, with the trend's song.
+- [Kara Sevda AI Trend: Your AI Video with Celebrity Stars Kemal and Emir](https://www.makeviral.ai/templates/ai-video-with-celebrity): You film a night selfie, the camera swings to the Kemal look-alike in his navy suit, face to face with you, and the Emir look-alike walks in and rests his head on his shoulder, jealous. One photo is enough. It is an AI video with look-alikes, not a real meeting.
+- [Misanthropy Meme AI: You as the Horned Anime Side-Eye](https://www.makeviral.ai/templates/misanthropy-meme-ai-trend): Your photo becomes a hand-drawn anime character with small horns. It glances left and right on a gray screen, then the background floods red and it breaks into a slow, smug grin, twice, to the trend's laughing beat. One photo in, an 8-second vertical clip out.
+- [Ahh Almost Almost: Train Hard, Miss by an Inch, From One Photo](https://www.makeviral.ai/templates/almost-almost-ai-trend): "While they're out partying btw": you grind alone late at night. Then the big shot rolls around the rim and out, twice, as the sound groans "ahhh almost almost". One photo in, an 11-second clip with the trend's own sound out.
+- [If I Was ChatGPT Trend: Your Observe, Just Observe Mood Board](https://www.makeviral.ai/templates/if-i-was-chatgpt-trend): Add one photo. The AI looks at it, picks the city, season, flower, painting, animal and element that fit you, and puts them around your photo in one mood board with short labels.
+- [Davul Zurna Yapay Zeka: Dance and Sing in the Viral Warehouse Clip](https://www.makeviral.ai/templates/davul-zurna-ai-trend): You dance between a zurna player and a davul player in a big workshop, walk up to the camera, sing right into it and walk back with your arms up. One photo, three for the whole band, or your pet. 15 seconds, with the live davul and zurna.
+- [Come On Barbie Let's Go Party AI: Do the Barbie Girl Dance Trend From Two Photos](https://www.makeviral.ai/templates/barbie-girl-dance-ai-trend): You turn around, sway your hips, pump a fist on "ah ah ah yeah" and lean on each other, side by side, on the sped-up Barbie Girl beat. Add two photos and get a real couple's viral reel with your faces and the song.
 
 ## Make your own 2016 vs 2026 video
 

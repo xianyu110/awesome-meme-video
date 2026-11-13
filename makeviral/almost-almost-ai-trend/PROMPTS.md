@@ -1,0 +1,93 @@
+# Ahh Almost Almost: Train Hard, Miss by an Inch, From One Photo
+
+- Source: [makeviral](https://www.makeviral.ai/templates/almost-almost-ai-trend)
+- Slug: `almost-almost-ai-trend`
+
+Ahh almost almost is a November 2026 TikTok meme sound cut from a stream by the streamer Jynxzi.
+
+## Demo videos (CDN)
+
+- https://www.makeviral.ai/media/templates/almost-almost-ai-trend/original-trend-v2.mp4
+
+## Posters
+
+- https://www.makeviral.ai/media/templates/almost-almost-ai-trend/original-trend-v1.jpg
+
+## Prompts
+
+### 1. 1. The video prompt is filled in. Settings: Seedance 2.5, 11 s, 720p, 9:16, sound off. The video prompt
+
+*Kind: video_prompt*
+
+```text
+A two-part sports meme: late-night hard work, then the big try that misses by a tiny distance, twice.
+
+The athlete is the person in [Image 1], alone, in every frame: copy the exact face from [Image 1] (the face shape, eye color and eye shape, eyebrows, nose, mouth, skin tone, age, hair color, hair length and hairstyle, and any beard, moustache, glasses or freckles). The same face from the first frame to the last, so their friends recognize them at once, also in the close-ups and while they groan with the mouth open. They wear simple plain training clothes with no logo.
+
+Filmed like a real phone video for TikTok, vertical: photorealistic, natural skin, real light, a little handheld shake, not CGI, not a cartoon. Medium shots and close-ups keep the face large, sharp and well lit. An empty indoor basketball gym late at night, half the lights off, one hoop lit, a few balls on the floor.
+
+Shot 1 [0-2.2s]: a medium shot: the person trains hard alone, sweaty, dribbling fast between the legs and shooting jump shots one after another, breathing hard.
+Shot 2 [2.2-4.8s]: hard cut, wide from behind and to the side: the person takes a long shot from far out. The ball hits the rim, rolls all the way around it and falls OUT. The person stands stunned, both hands on the head, mouth wide open.
+Shot 3 [4.8-7.6s]: hard cut, a close-up of the face: total focus, a deep breath, eyes locked on the hoop, a small nod. Then a medium shot as they pick up the ball and set their feet again.
+Shot 4 [7.6-11s]: hard cut, wide: the second shot. The ball bounces on the front of the rim, rises, touches the back of the rim and drops out again, so close. The person drops to the knees, hands over the face, then looks up at the camera in disbelief.
+
+The ball never goes in. The person never speaks: no words, only a sharp breath at each try and a pained, open-mouth groan at each miss. No dialogue throughout the entire video. No background music. Only this one adult; no other people, no crowd. No text, no captions, no subtitles, no numbers, no logos, no brand names, no watermark.
+```
+
+### 2. 1. The video prompt is filled in. Settings: Seedance 2.5, 11 s, 720p, 9:16, sound off. The video prompt
+
+*Kind: video_prompt*
+
+```text
+A two-part sports meme: late-night hard work, then the big try that misses by a tiny distance, twice.
+
+The athlete is the person in [Image 1], alone, in every frame: copy the exact face from [Image 1] (the face shape, eye color and eye shape, eyebrows, nose, mouth, skin tone, age, hair color, hair length and hairstyle, and any beard, moustache, glasses or freckles). The same face from the first frame to the last, so their friends recognize them at once, also in the close-ups and while they groan with the mouth open. They wear simple plain training clothes with no logo.
+
+Filmed like a real phone video for TikTok, vertical: photorealistic, natural skin, real light, a little handheld shake, not CGI, not a cartoon. Medium shots and close-ups keep the face large, sharp and well lit. An empty gym late at night, half the lights off, rubber floor, a loaded barbell with plain black plates on a lifting platform.
+
+Shot 1 [0-2.2s]: a medium shot: the person trains hard alone, sweaty, doing fast sets with dumbbells and chalking their hands, breathing hard.
+Shot 2 [2.2-4.8s]: hard cut, from the side: a heavy deadlift. The person pulls, the bar rises to just above the knees, shakes, and stops. They lower it back to the floor. They stand up, both hands on the head, mouth wide open.
+Shot 3 [4.8-7.6s]: hard cut, a close-up of the face: total focus, a deep breath, a small nod. Then a medium shot as they chalk up, grip the bar and set their feet again.
+Shot 4 [7.6-11s]: hard cut, from the side: the second pull. The bar rises to just under the hips, almost locked out, the body shakes, and the bar slowly sinks back to the floor, so close. The person drops to the knees next to the bar, hands over the face, then looks up at the camera in disbelief.
+
+The lift never finishes. Safe, controlled moves: the bar is lowered, never dropped on the body. The person never speaks: no words, only a sharp breath at each try and a pained, open-mouth groan at each miss. No dialogue throughout the entire video. No background music. Only this one adult; no other people, no crowd. No text, no captions, no subtitles, no numbers, no logos, no brand names, no watermark.
+```
+
+### 3. 1. The video prompt is filled in. Settings: Seedance 2.5, 11 s, 720p, 9:16, sound off. The video prompt
+
+*Kind: video_prompt*
+
+```text
+A two-part sports meme: late-night hard work, then the big try that misses by a tiny distance, twice.
+
+The athlete is the person in [Image 1], alone, in every frame: copy the exact face from [Image 1] (the face shape, eye color and eye shape, eyebrows, nose, mouth, skin tone, age, hair color, hair length and hairstyle, and any beard, moustache, glasses or freckles). The same face from the first frame to the last, so their friends recognize them at once, also in the close-ups and while they groan with the mouth open. They wear simple plain training clothes with no logo.
+
+Filmed like a real phone video for TikTok, vertical: photorealistic, natural skin, real light, a little handheld shake, not CGI, not a cartoon. Medium shots and close-ups keep the face large, sharp and well lit. A golf putting green late at night under bright floodlights, dark trees behind, a hole with a plain flag, plain white balls.
+
+Shot 1 [0-2.2s]: a medium shot: the person trains hard alone, putting ball after ball, reading the green on one knee, focused.
+Shot 2 [2.2-4.8s]: hard cut, low and wide along the green: a long putt. The ball rolls straight at the hole, slows, and stops on the very edge of the hole. The person stands stunned, both hands on the head, mouth wide open.
+Shot 3 [4.8-7.6s]: hard cut, a close-up of the face: total focus, a deep breath, eyes on the hole, a small nod. Then a medium shot as they set up over a new ball again.
+Shot 4 [7.6-11s]: hard cut, a close shot at the hole: the second putt rolls in, circles the lip of the hole and spins back out, so close. Then the person drops to the knees on the green, hands over the face, then looks up at the camera in disbelief.
+
+The ball never goes in. The person never speaks: no words, only a sharp breath at each try and a pained, open-mouth groan at each miss. No dialogue throughout the entire video. No background music. Only this one adult; no other people, no crowd. No text, no captions, no subtitles, no numbers, no logos, no brand names, no watermark.
+```
+
+### 4. 1. The video prompt is filled in. Settings: Seedance 2.5, 11 s, 720p, 9:16, sound off. The video prompt (Pet)
+
+*Kind: video_prompt*
+
+```text
+A two-part pet meme: late-night hard work, then the big jump that misses by a tiny distance, twice.
+
+The pet is the animal in [Image 1], alone, in every frame: the same species and breed, face, eyes, ears, muzzle, fur colors, fur length and markings as in [Image 1], with the natural body volume and proportions of that animal, on four legs: never flattened, squashed, stretched or merged with anything, never a person, never another animal.
+
+Filmed like a real phone video for TikTok, vertical: photorealistic, natural fur, real light, a little handheld shake, not CGI, not a cartoon. A cozy kitchen late at night, only the warm lights under the cabinets on. A single treat sits on the edge of the kitchen counter.
+
+Shot 1 [0-2.2s]: a medium shot: the pet trains hard alone, running quick laps around the kitchen island and practicing little hops, panting, focused.
+Shot 2 [2.2-4.8s]: hard cut, wide: the pet leaps up at the treat on the counter. Its nose stops a finger's width short of the treat and it drops back to the floor. It sits and stares up, ears back, frozen in shock.
+Shot 3 [4.8-7.6s]: hard cut, a close-up of the pet's face: total focus, eyes locked on the treat, a wiggle of the hips, ready.
+Shot 4 [7.6-11s]: hard cut, wide: the second leap, higher. Its front paws touch the edge of the counter, slide off, and it lands softly back on the floor, so close. It flops down flat on the floor and looks into the camera with sad, disbelieving eyes.
+
+The pet never gets the treat. Soft, safe landings. No human voice, no dialogue throughout the entire video. No background music. Only the pet; no people, no other animals. No text, no captions, no logos, no watermark.
+```
+

@@ -44,7 +44,7 @@ Exactly one person in focus, the lead: anyone else is only a soft, out-of-focus 
 Use the uploaded image as the base. 9:16 vertical photo, like a still from a moody cinematic drama filmed at night in Rome. The pet from the uploaded image sits at a small round table at a garden party on a rooftop terrace, its chin resting on one front paw on the table top, its eyes toward the camera. Warm string lights and glowing lanterns blur behind it, a few guests far away as soft, out-of-focus shapes. Its head, chest and front paws are in view. Realistic photo with natural fur, soft film grain, muted teal shadows and warm amber light, a shallow depth of field. Exactly one animal in focus, no person in focus. No clothes on the pet. No cigarette, no drinks, no logos, no brand names and no text. No watermark.
 ```
 
-### 3. 3. Press the film button on the still to open AI Video with the still as the first frame. Settings: Kling 3.0, 10 s, 1080p, 9:16, sound on. The video prompt
+### 3. 3. Press the film button on the still to open AI Video with the still as the first frame. Settings: Seedance 2.5, 10 s, 720p, 9:16, sound on. The video prompt
 
 *Kind: video_prompt*
 

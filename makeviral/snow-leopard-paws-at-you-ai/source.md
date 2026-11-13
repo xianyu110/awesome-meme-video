@@ -58,7 +58,7 @@ Everything runs in the browser. No editing app, no watermark.
 
 ### The by-hand way, with the exact prompts
 
-The one-tap flow runs these prompts for you. A photo prompt puts your photo into the scene (Nano Banana 2.1, image mode, 9:16, 1K), then a video prompt animates that still. To change them, copy them and edit them in AI Photo and AI Video.
+The one-tap flow runs these prompts for you. A photo prompt puts your photo into the scene (GPT Image 2.6, image mode, 9:16, 1K), then a video prompt animates that still. To change them, copy them and edit them in AI Photo and AI Video.
 
 #### Variant: Human
 
@@ -104,7 +104,7 @@ One-tap version of this variant: https://www.makeviral.ai/templates/snow-leopard
 
 #### Variant: Pet
 
-Settings: 1 photo (your pet, front paws in view) · Kling 3.0 · 5 s · 1080p · 9:16 · with sound · 29 credits in one tap.
+Settings: 1 photo (your pet, front paws in view) · Seedance 2.5 · 5 s · 720p · 9:16 · with sound · 65 credits in one tap.
 
 1. Open [AI Photo with this template](https://www.makeviral.ai/photo?template=snow-leopard-paws-at-you-ai&variant=pet) and add your photo (your pet, front paws in view). The photo prompt is filled in:
 
@@ -113,7 +113,7 @@ Settings: 1 photo (your pet, front paws in view) · Kling 3.0 · 5 s · 1080p ·
    ```
 
 2. Check the still before you spend credits on the video. Everything the video model does starts from that one frame.
-3. Press the film button on the still to open AI Video with the still as the first frame. Settings: Kling 3.0, 5 s, 1080p, 9:16, sound on. The video prompt:
+3. Press the film button on the still to open AI Video with the still as the first frame. Settings: Seedance 2.5, 5 s, 720p, 9:16, sound on. The video prompt:
 
    ```text
    A real, cute phone video in one continuous shot, filmed straight on through a clear glass window at a zoo. Keep the animal's face, its huge, round, glossy eyes, its fluffy spotted snow leopard coat and its paws exactly as in the image. For the first second it sits still with both front paws pressed on the glass and stares into the lens with its huge, shiny eyes. Then it lifts one front paw off the glass and slowly paws at the camera twice, the soft paw pads tapping the glass right in front of the lens, and tilts its head a little to one side. Then the paw slides back down onto the glass and it blinks slowly, still staring into the lens. Only its head, ears, eyes and front legs move; it stays in the same spot. The camera stays almost still, with a slight handheld sway. Audio: soft wind chimes, a light breeze, two soft taps on the glass and one tiny, high, soft mew, and nothing else: no music, no voice. Exactly one animal with four legs. No extra paws, no extra limbs, no morphing, no cuts, no text, no logos.
@@ -193,7 +193,7 @@ Two steps, and you write no prompt:
 1. **The still.** An AI image model edits your photo: your pet gets the snow leopard coat and the huge eyes, or you get the snow leopard hood and mittens, behind the glass of a snowy zoo enclosure.
 2. **The video.** A top-quality AI video model animates the still for 5 seconds: the stare, the paw taps, the head tilt and the blink, with the soft sound.
 
-| | Standard (default) | Best |
+| | Standard (default for Human and You + snow leopard) | Best, and Pet |
 |---|---|---|
 | Video model | A fast, top-quality AI video model | The strongest AI video model we offer |
 | Length | 5 s | 5 s |
@@ -201,7 +201,7 @@ Two steps, and you write no prompt:
 | Sound | Wind chimes, breeze and paw taps | The same |
 | Price | Lower | Higher |
 
-The exact price shows on the Generate button before you spend anything, and the video waits in My videos when it is ready.
+Human and You + snow leopard let you pick Standard or Best. Pet has one setting, the same as Best, so there is nothing to pick. The exact price shows on the Generate button before you spend anything, and the video waits in My videos when it is ready.
 
 **Why not copy a reel?** The meme is a photo, not a dance or a scene with moves to copy. The reels you see are edits of that one picture. So the template makes the picture with your pet first, then lets it move.
 
@@ -210,7 +210,7 @@ The exact price shows on the Generate button before you spend anything, and the 
 | Problem | Fix |
 |---|---|
 | Your pet looks less like itself | Use a sharper photo in daylight, face to the camera. The coat changes on purpose, but the face, ears and face colors come from your photo. |
-| The eyes are not big enough | Run it again, or pick Best. |
+| The eyes are not big enough | Run it again. On Human or You + snow leopard, you can also pick Best. |
 | A paw blurs or gets extra toes | Fast paw moves can blur in AI video. Run it again if it bothers you. |
 | With Human, the face changes a little | The wide-eyed look can shift a face. Use a clear, close photo, or pick Best. |
 | The video model refuses the photo | Some photos get refused. The credits come back; try another photo. |
@@ -257,7 +257,7 @@ Yes. Pick Human and add one photo of yourself, waist up. You get a fluffy snow l
 
 ### How long is the video, and does it have sound?
 
-5 seconds, vertical 9:16, as an MP4 file: 1080p with Standard, 720p with Best. It has soft wind chimes, a light breeze and the paw taps, not a song. Add the caption and any sound you like when you post.
+5 seconds, vertical 9:16, as an MP4 file: 1080p with Standard, 720p with Best and with Pet. It has soft wind chimes, a light breeze and the paw taps, not a song. Add the caption and any sound you like when you post.
 
 ### Is there a paws at you GIF, a snow leopard meme GIF or a Mei Mei snow leopard GIF?
 
@@ -289,7 +289,7 @@ The Mei Mei dance, also searched as meimei dance or mei mei cat dance, is the cl
 
 ### Does the snow leopard video cost credits?
 
-Yes. Each video costs credits, and the create page shows the exact price on the Generate button before you spend anything. Standard costs less than Best. If a video fails, the credits come back.
+Yes. Each video costs credits, and the create page shows the exact price on the Generate button before you spend anything. On Human and You + snow leopard, Standard costs less than Best; Pet has one setting, priced like Best. If a video fails, the credits come back.
 
 ## Other AI video templates and tools
 
@@ -303,12 +303,12 @@ Yes. Each video costs credits, and the create page shows the exact price on the 
 
 ## New AI video trends this week
 
-- [Tiger Fight AI: Beat the Tiger on CCTV](https://www.makeviral.ai/templates/cctv-tiger-fight-ai-trend): A security camera on a forest path. A tiger leaps out of the bushes, and you fight it and pin it to the ground. Add one photo of yourself or your pet, and the trend's phonk sound comes with it.
-- [The Office Parkour AI Trend: You Shout "Parkour!" in the Office](https://www.makeviral.ai/templates/the-office-parkour-ai-trend): Dive over the couch, land upside down and shout "Parkour!" into the camera, then jump off the reception counter while the crew leaps over the desks. The whole office parkour scene, 24 seconds, with its own shouts.
-- [Huell Money AI: The Breaking Bad Money Pile Scene, Starring You](https://www.makeviral.ai/templates/huell-money-ai-trend): A storage unit, a bed-size pile of cash, and you fall back onto it with your eyes closed while your friend tells you to quit it. Then they give in and lie down next to you. With the scene's own lines.
-- [Peaky Blinders Explosion Scene, Starring You](https://www.makeviral.ai/templates/peaky-blinders-explosion-ai-trend): A flat cap, a long black overcoat, a match at your lips. The red-brick manor blows up behind you and you walk slowly toward the camera through the smoke, never looking back. One photo, 15 seconds, with the clip's song.
-- [Mbappe Run vs Argentina AI: The Mbappe Sprint, Starring You](https://www.makeviral.ai/templates/mbappe-sprint-ai-trend): A sunny pitch, one long sprint with the ball, a defender in a striped shirt crashing into you, and you sitting on the grass complaining while the commentator shouts "It's a penalty!". In your own clothes. It is an AI video, not real match footage.
-- [Perfume Transition AI Trend: Spray, Flame, Gangster Look](https://www.makeviral.ai/templates/perfume-transition-ai-trend): Sniff the perfume, spray it at the camera, and a lighter turns the spray into a fireball. Add one photo, and you or your pet step out of the flame in a flat cap, dark sunglasses and a long magenta coat, with the trend's song.
+- [Kara Sevda AI Trend: Your AI Video with Celebrity Stars Kemal and Emir](https://www.makeviral.ai/templates/ai-video-with-celebrity): You film a night selfie, the camera swings to the Kemal look-alike in his navy suit, face to face with you, and the Emir look-alike walks in and rests his head on his shoulder, jealous. One photo is enough. It is an AI video with look-alikes, not a real meeting.
+- [Misanthropy Meme AI: You as the Horned Anime Side-Eye](https://www.makeviral.ai/templates/misanthropy-meme-ai-trend): Your photo becomes a hand-drawn anime character with small horns. It glances left and right on a gray screen, then the background floods red and it breaks into a slow, smug grin, twice, to the trend's laughing beat. One photo in, an 8-second vertical clip out.
+- [Ahh Almost Almost: Train Hard, Miss by an Inch, From One Photo](https://www.makeviral.ai/templates/almost-almost-ai-trend): "While they're out partying btw": you grind alone late at night. Then the big shot rolls around the rim and out, twice, as the sound groans "ahhh almost almost". One photo in, an 11-second clip with the trend's own sound out.
+- [If I Was ChatGPT Trend: Your Observe, Just Observe Mood Board](https://www.makeviral.ai/templates/if-i-was-chatgpt-trend): Add one photo. The AI looks at it, picks the city, season, flower, painting, animal and element that fit you, and puts them around your photo in one mood board with short labels.
+- [Davul Zurna Yapay Zeka: Dance and Sing in the Viral Warehouse Clip](https://www.makeviral.ai/templates/davul-zurna-ai-trend): You dance between a zurna player and a davul player in a big workshop, walk up to the camera, sing right into it and walk back with your arms up. One photo, three for the whole band, or your pet. 15 seconds, with the live davul and zurna.
+- [Come On Barbie Let's Go Party AI: Do the Barbie Girl Dance Trend From Two Photos](https://www.makeviral.ai/templates/barbie-girl-dance-ai-trend): You turn around, sway your hips, pump a fist on "ah ah ah yeah" and lean on each other, side by side, on the sped-up Barbie Girl beat. Add two photos and get a real couple's viral reel with your faces and the song.
 
 ## Make your own Snow Leopard Meme video
 

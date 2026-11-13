@@ -14,7 +14,7 @@ A sniffer dog in a black vest weaves through the crowd, sits down right at your 
 
 Also called: Stitch the Snitch, Bro is so cooked meme, Sniffer dog in club.
 
-**Make it now:** [Make this video](https://www.makeviral.ai/templates/sniffer-dog-ai-trend/create). 1 photo · 8 s · 9:16 with sound · 32 credits, charged once · ready in a few minutes · no prompt to write.
+**Make it now:** [Make this video](https://www.makeviral.ai/templates/sniffer-dog-ai-trend/create). 1 photo · 8 s · 9:16 with sound · 122 credits, charged once · ready in up to several minutes · no prompt to write.
 
 Keyword: sniffer dog meme. Also answers: rave dog, sniffing dog meme, sniff dog meme, bro is so cooked, rave dog meme, bro knows he's cooked, sniffer dog ai, sniffer dog meme ai, sniffer dog ai trend, sniffer dog trend, caught by the sniffer dog, sniffer dog tiktok, sniffer dog video, ai sniffer dog video, bro is so cooked dog, sniffer dog sits at your feet, sniffer dog prank, sniffer dog template, my dog as a sniffer dog, is the sniffer dog ai, stitch the snitch dog, sniffing dog meme gif.
 
@@ -54,8 +54,8 @@ Everything runs in the browser. No editing app, no watermark.
 ### The one-tap way (no prompt to write)
 
 1. **Add your photo.** Press "Make yours" and add your photo. Take it with the camera or pick it from your library. Start here: https://www.makeviral.ai/templates/sniffer-dog-ai-trend/create
-2. **Press Generate.** The button shows the price. Kling 3.0 Omni puts your photos into the Sniffer dog meme trend clip and copies it shot by shot for 8 seconds, with the reel's original song. You write no prompt.
-3. **Download or share.** The video is ready in a few minutes as a 9:16 MP4. Download it, share it from your phone, or find it later in My videos.
+2. **Press Generate.** The button shows the price. Seedance 2.5 puts your photos into the Sniffer dog meme trend clip and copies it shot by shot for 8 seconds, with the reel's original song. You write no prompt.
+3. **Download or share.** The video is ready in up to several minutes as a 9:16 MP4. Download it, share it from your phone, or find it later in My videos.
 
 ### The by-hand way, with the exact prompts
 
@@ -63,20 +63,22 @@ The one-tap flow runs this prompt for you. The video prompt animates your own ph
 
 #### Variant: Human
 
-Settings: 1 photo (your photo) · Kling 3.0 Omni · 8 s · 720p · 9:16 · no sound · 32 credits in one tap.
+Settings: 1 photo (your photo) · Seedance 2.5 · 8 s · 720p · 9:16 · no sound · 122 credits in one tap.
 
-1. The video prompt is filled in. Settings: Kling 3.0 Omni, 8 s, 720p, 9:16, sound off. The video prompt:
+1. The video prompt is filled in. Settings: Seedance 2.5, 8 s, 720p, 9:16, sound off. The video prompt:
 
    ```text
-   Replace the young man in the video with the person in the first image. The young man from the video must not appear in any frame. The one the sniffer dog walks up to and sits in front of, who stares down at the dog and then cries into the camera, is the person in the first image, with the face, hair, skin tone and age from the first image, whether that person is a man or a woman. The person wears the rainbow tie-dye T-shirt, the black shorts and the white sneakers from the video.
+   Recreate the reference video [Video 1] shot for shot: the handheld night shot on the dark green turf, the crowd, the floodlights and the city lights on the hills, the brown and white sniffer dog in its black vest with neon yellow straps, the same camera moves, cuts, timing and moves. The ONLY change: the young man the dog sits in front of is now the person in [Image 1].
 
-Timing, second by second, as in the original video:
-0-2 s: the handheld camera follows the brown and white sniffer dog in its black vest with neon yellow straps as it weaves through the legs of the crowd on the dark green turf at night.
+The young man = the person in [Image 1], in EVERY shot: copy the exact face from [Image 1] - face shape, eye color and eye shape, eyebrows, nose, mouth, skin tone, age, hair color, hair length and hairstyle, and any beard, moustache, glasses or freckles exactly as in the photo, whether that person is a man or a woman. The same real person in every frame, also while crying with the mouth open, so their friends recognize them at once. Never morph, never drift back to the original young man's face. NO short dark hair with shaved sides unless [Image 1] shows it. The person wears the rainbow tie-dye T-shirt, the black shorts and the white sneakers from the video, never the clothes from [Image 1].
+
+Matching the reference second by second:
+0-2 s: the handheld camera follows the sniffer dog as it weaves through the legs of the crowd.
 2-3 s: the dog reaches the person, sniffs their legs, rears up against them once and sits down right at their feet.
 3-4 s: the camera tilts up: the person stands in full view and stares down at the dog.
-4-8 s: the dog keeps sitting at their feet and looks up at them. The person looks at the dog, then into the camera, their eyes fill with tears and they cry, lips trembling, with the crowd, the floodlights and the city lights on the hills behind them.
+4-8 s: the dog keeps sitting at their feet and looks up at them. The person looks at the dog, then into the camera, their eyes fill with tears and they cry, lips trembling.
 
-The person keeps the face, hair, skin tone, age and any glasses, beard or freckles from the first image in every frame, also while crying with the mouth open: no short dark hair with shaved sides unless the first image shows it. The dog and its vest stay as in the video. No new text, no logos, no watermark, no new people in front of the camera.
+The dog and its vest stay as in the video. One head only, two arms and two hands. No new text, no logos, no watermark, no new people in front of the camera.
    ```
 
 2. Press Generate, then download the 9:16 MP4.
@@ -85,20 +87,24 @@ One-tap version of this variant: https://www.makeviral.ai/templates/sniffer-dog-
 
 #### Variant: Pet
 
-Settings: 2 photos (your photo + your dog) · Kling 3.0 Omni · 8 s · 720p · 9:16 · no sound · 32 credits in one tap.
+Settings: 2 photos (your photo + your dog) · Seedance 2.5 · 8 s · 720p · 9:16 · no sound · 122 credits in one tap.
 
-1. The video prompt is filled in. Settings: Kling 3.0 Omni, 8 s, 720p, 9:16, sound off. The video prompt:
+1. The video prompt is filled in. Settings: Seedance 2.5, 8 s, 720p, 9:16, sound off. The video prompt:
 
    ```text
-   Replace the young man in the video with the person in the first image, and the brown and white sniffer dog with the pet in the second image. The young man and the spaniel from the video must not appear in any frame. The one the sniffer dog walks up to and sits in front of, who stares down at it and then cries into the camera, is the person in the first image, with the face, hair, skin tone and age from the first image, whether that person is a man or a woman. The person wears the rainbow tie-dye T-shirt, the black shorts and the white sneakers from the video. The sniffer dog is the pet in the second image, in the black working vest with neon yellow straps and on the orange lead from the video.
+   Recreate the reference video [Video 1] shot for shot: the handheld night shot on the dark green turf, the crowd, the floodlights and the city lights on the hills, the same camera moves, cuts, timing and moves. The ONLY change: the young man is now the person in [Image 1], and the brown and white sniffer dog is now the pet in [Image 2]. Both change: no one from the video stays, also in the wide shots and when only the back of a head shows.
 
-Timing, second by second, as in the original video:
-0-2 s: the handheld camera follows the pet from the second image in the black vest with neon yellow straps as it weaves through the legs of the crowd on the dark green turf at night.
+The young man = the person in [Image 1], in EVERY shot: copy the exact face from [Image 1] - face shape, eye color and eye shape, eyebrows, nose, mouth, skin tone, age, hair color, hair length and hairstyle, and any beard, moustache, glasses or freckles exactly as in the photo, whether that person is a man or a woman. The same real person in every frame, also while crying with the mouth open. Never morph, never drift back to the original young man's face. NO short dark hair with shaved sides unless [Image 1] shows it. The person wears the rainbow tie-dye T-shirt, the black shorts and the white sneakers from the video, never the clothes from [Image 1].
+
+The sniffer dog = the pet in [Image 2], in EVERY shot: the same species and breed, size, face, eyes, ears, muzzle, fur colors, fur length and markings as in [Image 2], with the natural body volume and proportions of that animal: never flattened, squashed, stretched or merged with anything. It wears the black working vest with neon yellow straps and the orange lead from the video. Never the spaniel from the video.
+
+Matching the reference second by second:
+0-2 s: the handheld camera follows the pet from [Image 2] in the black vest as it weaves through the legs of the crowd.
 2-3 s: the pet reaches the person, sniffs their legs, rears up against them once and sits down right at their feet.
 3-4 s: the camera tilts up: the person stands in full view and stares down at the pet.
-4-8 s: the pet keeps sitting at their feet and looks up at them. The person looks at the pet, then into the camera, their eyes fill with tears and they cry, lips trembling, with the crowd, the floodlights and the city lights on the hills behind them.
+4-8 s: the pet keeps sitting at their feet and looks up at them. The person looks at the pet, then into the camera, their eyes fill with tears and they cry, lips trembling.
 
-The pet keeps the species, breed, size, face, eyes, ears, muzzle, fur colors, fur length and markings from the second image in every frame, with the natural body volume and proportions of that animal: never flattened, squashed, stretched or merged with anything. The person keeps the face, hair, skin tone, age and any glasses, beard or freckles from the first image in every frame, also while crying with the mouth open: no short dark hair with shaved sides unless the first image shows it. No new text, no writing on the vest, no logos, no watermark, no new people in front of the camera.
+No writing on the vest. One head only for the person, two arms and two hands. No new text, no logos, no watermark, no new people in front of the camera.
    ```
 
 2. Press Generate, then download the 9:16 MP4.
@@ -121,7 +127,7 @@ You pay per video in credits, and the create page shows the exact price on the G
 
 | Video model | Settings | Credits |
 | --- | --- | --- |
-| Kling 3.0 Omni (this template) | 8 s, 720p, copies the trend clip, one tap | 32 |
+| Seedance 2.5 (this template) | 8 s, 720p, copies the trend clip, one tap | 122 |
 
 Credits come with a plan; see [pricing](https://www.makeviral.ai/pricing). A failed video gives its credits back.
 
@@ -138,7 +144,7 @@ Your clip follows the 8 seconds of the AI reel by @stitchthesnitchh, filmed like
 
 **Two versions.** **Human** takes one photo of you and keeps the reel's spaniel. **Pet** takes a second photo, of your own pet, and makes it the sniffer dog: in the black vest it walks up and sits at your feet.
 
-**How it is made.** Kling 3.0 Omni edits the reel itself: the crowd, the lights, the camera, the timing and the raver's tie-dye T-shirt stay, and your face and hair (and in the Pet version, your pet as the dog) come in. The reel's white caption is taken out, so you can write your own when you post. The clip is vertical 9:16 at 720p and comes with the reel's sound. The exact price shows on the Generate button before you spend anything. You write no prompt, and the video waits in My videos when it is ready.
+**How it is made.** Top-quality AI video models copy the reel itself: the crowd, the lights, the camera, the timing and the raver's tie-dye T-shirt stay, and your face and hair (and in the Pet version, your pet as the dog) come in. The reel's white caption may stay in your clip. The clip is vertical 9:16 at 720p and comes with the reel's sound. A run can take up to several minutes, and the exact price shows on the Generate button before you spend anything. You write no prompt, and the video waits in My videos when it is ready.
 
 ## Is the sniffer dog video real? How to post it as a joke
 
@@ -160,7 +166,7 @@ Yes. Pick the **Pet** version and add two photos: you first, then your pet. Your
 
 - **Any dog works**, from a chihuahua to a shepherd. A cat or another pet works too; it just becomes a very unusual sniffer dog.
 - **The whole body in view**, standing or sitting, in daylight, with the face sharp.
-- Pets are new for this model, so if the face, the fur or the size comes out wrong, run it again.
+- If the face, the fur or the size comes out wrong, run it again.
 
 Want more dog trends? Make your dog whine on camera in the [whining dog meme](https://www.makeviral.ai/templates/whiny-dog-ai-trend).
 
@@ -169,7 +175,6 @@ Want more dog trends? Make your dog whine on camera in the [whining dog meme](ht
 | Problem | Fix |
 |---|---|
 | The face looks less like you while you cry | Crying changes a face a lot. Use a sharp, front-facing photo in good light, then run it again. |
-| A rainbow tie-dye T-shirt shows up | The man from the reel comes through. Use a photo where your own clothes are easy to see, then run it again. |
 | Your legs or shoes look odd | The model invents what your photo does not show. A waist-up photo is the best mix of face and outfit; run it again. |
 | Your pet's face, fur or size is off (Pet) | Use a photo with the whole pet in view, in daylight, then run it again. |
 | The run fails | Some photos get refused. The credits come back; try another photo. |
@@ -204,11 +209,11 @@ Only if they say yes, and only as an obvious joke. The clip looks like real phon
 
 ### Which prompt does this template use?
 
-No creator of the trend shared a prompt: the original account never named its tool, and the CapCut template is closed. This template uses Kling's own recreate wording (replace the person in the video and keep the original actions, expressions, camera, background, lighting and timing), plus the reel's timing second by second and a few lines that keep the original man's face and clothes out. You write no prompt yourself.
+No creator of the trend shared a prompt: the original account never named its tool, and the CapCut template is closed. This template uses its own wording: it asks the AI to recreate the reel shot for shot and change only the person (or the person and the dog), plus the reel's timing second by second and a few lines that keep the original man's face out. You write no prompt yourself.
 
 ### Which AI model makes the video?
 
-Kling 3.0 Omni. It edits the original AI reel itself, so the crowd, the lights, the camera moves and the timing stay, and only the person, or the person and the dog, change. The clip is 720p.
+Top-quality AI video models. They copy the original AI reel itself, so the crowd, the lights, the camera moves and the timing stay, and only the person, or the person and the dog, change. The clip is 720p.
 
 ### How long is the video, and does it have sound?
 
@@ -246,15 +251,15 @@ Stitch the Snitch is the dog behind the TikTok account @stitchthesnitchh, which 
 
 ## New AI video trends this week
 
-- [Tiger Fight AI: Beat the Tiger on CCTV](https://www.makeviral.ai/templates/cctv-tiger-fight-ai-trend): A security camera on a forest path. A tiger leaps out of the bushes, and you fight it and pin it to the ground. Add one photo of yourself or your pet, and the trend's phonk sound comes with it.
-- [The Office Parkour AI Trend: You Shout "Parkour!" in the Office](https://www.makeviral.ai/templates/the-office-parkour-ai-trend): Dive over the couch, land upside down and shout "Parkour!" into the camera, then jump off the reception counter while the crew leaps over the desks. The whole office parkour scene, 24 seconds, with its own shouts.
-- [Huell Money AI: The Breaking Bad Money Pile Scene, Starring You](https://www.makeviral.ai/templates/huell-money-ai-trend): A storage unit, a bed-size pile of cash, and you fall back onto it with your eyes closed while your friend tells you to quit it. Then they give in and lie down next to you. With the scene's own lines.
-- [Peaky Blinders Explosion Scene, Starring You](https://www.makeviral.ai/templates/peaky-blinders-explosion-ai-trend): A flat cap, a long black overcoat, a match at your lips. The red-brick manor blows up behind you and you walk slowly toward the camera through the smoke, never looking back. One photo, 15 seconds, with the clip's song.
-- [Mbappe Run vs Argentina AI: The Mbappe Sprint, Starring You](https://www.makeviral.ai/templates/mbappe-sprint-ai-trend): A sunny pitch, one long sprint with the ball, a defender in a striped shirt crashing into you, and you sitting on the grass complaining while the commentator shouts "It's a penalty!". In your own clothes. It is an AI video, not real match footage.
-- [Perfume Transition AI Trend: Spray, Flame, Gangster Look](https://www.makeviral.ai/templates/perfume-transition-ai-trend): Sniff the perfume, spray it at the camera, and a lighter turns the spray into a fireball. Add one photo, and you or your pet step out of the flame in a flat cap, dark sunglasses and a long magenta coat, with the trend's song.
+- [Kara Sevda AI Trend: Your AI Video with Celebrity Stars Kemal and Emir](https://www.makeviral.ai/templates/ai-video-with-celebrity): You film a night selfie, the camera swings to the Kemal look-alike in his navy suit, face to face with you, and the Emir look-alike walks in and rests his head on his shoulder, jealous. One photo is enough. It is an AI video with look-alikes, not a real meeting.
+- [Misanthropy Meme AI: You as the Horned Anime Side-Eye](https://www.makeviral.ai/templates/misanthropy-meme-ai-trend): Your photo becomes a hand-drawn anime character with small horns. It glances left and right on a gray screen, then the background floods red and it breaks into a slow, smug grin, twice, to the trend's laughing beat. One photo in, an 8-second vertical clip out.
+- [Ahh Almost Almost: Train Hard, Miss by an Inch, From One Photo](https://www.makeviral.ai/templates/almost-almost-ai-trend): "While they're out partying btw": you grind alone late at night. Then the big shot rolls around the rim and out, twice, as the sound groans "ahhh almost almost". One photo in, an 11-second clip with the trend's own sound out.
+- [If I Was ChatGPT Trend: Your Observe, Just Observe Mood Board](https://www.makeviral.ai/templates/if-i-was-chatgpt-trend): Add one photo. The AI looks at it, picks the city, season, flower, painting, animal and element that fit you, and puts them around your photo in one mood board with short labels.
+- [Davul Zurna Yapay Zeka: Dance and Sing in the Viral Warehouse Clip](https://www.makeviral.ai/templates/davul-zurna-ai-trend): You dance between a zurna player and a davul player in a big workshop, walk up to the camera, sing right into it and walk back with your arms up. One photo, three for the whole band, or your pet. 15 seconds, with the live davul and zurna.
+- [Come On Barbie Let's Go Party AI: Do the Barbie Girl Dance Trend From Two Photos](https://www.makeviral.ai/templates/barbie-girl-dance-ai-trend): You turn around, sway your hips, pump a fist on "ah ah ah yeah" and lean on each other, side by side, on the sped-up Barbie Girl beat. Add two photos and get a real couple's viral reel with your faces and the song.
 
 ## Make your own Sniffer Dog Meme video
 
-Add one photo and press Generate. No prompt to write. 32 credits, charged once.
+Add one photo and press Generate. No prompt to write. 122 credits, charged once.
 
 [Make this video](https://www.makeviral.ai/templates/sniffer-dog-ai-trend/create)

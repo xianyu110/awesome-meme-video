@@ -3,7 +3,7 @@
 > The AI airport celebrity video turns you into a star walking out of airport arrivals: bodyguards push back a screaming crowd, phones film you, cameras flash, a fan begs for a photo and you wave on your way to the car.
 
 Canonical: https://www.makeviral.ai/templates/ai-airport-star-arrival
-Updated: 2026-11-11
+Updated: 2026-11-12
 Published: 2026-10-12
 Author: MakeViral Team (https://www.makeviral.ai/about)
 Publisher: MakeViral (https://www.makeviral.ai)
@@ -67,7 +67,7 @@ Everything runs in the browser. No editing app, no watermark.
 
 ### The by-hand way, with the exact prompts
 
-The one-tap flow runs these prompts for you. A photo prompt puts your photo into the scene (Nano Banana 2.1, image mode, 9:16, 1K), then a video prompt animates that still. To change them, copy them and edit them in AI Photo and AI Video.
+The one-tap flow runs these prompts for you. A photo prompt puts your photo into the scene (GPT Image 2.6, image mode, 9:16, 1K), then a video prompt animates that still. To change them, copy them and edit them in AI Photo and AI Video.
 
 #### Variant: Human
 
@@ -92,7 +92,7 @@ One-tap version of this variant: https://www.makeviral.ai/templates/ai-airport-s
 
 #### Variant: Pet
 
-Settings: 1 photo (your pet, whole body) · Kling 3.0 · 15 s · 1080p · 9:16 · with sound · 84 credits in one tap.
+Settings: 1 photo (your pet, whole body) · Seedance 2.5 · 15 s · 720p · 9:16 · with sound · 191 credits in one tap.
 
 1. Open [AI Photo with this template](https://www.makeviral.ai/photo?template=ai-airport-star-arrival&variant=pet) and add your photo (your pet, whole body). The photo prompt is filled in:
 
@@ -101,7 +101,7 @@ Settings: 1 photo (your pet, whole body) · Kling 3.0 · 15 s · 1080p · 9:16 �
    ```
 
 2. Check the still before you spend credits on the video. Everything the video model does starts from that one frame.
-3. Press the film button on the still to open AI Video with the still as the first frame. Settings: Kling 3.0, 15 s, 1080p, 9:16, sound on. The video prompt:
+3. Press the film button on the still to open AI Video with the still as the first frame. Settings: Seedance 2.5, 15 s, 720p, 9:16, sound on. The video prompt:
 
    ```text
    Style: Ultra realistic mass celebrity entry scene. Single continuous shot. Handheld camera from crowd perspective. Natural micro-shake. No cuts. Documentary realism. Audio: Only natural environment sound: loud crowd cheering, people shouting, rapid camera shutter clicks, airport announcements echoing, footsteps, distant engine idle and rev. Lighting: Natural daylight through airport glass panels. Main Character: the celebrity is the pet in the image, with the same species, breed, face, fur colors, markings and small black sunglasses in every frame, walking on all four paws. Calm, confident presence. Face must remain consistent throughout. SCENE. 0–3s: Handheld camera starts from inside the crowd behind barricades. People partially block the view. Phones raised high. Crowd loud and restless. 3–6s: Camera lifts slightly above shoulder level, shaky but controlled. Focus shifts between heads, waving hands, glimpses of the arrival gate. Media cameras flash repeatedly. 6–10s: Security suddenly steps in, pushing the crowd slightly back. Through the gaps, the celebrity pet becomes visible in the distance, slightly blurred at first, then gradually clearer as it trots forward gracefully with bodyguards flanking both sides. 10–13s: Camera zooms slightly (natural handheld push-in feel). The pet now clearly visible, walking confidently in center. Security clears the path. Suddenly from the left side of the barricade, a fan screams: "Please, one photo!!" The pet turns its head toward the voice, looks at the fan and wags its tail. Crowd erupts louder. 13–15s: Camera tilts and shifts trying to follow as it reaches the convoy. Partial view of a black luxury car. Bodyguard opens the door. The pet hops in gracefully but quickly. Engine revs. Vehicles begin moving. No music. Exactly one animal. No text, no logos, no readable signs, no airline or airport names, no car badges.
@@ -134,7 +134,7 @@ One-tap version of this variant: https://www.makeviral.ai/templates/ai-airport-s
 
 #### Variant: Pet at the hotel
 
-Settings: 1 photo (your pet, whole body) · Kling 3.0 · 15 s · 1080p · 9:16 · with sound · 84 credits in one tap.
+Settings: 1 photo (your pet, whole body) · Seedance 2.5 · 15 s · 720p · 9:16 · with sound · 191 credits in one tap.
 
 1. Open [AI Photo with this template](https://www.makeviral.ai/photo?template=ai-airport-star-arrival&variant=hotel-pet) and add your photo (your pet, whole body). The photo prompt is filled in:
 
@@ -143,7 +143,7 @@ Settings: 1 photo (your pet, whole body) · Kling 3.0 · 15 s · 1080p · 9:16 �
    ```
 
 2. Check the still before you spend credits on the video. Everything the video model does starts from that one frame.
-3. Press the film button on the still to open AI Video with the still as the first frame. Settings: Kling 3.0, 15 s, 1080p, 9:16, sound on. The video prompt:
+3. Press the film button on the still to open AI Video with the still as the first frame. Settings: Seedance 2.5, 15 s, 720p, 9:16, sound on. The video prompt:
 
    ```text
    Style: Ultra realistic celebrity hotel arrival scene at night. Single continuous shot. Handheld camera from crowd perspective. Natural micro-shake. No cuts. Documentary realism. Audio: Only natural environment sound: loud crowd cheering, people shouting, rapid camera shutter clicks, a car door opening and closing, footsteps, a soft engine idle. Lighting: Night. Warm golden light from the hotel entrance, bright camera flashes, wet reflections on the driveway. Main Character: the celebrity is the pet in the image, with the same species, breed, face, fur colors, markings and small black sunglasses in every frame, walking on all four paws. Calm, confident presence. Face must remain consistent throughout. SCENE. 0-3s: Handheld camera starts from inside the crowd behind the velvet rope. Phones raised high. A long black luxury car stands at the red carpet, a bodyguard holds its rear door open. Media cameras flash repeatedly. 3-6s: The pet hops out of the car onto the red carpet and looks around proudly. A second bodyguard steps in on the other side. The bodyguard closes the door. Flashes burst from both sides. 6-10s: The celebrity pet trots forward gracefully down the red carpet with bodyguards flanking both sides, past the photographers and the fans behind the rope. Security clears the path. 10-13s: Camera zooms slightly (natural handheld push-in feel). The pet now clearly visible, walking confidently in center. Suddenly from the left side of the rope, a fan screams: "Please, one photo!!" The pet turns its head toward the voice, looks at the fan and wags its tail. Crowd erupts louder. 13-15s: Camera tilts and shifts trying to follow as it reaches the glass doors of the hotel. A doorman opens the door. The pet trots in gracefully but quickly. Flashes keep firing. No music. Exactly one animal. No text, no logos, no readable signs, no hotel name, no car badges or emblems.
@@ -246,6 +246,8 @@ These four versions work in two steps, like a YouTube tutorial of 7 May 2026: fi
 1. **The still.** Nano Banana 2.1 puts you or your pet at the arrival gate (or at the open car door on the hotel's red carpet), in the middle of the bodyguards, with fans filming. Your face, or your pet's fur and markings, come from your photo.
 2. **The video.** A video model plays the 15-second scene from that still, with its own sound.
 
+For Human and Hotel arrival you pick one of two settings:
+
 | | Standard (default) | Best |
 |---|---|---|
 | Video model | Kling 3.0 | Seedance 2.5 |
@@ -253,6 +255,8 @@ These four versions work in two steps, like a YouTube tutorial of 7 May 2026: fi
 | Frame | Vertical 9:16, 1080p | Vertical 9:16, 720p |
 | Sound | Crowd, cameras and engine, no music | The same |
 | Price | Lower | Higher |
+
+Pet and Pet at the hotel have one setting, the Best one: 15 seconds, vertical 9:16, 720p, with the same sound, so there is nothing to pick.
 
 The prompt was written for Seedance 2.0, and Best uses Seedance 2.5, its newer version. Standard costs less. The exact price shows on the Generate button before you spend anything, and you write no prompt.
 
@@ -309,7 +313,7 @@ No. The CapCut template is closed and shows no prompt. This is MakeViral's own t
 
 ### How long is the video, and does it have sound?
 
-15 seconds, vertical 9:16, as an MP4 file: 1080p with Standard, 720p with Best. It has its own sound: cheering, a fan shouting "Please, one photo!!", camera clicks, airport announcements and an engine. There is no music.
+15 seconds, vertical 9:16, as an MP4 file: 1080p with Standard, 720p with Best. The pet versions come in 720p. It has its own sound: cheering, a fan shouting "Please, one photo!!", camera clicks, airport announcements and an engine. There is no music.
 
 ### Can I use a friend's photo or a celebrity's photo?
 
@@ -317,7 +321,7 @@ Use your own photo, or a photo of an adult who said yes. Never a celebrity or a 
 
 ### Does the airport celebrity video cost credits?
 
-Yes. Each video costs credits, and the create page shows the exact price on the Generate button before you spend anything. Standard (Kling 3.0) costs less than Best (Seedance 2.5). If a video fails, the credits come back.
+Yes. Each video costs credits, and the create page shows the exact price on the Generate button before you spend anything. For Human and Hotel arrival, Standard (Kling 3.0) costs less than Best (Seedance 2.5). The pet versions have one setting, priced like Best. If a video fails, the credits come back.
 
 ### Why does my face look different in the video?
 
@@ -357,9 +361,9 @@ Yes. Pick Dog in a suit and add one photo of your dog or cat with its face clear
 
 ## Other AI video templates and tools
 
+- [Kara Sevda AI Trend: Your AI Video with Celebrity Stars Kemal and Emir](https://www.makeviral.ai/templates/ai-video-with-celebrity): You film a night selfie, the camera swings to the Kemal look-alike in his navy suit, face to face with you, and the Emir look-alike walks in and rests his head on his shoulder, jealous. One photo is enough. It is an AI video with look-alikes, not a real meeting.
 - [Storm AI Trend: Stand Still While the Crowd Bows](https://www.makeviral.ai/templates/storm-ai-trend): You stand calm in the center, dressed in white. Around you, dozens of people in black suits snap, twist and bow on a heavy beat. One photo in, a 10-second clip with sound out.
 - [Hotel Lobby AI: Make the Hotel Lobby Trend Video](https://www.makeviral.ai/templates/ai-hotel-lobby-trend): You and a friend, or your two pets, trade a rap into one hanging mic in a bright orange booth. Step into the real clip or the viral cat version with the original song, or get a new 10-second version with an original beat.
-- [Not Bro Getting Arrested Again AI Video: The AI Arrest Trend From One Photo](https://www.makeviral.ai/templates/ai-arrest-trend): Two officers walk you out of the house at night, hands cuffed behind your back, red and blue lights on your face, and you give the camera a small, smug smile. One photo in, an 8-second AI clip with night street sound out. A joke, made with your own photo.
 - [AI TikTok Video](https://www.makeviral.ai/tools/ai-tiktok-video-generator): Eight native TikTok formats, one prompt or product URL, a finished 9:16 video with captions burned in.
 - [Nano Banana 2](https://www.makeviral.ai/tools/nano-banana-2-image-generator): Google's image model, in a browser tab, with the reference-image dropzone that makes it useful: up to 14 photos in, one new image out.
 - [AI photo generator](https://www.makeviral.ai/ai-photo-generator)
@@ -367,12 +371,12 @@ Yes. Pick Dog in a suit and add one photo of your dog or cat with its face clear
 
 ## New AI video trends this week
 
-- [Tiger Fight AI: Beat the Tiger on CCTV](https://www.makeviral.ai/templates/cctv-tiger-fight-ai-trend): A security camera on a forest path. A tiger leaps out of the bushes, and you fight it and pin it to the ground. Add one photo of yourself or your pet, and the trend's phonk sound comes with it.
-- [The Office Parkour AI Trend: You Shout "Parkour!" in the Office](https://www.makeviral.ai/templates/the-office-parkour-ai-trend): Dive over the couch, land upside down and shout "Parkour!" into the camera, then jump off the reception counter while the crew leaps over the desks. The whole office parkour scene, 24 seconds, with its own shouts.
-- [Huell Money AI: The Breaking Bad Money Pile Scene, Starring You](https://www.makeviral.ai/templates/huell-money-ai-trend): A storage unit, a bed-size pile of cash, and you fall back onto it with your eyes closed while your friend tells you to quit it. Then they give in and lie down next to you. With the scene's own lines.
-- [Peaky Blinders Explosion Scene, Starring You](https://www.makeviral.ai/templates/peaky-blinders-explosion-ai-trend): A flat cap, a long black overcoat, a match at your lips. The red-brick manor blows up behind you and you walk slowly toward the camera through the smoke, never looking back. One photo, 15 seconds, with the clip's song.
-- [Mbappe Run vs Argentina AI: The Mbappe Sprint, Starring You](https://www.makeviral.ai/templates/mbappe-sprint-ai-trend): A sunny pitch, one long sprint with the ball, a defender in a striped shirt crashing into you, and you sitting on the grass complaining while the commentator shouts "It's a penalty!". In your own clothes. It is an AI video, not real match footage.
-- [Perfume Transition AI Trend: Spray, Flame, Gangster Look](https://www.makeviral.ai/templates/perfume-transition-ai-trend): Sniff the perfume, spray it at the camera, and a lighter turns the spray into a fireball. Add one photo, and you or your pet step out of the flame in a flat cap, dark sunglasses and a long magenta coat, with the trend's song.
+- [Kara Sevda AI Trend: Your AI Video with Celebrity Stars Kemal and Emir](https://www.makeviral.ai/templates/ai-video-with-celebrity): You film a night selfie, the camera swings to the Kemal look-alike in his navy suit, face to face with you, and the Emir look-alike walks in and rests his head on his shoulder, jealous. One photo is enough. It is an AI video with look-alikes, not a real meeting.
+- [Misanthropy Meme AI: You as the Horned Anime Side-Eye](https://www.makeviral.ai/templates/misanthropy-meme-ai-trend): Your photo becomes a hand-drawn anime character with small horns. It glances left and right on a gray screen, then the background floods red and it breaks into a slow, smug grin, twice, to the trend's laughing beat. One photo in, an 8-second vertical clip out.
+- [Ahh Almost Almost: Train Hard, Miss by an Inch, From One Photo](https://www.makeviral.ai/templates/almost-almost-ai-trend): "While they're out partying btw": you grind alone late at night. Then the big shot rolls around the rim and out, twice, as the sound groans "ahhh almost almost". One photo in, an 11-second clip with the trend's own sound out.
+- [If I Was ChatGPT Trend: Your Observe, Just Observe Mood Board](https://www.makeviral.ai/templates/if-i-was-chatgpt-trend): Add one photo. The AI looks at it, picks the city, season, flower, painting, animal and element that fit you, and puts them around your photo in one mood board with short labels.
+- [Davul Zurna Yapay Zeka: Dance and Sing in the Viral Warehouse Clip](https://www.makeviral.ai/templates/davul-zurna-ai-trend): You dance between a zurna player and a davul player in a big workshop, walk up to the camera, sing right into it and walk back with your arms up. One photo, three for the whole band, or your pet. 15 seconds, with the live davul and zurna.
+- [Come On Barbie Let's Go Party AI: Do the Barbie Girl Dance Trend From Two Photos](https://www.makeviral.ai/templates/barbie-girl-dance-ai-trend): You turn around, sway your hips, pump a fist on "ah ah ah yeah" and lean on each other, side by side, on the sped-up Barbie Girl beat. Add two photos and get a real couple's viral reel with your faces and the song.
 
 ## Make your own Airport Star Arrival video
 

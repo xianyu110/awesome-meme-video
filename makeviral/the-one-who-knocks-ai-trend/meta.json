@@ -30,7 +30,7 @@
       "text": "Use the uploaded image as the base. Keep the animal's species, breed, face, eye color, fur color, fur length, markings and body size exactly the same as in the photo. A cinematic, photorealistic film still at night, vertical 9:16: the pet sits upright in the open doorway of a dim bedroom, framed by the door frame, the dark hallway behind it. Warm light from a bedside lamp falls on one side of its face, cool blue moonlight from a window on the other. In the soft-focus foreground at the lower edge, the corner of a neatly made bed. The camera is at the pet's eye level. The whole pet is in frame, its face large and sharp, looking straight into the camera with a calm, cold, unblinking stare, its mouth closed. Exactly one animal, with its natural body. No people, no clothes, no hat, no text, no logos, no watermark."
     },
     {
-      "label": "3. Press the film button on the still to open AI Video with the still as the first frame. Settings: Kling 3.0, 10 s, 1080p, 9:16, sound on. The video prompt",
+      "label": "3. Press the film button on the still to open AI Video with the still as the first frame. Settings: Seedance 2.5, 10 s, 720p, 9:16, sound on. The video prompt",
       "variant": null,
       "kind": "video_prompt",
       "text": "Keep the animal's face, fur, markings and body, the doorway and the light exactly as in the image. A tense, slow-burn TV drama scene at night in one continuous shot: the camera pushes in very slowly from the whole pet to a close-up of its face. The pet stays still in the doorway and stares straight into the lens with a calm, cold look. Its mouth stays closed the whole time: it never talks; only the voice-over speaks. 0-2 s: silence, the cold stare. 2-5.5 s: a deep, calm, quiet voice-over says: \"I am not in danger. I am the danger.\" 5.5-6.5 s: the pet slowly narrows its eyes. 6.5-9 s: the voice-over says slowly, each word weighted: \"I am the one who knocks.\" 9-10 s: the pet tilts its head a little and holds the stare. Audio: only the voice-over, a new voice, never imitating a real actor's voice, each line said once; a faint room tone and a low, tense drone; no background music, no meow, no bark. Exactly one animal. No people, no extra limbs, no morphing, no cuts, no text, no subtitles, no logos."
@@ -50,5 +50,5 @@
     "Make your own The One Who Knocks video"
   ],
   "prompt_count": 3,
-  "scraped_at": "2026-11-12"
+  "scraped_at": "2026-11-13"
 }

@@ -56,7 +56,7 @@ Use the image as the first frame and keep everything in it: the same two people,
 Geniş açıyla, gün ışığında çekilmiş, ön planda bir evcil hayvanın oturduğu gerçekçi ve sinematik bir fotoğraf. Ön plandaki hayvan, yüklenen fotoğraftaki hayvandır: aynı tür ve ırk, aynı yüz, gözler, kulaklar, tüy rengi, tüy uzunluğu ve desen, o hayvanın doğal vücut oranlarıyla. Arka planda Ankara'daki, Türkiye Cumhuriyeti'nin kurucusunun anıt mezarının heybetli mimarisi: düz ve yalın bir saçağın taşıdığı uzun bir sıra yüksek, kare kesitli, açık bej kalker sütun ve önünde geniş taş merdivenler, merdivenlerde ve girişte toplanmış kalabalık insanlar küçük ve uzakta görülüyor. Hayvan meydanın ortasında, taş zeminde sakin ve dik oturuyor, kameraya bakıyor; boynunda sade kırmızı bir tasma var. Kamera alçakta, hayvanın göz hizasına yakın: hayvan kulaklarından ayaklarına ve kuyruğuna kadar tam görünüyor, arkasında sütunlar yükseliyor. Zeminde mozaik desenli taş kaplama detayları belirgin. Gökyüzü hafif bulutlu, güneş parlak, atmosfer net ve kontrastlı, yüksek çözünürlüklü, derinlik hissi güçlü. Ön planda tek bir hayvan ve hiç insan yok. Fotoğrafta herhangi bir kişinin portresi, heykel yüzü, bayrak, yazı, tabela veya logo yok. Dikey 9:16.
 ```
 
-### 6. 3. Press the film button on the still to open AI Video with the still as the first frame. Settings: Kling 3.0, 5 s, 1080p, 9:16, sound on. The video prompt
+### 6. 3. Press the film button on the still to open AI Video with the still as the first frame. Settings: Seedance 2.5, 5 s, 720p, 9:16, sound on. The video prompt
 
 *Kind: video_prompt*
 

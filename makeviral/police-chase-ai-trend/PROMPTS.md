@@ -41,7 +41,7 @@ No weapons, no fights, no one gets hurt; the police never touch the runner. The 
 Use the uploaded image as the base. 9:16 vertical realistic film still, warm daylight, light film grain. The pet from the uploaded image runs at full speed through a crowded South Asian street market toward the camera, ears back, paws off the ground, fruit and vegetable stalls under colorful awnings on both sides, shoppers stepping aside in surprise. Far behind, two police officers in plain khaki uniforms and caps run after it. A red city bus waits at the end of the market. Exactly one animal. No weapons. No text, no logos, no brand names, no watermark.
 ```
 
-### 3. 3. Press the film button on the still to open AI Video with the still as the first frame. Settings: Kling 3.0, 10 s, 1080p, 9:16, sound on. The video prompt
+### 3. 3. Press the film button on the still to open AI Video with the still as the first frame. Settings: Seedance 2.5, 10 s, 720p, 9:16, sound on. The video prompt
 
 *Kind: video_prompt*
 

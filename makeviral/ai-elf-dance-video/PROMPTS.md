@@ -60,7 +60,7 @@ Real people with real bodies and real faces, live action: never a cut-out photo 
 Use the uploaded image as the base. 9:16 vertical photo, like a real phone photo at home on Christmas Eve, taken at the height of the pet. The pet from the uploaded image stands on the floor of a cozy living room. A warm living room with a lit Christmas tree, string lights and wrapped presents. The tree stands behind the pet, a little to one side, its lights soft and warm. The pet wears a tall pointed elf hat, green with a red band, with a small gold bell on the tip, and a little red-and-green elf collar with gold buttons around its neck. It faces the camera with a happy face. Its whole body is in view, from the ears to the paws, with its tail. Soft warm light, natural fur detail, a little phone-camera softness. Photorealistic, not a cartoon, not CGI. Exactly one animal and no people. No other clothes. No text, no logos, no watermark.
 ```
 
-### 4. 3. Press the film button on the still to open AI Video with the still as the first frame. Settings: Kling 3.0, 10 s, 1080p, 9:16, sound on. The video prompt
+### 4. 3. Press the film button on the still to open AI Video with the still as the first frame. Settings: Seedance 2.5, 10 s, 720p, 9:16, sound on. The video prompt
 
 *Kind: video_prompt*
 

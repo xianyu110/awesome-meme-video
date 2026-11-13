@@ -14,7 +14,7 @@ Add one photo of a pet you miss. It trots along a glowing marigold path, a frien
 
 Also called: Day of the Dead for pets, Dia de muertos mascotas, Mascotas dia de muertos, Pet day of the dead, Marigold bridge, Dia de los muertos pet, Pet first day of the dead, Pet land of the dead.
 
-**Make it now:** [Make this video](https://www.makeviral.ai/templates/ai-day-of-the-dead-pet/create). 1 photo · 10 s · 9:16 with sound · 40 credits, charged once · ready in a few minutes · no prompt to write.
+**Make it now:** [Make this video](https://www.makeviral.ai/templates/ai-day-of-the-dead-pet/create). 1 photo · 10 s · 9:16 with sound · 152 credits, charged once · ready in up to several minutes · no prompt to write.
 
 Keyword: day of the dead pet. Also answers: day of the dead pets, ofrenda for pets, pet ofrenda, day of the dead dog, day of the dead pet ai, day of the dead pet video, ai day of the dead pet, dia de los muertos dog, dog crossing rainbow bridge, day of the dead cat, ofrenda para mascotas, dia de los muertos pet day, day of the dead pets october 27, day of the dead pet trend, pet ofrenda day, day of the dead pet altar, pet ofrenda ideas, dia de muertos mascotas ia, dia de los muertos pets, dia de los muertos pet ofrenda, pet ofrenda october 27, dia de muertos mascotas animado, altar mascotas dia de muertos, dia de muertos mascotas frases, rainbow bridge video, dia de los muertos pet altar, pet memorial video, ai pet memorial video, ofrenda para mascotas dia de muertos, day of the dead pets arrive, ofrenda altar for pets, day of the dead pet ofrenda, marigold bridge pet, dog crossing the marigold bridge, pet crossing the marigold bridge, su primer dia de muertos mascota, puente de cempasuchil, dia de muertos mascotas fecha, mascotas fallecidas dia de muertos, day of the dead pets 2026, pet altar day of the dead, marigold bridge meaning, ofrenda for pets october 27, trend dia de muertos, video dia de muertos ia, day of the dead pet memorial, day of the dead pet quotes, ofrenda for pets ideas, mictlan mascota, day of the dead dog ai, dia de muertos mascotas 27 de octubre.
 
@@ -53,8 +53,8 @@ Everything runs in the browser. No editing app, no watermark.
 ### The one-tap way (no prompt to write)
 
 1. **Add your photo.** Press "Make yours" and add your pet. Take it with the camera or pick it from your library. Start here: https://www.makeviral.ai/templates/ai-day-of-the-dead-pet/create
-2. **Press Generate.** The button shows the price. Kling 3.0 Omni puts your photos into the Day of the Dead pet trend clip and copies it shot by shot for 10 seconds, with the reel's original song. You write no prompt.
-3. **Download or share.** The video is ready in a few minutes as a 9:16 MP4. Download it, share it from your phone, or find it later in My videos.
+2. **Press Generate.** The button shows the price. Seedance 2.5 puts your photos into the Day of the Dead pet trend clip and copies it shot by shot for 10 seconds, with the reel's original song. You write no prompt.
+3. **Download or share.** The video is ready in up to several minutes as a 9:16 MP4. Download it, share it from your phone, or find it later in My videos.
 
 ### The by-hand way, with the exact prompts
 
@@ -62,21 +62,21 @@ The one-tap flow runs this prompt for you. The video prompt animates your own ph
 
 #### Variant: Land of the dead
 
-Settings: 1 photo (your pet) · Kling 3.0 Omni · 10 s · 720p · 9:16 · no sound · 40 credits in one tap.
+Settings: 1 photo (your pet) · Seedance 2.5 · 10 s · 720p · 9:16 · no sound · 152 credits in one tap.
 
-1. The video prompt is filled in. Settings: Kling 3.0 Omni, 10 s, 720p, 9:16, sound off. The video prompt:
+1. The video prompt is filled in. Settings: Seedance 2.5, 10 s, 720p, 9:16, sound off. The video prompt:
 
    ```text
-   Replace the dog in the video with the pet in the first image. The grey shaggy dog from the video must not appear in any frame. The pet that trots along the glowing marigold path to the crystal gate, waits at the skeleton officer's glass desk and then walks on into the glowing city is the pet in the first image, whether it is a dog, a cat or another animal: the same species and breed, face, eyes, ears, muzzle, fur colors, fur length, markings and size as in the first image, in the same warm 3D animated film style as the rest of the video. The framed photo on the officer's glowing screen also shows the pet from the first image.
+   Recreate the reference video [Video 1] shot for shot: the winding path of glowing marigold petals, the gate of tall glowing crystals, the friendly skeleton officer in the blue uniform and blue cap at his glass desk, his glowing screen and the glowing city of towers at dusk, in the same warm 3D animated film style, with the same camera angles, cuts, timing and moves. The ONLY change: the grey shaggy dog is now the pet in [Image 1].
 
-Timing, second by second, as in the original video:
-0-2.5 s: the pet trots along a winding path of glowing marigold petals toward a gate of tall glowing crystals, past a few townspeople in festive clothes, and stops at the glass desk of a friendly skeleton officer in a blue uniform and a blue cap.
-2.5-4.9 s: close on the officer: he taps on a glowing glass pad on his desk, then looks up with wide eyes.
-4.9-6.2 s: close-up of his glowing screen: a framed photo of the pet on a Day of the Dead altar with orange marigolds, purple flowers and lit candles.
-6.2-8 s: the officer smiles warmly at the pet in front of his desk and opens one hand toward the city to wave it through.
-8-10 s: the pet walks on past the desk and down a glowing street of towers, balconies, lanterns and marigolds at dusk, toward a warm light, and grows small in the distance.
+The pet = the pet in [Image 1], in EVERY shot: the same species and breed, face, eyes, ears, muzzle, fur colors, fur length and markings as in [Image 1], with the natural body volume and proportions of that animal: never flattened, squashed, stretched or merged with anything. Whether [Image 1] shows a dog, a cat or another animal, it stays that animal. The same pet in every frame, from the first second to the last, so its family recognizes it at once, also from behind. Never drift back to the grey shaggy dog. NO party hat, NO backpack and NO blue bandana unless [Image 1] shows them. The framed photo on the officer's screen shows the same pet from [Image 1].
 
-The pet keeps its own look from the first image in every frame, also from behind and in the framed photo, with the natural body volume and proportions of that animal: never flattened, squashed, stretched or merged with anything. No party hat, no backpack and no blue bandana unless the first image shows them. The skeleton officer, the crystal gate, the marigold path and the city stay as in the video. One pet only. No new text, no logos, no watermark.
+The shots, matching the reference second by second:
+1. 0-4.9 s: the pet trots along the glowing marigold path toward the crystal gate, past a few townspeople, to the officer's glass desk; the camera moves in on the officer, who taps on a glowing glass pad and looks up with wide eyes.
+2. 4.9-6.2 s: close-up of the glowing screen: the framed photo of the pet from [Image 1] on an altar with marigolds, purple flowers and lit candles.
+3. 6.2-10 s: the officer smiles warmly at the pet and opens one hand toward the city; the pet walks on past the desk, down the glowing street at dusk, and grows small in the distance.
+
+One pet only. The skeleton officer keeps his own skull face and uniform. No new text, no logos, no watermark.
    ```
 
 2. Press Generate, then download the 9:16 MP4.
@@ -85,7 +85,7 @@ One-tap version of this variant: https://www.makeviral.ai/templates/ai-day-of-th
 
 #### Variant: Marigold bridge
 
-Settings: 1 photo (your pet) · Kling 3.0 · 8 s · 1080p · 9:16 · with sound · 46 credits in one tap.
+Settings: 1 photo (your pet) · Seedance 2.5 · 8 s · 720p · 9:16 · with sound · 103 credits in one tap.
 
 1. Open [AI Photo with this template](https://www.makeviral.ai/photo?template=ai-day-of-the-dead-pet&variant=pet-bridge) and add your photo (your pet). The photo prompt is filled in:
 
@@ -94,7 +94,7 @@ Settings: 1 photo (your pet) · Kling 3.0 · 8 s · 1080p · 9:16 · with sound 
    ```
 
 2. Check the still before you spend credits on the video. Everything the video model does starts from that one frame.
-3. Press the film button on the still to open AI Video with the still as the first frame. Settings: Kling 3.0, 8 s, 1080p, 9:16, sound on. The video prompt:
+3. Press the film button on the still to open AI Video with the still as the first frame. Settings: Seedance 2.5, 8 s, 720p, 9:16, sound on. The video prompt:
 
    ```text
    Turn this photo into a video, please. The pet is running over the bridge of flowers, coming toward the viewer. And animate the fireworks, please. Keep the animal's species, face, fur, markings and size and the marigold bridge exactly as in the image. Audio: a soft, warm original instrumental tune on a gentle guitar, the distant crackle and pops of the fireworks and light paws on the petals; no singing, no speech, no barking. Exactly one animal, no people. One continuous shot, no cuts, no extra animals, no extra legs, no morphing. No text, no subtitles, no logos, no watermark.
@@ -106,21 +106,21 @@ One-tap version of this variant: https://www.makeviral.ai/templates/ai-day-of-th
 
 #### Variant: Human
 
-Settings: 1 photo (one adult, whole body) · Kling 3.0 Omni · 10 s · 720p · 9:16 · no sound · 40 credits in one tap.
+Settings: 1 photo (one adult, whole body) · Seedance 2.5 · 10 s · 720p · 9:16 · no sound · 152 credits in one tap.
 
-1. The video prompt is filled in. Settings: Kling 3.0 Omni, 10 s, 720p, 9:16, sound off. The video prompt:
+1. The video prompt is filled in. Settings: Seedance 2.5, 10 s, 720p, 9:16, sound off. The video prompt:
 
    ```text
-   Replace the dog in the video with the person in the first image. The grey shaggy dog from the video must not appear in any frame. The one who walks along the glowing marigold path to the crystal gate, waits at the skeleton officer's glass desk and then walks on into the glowing city is the person in the first image, a grown person walking upright on two legs: the same face, eye color, eyebrows, nose, mouth, skin tone, age, hair color and hairstyle, and any glasses, beard or freckles as in the first image, in the clothes from the first image, in the same warm 3D animated film style as the rest of the video, so their family recognizes them at once. The framed photo on the officer's glowing screen also shows the person from the first image.
+   Recreate the reference video [Video 1] shot for shot: the winding path of glowing marigold petals, the gate of tall glowing crystals, the friendly skeleton officer in the blue uniform and blue cap at his glass desk, his glowing screen and the glowing city of towers at dusk, in the same warm 3D animated film style, with the same camera angles, cuts, timing and moves. The ONLY change: the grey shaggy dog is now the person in [Image 1], a grown person walking upright on two legs.
 
-Timing, second by second, as in the original video:
-0-2.5 s: the person walks along a winding path of glowing marigold petals toward a gate of tall glowing crystals, past a few townspeople in festive clothes, and stops at the glass desk of a friendly skeleton officer in a blue uniform and a blue cap.
-2.5-4.9 s: close on the officer: he taps on a glowing glass pad on his desk, then looks up with wide eyes.
-4.9-6.2 s: close-up of his glowing screen: a framed photo of the person on a Day of the Dead altar with orange marigolds, purple flowers and lit candles.
-6.2-8 s: the officer smiles warmly at the person in front of his desk and opens one hand toward the city to wave them through.
-8-10 s: the person walks on past the desk and down a glowing street of towers, balconies, lanterns and marigolds at dusk, toward a warm light, and grows small in the distance.
+The person = the person in [Image 1], in EVERY shot: copy the exact face from [Image 1] (the face shape, eye color and eye shape, eyebrows, nose, mouth, skin tone, age, hair color, hair length and hairstyle, and any beard, moustache, glasses or freckles), in the clothes from [Image 1], in the same warm 3D animated film style. The same person in every frame, from the first second to the last, so their family recognizes them at once, also from behind. Never drift back to the grey shaggy dog: a human, no fur, no dog ears, no tail, no paws. NO party hat, NO backpack and NO blue bandana unless [Image 1] shows them. The head is never cut off by the frame. The framed photo on the officer's screen shows the same person from [Image 1].
 
-The person keeps their own face and look from the first image in every frame, also from behind and in the framed photo, and their head is never cut off by the frame. A human, never a dog: no fur, no dog ears, no tail, no paws. No party hat, no backpack and no blue bandana unless the first image shows them. The skeleton officer, the crystal gate, the marigold path and the city stay as in the video. One person in the dog's place only. No new text, no logos, no watermark.
+The shots, matching the reference second by second:
+1. 0-4.9 s: the person walks along the glowing marigold path toward the crystal gate, past a few townspeople, to the officer's glass desk; the camera moves in on the officer, who taps on a glowing glass pad and looks up with wide eyes.
+2. 4.9-6.2 s: close-up of the glowing screen: the framed photo of the person from [Image 1] on an altar with marigolds, purple flowers and lit candles.
+3. 6.2-10 s: the officer smiles warmly at the person and opens one hand toward the city; the person walks on past the desk, down the glowing street at dusk, and grows small in the distance.
+
+One person in the dog's place only. The skeleton officer keeps his own skull face and uniform. No new text, no logos, no watermark.
    ```
 
 2. Press Generate, then download the 9:16 MP4.
@@ -144,7 +144,7 @@ You pay per video in credits, and the create page shows the exact price on the G
 
 | Video model | Settings | Credits |
 | --- | --- | --- |
-| Kling 3.0 Omni (this template) | 10 s, 720p, copies the trend clip, one tap | 40 |
+| Seedance 2.5 (this template) | 10 s, 720p, copies the trend clip, one tap | 152 |
 
 Credits come with a plan; see [pricing](https://www.makeviral.ai/pricing). A failed video gives its credits back.
 
@@ -160,9 +160,9 @@ Credits come with a plan; see [pricing](https://www.makeviral.ai/pricing). A fai
 | 6 to 8 | The officer smiles at your pet and waves it through. |
 | 8 to 10 | Your pet walks on into the glowing city at dusk, until it is small in the distance. |
 
-Kling 3.0 Omni edits the template clip itself, so the path, the gate, the officer and the city stay, and your pet comes in, in the same animated look. The clip is vertical 9:16 at 720p and comes with the template's sound. **Best** runs the same clip on Seedance 2.5, for more credits.
+Seedance 2.5 edits the template clip itself, so the path, the gate, the officer and the city stay, and your pet comes in, in the same animated look. The clip is vertical 9:16 at 720p and comes with the template's sound.
 
-**Marigold bridge** is the 2025 original, in a lifelike look, made in two steps as its creator made it. First Nano Banana 2.1 makes a photo of your pet on a bridge of marigolds decorated for the Day of the Dead, with fireworks behind it, using @alemerinoj's own Gemini prompt word for word. Then Kling 3.0 (Standard) or Seedance 2.5 (Best) turns that photo into an 8-second video of your pet running across the bridge toward you, with the fireworks going off and soft music.
+**Marigold bridge** is the 2025 original, in a lifelike look, made in two steps as its creator made it. First Nano Banana 2.1 makes a photo of your pet on a bridge of marigolds decorated for the Day of the Dead, with fireworks behind it, using @alemerinoj's own Gemini prompt word for word. Then a top-quality AI video model turns that photo into an 8-second video of your pet running across the bridge toward you, with the fireworks going off and soft music. This version has one setting, at 720p.
 
 **Human** puts a person in the dog's place on the Land of the dead clip: a loved one you miss, or you, walks the marigold path, and the officer finds their photo on the altar. Use a photo of one adult with the whole body in view.
 
@@ -211,10 +211,10 @@ The pets' date (fecha) of Día de Muertos is 27 October, or 27 de octubre, a few
 
 | Problem | Fix |
 |---|---|
-| The dog from the template comes back, or a small party hat or backpack shows up | These come from the template's own dog. Run it again, or pick Best. |
+| The dog from the template comes back, or a small party hat or backpack shows up | These come from the template's own dog. Run it again. |
 | Your pet's markings or size are off | Use a sharp photo with the whole body in view, in daylight, then run it again. |
 | Your pet looks more like a cartoon than you hoped | Land of the dead is an animated film look on purpose. Pick Marigold bridge for a lifelike video. |
-| On the bridge, your pet moves in a strange way or the shot cuts | Run it again, or pick Best. |
+| On the bridge, your pet moves in a strange way or the shot cuts | Run it again, or use a photo where your pet stands or sits clearly. |
 | The run fails | Some photos get refused. The credits come back; try another photo. |
 
 Every run is a new take, so results differ.
@@ -267,7 +267,7 @@ Land of the dead is 10 seconds with the template clip's own sound, which you can
 
 ### Does the Day of the Dead pet video cost credits?
 
-Yes. Each video costs credits, and the create page shows the exact price on the Generate button before you spend anything. Standard costs less than Best. If a video fails, the credits come back.
+Yes. Each video costs credits, and the create page shows the exact price on the Generate button before you spend anything. Each version has one setting. If a video fails, the credits come back.
 
 ### Is my pet's photo private?
 
@@ -285,15 +285,15 @@ Yes. MakeViral does not post your photo or the result anywhere or show it to oth
 
 ## New AI video trends this week
 
-- [Tiger Fight AI: Beat the Tiger on CCTV](https://www.makeviral.ai/templates/cctv-tiger-fight-ai-trend): A security camera on a forest path. A tiger leaps out of the bushes, and you fight it and pin it to the ground. Add one photo of yourself or your pet, and the trend's phonk sound comes with it.
-- [The Office Parkour AI Trend: You Shout "Parkour!" in the Office](https://www.makeviral.ai/templates/the-office-parkour-ai-trend): Dive over the couch, land upside down and shout "Parkour!" into the camera, then jump off the reception counter while the crew leaps over the desks. The whole office parkour scene, 24 seconds, with its own shouts.
-- [Huell Money AI: The Breaking Bad Money Pile Scene, Starring You](https://www.makeviral.ai/templates/huell-money-ai-trend): A storage unit, a bed-size pile of cash, and you fall back onto it with your eyes closed while your friend tells you to quit it. Then they give in and lie down next to you. With the scene's own lines.
-- [Peaky Blinders Explosion Scene, Starring You](https://www.makeviral.ai/templates/peaky-blinders-explosion-ai-trend): A flat cap, a long black overcoat, a match at your lips. The red-brick manor blows up behind you and you walk slowly toward the camera through the smoke, never looking back. One photo, 15 seconds, with the clip's song.
-- [Mbappe Run vs Argentina AI: The Mbappe Sprint, Starring You](https://www.makeviral.ai/templates/mbappe-sprint-ai-trend): A sunny pitch, one long sprint with the ball, a defender in a striped shirt crashing into you, and you sitting on the grass complaining while the commentator shouts "It's a penalty!". In your own clothes. It is an AI video, not real match footage.
-- [Perfume Transition AI Trend: Spray, Flame, Gangster Look](https://www.makeviral.ai/templates/perfume-transition-ai-trend): Sniff the perfume, spray it at the camera, and a lighter turns the spray into a fireball. Add one photo, and you or your pet step out of the flame in a flat cap, dark sunglasses and a long magenta coat, with the trend's song.
+- [Kara Sevda AI Trend: Your AI Video with Celebrity Stars Kemal and Emir](https://www.makeviral.ai/templates/ai-video-with-celebrity): You film a night selfie, the camera swings to the Kemal look-alike in his navy suit, face to face with you, and the Emir look-alike walks in and rests his head on his shoulder, jealous. One photo is enough. It is an AI video with look-alikes, not a real meeting.
+- [Misanthropy Meme AI: You as the Horned Anime Side-Eye](https://www.makeviral.ai/templates/misanthropy-meme-ai-trend): Your photo becomes a hand-drawn anime character with small horns. It glances left and right on a gray screen, then the background floods red and it breaks into a slow, smug grin, twice, to the trend's laughing beat. One photo in, an 8-second vertical clip out.
+- [Ahh Almost Almost: Train Hard, Miss by an Inch, From One Photo](https://www.makeviral.ai/templates/almost-almost-ai-trend): "While they're out partying btw": you grind alone late at night. Then the big shot rolls around the rim and out, twice, as the sound groans "ahhh almost almost". One photo in, an 11-second clip with the trend's own sound out.
+- [If I Was ChatGPT Trend: Your Observe, Just Observe Mood Board](https://www.makeviral.ai/templates/if-i-was-chatgpt-trend): Add one photo. The AI looks at it, picks the city, season, flower, painting, animal and element that fit you, and puts them around your photo in one mood board with short labels.
+- [Davul Zurna Yapay Zeka: Dance and Sing in the Viral Warehouse Clip](https://www.makeviral.ai/templates/davul-zurna-ai-trend): You dance between a zurna player and a davul player in a big workshop, walk up to the camera, sing right into it and walk back with your arms up. One photo, three for the whole band, or your pet. 15 seconds, with the live davul and zurna.
+- [Come On Barbie Let's Go Party AI: Do the Barbie Girl Dance Trend From Two Photos](https://www.makeviral.ai/templates/barbie-girl-dance-ai-trend): You turn around, sway your hips, pump a fist on "ah ah ah yeah" and lean on each other, side by side, on the sped-up Barbie Girl beat. Add two photos and get a real couple's viral reel with your faces and the song.
 
 ## Make your own Day of the Dead Pet video
 
-Add one photo and press Generate. No prompt to write. 40 credits, charged once.
+Add one photo and press Generate. No prompt to write. 152 credits, charged once.
 
 [Make this video](https://www.makeviral.ai/templates/ai-day-of-the-dead-pet/create)

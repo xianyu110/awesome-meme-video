@@ -56,7 +56,7 @@ No guns, no weapons, no violence, no blood, no cigarettes. No text, no subtitles
 Use the uploaded image as the base. 9:16 vertical black and white film still, high contrast, deep blacks, soft 35mm grain. The pet from the uploaded image walks out through the tall glass doors of a grand hotel at night toward the camera, as the boss: it wears a small long black coat over a black shirt collar, its face turned to the camera with a calm, serious look, the whole body in view. A bald bodyguard in a black suit walks one step behind it, seen from the chest down to the knees. Exactly one animal. Black and white. No guns, no weapons, no cigarettes. No text, no logos, no watermark.
 ```
 
-### 4. 3. Press the film button on the still to open AI Video with the still as the first frame. Settings: Kling 3.0, 10 s, 1080p, 9:16, sound on. The video prompt
+### 4. 3. Press the film button on the still to open AI Video with the still as the first frame. Settings: Seedance 2.5, 10 s, 720p, 9:16, sound on. The video prompt
 
 *Kind: video_prompt*
 

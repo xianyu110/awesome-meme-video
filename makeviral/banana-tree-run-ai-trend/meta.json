@@ -29,7 +29,7 @@
       "text": "Use the uploaded image as the base. 9:16 vertical photo, like a real phone photo taken from the side at the height of the tops of tall banana plants. The pet from the uploaded image stands on all four paws on top of a broad, flat green leaf of a tall banana plant, high above the ground, in a huge banana plantation on a steep green hillside with red dirt paths far below, in soft, overcast daylight. It faces to the right, turned three-quarters toward the camera, ears up, alert and happy, ready to jump to the next plant. Its whole body is in view, from the ears to the tail. Rows of tall banana plants with giant green leaves all around and behind. Realistic photo with natural colors. Exactly one animal and no people. No clothes on the pet. No text, no logos, no watermark."
     },
     {
-      "label": "3. Press the film button on the still to open AI Video with the still as the first frame. Settings: Kling 3.0, 10 s, 1080p, 9:16, sound on. The video prompt",
+      "label": "3. Press the film button on the still to open AI Video with the still as the first frame. Settings: Seedance 2.5, 10 s, 720p, 9:16, sound on. The video prompt",
       "variant": null,
       "kind": "video_prompt",
       "text": "One continuous shot with no cuts, like a real phone video: the camera moves along at the height of the leaf tops and follows the pet from the side. Keep the animal's face, fur, markings, tail and size, and the banana plantation on the hillside, exactly as in the image.\n0-2 s: the pet crouches on the big leaf, wags its tail, then springs off.\n2-6 s: it bounds to the right from the top of one banana plant to the next, on four legs, landing lightly on the broad leaves with all four paws, ears flapping, tail up; the leaves bend a little and spring back.\n6-8 s: a long, happy leap over a red dirt path between two tall plants and a soft landing on a big leaf.\n8-10 s: it bounds on along the leaf tops, then stops on a leaf, turns its head to the camera and pants happily. The pet has the same fur colors and markings from every side.\nAudio: rustling leaves, soft thumps of paws on the leaves, light wind and birds. No music, no voices. Exactly one animal and no people. It always runs on four legs, never upright like a person. Every landing is light and sure: never a slip, a fall or an injury. No extra legs, no morphing. No text, no subtitles, no logos, no watermark."
@@ -49,5 +49,5 @@
     "Make your own Banana Tree Run AI video"
   ],
   "prompt_count": 3,
-  "scraped_at": "2026-11-12"
+  "scraped_at": "2026-11-13"
 }

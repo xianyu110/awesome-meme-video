@@ -69,7 +69,7 @@ Exactly one printed photo with one person in it. No people in the room, no hands
 Use the uploaded image as the base. 9:16 vertical photo, a bright, cheerful pet photo shoot in soft window light. The pet from the uploaded image sits facing the camera, head up, looking straight into the lens with a happy, alert face, in a cozy, bright room. Medium close-up, the head and the chest large and sharp, with the natural body volume and proportions of that animal. Photorealistic. Exactly one animal. No text, no logos, no watermark.
 ```
 
-### 4. 3. Press the film button on the still to open AI Video with the still as the first frame. Settings: Kling 3.0, 10 s, 1080p, 9:16, sound on. The video prompt
+### 4. 3. Press the film button on the still to open AI Video with the still as the first frame. Settings: Seedance 2.5, 10 s, 720p, 9:16, sound on. The video prompt
 
 *Kind: video_prompt*
 

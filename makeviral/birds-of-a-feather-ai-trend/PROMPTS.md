@@ -68,7 +68,7 @@ Exactly the two of them, nobody else. No beanie, no hat and no glasses unless th
 Use the uploaded image as the base. The pet from the uploaded image lies back in a black office swivel chair on a chrome five-star base: its back rests against the seat back, its front paws loose at its sides, its head tipped back on the top of the seat back with its face turned up to the camera. The camera looks straight down from above: the pet's face large and sharp in the upper half of the frame, the chair and a flat green carpet around it. A small, empty office room with dark wood-paneled walls at the edges of the frame and soft cool light from one ceiling panel. Keep the same species and breed, face, eyes, ears, muzzle, fur colors, fur length and markings as in the photo, with the natural body volume and proportions of that animal: never flattened, squashed or stretched. A real animal with its own paws, no human hands, no clothes. Photorealistic, muted greens and browns, gentle film grain, vertical 9:16. No people, no text, no logos.
 ```
 
-### 4. 3. Press the film button on the still to open AI Video with the still as the first frame. Settings: Kling 3.0, 10 s, 1080p, 9:16, sound on. The video prompt
+### 4. 3. Press the film button on the still to open AI Video with the still as the first frame. Settings: Seedance 2.5, 10 s, 720p, 9:16, sound on. The video prompt
 
 *Kind: video_prompt*
 

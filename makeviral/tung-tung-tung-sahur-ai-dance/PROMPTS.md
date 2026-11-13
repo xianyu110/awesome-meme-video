@@ -48,7 +48,7 @@ Exactly one person and exactly one wooden log character. No other people, no sec
 Use the uploaded image as the base. Keep the animal's species, breed, face, eye color, fur color, fur length, markings and body size exactly the same as in the photo. 9:16 vertical photo, a bright, real phone photo in a living room with plain white walls and a light wooden floor, soft daylight from a window. The pet stands upright on its hind legs on the right, with the natural body volume and proportions of that animal, side by side with a tall wooden log character, a little taller than an adult: one thick, round, upright log of smooth light-brown wood with visible grain and a flat top, a big carved cartoon face on the upper half of the log (wide round eyes with dark pupils, thick carved eyebrows, a long straight nose and a wide mouth), thin wooden stick arms with simple wooden hands, and thin wooden stick legs with bare wooden feet. It holds a small, light toy baseball bat made of pale wood in its right hand, which stands on the left, resting the toy bat on its shoulder. The pet faces the camera with bright eyes and its front paws held up in front of its chest, ready to dance. The whole pet is in frame from ears to hind feet, its face sharp and large. Photorealistic pet, a cartoon wooden character. Exactly one animal and one log character. No people, no clothes on the pet, no text, no logos, no watermark.
 ```
 
-### 3. 3. Press the film button on the still to open AI Video with the still as the first frame. Settings: Kling 3.0, 10 s, 1080p, 9:16, sound on. The video prompt
+### 3. 3. Press the film button on the still to open AI Video with the still as the first frame. Settings: Seedance 2.5, 10 s, 720p, 9:16, sound on. The video prompt
 
 *Kind: video_prompt*
 

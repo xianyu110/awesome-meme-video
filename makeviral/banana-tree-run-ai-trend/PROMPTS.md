@@ -44,7 +44,7 @@ Anatomy rules: one head only, on the runner's shoulders. Two arms and two legs. 
 Use the uploaded image as the base. 9:16 vertical photo, like a real phone photo taken from the side at the height of the tops of tall banana plants. The pet from the uploaded image stands on all four paws on top of a broad, flat green leaf of a tall banana plant, high above the ground, in a huge banana plantation on a steep green hillside with red dirt paths far below, in soft, overcast daylight. It faces to the right, turned three-quarters toward the camera, ears up, alert and happy, ready to jump to the next plant. Its whole body is in view, from the ears to the tail. Rows of tall banana plants with giant green leaves all around and behind. Realistic photo with natural colors. Exactly one animal and no people. No clothes on the pet. No text, no logos, no watermark.
 ```
 
-### 3. 3. Press the film button on the still to open AI Video with the still as the first frame. Settings: Kling 3.0, 10 s, 1080p, 9:16, sound on. The video prompt
+### 3. 3. Press the film button on the still to open AI Video with the still as the first frame. Settings: Seedance 2.5, 10 s, 720p, 9:16, sound on. The video prompt
 
 *Kind: video_prompt*
 

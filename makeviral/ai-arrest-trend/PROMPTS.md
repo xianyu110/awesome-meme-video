@@ -39,7 +39,7 @@ Turn the image into a photorealistic vertical 9:16 handheld smartphone video of 
 Use the uploaded image as the base. Keep the animal's species, breed, face, eye color, fur color, fur length and markings exactly the same as in the photo. A photorealistic vertical 9:16 still from a handheld smartphone video of a fictional night-time movie arrest scene on an urban night street of brick houses. The pet has just been walked out of the front door of a house onto the pavement. It stands upright on its hind legs like a person, about as tall as a child, and wears a plain grey hoodie and grey joggers with no print. Its front paws are cuffed behind its back with small silver handcuffs, and two uniformed officers, one on each side, each hold one of its arms. The officers wear plain dark navy uniforms with no badges, no patches and no writing. The pet looks straight into the camera with a calm, smug face. Behind them a plain white patrol car at the curb flashes red and blue roof lights that tint the fur and the house walls. Shot by a bystander a few steps in front of them at chest height, framing all three from the knees up, with slight phone-camera grain. Exactly one animal and two officers. No other animals, no badges, no shoulder patches, no department names, no readable text on the uniforms, the clothes or the car, no captions, no logos, no watermark.
 ```
 
-### 4. 3. Press the film button on the still to open AI Video with the still as the first frame. Settings: Kling 3.0, 8 s, 1080p, 9:16, sound on. The video prompt
+### 4. 3. Press the film button on the still to open AI Video with the still as the first frame. Settings: Seedance 2.5, 8 s, 720p, 9:16, sound on. The video prompt
 
 *Kind: video_prompt*
 

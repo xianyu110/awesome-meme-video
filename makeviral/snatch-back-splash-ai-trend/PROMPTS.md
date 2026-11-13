@@ -53,7 +53,7 @@ Use the input pet image as the main subject and strictly preserve the pet's orig
 It touches the ball with its front paws: animal paws, never human hands. Exactly one animal, no person in the front. Vertical 9:16. No captions, no scoreboard graphics, no logos, no team names, no readable numbers, no watermark.
 ```
 
-### 3. 3. Press the film button on the still to open AI Video with the still as the first frame. Settings: Kling 3.0, 12 s, 1080p, 9:16, sound on. The video prompt
+### 3. 3. Press the film button on the still to open AI Video with the still as the first frame. Settings: Seedance 2.5, 12 s, 720p, 9:16, sound on. The video prompt
 
 *Kind: video_prompt*
 

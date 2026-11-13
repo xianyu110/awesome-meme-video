@@ -40,7 +40,7 @@ Black and white from the first frame to the last. No guns, no weapons, no violen
 Use the uploaded image as the base. 9:16 vertical black and white film still, high contrast, deep blacks, soft 35mm grain. The pet from the uploaded image sits upright on a chair at a round table in a quiet, upscale restaurant at night, as the boss: it wears a small black suit jacket over a white shirt collar, a small glass of tea in front of it, its face turned three-quarters to the camera with a calm, serious look. Behind it stand two bodyguards in black suits and dark sunglasses, seen from the chest up. A curved white ceiling with small spotlights and a glass chandelier. Exactly one animal. Black and white. No guns, no weapons, no cigarettes. No text, no logos, no watermark.
 ```
 
-### 3. 3. Press the film button on the still to open AI Video with the still as the first frame. Settings: Kling 3.0, 10 s, 1080p, 9:16, sound on. The video prompt
+### 3. 3. Press the film button on the still to open AI Video with the still as the first frame. Settings: Seedance 2.5, 10 s, 720p, 9:16, sound on. The video prompt
 
 *Kind: video_prompt*
 

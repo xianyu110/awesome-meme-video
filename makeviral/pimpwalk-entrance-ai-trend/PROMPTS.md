@@ -115,7 +115,7 @@ Style: Ultra realistic nightlife arrival filmed on a phone. Single continuous ha
 Use the uploaded image as the base. Keep the animal's species, breed, body size, face, fur colors and markings exactly as in the photo. Vertical 9:16 photo taken on a phone from inside a packed crowd at a nightclub entrance hall lit deep red. The pet from the image stands on all four paws in the center on a patterned carpet, sharp and big in the frame, low camera at the pet's eye level, face turned to the camera, calm and confident, wearing a small tailored light grey suit jacket with a white shirt collar. Around it a tight crowd of adult fans and photographers lean in: raised phones with bright screens, a press photographer with a big black camera lens in the near foreground, two bodyguards in black behind it. Red velvet walls, red ceiling lights, a staircase with brass railings in the background. Real camera flash, slight motion blur in the crowd, realistic nightlife phone photo. Exactly one animal. No text, no logos, no brand names, no readable signs, nothing readable on the phone screens.
 ```
 
-### 7. 3. Press the film button on the still to open AI Video with the still as the first frame. Settings: Kling 3.0, 15 s, 1080p, 9:16, sound on. The video prompt
+### 7. 3. Press the film button on the still to open AI Video with the still as the first frame. Settings: Seedance 2.5, 15 s, 720p, 9:16, sound on. The video prompt
 
 *Kind: video_prompt*
 

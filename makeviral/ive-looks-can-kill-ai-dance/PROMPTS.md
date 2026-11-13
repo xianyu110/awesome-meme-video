@@ -76,7 +76,7 @@ The person dances in the place from the uploaded image, in the clothes and shoes
 Use the uploaded image as the base. 9:16 vertical photo, like a cinematic action-movie still taken at night, at the height of the pet. The pet from the uploaded image stands upright on its two hind legs on the flat rooftop of a tall building at night, high above a big city: glowing towers, lit windows and neon light all around, a low metal railing behind it, a light haze, cool blue and magenta city light and a warm rim light on the pet. It wears a tiny long black coat that flares out in the wind; its fur blows in the wind too. It faces the camera with a cool, confident face, one front paw raised and pointing at the camera like a hero. Its whole body is in view, from the ears to the hind paws, with its tail. Realistic photo with a soft, shallow depth of field. Exactly one animal and no people. No other clothes, no hat. No weapon, nothing in the paws. No text, no logos, no readable signs, no watermark.
 ```
 
-### 5. 3. Press the film button on the still to open AI Video with the still as the first frame. Settings: Kling 3.0, 10 s, 1080p, 9:16, sound on. The video prompt
+### 5. 3. Press the film button on the still to open AI Video with the still as the first frame. Settings: Seedance 2.5, 10 s, 720p, 9:16, sound on. The video prompt
 
 *Kind: video_prompt*
 

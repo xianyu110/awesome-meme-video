@@ -30,7 +30,7 @@
       "text": "Use the uploaded image as the base. 9:16 vertical realistic film still, warm daylight, light film grain. The pet from the uploaded image runs at full speed through a crowded South Asian street market toward the camera, ears back, paws off the ground, fruit and vegetable stalls under colorful awnings on both sides, shoppers stepping aside in surprise. Far behind, two police officers in plain khaki uniforms and caps run after it. A red city bus waits at the end of the market. Exactly one animal. No weapons. No text, no logos, no brand names, no watermark."
     },
     {
-      "label": "3. Press the film button on the still to open AI Video with the still as the first frame. Settings: Kling 3.0, 10 s, 1080p, 9:16, sound on. The video prompt",
+      "label": "3. Press the film button on the still to open AI Video with the still as the first frame. Settings: Seedance 2.5, 10 s, 720p, 9:16, sound on. The video prompt",
       "variant": null,
       "kind": "video_prompt",
       "text": "A realistic, cinematic street action scene, handheld film camera, fast and fun. Keep the pet exactly as in the image: the same face, eyes, ears, fur and markings, with the natural body and proportions of that animal. The pet races through the market toward the camera, which moves back fast, dodges between the shoppers, glances back at the two police officers far behind, then leaps high onto the roof of the slowly moving red city bus at the end of the market, runs along the roof and stops at the front edge, proud, looking at the camera. Audio: an original fast action beat with dhol drums, a whoosh on the jump, market noise and a police whistle. No dialogue. Exactly one animal. No weapons, no fights; the police never touch the pet. No text, no logos, no brand names, no watermark."
@@ -56,5 +56,5 @@
     "Make your own Police Chase AI video"
   ],
   "prompt_count": 3,
-  "scraped_at": "2026-11-12"
+  "scraped_at": "2026-11-13"
 }

@@ -1,0 +1,61 @@
+# St Tropez DJ AI Trend: St Tropez Knows How to Party
+
+- Source: [makeviral](https://www.makeviral.ai/templates/st-tropez-dj-ai-trend)
+- Slug: `st-tropez-dj-ai-trend`
+
+St tropez knows how to party is the caption of a viral phone clip filmed beside the DJ booth of a packed Saint-Tropez beach club, where the DJ dances behind the decks and throws his arms up while the crowd films.
+
+## Demo videos (CDN)
+
+- https://www.makeviral.ai/media/templates/st-tropez-dj-ai-trend/original-full-v2.mp4
+
+## Posters
+
+- https://www.makeviral.ai/media/templates/st-tropez-dj-ai-trend/original-full-v1.jpg
+
+## Prompts
+
+### 1. 1. The video prompt is filled in. Settings: Seedance 2.5, 10 s, 720p, 9:16, sound off. The video prompt
+
+*Kind: video_prompt*
+
+```text
+Recreate the reference video [Video 1] shot for shot: the same packed beach club in bright afternoon sun under a reed roof, the same DJ booth with the decks and the mixer in front, the same crowd dancing, clapping and filming with their phones, the same handheld phone camera beside the decks in one continuous take, the same framing, timing and moves. The ONLY change: the main DJ, the man behind the decks in the middle of the frame, is now the person in [Image 1].
+
+Replace the original main DJ with the person in [Image 1], using [Image 1] as the exact facial identity reference. Preserve the original video's camera movements, timing, stage layout, lighting, crowd energy and choreography. A few friends stand naturally behind the decks, celebrating and interacting realistically. Photorealistic skin, accurate facial identity, natural body movements, realistic hands, synchronized gestures, sunny afternoon light, authentic party atmosphere, seamless character replacement, ultra-realistic 4K quality. Keep the original composition and duration. The person in [Image 1] performs as the main DJ at a packed beach club party, mixing on professional DJ decks alongside a second DJ.
+
+The DJ = the person in [Image 1], in EVERY frame: copy the exact face from [Image 1]: face shape, eye color and eye shape, eyebrows, nose, mouth, skin tone, age, hair color, hair length and hairstyle, and any beard, moustache, glasses or freckles exactly as in the photo. The DJ wears the clothes from [Image 1]; if [Image 1] shows only the head or the upper body, invent the rest so it matches naturally. The same real person in every frame, so their friends instantly recognize them, also when the DJ leans over the decks and raises both arms. Never morph, never drift back to the original DJ's face. NO purple tie-dye T-shirt with lettering, NO bleached blond hair, NO red-blond beard, NO gold chain and NO dark sunglasses unless [Image 1] shows them: the DJ's eyes stay visible. If [Image 1] shows an animal, the DJ is that animal standing upright behind the decks, with its own face, fur and markings.
+
+The moves, matching [Video 1] second by second:
+00:00-00:02: behind the decks, hands by the mixer, bouncing to the beat, glancing at the crowd.
+00:02-00:05: hands at chest height, grooving, one hand lifts for a moment, looking out over the crowd.
+00:05-00:07.5: leans over the decks and works the mixer with both hands.
+00:07.5-00:10: throws both arms high above the head, palms open, while the crowd cheers and films.
+
+Everyone else stays exactly as in [Video 1]: the second DJ at the left, the dancers at the right and the crowd. Keep the small white caption "St tropez knows how to party" exactly as in the video.
+
+Anatomy rules: one head only, on the DJ's shoulders. Two arms and two hands, five fingers on each hand. No face distortion, no extra fingers, no artificial-looking people, no other text or watermarks. No dialogue throughout the entire video. No background music.
+```
+
+### 2. 1. The video prompt is filled in. Settings: Seedance 2.5, 10 s, 720p, 9:16, sound off. The video prompt (Pet)
+
+*Kind: video_prompt*
+
+```text
+Recreate the reference video [Video 1] shot for shot: the same packed beach club in bright afternoon sun under a reed roof, the same DJ booth with the decks and the mixer in front, the same crowd dancing, clapping and filming with their phones, the same handheld phone camera beside the decks in one continuous take, the same framing, timing and moves. The ONLY change: the main DJ, the man behind the decks in the middle of the frame, is now the pet in [Image 1].
+
+Replace the original main DJ with the pet in [Image 1], using [Image 1] as the exact identity reference. Preserve the original video's camera movements, timing, stage layout, lighting, crowd energy and choreography. A few friends stand naturally behind the decks, celebrating and interacting realistically. Photorealistic skin, accurate facial identity, natural body movements, realistic hands, synchronized gestures, sunny afternoon light, authentic party atmosphere, seamless character replacement, ultra-realistic 4K quality. Keep the original composition and duration. The pet from [Image 1] performs as the main DJ at a packed beach club party, mixing on professional DJ decks alongside a second DJ.
+
+The DJ = the pet in [Image 1], in EVERY frame: the same species and breed, face, eyes, ears, muzzle, fur colors, fur length and markings as in [Image 1], with the natural body volume and proportions of that animal: never flattened, squashed, stretched or merged with anything. Whether [Image 1] shows a dog, a cat or another animal, it stays that animal, standing upright on its hind legs behind the decks with its front paws on the mixer, at the height of the original DJ's chest. The same pet in every frame, from the first second to the last, so its owner instantly recognizes it. No human body, no human face, no purple tie-dye T-shirt, no gold chain and no sunglasses: only its own fur, plus a collar if [Image 1] shows one.
+
+The moves, matching [Video 1] second by second:
+00:00-00:02: behind the decks, hands by the mixer, bouncing to the beat, glancing at the crowd.
+00:02-00:05: hands at chest height, grooving, one hand lifts for a moment, looking out over the crowd.
+00:05-00:07.5: leans over the decks and works the mixer with both hands.
+00:07.5-00:10: throws both arms high above the head, palms open, while the crowd cheers and films. The pet copies each move with its front paws and bobs its head to the beat.
+
+Everyone else stays exactly as in [Video 1]: the second DJ at the left, the dancers at the right and the crowd. Keep the small white caption "St tropez knows how to party" exactly as in the video.
+
+Anatomy rules: one head only, one muzzle, natural teeth and tongue. Exactly two front paws: animal paws, never a human hand. No extra legs, no extra animals. No face distortion, no artificial-looking people, no other text or watermarks. No dialogue throughout the entire video. No background music.
+```
+

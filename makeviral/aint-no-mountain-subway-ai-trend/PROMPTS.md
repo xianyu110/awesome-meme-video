@@ -47,7 +47,7 @@ Exactly one person in the car, no other passengers. One head only, two arms, fiv
 Use the uploaded image as the base. 9:16 vertical photo, like a real phone selfie taken close in front of the pet, at its eye level. The pet from the uploaded image sits upright alone on a blue bench seat in the inside of a clean, nearly empty city subway car at night under bright white ceiling lights: long blue bench seats along both walls, steel grab poles and handrails, sliding doors, a framed route map on the wall with no readable words, the car stretching away behind, dark windows with lights flicking past. A medium close-up from the chest up, the face big and sharp, looking into the lens. Thin white wired earphones sit in its ears, the white cable hanging down over its chest. Realistic photo with natural colors. Exactly one animal and no people. No clothes on the pet. No phone visible, no text, no logos, no line names or route numbers, no watermark.
 ```
 
-### 3. 3. Press the film button on the still to open AI Video with the still as the first frame. Settings: Kling 3.0, 10 s, 1080p, 9:16, sound on. The video prompt
+### 3. 3. Press the film button on the still to open AI Video with the still as the first frame. Settings: Seedance 2.5, 10 s, 720p, 9:16, sound on. The video prompt
 
 *Kind: video_prompt*
 

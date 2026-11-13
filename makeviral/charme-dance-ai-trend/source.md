@@ -115,7 +115,7 @@ One-tap version of this variant: https://www.makeviral.ai/templates/charme-dance
 
 #### Variant: Pet
 
-Settings: 1 photo (your pet, whole body) · Kling 3.0 · 10 s · 1080p · 9:16 · with sound · 56 credits in one tap.
+Settings: 1 photo (your pet, whole body) · Seedance 2.5 · 10 s · 720p · 9:16 · with sound · 128 credits in one tap.
 
 1. Open [AI Photo with this template](https://www.makeviral.ai/photo?template=charme-dance-ai-trend&variant=pet) and add your photo (your pet, whole body). The photo prompt is filled in:
 
@@ -124,7 +124,7 @@ Settings: 1 photo (your pet, whole body) · Kling 3.0 · 10 s · 1080p · 9:16 �
    ```
 
 2. Check the still before you spend credits on the video. Everything the video model does starts from that one frame.
-3. Press the film button on the still to open AI Video with the still as the first frame. Settings: Kling 3.0, 10 s, 1080p, 9:16, sound on. The video prompt:
+3. Press the film button on the still to open AI Video with the still as the first frame. Settings: Seedance 2.5, 10 s, 720p, 9:16, sound on. The video prompt:
 
    ```text
    One continuous vertical shot with no cuts, like a real phone video filmed at night from inside a dancing crowd, a little shaky. Keep the animal's face, fur, markings, tail and size, and the old square, the string lights, the floodlights, the tents and the crowd, exactly as in the image.
@@ -231,7 +231,7 @@ Every version is one continuous handheld phone shot from inside the crowd, 10 se
 | 6-8 s | You lean in to the phone with a big smile, your face large and sharp. | It steps close to the phone with a happy face. |
 | 8-10 s | Back into the crowd, still dancing, while people film you. | It keeps dancing while the crowd films it. |
 
-The place is the same in all three: an old square of Rio at night, painted colonial houses, string lights across the street, white floodlights and a crowd of partygoers with their phones up. **Human** and **Duo** use Seedance 2.5 straight from your photos, so your face stays yours. **Pet** first makes a still of your pet at the party, then animates it with Kling 3.0 Pro (Standard) or Seedance 2.5 (Best). Every clip comes with an original smooth soul groove and the crowd sound made for your video. Every run is a new take, so results differ.
+The place is the same in all three: an old square of Rio at night, painted colonial houses, string lights across the street, white floodlights and a crowd of partygoers with their phones up. **Human** and **Duo** use Seedance 2.5 straight from your photos, so your face stays yours. **Pet** first makes a still of your pet at the party, then animates it with Seedance 2.5. Every clip comes with an original smooth soul groove and the crowd sound made for your video. Every run is a new take, so results differ.
 
 ## What is charme, and what is a baile charme?
 
@@ -252,7 +252,7 @@ This page shows that clip as the original AI reel, credited. Our template does n
 | The face looks a bit off in a head turn | Use a sharp photo with the face turned to the camera, in good light, and run it again. |
 | The two faces blend on Duo | Use two photos with one person each; keep photo 1 for the left dancer and photo 2 for the right. |
 | The dance looks stiff | Charme is a calm, smooth dance, so the steps are small on purpose. Run it again for a new take. |
-| Your pet drops onto four legs | Pick Best for the pet, or use a photo where the whole pet is in view. |
+| Your pet drops onto four legs | Run it again, or use a photo where the whole pet is in view. |
 | A logo or a club shirt shows up in the crowd | The prompt bans logos and club shirts. Run it again if one slips through. |
 | The video model refuses the photo | Some photos get refused. The credits come back; try another photo. |
 
@@ -296,7 +296,7 @@ No creator shared one: the CapCut template is closed and the AI clips name no pr
 
 ### Which AI models make the videos?
 
-Human and Duo use Seedance 2.5 straight from your photos, at 720p, so the faces stay close to the photos. Pet makes a still of your pet at the party with Nano Banana 2.1, then animates it with Kling 3.0 Pro (Standard) or Seedance 2.5 (Best). It can take a few minutes.
+Human and Duo use Seedance 2.5 straight from your photos, at 720p, so the faces stay close to the photos. Pet makes a still of your pet at the party with Nano Banana 2.1, then animates it with Seedance 2.5, also at 720p. It can take a few minutes.
 
 ### Como fazer o vídeo da dança charme com IA?
 
@@ -312,7 +312,7 @@ Both words show up. Many tutorials call it Brazilian funk dance AI, funk dance A
 
 ### How long is the video and what format is it?
 
-All versions make 10 seconds, vertical 9:16 MP4 with sound and no watermark. Human and Duo are 720p; Pet Standard is 1080p and Pet Best 720p.
+All versions make 10 seconds, vertical 9:16 MP4 with sound and no watermark. Human, Duo and Pet are all 720p.
 
 ## Other AI video templates and tools
 
@@ -326,12 +326,12 @@ All versions make 10 seconds, vertical 9:16 MP4 with sound and no watermark. Hum
 
 ## New AI video trends this week
 
-- [Tiger Fight AI: Beat the Tiger on CCTV](https://www.makeviral.ai/templates/cctv-tiger-fight-ai-trend): A security camera on a forest path. A tiger leaps out of the bushes, and you fight it and pin it to the ground. Add one photo of yourself or your pet, and the trend's phonk sound comes with it.
-- [The Office Parkour AI Trend: You Shout "Parkour!" in the Office](https://www.makeviral.ai/templates/the-office-parkour-ai-trend): Dive over the couch, land upside down and shout "Parkour!" into the camera, then jump off the reception counter while the crew leaps over the desks. The whole office parkour scene, 24 seconds, with its own shouts.
-- [Huell Money AI: The Breaking Bad Money Pile Scene, Starring You](https://www.makeviral.ai/templates/huell-money-ai-trend): A storage unit, a bed-size pile of cash, and you fall back onto it with your eyes closed while your friend tells you to quit it. Then they give in and lie down next to you. With the scene's own lines.
-- [Peaky Blinders Explosion Scene, Starring You](https://www.makeviral.ai/templates/peaky-blinders-explosion-ai-trend): A flat cap, a long black overcoat, a match at your lips. The red-brick manor blows up behind you and you walk slowly toward the camera through the smoke, never looking back. One photo, 15 seconds, with the clip's song.
-- [Mbappe Run vs Argentina AI: The Mbappe Sprint, Starring You](https://www.makeviral.ai/templates/mbappe-sprint-ai-trend): A sunny pitch, one long sprint with the ball, a defender in a striped shirt crashing into you, and you sitting on the grass complaining while the commentator shouts "It's a penalty!". In your own clothes. It is an AI video, not real match footage.
-- [Perfume Transition AI Trend: Spray, Flame, Gangster Look](https://www.makeviral.ai/templates/perfume-transition-ai-trend): Sniff the perfume, spray it at the camera, and a lighter turns the spray into a fireball. Add one photo, and you or your pet step out of the flame in a flat cap, dark sunglasses and a long magenta coat, with the trend's song.
+- [Kara Sevda AI Trend: Your AI Video with Celebrity Stars Kemal and Emir](https://www.makeviral.ai/templates/ai-video-with-celebrity): You film a night selfie, the camera swings to the Kemal look-alike in his navy suit, face to face with you, and the Emir look-alike walks in and rests his head on his shoulder, jealous. One photo is enough. It is an AI video with look-alikes, not a real meeting.
+- [Misanthropy Meme AI: You as the Horned Anime Side-Eye](https://www.makeviral.ai/templates/misanthropy-meme-ai-trend): Your photo becomes a hand-drawn anime character with small horns. It glances left and right on a gray screen, then the background floods red and it breaks into a slow, smug grin, twice, to the trend's laughing beat. One photo in, an 8-second vertical clip out.
+- [Ahh Almost Almost: Train Hard, Miss by an Inch, From One Photo](https://www.makeviral.ai/templates/almost-almost-ai-trend): "While they're out partying btw": you grind alone late at night. Then the big shot rolls around the rim and out, twice, as the sound groans "ahhh almost almost". One photo in, an 11-second clip with the trend's own sound out.
+- [If I Was ChatGPT Trend: Your Observe, Just Observe Mood Board](https://www.makeviral.ai/templates/if-i-was-chatgpt-trend): Add one photo. The AI looks at it, picks the city, season, flower, painting, animal and element that fit you, and puts them around your photo in one mood board with short labels.
+- [Davul Zurna Yapay Zeka: Dance and Sing in the Viral Warehouse Clip](https://www.makeviral.ai/templates/davul-zurna-ai-trend): You dance between a zurna player and a davul player in a big workshop, walk up to the camera, sing right into it and walk back with your arms up. One photo, three for the whole band, or your pet. 15 seconds, with the live davul and zurna.
+- [Come On Barbie Let's Go Party AI: Do the Barbie Girl Dance Trend From Two Photos](https://www.makeviral.ai/templates/barbie-girl-dance-ai-trend): You turn around, sway your hips, pump a fist on "ah ah ah yeah" and lean on each other, side by side, on the sped-up Barbie Girl beat. Add two photos and get a real couple's viral reel with your faces and the song.
 
 ## Make your own Charme Dance video
 

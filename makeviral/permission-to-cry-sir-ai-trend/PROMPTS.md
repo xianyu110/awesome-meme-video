@@ -67,7 +67,7 @@ Exactly one person. Real live-action footage, clear facial features, no distorti
 Use the uploaded image as the base. Keep the animal's species, breed, face, eye color, fur color, fur length, markings and body size exactly the same as in the photo. A real photo of the same pet sitting upright like a person in a dark bedroom streaming setup at night: a pink and purple LED strip glows on the wall behind, a large United States flag hangs flat on that wall, a black gaming chair behind the shoulders, soft cinematic light on the face. It wears a small plain black hoodie with no print, and a small black over-ear gaming headset with a boom microphone fitted around its ears. A small plain black bandana printed with a simple white skull jaw is tied loosely around its neck, below the chin, so the whole face shows. The pet looks straight into the camera with big, wet, sad eyes and a closed mouth. A medium close-up from the chest up, the camera at eye level. Photorealistic, natural fur detail, not a cartoon, not CGI, not a plush toy. Vertical 9:16. Exactly one animal, with real paws. No people, no human hands. No logo, no patch, no name, no text anywhere on the clothes, the headset or the mask. No helmet, no sunglasses, no goggles, no military uniform, no medals, no weapon. No text.
 ```
 
-### 4. 3. Press the film button on the still to open AI Video with the still as the first frame. Settings: Kling 3.0, 10 s, 1080p, 9:16, sound on. The video prompt
+### 4. 3. Press the film button on the still to open AI Video with the still as the first frame. Settings: Seedance 2.5, 10 s, 720p, 9:16, sound on. The video prompt
 
 *Kind: video_prompt*
 

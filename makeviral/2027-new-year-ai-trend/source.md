@@ -61,7 +61,7 @@ Everything runs in the browser. No editing app, no watermark.
 
 ### The by-hand way, with the exact prompts
 
-The one-tap flow runs these prompts for you. A photo prompt puts your photo into the scene (Nano Banana 2.1, image mode, 9:16, 1K), then a video prompt animates that still. To change them, copy them and edit them in AI Photo and AI Video.
+The one-tap flow runs these prompts for you. A photo prompt puts your photo into the scene (GPT Image 2.6, image mode, 9:16, 1K), then a video prompt animates that still. To change them, copy them and edit them in AI Photo and AI Video.
 
 #### Variant: Human
 
@@ -86,7 +86,7 @@ One-tap version of this variant: https://www.makeviral.ai/templates/2027-new-yea
 
 #### Variant: Pet
 
-Settings: 1 photo (your pet, whole body) · Kling 3.0 · 8 s · 1080p · 9:16 · with sound · 46 credits in one tap.
+Settings: 1 photo (your pet, whole body) · Seedance 2.5 · 8 s · 720p · 9:16 · with sound · 103 credits in one tap.
 
 1. Open [AI Photo with this template](https://www.makeviral.ai/photo?template=2027-new-year-ai-trend&variant=pet) and add your photo (your pet, whole body). The photo prompt is filled in:
 
@@ -95,7 +95,7 @@ Settings: 1 photo (your pet, whole body) · Kling 3.0 · 8 s · 1080p · 9:16 ·
    ```
 
 2. Check the still before you spend credits on the video. Everything the video model does starts from that one frame.
-3. Press the film button on the still to open AI Video with the still as the first frame. Settings: Kling 3.0, 8 s, 1080p, 9:16, sound on. The video prompt:
+3. Press the film button on the still to open AI Video with the still as the first frame. Settings: Seedance 2.5, 8 s, 720p, 9:16, sound on. The video prompt:
 
    ```text
    One continuous cinematic shot at golden-hour sunset on a mountain summit. Keep the animal's face, fur, markings and body exactly as in the image, in every frame, with the natural body volume of that animal: never flattened, stretched or merged with the stone. Keep the giant white marble digits exactly as they are: the same four digits 2, 0, 2, 7 in the same order and shape, solid stone that never bends, melts, changes or multiplies. The pet scrambles up onto the flat top of the front 2, stands on it proudly on four legs, looks around, then faces the camera with its head held high, fur moving in the wind. As it stands, the camera slowly rises and pulls back like a drone until the whole row of giant digits 2027 shows on the rocky peak with the pet on top, small against a sea of mountains and a glowing orange sky. Smooth, steady camera, real animal moves. Audio: strong mountain wind, one short happy sound of that animal, then a calm, uplifting cinematic music swell as the camera pulls back. No voice, no singing. Exactly one animal, no people. No extra legs, no morphing, no cuts, no text, no captions, no logos, no watermark.
@@ -229,6 +229,8 @@ Two steps, so the year reads right:
 
 The exact price shows on the Generate button before you spend anything, and you write no prompt. Best uses top-quality AI video models, including Seedance 2.5: pick it when Standard bends the digits or the climb looks stiff.
 
+The Pet version has one setting only, Best, so it shows no quality choice: 8 seconds, vertical 9:16, 720p.
+
 ## What goes wrong, and how do you fix it?
 
 | Problem | Fix |
@@ -283,7 +285,7 @@ The year is written into the first frame by an image model, so the digits 2, 0, 
 
 ### How long is the new year AI video, and does it have sound?
 
-8 seconds, vertical 9:16, as an MP4 file: 1080p with Standard, 720p with Best. The sound is made with the video: mountain wind and a short music swell, with no voice. You can add your own song when you post.
+8 seconds, vertical 9:16, as an MP4 file: 1080p with Standard, 720p with Best. The Pet version uses Best only, so it is always 720p. The sound is made with the video: mountain wind and a short music swell, with no voice. You can add your own song when you post.
 
 ### Is there a new year AI video generator or maker app for this?
 
@@ -299,7 +301,7 @@ Yes. The happy new year 2027 AI clips on TikTok with you on giant 2027 letters c
 
 ### Does the 2027 AI trend cost credits?
 
-Yes. Each video costs credits, and the create page shows the exact price on the Generate button before you spend anything. Standard costs less than Best. If a video fails, the credits come back.
+Yes. Each video costs credits, and the create page shows the exact price on the Generate button before you spend anything. Standard costs less than Best. The Pet version has the Best setting only. If a video fails, the credits come back.
 
 ### Can I post it in Spanish, like bienvenido 2027 or adios 2026 bienvenido 2027?
 
@@ -315,12 +317,12 @@ Yes. The clip has no words in it, only the digits 2027, so it works in any langu
 
 ## New AI video trends this week
 
-- [Tiger Fight AI: Beat the Tiger on CCTV](https://www.makeviral.ai/templates/cctv-tiger-fight-ai-trend): A security camera on a forest path. A tiger leaps out of the bushes, and you fight it and pin it to the ground. Add one photo of yourself or your pet, and the trend's phonk sound comes with it.
-- [The Office Parkour AI Trend: You Shout "Parkour!" in the Office](https://www.makeviral.ai/templates/the-office-parkour-ai-trend): Dive over the couch, land upside down and shout "Parkour!" into the camera, then jump off the reception counter while the crew leaps over the desks. The whole office parkour scene, 24 seconds, with its own shouts.
-- [Huell Money AI: The Breaking Bad Money Pile Scene, Starring You](https://www.makeviral.ai/templates/huell-money-ai-trend): A storage unit, a bed-size pile of cash, and you fall back onto it with your eyes closed while your friend tells you to quit it. Then they give in and lie down next to you. With the scene's own lines.
-- [Peaky Blinders Explosion Scene, Starring You](https://www.makeviral.ai/templates/peaky-blinders-explosion-ai-trend): A flat cap, a long black overcoat, a match at your lips. The red-brick manor blows up behind you and you walk slowly toward the camera through the smoke, never looking back. One photo, 15 seconds, with the clip's song.
-- [Mbappe Run vs Argentina AI: The Mbappe Sprint, Starring You](https://www.makeviral.ai/templates/mbappe-sprint-ai-trend): A sunny pitch, one long sprint with the ball, a defender in a striped shirt crashing into you, and you sitting on the grass complaining while the commentator shouts "It's a penalty!". In your own clothes. It is an AI video, not real match footage.
-- [Perfume Transition AI Trend: Spray, Flame, Gangster Look](https://www.makeviral.ai/templates/perfume-transition-ai-trend): Sniff the perfume, spray it at the camera, and a lighter turns the spray into a fireball. Add one photo, and you or your pet step out of the flame in a flat cap, dark sunglasses and a long magenta coat, with the trend's song.
+- [Kara Sevda AI Trend: Your AI Video with Celebrity Stars Kemal and Emir](https://www.makeviral.ai/templates/ai-video-with-celebrity): You film a night selfie, the camera swings to the Kemal look-alike in his navy suit, face to face with you, and the Emir look-alike walks in and rests his head on his shoulder, jealous. One photo is enough. It is an AI video with look-alikes, not a real meeting.
+- [Misanthropy Meme AI: You as the Horned Anime Side-Eye](https://www.makeviral.ai/templates/misanthropy-meme-ai-trend): Your photo becomes a hand-drawn anime character with small horns. It glances left and right on a gray screen, then the background floods red and it breaks into a slow, smug grin, twice, to the trend's laughing beat. One photo in, an 8-second vertical clip out.
+- [Ahh Almost Almost: Train Hard, Miss by an Inch, From One Photo](https://www.makeviral.ai/templates/almost-almost-ai-trend): "While they're out partying btw": you grind alone late at night. Then the big shot rolls around the rim and out, twice, as the sound groans "ahhh almost almost". One photo in, an 11-second clip with the trend's own sound out.
+- [If I Was ChatGPT Trend: Your Observe, Just Observe Mood Board](https://www.makeviral.ai/templates/if-i-was-chatgpt-trend): Add one photo. The AI looks at it, picks the city, season, flower, painting, animal and element that fit you, and puts them around your photo in one mood board with short labels.
+- [Davul Zurna Yapay Zeka: Dance and Sing in the Viral Warehouse Clip](https://www.makeviral.ai/templates/davul-zurna-ai-trend): You dance between a zurna player and a davul player in a big workshop, walk up to the camera, sing right into it and walk back with your arms up. One photo, three for the whole band, or your pet. 15 seconds, with the live davul and zurna.
+- [Come On Barbie Let's Go Party AI: Do the Barbie Girl Dance Trend From Two Photos](https://www.makeviral.ai/templates/barbie-girl-dance-ai-trend): You turn around, sway your hips, pump a fist on "ah ah ah yeah" and lean on each other, side by side, on the sped-up Barbie Girl beat. Add two photos and get a real couple's viral reel with your faces and the song.
 
 ## Make your own Hello 2027 video
 

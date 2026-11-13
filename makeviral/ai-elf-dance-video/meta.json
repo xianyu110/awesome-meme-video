@@ -36,7 +36,7 @@
       "text": "Use the uploaded image as the base. 9:16 vertical photo, like a real phone photo at home on Christmas Eve, taken at the height of the pet. The pet from the uploaded image stands on the floor of a cozy living room. A warm living room with a lit Christmas tree, string lights and wrapped presents. The tree stands behind the pet, a little to one side, its lights soft and warm. The pet wears a tall pointed elf hat, green with a red band, with a small gold bell on the tip, and a little red-and-green elf collar with gold buttons around its neck. It faces the camera with a happy face. Its whole body is in view, from the ears to the paws, with its tail. Soft warm light, natural fur detail, a little phone-camera softness. Photorealistic, not a cartoon, not CGI. Exactly one animal and no people. No other clothes. No text, no logos, no watermark."
     },
     {
-      "label": "3. Press the film button on the still to open AI Video with the still as the first frame. Settings: Kling 3.0, 10 s, 1080p, 9:16, sound on. The video prompt",
+      "label": "3. Press the film button on the still to open AI Video with the still as the first frame. Settings: Seedance 2.5, 10 s, 720p, 9:16, sound on. The video prompt",
       "variant": null,
       "kind": "video_prompt",
       "text": "One continuous vertical shot with no cuts, like a real phone video at home on Christmas Eve, the camera at the pet's height. Keep the animal's face, fur, markings, tail and size, its elf hat with the bell and its elf collar, and the room, the lit tree and the presents exactly as in the image.\n0-3 s: the pet hops from side to side on the beat, its ears and the bell on the hat bouncing.\n3-6 s: it spins in a happy circle, then does a little bounce with its front paws off the floor.\n6-8 s: it wiggles and wags its tail, the bell jingling.\n8-10 s: it trots up to the camera and tilts its head, looking straight into the lens.\nJingling sleigh bells and a bouncy festive beat in the audio, no vocals, no lyrics, no talking. The pet never speaks. Exactly one animal, on its own four legs, with real furry paws, never human hands, never standing like a person. No extra animals, no extra legs, no morphing. No people. No text, no logos, no watermark."
@@ -56,5 +56,5 @@
     "Make your own AI Elf Dance video"
   ],
   "prompt_count": 4,
-  "scraped_at": "2026-11-12"
+  "scraped_at": "2026-11-13"
 }

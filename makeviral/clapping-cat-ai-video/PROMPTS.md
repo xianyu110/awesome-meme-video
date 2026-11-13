@@ -23,7 +23,7 @@ The clapping cat meme, also called black cat clapping, is an AI clip from Septem
 Use the uploaded image as the base. Keep the animal's species, breed, face, eye color, fur color, fur length, markings and body size exactly the same as in the photo. A real phone photo of the same pet at home, taken by its owner standing over it and looking down at it. Keep the same real room from the photo, with the same colors and light, and show the floor around the pet. The pet sits upright on its hind legs in the middle of the floor, like a pet begging for a treat, and looks straight up into the camera with a calm face and a closed mouth. Instead of front paws it has two small human hands: real human hands with five fingers and short nails, about the size of a child's hands, with skin the same color as the fur around them. It holds them together in front of its chest, palms touching, as if it is about to clap. The whole pet is in frame from ears to hind feet, with floor all around it. Soft indoor daylight, natural fur detail, a little phone-camera softness. Photorealistic, not a cartoon, not CGI. Vertical 9:16. Exactly one animal and exactly two hands. No extra paws, no people, no clothes, no camera app interface, no text, no logos.
 ```
 
-### 2. 3. Press the film button on the still to open AI Video with the still as the first frame. Settings: Kling 3.0, 6 s, 1080p, 9:16, sound on. The video prompt
+### 2. 3. Press the film button on the still to open AI Video with the still as the first frame. Settings: Seedance 2.5, 6 s, 720p, 9:16, sound on. The video prompt
 
 *Kind: video_prompt*
 

@@ -84,7 +84,7 @@ One-tap version of this variant: https://www.makeviral.ai/templates/convertible-
 
 #### Variant: Pet
 
-Settings: 1 photo (your pet, whole body) · Kling 3.0 · 10 s · 1080p · 9:16 · with sound · 56 credits in one tap.
+Settings: 1 photo (your pet, whole body) · Seedance 2.5 · 10 s · 720p · 9:16 · with sound · 128 credits in one tap.
 
 1. Open [AI Photo with this template](https://www.makeviral.ai/photo?template=convertible-coffee-drive-ai-trend&variant=pet) and add your photo (your pet, whole body). The photo prompt is filled in:
 
@@ -93,7 +93,7 @@ Settings: 1 photo (your pet, whole body) · Kling 3.0 · 10 s · 1080p · 9:16 �
    ```
 
 2. Check the still before you spend credits on the video. Everything the video model does starts from that one frame.
-3. Press the film button on the still to open AI Video with the still as the first frame. Settings: Kling 3.0, 10 s, 1080p, 9:16, sound on. The video prompt:
+3. Press the film button on the still to open AI Video with the still as the first frame. Settings: Seedance 2.5, 10 s, 720p, 9:16, sound on. The video prompt:
 
    ```text
    Keep the pet, the car and the city exactly as in the image. A real phone video, vertical 9:16, one continuous take from the fixed low passenger-side camera, while the convertible rolls slowly forward and the glass towers glide past outside; the pet's fur and ears move a little in the wind. 0-3 s: the pet sits at the wheel, front paws on it, and looks ahead at the road. 3-6 s: it leans down to the takeaway cup in the console, sniffs the lid and gives it one quick lick. 6-10 s: it turns its head to the camera with a proud, happy face, then looks ahead again, paws back on the wheel. Sound: a relaxed, upbeat instrumental beat, soft wind and light city traffic. No people, no talking. The pet keeps its own face, fur and body size in every frame, one head, no morphing. The cup stays in the holder, no floating props. No car brand logo or badge, no logo or text on the cup, no text, no watermark.
@@ -137,7 +137,7 @@ The scene stays the trend's: red leather seats, the open top, the dark frame of 
 ## Human or Pet: which version should you pick?
 
 - **Human** is the trend as the template sites sell it: an AI driving video in which you are the driver. It is made straight from your photo, with no in-between picture, so your face, glasses, hair and clothes stay yours. Vertical, 10 seconds, 720p.
-- **Pet** puts your dog or cat at the wheel. It makes a picture of your pet in the driver's seat first, then a 10-second video of the drive. Standard is the cheaper option; Best uses a stronger video model and costs more.
+- **Pet** puts your dog or cat at the wheel. It makes a picture of your pet in the driver's seat first, then a video of the drive. Vertical, 10 seconds, 720p, with one quality setting.
 
 Both use top-quality AI video models. The create page shows the exact price on the Generate button before you spend anything.
 
@@ -201,7 +201,7 @@ MakeViral works in the browser on your phone or computer, so you need no app for
 
 ### Does it cost credits?
 
-Yes. The create page shows the exact price on the Generate button before you spend anything. The Human version and Pet Best cost more than Pet Standard. If a run fails, the credits come back.
+Yes. The create page shows the exact price on the Generate button before you spend anything. If a run fails, the credits come back.
 
 ### Is my photo private?
 
@@ -217,12 +217,12 @@ Yes. MakeViral does not post your photo or the result anywhere or show them to o
 
 ## New AI video trends this week
 
-- [Tiger Fight AI: Beat the Tiger on CCTV](https://www.makeviral.ai/templates/cctv-tiger-fight-ai-trend): A security camera on a forest path. A tiger leaps out of the bushes, and you fight it and pin it to the ground. Add one photo of yourself or your pet, and the trend's phonk sound comes with it.
-- [The Office Parkour AI Trend: You Shout "Parkour!" in the Office](https://www.makeviral.ai/templates/the-office-parkour-ai-trend): Dive over the couch, land upside down and shout "Parkour!" into the camera, then jump off the reception counter while the crew leaps over the desks. The whole office parkour scene, 24 seconds, with its own shouts.
-- [Huell Money AI: The Breaking Bad Money Pile Scene, Starring You](https://www.makeviral.ai/templates/huell-money-ai-trend): A storage unit, a bed-size pile of cash, and you fall back onto it with your eyes closed while your friend tells you to quit it. Then they give in and lie down next to you. With the scene's own lines.
-- [Peaky Blinders Explosion Scene, Starring You](https://www.makeviral.ai/templates/peaky-blinders-explosion-ai-trend): A flat cap, a long black overcoat, a match at your lips. The red-brick manor blows up behind you and you walk slowly toward the camera through the smoke, never looking back. One photo, 15 seconds, with the clip's song.
-- [Mbappe Run vs Argentina AI: The Mbappe Sprint, Starring You](https://www.makeviral.ai/templates/mbappe-sprint-ai-trend): A sunny pitch, one long sprint with the ball, a defender in a striped shirt crashing into you, and you sitting on the grass complaining while the commentator shouts "It's a penalty!". In your own clothes. It is an AI video, not real match footage.
-- [Perfume Transition AI Trend: Spray, Flame, Gangster Look](https://www.makeviral.ai/templates/perfume-transition-ai-trend): Sniff the perfume, spray it at the camera, and a lighter turns the spray into a fireball. Add one photo, and you or your pet step out of the flame in a flat cap, dark sunglasses and a long magenta coat, with the trend's song.
+- [Kara Sevda AI Trend: Your AI Video with Celebrity Stars Kemal and Emir](https://www.makeviral.ai/templates/ai-video-with-celebrity): You film a night selfie, the camera swings to the Kemal look-alike in his navy suit, face to face with you, and the Emir look-alike walks in and rests his head on his shoulder, jealous. One photo is enough. It is an AI video with look-alikes, not a real meeting.
+- [Misanthropy Meme AI: You as the Horned Anime Side-Eye](https://www.makeviral.ai/templates/misanthropy-meme-ai-trend): Your photo becomes a hand-drawn anime character with small horns. It glances left and right on a gray screen, then the background floods red and it breaks into a slow, smug grin, twice, to the trend's laughing beat. One photo in, an 8-second vertical clip out.
+- [Ahh Almost Almost: Train Hard, Miss by an Inch, From One Photo](https://www.makeviral.ai/templates/almost-almost-ai-trend): "While they're out partying btw": you grind alone late at night. Then the big shot rolls around the rim and out, twice, as the sound groans "ahhh almost almost". One photo in, an 11-second clip with the trend's own sound out.
+- [If I Was ChatGPT Trend: Your Observe, Just Observe Mood Board](https://www.makeviral.ai/templates/if-i-was-chatgpt-trend): Add one photo. The AI looks at it, picks the city, season, flower, painting, animal and element that fit you, and puts them around your photo in one mood board with short labels.
+- [Davul Zurna Yapay Zeka: Dance and Sing in the Viral Warehouse Clip](https://www.makeviral.ai/templates/davul-zurna-ai-trend): You dance between a zurna player and a davul player in a big workshop, walk up to the camera, sing right into it and walk back with your arms up. One photo, three for the whole band, or your pet. 15 seconds, with the live davul and zurna.
+- [Come On Barbie Let's Go Party AI: Do the Barbie Girl Dance Trend From Two Photos](https://www.makeviral.ai/templates/barbie-girl-dance-ai-trend): You turn around, sway your hips, pump a fist on "ah ah ah yeah" and lean on each other, side by side, on the sped-up Barbie Girl beat. Add two photos and get a real couple's viral reel with your faces and the song.
 
 ## Make your own Convertible Coffee Drive video
 

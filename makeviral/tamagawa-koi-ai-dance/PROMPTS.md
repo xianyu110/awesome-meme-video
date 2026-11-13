@@ -69,7 +69,7 @@ Audio: an original upbeat retro J-pop idol-pop beat at a gentle, swaying mid tem
 Use the uploaded image as the base. 9:16 vertical photo, like a real phone photo taken on a wide riverbank in Japan at golden hour, at the height of the pet. The pet from the uploaded image sits upright on its haunches on a wide bank of smooth grey river stones, with a broad shallow river shining in the low sun behind it, tall green and golden grass, a pale concrete embankment path, low green hills and a long low bridge far away in a soft haze. The pet faces the camera with a sweet, happy face, both front paws held up together in front of its chest like a little heart. Its whole body is in view, from the ears to the hind paws, with its tail. Realistic photo with warm golden light, a soft lens flare and a gentle, shallow depth of field. Exactly one animal. No clothes on the pet. No people. No text, no logos, no signs, no watermark.
 ```
 
-### 4. 3. Press the film button on the still to open AI Video with the still as the first frame. Settings: Kling 3.0, 10 s, 1080p, 9:16, sound on. The video prompt
+### 4. 3. Press the film button on the still to open AI Video with the still as the first frame. Settings: Seedance 2.5, 10 s, 720p, 9:16, sound on. The video prompt
 
 *Kind: video_prompt*
 

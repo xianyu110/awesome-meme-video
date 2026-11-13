@@ -14,7 +14,7 @@ Your cat, dog or child holds a long sword in close-up. Then the camera pulls bac
 
 Also called: Gym bro knight, Muscular Character AI Video, Tiny knight and giant, Giant knight and kitten.
 
-**Make it now:** [Make this video](https://www.makeviral.ai/templates/knight-standing-ai-video/create). 2 photos · 10 s · 9:16 with sound · 32 credits, charged once · ready in a few minutes · no prompt to write.
+**Make it now:** [Make this video](https://www.makeviral.ai/templates/knight-standing-ai-video/create). 2 photos · 10 s · 9:16 with sound · 152 credits, charged once · ready in up to several minutes · no prompt to write.
 
 Keyword: remember your gym bro. Also answers: remember your gym bro meme, remember your gym bro ai video, giant knight vs small knight meme, tiny knight meme, knight and kitten, gym bro cat, gymbro cat, gym bro cat meme, giant knight meme, giant knight with sword meme, tiny knight vs giant, knight cat gym bro, gym bro and kitten knight, tiny knight giant knight, giant cat knight, knight protecting kitten, knight and kitten meme, me and him knight, cat with giant sword, big and small knight video, knight standing ai video.
 
@@ -37,11 +37,11 @@ That clip started the tiny knight and giant format. Creator Kevin Winnik's Higgs
 
 Made from the prompts on this page. The people and pets are AI-made, not real persons, and the sound is original. Your result will differ from run to run.
 
-- **Example 1** (10 s, 9:16 MP4 with sound): Gym bro (Standard): an AI-made ginger kitten holds a long sword in close-up, then the camera pulls back to an AI-made man standing beside it.
+- **Example 1** (10 s, 9:16 MP4 with sound): Gym bro (made with an earlier model): an AI-made ginger kitten holds a long sword in close-up, then the camera pulls back to an AI-made man standing beside it.
   - Video: https://www.makeviral.ai/media/templates/knight-standing-ai-video/example.mp4
   - Poster: https://www.makeviral.ai/media/templates/knight-standing-ai-video/example-poster.jpg
   - Input photo: https://www.makeviral.ai/media/templates/knight-standing-ai-video/example-input.jpg
-- **Example 2** (15 s, 9:16 MP4 with sound): Giant knight (made with the earlier Standard model): an AI-made toddler girl is the tiny knight, and her AI-made dad is the giant behind her.
+- **Example 2** (15 s, 9:16 MP4 with sound): Giant knight (made with an earlier model): an AI-made toddler girl is the tiny knight, and her AI-made dad is the giant behind her.
   - Video: https://www.makeviral.ai/media/templates/knight-standing-ai-video/example-giant.mp4
   - Poster: https://www.makeviral.ai/media/templates/knight-standing-ai-video/example-giant-poster.jpg
   - Input photo: https://www.makeviral.ai/media/templates/knight-standing-ai-video/example-giant-input.jpg
@@ -53,8 +53,8 @@ Everything runs in the browser. No editing app, no watermark.
 ### The one-tap way (no prompt to write)
 
 1. **Add the two photos.** Press "Make yours" and add tiny knight, then big one. Add them in this order, because the order decides who is who in the scene. Take them with the camera or pick them from your library. Start here: https://www.makeviral.ai/templates/knight-standing-ai-video/create
-2. **Press Generate.** The button shows the price. Seedance 2.0 Mini puts your photos into the Knight standing trend clip and copies it shot by shot for 10 seconds with original sound. You write no prompt.
-3. **Download or share.** The video is ready in a few minutes as a 9:16 MP4. Download it, share it from your phone, or find it later in My videos.
+2. **Press Generate.** The button shows the price. Seedance 2.5 puts your photos into the Knight standing trend clip and copies it shot by shot for 10 seconds, with the reel's original song. You write no prompt.
+3. **Download or share.** The video is ready in up to several minutes as a 9:16 MP4. Download it, share it from your phone, or find it later in My videos.
 
 ### The by-hand way, with the exact prompts
 
@@ -62,12 +62,23 @@ The one-tap flow runs this prompt for you. The video prompt animates your own ph
 
 #### Variant: Gym bro
 
-Settings: 2 photos (tiny knight + big one) · Seedance 2.0 Mini · 10 s · 720p · 9:16 · with sound · 32 credits in one tap.
+Settings: 2 photos (tiny knight + big one) · Seedance 2.5 · 10 s · 720p · 9:16 · no sound · 152 credits in one tap.
 
-1. The video prompt is filled in. Settings: Seedance 2.0 Mini, 10 s, 720p, 9:16, sound on. The video prompt:
+1. The video prompt is filled in. Settings: Seedance 2.5, 10 s, 720p, 9:16, sound off. The video prompt:
 
    ```text
-   [Video 1] is a motion guide only. Copy its camera moves, timing and actions, the foggy green field and the soft grey lightWhen the camera pulls back, the huge figure who stands next to the tiny knight and holds a giant sword upright in front of the chest is the one in [Image 2]: very tall and very muscular, in a tight grey t-shirt and black trousers, staring calmly ahead. Keep the face, hair and skin tone from [Image 2] in every shot, with no mask and no helmet: the face stays visible. Photorealistic, like a real film. One continuous shot. Sound: strong wind and an original epic orchestral score, no lyrics, no dialogue. No text, no subtitles, no logos, no extra people or animals.
+   Recreate the reference video [Video 1] shot for shot: the same foggy green field in the wind, the same soft grey light, the same wide frame, the same big close-up at the start, the same slow pull-back of the camera to the wide shot, the same timing. The ONLY change: [Image 1] replaces the kitten knight with the pink bow, and [Image 2] replaces the man in the black balaclava. Both change: no one from the video stays, also in the wide shot.
+
+The tiny knight = the one in [Image 1], in EVERY shot. If [Image 1] shows an animal: the same species and breed, face, eyes, ears, muzzle, fur colors, fur length and markings as in [Image 1], with the natural body volume and proportions of that animal: never flattened, squashed or stretched. If [Image 1] shows a person: the exact face from [Image 1] (the face shape, eye color and eye shape, eyebrows, nose, mouth, skin tone, age, hair color, hair length and hairstyle, and any beard, moustache, glasses or freckles), tiny next to the big one. The tiny knight wears small silver plate armor and a short cream cape and holds the long sword upright in front of the chest, as in [Video 1]. NO pink bow and no hair clip. Never drift back to the kitten of [Video 1]: no kitten face, no cat ears and no fur unless [Image 1] shows a cat.
+
+The big one = the person in [Image 2], in EVERY shot: copy the exact face from [Image 2] (the face shape, eye color and eye shape, eyebrows, nose, mouth, skin tone, age, hair color, hair length and hairstyle, and any beard, moustache, glasses or freckles), so their friends recognize them at once. NO balaclava, NO mask and NO helmet: the whole face is visible, with the hair of [Image 2], and the hair never falls over the face. Very tall and very muscular, in a plain tight grey t-shirt with no print and black trousers, holding a giant sword upright in front of the chest and staring calmly ahead. If [Image 2] shows an animal, the big one is that animal, huge and standing upright, with its own face, fur and markings. Never morph, never drift back to the masked man of [Video 1].
+
+Shots, matching [Video 1]:
+0-3 s: big close-up of the tiny knight with the sword, the face clearly the one from [Image 1].
+3-5 s: the camera pulls back, and the big one's legs in black trousers step in beside the tiny knight.
+5-10 s: wide shot: the big one stands next to the tiny knight with the giant sword upright, the face from [Image 2] in full view.
+
+Anatomy rules: one head each, on its own body. Two different people: never blend the faces. Exactly two figures, no extra people or animals. No text, no logos, no watermark.
    ```
 
 2. Press Generate, then download the 9:16 MP4.
@@ -116,7 +127,7 @@ You pay per video in credits, and the create page shows the exact price on the G
 
 | Video model | Settings | Credits |
 | --- | --- | --- |
-| Seedance 2.0 Mini (this template) | 10 s, 720p, copies the trend clip, one tap | 32 |
+| Seedance 2.5 (this template) | 10 s, 720p, copies the trend clip, one tap | 152 |
 
 Credits come with a plan; see [pricing](https://www.makeviral.ai/pricing). A failed video gives its credits back.
 
@@ -132,17 +143,9 @@ Each reference is a viral reel, and your two photos replace its two characters. 
 
 **Gym bro or Giant knight?** Gym bro is the meme: short, funny and made for a caption. Giant knight is the epic one: longer and slower, with a battlefield behind, and it suits a parent and child or a pet and its owner. Press "Create your own" and choose one, or press the button under its example on this page.
 
-**Giant knight** has one quality: Seedance 2.5 puts both of you into the reel itself, 15 s, 720p, vertical like the reel, with the reel's original sound, which you can turn off. The giant shows the face from photo 2, with no helmet. It can take up to several minutes.
+**Both versions** use Seedance 2.5: it puts both of you into the reel itself, with the reel's original sound, which you can turn off. The big one shows the face from photo 2, with no mask and no helmet. **Gym bro** copies its reel shot by shot: 10 s, 720p, in the reel's own 4:3 frame. It can take 5 to 15 minutes. **Giant knight** makes 15 s, 720p, vertical like the reel. It can take up to several minutes.
 
-**Gym bro** has two. Standard is the default and costs fewer credits. Best costs more. An info button next to each option explains it.
-
-| Gym bro | Standard (default) | Best |
-|---|---|---|
-| How it works | Seedance 2.0 Mini follows the reel: 10 s, 720p, vertical 9:16, with strong wind and an original epic orchestral score. | Seedance 2.5 copies the reel itself, shot by shot, and your photos replace its two characters, with both faces locked to your photos and no mask on the big one. 10 s, 720p, in the reel's own 4:3 frame, with the reel's sound. It can take 5 to 15 minutes. |
-
-Pick Best when you want the exact moves of the reel and the closest faces. Pick Standard when you want a vertical clip with sound that is ready to post as it is. Neither version has dialogue or lyrics.
-
-We tested both references on 8 October 2026 with AI-made photos, and Giant knight again on 13 October with Seedance 2.5. Faces and pets carried over well. Most Gym bro Standard runs look great, but sometimes a face looks less like the photo, or the look of the original reel comes through. If that happens, run it again or pick Best. Results differ from run to run.
+We tested both references on 8 October 2026 with AI-made photos, and Giant knight again on 13 October with Seedance 2.5. Faces and pets carried over well. Sometimes a face looks less like the photo, or the look of the original reel comes through. If that happens, run it again. Results differ from run to run.
 
 ## Who should be the tiny knight, and who the giant?
 
@@ -160,7 +163,7 @@ Want the big one to do more than stand there? In the [knight sword swap AI video
 
 ## Which sound, caption and hashtags should you post it with?
 
-A Gym bro clip on Standard comes with its own sound: strong wind and an original epic orchestral score, with no lyrics and no dialogue. The reference clips carry no sound, so nothing in that audio comes from the reels, and the file is ready to post as it is. A Gym bro clip on Best and every Giant knight clip come with the reel's own original sound instead. You can turn it off on the result screen and add a sound when you post.
+Every clip comes with the reel's own original sound. You can turn it off on the result screen and add a sound when you post.
 
 The original "Remember your gym bro." reel uses its own original audio, not a named song. The giant cat knight reel by @aestheticai_creator lists a sound by LONOWN and riserayss on Instagram, and the most reused named sound in the knight cat clips we sampled on TikTok is "worry (ultra slowed)" by the same two artists. If you want a trending sound, add it in TikTok, Instagram or YouTube when you post, from their licensed library, and turn the original audio down rather than off.
 
@@ -190,7 +193,7 @@ It is the name that creator Kevin Winnik's Higgsfield tutorial of 6 October 2026
 
 ### How do I make the gym bro knight video with my own photos?
 
-Press "Create your own" and choose Gym bro or Giant knight (Gym bro also has Standard or Best). Add photo 1, the tiny knight, then photo 2, the big one, and press Generate. The button shows the price first. Gym bro makes 10 seconds, Giant knight 15 seconds, both vertical with sound. You write no prompt, and the video waits in My videos when it is ready.
+Press "Create your own" and choose Gym bro or Giant knight. Add photo 1, the tiny knight, then photo 2, the big one, and press Generate. The button shows the price first. Gym bro makes 10 seconds in the reel's own 4:3 frame, Giant knight 15 seconds vertical, both with the reel's sound. You write no prompt, and the video waits in My videos when it is ready.
 
 ### Can I use my cat or dog as the tiny knight?
 
@@ -206,11 +209,11 @@ Yes, if it is your own child, or the parent or guardian asked you to. Put your c
 
 ### Which song is used in the gym bro knight video?
 
-The original "Remember your gym bro." reel uses its own original audio, not a named song. The giant cat knight reel lists a sound by LONOWN and riserayss on Instagram. A Gym bro video on Standard comes with its own original sound: strong wind and an epic orchestral score with no lyrics. A Gym bro video on Best and a Giant knight video come with the reel's original sound, and you can turn it off on the result screen. To use another trending sound, add it in TikTok or Instagram when you post.
+The original "Remember your gym bro." reel uses its own original audio, not a named song. The giant cat knight reel lists a sound by LONOWN and riserayss on Instagram. Gym bro and Giant knight videos come with the reel's original sound, and you can turn it off on the result screen. To use another trending sound, add it in TikTok or Instagram when you post.
 
-### What is the difference between Standard and Best?
+### Which AI model makes the video?
 
-Only Gym bro has both. Standard is the default and costs fewer credits: Seedance 2.0 Mini follows the reel and makes a vertical 9:16 video at 720p with original sound. Best costs more and uses Seedance 2.5, which takes the reel itself and puts your photos in place of its two characters, at 720p in the reel's own 4:3 frame, with the reel's original sound; it can take 5 to 15 minutes. Giant knight has one quality: Seedance 2.5 puts both of you into the reel itself at 720p, vertical like the reel, with the reel's sound; it can take up to several minutes.
+Both versions use Seedance 2.5, which takes the reel itself and puts your photos in place of its two characters, at 720p with the reel's original sound. Gym bro keeps the reel's own 4:3 frame and can take 5 to 15 minutes. Giant knight is vertical like its reel and can take up to several minutes.
 
 ### What is the difference between Gym bro and Giant knight?
 
@@ -218,7 +221,7 @@ Gym bro follows the reel of 28 September: 10 seconds on a foggy green field, wit
 
 ### Why does my video look different from the reel?
 
-Your video starts from your photos, so faces, fur and sizes follow them. With Standard the tiny knight wears our own outfit, small silver armor and a short cream cape with no bow. In both versions the big one shows the face from your photo, while the man in the original reel wears a black mask. Every run is a new take, so results differ. If a face drifts, run it again or pick Best.
+Your video starts from your photos, so faces, fur and sizes follow them. In Gym bro the tiny knight wears small silver armor and a short cream cape, with no bow. In both versions the big one shows the face from your photo, while the man in the original reel wears a black mask. Every run is a new take, so results differ. If a face drifts, run it again.
 
 ## Other AI video templates and tools
 
@@ -232,15 +235,15 @@ Your video starts from your photos, so faces, fur and sizes follow them. With St
 
 ## New AI video trends this week
 
-- [Tiger Fight AI: Beat the Tiger on CCTV](https://www.makeviral.ai/templates/cctv-tiger-fight-ai-trend): A security camera on a forest path. A tiger leaps out of the bushes, and you fight it and pin it to the ground. Add one photo of yourself or your pet, and the trend's phonk sound comes with it.
-- [The Office Parkour AI Trend: You Shout "Parkour!" in the Office](https://www.makeviral.ai/templates/the-office-parkour-ai-trend): Dive over the couch, land upside down and shout "Parkour!" into the camera, then jump off the reception counter while the crew leaps over the desks. The whole office parkour scene, 24 seconds, with its own shouts.
-- [Huell Money AI: The Breaking Bad Money Pile Scene, Starring You](https://www.makeviral.ai/templates/huell-money-ai-trend): A storage unit, a bed-size pile of cash, and you fall back onto it with your eyes closed while your friend tells you to quit it. Then they give in and lie down next to you. With the scene's own lines.
-- [Peaky Blinders Explosion Scene, Starring You](https://www.makeviral.ai/templates/peaky-blinders-explosion-ai-trend): A flat cap, a long black overcoat, a match at your lips. The red-brick manor blows up behind you and you walk slowly toward the camera through the smoke, never looking back. One photo, 15 seconds, with the clip's song.
-- [Mbappe Run vs Argentina AI: The Mbappe Sprint, Starring You](https://www.makeviral.ai/templates/mbappe-sprint-ai-trend): A sunny pitch, one long sprint with the ball, a defender in a striped shirt crashing into you, and you sitting on the grass complaining while the commentator shouts "It's a penalty!". In your own clothes. It is an AI video, not real match footage.
-- [Perfume Transition AI Trend: Spray, Flame, Gangster Look](https://www.makeviral.ai/templates/perfume-transition-ai-trend): Sniff the perfume, spray it at the camera, and a lighter turns the spray into a fireball. Add one photo, and you or your pet step out of the flame in a flat cap, dark sunglasses and a long magenta coat, with the trend's song.
+- [Kara Sevda AI Trend: Your AI Video with Celebrity Stars Kemal and Emir](https://www.makeviral.ai/templates/ai-video-with-celebrity): You film a night selfie, the camera swings to the Kemal look-alike in his navy suit, face to face with you, and the Emir look-alike walks in and rests his head on his shoulder, jealous. One photo is enough. It is an AI video with look-alikes, not a real meeting.
+- [Misanthropy Meme AI: You as the Horned Anime Side-Eye](https://www.makeviral.ai/templates/misanthropy-meme-ai-trend): Your photo becomes a hand-drawn anime character with small horns. It glances left and right on a gray screen, then the background floods red and it breaks into a slow, smug grin, twice, to the trend's laughing beat. One photo in, an 8-second vertical clip out.
+- [Ahh Almost Almost: Train Hard, Miss by an Inch, From One Photo](https://www.makeviral.ai/templates/almost-almost-ai-trend): "While they're out partying btw": you grind alone late at night. Then the big shot rolls around the rim and out, twice, as the sound groans "ahhh almost almost". One photo in, an 11-second clip with the trend's own sound out.
+- [If I Was ChatGPT Trend: Your Observe, Just Observe Mood Board](https://www.makeviral.ai/templates/if-i-was-chatgpt-trend): Add one photo. The AI looks at it, picks the city, season, flower, painting, animal and element that fit you, and puts them around your photo in one mood board with short labels.
+- [Davul Zurna Yapay Zeka: Dance and Sing in the Viral Warehouse Clip](https://www.makeviral.ai/templates/davul-zurna-ai-trend): You dance between a zurna player and a davul player in a big workshop, walk up to the camera, sing right into it and walk back with your arms up. One photo, three for the whole band, or your pet. 15 seconds, with the live davul and zurna.
+- [Come On Barbie Let's Go Party AI: Do the Barbie Girl Dance Trend From Two Photos](https://www.makeviral.ai/templates/barbie-girl-dance-ai-trend): You turn around, sway your hips, pump a fist on "ah ah ah yeah" and lean on each other, side by side, on the sped-up Barbie Girl beat. Add two photos and get a real couple's viral reel with your faces and the song.
 
 ## Make your own Knight Standing video
 
-Add two photos and press Generate. No prompt to write. 32 credits, charged once.
+Add two photos and press Generate. No prompt to write. 152 credits, charged once.
 
 [Make this video](https://www.makeviral.ai/templates/knight-standing-ai-video/create)

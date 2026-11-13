@@ -42,7 +42,7 @@ Calm and dreamy, never scary: the fall is slow and peaceful, no screaming, no fe
 Use the uploaded image as the base. 9:16 vertical. High above the ground at a rose-tinted sunset, the pet from the uploaded image falls backward in a horizontal pose, its expression calm, its paws loose, its ears and fur lifted by the wind, far above a soft sea of pink and golden clouds. Shot at eye level with its full body in frame, the scene feels cinematic, with a softly blurred background and rich color grading, as if time has slowed. Exactly one animal and no people. No clothes, no collar tag, no harness, no parachute, no wings on the pet. No ground, no plane. No text, no logos, no watermark.
 ```
 
-### 3. 3. Press the film button on the still to open AI Video with the still as the first frame. Settings: Kling 3.0, 10 s, 1080p, 9:16, sound on. The video prompt
+### 3. 3. Press the film button on the still to open AI Video with the still as the first frame. Settings: Seedance 2.5, 10 s, 720p, 9:16, sound on. The video prompt
 
 *Kind: video_prompt*
 

@@ -14,7 +14,7 @@ Your cat or dog sits up, grows two small human hands, flashes a wide human grin 
 
 Also called: Clapping kitten meme, Peep the clapping cat.
 
-**Make it now:** [Make this video](https://www.makeviral.ai/templates/clapping-cat-ai-video/create). 1 photo · 6 s · 9:16 with sound · 35 credits, charged once · ready in a few minutes · no prompt to write.
+**Make it now:** [Make this video](https://www.makeviral.ai/templates/clapping-cat-ai-video/create). 1 photo · 6 s · 9:16 with sound · 78 credits, charged once · ready in a few minutes · no prompt to write.
 
 Keyword: clapping cat. Also answers: cat clapping, clapping cat gif, cat clapping meme, cat with human hands, clapping cat meme, creepy smiling cat, black cat clapping, ai clapping cat, cat with human hands meme, clapping cat meme gif, cat clapping hands meme, ai dog clapping, black cat clapping meme, ai cat clapping, cat clapping ai, dog clapping ai, clapping cat ai, ai clapping cat meme, clapping cat ai meme, cat clapping meme ai, clapping cat meme ai, black cat clapping ai, ai cat clapping video, ai black cat clapping gif, black cat clapping ai meme, cat clapping meme download, cat clap ai, ai cat clapping gif, clapping cat ai video, smiling cat clapping, clapping cat green screen, make my cat clap, clapping cat video, cat clapping video, clapping cat edit, clapping cat filter, clap cat app, black cat clap, black cat clapping meme download, black cat clapping meme gif, ai clapping cat gif, ai cat clapping meme, ai black cat clapping, claping cat, the clapping cat, ai black cat meme, cat clap, ai cat clap gif, black ai cat clapping, black cat clapping download, black cat clapping gif, black clapping cat meme, cat claping, cat clapping gif download, ai cat clapping meme gif, ar cat clapping, black cat clapping hands, black cat clapping wallpaper, black clapping cat gif, cat clapping meme gif, cat clapping meme original, cat clapping meme video download, clap cat, clapping cat photo, black dog clapping meme, cat clapping filter, clapping black cat, clapping cat meme download, the cat clapping, cat clapping ai gif, ai black cat clapping meme, ai dog clapping meme, black cat ai clapping gif, black car clapping, black cat clapping hands meme, black clapping cat, clapping cat know your meme, cat clapping video download, clapping cat video download, cat clapping ai video, clapping cay, black cat meme clap, ai clapping, cat clapping gif, clapin cat, clapping cat meme video, clapping cat wallpaper, clapping cat sound.
 
@@ -50,16 +50,16 @@ Everything runs in the browser. No editing app, no watermark.
 ### The one-tap way (no prompt to write)
 
 1. **Add your photo.** Press "Make yours" and add your pet, whole body. Take it with the camera or pick it from your library. Start here: https://www.makeviral.ai/templates/clapping-cat-ai-video/create
-2. **Press Generate.** The button shows the price. MakeViral builds the Clapping cat scene with your photos, then Kling 3.0 animates it for 6 seconds with original sound. You write no prompt.
+2. **Press Generate.** The button shows the price. MakeViral builds the Clapping cat scene with your photos, then Seedance 2.5 animates it for 6 seconds with original sound. You write no prompt.
 3. **Download or share.** The video is ready in a few minutes as a 9:16 MP4. Download it, share it from your phone, or find it later in My videos.
 
 ### The by-hand way, with the exact prompts
 
-The one-tap flow runs these prompts for you. A photo prompt puts your photo into the scene (Nano Banana 2.1, image mode, 9:16, 1K), then a video prompt animates that still. To change them, copy them and edit them in AI Photo and AI Video.
+The one-tap flow runs these prompts for you. A photo prompt puts your photo into the scene (GPT Image 2.6, image mode, 9:16, 1K), then a video prompt animates that still. To change them, copy them and edit them in AI Photo and AI Video.
 
 #### Variant: Pet
 
-Settings: 1 photo (your pet, whole body) · Kling 3.0 · 6 s · 1080p · 9:16 · with sound · 35 credits in one tap.
+Settings: 1 photo (your pet, whole body) · Seedance 2.5 · 6 s · 720p · 9:16 · with sound · 78 credits in one tap.
 
 1. Open [AI Photo with this template](https://www.makeviral.ai/photo?template=clapping-cat-ai-video&variant=pet) and add your photo (your pet, whole body). The photo prompt is filled in:
 
@@ -68,7 +68,7 @@ Settings: 1 photo (your pet, whole body) · Kling 3.0 · 6 s · 1080p · 9:16 ·
    ```
 
 2. Check the still before you spend credits on the video. Everything the video model does starts from that one frame.
-3. Press the film button on the still to open AI Video with the still as the first frame. Settings: Kling 3.0, 6 s, 1080p, 9:16, sound on. The video prompt:
+3. Press the film button on the still to open AI Video with the still as the first frame. Settings: Seedance 2.5, 6 s, 720p, 9:16, sound on. The video prompt:
 
    ```text
    A real, funny home video filmed on a phone in one continuous shot, from above, by the owner looking down at the pet. Keep the animal's face, fur, markings and its two small human hands exactly as in the image. For the first second the pet sits upright and looks up into the lens with a calm face. Then its mouth slowly stretches into a wide, creepy human grin that shows a full row of straight white human teeth, and its eyes narrow a little. Still grinning and staring into the lens, it claps its human hands slowly and firmly four times, with a short pause between the claps, like a sarcastic slow clap, then holds its hands together and keeps grinning. It stays upright in the same spot: only its face, arms and hands move. The camera stays almost still, with a slight handheld sway. Audio: four slow, loud, real hand claps in a quiet room, and nothing else: no music, no voice, no meow. Exactly one animal and exactly two hands with five fingers each. No extra paws, no extra limbs, no morphing, no cuts, no text, no logos.
@@ -116,7 +116,7 @@ You pay per video in credits, and the create page shows the exact price on the G
 
 | Video model | Settings | Credits |
 | --- | --- | --- |
-| Kling 3.0 (this template) | 6 s, 1080p + 1 scene photo, one tap | 35 |
+| Seedance 2.5 (this template) | 6 s, 720p + 1 scene photo, one tap | 78 |
 | Seedance 2.0 Fast (by hand in AI Video) | 6 s, 720p + 1 photo | 42 |
 | Veo 3.1 Fast (by hand in AI Video) | 8 s, 720p + 1 photo | 14 |
 
@@ -143,13 +143,14 @@ The template works in two steps, the same route the creator described in his tut
 1. **The still.** Nano Banana 2.1 takes your photo and sits your pet upright in your room, with two small human hands instead of front paws, held together at its chest. The fur, the face and the markings stay as in your photo.
 2. **The video.** A video model animates the still for 6 seconds: the grin, the slow claps and the clap sounds.
 
-| | Standard (default) | Best |
+| | Best | Standard |
 |---|---|---|
-| Video model | Kling 3.0 | Seedance 2.5 |
+| Versions | Pet (its only setting) and Human | Human only (the default there) |
+| Video model | Seedance 2.5 | Kling 3.0 |
 | Length | 6 s | 6 s |
-| Frame | Vertical 9:16, 1080p | Vertical 9:16, 720p |
+| Frame | Vertical 9:16, 720p | Vertical 9:16, 1080p |
 | Sound | Claps and room sound, no music | The same |
-| Price | Lower | Higher |
+| Price | Higher | Lower |
 
 The exact price shows on the Generate button before you spend anything, and the video waits in My videos when it is ready. You write no prompt.
 
@@ -162,10 +163,10 @@ The exact price shows on the Generate button before you spend anything, and the 
 | Problem | Fix |
 |---|---|
 | Your pet keeps its paws, or gets more than two hands | Run it again. A photo where the front legs are clear helps. You can also use "Edit the prompts yourself" to make the still first and animate the one you like. |
-| The grin is small or comes late | Run it again, or pick Best. |
+| The grin is small or comes late | Run it again. |
 | A hand blurs during a clap | Fast hand moves can blur in AI video. Run it again if it bothers you. |
 | Your pet looks less like its photo | Use a sharper photo in daylight, with the face turned to the camera. |
-| Your pet walks off, or the clip cuts to another shot | The prompt asks for one shot in one spot. Run it again or pick Best. |
+| Your pet walks off, or the clip cuts to another shot | The prompt asks for one shot in one spot. Run it again. |
 | The video model refuses the photo | Some photos get refused. The credits come back; try another photo. |
 
 Every run is a new take, so results differ. If one take is not creepy enough, run it again.
@@ -212,7 +213,7 @@ Yes. Pick Human and add one photo of yourself, waist up with both hands in view.
 
 ### How long is the clapping cat video, and does it have sound?
 
-6 seconds, vertical 9:16, as an MP4 file: 1080p with Standard, 720p with Best. It has its own sound, slow claps in a quiet room with no music, like the original reel.
+6 seconds, vertical 9:16, as an MP4 file: 720p for Pet, and for Human 1080p with Standard or 720p with Best. It has its own sound, slow claps in a quiet room with no music, like the original reel.
 
 ### Can I put the original black cat into my own video?
 
@@ -220,7 +221,7 @@ Not on MakeViral: this template makes your own pet clap. The creator shared a cl
 
 ### Does the clapping cat video cost credits?
 
-Yes. Each video costs credits, and the create page shows the exact price on the Generate button before you spend anything. Standard (Kling 3.0) costs less than Best (Seedance 2.5). If a video fails, the credits come back.
+Yes. Each video costs credits, and the create page shows the exact price on the Generate button before you spend anything. Pet has one setting. On Human, Standard (Kling 3.0) costs less than Best (Seedance 2.5). If a video fails, the credits come back.
 
 ### Why does my pet keep its paws, or look different from my photo?
 
@@ -254,15 +255,15 @@ You need no app. Add one photo of your cat or dog on this page, and the AI makes
 
 ## New AI video trends this week
 
-- [Tiger Fight AI: Beat the Tiger on CCTV](https://www.makeviral.ai/templates/cctv-tiger-fight-ai-trend): A security camera on a forest path. A tiger leaps out of the bushes, and you fight it and pin it to the ground. Add one photo of yourself or your pet, and the trend's phonk sound comes with it.
-- [The Office Parkour AI Trend: You Shout "Parkour!" in the Office](https://www.makeviral.ai/templates/the-office-parkour-ai-trend): Dive over the couch, land upside down and shout "Parkour!" into the camera, then jump off the reception counter while the crew leaps over the desks. The whole office parkour scene, 24 seconds, with its own shouts.
-- [Huell Money AI: The Breaking Bad Money Pile Scene, Starring You](https://www.makeviral.ai/templates/huell-money-ai-trend): A storage unit, a bed-size pile of cash, and you fall back onto it with your eyes closed while your friend tells you to quit it. Then they give in and lie down next to you. With the scene's own lines.
-- [Peaky Blinders Explosion Scene, Starring You](https://www.makeviral.ai/templates/peaky-blinders-explosion-ai-trend): A flat cap, a long black overcoat, a match at your lips. The red-brick manor blows up behind you and you walk slowly toward the camera through the smoke, never looking back. One photo, 15 seconds, with the clip's song.
-- [Mbappe Run vs Argentina AI: The Mbappe Sprint, Starring You](https://www.makeviral.ai/templates/mbappe-sprint-ai-trend): A sunny pitch, one long sprint with the ball, a defender in a striped shirt crashing into you, and you sitting on the grass complaining while the commentator shouts "It's a penalty!". In your own clothes. It is an AI video, not real match footage.
-- [Perfume Transition AI Trend: Spray, Flame, Gangster Look](https://www.makeviral.ai/templates/perfume-transition-ai-trend): Sniff the perfume, spray it at the camera, and a lighter turns the spray into a fireball. Add one photo, and you or your pet step out of the flame in a flat cap, dark sunglasses and a long magenta coat, with the trend's song.
+- [Kara Sevda AI Trend: Your AI Video with Celebrity Stars Kemal and Emir](https://www.makeviral.ai/templates/ai-video-with-celebrity): You film a night selfie, the camera swings to the Kemal look-alike in his navy suit, face to face with you, and the Emir look-alike walks in and rests his head on his shoulder, jealous. One photo is enough. It is an AI video with look-alikes, not a real meeting.
+- [Misanthropy Meme AI: You as the Horned Anime Side-Eye](https://www.makeviral.ai/templates/misanthropy-meme-ai-trend): Your photo becomes a hand-drawn anime character with small horns. It glances left and right on a gray screen, then the background floods red and it breaks into a slow, smug grin, twice, to the trend's laughing beat. One photo in, an 8-second vertical clip out.
+- [Ahh Almost Almost: Train Hard, Miss by an Inch, From One Photo](https://www.makeviral.ai/templates/almost-almost-ai-trend): "While they're out partying btw": you grind alone late at night. Then the big shot rolls around the rim and out, twice, as the sound groans "ahhh almost almost". One photo in, an 11-second clip with the trend's own sound out.
+- [If I Was ChatGPT Trend: Your Observe, Just Observe Mood Board](https://www.makeviral.ai/templates/if-i-was-chatgpt-trend): Add one photo. The AI looks at it, picks the city, season, flower, painting, animal and element that fit you, and puts them around your photo in one mood board with short labels.
+- [Davul Zurna Yapay Zeka: Dance and Sing in the Viral Warehouse Clip](https://www.makeviral.ai/templates/davul-zurna-ai-trend): You dance between a zurna player and a davul player in a big workshop, walk up to the camera, sing right into it and walk back with your arms up. One photo, three for the whole band, or your pet. 15 seconds, with the live davul and zurna.
+- [Come On Barbie Let's Go Party AI: Do the Barbie Girl Dance Trend From Two Photos](https://www.makeviral.ai/templates/barbie-girl-dance-ai-trend): You turn around, sway your hips, pump a fist on "ah ah ah yeah" and lean on each other, side by side, on the sped-up Barbie Girl beat. Add two photos and get a real couple's viral reel with your faces and the song.
 
 ## Make your own Clapping Cat video
 
-Add one photo and press Generate. No prompt to write. 35 credits, charged once.
+Add one photo and press Generate. No prompt to write. 78 credits, charged once.
 
 [Make this video](https://www.makeviral.ai/templates/clapping-cat-ai-video/create)

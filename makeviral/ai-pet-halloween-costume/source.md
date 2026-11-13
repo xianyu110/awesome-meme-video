@@ -91,7 +91,7 @@ One-tap version of this variant: https://www.makeviral.ai/templates/ai-pet-hallo
 
 #### Variant: Photo + video
 
-Settings: 1 photo (your pet, whole body) · Seedance 2.0 Mini · 6 s · 720p · 9:16 · with sound · 17 credits in one tap.
+Settings: 1 photo (your pet, whole body) · Seedance 2.5 · 6 s · 720p · 9:16 · with sound · 78 credits in one tap.
 
 1. Open [AI Photo with this template](https://www.makeviral.ai/photo?template=ai-pet-halloween-costume&variant=video) and add your photo (your pet, whole body). The photo prompt is filled in:
 
@@ -100,7 +100,7 @@ Settings: 1 photo (your pet, whole body) · Seedance 2.0 Mini · 6 s · 720p · 
    ```
 
 2. Check the still before you spend credits on the video. Everything the video model does starts from that one frame.
-3. Press the film button on the still to open AI Video with the still as the first frame. Settings: Seedance 2.0 Mini, 6 s, 720p, 9:16, sound on. The video prompt:
+3. Press the film button on the still to open AI Video with the still as the first frame. Settings: Seedance 2.5, 6 s, 720p, 9:16, sound on. The video prompt:
 
    ```text
    A cute, real home video of the pet in its Halloween costume on a porch at dusk, filmed on a phone at the pet's eye level in one continuous shot. Keep the animal's face, fur, markings and costume exactly as in the image. The pet tilts its head at the camera and its tail wags, then it stands up, trots happily two steps toward the camera, sits down again proudly and gives one happy bark or a soft meow, whichever fits the animal. A few leaves drift past and the jack-o'-lanterns flicker. Natural, real animal motion; the costume stays on and moves with the body. Audio: a playful original pizzicato Halloween tune, paws on the wooden porch, rustling leaves and the one bark or meow. No people, no extra paws, no morphing, no text, no logos.
@@ -177,7 +177,7 @@ Need ideas for dog and owner Halloween costumes? The easy classics are witches, 
 
 The **Photo + video** version makes the costume photo first, then animates it: your pet tilts its head, wags its tail, gets up, trots two steps to the camera, sits down proudly and gives one bark or a soft meow. Leaves drift past and the jack-o'-lanterns flicker. For the sound, the prompt asks for a playful original pizzicato tune, paws on the wooden porch and the bark or meow. Our cat example meows.
 
-The video runs on Seedance 2.0 Mini at 720p for 6 seconds, the default (Standard) option. In our tests it kept the costume on and the markings right, on a dog and on a cat. The Best option uses Seedance 2.5 for more detail at a higher price; we did not test it on this prompt.
+The video runs on Seedance 2.5 at 720p for 6 seconds, and it takes a few minutes. In our tests on an earlier video model, the clip kept the costume on and the markings right, on a dog and on a cat.
 
 Post it to TikTok or Reels as it is, or add a trending sound in the app and turn the original sound down.
 
@@ -240,7 +240,7 @@ Yes. Pick "Photo + video". You get the costume photo and a 6-second vertical vid
 
 ### Which AI models does it use?
 
-The photos use Nano Banana 2.1 at 2K. The video uses Nano Banana 2.1 for the first frame, then Seedance 2.0 Mini at 720p for 6 seconds, the default (Standard) option. The Best option uses Seedance 2.5. We picked Mini after it made 5 good clips in 5 runs on this page and the costume try-on page; Veo 3.1 Lite failed 4 of 5 runs with a server error on our test day.
+The photos use Nano Banana 2.1 at 2K. The video uses Nano Banana 2.1 for the first frame, then Seedance 2.5 at 720p for 6 seconds. It is the only video option, and a video takes a few minutes.
 
 ### Will the costume in the photo fit my real pet?
 
@@ -274,12 +274,12 @@ Yes. On this page, pick **Human** and add one full-body photo of yourself: you g
 
 ## New AI video trends this week
 
-- [Tiger Fight AI: Beat the Tiger on CCTV](https://www.makeviral.ai/templates/cctv-tiger-fight-ai-trend): A security camera on a forest path. A tiger leaps out of the bushes, and you fight it and pin it to the ground. Add one photo of yourself or your pet, and the trend's phonk sound comes with it.
-- [The Office Parkour AI Trend: You Shout "Parkour!" in the Office](https://www.makeviral.ai/templates/the-office-parkour-ai-trend): Dive over the couch, land upside down and shout "Parkour!" into the camera, then jump off the reception counter while the crew leaps over the desks. The whole office parkour scene, 24 seconds, with its own shouts.
-- [Huell Money AI: The Breaking Bad Money Pile Scene, Starring You](https://www.makeviral.ai/templates/huell-money-ai-trend): A storage unit, a bed-size pile of cash, and you fall back onto it with your eyes closed while your friend tells you to quit it. Then they give in and lie down next to you. With the scene's own lines.
-- [Peaky Blinders Explosion Scene, Starring You](https://www.makeviral.ai/templates/peaky-blinders-explosion-ai-trend): A flat cap, a long black overcoat, a match at your lips. The red-brick manor blows up behind you and you walk slowly toward the camera through the smoke, never looking back. One photo, 15 seconds, with the clip's song.
-- [Mbappe Run vs Argentina AI: The Mbappe Sprint, Starring You](https://www.makeviral.ai/templates/mbappe-sprint-ai-trend): A sunny pitch, one long sprint with the ball, a defender in a striped shirt crashing into you, and you sitting on the grass complaining while the commentator shouts "It's a penalty!". In your own clothes. It is an AI video, not real match footage.
-- [Perfume Transition AI Trend: Spray, Flame, Gangster Look](https://www.makeviral.ai/templates/perfume-transition-ai-trend): Sniff the perfume, spray it at the camera, and a lighter turns the spray into a fireball. Add one photo, and you or your pet step out of the flame in a flat cap, dark sunglasses and a long magenta coat, with the trend's song.
+- [Kara Sevda AI Trend: Your AI Video with Celebrity Stars Kemal and Emir](https://www.makeviral.ai/templates/ai-video-with-celebrity): You film a night selfie, the camera swings to the Kemal look-alike in his navy suit, face to face with you, and the Emir look-alike walks in and rests his head on his shoulder, jealous. One photo is enough. It is an AI video with look-alikes, not a real meeting.
+- [Misanthropy Meme AI: You as the Horned Anime Side-Eye](https://www.makeviral.ai/templates/misanthropy-meme-ai-trend): Your photo becomes a hand-drawn anime character with small horns. It glances left and right on a gray screen, then the background floods red and it breaks into a slow, smug grin, twice, to the trend's laughing beat. One photo in, an 8-second vertical clip out.
+- [Ahh Almost Almost: Train Hard, Miss by an Inch, From One Photo](https://www.makeviral.ai/templates/almost-almost-ai-trend): "While they're out partying btw": you grind alone late at night. Then the big shot rolls around the rim and out, twice, as the sound groans "ahhh almost almost". One photo in, an 11-second clip with the trend's own sound out.
+- [If I Was ChatGPT Trend: Your Observe, Just Observe Mood Board](https://www.makeviral.ai/templates/if-i-was-chatgpt-trend): Add one photo. The AI looks at it, picks the city, season, flower, painting, animal and element that fit you, and puts them around your photo in one mood board with short labels.
+- [Davul Zurna Yapay Zeka: Dance and Sing in the Viral Warehouse Clip](https://www.makeviral.ai/templates/davul-zurna-ai-trend): You dance between a zurna player and a davul player in a big workshop, walk up to the camera, sing right into it and walk back with your arms up. One photo, three for the whole band, or your pet. 15 seconds, with the live davul and zurna.
+- [Come On Barbie Let's Go Party AI: Do the Barbie Girl Dance Trend From Two Photos](https://www.makeviral.ai/templates/barbie-girl-dance-ai-trend): You turn around, sway your hips, pump a fist on "ah ah ah yeah" and lean on each other, side by side, on the sped-up Barbie Girl beat. Add two photos and get a real couple's viral reel with your faces and the song.
 
 ## Make your own Pet Halloween Costume photo
 

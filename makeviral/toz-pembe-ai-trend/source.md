@@ -85,12 +85,18 @@ One-tap version of this variant: https://www.makeviral.ai/templates/toz-pembe-ai
 
 #### Variant: Pet
 
-Settings: 1 photo (your pet, whole body) · Seedance 2.0 Mini · 15 s · 720p · 9:16 · no sound · 48 credits in one tap.
+Settings: 1 photo (your pet, whole body) · Seedance 2.5 · 15 s · 720p · 9:16 · no sound · 228 credits in one tap.
 
-1. The video prompt is filled in. Settings: Seedance 2.0 Mini, 15 s, 720p, 9:16, sound off. The video prompt:
+1. The video prompt is filled in. Settings: Seedance 2.5, 15 s, 720p, 9:16, sound off. The video prompt:
 
    ```text
-   [Video 1] is a motion guide only. Copy its camera, timing and dance moves, the giant retro boombox stage with pink and teal stripes and a glowing equalizer screen, the street lamp, the trees, the guardrail, the empty asphalt lot with white lane lines and the deep blue sky, filmed in one still, wide shot, and the two cats on the left and in the middle with their wigs and outfits: the tabby with the long dark wig in pink sequins and the cream cat with the light brown wig and sunglasses in silver sequins. Do NOT copy the cream cat with the long blonde wig on the right: not its face, fur, ears or wig. Replace it completely. The dancer on the right, nearest the camera, is the pet in [Image 1], standing upright on its hind legs like a person the whole time. Keep the face, eyes, ears, fur colors, markings and body from [Image 1] in every shot, with no wig. It wears a white crop top, a cropped pink jacket and baggy white cargo trousers. If [Image 1] shows a dog or another animal, that animal takes the same place and does the same moves. All three dance the same 2000s girl-group routine in sync, on the beat, and end side by side with their arms around each other, looking at the camera. Photorealistic, like a real pop music video in daylight. One continuous shot. No people, no extra animals, no text, no subtitles, no logos, no watermark.
+   Recreate the reference video [Video 1] shot for shot: the same giant retro boombox stage with pink and teal stripes and a glowing equalizer screen, the same street lamp, trees, guardrail, empty asphalt lot with white lane lines and deep blue sky, the same still wide camera, the same framing, timing and dance moves, and the same two cats on the left and in the middle with their wigs and outfits: the tabby with the long dark wig in pink sequins and the cat with the light brown wig and sunglasses in silver sequins. The ONLY change: the cat with the long blonde wig on the right, nearest the camera, is now the pet in [Image 1].
+
+The dancer on the right = the pet in [Image 1], whole body, in every frame, also in the group pose at the end: the same species and breed, head shape, muzzle, eyes, eye color, ears, fur colors, fur length and markings as in [Image 1], with the natural body volume and proportions of that animal: never flattened, squashed, stretched or merged with anything, so its owner instantly recognizes it. It stands upright on its hind legs like a person the whole time, with no wig, and wears the white crop top, the cropped pink jacket and the baggy white cargo trousers of the original right dancer. Never drift back to the cat of the original video on the right: not its coat, its face or its ears, and no blonde wig unless [Image 1] shows one. If [Image 1] shows a dog or another animal, that animal dances in the same place with the same moves, with its own ears and muzzle.
+
+All three dance the same 2000s girl-group routine in sync, in one continuous take, on the beat, matching the reference second by second: shoulder shimmies, hip sways, arm waves and side steps, and at the end they stand side by side with their arms around each other, looking at the camera. The two cats on the left and in the middle stay exactly as in the video.
+
+Anatomy rules: one head per animal, one tail each. Two legs on the ground and two front legs each, no extra legs or paws. No people, no extra animals, no text, no subtitles, no logos, no watermark. No dialogue throughout the entire video. No background music.
    ```
 
 2. Press Generate, then download the 9:16 MP4.
@@ -126,7 +132,7 @@ Every version follows one viral AI reel: three cats in wigs and Y2K outfits danc
 | Your photo | You dance in front on the right | You in front on the right, your friend on the left | Your pet dances in front on the right, upright on its hind legs |
 | The other dancers | Two new AI-made dancers in pink and silver sequins | One new AI-made dancer in the middle | The two cats of the reel, in their wigs |
 | Your outfit | Cropped pink jacket, white top, white cargo trousers | The same in front; pink sequin top and flared trousers on the left | A white top, a pink jacket and white cargo trousers, with no wig |
-| Model | Seedance 2.0 Mini | Seedance 2.0 Mini | Standard: Seedance 2.0 Mini. Best: top-quality AI video models that copy the reel itself |
+| Model | Seedance 2.0 Mini | Seedance 2.0 Mini | Top-quality AI video models that copy the reel itself |
 | Length and frame | 15 s, vertical 9:16, 720p | The same | The same |
 | Sound | The reel's song, which you can turn off | The same | The same |
 
@@ -134,7 +140,7 @@ The exact price of each version shows on the Generate button before you spend an
 
 **Why this reel?** We never use the official music video: it shows the real members of manifest and belongs to the label. This AI cat version copies its giant boombox set and the girl-group routine with no real person in it, and it went viral on its own.
 
-**Why these models?** The dancers are full body in one wide shot, with small faces, so Seedance 2.0 Mini can follow the moves and draw new dancers around you. For people there is no Best: a model that copies the reel shot by shot would keep the other two cats next to you. For a pet, Best uses top-quality AI video models, which put your pet into the reel itself, next to the two cats.
+**Why these models?** The dancers are full body in one wide shot, with small faces, so Seedance 2.0 Mini can follow the moves and draw new dancers around you. For people we do not copy the reel shot by shot: that would keep the other two cats next to you. For a pet, top-quality AI video models put your pet into the reel itself, next to the two cats.
 
 ## Who should you put in your Toz Pembe video?
 
@@ -164,8 +170,8 @@ The song belongs to manifest and its label, and MakeViral gives you no rights to
 | Cat ears, fur or a tail show up on a person | The reel stars cats. The prompt bans them; use a sharp, full-body photo and run it again. |
 | The face looks less like your photo | Use a sharper, front-facing photo in good light, then run it again. |
 | You and your friend swap places | Photo 1 is always the dancer in front on the right, photo 2 the one on the left. Check the order and run it again. |
-| Your pet gets a blonde wig or cream fur (Pet) | The cat in that spot has both. Use a photo where the fur is clear, run it again, or pick Best. |
-| The moves are not exactly the reel's | Seedance 2.0 Mini makes a new clip that follows the reel's dance and timing. For a pet, Best copies the reel itself. |
+| Your pet gets a blonde wig or cream fur (Pet) | The cat in that spot has both. Use a photo where the fur is clear, then run it again. |
+| The moves are not exactly the reel's | Human and You and a friend: Seedance 2.0 Mini makes a new clip that follows the reel's dance and timing. Pet copies the reel itself. |
 | A hand or a paw blurs in a fast move | This is common in dance clips. A second run comes out different. |
 | The video model refuses a photo | Some photos get refused. The credits come back; try another photo. |
 
@@ -193,7 +199,7 @@ Yes. Pick You and a friend and add two photos: photo 1 dances in front on the ri
 
 ### Can I make it with my cat or dog?
 
-Yes. Pick Pet. Your pet takes the front spot on the right, standing upright on its hind legs in a pink jacket and white cargo trousers, and dances next to the two cats of the viral reel. Standard draws a new clip that follows the reel; Best puts your pet into the reel itself.
+Yes. Pick Pet. Your pet takes the front spot on the right, standing upright on its hind legs in a pink jacket and white cargo trousers, and dances next to the two cats of the viral reel. Top-quality AI video models put your pet into the reel itself.
 
 ### Does the video have the Toz Pembe song?
 
@@ -235,12 +241,12 @@ The Toz Pembe challenge is the dance trend of the song Toz Pembe: manifest fans 
 
 ## New AI video trends this week
 
-- [Tiger Fight AI: Beat the Tiger on CCTV](https://www.makeviral.ai/templates/cctv-tiger-fight-ai-trend): A security camera on a forest path. A tiger leaps out of the bushes, and you fight it and pin it to the ground. Add one photo of yourself or your pet, and the trend's phonk sound comes with it.
-- [The Office Parkour AI Trend: You Shout "Parkour!" in the Office](https://www.makeviral.ai/templates/the-office-parkour-ai-trend): Dive over the couch, land upside down and shout "Parkour!" into the camera, then jump off the reception counter while the crew leaps over the desks. The whole office parkour scene, 24 seconds, with its own shouts.
-- [Huell Money AI: The Breaking Bad Money Pile Scene, Starring You](https://www.makeviral.ai/templates/huell-money-ai-trend): A storage unit, a bed-size pile of cash, and you fall back onto it with your eyes closed while your friend tells you to quit it. Then they give in and lie down next to you. With the scene's own lines.
-- [Peaky Blinders Explosion Scene, Starring You](https://www.makeviral.ai/templates/peaky-blinders-explosion-ai-trend): A flat cap, a long black overcoat, a match at your lips. The red-brick manor blows up behind you and you walk slowly toward the camera through the smoke, never looking back. One photo, 15 seconds, with the clip's song.
-- [Mbappe Run vs Argentina AI: The Mbappe Sprint, Starring You](https://www.makeviral.ai/templates/mbappe-sprint-ai-trend): A sunny pitch, one long sprint with the ball, a defender in a striped shirt crashing into you, and you sitting on the grass complaining while the commentator shouts "It's a penalty!". In your own clothes. It is an AI video, not real match footage.
-- [Perfume Transition AI Trend: Spray, Flame, Gangster Look](https://www.makeviral.ai/templates/perfume-transition-ai-trend): Sniff the perfume, spray it at the camera, and a lighter turns the spray into a fireball. Add one photo, and you or your pet step out of the flame in a flat cap, dark sunglasses and a long magenta coat, with the trend's song.
+- [Kara Sevda AI Trend: Your AI Video with Celebrity Stars Kemal and Emir](https://www.makeviral.ai/templates/ai-video-with-celebrity): You film a night selfie, the camera swings to the Kemal look-alike in his navy suit, face to face with you, and the Emir look-alike walks in and rests his head on his shoulder, jealous. One photo is enough. It is an AI video with look-alikes, not a real meeting.
+- [Misanthropy Meme AI: You as the Horned Anime Side-Eye](https://www.makeviral.ai/templates/misanthropy-meme-ai-trend): Your photo becomes a hand-drawn anime character with small horns. It glances left and right on a gray screen, then the background floods red and it breaks into a slow, smug grin, twice, to the trend's laughing beat. One photo in, an 8-second vertical clip out.
+- [Ahh Almost Almost: Train Hard, Miss by an Inch, From One Photo](https://www.makeviral.ai/templates/almost-almost-ai-trend): "While they're out partying btw": you grind alone late at night. Then the big shot rolls around the rim and out, twice, as the sound groans "ahhh almost almost". One photo in, an 11-second clip with the trend's own sound out.
+- [If I Was ChatGPT Trend: Your Observe, Just Observe Mood Board](https://www.makeviral.ai/templates/if-i-was-chatgpt-trend): Add one photo. The AI looks at it, picks the city, season, flower, painting, animal and element that fit you, and puts them around your photo in one mood board with short labels.
+- [Davul Zurna Yapay Zeka: Dance and Sing in the Viral Warehouse Clip](https://www.makeviral.ai/templates/davul-zurna-ai-trend): You dance between a zurna player and a davul player in a big workshop, walk up to the camera, sing right into it and walk back with your arms up. One photo, three for the whole band, or your pet. 15 seconds, with the live davul and zurna.
+- [Come On Barbie Let's Go Party AI: Do the Barbie Girl Dance Trend From Two Photos](https://www.makeviral.ai/templates/barbie-girl-dance-ai-trend): You turn around, sway your hips, pump a fist on "ah ah ah yeah" and lean on each other, side by side, on the sped-up Barbie Girl beat. Add two photos and get a real couple's viral reel with your faces and the song.
 
 ## Make your own Toz Pembe Dance video
 

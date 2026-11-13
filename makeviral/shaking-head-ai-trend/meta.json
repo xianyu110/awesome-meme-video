@@ -8,7 +8,7 @@
   "blurb": "The shaking head trend is the October 2026 TikTok meme where an animal stares into the camera, squeezes its eyes shut in a smug grin and slowly shakes its head, then pops its eyes wide open.",
   "updated": "2026-10-25",
   "published": "2026-10-25",
-  "credits": 56,
+  "credits": 128,
   "demo_videos": [
     "https://www.makeviral.ai/media/templates/shaking-head-ai-trend/original-calf-v2.mp4",
     "https://www.makeviral.ai/media/templates/shaking-head-ai-trend/original-dog-v2.mp4"
@@ -25,7 +25,7 @@
       "text": "Zoom in on the pet's head: a tight close-up at the pet's eye level. The head fills most of the frame: the ear tips near the top edge, the face as wide as about two thirds of the frame, the chin a little below the middle, the top of the chest at the bottom edge. The legs, the paws and the lower body are out of the frame. Do not keep the framing of the photo if it shows more of the body. Use the uploaded image as the base. Keep the animal's species, breed, face, eye color, fur color, fur length, markings and body size exactly the same as in the photo. A real phone photo of the same pet in the same real place from the photo, with the same colors and light. The face turned straight to the camera, both eyes open, the mouth closed, a calm face. Soft natural light, natural fur detail, a little phone-camera softness. Photorealistic, not a cartoon, not CGI. Vertical 9:16. Exactly one animal. No people, no hands, no clothes on the pet, no camera app interface, no text, no logos."
     },
     {
-      "label": "3. Press the film button on the still to open AI Video with the still as the first frame. Settings: Kling 3.0, 10 s, 1080p, 9:16, sound on. The video prompt",
+      "label": "3. Press the film button on the still to open AI Video with the still as the first frame. Settings: Seedance 2.5, 10 s, 720p, 9:16, sound on. The video prompt",
       "variant": null,
       "kind": "video_prompt",
       "text": "A real, funny pet video filmed on a phone held still: one continuous tight close-up at the pet's eye level, the head filling most of the frame the whole time, the camera locked off. Keep the animal's face, eyes, ears, fur, markings and the room exactly as in the image. The pet faces the camera the whole time; the head and the face move a lot, the body stays in place.\n0-1.5 s: both eyes squeeze tightly shut at the same time, the cheeks push up into a big, smug, closed-mouth grin, and the whole head rocks from side to side: it tilts far to the left, then far to the right, a big, deadpan head shake that is easy to see.\n1.5-3.5 s: both eyes pop wide open, big and round, and stare straight into the lens; the mouth opens wide into a big open-mouthed grin, like a laugh, the pink tongue showing, while the head keeps rocking from side to side and leans a little toward the lens.\n3.5-5 s: both eyes squeeze shut again in the smug grin, and the big side-to-side head shake comes back.\n5-7 s: the wide-eyed stare again, the mouth wide open in the big grin with the tongue showing, the head rocking side to side.\n7-8.5 s: the smug, eyes-shut head shake once more, big and clear.\n8.5-10 s: the wide-eyed stare with the mouth wide open, and a last big tilt of the head to one side.\nThe head moves are big and rhythmic, about one sway each second, never a tiny twitch. The two eyes always close and open together, never one eye at a time, never a wink. Audio: a playful, bouncy beat with no words. No meowing, no barking, no speech.\nExactly one animal: one head, two eyes, one tongue, an animal's own mouth and teeth. No people, no hands, no clothes, no morphing, no cuts, no zoom, no text, no captions, no logos, no watermark."
@@ -53,5 +53,5 @@
     "Make your own Shaking Head video"
   ],
   "prompt_count": 3,
-  "scraped_at": "2026-11-12"
+  "scraped_at": "2026-11-13"
 }

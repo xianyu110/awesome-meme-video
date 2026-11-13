@@ -40,7 +40,7 @@ Exactly one person; the black hand belongs to nobody we see. A high neckline in 
 Use the uploaded image as the base. 9:16 vertical photo, like a polished studio pet portrait on a tripod: the pet from the uploaded image sits facing the camera in front of a plain black backdrop, in soft, warm studio light, framed from the chest up with its whole head and ears in view. It holds one front paw up a little toward the camera. Realistic photo with natural fur and natural colors. Exactly one animal and no people. No clothes on the pet. No text, no logos, no watermark.
 ```
 
-### 3. 3. Press the film button on the still to open AI Video with the still as the first frame. Settings: Kling 3.0, 10 s, 1080p, 9:16, sound on. The video prompt
+### 3. 3. Press the film button on the still to open AI Video with the still as the first frame. Settings: Seedance 2.5, 10 s, 720p, 9:16, sound on. The video prompt
 
 *Kind: video_prompt*
 

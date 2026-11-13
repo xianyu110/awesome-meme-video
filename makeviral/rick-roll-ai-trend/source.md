@@ -107,7 +107,7 @@ One-tap version of this variant: https://www.makeviral.ai/templates/rick-roll-ai
 
 #### Variant: Pet
 
-Settings: 1 photo (your pet) · Kling 3.0 · 10 s · 1080p · 9:16 · with sound · 56 credits in one tap.
+Settings: 1 photo (your pet) · Seedance 2.5 · 10 s · 720p · 9:16 · with sound · 128 credits in one tap.
 
 1. Open [AI Photo with this template](https://www.makeviral.ai/photo?template=rick-roll-ai-trend&variant=pet) and add your photo (your pet). The photo prompt is filled in:
 
@@ -116,7 +116,7 @@ Settings: 1 photo (your pet) · Kling 3.0 · 10 s · 1080p · 9:16 · with sound
    ```
 
 2. Check the still before you spend credits on the video. Everything the video model does starts from that one frame.
-3. Press the film button on the still to open AI Video with the still as the first frame. Settings: Kling 3.0, 10 s, 1080p, 9:16, sound on. The video prompt:
+3. Press the film button on the still to open AI Video with the still as the first frame. Settings: Seedance 2.5, 10 s, 720p, 9:16, sound on. The video prompt:
 
    ```text
    A late-1980s pop music video shot, one continuous take, the camera slowly pushes in. The pet in the trench coat sways from side to side at the microphone, bobs its head to the beat and swings its front paws in front of its chest in a small dance, opening and closing its mouth as if singing, then tilts its head at the camera. The coat swings a little; its ears, whiskers and fur move. Keep the pet's face, fur, markings and the trench coat exactly as in the image, the natural body of that animal, its own paws, no human hands. Audio: soft footsteps and room tone. No dialogue, no background music. No people, no extra animals, no extra legs, no morphing, no text, no logos.
@@ -167,7 +167,7 @@ No version uses footage of the official video. The AI builds a new Rick Roll mus
 |---|---|---|---|
 | Photos | 1, you | 2, the singer and the dancer | 1, your pet |
 | How | Straight from your photo, no in-between picture, so the face stays close | Straight from your two photos | A picture of your pet at the mic first, then the video |
-| Quality | One top setting | One top setting | Standard or Best |
+| Quality | One top setting | One top setting | One top setting |
 | Length | 10 s, vertical 9:16 | 10 s, vertical 9:16 | 10 s, vertical 9:16 |
 | Sound | Footsteps and room sound, no music | The same | The same |
 
@@ -197,7 +197,7 @@ Want more music video scenes? Take the spinning chair in the [Birds of a Feather
 | The dance looks stiff or too fast | Every run is a new take. Run it again. |
 | A hand or the microphone bends in a strange way | Fast moves can blur in AI video. Run it again if it bothers you. |
 | With a friend, the two faces mix | Use two clear photos with one person each, and keep the order: photo 1 is the singer. |
-| Your pet loses the trench coat or looks different | Use a sharp photo where the face, ears and markings are clear, or try Best. |
+| Your pet loses the trench coat or looks different | Use a sharp photo where the face, ears and markings are clear, then run it again. |
 | The video model refuses the photo | Some photos get refused. The credits come back; try another photo. |
 
 ## Rick Roll trend questions
@@ -240,7 +240,7 @@ No. The AI builds a new Rickroll AI generated scene in the same style from your 
 
 ### Can my cat or dog do the Rick Roll dance?
 
-Yes. Pick Pet and add one photo. Your pet stands at the microphone in a light trench coat under the blue brick arches, sways and opens its mouth as if it sings. It is a Rick Roll cat version or a Rick Roll dog version of the Rick Roll dance meme: Standard is the lower price, Best gives smoother moves.
+Yes. Pick Pet and add one photo. Your pet stands at the microphone in a light trench coat under the blue brick arches, sways and opens its mouth as if it sings. It is a Rick Roll cat version or a Rick Roll dog version of the Rick Roll dance meme.
 
 ### Can I rick roll my friends, or rick roll myself, with this?
 
@@ -256,7 +256,7 @@ Every version makes a 10-second vertical 9:16 MP4, ready for TikTok, Instagram R
 
 ### Does the Rick Roll AI video cost credits?
 
-Yes. Each video costs credits, and the create page shows the exact price on the Generate button before you spend anything. For Pet, Standard costs less than Best. If a video fails, the credits come back.
+Yes. Each video costs credits, and the create page shows the exact price on the Generate button before you spend anything. If a video fails, the credits come back.
 
 ## Other AI video templates and tools
 
@@ -269,12 +269,12 @@ Yes. Each video costs credits, and the create page shows the exact price on the 
 
 ## New AI video trends this week
 
-- [Tiger Fight AI: Beat the Tiger on CCTV](https://www.makeviral.ai/templates/cctv-tiger-fight-ai-trend): A security camera on a forest path. A tiger leaps out of the bushes, and you fight it and pin it to the ground. Add one photo of yourself or your pet, and the trend's phonk sound comes with it.
-- [The Office Parkour AI Trend: You Shout "Parkour!" in the Office](https://www.makeviral.ai/templates/the-office-parkour-ai-trend): Dive over the couch, land upside down and shout "Parkour!" into the camera, then jump off the reception counter while the crew leaps over the desks. The whole office parkour scene, 24 seconds, with its own shouts.
-- [Huell Money AI: The Breaking Bad Money Pile Scene, Starring You](https://www.makeviral.ai/templates/huell-money-ai-trend): A storage unit, a bed-size pile of cash, and you fall back onto it with your eyes closed while your friend tells you to quit it. Then they give in and lie down next to you. With the scene's own lines.
-- [Peaky Blinders Explosion Scene, Starring You](https://www.makeviral.ai/templates/peaky-blinders-explosion-ai-trend): A flat cap, a long black overcoat, a match at your lips. The red-brick manor blows up behind you and you walk slowly toward the camera through the smoke, never looking back. One photo, 15 seconds, with the clip's song.
-- [Mbappe Run vs Argentina AI: The Mbappe Sprint, Starring You](https://www.makeviral.ai/templates/mbappe-sprint-ai-trend): A sunny pitch, one long sprint with the ball, a defender in a striped shirt crashing into you, and you sitting on the grass complaining while the commentator shouts "It's a penalty!". In your own clothes. It is an AI video, not real match footage.
-- [Perfume Transition AI Trend: Spray, Flame, Gangster Look](https://www.makeviral.ai/templates/perfume-transition-ai-trend): Sniff the perfume, spray it at the camera, and a lighter turns the spray into a fireball. Add one photo, and you or your pet step out of the flame in a flat cap, dark sunglasses and a long magenta coat, with the trend's song.
+- [Kara Sevda AI Trend: Your AI Video with Celebrity Stars Kemal and Emir](https://www.makeviral.ai/templates/ai-video-with-celebrity): You film a night selfie, the camera swings to the Kemal look-alike in his navy suit, face to face with you, and the Emir look-alike walks in and rests his head on his shoulder, jealous. One photo is enough. It is an AI video with look-alikes, not a real meeting.
+- [Misanthropy Meme AI: You as the Horned Anime Side-Eye](https://www.makeviral.ai/templates/misanthropy-meme-ai-trend): Your photo becomes a hand-drawn anime character with small horns. It glances left and right on a gray screen, then the background floods red and it breaks into a slow, smug grin, twice, to the trend's laughing beat. One photo in, an 8-second vertical clip out.
+- [Ahh Almost Almost: Train Hard, Miss by an Inch, From One Photo](https://www.makeviral.ai/templates/almost-almost-ai-trend): "While they're out partying btw": you grind alone late at night. Then the big shot rolls around the rim and out, twice, as the sound groans "ahhh almost almost". One photo in, an 11-second clip with the trend's own sound out.
+- [If I Was ChatGPT Trend: Your Observe, Just Observe Mood Board](https://www.makeviral.ai/templates/if-i-was-chatgpt-trend): Add one photo. The AI looks at it, picks the city, season, flower, painting, animal and element that fit you, and puts them around your photo in one mood board with short labels.
+- [Davul Zurna Yapay Zeka: Dance and Sing in the Viral Warehouse Clip](https://www.makeviral.ai/templates/davul-zurna-ai-trend): You dance between a zurna player and a davul player in a big workshop, walk up to the camera, sing right into it and walk back with your arms up. One photo, three for the whole band, or your pet. 15 seconds, with the live davul and zurna.
+- [Come On Barbie Let's Go Party AI: Do the Barbie Girl Dance Trend From Two Photos](https://www.makeviral.ai/templates/barbie-girl-dance-ai-trend): You turn around, sway your hips, pump a fist on "ah ah ah yeah" and lean on each other, side by side, on the sped-up Barbie Girl beat. Add two photos and get a real couple's viral reel with your faces and the song.
 
 ## Make your own Rick Roll video
 

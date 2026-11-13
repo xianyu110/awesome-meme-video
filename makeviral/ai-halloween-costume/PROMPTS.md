@@ -43,7 +43,7 @@ Use the two uploaded images as the base. The person in the first image stands on
 Use the uploaded image as the base. Keep the person's face, facial features, skin tone, hair, age, body shape and their own everyday clothes and shoes exactly the same as in the photo. Place the person full body, head to shoes, in the middle of a cozy Halloween house party at night, standing and facing the camera with a playful, excited smile: orange string lights, carved jack-o'-lanterns on a table, paper bats on the wall and a few friends blurred in the background. Leave some space around the person. A real phone photo with a soft flash, natural skin texture, slight grain. Vertical 9:16. Exactly one person in focus, still in their everyday clothes, no costume yet. No camera app interface, no icons, no frames or overlays. No text, no logos.
 ```
 
-### 4. 3. Press the film button on the still to open AI Video with the still as the first frame. Settings: Seedance 2.0 Mini, 6 s, 720p, 9:16, sound on. The video prompt
+### 4. 3. Press the film button on the still to open AI Video with the still as the first frame. Settings: Seedance 2.5, 6 s, 720p, 9:16, sound on. The video prompt
 
 *Kind: video_prompt*
 

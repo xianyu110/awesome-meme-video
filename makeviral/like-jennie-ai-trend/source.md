@@ -91,7 +91,7 @@ One-tap version of this variant: https://www.makeviral.ai/templates/like-jennie-
 
 #### Variant: Pet
 
-Settings: 1 photo (your pet, whole body) · Kling 3.0 · 14 s · 1080p · 9:16 · no sound · 78 credits in one tap.
+Settings: 1 photo (your pet, whole body) · Seedance 2.5 · 14 s · 720p · 9:16 · no sound · 179 credits in one tap.
 
 1. Open [AI Photo with this template](https://www.makeviral.ai/photo?template=like-jennie-ai-trend&variant=pet) and add your photo (your pet, whole body). The photo prompt is filled in:
 
@@ -100,7 +100,7 @@ Settings: 1 photo (your pet, whole body) · Kling 3.0 · 14 s · 1080p · 9:16 �
    ```
 
 2. Check the still before you spend credits on the video. Everything the video model does starts from that one frame.
-3. Press the film button on the still to open AI Video with the still as the first frame. Settings: Kling 3.0, 14 s, 1080p, 9:16, sound off. The video prompt:
+3. Press the film button on the still to open AI Video with the still as the first frame. Settings: Seedance 2.5, 14 s, 720p, 9:16, sound off. The video prompt:
 
    ```text
    A pop music video, cinematic, one continuous shot. Keep the pet's species, face, fur, markings and body exactly as in the image, and the white studio and the backup dancers in black. 0-5 s: the pet stands upright on its hind legs at the front and bobs its head to the beat, swaying from side to side, while the crew behind hits sharp synchronized moves. 5-10 s: the pet swings its front paws left and right on the beat and does a little spin on its hind legs; the whole crew spins at the same time. 10-14 s: the camera pushes in slowly to the pet's face: it raises one front paw in a pose and stares into the lens with attitude while the crew holds still behind it. Real furry paws, no human hands, no clothes. The natural body volume and proportions of that animal: never flattened, squashed or stretched. Exactly one animal. Sound: none of its own; a pop song is put on afterwards. No singing, no words. No text, no logos, no watermark.
@@ -141,7 +141,7 @@ Both versions play the like JENNIE trend dance as a 14-second pop music video in
 | 3 (6 to 11) | A low close shot of you dancing alone against the light panels, then you lie on the floor among the crew. | A little spin, with the whole crew spinning too. | "Like, like, like" and "I think I really like" |
 | 4 (11 to 14) | Straight down from above: the crew lies on the floor in moving rows, then boots step past the camera. | The camera pushes in: one paw up, a long stare into the lens, the crew holding still behind. | "Cause they can never ever be" |
 
-**Human** puts your face on the lead of the trend's template clip, shot for shot. **Pet** first makes a picture of your pet at the front of the crew, then turns it into the video; pick Best for top-quality AI video models, including Seedance 2.5, on the same picture.
+**Human** puts your face on the lead of the trend's template clip, shot for shot. **Pet** first makes a picture of your pet at the front of the crew, then turns it into the video with top-quality AI video models, including Seedance 2.5.
 
 Human is wide 16:9 like the clip and Pet is vertical 9:16, both 14 seconds long, with the like JENNIE song from the start of the chorus to the end of the post-chorus. Press "Create your own" and pick Human or Pet; the exact price shows on the Generate button before you spend anything.
 
@@ -210,7 +210,7 @@ Yes. It comes with 14 seconds of the like JENNIE song, from "Who wanna rock with
 
 ### Which AI models make the video?
 
-Top-quality AI video models, including Seedance 2.5. Human copies the trend's template clip with the face from your photo. Pet makes a picture of your pet with the crew first; Standard turns it into the video at a lower price, and Best uses a stronger model for smoother moves.
+Top-quality AI video models, including Seedance 2.5. Human copies the trend's template clip with the face from your photo. Pet makes a picture of your pet with the crew first, then turns it into the video.
 
 ### How long is the video and what format is it?
 
@@ -232,12 +232,12 @@ No creator of the trend shared one, and the app templates are closed. Human uses
 
 ## New AI video trends this week
 
-- [Tiger Fight AI: Beat the Tiger on CCTV](https://www.makeviral.ai/templates/cctv-tiger-fight-ai-trend): A security camera on a forest path. A tiger leaps out of the bushes, and you fight it and pin it to the ground. Add one photo of yourself or your pet, and the trend's phonk sound comes with it.
-- [The Office Parkour AI Trend: You Shout "Parkour!" in the Office](https://www.makeviral.ai/templates/the-office-parkour-ai-trend): Dive over the couch, land upside down and shout "Parkour!" into the camera, then jump off the reception counter while the crew leaps over the desks. The whole office parkour scene, 24 seconds, with its own shouts.
-- [Huell Money AI: The Breaking Bad Money Pile Scene, Starring You](https://www.makeviral.ai/templates/huell-money-ai-trend): A storage unit, a bed-size pile of cash, and you fall back onto it with your eyes closed while your friend tells you to quit it. Then they give in and lie down next to you. With the scene's own lines.
-- [Peaky Blinders Explosion Scene, Starring You](https://www.makeviral.ai/templates/peaky-blinders-explosion-ai-trend): A flat cap, a long black overcoat, a match at your lips. The red-brick manor blows up behind you and you walk slowly toward the camera through the smoke, never looking back. One photo, 15 seconds, with the clip's song.
-- [Mbappe Run vs Argentina AI: The Mbappe Sprint, Starring You](https://www.makeviral.ai/templates/mbappe-sprint-ai-trend): A sunny pitch, one long sprint with the ball, a defender in a striped shirt crashing into you, and you sitting on the grass complaining while the commentator shouts "It's a penalty!". In your own clothes. It is an AI video, not real match footage.
-- [Perfume Transition AI Trend: Spray, Flame, Gangster Look](https://www.makeviral.ai/templates/perfume-transition-ai-trend): Sniff the perfume, spray it at the camera, and a lighter turns the spray into a fireball. Add one photo, and you or your pet step out of the flame in a flat cap, dark sunglasses and a long magenta coat, with the trend's song.
+- [Kara Sevda AI Trend: Your AI Video with Celebrity Stars Kemal and Emir](https://www.makeviral.ai/templates/ai-video-with-celebrity): You film a night selfie, the camera swings to the Kemal look-alike in his navy suit, face to face with you, and the Emir look-alike walks in and rests his head on his shoulder, jealous. One photo is enough. It is an AI video with look-alikes, not a real meeting.
+- [Misanthropy Meme AI: You as the Horned Anime Side-Eye](https://www.makeviral.ai/templates/misanthropy-meme-ai-trend): Your photo becomes a hand-drawn anime character with small horns. It glances left and right on a gray screen, then the background floods red and it breaks into a slow, smug grin, twice, to the trend's laughing beat. One photo in, an 8-second vertical clip out.
+- [Ahh Almost Almost: Train Hard, Miss by an Inch, From One Photo](https://www.makeviral.ai/templates/almost-almost-ai-trend): "While they're out partying btw": you grind alone late at night. Then the big shot rolls around the rim and out, twice, as the sound groans "ahhh almost almost". One photo in, an 11-second clip with the trend's own sound out.
+- [If I Was ChatGPT Trend: Your Observe, Just Observe Mood Board](https://www.makeviral.ai/templates/if-i-was-chatgpt-trend): Add one photo. The AI looks at it, picks the city, season, flower, painting, animal and element that fit you, and puts them around your photo in one mood board with short labels.
+- [Davul Zurna Yapay Zeka: Dance and Sing in the Viral Warehouse Clip](https://www.makeviral.ai/templates/davul-zurna-ai-trend): You dance between a zurna player and a davul player in a big workshop, walk up to the camera, sing right into it and walk back with your arms up. One photo, three for the whole band, or your pet. 15 seconds, with the live davul and zurna.
+- [Come On Barbie Let's Go Party AI: Do the Barbie Girl Dance Trend From Two Photos](https://www.makeviral.ai/templates/barbie-girl-dance-ai-trend): You turn around, sway your hips, pump a fist on "ah ah ah yeah" and lean on each other, side by side, on the sped-up Barbie Girl beat. Add two photos and get a real couple's viral reel with your faces and the song.
 
 ## Make your own Like JENNIE Dance video
 

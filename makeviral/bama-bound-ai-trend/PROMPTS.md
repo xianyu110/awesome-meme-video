@@ -80,7 +80,7 @@ Exactly two people. Anatomy rules: one head each, two arms each, five fingers on
 Use the uploaded image as the base. A real phone photo, vertical 9:16, taken from low down, at the height of the pet, on a bright sunny day. The pet from the uploaded image stands upright on its hind legs in the middle of a wide, sunny field of short green grass on a bright summer day, a line of tall green trees behind, and a clear deep-blue sky with a few thin white clouds, holding a long, flat, bright red rectangular banner, about as wide as the raised arms, with the words I'M BAMA BOUND in big, bold white capital letters on two lines (I'M on the first line, BAMA BOUND on the second), up above its head with both front paws. The banner shows only these words: no logo of any kind (no script letter, no emblem, no animal), no school name, no small print and no other words. It faces the camera from a few steps away with a happy, proud face, ears up, its whole body in view from the ears to the hind paws, with its tail. It keeps its own size, body shape and fur. Realistic photo, sharp, in full sun. Exactly one animal and no people. No clothes on the pet. No mascot, no captions, no watermark and no other text.
 ```
 
-### 5. 3. Press the film button on the still to open AI Video with the still as the first frame. Settings: Kling 3.0, 8 s, 1080p, 9:16, sound on. The video prompt
+### 5. 3. Press the film button on the still to open AI Video with the still as the first frame. Settings: Seedance 2.5, 8 s, 720p, 9:16, sound on. The video prompt
 
 *Kind: video_prompt*
 

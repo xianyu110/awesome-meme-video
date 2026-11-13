@@ -59,7 +59,7 @@ Only these two people. No one else, no extra limbs, no text, no captions, no log
 Use the uploaded image as the base. The pet from the uploaded image stands upright on its hind legs like a 1980s pop singer at a chrome vintage microphone on a stand, wearing a long light beige trench coat, open, over a dark top, its front paws raised in a small dance move. Behind it a long wall of blue-lit brick arches at night, warm lamp light inside each arch, a wet stone floor. The pet's face is large and sharp, turned to the camera, mouth a little open as if singing. Keep the same species and breed, face, eyes, ears, muzzle, fur colors, fur length and markings as in the photo, with the natural body volume and proportions of that animal: never flattened, squashed or stretched. A real animal with its own paws, no human hands. Medium shot. A late-1980s music video look, photorealistic, soft film grain, warm color, vertical 9:16. No people, no text, no logos.
 ```
 
-### 4. 3. Press the film button on the still to open AI Video with the still as the first frame. Settings: Kling 3.0, 10 s, 1080p, 9:16, sound on. The video prompt
+### 4. 3. Press the film button on the still to open AI Video with the still as the first frame. Settings: Seedance 2.5, 10 s, 720p, 9:16, sound on. The video prompt
 
 *Kind: video_prompt*
 

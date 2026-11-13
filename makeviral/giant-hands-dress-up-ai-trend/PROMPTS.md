@@ -70,7 +70,7 @@ Exactly 2 giant hands, one left and one right, each with 5 fingers. Show only pa
 Use the uploaded image as the base. Keep the animal's species, breed, face, eye color, fur color, fur length, markings and natural body proportions exactly the same as in the photo. A photorealistic vertical 9:16 photo from a locked-off, static camera at chest height in a bright bedroom. A plain white built-in wardrobe wall fills the background, with long thin vertical handles running floor to ceiling as a scale reference, and a warm wooden floor along the bottom of the frame. The pet stands on the floor at doll height, roughly six inches tall, in the center, the whole pet in frame from ears to paws, facing the camera, its face sharp and clear. No clothes on the pet. Natural daylight from the left, soft shadows on the wall. Exactly one animal. No people, no hands, no text, no logos, no watermark.
 ```
 
-### 4. 3. Press the film button on the still to open AI Video with the still as the first frame. Settings: Kling 3.0, 10 s, 1080p, 9:16, sound on. The video prompt
+### 4. 3. Press the film button on the still to open AI Video with the still as the first frame. Settings: Seedance 2.5, 10 s, 720p, 9:16, sound on. The video prompt
 
 *Kind: video_prompt*
 

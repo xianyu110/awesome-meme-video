@@ -65,7 +65,7 @@ Only the rapper and the troopers. The troopers never take off their helmets and 
 A real photo from a parody music video: a vast, bright white sci-fi hangar with a glossy pale grey floor, tall white walls with glowing light panels and a huge open hangar door onto black space full of stars. In the front centre, the pet from the uploaded image stands upright on its hind legs like a rapper, holding a black handheld microphone in its front paws close to its open mouth, looking at the camera with a bold, confident face. It keeps its own face, eyes, ears, fur colors, fur length and markings, with the natural body of that animal. Behind it, rows of armoured troopers stand in perfect lines, all the same: smooth matte white armour with simple rounded plates and a plain white helmet with one dark curved visor, no faceplate grille, no stripes. The pet's whole body in view and large in the frame, sharp; the troopers a little out of focus. Photorealistic, cool white light, gentle film grain, not CGI, not a cartoon. Vertical 9:16. No robes, no capes, no glowing swords, no weapons, no film costumes or film armour, no logos, no text.
 ```
 
-### 4. 3. Press the film button on the still to open AI Video with the still as the first frame. Settings: Kling 3.0, 10 s, 1080p, 9:16, sound on. The video prompt
+### 4. 3. Press the film button on the still to open AI Video with the still as the first frame. Settings: Seedance 2.5, 10 s, 720p, 9:16, sound on. The video prompt
 
 *Kind: video_prompt*
 

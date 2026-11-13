@@ -55,7 +55,7 @@ Everything runs in the browser. No editing app, no watermark.
 
 ### The by-hand way, with the exact prompts
 
-The one-tap flow runs these prompts for you. A photo prompt puts your photo into the scene (Nano Banana 2.1, image mode, 9:16, 1K), then a video prompt animates that still. To change them, copy them and edit them in AI Photo and AI Video.
+The one-tap flow runs these prompts for you. A photo prompt puts your photo into the scene (GPT Image 2.6, image mode, 9:16, 1K), then a video prompt animates that still. To change them, copy them and edit them in AI Photo and AI Video.
 
 #### Variant: Human
 
@@ -80,7 +80,7 @@ One-tap version of this variant: https://www.makeviral.ai/templates/ai-arrest-tr
 
 #### Variant: Pet
 
-Settings: 1 photo (your pet, whole body) · Kling 3.0 · 8 s · 1080p · 9:16 · with sound · 46 credits in one tap.
+Settings: 1 photo (your pet, whole body) · Seedance 2.5 · 8 s · 720p · 9:16 · with sound · 103 credits in one tap.
 
 1. Open [AI Photo with this template](https://www.makeviral.ai/photo?template=ai-arrest-trend&variant=pet) and add your photo (your pet, whole body). The photo prompt is filled in:
 
@@ -89,7 +89,7 @@ Settings: 1 photo (your pet, whole body) · Kling 3.0 · 8 s · 1080p · 9:16 ·
    ```
 
 2. Check the still before you spend credits on the video. Everything the video model does starts from that one frame.
-3. Press the film button on the still to open AI Video with the still as the first frame. Settings: Kling 3.0, 8 s, 1080p, 9:16, sound on. The video prompt:
+3. Press the film button on the still to open AI Video with the still as the first frame. Settings: Seedance 2.5, 8 s, 720p, 9:16, sound on. The video prompt:
 
    ```text
    Turn the image into a photorealistic vertical 9:16 handheld smartphone video of a fictional night-time movie arrest scene. The same pet keeps its face, fur, markings and clothing and walks upright on its hind legs, escorted by two uniformed officers with its front paws cuffed behind its back; it briefly looks at the camera with a calm, smug face, then walks on. A funny viral clip on an urban night street. No changes to the animal's species, face or fur, no subtitles, no watermarks, no extra animals. Keep the animal's face, fur and clothes exactly as in the image in every frame, from the front and from the back. Audio: footsteps on the pavement, distant sirens and faint police radio chatter on a quiet night street; no music, no dialogue, no barking. No film crew or film cameras in frame. No badges, no shoulder patches, no department names, no readable text on the uniforms or the car, no captions, no logos.
@@ -142,7 +142,7 @@ The template works in two steps, so your face and your clothes stay yours:
 1. **The still.** Nano Banana 2.1 takes your photo and puts you on a street at night, just outside a front door, between two officers in plain dark uniforms, with a patrol car flashing behind you. Your face, hair and outfit stay as in your photo.
 2. **The video.** A video model animates the still for 8 seconds: the walk, the look at the camera, the smile and the night street sound.
 
-| | Standard (default) | Best |
+| | Human: Standard (default) | Human: Best, and Pet |
 |---|---|---|
 | Video model | Kling 3.0 | Seedance 2.5 |
 | Length | 8 s | 8 s |
@@ -150,7 +150,7 @@ The template works in two steps, so your face and your clothes stay yours:
 | Sound | Footsteps, sirens, radio chatter | The same |
 | Price | Lower | Higher |
 
-The exact price shows on the Generate button before you spend anything. You write no prompt. The video step uses the scene description that the creator of Dreamina's "arrest-trend" template published on 28 September 2026, word for word, plus rules that keep badges, patches, department names and writing off the uniforms and the car. CapCut's own template does not show its prompt. Best runs on Seedance, the model family picked in a 951,100-view tutorial of the trend.
+The Human version lets you pick Standard or Best. The Pet version has one setting, the same as Best, so there is nothing to pick. The exact price shows on the Generate button before you spend anything. You write no prompt. The video step uses the scene description that the creator of Dreamina's "arrest-trend" template published on 28 September 2026, word for word, plus rules that keep badges, patches, department names and writing off the uniforms and the car. CapCut's own template does not show its prompt. Best runs on Seedance, the model family picked in a 951,100-view tutorial of the trend.
 
 ## What goes wrong, and how do you fix it?
 
@@ -160,7 +160,7 @@ The exact price shows on the Generate button before you spend anything. You writ
 | Your outfit changes when you turn away | AI video often redraws clothes from the back. A viewer spotted it on the original reel too: "her dress from the front turns into trousers from the back". Run it again or pick Best. |
 | The clip cuts to a second shot | Kling sometimes adds a cut. Best keeps one take more often. |
 | Letters or a badge show up on a uniform or the car | The prompts ban them, but AI can still draw garbled letters. Run it again, and do not post a take that looks like a real police force. |
-| Your pet's legs look wrong (Pet) | A pet that walks upright is hard for AI video. Run it again, or pick Best. |
+| Your pet's legs look wrong (Pet) | A pet that walks upright is hard for AI video. Run it again. |
 | The video model refuses the photo | Some photos get refused. The credits come back; try another photo. |
 
 Every run is a new take, so results differ. If one take is not smug enough, run it again.
@@ -215,7 +215,7 @@ Press "Create your own", add one clear photo of yourself and press Generate. Mak
 
 ### Is there a CapCut template for the AI arrest trend?
 
-Yes. Most TikTok tutorials point to a CapCut AI template; one tutorial on 30 September 2026 showed "Cinematic Staged Arrest Scene" at 2.5 million uses. Dreamina added its own "arrest-trend" and "arrest-filter" templates on 28 and 30 September. On MakeViral you make it in the browser and pick Standard or Best.
+Yes. Most TikTok tutorials point to a CapCut AI template; one tutorial on 30 September 2026 showed "Cinematic Staged Arrest Scene" at 2.5 million uses. Dreamina added its own "arrest-trend" and "arrest-filter" templates on 28 and 30 September. On MakeViral you make it in the browser: the Human version lets you pick Standard or Best, and the Pet version has one setting.
 
 ### Which prompt does this template use?
 
@@ -231,11 +231,11 @@ Only if they say yes, and only as an obvious joke. The clip looks like real phon
 
 ### How long is the AI arrest video, and does it have sound?
 
-8 seconds, vertical 9:16, as an MP4 file: 1080p with Standard, 720p with Best. It has its own sound: footsteps, distant sirens and police radio chatter, with no music. You can add the trend sound in TikTok when you post.
+8 seconds, vertical 9:16, as an MP4 file: 1080p with Human Standard, 720p with Human Best and with Pet. It has its own sound: footsteps, distant sirens and police radio chatter, with no music. You can add the trend sound in TikTok when you post.
 
 ### Does the AI arrest video cost credits?
 
-Yes. Each video costs credits, and the create page shows the exact price on the Generate button before you spend anything. Standard (Kling 3.0) costs less than Best (Seedance 2.5). If a video fails, the credits come back.
+Yes. Each video costs credits, and the create page shows the exact price on the Generate button before you spend anything. On the Human version, Standard (Kling 3.0) costs less than Best (Seedance 2.5). The Pet version has one setting, priced like Best. If a video fails, the credits come back.
 
 ## Other AI video templates and tools
 
@@ -249,12 +249,12 @@ Yes. Each video costs credits, and the create page shows the exact price on the 
 
 ## New AI video trends this week
 
-- [Tiger Fight AI: Beat the Tiger on CCTV](https://www.makeviral.ai/templates/cctv-tiger-fight-ai-trend): A security camera on a forest path. A tiger leaps out of the bushes, and you fight it and pin it to the ground. Add one photo of yourself or your pet, and the trend's phonk sound comes with it.
-- [The Office Parkour AI Trend: You Shout "Parkour!" in the Office](https://www.makeviral.ai/templates/the-office-parkour-ai-trend): Dive over the couch, land upside down and shout "Parkour!" into the camera, then jump off the reception counter while the crew leaps over the desks. The whole office parkour scene, 24 seconds, with its own shouts.
-- [Huell Money AI: The Breaking Bad Money Pile Scene, Starring You](https://www.makeviral.ai/templates/huell-money-ai-trend): A storage unit, a bed-size pile of cash, and you fall back onto it with your eyes closed while your friend tells you to quit it. Then they give in and lie down next to you. With the scene's own lines.
-- [Peaky Blinders Explosion Scene, Starring You](https://www.makeviral.ai/templates/peaky-blinders-explosion-ai-trend): A flat cap, a long black overcoat, a match at your lips. The red-brick manor blows up behind you and you walk slowly toward the camera through the smoke, never looking back. One photo, 15 seconds, with the clip's song.
-- [Mbappe Run vs Argentina AI: The Mbappe Sprint, Starring You](https://www.makeviral.ai/templates/mbappe-sprint-ai-trend): A sunny pitch, one long sprint with the ball, a defender in a striped shirt crashing into you, and you sitting on the grass complaining while the commentator shouts "It's a penalty!". In your own clothes. It is an AI video, not real match footage.
-- [Perfume Transition AI Trend: Spray, Flame, Gangster Look](https://www.makeviral.ai/templates/perfume-transition-ai-trend): Sniff the perfume, spray it at the camera, and a lighter turns the spray into a fireball. Add one photo, and you or your pet step out of the flame in a flat cap, dark sunglasses and a long magenta coat, with the trend's song.
+- [Kara Sevda AI Trend: Your AI Video with Celebrity Stars Kemal and Emir](https://www.makeviral.ai/templates/ai-video-with-celebrity): You film a night selfie, the camera swings to the Kemal look-alike in his navy suit, face to face with you, and the Emir look-alike walks in and rests his head on his shoulder, jealous. One photo is enough. It is an AI video with look-alikes, not a real meeting.
+- [Misanthropy Meme AI: You as the Horned Anime Side-Eye](https://www.makeviral.ai/templates/misanthropy-meme-ai-trend): Your photo becomes a hand-drawn anime character with small horns. It glances left and right on a gray screen, then the background floods red and it breaks into a slow, smug grin, twice, to the trend's laughing beat. One photo in, an 8-second vertical clip out.
+- [Ahh Almost Almost: Train Hard, Miss by an Inch, From One Photo](https://www.makeviral.ai/templates/almost-almost-ai-trend): "While they're out partying btw": you grind alone late at night. Then the big shot rolls around the rim and out, twice, as the sound groans "ahhh almost almost". One photo in, an 11-second clip with the trend's own sound out.
+- [If I Was ChatGPT Trend: Your Observe, Just Observe Mood Board](https://www.makeviral.ai/templates/if-i-was-chatgpt-trend): Add one photo. The AI looks at it, picks the city, season, flower, painting, animal and element that fit you, and puts them around your photo in one mood board with short labels.
+- [Davul Zurna Yapay Zeka: Dance and Sing in the Viral Warehouse Clip](https://www.makeviral.ai/templates/davul-zurna-ai-trend): You dance between a zurna player and a davul player in a big workshop, walk up to the camera, sing right into it and walk back with your arms up. One photo, three for the whole band, or your pet. 15 seconds, with the live davul and zurna.
+- [Come On Barbie Let's Go Party AI: Do the Barbie Girl Dance Trend From Two Photos](https://www.makeviral.ai/templates/barbie-girl-dance-ai-trend): You turn around, sway your hips, pump a fist on "ah ah ah yeah" and lean on each other, side by side, on the sped-up Barbie Girl beat. Add two photos and get a real couple's viral reel with your faces and the song.
 
 ## Make your own Not Bro Getting Arrested Again video
 

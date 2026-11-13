@@ -135,12 +135,11 @@ This is a character swap of the viral reel, not a new scene: top-quality AI vide
 
 Press "Create your own", add your photo and press Generate. The exact price shows on the Generate button before you spend anything. A run can take 5 to 15 minutes, and the video waits in My videos when it is ready.
 
-## Night road or Action hero, Best or Standard: which one?
+## Night road or Action hero: which one?
 
 | Version | Photo | What you get |
 |---|---|---|
-| Night road, Best | 1 of you | The viral reel with you in it, shot for shot: the fuse, the walk, the jacket, the fireball, the arms up. The default. |
-| Night road, Standard | 1 of you | A new clip that follows the reel's camera, timing and fireball, for far fewer credits and faster. Your face is small for most of the walk, so it can look less like you. |
+| Night road | 1 of you | The viral reel with you in it, shot for shot: the fuse, the walk, the jacket, the fireball, the arms up. The default. |
 | Action hero | 1 of you | A new 10-second scene: a slow-motion movie walk toward a low camera while a massive explosion goes off behind you, with fire, sparks, debris and epic sound. |
 
 Action hero is the classic walking away from explosion scene: it uses the prompt @muhammadnaveed_37 shared with his AI clip in 2025, word for word, with your photo in it. The price of each one shows on its Generate button.
@@ -155,7 +154,7 @@ The sound has its own name. "You cannot reason with a tiger when your head is in
 
 | Problem | Fix |
 |---|---|
-| The face looks like the woman from the reel | Use a closer, sharper photo with your face big and in good light, then run it again. On Standard, try Best. |
+| The face looks like the woman from the reel | Use a closer, sharper photo with your face big and in good light, then run it again. |
 | Her long dark hair or her pink top comes back | Run it again with a photo that shows your own hair and top clearly. |
 | You are only a dark shape for a few seconds | That is the reel: the fire behind you is so bright that you show as a silhouette from 5 to 7.75 seconds. Your face shows at the start of the walk and in the last two seconds. |
 | Action hero: the blast hides your face | Run it again for a new take; the walk ends close to the camera. |
@@ -177,7 +176,7 @@ No. Your video is made by AI from your photo, and nothing burns. Never try this 
 
 ### Which AI model makes the video?
 
-Top-quality AI video models, including Seedance 2.5, for Night road Best and for Action hero. Night road takes the original reel and your photo and swaps you into the clip; Standard uses a lighter model that rebuilds the clip from the reel's moves. If a model refuses a photo, MakeViral tries a backup model.
+Top-quality AI video models, including Seedance 2.5, for both Night road and Action hero. Night road takes the original reel and your photo and swaps you into the clip. If a model refuses a photo, MakeViral tries a backup model.
 
 ### What is the explosion walk prompt?
 
@@ -201,7 +200,7 @@ Night road is 11 seconds, Action hero is 10 seconds. Both are vertical 9:16 at 7
 
 ### Does the explosion walk video cost credits?
 
-Yes. The Generate button shows the exact price before you spend anything, Standard costs far less than Best, and if a video fails, the credits come back.
+Yes. The Generate button shows the exact price before you spend anything, and if a video fails, the credits come back.
 
 ### Will the woman from the original reel be in my video?
 
@@ -217,12 +216,12 @@ No. You take her place on the road, and nobody else is in the clip. MakeViral is
 
 ## New AI video trends this week
 
-- [Tiger Fight AI: Beat the Tiger on CCTV](https://www.makeviral.ai/templates/cctv-tiger-fight-ai-trend): A security camera on a forest path. A tiger leaps out of the bushes, and you fight it and pin it to the ground. Add one photo of yourself or your pet, and the trend's phonk sound comes with it.
-- [The Office Parkour AI Trend: You Shout "Parkour!" in the Office](https://www.makeviral.ai/templates/the-office-parkour-ai-trend): Dive over the couch, land upside down and shout "Parkour!" into the camera, then jump off the reception counter while the crew leaps over the desks. The whole office parkour scene, 24 seconds, with its own shouts.
-- [Huell Money AI: The Breaking Bad Money Pile Scene, Starring You](https://www.makeviral.ai/templates/huell-money-ai-trend): A storage unit, a bed-size pile of cash, and you fall back onto it with your eyes closed while your friend tells you to quit it. Then they give in and lie down next to you. With the scene's own lines.
-- [Peaky Blinders Explosion Scene, Starring You](https://www.makeviral.ai/templates/peaky-blinders-explosion-ai-trend): A flat cap, a long black overcoat, a match at your lips. The red-brick manor blows up behind you and you walk slowly toward the camera through the smoke, never looking back. One photo, 15 seconds, with the clip's song.
-- [Mbappe Run vs Argentina AI: The Mbappe Sprint, Starring You](https://www.makeviral.ai/templates/mbappe-sprint-ai-trend): A sunny pitch, one long sprint with the ball, a defender in a striped shirt crashing into you, and you sitting on the grass complaining while the commentator shouts "It's a penalty!". In your own clothes. It is an AI video, not real match footage.
-- [Perfume Transition AI Trend: Spray, Flame, Gangster Look](https://www.makeviral.ai/templates/perfume-transition-ai-trend): Sniff the perfume, spray it at the camera, and a lighter turns the spray into a fireball. Add one photo, and you or your pet step out of the flame in a flat cap, dark sunglasses and a long magenta coat, with the trend's song.
+- [Kara Sevda AI Trend: Your AI Video with Celebrity Stars Kemal and Emir](https://www.makeviral.ai/templates/ai-video-with-celebrity): You film a night selfie, the camera swings to the Kemal look-alike in his navy suit, face to face with you, and the Emir look-alike walks in and rests his head on his shoulder, jealous. One photo is enough. It is an AI video with look-alikes, not a real meeting.
+- [Misanthropy Meme AI: You as the Horned Anime Side-Eye](https://www.makeviral.ai/templates/misanthropy-meme-ai-trend): Your photo becomes a hand-drawn anime character with small horns. It glances left and right on a gray screen, then the background floods red and it breaks into a slow, smug grin, twice, to the trend's laughing beat. One photo in, an 8-second vertical clip out.
+- [Ahh Almost Almost: Train Hard, Miss by an Inch, From One Photo](https://www.makeviral.ai/templates/almost-almost-ai-trend): "While they're out partying btw": you grind alone late at night. Then the big shot rolls around the rim and out, twice, as the sound groans "ahhh almost almost". One photo in, an 11-second clip with the trend's own sound out.
+- [If I Was ChatGPT Trend: Your Observe, Just Observe Mood Board](https://www.makeviral.ai/templates/if-i-was-chatgpt-trend): Add one photo. The AI looks at it, picks the city, season, flower, painting, animal and element that fit you, and puts them around your photo in one mood board with short labels.
+- [Davul Zurna Yapay Zeka: Dance and Sing in the Viral Warehouse Clip](https://www.makeviral.ai/templates/davul-zurna-ai-trend): You dance between a zurna player and a davul player in a big workshop, walk up to the camera, sing right into it and walk back with your arms up. One photo, three for the whole band, or your pet. 15 seconds, with the live davul and zurna.
+- [Come On Barbie Let's Go Party AI: Do the Barbie Girl Dance Trend From Two Photos](https://www.makeviral.ai/templates/barbie-girl-dance-ai-trend): You turn around, sway your hips, pump a fist on "ah ah ah yeah" and lean on each other, side by side, on the sped-up Barbie Girl beat. Add two photos and get a real couple's viral reel with your faces and the song.
 
 ## Make your own Explosion Walk video
 

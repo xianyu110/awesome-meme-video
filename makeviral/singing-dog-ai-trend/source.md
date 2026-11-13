@@ -14,7 +14,7 @@ Add one photo of your dog or cat. It stands in the bathtub in a white towel, dri
 
 Also called: Singing dog trend, Dog blow-dry trend, Pet singing trend, Singing pets, My pet can sing, Dog bathroom concert, Dog singing in the bathroom.
 
-**Make it now:** [Make this video](https://www.makeviral.ai/templates/singing-dog-ai-trend/create). 1 photo · 10 s · 9:16 with sound · 40 credits, charged once · ready in a few minutes · no prompt to write.
+**Make it now:** [Make this video](https://www.makeviral.ai/templates/singing-dog-ai-trend/create). 1 photo · 10 s · 9:16 with sound · 152 credits, charged once · ready in up to several minutes · no prompt to write.
 
 Keyword: singing dog. Also answers: dog with hair dryer, dog singing, dog in towel, cat singing meme, dog singing meme, dog singing video, dog singing opera, cat singing opera, ai dog singing, dog in towel meme, dog singing ai, cat singing in the shower, dog singing tiktok, dog singing app, singing dog app, cat singing ai, make my dog sing, dog singing in the bathroom ai, singing dog ai, pet singing ai, singing cat ai, dog singing in the shower, ai pet singing, pet singing app, make your pet sing, dog singing ai meme, dog blow dryer meme, dog singing in shower, make my dog sing ai, how to make my dog sing, how to make my dog sing ai, make my dog sing app, app to make my dog sing, ai dog singing app, ai pet singing app, make my pet sing, dog singing meme tiktok, dog singing opera tiktok, how to make dog singing video, dog singing filter, dog hair dryer meme, cat singing in shower ai, ai cat singing in the shower, cat singing filter, animal singing ai, singing animal ai, dog blow dry ai, dog blow dry ai trend, dog singing trend, singing pets capcut template, pet singing capcut template, ai dog singing capcut, dog shower concert, shower concert dog, dog singing in bathroom, ai app to make my dog sing, ai pet singing video, dog singing opera meme, dog singing ai video, how to make dog singing ai video, make my dog photo sing, make a picture of my dog sing, singing dog ai meme, dog hair dryer singing, dog singing hair dryer, dog in a towel singing, singing cat trend, pet singing filter, ai pet singing filter, singing dog in bathtub, dog singing in bathtub.
 
@@ -52,8 +52,8 @@ Everything runs in the browser. No editing app, no watermark.
 ### The one-tap way (no prompt to write)
 
 1. **Add your photo.** Press "Make yours" and add your dog. Take it with the camera or pick it from your library. Start here: https://www.makeviral.ai/templates/singing-dog-ai-trend/create
-2. **Press Generate.** The button shows the price. Kling 3.0 Omni puts your photos into the Singing Dog trend clip and copies it shot by shot for 10 seconds, with the reel's original song. You write no prompt.
-3. **Download or share.** The video is ready in a few minutes as a 9:16 MP4. Download it, share it from your phone, or find it later in My videos.
+2. **Press Generate.** The button shows the price. Seedance 2.5 puts your photos into the Singing Dog trend clip and copies it shot by shot for 10 seconds, with the reel's original song. You write no prompt.
+3. **Download or share.** The video is ready in up to several minutes as a 9:16 MP4. Download it, share it from your phone, or find it later in My videos.
 
 ### The by-hand way, with the exact prompts
 
@@ -61,21 +61,24 @@ The one-tap flow runs this prompt for you. The video prompt animates your own ph
 
 #### Variant: Dog
 
-Settings: 1 photo (your dog) · Kling 3.0 Omni · 10 s · 720p · 9:16 · no sound · 40 credits in one tap.
+Settings: 1 photo (your dog) · Seedance 2.5 · 10 s · 720p · 9:16 · no sound · 152 credits in one tap.
 
-1. The video prompt is filled in. Settings: Kling 3.0 Omni, 10 s, 720p, 9:16, sound off. The video prompt:
+1. The video prompt is filled in. Settings: Seedance 2.5, 10 s, 720p, 9:16, sound off. The video prompt:
 
    ```text
-   Replace the dog in the video with the pet in the first image. The grey short-haired dog with white flecks on its chest from the video must not appear in any frame. The pet that stands upright in the white bathtub with a white towel wrapped around its waist, holds the black hair dryer in its front paws, brushes its own head and sings with its mouth wide open is the pet in the first image, whether it is a dog, a cat or another animal: the same species and breed, face, eyes, ears, muzzle, fur colors, fur length, markings and size as in the first image. A furry friend that sings: the pet is the singer.
+   Recreate the reference video [Video 1] shot for shot: the same small bathroom with white tiles and a white bathtub, the same white towel wrapped around the waist, the same black hair dryer and blue hairbrush, the same warm light, the same fixed phone camera, close framing, timing, head moves and facial expressions. The ONLY change: the grey short-haired dog is now the pet in [Image 1].
 
-Timing, second by second, as in the original video:
-0-1 s: the pet holds the black hair dryer in its front paws, the warm air blows on its face, and it looks up at the dryer with its mouth half open.
-1-3 s: it closes its eyes and sings a big note, mouth wide open, like an opera singer.
-3-4.5 s: it lifts one front paw with a blue hairbrush, brushes the fur on top of its head, glances at the camera and keeps singing.
-4.5-8 s: it turns its face into the warm air of the hair dryer and sings with its eyes closed and its mouth wide open.
-8-10 s: it turns to the camera, lifts its head toward the ceiling and holds the last long note.
+The pet = the pet in [Image 1], in EVERY frame: the same species and breed, head shape, face, eyes, ears, muzzle, fur colors, fur length and markings as in [Image 1], with the natural body volume and proportions of that animal: never flattened, squashed, stretched or merged with anything, so its owner instantly recognizes it. Whether [Image 1] shows a dog, a cat or another animal, it stays that animal. Never drift back to the dog of the original video: NO grey coat and NO white chest flecks unless [Image 1] shows them.
 
-The pet keeps its own look from the first image in every frame, with the natural body volume and proportions of that animal: never flattened, squashed, stretched or merged with anything. The fur is freshly washed, a little damp, and moves in the warm air. The mouth moves like real singing: wide open on the long notes, closing a little between them. No grey coat and no white chest flecks unless the first image shows them. The white tiles, the bathtub, the towel, the hair dryer, the brush, the light and the camera stay as in the video. One pet only, one head, natural teeth and tongue. No new text, no logos, no watermark.
+A furry friend that sings: the pet stands upright in the tub, dries and brushes its own fur and sings like a big opera star. Matching the reference second by second:
+1. 0-1 s: it holds the hair dryer in its front paws and looks up into the warm air, mouth half open.
+2. 1-3 s: eyes closed, mouth wide open on a big note.
+3. 3-4.5 s: it brushes the fur on top of its head with the blue brush, glances at the camera, keeps singing.
+4. 4.5-8 s: it sings into the warm air with its eyes closed and its mouth wide open.
+5. 8-10 s: it turns to the camera, lifts its head toward the ceiling and holds the last long note.
+The mouth opens and closes exactly when the dog's mouth in [Video 1] does. The fur is freshly washed, a little damp, and moves in the air.
+
+Anatomy rules: one head only, one muzzle, natural teeth and tongue. No extra legs or paws. No text, no logos, no watermark, no extra animals.
    ```
 
 2. Press Generate, then download the 9:16 MP4.
@@ -84,20 +87,23 @@ One-tap version of this variant: https://www.makeviral.ai/templates/singing-dog-
 
 #### Variant: Cat
 
-Settings: 1 photo (your cat) · Kling 3.0 Omni · 10 s · 720p · 9:16 · no sound · 40 credits in one tap.
+Settings: 1 photo (your cat) · Seedance 2.5 · 10 s · 720p · 9:16 · no sound · 152 credits in one tap.
 
-1. The video prompt is filled in. Settings: Kling 3.0 Omni, 10 s, 720p, 9:16, sound off. The video prompt:
+1. The video prompt is filled in. Settings: Seedance 2.5, 10 s, 720p, 9:16, sound off. The video prompt:
 
    ```text
-   Replace the cat in the video with the pet in the first image. The orange-and-white long-haired cat from the video must not appear in any frame. The pet that stands upright in the bathroom with a white towel wrapped around its waist, holds the black hair dryer in one front paw, brushes the top of its head with a black hairbrush in the other and sings with its mouth wide open is the pet in the first image, whether it is a cat, a dog or another animal: the same species and breed, face, eyes, ears, muzzle, whiskers, fur colors, fur length, markings and size as in the first image. A furry friend that sings: the pet is the singer.
+   Recreate the reference video [Video 1] shot for shot: the same bathroom with grey tiles and a glass shower, the same white towel wrapped around the waist, the same black hair dryer and black hairbrush, the same warm light, the same fixed phone camera, close framing, timing, head moves and facial expressions. The ONLY change: the orange-and-white long-haired cat is now the pet in [Image 1].
 
-Timing, second by second, as in the original video:
-0-0.5 s: the pet squints in the warm air of the hair dryer, its mouth half open.
-0.5-6 s: it sings a big note with its eyes closed and its mouth wide open, like an opera singer, while it brushes the top of its head with the brush and blows it dry with the hair dryer.
-6-7 s: it opens its eyes for a moment and lifts the brush away.
-7-10 s: it faces the camera, spreads its front legs wide, lifts its head toward the ceiling and holds the last long note, the hair dryer still in one paw.
+The pet = the pet in [Image 1], in EVERY frame: the same species and breed, head shape, face, eyes, ears, muzzle, whiskers, fur colors, fur length and markings as in [Image 1], with the natural body volume and proportions of that animal: never flattened, squashed, stretched or merged with anything, so its owner instantly recognizes it. Whether [Image 1] shows a cat, a dog or another animal, it stays that animal. Never drift back to the cat of the original video: NO orange-and-white coat unless [Image 1] shows it.
 
-The pet keeps its own look from the first image in every frame, with the natural body volume and proportions of that animal: never flattened, squashed, stretched or merged with anything. The fur is freshly washed, fluffy, and moves in the warm air. The mouth moves like real singing: wide open on the long notes, closing a little between them. No orange-and-white coat unless the first image shows it. The grey tiles, the glass shower, the towel, the hair dryer, the brush, the light and the camera stay as in the video. One pet only, one head, natural teeth and tongue. No new text, no logos, no watermark.
+A furry friend that sings: the pet stands upright, dries and brushes its own fur and sings like a big opera star. Matching the reference second by second:
+1. 0-0.5 s: it squints in the warm air, mouth half open.
+2. 0.5-6 s: eyes closed, mouth wide open on a big note, the brush in one paw on top of its head, the hair dryer in the other.
+3. 6-7 s: it opens its eyes for a moment and lifts the brush away.
+4. 7-10 s: it faces the camera, spreads its front legs wide, lifts its head toward the ceiling and holds the last long note.
+The mouth opens and closes exactly when the cat's mouth in [Video 1] does. The fur is freshly washed, fluffy, and moves in the air.
+
+Anatomy rules: one head only, one muzzle, natural teeth and tongue. No extra legs or paws. No text, no logos, no watermark, no extra animals.
    ```
 
 2. Press Generate, then download the 9:16 MP4.
@@ -146,7 +152,7 @@ You pay per video in credits, and the create page shows the exact price on the G
 
 | Video model | Settings | Credits |
 | --- | --- | --- |
-| Kling 3.0 Omni (this template) | 10 s, 720p, copies the trend clip, one tap | 40 |
+| Seedance 2.5 (this template) | 10 s, 720p, copies the trend clip, one tap | 152 |
 
 Credits come with a plan; see [pricing](https://www.makeviral.ai/pricing). A failed video gives its credits back.
 
@@ -163,14 +169,11 @@ Both versions copy a real clip of the trend shot for shot, with your pet in it. 
 
 The result comes with the trend's own sound, so your singing dog sings the same song as every post of the trend. The mouth follows the clip, not each word, so it is a fun dog singing video, not exact lip sync.
 
-## Dog or cat, Standard or Best
+## Dog, cat or you
 
-**Dog** uses a dog clip of the trend and **Cat** uses a cat clip. The AI keeps your pet's own species, so a cat photo in the Dog version stays a cat: pick the one whose clip you like. Each version has two qualities:
+**Dog** uses a dog clip of the trend and **Cat** uses a cat clip. The AI keeps your pet's own species, so a cat photo in the Dog version stays a cat: pick the one whose clip you like. Top-quality AI video models edit the clip with your pet, and a run takes 5 to 15 minutes.
 
-- **Standard** edits the clip with your pet and is ready in a few minutes.
-- **Best** uses the model we use for most pet reel copies. It costs more and takes 5 to 15 minutes. Pick it when Standard brings the clip's grey dog or orange cat back, or gets your pet's markings wrong.
-
-**Human** puts you in the cat clip instead of a pet: you stand in the towel, blow-dry and brush your hair and sing the big note yourself, with the same sound. It has one quality and takes 5 to 15 minutes.
+**Human** puts you in the cat clip instead of a pet: you stand in the towel, blow-dry and brush your hair and sing the big note yourself, with the same sound. It also takes 5 to 15 minutes.
 
 The Generate button shows the exact credit price before you spend anything.
 
@@ -178,7 +181,7 @@ The Generate button shows the exact credit price before you spend anything.
 
 | Problem | Fix |
 |---|---|
-| The clip's grey dog or orange cat comes back | Use a sharp, close photo of your pet's face and run it again, or pick Best. |
+| The clip's grey dog or orange cat comes back | Use a sharp, close photo of your pet's face and run it again. |
 | The markings or the fur length look wrong | Use a photo that shows the chest and the front legs, in daylight, with no filter. |
 | The mouth does not match every note | The clip copies the mouth moves of the trend clip, not the song itself. That is how the trend's own posts look too. |
 | Two pets, or a mix of two | Upload a photo with one pet only. |
@@ -199,7 +202,7 @@ It is a TikTok trend from October 2026: an AI clip from one pet photo where your
 
 ### How do I make my dog sing with AI?
 
-Pick the Dog version, upload one photo of your dog and press Generate. You get a 10-second vertical video where your dog sings with the trend's sound. That is how to make my dog sing AI clips without editing: the photo is all you need, and you can make a picture of your dog sing in a few minutes.
+Pick the Dog version, upload one photo of your dog and press Generate. You get a 10-second vertical video where your dog sings with the trend's sound. That is how to make my dog sing AI clips without editing: the photo is all you need, and you can make a picture of your dog sing in one run.
 
 ### Is there an app to make my dog sing?
 
@@ -239,7 +242,7 @@ No. It is an AI video made from your photo, and your pet never has to touch a ha
 
 ### How long does it take, and what does it cost?
 
-Standard takes a few minutes and Best 5 to 15 minutes. The Generate button shows the exact credit price before you spend anything; Best costs more. If a run fails, the credits come back.
+A run takes 5 to 15 minutes. The Generate button shows the exact credit price before you spend anything. If a run fails, the credits come back.
 
 ## Other AI video templates and tools
 
@@ -252,15 +255,15 @@ Standard takes a few minutes and Best 5 to 15 minutes. The Generate button shows
 
 ## New AI video trends this week
 
-- [Tiger Fight AI: Beat the Tiger on CCTV](https://www.makeviral.ai/templates/cctv-tiger-fight-ai-trend): A security camera on a forest path. A tiger leaps out of the bushes, and you fight it and pin it to the ground. Add one photo of yourself or your pet, and the trend's phonk sound comes with it.
-- [The Office Parkour AI Trend: You Shout "Parkour!" in the Office](https://www.makeviral.ai/templates/the-office-parkour-ai-trend): Dive over the couch, land upside down and shout "Parkour!" into the camera, then jump off the reception counter while the crew leaps over the desks. The whole office parkour scene, 24 seconds, with its own shouts.
-- [Huell Money AI: The Breaking Bad Money Pile Scene, Starring You](https://www.makeviral.ai/templates/huell-money-ai-trend): A storage unit, a bed-size pile of cash, and you fall back onto it with your eyes closed while your friend tells you to quit it. Then they give in and lie down next to you. With the scene's own lines.
-- [Peaky Blinders Explosion Scene, Starring You](https://www.makeviral.ai/templates/peaky-blinders-explosion-ai-trend): A flat cap, a long black overcoat, a match at your lips. The red-brick manor blows up behind you and you walk slowly toward the camera through the smoke, never looking back. One photo, 15 seconds, with the clip's song.
-- [Mbappe Run vs Argentina AI: The Mbappe Sprint, Starring You](https://www.makeviral.ai/templates/mbappe-sprint-ai-trend): A sunny pitch, one long sprint with the ball, a defender in a striped shirt crashing into you, and you sitting on the grass complaining while the commentator shouts "It's a penalty!". In your own clothes. It is an AI video, not real match footage.
-- [Perfume Transition AI Trend: Spray, Flame, Gangster Look](https://www.makeviral.ai/templates/perfume-transition-ai-trend): Sniff the perfume, spray it at the camera, and a lighter turns the spray into a fireball. Add one photo, and you or your pet step out of the flame in a flat cap, dark sunglasses and a long magenta coat, with the trend's song.
+- [Kara Sevda AI Trend: Your AI Video with Celebrity Stars Kemal and Emir](https://www.makeviral.ai/templates/ai-video-with-celebrity): You film a night selfie, the camera swings to the Kemal look-alike in his navy suit, face to face with you, and the Emir look-alike walks in and rests his head on his shoulder, jealous. One photo is enough. It is an AI video with look-alikes, not a real meeting.
+- [Misanthropy Meme AI: You as the Horned Anime Side-Eye](https://www.makeviral.ai/templates/misanthropy-meme-ai-trend): Your photo becomes a hand-drawn anime character with small horns. It glances left and right on a gray screen, then the background floods red and it breaks into a slow, smug grin, twice, to the trend's laughing beat. One photo in, an 8-second vertical clip out.
+- [Ahh Almost Almost: Train Hard, Miss by an Inch, From One Photo](https://www.makeviral.ai/templates/almost-almost-ai-trend): "While they're out partying btw": you grind alone late at night. Then the big shot rolls around the rim and out, twice, as the sound groans "ahhh almost almost". One photo in, an 11-second clip with the trend's own sound out.
+- [If I Was ChatGPT Trend: Your Observe, Just Observe Mood Board](https://www.makeviral.ai/templates/if-i-was-chatgpt-trend): Add one photo. The AI looks at it, picks the city, season, flower, painting, animal and element that fit you, and puts them around your photo in one mood board with short labels.
+- [Davul Zurna Yapay Zeka: Dance and Sing in the Viral Warehouse Clip](https://www.makeviral.ai/templates/davul-zurna-ai-trend): You dance between a zurna player and a davul player in a big workshop, walk up to the camera, sing right into it and walk back with your arms up. One photo, three for the whole band, or your pet. 15 seconds, with the live davul and zurna.
+- [Come On Barbie Let's Go Party AI: Do the Barbie Girl Dance Trend From Two Photos](https://www.makeviral.ai/templates/barbie-girl-dance-ai-trend): You turn around, sway your hips, pump a fist on "ah ah ah yeah" and lean on each other, side by side, on the sped-up Barbie Girl beat. Add two photos and get a real couple's viral reel with your faces and the song.
 
 ## Make your own Singing Dog video
 
-Add one photo and press Generate. No prompt to write. 40 credits, charged once.
+Add one photo and press Generate. No prompt to write. 152 credits, charged once.
 
 [Make this video](https://www.makeviral.ai/templates/singing-dog-ai-trend/create)

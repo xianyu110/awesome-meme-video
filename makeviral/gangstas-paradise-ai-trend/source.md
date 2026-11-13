@@ -109,7 +109,7 @@ One-tap version of this variant: https://www.makeviral.ai/templates/gangstas-par
 
 #### Variant: Pet
 
-Settings: 1 photo (your pet, the whole body) · Kling 3.0 · 10 s · 1080p · 9:16 · with sound · 56 credits in one tap.
+Settings: 1 photo (your pet, the whole body) · Seedance 2.5 · 10 s · 720p · 9:16 · with sound · 128 credits in one tap.
 
 1. Open [AI Photo with this template](https://www.makeviral.ai/photo?template=gangstas-paradise-ai-trend&variant=pet) and add your photo (your pet, the whole body). The photo prompt is filled in:
 
@@ -118,7 +118,7 @@ Settings: 1 photo (your pet, the whole body) · Kling 3.0 · 10 s · 1080p · 9:
    ```
 
 2. Check the still before you spend credits on the video. Everything the video model does starts from that one frame.
-3. Press the film button on the still to open AI Video with the still as the first frame. Settings: Kling 3.0, 10 s, 1080p, 9:16, sound on. The video prompt:
+3. Press the film button on the still to open AI Video with the still as the first frame. Settings: Seedance 2.5, 10 s, 720p, 9:16, sound on. The video prompt:
 
    ```text
    A parody music video in a bright white sci-fi hangar. Keep the pet's face, fur colors, markings and body exactly as in the image. The pet stays upright on its hind legs and raps into the black microphone to a slow, dark beat: its mouth opens and closes in rhythm, it bobs its head, and its free front paw moves to the beat, then points at the camera. Behind it, the rows of white-armoured troopers sway in sync and sing as a deep choir, one gloved hand raised to the helmet. The camera slowly pushes in from a wide shot to a medium close-up of the pet. One continuous shot, no cuts. Audio: an original slow, dark hip-hop beat with a deep piano loop, a deep, wordless trooper choir and playful rap-like sounds in rhythm. No lyrics of any existing song. The troopers never take off their helmets. No extra limbs, no morphing, no text, no logos.
@@ -156,7 +156,7 @@ Credits come with a plan; see [pricing](https://www.makeviral.ai/pricing). A fai
 | **Solo** | 1 | You rap the verse, then step forward and sing the chorus yourself while the whole trooper choir sings behind you. | 15 s |
 | **Pet** | 1 | Your pet stands up on its hind legs with a microphone and raps while the troopers sway and sing. | 10 s |
 
-Duo and Solo are made straight from your photos by top-quality AI video models, including Seedance 2.5, with no in-between picture, so your faces stay close to the photos. Pet makes a picture of your pet in the hangar first, then the video; pick Best for the stronger video model. Every video is vertical 9:16. The exact price shows on the Generate button before you spend anything.
+Duo and Solo are made straight from your photos by top-quality AI video models, including Seedance 2.5, with no in-between picture, so your faces stay close to the photos. Pet makes a picture of your pet in the hangar first, then the video, at 720p. Every video is vertical 9:16. The exact price shows on the Generate button before you spend anything.
 
 ## The sound: an original beat and choir, not the song
 
@@ -244,12 +244,12 @@ Yes. MakeViral does not post your photos or the result anywhere or show them to 
 
 ## New AI video trends this week
 
-- [Tiger Fight AI: Beat the Tiger on CCTV](https://www.makeviral.ai/templates/cctv-tiger-fight-ai-trend): A security camera on a forest path. A tiger leaps out of the bushes, and you fight it and pin it to the ground. Add one photo of yourself or your pet, and the trend's phonk sound comes with it.
-- [The Office Parkour AI Trend: You Shout "Parkour!" in the Office](https://www.makeviral.ai/templates/the-office-parkour-ai-trend): Dive over the couch, land upside down and shout "Parkour!" into the camera, then jump off the reception counter while the crew leaps over the desks. The whole office parkour scene, 24 seconds, with its own shouts.
-- [Huell Money AI: The Breaking Bad Money Pile Scene, Starring You](https://www.makeviral.ai/templates/huell-money-ai-trend): A storage unit, a bed-size pile of cash, and you fall back onto it with your eyes closed while your friend tells you to quit it. Then they give in and lie down next to you. With the scene's own lines.
-- [Peaky Blinders Explosion Scene, Starring You](https://www.makeviral.ai/templates/peaky-blinders-explosion-ai-trend): A flat cap, a long black overcoat, a match at your lips. The red-brick manor blows up behind you and you walk slowly toward the camera through the smoke, never looking back. One photo, 15 seconds, with the clip's song.
-- [Mbappe Run vs Argentina AI: The Mbappe Sprint, Starring You](https://www.makeviral.ai/templates/mbappe-sprint-ai-trend): A sunny pitch, one long sprint with the ball, a defender in a striped shirt crashing into you, and you sitting on the grass complaining while the commentator shouts "It's a penalty!". In your own clothes. It is an AI video, not real match footage.
-- [Perfume Transition AI Trend: Spray, Flame, Gangster Look](https://www.makeviral.ai/templates/perfume-transition-ai-trend): Sniff the perfume, spray it at the camera, and a lighter turns the spray into a fireball. Add one photo, and you or your pet step out of the flame in a flat cap, dark sunglasses and a long magenta coat, with the trend's song.
+- [Kara Sevda AI Trend: Your AI Video with Celebrity Stars Kemal and Emir](https://www.makeviral.ai/templates/ai-video-with-celebrity): You film a night selfie, the camera swings to the Kemal look-alike in his navy suit, face to face with you, and the Emir look-alike walks in and rests his head on his shoulder, jealous. One photo is enough. It is an AI video with look-alikes, not a real meeting.
+- [Misanthropy Meme AI: You as the Horned Anime Side-Eye](https://www.makeviral.ai/templates/misanthropy-meme-ai-trend): Your photo becomes a hand-drawn anime character with small horns. It glances left and right on a gray screen, then the background floods red and it breaks into a slow, smug grin, twice, to the trend's laughing beat. One photo in, an 8-second vertical clip out.
+- [Ahh Almost Almost: Train Hard, Miss by an Inch, From One Photo](https://www.makeviral.ai/templates/almost-almost-ai-trend): "While they're out partying btw": you grind alone late at night. Then the big shot rolls around the rim and out, twice, as the sound groans "ahhh almost almost". One photo in, an 11-second clip with the trend's own sound out.
+- [If I Was ChatGPT Trend: Your Observe, Just Observe Mood Board](https://www.makeviral.ai/templates/if-i-was-chatgpt-trend): Add one photo. The AI looks at it, picks the city, season, flower, painting, animal and element that fit you, and puts them around your photo in one mood board with short labels.
+- [Davul Zurna Yapay Zeka: Dance and Sing in the Viral Warehouse Clip](https://www.makeviral.ai/templates/davul-zurna-ai-trend): You dance between a zurna player and a davul player in a big workshop, walk up to the camera, sing right into it and walk back with your arms up. One photo, three for the whole band, or your pet. 15 seconds, with the live davul and zurna.
+- [Come On Barbie Let's Go Party AI: Do the Barbie Girl Dance Trend From Two Photos](https://www.makeviral.ai/templates/barbie-girl-dance-ai-trend): You turn around, sway your hips, pump a fist on "ah ah ah yeah" and lean on each other, side by side, on the sped-up Barbie Girl beat. Add two photos and get a real couple's viral reel with your faces and the song.
 
 ## Make your own Gangsta's Paradise AI video
 

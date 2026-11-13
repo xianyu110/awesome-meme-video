@@ -39,20 +39,23 @@ It is a playful show-off joke for a meme: a smug, deadpan flex, quick and confid
 Audio: a heavy, bass-driven original trap beat with no lyrics, and the flutter and slap of the bills. The person never speaks. Exactly one performer, no other people, two hands with five fingers each, no extra limbs. No text, no subtitles, no logos, no watermark.
 ```
 
-### 2. 1. The video prompt is filled in. Settings: Kling 3.0 Omni, 14 s, 720p, 9:16, sound off. The video prompt (Pet)
+### 2. 1. The video prompt is filled in. Settings: Seedance 2.5, 14 s, 720p, 9:16, sound off. The video prompt (Pet)
 
 *Kind: video_prompt*
 
 ```text
-Replace the dog in the video with the pet in the first image. The dog that stands upright behind the dresser in the video must not appear in any frame. The pet that stands upright on its hind legs behind the dresser in the bedroom, hugs the long chain of cash bundles, throws it, rips the band off a bundle and fans the bills in front of its face is the pet in the first image, whether it is a dog, a cat or another animal: the same species and breed, face, eyes, ears, muzzle, fur colors, fur length, markings and size as in the first image, never the coat of the dog in the video.
+Recreate the reference video [Video 1] shot for shot: the same bedroom with the white ceiling fan, the made bed and the two lamps, the same dark dresser with the cash bundles close to the lens, the same low fixed phone camera, framing, timing, moves and expressions. The ONLY change: the dog that stands upright behind the dresser is now the pet in [Image 1].
 
-Timing, second by second, as in the original video:
-0-2.5 s: the pet hugs a large armful of banded stacks toward the camera, the long chain of bundles folded in its front legs, and pushes the stacks at the lens with one paw.
-2.5-4.5 s: it lifts the long chain of bundles high and drapes it over one shoulder, so it hangs down to the dresser.
-4.5-6 s: it tosses the pile toward the camera and out of the frame; loose bundles cover the front edge of the dresser.
-6-10 s: it puts its front paws on the dresser, picks up a single bundle, holds it up to the lens and passes it between its paws.
-10-14 s: it spreads the bills into a wide fan and peeks over the fan of bills that fills the frame, its eyes on the lens.
+The pet = the pet in [Image 1], in EVERY frame: the same species and breed, head shape, face, eyes, ears, muzzle, fur colors, fur length and markings as in [Image 1], with the natural body volume and proportions of that animal: never flattened, squashed, stretched or merged with anything, so its owner instantly recognizes it. Whether [Image 1] shows a dog, a cat or another animal, it stays that animal. Never drift back to the dog of the original video: NOT the coat of the dog in [Video 1].
 
-The pet keeps its own look from the first image in every frame, with the natural body volume and proportions of that animal: never flattened, squashed, stretched or merged with anything. Its paws hold the cash as in the video, with no human hands. The bedroom, the ceiling fan, the bed, the lamps, the dresser, the cash, the light and the low camera stay as in the video. One pet only, one head. No new text, no logos, no watermark, no readable writing on the bills.
+A cash flex, matching the reference second by second:
+1. 0-2.5 s: it hugs a large armful of banded stacks toward the camera and pushes them at the lens with one paw.
+2. 2.5-4.5 s: it drapes the long chain of bundles over one shoulder.
+3. 4.5-6 s: it tosses the pile toward the camera and out of the frame.
+4. 6-10 s: paws on the dresser, it picks up a single bundle and passes it between its paws.
+5. 10-14 s: it peeks over a fan of bills that fills the frame.
+The paws hold and throw the cash exactly when the dog's paws in [Video 1] do. The bills stay as in the video, with no readable writing.
+
+Anatomy rules: one head only, one muzzle. No extra legs or paws, no human hands. No text, no logos, no watermark, no extra animals.
 ```
 

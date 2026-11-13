@@ -24,7 +24,7 @@ The End is an AI trend where your dog or cat waving goodbye becomes a tiny movie
 Use the uploaded image as the base. 9:16 vertical photo, like a real phone photo taken from low down, at the height of a small dog. The pet from the uploaded image stands upright on its two hind legs in the middle of a wide, empty city road of smooth grey asphalt in bright, soft daylight, with a low curb and a sidewalk on the far side; along the sidewalk runs a white metal barrier fence hung with soft pink panels and a few plain pink banners; behind it, green trees and tall city apartment buildings. It stands a few steps from the camera, facing the camera, its front paws held up in front of its chest, ears up, looking into the lens with a cheeky, happy face. Its whole body is in view, from the ears to the hind paws, with its tail. Realistic photo with natural colors and a soft, shallow depth of field. Exactly one animal and no people, no cars. No clothes on the pet. No text, no logos, no watermark, no writing on the banners.
 ```
 
-### 2. 3. Press the film button on the still to open AI Video with the still as the first frame. Settings: Kling 3.0, 8 s, 1080p, 9:16, sound on. The video prompt
+### 2. 3. Press the film button on the still to open AI Video with the still as the first frame. Settings: Seedance 2.5, 8 s, 720p, 9:16, sound on. The video prompt
 
 *Kind: video_prompt*
 

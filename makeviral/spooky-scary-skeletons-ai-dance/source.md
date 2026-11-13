@@ -85,23 +85,23 @@ One-tap version of this variant: https://www.makeviral.ai/templates/spooky-scary
 
 #### Variant: Pet
 
-Settings: 1 photo (your pet) · Kling 3.0 Omni · 10 s · 720p · 9:16 · no sound · 40 credits in one tap.
+Settings: 1 photo (your pet) · Seedance 2.5 · 10 s · 720p · 9:16 · no sound · 152 credits in one tap.
 
-1. The video prompt is filled in. Settings: Kling 3.0 Omni, 10 s, 720p, 9:16, sound off. The video prompt:
+1. The video prompt is filled in. Settings: Seedance 2.5, 10 s, 720p, 9:16, sound off. The video prompt:
 
    ```text
-   Replace the vampire in the video with the pet in the first image. The man from the video must not appear in any frame. Keep the original actions, poses, body movements, camera movement, background, lighting and timing. Only replace the vampire and keep everything else unchanged.
+   Recreate the reference video [Video 1] shot for shot: the same huge glowing orange full moon in a deep red-orange sky, the black bats, the bare twisted trees, the gravestones on the dark hill and the glowing jack-o'-lanterns, the same low fixed camera, the same framing, timing and dance moves. The ONLY change: the vampire is now the pet in [Image 1], standing upright on its hind legs and doing the same dance.
 
-The pet stands upright on its hind legs in the vampire's place and does the same dance. It is the same species and breed as the pet in the first image, with the same face, eyes, ears, muzzle, fur colours, fur length and markings, its own furry paws and its own tail, with the natural body volume of that animal: never a human face, human hands or human skin. It wears the dramatic, flowing black vampire cape with a tall, pointed collar and deep burgundy-red lining from the video, spreading outward from the shoulders in elegant folds, and a black bow tie at the neck. No suit, no trousers and no shoes on the pet.
+The vampire = the pet in [Image 1], in EVERY frame: the same species and breed, face, eyes, ears, muzzle, fur colors, fur length and markings as in [Image 1], its own furry paws and its own tail, with the natural body volume and proportions of that animal: never flattened, squashed, stretched or merged with anything. Never a human face, human hands or human skin. Never drift back to the vampire's face. Only the head, the face, the ears and the fur change into the pet's: the pet keeps the costume of the video, the flowing black vampire cape with the tall pointed collar and the burgundy-red lining, and a black bow tie at the neck. No suit, no trousers and no shoes on the pet.
 
-Timing, second by second, as in the original video:
+The dance, matching the reference second by second:
 0-1.5 s: bounces on the spot with the front legs held out low to the sides, then stands tall.
 1.5-3.5 s: kicks one hind foot out to the side, then the other.
 3.5-5.5 s: throws both front legs out wide, so the cape opens like wings, and lifts the knees in turn.
 5.5-8.5 s: twists the hips left and right with quick little kicks.
 8.5-10 s: a hop, then one front paw thrown up high for the final pose.
 
-The orange full moon, the bats, the bare trees, the gravestones and the glowing jack-o'-lanterns stay exactly as in the video. The pet keeps its own look from the first image in every frame. One animal only and no person anywhere in the frame. No fangs, no blood, no text, no logos, no watermark, no extra people or animals.
+One animal only and no person anywhere in the frame. One head only, on the pet's shoulders. No fangs, no blood, no text, no logos, no watermark, no extra people or animals.
    ```
 
 2. Press Generate, then download the 9:16 MP4.
@@ -140,7 +140,7 @@ Both versions use the same 10-second vampire clip and the same Spooky Scary Skel
 | 5.5 to 8.5 s | Hip twists with quick little kicks. | Hip twists and kicks. |
 | 8.5 to 10 s | A hop, then one arm up high for the final pose. | A hop and the final pose. |
 
-**How it works:** an AI video model copies our AI vampire clip shot by shot (Seedance 2.5 for Human, Kling 3.0 Omni for Pet). It puts your face and hair, or your pet, in the dancer's place, and keeps the cape, the suit, the moves, the moon and the camera. The clip is 10 seconds at 720p, vertical, and the song goes back on after the run; you can turn it off on the result screen. The exact price shows on the Generate button before you spend anything. Every run is a new take, so results differ.
+**How it works:** an AI video model, Seedance 2.5, copies our AI vampire clip shot by shot in both versions. It puts your face and hair, or your pet, in the dancer's place, and keeps the cape, the suit, the moves, the moon and the camera. The clip is 10 seconds at 720p, vertical, and the song goes back on after the run; you can turn it off on the result screen. The exact price shows on the Generate button before you spend anything. Every run is a new take, so results differ.
 
 Every person in our clip is AI-made: the moves follow a dancer's take on the song, and the vampire, the moon and the scene are AI.
 
@@ -221,7 +221,7 @@ No. The video is made with AI from one still photo, and you never did these move
 
 ### Which AI model makes it, and what format is the video?
 
-Seedance 2.5 for the Human version and Kling 3.0 Omni for the Pet version: both put you or your pet into our AI vampire clip. You get a 10-second vertical MP4 at 720p with the song, for TikTok, Reels or Shorts, with no watermark.
+Seedance 2.5 makes both versions: it puts you or your pet into our AI vampire clip. You get a 10-second vertical MP4 at 720p with the song, for TikTok, Reels or Shorts, with no watermark.
 
 ## Other AI video templates and tools
 
@@ -235,12 +235,12 @@ Seedance 2.5 for the Human version and Kling 3.0 Omni for the Pet version: both 
 
 ## New AI video trends this week
 
-- [Tiger Fight AI: Beat the Tiger on CCTV](https://www.makeviral.ai/templates/cctv-tiger-fight-ai-trend): A security camera on a forest path. A tiger leaps out of the bushes, and you fight it and pin it to the ground. Add one photo of yourself or your pet, and the trend's phonk sound comes with it.
-- [The Office Parkour AI Trend: You Shout "Parkour!" in the Office](https://www.makeviral.ai/templates/the-office-parkour-ai-trend): Dive over the couch, land upside down and shout "Parkour!" into the camera, then jump off the reception counter while the crew leaps over the desks. The whole office parkour scene, 24 seconds, with its own shouts.
-- [Huell Money AI: The Breaking Bad Money Pile Scene, Starring You](https://www.makeviral.ai/templates/huell-money-ai-trend): A storage unit, a bed-size pile of cash, and you fall back onto it with your eyes closed while your friend tells you to quit it. Then they give in and lie down next to you. With the scene's own lines.
-- [Peaky Blinders Explosion Scene, Starring You](https://www.makeviral.ai/templates/peaky-blinders-explosion-ai-trend): A flat cap, a long black overcoat, a match at your lips. The red-brick manor blows up behind you and you walk slowly toward the camera through the smoke, never looking back. One photo, 15 seconds, with the clip's song.
-- [Mbappe Run vs Argentina AI: The Mbappe Sprint, Starring You](https://www.makeviral.ai/templates/mbappe-sprint-ai-trend): A sunny pitch, one long sprint with the ball, a defender in a striped shirt crashing into you, and you sitting on the grass complaining while the commentator shouts "It's a penalty!". In your own clothes. It is an AI video, not real match footage.
-- [Perfume Transition AI Trend: Spray, Flame, Gangster Look](https://www.makeviral.ai/templates/perfume-transition-ai-trend): Sniff the perfume, spray it at the camera, and a lighter turns the spray into a fireball. Add one photo, and you or your pet step out of the flame in a flat cap, dark sunglasses and a long magenta coat, with the trend's song.
+- [Kara Sevda AI Trend: Your AI Video with Celebrity Stars Kemal and Emir](https://www.makeviral.ai/templates/ai-video-with-celebrity): You film a night selfie, the camera swings to the Kemal look-alike in his navy suit, face to face with you, and the Emir look-alike walks in and rests his head on his shoulder, jealous. One photo is enough. It is an AI video with look-alikes, not a real meeting.
+- [Misanthropy Meme AI: You as the Horned Anime Side-Eye](https://www.makeviral.ai/templates/misanthropy-meme-ai-trend): Your photo becomes a hand-drawn anime character with small horns. It glances left and right on a gray screen, then the background floods red and it breaks into a slow, smug grin, twice, to the trend's laughing beat. One photo in, an 8-second vertical clip out.
+- [Ahh Almost Almost: Train Hard, Miss by an Inch, From One Photo](https://www.makeviral.ai/templates/almost-almost-ai-trend): "While they're out partying btw": you grind alone late at night. Then the big shot rolls around the rim and out, twice, as the sound groans "ahhh almost almost". One photo in, an 11-second clip with the trend's own sound out.
+- [If I Was ChatGPT Trend: Your Observe, Just Observe Mood Board](https://www.makeviral.ai/templates/if-i-was-chatgpt-trend): Add one photo. The AI looks at it, picks the city, season, flower, painting, animal and element that fit you, and puts them around your photo in one mood board with short labels.
+- [Davul Zurna Yapay Zeka: Dance and Sing in the Viral Warehouse Clip](https://www.makeviral.ai/templates/davul-zurna-ai-trend): You dance between a zurna player and a davul player in a big workshop, walk up to the camera, sing right into it and walk back with your arms up. One photo, three for the whole band, or your pet. 15 seconds, with the live davul and zurna.
+- [Come On Barbie Let's Go Party AI: Do the Barbie Girl Dance Trend From Two Photos](https://www.makeviral.ai/templates/barbie-girl-dance-ai-trend): You turn around, sway your hips, pump a fist on "ah ah ah yeah" and lean on each other, side by side, on the sped-up Barbie Girl beat. Add two photos and get a real couple's viral reel with your faces and the song.
 
 ## Make your own Spooky Scary Skeletons video
 

@@ -84,7 +84,7 @@ One-tap version of this variant: https://www.makeviral.ai/templates/twilight-bas
 
 #### Variant: Pet
 
-Settings: 1 photo (your pet, face and body clear) · Kling 3.0 · 10 s · 1080p · 9:16 · with sound · 56 credits in one tap.
+Settings: 1 photo (your pet, face and body clear) · Seedance 2.5 · 10 s · 720p · 9:16 · with sound · 128 credits in one tap.
 
 1. Open [AI Photo with this template](https://www.makeviral.ai/photo?template=twilight-baseball-scene-ai&variant=pet) and add your photo (your pet, face and body clear). The photo prompt is filled in:
 
@@ -95,7 +95,7 @@ Animal paws, never human hands. Exactly one animal, no person. No fangs, no red 
    ```
 
 2. Check the still before you spend credits on the video. Everything the video model does starts from that one frame.
-3. Press the film button on the still to open AI Video with the still as the first frame. Settings: Kling 3.0, 10 s, 1080p, 9:16, sound on. The video prompt:
+3. Press the film button on the still to open AI Video with the still as the first frame. Settings: Seedance 2.5, 10 s, 720p, 9:16, sound on. The video prompt:
 
    ```text
    Keep the pet's face, fur colors, markings, ears and size and the jersey exactly as in the image. A vampire pitcher in misty twilight, photorealistic, cinematic. 0-4 s: the pet, upright on its hind legs, rises into an impossibly graceful baseball wind-up, one hind leg high in the air, leans back, then snaps forward in supernatural speed to hurl the ball into the fog and lands in an elegant crouch. 4-6 s: thunder booms and lightning lights up the sky as a bat cracks somewhere in the mist and the ball flies high toward the pines. 6-10 s: the pet sprints across the wet grass at supernatural speed, leaps high between the pine trees, catches the ball in its front paws in mid-air, lands softly and looks at the camera. Audio: rolling thunder, wind in the pines, the crack of a bat, the pet's own happy sound. No music, no lyrics, no speech. Exactly one animal, never a person, animal paws, never human hands, the natural body volume of that animal, no morphing. Exactly one ball. No fangs. No text, no logos, no watermark.
@@ -145,11 +145,11 @@ Press "Create your own" and pick a version. Your photo stays when you switch.
 | | Human | Pet |
 |---|---|---|
 | Photo | You (or an adult friend) | Your cat or dog |
-| How it is made | Seedance 2.5 makes the video straight from your photo, with no in-between picture, so your face stays close to the photo | A picture of your pet in the jersey on the mound first, then the video: Kling 3.0 (Standard) or Seedance 2.5 (Best) |
+| How it is made | Seedance 2.5 makes the video straight from your photo, with no in-between picture, so your face stays close to the photo | A picture of your pet in the jersey on the mound first, then the video, made by Seedance 2.5 |
 | Length | 12 s | 10 s |
-| Frame | Vertical 9:16, 720p | Vertical 9:16, 1080p (Standard) or 720p (Best) |
+| Frame | Vertical 9:16, 720p | Vertical 9:16, 720p |
 | Sound | Thunder, wind, the bat and footsteps, no music | The same |
-| Price | Shown on the button | Lower than Human (Standard) |
+| Price | Shown on the button | Shown on the button |
 
 The exact price shows on the Generate button before you spend anything. You write no prompt, and the video waits in My videos when it is ready.
 
@@ -230,12 +230,12 @@ Human makes 12 seconds at 720p and Pet makes 10 seconds, both vertical 9:16, as 
 
 ## New AI video trends this week
 
-- [Tiger Fight AI: Beat the Tiger on CCTV](https://www.makeviral.ai/templates/cctv-tiger-fight-ai-trend): A security camera on a forest path. A tiger leaps out of the bushes, and you fight it and pin it to the ground. Add one photo of yourself or your pet, and the trend's phonk sound comes with it.
-- [The Office Parkour AI Trend: You Shout "Parkour!" in the Office](https://www.makeviral.ai/templates/the-office-parkour-ai-trend): Dive over the couch, land upside down and shout "Parkour!" into the camera, then jump off the reception counter while the crew leaps over the desks. The whole office parkour scene, 24 seconds, with its own shouts.
-- [Huell Money AI: The Breaking Bad Money Pile Scene, Starring You](https://www.makeviral.ai/templates/huell-money-ai-trend): A storage unit, a bed-size pile of cash, and you fall back onto it with your eyes closed while your friend tells you to quit it. Then they give in and lie down next to you. With the scene's own lines.
-- [Peaky Blinders Explosion Scene, Starring You](https://www.makeviral.ai/templates/peaky-blinders-explosion-ai-trend): A flat cap, a long black overcoat, a match at your lips. The red-brick manor blows up behind you and you walk slowly toward the camera through the smoke, never looking back. One photo, 15 seconds, with the clip's song.
-- [Mbappe Run vs Argentina AI: The Mbappe Sprint, Starring You](https://www.makeviral.ai/templates/mbappe-sprint-ai-trend): A sunny pitch, one long sprint with the ball, a defender in a striped shirt crashing into you, and you sitting on the grass complaining while the commentator shouts "It's a penalty!". In your own clothes. It is an AI video, not real match footage.
-- [Perfume Transition AI Trend: Spray, Flame, Gangster Look](https://www.makeviral.ai/templates/perfume-transition-ai-trend): Sniff the perfume, spray it at the camera, and a lighter turns the spray into a fireball. Add one photo, and you or your pet step out of the flame in a flat cap, dark sunglasses and a long magenta coat, with the trend's song.
+- [Kara Sevda AI Trend: Your AI Video with Celebrity Stars Kemal and Emir](https://www.makeviral.ai/templates/ai-video-with-celebrity): You film a night selfie, the camera swings to the Kemal look-alike in his navy suit, face to face with you, and the Emir look-alike walks in and rests his head on his shoulder, jealous. One photo is enough. It is an AI video with look-alikes, not a real meeting.
+- [Misanthropy Meme AI: You as the Horned Anime Side-Eye](https://www.makeviral.ai/templates/misanthropy-meme-ai-trend): Your photo becomes a hand-drawn anime character with small horns. It glances left and right on a gray screen, then the background floods red and it breaks into a slow, smug grin, twice, to the trend's laughing beat. One photo in, an 8-second vertical clip out.
+- [Ahh Almost Almost: Train Hard, Miss by an Inch, From One Photo](https://www.makeviral.ai/templates/almost-almost-ai-trend): "While they're out partying btw": you grind alone late at night. Then the big shot rolls around the rim and out, twice, as the sound groans "ahhh almost almost". One photo in, an 11-second clip with the trend's own sound out.
+- [If I Was ChatGPT Trend: Your Observe, Just Observe Mood Board](https://www.makeviral.ai/templates/if-i-was-chatgpt-trend): Add one photo. The AI looks at it, picks the city, season, flower, painting, animal and element that fit you, and puts them around your photo in one mood board with short labels.
+- [Davul Zurna Yapay Zeka: Dance and Sing in the Viral Warehouse Clip](https://www.makeviral.ai/templates/davul-zurna-ai-trend): You dance between a zurna player and a davul player in a big workshop, walk up to the camera, sing right into it and walk back with your arms up. One photo, three for the whole band, or your pet. 15 seconds, with the live davul and zurna.
+- [Come On Barbie Let's Go Party AI: Do the Barbie Girl Dance Trend From Two Photos](https://www.makeviral.ai/templates/barbie-girl-dance-ai-trend): You turn around, sway your hips, pump a fist on "ah ah ah yeah" and lean on each other, side by side, on the sped-up Barbie Girl beat. Add two photos and get a real couple's viral reel with your faces and the song.
 
 ## Make your own Twilight Baseball AI video
 

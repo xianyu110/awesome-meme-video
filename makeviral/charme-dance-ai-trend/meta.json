@@ -35,7 +35,7 @@
       "text": "Use the uploaded image as the base. 9:16 vertical photo, like a real phone photo taken at night from inside a dancing crowd, at the height of the pet. The pet from the uploaded image stands upright on its two hind legs in the middle of a packed open-air charme party at night in a historic old square of Rio de Janeiro: old two-storey colonial houses with painted walls and colorful murals, warm string lights across the street, bright white floodlights on tall poles, blue market tents. Adult partygoers in light summer clothes dance around it, some hold up their phones to film it. The pet faces the camera with a happy, cheeky face, its front paws held up in front of its chest as if it is about to dance. Its whole body is in view, from the ears to the hind paws, with its tail. Realistic photo with natural night colors and a soft, shallow depth of field. Exactly one animal. No clothes on the pet. No children. No text, no logos, no club shirts, no readable signs, no watermark."
     },
     {
-      "label": "3. Press the film button on the still to open AI Video with the still as the first frame. Settings: Kling 3.0, 10 s, 1080p, 9:16, sound on. The video prompt",
+      "label": "3. Press the film button on the still to open AI Video with the still as the first frame. Settings: Seedance 2.5, 10 s, 720p, 9:16, sound on. The video prompt",
       "variant": null,
       "kind": "video_prompt",
       "text": "One continuous vertical shot with no cuts, like a real phone video filmed at night from inside a dancing crowd, a little shaky. Keep the animal's face, fur, markings, tail and size, and the old square, the string lights, the floodlights, the tents and the crowd, exactly as in the image.\n0-3 s: the pet stands upright on its hind legs and starts to dance charme: small, smooth side steps to the left and to the right on the beat, its shoulders swaying and its front paws moving low in front of its chest, its head nodding.\n3-7 s: it glides two steps to one side and back, does a short cool turn to the side and turns back to the camera, still upright; the partygoers around it cheer, clap and film it with their phones.\n7-10 s: it steps close to the phone with a happy face, its face large and sharp, then keeps dancing the side steps as the crowd cheers.\nAudio: an original smooth old-school R&B and soul groove at a mid tempo, warm bass and soft keys, no known song and no lyrics; the crowd cheers, claps and chats. The pet never speaks. Exactly one animal, with real furry paws. No extra animals, no extra legs, no morphing. Every person is a generic adult, no children. No text, no logos, no club shirts, no readable signs, no watermark."
@@ -66,5 +66,5 @@
     "Make your own Charme Dance video"
   ],
   "prompt_count": 6,
-  "scraped_at": "2026-11-12"
+  "scraped_at": "2026-11-13"
 }

@@ -3,7 +3,7 @@
 > The AI doodle dance partner is a TikTok dance trend from October 2026.
 
 Canonical: https://www.makeviral.ai/templates/ai-doodle-dance-partner
-Updated: 2026-10-22
+Updated: 2026-11-12
 Published: 2026-10-22
 Author: MakeViral Team (https://www.makeviral.ai/about)
 Publisher: MakeViral (https://www.makeviral.ai)
@@ -12,11 +12,11 @@ The **AI doodle dance partner** is a TikTok dance trend from October 2026. A whi
 
 Add one photo. AI makes a 10-second clip: a white line-drawn manga copy of you leaps in next to you, you both laugh, and you dance the same moves side by side.
 
-Also called: Doodle twin, Sketch doppelganger, AI cartoon partner, Real person and manga clone dance, Tu yo anime, AI clone template.
+Also called: Doodle twin, Sketch doppelganger, AI cartoon partner, Real person and manga clone dance, Tu yo anime, AI clone template, Magic Double Dance, Soul Separation Manga Dance.
 
 **Make it now:** [Make this video](https://www.makeviral.ai/templates/ai-doodle-dance-partner/create). 1 photo · 10 s · 9:16 with sound · 126 credits, charged once · ready in a few minutes · no prompt to write.
 
-Keyword: ai doodle dance partner. Also answers: ai dance partner, cartoon sketch doppelganger, ai doodle trend, doodle twin dance, ai sketch dance trend, ai cartoon twin, dance with your anime self, manga clone dance, ai clone dance, ai doodle video, ai sketch trend, cartoon twin filter, anime twin dance, sketch doppelganger dance, ai dancing character trend, ai animation twin, comic book clone dance, ai twin effect, ai cartoon partner dance, baila con tu yo anime, baila con tu version de anime, how to make the ai doodle dance, ai doodle video generator, line art dance ai, white sketch dance trend.
+Keyword: ai doodle dance partner. Also answers: ai dance partner, magic double dance ai, cartoon sketch doppelganger, ai doodle trend, doodle twin dance, ai sketch dance trend, ai cartoon twin, dance with your anime self, manga clone dance, ai clone dance, ai doodle video, ai sketch trend, cartoon twin filter, anime twin dance, sketch doppelganger dance, ai dancing character trend, ai animation twin, comic book clone dance, ai twin effect, ai cartoon partner dance, baila con tu yo anime, baila con tu version de anime, how to make the ai doodle dance, ai doodle video generator, line art dance ai, white sketch dance trend, magic double dance ai trend, magical sketch duplicate dance, sketch duplicate dance, dance with your double, sketch double dance, manga dance template, danser avec son double.
 
 ## What is the AI Doodle Dance trend, and where did it start?
 
@@ -38,6 +38,9 @@ Made from the prompts on this page. The people and pets are AI-made, not real pe
 - **Example 1** (5 s, 9:16 MP4 with sound): A result of the trend from @xl5ajzoyy7's tutorial (18 October 2026, 12,400 views): her white line-drawn copy leaps in at a sunny brick wall, they wave at each other, then dance side by side. Our template makes the same kind of clip from your photo.
   - Video: https://www.makeviral.ai/media/templates/ai-doodle-dance-partner/original-main-v2.mp4
   - Poster: https://www.makeviral.ai/media/templates/ai-doodle-dance-partner/original-main-v1.jpg
+- **Example 2** (6 s, 9:16 MP4 with sound): The Magic Double Dance from @user4947097136093's tutorial (6 November 2026, 224,800 views): her gray pencil-sketch double steps in, a gold light turns it into a real second her, then they high-five and dance. The Comes to life version copies this clip with your photo.
+  - Video: https://www.makeviral.ai/media/templates/ai-doodle-dance-partner/original-life-v2.mp4
+  - Poster: https://www.makeviral.ai/media/templates/ai-doodle-dance-partner/original-life-v1.jpg
 
 ## How to make the AI Doodle Dance video on MakeViral
 
@@ -52,6 +55,8 @@ Everything runs in the browser. No editing app, no watermark.
 ### The by-hand way, with the exact prompts
 
 The one-tap flow runs this prompt for you. The video model takes your photo as a reference ([Image 1]) and films the scene straight from it, with no photo step first. AI Video takes one photo as the first frame, so it cannot run this prompt the same way: the prompt is here to read.
+
+#### Variant: You
 
 Settings: 1 photo (you, full body or knees up, face clear) · Seedance 2.5 · 10 s · 720p · 9:16 · with sound · 126 credits in one tap.
 
@@ -78,6 +83,37 @@ Exactly one real person and one drawn doodle twin, nobody else. The doodle twin 
 2. Press Generate, then download the 9:16 MP4.
 
 One-tap version of this variant: https://www.makeviral.ai/templates/ai-doodle-dance-partner/create
+
+#### Variant: Comes to life
+
+Settings: 1 photo (you, full body or knees up, face clear) · Seedance 2.5 · 6 s · 720p · 9:16 · no sound · 92 credits in one tap.
+
+1. The video prompt is filled in. Settings: Seedance 2.5, 6 s, 720p, 9:16, sound off. The video prompt:
+
+   ```text
+   Recreate the reference video [Video 1] shot for shot: the same sunny street with pastel row houses, the same fixed front-facing camera, full-body framing, timing, gestures and dance moves. The ONLY change: the woman on the left is now the person in [Image 1], and the figure on the right, first a pencil sketch and then a real copy, is the same person from [Image 1]. Use [Image 1] strictly as the identity reference. Do NOT blend identities or retain the original main character's identity.
+
+The main character = the person in [Image 1], in EVERY frame: copy the exact face from [Image 1] - face shape, eye color and eye shape, eyebrows, nose, mouth, skin tone, age, hair color, hair length and hairstyle, and any beard, moustache, glasses or freckles exactly as in the photo, and the clothes and shoes from [Image 1] (if it shows only the upper body, invent matching trousers or a skirt and plain shoes). Never morph, never drift back to the original woman's face. NO blue T-shirt and NO denim skirt unless [Image 1] shows them. If [Image 1] shows an animal, both characters are that animal standing upright, with its own face, fur and markings, never flattened or stretched.
+
+CHARACTER CONSISTENCY - EXTREMELY IMPORTANT: The main character on the left and the second character appearing as a sketch on the right MUST represent exactly the same person from [Image 1]. The ONLY difference is their rendering style: Left character: fully photorealistic. Right character: a life-sized monochrome gray pencil-sketch illustration. Do NOT independently redesign, reinterpret, simplify, or alter the sketch character.
+
+ACTION SEQUENCE - STRICTLY PRESERVE, in [Video 1]'s exact timing:
+0-0.5 s: a monochrome pencil-sketch version of the SAME character appears beside the main character, leans into the frame from the right and stops beside them.
+0.5-2.4 s: both stand side by side facing the camera; the main character glances at the double and smiles.
+2.4-3.1 s: a narrow warm gold edge begins to light the sketch at shoe level. A narrow gold sweep rises from the double's shoes to its shoulders, revealing colored clothing and a lifelike figure: a real copy of the person from [Image 1].
+3.1-4.6 s: both turn toward each other, laugh, raise their hands and perform the original greeting and high-five.
+4.6-6 s: both face the camera and perform the original synchronized dance: hands up by the cheeks, peace signs, a small bounce.
+
+CAMERA - UNCHANGED: Do NOT introduce camera movements, zooming, panning, reframing, or additional cuts. Keep the background, lighting and shadows.
+
+SKETCH-TO-REAL TRANSFORMATION - CRITICAL: Only the rendering style may change from monochrome pencil sketch to photorealistic live action; the identity stays the same. No dialogue throughout the entire video. No background music.
+
+Exactly two figures, both the person from [Image 1], nobody else. Each has one head, two arms and five fingers on each hand. No text, no captions, no logos, no stickers, no watermark.
+   ```
+
+2. Press Generate, then download the 9:16 MP4.
+
+One-tap version of this variant: https://www.makeviral.ai/templates/ai-doodle-dance-partner/create?variant=life
 
 ### Which photo works best?
 
@@ -113,6 +149,8 @@ You get a 10-second vertical video with sound, like the doodle twin dance clips 
 
 **How MakeViral makes it:** your photo goes straight to the best AI video models available, with no picture in between, so your face stays yours. The model makes its own bouncy beat. The create page shows the exact price on the Generate button.
 
+**New: Comes to life, the Magic Double Dance AI version.** It copies the trend's own clip: a gray pencil-sketch copy of you steps in, a gold light turns it into a real second you, and you high-five and dance together (6 seconds, with the clip's beat).
+
 ## Sunny wall or Night street
 
 Pick the place on the create page. Both cost the same and run 10 seconds.
@@ -145,6 +183,10 @@ If a run fails, the credits come back.
 ### What is the AI doodle dance partner trend?
 
 It is a TikTok dance trend from October 2026. A white line-drawn copy of you, drawn like a manga sketch with your hair and clothes, leaps into the frame and dances next to you. People call it the doodle twin dance, the cartoon sketch doppelganger, the manga clone dance or the AI cartoon partner.
+
+### What is the Magic Double Dance AI trend?
+
+It is the November 2026 take on this trend, and the Comes to life version makes it. A life-sized gray pencil-sketch copy of you steps in beside you, a warm gold light climbs from its shoes and turns it into a real second you, then you high-five and dance together. It started as a closed template in a phone video editor: the first big post, a French tutorial by @user4947097136093 on 6 November, has 224,800 views, and @kkira883's "Magic Double Dance" tutorial has 932,400. Other posts call it the soul separation manga dance or the magical sketch duplicate dance, a sketch double dance where you dance with your double (in French, danser avec son double), and people look for the manga dance template. Here you add one photo and get 6 seconds with the clip's beat.
 
 ### How do I make the AI doodle dance with my photo?
 
@@ -200,12 +242,12 @@ Yes. MakeViral does not post your photo or the video anywhere or show them to ot
 
 ## New AI video trends this week
 
-- [Tiger Fight AI: Beat the Tiger on CCTV](https://www.makeviral.ai/templates/cctv-tiger-fight-ai-trend): A security camera on a forest path. A tiger leaps out of the bushes, and you fight it and pin it to the ground. Add one photo of yourself or your pet, and the trend's phonk sound comes with it.
-- [The Office Parkour AI Trend: You Shout "Parkour!" in the Office](https://www.makeviral.ai/templates/the-office-parkour-ai-trend): Dive over the couch, land upside down and shout "Parkour!" into the camera, then jump off the reception counter while the crew leaps over the desks. The whole office parkour scene, 24 seconds, with its own shouts.
-- [Huell Money AI: The Breaking Bad Money Pile Scene, Starring You](https://www.makeviral.ai/templates/huell-money-ai-trend): A storage unit, a bed-size pile of cash, and you fall back onto it with your eyes closed while your friend tells you to quit it. Then they give in and lie down next to you. With the scene's own lines.
-- [Peaky Blinders Explosion Scene, Starring You](https://www.makeviral.ai/templates/peaky-blinders-explosion-ai-trend): A flat cap, a long black overcoat, a match at your lips. The red-brick manor blows up behind you and you walk slowly toward the camera through the smoke, never looking back. One photo, 15 seconds, with the clip's song.
-- [Mbappe Run vs Argentina AI: The Mbappe Sprint, Starring You](https://www.makeviral.ai/templates/mbappe-sprint-ai-trend): A sunny pitch, one long sprint with the ball, a defender in a striped shirt crashing into you, and you sitting on the grass complaining while the commentator shouts "It's a penalty!". In your own clothes. It is an AI video, not real match footage.
-- [Perfume Transition AI Trend: Spray, Flame, Gangster Look](https://www.makeviral.ai/templates/perfume-transition-ai-trend): Sniff the perfume, spray it at the camera, and a lighter turns the spray into a fireball. Add one photo, and you or your pet step out of the flame in a flat cap, dark sunglasses and a long magenta coat, with the trend's song.
+- [Kara Sevda AI Trend: Your AI Video with Celebrity Stars Kemal and Emir](https://www.makeviral.ai/templates/ai-video-with-celebrity): You film a night selfie, the camera swings to the Kemal look-alike in his navy suit, face to face with you, and the Emir look-alike walks in and rests his head on his shoulder, jealous. One photo is enough. It is an AI video with look-alikes, not a real meeting.
+- [Misanthropy Meme AI: You as the Horned Anime Side-Eye](https://www.makeviral.ai/templates/misanthropy-meme-ai-trend): Your photo becomes a hand-drawn anime character with small horns. It glances left and right on a gray screen, then the background floods red and it breaks into a slow, smug grin, twice, to the trend's laughing beat. One photo in, an 8-second vertical clip out.
+- [Ahh Almost Almost: Train Hard, Miss by an Inch, From One Photo](https://www.makeviral.ai/templates/almost-almost-ai-trend): "While they're out partying btw": you grind alone late at night. Then the big shot rolls around the rim and out, twice, as the sound groans "ahhh almost almost". One photo in, an 11-second clip with the trend's own sound out.
+- [If I Was ChatGPT Trend: Your Observe, Just Observe Mood Board](https://www.makeviral.ai/templates/if-i-was-chatgpt-trend): Add one photo. The AI looks at it, picks the city, season, flower, painting, animal and element that fit you, and puts them around your photo in one mood board with short labels.
+- [Davul Zurna Yapay Zeka: Dance and Sing in the Viral Warehouse Clip](https://www.makeviral.ai/templates/davul-zurna-ai-trend): You dance between a zurna player and a davul player in a big workshop, walk up to the camera, sing right into it and walk back with your arms up. One photo, three for the whole band, or your pet. 15 seconds, with the live davul and zurna.
+- [Come On Barbie Let's Go Party AI: Do the Barbie Girl Dance Trend From Two Photos](https://www.makeviral.ai/templates/barbie-girl-dance-ai-trend): You turn around, sway your hips, pump a fist on "ah ah ah yeah" and lean on each other, side by side, on the sped-up Barbie Girl beat. Add two photos and get a real couple's viral reel with your faces and the song.
 
 ## Make your own AI Doodle Dance video
 

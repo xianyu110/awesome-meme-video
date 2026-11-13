@@ -87,7 +87,7 @@ One-tap version of this variant: https://www.makeviral.ai/templates/the-one-who-
 
 #### Variant: Pet
 
-Settings: 1 photo (your pet, face clear) · Kling 3.0 · 10 s · 1080p · 9:16 · with sound · 56 credits in one tap.
+Settings: 1 photo (your pet, face clear) · Seedance 2.5 · 10 s · 720p · 9:16 · with sound · 128 credits in one tap.
 
 1. Open [AI Photo with this template](https://www.makeviral.ai/photo?template=the-one-who-knocks-ai-trend&variant=pet) and add your photo (your pet, face clear). The photo prompt is filled in:
 
@@ -96,7 +96,7 @@ Settings: 1 photo (your pet, face clear) · Kling 3.0 · 10 s · 1080p · 9:16 �
    ```
 
 2. Check the still before you spend credits on the video. Everything the video model does starts from that one frame.
-3. Press the film button on the still to open AI Video with the still as the first frame. Settings: Kling 3.0, 10 s, 1080p, 9:16, sound on. The video prompt:
+3. Press the film button on the still to open AI Video with the still as the first frame. Settings: Seedance 2.5, 10 s, 720p, 9:16, sound on. The video prompt:
 
    ```text
    Keep the animal's face, fur, markings and body, the doorway and the light exactly as in the image. A tense, slow-burn TV drama scene at night in one continuous shot: the camera pushes in very slowly from the whole pet to a close-up of its face. The pet stays still in the doorway and stares straight into the lens with a calm, cold look. Its mouth stays closed the whole time: it never talks; only the voice-over speaks. 0-2 s: silence, the cold stare. 2-5.5 s: a deep, calm, quiet voice-over says: "I am not in danger. I am the danger." 5.5-6.5 s: the pet slowly narrows its eyes. 6.5-9 s: the voice-over says slowly, each word weighted: "I am the one who knocks." 9-10 s: the pet tilts its head a little and holds the stare. Audio: only the voice-over, a new voice, never imitating a real actor's voice, each line said once; a faint room tone and a low, tense drone; no background music, no meow, no bark. Exactly one animal. No people, no extra limbs, no morphing, no cuts, no text, no subtitles, no logos.
@@ -147,7 +147,7 @@ It is 10 seconds, vertical 9:16, 720p, with sound. The voice is new and made by 
 | Photo | 1 photo of you | 1 photo of your cat or dog |
 | What you get | You say the lines, in sync, with a new AI voice | Your pet stares, mouth closed, while a deep voice-over says the lines |
 | How | Made straight from your photo, no picture step | A still of your pet in the doorway first, then the video |
-| Quality | One quality | Standard, or Best for a steadier face and stare |
+| Quality | One quality | One quality |
 | Length | 10 s, with sound | 10 s, with sound |
 
 MakeViral uses top-quality AI video models, including Seedance 2.5, so the face stays yours from the first frame to the last. You write no prompt. The exact price shows on the Generate button before you spend anything, and the video waits in My videos when it is ready.
@@ -162,7 +162,7 @@ MakeViral uses top-quality AI video models, including Seedance 2.5, so the face 
 | A line is cut, garbled or said twice | Run it again. Every run is a new take. |
 | You get a hat, a beard or glasses you do not have | Run it again. The prompt bans them unless your photo shows them. |
 | The listener turns round or talks | Run it again. The listener should stay a soft shape from behind. |
-| On the Pet version, the mouth moves | Run it again or pick Best. The pet should only stare. |
+| On the Pet version, the mouth moves | Run it again. The pet should only stare. |
 | The video model refuses the photo | Some photos get refused. The credits come back; try another photo. |
 
 The video is a joke. Never aim it at a real person as a threat, and keep the AI label on when you post.
@@ -201,7 +201,7 @@ Neither. The AI makes a new voice that fits your face. It is not a clone of your
 
 ### Can I make it with my dog or cat?
 
-Yes. Pick Pet and add one photo of your pet. It sits in the dim doorway and stares into the camera with its mouth closed, while a deep voice-over says the lines. Standard costs less; Best keeps the face and the stare steadier.
+Yes. Pick Pet and add one photo of your pet. It sits in the dim doorway and stares into the camera with its mouth closed, while a deep voice-over says the lines.
 
 ### How long is the video, and does it have sound?
 
@@ -225,12 +225,12 @@ Yes. Each video costs credits, and the create page shows the exact price on the 
 
 ## New AI video trends this week
 
-- [Tiger Fight AI: Beat the Tiger on CCTV](https://www.makeviral.ai/templates/cctv-tiger-fight-ai-trend): A security camera on a forest path. A tiger leaps out of the bushes, and you fight it and pin it to the ground. Add one photo of yourself or your pet, and the trend's phonk sound comes with it.
-- [The Office Parkour AI Trend: You Shout "Parkour!" in the Office](https://www.makeviral.ai/templates/the-office-parkour-ai-trend): Dive over the couch, land upside down and shout "Parkour!" into the camera, then jump off the reception counter while the crew leaps over the desks. The whole office parkour scene, 24 seconds, with its own shouts.
-- [Huell Money AI: The Breaking Bad Money Pile Scene, Starring You](https://www.makeviral.ai/templates/huell-money-ai-trend): A storage unit, a bed-size pile of cash, and you fall back onto it with your eyes closed while your friend tells you to quit it. Then they give in and lie down next to you. With the scene's own lines.
-- [Peaky Blinders Explosion Scene, Starring You](https://www.makeviral.ai/templates/peaky-blinders-explosion-ai-trend): A flat cap, a long black overcoat, a match at your lips. The red-brick manor blows up behind you and you walk slowly toward the camera through the smoke, never looking back. One photo, 15 seconds, with the clip's song.
-- [Mbappe Run vs Argentina AI: The Mbappe Sprint, Starring You](https://www.makeviral.ai/templates/mbappe-sprint-ai-trend): A sunny pitch, one long sprint with the ball, a defender in a striped shirt crashing into you, and you sitting on the grass complaining while the commentator shouts "It's a penalty!". In your own clothes. It is an AI video, not real match footage.
-- [Perfume Transition AI Trend: Spray, Flame, Gangster Look](https://www.makeviral.ai/templates/perfume-transition-ai-trend): Sniff the perfume, spray it at the camera, and a lighter turns the spray into a fireball. Add one photo, and you or your pet step out of the flame in a flat cap, dark sunglasses and a long magenta coat, with the trend's song.
+- [Kara Sevda AI Trend: Your AI Video with Celebrity Stars Kemal and Emir](https://www.makeviral.ai/templates/ai-video-with-celebrity): You film a night selfie, the camera swings to the Kemal look-alike in his navy suit, face to face with you, and the Emir look-alike walks in and rests his head on his shoulder, jealous. One photo is enough. It is an AI video with look-alikes, not a real meeting.
+- [Misanthropy Meme AI: You as the Horned Anime Side-Eye](https://www.makeviral.ai/templates/misanthropy-meme-ai-trend): Your photo becomes a hand-drawn anime character with small horns. It glances left and right on a gray screen, then the background floods red and it breaks into a slow, smug grin, twice, to the trend's laughing beat. One photo in, an 8-second vertical clip out.
+- [Ahh Almost Almost: Train Hard, Miss by an Inch, From One Photo](https://www.makeviral.ai/templates/almost-almost-ai-trend): "While they're out partying btw": you grind alone late at night. Then the big shot rolls around the rim and out, twice, as the sound groans "ahhh almost almost". One photo in, an 11-second clip with the trend's own sound out.
+- [If I Was ChatGPT Trend: Your Observe, Just Observe Mood Board](https://www.makeviral.ai/templates/if-i-was-chatgpt-trend): Add one photo. The AI looks at it, picks the city, season, flower, painting, animal and element that fit you, and puts them around your photo in one mood board with short labels.
+- [Davul Zurna Yapay Zeka: Dance and Sing in the Viral Warehouse Clip](https://www.makeviral.ai/templates/davul-zurna-ai-trend): You dance between a zurna player and a davul player in a big workshop, walk up to the camera, sing right into it and walk back with your arms up. One photo, three for the whole band, or your pet. 15 seconds, with the live davul and zurna.
+- [Come On Barbie Let's Go Party AI: Do the Barbie Girl Dance Trend From Two Photos](https://www.makeviral.ai/templates/barbie-girl-dance-ai-trend): You turn around, sway your hips, pump a fist on "ah ah ah yeah" and lean on each other, side by side, on the sped-up Barbie Girl beat. Add two photos and get a real couple's viral reel with your faces and the song.
 
 ## Make your own The One Who Knocks video
 

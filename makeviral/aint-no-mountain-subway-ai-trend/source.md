@@ -85,7 +85,7 @@ One-tap version of this variant: https://www.makeviral.ai/templates/aint-no-moun
 
 #### Variant: Pet
 
-Settings: 1 photo (your pet, face clear) · Kling 3.0 · 10 s · 1080p · 9:16 · with sound · 56 credits in one tap.
+Settings: 1 photo (your pet, face clear) · Seedance 2.5 · 10 s · 720p · 9:16 · with sound · 128 credits in one tap.
 
 1. Open [AI Photo with this template](https://www.makeviral.ai/photo?template=aint-no-mountain-subway-ai-trend&variant=pet) and add your photo (your pet, face clear). The photo prompt is filled in:
 
@@ -94,7 +94,7 @@ Settings: 1 photo (your pet, face clear) · Kling 3.0 · 10 s · 1080p · 9:16 �
    ```
 
 2. Check the still before you spend credits on the video. Everything the video model does starts from that one frame.
-3. Press the film button on the still to open AI Video with the still as the first frame. Settings: Kling 3.0, 10 s, 1080p, 9:16, sound on. The video prompt:
+3. Press the film button on the still to open AI Video with the still as the first frame. Settings: Seedance 2.5, 10 s, 720p, 9:16, sound on. The video prompt:
 
    ```text
    One continuous shot with no cuts, like a real phone video filmed close in front of the pet at its eye level, in a nearly empty subway car at night. Keep the animal's face, fur, markings and size, the white wired earphones in its ears and the subway car exactly as in the image. The train sways softly, subtle handheld camera movement.
@@ -139,7 +139,7 @@ One continuous selfie shot of about 10 seconds, vertical 9:16, in a clean, nearl
 | 4-7 s | One hand goes up high, fingers spread, the mouth wide open on a long note, swaying with the train. | One front paw goes up, the head tips back on a long note. |
 | 7-10 s | You open your eyes and sing the chorus straight at the camera, one hand reaching out, then a big smile. | It sings straight at the camera, then looks into the lens, very pleased. |
 
-**Human** is made straight from your photo, with no in-between picture, so the face stays yours. **Pet** first places your pet on the subway seat with the earphones in a picture, then turns that picture into the video. Both use top-quality AI video models, including Seedance 2.5; Pet also has a cheaper Standard option and a Best option. The exact price shows on the Generate button before you spend anything, and every run is a new take.
+**Human** is made straight from your photo, with no in-between picture, so the face stays yours. **Pet** first places your pet on the subway seat with the earphones in a picture, then turns that picture into the video. Both use top-quality AI video models, including Seedance 2.5. The exact price shows on the Generate button before you spend anything, and every run is a new take.
 
 ## Which sound goes with the subway singing clip?
 
@@ -153,7 +153,7 @@ To post it with the song, pick "Ain't No Mountain High Enough" in the TikTok or 
 
 Yes. Pick Pet and add one photo of your dog or cat. Your pet sits on the bench seat in the empty car with white earphones in its ears and sings its heart out: long, soulful howls from a dog, long sung meows from a cat, eyes closed and one paw up. It is the singing pets side of the trend: an AI dog singing or AI cat singing clip. People search "make my dog sing" for exactly this; no real dog sings on cue, but this one does.
 
-Pick Standard for the lower price or Best for the stronger video model; both use the same picture of your pet on the seat first. For more pet singing, try the [singing dog](https://www.makeviral.ai/templates/singing-dog-ai-trend) or [I Wanna Love You](https://www.makeviral.ai/templates/i-wanna-love-you-ai-pet) templates.
+It makes a picture of your pet on the seat first, then turns it into the video. For more pet singing, try the [singing dog](https://www.makeviral.ai/templates/singing-dog-ai-trend) or [I Wanna Love You](https://www.makeviral.ai/templates/i-wanna-love-you-ai-pet) templates.
 
 ## What goes wrong, and how do you fix it?
 
@@ -162,7 +162,7 @@ Pick Standard for the lower price or Best for the stronger video model; both use
 | The face looks less like you with the eyes closed or the head tipped back | Use a sharp, front-facing photo from the chest up in good light. Run it again: every take is new. |
 | A hand has odd fingers on the raised hand | Run it again; a photo with your hands out of the frame helps. |
 | A second passenger shows up in the car | The prompt asks for an empty car. Run it again. |
-| The earphones are missing on your pet | Pick Best, or run it again with a photo where both ears are in view. |
+| The earphones are missing on your pet | Run it again with a photo where both ears are in view. |
 | The singing does not match the song you add | The clip sings its own chorus; it is close to the beat but not exact lip sync. Turn the clip's sound down when you post with the song. |
 | The video model refuses the photo | Some photos get refused. The credits come back; try another photo. |
 
@@ -202,7 +202,7 @@ No, your clip is AI-made from your photo: the subway car, the earphones, the mov
 
 ### Which AI models make the video?
 
-Top-quality AI video models, including Seedance 2.5. Human is made straight from your photo; Pet first makes a picture of your pet on the subway seat with the earphones and then turns it into video, with a Standard and a Best option. The backend picks the best model available for each run.
+Top-quality AI video models, including Seedance 2.5. Human is made straight from your photo; Pet first makes a picture of your pet on the subway seat with the earphones and then turns it into video. The backend picks the best model available for each run.
 
 ### What prompt does the ain't no mountain high enough ai trend use?
 
@@ -210,7 +210,7 @@ No creator has shared a prompt for it. We started from the prompt one AI templat
 
 ### How long is the video and what format is it?
 
-About 10 seconds, vertical 9:16, as an MP4 with sound and no watermark. Human comes at 720p; Pet comes at 1080p on Standard and 720p on Best.
+About 10 seconds, vertical 9:16, as an MP4 with sound and no watermark. Human and Pet both come at 720p.
 
 ## Other AI video templates and tools
 
@@ -224,12 +224,12 @@ About 10 seconds, vertical 9:16, as an MP4 with sound and no watermark. Human co
 
 ## New AI video trends this week
 
-- [Tiger Fight AI: Beat the Tiger on CCTV](https://www.makeviral.ai/templates/cctv-tiger-fight-ai-trend): A security camera on a forest path. A tiger leaps out of the bushes, and you fight it and pin it to the ground. Add one photo of yourself or your pet, and the trend's phonk sound comes with it.
-- [The Office Parkour AI Trend: You Shout "Parkour!" in the Office](https://www.makeviral.ai/templates/the-office-parkour-ai-trend): Dive over the couch, land upside down and shout "Parkour!" into the camera, then jump off the reception counter while the crew leaps over the desks. The whole office parkour scene, 24 seconds, with its own shouts.
-- [Huell Money AI: The Breaking Bad Money Pile Scene, Starring You](https://www.makeviral.ai/templates/huell-money-ai-trend): A storage unit, a bed-size pile of cash, and you fall back onto it with your eyes closed while your friend tells you to quit it. Then they give in and lie down next to you. With the scene's own lines.
-- [Peaky Blinders Explosion Scene, Starring You](https://www.makeviral.ai/templates/peaky-blinders-explosion-ai-trend): A flat cap, a long black overcoat, a match at your lips. The red-brick manor blows up behind you and you walk slowly toward the camera through the smoke, never looking back. One photo, 15 seconds, with the clip's song.
-- [Mbappe Run vs Argentina AI: The Mbappe Sprint, Starring You](https://www.makeviral.ai/templates/mbappe-sprint-ai-trend): A sunny pitch, one long sprint with the ball, a defender in a striped shirt crashing into you, and you sitting on the grass complaining while the commentator shouts "It's a penalty!". In your own clothes. It is an AI video, not real match footage.
-- [Perfume Transition AI Trend: Spray, Flame, Gangster Look](https://www.makeviral.ai/templates/perfume-transition-ai-trend): Sniff the perfume, spray it at the camera, and a lighter turns the spray into a fireball. Add one photo, and you or your pet step out of the flame in a flat cap, dark sunglasses and a long magenta coat, with the trend's song.
+- [Kara Sevda AI Trend: Your AI Video with Celebrity Stars Kemal and Emir](https://www.makeviral.ai/templates/ai-video-with-celebrity): You film a night selfie, the camera swings to the Kemal look-alike in his navy suit, face to face with you, and the Emir look-alike walks in and rests his head on his shoulder, jealous. One photo is enough. It is an AI video with look-alikes, not a real meeting.
+- [Misanthropy Meme AI: You as the Horned Anime Side-Eye](https://www.makeviral.ai/templates/misanthropy-meme-ai-trend): Your photo becomes a hand-drawn anime character with small horns. It glances left and right on a gray screen, then the background floods red and it breaks into a slow, smug grin, twice, to the trend's laughing beat. One photo in, an 8-second vertical clip out.
+- [Ahh Almost Almost: Train Hard, Miss by an Inch, From One Photo](https://www.makeviral.ai/templates/almost-almost-ai-trend): "While they're out partying btw": you grind alone late at night. Then the big shot rolls around the rim and out, twice, as the sound groans "ahhh almost almost". One photo in, an 11-second clip with the trend's own sound out.
+- [If I Was ChatGPT Trend: Your Observe, Just Observe Mood Board](https://www.makeviral.ai/templates/if-i-was-chatgpt-trend): Add one photo. The AI looks at it, picks the city, season, flower, painting, animal and element that fit you, and puts them around your photo in one mood board with short labels.
+- [Davul Zurna Yapay Zeka: Dance and Sing in the Viral Warehouse Clip](https://www.makeviral.ai/templates/davul-zurna-ai-trend): You dance between a zurna player and a davul player in a big workshop, walk up to the camera, sing right into it and walk back with your arms up. One photo, three for the whole band, or your pet. 15 seconds, with the live davul and zurna.
+- [Come On Barbie Let's Go Party AI: Do the Barbie Girl Dance Trend From Two Photos](https://www.makeviral.ai/templates/barbie-girl-dance-ai-trend): You turn around, sway your hips, pump a fist on "ah ah ah yeah" and lean on each other, side by side, on the sped-up Barbie Girl beat. Add two photos and get a real couple's viral reel with your faces and the song.
 
 ## Make your own Ain't No Mountain video
 

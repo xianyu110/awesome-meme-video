@@ -28,7 +28,7 @@ Photorealistic, like a real video filmed at home, not a cartoon, not CGI. Exactl
 Audio: a light, playful plucked tune, a soft whoosh while the line passes, and one small happy seal bark near the end. No voice, no talking.
 ```
 
-### 2. 2. The video prompt is filled in. Settings: Kling 3.0, 8 s, 1080p, 9:16, sound on. The video prompt (Pet)
+### 2. 2. The video prompt is filled in. Settings: Seedance 2.5, 8 s, 720p, 9:16, sound on. The video prompt (Pet)
 
 *Kind: video_prompt*
 

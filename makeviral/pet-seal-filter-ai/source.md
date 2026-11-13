@@ -79,10 +79,10 @@ One-tap version of this variant: https://www.makeviral.ai/templates/pet-seal-fil
 
 #### Variant: Pet
 
-Settings: 1 photo (your pet, whole body) · Kling 3.0 · 8 s · 1080p · 9:16 · with sound · 44 credits in one tap.
+Settings: 1 photo (your pet, whole body) · Seedance 2.5 · 8 s · 720p · 9:16 · with sound · 101 credits in one tap.
 
 1. Open [AI Video with this template](https://www.makeviral.ai/video/ai?template=pet-seal-filter-ai&variant=pet) and add your pet, whole body as the first frame.
-2. The video prompt is filled in. Settings: Kling 3.0, 8 s, 1080p, 9:16, sound on. The video prompt:
+2. The video prompt is filled in. Settings: Seedance 2.5, 8 s, 720p, 9:16, sound on. The video prompt:
 
    ```text
    Use the photo as the first frame and keep everything in it exactly as photographed: the same animal, the same room, furniture, floor and light, and the same camera angle. A real vertical 9:16 phone video from a phone that does not move, one continuous take, no zoom and no cuts.
@@ -138,13 +138,14 @@ The clip is 8 seconds long, vertical 9:16, as an MP4 file. It comes with a light
 
 Your photo is the first frame of the video, like in the CapCut seal filter. A video model brings it to life and makes the sweep and the seal body in one take, so your real room stays as it is.
 
-| | Standard (default) | Best |
+| | Best | Standard |
 |---|---|---|
-| Video model | One of the best AI video models available | A stronger model, including Seedance 2.5 |
+| Versions | Pet (its only setting) and Human | Human only (the default there) |
+| Video model | A stronger model, including Seedance 2.5 | One of the best AI video models available |
 | Length | 8 s | 8 s |
-| Frame | Vertical 9:16, 1080p | Vertical 9:16, 720p |
+| Frame | Vertical 9:16, 720p | Vertical 9:16, 1080p |
 | Sound | A light, playful sound, no voice | The same |
-| Price | Lower | Higher |
+| Price | Higher | Lower |
 
 The exact price shows on the Generate button before you spend anything, and the video waits in My videos when it is ready. You write no prompt.
 
@@ -155,9 +156,9 @@ The exact price shows on the Generate button before you spend anything, and the 
 | Problem | Fix |
 |---|---|
 | The pet changes slowly instead of with a sweeping line | Video models sometimes melt the body into the seal instead of wiping it. The result is still a seal; run it again if you want the line. |
-| The face looks less like your pet | Use a sharper photo in daylight, with the face turned to the camera, or pick Best. |
+| The face looks less like your pet | Use a sharper photo in daylight, with the face turned to the camera. |
 | The seal still has paws or legs | Run it again. A photo where the pet sits or lies low helps. |
-| The seal has a different color from your pet | Run it again, or pick Best. A photo with clear colors and good light helps most. |
+| The seal has a different color from your pet | Run it again. A photo with clear colors and good light helps most. |
 | The room changes, or the clip cuts | The prompt asks for one still shot in your own room. Run it again. |
 | The video model refuses the photo | Some photos get refused. The credits come back; try another photo. |
 
@@ -193,7 +194,7 @@ Yes. The seal filter for cats is one of the biggest parts of the trend: "born to
 
 ### Is the seal filter on CapCut?
 
-Yes, the seal filter capcut template is where the trend started: a one-photo AI template made by a template account in June 2026, and a newer version in September. On MakeViral you get the same seal filter template effect on the web, with a Standard and a Best quality to choose from.
+Yes, the seal filter capcut template is where the trend started: a one-photo AI template made by a template account in June 2026, and a newer version in September. On MakeViral you get the same seal filter template effect on the web, with no app to install.
 
 ### Is there a seal filter on Instagram?
 
@@ -209,15 +210,15 @@ Yes. Pick Human and add one photo of yourself, waist up and sitting. A line swee
 
 ### How long is the seal filter video, and does it have sound?
 
-8 seconds, vertical 9:16, as an MP4 file: 1080p with Standard, 720p with Best. It has a light, playful sound and a soft whoosh. The TikTok trend sound is not on it: add it in the TikTok app when you post.
+8 seconds, vertical 9:16, as an MP4 file: 720p for Pet, and for Human 1080p with Standard or 720p with Best. It has a light, playful sound and a soft whoosh. The TikTok trend sound is not on it: add it in the TikTok app when you post.
 
 ### Why does my pet look a little different as a seal?
 
-The model rebuilds your pet from one photo, so a dark, blurry or cropped photo leaves it guessing. A sharp, full-body photo in daylight helps most, and Best keeps the face a little closer. Every run is different, so a second run can come out closer.
+The model rebuilds your pet from one photo, so a dark, blurry or cropped photo leaves it guessing. A sharp, full-body photo in daylight helps most. Every run is different, so a second run can come out closer.
 
 ### Does the seal filter cost credits?
 
-Yes. Each video costs credits, and the create page shows the exact price on the Generate button before you spend anything. Standard costs less than Best. If a video fails, the credits come back.
+Yes. Each video costs credits, and the create page shows the exact price on the Generate button before you spend anything. Pet has one setting. On Human, Standard costs less than Best. If a video fails, the credits come back.
 
 ### Can I turn my dog into a seal photo instead of a video?
 
@@ -238,12 +239,12 @@ Both are names for the same trend: a dog seal meme shows a dog that looks like a
 
 ## New AI video trends this week
 
-- [Tiger Fight AI: Beat the Tiger on CCTV](https://www.makeviral.ai/templates/cctv-tiger-fight-ai-trend): A security camera on a forest path. A tiger leaps out of the bushes, and you fight it and pin it to the ground. Add one photo of yourself or your pet, and the trend's phonk sound comes with it.
-- [The Office Parkour AI Trend: You Shout "Parkour!" in the Office](https://www.makeviral.ai/templates/the-office-parkour-ai-trend): Dive over the couch, land upside down and shout "Parkour!" into the camera, then jump off the reception counter while the crew leaps over the desks. The whole office parkour scene, 24 seconds, with its own shouts.
-- [Huell Money AI: The Breaking Bad Money Pile Scene, Starring You](https://www.makeviral.ai/templates/huell-money-ai-trend): A storage unit, a bed-size pile of cash, and you fall back onto it with your eyes closed while your friend tells you to quit it. Then they give in and lie down next to you. With the scene's own lines.
-- [Peaky Blinders Explosion Scene, Starring You](https://www.makeviral.ai/templates/peaky-blinders-explosion-ai-trend): A flat cap, a long black overcoat, a match at your lips. The red-brick manor blows up behind you and you walk slowly toward the camera through the smoke, never looking back. One photo, 15 seconds, with the clip's song.
-- [Mbappe Run vs Argentina AI: The Mbappe Sprint, Starring You](https://www.makeviral.ai/templates/mbappe-sprint-ai-trend): A sunny pitch, one long sprint with the ball, a defender in a striped shirt crashing into you, and you sitting on the grass complaining while the commentator shouts "It's a penalty!". In your own clothes. It is an AI video, not real match footage.
-- [Perfume Transition AI Trend: Spray, Flame, Gangster Look](https://www.makeviral.ai/templates/perfume-transition-ai-trend): Sniff the perfume, spray it at the camera, and a lighter turns the spray into a fireball. Add one photo, and you or your pet step out of the flame in a flat cap, dark sunglasses and a long magenta coat, with the trend's song.
+- [Kara Sevda AI Trend: Your AI Video with Celebrity Stars Kemal and Emir](https://www.makeviral.ai/templates/ai-video-with-celebrity): You film a night selfie, the camera swings to the Kemal look-alike in his navy suit, face to face with you, and the Emir look-alike walks in and rests his head on his shoulder, jealous. One photo is enough. It is an AI video with look-alikes, not a real meeting.
+- [Misanthropy Meme AI: You as the Horned Anime Side-Eye](https://www.makeviral.ai/templates/misanthropy-meme-ai-trend): Your photo becomes a hand-drawn anime character with small horns. It glances left and right on a gray screen, then the background floods red and it breaks into a slow, smug grin, twice, to the trend's laughing beat. One photo in, an 8-second vertical clip out.
+- [Ahh Almost Almost: Train Hard, Miss by an Inch, From One Photo](https://www.makeviral.ai/templates/almost-almost-ai-trend): "While they're out partying btw": you grind alone late at night. Then the big shot rolls around the rim and out, twice, as the sound groans "ahhh almost almost". One photo in, an 11-second clip with the trend's own sound out.
+- [If I Was ChatGPT Trend: Your Observe, Just Observe Mood Board](https://www.makeviral.ai/templates/if-i-was-chatgpt-trend): Add one photo. The AI looks at it, picks the city, season, flower, painting, animal and element that fit you, and puts them around your photo in one mood board with short labels.
+- [Davul Zurna Yapay Zeka: Dance and Sing in the Viral Warehouse Clip](https://www.makeviral.ai/templates/davul-zurna-ai-trend): You dance between a zurna player and a davul player in a big workshop, walk up to the camera, sing right into it and walk back with your arms up. One photo, three for the whole band, or your pet. 15 seconds, with the live davul and zurna.
+- [Come On Barbie Let's Go Party AI: Do the Barbie Girl Dance Trend From Two Photos](https://www.makeviral.ai/templates/barbie-girl-dance-ai-trend): You turn around, sway your hips, pump a fist on "ah ah ah yeah" and lean on each other, side by side, on the sped-up Barbie Girl beat. Add two photos and get a real couple's viral reel with your faces and the song.
 
 ## Make your own Seal Filter video
 

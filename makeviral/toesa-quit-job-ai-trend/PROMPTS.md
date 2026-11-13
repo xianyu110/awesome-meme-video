@@ -86,7 +86,7 @@ Audio: keyboard clicks and a quiet office hum, then an original bright, bouncy K
 Use the uploaded image as the base. 9:16 vertical photo, like a real phone photo taken in an office. The pet from the uploaded image sits upright on an office chair at a white office desk with a computer monitor and a keyboard. It wears a tiny navy necktie with a small white shirt collar, and a plain white ID badge on a lanyard hangs on its chest: a blank card with no writing and no photo. It looks at the camera with a cheeky, done-with-work face, one front paw on the desk next to the keyboard. Its head and front body are in full view, with its own natural size and proportions. Behind it: an ordinary open-plan office with desks, potted plants and big windows with blinds, slightly out of focus. Realistic photo with soft office light. Exactly one animal. No people. No text, no logos, no company name, no readable screen, no watermark.
 ```
 
-### 5. 3. Press the film button on the still to open AI Video with the still as the first frame. Settings: Kling 3.0, 10 s, 1080p, 9:16, sound on. The video prompt
+### 5. 3. Press the film button on the still to open AI Video with the still as the first frame. Settings: Seedance 2.5, 10 s, 720p, 9:16, sound on. The video prompt
 
 *Kind: video_prompt*
 

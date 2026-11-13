@@ -17,12 +17,24 @@ The Burning Bridges AI trend puts you or your pet in place of Drake in the party
 
 ## Prompts
 
-### 1. 1. The video prompt is filled in. Settings: Seedance 2.0 Mini, 15 s, 720p, 9:16, sound off. The video prompt (Human)
+### 1. 1. The video prompt is filled in. Settings: Seedance 2.5, 15 s, 720p, 9:16, sound off. The video prompt (Human)
 
 *Kind: video_prompt*
 
 ```text
-[Video 1] is a motion guide only. Copy its camera moves, timing and actions, the handheld phone camera, and the warm dinner party room with crystal chandeliers, dark curtains, long tables with white tablecloths and red cups. Do NOT copy the people in [Video 1]: not their faces, hair, glasses, skin tone or clothes. Replace all of them. The one in front of the camera the whole time, who raps along with a silver metal cup in one hand, points at the camera and at the friends, then puts one hand flat over the eyes like a visor and looks around the room, is the one in [Image 1]. Keep the face, hair, skin tone, body and outfit from [Image 1] in every shot, with no glasses unless [Image 1] shows glasses and no plaid shirt unless [Image 1] shows one. Keep any moustache or beard exactly as in [Image 1], and add none when [Image 1] shows none. Keep the face shape, jaw, nose and age of [Image 1]: never a younger, slimmer or smoother face. The party guests around them are new people, not the ones in [Video 1]: young adults in casual clothes who cheer, point back and copy the hand-over-the-eyes move. Photorealistic, like a real phone video at a party at night, in warm light. One continuous shot. No text, no subtitles, no logos, no watermark, no extra limbs.
+Recreate the reference video [Video 1] shot for shot: the same dinner party at night in a room with crystal chandeliers, dark curtains, long tables with white tablecloths and red cups, the same friends around with their own faces, the same handheld phone camera in one continuous take, the same framing, timing and moves. The rapper's mouth moves with the words exactly like in the video. The ONLY change: the young man in the black-and-white plaid shirt over a black T-shirt, with glasses, who raps to the camera with the silver metal cup is now the person in [Image 1]. [Image 1] is the sole reference for the rapper; [Video 1] is for the moves, the mouth, the guests and the camera only.
+
+The rapper = the person in [Image 1], in every frame: copy the exact face from [Image 1] - face shape, eye color and eye shape, eyebrows, nose, mouth, skin tone, age, hair color, hair length and hairstyle, and any beard, moustache, glasses or freckles exactly as in the photo. The same real person in every frame, from the first second to the last, so their friends instantly recognize them, also when a hand covers the eyes and when the face comes close to the lens. Never morph, never drift back to the original man's face, never add or remove facial hair. NO glasses unless [Image 1] shows glasses. The rapper has the body and the clothes of the person in [Image 1], never the plaid shirt of the original man; if [Image 1] shows only the head or the upper body, invent the rest so it matches naturally. They copy the rapping mouth, the face and the hand moves of the man in the video, not the smile in [Image 1].
+
+The moves, matching the reference second by second:
+0-4 s: raps along to the camera, the silver cup in one hand, the other hand on the chest, then pointing at the camera.
+4-8 s: turns to the friends, who cheer, point back and raise their red cups.
+8-9 s: points a finger close to the lens.
+9-15 s: puts one hand flat over the eyes like a visor and looks around the room; the friends copy the move.
+
+Only replace the rapper; the guests, the room, the moves and the camera stay completely unchanged. Keep everything else the same.
+
+Anatomy rules: one head only, on the rapper's shoulders. Two arms and two hands. The other guests keep their own faces in every frame and never get the face of [Image 1]. No text, no logos, no watermark. No dialogue throughout the entire video. No background music.
 ```
 
 ### 2. 1. The video prompt is filled in. Settings: Seedance 2.5, 15 s, 720p, 9:16, sound off. The video prompt
@@ -43,11 +55,23 @@ The moves, matching the reference second by second:
 Anatomy rules: one head only, on the dancer's shoulders. Two arms and two hands. The other guests keep their own faces in every frame, also when they crowd around at the end, and never get the face of [Image 1]. No text, no logos, no watermark.
 ```
 
-### 3. 1. The video prompt is filled in. Settings: Seedance 2.0 Mini, 15 s, 720p, 9:16, sound off. The video prompt (Pet)
+### 3. 1. The video prompt is filled in. Settings: Seedance 2.5, 15 s, 720p, 9:16, sound off. The video prompt (Pet)
 
 *Kind: video_prompt*
 
 ```text
-[Video 1] is a motion guide only. Copy its camera moves, timing and actions, the handheld phone camera, and the warm dinner party room with crystal chandeliers, dark curtains, long tables with white tablecloths and red cups. Do NOT copy the people in [Video 1]: not their faces, hair, glasses, skin tone or clothes. Replace all of them. The one in front of the camera the whole time, who raps along with a silver metal cup in one hand, points at the camera and at the friends, then puts one hand flat over the eyes like a visor and looks around the room, is the pet in [Image 1], standing upright on its hind legs like a person, holding the cup in one front paw and putting the other paw over its eyes. Keep the face, fur colors, markings and ears from [Image 1] in every shot. No glasses, no plaid shirt, no human face. The party guests around them are new people, not the ones in [Video 1]: young adults in casual clothes who cheer, point back and copy the hand-over-the-eyes move. Photorealistic, like a real phone video at a party at night, in warm light. One continuous shot. No text, no subtitles, no logos, no watermark, no extra limbs.
+Recreate the reference video [Video 1] shot for shot: the same dinner party at night in a room with crystal chandeliers, dark curtains, long tables with white tablecloths and red cups, the same friends around with their own faces, the same handheld phone camera in one continuous take, the same framing, timing and moves. The ONLY change: the young man in the black-and-white plaid shirt and glasses who raps to the camera with the silver metal cup is now the pet in [Image 1]. [Image 1] is the sole look reference for the pet; [Video 1] is for the moves, the guests and the camera only.
+
+The rapper = the pet in [Image 1], whole body, in every frame: the same species and breed, head shape, muzzle, eyes, ears, fur colors, fur length and markings as in [Image 1], with the natural body volume and proportions of that animal: never flattened, squashed, stretched or merged with anything, so its owner instantly recognizes it. It stands upright on its hind legs like a person the whole time, holds the silver cup in one front paw, points with the other paw and at the end puts a paw over its eyes. A dog stays a dog and a cat stays a cat. No glasses, no plaid shirt, no clothes, no human face, no human hands.
+
+The moves, matching the reference second by second:
+0-4 s: bobs to the beat with the silver cup, a front paw on the chest, then pointing at the camera.
+4-8 s: turns to the friends, who cheer, point back and raise their red cups.
+8-9 s: points a front paw close to the lens.
+9-15 s: puts one front paw over its eyes like a visor and looks around the room; the friends copy the move.
+
+Only replace the young man; the guests, the room, the moves and the camera stay completely unchanged. Keep everything else the same.
+
+Anatomy rules: one head only. Two hind legs and two front legs, no extra legs or paws. The guests are people and keep their own faces. No text, no logos, no watermark, no extra animals. No dialogue throughout the entire video. No background music.
 ```
 

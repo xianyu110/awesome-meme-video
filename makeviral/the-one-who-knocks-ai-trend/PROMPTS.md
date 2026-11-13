@@ -46,7 +46,7 @@ Exactly two people: the speaker and the listener seen from behind. No weapons, n
 Use the uploaded image as the base. Keep the animal's species, breed, face, eye color, fur color, fur length, markings and body size exactly the same as in the photo. A cinematic, photorealistic film still at night, vertical 9:16: the pet sits upright in the open doorway of a dim bedroom, framed by the door frame, the dark hallway behind it. Warm light from a bedside lamp falls on one side of its face, cool blue moonlight from a window on the other. In the soft-focus foreground at the lower edge, the corner of a neatly made bed. The camera is at the pet's eye level. The whole pet is in frame, its face large and sharp, looking straight into the camera with a calm, cold, unblinking stare, its mouth closed. Exactly one animal, with its natural body. No people, no clothes, no hat, no text, no logos, no watermark.
 ```
 
-### 3. 3. Press the film button on the still to open AI Video with the still as the first frame. Settings: Kling 3.0, 10 s, 1080p, 9:16, sound on. The video prompt
+### 3. 3. Press the film button on the still to open AI Video with the still as the first frame. Settings: Seedance 2.5, 10 s, 720p, 9:16, sound on. The video prompt
 
 *Kind: video_prompt*
 

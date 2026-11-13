@@ -91,7 +91,7 @@ One-tap version of this variant: https://www.makeviral.ai/templates/snatch-back-
 
 #### Variant: Pet
 
-Settings: 1 photo (your pet, whole body) · Kling 3.0 · 12 s · 1080p · 9:16 · with sound · 67 credits in one tap.
+Settings: 1 photo (your pet, whole body) · Seedance 2.5 · 12 s · 720p · 9:16 · with sound · 154 credits in one tap.
 
 1. Open [AI Photo with this template](https://www.makeviral.ai/photo?template=snatch-back-splash-ai-trend&variant=pet) and add your photo (your pet, whole body). The photo prompt is filled in:
 
@@ -102,7 +102,7 @@ It touches the ball with its front paws: animal paws, never human hands. Exactly
    ```
 
 2. Check the still before you spend credits on the video. Everything the video model does starts from that one frame.
-3. Press the film button on the still to open AI Video with the still as the first frame. Settings: Kling 3.0, 12 s, 1080p, 9:16, sound on. The video prompt:
+3. Press the film button on the still to open AI Video with the still as the first frame. Settings: Seedance 2.5, 12 s, 720p, 9:16, sound on. The video prompt:
 
    ```text
    Keep the pet's face, fur colors, markings, ears and size and the arena exactly as in the image. A live pro basketball game filmed from the courtside seats on a long telephoto lens, one continuous handheld take, no cuts, photorealistic. 0-3 s: the pet, upright on its hind legs, dribbles low with its front paws, sizing up the defender in white. 3-5 s: the defender reaches in and pokes the ball loose. 5-7 s: the snatch back: the pet gets down extremely low and rips the ball right back with its front paws; the defender stumbles forward. 7-9 s: the pet hops back behind the three-point line and shoots the ball with both front paws; the camera whips up and follows the ball in a high arc. 9-10 s: the ball drops clean through the net, a splash. 10-12 s: the camera drops back to the court: the pet trots back up the court proudly while the courtside fans jump up and cheer. Audio: sneakers squeaking, the ball bouncing, a rising "oh, oh, oh" from the fans, a big cheer at the splash. No background music, no lyrics, no commentary. No dialogue throughout the entire video. Exactly one animal, never a person, animal paws, never human hands, the natural body volume of that animal, no morphing. Exactly one ball. No logos, no team names, no readable numbers, no text, no watermark.
@@ -155,7 +155,7 @@ Both are vertical (9:16) with arena sounds: sneakers, the bouncing ball, the fan
 
 **Human** is made straight from your photo by the best AI video models available, including Seedance 2.5, with no in-between picture, so your face stays close to the photo. We do not copy the real game footage: the prompt writes the whole possession second by second, says where the ball is at every moment (in your hands, stolen, snatched back, in the air, through the net) and asks for one take with no cuts. It starts from the template site's own prompt for the snatch back moment: you bend down extremely low and snatch the ball back off the defender's dribble, and he stumbles forward off balance.
 
-**Pet** takes two steps: first a picture of your pet on its hind legs at the top of the arc, then the video. Standard is the cheaper video step; Best uses a stronger video model for smoother moves and a cleaner ball flight.
+**Pet** takes two steps: first a picture of your pet on its hind legs at the top of the arc, then the video. The video step uses a strong video model for smooth moves and a clean ball flight, at 720p.
 
 The create page shows the exact price on the Generate button before you spend anything. If a run fails, the credits come back.
 
@@ -220,7 +220,7 @@ No creator has shared one. Our prompt starts from the template site's own line f
 
 ### Does it cost credits?
 
-Yes. Human costs more than the Pet Standard option, which makes a picture first and uses a cheaper video step. The create page shows the exact price on the Generate button before you spend anything, and if a run fails, the credits come back.
+Yes. Each video costs credits. The create page shows the exact price on the Generate button before you spend anything, and if a run fails, the credits come back.
 
 ### Is my photo private?
 
@@ -238,12 +238,12 @@ Yes. MakeViral does not post your photo or the result anywhere or show them to o
 
 ## New AI video trends this week
 
-- [Tiger Fight AI: Beat the Tiger on CCTV](https://www.makeviral.ai/templates/cctv-tiger-fight-ai-trend): A security camera on a forest path. A tiger leaps out of the bushes, and you fight it and pin it to the ground. Add one photo of yourself or your pet, and the trend's phonk sound comes with it.
-- [The Office Parkour AI Trend: You Shout "Parkour!" in the Office](https://www.makeviral.ai/templates/the-office-parkour-ai-trend): Dive over the couch, land upside down and shout "Parkour!" into the camera, then jump off the reception counter while the crew leaps over the desks. The whole office parkour scene, 24 seconds, with its own shouts.
-- [Huell Money AI: The Breaking Bad Money Pile Scene, Starring You](https://www.makeviral.ai/templates/huell-money-ai-trend): A storage unit, a bed-size pile of cash, and you fall back onto it with your eyes closed while your friend tells you to quit it. Then they give in and lie down next to you. With the scene's own lines.
-- [Peaky Blinders Explosion Scene, Starring You](https://www.makeviral.ai/templates/peaky-blinders-explosion-ai-trend): A flat cap, a long black overcoat, a match at your lips. The red-brick manor blows up behind you and you walk slowly toward the camera through the smoke, never looking back. One photo, 15 seconds, with the clip's song.
-- [Mbappe Run vs Argentina AI: The Mbappe Sprint, Starring You](https://www.makeviral.ai/templates/mbappe-sprint-ai-trend): A sunny pitch, one long sprint with the ball, a defender in a striped shirt crashing into you, and you sitting on the grass complaining while the commentator shouts "It's a penalty!". In your own clothes. It is an AI video, not real match footage.
-- [Perfume Transition AI Trend: Spray, Flame, Gangster Look](https://www.makeviral.ai/templates/perfume-transition-ai-trend): Sniff the perfume, spray it at the camera, and a lighter turns the spray into a fireball. Add one photo, and you or your pet step out of the flame in a flat cap, dark sunglasses and a long magenta coat, with the trend's song.
+- [Kara Sevda AI Trend: Your AI Video with Celebrity Stars Kemal and Emir](https://www.makeviral.ai/templates/ai-video-with-celebrity): You film a night selfie, the camera swings to the Kemal look-alike in his navy suit, face to face with you, and the Emir look-alike walks in and rests his head on his shoulder, jealous. One photo is enough. It is an AI video with look-alikes, not a real meeting.
+- [Misanthropy Meme AI: You as the Horned Anime Side-Eye](https://www.makeviral.ai/templates/misanthropy-meme-ai-trend): Your photo becomes a hand-drawn anime character with small horns. It glances left and right on a gray screen, then the background floods red and it breaks into a slow, smug grin, twice, to the trend's laughing beat. One photo in, an 8-second vertical clip out.
+- [Ahh Almost Almost: Train Hard, Miss by an Inch, From One Photo](https://www.makeviral.ai/templates/almost-almost-ai-trend): "While they're out partying btw": you grind alone late at night. Then the big shot rolls around the rim and out, twice, as the sound groans "ahhh almost almost". One photo in, an 11-second clip with the trend's own sound out.
+- [If I Was ChatGPT Trend: Your Observe, Just Observe Mood Board](https://www.makeviral.ai/templates/if-i-was-chatgpt-trend): Add one photo. The AI looks at it, picks the city, season, flower, painting, animal and element that fit you, and puts them around your photo in one mood board with short labels.
+- [Davul Zurna Yapay Zeka: Dance and Sing in the Viral Warehouse Clip](https://www.makeviral.ai/templates/davul-zurna-ai-trend): You dance between a zurna player and a davul player in a big workshop, walk up to the camera, sing right into it and walk back with your arms up. One photo, three for the whole band, or your pet. 15 seconds, with the live davul and zurna.
+- [Come On Barbie Let's Go Party AI: Do the Barbie Girl Dance Trend From Two Photos](https://www.makeviral.ai/templates/barbie-girl-dance-ai-trend): You turn around, sway your hips, pump a fist on "ah ah ah yeah" and lean on each other, side by side, on the sped-up Barbie Girl beat. Add two photos and get a real couple's viral reel with your faces and the song.
 
 ## Make your own Snatch Back Splash video
 

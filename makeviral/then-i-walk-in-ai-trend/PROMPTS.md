@@ -61,7 +61,7 @@ The person from [Image 1] is the only one who walks in; the guests are strangers
 Use the uploaded image as the base. 9:16 vertical photo, a cinematic film still. The pet from the uploaded image stands in the open doorway of a pair of tall white double doors with bright light behind it, at the entrance of a big, warmly lit living room at a busy evening party; guests in the foreground turn their heads toward the door. The pet faces the camera, head up, with a proud, confident look, its whole body in view, with the natural body volume and proportions of that animal. Photorealistic. Exactly one animal. No text, no logos, no watermark.
 ```
 
-### 4. 3. Press the film button on the still to open AI Video with the still as the first frame. Settings: Kling 3.0, 8 s, 1080p, 9:16, sound on. The video prompt
+### 4. 3. Press the film button on the still to open AI Video with the still as the first frame. Settings: Seedance 2.5, 8 s, 720p, 9:16, sound on. The video prompt
 
 *Kind: video_prompt*
 

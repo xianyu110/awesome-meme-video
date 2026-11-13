@@ -67,7 +67,7 @@ Only the two of them are in focus; the guests stay soft in the background. One h
 Use the uploaded image as the base. 9:16 vertical photo, like a still from a lavish period film: a lavish 1920s gala at night on the marble terrace of a grand seaside mansion: guests in 1920s evening wear dance and laugh, a jazz band in white jackets plays on a small stage, strings of warm golden lights hang overhead, gold confetti floats in the air, and a dark blue night sky stretches over the water. In front, sharp, the pet from the uploaded image sits upright on a red velvet chair by the stone railing, its whole body in view, facing the camera three-quarters, wearing a small black satin bow tie on a thin collar, one front paw resting on the stem of a crystal coupe glass of sparkling champagne on a small round table. The guests behind are soft and out of focus. Rich warm gold and deep blue colors, soft film grain. Exactly one animal in focus, no people in front. The pet keeps its natural body shape and four legs; no other clothes on the pet. No text, no logos, no watermark.
 ```
 
-### 4. 3. Press the film button on the still to open AI Video with the still as the first frame. Settings: Kling 3.0, 10 s, 1080p, 9:16, sound on. The video prompt
+### 4. 3. Press the film button on the still to open AI Video with the still as the first frame. Settings: Seedance 2.5, 10 s, 720p, 9:16, sound on. The video prompt
 
 *Kind: video_prompt*
 

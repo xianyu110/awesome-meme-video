@@ -69,7 +69,7 @@ Exactly two heroes, nobody else. Each hero has one head, two arms, two legs and 
 Use the two uploaded images as the base. The pet in the first image stands on the left; the pet in the second image stands on the right. Each keeps its own species, breed look, face, eyes, ears, fur colors, fur length, markings and size exactly as in its own photo, with the natural body volume and proportions of that animal: never flattened, squashed or stretched. Never blend the two. A real photo in an empty old brick warehouse with a concrete floor, a few wooden crates and warm daylight through tall dusty windows, taken from low down at the height of the pets. Both pets stand upright on their hind legs, face to face, in the iconic pointing meme pose: each stretches one front leg out and points its paw straight at the other's face. Each wears a pet-sized red-and-blue hero suit with fine black web lines over the red parts, the hood pulled back so the whole head, face and ears show, no emblem or symbol on the chest or the back, no logo. Both whole bodies in view, from the ears to the hind paws, both faces turned three-quarters to the camera, clear and sharp. Photorealistic, natural fur and natural colors, not CGI. Vertical 9:16. Exactly two animals and no people. No text, no logos, no watermark.
 ```
 
-### 4. 3. Press the film button on the still to open AI Video with the still as the first frame. Settings: Kling 3.0, 10 s, 1080p, 9:16, sound on. The video prompt
+### 4. 3. Press the film button on the still to open AI Video with the still as the first frame. Settings: Seedance 2.5, 10 s, 720p, 9:16, sound on. The video prompt
 
 *Kind: video_prompt*
 

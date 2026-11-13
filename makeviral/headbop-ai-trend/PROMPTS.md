@@ -60,22 +60,22 @@ Timing, second by second, as in the original video:
 Each person keeps the face, eye color, eyebrows, nose, mouth, skin tone, age, hair color and hairstyle, and any glasses, beard or freckles from their own image in every frame, so their friends recognize them at once. Never blend their faces. Each head is a clean cut-out of the head, neck and shoulders, in the clothes from their own image. No cat ears, no fur, no whiskers and no cat face anywhere. No hoodie, no badge, nothing in the mouth. Exactly three heads, never a fourth. The black background stays black above and below the row. No text, no logos, no watermark.
 ```
 
-### 3. 1. The video prompt is filled in. Settings: Kling 3.0 Omni, 11 s, 720p, 9:16, sound off. The video prompt (Pet)
+### 3. 1. The video prompt is filled in. Settings: Seedance 2.5, 11 s, 720p, 9:16, sound off. The video prompt (Pet)
 
 *Kind: video_prompt*
 
 ```text
-Replace each of the four cats in the video with the pet in the first image: the small striped cat, the black-and-white cat, the grey cat with the big round eyes and the orange cat in the black hoodie all become the head and shoulders of this same pet. Keep the original actions, facial expressions, poses, body movements, camera movement, background, lighting and timing. Only replace the cats and keep everything else unchanged.
+Recreate the reference video [Video 1] shot for shot: a row of cut-out heads on a black background, from small to big, that bop in turn to the beat while the camera slides along the row, with the same framing, timing and moves. The ONLY change: each of the four cats - the small striped cat, the black-and-white cat, the grey cat with the big round eyes and the orange cat in the black hoodie - is now the head and shoulders of the pet in [Image 1].
 
-The video is a headbop: a row of cut-out heads on a black background, from small to big, that bop to the beat while the camera slides along the row.
+Every head = the pet in [Image 1], in EVERY shot: the same species and breed, face, eyes, ears, muzzle, fur colors, fur length and markings as in [Image 1], with the natural body volume and proportions of that animal: never flattened, squashed, stretched or merged with anything. Only the size changes from head to head. Never drift back to the cats of the video.
 
-Timing, second by second, as in the original video:
+Matching the reference second by second:
 0-3.2 s: four heads in a row, the smallest on the left and the biggest at the right edge of the frame, partly out of the frame. They bop in turn to the beat.
 3.2-5.3 s: the camera moves closer to the three heads on the left. The biggest head is out of the frame.
 5.3-5.7 s: a quick fade to black and back.
-5.7-9.2 s: the same row, mirrored: the biggest head slides in at the left edge of the frame, then the others down to the smallest on the right. All four heads are the pet again, no cat from the video. They bop in turn to the beat.
+5.7-9.2 s: the same row, mirrored: the biggest head slides in at the left edge of the frame, then the others down to the smallest on the right. All four heads are the SAME pet from [Image 1] again, never a cat from the video. They bop in turn to the beat.
 9.2-11 s: the camera moves closer to the three heads on the right. The biggest head is out of the frame.
 
-Every head is the pet from the first image, in every frame: the same species and breed, face, eyes, ears, muzzle, fur colors, fur length and markings as in the first image, with the natural proportions of that animal: never flattened, squashed or stretched. Only the size changes from head to head. None of the cats from the video stays: not the small striped cat, not the black-and-white cat, not the grey cat with the big round eyes, not the orange cat. No hoodie, no badge, nothing in the mouth. One head in each place, no extra heads. The black background stays black above and below the row. No text, no logos, no watermark.
+None of the cats from the video stays: not the small striped cat, not the black-and-white cat, not the grey cat with the big round eyes, not the orange cat. No hoodie, no badge, nothing in the mouth. One head in each place, no extra heads. The black background stays black above and below the row. No text, no logos, no watermark.
 ```
 

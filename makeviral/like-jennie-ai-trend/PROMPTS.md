@@ -48,7 +48,7 @@ Anatomy rules: natural joints, clearly separated limbs and stable body proportio
 Use the uploaded image as the base. Keep the animal's species, breed, face, eye color, fur color, fur length, markings and body size exactly the same as in the photo. A still from a pop music video in a bright all-white studio with a glossy white floor that reflects like a mirror, plain white walls and bright, even studio light. The pet stands upright on its hind legs at the front center, as the lead dancer, with one front paw raised in a confident dance pose, and looks straight into the camera. It keeps its own fur and wears no clothes. Behind it, about thirty backup dancers in identical plain black jackets, black trousers and black boots stand in a tight V formation, all in the same pose with one hand raised, each with their own different face. The pet is large in the frame, from the ears to the hind feet, its face sharp. Photorealistic, natural fur detail, not a cartoon. Vertical 9:16. Exactly one animal, with real paws and no human hands. No text, no logos, no watermark, no posters or signs.
 ```
 
-### 3. 3. Press the film button on the still to open AI Video with the still as the first frame. Settings: Kling 3.0, 14 s, 1080p, 9:16, sound off. The video prompt
+### 3. 3. Press the film button on the still to open AI Video with the still as the first frame. Settings: Seedance 2.5, 14 s, 720p, 9:16, sound off. The video prompt
 
 *Kind: video_prompt*
 

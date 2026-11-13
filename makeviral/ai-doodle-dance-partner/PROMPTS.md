@@ -7,10 +7,12 @@ The AI doodle dance partner is a TikTok dance trend from October 2026.
 
 ## Demo videos (CDN)
 
+- https://www.makeviral.ai/media/templates/ai-doodle-dance-partner/original-life-v2.mp4
 - https://www.makeviral.ai/media/templates/ai-doodle-dance-partner/original-main-v2.mp4
 
 ## Posters
 
+- https://www.makeviral.ai/media/templates/ai-doodle-dance-partner/original-life-v1.jpg
 - https://www.makeviral.ai/media/templates/ai-doodle-dance-partner/original-main-v1.jpg
 
 ## Prompts
@@ -35,5 +37,30 @@ The place: a white painted brick wall in warm late-afternoon sun with soft leaf 
 
 Audio: a bright, bouncy pop dance beat with claps, no words, no singing.
 Exactly one real person and one drawn doodle twin, nobody else. The doodle twin stays white line art in every frame and never touches the camera. Both have one head, two arms and five fingers on each hand. No text, no captions, no subtitles, no logos, no signs, no watermark.
+```
+
+### 2. 1. The video prompt is filled in. Settings: Seedance 2.5, 6 s, 720p, 9:16, sound off. The video prompt
+
+*Kind: video_prompt*
+
+```text
+Recreate the reference video [Video 1] shot for shot: the same sunny street with pastel row houses, the same fixed front-facing camera, full-body framing, timing, gestures and dance moves. The ONLY change: the woman on the left is now the person in [Image 1], and the figure on the right, first a pencil sketch and then a real copy, is the same person from [Image 1]. Use [Image 1] strictly as the identity reference. Do NOT blend identities or retain the original main character's identity.
+
+The main character = the person in [Image 1], in EVERY frame: copy the exact face from [Image 1] - face shape, eye color and eye shape, eyebrows, nose, mouth, skin tone, age, hair color, hair length and hairstyle, and any beard, moustache, glasses or freckles exactly as in the photo, and the clothes and shoes from [Image 1] (if it shows only the upper body, invent matching trousers or a skirt and plain shoes). Never morph, never drift back to the original woman's face. NO blue T-shirt and NO denim skirt unless [Image 1] shows them. If [Image 1] shows an animal, both characters are that animal standing upright, with its own face, fur and markings, never flattened or stretched.
+
+CHARACTER CONSISTENCY - EXTREMELY IMPORTANT: The main character on the left and the second character appearing as a sketch on the right MUST represent exactly the same person from [Image 1]. The ONLY difference is their rendering style: Left character: fully photorealistic. Right character: a life-sized monochrome gray pencil-sketch illustration. Do NOT independently redesign, reinterpret, simplify, or alter the sketch character.
+
+ACTION SEQUENCE - STRICTLY PRESERVE, in [Video 1]'s exact timing:
+0-0.5 s: a monochrome pencil-sketch version of the SAME character appears beside the main character, leans into the frame from the right and stops beside them.
+0.5-2.4 s: both stand side by side facing the camera; the main character glances at the double and smiles.
+2.4-3.1 s: a narrow warm gold edge begins to light the sketch at shoe level. A narrow gold sweep rises from the double's shoes to its shoulders, revealing colored clothing and a lifelike figure: a real copy of the person from [Image 1].
+3.1-4.6 s: both turn toward each other, laugh, raise their hands and perform the original greeting and high-five.
+4.6-6 s: both face the camera and perform the original synchronized dance: hands up by the cheeks, peace signs, a small bounce.
+
+CAMERA - UNCHANGED: Do NOT introduce camera movements, zooming, panning, reframing, or additional cuts. Keep the background, lighting and shadows.
+
+SKETCH-TO-REAL TRANSFORMATION - CRITICAL: Only the rendering style may change from monochrome pencil sketch to photorealistic live action; the identity stays the same. No dialogue throughout the entire video. No background music.
+
+Exactly two figures, both the person from [Image 1], nobody else. Each has one head, two arms and five fingers on each hand. No text, no captions, no logos, no stickers, no watermark.
 ```
 

@@ -31,7 +31,7 @@
       "text": "Use the uploaded image as the base. 9:16 vertical photo, a dark cinematic film still: anamorphic lens, 35mm film, soft lens glare. The pet from the uploaded image stands on a dark backyard lawn at night under a huge, bright full moon, a wooden fence and black trees behind, cold blue moonlight, its whole body in view, facing the camera three-quarters, the moonlight on its fur. Exactly one animal and no people. No clothes on the pet. No text, no logos, no watermark."
     },
     {
-      "label": "3. Press the film button on the still to open AI Video with the still as the first frame. Settings: Kling 3.0, 10 s, 1080p, 9:16, sound on. The video prompt",
+      "label": "3. Press the film button on the still to open AI Video with the still as the first frame. Settings: Seedance 2.5, 10 s, 720p, 9:16, sound on. The video prompt",
       "variant": null,
       "kind": "video_prompt",
       "text": "A dramatic intense scene, camera spin 360° around the pet from the image, it is in pain as its bones dislocate and skin ripple, camera captures the intricate details as its body transforms gradually. Its jaws gradually elongate like a dire wolf, its body gradually grows bigger and muscular, gradually its whole body gets covered with thick wild wolf fur and it transforms into a majestic dire wolf. Camera captures its facial expressions while the camera dynamically orbits around it, crash zoom in and out focusing on its face and body, the growing furry tail, anamorphic lens, 35mm film, lens glare, a cinematic masterpiece, on a dark backyard lawn at night under a huge, bright full moon, a wooden fence and black trees behind, cold blue moonlight. At the end the wolf lifts its head to the full moon and howls.\nIn the first 3 seconds the pet is exactly the pet from the image: the same face, eyes, ears, fur colors and markings. The dire wolf keeps the pet's fur colors, markings and eye color, so the owner knows it at once. Audio: low whimpers, cracking bones, a deep growl, then a long wolf howl. No music, no words. Exactly one animal, no people. No blood, no gore. No text, no subtitles, no logos, no watermark."
@@ -41,7 +41,7 @@
     "What the AI Werewolf video looks like",
     "How to make the AI Werewolf video on MakeViral",
     "Which photo works best?",
-    "Human or Pet, Standard or Best: what is the difference?",
+    "Human or Pet: what is the difference?",
     "Can I turn into a werewolf from my own photo?",
     "Is it a real werewolf transformation video?",
     "Is it a Halloween AI video?",
@@ -52,5 +52,5 @@
     "Make your own AI Werewolf video"
   ],
   "prompt_count": 3,
-  "scraped_at": "2026-11-12"
+  "scraped_at": "2026-11-13"
 }

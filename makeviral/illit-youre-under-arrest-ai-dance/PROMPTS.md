@@ -86,7 +86,7 @@ Audio: an original upbeat, bouncy K-pop style dance beat with crisp police whist
 Use the uploaded image as the base. 9:16 vertical photo, like a real phone photo of a pet dance challenge, taken at the height of the pet. The pet from the uploaded image stands upright on its two hind legs in front of a plain grey corrugated metal roller-shutter wall in a clean concrete underground car park, on a smooth grey concrete floor, with a strip of yellow and black hazard stripes along the base of the wall and cool white light. It wears a small navy police-style peaked cap with a black visor and a plain navy band, sitting a little tilted on its head, and a tiny silver toy whistle on a black cord around its neck. Nothing else: no shirt, no clothes on its body. The cap has no badge, no star, no emblem and no words. The pet faces the camera with a proud, cheeky face, one front paw raised in a little salute. Its whole body is in view, from the cap to the hind paws, with its tail. Realistic photo with natural colors and a soft, shallow depth of field. Exactly one animal and no people. No text, no logos, no watermark.
 ```
 
-### 5. 3. Press the film button on the still to open AI Video with the still as the first frame. Settings: Kling 3.0, 10 s, 1080p, 9:16, sound on. The video prompt
+### 5. 3. Press the film button on the still to open AI Video with the still as the first frame. Settings: Seedance 2.5, 10 s, 720p, 9:16, sound on. The video prompt
 
 *Kind: video_prompt*
 

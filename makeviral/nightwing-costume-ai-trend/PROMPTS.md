@@ -72,7 +72,7 @@ Audio: an upbeat funk dance remix with a heavy bass and a bright, accordion-like
 Use the uploaded image as the base. 9:16 vertical photo, like a real phone photo at night, taken from low down at the height of the pet. The pet from the uploaded image stands upright on its two hind legs in front of a plain wall washed in soft violet-blue light, with a dark grey stone panel at one side, facing the camera, its whole body in view, from the ears to the hind paws, with its tail. It holds a small plain blue eye mask (a domino mask with no symbol) in one front paw, low in front of its chest, and looks into the lens with a cool, serious face. Realistic photo with natural fur and natural colors. Exactly one animal and no people. No clothes on the pet. No text, no logos, no watermark.
 ```
 
-### 5. 3. Press the film button on the still to open AI Video with the still as the first frame. Settings: Kling 3.0, 10 s, 1080p, 9:16, sound on. The video prompt
+### 5. 3. Press the film button on the still to open AI Video with the still as the first frame. Settings: Seedance 2.5, 10 s, 720p, 9:16, sound on. The video prompt
 
 *Kind: video_prompt*
 

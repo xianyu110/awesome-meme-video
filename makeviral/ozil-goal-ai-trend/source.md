@@ -14,7 +14,7 @@ You flick the ball over the diving keeper, take it on the chest, let two defende
 
 Also called: ozil goal trend, ozil ai trend, ozil bounce ai, ozil goal grandma, gol do ozil ia, soccer dribble master ai.
 
-**Make it now:** [Make this video](https://www.makeviral.ai/templates/ozil-goal-ai-trend/create). 1 photo · 15 s · 9:16 with sound · 48 credits, charged once · ready in a few minutes · no prompt to write.
+**Make it now:** [Make this video](https://www.makeviral.ai/templates/ozil-goal-ai-trend/create). 1 photo · 15 s · 9:16 with sound · 228 credits, charged once · ready in up to several minutes · no prompt to write.
 
 Keyword: ozil goal ai. Also answers: ozil goal, ozil goal ai trend, ozil ai video, ozil goal ai video, ozil goal vs ludogorets, how to make the ozil ai video, ozil goal ai tutorial, ozil ai goal template, ai football goal video, ozil goals, mesut ozil goal, ozil goal arsenal, video ozil goal, put yourself in the ozil goal, ai football dribble, soccer dribble master.
 
@@ -49,19 +49,32 @@ Everything runs in the browser. No editing app, no watermark.
 ### The one-tap way (no prompt to write)
 
 1. **Add your photo.** Press "Make yours" and add your photo. Take it with the camera or pick it from your library. Start here: https://www.makeviral.ai/templates/ozil-goal-ai-trend/create
-2. **Press Generate.** The button shows the price. Seedance 2.0 Mini puts your photos into the Ozil Goal trend clip and copies it shot by shot for 15 seconds, with the reel's original song. You write no prompt.
-3. **Download or share.** The video is ready in a few minutes as a 9:16 MP4. Download it, share it from your phone, or find it later in My videos.
+2. **Press Generate.** The button shows the price. Seedance 2.5 puts your photos into the Ozil Goal trend clip and copies it shot by shot for 15 seconds, with the reel's original song. You write no prompt.
+3. **Download or share.** The video is ready in up to several minutes as a 9:16 MP4. Download it, share it from your phone, or find it later in My videos.
 
 ### The by-hand way, with the exact prompts
 
 The one-tap flow runs this prompt for you. The video prompt animates your own photo directly. To change it, copy it and edit it in AI Video.
 
-Settings: 1 photo (your photo) · Seedance 2.0 Mini · 15 s · 720p · 9:16 · no sound · 48 credits in one tap.
+Settings: 1 photo (your photo) · Seedance 2.5 · 15 s · 720p · 9:16 · no sound · 228 credits in one tap.
 
-1. The video prompt is filled in. Settings: Seedance 2.0 Mini, 15 s, 720p, 9:16, sound off. The video prompt:
+1. The video prompt is filled in. Settings: Seedance 2.5, 15 s, 720p, 9:16, sound off. The video prompt:
 
    ```text
-   [Video 1] is a motion guide only. Copy its camera moves, timing and actions, the night stadium under floodlights, the dark packed stands and the green pitch. Do NOT copy the people in [Video 1]: not their faces, hair, skin tone, age or clothes. Replace all of them. The one with the ball the whole time, who dribbles toward the camera, flicks the ball over the goalkeeper as he dives, takes the falling ball on the chest, lets it bounce, waits while two defenders slide past on the grass and then shoots the ball along the grass into the net, is the one in [Image 1]. Keep the face, hair, skin tone, body, clothes and shoes from [Image 1] in every shot, with no headscarf, no cardigan and no floral dress unless [Image 1] shows them. The goalkeeper in a plain grey kit and the defenders in plain blue kits are new adult men, not the ones in [Video 1]. The ball is a plain white football. Photorealistic, like a real night match filmed from pitch level. One continuous shot that ends behind the goal as the ball rolls into the net. No text, no names or numbers on the shirts, no badges, no score graphics, no subtitles, no logos, no watermark, no extra limbs.
+   Recreate the reference video [Video 1] shot for shot: the same night stadium under floodlights, the same dark packed stands, the same green pitch and blurred ad boards, the same goalkeeper in grey and defenders in blue, the same camera that runs with the play, the same timing and moves, in one continuous take. The ONLY change: [Image 1] replaces the old woman in the pale headscarf, the mauve cardigan and the blue floral dress who dribbles, flicks the ball over the goalkeeper and scores.
+
+The scorer = the person in [Image 1], in EVERY shot: copy the exact face from [Image 1] (the face shape, eye color and eye shape, eyebrows, nose, mouth, skin tone, age, hair color, hair length and hairstyle, and any beard, moustache, glasses or freckles), and the body, clothes and shoes from [Image 1], so their friends recognize them at once, also when small in the wide shots and when the head turns. NO headscarf, NO cardigan, NO floral dress and NO grey hair unless [Image 1] shows them, and the age of [Image 1]. The same real person from the first second to the last. Never morph, never drift back to the original old woman's face or body.
+
+The goal, matching [Video 1] second by second:
+0-2 s: the scorer dribbles toward the camera while the goalkeeper rushes out.
+2-3 s: the keeper dives at the scorer's feet, and the scorer flicks the ball up and over him.
+3-6 s: the scorer runs under the falling ball, takes it on the chest and lets it bounce.
+6-11 s: one defender slides in, then a second; the scorer waits, steps around them and keeps the ball.
+11-15 s: the scorer shoots along the grass, and the camera ends behind the goal as the ball rolls into the net.
+
+The goalkeeper and the defenders keep their own faces from [Video 1]: none of them gets the face from [Image 1]. The ball stays a plain white football.
+
+Anatomy rules: one head only, on the scorer's shoulders. Two arms, two legs. No names or numbers on the shirts, no badges, no score graphics, no readable text, no logos, no watermark.
    ```
 
 2. Press Generate, then download the 9:16 MP4.
@@ -84,7 +97,7 @@ You pay per video in credits, and the create page shows the exact price on the G
 
 | Video model | Settings | Credits |
 | --- | --- | --- |
-| Seedance 2.0 Mini (this template) | 15 s, 720p, copies the trend clip, one tap | 48 |
+| Seedance 2.5 (this template) | 15 s, 720p, copies the trend clip, one tap | 228 |
 
 Credits come with a plan; see [pricing](https://www.makeviral.ai/pricing). A failed video gives its credits back.
 
@@ -100,20 +113,7 @@ Your clip follows the 15 seconds of the AI grandma reel by @r7538701fal, in one 
 | 6 to 11 | One defender slides in, then a second. You wait, step around them and keep the ball. |
 | 11 to 15 | You shoot along the grass, and the camera ends behind the goal as the ball goes in. |
 
-**Standard or Best?** Press "Create your own" and pick one. Standard is the default.
-
-| | Standard | Best |
-|---|---|---|
-| Model | Seedance 2.0 Mini | Seedance 2.5 |
-| How it works | Makes a new vertical clip that follows the reel's moves, camera and timing, with you as the scorer | Puts you into the reel itself, shot by shot: the same keeper, defenders and stadium, with your face locked to your photo |
-| Frame | Vertical 9:16, 720p | Vertical 9:16 like the reel, 720p |
-| Length | 15 s | 15 s |
-| Sound | The reel's song, which you can turn off | The same |
-| Price | The lower price | Costs more, and it can take 5 to 15 minutes |
-
-The exact price shows on the Generate button before you spend anything. You write no prompt, and the video waits in My videos when it is ready.
-
-**Why these models?** The scorer is small or medium in the frame in every shot, with no big close-ups of the face, so the cheaper Standard model fits this clip. Best uses Seedance 2.5, which copies the reel itself and keeps your face locked to your photo. Every run is a new take, so results differ.
+**How it works:** Seedance 2.5 puts you into the reel itself, shot by shot: the same keeper, defenders and stadium, with your face locked to your photo. You get 15 seconds, vertical 9:16 like the reel, at 720p, with the reel's song, which you can turn off. It can take 5 to 15 minutes. The exact price shows on the Generate button before you spend anything. You write no prompt, and the video waits in My videos when it is ready. Every run is a new take, so results differ.
 
 ## Who should score the goal?
 
@@ -139,10 +139,8 @@ Your clip comes with the sound of the reel it copies: the French love song that 
 | Problem | Fix |
 |---|---|
 | A headscarf, a cardigan or a dress shows up | The grandma from the reel comes through. Use a full-body photo where your own clothes are easy to see, then run it again. |
-| The face looks less like you | The face is small in most shots. Use a sharp, front-facing photo in good light, or pick Best. |
-| The ball jumps or disappears for a moment (Standard) | Fast ball moves are hard for video models. Run it again, or pick Best, which keeps the reel's own ball. |
-| The keeper or the defenders look different from the reel | Standard makes a new clip, so the other players can change. Best keeps the reel's players. |
-| Best takes longer | Best copies the reel itself with Seedance 2.5 and can take 5 to 15 minutes. The video waits in My videos. |
+| The face looks less like you | The face is small in most shots. Use a sharp, front-facing photo in good light, then run it again. |
+| The video takes a while | Seedance 2.5 copies the reel itself and can take 5 to 15 minutes. The video waits in My videos. |
 | The run fails | Some photos get refused. The credits come back; try another photo. |
 
 ## Ozil Goal trend questions
@@ -165,11 +163,11 @@ Mesut Özil's late winner for Arsenal at Ludogorets in the Champions League on 1
 
 ### How do I make the Ozil goal AI video with my own photo?
 
-Press "Create your own", add one full-body photo of the scorer, pick Standard or Best and press Generate. The button shows the price first. You get a 15-second vertical clip with the song, and you write no prompt. The video waits in My videos when it is ready.
+Press "Create your own", add one full-body photo of the scorer, and press Generate. The button shows the price first. You get a 15-second vertical clip with the song, and you write no prompt. The video waits in My videos when it is ready.
 
-### What is the difference between Standard and Best?
+### Which AI model makes the video?
 
-Standard (Seedance 2.0 Mini) makes a new 720p clip that follows the reel's moves, camera and timing, at the lower price. Best (Seedance 2.5) puts you into the reel itself, shot by shot, so the keeper, the defenders and the stadium stay exactly as in the reel; the clip is 720p, costs more and can take 5 to 15 minutes.
+Seedance 2.5. It puts you into the reel itself, shot by shot, so the keeper, the defenders and the stadium stay exactly as in the reel. The clip is 720p and can take 5 to 15 minutes.
 
 ### Is my video made from the real match footage?
 
@@ -193,7 +191,7 @@ No. Many how-to videos for the trend point to CapCut or other AI apps. On MakeVi
 
 ### How long is the video and what format is it?
 
-15 seconds, as a vertical 9:16 MP4: 720p with Standard and with Best. It comes with the reel's song, which you can turn off.
+15 seconds, as a vertical 9:16 MP4 at 720p. It comes with the reel's song, which you can turn off.
 
 ## Other AI video templates and tools
 
@@ -207,15 +205,15 @@ No. Many how-to videos for the trend point to CapCut or other AI apps. On MakeVi
 
 ## New AI video trends this week
 
-- [Tiger Fight AI: Beat the Tiger on CCTV](https://www.makeviral.ai/templates/cctv-tiger-fight-ai-trend): A security camera on a forest path. A tiger leaps out of the bushes, and you fight it and pin it to the ground. Add one photo of yourself or your pet, and the trend's phonk sound comes with it.
-- [The Office Parkour AI Trend: You Shout "Parkour!" in the Office](https://www.makeviral.ai/templates/the-office-parkour-ai-trend): Dive over the couch, land upside down and shout "Parkour!" into the camera, then jump off the reception counter while the crew leaps over the desks. The whole office parkour scene, 24 seconds, with its own shouts.
-- [Huell Money AI: The Breaking Bad Money Pile Scene, Starring You](https://www.makeviral.ai/templates/huell-money-ai-trend): A storage unit, a bed-size pile of cash, and you fall back onto it with your eyes closed while your friend tells you to quit it. Then they give in and lie down next to you. With the scene's own lines.
-- [Peaky Blinders Explosion Scene, Starring You](https://www.makeviral.ai/templates/peaky-blinders-explosion-ai-trend): A flat cap, a long black overcoat, a match at your lips. The red-brick manor blows up behind you and you walk slowly toward the camera through the smoke, never looking back. One photo, 15 seconds, with the clip's song.
-- [Mbappe Run vs Argentina AI: The Mbappe Sprint, Starring You](https://www.makeviral.ai/templates/mbappe-sprint-ai-trend): A sunny pitch, one long sprint with the ball, a defender in a striped shirt crashing into you, and you sitting on the grass complaining while the commentator shouts "It's a penalty!". In your own clothes. It is an AI video, not real match footage.
-- [Perfume Transition AI Trend: Spray, Flame, Gangster Look](https://www.makeviral.ai/templates/perfume-transition-ai-trend): Sniff the perfume, spray it at the camera, and a lighter turns the spray into a fireball. Add one photo, and you or your pet step out of the flame in a flat cap, dark sunglasses and a long magenta coat, with the trend's song.
+- [Kara Sevda AI Trend: Your AI Video with Celebrity Stars Kemal and Emir](https://www.makeviral.ai/templates/ai-video-with-celebrity): You film a night selfie, the camera swings to the Kemal look-alike in his navy suit, face to face with you, and the Emir look-alike walks in and rests his head on his shoulder, jealous. One photo is enough. It is an AI video with look-alikes, not a real meeting.
+- [Misanthropy Meme AI: You as the Horned Anime Side-Eye](https://www.makeviral.ai/templates/misanthropy-meme-ai-trend): Your photo becomes a hand-drawn anime character with small horns. It glances left and right on a gray screen, then the background floods red and it breaks into a slow, smug grin, twice, to the trend's laughing beat. One photo in, an 8-second vertical clip out.
+- [Ahh Almost Almost: Train Hard, Miss by an Inch, From One Photo](https://www.makeviral.ai/templates/almost-almost-ai-trend): "While they're out partying btw": you grind alone late at night. Then the big shot rolls around the rim and out, twice, as the sound groans "ahhh almost almost". One photo in, an 11-second clip with the trend's own sound out.
+- [If I Was ChatGPT Trend: Your Observe, Just Observe Mood Board](https://www.makeviral.ai/templates/if-i-was-chatgpt-trend): Add one photo. The AI looks at it, picks the city, season, flower, painting, animal and element that fit you, and puts them around your photo in one mood board with short labels.
+- [Davul Zurna Yapay Zeka: Dance and Sing in the Viral Warehouse Clip](https://www.makeviral.ai/templates/davul-zurna-ai-trend): You dance between a zurna player and a davul player in a big workshop, walk up to the camera, sing right into it and walk back with your arms up. One photo, three for the whole band, or your pet. 15 seconds, with the live davul and zurna.
+- [Come On Barbie Let's Go Party AI: Do the Barbie Girl Dance Trend From Two Photos](https://www.makeviral.ai/templates/barbie-girl-dance-ai-trend): You turn around, sway your hips, pump a fist on "ah ah ah yeah" and lean on each other, side by side, on the sped-up Barbie Girl beat. Add two photos and get a real couple's viral reel with your faces and the song.
 
 ## Make your own Ozil Goal video
 
-Add one photo and press Generate. No prompt to write. 48 credits, charged once.
+Add one photo and press Generate. No prompt to write. 228 credits, charged once.
 
 [Make this video](https://www.makeviral.ai/templates/ozil-goal-ai-trend/create)

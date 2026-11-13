@@ -57,7 +57,7 @@ Use the uploaded image as the base. Keep the animal's breed, size, body shape, f
 Use the uploaded image as the base. Keep the person's face, facial features, skin tone, hair, body shape and outfit exactly the same as in the photo. The person stands in the middle of a path covered in orange and yellow fallen leaves in an autumn park, tall trees in fall colors behind, golden afternoon light. They hold a plain white cotton bedsheet over their head like a hood with both hands: the sheet hangs down their back and sides to the knees, the front edge is held up above the forehead, and the whole face and hair fringe are clearly visible. They smile playfully at the camera, about to pull the sheet down over their face for the ghost photoshoot. A pair of round black sunglasses hangs from the neckline of their top. Full body from head to shoes, camera at chest height. Soft 35mm film photo, warm muted colors, natural grain, a real photo. Vertical 9:16. Exactly one person, no text, no logos.
 ```
 
-### 5. 3. Press the film button on the still to open AI Video with the still as the first frame. Settings: Seedance 2.0 Mini, 6 s, 720p, 9:16, sound on. The video prompt
+### 5. 3. Press the film button on the still to open AI Video with the still as the first frame. Settings: Seedance 2.5, 6 s, 720p, 9:16, sound on. The video prompt
 
 *Kind: video_prompt*
 

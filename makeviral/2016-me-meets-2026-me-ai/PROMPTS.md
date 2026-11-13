@@ -46,7 +46,7 @@ An ordinary, unedited phone video filmed by a friend, in one continuous shot wit
 Use the two uploaded images as the base. They show the same pet years apart. The animal in the first image is the younger version: keep its species, breed, face, eye color, fur color, fur length, markings, young age and small size exactly as in the first image. The animal in the second image is today's version: keep its species, breed, face, eye color, fur color, fur length, markings, age and body size exactly as in the second image. Do not blend the two and do not make them the same age or size. An ordinary, unedited smartphone photo, taken at pet height. The place: {place}, a real, everyday place in natural light, with ordinary details, like a snapshot from someone's camera roll. The younger version is on the left. {arrive_photo} The younger version is playful, bright-eyed and full of energy, ears up, looking at today's version. A few steps away on the right, today's version sits looking tired and unimpressed, with sleepy, half-closed eyes, looking back at the younger one. Both whole bodies in frame, both faces clear and sharp. Photorealistic, natural fur detail and natural colors: no cinematic lighting, no color grading, no soft dreamy glow, not CGI, not a cartoon. Vertical 9:16. Exactly two animals, no people, no clothes. No flags, no signs, no text, no logos, no watermarks.
 ```
 
-### 4. 3. Press the film button on the still to open AI Video with the still as the first frame. Settings: Kling 3.0, 10 s, 1080p, 9:16, sound on. The video prompt
+### 4. 3. Press the film button on the still to open AI Video with the still as the first frame. Settings: Seedance 2.5, 10 s, 720p, 9:16, sound on. The video prompt
 
 *Kind: video_prompt*
 

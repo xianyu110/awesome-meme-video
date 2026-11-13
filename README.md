@@ -6,12 +6,12 @@
 
 ## Stats
 
-- **Total**: 629 templates
-- **MakeViral**: 478 templates · 1385 prompt blocks · 687 demo videos
+- **Total**: 639 templates
+- **MakeViral**: 488 templates · 1420 prompt blocks · 701 demo videos
 - **Remake Your Meme**: 34 templates · public prompts: **none** (one-tap remake only) · demos/posters archived
 - **Media.io**: 18 templates · 12 prompt blocks · 12 demo videos
 - **Kavel**: 99 templates · 321 prompt blocks · 377 demo videos
-- Scraped: 2026-11-12 (Asia/Shanghai)
+- Scraped: 2026-11-13 (Asia/Shanghai)
 - Sort: **newest first** by `published || updated (newest first); undated=unknown; never scraped_at`
 - Gallery: https://xianyu110.github.io/awesome-meme-video/
 
@@ -46,6 +46,16 @@ Demo MP4s are stored via Git LFS when present. Each template folder also lists o
 
 | Template | Slug | Date | Prompts | Demo | Page |
 | --- | --- | --- | ---: | --- | --- |
+| [Zoolander Meme AI: The "Who Is She" Stare, With Your Face](makeviral/zoolander-who-is-she-ai-trend/PROMPTS.md) | `zoolander-who-is-she-ai-trend` | 2026-11-12 | 3 | ✅ | [link](https://www.makeviral.ai/templates/zoolander-who-is-she-ai-trend) |
+| [St Tropez DJ AI Trend: St Tropez Knows How to Party](makeviral/st-tropez-dj-ai-trend/PROMPTS.md) | `st-tropez-dj-ai-trend` | 2026-11-12 | 2 | ✅ | [link](https://www.makeviral.ai/templates/st-tropez-dj-ai-trend) |
+| [Old Town Road AI Video: Ride the Red Convertible With a Friend](makeviral/old-town-road-ai-video/PROMPTS.md) | `old-town-road-ai-video` | 2026-11-12 | 3 | ✅ | [link](https://www.makeviral.ai/templates/old-town-road-ai-video) |
+| [Misanthropy Meme AI: You as the Horned Anime Side-Eye](makeviral/misanthropy-meme-ai-trend/PROMPTS.md) | `misanthropy-meme-ai-trend` | 2026-11-12 | 4 | ✅ | [link](https://www.makeviral.ai/templates/misanthropy-meme-ai-trend) |
+| [Island Boy Meme AI: Put Your Friends in the Pool](makeviral/island-boy-ai-trend/PROMPTS.md) | `island-boy-ai-trend` | 2026-11-12 | 4 | ✅ | [link](https://www.makeviral.ai/templates/island-boy-ai-trend) |
+| [If I Was ChatGPT Trend: Your Observe, Just Observe Mood Board](makeviral/if-i-was-chatgpt-trend/PROMPTS.md) | `if-i-was-chatgpt-trend` | 2026-11-12 | 2 | ✅ | [link](https://www.makeviral.ai/templates/if-i-was-chatgpt-trend) |
+| [Davul Zurna Yapay Zeka: Dance and Sing in the Viral Warehouse Clip](makeviral/davul-zurna-ai-trend/PROMPTS.md) | `davul-zurna-ai-trend` | 2026-11-12 | 3 | ✅ | [link](https://www.makeviral.ai/templates/davul-zurna-ai-trend) |
+| [Come On Barbie Let's Go Party AI: Do the Barbie Girl Dance Trend From Two Photos](makeviral/barbie-girl-dance-ai-trend/PROMPTS.md) | `barbie-girl-dance-ai-trend` | 2026-11-12 | 3 | ✅ | [link](https://www.makeviral.ai/templates/barbie-girl-dance-ai-trend) |
+| [Ahh Almost Almost: Train Hard, Miss by an Inch, From One Photo](makeviral/almost-almost-ai-trend/PROMPTS.md) | `almost-almost-ai-trend` | 2026-11-12 | 4 | ✅ | [link](https://www.makeviral.ai/templates/almost-almost-ai-trend) |
+| [Kara Sevda AI Trend: Your AI Video with Celebrity Stars Kemal and Emir](makeviral/ai-video-with-celebrity/PROMPTS.md) | `ai-video-with-celebrity` | 2026-11-12 | 5 | ✅ | [link](https://www.makeviral.ai/templates/ai-video-with-celebrity) |
 | [Wizard Cat Meme: Put Your Pet or You at the Keyboard](makeviral/wizard-cat-keyboard-smash-ai-trend/PROMPTS.md) | `wizard-cat-keyboard-smash-ai-trend` | 2026-11-11 | 2 | ✅ | [link](https://www.makeviral.ai/templates/wizard-cat-keyboard-smash-ai-trend) |
 | [Waist Heart Trend AI: Make the Waist Heart Pose From One Photo](makeviral/waist-heart-ai-trend/PROMPTS.md) | `waist-heart-ai-trend` | 2026-11-11 | 3 | ✅ | [link](https://www.makeviral.ai/templates/waist-heart-ai-trend) |
 | [Truck Driver AI Trend: Back the Big Truck Into the Yard](makeviral/truck-driver-ai-trend/PROMPTS.md) | `truck-driver-ai-trend` | 2026-11-11 | 2 | ✅ | [link](https://www.makeviral.ai/templates/truck-driver-ai-trend) |
@@ -338,7 +348,7 @@ Demo MP4s are stored via Git LFS when present. Each template folder also lists o
 | [Wedding Money Rain AI: You Dance While the Notes Rain Down](makeviral/ai-money-rain-party/PROMPTS.md) | `ai-money-rain-party` | 2026-10-22 | 1 | ✅ | [link](https://www.makeviral.ai/templates/ai-money-rain-party) |
 | [AI Makeup Filter: Watch Your Full Glam Happen on Video](makeviral/ai-makeup-filter/PROMPTS.md) | `ai-makeup-filter` | 2026-10-22 | 2 | ✅ | [link](https://www.makeviral.ai/templates/ai-makeup-filter) |
 | [AI Explosion Walk Trend: Walking Away From Explosion, Starring You](makeviral/ai-explosion-walk-trend/PROMPTS.md) | `ai-explosion-walk-trend` | 2026-10-22 | 2 | ✅ | [link](https://www.makeviral.ai/templates/ai-explosion-walk-trend) |
-| [AI Doodle Dance Partner: Your Sketch Twin Dances With You](makeviral/ai-doodle-dance-partner/PROMPTS.md) | `ai-doodle-dance-partner` | 2026-10-22 | 1 | ✅ | [link](https://www.makeviral.ai/templates/ai-doodle-dance-partner) |
+| [AI Doodle Dance Partner: Your Sketch Twin Dances With You](makeviral/ai-doodle-dance-partner/PROMPTS.md) | `ai-doodle-dance-partner` | 2026-10-22 | 2 | ✅ | [link](https://www.makeviral.ai/templates/ai-doodle-dance-partner) |
 | [AI Danger Video: Your Normal Moment, With Danger Right Behind You](makeviral/ai-danger-scene-trend/PROMPTS.md) | `ai-danger-scene-trend` | 2026-10-22 | 10 | ✅ | [link](https://www.makeviral.ai/templates/ai-danger-scene-trend) |
 | [Beer Jacket AI: You Came Prepared for the Away End](makeviral/ai-beer-jacket-trend/PROMPTS.md) | `ai-beer-jacket-trend` | 2026-10-22 | 1 | ✅ | [link](https://www.makeviral.ai/templates/ai-beer-jacket-trend) |
 | [White Chicks Car Scene AI: Sing A Thousand Miles With a Friend](makeviral/white-chicks-ai-trend/PROMPTS.md) | `white-chicks-ai-trend` | 2026-10-21 | 2 | ✅ | [link](https://www.makeviral.ai/templates/white-chicks-ai-trend) |
@@ -384,7 +394,7 @@ Demo MP4s are stored via Git LFS when present. Each template folder also lists o
 | [Cat in the Hat Trend: Make the AI Doorbell Cam Halloween Prank](makeviral/cat-in-the-hat-ai-trend/PROMPTS.md) | `cat-in-the-hat-ai-trend` | 2026-10-19 | 6 | ✅ | [link](https://www.makeviral.ai/templates/cat-in-the-hat-ai-trend) |
 | [Bama Bound Meme: Hold the I'M BAMA BOUND Banner With AI](makeviral/bama-bound-ai-trend/PROMPTS.md) | `bama-bound-ai-trend` | 2026-10-19 | 5 | ✅ | [link](https://www.makeviral.ai/templates/bama-bound-ai-trend) |
 | [Twilight Baseball Scene AI: Play the Vampire Baseball Game in the Storm](makeviral/twilight-baseball-scene-ai/PROMPTS.md) | `twilight-baseball-scene-ai` | 2026-10-18 | 3 | ✅ | [link](https://www.makeviral.ai/templates/twilight-baseball-scene-ai) |
-| [Elevator Outfit Change AI: The Doors Close, a New Outfit Steps Out](makeviral/elevator-outfit-change-ai-trend/PROMPTS.md) | `elevator-outfit-change-ai-trend` | 2026-10-18 | 2 | ✅ | [link](https://www.makeviral.ai/templates/elevator-outfit-change-ai-trend) |
+| [Elevator Outfit Change AI: The Doors Close, a New Outfit Steps Out](makeviral/elevator-outfit-change-ai-trend/PROMPTS.md) | `elevator-outfit-change-ai-trend` | 2026-10-18 | 3 | ✅ | [link](https://www.makeviral.ai/templates/elevator-outfit-change-ai-trend) |
 | [Devil Wears Prada Trend AI: From Your Room to a Night Street in Leather](makeviral/devil-wears-prada-ai-trend/PROMPTS.md) | `devil-wears-prada-ai-trend` | 2026-10-18 | 2 | ✅ | [link](https://www.makeviral.ai/templates/devil-wears-prada-ai-trend) |
 | [Coldplay Kiss Cam Meme: You and a Friend on the Big Screen](makeviral/coldplay-affair-ai-trend/PROMPTS.md) | `coldplay-affair-ai-trend` | 2026-10-18 | 2 | ✅ | [link](https://www.makeviral.ai/templates/coldplay-affair-ai-trend) |
 | [Bby Wow Guy AI: Put Your Face in the Guy Dancing at a Quince Meme](makeviral/bby-wow-guy-ai-trend/PROMPTS.md) | `bby-wow-guy-ai-trend` | 2026-10-18 | 6 | ✅ | [link](https://www.makeviral.ai/templates/bby-wow-guy-ai-trend) |

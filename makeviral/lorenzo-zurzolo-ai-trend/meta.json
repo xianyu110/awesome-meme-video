@@ -30,7 +30,7 @@
       "text": "Use the uploaded image as the base. 9:16 vertical photo, like a still from a moody cinematic drama filmed at night in Rome. The pet from the uploaded image sits at a small round table at a garden party on a rooftop terrace, its chin resting on one front paw on the table top, its eyes toward the camera. Warm string lights and glowing lanterns blur behind it, a few guests far away as soft, out-of-focus shapes. Its head, chest and front paws are in view. Realistic photo with natural fur, soft film grain, muted teal shadows and warm amber light, a shallow depth of field. Exactly one animal in focus, no person in focus. No clothes on the pet. No cigarette, no drinks, no logos, no brand names and no text. No watermark."
     },
     {
-      "label": "3. Press the film button on the still to open AI Video with the still as the first frame. Settings: Kling 3.0, 10 s, 1080p, 9:16, sound on. The video prompt",
+      "label": "3. Press the film button on the still to open AI Video with the still as the first frame. Settings: Seedance 2.5, 10 s, 720p, 9:16, sound on. The video prompt",
       "variant": null,
       "kind": "video_prompt",
       "text": "One continuous shot with no cuts, like a slow scene from a moody cinematic drama at a night garden party on a rooftop terrace in Rome. Keep the animal's face, fur, markings, ears and size, the table, the string lights and the terrace exactly as in the image.\n0-3 s: the pet rests its chin on its paw and gazes to the side while the warm lights twinkle softly behind it and a light breeze moves its fur.\n3-6 s: it slowly lifts its head off the paw and turns its eyes to the camera with a calm, unreadable stare.\n6-10 s: the camera pushes in slowly to a close-up; the pet holds the stare, gives one slow blink and a tiny, cool head tilt, and keeps looking into the lens to the last frame.\nThe camera moves smoothly and slowly. Audio: an original slow, moody late-night pop track, slowed and dreamy, with soft synth pads and a deep, warm bass, plus faint party chatter in the first shot and the quiet hum of a small scooter engine in the third. No dialogue throughout the entire video, no lyrics, no singing. The pet never speaks. Exactly one animal, no person in focus. No extra paws, no extra legs, no morphing. No cigarette, no drinks, no logos, no brand names, no text, no subtitles, no watermark."
@@ -50,5 +50,5 @@
     "Make your own Lorenzo Zurzolo AI video"
   ],
   "prompt_count": 3,
-  "scraped_at": "2026-11-12"
+  "scraped_at": "2026-11-13"
 }

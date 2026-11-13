@@ -90,7 +90,7 @@ One-tap version of this variant: https://www.makeviral.ai/templates/tung-tung-tu
 
 #### Variant: Pet
 
-Settings: 1 photo (your pet, whole body) · Kling 3.0 · 10 s · 1080p · 9:16 · with sound · 56 credits in one tap.
+Settings: 1 photo (your pet, whole body) · Seedance 2.5 · 10 s · 720p · 9:16 · with sound · 128 credits in one tap.
 
 1. Open [AI Photo with this template](https://www.makeviral.ai/photo?template=tung-tung-tung-sahur-ai-dance&variant=pet) and add your photo (your pet, whole body). The photo prompt is filled in:
 
@@ -99,7 +99,7 @@ Settings: 1 photo (your pet, whole body) · Kling 3.0 · 10 s · 1080p · 9:16 �
    ```
 
 2. Check the still before you spend credits on the video. Everything the video model does starts from that one frame.
-3. Press the film button on the still to open AI Video with the still as the first frame. Settings: Kling 3.0, 10 s, 1080p, 9:16, sound on. The video prompt:
+3. Press the film button on the still to open AI Video with the still as the first frame. Settings: Seedance 2.5, 10 s, 720p, 9:16, sound on. The video prompt:
 
    ```text
    A funny, bright home dance video in one continuous shot from a phone on a tripod. Keep the animal's face, fur, markings and body exactly as in the image, with the natural body volume and proportions of that animal: never flattened, squashed, stretched or merged with anything. Keep the wooden log character and the living room exactly as in the image. The pet stands upright on its hind legs and dances side by side with the log, both in sync on every beat: 0-2.5 s, both bounce on the beat, the pet presses its front paws to its chest and the log presses its hands to its chest and throat, eyes wide; 2.5-4 s, the pet lifts one paw to its muzzle and the log puts a finger to its lips in a shh, and both sink down; 4-6.5 s, both bounce low in a wide squat on the beat; 6.5-8 s, still low, both glance sideways at each other, then rise; 8-10 s, both stand tall and look straight into the lens, the pet with a happy open mouth, and the log gives its toy bat one small twirl. The bat never swings at the pet and nothing gets hit. Audio: a bouncy, dreamy, slightly eerie dance beat with deep bass and soft finger snaps. No singing, no words, no barking. Exactly one animal and one log, paws not hands, no morphing, no extra limbs, no cuts. No text, no logos, no watermark.
@@ -142,7 +142,7 @@ You stand on the right, and a tall wooden log character with a carved face, stic
 | 6.5 to 8 s | The glance | Still low, you glance at each other, then rise into a sideways lean. |
 | 8 to 10 s | The grin | You stand tall, the camera moves in, and you both grin into the lens. The log twirls its bat once. |
 
-**How it is made.** Human is made straight from your photo by top-quality AI video models, with no in-between picture, so your face stays close to the photo. Pet first makes a picture of your pet standing next to the log, then animates it; Standard costs less, and Best uses a stronger video model. Every run is a new take, so the moves and the faces differ a little each time. A run takes a few minutes, and the exact price shows on the Generate button before you spend anything.
+**How it is made.** Human is made straight from your photo by top-quality AI video models, with no in-between picture, so your face stays close to the photo. Pet first makes a picture of your pet standing next to the log, then animates it with a top-quality AI video model. Every run is a new take, so the moves and the faces differ a little each time. A run takes a few minutes, and the exact price shows on the Generate button before you spend anything.
 
 ## Which song is on the video, and which one should you post with?
 
@@ -168,7 +168,7 @@ Want another dance partner? Try the [AI doodle dance partner](https://www.makevi
 | Your face looks a little different | Use a sharp, front-facing photo in good light, with no filter, and run it again. |
 | The moves come in a different order or the squat is shallow | The routine is written beat by beat, but each run is a new take. Run it again. |
 | The log gets a person's face or a second log shows | The prompt bans both. Run it again. |
-| Your pet's legs or paws look odd (Pet) | Pets dancing upright are hard for AI. Pick Best, or use a photo where the whole body shows. |
+| Your pet's legs or paws look odd (Pet) | Pets dancing upright are hard for AI. Run it again, or use a photo where the whole body shows. |
 | You want the real song | Add the trend sound in the app when you post, as in the section above. |
 | The model refuses a photo | Some photos get refused. The credits come back; try another photo. |
 
@@ -216,7 +216,7 @@ Most Tung Tung Tung Sahur dance GIFs are short cuts of the green-screen animatio
 
 ### How long is the video, and what format is it?
 
-10 seconds, vertical 9:16, as an MP4 with a beat. Human is 720p; Pet is 1080p on Standard and 720p on Best. There is no watermark.
+10 seconds, vertical 9:16, as an MP4 with a beat. Human and Pet are both 720p. There is no watermark.
 
 ### Does the Tung Tung Tung Sahur AI video cost credits?
 
@@ -238,12 +238,12 @@ The big wave was in April and May 2026, but the Tung Tung Tung Sahur trend still
 
 ## New AI video trends this week
 
-- [Tiger Fight AI: Beat the Tiger on CCTV](https://www.makeviral.ai/templates/cctv-tiger-fight-ai-trend): A security camera on a forest path. A tiger leaps out of the bushes, and you fight it and pin it to the ground. Add one photo of yourself or your pet, and the trend's phonk sound comes with it.
-- [The Office Parkour AI Trend: You Shout "Parkour!" in the Office](https://www.makeviral.ai/templates/the-office-parkour-ai-trend): Dive over the couch, land upside down and shout "Parkour!" into the camera, then jump off the reception counter while the crew leaps over the desks. The whole office parkour scene, 24 seconds, with its own shouts.
-- [Huell Money AI: The Breaking Bad Money Pile Scene, Starring You](https://www.makeviral.ai/templates/huell-money-ai-trend): A storage unit, a bed-size pile of cash, and you fall back onto it with your eyes closed while your friend tells you to quit it. Then they give in and lie down next to you. With the scene's own lines.
-- [Peaky Blinders Explosion Scene, Starring You](https://www.makeviral.ai/templates/peaky-blinders-explosion-ai-trend): A flat cap, a long black overcoat, a match at your lips. The red-brick manor blows up behind you and you walk slowly toward the camera through the smoke, never looking back. One photo, 15 seconds, with the clip's song.
-- [Mbappe Run vs Argentina AI: The Mbappe Sprint, Starring You](https://www.makeviral.ai/templates/mbappe-sprint-ai-trend): A sunny pitch, one long sprint with the ball, a defender in a striped shirt crashing into you, and you sitting on the grass complaining while the commentator shouts "It's a penalty!". In your own clothes. It is an AI video, not real match footage.
-- [Perfume Transition AI Trend: Spray, Flame, Gangster Look](https://www.makeviral.ai/templates/perfume-transition-ai-trend): Sniff the perfume, spray it at the camera, and a lighter turns the spray into a fireball. Add one photo, and you or your pet step out of the flame in a flat cap, dark sunglasses and a long magenta coat, with the trend's song.
+- [Kara Sevda AI Trend: Your AI Video with Celebrity Stars Kemal and Emir](https://www.makeviral.ai/templates/ai-video-with-celebrity): You film a night selfie, the camera swings to the Kemal look-alike in his navy suit, face to face with you, and the Emir look-alike walks in and rests his head on his shoulder, jealous. One photo is enough. It is an AI video with look-alikes, not a real meeting.
+- [Misanthropy Meme AI: You as the Horned Anime Side-Eye](https://www.makeviral.ai/templates/misanthropy-meme-ai-trend): Your photo becomes a hand-drawn anime character with small horns. It glances left and right on a gray screen, then the background floods red and it breaks into a slow, smug grin, twice, to the trend's laughing beat. One photo in, an 8-second vertical clip out.
+- [Ahh Almost Almost: Train Hard, Miss by an Inch, From One Photo](https://www.makeviral.ai/templates/almost-almost-ai-trend): "While they're out partying btw": you grind alone late at night. Then the big shot rolls around the rim and out, twice, as the sound groans "ahhh almost almost". One photo in, an 11-second clip with the trend's own sound out.
+- [If I Was ChatGPT Trend: Your Observe, Just Observe Mood Board](https://www.makeviral.ai/templates/if-i-was-chatgpt-trend): Add one photo. The AI looks at it, picks the city, season, flower, painting, animal and element that fit you, and puts them around your photo in one mood board with short labels.
+- [Davul Zurna Yapay Zeka: Dance and Sing in the Viral Warehouse Clip](https://www.makeviral.ai/templates/davul-zurna-ai-trend): You dance between a zurna player and a davul player in a big workshop, walk up to the camera, sing right into it and walk back with your arms up. One photo, three for the whole band, or your pet. 15 seconds, with the live davul and zurna.
+- [Come On Barbie Let's Go Party AI: Do the Barbie Girl Dance Trend From Two Photos](https://www.makeviral.ai/templates/barbie-girl-dance-ai-trend): You turn around, sway your hips, pump a fist on "ah ah ah yeah" and lean on each other, side by side, on the sped-up Barbie Girl beat. Add two photos and get a real couple's viral reel with your faces and the song.
 
 ## Make your own Tung Tung Sahur Dance video
 

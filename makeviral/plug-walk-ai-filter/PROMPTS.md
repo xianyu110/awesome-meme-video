@@ -45,7 +45,7 @@ Audio: an upbeat original trap beat with heavy bass that drops when the dance st
 Use the uploaded image as the base. 9:16 vertical photo, like a real phone photo taken from the driver's seat of a car stopped at a red light, through the open driver's window. The pet from the uploaded image stands upright on its two hind legs on a quiet street corner at a red traffic light at sunset: a gravel strip by the curb, a grey light pole, palm trees and round green bushes, a low wall and a parked car far behind, a warm orange and lilac sky, one step from the open window. It faces the camera with its front paws up at its chest, ears up, a cheeky, happy face, in warm golden sunset light. Its whole body is in view, from the ears to the hind paws, with its tail. The window frame and the side mirror show at the edges. Realistic photo with natural colors and a soft depth of field. Exactly one animal and no people. No clothes on the pet. No text, no logos, no watermark, no badge on the car.
 ```
 
-### 3. 3. Press the film button on the still to open AI Video with the still as the first frame. Settings: Kling 3.0, 12 s, 1080p, 9:16, sound on. The video prompt
+### 3. 3. Press the film button on the still to open AI Video with the still as the first frame. Settings: Seedance 2.5, 12 s, 720p, 9:16, sound on. The video prompt
 
 *Kind: video_prompt*
 

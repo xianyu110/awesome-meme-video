@@ -1,0 +1,60 @@
+{
+  "source": "makeviral",
+  "source_site": "https://www.makeviral.ai",
+  "slug": "old-town-road-ai-video",
+  "name": "Old Town Road AI Video: Ride the Red Convertible With a Friend",
+  "url": "https://www.makeviral.ai/templates/old-town-road-ai-video",
+  "markdown_url": "https://www.makeviral.ai/templates/old-town-road-ai-video.md",
+  "blurb": "The Old Town Road AI video puts you and a friend into the red convertible scene of the 2019 \"Old Town Road\" music video: one of you sings in a candy shop, the other holds out a money bag, and you ride off together.",
+  "updated": "2026-11-12",
+  "published": "2026-11-12",
+  "credits": 189,
+  "demo_videos": [
+    "https://www.makeviral.ai/media/templates/old-town-road-ai-video/original-main-v2.mp4",
+    "https://www.makeviral.ai/media/templates/old-town-road-ai-video/original-tall-main-v2.mp4"
+  ],
+  "posters": [
+    "https://www.makeviral.ai/media/templates/old-town-road-ai-video/original-main-v1.jpg",
+    "https://www.makeviral.ai/media/templates/old-town-road-ai-video/original-tall-main-v1.jpg"
+  ],
+  "prompts": [
+    {
+      "label": "1. The video prompt is filled in. Settings: Seedance 2.5, 15 s, 720p, 9:16, sound off. The video prompt",
+      "variant": null,
+      "kind": "video_prompt",
+      "text": "A sunny country-rap music video in four shots, cut on the beat: a shiny red convertible sports car with the top down and tan leather seats, on a sunny small-town street, warm afternoon sun, a glossy music-video look with soft film grain. Photorealistic live action, vertical 9:16.\n\n[Image 1] defines CHARACTER_A, the singer. Its full appearance comes only from that image. [Image 2] defines CHARACTER_B, the friend with the money bag, likewise. Keep both identities consistent.\nCHARACTER_A is the person in [Image 1], in every frame: copy the exact face from [Image 1] (the face shape, eye color and eye shape, eyebrows, nose, mouth, skin tone, age, hair color, hair length and hairstyle, and any beard, moustache, glasses or freckles), with the clothes from [Image 1] and a black wide-brimmed cowboy hat.\nCHARACTER_B is the person in [Image 2], in every frame: copy the exact face from [Image 2] (the face shape, eye color and eye shape, eyebrows, nose, mouth, skin tone, age, hair color, hair length and hairstyle, and any beard, moustache, glasses or freckles), with the clothes from [Image 2] and a white cowboy hat.\nPreserve each one's own head/body ratio and physique. If an image shows an animal, it stays that animal, sitting upright with its own face and fur and a small cowboy hat. Never swap identities, merge faces or borrow the other's clothing. Each face stays the same in every frame, so their friends recognize them at once.\n\nTHE SHOTS:\n[0-3 s] SHOT 1, a low side shot along the red convertible rolling down the street: CHARACTER_B in the passenger seat, leaning toward the open side over the door, extending a big white canvas money bag printed with a large black dollar sign toward the camera, raising a hand near the head to tip the hat, a cool, confident gaze. CHARACTER_A at the wheel, partly in frame.\n[3-7.5 s] SHOT 2, a medium shot of CHARACTER_A in a colorful candy and ice cream shop with jars of sweets, giant ice cream cone decorations and pastel walls: singing straight to the camera, with speech rhythm, head turns, pointing, finger motions, animated two-hand gestures, smiles and body sway.\n[7.5-11.5 s] SHOT 3, closer on CHARACTER_A in the same shop, a slightly lower angle: still singing to the camera, a big confident grin, hands moving to the beat.\n[11.5-15 s] SHOT 4, the later overhead car shot, straight down into the red convertible from behind as it drives on: CHARACTER_A at the wheel on the left, singing and nodding; CHARACTER_B on the right holds the money bag on the lap, smiling; both look up to the camera once. Then the car pulls away and leaves the empty sunny road.\n\nMOUTHS: no sound of its own; a country-rap song goes on afterwards, so the singing must be easy to see: the singer's clear lip movements in short sung phrases from 3 s to the end.\n\nPRIORITY: CHARACTER_A = [Image 1] and CHARACTER_B = [Image 2] > the actions and timing of the shots > scene continuity.\n\nOnly these two people. Clear facial features, stable faces, no distortion. No dialogue throughout the entire video. No background music. No sunglasses on anyone. No car badge, no logo, no brand name, no text, no subtitles, no watermark, no extra limbs, no morphing."
+    },
+    {
+      "label": "1. The video prompt is filled in. Settings: Seedance 2.5, 15 s, 720p, 9:16, sound off. The video prompt",
+      "variant": null,
+      "kind": "video_prompt",
+      "text": "A sunny country-rap music video in four shots, cut on the beat: a shiny red convertible sports car with the top down and tan leather seats, on a sunny small-town street, warm afternoon sun, a glossy music-video look with soft film grain. Photorealistic live action, vertical 9:16.\n\n[Image 1] defines CHARACTER_A, the singer. Its full appearance comes only from that image. Keep the identity consistent.\nCHARACTER_A is the person in [Image 1], in every frame: copy the exact face from [Image 1] (the face shape, eye color and eye shape, eyebrows, nose, mouth, skin tone, age, hair color, hair length and hairstyle, and any beard, moustache, glasses or freckles), with the clothes from [Image 1] and a black wide-brimmed cowboy hat. Preserve their own head/body ratio and physique. If [Image 1] shows an animal, that one is that animal sitting upright like a person, with its own face, fur and markings and a small cowboy hat, never a person. The face stays the same from the first frame to the last, so their friends recognize them at once.\n\nTHE SHOTS:\n[0-3 s] SHOT 1, a low side shot along the red convertible as it rolls slowly down the street: CHARACTER_A sits at the wheel alone, leaning toward the open side over the door, extending a big white canvas money bag printed with a large black dollar sign toward the camera, raising a hand near the head to tip the hat, with a cool, confident gaze.\n[3-7.5 s] SHOT 2, a medium shot of CHARACTER_A in a colorful candy and ice cream shop with jars of sweets, giant ice cream cone decorations and pastel walls: CHARACTER_A sings straight to the camera, with speech rhythm, head turns, pointing, finger motions, animated two-hand gestures, smiles and body sway.\n[7.5-11.5 s] SHOT 3, a closer shot of CHARACTER_A in the same shop, from a slightly lower angle: still singing to the camera with a big confident grin, both hands moving to the beat, a small lean toward the lens.\n[11.5-15 s] SHOT 4, the later overhead car shot, looking straight down into the red convertible from behind as it drives down the sunny road: CHARACTER_A alone at the wheel, singing and nodding to the beat, the money bag on the empty passenger seat; a quick look up to the camera. At the end the car pulls away and leaves the empty sunny road.\n\nMOUTHS: no sound of its own; a country-rap song goes on afterwards, so the singing must be easy to see: the singer's clear lip movements in short sung phrases from 3 s to the end.\n\nOnly this one person. Clear facial features, a stable face, no distortion, no deformation. No dialogue throughout the entire video. No background music. No sunglasses on anyone. No car badge, no logo, no brand name, no text, no subtitles, no watermark, no extra limbs, no morphing."
+    },
+    {
+      "label": "1. The video prompt is filled in. Settings: Seedance 2.5, 15 s, 720p, 9:16, sound off. The video prompt",
+      "variant": "Pet",
+      "kind": "video_prompt",
+      "text": "A sunny country-rap music video in four shots, cut on the beat: a shiny red convertible sports car with the top down and tan leather seats, on a sunny small-town street, warm afternoon sun, a glossy music-video look with soft film grain. Photorealistic live action, vertical 9:16.\n\nTHE STAR is the pet in [Image 1], in every frame: the same species and breed, face, eyes, ears, muzzle, fur colors, fur length and markings as in [Image 1], with the natural body volume and proportions of that animal: never flattened, squashed, stretched or merged with anything. Its owner recognizes it at once. It wears only a small black cowboy hat, and it keeps its own animal face, teeth and tongue: only its mouth moves like a singer.\n\nTHE SHOTS:\n[0-3 s] SHOT 1, a low side shot along the red convertible as it rolls slowly down the street: the pet sits upright at the wheel, front paws on the wheel, then leans toward the open side over the door with a big white canvas money bag printed with a large black dollar sign beside it, a cool, confident look at the camera.\n[3-7.5 s] SHOT 2, a medium shot of the pet sitting upright on the counter of a colorful candy and ice cream shop with jars of sweets, giant ice cream cone decorations and pastel walls: it sings straight to the camera, its mouth opening and closing to the beat, with head turns and one raised front paw.\n[7.5-11.5 s] SHOT 3, a closer shot of the pet in the same shop, from a slightly lower angle: still singing to the camera, a proud happy face, a small lean toward the lens.\n[11.5-15 s] SHOT 4, the later overhead car shot, looking straight down into the red convertible from behind as it drives down the sunny road: the pet alone at the wheel, nodding to the beat, the money bag on the empty passenger seat; a quick look up to the camera. At the end the car pulls away and leaves the empty sunny road.\n\nMOUTHS: no sound of its own; a country-rap song goes on afterwards, so the singing must be easy to see: the pet's mouth opens and closes in short sung phrases from 3 s to the end.\n\nExactly one animal and no people. One head, four legs and one tail, no human hands, no human body, no clothes except the small hat. Avoid a cartoon look or a plush toy. No dialogue throughout the entire video. No background music. No sunglasses on anyone. No car badge, no logo, no brand name, no text, no subtitles, no watermark, no extra limbs, no morphing."
+    }
+  ],
+  "variant_headings": [
+    "What the Old Town Road video looks like",
+    "How to make the Old Town Road video on MakeViral",
+    "Which photo works best?",
+    "Three versions: Duo, Solo and Pet",
+    "What happens in the video, shot by shot?",
+    "What is the Old Town Road AI video?",
+    "How do I make the Old Town Road AI video?",
+    "Is this the real Old Town Road music video?",
+    "Does the video have the Old Town Road song?",
+    "Is the Old Town Road Maserati in my video?",
+    "Can I make it alone, or with my pet?",
+    "Can I put myself in a music video with AI?",
+    "How long is the video?",
+    "Other AI video templates and tools",
+    "New AI video trends this week",
+    "Make your own Old Town Road video"
+  ],
+  "prompt_count": 3,
+  "scraped_at": "2026-11-13"
+}

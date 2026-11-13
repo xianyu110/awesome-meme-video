@@ -3,7 +3,7 @@
 > The elevator outfit change is the fit check where the elevator does the edit: you stand in the car, the doors close, and when they open again you wear something new.
 
 Canonical: https://www.makeviral.ai/templates/elevator-outfit-change-ai-trend
-Updated: 2026-10-18
+Updated: 2026-11-12
 Published: 2026-10-18
 Author: MakeViral Team (https://www.makeviral.ai/about)
 Publisher: MakeViral (https://www.makeviral.ai)
@@ -12,11 +12,11 @@ The **elevator outfit change** is the fit check where the elevator does the edit
 
 You stand inside a steel elevator, filmed straight on. The doors slide shut, open again, and you are wearing a new outfit. Pick the women's looks (four evening gowns) or the men's looks (three outfits and a walk out), keep the reel's looks or write your own. One photo in, a vertical clip with the reel's sound out.
 
-Also called: Elevator glow-up, Elevator outfit rotation, One elevator, four outfits, Elevator door outfit transition.
+Also called: Elevator glow-up, Elevator outfit rotation, One elevator, four outfits, Elevator door outfit transition, Fisheye elevator fit check.
 
 **Make it now:** [Make this video](https://www.makeviral.ai/templates/elevator-outfit-change-ai-trend/create). 1 photo · 13 s · 9:16 with sound · 200 credits, charged once · ready in up to several minutes · no prompt to write.
 
-Keyword: elevator outfit change. Also answers: elevator fit check, elevator outfit check, elevator outfit, elevator outfits, elevator outfit transition, elevator transition, elevator fits, elevator trend ai, ai elevator trend, elevator outfit change ai, elevator transition video, elevator door transition, elevator trend tiktok, elevator trend capcut, elevator door transition in capcut, elevator trend prompt, elevator fashion, elevator fashion show, elevator fashion editorial, elevator looks, lift outfit check, lift fit check, elevator transition reel, ai elevator video, elevator outfit ideas, elevator lookbook.
+Keyword: elevator outfit change. Also answers: elevator fit check, elevator outfit check, elevator outfit, elevator outfits, elevator outfit transition, elevator transition, elevator fits, elevator trend ai, ai elevator trend, elevator outfit change ai, elevator transition video, elevator door transition, elevator trend tiktok, elevator trend capcut, elevator door transition in capcut, elevator trend prompt, elevator fashion, elevator fashion show, elevator fashion editorial, elevator looks, lift outfit check, lift fit check, elevator transition reel, ai elevator video, elevator outfit ideas, elevator lookbook, elevator fisheye, fisheye elevator, elevator fisheye camera, fisheye lens elevator, elevator trend song, elevator trend tiktok song.
 
 ## What is the Elevator Outfits trend, and where did it start?
 
@@ -42,6 +42,9 @@ Made from the prompts on this page. The people and pets are AI-made, not real pe
 - **Example 2** (13 s, 9:16 MP4 with sound): The original reel by @karolvidaldiaz, which the Women's looks version copies: a bronze sequin gown, a blue patterned gown, a black lace gown with a fur jacket and a silver sequin gown, one per door close.
   - Video: https://www.makeviral.ai/media/templates/elevator-outfit-change-ai-trend/original-main-v2.mp4
   - Poster: https://www.makeviral.ai/media/templates/elevator-outfit-change-ai-trend/original-main-v1.jpg
+- **Example 3** (14 s, 9:16 MP4 with sound): The original reel by @evajan.x, which the Ceiling camera version copies: a wide camera high in the elevator corner, a jump cut on every beat of "3" by Britney Spears, a ruffle blouse, a leather jacket, a black blazer and more, with her hands at the lens.
+  - Video: https://www.makeviral.ai/media/templates/elevator-outfit-change-ai-trend/original-ceiling-v2.mp4
+  - Poster: https://www.makeviral.ai/media/templates/elevator-outfit-change-ai-trend/original-ceiling-v1.jpg
 
 ## How to make the Elevator Outfits video on MakeViral
 
@@ -101,6 +104,28 @@ Anatomy rules: exactly one person, one head on that person's shoulders, two arms
 
 One-tap version of this variant: https://www.makeviral.ai/templates/elevator-outfit-change-ai-trend/create?variant=men
 
+#### Variant: Ceiling camera
+
+Settings: 1 photo (you, face clear) · Seedance 2.5 · 14 s · 720p · 9:16 · no sound · 215 credits in one tap.
+
+1. The video prompt is filled in. Settings: Seedance 2.5, 14 s, 720p, 9:16, sound off. The video prompt:
+
+   ```text
+   Recreate the reference video [Video 1] shot for shot: the same wide-angle camera fixed high in the top corner of the small steel elevator, looking down at the person, with the same fisheye bend of the brushed steel walls, the same closed steel doors, ceiling lights and grey floor, the same person who poses to the lens, the same light, framing, timing and moves. The doors stay closed the whole time: the outfit changes only with the jump cuts. The ONLY change is the face and the hair of the young woman with long dark hair and a center part who poses in the elevator: they are now the face and the hair of the person in [Image 1], in every look.
+
+The person = the person in [Image 1], in EVERY shot and in EVERY look: copy the exact face from [Image 1] (the face shape, eye color and eye shape, eyebrows, nose, mouth, skin tone, age, hair color, hair length and hairstyle, and any beard, moustache, glasses or freckles), so their friends recognize them at once. [Image 1] is only a head-and-shoulders portrait: take ONLY the face, the hair and the skin tone from it, never its plain black t-shirt and never its grey background. The same real person in every look, from the first frame to the last, also right after each jump cut and when the face is small or turned away. Never morph, never drift back to the original woman's face or hair.
+
+Every outfit stays exactly as in [Video 1]: the same clothes, shoes, bags and accessories, the same fit, in the same order, and each outfit change at the same moment as in [Video 1]. NO black t-shirt from [Image 1] in any look. NO long dark hair with a center part unless [Image 1] shows it: the hair is the hair from [Image 1] in every look, also when it flies or a hand covers part of the face. Sunglasses and the white wired earphones only in the shots where [Video 1] shows them, with the face from [Image 1] around them.
+
+The cuts, at the times of [Video 1]: a hard jump cut on every beat, about 25 cuts in 14 seconds, each to a new look or a new pose in the same spot, with no camera move between them. The poses stay as in [Video 1]: hands pushed toward the lens and big in the foreground, a point at the lens, a blown kiss, spread arms, a hair flip, a bag held up to the lens, and the mouth moving with the words. No glow, no particles, no dissolve, no flash, no door move. Never mix pieces of two looks.
+
+Anatomy rules: exactly one person, one head on that person's shoulders, two arms, two legs, five fingers on each hand. A face never appears on hands, clothes or the floor. The hands that reach for the lens keep five fingers each and the same nails. No text, no captions, no logos, no watermark.
+   ```
+
+2. Press Generate, then download the 9:16 MP4.
+
+One-tap version of this variant: https://www.makeviral.ai/templates/elevator-outfit-change-ai-trend/create?variant=ceiling
+
 ### Which photo works best?
 
 Use **one sharp photo with your face clear and big enough to see well**, from the waist up or closer. The video shows you full length inside the elevator, so your face is small in the frame. A clear, front-facing face keeps you looking like you in every outfit.
@@ -125,7 +150,7 @@ Credits come with a plan; see [pricing](https://www.makeviral.ai/pricing). A fai
 
 The elevator doors are the edit. The camera stands still outside the elevator and films you full length inside it. The doors slide shut, and for a moment you are gone behind the steel. That is where the cut hides: when the doors open again, you stand in the same spot in a new outfit. It is the elevator outfit transition that fashion creators film floor by floor, one take per look, and that brands now use as an elevator fashion show.
 
-MakeViral has two versions. **Women's looks** copies @karolvidaldiaz's elevator fit check from 12 August 2025: 13 seconds, four evening gowns, three door closes. **Men's looks** copies @fabianparks's AI elevator reel from 12 October 2026: 13 seconds, three outfits, two door closes, and at the end you walk out of the elevator toward the camera. First Nano Banana 2.1 makes a close portrait from your photo, so only your face and hair go into the reel. Then Seedance 2.5 puts you in place of the person in the reel, shot by shot, so every door closes and every outfit changes exactly where it does in the original. Your face, hair and skin tone come from your photo. The outfits, the elevator and the camera come from the reel.
+MakeViral has three versions. **Women's looks** copies @karolvidaldiaz's elevator fit check from 12 August 2025: 13 seconds, four evening gowns, three door closes. **Men's looks** copies @fabianparks's AI elevator reel from 12 October 2026: 13 seconds, three outfits, two door closes, and at the end you walk out of the elevator toward the camera. **Ceiling camera** copies @evajan.x's fisheye elevator fit check from 21 October 2026, on Britney Spears' "3": a wide camera high in the corner, the doors stay shut, and a jump cut on every beat brings a new outfit or pose, 14 seconds. First Nano Banana 2.1 makes a close portrait from your photo, so only your face and hair go into the reel. Then Seedance 2.5 puts you in place of the person in the reel, shot by shot, so every door closes and every outfit changes exactly where it does in the original. Your face, hair and skin tone come from your photo. The outfits, the elevator and the camera come from the reel.
 
 With **Your outfits** you write your own look for any of the outfits. MakeViral first changes those looks in the reel itself (FLUX.3 Edit Video), so the new outfits still appear behind the doors, and then puts you in. It is an elevator fashion editorial without the building, the camera or the changes of clothes.
 
@@ -200,6 +225,10 @@ Looks that contrast hard in color and shape: a sequin gown, a bright patterned d
 
 Yes. Men's looks copies @fabianparks's AI elevator reel: a trench coat with a tie, a white tee with a neck bandana, and a plum sweater for the walk out toward the camera. Women's looks copies four evening gowns. Either version takes any photo, and Your outfits lets you write your own looks in both.
 
+### Is there a fisheye elevator version, and what is the elevator trend song?
+
+Yes. Ceiling camera copies the elevator fisheye camera reel by @evajan.x (828,000 plays on 11 November 2026): you pose to a wide lens high in the corner, and a jump cut on every beat brings a new outfit, for 14 seconds with its TikTok song, "3" by Britney Spears. It keeps the reel's looks; Your outfits is not available on it.
+
 ### How long is the video?
 
 13 seconds, vertical 9:16 at 720p, with the reel's original sound. It takes 5 to 15 minutes, and you can leave the page while it runs: the finished clip waits in My videos.
@@ -224,12 +253,12 @@ Yes. The MP4 has no watermark, so you can post it to TikTok, Reels or Shorts as 
 
 ## New AI video trends this week
 
-- [Tiger Fight AI: Beat the Tiger on CCTV](https://www.makeviral.ai/templates/cctv-tiger-fight-ai-trend): A security camera on a forest path. A tiger leaps out of the bushes, and you fight it and pin it to the ground. Add one photo of yourself or your pet, and the trend's phonk sound comes with it.
-- [The Office Parkour AI Trend: You Shout "Parkour!" in the Office](https://www.makeviral.ai/templates/the-office-parkour-ai-trend): Dive over the couch, land upside down and shout "Parkour!" into the camera, then jump off the reception counter while the crew leaps over the desks. The whole office parkour scene, 24 seconds, with its own shouts.
-- [Huell Money AI: The Breaking Bad Money Pile Scene, Starring You](https://www.makeviral.ai/templates/huell-money-ai-trend): A storage unit, a bed-size pile of cash, and you fall back onto it with your eyes closed while your friend tells you to quit it. Then they give in and lie down next to you. With the scene's own lines.
-- [Peaky Blinders Explosion Scene, Starring You](https://www.makeviral.ai/templates/peaky-blinders-explosion-ai-trend): A flat cap, a long black overcoat, a match at your lips. The red-brick manor blows up behind you and you walk slowly toward the camera through the smoke, never looking back. One photo, 15 seconds, with the clip's song.
-- [Mbappe Run vs Argentina AI: The Mbappe Sprint, Starring You](https://www.makeviral.ai/templates/mbappe-sprint-ai-trend): A sunny pitch, one long sprint with the ball, a defender in a striped shirt crashing into you, and you sitting on the grass complaining while the commentator shouts "It's a penalty!". In your own clothes. It is an AI video, not real match footage.
-- [Perfume Transition AI Trend: Spray, Flame, Gangster Look](https://www.makeviral.ai/templates/perfume-transition-ai-trend): Sniff the perfume, spray it at the camera, and a lighter turns the spray into a fireball. Add one photo, and you or your pet step out of the flame in a flat cap, dark sunglasses and a long magenta coat, with the trend's song.
+- [Kara Sevda AI Trend: Your AI Video with Celebrity Stars Kemal and Emir](https://www.makeviral.ai/templates/ai-video-with-celebrity): You film a night selfie, the camera swings to the Kemal look-alike in his navy suit, face to face with you, and the Emir look-alike walks in and rests his head on his shoulder, jealous. One photo is enough. It is an AI video with look-alikes, not a real meeting.
+- [Misanthropy Meme AI: You as the Horned Anime Side-Eye](https://www.makeviral.ai/templates/misanthropy-meme-ai-trend): Your photo becomes a hand-drawn anime character with small horns. It glances left and right on a gray screen, then the background floods red and it breaks into a slow, smug grin, twice, to the trend's laughing beat. One photo in, an 8-second vertical clip out.
+- [Ahh Almost Almost: Train Hard, Miss by an Inch, From One Photo](https://www.makeviral.ai/templates/almost-almost-ai-trend): "While they're out partying btw": you grind alone late at night. Then the big shot rolls around the rim and out, twice, as the sound groans "ahhh almost almost". One photo in, an 11-second clip with the trend's own sound out.
+- [If I Was ChatGPT Trend: Your Observe, Just Observe Mood Board](https://www.makeviral.ai/templates/if-i-was-chatgpt-trend): Add one photo. The AI looks at it, picks the city, season, flower, painting, animal and element that fit you, and puts them around your photo in one mood board with short labels.
+- [Davul Zurna Yapay Zeka: Dance and Sing in the Viral Warehouse Clip](https://www.makeviral.ai/templates/davul-zurna-ai-trend): You dance between a zurna player and a davul player in a big workshop, walk up to the camera, sing right into it and walk back with your arms up. One photo, three for the whole band, or your pet. 15 seconds, with the live davul and zurna.
+- [Come On Barbie Let's Go Party AI: Do the Barbie Girl Dance Trend From Two Photos](https://www.makeviral.ai/templates/barbie-girl-dance-ai-trend): You turn around, sway your hips, pump a fist on "ah ah ah yeah" and lean on each other, side by side, on the sped-up Barbie Girl beat. Add two photos and get a real couple's viral reel with your faces and the song.
 
 ## Make your own Elevator Outfits video
 

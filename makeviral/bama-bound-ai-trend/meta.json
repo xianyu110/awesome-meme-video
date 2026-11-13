@@ -42,7 +42,7 @@
       "text": "Use the uploaded image as the base. A real phone photo, vertical 9:16, taken from low down, at the height of the pet, on a bright sunny day. The pet from the uploaded image stands upright on its hind legs in the middle of a wide, sunny field of short green grass on a bright summer day, a line of tall green trees behind, and a clear deep-blue sky with a few thin white clouds, holding a long, flat, bright red rectangular banner, about as wide as the raised arms, with the words I'M BAMA BOUND in big, bold white capital letters on two lines (I'M on the first line, BAMA BOUND on the second), up above its head with both front paws. The banner shows only these words: no logo of any kind (no script letter, no emblem, no animal), no school name, no small print and no other words. It faces the camera from a few steps away with a happy, proud face, ears up, its whole body in view from the ears to the hind paws, with its tail. It keeps its own size, body shape and fur. Realistic photo, sharp, in full sun. Exactly one animal and no people. No clothes on the pet. No mascot, no captions, no watermark and no other text."
     },
     {
-      "label": "3. Press the film button on the still to open AI Video with the still as the first frame. Settings: Kling 3.0, 8 s, 1080p, 9:16, sound on. The video prompt",
+      "label": "3. Press the film button on the still to open AI Video with the still as the first frame. Settings: Seedance 2.5, 8 s, 720p, 9:16, sound on. The video prompt",
       "variant": null,
       "kind": "video_prompt",
       "text": "One continuous shot with no cuts, like a real phone video filmed from low down in a sunny green field. Keep the animal's face, fur, markings, size and body shape, the red banner with its words and the field exactly as in the image.\n0-2 s: the pet stands upright on its hind legs, holds the red banner up over its head with both front paws and looks into the camera, its tail wagging.\n2-4 s: it looks up at the banner, its ears perk up, and it gives a happy, surprised sound that fits the animal: a bark for a dog, a meow for a cat.\n4-6.5 s: it hops up and down twice on its hind legs with the banner still held high, the grass flicking under its paws.\n6.5-8 s: it lands, still upright, and looks proudly into the camera with a happy face, the banner still up.\nAudio: the pet's happy sounds, a light breeze and an upbeat original beat. The pet never speaks. No lyrics. Exactly one animal, no people. No extra animals, no extra legs, no morphing. The banner stays flat and in one piece with the words I'M BAMA BOUND. No logos, no captions, no watermark, no other text."
@@ -62,5 +62,5 @@
     "Make your own Bama Bound Trend video"
   ],
   "prompt_count": 5,
-  "scraped_at": "2026-11-12"
+  "scraped_at": "2026-11-13"
 }

@@ -61,7 +61,7 @@ Audio: jingling sleigh bells, soft hoof steps in the snow, a deep, warm laugh fr
 Use the uploaded image as the base. 9:16 vertical photo, like a still from a real Christmas movie at night. The pet from the uploaded image sits upright on the small red padded saddle of a young reindeer calf with soft light-brown fur, a pale belly, small white spots on its back, big dark eyes, large soft ears and tiny velvet antler buds, in the middle of a snowy street with lights and lit trees at night: a small-town main street under fresh snow, warm glowing shop windows, colorful Christmas string lights along the roofs, lit Christmas trees on the sidewalks, falling snow and colorful decorations on the street. The pet faces the camera with a happy, curious face, its front paws resting on the front of the saddle; its whole body is in view, with its tail. A few steps behind, Santa Claus, a jolly man in a red Santa suit with white fur trim and a long white beard, sits in a red wooden sleigh with gold trim and curled runners, holding the reins in one hand. Low camera at the pet's eye level, a medium shot: the pet's face is large, clear and sharp. Realistic photo, warm light from the shop windows and the string lights. Exactly one pet, one reindeer and one Santa, no other animals, no other people close to the camera. No clothes on the pet. No text, no logos, no watermark.
 ```
 
-### 4. 3. Press the film button on the still to open AI Video with the still as the first frame. Settings: Kling 3.0, 8 s, 1080p, 9:16, sound on. The video prompt
+### 4. 3. Press the film button on the still to open AI Video with the still as the first frame. Settings: Seedance 2.5, 8 s, 720p, 9:16, sound on. The video prompt
 
 *Kind: video_prompt*
 

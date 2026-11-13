@@ -44,7 +44,7 @@ One continuous cinematic shot at golden-hour sunset on a mountain summit. Keep t
 Use the uploaded photo of the pet. Keep the animal's species, breed, face, eye color, fur colors, fur length, markings and body size exactly as in the photo, with the natural body volume and proportions of that animal. A photorealistic vertical photo at golden-hour sunset on a rocky mountain summit high above a range of jagged snow-capped peaks and misty valleys. Giant white marble digits that read 2027 stand in a row along the summit ridge: solid carved stone with soft grey veins and clean rounded edges, each digit about three times as tall as a person, reading 2, 0, 2, 7 from left to right. The camera is close, at a three-quarter angle: the first digit 2 is big in the foreground and the 0, the 2 and the 7 recede behind it along the ridge, every digit sharp and readable. The pet scrambles up the side of the front 2, both front paws on its flat top edge, hind legs pushing against the stone, its face turned toward the camera, eyes bright, lit by the warm low sun. Warm orange and pink sky, long soft shadows, natural fur detail. Vertical 9:16. Exactly four digits, 2 0 2 7, and exactly one animal. No people, no clothes on the pet, no other numbers, no letters, no text, no logos, no watermark.
 ```
 
-### 4. 3. Press the film button on the still to open AI Video with the still as the first frame. Settings: Kling 3.0, 8 s, 1080p, 9:16, sound on. The video prompt
+### 4. 3. Press the film button on the still to open AI Video with the still as the first frame. Settings: Seedance 2.5, 8 s, 720p, 9:16, sound on. The video prompt
 
 *Kind: video_prompt*
 

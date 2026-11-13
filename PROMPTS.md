@@ -1,10 +1,699 @@
 # All prompts (MakeViral)
 
-> 1385 prompt blocks from 478 public template markdown pages.
+> 1420 prompt blocks from 488 public template markdown pages.
 >
 > Remake Your Meme does not publish prompts; see `remakeyourmeme/*/PROMPTS.md` for metadata only.
 >
-> Sorted newest-first by published||updated (2026-11-12; undated=unknown).
+> Sorted newest-first by published||updated (2026-11-13; undated=unknown).
+
+## Zoolander Meme AI: The "Who Is She" Stare, With Your Face
+
+- Page: https://www.makeviral.ai/templates/zoolander-who-is-she-ai-trend
+- Markdown: https://www.makeviral.ai/templates/zoolander-who-is-she-ai-trend.md
+- Updated: 2026-11-12 · Published: 2026-11-12
+- Local: [`makeviral/zoolander-who-is-she-ai-trend/PROMPTS.md`](makeviral/zoolander-who-is-she-ai-trend/PROMPTS.md)
+
+### 1. The video prompt is filled in. Settings: Seedance 2.5, 13 s, 720p, 9:16, sound off. The video prompt
+
+```text
+A red carpet stare-down at a fashion awards night, filmed like a real film scene: a busy press line with a crowd of photographers behind a red velvet rope, camera flashes popping, and a long plain white press wall beside a red carpet. Photorealistic, natural skin tones, cinematic lighting, high detail, sharp focus, not CGI, not a cartoon. Vertical 9:16. Medium shots and close-ups keep the faces large and sharp.
+
+The first model is the person in [Image 1], in every shot: copy the exact face from [Image 1] (the face shape, eye color and eye shape, eyebrows, nose, mouth, skin tone, age, hair color, hair length and hairstyle, and any beard, moustache, glasses or freckles).
+The rival model is the person in [Image 2], in every shot: copy the exact face from [Image 2] (the face shape, eye color and eye shape, eyebrows, nose, mouth, skin tone, age, hair color, hair length and hairstyle, and any beard, moustache, glasses or freckles).
+Both wear a black formal suit (black blazer, white shirt, black tie). If an image shows an animal, that model is that animal with its own face, fur, markings and natural body, wearing a tiny black bow tie, never a person.
+Never blend their faces. Each face stays the same from the first frame to the last, so their friends recognize them at once. Both keep the exact same expression in every shot (no different emotion): a cool, serious model stare.
+
+The shots:
+1. 0-5.5 s: a medium close-up of the first model standing in the crowd of photographers, looking off to the side. Slowly, the first model turns the head to the camera and gives a long, intense model stare: chin slightly down, eyes narrowing, lips pressed, one eyebrow a little raised.
+2. 5.5-9.4 s: hard cut, a medium wide shot of the rival model walking toward the camera on the red carpet along the white press wall, confident, then noticing the first model and slowing down.
+3. 9.4-11.4 s: hard cut, a close-up of the first model, still staring, the head tilting a little, eyes fixed on the rival.
+4. 11.4-13 s: hard cut, a close-up of the rival model, who stops, turns the head and stares back with the same slow, intense model look.
+
+No dialogue throughout the entire video. No background music.
+Nobody smiles at the camera. The photographers stay soft and out of focus behind the models. No text, no words or logos on the press wall, no subtitles, no watermark.
+```
+
+### 1. The video prompt is filled in. Settings: Seedance 2.5, 13 s, 720p, 9:16, sound off. The video prompt
+
+```text
+A red carpet stare-down at a fashion awards night, filmed like a real film scene: a busy press line with a crowd of photographers behind a red velvet rope, camera flashes popping, and a long plain white press wall beside a red carpet. Photorealistic, natural skin tones, cinematic lighting, high detail, sharp focus, not CGI, not a cartoon. Vertical 9:16. Medium shots and close-ups keep the faces large and sharp.
+
+The first model is the person in [Image 1], in every shot: copy the exact face from [Image 1] (the face shape, eye color and eye shape, eyebrows, nose, mouth, skin tone, age, hair color, hair length and hairstyle, and any beard, moustache, glasses or freckles).
+The rival model is a stranger the scene invents: the same gender and a similar age as [Image 1], with a clearly different face, hair color and hairstyle, never a copy of [Image 1]. The person from [Image 1] appears only as the first model.
+Both wear a black formal suit (black blazer, white shirt, black tie).
+The first model's face stays the same from the first frame to the last, so their friends recognize them at once. Both keep the exact same expression in every shot (no different emotion): a cool, serious model stare.
+
+The shots:
+1. 0-5.5 s: a medium close-up of the first model standing in the crowd of photographers, looking off to the side. Slowly, the first model turns the head to the camera and gives a long, intense model stare: chin slightly down, eyes narrowing, lips pressed, one eyebrow a little raised.
+2. 5.5-9.4 s: hard cut, a medium wide shot of the rival model walking toward the camera on the red carpet along the white press wall, confident, then noticing the first model and slowing down.
+3. 9.4-11.4 s: hard cut, a close-up of the first model, still staring, the head tilting a little, eyes fixed on the rival.
+4. 11.4-13 s: hard cut, a close-up of the rival model, who stops, turns the head and stares back with the same slow, intense model look.
+
+No dialogue throughout the entire video. No background music.
+Nobody smiles at the camera. The photographers stay soft and out of focus behind the models. No text, no words or logos on the press wall, no subtitles, no watermark.
+```
+
+### 1. The video prompt is filled in. Settings: Seedance 2.5, 13 s, 720p, 9:16, sound off. The video prompt — Pet
+
+```text
+A red carpet stare-down at a fashion awards night, filmed like a real film scene: a busy press line with a crowd of photographers behind a red velvet rope, camera flashes popping, and a long plain white press wall beside a red carpet. Photorealistic, natural skin tones, cinematic lighting, high detail, sharp focus, not CGI, not a cartoon. Vertical 9:16. Medium shots and close-ups keep the faces large and sharp.
+
+The first model is the pet in [Image 1], in every shot: the same species and breed, face, eyes, ears, muzzle, fur colors, fur length and markings as in [Image 1], with the natural body volume and proportions of that animal: never flattened, squashed, stretched or merged with anything. It sits on a small velvet stool at the front of the press line and wears a tiny black bow tie.
+The rival model is a pet the scene invents: the same species as [Image 1] with a clearly different coat color and face, never a copy of [Image 1], also in a tiny black bow tie, walking on four legs.
+Both animals stay real animals, never people, never cartoons. Both keep the exact same expression in every shot (no different emotion): a cool, serious model stare, ears still, eyes narrowing.
+
+The shots:
+1. 0-5.5 s: a medium close-up of the first model standing in the crowd of photographers, looking off to the side. Slowly, the first model turns the head to the camera and gives a long, intense model stare: chin slightly down, eyes narrowing, lips pressed, one eyebrow a little raised.
+2. 5.5-9.4 s: hard cut, a medium wide shot of the rival model walking toward the camera on the red carpet along the white press wall, confident, then noticing the first model and slowing down.
+3. 9.4-11.4 s: hard cut, a close-up of the first model, still staring, the head tilting a little, eyes fixed on the rival.
+4. 11.4-13 s: hard cut, a close-up of the rival model, who stops, turns the head and stares back with the same slow, intense model look.
+
+No dialogue throughout the entire video. No background music.
+Nobody smiles at the camera. The photographers stay soft and out of focus behind the models. No text, no words or logos on the press wall, no subtitles, no watermark.
+```
+
+---
+
+## St Tropez DJ AI Trend: St Tropez Knows How to Party
+
+- Page: https://www.makeviral.ai/templates/st-tropez-dj-ai-trend
+- Markdown: https://www.makeviral.ai/templates/st-tropez-dj-ai-trend.md
+- Updated: 2026-11-12 · Published: 2026-11-12
+- Local: [`makeviral/st-tropez-dj-ai-trend/PROMPTS.md`](makeviral/st-tropez-dj-ai-trend/PROMPTS.md)
+
+### 1. The video prompt is filled in. Settings: Seedance 2.5, 10 s, 720p, 9:16, sound off. The video prompt
+
+```text
+Recreate the reference video [Video 1] shot for shot: the same packed beach club in bright afternoon sun under a reed roof, the same DJ booth with the decks and the mixer in front, the same crowd dancing, clapping and filming with their phones, the same handheld phone camera beside the decks in one continuous take, the same framing, timing and moves. The ONLY change: the main DJ, the man behind the decks in the middle of the frame, is now the person in [Image 1].
+
+Replace the original main DJ with the person in [Image 1], using [Image 1] as the exact facial identity reference. Preserve the original video's camera movements, timing, stage layout, lighting, crowd energy and choreography. A few friends stand naturally behind the decks, celebrating and interacting realistically. Photorealistic skin, accurate facial identity, natural body movements, realistic hands, synchronized gestures, sunny afternoon light, authentic party atmosphere, seamless character replacement, ultra-realistic 4K quality. Keep the original composition and duration. The person in [Image 1] performs as the main DJ at a packed beach club party, mixing on professional DJ decks alongside a second DJ.
+
+The DJ = the person in [Image 1], in EVERY frame: copy the exact face from [Image 1]: face shape, eye color and eye shape, eyebrows, nose, mouth, skin tone, age, hair color, hair length and hairstyle, and any beard, moustache, glasses or freckles exactly as in the photo. The DJ wears the clothes from [Image 1]; if [Image 1] shows only the head or the upper body, invent the rest so it matches naturally. The same real person in every frame, so their friends instantly recognize them, also when the DJ leans over the decks and raises both arms. Never morph, never drift back to the original DJ's face. NO purple tie-dye T-shirt with lettering, NO bleached blond hair, NO red-blond beard, NO gold chain and NO dark sunglasses unless [Image 1] shows them: the DJ's eyes stay visible. If [Image 1] shows an animal, the DJ is that animal standing upright behind the decks, with its own face, fur and markings.
+
+The moves, matching [Video 1] second by second:
+00:00-00:02: behind the decks, hands by the mixer, bouncing to the beat, glancing at the crowd.
+00:02-00:05: hands at chest height, grooving, one hand lifts for a moment, looking out over the crowd.
+00:05-00:07.5: leans over the decks and works the mixer with both hands.
+00:07.5-00:10: throws both arms high above the head, palms open, while the crowd cheers and films.
+
+Everyone else stays exactly as in [Video 1]: the second DJ at the left, the dancers at the right and the crowd. Keep the small white caption "St tropez knows how to party" exactly as in the video.
+
+Anatomy rules: one head only, on the DJ's shoulders. Two arms and two hands, five fingers on each hand. No face distortion, no extra fingers, no artificial-looking people, no other text or watermarks. No dialogue throughout the entire video. No background music.
+```
+
+### 1. The video prompt is filled in. Settings: Seedance 2.5, 10 s, 720p, 9:16, sound off. The video prompt — Pet
+
+```text
+Recreate the reference video [Video 1] shot for shot: the same packed beach club in bright afternoon sun under a reed roof, the same DJ booth with the decks and the mixer in front, the same crowd dancing, clapping and filming with their phones, the same handheld phone camera beside the decks in one continuous take, the same framing, timing and moves. The ONLY change: the main DJ, the man behind the decks in the middle of the frame, is now the pet in [Image 1].
+
+Replace the original main DJ with the pet in [Image 1], using [Image 1] as the exact identity reference. Preserve the original video's camera movements, timing, stage layout, lighting, crowd energy and choreography. A few friends stand naturally behind the decks, celebrating and interacting realistically. Photorealistic skin, accurate facial identity, natural body movements, realistic hands, synchronized gestures, sunny afternoon light, authentic party atmosphere, seamless character replacement, ultra-realistic 4K quality. Keep the original composition and duration. The pet from [Image 1] performs as the main DJ at a packed beach club party, mixing on professional DJ decks alongside a second DJ.
+
+The DJ = the pet in [Image 1], in EVERY frame: the same species and breed, face, eyes, ears, muzzle, fur colors, fur length and markings as in [Image 1], with the natural body volume and proportions of that animal: never flattened, squashed, stretched or merged with anything. Whether [Image 1] shows a dog, a cat or another animal, it stays that animal, standing upright on its hind legs behind the decks with its front paws on the mixer, at the height of the original DJ's chest. The same pet in every frame, from the first second to the last, so its owner instantly recognizes it. No human body, no human face, no purple tie-dye T-shirt, no gold chain and no sunglasses: only its own fur, plus a collar if [Image 1] shows one.
+
+The moves, matching [Video 1] second by second:
+00:00-00:02: behind the decks, hands by the mixer, bouncing to the beat, glancing at the crowd.
+00:02-00:05: hands at chest height, grooving, one hand lifts for a moment, looking out over the crowd.
+00:05-00:07.5: leans over the decks and works the mixer with both hands.
+00:07.5-00:10: throws both arms high above the head, palms open, while the crowd cheers and films. The pet copies each move with its front paws and bobs its head to the beat.
+
+Everyone else stays exactly as in [Video 1]: the second DJ at the left, the dancers at the right and the crowd. Keep the small white caption "St tropez knows how to party" exactly as in the video.
+
+Anatomy rules: one head only, one muzzle, natural teeth and tongue. Exactly two front paws: animal paws, never a human hand. No extra legs, no extra animals. No face distortion, no artificial-looking people, no other text or watermarks. No dialogue throughout the entire video. No background music.
+```
+
+---
+
+## Old Town Road AI Video: Ride the Red Convertible With a Friend
+
+- Page: https://www.makeviral.ai/templates/old-town-road-ai-video
+- Markdown: https://www.makeviral.ai/templates/old-town-road-ai-video.md
+- Updated: 2026-11-12 · Published: 2026-11-12
+- Local: [`makeviral/old-town-road-ai-video/PROMPTS.md`](makeviral/old-town-road-ai-video/PROMPTS.md)
+
+### 1. The video prompt is filled in. Settings: Seedance 2.5, 15 s, 720p, 9:16, sound off. The video prompt
+
+```text
+A sunny country-rap music video in four shots, cut on the beat: a shiny red convertible sports car with the top down and tan leather seats, on a sunny small-town street, warm afternoon sun, a glossy music-video look with soft film grain. Photorealistic live action, vertical 9:16.
+
+[Image 1] defines CHARACTER_A, the singer. Its full appearance comes only from that image. [Image 2] defines CHARACTER_B, the friend with the money bag, likewise. Keep both identities consistent.
+CHARACTER_A is the person in [Image 1], in every frame: copy the exact face from [Image 1] (the face shape, eye color and eye shape, eyebrows, nose, mouth, skin tone, age, hair color, hair length and hairstyle, and any beard, moustache, glasses or freckles), with the clothes from [Image 1] and a black wide-brimmed cowboy hat.
+CHARACTER_B is the person in [Image 2], in every frame: copy the exact face from [Image 2] (the face shape, eye color and eye shape, eyebrows, nose, mouth, skin tone, age, hair color, hair length and hairstyle, and any beard, moustache, glasses or freckles), with the clothes from [Image 2] and a white cowboy hat.
+Preserve each one's own head/body ratio and physique. If an image shows an animal, it stays that animal, sitting upright with its own face and fur and a small cowboy hat. Never swap identities, merge faces or borrow the other's clothing. Each face stays the same in every frame, so their friends recognize them at once.
+
+THE SHOTS:
+[0-3 s] SHOT 1, a low side shot along the red convertible rolling down the street: CHARACTER_B in the passenger seat, leaning toward the open side over the door, extending a big white canvas money bag printed with a large black dollar sign toward the camera, raising a hand near the head to tip the hat, a cool, confident gaze. CHARACTER_A at the wheel, partly in frame.
+[3-7.5 s] SHOT 2, a medium shot of CHARACTER_A in a colorful candy and ice cream shop with jars of sweets, giant ice cream cone decorations and pastel walls: singing straight to the camera, with speech rhythm, head turns, pointing, finger motions, animated two-hand gestures, smiles and body sway.
+[7.5-11.5 s] SHOT 3, closer on CHARACTER_A in the same shop, a slightly lower angle: still singing to the camera, a big confident grin, hands moving to the beat.
+[11.5-15 s] SHOT 4, the later overhead car shot, straight down into the red convertible from behind as it drives on: CHARACTER_A at the wheel on the left, singing and nodding; CHARACTER_B on the right holds the money bag on the lap, smiling; both look up to the camera once. Then the car pulls away and leaves the empty sunny road.
+
+MOUTHS: no sound of its own; a country-rap song goes on afterwards, so the singing must be easy to see: the singer's clear lip movements in short sung phrases from 3 s to the end.
+
+PRIORITY: CHARACTER_A = [Image 1] and CHARACTER_B = [Image 2] > the actions and timing of the shots > scene continuity.
+
+Only these two people. Clear facial features, stable faces, no distortion. No dialogue throughout the entire video. No background music. No sunglasses on anyone. No car badge, no logo, no brand name, no text, no subtitles, no watermark, no extra limbs, no morphing.
+```
+
+### 1. The video prompt is filled in. Settings: Seedance 2.5, 15 s, 720p, 9:16, sound off. The video prompt
+
+```text
+A sunny country-rap music video in four shots, cut on the beat: a shiny red convertible sports car with the top down and tan leather seats, on a sunny small-town street, warm afternoon sun, a glossy music-video look with soft film grain. Photorealistic live action, vertical 9:16.
+
+[Image 1] defines CHARACTER_A, the singer. Its full appearance comes only from that image. Keep the identity consistent.
+CHARACTER_A is the person in [Image 1], in every frame: copy the exact face from [Image 1] (the face shape, eye color and eye shape, eyebrows, nose, mouth, skin tone, age, hair color, hair length and hairstyle, and any beard, moustache, glasses or freckles), with the clothes from [Image 1] and a black wide-brimmed cowboy hat. Preserve their own head/body ratio and physique. If [Image 1] shows an animal, that one is that animal sitting upright like a person, with its own face, fur and markings and a small cowboy hat, never a person. The face stays the same from the first frame to the last, so their friends recognize them at once.
+
+THE SHOTS:
+[0-3 s] SHOT 1, a low side shot along the red convertible as it rolls slowly down the street: CHARACTER_A sits at the wheel alone, leaning toward the open side over the door, extending a big white canvas money bag printed with a large black dollar sign toward the camera, raising a hand near the head to tip the hat, with a cool, confident gaze.
+[3-7.5 s] SHOT 2, a medium shot of CHARACTER_A in a colorful candy and ice cream shop with jars of sweets, giant ice cream cone decorations and pastel walls: CHARACTER_A sings straight to the camera, with speech rhythm, head turns, pointing, finger motions, animated two-hand gestures, smiles and body sway.
+[7.5-11.5 s] SHOT 3, a closer shot of CHARACTER_A in the same shop, from a slightly lower angle: still singing to the camera with a big confident grin, both hands moving to the beat, a small lean toward the lens.
+[11.5-15 s] SHOT 4, the later overhead car shot, looking straight down into the red convertible from behind as it drives down the sunny road: CHARACTER_A alone at the wheel, singing and nodding to the beat, the money bag on the empty passenger seat; a quick look up to the camera. At the end the car pulls away and leaves the empty sunny road.
+
+MOUTHS: no sound of its own; a country-rap song goes on afterwards, so the singing must be easy to see: the singer's clear lip movements in short sung phrases from 3 s to the end.
+
+Only this one person. Clear facial features, a stable face, no distortion, no deformation. No dialogue throughout the entire video. No background music. No sunglasses on anyone. No car badge, no logo, no brand name, no text, no subtitles, no watermark, no extra limbs, no morphing.
+```
+
+### 1. The video prompt is filled in. Settings: Seedance 2.5, 15 s, 720p, 9:16, sound off. The video prompt — Pet
+
+```text
+A sunny country-rap music video in four shots, cut on the beat: a shiny red convertible sports car with the top down and tan leather seats, on a sunny small-town street, warm afternoon sun, a glossy music-video look with soft film grain. Photorealistic live action, vertical 9:16.
+
+THE STAR is the pet in [Image 1], in every frame: the same species and breed, face, eyes, ears, muzzle, fur colors, fur length and markings as in [Image 1], with the natural body volume and proportions of that animal: never flattened, squashed, stretched or merged with anything. Its owner recognizes it at once. It wears only a small black cowboy hat, and it keeps its own animal face, teeth and tongue: only its mouth moves like a singer.
+
+THE SHOTS:
+[0-3 s] SHOT 1, a low side shot along the red convertible as it rolls slowly down the street: the pet sits upright at the wheel, front paws on the wheel, then leans toward the open side over the door with a big white canvas money bag printed with a large black dollar sign beside it, a cool, confident look at the camera.
+[3-7.5 s] SHOT 2, a medium shot of the pet sitting upright on the counter of a colorful candy and ice cream shop with jars of sweets, giant ice cream cone decorations and pastel walls: it sings straight to the camera, its mouth opening and closing to the beat, with head turns and one raised front paw.
+[7.5-11.5 s] SHOT 3, a closer shot of the pet in the same shop, from a slightly lower angle: still singing to the camera, a proud happy face, a small lean toward the lens.
+[11.5-15 s] SHOT 4, the later overhead car shot, looking straight down into the red convertible from behind as it drives down the sunny road: the pet alone at the wheel, nodding to the beat, the money bag on the empty passenger seat; a quick look up to the camera. At the end the car pulls away and leaves the empty sunny road.
+
+MOUTHS: no sound of its own; a country-rap song goes on afterwards, so the singing must be easy to see: the pet's mouth opens and closes in short sung phrases from 3 s to the end.
+
+Exactly one animal and no people. One head, four legs and one tail, no human hands, no human body, no clothes except the small hat. Avoid a cartoon look or a plush toy. No dialogue throughout the entire video. No background music. No sunglasses on anyone. No car badge, no logo, no brand name, no text, no subtitles, no watermark, no extra limbs, no morphing.
+```
+
+---
+
+## Misanthropy Meme AI: You as the Horned Anime Side-Eye
+
+- Page: https://www.makeviral.ai/templates/misanthropy-meme-ai-trend
+- Markdown: https://www.makeviral.ai/templates/misanthropy-meme-ai-trend.md
+- Updated: 2026-11-12 · Published: 2026-11-12
+- Local: [`makeviral/misanthropy-meme-ai-trend/PROMPTS.md`](makeviral/misanthropy-meme-ai-trend/PROMPTS.md)
+
+### 1. Open [AI Photo with this template](https://www.makeviral.ai/photo?template=misanthropy-meme-ai-trend) and add your photo (you, face clear). The photo prompt is filled in — Human
+
+```text
+Turn the person in the uploaded image into a 2D anime character with small horns and half-closed eyes, drawn like one frame of a hand-drawn TikTok animation meme: clean black ink outlines, flat cel shading with one soft shadow tone, smooth simple colors. Head-and-shoulders portrait, centered and facing the viewer, the face large in the frame, cut off at the chest. The character keeps the person's own hairstyle, hair color, hair length, eye color, skin tone, face shape, glasses and facial hair, drawn in this anime style, with a few loose strands over the forehead. Two small, curved, pale ivory horns grow out of the hair on top of the head. A calm, unbothered face: heavy-lidded, half-closed eyes that look at the viewer, the eye color clearly visible, the mouth closed. They wear a plain dark navy hoodie with the hood down and two thin white drawstrings. Plain smooth background that fades from light gray at the top to a darker gray at the bottom. Small thin white text with a soft dark shadow at the very top, centered above the head, exactly: "Misanthropy is when". Vertical 9:16. Exactly one character. No other text, no logos, no watermark.
+The face is always drawn in this 2D anime style, never a photo face: the identity rules below apply to the anime character's face shape, eye color, hair color, hairstyle, bangs, skin tone, glasses, facial hair and gender.
+```
+
+### 3. Press the film button on the still to open AI Video with the still as the first frame. Settings: Kling 3.0, 8 s, 1080p, 9:16, sound off. The video prompt
+
+```text
+A hand-drawn 2D anime meme animation in exactly the style of the image: clean black ink outlines, flat cel shading, smooth limited animation. The camera is locked off, one continuous shot, no zoom, no cuts. The character's face, hair, horns and hoodie and the text at the top stay exactly as in the image in every frame.
+0-2 s: on the gray background, a calm, bored face with heavy-lidded, half-closed eyes. Only the eyes move: a quick side glance to the left, then to the right, then left and right again, with tiny head turns on each beat.
+2-4 s: the background floods from the bottom with pink, then deep red. The head tilts, the eyes narrow, and a slow, sly smirk spreads into a wide grin with teeth; the head sways gently from side to side as if laughing quietly.
+4-6 s: the background snaps back to gray, the face goes calm again, and the eyes glance left, then right.
+6-8 s: the red floods in again and the slow smirk returns: a wide, smug grin with half-closed eyes, swaying gently to the beat.
+Exactly one character, no extra people. The text at the top stays exactly as it is; no other text, no subtitles, no logos, no watermark.
+```
+
+### 1. Open [AI Photo with this template](https://www.makeviral.ai/photo?template=misanthropy-meme-ai-trend&variant=pet) and add your photo (your pet, face clear). The photo prompt is filled in — Pet
+
+```text
+Turn the animal in the uploaded image into a 2D anime drawing of the same animal with small horns and half-closed eyes, drawn like one frame of a hand-drawn TikTok animation meme: clean black ink outlines, flat cel shading with one soft shadow tone, smooth simple colors. Head-and-shoulders portrait, centered and facing the viewer, the face large in the frame. It keeps its own species, breed look, face shape, ear shape, eye color, fur colors, fur length and markings, drawn in this style, with its own animal face and muzzle, never a human face. Two small, curved, pale ivory horns grow out of the fur on top of its head, between the ears. A calm, unbothered face: heavy-lidded, half-closed eyes that look at the viewer, the mouth closed. It wears a small plain dark navy hoodie with the hood down and two thin white drawstrings. Plain smooth background that fades from light gray at the top to a darker gray at the bottom. Small thin white text with a soft dark shadow at the very top, centered above the head, exactly: "Misanthropy is when". Vertical 9:16. Exactly one animal, no people. No other text, no logos, no watermark.
+The animal is always drawn in this 2D anime style, never a photo: the identity rules below apply to its face shape, ears, eye color, fur colors, markings and fur length.
+```
+
+### 3. Press the film button on the still to open AI Video with the still as the first frame. Settings: Seedance 2.5, 8 s, 720p, 9:16, sound off. The video prompt
+
+```text
+A hand-drawn 2D anime meme animation in exactly the style of the image: clean black ink outlines, flat cel shading, smooth limited animation. The camera is locked off, one continuous shot, no zoom, no cuts. The animal's face, fur, markings, horns and hoodie and the text at the top stay exactly as in the image in every frame; the grin is on its own animal mouth and muzzle, never a human mouth.
+0-2 s: on the gray background, a calm, bored face with heavy-lidded, half-closed eyes. Only the eyes move: a quick side glance to the left, then to the right, then left and right again, with tiny head turns on each beat.
+2-4 s: the background floods from the bottom with pink, then deep red. The head tilts, the eyes narrow, and a slow, sly smirk spreads into a wide grin; the head sways gently from side to side as if laughing quietly.
+4-6 s: the background snaps back to gray, the face goes calm again, and the eyes glance left, then right.
+6-8 s: the red floods in again and the slow smirk returns: a wide, smug grin with half-closed eyes, swaying gently to the beat.
+Exactly one animal, no people. The text at the top stays exactly as it is; no other text, no subtitles, no logos, no watermark.
+```
+
+---
+
+## Island Boy Meme AI: Put Your Friends in the Pool
+
+- Page: https://www.makeviral.ai/templates/island-boy-ai-trend
+- Markdown: https://www.makeviral.ai/templates/island-boy-ai-trend.md
+- Updated: 2026-11-12 · Published: 2026-11-12
+- Local: [`makeviral/island-boy-ai-trend/PROMPTS.md`](makeviral/island-boy-ai-trend/PROMPTS.md)
+
+### 1. The video prompt is filled in. Settings: Seedance 2.5, 14 s, 720p, 9:16, sound off. The video prompt
+
+```text
+Recreate the reference video [Video 1] shot for shot: the same small tropical garden pool with the light stone edge, the banana plants and palms behind it, the clear blue water, the daylight, the same handheld phone camera with its subtle horizontal pan, framing, timing and gestures. The ONLY change: the man sitting on the LEFT pool edge is now the person in [Image 1], and the man standing waist-deep in the pool on the RIGHT, the singer, is now the person in [Image 2].
+
+STRICT TWO-PERSON IDENTITY REPLACEMENT: replace both original men. [Image 1] is only the one on the edge, [Image 2] is only the singer. Never swap identities, blend faces or retain original faces.
+
+The one on the edge = the person in [Image 1], in EVERY frame: copy the exact face from [Image 1] (face shape, eye color and eye shape, eyebrows, nose, mouth, skin tone, age, hair color, hair length and hairstyle, and any beard, moustache, glasses or freckles exactly as in the photo). They wear the clothes from [Image 1]. NO long wavy dark hair, no full dark beard, no grey t-shirt and no brown trousers unless [Image 1] shows them.
+
+The singer = the person in [Image 2], in EVERY frame: copy the exact face from [Image 2] (face shape, eye color and eye shape, eyebrows, nose, mouth, skin tone, age, hair color, hair length and hairstyle, and any beard, moustache, glasses or freckles exactly as in the photo). They wear the clothes from [Image 2]. NO black leather jacket, no black shirt, no grey goatee and no slicked-back grey hair unless [Image 2] shows them.
+
+STRICT IDENTITY CONSISTENCY: the same real people in every frame, first to last, also in head turns and gestures. Never morph, never drift back to the original men's faces. Both change: no one from the video stays.
+
+EXACT 14-SECOND MOTION REPLICATION: [Video 1] is the ONLY source of motion, timing, expressions, gestures and camera movement.
+0-2 s: the one on the edge sits on the LEFT edge, leaning slightly forward, looking toward the singer. The singer bends forward in the water, looking down.
+2-3.5 s: the singer straightens up and turns toward the one on the edge.
+3.5-6 s: the singer sings with natural mouth movements and small hand gestures. The one on the edge watches and listens.
+6-8 s: the singer brings both hands together near the chest, the same clasping and emphasizing gestures as the reference.
+8-10 s: the singer smiles, more expressive, and opens the arms outward.
+10-14 s: expressive hand gestures and subtle body moves, the gaze alternating between the one on the edge and the camera, until the end. The one on the edge stays seated.
+
+NATURAL WATER INTERACTION: preserve the original water level, reflections, ripples, splashes and water occlusion. The singer stands waist-deep, fully dressed.
+
+Anatomy rules: one head per character, on its own body. Exactly two characters, no extra people. Do not import the photos' backgrounds. No dialogue throughout the entire video. No background music. No subtitles, captions, text, logos or watermarks.
+```
+
+### 1. The video prompt is filled in. Settings: Seedance 2.5, 14 s, 720p, 9:16, sound off. The video prompt
+
+```text
+Recreate the reference video [Video 1] shot for shot: the same small tropical garden pool with the light stone edge, the banana plants and palms behind it, the clear blue water, the daylight, the same handheld phone camera with its subtle horizontal pan, framing, timing and gestures. The ONLY change: the man standing waist-deep in the pool on the RIGHT, the singer, is now the person in [Image 1], and the man sitting on the LEFT pool edge is now a new, made-up adult man.
+
+The singer = the person in [Image 1], in EVERY frame: copy the exact face from [Image 1] (face shape, eye color and eye shape, eyebrows, nose, mouth, skin tone, age, hair color, hair length and hairstyle, and any beard, moustache, glasses or freckles exactly as in the photo). They wear the clothes from [Image 1]. NO black leather jacket, no black shirt, no grey goatee and no slicked-back grey hair unless [Image 1] shows them.
+
+The one on the edge = a completely original, fictional adult man with a natural, realistic appearance: short light-brown hair, clean-shaven, a plain white t-shirt and blue jeans. Not the original man's face or likeness: NO long wavy dark hair, no full dark beard, no grey t-shirt.
+
+STRICT IDENTITY CONSISTENCY: the singer is the same real person in every frame, first to last, also in head turns, expressions and gestures. Never morph, never drift back to the original man's face. Never blend the two identities or duplicate the singer.
+
+EXACT 14-SECOND MOTION REPLICATION: [Video 1] is the ONLY source of motion, timing, expressions, gestures and camera movement.
+0-2 s: the one on the edge sits on the LEFT edge, leaning slightly forward, looking toward the singer. The singer bends forward in the water, looking down.
+2-3.5 s: the singer straightens up and turns toward the one on the edge.
+3.5-6 s: the singer sings with natural mouth movements and small hand gestures. The one on the edge watches and listens.
+6-8 s: the singer brings both hands together near the chest, the same clasping and emphasizing gestures as the reference.
+8-10 s: the singer smiles, more expressive, and opens the arms outward.
+10-14 s: expressive hand gestures and subtle body moves, the gaze alternating between the one on the edge and the camera, until the end. The one on the edge stays seated.
+
+NATURAL WATER INTERACTION: preserve the original water level, reflections, ripples, splashes and water occlusion. The singer stands waist-deep, fully dressed.
+
+Anatomy rules: one head per character, on its own body. Exactly two characters, no extra people. Do not import the photos' backgrounds. No dialogue throughout the entire video. No background music. No subtitles, captions, text, logos or watermarks.
+```
+
+### 1. The video prompt is filled in. Settings: Seedance 2.5, 14 s, 720p, 9:16, sound off. The video prompt
+
+```text
+Recreate the reference video [Video 1] shot for shot: the same small tropical garden pool with the light stone edge, the banana plants and palms behind it, the clear blue water, the daylight, the same handheld phone camera with its subtle horizontal pan, framing, timing and gestures. The ONLY change: the man sitting on the LEFT pool edge is now the pet in [Image 1], and the man standing waist-deep in the pool on the RIGHT, the singer, is now the person in [Image 2].
+
+The one on the edge = the pet in [Image 1], whole body, in EVERY frame: the same species and breed, face, eyes, ears, muzzle, fur colors, fur length and markings as in [Image 1], with the natural body volume and proportions of that animal: never flattened, squashed, stretched or merged with anything, so its owner recognizes it at once. It sits on the stone edge like a real animal, front paws near the water, and turns its head to the singer and to the camera on the man's beats. No clothes, no human hands, never upright, no long dark hair, no beard.
+
+The singer = the person in [Image 2], in EVERY frame: copy the exact face from [Image 2] (face shape, eye color and eye shape, eyebrows, nose, mouth, skin tone, age, hair color, hair length and hairstyle, and any beard, moustache, glasses or freckles exactly as in the photo). They wear the clothes from [Image 2]. NO black leather jacket, no black shirt, no grey goatee and no slicked-back grey hair unless [Image 2] shows them.
+
+STRICT IDENTITY CONSISTENCY: the same pet and the same real person in every frame, from the first second to the last. Never morph, never drift back to the original men. Both change: no one from the video stays.
+
+EXACT 14-SECOND MOTION REPLICATION: [Video 1] is the ONLY source of motion, timing, expressions, gestures and camera movement.
+0-2 s: the one on the edge sits on the LEFT edge, leaning slightly forward, looking toward the singer. The singer bends forward in the water, looking down.
+2-3.5 s: the singer straightens up and turns toward the one on the edge.
+3.5-6 s: the singer sings with natural mouth movements and small hand gestures. The one on the edge watches and listens.
+6-8 s: the singer brings both hands together near the chest, the same clasping and emphasizing gestures as the reference.
+8-10 s: the singer smiles, more expressive, and opens the arms outward.
+10-14 s: expressive hand gestures and subtle body moves, the gaze alternating between the one on the edge and the camera, until the end. The one on the edge stays seated.
+
+NATURAL WATER INTERACTION: preserve the original water level, reflections, ripples, splashes and water occlusion. The singer stands waist-deep, fully dressed.
+
+Anatomy rules: one head per character, on its own body. Exactly two characters, no extra people. Do not import the photos' backgrounds. No dialogue throughout the entire video. No background music. No subtitles, captions, text, logos or watermarks.
+```
+
+### 1. The video prompt is filled in. Settings: Seedance 2.5, 14 s, 720p, 9:16, sound off. The video prompt — Pet
+
+```text
+Recreate the reference video [Video 1] shot for shot: the same small tropical garden pool with the light stone edge, the banana plants and palms behind it, the clear blue water, the daylight, the same handheld phone camera with its subtle horizontal pan, framing, timing and gestures. The ONLY change: the man sitting on the LEFT pool edge is now the pet in [Image 1], and the man standing waist-deep in the pool on the RIGHT, the singer, is now a new, made-up adult man.
+
+The one on the edge = the pet in [Image 1], whole body, in EVERY frame: the same species and breed, face, eyes, ears, muzzle, fur colors, fur length and markings as in [Image 1], with the natural body volume and proportions of that animal: never flattened, squashed, stretched or merged with anything, so its owner recognizes it at once. It sits on the stone edge like a real animal, front paws near the water, and turns its head to the singer and to the camera on the man's beats. No clothes, no human hands, never upright, no long dark hair, no beard.
+
+The singer = a completely original, fictional adult man with a natural, realistic appearance: short dark-brown hair, clean-shaven, a light blue button-up shirt and dark trousers. Not the original man's face or likeness: NO black leather jacket, no grey goatee, no slicked-back grey hair.
+
+STRICT IDENTITY CONSISTENCY: the same pet in every frame, from the first second to the last. Never drift back to the original men. No one from the video stays.
+
+EXACT 14-SECOND MOTION REPLICATION: [Video 1] is the ONLY source of motion, timing, expressions, gestures and camera movement.
+0-2 s: the one on the edge sits on the LEFT edge, leaning slightly forward, looking toward the singer. The singer bends forward in the water, looking down.
+2-3.5 s: the singer straightens up and turns toward the one on the edge.
+3.5-6 s: the singer sings with natural mouth movements and small hand gestures. The one on the edge watches and listens.
+6-8 s: the singer brings both hands together near the chest, the same clasping and emphasizing gestures as the reference.
+8-10 s: the singer smiles, more expressive, and opens the arms outward.
+10-14 s: expressive hand gestures and subtle body moves, the gaze alternating between the one on the edge and the camera, until the end. The one on the edge stays seated.
+
+NATURAL WATER INTERACTION: preserve the original water level, reflections, ripples, splashes and water occlusion. The singer stands waist-deep, fully dressed.
+
+Anatomy rules: one head per character, on its own body. Exactly two characters, no extra people. Do not import the photos' backgrounds. No dialogue throughout the entire video. No background music. No subtitles, captions, text, logos or watermarks.
+```
+
+---
+
+## If I Was ChatGPT Trend: Your Observe, Just Observe Mood Board
+
+- Page: https://www.makeviral.ai/templates/if-i-was-chatgpt-trend
+- Markdown: https://www.makeviral.ai/templates/if-i-was-chatgpt-trend.md
+- Updated: 2026-11-12 · Published: 2026-11-12
+- Local: [`makeviral/if-i-was-chatgpt-trend/PROMPTS.md`](makeviral/if-i-was-chatgpt-trend/PROMPTS.md)
+
+### Prompt 1
+
+```text
+Use the uploaded image as the base. Observe, just observe. Only dry answers. Look closely at the person in the uploaded photo: the face, the expression, the hair, the clothes, the colors, the place and the mood of the photo. Then answer these questions for this person in one word, or two at most, the way the trend's chat answers do: If I was a city. If I was a season. If I was a flower. If I was a painting (a famous classic painting from before 1900). If I was an animal. If I was an element. Choose every answer from what the photo shows, so it fits this person's look and mood, never a random or generic choice. Make ONE vertical 9:16 mood board image that shows the answers, in the look of the "if I was" slideshows. A plain near-black background, like a phone chat screen in dark mode. At the very top, one small rounded chat bubble in deep navy blue on the right side, with the words "Observe, just observe." in clean white sans-serif text. In the middle of the image, the uploaded photo itself, as it is: the same framing, pose, background, light and colors, only cropped to fit a large rounded rectangle about 75 percent of the image width and about 45 percent of its height, with the face fully in view. Above the photo, a row of three square picture tiles; below the photo, another row of three square picture tiles, all with rounded corners and thin black gaps. Each tile is one real, photorealistic picture of the answer, never a drawing of the person: the city as a real street or skyline view of that city with its known landmarks, the season as a landscape in that season, the flower as a close-up of that flower, the painting as the whole real painting, flat and straight on, the animal as a real photo of that animal in nature, the element as a real photo of it (water, fire, air or earth). Top row, left to right: city, season, flower. Bottom row, left to right: painting, animal, element. Under each tile, a short label in small white sans-serif text: the question word, a colon and the answer, for example "City: Vienna." or "Season: Autumn.", and for the painting the title and the painter's last name. Spell every label correctly. The colors of the six pictures match the colors and the mood of the photo, so the board looks calm and put together. No other people in any tile, no faces in the tiles, no text or watermark inside the pictures, no logos, no app icons, no buttons, no frames other than the rounded corners. Exactly one person in the whole image, and only in the middle photo. Keep the person in the middle photo exactly as in the uploaded image.
+```
+
+### Prompt 2 — Pet
+
+```text
+Use the uploaded image as the base. Observe, just observe. Only dry answers. Look closely at the pet in the uploaded photo: its species, its face and expression, its fur colors and markings, its pose, the place and the mood of the photo. Then answer these questions for this pet in one word, or two at most, the way the trend's chat answers do: If my pet was a city. If my pet was a season. If my pet was a flower. If my pet was a painting (a famous classic painting from before 1900). If my pet was an animal (a wild animal, not its own species). If my pet was an element. Choose every answer from what the photo shows, so it fits this pet's look and mood, never a random or generic choice. Make ONE vertical 9:16 mood board image that shows the answers, in the look of the "if I was" slideshows. A plain near-black background, like a phone chat screen in dark mode. At the very top, one small rounded chat bubble in deep navy blue on the right side, with the words "Observe, just observe." in clean white sans-serif text. In the middle of the image, the uploaded photo itself, as it is: the same framing, pose, background, light and colors, only cropped to fit a large rounded rectangle about 75 percent of the image width and about 45 percent of its height, with the face fully in view. Above the photo, a row of three square picture tiles; below the photo, another row of three square picture tiles, all with rounded corners and thin black gaps. Each tile is one real, photorealistic picture of the answer, never a drawing of the person: the city as a real street or skyline view of that city with its known landmarks, the season as a landscape in that season, the flower as a close-up of that flower, the painting as the whole real painting, flat and straight on, the animal as a real photo of that animal in nature, the element as a real photo of it (water, fire, air or earth). Top row, left to right: city, season, flower. Bottom row, left to right: painting, animal, element. Under each tile, a short label in small white sans-serif text: the question word, a colon and the answer, for example "City: Vienna." or "Season: Autumn.", and for the painting the title and the painter's last name. Spell every label correctly. The colors of the six pictures match the colors and the mood of the photo, so the board looks calm and put together. No other people in any tile, no faces in the tiles, no text or watermark inside the pictures, no logos, no app icons, no buttons, no frames other than the rounded corners. Exactly one pet in the whole image, and only in the middle photo: the same species, breed look, face, eyes, ears, fur colors, fur length and markings as in the uploaded image, with its natural body proportions. No people anywhere.
+```
+
+---
+
+## Davul Zurna Yapay Zeka: Dance and Sing in the Viral Warehouse Clip
+
+- Page: https://www.makeviral.ai/templates/davul-zurna-ai-trend
+- Markdown: https://www.makeviral.ai/templates/davul-zurna-ai-trend.md
+- Updated: 2026-11-12 · Published: 2026-11-12
+- Local: [`makeviral/davul-zurna-ai-trend/PROMPTS.md`](makeviral/davul-zurna-ai-trend/PROMPTS.md)
+
+### 1. The video prompt is filled in. Settings: Seedance 2.5, 15 s, 720p, 9:16, sound off. The video prompt
+
+```text
+Recreate the reference video [Video 1] shot for shot: the same big workshop with a concrete floor, stacked boxes and goods wrapped in red plastic, a red flag with a white crescent and star hanging from the ceiling and a black horse statue at the back; the same handheld phone camera, framing, timing and moves, one continuous shot. The zurna player stands on the LEFT, the davul player with the big drum on a strap on the RIGHT, and the dancer between them. The ONLY change: the dancer in the middle, the man who walks to the camera and sings, is now the person in [Image 1].
+
+The dancer = the person in [Image 1], in EVERY frame: copy the exact face from [Image 1] - face shape, eye color and eye shape, eyebrows, nose, mouth, skin tone, age, hair color, hair length and hairstyle, and any beard, moustache, glasses or freckles exactly as in the photo. The dancer wears the clothes from [Image 1]; if [Image 1] shows only the head or the upper body, invent the rest so it matches naturally. The same real person in every frame, from the first second to the last, so their friends instantly recognize them, also in the big close-up when the dancer sings into the camera. Never morph, never drift back to the original dancer's face. NO short beard and NO black leather vest unless [Image 1] shows them, and the age of [Image 1]. If [Image 1] shows an animal, the dancer is that animal standing upright on its hind legs, with its own face, fur and markings and the natural body volume and proportions of that animal: never flattened, squashed, stretched or merged with anything.
+
+[Image 1] is the sole face reference for the dancer. [Video 1] is for the moves, the mouth and the camera only. The zurna player and the davul player stay exactly as in [Video 1].
+
+The performance, matching [Video 1] second by second:
+00:00-00:02: the dancer dances in place between the two players, one arm up, shoulders shaking to the drum.
+00:02-00:05.5: the dancer walks straight toward the camera, singing.
+00:05.5-00:10: close to the camera, seen from the knees up, the dancer sings into it with the mouth wide open, one hand up, the other pointing and gesturing at the camera.
+00:10-00:12.5: leans in even closer, a big face in the frame, singing loud, then points at the camera.
+00:12.5-00:15: turns around and walks back to the players with both arms up.
+The zurna player plays the zurna and the davul player beats the drum the whole time. The dancer's mouth opens and closes exactly when the original dancer's mouth does in [Video 1], as if singing every word.
+
+Real live-action phone footage, natural light, clear facial features, no distortion. No dialogue, no background music.
+
+Anatomy rules: one head only on each body. A face never appears on hands, legs, clothes or the drum. Two arms and five fingers on each hand. No extra dancers, no extra people in front. No text, no captions, no stickers, no logos, no watermark.
+```
+
+### 1. The video prompt is filled in. Settings: Seedance 2.5, 15 s, 720p, 9:16, sound off. The video prompt
+
+```text
+Recreate the reference video [Video 1] shot for shot: the same big workshop with a concrete floor, stacked boxes and goods wrapped in red plastic, a red flag with a white crescent and star hanging from the ceiling and a black horse statue at the back; the same handheld phone camera, framing, timing and moves, one continuous shot. The zurna player stands on the LEFT, the davul player with the big drum on a strap on the RIGHT, and the dancer between them. The ONLY change: the three men are now the three people in the photos. All three change: no one from the video stays, also in the wide shots and when only the back of a head shows.
+
+The dancer in the middle = the person in [Image 1]. The zurna player on the LEFT = the person in [Image 2]. The davul player on the RIGHT = the person in [Image 3]. For each of them, in EVERY frame, copy the exact face from their own photo - face shape, eye color and eye shape, eyebrows, nose, mouth, skin tone, age, hair color, hair length and hairstyle, and any beard, moustache, glasses or freckles exactly as in the photo. NO short beard and NO black leather vest on the dancer unless [Image 1] shows them. NO white hair on the davul player unless [Image 3] shows it.
+Each person wears the clothes from their own photo and keeps the age of their photo. The faces are fully locked by place: [Image 1] in the middle, [Image 2] on the left, [Image 3] on the right. Never blend their faces, never swap places, never drift back to the original men's faces. Each face stays the same from the first frame to the last, so their friends recognize them at once. If a photo shows an animal, that person is that animal standing upright, with its own face, fur and markings. [Video 1] is for the moves, the mouths and the camera only.
+
+The performance, matching [Video 1] second by second:
+00:00-00:02: the dancer dances in place between the two players, one arm up, shoulders shaking to the drum.
+00:02-00:05.5: the dancer walks straight toward the camera, singing.
+00:05.5-00:10: close to the camera, seen from the knees up, the dancer sings into it with the mouth wide open, one hand up, the other pointing and gesturing at the camera.
+00:10-00:12.5: leans in even closer, a big face in the frame, singing loud, then points at the camera.
+00:12.5-00:15: turns around and walks back to the players with both arms up.
+The zurna player plays the zurna and the davul player beats the drum the whole time. The dancer's mouth opens and closes exactly when the original dancer's mouth does in [Video 1], as if singing every word.
+
+Real live-action phone footage, natural light, clear facial features, no distortion. No dialogue, no background music.
+
+Anatomy rules: one head only on each body. A face never appears on hands, legs, clothes or the drum. Two arms and five fingers on each hand. No extra dancers, no extra people in front. No text, no captions, no stickers, no logos, no watermark.
+```
+
+### 1. The video prompt is filled in. Settings: Seedance 2.5, 15 s, 720p, 9:16, sound off. The video prompt — Pet
+
+```text
+Recreate the reference video [Video 1] shot for shot: the same big workshop with a concrete floor, stacked boxes and goods wrapped in red plastic, a red flag with a white crescent and star hanging from the ceiling and a black horse statue at the back; the same handheld phone camera, framing, timing and moves, one continuous shot. The zurna player stands on the LEFT, the davul player with the big drum on a strap on the RIGHT, and the dancer between them. The ONLY change: the dancer in the middle, the man who walks to the camera and sings, is now the pet in [Image 1].
+
+The pet = the pet in [Image 1], in EVERY frame: the same species and breed, face, eyes, ears, muzzle, fur colors, fur length and markings as in [Image 1], with the natural body volume and proportions of that animal: never flattened, squashed, stretched or merged with anything. Whether [Image 1] shows a dog, a cat or another animal, it stays that animal, standing and dancing upright on its hind legs, with animal paws, no clothes and no human body. The same pet in every frame, from the first second to the last, so its owner instantly recognizes it, also in the big close-up. The original dancer never appears. The zurna player and the davul player stay exactly as in [Video 1].
+
+The performance, matching [Video 1] second by second:
+00:00-00:02: the pet dances on its hind legs between the two players, one front paw up, swaying to the drum.
+00:02-00:05.5: the pet walks upright straight toward the camera, mouth opening as if singing.
+00:05.5-00:10: close to the camera, the pet sings into it with the mouth wide open, one front paw up, the other paw pointing at the camera.
+00:10-00:12.5: leans in even closer, a big face in the frame, then points a paw at the camera.
+00:12.5-00:15: turns around and walks back to the players with both front paws up.
+The zurna player plays the zurna and the davul player beats the drum the whole time. The pet's mouth opens and closes exactly when the original dancer's mouth does in [Video 1].
+
+Anatomy rules: one head only, one muzzle, natural teeth and tongue. Two front paws and two hind legs, animal paws, never human hands. No extra animals, no extra people in front. Real live-action phone footage, natural light, no distortion. No dialogue, no background music. No text, no captions, no stickers, no logos, no watermark.
+```
+
+---
+
+## Come On Barbie Let's Go Party AI: Do the Barbie Girl Dance Trend From Two Photos
+
+- Page: https://www.makeviral.ai/templates/barbie-girl-dance-ai-trend
+- Markdown: https://www.makeviral.ai/templates/barbie-girl-dance-ai-trend.md
+- Updated: 2026-11-12 · Published: 2026-11-12
+- Local: [`makeviral/barbie-girl-dance-ai-trend/PROMPTS.md`](makeviral/barbie-girl-dance-ai-trend/PROMPTS.md)
+
+### 1. The video prompt is filled in. Settings: Seedance 2.5, 13 s, 720p, 9:16, sound off. The video prompt
+
+```text
+Recreate the reference video [Video 1] shot for shot, as closely and faithfully as possible: the same bright front hall with cream walls, the dark wooden front door with tall stained-glass side windows and the light tile floor, the same fixed phone camera, the same framing, cuts, timing, choreography, gestures and interaction. Replace ONLY the original woman and the original man. The ONLY change: the woman on the left is now the person in [Image 1] (subject 1), and the man on the right is now the person in [Image 2] (subject 2).
+
+Subject 1 = the person in [Image 1], in EVERY frame: copy the exact face from [Image 1] - face shape, eye color and eye shape, eyebrows, nose, mouth, skin tone, age, hair color, hair length and hairstyle, and any beard, moustache, glasses or freckles exactly as in the photo. If the video shows a different appearance, ignore it completely. NO two dark braids and no necklace unless [Image 1] shows them.
+
+Subject 2 = the person in [Image 2], in EVERY frame: copy the exact face from [Image 2] - face shape, eye color and eye shape, eyebrows, nose, mouth, skin tone, age, hair color, hair length and hairstyle, and any beard, moustache, glasses or freckles exactly as in the photo. If the video shows a different appearance, ignore it completely. NO shaved head and NO short dark beard unless [Image 2] shows them.
+
+Wardrobe: keep the clothing style from the video. Subject 1 wears a navy sleeveless romper; subject 2 wears a plain black T-shirt and khaki shorts. Do not redesign the outfits.
+
+The same real people in every frame, so their friends instantly recognize them, also after the turn at the start and in fast moves. Do not allow face drift, hairstyle drift, hair-color drift or a temporary return to the original people's appearance. Do not mix the two faces: [Image 1] is only subject 1, [Image 2] is only subject 2. Both change: no one from the video stays.
+
+The moves, matching [Video 1] second by second, with its jump cuts, head to toe, side by side, subject 1 on the left and subject 2 on the right:
+Shot 1 [0-3.5s]: both stand with their backs to the camera, turn around at about 0.8s, then bounce on the beat with the hands loose at the waist; subject 2 makes a playful wide-eyed face.
+Shot 2 [3.5-5.4s]: jump cut, subject 1 sways the hips with one hand up; subject 2 bounces along.
+Shot 3 [5.4-7.3s]: jump cut, subject 1 leans on subject 2's side and poses, hands on the hips.
+Shot 4 [7.3-9.1s]: jump cut, both pump one fist in the air on the beat.
+Shot 5 [9.1-10.9s]: jump cut, subject 1 turns side-on, a hand on the hip; subject 2 crosses the arms.
+Shot 6 [10.9-12.8s]: jump cut, a playful finish: subject 1 leans away and swings an arm, subject 2 swings an arm over subject 1's head, both laughing.
+
+No dialogue throughout the entire video. No background music.
+
+Anatomy rules: one head per person, on their own shoulders. Two arms and two hands each, five fingers on each hand. Exactly two people. No new shots, no subtitles, captions, text, logos or watermark.
+```
+
+### 1. The video prompt is filled in. Settings: Seedance 2.5, 13 s, 720p, 9:16, sound off. The video prompt — Pet
+
+```text
+Recreate the reference video [Video 1] shot for shot, as closely and faithfully as possible: the same bright front hall with cream walls, the dark wooden front door with tall stained-glass side windows and the light tile floor, the same fixed phone camera, the same framing, cuts, timing, choreography and interaction. Replace ONLY the original woman and the original man. The ONLY change: the woman on the left is now the person in [Image 1] (subject 1), and the man on the right is now the pet in [Image 2] (subject 2).
+
+Subject 1 = the person in [Image 1], in EVERY frame: copy the exact face from [Image 1] - face shape, eye color and eye shape, eyebrows, nose, mouth, skin tone, age, hair color, hair length and hairstyle, and any beard, moustache, glasses or freckles exactly as in the photo. NO two dark braids and no necklace unless [Image 1] shows them. They wear a navy sleeveless romper, as in the video.
+
+Subject 2 = the pet in [Image 2], in EVERY frame: the same species and breed, face, eyes, ears, muzzle, fur colors, fur length and markings as in [Image 2], with the natural body volume and proportions of that animal: never flattened, squashed, stretched or merged with anything, so its owner instantly recognizes it. It stands upright on its hind legs in the man's place and does his moves with its front paws. Never a person: no human face, no human hands, no T-shirt or shorts.
+
+The same person and the same pet in every frame, also after the turn at the start and in fast moves. Do not allow face drift or a temporary return to the original people's appearance. Both change: no one from the video stays.
+
+The moves, matching [Video 1] second by second, with its jump cuts, head to toe, side by side, subject 1 on the left and subject 2 on the right:
+Shot 1 [0-3.5s]: both stand with their backs to the camera, turn around at about 0.8s, then bounce on the beat with the hands loose at the waist; subject 2 makes a playful wide-eyed face.
+Shot 2 [3.5-5.4s]: jump cut, subject 1 sways the hips with one hand up; subject 2 bounces along.
+Shot 3 [5.4-7.3s]: jump cut, subject 1 leans on subject 2's side and poses, hands on the hips.
+Shot 4 [7.3-9.1s]: jump cut, both pump one fist in the air on the beat.
+Shot 5 [9.1-10.9s]: jump cut, subject 1 turns side-on, a hand on the hip; subject 2 crosses the arms.
+Shot 6 [10.9-12.8s]: jump cut, a playful finish: subject 1 leans away and swings an arm, subject 2 swings an arm over subject 1's head, both laughing.
+
+No dialogue throughout the entire video. No background music.
+
+Anatomy rules: one head each. Two hands with five fingers for the person; the pet has animal paws, never human hands, and one tail at most. Exactly one person and one pet. No new shots, no extra people or animals, no subtitles, captions, text, logos or watermark.
+```
+
+### 1. The video prompt is filled in. Settings: Seedance 2.5, 13 s, 720p, 9:16, sound off. The video prompt — Pet
+
+```text
+Recreate the reference video [Video 1] shot for shot, as closely and faithfully as possible: the same bright front hall with cream walls, the dark wooden front door with tall stained-glass side windows and the light tile floor, the same fixed phone camera, the same framing, cuts, timing, choreography and interaction. Replace ONLY the original woman and the original man. The ONLY change: the woman on the left is now the pet in [Image 1] (subject 1), and the man on the right is now the pet in [Image 2] (subject 2).
+
+Subject 1 = the pet in [Image 1], in EVERY frame: the same species and breed, face, eyes, ears, muzzle, fur colors, fur length and markings as in [Image 1], with the natural body volume and proportions of that animal: never flattened, squashed, stretched or merged with anything. It stands upright on its hind legs in the woman's place.
+
+Subject 2 = the pet in [Image 2], in EVERY frame: the same species and breed, face, eyes, ears, muzzle, fur colors, fur length and markings as in [Image 2], with the natural body volume and proportions of that animal: never flattened, squashed, stretched or merged with anything. It stands upright on its hind legs in the man's place.
+
+The same two pets in every frame, so their owner instantly recognizes them, also after the turn at the start. Do not mix the two pets: [Image 1] is only subject 1, [Image 2] is only subject 2. Both change: no person from the video stays, no human face, no clothes from the video. If both photos show the same kind of animal, each keeps its own coat and markings.
+
+The moves, matching [Video 1] second by second, with its jump cuts, head to toe, side by side, subject 1 on the left and subject 2 on the right:
+Shot 1 [0-3.5s]: both stand with their backs to the camera, turn around at about 0.8s, then bounce on the beat with the hands loose at the waist; subject 2 makes a playful wide-eyed face.
+Shot 2 [3.5-5.4s]: jump cut, subject 1 sways the hips with one hand up; subject 2 bounces along.
+Shot 3 [5.4-7.3s]: jump cut, subject 1 leans on subject 2's side and poses, hands on the hips.
+Shot 4 [7.3-9.1s]: jump cut, both pump one fist in the air on the beat.
+Shot 5 [9.1-10.9s]: jump cut, subject 1 turns side-on, a hand on the hip; subject 2 crosses the arms.
+Shot 6 [10.9-12.8s]: jump cut, a playful finish: subject 1 leans away and swings an arm, subject 2 swings an arm over subject 1's head, both laughing.
+
+No dialogue throughout the entire video. No background music.
+
+Anatomy rules: one head and one tail at most per animal, animal paws, never human hands. Exactly two animals, no people. No new shots, no subtitles, captions, text, logos or watermark.
+```
+
+---
+
+## Ahh Almost Almost: Train Hard, Miss by an Inch, From One Photo
+
+- Page: https://www.makeviral.ai/templates/almost-almost-ai-trend
+- Markdown: https://www.makeviral.ai/templates/almost-almost-ai-trend.md
+- Updated: 2026-11-12 · Published: 2026-11-12
+- Local: [`makeviral/almost-almost-ai-trend/PROMPTS.md`](makeviral/almost-almost-ai-trend/PROMPTS.md)
+
+### 1. The video prompt is filled in. Settings: Seedance 2.5, 11 s, 720p, 9:16, sound off. The video prompt
+
+```text
+A two-part sports meme: late-night hard work, then the big try that misses by a tiny distance, twice.
+
+The athlete is the person in [Image 1], alone, in every frame: copy the exact face from [Image 1] (the face shape, eye color and eye shape, eyebrows, nose, mouth, skin tone, age, hair color, hair length and hairstyle, and any beard, moustache, glasses or freckles). The same face from the first frame to the last, so their friends recognize them at once, also in the close-ups and while they groan with the mouth open. They wear simple plain training clothes with no logo.
+
+Filmed like a real phone video for TikTok, vertical: photorealistic, natural skin, real light, a little handheld shake, not CGI, not a cartoon. Medium shots and close-ups keep the face large, sharp and well lit. An empty indoor basketball gym late at night, half the lights off, one hoop lit, a few balls on the floor.
+
+Shot 1 [0-2.2s]: a medium shot: the person trains hard alone, sweaty, dribbling fast between the legs and shooting jump shots one after another, breathing hard.
+Shot 2 [2.2-4.8s]: hard cut, wide from behind and to the side: the person takes a long shot from far out. The ball hits the rim, rolls all the way around it and falls OUT. The person stands stunned, both hands on the head, mouth wide open.
+Shot 3 [4.8-7.6s]: hard cut, a close-up of the face: total focus, a deep breath, eyes locked on the hoop, a small nod. Then a medium shot as they pick up the ball and set their feet again.
+Shot 4 [7.6-11s]: hard cut, wide: the second shot. The ball bounces on the front of the rim, rises, touches the back of the rim and drops out again, so close. The person drops to the knees, hands over the face, then looks up at the camera in disbelief.
+
+The ball never goes in. The person never speaks: no words, only a sharp breath at each try and a pained, open-mouth groan at each miss. No dialogue throughout the entire video. No background music. Only this one adult; no other people, no crowd. No text, no captions, no subtitles, no numbers, no logos, no brand names, no watermark.
+```
+
+### 1. The video prompt is filled in. Settings: Seedance 2.5, 11 s, 720p, 9:16, sound off. The video prompt
+
+```text
+A two-part sports meme: late-night hard work, then the big try that misses by a tiny distance, twice.
+
+The athlete is the person in [Image 1], alone, in every frame: copy the exact face from [Image 1] (the face shape, eye color and eye shape, eyebrows, nose, mouth, skin tone, age, hair color, hair length and hairstyle, and any beard, moustache, glasses or freckles). The same face from the first frame to the last, so their friends recognize them at once, also in the close-ups and while they groan with the mouth open. They wear simple plain training clothes with no logo.
+
+Filmed like a real phone video for TikTok, vertical: photorealistic, natural skin, real light, a little handheld shake, not CGI, not a cartoon. Medium shots and close-ups keep the face large, sharp and well lit. An empty gym late at night, half the lights off, rubber floor, a loaded barbell with plain black plates on a lifting platform.
+
+Shot 1 [0-2.2s]: a medium shot: the person trains hard alone, sweaty, doing fast sets with dumbbells and chalking their hands, breathing hard.
+Shot 2 [2.2-4.8s]: hard cut, from the side: a heavy deadlift. The person pulls, the bar rises to just above the knees, shakes, and stops. They lower it back to the floor. They stand up, both hands on the head, mouth wide open.
+Shot 3 [4.8-7.6s]: hard cut, a close-up of the face: total focus, a deep breath, a small nod. Then a medium shot as they chalk up, grip the bar and set their feet again.
+Shot 4 [7.6-11s]: hard cut, from the side: the second pull. The bar rises to just under the hips, almost locked out, the body shakes, and the bar slowly sinks back to the floor, so close. The person drops to the knees next to the bar, hands over the face, then looks up at the camera in disbelief.
+
+The lift never finishes. Safe, controlled moves: the bar is lowered, never dropped on the body. The person never speaks: no words, only a sharp breath at each try and a pained, open-mouth groan at each miss. No dialogue throughout the entire video. No background music. Only this one adult; no other people, no crowd. No text, no captions, no subtitles, no numbers, no logos, no brand names, no watermark.
+```
+
+### 1. The video prompt is filled in. Settings: Seedance 2.5, 11 s, 720p, 9:16, sound off. The video prompt
+
+```text
+A two-part sports meme: late-night hard work, then the big try that misses by a tiny distance, twice.
+
+The athlete is the person in [Image 1], alone, in every frame: copy the exact face from [Image 1] (the face shape, eye color and eye shape, eyebrows, nose, mouth, skin tone, age, hair color, hair length and hairstyle, and any beard, moustache, glasses or freckles). The same face from the first frame to the last, so their friends recognize them at once, also in the close-ups and while they groan with the mouth open. They wear simple plain training clothes with no logo.
+
+Filmed like a real phone video for TikTok, vertical: photorealistic, natural skin, real light, a little handheld shake, not CGI, not a cartoon. Medium shots and close-ups keep the face large, sharp and well lit. A golf putting green late at night under bright floodlights, dark trees behind, a hole with a plain flag, plain white balls.
+
+Shot 1 [0-2.2s]: a medium shot: the person trains hard alone, putting ball after ball, reading the green on one knee, focused.
+Shot 2 [2.2-4.8s]: hard cut, low and wide along the green: a long putt. The ball rolls straight at the hole, slows, and stops on the very edge of the hole. The person stands stunned, both hands on the head, mouth wide open.
+Shot 3 [4.8-7.6s]: hard cut, a close-up of the face: total focus, a deep breath, eyes on the hole, a small nod. Then a medium shot as they set up over a new ball again.
+Shot 4 [7.6-11s]: hard cut, a close shot at the hole: the second putt rolls in, circles the lip of the hole and spins back out, so close. Then the person drops to the knees on the green, hands over the face, then looks up at the camera in disbelief.
+
+The ball never goes in. The person never speaks: no words, only a sharp breath at each try and a pained, open-mouth groan at each miss. No dialogue throughout the entire video. No background music. Only this one adult; no other people, no crowd. No text, no captions, no subtitles, no numbers, no logos, no brand names, no watermark.
+```
+
+### 1. The video prompt is filled in. Settings: Seedance 2.5, 11 s, 720p, 9:16, sound off. The video prompt — Pet
+
+```text
+A two-part pet meme: late-night hard work, then the big jump that misses by a tiny distance, twice.
+
+The pet is the animal in [Image 1], alone, in every frame: the same species and breed, face, eyes, ears, muzzle, fur colors, fur length and markings as in [Image 1], with the natural body volume and proportions of that animal, on four legs: never flattened, squashed, stretched or merged with anything, never a person, never another animal.
+
+Filmed like a real phone video for TikTok, vertical: photorealistic, natural fur, real light, a little handheld shake, not CGI, not a cartoon. A cozy kitchen late at night, only the warm lights under the cabinets on. A single treat sits on the edge of the kitchen counter.
+
+Shot 1 [0-2.2s]: a medium shot: the pet trains hard alone, running quick laps around the kitchen island and practicing little hops, panting, focused.
+Shot 2 [2.2-4.8s]: hard cut, wide: the pet leaps up at the treat on the counter. Its nose stops a finger's width short of the treat and it drops back to the floor. It sits and stares up, ears back, frozen in shock.
+Shot 3 [4.8-7.6s]: hard cut, a close-up of the pet's face: total focus, eyes locked on the treat, a wiggle of the hips, ready.
+Shot 4 [7.6-11s]: hard cut, wide: the second leap, higher. Its front paws touch the edge of the counter, slide off, and it lands softly back on the floor, so close. It flops down flat on the floor and looks into the camera with sad, disbelieving eyes.
+
+The pet never gets the treat. Soft, safe landings. No human voice, no dialogue throughout the entire video. No background music. Only the pet; no people, no other animals. No text, no captions, no logos, no watermark.
+```
+
+---
+
+## Kara Sevda AI Trend: Your AI Video with Celebrity Stars Kemal and Emir
+
+- Page: https://www.makeviral.ai/templates/ai-video-with-celebrity
+- Markdown: https://www.makeviral.ai/templates/ai-video-with-celebrity.md
+- Updated: 2026-11-12 · Published: 2026-11-12
+- Local: [`makeviral/ai-video-with-celebrity/PROMPTS.md`](makeviral/ai-video-with-celebrity/PROMPTS.md)
+
+### 1. The video prompt is filled in. Settings: Seedance 2.5, 12 s, 720p, 9:16, sound off. The video prompt
+
+```text
+Recreate the reference video [Video 1] shot for shot: one continuous handheld phone selfie video outdoors at night: a dark sky, blurred city lights and a low wall far behind, warm street light on the faces; the phone is held at arm's length by the one who films and moves a little, exactly as in [Video 1]; the same framing, timing, camera moves and light. The ONLY change: [Image 1] replaces the woman who films the selfie (on the right). She is now the person in [Image 1]. The two men of [Video 1] stay exactly as they are, in every frame: the tall bearded man in the navy suit and tie on the left, and the bearded man in black who walks in from behind. Their faces, hair, beards, clothes, moves and looks are untouched. Never put the face from [Image 1] on either man, and never blend faces.
+
+PERSON A = the person in [Image 1], in EVERY frame: copy the exact face from [Image 1] (the face shape, eye color and eye shape, eyebrows, nose, mouth, skin tone, age, hair color, hair length and hairstyle, and any beard, moustache, glasses or freckles), so friends recognize them at once. The face stays the same from the first frame to the last, also in profile and close to the tall man. Never morph, never drift back to the original woman's face: NO long light-brown hair with a middle part unless [Image 1] shows it. PERSON A wears the clothes from [Image 1]; if [Image 1] shows only the head, a dark coat.
+
+WHAT HAPPENS, matching the reference second by second, one take, no cuts:
+0-1 s: PERSON A holds the phone at arm's length and talks softly into the lens, the face big and sharp.
+1-1.8 s: the phone swings to the side and shows the tall man of [Video 1] standing right next to PERSON A.
+1.8-4 s: PERSON A and the tall man stand face to face, very close, in profile to the camera, looking into each other's eyes. PERSON A leans in with pursed lips as if for a kiss; the tall man looks down at PERSON A with a small smile. They never kiss.
+4-5.5 s: the man in black of [Video 1] appears in the dark behind them, between the two, and steps in close.
+5.5-12 s: the man in black puts one arm around the tall man's shoulders and rests his head on the tall man's shoulder with a soft, jealous, puppy-dog look into the lens, and stays there to the end. PERSON A keeps leaning in with pursed lips; the tall man keeps looking down, smiling. All three faces stay big and sharp.
+
+Anatomy rules: exactly three people, one head each, on their own shoulders; two arms each, five fingers on each hand. The head of the man in black rests ON the tall man's shoulder and never merges with his face or neck. No dialogue throughout the entire video. No background music. No text on screen, no subtitles, no watermark, no logos.
+```
+
+### 1. The video prompt is filled in. Settings: Seedance 2.5, 12 s, 720p, 9:16, sound off. The video prompt
+
+```text
+Recreate the reference video [Video 1] shot for shot: one continuous handheld phone selfie video outdoors at night: a dark sky, blurred city lights and a low wall far behind, warm street light on the faces; the phone is held at arm's length by the one who films and moves a little, exactly as in [Video 1]; the same framing, timing, camera moves and light. The ONLY change: all three people are now the people in the photos. [Image 1] replaces the woman who films the selfie (on the right), [Image 2] replaces the tall man in the navy suit who stands face to face with her (on the left), [Image 3] replaces the man in black who walks in from behind (in the middle). No one from the video stays, also when a face is half out of the frame.
+
+PERSON A = the person in [Image 1], PERSON B = the person in [Image 2], PERSON C = the person in [Image 3], in EVERY frame: copy each exact face from its own photo (the face shape, eye color and eye shape, eyebrows, nose, mouth, skin tone, age, hair color, hair length and hairstyle, and any beard, moustache, glasses or freckles). Each face stays the same from the first frame to the last, so friends recognize every one of them at once. Never blend the faces, never swap the roles. Never drift back to the faces of the people in [Video 1]: NO long light-brown hair with a middle part on PERSON A unless [Image 1] shows it, NO thick swept-back dark hair and NO full dark beard on PERSON B unless [Image 2] shows them, NO short dark beard on PERSON C unless [Image 3] shows one.
+
+Each person wears the clothes from their own photo. If a photo shows only the head: PERSON A a dark coat, PERSON B a navy suit with a white shirt and a dark tie, PERSON C a black coat over a black top.
+
+WHAT HAPPENS, matching the reference second by second, one take, no cuts:
+0-1 s: PERSON A holds the phone at arm's length and talks softly into the lens, the face big and sharp.
+1-1.8 s: the phone swings to the side and shows PERSON B standing right next to PERSON A.
+1.8-4 s: PERSON A and PERSON B stand face to face, very close, in profile to the camera, looking into each other's eyes. PERSON A leans in with pursed lips as if for a kiss; PERSON B looks down at PERSON A with a small smile. They never kiss.
+4-5.5 s: PERSON C appears in the dark behind them, between the two, and steps in close.
+5.5-12 s: PERSON C puts one arm around PERSON B's shoulders and rests the head on PERSON B's shoulder, cheek against it, with a soft, jealous, puppy-dog look into the lens, and stays there to the end. PERSON A keeps leaning toward PERSON B with pursed lips; PERSON B keeps looking down, smiling. All three faces stay big and sharp.
+
+Anatomy rules: exactly three people, one head each, on their own shoulders; two arms each, five fingers on each hand. PERSON C's head rests ON PERSON B's shoulder and never merges with PERSON B's face or neck. No dialogue throughout the entire video. No background music. No text on screen, no subtitles, no watermark, no logos.
+```
+
+### 1. The video prompt is filled in. Settings: Seedance 2.5, 12 s, 720p, 9:16, sound off. The video prompt
+
+```text
+Recreate the reference video [Video 1] shot for shot: one continuous handheld phone selfie video outdoors at night: a dark sky, blurred city lights and a low wall far behind, warm street light on the faces; the phone is held at arm's length by the one who films and moves a little, exactly as in [Video 1]; the same framing, timing, camera moves and light. The ONLY change: [Image 1] replaces the woman who films the selfie (on the right) and [Image 2] replaces the tall man in the navy suit who stands face to face with her (on the left). The man in black who walks in from behind is a MADE-UP FRIEND with a clearly different face from the man in [Video 1]: a clean-shaven man in his thirties with short curly red hair and round black glasses, in a black coat. Never the dark hair, the beard or the face of the man in [Video 1]. No one from the video keeps their face.
+
+PERSON A = the person in [Image 1], PERSON B = the person in [Image 2], in EVERY frame: copy each exact face from its own photo (the face shape, eye color and eye shape, eyebrows, nose, mouth, skin tone, age, hair color, hair length and hairstyle, and any beard, moustache, glasses or freckles). Each face stays the same from the first frame to the last, so friends recognize them at once. Never blend the faces, never swap the roles. Never drift back to the faces of the people in [Video 1]: NO long light-brown hair with a middle part on PERSON A unless [Image 1] shows it, NO thick swept-back dark hair and NO full dark beard on PERSON B unless [Image 2] shows them.
+
+PERSON A and PERSON B wear the clothes from their own photo. If a photo shows only the head: PERSON A a dark coat, PERSON B a navy suit with a white shirt and a dark tie.
+
+WHAT HAPPENS, matching the reference second by second, one take, no cuts:
+0-1 s: PERSON A holds the phone at arm's length and talks softly into the lens, the face big and sharp.
+1-1.8 s: the phone swings to the side and shows PERSON B standing right next to PERSON A.
+1.8-4 s: PERSON A and PERSON B stand face to face, very close, in profile to the camera, looking into each other's eyes. PERSON A leans in with pursed lips as if for a kiss; PERSON B looks down at PERSON A with a small smile. They never kiss.
+4-5.5 s: the made-up friend appears in the dark behind them, between the two, and steps in close.
+5.5-12 s: the friend puts one arm around PERSON B's shoulders and rests his head on PERSON B's shoulder with a soft, jealous, puppy-dog look into the lens, and stays there to the end. PERSON A keeps leaning toward PERSON B with pursed lips; PERSON B keeps looking down, smiling.
+
+Anatomy rules: exactly three people, one head each, on their own shoulders; two arms each, five fingers on each hand. The friend's head rests ON PERSON B's shoulder and never merges with PERSON B's face or neck. No dialogue throughout the entire video. No background music. No text on screen, no subtitles, no watermark, no logos.
+```
+
+### 1. The video prompt is filled in. Settings: Seedance 2.5, 12 s, 720p, 9:16, sound off. The video prompt — Pet
+
+```text
+Recreate the reference video [Video 1] shot for shot: one continuous handheld phone selfie video outdoors at night: a dark sky, blurred city lights and a low wall far behind, warm street light on the faces; the phone is held at arm's length by the one who films and moves a little, exactly as in [Video 1]; the same framing, timing, camera moves and light. The ONLY change: the pet in [Image 1] takes the place of the woman who films the selfie (on the right). The two men of [Video 1] stay exactly as they are, in every frame: the tall bearded man in the navy suit and tie on the left, and the bearded man in black who walks in from behind. Their faces, hair, beards, clothes, moves and looks are untouched. Never put the face from [Image 1] on either man, and never blend faces.
+
+THE PET = the pet in [Image 1], in EVERY frame: the same species and breed, face, eyes, ears, muzzle, fur colors, fur length and markings as in [Image 1], with the natural body volume and proportions of that animal: never flattened, squashed, stretched or merged with anything. It sits on a high ledge right next to the tall man, so its head is at his face height, exactly where the woman's head is in [Video 1]. No human body, no coat, no long hair; the same pet in every frame.
+
+WHAT HAPPENS, matching the reference second by second, one take, no cuts:
+0-1 s: THE PET looks into the lens from very close, as if it films the selfie itself, the face big and sharp. No human hands.
+1-1.8 s: the phone swings to the side and shows the tall man of [Video 1] standing right next to THE PET.
+1.8-4 s: THE PET and the tall man are face to face, nose almost to nose, looking into each other's eyes. THE PET reaches its nose toward him; he looks down at it with a small smile.
+4-5.5 s: the man in black of [Video 1] appears in the dark behind them, between the two, and steps in close.
+5.5-12 s: the man in black puts one arm around the tall man's shoulders and rests his head on the tall man's shoulder with a soft, jealous, puppy-dog look into the lens, and stays there to the end. THE PET keeps its nose close to the tall man; he keeps smiling at it.
+
+Anatomy rules: one pet and two men, one head each, five fingers on each human hand. The head of the man in black rests ON the tall man's shoulder and never merges with his face or neck. No dialogue throughout the entire video. No background music. No text on screen, no subtitles, no watermark, no logos.
+```
+
+### 1. The video prompt is filled in. Settings: Seedance 2.5, 12 s, 720p, 9:16, sound off. The video prompt — Pet
+
+```text
+Recreate the reference video [Video 1] shot for shot: one continuous handheld phone selfie video outdoors at night: a dark sky, blurred city lights and a low wall far behind, warm street light on the faces; the phone is held at arm's length by the one who films and moves a little, exactly as in [Video 1]; the same framing, timing, camera moves and light. The ONLY change: the pet in [Image 1] takes the place of the woman who films the selfie (on the right), and [Image 2] replaces the tall man in the navy suit who stands face to face with her (on the left). The man in black who walks in from behind is a MADE-UP FRIEND with a clearly different face from the man in [Video 1]: a clean-shaven man in his thirties with short curly red hair and round black glasses, in a black coat. Never the dark hair, the beard or the face of the man in [Video 1]. No one from the video keeps their face.
+
+THE PET = the pet in [Image 1], in EVERY frame: the same species and breed, face, eyes, ears, muzzle, fur colors, fur length and markings as in [Image 1], with the natural body volume and proportions of that animal: never flattened, squashed, stretched or merged with anything. It sits on a high ledge right next to PERSON B, so its head is at his face height, exactly where the woman's head is in [Video 1]. No human body, no coat, no long hair; the same pet in every frame.
+
+PERSON B = the person in [Image 2], in EVERY frame: copy the exact face from [Image 2] (the face shape, eye color and eye shape, eyebrows, nose, mouth, skin tone, age, hair color, hair length and hairstyle, and any beard, moustache, glasses or freckles), and the clothes from [Image 2]; if [Image 2] shows only the head, a navy suit with a white shirt and a dark tie. NO thick swept-back dark hair and NO full dark beard unless [Image 2] shows them. Never drift back to the face of the man in [Video 1].
+
+WHAT HAPPENS, matching the reference second by second, one take, no cuts:
+0-1 s: THE PET looks into the lens from very close, as if it films the selfie itself, the face big and sharp. No human hands.
+1-1.8 s: the phone swings to the side and shows PERSON B standing right next to THE PET.
+1.8-4 s: THE PET and PERSON B are face to face, nose almost to nose. THE PET reaches its nose toward PERSON B, who looks down at it with a small smile.
+4-5.5 s: the made-up friend appears in the dark behind them, between the two, and steps in close.
+5.5-12 s: the friend puts one arm around PERSON B's shoulders and rests his head on PERSON B's shoulder with a soft, jealous, puppy-dog look into the lens, and stays there to the end. THE PET keeps its nose close to PERSON B; PERSON B keeps smiling at THE PET.
+
+Anatomy rules: one pet and two people, one head each, five fingers on each human hand. The friend's head rests ON PERSON B's shoulder and never merges with PERSON B's face or neck. No dialogue throughout the entire video. No background music. No text on screen, no subtitles, no watermark, no logos.
+```
+
+---
 
 ## Wizard Cat Meme: Put Your Pet or You at the Keyboard
 
@@ -1548,7 +2237,7 @@ Exactly one person in the room. No other people, no dancers in silhouette, no re
 Use the uploaded image as the base. 9:16 vertical photo, a frame from a music video. The pet from the uploaded image stands upright on its two hind legs, alone in the middle of an empty, minimalist room shaped like a big open box, like a light art installation: smooth, seamless matte walls, floor and ceiling that meet in soft rounded corners, no furniture, no windows, no doors, no stairs and nothing on the walls. The whole room glows with one solid color of soft light that fills every surface, warm golden yellow at this moment. It wears a small, plain, puffy red winter jacket with no logo, open at the front. It faces the camera with a calm, cool look, front paws held loosely out to the sides, the whole body in view from the ears to the hind paws, with its tail. Realistic photo, soft even light from the glowing walls. Exactly one animal and no people. No text, no logos, no watermark.
 ```
 
-### 3. Press the film button on the still to open AI Video with the still as the first frame. Settings: Kling 3.0, 10 s, 1080p, 9:16, sound on. The video prompt
+### 3. Press the film button on the still to open AI Video with the still as the first frame. Settings: Seedance 2.5, 10 s, 720p, 9:16, sound on. The video prompt
 
 ```text
 One continuous shot with no cuts, a fixed camera at the pet's chest height that slowly pushes in. Keep the animal's face, fur, markings, tail, size and the small red jacket, and the empty glowing box room, exactly as in the image. The light of the whole room changes color smoothly; the walls stay empty.
@@ -1669,7 +2358,7 @@ Only the rapper and the troopers. The troopers never take off their helmets and 
 A real photo from a parody music video: a vast, bright white sci-fi hangar with a glossy pale grey floor, tall white walls with glowing light panels and a huge open hangar door onto black space full of stars. In the front centre, the pet from the uploaded image stands upright on its hind legs like a rapper, holding a black handheld microphone in its front paws close to its open mouth, looking at the camera with a bold, confident face. It keeps its own face, eyes, ears, fur colors, fur length and markings, with the natural body of that animal. Behind it, rows of armoured troopers stand in perfect lines, all the same: smooth matte white armour with simple rounded plates and a plain white helmet with one dark curved visor, no faceplate grille, no stripes. The pet's whole body in view and large in the frame, sharp; the troopers a little out of focus. Photorealistic, cool white light, gentle film grain, not CGI, not a cartoon. Vertical 9:16. No robes, no capes, no glowing swords, no weapons, no film costumes or film armour, no logos, no text.
 ```
 
-### 3. Press the film button on the still to open AI Video with the still as the first frame. Settings: Kling 3.0, 10 s, 1080p, 9:16, sound on. The video prompt
+### 3. Press the film button on the still to open AI Video with the still as the first frame. Settings: Seedance 2.5, 10 s, 720p, 9:16, sound on. The video prompt
 
 ```text
 A parody music video in a bright white sci-fi hangar. Keep the pet's face, fur colors, markings and body exactly as in the image. The pet stays upright on its hind legs and raps into the black microphone to a slow, dark beat: its mouth opens and closes in rhythm, it bobs its head, and its free front paw moves to the beat, then points at the camera. Behind it, the rows of white-armoured troopers sway in sync and sing as a deep choir, one gloved hand raised to the helmet. The camera slowly pushes in from a wide shot to a medium close-up of the pet. One continuous shot, no cuts. Audio: an original slow, dark hip-hop beat with a deep piano loop, a deep, wordless trooper choir and playful rap-like sounds in rhythm. No lyrics of any existing song. The troopers never take off their helmets. No extra limbs, no morphing, no text, no logos.
@@ -2190,7 +2879,7 @@ Turn my pet photo into a green, furry Christmas grump character, bright green fu
 Turn my pet photo into a green, furry Christmas grump character, bright green fur skin, mischievous smirk, expressive curved eyebrows, its own eyes with a sly, narrowed look, Santa Claus outfit with fluffy white trim, soft cinematic lighting, the cozy room from the photo as the background, high-detail face texture, holiday mood. Use the uploaded image as the base: it is the same real pet in the same place. Keep its species, breed, body shape, size, pose, head shape, ear shape, muzzle, nose and the camera angle exactly as in the photo, and keep the same room, furniture, floor and light. All of its fur, on the head, the ears, the chest, the legs and the paws, turns a bright yellow-green, soft and fluffy, with natural fur detail and its own fur length; its own pattern and markings still show as lighter and darker shades of green. The nose stays its own color. The face has a sly, mischievous closed-mouth grin that curls up at both corners, and the eyebrows lift into a cheeky curve over half-closed, scheming eyes in the pet's own eye color. It wears a red velvet Santa hat with a thick white fluffy band and a white pom-pom, tilted to one side between its ears, and a small red velvet Santa suit with fluffy white trim at the collar, the cuffs and the hem, closed by a black belt with a square gold buckle. Any collar, harness or clothes from the photo are replaced by the Santa suit. Photorealistic, like a real phone photo of a real animal in a costume: not a cartoon, not a 3D render, not a plush toy. Vertical 9:16: if the photo is wider, extend the room naturally. Exactly one animal and no people. No text, no title, no logo, no watermark, no frame. The only change is the green fur, the grin and the Santa outfit: the identity rules below apply to the pet's breed, head shape, ears, eye color, fur pattern and markings, and its fur colors become the shades of green described above.
 ```
 
-### 3. Press the film button on the still to open AI Video with the still as the first frame. Settings: Kling 3.0, 5 s, 1080p, 9:16, sound on. The video prompt
+### 3. Press the film button on the still to open AI Video with the still as the first frame. Settings: Seedance 2.5, 5 s, 720p, 9:16, sound on. The video prompt
 
 ```text
 A real, funny home video filmed on a phone in one continuous shot, at the pet's eye level. Keep the animal's face, eyes, green fur, Santa hat and red Santa suit exactly as in the image, in the same room and the same light. 0-1 s: the pet sits still and looks into the lens with its sly grin. 1-3 s: the grin slowly widens at both corners, the eyes narrow and the brows lift, as if it has a naughty Christmas plan. 3-5 s: it tilts its head to one side, the pom-pom of the hat swings, and it looks back into the lens, still grinning. It stays in the same spot: only the face, the head and the ears move. The camera stays almost still, with a slight handheld sway. Audio: a soft jingle of sleigh bells and one quiet, cheeky huff from the pet; no music, no voice. Exactly one animal with its own paws. No human hands, no extra limbs, no morphing, no cuts, no text, no logos.
@@ -3010,7 +3699,7 @@ Exactly two heroes, nobody else. Each hero has one head, two arms, two legs and 
 Use the two uploaded images as the base. The pet in the first image stands on the left; the pet in the second image stands on the right. Each keeps its own species, breed look, face, eyes, ears, fur colors, fur length, markings and size exactly as in its own photo, with the natural body volume and proportions of that animal: never flattened, squashed or stretched. Never blend the two. A real photo in an empty old brick warehouse with a concrete floor, a few wooden crates and warm daylight through tall dusty windows, taken from low down at the height of the pets. Both pets stand upright on their hind legs, face to face, in the iconic pointing meme pose: each stretches one front leg out and points its paw straight at the other's face. Each wears a pet-sized red-and-blue hero suit with fine black web lines over the red parts, the hood pulled back so the whole head, face and ears show, no emblem or symbol on the chest or the back, no logo. Both whole bodies in view, from the ears to the hind paws, both faces turned three-quarters to the camera, clear and sharp. Photorealistic, natural fur and natural colors, not CGI. Vertical 9:16. Exactly two animals and no people. No text, no logos, no watermark.
 ```
 
-### 3. Press the film button on the still to open AI Video with the still as the first frame. Settings: Kling 3.0, 10 s, 1080p, 9:16, sound on. The video prompt
+### 3. Press the film button on the still to open AI Video with the still as the first frame. Settings: Seedance 2.5, 10 s, 720p, 9:16, sound on. The video prompt
 
 ```text
 A live-action comedy clip in an old brick warehouse in warm daylight, the camera low at the height of the pets. Keep both animals' faces, eyes, ears, fur colors, markings, sizes and suits exactly as in the image, in every frame, with the natural body volume of each animal.
@@ -3739,7 +4428,7 @@ Exactly one character and one phone. It never turns 3D or into a real photo, nev
 Use the uploaded image as the base. Turn the pet in the photo into a tiny, round, cute chibi plush creature: the head and the body are one soft round bean shape, about as wide as it is tall, with small black dot eyes with a white shine, little pink blush ovals on the cheeks, a tiny happy mouth, two short stubby arms, two tiny feet and a small round tail, drawn as a simple flat 2D hand-drawn cartoon, like a cute doodle sticker animation: thin dark brown outlines, flat soft pastel colors, no shading, no texture, never 3D and never a photo. It is a cute creature version of this pet that its owner recognizes at once: it keeps the same species look, the ear shape, the muzzle, the eye color, the fur colors, the fur pattern and the markings of the pet in the photo, drawn in the same simple style on the round body; never swapped for another animal or breed, and no ears the pet does not have. It stands in the middle of a plain, pure white empty background, like a blank page: no room, no floor line, no other objects, only a tiny soft shadow under its feet. The creature fills about a third of the frame height in the middle, its whole body in view, with white space all around, like the trend clips. Next to it lies an old small dark grey candybar mobile phone with a small green screen and a rubber number keypad, lying flat on the white floor to the lower left of the creature, with a few tiny curved vibration lines around it because it is ringing; the phone has no brand name, no letters and no logo. The creature stands upright on its two tiny feet and faces the camera with a happy little face and blushing cheeks, eyes open, its own paws, never human hands. Vertical 9:16. Exactly one animal creature and no people: an original cartoon of this pet, not an existing cartoon, anime, manga or mascot character. No text, no letters, no logos, no watermark, no frame. The pet is always the cute flat cartoon described above, never a photo: the identity rules below apply to its species look, ear shape, eye color, fur colors and markings.
 ```
 
-### 3. Press the film button on the still to open AI Video with the still as the first frame. Settings: Kling 3.0, 10 s, 1080p, 9:16, sound on. The video prompt
+### 3. Press the film button on the still to open AI Video with the still as the first frame. Settings: Seedance 2.5, 10 s, 720p, 9:16, sound on. The video prompt
 
 ```text
 One continuous shot with no cuts and a locked-off camera, in the same simple flat 2D hand-drawn cartoon style as the image: thin dark outlines, flat soft colors, a plain pure white background. Keep the creature's look, colors, hair or fur, clothes and the old phone on the floor exactly as in the image. The creature stays in the middle of the white frame, its whole body in view.
@@ -4372,7 +5061,7 @@ No other people, exactly one boss. Two hands with five fingers each, no extra li
 Use the uploaded image as the base. Keep the animal's species, breed, face, eye color, fur color, fur length, markings and body size exactly the same as in the photo. 9:16 vertical photo, like a real phone photo. The pet sits upright behind a big wooden desk piled with neat banded bundles of US dollar bills in a dark wood-paneled private office in warm lamp light: a big polished wooden desk in front, piled with neat rows of banded bundles of US dollar bills stacked high, a dark leather chair behind, and bookshelves and a window with blinds soft and out of focus in the back, dressed as a confident big boss in a small, sharp dark suit jacket with a white shirt collar and a dark tie, sized to its own body. It holds a thick banded stack of bills upright between its front paws at chest height and looks into the camera with a smug, satisfied face. Framed from the desk up, the pet's head big and sharp. Real animal paws, never human hands. The bills are soft and a little out of focus, with no readable writing. Exactly one animal, no people. No text, no logos, no watermark.
 ```
 
-### 3. Press the film button on the still to open AI Video with the still as the first frame. Settings: Kling 3.0, 10 s, 1080p, 9:16, sound on. The video prompt
+### 3. Press the film button on the still to open AI Video with the still as the first frame. Settings: Seedance 2.5, 10 s, 720p, 9:16, sound on. The video prompt
 
 ```text
 A funny, photorealistic clip in one continuous take with a fixed camera. Keep the pet's face, fur, markings and body size, its small dark suit and tie, the office, the desk and the cash exactly as in the image.
@@ -4599,7 +5288,7 @@ Use the uploaded image as the base. A photorealistic vertical 9:16 photo, like a
 On the far side of the trench, four characters in plush costumes stand in a queue, a little staggered so every face shows. At the FRONT, right at the edge of the trench and close to the camera, the pet from the photo stands upright on its hind legs in a lime-green plush costume with a straight upright stick antenna; its own head, face, ears and fur show through the round opening of the hood, with the same species and breed look, face, eyes, ears, muzzle, fur colors and markings as in the photo and its natural head size, so its owner recognizes it at once. Behind it three person-sized characters in plush costumes, each with a plain, smooth, pale doll-like face in the opening: one red, with a small round loop antenna; one yellow, with a thin curly antenna; one purple and the tallest, with an upside-down triangle antenna. Each wears a chubby, velvety full-body plush costume with a round hood that frames the face in a round opening, the antenna on top, short mitten arms and a grey square belly panel; they waddle and bounce. The pet looks down at the muddy water, unsure. Exactly one animal and three costume characters, no people without costumes. No text, no letters, no logos, no watermark, no frame.
 ```
 
-### 3. Press the film button on the still to open AI Video with the still as the first frame. Settings: Kling 3.0, 10 s, 1080p, 9:16, sound on. The video prompt
+### 3. Press the film button on the still to open AI Video with the still as the first frame. Settings: Seedance 2.5, 10 s, 720p, 9:16, sound on. The video prompt
 
 ```text
 The same scene, one continuous take from the same fixed low camera at golden hour. The pet in the green plush costume at the front keeps its own face, eyes, ears, fur and markings from the first frame to the last, and the costume stays on.
@@ -4740,7 +5429,7 @@ Use the input pet image as the main subject and strictly preserve the pet's orig
 It touches the ball with its front paws: animal paws, never human hands. Exactly one animal, no person in the front. Vertical 9:16. No captions, no scoreboard graphics, no logos, no team names, no readable numbers, no watermark.
 ```
 
-### 3. Press the film button on the still to open AI Video with the still as the first frame. Settings: Kling 3.0, 12 s, 1080p, 9:16, sound on. The video prompt
+### 3. Press the film button on the still to open AI Video with the still as the first frame. Settings: Seedance 2.5, 12 s, 720p, 9:16, sound on. The video prompt
 
 ```text
 Keep the pet's face, fur colors, markings, ears and size and the arena exactly as in the image. A live pro basketball game filmed from the courtside seats on a long telephoto lens, one continuous handheld take, no cuts, photorealistic. 0-3 s: the pet, upright on its hind legs, dribbles low with its front paws, sizing up the defender in white. 3-5 s: the defender reaches in and pokes the ball loose. 5-7 s: the snatch back: the pet gets down extremely low and rips the ball right back with its front paws; the defender stumbles forward. 7-9 s: the pet hops back behind the three-point line and shoots the ball with both front paws; the camera whips up and follows the ball in a high arc. 9-10 s: the ball drops clean through the net, a splash. 10-12 s: the camera drops back to the court: the pet trots back up the court proudly while the courtside fans jump up and cheer. Audio: sneakers squeaking, the ball bouncing, a rising "oh, oh, oh" from the fans, a big cheer at the splash. No background music, no lyrics, no commentary. No dialogue throughout the entire video. Exactly one animal, never a person, animal paws, never human hands, the natural body volume of that animal, no morphing. Exactly one ball. No logos, no team names, no readable numbers, no text, no watermark.
@@ -4793,7 +5482,7 @@ Only these two people. No one else, no extra limbs, no text, no captions, no log
 Use the uploaded image as the base. The pet from the uploaded image stands upright on its hind legs like a 1980s pop singer at a chrome vintage microphone on a stand, wearing a long light beige trench coat, open, over a dark top, its front paws raised in a small dance move. Behind it a long wall of blue-lit brick arches at night, warm lamp light inside each arch, a wet stone floor. The pet's face is large and sharp, turned to the camera, mouth a little open as if singing. Keep the same species and breed, face, eyes, ears, muzzle, fur colors, fur length and markings as in the photo, with the natural body volume and proportions of that animal: never flattened, squashed or stretched. A real animal with its own paws, no human hands. Medium shot. A late-1980s music video look, photorealistic, soft film grain, warm color, vertical 9:16. No people, no text, no logos.
 ```
 
-### 3. Press the film button on the still to open AI Video with the still as the first frame. Settings: Kling 3.0, 10 s, 1080p, 9:16, sound on. The video prompt
+### 3. Press the film button on the still to open AI Video with the still as the first frame. Settings: Seedance 2.5, 10 s, 720p, 9:16, sound on. The video prompt
 
 ```text
 A late-1980s pop music video shot, one continuous take, the camera slowly pushes in. The pet in the trench coat sways from side to side at the microphone, bobs its head to the beat and swings its front paws in front of its chest in a small dance, opening and closing its mouth as if singing, then tilts its head at the camera. The coat swings a little; its ears, whiskers and fur move. Keep the pet's face, fur, markings and the trench coat exactly as in the image, the natural body of that animal, its own paws, no human hands. Audio: soft footsteps and room tone. No dialogue, no background music. No people, no extra animals, no extra legs, no morphing, no text, no logos.
@@ -4854,7 +5543,7 @@ Exactly one person. Real live-action footage, clear facial features, no distorti
 Use the uploaded image as the base. Keep the animal's species, breed, face, eye color, fur color, fur length, markings and body size exactly the same as in the photo. A real photo of the same pet sitting upright like a person in a dark bedroom streaming setup at night: a pink and purple LED strip glows on the wall behind, a large United States flag hangs flat on that wall, a black gaming chair behind the shoulders, soft cinematic light on the face. It wears a small plain black hoodie with no print, and a small black over-ear gaming headset with a boom microphone fitted around its ears. A small plain black bandana printed with a simple white skull jaw is tied loosely around its neck, below the chin, so the whole face shows. The pet looks straight into the camera with big, wet, sad eyes and a closed mouth. A medium close-up from the chest up, the camera at eye level. Photorealistic, natural fur detail, not a cartoon, not CGI, not a plush toy. Vertical 9:16. Exactly one animal, with real paws. No people, no human hands. No logo, no patch, no name, no text anywhere on the clothes, the headset or the mask. No helmet, no sunglasses, no goggles, no military uniform, no medals, no weapon. No text.
 ```
 
-### 3. Press the film button on the still to open AI Video with the still as the first frame. Settings: Kling 3.0, 10 s, 1080p, 9:16, sound on. The video prompt
+### 3. Press the film button on the still to open AI Video with the still as the first frame. Settings: Seedance 2.5, 10 s, 720p, 9:16, sound on. The video prompt
 
 ```text
 A real reaction meme video in one continuous shot, a medium close-up, the camera almost still at eye level. Keep the animal's face, fur, markings, the black hoodie, the headset and the bandana exactly as in the image.
@@ -4903,7 +5592,7 @@ Exactly one person in focus, the lead: anyone else is only a soft, out-of-focus 
 Use the uploaded image as the base. 9:16 vertical photo, like a still from a moody cinematic drama filmed at night in Rome. The pet from the uploaded image sits at a small round table at a garden party on a rooftop terrace, its chin resting on one front paw on the table top, its eyes toward the camera. Warm string lights and glowing lanterns blur behind it, a few guests far away as soft, out-of-focus shapes. Its head, chest and front paws are in view. Realistic photo with natural fur, soft film grain, muted teal shadows and warm amber light, a shallow depth of field. Exactly one animal in focus, no person in focus. No clothes on the pet. No cigarette, no drinks, no logos, no brand names and no text. No watermark.
 ```
 
-### 3. Press the film button on the still to open AI Video with the still as the first frame. Settings: Kling 3.0, 10 s, 1080p, 9:16, sound on. The video prompt
+### 3. Press the film button on the still to open AI Video with the still as the first frame. Settings: Seedance 2.5, 10 s, 720p, 9:16, sound on. The video prompt
 
 ```text
 One continuous shot with no cuts, like a slow scene from a moody cinematic drama at a night garden party on a rooftop terrace in Rome. Keep the animal's face, fur, markings, ears and size, the table, the string lights and the terrace exactly as in the image.
@@ -4967,7 +5656,7 @@ Only the two of them are in focus; the guests stay soft in the background. One h
 Use the uploaded image as the base. 9:16 vertical photo, like a still from a lavish period film: a lavish 1920s gala at night on the marble terrace of a grand seaside mansion: guests in 1920s evening wear dance and laugh, a jazz band in white jackets plays on a small stage, strings of warm golden lights hang overhead, gold confetti floats in the air, and a dark blue night sky stretches over the water. In front, sharp, the pet from the uploaded image sits upright on a red velvet chair by the stone railing, its whole body in view, facing the camera three-quarters, wearing a small black satin bow tie on a thin collar, one front paw resting on the stem of a crystal coupe glass of sparkling champagne on a small round table. The guests behind are soft and out of focus. Rich warm gold and deep blue colors, soft film grain. Exactly one animal in focus, no people in front. The pet keeps its natural body shape and four legs; no other clothes on the pet. No text, no logos, no watermark.
 ```
 
-### 3. Press the film button on the still to open AI Video with the still as the first frame. Settings: Kling 3.0, 10 s, 1080p, 9:16, sound on. The video prompt
+### 3. Press the film button on the still to open AI Video with the still as the first frame. Settings: Seedance 2.5, 10 s, 720p, 9:16, sound on. The video prompt
 
 ```text
 The pet turns its head to the camera and looks straight into the lens, then lifts the champagne coupe toward the camera in its front paw for a cheers, with party lights flickering in the background, while gold and white fireworks burst in the night sky behind it. The camera slowly pushes in to a medium close-up. It holds the toast and tilts its head with a proud, pleased look as gold confetti drifts down. The pet never drinks. The pet is exactly the pet from the image in every frame: the same face, eyes, ears, fur colors, markings and the small black bow tie, with the natural body volume and proportions of that animal. One continuous shot, no cuts. Audio: an original upbeat 1920s big band jazz tune with brass and piano, the cheerful murmur of the crowd, the clink of glasses and the boom and crackle of fireworks. No dialogue throughout the entire video. Exactly one animal in focus, no human hands, no people in front. No text, no logos, no watermark.
@@ -6417,7 +7106,7 @@ Avoid: singing, lyrics, a different outfit, wings before the reveal, missing win
 Use the uploaded image as the base. 9:16 vertical photo, like a real phone photo taken at night. The pet from the uploaded image sits on its four paws on the doorstep of an open front door at night, in a warm yellow porch light, facing the camera, its whole body in view from the ears to the paws, with its tail. Small white feathered angel wings, sized for the pet, lie folded against its back. A dark garden and a deep blue night sky behind. Realistic photo with natural colors. Exactly one animal and no people. No clothes on the pet except the wings. No text, no logos, no watermark.
 ```
 
-### 3. Press the film button on the still to open AI Video with the still as the first frame. Settings: Kling 3.0, 10 s, 1080p, 9:16, sound on. The video prompt
+### 3. Press the film button on the still to open AI Video with the still as the first frame. Settings: Seedance 2.5, 10 s, 720p, 9:16, sound on. The video prompt
 
 ```text
 One continuous handheld take at night at the open front door. Keep the animal's face, fur, markings, tail and size, the small white wings, the porch light and the door exactly as in the image.
@@ -6661,7 +7350,7 @@ Exactly two people: the speaker and the listener seen from behind. No weapons, n
 Use the uploaded image as the base. Keep the animal's species, breed, face, eye color, fur color, fur length, markings and body size exactly the same as in the photo. A cinematic, photorealistic film still at night, vertical 9:16: the pet sits upright in the open doorway of a dim bedroom, framed by the door frame, the dark hallway behind it. Warm light from a bedside lamp falls on one side of its face, cool blue moonlight from a window on the other. In the soft-focus foreground at the lower edge, the corner of a neatly made bed. The camera is at the pet's eye level. The whole pet is in frame, its face large and sharp, looking straight into the camera with a calm, cold, unblinking stare, its mouth closed. Exactly one animal, with its natural body. No people, no clothes, no hat, no text, no logos, no watermark.
 ```
 
-### 3. Press the film button on the still to open AI Video with the still as the first frame. Settings: Kling 3.0, 10 s, 1080p, 9:16, sound on. The video prompt
+### 3. Press the film button on the still to open AI Video with the still as the first frame. Settings: Seedance 2.5, 10 s, 720p, 9:16, sound on. The video prompt
 
 ```text
 Keep the animal's face, fur, markings and body, the doorway and the light exactly as in the image. A tense, slow-burn TV drama scene at night in one continuous shot: the camera pushes in very slowly from the whole pet to a close-up of its face. The pet stays still in the doorway and stares straight into the lens with a calm, cold look. Its mouth stays closed the whole time: it never talks; only the voice-over speaks. 0-2 s: silence, the cold stare. 2-5.5 s: a deep, calm, quiet voice-over says: "I am not in danger. I am the danger." 5.5-6.5 s: the pet slowly narrows its eyes. 6.5-9 s: the voice-over says slowly, each word weighted: "I am the one who knocks." 9-10 s: the pet tilts its head a little and holds the stare. Audio: only the voice-over, a new voice, never imitating a real actor's voice, each line said once; a faint room tone and a low, tense drone; no background music, no meow, no bark. Exactly one animal. No people, no extra limbs, no morphing, no cuts, no text, no subtitles, no logos.
@@ -6759,7 +7448,7 @@ No cuts, no wide shot. No club crests, no sponsor logos, no names or numbers on 
 Use the uploaded image as the base. 9:16 vertical photo, a sports broadcast frame with a long lens at a packed football stadium at night. The pet from the uploaded image stands upright on its hind legs at the very front of the stands, in a small dark suit jacket over a plain light shirt collar and a small dark tie, its face turned three-quarters to the camera with a calm, unbothered look, both front paws held low. Right behind, a dense wall of fans fills the whole background, on their feet, roaring, arms up, in plain white and plain blue tops, lit by bright stadium light; stewards in plain yellow hi-vis vests in the front row. Exactly one animal. No club crests, no sponsor logos, no names or numbers on shirts, no words on vests or banners. No text, no logos, no watermark.
 ```
 
-### 3. Press the film button on the still to open AI Video with the still as the first frame. Settings: Kling 3.0, 10 s, 1080p, 9:16, sound on. The video prompt
+### 3. Press the film button on the still to open AI Video with the still as the first frame. Settings: Seedance 2.5, 10 s, 720p, 9:16, sound on. The video prompt
 
 ```text
 One continuous handheld shot like a sports broadcast camera with a long lens. Keep the pet exactly as in the image: the same face, eyes, ears, fur and markings, and the small dark suit jacket and tie, with the natural body volume of that animal. The pet glances back over its shoulder at the roaring fans, then walks slowly toward the camera on its hind legs, which backs away, and pats both front paws down in front of its chest again and again, the calm down gesture, with a calm, unbothered look and the mouth closed. A player in a plain white kit walks past behind near the end. Audio: the loud roar of a packed stadium crowd, chants and whistles. No dialogue, no music. No cuts. Exactly one animal, animal paws, never human hands. No club crests, no logos, no names or numbers on shirts. No text, no watermark.
@@ -7030,7 +7719,7 @@ Anatomy rules: natural joints, clearly separated limbs and stable body proportio
 Use the uploaded image as the base. Keep the animal's species, breed, face, eye color, fur color, fur length, markings and body size exactly the same as in the photo. A still from a pop music video in a bright all-white studio with a glossy white floor that reflects like a mirror, plain white walls and bright, even studio light. The pet stands upright on its hind legs at the front center, as the lead dancer, with one front paw raised in a confident dance pose, and looks straight into the camera. It keeps its own fur and wears no clothes. Behind it, about thirty backup dancers in identical plain black jackets, black trousers and black boots stand in a tight V formation, all in the same pose with one hand raised, each with their own different face. The pet is large in the frame, from the ears to the hind feet, its face sharp. Photorealistic, natural fur detail, not a cartoon. Vertical 9:16. Exactly one animal, with real paws and no human hands. No text, no logos, no watermark, no posters or signs.
 ```
 
-### 3. Press the film button on the still to open AI Video with the still as the first frame. Settings: Kling 3.0, 14 s, 1080p, 9:16, sound off. The video prompt
+### 3. Press the film button on the still to open AI Video with the still as the first frame. Settings: Seedance 2.5, 14 s, 720p, 9:16, sound off. The video prompt
 
 ```text
 A pop music video, cinematic, one continuous shot. Keep the pet's species, face, fur, markings and body exactly as in the image, and the white studio and the backup dancers in black. 0-5 s: the pet stands upright on its hind legs at the front and bobs its head to the beat, swaying from side to side, while the crew behind hits sharp synchronized moves. 5-10 s: the pet swings its front paws left and right on the beat and does a little spin on its hind legs; the whole crew spins at the same time. 10-14 s: the camera pushes in slowly to the pet's face: it raises one front paw in a pose and stares into the lens with attitude while the crew holds still behind it. Real furry paws, no human hands, no clothes. The natural body volume and proportions of that animal: never flattened, squashed or stretched. Exactly one animal. Sound: none of its own; a pop song is put on afterwards. No singing, no words. No text, no logos, no watermark.
@@ -7445,7 +8134,7 @@ Exactly 2 giant hands, one left and one right, each with 5 fingers. Show only pa
 Use the uploaded image as the base. Keep the animal's species, breed, face, eye color, fur color, fur length, markings and natural body proportions exactly the same as in the photo. A photorealistic vertical 9:16 photo from a locked-off, static camera at chest height in a bright bedroom. A plain white built-in wardrobe wall fills the background, with long thin vertical handles running floor to ceiling as a scale reference, and a warm wooden floor along the bottom of the frame. The pet stands on the floor at doll height, roughly six inches tall, in the center, the whole pet in frame from ears to paws, facing the camera, its face sharp and clear. No clothes on the pet. Natural daylight from the left, soft shadows on the wall. Exactly one animal. No people, no hands, no text, no logos, no watermark.
 ```
 
-### 3. Press the film button on the still to open AI Video with the still as the first frame. Settings: Kling 3.0, 10 s, 1080p, 9:16, sound on. The video prompt
+### 3. Press the film button on the still to open AI Video with the still as the first frame. Settings: Seedance 2.5, 10 s, 720p, 9:16, sound on. The video prompt
 
 ```text
 A locked-off, static camera at chest height in a bright bedroom, one continuous shot. Keep the animal's face, fur, markings and body exactly as in the image, with the natural body volume and proportions of that animal: never flattened, squashed, stretched or merged with anything. The pet stays at doll height in every frame. Two enormous human hands enter the frame from the edges, correctly proportioned and photorealistic, each hand as large as the pet's whole body.
@@ -7499,7 +8188,7 @@ No guns, no weapons, no violence, no blood, no cigarettes. No text, no subtitles
 Use the uploaded image as the base. 9:16 vertical black and white film still, high contrast, deep blacks, soft 35mm grain. The pet from the uploaded image walks out through the tall glass doors of a grand hotel at night toward the camera, as the boss: it wears a small long black coat over a black shirt collar, its face turned to the camera with a calm, serious look, the whole body in view. A bald bodyguard in a black suit walks one step behind it, seen from the chest down to the knees. Exactly one animal. Black and white. No guns, no weapons, no cigarettes. No text, no logos, no watermark.
 ```
 
-### 3. Press the film button on the still to open AI Video with the still as the first frame. Settings: Kling 3.0, 10 s, 1080p, 9:16, sound on. The video prompt
+### 3. Press the film button on the still to open AI Video with the still as the first frame. Settings: Seedance 2.5, 10 s, 720p, 9:16, sound on. The video prompt
 
 ```text
 A black and white crime drama shot, high contrast, soft film grain, slow and heavy. Keep the pet exactly as in the image: the same face, eyes, ears, fur and markings, and the small long black coat. The pet walks out of the hotel straight toward the camera in slow motion, the coat moving, the bald bodyguard one step behind. The camera slowly pushes in to a close-up of the pet, who stops, lifts its head and gives the camera a cold, silent stare to the last frame. Audio: an original slow, dark cinematic beat with deep bass and footsteps. No dialogue. Black and white from the first frame to the last. Exactly one animal. No guns, no weapons, no violence, no cigarettes. No text, no logos, no watermark.
@@ -7641,7 +8330,7 @@ Exactly one person in the car: one head, two arms, five fingers on each hand. No
 The pet from the uploaded image sits upright in the driver's seat of an open-top convertible car with red leather seats, driving slowly through a city street lined with tall glass skyscrapers on an overcast day. The camera is fixed low on the passenger side, looking up toward the driver: the dark frame of the folded soft top and the small interior light at the top of the frame, the red leather seats, the dashboard, the steering wheel, the center console and the city buildings passing outside. Its front paws rest on the steering wheel, and a plain kraft-paper takeaway coffee cup with a plain white lid, no logo, no print and no sleeve text stands in the cup holder of the center console. The pet faces three-quarters toward the camera, eyes open, ears in their natural position. Keep the pet's species, breed look, face, eyes, ears, muzzle, fur colors, fur length and markings exactly as in the photo, with the natural body size and proportions of that animal next to the seat and the wheel: never shrunk, stretched or merged with the seat. Its own collar or harness, if the photo shows one. A real phone video still, photorealistic, soft overcast daylight, vertical 9:16. No people, no car brand logo, badge or emblem, no logo or text on the cup, no number plates, no text, no watermark.
 ```
 
-### 3. Press the film button on the still to open AI Video with the still as the first frame. Settings: Kling 3.0, 10 s, 1080p, 9:16, sound on. The video prompt
+### 3. Press the film button on the still to open AI Video with the still as the first frame. Settings: Seedance 2.5, 10 s, 720p, 9:16, sound on. The video prompt
 
 ```text
 Keep the pet, the car and the city exactly as in the image. A real phone video, vertical 9:16, one continuous take from the fixed low passenger-side camera, while the convertible rolls slowly forward and the glass towers glide past outside; the pet's fur and ears move a little in the wind. 0-3 s: the pet sits at the wheel, front paws on it, and looks ahead at the road. 3-6 s: it leans down to the takeaway cup in the console, sniffs the lid and gives it one quick lick. 6-10 s: it turns its head to the camera with a proud, happy face, then looks ahead again, paws back on the wheel. Sound: a relaxed, upbeat instrumental beat, soft wind and light city traffic. No people, no talking. The pet keeps its own face, fur and body size in every frame, one head, no morphing. The cup stays in the holder, no floating props. No car brand logo or badge, no logo or text on the cup, no text, no watermark.
@@ -8396,7 +9085,7 @@ No weapons, no fights, no one gets hurt; the police never touch the runner. The 
 Use the uploaded image as the base. 9:16 vertical realistic film still, warm daylight, light film grain. The pet from the uploaded image runs at full speed through a crowded South Asian street market toward the camera, ears back, paws off the ground, fruit and vegetable stalls under colorful awnings on both sides, shoppers stepping aside in surprise. Far behind, two police officers in plain khaki uniforms and caps run after it. A red city bus waits at the end of the market. Exactly one animal. No weapons. No text, no logos, no brand names, no watermark.
 ```
 
-### 3. Press the film button on the still to open AI Video with the still as the first frame. Settings: Kling 3.0, 10 s, 1080p, 9:16, sound on. The video prompt
+### 3. Press the film button on the still to open AI Video with the still as the first frame. Settings: Seedance 2.5, 10 s, 720p, 9:16, sound on. The video prompt
 
 ```text
 A realistic, cinematic street action scene, handheld film camera, fast and fun. Keep the pet exactly as in the image: the same face, eyes, ears, fur and markings, with the natural body and proportions of that animal. The pet races through the market toward the camera, which moves back fast, dodges between the shoppers, glances back at the two police officers far behind, then leaps high onto the roof of the slowly moving red city bus at the end of the market, runs along the roof and stops at the front edge, proud, looking at the camera. Audio: an original fast action beat with dhol drums, a whoosh on the jump, market noise and a police whistle. No dialogue. Exactly one animal. No weapons, no fights; the police never touch the pet. No text, no logos, no brand names, no watermark.
@@ -8496,7 +9185,7 @@ Style: Ultra realistic nightlife arrival filmed on a phone. Single continuous ha
 Use the uploaded image as the base. Keep the animal's species, breed, body size, face, fur colors and markings exactly as in the photo. Vertical 9:16 photo taken on a phone from inside a packed crowd at a nightclub entrance hall lit deep red. The pet from the image stands on all four paws in the center on a patterned carpet, sharp and big in the frame, low camera at the pet's eye level, face turned to the camera, calm and confident, wearing a small tailored light grey suit jacket with a white shirt collar. Around it a tight crowd of adult fans and photographers lean in: raised phones with bright screens, a press photographer with a big black camera lens in the near foreground, two bodyguards in black behind it. Red velvet walls, red ceiling lights, a staircase with brass railings in the background. Real camera flash, slight motion blur in the crowd, realistic nightlife phone photo. Exactly one animal. No text, no logos, no brand names, no readable signs, nothing readable on the phone screens.
 ```
 
-### 3. Press the film button on the still to open AI Video with the still as the first frame. Settings: Kling 3.0, 15 s, 1080p, 9:16, sound on. The video prompt
+### 3. Press the film button on the still to open AI Video with the still as the first frame. Settings: Seedance 2.5, 15 s, 720p, 9:16, sound on. The video prompt
 
 ```text
 Style: Ultra realistic nightlife arrival filmed on a phone. Single continuous handheld shot from inside the crowd, low at the pet's eye level. Natural shake. No cuts. Documentary realism. Audio: Only natural sound: a loud crowd cheering and shouting, rapid camera shutter clicks, muffled club bass behind the walls, footsteps. No song, no voice-over, no clear spoken words. Lighting: Deep red club light, bright phone screens and white camera flashes. Main Character: the star is the pet in the image, with the same species, breed, face, fur colors, markings and small light grey suit jacket in every frame, walking on all four paws with the natural body of that animal. Calm and confident. The face stays the same throughout. SCENE. 0 to 3 s: The camera is pressed in the crowd at a red-lit club entrance. The pet trots in through the crowd with bodyguards in black beside it, phones raised high all around. 3 to 6 s: The pet stops in the center. A press photographer with a big black lens leans in and flashes fire. The pet looks around at the people, ears up. 6 to 10 s: Fans hold their phones down toward the pet and cheer. The pet looks at one fan, then at another, and wags its tail. 10 to 13 s: The pet sits for a second and looks straight into the camera. The crowd cheers louder and the flashes fire again. 13 to 15 s: The pet stands, turns and trots on through the crowd while the bodyguards make a path, and the camera follows. Exactly one animal. Every person in the crowd is an adult. No text, no logos, no brand names, no readable signs, nothing readable on the phone screens.
@@ -8612,7 +9301,7 @@ Black and white from the first frame to the last. No guns, no weapons, no violen
 Use the uploaded image as the base. 9:16 vertical black and white film still, high contrast, deep blacks, soft 35mm grain. The pet from the uploaded image sits upright on a chair at a round table in a quiet, upscale restaurant at night, as the boss: it wears a small black suit jacket over a white shirt collar, a small glass of tea in front of it, its face turned three-quarters to the camera with a calm, serious look. Behind it stand two bodyguards in black suits and dark sunglasses, seen from the chest up. A curved white ceiling with small spotlights and a glass chandelier. Exactly one animal. Black and white. No guns, no weapons, no cigarettes. No text, no logos, no watermark.
 ```
 
-### 3. Press the film button on the still to open AI Video with the still as the first frame. Settings: Kling 3.0, 10 s, 1080p, 9:16, sound on. The video prompt
+### 3. Press the film button on the still to open AI Video with the still as the first frame. Settings: Seedance 2.5, 10 s, 720p, 9:16, sound on. The video prompt
 
 ```text
 A black and white crime film scene, high contrast, soft film grain, slow and heavy. Keep the pet exactly as in the image: the same face, eyes, ears, fur and markings, and the small black suit jacket. The camera slowly pushes in from a medium shot to a close-up of the pet boss, who slowly lifts its head and gives the camera a cold, silent stare. Behind it, a bald bodyguard in dark sunglasses slowly turns his head toward the camera and the other bodyguard straightens his jacket. The pet pushes the small glass of tea aside with one paw and keeps staring at the camera to the last frame. Audio: an original slow, dark cinematic beat with deep bass and quiet restaurant murmur. No dialogue. Black and white from the first frame to the last. Exactly one animal. No guns, no weapons, no violence, no cigarettes. No text, no logos, no watermark.
@@ -9803,7 +10492,7 @@ Audio: jingling sleigh bells, soft hoof steps in the snow, a deep, warm laugh fr
 Use the uploaded image as the base. 9:16 vertical photo, like a still from a real Christmas movie at night. The pet from the uploaded image sits upright on the small red padded saddle of a young reindeer calf with soft light-brown fur, a pale belly, small white spots on its back, big dark eyes, large soft ears and tiny velvet antler buds, in the middle of a snowy street with lights and lit trees at night: a small-town main street under fresh snow, warm glowing shop windows, colorful Christmas string lights along the roofs, lit Christmas trees on the sidewalks, falling snow and colorful decorations on the street. The pet faces the camera with a happy, curious face, its front paws resting on the front of the saddle; its whole body is in view, with its tail. A few steps behind, Santa Claus, a jolly man in a red Santa suit with white fur trim and a long white beard, sits in a red wooden sleigh with gold trim and curled runners, holding the reins in one hand. Low camera at the pet's eye level, a medium shot: the pet's face is large, clear and sharp. Realistic photo, warm light from the shop windows and the string lights. Exactly one pet, one reindeer and one Santa, no other animals, no other people close to the camera. No clothes on the pet. No text, no logos, no watermark.
 ```
 
-### 3. Press the film button on the still to open AI Video with the still as the first frame. Settings: Kling 3.0, 8 s, 1080p, 9:16, sound on. The video prompt
+### 3. Press the film button on the still to open AI Video with the still as the first frame. Settings: Seedance 2.5, 8 s, 720p, 9:16, sound on. The video prompt
 
 ```text
 A magical Christmas scene filmed like a real movie, in one continuous shot with no cuts: your pet travels on a reindeer while Santa Claus follows in his sleigh, on a snowy street with lights and lit trees at night. Keep the pet's face, fur, markings and size, the reindeer calf, Santa, the sleigh and the street exactly as in the image.
@@ -9956,7 +10645,7 @@ A real, cute phone video in one continuous shot. Keep the person, their face, ha
 Use the uploaded image as the base. Turn the pet into a fluffy snow leopard that is still clearly the same pet: keep its own face shape, ears, nose, muzzle and the colors and markings of its face, so its owner recognizes it at once. Its body gets a thick, fluffy snow leopard coat: pale grey-white fur with dark grey rosette spots, a long, thick, spotted tail, and big round fluffy paws with dark grey paw pads. Its eyes become huge, perfectly round and glossy, with wide dark pupils that fill almost the whole eye and a bright white catchlight in each, like a cute cartoon-eyed cat, while the rest of the face stays real. A real phone photo taken straight on through a clear glass window at a zoo: the pet sits upright right behind the glass, faces the camera and presses both front paws flat against the glass at chest height, paw pads toward the camera. It looks straight into the camera with a calm, innocent face and a closed mouth. Behind it: a snowy enclosure with pale snow-covered rocks, soft and out of focus, in cool blue-grey light. Framed from the ears to the belly, the face large and sharp. Soft daylight, natural fur detail, a faint reflection on the glass. Photorealistic, not a cartoon, not CGI. Vertical 9:16. Exactly one animal and exactly two front paws on the glass. No people, no clothes, no collar, no camera app interface, no text, no logos.
 ```
 
-### 3. Press the film button on the still to open AI Video with the still as the first frame. Settings: Kling 3.0, 5 s, 1080p, 9:16, sound on. The video prompt
+### 3. Press the film button on the still to open AI Video with the still as the first frame. Settings: Seedance 2.5, 5 s, 720p, 9:16, sound on. The video prompt
 
 ```text
 A real, cute phone video in one continuous shot, filmed straight on through a clear glass window at a zoo. Keep the animal's face, its huge, round, glossy eyes, its fluffy spotted snow leopard coat and its paws exactly as in the image. For the first second it sits still with both front paws pressed on the glass and stares into the lens with its huge, shiny eyes. Then it lifts one front paw off the glass and slowly paws at the camera twice, the soft paw pads tapping the glass right in front of the lens, and tilts its head a little to one side. Then the paw slides back down onto the glass and it blinks slowly, still staring into the lens. Only its head, ears, eyes and front legs move; it stays in the same spot. The camera stays almost still, with a slight handheld sway. Audio: soft wind chimes, a light breeze, two soft taps on the glass and one tiny, high, soft mew, and nothing else: no music, no voice. Exactly one animal with four legs. No extra paws, no extra limbs, no morphing, no cuts, no text, no logos.
@@ -10712,7 +11401,7 @@ Exactly the two of them, nobody else. No beanie, no hat and no glasses unless th
 Use the uploaded image as the base. The pet from the uploaded image lies back in a black office swivel chair on a chrome five-star base: its back rests against the seat back, its front paws loose at its sides, its head tipped back on the top of the seat back with its face turned up to the camera. The camera looks straight down from above: the pet's face large and sharp in the upper half of the frame, the chair and a flat green carpet around it. A small, empty office room with dark wood-paneled walls at the edges of the frame and soft cool light from one ceiling panel. Keep the same species and breed, face, eyes, ears, muzzle, fur colors, fur length and markings as in the photo, with the natural body volume and proportions of that animal: never flattened, squashed or stretched. A real animal with its own paws, no human hands, no clothes. Photorealistic, muted greens and browns, gentle film grain, vertical 9:16. No people, no text, no logos.
 ```
 
-### 3. Press the film button on the still to open AI Video with the still as the first frame. Settings: Kling 3.0, 10 s, 1080p, 9:16, sound on. The video prompt
+### 3. Press the film button on the still to open AI Video with the still as the first frame. Settings: Seedance 2.5, 10 s, 720p, 9:16, sound on. The video prompt
 
 ```text
 A dreamy, surreal overhead shot, one continuous take, no cuts. The camera stays fixed straight above. The pet lies back in the office swivel chair and looks up into the lens with big, calm eyes. Let the chair turn slowly around its vertical swivel axis, so the green carpet turns around it; its ears, whiskers and fur move a little. Halfway through, an invisible force tips the chair back a little and glides it slowly across the carpet; the pet stays relaxed, paws floating loosely, keeps its eyes on the camera and blinks slowly. Keep the pet's face, fur and markings exactly as in the image, the natural body of that animal, its own paws, no human hands. Audio: quiet room tone, the soft creak and whir of the turning chair. No dialogue, no background music. No people, no extra animals, no extra legs, no morphing, no text, no logos.
@@ -10798,7 +11487,7 @@ Exactly one baby, nobody else, no hands in the frame. Anatomy: one head, two sma
 Use the uploaded image as the base. The pet from the photo, swaddled like a newborn in a white hospital blanket on a blue hospital bed pad, only the head out, soft hospital light, a real phone photo framed close, the face large and sharp, looking at the camera. Keep the same species and breed, face, eyes, ears, muzzle, fur colors, fur length and markings exactly as in the photo, with the natural proportions of that animal. A thick, dark, grown-up human-style mustache of real hair sits over the pet's upper lip, under the nose, from one side of the muzzle to the other, as if the pet was born with it. Vertical 9:16. Exactly one animal, no people, no hands. No text, no logos, no watermark.
 ```
 
-### 3. Press the film button on the still to open AI Video with the still as the first frame. Settings: Kling 3.0, 10 s, 1080p, 9:16, sound on. The video prompt
+### 3. Press the film button on the still to open AI Video with the still as the first frame. Settings: Seedance 2.5, 10 s, 720p, 9:16, sound on. The video prompt
 
 ```text
 Keep the pet's face, fur, the mustache, the blanket and the place exactly as in the image. A real phone video, static camera, one continuous take, soft hospital light. 0-3 s: the pet blinks slowly, swaddled in the blanket. 3-6 s: it twitches the nose and the whiskers, and the thick mustache wiggles with the lip. 6-8 s: it yawns wide under the mustache. 8-10 s: it squints at the camera with a serious little frown. The mustache stays over the lip in every frame. The animal keeps its natural body volume and proportions, never stretched or merged with the blanket. Audio: soft animal sounds that fit the species and a quiet room, no music, no talking. Exactly one animal, no people, no hands, no morphing. No text, no logos, no watermark.
@@ -10843,7 +11532,7 @@ Use the image as the first frame and keep everything in it: the same two people,
 Geniş açıyla, gün ışığında çekilmiş, ön planda bir evcil hayvanın oturduğu gerçekçi ve sinematik bir fotoğraf. Ön plandaki hayvan, yüklenen fotoğraftaki hayvandır: aynı tür ve ırk, aynı yüz, gözler, kulaklar, tüy rengi, tüy uzunluğu ve desen, o hayvanın doğal vücut oranlarıyla. Arka planda Ankara'daki, Türkiye Cumhuriyeti'nin kurucusunun anıt mezarının heybetli mimarisi: düz ve yalın bir saçağın taşıdığı uzun bir sıra yüksek, kare kesitli, açık bej kalker sütun ve önünde geniş taş merdivenler, merdivenlerde ve girişte toplanmış kalabalık insanlar küçük ve uzakta görülüyor. Hayvan meydanın ortasında, taş zeminde sakin ve dik oturuyor, kameraya bakıyor; boynunda sade kırmızı bir tasma var. Kamera alçakta, hayvanın göz hizasına yakın: hayvan kulaklarından ayaklarına ve kuyruğuna kadar tam görünüyor, arkasında sütunlar yükseliyor. Zeminde mozaik desenli taş kaplama detayları belirgin. Gökyüzü hafif bulutlu, güneş parlak, atmosfer net ve kontrastlı, yüksek çözünürlüklü, derinlik hissi güçlü. Ön planda tek bir hayvan ve hiç insan yok. Fotoğrafta herhangi bir kişinin portresi, heykel yüzü, bayrak, yazı, tabela veya logo yok. Dikey 9:16.
 ```
 
-### 3. Press the film button on the still to open AI Video with the still as the first frame. Settings: Kling 3.0, 5 s, 1080p, 9:16, sound on. The video prompt
+### 3. Press the film button on the still to open AI Video with the still as the first frame. Settings: Seedance 2.5, 5 s, 720p, 9:16, sound on. The video prompt
 
 ```text
 Use the image as the first frame and keep everything in it: the same pet with the same face, eyes, ears, fur colors, markings and red collar, the long colonnade of tall square stone columns, the wide stone stairs, the patterned stone square and the bright sunlight. A calm moment on a sunny day. The pet sits on the stone square and stays in place: it looks to one side toward the columns, its ears turn, its tail moves gently on the stone, a light breeze moves its fur, then it looks back at the camera and tilts its head a little. Far behind it, small visitors walk slowly on the stairs and the square. Natural, real animal motion, with the natural body volume and proportions of that animal: never flattened, stretched or merged with anything. The camera stays low and pushes in very slowly. The building stays exactly as it is: the columns stay straight, still and evenly spaced, nothing bends, melts or moves. Audio: soft wind, a distant crowd murmur and a calm, original piano melody. No barking, no speech. One continuous shot, no cuts, no morphing. Exactly one animal. No text, no logos, no flags, no portrait or statue of a person.
@@ -10925,7 +11614,7 @@ Photorealistic, like a real video filmed at home, not a cartoon, not CGI. Exactl
 Audio: a light, playful plucked tune, a soft whoosh while the line passes, and one small happy seal bark near the end. No voice, no talking.
 ```
 
-### 2. The video prompt is filled in. Settings: Kling 3.0, 8 s, 1080p, 9:16, sound on. The video prompt — Pet
+### 2. The video prompt is filled in. Settings: Seedance 2.5, 8 s, 720p, 9:16, sound on. The video prompt — Pet
 
 ```text
 Use the photo as the first frame and keep everything in it exactly as photographed: the same animal, the same room, furniture, floor and light, and the same camera angle. A real vertical 9:16 phone video from a phone that does not move, one continuous take, no zoom and no cuts.
@@ -11527,7 +12216,7 @@ A gentle, cozy holiday cartoon scene in exactly the same flat 2D comic-strip sty
 Use the uploaded image as the base. Transform the pet in the uploaded image into a cute cartoon animal in a classic 1960s newspaper comic-strip style, with clean black outlines, soft pastel colors, simple comic-style features, and a cozy nostalgic newspaper-strip mood: a flat 2D cartoon like a hand-drawn animated holiday TV special from the 1960s: even black ink lines, flat solid colors with no shading, no gradients and no 3D, soft cartoon lines and a cozy retro Christmas mood. Keep the pet highly recognizable, natural, and friendly. The pet is drawn as simple flat cartoon shapes: small black dot eyes, a simple nose, a small happy mouth, its own ear shape, its own body shape and tail. It keeps everything that makes this pet recognizable: the same species, the fur colors, fur pattern, markings and spots, the ear shape, the tail, and any collar, tag, bandana or sweater from the photo. If the pet is a white or light dog, it keeps its own colors, ears and face so that it is clearly a different dog from the beagle. The pet stands or sits on top of a red wooden doghouse seen straight from the front, its red sloped roof with dark plank lines and a little snow on the edges filling the bottom third of the picture, a green wreath with a red bow on the front of the roof, its whole body in view, facing the camera, a little left of the middle. On the roof right next to the pet, on the right, stands a small white cartoon beagle with long black ears, a round black nose and small black dot eyes, standing upright on its hind legs with a happy, proud face. Behind, in the same flat style: a snowy suburban yard, bare winter trees, a white picket fence, a small house with a snowy roof, a pale blue sky and soft falling snowflakes. At the top, in the sky: a hand-lettered holiday title in white rounded serif letters with a thin dark outline, on three centered lines: a small "A", then "Merry", then a larger "Christmas". It is the only text: spell it exactly, with no other words, signs, logos or watermark. Vertical 9:16. Exactly one pet and one beagle, no people: an original cartoon of this pet, not an existing cartoon character. No frame, no border, no caption.
 ```
 
-### 3. Press the film button on the still to open AI Video with the still as the first frame. Settings: Kling 3.0, 10 s, 1080p, 9:16, sound on. The video prompt
+### 3. Press the film button on the still to open AI Video with the still as the first frame. Settings: Seedance 2.5, 10 s, 720p, 9:16, sound on. The video prompt
 
 ```text
 A gentle, cozy holiday cartoon scene in exactly the same flat 2D comic-strip style as the image, like a hand-drawn animated holiday TV special from the 1960s: clean black outlines, flat solid colors, simple limited cartoon animation. Keep every drawing exactly as in the image: the pet's face, fur colors, markings and ears, the small white beagle, the red doghouse with the wreath, the snowy yard and the title at the top. Nothing turns 3D or realistic, and the title letters stay sharp, still and spelled exactly as in the image. Soft white snowflakes drift down the whole time. The pet looks at the camera, tilts its head, wags its tail and catches a snowflake on its nose. Next to it, the little white beagle hops happily on its hind legs, front paws up and long ears flapping, and does a happy little dance on the roof, then pats the pet gently on the head. The camera stays still, with a very slow push in. Audio: a soft, gentle, original jazz piano holiday tune, light and cozy, and the hush of falling snow. No speech, no singing. No people, no new characters, no new text, no logos, no watermark.
@@ -11833,7 +12522,7 @@ Exactly one person and exactly one wooden log character. No other people, no sec
 Use the uploaded image as the base. Keep the animal's species, breed, face, eye color, fur color, fur length, markings and body size exactly the same as in the photo. 9:16 vertical photo, a bright, real phone photo in a living room with plain white walls and a light wooden floor, soft daylight from a window. The pet stands upright on its hind legs on the right, with the natural body volume and proportions of that animal, side by side with a tall wooden log character, a little taller than an adult: one thick, round, upright log of smooth light-brown wood with visible grain and a flat top, a big carved cartoon face on the upper half of the log (wide round eyes with dark pupils, thick carved eyebrows, a long straight nose and a wide mouth), thin wooden stick arms with simple wooden hands, and thin wooden stick legs with bare wooden feet. It holds a small, light toy baseball bat made of pale wood in its right hand, which stands on the left, resting the toy bat on its shoulder. The pet faces the camera with bright eyes and its front paws held up in front of its chest, ready to dance. The whole pet is in frame from ears to hind feet, its face sharp and large. Photorealistic pet, a cartoon wooden character. Exactly one animal and one log character. No people, no clothes on the pet, no text, no logos, no watermark.
 ```
 
-### 3. Press the film button on the still to open AI Video with the still as the first frame. Settings: Kling 3.0, 10 s, 1080p, 9:16, sound on. The video prompt
+### 3. Press the film button on the still to open AI Video with the still as the first frame. Settings: Seedance 2.5, 10 s, 720p, 9:16, sound on. The video prompt
 
 ```text
 A funny, bright home dance video in one continuous shot from a phone on a tripod. Keep the animal's face, fur, markings and body exactly as in the image, with the natural body volume and proportions of that animal: never flattened, squashed, stretched or merged with anything. Keep the wooden log character and the living room exactly as in the image. The pet stands upright on its hind legs and dances side by side with the log, both in sync on every beat: 0-2.5 s, both bounce on the beat, the pet presses its front paws to its chest and the log presses its hands to its chest and throat, eyes wide; 2.5-4 s, the pet lifts one paw to its muzzle and the log puts a finger to its lips in a shh, and both sink down; 4-6.5 s, both bounce low in a wide squat on the beat; 6.5-8 s, still low, both glance sideways at each other, then rise; 8-10 s, both stand tall and look straight into the lens, the pet with a happy open mouth, and the log gives its toy bat one small twirl. The bat never swings at the pet and nothing gets hit. Audio: a bouncy, dreamy, slightly eerie dance beat with deep bass and soft finger snaps. No singing, no words, no barking. Exactly one animal and one log, paws not hands, no morphing, no extra limbs, no cuts. No text, no logos, no watermark.
@@ -11947,7 +12636,7 @@ The person from [Image 1] is the only one who walks in; the guests are strangers
 Use the uploaded image as the base. 9:16 vertical photo, a cinematic film still. The pet from the uploaded image stands in the open doorway of a pair of tall white double doors with bright light behind it, at the entrance of a big, warmly lit living room at a busy evening party; guests in the foreground turn their heads toward the door. The pet faces the camera, head up, with a proud, confident look, its whole body in view, with the natural body volume and proportions of that animal. Photorealistic. Exactly one animal. No text, no logos, no watermark.
 ```
 
-### 3. Press the film button on the still to open AI Video with the still as the first frame. Settings: Kling 3.0, 8 s, 1080p, 9:16, sound on. The video prompt
+### 3. Press the film button on the still to open AI Video with the still as the first frame. Settings: Seedance 2.5, 8 s, 720p, 9:16, sound on. The video prompt
 
 ```text
 Keep the pet's face, eyes, ears, fur colors, markings and body exactly as in the image, with the natural body volume and proportions of that animal. A dramatic slow-motion entrance. 0-3 s: in slow motion the pet walks in through the double doors on all four legs, head high, toward the camera, the fur lifting in a soft breeze. 3-6 s: the guests stop talking and turn to stare at the pet, one after another; one lowers a glass, two whisper. 6-8 s: the pet stops, sits, and looks straight into the lens with a proud face, and the frame holds. Audio: party chatter that drops away under a slow, heavy, dramatic beat, soft paw steps. No words. Exactly one animal walks in, on four legs, never like a person. No extra legs, no morphing. No text, no logos, no watermark.
@@ -12030,7 +12719,7 @@ Exactly one printed photo with one person in it. No people in the room, no hands
 Use the uploaded image as the base. 9:16 vertical photo, a bright, cheerful pet photo shoot in soft window light. The pet from the uploaded image sits facing the camera, head up, looking straight into the lens with a happy, alert face, in a cozy, bright room. Medium close-up, the head and the chest large and sharp, with the natural body volume and proportions of that animal. Photorealistic. Exactly one animal. No text, no logos, no watermark.
 ```
 
-### 3. Press the film button on the still to open AI Video with the still as the first frame. Settings: Kling 3.0, 10 s, 1080p, 9:16, sound on. The video prompt
+### 3. Press the film button on the still to open AI Video with the still as the first frame. Settings: Seedance 2.5, 10 s, 720p, 9:16, sound on. The video prompt
 
 ```text
 Keep the pet's face, eyes, ears, fur colors, markings and body exactly as in the image, with the natural body volume and proportions of that animal. A photogenic photo shoot with a slow-motion and freeze-frame edit. 0-2 s: in slow motion the pet tilts its head at the camera. 2-3 s: a shutter click and a quick white flash: the frame freezes and turns black and white like a printed still photo for one second. 3-5 s: the color comes back; in slow motion the pet perks up its ears and licks its nose. 5-6 s: click, flash, black-and-white freeze. 6-8 s: color again; the pet turns its head to one side and back to the lens. 8-9 s: click, flash, the last black-and-white freeze frame, held. 9-10 s: a fast zoom blur transition. Audio: an upbeat, catchy beat with a shutter click and a soft flash sound on each freeze. No words. Exactly one animal, no people, no extra legs, no morphing. No text, no logos, no watermark.
@@ -12871,7 +13560,7 @@ One continuous cinematic shot at golden-hour sunset on a mountain summit. Keep t
 Use the uploaded photo of the pet. Keep the animal's species, breed, face, eye color, fur colors, fur length, markings and body size exactly as in the photo, with the natural body volume and proportions of that animal. A photorealistic vertical photo at golden-hour sunset on a rocky mountain summit high above a range of jagged snow-capped peaks and misty valleys. Giant white marble digits that read 2027 stand in a row along the summit ridge: solid carved stone with soft grey veins and clean rounded edges, each digit about three times as tall as a person, reading 2, 0, 2, 7 from left to right. The camera is close, at a three-quarter angle: the first digit 2 is big in the foreground and the 0, the 2 and the 7 recede behind it along the ridge, every digit sharp and readable. The pet scrambles up the side of the front 2, both front paws on its flat top edge, hind legs pushing against the stone, its face turned toward the camera, eyes bright, lit by the warm low sun. Warm orange and pink sky, long soft shadows, natural fur detail. Vertical 9:16. Exactly four digits, 2 0 2 7, and exactly one animal. No people, no clothes on the pet, no other numbers, no letters, no text, no logos, no watermark.
 ```
 
-### 3. Press the film button on the still to open AI Video with the still as the first frame. Settings: Kling 3.0, 8 s, 1080p, 9:16, sound on. The video prompt
+### 3. Press the film button on the still to open AI Video with the still as the first frame. Settings: Seedance 2.5, 8 s, 720p, 9:16, sound on. The video prompt
 
 ```text
 One continuous cinematic shot at golden-hour sunset on a mountain summit. Keep the animal's face, fur, markings and body exactly as in the image, in every frame, with the natural body volume of that animal: never flattened, stretched or merged with the stone. Keep the giant white marble digits exactly as they are: the same four digits 2, 0, 2, 7 in the same order and shape, solid stone that never bends, melts, changes or multiplies. The pet scrambles up onto the flat top of the front 2, stands on it proudly on four legs, looks around, then faces the camera with its head held high, fur moving in the wind. As it stands, the camera slowly rises and pulls back like a drone until the whole row of giant digits 2027 shows on the rocky peak with the pet on top, small against a sea of mountains and a glowing orange sky. Smooth, steady camera, real animal moves. Audio: strong mountain wind, one short happy sound of that animal, then a calm, uplifting cinematic music swell as the camera pulls back. No voice, no singing. Exactly one animal, no people. No extra legs, no morphing, no cuts, no text, no captions, no logos, no watermark.
@@ -13522,7 +14211,7 @@ The character's face stays the same in every frame. Audio: a soft, gentle hummed
 Use the uploaded image as the base. Turn the pet in the photo into a cute, glossy 3D animated cartoon, like a scene from a modern animated feature film: soft rounded shapes, a big round head, big shiny expressive eyes, rosy round cheeks, smooth stylized skin and soft cinematic light, fully animated, never a real photo: a cute cartoon version of this pet that its owner recognizes at once, with the same species and breed look, face, eye color, ears, muzzle, fur colors, fur length and markings, and a soft rounded cartoon body: never flattened, stretched or swapped for another breed. It wears a small soft magenta headscarf tied under its chin, its ears showing, and it sits upright like a little person, with its own paws, never human hands. It sits on the hood of a yellow and purple two-tone luxury sedan with a plain chrome grille, an orange and purple checkered pattern painted on the hood and bright white LED headlights; no badge, no emblem, no hood ornament, no letters and no number plate text anywhere on the car, at a gas station at night, under a white canopy roof with long bright strip lights, a fuel pump nearby, wet dark asphalt and blurry city lights far behind under a deep blue night sky, between tall stacks of banded green dollar bills on both sides and loose bundles all over the hood, soft, with no readable writing. It holds a pink cup with a white straw in both front paws, facing the camera, eyes open, pleased, like the richest pet in town. A close shot of its whole sitting body: the face large and sharp, the cash stacks right behind, the checkered hood in the lower part of the frame. Vertical 9:16. Exactly one animal and no people. The cup holds a milkshake. No text, no letters, no logos, no watermark, no frame. The pet is always the cute 3D cartoon described above, never a photo: the identity rules below apply to its species, breed look, face, eye color, fur colors and markings.
 ```
 
-### 3. Press the film button on the still to open AI Video with the still as the first frame. Settings: Kling 3.0, 8 s, 1080p, 9:16, sound on. The video prompt
+### 3. Press the film button on the still to open AI Video with the still as the first frame. Settings: Seedance 2.5, 8 s, 720p, 9:16, sound on. The video prompt
 
 ```text
 One continuous shot with no cuts in the same cute, glossy 3D animated cartoon style as the image. Keep the character's face, fur or hair, headscarf, outfit and colors, the pink cup, the cash and the gas station exactly as in the image, in the same 3D animated look.
@@ -14297,7 +14986,7 @@ Real people with real bodies and real faces, live action: never a cut-out photo 
 Use the uploaded image as the base. 9:16 vertical photo, like a real phone photo at home on Christmas Eve, taken at the height of the pet. The pet from the uploaded image stands on the floor of a cozy living room. A warm living room with a lit Christmas tree, string lights and wrapped presents. The tree stands behind the pet, a little to one side, its lights soft and warm. The pet wears a tall pointed elf hat, green with a red band, with a small gold bell on the tip, and a little red-and-green elf collar with gold buttons around its neck. It faces the camera with a happy face. Its whole body is in view, from the ears to the paws, with its tail. Soft warm light, natural fur detail, a little phone-camera softness. Photorealistic, not a cartoon, not CGI. Exactly one animal and no people. No other clothes. No text, no logos, no watermark.
 ```
 
-### 3. Press the film button on the still to open AI Video with the still as the first frame. Settings: Kling 3.0, 10 s, 1080p, 9:16, sound on. The video prompt
+### 3. Press the film button on the still to open AI Video with the still as the first frame. Settings: Seedance 2.5, 10 s, 720p, 9:16, sound on. The video prompt
 
 ```text
 One continuous vertical shot with no cuts, like a real phone video at home on Christmas Eve, the camera at the pet's height. Keep the animal's face, fur, markings, tail and size, its elf hat with the bell and its elf collar, and the room, the lit tree and the presents exactly as in the image.
@@ -14649,7 +15338,7 @@ Calm and dreamy, never scary: the fall is slow and peaceful, no screaming, no fe
 Use the uploaded image as the base. 9:16 vertical. High above the ground at a rose-tinted sunset, the pet from the uploaded image falls backward in a horizontal pose, its expression calm, its paws loose, its ears and fur lifted by the wind, far above a soft sea of pink and golden clouds. Shot at eye level with its full body in frame, the scene feels cinematic, with a softly blurred background and rich color grading, as if time has slowed. Exactly one animal and no people. No clothes, no collar tag, no harness, no parachute, no wings on the pet. No ground, no plane. No text, no logos, no watermark.
 ```
 
-### 3. Press the film button on the still to open AI Video with the still as the first frame. Settings: Kling 3.0, 10 s, 1080p, 9:16, sound on. The video prompt
+### 3. Press the film button on the still to open AI Video with the still as the first frame. Settings: Seedance 2.5, 10 s, 720p, 9:16, sound on. The video prompt
 
 ```text
 One continuous shot, like a slow-motion film shot. Keep the animal's face, fur, markings, ears, tail and size, the sunset sky and the clouds exactly as in the image.
@@ -14674,7 +15363,7 @@ Audio: a soft rush of wind and a slow, dreamy cinematic music bed, no words. Cal
 Zoom in on the pet's head: a tight close-up at the pet's eye level. The head fills most of the frame: the ear tips near the top edge, the face as wide as about two thirds of the frame, the chin a little below the middle, the top of the chest at the bottom edge. The legs, the paws and the lower body are out of the frame. Do not keep the framing of the photo if it shows more of the body. Use the uploaded image as the base. Keep the animal's species, breed, face, eye color, fur color, fur length, markings and body size exactly the same as in the photo. A real phone photo of the same pet in the same real place from the photo, with the same colors and light. The face turned straight to the camera, both eyes open, the mouth closed, a calm face. Soft natural light, natural fur detail, a little phone-camera softness. Photorealistic, not a cartoon, not CGI. Vertical 9:16. Exactly one animal. No people, no hands, no clothes on the pet, no camera app interface, no text, no logos.
 ```
 
-### 3. Press the film button on the still to open AI Video with the still as the first frame. Settings: Kling 3.0, 10 s, 1080p, 9:16, sound on. The video prompt
+### 3. Press the film button on the still to open AI Video with the still as the first frame. Settings: Seedance 2.5, 10 s, 720p, 9:16, sound on. The video prompt
 
 ```text
 A real, funny pet video filmed on a phone held still: one continuous tight close-up at the pet's eye level, the head filling most of the frame the whole time, the camera locked off. Keep the animal's face, eyes, ears, fur, markings and the room exactly as in the image. The pet faces the camera the whole time; the head and the face move a lot, the body stays in place.
@@ -16825,7 +17514,7 @@ The walk ends close to the camera, from the knees up, the face large and sharp: 
 
 - Page: https://www.makeviral.ai/templates/ai-doodle-dance-partner
 - Markdown: https://www.makeviral.ai/templates/ai-doodle-dance-partner.md
-- Updated: 2026-10-22 · Published: 2026-10-22
+- Updated: 2026-11-12 · Published: 2026-10-22
 - Local: [`makeviral/ai-doodle-dance-partner/PROMPTS.md`](makeviral/ai-doodle-dance-partner/PROMPTS.md)
 
 ### 1. The video prompt is filled in. Settings: Seedance 2.5, 10 s, 720p, 9:16, sound on. The video prompt
@@ -16846,6 +17535,29 @@ The place: a white painted brick wall in warm late-afternoon sun with soft leaf 
 
 Audio: a bright, bouncy pop dance beat with claps, no words, no singing.
 Exactly one real person and one drawn doodle twin, nobody else. The doodle twin stays white line art in every frame and never touches the camera. Both have one head, two arms and five fingers on each hand. No text, no captions, no subtitles, no logos, no signs, no watermark.
+```
+
+### 1. The video prompt is filled in. Settings: Seedance 2.5, 6 s, 720p, 9:16, sound off. The video prompt
+
+```text
+Recreate the reference video [Video 1] shot for shot: the same sunny street with pastel row houses, the same fixed front-facing camera, full-body framing, timing, gestures and dance moves. The ONLY change: the woman on the left is now the person in [Image 1], and the figure on the right, first a pencil sketch and then a real copy, is the same person from [Image 1]. Use [Image 1] strictly as the identity reference. Do NOT blend identities or retain the original main character's identity.
+
+The main character = the person in [Image 1], in EVERY frame: copy the exact face from [Image 1] - face shape, eye color and eye shape, eyebrows, nose, mouth, skin tone, age, hair color, hair length and hairstyle, and any beard, moustache, glasses or freckles exactly as in the photo, and the clothes and shoes from [Image 1] (if it shows only the upper body, invent matching trousers or a skirt and plain shoes). Never morph, never drift back to the original woman's face. NO blue T-shirt and NO denim skirt unless [Image 1] shows them. If [Image 1] shows an animal, both characters are that animal standing upright, with its own face, fur and markings, never flattened or stretched.
+
+CHARACTER CONSISTENCY - EXTREMELY IMPORTANT: The main character on the left and the second character appearing as a sketch on the right MUST represent exactly the same person from [Image 1]. The ONLY difference is their rendering style: Left character: fully photorealistic. Right character: a life-sized monochrome gray pencil-sketch illustration. Do NOT independently redesign, reinterpret, simplify, or alter the sketch character.
+
+ACTION SEQUENCE - STRICTLY PRESERVE, in [Video 1]'s exact timing:
+0-0.5 s: a monochrome pencil-sketch version of the SAME character appears beside the main character, leans into the frame from the right and stops beside them.
+0.5-2.4 s: both stand side by side facing the camera; the main character glances at the double and smiles.
+2.4-3.1 s: a narrow warm gold edge begins to light the sketch at shoe level. A narrow gold sweep rises from the double's shoes to its shoulders, revealing colored clothing and a lifelike figure: a real copy of the person from [Image 1].
+3.1-4.6 s: both turn toward each other, laugh, raise their hands and perform the original greeting and high-five.
+4.6-6 s: both face the camera and perform the original synchronized dance: hands up by the cheeks, peace signs, a small bounce.
+
+CAMERA - UNCHANGED: Do NOT introduce camera movements, zooming, panning, reframing, or additional cuts. Keep the background, lighting and shadows.
+
+SKETCH-TO-REAL TRANSFORMATION - CRITICAL: Only the rendering style may change from monochrome pencil sketch to photorealistic live action; the identity stays the same. No dialogue throughout the entire video. No background music.
+
+Exactly two figures, both the person from [Image 1], nobody else. Each has one head, two arms and five fingers on each hand. No text, no captions, no logos, no stickers, no watermark.
 ```
 
 ---
@@ -17096,7 +17808,7 @@ Avoid distorted facial features, duplicate subjects, additional faces on the bil
 Create an ultra-realistic 9:16 fashion show advertising campaign displayed on a massive digital billboard on the front of a tall skyscraper in Times Square, New York, at night after rain. Use the uploaded image as the sole visual reference for the pet, preserving the pet's recognizable face, fur colors, markings, ear shape, proportions, and overall identity while translating the look into a world-class fashion show campaign. The billboard features a breathtaking high-fashion portrait of the pet, from the waist up, presented as the star of the fashion show. The pet keeps its own face, fur colors, markings and natural body shape, with glossy, well-groomed fur, a sparkling jeweled collar, and huge soft pink feathered wings rising behind it, looking toward the viewer with a proud, confident face. Exactly one animal on the screen and no people on it. Behind the portrait, use a rich hot-pink gradient with dramatic luxury-editorial lighting, making the campaign appear enormous and larger than life. Photograph the scene from the wet street, close to the tower and looking up, so the screen fills the upper two thirds of the frame and the face on it is large and sharp; at the bottom of the frame, the edge of the dark building façade, other glowing screens with soft abstract color, wet reflections, yellow taxis and pedestrians with umbrellas. The LED display must be seamlessly integrated into the building façade, with realistic screen perspective, subtle pixel structure, reflections, and brightness falloff. The contrast between the gigantic portrait and the dense New York streetscape should create a powerful sense of scale and prestige. The campaign should feel like a world-class fashion show launch, combining premium commercial photography, high-fashion editorial styling, cinematic night light after rain, architectural realism, pink and neon color grading, and polished global fashion art direction. Photorealistic detail, physically accurate LED signage, high dynamic range, cinematic depth, premium advertising photography. Avoid distorted facial features, duplicate subjects, additional faces on the billboard, malformed anatomy, cartoon or anime aesthetics, obvious CGI rendering, plastic skin, excessive saturation, random illegible text, watermarks, pixelated signage, or unrealistic billboard integration. No words, letters, numbers, brand names or logos on the poster or on any other screen, sign or taxi, unless a later line names words for the poster. No real person's face on any other screen. No subtitles.
 ```
 
-### 3. Press the film button on the still to open AI Video with the still as the first frame. Settings: Kling 3.0, 10 s, 1080p, 9:16, sound on. The video prompt
+### 3. Press the film button on the still to open AI Video with the still as the first frame. Settings: Seedance 2.5, 10 s, 720p, 9:16, sound on. The video prompt
 
 ```text
 One continuous shot with no cuts, like a real handheld phone video filmed from the street in Times Square, New York, at night after rain. Keep the giant screen, the pet on it (the same face, fur, markings, collar and pink feathered wings), the tower and the street exactly as in the image.
@@ -17198,7 +17910,7 @@ Audio: an upbeat funk dance remix with a heavy bass and a bright, accordion-like
 Use the uploaded image as the base. 9:16 vertical photo, like a real phone photo at night, taken from low down at the height of the pet. The pet from the uploaded image stands upright on its two hind legs in front of a plain wall washed in soft violet-blue light, with a dark grey stone panel at one side, facing the camera, its whole body in view, from the ears to the hind paws, with its tail. It holds a small plain blue eye mask (a domino mask with no symbol) in one front paw, low in front of its chest, and looks into the lens with a cool, serious face. Realistic photo with natural fur and natural colors. Exactly one animal and no people. No clothes on the pet. No text, no logos, no watermark.
 ```
 
-### 3. Press the film button on the still to open AI Video with the still as the first frame. Settings: Kling 3.0, 10 s, 1080p, 9:16, sound on. The video prompt
+### 3. Press the film button on the still to open AI Video with the still as the first frame. Settings: Seedance 2.5, 10 s, 720p, 9:16, sound on. The video prompt
 
 ```text
 A Halloween costume clip with one fast whip pan, like a real vertical phone video filmed at night. Keep the animal's face, eyes, ears, fur colors, markings, tail and size exactly as in the image, in every frame.
@@ -17357,7 +18069,7 @@ Exactly one person; the black hand belongs to nobody we see. A high neckline in 
 Use the uploaded image as the base. 9:16 vertical photo, like a polished studio pet portrait on a tripod: the pet from the uploaded image sits facing the camera in front of a plain black backdrop, in soft, warm studio light, framed from the chest up with its whole head and ears in view. It holds one front paw up a little toward the camera. Realistic photo with natural fur and natural colors. Exactly one animal and no people. No clothes on the pet. No text, no logos, no watermark.
 ```
 
-### 3. Press the film button on the still to open AI Video with the still as the first frame. Settings: Kling 3.0, 10 s, 1080p, 9:16, sound on. The video prompt
+### 3. Press the film button on the still to open AI Video with the still as the first frame. Settings: Seedance 2.5, 10 s, 720p, 9:16, sound on. The video prompt
 
 ```text
 One take on a tripod in front of a plain black backdrop. Keep the animal's face, eyes, ears, fur colors, markings and size exactly as in the image, from the first frame to the last.
@@ -17489,7 +18201,7 @@ Exactly one person in the car, no other passengers. One head only, two arms, fiv
 Use the uploaded image as the base. 9:16 vertical photo, like a real phone selfie taken close in front of the pet, at its eye level. The pet from the uploaded image sits upright alone on a blue bench seat in the inside of a clean, nearly empty city subway car at night under bright white ceiling lights: long blue bench seats along both walls, steel grab poles and handrails, sliding doors, a framed route map on the wall with no readable words, the car stretching away behind, dark windows with lights flicking past. A medium close-up from the chest up, the face big and sharp, looking into the lens. Thin white wired earphones sit in its ears, the white cable hanging down over its chest. Realistic photo with natural colors. Exactly one animal and no people. No clothes on the pet. No phone visible, no text, no logos, no line names or route numbers, no watermark.
 ```
 
-### 3. Press the film button on the still to open AI Video with the still as the first frame. Settings: Kling 3.0, 10 s, 1080p, 9:16, sound on. The video prompt
+### 3. Press the film button on the still to open AI Video with the still as the first frame. Settings: Seedance 2.5, 10 s, 720p, 9:16, sound on. The video prompt
 
 ```text
 One continuous shot with no cuts, like a real phone video filmed close in front of the pet at its eye level, in a nearly empty subway car at night. Keep the animal's face, fur, markings and size, the white wired earphones in its ears and the subway car exactly as in the image. The train sways softly, subtle handheld camera movement.
@@ -17648,7 +18360,7 @@ Avoid: singing, lyrics, a different outfit, missing wings, a different face, a d
 Use the uploaded image as the base. 9:16 vertical photo, like a real phone photo taken from the audience at a glamorous televised fashion show. The pet from the uploaded image stands on its four paws at the far end of a long glossy runway, facing the camera, with small white feathered angel wings strapped to its back, sized for the pet, and a thin sparkling crystal collar. Its whole body is in view, from the ears to the paws, with its tail. A dark arena full of cheering people on both sides, small blue spotlights, white beams, photographers at the foot of the runway. Realistic photo with natural colors. Exactly one animal on the runway and no people on it. No clothes on the pet except the wings and the collar. No text, no logos, no letters on the stage or the screens, no watermark.
 ```
 
-### 3. Press the film button on the still to open AI Video with the still as the first frame. Settings: Kling 3.0, 10 s, 1080p, 9:16, sound on. The video prompt
+### 3. Press the film button on the still to open AI Video with the still as the first frame. Settings: Seedance 2.5, 10 s, 720p, 9:16, sound on. The video prompt
 
 ```text
 One continuous handheld take filmed from the audience at a fashion show, slowly zooming in. Keep the animal's face, fur, markings, tail and size, the small white wings, the collar, the runway and the arena exactly as in the image.
@@ -17711,19 +18423,22 @@ It is a playful show-off joke for a meme: a smug, deadpan flex, quick and confid
 Audio: a heavy, bass-driven original trap beat with no lyrics, and the flutter and slap of the bills. The person never speaks. Exactly one performer, no other people, two hands with five fingers each, no extra limbs. No text, no subtitles, no logos, no watermark.
 ```
 
-### 1. The video prompt is filled in. Settings: Kling 3.0 Omni, 14 s, 720p, 9:16, sound off. The video prompt — Pet
+### 1. The video prompt is filled in. Settings: Seedance 2.5, 14 s, 720p, 9:16, sound off. The video prompt — Pet
 
 ```text
-Replace the dog in the video with the pet in the first image. The dog that stands upright behind the dresser in the video must not appear in any frame. The pet that stands upright on its hind legs behind the dresser in the bedroom, hugs the long chain of cash bundles, throws it, rips the band off a bundle and fans the bills in front of its face is the pet in the first image, whether it is a dog, a cat or another animal: the same species and breed, face, eyes, ears, muzzle, fur colors, fur length, markings and size as in the first image, never the coat of the dog in the video.
+Recreate the reference video [Video 1] shot for shot: the same bedroom with the white ceiling fan, the made bed and the two lamps, the same dark dresser with the cash bundles close to the lens, the same low fixed phone camera, framing, timing, moves and expressions. The ONLY change: the dog that stands upright behind the dresser is now the pet in [Image 1].
 
-Timing, second by second, as in the original video:
-0-2.5 s: the pet hugs a large armful of banded stacks toward the camera, the long chain of bundles folded in its front legs, and pushes the stacks at the lens with one paw.
-2.5-4.5 s: it lifts the long chain of bundles high and drapes it over one shoulder, so it hangs down to the dresser.
-4.5-6 s: it tosses the pile toward the camera and out of the frame; loose bundles cover the front edge of the dresser.
-6-10 s: it puts its front paws on the dresser, picks up a single bundle, holds it up to the lens and passes it between its paws.
-10-14 s: it spreads the bills into a wide fan and peeks over the fan of bills that fills the frame, its eyes on the lens.
+The pet = the pet in [Image 1], in EVERY frame: the same species and breed, head shape, face, eyes, ears, muzzle, fur colors, fur length and markings as in [Image 1], with the natural body volume and proportions of that animal: never flattened, squashed, stretched or merged with anything, so its owner instantly recognizes it. Whether [Image 1] shows a dog, a cat or another animal, it stays that animal. Never drift back to the dog of the original video: NOT the coat of the dog in [Video 1].
 
-The pet keeps its own look from the first image in every frame, with the natural body volume and proportions of that animal: never flattened, squashed, stretched or merged with anything. Its paws hold the cash as in the video, with no human hands. The bedroom, the ceiling fan, the bed, the lamps, the dresser, the cash, the light and the low camera stay as in the video. One pet only, one head. No new text, no logos, no watermark, no readable writing on the bills.
+A cash flex, matching the reference second by second:
+1. 0-2.5 s: it hugs a large armful of banded stacks toward the camera and pushes them at the lens with one paw.
+2. 2.5-4.5 s: it drapes the long chain of bundles over one shoulder.
+3. 4.5-6 s: it tosses the pile toward the camera and out of the frame.
+4. 6-10 s: paws on the dresser, it picks up a single bundle and passes it between its paws.
+5. 10-14 s: it peeks over a fan of bills that fills the frame.
+The paws hold and throw the cash exactly when the dog's paws in [Video 1] do. The bills stay as in the video, with no readable writing.
+
+Anatomy rules: one head only, one muzzle. No extra legs or paws, no human hands. No text, no logos, no watermark, no extra animals.
 ```
 
 ---
@@ -17756,7 +18471,7 @@ The whole face stays large and sharp in the frame. The pinch is playful: no pain
 Use the uploaded image as the base. 9:16 vertical photo, like a real phone photo taken close up at the pet's eye level. The pet from the uploaded image sits or lies calmly in a cozy home spot (a sofa, a bed or a soft blanket), in a close-up from the chest up, its face toward the camera, relaxed and content, in soft indoor light. Both of its cheeks are fully visible. Realistic photo with natural colors. Exactly one animal and no people, no hands. No clothes on the pet. No text, no logos, no watermark.
 ```
 
-### 3. Press the film button on the still to open AI Video with the still as the first frame. Settings: Kling 3.0, 10 s, 1080p, 9:16, sound on. The video prompt
+### 3. Press the film button on the still to open AI Video with the still as the first frame. Settings: Seedance 2.5, 10 s, 720p, 9:16, sound on. The video prompt
 
 ```text
 One continuous shot with no cuts, like a real phone video filmed close up. Keep the animal's face, fur, markings and size, and the place, exactly as in the image.
@@ -17903,7 +18618,7 @@ Anatomy rules: one head only, on the runner's shoulders. Two arms and two legs. 
 Use the uploaded image as the base. 9:16 vertical photo, like a real phone photo taken from the side at the height of the tops of tall banana plants. The pet from the uploaded image stands on all four paws on top of a broad, flat green leaf of a tall banana plant, high above the ground, in a huge banana plantation on a steep green hillside with red dirt paths far below, in soft, overcast daylight. It faces to the right, turned three-quarters toward the camera, ears up, alert and happy, ready to jump to the next plant. Its whole body is in view, from the ears to the tail. Rows of tall banana plants with giant green leaves all around and behind. Realistic photo with natural colors. Exactly one animal and no people. No clothes on the pet. No text, no logos, no watermark.
 ```
 
-### 3. Press the film button on the still to open AI Video with the still as the first frame. Settings: Kling 3.0, 10 s, 1080p, 9:16, sound on. The video prompt
+### 3. Press the film button on the still to open AI Video with the still as the first frame. Settings: Seedance 2.5, 10 s, 720p, 9:16, sound on. The video prompt
 
 ```text
 One continuous shot with no cuts, like a real phone video: the camera moves along at the height of the leaf tops and follows the pet from the side. Keep the animal's face, fur, markings, tail and size, and the banana plantation on the hillside, exactly as in the image.
@@ -18024,7 +18739,7 @@ Exactly three people in the car, nobody else. One steering wheel, no extra limbs
 Use the uploaded image as the base. 9:16 vertical photo, like a real phone photo taken from the dashboard of a small old car, looking back at the driver's seat. The pet from the uploaded image sits upright in the driver's seat of a small, old, boxy 1980s three-door hatchback with a stripped interior: a bare metal roll cage behind the front seats, black racing bucket seats with harness belts, a painted teal-green dashboard, and a small, chunky light-blue padded steering wheel; outside the windows, a quiet red-brick suburban street of semi-detached houses in warm late-afternoon sun. Its two front paws rest on the top of the small, chunky light-blue padded steering wheel, and it looks straight into the camera with a dead-serious face. Its head, chest and front paws are in view, from the ears to the paws on the wheel, with the street and the houses behind the side window. Realistic photo with natural colors and warm late-afternoon light, a soft, shallow depth of field. Exactly one animal and no people. No clothes on the pet. No badges, no logos, no brand names and no text anywhere, not on the wheel, the seat, the dashboard or the windscreen. No watermark.
 ```
 
-### 3. Press the film button on the still to open AI Video with the still as the first frame. Settings: Kling 3.0, 10 s, 1080p, 9:16, sound on. The video prompt
+### 3. Press the film button on the still to open AI Video with the still as the first frame. Settings: Seedance 2.5, 10 s, 720p, 9:16, sound on. The video prompt
 
 ```text
 One continuous shot with no cuts, like a real phone video filmed from the dashboard of a small old car rolling slowly down a red-brick street in warm late-afternoon sun. Keep the animal's face, fur, markings, ears and size, and the light-blue wheel, the seat, the roll cage and the street, exactly as in the image.
@@ -18377,7 +19092,7 @@ Audio: keyboard clicks and a quiet office hum, then an original bright, bouncy K
 Use the uploaded image as the base. 9:16 vertical photo, like a real phone photo taken in an office. The pet from the uploaded image sits upright on an office chair at a white office desk with a computer monitor and a keyboard. It wears a tiny navy necktie with a small white shirt collar, and a plain white ID badge on a lanyard hangs on its chest: a blank card with no writing and no photo. It looks at the camera with a cheeky, done-with-work face, one front paw on the desk next to the keyboard. Its head and front body are in full view, with its own natural size and proportions. Behind it: an ordinary open-plan office with desks, potted plants and big windows with blinds, slightly out of focus. Realistic photo with soft office light. Exactly one animal. No people. No text, no logos, no company name, no readable screen, no watermark.
 ```
 
-### 3. Press the film button on the still to open AI Video with the still as the first frame. Settings: Kling 3.0, 10 s, 1080p, 9:16, sound on. The video prompt
+### 3. Press the film button on the still to open AI Video with the still as the first frame. Settings: Seedance 2.5, 10 s, 720p, 9:16, sound on. The video prompt
 
 ```text
 One continuous vertical shot, like a real phone video filmed in an office. Keep the animal's face, fur, markings and size, the tiny tie, the shirt collar and the blank ID badge, and the desk and the office, exactly as in the image.
@@ -18442,7 +19157,7 @@ Audio: an original upbeat retro J-pop idol-pop beat at a gentle, swaying mid tem
 Use the uploaded image as the base. 9:16 vertical photo, like a real phone photo taken on a wide riverbank in Japan at golden hour, at the height of the pet. The pet from the uploaded image sits upright on its haunches on a wide bank of smooth grey river stones, with a broad shallow river shining in the low sun behind it, tall green and golden grass, a pale concrete embankment path, low green hills and a long low bridge far away in a soft haze. The pet faces the camera with a sweet, happy face, both front paws held up together in front of its chest like a little heart. Its whole body is in view, from the ears to the hind paws, with its tail. Realistic photo with warm golden light, a soft lens flare and a gentle, shallow depth of field. Exactly one animal. No clothes on the pet. No people. No text, no logos, no signs, no watermark.
 ```
 
-### 3. Press the film button on the still to open AI Video with the still as the first frame. Settings: Kling 3.0, 10 s, 1080p, 9:16, sound on. The video prompt
+### 3. Press the film button on the still to open AI Video with the still as the first frame. Settings: Seedance 2.5, 10 s, 720p, 9:16, sound on. The video prompt
 
 ```text
 One continuous vertical shot with no cuts, like a real phone video on a riverbank at golden hour, the camera still. Keep the animal's face, fur, markings, tail and size, and the river stones, the shining river, the grass and the far bridge, exactly as in the image.
@@ -18530,7 +19245,7 @@ Audio: an upbeat original trap beat with heavy bass that drops when the dance st
 Use the uploaded image as the base. 9:16 vertical photo, like a real phone photo taken from the driver's seat of a car stopped at a red light, through the open driver's window. The pet from the uploaded image stands upright on its two hind legs on a quiet street corner at a red traffic light at sunset: a gravel strip by the curb, a grey light pole, palm trees and round green bushes, a low wall and a parked car far behind, a warm orange and lilac sky, one step from the open window. It faces the camera with its front paws up at its chest, ears up, a cheeky, happy face, in warm golden sunset light. Its whole body is in view, from the ears to the hind paws, with its tail. The window frame and the side mirror show at the edges. Realistic photo with natural colors and a soft depth of field. Exactly one animal and no people. No clothes on the pet. No text, no logos, no watermark, no badge on the car.
 ```
 
-### 3. Press the film button on the still to open AI Video with the still as the first frame. Settings: Kling 3.0, 12 s, 1080p, 9:16, sound on. The video prompt
+### 3. Press the film button on the still to open AI Video with the still as the first frame. Settings: Seedance 2.5, 12 s, 720p, 9:16, sound on. The video prompt
 
 ```text
 One continuous handheld phone shot from the driver's seat of a car at a red light at sunset. Keep the animal's face, fur, markings, tail and size, and the street corner, the light pole, the palm trees and the window frame, exactly as in the image.
@@ -18757,7 +19472,7 @@ The person dances in the place from the uploaded image, in the clothes and shoes
 Use the uploaded image as the base. 9:16 vertical photo, like a cinematic action-movie still taken at night, at the height of the pet. The pet from the uploaded image stands upright on its two hind legs on the flat rooftop of a tall building at night, high above a big city: glowing towers, lit windows and neon light all around, a low metal railing behind it, a light haze, cool blue and magenta city light and a warm rim light on the pet. It wears a tiny long black coat that flares out in the wind; its fur blows in the wind too. It faces the camera with a cool, confident face, one front paw raised and pointing at the camera like a hero. Its whole body is in view, from the ears to the hind paws, with its tail. Realistic photo with a soft, shallow depth of field. Exactly one animal and no people. No other clothes, no hat. No weapon, nothing in the paws. No text, no logos, no readable signs, no watermark.
 ```
 
-### 3. Press the film button on the still to open AI Video with the still as the first frame. Settings: Kling 3.0, 10 s, 1080p, 9:16, sound on. The video prompt
+### 3. Press the film button on the still to open AI Video with the still as the first frame. Settings: Seedance 2.5, 10 s, 720p, 9:16, sound on. The video prompt
 
 ```text
 One continuous vertical shot with no cuts, like a cinematic action-movie clip at night on a city rooftop, the camera slowly circling in. Keep the animal's face, fur, markings, tail and size, its tiny long black coat, and the rooftop, the railing and the glowing city exactly as in the image.
@@ -18840,7 +19555,7 @@ Audio: an original upbeat, bouncy K-pop style dance beat with crisp police whist
 Use the uploaded image as the base. 9:16 vertical photo, like a real phone photo of a pet dance challenge, taken at the height of the pet. The pet from the uploaded image stands upright on its two hind legs in front of a plain grey corrugated metal roller-shutter wall in a clean concrete underground car park, on a smooth grey concrete floor, with a strip of yellow and black hazard stripes along the base of the wall and cool white light. It wears a small navy police-style peaked cap with a black visor and a plain navy band, sitting a little tilted on its head, and a tiny silver toy whistle on a black cord around its neck. Nothing else: no shirt, no clothes on its body. The cap has no badge, no star, no emblem and no words. The pet faces the camera with a proud, cheeky face, one front paw raised in a little salute. Its whole body is in view, from the cap to the hind paws, with its tail. Realistic photo with natural colors and a soft, shallow depth of field. Exactly one animal and no people. No text, no logos, no watermark.
 ```
 
-### 3. Press the film button on the still to open AI Video with the still as the first frame. Settings: Kling 3.0, 10 s, 1080p, 9:16, sound on. The video prompt
+### 3. Press the film button on the still to open AI Video with the still as the first frame. Settings: Seedance 2.5, 10 s, 720p, 9:16, sound on. The video prompt
 
 ```text
 One continuous vertical shot with no cuts, like a real phone video of a pet dance challenge filmed at the pet's height. Keep the animal's face, fur, markings, tail and size, the small navy cap, the toy whistle, the grey roller-shutter wall and the floor exactly as in the image.
@@ -18966,7 +19681,7 @@ Audio: an original smooth old-school R&B and soul groove at a mid tempo, warm ba
 Use the uploaded image as the base. 9:16 vertical photo, like a real phone photo taken at night from inside a dancing crowd, at the height of the pet. The pet from the uploaded image stands upright on its two hind legs in the middle of a packed open-air charme party at night in a historic old square of Rio de Janeiro: old two-storey colonial houses with painted walls and colorful murals, warm string lights across the street, bright white floodlights on tall poles, blue market tents. Adult partygoers in light summer clothes dance around it, some hold up their phones to film it. The pet faces the camera with a happy, cheeky face, its front paws held up in front of its chest as if it is about to dance. Its whole body is in view, from the ears to the hind paws, with its tail. Realistic photo with natural night colors and a soft, shallow depth of field. Exactly one animal. No clothes on the pet. No children. No text, no logos, no club shirts, no readable signs, no watermark.
 ```
 
-### 3. Press the film button on the still to open AI Video with the still as the first frame. Settings: Kling 3.0, 10 s, 1080p, 9:16, sound on. The video prompt
+### 3. Press the film button on the still to open AI Video with the still as the first frame. Settings: Seedance 2.5, 10 s, 720p, 9:16, sound on. The video prompt
 
 ```text
 One continuous vertical shot with no cuts, like a real phone video filmed at night from inside a dancing crowd, a little shaky. Keep the animal's face, fur, markings, tail and size, and the old square, the string lights, the floodlights, the tents and the crowd, exactly as in the image.
@@ -19140,7 +19855,7 @@ Exactly two people. Anatomy rules: one head each, two arms each, five fingers on
 Use the uploaded image as the base. A real phone photo, vertical 9:16, taken from low down, at the height of the pet, on a bright sunny day. The pet from the uploaded image stands upright on its hind legs in the middle of a wide, sunny field of short green grass on a bright summer day, a line of tall green trees behind, and a clear deep-blue sky with a few thin white clouds, holding a long, flat, bright red rectangular banner, about as wide as the raised arms, with the words I'M BAMA BOUND in big, bold white capital letters on two lines (I'M on the first line, BAMA BOUND on the second), up above its head with both front paws. The banner shows only these words: no logo of any kind (no script letter, no emblem, no animal), no school name, no small print and no other words. It faces the camera from a few steps away with a happy, proud face, ears up, its whole body in view from the ears to the hind paws, with its tail. It keeps its own size, body shape and fur. Realistic photo, sharp, in full sun. Exactly one animal and no people. No clothes on the pet. No mascot, no captions, no watermark and no other text.
 ```
 
-### 3. Press the film button on the still to open AI Video with the still as the first frame. Settings: Kling 3.0, 8 s, 1080p, 9:16, sound on. The video prompt
+### 3. Press the film button on the still to open AI Video with the still as the first frame. Settings: Seedance 2.5, 8 s, 720p, 9:16, sound on. The video prompt
 
 ```text
 One continuous shot with no cuts, like a real phone video filmed from low down in a sunny green field. Keep the animal's face, fur, markings, size and body shape, the red banner with its words and the field exactly as in the image.
@@ -19187,7 +19902,7 @@ Use the input pet image as the main subject and strictly preserve the pet's face
 Animal paws, never human hands. Exactly one animal, no person. No fangs, no red eyes. Vertical 9:16. No text, no logos, no watermark.
 ```
 
-### 3. Press the film button on the still to open AI Video with the still as the first frame. Settings: Kling 3.0, 10 s, 1080p, 9:16, sound on. The video prompt
+### 3. Press the film button on the still to open AI Video with the still as the first frame. Settings: Seedance 2.5, 10 s, 720p, 9:16, sound on. The video prompt
 
 ```text
 Keep the pet's face, fur colors, markings, ears and size and the jersey exactly as in the image. A vampire pitcher in misty twilight, photorealistic, cinematic. 0-4 s: the pet, upright on its hind legs, rises into an impossibly graceful baseball wind-up, one hind leg high in the air, leans back, then snaps forward in supernatural speed to hurl the ball into the fog and lands in an elegant crouch. 4-6 s: thunder booms and lightning lights up the sky as a bat cracks somewhere in the mist and the ball flies high toward the pines. 6-10 s: the pet sprints across the wet grass at supernatural speed, leaps high between the pine trees, catches the ball in its front paws in mid-air, lands softly and looks at the camera. Audio: rolling thunder, wind in the pines, the crack of a bat, the pet's own happy sound. No music, no lyrics, no speech. Exactly one animal, never a person, animal paws, never human hands, the natural body volume of that animal, no morphing. Exactly one ball. No fangs. No text, no logos, no watermark.
@@ -19199,7 +19914,7 @@ Keep the pet's face, fur colors, markings, ears and size and the jersey exactly 
 
 - Page: https://www.makeviral.ai/templates/elevator-outfit-change-ai-trend
 - Markdown: https://www.makeviral.ai/templates/elevator-outfit-change-ai-trend.md
-- Updated: 2026-10-18 · Published: 2026-10-18
+- Updated: 2026-11-12 · Published: 2026-10-18
 - Local: [`makeviral/elevator-outfit-change-ai-trend/PROMPTS.md`](makeviral/elevator-outfit-change-ai-trend/PROMPTS.md)
 
 ### 1. The video prompt is filled in. Settings: Seedance 2.5, 13 s, 720p, 9:16, sound off. The video prompt
@@ -19228,6 +19943,20 @@ Every outfit stays exactly as in [Video 1]: the same clothes, shoes, bags and ac
 The looks, at the times of [Video 1]: look 1 at 0-3.2 s, the doors close and open 3.2-5.0 s, look 2 at 5.0-8.2 s, the doors 8.2-10.2 s, look 3 from 10.2 s to the end, and from 11.0 s the person walks out toward the camera. Each outfit change happens only while the closed doors hide the person: the doors close completely, then open again on the next look, and the person stands in the same spot before and after, with no jump. No glow, no particles, no dissolve, no flash. Never mix pieces of two looks.
 
 Anatomy rules: exactly one person, one head on that person's shoulders, two arms, two legs, five fingers on each hand. A face never appears on hands, clothes or the floor. No text, no captions, no logos, no watermark.
+```
+
+### 1. The video prompt is filled in. Settings: Seedance 2.5, 14 s, 720p, 9:16, sound off. The video prompt
+
+```text
+Recreate the reference video [Video 1] shot for shot: the same wide-angle camera fixed high in the top corner of the small steel elevator, looking down at the person, with the same fisheye bend of the brushed steel walls, the same closed steel doors, ceiling lights and grey floor, the same person who poses to the lens, the same light, framing, timing and moves. The doors stay closed the whole time: the outfit changes only with the jump cuts. The ONLY change is the face and the hair of the young woman with long dark hair and a center part who poses in the elevator: they are now the face and the hair of the person in [Image 1], in every look.
+
+The person = the person in [Image 1], in EVERY shot and in EVERY look: copy the exact face from [Image 1] (the face shape, eye color and eye shape, eyebrows, nose, mouth, skin tone, age, hair color, hair length and hairstyle, and any beard, moustache, glasses or freckles), so their friends recognize them at once. [Image 1] is only a head-and-shoulders portrait: take ONLY the face, the hair and the skin tone from it, never its plain black t-shirt and never its grey background. The same real person in every look, from the first frame to the last, also right after each jump cut and when the face is small or turned away. Never morph, never drift back to the original woman's face or hair.
+
+Every outfit stays exactly as in [Video 1]: the same clothes, shoes, bags and accessories, the same fit, in the same order, and each outfit change at the same moment as in [Video 1]. NO black t-shirt from [Image 1] in any look. NO long dark hair with a center part unless [Image 1] shows it: the hair is the hair from [Image 1] in every look, also when it flies or a hand covers part of the face. Sunglasses and the white wired earphones only in the shots where [Video 1] shows them, with the face from [Image 1] around them.
+
+The cuts, at the times of [Video 1]: a hard jump cut on every beat, about 25 cuts in 14 seconds, each to a new look or a new pose in the same spot, with no camera move between them. The poses stay as in [Video 1]: hands pushed toward the lens and big in the foreground, a point at the lens, a blown kiss, spread arms, a hair flip, a bag held up to the lens, and the mouth moving with the words. No glow, no particles, no dissolve, no flash, no door move. Never mix pieces of two looks.
+
+Anatomy rules: exactly one person, one head on that person's shoulders, two arms, two legs, five fingers on each hand. A face never appears on hands, clothes or the floor. The hands that reach for the lens keep five fingers each and the same nails. No text, no captions, no logos, no watermark.
 ```
 
 ---
@@ -19409,7 +20138,7 @@ Audio: loud, upbeat Latin party music with a reggaeton beat, party chatter and s
 Use the uploaded image as the base. 9:16 vertical photo, like a real phone photo taken from low down, at the pet's eye level, at a party at night. The pet from the uploaded image stands on the shiny dance floor of a quinceañera party hall at night with purple, pink and green party lights, white curtains, flower centerpieces on round tables, gold chairs and grown-up guests in party dresses and shirts dancing; the guests are soft and out of focus, seen mostly from the waist down at this low height. The pet stands a few steps from the camera, facing the camera, with a small round sweet bread with a pink sugar shell held gently in its mouth, ears up, looking into the lens with a cool, serious face. Its whole body is in view, with its tail, and purple and pink party light falls on its fur. Realistic photo with natural colors and a soft, shallow depth of field. Exactly one animal. No clothes on the pet. No text, no logos, no watermark.
 ```
 
-### 3. Press the film button on the still to open AI Video with the still as the first frame. Settings: Kling 3.0, 10 s, 1080p, 9:16, sound on. The video prompt
+### 3. Press the film button on the still to open AI Video with the still as the first frame. Settings: Seedance 2.5, 10 s, 720p, 9:16, sound on. The video prompt
 
 ```text
 One continuous handheld shot with no cuts, like a real phone video filmed from low down at a quinceañera party at night. Keep the animal's face, fur, markings and size, the sweet bread, the purple and pink party lights and the dancing guests exactly as in the image.
@@ -19560,33 +20289,39 @@ No black beanie, no long dark red-streaked hair, no fitted black T-shirt, no bla
 - Updated: 2026-10-29 · Published: 2026-10-17
 - Local: [`makeviral/singing-dog-ai-trend/PROMPTS.md`](makeviral/singing-dog-ai-trend/PROMPTS.md)
 
-### 1. The video prompt is filled in. Settings: Kling 3.0 Omni, 10 s, 720p, 9:16, sound off. The video prompt
+### 1. The video prompt is filled in. Settings: Seedance 2.5, 10 s, 720p, 9:16, sound off. The video prompt
 
 ```text
-Replace the dog in the video with the pet in the first image. The grey short-haired dog with white flecks on its chest from the video must not appear in any frame. The pet that stands upright in the white bathtub with a white towel wrapped around its waist, holds the black hair dryer in its front paws, brushes its own head and sings with its mouth wide open is the pet in the first image, whether it is a dog, a cat or another animal: the same species and breed, face, eyes, ears, muzzle, fur colors, fur length, markings and size as in the first image. A furry friend that sings: the pet is the singer.
+Recreate the reference video [Video 1] shot for shot: the same small bathroom with white tiles and a white bathtub, the same white towel wrapped around the waist, the same black hair dryer and blue hairbrush, the same warm light, the same fixed phone camera, close framing, timing, head moves and facial expressions. The ONLY change: the grey short-haired dog is now the pet in [Image 1].
 
-Timing, second by second, as in the original video:
-0-1 s: the pet holds the black hair dryer in its front paws, the warm air blows on its face, and it looks up at the dryer with its mouth half open.
-1-3 s: it closes its eyes and sings a big note, mouth wide open, like an opera singer.
-3-4.5 s: it lifts one front paw with a blue hairbrush, brushes the fur on top of its head, glances at the camera and keeps singing.
-4.5-8 s: it turns its face into the warm air of the hair dryer and sings with its eyes closed and its mouth wide open.
-8-10 s: it turns to the camera, lifts its head toward the ceiling and holds the last long note.
+The pet = the pet in [Image 1], in EVERY frame: the same species and breed, head shape, face, eyes, ears, muzzle, fur colors, fur length and markings as in [Image 1], with the natural body volume and proportions of that animal: never flattened, squashed, stretched or merged with anything, so its owner instantly recognizes it. Whether [Image 1] shows a dog, a cat or another animal, it stays that animal. Never drift back to the dog of the original video: NO grey coat and NO white chest flecks unless [Image 1] shows them.
 
-The pet keeps its own look from the first image in every frame, with the natural body volume and proportions of that animal: never flattened, squashed, stretched or merged with anything. The fur is freshly washed, a little damp, and moves in the warm air. The mouth moves like real singing: wide open on the long notes, closing a little between them. No grey coat and no white chest flecks unless the first image shows them. The white tiles, the bathtub, the towel, the hair dryer, the brush, the light and the camera stay as in the video. One pet only, one head, natural teeth and tongue. No new text, no logos, no watermark.
+A furry friend that sings: the pet stands upright in the tub, dries and brushes its own fur and sings like a big opera star. Matching the reference second by second:
+1. 0-1 s: it holds the hair dryer in its front paws and looks up into the warm air, mouth half open.
+2. 1-3 s: eyes closed, mouth wide open on a big note.
+3. 3-4.5 s: it brushes the fur on top of its head with the blue brush, glances at the camera, keeps singing.
+4. 4.5-8 s: it sings into the warm air with its eyes closed and its mouth wide open.
+5. 8-10 s: it turns to the camera, lifts its head toward the ceiling and holds the last long note.
+The mouth opens and closes exactly when the dog's mouth in [Video 1] does. The fur is freshly washed, a little damp, and moves in the air.
+
+Anatomy rules: one head only, one muzzle, natural teeth and tongue. No extra legs or paws. No text, no logos, no watermark, no extra animals.
 ```
 
-### 1. The video prompt is filled in. Settings: Kling 3.0 Omni, 10 s, 720p, 9:16, sound off. The video prompt
+### 1. The video prompt is filled in. Settings: Seedance 2.5, 10 s, 720p, 9:16, sound off. The video prompt
 
 ```text
-Replace the cat in the video with the pet in the first image. The orange-and-white long-haired cat from the video must not appear in any frame. The pet that stands upright in the bathroom with a white towel wrapped around its waist, holds the black hair dryer in one front paw, brushes the top of its head with a black hairbrush in the other and sings with its mouth wide open is the pet in the first image, whether it is a cat, a dog or another animal: the same species and breed, face, eyes, ears, muzzle, whiskers, fur colors, fur length, markings and size as in the first image. A furry friend that sings: the pet is the singer.
+Recreate the reference video [Video 1] shot for shot: the same bathroom with grey tiles and a glass shower, the same white towel wrapped around the waist, the same black hair dryer and black hairbrush, the same warm light, the same fixed phone camera, close framing, timing, head moves and facial expressions. The ONLY change: the orange-and-white long-haired cat is now the pet in [Image 1].
 
-Timing, second by second, as in the original video:
-0-0.5 s: the pet squints in the warm air of the hair dryer, its mouth half open.
-0.5-6 s: it sings a big note with its eyes closed and its mouth wide open, like an opera singer, while it brushes the top of its head with the brush and blows it dry with the hair dryer.
-6-7 s: it opens its eyes for a moment and lifts the brush away.
-7-10 s: it faces the camera, spreads its front legs wide, lifts its head toward the ceiling and holds the last long note, the hair dryer still in one paw.
+The pet = the pet in [Image 1], in EVERY frame: the same species and breed, head shape, face, eyes, ears, muzzle, whiskers, fur colors, fur length and markings as in [Image 1], with the natural body volume and proportions of that animal: never flattened, squashed, stretched or merged with anything, so its owner instantly recognizes it. Whether [Image 1] shows a cat, a dog or another animal, it stays that animal. Never drift back to the cat of the original video: NO orange-and-white coat unless [Image 1] shows it.
 
-The pet keeps its own look from the first image in every frame, with the natural body volume and proportions of that animal: never flattened, squashed, stretched or merged with anything. The fur is freshly washed, fluffy, and moves in the warm air. The mouth moves like real singing: wide open on the long notes, closing a little between them. No orange-and-white coat unless the first image shows it. The grey tiles, the glass shower, the towel, the hair dryer, the brush, the light and the camera stay as in the video. One pet only, one head, natural teeth and tongue. No new text, no logos, no watermark.
+A furry friend that sings: the pet stands upright, dries and brushes its own fur and sings like a big opera star. Matching the reference second by second:
+1. 0-0.5 s: it squints in the warm air, mouth half open.
+2. 0.5-6 s: eyes closed, mouth wide open on a big note, the brush in one paw on top of its head, the hair dryer in the other.
+3. 6-7 s: it opens its eyes for a moment and lifts the brush away.
+4. 7-10 s: it faces the camera, spreads its front legs wide, lifts its head toward the ceiling and holds the last long note.
+The mouth opens and closes exactly when the cat's mouth in [Video 1] does. The fur is freshly washed, fluffy, and moves in the air.
+
+Anatomy rules: one head only, one muzzle, natural teeth and tongue. No extra legs or paws. No text, no logos, no watermark, no extra animals.
 ```
 
 ### 1. The video prompt is filled in. Settings: Seedance 2.5, 10 s, 720p, 9:16, sound off. The video prompt
@@ -20593,7 +21328,7 @@ Turn this photo into an image in a knitted crochet style, as if the people were 
 
 - Page: https://www.makeviral.ai/templates/ai-celebrity-autograph-signing
 - Markdown: https://www.makeviral.ai/templates/ai-celebrity-autograph-signing.md
-- Updated: 2026-10-24 · Published: 2026-10-17
+- Updated: 2026-11-12 · Published: 2026-10-17
 - Local: [`makeviral/ai-celebrity-autograph-signing/PROMPTS.md`](makeviral/ai-celebrity-autograph-signing/PROMPTS.md)
 
 ### 1. The video prompt is filled in. Settings: Seedance 2.5, 10 s, 720p, 9:16, sound on. The video prompt
@@ -21327,7 +22062,7 @@ Exactly one person, who becomes one wolf. No nudity: the torn clothes and the gr
 Use the uploaded image as the base. 9:16 vertical photo, a dark cinematic film still: anamorphic lens, 35mm film, soft lens glare. The pet from the uploaded image stands on a dark backyard lawn at night under a huge, bright full moon, a wooden fence and black trees behind, cold blue moonlight, its whole body in view, facing the camera three-quarters, the moonlight on its fur. Exactly one animal and no people. No clothes on the pet. No text, no logos, no watermark.
 ```
 
-### 3. Press the film button on the still to open AI Video with the still as the first frame. Settings: Kling 3.0, 10 s, 1080p, 9:16, sound on. The video prompt
+### 3. Press the film button on the still to open AI Video with the still as the first frame. Settings: Seedance 2.5, 10 s, 720p, 9:16, sound on. The video prompt
 
 ```text
 A dramatic intense scene, camera spin 360° around the pet from the image, it is in pain as its bones dislocate and skin ripple, camera captures the intricate details as its body transforms gradually. Its jaws gradually elongate like a dire wolf, its body gradually grows bigger and muscular, gradually its whole body gets covered with thick wild wolf fur and it transforms into a majestic dire wolf. Camera captures its facial expressions while the camera dynamically orbits around it, crash zoom in and out focusing on its face and body, the growing furry tail, anamorphic lens, 35mm film, lens glare, a cinematic masterpiece, on a dark backyard lawn at night under a huge, bright full moon, a wooden fence and black trees behind, cold blue moonlight. At the end the wolf lifts its head to the full moon and howls.
@@ -21372,7 +22107,7 @@ Vertical 9:16. No badges, emblems, brand names or lettering on the car and no re
 Use the uploaded image as the base. 9:16 vertical photo, like a real phone photo taken from low down, at the height of a small dog. The pet from the uploaded image stands upright on its two hind legs in the middle of a wide, empty city road of smooth grey asphalt in bright, soft daylight, with a low curb and a sidewalk on the far side; along the sidewalk runs a white metal barrier fence hung with soft pink panels and a few plain pink banners; behind it, green trees and tall city apartment buildings. It stands a few steps from the camera, facing the camera, its front paws held up in front of its chest, ears up, looking into the lens with a cheeky, happy face. Its whole body is in view, from the ears to the hind paws, with its tail. Realistic photo with natural colors and a soft, shallow depth of field. Exactly one animal and no people, no cars. No clothes on the pet. No text, no logos, no watermark, no writing on the banners.
 ```
 
-### 3. Press the film button on the still to open AI Video with the still as the first frame. Settings: Kling 3.0, 8 s, 1080p, 9:16, sound on. The video prompt
+### 3. Press the film button on the still to open AI Video with the still as the first frame. Settings: Seedance 2.5, 8 s, 720p, 9:16, sound on. The video prompt
 
 ```text
 One continuous shot with no cuts, like a real phone video filmed from low down on a city road in bright daylight. Keep the animal's face, fur, markings, tail and size, and the road, the white fence with the pink panels, the trees and the buildings, exactly as in the image.
@@ -22409,21 +23144,21 @@ The dance, matching the reference second by second:
 Anatomy rules: one head only, on the dancer's shoulders. Two arms and two hands, no extra limbs, even in the fastest moves. No fangs, no blood. No text, no logos, no watermark, no other people.
 ```
 
-### 1. The video prompt is filled in. Settings: Kling 3.0 Omni, 10 s, 720p, 9:16, sound off. The video prompt — Pet
+### 1. The video prompt is filled in. Settings: Seedance 2.5, 10 s, 720p, 9:16, sound off. The video prompt — Pet
 
 ```text
-Replace the vampire in the video with the pet in the first image. The man from the video must not appear in any frame. Keep the original actions, poses, body movements, camera movement, background, lighting and timing. Only replace the vampire and keep everything else unchanged.
+Recreate the reference video [Video 1] shot for shot: the same huge glowing orange full moon in a deep red-orange sky, the black bats, the bare twisted trees, the gravestones on the dark hill and the glowing jack-o'-lanterns, the same low fixed camera, the same framing, timing and dance moves. The ONLY change: the vampire is now the pet in [Image 1], standing upright on its hind legs and doing the same dance.
 
-The pet stands upright on its hind legs in the vampire's place and does the same dance. It is the same species and breed as the pet in the first image, with the same face, eyes, ears, muzzle, fur colours, fur length and markings, its own furry paws and its own tail, with the natural body volume of that animal: never a human face, human hands or human skin. It wears the dramatic, flowing black vampire cape with a tall, pointed collar and deep burgundy-red lining from the video, spreading outward from the shoulders in elegant folds, and a black bow tie at the neck. No suit, no trousers and no shoes on the pet.
+The vampire = the pet in [Image 1], in EVERY frame: the same species and breed, face, eyes, ears, muzzle, fur colors, fur length and markings as in [Image 1], its own furry paws and its own tail, with the natural body volume and proportions of that animal: never flattened, squashed, stretched or merged with anything. Never a human face, human hands or human skin. Never drift back to the vampire's face. Only the head, the face, the ears and the fur change into the pet's: the pet keeps the costume of the video, the flowing black vampire cape with the tall pointed collar and the burgundy-red lining, and a black bow tie at the neck. No suit, no trousers and no shoes on the pet.
 
-Timing, second by second, as in the original video:
+The dance, matching the reference second by second:
 0-1.5 s: bounces on the spot with the front legs held out low to the sides, then stands tall.
 1.5-3.5 s: kicks one hind foot out to the side, then the other.
 3.5-5.5 s: throws both front legs out wide, so the cape opens like wings, and lifts the knees in turn.
 5.5-8.5 s: twists the hips left and right with quick little kicks.
 8.5-10 s: a hop, then one front paw thrown up high for the final pose.
 
-The orange full moon, the bats, the bare trees, the gravestones and the glowing jack-o'-lanterns stay exactly as in the video. The pet keeps its own look from the first image in every frame. One animal only and no person anywhere in the frame. No fangs, no blood, no text, no logos, no watermark, no extra people or animals.
+One animal only and no person anywhere in the frame. One head only, on the pet's shoulders. No fangs, no blood, no text, no logos, no watermark, no extra people or animals.
 ```
 
 ---
@@ -22462,32 +23197,38 @@ Use the uploaded image as the base. Turn the pet in the photo into a flat constr
 - Updated: 2026-10-18 · Published: 2026-10-14
 - Local: [`makeviral/sniffer-dog-ai-trend/PROMPTS.md`](makeviral/sniffer-dog-ai-trend/PROMPTS.md)
 
-### 1. The video prompt is filled in. Settings: Kling 3.0 Omni, 8 s, 720p, 9:16, sound off. The video prompt — Human
+### 1. The video prompt is filled in. Settings: Seedance 2.5, 8 s, 720p, 9:16, sound off. The video prompt — Human
 
 ```text
-Replace the young man in the video with the person in the first image. The young man from the video must not appear in any frame. The one the sniffer dog walks up to and sits in front of, who stares down at the dog and then cries into the camera, is the person in the first image, with the face, hair, skin tone and age from the first image, whether that person is a man or a woman. The person wears the rainbow tie-dye T-shirt, the black shorts and the white sneakers from the video.
+Recreate the reference video [Video 1] shot for shot: the handheld night shot on the dark green turf, the crowd, the floodlights and the city lights on the hills, the brown and white sniffer dog in its black vest with neon yellow straps, the same camera moves, cuts, timing and moves. The ONLY change: the young man the dog sits in front of is now the person in [Image 1].
 
-Timing, second by second, as in the original video:
-0-2 s: the handheld camera follows the brown and white sniffer dog in its black vest with neon yellow straps as it weaves through the legs of the crowd on the dark green turf at night.
+The young man = the person in [Image 1], in EVERY shot: copy the exact face from [Image 1] - face shape, eye color and eye shape, eyebrows, nose, mouth, skin tone, age, hair color, hair length and hairstyle, and any beard, moustache, glasses or freckles exactly as in the photo, whether that person is a man or a woman. The same real person in every frame, also while crying with the mouth open, so their friends recognize them at once. Never morph, never drift back to the original young man's face. NO short dark hair with shaved sides unless [Image 1] shows it. The person wears the rainbow tie-dye T-shirt, the black shorts and the white sneakers from the video, never the clothes from [Image 1].
+
+Matching the reference second by second:
+0-2 s: the handheld camera follows the sniffer dog as it weaves through the legs of the crowd.
 2-3 s: the dog reaches the person, sniffs their legs, rears up against them once and sits down right at their feet.
 3-4 s: the camera tilts up: the person stands in full view and stares down at the dog.
-4-8 s: the dog keeps sitting at their feet and looks up at them. The person looks at the dog, then into the camera, their eyes fill with tears and they cry, lips trembling, with the crowd, the floodlights and the city lights on the hills behind them.
+4-8 s: the dog keeps sitting at their feet and looks up at them. The person looks at the dog, then into the camera, their eyes fill with tears and they cry, lips trembling.
 
-The person keeps the face, hair, skin tone, age and any glasses, beard or freckles from the first image in every frame, also while crying with the mouth open: no short dark hair with shaved sides unless the first image shows it. The dog and its vest stay as in the video. No new text, no logos, no watermark, no new people in front of the camera.
+The dog and its vest stay as in the video. One head only, two arms and two hands. No new text, no logos, no watermark, no new people in front of the camera.
 ```
 
-### 1. The video prompt is filled in. Settings: Kling 3.0 Omni, 8 s, 720p, 9:16, sound off. The video prompt
+### 1. The video prompt is filled in. Settings: Seedance 2.5, 8 s, 720p, 9:16, sound off. The video prompt — Pet
 
 ```text
-Replace the young man in the video with the person in the first image, and the brown and white sniffer dog with the pet in the second image. The young man and the spaniel from the video must not appear in any frame. The one the sniffer dog walks up to and sits in front of, who stares down at it and then cries into the camera, is the person in the first image, with the face, hair, skin tone and age from the first image, whether that person is a man or a woman. The person wears the rainbow tie-dye T-shirt, the black shorts and the white sneakers from the video. The sniffer dog is the pet in the second image, in the black working vest with neon yellow straps and on the orange lead from the video.
+Recreate the reference video [Video 1] shot for shot: the handheld night shot on the dark green turf, the crowd, the floodlights and the city lights on the hills, the same camera moves, cuts, timing and moves. The ONLY change: the young man is now the person in [Image 1], and the brown and white sniffer dog is now the pet in [Image 2]. Both change: no one from the video stays, also in the wide shots and when only the back of a head shows.
 
-Timing, second by second, as in the original video:
-0-2 s: the handheld camera follows the pet from the second image in the black vest with neon yellow straps as it weaves through the legs of the crowd on the dark green turf at night.
+The young man = the person in [Image 1], in EVERY shot: copy the exact face from [Image 1] - face shape, eye color and eye shape, eyebrows, nose, mouth, skin tone, age, hair color, hair length and hairstyle, and any beard, moustache, glasses or freckles exactly as in the photo, whether that person is a man or a woman. The same real person in every frame, also while crying with the mouth open. Never morph, never drift back to the original young man's face. NO short dark hair with shaved sides unless [Image 1] shows it. The person wears the rainbow tie-dye T-shirt, the black shorts and the white sneakers from the video, never the clothes from [Image 1].
+
+The sniffer dog = the pet in [Image 2], in EVERY shot: the same species and breed, size, face, eyes, ears, muzzle, fur colors, fur length and markings as in [Image 2], with the natural body volume and proportions of that animal: never flattened, squashed, stretched or merged with anything. It wears the black working vest with neon yellow straps and the orange lead from the video. Never the spaniel from the video.
+
+Matching the reference second by second:
+0-2 s: the handheld camera follows the pet from [Image 2] in the black vest as it weaves through the legs of the crowd.
 2-3 s: the pet reaches the person, sniffs their legs, rears up against them once and sits down right at their feet.
 3-4 s: the camera tilts up: the person stands in full view and stares down at the pet.
-4-8 s: the pet keeps sitting at their feet and looks up at them. The person looks at the pet, then into the camera, their eyes fill with tears and they cry, lips trembling, with the crowd, the floodlights and the city lights on the hills behind them.
+4-8 s: the pet keeps sitting at their feet and looks up at them. The person looks at the pet, then into the camera, their eyes fill with tears and they cry, lips trembling.
 
-The pet keeps the species, breed, size, face, eyes, ears, muzzle, fur colors, fur length and markings from the second image in every frame, with the natural body volume and proportions of that animal: never flattened, squashed, stretched or merged with anything. The person keeps the face, hair, skin tone, age and any glasses, beard or freckles from the first image in every frame, also while crying with the mouth open: no short dark hair with shaved sides unless the first image shows it. No new text, no writing on the vest, no logos, no watermark, no new people in front of the camera.
+No writing on the vest. One head only for the person, two arms and two hands. No new text, no logos, no watermark, no new people in front of the camera.
 ```
 
 ---
@@ -22855,21 +23596,21 @@ Timing, second by second, as in the original video:
 Each person keeps the face, eye color, eyebrows, nose, mouth, skin tone, age, hair color and hairstyle, and any glasses, beard or freckles from their own image in every frame, so their friends recognize them at once. Never blend their faces. Each head is a clean cut-out of the head, neck and shoulders, in the clothes from their own image. No cat ears, no fur, no whiskers and no cat face anywhere. No hoodie, no badge, nothing in the mouth. Exactly three heads, never a fourth. The black background stays black above and below the row. No text, no logos, no watermark.
 ```
 
-### 1. The video prompt is filled in. Settings: Kling 3.0 Omni, 11 s, 720p, 9:16, sound off. The video prompt — Pet
+### 1. The video prompt is filled in. Settings: Seedance 2.5, 11 s, 720p, 9:16, sound off. The video prompt — Pet
 
 ```text
-Replace each of the four cats in the video with the pet in the first image: the small striped cat, the black-and-white cat, the grey cat with the big round eyes and the orange cat in the black hoodie all become the head and shoulders of this same pet. Keep the original actions, facial expressions, poses, body movements, camera movement, background, lighting and timing. Only replace the cats and keep everything else unchanged.
+Recreate the reference video [Video 1] shot for shot: a row of cut-out heads on a black background, from small to big, that bop in turn to the beat while the camera slides along the row, with the same framing, timing and moves. The ONLY change: each of the four cats - the small striped cat, the black-and-white cat, the grey cat with the big round eyes and the orange cat in the black hoodie - is now the head and shoulders of the pet in [Image 1].
 
-The video is a headbop: a row of cut-out heads on a black background, from small to big, that bop to the beat while the camera slides along the row.
+Every head = the pet in [Image 1], in EVERY shot: the same species and breed, face, eyes, ears, muzzle, fur colors, fur length and markings as in [Image 1], with the natural body volume and proportions of that animal: never flattened, squashed, stretched or merged with anything. Only the size changes from head to head. Never drift back to the cats of the video.
 
-Timing, second by second, as in the original video:
+Matching the reference second by second:
 0-3.2 s: four heads in a row, the smallest on the left and the biggest at the right edge of the frame, partly out of the frame. They bop in turn to the beat.
 3.2-5.3 s: the camera moves closer to the three heads on the left. The biggest head is out of the frame.
 5.3-5.7 s: a quick fade to black and back.
-5.7-9.2 s: the same row, mirrored: the biggest head slides in at the left edge of the frame, then the others down to the smallest on the right. All four heads are the pet again, no cat from the video. They bop in turn to the beat.
+5.7-9.2 s: the same row, mirrored: the biggest head slides in at the left edge of the frame, then the others down to the smallest on the right. All four heads are the SAME pet from [Image 1] again, never a cat from the video. They bop in turn to the beat.
 9.2-11 s: the camera moves closer to the three heads on the right. The biggest head is out of the frame.
 
-Every head is the pet from the first image, in every frame: the same species and breed, face, eyes, ears, muzzle, fur colors, fur length and markings as in the first image, with the natural proportions of that animal: never flattened, squashed or stretched. Only the size changes from head to head. None of the cats from the video stays: not the small striped cat, not the black-and-white cat, not the grey cat with the big round eyes, not the orange cat. No hoodie, no badge, nothing in the mouth. One head in each place, no extra heads. The black background stays black above and below the row. No text, no logos, no watermark.
+None of the cats from the video stays: not the small striped cat, not the black-and-white cat, not the grey cat with the big round eyes, not the orange cat. No hoodie, no badge, nothing in the mouth. One head in each place, no extra heads. The black background stays black above and below the row. No text, no logos, no watermark.
 ```
 
 ---
@@ -23313,19 +24054,19 @@ Only the one who climbs and the one who waits, nobody else. No wings, no halos, 
 - Updated: 2026-10-29 · Published: 2026-10-14
 - Local: [`makeviral/ai-day-of-the-dead-pet/PROMPTS.md`](makeviral/ai-day-of-the-dead-pet/PROMPTS.md)
 
-### 1. The video prompt is filled in. Settings: Kling 3.0 Omni, 10 s, 720p, 9:16, sound off. The video prompt — Pet
+### 1. The video prompt is filled in. Settings: Seedance 2.5, 10 s, 720p, 9:16, sound off. The video prompt — Pet
 
 ```text
-Replace the dog in the video with the pet in the first image. The grey shaggy dog from the video must not appear in any frame. The pet that trots along the glowing marigold path to the crystal gate, waits at the skeleton officer's glass desk and then walks on into the glowing city is the pet in the first image, whether it is a dog, a cat or another animal: the same species and breed, face, eyes, ears, muzzle, fur colors, fur length, markings and size as in the first image, in the same warm 3D animated film style as the rest of the video. The framed photo on the officer's glowing screen also shows the pet from the first image.
+Recreate the reference video [Video 1] shot for shot: the winding path of glowing marigold petals, the gate of tall glowing crystals, the friendly skeleton officer in the blue uniform and blue cap at his glass desk, his glowing screen and the glowing city of towers at dusk, in the same warm 3D animated film style, with the same camera angles, cuts, timing and moves. The ONLY change: the grey shaggy dog is now the pet in [Image 1].
 
-Timing, second by second, as in the original video:
-0-2.5 s: the pet trots along a winding path of glowing marigold petals toward a gate of tall glowing crystals, past a few townspeople in festive clothes, and stops at the glass desk of a friendly skeleton officer in a blue uniform and a blue cap.
-2.5-4.9 s: close on the officer: he taps on a glowing glass pad on his desk, then looks up with wide eyes.
-4.9-6.2 s: close-up of his glowing screen: a framed photo of the pet on a Day of the Dead altar with orange marigolds, purple flowers and lit candles.
-6.2-8 s: the officer smiles warmly at the pet in front of his desk and opens one hand toward the city to wave it through.
-8-10 s: the pet walks on past the desk and down a glowing street of towers, balconies, lanterns and marigolds at dusk, toward a warm light, and grows small in the distance.
+The pet = the pet in [Image 1], in EVERY shot: the same species and breed, face, eyes, ears, muzzle, fur colors, fur length and markings as in [Image 1], with the natural body volume and proportions of that animal: never flattened, squashed, stretched or merged with anything. Whether [Image 1] shows a dog, a cat or another animal, it stays that animal. The same pet in every frame, from the first second to the last, so its family recognizes it at once, also from behind. Never drift back to the grey shaggy dog. NO party hat, NO backpack and NO blue bandana unless [Image 1] shows them. The framed photo on the officer's screen shows the same pet from [Image 1].
 
-The pet keeps its own look from the first image in every frame, also from behind and in the framed photo, with the natural body volume and proportions of that animal: never flattened, squashed, stretched or merged with anything. No party hat, no backpack and no blue bandana unless the first image shows them. The skeleton officer, the crystal gate, the marigold path and the city stay as in the video. One pet only. No new text, no logos, no watermark.
+The shots, matching the reference second by second:
+1. 0-4.9 s: the pet trots along the glowing marigold path toward the crystal gate, past a few townspeople, to the officer's glass desk; the camera moves in on the officer, who taps on a glowing glass pad and looks up with wide eyes.
+2. 4.9-6.2 s: close-up of the glowing screen: the framed photo of the pet from [Image 1] on an altar with marigolds, purple flowers and lit candles.
+3. 6.2-10 s: the officer smiles warmly at the pet and opens one hand toward the city; the pet walks on past the desk, down the glowing street at dusk, and grows small in the distance.
+
+One pet only. The skeleton officer keeps his own skull face and uniform. No new text, no logos, no watermark.
 ```
 
 ### 1. Open [AI Photo with this template](https://www.makeviral.ai/photo?template=ai-day-of-the-dead-pet&variant=pet-bridge) and add your photo (your pet). The photo prompt is filled in — Pet
@@ -23334,25 +24075,25 @@ The pet keeps its own look from the first image in every frame, also from behind
 Usa la foto subida como base. Por favor genera una imagen de este perro cruzando el puente de cempasúchil para venir a la tierra de los vivos el día de muertos. No cambies al perro, no hagas una ilustración, que sea el mismo perro de las fotos. El puente deberá estar decorado de día de muertos y que haya fuegos artificiales detrás del perro. Si la foto muestra un gato u otro animal, ese animal toma el lugar del perro. Formato vertical 9:16, con el animal entero en el puente y de frente a la cámara. Un solo animal, sin personas. Sin texto, sin logotipos, sin marca de agua, sin marcos ni superposiciones.
 ```
 
-### 3. Press the film button on the still to open AI Video with the still as the first frame. Settings: Kling 3.0, 8 s, 1080p, 9:16, sound on. The video prompt
+### 3. Press the film button on the still to open AI Video with the still as the first frame. Settings: Seedance 2.5, 8 s, 720p, 9:16, sound on. The video prompt
 
 ```text
 Turn this photo into a video, please. The pet is running over the bridge of flowers, coming toward the viewer. And animate the fireworks, please. Keep the animal's species, face, fur, markings and size and the marigold bridge exactly as in the image. Audio: a soft, warm original instrumental tune on a gentle guitar, the distant crackle and pops of the fireworks and light paws on the petals; no singing, no speech, no barking. Exactly one animal, no people. One continuous shot, no cuts, no extra animals, no extra legs, no morphing. No text, no subtitles, no logos, no watermark.
 ```
 
-### 1. The video prompt is filled in. Settings: Kling 3.0 Omni, 10 s, 720p, 9:16, sound off. The video prompt
+### 1. The video prompt is filled in. Settings: Seedance 2.5, 10 s, 720p, 9:16, sound off. The video prompt
 
 ```text
-Replace the dog in the video with the person in the first image. The grey shaggy dog from the video must not appear in any frame. The one who walks along the glowing marigold path to the crystal gate, waits at the skeleton officer's glass desk and then walks on into the glowing city is the person in the first image, a grown person walking upright on two legs: the same face, eye color, eyebrows, nose, mouth, skin tone, age, hair color and hairstyle, and any glasses, beard or freckles as in the first image, in the clothes from the first image, in the same warm 3D animated film style as the rest of the video, so their family recognizes them at once. The framed photo on the officer's glowing screen also shows the person from the first image.
+Recreate the reference video [Video 1] shot for shot: the winding path of glowing marigold petals, the gate of tall glowing crystals, the friendly skeleton officer in the blue uniform and blue cap at his glass desk, his glowing screen and the glowing city of towers at dusk, in the same warm 3D animated film style, with the same camera angles, cuts, timing and moves. The ONLY change: the grey shaggy dog is now the person in [Image 1], a grown person walking upright on two legs.
 
-Timing, second by second, as in the original video:
-0-2.5 s: the person walks along a winding path of glowing marigold petals toward a gate of tall glowing crystals, past a few townspeople in festive clothes, and stops at the glass desk of a friendly skeleton officer in a blue uniform and a blue cap.
-2.5-4.9 s: close on the officer: he taps on a glowing glass pad on his desk, then looks up with wide eyes.
-4.9-6.2 s: close-up of his glowing screen: a framed photo of the person on a Day of the Dead altar with orange marigolds, purple flowers and lit candles.
-6.2-8 s: the officer smiles warmly at the person in front of his desk and opens one hand toward the city to wave them through.
-8-10 s: the person walks on past the desk and down a glowing street of towers, balconies, lanterns and marigolds at dusk, toward a warm light, and grows small in the distance.
+The person = the person in [Image 1], in EVERY shot: copy the exact face from [Image 1] (the face shape, eye color and eye shape, eyebrows, nose, mouth, skin tone, age, hair color, hair length and hairstyle, and any beard, moustache, glasses or freckles), in the clothes from [Image 1], in the same warm 3D animated film style. The same person in every frame, from the first second to the last, so their family recognizes them at once, also from behind. Never drift back to the grey shaggy dog: a human, no fur, no dog ears, no tail, no paws. NO party hat, NO backpack and NO blue bandana unless [Image 1] shows them. The head is never cut off by the frame. The framed photo on the officer's screen shows the same person from [Image 1].
 
-The person keeps their own face and look from the first image in every frame, also from behind and in the framed photo, and their head is never cut off by the frame. A human, never a dog: no fur, no dog ears, no tail, no paws. No party hat, no backpack and no blue bandana unless the first image shows them. The skeleton officer, the crystal gate, the marigold path and the city stay as in the video. One person in the dog's place only. No new text, no logos, no watermark.
+The shots, matching the reference second by second:
+1. 0-4.9 s: the person walks along the glowing marigold path toward the crystal gate, past a few townspeople, to the officer's glass desk; the camera moves in on the officer, who taps on a glowing glass pad and looks up with wide eyes.
+2. 4.9-6.2 s: close-up of the glowing screen: the framed photo of the person from [Image 1] on an altar with marigolds, purple flowers and lit candles.
+3. 6.2-10 s: the officer smiles warmly at the person and opens one hand toward the city; the person walks on past the desk, down the glowing street at dusk, and grows small in the distance.
+
+One person in the dog's place only. The skeleton officer keeps his own skull face and uniform. No new text, no logos, no watermark.
 ```
 
 ---
@@ -23577,7 +24318,7 @@ Macro cinematic shot of a glossy silicone jelly human face resting on wooden tab
 Use the uploaded image as the base: keep the pet's species, breed, face, eye color, fur color and markings. Hyper realistic glossy silicone jelly face mask of the pet resting on wooden table surface, soft squishy skin texture, cheeks slightly spread outward against the table, face slightly flattened by gravity, macro close up top-down portrait, perfectly centered composition, ultra smooth reflective skin highlights, studio soft lighting reflections, extremely detailed fur and eyelashes, hyper realistic octane render, oddly satisfying ASMR aesthetic, no hands visible, portrait orientation, aspect ratio 9:16, ultra detailed 8k, gentle calm expression, relaxed eyes, smooth cheeks, soft innocent look, use reference image for 100% face identity, the pet's face and identity must exactly match the uploaded reference image. Exactly one animal face. No text, no logos, no watermark.
 ```
 
-### 3. Press the film button on the still to open AI Video with the still as the first frame. Settings: Kling 3.0, 8 s, 1080p, 9:16, sound on. The video prompt
+### 3. Press the film button on the still to open AI Video with the still as the first frame. Settings: Seedance 2.5, 8 s, 720p, 9:16, sound on. The video prompt
 
 ```text
 Macro cinematic shot of a glossy silicone jelly pet face resting on wooden table, hyper realistic skin texture, two hands entering frame and aggressively kneading and mashing the entire face like soft dough, deep compression folding and stretching deformation, cheeks spreading across the surface, facial features heavily distorted then slowly bouncing back, oddly satisfying ASMR motion, cinematic studio lighting, ultra realistic physics simulation, vertical 9:16, 4k animation. Keep the pet's face, fur colors and markings from the image: at the end it bounces back to exactly that face. Audio: close-up wet silicone squelches and soft sticky pops in time with every squeeze; no music, no speech, no barking. Exactly two hands with five fingers each. One continuous shot, no cuts. No text, no logos, no watermark.
@@ -23680,7 +24421,7 @@ Anatomy rules: one head only, on the person's shoulders. A face never appears on
 Use the uploaded image as the base. Keep the animal's species, breed, face, eye color, fur color, fur length, markings and body size exactly the same as in the photo. 9:16 vertical travel portrait. The pet from the reference image sits on the wide ledge of the guardrail at airport viewing platform, in profile, looking up at the sky with its ears up. Low wide-angle shot with a low-flying airliner overhead. Warm golden dusk rim light, strong perspective, 8K realistic photo with film texture. Exactly one animal and no people. No clothes on the pet. The airliner is plain white with no airline name, no logo, no tail emblem, no lettering and no registration number. No text, no logos, no watermark.
 ```
 
-### 3. Press the film button on the still to open AI Video with the still as the first frame. Settings: Kling 3.0, 8 s, 1080p, 9:16, sound on. The video prompt
+### 3. Press the film button on the still to open AI Video with the still as the first frame. Settings: Seedance 2.5, 8 s, 720p, 9:16, sound on. The video prompt
 
 ```text
 One continuous shot from a low wide angle, like a real phone video at an airport viewing platform at golden dusk. Keep the animal's face, fur, markings and size and the airliner exactly as in the image. The pet sits on the ledge of the guardrail and looks up at the sky. The low-flying airliner glides straight over its head, so low that its huge belly, engines, wheels and landing lights fill the top of the frame, then it flies on and out of the top of the frame. The pet's head follows the plane, the wind from the jet blows its ears and fur back, and it opens its eyes wide in surprise. The camera stays low and almost still, tilting up a little to follow the plane. Audio: a deep, rising jet engine roar that peaks as the plane passes overhead and rushing wind; no music, no human voices. Exactly one animal and one airliner, no people. No cuts, no second plane, no extra animals, no extra legs, no morphing. No airline names, no logos, no lettering or registration on the plane, no text, no subtitles.
@@ -23821,10 +24562,16 @@ Anatomy rules: one head only, on their own shoulders. Two arms and two hands. Ex
 [Video 1] is a motion guide only. Copy its camera, timing and dance moves, the giant retro boombox stage with pink and teal stripes and a glowing equalizer screen, the street lamp, the trees, the guardrail, the empty asphalt lot with white lane lines and the deep blue sky, filmed in one still, wide shot. Do NOT copy the three cats in [Video 1]: not their faces, fur, ears, tails or wigs. Replace all three with people. The dancer on the right, nearest the camera, is the one in [Image 1]. Keep the face, hair, skin tone, age and body from [Image 1] in every shot, dressed in a cropped pink jacket, a white top and baggy white cargo trousers. The dancer on the left is the one in [Image 2]. Keep the face, hair, skin tone, age and body from [Image 2] in every shot, dressed in a pink sequin top and pink sequin flared trousers. Do not mix the two faces. The dancer in the middle is a new young woman, not from [Video 1], with a light brown bob and sunglasses on her head, in a silver sequin top, a silver sequin mini skirt and a cropped pink jacket. All three dance the same 2000s girl-group routine in sync, on the beat: shoulder shimmies, hip sways, arm waves and side steps, and they end side by side with their arms around each other, smiling at the camera. Photorealistic, like a real pop music video in daylight. One continuous shot. Real people only: no cat ears, no fur, no tails, no whiskers. No text, no subtitles, no logos, no watermark, no extra people.
 ```
 
-### 1. The video prompt is filled in. Settings: Seedance 2.0 Mini, 15 s, 720p, 9:16, sound off. The video prompt — Pet
+### 1. The video prompt is filled in. Settings: Seedance 2.5, 15 s, 720p, 9:16, sound off. The video prompt — Pet
 
 ```text
-[Video 1] is a motion guide only. Copy its camera, timing and dance moves, the giant retro boombox stage with pink and teal stripes and a glowing equalizer screen, the street lamp, the trees, the guardrail, the empty asphalt lot with white lane lines and the deep blue sky, filmed in one still, wide shot, and the two cats on the left and in the middle with their wigs and outfits: the tabby with the long dark wig in pink sequins and the cream cat with the light brown wig and sunglasses in silver sequins. Do NOT copy the cream cat with the long blonde wig on the right: not its face, fur, ears or wig. Replace it completely. The dancer on the right, nearest the camera, is the pet in [Image 1], standing upright on its hind legs like a person the whole time. Keep the face, eyes, ears, fur colors, markings and body from [Image 1] in every shot, with no wig. It wears a white crop top, a cropped pink jacket and baggy white cargo trousers. If [Image 1] shows a dog or another animal, that animal takes the same place and does the same moves. All three dance the same 2000s girl-group routine in sync, on the beat, and end side by side with their arms around each other, looking at the camera. Photorealistic, like a real pop music video in daylight. One continuous shot. No people, no extra animals, no text, no subtitles, no logos, no watermark.
+Recreate the reference video [Video 1] shot for shot: the same giant retro boombox stage with pink and teal stripes and a glowing equalizer screen, the same street lamp, trees, guardrail, empty asphalt lot with white lane lines and deep blue sky, the same still wide camera, the same framing, timing and dance moves, and the same two cats on the left and in the middle with their wigs and outfits: the tabby with the long dark wig in pink sequins and the cat with the light brown wig and sunglasses in silver sequins. The ONLY change: the cat with the long blonde wig on the right, nearest the camera, is now the pet in [Image 1].
+
+The dancer on the right = the pet in [Image 1], whole body, in every frame, also in the group pose at the end: the same species and breed, head shape, muzzle, eyes, eye color, ears, fur colors, fur length and markings as in [Image 1], with the natural body volume and proportions of that animal: never flattened, squashed, stretched or merged with anything, so its owner instantly recognizes it. It stands upright on its hind legs like a person the whole time, with no wig, and wears the white crop top, the cropped pink jacket and the baggy white cargo trousers of the original right dancer. Never drift back to the cat of the original video on the right: not its coat, its face or its ears, and no blonde wig unless [Image 1] shows one. If [Image 1] shows a dog or another animal, that animal dances in the same place with the same moves, with its own ears and muzzle.
+
+All three dance the same 2000s girl-group routine in sync, in one continuous take, on the beat, matching the reference second by second: shoulder shimmies, hip sways, arm waves and side steps, and at the end they stand side by side with their arms around each other, looking at the camera. The two cats on the left and in the middle stay exactly as in the video.
+
+Anatomy rules: one head per animal, one tail each. Two legs on the ground and two front legs each, no extra legs or paws. No people, no extra animals, no text, no subtitles, no logos, no watermark. No dialogue throughout the entire video. No background music.
 ```
 
 ---
@@ -23995,10 +24742,23 @@ The moments, matching the reference second by second:
 Anatomy rules: one head only. Four legs, no extra legs or paws, no human arms. The backup dancers keep their own faces. No text, no logos, no watermark, no extra animals, no cuts.
 ```
 
-### 1. The video prompt is filled in. Settings: Seedance 2.0 Mini, 15 s, 720p, 9:16, sound off. The video prompt — Human
+### 1. The video prompt is filled in. Settings: Seedance 2.5, 15 s, 720p, 9:16, sound off. The video prompt — Human
 
 ```text
-[Video 1] is a motion guide only. Copy its camera, timing and choreography, the dark dance studio with a pale floor, the low camera angle and the continuous shot. Do NOT copy the people in [Video 1]: not their faces, hair, skin tone or clothes. Replace all of them. The lead dancer in the center foreground is the one in [Image 1]. Keep the face, hair, skin tone, body and clothes from [Image 1] in every shot, also in the hair tosses, with no gray crop top and no wide plaid pants unless [Image 1] shows them. Follow the reference dancer's head dip, upward lift, hip sways, hand on the hip, hand turns by the face and head tosses at the same moments. The two backup dancers behind on the left and the right are new young women in casual dance clothes, not the ones in [Video 1], who do the same choreography in the same positions. Photorealistic, like a real phone video in a dance studio. One continuous shot. No text, no subtitles, no logos, no extra people, no cuts.
+Recreate the reference video [Video 1] shot for shot: the same dark dance studio with a pale floor, the same two backup dancers on the left and the right with their own faces, outfits, choreography and positions, the same low camera angle in one continuous take, the same timing and choreography. The ONLY change: the lead dancer in the center foreground with long dark hair, in the grey crop top and the wide brown plaid trousers, is now the person in [Image 1]. [Image 1] is the sole reference for the lead dancer; [Video 1] is for the dance, the backup dancers and the camera only.
+
+The lead dancer = the person in [Image 1], in every frame: copy the exact face from [Image 1] - face shape, eye color and eye shape, eyebrows, nose, mouth, skin tone, age, hair color, hair length and hairstyle, and any beard, moustache, glasses or freckles exactly as in the photo. The same real person in every frame, from the first second to the last, so their friends instantly recognize them, also in the hair tosses and when the head turns. Never morph, never drift back to the original dancer's face, never add or remove facial hair. The lead dancer has the body and the clothes of the person in [Image 1], never the grey crop top and the wide brown plaid trousers of the original dancer; if [Image 1] shows only the head or the upper body, invent the rest so it matches naturally.
+
+The choreography, matching the reference second by second:
+0-1 s: bent over, the head dips low.
+1-4 s: rises up, a hand on the hip, hip sways.
+4-7 s: a hand turns beside the face, a head toss.
+7-10 s: hip sways with one hand raised, a big head toss.
+10-15 s: hands to the head, side tilts, ends facing the camera.
+
+Only replace the lead dancer; the backup dancers, the studio, the moves and the camera stay completely unchanged. Keep everything else the same.
+
+Anatomy rules: one head only, on the lead dancer's shoulders. Two arms and two hands, no extra limbs. The backup dancers keep their own faces and never get the face of [Image 1]. No text, no logos, no watermark, no extra people, no cuts. No dialogue throughout the entire video. No background music.
 ```
 
 ---
@@ -24350,7 +25110,7 @@ Anatomy rules: one head only. Four legs, two of them on the ground, no extra leg
 Use the uploaded image as the base. The ridiculously cute pet from the image stands upright naturally on its hind legs in the center of a spectacular concert stage. The pet is extremely adorable and photogenic and looks exactly like the pet in the image: the same face, fur colors, markings, ears, eyes and body. The pet wears a stylish 80s pop-star stage outfit: a small black fedora tilted slightly forward, a sparkling black sequin jacket worn open over a clean white shirt, fitted black trousers, bright white socks and tiny glossy black dance shoes. It confidently lowers the brim of its fedora over its eyes and freezes for a brief dramatic beat. CAMERA: Keep the pet's FULL BODY visible, especially both feet. Mostly front-facing camera. SETTING: Premium live concert stage, glossy dark reflective floor, dramatic white spotlights, subtle blue backlighting, light atmospheric haze, audience silhouettes, cinematic stage lighting and realistic reflections. Ultra-realistic fur, realistic adorable pet face, correct anatomy, no extra legs, no extra paws, no human hands, no distorted face, no deformed body. Vertical 9:16. High-end cinematic realism. Extremely cute + unexpectedly cool + funny. Designed as a viral social media pet dance video. Exactly one animal. No text, no logos, no watermark.
 ```
 
-### 3. Press the film button on the still to open AI Video with the still as the first frame. Settings: Kling 3.0, 15 s, 1080p, 9:16, sound on. The video prompt
+### 3. Press the film button on the still to open AI Video with the still as the first frame. Settings: Seedance 2.5, 15 s, 720p, 9:16, sound on. The video prompt
 
 ```text
 The ridiculously cute pet from the image stands upright naturally on its hind legs in the center of a spectacular concert stage. Keep the pet's face, fur colors, markings, ears and stage outfit exactly as in the image. The music begins. The adorable pet suddenly transforms into an unbelievably skilled professional pop dancer. It confidently lowers the brim of its fedora over its eyes and freezes for a brief dramatic beat. Then it launches into a beautifully smooth MOONWALK, gliding backward across the stage with clear alternating foot movements. Without stopping, the pet transitions into extremely clean heel-toe footwork, quick ankle pivots, rhythmic side steps and sharp shoulder pops. It performs a smooth SIDE GLIDE across the stage, suddenly stops on the beat and kicks one leg forward. Immediately, the pet performs a lightning-fast 360-degree SPIN. It stops perfectly after the spin and rises dramatically into a TOE STAND, balancing briefly on the tips of its tiny shoes. BIG VIRAL MOMENT: After a fast spin, the pet suddenly performs a dramatic GRAVITY-DEFYING FORWARD LEAN. Its entire body stays perfectly straight while leaning impossibly far forward. Hold this pose briefly. Then the pet snaps upright exactly on the beat. For the finale, it performs several extremely fast foot movements, smoothly moonwalks backward, spins one final time, grabs the brim of its fedora with one paw and freezes in an iconic superstar pose under a powerful spotlight. Do NOT make the pet randomly jump, bounce, wave its paws or dance like a generic cartoon animal. CAMERA: Keep the pet's FULL BODY visible for almost the entire video, especially both feet. Mostly front-facing camera with subtle cinematic tracking and gentle push-ins. Never crop the feet during the moonwalk or footwork. No extra legs, no extra paws, no human hands, no distorted face, no deformed body. Designed as a viral social media pet dance video. Original music only, no lyrics. No text, no logos.
@@ -24449,7 +25209,7 @@ Turn the image into a photorealistic vertical 9:16 handheld smartphone video of 
 Use the uploaded image as the base. Keep the animal's species, breed, face, eye color, fur color, fur length and markings exactly the same as in the photo. A photorealistic vertical 9:16 still from a handheld smartphone video of a fictional night-time movie arrest scene on an urban night street of brick houses. The pet has just been walked out of the front door of a house onto the pavement. It stands upright on its hind legs like a person, about as tall as a child, and wears a plain grey hoodie and grey joggers with no print. Its front paws are cuffed behind its back with small silver handcuffs, and two uniformed officers, one on each side, each hold one of its arms. The officers wear plain dark navy uniforms with no badges, no patches and no writing. The pet looks straight into the camera with a calm, smug face. Behind them a plain white patrol car at the curb flashes red and blue roof lights that tint the fur and the house walls. Shot by a bystander a few steps in front of them at chest height, framing all three from the knees up, with slight phone-camera grain. Exactly one animal and two officers. No other animals, no badges, no shoulder patches, no department names, no readable text on the uniforms, the clothes or the car, no captions, no logos, no watermark.
 ```
 
-### 3. Press the film button on the still to open AI Video with the still as the first frame. Settings: Kling 3.0, 8 s, 1080p, 9:16, sound on. The video prompt
+### 3. Press the film button on the still to open AI Video with the still as the first frame. Settings: Seedance 2.5, 8 s, 720p, 9:16, sound on. The video prompt
 
 ```text
 Turn the image into a photorealistic vertical 9:16 handheld smartphone video of a fictional night-time movie arrest scene. The same pet keeps its face, fur, markings and clothing and walks upright on its hind legs, escorted by two uniformed officers with its front paws cuffed behind its back; it briefly looks at the camera with a calm, smug face, then walks on. A funny viral clip on an urban night street. No changes to the animal's species, face or fur, no subtitles, no watermarks, no extra animals. Keep the animal's face, fur and clothes exactly as in the image in every frame, from the front and from the back. Audio: footsteps on the pavement, distant sirens and faint police radio chatter on a quiet night street; no music, no dialogue, no barking. No film crew or film cameras in frame. No badges, no shoulder patches, no department names, no readable text on the uniforms or the car, no captions, no logos.
@@ -24461,7 +25221,7 @@ Turn the image into a photorealistic vertical 9:16 handheld smartphone video of 
 
 - Page: https://www.makeviral.ai/templates/ai-airport-star-arrival
 - Markdown: https://www.makeviral.ai/templates/ai-airport-star-arrival.md
-- Updated: 2026-11-11 · Published: 2026-10-12
+- Updated: 2026-11-12 · Published: 2026-10-12
 - Local: [`makeviral/ai-airport-star-arrival/PROMPTS.md`](makeviral/ai-airport-star-arrival/PROMPTS.md)
 
 ### 1. Open [AI Photo with this template](https://www.makeviral.ai/photo?template=ai-airport-star-arrival) and add your photo (your photo). The photo prompt is filled in — Human
@@ -24482,7 +25242,7 @@ Style: Ultra realistic mass celebrity entry scene. Single continuous shot. Handh
 Use the uploaded image as the base. use same face, same fur, same markings, same identity, realistic match of the animal. Keep the animal's species, breed, body size, fur colors and markings exactly as in the photo. Ultra realistic cinematic airport entrance scene, the pet from the image walking confidently in center on all four paws, wearing small black sunglasses, confident expression, celebrity attitude, multiple bodyguards on both sides wearing black suits, security formation, serious faces, walking with it, crowd of people around recording videos with phones, paparazzi, fans watching, busy airport exit gate, luxury glass building background, low camera at the pet's eye level so the pet is big in the frame, main subject in sharp focus, shallow depth of field, background slightly blurred, cinematic lighting, HDR, 8K ultra detailed, professional photography, dramatic entrance, slow walking pose, high status vibe, viral reel style, social media trending look. Vertical 9:16. Exactly one animal. No clothes on the pet, no text, no logos, no readable signs, no airline or airport names.
 ```
 
-### 3. Press the film button on the still to open AI Video with the still as the first frame. Settings: Kling 3.0, 15 s, 1080p, 9:16, sound on. The video prompt
+### 3. Press the film button on the still to open AI Video with the still as the first frame. Settings: Seedance 2.5, 15 s, 720p, 9:16, sound on. The video prompt
 
 ```text
 Style: Ultra realistic mass celebrity entry scene. Single continuous shot. Handheld camera from crowd perspective. Natural micro-shake. No cuts. Documentary realism. Audio: Only natural environment sound: loud crowd cheering, people shouting, rapid camera shutter clicks, airport announcements echoing, footsteps, distant engine idle and rev. Lighting: Natural daylight through airport glass panels. Main Character: the celebrity is the pet in the image, with the same species, breed, face, fur colors, markings and small black sunglasses in every frame, walking on all four paws. Calm, confident presence. Face must remain consistent throughout. SCENE. 0–3s: Handheld camera starts from inside the crowd behind barricades. People partially block the view. Phones raised high. Crowd loud and restless. 3–6s: Camera lifts slightly above shoulder level, shaky but controlled. Focus shifts between heads, waving hands, glimpses of the arrival gate. Media cameras flash repeatedly. 6–10s: Security suddenly steps in, pushing the crowd slightly back. Through the gaps, the celebrity pet becomes visible in the distance, slightly blurred at first, then gradually clearer as it trots forward gracefully with bodyguards flanking both sides. 10–13s: Camera zooms slightly (natural handheld push-in feel). The pet now clearly visible, walking confidently in center. Security clears the path. Suddenly from the left side of the barricade, a fan screams: "Please, one photo!!" The pet turns its head toward the voice, looks at the fan and wags its tail. Crowd erupts louder. 13–15s: Camera tilts and shifts trying to follow as it reaches the convoy. Partial view of a black luxury car. Bodyguard opens the door. The pet hops in gracefully but quickly. Engine revs. Vehicles begin moving. No music. Exactly one animal. No text, no logos, no readable signs, no airline or airport names, no car badges.
@@ -24506,7 +25266,7 @@ Style: Ultra realistic celebrity hotel arrival scene at night. Single continuous
 Use the uploaded image as the base. use same face, same fur, same markings, same identity, realistic match of the animal. Keep the animal's species, breed, body size, fur colors and markings exactly as in the photo. Ultra realistic cinematic night arrival scene at the entrance of a grand five-star hotel, the pet from the image hopping out of the open rear door of a long black luxury car onto a red carpet on all four paws, wearing small black sunglasses, confident expression, celebrity attitude, two bodyguards in black suits beside the car, one holding the door open, serious faces, fans and photographers behind velvet ropes on both sides recording videos with phones, paparazzi, camera flashes, warm golden light from the hotel's glass doors, low camera at the pet's eye level so the pet is big in the frame, main subject in sharp focus, shallow depth of field, background slightly blurred, cinematic lighting, HDR, 8K ultra detailed, professional photography, dramatic entrance, high status vibe, viral reel style, social media trending look. Vertical 9:16. Exactly one animal. No clothes on the pet, no text, no logos, no readable signs, no hotel name, no car badges or emblems.
 ```
 
-### 3. Press the film button on the still to open AI Video with the still as the first frame. Settings: Kling 3.0, 15 s, 1080p, 9:16, sound on. The video prompt
+### 3. Press the film button on the still to open AI Video with the still as the first frame. Settings: Seedance 2.5, 15 s, 720p, 9:16, sound on. The video prompt
 
 ```text
 Style: Ultra realistic celebrity hotel arrival scene at night. Single continuous shot. Handheld camera from crowd perspective. Natural micro-shake. No cuts. Documentary realism. Audio: Only natural environment sound: loud crowd cheering, people shouting, rapid camera shutter clicks, a car door opening and closing, footsteps, a soft engine idle. Lighting: Night. Warm golden light from the hotel entrance, bright camera flashes, wet reflections on the driveway. Main Character: the celebrity is the pet in the image, with the same species, breed, face, fur colors, markings and small black sunglasses in every frame, walking on all four paws. Calm, confident presence. Face must remain consistent throughout. SCENE. 0-3s: Handheld camera starts from inside the crowd behind the velvet rope. Phones raised high. A long black luxury car stands at the red carpet, a bodyguard holds its rear door open. Media cameras flash repeatedly. 3-6s: The pet hops out of the car onto the red carpet and looks around proudly. A second bodyguard steps in on the other side. The bodyguard closes the door. Flashes burst from both sides. 6-10s: The celebrity pet trots forward gracefully down the red carpet with bodyguards flanking both sides, past the photographers and the fans behind the rope. Security clears the path. 10-13s: Camera zooms slightly (natural handheld push-in feel). The pet now clearly visible, walking confidently in center. Suddenly from the left side of the rope, a fan screams: "Please, one photo!!" The pet turns its head toward the voice, looks at the fan and wags its tail. Crowd erupts louder. 13-15s: Camera tilts and shifts trying to follow as it reaches the glass doors of the hotel. A doorman opens the door. The pet trots in gracefully but quickly. Flashes keep firing. No music. Exactly one animal. No text, no logos, no readable signs, no hotel name, no car badges or emblems.
@@ -24558,7 +25318,7 @@ An ordinary, unedited phone video filmed by a friend, in one continuous shot wit
 Use the two uploaded images as the base. They show the same pet years apart. The animal in the first image is the younger version: keep its species, breed, face, eye color, fur color, fur length, markings, young age and small size exactly as in the first image. The animal in the second image is today's version: keep its species, breed, face, eye color, fur color, fur length, markings, age and body size exactly as in the second image. Do not blend the two and do not make them the same age or size. An ordinary, unedited smartphone photo, taken at pet height. The place: {place}, a real, everyday place in natural light, with ordinary details, like a snapshot from someone's camera roll. The younger version is on the left. {arrive_photo} The younger version is playful, bright-eyed and full of energy, ears up, looking at today's version. A few steps away on the right, today's version sits looking tired and unimpressed, with sleepy, half-closed eyes, looking back at the younger one. Both whole bodies in frame, both faces clear and sharp. Photorealistic, natural fur detail and natural colors: no cinematic lighting, no color grading, no soft dreamy glow, not CGI, not a cartoon. Vertical 9:16. Exactly two animals, no people, no clothes. No flags, no signs, no text, no logos, no watermarks.
 ```
 
-### 3. Press the film button on the still to open AI Video with the still as the first frame. Settings: Kling 3.0, 10 s, 1080p, 9:16, sound on. The video prompt
+### 3. Press the film button on the still to open AI Video with the still as the first frame. Settings: Seedance 2.5, 10 s, 720p, 9:16, sound on. The video prompt
 
 ```text
 An ordinary, unedited phone video filmed at pet height, in one continuous shot with no cuts, in natural light with a slight handheld shake, like a real clip on social media. Keep both animals' faces, fur, markings, ages and sizes exactly as in the image: the young one on the left is the pet in the past, and the older one on the right is the same pet today. {arrive_video} The younger version looks around in wonder, bounces over to today's version, sniffs it from head to tail and tilts its head in confusion. Today's version lets out a long, tired sigh, slowly lies down flat and closes its eyes. The younger version looks from its older self straight into the camera, shocked. Audio: the natural sound of the scene, one small surprised sound from the young pet and a long, tired sigh from the older pet. No music, no human voices, no talking. Exactly two animals, no people, no extra legs, no morphing, no cinematic look, no text, no subtitles, no logos.
@@ -24635,10 +25395,23 @@ Exactly one witch on one broom. No other people, no other witches. Anatomy: two 
 - Updated: 2026-10-15 · Published: 2026-10-11
 - Local: [`makeviral/ozil-goal-ai-trend/PROMPTS.md`](makeviral/ozil-goal-ai-trend/PROMPTS.md)
 
-### 1. The video prompt is filled in. Settings: Seedance 2.0 Mini, 15 s, 720p, 9:16, sound off. The video prompt
+### 1. The video prompt is filled in. Settings: Seedance 2.5, 15 s, 720p, 9:16, sound off. The video prompt
 
 ```text
-[Video 1] is a motion guide only. Copy its camera moves, timing and actions, the night stadium under floodlights, the dark packed stands and the green pitch. Do NOT copy the people in [Video 1]: not their faces, hair, skin tone, age or clothes. Replace all of them. The one with the ball the whole time, who dribbles toward the camera, flicks the ball over the goalkeeper as he dives, takes the falling ball on the chest, lets it bounce, waits while two defenders slide past on the grass and then shoots the ball along the grass into the net, is the one in [Image 1]. Keep the face, hair, skin tone, body, clothes and shoes from [Image 1] in every shot, with no headscarf, no cardigan and no floral dress unless [Image 1] shows them. The goalkeeper in a plain grey kit and the defenders in plain blue kits are new adult men, not the ones in [Video 1]. The ball is a plain white football. Photorealistic, like a real night match filmed from pitch level. One continuous shot that ends behind the goal as the ball rolls into the net. No text, no names or numbers on the shirts, no badges, no score graphics, no subtitles, no logos, no watermark, no extra limbs.
+Recreate the reference video [Video 1] shot for shot: the same night stadium under floodlights, the same dark packed stands, the same green pitch and blurred ad boards, the same goalkeeper in grey and defenders in blue, the same camera that runs with the play, the same timing and moves, in one continuous take. The ONLY change: [Image 1] replaces the old woman in the pale headscarf, the mauve cardigan and the blue floral dress who dribbles, flicks the ball over the goalkeeper and scores.
+
+The scorer = the person in [Image 1], in EVERY shot: copy the exact face from [Image 1] (the face shape, eye color and eye shape, eyebrows, nose, mouth, skin tone, age, hair color, hair length and hairstyle, and any beard, moustache, glasses or freckles), and the body, clothes and shoes from [Image 1], so their friends recognize them at once, also when small in the wide shots and when the head turns. NO headscarf, NO cardigan, NO floral dress and NO grey hair unless [Image 1] shows them, and the age of [Image 1]. The same real person from the first second to the last. Never morph, never drift back to the original old woman's face or body.
+
+The goal, matching [Video 1] second by second:
+0-2 s: the scorer dribbles toward the camera while the goalkeeper rushes out.
+2-3 s: the keeper dives at the scorer's feet, and the scorer flicks the ball up and over him.
+3-6 s: the scorer runs under the falling ball, takes it on the chest and lets it bounce.
+6-11 s: one defender slides in, then a second; the scorer waits, steps around them and keeps the ball.
+11-15 s: the scorer shoots along the grass, and the camera ends behind the goal as the ball rolls into the net.
+
+The goalkeeper and the defenders keep their own faces from [Video 1]: none of them gets the face from [Image 1]. The ball stays a plain white football.
+
+Anatomy rules: one head only, on the scorer's shoulders. Two arms, two legs. No names or numbers on the shirts, no badges, no score graphics, no readable text, no logos, no watermark.
 ```
 
 ---
@@ -24691,10 +25464,20 @@ The dance, matching the reference second by second, on the beat:
 Anatomy rules: one head only, on the dancer's shoulders. Two arms and two hands, no extra limbs. No text, no logos, no watermark, no extra people.
 ```
 
-### 1. The video prompt is filled in. Settings: Seedance 2.0 Mini, 14 s, 720p, 9:16, sound off. The video prompt — Pet
+### 1. The video prompt is filled in. Settings: Seedance 2.5, 14 s, 720p, 9:16, sound off. The video prompt — Pet
 
 ```text
-[Video 1] is a motion guide only. Copy its camera moves, timing and dance moves, the sunny city sidewalk with tall palm trees, the bus stop with a bench and a glass shelter, the red curb, the bus that drives past, the traffic and the green hills in the distance, filmed with a handheld phone camera. Do NOT copy the dog in [Video 1]: not its tan fur, face, ears or black collar. Replace it completely. The dancer is the pet in [Image 1], standing upright on its hind legs like a person the whole time. Keep the face, fur colors, markings, ears and body from [Image 1] in every shot, with no collar unless [Image 1] shows one. The pet waits at the bus stop while the bus drives past, then turns to the camera and dances on the beat: low squats with the front paws at the chest, side steps, a hip sway, a front paw waved in the air and a little hop, then it stands tall and looks down the street. Photorealistic, like a real phone video on a sunny day. One continuous shot. No text, no letters, no signs with words, no logos, no watermark, no extra animals.
+Recreate the reference video [Video 1] shot for shot: the same sunny city sidewalk with tall palm trees, the same bus stop with a bench and a glass shelter, the red curb, the bus that drives past, the traffic, the people walking by and the green hills in the distance, the same handheld phone camera, the same framing, timing and dance moves. The ONLY change: the dog with the black collar who stands upright and dances at the bus stop is now the pet in [Image 1].
+
+The dancer = the pet in [Image 1], whole body, in every frame: the same species and breed, head shape, muzzle, eyes, eye color, ears, fur colors, fur length, markings and body shape as in [Image 1], with the natural body volume and proportions of that animal: never flattened, squashed, stretched or merged with anything, so its owner instantly recognizes it, also side-on at the start. It stands upright on its hind legs like a person the whole time. Never drift back to the dog of the original video: not the coat, the face or the ears of the dog in the video, and no black collar unless [Image 1] shows one. If [Image 1] shows a cat or another animal, that animal dances in the same place with the same moves, with its own ears, muzzle and tail.
+
+The dance, one continuous take, matching the reference second by second, on the beat:
+[0-3 s]: stands upright side-on at the bus stop and looks down the street while the bus drives past.
+[3-6 s]: turns to the camera, low squats with the front paws at the chest.
+[6-10 s]: side steps, a hip sway, a front paw waved in the air.
+[10-14 s]: a little hop, then stands tall and looks down the street.
+
+Anatomy rules: one head only, one tail. Two hind legs on the ground and two front legs, no extra legs or paws, no human hands. No text, no letters, no signs with words, no logos, no watermark, no extra animals. No dialogue throughout the entire video. No background music.
 ```
 
 ---
@@ -24712,7 +25495,7 @@ Anatomy rules: one head only, on the dancer's shoulders. Two arms and two hands,
 Use the uploaded image as the base. Keep the animal's species, breed, face, eye color, fur color, fur length, markings and body size exactly the same as in the photo. A real phone photo of the same pet at home, taken by its owner standing over it and looking down at it. Keep the same real room from the photo, with the same colors and light, and show the floor around the pet. The pet sits upright on its hind legs in the middle of the floor, like a pet begging for a treat, and looks straight up into the camera with a calm face and a closed mouth. Instead of front paws it has two small human hands: real human hands with five fingers and short nails, about the size of a child's hands, with skin the same color as the fur around them. It holds them together in front of its chest, palms touching, as if it is about to clap. The whole pet is in frame from ears to hind feet, with floor all around it. Soft indoor daylight, natural fur detail, a little phone-camera softness. Photorealistic, not a cartoon, not CGI. Vertical 9:16. Exactly one animal and exactly two hands. No extra paws, no people, no clothes, no camera app interface, no text, no logos.
 ```
 
-### 3. Press the film button on the still to open AI Video with the still as the first frame. Settings: Kling 3.0, 6 s, 1080p, 9:16, sound on. The video prompt
+### 3. Press the film button on the still to open AI Video with the still as the first frame. Settings: Seedance 2.5, 6 s, 720p, 9:16, sound on. The video prompt
 
 ```text
 A real, funny home video filmed on a phone in one continuous shot, from above, by the owner looking down at the pet. Keep the animal's face, fur, markings and its two small human hands exactly as in the image. For the first second the pet sits upright and looks up into the lens with a calm face. Then its mouth slowly stretches into a wide, creepy human grin that shows a full row of straight white human teeth, and its eyes narrow a little. Still grinning and staring into the lens, it claps its human hands slowly and firmly four times, with a short pause between the claps, like a sarcastic slow clap, then holds its hands together and keeps grinning. It stays upright in the same spot: only its face, arms and hands move. The camera stays almost still, with a slight handheld sway. Audio: four slow, loud, real hand claps in a quiet room, and nothing else: no music, no voice, no meow. Exactly one animal and exactly two hands with five fingers each. No extra paws, no extra limbs, no morphing, no cuts, no text, no logos.
@@ -24843,10 +25626,22 @@ Anatomy rules: one head per pet, on its own body. Real furry paws, no human hand
 - Updated: 2026-10-15 · Published: 2026-10-10
 - Local: [`makeviral/burning-bridges-ai-trend/PROMPTS.md`](makeviral/burning-bridges-ai-trend/PROMPTS.md)
 
-### 1. The video prompt is filled in. Settings: Seedance 2.0 Mini, 15 s, 720p, 9:16, sound off. The video prompt — Human
+### 1. The video prompt is filled in. Settings: Seedance 2.5, 15 s, 720p, 9:16, sound off. The video prompt — Human
 
 ```text
-[Video 1] is a motion guide only. Copy its camera moves, timing and actions, the handheld phone camera, and the warm dinner party room with crystal chandeliers, dark curtains, long tables with white tablecloths and red cups. Do NOT copy the people in [Video 1]: not their faces, hair, glasses, skin tone or clothes. Replace all of them. The one in front of the camera the whole time, who raps along with a silver metal cup in one hand, points at the camera and at the friends, then puts one hand flat over the eyes like a visor and looks around the room, is the one in [Image 1]. Keep the face, hair, skin tone, body and outfit from [Image 1] in every shot, with no glasses unless [Image 1] shows glasses and no plaid shirt unless [Image 1] shows one. Keep any moustache or beard exactly as in [Image 1], and add none when [Image 1] shows none. Keep the face shape, jaw, nose and age of [Image 1]: never a younger, slimmer or smoother face. The party guests around them are new people, not the ones in [Video 1]: young adults in casual clothes who cheer, point back and copy the hand-over-the-eyes move. Photorealistic, like a real phone video at a party at night, in warm light. One continuous shot. No text, no subtitles, no logos, no watermark, no extra limbs.
+Recreate the reference video [Video 1] shot for shot: the same dinner party at night in a room with crystal chandeliers, dark curtains, long tables with white tablecloths and red cups, the same friends around with their own faces, the same handheld phone camera in one continuous take, the same framing, timing and moves. The rapper's mouth moves with the words exactly like in the video. The ONLY change: the young man in the black-and-white plaid shirt over a black T-shirt, with glasses, who raps to the camera with the silver metal cup is now the person in [Image 1]. [Image 1] is the sole reference for the rapper; [Video 1] is for the moves, the mouth, the guests and the camera only.
+
+The rapper = the person in [Image 1], in every frame: copy the exact face from [Image 1] - face shape, eye color and eye shape, eyebrows, nose, mouth, skin tone, age, hair color, hair length and hairstyle, and any beard, moustache, glasses or freckles exactly as in the photo. The same real person in every frame, from the first second to the last, so their friends instantly recognize them, also when a hand covers the eyes and when the face comes close to the lens. Never morph, never drift back to the original man's face, never add or remove facial hair. NO glasses unless [Image 1] shows glasses. The rapper has the body and the clothes of the person in [Image 1], never the plaid shirt of the original man; if [Image 1] shows only the head or the upper body, invent the rest so it matches naturally. They copy the rapping mouth, the face and the hand moves of the man in the video, not the smile in [Image 1].
+
+The moves, matching the reference second by second:
+0-4 s: raps along to the camera, the silver cup in one hand, the other hand on the chest, then pointing at the camera.
+4-8 s: turns to the friends, who cheer, point back and raise their red cups.
+8-9 s: points a finger close to the lens.
+9-15 s: puts one hand flat over the eyes like a visor and looks around the room; the friends copy the move.
+
+Only replace the rapper; the guests, the room, the moves and the camera stay completely unchanged. Keep everything else the same.
+
+Anatomy rules: one head only, on the rapper's shoulders. Two arms and two hands. The other guests keep their own faces in every frame and never get the face of [Image 1]. No text, no logos, no watermark. No dialogue throughout the entire video. No background music.
 ```
 
 ### 1. The video prompt is filled in. Settings: Seedance 2.5, 15 s, 720p, 9:16, sound off. The video prompt
@@ -24865,10 +25660,22 @@ The moves, matching the reference second by second:
 Anatomy rules: one head only, on the dancer's shoulders. Two arms and two hands. The other guests keep their own faces in every frame, also when they crowd around at the end, and never get the face of [Image 1]. No text, no logos, no watermark.
 ```
 
-### 1. The video prompt is filled in. Settings: Seedance 2.0 Mini, 15 s, 720p, 9:16, sound off. The video prompt — Pet
+### 1. The video prompt is filled in. Settings: Seedance 2.5, 15 s, 720p, 9:16, sound off. The video prompt — Pet
 
 ```text
-[Video 1] is a motion guide only. Copy its camera moves, timing and actions, the handheld phone camera, and the warm dinner party room with crystal chandeliers, dark curtains, long tables with white tablecloths and red cups. Do NOT copy the people in [Video 1]: not their faces, hair, glasses, skin tone or clothes. Replace all of them. The one in front of the camera the whole time, who raps along with a silver metal cup in one hand, points at the camera and at the friends, then puts one hand flat over the eyes like a visor and looks around the room, is the pet in [Image 1], standing upright on its hind legs like a person, holding the cup in one front paw and putting the other paw over its eyes. Keep the face, fur colors, markings and ears from [Image 1] in every shot. No glasses, no plaid shirt, no human face. The party guests around them are new people, not the ones in [Video 1]: young adults in casual clothes who cheer, point back and copy the hand-over-the-eyes move. Photorealistic, like a real phone video at a party at night, in warm light. One continuous shot. No text, no subtitles, no logos, no watermark, no extra limbs.
+Recreate the reference video [Video 1] shot for shot: the same dinner party at night in a room with crystal chandeliers, dark curtains, long tables with white tablecloths and red cups, the same friends around with their own faces, the same handheld phone camera in one continuous take, the same framing, timing and moves. The ONLY change: the young man in the black-and-white plaid shirt and glasses who raps to the camera with the silver metal cup is now the pet in [Image 1]. [Image 1] is the sole look reference for the pet; [Video 1] is for the moves, the guests and the camera only.
+
+The rapper = the pet in [Image 1], whole body, in every frame: the same species and breed, head shape, muzzle, eyes, ears, fur colors, fur length and markings as in [Image 1], with the natural body volume and proportions of that animal: never flattened, squashed, stretched or merged with anything, so its owner instantly recognizes it. It stands upright on its hind legs like a person the whole time, holds the silver cup in one front paw, points with the other paw and at the end puts a paw over its eyes. A dog stays a dog and a cat stays a cat. No glasses, no plaid shirt, no clothes, no human face, no human hands.
+
+The moves, matching the reference second by second:
+0-4 s: bobs to the beat with the silver cup, a front paw on the chest, then pointing at the camera.
+4-8 s: turns to the friends, who cheer, point back and raise their red cups.
+8-9 s: points a front paw close to the lens.
+9-15 s: puts one front paw over its eyes like a visor and looks around the room; the friends copy the move.
+
+Only replace the young man; the guests, the room, the moves and the camera stay completely unchanged. Keep everything else the same.
+
+Anatomy rules: one head only. Two hind legs and two front legs, no extra legs or paws. The guests are people and keep their own faces. No text, no logos, no watermark, no extra animals. No dialogue throughout the entire video. No background music.
 ```
 
 ---
@@ -25003,7 +25810,7 @@ Use the two uploaded images as the base. The person in the first image is on the
 Use the uploaded image as the base. Keep the person's body, body shape, skin tone, hands and outfit exactly the same as in the photo: the same clothes, colors, fabrics, shoes and accessories. Replace only the head with a large, real carved pumpkin worn over the head, as in a real pumpkin head photoshoot: a big, round, ribbed orange jack-o'-lantern, clearly bigger than a human head, with a short curved green stem on top. Its bottom sits right on the shoulders and the collar, with a soft natural shadow where it meets the clothes, so it clearly looks worn and not floating, and no neck shows. The carved face has two triangle eyes, a triangle nose and a wide grin with a few square teeth. A warm candle glow shines from inside through the carved holes, and inside the holes there is only that glow, never skin or a face. If the person has long hair, a little of it falls from under the pumpkin onto the shoulders. The person stands still in the middle of a narrow dirt path through a wide, open field of tall, dry, golden grass, arms relaxed at the sides, facing the camera, a few steps away, so the whole body is small enough to walk toward the camera. It is dusk: a deep blue sky with a last band of orange light on the horizon, a few bare trees far away and a thin mist low over the grass. Soft, dim light still shows the outfit clearly. Full body from the top of the pumpkin to the shoes, with open path in front of the person. Camera at chest height, 35mm lens, shot on film: soft natural film grain, muted warm and teal colors, gentle contrast. Photorealistic, a real photo, not CGI. Vertical 9:16. Exactly one person, five fingers on each hand. No human face, no text, no logos.
 ```
 
-### 3. Press the film button on the still to open AI Video with the still as the first frame. Settings: Seedance 2.0 Mini, 5 s, 720p, 9:16, sound on. The video prompt
+### 3. Press the film button on the still to open AI Video with the still as the first frame. Settings: Seedance 2.5, 5 s, 720p, 9:16, sound on. The video prompt
 
 ```text
 A slow, eerie, cinematic shot on a dirt path through an open field at dusk, filmed on 35mm film. Keep the person's outfit, body and the carved pumpkin head exactly as in the image. The person walks slowly and calmly along the path straight toward the camera, arms swinging a little, the tall dry grass brushing past on both sides. The candle glow inside the pumpkin flickers through the carved eyes and grin. Near the end the person stops close to the camera and slowly tilts the pumpkin head to one side, looking into the lens. The head stays one solid carved pumpkin the whole time and never becomes a human head. A thin mist drifts low over the field. The camera stays still at chest height. One continuous shot, no cuts. Audio: soft footsteps on the dry path, evening wind, crickets, then an original low, eerie music-box melody. No dialogue, no text, no logos.
@@ -25056,10 +25863,21 @@ A slow, tender, cinematic scene on a misty moor in a strong wind, filmed like a 
 - Updated: 2026-10-13 · Published: 2026-10-08
 - Local: [`makeviral/knight-standing-ai-video/PROMPTS.md`](makeviral/knight-standing-ai-video/PROMPTS.md)
 
-### 1. The video prompt is filled in. Settings: Seedance 2.0 Mini, 10 s, 720p, 9:16, sound on. The video prompt
+### 1. The video prompt is filled in. Settings: Seedance 2.5, 10 s, 720p, 9:16, sound off. The video prompt
 
 ```text
-[Video 1] is a motion guide only. Copy its camera moves, timing and actions, the foggy green field and the soft grey lightWhen the camera pulls back, the huge figure who stands next to the tiny knight and holds a giant sword upright in front of the chest is the one in [Image 2]: very tall and very muscular, in a tight grey t-shirt and black trousers, staring calmly ahead. Keep the face, hair and skin tone from [Image 2] in every shot, with no mask and no helmet: the face stays visible. Photorealistic, like a real film. One continuous shot. Sound: strong wind and an original epic orchestral score, no lyrics, no dialogue. No text, no subtitles, no logos, no extra people or animals.
+Recreate the reference video [Video 1] shot for shot: the same foggy green field in the wind, the same soft grey light, the same wide frame, the same big close-up at the start, the same slow pull-back of the camera to the wide shot, the same timing. The ONLY change: [Image 1] replaces the kitten knight with the pink bow, and [Image 2] replaces the man in the black balaclava. Both change: no one from the video stays, also in the wide shot.
+
+The tiny knight = the one in [Image 1], in EVERY shot. If [Image 1] shows an animal: the same species and breed, face, eyes, ears, muzzle, fur colors, fur length and markings as in [Image 1], with the natural body volume and proportions of that animal: never flattened, squashed or stretched. If [Image 1] shows a person: the exact face from [Image 1] (the face shape, eye color and eye shape, eyebrows, nose, mouth, skin tone, age, hair color, hair length and hairstyle, and any beard, moustache, glasses or freckles), tiny next to the big one. The tiny knight wears small silver plate armor and a short cream cape and holds the long sword upright in front of the chest, as in [Video 1]. NO pink bow and no hair clip. Never drift back to the kitten of [Video 1]: no kitten face, no cat ears and no fur unless [Image 1] shows a cat.
+
+The big one = the person in [Image 2], in EVERY shot: copy the exact face from [Image 2] (the face shape, eye color and eye shape, eyebrows, nose, mouth, skin tone, age, hair color, hair length and hairstyle, and any beard, moustache, glasses or freckles), so their friends recognize them at once. NO balaclava, NO mask and NO helmet: the whole face is visible, with the hair of [Image 2], and the hair never falls over the face. Very tall and very muscular, in a plain tight grey t-shirt with no print and black trousers, holding a giant sword upright in front of the chest and staring calmly ahead. If [Image 2] shows an animal, the big one is that animal, huge and standing upright, with its own face, fur and markings. Never morph, never drift back to the masked man of [Video 1].
+
+Shots, matching [Video 1]:
+0-3 s: big close-up of the tiny knight with the sword, the face clearly the one from [Image 1].
+3-5 s: the camera pulls back, and the big one's legs in black trousers step in beside the tiny knight.
+5-10 s: wide shot: the big one stands next to the tiny knight with the giant sword upright, the face from [Image 2] in full view.
+
+Anatomy rules: one head each, on its own body. Two different people: never blend the faces. Exactly two figures, no extra people or animals. No text, no logos, no watermark.
 ```
 
 ### 1. The video prompt is filled in. Settings: Seedance 2.5, 15 s, 720p, 9:16, sound off. The video prompt
@@ -25278,7 +26096,7 @@ No shot is fired. No blood, no gore. No text, no watermark. No dialogue througho
 Use the two uploaded images as the base. The person in the first image is the survivor. The animal in the second image is their pet, now a zombie. Keep the person's face, facial features, hair and body shape exactly the same as in their photo. Keep the animal's breed, size, face shape, fur color, ear shape and markings exactly the same as in its photo, so it is clearly the same pet. Do not blend the person and the animal. A still from a real zombie apocalypse film, inside a dim, abandoned farmhouse kitchen in daytime: dusty floor, an overturned chair, peeling walls, cold blue-grey daylight through dirty windows, floating dust. On the left, in the foreground, the survivor stands in three-quarter view facing right, in a dusty, worn version of their own outfit, and holds a wooden baseball bat raised in both shaking hands. The survivor's eyes are wet and red, one tear runs down one cheek, the lips are pressed together: they cannot do it. The survivor's face is clearly their own, not twisted by crying. On the right, a few steps away in the open doorway, the pet stands on all four legs facing the survivor: the same animal, now a zombie, with dull, matted, patchy fur, grey skin showing through, clouded milky-white eyes and a low, sad stance. Its face is still clearly the same pet. The survivor is shown from the knees up, the pet is shown whole, both faces clear and in focus. Muted teal and grey color grade, natural film grain, shallow depth of field, photorealistic, not CGI. Vertical 9:16. Exactly one person and one animal, no blood, no gore, no text, no logos.
 ```
 
-### 3. Press the film button on the still to open AI Video with the still as the first frame. Settings: Seedance 2.0 Mini, 10 s, 720p, 9:16, sound on. The video prompt
+### 3. Press the film button on the still to open AI Video with the still as the first frame. Settings: Seedance 2.5, 10 s, 720p, 9:16, sound on. The video prompt
 
 ```text
 A cinematic, emotional scene from a zombie apocalypse film, in two shots. Keep the person's face, hair and clothes and the pet's breed, fur color and face exactly as in the image. Shot 1: in the dim abandoned kitchen, the survivor holds the baseball bat raised with shaking hands, with tears in the eyes. The zombie pet in the doorway stops, tilts its head and looks at the survivor as if it remembers them, and its tail moves once. The survivor slowly lowers the bat, lets it drop to the floor, kneels down and opens their arms. The pet limps forward into their arms, and the survivor hugs it tightly with quiet tears, eyes open, the face still visible to the camera. Shot 2, a hard cut for the last seconds: a sunny green backyard at golden hour, the same person and the same pet, healthy again with clean, shiny fur; the pet runs into the person's arms, wags its tail and licks their face while the person laughs. Audio: an original slow, sad piano melody with soft strings and quiet breathing that turns warm and hopeful at the cut. No dialogue, no lyrics, no blood, no gore, no text, no logos.
@@ -25398,7 +26216,7 @@ Use the two uploaded images as the base. The person is from the first image and 
 Use the uploaded image as the base. Keep the animal's species, breed, face, eye color, fur color, fur length, markings and body size exactly the same as in the photo. Dress the pet in a cute, well-fitted Halloween pet costume: a soft, round orange pumpkin costume around its body with a little green stem and leaf cap between its ears. The head, face, ears and markings stay fully visible. The pet sits on a wooden porch step at dusk beside carved jack-o'-lanterns glowing warm orange and a few fallen autumn leaves, and looks at the camera with a sweet, curious face. Warm porch light. A real phone photo taken at the pet's eye level, shallow depth of field, natural fur detail. The whole pet is in frame. Vertical 9:16. Exactly one animal in a natural four-legged pose, no people. No camera app interface, no icons, no frames or overlays. No text, no logos.
 ```
 
-### 3. Press the film button on the still to open AI Video with the still as the first frame. Settings: Seedance 2.0 Mini, 6 s, 720p, 9:16, sound on. The video prompt
+### 3. Press the film button on the still to open AI Video with the still as the first frame. Settings: Seedance 2.5, 6 s, 720p, 9:16, sound on. The video prompt
 
 ```text
 A cute, real home video of the pet in its Halloween costume on a porch at dusk, filmed on a phone at the pet's eye level in one continuous shot. Keep the animal's face, fur, markings and costume exactly as in the image. The pet tilts its head at the camera and its tail wags, then it stands up, trots happily two steps toward the camera, sits down again proudly and gives one happy bark or a soft meow, whichever fits the animal. A few leaves drift past and the jack-o'-lanterns flicker. Natural, real animal motion; the costume stays on and moves with the body. Audio: a playful original pizzicato Halloween tune, paws on the wooden porch, rustling leaves and the one bark or meow. No people, no extra paws, no morphing, no text, no logos.
@@ -25437,7 +26255,7 @@ Use the two uploaded images as the base. The person in the first image stands on
 Use the uploaded image as the base. Keep the person's face, facial features, skin tone, hair, age, body shape and their own everyday clothes and shoes exactly the same as in the photo. Place the person full body, head to shoes, in the middle of a cozy Halloween house party at night, standing and facing the camera with a playful, excited smile: orange string lights, carved jack-o'-lanterns on a table, paper bats on the wall and a few friends blurred in the background. Leave some space around the person. A real phone photo with a soft flash, natural skin texture, slight grain. Vertical 9:16. Exactly one person in focus, still in their everyday clothes, no costume yet. No camera app interface, no icons, no frames or overlays. No text, no logos.
 ```
 
-### 3. Press the film button on the still to open AI Video with the still as the first frame. Settings: Seedance 2.0 Mini, 6 s, 720p, 9:16, sound on. The video prompt
+### 3. Press the film button on the still to open AI Video with the still as the first frame. Settings: Seedance 2.5, 6 s, 720p, 9:16, sound on. The video prompt
 
 ```text
 One continuous handheld phone shot at a Halloween house party at night, with no cuts. Keep the person's face, hair and body exactly as in the image for the whole clip. The person grins at the camera, snaps their fingers and does one quick full spin on the spot. During the spin, a swirl of orange sparks and soft smoke wraps around them and their everyday clothes change into a complete witch costume: a tall black pointed hat, a long black witch robe with lace sleeves, a short cape and black boots. They stop facing the camera in the full costume, strike a proud pose and laugh. Only the clothes change, the face stays the same. The friends in the blurred background cheer. Audio: party chatter, a magical whoosh and sparkle on the spin, friends cheering, and an original playful spooky tune. No text, no logos.
@@ -25476,7 +26294,7 @@ Use the uploaded image as the base. Keep the animal's breed, size, body shape, f
 Use the uploaded image as the base. Keep the person's face, facial features, skin tone, hair, body shape and outfit exactly the same as in the photo. The person stands in the middle of a path covered in orange and yellow fallen leaves in an autumn park, tall trees in fall colors behind, golden afternoon light. They hold a plain white cotton bedsheet over their head like a hood with both hands: the sheet hangs down their back and sides to the knees, the front edge is held up above the forehead, and the whole face and hair fringe are clearly visible. They smile playfully at the camera, about to pull the sheet down over their face for the ghost photoshoot. A pair of round black sunglasses hangs from the neckline of their top. Full body from head to shoes, camera at chest height. Soft 35mm film photo, warm muted colors, natural grain, a real photo. Vertical 9:16. Exactly one person, no text, no logos.
 ```
 
-### 3. Press the film button on the still to open AI Video with the still as the first frame. Settings: Seedance 2.0 Mini, 6 s, 720p, 9:16, sound on. The video prompt
+### 3. Press the film button on the still to open AI Video with the still as the first frame. Settings: Seedance 2.5, 6 s, 720p, 9:16, sound on. The video prompt
 
 ```text
 A playful autumn clip for the ghost photoshoot trend, one continuous shot. Keep the person's face, hair, outfit and shoes exactly as in the image. The person smiles at the camera, then pulls the white bedsheet down over their face so it covers the head and body like a classic cartoon ghost, falling to just above the knees. They take the round black sunglasses and set them on the sheet where the eyes are. Then the little ghost strikes a cute pose, tilts its head and gives a small wave to the camera. Orange leaves drift down and blow across the path. The camera stays still at chest height with a slight handheld sway. Audio: soft rustling leaves, a light breeze and an original playful acoustic guitar tune. No dialogue, no lyrics, no text, no logos.

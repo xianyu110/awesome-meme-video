@@ -90,7 +90,7 @@ One-tap version of this variant: https://www.makeviral.ai/templates/hotline-blin
 
 #### Variant: Pet
 
-Settings: 1 photo (your pet, whole body) · Kling 3.0 · 10 s · 1080p · 9:16 · with sound · 56 credits in one tap.
+Settings: 1 photo (your pet, whole body) · Seedance 2.5 · 10 s · 720p · 9:16 · with sound · 128 credits in one tap.
 
 1. Open [AI Photo with this template](https://www.makeviral.ai/photo?template=hotline-bling-ai-trend&variant=pet) and add your photo (your pet, whole body). The photo prompt is filled in:
 
@@ -99,7 +99,7 @@ Settings: 1 photo (your pet, whole body) · Kling 3.0 · 10 s · 1080p · 9:16 �
    ```
 
 2. Check the still before you spend credits on the video. Everything the video model does starts from that one frame.
-3. Press the film button on the still to open AI Video with the still as the first frame. Settings: Kling 3.0, 10 s, 1080p, 9:16, sound on. The video prompt:
+3. Press the film button on the still to open AI Video with the still as the first frame. Settings: Seedance 2.5, 10 s, 720p, 9:16, sound on. The video prompt:
 
    ```text
    One continuous shot with no cuts, a fixed camera at the pet's chest height that slowly pushes in. Keep the animal's face, fur, markings, tail, size and the small red jacket, and the empty glowing box room, exactly as in the image. The light of the whole room changes color smoothly; the walls stay empty.
@@ -150,7 +150,7 @@ These are the Hotline Bling dance moves people know from the meme, played by you
 
 **Human** is made straight from your photo with the best AI video models available, with no in-between picture, so your face stays yours. Vertical 9:16, 720p.
 
-**Pet** first makes a picture of your pet standing upright in the golden room in a small red jacket, then turns it into the dance. Standard is the cheaper choice; Best uses a stronger model and keeps the upright dance and one smooth take more often.
+**Pet** first makes a picture of your pet standing upright in the golden room in a small red jacket, then turns it into the dance with a strong video model that keeps the upright dance in one smooth take. Vertical 9:16, 720p.
 
 Press "Create your own" and pick Human or Pet; the exact price shows on the Generate button before you spend anything. Every run is a new take, so results differ.
 
@@ -182,7 +182,7 @@ Want more dances in the same style? Try the [Toosie Slide AI](https://www.makevi
 | A real phone shows up in the hand | The phone is only a gesture. Run it again. |
 | The room gets a door, stairs or a second dancer | The prompt bans them, but it can happen. Run it again. |
 | The jacket gets a logo | The prompt asks for a plain jacket. Run it again. |
-| Your pet drops onto four legs or loses the jacket (Pet) | Pick Best, or use a photo where the whole pet is sharp and in view. |
+| Your pet drops onto four legs or loses the jacket (Pet) | Run it again, or use a photo where the whole pet is sharp and in view. |
 | The video model refuses the photo | Some photos get refused. The credits come back; try another photo. |
 
 ## Hotline Bling Dance trend questions
@@ -225,7 +225,7 @@ No. The AI plays the whole dance from your photo, so you never film yourself. If
 
 ### Which AI models make the Hotline Bling AI video?
 
-Top-quality AI video models, including Seedance 2.5, make it. Human goes straight from your photo to the video. Pet first makes a picture of your pet in the room, then turns it into the video; Best uses a stronger model for a smoother dance. Like any Drake AI video maker, it can get a detail wrong, so a second run comes out different.
+Top-quality AI video models, including Seedance 2.5, make it. Human goes straight from your photo to the video. Pet first makes a picture of your pet in the room, then turns it into the video with a strong model for a smooth dance. Like any Drake AI video maker, it can get a detail wrong, so a second run comes out different.
 
 ### Is there an example video?
 
@@ -233,7 +233,7 @@ Not yet. We do not show the music video or AI clips with famous faces, so the ex
 
 ### How long is the video and what format is it?
 
-Human makes 10 seconds, or 15 with the longer option, vertical 9:16 at 720p. Pet makes 10 seconds, vertical 9:16. All are MP4 files with an original beat and no watermark, ready for TikTok, Reels and Shorts.
+Human makes 10 seconds, or 15 with the longer option, vertical 9:16 at 720p. Pet makes 10 seconds, vertical 9:16 at 720p. All are MP4 files with an original beat and no watermark, ready for TikTok, Reels and Shorts.
 
 ## Other AI video templates and tools
 
@@ -247,12 +247,12 @@ Human makes 10 seconds, or 15 with the longer option, vertical 9:16 at 720p. Pet
 
 ## New AI video trends this week
 
-- [Tiger Fight AI: Beat the Tiger on CCTV](https://www.makeviral.ai/templates/cctv-tiger-fight-ai-trend): A security camera on a forest path. A tiger leaps out of the bushes, and you fight it and pin it to the ground. Add one photo of yourself or your pet, and the trend's phonk sound comes with it.
-- [The Office Parkour AI Trend: You Shout "Parkour!" in the Office](https://www.makeviral.ai/templates/the-office-parkour-ai-trend): Dive over the couch, land upside down and shout "Parkour!" into the camera, then jump off the reception counter while the crew leaps over the desks. The whole office parkour scene, 24 seconds, with its own shouts.
-- [Huell Money AI: The Breaking Bad Money Pile Scene, Starring You](https://www.makeviral.ai/templates/huell-money-ai-trend): A storage unit, a bed-size pile of cash, and you fall back onto it with your eyes closed while your friend tells you to quit it. Then they give in and lie down next to you. With the scene's own lines.
-- [Peaky Blinders Explosion Scene, Starring You](https://www.makeviral.ai/templates/peaky-blinders-explosion-ai-trend): A flat cap, a long black overcoat, a match at your lips. The red-brick manor blows up behind you and you walk slowly toward the camera through the smoke, never looking back. One photo, 15 seconds, with the clip's song.
-- [Mbappe Run vs Argentina AI: The Mbappe Sprint, Starring You](https://www.makeviral.ai/templates/mbappe-sprint-ai-trend): A sunny pitch, one long sprint with the ball, a defender in a striped shirt crashing into you, and you sitting on the grass complaining while the commentator shouts "It's a penalty!". In your own clothes. It is an AI video, not real match footage.
-- [Perfume Transition AI Trend: Spray, Flame, Gangster Look](https://www.makeviral.ai/templates/perfume-transition-ai-trend): Sniff the perfume, spray it at the camera, and a lighter turns the spray into a fireball. Add one photo, and you or your pet step out of the flame in a flat cap, dark sunglasses and a long magenta coat, with the trend's song.
+- [Kara Sevda AI Trend: Your AI Video with Celebrity Stars Kemal and Emir](https://www.makeviral.ai/templates/ai-video-with-celebrity): You film a night selfie, the camera swings to the Kemal look-alike in his navy suit, face to face with you, and the Emir look-alike walks in and rests his head on his shoulder, jealous. One photo is enough. It is an AI video with look-alikes, not a real meeting.
+- [Misanthropy Meme AI: You as the Horned Anime Side-Eye](https://www.makeviral.ai/templates/misanthropy-meme-ai-trend): Your photo becomes a hand-drawn anime character with small horns. It glances left and right on a gray screen, then the background floods red and it breaks into a slow, smug grin, twice, to the trend's laughing beat. One photo in, an 8-second vertical clip out.
+- [Ahh Almost Almost: Train Hard, Miss by an Inch, From One Photo](https://www.makeviral.ai/templates/almost-almost-ai-trend): "While they're out partying btw": you grind alone late at night. Then the big shot rolls around the rim and out, twice, as the sound groans "ahhh almost almost". One photo in, an 11-second clip with the trend's own sound out.
+- [If I Was ChatGPT Trend: Your Observe, Just Observe Mood Board](https://www.makeviral.ai/templates/if-i-was-chatgpt-trend): Add one photo. The AI looks at it, picks the city, season, flower, painting, animal and element that fit you, and puts them around your photo in one mood board with short labels.
+- [Davul Zurna Yapay Zeka: Dance and Sing in the Viral Warehouse Clip](https://www.makeviral.ai/templates/davul-zurna-ai-trend): You dance between a zurna player and a davul player in a big workshop, walk up to the camera, sing right into it and walk back with your arms up. One photo, three for the whole band, or your pet. 15 seconds, with the live davul and zurna.
+- [Come On Barbie Let's Go Party AI: Do the Barbie Girl Dance Trend From Two Photos](https://www.makeviral.ai/templates/barbie-girl-dance-ai-trend): You turn around, sway your hips, pump a fist on "ah ah ah yeah" and lean on each other, side by side, on the sped-up Barbie Girl beat. Add two photos and get a real couple's viral reel with your faces and the song.
 
 ## Make your own Hotline Bling Dance video
 

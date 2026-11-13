@@ -36,11 +36,24 @@ The moments, matching the reference second by second:
 Anatomy rules: one head only. Four legs, no extra legs or paws, no human arms. The backup dancers keep their own faces. No text, no logos, no watermark, no extra animals, no cuts.
 ```
 
-### 2. 1. The video prompt is filled in. Settings: Seedance 2.0 Mini, 15 s, 720p, 9:16, sound off. The video prompt (Human)
+### 2. 1. The video prompt is filled in. Settings: Seedance 2.5, 15 s, 720p, 9:16, sound off. The video prompt (Human)
 
 *Kind: video_prompt*
 
 ```text
-[Video 1] is a motion guide only. Copy its camera, timing and choreography, the dark dance studio with a pale floor, the low camera angle and the continuous shot. Do NOT copy the people in [Video 1]: not their faces, hair, skin tone or clothes. Replace all of them. The lead dancer in the center foreground is the one in [Image 1]. Keep the face, hair, skin tone, body and clothes from [Image 1] in every shot, also in the hair tosses, with no gray crop top and no wide plaid pants unless [Image 1] shows them. Follow the reference dancer's head dip, upward lift, hip sways, hand on the hip, hand turns by the face and head tosses at the same moments. The two backup dancers behind on the left and the right are new young women in casual dance clothes, not the ones in [Video 1], who do the same choreography in the same positions. Photorealistic, like a real phone video in a dance studio. One continuous shot. No text, no subtitles, no logos, no extra people, no cuts.
+Recreate the reference video [Video 1] shot for shot: the same dark dance studio with a pale floor, the same two backup dancers on the left and the right with their own faces, outfits, choreography and positions, the same low camera angle in one continuous take, the same timing and choreography. The ONLY change: the lead dancer in the center foreground with long dark hair, in the grey crop top and the wide brown plaid trousers, is now the person in [Image 1]. [Image 1] is the sole reference for the lead dancer; [Video 1] is for the dance, the backup dancers and the camera only.
+
+The lead dancer = the person in [Image 1], in every frame: copy the exact face from [Image 1] - face shape, eye color and eye shape, eyebrows, nose, mouth, skin tone, age, hair color, hair length and hairstyle, and any beard, moustache, glasses or freckles exactly as in the photo. The same real person in every frame, from the first second to the last, so their friends instantly recognize them, also in the hair tosses and when the head turns. Never morph, never drift back to the original dancer's face, never add or remove facial hair. The lead dancer has the body and the clothes of the person in [Image 1], never the grey crop top and the wide brown plaid trousers of the original dancer; if [Image 1] shows only the head or the upper body, invent the rest so it matches naturally.
+
+The choreography, matching the reference second by second:
+0-1 s: bent over, the head dips low.
+1-4 s: rises up, a hand on the hip, hip sways.
+4-7 s: a hand turns beside the face, a head toss.
+7-10 s: hip sways with one hand raised, a big head toss.
+10-15 s: hands to the head, side tilts, ends facing the camera.
+
+Only replace the lead dancer; the backup dancers, the studio, the moves and the camera stay completely unchanged. Keep everything else the same.
+
+Anatomy rules: one head only, on the lead dancer's shoulders. Two arms and two hands, no extra limbs. The backup dancers keep their own faces and never get the face of [Image 1]. No text, no logos, no watermark, no extra people, no cuts. No dialogue throughout the entire video. No background music.
 ```
 

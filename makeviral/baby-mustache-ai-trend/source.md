@@ -112,7 +112,7 @@ One-tap version of this variant: https://www.makeviral.ai/templates/baby-mustach
 
 #### Variant: Pet
 
-Settings: 1 photo (your pet, face clear) · Kling 3.0 · 10 s · 1080p · 9:16 · with sound · 56 credits in one tap.
+Settings: 1 photo (your pet, face clear) · Seedance 2.5 · 10 s · 720p · 9:16 · with sound · 128 credits in one tap.
 
 1. Open [AI Photo with this template](https://www.makeviral.ai/photo?template=baby-mustache-ai-trend&variant=pet) and add your photo (your pet, face clear). The photo prompt is filled in:
 
@@ -121,7 +121,7 @@ Settings: 1 photo (your pet, face clear) · Kling 3.0 · 10 s · 1080p · 9:16 �
    ```
 
 2. Check the still before you spend credits on the video. Everything the video model does starts from that one frame.
-3. Press the film button on the still to open AI Video with the still as the first frame. Settings: Kling 3.0, 10 s, 1080p, 9:16, sound on. The video prompt:
+3. Press the film button on the still to open AI Video with the still as the first frame. Settings: Seedance 2.5, 10 s, 720p, 9:16, sound on. The video prompt:
 
    ```text
    Keep the pet's face, fur, the mustache, the blanket and the place exactly as in the image. A real phone video, static camera, one continuous take, soft hospital light. 0-3 s: the pet blinks slowly, swaddled in the blanket. 3-6 s: it twitches the nose and the whiskers, and the thick mustache wiggles with the lip. 6-8 s: it yawns wide under the mustache. 8-10 s: it squints at the camera with a serious little frown. The mustache stays over the lip in every frame. The animal keeps its natural body volume and proportions, never stretched or merged with the blanket. Audio: soft animal sounds that fit the species and a quiet room, no music, no talking. Exactly one animal, no people, no hands, no morphing. No text, no logos, no watermark.
@@ -175,7 +175,7 @@ MakeViral makes it with the best AI video models available, straight from your p
 | **You as a baby** | Your face | You, reborn: a newborn with your eye color, eyebrows, skin tone and hair, and your own mustache or beard in baby size. Glasses become tiny glasses. Made for the "imagine your dad as a baby" joke. |
 | **Pet** | Your pet's face | Your cat or dog swaddled like a newborn on the hospital bed, with a thick mustache over the muzzle. It wiggles its whiskers, yawns and stares into the lens. |
 
-The **You as a baby** version is the one to send to the family chat: a dad with a big mustache gets a newborn with the same mustache. The **Pet** version has a quality choice: Standard, or Best for smoother fur and motion.
+The **You as a baby** version is the one to send to the family chat: a dad with a big mustache gets a newborn with the same mustache.
 
 ## Is the baby born with mustache real or fake?
 
@@ -193,7 +193,7 @@ Your video is AI-made too. Keep the AI label on when you post it, so nobody take
 | The mustache is thin or flickers | Every run is a new take. The prompt asks for a thick mustache that stays on the lip in every frame; run it again. |
 | A beard shows up on your baby | The prompt asks for a mustache only. Run it again. |
 | You as a baby looks like a stranger | A front-facing, well-lit photo of your face works best. The newborn keeps your colors and features, but a baby face is always softer than yours. |
-| Your pet loses the mustache or the blanket | Try the Best option, or a photo where the face fills more of the frame. |
+| Your pet loses the mustache or the blanket | Run it again, or use a photo where the face fills more of the frame. |
 | The model refuses the photo | Some photos get refused. The credits come back; try another photo. |
 
 ## Captions and hashtags for a baby mustache video
@@ -270,12 +270,12 @@ Yes. A baby girl born with mustache is half the joke, and a baby boy works the s
 
 ## New AI video trends this week
 
-- [Tiger Fight AI: Beat the Tiger on CCTV](https://www.makeviral.ai/templates/cctv-tiger-fight-ai-trend): A security camera on a forest path. A tiger leaps out of the bushes, and you fight it and pin it to the ground. Add one photo of yourself or your pet, and the trend's phonk sound comes with it.
-- [The Office Parkour AI Trend: You Shout "Parkour!" in the Office](https://www.makeviral.ai/templates/the-office-parkour-ai-trend): Dive over the couch, land upside down and shout "Parkour!" into the camera, then jump off the reception counter while the crew leaps over the desks. The whole office parkour scene, 24 seconds, with its own shouts.
-- [Huell Money AI: The Breaking Bad Money Pile Scene, Starring You](https://www.makeviral.ai/templates/huell-money-ai-trend): A storage unit, a bed-size pile of cash, and you fall back onto it with your eyes closed while your friend tells you to quit it. Then they give in and lie down next to you. With the scene's own lines.
-- [Peaky Blinders Explosion Scene, Starring You](https://www.makeviral.ai/templates/peaky-blinders-explosion-ai-trend): A flat cap, a long black overcoat, a match at your lips. The red-brick manor blows up behind you and you walk slowly toward the camera through the smoke, never looking back. One photo, 15 seconds, with the clip's song.
-- [Mbappe Run vs Argentina AI: The Mbappe Sprint, Starring You](https://www.makeviral.ai/templates/mbappe-sprint-ai-trend): A sunny pitch, one long sprint with the ball, a defender in a striped shirt crashing into you, and you sitting on the grass complaining while the commentator shouts "It's a penalty!". In your own clothes. It is an AI video, not real match footage.
-- [Perfume Transition AI Trend: Spray, Flame, Gangster Look](https://www.makeviral.ai/templates/perfume-transition-ai-trend): Sniff the perfume, spray it at the camera, and a lighter turns the spray into a fireball. Add one photo, and you or your pet step out of the flame in a flat cap, dark sunglasses and a long magenta coat, with the trend's song.
+- [Kara Sevda AI Trend: Your AI Video with Celebrity Stars Kemal and Emir](https://www.makeviral.ai/templates/ai-video-with-celebrity): You film a night selfie, the camera swings to the Kemal look-alike in his navy suit, face to face with you, and the Emir look-alike walks in and rests his head on his shoulder, jealous. One photo is enough. It is an AI video with look-alikes, not a real meeting.
+- [Misanthropy Meme AI: You as the Horned Anime Side-Eye](https://www.makeviral.ai/templates/misanthropy-meme-ai-trend): Your photo becomes a hand-drawn anime character with small horns. It glances left and right on a gray screen, then the background floods red and it breaks into a slow, smug grin, twice, to the trend's laughing beat. One photo in, an 8-second vertical clip out.
+- [Ahh Almost Almost: Train Hard, Miss by an Inch, From One Photo](https://www.makeviral.ai/templates/almost-almost-ai-trend): "While they're out partying btw": you grind alone late at night. Then the big shot rolls around the rim and out, twice, as the sound groans "ahhh almost almost". One photo in, an 11-second clip with the trend's own sound out.
+- [If I Was ChatGPT Trend: Your Observe, Just Observe Mood Board](https://www.makeviral.ai/templates/if-i-was-chatgpt-trend): Add one photo. The AI looks at it, picks the city, season, flower, painting, animal and element that fit you, and puts them around your photo in one mood board with short labels.
+- [Davul Zurna Yapay Zeka: Dance and Sing in the Viral Warehouse Clip](https://www.makeviral.ai/templates/davul-zurna-ai-trend): You dance between a zurna player and a davul player in a big workshop, walk up to the camera, sing right into it and walk back with your arms up. One photo, three for the whole band, or your pet. 15 seconds, with the live davul and zurna.
+- [Come On Barbie Let's Go Party AI: Do the Barbie Girl Dance Trend From Two Photos](https://www.makeviral.ai/templates/barbie-girl-dance-ai-trend): You turn around, sway your hips, pump a fist on "ah ah ah yeah" and lean on each other, side by side, on the sped-up Barbie Girl beat. Add two photos and get a real couple's viral reel with your faces and the song.
 
 ## Make your own Baby With Mustache video
 

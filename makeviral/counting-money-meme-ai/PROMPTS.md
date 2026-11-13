@@ -48,7 +48,7 @@ No other people, exactly one boss. Two hands with five fingers each, no extra li
 Use the uploaded image as the base. Keep the animal's species, breed, face, eye color, fur color, fur length, markings and body size exactly the same as in the photo. 9:16 vertical photo, like a real phone photo. The pet sits upright behind a big wooden desk piled with neat banded bundles of US dollar bills in a dark wood-paneled private office in warm lamp light: a big polished wooden desk in front, piled with neat rows of banded bundles of US dollar bills stacked high, a dark leather chair behind, and bookshelves and a window with blinds soft and out of focus in the back, dressed as a confident big boss in a small, sharp dark suit jacket with a white shirt collar and a dark tie, sized to its own body. It holds a thick banded stack of bills upright between its front paws at chest height and looks into the camera with a smug, satisfied face. Framed from the desk up, the pet's head big and sharp. Real animal paws, never human hands. The bills are soft and a little out of focus, with no readable writing. Exactly one animal, no people. No text, no logos, no watermark.
 ```
 
-### 3. 3. Press the film button on the still to open AI Video with the still as the first frame. Settings: Kling 3.0, 10 s, 1080p, 9:16, sound on. The video prompt
+### 3. 3. Press the film button on the still to open AI Video with the still as the first frame. Settings: Seedance 2.5, 10 s, 720p, 9:16, sound on. The video prompt
 
 *Kind: video_prompt*
 

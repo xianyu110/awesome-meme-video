@@ -43,7 +43,7 @@ Style: Ultra realistic mass celebrity entry scene. Single continuous shot. Handh
 Use the uploaded image as the base. use same face, same fur, same markings, same identity, realistic match of the animal. Keep the animal's species, breed, body size, fur colors and markings exactly as in the photo. Ultra realistic cinematic airport entrance scene, the pet from the image walking confidently in center on all four paws, wearing small black sunglasses, confident expression, celebrity attitude, multiple bodyguards on both sides wearing black suits, security formation, serious faces, walking with it, crowd of people around recording videos with phones, paparazzi, fans watching, busy airport exit gate, luxury glass building background, low camera at the pet's eye level so the pet is big in the frame, main subject in sharp focus, shallow depth of field, background slightly blurred, cinematic lighting, HDR, 8K ultra detailed, professional photography, dramatic entrance, slow walking pose, high status vibe, viral reel style, social media trending look. Vertical 9:16. Exactly one animal. No clothes on the pet, no text, no logos, no readable signs, no airline or airport names.
 ```
 
-### 4. 3. Press the film button on the still to open AI Video with the still as the first frame. Settings: Kling 3.0, 15 s, 1080p, 9:16, sound on. The video prompt
+### 4. 3. Press the film button on the still to open AI Video with the still as the first frame. Settings: Seedance 2.5, 15 s, 720p, 9:16, sound on. The video prompt
 
 *Kind: video_prompt*
 
@@ -75,7 +75,7 @@ Style: Ultra realistic celebrity hotel arrival scene at night. Single continuous
 Use the uploaded image as the base. use same face, same fur, same markings, same identity, realistic match of the animal. Keep the animal's species, breed, body size, fur colors and markings exactly as in the photo. Ultra realistic cinematic night arrival scene at the entrance of a grand five-star hotel, the pet from the image hopping out of the open rear door of a long black luxury car onto a red carpet on all four paws, wearing small black sunglasses, confident expression, celebrity attitude, two bodyguards in black suits beside the car, one holding the door open, serious faces, fans and photographers behind velvet ropes on both sides recording videos with phones, paparazzi, camera flashes, warm golden light from the hotel's glass doors, low camera at the pet's eye level so the pet is big in the frame, main subject in sharp focus, shallow depth of field, background slightly blurred, cinematic lighting, HDR, 8K ultra detailed, professional photography, dramatic entrance, high status vibe, viral reel style, social media trending look. Vertical 9:16. Exactly one animal. No clothes on the pet, no text, no logos, no readable signs, no hotel name, no car badges or emblems.
 ```
 
-### 8. 3. Press the film button on the still to open AI Video with the still as the first frame. Settings: Kling 3.0, 15 s, 1080p, 9:16, sound on. The video prompt
+### 8. 3. Press the film button on the still to open AI Video with the still as the first frame. Settings: Seedance 2.5, 15 s, 720p, 9:16, sound on. The video prompt
 
 *Kind: video_prompt*
 

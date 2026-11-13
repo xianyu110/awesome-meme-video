@@ -44,7 +44,7 @@ Avoid: singing, lyrics, a different outfit, wings before the reveal, missing win
 Use the uploaded image as the base. 9:16 vertical photo, like a real phone photo taken at night. The pet from the uploaded image sits on its four paws on the doorstep of an open front door at night, in a warm yellow porch light, facing the camera, its whole body in view from the ears to the paws, with its tail. Small white feathered angel wings, sized for the pet, lie folded against its back. A dark garden and a deep blue night sky behind. Realistic photo with natural colors. Exactly one animal and no people. No clothes on the pet except the wings. No text, no logos, no watermark.
 ```
 
-### 3. 3. Press the film button on the still to open AI Video with the still as the first frame. Settings: Kling 3.0, 10 s, 1080p, 9:16, sound on. The video prompt
+### 3. 3. Press the film button on the still to open AI Video with the still as the first frame. Settings: Seedance 2.5, 10 s, 720p, 9:16, sound on. The video prompt
 
 *Kind: video_prompt*
 
