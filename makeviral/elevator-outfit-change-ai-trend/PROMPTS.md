@@ -7,12 +7,16 @@ The elevator outfit change is the fit check where the elevator does the edit: yo
 
 ## Demo videos (CDN)
 
+- https://www.makeviral.ai/media/templates/elevator-outfit-change-ai-trend/example-ceiling-v1.mp4
+- https://www.makeviral.ai/media/templates/elevator-outfit-change-ai-trend/example-main-v1.mp4
 - https://www.makeviral.ai/media/templates/elevator-outfit-change-ai-trend/original-ceiling-v2.mp4
 - https://www.makeviral.ai/media/templates/elevator-outfit-change-ai-trend/original-main-v2.mp4
 - https://www.makeviral.ai/media/templates/elevator-outfit-change-ai-trend/original-men-v2.mp4
 
 ## Posters
 
+- https://www.makeviral.ai/media/templates/elevator-outfit-change-ai-trend/example-ceiling-v1.jpg
+- https://www.makeviral.ai/media/templates/elevator-outfit-change-ai-trend/example-main-v1.jpg
 - https://www.makeviral.ai/media/templates/elevator-outfit-change-ai-trend/original-ceiling-v1.jpg
 - https://www.makeviral.ai/media/templates/elevator-outfit-change-ai-trend/original-main-v1.jpg
 - https://www.makeviral.ai/media/templates/elevator-outfit-change-ai-trend/original-men-v1.jpg

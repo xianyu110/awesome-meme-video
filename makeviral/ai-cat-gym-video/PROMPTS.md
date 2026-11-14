@@ -1,0 +1,59 @@
+# AI Cat Gym Video: Put Your Pet on the Air Walker
+
+- Source: [makeviral](https://www.makeviral.ai/templates/ai-cat-gym-video)
+- Slug: `ai-cat-gym-video`
+
+The AI cat gym video is the viral clip of a cat on an outdoor air walker: its legs swing out of control on the pedals, and it slips off and tumbles to the ground.
+
+## Demo videos (CDN)
+
+- https://www.makeviral.ai/media/templates/ai-cat-gym-video/original-main-v2.mp4
+
+## Posters
+
+- https://www.makeviral.ai/media/templates/ai-cat-gym-video/original-main-v1.jpg
+
+## Prompts
+
+### 1. 1. The video prompt is filled in. Settings: Seedance 2.5, 10 s, 720p, 9:16, sound off. The video prompt
+
+*Kind: video_prompt*
+
+```text
+Edit [Video 1]: replace the cat on the exercise machine with the person from [Image 1]. Recreate [Video 1] exactly: an outdoor public fitness corner in a paved yard on an overcast day: a red metal air walker exercise machine with two yellow swinging leg arms and foot pedals, a low concrete wall, a brick wall and bare trees behind, filmed handheld from a few steps away in one continuous take. The same take, timing, camera moves, machine, yard and light. The ONLY change: the cat on the exercise machine is now the person in [Image 1], in the cat's place.
+
+Replace the cat in the video with the person from [Image 1]; keep that person's features and body proportions exactly as in [Image 1], true to their age, with the same timing and rhythm for every move. Keep the scene of [Video 1]; the camera, framing, background and props follow [Video 1].
+
+The person = the person in [Image 1], in EVERY frame: a HUMAN head with the exact face from [Image 1] (the face shape, eye color and eye shape, eyebrows, nose, mouth, skin tone, age, hair color, hair length and hairstyle, and any beard, moustache, glasses or freckles), with the hair and the clothes from [Image 1]; if [Image 1] shows only the upper body, invent the rest so it matches naturally. A grown person at full adult size on an adult-size outdoor air walker: hands on the top of the red frame, feet on the yellow pedals, the head above the frame. Never small, never child-sized: the machine keeps its own size. Never a cat: no cat head, no cat ears, no fur, no whiskers, no tail, no paws. The same real person from the first second to the last, so their friends instantly recognize them, also while they fall. Never morph, never drift back to the cat.
+
+[0-8.8s]: the person stands on the machine, both hands gripping the top of the red frame, feet on the yellow pedals; the pedal arms swing back and forth and their legs swing wide apart and together, out of control; they wobble, twist and hold on with a startled, comic face.
+[8.8-9.4s]: their feet slip off the pedals, they lose their grip and tumble down off the machine; the yellow arms keep swinging.
+[9.4-10.5s]: the camera tips down and to the right; the person lands on the paving at the foot of the machine, rolls and scrambles back up, unhurt; an adult in dark clothes walks in at the right edge, as in [Video 1].
+
+Only replace the cat; keep everything else the same.
+
+No dialogue throughout the entire video. No background music.
+Anatomy rules: one head only, on the person's own shoulders, two arms, two human hands with five fingers each, two legs. Exactly one person on the machine, no cat, no animals, no other people than the passer-by at the end. A soft comedy fall: no blood, no injury. No text, no logos, no watermark.
+```
+
+### 2. 1. The video prompt is filled in. Settings: Seedance 2.5, 10 s, 720p, 9:16, sound off. The video prompt (Pet)
+
+*Kind: video_prompt*
+
+```text
+Edit [Video 1]: replace the cat on the exercise machine with the pet from [Image 1]. Recreate [Video 1] exactly: an outdoor public fitness corner in a paved yard on an overcast day: a red metal air walker exercise machine with two yellow swinging leg arms and foot pedals, a low concrete wall, a brick wall and bare trees behind, filmed handheld from a few steps away in one continuous take. The same take, timing, camera moves, machine, yard and light. The ONLY change: the cat on the exercise machine is now the pet in [Image 1].
+
+Motion transfer and character replacement: the pet from [Image 1] replaces the cat on the exercise machine, with the same timing and rhythm for every move. Keep the scene of [Video 1]. Strictly keep the look of the pet from [Image 1] in every frame. Smooth moves and a solid landing, the same light; the camera, framing, background and props follow [Video 1].
+
+The pet = the pet in [Image 1], in EVERY frame: the same species and breed, face, eyes, ears, muzzle, fur colors, fur length and markings as in [Image 1], with the natural body volume and proportions of that animal: never flattened, squashed, stretched or merged with the machine. Whether [Image 1] shows a cat, a dog or another animal, it stays that animal. The same pet from the first second to the last, so its owner instantly recognizes it, also while it falls. Never drift back to the cat in the video: not the coat, the patches or the face of the cat in the video unless [Image 1] shows them. No collar and no clothes unless [Image 1] shows them.
+
+[0-8.8s]: the pet stands upright on the machine, both front paws gripping the top of the red frame, hind paws on the yellow pedals; the pedal arms swing back and forth and its hind legs swing wide apart and together, out of control; it wobbles, its body twists, its tail swings, it holds on with a startled face.
+[8.8-9.4s]: its hind paws slip off the pedals, it loses its grip and tumbles down off the machine; the yellow arms keep swinging.
+[9.4-10.5s]: the camera tips down and to the right; the pet rolls onto the paving at the foot of the machine and scrambles back up, unhurt; an adult in dark clothes walks in at the right edge, as in [Video 1].
+
+Only replace the animal; keep everything else the same.
+
+No dialogue throughout the entire video. No background music.
+Anatomy rules: one head only, one muzzle, four legs. Animal paws on the frame, never human hands. No extra animals, no other people than the passer-by at the end. A soft comedy fall: no blood, no injury. No text, no logos, no watermark.
+```
+

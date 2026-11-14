@@ -36,7 +36,30 @@ The moves, matching the reference second by second:
 Anatomy rules: exactly two people, one head per person, on that person's own shoulders. A face never appears on knees, legs, hands or clothes. From 5 s to the end the lifter's head stays hidden behind the rider, as in the reference. Real weight and natural balance, no floating. No dialogue throughout the entire video. No background music. No text, logos or watermark.
 ```
 
-### 2. 1. The video prompt is filled in. Settings: Seedance 2.5, 9 s, 720p, 9:16, sound off. The video prompt (Pet)
+### 2. 1. The video prompt is filled in. Settings: Seedance 2.5, 9 s, 720p, 9:16, sound off. The video prompt
+
+*Kind: video_prompt*
+
+```text
+Recreate the reference video [Video 1] shot for shot, with the same fixed phone camera, framing, timing and moves, in one continuous take, in a cozy living room decorated for Christmas instead of the parking garage: a lit Christmas tree, a fireplace mantel with a green garland and fairy lights, a red sofa and warm evening light. The ONLY changes: the man who stands facing the camera with the woman across his shoulders is now the person in [Image 1], the woman he carries is now the person in [Image 2], and both wear matching red plaid Christmas pajamas.
+
+The pajamas, on both people in every frame: a matching set of a long-sleeve button-up pajama shirt and long pajama pants in a bright red tartan with thin dark green and white lines, and white socks. Never the clothes from [Image 1], [Image 2] or [Video 1]: NO brown zip jacket, no cross-print jeans, no grey top, no tights, no black boots.
+
+The lifter = the person in [Image 1], in EVERY frame: copy the exact face from [Image 1]: face shape, eye color and eye shape, eyebrows, nose, mouth, skin tone, age, hair color, hair length and hairstyle, and any beard, moustache, glasses or freckles exactly as in the photo.
+
+The rider = the person in [Image 2], in EVERY frame: copy the exact face from [Image 2]: face shape, eye color and eye shape, eyebrows, nose, mouth, skin tone, age, hair color, hair length and hairstyle, and any beard, moustache, glasses or freckles exactly as in the photo. Blonde hair only if [Image 2] shows blonde hair.
+
+The same real people in every frame, so their friends instantly recognize them, also during the turn. Never morph, never drift back to the original couple's faces, never add or remove facial hair. Do not mix the two faces: [Image 1] is only the lifter, [Image 2] is only the rider. Both change: no one from the video stays.
+
+The moves, matching the reference second by second:
+0-3.5 s: the lifter stands facing the camera and holds the rider lying across the back of their shoulders, the rider's legs hanging down in front over one shoulder. The lifter looks into the lens and points at the camera with one hand.
+3.5-5 s: the lifter turns around on the spot, and in one smooth swing the rider slides round and sits up on the lifter's shoulders.
+5-9 s: the lifter now stands with their back to the camera. The rider sits upright on the lifter's shoulders, facing the camera, so the rider's upper body hides the lifter's head and it looks as if the rider is the one who carries. The rider grins, leans toward the camera with attitude, mouths the words of a song, hands at the waist.
+
+Anatomy rules: exactly two people, one head each, on their own shoulders. A face never appears on knees, legs, hands or clothes. From 5 s the lifter's head stays hidden behind the rider. Real weight, no floating. No parking garage, concrete ceiling, strip lights or parked cars in any frame, also in the first second. No dialogue throughout the entire video. No background music. No text, logos or watermark.
+```
+
+### 3. 1. The video prompt is filled in. Settings: Seedance 2.5, 9 s, 720p, 9:16, sound off. The video prompt (Pet)
 
 *Kind: video_prompt*
 

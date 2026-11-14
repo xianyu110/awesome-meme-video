@@ -3,7 +3,7 @@
 > The ATM glitch trend is a fake security camera clip: an ATM money glitch makes the machine shoot out cash nonstop and buries the person at the ATM in bills.
 
 Canonical: https://www.makeviral.ai/templates/atm-glitch-ai-trend
-Updated: 2026-10-21
+Updated: 2026-11-13
 Published: 2026-10-21
 Author: MakeViral Team (https://www.makeviral.ai/about)
 Publisher: MakeViral (https://www.makeviral.ai)
@@ -12,11 +12,11 @@ The **ATM glitch trend** is a fake security camera clip: an ATM money glitch mak
 
 A black-and-white security camera in an ATM booth at night: you take your cash, the machine bursts, a storm of bills knocks you back, and you end up sitting on a floor of money, laughing up at the camera. Or put your pet at the ATM. It is an AI video, not a real glitch.
 
-Also called: The only glitch I'm praying for this year, ATM cash burst, Money from the ATM, Тренд «Банкомат», Деньги из банкомата, Тренд с вылетающими купюрами.
+Also called: The only glitch I'm praying for this year, ATM cash burst, Money from the ATM, Тренд «Банкомат», Деньги из банкомата, Тренд с вылетающими купюрами, ATM Christmas Wish.
 
 **Make it now:** [Make this video](https://www.makeviral.ai/templates/atm-glitch-ai-trend/create). 1 photo · 8 s · 9:16 with sound · 122 credits, charged once · ready in up to several minutes · no prompt to write.
 
-Keyword: atm glitch. Also answers: atm glitch ai, atm glitch trend, atm money glitch, money glitch, money rain ai, atm money ai, atm money explosion, the only glitch i'm praying for, atm trend, atm capcut template, ai atm video, atm ai video, atm money trend, money glitch ai, infinite money glitch, the only glitch i want, the only glitch we need, money rain trend, money rain trend capcut, atm template, atm cctv footage, cctv atm ai, atm money explosion video, money explosion ai, cash explosion, atm glitch tutorial, atm trend meme, cat atm money, шаблон банкомат, деньги из банкомата нейросеть, банкомат нейросеть, trend do caixa eletrônico, caixa eletrônico saindo dinheiro, cajero tirando dinero, trend cajero automatico, atm se paise ki barish, atm money wali ai video, atm den para fışkırdı.
+Keyword: atm glitch. Also answers: atm glitch ai, atm glitch trend, atm money glitch, money glitch, money rain ai, atm money ai, atm money explosion, the only glitch i'm praying for, atm trend, atm capcut template, ai atm video, atm ai video, atm money trend, money glitch ai, infinite money glitch, the only glitch i want, the only glitch we need, money rain trend, money rain trend capcut, atm template, atm cctv footage, cctv atm ai, atm money explosion video, money explosion ai, cash explosion, atm glitch tutorial, atm trend meme, cat atm money, шаблон банкомат, деньги из банкомата нейросеть, банкомат нейросеть, trend do caixa eletrônico, caixa eletrônico saindo dinheiro, cajero tirando dinero, trend cajero automatico, atm se paise ki barish, atm money wali ai video, atm den para fışkırdı, christmas wish trend, christmas wish ai video.
 
 ## What is the ATM Glitch trend, and where did it start?
 
@@ -32,6 +32,7 @@ The idea is older than the trend. AI clips of ATMs that "glitch" and spray money
 - **2026-10-13**: Big meme pages repost it as "the only glitch I want": @laughtercolours gets 11,376 likes. Source: [Instagram](https://www.instagram.com/reel/DecbjLkNgLw/).
 - **2026-10-17**: Russian-speaking AI creators make it a one-photo "Банкомат" template, and @prostoanastasiya_ posts her remake; it has 813,546 likes by 20 October. Source: [Instagram](https://www.instagram.com/reel/DemRgUvB9Y_/).
 - **2026-10-19**: A pet version: a cat stands at the ATM and ends sitting in the pile of cash. Source: [Instagram](https://www.instagram.com/reel/DerbNEoNJmV/).
+- **2026-11-12**: The Christmas wish edit: @hhhyodin prays in her car, then a hard cut shows the ATM cash burst, over a slowed "All I Want for Christmas Is You"; it has 137,365 likes the same evening. Source: [Instagram](https://www.instagram.com/reel/Dfn4ffnR1Eo/).
 
 ## What the ATM Glitch video looks like
 
@@ -40,6 +41,9 @@ Made from the prompts on this page. The people and pets are AI-made, not real pe
 - **Example 1** (8 s, 9:16 MP4 with sound): The AI reel by @prostoanastasiya_ (17 October 2026, 813,546 likes on Instagram): cash bursts out of the ATM, knocks a woman in a fur coat back and buries the booth in bills. Both versions copy this clip with your photo.
   - Video: https://www.makeviral.ai/media/templates/atm-glitch-ai-trend/original-main-v2.mp4
   - Poster: https://www.makeviral.ai/media/templates/atm-glitch-ai-trend/original-main-v1.jpg
+- **Example 2** (13 s, 9:16 MP4 with sound): The Christmas wish reel by @hhhyodin (12 November 2026, 137,365 likes on Instagram): she prays in her car, then the ATM bursts with cash. Both Christmas Wish versions copy this clip with your photo or your pet.
+  - Video: https://www.makeviral.ai/media/templates/atm-glitch-ai-trend/original-wish-v2.mp4
+  - Poster: https://www.makeviral.ai/media/templates/atm-glitch-ai-trend/original-wish-v1.jpg
 
 ## How to make the ATM Glitch video on MakeViral
 
@@ -105,6 +109,66 @@ Exactly one animal in the booth; no people. Plain banknotes with no readable tex
 
 One-tap version of this variant: https://www.makeviral.ai/templates/atm-glitch-ai-trend/create?variant=pet
 
+#### Variant: Christmas Wish
+
+Settings: 1 photo (you, face clear) · Seedance 2.5 · 13 s · 720p · 9:16 · no sound · 198 credits in one tap.
+
+1. The video prompt is filled in. Settings: Seedance 2.5, 13 s, 720p, 9:16, sound off. The video prompt:
+
+   ```text
+   Recreate the reference video [Video 1] shot for shot: a 13-second vertical phone video in two shots, a viral "Christmas wish" edit: the wisher makes a wish in the car, and the wish comes true at an ATM. The same camera angles, cuts, timing and moves: one hard cut at 6.93 s, no other cut. The ONLY change: the woman in the white beanie in the car (shot 1) and the woman in the fur coat at the ATM (shot 2) are now one and the same person: the person in [Image 1]. The car, the ATM, the cash, the light and the camera stay exactly as in [Video 1].
+
+The wisher = the person in [Image 1], in EVERY shot: copy the exact face from [Image 1] (the face shape, eye color and eye shape, eyebrows, nose, mouth, skin tone, age, hair color, hair length and hairstyle, and any beard, moustache, glasses or freckles) exactly as in the photo, in full colour in shot 1 and in black and white in shot 2. They wear the clothes from [Image 1] in both shots. The same real person from the first frame to the last, so their friends instantly recognize them, also with the eyes closed and inside the storm of cash. Never drift back to either woman in [Video 1]. NO white beanie, NO leather jacket, NO glasses, NO long dark hair and NO fur coat unless [Image 1] shows them.
+
+Shot 1 [0-6.93 s], FULL COLOUR, a selfie from a phone propped on the dashboard, low angle, the wisher seated in the car's driver's seat, chest-up, soft grey winter daylight from the side window. The camera barely moves, a tiny handheld wobble. Calm and dreamy.
+0-2.0 s: fingers laced together in front of the chest, the wisher looks up and to the side, dreamy and hopeful.
+2.0-2.6 s: they press both palms together and lift them to the face.
+2.6-6.93 s: eyes closed, palms pressed together in front of the nose and mouth, a small hopeful smile, rocking gently. No money and no ATM before 6.93 s; the hands stay together up to the cut.
+
+Shot 2 [6.93-12.86 s]: HARD CUT on the beat, never earlier: the film turns BLACK AND WHITE for the rest of the video, high grainy contrast, one continuous handheld shot from a high corner of the ATM booth looking down at the machine.
+6.93-7.4 s: the wisher stands at the ATM, half turned away, and reaches for the cash slot.
+7.4-11.1 s: the cash slot ERUPTS like a fire hose: a torrent of bills blasts out nonstop, flying cash fills the frame and almost hides the wisher, fast motion blur, and the floor fills with a carpet of banknotes.
+11.1-12.86 s: the wisher kneels on the cash-covered floor beside the ATM, scoops up bills with both hands and stares at them in disbelief and joy, the face visible, while bills still spill from the slot.
+
+FACE: dreamy and hopeful with eyes closed through the wish; pure disbelief and joy at the ATM. Mouth closed or smiling, nobody talks or sings. No dialogue throughout the entire video. No background music.
+
+Avoid: colour in shot 2; black and white in shot 1; a second cut; a bank name, logo or readable text; captions or lyrics on screen; extra people. Exactly one person in each shot, one head, five fingers on each hand. Plain banknotes. No timestamp, no stickers, no text, no logos, no watermark.
+   ```
+
+2. Press Generate, then download the 9:16 MP4.
+
+One-tap version of this variant: https://www.makeviral.ai/templates/atm-glitch-ai-trend/create?variant=wish
+
+#### Variant: Christmas Wish Pet
+
+Settings: 1 photo (your pet, face clear) · Seedance 2.5 · 13 s · 720p · 9:16 · no sound · 198 credits in one tap.
+
+1. The video prompt is filled in. Settings: Seedance 2.5, 13 s, 720p, 9:16, sound off. The video prompt:
+
+   ```text
+   Recreate the reference video [Video 1] shot for shot: a 13-second vertical phone video in two shots, a viral "Christmas wish" edit: the wisher makes a wish in the car, and the wish comes true at an ATM. The same camera angles, cuts, timing and moves: one hard cut at 6.93 s, no other cut. The ONLY change: the woman in the car (shot 1) and the woman at the ATM (shot 2) are both completely replaced by the pet from [Image 1], the WHOLE body, not just the head. The car, the ATM, the booth, the cash, the light and the camera stay exactly as in [Video 1].
+
+The pet = the pet in [Image 1], in EVERY shot: the same species and breed, face, eyes, ears, muzzle, fur colors, fur length and markings as in [Image 1], in full colour in shot 1 and in black and white in shot 2, with the natural body volume and proportions of that animal: never flattened, squashed, stretched or merged with anything. It stays an animal: no human body, no human hands, no clothes, no white beanie, no leather jacket, no fur coat, no glasses. Never morph, never drift back to either woman.
+
+Shot 1 [0-6.93 s], FULL COLOUR, a selfie from a phone propped on the dashboard, low angle, the pet sitting upright in the car's driver's seat, chest-up, soft grey winter daylight from the side window. The camera barely moves, a tiny handheld wobble. Calm and dreamy.
+0-2.0 s: the pet sits upright, front paws held together in front of its chest, and looks up and to the side, dreamy and hopeful.
+2.0-2.6 s: it presses both front paws together and lifts them toward its muzzle.
+2.6-6.93 s: eyes closed, front paws pressed together in front of its chest like a prayer, head tipped up a little, rocking gently as it makes the wish. No money and no ATM before 6.93 s; the paws stay together right up to the cut.
+
+Shot 2 [6.93-12.86 s]: HARD CUT on the beat, never earlier: the film turns BLACK AND WHITE for the rest of the video, high grainy contrast, one continuous handheld shot from a high corner of the ATM booth looking down at the machine.
+6.93-7.4 s: the pet stands up on its hind legs at the ATM, front paws on the ledge under the cash slot.
+7.4-11.1 s: the cash slot ERUPTS like a fire hose: a torrent of bills blasts out nonstop, a blur of flying cash fills the frame and almost hides the pet, fast motion blur, and the floor fills with a carpet of banknotes.
+11.1-12.86 s: the pet sits on the cash-covered floor beside the ATM with a bundle of bills in its mouth, bills on its head and back, and looks around in happy disbelief, its own face clearly visible, while bills still spill from the slot.
+
+No dialogue throughout the entire video. No background music.
+
+Avoid: colour in shot 2; black and white in shot 1; a second cut; a bank name, logo or readable text; captions or lyrics on screen; any person. Exactly one animal in each shot. Plain banknotes. No timestamp, no stickers, no text, no logos, no watermark.
+   ```
+
+2. Press Generate, then download the 9:16 MP4.
+
+One-tap version of this variant: https://www.makeviral.ai/templates/atm-glitch-ai-trend/create?variant=wish-pet
+
 ### Which photo works best?
 
 **Human** takes **one photo of yourself**. **Pet** takes **one photo of your pet**.
@@ -144,8 +208,9 @@ Press "Create your own", add your photo and press Generate. The exact price show
 |---|---|---|
 | Human | 1 of you | The real reel with you in the woman's place, shot for shot. The default. |
 | Pet | 1 of your pet | Your pet stands up at the ATM, the cash bursts out, and it ends sitting in the pile with a bill in its mouth. |
+| Christmas Wish (or Christmas Wish Pet) | 1 of you (or your pet) | The Christmas wish trend: you pray in your car with your eyes closed, then the ATM bursts and buries you in cash. 13 seconds, with the slowed Christmas song. |
 
-The cat ATM money clips came out a few days after the first reel, so the Pet version is the newest part of the ATM money trend. Every version is 8 seconds with the same sound. The price of each one shows on its Generate button.
+The cat ATM money clips came out a few days after the first reel, and the Christmas wish edit on 12 November. Human and Pet are 8 seconds with the same sound. The price of each one shows on its Generate button.
 
 ## What do people call the ATM glitch trend?
 
@@ -179,6 +244,10 @@ Press "Create your own", add one clear photo of yourself and press Generate. The
 
 Yes. Pick Pet and add one photo of your pet. Your pet stands up at the ATM, the cash bursts out, and it ends sitting in the pile of bills with one in its mouth. It is the cat ATM money version of the trend, and it works for dogs too.
 
+### What is the ATM Christmas wish trend?
+
+A two-shot Christmas wish AI video edit. On 12 November 2026 @hhhyodin posted it on Instagram: she prays in her car with her palms together, then a hard cut shows the black-and-white ATM bursting with cash, over a slowed "All I Want for Christmas Is You". Pick Christmas Wish and add one photo of yourself, or Christmas Wish Pet for your pet, and you get the whole 13-second edit with the song.
+
 ### Is the ATM glitch real?
 
 No. It is an AI video, and no real ATM was filmed. Fake ATM glitch clips have been passed off as real before, so say it is AI when you post it. And never try to get extra money out of an ATM or a bank for real: that is fraud.
@@ -197,7 +266,7 @@ Creators share the ATM money trend as CapCut and bot templates, and some look fo
 
 ### How long is the video, and does it have sound?
 
-8 seconds, vertical 9:16, at 720p. It has the viral reel's sound, which you can turn off on the result screen and swap for your own song when you post.
+8 seconds (13 seconds for Christmas Wish), vertical 9:16, at 720p. It has the viral reel's sound, which you can turn off on the result screen and swap for your own song when you post.
 
 ### Does the ATM glitch video cost credits?
 
@@ -218,12 +287,12 @@ No. You take her place at the ATM, and nobody else is in the booth. MakeViral is
 
 ## New AI video trends this week
 
-- [Kara Sevda AI Trend: Your AI Video with Celebrity Stars Kemal and Emir](https://www.makeviral.ai/templates/ai-video-with-celebrity): You film a night selfie, the camera swings to the Kemal look-alike in his navy suit, face to face with you, and the Emir look-alike walks in and rests his head on his shoulder, jealous. One photo is enough. It is an AI video with look-alikes, not a real meeting.
-- [Misanthropy Meme AI: You as the Horned Anime Side-Eye](https://www.makeviral.ai/templates/misanthropy-meme-ai-trend): Your photo becomes a hand-drawn anime character with small horns. It glances left and right on a gray screen, then the background floods red and it breaks into a slow, smug grin, twice, to the trend's laughing beat. One photo in, an 8-second vertical clip out.
-- [Ahh Almost Almost: Train Hard, Miss by an Inch, From One Photo](https://www.makeviral.ai/templates/almost-almost-ai-trend): "While they're out partying btw": you grind alone late at night. Then the big shot rolls around the rim and out, twice, as the sound groans "ahhh almost almost". One photo in, an 11-second clip with the trend's own sound out.
-- [If I Was ChatGPT Trend: Your Observe, Just Observe Mood Board](https://www.makeviral.ai/templates/if-i-was-chatgpt-trend): Add one photo. The AI looks at it, picks the city, season, flower, painting, animal and element that fit you, and puts them around your photo in one mood board with short labels.
-- [Davul Zurna Yapay Zeka: Dance and Sing in the Viral Warehouse Clip](https://www.makeviral.ai/templates/davul-zurna-ai-trend): You dance between a zurna player and a davul player in a big workshop, walk up to the camera, sing right into it and walk back with your arms up. One photo, three for the whole band, or your pet. 15 seconds, with the live davul and zurna.
-- [Come On Barbie Let's Go Party AI: Do the Barbie Girl Dance Trend From Two Photos](https://www.makeviral.ai/templates/barbie-girl-dance-ai-trend): You turn around, sway your hips, pump a fist on "ah ah ah yeah" and lean on each other, side by side, on the sped-up Barbie Girl beat. Add two photos and get a real couple's viral reel with your faces and the song.
+- [AI Cat Gym Video: Put Your Pet on the Air Walker](https://www.makeviral.ai/templates/ai-cat-gym-video): Add one photo, and your cat or dog stands upright on an outdoor air walker, legs swinging out of control, until it slips off and tumbles to the ground, in the same take as the viral clip, with its original sound. You can take the fall yourself, too.
+- [Jensen Huang AI Video: Take the Wheel Next to the Nvidia CEO](https://www.makeviral.ai/templates/jensen-huang-ai-video): The car clip that started the Jensen Huang AI memes, with you at the wheel. Add one photo, and you (or your pet) drive the Nvidia CEO in his black leather jacket, with the clip's own sound.
+- [Cat Shower AI: Dodge the Water, Dive Under the Blanket](https://www.makeviral.ai/templates/cat-shower-ai-trend): The cat scoops the water, pours it over its head and leans away so not one drop hits it. Then it shivers and runs to bed. Add one photo, and you or your pet take the cat's place, with the trend's own sound.
+- [Tying My Shoes Meme: Put Yourself Behind the Tip Cup](https://www.makeviral.ai/templates/tying-shoes-money-ai-trend): You put your cup down to tie your shoe, and people start dropping cash in it. Add one photo, and you or your pet star in the viral clip, grin and all, with its original sound.
+- [MobLand Dance AI: Do Paul's Dance From One Photo](https://www.makeviral.ai/templates/mobland-paul-dance-ai): Lean in to the camera, step back, then the knee lifts, the little kicks, the shrugs and the hand flicks, with a straight face that keeps breaking into a grin. Add one photo of you or your pet and get the 10 second clip with the music.
+- [Bad Aim Edit AI Trend: Miss the Target, Then Own the Office](https://www.makeviral.ai/templates/bad-aim-edit-ai-trend): You try archery in a grass field and miss the flying target badly. Then a hard cut: a cool black and white office edit in black fight gloves, with a mug, a shh and a walk out the door. Add one photo of you or your pet.
 
 ## Make your own ATM Glitch video
 

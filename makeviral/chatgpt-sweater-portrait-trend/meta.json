@@ -1,0 +1,53 @@
+{
+  "source": "makeviral",
+  "source_site": "https://www.makeviral.ai",
+  "slug": "chatgpt-sweater-portrait-trend",
+  "name": "ChatGPT Sweater Trend: Black and White Portrait, Colored Sweater",
+  "url": "https://www.makeviral.ai/templates/chatgpt-sweater-portrait-trend",
+  "markdown_url": "https://www.makeviral.ai/templates/chatgpt-sweater-portrait-trend.md",
+  "blurb": "The ChatGPT sweater trend, also called the AI sweater trend, turns one selfie into a black-and-white beauty portrait with one pop of color: an oversized chunky-knit sweater, sleeves pulled up over the mouth, eyes in focus.",
+  "updated": "2026-11-12",
+  "published": "2026-11-12",
+  "credits": 3,
+  "demo_videos": [
+    "https://www.makeviral.ai/media/templates/chatgpt-sweater-portrait-trend/original-billie-v2.mp4",
+    "https://www.makeviral.ai/media/templates/chatgpt-sweater-portrait-trend/original-darstarr-v2.mp4"
+  ],
+  "posters": [
+    "https://www.makeviral.ai/media/templates/chatgpt-sweater-portrait-trend/original-billie-v1.jpg",
+    "https://www.makeviral.ai/media/templates/chatgpt-sweater-portrait-trend/original-darstarr-v1.jpg"
+  ],
+  "prompts": [
+    {
+      "label": null,
+      "variant": null,
+      "kind": "prompt",
+      "text": "Using the uploaded reference photo, create an ultra-realistic, high-fashion editorial beauty portrait that preserves the person's authentic facial features, natural hairstyle, age, skin tone, and eye color. THE CONCEPT: Create a stunning black-and-white portrait featuring ONE dramatic pop of color: an oversized, luxurious chunky-knit sweater in a rich, deep red. The sweater should have extra-long, thick, cozy sleeves. Pose the person with both hands raised toward the face, allowing the oversized sleeves to cover the mouth and lower face, leaving the eyes beautifully visible. THE EXPRESSION: The person's eyes are the STAR of this portrait! Capture an intriguing, mysterious, captivating expression. It can be playful, seductive, innocent, mischievous, or intensely alluring. Let the person's personality determine the expression. THE PHOTOGRAPHY: Elegant black-and-white editorial photography. ONLY the sweater remains in color. Preserve the person's natural eye color. Beautifully detailed, realistic eyes and eyelashes. Soft, flattering studio lighting with gentle shadows. A simple, softly blurred grayscale background. Close-up composition emphasizing the eyes and the sweater's rich knitted texture. Natural skin texture without excessive smoothing or artificial filters. Professional magazine-quality photography. IMPORTANT DETAILS: Maintain the person's exact facial identity and natural hairstyle. Do not change the hair length, eye color, facial structure, or age. No exaggerated features, distorted hands, or unnecessary accessories. The finished portrait should feel sophisticated, cozy, mysterious, and effortlessly beautiful. Vertical 9:16 close-up portrait, the eyes and both sleeves in the frame. Exactly one person. No text, no letters, no logo, no watermark."
+    },
+    {
+      "label": null,
+      "variant": null,
+      "kind": "prompt",
+      "text": "Using the uploaded reference photo, create an ultra-realistic, high-fashion editorial portrait that preserves the man's authentic facial features, natural hairstyle, age, skin tone, and eye color. THE CONCEPT: Create a stunning black-and-white portrait featuring ONE dramatic pop of color: an oversized, luxurious chunky-knit sweater in a rich, deep red. The sweater should have extra-long, thick, cozy sleeves. Pose the man with both hands raised toward the face, allowing the oversized sleeves to cover the mouth and lower face, leaving the eyes clearly visible. THE EXPRESSION: His eyes are the STAR of this portrait! Capture an intriguing, mysterious, captivating expression. It can be playful, confident, innocent, mischievous, or intense. Let his personality determine the expression. THE PHOTOGRAPHY: Elegant black-and-white editorial photography. ONLY the sweater remains in color. Preserve his natural eye color. Detailed, realistic eyes and eyelashes. Soft, flattering studio lighting with gentle shadows. A simple, softly blurred grayscale background. Close-up composition emphasizing the eyes and the sweater's rich knitted texture. Natural skin texture without excessive smoothing or artificial filters. Professional magazine-quality photography. IMPORTANT DETAILS: Maintain his exact facial identity and natural hairstyle. Do not change the hair length, eye color, facial structure, or age. Keep any beard, moustache or stubble exactly as in the photo, partly hidden under the sleeves. No exaggerated features, distorted hands, or unnecessary accessories. The finished portrait should feel sophisticated, cozy, mysterious, and effortlessly striking. Vertical 9:16 close-up portrait, the eyes and both sleeves in the frame. Exactly one person. No text, no letters, no logo, no watermark."
+    },
+    {
+      "label": null,
+      "variant": "Pet",
+      "kind": "prompt",
+      "text": "Using the uploaded reference photo, create an ultra-realistic, high-fashion editorial portrait of the same pet that preserves its authentic face, breed look, fur colors, fur length, markings, and eye color. THE CONCEPT: Create a stunning black-and-white portrait featuring ONE dramatic pop of color: an oversized, luxurious chunky-knit sweater in a rich, deep red, sized for the animal and worn on its body. The sweater has extra-long, thick, cozy sleeves. The pet sits upright with its front paws tucked into the long rolled cuffs, raised near its chin, and the big soft knit collar rises up to just below its nose, leaving its eyes beautifully visible. THE EXPRESSION: The pet's eyes are the STAR of this portrait! Capture an intriguing, curious, captivating look. It can be playful, innocent, or mischievous. THE PHOTOGRAPHY: Elegant black-and-white editorial photography. ONLY the sweater remains in color. Preserve the pet's natural eye color. Beautifully detailed, realistic eyes, whiskers and fur. Soft, flattering studio lighting with gentle shadows. A simple, softly blurred grayscale background. Close-up composition emphasizing the eyes and the sweater's rich knitted texture. Professional magazine-quality photography. IMPORTANT DETAILS: Keep the exact same animal: the same species, head shape, ears, muzzle, fur pattern and markings, with the natural body volume of that animal. Real paws, no human hands and no human body. No exaggerated features or unnecessary accessories. The finished portrait should feel sophisticated, cozy, mysterious, and adorable. Vertical 9:16 close-up portrait, the eyes and the sweater in the frame. Exactly one animal. No text, no letters, no logo, no watermark."
+    }
+  ],
+  "variant_headings": [
+    "What the Sweater Portrait photo looks like",
+    "How to make the Sweater Portrait photo on MakeViral",
+    "Which photo works best?",
+    "Human or pet: what each version gives",
+    "Is it a photo or a video?",
+    "Is my photo private?",
+    "Other AI video templates and tools",
+    "New AI video trends this week",
+    "Make your own Sweater Portrait photo"
+  ],
+  "prompt_count": 3,
+  "scraped_at": "2026-11-14"
+}

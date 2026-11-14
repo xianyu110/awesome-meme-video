@@ -3,7 +3,7 @@
 > Hot tea prank AI is a 17-second clip from one photo of you or your dog: at a cafe table with dogs that have human hands, a hand touches a hot tea spoon to a paw, you jump up with a yelp, and the dogs laugh.
 
 Canonical: https://www.makeviral.ai/templates/hot-tea-prank-ai
-Updated: 2026-10-22
+Updated: 2026-11-13
 Published: 2026-10-22
 Author: MakeViral Team (https://www.makeviral.ai/about)
 Publisher: MakeViral (https://www.makeviral.ai)
@@ -12,11 +12,11 @@ Publisher: MakeViral (https://www.makeviral.ai)
 
 Add a photo of you or your dog, and the page sees which one it is. At a cafe table with dogs that have human hands, a hot tea spoon touches a paw, you jump up with an "ah, it's hot!" and the dogs laugh, with the original voices.
 
-Also called: Hot tea prank trend, Dog hot tea prank, Hot spoon dog prank, Dog with human hands cafe prank, AI dogs with human hands, Be careful dog prank, Kalu x Setu.
+Also called: Hot tea prank trend, Dog hot tea prank, Hot spoon dog prank, Dog with human hands cafe prank, AI dogs with human hands, Be careful dog prank, Kalu x Setu, Turkish tea prank with footballers.
 
 **Make it now:** [Make this video](https://www.makeviral.ai/templates/hot-tea-prank-ai/create). 1 photo · 17 s · 9:16 with sound · 259 credits, charged once · ready in up to several minutes · no prompt to write.
 
-Keyword: hot tea prank ai. Also answers: hot tea prank, dog with human hands, ai prank video, dogs with human hands, ai dog video, hot spoon prank, turkish tea prank, tea prank, funny ai dog videos, ai prank video generator, hot tea prank video, hot tea spill prank, tea spill prank, spoon prank, tea spoon prank, ai prank video app, ai prank video maker, ai video prank tiktok, ai funny video, ai funny videos, ai funny video generator from photo, dog with human hands ai, dog with human hands meme, dog with human hands video, dog with human hands tiktok, dog with human hands instagram, dogs with human hands videos, dog with human arms, dogs with human arms, dog with human hand, funny dog with human hands, talking dog with human hands, funny ai dog video, ai dog video funny, funny ai dogs, funny ai pet videos, funny ai talking dogs, funniest ai dog videos, how to make funny ai dog videos, ai dog video generator, ai dog video maker, ai dog video app, ai dog video tiktok, ai dog video instagram, ai dog video viral, ai dog video meme, ai talking dog video, ai dog prank, dog prank, dog prank video, dog prank tiktok, ai pet prank, ai dog skit, ai dog comedy, dog skit, dog comedy video, dog tea prank, dog cafe prank, dog drinking tea, dogs with human hands prank, dog with human hands prank, how to do dog with human hands, dog with human hands tutorial, nepali dog comedy, animal with human hands, pet with human hands, dog with human fingers.
+Keyword: hot tea prank ai. Also answers: hot tea prank, dog with human hands, ai prank video, dogs with human hands, ai dog video, hot spoon prank, turkish tea prank, tea prank, funny ai dog videos, ai prank video generator, hot tea prank video, hot tea spill prank, tea spill prank, spoon prank, tea spoon prank, ai prank video app, ai prank video maker, ai video prank tiktok, ai funny video, ai funny videos, ai funny video generator from photo, dog with human hands ai, dog with human hands meme, dog with human hands video, dog with human hands tiktok, dog with human hands instagram, dogs with human hands videos, dog with human arms, dogs with human arms, dog with human hand, funny dog with human hands, talking dog with human hands, funny ai dog video, ai dog video funny, funny ai dogs, funny ai pet videos, funny ai talking dogs, funniest ai dog videos, how to make funny ai dog videos, ai dog video generator, ai dog video maker, ai dog video app, ai dog video tiktok, ai dog video instagram, ai dog video viral, ai dog video meme, ai talking dog video, ai dog prank, dog prank, dog prank video, dog prank tiktok, ai pet prank, ai dog skit, ai dog comedy, dog skit, dog comedy video, dog tea prank, dog cafe prank, dog drinking tea, dogs with human hands prank, dog with human hands prank, how to do dog with human hands, dog with human hands tutorial, nepali dog comedy, animal with human hands, pet with human hands, dog with human fingers, turkish tea cup prank, spilling hot tea prank, tea cup prank, tea prank video, ai footballers funny, ai footballers meme, ai football trend, footballers pranking each other, football player prank, ai prank with footballers.
 
 ## What is the Hot Tea Prank AI trend, and where did it start?
 
@@ -32,6 +32,7 @@ The gag is an old tea table joke: a warm spoon from a fresh glass of tea, presse
 - **2026-10-06**: The Nepali account @thepawtasticcrew posts AI skits of two dogs with human hands most days; 12 reels follow by 22 October. Source: [Instagram](https://www.instagram.com/thepawtasticcrew/).
 - **2026-10-12**: It posts the hot tea prank reel "Be Careful": a tea spoon prank at a cafe table, a yelp, a flapping bandana and a laughing friend. Source: [Instagram](https://www.instagram.com/reel/DeYJ-GLGtyC/).
 - **2026-10-22**: The reel has 283,300 likes and 1,964 comments, and the account has 43,700 followers. Source: [Instagram](https://www.instagram.com/reel/DeYJ-GLGtyC/).
+- **2026-11-09**: @makeainotart posts an AI Turkish tea prank with look-alikes of famous footballers: a flicked tea spoon, a splash and a big laugh. It has 650,872 likes by 13 November. Source: [Instagram](https://www.instagram.com/reel/DfgnzRBSOpP/).
 
 ## What the Hot Tea Prank AI video looks like
 
@@ -40,6 +41,9 @@ Made from the prompts on this page. The people and pets are AI-made, not real pe
 - **Example 1** (17 s, 9:16 MP4 with sound): The original reel by @thepawtasticcrew (12 October 2026, 283,300 likes on Instagram): dogs with human hands at a cafe table, the hot tea prank, a yelp and a lot of laughing. An AI clip, with its own voices. Every version copies this reel: with you, a friend or your dogs.
   - Video: https://www.makeviral.ai/media/templates/hot-tea-prank-ai/original-pet-v2.mp4
   - Poster: https://www.makeviral.ai/media/templates/hot-tea-prank-ai/original-pet-v1.jpg
+- **Example 2** (11 s, 9:16 MP4 with sound): The Turkish tea reel by @makeainotart (9 November 2026, 650,872 likes on Instagram): AI look-alikes of famous footballers in pink kits at a tea table, a flicked tea spoon, a splash, a jump and a big laugh. With its own voices. The Turkish tea versions copy this reel with you and your friends.
+  - Video: https://www.makeviral.ai/media/templates/hot-tea-prank-ai/original-tea-v2.mp4
+  - Poster: https://www.makeviral.ai/media/templates/hot-tea-prank-ai/original-tea-v1.jpg
 
 ## How to make the Hot Tea Prank AI video on MakeViral
 
@@ -112,6 +116,92 @@ Anatomy rules: one head per character, two hands each. No extra people, no extra
 2. Press Generate, then download the 9:16 MP4.
 
 One-tap version of this variant: https://www.makeviral.ai/templates/hot-tea-prank-ai/create?variant=duo
+
+#### Variant: Turkish tea
+
+Settings: 1 photo (you, face clear (you get the splash)) · Seedance 2.5 · 11 s · 720p · 9:16 · no sound · 168 credits in one tap.
+
+1. The video prompt is filled in. Settings: Seedance 2.5, 11 s, 720p, 9:16, sound off. The video prompt:
+
+   ```text
+   Recreate the reference video [Video 1] shot for shot: a warm cafe at night with wooden slatted benches, wicker lamps and a wooden table with small tulip glasses of tea, filmed handheld from a seat at the table in one take; of the camera-holder only one hand shows; the same framing, timing, camera moves and light. The ONLY change: [Image 1] replaces the young man on the left who scrolls the phone and gets splashed. That seat is now the person in [Image 1]. The man on the right and the bearded man by the camera stay exactly as in [Video 1], with their own faces and hair.
+
+PERSON A = the person in [Image 1], in EVERY frame: copy the exact face from [Image 1] (the face shape, eye color and eye shape, eyebrows, nose, mouth, skin tone, age, hair color, hair length and hairstyle, and any beard, moustache, glasses or freckles), so friends recognize them at once. The face stays the same in every frame, also while they yelp and jump up. Never morph, never drift back to the face of the young man in [Video 1]: NO dark wavy swept-up hair unless [Image 1] shows it. PERSON A wears the same pink football kit (shirt and shorts) that all three men wear in [Video 1], never the clothes from the photo. If a photo shows an animal, that one is that animal sitting in the same place and making the same moves, with its own face, fur and markings, not a person.
+PERSON B = the man on the right in [Video 1] and PERSON C = the bearded man by the camera in [Video 1]: both keep their own faces exactly. The face from [Image 1] never goes on them.
+
+WHAT HAPPENS, second by second, one take (the camera swings, never cuts):
+0-2.5 s: PERSON A (left) scrolls a phone on the bench, PERSON B (right) leans in to look; in front, a hand stirs a glass of tea with a small spoon.
+2.5-4.3 s: the hand lifts the spoon over the table.
+4.3-4.8 s: it flicks the spoon; tea splashes across the table onto PERSON A's shirt.
+4.8-6.5 s: PERSON A yelps, mouth wide open, lifts the arms with the phone and gets up; PERSON B leans away, hands up, eyes wide.
+6.5-7.2 s: the camera swings right; PERSON A walks out of the frame on the left.
+7.2-8.5 s: PERSON B stares into the camera in shock, mouth open; the camera-holder's open hand reaches toward PERSON B. Guests sit far behind.
+8.5-11 s: the camera swings to PERSON C, very close next to the camera, who covers the eyes with one hand and laughs hard to the end.
+Light slapstick: a warm splash, everyone is fine, no burn, no injury.
+
+Anatomy rules: exactly three people, one head each, two arms, five fingers per hand; of the camera-holder only one hand shows. No dialogue throughout the entire video. No background music. No new text, no captions, no watermark.
+   ```
+
+2. Press Generate, then download the 9:16 MP4.
+
+One-tap version of this variant: https://www.makeviral.ai/templates/hot-tea-prank-ai/create?variant=tea
+
+#### Variant: Turkish tea + friend
+
+Settings: 2 photos (you, face clear (you get the splash) + your friend, face clear (stares in shock)) · Seedance 2.5 · 11 s · 720p · 9:16 · no sound · 168 credits in one tap.
+
+1. The video prompt is filled in. Settings: Seedance 2.5, 11 s, 720p, 9:16, sound off. The video prompt:
+
+   ```text
+   Recreate the reference video [Video 1] shot for shot: a warm cafe at night with wooden slatted benches, wicker lamps and a wooden table with small tulip glasses of tea, filmed handheld from a seat at the table in one take; of the camera-holder only one hand shows; the same framing, timing, camera moves and light. The ONLY change: [Image 1] replaces the young man on the left who scrolls the phone and gets splashed, and [Image 2] replaces the man on the right who leans away and stares into the camera in shock. Only the bearded man by the camera stays exactly as in [Video 1].
+
+PERSON A = the person in [Image 1], PERSON B = the person in [Image 2], in EVERY frame: copy each exact face from its own photo (the face shape, eye color and eye shape, eyebrows, nose, mouth, skin tone, age, hair color, hair length and hairstyle, and any beard, moustache, glasses or freckles). Each face stays the same in every frame, so friends recognize both at once. Never blend the faces, never swap the roles. Never drift back to the men in [Video 1]: NO dark wavy swept-up hair on PERSON A unless [Image 1] shows it, NO short black hair on PERSON B unless [Image 2] shows it. Both wear the same pink football kit (shirt and shorts) that all three men wear in [Video 1], never the clothes from the photo. If a photo shows an animal, that one is that animal sitting in the same place and making the same moves, with its own face, fur and markings, not a person.
+PERSON C = the bearded man by the camera in [Video 1]: he keeps his own face exactly. No face from the photos goes on him.
+
+WHAT HAPPENS, second by second, one take (the camera swings, never cuts):
+0-2.5 s: PERSON A (left) scrolls a phone on the bench, PERSON B (right) leans in to look; in front, a hand stirs a glass of tea with a small spoon.
+2.5-4.3 s: the hand lifts the spoon over the table.
+4.3-4.8 s: it flicks the spoon; tea splashes across the table onto PERSON A's shirt.
+4.8-6.5 s: PERSON A yelps, mouth wide open, lifts the arms with the phone and gets up; PERSON B leans away, hands up, eyes wide.
+6.5-7.2 s: the camera swings right; PERSON A walks out of the frame on the left.
+7.2-8.5 s: PERSON B stares into the camera in shock, mouth open; the camera-holder's open hand reaches toward PERSON B. Guests sit far behind.
+8.5-11 s: the camera swings to PERSON C, very close next to the camera, who covers the eyes with one hand and laughs hard to the end.
+Light slapstick: a warm splash, everyone is fine, no burn, no injury.
+
+Anatomy rules: exactly three people, one head each, two arms, five fingers per hand; of the camera-holder only one hand shows. No dialogue throughout the entire video. No background music. No new text, no captions, no watermark.
+   ```
+
+2. Press Generate, then download the 9:16 MP4.
+
+One-tap version of this variant: https://www.makeviral.ai/templates/hot-tea-prank-ai/create?variant=tea-duo
+
+#### Variant: Turkish tea + 2 friends
+
+Settings: 3 photos (you, face clear (you get the splash) + friend 1, face clear (stares in shock) + friend 2, face clear (laughs at the end)) · Seedance 2.5 · 11 s · 720p · 9:16 · no sound · 168 credits in one tap.
+
+1. The video prompt is filled in. Settings: Seedance 2.5, 11 s, 720p, 9:16, sound off. The video prompt:
+
+   ```text
+   Recreate the reference video [Video 1] shot for shot: a warm cafe at night with wooden slatted benches, wicker lamps and a wooden table with small tulip glasses of tea, filmed handheld from a seat at the table in one take; of the camera-holder only one hand shows; the same framing, timing, camera moves and light. The ONLY change: all three men are now the people in the photos. [Image 1] replaces the young man on the left who gets splashed, [Image 2] replaces the man on the right who stares into the camera in shock, [Image 3] replaces the bearded man by the camera who laughs at the end. No one from the video stays.
+
+PERSON A = the person in [Image 1], PERSON B = the person in [Image 2], PERSON C = the person in [Image 3], in EVERY frame: copy each exact face from its own photo (the face shape, eye color and eye shape, eyebrows, nose, mouth, skin tone, age, hair color, hair length and hairstyle, and any beard, moustache, glasses or freckles). Each face stays the same in every frame, also while PERSON C laughs with a hand over the eyes, so friends recognize all three at once. Never blend the faces, never swap the roles. Never drift back to the men in [Video 1]: NO dark wavy swept-up hair on PERSON A unless [Image 1] shows it, NO short black hair on PERSON B unless [Image 2] shows it, NO short dark beard on PERSON C unless [Image 3] shows one. All three wear the same pink football kit (shirt and shorts) that all three men wear in [Video 1], never the clothes from the photo. If a photo shows an animal, that one is that animal sitting in the same place and making the same moves, with its own face, fur and markings, not a person.
+
+WHAT HAPPENS, second by second, one take (the camera swings, never cuts):
+0-2.5 s: PERSON A (left) scrolls a phone on the bench, PERSON B (right) leans in to look; in front, a hand stirs a glass of tea with a small spoon.
+2.5-4.3 s: the hand lifts the spoon over the table.
+4.3-4.8 s: it flicks the spoon; tea splashes across the table onto PERSON A's shirt.
+4.8-6.5 s: PERSON A yelps, mouth wide open, lifts the arms with the phone and gets up; PERSON B leans away, hands up, eyes wide.
+6.5-7.2 s: the camera swings right; PERSON A walks out of the frame on the left.
+7.2-8.5 s: PERSON B stares into the camera in shock, mouth open; the camera-holder's open hand reaches toward PERSON B. Guests sit far behind.
+8.5-11 s: the camera swings to PERSON C, very close next to the camera, who covers the eyes with one hand and laughs hard to the end.
+Light slapstick: a warm splash, everyone is fine, no burn, no injury.
+
+Anatomy rules: exactly three people, one head each, two arms, five fingers per hand; of the camera-holder only one hand shows. No dialogue throughout the entire video. No background music. No new text, no captions, no watermark.
+   ```
+
+2. Press Generate, then download the 9:16 MP4.
+
+One-tap version of this variant: https://www.makeviral.ai/templates/hot-tea-prank-ai/create?variant=tea-trio
 
 #### Variant: 1 dog
 
@@ -215,12 +305,13 @@ It is light slapstick: nobody gets hurt, and the joke is the yelp and the laughi
 
 ## People or pets: the page sees which
 
-There are four versions, and you never have to pick the right one by hand:
+There are seven versions, and you never have to pick the right one by hand:
 
 - **You**: one photo of you. You are the one who jumps up; the friend and the dog behind the camera stay dogs with human hands, which is the joke.
 - **You + friend**: two photos. Photo 1 jumps up, photo 2 is the friend who gets the spoon and laughs. Only the dog behind the camera stays a dog.
 - **1 dog**: one photo of your dog, as the dog in the cap.
 - **2 dogs**: two pet photos: pet 1 jumps up, pet 2 laughs.
+- **Turkish tea**, **+ friend**, **+ 2 friends**: the newer AI reel with footballer look-alikes, 11 seconds. Photo 1 gets the tea splash and jumps up, photo 2 stares in shock, photo 3 laughs; the look-alikes you do not replace stay.
 
 Add pet photos in You or You + friend and the page sees they are pets: it makes 1 dog or 2 dogs instead. A person and a dog together? Use You + friend: the dog keeps its own face and fur.
 
@@ -278,6 +369,10 @@ Start from a reel that already works. The funniest AI dog videos are short skits
 
 MakeViral works in your browser on the phone or the computer, so you need no AI prank video app. It works as an AI prank video maker and an AI dog video maker for this skit: upload the photo, make the clip, download it and post it on TikTok or Instagram.
 
+### Is there a version with footballers, like the Turkish tea prank reel?
+
+Yes. The Turkish tea versions copy the AI reel @makeainotart posted on 9 November 2026: look-alikes of famous footballers in pink kits at a cafe table, a hand flicks the spoon from a small Turkish tea cup, hot tea goes spilling across the table, and a friend cannot stop laughing. With one photo you get the splash and the look-alikes stay; with two or three photos your friends take their places. It is an AI prank with footballers, close to the ai footballers funny and ai footballers meme clips of the AI football trend, and it plays like a real football player prank, the way footballers pranking each other look on video. You get a tea prank video with the reel's own voices, and nobody gets hurt.
+
 ### Who made the original clip?
 
 The Nepali account @thepawtasticcrew, which posts AI dog skits of a duo it calls Kalu x Setu. Nepali dog comedy is its whole feed: the bio promises daily reels and "AI dogs, local swag". The example on this page is its reel, credited to the account.
@@ -300,12 +395,12 @@ Most runs take 5 to 15 minutes. The Generate button shows the exact credit price
 
 ## New AI video trends this week
 
-- [Kara Sevda AI Trend: Your AI Video with Celebrity Stars Kemal and Emir](https://www.makeviral.ai/templates/ai-video-with-celebrity): You film a night selfie, the camera swings to the Kemal look-alike in his navy suit, face to face with you, and the Emir look-alike walks in and rests his head on his shoulder, jealous. One photo is enough. It is an AI video with look-alikes, not a real meeting.
-- [Misanthropy Meme AI: You as the Horned Anime Side-Eye](https://www.makeviral.ai/templates/misanthropy-meme-ai-trend): Your photo becomes a hand-drawn anime character with small horns. It glances left and right on a gray screen, then the background floods red and it breaks into a slow, smug grin, twice, to the trend's laughing beat. One photo in, an 8-second vertical clip out.
-- [Ahh Almost Almost: Train Hard, Miss by an Inch, From One Photo](https://www.makeviral.ai/templates/almost-almost-ai-trend): "While they're out partying btw": you grind alone late at night. Then the big shot rolls around the rim and out, twice, as the sound groans "ahhh almost almost". One photo in, an 11-second clip with the trend's own sound out.
-- [If I Was ChatGPT Trend: Your Observe, Just Observe Mood Board](https://www.makeviral.ai/templates/if-i-was-chatgpt-trend): Add one photo. The AI looks at it, picks the city, season, flower, painting, animal and element that fit you, and puts them around your photo in one mood board with short labels.
-- [Davul Zurna Yapay Zeka: Dance and Sing in the Viral Warehouse Clip](https://www.makeviral.ai/templates/davul-zurna-ai-trend): You dance between a zurna player and a davul player in a big workshop, walk up to the camera, sing right into it and walk back with your arms up. One photo, three for the whole band, or your pet. 15 seconds, with the live davul and zurna.
-- [Come On Barbie Let's Go Party AI: Do the Barbie Girl Dance Trend From Two Photos](https://www.makeviral.ai/templates/barbie-girl-dance-ai-trend): You turn around, sway your hips, pump a fist on "ah ah ah yeah" and lean on each other, side by side, on the sped-up Barbie Girl beat. Add two photos and get a real couple's viral reel with your faces and the song.
+- [AI Cat Gym Video: Put Your Pet on the Air Walker](https://www.makeviral.ai/templates/ai-cat-gym-video): Add one photo, and your cat or dog stands upright on an outdoor air walker, legs swinging out of control, until it slips off and tumbles to the ground, in the same take as the viral clip, with its original sound. You can take the fall yourself, too.
+- [Jensen Huang AI Video: Take the Wheel Next to the Nvidia CEO](https://www.makeviral.ai/templates/jensen-huang-ai-video): The car clip that started the Jensen Huang AI memes, with you at the wheel. Add one photo, and you (or your pet) drive the Nvidia CEO in his black leather jacket, with the clip's own sound.
+- [Cat Shower AI: Dodge the Water, Dive Under the Blanket](https://www.makeviral.ai/templates/cat-shower-ai-trend): The cat scoops the water, pours it over its head and leans away so not one drop hits it. Then it shivers and runs to bed. Add one photo, and you or your pet take the cat's place, with the trend's own sound.
+- [Tying My Shoes Meme: Put Yourself Behind the Tip Cup](https://www.makeviral.ai/templates/tying-shoes-money-ai-trend): You put your cup down to tie your shoe, and people start dropping cash in it. Add one photo, and you or your pet star in the viral clip, grin and all, with its original sound.
+- [MobLand Dance AI: Do Paul's Dance From One Photo](https://www.makeviral.ai/templates/mobland-paul-dance-ai): Lean in to the camera, step back, then the knee lifts, the little kicks, the shrugs and the hand flicks, with a straight face that keeps breaking into a grin. Add one photo of you or your pet and get the 10 second clip with the music.
+- [Bad Aim Edit AI Trend: Miss the Target, Then Own the Office](https://www.makeviral.ai/templates/bad-aim-edit-ai-trend): You try archery in a grass field and miss the flying target badly. Then a hard cut: a cool black and white office edit in black fight gloves, with a mug, a shh and a walk out the door. Add one photo of you or your pet.
 
 ## Make your own Hot Tea Prank AI video
 

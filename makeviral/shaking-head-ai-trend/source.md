@@ -71,15 +71,14 @@ Settings: 1 photo (your pet, face to the camera) · Seedance 2.5 · 10 s · 720p
 3. Press the film button on the still to open AI Video with the still as the first frame. Settings: Seedance 2.5, 10 s, 720p, 9:16, sound on. The video prompt:
 
    ```text
-   A real, funny pet video filmed on a phone held still: one continuous tight close-up at the pet's eye level, the head filling most of the frame the whole time, the camera locked off. Keep the animal's face, eyes, ears, fur, markings and the room exactly as in the image. The pet faces the camera the whole time; the head and the face move a lot, the body stays in place.
-0-1.5 s: both eyes squeeze tightly shut at the same time, the cheeks push up into a big, smug, closed-mouth grin, and the whole head rocks from side to side: it tilts far to the left, then far to the right, a big, deadpan head shake that is easy to see.
-1.5-3.5 s: both eyes pop wide open, big and round, and stare straight into the lens; the mouth opens wide into a big open-mouthed grin, like a laugh, the pink tongue showing, while the head keeps rocking from side to side and leans a little toward the lens.
-3.5-5 s: both eyes squeeze shut again in the smug grin, and the big side-to-side head shake comes back.
-5-7 s: the wide-eyed stare again, the mouth wide open in the big grin with the tongue showing, the head rocking side to side.
-7-8.5 s: the smug, eyes-shut head shake once more, big and clear.
-8.5-10 s: the wide-eyed stare with the mouth wide open, and a last big tilt of the head to one side.
-The head moves are big and rhythmic, about one sway each second, never a tiny twitch. The two eyes always close and open together, never one eye at a time, never a wink. Audio: a playful, bouncy beat with no words. No meowing, no barking, no speech.
-Exactly one animal: one head, two eyes, one tongue, an animal's own mouth and teeth. No people, no hands, no clothes, no morphing, no cuts, no zoom, no text, no captions, no logos, no watermark.
+   A real, funny pet video filmed on a phone held still: one continuous tight close-up at the pet's eye level, the head filling most of the frame the whole time, the camera locked off. Keep the animal's face, eyes, ears, fur, markings and the room exactly as in the image. The pet faces the camera the whole time; the head moves a lot, the body stays in place.
+0-1 s: the pet looks into the lens, then both eyes squeeze tightly shut at the same time, the mouth closed in a smug, satisfied grin.
+1-5.5 s: with both eyes kept shut and the mouth closed, the head shakes from side to side, fast and over and over: left, right, left, right, about two swings each second, a big, clear move, the ears and the fur flapping with each swing.
+5.5-7 s: the head stops in the middle, both eyes pop wide open, big and round, and stare straight into the lens; the mouth stays closed or shows only the tip of the tongue.
+7-9.5 s: both eyes squeeze shut again and the same fast side-to-side head shake comes back, the mouth closed, the ears flapping.
+9.5-10 s: the head stops, both eyes pop wide open and stare straight into the lens.
+The eyes-shut head shake is the main action: the head moves for most of the clip, never a still head. The two eyes always close and open together, never one eye at a time, never a wink. The mouth stays closed or nearly closed: no panting, no wide-open mouth, no tongue hanging out, never a still head with the mouth open, never only a slow head tilt. Audio: a playful, bouncy beat with no words. No meowing, no barking, no speech.
+Exactly one animal: one head, two eyes, an animal's own mouth and teeth. No people, no hands, no clothes, no morphing, no cuts, no zoom, no text, no captions, no logos, no watermark.
    ```
 
 4. Press Generate, then download the 9:16 MP4.
@@ -259,12 +258,12 @@ Yes. Each video costs credits, and the create page shows the exact price on the 
 
 ## New AI video trends this week
 
-- [Kara Sevda AI Trend: Your AI Video with Celebrity Stars Kemal and Emir](https://www.makeviral.ai/templates/ai-video-with-celebrity): You film a night selfie, the camera swings to the Kemal look-alike in his navy suit, face to face with you, and the Emir look-alike walks in and rests his head on his shoulder, jealous. One photo is enough. It is an AI video with look-alikes, not a real meeting.
-- [Misanthropy Meme AI: You as the Horned Anime Side-Eye](https://www.makeviral.ai/templates/misanthropy-meme-ai-trend): Your photo becomes a hand-drawn anime character with small horns. It glances left and right on a gray screen, then the background floods red and it breaks into a slow, smug grin, twice, to the trend's laughing beat. One photo in, an 8-second vertical clip out.
-- [Ahh Almost Almost: Train Hard, Miss by an Inch, From One Photo](https://www.makeviral.ai/templates/almost-almost-ai-trend): "While they're out partying btw": you grind alone late at night. Then the big shot rolls around the rim and out, twice, as the sound groans "ahhh almost almost". One photo in, an 11-second clip with the trend's own sound out.
-- [If I Was ChatGPT Trend: Your Observe, Just Observe Mood Board](https://www.makeviral.ai/templates/if-i-was-chatgpt-trend): Add one photo. The AI looks at it, picks the city, season, flower, painting, animal and element that fit you, and puts them around your photo in one mood board with short labels.
-- [Davul Zurna Yapay Zeka: Dance and Sing in the Viral Warehouse Clip](https://www.makeviral.ai/templates/davul-zurna-ai-trend): You dance between a zurna player and a davul player in a big workshop, walk up to the camera, sing right into it and walk back with your arms up. One photo, three for the whole band, or your pet. 15 seconds, with the live davul and zurna.
-- [Come On Barbie Let's Go Party AI: Do the Barbie Girl Dance Trend From Two Photos](https://www.makeviral.ai/templates/barbie-girl-dance-ai-trend): You turn around, sway your hips, pump a fist on "ah ah ah yeah" and lean on each other, side by side, on the sped-up Barbie Girl beat. Add two photos and get a real couple's viral reel with your faces and the song.
+- [AI Cat Gym Video: Put Your Pet on the Air Walker](https://www.makeviral.ai/templates/ai-cat-gym-video): Add one photo, and your cat or dog stands upright on an outdoor air walker, legs swinging out of control, until it slips off and tumbles to the ground, in the same take as the viral clip, with its original sound. You can take the fall yourself, too.
+- [Jensen Huang AI Video: Take the Wheel Next to the Nvidia CEO](https://www.makeviral.ai/templates/jensen-huang-ai-video): The car clip that started the Jensen Huang AI memes, with you at the wheel. Add one photo, and you (or your pet) drive the Nvidia CEO in his black leather jacket, with the clip's own sound.
+- [Cat Shower AI: Dodge the Water, Dive Under the Blanket](https://www.makeviral.ai/templates/cat-shower-ai-trend): The cat scoops the water, pours it over its head and leans away so not one drop hits it. Then it shivers and runs to bed. Add one photo, and you or your pet take the cat's place, with the trend's own sound.
+- [Tying My Shoes Meme: Put Yourself Behind the Tip Cup](https://www.makeviral.ai/templates/tying-shoes-money-ai-trend): You put your cup down to tie your shoe, and people start dropping cash in it. Add one photo, and you or your pet star in the viral clip, grin and all, with its original sound.
+- [MobLand Dance AI: Do Paul's Dance From One Photo](https://www.makeviral.ai/templates/mobland-paul-dance-ai): Lean in to the camera, step back, then the knee lifts, the little kicks, the shrugs and the hand flicks, with a straight face that keeps breaking into a grin. Add one photo of you or your pet and get the 10 second clip with the music.
+- [Bad Aim Edit AI Trend: Miss the Target, Then Own the Office](https://www.makeviral.ai/templates/bad-aim-edit-ai-trend): You try archery in a grass field and miss the flying target badly. Then a hard cut: a cool black and white office edit in black fight gloves, with a mug, a shh and a walk out the door. Add one photo of you or your pet.
 
 ## Make your own Shaking Head video
 

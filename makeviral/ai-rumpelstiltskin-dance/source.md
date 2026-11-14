@@ -114,31 +114,29 @@ Settings: 2 photos (photo 1: the little man, face clear + photo 2: the princess,
 1. The video prompt is filled in. Settings: Seedance 2.5, 15 s, 720p, 9:16, sound off. The video prompt:
 
    ```text
-   Recreate the reference video [Video 1] shot for shot: the same 1970s fairy-tale film look, 35mm grain, faded warm color, the same hay barn at night, the same camera angles, cuts, timing and dance moves. Two people change and everything else stays: the small dancer with the wild curly blond hair is now the person in [Image 1], and the blonde woman in the white nightgown is now the person in [Image 2].
+   Recreate the reference video [Video 1] shot for shot: the same 1970s fairy-tale film look, 35mm grain, faded warm color, the same hay barn at night, camera angles, cuts, timing and moves. Two people are swapped, both in every shot: the small dancer becomes the person in [Image 1], and the woman in the white nightgown becomes the person in [Image 2].
 
-The dancer = the person in [Image 1], in EVERY shot where the head is visible: copy the exact face from [Image 1] - face shape, eye color and eye shape, eyebrows, nose, mouth, skin tone, age, hair color, hair length and hairstyle, and any beard, moustache, glasses or freckles exactly as in the photo. Keep the original dancer's body size and costume: the dark green-black velvet tuxedo jacket with long coat tails, white shirt, black bow tie, dark trousers and pointed black shoes.
+The dancer = the person in [Image 1], in every shot: the exact face, hair and any beard or glasses from [Image 1], with the dancer's body size and green-black velvet tuxedo with coat tails, bow tie and pointed black shoes.
 
-The woman = the person in [Image 2], in EVERY shot where she appears: copy the exact face from [Image 2] - face shape, eyes, eyebrows, nose, mouth, skin tone, age, hair color, hair length and hairstyle, and any beard, glasses or freckles exactly as in the photo. Her hair has the color and length from [Image 2] in every shot, also when only the back of her head shows in the foreground. She always wears the long white old-fashioned nightgown from the video, never the clothes from [Image 2]. She never smiles at the camera: she copies the shocked face, the gasps and the moves of the woman in the video.
+The woman = the person in [Image 2], in every shot, from the first frame to the last: copy the exact face from [Image 2] (the face shape, eye color and eye shape, eyebrows, nose, mouth, skin tone, age, hair color, hair length and hairstyle, and any beard, moustache, glasses or freckles). Never the film actress's face, eyes, nose or mouth. Her hair color and length come from [Image 2], also when only the back of her head shows. She wears the white nightgown from the video, never the clothes from [Image 2], and copies the actress's gasps, shocked face and moves.
 
-Both are the same real people in every frame, from the first shot to the last, so their friends instantly recognize them. Never morph, never drift back to the original actors' faces, never add or remove facial hair. Do not mix the two faces: [Image 1] is only the dancer, [Image 2] is only the woman. Both change: the original little man and the original blonde woman never appear, also in the wide shots and when only the back of her head shows.
+The same two real people in every frame, so their friends recognize them. Never morph, never drift back to the original actors, never mix the two faces.
 
 Shots, matching the reference:
-1. Close-up of the woman ([Image 2]): she turns around in the hay, gasps and covers her mouth with her hand.
-2. Wide: the dancer ([Image 1]) peeks out of the dark doorway behind her; the back of her head in the foreground.
-3. Wide: the woman sits in the hay in her white nightgown and looks around - her face turned to the camera is the face from [Image 2].
-4. Medium shot: the dancer stands in the hay, holds a finger to the lips "shh" with a sly grin; the back of her head in the foreground, with the hair color and length from [Image 2].
-5. Close-up of the dancer's face with the finger on the lips, sly look - clearly the person from [Image 1].
-6. Extreme close-up of the woman's eyes, her hand on her mouth - clearly the person from [Image 2].
-7-8. Wide: the dancer tiptoes toward the camera and does the bouncy tiptoe dance across the hay, knees bent, arms spread wide, coat tails flapping.
-9. Medium close-up: the dancer, arms spread wide, grinning, bobbing to the rhythm.
-10. Low shot of ONLY the dancer's legs and pointed black shoes tiptoeing through the straw - NO face, NO head anywhere in this shot.
-11. Close-up of the woman, both hands pressed to her mouth - clearly the person from [Image 2], her face large and sharp.
-12-13. The dancer raises one finger and grins: first wide, then a medium close-up.
-14. Wide: the woman sits among gold coins in the hay while the dancer runs past her to the right - she is still the person from [Image 2].
+1. Close-up: the woman turns in the hay, gasps and covers her mouth - the face from [Image 2].
+2. Wide: the dancer peeks out of the doorway; the back of her head in the foreground.
+3. Wide: the woman sits in the hay and looks around - the face from [Image 2].
+4-5. The dancer holds a finger to the lips, "shh", sly grin: medium, then close-up - the face from [Image 1].
+6. Extreme close-up of the woman's eyes, hand on her mouth - the eyes from [Image 2].
+7-9. The dancer does the bouncy tiptoe dance, arms wide, grinning.
+10. Low shot of only the dancer's legs and shoes - no face.
+11. Close-up of the woman, both hands on her mouth - the face from [Image 2], large and sharp.
+12-13. The dancer raises one finger and grins.
+14. Wide: the woman sits among gold coins while the dancer runs past - the face from [Image 2].
 
-[Image 1] and [Image 2] are two different people, each in their own part only: the woman from [Image 2] is as clear and recognizable as the dancer in every shot she is in, never a stranger, never the original blonde actress.
+One head per person, on their own shoulders. Exactly two people. No text, no logos.
 
-Anatomy rules: one head per person, on that person's own shoulders. A face never appears on knees, legs, hands, clothes or the hay. Exactly two people. No text, no logos, no modern objects.
+Check: two people are swapped, the dancer is [Image 1] and the woman is [Image 2] in every shot. If the woman still has the film actress's face, the video is wrong.
    ```
 
 2. Press Generate, then download the 9:16 MP4.
@@ -343,12 +341,12 @@ Yes. The MP4 has no watermark and carries original sound, so you can post it to 
 
 ## New AI video trends this week
 
-- [Kara Sevda AI Trend: Your AI Video with Celebrity Stars Kemal and Emir](https://www.makeviral.ai/templates/ai-video-with-celebrity): You film a night selfie, the camera swings to the Kemal look-alike in his navy suit, face to face with you, and the Emir look-alike walks in and rests his head on his shoulder, jealous. One photo is enough. It is an AI video with look-alikes, not a real meeting.
-- [Misanthropy Meme AI: You as the Horned Anime Side-Eye](https://www.makeviral.ai/templates/misanthropy-meme-ai-trend): Your photo becomes a hand-drawn anime character with small horns. It glances left and right on a gray screen, then the background floods red and it breaks into a slow, smug grin, twice, to the trend's laughing beat. One photo in, an 8-second vertical clip out.
-- [Ahh Almost Almost: Train Hard, Miss by an Inch, From One Photo](https://www.makeviral.ai/templates/almost-almost-ai-trend): "While they're out partying btw": you grind alone late at night. Then the big shot rolls around the rim and out, twice, as the sound groans "ahhh almost almost". One photo in, an 11-second clip with the trend's own sound out.
-- [If I Was ChatGPT Trend: Your Observe, Just Observe Mood Board](https://www.makeviral.ai/templates/if-i-was-chatgpt-trend): Add one photo. The AI looks at it, picks the city, season, flower, painting, animal and element that fit you, and puts them around your photo in one mood board with short labels.
-- [Davul Zurna Yapay Zeka: Dance and Sing in the Viral Warehouse Clip](https://www.makeviral.ai/templates/davul-zurna-ai-trend): You dance between a zurna player and a davul player in a big workshop, walk up to the camera, sing right into it and walk back with your arms up. One photo, three for the whole band, or your pet. 15 seconds, with the live davul and zurna.
-- [Come On Barbie Let's Go Party AI: Do the Barbie Girl Dance Trend From Two Photos](https://www.makeviral.ai/templates/barbie-girl-dance-ai-trend): You turn around, sway your hips, pump a fist on "ah ah ah yeah" and lean on each other, side by side, on the sped-up Barbie Girl beat. Add two photos and get a real couple's viral reel with your faces and the song.
+- [AI Cat Gym Video: Put Your Pet on the Air Walker](https://www.makeviral.ai/templates/ai-cat-gym-video): Add one photo, and your cat or dog stands upright on an outdoor air walker, legs swinging out of control, until it slips off and tumbles to the ground, in the same take as the viral clip, with its original sound. You can take the fall yourself, too.
+- [Jensen Huang AI Video: Take the Wheel Next to the Nvidia CEO](https://www.makeviral.ai/templates/jensen-huang-ai-video): The car clip that started the Jensen Huang AI memes, with you at the wheel. Add one photo, and you (or your pet) drive the Nvidia CEO in his black leather jacket, with the clip's own sound.
+- [Cat Shower AI: Dodge the Water, Dive Under the Blanket](https://www.makeviral.ai/templates/cat-shower-ai-trend): The cat scoops the water, pours it over its head and leans away so not one drop hits it. Then it shivers and runs to bed. Add one photo, and you or your pet take the cat's place, with the trend's own sound.
+- [Tying My Shoes Meme: Put Yourself Behind the Tip Cup](https://www.makeviral.ai/templates/tying-shoes-money-ai-trend): You put your cup down to tie your shoe, and people start dropping cash in it. Add one photo, and you or your pet star in the viral clip, grin and all, with its original sound.
+- [MobLand Dance AI: Do Paul's Dance From One Photo](https://www.makeviral.ai/templates/mobland-paul-dance-ai): Lean in to the camera, step back, then the knee lifts, the little kicks, the shrugs and the hand flicks, with a straight face that keeps breaking into a grin. Add one photo of you or your pet and get the 10 second clip with the music.
+- [Bad Aim Edit AI Trend: Miss the Target, Then Own the Office](https://www.makeviral.ai/templates/bad-aim-edit-ai-trend): You try archery in a grass field and miss the flying target badly. Then a hard cut: a cool black and white office edit in black fight gloves, with a mug, a shh and a walk out the door. Add one photo of you or your pet.
 
 ## Make your own Rumpelstiltskin Dance video
 

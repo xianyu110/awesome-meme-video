@@ -1,0 +1,89 @@
+# Talk to Me Doja AI Trend: The Anime Girl Sway From One Photo
+
+- Source: [makeviral](https://www.makeviral.ai/templates/talk-to-me-doja-ai-trend)
+- Slug: `talk-to-me-doja-ai-trend`
+
+The Talk to me Doja trend is a TikTok meme from November 2026: people press both palms to their cheeks, tilt their head and sway side to side with a shy smile, copying a blonde anime girl, while a sped-up "Like That" by Doja Cat plays.
+
+## Demo videos (CDN)
+
+- https://www.makeviral.ai/media/templates/talk-to-me-doja-ai-trend/original-main-v2.mp4
+
+## Posters
+
+- https://www.makeviral.ai/media/templates/talk-to-me-doja-ai-trend/original-main-v1.jpg
+
+## Prompts
+
+### 1. 1. The video prompt is filled in. Settings: Seedance 2.5, 13 s, 720p, 9:16, sound off. The video prompt (Human)
+
+*Kind: video_prompt*
+
+```text
+One continuous take, a fixed phone camera at chest height, vertical 9:16, photorealistic live action, 13 seconds: a bright, tidy room at home with plain light walls, a bookshelf and soft daylight. A medium shot from the thighs up, the face big and clear in every frame.
+
+[Image 1] defines CHARACTER: the person in [Image 1], in every frame. Copy the exact face from [Image 1] (the face shape, eye color and eye shape, eyebrows, nose, mouth, skin tone, age, hair color, hair length and hairstyle, and any beard, moustache, glasses or freckles). Use CHARACTER's complete image-defined appearance, including identity, face, hair, anatomy, proportions, clothing and accessories. Keep these consistent throughout. Do not import the image background.
+
+STRICT IDENTITY: Keep the same identity in every frame, including profiles, head tilts and moments when hands cover the face. No face blending, identity drift or duplicate performers. Clothing must remain defined by [Image 1] throughout. The face stays the same from the first frame to the last, so their friends recognize them at once.
+
+EXACT PERFORMANCE, timed to the beat:
+[0-6 s] The opening forward lean toward the lens, sideways head turns, backward movement into the room, relaxed arm positions and preparatory body shifts, a small nod to the beat: CHARACTER plays it cool.
+[6-12.5 s] At 6 s, raise both hands at the same moment and place the palms against the cheeks, with fingers pointing upward beside the face. The smile, mouth opening, eye narrowing, gaze, alternating head tilts, shoulder movement and side-to-side upper-body sway: a shy, giddy, bashful smile, swaying gently to the beat.
+[12.5-13 s] The ending hand release.
+Do not add gestures or change the choreography.
+
+NATURAL CONTACT: Preserve CHARACTER's image-defined body proportions while adapting naturally to the poses and framing. Do not shorten, widen or stretch the body. Maintain realistic palm-to-cheek contact, natural finger articulation and subtle skin compression. Hands must not fuse with the face. Facial features must retain the same identity during and after occlusion.
+
+Sound: none of its own; a song is put on afterwards. No dialogue throughout the entire video. No background music.
+
+No stickers or overlays, no cartoon or anime characters, no anime look, no text, captions or subtitles, no logos, no watermark, no split screen, no extra people, no extra limbs or fingers, no morphing.
+```
+
+### 2. 1. The video prompt is filled in. Settings: Seedance 2.5, 13 s, 720p, 9:16, sound off. The video prompt
+
+*Kind: video_prompt*
+
+```text
+One continuous take, a fixed phone camera at chest height, vertical 9:16, photorealistic live action, 13 seconds: a bright, tidy room at home with plain light walls, a bookshelf and soft daylight. Two people stand side by side, a medium shot from the thighs up, both faces big and clear in every frame.
+
+[Image 1] defines CHARACTER A, on the LEFT, in every frame: copy the exact face from [Image 1] (the face shape, eye color and eye shape, eyebrows, nose, mouth, skin tone, age, hair color, hair length and hairstyle, and any beard, moustache, glasses or freckles). [Image 2] defines CHARACTER B, on the RIGHT, in every frame: copy the exact face from [Image 2] (the face shape, eye color and eye shape, eyebrows, nose, mouth, skin tone, age, hair color, hair length and hairstyle, and any beard, moustache, glasses or freckles). Use each CHARACTER's complete image-defined appearance, including identity, face, hair, anatomy, proportions, clothing and accessories. Keep these consistent throughout. Do not import the image backgrounds. The sides come ONLY from the photo order: never swap them.
+
+STRICT IDENTITY: Keep the same identity in every frame, including profiles, head tilts and moments when hands cover the face. No face blending, identity drift or duplicate performers: never blend their faces. Clothing must remain defined by each image throughout. Each face stays the same from the first frame to the last, so their friends recognize them at once.
+
+EXACT PERFORMANCE, both at the same time, in sync, timed to the beat:
+[0-6 s] The opening forward lean toward the lens, sideways head turns, backward movement into the room, relaxed arm positions and preparatory body shifts, a small nod to the beat: both play it cool.
+[6-12.5 s] At 6 s, both raise both hands at the same moment and place the palms against their own cheeks, with fingers pointing upward beside the face. The smile, mouth opening, eye narrowing, gaze, alternating head tilts, shoulder movement and side-to-side upper-body sway: shy, giddy, bashful smiles, swaying gently to the beat, the same way.
+[12.5-13 s] The ending hand release.
+Do not add gestures or change the choreography. Each one touches only their own face.
+
+NATURAL CONTACT: Preserve each CHARACTER's image-defined body proportions while adapting naturally to the poses and framing. Do not shorten, widen or stretch the bodies. Maintain realistic palm-to-cheek contact, natural finger articulation and subtle skin compression. Hands must not fuse with the face. Facial features must retain the same identity during and after occlusion.
+
+Sound: none of its own; a song is put on afterwards. No dialogue throughout the entire video. No background music.
+
+No stickers or overlays, no cartoon or anime characters, no anime look, no text, captions or subtitles, no logos, no watermark, no split screen, no extra people, no extra limbs or fingers, no morphing.
+```
+
+### 3. 1. The video prompt is filled in. Settings: Seedance 2.5, 13 s, 720p, 9:16, sound off. The video prompt (Pet)
+
+*Kind: video_prompt*
+
+```text
+One continuous take, a fixed phone camera at chest height, vertical 9:16, photorealistic live action, 13 seconds: a bright, tidy room at home with plain light walls, a bookshelf and soft daylight. The pet sits upright on a soft bed in the middle of the frame, facing the camera, a medium shot with its face big and clear in every frame.
+
+[Image 1] defines the PET, in every frame: the same species and breed, face, eyes, ears, muzzle, fur colors, fur length and markings as in [Image 1], with the natural body volume and proportions of that animal: never flattened, squashed, stretched or merged with anything, so its owner instantly recognizes it. Keep these consistent throughout. Do not import the image background. No clothes on the pet unless [Image 1] shows them.
+
+STRICT IDENTITY: Keep the same pet in every frame, including profiles, head tilts and moments when its paws cover its face. No face blending, identity drift or duplicate animals.
+
+EXACT PERFORMANCE, timed to the beat:
+[0-6 s] The opening forward lean toward the lens with a curious sniff, sideways head turns, then it sits back on the bed, front paws relaxed, small body shifts: it plays it cool.
+[6-12.5 s] At 6 s, it raises both front paws at the same moment and presses the soft pads against its cheeks. A happy face, mouth slightly open, eye narrowing, gaze at the camera, alternating head tilts, shoulder movement and side-to-side upper-body sway: shy and giddy, swaying gently to the beat.
+[12.5-13 s] The paws come down.
+Do not add gestures or change the choreography.
+
+NATURAL CONTACT: The pet keeps real animal anatomy: furry forelegs ending in round paws covered in its own fur, never human hands, no fingers, no bare skin, even when the paws press its cheeks. Paws must not fuse with the face. One head, four legs and one tail.
+
+Sound: none of its own; a song is put on afterwards. No dialogue throughout the entire video. No background music.
+
+No stickers or overlays, no cartoon or anime characters, no anime look, no text, captions or subtitles, no logos, no watermark, no split screen, no people, no extra animals, no extra limbs, no morphing.
+```
+

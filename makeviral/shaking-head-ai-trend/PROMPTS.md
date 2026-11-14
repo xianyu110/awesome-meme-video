@@ -30,15 +30,14 @@ Zoom in on the pet's head: a tight close-up at the pet's eye level. The head fil
 *Kind: video_prompt*
 
 ```text
-A real, funny pet video filmed on a phone held still: one continuous tight close-up at the pet's eye level, the head filling most of the frame the whole time, the camera locked off. Keep the animal's face, eyes, ears, fur, markings and the room exactly as in the image. The pet faces the camera the whole time; the head and the face move a lot, the body stays in place.
-0-1.5 s: both eyes squeeze tightly shut at the same time, the cheeks push up into a big, smug, closed-mouth grin, and the whole head rocks from side to side: it tilts far to the left, then far to the right, a big, deadpan head shake that is easy to see.
-1.5-3.5 s: both eyes pop wide open, big and round, and stare straight into the lens; the mouth opens wide into a big open-mouthed grin, like a laugh, the pink tongue showing, while the head keeps rocking from side to side and leans a little toward the lens.
-3.5-5 s: both eyes squeeze shut again in the smug grin, and the big side-to-side head shake comes back.
-5-7 s: the wide-eyed stare again, the mouth wide open in the big grin with the tongue showing, the head rocking side to side.
-7-8.5 s: the smug, eyes-shut head shake once more, big and clear.
-8.5-10 s: the wide-eyed stare with the mouth wide open, and a last big tilt of the head to one side.
-The head moves are big and rhythmic, about one sway each second, never a tiny twitch. The two eyes always close and open together, never one eye at a time, never a wink. Audio: a playful, bouncy beat with no words. No meowing, no barking, no speech.
-Exactly one animal: one head, two eyes, one tongue, an animal's own mouth and teeth. No people, no hands, no clothes, no morphing, no cuts, no zoom, no text, no captions, no logos, no watermark.
+A real, funny pet video filmed on a phone held still: one continuous tight close-up at the pet's eye level, the head filling most of the frame the whole time, the camera locked off. Keep the animal's face, eyes, ears, fur, markings and the room exactly as in the image. The pet faces the camera the whole time; the head moves a lot, the body stays in place.
+0-1 s: the pet looks into the lens, then both eyes squeeze tightly shut at the same time, the mouth closed in a smug, satisfied grin.
+1-5.5 s: with both eyes kept shut and the mouth closed, the head shakes from side to side, fast and over and over: left, right, left, right, about two swings each second, a big, clear move, the ears and the fur flapping with each swing.
+5.5-7 s: the head stops in the middle, both eyes pop wide open, big and round, and stare straight into the lens; the mouth stays closed or shows only the tip of the tongue.
+7-9.5 s: both eyes squeeze shut again and the same fast side-to-side head shake comes back, the mouth closed, the ears flapping.
+9.5-10 s: the head stops, both eyes pop wide open and stare straight into the lens.
+The eyes-shut head shake is the main action: the head moves for most of the clip, never a still head. The two eyes always close and open together, never one eye at a time, never a wink. The mouth stays closed or nearly closed: no panting, no wide-open mouth, no tongue hanging out, never a still head with the mouth open, never only a slow head tilt. Audio: a playful, bouncy beat with no words. No meowing, no barking, no speech.
+Exactly one animal: one head, two eyes, an animal's own mouth and teeth. No people, no hands, no clothes, no morphing, no cuts, no zoom, no text, no captions, no logos, no watermark.
 ```
 
 ### 3. 1. The video prompt is filled in. Settings: Seedance 2.5, 10 s, 720p, 9:16, sound on. The video prompt

@@ -10,11 +10,15 @@
   "published": "2026-10-18",
   "credits": 200,
   "demo_videos": [
+    "https://www.makeviral.ai/media/templates/elevator-outfit-change-ai-trend/example-ceiling-v1.mp4",
+    "https://www.makeviral.ai/media/templates/elevator-outfit-change-ai-trend/example-main-v1.mp4",
     "https://www.makeviral.ai/media/templates/elevator-outfit-change-ai-trend/original-ceiling-v2.mp4",
     "https://www.makeviral.ai/media/templates/elevator-outfit-change-ai-trend/original-main-v2.mp4",
     "https://www.makeviral.ai/media/templates/elevator-outfit-change-ai-trend/original-men-v2.mp4"
   ],
   "posters": [
+    "https://www.makeviral.ai/media/templates/elevator-outfit-change-ai-trend/example-ceiling-v1.jpg",
+    "https://www.makeviral.ai/media/templates/elevator-outfit-change-ai-trend/example-main-v1.jpg",
     "https://www.makeviral.ai/media/templates/elevator-outfit-change-ai-trend/original-ceiling-v1.jpg",
     "https://www.makeviral.ai/media/templates/elevator-outfit-change-ai-trend/original-main-v1.jpg",
     "https://www.makeviral.ai/media/templates/elevator-outfit-change-ai-trend/original-men-v1.jpg"
@@ -52,5 +56,5 @@
     "Make your own Elevator Outfits video"
   ],
   "prompt_count": 3,
-  "scraped_at": "2026-11-13"
+  "scraped_at": "2026-11-14"
 }

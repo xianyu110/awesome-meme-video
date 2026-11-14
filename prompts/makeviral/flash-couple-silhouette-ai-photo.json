@@ -1,0 +1,24 @@
+{
+  "source": "makeviral",
+  "slug": "flash-couple-silhouette-ai-photo",
+  "prompts": [
+    {
+      "label": null,
+      "variant": null,
+      "kind": "prompt",
+      "text": "Use the two uploaded photos. The person in the first image is on the LEFT and the person in the second image is on the RIGHT: do not blend the two people. Show them as a romantic couple, close together: cheek to cheek, in a hug, or one resting the head on the other's shoulder, from the chest up, both faces turned toward the camera or three-quarters to it. Each keeps the face, hair, skin tone and clothes from their own photo. Black background: the whole background is pure, solid black, with no room, no wall, no furniture, no sky and no objects. Backlit subject contours (hair light / rim light), warm-toned backlight casts a bright warm glow on the edges, faces stay softly dim, but every face stays clear and recognizable, minimal vibe, strong light-and-shadow contrast. Light outlines the hair, translucent rim light, subject fades into darkness, high contrast, clean and minimalist, romantic mood. Place a simple filled small white heart emoji in the empty space above their heads. Photorealistic photo, vertical 9:16, like a real photo taken at night with one warm light behind them. No text, no letters, no logo, no watermark, no other emoji, no frame. Exactly two people in the frame."
+    },
+    {
+      "label": null,
+      "variant": null,
+      "kind": "prompt",
+      "text": "Use the uploaded photo of two people. Keep the two people, their pose, their faces, their hair, their clothes and the framing exactly as in the photo: do not blend the two people. Only the background and the light change. Black background: the whole background is pure, solid black, with no room, no wall, no furniture, no sky and no objects. Backlit subject contours (hair light / rim light), warm-toned backlight casts a bright warm glow on the edges, faces stay softly dim, but every face stays clear and recognizable, minimal vibe, strong light-and-shadow contrast. Light outlines the hair, translucent rim light, subject fades into darkness, high contrast, clean and minimalist, romantic mood. Place a simple filled small white heart emoji in the empty space above their heads. Photorealistic photo, vertical 9:16, like a real photo taken at night with one warm light behind them. No text, no letters, no logo, no watermark, no other emoji, no frame. Exactly the people of the photo in the frame, no one added."
+    },
+    {
+      "label": null,
+      "variant": "Pet",
+      "kind": "prompt",
+      "text": "Use the two uploaded photos. The person in the first image is on the LEFT and the pet in the second image is on the RIGHT. The person holds the pet close in a warm hug, cheek against its head, from the chest up, the person's face turned toward the camera or three-quarters to it. The pet is the same species and breed, with the same face, eyes, ears, muzzle, fur colors, fur length and markings as in the second image, with the natural body volume and proportions of that animal: never flattened, squashed, stretched or merged with the person. The person keeps the face, hair, skin tone and clothes from the first image. Black background: the whole background is pure, solid black, with no room, no wall, no furniture, no sky and no objects. Backlit subject contours (hair light / rim light), warm-toned backlight casts a bright warm glow on the edges, faces stay softly dim, but every face stays clear and recognizable, minimal vibe, strong light-and-shadow contrast. Light outlines the hair, translucent rim light, subject fades into darkness, high contrast, clean and minimalist, romantic mood. Place a simple filled small white heart emoji in the empty space above their heads. Photorealistic photo, vertical 9:16, like a real photo taken at night with one warm light behind them. No text, no letters, no logo, no watermark, no other emoji, no frame. Exactly one person and one pet in the frame."
+    }
+  ]
+}

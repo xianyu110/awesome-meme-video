@@ -1,0 +1,50 @@
+{
+  "source": "makeviral",
+  "source_site": "https://www.makeviral.ai",
+  "slug": "jensen-huang-ai-video",
+  "name": "Jensen Huang AI Video: Take the Wheel Next to the Nvidia CEO",
+  "url": "https://www.makeviral.ai/templates/jensen-huang-ai-video",
+  "markdown_url": "https://www.makeviral.ai/templates/jensen-huang-ai-video.md",
+  "blurb": "The Jensen Huang AI video trend is a wave of AI parody clips of the Nvidia CEO that took over TikTok in November 2026.",
+  "updated": "2026-11-13",
+  "published": "2026-11-13",
+  "credits": 228,
+  "demo_videos": [
+    "https://www.makeviral.ai/media/templates/jensen-huang-ai-video/original-main-v2.mp4"
+  ],
+  "posters": [
+    "https://www.makeviral.ai/media/templates/jensen-huang-ai-video/original-main-v1.jpg"
+  ],
+  "prompts": [
+    {
+      "label": "1. The video prompt is filled in. Settings: Seedance 2.5, 15 s, 720p, 9:16, sound off. The video prompt",
+      "variant": null,
+      "kind": "video_prompt",
+      "text": "Recreate the reference video [Video 1] shot for shot: one continuous take from a camera fixed on the dashboard of a modern car with a glass roof on a grey, cloudy day, looking back at three people: a grey-haired man with glasses in a black leather jacket in the front seat on the LEFT of the frame, an older blonde woman with glasses and a pearl necklace in the back seat in the middle, and the driver at the steering wheel on the RIGHT of the frame. The same framing, timing, moves and mouth moves. The ONLY change: the young woman in the red patterned dress at the steering wheel is now the person in [Image 1]. The man in the black leather jacket and the older woman in the back seat stay exactly as in [Video 1], with their own faces, hair, glasses and clothes.\n\nThe driver = the person in [Image 1], in EVERY frame: copy the exact face from [Image 1]: face shape, eye color and eye shape, eyebrows, nose, mouth, skin tone, age, hair color, hair length and hairstyle, and any beard, moustache, glasses or freckles exactly as in the photo. The driver wears the clothes from [Image 1]; if [Image 1] shows only the head or the upper body, invent the rest so it matches naturally. The same real person in every frame, from the first second to the last, so their friends instantly recognize them, also when the driver leans across to the snack bag and when the driver glances at the camera. Never morph, never drift back to the original woman's face. NO long dark wavy hair, NO drop earrings and NO red patterned dress unless [Image 1] shows them. Only the driver changes: never put the face from [Image 1] on the man or on the woman in the back seat.\n\nThe action, matching [Video 1] second by second:\n00:00-00:03.5: the man in the leather jacket holds a red snack bag on his lap and eats from it; the driver reaches across with one hand and takes a snack from his bag, and the older woman in the back leans forward and reaches into the bag too.\n00:03.5-00:05: the bag goes back to the older woman; the driver turns forward again, back to the steering wheel.\n00:05-00:15: the driver drives calmly with one hand on the steering wheel and stretches the other across to rest it on the man's knee, looks ahead and glances at the camera now and then; the man sits still and glances sideways at the driver; the older woman in the back holds the red bag and eats from it.\nThe camera never moves. The timing of every move matches [Video 1].\n\nReal live-action dashboard camera footage, natural daylight, clear facial features, no distortion.\n\nAnatomy rules: one head only on each person. Two arms and two hands per person, five fingers on each hand. Exactly three people in the car. No text, no captions, no logos, no watermark."
+    },
+    {
+      "label": "1. The video prompt is filled in. Settings: Seedance 2.5, 15 s, 720p, 9:16, sound off. The video prompt",
+      "variant": "Pet",
+      "kind": "video_prompt",
+      "text": "Recreate the reference video [Video 1] shot for shot: one continuous take from a camera fixed on the dashboard of a modern car with a glass roof on a grey, cloudy day, looking back at three people: a grey-haired man with glasses in a black leather jacket in the front seat on the LEFT of the frame, an older blonde woman with glasses and a pearl necklace in the back seat in the middle, and the driver at the steering wheel on the RIGHT of the frame. The same framing, timing and moves. The ONLY change: the young woman in the red patterned dress at the steering wheel is now the pet in [Image 1]. The man in the black leather jacket and the older woman in the back seat stay exactly as in [Video 1], with their own faces, hair, glasses and clothes.\n\nThe driver = the pet in [Image 1], in EVERY frame: the same species and breed, face, eyes, ears, muzzle, fur colors, fur length and markings as in [Image 1], with the natural body volume and proportions of that animal: never flattened, squashed, stretched or merged with anything. Whether [Image 1] shows a dog, a cat or another animal, it stays that animal, sitting upright in the driver's seat, its head at the height of the man's head. The same pet from the first second to the last, so its owner instantly recognizes it. Never a human face, no human hair, no earrings. Only the head, the face, the fur and the paws change: the pet wears the red patterned dress from [Video 1], sized to its own body.\n\nThe action, matching [Video 1] second by second:\n00:00-00:03.5: the man in the leather jacket holds a red snack bag on his lap and eats from it; the pet reaches across with one front paw and takes a snack from his bag, and the older woman in the back leans forward and reaches into the bag too.\n00:03.5-00:05: the bag goes back to the older woman; the pet turns forward again, back to the steering wheel.\n00:05-00:15: the pet drives calmly with one front paw on the steering wheel and stretches the other across to rest it on the man's knee, looks ahead and glances at the camera now and then; the man sits still and glances sideways at the pet; the older woman in the back holds the red bag and eats from it.\nThe camera never moves. The timing of every move matches [Video 1].\n\nReal live-action dashboard camera footage, natural daylight, realistic fur, no distortion.\n\nAnatomy rules: the pet has one head, one muzzle and animal paws, never human hands. Exactly two people and one animal in the car. No extra limbs, no body merging. No text, no captions, no logos, no watermark."
+    }
+  ],
+  "variant_headings": [
+    "What the Jensen Huang AI video looks like",
+    "How to make the Jensen Huang AI video on MakeViral",
+    "Which photo works best?",
+    "You or Pet: which one should you make?",
+    "What is the Jensen Huang AI video trend?",
+    "How do I make a Jensen Huang AI video with my photo?",
+    "Is Jensen Huang in my video?",
+    "Can I make a Jensen Huang AI dance video?",
+    "How long is the video and what format is it?",
+    "Does the Jensen Huang AI video cost credits?",
+    "Is the Jensen Huang video real?",
+    "Other AI video templates and tools",
+    "New AI video trends this week",
+    "Make your own Jensen Huang AI video"
+  ],
+  "prompt_count": 2,
+  "scraped_at": "2026-11-14"
+}

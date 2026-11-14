@@ -8,10 +8,12 @@ Hot tea prank AI is a 17-second clip from one photo of you or your dog: at a caf
 ## Demo videos (CDN)
 
 - https://www.makeviral.ai/media/templates/hot-tea-prank-ai/original-pet-v2.mp4
+- https://www.makeviral.ai/media/templates/hot-tea-prank-ai/original-tea-v2.mp4
 
 ## Posters
 
 - https://www.makeviral.ai/media/templates/hot-tea-prank-ai/original-pet-v1.jpg
+- https://www.makeviral.ai/media/templates/hot-tea-prank-ai/original-tea-v1.jpg
 
 ## Prompts
 
@@ -61,7 +63,75 @@ The mouths open and close exactly when the mouths in [Video 1] do. Light slapsti
 Anatomy rules: one head per character, two hands each. No extra people, no extra animals. No text on the cap, no new text, no logos, no watermark.
 ```
 
-### 3. 1. The video prompt is filled in. Settings: Seedance 2.5, 17 s, 720p, 9:16, sound off. The video prompt
+### 3. 1. The video prompt is filled in. Settings: Seedance 2.5, 11 s, 720p, 9:16, sound off. The video prompt
+
+*Kind: video_prompt*
+
+```text
+Recreate the reference video [Video 1] shot for shot: a warm cafe at night with wooden slatted benches, wicker lamps and a wooden table with small tulip glasses of tea, filmed handheld from a seat at the table in one take; of the camera-holder only one hand shows; the same framing, timing, camera moves and light. The ONLY change: [Image 1] replaces the young man on the left who scrolls the phone and gets splashed. That seat is now the person in [Image 1]. The man on the right and the bearded man by the camera stay exactly as in [Video 1], with their own faces and hair.
+
+PERSON A = the person in [Image 1], in EVERY frame: copy the exact face from [Image 1] (the face shape, eye color and eye shape, eyebrows, nose, mouth, skin tone, age, hair color, hair length and hairstyle, and any beard, moustache, glasses or freckles), so friends recognize them at once. The face stays the same in every frame, also while they yelp and jump up. Never morph, never drift back to the face of the young man in [Video 1]: NO dark wavy swept-up hair unless [Image 1] shows it. PERSON A wears the same pink football kit (shirt and shorts) that all three men wear in [Video 1], never the clothes from the photo. If a photo shows an animal, that one is that animal sitting in the same place and making the same moves, with its own face, fur and markings, not a person.
+PERSON B = the man on the right in [Video 1] and PERSON C = the bearded man by the camera in [Video 1]: both keep their own faces exactly. The face from [Image 1] never goes on them.
+
+WHAT HAPPENS, second by second, one take (the camera swings, never cuts):
+0-2.5 s: PERSON A (left) scrolls a phone on the bench, PERSON B (right) leans in to look; in front, a hand stirs a glass of tea with a small spoon.
+2.5-4.3 s: the hand lifts the spoon over the table.
+4.3-4.8 s: it flicks the spoon; tea splashes across the table onto PERSON A's shirt.
+4.8-6.5 s: PERSON A yelps, mouth wide open, lifts the arms with the phone and gets up; PERSON B leans away, hands up, eyes wide.
+6.5-7.2 s: the camera swings right; PERSON A walks out of the frame on the left.
+7.2-8.5 s: PERSON B stares into the camera in shock, mouth open; the camera-holder's open hand reaches toward PERSON B. Guests sit far behind.
+8.5-11 s: the camera swings to PERSON C, very close next to the camera, who covers the eyes with one hand and laughs hard to the end.
+Light slapstick: a warm splash, everyone is fine, no burn, no injury.
+
+Anatomy rules: exactly three people, one head each, two arms, five fingers per hand; of the camera-holder only one hand shows. No dialogue throughout the entire video. No background music. No new text, no captions, no watermark.
+```
+
+### 4. 1. The video prompt is filled in. Settings: Seedance 2.5, 11 s, 720p, 9:16, sound off. The video prompt
+
+*Kind: video_prompt*
+
+```text
+Recreate the reference video [Video 1] shot for shot: a warm cafe at night with wooden slatted benches, wicker lamps and a wooden table with small tulip glasses of tea, filmed handheld from a seat at the table in one take; of the camera-holder only one hand shows; the same framing, timing, camera moves and light. The ONLY change: [Image 1] replaces the young man on the left who scrolls the phone and gets splashed, and [Image 2] replaces the man on the right who leans away and stares into the camera in shock. Only the bearded man by the camera stays exactly as in [Video 1].
+
+PERSON A = the person in [Image 1], PERSON B = the person in [Image 2], in EVERY frame: copy each exact face from its own photo (the face shape, eye color and eye shape, eyebrows, nose, mouth, skin tone, age, hair color, hair length and hairstyle, and any beard, moustache, glasses or freckles). Each face stays the same in every frame, so friends recognize both at once. Never blend the faces, never swap the roles. Never drift back to the men in [Video 1]: NO dark wavy swept-up hair on PERSON A unless [Image 1] shows it, NO short black hair on PERSON B unless [Image 2] shows it. Both wear the same pink football kit (shirt and shorts) that all three men wear in [Video 1], never the clothes from the photo. If a photo shows an animal, that one is that animal sitting in the same place and making the same moves, with its own face, fur and markings, not a person.
+PERSON C = the bearded man by the camera in [Video 1]: he keeps his own face exactly. No face from the photos goes on him.
+
+WHAT HAPPENS, second by second, one take (the camera swings, never cuts):
+0-2.5 s: PERSON A (left) scrolls a phone on the bench, PERSON B (right) leans in to look; in front, a hand stirs a glass of tea with a small spoon.
+2.5-4.3 s: the hand lifts the spoon over the table.
+4.3-4.8 s: it flicks the spoon; tea splashes across the table onto PERSON A's shirt.
+4.8-6.5 s: PERSON A yelps, mouth wide open, lifts the arms with the phone and gets up; PERSON B leans away, hands up, eyes wide.
+6.5-7.2 s: the camera swings right; PERSON A walks out of the frame on the left.
+7.2-8.5 s: PERSON B stares into the camera in shock, mouth open; the camera-holder's open hand reaches toward PERSON B. Guests sit far behind.
+8.5-11 s: the camera swings to PERSON C, very close next to the camera, who covers the eyes with one hand and laughs hard to the end.
+Light slapstick: a warm splash, everyone is fine, no burn, no injury.
+
+Anatomy rules: exactly three people, one head each, two arms, five fingers per hand; of the camera-holder only one hand shows. No dialogue throughout the entire video. No background music. No new text, no captions, no watermark.
+```
+
+### 5. 1. The video prompt is filled in. Settings: Seedance 2.5, 11 s, 720p, 9:16, sound off. The video prompt
+
+*Kind: video_prompt*
+
+```text
+Recreate the reference video [Video 1] shot for shot: a warm cafe at night with wooden slatted benches, wicker lamps and a wooden table with small tulip glasses of tea, filmed handheld from a seat at the table in one take; of the camera-holder only one hand shows; the same framing, timing, camera moves and light. The ONLY change: all three men are now the people in the photos. [Image 1] replaces the young man on the left who gets splashed, [Image 2] replaces the man on the right who stares into the camera in shock, [Image 3] replaces the bearded man by the camera who laughs at the end. No one from the video stays.
+
+PERSON A = the person in [Image 1], PERSON B = the person in [Image 2], PERSON C = the person in [Image 3], in EVERY frame: copy each exact face from its own photo (the face shape, eye color and eye shape, eyebrows, nose, mouth, skin tone, age, hair color, hair length and hairstyle, and any beard, moustache, glasses or freckles). Each face stays the same in every frame, also while PERSON C laughs with a hand over the eyes, so friends recognize all three at once. Never blend the faces, never swap the roles. Never drift back to the men in [Video 1]: NO dark wavy swept-up hair on PERSON A unless [Image 1] shows it, NO short black hair on PERSON B unless [Image 2] shows it, NO short dark beard on PERSON C unless [Image 3] shows one. All three wear the same pink football kit (shirt and shorts) that all three men wear in [Video 1], never the clothes from the photo. If a photo shows an animal, that one is that animal sitting in the same place and making the same moves, with its own face, fur and markings, not a person.
+
+WHAT HAPPENS, second by second, one take (the camera swings, never cuts):
+0-2.5 s: PERSON A (left) scrolls a phone on the bench, PERSON B (right) leans in to look; in front, a hand stirs a glass of tea with a small spoon.
+2.5-4.3 s: the hand lifts the spoon over the table.
+4.3-4.8 s: it flicks the spoon; tea splashes across the table onto PERSON A's shirt.
+4.8-6.5 s: PERSON A yelps, mouth wide open, lifts the arms with the phone and gets up; PERSON B leans away, hands up, eyes wide.
+6.5-7.2 s: the camera swings right; PERSON A walks out of the frame on the left.
+7.2-8.5 s: PERSON B stares into the camera in shock, mouth open; the camera-holder's open hand reaches toward PERSON B. Guests sit far behind.
+8.5-11 s: the camera swings to PERSON C, very close next to the camera, who covers the eyes with one hand and laughs hard to the end.
+Light slapstick: a warm splash, everyone is fine, no burn, no injury.
+
+Anatomy rules: exactly three people, one head each, two arms, five fingers per hand; of the camera-holder only one hand shows. No dialogue throughout the entire video. No background music. No new text, no captions, no watermark.
+```
+
+### 6. 1. The video prompt is filled in. Settings: Seedance 2.5, 17 s, 720p, 9:16, sound off. The video prompt
 
 *Kind: video_prompt*
 
@@ -85,7 +155,7 @@ The mouths open and close exactly when the mouths in [Video 1] do. Light slapsti
 Anatomy rules: one head per dog, one muzzle, natural teeth and tongue, two human hands per dog. No extra animals, no people. No text on the cap, no new text, no logos, no watermark.
 ```
 
-### 4. 1. The video prompt is filled in. Settings: Seedance 2.5, 17 s, 720p, 9:16, sound off. The video prompt (Pet)
+### 7. 1. The video prompt is filled in. Settings: Seedance 2.5, 17 s, 720p, 9:16, sound off. The video prompt (Pet)
 
 *Kind: video_prompt*
 
