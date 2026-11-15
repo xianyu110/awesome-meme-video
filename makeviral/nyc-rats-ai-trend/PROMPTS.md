@@ -7,11 +7,11 @@ The NYC rats AI trend is a night phone clip of a New York alley where a gang of 
 
 ## Demo videos (CDN)
 
-- https://www.makeviral.ai/media/templates/nyc-rats-ai-trend/original-pet-v2.mp4
+- https://media.makeviral.ai/templates/nyc-rats-ai-trend/original-pet-v2.mp4
 
 ## Posters
 
-- https://www.makeviral.ai/media/templates/nyc-rats-ai-trend/original-pet-v1.jpg
+- https://media.makeviral.ai/templates/nyc-rats-ai-trend/original-pet-v1.jpg
 
 ## Prompts
 

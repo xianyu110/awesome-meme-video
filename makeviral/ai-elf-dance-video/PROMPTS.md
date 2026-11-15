@@ -7,12 +7,12 @@ The AI elf dance is the Christmas video where you turn yourself into an elf: you
 
 ## Demo videos (CDN)
 
-- https://www.makeviral.ai/media/templates/ai-elf-dance-video/example-main.mp4
+- https://media.makeviral.ai/templates/ai-elf-dance-video/example-main.mp4
 
 ## Posters
 
-- https://www.makeviral.ai/media/templates/ai-elf-dance-video/example-main-input.jpg
-- https://www.makeviral.ai/media/templates/ai-elf-dance-video/example-main-poster.jpg
+- https://media.makeviral.ai/templates/ai-elf-dance-video/example-main-input.jpg
+- https://media.makeviral.ai/templates/ai-elf-dance-video/example-main-poster.jpg
 
 ## Prompts
 

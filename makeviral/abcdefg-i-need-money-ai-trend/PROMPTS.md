@@ -7,11 +7,11 @@ The ABCDEFG I need money trend is a TikTok meme line: "A, B, C, D, E, F, G...
 
 ## Demo videos (CDN)
 
-- https://www.makeviral.ai/media/templates/abcdefg-i-need-money-ai-trend/original-reel-v2.mp4
+- https://media.makeviral.ai/templates/abcdefg-i-need-money-ai-trend/original-reel-v2.mp4
 
 ## Posters
 
-- https://www.makeviral.ai/media/templates/abcdefg-i-need-money-ai-trend/original-reel-v1.jpg
+- https://media.makeviral.ai/templates/abcdefg-i-need-money-ai-trend/original-reel-v1.jpg
 
 ## Prompts
 

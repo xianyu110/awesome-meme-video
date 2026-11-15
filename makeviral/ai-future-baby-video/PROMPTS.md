@@ -7,12 +7,12 @@ An AI baby generator video takes photos of two adults and imagines a baby who mi
 
 ## Demo videos (CDN)
 
-- https://www.makeviral.ai/media/templates/ai-future-baby-video/example.mp4
+- https://media.makeviral.ai/templates/ai-future-baby-video/example.mp4
 
 ## Posters
 
-- https://www.makeviral.ai/media/templates/ai-future-baby-video/example-input.jpg
-- https://www.makeviral.ai/media/templates/ai-future-baby-video/example-poster.jpg
+- https://media.makeviral.ai/templates/ai-future-baby-video/example-input.jpg
+- https://media.makeviral.ai/templates/ai-future-baby-video/example-poster.jpg
 
 ## Prompts
 

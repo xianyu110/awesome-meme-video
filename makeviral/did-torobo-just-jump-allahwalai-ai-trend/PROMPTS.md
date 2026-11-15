@@ -7,12 +7,12 @@ Did Torobo just jump?
 
 ## Demo videos (CDN)
 
-- https://www.makeviral.ai/media/templates/did-torobo-just-jump-allahwalai-ai-trend/example-main-v1.mp4
+- https://media.makeviral.ai/templates/did-torobo-just-jump-allahwalai-ai-trend/example-main-v1.mp4
 
 ## Posters
 
-- https://www.makeviral.ai/media/templates/did-torobo-just-jump-allahwalai-ai-trend/example-main-input.jpg
-- https://www.makeviral.ai/media/templates/did-torobo-just-jump-allahwalai-ai-trend/example-main-poster.jpg
+- https://media.makeviral.ai/templates/did-torobo-just-jump-allahwalai-ai-trend/example-main-input.jpg
+- https://media.makeviral.ai/templates/did-torobo-just-jump-allahwalai-ai-trend/example-main-poster.jpg
 
 ## Prompts
 

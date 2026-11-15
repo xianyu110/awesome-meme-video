@@ -7,13 +7,15 @@ The wedding money rain is the moment at a Pakistani or Indian wedding when frien
 
 ## Demo videos (CDN)
 
-- https://www.makeviral.ai/media/templates/ai-money-rain-party/original-hall-v2.mp4
-- https://www.makeviral.ai/media/templates/ai-money-rain-party/original-terrace-v2.mp4
+- https://media.makeviral.ai/templates/ai-money-rain-party/original-hall-v2.mp4
+- https://media.makeviral.ai/templates/ai-money-rain-party/original-heli-v2.mp4
+- https://media.makeviral.ai/templates/ai-money-rain-party/original-terrace-v2.mp4
 
 ## Posters
 
-- https://www.makeviral.ai/media/templates/ai-money-rain-party/original-hall-v1.jpg
-- https://www.makeviral.ai/media/templates/ai-money-rain-party/original-terrace-v1.jpg
+- https://media.makeviral.ai/templates/ai-money-rain-party/original-hall-v1.jpg
+- https://media.makeviral.ai/templates/ai-money-rain-party/original-heli-v1.jpg
+- https://media.makeviral.ai/templates/ai-money-rain-party/original-terrace-v1.jpg
 
 ## Prompts
 
@@ -37,5 +39,51 @@ The money: hundreds of generic paper banknotes in plain pale cream and soft pink
 
 Audio: a loud festive dhol drum beat with claps, cheering and whistles from the guests, no words, no singing.
 The person from [Image 1] is the only dancer in the center; every guest is a different grown adult (all over 25) with their own face, never a copy of the dancer. One head, two arms and five fingers on each hand. No text, no captions, no subtitles, no logos, no signs, no watermark.
+```
+
+### 2. 1. The video prompt is filled in. Settings: Seedance 2.5, 11 s, 720p, 9:16, sound off. The video prompt
+
+*Kind: video_prompt*
+
+```text
+Edit Video 1: recreate the reference video [Video 1] shot for shot: the open door of a helicopter high above the skyscrapers of a big city on a bright day, then the crowd in the street below, with the same four shots, camera angles, cuts, timing and moves. Replace the subject tossing cash from a helicopter doorway as banknotes soar away in the wind. The ONLY change: the woman by the open door is now the person in [Image 1]. Only replace the person; the helicopter cabin, the cash, the city, the crowd, the moves, the timing and the camera stay completely unchanged. Keep everything else the same.
+
+The passenger = the person in [Image 1], in EVERY shot where the passenger shows: copy the exact face from [Image 1] (the face shape, eye color and eye shape, eyebrows, nose, mouth, skin tone, age, hair color, hair length and hairstyle, and any beard, moustache, glasses or freckles). The passenger wears the clothes from [Image 1]; if [Image 1] shows only the head or the upper body, invent the rest so it matches naturally. The same real person in every frame, so their friends recognize them at once. Never morph, never drift back to the original woman's face. NO long wavy blonde hair and NO drop earrings unless [Image 1] shows them.
+
+Shot 1 [0-2.6s]: inside the helicopter cabin, a medium shot: the passenger sits on the cream leather seat right by the open door with a pile of cash bundles on the lap, one hand up on the grab handle, glances out over the skyline and tosses a few bills out of the door with the other hand, calm and confident. The face is large, sharp and clearly visible.
+Shot 2 [2.6-5.8s]: hard cut, the passenger's point of view through the open door: the passenger's arm, in the sleeve of the clothes from [Image 1], reaches out and tosses handfuls of bills into the wind, the bills scatter and soar away over the city far below, a hand holds a phone at the bottom of the frame and films, and the camera tilts down toward the streets.
+Shot 3 [5.8-8.5s]: hard cut, street level, looking up: a big crowd of adults in a city street between tall buildings reaches up with both hands while the helicopter hovers in the blue sky above and the bills rain down.
+Shot 4 [8.5-10.4s]: hard cut, another angle on the crowd: people reach up, catch the falling bills and cheer.
+
+The crowd in shots 3 and 4 stays exactly as in [Video 1]: grown adults, each with their own face, never the face from [Image 1].
+
+The cash: generic banded bundles of green bills, like movie prop money. The bills stay soft, with no readable serial numbers, no portrait in focus and no other writing.
+
+No dialogue throughout the entire video. No background music.
+
+Anatomy rules: one head only, on the passenger's shoulders. Two arms and two hands, five fingers on each hand. Exactly one person in the helicopter cabin. No text, no captions, no subtitles, no logos, no watermark, no readable writing on the bills or on the phone.
+```
+
+### 3. 1. The video prompt is filled in. Settings: Seedance 2.5, 11 s, 720p, 9:16, sound off. The video prompt (Pet)
+
+*Kind: video_prompt*
+
+```text
+Edit Video 1: recreate the reference video [Video 1] shot for shot: the open door of a helicopter high above the skyscrapers of a big city on a bright day, then the crowd in the street below, with the same four shots, camera angles, cuts, timing and moves. Replace the subject tossing cash from a helicopter doorway as banknotes soar away in the wind. The ONLY change: the woman by the open door is now the pet in [Image 1]. Only replace the passenger; the helicopter cabin, the cash, the city, the crowd, the timing and the camera stay completely unchanged. Keep everything else the same.
+
+The pet = the pet in [Image 1], in EVERY shot where the passenger shows: the same species and breed, face, eyes, ears, muzzle, fur colors, fur length and markings as in [Image 1], with the natural body volume and proportions of that animal: never flattened, squashed, stretched or merged with anything. Whether [Image 1] shows a dog, a cat or another animal, it stays that animal, sitting upright on the cream leather seat by the open door. The same pet in every frame, so its owner recognizes it at once. Never drift back to the woman: no human body, no human face, no long blonde hair, no earrings, no black suit unless [Image 1] shows them.
+
+Shot 1 [0-2.6s]: inside the helicopter cabin, a medium shot: the pet sits upright on the seat right by the open door with a pile of cash bundles in front of it, looks out over the skyline, then swipes a front paw and knocks a few bills out of the door. The face is large, sharp and clearly visible.
+Shot 2 [2.6-5.8s]: hard cut, the view through the open door: the pet's front paw reaches out and swipes bundles of bills into the wind, the bills scatter and soar away over the city far below, and the camera tilts down toward the streets. The only human in the cabin is the person filming: only one hand with the phone shows at the bottom of the frame. The paw that swipes the bills is an animal paw, never a human hand.
+Shot 3 [5.8-8.5s]: hard cut, street level, looking up: a big crowd of adults in a city street between tall buildings reaches up with both hands while the helicopter hovers in the blue sky above and the bills rain down.
+Shot 4 [8.5-10.4s]: hard cut, another angle on the crowd: people reach up, catch the falling bills and cheer.
+
+The crowd in shots 3 and 4 stays exactly as in [Video 1]: grown adults, each with their own face, never the face from [Image 1].
+
+The cash: generic banded bundles of green bills, like movie prop money. The bills stay soft, with no readable serial numbers, no portrait in focus and no other writing.
+
+No dialogue throughout the entire video. No background music.
+
+Anatomy rules: one head only, one muzzle, natural teeth and tongue. Animal paws, never human hands on the pet. Exactly one animal in the helicopter cabin. No text, no captions, no subtitles, no logos, no watermark, no readable writing on the bills or on the phone.
 ```
 

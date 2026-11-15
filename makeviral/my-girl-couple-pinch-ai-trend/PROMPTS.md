@@ -7,11 +7,11 @@ The my girl couple trend is the TikTok trend where a giant hand, held right in f
 
 ## Demo videos (CDN)
 
-- https://www.makeviral.ai/media/templates/my-girl-couple-pinch-ai-trend/original-main-v2.mp4
+- https://media.makeviral.ai/templates/my-girl-couple-pinch-ai-trend/original-main-v2.mp4
 
 ## Posters
 
-- https://www.makeviral.ai/media/templates/my-girl-couple-pinch-ai-trend/original-main-v1.jpg
+- https://media.makeviral.ai/templates/my-girl-couple-pinch-ai-trend/original-main-v1.jpg
 
 ## Prompts
 

@@ -7,11 +7,11 @@ The Island Boy meme is the 2021 pool clip of two twins singing "I'm an island bo
 
 ## Demo videos (CDN)
 
-- https://www.makeviral.ai/media/templates/island-boy-ai-trend/original-duo-v2.mp4
+- https://media.makeviral.ai/templates/island-boy-ai-trend/original-duo-v2.mp4
 
 ## Posters
 
-- https://www.makeviral.ai/media/templates/island-boy-ai-trend/original-duo-v1.jpg
+- https://media.makeviral.ai/templates/island-boy-ai-trend/original-duo-v1.jpg
 
 ## Prompts
 

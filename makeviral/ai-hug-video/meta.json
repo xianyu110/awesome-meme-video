@@ -10,11 +10,11 @@
   "published": "2026-09-30",
   "credits": 103,
   "demo_videos": [
-    "https://www.makeviral.ai/media/templates/ai-hug-video/example.mp4"
+    "https://media.makeviral.ai/templates/ai-hug-video/example.mp4"
   ],
   "posters": [
-    "https://www.makeviral.ai/media/templates/ai-hug-video/example-input.jpg",
-    "https://www.makeviral.ai/media/templates/ai-hug-video/example-poster.jpg"
+    "https://media.makeviral.ai/templates/ai-hug-video/example-input.jpg",
+    "https://media.makeviral.ai/templates/ai-hug-video/example-poster.jpg"
   ],
   "prompts": [
     {
@@ -46,5 +46,5 @@
     "Make your own AI Hug video"
   ],
   "prompt_count": 2,
-  "scraped_at": "2026-11-14"
+  "scraped_at": "2026-11-15"
 }

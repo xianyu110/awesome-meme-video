@@ -7,11 +7,11 @@ Masha and the Bear AI clips turn the little cartoon girl into a meme, and Rich M
 
 ## Demo videos (CDN)
 
-- https://www.makeviral.ai/media/templates/masha-and-the-bear-ai-trend/original-main-v2.mp4
+- https://media.makeviral.ai/templates/masha-and-the-bear-ai-trend/original-main-v2.mp4
 
 ## Posters
 
-- https://www.makeviral.ai/media/templates/masha-and-the-bear-ai-trend/original-main-v1.jpg
+- https://media.makeviral.ai/templates/masha-and-the-bear-ai-trend/original-main-v1.jpg
 
 ## Prompts
 

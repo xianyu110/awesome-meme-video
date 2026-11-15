@@ -10,12 +10,12 @@
   "published": "2026-11-02",
   "credits": 228,
   "demo_videos": [
-    "https://www.makeviral.ai/media/templates/first-time-in-a-fancy-cafe-ai-trend/original-lee-v2.mp4",
-    "https://www.makeviral.ai/media/templates/first-time-in-a-fancy-cafe-ai-trend/original-rupert-v2.mp4"
+    "https://media.makeviral.ai/templates/first-time-in-a-fancy-cafe-ai-trend/original-lee-v2.mp4",
+    "https://media.makeviral.ai/templates/first-time-in-a-fancy-cafe-ai-trend/original-rupert-v2.mp4"
   ],
   "posters": [
-    "https://www.makeviral.ai/media/templates/first-time-in-a-fancy-cafe-ai-trend/original-lee-v1.jpg",
-    "https://www.makeviral.ai/media/templates/first-time-in-a-fancy-cafe-ai-trend/original-rupert-v1.jpg"
+    "https://media.makeviral.ai/templates/first-time-in-a-fancy-cafe-ai-trend/original-lee-v1.jpg",
+    "https://media.makeviral.ai/templates/first-time-in-a-fancy-cafe-ai-trend/original-rupert-v1.jpg"
   ],
   "prompts": [
     {
@@ -65,5 +65,5 @@
     "Make your own First Time Fancy Cafe video"
   ],
   "prompt_count": 5,
-  "scraped_at": "2026-11-14"
+  "scraped_at": "2026-11-15"
 }

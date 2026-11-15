@@ -7,11 +7,11 @@ The Manhattan FPV drone trend is an AI drone video made from one photo: a first-
 
 ## Demo videos (CDN)
 
-- https://www.makeviral.ai/media/templates/manhattan-fpv-drone-ai/original-template-v1.mp4
+- https://media.makeviral.ai/templates/manhattan-fpv-drone-ai/original-template-v1.mp4
 
 ## Posters
 
-- https://www.makeviral.ai/media/templates/manhattan-fpv-drone-ai/original-template-v1.jpg
+- https://media.makeviral.ai/templates/manhattan-fpv-drone-ai/original-template-v1.jpg
 
 ## Prompts
 

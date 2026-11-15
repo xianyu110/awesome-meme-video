@@ -10,13 +10,13 @@
   "published": "2026-10-12",
   "credits": 56,
   "demo_videos": [
-    "https://www.makeviral.ai/media/templates/ai-lion-friend-video/example-wolf.mp4",
-    "https://www.makeviral.ai/media/templates/ai-lion-friend-video/original-main-v2.mp4"
+    "https://media.makeviral.ai/templates/ai-lion-friend-video/example-wolf.mp4",
+    "https://media.makeviral.ai/templates/ai-lion-friend-video/original-main-v2.mp4"
   ],
   "posters": [
-    "https://www.makeviral.ai/media/templates/ai-lion-friend-video/example-wolf-input.jpg",
-    "https://www.makeviral.ai/media/templates/ai-lion-friend-video/example-wolf-poster.jpg",
-    "https://www.makeviral.ai/media/templates/ai-lion-friend-video/original-main-v1.jpg"
+    "https://media.makeviral.ai/templates/ai-lion-friend-video/example-wolf-input.jpg",
+    "https://media.makeviral.ai/templates/ai-lion-friend-video/example-wolf-poster.jpg",
+    "https://media.makeviral.ai/templates/ai-lion-friend-video/original-main-v1.jpg"
   ],
   "prompts": [
     {
@@ -65,5 +65,5 @@
     "Make your own AI Lion Friend video"
   ],
   "prompt_count": 4,
-  "scraped_at": "2026-11-14"
+  "scraped_at": "2026-11-15"
 }

@@ -10,15 +10,15 @@
   "published": "2026-10-18",
   "credits": 152,
   "demo_videos": [
-    "https://www.makeviral.ai/media/templates/bby-wow-guy-meme-ai/example-v1.mp4",
-    "https://www.makeviral.ai/media/templates/bby-wow-guy-meme-ai/original-main-v2.mp4",
-    "https://www.makeviral.ai/media/templates/bby-wow-guy-meme-ai/original-wedding-v2.mp4"
+    "https://media.makeviral.ai/templates/bby-wow-guy-meme-ai/example-v1.mp4",
+    "https://media.makeviral.ai/templates/bby-wow-guy-meme-ai/original-main-v2.mp4",
+    "https://media.makeviral.ai/templates/bby-wow-guy-meme-ai/original-wedding-v2.mp4"
   ],
   "posters": [
-    "https://www.makeviral.ai/media/templates/bby-wow-guy-meme-ai/example-v1-input.jpg",
-    "https://www.makeviral.ai/media/templates/bby-wow-guy-meme-ai/example-v1-poster.jpg",
-    "https://www.makeviral.ai/media/templates/bby-wow-guy-meme-ai/original-main-v1.jpg",
-    "https://www.makeviral.ai/media/templates/bby-wow-guy-meme-ai/original-wedding-v1.jpg"
+    "https://media.makeviral.ai/templates/bby-wow-guy-meme-ai/example-v1-input.jpg",
+    "https://media.makeviral.ai/templates/bby-wow-guy-meme-ai/example-v1-poster.jpg",
+    "https://media.makeviral.ai/templates/bby-wow-guy-meme-ai/original-main-v1.jpg",
+    "https://media.makeviral.ai/templates/bby-wow-guy-meme-ai/original-wedding-v1.jpg"
   ],
   "prompts": [
     {
@@ -75,5 +75,5 @@
     "Make your own Bby Wow Guy video"
   ],
   "prompt_count": 6,
-  "scraped_at": "2026-11-14"
+  "scraped_at": "2026-11-15"
 }

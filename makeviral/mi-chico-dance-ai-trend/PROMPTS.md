@@ -7,17 +7,17 @@ The Mi Chico dance is the TikTok trend to DJ Goja's 2026 hit "Mi Chico", remixed
 
 ## Demo videos (CDN)
 
-- https://www.makeviral.ai/media/templates/mi-chico-dance-ai-trend/example-crew.mp4
-- https://www.makeviral.ai/media/templates/mi-chico-dance-ai-trend/example-petcrew.mp4
-- https://www.makeviral.ai/media/templates/mi-chico-dance-ai-trend/original-pet-v2.mp4
+- https://media.makeviral.ai/templates/mi-chico-dance-ai-trend/example-crew.mp4
+- https://media.makeviral.ai/templates/mi-chico-dance-ai-trend/example-petcrew.mp4
+- https://media.makeviral.ai/templates/mi-chico-dance-ai-trend/original-pet-v2.mp4
 
 ## Posters
 
-- https://www.makeviral.ai/media/templates/mi-chico-dance-ai-trend/example-crew-input.jpg
-- https://www.makeviral.ai/media/templates/mi-chico-dance-ai-trend/example-crew.jpg
-- https://www.makeviral.ai/media/templates/mi-chico-dance-ai-trend/example-petcrew-input.jpg
-- https://www.makeviral.ai/media/templates/mi-chico-dance-ai-trend/example-petcrew-poster.jpg
-- https://www.makeviral.ai/media/templates/mi-chico-dance-ai-trend/original-pet-v1.jpg
+- https://media.makeviral.ai/templates/mi-chico-dance-ai-trend/example-crew-input.jpg
+- https://media.makeviral.ai/templates/mi-chico-dance-ai-trend/example-crew.jpg
+- https://media.makeviral.ai/templates/mi-chico-dance-ai-trend/example-petcrew-input.jpg
+- https://media.makeviral.ai/templates/mi-chico-dance-ai-trend/example-petcrew-poster.jpg
+- https://media.makeviral.ai/templates/mi-chico-dance-ai-trend/original-pet-v1.jpg
 
 ## Prompts
 

@@ -7,11 +7,11 @@ The escalator outfit change is the fashion clip filmed from straight above a lon
 
 ## Demo videos (CDN)
 
-- https://www.makeviral.ai/media/templates/escalator-outfit-change-ai-trend/original-main-v2.mp4
+- https://media.makeviral.ai/templates/escalator-outfit-change-ai-trend/original-main-v2.mp4
 
 ## Posters
 
-- https://www.makeviral.ai/media/templates/escalator-outfit-change-ai-trend/original-main-v1.jpg
+- https://media.makeviral.ai/templates/escalator-outfit-change-ai-trend/original-main-v1.jpg
 
 ## Prompts
 

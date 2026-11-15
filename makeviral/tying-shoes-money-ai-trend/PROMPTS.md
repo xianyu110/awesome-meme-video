@@ -7,11 +7,11 @@ The tying my shoes meme, also called the Tip Cup trend or the asking for money m
 
 ## Demo videos (CDN)
 
-- https://www.makeviral.ai/media/templates/tying-shoes-money-ai-trend/original-pet-v2.mp4
+- https://media.makeviral.ai/templates/tying-shoes-money-ai-trend/original-pet-v2.mp4
 
 ## Posters
 
-- https://www.makeviral.ai/media/templates/tying-shoes-money-ai-trend/original-pet-v1.jpg
+- https://media.makeviral.ai/templates/tying-shoes-money-ai-trend/original-pet-v1.jpg
 
 ## Prompts
 

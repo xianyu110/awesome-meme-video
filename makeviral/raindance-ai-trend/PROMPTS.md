@@ -7,13 +7,13 @@ The Raindance AI trend recasts the pier scene from the "Raindance" video by Dave
 
 ## Demo videos (CDN)
 
-- https://www.makeviral.ai/media/templates/raindance-ai-trend/original-main-v2.mp4
-- https://www.makeviral.ai/media/templates/raindance-ai-trend/original-pets-v2.mp4
+- https://media.makeviral.ai/templates/raindance-ai-trend/original-main-v2.mp4
+- https://media.makeviral.ai/templates/raindance-ai-trend/original-pets-v2.mp4
 
 ## Posters
 
-- https://www.makeviral.ai/media/templates/raindance-ai-trend/original-main-v1.jpg
-- https://www.makeviral.ai/media/templates/raindance-ai-trend/original-pets-v1.jpg
+- https://media.makeviral.ai/templates/raindance-ai-trend/original-main-v1.jpg
+- https://media.makeviral.ai/templates/raindance-ai-trend/original-pets-v1.jpg
 
 ## Prompts
 

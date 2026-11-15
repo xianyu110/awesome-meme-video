@@ -7,11 +7,11 @@ The Teach Me How to Dougie dance clone trend is a reel where a guy eats tacos in
 
 ## Demo videos (CDN)
 
-- https://www.makeviral.ai/media/templates/teach-me-how-to-dougie-ai-trend/original-main-v2.mp4
+- https://media.makeviral.ai/templates/teach-me-how-to-dougie-ai-trend/original-main-v2.mp4
 
 ## Posters
 
-- https://www.makeviral.ai/media/templates/teach-me-how-to-dougie-ai-trend/original-main-v1.jpg
+- https://media.makeviral.ai/templates/teach-me-how-to-dougie-ai-trend/original-main-v1.jpg
 
 ## Prompts
 

@@ -10,12 +10,12 @@
   "published": "2026-10-17",
   "credits": 52,
   "demo_videos": [
-    "https://www.makeviral.ai/media/templates/shan-shen-bu-ai-dance/original-pet-v2.mp4",
-    "https://www.makeviral.ai/media/templates/shan-shen-bu-ai-dance/original-shrimp-v2.mp4"
+    "https://media.makeviral.ai/templates/shan-shen-bu-ai-dance/original-pet-v2.mp4",
+    "https://media.makeviral.ai/templates/shan-shen-bu-ai-dance/original-shrimp-v2.mp4"
   ],
   "posters": [
-    "https://www.makeviral.ai/media/templates/shan-shen-bu-ai-dance/original-pet-v1.jpg",
-    "https://www.makeviral.ai/media/templates/shan-shen-bu-ai-dance/original-shrimp-v1.jpg"
+    "https://media.makeviral.ai/templates/shan-shen-bu-ai-dance/original-pet-v1.jpg",
+    "https://media.makeviral.ai/templates/shan-shen-bu-ai-dance/original-shrimp-v1.jpg"
   ],
   "prompts": [
     {
@@ -44,5 +44,5 @@
     "Make your own Shan Shen Bu Dance video"
   ],
   "prompt_count": 2,
-  "scraped_at": "2026-11-14"
+  "scraped_at": "2026-11-15"
 }

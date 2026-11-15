@@ -7,11 +7,11 @@ The Angel Of My Dreams trend is the TikTok wave of angel wing reveals set to JAD
 
 ## Demo videos (CDN)
 
-- https://www.makeviral.ai/media/templates/angel-of-my-dreams-ai-trend/original-pet-v2.mp4
+- https://media.makeviral.ai/templates/angel-of-my-dreams-ai-trend/original-pet-v2.mp4
 
 ## Posters
 
-- https://www.makeviral.ai/media/templates/angel-of-my-dreams-ai-trend/original-pet-v1.jpg
+- https://media.makeviral.ai/templates/angel-of-my-dreams-ai-trend/original-pet-v1.jpg
 
 ## Prompts
 

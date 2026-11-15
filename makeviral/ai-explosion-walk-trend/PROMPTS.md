@@ -7,11 +7,11 @@ The explosion walk trend is the old action movie shot made personal: you walk ca
 
 ## Demo videos (CDN)
 
-- https://www.makeviral.ai/media/templates/ai-explosion-walk-trend/original-main-v2.mp4
+- https://media.makeviral.ai/templates/ai-explosion-walk-trend/original-main-v2.mp4
 
 ## Posters
 
-- https://www.makeviral.ai/media/templates/ai-explosion-walk-trend/original-main-v1.jpg
+- https://media.makeviral.ai/templates/ai-explosion-walk-trend/original-main-v1.jpg
 
 ## Prompts
 

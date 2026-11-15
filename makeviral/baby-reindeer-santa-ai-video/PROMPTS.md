@@ -7,12 +7,12 @@ The baby riding reindeer video is a Christmas AI trend: your little one sits on 
 
 ## Demo videos (CDN)
 
-- https://www.makeviral.ai/media/templates/baby-reindeer-santa-ai-video/example-v1.mp4
+- https://media.makeviral.ai/templates/baby-reindeer-santa-ai-video/example-v1.mp4
 
 ## Posters
 
-- https://www.makeviral.ai/media/templates/baby-reindeer-santa-ai-video/example-v1-input.jpg
-- https://www.makeviral.ai/media/templates/baby-reindeer-santa-ai-video/example-v1-poster.jpg
+- https://media.makeviral.ai/templates/baby-reindeer-santa-ai-video/example-v1-input.jpg
+- https://media.makeviral.ai/templates/baby-reindeer-santa-ai-video/example-v1-poster.jpg
 
 ## Prompts
 

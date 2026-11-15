@@ -7,15 +7,15 @@ The kung fu cat is the October 2026 TikTok trend where a cat in its owner's arms
 
 ## Demo videos (CDN)
 
-- https://www.makeviral.ai/media/templates/kung-fu-cat-ai-trend/original-ai-v2.mp4
-- https://www.makeviral.ai/media/templates/kung-fu-cat-ai-trend/original-cat-v2.mp4
-- https://www.makeviral.ai/media/templates/kung-fu-cat-ai-trend/original-dog-v2.mp4
+- https://media.makeviral.ai/templates/kung-fu-cat-ai-trend/original-ai-v2.mp4
+- https://media.makeviral.ai/templates/kung-fu-cat-ai-trend/original-cat-v2.mp4
+- https://media.makeviral.ai/templates/kung-fu-cat-ai-trend/original-dog-v2.mp4
 
 ## Posters
 
-- https://www.makeviral.ai/media/templates/kung-fu-cat-ai-trend/original-ai-v1.jpg
-- https://www.makeviral.ai/media/templates/kung-fu-cat-ai-trend/original-cat-v1.jpg
-- https://www.makeviral.ai/media/templates/kung-fu-cat-ai-trend/original-dog-v1.jpg
+- https://media.makeviral.ai/templates/kung-fu-cat-ai-trend/original-ai-v1.jpg
+- https://media.makeviral.ai/templates/kung-fu-cat-ai-trend/original-cat-v1.jpg
+- https://media.makeviral.ai/templates/kung-fu-cat-ai-trend/original-dog-v1.jpg
 
 ## Prompts
 

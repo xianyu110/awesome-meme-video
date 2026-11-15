@@ -7,11 +7,11 @@ The cat shower AI trend, also called cat bath AI or "me showering in winter", is
 
 ## Demo videos (CDN)
 
-- https://www.makeviral.ai/media/templates/cat-shower-ai-trend/original-pet-v2.mp4
+- https://media.makeviral.ai/templates/cat-shower-ai-trend/original-pet-v2.mp4
 
 ## Posters
 
-- https://www.makeviral.ai/media/templates/cat-shower-ai-trend/original-pet-v1.jpg
+- https://media.makeviral.ai/templates/cat-shower-ai-trend/original-pet-v1.jpg
 
 ## Prompts
 

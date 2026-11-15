@@ -7,21 +7,21 @@ The ghost photoshoot (also spelled ghost photo shoot) is the October trend where
 
 ## Demo videos (CDN)
 
-- https://www.makeviral.ai/media/templates/ai-ghost-photoshoot/example-friends-v2.mp4
-- https://www.makeviral.ai/media/templates/ai-ghost-photoshoot/example-pet-v2.mp4
-- https://www.makeviral.ai/media/templates/ai-ghost-photoshoot/example-reveal.mp4
-- https://www.makeviral.ai/media/templates/ai-ghost-photoshoot/example-v2.mp4
+- https://media.makeviral.ai/templates/ai-ghost-photoshoot/example-friends-v2.mp4
+- https://media.makeviral.ai/templates/ai-ghost-photoshoot/example-pet-v2.mp4
+- https://media.makeviral.ai/templates/ai-ghost-photoshoot/example-reveal.mp4
+- https://media.makeviral.ai/templates/ai-ghost-photoshoot/example-v2.mp4
 
 ## Posters
 
-- https://www.makeviral.ai/media/templates/ai-ghost-photoshoot/example-friends-v2-input.jpg
-- https://www.makeviral.ai/media/templates/ai-ghost-photoshoot/example-friends-v2-poster.jpg
-- https://www.makeviral.ai/media/templates/ai-ghost-photoshoot/example-pet-v2-input.jpg
-- https://www.makeviral.ai/media/templates/ai-ghost-photoshoot/example-pet-v2-poster.jpg
-- https://www.makeviral.ai/media/templates/ai-ghost-photoshoot/example-reveal-input.jpg
-- https://www.makeviral.ai/media/templates/ai-ghost-photoshoot/example-reveal-poster.jpg
-- https://www.makeviral.ai/media/templates/ai-ghost-photoshoot/example-v2-input.jpg
-- https://www.makeviral.ai/media/templates/ai-ghost-photoshoot/example-v2-poster.jpg
+- https://media.makeviral.ai/templates/ai-ghost-photoshoot/example-friends-v2-input.jpg
+- https://media.makeviral.ai/templates/ai-ghost-photoshoot/example-friends-v2-poster.jpg
+- https://media.makeviral.ai/templates/ai-ghost-photoshoot/example-pet-v2-input.jpg
+- https://media.makeviral.ai/templates/ai-ghost-photoshoot/example-pet-v2-poster.jpg
+- https://media.makeviral.ai/templates/ai-ghost-photoshoot/example-reveal-input.jpg
+- https://media.makeviral.ai/templates/ai-ghost-photoshoot/example-reveal-poster.jpg
+- https://media.makeviral.ai/templates/ai-ghost-photoshoot/example-v2-input.jpg
+- https://media.makeviral.ai/templates/ai-ghost-photoshoot/example-v2-poster.jpg
 
 ## Prompts
 

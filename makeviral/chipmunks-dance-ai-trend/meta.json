@@ -10,12 +10,12 @@
   "published": "2026-11-02",
   "credits": 228,
   "demo_videos": [
-    "https://www.makeviral.ai/media/templates/chipmunks-dance-ai-trend/original-first-v2.mp4",
-    "https://www.makeviral.ai/media/templates/chipmunks-dance-ai-trend/original-trio-v2.mp4"
+    "https://media.makeviral.ai/templates/chipmunks-dance-ai-trend/original-first-v2.mp4",
+    "https://media.makeviral.ai/templates/chipmunks-dance-ai-trend/original-trio-v2.mp4"
   ],
   "posters": [
-    "https://www.makeviral.ai/media/templates/chipmunks-dance-ai-trend/original-first-v1.jpg",
-    "https://www.makeviral.ai/media/templates/chipmunks-dance-ai-trend/original-trio-v1.jpg"
+    "https://media.makeviral.ai/templates/chipmunks-dance-ai-trend/original-first-v1.jpg",
+    "https://media.makeviral.ai/templates/chipmunks-dance-ai-trend/original-trio-v1.jpg"
   ],
   "prompts": [
     {
@@ -57,5 +57,5 @@
     "Make your own Chipmunks Dance video"
   ],
   "prompt_count": 4,
-  "scraped_at": "2026-11-14"
+  "scraped_at": "2026-11-15"
 }

@@ -7,12 +7,12 @@ The Leo Cheers meme, also called the Leonardo DiCaprio cheers meme or the Great 
 
 ## Demo videos (CDN)
 
-- https://www.makeviral.ai/media/templates/leo-cheers-ai-trend/example-main-v1.mp4
+- https://media.makeviral.ai/templates/leo-cheers-ai-trend/example-main-v1.mp4
 
 ## Posters
 
-- https://www.makeviral.ai/media/templates/leo-cheers-ai-trend/example-main-input.jpg
-- https://www.makeviral.ai/media/templates/leo-cheers-ai-trend/example-main-poster.jpg
+- https://media.makeviral.ai/templates/leo-cheers-ai-trend/example-main-input.jpg
+- https://media.makeviral.ai/templates/leo-cheers-ai-trend/example-main-poster.jpg
 
 ## Prompts
 

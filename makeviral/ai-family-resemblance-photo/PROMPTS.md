@@ -7,13 +7,13 @@ The split face trend is the TikTok and Instagram trend where one black-and-white
 
 ## Demo videos (CDN)
 
-- https://www.makeviral.ai/media/templates/ai-family-resemblance-photo/original-family-v2.mp4
-- https://www.makeviral.ai/media/templates/ai-family-resemblance-photo/original-main-v2.mp4
+- https://media.makeviral.ai/templates/ai-family-resemblance-photo/original-family-v2.mp4
+- https://media.makeviral.ai/templates/ai-family-resemblance-photo/original-main-v2.mp4
 
 ## Posters
 
-- https://www.makeviral.ai/media/templates/ai-family-resemblance-photo/original-family-v1.jpg
-- https://www.makeviral.ai/media/templates/ai-family-resemblance-photo/original-main-v1.jpg
+- https://media.makeviral.ai/templates/ai-family-resemblance-photo/original-family-v1.jpg
+- https://media.makeviral.ai/templates/ai-family-resemblance-photo/original-main-v1.jpg
 
 ## Prompts
 

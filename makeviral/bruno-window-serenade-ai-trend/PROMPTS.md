@@ -7,11 +7,11 @@ The Bruno Fernandes singing trend is a viral AI clip from November 2026: two Man
 
 ## Demo videos (CDN)
 
-- https://www.makeviral.ai/media/templates/bruno-window-serenade-ai-trend/original-main-v2.mp4
+- https://media.makeviral.ai/templates/bruno-window-serenade-ai-trend/original-main-v2.mp4
 
 ## Posters
 
-- https://www.makeviral.ai/media/templates/bruno-window-serenade-ai-trend/original-main-v1.jpg
+- https://media.makeviral.ai/templates/bruno-window-serenade-ai-trend/original-main-v1.jpg
 
 ## Prompts
 

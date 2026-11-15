@@ -7,13 +7,13 @@ The champagne car window trend is a night reel from a rainy highway: someone lea
 
 ## Demo videos (CDN)
 
-- https://www.makeviral.ai/media/templates/champagne-car-window-ai-trend/original-ai-v2.mp4
-- https://www.makeviral.ai/media/templates/champagne-car-window-ai-trend/original-main-v2.mp4
+- https://media.makeviral.ai/templates/champagne-car-window-ai-trend/original-ai-v2.mp4
+- https://media.makeviral.ai/templates/champagne-car-window-ai-trend/original-main-v2.mp4
 
 ## Posters
 
-- https://www.makeviral.ai/media/templates/champagne-car-window-ai-trend/original-ai-v1.jpg
-- https://www.makeviral.ai/media/templates/champagne-car-window-ai-trend/original-main-v1.jpg
+- https://media.makeviral.ai/templates/champagne-car-window-ai-trend/original-ai-v1.jpg
+- https://media.makeviral.ai/templates/champagne-car-window-ai-trend/original-main-v1.jpg
 
 ## Prompts
 

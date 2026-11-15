@@ -7,12 +7,12 @@ The Convertible Coffee Drive AI trend puts you in the driver's seat of a red lea
 
 ## Demo videos (CDN)
 
-- https://www.makeviral.ai/media/templates/convertible-coffee-drive-ai-trend/example.mp4
+- https://media.makeviral.ai/templates/convertible-coffee-drive-ai-trend/example.mp4
 
 ## Posters
 
-- https://www.makeviral.ai/media/templates/convertible-coffee-drive-ai-trend/example-input.jpg
-- https://www.makeviral.ai/media/templates/convertible-coffee-drive-ai-trend/example-poster.jpg
+- https://media.makeviral.ai/templates/convertible-coffee-drive-ai-trend/example-input.jpg
+- https://media.makeviral.ai/templates/convertible-coffee-drive-ai-trend/example-poster.jpg
 
 ## Prompts
 

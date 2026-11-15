@@ -7,11 +7,11 @@ The Catel Madatorricelli dance, also called the CATEL dance, is a short routine 
 
 ## Demo videos (CDN)
 
-- https://www.makeviral.ai/media/templates/catel-madatorricelli-ai-dance/original-main-v2.mp4
+- https://media.makeviral.ai/templates/catel-madatorricelli-ai-dance/original-main-v2.mp4
 
 ## Posters
 
-- https://www.makeviral.ai/media/templates/catel-madatorricelli-ai-dance/original-main-v1.jpg
+- https://media.makeviral.ai/templates/catel-madatorricelli-ai-dance/original-main-v1.jpg
 
 ## Prompts
 

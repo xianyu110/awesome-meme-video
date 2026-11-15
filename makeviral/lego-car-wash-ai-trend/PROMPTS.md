@@ -7,15 +7,15 @@ The Lego car wash AI trend turns a photo of your truck, car or motorbike into a 
 
 ## Demo videos (CDN)
 
-- https://www.makeviral.ai/media/templates/lego-car-wash-ai-trend/original-first-v2.mp4
-- https://www.makeviral.ai/media/templates/lego-car-wash-ai-trend/original-moto-v2.mp4
-- https://www.makeviral.ai/media/templates/lego-car-wash-ai-trend/original-truck-v2.mp4
+- https://media.makeviral.ai/templates/lego-car-wash-ai-trend/original-first-v2.mp4
+- https://media.makeviral.ai/templates/lego-car-wash-ai-trend/original-moto-v2.mp4
+- https://media.makeviral.ai/templates/lego-car-wash-ai-trend/original-truck-v2.mp4
 
 ## Posters
 
-- https://www.makeviral.ai/media/templates/lego-car-wash-ai-trend/original-first-v1.jpg
-- https://www.makeviral.ai/media/templates/lego-car-wash-ai-trend/original-moto-v1.jpg
-- https://www.makeviral.ai/media/templates/lego-car-wash-ai-trend/original-truck-v1.jpg
+- https://media.makeviral.ai/templates/lego-car-wash-ai-trend/original-first-v1.jpg
+- https://media.makeviral.ai/templates/lego-car-wash-ai-trend/original-moto-v1.jpg
+- https://media.makeviral.ai/templates/lego-car-wash-ai-trend/original-truck-v1.jpg
 
 ## Prompts
 

@@ -10,10 +10,10 @@
   "published": "2026-10-29",
   "credits": 33,
   "demo_videos": [
-    "https://www.makeviral.ai/media/templates/run-fast-ai-effect/original-things-v2.mp4"
+    "https://media.makeviral.ai/templates/run-fast-ai-effect/original-things-v2.mp4"
   ],
   "posters": [
-    "https://www.makeviral.ai/media/templates/run-fast-ai-effect/original-things-v1.jpg"
+    "https://media.makeviral.ai/templates/run-fast-ai-effect/original-things-v1.jpg"
   ],
   "prompts": [
     {
@@ -41,5 +41,5 @@
     "Make your own Run Fast AI video"
   ],
   "prompt_count": 2,
-  "scraped_at": "2026-11-14"
+  "scraped_at": "2026-11-15"
 }

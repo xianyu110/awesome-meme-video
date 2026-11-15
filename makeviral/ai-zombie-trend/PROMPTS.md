@@ -7,17 +7,17 @@ The AI zombie trend is a short love story: your partner or pet has turned into a
 
 ## Demo videos (CDN)
 
-- https://www.makeviral.ai/media/templates/ai-zombie-trend/example-cinematic-v2.mp4
-- https://www.makeviral.ai/media/templates/ai-zombie-trend/example-pet.mp4
-- https://www.makeviral.ai/media/templates/ai-zombie-trend/example.mp4
+- https://media.makeviral.ai/templates/ai-zombie-trend/example-cinematic-v2.mp4
+- https://media.makeviral.ai/templates/ai-zombie-trend/example-pet.mp4
+- https://media.makeviral.ai/templates/ai-zombie-trend/example.mp4
 
 ## Posters
 
-- https://www.makeviral.ai/media/templates/ai-zombie-trend/example-cinematic-v2.jpg
-- https://www.makeviral.ai/media/templates/ai-zombie-trend/example-input.jpg
-- https://www.makeviral.ai/media/templates/ai-zombie-trend/example-pet-input.jpg
-- https://www.makeviral.ai/media/templates/ai-zombie-trend/example-pet-poster.jpg
-- https://www.makeviral.ai/media/templates/ai-zombie-trend/example-poster.jpg
+- https://media.makeviral.ai/templates/ai-zombie-trend/example-cinematic-v2.jpg
+- https://media.makeviral.ai/templates/ai-zombie-trend/example-input.jpg
+- https://media.makeviral.ai/templates/ai-zombie-trend/example-pet-input.jpg
+- https://media.makeviral.ai/templates/ai-zombie-trend/example-pet-poster.jpg
+- https://media.makeviral.ai/templates/ai-zombie-trend/example-poster.jpg
 
 ## Prompts
 

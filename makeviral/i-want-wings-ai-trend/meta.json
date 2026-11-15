@@ -6,14 +6,14 @@
   "url": "https://www.makeviral.ai/templates/i-want-wings-ai-trend",
   "markdown_url": "https://www.makeviral.ai/templates/i-want-wings-ai-trend.md",
   "blurb": "The I want wings trend is a TikTok glow-up meme: a \"before\" photo with a cockroach sticker and \"Eww, squish it\", a black slide with a butterfly, then a glowed-up \"after\" photo with a butterfly sticker and \"Be gentle\", to the line \"In that case, I want wings\".",
-  "updated": "2026-11-06",
+  "updated": "2026-11-14",
   "published": "2026-11-06",
   "credits": 3,
   "demo_videos": [
-    "https://www.makeviral.ai/media/templates/i-want-wings-ai-trend/original-carousel-v2.mp4"
+    "https://media.makeviral.ai/templates/i-want-wings-ai-trend/original-carousel-v2.mp4"
   ],
   "posters": [
-    "https://www.makeviral.ai/media/templates/i-want-wings-ai-trend/original-carousel-v1.jpg"
+    "https://media.makeviral.ai/templates/i-want-wings-ai-trend/original-carousel-v1.jpg"
   ],
   "prompts": [
     {
@@ -52,5 +52,5 @@
     "Make your own I Want Wings photo"
   ],
   "prompt_count": 4,
-  "scraped_at": "2026-11-14"
+  "scraped_at": "2026-11-15"
 }

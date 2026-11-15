@@ -7,13 +7,13 @@ Turning my mom into me is the TikTok trend where a mom walks toward the camera i
 
 ## Demo videos (CDN)
 
-- https://www.makeviral.ai/media/templates/turning-my-mom-into-me-ai-trend/original-first-v2.mp4
-- https://www.makeviral.ai/media/templates/turning-my-mom-into-me-ai-trend/original-main-v2.mp4
+- https://media.makeviral.ai/templates/turning-my-mom-into-me-ai-trend/original-first-v2.mp4
+- https://media.makeviral.ai/templates/turning-my-mom-into-me-ai-trend/original-main-v2.mp4
 
 ## Posters
 
-- https://www.makeviral.ai/media/templates/turning-my-mom-into-me-ai-trend/original-first-v1.jpg
-- https://www.makeviral.ai/media/templates/turning-my-mom-into-me-ai-trend/original-main-v1.jpg
+- https://media.makeviral.ai/templates/turning-my-mom-into-me-ai-trend/original-first-v1.jpg
+- https://media.makeviral.ai/templates/turning-my-mom-into-me-ai-trend/original-main-v1.jpg
 
 ## Prompts
 

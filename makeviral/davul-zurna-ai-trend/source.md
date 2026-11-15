@@ -3,7 +3,7 @@
 > The davul zurna yapay zeka trend puts a new face on a real Turkish clip: a man dances between a zurna player and a davul player in a stove maker's workshop, walks to the camera and sings into it.
 
 Canonical: https://www.makeviral.ai/templates/davul-zurna-ai-trend
-Updated: 2026-11-12
+Updated: 2026-11-14
 Published: 2026-11-12
 Author: MakeViral Team (https://www.makeviral.ai/about)
 Publisher: MakeViral (https://www.makeviral.ai)
@@ -12,11 +12,11 @@ The **davul zurna yapay zeka** trend puts a new face on a real Turkish clip: a m
 
 You dance between a zurna player and a davul player in a big workshop, walk up to the camera, sing right into it and walk back with your arms up. One photo, three for the whole band, or your pet. 15 seconds, with the live davul and zurna.
 
-Also called: Liderler tek bir konuda anlaştı, Davul zurna çalınca herkes bizden, The warehouse davul and zurna dance.
+Also called: Liderler tek bir konuda anlaştı, Davul zurna çalınca herkes bizden, The warehouse davul and zurna dance, The saz workshop davul and zurna dance.
 
 **Make it now:** [Make this video](https://www.makeviral.ai/templates/davul-zurna-ai-trend/create). 1 photo · 15 s · 9:16 with sound · 228 credits, charged once · ready in up to several minutes · no prompt to write.
 
-Keyword: davul zurna yapay zeka. Also answers: davul zurna akımı, liderler davul zurna, davul zurna ai, köprünün altı davul zurna, davul zurna akımı nasıl yapılır, yapay zeka davul zurna videosu, muharrem usta davul zurna, davul zurna ai trend, kim jong un davul zurna, davul zurna dance, davul zurna videosu, davul zurna trend, davul zurna oyun havası, davul zurna halay, turkish davul zurna, davul and zurna, köprünün altı, putin zurna trump davul, davul zurna yapay zeka nasıl yapılır, depoda davul zurna.
+Keyword: davul zurna yapay zeka. Also answers: davul zurna akımı, liderler davul zurna, davul zurna ai, köprünün altı davul zurna, davul zurna akımı nasıl yapılır, yapay zeka davul zurna videosu, muharrem usta davul zurna, davul zurna ai trend, kim jong un davul zurna, davul zurna dance, davul zurna videosu, davul zurna trend, davul zurna oyun havası, davul zurna halay, turkish davul zurna, davul and zurna, köprünün altı, putin zurna trump davul, davul zurna yapay zeka nasıl yapılır, depoda davul zurna, saz atölyesi davul zurna, oyun havası yapay zeka, yapay zeka oyun havası oynamak, oyun havası akımı.
 
 ## What is the Davul Zurna Dance trend, and where did it start?
 
@@ -37,8 +37,8 @@ The AI wave came a week later. On 5 November @sinandoqu put the faces of world l
 This is the real clip the trend copies, Muharrem Usta's own reel, in full with its live sound. We cut off a song-title sticker at the bottom, so it plays in a vertical frame with black bars. Your video copies 15 seconds of it.
 
 - **Example 1** (41 s, 9:16 MP4 with sound): The original reel by @muharrem_ates1919 (29 Oct 2026, 36,439 Instagram plays): he dances between the zurna and the davul in his workshop, walks to the camera, sings "köprünün altı" and walks back with his arms up. Solo puts you in his place.
-  - Video: https://www.makeviral.ai/media/templates/davul-zurna-ai-trend/original-full-v2.mp4
-  - Poster: https://www.makeviral.ai/media/templates/davul-zurna-ai-trend/original-full-v1.jpg
+  - Video: https://media.makeviral.ai/templates/davul-zurna-ai-trend/original-full-v2.mp4
+  - Poster: https://media.makeviral.ai/templates/davul-zurna-ai-trend/original-full-v1.jpg
 
 ## How to make the Davul Zurna Dance video on MakeViral
 
@@ -139,6 +139,64 @@ Anatomy rules: one head only, one muzzle, natural teeth and tongue. Two front pa
 
 One-tap version of this variant: https://www.makeviral.ai/templates/davul-zurna-ai-trend/create?variant=pet
 
+#### Variant: Saz workshop
+
+Settings: 3 photos (the dancer, in the middle + the zurna player, on the right + the davul player, on the left) · Seedance 2.5 · 15 s · 720p · 9:16 · with sound · 189 credits in one tap.
+
+1. The video prompt is filled in. Settings: Seedance 2.5, 15 s, 720p, 9:16, sound on. The video prompt:
+
+   ```text
+   A real phone video, one continuous take, vertical 9:16, at night inside a small saz workshop: many long-necked wooden saz bodies hang in rows on a gray wall, wooden beams under a low ceiling, warm bare bulbs, a gray concrete floor, two low wooden stools. The phone is held still at chest height a few meters away and shows all three men from the knees up, the davul player on the LEFT with a big drum on a strap, the zurna player on the RIGHT playing a wooden zurna, and the dancer in the MIDDLE between them.
+
+The dancer in the MIDDLE = the person in [Image 1]. The zurna player on the RIGHT = the person in [Image 2]. The davul player on the LEFT = the person in [Image 3]. For each of them, in EVERY frame, copy the exact face from their own photo: face shape, eye color and eye shape, eyebrows, nose, mouth, skin tone, age, hair color, hair length and hairstyle, and any beard, moustache, glasses or freckles exactly as in the photo. Each wears the clothes and keeps the age of their own photo; invent any part of the body a photo does not show. The faces are fully locked by place: [Image 1] in the middle, [Image 2] on the right, [Image 3] on the left. Never blend their faces, never swap places. Each face stays the same from the first frame to the last, so their friends recognize them at once, also in the close shout at the end. If an image shows an animal, that person is that animal standing upright, with its own face, fur and markings and the natural body proportions of that animal, not a person.
+
+[Image 1], [Image 2] and [Image 3] are the sole face references, one each. The workshop, the instruments and the moves come from this text.
+
+The performance, second by second:
+00:00-00:04: the dancer sits on the low wooden stool in the middle, sways to the drum and raises both arms high, shoulders shaking, a big grin.
+00:04-00:06: the dancer jumps up from the stool with both arms up and gives a loud joyful shout.
+00:06-00:10: the dancer dances in a small circle on the spot, arms up, snapping the fingers, turning once with the back to the camera.
+00:10-00:15: the dancer turns to face the camera, takes one step toward it, leans in and shouts at the camera with the mouth wide open, one arm up, the face big and sharp in the frame.
+The davul player beats the drum and the zurna player plays the zurna the whole time, smiling at the dancer.
+
+Sound: a loud, live davul and zurna dance tune (a Turkish oyun havasi) from the first frame to the last, recorded in the small room: the deep booming drum beat and the bright, piercing zurna melody. At 00:04 and from 00:10 the dancer gives loud, wordless joyful shouts ("Heyyy!"). No dialogue, no sung words, no other music.
+
+Real live-action phone footage, warm light, clear facial features, no distortion. One head only on each body; a face never appears on hands, clothes, the drum or the saz bodies. Five fingers on each hand. Exactly three people in the video. No text, no captions, no stickers, no logos, no watermark.
+   ```
+
+2. Press Generate, then download the 9:16 MP4.
+
+One-tap version of this variant: https://www.makeviral.ai/templates/davul-zurna-ai-trend/create?variant=saz
+
+#### Variant: Saz solo
+
+Settings: 1 photo (you, the dancer, face clear) · Seedance 2.5 · 15 s · 720p · 9:16 · with sound · 189 credits in one tap.
+
+1. The video prompt is filled in. Settings: Seedance 2.5, 15 s, 720p, 9:16, sound on. The video prompt:
+
+   ```text
+   A real phone video, one continuous take, vertical 9:16, at night inside a small saz workshop: many long-necked wooden saz bodies hang in rows on a gray wall, wooden beams under a low ceiling, warm bare bulbs, a gray concrete floor, two low wooden stools. The phone is held still at chest height a few meters away and shows all three men from the knees up, the davul player on the LEFT with a big drum on a strap, the zurna player on the RIGHT playing a wooden zurna, and the dancer in the MIDDLE between them.
+
+The dancer in the MIDDLE = the person in [Image 1], in EVERY frame: copy the exact face from [Image 1]: face shape, eye color and eye shape, eyebrows, nose, mouth, skin tone, age, hair color, hair length and hairstyle, and any beard, moustache, glasses or freckles exactly as in the photo. The dancer wears the clothes from [Image 1]; if [Image 1] shows only the head or the upper body, invent the rest so it matches naturally. The same real person in every frame, from the first second to the last, so their friends instantly recognize them, also in the close shout at the end. Never morph. If [Image 1] shows an animal, the dancer is that animal standing upright on its hind legs, with its own face, fur and markings and the natural body volume and proportions of that animal: never flattened, squashed, stretched or merged with anything.
+
+[Image 1] is the sole face reference for the dancer. The two players are two other adult men in plain dark shirts with their own ordinary faces, never a copy of [Image 1].
+
+The performance, second by second:
+00:00-00:04: the dancer sits on the low wooden stool in the middle, sways to the drum and raises both arms high, shoulders shaking, a big grin.
+00:04-00:06: the dancer jumps up from the stool with both arms up and gives a loud joyful shout.
+00:06-00:10: the dancer dances in a small circle on the spot, arms up, snapping the fingers, turning once with the back to the camera.
+00:10-00:15: the dancer turns to face the camera, takes one step toward it, leans in and shouts at the camera with the mouth wide open, one arm up, the face big and sharp in the frame.
+The davul player beats the drum and the zurna player plays the zurna the whole time, smiling at the dancer.
+
+Sound: a loud, live davul and zurna dance tune (a Turkish oyun havasi) from the first frame to the last, recorded in the small room: the deep booming drum beat and the bright, piercing zurna melody. At 00:04 and from 00:10 the dancer gives loud, wordless joyful shouts ("Heyyy!"). No dialogue, no sung words, no other music.
+
+Real live-action phone footage, warm light, clear facial features, no distortion. One head only on each body; a face never appears on hands, clothes, the drum or the saz bodies. Five fingers on each hand. Exactly three people in the video. No text, no captions, no stickers, no logos, no watermark.
+   ```
+
+2. Press Generate, then download the 9:16 MP4.
+
+One-tap version of this variant: https://www.makeviral.ai/templates/davul-zurna-ai-trend/create?variant=saz-solo
+
 ### Which photo works best?
 
 Upload **one photo** for Solo or Pet, **three** for Trio.
@@ -177,6 +235,7 @@ Every version copies the same 15 seconds of Muharrem Usta's real clip, one conti
 - **Solo** (1 photo): you are the dancer who walks up and sings into the camera. The two players stay as they are in the clip.
 - **Trio** (3 photos): the whole band changes, like the liderler davul zurna clip: you dance, one friend plays the zurna, another beats the davul. Tag them when you post.
 - **Pet** (1 photo): your dog or cat dances on its hind legs between the players, walks up to the camera and "sings".
+- **Saz workshop** (3 photos, or 1 for Saz solo): the second scene AI video apps started to advertise in Turkey on 11 November 2026. Photo 1 sits on a stool between the davul and the zurna in a saz workshop at night, jumps up, dances and shouts at the camera; photo 2 plays the zurna, photo 3 the davul. Unlike the other versions, it is made from your photos and not from a real clip, so the davul and zurna you hear are made with the video, not taken from the original.
 
 **Caption ideas:** "Davul zurna çalınca herkes bizden", "Düğünde ben", "Maaş yatınca", "Ekip tamam". Or write your own.
 
@@ -247,6 +306,10 @@ No. It started in Turkey, but the joke needs no words: a Turkish davul zurna dan
 
 No. Your face goes into the real clip by AI from one still photo, and nobody filmed you there. Keep the AI label on when you post it.
 
+### Is there a saz atölyesi davul zurna version, the oyun havası yapay zeka clip from the ads?
+
+Yes. Pick Saz workshop and add three photos (the dancer, the zurna player, the davul player), or Saz solo with one. The dancer sits in a saz workshop at night, jumps up to the oyun havası, dances and shouts at the camera. It is the same oyun havası akımı for anyone who wants yapay zeka oyun havası oynamak with friends: 15 seconds, vertical, made from your photos with a live-sounding davul and zurna.
+
 ### Does it cost credits?
 
 Yes. Each video costs credits, and the create page shows the exact price on the Generate button before you spend anything. If a video fails, the credits come back.
@@ -275,12 +338,12 @@ On MakeViral it works in the browser: add your photo on the create page and pres
 
 ## New AI video trends this week
 
-- [AI Cat Gym Video: Put Your Pet on the Air Walker](https://www.makeviral.ai/templates/ai-cat-gym-video): Add one photo, and your cat or dog stands upright on an outdoor air walker, legs swinging out of control, until it slips off and tumbles to the ground, in the same take as the viral clip, with its original sound. You can take the fall yourself, too.
-- [Jensen Huang AI Video: Take the Wheel Next to the Nvidia CEO](https://www.makeviral.ai/templates/jensen-huang-ai-video): The car clip that started the Jensen Huang AI memes, with you at the wheel. Add one photo, and you (or your pet) drive the Nvidia CEO in his black leather jacket, with the clip's own sound.
-- [Cat Shower AI: Dodge the Water, Dive Under the Blanket](https://www.makeviral.ai/templates/cat-shower-ai-trend): The cat scoops the water, pours it over its head and leans away so not one drop hits it. Then it shivers and runs to bed. Add one photo, and you or your pet take the cat's place, with the trend's own sound.
-- [Tying My Shoes Meme: Put Yourself Behind the Tip Cup](https://www.makeviral.ai/templates/tying-shoes-money-ai-trend): You put your cup down to tie your shoe, and people start dropping cash in it. Add one photo, and you or your pet star in the viral clip, grin and all, with its original sound.
-- [MobLand Dance AI: Do Paul's Dance From One Photo](https://www.makeviral.ai/templates/mobland-paul-dance-ai): Lean in to the camera, step back, then the knee lifts, the little kicks, the shrugs and the hand flicks, with a straight face that keeps breaking into a grin. Add one photo of you or your pet and get the 10 second clip with the music.
-- [Bad Aim Edit AI Trend: Miss the Target, Then Own the Office](https://www.makeviral.ai/templates/bad-aim-edit-ai-trend): You try archery in a grass field and miss the flying target badly. Then a hard cut: a cool black and white office edit in black fight gloves, with a mug, a shh and a walk out the door. Add one photo of you or your pet.
+- [Never Let Her Pay: Pay for Dinner With a Sponge](https://www.makeviral.ai/templates/never-let-her-pay-ai-trend): "I got this." Add one photo, and you play the gentleman in the white dinner jacket who stops his date from paying, opens his pouch to show a kitchen sponge and gets walked to the kitchen to wash the dishes. With the clip's own sound.
+- [Snowman Dance AI: Do the Viral Sia Couple Dance From Two Photos](https://www.makeviral.ai/templates/snowman-dance-ai-trend): Hands behind your backs, a spin under the arm, a quick twirl around each other, and then one of you jumps on the other. Add a photo of you and one of your partner, or of two pets, and get the whole Snowman dance with the song.
+- [Self Hug Sketch: A Giant Pencil Drawing of You Hugs You](https://www.makeviral.ai/templates/self-hug-sketch-ai-trend): Add one photo. You lean on a grey wall while a huge black-and-white pencil sketch of you, drawn on the wall, wraps its arms around you, with "Embrace of my own self" written beside you.
+- [Need for Speed AI Trend: Your Car in the Movie Scene](https://www.makeviral.ai/templates/need-for-speed-ai-trend): Add one photo of your car or truck. AI puts it in the trend's movie-style street scene: it rolls through town, spins burnouts in thick tire smoke while people watch, and rolls away, with the trend's own sound.
+- [Tweenslop AI: Turn One Photo Into a Tweenslop Animation](https://www.makeviral.ai/templates/tweenslop-ai-trend): Your photo becomes a flat cut-out that zooms, squashes, spins and flies with a rainbow trail on every beat of a Brazilian funk track, with white, pink, purple and green flashes. You, your pet or any object.
+- [We Don't Talk Anymore Dance: Do the Viral Freestyle From One Photo](https://www.makeviral.ai/templates/we-dont-talk-anymore-dance-ai-trend): The sped-up "We Don't Talk Anymore" freestyle is all over TikTok. Add one photo, and you dance it on the trend's stage, barefoot on a driveway at night with your shoes in one hand, or your pet takes the stage.
 
 ## Make your own Davul Zurna Dance video
 

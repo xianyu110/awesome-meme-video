@@ -7,12 +7,12 @@ The baby born with mustache meme is a hospital clip of a newborn baby with musta
 
 ## Demo videos (CDN)
 
-- https://www.makeviral.ai/media/templates/baby-mustache-ai-trend/example-v1.mp4
+- https://media.makeviral.ai/templates/baby-mustache-ai-trend/example-v1.mp4
 
 ## Posters
 
-- https://www.makeviral.ai/media/templates/baby-mustache-ai-trend/example-v1-input.jpg
-- https://www.makeviral.ai/media/templates/baby-mustache-ai-trend/example-v1-poster.jpg
+- https://media.makeviral.ai/templates/baby-mustache-ai-trend/example-v1-input.jpg
+- https://media.makeviral.ai/templates/baby-mustache-ai-trend/example-v1-poster.jpg
 
 ## Prompts
 

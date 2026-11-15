@@ -10,19 +10,19 @@
   "published": "2026-09-30",
   "credits": 228,
   "demo_videos": [
-    "https://www.makeviral.ai/media/templates/ai-hotel-lobby-trend/example-pets.mp4",
-    "https://www.makeviral.ai/media/templates/ai-hotel-lobby-trend/example-tall-v2-original.mp4",
-    "https://www.makeviral.ai/media/templates/ai-hotel-lobby-trend/example.mp4",
-    "https://www.makeviral.ai/media/templates/ai-hotel-lobby-trend/original-pets-original-v2.mp4"
+    "https://media.makeviral.ai/templates/ai-hotel-lobby-trend/example-pets.mp4",
+    "https://media.makeviral.ai/templates/ai-hotel-lobby-trend/example-tall-v2-original.mp4",
+    "https://media.makeviral.ai/templates/ai-hotel-lobby-trend/example.mp4",
+    "https://media.makeviral.ai/templates/ai-hotel-lobby-trend/original-pets-original-v2.mp4"
   ],
   "posters": [
-    "https://www.makeviral.ai/media/templates/ai-hotel-lobby-trend/example-input.jpg",
-    "https://www.makeviral.ai/media/templates/ai-hotel-lobby-trend/example-pets-input.jpg",
-    "https://www.makeviral.ai/media/templates/ai-hotel-lobby-trend/example-pets-poster.jpg",
-    "https://www.makeviral.ai/media/templates/ai-hotel-lobby-trend/example-poster.jpg",
-    "https://www.makeviral.ai/media/templates/ai-hotel-lobby-trend/example-tall-v2-original-input.jpg",
-    "https://www.makeviral.ai/media/templates/ai-hotel-lobby-trend/example-tall-v2-original-poster.jpg",
-    "https://www.makeviral.ai/media/templates/ai-hotel-lobby-trend/original-pets-original-v1.jpg"
+    "https://media.makeviral.ai/templates/ai-hotel-lobby-trend/example-input.jpg",
+    "https://media.makeviral.ai/templates/ai-hotel-lobby-trend/example-pets-input.jpg",
+    "https://media.makeviral.ai/templates/ai-hotel-lobby-trend/example-pets-poster.jpg",
+    "https://media.makeviral.ai/templates/ai-hotel-lobby-trend/example-poster.jpg",
+    "https://media.makeviral.ai/templates/ai-hotel-lobby-trend/example-tall-v2-original-input.jpg",
+    "https://media.makeviral.ai/templates/ai-hotel-lobby-trend/example-tall-v2-original-poster.jpg",
+    "https://media.makeviral.ai/templates/ai-hotel-lobby-trend/original-pets-original-v1.jpg"
   ],
   "prompts": [
     {
@@ -68,5 +68,5 @@
     "Make your own Hotel Lobby video"
   ],
   "prompt_count": 5,
-  "scraped_at": "2026-11-14"
+  "scraped_at": "2026-11-15"
 }

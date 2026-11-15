@@ -10,10 +10,10 @@
   "published": "2026-10-27",
   "credits": 228,
   "demo_videos": [
-    "https://www.makeviral.ai/media/templates/iphone-kupi-dance-ai-trend/original-main-v4.mp4"
+    "https://media.makeviral.ai/templates/iphone-kupi-dance-ai-trend/original-main-v4.mp4"
   ],
   "posters": [
-    "https://www.makeviral.ai/media/templates/iphone-kupi-dance-ai-trend/original-main-v1.jpg"
+    "https://media.makeviral.ai/templates/iphone-kupi-dance-ai-trend/original-main-v1.jpg"
   ],
   "prompts": [
     {
@@ -36,5 +36,5 @@
     "Make your own iPhone Kupi Dance AI video"
   ],
   "prompt_count": 1,
-  "scraped_at": "2026-11-14"
+  "scraped_at": "2026-11-15"
 }

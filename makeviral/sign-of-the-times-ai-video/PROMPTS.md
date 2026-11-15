@@ -7,13 +7,13 @@ The Sign of the Times AI video puts you and someone you love at the end of the w
 
 ## Demo videos (CDN)
 
-- https://www.makeviral.ai/media/templates/sign-of-the-times-ai-video/original-couple-v2.mp4
-- https://www.makeviral.ai/media/templates/sign-of-the-times-ai-video/original-tall-couple-v2.mp4
+- https://media.makeviral.ai/templates/sign-of-the-times-ai-video/original-couple-v2.mp4
+- https://media.makeviral.ai/templates/sign-of-the-times-ai-video/original-tall-couple-v2.mp4
 
 ## Posters
 
-- https://www.makeviral.ai/media/templates/sign-of-the-times-ai-video/original-couple-v1.jpg
-- https://www.makeviral.ai/media/templates/sign-of-the-times-ai-video/original-tall-couple-v1.jpg
+- https://media.makeviral.ai/templates/sign-of-the-times-ai-video/original-couple-v1.jpg
+- https://media.makeviral.ai/templates/sign-of-the-times-ai-video/original-tall-couple-v1.jpg
 
 ## Prompts
 

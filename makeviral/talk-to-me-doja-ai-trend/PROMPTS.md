@@ -7,11 +7,11 @@ The Talk to me Doja trend is a TikTok meme from November 2026: people press both
 
 ## Demo videos (CDN)
 
-- https://www.makeviral.ai/media/templates/talk-to-me-doja-ai-trend/original-main-v2.mp4
+- https://media.makeviral.ai/templates/talk-to-me-doja-ai-trend/original-main-v2.mp4
 
 ## Posters
 
-- https://www.makeviral.ai/media/templates/talk-to-me-doja-ai-trend/original-main-v1.jpg
+- https://media.makeviral.ai/templates/talk-to-me-doja-ai-trend/original-main-v1.jpg
 
 ## Prompts
 

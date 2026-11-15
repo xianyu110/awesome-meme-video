@@ -10,14 +10,14 @@
   "published": "2026-10-08",
   "credits": 152,
   "demo_videos": [
-    "https://www.makeviral.ai/media/templates/knight-standing-ai-video/example-giant.mp4",
-    "https://www.makeviral.ai/media/templates/knight-standing-ai-video/example.mp4"
+    "https://media.makeviral.ai/templates/knight-standing-ai-video/example-giant.mp4",
+    "https://media.makeviral.ai/templates/knight-standing-ai-video/example.mp4"
   ],
   "posters": [
-    "https://www.makeviral.ai/media/templates/knight-standing-ai-video/example-giant-input.jpg",
-    "https://www.makeviral.ai/media/templates/knight-standing-ai-video/example-giant-poster.jpg",
-    "https://www.makeviral.ai/media/templates/knight-standing-ai-video/example-input.jpg",
-    "https://www.makeviral.ai/media/templates/knight-standing-ai-video/example-poster.jpg"
+    "https://media.makeviral.ai/templates/knight-standing-ai-video/example-giant-input.jpg",
+    "https://media.makeviral.ai/templates/knight-standing-ai-video/example-giant-poster.jpg",
+    "https://media.makeviral.ai/templates/knight-standing-ai-video/example-input.jpg",
+    "https://media.makeviral.ai/templates/knight-standing-ai-video/example-poster.jpg"
   ],
   "prompts": [
     {
@@ -50,5 +50,5 @@
     "Make your own Knight Standing video"
   ],
   "prompt_count": 2,
-  "scraped_at": "2026-11-14"
+  "scraped_at": "2026-11-15"
 }

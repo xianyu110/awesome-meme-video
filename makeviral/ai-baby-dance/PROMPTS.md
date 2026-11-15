@@ -7,14 +7,14 @@ The AI baby dance turns one photo of your baby into a short clip where the baby 
 
 ## Demo videos (CDN)
 
-- https://www.makeviral.ai/media/templates/ai-baby-dance/example-v1-toc.mp4
-- https://www.makeviral.ai/media/templates/ai-baby-dance/example-v1.mp4
+- https://media.makeviral.ai/templates/ai-baby-dance/example-v1-toc.mp4
+- https://media.makeviral.ai/templates/ai-baby-dance/example-v1.mp4
 
 ## Posters
 
-- https://www.makeviral.ai/media/templates/ai-baby-dance/example-input-v1.jpg
-- https://www.makeviral.ai/media/templates/ai-baby-dance/example-v1-toc.jpg
-- https://www.makeviral.ai/media/templates/ai-baby-dance/example-v1.jpg
+- https://media.makeviral.ai/templates/ai-baby-dance/example-input-v1.jpg
+- https://media.makeviral.ai/templates/ai-baby-dance/example-v1-toc.jpg
+- https://media.makeviral.ai/templates/ai-baby-dance/example-v1.jpg
 
 ## Prompts
 

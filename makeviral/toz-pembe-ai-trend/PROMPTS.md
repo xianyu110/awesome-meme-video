@@ -7,11 +7,11 @@ The Toz Pembe AI trend puts you into the dance of "Toz Pembe", the summer 2026 h
 
 ## Demo videos (CDN)
 
-- https://www.makeviral.ai/media/templates/toz-pembe-ai-trend/original-main-v2.mp4
+- https://media.makeviral.ai/templates/toz-pembe-ai-trend/original-main-v2.mp4
 
 ## Posters
 
-- https://www.makeviral.ai/media/templates/toz-pembe-ai-trend/original-main-v1.jpg
+- https://media.makeviral.ai/templates/toz-pembe-ai-trend/original-main-v1.jpg
 
 ## Prompts
 

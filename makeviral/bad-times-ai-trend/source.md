@@ -38,14 +38,14 @@ On 9 September @bouuhyachaka posted a second take in her kitchen, one fixed shot
 These are the original reels: an AI-made dog for Pet, the creator's own kitchen take for Angry Dance and a real couple's own take for Couple. Your photos replace their characters, so your video follows the same shots with your faces. No two runs come out the same.
 
 - **Example 1** (15 s, 9:16 MP4 with sound): The original reel by @tillandsialover: an AI-made dog stands up in a bright kitchen, does the whole routine with its paws, then walks up to the camera and argues in a close-up. Pet copies this reel.
-  - Video: https://www.makeviral.ai/media/templates/bad-times-ai-trend/original-pet-v2.mp4
-  - Poster: https://www.makeviral.ai/media/templates/bad-times-ai-trend/original-pet-v1.jpg
+  - Video: https://media.makeviral.ai/templates/bad-times-ai-trend/original-pet-v2.mp4
+  - Poster: https://media.makeviral.ai/templates/bad-times-ai-trend/original-pet-v1.jpg
 - **Example 2** (15 s, 9:16 MP4 with sound): The original kitchen take by @bouuhyachaka: in this part of her Bad Times reel she walks up to the camera, taps a finger on her palm, pushes a flat hand at the lens, shouts, flicks a hand, turns away and comes back for one last shout. The Angry Dance filter, an AI template on TikTok since 22 October 2026, copies this part of the trend, and so does Angry Dance.
-  - Video: https://www.makeviral.ai/media/templates/bad-times-ai-trend/original-angry-v2.mp4
-  - Poster: https://www.makeviral.ai/media/templates/bad-times-ai-trend/original-angry-v1.jpg
+  - Video: https://media.makeviral.ai/templates/bad-times-ai-trend/original-angry-v2.mp4
+  - Poster: https://media.makeviral.ai/templates/bad-times-ai-trend/original-angry-v1.jpg
 - **Example 3** (15 s, 9:16 MP4 with sound): The original couple reel by @miledandmelissa: she argues at the camera and pulls faces, he stares, leans in and hugs her from behind, and they both burst out laughing. Couple copies this reel.
-  - Video: https://www.makeviral.ai/media/templates/bad-times-ai-trend/original-couple-v2.mp4
-  - Poster: https://www.makeviral.ai/media/templates/bad-times-ai-trend/original-couple-v1.jpg
+  - Video: https://media.makeviral.ai/templates/bad-times-ai-trend/original-couple-v2.mp4
+  - Poster: https://media.makeviral.ai/templates/bad-times-ai-trend/original-couple-v1.jpg
 
 ## How to make the Bad Times Trend video on MakeViral
 
@@ -309,12 +309,12 @@ Human makes about 10 seconds at 720p in the frame of your photo, so a vertical p
 
 ## New AI video trends this week
 
-- [AI Cat Gym Video: Put Your Pet on the Air Walker](https://www.makeviral.ai/templates/ai-cat-gym-video): Add one photo, and your cat or dog stands upright on an outdoor air walker, legs swinging out of control, until it slips off and tumbles to the ground, in the same take as the viral clip, with its original sound. You can take the fall yourself, too.
-- [Jensen Huang AI Video: Take the Wheel Next to the Nvidia CEO](https://www.makeviral.ai/templates/jensen-huang-ai-video): The car clip that started the Jensen Huang AI memes, with you at the wheel. Add one photo, and you (or your pet) drive the Nvidia CEO in his black leather jacket, with the clip's own sound.
-- [Cat Shower AI: Dodge the Water, Dive Under the Blanket](https://www.makeviral.ai/templates/cat-shower-ai-trend): The cat scoops the water, pours it over its head and leans away so not one drop hits it. Then it shivers and runs to bed. Add one photo, and you or your pet take the cat's place, with the trend's own sound.
-- [Tying My Shoes Meme: Put Yourself Behind the Tip Cup](https://www.makeviral.ai/templates/tying-shoes-money-ai-trend): You put your cup down to tie your shoe, and people start dropping cash in it. Add one photo, and you or your pet star in the viral clip, grin and all, with its original sound.
-- [MobLand Dance AI: Do Paul's Dance From One Photo](https://www.makeviral.ai/templates/mobland-paul-dance-ai): Lean in to the camera, step back, then the knee lifts, the little kicks, the shrugs and the hand flicks, with a straight face that keeps breaking into a grin. Add one photo of you or your pet and get the 10 second clip with the music.
-- [Bad Aim Edit AI Trend: Miss the Target, Then Own the Office](https://www.makeviral.ai/templates/bad-aim-edit-ai-trend): You try archery in a grass field and miss the flying target badly. Then a hard cut: a cool black and white office edit in black fight gloves, with a mug, a shh and a walk out the door. Add one photo of you or your pet.
+- [Never Let Her Pay: Pay for Dinner With a Sponge](https://www.makeviral.ai/templates/never-let-her-pay-ai-trend): "I got this." Add one photo, and you play the gentleman in the white dinner jacket who stops his date from paying, opens his pouch to show a kitchen sponge and gets walked to the kitchen to wash the dishes. With the clip's own sound.
+- [Snowman Dance AI: Do the Viral Sia Couple Dance From Two Photos](https://www.makeviral.ai/templates/snowman-dance-ai-trend): Hands behind your backs, a spin under the arm, a quick twirl around each other, and then one of you jumps on the other. Add a photo of you and one of your partner, or of two pets, and get the whole Snowman dance with the song.
+- [Self Hug Sketch: A Giant Pencil Drawing of You Hugs You](https://www.makeviral.ai/templates/self-hug-sketch-ai-trend): Add one photo. You lean on a grey wall while a huge black-and-white pencil sketch of you, drawn on the wall, wraps its arms around you, with "Embrace of my own self" written beside you.
+- [Need for Speed AI Trend: Your Car in the Movie Scene](https://www.makeviral.ai/templates/need-for-speed-ai-trend): Add one photo of your car or truck. AI puts it in the trend's movie-style street scene: it rolls through town, spins burnouts in thick tire smoke while people watch, and rolls away, with the trend's own sound.
+- [Tweenslop AI: Turn One Photo Into a Tweenslop Animation](https://www.makeviral.ai/templates/tweenslop-ai-trend): Your photo becomes a flat cut-out that zooms, squashes, spins and flies with a rainbow trail on every beat of a Brazilian funk track, with white, pink, purple and green flashes. You, your pet or any object.
+- [We Don't Talk Anymore Dance: Do the Viral Freestyle From One Photo](https://www.makeviral.ai/templates/we-dont-talk-anymore-dance-ai-trend): The sped-up "We Don't Talk Anymore" freestyle is all over TikTok. Add one photo, and you dance it on the trend's stage, barefoot on a driveway at night with your shoes in one hand, or your pet takes the stage.
 
 ## Make your own Bad Times Trend video
 

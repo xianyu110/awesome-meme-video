@@ -7,13 +7,13 @@ The Bulin 47 dance, also called the Dame Hombro dance, is the dembow routine tha
 
 ## Demo videos (CDN)
 
-- https://www.makeviral.ai/media/templates/bulin-47-dance-ai-trend/original-crew-v2.mp4
-- https://www.makeviral.ai/media/templates/bulin-47-dance-ai-trend/original-pet-v2.mp4
+- https://media.makeviral.ai/templates/bulin-47-dance-ai-trend/original-crew-v2.mp4
+- https://media.makeviral.ai/templates/bulin-47-dance-ai-trend/original-pet-v2.mp4
 
 ## Posters
 
-- https://www.makeviral.ai/media/templates/bulin-47-dance-ai-trend/original-crew-v1.jpg
-- https://www.makeviral.ai/media/templates/bulin-47-dance-ai-trend/original-pet-v1.jpg
+- https://media.makeviral.ai/templates/bulin-47-dance-ai-trend/original-crew-v1.jpg
+- https://media.makeviral.ai/templates/bulin-47-dance-ai-trend/original-pet-v1.jpg
 
 ## Prompts
 

@@ -10,13 +10,13 @@
   "published": "2026-11-05",
   "credits": 3,
   "demo_videos": [
-    "https://www.makeviral.ai/media/templates/ai-christmas-photoshoot/example-main-v1.mp4",
-    "https://www.makeviral.ai/media/templates/ai-christmas-photoshoot/original-main-v2.mp4"
+    "https://media.makeviral.ai/templates/ai-christmas-photoshoot/example-main-v1.mp4",
+    "https://media.makeviral.ai/templates/ai-christmas-photoshoot/original-main-v2.mp4"
   ],
   "posters": [
-    "https://www.makeviral.ai/media/templates/ai-christmas-photoshoot/example-main-input.jpg",
-    "https://www.makeviral.ai/media/templates/ai-christmas-photoshoot/example-main-poster.jpg",
-    "https://www.makeviral.ai/media/templates/ai-christmas-photoshoot/original-main-v1.jpg"
+    "https://media.makeviral.ai/templates/ai-christmas-photoshoot/example-main-input.jpg",
+    "https://media.makeviral.ai/templates/ai-christmas-photoshoot/example-main-poster.jpg",
+    "https://media.makeviral.ai/templates/ai-christmas-photoshoot/original-main-v1.jpg"
   ],
   "prompts": [
     {
@@ -96,5 +96,5 @@
     "Make your own Christmas Photoshoot photo"
   ],
   "prompt_count": 9,
-  "scraped_at": "2026-11-14"
+  "scraped_at": "2026-11-15"
 }

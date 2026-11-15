@@ -10,11 +10,11 @@
   "published": "2026-11-04",
   "credits": 107,
   "demo_videos": [
-    "https://www.makeviral.ai/media/templates/ai-walking-effect/example-main-v1.mp4"
+    "https://media.makeviral.ai/templates/ai-walking-effect/example-main-v1.mp4"
   ],
   "posters": [
-    "https://www.makeviral.ai/media/templates/ai-walking-effect/example-main-input.jpg",
-    "https://www.makeviral.ai/media/templates/ai-walking-effect/example-main-poster.jpg"
+    "https://media.makeviral.ai/templates/ai-walking-effect/example-main-input.jpg",
+    "https://media.makeviral.ai/templates/ai-walking-effect/example-main-poster.jpg"
   ],
   "prompts": [
     {
@@ -64,5 +64,5 @@
     "Make your own AI Walking Effect video"
   ],
   "prompt_count": 5,
-  "scraped_at": "2026-11-14"
+  "scraped_at": "2026-11-15"
 }

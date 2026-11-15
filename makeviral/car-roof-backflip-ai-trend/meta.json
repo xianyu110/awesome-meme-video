@@ -10,10 +10,10 @@
   "published": "2026-10-14",
   "credits": 152,
   "demo_videos": [
-    "https://www.makeviral.ai/media/templates/car-roof-backflip-ai-trend/original-tall-main-v2.mp4"
+    "https://media.makeviral.ai/templates/car-roof-backflip-ai-trend/original-tall-main-v2.mp4"
   ],
   "posters": [
-    "https://www.makeviral.ai/media/templates/car-roof-backflip-ai-trend/original-tall-main-v1.jpg"
+    "https://media.makeviral.ai/templates/car-roof-backflip-ai-trend/original-tall-main-v1.jpg"
   ],
   "prompts": [
     {
@@ -39,5 +39,5 @@
     "Make your own Car Roof Backflip video"
   ],
   "prompt_count": 1,
-  "scraped_at": "2026-11-14"
+  "scraped_at": "2026-11-15"
 }

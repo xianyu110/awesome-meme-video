@@ -7,14 +7,14 @@ The Santa nice list video is a Christmas AI trend from November 2026: Santa chec
 
 ## Demo videos (CDN)
 
-- https://www.makeviral.ai/media/templates/santa-nice-list-ai-video/example-main-v1.mp4
-- https://www.makeviral.ai/media/templates/santa-nice-list-ai-video/original-main-v2.mp4
+- https://media.makeviral.ai/templates/santa-nice-list-ai-video/example-main-v1.mp4
+- https://media.makeviral.ai/templates/santa-nice-list-ai-video/original-main-v2.mp4
 
 ## Posters
 
-- https://www.makeviral.ai/media/templates/santa-nice-list-ai-video/example-main-poster.jpg
-- https://www.makeviral.ai/media/templates/santa-nice-list-ai-video/original-main-v1.jpg
-- https://www.makeviral.ai/media/templates/storm-ai-trend/example-input.jpg
+- https://media.makeviral.ai/templates/santa-nice-list-ai-video/example-main-poster.jpg
+- https://media.makeviral.ai/templates/santa-nice-list-ai-video/original-main-v1.jpg
+- https://media.makeviral.ai/templates/storm-ai-trend/example-input.jpg
 
 ## Prompts
 

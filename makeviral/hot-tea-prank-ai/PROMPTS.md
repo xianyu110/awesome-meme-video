@@ -7,13 +7,13 @@ Hot tea prank AI is a 17-second clip from one photo of you or your dog: at a caf
 
 ## Demo videos (CDN)
 
-- https://www.makeviral.ai/media/templates/hot-tea-prank-ai/original-pet-v2.mp4
-- https://www.makeviral.ai/media/templates/hot-tea-prank-ai/original-tea-v2.mp4
+- https://media.makeviral.ai/templates/hot-tea-prank-ai/original-pet-v2.mp4
+- https://media.makeviral.ai/templates/hot-tea-prank-ai/original-tea-v2.mp4
 
 ## Posters
 
-- https://www.makeviral.ai/media/templates/hot-tea-prank-ai/original-pet-v1.jpg
-- https://www.makeviral.ai/media/templates/hot-tea-prank-ai/original-tea-v1.jpg
+- https://media.makeviral.ai/templates/hot-tea-prank-ai/original-pet-v1.jpg
+- https://media.makeviral.ai/templates/hot-tea-prank-ai/original-tea-v1.jpg
 
 ## Prompts
 

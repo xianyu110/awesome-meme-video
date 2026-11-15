@@ -7,13 +7,13 @@ The Walk It Like I Talk It AI trend puts you and your friends into the viral car
 
 ## Demo videos (CDN)
 
-- https://www.makeviral.ai/media/templates/walk-it-like-i-talk-it-ai-trend/original-pet-v2.mp4
-- https://www.makeviral.ai/media/templates/walk-it-like-i-talk-it-ai-trend/original-tall-duo-v2.mp4
+- https://media.makeviral.ai/templates/walk-it-like-i-talk-it-ai-trend/original-pet-v2.mp4
+- https://media.makeviral.ai/templates/walk-it-like-i-talk-it-ai-trend/original-tall-duo-v2.mp4
 
 ## Posters
 
-- https://www.makeviral.ai/media/templates/walk-it-like-i-talk-it-ai-trend/original-pet-v1.jpg
-- https://www.makeviral.ai/media/templates/walk-it-like-i-talk-it-ai-trend/original-tall-duo-v1.jpg
+- https://media.makeviral.ai/templates/walk-it-like-i-talk-it-ai-trend/original-pet-v1.jpg
+- https://media.makeviral.ai/templates/walk-it-like-i-talk-it-ai-trend/original-tall-duo-v1.jpg
 
 ## Prompts
 

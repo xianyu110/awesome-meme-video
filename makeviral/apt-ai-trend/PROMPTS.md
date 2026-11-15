@@ -7,13 +7,13 @@ The APT AI trend puts you and a friend into the hot-pink studio of the Rosé APT
 
 ## Demo videos (CDN)
 
-- https://www.makeviral.ai/media/templates/apt-ai-trend/original-tall-duo-v2.mp4
-- https://www.makeviral.ai/media/templates/apt-ai-trend/original-tall-pet-v2.mp4
+- https://media.makeviral.ai/templates/apt-ai-trend/original-tall-duo-v2.mp4
+- https://media.makeviral.ai/templates/apt-ai-trend/original-tall-pet-v2.mp4
 
 ## Posters
 
-- https://www.makeviral.ai/media/templates/apt-ai-trend/original-tall-duo-v1.jpg
-- https://www.makeviral.ai/media/templates/apt-ai-trend/original-tall-pet-v1.jpg
+- https://media.makeviral.ai/templates/apt-ai-trend/original-tall-duo-v1.jpg
+- https://media.makeviral.ai/templates/apt-ai-trend/original-tall-pet-v1.jpg
 
 ## Prompts
 

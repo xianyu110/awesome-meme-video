@@ -7,11 +7,11 @@ Chat GTT lookin' ahh is the viral card declined meme: a customer on a phone call
 
 ## Demo videos (CDN)
 
-- https://www.makeviral.ai/media/templates/chat-gtt-lookin-ahh-ai/original-tall-pet-v2.mp4
+- https://media.makeviral.ai/templates/chat-gtt-lookin-ahh-ai/original-tall-pet-v2.mp4
 
 ## Posters
 
-- https://www.makeviral.ai/media/templates/chat-gtt-lookin-ahh-ai/original-tall-pet-v1.jpg
+- https://media.makeviral.ai/templates/chat-gtt-lookin-ahh-ai/original-tall-pet-v1.jpg
 
 ## Prompts
 

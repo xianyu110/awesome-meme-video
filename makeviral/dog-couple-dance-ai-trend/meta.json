@@ -10,10 +10,10 @@
   "published": "2026-11-06",
   "credits": 228,
   "demo_videos": [
-    "https://www.makeviral.ai/media/templates/dog-couple-dance-ai-trend/original-pets-v2.mp4"
+    "https://media.makeviral.ai/templates/dog-couple-dance-ai-trend/original-pets-v2.mp4"
   ],
   "posters": [
-    "https://www.makeviral.ai/media/templates/dog-couple-dance-ai-trend/original-pets-v1.jpg"
+    "https://media.makeviral.ai/templates/dog-couple-dance-ai-trend/original-pets-v1.jpg"
   ],
   "prompts": [
     {
@@ -56,5 +56,5 @@
     "Make your own Dog Couple Dance video"
   ],
   "prompt_count": 4,
-  "scraped_at": "2026-11-14"
+  "scraped_at": "2026-11-15"
 }

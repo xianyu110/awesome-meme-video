@@ -10,16 +10,16 @@
   "published": "2026-10-22",
   "credits": 189,
   "demo_videos": [
-    "https://www.makeviral.ai/media/templates/no-scrubs-ai-trend/example-guys.mp4",
-    "https://www.makeviral.ai/media/templates/no-scrubs-ai-trend/example-v1.mp4",
-    "https://www.makeviral.ai/media/templates/no-scrubs-ai-trend/original-tall-v2-glam-trio.mp4"
+    "https://media.makeviral.ai/templates/no-scrubs-ai-trend/example-guys.mp4",
+    "https://media.makeviral.ai/templates/no-scrubs-ai-trend/example-v1.mp4",
+    "https://media.makeviral.ai/templates/no-scrubs-ai-trend/original-tall-v2-glam-trio.mp4"
   ],
   "posters": [
-    "https://www.makeviral.ai/media/templates/no-scrubs-ai-trend/example-guys-input.jpg",
-    "https://www.makeviral.ai/media/templates/no-scrubs-ai-trend/example-guys-poster.jpg",
-    "https://www.makeviral.ai/media/templates/no-scrubs-ai-trend/example-v1-input.jpg",
-    "https://www.makeviral.ai/media/templates/no-scrubs-ai-trend/example-v1-poster.jpg",
-    "https://www.makeviral.ai/media/templates/no-scrubs-ai-trend/original-tall-glam-v1.jpg"
+    "https://media.makeviral.ai/templates/no-scrubs-ai-trend/example-guys-input.jpg",
+    "https://media.makeviral.ai/templates/no-scrubs-ai-trend/example-guys-poster.jpg",
+    "https://media.makeviral.ai/templates/no-scrubs-ai-trend/example-v1-input.jpg",
+    "https://media.makeviral.ai/templates/no-scrubs-ai-trend/example-v1-poster.jpg",
+    "https://media.makeviral.ai/templates/no-scrubs-ai-trend/original-tall-glam-v1.jpg"
   ],
   "prompts": [
     {
@@ -71,5 +71,5 @@
     "Make your own No Scrubs AI Dance video"
   ],
   "prompt_count": 5,
-  "scraped_at": "2026-11-14"
+  "scraped_at": "2026-11-15"
 }

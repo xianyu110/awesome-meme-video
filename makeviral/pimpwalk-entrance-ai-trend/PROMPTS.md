@@ -7,14 +7,14 @@ The pimp walk entrance, also called the Pimpwalk Entrance (Hold the Door) trend,
 
 ## Demo videos (CDN)
 
-- https://www.makeviral.ai/media/templates/pimpwalk-entrance-ai-trend/example-crowd-v1.mp4
-- https://www.makeviral.ai/media/templates/pimpwalk-entrance-ai-trend/original-main-v2.mp4
+- https://media.makeviral.ai/templates/pimpwalk-entrance-ai-trend/example-crowd-v1.mp4
+- https://media.makeviral.ai/templates/pimpwalk-entrance-ai-trend/original-main-v2.mp4
 
 ## Posters
 
-- https://www.makeviral.ai/media/templates/pimpwalk-entrance-ai-trend/example-crowd-poster.jpg
-- https://www.makeviral.ai/media/templates/pimpwalk-entrance-ai-trend/original-main-v1.jpg
-- https://www.makeviral.ai/media/templates/storm-ai-trend/example-input.jpg
+- https://media.makeviral.ai/templates/pimpwalk-entrance-ai-trend/example-crowd-poster.jpg
+- https://media.makeviral.ai/templates/pimpwalk-entrance-ai-trend/original-main-v1.jpg
+- https://media.makeviral.ai/templates/storm-ai-trend/example-input.jpg
 
 ## Prompts
 

@@ -10,10 +10,10 @@
   "published": "2026-10-26",
   "credits": 126,
   "demo_videos": [
-    "https://www.makeviral.ai/media/templates/ai-aging-filter/original-main-v1.mp4"
+    "https://media.makeviral.ai/templates/ai-aging-filter/original-main-v1.mp4"
   ],
   "posters": [
-    "https://www.makeviral.ai/media/templates/ai-aging-filter/original-main-v1.jpg"
+    "https://media.makeviral.ai/templates/ai-aging-filter/original-main-v1.jpg"
   ],
   "prompts": [
     {
@@ -37,5 +37,5 @@
     "Make your own AI Aging Filter video"
   ],
   "prompt_count": 1,
-  "scraped_at": "2026-11-14"
+  "scraped_at": "2026-11-15"
 }

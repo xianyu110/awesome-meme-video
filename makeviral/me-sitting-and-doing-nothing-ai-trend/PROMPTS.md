@@ -7,11 +7,11 @@ Me sitting and doing nothing because I have too many things to do is a relatable
 
 ## Demo videos (CDN)
 
-- https://www.makeviral.ai/media/templates/me-sitting-and-doing-nothing-ai-trend/original-pet-v2.mp4
+- https://media.makeviral.ai/templates/me-sitting-and-doing-nothing-ai-trend/original-pet-v2.mp4
 
 ## Posters
 
-- https://www.makeviral.ai/media/templates/me-sitting-and-doing-nothing-ai-trend/original-pet-v1.jpg
+- https://media.makeviral.ai/templates/me-sitting-and-doing-nothing-ai-trend/original-pet-v1.jpg
 
 ## Prompts
 

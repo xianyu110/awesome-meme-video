@@ -7,11 +7,11 @@ The Mickey Mickey D's dance is the viral two-person TikTok dance of October 2026
 
 ## Demo videos (CDN)
 
-- https://www.makeviral.ai/media/templates/mickey-ds-dance-ai-trend/original-main-v2.mp4
+- https://media.makeviral.ai/templates/mickey-ds-dance-ai-trend/original-main-v2.mp4
 
 ## Posters
 
-- https://www.makeviral.ai/media/templates/mickey-ds-dance-ai-trend/original-main-v1.jpg
+- https://media.makeviral.ai/templates/mickey-ds-dance-ai-trend/original-main-v1.jpg
 
 ## Prompts
 

@@ -7,20 +7,20 @@ The hotel lobby AI trend (the AI Hotel Lobby trend, also called the Migos AI tre
 
 ## Demo videos (CDN)
 
-- https://www.makeviral.ai/media/templates/ai-hotel-lobby-trend/example-pets.mp4
-- https://www.makeviral.ai/media/templates/ai-hotel-lobby-trend/example-tall-v2-original.mp4
-- https://www.makeviral.ai/media/templates/ai-hotel-lobby-trend/example.mp4
-- https://www.makeviral.ai/media/templates/ai-hotel-lobby-trend/original-pets-original-v2.mp4
+- https://media.makeviral.ai/templates/ai-hotel-lobby-trend/example-pets.mp4
+- https://media.makeviral.ai/templates/ai-hotel-lobby-trend/example-tall-v2-original.mp4
+- https://media.makeviral.ai/templates/ai-hotel-lobby-trend/example.mp4
+- https://media.makeviral.ai/templates/ai-hotel-lobby-trend/original-pets-original-v2.mp4
 
 ## Posters
 
-- https://www.makeviral.ai/media/templates/ai-hotel-lobby-trend/example-input.jpg
-- https://www.makeviral.ai/media/templates/ai-hotel-lobby-trend/example-pets-input.jpg
-- https://www.makeviral.ai/media/templates/ai-hotel-lobby-trend/example-pets-poster.jpg
-- https://www.makeviral.ai/media/templates/ai-hotel-lobby-trend/example-poster.jpg
-- https://www.makeviral.ai/media/templates/ai-hotel-lobby-trend/example-tall-v2-original-input.jpg
-- https://www.makeviral.ai/media/templates/ai-hotel-lobby-trend/example-tall-v2-original-poster.jpg
-- https://www.makeviral.ai/media/templates/ai-hotel-lobby-trend/original-pets-original-v1.jpg
+- https://media.makeviral.ai/templates/ai-hotel-lobby-trend/example-input.jpg
+- https://media.makeviral.ai/templates/ai-hotel-lobby-trend/example-pets-input.jpg
+- https://media.makeviral.ai/templates/ai-hotel-lobby-trend/example-pets-poster.jpg
+- https://media.makeviral.ai/templates/ai-hotel-lobby-trend/example-poster.jpg
+- https://media.makeviral.ai/templates/ai-hotel-lobby-trend/example-tall-v2-original-input.jpg
+- https://media.makeviral.ai/templates/ai-hotel-lobby-trend/example-tall-v2-original-poster.jpg
+- https://media.makeviral.ai/templates/ai-hotel-lobby-trend/original-pets-original-v1.jpg
 
 ## Prompts
 

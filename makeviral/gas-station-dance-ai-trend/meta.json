@@ -10,12 +10,12 @@
   "published": "2026-10-12",
   "credits": 228,
   "demo_videos": [
-    "https://www.makeviral.ai/media/templates/gas-station-dance-ai-trend/original-mop-unc-v2.mp4",
-    "https://www.makeviral.ai/media/templates/parking-lot-sunset-ai-trend/original-friends-v2.mp4"
+    "https://media.makeviral.ai/templates/gas-station-dance-ai-trend/original-mop-unc-v2.mp4",
+    "https://media.makeviral.ai/templates/parking-lot-sunset-ai-trend/original-friends-v2.mp4"
   ],
   "posters": [
-    "https://www.makeviral.ai/media/templates/gas-station-dance-ai-trend/original-mop-unc-v1.jpg",
-    "https://www.makeviral.ai/media/templates/parking-lot-sunset-ai-trend/original-friends-v1.jpg"
+    "https://media.makeviral.ai/templates/gas-station-dance-ai-trend/original-mop-unc-v1.jpg",
+    "https://media.makeviral.ai/templates/parking-lot-sunset-ai-trend/original-friends-v1.jpg"
   ],
   "prompts": [
     {
@@ -49,5 +49,5 @@
     "Make your own Gas Station Dance video"
   ],
   "prompt_count": 3,
-  "scraped_at": "2026-11-14"
+  "scraped_at": "2026-11-15"
 }

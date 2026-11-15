@@ -7,13 +7,13 @@ The ATM glitch trend is a fake security camera clip: an ATM money glitch makes t
 
 ## Demo videos (CDN)
 
-- https://www.makeviral.ai/media/templates/atm-glitch-ai-trend/original-main-v2.mp4
-- https://www.makeviral.ai/media/templates/atm-glitch-ai-trend/original-wish-v2.mp4
+- https://media.makeviral.ai/templates/atm-glitch-ai-trend/original-main-v2.mp4
+- https://media.makeviral.ai/templates/atm-glitch-ai-trend/original-wish-v2.mp4
 
 ## Posters
 
-- https://www.makeviral.ai/media/templates/atm-glitch-ai-trend/original-main-v1.jpg
-- https://www.makeviral.ai/media/templates/atm-glitch-ai-trend/original-wish-v1.jpg
+- https://media.makeviral.ai/templates/atm-glitch-ai-trend/original-main-v1.jpg
+- https://media.makeviral.ai/templates/atm-glitch-ai-trend/original-wish-v1.jpg
 
 ## Prompts
 

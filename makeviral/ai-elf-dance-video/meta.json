@@ -10,11 +10,11 @@
   "published": "2026-10-26",
   "credits": 126,
   "demo_videos": [
-    "https://www.makeviral.ai/media/templates/ai-elf-dance-video/example-main.mp4"
+    "https://media.makeviral.ai/templates/ai-elf-dance-video/example-main.mp4"
   ],
   "posters": [
-    "https://www.makeviral.ai/media/templates/ai-elf-dance-video/example-main-input.jpg",
-    "https://www.makeviral.ai/media/templates/ai-elf-dance-video/example-main-poster.jpg"
+    "https://media.makeviral.ai/templates/ai-elf-dance-video/example-main-input.jpg",
+    "https://media.makeviral.ai/templates/ai-elf-dance-video/example-main-poster.jpg"
   ],
   "prompts": [
     {
@@ -56,5 +56,5 @@
     "Make your own AI Elf Dance video"
   ],
   "prompt_count": 4,
-  "scraped_at": "2026-11-14"
+  "scraped_at": "2026-11-15"
 }

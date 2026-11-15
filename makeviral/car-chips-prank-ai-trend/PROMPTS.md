@@ -7,12 +7,12 @@ The car chips prank is one fixed dash-cam shot of three people in a car: the pas
 
 ## Demo videos (CDN)
 
-- https://www.makeviral.ai/media/templates/car-chips-prank-ai-trend/example-main-v1.mp4
+- https://media.makeviral.ai/templates/car-chips-prank-ai-trend/example-main-v1.mp4
 
 ## Posters
 
-- https://www.makeviral.ai/media/templates/car-chips-prank-ai-trend/example-main-input.jpg
-- https://www.makeviral.ai/media/templates/car-chips-prank-ai-trend/example-main-poster.jpg
+- https://media.makeviral.ai/templates/car-chips-prank-ai-trend/example-main-input.jpg
+- https://media.makeviral.ai/templates/car-chips-prank-ai-trend/example-main-poster.jpg
 
 ## Prompts
 

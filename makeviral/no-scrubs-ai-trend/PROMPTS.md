@@ -7,17 +7,17 @@ The No Scrubs AI trend puts you and two friends into a glossy 1999-style girl-gr
 
 ## Demo videos (CDN)
 
-- https://www.makeviral.ai/media/templates/no-scrubs-ai-trend/example-guys.mp4
-- https://www.makeviral.ai/media/templates/no-scrubs-ai-trend/example-v1.mp4
-- https://www.makeviral.ai/media/templates/no-scrubs-ai-trend/original-tall-v2-glam-trio.mp4
+- https://media.makeviral.ai/templates/no-scrubs-ai-trend/example-guys.mp4
+- https://media.makeviral.ai/templates/no-scrubs-ai-trend/example-v1.mp4
+- https://media.makeviral.ai/templates/no-scrubs-ai-trend/original-tall-v2-glam-trio.mp4
 
 ## Posters
 
-- https://www.makeviral.ai/media/templates/no-scrubs-ai-trend/example-guys-input.jpg
-- https://www.makeviral.ai/media/templates/no-scrubs-ai-trend/example-guys-poster.jpg
-- https://www.makeviral.ai/media/templates/no-scrubs-ai-trend/example-v1-input.jpg
-- https://www.makeviral.ai/media/templates/no-scrubs-ai-trend/example-v1-poster.jpg
-- https://www.makeviral.ai/media/templates/no-scrubs-ai-trend/original-tall-glam-v1.jpg
+- https://media.makeviral.ai/templates/no-scrubs-ai-trend/example-guys-input.jpg
+- https://media.makeviral.ai/templates/no-scrubs-ai-trend/example-guys-poster.jpg
+- https://media.makeviral.ai/templates/no-scrubs-ai-trend/example-v1-input.jpg
+- https://media.makeviral.ai/templates/no-scrubs-ai-trend/example-v1-poster.jpg
+- https://media.makeviral.ai/templates/no-scrubs-ai-trend/original-tall-glam-v1.jpg
 
 ## Prompts
 

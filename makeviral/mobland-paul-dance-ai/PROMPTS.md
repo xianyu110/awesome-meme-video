@@ -7,11 +7,11 @@ The MobLand dance is Paul's goofy, swaggering solo dance from MobLand season 2, 
 
 ## Demo videos (CDN)
 
-- https://www.makeviral.ai/media/templates/mobland-paul-dance-ai/original-main-v2.mp4
+- https://media.makeviral.ai/templates/mobland-paul-dance-ai/original-main-v2.mp4
 
 ## Posters
 
-- https://www.makeviral.ai/media/templates/mobland-paul-dance-ai/original-main-v1.jpg
+- https://media.makeviral.ai/templates/mobland-paul-dance-ai/original-main-v1.jpg
 
 ## Prompts
 

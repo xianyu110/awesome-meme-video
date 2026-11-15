@@ -10,10 +10,10 @@
   "published": "2026-11-13",
   "credits": 164,
   "demo_videos": [
-    "https://www.makeviral.ai/media/templates/talk-to-me-doja-ai-trend/original-main-v2.mp4"
+    "https://media.makeviral.ai/templates/talk-to-me-doja-ai-trend/original-main-v2.mp4"
   ],
   "posters": [
-    "https://www.makeviral.ai/media/templates/talk-to-me-doja-ai-trend/original-main-v1.jpg"
+    "https://media.makeviral.ai/templates/talk-to-me-doja-ai-trend/original-main-v1.jpg"
   ],
   "prompts": [
     {
@@ -48,5 +48,5 @@
     "Make your own Talk to Me Doja video"
   ],
   "prompt_count": 3,
-  "scraped_at": "2026-11-14"
+  "scraped_at": "2026-11-15"
 }

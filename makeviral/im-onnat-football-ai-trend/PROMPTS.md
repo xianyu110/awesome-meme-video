@@ -7,11 +7,11 @@ The Happy Friday I'm onnat trend is a two-photo TikTok joke from football player
 
 ## Demo videos (CDN)
 
-- https://www.makeviral.ai/media/templates/im-onnat-football-ai-trend/original-main-v2.mp4
+- https://media.makeviral.ai/templates/im-onnat-football-ai-trend/original-main-v2.mp4
 
 ## Posters
 
-- https://www.makeviral.ai/media/templates/im-onnat-football-ai-trend/original-main-v1.jpg
+- https://media.makeviral.ai/templates/im-onnat-football-ai-trend/original-main-v1.jpg
 
 ## Prompts
 

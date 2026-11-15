@@ -7,11 +7,11 @@ Dancing crocodiles are the AI alligators that stand upright on a golf course and
 
 ## Demo videos (CDN)
 
-- https://www.makeviral.ai/media/templates/dancing-crocodiles-ai/original-main-v2.mp4
+- https://media.makeviral.ai/templates/dancing-crocodiles-ai/original-main-v2.mp4
 
 ## Posters
 
-- https://www.makeviral.ai/media/templates/dancing-crocodiles-ai/original-main-v1.jpg
+- https://media.makeviral.ai/templates/dancing-crocodiles-ai/original-main-v1.jpg
 
 ## Prompts
 

@@ -7,11 +7,11 @@ The Mentalist AI trend puts your face on Patrick Jane, the smiling consultant fr
 
 ## Demo videos (CDN)
 
-- https://www.makeviral.ai/media/templates/ai-mentalist-trend/original-tall-main-v2.mp4
+- https://media.makeviral.ai/templates/ai-mentalist-trend/original-tall-main-v2.mp4
 
 ## Posters
 
-- https://www.makeviral.ai/media/templates/ai-mentalist-trend/original-tall-main-v1.jpg
+- https://media.makeviral.ai/templates/ai-mentalist-trend/original-tall-main-v1.jpg
 
 ## Prompts
 

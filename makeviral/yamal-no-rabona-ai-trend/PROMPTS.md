@@ -7,11 +7,11 @@ The Yamal rabona trend puts you, or your grandma, into Lamine Yamal's fake rabon
 
 ## Demo videos (CDN)
 
-- https://www.makeviral.ai/media/templates/yamal-no-rabona-ai-trend/original-trend-v2.mp4
+- https://media.makeviral.ai/templates/yamal-no-rabona-ai-trend/original-trend-v2.mp4
 
 ## Posters
 
-- https://www.makeviral.ai/media/templates/yamal-no-rabona-ai-trend/original-trend-v1.jpg
+- https://media.makeviral.ai/templates/yamal-no-rabona-ai-trend/original-trend-v1.jpg
 
 ## Prompts
 

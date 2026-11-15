@@ -7,11 +7,11 @@ The couple back tattoo trend is an AI photo trend: a man stands with his bare ba
 
 ## Demo videos (CDN)
 
-- https://www.makeviral.ai/media/templates/couple-back-tattoo-ai-trend/original-main-v2.mp4
+- https://media.makeviral.ai/templates/couple-back-tattoo-ai-trend/original-main-v2.mp4
 
 ## Posters
 
-- https://www.makeviral.ai/media/templates/couple-back-tattoo-ai-trend/original-main-v1.jpg
+- https://media.makeviral.ai/templates/couple-back-tattoo-ai-trend/original-main-v1.jpg
 
 ## Prompts
 

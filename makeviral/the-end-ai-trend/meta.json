@@ -10,11 +10,11 @@
   "published": "2026-10-15",
   "credits": 103,
   "demo_videos": [
-    "https://www.makeviral.ai/media/templates/the-end-ai-trend/example-v1.mp4"
+    "https://media.makeviral.ai/templates/the-end-ai-trend/example-v1.mp4"
   ],
   "posters": [
-    "https://www.makeviral.ai/media/templates/the-end-ai-trend/example-v1-input.jpg",
-    "https://www.makeviral.ai/media/templates/the-end-ai-trend/example-v1-poster.jpg"
+    "https://media.makeviral.ai/templates/the-end-ai-trend/example-v1-input.jpg",
+    "https://media.makeviral.ai/templates/the-end-ai-trend/example-v1-poster.jpg"
   ],
   "prompts": [
     {
@@ -56,5 +56,5 @@
     "Make your own The End: Wave Bye video"
   ],
   "prompt_count": 3,
-  "scraped_at": "2026-11-14"
+  "scraped_at": "2026-11-15"
 }

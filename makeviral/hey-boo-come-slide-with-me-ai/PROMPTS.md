@@ -7,11 +7,11 @@ Hey Boo Come Slide With Me is the couples line dance trend of autumn 2026: a cou
 
 ## Demo videos (CDN)
 
-- https://www.makeviral.ai/media/templates/hey-boo-come-slide-with-me-ai/original-main-v2.mp4
+- https://media.makeviral.ai/templates/hey-boo-come-slide-with-me-ai/original-main-v2.mp4
 
 ## Posters
 
-- https://www.makeviral.ai/media/templates/hey-boo-come-slide-with-me-ai/original-main-v1.jpg
+- https://media.makeviral.ai/templates/hey-boo-come-slide-with-me-ai/original-main-v1.jpg
 
 ## Prompts
 

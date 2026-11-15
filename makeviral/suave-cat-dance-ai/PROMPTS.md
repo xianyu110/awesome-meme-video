@@ -7,11 +7,11 @@ The Suave cat dance is the reel of three AI kittens dancing to "Suave" by El Alf
 
 ## Demo videos (CDN)
 
-- https://www.makeviral.ai/media/templates/suave-cat-dance-ai/original-pet-v2.mp4
+- https://media.makeviral.ai/templates/suave-cat-dance-ai/original-pet-v2.mp4
 
 ## Posters
 
-- https://www.makeviral.ai/media/templates/suave-cat-dance-ai/original-pet-v1.jpg
+- https://media.makeviral.ai/templates/suave-cat-dance-ai/original-pet-v1.jpg
 
 ## Prompts
 

@@ -10,11 +10,11 @@
   "published": "2026-10-13",
   "credits": 29,
   "demo_videos": [
-    "https://www.makeviral.ai/media/templates/keep-on-steppin-ai-dance/example-v1.mp4"
+    "https://media.makeviral.ai/templates/keep-on-steppin-ai-dance/example-v1.mp4"
   ],
   "posters": [
-    "https://www.makeviral.ai/media/templates/keep-on-steppin-ai-dance/example-input-v1.jpg",
-    "https://www.makeviral.ai/media/templates/keep-on-steppin-ai-dance/example-v1.jpg"
+    "https://media.makeviral.ai/templates/keep-on-steppin-ai-dance/example-input-v1.jpg",
+    "https://media.makeviral.ai/templates/keep-on-steppin-ai-dance/example-v1.jpg"
   ],
   "prompts": [
     {
@@ -35,5 +35,5 @@
     "Make your own Keep On Steppin video"
   ],
   "prompt_count": 1,
-  "scraped_at": "2026-11-14"
+  "scraped_at": "2026-11-15"
 }

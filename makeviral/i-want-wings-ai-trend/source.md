@@ -3,7 +3,7 @@
 > The I want wings trend is a TikTok glow-up meme: a "before" photo with a cockroach sticker and "Eww, squish it", a black slide with a butterfly, then a glowed-up "after" photo with a butterfly sticker and "Be gentle", to the line "In that case, I want wings".
 
 Canonical: https://www.makeviral.ai/templates/i-want-wings-ai-trend
-Updated: 2026-11-06
+Updated: 2026-11-14
 Published: 2026-11-06
 Author: MakeViral Team (https://www.makeviral.ai/about)
 Publisher: MakeViral (https://www.makeviral.ai)
@@ -16,7 +16,7 @@ Also called: I want wings glow up, Eww squish it be gentle, In that case I want 
 
 **Make it now:** [Make this photo](https://www.makeviral.ai/templates/i-want-wings-ai-trend/create). 1 photo in · 2K photo out · 9:16 · 3 credits, charged once · ready in a few minutes · no prompt to write.
 
-Keyword: i want wings trend. Also answers: i want wings, eww squish it, ew squish it, i want wings tiktok, eww squish it meme, squish it be gentle, i want wings griffith, glow up trend, i want wings ai, ai glow up photo, ew squish it meaning, i want wings meme, i want wings berserk, in that case i want wings griffith, cockroach butterfly trend, butterfly glow up trend, glow up ai photo, ai glow up trend, ai glow up transition, ai glow up, glow up ai, ai glow up filter, glow up ai filter, ai glow up video, glow up ai prompt, ai glow up prompt, glow up ai app, glow up ai generator, glow up ai capcut, glow up ai template, glow up capcut template, i want wings capcut template, butterfly wings ai, ai butterfly wings, butterfly wings filter, glow up filter, before and after glow up, pet glow up.
+Keyword: i want wings trend. Also answers: i want wings, eww squish it, ew squish it, i want wings tiktok, eww squish it meme, squish it be gentle, i want wings griffith, glow up trend, i want wings ai, ai glow up photo, ew ew squish it, ew squish it meaning, ew ew squish it meaning, i want wings meme, i want wings berserk, in that case i want wings griffith, i want wings butterfly, ew ew ew squish it, what does ew squish it mean, i want wings song, in that case i want wings original, ew squish it meme, i want wings meaning, cockroach butterfly trend, butterfly glow up trend, glow up ai photo, ai glow up trend, ai glow up transition, ai glow up, glow up ai, ai glow up filter, glow up ai filter, ai glow up video, glow up ai prompt, ai glow up prompt, glow up ai app, glow up ai generator, glow up ai capcut, glow up ai template, glow up capcut template, i want wings capcut template, butterfly wings ai, ai butterfly wings, butterfly wings filter, glow up filter, before and after glow up, pet glow up.
 
 ## What is the I Want Wings trend, and where did it start?
 
@@ -31,15 +31,15 @@ The format came on 27 October, when @omikko12 posted three slides to it: a befor
 - **2026-10-27**: @omikko12 posts the three-slide roach, butterfly and "Be gentle" glow-up: 5.5 million views and 655,700 likes. Source: [TikTok](https://www.tiktok.com/@omikko12/photo/7701497925322427681).
 - **2026-10-30**: The hair care brand @basedbodyworks posts its founder's "Good luck on that business bro" version: 845,600 views and 86,900 likes. Source: [TikTok](https://www.tiktok.com/@basedbodyworks/photo/7702569831555452190).
 - **2026-11-01**: A CapCut template version spreads on a second sound (@thats5urie, 1 million views), and the #iwantwingstrend hashtag starts. Source: [TikTok](https://www.tiktok.com/@thats5urie/video/7703211094264892673).
-- **2026-11-06**: The trend's sound holds 81,900 TikTok videos; its top post since 1 November is a 3.2 million view remake.
+- **2026-11-06**: The trend's sound holds 81,900 TikTok videos; its top post since 1 November is a 3.2 million view remake. Source: [TikTok](https://www.tiktok.com/music/original-sound-7698371434388802337).
 
 ## What the I Want Wings photo looks like
 
 The clip at the top is a real post of the trend by @basedbodyworks, shown the way TikTok plays it: its three photos with the trend's sound. It is not a MakeViral result and was not made with AI. Your result is the after photo (or a 10 second video in the Video version), clean and without stickers, so you can add the cockroach and butterfly stickers yourself.
 
 - **Example 1** (27 s before-and-after clip, 9:16 MP4): A real post of the trend by @basedbodyworks on TikTok (30 October 2026, 845,600 views): the before photo with the cockroach sticker, the black butterfly slide, then the after photo with the butterfly sticker, on the trend's sound.
-  - Video: https://www.makeviral.ai/media/templates/i-want-wings-ai-trend/original-carousel-v2.mp4
-  - Poster: https://www.makeviral.ai/media/templates/i-want-wings-ai-trend/original-carousel-v1.jpg
+  - Video: https://media.makeviral.ai/templates/i-want-wings-ai-trend/original-carousel-v2.mp4
+  - Poster: https://media.makeviral.ai/templates/i-want-wings-ai-trend/original-carousel-v1.jpg
 
 ## How to make the I Want Wings photo on MakeViral
 
@@ -187,6 +187,10 @@ The eww squish it meme, and the ew squish it meaning, is a double standard joke:
 
 It is a TikTok glow-up trend from late October 2026: a before photo with a cockroach sticker and "Eww, squish it", a black slide with a butterfly, then an after photo with a butterfly sticker and "Be gentle", on a sound with the line "In that case, I want wings". @omikko12's post of 27 October 2026 set the format and reached 5.5 million views.
 
+### What does "ew ew squish it" mean?
+
+"Ew ew squish it" is what people say when they see a cockroach. In the trend it goes on your before photo, and "Be gentle" goes on your after photo, the butterfly. The meaning is a double standard: the same people who squish a roach are gentle with a butterfly. So the roach answers "In that case, I want wings".
+
 ### Is there an I want wings AI version?
 
 Yes, this page. The real posts use people's own photos; here the AI makes your after shot from one photo of you, or a 10 second video of the whole meme. You write no prompt: add a photo and press Generate.
@@ -254,12 +258,12 @@ No. The trend uses the line and the sound, but our results show only you or your
 
 ## New AI video trends this week
 
-- [AI Cat Gym Video: Put Your Pet on the Air Walker](https://www.makeviral.ai/templates/ai-cat-gym-video): Add one photo, and your cat or dog stands upright on an outdoor air walker, legs swinging out of control, until it slips off and tumbles to the ground, in the same take as the viral clip, with its original sound. You can take the fall yourself, too.
-- [Jensen Huang AI Video: Take the Wheel Next to the Nvidia CEO](https://www.makeviral.ai/templates/jensen-huang-ai-video): The car clip that started the Jensen Huang AI memes, with you at the wheel. Add one photo, and you (or your pet) drive the Nvidia CEO in his black leather jacket, with the clip's own sound.
-- [Cat Shower AI: Dodge the Water, Dive Under the Blanket](https://www.makeviral.ai/templates/cat-shower-ai-trend): The cat scoops the water, pours it over its head and leans away so not one drop hits it. Then it shivers and runs to bed. Add one photo, and you or your pet take the cat's place, with the trend's own sound.
-- [Tying My Shoes Meme: Put Yourself Behind the Tip Cup](https://www.makeviral.ai/templates/tying-shoes-money-ai-trend): You put your cup down to tie your shoe, and people start dropping cash in it. Add one photo, and you or your pet star in the viral clip, grin and all, with its original sound.
-- [MobLand Dance AI: Do Paul's Dance From One Photo](https://www.makeviral.ai/templates/mobland-paul-dance-ai): Lean in to the camera, step back, then the knee lifts, the little kicks, the shrugs and the hand flicks, with a straight face that keeps breaking into a grin. Add one photo of you or your pet and get the 10 second clip with the music.
-- [Bad Aim Edit AI Trend: Miss the Target, Then Own the Office](https://www.makeviral.ai/templates/bad-aim-edit-ai-trend): You try archery in a grass field and miss the flying target badly. Then a hard cut: a cool black and white office edit in black fight gloves, with a mug, a shh and a walk out the door. Add one photo of you or your pet.
+- [Never Let Her Pay: Pay for Dinner With a Sponge](https://www.makeviral.ai/templates/never-let-her-pay-ai-trend): "I got this." Add one photo, and you play the gentleman in the white dinner jacket who stops his date from paying, opens his pouch to show a kitchen sponge and gets walked to the kitchen to wash the dishes. With the clip's own sound.
+- [Snowman Dance AI: Do the Viral Sia Couple Dance From Two Photos](https://www.makeviral.ai/templates/snowman-dance-ai-trend): Hands behind your backs, a spin under the arm, a quick twirl around each other, and then one of you jumps on the other. Add a photo of you and one of your partner, or of two pets, and get the whole Snowman dance with the song.
+- [Self Hug Sketch: A Giant Pencil Drawing of You Hugs You](https://www.makeviral.ai/templates/self-hug-sketch-ai-trend): Add one photo. You lean on a grey wall while a huge black-and-white pencil sketch of you, drawn on the wall, wraps its arms around you, with "Embrace of my own self" written beside you.
+- [Need for Speed AI Trend: Your Car in the Movie Scene](https://www.makeviral.ai/templates/need-for-speed-ai-trend): Add one photo of your car or truck. AI puts it in the trend's movie-style street scene: it rolls through town, spins burnouts in thick tire smoke while people watch, and rolls away, with the trend's own sound.
+- [Tweenslop AI: Turn One Photo Into a Tweenslop Animation](https://www.makeviral.ai/templates/tweenslop-ai-trend): Your photo becomes a flat cut-out that zooms, squashes, spins and flies with a rainbow trail on every beat of a Brazilian funk track, with white, pink, purple and green flashes. You, your pet or any object.
+- [We Don't Talk Anymore Dance: Do the Viral Freestyle From One Photo](https://www.makeviral.ai/templates/we-dont-talk-anymore-dance-ai-trend): The sped-up "We Don't Talk Anymore" freestyle is all over TikTok. Add one photo, and you dance it on the trend's stage, barefoot on a driveway at night with your shoes in one hand, or your pet takes the stage.
 
 ## Make your own I Want Wings photo
 

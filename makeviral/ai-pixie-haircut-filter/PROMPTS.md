@@ -7,11 +7,11 @@ The pixie cut filter is the AI photo trend where people turn one selfie into a p
 
 ## Demo videos (CDN)
 
-- https://www.makeviral.ai/media/templates/ai-pixie-haircut-filter/original-main-v2.mp4
+- https://media.makeviral.ai/templates/ai-pixie-haircut-filter/original-main-v2.mp4
 
 ## Posters
 
-- https://www.makeviral.ai/media/templates/ai-pixie-haircut-filter/original-main-v1.jpg
+- https://media.makeviral.ai/templates/ai-pixie-haircut-filter/original-main-v1.jpg
 
 ## Prompts
 

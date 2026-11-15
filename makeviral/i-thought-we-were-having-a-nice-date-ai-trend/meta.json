@@ -6,17 +6,17 @@
   "url": "https://www.makeviral.ai/templates/i-thought-we-were-having-a-nice-date-ai-trend",
   "markdown_url": "https://www.makeviral.ai/templates/i-thought-we-were-having-a-nice-date-ai-trend.md",
   "blurb": "I thought we were having a nice date is the line from the restaurant scene of the 2026 horror film Obsession: on a date, one person laughs, stands up and cries while the other begs them to sit down.",
-  "updated": "2026-11-07",
+  "updated": "2026-11-14",
   "published": "2026-11-07",
   "credits": 189,
   "demo_videos": [
-    "https://www.makeviral.ai/media/templates/i-thought-we-were-having-a-nice-date-ai-trend/example-couple-v2.mp4",
-    "https://www.makeviral.ai/media/templates/i-thought-we-were-having-a-nice-date-ai-trend/original-couple-v2.mp4"
+    "https://media.makeviral.ai/templates/i-thought-we-were-having-a-nice-date-ai-trend/example-couple-v2.mp4",
+    "https://media.makeviral.ai/templates/i-thought-we-were-having-a-nice-date-ai-trend/original-couple-v2.mp4"
   ],
   "posters": [
-    "https://www.makeviral.ai/media/templates/i-thought-we-were-having-a-nice-date-ai-trend/example-couple-input.jpg",
-    "https://www.makeviral.ai/media/templates/i-thought-we-were-having-a-nice-date-ai-trend/example-couple-poster.jpg",
-    "https://www.makeviral.ai/media/templates/i-thought-we-were-having-a-nice-date-ai-trend/original-couple-v1.jpg"
+    "https://media.makeviral.ai/templates/i-thought-we-were-having-a-nice-date-ai-trend/example-couple-input.jpg",
+    "https://media.makeviral.ai/templates/i-thought-we-were-having-a-nice-date-ai-trend/example-couple-poster.jpg",
+    "https://media.makeviral.ai/templates/i-thought-we-were-having-a-nice-date-ai-trend/original-couple-v1.jpg"
   ],
   "prompts": [
     {
@@ -52,5 +52,5 @@
     "Make your own Nice Date Meme video"
   ],
   "prompt_count": 3,
-  "scraped_at": "2026-11-14"
+  "scraped_at": "2026-11-15"
 }

@@ -6,14 +6,14 @@
   "url": "https://www.makeviral.ai/templates/housewife-dance-ai-trend",
   "markdown_url": "https://www.makeviral.ai/templates/housewife-dance-ai-trend.md",
   "blurb": "The Housewife dance is the TikTok routine to Tate McRae's song \"Housewife\": a low, wide stance, hip sways, arms thrown up and hands flicked past the face, all with a lot of attitude.",
-  "updated": "2026-11-06",
+  "updated": "2026-11-14",
   "published": "2026-11-06",
   "credits": 60,
   "demo_videos": [
-    "https://www.makeviral.ai/media/templates/housewife-dance-ai-trend/original-main-v2.mp4"
+    "https://media.makeviral.ai/templates/housewife-dance-ai-trend/original-main-v2.mp4"
   ],
   "posters": [
-    "https://www.makeviral.ai/media/templates/housewife-dance-ai-trend/original-main-v1.jpg"
+    "https://media.makeviral.ai/templates/housewife-dance-ai-trend/original-main-v1.jpg"
   ],
   "prompts": [
     {
@@ -43,5 +43,5 @@
     "Make your own Housewife Dance video"
   ],
   "prompt_count": 2,
-  "scraped_at": "2026-11-14"
+  "scraped_at": "2026-11-15"
 }

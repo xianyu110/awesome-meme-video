@@ -10,10 +10,10 @@
   "published": "2026-10-11",
   "credits": 78,
   "demo_videos": [
-    "https://www.makeviral.ai/media/templates/clapping-cat-ai-video/original-pet-v2.mp4"
+    "https://media.makeviral.ai/templates/clapping-cat-ai-video/original-pet-v2.mp4"
   ],
   "posters": [
-    "https://www.makeviral.ai/media/templates/clapping-cat-ai-video/original-pet-v1.jpg"
+    "https://media.makeviral.ai/templates/clapping-cat-ai-video/original-pet-v1.jpg"
   ],
   "prompts": [
     {
@@ -61,5 +61,5 @@
     "Make your own Clapping Cat video"
   ],
   "prompt_count": 4,
-  "scraped_at": "2026-11-14"
+  "scraped_at": "2026-11-15"
 }

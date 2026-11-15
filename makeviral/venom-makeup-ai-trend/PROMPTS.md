@@ -7,11 +7,11 @@ The Venom makeup trend is the Halloween half-face look on TikTok: one half of th
 
 ## Demo videos (CDN)
 
-- https://www.makeviral.ai/media/templates/venom-makeup-ai-trend/original-main-v2.mp4
+- https://media.makeviral.ai/templates/venom-makeup-ai-trend/original-main-v2.mp4
 
 ## Posters
 
-- https://www.makeviral.ai/media/templates/venom-makeup-ai-trend/original-main-v1.jpg
+- https://media.makeviral.ai/templates/venom-makeup-ai-trend/original-main-v1.jpg
 
 ## Prompts
 

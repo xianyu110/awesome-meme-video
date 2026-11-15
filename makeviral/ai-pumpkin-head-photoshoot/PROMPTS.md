@@ -7,15 +7,15 @@ The pumpkin head photoshoot is the October photo where your head is a carved jac
 
 ## Demo videos (CDN)
 
-- https://www.makeviral.ai/media/templates/ai-pumpkin-head-photoshoot/example-v2.mp4
-- https://www.makeviral.ai/media/templates/ai-pumpkin-head-photoshoot/example-video.mp4
+- https://media.makeviral.ai/templates/ai-pumpkin-head-photoshoot/example-v2.mp4
+- https://media.makeviral.ai/templates/ai-pumpkin-head-photoshoot/example-video.mp4
 
 ## Posters
 
-- https://www.makeviral.ai/media/templates/ai-pumpkin-head-photoshoot/example-v2-input.jpg
-- https://www.makeviral.ai/media/templates/ai-pumpkin-head-photoshoot/example-v2-poster.jpg
-- https://www.makeviral.ai/media/templates/ai-pumpkin-head-photoshoot/example-video-input.jpg
-- https://www.makeviral.ai/media/templates/ai-pumpkin-head-photoshoot/example-video-poster.jpg
+- https://media.makeviral.ai/templates/ai-pumpkin-head-photoshoot/example-v2-input.jpg
+- https://media.makeviral.ai/templates/ai-pumpkin-head-photoshoot/example-v2-poster.jpg
+- https://media.makeviral.ai/templates/ai-pumpkin-head-photoshoot/example-video-input.jpg
+- https://media.makeviral.ai/templates/ai-pumpkin-head-photoshoot/example-video-poster.jpg
 
 ## Prompts
 

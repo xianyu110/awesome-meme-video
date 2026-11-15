@@ -7,11 +7,11 @@ The permission to cry sir meme, also called permission to cry soldier, is a TikT
 
 ## Demo videos (CDN)
 
-- https://www.makeviral.ai/media/templates/permission-to-cry-sir-ai-trend/original-pet-v2.mp4
+- https://media.makeviral.ai/templates/permission-to-cry-sir-ai-trend/original-pet-v2.mp4
 
 ## Posters
 
-- https://www.makeviral.ai/media/templates/permission-to-cry-sir-ai-trend/original-pet-v1.jpg
+- https://media.makeviral.ai/templates/permission-to-cry-sir-ai-trend/original-pet-v1.jpg
 
 ## Prompts
 

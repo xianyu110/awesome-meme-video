@@ -10,11 +10,11 @@
   "published": "2026-11-03",
   "credits": 126,
   "demo_videos": [
-    "https://www.makeviral.ai/media/templates/darts-170-ai-prank/example-main-v1.mp4"
+    "https://media.makeviral.ai/templates/darts-170-ai-prank/example-main-v1.mp4"
   ],
   "posters": [
-    "https://www.makeviral.ai/media/templates/darts-170-ai-prank/example-main-input.jpg",
-    "https://www.makeviral.ai/media/templates/darts-170-ai-prank/example-main-poster.jpg"
+    "https://media.makeviral.ai/templates/darts-170-ai-prank/example-main-input.jpg",
+    "https://media.makeviral.ai/templates/darts-170-ai-prank/example-main-poster.jpg"
   ],
   "prompts": [
     {
@@ -41,5 +41,5 @@
     "Make your own Darts 170 Prank video"
   ],
   "prompt_count": 2,
-  "scraped_at": "2026-11-14"
+  "scraped_at": "2026-11-15"
 }

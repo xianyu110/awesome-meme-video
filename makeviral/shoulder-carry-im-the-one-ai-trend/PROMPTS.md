@@ -7,11 +7,11 @@ The I'm the One trend is a TikTok couple video: one partner holds the other acro
 
 ## Demo videos (CDN)
 
-- https://www.makeviral.ai/media/templates/shoulder-carry-im-the-one-ai-trend/original-main-v2.mp4
+- https://media.makeviral.ai/templates/shoulder-carry-im-the-one-ai-trend/original-main-v2.mp4
 
 ## Posters
 
-- https://www.makeviral.ai/media/templates/shoulder-carry-im-the-one-ai-trend/original-main-v1.jpg
+- https://media.makeviral.ai/templates/shoulder-carry-im-the-one-ai-trend/original-main-v1.jpg
 
 ## Prompts
 

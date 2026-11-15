@@ -7,14 +7,14 @@ An AI Christmas photo looks like a professional holiday photoshoot, but it start
 
 ## Demo videos (CDN)
 
-- https://www.makeviral.ai/media/templates/ai-christmas-photoshoot/example-main-v1.mp4
-- https://www.makeviral.ai/media/templates/ai-christmas-photoshoot/original-main-v2.mp4
+- https://media.makeviral.ai/templates/ai-christmas-photoshoot/example-main-v1.mp4
+- https://media.makeviral.ai/templates/ai-christmas-photoshoot/original-main-v2.mp4
 
 ## Posters
 
-- https://www.makeviral.ai/media/templates/ai-christmas-photoshoot/example-main-input.jpg
-- https://www.makeviral.ai/media/templates/ai-christmas-photoshoot/example-main-poster.jpg
-- https://www.makeviral.ai/media/templates/ai-christmas-photoshoot/original-main-v1.jpg
+- https://media.makeviral.ai/templates/ai-christmas-photoshoot/example-main-input.jpg
+- https://media.makeviral.ai/templates/ai-christmas-photoshoot/example-main-poster.jpg
+- https://media.makeviral.ai/templates/ai-christmas-photoshoot/original-main-v1.jpg
 
 ## Prompts
 

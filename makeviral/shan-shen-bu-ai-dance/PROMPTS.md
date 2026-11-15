@@ -7,13 +7,13 @@ Shan shen bu (闪身步, also written 閃身步 or shanshenbu) is the "flash ste
 
 ## Demo videos (CDN)
 
-- https://www.makeviral.ai/media/templates/shan-shen-bu-ai-dance/original-pet-v2.mp4
-- https://www.makeviral.ai/media/templates/shan-shen-bu-ai-dance/original-shrimp-v2.mp4
+- https://media.makeviral.ai/templates/shan-shen-bu-ai-dance/original-pet-v2.mp4
+- https://media.makeviral.ai/templates/shan-shen-bu-ai-dance/original-shrimp-v2.mp4
 
 ## Posters
 
-- https://www.makeviral.ai/media/templates/shan-shen-bu-ai-dance/original-pet-v1.jpg
-- https://www.makeviral.ai/media/templates/shan-shen-bu-ai-dance/original-shrimp-v1.jpg
+- https://media.makeviral.ai/templates/shan-shen-bu-ai-dance/original-pet-v1.jpg
+- https://media.makeviral.ai/templates/shan-shen-bu-ai-dance/original-shrimp-v1.jpg
 
 ## Prompts
 

@@ -10,22 +10,22 @@
   "published": "2026-10-17",
   "credits": 126,
   "demo_videos": [
-    "https://www.makeviral.ai/media/templates/flying-roadster-ai-trend/original-flip-v2.mp4",
-    "https://www.makeviral.ai/media/templates/flying-roadster-ai-trend/original-main-v2.mp4",
-    "https://www.makeviral.ai/media/templates/flying-roadster-ai-trend/original-paris-v1.mp4",
-    "https://www.makeviral.ai/media/templates/flying-roadster-ai-trend/original-parking-v2.mp4",
-    "https://www.makeviral.ai/media/templates/flying-roadster-ai-trend/original-police-v2.mp4",
-    "https://www.makeviral.ai/media/templates/flying-roadster-ai-trend/original-tunnel-v2.mp4",
-    "https://www.makeviral.ai/media/templates/flying-roadster-ai-trend/sample-flip-v2.mp4"
+    "https://media.makeviral.ai/templates/flying-roadster-ai-trend/original-flip-v2.mp4",
+    "https://media.makeviral.ai/templates/flying-roadster-ai-trend/original-main-v2.mp4",
+    "https://media.makeviral.ai/templates/flying-roadster-ai-trend/original-paris-v1.mp4",
+    "https://media.makeviral.ai/templates/flying-roadster-ai-trend/original-parking-v2.mp4",
+    "https://media.makeviral.ai/templates/flying-roadster-ai-trend/original-police-v2.mp4",
+    "https://media.makeviral.ai/templates/flying-roadster-ai-trend/original-tunnel-v2.mp4",
+    "https://media.makeviral.ai/templates/flying-roadster-ai-trend/sample-flip-v2.mp4"
   ],
   "posters": [
-    "https://www.makeviral.ai/media/templates/flying-roadster-ai-trend/original-flip-v1.jpg",
-    "https://www.makeviral.ai/media/templates/flying-roadster-ai-trend/original-main-v1.jpg",
-    "https://www.makeviral.ai/media/templates/flying-roadster-ai-trend/original-paris-v1.jpg",
-    "https://www.makeviral.ai/media/templates/flying-roadster-ai-trend/original-parking-v1.jpg",
-    "https://www.makeviral.ai/media/templates/flying-roadster-ai-trend/original-police-v1.jpg",
-    "https://www.makeviral.ai/media/templates/flying-roadster-ai-trend/original-tunnel-v1.jpg",
-    "https://www.makeviral.ai/media/templates/flying-roadster-ai-trend/sample-flip-v1.jpg"
+    "https://media.makeviral.ai/templates/flying-roadster-ai-trend/original-flip-v1.jpg",
+    "https://media.makeviral.ai/templates/flying-roadster-ai-trend/original-main-v1.jpg",
+    "https://media.makeviral.ai/templates/flying-roadster-ai-trend/original-paris-v1.jpg",
+    "https://media.makeviral.ai/templates/flying-roadster-ai-trend/original-parking-v1.jpg",
+    "https://media.makeviral.ai/templates/flying-roadster-ai-trend/original-police-v1.jpg",
+    "https://media.makeviral.ai/templates/flying-roadster-ai-trend/original-tunnel-v1.jpg",
+    "https://media.makeviral.ai/templates/flying-roadster-ai-trend/sample-flip-v1.jpg"
   ],
   "prompts": [
     {
@@ -94,5 +94,5 @@
     "Make your own Flying Roadster AI video"
   ],
   "prompt_count": 8,
-  "scraped_at": "2026-11-14"
+  "scraped_at": "2026-11-15"
 }

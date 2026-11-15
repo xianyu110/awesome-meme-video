@@ -7,15 +7,15 @@ The Billie Jean dance trend puts an unlikely dancer into the famous 1983 moves: 
 
 ## Demo videos (CDN)
 
-- https://www.makeviral.ai/media/templates/billie-jean-dance-ai-trend/original-main-v2.mp4
-- https://www.makeviral.ai/media/templates/billie-jean-dance-ai-trend/original-pet-stage-v2.mp4
-- https://www.makeviral.ai/media/templates/billie-jean-dance-ai-trend/original-pet-v2.mp4
+- https://media.makeviral.ai/templates/billie-jean-dance-ai-trend/original-main-v2.mp4
+- https://media.makeviral.ai/templates/billie-jean-dance-ai-trend/original-pet-stage-v2.mp4
+- https://media.makeviral.ai/templates/billie-jean-dance-ai-trend/original-pet-v2.mp4
 
 ## Posters
 
-- https://www.makeviral.ai/media/templates/billie-jean-dance-ai-trend/original-main-v1.jpg
-- https://www.makeviral.ai/media/templates/billie-jean-dance-ai-trend/original-pet-stage-v1.jpg
-- https://www.makeviral.ai/media/templates/billie-jean-dance-ai-trend/original-pet-v1.jpg
+- https://media.makeviral.ai/templates/billie-jean-dance-ai-trend/original-main-v1.jpg
+- https://media.makeviral.ai/templates/billie-jean-dance-ai-trend/original-pet-stage-v1.jpg
+- https://media.makeviral.ai/templates/billie-jean-dance-ai-trend/original-pet-v1.jpg
 
 ## Prompts
 

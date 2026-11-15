@@ -7,16 +7,16 @@ The bby wow guy is the man in the viral quince party clip: he dances toward the 
 
 ## Demo videos (CDN)
 
-- https://www.makeviral.ai/media/templates/bby-wow-guy-meme-ai/example-v1.mp4
-- https://www.makeviral.ai/media/templates/bby-wow-guy-meme-ai/original-main-v2.mp4
-- https://www.makeviral.ai/media/templates/bby-wow-guy-meme-ai/original-wedding-v2.mp4
+- https://media.makeviral.ai/templates/bby-wow-guy-meme-ai/example-v1.mp4
+- https://media.makeviral.ai/templates/bby-wow-guy-meme-ai/original-main-v2.mp4
+- https://media.makeviral.ai/templates/bby-wow-guy-meme-ai/original-wedding-v2.mp4
 
 ## Posters
 
-- https://www.makeviral.ai/media/templates/bby-wow-guy-meme-ai/example-v1-input.jpg
-- https://www.makeviral.ai/media/templates/bby-wow-guy-meme-ai/example-v1-poster.jpg
-- https://www.makeviral.ai/media/templates/bby-wow-guy-meme-ai/original-main-v1.jpg
-- https://www.makeviral.ai/media/templates/bby-wow-guy-meme-ai/original-wedding-v1.jpg
+- https://media.makeviral.ai/templates/bby-wow-guy-meme-ai/example-v1-input.jpg
+- https://media.makeviral.ai/templates/bby-wow-guy-meme-ai/example-v1-poster.jpg
+- https://media.makeviral.ai/templates/bby-wow-guy-meme-ai/original-main-v1.jpg
+- https://media.makeviral.ai/templates/bby-wow-guy-meme-ai/original-wedding-v1.jpg
 
 ## Prompts
 

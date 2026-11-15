@@ -7,11 +7,11 @@ The Jensen Huang AI video trend is a wave of AI parody clips of the Nvidia CEO t
 
 ## Demo videos (CDN)
 
-- https://www.makeviral.ai/media/templates/jensen-huang-ai-video/original-main-v2.mp4
+- https://media.makeviral.ai/templates/jensen-huang-ai-video/original-main-v2.mp4
 
 ## Posters
 
-- https://www.makeviral.ai/media/templates/jensen-huang-ai-video/original-main-v1.jpg
+- https://media.makeviral.ai/templates/jensen-huang-ai-video/original-main-v1.jpg
 
 ## Prompts
 

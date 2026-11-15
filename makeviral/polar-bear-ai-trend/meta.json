@@ -10,10 +10,10 @@
   "published": "2026-10-14",
   "credits": 198,
   "demo_videos": [
-    "https://www.makeviral.ai/media/templates/polar-bear-ai-trend/original-tall-sing-v2.mp4"
+    "https://media.makeviral.ai/templates/polar-bear-ai-trend/original-tall-sing-v2.mp4"
   ],
   "posters": [
-    "https://www.makeviral.ai/media/templates/polar-bear-ai-trend/original-tall-sing-v1.jpg"
+    "https://media.makeviral.ai/templates/polar-bear-ai-trend/original-tall-sing-v1.jpg"
   ],
   "prompts": [
     {
@@ -51,5 +51,5 @@
     "Make your own Polar Bear 2026 video"
   ],
   "prompt_count": 3,
-  "scraped_at": "2026-11-14"
+  "scraped_at": "2026-11-15"
 }

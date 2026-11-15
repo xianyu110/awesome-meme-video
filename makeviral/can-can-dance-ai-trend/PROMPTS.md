@@ -7,11 +7,11 @@ The can can dance trend is the comic take on the old Paris high-kick dance, also
 
 ## Demo videos (CDN)
 
-- https://www.makeviral.ai/media/templates/can-can-dance-ai-trend/original-pet-v2.mp4
+- https://media.makeviral.ai/templates/can-can-dance-ai-trend/original-pet-v2.mp4
 
 ## Posters
 
-- https://www.makeviral.ai/media/templates/can-can-dance-ai-trend/original-pet-v1.jpg
+- https://media.makeviral.ai/templates/can-can-dance-ai-trend/original-pet-v1.jpg
 
 ## Prompts
 

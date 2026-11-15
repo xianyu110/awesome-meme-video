@@ -7,13 +7,13 @@ The Peaky Blinders explosion is the walk from the series 6 finale: Tommy Shelby 
 
 ## Demo videos (CDN)
 
-- https://www.makeviral.ai/media/templates/ai-explosion-walk-trend/original-gangster-v2.mp4
-- https://www.makeviral.ai/media/templates/ai-explosion-walk-trend/original-manor-v2.mp4
+- https://media.makeviral.ai/templates/ai-explosion-walk-trend/original-gangster-v2.mp4
+- https://media.makeviral.ai/templates/ai-explosion-walk-trend/original-manor-v2.mp4
 
 ## Posters
 
-- https://www.makeviral.ai/media/templates/ai-explosion-walk-trend/original-gangster-v1.jpg
-- https://www.makeviral.ai/media/templates/ai-explosion-walk-trend/original-manor-v1.jpg
+- https://media.makeviral.ai/templates/ai-explosion-walk-trend/original-gangster-v1.jpg
+- https://media.makeviral.ai/templates/ai-explosion-walk-trend/original-manor-v1.jpg
 
 ## Prompts
 

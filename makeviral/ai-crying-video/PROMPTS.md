@@ -7,15 +7,15 @@ The AI crying trend turns one photo into a 10-second drama scene.
 
 ## Demo videos (CDN)
 
-- https://www.makeviral.ai/media/templates/ai-crying-video/example-farewell-hijab.mp4
-- https://www.makeviral.ai/media/templates/ai-crying-video/example-farewell.mp4
+- https://media.makeviral.ai/templates/ai-crying-video/example-farewell-hijab.mp4
+- https://media.makeviral.ai/templates/ai-crying-video/example-farewell.mp4
 
 ## Posters
 
-- https://www.makeviral.ai/media/templates/ai-crying-video/example-farewell-hijab-input.jpg
-- https://www.makeviral.ai/media/templates/ai-crying-video/example-farewell-hijab-poster.jpg
-- https://www.makeviral.ai/media/templates/ai-crying-video/example-farewell-input.jpg
-- https://www.makeviral.ai/media/templates/ai-crying-video/example-farewell-poster.jpg
+- https://media.makeviral.ai/templates/ai-crying-video/example-farewell-hijab-input.jpg
+- https://media.makeviral.ai/templates/ai-crying-video/example-farewell-hijab-poster.jpg
+- https://media.makeviral.ai/templates/ai-crying-video/example-farewell-input.jpg
+- https://media.makeviral.ai/templates/ai-crying-video/example-farewell-poster.jpg
 
 ## Prompts
 

@@ -7,11 +7,11 @@ The Stateside dance is the TikTok routine to PinkPantheress and Zara Larsson's "
 
 ## Demo videos (CDN)
 
-- https://www.makeviral.ai/media/templates/stateside-dance-ai-trend/original-pet-v2.mp4
+- https://media.makeviral.ai/templates/stateside-dance-ai-trend/original-pet-v2.mp4
 
 ## Posters
 
-- https://www.makeviral.ai/media/templates/stateside-dance-ai-trend/original-pet-v1.jpg
+- https://media.makeviral.ai/templates/stateside-dance-ai-trend/original-pet-v1.jpg
 
 ## Prompts
 

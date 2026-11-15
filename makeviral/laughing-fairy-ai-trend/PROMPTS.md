@@ -7,15 +7,15 @@ The laughing fairy meme is the viral AI clip of two tiny, pale forest fairies wh
 
 ## Demo videos (CDN)
 
-- https://www.makeviral.ai/media/templates/laughing-fairy-ai-trend/original-bluti-v2.mp4
-- https://www.makeviral.ai/media/templates/laughing-fairy-ai-trend/original-laugh-v2.mp4
-- https://www.makeviral.ai/media/templates/laughing-fairy-ai-trend/original-main-v2.mp4
+- https://media.makeviral.ai/templates/laughing-fairy-ai-trend/original-bluti-v2.mp4
+- https://media.makeviral.ai/templates/laughing-fairy-ai-trend/original-laugh-v2.mp4
+- https://media.makeviral.ai/templates/laughing-fairy-ai-trend/original-main-v2.mp4
 
 ## Posters
 
-- https://www.makeviral.ai/media/templates/laughing-fairy-ai-trend/original-bluti-v1.jpg
-- https://www.makeviral.ai/media/templates/laughing-fairy-ai-trend/original-laugh-v1.jpg
-- https://www.makeviral.ai/media/templates/laughing-fairy-ai-trend/original-main-v1.jpg
+- https://media.makeviral.ai/templates/laughing-fairy-ai-trend/original-bluti-v1.jpg
+- https://media.makeviral.ai/templates/laughing-fairy-ai-trend/original-laugh-v1.jpg
+- https://media.makeviral.ai/templates/laughing-fairy-ai-trend/original-main-v1.jpg
 
 ## Prompts
 

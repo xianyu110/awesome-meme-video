@@ -7,12 +7,12 @@ The tiny desk AI trend is the meme where AI puts new faces into a famous office-
 
 ## Demo videos (CDN)
 
-- https://www.makeviral.ai/media/templates/tiny-desk-ai-trend/example-main-v1.mp4
+- https://media.makeviral.ai/templates/tiny-desk-ai-trend/example-main-v1.mp4
 
 ## Posters
 
-- https://www.makeviral.ai/media/templates/tiny-desk-ai-trend/example-main-input.jpg
-- https://www.makeviral.ai/media/templates/tiny-desk-ai-trend/example-main-poster.jpg
+- https://media.makeviral.ai/templates/tiny-desk-ai-trend/example-main-input.jpg
+- https://media.makeviral.ai/templates/tiny-desk-ai-trend/example-main-poster.jpg
 
 ## Prompts
 

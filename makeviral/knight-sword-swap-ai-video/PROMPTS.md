@@ -7,18 +7,18 @@ The knight sword swap AI video remakes a viral knight reel with your own cast.
 
 ## Demo videos (CDN)
 
-- https://www.makeviral.ai/media/templates/knight-sword-swap-ai-video/example-dad.mp4
-- https://www.makeviral.ai/media/templates/knight-sword-swap-ai-video/example-gold.mp4
-- https://www.makeviral.ai/media/templates/knight-sword-swap-ai-video/example.mp4
+- https://media.makeviral.ai/templates/knight-sword-swap-ai-video/example-dad.mp4
+- https://media.makeviral.ai/templates/knight-sword-swap-ai-video/example-gold.mp4
+- https://media.makeviral.ai/templates/knight-sword-swap-ai-video/example.mp4
 
 ## Posters
 
-- https://www.makeviral.ai/media/templates/knight-sword-swap-ai-video/example-dad-input.jpg
-- https://www.makeviral.ai/media/templates/knight-sword-swap-ai-video/example-dad-poster.jpg
-- https://www.makeviral.ai/media/templates/knight-sword-swap-ai-video/example-gold-input.jpg
-- https://www.makeviral.ai/media/templates/knight-sword-swap-ai-video/example-gold-poster.jpg
-- https://www.makeviral.ai/media/templates/knight-sword-swap-ai-video/example-input.jpg
-- https://www.makeviral.ai/media/templates/knight-sword-swap-ai-video/example-poster.jpg
+- https://media.makeviral.ai/templates/knight-sword-swap-ai-video/example-dad-input.jpg
+- https://media.makeviral.ai/templates/knight-sword-swap-ai-video/example-dad-poster.jpg
+- https://media.makeviral.ai/templates/knight-sword-swap-ai-video/example-gold-input.jpg
+- https://media.makeviral.ai/templates/knight-sword-swap-ai-video/example-gold-poster.jpg
+- https://media.makeviral.ai/templates/knight-sword-swap-ai-video/example-input.jpg
+- https://media.makeviral.ai/templates/knight-sword-swap-ai-video/example-poster.jpg
 
 ## Prompts
 

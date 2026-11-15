@@ -7,13 +7,13 @@ The All I Want for Christmas dance is the viral TikTok routine of November 2026:
 
 ## Demo videos (CDN)
 
-- https://www.makeviral.ai/media/templates/all-i-want-for-christmas-ai-trend/original-duo-v2.mp4
-- https://www.makeviral.ai/media/templates/all-i-want-for-christmas-ai-trend/original-friends-v2.mp4
+- https://media.makeviral.ai/templates/all-i-want-for-christmas-ai-trend/original-duo-v2.mp4
+- https://media.makeviral.ai/templates/all-i-want-for-christmas-ai-trend/original-friends-v2.mp4
 
 ## Posters
 
-- https://www.makeviral.ai/media/templates/all-i-want-for-christmas-ai-trend/original-duo-v1.jpg
-- https://www.makeviral.ai/media/templates/all-i-want-for-christmas-ai-trend/original-friends-v1.jpg
+- https://media.makeviral.ai/templates/all-i-want-for-christmas-ai-trend/original-duo-v1.jpg
+- https://media.makeviral.ai/templates/all-i-want-for-christmas-ai-trend/original-friends-v1.jpg
 
 ## Prompts
 

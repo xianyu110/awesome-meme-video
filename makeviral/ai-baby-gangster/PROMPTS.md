@@ -7,11 +7,11 @@ The AI Baby Gangster trend turns you into a tiny 3D cartoon toddler in the drive
 
 ## Demo videos (CDN)
 
-- https://www.makeviral.ai/media/templates/ai-baby-gangster/original-tall-v2.mp4
+- https://media.makeviral.ai/templates/ai-baby-gangster/original-tall-v2.mp4
 
 ## Posters
 
-- https://www.makeviral.ai/media/templates/ai-baby-gangster/original-tall-v1.jpg
+- https://media.makeviral.ai/templates/ai-baby-gangster/original-tall-v1.jpg
 
 ## Prompts
 

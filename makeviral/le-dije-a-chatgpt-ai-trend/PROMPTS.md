@@ -7,12 +7,12 @@ Le dije a ChatGPT que me pusiera esto ("I told ChatGPT to put this on me") is a 
 
 ## Demo videos (CDN)
 
-- https://www.makeviral.ai/media/templates/le-dije-a-chatgpt-ai-trend/example-v1.mp4
+- https://media.makeviral.ai/templates/le-dije-a-chatgpt-ai-trend/example-v1.mp4
 
 ## Posters
 
-- https://www.makeviral.ai/media/templates/le-dije-a-chatgpt-ai-trend/example-v1-input.jpg
-- https://www.makeviral.ai/media/templates/le-dije-a-chatgpt-ai-trend/example-v1-poster.jpg
+- https://media.makeviral.ai/templates/le-dije-a-chatgpt-ai-trend/example-v1-input.jpg
+- https://media.makeviral.ai/templates/le-dije-a-chatgpt-ai-trend/example-v1-poster.jpg
 
 ## Prompts
 

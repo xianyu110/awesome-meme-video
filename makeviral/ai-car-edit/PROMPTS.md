@@ -7,11 +7,11 @@ An AI car edit is a cinematic car edit made from photos instead of a film shoot:
 
 ## Demo videos (CDN)
 
-- https://www.makeviral.ai/media/templates/ai-car-edit/original-night-v2.mp4
+- https://media.makeviral.ai/templates/ai-car-edit/original-night-v2.mp4
 
 ## Posters
 
-- https://www.makeviral.ai/media/templates/ai-car-edit/original-night-v1.jpg
+- https://media.makeviral.ai/templates/ai-car-edit/original-night-v1.jpg
 
 ## Prompts
 

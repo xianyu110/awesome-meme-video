@@ -7,12 +7,12 @@ The Bama Bound meme is the TikTok trend "Applied to Bama as a joke... got in plu
 
 ## Demo videos (CDN)
 
-- https://www.makeviral.ai/media/templates/bama-bound-ai-trend/example-v1.mp4
+- https://media.makeviral.ai/templates/bama-bound-ai-trend/example-v1.mp4
 
 ## Posters
 
-- https://www.makeviral.ai/media/templates/bama-bound-ai-trend/example-v1-input.jpg
-- https://www.makeviral.ai/media/templates/bama-bound-ai-trend/example-v1-poster.jpg
+- https://media.makeviral.ai/templates/bama-bound-ai-trend/example-v1-input.jpg
+- https://media.makeviral.ai/templates/bama-bound-ai-trend/example-v1-poster.jpg
 
 ## Prompts
 

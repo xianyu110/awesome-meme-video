@@ -10,12 +10,12 @@
   "published": "2026-11-04",
   "credits": 213,
   "demo_videos": [
-    "https://www.makeviral.ai/media/templates/like-jennie-ai-trend/original-main-v1.mp4",
-    "https://www.makeviral.ai/media/templates/like-jennie-ai-trend/original-tall-main-v1.mp4"
+    "https://media.makeviral.ai/templates/like-jennie-ai-trend/original-main-v1.mp4",
+    "https://media.makeviral.ai/templates/like-jennie-ai-trend/original-tall-main-v1.mp4"
   ],
   "posters": [
-    "https://www.makeviral.ai/media/templates/like-jennie-ai-trend/original-main-v1.jpg",
-    "https://www.makeviral.ai/media/templates/like-jennie-ai-trend/original-tall-main-v1.jpg"
+    "https://media.makeviral.ai/templates/like-jennie-ai-trend/original-main-v1.jpg",
+    "https://media.makeviral.ai/templates/like-jennie-ai-trend/original-tall-main-v1.jpg"
   ],
   "prompts": [
     {
@@ -54,5 +54,5 @@
     "Make your own Like JENNIE Dance video"
   ],
   "prompt_count": 3,
-  "scraped_at": "2026-11-14"
+  "scraped_at": "2026-11-15"
 }

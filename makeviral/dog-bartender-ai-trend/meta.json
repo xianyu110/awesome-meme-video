@@ -10,10 +10,10 @@
   "published": "2026-10-30",
   "credits": 228,
   "demo_videos": [
-    "https://www.makeviral.ai/media/templates/dog-bartender-ai-trend/original-reel-v2.mp4"
+    "https://media.makeviral.ai/templates/dog-bartender-ai-trend/original-reel-v2.mp4"
   ],
   "posters": [
-    "https://www.makeviral.ai/media/templates/dog-bartender-ai-trend/original-reel-v1.jpg"
+    "https://media.makeviral.ai/templates/dog-bartender-ai-trend/original-reel-v1.jpg"
   ],
   "prompts": [
     {
@@ -50,5 +50,5 @@
     "Make your own Dog Bartender AI video"
   ],
   "prompt_count": 3,
-  "scraped_at": "2026-11-14"
+  "scraped_at": "2026-11-15"
 }

@@ -7,11 +7,11 @@ Cat on Ultra Bee is the viral AI clip of a cat riding an electric dirt bike: it 
 
 ## Demo videos (CDN)
 
-- https://www.makeviral.ai/media/templates/cat-on-ultra-bee-ai-trend/original-pet-v2.mp4
+- https://media.makeviral.ai/templates/cat-on-ultra-bee-ai-trend/original-pet-v2.mp4
 
 ## Posters
 
-- https://www.makeviral.ai/media/templates/cat-on-ultra-bee-ai-trend/original-pet-v1.jpg
+- https://media.makeviral.ai/templates/cat-on-ultra-bee-ai-trend/original-pet-v1.jpg
 
 ## Prompts
 

@@ -7,13 +7,13 @@ The AI steroids filter is the viral AI edit that turns one photo of you into a h
 
 ## Demo videos (CDN)
 
-- https://www.makeviral.ai/media/templates/ai-steroids-filter/original-main-v2.mp4
-- https://www.makeviral.ai/media/templates/ai-steroids-filter/original-pet-v2.mp4
+- https://media.makeviral.ai/templates/ai-steroids-filter/original-main-v2.mp4
+- https://media.makeviral.ai/templates/ai-steroids-filter/original-pet-v2.mp4
 
 ## Posters
 
-- https://www.makeviral.ai/media/templates/ai-steroids-filter/original-main-v1.jpg
-- https://www.makeviral.ai/media/templates/ai-steroids-filter/original-pet-v1.jpg
+- https://media.makeviral.ai/templates/ai-steroids-filter/original-main-v1.jpg
+- https://media.makeviral.ai/templates/ai-steroids-filter/original-pet-v1.jpg
 
 ## Prompts
 

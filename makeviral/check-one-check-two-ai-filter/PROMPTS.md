@@ -7,11 +7,11 @@ The check one check two filter is a TikTok AI trend from October 2026.
 
 ## Demo videos (CDN)
 
-- https://www.makeviral.ai/media/templates/check-one-check-two-ai-filter/creator-iamrodz-tall-v2.mp4
+- https://media.makeviral.ai/templates/check-one-check-two-ai-filter/creator-iamrodz-tall-v2.mp4
 
 ## Posters
 
-- https://www.makeviral.ai/media/templates/check-one-check-two-ai-filter/creator-iamrodz-tall-v1.jpg
+- https://media.makeviral.ai/templates/check-one-check-two-ai-filter/creator-iamrodz-tall-v1.jpg
 
 ## Prompts
 

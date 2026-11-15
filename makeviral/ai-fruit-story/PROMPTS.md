@@ -7,11 +7,11 @@ An AI fruit story is a short 3D cartoon soap opera with fruit people: a strawber
 
 ## Demo videos (CDN)
 
-- https://www.makeviral.ai/media/templates/ai-fruit-story/original-main-v2.mp4
+- https://media.makeviral.ai/templates/ai-fruit-story/original-main-v2.mp4
 
 ## Posters
 
-- https://www.makeviral.ai/media/templates/ai-fruit-story/original-main-v1.jpg
+- https://media.makeviral.ai/templates/ai-fruit-story/original-main-v1.jpg
 
 ## Prompts
 

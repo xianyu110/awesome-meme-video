@@ -7,13 +7,13 @@ The shaking head trend is the October 2026 TikTok meme where an animal stares in
 
 ## Demo videos (CDN)
 
-- https://www.makeviral.ai/media/templates/shaking-head-ai-trend/original-calf-v2.mp4
-- https://www.makeviral.ai/media/templates/shaking-head-ai-trend/original-dog-v2.mp4
+- https://media.makeviral.ai/templates/shaking-head-ai-trend/original-calf-v2.mp4
+- https://media.makeviral.ai/templates/shaking-head-ai-trend/original-dog-v2.mp4
 
 ## Posters
 
-- https://www.makeviral.ai/media/templates/shaking-head-ai-trend/original-calf-v1.jpg
-- https://www.makeviral.ai/media/templates/shaking-head-ai-trend/original-dog-v1.jpg
+- https://media.makeviral.ai/templates/shaking-head-ai-trend/original-calf-v1.jpg
+- https://media.makeviral.ai/templates/shaking-head-ai-trend/original-dog-v1.jpg
 
 ## Prompts
 

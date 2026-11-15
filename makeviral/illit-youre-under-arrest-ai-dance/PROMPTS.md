@@ -7,11 +7,11 @@ The ILLIT You're Under Arrest dance is the 체포하겠어 challenge of ILLIT's 
 
 ## Demo videos (CDN)
 
-- https://www.makeviral.ai/media/templates/illit-youre-under-arrest-ai-dance/original-main-v2.mp4
+- https://media.makeviral.ai/templates/illit-youre-under-arrest-ai-dance/original-main-v2.mp4
 
 ## Posters
 
-- https://www.makeviral.ai/media/templates/illit-youre-under-arrest-ai-dance/original-main-v1.jpg
+- https://media.makeviral.ai/templates/illit-youre-under-arrest-ai-dance/original-main-v1.jpg
 
 ## Prompts
 

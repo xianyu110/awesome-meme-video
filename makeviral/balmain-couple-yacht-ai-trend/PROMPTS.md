@@ -7,11 +7,11 @@ The Balmain Earkid trend is a couple yacht video: one person films a selfie on a
 
 ## Demo videos (CDN)
 
-- https://www.makeviral.ai/media/templates/balmain-couple-yacht-ai-trend/original-trend-v2.mp4
+- https://media.makeviral.ai/templates/balmain-couple-yacht-ai-trend/original-trend-v2.mp4
 
 ## Posters
 
-- https://www.makeviral.ai/media/templates/balmain-couple-yacht-ai-trend/original-trend-v1.jpg
+- https://media.makeviral.ai/templates/balmain-couple-yacht-ai-trend/original-trend-v1.jpg
 
 ## Prompts
 

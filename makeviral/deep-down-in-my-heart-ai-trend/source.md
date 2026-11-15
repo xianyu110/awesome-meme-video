@@ -3,7 +3,7 @@
 > The deep down in my heart, I still love you meme is two people on a sofa: one confesses their love in a shaky voice, and the other breaks into a long, loud ugly cry.
 
 Canonical: https://www.makeviral.ai/templates/deep-down-in-my-heart-ai-trend
-Updated: 2026-10-27
+Updated: 2026-11-14
 Published: 2026-10-27
 Author: MakeViral Team (https://www.makeviral.ai/about)
 Publisher: MakeViral (https://www.makeviral.ai)
@@ -16,7 +16,7 @@ Also called: Best Cry Ever, Somewhere deep down in my heart.
 
 **Make it now:** [Make this video](https://www.makeviral.ai/templates/deep-down-in-my-heart-ai-trend/create). 2 photos · 15 s · 9:16 with sound · 189 credits, charged once · ready in a few minutes · no prompt to write.
 
-Keyword: deep down in my heart i still love you. Also answers: deep down in my heart i still love you meme, best cry ever meme, i still love you meme, deep down in my heart meme, somewhere deep down in my heart i still love you, because i know somewhere deep down in my heart i still love you, i still love you crying meme, deep down in my heart ai, deep down in my heart i still love you video, deep down in my heart i still love you cry, i know somewhere deep down in my heart, ugly cry meme, crying meme ai, crying meme maker, best cry ever ai, but deep down in my heart i still love you.
+Keyword: deep down in my heart i still love you. Also answers: deep down in my heart i still love you meme, best cry ever meme, i still love you meme, deep down in my heart meme, somewhere deep down in my heart i still love you, because i know somewhere deep down in my heart i still love you, i still love you crying meme, deep down in my heart ai, deep down in my heart i still love you video, deep down in my heart i still love you cry, i know somewhere deep down in my heart, deep down i still love you, i know deep down in my heart i still love you, somewhere deep down i still love you, ugly cry meme, crying meme ai, crying meme maker, best cry ever ai, but deep down in my heart i still love you, i still love you meme origin.
 
 ## What is the Deep Down In My Heart trend, and where did it start?
 
@@ -40,9 +40,9 @@ Our version is a new scene made with AI: your two faces on a cozy living-room so
 Made from the prompts on this page. The people and pets are AI-made, not real persons, and the sound is original. Your result will differ from run to run.
 
 - **Example 1** (15 s, 9:16 MP4 with sound): Duo, two photos: an AI-made woman says "I still love you", and the AI-made man next to her breaks into a long ugly cry.
-  - Video: https://www.makeviral.ai/media/templates/deep-down-in-my-heart-ai-trend/example-main.mp4
-  - Poster: https://www.makeviral.ai/media/templates/deep-down-in-my-heart-ai-trend/example-main-poster.jpg
-  - Input photo: https://www.makeviral.ai/media/templates/deep-down-in-my-heart-ai-trend/example-main-input.jpg
+  - Video: https://media.makeviral.ai/templates/deep-down-in-my-heart-ai-trend/example-main.mp4
+  - Poster: https://media.makeviral.ai/templates/deep-down-in-my-heart-ai-trend/example-main-poster.jpg
+  - Input photo: https://media.makeviral.ai/templates/deep-down-in-my-heart-ai-trend/example-main-input.jpg
 
 ## How to make the Deep Down In My Heart video on MakeViral
 
@@ -135,6 +135,14 @@ Looking for a crying meme maker with your own friend in it? This is the crying m
 
 It is a famous crying meme from a 2010 TV clip, also called the Best Cry Ever: one person confesses their love in a shaky voice, and the other breaks into a long, loud cry. In October 2026 it came back on TikTok, and now people make their own version with a friend.
 
+### Where does the I still love you meme come from?
+
+The I still love you meme comes from a 2010 TV clip that the internet calls the Best Cry Ever: one person says the line, the other breaks into a long, loud cry. That origin is real TV footage, so MakeViral never uses the clip or its sound. Your version is a new scene with your two faces.
+
+### Is it "somewhere deep down" or "I know deep down in my heart"?
+
+Both: the clip has one long line with "I know" and "somewhere deep down" in it. Some people search it as "I know deep down in my heart I still love you". Others type only "somewhere deep down I still love you". In your video, photo 2 says the line, then photo 1 cries.
+
 ### How do I make a deep down in my heart I still love you video?
 
 Upload two photos: photo 1 is the crier, photo 2 says the line. MakeViral makes a 15-second clip of you both on a sofa, with the line, the cry and sound. You do not need a template app or an editor.
@@ -165,12 +173,12 @@ No. Use photos of yourself and of an adult (18+) who agreed to it. We do not mak
 
 ## New AI video trends this week
 
-- [AI Cat Gym Video: Put Your Pet on the Air Walker](https://www.makeviral.ai/templates/ai-cat-gym-video): Add one photo, and your cat or dog stands upright on an outdoor air walker, legs swinging out of control, until it slips off and tumbles to the ground, in the same take as the viral clip, with its original sound. You can take the fall yourself, too.
-- [Jensen Huang AI Video: Take the Wheel Next to the Nvidia CEO](https://www.makeviral.ai/templates/jensen-huang-ai-video): The car clip that started the Jensen Huang AI memes, with you at the wheel. Add one photo, and you (or your pet) drive the Nvidia CEO in his black leather jacket, with the clip's own sound.
-- [Cat Shower AI: Dodge the Water, Dive Under the Blanket](https://www.makeviral.ai/templates/cat-shower-ai-trend): The cat scoops the water, pours it over its head and leans away so not one drop hits it. Then it shivers and runs to bed. Add one photo, and you or your pet take the cat's place, with the trend's own sound.
-- [Tying My Shoes Meme: Put Yourself Behind the Tip Cup](https://www.makeviral.ai/templates/tying-shoes-money-ai-trend): You put your cup down to tie your shoe, and people start dropping cash in it. Add one photo, and you or your pet star in the viral clip, grin and all, with its original sound.
-- [MobLand Dance AI: Do Paul's Dance From One Photo](https://www.makeviral.ai/templates/mobland-paul-dance-ai): Lean in to the camera, step back, then the knee lifts, the little kicks, the shrugs and the hand flicks, with a straight face that keeps breaking into a grin. Add one photo of you or your pet and get the 10 second clip with the music.
-- [Bad Aim Edit AI Trend: Miss the Target, Then Own the Office](https://www.makeviral.ai/templates/bad-aim-edit-ai-trend): You try archery in a grass field and miss the flying target badly. Then a hard cut: a cool black and white office edit in black fight gloves, with a mug, a shh and a walk out the door. Add one photo of you or your pet.
+- [Never Let Her Pay: Pay for Dinner With a Sponge](https://www.makeviral.ai/templates/never-let-her-pay-ai-trend): "I got this." Add one photo, and you play the gentleman in the white dinner jacket who stops his date from paying, opens his pouch to show a kitchen sponge and gets walked to the kitchen to wash the dishes. With the clip's own sound.
+- [Snowman Dance AI: Do the Viral Sia Couple Dance From Two Photos](https://www.makeviral.ai/templates/snowman-dance-ai-trend): Hands behind your backs, a spin under the arm, a quick twirl around each other, and then one of you jumps on the other. Add a photo of you and one of your partner, or of two pets, and get the whole Snowman dance with the song.
+- [Self Hug Sketch: A Giant Pencil Drawing of You Hugs You](https://www.makeviral.ai/templates/self-hug-sketch-ai-trend): Add one photo. You lean on a grey wall while a huge black-and-white pencil sketch of you, drawn on the wall, wraps its arms around you, with "Embrace of my own self" written beside you.
+- [Need for Speed AI Trend: Your Car in the Movie Scene](https://www.makeviral.ai/templates/need-for-speed-ai-trend): Add one photo of your car or truck. AI puts it in the trend's movie-style street scene: it rolls through town, spins burnouts in thick tire smoke while people watch, and rolls away, with the trend's own sound.
+- [Tweenslop AI: Turn One Photo Into a Tweenslop Animation](https://www.makeviral.ai/templates/tweenslop-ai-trend): Your photo becomes a flat cut-out that zooms, squashes, spins and flies with a rainbow trail on every beat of a Brazilian funk track, with white, pink, purple and green flashes. You, your pet or any object.
+- [We Don't Talk Anymore Dance: Do the Viral Freestyle From One Photo](https://www.makeviral.ai/templates/we-dont-talk-anymore-dance-ai-trend): The sped-up "We Don't Talk Anymore" freestyle is all over TikTok. Add one photo, and you dance it on the trend's stage, barefoot on a driveway at night with your shoes in one hand, or your pet takes the stage.
 
 ## Make your own Deep Down In My Heart video
 

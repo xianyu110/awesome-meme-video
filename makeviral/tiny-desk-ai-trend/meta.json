@@ -10,11 +10,11 @@
   "published": "2026-10-25",
   "credits": 126,
   "demo_videos": [
-    "https://www.makeviral.ai/media/templates/tiny-desk-ai-trend/example-main-v1.mp4"
+    "https://media.makeviral.ai/templates/tiny-desk-ai-trend/example-main-v1.mp4"
   ],
   "posters": [
-    "https://www.makeviral.ai/media/templates/tiny-desk-ai-trend/example-main-input.jpg",
-    "https://www.makeviral.ai/media/templates/tiny-desk-ai-trend/example-main-poster.jpg"
+    "https://media.makeviral.ai/templates/tiny-desk-ai-trend/example-main-input.jpg",
+    "https://media.makeviral.ai/templates/tiny-desk-ai-trend/example-main-poster.jpg"
   ],
   "prompts": [
     {
@@ -60,5 +60,5 @@
     "Make your own Tiny Desk AI video"
   ],
   "prompt_count": 5,
-  "scraped_at": "2026-11-14"
+  "scraped_at": "2026-11-15"
 }

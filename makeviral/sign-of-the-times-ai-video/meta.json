@@ -10,12 +10,12 @@
   "published": "2026-11-10",
   "credits": 228,
   "demo_videos": [
-    "https://www.makeviral.ai/media/templates/sign-of-the-times-ai-video/original-couple-v2.mp4",
-    "https://www.makeviral.ai/media/templates/sign-of-the-times-ai-video/original-tall-couple-v2.mp4"
+    "https://media.makeviral.ai/templates/sign-of-the-times-ai-video/original-couple-v2.mp4",
+    "https://media.makeviral.ai/templates/sign-of-the-times-ai-video/original-tall-couple-v2.mp4"
   ],
   "posters": [
-    "https://www.makeviral.ai/media/templates/sign-of-the-times-ai-video/original-couple-v1.jpg",
-    "https://www.makeviral.ai/media/templates/sign-of-the-times-ai-video/original-tall-couple-v1.jpg"
+    "https://media.makeviral.ai/templates/sign-of-the-times-ai-video/original-couple-v1.jpg",
+    "https://media.makeviral.ai/templates/sign-of-the-times-ai-video/original-tall-couple-v1.jpg"
   ],
   "prompts": [
     {
@@ -56,5 +56,5 @@
     "Make your own Sign of the Times video"
   ],
   "prompt_count": 3,
-  "scraped_at": "2026-11-14"
+  "scraped_at": "2026-11-15"
 }

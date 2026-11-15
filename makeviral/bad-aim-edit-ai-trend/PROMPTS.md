@@ -7,14 +7,14 @@ The bad aim edit is an AI video trend from November 2026: a character misses a f
 
 ## Demo videos (CDN)
 
-- https://www.makeviral.ai/media/templates/bad-aim-edit-ai-trend/example-main-v1.mp4
-- https://www.makeviral.ai/media/templates/bad-aim-edit-ai-trend/original-main-v4.mp4
+- https://media.makeviral.ai/templates/bad-aim-edit-ai-trend/example-main-v1.mp4
+- https://media.makeviral.ai/templates/bad-aim-edit-ai-trend/original-main-v4.mp4
 
 ## Posters
 
-- https://www.makeviral.ai/media/templates/bad-aim-edit-ai-trend/example-main-input.jpg
-- https://www.makeviral.ai/media/templates/bad-aim-edit-ai-trend/example-main-poster.jpg
-- https://www.makeviral.ai/media/templates/bad-aim-edit-ai-trend/original-main-v3.jpg
+- https://media.makeviral.ai/templates/bad-aim-edit-ai-trend/example-main-input.jpg
+- https://media.makeviral.ai/templates/bad-aim-edit-ai-trend/example-main-poster.jpg
+- https://media.makeviral.ai/templates/bad-aim-edit-ai-trend/original-main-v3.jpg
 
 ## Prompts
 

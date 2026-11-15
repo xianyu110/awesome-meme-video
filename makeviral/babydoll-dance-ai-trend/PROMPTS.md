@@ -7,13 +7,13 @@ The Babydoll dance is the bouncy two-step that took over TikTok in autumn 2026 t
 
 ## Demo videos (CDN)
 
-- https://www.makeviral.ai/media/templates/babydoll-dance-ai-trend/original-friends-v2.mp4
-- https://www.makeviral.ai/media/templates/babydoll-dance-ai-trend/original-pet-v2.mp4
+- https://media.makeviral.ai/templates/babydoll-dance-ai-trend/original-friends-v2.mp4
+- https://media.makeviral.ai/templates/babydoll-dance-ai-trend/original-pet-v2.mp4
 
 ## Posters
 
-- https://www.makeviral.ai/media/templates/babydoll-dance-ai-trend/original-friends-v1.jpg
-- https://www.makeviral.ai/media/templates/babydoll-dance-ai-trend/original-pet-v1.jpg
+- https://media.makeviral.ai/templates/babydoll-dance-ai-trend/original-friends-v1.jpg
+- https://media.makeviral.ai/templates/babydoll-dance-ai-trend/original-pet-v1.jpg
 
 ## Prompts
 

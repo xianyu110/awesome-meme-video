@@ -7,12 +7,12 @@ The Nightwing trend AI template makes the viral Halloween clip with your face.
 
 ## Demo videos (CDN)
 
-- https://www.makeviral.ai/media/templates/nightwing-costume-ai-trend/example-v1.mp4
+- https://media.makeviral.ai/templates/nightwing-costume-ai-trend/example-v1.mp4
 
 ## Posters
 
-- https://www.makeviral.ai/media/templates/nightwing-costume-ai-trend/example-v1-input.jpg
-- https://www.makeviral.ai/media/templates/nightwing-costume-ai-trend/example-v1-poster.jpg
+- https://media.makeviral.ai/templates/nightwing-costume-ai-trend/example-v1-input.jpg
+- https://media.makeviral.ai/templates/nightwing-costume-ai-trend/example-v1-poster.jpg
 
 ## Prompts
 

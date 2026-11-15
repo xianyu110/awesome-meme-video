@@ -10,14 +10,14 @@
   "published": "2026-10-09",
   "credits": 3,
   "demo_videos": [
-    "https://www.makeviral.ai/media/templates/ai-pumpkin-head-photoshoot/example-v2.mp4",
-    "https://www.makeviral.ai/media/templates/ai-pumpkin-head-photoshoot/example-video.mp4"
+    "https://media.makeviral.ai/templates/ai-pumpkin-head-photoshoot/example-v2.mp4",
+    "https://media.makeviral.ai/templates/ai-pumpkin-head-photoshoot/example-video.mp4"
   ],
   "posters": [
-    "https://www.makeviral.ai/media/templates/ai-pumpkin-head-photoshoot/example-v2-input.jpg",
-    "https://www.makeviral.ai/media/templates/ai-pumpkin-head-photoshoot/example-v2-poster.jpg",
-    "https://www.makeviral.ai/media/templates/ai-pumpkin-head-photoshoot/example-video-input.jpg",
-    "https://www.makeviral.ai/media/templates/ai-pumpkin-head-photoshoot/example-video-poster.jpg"
+    "https://media.makeviral.ai/templates/ai-pumpkin-head-photoshoot/example-v2-input.jpg",
+    "https://media.makeviral.ai/templates/ai-pumpkin-head-photoshoot/example-v2-poster.jpg",
+    "https://media.makeviral.ai/templates/ai-pumpkin-head-photoshoot/example-video-input.jpg",
+    "https://media.makeviral.ai/templates/ai-pumpkin-head-photoshoot/example-video-poster.jpg"
   ],
   "prompts": [
     {
@@ -60,5 +60,5 @@
     "Make your own Pumpkin Head photo"
   ],
   "prompt_count": 4,
-  "scraped_at": "2026-11-14"
+  "scraped_at": "2026-11-15"
 }

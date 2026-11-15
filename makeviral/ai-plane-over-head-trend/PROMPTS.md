@@ -7,11 +7,11 @@ The airplane flying over head AI trend turns one photo into a short clip where a
 
 ## Demo videos (CDN)
 
-- https://www.makeviral.ai/media/templates/ai-plane-over-head-trend/original-plane-v2.mp4
+- https://media.makeviral.ai/templates/ai-plane-over-head-trend/original-plane-v2.mp4
 
 ## Posters
 
-- https://www.makeviral.ai/media/templates/ai-plane-over-head-trend/original-plane-v1.jpg
+- https://media.makeviral.ai/templates/ai-plane-over-head-trend/original-plane-v1.jpg
 
 ## Prompts
 

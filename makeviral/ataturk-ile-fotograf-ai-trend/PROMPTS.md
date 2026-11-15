@@ -7,12 +7,12 @@ Atatürk ile fotoğraf is a yearly Turkish AI photo trend: around 29 Ekim (Repub
 
 ## Demo videos (CDN)
 
-- https://www.makeviral.ai/media/templates/ataturk-ile-fotograf-ai-trend/example-v1.mp4
+- https://media.makeviral.ai/templates/ataturk-ile-fotograf-ai-trend/example-v1.mp4
 
 ## Posters
 
-- https://www.makeviral.ai/media/templates/ataturk-ile-fotograf-ai-trend/example-v1-input.jpg
-- https://www.makeviral.ai/media/templates/ataturk-ile-fotograf-ai-trend/example-v1-poster.jpg
+- https://media.makeviral.ai/templates/ataturk-ile-fotograf-ai-trend/example-v1-input.jpg
+- https://media.makeviral.ai/templates/ataturk-ile-fotograf-ai-trend/example-v1-poster.jpg
 
 ## Prompts
 

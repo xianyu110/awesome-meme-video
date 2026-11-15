@@ -7,11 +7,11 @@ The Mind Enterprises balcony AI video puts you and a friend into the retro balco
 
 ## Demo videos (CDN)
 
-- https://www.makeviral.ai/media/templates/mind-enterprises-balcony-ai-trend/original-main-v2.mp4
+- https://media.makeviral.ai/templates/mind-enterprises-balcony-ai-trend/original-main-v2.mp4
 
 ## Posters
 
-- https://www.makeviral.ai/media/templates/mind-enterprises-balcony-ai-trend/original-main-v1.jpg
+- https://media.makeviral.ai/templates/mind-enterprises-balcony-ai-trend/original-main-v1.jpg
 
 ## Prompts
 

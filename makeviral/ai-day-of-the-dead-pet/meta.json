@@ -10,12 +10,12 @@
   "published": "2026-10-14",
   "credits": 152,
   "demo_videos": [
-    "https://www.makeviral.ai/media/templates/ai-day-of-the-dead-pet/original-bridge-v2.mp4",
-    "https://www.makeviral.ai/media/templates/ai-day-of-the-dead-pet/original-pet-v2.mp4"
+    "https://media.makeviral.ai/templates/ai-day-of-the-dead-pet/original-bridge-v2.mp4",
+    "https://media.makeviral.ai/templates/ai-day-of-the-dead-pet/original-pet-v2.mp4"
   ],
   "posters": [
-    "https://www.makeviral.ai/media/templates/ai-day-of-the-dead-pet/original-bridge-v1.jpg",
-    "https://www.makeviral.ai/media/templates/ai-day-of-the-dead-pet/original-pet-v1.jpg"
+    "https://media.makeviral.ai/templates/ai-day-of-the-dead-pet/original-bridge-v1.jpg",
+    "https://media.makeviral.ai/templates/ai-day-of-the-dead-pet/original-pet-v1.jpg"
   ],
   "prompts": [
     {
@@ -66,5 +66,5 @@
     "Make your own Day of the Dead Pet video"
   ],
   "prompt_count": 4,
-  "scraped_at": "2026-11-14"
+  "scraped_at": "2026-11-15"
 }

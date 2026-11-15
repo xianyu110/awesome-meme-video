@@ -7,13 +7,13 @@ The Alors On Danse AI trend recasts a 2010 comedy sketch in a white studio: one 
 
 ## Demo videos (CDN)
 
-- https://www.makeviral.ai/media/templates/alors-on-danse-ai-trend/original-main-tall-v2.mp4
-- https://www.makeviral.ai/media/templates/alors-on-danse-ai-trend/original-pets-tall-v2.mp4
+- https://media.makeviral.ai/templates/alors-on-danse-ai-trend/original-main-tall-v2.mp4
+- https://media.makeviral.ai/templates/alors-on-danse-ai-trend/original-pets-tall-v2.mp4
 
 ## Posters
 
-- https://www.makeviral.ai/media/templates/alors-on-danse-ai-trend/original-main-tall-v1.jpg
-- https://www.makeviral.ai/media/templates/alors-on-danse-ai-trend/original-pets-tall-v1.jpg
+- https://media.makeviral.ai/templates/alors-on-danse-ai-trend/original-main-tall-v1.jpg
+- https://media.makeviral.ai/templates/alors-on-danse-ai-trend/original-pets-tall-v1.jpg
 
 ## Prompts
 

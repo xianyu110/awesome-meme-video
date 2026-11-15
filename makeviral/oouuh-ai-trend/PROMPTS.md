@@ -7,11 +7,11 @@ The Oouuh AI trend recasts a famous kitchen clip: one person strums a ukulele wh
 
 ## Demo videos (CDN)
 
-- https://www.makeviral.ai/media/templates/oouuh-ai-trend/original-main-v2.mp4
+- https://media.makeviral.ai/templates/oouuh-ai-trend/original-main-v2.mp4
 
 ## Posters
 
-- https://www.makeviral.ai/media/templates/oouuh-ai-trend/original-main-v1.jpg
+- https://media.makeviral.ai/templates/oouuh-ai-trend/original-main-v1.jpg
 
 ## Prompts
 

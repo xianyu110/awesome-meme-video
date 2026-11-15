@@ -6,14 +6,14 @@
   "url": "https://www.makeviral.ai/templates/your-next-opponent-is-you-ai-trend",
   "markdown_url": "https://www.makeviral.ai/templates/your-next-opponent-is-you-ai-trend.md",
   "blurb": "Your Next Opponent Is You is a meme where a voice says \"Congratulations, you're moving to the next level.",
-  "updated": "2026-11-08",
+  "updated": "2026-11-14",
   "published": "2026-11-02",
   "credits": 189,
   "demo_videos": [
-    "https://www.makeviral.ai/media/templates/your-next-opponent-is-you-ai-trend/original-main-v2.mp4"
+    "https://media.makeviral.ai/templates/your-next-opponent-is-you-ai-trend/original-main-v2.mp4"
   ],
   "posters": [
-    "https://www.makeviral.ai/media/templates/your-next-opponent-is-you-ai-trend/original-main-v1.jpg"
+    "https://media.makeviral.ai/templates/your-next-opponent-is-you-ai-trend/original-main-v1.jpg"
   ],
   "prompts": [
     {
@@ -40,6 +40,7 @@
     "How to make the Next Opponent Is You video on MakeViral",
     "Which photo works best?",
     "Three versions: You, your childhood photo, and Pet",
+    "What is the original \"Congratulations, you're moving to the next level\" video?",
     "Do I need a childhood photo?",
     "Can I use a photo of my child or another kid?",
     "Is there a Your Next Opponent Is You AI video generator or app?",
@@ -50,5 +51,5 @@
     "Make your own Next Opponent Is You video"
   ],
   "prompt_count": 3,
-  "scraped_at": "2026-11-14"
+  "scraped_at": "2026-11-15"
 }

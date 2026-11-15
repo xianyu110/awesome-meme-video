@@ -7,11 +7,11 @@ The Hawak Mo Ang Beat AI dance turns one photo of you into a short clip of you d
 
 ## Demo videos (CDN)
 
-- https://www.makeviral.ai/media/templates/hawak-mo-ang-beat-ai-dance/original-beach-v2.mp4
+- https://media.makeviral.ai/templates/hawak-mo-ang-beat-ai-dance/original-beach-v2.mp4
 
 ## Posters
 
-- https://www.makeviral.ai/media/templates/hawak-mo-ang-beat-ai-dance/original-beach-v1.jpg
+- https://media.makeviral.ai/templates/hawak-mo-ang-beat-ai-dance/original-beach-v1.jpg
 
 ## Prompts
 

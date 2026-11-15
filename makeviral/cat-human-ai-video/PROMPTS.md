@@ -7,11 +7,11 @@ A cat human AI video puts a pet's real head on a human body and lets it act like
 
 ## Demo videos (CDN)
 
-- https://www.makeviral.ai/media/templates/cat-human-ai-video/original-pet-v2.mp4
+- https://media.makeviral.ai/templates/cat-human-ai-video/original-pet-v2.mp4
 
 ## Posters
 
-- https://www.makeviral.ai/media/templates/cat-human-ai-video/original-pet-v1.jpg
+- https://media.makeviral.ai/templates/cat-human-ai-video/original-pet-v1.jpg
 
 ## Prompts
 

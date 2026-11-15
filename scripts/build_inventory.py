@@ -65,8 +65,9 @@ def parse_makeviral_md(path: Path) -> dict:
     published = re.search(r'^Published:\s*(.+)$', md, re.M)
     credits_m = re.search(r'(\d+)\s+credits', md, re.I)
     # media
-    videos = sorted(set(clean_url(u) for u in re.findall(r'https://www\.makeviral\.ai/media/templates/[^\s\)\"]+\.mp4', md)))
-    posters = sorted(set(clean_url(u) for u in re.findall(r'https://www\.makeviral\.ai/media/templates/[^\s\)\"]+\.(?:jpg|jpeg|png|webp)', md)))
+    # Media CDN moved from www.makeviral.ai/media/templates/ to media.makeviral.ai/templates/
+    videos = sorted(set(clean_url(u) for u in re.findall(r'https://(?:www\.makeviral\.ai/media|media\.makeviral\.ai)/templates/[^\s\)\"]+\.mp4', md)))
+    posters = sorted(set(clean_url(u) for u in re.findall(r'https://(?:www\.makeviral\.ai/media|media\.makeviral\.ai)/templates/[^\s\)\"]+\.(?:jpg|jpeg|png|webp)', md)))
     # also example-input etc already in posters
     prompts = extract_fenced_prompts(md)
     # section headings that look like variants

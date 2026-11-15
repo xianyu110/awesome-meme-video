@@ -10,12 +10,12 @@
   "published": "2026-10-11",
   "credits": 152,
   "demo_videos": [
-    "https://www.makeviral.ai/media/templates/ramalama-ai-trend/original-pet-v2.mp4",
-    "https://www.makeviral.ai/media/templates/ramalama-ai-trend/original-walk-v2.mp4"
+    "https://media.makeviral.ai/templates/ramalama-ai-trend/original-pet-v2.mp4",
+    "https://media.makeviral.ai/templates/ramalama-ai-trend/original-walk-v2.mp4"
   ],
   "posters": [
-    "https://www.makeviral.ai/media/templates/ramalama-ai-trend/original-pet-v1.jpg",
-    "https://www.makeviral.ai/media/templates/ramalama-ai-trend/original-walk-v1.jpg"
+    "https://media.makeviral.ai/templates/ramalama-ai-trend/original-pet-v1.jpg",
+    "https://media.makeviral.ai/templates/ramalama-ai-trend/original-walk-v1.jpg"
   ],
   "prompts": [
     {
@@ -53,5 +53,5 @@
     "Make your own Ramalama video"
   ],
   "prompt_count": 3,
-  "scraped_at": "2026-11-14"
+  "scraped_at": "2026-11-15"
 }

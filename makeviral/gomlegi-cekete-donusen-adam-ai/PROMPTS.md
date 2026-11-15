@@ -7,11 +7,11 @@ Gömleği cekete dönüşen adam ("the man whose shirt turns into a jacket") is 
 
 ## Demo videos (CDN)
 
-- https://www.makeviral.ai/media/templates/turkish-spoon-dance-ai/original-main-v2.mp4
+- https://media.makeviral.ai/templates/turkish-spoon-dance-ai/original-main-v2.mp4
 
 ## Posters
 
-- https://www.makeviral.ai/media/templates/turkish-spoon-dance-ai/original-main-v1.jpg
+- https://media.makeviral.ai/templates/turkish-spoon-dance-ai/original-main-v1.jpg
 
 ## Prompts
 

@@ -7,11 +7,11 @@ The gang gang dance is the viral AI dance battle of autumn 2026: a slow, cocky h
 
 ## Demo videos (CDN)
 
-- https://www.makeviral.ai/media/templates/gang-gang-dance-ai-trend/original-main-v2.mp4
+- https://media.makeviral.ai/templates/gang-gang-dance-ai-trend/original-main-v2.mp4
 
 ## Posters
 
-- https://www.makeviral.ai/media/templates/gang-gang-dance-ai-trend/original-main-v1.jpg
+- https://media.makeviral.ai/templates/gang-gang-dance-ai-trend/original-main-v1.jpg
 
 ## Prompts
 

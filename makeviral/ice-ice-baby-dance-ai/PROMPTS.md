@@ -7,13 +7,13 @@ The Ice Ice Baby dance is the AI duo dance of November 2026: two people side by 
 
 ## Demo videos (CDN)
 
-- https://www.makeviral.ai/media/templates/ice-ice-baby-dance-ai/original-main-v2.mp4
-- https://www.makeviral.ai/media/templates/ice-ice-baby-dance-ai/original-pet-v2.mp4
+- https://media.makeviral.ai/templates/ice-ice-baby-dance-ai/original-main-v2.mp4
+- https://media.makeviral.ai/templates/ice-ice-baby-dance-ai/original-pet-v2.mp4
 
 ## Posters
 
-- https://www.makeviral.ai/media/templates/ice-ice-baby-dance-ai/original-main-v1.jpg
-- https://www.makeviral.ai/media/templates/ice-ice-baby-dance-ai/original-pet-v1.jpg
+- https://media.makeviral.ai/templates/ice-ice-baby-dance-ai/original-main-v1.jpg
+- https://media.makeviral.ai/templates/ice-ice-baby-dance-ai/original-pet-v1.jpg
 
 ## Prompts
 

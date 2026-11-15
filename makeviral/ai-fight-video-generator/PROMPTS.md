@@ -7,11 +7,11 @@ This AI fight video generator turns two photos into the cartoon toddler fight th
 
 ## Demo videos (CDN)
 
-- https://www.makeviral.ai/media/templates/ai-fight-video-generator/original-park-v2.mp4
+- https://media.makeviral.ai/templates/ai-fight-video-generator/original-park-v2.mp4
 
 ## Posters
 
-- https://www.makeviral.ai/media/templates/ai-fight-video-generator/original-park-v1.jpg
+- https://media.makeviral.ai/templates/ai-fight-video-generator/original-park-v1.jpg
 
 ## Prompts
 

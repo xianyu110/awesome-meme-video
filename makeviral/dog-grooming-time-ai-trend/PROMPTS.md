@@ -7,11 +7,11 @@ My dog when it's grooming time is the viral AI clip of a dog on a blue grooming 
 
 ## Demo videos (CDN)
 
-- https://www.makeviral.ai/media/templates/dog-grooming-time-ai-trend/original-main-v2.mp4
+- https://media.makeviral.ai/templates/dog-grooming-time-ai-trend/original-main-v2.mp4
 
 ## Posters
 
-- https://www.makeviral.ai/media/templates/dog-grooming-time-ai-trend/original-main-v1.jpg
+- https://media.makeviral.ai/templates/dog-grooming-time-ai-trend/original-main-v1.jpg
 
 ## Prompts
 

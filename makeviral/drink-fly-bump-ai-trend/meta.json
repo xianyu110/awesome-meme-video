@@ -10,12 +10,12 @@
   "published": "2026-11-03",
   "credits": 152,
   "demo_videos": [
-    "https://www.makeviral.ai/media/templates/drink-fly-bump-ai-trend/original-drink-v2.mp4",
-    "https://www.makeviral.ai/media/templates/drink-fly-bump-ai-trend/original-tall-drink-v2.mp4"
+    "https://media.makeviral.ai/templates/drink-fly-bump-ai-trend/original-drink-v2.mp4",
+    "https://media.makeviral.ai/templates/drink-fly-bump-ai-trend/original-tall-drink-v2.mp4"
   ],
   "posters": [
-    "https://www.makeviral.ai/media/templates/drink-fly-bump-ai-trend/original-drink-v1.jpg",
-    "https://www.makeviral.ai/media/templates/drink-fly-bump-ai-trend/original-tall-drink-v1.jpg"
+    "https://media.makeviral.ai/templates/drink-fly-bump-ai-trend/original-drink-v1.jpg",
+    "https://media.makeviral.ai/templates/drink-fly-bump-ai-trend/original-tall-drink-v1.jpg"
   ],
   "prompts": [
     {
@@ -54,5 +54,5 @@
     "Make your own Drink Fly Bump video"
   ],
   "prompt_count": 3,
-  "scraped_at": "2026-11-14"
+  "scraped_at": "2026-11-15"
 }

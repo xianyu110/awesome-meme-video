@@ -7,11 +7,11 @@ The It's My Life dog is an AI pet meme from late October 2026: on a split screen
 
 ## Demo videos (CDN)
 
-- https://www.makeviral.ai/media/templates/its-my-life-dog-ai/original-main-v2.mp4
+- https://media.makeviral.ai/templates/its-my-life-dog-ai/original-main-v2.mp4
 
 ## Posters
 
-- https://www.makeviral.ai/media/templates/its-my-life-dog-ai/original-main-v1.jpg
+- https://media.makeviral.ai/templates/its-my-life-dog-ai/original-main-v1.jpg
 
 ## Prompts
 

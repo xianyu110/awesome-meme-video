@@ -7,14 +7,14 @@ An AI dog dancing video is a short clip where your own dog, or cat, stands uprig
 
 ## Demo videos (CDN)
 
-- https://www.makeviral.ai/media/templates/ai-dancing-dog-video/example.mp4
-- https://www.makeviral.ai/media/templates/ai-dancing-dog-video/original-kitchen-v2.mp4
+- https://media.makeviral.ai/templates/ai-dancing-dog-video/example.mp4
+- https://media.makeviral.ai/templates/ai-dancing-dog-video/original-kitchen-v2.mp4
 
 ## Posters
 
-- https://www.makeviral.ai/media/templates/ai-dancing-dog-video/example-input.jpg
-- https://www.makeviral.ai/media/templates/ai-dancing-dog-video/example-poster.jpg
-- https://www.makeviral.ai/media/templates/ai-dancing-dog-video/original-kitchen-v1.jpg
+- https://media.makeviral.ai/templates/ai-dancing-dog-video/example-input.jpg
+- https://media.makeviral.ai/templates/ai-dancing-dog-video/example-poster.jpg
+- https://media.makeviral.ai/templates/ai-dancing-dog-video/original-kitchen-v1.jpg
 
 ## Prompts
 

@@ -7,12 +7,12 @@ The İnşallah Maşallah AI trend is the Turkish couch lip-sync of November 2026
 
 ## Demo videos (CDN)
 
-- https://www.makeviral.ai/media/templates/insallah-masallah-ai-trend/example-main-v1.mp4
+- https://media.makeviral.ai/templates/insallah-masallah-ai-trend/example-main-v1.mp4
 
 ## Posters
 
-- https://www.makeviral.ai/media/templates/insallah-masallah-ai-trend/example-main-input.jpg
-- https://www.makeviral.ai/media/templates/insallah-masallah-ai-trend/example-main-poster.jpg
+- https://media.makeviral.ai/templates/insallah-masallah-ai-trend/example-main-input.jpg
+- https://media.makeviral.ai/templates/insallah-masallah-ai-trend/example-main-poster.jpg
 
 ## Prompts
 

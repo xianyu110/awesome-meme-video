@@ -7,25 +7,25 @@ The knight cat AI video, also called the cat knight or the cat with a sword meme
 
 ## Demo videos (CDN)
 
-- https://www.makeviral.ai/media/templates/knight-cat-ai-video/example-song-dragon.mp4
-- https://www.makeviral.ai/media/templates/knight-cat-ai-video/example-song-quest.mp4
-- https://www.makeviral.ai/media/templates/knight-cat-ai-video/example-song-selfie.mp4
-- https://www.makeviral.ai/media/templates/knight-cat-ai-video/example-song-with-you-reel.mp4
-- https://www.makeviral.ai/media/templates/knight-cat-ai-video/example-with-you.mp4
-- https://www.makeviral.ai/media/templates/knight-cat-ai-video/example.mp4
+- https://media.makeviral.ai/templates/knight-cat-ai-video/example-song-dragon.mp4
+- https://media.makeviral.ai/templates/knight-cat-ai-video/example-song-quest.mp4
+- https://media.makeviral.ai/templates/knight-cat-ai-video/example-song-selfie.mp4
+- https://media.makeviral.ai/templates/knight-cat-ai-video/example-song-with-you-reel.mp4
+- https://media.makeviral.ai/templates/knight-cat-ai-video/example-with-you.mp4
+- https://media.makeviral.ai/templates/knight-cat-ai-video/example.mp4
 
 ## Posters
 
-- https://www.makeviral.ai/media/templates/knight-cat-ai-video/example-input.jpg
-- https://www.makeviral.ai/media/templates/knight-cat-ai-video/example-poster.jpg
-- https://www.makeviral.ai/media/templates/knight-cat-ai-video/example-song-dragon-input.jpg
-- https://www.makeviral.ai/media/templates/knight-cat-ai-video/example-song-dragon-poster.jpg
-- https://www.makeviral.ai/media/templates/knight-cat-ai-video/example-song-quest-input.jpg
-- https://www.makeviral.ai/media/templates/knight-cat-ai-video/example-song-quest-poster.jpg
-- https://www.makeviral.ai/media/templates/knight-cat-ai-video/example-song-selfie-input.jpg
-- https://www.makeviral.ai/media/templates/knight-cat-ai-video/example-song-selfie-poster.jpg
-- https://www.makeviral.ai/media/templates/knight-cat-ai-video/example-song-with-you-reel-input.jpg
-- https://www.makeviral.ai/media/templates/knight-cat-ai-video/example-song-with-you-reel-poster.jpg
+- https://media.makeviral.ai/templates/knight-cat-ai-video/example-input.jpg
+- https://media.makeviral.ai/templates/knight-cat-ai-video/example-poster.jpg
+- https://media.makeviral.ai/templates/knight-cat-ai-video/example-song-dragon-input.jpg
+- https://media.makeviral.ai/templates/knight-cat-ai-video/example-song-dragon-poster.jpg
+- https://media.makeviral.ai/templates/knight-cat-ai-video/example-song-quest-input.jpg
+- https://media.makeviral.ai/templates/knight-cat-ai-video/example-song-quest-poster.jpg
+- https://media.makeviral.ai/templates/knight-cat-ai-video/example-song-selfie-input.jpg
+- https://media.makeviral.ai/templates/knight-cat-ai-video/example-song-selfie-poster.jpg
+- https://media.makeviral.ai/templates/knight-cat-ai-video/example-song-with-you-reel-input.jpg
+- https://media.makeviral.ai/templates/knight-cat-ai-video/example-song-with-you-reel-poster.jpg
 
 ## Prompts
 

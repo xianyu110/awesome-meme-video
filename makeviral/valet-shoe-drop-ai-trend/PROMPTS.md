@@ -7,15 +7,15 @@ The valet shoe drop is a 15-second old money arrival clip: a valet opens a peach
 
 ## Demo videos (CDN)
 
-- https://www.makeviral.ai/media/templates/valet-shoe-drop-ai-trend/example-main-v1.mp4
-- https://www.makeviral.ai/media/templates/valet-shoe-drop-ai-trend/example-salute-v1.mp4
+- https://media.makeviral.ai/templates/valet-shoe-drop-ai-trend/example-main-v1.mp4
+- https://media.makeviral.ai/templates/valet-shoe-drop-ai-trend/example-salute-v1.mp4
 
 ## Posters
 
-- https://www.makeviral.ai/media/templates/ai-ceiling-fan-trend/example-halloween-input.jpg
-- https://www.makeviral.ai/media/templates/valet-shoe-drop-ai-trend/example-main-input.jpg
-- https://www.makeviral.ai/media/templates/valet-shoe-drop-ai-trend/example-main-poster.jpg
-- https://www.makeviral.ai/media/templates/valet-shoe-drop-ai-trend/example-salute-poster.jpg
+- https://media.makeviral.ai/templates/ai-ceiling-fan-trend/example-halloween-input.jpg
+- https://media.makeviral.ai/templates/valet-shoe-drop-ai-trend/example-main-input.jpg
+- https://media.makeviral.ai/templates/valet-shoe-drop-ai-trend/example-main-poster.jpg
+- https://media.makeviral.ai/templates/valet-shoe-drop-ai-trend/example-salute-poster.jpg
 
 ## Prompts
 

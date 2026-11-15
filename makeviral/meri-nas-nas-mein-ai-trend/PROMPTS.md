@@ -7,12 +7,12 @@ Meri nas nas mein bahe hai is a romantic Instagram Reels edit from India: warm l
 
 ## Demo videos (CDN)
 
-- https://www.makeviral.ai/media/templates/meri-nas-nas-mein-ai-trend/example-v1.mp4
+- https://media.makeviral.ai/templates/meri-nas-nas-mein-ai-trend/example-v1.mp4
 
 ## Posters
 
-- https://www.makeviral.ai/media/templates/meri-nas-nas-mein-ai-trend/example-input-v1.jpg
-- https://www.makeviral.ai/media/templates/meri-nas-nas-mein-ai-trend/example-v1-poster.jpg
+- https://media.makeviral.ai/templates/meri-nas-nas-mein-ai-trend/example-input-v1.jpg
+- https://media.makeviral.ai/templates/meri-nas-nas-mein-ai-trend/example-v1-poster.jpg
 
 ## Prompts
 

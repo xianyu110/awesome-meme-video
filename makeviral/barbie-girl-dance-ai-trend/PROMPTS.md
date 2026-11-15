@@ -7,11 +7,11 @@ The Come on Barbie let's go party trend is a two-person dance to a Barbie Girl r
 
 ## Demo videos (CDN)
 
-- https://www.makeviral.ai/media/templates/barbie-girl-dance-ai-trend/original-couple-v2.mp4
+- https://media.makeviral.ai/templates/barbie-girl-dance-ai-trend/original-couple-v2.mp4
 
 ## Posters
 
-- https://www.makeviral.ai/media/templates/barbie-girl-dance-ai-trend/original-couple-v1.jpg
+- https://media.makeviral.ai/templates/barbie-girl-dance-ai-trend/original-couple-v1.jpg
 
 ## Prompts
 

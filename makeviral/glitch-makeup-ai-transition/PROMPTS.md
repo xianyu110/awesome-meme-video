@@ -7,11 +7,11 @@ Glitch makeup is the TikTok transition where you paint bright green stripes on y
 
 ## Demo videos (CDN)
 
-- https://www.makeviral.ai/media/templates/glitch-makeup-ai-transition/original-main-v2.mp4
+- https://media.makeviral.ai/templates/glitch-makeup-ai-transition/original-main-v2.mp4
 
 ## Posters
 
-- https://www.makeviral.ai/media/templates/glitch-makeup-ai-transition/original-main-v1.jpg
+- https://media.makeviral.ai/templates/glitch-makeup-ai-transition/original-main-v1.jpg
 
 ## Prompts
 

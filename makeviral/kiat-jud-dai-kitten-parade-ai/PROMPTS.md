@@ -7,11 +7,11 @@ The Kiat Jud Dai cat trend, also called the Kiat Jud Dai kitten parade, is a vir
 
 ## Demo videos (CDN)
 
-- https://www.makeviral.ai/media/templates/kiat-jud-dai-kitten-parade-ai/original-parade-v2.mp4
+- https://media.makeviral.ai/templates/kiat-jud-dai-kitten-parade-ai/original-parade-v2.mp4
 
 ## Posters
 
-- https://www.makeviral.ai/media/templates/kiat-jud-dai-kitten-parade-ai/original-parade-v1.jpg
+- https://media.makeviral.ai/templates/kiat-jud-dai-kitten-parade-ai/original-parade-v1.jpg
 
 ## Prompts
 

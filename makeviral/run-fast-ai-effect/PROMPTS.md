@@ -7,11 +7,11 @@ The run fast AI effect turns one still photo into a short video where the things
 
 ## Demo videos (CDN)
 
-- https://www.makeviral.ai/media/templates/run-fast-ai-effect/original-things-v2.mp4
+- https://media.makeviral.ai/templates/run-fast-ai-effect/original-things-v2.mp4
 
 ## Posters
 
-- https://www.makeviral.ai/media/templates/run-fast-ai-effect/original-things-v1.jpg
+- https://media.makeviral.ai/templates/run-fast-ai-effect/original-things-v1.jpg
 
 ## Prompts
 

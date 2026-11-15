@@ -7,11 +7,11 @@ Dog bartender AI turns one photo into the viral $1 vs $5 vs $50 drink reel: your
 
 ## Demo videos (CDN)
 
-- https://www.makeviral.ai/media/templates/dog-bartender-ai-trend/original-reel-v2.mp4
+- https://media.makeviral.ai/templates/dog-bartender-ai-trend/original-reel-v2.mp4
 
 ## Posters
 
-- https://www.makeviral.ai/media/templates/dog-bartender-ai-trend/original-reel-v1.jpg
+- https://media.makeviral.ai/templates/dog-bartender-ai-trend/original-reel-v1.jpg
 
 ## Prompts
 

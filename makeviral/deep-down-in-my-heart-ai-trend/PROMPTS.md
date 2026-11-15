@@ -7,12 +7,12 @@ The deep down in my heart, I still love you meme is two people on a sofa: one co
 
 ## Demo videos (CDN)
 
-- https://www.makeviral.ai/media/templates/deep-down-in-my-heart-ai-trend/example-main.mp4
+- https://media.makeviral.ai/templates/deep-down-in-my-heart-ai-trend/example-main.mp4
 
 ## Posters
 
-- https://www.makeviral.ai/media/templates/deep-down-in-my-heart-ai-trend/example-main-input.jpg
-- https://www.makeviral.ai/media/templates/deep-down-in-my-heart-ai-trend/example-main-poster.jpg
+- https://media.makeviral.ai/templates/deep-down-in-my-heart-ai-trend/example-main-input.jpg
+- https://media.makeviral.ai/templates/deep-down-in-my-heart-ai-trend/example-main-poster.jpg
 
 ## Prompts
 

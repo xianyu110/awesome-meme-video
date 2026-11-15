@@ -7,11 +7,11 @@ The ai concert video is the stage singing trend from Myanmar: one photo becomes 
 
 ## Demo videos (CDN)
 
-- https://www.makeviral.ai/media/templates/ai-concert-singing-video/original-main-v2.mp4
+- https://media.makeviral.ai/templates/ai-concert-singing-video/original-main-v2.mp4
 
 ## Posters
 
-- https://www.makeviral.ai/media/templates/ai-concert-singing-video/original-main-v1.jpg
+- https://media.makeviral.ai/templates/ai-concert-singing-video/original-main-v1.jpg
 
 ## Prompts
 

@@ -7,15 +7,15 @@ Gemini rain is the AI rain effect that turns a normal photo into a cinematic nig
 
 ## Demo videos (CDN)
 
-- https://www.makeviral.ai/media/templates/gemini-rain-ai-effect/original-main-v2.mp4
-- https://www.makeviral.ai/media/templates/gemini-rain-ai-effect/original-noir-v2.mp4
-- https://www.makeviral.ai/media/templates/gemini-rain-ai-effect/original-solo-v2.mp4
+- https://media.makeviral.ai/templates/gemini-rain-ai-effect/original-main-v2.mp4
+- https://media.makeviral.ai/templates/gemini-rain-ai-effect/original-noir-v2.mp4
+- https://media.makeviral.ai/templates/gemini-rain-ai-effect/original-solo-v2.mp4
 
 ## Posters
 
-- https://www.makeviral.ai/media/templates/gemini-rain-ai-effect/original-main-v1.jpg
-- https://www.makeviral.ai/media/templates/gemini-rain-ai-effect/original-noir-v1.jpg
-- https://www.makeviral.ai/media/templates/gemini-rain-ai-effect/original-solo-v1.jpg
+- https://media.makeviral.ai/templates/gemini-rain-ai-effect/original-main-v1.jpg
+- https://media.makeviral.ai/templates/gemini-rain-ai-effect/original-noir-v1.jpg
+- https://media.makeviral.ai/templates/gemini-rain-ai-effect/original-solo-v1.jpg
 
 ## Prompts
 

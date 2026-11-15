@@ -7,13 +7,13 @@ The Love Options dance is the TikTok trend built on the chorus of "Love Options"
 
 ## Demo videos (CDN)
 
-- https://www.makeviral.ai/media/templates/love-options-ai-dance/original-duo-v4.mp4
-- https://www.makeviral.ai/media/templates/love-options-ai-dance/original-pet-v2.mp4
+- https://media.makeviral.ai/templates/love-options-ai-dance/original-duo-v4.mp4
+- https://media.makeviral.ai/templates/love-options-ai-dance/original-pet-v2.mp4
 
 ## Posters
 
-- https://www.makeviral.ai/media/templates/love-options-ai-dance/original-duo-v3.jpg
-- https://www.makeviral.ai/media/templates/love-options-ai-dance/original-pet-v1.jpg
+- https://media.makeviral.ai/templates/love-options-ai-dance/original-duo-v3.jpg
+- https://media.makeviral.ai/templates/love-options-ai-dance/original-pet-v1.jpg
 
 ## Prompts
 

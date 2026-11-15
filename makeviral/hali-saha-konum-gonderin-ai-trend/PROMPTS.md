@@ -7,13 +7,13 @@
 
 ## Demo videos (CDN)
 
-- https://www.makeviral.ai/media/templates/hali-saha-konum-gonderin-ai-trend/original-dribble-v2.mp4
-- https://www.makeviral.ai/media/templates/hali-saha-konum-gonderin-ai-trend/original-trend-v2.mp4
+- https://media.makeviral.ai/templates/hali-saha-konum-gonderin-ai-trend/original-dribble-v2.mp4
+- https://media.makeviral.ai/templates/hali-saha-konum-gonderin-ai-trend/original-trend-v2.mp4
 
 ## Posters
 
-- https://www.makeviral.ai/media/templates/hali-saha-konum-gonderin-ai-trend/original-dribble-v1.jpg
-- https://www.makeviral.ai/media/templates/hali-saha-konum-gonderin-ai-trend/original-trend-v1.jpg
+- https://media.makeviral.ai/templates/hali-saha-konum-gonderin-ai-trend/original-dribble-v1.jpg
+- https://media.makeviral.ai/templates/hali-saha-konum-gonderin-ai-trend/original-trend-v1.jpg
 
 ## Prompts
 

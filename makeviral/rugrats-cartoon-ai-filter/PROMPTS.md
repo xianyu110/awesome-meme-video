@@ -7,11 +7,11 @@ The Rugrats filter is the TikTok trend where one photo becomes a frame of a 90s 
 
 ## Demo videos (CDN)
 
-- https://www.makeviral.ai/media/templates/rugrats-cartoon-ai-filter/original-main-v2.mp4
+- https://media.makeviral.ai/templates/rugrats-cartoon-ai-filter/original-main-v2.mp4
 
 ## Posters
 
-- https://www.makeviral.ai/media/templates/rugrats-cartoon-ai-filter/original-main-v1.jpg
+- https://media.makeviral.ai/templates/rugrats-cartoon-ai-filter/original-main-v1.jpg
 
 ## Prompts
 

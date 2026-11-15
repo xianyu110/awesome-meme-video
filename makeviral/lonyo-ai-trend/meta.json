@@ -10,10 +10,10 @@
   "published": "2026-11-04",
   "credits": 213,
   "demo_videos": [
-    "https://www.makeviral.ai/media/templates/lonyo-ai-trend/original-petfull-v2.mp4"
+    "https://media.makeviral.ai/templates/lonyo-ai-trend/original-petfull-v2.mp4"
   ],
   "posters": [
-    "https://www.makeviral.ai/media/templates/lonyo-ai-trend/original-petfull-v1.jpg"
+    "https://media.makeviral.ai/templates/lonyo-ai-trend/original-petfull-v1.jpg"
   ],
   "prompts": [
     {
@@ -44,5 +44,5 @@
     "Make your own Lonyo Dance video"
   ],
   "prompt_count": 2,
-  "scraped_at": "2026-11-14"
+  "scraped_at": "2026-11-15"
 }

@@ -10,12 +10,12 @@
   "published": "2026-11-01",
   "credits": 29,
   "demo_videos": [
-    "https://www.makeviral.ai/media/templates/snow-leopard-paws-at-you-ai/original-meimei-v2.mp4",
-    "https://www.makeviral.ai/media/templates/snow-leopard-paws-at-you-ai/original-pet-v2.mp4"
+    "https://media.makeviral.ai/templates/snow-leopard-paws-at-you-ai/original-meimei-v2.mp4",
+    "https://media.makeviral.ai/templates/snow-leopard-paws-at-you-ai/original-pet-v2.mp4"
   ],
   "posters": [
-    "https://www.makeviral.ai/media/templates/snow-leopard-paws-at-you-ai/original-meimei-v1.jpg",
-    "https://www.makeviral.ai/media/templates/snow-leopard-paws-at-you-ai/original-pet-v1.jpg"
+    "https://media.makeviral.ai/templates/snow-leopard-paws-at-you-ai/original-meimei-v1.jpg",
+    "https://media.makeviral.ai/templates/snow-leopard-paws-at-you-ai/original-pet-v1.jpg"
   ],
   "prompts": [
     {
@@ -76,5 +76,5 @@
     "Make your own Snow Leopard Meme video"
   ],
   "prompt_count": 7,
-  "scraped_at": "2026-11-14"
+  "scraped_at": "2026-11-15"
 }

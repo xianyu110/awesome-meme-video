@@ -7,11 +7,11 @@ The Lil T Jones dance is a TikTok dance from October 2026 to "Lil TJones", a 201
 
 ## Demo videos (CDN)
 
-- https://www.makeviral.ai/media/templates/lil-t-jones-ai-dance/original-main-v2.mp4
+- https://media.makeviral.ai/templates/lil-t-jones-ai-dance/original-main-v2.mp4
 
 ## Posters
 
-- https://www.makeviral.ai/media/templates/lil-t-jones-ai-dance/original-main-v1.jpg
+- https://media.makeviral.ai/templates/lil-t-jones-ai-dance/original-main-v1.jpg
 
 ## Prompts
 

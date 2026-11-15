@@ -7,12 +7,12 @@ The Lorenzo Zurzolo AI trend puts your own face in a brooding drama scene, like 
 
 ## Demo videos (CDN)
 
-- https://www.makeviral.ai/media/templates/lorenzo-zurzolo-ai-trend/example-main-v1.mp4
+- https://media.makeviral.ai/templates/lorenzo-zurzolo-ai-trend/example-main-v1.mp4
 
 ## Posters
 
-- https://www.makeviral.ai/media/templates/lorenzo-zurzolo-ai-trend/example-main-input.jpg
-- https://www.makeviral.ai/media/templates/lorenzo-zurzolo-ai-trend/example-main-poster.jpg
+- https://media.makeviral.ai/templates/lorenzo-zurzolo-ai-trend/example-main-input.jpg
+- https://media.makeviral.ai/templates/lorenzo-zurzolo-ai-trend/example-main-poster.jpg
 
 ## Prompts
 

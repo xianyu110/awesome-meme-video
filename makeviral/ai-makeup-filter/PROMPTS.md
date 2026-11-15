@@ -7,11 +7,11 @@ The AI makeup filter is a TikTok trend where one photo turns into a full makeup 
 
 ## Demo videos (CDN)
 
-- https://www.makeviral.ai/media/templates/ai-makeup-filter/original-main-v2.mp4
+- https://media.makeviral.ai/templates/ai-makeup-filter/original-main-v2.mp4
 
 ## Posters
 
-- https://www.makeviral.ai/media/templates/ai-makeup-filter/original-main-v1.jpg
+- https://media.makeviral.ai/templates/ai-makeup-filter/original-main-v1.jpg
 
 ## Prompts
 

@@ -7,11 +7,11 @@ The pumpkin kick is a 10-second Halloween reel: at a night fairground, a woman i
 
 ## Demo videos (CDN)
 
-- https://www.makeviral.ai/media/templates/pumpkin-kick-ai-trend/original-main-v2.mp4
+- https://media.makeviral.ai/templates/pumpkin-kick-ai-trend/original-main-v2.mp4
 
 ## Posters
 
-- https://www.makeviral.ai/media/templates/pumpkin-kick-ai-trend/original-main-v1.jpg
+- https://media.makeviral.ai/templates/pumpkin-kick-ai-trend/original-main-v1.jpg
 
 ## Prompts
 

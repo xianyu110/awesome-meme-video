@@ -7,11 +7,11 @@ The Let's break up trend is a TikTok glow-up edit: a tired, plain photo with the
 
 ## Demo videos (CDN)
 
-- https://www.makeviral.ai/media/templates/lets-break-up-ai-trend/original-main-v2.mp4
+- https://media.makeviral.ai/templates/lets-break-up-ai-trend/original-main-v2.mp4
 
 ## Posters
 
-- https://www.makeviral.ai/media/templates/lets-break-up-ai-trend/original-main-v1.jpg
+- https://media.makeviral.ai/templates/lets-break-up-ai-trend/original-main-v1.jpg
 
 ## Prompts
 

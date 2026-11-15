@@ -7,13 +7,13 @@ The birthday car trend is a birthday cake POV reel from Instagram: a friend hold
 
 ## Demo videos (CDN)
 
-- https://www.makeviral.ai/media/templates/birthday-car-ai-trend/original-city-v2.mp4
-- https://www.makeviral.ai/media/templates/birthday-car-ai-trend/original-main-v2.mp4
+- https://media.makeviral.ai/templates/birthday-car-ai-trend/original-city-v2.mp4
+- https://media.makeviral.ai/templates/birthday-car-ai-trend/original-main-v2.mp4
 
 ## Posters
 
-- https://www.makeviral.ai/media/templates/birthday-car-ai-trend/original-city-v1.jpg
-- https://www.makeviral.ai/media/templates/birthday-car-ai-trend/original-main-v1.jpg
+- https://media.makeviral.ai/templates/birthday-car-ai-trend/original-city-v1.jpg
+- https://media.makeviral.ai/templates/birthday-car-ai-trend/original-main-v1.jpg
 
 ## Prompts
 

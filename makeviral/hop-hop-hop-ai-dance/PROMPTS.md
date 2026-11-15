@@ -7,11 +7,11 @@ The hop hop hop dance is a viral hop hop hop TikTok duo trend of October 2026: o
 
 ## Demo videos (CDN)
 
-- https://www.makeviral.ai/media/templates/hop-hop-hop-ai-dance/original-ai-v2.mp4
+- https://media.makeviral.ai/templates/hop-hop-hop-ai-dance/original-ai-v2.mp4
 
 ## Posters
 
-- https://www.makeviral.ai/media/templates/hop-hop-hop-ai-dance/original-ai-v1.jpg
+- https://media.makeviral.ai/templates/hop-hop-hop-ai-dance/original-ai-v1.jpg
 
 ## Prompts
 

@@ -7,11 +7,11 @@ The Closer dance is the TikTok routine set to Ne-Yo's 2008 song "Closer": one pe
 
 ## Demo videos (CDN)
 
-- https://www.makeviral.ai/media/templates/closer-dance-ai-trend/original-main-v2.mp4
+- https://media.makeviral.ai/templates/closer-dance-ai-trend/original-main-v2.mp4
 
 ## Posters
 
-- https://www.makeviral.ai/media/templates/closer-dance-ai-trend/original-main-v1.jpg
+- https://media.makeviral.ai/templates/closer-dance-ai-trend/original-main-v1.jpg
 
 ## Prompts
 

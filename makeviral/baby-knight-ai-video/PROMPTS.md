@@ -7,15 +7,15 @@ The mom and baby knight AI video turns you and your child into knights on a mist
 
 ## Demo videos (CDN)
 
-- https://www.makeviral.ai/media/templates/baby-knight-ai-video/example-dad.mp4
-- https://www.makeviral.ai/media/templates/baby-knight-ai-video/example.mp4
+- https://media.makeviral.ai/templates/baby-knight-ai-video/example-dad.mp4
+- https://media.makeviral.ai/templates/baby-knight-ai-video/example.mp4
 
 ## Posters
 
-- https://www.makeviral.ai/media/templates/baby-knight-ai-video/example-dad-input.jpg
-- https://www.makeviral.ai/media/templates/baby-knight-ai-video/example-dad-poster.jpg
-- https://www.makeviral.ai/media/templates/baby-knight-ai-video/example-input.jpg
-- https://www.makeviral.ai/media/templates/baby-knight-ai-video/example-poster.jpg
+- https://media.makeviral.ai/templates/baby-knight-ai-video/example-dad-input.jpg
+- https://media.makeviral.ai/templates/baby-knight-ai-video/example-dad-poster.jpg
+- https://media.makeviral.ai/templates/baby-knight-ai-video/example-input.jpg
+- https://media.makeviral.ai/templates/baby-knight-ai-video/example-poster.jpg
 
 ## Prompts
 

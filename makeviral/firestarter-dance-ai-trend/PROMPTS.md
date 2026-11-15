@@ -7,11 +7,11 @@ The Firestarter dance is the chorus routine of "FIRESTARTER", the K/DA single th
 
 ## Demo videos (CDN)
 
-- https://www.makeviral.ai/media/templates/firestarter-dance-ai-trend/original-main-v2.mp4
+- https://media.makeviral.ai/templates/firestarter-dance-ai-trend/original-main-v2.mp4
 
 ## Posters
 
-- https://www.makeviral.ai/media/templates/firestarter-dance-ai-trend/original-main-v1.jpg
+- https://media.makeviral.ai/templates/firestarter-dance-ai-trend/original-main-v1.jpg
 
 ## Prompts
 

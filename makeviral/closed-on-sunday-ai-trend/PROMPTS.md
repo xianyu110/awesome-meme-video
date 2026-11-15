@@ -7,11 +7,11 @@ The Closed on Sunday AI trend recreates the last scene of Kanye West's 2019 "Clo
 
 ## Demo videos (CDN)
 
-- https://www.makeviral.ai/media/templates/closed-on-sunday-ai-trend/original-pet-v2.mp4
+- https://media.makeviral.ai/templates/closed-on-sunday-ai-trend/original-pet-v2.mp4
 
 ## Posters
 
-- https://www.makeviral.ai/media/templates/closed-on-sunday-ai-trend/original-pet-v1.jpg
+- https://media.makeviral.ai/templates/closed-on-sunday-ai-trend/original-pet-v1.jpg
 
 ## Prompts
 

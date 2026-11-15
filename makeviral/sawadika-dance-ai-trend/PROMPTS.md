@@ -7,13 +7,13 @@ The SaWaDiKa dance is the TikTok trend to the chorus of LISA's 2026 song "SaWaDi
 
 ## Demo videos (CDN)
 
-- https://www.makeviral.ai/media/templates/sawadika-dance-ai-trend/original-ai-human-v2.mp4
-- https://www.makeviral.ai/media/templates/sawadika-dance-ai-trend/original-pet-v2.mp4
+- https://media.makeviral.ai/templates/sawadika-dance-ai-trend/original-ai-human-v2.mp4
+- https://media.makeviral.ai/templates/sawadika-dance-ai-trend/original-pet-v2.mp4
 
 ## Posters
 
-- https://www.makeviral.ai/media/templates/sawadika-dance-ai-trend/original-ai-human-v1.jpg
-- https://www.makeviral.ai/media/templates/sawadika-dance-ai-trend/original-pet-v1.jpg
+- https://media.makeviral.ai/templates/sawadika-dance-ai-trend/original-ai-human-v1.jpg
+- https://media.makeviral.ai/templates/sawadika-dance-ai-trend/original-pet-v1.jpg
 
 ## Prompts
 

@@ -10,11 +10,11 @@
   "published": "2026-11-08",
   "credits": 101,
   "demo_videos": [
-    "https://www.makeviral.ai/media/templates/tus-ojos-me-reflejan-ai-trend/example-main-v1.mp4"
+    "https://media.makeviral.ai/templates/tus-ojos-me-reflejan-ai-trend/example-main-v1.mp4"
   ],
   "posters": [
-    "https://www.makeviral.ai/media/templates/tus-ojos-me-reflejan-ai-trend/example-main-input.jpg",
-    "https://www.makeviral.ai/media/templates/tus-ojos-me-reflejan-ai-trend/example-main-poster.jpg"
+    "https://media.makeviral.ai/templates/tus-ojos-me-reflejan-ai-trend/example-main-input.jpg",
+    "https://media.makeviral.ai/templates/tus-ojos-me-reflejan-ai-trend/example-main-poster.jpg"
   ],
   "prompts": [
     {
@@ -49,5 +49,5 @@
     "Make your own Tus Ojos Me Reflejan video"
   ],
   "prompt_count": 3,
-  "scraped_at": "2026-11-14"
+  "scraped_at": "2026-11-15"
 }

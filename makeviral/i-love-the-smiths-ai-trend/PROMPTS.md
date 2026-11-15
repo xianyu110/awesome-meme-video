@@ -7,14 +7,14 @@ I love the Smiths is the line from the 500 Days of Summer elevator scene: one pe
 
 ## Demo videos (CDN)
 
-- https://www.makeviral.ai/media/templates/i-love-the-smiths-ai-trend/example.mp4
-- https://www.makeviral.ai/media/templates/i-love-the-smiths-ai-trend/original-scene-v2.mp4
+- https://media.makeviral.ai/templates/i-love-the-smiths-ai-trend/example.mp4
+- https://media.makeviral.ai/templates/i-love-the-smiths-ai-trend/original-scene-v2.mp4
 
 ## Posters
 
-- https://www.makeviral.ai/media/templates/i-love-the-smiths-ai-trend/example-input.jpg
-- https://www.makeviral.ai/media/templates/i-love-the-smiths-ai-trend/example-poster.jpg
-- https://www.makeviral.ai/media/templates/i-love-the-smiths-ai-trend/original-scene-v1.jpg
+- https://media.makeviral.ai/templates/i-love-the-smiths-ai-trend/example-input.jpg
+- https://media.makeviral.ai/templates/i-love-the-smiths-ai-trend/example-poster.jpg
+- https://media.makeviral.ai/templates/i-love-the-smiths-ai-trend/original-scene-v1.jpg
 
 ## Prompts
 

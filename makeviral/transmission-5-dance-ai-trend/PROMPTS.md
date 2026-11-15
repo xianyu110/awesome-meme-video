@@ -7,11 +7,11 @@ The Transmission 5 dance is a fast electro dance duo routine filmed in an open p
 
 ## Demo videos (CDN)
 
-- https://www.makeviral.ai/media/templates/transmission-5-dance-ai-trend/original-main-v2.mp4
+- https://media.makeviral.ai/templates/transmission-5-dance-ai-trend/original-main-v2.mp4
 
 ## Posters
 
-- https://www.makeviral.ai/media/templates/transmission-5-dance-ai-trend/original-main-v1.jpg
+- https://media.makeviral.ai/templates/transmission-5-dance-ai-trend/original-main-v1.jpg
 
 ## Prompts
 

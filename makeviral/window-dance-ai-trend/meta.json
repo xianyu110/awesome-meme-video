@@ -10,11 +10,11 @@
   "published": "2026-10-26",
   "credits": 152,
   "demo_videos": [
-    "https://www.makeviral.ai/media/templates/window-dance-ai-trend/example-main.mp4"
+    "https://media.makeviral.ai/templates/window-dance-ai-trend/example-main.mp4"
   ],
   "posters": [
-    "https://www.makeviral.ai/media/templates/window-dance-ai-trend/example-main-input.jpg",
-    "https://www.makeviral.ai/media/templates/window-dance-ai-trend/example-main-poster.jpg"
+    "https://media.makeviral.ai/templates/window-dance-ai-trend/example-main-input.jpg",
+    "https://media.makeviral.ai/templates/window-dance-ai-trend/example-main-poster.jpg"
   ],
   "prompts": [
     {
@@ -43,5 +43,5 @@
     "Make your own Window Dance Trend video"
   ],
   "prompt_count": 2,
-  "scraped_at": "2026-11-14"
+  "scraped_at": "2026-11-15"
 }

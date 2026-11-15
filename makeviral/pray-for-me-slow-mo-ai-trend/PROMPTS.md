@@ -7,11 +7,11 @@ The pray for me trend is a dramatic slow-motion dance and run to a slowed "Pray 
 
 ## Demo videos (CDN)
 
-- https://www.makeviral.ai/media/templates/pray-for-me-slow-mo-ai-trend/original-ai-v2.mp4
+- https://media.makeviral.ai/templates/pray-for-me-slow-mo-ai-trend/original-ai-v2.mp4
 
 ## Posters
 
-- https://www.makeviral.ai/media/templates/pray-for-me-slow-mo-ai-trend/original-ai-v1.jpg
+- https://media.makeviral.ai/templates/pray-for-me-slow-mo-ai-trend/original-ai-v1.jpg
 
 ## Prompts
 

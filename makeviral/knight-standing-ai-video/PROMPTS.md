@@ -7,15 +7,15 @@ The remember your gym bro AI video copies the viral tiny knight and giant reel s
 
 ## Demo videos (CDN)
 
-- https://www.makeviral.ai/media/templates/knight-standing-ai-video/example-giant.mp4
-- https://www.makeviral.ai/media/templates/knight-standing-ai-video/example.mp4
+- https://media.makeviral.ai/templates/knight-standing-ai-video/example-giant.mp4
+- https://media.makeviral.ai/templates/knight-standing-ai-video/example.mp4
 
 ## Posters
 
-- https://www.makeviral.ai/media/templates/knight-standing-ai-video/example-giant-input.jpg
-- https://www.makeviral.ai/media/templates/knight-standing-ai-video/example-giant-poster.jpg
-- https://www.makeviral.ai/media/templates/knight-standing-ai-video/example-input.jpg
-- https://www.makeviral.ai/media/templates/knight-standing-ai-video/example-poster.jpg
+- https://media.makeviral.ai/templates/knight-standing-ai-video/example-giant-input.jpg
+- https://media.makeviral.ai/templates/knight-standing-ai-video/example-giant-poster.jpg
+- https://media.makeviral.ai/templates/knight-standing-ai-video/example-input.jpg
+- https://media.makeviral.ai/templates/knight-standing-ai-video/example-poster.jpg
 
 ## Prompts
 

@@ -7,13 +7,13 @@ The knocked out shadow boxing meme is the clip where someone throws punches at t
 
 ## Demo videos (CDN)
 
-- https://www.makeviral.ai/media/templates/knocked-out-shadow-boxing-ai-trend/example-gym-swap-v2.mp4
-- https://www.makeviral.ai/media/templates/knocked-out-shadow-boxing-ai-trend/original-main-v2.mp4
+- https://media.makeviral.ai/templates/knocked-out-shadow-boxing-ai-trend/example-gym-swap-v2.mp4
+- https://media.makeviral.ai/templates/knocked-out-shadow-boxing-ai-trend/original-main-v2.mp4
 
 ## Posters
 
-- https://www.makeviral.ai/media/templates/knocked-out-shadow-boxing-ai-trend/example-gym-swap-v2.jpg
-- https://www.makeviral.ai/media/templates/knocked-out-shadow-boxing-ai-trend/original-main-v1.jpg
+- https://media.makeviral.ai/templates/knocked-out-shadow-boxing-ai-trend/example-gym-swap-v2.jpg
+- https://media.makeviral.ai/templates/knocked-out-shadow-boxing-ai-trend/original-main-v1.jpg
 
 ## Prompts
 

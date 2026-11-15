@@ -7,13 +7,13 @@ The Birds of a Feather trend puts you in the chair scene of the Billie Eilish mu
 
 ## Demo videos (CDN)
 
-- https://www.makeviral.ai/media/templates/birds-of-a-feather-ai-trend/original-chairfull-v2.mp4
-- https://www.makeviral.ai/media/templates/birds-of-a-feather-ai-trend/original-kaye-v2.mp4
+- https://media.makeviral.ai/templates/birds-of-a-feather-ai-trend/original-chairfull-v2.mp4
+- https://media.makeviral.ai/templates/birds-of-a-feather-ai-trend/original-kaye-v2.mp4
 
 ## Posters
 
-- https://www.makeviral.ai/media/templates/birds-of-a-feather-ai-trend/original-chairfull-v1.jpg
-- https://www.makeviral.ai/media/templates/birds-of-a-feather-ai-trend/original-kaye-v1.jpg
+- https://media.makeviral.ai/templates/birds-of-a-feather-ai-trend/original-chairfull-v1.jpg
+- https://media.makeviral.ai/templates/birds-of-a-feather-ai-trend/original-kaye-v1.jpg
 
 ## Prompts
 

@@ -7,11 +7,11 @@ The dog elevator prank is an AI video trend: a big dog walks upright on its hind
 
 ## Demo videos (CDN)
 
-- https://www.makeviral.ai/media/templates/dog-elevator-prank-ai-trend/original-orig-v2.mp4
+- https://media.makeviral.ai/templates/dog-elevator-prank-ai-trend/original-orig-v2.mp4
 
 ## Posters
 
-- https://www.makeviral.ai/media/templates/dog-elevator-prank-ai-trend/original-orig-v1.jpg
+- https://media.makeviral.ai/templates/dog-elevator-prank-ai-trend/original-orig-v1.jpg
 
 ## Prompts
 

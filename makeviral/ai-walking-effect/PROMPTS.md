@@ -7,12 +7,12 @@ The AI walking effect turns one photo into a short video of you walking toward t
 
 ## Demo videos (CDN)
 
-- https://www.makeviral.ai/media/templates/ai-walking-effect/example-main-v1.mp4
+- https://media.makeviral.ai/templates/ai-walking-effect/example-main-v1.mp4
 
 ## Posters
 
-- https://www.makeviral.ai/media/templates/ai-walking-effect/example-main-input.jpg
-- https://www.makeviral.ai/media/templates/ai-walking-effect/example-main-poster.jpg
+- https://media.makeviral.ai/templates/ai-walking-effect/example-main-input.jpg
+- https://media.makeviral.ai/templates/ai-walking-effect/example-main-poster.jpg
 
 ## Prompts
 

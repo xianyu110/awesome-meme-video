@@ -7,18 +7,18 @@ The Victoria Secret AI trend turns one photo into a fashion show clip: you walk 
 
 ## Demo videos (CDN)
 
-- https://www.makeviral.ai/media/templates/victoria-secret-runway-ai-trend/example-fan.mp4
-- https://www.makeviral.ai/media/templates/victoria-secret-runway-ai-trend/original-dark-v2.mp4
-- https://www.makeviral.ai/media/templates/victoria-secret-runway-ai-trend/original-main-v2.mp4
-- https://www.makeviral.ai/media/templates/victoria-secret-runway-ai-trend/original-pet-v2.mp4
+- https://media.makeviral.ai/templates/victoria-secret-runway-ai-trend/example-fan.mp4
+- https://media.makeviral.ai/templates/victoria-secret-runway-ai-trend/original-dark-v2.mp4
+- https://media.makeviral.ai/templates/victoria-secret-runway-ai-trend/original-main-v2.mp4
+- https://media.makeviral.ai/templates/victoria-secret-runway-ai-trend/original-pet-v2.mp4
 
 ## Posters
 
-- https://www.makeviral.ai/media/templates/victoria-secret-runway-ai-trend/example-fan-input.jpg
-- https://www.makeviral.ai/media/templates/victoria-secret-runway-ai-trend/example-fan-poster.jpg
-- https://www.makeviral.ai/media/templates/victoria-secret-runway-ai-trend/original-dark-v1.jpg
-- https://www.makeviral.ai/media/templates/victoria-secret-runway-ai-trend/original-main-v1.jpg
-- https://www.makeviral.ai/media/templates/victoria-secret-runway-ai-trend/original-pet-v1.jpg
+- https://media.makeviral.ai/templates/victoria-secret-runway-ai-trend/example-fan-input.jpg
+- https://media.makeviral.ai/templates/victoria-secret-runway-ai-trend/example-fan-poster.jpg
+- https://media.makeviral.ai/templates/victoria-secret-runway-ai-trend/original-dark-v1.jpg
+- https://media.makeviral.ai/templates/victoria-secret-runway-ai-trend/original-main-v1.jpg
+- https://media.makeviral.ai/templates/victoria-secret-runway-ai-trend/original-pet-v1.jpg
 
 ## Prompts
 

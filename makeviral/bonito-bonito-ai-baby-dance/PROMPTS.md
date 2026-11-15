@@ -7,12 +7,12 @@ The Bonito Bonito trend is a TikTok baby dance to "Bonito, Bonito", the AI-made 
 
 ## Demo videos (CDN)
 
-- https://www.makeviral.ai/media/templates/bonito-bonito-ai-baby-dance/example-v1.mp4
+- https://media.makeviral.ai/templates/bonito-bonito-ai-baby-dance/example-v1.mp4
 
 ## Posters
 
-- https://www.makeviral.ai/media/templates/bonito-bonito-ai-baby-dance/example-v1-input.jpg
-- https://www.makeviral.ai/media/templates/bonito-bonito-ai-baby-dance/example-v1-poster.jpg
+- https://media.makeviral.ai/templates/bonito-bonito-ai-baby-dance/example-v1-input.jpg
+- https://media.makeviral.ai/templates/bonito-bonito-ai-baby-dance/example-v1-poster.jpg
 
 ## Prompts
 

@@ -7,11 +7,11 @@ The Choosin' Texas emo version is a viral reel of a man who sings Ella Langley's
 
 ## Demo videos (CDN)
 
-- https://www.makeviral.ai/media/templates/choosin-texas-emo-ai-trend/original-main-v2.mp4
+- https://media.makeviral.ai/templates/choosin-texas-emo-ai-trend/original-main-v2.mp4
 
 ## Posters
 
-- https://www.makeviral.ai/media/templates/choosin-texas-emo-ai-trend/original-main-v1.jpg
+- https://media.makeviral.ai/templates/choosin-texas-emo-ai-trend/original-main-v1.jpg
 
 ## Prompts
 

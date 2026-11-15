@@ -7,12 +7,12 @@ The düğün dansı AI trend puts your friends into a wild Turkish wedding dance
 
 ## Demo videos (CDN)
 
-- https://www.makeviral.ai/media/templates/dugun-oyunu-ai-trend/example-main-v1.mp4
+- https://media.makeviral.ai/templates/dugun-oyunu-ai-trend/example-main-v1.mp4
 
 ## Posters
 
-- https://www.makeviral.ai/media/templates/ai-ceiling-fan-trend/example-input.jpg
-- https://www.makeviral.ai/media/templates/dugun-oyunu-ai-trend/example-main-poster.jpg
+- https://media.makeviral.ai/templates/ai-ceiling-fan-trend/example-input.jpg
+- https://media.makeviral.ai/templates/dugun-oyunu-ai-trend/example-main-poster.jpg
 
 ## Prompts
 

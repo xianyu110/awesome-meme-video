@@ -7,11 +7,11 @@ The Barbie and Raquelle trend is the TikTok slideshow where the top half shows a
 
 ## Demo videos (CDN)
 
-- https://www.makeviral.ai/media/templates/barbie-and-raquelle-ai-trend/original-main-v2.mp4
+- https://media.makeviral.ai/templates/barbie-and-raquelle-ai-trend/original-main-v2.mp4
 
 ## Posters
 
-- https://www.makeviral.ai/media/templates/barbie-and-raquelle-ai-trend/original-main-v1.jpg
+- https://media.makeviral.ai/templates/barbie-and-raquelle-ai-trend/original-main-v1.jpg
 
 ## Prompts
 

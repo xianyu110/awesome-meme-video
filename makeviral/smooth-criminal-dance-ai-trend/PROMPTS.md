@@ -7,15 +7,15 @@ The Smooth Criminal dance is a short TikTok routine to a remix of Michael Jackso
 
 ## Demo videos (CDN)
 
-- https://www.makeviral.ai/media/templates/smooth-criminal-dance-ai-trend/original-duo-v2.mp4
-- https://www.makeviral.ai/media/templates/smooth-criminal-dance-ai-trend/original-main-v2.mp4
-- https://www.makeviral.ai/media/templates/smooth-criminal-dance-ai-trend/original-pet-v2.mp4
+- https://media.makeviral.ai/templates/smooth-criminal-dance-ai-trend/original-duo-v2.mp4
+- https://media.makeviral.ai/templates/smooth-criminal-dance-ai-trend/original-main-v2.mp4
+- https://media.makeviral.ai/templates/smooth-criminal-dance-ai-trend/original-pet-v2.mp4
 
 ## Posters
 
-- https://www.makeviral.ai/media/templates/smooth-criminal-dance-ai-trend/original-duo-v1.jpg
-- https://www.makeviral.ai/media/templates/smooth-criminal-dance-ai-trend/original-main-v1.jpg
-- https://www.makeviral.ai/media/templates/smooth-criminal-dance-ai-trend/original-pet-v1.jpg
+- https://media.makeviral.ai/templates/smooth-criminal-dance-ai-trend/original-duo-v1.jpg
+- https://media.makeviral.ai/templates/smooth-criminal-dance-ai-trend/original-main-v1.jpg
+- https://media.makeviral.ai/templates/smooth-criminal-dance-ai-trend/original-pet-v1.jpg
 
 ## Prompts
 

@@ -7,13 +7,13 @@ The capybara couple trend is a run of AI 3D capybara couple cartoon skits about 
 
 ## Demo videos (CDN)
 
-- https://www.makeviral.ai/media/templates/capybara-couple-ai-video/original-capiandbara-v2.mp4
-- https://www.makeviral.ai/media/templates/capybara-couple-ai-video/original-capisean-v2.mp4
+- https://media.makeviral.ai/templates/capybara-couple-ai-video/original-capiandbara-v2.mp4
+- https://media.makeviral.ai/templates/capybara-couple-ai-video/original-capisean-v2.mp4
 
 ## Posters
 
-- https://www.makeviral.ai/media/templates/capybara-couple-ai-video/original-capiandbara-v1.jpg
-- https://www.makeviral.ai/media/templates/capybara-couple-ai-video/original-capisean-v1.jpg
+- https://media.makeviral.ai/templates/capybara-couple-ai-video/original-capiandbara-v1.jpg
+- https://media.makeviral.ai/templates/capybara-couple-ai-video/original-capisean-v1.jpg
 
 ## Prompts
 

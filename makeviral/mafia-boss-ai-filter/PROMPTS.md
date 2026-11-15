@@ -7,12 +7,12 @@ The mafia boss filter is an AI video trend from Turkey: from one photo, you beco
 
 ## Demo videos (CDN)
 
-- https://www.makeviral.ai/media/templates/mafia-boss-ai-filter/example.mp4
+- https://media.makeviral.ai/templates/mafia-boss-ai-filter/example.mp4
 
 ## Posters
 
-- https://www.makeviral.ai/media/templates/mafia-boss-ai-filter/example-input.jpg
-- https://www.makeviral.ai/media/templates/mafia-boss-ai-filter/example-poster.jpg
+- https://media.makeviral.ai/templates/mafia-boss-ai-filter/example-input.jpg
+- https://media.makeviral.ai/templates/mafia-boss-ai-filter/example-poster.jpg
 
 ## Prompts
 

@@ -7,14 +7,14 @@ The grinch dog trend, also called the grinch pet filter, is an ai grinch look fo
 
 ## Demo videos (CDN)
 
-- https://www.makeviral.ai/media/templates/grinch-pet-ai-trend/example-pet.mp4
-- https://www.makeviral.ai/media/templates/grinch-pet-ai-trend/original-pet-v2.mp4
+- https://media.makeviral.ai/templates/grinch-pet-ai-trend/example-pet.mp4
+- https://media.makeviral.ai/templates/grinch-pet-ai-trend/original-pet-v2.mp4
 
 ## Posters
 
-- https://www.makeviral.ai/media/templates/grinch-pet-ai-trend/example-pet-input.jpg
-- https://www.makeviral.ai/media/templates/grinch-pet-ai-trend/example-pet-poster.jpg
-- https://www.makeviral.ai/media/templates/grinch-pet-ai-trend/original-pet-v1.jpg
+- https://media.makeviral.ai/templates/grinch-pet-ai-trend/example-pet-input.jpg
+- https://media.makeviral.ai/templates/grinch-pet-ai-trend/example-pet-poster.jpg
+- https://media.makeviral.ai/templates/grinch-pet-ai-trend/original-pet-v1.jpg
 
 ## Prompts
 

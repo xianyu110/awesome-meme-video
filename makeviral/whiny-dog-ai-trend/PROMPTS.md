@@ -7,11 +7,11 @@ The whining dog meme is the viral Doberman clip from September 2026: a black-and
 
 ## Demo videos (CDN)
 
-- https://www.makeviral.ai/media/templates/whiny-dog-ai-trend/original-whine-v2.mp4
+- https://media.makeviral.ai/templates/whiny-dog-ai-trend/original-whine-v2.mp4
 
 ## Posters
 
-- https://www.makeviral.ai/media/templates/whiny-dog-ai-trend/original-whine-v1.jpg
+- https://media.makeviral.ai/templates/whiny-dog-ai-trend/original-whine-v1.jpg
 
 ## Prompts
 

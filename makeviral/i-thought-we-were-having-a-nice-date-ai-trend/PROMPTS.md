@@ -7,14 +7,14 @@ I thought we were having a nice date is the line from the restaurant scene of th
 
 ## Demo videos (CDN)
 
-- https://www.makeviral.ai/media/templates/i-thought-we-were-having-a-nice-date-ai-trend/example-couple-v2.mp4
-- https://www.makeviral.ai/media/templates/i-thought-we-were-having-a-nice-date-ai-trend/original-couple-v2.mp4
+- https://media.makeviral.ai/templates/i-thought-we-were-having-a-nice-date-ai-trend/example-couple-v2.mp4
+- https://media.makeviral.ai/templates/i-thought-we-were-having-a-nice-date-ai-trend/original-couple-v2.mp4
 
 ## Posters
 
-- https://www.makeviral.ai/media/templates/i-thought-we-were-having-a-nice-date-ai-trend/example-couple-input.jpg
-- https://www.makeviral.ai/media/templates/i-thought-we-were-having-a-nice-date-ai-trend/example-couple-poster.jpg
-- https://www.makeviral.ai/media/templates/i-thought-we-were-having-a-nice-date-ai-trend/original-couple-v1.jpg
+- https://media.makeviral.ai/templates/i-thought-we-were-having-a-nice-date-ai-trend/example-couple-input.jpg
+- https://media.makeviral.ai/templates/i-thought-we-were-having-a-nice-date-ai-trend/example-couple-poster.jpg
+- https://media.makeviral.ai/templates/i-thought-we-were-having-a-nice-date-ai-trend/original-couple-v1.jpg
 
 ## Prompts
 

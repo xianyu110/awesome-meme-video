@@ -10,11 +10,11 @@
   "published": "2026-11-04",
   "credits": 126,
   "demo_videos": [
-    "https://www.makeviral.ai/media/templates/esref-tek-ai-trend/example-main-v1.mp4"
+    "https://media.makeviral.ai/templates/esref-tek-ai-trend/example-main-v1.mp4"
   ],
   "posters": [
-    "https://www.makeviral.ai/media/templates/esref-tek-ai-trend/example-main-input.jpg",
-    "https://www.makeviral.ai/media/templates/esref-tek-ai-trend/example-main-poster.jpg"
+    "https://media.makeviral.ai/templates/esref-tek-ai-trend/example-main-input.jpg",
+    "https://media.makeviral.ai/templates/esref-tek-ai-trend/example-main-poster.jpg"
   ],
   "prompts": [
     {
@@ -57,5 +57,5 @@
     "Make your own Eşref Tek AI video"
   ],
   "prompt_count": 4,
-  "scraped_at": "2026-11-14"
+  "scraped_at": "2026-11-15"
 }

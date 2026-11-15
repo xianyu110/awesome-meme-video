@@ -10,14 +10,14 @@
   "published": "2026-10-08",
   "credits": 3,
   "demo_videos": [
-    "https://www.makeviral.ai/media/templates/ai-pet-halloween-costume/example-v2.mp4",
-    "https://www.makeviral.ai/media/templates/ai-pet-halloween-costume/example-video.mp4"
+    "https://media.makeviral.ai/templates/ai-pet-halloween-costume/example-v2.mp4",
+    "https://media.makeviral.ai/templates/ai-pet-halloween-costume/example-video.mp4"
   ],
   "posters": [
-    "https://www.makeviral.ai/media/templates/ai-pet-halloween-costume/example-v2-input.jpg",
-    "https://www.makeviral.ai/media/templates/ai-pet-halloween-costume/example-v2-poster.jpg",
-    "https://www.makeviral.ai/media/templates/ai-pet-halloween-costume/example-video-input.jpg",
-    "https://www.makeviral.ai/media/templates/ai-pet-halloween-costume/example-video-poster.jpg"
+    "https://media.makeviral.ai/templates/ai-pet-halloween-costume/example-v2-input.jpg",
+    "https://media.makeviral.ai/templates/ai-pet-halloween-costume/example-v2-poster.jpg",
+    "https://media.makeviral.ai/templates/ai-pet-halloween-costume/example-video-input.jpg",
+    "https://media.makeviral.ai/templates/ai-pet-halloween-costume/example-video-poster.jpg"
   ],
   "prompts": [
     {
@@ -71,5 +71,5 @@
     "Make your own Pet Halloween Costume photo"
   ],
   "prompt_count": 5,
-  "scraped_at": "2026-11-14"
+  "scraped_at": "2026-11-15"
 }

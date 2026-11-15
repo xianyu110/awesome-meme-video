@@ -10,11 +10,11 @@
   "published": "2026-10-23",
   "credits": 152,
   "demo_videos": [
-    "https://www.makeviral.ai/media/templates/you-tweaking-ai-trend/example-v1.mp4"
+    "https://media.makeviral.ai/templates/you-tweaking-ai-trend/example-v1.mp4"
   ],
   "posters": [
-    "https://www.makeviral.ai/media/templates/you-tweaking-ai-trend/example-v1-input.jpg",
-    "https://www.makeviral.ai/media/templates/you-tweaking-ai-trend/example-v1-poster.jpg"
+    "https://media.makeviral.ai/templates/you-tweaking-ai-trend/example-v1-input.jpg",
+    "https://media.makeviral.ai/templates/you-tweaking-ai-trend/example-v1-poster.jpg"
   ],
   "prompts": [
     {
@@ -45,5 +45,5 @@
     "Make your own You Tweaking video"
   ],
   "prompt_count": 2,
-  "scraped_at": "2026-11-14"
+  "scraped_at": "2026-11-15"
 }

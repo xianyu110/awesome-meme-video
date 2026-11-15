@@ -7,11 +7,11 @@ The Devil Wears Prada trend is a two-part lip-sync to the "Prada Prada Prada" so
 
 ## Demo videos (CDN)
 
-- https://www.makeviral.ai/media/templates/devil-wears-prada-ai-trend/original-tall-main-v2.mp4
+- https://media.makeviral.ai/templates/devil-wears-prada-ai-trend/original-tall-main-v2.mp4
 
 ## Posters
 
-- https://www.makeviral.ai/media/templates/devil-wears-prada-ai-trend/original-tall-main-v1.jpg
+- https://media.makeviral.ai/templates/devil-wears-prada-ai-trend/original-tall-main-v1.jpg
 
 ## Prompts
 

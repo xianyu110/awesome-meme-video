@@ -10,10 +10,10 @@
   "published": "2026-10-21",
   "credits": 46,
   "demo_videos": [
-    "https://www.makeviral.ai/media/templates/hole-in-shirt-ai-effect/original-main-v2.mp4"
+    "https://media.makeviral.ai/templates/hole-in-shirt-ai-effect/original-main-v2.mp4"
   ],
   "posters": [
-    "https://www.makeviral.ai/media/templates/hole-in-shirt-ai-effect/original-main-v1.jpg"
+    "https://media.makeviral.ai/templates/hole-in-shirt-ai-effect/original-main-v1.jpg"
   ],
   "prompts": [
     {
@@ -47,5 +47,5 @@
     "Make your own Hole in Shirt video"
   ],
   "prompt_count": 3,
-  "scraped_at": "2026-11-14"
+  "scraped_at": "2026-11-15"
 }

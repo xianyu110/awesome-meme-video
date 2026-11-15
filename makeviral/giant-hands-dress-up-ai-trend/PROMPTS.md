@@ -7,11 +7,11 @@ The giant hands dress up trend, also called the giant hands trend or the living 
 
 ## Demo videos (CDN)
 
-- https://www.makeviral.ai/media/templates/giant-hands-dress-up-ai-trend/original-main-v2.mp4
+- https://media.makeviral.ai/templates/giant-hands-dress-up-ai-trend/original-main-v2.mp4
 
 ## Posters
 
-- https://www.makeviral.ai/media/templates/giant-hands-dress-up-ai-trend/original-main-v1.jpg
+- https://media.makeviral.ai/templates/giant-hands-dress-up-ai-trend/original-main-v1.jpg
 
 ## Prompts
 

@@ -7,15 +7,15 @@ The bottle kick challenge AI trend puts you, or your pet, into the viral clip of
 
 ## Demo videos (CDN)
 
-- https://www.makeviral.ai/media/templates/bottle-kick-challenge-ai/original-dog-v2.mp4
-- https://www.makeviral.ai/media/templates/bottle-kick-challenge-ai/original-main-v2.mp4
-- https://www.makeviral.ai/media/templates/bottle-kick-challenge-ai/original-pet-v2.mp4
+- https://media.makeviral.ai/templates/bottle-kick-challenge-ai/original-dog-v2.mp4
+- https://media.makeviral.ai/templates/bottle-kick-challenge-ai/original-main-v2.mp4
+- https://media.makeviral.ai/templates/bottle-kick-challenge-ai/original-pet-v2.mp4
 
 ## Posters
 
-- https://www.makeviral.ai/media/templates/bottle-kick-challenge-ai/original-dog-v1.jpg
-- https://www.makeviral.ai/media/templates/bottle-kick-challenge-ai/original-main-v1.jpg
-- https://www.makeviral.ai/media/templates/bottle-kick-challenge-ai/original-pet-v1.jpg
+- https://media.makeviral.ai/templates/bottle-kick-challenge-ai/original-dog-v1.jpg
+- https://media.makeviral.ai/templates/bottle-kick-challenge-ai/original-main-v1.jpg
+- https://media.makeviral.ai/templates/bottle-kick-challenge-ai/original-pet-v1.jpg
 
 ## Prompts
 

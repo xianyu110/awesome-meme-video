@@ -7,11 +7,11 @@ The 90s movie AI trend puts you in a short scene that looks like a 1990s romanti
 
 ## Demo videos (CDN)
 
-- https://www.makeviral.ai/media/templates/90s-rom-com-ai-trend/original-main-v2.mp4
+- https://media.makeviral.ai/templates/90s-rom-com-ai-trend/original-main-v2.mp4
 
 ## Posters
 
-- https://www.makeviral.ai/media/templates/90s-rom-com-ai-trend/original-main-v1.jpg
+- https://media.makeviral.ai/templates/90s-rom-com-ai-trend/original-main-v1.jpg
 
 ## Prompts
 

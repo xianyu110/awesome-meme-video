@@ -7,11 +7,11 @@ The Not Like Us halftime show trend puts you on the stage of the halftime show e
 
 ## Demo videos (CDN)
 
-- https://www.makeviral.ai/media/templates/not-like-us-halftime-ai-trend/original-dance-v2.mp4
+- https://media.makeviral.ai/templates/not-like-us-halftime-ai-trend/original-dance-v2.mp4
 
 ## Posters
 
-- https://www.makeviral.ai/media/templates/not-like-us-halftime-ai-trend/original-dance-v1.jpg
+- https://media.makeviral.ai/templates/not-like-us-halftime-ai-trend/original-dance-v1.jpg
 
 ## Prompts
 

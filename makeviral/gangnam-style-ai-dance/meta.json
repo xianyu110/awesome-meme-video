@@ -10,19 +10,19 @@
   "published": "2026-10-22",
   "credits": 228,
   "demo_videos": [
-    "https://www.makeviral.ai/media/templates/gangnam-style-ai-dance/example-horse-v1.mp4",
-    "https://www.makeviral.ai/media/templates/gangnam-style-ai-dance/original-elevator-v2.mp4",
-    "https://www.makeviral.ai/media/templates/gangnam-style-ai-dance/original-main-v2.mp4",
-    "https://www.makeviral.ai/media/templates/gangnam-style-ai-dance/original-night-v2.mp4",
-    "https://www.makeviral.ai/media/templates/gangnam-style-ai-dance/original-pet-v2.mp4"
+    "https://media.makeviral.ai/templates/gangnam-style-ai-dance/example-horse-v1.mp4",
+    "https://media.makeviral.ai/templates/gangnam-style-ai-dance/original-elevator-v2.mp4",
+    "https://media.makeviral.ai/templates/gangnam-style-ai-dance/original-main-v2.mp4",
+    "https://media.makeviral.ai/templates/gangnam-style-ai-dance/original-night-v2.mp4",
+    "https://media.makeviral.ai/templates/gangnam-style-ai-dance/original-pet-v2.mp4"
   ],
   "posters": [
-    "https://www.makeviral.ai/media/templates/gangnam-style-ai-dance/example-horse-v1-input.jpg",
-    "https://www.makeviral.ai/media/templates/gangnam-style-ai-dance/example-horse-v1-poster.jpg",
-    "https://www.makeviral.ai/media/templates/gangnam-style-ai-dance/original-elevator-v1.jpg",
-    "https://www.makeviral.ai/media/templates/gangnam-style-ai-dance/original-main-v1.jpg",
-    "https://www.makeviral.ai/media/templates/gangnam-style-ai-dance/original-night-v1.jpg",
-    "https://www.makeviral.ai/media/templates/gangnam-style-ai-dance/original-pet-v1.jpg"
+    "https://media.makeviral.ai/templates/gangnam-style-ai-dance/example-horse-v1-input.jpg",
+    "https://media.makeviral.ai/templates/gangnam-style-ai-dance/example-horse-v1-poster.jpg",
+    "https://media.makeviral.ai/templates/gangnam-style-ai-dance/original-elevator-v1.jpg",
+    "https://media.makeviral.ai/templates/gangnam-style-ai-dance/original-main-v1.jpg",
+    "https://media.makeviral.ai/templates/gangnam-style-ai-dance/original-night-v1.jpg",
+    "https://media.makeviral.ai/templates/gangnam-style-ai-dance/original-pet-v1.jpg"
   ],
   "prompts": [
     {
@@ -84,5 +84,5 @@
     "Make your own Gangnam Style AI video"
   ],
   "prompt_count": 7,
-  "scraped_at": "2026-11-14"
+  "scraped_at": "2026-11-15"
 }

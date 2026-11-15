@@ -7,11 +7,11 @@ The Mbappe run vs Argentina is the 19-year-old's famous sprint from the 2018 Wor
 
 ## Demo videos (CDN)
 
-- https://www.makeviral.ai/media/templates/mbappe-sprint-ai-trend/original-main-v2.mp4
+- https://media.makeviral.ai/templates/mbappe-sprint-ai-trend/original-main-v2.mp4
 
 ## Posters
 
-- https://www.makeviral.ai/media/templates/mbappe-sprint-ai-trend/original-main-v1.jpg
+- https://media.makeviral.ai/templates/mbappe-sprint-ai-trend/original-main-v1.jpg
 
 ## Prompts
 

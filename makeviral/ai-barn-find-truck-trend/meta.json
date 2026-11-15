@@ -10,14 +10,14 @@
   "published": "2026-10-14",
   "credits": 3,
   "demo_videos": [
-    "https://www.makeviral.ai/media/templates/ai-barn-find-truck-trend/original-bike-v2.mp4",
-    "https://www.makeviral.ai/media/templates/ai-barn-find-truck-trend/original-kids-v2.mp4",
-    "https://www.makeviral.ai/media/templates/ai-barn-find-truck-trend/original-main-v2.mp4"
+    "https://media.makeviral.ai/templates/ai-barn-find-truck-trend/original-bike-v2.mp4",
+    "https://media.makeviral.ai/templates/ai-barn-find-truck-trend/original-kids-v2.mp4",
+    "https://media.makeviral.ai/templates/ai-barn-find-truck-trend/original-main-v2.mp4"
   ],
   "posters": [
-    "https://www.makeviral.ai/media/templates/ai-barn-find-truck-trend/original-bike-v1.jpg",
-    "https://www.makeviral.ai/media/templates/ai-barn-find-truck-trend/original-kids-v1.jpg",
-    "https://www.makeviral.ai/media/templates/ai-barn-find-truck-trend/original-main-v1.jpg"
+    "https://media.makeviral.ai/templates/ai-barn-find-truck-trend/original-bike-v1.jpg",
+    "https://media.makeviral.ai/templates/ai-barn-find-truck-trend/original-kids-v1.jpg",
+    "https://media.makeviral.ai/templates/ai-barn-find-truck-trend/original-main-v1.jpg"
   ],
   "prompts": [
     {
@@ -58,5 +58,5 @@
     "Make your own Barn Find AI photo"
   ],
   "prompt_count": 4,
-  "scraped_at": "2026-11-14"
+  "scraped_at": "2026-11-15"
 }

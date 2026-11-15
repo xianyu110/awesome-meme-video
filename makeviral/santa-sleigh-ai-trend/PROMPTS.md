@@ -7,11 +7,11 @@ The santa sleigh ai trend is a 9-second Christmas reel: a woman dressed as the S
 
 ## Demo videos (CDN)
 
-- https://www.makeviral.ai/media/templates/santa-sleigh-ai-trend/original-main-v2.mp4
+- https://media.makeviral.ai/templates/santa-sleigh-ai-trend/original-main-v2.mp4
 
 ## Posters
 
-- https://www.makeviral.ai/media/templates/santa-sleigh-ai-trend/original-main-v1.jpg
+- https://media.makeviral.ai/templates/santa-sleigh-ai-trend/original-main-v1.jpg
 
 ## Prompts
 

@@ -7,12 +7,12 @@ The darts filter is the prank of the darts season: an AI video where you hit a 1
 
 ## Demo videos (CDN)
 
-- https://www.makeviral.ai/media/templates/darts-170-ai-prank/example-main-v1.mp4
+- https://media.makeviral.ai/templates/darts-170-ai-prank/example-main-v1.mp4
 
 ## Posters
 
-- https://www.makeviral.ai/media/templates/darts-170-ai-prank/example-main-input.jpg
-- https://www.makeviral.ai/media/templates/darts-170-ai-prank/example-main-poster.jpg
+- https://media.makeviral.ai/templates/darts-170-ai-prank/example-main-input.jpg
+- https://media.makeviral.ai/templates/darts-170-ai-prank/example-main-poster.jpg
 
 ## Prompts
 

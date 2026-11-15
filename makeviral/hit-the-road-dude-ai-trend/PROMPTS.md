@@ -7,11 +7,11 @@ The Hit the Road Dude clip, also called the private property meme or State Prope
 
 ## Demo videos (CDN)
 
-- https://www.makeviral.ai/media/templates/hit-the-road-dude-ai-trend/original-tall-pet-v2.mp4
+- https://media.makeviral.ai/templates/hit-the-road-dude-ai-trend/original-tall-pet-v2.mp4
 
 ## Posters
 
-- https://www.makeviral.ai/media/templates/hit-the-road-dude-ai-trend/original-tall-pet-v1.jpg
+- https://media.makeviral.ai/templates/hit-the-road-dude-ai-trend/original-tall-pet-v1.jpg
 
 ## Prompts
 

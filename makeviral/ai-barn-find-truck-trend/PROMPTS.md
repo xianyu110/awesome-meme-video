@@ -7,15 +7,15 @@ The barn find AI trend turns a photo of your truck, car or bike into the dusty b
 
 ## Demo videos (CDN)
 
-- https://www.makeviral.ai/media/templates/ai-barn-find-truck-trend/original-bike-v2.mp4
-- https://www.makeviral.ai/media/templates/ai-barn-find-truck-trend/original-kids-v2.mp4
-- https://www.makeviral.ai/media/templates/ai-barn-find-truck-trend/original-main-v2.mp4
+- https://media.makeviral.ai/templates/ai-barn-find-truck-trend/original-bike-v2.mp4
+- https://media.makeviral.ai/templates/ai-barn-find-truck-trend/original-kids-v2.mp4
+- https://media.makeviral.ai/templates/ai-barn-find-truck-trend/original-main-v2.mp4
 
 ## Posters
 
-- https://www.makeviral.ai/media/templates/ai-barn-find-truck-trend/original-bike-v1.jpg
-- https://www.makeviral.ai/media/templates/ai-barn-find-truck-trend/original-kids-v1.jpg
-- https://www.makeviral.ai/media/templates/ai-barn-find-truck-trend/original-main-v1.jpg
+- https://media.makeviral.ai/templates/ai-barn-find-truck-trend/original-bike-v1.jpg
+- https://media.makeviral.ai/templates/ai-barn-find-truck-trend/original-kids-v1.jpg
+- https://media.makeviral.ai/templates/ai-barn-find-truck-trend/original-main-v1.jpg
 
 ## Prompts
 

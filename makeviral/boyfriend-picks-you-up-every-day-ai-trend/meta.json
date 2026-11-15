@@ -10,10 +10,10 @@
   "published": "2026-11-04",
   "credits": 152,
   "demo_videos": [
-    "https://www.makeviral.ai/media/templates/boyfriend-picks-you-up-every-day-ai-trend/original-main-v2.mp4"
+    "https://media.makeviral.ai/templates/boyfriend-picks-you-up-every-day-ai-trend/original-main-v2.mp4"
   ],
   "posters": [
-    "https://www.makeviral.ai/media/templates/boyfriend-picks-you-up-every-day-ai-trend/original-main-v1.jpg"
+    "https://media.makeviral.ai/templates/boyfriend-picks-you-up-every-day-ai-trend/original-main-v1.jpg"
   ],
   "prompts": [
     {
@@ -44,5 +44,5 @@
     "Make your own Boyfriend Picks You Up video"
   ],
   "prompt_count": 2,
-  "scraped_at": "2026-11-14"
+  "scraped_at": "2026-11-15"
 }

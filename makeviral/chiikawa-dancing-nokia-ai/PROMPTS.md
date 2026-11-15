@@ -7,11 +7,11 @@ The Chiikawa dancing Nokia trend comes from a November 2026 doodle animation: Us
 
 ## Demo videos (CDN)
 
-- https://www.makeviral.ai/media/templates/chiikawa-dancing-nokia-ai/original-main-v2.mp4
+- https://media.makeviral.ai/templates/chiikawa-dancing-nokia-ai/original-main-v2.mp4
 
 ## Posters
 
-- https://www.makeviral.ai/media/templates/chiikawa-dancing-nokia-ai/original-main-v1.jpg
+- https://media.makeviral.ai/templates/chiikawa-dancing-nokia-ai/original-main-v1.jpg
 
 ## Prompts
 

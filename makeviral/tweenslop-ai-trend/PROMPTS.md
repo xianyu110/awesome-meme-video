@@ -1,0 +1,83 @@
+# Tweenslop AI: Turn One Photo Into a Tweenslop Animation
+
+- Source: [makeviral](https://www.makeviral.ai/templates/tweenslop-ai-trend)
+- Slug: `tweenslop-ai-trend`
+
+Tweenslop (also written tween slop or tweensloop) is the TikTok animation trend where one still picture is cut out like a sticker and thrown around on every beat of a Brazilian funk track: it bounces, squashes, spins, zooms and flashes in color.
+
+## Demo videos (CDN)
+
+- https://media.makeviral.ai/templates/tweenslop-ai-trend/original-main-v2.mp4
+
+## Posters
+
+- https://media.makeviral.ai/templates/tweenslop-ai-trend/original-main-v1.jpg
+
+## Prompts
+
+### 1. 1. The video prompt is filled in. Settings: Seedance 2.5, 15 s, 720p, 9:16, sound off. The video prompt
+
+*Kind: video_prompt*
+
+```text
+Recreate the reference video [Video 1] shot for shot: a tweenslop edit, one cut-out photo thrown around on every beat of a funk track, with the same framing, timing and moves. The ONLY change: the snow leopard is now the person in [Image 1], in every shot and in every copy.
+
+The cut-out = a flat photo cut-out of the person in [Image 1] from the chest up, with a thin clean edge: the exact face from [Image 1] (face shape, eye color and eye shape, eyebrows, nose, mouth, skin tone, age, hair color, hair length and hairstyle, and any beard, moustache, glasses or freckles exactly as in the photo) and the clothes from [Image 1]. Both hands are raised flat at the front, palms to the camera, where the paws are in [Video 1]. In the side-on rainbow shots it is the same person lying flat, seen from the side, like a flying sticker. The same person in every frame and in every copy, so their friends recognize them at once. Never drift back to the snow leopard: no spotted grey fur, no leopard ears, no whiskers, no paw pads, no animal body.
+
+Matching [Video 1] second by second:
+0-1.5 s: a small framed photo of the person in the middle of a black screen jumps bigger on each beat.
+1.5-3.3 s: a white flash, then a big flat cut-out of the person, both hands raised at the front, bounces and squashes to the beat on a plain grey background.
+3.3-5.0 s: a white flash; the same cut-out in front of a green hill and a blue sky, then it tilts, spins and flies away as a flat picture.
+5.0-8.4 s: a white flash, then a dark blue background with small white pixel stars: a flat side-on cut-out of the person slides across with a pixel-style rainbow trail behind it, and more copies of the person, each with its own rainbow trail, pop in above and below.
+8.4-11.8 s: big close-ups of the cut-out of the person again, the colors flash on each beat: grey-green, purple, white, peach and pink stripes, a pink sky; at 11 s it tilts and flies away over a purple sky and a green hill.
+11.8-15 s: a white flash, then the rows of the person with rainbow trails slide across while the background color changes on each beat: teal, green, olive, brown, pink, purple.
+
+Keep everything else exactly as in [Video 1]: the cheap 2D tween animation, every zoom, bounce, squash, spin and cut on the same beats, the white flashes, the color backgrounds, the pixel stars, the rainbow trails, and the black bands above and below the picture.
+
+Anatomy rules: one head per cut-out, five fingers per hand. A face never appears on the hands or the clothes. No animal in any frame. No text, no captions, no logos, no watermark.
+```
+
+### 2. 1. The video prompt is filled in. Settings: Seedance 2.5, 15 s, 720p, 9:16, sound off. The video prompt (Pet)
+
+*Kind: video_prompt*
+
+```text
+Recreate the reference video [Video 1] shot for shot: a tweenslop edit, one cut-out photo thrown around on every beat of a funk track, with the same framing, timing and moves. The ONLY change: the big cat in the video is now the pet in [Image 1], in every shot and in every copy.
+
+The cut-out = a flat photo cut-out of the pet in [Image 1], with a thin clean edge: the same species and breed, face, eyes, ears, muzzle, fur colors, fur length and markings as in [Image 1], with the natural body volume and proportions of that animal, never merged with anything. Its front paws are raised at the front, where the paws are in [Video 1]. The squash and stretch of the animation may bend the flat picture, but the pet itself keeps its own shape. Whether [Image 1] shows a dog, a cat or another animal, it stays that animal. The same pet in every frame and in every copy, so its owner instantly recognizes it. Never drift back to the big cat of the video: not its spotted grey coat, not its round ears, not its pale eyes, unless [Image 1] shows them.
+
+Matching [Video 1] second by second:
+0-1.5 s: a small framed photo of the pet in the middle of a black screen jumps bigger on each beat.
+1.5-3.3 s: a white flash, then a big flat cut-out of the pet, front paws raised at the front, bounces and squashes to the beat on a plain grey background.
+3.3-5.0 s: a white flash; the same cut-out in front of a green hill and a blue sky, then it tilts, spins and flies away as a flat picture.
+5.0-8.4 s: a white flash, then a dark blue background with small white pixel stars: a flat side-on cut-out of the pet slides across with a pixel-style rainbow trail behind it, and more copies of the pet, each with its own rainbow trail, pop in above and below.
+8.4-11.8 s: big close-ups of the cut-out of the pet again, the colors flash on each beat: grey-green, purple, white, peach and pink stripes, a pink sky; at 11 s it tilts and flies away over a purple sky and a green hill.
+11.8-15 s: a white flash, then the rows of the pet with rainbow trails slide across while the background color changes on each beat: teal, green, olive, brown, pink, purple.
+
+Keep everything else exactly as in [Video 1]: the cheap 2D tween animation, every zoom, bounce, squash, spin and cut on the same beats, the white flashes, the color backgrounds, the pixel stars, the rainbow trails, and the black bands above and below the picture.
+
+Anatomy rules: one head per cut-out, animal paws, never human hands. No person in any frame. No text, no captions, no logos, no watermark.
+```
+
+### 3. 1. The video prompt is filled in. Settings: Seedance 2.5, 15 s, 720p, 9:16, sound off. The video prompt
+
+*Kind: video_prompt*
+
+```text
+Recreate the reference video [Video 1] shot for shot: a tweenslop edit, one cut-out photo thrown around on every beat of a funk track, with the same framing, timing and moves. The ONLY change: the snow leopard is now the subject of [Image 1], in every shot and in every copy.
+
+The cut-out = a flat photo cut-out of the subject of [Image 1] with a thin clean edge, whatever it is: an object, a snack, a toy, a drawing, a cartoon or game character, a person or a pet. Its whole shape, colors, materials, printed details and style stay exactly as in [Image 1]: it is never turned into an animal, never given a face, arms or paws it does not have. A person keeps the exact face, hair and clothes from [Image 1]; a pet keeps its own face, fur and markings. The same subject in every frame and in every copy. Never drift back to the snow leopard: no spotted fur, no leopard ears, no paws unless [Image 1] shows them.
+
+Matching [Video 1] second by second:
+0-1.5 s: a small framed photo of the subject in the middle of a black screen jumps bigger on each beat.
+1.5-3.3 s: a white flash, then a big flat cut-out of the subject, held up big at the front, bounces and squashes to the beat on a plain grey background.
+3.3-5.0 s: a white flash; the same cut-out in front of a green hill and a blue sky, then it tilts, spins and flies away as a flat picture.
+5.0-8.4 s: a white flash, then a dark blue background with small white pixel stars: a flat side-on cut-out of the subject slides across with a pixel-style rainbow trail behind it, and more copies of the subject, each with its own rainbow trail, pop in above and below.
+8.4-11.8 s: big close-ups of the cut-out of the subject again, the colors flash on each beat: grey-green, purple, white, peach and pink stripes, a pink sky; at 11 s it tilts and flies away over a purple sky and a green hill.
+11.8-15 s: a white flash, then the rows of the subject with rainbow trails slide across while the background color changes on each beat: teal, green, olive, brown, pink, purple.
+
+Keep everything else exactly as in [Video 1]: the cheap 2D tween animation, every zoom, bounce, squash, spin and cut on the same beats, the white flashes, the color backgrounds, the pixel stars, the rainbow trails, and the black bands above and below the picture.
+
+One subject per cut-out, no extra heads or limbs, no snow leopard in any frame. No text, no captions, no logos, no watermark.
+```
+

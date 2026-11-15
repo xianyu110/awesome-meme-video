@@ -10,14 +10,14 @@
   "published": "2026-11-04",
   "credits": 168,
   "demo_videos": [
-    "https://www.makeviral.ai/media/templates/grau-de-moto-ai-trend/original-main-v2.mp4",
-    "https://www.makeviral.ai/media/templates/grau-de-moto-ai-trend/original-pets-v2.mp4",
-    "https://www.makeviral.ai/media/templates/grau-de-moto-ai-trend/original-superbike-v2.mp4"
+    "https://media.makeviral.ai/templates/grau-de-moto-ai-trend/original-main-v2.mp4",
+    "https://media.makeviral.ai/templates/grau-de-moto-ai-trend/original-pets-v2.mp4",
+    "https://media.makeviral.ai/templates/grau-de-moto-ai-trend/original-superbike-v2.mp4"
   ],
   "posters": [
-    "https://www.makeviral.ai/media/templates/grau-de-moto-ai-trend/original-main-v1.jpg",
-    "https://www.makeviral.ai/media/templates/grau-de-moto-ai-trend/original-pets-v1.jpg",
-    "https://www.makeviral.ai/media/templates/grau-de-moto-ai-trend/original-superbike-v1.jpg"
+    "https://media.makeviral.ai/templates/grau-de-moto-ai-trend/original-main-v1.jpg",
+    "https://media.makeviral.ai/templates/grau-de-moto-ai-trend/original-pets-v1.jpg",
+    "https://media.makeviral.ai/templates/grau-de-moto-ai-trend/original-superbike-v1.jpg"
   ],
   "prompts": [
     {
@@ -60,5 +60,5 @@
     "Make your own Grau de Moto video"
   ],
   "prompt_count": 4,
-  "scraped_at": "2026-11-14"
+  "scraped_at": "2026-11-15"
 }

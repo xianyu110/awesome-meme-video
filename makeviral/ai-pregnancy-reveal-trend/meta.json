@@ -10,10 +10,10 @@
   "published": "2026-11-11",
   "credits": 126,
   "demo_videos": [
-    "https://www.makeviral.ai/media/templates/ai-pregnancy-reveal-trend/original-main-v2.mp4"
+    "https://media.makeviral.ai/templates/ai-pregnancy-reveal-trend/original-main-v2.mp4"
   ],
   "posters": [
-    "https://www.makeviral.ai/media/templates/ai-pregnancy-reveal-trend/original-main-v1.jpg"
+    "https://media.makeviral.ai/templates/ai-pregnancy-reveal-trend/original-main-v1.jpg"
   ],
   "prompts": [
     {
@@ -55,5 +55,5 @@
     "Make your own AI Pregnancy Reveal video"
   ],
   "prompt_count": 4,
-  "scraped_at": "2026-11-14"
+  "scraped_at": "2026-11-15"
 }

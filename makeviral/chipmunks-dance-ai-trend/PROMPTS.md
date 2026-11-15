@@ -7,13 +7,13 @@ The chipmunks dance is the TikTok trio dance of October 2026: three friends or s
 
 ## Demo videos (CDN)
 
-- https://www.makeviral.ai/media/templates/chipmunks-dance-ai-trend/original-first-v2.mp4
-- https://www.makeviral.ai/media/templates/chipmunks-dance-ai-trend/original-trio-v2.mp4
+- https://media.makeviral.ai/templates/chipmunks-dance-ai-trend/original-first-v2.mp4
+- https://media.makeviral.ai/templates/chipmunks-dance-ai-trend/original-trio-v2.mp4
 
 ## Posters
 
-- https://www.makeviral.ai/media/templates/chipmunks-dance-ai-trend/original-first-v1.jpg
-- https://www.makeviral.ai/media/templates/chipmunks-dance-ai-trend/original-trio-v1.jpg
+- https://media.makeviral.ai/templates/chipmunks-dance-ai-trend/original-first-v1.jpg
+- https://media.makeviral.ai/templates/chipmunks-dance-ai-trend/original-trio-v1.jpg
 
 ## Prompts
 

@@ -7,16 +7,16 @@ The 2027 New Year AI trend, also posted as Welcome 2027 and Hello 2027, is a one
 
 ## Demo videos (CDN)
 
-- https://www.makeviral.ai/media/templates/2027-new-year-ai-trend/example-self.mp4
-- https://www.makeviral.ai/media/templates/2027-new-year-ai-trend/original-goodbye-v1.mp4
-- https://www.makeviral.ai/media/templates/2027-new-year-ai-trend/original-human-v1.mp4
+- https://media.makeviral.ai/templates/2027-new-year-ai-trend/example-self.mp4
+- https://media.makeviral.ai/templates/2027-new-year-ai-trend/original-goodbye-v1.mp4
+- https://media.makeviral.ai/templates/2027-new-year-ai-trend/original-human-v1.mp4
 
 ## Posters
 
-- https://www.makeviral.ai/media/templates/2027-new-year-ai-trend/example-self-input.jpg
-- https://www.makeviral.ai/media/templates/2027-new-year-ai-trend/example-self-poster.jpg
-- https://www.makeviral.ai/media/templates/2027-new-year-ai-trend/original-goodbye-v1.jpg
-- https://www.makeviral.ai/media/templates/2027-new-year-ai-trend/original-human-v1.jpg
+- https://media.makeviral.ai/templates/2027-new-year-ai-trend/example-self-input.jpg
+- https://media.makeviral.ai/templates/2027-new-year-ai-trend/example-self-poster.jpg
+- https://media.makeviral.ai/templates/2027-new-year-ai-trend/original-goodbye-v1.jpg
+- https://media.makeviral.ai/templates/2027-new-year-ai-trend/original-human-v1.jpg
 
 ## Prompts
 

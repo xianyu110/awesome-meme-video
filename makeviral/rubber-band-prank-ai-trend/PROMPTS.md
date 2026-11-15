@@ -7,11 +7,11 @@ The rubber band prank trend is a kitchen clip where the prank backfires: one per
 
 ## Demo videos (CDN)
 
-- https://www.makeviral.ai/media/templates/rubber-band-prank-ai-trend/original-pets-v2.mp4
+- https://media.makeviral.ai/templates/rubber-band-prank-ai-trend/original-pets-v2.mp4
 
 ## Posters
 
-- https://www.makeviral.ai/media/templates/rubber-band-prank-ai-trend/original-pets-v1.jpg
+- https://media.makeviral.ai/templates/rubber-band-prank-ai-trend/original-pets-v1.jpg
 
 ## Prompts
 

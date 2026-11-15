@@ -7,11 +7,11 @@ The cutedog trend is a funny dog AI video: a 10-second home skit where you ask y
 
 ## Demo videos (CDN)
 
-- https://www.makeviral.ai/media/templates/cutedog-ai-trend/original-main-v2.mp4
+- https://media.makeviral.ai/templates/cutedog-ai-trend/original-main-v2.mp4
 
 ## Posters
 
-- https://www.makeviral.ai/media/templates/cutedog-ai-trend/original-main-v1.jpg
+- https://media.makeviral.ai/templates/cutedog-ai-trend/original-main-v1.jpg
 
 ## Prompts
 

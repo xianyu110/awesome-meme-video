@@ -7,12 +7,12 @@ An AI hug video is a short clip where two people from two separate photos walk t
 
 ## Demo videos (CDN)
 
-- https://www.makeviral.ai/media/templates/ai-hug-video/example.mp4
+- https://media.makeviral.ai/templates/ai-hug-video/example.mp4
 
 ## Posters
 
-- https://www.makeviral.ai/media/templates/ai-hug-video/example-input.jpg
-- https://www.makeviral.ai/media/templates/ai-hug-video/example-poster.jpg
+- https://media.makeviral.ai/templates/ai-hug-video/example-input.jpg
+- https://media.makeviral.ai/templates/ai-hug-video/example-poster.jpg
 
 ## Prompts
 

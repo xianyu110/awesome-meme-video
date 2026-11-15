@@ -7,13 +7,13 @@ The flamingo float AI trend is an 11-second reel: a man on a giant pink flamingo
 
 ## Demo videos (CDN)
 
-- https://www.makeviral.ai/media/templates/flamingo-float-ai-trend/original-main-v2.mp4
-- https://www.makeviral.ai/media/templates/flamingo-float-ai-trend/original-sg-v2.mp4
+- https://media.makeviral.ai/templates/flamingo-float-ai-trend/original-main-v2.mp4
+- https://media.makeviral.ai/templates/flamingo-float-ai-trend/original-sg-v2.mp4
 
 ## Posters
 
-- https://www.makeviral.ai/media/templates/flamingo-float-ai-trend/original-main-v1.jpg
-- https://www.makeviral.ai/media/templates/flamingo-float-ai-trend/original-sg-v1.jpg
+- https://media.makeviral.ai/templates/flamingo-float-ai-trend/original-main-v1.jpg
+- https://media.makeviral.ai/templates/flamingo-float-ai-trend/original-sg-v1.jpg
 
 ## Prompts
 

@@ -10,10 +10,10 @@
   "published": "2026-10-28",
   "credits": 189,
   "demo_videos": [
-    "https://www.makeviral.ai/media/templates/dayimin-cocuklari-ai-trend/original-trend-v2.mp4"
+    "https://media.makeviral.ai/templates/dayimin-cocuklari-ai-trend/original-trend-v2.mp4"
   ],
   "posters": [
-    "https://www.makeviral.ai/media/templates/dayimin-cocuklari-ai-trend/original-trend-v1.jpg"
+    "https://media.makeviral.ai/templates/dayimin-cocuklari-ai-trend/original-trend-v1.jpg"
   ],
   "prompts": [
     {
@@ -38,5 +38,5 @@
     "Make your own Kolpaçino Car Scene video"
   ],
   "prompt_count": 1,
-  "scraped_at": "2026-11-14"
+  "scraped_at": "2026-11-15"
 }

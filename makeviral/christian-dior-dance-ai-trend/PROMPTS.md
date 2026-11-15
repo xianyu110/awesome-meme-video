@@ -7,11 +7,11 @@ The Christian Dior dance is the TikTok duo dance of autumn 2026: two friends sta
 
 ## Demo videos (CDN)
 
-- https://www.makeviral.ai/media/templates/christian-dior-dance-ai-trend/original-duo-v2.mp4
+- https://media.makeviral.ai/templates/christian-dior-dance-ai-trend/original-duo-v2.mp4
 
 ## Posters
 
-- https://www.makeviral.ai/media/templates/christian-dior-dance-ai-trend/original-duo-v1.jpg
+- https://media.makeviral.ai/templates/christian-dior-dance-ai-trend/original-duo-v1.jpg
 
 ## Prompts
 

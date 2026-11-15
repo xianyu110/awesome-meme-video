@@ -10,11 +10,11 @@
   "published": "2026-09-30",
   "credits": 126,
   "demo_videos": [
-    "https://www.makeviral.ai/media/templates/storm-ai-trend/example.mp4"
+    "https://media.makeviral.ai/templates/storm-ai-trend/example.mp4"
   ],
   "posters": [
-    "https://www.makeviral.ai/media/templates/storm-ai-trend/example-input.jpg",
-    "https://www.makeviral.ai/media/templates/storm-ai-trend/example-poster.jpg"
+    "https://media.makeviral.ai/templates/storm-ai-trend/example-input.jpg",
+    "https://media.makeviral.ai/templates/storm-ai-trend/example-poster.jpg"
   ],
   "prompts": [
     {
@@ -38,5 +38,5 @@
     "Make your own Storm video"
   ],
   "prompt_count": 1,
-  "scraped_at": "2026-11-14"
+  "scraped_at": "2026-11-15"
 }

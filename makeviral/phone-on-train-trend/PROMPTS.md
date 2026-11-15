@@ -7,14 +7,14 @@ The phone on the train trend (also the Training Season train trend, or the phone
 
 ## Demo videos (CDN)
 
-- https://www.makeviral.ai/media/templates/phone-on-train-trend/example-sultan-v1.mp4
-- https://www.makeviral.ai/media/templates/phone-on-train-trend/original-paris-v2.mp4
+- https://media.makeviral.ai/templates/phone-on-train-trend/example-sultan-v1.mp4
+- https://media.makeviral.ai/templates/phone-on-train-trend/original-paris-v2.mp4
 
 ## Posters
 
-- https://www.makeviral.ai/media/templates/phone-on-train-trend/example-sultan-v1.jpg
-- https://www.makeviral.ai/media/templates/phone-on-train-trend/input-sultan-v1.jpg
-- https://www.makeviral.ai/media/templates/phone-on-train-trend/original-paris-v1.jpg
+- https://media.makeviral.ai/templates/phone-on-train-trend/example-sultan-v1.jpg
+- https://media.makeviral.ai/templates/phone-on-train-trend/input-sultan-v1.jpg
+- https://media.makeviral.ai/templates/phone-on-train-trend/original-paris-v1.jpg
 
 ## Prompts
 

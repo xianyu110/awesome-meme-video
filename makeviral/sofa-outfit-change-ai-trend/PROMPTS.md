@@ -7,14 +7,14 @@ The sofa outfit change is a fashion clip filmed from above: you lie on a sofa, t
 
 ## Demo videos (CDN)
 
-- https://www.makeviral.ai/media/templates/sofa-outfit-change-ai-trend/example-drone-v1.mp4
-- https://www.makeviral.ai/media/templates/sofa-outfit-change-ai-trend/original-real-v2.mp4
+- https://media.makeviral.ai/templates/sofa-outfit-change-ai-trend/example-drone-v1.mp4
+- https://media.makeviral.ai/templates/sofa-outfit-change-ai-trend/original-real-v2.mp4
 
 ## Posters
 
-- https://www.makeviral.ai/media/templates/sofa-outfit-change-ai-trend/example-drone-input.jpg
-- https://www.makeviral.ai/media/templates/sofa-outfit-change-ai-trend/example-drone-poster.jpg
-- https://www.makeviral.ai/media/templates/sofa-outfit-change-ai-trend/original-real-v1.jpg
+- https://media.makeviral.ai/templates/sofa-outfit-change-ai-trend/example-drone-input.jpg
+- https://media.makeviral.ai/templates/sofa-outfit-change-ai-trend/example-drone-poster.jpg
+- https://media.makeviral.ai/templates/sofa-outfit-change-ai-trend/original-real-v1.jpg
 
 ## Prompts
 

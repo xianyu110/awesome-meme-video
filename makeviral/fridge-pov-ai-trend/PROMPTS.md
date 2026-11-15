@@ -7,13 +7,13 @@ The fridge POV meme films a midnight snack from inside the fridge: the camera si
 
 ## Demo videos (CDN)
 
-- https://www.makeviral.ai/media/templates/fridge-pov-ai-trend/original-main-v2.mp4
-- https://www.makeviral.ai/media/templates/fridge-pov-ai-trend/original-pet-v2.mp4
+- https://media.makeviral.ai/templates/fridge-pov-ai-trend/original-main-v2.mp4
+- https://media.makeviral.ai/templates/fridge-pov-ai-trend/original-pet-v2.mp4
 
 ## Posters
 
-- https://www.makeviral.ai/media/templates/fridge-pov-ai-trend/original-main-v1.jpg
-- https://www.makeviral.ai/media/templates/fridge-pov-ai-trend/original-pet-v1.jpg
+- https://media.makeviral.ai/templates/fridge-pov-ai-trend/original-main-v1.jpg
+- https://media.makeviral.ai/templates/fridge-pov-ai-trend/original-pet-v1.jpg
 
 ## Prompts
 

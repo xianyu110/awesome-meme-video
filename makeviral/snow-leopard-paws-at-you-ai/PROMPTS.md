@@ -7,13 +7,13 @@ Paws at you is the snow leopard meme of October 2026: a real snow leopard photo,
 
 ## Demo videos (CDN)
 
-- https://www.makeviral.ai/media/templates/snow-leopard-paws-at-you-ai/original-meimei-v2.mp4
-- https://www.makeviral.ai/media/templates/snow-leopard-paws-at-you-ai/original-pet-v2.mp4
+- https://media.makeviral.ai/templates/snow-leopard-paws-at-you-ai/original-meimei-v2.mp4
+- https://media.makeviral.ai/templates/snow-leopard-paws-at-you-ai/original-pet-v2.mp4
 
 ## Posters
 
-- https://www.makeviral.ai/media/templates/snow-leopard-paws-at-you-ai/original-meimei-v1.jpg
-- https://www.makeviral.ai/media/templates/snow-leopard-paws-at-you-ai/original-pet-v1.jpg
+- https://media.makeviral.ai/templates/snow-leopard-paws-at-you-ai/original-meimei-v1.jpg
+- https://media.makeviral.ai/templates/snow-leopard-paws-at-you-ai/original-pet-v1.jpg
 
 ## Prompts
 

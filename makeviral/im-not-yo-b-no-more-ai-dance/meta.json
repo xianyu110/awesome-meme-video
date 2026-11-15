@@ -10,10 +10,10 @@
   "published": "2026-10-27",
   "credits": 60,
   "demo_videos": [
-    "https://www.makeviral.ai/media/templates/im-not-yo-b-no-more-ai-dance/original-main-v1.mp4"
+    "https://media.makeviral.ai/templates/im-not-yo-b-no-more-ai-dance/original-main-v1.mp4"
   ],
   "posters": [
-    "https://www.makeviral.ai/media/templates/im-not-yo-b-no-more-ai-dance/original-main-v1.jpg"
+    "https://media.makeviral.ai/templates/im-not-yo-b-no-more-ai-dance/original-main-v1.jpg"
   ],
   "prompts": [
     {
@@ -44,5 +44,5 @@
     "Make your own I'm Not Yo B No More video"
   ],
   "prompt_count": 2,
-  "scraped_at": "2026-11-14"
+  "scraped_at": "2026-11-15"
 }

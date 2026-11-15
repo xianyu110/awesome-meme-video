@@ -10,14 +10,14 @@
   "published": "2026-10-24",
   "credits": 137,
   "demo_videos": [
-    "https://www.makeviral.ai/media/templates/kung-fu-cat-ai-trend/original-ai-v2.mp4",
-    "https://www.makeviral.ai/media/templates/kung-fu-cat-ai-trend/original-cat-v2.mp4",
-    "https://www.makeviral.ai/media/templates/kung-fu-cat-ai-trend/original-dog-v2.mp4"
+    "https://media.makeviral.ai/templates/kung-fu-cat-ai-trend/original-ai-v2.mp4",
+    "https://media.makeviral.ai/templates/kung-fu-cat-ai-trend/original-cat-v2.mp4",
+    "https://media.makeviral.ai/templates/kung-fu-cat-ai-trend/original-dog-v2.mp4"
   ],
   "posters": [
-    "https://www.makeviral.ai/media/templates/kung-fu-cat-ai-trend/original-ai-v1.jpg",
-    "https://www.makeviral.ai/media/templates/kung-fu-cat-ai-trend/original-cat-v1.jpg",
-    "https://www.makeviral.ai/media/templates/kung-fu-cat-ai-trend/original-dog-v1.jpg"
+    "https://media.makeviral.ai/templates/kung-fu-cat-ai-trend/original-ai-v1.jpg",
+    "https://media.makeviral.ai/templates/kung-fu-cat-ai-trend/original-cat-v1.jpg",
+    "https://media.makeviral.ai/templates/kung-fu-cat-ai-trend/original-dog-v1.jpg"
   ],
   "prompts": [
     {
@@ -56,5 +56,5 @@
     "Make your own Kung Fu Cat video"
   ],
   "prompt_count": 3,
-  "scraped_at": "2026-11-14"
+  "scraped_at": "2026-11-15"
 }

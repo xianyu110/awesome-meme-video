@@ -7,12 +7,12 @@ Stadium Calm Down is a short AI video trend from late October 2026, also called 
 
 ## Demo videos (CDN)
 
-- https://www.makeviral.ai/media/templates/stadium-calm-down-ai-trend/example-v2.mp4
+- https://media.makeviral.ai/templates/stadium-calm-down-ai-trend/example-v2.mp4
 
 ## Posters
 
-- https://www.makeviral.ai/media/templates/stadium-calm-down-ai-trend/example-input.jpg
-- https://www.makeviral.ai/media/templates/stadium-calm-down-ai-trend/example-poster.jpg
+- https://media.makeviral.ai/templates/stadium-calm-down-ai-trend/example-input.jpg
+- https://media.makeviral.ai/templates/stadium-calm-down-ai-trend/example-poster.jpg
 
 ## Prompts
 

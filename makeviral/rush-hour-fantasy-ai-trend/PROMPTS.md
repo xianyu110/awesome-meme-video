@@ -7,11 +7,11 @@ Rush Hour Fantasy is a car scene trend: you sit in the middle of a back seat and
 
 ## Demo videos (CDN)
 
-- https://www.makeviral.ai/media/templates/rush-hour-fantasy-ai-trend/original-tall-v2.mp4
+- https://media.makeviral.ai/templates/rush-hour-fantasy-ai-trend/original-tall-v2.mp4
 
 ## Posters
 
-- https://www.makeviral.ai/media/templates/rush-hour-fantasy-ai-trend/original-tall-v1.jpg
+- https://media.makeviral.ai/templates/rush-hour-fantasy-ai-trend/original-tall-v1.jpg
 
 ## Prompts
 

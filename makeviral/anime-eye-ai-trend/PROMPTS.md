@@ -7,12 +7,12 @@ The anime face trend, also called the anime eye trend, is a TikTok selfie trend 
 
 ## Demo videos (CDN)
 
-- https://www.makeviral.ai/media/templates/anime-eye-ai-trend/example-v1.mp4
+- https://media.makeviral.ai/templates/anime-eye-ai-trend/example-v1.mp4
 
 ## Posters
 
-- https://www.makeviral.ai/media/templates/anime-eye-ai-trend/example-v1-input.jpg
-- https://www.makeviral.ai/media/templates/anime-eye-ai-trend/example-v1-poster.jpg
+- https://media.makeviral.ai/templates/anime-eye-ai-trend/example-v1-input.jpg
+- https://media.makeviral.ai/templates/anime-eye-ai-trend/example-v1-poster.jpg
 
 ## Prompts
 

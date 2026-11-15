@@ -7,11 +7,11 @@ The slap everyone meme is an AI video trend: a man argues with you on the stairs
 
 ## Demo videos (CDN)
 
-- https://www.makeviral.ai/media/templates/slap-everyone-ai-trend/original-stairs-v2.mp4
+- https://media.makeviral.ai/templates/slap-everyone-ai-trend/original-stairs-v2.mp4
 
 ## Posters
 
-- https://www.makeviral.ai/media/templates/slap-everyone-ai-trend/original-stairs-v1.jpg
+- https://media.makeviral.ai/templates/slap-everyone-ai-trend/original-stairs-v1.jpg
 
 ## Prompts
 

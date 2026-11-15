@@ -7,11 +7,11 @@ The Ozil goal AI trend remakes a famous 2016 solo goal with someone else as the 
 
 ## Demo videos (CDN)
 
-- https://www.makeviral.ai/media/templates/ozil-goal-ai-trend/original-main-v2.mp4
+- https://media.makeviral.ai/templates/ozil-goal-ai-trend/original-main-v2.mp4
 
 ## Posters
 
-- https://www.makeviral.ai/media/templates/ozil-goal-ai-trend/original-main-v1.jpg
+- https://media.makeviral.ai/templates/ozil-goal-ai-trend/original-main-v1.jpg
 
 ## Prompts
 

@@ -7,12 +7,12 @@ The Hippo Pathway what if trend comes from a viral AI video that asks "what if a
 
 ## Demo videos (CDN)
 
-- https://www.makeviral.ai/media/templates/hippo-pathway-giant-pop-star-ai-trend/example-main-v1.mp4
+- https://media.makeviral.ai/templates/hippo-pathway-giant-pop-star-ai-trend/example-main-v1.mp4
 
 ## Posters
 
-- https://www.makeviral.ai/media/templates/bama-bound-ai-trend/example-v1-input.jpg
-- https://www.makeviral.ai/media/templates/hippo-pathway-giant-pop-star-ai-trend/example-main-poster.jpg
+- https://media.makeviral.ai/templates/bama-bound-ai-trend/example-v1-input.jpg
+- https://media.makeviral.ai/templates/hippo-pathway-giant-pop-star-ai-trend/example-main-poster.jpg
 
 ## Prompts
 

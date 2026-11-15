@@ -7,13 +7,13 @@ The Nicole Kidman dance is the viral TikTok routine to ADÉLA's 2026 song "Nicol
 
 ## Demo videos (CDN)
 
-- https://www.makeviral.ai/media/templates/nicole-kidman-dance-ai-trend/original-main-v2.mp4
-- https://www.makeviral.ai/media/templates/nicole-kidman-dance-ai-trend/original-pet-v2.mp4
+- https://media.makeviral.ai/templates/nicole-kidman-dance-ai-trend/original-main-v2.mp4
+- https://media.makeviral.ai/templates/nicole-kidman-dance-ai-trend/original-pet-v2.mp4
 
 ## Posters
 
-- https://www.makeviral.ai/media/templates/nicole-kidman-dance-ai-trend/original-main-v1.jpg
-- https://www.makeviral.ai/media/templates/nicole-kidman-dance-ai-trend/original-pet-v1.jpg
+- https://media.makeviral.ai/templates/nicole-kidman-dance-ai-trend/original-main-v1.jpg
+- https://media.makeviral.ai/templates/nicole-kidman-dance-ai-trend/original-pet-v1.jpg
 
 ## Prompts
 

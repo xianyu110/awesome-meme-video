@@ -7,11 +7,11 @@ The biker birthday cake trend is an AI birthday video from Instagram: a friend f
 
 ## Demo videos (CDN)
 
-- https://www.makeviral.ai/media/templates/biker-birthday-cake-ai-trend/original-main-v3.mp4
+- https://media.makeviral.ai/templates/biker-birthday-cake-ai-trend/original-main-v3.mp4
 
 ## Posters
 
-- https://www.makeviral.ai/media/templates/biker-birthday-cake-ai-trend/original-main-v1.jpg
+- https://media.makeviral.ai/templates/biker-birthday-cake-ai-trend/original-main-v1.jpg
 
 ## Prompts
 

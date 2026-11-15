@@ -7,11 +7,11 @@ POV: your boyfriend picks you up every day is the viral convertible reel by @and
 
 ## Demo videos (CDN)
 
-- https://www.makeviral.ai/media/templates/boyfriend-picks-you-up-every-day-ai-trend/original-main-v2.mp4
+- https://media.makeviral.ai/templates/boyfriend-picks-you-up-every-day-ai-trend/original-main-v2.mp4
 
 ## Posters
 
-- https://www.makeviral.ai/media/templates/boyfriend-picks-you-up-every-day-ai-trend/original-main-v1.jpg
+- https://media.makeviral.ai/templates/boyfriend-picks-you-up-every-day-ai-trend/original-main-v1.jpg
 
 ## Prompts
 

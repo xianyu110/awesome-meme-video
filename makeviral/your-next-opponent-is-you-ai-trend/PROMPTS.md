@@ -7,11 +7,11 @@ Your Next Opponent Is You is a meme where a voice says "Congratulations, you're 
 
 ## Demo videos (CDN)
 
-- https://www.makeviral.ai/media/templates/your-next-opponent-is-you-ai-trend/original-main-v2.mp4
+- https://media.makeviral.ai/templates/your-next-opponent-is-you-ai-trend/original-main-v2.mp4
 
 ## Posters
 
-- https://www.makeviral.ai/media/templates/your-next-opponent-is-you-ai-trend/original-main-v1.jpg
+- https://media.makeviral.ai/templates/your-next-opponent-is-you-ai-trend/original-main-v1.jpg
 
 ## Prompts
 

@@ -10,10 +10,10 @@
   "published": "2026-11-02",
   "credits": 160,
   "demo_videos": [
-    "https://www.makeviral.ai/media/templates/24k-magic-ai-trend/original-tall-v2.mp4"
+    "https://media.makeviral.ai/templates/24k-magic-ai-trend/original-tall-v2.mp4"
   ],
   "posters": [
-    "https://www.makeviral.ai/media/templates/24k-magic-ai-trend/original-tall-v1.jpg"
+    "https://media.makeviral.ai/templates/24k-magic-ai-trend/original-tall-v1.jpg"
   ],
   "prompts": [
     {
@@ -50,5 +50,5 @@
     "Make your own 24K Magic AI video"
   ],
   "prompt_count": 3,
-  "scraped_at": "2026-11-14"
+  "scraped_at": "2026-11-15"
 }

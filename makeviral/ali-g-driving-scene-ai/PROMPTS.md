@@ -7,11 +7,11 @@ The Ali G driving scene AI trend puts you in the car scene from the 2002 film Al
 
 ## Demo videos (CDN)
 
-- https://www.makeviral.ai/media/templates/ali-g-driving-scene-ai/original-main-v1.mp4
+- https://media.makeviral.ai/templates/ali-g-driving-scene-ai/original-main-v1.mp4
 
 ## Posters
 
-- https://www.makeviral.ai/media/templates/ali-g-driving-scene-ai/original-main-v1.jpg
+- https://media.makeviral.ai/templates/ali-g-driving-scene-ai/original-main-v1.jpg
 
 ## Prompts
 

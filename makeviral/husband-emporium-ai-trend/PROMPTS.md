@@ -7,11 +7,11 @@ The Husband Emporium is a viral AI-made fake 1950s TV ad from TikTok: a clerk in
 
 ## Demo videos (CDN)
 
-- https://www.makeviral.ai/media/templates/husband-emporium-ai-trend/original-ad-v2.mp4
+- https://media.makeviral.ai/templates/husband-emporium-ai-trend/original-ad-v2.mp4
 
 ## Posters
 
-- https://www.makeviral.ai/media/templates/husband-emporium-ai-trend/original-ad-v1.jpg
+- https://media.makeviral.ai/templates/husband-emporium-ai-trend/original-ad-v1.jpg
 
 ## Prompts
 

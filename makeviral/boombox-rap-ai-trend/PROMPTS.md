@@ -7,13 +7,13 @@ The boombox rap AI trend turns two photos into a street rap video: you walk towa
 
 ## Demo videos (CDN)
 
-- https://www.makeviral.ai/media/templates/boombox-rap-ai-trend/original-pet-v2.mp4
-- https://www.makeviral.ai/media/templates/boombox-rap-ai-trend/original-slide-v2.mp4
+- https://media.makeviral.ai/templates/boombox-rap-ai-trend/original-pet-v2.mp4
+- https://media.makeviral.ai/templates/boombox-rap-ai-trend/original-slide-v2.mp4
 
 ## Posters
 
-- https://www.makeviral.ai/media/templates/boombox-rap-ai-trend/original-pet-v1.jpg
-- https://www.makeviral.ai/media/templates/boombox-rap-ai-trend/original-slide-v1.jpg
+- https://media.makeviral.ai/templates/boombox-rap-ai-trend/original-pet-v1.jpg
+- https://media.makeviral.ai/templates/boombox-rap-ai-trend/original-slide-v1.jpg
 
 ## Prompts
 

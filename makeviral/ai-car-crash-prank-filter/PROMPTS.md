@@ -7,12 +7,12 @@ The car crash prank is the October 2026 TikTok trend where a clip of someone lau
 
 ## Demo videos (CDN)
 
-- https://www.makeviral.ai/media/templates/ai-car-crash-prank-filter/example-v1.mp4
+- https://media.makeviral.ai/templates/ai-car-crash-prank-filter/example-v1.mp4
 
 ## Posters
 
-- https://www.makeviral.ai/media/templates/ai-car-crash-prank-filter/example-v1-input.jpg
-- https://www.makeviral.ai/media/templates/ai-car-crash-prank-filter/example-v1-poster.jpg
+- https://media.makeviral.ai/templates/ai-car-crash-prank-filter/example-v1-input.jpg
+- https://media.makeviral.ai/templates/ai-car-crash-prank-filter/example-v1-poster.jpg
 
 ## Prompts
 

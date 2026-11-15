@@ -7,13 +7,13 @@ The AI Cupid trend is a viral AI reel where Cupid fails: he dives at a woman fro
 
 ## Demo videos (CDN)
 
-- https://www.makeviral.ai/media/templates/ai-cupid-trend/original-arrow-v2.mp4
-- https://www.makeviral.ai/media/templates/ai-cupid-trend/original-main-v2.mp4
+- https://media.makeviral.ai/templates/ai-cupid-trend/original-arrow-v2.mp4
+- https://media.makeviral.ai/templates/ai-cupid-trend/original-main-v2.mp4
 
 ## Posters
 
-- https://www.makeviral.ai/media/templates/ai-cupid-trend/original-arrow-v1.jpg
-- https://www.makeviral.ai/media/templates/ai-cupid-trend/original-main-v1.jpg
+- https://media.makeviral.ai/templates/ai-cupid-trend/original-arrow-v1.jpg
+- https://media.makeviral.ai/templates/ai-cupid-trend/original-main-v1.jpg
 
 ## Prompts
 

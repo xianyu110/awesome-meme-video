@@ -7,15 +7,15 @@ Grau de moto is Brazilian slang for a motorcycle wheelie, and grau clips are one
 
 ## Demo videos (CDN)
 
-- https://www.makeviral.ai/media/templates/grau-de-moto-ai-trend/original-main-v2.mp4
-- https://www.makeviral.ai/media/templates/grau-de-moto-ai-trend/original-pets-v2.mp4
-- https://www.makeviral.ai/media/templates/grau-de-moto-ai-trend/original-superbike-v2.mp4
+- https://media.makeviral.ai/templates/grau-de-moto-ai-trend/original-main-v2.mp4
+- https://media.makeviral.ai/templates/grau-de-moto-ai-trend/original-pets-v2.mp4
+- https://media.makeviral.ai/templates/grau-de-moto-ai-trend/original-superbike-v2.mp4
 
 ## Posters
 
-- https://www.makeviral.ai/media/templates/grau-de-moto-ai-trend/original-main-v1.jpg
-- https://www.makeviral.ai/media/templates/grau-de-moto-ai-trend/original-pets-v1.jpg
-- https://www.makeviral.ai/media/templates/grau-de-moto-ai-trend/original-superbike-v1.jpg
+- https://media.makeviral.ai/templates/grau-de-moto-ai-trend/original-main-v1.jpg
+- https://media.makeviral.ai/templates/grau-de-moto-ai-trend/original-pets-v1.jpg
+- https://media.makeviral.ai/templates/grau-de-moto-ai-trend/original-superbike-v1.jpg
 
 ## Prompts
 

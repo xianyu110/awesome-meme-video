@@ -7,12 +7,12 @@ The AI dunk trend turns one photo into a pro basketball moment: you, in your eve
 
 ## Demo videos (CDN)
 
-- https://www.makeviral.ai/media/templates/ai-dunk-trend/example-v1.mp4
+- https://media.makeviral.ai/templates/ai-dunk-trend/example-v1.mp4
 
 ## Posters
 
-- https://www.makeviral.ai/media/templates/ai-dunk-trend/example-v1-input.jpg
-- https://www.makeviral.ai/media/templates/ai-dunk-trend/example-v1-poster.jpg
+- https://media.makeviral.ai/templates/ai-dunk-trend/example-v1-input.jpg
+- https://media.makeviral.ai/templates/ai-dunk-trend/example-v1-poster.jpg
 
 ## Prompts
 

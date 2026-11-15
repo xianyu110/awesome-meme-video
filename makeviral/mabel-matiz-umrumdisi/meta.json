@@ -10,14 +10,14 @@
   "published": "2026-11-01",
   "credits": 213,
   "demo_videos": [
-    "https://www.makeviral.ai/media/templates/ai-cat-singing-video/example-pets-v1.mp4",
-    "https://www.makeviral.ai/media/templates/mabel-matiz-umrumdisi/example-couch.mp4"
+    "https://media.makeviral.ai/templates/ai-cat-singing-video/example-pets-v1.mp4",
+    "https://media.makeviral.ai/templates/mabel-matiz-umrumdisi/example-couch.mp4"
   ],
   "posters": [
-    "https://www.makeviral.ai/media/templates/ai-cat-singing-video/example-pets-v1-input.jpg",
-    "https://www.makeviral.ai/media/templates/ai-cat-singing-video/example-pets-v1-poster.jpg",
-    "https://www.makeviral.ai/media/templates/mabel-matiz-umrumdisi/example-couch-input.jpg",
-    "https://www.makeviral.ai/media/templates/mabel-matiz-umrumdisi/example-couch-poster.jpg"
+    "https://media.makeviral.ai/templates/ai-cat-singing-video/example-pets-v1-input.jpg",
+    "https://media.makeviral.ai/templates/ai-cat-singing-video/example-pets-v1-poster.jpg",
+    "https://media.makeviral.ai/templates/mabel-matiz-umrumdisi/example-couch-input.jpg",
+    "https://media.makeviral.ai/templates/mabel-matiz-umrumdisi/example-couch-poster.jpg"
   ],
   "prompts": [
     {
@@ -57,5 +57,5 @@
     "Make your own Mabel Matiz Umrumdışı video"
   ],
   "prompt_count": 3,
-  "scraped_at": "2026-11-14"
+  "scraped_at": "2026-11-15"
 }

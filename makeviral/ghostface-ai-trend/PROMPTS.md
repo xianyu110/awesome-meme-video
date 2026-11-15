@@ -7,15 +7,15 @@ The Ghostface AI trend is a Halloween photo trend from September 2025: a grainy 
 
 ## Demo videos (CDN)
 
-- https://www.makeviral.ai/media/templates/ghostface-ai-trend/example-v2.mp4
-- https://www.makeviral.ai/media/templates/ghostface-ai-trend/example-video.mp4
+- https://media.makeviral.ai/templates/ghostface-ai-trend/example-v2.mp4
+- https://media.makeviral.ai/templates/ghostface-ai-trend/example-video.mp4
 
 ## Posters
 
-- https://www.makeviral.ai/media/templates/ghostface-ai-trend/example-v2-input.jpg
-- https://www.makeviral.ai/media/templates/ghostface-ai-trend/example-v2-poster.jpg
-- https://www.makeviral.ai/media/templates/ghostface-ai-trend/example-video-input.jpg
-- https://www.makeviral.ai/media/templates/ghostface-ai-trend/example-video-poster.jpg
+- https://media.makeviral.ai/templates/ghostface-ai-trend/example-v2-input.jpg
+- https://media.makeviral.ai/templates/ghostface-ai-trend/example-v2-poster.jpg
+- https://media.makeviral.ai/templates/ghostface-ai-trend/example-video-input.jpg
+- https://media.makeviral.ai/templates/ghostface-ai-trend/example-video-poster.jpg
 
 ## Prompts
 

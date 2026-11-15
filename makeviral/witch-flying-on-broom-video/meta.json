@@ -10,10 +10,10 @@
   "published": "2026-10-29",
   "credits": 229,
   "demo_videos": [
-    "https://www.makeviral.ai/media/templates/witch-flying-on-broom-video/original-main-v2.mp4"
+    "https://media.makeviral.ai/templates/witch-flying-on-broom-video/original-main-v2.mp4"
   ],
   "posters": [
-    "https://www.makeviral.ai/media/templates/witch-flying-on-broom-video/original-main-v1.jpg"
+    "https://media.makeviral.ai/templates/witch-flying-on-broom-video/original-main-v1.jpg"
   ],
   "prompts": [
     {
@@ -45,5 +45,5 @@
     "Make your own Witch on the metro video"
   ],
   "prompt_count": 2,
-  "scraped_at": "2026-11-14"
+  "scraped_at": "2026-11-15"
 }

@@ -10,10 +10,10 @@
   "published": "2026-10-12",
   "credits": 3,
   "demo_videos": [
-    "https://www.makeviral.ai/media/templates/ai-day-of-the-dead-makeup/original-results-v2.mp4"
+    "https://media.makeviral.ai/templates/ai-day-of-the-dead-makeup/original-results-v2.mp4"
   ],
   "posters": [
-    "https://www.makeviral.ai/media/templates/ai-day-of-the-dead-makeup/original-results-v1.jpg"
+    "https://media.makeviral.ai/templates/ai-day-of-the-dead-makeup/original-results-v1.jpg"
   ],
   "prompts": [
     {
@@ -57,5 +57,5 @@
     "Make your own Catrina Makeup photo"
   ],
   "prompt_count": 4,
-  "scraped_at": "2026-11-14"
+  "scraped_at": "2026-11-15"
 }

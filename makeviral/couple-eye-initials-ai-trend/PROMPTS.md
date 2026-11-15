@@ -7,11 +7,11 @@ The couple eye trend with initials is a romantic AI photo: an extreme close-up o
 
 ## Demo videos (CDN)
 
-- https://www.makeviral.ai/media/templates/couple-eye-initials-ai-trend/original-main-v2.mp4
+- https://media.makeviral.ai/templates/couple-eye-initials-ai-trend/original-main-v2.mp4
 
 ## Posters
 
-- https://www.makeviral.ai/media/templates/couple-eye-initials-ai-trend/original-main-v1.jpg
+- https://media.makeviral.ai/templates/couple-eye-initials-ai-trend/original-main-v1.jpg
 
 ## Prompts
 

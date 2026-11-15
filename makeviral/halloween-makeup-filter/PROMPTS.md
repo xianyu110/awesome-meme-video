@@ -7,11 +7,11 @@ The Halloween makeup filter trend is a 10-second Halloween makeup transformation
 
 ## Demo videos (CDN)
 
-- https://www.makeviral.ai/media/templates/halloween-makeup-filter/original-main-v2.mp4
+- https://media.makeviral.ai/templates/halloween-makeup-filter/original-main-v2.mp4
 
 ## Posters
 
-- https://www.makeviral.ai/media/templates/halloween-makeup-filter/original-main-v1.jpg
+- https://media.makeviral.ai/templates/halloween-makeup-filter/original-main-v1.jpg
 
 ## Prompts
 

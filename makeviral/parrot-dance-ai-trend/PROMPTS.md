@@ -7,13 +7,13 @@ The parrot dance is a viral AI clip of parrots dancing to "Jamaican (Bam Bam)": 
 
 ## Demo videos (CDN)
 
-- https://www.makeviral.ai/media/templates/parrot-dance-ai-trend/original-chickens-v2.mp4
-- https://www.makeviral.ai/media/templates/parrot-dance-ai-trend/original-pet-v2.mp4
+- https://media.makeviral.ai/templates/parrot-dance-ai-trend/original-chickens-v2.mp4
+- https://media.makeviral.ai/templates/parrot-dance-ai-trend/original-pet-v2.mp4
 
 ## Posters
 
-- https://www.makeviral.ai/media/templates/parrot-dance-ai-trend/original-chickens-v1.jpg
-- https://www.makeviral.ai/media/templates/parrot-dance-ai-trend/original-pet-v1.jpg
+- https://media.makeviral.ai/templates/parrot-dance-ai-trend/original-chickens-v1.jpg
+- https://media.makeviral.ai/templates/parrot-dance-ai-trend/original-pet-v1.jpg
 
 ## Prompts
 

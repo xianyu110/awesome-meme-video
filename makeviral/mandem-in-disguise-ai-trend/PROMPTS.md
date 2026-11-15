@@ -7,12 +7,12 @@ The mandem in disguise trend flips a photo of friends into a squad of masked guy
 
 ## Demo videos (CDN)
 
-- https://www.makeviral.ai/media/templates/mandem-in-disguise-ai-trend/example-you.mp4
+- https://media.makeviral.ai/templates/mandem-in-disguise-ai-trend/example-you.mp4
 
 ## Posters
 
-- https://www.makeviral.ai/media/templates/mandem-in-disguise-ai-trend/example-you-input.jpg
-- https://www.makeviral.ai/media/templates/mandem-in-disguise-ai-trend/example-you-poster.jpg
+- https://media.makeviral.ai/templates/mandem-in-disguise-ai-trend/example-you-input.jpg
+- https://media.makeviral.ai/templates/mandem-in-disguise-ai-trend/example-you-poster.jpg
 
 ## Prompts
 

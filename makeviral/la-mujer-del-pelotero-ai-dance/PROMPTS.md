@@ -7,13 +7,13 @@ The La Mujer del Pelotero trend is a TikTok hand routine to the party song "La M
 
 ## Demo videos (CDN)
 
-- https://www.makeviral.ai/media/templates/la-mujer-del-pelotero-ai-dance/original-duo-v2.mp4
-- https://www.makeviral.ai/media/templates/la-mujer-del-pelotero-ai-dance/original-main-v2.mp4
+- https://media.makeviral.ai/templates/la-mujer-del-pelotero-ai-dance/original-duo-v2.mp4
+- https://media.makeviral.ai/templates/la-mujer-del-pelotero-ai-dance/original-main-v2.mp4
 
 ## Posters
 
-- https://www.makeviral.ai/media/templates/la-mujer-del-pelotero-ai-dance/original-duo-v1.jpg
-- https://www.makeviral.ai/media/templates/la-mujer-del-pelotero-ai-dance/original-main-v1.jpg
+- https://media.makeviral.ai/templates/la-mujer-del-pelotero-ai-dance/original-duo-v1.jpg
+- https://media.makeviral.ai/templates/la-mujer-del-pelotero-ai-dance/original-main-v1.jpg
 
 ## Prompts
 

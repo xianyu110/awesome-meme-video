@@ -10,11 +10,11 @@
   "published": "2026-10-26",
   "credits": 126,
   "demo_videos": [
-    "https://www.makeviral.ai/media/templates/mandem-in-disguise-ai-trend/example-you.mp4"
+    "https://media.makeviral.ai/templates/mandem-in-disguise-ai-trend/example-you.mp4"
   ],
   "posters": [
-    "https://www.makeviral.ai/media/templates/mandem-in-disguise-ai-trend/example-you-input.jpg",
-    "https://www.makeviral.ai/media/templates/mandem-in-disguise-ai-trend/example-you-poster.jpg"
+    "https://media.makeviral.ai/templates/mandem-in-disguise-ai-trend/example-you-input.jpg",
+    "https://media.makeviral.ai/templates/mandem-in-disguise-ai-trend/example-you-poster.jpg"
   ],
   "prompts": [
     {
@@ -40,5 +40,5 @@
     "Make your own Mandem in Disguise video"
   ],
   "prompt_count": 2,
-  "scraped_at": "2026-11-14"
+  "scraped_at": "2026-11-15"
 }

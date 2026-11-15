@@ -7,13 +7,13 @@ The Topo Gigio trend puts you into the Enzo Fernandez celebration: on the touchl
 
 ## Demo videos (CDN)
 
-- https://www.makeviral.ai/media/templates/topo-gigio-celebration-ai-trend/original-reel-v2.mp4
-- https://www.makeviral.ai/media/templates/topo-gigio-celebration-ai-trend/original-trend-v2.mp4
+- https://media.makeviral.ai/templates/topo-gigio-celebration-ai-trend/original-reel-v2.mp4
+- https://media.makeviral.ai/templates/topo-gigio-celebration-ai-trend/original-trend-v2.mp4
 
 ## Posters
 
-- https://www.makeviral.ai/media/templates/topo-gigio-celebration-ai-trend/original-reel-v1.jpg
-- https://www.makeviral.ai/media/templates/topo-gigio-celebration-ai-trend/original-trend-v1.jpg
+- https://media.makeviral.ai/templates/topo-gigio-celebration-ai-trend/original-reel-v1.jpg
+- https://media.makeviral.ai/templates/topo-gigio-celebration-ai-trend/original-trend-v1.jpg
 
 ## Prompts
 

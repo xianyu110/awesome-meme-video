@@ -7,11 +7,11 @@ The street light trend, also called the AI Slide Transition Effect, is a short n
 
 ## Demo videos (CDN)
 
-- https://www.makeviral.ai/media/templates/street-light-slide-ai-effect/original-human-v2.mp4
+- https://media.makeviral.ai/templates/street-light-slide-ai-effect/original-human-v2.mp4
 
 ## Posters
 
-- https://www.makeviral.ai/media/templates/street-light-slide-ai-effect/original-human-v1.jpg
+- https://media.makeviral.ai/templates/street-light-slide-ai-effect/original-human-v1.jpg
 
 ## Prompts
 

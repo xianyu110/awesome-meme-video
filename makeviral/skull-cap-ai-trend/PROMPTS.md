@@ -7,13 +7,13 @@ The skull cap trend is the TikTok glow-up of October 2026: someone looks plain a
 
 ## Demo videos (CDN)
 
-- https://www.makeviral.ai/media/templates/skull-cap-ai-trend/original-main-v2.mp4
-- https://www.makeviral.ai/media/templates/skull-cap-ai-trend/original-pet-lab-v2.mp4
+- https://media.makeviral.ai/templates/skull-cap-ai-trend/original-main-v2.mp4
+- https://media.makeviral.ai/templates/skull-cap-ai-trend/original-pet-lab-v2.mp4
 
 ## Posters
 
-- https://www.makeviral.ai/media/templates/skull-cap-ai-trend/original-main-v1.jpg
-- https://www.makeviral.ai/media/templates/skull-cap-ai-trend/original-pet-lab-v1.jpg
+- https://media.makeviral.ai/templates/skull-cap-ai-trend/original-main-v1.jpg
+- https://media.makeviral.ai/templates/skull-cap-ai-trend/original-pet-lab-v1.jpg
 
 ## Prompts
 

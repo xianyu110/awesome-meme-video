@@ -7,11 +7,11 @@ The Bécane AI trend puts you in a music performance TikTok has watched tens of 
 
 ## Demo videos (CDN)
 
-- https://www.makeviral.ai/media/templates/becane-ai-trend/original-main-v2.mp4
+- https://media.makeviral.ai/templates/becane-ai-trend/original-main-v2.mp4
 
 ## Posters
 
-- https://www.makeviral.ai/media/templates/becane-ai-trend/original-main-v1.jpg
+- https://media.makeviral.ai/templates/becane-ai-trend/original-main-v1.jpg
 
 ## Prompts
 

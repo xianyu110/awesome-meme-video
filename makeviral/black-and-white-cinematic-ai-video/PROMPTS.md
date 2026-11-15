@@ -7,11 +7,11 @@ This black and white cinematic video puts your face into the Classic Suit Stroll
 
 ## Demo videos (CDN)
 
-- https://www.makeviral.ai/media/templates/black-and-white-cinematic-ai-video/original-main-v2.mp4
+- https://media.makeviral.ai/templates/black-and-white-cinematic-ai-video/original-main-v2.mp4
 
 ## Posters
 
-- https://www.makeviral.ai/media/templates/black-and-white-cinematic-ai-video/original-main-v1.jpg
+- https://media.makeviral.ai/templates/black-and-white-cinematic-ai-video/original-main-v1.jpg
 
 ## Prompts
 

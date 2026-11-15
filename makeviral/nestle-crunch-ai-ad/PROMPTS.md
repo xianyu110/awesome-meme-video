@@ -7,14 +7,14 @@ The Nestle Crunch trend is a UK TikTok wave from October 2026: a Nestle Crunch A
 
 ## Demo videos (CDN)
 
-- https://www.makeviral.ai/media/templates/nestle-crunch-ai-ad/example-main.mp4
-- https://www.makeviral.ai/media/templates/nestle-crunch-ai-ad/original-pet-v1.mp4
+- https://media.makeviral.ai/templates/nestle-crunch-ai-ad/example-main.mp4
+- https://media.makeviral.ai/templates/nestle-crunch-ai-ad/original-pet-v1.mp4
 
 ## Posters
 
-- https://www.makeviral.ai/media/templates/nestle-crunch-ai-ad/example-main-input.jpg
-- https://www.makeviral.ai/media/templates/nestle-crunch-ai-ad/example-main-poster.jpg
-- https://www.makeviral.ai/media/templates/nestle-crunch-ai-ad/original-pet-v2.jpg
+- https://media.makeviral.ai/templates/nestle-crunch-ai-ad/example-main-input.jpg
+- https://media.makeviral.ai/templates/nestle-crunch-ai-ad/example-main-poster.jpg
+- https://media.makeviral.ai/templates/nestle-crunch-ai-ad/original-pet-v2.jpg
 
 ## Prompts
 

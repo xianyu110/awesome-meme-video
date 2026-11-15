@@ -7,14 +7,14 @@ Beni Hatırlayınız ("Remember me") is a 10 Kasım AI video: you climb out of t
 
 ## Demo videos (CDN)
 
-- https://www.makeviral.ai/media/templates/beni-hatirlayiniz-ai-trend/example-main-916-v2.mp4
-- https://www.makeviral.ai/media/templates/beni-hatirlayiniz-ai-trend/example-main-v2.mp4
+- https://media.makeviral.ai/templates/beni-hatirlayiniz-ai-trend/example-main-916-v2.mp4
+- https://media.makeviral.ai/templates/beni-hatirlayiniz-ai-trend/example-main-v2.mp4
 
 ## Posters
 
-- https://www.makeviral.ai/media/templates/beni-hatirlayiniz-ai-trend/example-main-916-v2.jpg
-- https://www.makeviral.ai/media/templates/beni-hatirlayiniz-ai-trend/example-main-v2.jpg
-- https://www.makeviral.ai/media/templates/storm-ai-trend/example-input.jpg
+- https://media.makeviral.ai/templates/beni-hatirlayiniz-ai-trend/example-main-916-v2.jpg
+- https://media.makeviral.ai/templates/beni-hatirlayiniz-ai-trend/example-main-v2.jpg
+- https://media.makeviral.ai/templates/storm-ai-trend/example-input.jpg
 
 ## Prompts
 

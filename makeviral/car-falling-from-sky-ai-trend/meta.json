@@ -10,12 +10,12 @@
   "published": "2026-11-04",
   "credits": 183,
   "demo_videos": [
-    "https://www.makeviral.ai/media/templates/car-falling-from-sky-ai-trend/original-configurator-v2.mp4",
-    "https://www.makeviral.ai/media/templates/car-falling-from-sky-ai-trend/original-main-v2.mp4"
+    "https://media.makeviral.ai/templates/car-falling-from-sky-ai-trend/original-configurator-v2.mp4",
+    "https://media.makeviral.ai/templates/car-falling-from-sky-ai-trend/original-main-v2.mp4"
   ],
   "posters": [
-    "https://www.makeviral.ai/media/templates/car-falling-from-sky-ai-trend/original-configurator-v1.jpg",
-    "https://www.makeviral.ai/media/templates/car-falling-from-sky-ai-trend/original-main-v1.jpg"
+    "https://media.makeviral.ai/templates/car-falling-from-sky-ai-trend/original-configurator-v1.jpg",
+    "https://media.makeviral.ai/templates/car-falling-from-sky-ai-trend/original-main-v1.jpg"
   ],
   "prompts": [
     {
@@ -46,5 +46,5 @@
     "Make your own Car Falling From Sky video"
   ],
   "prompt_count": 2,
-  "scraped_at": "2026-11-14"
+  "scraped_at": "2026-11-15"
 }

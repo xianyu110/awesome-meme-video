@@ -7,11 +7,13 @@ The Just a Lil Bit dance is a TikTok trio dance: three friends groove side by si
 
 ## Demo videos (CDN)
 
-- https://www.makeviral.ai/media/templates/just-a-lil-bit-ai-dance/original-main-v2.mp4
+- https://media.makeviral.ai/templates/just-a-lil-bit-ai-dance/original-main-v2.mp4
+- https://media.makeviral.ai/templates/just-a-lil-bit-ai-dance/original-pet-v2.mp4
 
 ## Posters
 
-- https://www.makeviral.ai/media/templates/just-a-lil-bit-ai-dance/original-main-v1.jpg
+- https://media.makeviral.ai/templates/just-a-lil-bit-ai-dance/original-main-v1.jpg
+- https://media.makeviral.ai/templates/just-a-lil-bit-ai-dance/original-pet-v1.jpg
 
 ## Prompts
 
@@ -79,5 +81,47 @@ The dance, matching the reference second by second, on the beat, all three dance
 10-15 s: a low groove with toe taps and the hands at the chest, then a hand comes up by the head at the end.
 
 Anatomy rules: one head per person, on that person's own shoulders. A face never appears on knees, legs, hands or clothes. Exactly three dancers. Natural balance, stable ground contact, the reflections follow the dancers. No extra dancers, duplicate bodies, extra limbs, fused fingers, text, logos or watermark, and no team logo or letter on any cap.
+```
+
+### 4. 1. The video prompt is filled in. Settings: Seedance 2.5, 15 s, 720p, 9:16, sound off. The video prompt (Pet)
+
+*Kind: video_prompt*
+
+```text
+Recreate the reference video [Video 1] shot for shot: the same rain-wet outdoor court on a grey overcast day, the green mesh fence, the autumn trees with orange and yellow leaves behind it, the dancers' reflections in the wet ground, the same fixed phone camera, framing, timing and dance moves. One continuous shot, no cuts. The ONLY change: all three dancers are now the pet in [Image 1], like three clones of the same pet dancing in sync.
+
+[Image 1] replaces the man in the middle, the man on the left and the man on the right, in EVERY frame, the WHOLE body, not just the head: each of the three is the same species and breed, face, eyes, ears, muzzle, fur colors, fur length and markings as in [Image 1], with the natural body volume and proportions of that animal: never flattened, squashed, stretched or merged with anything, so its owner instantly recognizes it. It stands upright on its hind legs and dances with its front paws, with no cap, beanie, T-shirt, jacket or track top unless [Image 1] shows them.
+
+The same pet three times, from the first second to the last, so its owner recognizes it at once, also when the heads are bowed at the start. Never morph, never drift back to the original dancers. No person from the video stays: no human face, hands, clothes or shoes. If [Image 1] shows a person, all three dancers are that person, with their own face and clothes.
+
+The dance, matching the reference second by second, on the beat, all three dancers in perfect sync, each standing upright on its two hind legs: small bounces, hind-paw taps, a loose shoulder groove, a forward kick and the front-paw moves that match the hand moves in the clip. Do not invent additional moves.
+0-2 s: the three stand side by side, heads down, a small bounce.
+2-7 s: small steps and hind-paw taps, the front paws loose by the belly, a shoulder groove.
+7-10 s: the front paws swing up to the chest, then one hind leg kicks forward and they lean into it.
+10-15 s: a low groove with paw taps and the front paws at the chest, then one front paw comes up by the head at the end.
+
+Anatomy rules: each pet has one head, one tail, two hind legs on the ground and two front legs with paws: no human hands, no human face, no human body. Exactly three dancers. Natural balance, stable ground contact, the reflections follow the pets. No extra dancers, duplicate bodies, extra limbs, text, logos or watermark, and no cap, beanie or clothes unless the photo shows them.
+```
+
+### 5. 1. The video prompt is filled in. Settings: Seedance 2.5, 15 s, 720p, 9:16, sound off. The video prompt (Pet)
+
+*Kind: video_prompt*
+
+```text
+Recreate the reference video [Video 1] shot for shot: the same rain-wet outdoor court on a grey overcast day, the green mesh fence, the autumn trees with orange and yellow leaves behind it, the dancers' reflections in the wet ground, the same fixed phone camera, framing, timing and dance moves. One continuous shot, no cuts. The ONLY change: the dancer in the middle is now the pet in [Image 1], and the two dancers on the left and on the right are both the pet in [Image 2], like twins.
+
+Middle = the pet in [Image 1], in EVERY frame, the WHOLE body, not just the head: the same species and breed, face, eyes, ears, muzzle, fur colors, fur length and markings as in [Image 1], with the natural body volume and proportions of that animal: never flattened, squashed, stretched or merged with anything, so its owner instantly recognizes it. It stands upright on its hind legs and dances with its front paws, with no cap, beanie, T-shirt, jacket or track top unless [Image 1] shows them.
+
+Left and right = the pet in [Image 2], in EVERY frame, the WHOLE body, not just the head: both are the same species and breed, face, eyes, ears, muzzle, fur colors, fur length and markings as in [Image 2], with the natural body volume and proportions of that animal: never flattened, squashed, stretched or merged with anything, so its owner instantly recognizes it. It stands upright on its hind legs and dances with its front paws, with no cap, beanie, T-shirt, jacket or track top unless [Image 2] shows them.
+
+The same pets in every frame, so their owner recognizes them at once, also when the heads are bowed at the start. Never morph, never mix the two pets: [Image 1] is only the middle dancer, [Image 2] only the two side dancers. All three change: no person from the video stays, no human face, hands, clothes or shoes. If a photo shows a person, that person takes those places with their own face and clothes.
+
+The dance, matching the reference second by second, on the beat, all three dancers in perfect sync, each standing upright on its two hind legs: small bounces, hind-paw taps, a loose shoulder groove, a forward kick and the front-paw moves that match the hand moves in the clip. Do not invent additional moves.
+0-2 s: the three stand side by side, heads down, a small bounce.
+2-7 s: small steps and hind-paw taps, the front paws loose by the belly, a shoulder groove.
+7-10 s: the front paws swing up to the chest, then one hind leg kicks forward and they lean into it.
+10-15 s: a low groove with paw taps and the front paws at the chest, then one front paw comes up by the head at the end.
+
+Anatomy rules: each pet has one head, one tail, two hind legs on the ground and two front legs with paws: no human hands, no human face, no human body. Exactly three dancers. Natural balance, stable ground contact, the reflections follow the pets. No extra dancers, duplicate bodies, extra limbs, text, logos or watermark, and no cap, beanie or clothes unless the photo shows them.
 ```
 

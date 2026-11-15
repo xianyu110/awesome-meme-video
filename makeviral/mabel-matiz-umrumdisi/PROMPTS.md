@@ -7,15 +7,15 @@ The Mabel Matiz Umrumdışı AI trend is the Turkish piano clip of late October 
 
 ## Demo videos (CDN)
 
-- https://www.makeviral.ai/media/templates/ai-cat-singing-video/example-pets-v1.mp4
-- https://www.makeviral.ai/media/templates/mabel-matiz-umrumdisi/example-couch.mp4
+- https://media.makeviral.ai/templates/ai-cat-singing-video/example-pets-v1.mp4
+- https://media.makeviral.ai/templates/mabel-matiz-umrumdisi/example-couch.mp4
 
 ## Posters
 
-- https://www.makeviral.ai/media/templates/ai-cat-singing-video/example-pets-v1-input.jpg
-- https://www.makeviral.ai/media/templates/ai-cat-singing-video/example-pets-v1-poster.jpg
-- https://www.makeviral.ai/media/templates/mabel-matiz-umrumdisi/example-couch-input.jpg
-- https://www.makeviral.ai/media/templates/mabel-matiz-umrumdisi/example-couch-poster.jpg
+- https://media.makeviral.ai/templates/ai-cat-singing-video/example-pets-v1-input.jpg
+- https://media.makeviral.ai/templates/ai-cat-singing-video/example-pets-v1-poster.jpg
+- https://media.makeviral.ai/templates/mabel-matiz-umrumdisi/example-couch-input.jpg
+- https://media.makeviral.ai/templates/mabel-matiz-umrumdisi/example-couch-poster.jpg
 
 ## Prompts
 

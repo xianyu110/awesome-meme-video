@@ -7,11 +7,11 @@ I just woke up from a fuzzy dream is the line of the Fuzzy Dream dance, the Sout
 
 ## Demo videos (CDN)
 
-- https://www.makeviral.ai/media/templates/fuzzy-dream-dance-ai-trend/original-main-v2.mp4
+- https://media.makeviral.ai/templates/fuzzy-dream-dance-ai-trend/original-main-v2.mp4
 
 ## Posters
 
-- https://www.makeviral.ai/media/templates/fuzzy-dream-dance-ai-trend/original-main-v1.jpg
+- https://media.makeviral.ai/templates/fuzzy-dream-dance-ai-trend/original-main-v1.jpg
 
 ## Prompts
 

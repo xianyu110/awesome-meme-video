@@ -7,11 +7,11 @@ The I want wings trend is a TikTok glow-up meme: a "before" photo with a cockroa
 
 ## Demo videos (CDN)
 
-- https://www.makeviral.ai/media/templates/i-want-wings-ai-trend/original-carousel-v2.mp4
+- https://media.makeviral.ai/templates/i-want-wings-ai-trend/original-carousel-v2.mp4
 
 ## Posters
 
-- https://www.makeviral.ai/media/templates/i-want-wings-ai-trend/original-carousel-v1.jpg
+- https://media.makeviral.ai/templates/i-want-wings-ai-trend/original-carousel-v1.jpg
 
 ## Prompts
 

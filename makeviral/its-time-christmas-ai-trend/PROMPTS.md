@@ -7,11 +7,11 @@ Mariah Carey It's Time is the yearly November 1st clip in which she "defrosts" a
 
 ## Demo videos (CDN)
 
-- https://www.makeviral.ai/media/templates/its-time-christmas-ai-trend/original-main-v3.mp4
+- https://media.makeviral.ai/templates/its-time-christmas-ai-trend/original-main-v3.mp4
 
 ## Posters
 
-- https://www.makeviral.ai/media/templates/its-time-christmas-ai-trend/original-main-v1.jpg
+- https://media.makeviral.ai/templates/its-time-christmas-ai-trend/original-main-v1.jpg
 
 ## Prompts
 

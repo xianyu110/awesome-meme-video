@@ -7,12 +7,12 @@ The I'm So In Love With You meme is the October 2026 TikTok trend where people s
 
 ## Demo videos (CDN)
 
-- https://www.makeviral.ai/media/templates/im-so-in-love-with-you-ai-dance/example-main.mp4
+- https://media.makeviral.ai/templates/im-so-in-love-with-you-ai-dance/example-main.mp4
 
 ## Posters
 
-- https://www.makeviral.ai/media/templates/im-so-in-love-with-you-ai-dance/example-main-input.jpg
-- https://www.makeviral.ai/media/templates/im-so-in-love-with-you-ai-dance/example-main-poster.jpg
+- https://media.makeviral.ai/templates/im-so-in-love-with-you-ai-dance/example-main-input.jpg
+- https://media.makeviral.ai/templates/im-so-in-love-with-you-ai-dance/example-main-poster.jpg
 
 ## Prompts
 

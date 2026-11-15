@@ -10,10 +10,10 @@
   "published": "2026-10-12",
   "credits": 152,
   "demo_videos": [
-    "https://www.makeviral.ai/media/templates/unforgettable-car-trend-ai/original-main-v2.mp4"
+    "https://media.makeviral.ai/templates/unforgettable-car-trend-ai/original-main-v2.mp4"
   ],
   "posters": [
-    "https://www.makeviral.ai/media/templates/unforgettable-car-trend-ai/original-main-v1.jpg"
+    "https://media.makeviral.ai/templates/unforgettable-car-trend-ai/original-main-v1.jpg"
   ],
   "prompts": [
     {
@@ -52,5 +52,5 @@
     "Make your own 24 Unforgettable Car video"
   ],
   "prompt_count": 4,
-  "scraped_at": "2026-11-14"
+  "scraped_at": "2026-11-15"
 }

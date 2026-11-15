@@ -7,11 +7,11 @@ The Hearts2Hearts Next Chapter dance is the challenge of the group's first Engli
 
 ## Demo videos (CDN)
 
-- https://www.makeviral.ai/media/templates/hearts2hearts-next-chapter-ai-dance/original-main-v2.mp4
+- https://media.makeviral.ai/templates/hearts2hearts-next-chapter-ai-dance/original-main-v2.mp4
 
 ## Posters
 
-- https://www.makeviral.ai/media/templates/hearts2hearts-next-chapter-ai-dance/original-main-v1.jpg
+- https://media.makeviral.ai/templates/hearts2hearts-next-chapter-ai-dance/original-main-v1.jpg
 
 ## Prompts
 

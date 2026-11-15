@@ -7,15 +7,15 @@ The car jump AI video is the "unbothered" trend: you sit calm in a folding camp 
 
 ## Demo videos (CDN)
 
-- https://www.makeviral.ai/media/templates/ai-car-jump-trend/example-desert-v1.mp4
-- https://www.makeviral.ai/media/templates/ai-car-jump-trend/original-main-v2.mp4
-- https://www.makeviral.ai/media/templates/ai-car-jump-trend/original-sheep-v2.mp4
+- https://media.makeviral.ai/templates/ai-car-jump-trend/example-desert-v1.mp4
+- https://media.makeviral.ai/templates/ai-car-jump-trend/original-main-v2.mp4
+- https://media.makeviral.ai/templates/ai-car-jump-trend/original-sheep-v2.mp4
 
 ## Posters
 
-- https://www.makeviral.ai/media/templates/ai-car-jump-trend/example-desert-v1.jpg
-- https://www.makeviral.ai/media/templates/ai-car-jump-trend/original-main-v1.jpg
-- https://www.makeviral.ai/media/templates/ai-car-jump-trend/original-sheep-v1.jpg
+- https://media.makeviral.ai/templates/ai-car-jump-trend/example-desert-v1.jpg
+- https://media.makeviral.ai/templates/ai-car-jump-trend/original-main-v1.jpg
+- https://media.makeviral.ai/templates/ai-car-jump-trend/original-sheep-v1.jpg
 
 ## Prompts
 

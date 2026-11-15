@@ -7,12 +7,12 @@ Cutting the branch you're sitting on is the old proverb turned into a viral fail
 
 ## Demo videos (CDN)
 
-- https://www.makeviral.ai/media/templates/cutting-the-branch-ai-trend/example-main-v1.mp4
+- https://media.makeviral.ai/templates/cutting-the-branch-ai-trend/example-main-v1.mp4
 
 ## Posters
 
-- https://www.makeviral.ai/media/templates/cutting-the-branch-ai-trend/example-main-input.jpg
-- https://www.makeviral.ai/media/templates/cutting-the-branch-ai-trend/example-main-poster.jpg
+- https://media.makeviral.ai/templates/cutting-the-branch-ai-trend/example-main-input.jpg
+- https://media.makeviral.ai/templates/cutting-the-branch-ai-trend/example-main-poster.jpg
 
 ## Prompts
 

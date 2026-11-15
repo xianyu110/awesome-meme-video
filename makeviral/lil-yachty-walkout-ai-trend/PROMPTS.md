@@ -7,11 +7,11 @@ The Lil Yachty walkout meme, also called the hardest walk out of all time, is a 
 
 ## Demo videos (CDN)
 
-- https://www.makeviral.ai/media/templates/lil-yachty-walkout-ai-trend/original-tall-main-v2.mp4
+- https://media.makeviral.ai/templates/lil-yachty-walkout-ai-trend/original-tall-main-v2.mp4
 
 ## Posters
 
-- https://www.makeviral.ai/media/templates/lil-yachty-walkout-ai-trend/original-tall-main-v1.jpg
+- https://media.makeviral.ai/templates/lil-yachty-walkout-ai-trend/original-tall-main-v1.jpg
 
 ## Prompts
 

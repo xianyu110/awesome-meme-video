@@ -7,25 +7,25 @@ Rumpelstiltskin AI is the viral clip of a strange little man in a shiny velvet t
 
 ## Demo videos (CDN)
 
-- https://www.makeviral.ai/media/templates/ai-rumpelstiltskin-dance/example-wide-s25-body-original.mp4
-- https://www.makeviral.ai/media/templates/ai-rumpelstiltskin-dance/example-wide-s25-original-duo.mp4
-- https://www.makeviral.ai/media/templates/ai-rumpelstiltskin-dance/example-wide-s25-original.mp4
-- https://www.makeviral.ai/media/templates/ai-rumpelstiltskin-dance/example-with-friend.mp4
-- https://www.makeviral.ai/media/templates/ai-rumpelstiltskin-dance/example.mp4
-- https://www.makeviral.ai/media/templates/ai-rumpelstiltskin-dance/original-original-v1.mp4
+- https://media.makeviral.ai/templates/ai-rumpelstiltskin-dance/example-wide-s25-body-original.mp4
+- https://media.makeviral.ai/templates/ai-rumpelstiltskin-dance/example-wide-s25-original-duo.mp4
+- https://media.makeviral.ai/templates/ai-rumpelstiltskin-dance/example-wide-s25-original.mp4
+- https://media.makeviral.ai/templates/ai-rumpelstiltskin-dance/example-with-friend.mp4
+- https://media.makeviral.ai/templates/ai-rumpelstiltskin-dance/example.mp4
+- https://media.makeviral.ai/templates/ai-rumpelstiltskin-dance/original-original-v1.mp4
 
 ## Posters
 
-- https://www.makeviral.ai/media/templates/ai-rumpelstiltskin-dance/example-input.jpg
-- https://www.makeviral.ai/media/templates/ai-rumpelstiltskin-dance/example-poster.jpg
-- https://www.makeviral.ai/media/templates/ai-rumpelstiltskin-dance/example-s25-body-input.jpg
-- https://www.makeviral.ai/media/templates/ai-rumpelstiltskin-dance/example-s25-original-duo-input.jpg
-- https://www.makeviral.ai/media/templates/ai-rumpelstiltskin-dance/example-s25-original-input.jpg
-- https://www.makeviral.ai/media/templates/ai-rumpelstiltskin-dance/example-wide-s25-body-original-poster.jpg
-- https://www.makeviral.ai/media/templates/ai-rumpelstiltskin-dance/example-wide-s25-original-duo-poster.jpg
-- https://www.makeviral.ai/media/templates/ai-rumpelstiltskin-dance/example-wide-s25-original-poster.jpg
-- https://www.makeviral.ai/media/templates/ai-rumpelstiltskin-dance/example-with-friend-input.jpg
-- https://www.makeviral.ai/media/templates/ai-rumpelstiltskin-dance/example-with-friend-poster.jpg
+- https://media.makeviral.ai/templates/ai-rumpelstiltskin-dance/example-input.jpg
+- https://media.makeviral.ai/templates/ai-rumpelstiltskin-dance/example-poster.jpg
+- https://media.makeviral.ai/templates/ai-rumpelstiltskin-dance/example-s25-body-input.jpg
+- https://media.makeviral.ai/templates/ai-rumpelstiltskin-dance/example-s25-original-duo-input.jpg
+- https://media.makeviral.ai/templates/ai-rumpelstiltskin-dance/example-s25-original-input.jpg
+- https://media.makeviral.ai/templates/ai-rumpelstiltskin-dance/example-wide-s25-body-original-poster.jpg
+- https://media.makeviral.ai/templates/ai-rumpelstiltskin-dance/example-wide-s25-original-duo-poster.jpg
+- https://media.makeviral.ai/templates/ai-rumpelstiltskin-dance/example-wide-s25-original-poster.jpg
+- https://media.makeviral.ai/templates/ai-rumpelstiltskin-dance/example-with-friend-input.jpg
+- https://media.makeviral.ai/templates/ai-rumpelstiltskin-dance/example-with-friend-poster.jpg
 
 ## Prompts
 

@@ -7,11 +7,11 @@ The bicep heart trend is a short clip where you smile at the camera, flex one ar
 
 ## Demo videos (CDN)
 
-- https://www.makeviral.ai/media/templates/bicep-heart-ai-trend/original-main-v2.mp4
+- https://media.makeviral.ai/templates/bicep-heart-ai-trend/original-main-v2.mp4
 
 ## Posters
 
-- https://www.makeviral.ai/media/templates/bicep-heart-ai-trend/original-main-v1.jpg
+- https://media.makeviral.ai/templates/bicep-heart-ai-trend/original-main-v1.jpg
 
 ## Prompts
 

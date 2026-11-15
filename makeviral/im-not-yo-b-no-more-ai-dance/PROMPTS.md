@@ -7,11 +7,11 @@ The I'm Not Yo B No More dance is the October 2026 TikTok trend on Lady Binladen
 
 ## Demo videos (CDN)
 
-- https://www.makeviral.ai/media/templates/im-not-yo-b-no-more-ai-dance/original-main-v1.mp4
+- https://media.makeviral.ai/templates/im-not-yo-b-no-more-ai-dance/original-main-v1.mp4
 
 ## Posters
 
-- https://www.makeviral.ai/media/templates/im-not-yo-b-no-more-ai-dance/original-main-v1.jpg
+- https://media.makeviral.ai/templates/im-not-yo-b-no-more-ai-dance/original-main-v1.jpg
 
 ## Prompts
 

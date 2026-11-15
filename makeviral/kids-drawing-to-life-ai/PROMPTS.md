@@ -7,12 +7,12 @@ The kids drawing to life trend turns a child's drawing into a real, living versi
 
 ## Demo videos (CDN)
 
-- https://www.makeviral.ai/media/templates/kids-drawing-to-life-ai/example.mp4
+- https://media.makeviral.ai/templates/kids-drawing-to-life-ai/example.mp4
 
 ## Posters
 
-- https://www.makeviral.ai/media/templates/kids-drawing-to-life-ai/example-input.jpg
-- https://www.makeviral.ai/media/templates/kids-drawing-to-life-ai/example-poster.jpg
+- https://media.makeviral.ai/templates/kids-drawing-to-life-ai/example-input.jpg
+- https://media.makeviral.ai/templates/kids-drawing-to-life-ai/example-poster.jpg
 
 ## Prompts
 

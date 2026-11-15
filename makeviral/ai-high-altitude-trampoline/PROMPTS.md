@@ -7,11 +7,11 @@ The high altitude trampoline trend is an AI video stunt: you jump from a cliff, 
 
 ## Demo videos (CDN)
 
-- https://www.makeviral.ai/media/templates/ai-high-altitude-trampoline/original-main-v2.mp4
+- https://media.makeviral.ai/templates/ai-high-altitude-trampoline/original-main-v2.mp4
 
 ## Posters
 
-- https://www.makeviral.ai/media/templates/ai-high-altitude-trampoline/original-main-v1.jpg
+- https://media.makeviral.ai/templates/ai-high-altitude-trampoline/original-main-v1.jpg
 
 ## Prompts
 

@@ -7,11 +7,11 @@ The On The Radar AI trend puts you in the green-lit radio booth of the On The Ra
 
 ## Demo videos (CDN)
 
-- https://www.makeviral.ai/media/templates/on-the-radar-ai-trend/original-tall-duo-v1.mp4
+- https://media.makeviral.ai/templates/on-the-radar-ai-trend/original-tall-duo-v1.mp4
 
 ## Posters
 
-- https://www.makeviral.ai/media/templates/on-the-radar-ai-trend/original-tall-duo-v1.jpg
+- https://media.makeviral.ai/templates/on-the-radar-ai-trend/original-tall-duo-v1.jpg
 
 ## Prompts
 

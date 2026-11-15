@@ -10,13 +10,13 @@
   "published": "2026-11-06",
   "credits": 228,
   "demo_videos": [
-    "https://www.makeviral.ai/media/templates/beni-hatirlayiniz-ai-trend/example-main-916-v2.mp4",
-    "https://www.makeviral.ai/media/templates/beni-hatirlayiniz-ai-trend/example-main-v2.mp4"
+    "https://media.makeviral.ai/templates/beni-hatirlayiniz-ai-trend/example-main-916-v2.mp4",
+    "https://media.makeviral.ai/templates/beni-hatirlayiniz-ai-trend/example-main-v2.mp4"
   ],
   "posters": [
-    "https://www.makeviral.ai/media/templates/beni-hatirlayiniz-ai-trend/example-main-916-v2.jpg",
-    "https://www.makeviral.ai/media/templates/beni-hatirlayiniz-ai-trend/example-main-v2.jpg",
-    "https://www.makeviral.ai/media/templates/storm-ai-trend/example-input.jpg"
+    "https://media.makeviral.ai/templates/beni-hatirlayiniz-ai-trend/example-main-916-v2.jpg",
+    "https://media.makeviral.ai/templates/beni-hatirlayiniz-ai-trend/example-main-v2.jpg",
+    "https://media.makeviral.ai/templates/storm-ai-trend/example-input.jpg"
   ],
   "prompts": [
     {
@@ -42,5 +42,5 @@
     "Make your own Beni Hatırlayınız video"
   ],
   "prompt_count": 1,
-  "scraped_at": "2026-11-14"
+  "scraped_at": "2026-11-15"
 }

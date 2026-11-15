@@ -7,11 +7,11 @@ You look lonely, I can fix that is the line of a giant hologram that leans down 
 
 ## Demo videos (CDN)
 
-- https://www.makeviral.ai/media/templates/you-look-lonely-ai-trend/original-wallpaper-v2.mp4
+- https://media.makeviral.ai/templates/you-look-lonely-ai-trend/original-wallpaper-v2.mp4
 
 ## Posters
 
-- https://www.makeviral.ai/media/templates/you-look-lonely-ai-trend/original-wallpaper-v1.jpg
+- https://media.makeviral.ai/templates/you-look-lonely-ai-trend/original-wallpaper-v1.jpg
 
 ## Prompts
 

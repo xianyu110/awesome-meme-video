@@ -7,11 +7,11 @@ The AI pregnancy announcement trend turns one couple photo into a short, emotion
 
 ## Demo videos (CDN)
 
-- https://www.makeviral.ai/media/templates/ai-pregnancy-reveal-trend/original-main-v2.mp4
+- https://media.makeviral.ai/templates/ai-pregnancy-reveal-trend/original-main-v2.mp4
 
 ## Posters
 
-- https://www.makeviral.ai/media/templates/ai-pregnancy-reveal-trend/original-main-v1.jpg
+- https://media.makeviral.ai/templates/ai-pregnancy-reveal-trend/original-main-v1.jpg
 
 ## Prompts
 

@@ -7,11 +7,11 @@ The wizard cat meme, also called Me at work keyboard smash, is a 7-second AI ree
 
 ## Demo videos (CDN)
 
-- https://www.makeviral.ai/media/templates/wizard-cat-keyboard-smash-ai-trend/original-pet-v2.mp4
+- https://media.makeviral.ai/templates/wizard-cat-keyboard-smash-ai-trend/original-pet-v2.mp4
 
 ## Posters
 
-- https://www.makeviral.ai/media/templates/wizard-cat-keyboard-smash-ai-trend/original-pet-v1.jpg
+- https://media.makeviral.ai/templates/wizard-cat-keyboard-smash-ai-trend/original-pet-v1.jpg
 
 ## Prompts
 

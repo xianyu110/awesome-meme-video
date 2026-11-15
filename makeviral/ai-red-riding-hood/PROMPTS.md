@@ -7,13 +7,13 @@ AI Red Riding Hood is a cinematic AI reel: a figure in a deep-red velvet cloak w
 
 ## Demo videos (CDN)
 
-- https://www.makeviral.ai/media/templates/ai-red-riding-hood/original-main-v2.mp4
-- https://www.makeviral.ai/media/templates/ai-red-riding-hood/original-tall-main-v2.mp4
+- https://media.makeviral.ai/templates/ai-red-riding-hood/original-main-v2.mp4
+- https://media.makeviral.ai/templates/ai-red-riding-hood/original-tall-main-v2.mp4
 
 ## Posters
 
-- https://www.makeviral.ai/media/templates/ai-red-riding-hood/original-main-v1.jpg
-- https://www.makeviral.ai/media/templates/ai-red-riding-hood/original-tall-main-v1.jpg
+- https://media.makeviral.ai/templates/ai-red-riding-hood/original-main-v1.jpg
+- https://media.makeviral.ai/templates/ai-red-riding-hood/original-tall-main-v1.jpg
 
 ## Prompts
 

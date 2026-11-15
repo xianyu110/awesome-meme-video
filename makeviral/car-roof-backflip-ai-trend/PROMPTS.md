@@ -7,11 +7,11 @@ The car roof backflip AI video puts you into the trend's highway clip: you climb
 
 ## Demo videos (CDN)
 
-- https://www.makeviral.ai/media/templates/car-roof-backflip-ai-trend/original-tall-main-v2.mp4
+- https://media.makeviral.ai/templates/car-roof-backflip-ai-trend/original-tall-main-v2.mp4
 
 ## Posters
 
-- https://www.makeviral.ai/media/templates/car-roof-backflip-ai-trend/original-tall-main-v1.jpg
+- https://media.makeviral.ai/templates/car-roof-backflip-ai-trend/original-tall-main-v1.jpg
 
 ## Prompts
 

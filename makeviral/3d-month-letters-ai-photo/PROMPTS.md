@@ -7,14 +7,14 @@ The 3D letters AI photo is a monthly photo trend: you lean on a tall column of g
 
 ## Demo videos (CDN)
 
-- https://www.makeviral.ai/media/templates/3d-month-letters-ai-photo/example-v1.mp4
-- https://www.makeviral.ai/media/templates/3d-month-letters-ai-photo/original-main-v2.mp4
+- https://media.makeviral.ai/templates/3d-month-letters-ai-photo/example-v1.mp4
+- https://media.makeviral.ai/templates/3d-month-letters-ai-photo/original-main-v2.mp4
 
 ## Posters
 
-- https://www.makeviral.ai/media/templates/3d-month-letters-ai-photo/example-v1-input.jpg
-- https://www.makeviral.ai/media/templates/3d-month-letters-ai-photo/example-v1-poster.jpg
-- https://www.makeviral.ai/media/templates/3d-month-letters-ai-photo/original-main-v1.jpg
+- https://media.makeviral.ai/templates/3d-month-letters-ai-photo/example-v1-input.jpg
+- https://media.makeviral.ai/templates/3d-month-letters-ai-photo/example-v1-poster.jpg
+- https://media.makeviral.ai/templates/3d-month-letters-ai-photo/original-main-v1.jpg
 
 ## Prompts
 

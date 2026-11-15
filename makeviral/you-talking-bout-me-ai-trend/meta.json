@@ -10,11 +10,11 @@
   "published": "2026-10-19",
   "credits": 189,
   "demo_videos": [
-    "https://www.makeviral.ai/media/templates/you-talking-bout-me-ai-trend/example-v1.mp4"
+    "https://media.makeviral.ai/templates/you-talking-bout-me-ai-trend/example-v1.mp4"
   ],
   "posters": [
-    "https://www.makeviral.ai/media/templates/you-talking-bout-me-ai-trend/example-v1-input.jpg",
-    "https://www.makeviral.ai/media/templates/you-talking-bout-me-ai-trend/example-v1-poster.jpg"
+    "https://media.makeviral.ai/templates/you-talking-bout-me-ai-trend/example-v1-input.jpg",
+    "https://media.makeviral.ai/templates/you-talking-bout-me-ai-trend/example-v1-poster.jpg"
   ],
   "prompts": [
     {
@@ -53,5 +53,5 @@
     "Make your own You Talking Bout Me video"
   ],
   "prompt_count": 3,
-  "scraped_at": "2026-11-14"
+  "scraped_at": "2026-11-15"
 }

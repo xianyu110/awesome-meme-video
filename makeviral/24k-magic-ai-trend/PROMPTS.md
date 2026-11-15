@@ -7,11 +7,11 @@ The 24K Magic AI trend turns the Dracula deck dance from Hotel Transylvania 3 in
 
 ## Demo videos (CDN)
 
-- https://www.makeviral.ai/media/templates/24k-magic-ai-trend/original-tall-v2.mp4
+- https://media.makeviral.ai/templates/24k-magic-ai-trend/original-tall-v2.mp4
 
 ## Posters
 
-- https://www.makeviral.ai/media/templates/24k-magic-ai-trend/original-tall-v1.jpg
+- https://media.makeviral.ai/templates/24k-magic-ai-trend/original-tall-v1.jpg
 
 ## Prompts
 

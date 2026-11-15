@@ -10,11 +10,11 @@
   "published": "2026-10-29",
   "credits": 3,
   "demo_videos": [
-    "https://www.makeviral.ai/media/templates/ataturk-ile-fotograf-ai-trend/example-v1.mp4"
+    "https://media.makeviral.ai/templates/ataturk-ile-fotograf-ai-trend/example-v1.mp4"
   ],
   "posters": [
-    "https://www.makeviral.ai/media/templates/ataturk-ile-fotograf-ai-trend/example-v1-input.jpg",
-    "https://www.makeviral.ai/media/templates/ataturk-ile-fotograf-ai-trend/example-v1-poster.jpg"
+    "https://media.makeviral.ai/templates/ataturk-ile-fotograf-ai-trend/example-v1-input.jpg",
+    "https://media.makeviral.ai/templates/ataturk-ile-fotograf-ai-trend/example-v1-poster.jpg"
   ],
   "prompts": [
     {
@@ -63,5 +63,5 @@
     "Make your own Atatürk ile Fotoğraf photo"
   ],
   "prompt_count": 5,
-  "scraped_at": "2026-11-14"
+  "scraped_at": "2026-11-15"
 }

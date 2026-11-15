@@ -7,11 +7,11 @@ AI grandma stunt videos show an older person moving like a pro.
 
 ## Demo videos (CDN)
 
-- https://www.makeviral.ai/media/templates/grandma-parkour-ai-trend/original-main-v2.mp4
+- https://media.makeviral.ai/templates/grandma-parkour-ai-trend/original-main-v2.mp4
 
 ## Posters
 
-- https://www.makeviral.ai/media/templates/grandma-parkour-ai-trend/original-main-v1.jpg
+- https://media.makeviral.ai/templates/grandma-parkour-ai-trend/original-main-v1.jpg
 
 ## Prompts
 

@@ -7,11 +7,11 @@ The DJ cat trend, also called cat DJ or DJ dog, is a wave of AI videos where a p
 
 ## Demo videos (CDN)
 
-- https://www.makeviral.ai/media/templates/dj-cat-ai/original-pet-v2.mp4
+- https://media.makeviral.ai/templates/dj-cat-ai/original-pet-v2.mp4
 
 ## Posters
 
-- https://www.makeviral.ai/media/templates/dj-cat-ai/original-pet-v1.jpg
+- https://media.makeviral.ai/templates/dj-cat-ai/original-pet-v1.jpg
 
 ## Prompts
 

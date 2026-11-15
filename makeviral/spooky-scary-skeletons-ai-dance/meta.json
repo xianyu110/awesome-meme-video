@@ -10,11 +10,11 @@
   "published": "2026-10-14",
   "credits": 152,
   "demo_videos": [
-    "https://www.makeviral.ai/media/templates/spooky-scary-skeletons-ai-dance/example-v1.mp4"
+    "https://media.makeviral.ai/templates/spooky-scary-skeletons-ai-dance/example-v1.mp4"
   ],
   "posters": [
-    "https://www.makeviral.ai/media/templates/spooky-scary-skeletons-ai-dance/example-input-v1.jpg",
-    "https://www.makeviral.ai/media/templates/spooky-scary-skeletons-ai-dance/example-v1.jpg"
+    "https://media.makeviral.ai/templates/spooky-scary-skeletons-ai-dance/example-input-v1.jpg",
+    "https://media.makeviral.ai/templates/spooky-scary-skeletons-ai-dance/example-v1.jpg"
   ],
   "prompts": [
     {
@@ -42,5 +42,5 @@
     "Make your own Spooky Scary Skeletons video"
   ],
   "prompt_count": 2,
-  "scraped_at": "2026-11-14"
+  "scraped_at": "2026-11-15"
 }

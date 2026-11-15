@@ -10,11 +10,11 @@
   "published": "2026-10-15",
   "credits": 126,
   "demo_videos": [
-    "https://www.makeviral.ai/media/templates/ai-dunk-trend/example-v1.mp4"
+    "https://media.makeviral.ai/templates/ai-dunk-trend/example-v1.mp4"
   ],
   "posters": [
-    "https://www.makeviral.ai/media/templates/ai-dunk-trend/example-v1-input.jpg",
-    "https://www.makeviral.ai/media/templates/ai-dunk-trend/example-v1-poster.jpg"
+    "https://media.makeviral.ai/templates/ai-dunk-trend/example-v1-input.jpg",
+    "https://media.makeviral.ai/templates/ai-dunk-trend/example-v1-poster.jpg"
   ],
   "prompts": [
     {
@@ -75,5 +75,5 @@
     "Make your own AI Dunk video"
   ],
   "prompt_count": 7,
-  "scraped_at": "2026-11-14"
+  "scraped_at": "2026-11-15"
 }

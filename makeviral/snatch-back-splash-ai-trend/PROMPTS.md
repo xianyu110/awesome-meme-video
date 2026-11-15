@@ -7,11 +7,11 @@ Snatch Back Splash is the AI version of a viral snatch back basketball clip from
 
 ## Demo videos (CDN)
 
-- https://www.makeviral.ai/media/templates/snatch-back-splash-ai-trend/original-main-v3.mp4
+- https://media.makeviral.ai/templates/snatch-back-splash-ai-trend/original-main-v3.mp4
 
 ## Posters
 
-- https://www.makeviral.ai/media/templates/snatch-back-splash-ai-trend/original-main-v3.jpg
+- https://media.makeviral.ai/templates/snatch-back-splash-ai-trend/original-main-v3.jpg
 
 ## Prompts
 

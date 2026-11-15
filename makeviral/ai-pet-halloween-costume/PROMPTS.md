@@ -7,15 +7,15 @@ An AI dog costume puts your dog or cat in a Halloween costume with no shopping a
 
 ## Demo videos (CDN)
 
-- https://www.makeviral.ai/media/templates/ai-pet-halloween-costume/example-v2.mp4
-- https://www.makeviral.ai/media/templates/ai-pet-halloween-costume/example-video.mp4
+- https://media.makeviral.ai/templates/ai-pet-halloween-costume/example-v2.mp4
+- https://media.makeviral.ai/templates/ai-pet-halloween-costume/example-video.mp4
 
 ## Posters
 
-- https://www.makeviral.ai/media/templates/ai-pet-halloween-costume/example-v2-input.jpg
-- https://www.makeviral.ai/media/templates/ai-pet-halloween-costume/example-v2-poster.jpg
-- https://www.makeviral.ai/media/templates/ai-pet-halloween-costume/example-video-input.jpg
-- https://www.makeviral.ai/media/templates/ai-pet-halloween-costume/example-video-poster.jpg
+- https://media.makeviral.ai/templates/ai-pet-halloween-costume/example-v2-input.jpg
+- https://media.makeviral.ai/templates/ai-pet-halloween-costume/example-v2-poster.jpg
+- https://media.makeviral.ai/templates/ai-pet-halloween-costume/example-video-input.jpg
+- https://media.makeviral.ai/templates/ai-pet-halloween-costume/example-video-poster.jpg
 
 ## Prompts
 

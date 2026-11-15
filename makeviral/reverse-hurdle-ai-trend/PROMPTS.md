@@ -7,11 +7,11 @@ The reverse hurdle AI trend puts you into football's most famous backwards hurdl
 
 ## Demo videos (CDN)
 
-- https://www.makeviral.ai/media/templates/reverse-hurdle-ai-trend/original-play-v2.mp4
+- https://media.makeviral.ai/templates/reverse-hurdle-ai-trend/original-play-v2.mp4
 
 ## Posters
 
-- https://www.makeviral.ai/media/templates/reverse-hurdle-ai-trend/original-play-v1.jpg
+- https://media.makeviral.ai/templates/reverse-hurdle-ai-trend/original-play-v1.jpg
 
 ## Prompts
 

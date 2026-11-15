@@ -7,11 +7,11 @@ Atam İzindeyiz ("My Ata, we follow your path") is a Turkish AI photo trend of O
 
 ## Demo videos (CDN)
 
-- https://www.makeviral.ai/media/templates/atam-izindeyiz-ai-trend/original-trend-v2.mp4
+- https://media.makeviral.ai/templates/atam-izindeyiz-ai-trend/original-trend-v2.mp4
 
 ## Posters
 
-- https://www.makeviral.ai/media/templates/atam-izindeyiz-ai-trend/original-trend-v1.jpg
+- https://media.makeviral.ai/templates/atam-izindeyiz-ai-trend/original-trend-v1.jpg
 
 ## Prompts
 

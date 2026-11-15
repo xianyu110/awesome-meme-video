@@ -7,11 +7,11 @@ The Thanksgiving bend is the 2026 TikTok dance to a new remix of the old beans g
 
 ## Demo videos (CDN)
 
-- https://www.makeviral.ai/media/templates/thanksgiving-dance-ai-trend/original-full-v2.mp4
+- https://media.makeviral.ai/templates/thanksgiving-dance-ai-trend/original-full-v2.mp4
 
 ## Posters
 
-- https://www.makeviral.ai/media/templates/thanksgiving-dance-ai-trend/original-full-v1.jpg
+- https://media.makeviral.ai/templates/thanksgiving-dance-ai-trend/original-full-v1.jpg
 
 ## Prompts
 

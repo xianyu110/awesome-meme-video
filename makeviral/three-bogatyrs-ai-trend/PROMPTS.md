@@ -7,11 +7,11 @@ The Three Bogatyrs trend is a back to back lip sync with folk-epic heroes: two c
 
 ## Demo videos (CDN)
 
-- https://www.makeviral.ai/media/templates/three-bogatyrs-ai-trend/original-main-v2.mp4
+- https://media.makeviral.ai/templates/three-bogatyrs-ai-trend/original-main-v2.mp4
 
 ## Posters
 
-- https://www.makeviral.ai/media/templates/three-bogatyrs-ai-trend/original-main-v1.jpg
+- https://media.makeviral.ai/templates/three-bogatyrs-ai-trend/original-main-v1.jpg
 
 ## Prompts
 

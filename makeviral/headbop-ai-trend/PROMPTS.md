@@ -7,14 +7,14 @@ The headbop trend is a TikTok edit where a row of cut-out heads on a black backg
 
 ## Demo videos (CDN)
 
-- https://www.makeviral.ai/media/templates/headbop-ai-trend/example-v1.mp4
-- https://www.makeviral.ai/media/templates/headbop-ai-trend/original-main-v2.mp4
+- https://media.makeviral.ai/templates/headbop-ai-trend/example-v1.mp4
+- https://media.makeviral.ai/templates/headbop-ai-trend/original-main-v2.mp4
 
 ## Posters
 
-- https://www.makeviral.ai/media/templates/headbop-ai-trend/example-input-v1.jpg
-- https://www.makeviral.ai/media/templates/headbop-ai-trend/example-v1.jpg
-- https://www.makeviral.ai/media/templates/headbop-ai-trend/original-main-v1.jpg
+- https://media.makeviral.ai/templates/headbop-ai-trend/example-input-v1.jpg
+- https://media.makeviral.ai/templates/headbop-ai-trend/example-v1.jpg
+- https://media.makeviral.ai/templates/headbop-ai-trend/original-main-v1.jpg
 
 ## Prompts
 

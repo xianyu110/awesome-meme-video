@@ -7,12 +7,12 @@ The giant bed AI trend is a calm, funny clip of someone climbing onto an enormou
 
 ## Demo videos (CDN)
 
-- https://www.makeviral.ai/media/templates/giant-bed-ai-trend/example.mp4
+- https://media.makeviral.ai/templates/giant-bed-ai-trend/example.mp4
 
 ## Posters
 
-- https://www.makeviral.ai/media/templates/giant-bed-ai-trend/example-input.jpg
-- https://www.makeviral.ai/media/templates/giant-bed-ai-trend/example-poster.jpg
+- https://media.makeviral.ai/templates/giant-bed-ai-trend/example-input.jpg
+- https://media.makeviral.ai/templates/giant-bed-ai-trend/example-poster.jpg
 
 ## Prompts
 

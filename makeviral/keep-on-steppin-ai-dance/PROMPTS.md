@@ -7,12 +7,12 @@ The Cale Brown dance is the routine from Cale Brown's viral "Keep On Steppin" vi
 
 ## Demo videos (CDN)
 
-- https://www.makeviral.ai/media/templates/keep-on-steppin-ai-dance/example-v1.mp4
+- https://media.makeviral.ai/templates/keep-on-steppin-ai-dance/example-v1.mp4
 
 ## Posters
 
-- https://www.makeviral.ai/media/templates/keep-on-steppin-ai-dance/example-input-v1.jpg
-- https://www.makeviral.ai/media/templates/keep-on-steppin-ai-dance/example-v1.jpg
+- https://media.makeviral.ai/templates/keep-on-steppin-ai-dance/example-input-v1.jpg
+- https://media.makeviral.ai/templates/keep-on-steppin-ai-dance/example-v1.jpg
 
 ## Prompts
 

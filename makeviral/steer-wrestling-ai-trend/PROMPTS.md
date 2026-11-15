@@ -7,11 +7,11 @@ The steer wrestling trend puts you into the slow-motion rodeo reel that went vir
 
 ## Demo videos (CDN)
 
-- https://www.makeviral.ai/media/templates/steer-wrestling-ai-trend/original-source-v2.mp4
+- https://media.makeviral.ai/templates/steer-wrestling-ai-trend/original-source-v2.mp4
 
 ## Posters
 
-- https://www.makeviral.ai/media/templates/steer-wrestling-ai-trend/original-source-v1.jpg
+- https://media.makeviral.ai/templates/steer-wrestling-ai-trend/original-source-v1.jpg
 
 ## Prompts
 

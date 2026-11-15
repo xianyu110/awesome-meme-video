@@ -7,12 +7,12 @@ The window peeper filter is the window peeper trend of October 2026: a night sho
 
 ## Demo videos (CDN)
 
-- https://www.makeviral.ai/media/templates/window-peeper-ai-filter/example-v1.mp4
+- https://media.makeviral.ai/templates/window-peeper-ai-filter/example-v1.mp4
 
 ## Posters
 
-- https://www.makeviral.ai/media/templates/window-peeper-ai-filter/example-v1-input.jpg
-- https://www.makeviral.ai/media/templates/window-peeper-ai-filter/example-v1-poster.jpg
+- https://media.makeviral.ai/templates/window-peeper-ai-filter/example-v1-input.jpg
+- https://media.makeviral.ai/templates/window-peeper-ai-filter/example-v1-poster.jpg
 
 ## Prompts
 

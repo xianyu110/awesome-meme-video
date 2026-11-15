@@ -7,11 +7,11 @@ Santa caught on camera is the Christmas video trend where Santa shows up on your
 
 ## Demo videos (CDN)
 
-- https://www.makeviral.ai/media/templates/ai-santa-caught-on-camera/original-porch-v2.mp4
+- https://media.makeviral.ai/templates/ai-santa-caught-on-camera/original-porch-v2.mp4
 
 ## Posters
 
-- https://www.makeviral.ai/media/templates/ai-santa-caught-on-camera/original-porch-v1.jpg
+- https://media.makeviral.ai/templates/ai-santa-caught-on-camera/original-porch-v1.jpg
 
 ## Prompts
 

@@ -7,11 +7,11 @@ Gangsta's Paradise AI is a parody music video trend from November 2026: two peop
 
 ## Demo videos (CDN)
 
-- https://www.makeviral.ai/media/templates/gangstas-paradise-ai-trend/original-main-v2.mp4
+- https://media.makeviral.ai/templates/gangstas-paradise-ai-trend/original-main-v2.mp4
 
 ## Posters
 
-- https://www.makeviral.ai/media/templates/gangstas-paradise-ai-trend/original-main-v1.jpg
+- https://media.makeviral.ai/templates/gangstas-paradise-ai-trend/original-main-v1.jpg
 
 ## Prompts
 

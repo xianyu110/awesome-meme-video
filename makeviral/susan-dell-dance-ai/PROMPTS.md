@@ -7,13 +7,13 @@ The Susan Dell dance is the new TikTok name for the Lord Farquaad dance: a deadp
 
 ## Demo videos (CDN)
 
-- https://www.makeviral.ai/media/templates/susan-dell-dance-ai/original-first-v2.mp4
-- https://www.makeviral.ai/media/templates/susan-dell-dance-ai/original-main-v2.mp4
+- https://media.makeviral.ai/templates/susan-dell-dance-ai/original-first-v2.mp4
+- https://media.makeviral.ai/templates/susan-dell-dance-ai/original-main-v2.mp4
 
 ## Posters
 
-- https://www.makeviral.ai/media/templates/susan-dell-dance-ai/original-first-v1.jpg
-- https://www.makeviral.ai/media/templates/susan-dell-dance-ai/original-main-v1.jpg
+- https://media.makeviral.ai/templates/susan-dell-dance-ai/original-first-v1.jpg
+- https://media.makeviral.ai/templates/susan-dell-dance-ai/original-main-v1.jpg
 
 ## Prompts
 

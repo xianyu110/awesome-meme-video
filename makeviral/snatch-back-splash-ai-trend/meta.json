@@ -10,10 +10,10 @@
   "published": "2026-11-06",
   "credits": 189,
   "demo_videos": [
-    "https://www.makeviral.ai/media/templates/snatch-back-splash-ai-trend/original-main-v3.mp4"
+    "https://media.makeviral.ai/templates/snatch-back-splash-ai-trend/original-main-v3.mp4"
   ],
   "posters": [
-    "https://www.makeviral.ai/media/templates/snatch-back-splash-ai-trend/original-main-v3.jpg"
+    "https://media.makeviral.ai/templates/snatch-back-splash-ai-trend/original-main-v3.jpg"
   ],
   "prompts": [
     {
@@ -50,5 +50,5 @@
     "Make your own Snatch Back Splash video"
   ],
   "prompt_count": 3,
-  "scraped_at": "2026-11-14"
+  "scraped_at": "2026-11-15"
 }

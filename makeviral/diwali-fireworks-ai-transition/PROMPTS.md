@@ -7,11 +7,11 @@ The Diwali transition is the viral Diwali 2026 reel where a woman swirls a sheer
 
 ## Demo videos (CDN)
 
-- https://www.makeviral.ai/media/templates/diwali-fireworks-ai-transition/original-result-v3.mp4
+- https://media.makeviral.ai/templates/diwali-fireworks-ai-transition/original-result-v3.mp4
 
 ## Posters
 
-- https://www.makeviral.ai/media/templates/diwali-fireworks-ai-transition/original-result-v1.jpg
+- https://media.makeviral.ai/templates/diwali-fireworks-ai-transition/original-result-v1.jpg
 
 ## Prompts
 

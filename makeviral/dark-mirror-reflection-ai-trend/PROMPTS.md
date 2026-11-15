@@ -7,13 +7,13 @@ Si tú eres la que resuelve is a viral AI mirror photo: you stand in a gold-lit 
 
 ## Demo videos (CDN)
 
-- https://www.makeviral.ai/media/templates/dark-mirror-reflection-ai-trend/original-catrina-v2.mp4
-- https://www.makeviral.ai/media/templates/dark-mirror-reflection-ai-trend/original-main-v2.mp4
+- https://media.makeviral.ai/templates/dark-mirror-reflection-ai-trend/original-catrina-v2.mp4
+- https://media.makeviral.ai/templates/dark-mirror-reflection-ai-trend/original-main-v2.mp4
 
 ## Posters
 
-- https://www.makeviral.ai/media/templates/dark-mirror-reflection-ai-trend/original-catrina-v1.jpg
-- https://www.makeviral.ai/media/templates/dark-mirror-reflection-ai-trend/original-main-v1.jpg
+- https://media.makeviral.ai/templates/dark-mirror-reflection-ai-trend/original-catrina-v1.jpg
+- https://media.makeviral.ai/templates/dark-mirror-reflection-ai-trend/original-main-v1.jpg
 
 ## Prompts
 

@@ -7,17 +7,17 @@ The My Ride Is Here broom trend is a Halloween 2026 video joke: filmed from a ca
 
 ## Demo videos (CDN)
 
-- https://www.makeviral.ai/media/templates/my-ride-is-here-broom-trend/original-city-v2.mp4
-- https://www.makeviral.ai/media/templates/my-ride-is-here-broom-trend/original-crash-v2.mp4
-- https://www.makeviral.ai/media/templates/my-ride-is-here-broom-trend/original-forest-v2.mp4
-- https://www.makeviral.ai/media/templates/my-ride-is-here-broom-trend/original-pet-v2.mp4
+- https://media.makeviral.ai/templates/my-ride-is-here-broom-trend/original-city-v2.mp4
+- https://media.makeviral.ai/templates/my-ride-is-here-broom-trend/original-crash-v2.mp4
+- https://media.makeviral.ai/templates/my-ride-is-here-broom-trend/original-forest-v2.mp4
+- https://media.makeviral.ai/templates/my-ride-is-here-broom-trend/original-pet-v2.mp4
 
 ## Posters
 
-- https://www.makeviral.ai/media/templates/my-ride-is-here-broom-trend/original-city-v1.jpg
-- https://www.makeviral.ai/media/templates/my-ride-is-here-broom-trend/original-crash-v1.jpg
-- https://www.makeviral.ai/media/templates/my-ride-is-here-broom-trend/original-forest-v1.jpg
-- https://www.makeviral.ai/media/templates/my-ride-is-here-broom-trend/original-pet-v1.jpg
+- https://media.makeviral.ai/templates/my-ride-is-here-broom-trend/original-city-v1.jpg
+- https://media.makeviral.ai/templates/my-ride-is-here-broom-trend/original-crash-v1.jpg
+- https://media.makeviral.ai/templates/my-ride-is-here-broom-trend/original-forest-v1.jpg
+- https://media.makeviral.ai/templates/my-ride-is-here-broom-trend/original-pet-v1.jpg
 
 ## Prompts
 

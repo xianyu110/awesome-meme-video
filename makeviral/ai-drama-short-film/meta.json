@@ -10,10 +10,10 @@
   "published": "2026-10-26",
   "credits": 103,
   "demo_videos": [
-    "https://www.makeviral.ai/media/templates/ai-drama-short-film/original-main-v2.mp4"
+    "https://media.makeviral.ai/templates/ai-drama-short-film/original-main-v2.mp4"
   ],
   "posters": [
-    "https://www.makeviral.ai/media/templates/ai-drama-short-film/original-main-v1.jpg"
+    "https://media.makeviral.ai/templates/ai-drama-short-film/original-main-v1.jpg"
   ],
   "prompts": [
     {
@@ -34,5 +34,5 @@
     "Make your own AI Drama Short Film video"
   ],
   "prompt_count": 1,
-  "scraped_at": "2026-11-14"
+  "scraped_at": "2026-11-15"
 }

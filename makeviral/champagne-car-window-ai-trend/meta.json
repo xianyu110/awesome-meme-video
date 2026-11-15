@@ -10,12 +10,12 @@
   "published": "2026-10-20",
   "credits": 107,
   "demo_videos": [
-    "https://www.makeviral.ai/media/templates/champagne-car-window-ai-trend/original-ai-v2.mp4",
-    "https://www.makeviral.ai/media/templates/champagne-car-window-ai-trend/original-main-v2.mp4"
+    "https://media.makeviral.ai/templates/champagne-car-window-ai-trend/original-ai-v2.mp4",
+    "https://media.makeviral.ai/templates/champagne-car-window-ai-trend/original-main-v2.mp4"
   ],
   "posters": [
-    "https://www.makeviral.ai/media/templates/champagne-car-window-ai-trend/original-ai-v1.jpg",
-    "https://www.makeviral.ai/media/templates/champagne-car-window-ai-trend/original-main-v1.jpg"
+    "https://media.makeviral.ai/templates/champagne-car-window-ai-trend/original-ai-v1.jpg",
+    "https://media.makeviral.ai/templates/champagne-car-window-ai-trend/original-main-v1.jpg"
   ],
   "prompts": [
     {
@@ -46,5 +46,5 @@
     "Make your own Champagne Car Window video"
   ],
   "prompt_count": 2,
-  "scraped_at": "2026-11-14"
+  "scraped_at": "2026-11-15"
 }

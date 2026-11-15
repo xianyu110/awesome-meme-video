@@ -10,11 +10,11 @@
   "published": "2026-10-28",
   "credits": 152,
   "demo_videos": [
-    "https://www.makeviral.ai/media/templates/ai-cat-story/example-main.mp4"
+    "https://media.makeviral.ai/templates/ai-cat-story/example-main.mp4"
   ],
   "posters": [
-    "https://www.makeviral.ai/media/templates/ai-cat-story/example-main-input.jpg",
-    "https://www.makeviral.ai/media/templates/ai-cat-story/example-main-poster.jpg"
+    "https://media.makeviral.ai/templates/ai-cat-story/example-main-input.jpg",
+    "https://media.makeviral.ai/templates/ai-cat-story/example-main-poster.jpg"
   ],
   "prompts": [
     {
@@ -47,5 +47,5 @@
     "Make your own AI Cat Story video"
   ],
   "prompt_count": 3,
-  "scraped_at": "2026-11-14"
+  "scraped_at": "2026-11-15"
 }

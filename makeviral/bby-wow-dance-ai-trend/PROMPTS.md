@@ -7,11 +7,11 @@ The BbY WOW dance is the TikTok trend to "BbY WOW" by KAROL G, Judeline and ruso
 
 ## Demo videos (CDN)
 
-- https://www.makeviral.ai/media/templates/bby-wow-dance-ai-trend/original-pet-v2.mp4
+- https://media.makeviral.ai/templates/bby-wow-dance-ai-trend/original-pet-v2.mp4
 
 ## Posters
 
-- https://www.makeviral.ai/media/templates/bby-wow-dance-ai-trend/original-pet-v1.jpg
+- https://media.makeviral.ai/templates/bby-wow-dance-ai-trend/original-pet-v1.jpg
 
 ## Prompts
 

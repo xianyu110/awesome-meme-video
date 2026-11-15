@@ -7,13 +7,13 @@ The cat middle finger trend is a wave of AI pet clips from October 2026: a cat l
 
 ## Demo videos (CDN)
 
-- https://www.makeviral.ai/media/templates/cat-middle-finger-ai-trend/original-friendly-v2.mp4
-- https://www.makeviral.ai/media/templates/cat-middle-finger-ai-trend/original-pet-v2.mp4
+- https://media.makeviral.ai/templates/cat-middle-finger-ai-trend/original-friendly-v2.mp4
+- https://media.makeviral.ai/templates/cat-middle-finger-ai-trend/original-pet-v2.mp4
 
 ## Posters
 
-- https://www.makeviral.ai/media/templates/cat-middle-finger-ai-trend/original-friendly-v1.jpg
-- https://www.makeviral.ai/media/templates/cat-middle-finger-ai-trend/original-pet-v1.jpg
+- https://media.makeviral.ai/templates/cat-middle-finger-ai-trend/original-friendly-v1.jpg
+- https://media.makeviral.ai/templates/cat-middle-finger-ai-trend/original-pet-v1.jpg
 
 ## Prompts
 

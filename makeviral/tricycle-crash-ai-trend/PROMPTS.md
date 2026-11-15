@@ -7,11 +7,11 @@ The tricycle crash AI trend is a viral AI clip from November 2026: a grown-up on
 
 ## Demo videos (CDN)
 
-- https://www.makeviral.ai/media/templates/tricycle-crash-ai-trend/original-full-v2.mp4
+- https://media.makeviral.ai/templates/tricycle-crash-ai-trend/original-full-v2.mp4
 
 ## Posters
 
-- https://www.makeviral.ai/media/templates/tricycle-crash-ai-trend/original-full-v1.jpg
+- https://media.makeviral.ai/templates/tricycle-crash-ai-trend/original-full-v1.jpg
 
 ## Prompts
 

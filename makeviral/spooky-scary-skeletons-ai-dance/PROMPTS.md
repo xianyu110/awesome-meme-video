@@ -7,12 +7,12 @@ The Spooky Scary Skeletons AI dance is the October 2026 TikTok edit where a char
 
 ## Demo videos (CDN)
 
-- https://www.makeviral.ai/media/templates/spooky-scary-skeletons-ai-dance/example-v1.mp4
+- https://media.makeviral.ai/templates/spooky-scary-skeletons-ai-dance/example-v1.mp4
 
 ## Posters
 
-- https://www.makeviral.ai/media/templates/spooky-scary-skeletons-ai-dance/example-input-v1.jpg
-- https://www.makeviral.ai/media/templates/spooky-scary-skeletons-ai-dance/example-v1.jpg
+- https://media.makeviral.ai/templates/spooky-scary-skeletons-ai-dance/example-input-v1.jpg
+- https://media.makeviral.ai/templates/spooky-scary-skeletons-ai-dance/example-v1.jpg
 
 ## Prompts
 

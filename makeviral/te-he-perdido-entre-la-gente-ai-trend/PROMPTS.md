@@ -7,15 +7,15 @@ The La Tormenta de Arena trend, also called te he perdido entre la gente, is an 
 
 ## Demo videos (CDN)
 
-- https://www.makeviral.ai/media/templates/te-he-perdido-entre-la-gente-ai-trend/original-kriz-v2.mp4
-- https://www.makeviral.ai/media/templates/te-he-perdido-entre-la-gente-ai-trend/original-main-v2.mp4
-- https://www.makeviral.ai/media/templates/te-he-perdido-entre-la-gente-ai-trend/original-pet-v2.mp4
+- https://media.makeviral.ai/templates/te-he-perdido-entre-la-gente-ai-trend/original-kriz-v2.mp4
+- https://media.makeviral.ai/templates/te-he-perdido-entre-la-gente-ai-trend/original-main-v2.mp4
+- https://media.makeviral.ai/templates/te-he-perdido-entre-la-gente-ai-trend/original-pet-v2.mp4
 
 ## Posters
 
-- https://www.makeviral.ai/media/templates/te-he-perdido-entre-la-gente-ai-trend/original-kriz-v1.jpg
-- https://www.makeviral.ai/media/templates/te-he-perdido-entre-la-gente-ai-trend/original-main-v1.jpg
-- https://www.makeviral.ai/media/templates/te-he-perdido-entre-la-gente-ai-trend/original-pet-v1.jpg
+- https://media.makeviral.ai/templates/te-he-perdido-entre-la-gente-ai-trend/original-kriz-v1.jpg
+- https://media.makeviral.ai/templates/te-he-perdido-entre-la-gente-ai-trend/original-main-v1.jpg
+- https://media.makeviral.ai/templates/te-he-perdido-entre-la-gente-ai-trend/original-pet-v1.jpg
 
 ## Prompts
 

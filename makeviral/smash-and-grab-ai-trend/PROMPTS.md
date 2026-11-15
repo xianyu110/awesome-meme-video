@@ -7,11 +7,11 @@ The smash and grab AI video is a fictional car-window heist: a fixed camera insi
 
 ## Demo videos (CDN)
 
-- https://www.makeviral.ai/media/templates/smash-and-grab-ai-trend/original-main-v2.mp4
+- https://media.makeviral.ai/templates/smash-and-grab-ai-trend/original-main-v2.mp4
 
 ## Posters
 
-- https://www.makeviral.ai/media/templates/smash-and-grab-ai-trend/original-main-v1.jpg
+- https://media.makeviral.ai/templates/smash-and-grab-ai-trend/original-main-v1.jpg
 
 ## Prompts
 

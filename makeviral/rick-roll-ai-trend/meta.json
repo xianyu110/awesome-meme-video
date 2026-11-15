@@ -10,10 +10,10 @@
   "published": "2026-11-06",
   "credits": 126,
   "demo_videos": [
-    "https://www.makeviral.ai/media/templates/rick-roll-ai-trend/original-sample-v2.mp4"
+    "https://media.makeviral.ai/templates/rick-roll-ai-trend/original-sample-v2.mp4"
   ],
   "posters": [
-    "https://www.makeviral.ai/media/templates/rick-roll-ai-trend/original-sample-v1.jpg"
+    "https://media.makeviral.ai/templates/rick-roll-ai-trend/original-sample-v1.jpg"
   ],
   "prompts": [
     {
@@ -58,5 +58,5 @@
     "Make your own Rick Roll video"
   ],
   "prompt_count": 4,
-  "scraped_at": "2026-11-14"
+  "scraped_at": "2026-11-15"
 }

@@ -7,12 +7,12 @@ The pull out of the TV AI trend is the TikTok trend where someone on your TV rea
 
 ## Demo videos (CDN)
 
-- https://www.makeviral.ai/media/templates/pull-out-of-tv-ai-trend/example-main-v1.mp4
+- https://media.makeviral.ai/templates/pull-out-of-tv-ai-trend/example-main-v1.mp4
 
 ## Posters
 
-- https://www.makeviral.ai/media/templates/pull-out-of-tv-ai-trend/example-main-input.jpg
-- https://www.makeviral.ai/media/templates/pull-out-of-tv-ai-trend/example-main-poster.jpg
+- https://media.makeviral.ai/templates/pull-out-of-tv-ai-trend/example-main-input.jpg
+- https://media.makeviral.ai/templates/pull-out-of-tv-ai-trend/example-main-poster.jpg
 
 ## Prompts
 

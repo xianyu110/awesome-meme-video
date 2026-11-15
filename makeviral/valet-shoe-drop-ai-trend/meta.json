@@ -10,14 +10,14 @@
   "published": "2026-11-08",
   "credits": 228,
   "demo_videos": [
-    "https://www.makeviral.ai/media/templates/valet-shoe-drop-ai-trend/example-main-v1.mp4",
-    "https://www.makeviral.ai/media/templates/valet-shoe-drop-ai-trend/example-salute-v1.mp4"
+    "https://media.makeviral.ai/templates/valet-shoe-drop-ai-trend/example-main-v1.mp4",
+    "https://media.makeviral.ai/templates/valet-shoe-drop-ai-trend/example-salute-v1.mp4"
   ],
   "posters": [
-    "https://www.makeviral.ai/media/templates/ai-ceiling-fan-trend/example-halloween-input.jpg",
-    "https://www.makeviral.ai/media/templates/valet-shoe-drop-ai-trend/example-main-input.jpg",
-    "https://www.makeviral.ai/media/templates/valet-shoe-drop-ai-trend/example-main-poster.jpg",
-    "https://www.makeviral.ai/media/templates/valet-shoe-drop-ai-trend/example-salute-poster.jpg"
+    "https://media.makeviral.ai/templates/ai-ceiling-fan-trend/example-halloween-input.jpg",
+    "https://media.makeviral.ai/templates/valet-shoe-drop-ai-trend/example-main-input.jpg",
+    "https://media.makeviral.ai/templates/valet-shoe-drop-ai-trend/example-main-poster.jpg",
+    "https://media.makeviral.ai/templates/valet-shoe-drop-ai-trend/example-salute-poster.jpg"
   ],
   "prompts": [
     {
@@ -66,5 +66,5 @@
     "Make your own Valet Shoe Drop video"
   ],
   "prompt_count": 5,
-  "scraped_at": "2026-11-14"
+  "scraped_at": "2026-11-15"
 }

@@ -7,12 +7,12 @@ I put my heart in this is the opening line of a song by the London rapper YJ, wh
 
 ## Demo videos (CDN)
 
-- https://www.makeviral.ai/media/templates/i-put-my-heart-in-this-ai-trend/example-swap-v1.mp4
+- https://media.makeviral.ai/templates/i-put-my-heart-in-this-ai-trend/example-swap-v1.mp4
 
 ## Posters
 
-- https://www.makeviral.ai/media/templates/i-put-my-heart-in-this-ai-trend/example-swap-v1-input.jpg
-- https://www.makeviral.ai/media/templates/i-put-my-heart-in-this-ai-trend/example-swap-v1.jpg
+- https://media.makeviral.ai/templates/i-put-my-heart-in-this-ai-trend/example-swap-v1-input.jpg
+- https://media.makeviral.ai/templates/i-put-my-heart-in-this-ai-trend/example-swap-v1.jpg
 
 ## Prompts
 

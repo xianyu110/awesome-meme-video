@@ -10,12 +10,12 @@
   "published": "2026-10-17",
   "credits": 44,
   "demo_videos": [
-    "https://www.makeviral.ai/media/templates/susan-dell-dance-ai/original-first-v2.mp4",
-    "https://www.makeviral.ai/media/templates/susan-dell-dance-ai/original-main-v2.mp4"
+    "https://media.makeviral.ai/templates/susan-dell-dance-ai/original-first-v2.mp4",
+    "https://media.makeviral.ai/templates/susan-dell-dance-ai/original-main-v2.mp4"
   ],
   "posters": [
-    "https://www.makeviral.ai/media/templates/susan-dell-dance-ai/original-first-v1.jpg",
-    "https://www.makeviral.ai/media/templates/susan-dell-dance-ai/original-main-v1.jpg"
+    "https://media.makeviral.ai/templates/susan-dell-dance-ai/original-first-v1.jpg",
+    "https://media.makeviral.ai/templates/susan-dell-dance-ai/original-main-v1.jpg"
   ],
   "prompts": [
     {
@@ -39,5 +39,5 @@
     "Make your own Susan Dell Dance video"
   ],
   "prompt_count": 1,
-  "scraped_at": "2026-11-14"
+  "scraped_at": "2026-11-15"
 }

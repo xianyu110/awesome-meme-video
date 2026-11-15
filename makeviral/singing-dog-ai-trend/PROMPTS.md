@@ -7,13 +7,13 @@ The singing dog AI trend is a 10-second clip from one pet photo: your dog stands
 
 ## Demo videos (CDN)
 
-- https://www.makeviral.ai/media/templates/dog-blow-dry-ai-trend/original-cat-v2.mp4
-- https://www.makeviral.ai/media/templates/dog-blow-dry-ai-trend/original-dog-v2.mp4
+- https://media.makeviral.ai/templates/dog-blow-dry-ai-trend/original-cat-v2.mp4
+- https://media.makeviral.ai/templates/dog-blow-dry-ai-trend/original-dog-v2.mp4
 
 ## Posters
 
-- https://www.makeviral.ai/media/templates/dog-blow-dry-ai-trend/original-cat-v1.jpg
-- https://www.makeviral.ai/media/templates/dog-blow-dry-ai-trend/original-dog-v1.jpg
+- https://media.makeviral.ai/templates/dog-blow-dry-ai-trend/original-cat-v1.jpg
+- https://media.makeviral.ai/templates/dog-blow-dry-ai-trend/original-dog-v1.jpg
 
 ## Prompts
 

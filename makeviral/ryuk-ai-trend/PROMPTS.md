@@ -7,11 +7,11 @@ The Ryuk AI trend puts Ryuk, the grinning shinigami from Death Note, into your o
 
 ## Demo videos (CDN)
 
-- https://www.makeviral.ai/media/templates/ryuk-ai-trend/original-main-v1.mp4
+- https://media.makeviral.ai/templates/ryuk-ai-trend/original-main-v1.mp4
 
 ## Posters
 
-- https://www.makeviral.ai/media/templates/ryuk-ai-trend/original-main-v1.jpg
+- https://media.makeviral.ai/templates/ryuk-ai-trend/original-main-v1.jpg
 
 ## Prompts
 

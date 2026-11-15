@@ -7,11 +7,11 @@ The dog couple dance is a viral AI pet clip from late October 2026, captioned "W
 
 ## Demo videos (CDN)
 
-- https://www.makeviral.ai/media/templates/dog-couple-dance-ai-trend/original-pets-v2.mp4
+- https://media.makeviral.ai/templates/dog-couple-dance-ai-trend/original-pets-v2.mp4
 
 ## Posters
 
-- https://www.makeviral.ai/media/templates/dog-couple-dance-ai-trend/original-pets-v1.jpg
+- https://media.makeviral.ai/templates/dog-couple-dance-ai-trend/original-pets-v1.jpg
 
 ## Prompts
 

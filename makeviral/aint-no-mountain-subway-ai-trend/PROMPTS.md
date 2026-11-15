@@ -7,12 +7,12 @@ The Ain't No Mountain High Enough trend is a selfie video: you sit alone in a ne
 
 ## Demo videos (CDN)
 
-- https://www.makeviral.ai/media/templates/aint-no-mountain-subway-ai-trend/example-v1.mp4
+- https://media.makeviral.ai/templates/aint-no-mountain-subway-ai-trend/example-v1.mp4
 
 ## Posters
 
-- https://www.makeviral.ai/media/templates/aint-no-mountain-subway-ai-trend/example-v1-input.jpg
-- https://www.makeviral.ai/media/templates/aint-no-mountain-subway-ai-trend/example-v1-poster.jpg
+- https://media.makeviral.ai/templates/aint-no-mountain-subway-ai-trend/example-v1-input.jpg
+- https://media.makeviral.ai/templates/aint-no-mountain-subway-ai-trend/example-v1-poster.jpg
 
 ## Prompts
 

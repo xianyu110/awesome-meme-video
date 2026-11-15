@@ -7,12 +7,12 @@ The Closed Door AI trend is a short, sad AI film made from one photo: you knock 
 
 ## Demo videos (CDN)
 
-- https://www.makeviral.ai/media/templates/closed-door-ai-trend/example-main.mp4
+- https://media.makeviral.ai/templates/closed-door-ai-trend/example-main.mp4
 
 ## Posters
 
-- https://www.makeviral.ai/media/templates/closed-door-ai-trend/example-main-input.jpg
-- https://www.makeviral.ai/media/templates/closed-door-ai-trend/example-main-poster.jpg
+- https://media.makeviral.ai/templates/closed-door-ai-trend/example-main-input.jpg
+- https://media.makeviral.ai/templates/closed-door-ai-trend/example-main-poster.jpg
 
 ## Prompts
 

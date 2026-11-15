@@ -7,11 +7,11 @@ The truck driver AI trend is a fisheye clip from inside a big truck cab: the dri
 
 ## Demo videos (CDN)
 
-- https://www.makeviral.ai/media/templates/truck-driver-ai-trend/original-main-v2.mp4
+- https://media.makeviral.ai/templates/truck-driver-ai-trend/original-main-v2.mp4
 
 ## Posters
 
-- https://www.makeviral.ai/media/templates/truck-driver-ai-trend/original-main-v1.jpg
+- https://media.makeviral.ai/templates/truck-driver-ai-trend/original-main-v1.jpg
 
 ## Prompts
 

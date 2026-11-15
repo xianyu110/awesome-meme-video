@@ -7,11 +7,11 @@ The dog pool party is the viral AI clip of a dancing pug in a pink bikini, swim 
 
 ## Demo videos (CDN)
 
-- https://www.makeviral.ai/media/templates/dog-pool-party-ai-dance/original-pet-v2.mp4
+- https://media.makeviral.ai/templates/dog-pool-party-ai-dance/original-pet-v2.mp4
 
 ## Posters
 
-- https://www.makeviral.ai/media/templates/dog-pool-party-ai-dance/original-pet-v1.jpg
+- https://media.makeviral.ai/templates/dog-pool-party-ai-dance/original-pet-v1.jpg
 
 ## Prompts
 

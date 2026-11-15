@@ -7,11 +7,11 @@ The ai danger video is a scroll-stopping hook: the same shot of you doing someth
 
 ## Demo videos (CDN)
 
-- https://www.makeviral.ai/media/templates/ai-danger-scene-trend/original-main-v2.mp4
+- https://media.makeviral.ai/templates/ai-danger-scene-trend/original-main-v2.mp4
 
 ## Posters
 
-- https://www.makeviral.ai/media/templates/ai-danger-scene-trend/original-main-v1.jpg
+- https://media.makeviral.ai/templates/ai-danger-scene-trend/original-main-v1.jpg
 
 ## Prompts
 

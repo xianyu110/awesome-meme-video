@@ -7,12 +7,12 @@ The window dance trend is the October 2026 follow-up to the window peeper meme: 
 
 ## Demo videos (CDN)
 
-- https://www.makeviral.ai/media/templates/window-dance-ai-trend/example-main.mp4
+- https://media.makeviral.ai/templates/window-dance-ai-trend/example-main.mp4
 
 ## Posters
 
-- https://www.makeviral.ai/media/templates/window-dance-ai-trend/example-main-input.jpg
-- https://www.makeviral.ai/media/templates/window-dance-ai-trend/example-main-poster.jpg
+- https://media.makeviral.ai/templates/window-dance-ai-trend/example-main-input.jpg
+- https://media.makeviral.ai/templates/window-dance-ai-trend/example-main-poster.jpg
 
 ## Prompts
 

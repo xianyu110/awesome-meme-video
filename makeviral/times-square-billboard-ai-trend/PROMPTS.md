@@ -7,12 +7,12 @@ The Times Square billboard AI trend puts your face on the biggest screens in New
 
 ## Demo videos (CDN)
 
-- https://www.makeviral.ai/media/templates/times-square-billboard-ai-trend/example-v2.mp4
+- https://media.makeviral.ai/templates/times-square-billboard-ai-trend/example-v2.mp4
 
 ## Posters
 
-- https://www.makeviral.ai/media/templates/times-square-billboard-ai-trend/example-v1-input.jpg
-- https://www.makeviral.ai/media/templates/times-square-billboard-ai-trend/example-v2-poster.jpg
+- https://media.makeviral.ai/templates/times-square-billboard-ai-trend/example-v1-input.jpg
+- https://media.makeviral.ai/templates/times-square-billboard-ai-trend/example-v2-poster.jpg
 
 ## Prompts
 

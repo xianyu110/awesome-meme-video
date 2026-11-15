@@ -7,11 +7,11 @@ The Last Dance trend is the TikTok duet dance of autumn 2026: two people grab on
 
 ## Demo videos (CDN)
 
-- https://www.makeviral.ai/media/templates/last-dance-ai-trend/original-main-v2.mp4
+- https://media.makeviral.ai/templates/last-dance-ai-trend/original-main-v2.mp4
 
 ## Posters
 
-- https://www.makeviral.ai/media/templates/last-dance-ai-trend/original-main-v1.jpg
+- https://media.makeviral.ai/templates/last-dance-ai-trend/original-main-v1.jpg
 
 ## Prompts
 

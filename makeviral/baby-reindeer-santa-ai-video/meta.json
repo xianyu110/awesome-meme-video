@@ -10,11 +10,11 @@
   "published": "2026-11-02",
   "credits": 101,
   "demo_videos": [
-    "https://www.makeviral.ai/media/templates/baby-reindeer-santa-ai-video/example-v1.mp4"
+    "https://media.makeviral.ai/templates/baby-reindeer-santa-ai-video/example-v1.mp4"
   ],
   "posters": [
-    "https://www.makeviral.ai/media/templates/baby-reindeer-santa-ai-video/example-v1-input.jpg",
-    "https://www.makeviral.ai/media/templates/baby-reindeer-santa-ai-video/example-v1-poster.jpg"
+    "https://media.makeviral.ai/templates/baby-reindeer-santa-ai-video/example-v1-input.jpg",
+    "https://media.makeviral.ai/templates/baby-reindeer-santa-ai-video/example-v1-poster.jpg"
   ],
   "prompts": [
     {
@@ -58,5 +58,5 @@
     "Make your own Baby Reindeer Ride video"
   ],
   "prompt_count": 4,
-  "scraped_at": "2026-11-14"
+  "scraped_at": "2026-11-15"
 }

@@ -7,12 +7,12 @@ The Storm AI trend is a short clip where one person in white stands perfectly st
 
 ## Demo videos (CDN)
 
-- https://www.makeviral.ai/media/templates/storm-ai-trend/example.mp4
+- https://media.makeviral.ai/templates/storm-ai-trend/example.mp4
 
 ## Posters
 
-- https://www.makeviral.ai/media/templates/storm-ai-trend/example-input.jpg
-- https://www.makeviral.ai/media/templates/storm-ai-trend/example-poster.jpg
+- https://media.makeviral.ai/templates/storm-ai-trend/example-input.jpg
+- https://media.makeviral.ai/templates/storm-ai-trend/example-poster.jpg
 
 ## Prompts
 

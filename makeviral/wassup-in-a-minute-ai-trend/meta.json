@@ -10,13 +10,13 @@
   "published": "2026-10-26",
   "credits": 56,
   "demo_videos": [
-    "https://www.makeviral.ai/media/templates/wassup-in-a-minute-ai-trend/example-main.mp4",
-    "https://www.makeviral.ai/media/templates/wassup-in-a-minute-ai-trend/original-duo-v2.mp4"
+    "https://media.makeviral.ai/templates/wassup-in-a-minute-ai-trend/example-main.mp4",
+    "https://media.makeviral.ai/templates/wassup-in-a-minute-ai-trend/original-duo-v2.mp4"
   ],
   "posters": [
-    "https://www.makeviral.ai/media/templates/wassup-in-a-minute-ai-trend/example-main-input.jpg",
-    "https://www.makeviral.ai/media/templates/wassup-in-a-minute-ai-trend/example-main-poster.jpg",
-    "https://www.makeviral.ai/media/templates/wassup-in-a-minute-ai-trend/original-duo-v1.jpg"
+    "https://media.makeviral.ai/templates/wassup-in-a-minute-ai-trend/example-main-input.jpg",
+    "https://media.makeviral.ai/templates/wassup-in-a-minute-ai-trend/example-main-poster.jpg",
+    "https://media.makeviral.ai/templates/wassup-in-a-minute-ai-trend/original-duo-v1.jpg"
   ],
   "prompts": [
     {
@@ -72,5 +72,5 @@
     "Make your own Wassup in a Minute video"
   ],
   "prompt_count": 6,
-  "scraped_at": "2026-11-14"
+  "scraped_at": "2026-11-15"
 }

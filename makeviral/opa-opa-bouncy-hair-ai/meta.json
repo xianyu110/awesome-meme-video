@@ -10,10 +10,10 @@
   "published": "2026-10-14",
   "credits": 152,
   "demo_videos": [
-    "https://www.makeviral.ai/media/templates/opa-opa-bouncy-hair-ai/original-bounce-v2.mp4"
+    "https://media.makeviral.ai/templates/opa-opa-bouncy-hair-ai/original-bounce-v2.mp4"
   ],
   "posters": [
-    "https://www.makeviral.ai/media/templates/opa-opa-bouncy-hair-ai/original-bounce-v1.jpg"
+    "https://media.makeviral.ai/templates/opa-opa-bouncy-hair-ai/original-bounce-v1.jpg"
   ],
   "prompts": [
     {
@@ -49,5 +49,5 @@
     "Make your own Opa Opa Bouncy Hair video"
   ],
   "prompt_count": 3,
-  "scraped_at": "2026-11-14"
+  "scraped_at": "2026-11-15"
 }

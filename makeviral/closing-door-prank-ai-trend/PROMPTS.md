@@ -7,11 +7,11 @@ The closing door prank, also called the fake closing door prank or the close the
 
 ## Demo videos (CDN)
 
-- https://www.makeviral.ai/media/templates/closing-door-prank-ai-trend/original-main-v2.mp4
+- https://media.makeviral.ai/templates/closing-door-prank-ai-trend/original-main-v2.mp4
 
 ## Posters
 
-- https://www.makeviral.ai/media/templates/closing-door-prank-ai-trend/original-main-v1.jpg
+- https://media.makeviral.ai/templates/closing-door-prank-ai-trend/original-main-v1.jpg
 
 ## Prompts
 

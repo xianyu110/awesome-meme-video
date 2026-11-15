@@ -10,10 +10,10 @@
   "published": "2026-11-12",
   "credits": 139,
   "demo_videos": [
-    "https://www.makeviral.ai/media/templates/almost-almost-ai-trend/original-trend-v2.mp4"
+    "https://media.makeviral.ai/templates/almost-almost-ai-trend/original-trend-v2.mp4"
   ],
   "posters": [
-    "https://www.makeviral.ai/media/templates/almost-almost-ai-trend/original-trend-v1.jpg"
+    "https://media.makeviral.ai/templates/almost-almost-ai-trend/original-trend-v1.jpg"
   ],
   "prompts": [
     {
@@ -54,5 +54,5 @@
     "Make your own Ahh Almost Almost video"
   ],
   "prompt_count": 4,
-  "scraped_at": "2026-11-14"
+  "scraped_at": "2026-11-15"
 }

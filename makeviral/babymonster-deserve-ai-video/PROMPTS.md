@@ -7,12 +7,12 @@ BABYMONSTER DESERVE is the YG girl group's slow pop ballad, out 23 October 2026,
 
 ## Demo videos (CDN)
 
-- https://www.makeviral.ai/media/templates/babymonster-deserve-ai-video/example-main-v1.mp4
+- https://media.makeviral.ai/templates/babymonster-deserve-ai-video/example-main-v1.mp4
 
 ## Posters
 
-- https://www.makeviral.ai/media/templates/babymonster-deserve-ai-video/example-main-input.jpg
-- https://www.makeviral.ai/media/templates/babymonster-deserve-ai-video/example-main-poster.jpg
+- https://media.makeviral.ai/templates/babymonster-deserve-ai-video/example-main-input.jpg
+- https://media.makeviral.ai/templates/babymonster-deserve-ai-video/example-main-poster.jpg
 
 ## Prompts
 

@@ -7,12 +7,12 @@ The 80s AI trend (also called "Back in '85") restyles your selfie as a real-look
 
 ## Demo videos (CDN)
 
-- https://www.makeviral.ai/media/templates/80s-ai-trend/example.mp4
+- https://media.makeviral.ai/templates/80s-ai-trend/example.mp4
 
 ## Posters
 
-- https://www.makeviral.ai/media/templates/80s-ai-trend/example-input.jpg
-- https://www.makeviral.ai/media/templates/80s-ai-trend/example-poster.jpg
+- https://media.makeviral.ai/templates/80s-ai-trend/example-input.jpg
+- https://media.makeviral.ai/templates/80s-ai-trend/example-poster.jpg
 
 ## Prompts
 

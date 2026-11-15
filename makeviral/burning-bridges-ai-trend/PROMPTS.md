@@ -7,13 +7,13 @@ The Burning Bridges AI trend puts you or your pet in place of Drake in the party
 
 ## Demo videos (CDN)
 
-- https://www.makeviral.ai/media/templates/burning-bridges-ai-trend/original-cup-v2.mp4
-- https://www.makeviral.ai/media/templates/burning-bridges-ai-trend/original-tall-main-v2.mp4
+- https://media.makeviral.ai/templates/burning-bridges-ai-trend/original-cup-v2.mp4
+- https://media.makeviral.ai/templates/burning-bridges-ai-trend/original-tall-main-v2.mp4
 
 ## Posters
 
-- https://www.makeviral.ai/media/templates/burning-bridges-ai-trend/original-cup-v1.jpg
-- https://www.makeviral.ai/media/templates/burning-bridges-ai-trend/original-tall-main-v1.jpg
+- https://media.makeviral.ai/templates/burning-bridges-ai-trend/original-cup-v1.jpg
+- https://media.makeviral.ai/templates/burning-bridges-ai-trend/original-tall-main-v1.jpg
 
 ## Prompts
 

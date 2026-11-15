@@ -7,11 +7,11 @@ The diamond miner meme is the old picture of a miner who gives up one swing befo
 
 ## Demo videos (CDN)
 
-- https://www.makeviral.ai/media/templates/diamond-miner-meme-ai/original-main-v2.mp4
+- https://media.makeviral.ai/templates/diamond-miner-meme-ai/original-main-v2.mp4
 
 ## Posters
 
-- https://www.makeviral.ai/media/templates/diamond-miner-meme-ai/original-main-v1.jpg
+- https://media.makeviral.ai/templates/diamond-miner-meme-ai/original-main-v1.jpg
 
 ## Prompts
 

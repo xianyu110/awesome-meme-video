@@ -7,11 +7,11 @@ The AI caricature trend turns one photo into a polished 3D caricature with an ov
 
 ## Demo videos (CDN)
 
-- https://www.makeviral.ai/media/templates/ai-caricature-trend/original-main-v2.mp4
+- https://media.makeviral.ai/templates/ai-caricature-trend/original-main-v2.mp4
 
 ## Posters
 
-- https://www.makeviral.ai/media/templates/ai-caricature-trend/original-main-v1.jpg
+- https://media.makeviral.ai/templates/ai-caricature-trend/original-main-v1.jpg
 
 ## Prompts
 

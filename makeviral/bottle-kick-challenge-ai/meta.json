@@ -10,14 +10,14 @@
   "published": "2026-10-24",
   "credits": 152,
   "demo_videos": [
-    "https://www.makeviral.ai/media/templates/bottle-kick-challenge-ai/original-dog-v2.mp4",
-    "https://www.makeviral.ai/media/templates/bottle-kick-challenge-ai/original-main-v2.mp4",
-    "https://www.makeviral.ai/media/templates/bottle-kick-challenge-ai/original-pet-v2.mp4"
+    "https://media.makeviral.ai/templates/bottle-kick-challenge-ai/original-dog-v2.mp4",
+    "https://media.makeviral.ai/templates/bottle-kick-challenge-ai/original-main-v2.mp4",
+    "https://media.makeviral.ai/templates/bottle-kick-challenge-ai/original-pet-v2.mp4"
   ],
   "posters": [
-    "https://www.makeviral.ai/media/templates/bottle-kick-challenge-ai/original-dog-v1.jpg",
-    "https://www.makeviral.ai/media/templates/bottle-kick-challenge-ai/original-main-v1.jpg",
-    "https://www.makeviral.ai/media/templates/bottle-kick-challenge-ai/original-pet-v1.jpg"
+    "https://media.makeviral.ai/templates/bottle-kick-challenge-ai/original-dog-v1.jpg",
+    "https://media.makeviral.ai/templates/bottle-kick-challenge-ai/original-main-v1.jpg",
+    "https://media.makeviral.ai/templates/bottle-kick-challenge-ai/original-pet-v1.jpg"
   ],
   "prompts": [
     {
@@ -47,5 +47,5 @@
     "Make your own Bottle Kick Challenge video"
   ],
   "prompt_count": 2,
-  "scraped_at": "2026-11-14"
+  "scraped_at": "2026-11-15"
 }

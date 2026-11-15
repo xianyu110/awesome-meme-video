@@ -7,11 +7,11 @@ The 58th Floor AI trend puts two people in the teal studio of Anderson .Paak and
 
 ## Demo videos (CDN)
 
-- https://www.makeviral.ai/media/templates/58th-floor-ai-trend/original-main-v2.mp4
+- https://media.makeviral.ai/templates/58th-floor-ai-trend/original-main-v2.mp4
 
 ## Posters
 
-- https://www.makeviral.ai/media/templates/58th-floor-ai-trend/original-main-v1.jpg
+- https://media.makeviral.ai/templates/58th-floor-ai-trend/original-main-v1.jpg
 
 ## Prompts
 

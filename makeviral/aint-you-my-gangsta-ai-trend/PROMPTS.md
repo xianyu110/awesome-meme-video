@@ -7,13 +7,13 @@ Ain't you my gangsta is a TikTok lip sync for two from late October 2026.
 
 ## Demo videos (CDN)
 
-- https://www.makeviral.ai/media/templates/aint-you-my-gangsta-ai-trend/original-duo-v2.mp4
-- https://www.makeviral.ai/media/templates/aint-you-my-gangsta-ai-trend/original-pet-v2.mp4
+- https://media.makeviral.ai/templates/aint-you-my-gangsta-ai-trend/original-duo-v2.mp4
+- https://media.makeviral.ai/templates/aint-you-my-gangsta-ai-trend/original-pet-v2.mp4
 
 ## Posters
 
-- https://www.makeviral.ai/media/templates/aint-you-my-gangsta-ai-trend/original-duo-v1.jpg
-- https://www.makeviral.ai/media/templates/aint-you-my-gangsta-ai-trend/original-pet-v1.jpg
+- https://media.makeviral.ai/templates/aint-you-my-gangsta-ai-trend/original-duo-v1.jpg
+- https://media.makeviral.ai/templates/aint-you-my-gangsta-ai-trend/original-pet-v1.jpg
 
 ## Prompts
 

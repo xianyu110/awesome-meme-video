@@ -10,12 +10,12 @@
   "published": "2026-11-04",
   "credits": 228,
   "demo_videos": [
-    "https://www.makeviral.ai/media/templates/capybara-couple-ai-video/original-capiandbara-v2.mp4",
-    "https://www.makeviral.ai/media/templates/capybara-couple-ai-video/original-capisean-v2.mp4"
+    "https://media.makeviral.ai/templates/capybara-couple-ai-video/original-capiandbara-v2.mp4",
+    "https://media.makeviral.ai/templates/capybara-couple-ai-video/original-capisean-v2.mp4"
   ],
   "posters": [
-    "https://www.makeviral.ai/media/templates/capybara-couple-ai-video/original-capiandbara-v1.jpg",
-    "https://www.makeviral.ai/media/templates/capybara-couple-ai-video/original-capisean-v1.jpg"
+    "https://media.makeviral.ai/templates/capybara-couple-ai-video/original-capiandbara-v1.jpg",
+    "https://media.makeviral.ai/templates/capybara-couple-ai-video/original-capisean-v1.jpg"
   ],
   "prompts": [
     {
@@ -56,5 +56,5 @@
     "Make your own Capybara Couple video"
   ],
   "prompt_count": 4,
-  "scraped_at": "2026-11-14"
+  "scraped_at": "2026-11-15"
 }

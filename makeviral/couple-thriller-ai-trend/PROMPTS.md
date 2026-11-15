@@ -7,11 +7,11 @@ The AI couple thriller is a short AI kiss video with a twist: a couple kisses on
 
 ## Demo videos (CDN)
 
-- https://www.makeviral.ai/media/templates/couple-thriller-ai-trend/original-tall-main-v2.mp4
+- https://media.makeviral.ai/templates/couple-thriller-ai-trend/original-tall-main-v2.mp4
 
 ## Posters
 
-- https://www.makeviral.ai/media/templates/couple-thriller-ai-trend/original-tall-main-v1.jpg
+- https://media.makeviral.ai/templates/couple-thriller-ai-trend/original-tall-main-v1.jpg
 
 ## Prompts
 

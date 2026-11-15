@@ -3,7 +3,7 @@
 > The Ali G driving scene AI trend puts you in the car scene from the 2002 film Ali G Indahouse: you grip a light-blue steering wheel with a dead-serious face, then head-bang hard when the bass drops.
 
 Canonical: https://www.makeviral.ai/templates/ali-g-driving-scene-ai
-Updated: 2026-10-30
+Updated: 2026-11-14
 Published: 2026-10-20
 Author: MakeViral Team (https://www.makeviral.ai/about)
 Publisher: MakeViral (https://www.makeviral.ai)
@@ -16,7 +16,7 @@ Also called: Ali G car scene AI, Blue steering wheel trend, On my way to pick up
 
 **Make it now:** [Make this video](https://www.makeviral.ai/templates/ali-g-driving-scene-ai/create). 1 photo · 10 s · 9:16 with sound · 126 credits, charged once · ready in a few minutes · no prompt to write.
 
-Keyword: ali g driving scene. Also answers: ali g, ali g driving scene ai, ali g driving, ali g car scene, ali g blue steering wheel, ali g ai, ali g driving scene ai trend, ali g indahouse driving scene, ali g car meme, ali g driving meme, ali g car, ali g who iz i ai scene, ali g ai scene, ali g yellow car, ali g indahouse car scene, ali gs car, ali g auto, ali g driving song, ali g car scene song, ali g song in car, ali g indahouse song in the car, ali g song jungle is massive, ali g opening scene, ali g indahouse opening scene, ali g opening scene song, blue steering wheel meme, ali g driving gif, ali g car gif, ali g ai meme, ali g ai trend, ali g trend, how to make the ali g driving scene ai trend, ali g driving scene tutorial, ali g kling ai, ali g capcut template, ali g template, ali g costume, ali g meme, ali g indahouse car, booyakasha ali g, cat driving car ai, dog driving car ai, what is love head bob.
+Keyword: ali g driving scene. Also answers: ali g, ali g driving scene ai, ali g driving, ali g car scene, ali g blue steering wheel, ali g ai, ali g driving scene ai trend, ali g indahouse driving scene, ali g car meme, ali g driving meme, ali g ai video, ali g ai song, ali g car, ali g who iz i ai scene, ali g ai scene, ali g yellow car, ali g indahouse car scene, ali gs car, ali g auto, ali g car windscreen, ali g in the car, ali g in car, ali g driving song, ali g car scene song, ali g song in car, ali g indahouse song in the car, ali g song jungle is massive, ali g opening scene, ali g indahouse opening scene, ali g opening scene song, blue steering wheel meme, ali g driving gif, ali g car gif, ali g ai meme, ali g ai trend, ali g trend, how to make the ali g driving scene ai trend, ali g driving scene tutorial, ali g kling ai, ali g capcut template, ali g template, ali g costume, ali g meme, ali g indahouse car, booyakasha ali g, cat driving car ai, dog driving car ai, what is love head bob.
 
 ## What is the Ali G Driving Scene trend, and where did it start?
 
@@ -38,8 +38,8 @@ The Ali G driving scene AI trend started on 18 October 2026. Tutorial accounts i
 Made from the prompts on this page. The people and pets are AI-made, not real persons, and the sound is original. Your result will differ from run to run.
 
 - **Example 1** (5 s, 9:16 MP4 with sound): A creator's AI version of the driving scene, from a tutorial by @meowstardaily (18 October 2026): one photo of a woman put behind the light-blue wheel, a straight face, then hard head-bangs on the beat. Shown: the AI clip cut out of the tutorial and cropped to vertical, without sound.
-  - Video: https://www.makeviral.ai/media/templates/ali-g-driving-scene-ai/original-main-v1.mp4
-  - Poster: https://www.makeviral.ai/media/templates/ali-g-driving-scene-ai/original-main-v1.jpg
+  - Video: https://media.makeviral.ai/templates/ali-g-driving-scene-ai/original-main-v1.mp4
+  - Poster: https://media.makeviral.ai/templates/ali-g-driving-scene-ai/original-main-v1.jpg
 
 ## How to make the Ali G Driving Scene video on MakeViral
 
@@ -251,7 +251,7 @@ It is a TikTok trend from October 2026 where AI puts you in the Ali G driving sc
 
 ### What song plays in the Ali G car scene?
 
-The song in the film's opening drive is the 1994 jungle anthem "Incredible" by M-Beat featuring General Levy, so that is the Ali G driving song and the Ali G opening scene song people look for (some search it as "ali g song jungle is massive"). It is also the Ali G car scene song most TikTok clips play, the Ali G Indahouse song in the car. Our videos do not use it: they come with an original jungle-style beat, and you can add the trending sound when you post.
+The song in the film's opening drive is the 1994 jungle anthem "Incredible" by M-Beat featuring General Levy, so that is the Ali G driving song and the Ali G opening scene song people look for (some search it as "ali g song jungle is massive"). It is also the Ali G car scene song most TikTok clips play, the Ali G Indahouse song in the car. Our videos do not use it: they come with an original jungle-style beat, and you can add the trending sound when you post. If you look for the Ali G AI song, it is the same track: the @meowstardaily tutorial on this page plays it under its AI clip.
 
 ### Is it the real film clip with my face?
 
@@ -279,7 +279,7 @@ The blue steering wheel meme is the same scene: the Ali G blue steering wheel is
 
 ### What car is it?
 
-In the film it is a small yellow 1980s hatchback with a roll cage, the Ali G yellow car many people search for. The Ali G car in our videos is a new, unbranded small old hatchback with the light-blue wheel, like the Ali G Indahouse car but with no badge or logo. Some people search it as Ali G's car or the Ali G auto.
+In the film it is a small yellow 1980s hatchback with a roll cage, the Ali G yellow car many people search for. The Ali G car in our videos is a new, unbranded small old hatchback with the light-blue wheel, like the Ali G Indahouse car but with no badge or logo. Some people search it as Ali G's car or the Ali G auto. In the film, the Ali G car windscreen has a name strip on it; ours has no text at all.
 
 ### Is this an Ali G AI meme or a new trend?
 
@@ -313,12 +313,12 @@ Every version makes 10 seconds, vertical, as an MP4 file with an original beat. 
 
 ## New AI video trends this week
 
-- [AI Cat Gym Video: Put Your Pet on the Air Walker](https://www.makeviral.ai/templates/ai-cat-gym-video): Add one photo, and your cat or dog stands upright on an outdoor air walker, legs swinging out of control, until it slips off and tumbles to the ground, in the same take as the viral clip, with its original sound. You can take the fall yourself, too.
-- [Jensen Huang AI Video: Take the Wheel Next to the Nvidia CEO](https://www.makeviral.ai/templates/jensen-huang-ai-video): The car clip that started the Jensen Huang AI memes, with you at the wheel. Add one photo, and you (or your pet) drive the Nvidia CEO in his black leather jacket, with the clip's own sound.
-- [Cat Shower AI: Dodge the Water, Dive Under the Blanket](https://www.makeviral.ai/templates/cat-shower-ai-trend): The cat scoops the water, pours it over its head and leans away so not one drop hits it. Then it shivers and runs to bed. Add one photo, and you or your pet take the cat's place, with the trend's own sound.
-- [Tying My Shoes Meme: Put Yourself Behind the Tip Cup](https://www.makeviral.ai/templates/tying-shoes-money-ai-trend): You put your cup down to tie your shoe, and people start dropping cash in it. Add one photo, and you or your pet star in the viral clip, grin and all, with its original sound.
-- [MobLand Dance AI: Do Paul's Dance From One Photo](https://www.makeviral.ai/templates/mobland-paul-dance-ai): Lean in to the camera, step back, then the knee lifts, the little kicks, the shrugs and the hand flicks, with a straight face that keeps breaking into a grin. Add one photo of you or your pet and get the 10 second clip with the music.
-- [Bad Aim Edit AI Trend: Miss the Target, Then Own the Office](https://www.makeviral.ai/templates/bad-aim-edit-ai-trend): You try archery in a grass field and miss the flying target badly. Then a hard cut: a cool black and white office edit in black fight gloves, with a mug, a shh and a walk out the door. Add one photo of you or your pet.
+- [Never Let Her Pay: Pay for Dinner With a Sponge](https://www.makeviral.ai/templates/never-let-her-pay-ai-trend): "I got this." Add one photo, and you play the gentleman in the white dinner jacket who stops his date from paying, opens his pouch to show a kitchen sponge and gets walked to the kitchen to wash the dishes. With the clip's own sound.
+- [Snowman Dance AI: Do the Viral Sia Couple Dance From Two Photos](https://www.makeviral.ai/templates/snowman-dance-ai-trend): Hands behind your backs, a spin under the arm, a quick twirl around each other, and then one of you jumps on the other. Add a photo of you and one of your partner, or of two pets, and get the whole Snowman dance with the song.
+- [Self Hug Sketch: A Giant Pencil Drawing of You Hugs You](https://www.makeviral.ai/templates/self-hug-sketch-ai-trend): Add one photo. You lean on a grey wall while a huge black-and-white pencil sketch of you, drawn on the wall, wraps its arms around you, with "Embrace of my own self" written beside you.
+- [Need for Speed AI Trend: Your Car in the Movie Scene](https://www.makeviral.ai/templates/need-for-speed-ai-trend): Add one photo of your car or truck. AI puts it in the trend's movie-style street scene: it rolls through town, spins burnouts in thick tire smoke while people watch, and rolls away, with the trend's own sound.
+- [Tweenslop AI: Turn One Photo Into a Tweenslop Animation](https://www.makeviral.ai/templates/tweenslop-ai-trend): Your photo becomes a flat cut-out that zooms, squashes, spins and flies with a rainbow trail on every beat of a Brazilian funk track, with white, pink, purple and green flashes. You, your pet or any object.
+- [We Don't Talk Anymore Dance: Do the Viral Freestyle From One Photo](https://www.makeviral.ai/templates/we-dont-talk-anymore-dance-ai-trend): The sped-up "We Don't Talk Anymore" freestyle is all over TikTok. Add one photo, and you dance it on the trend's stage, barefoot on a driveway at night with your shoes in one hand, or your pet takes the stage.
 
 ## Make your own Ali G Driving Scene video
 

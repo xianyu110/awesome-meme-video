@@ -10,10 +10,10 @@
   "published": "2026-10-28",
   "credits": 228,
   "demo_videos": [
-    "https://www.makeviral.ai/media/templates/dog-dance-crew-ai-trend/original-pet-v2.mp4"
+    "https://media.makeviral.ai/templates/dog-dance-crew-ai-trend/original-pet-v2.mp4"
   ],
   "posters": [
-    "https://www.makeviral.ai/media/templates/dog-dance-crew-ai-trend/original-pet-v1.jpg"
+    "https://media.makeviral.ai/templates/dog-dance-crew-ai-trend/original-pet-v1.jpg"
   ],
   "prompts": [
     {
@@ -40,5 +40,5 @@
     "Make your own Dog Dance Crew video"
   ],
   "prompt_count": 2,
-  "scraped_at": "2026-11-14"
+  "scraped_at": "2026-11-15"
 }

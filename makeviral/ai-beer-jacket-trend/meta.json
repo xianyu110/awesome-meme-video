@@ -10,10 +10,10 @@
   "published": "2026-10-22",
   "credits": 126,
   "demo_videos": [
-    "https://www.makeviral.ai/media/templates/ai-beer-jacket-trend/original-away-end-v1.mp4"
+    "https://media.makeviral.ai/templates/ai-beer-jacket-trend/original-away-end-v1.mp4"
   ],
   "posters": [
-    "https://www.makeviral.ai/media/templates/ai-beer-jacket-trend/original-away-end-v1.jpg"
+    "https://media.makeviral.ai/templates/ai-beer-jacket-trend/original-away-end-v1.jpg"
   ],
   "prompts": [
     {
@@ -37,5 +37,5 @@
     "Make your own Beer Jacket video"
   ],
   "prompt_count": 1,
-  "scraped_at": "2026-11-14"
+  "scraped_at": "2026-11-15"
 }

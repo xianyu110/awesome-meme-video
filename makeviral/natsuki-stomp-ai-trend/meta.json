@@ -10,12 +10,12 @@
   "published": "2026-11-11",
   "credits": 40,
   "demo_videos": [
-    "https://www.makeviral.ai/media/templates/natsuki-stomp-ai-trend/original-first-v2.mp4",
-    "https://www.makeviral.ai/media/templates/natsuki-stomp-ai-trend/original-main-v2.mp4"
+    "https://media.makeviral.ai/templates/natsuki-stomp-ai-trend/original-first-v2.mp4",
+    "https://media.makeviral.ai/templates/natsuki-stomp-ai-trend/original-main-v2.mp4"
   ],
   "posters": [
-    "https://www.makeviral.ai/media/templates/natsuki-stomp-ai-trend/original-first-v1.jpg",
-    "https://www.makeviral.ai/media/templates/natsuki-stomp-ai-trend/original-main-v1.jpg"
+    "https://media.makeviral.ai/templates/natsuki-stomp-ai-trend/original-first-v1.jpg",
+    "https://media.makeviral.ai/templates/natsuki-stomp-ai-trend/original-main-v1.jpg"
   ],
   "prompts": [
     {
@@ -44,5 +44,5 @@
     "Make your own Tsundere Stomp video"
   ],
   "prompt_count": 2,
-  "scraped_at": "2026-11-14"
+  "scraped_at": "2026-11-15"
 }

@@ -7,12 +7,12 @@ The I am the one who knocks meme is a calm, cold speech from a 2011 TV drama sce
 
 ## Demo videos (CDN)
 
-- https://www.makeviral.ai/media/templates/the-one-who-knocks-ai-trend/example.mp4
+- https://media.makeviral.ai/templates/the-one-who-knocks-ai-trend/example.mp4
 
 ## Posters
 
-- https://www.makeviral.ai/media/templates/the-one-who-knocks-ai-trend/example-input.jpg
-- https://www.makeviral.ai/media/templates/the-one-who-knocks-ai-trend/example-poster.jpg
+- https://media.makeviral.ai/templates/the-one-who-knocks-ai-trend/example-input.jpg
+- https://media.makeviral.ai/templates/the-one-who-knocks-ai-trend/example-poster.jpg
 
 ## Prompts
 

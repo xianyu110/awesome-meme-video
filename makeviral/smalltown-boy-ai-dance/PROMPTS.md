@@ -7,13 +7,13 @@ The Smalltown Boy cats trend is a viral AI reel from October 2026.
 
 ## Demo videos (CDN)
 
-- https://www.makeviral.ai/media/templates/smalltown-boy-ai-dance/original-pets-room-v2.mp4
-- https://www.makeviral.ai/media/templates/smalltown-boy-ai-dance/original-pets-v2.mp4
+- https://media.makeviral.ai/templates/smalltown-boy-ai-dance/original-pets-room-v2.mp4
+- https://media.makeviral.ai/templates/smalltown-boy-ai-dance/original-pets-v2.mp4
 
 ## Posters
 
-- https://www.makeviral.ai/media/templates/smalltown-boy-ai-dance/original-pets-room-v1.jpg
-- https://www.makeviral.ai/media/templates/smalltown-boy-ai-dance/original-pets-v1.jpg
+- https://media.makeviral.ai/templates/smalltown-boy-ai-dance/original-pets-room-v1.jpg
+- https://media.makeviral.ai/templates/smalltown-boy-ai-dance/original-pets-v1.jpg
 
 ## Prompts
 

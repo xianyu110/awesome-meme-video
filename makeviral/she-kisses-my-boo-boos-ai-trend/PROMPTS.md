@@ -7,11 +7,11 @@ The she kisses my boo boos trend is a TikTok couple photo post from October 2026
 
 ## Demo videos (CDN)
 
-- https://www.makeviral.ai/media/templates/she-kisses-my-boo-boos-ai-trend/original-main-v2.mp4
+- https://media.makeviral.ai/templates/she-kisses-my-boo-boos-ai-trend/original-main-v2.mp4
 
 ## Posters
 
-- https://www.makeviral.ai/media/templates/she-kisses-my-boo-boos-ai-trend/original-main-v1.jpg
+- https://media.makeviral.ai/templates/she-kisses-my-boo-boos-ai-trend/original-main-v1.jpg
 
 ## Prompts
 

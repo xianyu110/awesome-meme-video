@@ -7,11 +7,11 @@ The Crazy Frog AI trend recreates the chase from the 2005 Crazy Frog music video
 
 ## Demo videos (CDN)
 
-- https://www.makeviral.ai/media/templates/crazy-frog-ai-trend/original-tall-duo-v2.mp4
+- https://media.makeviral.ai/templates/crazy-frog-ai-trend/original-tall-duo-v2.mp4
 
 ## Posters
 
-- https://www.makeviral.ai/media/templates/crazy-frog-ai-trend/original-tall-duo-v1.jpg
+- https://media.makeviral.ai/templates/crazy-frog-ai-trend/original-tall-duo-v1.jpg
 
 ## Prompts
 

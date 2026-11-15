@@ -10,14 +10,14 @@
   "published": "2026-10-22",
   "credits": 46,
   "demo_videos": [
-    "https://www.makeviral.ai/media/templates/laughing-fairy-ai-trend/original-bluti-v2.mp4",
-    "https://www.makeviral.ai/media/templates/laughing-fairy-ai-trend/original-laugh-v2.mp4",
-    "https://www.makeviral.ai/media/templates/laughing-fairy-ai-trend/original-main-v2.mp4"
+    "https://media.makeviral.ai/templates/laughing-fairy-ai-trend/original-bluti-v2.mp4",
+    "https://media.makeviral.ai/templates/laughing-fairy-ai-trend/original-laugh-v2.mp4",
+    "https://media.makeviral.ai/templates/laughing-fairy-ai-trend/original-main-v2.mp4"
   ],
   "posters": [
-    "https://www.makeviral.ai/media/templates/laughing-fairy-ai-trend/original-bluti-v1.jpg",
-    "https://www.makeviral.ai/media/templates/laughing-fairy-ai-trend/original-laugh-v1.jpg",
-    "https://www.makeviral.ai/media/templates/laughing-fairy-ai-trend/original-main-v1.jpg"
+    "https://media.makeviral.ai/templates/laughing-fairy-ai-trend/original-bluti-v1.jpg",
+    "https://media.makeviral.ai/templates/laughing-fairy-ai-trend/original-laugh-v1.jpg",
+    "https://media.makeviral.ai/templates/laughing-fairy-ai-trend/original-main-v1.jpg"
   ],
   "prompts": [
     {
@@ -65,5 +65,5 @@
     "Make your own Laughing Fairy AI video"
   ],
   "prompt_count": 5,
-  "scraped_at": "2026-11-14"
+  "scraped_at": "2026-11-15"
 }

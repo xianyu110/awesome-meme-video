@@ -7,11 +7,11 @@ The 24 Unforgettable car trend, also called the 24 car trend or Twenty-Four, is 
 
 ## Demo videos (CDN)
 
-- https://www.makeviral.ai/media/templates/unforgettable-car-trend-ai/original-main-v2.mp4
+- https://media.makeviral.ai/templates/unforgettable-car-trend-ai/original-main-v2.mp4
 
 ## Posters
 
-- https://www.makeviral.ai/media/templates/unforgettable-car-trend-ai/original-main-v1.jpg
+- https://media.makeviral.ai/templates/unforgettable-car-trend-ai/original-main-v1.jpg
 
 ## Prompts
 

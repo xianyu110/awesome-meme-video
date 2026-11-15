@@ -7,12 +7,12 @@ The counting money meme is the classic reaction of a boss flipping through a sta
 
 ## Demo videos (CDN)
 
-- https://www.makeviral.ai/media/templates/counting-money-meme-ai/example-main-v1.mp4
+- https://media.makeviral.ai/templates/counting-money-meme-ai/example-main-v1.mp4
 
 ## Posters
 
-- https://www.makeviral.ai/media/templates/counting-money-meme-ai/example-main-input.jpg
-- https://www.makeviral.ai/media/templates/counting-money-meme-ai/example-main-poster.jpg
+- https://media.makeviral.ai/templates/counting-money-meme-ai/example-main-input.jpg
+- https://media.makeviral.ai/templates/counting-money-meme-ai/example-main-poster.jpg
 
 ## Prompts
 

@@ -7,13 +7,13 @@ The Zoolander meme is the red carpet stare from the 2001 comedy Zoolander: one m
 
 ## Demo videos (CDN)
 
-- https://www.makeviral.ai/media/templates/zoolander-who-is-she-ai-trend/original-cola-v2.mp4
-- https://www.makeviral.ai/media/templates/zoolander-who-is-she-ai-trend/original-first-v2.mp4
+- https://media.makeviral.ai/templates/zoolander-who-is-she-ai-trend/original-cola-v2.mp4
+- https://media.makeviral.ai/templates/zoolander-who-is-she-ai-trend/original-first-v2.mp4
 
 ## Posters
 
-- https://www.makeviral.ai/media/templates/zoolander-who-is-she-ai-trend/original-cola-v1.jpg
-- https://www.makeviral.ai/media/templates/zoolander-who-is-she-ai-trend/original-first-v1.jpg
+- https://media.makeviral.ai/templates/zoolander-who-is-she-ai-trend/original-cola-v1.jpg
+- https://media.makeviral.ai/templates/zoolander-who-is-she-ai-trend/original-first-v1.jpg
 
 ## Prompts
 

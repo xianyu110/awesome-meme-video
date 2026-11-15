@@ -7,11 +7,11 @@ The mini me AI trend turns one photo into a tiny, doll-size copy of you.
 
 ## Demo videos (CDN)
 
-- https://www.makeviral.ai/media/templates/ai-mini-me-trend/original-ledge-v2.mp4
+- https://media.makeviral.ai/templates/ai-mini-me-trend/original-ledge-v2.mp4
 
 ## Posters
 
-- https://www.makeviral.ai/media/templates/ai-mini-me-trend/original-ledge-v1.jpg
+- https://media.makeviral.ai/templates/ai-mini-me-trend/original-ledge-v1.jpg
 
 ## Prompts
 

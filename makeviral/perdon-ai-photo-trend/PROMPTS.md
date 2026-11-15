@@ -7,11 +7,11 @@ The perdon trend is the TikTok AI vs reality photo trend: first a perfect AI pho
 
 ## Demo videos (CDN)
 
-- https://www.makeviral.ai/media/templates/perdon-ai-photo-trend/original-pet-v2.mp4
+- https://media.makeviral.ai/templates/perdon-ai-photo-trend/original-pet-v2.mp4
 
 ## Posters
 
-- https://www.makeviral.ai/media/templates/perdon-ai-photo-trend/original-pet-v1.jpg
+- https://media.makeviral.ai/templates/perdon-ai-photo-trend/original-pet-v1.jpg
 
 ## Prompts
 

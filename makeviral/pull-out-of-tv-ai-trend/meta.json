@@ -10,11 +10,11 @@
   "published": "2026-10-23",
   "credits": 126,
   "demo_videos": [
-    "https://www.makeviral.ai/media/templates/pull-out-of-tv-ai-trend/example-main-v1.mp4"
+    "https://media.makeviral.ai/templates/pull-out-of-tv-ai-trend/example-main-v1.mp4"
   ],
   "posters": [
-    "https://www.makeviral.ai/media/templates/pull-out-of-tv-ai-trend/example-main-input.jpg",
-    "https://www.makeviral.ai/media/templates/pull-out-of-tv-ai-trend/example-main-poster.jpg"
+    "https://media.makeviral.ai/templates/pull-out-of-tv-ai-trend/example-main-input.jpg",
+    "https://media.makeviral.ai/templates/pull-out-of-tv-ai-trend/example-main-poster.jpg"
   ],
   "prompts": [
     {
@@ -44,5 +44,5 @@
     "Make your own Pull Out of the TV video"
   ],
   "prompt_count": 2,
-  "scraped_at": "2026-11-14"
+  "scraped_at": "2026-11-15"
 }

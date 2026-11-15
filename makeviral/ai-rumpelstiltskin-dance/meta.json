@@ -10,25 +10,25 @@
   "published": "2026-10-08",
   "credits": 228,
   "demo_videos": [
-    "https://www.makeviral.ai/media/templates/ai-rumpelstiltskin-dance/example-wide-s25-body-original.mp4",
-    "https://www.makeviral.ai/media/templates/ai-rumpelstiltskin-dance/example-wide-s25-original-duo.mp4",
-    "https://www.makeviral.ai/media/templates/ai-rumpelstiltskin-dance/example-wide-s25-original.mp4",
-    "https://www.makeviral.ai/media/templates/ai-rumpelstiltskin-dance/example-with-friend.mp4",
-    "https://www.makeviral.ai/media/templates/ai-rumpelstiltskin-dance/example.mp4",
-    "https://www.makeviral.ai/media/templates/ai-rumpelstiltskin-dance/original-original-v1.mp4"
+    "https://media.makeviral.ai/templates/ai-rumpelstiltskin-dance/example-wide-s25-body-original.mp4",
+    "https://media.makeviral.ai/templates/ai-rumpelstiltskin-dance/example-wide-s25-original-duo.mp4",
+    "https://media.makeviral.ai/templates/ai-rumpelstiltskin-dance/example-wide-s25-original.mp4",
+    "https://media.makeviral.ai/templates/ai-rumpelstiltskin-dance/example-with-friend.mp4",
+    "https://media.makeviral.ai/templates/ai-rumpelstiltskin-dance/example.mp4",
+    "https://media.makeviral.ai/templates/ai-rumpelstiltskin-dance/original-original-v1.mp4"
   ],
   "posters": [
-    "https://www.makeviral.ai/media/templates/ai-rumpelstiltskin-dance/example-input.jpg",
-    "https://www.makeviral.ai/media/templates/ai-rumpelstiltskin-dance/example-poster.jpg",
-    "https://www.makeviral.ai/media/templates/ai-rumpelstiltskin-dance/example-s25-body-input.jpg",
-    "https://www.makeviral.ai/media/templates/ai-rumpelstiltskin-dance/example-s25-original-duo-input.jpg",
-    "https://www.makeviral.ai/media/templates/ai-rumpelstiltskin-dance/example-s25-original-input.jpg",
-    "https://www.makeviral.ai/media/templates/ai-rumpelstiltskin-dance/example-wide-s25-body-original-poster.jpg",
-    "https://www.makeviral.ai/media/templates/ai-rumpelstiltskin-dance/example-wide-s25-original-duo-poster.jpg",
-    "https://www.makeviral.ai/media/templates/ai-rumpelstiltskin-dance/example-wide-s25-original-poster.jpg",
-    "https://www.makeviral.ai/media/templates/ai-rumpelstiltskin-dance/example-with-friend-input.jpg",
-    "https://www.makeviral.ai/media/templates/ai-rumpelstiltskin-dance/example-with-friend-poster.jpg",
-    "https://www.makeviral.ai/media/templates/ai-rumpelstiltskin-dance/original-original-v1.jpg"
+    "https://media.makeviral.ai/templates/ai-rumpelstiltskin-dance/example-input.jpg",
+    "https://media.makeviral.ai/templates/ai-rumpelstiltskin-dance/example-poster.jpg",
+    "https://media.makeviral.ai/templates/ai-rumpelstiltskin-dance/example-s25-body-input.jpg",
+    "https://media.makeviral.ai/templates/ai-rumpelstiltskin-dance/example-s25-original-duo-input.jpg",
+    "https://media.makeviral.ai/templates/ai-rumpelstiltskin-dance/example-s25-original-input.jpg",
+    "https://media.makeviral.ai/templates/ai-rumpelstiltskin-dance/example-wide-s25-body-original-poster.jpg",
+    "https://media.makeviral.ai/templates/ai-rumpelstiltskin-dance/example-wide-s25-original-duo-poster.jpg",
+    "https://media.makeviral.ai/templates/ai-rumpelstiltskin-dance/example-wide-s25-original-poster.jpg",
+    "https://media.makeviral.ai/templates/ai-rumpelstiltskin-dance/example-with-friend-input.jpg",
+    "https://media.makeviral.ai/templates/ai-rumpelstiltskin-dance/example-with-friend-poster.jpg",
+    "https://media.makeviral.ai/templates/ai-rumpelstiltskin-dance/original-original-v1.jpg"
   ],
   "prompts": [
     {
@@ -83,5 +83,5 @@
     "Make your own Rumpelstiltskin Dance video"
   ],
   "prompt_count": 6,
-  "scraped_at": "2026-11-14"
+  "scraped_at": "2026-11-15"
 }

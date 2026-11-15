@@ -7,11 +7,11 @@ The bing bing bing kicking trend is the kicking meme of October 2026: two stand 
 
 ## Demo videos (CDN)
 
-- https://www.makeviral.ai/media/templates/bing-bing-bing-kicking-ai-trend/original-pets-v2.mp4
+- https://media.makeviral.ai/templates/bing-bing-bing-kicking-ai-trend/original-pets-v2.mp4
 
 ## Posters
 
-- https://www.makeviral.ai/media/templates/bing-bing-bing-kicking-ai-trend/original-pets-v1.jpg
+- https://media.makeviral.ai/templates/bing-bing-bing-kicking-ai-trend/original-pets-v1.jpg
 
 ## Prompts
 

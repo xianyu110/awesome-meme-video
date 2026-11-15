@@ -7,11 +7,11 @@ The Then I walk in meme is a TikTok trend from autumn 2026: someone sets up a mo
 
 ## Demo videos (CDN)
 
-- https://www.makeviral.ai/media/templates/then-i-walk-in-ai-trend/original-main-v2.mp4
+- https://media.makeviral.ai/templates/then-i-walk-in-ai-trend/original-main-v2.mp4
 
 ## Posters
 
-- https://www.makeviral.ai/media/templates/then-i-walk-in-ai-trend/original-main-v1.jpg
+- https://media.makeviral.ai/templates/then-i-walk-in-ai-trend/original-main-v1.jpg
 
 ## Prompts
 

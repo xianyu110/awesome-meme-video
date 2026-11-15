@@ -7,11 +7,11 @@ The Coldplay kiss cam meme is back as an AI trend.
 
 ## Demo videos (CDN)
 
-- https://www.makeviral.ai/media/templates/coldplay-affair-ai-trend/original-kisscam-v1.mp4
+- https://media.makeviral.ai/templates/coldplay-affair-ai-trend/original-kisscam-v1.mp4
 
 ## Posters
 
-- https://www.makeviral.ai/media/templates/coldplay-affair-ai-trend/original-kisscam-v1.jpg
+- https://media.makeviral.ai/templates/coldplay-affair-ai-trend/original-kisscam-v1.jpg
 
 ## Prompts
 

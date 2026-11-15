@@ -3,7 +3,7 @@
 > The Housewife dance is the TikTok routine to Tate McRae's song "Housewife": a low, wide stance, hip sways, arms thrown up and hands flicked past the face, all with a lot of attitude.
 
 Canonical: https://www.makeviral.ai/templates/housewife-dance-ai-trend
-Updated: 2026-11-06
+Updated: 2026-11-14
 Published: 2026-11-06
 Author: MakeViral Team (https://www.makeviral.ai/about)
 Publisher: MakeViral (https://www.makeviral.ai)
@@ -16,7 +16,7 @@ Also called: Be my own housewife dance, KB choreo Housewife.
 
 **Make it now:** [Make this video](https://www.makeviral.ai/templates/housewife-dance-ai-trend/create). 1 photo · 15 s · 9:16 with sound · 60 credits, charged once · ready in a few minutes · no prompt to write.
 
-Keyword: housewife dance. Also answers: housewife tate mcrae dance, housewife trend, housewife dance trend, housewife trend tiktok, be my own housewife, housewife tate mcrae, housewife dance ai, housewife ai trend, housewife tiktok trend, housewife dance tiktok, housewife pov, housewife pov trend, housewife tiktok dogs, housewife dog dance, housewife cat dance, i just wanna be my own housewife, make a lot of money be my own housewife, housewife dance tutorial, housewife choreography, tate mcrae housewife trend, tate mcrae housewife dance tutorial, housewife dance challenge, housewife ai video, housewife song, housewife tate mcrae song, housewife tate mcrae lyrics, housewife trend instagram, tate mcrae dance trend, kevin bannier housewife.
+Keyword: housewife dance. Also answers: house wife dance, housewife tate mcrae dance, housewife trend, housewife dance trend, housewife trend tiktok, be my own housewife, housewife tate mcrae, housewife dance ai, housewife ai trend, housewife tiktok trend, housewife dance tiktok, housewife pov, housewife pov trend, housewife tiktok dogs, housewife dog dance, housewife cat dance, i just wanna be my own housewife, make a lot of money be my own housewife, housewife dance tutorial, housewife choreography, tate mcrae housewife trend, tate mcrae housewife dance tutorial, housewife dance challenge, housewife ai video, housewife song, housewife tate mcrae song, housewife tate mcrae lyrics, house wife tate mcrae, housewife trend instagram, tate mcrae dance trend, kevin bannier housewife.
 
 ## What is the Housewife Dance trend, and where did it start?
 
@@ -37,8 +37,8 @@ From there the housewife trend split into many routines: three-man versions, dan
 This is the choreographer's own reel, the first big dance post of the trend, not a MakeViral result. Human takes only its moves and plays them with you in the place from your photo. Pet puts your pet into this reel itself, in the same room. No two runs come out the same.
 
 - **Example 1** (35 s, 9:16 MP4 with sound): The original routine by @kevinbannier_: he walks back from the phone on the floor and dances the whole Housewife routine in his blue-lit living room, with the wide stance, the hip sways and the arms thrown up. Human copies its moves; Pet puts your pet into this reel.
-  - Video: https://www.makeviral.ai/media/templates/housewife-dance-ai-trend/original-main-v2.mp4
-  - Poster: https://www.makeviral.ai/media/templates/housewife-dance-ai-trend/original-main-v1.jpg
+  - Video: https://media.makeviral.ai/templates/housewife-dance-ai-trend/original-main-v2.mp4
+  - Poster: https://media.makeviral.ai/templates/housewife-dance-ai-trend/original-main-v1.jpg
 
 ## How to make the Housewife Dance video on MakeViral
 
@@ -160,7 +160,7 @@ Your clip comes with the Housewife song by Tate McRae, the same seconds of it th
 
 ### What is the Housewife dance trend?
 
-It is a TikTok dance trend to Tate McRae's song "Housewife", released on 15 October 2026. Dancers do a sassy routine with a wide stance, hip sways and sharp arm lines to the hook "be my own housewife". The first big routine was posted by the choreographer @kevinbannier_ on 16 October, and by 6 November the song's main sound had 524,800 TikTok videos.
+It is a TikTok dance trend to Tate McRae's song "Housewife", released on 15 October 2026. Dancers do a sassy routine with a wide stance, hip sways and sharp arm lines to the hook "be my own housewife". The first big routine was posted by the choreographer @kevinbannier_ on 16 October, and by 6 November the song's main sound had 524,800 TikTok videos. Many people search for it as the house wife dance, in two words, but the song by Tate McRae is "Housewife", one word.
 
 ### Who made the Housewife dance?
 
@@ -214,12 +214,12 @@ Both versions make about 15 seconds at 720p. Human follows the frame of your pho
 
 ## New AI video trends this week
 
-- [AI Cat Gym Video: Put Your Pet on the Air Walker](https://www.makeviral.ai/templates/ai-cat-gym-video): Add one photo, and your cat or dog stands upright on an outdoor air walker, legs swinging out of control, until it slips off and tumbles to the ground, in the same take as the viral clip, with its original sound. You can take the fall yourself, too.
-- [Jensen Huang AI Video: Take the Wheel Next to the Nvidia CEO](https://www.makeviral.ai/templates/jensen-huang-ai-video): The car clip that started the Jensen Huang AI memes, with you at the wheel. Add one photo, and you (or your pet) drive the Nvidia CEO in his black leather jacket, with the clip's own sound.
-- [Cat Shower AI: Dodge the Water, Dive Under the Blanket](https://www.makeviral.ai/templates/cat-shower-ai-trend): The cat scoops the water, pours it over its head and leans away so not one drop hits it. Then it shivers and runs to bed. Add one photo, and you or your pet take the cat's place, with the trend's own sound.
-- [Tying My Shoes Meme: Put Yourself Behind the Tip Cup](https://www.makeviral.ai/templates/tying-shoes-money-ai-trend): You put your cup down to tie your shoe, and people start dropping cash in it. Add one photo, and you or your pet star in the viral clip, grin and all, with its original sound.
-- [MobLand Dance AI: Do Paul's Dance From One Photo](https://www.makeviral.ai/templates/mobland-paul-dance-ai): Lean in to the camera, step back, then the knee lifts, the little kicks, the shrugs and the hand flicks, with a straight face that keeps breaking into a grin. Add one photo of you or your pet and get the 10 second clip with the music.
-- [Bad Aim Edit AI Trend: Miss the Target, Then Own the Office](https://www.makeviral.ai/templates/bad-aim-edit-ai-trend): You try archery in a grass field and miss the flying target badly. Then a hard cut: a cool black and white office edit in black fight gloves, with a mug, a shh and a walk out the door. Add one photo of you or your pet.
+- [Never Let Her Pay: Pay for Dinner With a Sponge](https://www.makeviral.ai/templates/never-let-her-pay-ai-trend): "I got this." Add one photo, and you play the gentleman in the white dinner jacket who stops his date from paying, opens his pouch to show a kitchen sponge and gets walked to the kitchen to wash the dishes. With the clip's own sound.
+- [Snowman Dance AI: Do the Viral Sia Couple Dance From Two Photos](https://www.makeviral.ai/templates/snowman-dance-ai-trend): Hands behind your backs, a spin under the arm, a quick twirl around each other, and then one of you jumps on the other. Add a photo of you and one of your partner, or of two pets, and get the whole Snowman dance with the song.
+- [Self Hug Sketch: A Giant Pencil Drawing of You Hugs You](https://www.makeviral.ai/templates/self-hug-sketch-ai-trend): Add one photo. You lean on a grey wall while a huge black-and-white pencil sketch of you, drawn on the wall, wraps its arms around you, with "Embrace of my own self" written beside you.
+- [Need for Speed AI Trend: Your Car in the Movie Scene](https://www.makeviral.ai/templates/need-for-speed-ai-trend): Add one photo of your car or truck. AI puts it in the trend's movie-style street scene: it rolls through town, spins burnouts in thick tire smoke while people watch, and rolls away, with the trend's own sound.
+- [Tweenslop AI: Turn One Photo Into a Tweenslop Animation](https://www.makeviral.ai/templates/tweenslop-ai-trend): Your photo becomes a flat cut-out that zooms, squashes, spins and flies with a rainbow trail on every beat of a Brazilian funk track, with white, pink, purple and green flashes. You, your pet or any object.
+- [We Don't Talk Anymore Dance: Do the Viral Freestyle From One Photo](https://www.makeviral.ai/templates/we-dont-talk-anymore-dance-ai-trend): The sped-up "We Don't Talk Anymore" freestyle is all over TikTok. Add one photo, and you dance it on the trend's stage, barefoot on a driveway at night with your shoes in one hand, or your pet takes the stage.
 
 ## Make your own Housewife Dance video
 

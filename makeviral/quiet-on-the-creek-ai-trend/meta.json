@@ -10,14 +10,14 @@
   "published": "2026-11-02",
   "credits": 49,
   "demo_videos": [
-    "https://www.makeviral.ai/media/templates/quiet-on-the-creek-ai-trend/original-duo-v2.mp4",
-    "https://www.makeviral.ai/media/templates/quiet-on-the-creek-ai-trend/original-main-v2.mp4",
-    "https://www.makeviral.ai/media/templates/quiet-on-the-creek-ai-trend/original-pet-v2.mp4"
+    "https://media.makeviral.ai/templates/quiet-on-the-creek-ai-trend/original-duo-v2.mp4",
+    "https://media.makeviral.ai/templates/quiet-on-the-creek-ai-trend/original-main-v2.mp4",
+    "https://media.makeviral.ai/templates/quiet-on-the-creek-ai-trend/original-pet-v2.mp4"
   ],
   "posters": [
-    "https://www.makeviral.ai/media/templates/quiet-on-the-creek-ai-trend/original-duo-v1.jpg",
-    "https://www.makeviral.ai/media/templates/quiet-on-the-creek-ai-trend/original-main-v1.jpg",
-    "https://www.makeviral.ai/media/templates/quiet-on-the-creek-ai-trend/original-pet-v1.jpg"
+    "https://media.makeviral.ai/templates/quiet-on-the-creek-ai-trend/original-duo-v1.jpg",
+    "https://media.makeviral.ai/templates/quiet-on-the-creek-ai-trend/original-main-v1.jpg",
+    "https://media.makeviral.ai/templates/quiet-on-the-creek-ai-trend/original-pet-v1.jpg"
   ],
   "prompts": [
     {
@@ -53,5 +53,5 @@
     "Make your own Quiet on the Creek video"
   ],
   "prompt_count": 3,
-  "scraped_at": "2026-11-14"
+  "scraped_at": "2026-11-15"
 }

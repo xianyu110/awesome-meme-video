@@ -7,11 +7,11 @@ The spiderman pointing meme shows two identical masked heroes pointing at each o
 
 ## Demo videos (CDN)
 
-- https://www.makeviral.ai/media/templates/spiderman-pointing-meme-ai/original-duo-v2.mp4
+- https://media.makeviral.ai/templates/spiderman-pointing-meme-ai/original-duo-v2.mp4
 
 ## Posters
 
-- https://www.makeviral.ai/media/templates/spiderman-pointing-meme-ai/original-duo-v1.jpg
+- https://media.makeviral.ai/templates/spiderman-pointing-meme-ai/original-duo-v1.jpg
 
 ## Prompts
 

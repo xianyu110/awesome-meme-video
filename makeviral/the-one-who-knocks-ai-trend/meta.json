@@ -10,11 +10,11 @@
   "published": "2026-11-04",
   "credits": 126,
   "demo_videos": [
-    "https://www.makeviral.ai/media/templates/the-one-who-knocks-ai-trend/example.mp4"
+    "https://media.makeviral.ai/templates/the-one-who-knocks-ai-trend/example.mp4"
   ],
   "posters": [
-    "https://www.makeviral.ai/media/templates/the-one-who-knocks-ai-trend/example-input.jpg",
-    "https://www.makeviral.ai/media/templates/the-one-who-knocks-ai-trend/example-poster.jpg"
+    "https://media.makeviral.ai/templates/the-one-who-knocks-ai-trend/example-input.jpg",
+    "https://media.makeviral.ai/templates/the-one-who-knocks-ai-trend/example-poster.jpg"
   ],
   "prompts": [
     {
@@ -50,5 +50,5 @@
     "Make your own The One Who Knocks video"
   ],
   "prompt_count": 3,
-  "scraped_at": "2026-11-14"
+  "scraped_at": "2026-11-15"
 }

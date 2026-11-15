@@ -10,11 +10,11 @@
   "published": "2026-10-16",
   "credits": 189,
   "demo_videos": [
-    "https://www.makeviral.ai/media/templates/no-renunciare-ai-trend/example-v1.mp4"
+    "https://media.makeviral.ai/templates/no-renunciare-ai-trend/example-v1.mp4"
   ],
   "posters": [
-    "https://www.makeviral.ai/media/templates/no-renunciare-ai-trend/example-funny-input.jpg",
-    "https://www.makeviral.ai/media/templates/no-renunciare-ai-trend/example-v1-poster.jpg"
+    "https://media.makeviral.ai/templates/no-renunciare-ai-trend/example-funny-input.jpg",
+    "https://media.makeviral.ai/templates/no-renunciare-ai-trend/example-v1-poster.jpg"
   ],
   "prompts": [
     {
@@ -45,5 +45,5 @@
     "Make your own No Renunciaré video"
   ],
   "prompt_count": 2,
-  "scraped_at": "2026-11-14"
+  "scraped_at": "2026-11-15"
 }

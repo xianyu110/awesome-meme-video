@@ -7,11 +7,11 @@ Favorite Rumors About Us is the couple trend of autumn 2026: two people stand st
 
 ## Demo videos (CDN)
 
-- https://www.makeviral.ai/media/templates/favorite-rumors-about-us-ai-trend/original-zhc-v2.mp4
+- https://media.makeviral.ai/templates/favorite-rumors-about-us-ai-trend/original-zhc-v2.mp4
 
 ## Posters
 
-- https://www.makeviral.ai/media/templates/favorite-rumors-about-us-ai-trend/original-zhc-v1.jpg
+- https://media.makeviral.ai/templates/favorite-rumors-about-us-ai-trend/original-zhc-v1.jpg
 
 ## Prompts
 

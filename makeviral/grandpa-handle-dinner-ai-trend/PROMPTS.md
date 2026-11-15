@@ -7,11 +7,11 @@ Grandpa said he'd handle dinner is a TikTok trend from November 2026, also calle
 
 ## Demo videos (CDN)
 
-- https://www.makeviral.ai/media/templates/grandpa-handle-dinner-ai-trend/original-tall-main-v2.mp4
+- https://media.makeviral.ai/templates/grandpa-handle-dinner-ai-trend/original-tall-main-v2.mp4
 
 ## Posters
 
-- https://www.makeviral.ai/media/templates/grandpa-handle-dinner-ai-trend/original-tall-main-v1.jpg
+- https://media.makeviral.ai/templates/grandpa-handle-dinner-ai-trend/original-tall-main-v1.jpg
 
 ## Prompts
 

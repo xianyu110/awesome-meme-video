@@ -10,10 +10,10 @@
   "published": "2026-10-21",
   "credits": 152,
   "demo_videos": [
-    "https://www.makeviral.ai/media/templates/toy-car-to-real-car-ai-trend/original-main-v2.mp4"
+    "https://media.makeviral.ai/templates/toy-car-to-real-car-ai-trend/original-main-v2.mp4"
   ],
   "posters": [
-    "https://www.makeviral.ai/media/templates/toy-car-to-real-car-ai-trend/original-main-v1.jpg"
+    "https://media.makeviral.ai/templates/toy-car-to-real-car-ai-trend/original-main-v1.jpg"
   ],
   "prompts": [
     {
@@ -39,5 +39,5 @@
     "Make your own Toy Car to Real Car video"
   ],
   "prompt_count": 1,
-  "scraped_at": "2026-11-14"
+  "scraped_at": "2026-11-15"
 }

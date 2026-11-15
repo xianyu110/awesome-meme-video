@@ -10,13 +10,13 @@
   "published": "2026-11-13",
   "credits": 228,
   "demo_videos": [
-    "https://www.makeviral.ai/media/templates/bad-aim-edit-ai-trend/example-main-v1.mp4",
-    "https://www.makeviral.ai/media/templates/bad-aim-edit-ai-trend/original-main-v4.mp4"
+    "https://media.makeviral.ai/templates/bad-aim-edit-ai-trend/example-main-v1.mp4",
+    "https://media.makeviral.ai/templates/bad-aim-edit-ai-trend/original-main-v4.mp4"
   ],
   "posters": [
-    "https://www.makeviral.ai/media/templates/bad-aim-edit-ai-trend/example-main-input.jpg",
-    "https://www.makeviral.ai/media/templates/bad-aim-edit-ai-trend/example-main-poster.jpg",
-    "https://www.makeviral.ai/media/templates/bad-aim-edit-ai-trend/original-main-v3.jpg"
+    "https://media.makeviral.ai/templates/bad-aim-edit-ai-trend/example-main-input.jpg",
+    "https://media.makeviral.ai/templates/bad-aim-edit-ai-trend/example-main-poster.jpg",
+    "https://media.makeviral.ai/templates/bad-aim-edit-ai-trend/original-main-v3.jpg"
   ],
   "prompts": [
     {
@@ -45,5 +45,5 @@
     "Make your own Bad Aim Edit video"
   ],
   "prompt_count": 2,
-  "scraped_at": "2026-11-14"
+  "scraped_at": "2026-11-15"
 }

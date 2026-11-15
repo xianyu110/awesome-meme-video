@@ -7,11 +7,11 @@ The shaving cream trend is a TikTok and Instagram selfie joke: you wipe a small 
 
 ## Demo videos (CDN)
 
-- https://www.makeviral.ai/media/templates/shaving-cream-trend/original-car-v2.mp4
+- https://media.makeviral.ai/templates/shaving-cream-trend/original-car-v2.mp4
 
 ## Posters
 
-- https://www.makeviral.ai/media/templates/shaving-cream-trend/original-car-v1.jpg
+- https://media.makeviral.ai/templates/shaving-cream-trend/original-car-v1.jpg
 
 ## Prompts
 

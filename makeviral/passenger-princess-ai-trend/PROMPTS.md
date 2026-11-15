@@ -7,11 +7,11 @@ The passenger princess off duty trend is an AI clip of a capybara couple in a ca
 
 ## Demo videos (CDN)
 
-- https://www.makeviral.ai/media/templates/passenger-princess-ai-trend/original-pets-v2.mp4
+- https://media.makeviral.ai/templates/passenger-princess-ai-trend/original-pets-v2.mp4
 
 ## Posters
 
-- https://www.makeviral.ai/media/templates/passenger-princess-ai-trend/original-pets-v1.jpg
+- https://media.makeviral.ai/templates/passenger-princess-ai-trend/original-pets-v1.jpg
 
 ## Prompts
 

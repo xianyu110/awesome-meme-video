@@ -10,14 +10,14 @@
   "published": "2026-09-30",
   "credits": 128,
   "demo_videos": [
-    "https://www.makeviral.ai/media/templates/ai-crying-video/example-farewell-hijab.mp4",
-    "https://www.makeviral.ai/media/templates/ai-crying-video/example-farewell.mp4"
+    "https://media.makeviral.ai/templates/ai-crying-video/example-farewell-hijab.mp4",
+    "https://media.makeviral.ai/templates/ai-crying-video/example-farewell.mp4"
   ],
   "posters": [
-    "https://www.makeviral.ai/media/templates/ai-crying-video/example-farewell-hijab-input.jpg",
-    "https://www.makeviral.ai/media/templates/ai-crying-video/example-farewell-hijab-poster.jpg",
-    "https://www.makeviral.ai/media/templates/ai-crying-video/example-farewell-input.jpg",
-    "https://www.makeviral.ai/media/templates/ai-crying-video/example-farewell-poster.jpg"
+    "https://media.makeviral.ai/templates/ai-crying-video/example-farewell-hijab-input.jpg",
+    "https://media.makeviral.ai/templates/ai-crying-video/example-farewell-hijab-poster.jpg",
+    "https://media.makeviral.ai/templates/ai-crying-video/example-farewell-input.jpg",
+    "https://media.makeviral.ai/templates/ai-crying-video/example-farewell-poster.jpg"
   ],
   "prompts": [
     {
@@ -58,5 +58,5 @@
     "Make your own AI Crying video"
   ],
   "prompt_count": 4,
-  "scraped_at": "2026-11-14"
+  "scraped_at": "2026-11-15"
 }

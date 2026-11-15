@@ -7,12 +7,12 @@ The police chase AI video is a CapCut trend from Pakistan, early November 2026: 
 
 ## Demo videos (CDN)
 
-- https://www.makeviral.ai/media/templates/police-chase-ai-trend/example.mp4
+- https://media.makeviral.ai/templates/police-chase-ai-trend/example.mp4
 
 ## Posters
 
-- https://www.makeviral.ai/media/templates/police-chase-ai-trend/example-input.jpg
-- https://www.makeviral.ai/media/templates/police-chase-ai-trend/example-poster.jpg
+- https://media.makeviral.ai/templates/police-chase-ai-trend/example-input.jpg
+- https://media.makeviral.ai/templates/police-chase-ai-trend/example-poster.jpg
 
 ## Prompts
 

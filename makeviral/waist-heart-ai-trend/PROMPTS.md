@@ -7,11 +7,11 @@ The waist heart trend follows the bicep heart: you rest one hand on your waist i
 
 ## Demo videos (CDN)
 
-- https://www.makeviral.ai/media/templates/waist-heart-ai-trend/original-main-v2.mp4
+- https://media.makeviral.ai/templates/waist-heart-ai-trend/original-main-v2.mp4
 
 ## Posters
 
-- https://www.makeviral.ai/media/templates/waist-heart-ai-trend/original-main-v1.jpg
+- https://media.makeviral.ai/templates/waist-heart-ai-trend/original-main-v1.jpg
 
 ## Prompts
 

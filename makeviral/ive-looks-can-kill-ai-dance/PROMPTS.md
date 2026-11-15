@@ -7,11 +7,11 @@ The IVE Looks Can Kill dance is the "girl hero" point challenge of IVE's new son
 
 ## Demo videos (CDN)
 
-- https://www.makeviral.ai/media/templates/ive-looks-can-kill-ai-dance/original-cover-v2.mp4
+- https://media.makeviral.ai/templates/ive-looks-can-kill-ai-dance/original-cover-v2.mp4
 
 ## Posters
 
-- https://www.makeviral.ai/media/templates/ive-looks-can-kill-ai-dance/original-cover-v1.jpg
+- https://media.makeviral.ai/templates/ive-looks-can-kill-ai-dance/original-cover-v1.jpg
 
 ## Prompts
 

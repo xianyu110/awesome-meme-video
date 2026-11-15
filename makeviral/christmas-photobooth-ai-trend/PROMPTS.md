@@ -7,11 +7,11 @@ The Christmas photobooth trend is the holiday TikTok format of November 2026: tw
 
 ## Demo videos (CDN)
 
-- https://www.makeviral.ai/media/templates/christmas-photobooth-ai-trend/original-friends-v2.mp4
+- https://media.makeviral.ai/templates/christmas-photobooth-ai-trend/original-friends-v2.mp4
 
 ## Posters
 
-- https://www.makeviral.ai/media/templates/christmas-photobooth-ai-trend/original-friends-v1.jpg
+- https://media.makeviral.ai/templates/christmas-photobooth-ai-trend/original-friends-v1.jpg
 
 ## Prompts
 

@@ -7,13 +7,13 @@ The Come and Get It trend is the rose petal edit of late October 2026: a slow, d
 
 ## Demo videos (CDN)
 
-- https://www.makeviral.ai/media/templates/come-and-get-it-ai-trend/original-main-v2.mp4
-- https://www.makeviral.ai/media/templates/come-and-get-it-ai-trend/original-night-v2.mp4
+- https://media.makeviral.ai/templates/come-and-get-it-ai-trend/original-main-v2.mp4
+- https://media.makeviral.ai/templates/come-and-get-it-ai-trend/original-night-v2.mp4
 
 ## Posters
 
-- https://www.makeviral.ai/media/templates/come-and-get-it-ai-trend/original-main-v1.jpg
-- https://www.makeviral.ai/media/templates/come-and-get-it-ai-trend/original-night-v1.jpg
+- https://media.makeviral.ai/templates/come-and-get-it-ai-trend/original-main-v1.jpg
+- https://media.makeviral.ai/templates/come-and-get-it-ai-trend/original-night-v1.jpg
 
 ## Prompts
 

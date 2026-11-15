@@ -7,11 +7,11 @@ The Toc Toc dance is the viral TikTok dance of autumn 2026: a deadpan dancer hop
 
 ## Demo videos (CDN)
 
-- https://www.makeviral.ai/media/templates/toc-toc-dance-ai-trend/original-pet-v2.mp4
+- https://media.makeviral.ai/templates/toc-toc-dance-ai-trend/original-pet-v2.mp4
 
 ## Posters
 
-- https://www.makeviral.ai/media/templates/toc-toc-dance-ai-trend/original-pet-v1.jpg
+- https://media.makeviral.ai/templates/toc-toc-dance-ai-trend/original-pet-v1.jpg
 
 ## Prompts
 

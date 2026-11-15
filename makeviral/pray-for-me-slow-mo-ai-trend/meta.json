@@ -10,10 +10,10 @@
   "published": "2026-10-25",
   "credits": 213,
   "demo_videos": [
-    "https://www.makeviral.ai/media/templates/pray-for-me-slow-mo-ai-trend/original-ai-v2.mp4"
+    "https://media.makeviral.ai/templates/pray-for-me-slow-mo-ai-trend/original-ai-v2.mp4"
   ],
   "posters": [
-    "https://www.makeviral.ai/media/templates/pray-for-me-slow-mo-ai-trend/original-ai-v1.jpg"
+    "https://media.makeviral.ai/templates/pray-for-me-slow-mo-ai-trend/original-ai-v1.jpg"
   ],
   "prompts": [
     {
@@ -45,5 +45,5 @@
     "Make your own Pray For Me Slow Mo video"
   ],
   "prompt_count": 3,
-  "scraped_at": "2026-11-14"
+  "scraped_at": "2026-11-15"
 }

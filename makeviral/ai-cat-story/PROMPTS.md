@@ -7,12 +7,12 @@ An AI cat story is a short 3D cartoon soap opera where cats walk upright and liv
 
 ## Demo videos (CDN)
 
-- https://www.makeviral.ai/media/templates/ai-cat-story/example-main.mp4
+- https://media.makeviral.ai/templates/ai-cat-story/example-main.mp4
 
 ## Posters
 
-- https://www.makeviral.ai/media/templates/ai-cat-story/example-main-input.jpg
-- https://www.makeviral.ai/media/templates/ai-cat-story/example-main-poster.jpg
+- https://media.makeviral.ai/templates/ai-cat-story/example-main-input.jpg
+- https://media.makeviral.ai/templates/ai-cat-story/example-main-poster.jpg
 
 ## Prompts
 

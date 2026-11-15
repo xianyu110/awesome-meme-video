@@ -7,11 +7,11 @@ The Can I Ride dance is the Can I Ride TikTok dance of October 2026: a short rou
 
 ## Demo videos (CDN)
 
-- https://www.makeviral.ai/media/templates/can-i-ride-dance-ai-trend/original-pet-v2.mp4
+- https://media.makeviral.ai/templates/can-i-ride-dance-ai-trend/original-pet-v2.mp4
 
 ## Posters
 
-- https://www.makeviral.ai/media/templates/can-i-ride-dance-ai-trend/original-pet-v1.jpg
+- https://media.makeviral.ai/templates/can-i-ride-dance-ai-trend/original-pet-v1.jpg
 
 ## Prompts
 

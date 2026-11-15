@@ -7,11 +7,11 @@ The ai aging filter is the "me at every age" trend: one photo becomes a video of
 
 ## Demo videos (CDN)
 
-- https://www.makeviral.ai/media/templates/ai-aging-filter/original-main-v1.mp4
+- https://media.makeviral.ai/templates/ai-aging-filter/original-main-v1.mp4
 
 ## Posters
 
-- https://www.makeviral.ai/media/templates/ai-aging-filter/original-main-v1.jpg
+- https://media.makeviral.ai/templates/ai-aging-filter/original-main-v1.jpg
 
 ## Prompts
 

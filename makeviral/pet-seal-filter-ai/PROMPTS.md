@@ -7,11 +7,11 @@ The seal filter is a TikTok pet trend: your dog or cat sits still for a moment, 
 
 ## Demo videos (CDN)
 
-- https://www.makeviral.ai/media/templates/pet-seal-filter-ai/original-pet-v2.mp4
+- https://media.makeviral.ai/templates/pet-seal-filter-ai/original-pet-v2.mp4
 
 ## Posters
 
-- https://www.makeviral.ai/media/templates/pet-seal-filter-ai/original-pet-v1.jpg
+- https://media.makeviral.ai/templates/pet-seal-filter-ai/original-pet-v1.jpg
 
 ## Prompts
 

@@ -7,12 +7,12 @@ The Hangover Alan trend is a viral TikTok clip from 29 October 2026: at night th
 
 ## Demo videos (CDN)
 
-- https://www.makeviral.ai/media/templates/hangover-alan-ai-trend/example-main-v1.mp4
+- https://media.makeviral.ai/templates/hangover-alan-ai-trend/example-main-v1.mp4
 
 ## Posters
 
-- https://www.makeviral.ai/media/templates/hangover-alan-ai-trend/example-main-input.jpg
-- https://www.makeviral.ai/media/templates/hangover-alan-ai-trend/example-main-poster.jpg
+- https://media.makeviral.ai/templates/hangover-alan-ai-trend/example-main-input.jpg
+- https://media.makeviral.ai/templates/hangover-alan-ai-trend/example-main-poster.jpg
 
 ## Prompts
 

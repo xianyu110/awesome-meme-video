@@ -7,11 +7,11 @@ The you say take me home, I say Dom Perignon trend is a night car clip set to "T
 
 ## Demo videos (CDN)
 
-- https://www.makeviral.ai/media/templates/take-me-home-dom-perignon-ai-trend/original-tall-main-v2.mp4
+- https://media.makeviral.ai/templates/take-me-home-dom-perignon-ai-trend/original-tall-main-v2.mp4
 
 ## Posters
 
-- https://www.makeviral.ai/media/templates/take-me-home-dom-perignon-ai-trend/original-tall-main-v1.jpg
+- https://media.makeviral.ai/templates/take-me-home-dom-perignon-ai-trend/original-tall-main-v1.jpg
 
 ## Prompts
 

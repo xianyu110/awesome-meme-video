@@ -3,7 +3,7 @@
 > The diamond miner meme is the old picture of a miner who gives up one swing before the diamonds.
 
 Canonical: https://www.makeviral.ai/templates/diamond-miner-meme-ai
-Updated: 2026-10-30
+Updated: 2026-11-14
 Published: 2026-10-22
 Author: MakeViral Team (https://www.makeviral.ai/about)
 Publisher: MakeViral (https://www.makeviral.ai)
@@ -16,7 +16,7 @@ Also called: Diamond mining meme, Digging for diamonds meme, Quit before diamond
 
 **Make it now:** [Make this video](https://www.makeviral.ai/templates/diamond-miner-meme-ai/create). 1 photo · 28 s · 9:16 with sound · 191 credits, charged once · ready in up to several minutes · no prompt to write.
 
-Keyword: diamond miner meme. Also answers: diamond miner meme gambling, diamond miner meme template, diamond miner meme generator, mining diamonds meme, diamond miner meme ai, diamond miner meme variations, miner quit before diamonds, diamond mining meme gambling, diamond miner casino meme, diamond miner meme video, meme diamond miner, miner turning back meme, diamond miner gambling meme, miner before diamonds, gambling miner picture, diamond mining meme generator, diamond at the end of the tunnel meme, dimond miner meme, miner about to hit diamonds, miner stopping before diamonds, miner stops before diamonds, diamon miner meme, gambler diamond meme, gambling diamond miner, miner meme, miner turning away from diamonds, meme minatore diamanti, miner meme gambling, keep digging meme diamonds, don't give up diamond mine meme, diamond miner giving up, stop digging diamonds meme, diamond mining meme maker, minero diamantes meme.
+Keyword: diamond miner meme. Also answers: diamond miner meme gambling, diamond miner meme template, diamond miner meme generator, mining diamonds meme, diamond miner meme ai, diamond miner meme variations, miner quit before diamonds, diamond mining meme gambling, diamond miner casino meme, diamond miner meme video, gambling diamond meme, meme diamond miner, diamond gambling meme, miner turning back meme, miner gambling meme, gambling miner meme, miner giving up before diamonds, diamond miner gambling meme, miner before diamonds, miner walking away from diamonds, miner meme diamond, gambler miner meme, miner and diamonds meme, two miners meme, gambling miner, miner close to diamonds, gambling miner picture, man turning away from diamonds, miner before diamonds meme, mining meme no diamonds, meme casino diamantes, miner turning around meme, diamanten meme gambling, two miners digging for diamonds, diamond mining meme generator, diamond at the end of the tunnel meme, dimond miner meme, miner about to hit diamonds, miner stopping before diamonds, miner stops before diamonds, diamon miner meme, gambler diamond meme, casino miner meme, giving up before diamonds, miner photo meme, casino diamond meme, gamble miner meme, betting diamond meme, gambling pickaxe meme, miner meme image, miner casino meme, miner giving up meme, gambling diamond miner, miner meme, miner turning away from diamonds, meme minatore diamanti, miner meme gambling, keep digging meme diamonds, don't give up diamond mine meme, diamond miner giving up, stop digging diamonds meme, diamond mining meme maker, minero diamantes meme.
 
 ## What is the Diamond Miner Meme trend, and where did it start?
 
@@ -24,7 +24,7 @@ The diamond mining meme is years old: a cut-through drawing of two miners, one s
 
 On 19 October 2026 the creator @sixtyrich posted that idea as a cinematic AI short on Instagram, with the caption "это видео знак задуматься" ("this video is a sign to think"). He put his own face on the miner: he digs, gets tired, sits down and scrolls a slot game, a diamond lands in his hand, his phone reads "STOP BEING DISTRACTED." and one more swing opens a wall of diamonds. The reel had 835,700 likes and 1,300 comments by 22 October. He posted it on TikTok ten minutes later, too.
 
-People search it as the digging for diamonds meme, the quit before diamonds meme, the keep digging meme or the stop being distracted video.
+People search it as the digging for diamonds meme, the quit before diamonds meme, the keep digging meme or the stop being distracted video. Spanish searchers also type meme casino diamantes. In German, people type diamanten meme gambling.
 
 ### Diamond Miner Meme trend timeline
 
@@ -38,8 +38,8 @@ People search it as the digging for diamonds meme, the quit before diamonds meme
 This is the original reel, shown in its 4:3 frame on a blurred fill. Your photo replaces the miner, so your video follows the same shots with your face and your own clothes, in the same 4:3 frame. No two runs come out the same.
 
 - **Example 1** (28 s, 9:16 MP4 with sound): The original reel by @sixtyrich (19 October 2026): he digs, quits for a slot game on his phone, gets a diamond, reads "STOP BEING DISTRACTED." and swings into a wall of diamonds. Your video follows the same 9 shots with your face.
-  - Video: https://www.makeviral.ai/media/templates/diamond-miner-meme-ai/original-main-v2.mp4
-  - Poster: https://www.makeviral.ai/media/templates/diamond-miner-meme-ai/original-main-v1.jpg
+  - Video: https://media.makeviral.ai/templates/diamond-miner-meme-ai/original-main-v2.mp4
+  - Poster: https://media.makeviral.ai/templates/diamond-miner-meme-ai/original-main-v1.jpg
 
 ## How to make the Diamond Miner Meme video on MakeViral
 
@@ -118,9 +118,9 @@ This diamond miner meme AI copies the viral reel shot for shot and puts your fac
 
 ## Is this a diamond miner meme generator or a template?
 
-Both, in a way. The classic diamond miner meme template is a still picture you caption. This page is a diamond miner meme generator for video: it makes the moving version, with you as the miner, from one photo and no prompt. Most diamond miner meme variations change the caption; this one changes the face.
+Both, in a way. The classic diamond miner meme template is a still picture you caption. This page is a diamond miner meme generator for video: it makes the moving version, with you as the miner, from one photo and no prompt. Most diamond miner meme variations change the caption; this one changes the face. Some change the ending too, like the mining meme with no diamonds at all, where the miner digs on and finds only dirt.
 
-The gambling twist is the slot game in the miner's eyes, so the clip also works as a diamond miner casino meme or a miner meme gambling joke. Some people call it the gambler diamond meme. The slot game in the video is a generic screen with colored lights: no real casino, no app name, no logo.
+The gambling twist is the slot game in the miner's eyes, so the clip also works as a diamond miner casino meme or a miner meme gambling joke. Some people call it the gambler diamond meme. Many search the whole idea as the gambling diamond meme. Others say the betting diamond meme. Some type the gamble miner meme. In the gambling pickaxe meme, he puts the pickaxe down to bet. The slot game in the video is a generic screen with colored lights: no real casino, no app name, no logo.
 
 Want more meme reels with your face? Try [Phone on the train](https://www.makeviral.ai/templates/phone-on-train-trend), another long reel that you replace the star of, or the [ChatGPT millionaire trend](https://www.makeviral.ai/templates/chatgpt-millionaire-ai-trend).
 
@@ -151,7 +151,7 @@ It is a picture of a miner who gives up one swing before a wall of diamonds, whi
 
 ### Is this the miner before diamonds meme?
 
-Yes, it is the same picture under another name. Some people search for the miner stopping before diamonds, because he gives up one swing too early. In the drawing he is the miner turning away from the diamonds just behind the rock. That is why others call it the miner turning back meme. Some describe it as the diamond at the end of the tunnel meme, and some type it as the dimond miner meme or the diamon miner meme. In Spanish, people search for the meme del minero y los diamantes. In Italian it is the meme minatore diamanti.
+Yes, it is the same picture under another name. Some people search for the miner stopping before diamonds, because he gives up one swing too early. In the drawing he is the miner turning away from the diamonds just behind the rock. That is why others call it the miner turning back meme. Some say the miner turning around meme. Others just describe a man turning away from diamonds. Some describe it as the diamond at the end of the tunnel meme, and some type it as the dimond miner meme or the diamon miner meme. In Spanish, people search for the meme del minero y los diamantes. In Italian it is the meme minatore diamanti.
 
 ### What is the diamond miner meme gambling version?
 
@@ -197,12 +197,12 @@ No. MakeViral is not connected with @sixtyrich. This template copies the shots o
 
 ## New AI video trends this week
 
-- [AI Cat Gym Video: Put Your Pet on the Air Walker](https://www.makeviral.ai/templates/ai-cat-gym-video): Add one photo, and your cat or dog stands upright on an outdoor air walker, legs swinging out of control, until it slips off and tumbles to the ground, in the same take as the viral clip, with its original sound. You can take the fall yourself, too.
-- [Jensen Huang AI Video: Take the Wheel Next to the Nvidia CEO](https://www.makeviral.ai/templates/jensen-huang-ai-video): The car clip that started the Jensen Huang AI memes, with you at the wheel. Add one photo, and you (or your pet) drive the Nvidia CEO in his black leather jacket, with the clip's own sound.
-- [Cat Shower AI: Dodge the Water, Dive Under the Blanket](https://www.makeviral.ai/templates/cat-shower-ai-trend): The cat scoops the water, pours it over its head and leans away so not one drop hits it. Then it shivers and runs to bed. Add one photo, and you or your pet take the cat's place, with the trend's own sound.
-- [Tying My Shoes Meme: Put Yourself Behind the Tip Cup](https://www.makeviral.ai/templates/tying-shoes-money-ai-trend): You put your cup down to tie your shoe, and people start dropping cash in it. Add one photo, and you or your pet star in the viral clip, grin and all, with its original sound.
-- [MobLand Dance AI: Do Paul's Dance From One Photo](https://www.makeviral.ai/templates/mobland-paul-dance-ai): Lean in to the camera, step back, then the knee lifts, the little kicks, the shrugs and the hand flicks, with a straight face that keeps breaking into a grin. Add one photo of you or your pet and get the 10 second clip with the music.
-- [Bad Aim Edit AI Trend: Miss the Target, Then Own the Office](https://www.makeviral.ai/templates/bad-aim-edit-ai-trend): You try archery in a grass field and miss the flying target badly. Then a hard cut: a cool black and white office edit in black fight gloves, with a mug, a shh and a walk out the door. Add one photo of you or your pet.
+- [Never Let Her Pay: Pay for Dinner With a Sponge](https://www.makeviral.ai/templates/never-let-her-pay-ai-trend): "I got this." Add one photo, and you play the gentleman in the white dinner jacket who stops his date from paying, opens his pouch to show a kitchen sponge and gets walked to the kitchen to wash the dishes. With the clip's own sound.
+- [Snowman Dance AI: Do the Viral Sia Couple Dance From Two Photos](https://www.makeviral.ai/templates/snowman-dance-ai-trend): Hands behind your backs, a spin under the arm, a quick twirl around each other, and then one of you jumps on the other. Add a photo of you and one of your partner, or of two pets, and get the whole Snowman dance with the song.
+- [Self Hug Sketch: A Giant Pencil Drawing of You Hugs You](https://www.makeviral.ai/templates/self-hug-sketch-ai-trend): Add one photo. You lean on a grey wall while a huge black-and-white pencil sketch of you, drawn on the wall, wraps its arms around you, with "Embrace of my own self" written beside you.
+- [Need for Speed AI Trend: Your Car in the Movie Scene](https://www.makeviral.ai/templates/need-for-speed-ai-trend): Add one photo of your car or truck. AI puts it in the trend's movie-style street scene: it rolls through town, spins burnouts in thick tire smoke while people watch, and rolls away, with the trend's own sound.
+- [Tweenslop AI: Turn One Photo Into a Tweenslop Animation](https://www.makeviral.ai/templates/tweenslop-ai-trend): Your photo becomes a flat cut-out that zooms, squashes, spins and flies with a rainbow trail on every beat of a Brazilian funk track, with white, pink, purple and green flashes. You, your pet or any object.
+- [We Don't Talk Anymore Dance: Do the Viral Freestyle From One Photo](https://www.makeviral.ai/templates/we-dont-talk-anymore-dance-ai-trend): The sped-up "We Don't Talk Anymore" freestyle is all over TikTok. Add one photo, and you dance it on the trend's stage, barefoot on a driveway at night with your shoes in one hand, or your pet takes the stage.
 
 ## Make your own Diamond Miner Meme video
 

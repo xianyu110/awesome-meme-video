@@ -7,14 +7,14 @@ The wassup in a minute trend is the TikTok edit where hand-drawn anime character
 
 ## Demo videos (CDN)
 
-- https://www.makeviral.ai/media/templates/wassup-in-a-minute-ai-trend/example-main.mp4
-- https://www.makeviral.ai/media/templates/wassup-in-a-minute-ai-trend/original-duo-v2.mp4
+- https://media.makeviral.ai/templates/wassup-in-a-minute-ai-trend/example-main.mp4
+- https://media.makeviral.ai/templates/wassup-in-a-minute-ai-trend/original-duo-v2.mp4
 
 ## Posters
 
-- https://www.makeviral.ai/media/templates/wassup-in-a-minute-ai-trend/example-main-input.jpg
-- https://www.makeviral.ai/media/templates/wassup-in-a-minute-ai-trend/example-main-poster.jpg
-- https://www.makeviral.ai/media/templates/wassup-in-a-minute-ai-trend/original-duo-v1.jpg
+- https://media.makeviral.ai/templates/wassup-in-a-minute-ai-trend/example-main-input.jpg
+- https://media.makeviral.ai/templates/wassup-in-a-minute-ai-trend/example-main-poster.jpg
+- https://media.makeviral.ai/templates/wassup-in-a-minute-ai-trend/original-duo-v1.jpg
 
 ## Prompts
 

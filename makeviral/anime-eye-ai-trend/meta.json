@@ -10,11 +10,11 @@
   "published": "2026-10-20",
   "credits": 3,
   "demo_videos": [
-    "https://www.makeviral.ai/media/templates/anime-eye-ai-trend/example-v1.mp4"
+    "https://media.makeviral.ai/templates/anime-eye-ai-trend/example-v1.mp4"
   ],
   "posters": [
-    "https://www.makeviral.ai/media/templates/anime-eye-ai-trend/example-v1-input.jpg",
-    "https://www.makeviral.ai/media/templates/anime-eye-ai-trend/example-v1-poster.jpg"
+    "https://media.makeviral.ai/templates/anime-eye-ai-trend/example-v1-input.jpg",
+    "https://media.makeviral.ai/templates/anime-eye-ai-trend/example-v1-poster.jpg"
   ],
   "prompts": [
     {
@@ -49,5 +49,5 @@
     "Make your own Anime Face Trend photo"
   ],
   "prompt_count": 3,
-  "scraped_at": "2026-11-14"
+  "scraped_at": "2026-11-15"
 }

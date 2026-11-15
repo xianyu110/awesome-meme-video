@@ -7,13 +7,13 @@ The AI doodle dance partner is a TikTok dance trend from October 2026.
 
 ## Demo videos (CDN)
 
-- https://www.makeviral.ai/media/templates/ai-doodle-dance-partner/original-life-v2.mp4
-- https://www.makeviral.ai/media/templates/ai-doodle-dance-partner/original-main-v2.mp4
+- https://media.makeviral.ai/templates/ai-doodle-dance-partner/original-life-v2.mp4
+- https://media.makeviral.ai/templates/ai-doodle-dance-partner/original-main-v2.mp4
 
 ## Posters
 
-- https://www.makeviral.ai/media/templates/ai-doodle-dance-partner/original-life-v1.jpg
-- https://www.makeviral.ai/media/templates/ai-doodle-dance-partner/original-main-v1.jpg
+- https://media.makeviral.ai/templates/ai-doodle-dance-partner/original-life-v1.jpg
+- https://media.makeviral.ai/templates/ai-doodle-dance-partner/original-main-v1.jpg
 
 ## Prompts
 

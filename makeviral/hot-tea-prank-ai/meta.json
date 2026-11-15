@@ -10,12 +10,12 @@
   "published": "2026-10-22",
   "credits": 259,
   "demo_videos": [
-    "https://www.makeviral.ai/media/templates/hot-tea-prank-ai/original-pet-v2.mp4",
-    "https://www.makeviral.ai/media/templates/hot-tea-prank-ai/original-tea-v2.mp4"
+    "https://media.makeviral.ai/templates/hot-tea-prank-ai/original-pet-v2.mp4",
+    "https://media.makeviral.ai/templates/hot-tea-prank-ai/original-tea-v2.mp4"
   ],
   "posters": [
-    "https://www.makeviral.ai/media/templates/hot-tea-prank-ai/original-pet-v1.jpg",
-    "https://www.makeviral.ai/media/templates/hot-tea-prank-ai/original-tea-v1.jpg"
+    "https://media.makeviral.ai/templates/hot-tea-prank-ai/original-pet-v1.jpg",
+    "https://media.makeviral.ai/templates/hot-tea-prank-ai/original-tea-v1.jpg"
   ],
   "prompts": [
     {
@@ -74,5 +74,5 @@
     "Make your own Hot Tea Prank AI video"
   ],
   "prompt_count": 7,
-  "scraped_at": "2026-11-14"
+  "scraped_at": "2026-11-15"
 }

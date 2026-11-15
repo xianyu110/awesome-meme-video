@@ -10,13 +10,13 @@
   "published": "2026-11-06",
   "credits": 189,
   "demo_videos": [
-    "https://www.makeviral.ai/media/templates/i-love-the-smiths-ai-trend/example.mp4",
-    "https://www.makeviral.ai/media/templates/i-love-the-smiths-ai-trend/original-scene-v2.mp4"
+    "https://media.makeviral.ai/templates/i-love-the-smiths-ai-trend/example.mp4",
+    "https://media.makeviral.ai/templates/i-love-the-smiths-ai-trend/original-scene-v2.mp4"
   ],
   "posters": [
-    "https://www.makeviral.ai/media/templates/i-love-the-smiths-ai-trend/example-input.jpg",
-    "https://www.makeviral.ai/media/templates/i-love-the-smiths-ai-trend/example-poster.jpg",
-    "https://www.makeviral.ai/media/templates/i-love-the-smiths-ai-trend/original-scene-v1.jpg"
+    "https://media.makeviral.ai/templates/i-love-the-smiths-ai-trend/example-input.jpg",
+    "https://media.makeviral.ai/templates/i-love-the-smiths-ai-trend/example-poster.jpg",
+    "https://media.makeviral.ai/templates/i-love-the-smiths-ai-trend/original-scene-v1.jpg"
   ],
   "prompts": [
     {
@@ -60,5 +60,5 @@
     "Make your own I Love The Smiths video"
   ],
   "prompt_count": 4,
-  "scraped_at": "2026-11-14"
+  "scraped_at": "2026-11-15"
 }

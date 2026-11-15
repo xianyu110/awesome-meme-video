@@ -7,15 +7,15 @@ The Tecktonik dance is the 2000s French electro dance, all sharp arm moves, that
 
 ## Demo videos (CDN)
 
-- https://www.makeviral.ai/media/templates/ai-stage-dance-trend/original-main-v2.mp4
-- https://www.makeviral.ai/media/templates/ai-stage-dance-trend/original-paris-v2.mp4
-- https://www.makeviral.ai/media/templates/ai-stage-dance-trend/original-pet-v2.mp4
+- https://media.makeviral.ai/templates/ai-stage-dance-trend/original-main-v2.mp4
+- https://media.makeviral.ai/templates/ai-stage-dance-trend/original-paris-v2.mp4
+- https://media.makeviral.ai/templates/ai-stage-dance-trend/original-pet-v2.mp4
 
 ## Posters
 
-- https://www.makeviral.ai/media/templates/ai-stage-dance-trend/original-main-v1.jpg
-- https://www.makeviral.ai/media/templates/ai-stage-dance-trend/original-paris-v1.jpg
-- https://www.makeviral.ai/media/templates/ai-stage-dance-trend/original-pet-v1.jpg
+- https://media.makeviral.ai/templates/ai-stage-dance-trend/original-main-v1.jpg
+- https://media.makeviral.ai/templates/ai-stage-dance-trend/original-paris-v1.jpg
+- https://media.makeviral.ai/templates/ai-stage-dance-trend/original-pet-v1.jpg
 
 ## Prompts
 

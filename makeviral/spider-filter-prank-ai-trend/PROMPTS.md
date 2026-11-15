@@ -7,11 +7,11 @@ The spider filter prank is the TikTok prank where a big hairy spider appears on 
 
 ## Demo videos (CDN)
 
-- https://www.makeviral.ai/media/templates/spider-filter-prank-ai-trend/original-clip-v2.mp4
+- https://media.makeviral.ai/templates/spider-filter-prank-ai-trend/original-clip-v2.mp4
 
 ## Posters
 
-- https://www.makeviral.ai/media/templates/spider-filter-prank-ai-trend/original-clip-v1.jpg
+- https://media.makeviral.ai/templates/spider-filter-prank-ai-trend/original-clip-v1.jpg
 
 ## Prompts
 

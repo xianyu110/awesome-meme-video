@@ -7,11 +7,11 @@ The Venom car trend is a TikTok AI edit: a glossy black liquid, like the symbiot
 
 ## Demo videos (CDN)
 
-- https://www.makeviral.ai/media/templates/venom-car-ai-trend/original-main-v2.mp4
+- https://media.makeviral.ai/templates/venom-car-ai-trend/original-main-v2.mp4
 
 ## Posters
 
-- https://www.makeviral.ai/media/templates/venom-car-ai-trend/original-main-v1.jpg
+- https://media.makeviral.ai/templates/venom-car-ai-trend/original-main-v1.jpg
 
 ## Prompts
 

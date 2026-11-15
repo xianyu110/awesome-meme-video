@@ -7,12 +7,12 @@ The Ballon d'Or AI filter is the football prank of awards week: an AI video wher
 
 ## Demo videos (CDN)
 
-- https://www.makeviral.ai/media/templates/ballon-dor-ai-prank/example-main.mp4
+- https://media.makeviral.ai/templates/ballon-dor-ai-prank/example-main.mp4
 
 ## Posters
 
-- https://www.makeviral.ai/media/templates/ballon-dor-ai-prank/example-main-input.jpg
-- https://www.makeviral.ai/media/templates/ballon-dor-ai-prank/example-main-poster.jpg
+- https://media.makeviral.ai/templates/ballon-dor-ai-prank/example-main-input.jpg
+- https://media.makeviral.ai/templates/ballon-dor-ai-prank/example-main-poster.jpg
 
 ## Prompts
 

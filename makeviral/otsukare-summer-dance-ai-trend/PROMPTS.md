@@ -7,11 +7,11 @@ The Otsukare Summer dance is the TikTok routine to the line "大丈Vでしょ" (
 
 ## Demo videos (CDN)
 
-- https://www.makeviral.ai/media/templates/daijoubu-dance-ai-trend/original-pet-v2.mp4
+- https://media.makeviral.ai/templates/daijoubu-dance-ai-trend/original-pet-v2.mp4
 
 ## Posters
 
-- https://www.makeviral.ai/media/templates/daijoubu-dance-ai-trend/original-pet-v1.jpg
+- https://media.makeviral.ai/templates/daijoubu-dance-ai-trend/original-pet-v1.jpg
 
 ## Prompts
 

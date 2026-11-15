@@ -7,11 +7,11 @@ The November 1st Christmas meme is a couple skit: one partner calmly takes a dri
 
 ## Demo videos (CDN)
 
-- https://www.makeviral.ai/media/templates/christmas-lights-wife-ai-trend/original-main-v2.mp4
+- https://media.makeviral.ai/templates/christmas-lights-wife-ai-trend/original-main-v2.mp4
 
 ## Posters
 
-- https://www.makeviral.ai/media/templates/christmas-lights-wife-ai-trend/original-main-v1.jpg
+- https://media.makeviral.ai/templates/christmas-lights-wife-ai-trend/original-main-v1.jpg
 
 ## Prompts
 

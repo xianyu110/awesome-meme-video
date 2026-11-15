@@ -7,12 +7,12 @@ The Careless Whisper car meme is one fixed dash-cam shot of three friends in a c
 
 ## Demo videos (CDN)
 
-- https://www.makeviral.ai/media/templates/careless-whisper-car-meme/example-main-v1.mp4
+- https://media.makeviral.ai/templates/careless-whisper-car-meme/example-main-v1.mp4
 
 ## Posters
 
-- https://www.makeviral.ai/media/templates/careless-whisper-car-meme/example-main-input.jpg
-- https://www.makeviral.ai/media/templates/careless-whisper-car-meme/example-main-poster.jpg
+- https://media.makeviral.ai/templates/careless-whisper-car-meme/example-main-input.jpg
+- https://media.makeviral.ai/templates/careless-whisper-car-meme/example-main-poster.jpg
 
 ## Prompts
 

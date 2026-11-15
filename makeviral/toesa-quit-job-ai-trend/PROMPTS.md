@@ -7,11 +7,11 @@ I'm gonna TOESA (퇴사할게여, "I'm going to quit my job") is SOYEON's office
 
 ## Demo videos (CDN)
 
-- https://www.makeviral.ai/media/templates/toesa-quit-job-ai-trend/original-main-v2.mp4
+- https://media.makeviral.ai/templates/toesa-quit-job-ai-trend/original-main-v2.mp4
 
 ## Posters
 
-- https://www.makeviral.ai/media/templates/toesa-quit-job-ai-trend/original-main-v1.jpg
+- https://media.makeviral.ai/templates/toesa-quit-job-ai-trend/original-main-v1.jpg
 
 ## Prompts
 

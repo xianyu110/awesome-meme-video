@@ -7,13 +7,13 @@ The Damon Salvatore AI trend puts your face on Damon Salvatore in his best-known
 
 ## Demo videos (CDN)
 
-- https://www.makeviral.ai/media/templates/damon-salvatore-ai-trend/original-tall-main-v2.mp4
-- https://www.makeviral.ai/media/templates/damon-salvatore-ai-trend/original-tall-smirk-v2.mp4
+- https://media.makeviral.ai/templates/damon-salvatore-ai-trend/original-tall-main-v2.mp4
+- https://media.makeviral.ai/templates/damon-salvatore-ai-trend/original-tall-smirk-v2.mp4
 
 ## Posters
 
-- https://www.makeviral.ai/media/templates/damon-salvatore-ai-trend/original-tall-main-v1.jpg
-- https://www.makeviral.ai/media/templates/damon-salvatore-ai-trend/original-tall-smirk-v1.jpg
+- https://media.makeviral.ai/templates/damon-salvatore-ai-trend/original-tall-main-v1.jpg
+- https://media.makeviral.ai/templates/damon-salvatore-ai-trend/original-tall-smirk-v1.jpg
 
 ## Prompts
 

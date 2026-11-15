@@ -7,13 +7,13 @@ The stones to castle AI trend is a viral AI reel of an old saying: build a castl
 
 ## Demo videos (CDN)
 
-- https://www.makeviral.ai/media/templates/stones-to-castle-ai-trend/original-gown-v2.mp4
-- https://www.makeviral.ai/media/templates/stones-to-castle-ai-trend/original-main-v2.mp4
+- https://media.makeviral.ai/templates/stones-to-castle-ai-trend/original-gown-v2.mp4
+- https://media.makeviral.ai/templates/stones-to-castle-ai-trend/original-main-v2.mp4
 
 ## Posters
 
-- https://www.makeviral.ai/media/templates/stones-to-castle-ai-trend/original-gown-v1.jpg
-- https://www.makeviral.ai/media/templates/stones-to-castle-ai-trend/original-main-v1.jpg
+- https://media.makeviral.ai/templates/stones-to-castle-ai-trend/original-gown-v1.jpg
+- https://media.makeviral.ai/templates/stones-to-castle-ai-trend/original-main-v1.jpg
 
 ## Prompts
 

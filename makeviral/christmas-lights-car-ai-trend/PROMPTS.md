@@ -7,15 +7,15 @@ The Christmas lights on car trend shows a car wrapped in glowing string lights.
 
 ## Demo videos (CDN)
 
-- https://www.makeviral.ai/media/templates/christmas-lights-car-ai-trend/original-champagne-v2.mp4
-- https://www.makeviral.ai/media/templates/christmas-lights-car-ai-trend/original-full-v2.mp4
-- https://www.makeviral.ai/media/templates/christmas-lights-car-ai-trend/original-main-v2.mp4
+- https://media.makeviral.ai/templates/christmas-lights-car-ai-trend/original-champagne-v2.mp4
+- https://media.makeviral.ai/templates/christmas-lights-car-ai-trend/original-full-v2.mp4
+- https://media.makeviral.ai/templates/christmas-lights-car-ai-trend/original-main-v2.mp4
 
 ## Posters
 
-- https://www.makeviral.ai/media/templates/christmas-lights-car-ai-trend/original-champagne-v1.jpg
-- https://www.makeviral.ai/media/templates/christmas-lights-car-ai-trend/original-full-v1.jpg
-- https://www.makeviral.ai/media/templates/christmas-lights-car-ai-trend/original-main-v1.jpg
+- https://media.makeviral.ai/templates/christmas-lights-car-ai-trend/original-champagne-v1.jpg
+- https://media.makeviral.ai/templates/christmas-lights-car-ai-trend/original-full-v1.jpg
+- https://media.makeviral.ai/templates/christmas-lights-car-ai-trend/original-main-v1.jpg
 
 ## Prompts
 

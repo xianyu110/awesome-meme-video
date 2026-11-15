@@ -3,7 +3,7 @@
 > The Just a Lil Bit dance is a TikTok trio dance: three friends groove side by side, in sync, to the hook of the 50 Cent song.
 
 Canonical: https://www.makeviral.ai/templates/just-a-lil-bit-ai-dance
-Updated: 2026-10-29
+Updated: 2026-11-14
 Published: 2026-10-29
 Author: MakeViral Team (https://www.makeviral.ai/about)
 Publisher: MakeViral (https://www.makeviral.ai)
@@ -16,7 +16,7 @@ Also called: Lil Bit dance, Just a Lil Bit challenge, 50 Cent Just a Lil Bit dan
 
 **Make it now:** [Make this video](https://www.makeviral.ai/templates/just-a-lil-bit-ai-dance/create). 1 photo · 15 s · 9:16 with sound · 228 credits, charged once · ready in up to several minutes · no prompt to write.
 
-Keyword: just a lil bit dance. Also answers: just a lil bit dance tiktok, just a lil bit trend, just a little bit dance, just a lil bit ai dance, just a lil bit dance trend, just a lil bit tiktok dance, just a lil bit dance tutorial, just a lil bit 50 cent tiktok dance, just a little bit trend, just a lil bit dance choreography, just a little bit dance tiktok, just a lil bit dance original, just a lil bit dance meme, 50 cent dance trend, just a lil bit ai, just a little bit ai, just a lil bit 50 cent tiktok, 50 cent dance tiktok, just a lil bit tiktok, just a lil bit dance instagram, just a little bit dance video, just a little bit dance meme, cale brown just a lil bit, 50 cent just a lil bit dance tutorial, just a little bit dance tutorial, just a little bit dance choreography, just a lil bit dance guy, just a little bit dance original, 50 cent dance video, just a lil bit dance with friends, just a lil bit trio dance, just a little bit tiktok.
+Keyword: just a lil bit dance. Also answers: just a lil bit dance tiktok, just a lil bit trend, just a little bit dance, just a lil bit ai dance, just a lil bit dance trend, just a lil bit tiktok dance, just a lil bit dance tutorial, just a lil bit 50 cent tiktok dance, just a little bit trend, just a lil bit dance choreography, just a little bit dance tiktok, just a lil bit dance original, just a lil bit dance meme, 50 cent dance trend, just a lil bit ai, just a little bit ai, just a lil bit 50 cent tiktok, 50 cent dance tiktok, just a lil bit tiktok, just a lil bit dance instagram, just a little bit dance video, just a little bit dance meme, cale brown just a lil bit, 50 cent just a lil bit dance tutorial, just a little bit dance tutorial, just a little bit dance choreography, just a lil bit dance guy, just a little bit dance original, 50 cent dance video, just a lil bit dance with friends, just a lil bit trio dance, just a little bit tiktok, just a lil bit dance cat, just a lil bit dance dog.
 
 ## What is the Just a Lil Bit Dance trend, and where did it start?
 
@@ -38,8 +38,11 @@ Other routines use the same song. A duo by @lisiandfabi from 30 October 2025 (22
 This is the creator's own reel with real people, shown with credit. Your video copies its court, camera and moves with the faces and clothes from your photos.
 
 - **Example 1** (15 s, 9:16 MP4 with sound): The original reel by @calebrownn: three dancers in dark streetwear stand with their heads down, then bounce, tap and kick in sync on a rain-wet court to the Just a Lil Bit hook. All three versions copy this reel.
-  - Video: https://www.makeviral.ai/media/templates/just-a-lil-bit-ai-dance/original-main-v2.mp4
-  - Poster: https://www.makeviral.ai/media/templates/just-a-lil-bit-ai-dance/original-main-v1.jpg
+  - Video: https://media.makeviral.ai/templates/just-a-lil-bit-ai-dance/original-main-v2.mp4
+  - Poster: https://media.makeviral.ai/templates/just-a-lil-bit-ai-dance/original-main-v1.jpg
+- **Example 2** (15 s, 9:16 MP4 with sound): An AI pet version by @armasdogworld (TikTok, 3 November 2026): three kittens in caps walk onto the same rain-wet court, then bounce, tap and kick in sync to the Just a Lil Bit hook. The Pet versions put your own pet in the dancers' places.
+  - Video: https://media.makeviral.ai/templates/just-a-lil-bit-ai-dance/original-pet-v2.mp4
+  - Poster: https://media.makeviral.ai/templates/just-a-lil-bit-ai-dance/original-pet-v1.jpg
 
 ## How to make the Just a Lil Bit Dance video on MakeViral
 
@@ -139,6 +142,60 @@ Anatomy rules: one head per person, on that person's own shoulders. A face never
 
 One-tap version of this variant: https://www.makeviral.ai/templates/just-a-lil-bit-ai-dance/create?variant=trio
 
+#### Variant: Pet
+
+Settings: 1 photo (your pet, whole body) · Seedance 2.5 · 15 s · 720p · 9:16 · no sound · 228 credits in one tap.
+
+1. The video prompt is filled in. Settings: Seedance 2.5, 15 s, 720p, 9:16, sound off. The video prompt:
+
+   ```text
+   Recreate the reference video [Video 1] shot for shot: the same rain-wet outdoor court on a grey overcast day, the green mesh fence, the autumn trees with orange and yellow leaves behind it, the dancers' reflections in the wet ground, the same fixed phone camera, framing, timing and dance moves. One continuous shot, no cuts. The ONLY change: all three dancers are now the pet in [Image 1], like three clones of the same pet dancing in sync.
+
+[Image 1] replaces the man in the middle, the man on the left and the man on the right, in EVERY frame, the WHOLE body, not just the head: each of the three is the same species and breed, face, eyes, ears, muzzle, fur colors, fur length and markings as in [Image 1], with the natural body volume and proportions of that animal: never flattened, squashed, stretched or merged with anything, so its owner instantly recognizes it. It stands upright on its hind legs and dances with its front paws, with no cap, beanie, T-shirt, jacket or track top unless [Image 1] shows them.
+
+The same pet three times, from the first second to the last, so its owner recognizes it at once, also when the heads are bowed at the start. Never morph, never drift back to the original dancers. No person from the video stays: no human face, hands, clothes or shoes. If [Image 1] shows a person, all three dancers are that person, with their own face and clothes.
+
+The dance, matching the reference second by second, on the beat, all three dancers in perfect sync, each standing upright on its two hind legs: small bounces, hind-paw taps, a loose shoulder groove, a forward kick and the front-paw moves that match the hand moves in the clip. Do not invent additional moves.
+0-2 s: the three stand side by side, heads down, a small bounce.
+2-7 s: small steps and hind-paw taps, the front paws loose by the belly, a shoulder groove.
+7-10 s: the front paws swing up to the chest, then one hind leg kicks forward and they lean into it.
+10-15 s: a low groove with paw taps and the front paws at the chest, then one front paw comes up by the head at the end.
+
+Anatomy rules: each pet has one head, one tail, two hind legs on the ground and two front legs with paws: no human hands, no human face, no human body. Exactly three dancers. Natural balance, stable ground contact, the reflections follow the pets. No extra dancers, duplicate bodies, extra limbs, text, logos or watermark, and no cap, beanie or clothes unless the photo shows them.
+   ```
+
+2. Press Generate, then download the 9:16 MP4.
+
+One-tap version of this variant: https://www.makeviral.ai/templates/just-a-lil-bit-ai-dance/create?variant=pet
+
+#### Variant: Two pets
+
+Settings: 2 photos (pet 1, in the middle + pet 2, on both sides) · Seedance 2.5 · 15 s · 720p · 9:16 · no sound · 228 credits in one tap.
+
+1. The video prompt is filled in. Settings: Seedance 2.5, 15 s, 720p, 9:16, sound off. The video prompt:
+
+   ```text
+   Recreate the reference video [Video 1] shot for shot: the same rain-wet outdoor court on a grey overcast day, the green mesh fence, the autumn trees with orange and yellow leaves behind it, the dancers' reflections in the wet ground, the same fixed phone camera, framing, timing and dance moves. One continuous shot, no cuts. The ONLY change: the dancer in the middle is now the pet in [Image 1], and the two dancers on the left and on the right are both the pet in [Image 2], like twins.
+
+Middle = the pet in [Image 1], in EVERY frame, the WHOLE body, not just the head: the same species and breed, face, eyes, ears, muzzle, fur colors, fur length and markings as in [Image 1], with the natural body volume and proportions of that animal: never flattened, squashed, stretched or merged with anything, so its owner instantly recognizes it. It stands upright on its hind legs and dances with its front paws, with no cap, beanie, T-shirt, jacket or track top unless [Image 1] shows them.
+
+Left and right = the pet in [Image 2], in EVERY frame, the WHOLE body, not just the head: both are the same species and breed, face, eyes, ears, muzzle, fur colors, fur length and markings as in [Image 2], with the natural body volume and proportions of that animal: never flattened, squashed, stretched or merged with anything, so its owner instantly recognizes it. It stands upright on its hind legs and dances with its front paws, with no cap, beanie, T-shirt, jacket or track top unless [Image 2] shows them.
+
+The same pets in every frame, so their owner recognizes them at once, also when the heads are bowed at the start. Never morph, never mix the two pets: [Image 1] is only the middle dancer, [Image 2] only the two side dancers. All three change: no person from the video stays, no human face, hands, clothes or shoes. If a photo shows a person, that person takes those places with their own face and clothes.
+
+The dance, matching the reference second by second, on the beat, all three dancers in perfect sync, each standing upright on its two hind legs: small bounces, hind-paw taps, a loose shoulder groove, a forward kick and the front-paw moves that match the hand moves in the clip. Do not invent additional moves.
+0-2 s: the three stand side by side, heads down, a small bounce.
+2-7 s: small steps and hind-paw taps, the front paws loose by the belly, a shoulder groove.
+7-10 s: the front paws swing up to the chest, then one hind leg kicks forward and they lean into it.
+10-15 s: a low groove with paw taps and the front paws at the chest, then one front paw comes up by the head at the end.
+
+Anatomy rules: each pet has one head, one tail, two hind legs on the ground and two front legs with paws: no human hands, no human face, no human body. Exactly three dancers. Natural balance, stable ground contact, the reflections follow the pets. No extra dancers, duplicate bodies, extra limbs, text, logos or watermark, and no cap, beanie or clothes unless the photo shows them.
+   ```
+
+2. Press Generate, then download the 9:16 MP4.
+
+One-tap version of this variant: https://www.makeviral.ai/templates/just-a-lil-bit-ai-dance/create?variant=pets
+
 ### Which photo works best?
 
 You need **one photo** for Solo, **two** for Duo and **three** for Trio.
@@ -146,6 +203,7 @@ You need **one photo** for Solo, **two** for Duo and **three** for Trio.
 - **Solo:** you alone, standing, head to toes in view. All three dancers become you, like three clones in sync.
 - **Duo:** photo 1 is you, the dancer in the middle. Photo 2 is your friend, who dances on both sides, like twins.
 - **Trio:** photo 1 dances in the middle, photo 2 on the left, photo 3 on the right.
+- **Pet:** one photo of your pet, whole body, makes all three dancers your pet. **Two pets:** pet 1 dances in the middle, pet 2 on both sides.
 - One person per photo, face sharp and to the camera, good light, no sunglasses. A full-body photo gives the best legs, because the dance is all steps, taps and kicks.
 - Your clothes and shoes come from your photo. Dark streetwear and a cap give the look of the original.
 - Use your own photo or photos of adults who said yes. Never a celebrity or a stranger.
@@ -279,7 +337,7 @@ No. A Just a Lil Bit AI dance is made from still photos, and you and your friend
 
 ### Can my pet do the Just a Lil Bit dance?
 
-Not on this page yet. The trend reel has three people, and we found no pet version of it to copy. For a pet dance, try the [Toc Toc dance](https://www.makeviral.ai/templates/toc-toc-dance-ai-trend) Pet version.
+Yes. Pick Pet and add one photo of your pet, whole body: all three dancers become your pet, standing upright and grooving in sync on the rain-wet court, with the song. Two pets puts pet 1 in the middle and pet 2 on both sides. It makes the Just a Lil Bit dance cat or Just a Lil Bit dance dog clip that AI pet accounts post, like the three kittens by @armasdogworld. Upright pet dances are hard for AI, so a second run can fix odd legs or paws.
 
 ## Other AI video templates and tools
 
@@ -293,12 +351,12 @@ Not on this page yet. The trend reel has three people, and we found no pet versi
 
 ## New AI video trends this week
 
-- [AI Cat Gym Video: Put Your Pet on the Air Walker](https://www.makeviral.ai/templates/ai-cat-gym-video): Add one photo, and your cat or dog stands upright on an outdoor air walker, legs swinging out of control, until it slips off and tumbles to the ground, in the same take as the viral clip, with its original sound. You can take the fall yourself, too.
-- [Jensen Huang AI Video: Take the Wheel Next to the Nvidia CEO](https://www.makeviral.ai/templates/jensen-huang-ai-video): The car clip that started the Jensen Huang AI memes, with you at the wheel. Add one photo, and you (or your pet) drive the Nvidia CEO in his black leather jacket, with the clip's own sound.
-- [Cat Shower AI: Dodge the Water, Dive Under the Blanket](https://www.makeviral.ai/templates/cat-shower-ai-trend): The cat scoops the water, pours it over its head and leans away so not one drop hits it. Then it shivers and runs to bed. Add one photo, and you or your pet take the cat's place, with the trend's own sound.
-- [Tying My Shoes Meme: Put Yourself Behind the Tip Cup](https://www.makeviral.ai/templates/tying-shoes-money-ai-trend): You put your cup down to tie your shoe, and people start dropping cash in it. Add one photo, and you or your pet star in the viral clip, grin and all, with its original sound.
-- [MobLand Dance AI: Do Paul's Dance From One Photo](https://www.makeviral.ai/templates/mobland-paul-dance-ai): Lean in to the camera, step back, then the knee lifts, the little kicks, the shrugs and the hand flicks, with a straight face that keeps breaking into a grin. Add one photo of you or your pet and get the 10 second clip with the music.
-- [Bad Aim Edit AI Trend: Miss the Target, Then Own the Office](https://www.makeviral.ai/templates/bad-aim-edit-ai-trend): You try archery in a grass field and miss the flying target badly. Then a hard cut: a cool black and white office edit in black fight gloves, with a mug, a shh and a walk out the door. Add one photo of you or your pet.
+- [Never Let Her Pay: Pay for Dinner With a Sponge](https://www.makeviral.ai/templates/never-let-her-pay-ai-trend): "I got this." Add one photo, and you play the gentleman in the white dinner jacket who stops his date from paying, opens his pouch to show a kitchen sponge and gets walked to the kitchen to wash the dishes. With the clip's own sound.
+- [Snowman Dance AI: Do the Viral Sia Couple Dance From Two Photos](https://www.makeviral.ai/templates/snowman-dance-ai-trend): Hands behind your backs, a spin under the arm, a quick twirl around each other, and then one of you jumps on the other. Add a photo of you and one of your partner, or of two pets, and get the whole Snowman dance with the song.
+- [Self Hug Sketch: A Giant Pencil Drawing of You Hugs You](https://www.makeviral.ai/templates/self-hug-sketch-ai-trend): Add one photo. You lean on a grey wall while a huge black-and-white pencil sketch of you, drawn on the wall, wraps its arms around you, with "Embrace of my own self" written beside you.
+- [Need for Speed AI Trend: Your Car in the Movie Scene](https://www.makeviral.ai/templates/need-for-speed-ai-trend): Add one photo of your car or truck. AI puts it in the trend's movie-style street scene: it rolls through town, spins burnouts in thick tire smoke while people watch, and rolls away, with the trend's own sound.
+- [Tweenslop AI: Turn One Photo Into a Tweenslop Animation](https://www.makeviral.ai/templates/tweenslop-ai-trend): Your photo becomes a flat cut-out that zooms, squashes, spins and flies with a rainbow trail on every beat of a Brazilian funk track, with white, pink, purple and green flashes. You, your pet or any object.
+- [We Don't Talk Anymore Dance: Do the Viral Freestyle From One Photo](https://www.makeviral.ai/templates/we-dont-talk-anymore-dance-ai-trend): The sped-up "We Don't Talk Anymore" freestyle is all over TikTok. Add one photo, and you dance it on the trend's stage, barefoot on a driveway at night with your shoes in one hand, or your pet takes the stage.
 
 ## Make your own Just a Lil Bit Dance video
 

@@ -7,11 +7,11 @@ The Kara Sevda AI trend is the viral night selfie with AI look-alikes of Kemal a
 
 ## Demo videos (CDN)
 
-- https://www.makeviral.ai/media/templates/ai-video-with-celebrity/original-main-v2.mp4
+- https://media.makeviral.ai/templates/ai-video-with-celebrity/original-main-v2.mp4
 
 ## Posters
 
-- https://www.makeviral.ai/media/templates/ai-video-with-celebrity/original-main-v1.jpg
+- https://media.makeviral.ai/templates/ai-video-with-celebrity/original-main-v1.jpg
 
 ## Prompts
 

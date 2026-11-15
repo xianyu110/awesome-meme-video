@@ -7,13 +7,13 @@ The heaven hug is an AI video trend where you run up a stairway of light or acro
 
 ## Demo videos (CDN)
 
-- https://www.makeviral.ai/media/templates/ai-heaven-reunion-hug/original-main-v3.mp4
-- https://www.makeviral.ai/media/templates/ai-heaven-reunion-hug/original-stairway-v3.mp4
+- https://media.makeviral.ai/templates/ai-heaven-reunion-hug/original-main-v3.mp4
+- https://media.makeviral.ai/templates/ai-heaven-reunion-hug/original-stairway-v3.mp4
 
 ## Posters
 
-- https://www.makeviral.ai/media/templates/ai-heaven-reunion-hug/original-main-v3.jpg
-- https://www.makeviral.ai/media/templates/ai-heaven-reunion-hug/original-stairway-v3.jpg
+- https://media.makeviral.ai/templates/ai-heaven-reunion-hug/original-main-v3.jpg
+- https://media.makeviral.ai/templates/ai-heaven-reunion-hug/original-stairway-v3.jpg
 
 ## Prompts
 

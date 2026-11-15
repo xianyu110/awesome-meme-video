@@ -10,14 +10,14 @@
   "published": "2026-10-16",
   "credits": 152,
   "demo_videos": [
-    "https://www.makeviral.ai/media/templates/champagne-birthday-ai-trend/original-pop-v2.mp4",
-    "https://www.makeviral.ai/media/templates/champagne-birthday-ai-trend/original-roof-v2.mp4",
-    "https://www.makeviral.ai/media/templates/champagne-birthday-ai-trend/original-sunroof-v2.mp4"
+    "https://media.makeviral.ai/templates/champagne-birthday-ai-trend/original-pop-v2.mp4",
+    "https://media.makeviral.ai/templates/champagne-birthday-ai-trend/original-roof-v2.mp4",
+    "https://media.makeviral.ai/templates/champagne-birthday-ai-trend/original-sunroof-v2.mp4"
   ],
   "posters": [
-    "https://www.makeviral.ai/media/templates/champagne-birthday-ai-trend/original-pop-v1.jpg",
-    "https://www.makeviral.ai/media/templates/champagne-birthday-ai-trend/original-roof-v1.jpg",
-    "https://www.makeviral.ai/media/templates/champagne-birthday-ai-trend/original-sunroof-v1.jpg"
+    "https://media.makeviral.ai/templates/champagne-birthday-ai-trend/original-pop-v1.jpg",
+    "https://media.makeviral.ai/templates/champagne-birthday-ai-trend/original-roof-v1.jpg",
+    "https://media.makeviral.ai/templates/champagne-birthday-ai-trend/original-sunroof-v1.jpg"
   ],
   "prompts": [
     {
@@ -63,5 +63,5 @@
     "Make your own Champagne Birthday video"
   ],
   "prompt_count": 5,
-  "scraped_at": "2026-11-14"
+  "scraped_at": "2026-11-15"
 }

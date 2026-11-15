@@ -7,13 +7,13 @@ The Day of the Dead pet trend is a gentle way to remember a pet that died.
 
 ## Demo videos (CDN)
 
-- https://www.makeviral.ai/media/templates/ai-day-of-the-dead-pet/original-bridge-v2.mp4
-- https://www.makeviral.ai/media/templates/ai-day-of-the-dead-pet/original-pet-v2.mp4
+- https://media.makeviral.ai/templates/ai-day-of-the-dead-pet/original-bridge-v2.mp4
+- https://media.makeviral.ai/templates/ai-day-of-the-dead-pet/original-pet-v2.mp4
 
 ## Posters
 
-- https://www.makeviral.ai/media/templates/ai-day-of-the-dead-pet/original-bridge-v1.jpg
-- https://www.makeviral.ai/media/templates/ai-day-of-the-dead-pet/original-pet-v1.jpg
+- https://media.makeviral.ai/templates/ai-day-of-the-dead-pet/original-bridge-v1.jpg
+- https://media.makeviral.ai/templates/ai-day-of-the-dead-pet/original-pet-v1.jpg
 
 ## Prompts
 

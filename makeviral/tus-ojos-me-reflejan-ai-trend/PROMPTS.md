@@ -7,12 +7,12 @@ Tus ojos me reflejan el sentimiento is the cafuné eye close-up trend, also call
 
 ## Demo videos (CDN)
 
-- https://www.makeviral.ai/media/templates/tus-ojos-me-reflejan-ai-trend/example-main-v1.mp4
+- https://media.makeviral.ai/templates/tus-ojos-me-reflejan-ai-trend/example-main-v1.mp4
 
 ## Posters
 
-- https://www.makeviral.ai/media/templates/tus-ojos-me-reflejan-ai-trend/example-main-input.jpg
-- https://www.makeviral.ai/media/templates/tus-ojos-me-reflejan-ai-trend/example-main-poster.jpg
+- https://media.makeviral.ai/templates/tus-ojos-me-reflejan-ai-trend/example-main-input.jpg
+- https://media.makeviral.ai/templates/tus-ojos-me-reflejan-ai-trend/example-main-poster.jpg
 
 ## Prompts
 

@@ -7,12 +7,12 @@ The You Talking Bout Me trend remakes a viral stream clip of the rapper DDG and 
 
 ## Demo videos (CDN)
 
-- https://www.makeviral.ai/media/templates/you-talking-bout-me-ai-trend/example-v1.mp4
+- https://media.makeviral.ai/templates/you-talking-bout-me-ai-trend/example-v1.mp4
 
 ## Posters
 
-- https://www.makeviral.ai/media/templates/you-talking-bout-me-ai-trend/example-v1-input.jpg
-- https://www.makeviral.ai/media/templates/you-talking-bout-me-ai-trend/example-v1-poster.jpg
+- https://media.makeviral.ai/templates/you-talking-bout-me-ai-trend/example-v1-input.jpg
+- https://media.makeviral.ai/templates/you-talking-bout-me-ai-trend/example-v1-poster.jpg
 
 ## Prompts
 

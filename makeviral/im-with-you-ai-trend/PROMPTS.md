@@ -7,11 +7,11 @@ The I'm With You Avril Lavigne trend belongs to Brazilian creator Boy Marinho, w
 
 ## Demo videos (CDN)
 
-- https://www.makeviral.ai/media/templates/im-with-you-ai-trend/original-coaster-v2.mp4
+- https://media.makeviral.ai/templates/im-with-you-ai-trend/original-coaster-v2.mp4
 
 ## Posters
 
-- https://www.makeviral.ai/media/templates/im-with-you-ai-trend/original-coaster-v1.jpg
+- https://media.makeviral.ai/templates/im-with-you-ai-trend/original-coaster-v1.jpg
 
 ## Prompts
 

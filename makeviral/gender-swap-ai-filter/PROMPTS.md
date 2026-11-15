@@ -7,12 +7,12 @@ The gender swap filter turns your photo into your opposite gender version: if yo
 
 ## Demo videos (CDN)
 
-- https://www.makeviral.ai/media/templates/gender-swap-ai-filter/example-main-v1.mp4
+- https://media.makeviral.ai/templates/gender-swap-ai-filter/example-main-v1.mp4
 
 ## Posters
 
-- https://www.makeviral.ai/media/templates/gender-swap-ai-filter/example-main-input.jpg
-- https://www.makeviral.ai/media/templates/gender-swap-ai-filter/example-main-poster.jpg
+- https://media.makeviral.ai/templates/gender-swap-ai-filter/example-main-input.jpg
+- https://media.makeviral.ai/templates/gender-swap-ai-filter/example-main-poster.jpg
 
 ## Prompts
 

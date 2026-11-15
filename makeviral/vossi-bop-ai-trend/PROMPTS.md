@@ -7,12 +7,12 @@ The Vossi Bop dance trend puts you in the bridge scene of Stormzy's "Vossi Bop":
 
 ## Demo videos (CDN)
 
-- https://www.makeviral.ai/media/templates/vossi-bop-ai-trend/example-main-v1.mp4
+- https://media.makeviral.ai/templates/vossi-bop-ai-trend/example-main-v1.mp4
 
 ## Posters
 
-- https://www.makeviral.ai/media/templates/vossi-bop-ai-trend/example-main-input.jpg
-- https://www.makeviral.ai/media/templates/vossi-bop-ai-trend/example-main-poster.jpg
+- https://media.makeviral.ai/templates/vossi-bop-ai-trend/example-main-input.jpg
+- https://media.makeviral.ai/templates/vossi-bop-ai-trend/example-main-poster.jpg
 
 ## Prompts
 

@@ -10,13 +10,13 @@
   "published": "2026-10-27",
   "credits": 126,
   "demo_videos": [
-    "https://www.makeviral.ai/media/templates/nestle-crunch-ai-ad/example-main.mp4",
-    "https://www.makeviral.ai/media/templates/nestle-crunch-ai-ad/original-pet-v1.mp4"
+    "https://media.makeviral.ai/templates/nestle-crunch-ai-ad/example-main.mp4",
+    "https://media.makeviral.ai/templates/nestle-crunch-ai-ad/original-pet-v1.mp4"
   ],
   "posters": [
-    "https://www.makeviral.ai/media/templates/nestle-crunch-ai-ad/example-main-input.jpg",
-    "https://www.makeviral.ai/media/templates/nestle-crunch-ai-ad/example-main-poster.jpg",
-    "https://www.makeviral.ai/media/templates/nestle-crunch-ai-ad/original-pet-v2.jpg"
+    "https://media.makeviral.ai/templates/nestle-crunch-ai-ad/example-main-input.jpg",
+    "https://media.makeviral.ai/templates/nestle-crunch-ai-ad/example-main-poster.jpg",
+    "https://media.makeviral.ai/templates/nestle-crunch-ai-ad/original-pet-v2.jpg"
   ],
   "prompts": [
     {
@@ -45,5 +45,5 @@
     "Make your own Nestle Crunch Trend video"
   ],
   "prompt_count": 2,
-  "scraped_at": "2026-11-14"
+  "scraped_at": "2026-11-15"
 }

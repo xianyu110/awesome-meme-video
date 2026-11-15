@@ -10,11 +10,11 @@
   "published": "2026-11-05",
   "credits": 198,
   "demo_videos": [
-    "https://www.makeviral.ai/media/templates/did-torobo-just-jump-allahwalai-ai-trend/example-main-v1.mp4"
+    "https://media.makeviral.ai/templates/did-torobo-just-jump-allahwalai-ai-trend/example-main-v1.mp4"
   ],
   "posters": [
-    "https://www.makeviral.ai/media/templates/did-torobo-just-jump-allahwalai-ai-trend/example-main-input.jpg",
-    "https://www.makeviral.ai/media/templates/did-torobo-just-jump-allahwalai-ai-trend/example-main-poster.jpg"
+    "https://media.makeviral.ai/templates/did-torobo-just-jump-allahwalai-ai-trend/example-main-input.jpg",
+    "https://media.makeviral.ai/templates/did-torobo-just-jump-allahwalai-ai-trend/example-main-poster.jpg"
   ],
   "prompts": [
     {
@@ -45,5 +45,5 @@
     "Make your own Torobo AI Trend video"
   ],
   "prompt_count": 2,
-  "scraped_at": "2026-11-14"
+  "scraped_at": "2026-11-15"
 }

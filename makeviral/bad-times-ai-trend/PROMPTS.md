@@ -7,15 +7,15 @@ The Bad Times AI trend puts you or your pet in the TikTok routine to "Bad Times"
 
 ## Demo videos (CDN)
 
-- https://www.makeviral.ai/media/templates/bad-times-ai-trend/original-angry-v2.mp4
-- https://www.makeviral.ai/media/templates/bad-times-ai-trend/original-couple-v2.mp4
-- https://www.makeviral.ai/media/templates/bad-times-ai-trend/original-pet-v2.mp4
+- https://media.makeviral.ai/templates/bad-times-ai-trend/original-angry-v2.mp4
+- https://media.makeviral.ai/templates/bad-times-ai-trend/original-couple-v2.mp4
+- https://media.makeviral.ai/templates/bad-times-ai-trend/original-pet-v2.mp4
 
 ## Posters
 
-- https://www.makeviral.ai/media/templates/bad-times-ai-trend/original-angry-v1.jpg
-- https://www.makeviral.ai/media/templates/bad-times-ai-trend/original-couple-v1.jpg
-- https://www.makeviral.ai/media/templates/bad-times-ai-trend/original-pet-v1.jpg
+- https://media.makeviral.ai/templates/bad-times-ai-trend/original-angry-v1.jpg
+- https://media.makeviral.ai/templates/bad-times-ai-trend/original-couple-v1.jpg
+- https://media.makeviral.ai/templates/bad-times-ai-trend/original-pet-v1.jpg
 
 ## Prompts
 

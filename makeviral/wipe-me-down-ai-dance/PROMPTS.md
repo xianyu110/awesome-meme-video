@@ -7,11 +7,11 @@ The Wipe Me Down AI dance turns one full-body photo of you into a short clip of 
 
 ## Demo videos (CDN)
 
-- https://www.makeviral.ai/media/templates/wipe-me-down-ai-dance/original-main-v2.mp4
+- https://media.makeviral.ai/templates/wipe-me-down-ai-dance/original-main-v2.mp4
 
 ## Posters
 
-- https://www.makeviral.ai/media/templates/wipe-me-down-ai-dance/original-main-v1.jpg
+- https://media.makeviral.ai/templates/wipe-me-down-ai-dance/original-main-v1.jpg
 
 ## Prompts
 

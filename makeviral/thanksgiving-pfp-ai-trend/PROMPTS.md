@@ -7,12 +7,12 @@ A Thanksgiving pfp is a Thanksgiving version of your profile picture, and people
 
 ## Demo videos (CDN)
 
-- https://www.makeviral.ai/media/templates/thanksgiving-pfp-ai-trend/example.mp4
+- https://media.makeviral.ai/templates/thanksgiving-pfp-ai-trend/example.mp4
 
 ## Posters
 
-- https://www.makeviral.ai/media/templates/thanksgiving-pfp-ai-trend/example-input.jpg
-- https://www.makeviral.ai/media/templates/thanksgiving-pfp-ai-trend/example-poster.jpg
+- https://media.makeviral.ai/templates/thanksgiving-pfp-ai-trend/example-input.jpg
+- https://media.makeviral.ai/templates/thanksgiving-pfp-ai-trend/example-poster.jpg
 
 ## Prompts
 

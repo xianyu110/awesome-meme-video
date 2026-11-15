@@ -7,11 +7,11 @@ The twilight baseball scene trend recreates the vampire baseball game from the 2
 
 ## Demo videos (CDN)
 
-- https://www.makeviral.ai/media/templates/twilight-baseball-scene-ai/original-main-v1.mp4
+- https://media.makeviral.ai/templates/twilight-baseball-scene-ai/original-main-v1.mp4
 
 ## Posters
 
-- https://www.makeviral.ai/media/templates/twilight-baseball-scene-ai/original-main-v1.jpg
+- https://media.makeviral.ai/templates/twilight-baseball-scene-ai/original-main-v1.jpg
 
 ## Prompts
 

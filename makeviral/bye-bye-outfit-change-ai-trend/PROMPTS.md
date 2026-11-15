@@ -7,13 +7,13 @@ The bye bye trend is the Halloween transition of October 2026: an evil "hahaha",
 
 ## Demo videos (CDN)
 
-- https://www.makeviral.ai/media/templates/bye-bye-outfit-change-ai-trend/original-camila-v2.mp4
-- https://www.makeviral.ai/media/templates/bye-bye-outfit-change-ai-trend/original-main-v2.mp4
+- https://media.makeviral.ai/templates/bye-bye-outfit-change-ai-trend/original-camila-v2.mp4
+- https://media.makeviral.ai/templates/bye-bye-outfit-change-ai-trend/original-main-v2.mp4
 
 ## Posters
 
-- https://www.makeviral.ai/media/templates/bye-bye-outfit-change-ai-trend/original-camila-v1.jpg
-- https://www.makeviral.ai/media/templates/bye-bye-outfit-change-ai-trend/original-main-v1.jpg
+- https://media.makeviral.ai/templates/bye-bye-outfit-change-ai-trend/original-camila-v1.jpg
+- https://media.makeviral.ai/templates/bye-bye-outfit-change-ai-trend/original-main-v1.jpg
 
 ## Prompts
 

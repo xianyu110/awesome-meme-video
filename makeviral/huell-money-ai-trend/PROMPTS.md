@@ -7,13 +7,13 @@ The Huell money meme is the Breaking Bad scene where Huell lies on a huge pile o
 
 ## Demo videos (CDN)
 
-- https://www.makeviral.ai/media/templates/huell-money-ai-trend/original-main-v2.mp4
-- https://www.makeviral.ai/media/templates/huell-money-ai-trend/original-tall-main-v2.mp4
+- https://media.makeviral.ai/templates/huell-money-ai-trend/original-main-v2.mp4
+- https://media.makeviral.ai/templates/huell-money-ai-trend/original-tall-main-v2.mp4
 
 ## Posters
 
-- https://www.makeviral.ai/media/templates/huell-money-ai-trend/original-main-v1.jpg
-- https://www.makeviral.ai/media/templates/huell-money-ai-trend/original-tall-main-v1.jpg
+- https://media.makeviral.ai/templates/huell-money-ai-trend/original-main-v1.jpg
+- https://media.makeviral.ai/templates/huell-money-ai-trend/original-tall-main-v1.jpg
 
 ## Prompts
 

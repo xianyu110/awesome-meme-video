@@ -10,11 +10,11 @@
   "published": "2026-10-27",
   "credits": 60,
   "demo_videos": [
-    "https://www.makeviral.ai/media/templates/bonito-bonito-ai-baby-dance/example-v1.mp4"
+    "https://media.makeviral.ai/templates/bonito-bonito-ai-baby-dance/example-v1.mp4"
   ],
   "posters": [
-    "https://www.makeviral.ai/media/templates/bonito-bonito-ai-baby-dance/example-v1-input.jpg",
-    "https://www.makeviral.ai/media/templates/bonito-bonito-ai-baby-dance/example-v1-poster.jpg"
+    "https://media.makeviral.ai/templates/bonito-bonito-ai-baby-dance/example-v1-input.jpg",
+    "https://media.makeviral.ai/templates/bonito-bonito-ai-baby-dance/example-v1-poster.jpg"
   ],
   "prompts": [
     {
@@ -38,5 +38,5 @@
     "Make your own Bonito Bonito Baby video"
   ],
   "prompt_count": 1,
-  "scraped_at": "2026-11-14"
+  "scraped_at": "2026-11-15"
 }

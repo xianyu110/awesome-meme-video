@@ -7,12 +7,12 @@ The Earth zoom out is a short video that starts on a close, wide-angle selfie an
 
 ## Demo videos (CDN)
 
-- https://www.makeviral.ai/media/templates/earth-zoom-out-ai/example.mp4
+- https://media.makeviral.ai/templates/earth-zoom-out-ai/example.mp4
 
 ## Posters
 
-- https://www.makeviral.ai/media/templates/earth-zoom-out-ai/example-input.jpg
-- https://www.makeviral.ai/media/templates/earth-zoom-out-ai/example-poster.jpg
+- https://media.makeviral.ai/templates/earth-zoom-out-ai/example-input.jpg
+- https://media.makeviral.ai/templates/earth-zoom-out-ai/example-poster.jpg
 
 ## Prompts
 

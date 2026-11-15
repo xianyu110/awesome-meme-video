@@ -7,11 +7,11 @@ The Polar Bear 2026 meme is an eerie, AI-looking polar bear first posted in 2023
 
 ## Demo videos (CDN)
 
-- https://www.makeviral.ai/media/templates/polar-bear-ai-trend/original-tall-sing-v2.mp4
+- https://media.makeviral.ai/templates/polar-bear-ai-trend/original-tall-sing-v2.mp4
 
 ## Posters
 
-- https://www.makeviral.ai/media/templates/polar-bear-ai-trend/original-tall-sing-v1.jpg
+- https://media.makeviral.ai/templates/polar-bear-ai-trend/original-tall-sing-v1.jpg
 
 ## Prompts
 

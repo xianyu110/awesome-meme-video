@@ -7,13 +7,13 @@ The gas station dance is a 2024 road trip reel that went viral again in Septembe
 
 ## Demo videos (CDN)
 
-- https://www.makeviral.ai/media/templates/gas-station-dance-ai-trend/original-mop-unc-v2.mp4
-- https://www.makeviral.ai/media/templates/parking-lot-sunset-ai-trend/original-friends-v2.mp4
+- https://media.makeviral.ai/templates/gas-station-dance-ai-trend/original-mop-unc-v2.mp4
+- https://media.makeviral.ai/templates/parking-lot-sunset-ai-trend/original-friends-v2.mp4
 
 ## Posters
 
-- https://www.makeviral.ai/media/templates/gas-station-dance-ai-trend/original-mop-unc-v1.jpg
-- https://www.makeviral.ai/media/templates/parking-lot-sunset-ai-trend/original-friends-v1.jpg
+- https://media.makeviral.ai/templates/gas-station-dance-ai-trend/original-mop-unc-v1.jpg
+- https://media.makeviral.ai/templates/parking-lot-sunset-ai-trend/original-friends-v1.jpg
 
 ## Prompts
 

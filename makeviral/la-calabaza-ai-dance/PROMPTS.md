@@ -7,13 +7,13 @@ The La Calabaza dance is the dancing cat meme of autumn 2026: three AI kittens s
 
 ## Demo videos (CDN)
 
-- https://www.makeviral.ai/media/templates/la-calabaza-ai-dance/original-dogs-v2.mp4
-- https://www.makeviral.ai/media/templates/la-calabaza-ai-dance/original-pet-v2.mp4
+- https://media.makeviral.ai/templates/la-calabaza-ai-dance/original-dogs-v2.mp4
+- https://media.makeviral.ai/templates/la-calabaza-ai-dance/original-pet-v2.mp4
 
 ## Posters
 
-- https://www.makeviral.ai/media/templates/la-calabaza-ai-dance/original-dogs-v1.jpg
-- https://www.makeviral.ai/media/templates/la-calabaza-ai-dance/original-pet-v1.jpg
+- https://media.makeviral.ai/templates/la-calabaza-ai-dance/original-dogs-v1.jpg
+- https://media.makeviral.ai/templates/la-calabaza-ai-dance/original-pet-v1.jpg
 
 ## Prompts
 

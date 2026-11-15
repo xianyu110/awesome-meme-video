@@ -7,11 +7,11 @@ The tiger fight AI trend, also called the CCTV tiger fight, is fake black-and-wh
 
 ## Demo videos (CDN)
 
-- https://www.makeviral.ai/media/templates/cctv-tiger-fight-ai-trend/original-tall-v2.mp4
+- https://media.makeviral.ai/templates/cctv-tiger-fight-ai-trend/original-tall-v2.mp4
 
 ## Posters
 
-- https://www.makeviral.ai/media/templates/cctv-tiger-fight-ai-trend/original-tall-v1.jpg
+- https://media.makeviral.ai/templates/cctv-tiger-fight-ai-trend/original-tall-v1.jpg
 
 ## Prompts
 

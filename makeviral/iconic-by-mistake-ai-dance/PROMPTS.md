@@ -7,11 +7,11 @@ The Iconic By Mistake dance is the TikTok challenge to "Iconic By Mistake", the 
 
 ## Demo videos (CDN)
 
-- https://www.makeviral.ai/media/templates/iconic-by-mistake-ai-dance/original-pet-v2.mp4
+- https://media.makeviral.ai/templates/iconic-by-mistake-ai-dance/original-pet-v2.mp4
 
 ## Posters
 
-- https://www.makeviral.ai/media/templates/iconic-by-mistake-ai-dance/original-pet-v1.jpg
+- https://media.makeviral.ai/templates/iconic-by-mistake-ai-dance/original-pet-v1.jpg
 
 ## Prompts
 

@@ -7,16 +7,16 @@ Caught at the window is the viral AI commercial trend of October 2026: one shot 
 
 ## Demo videos (CDN)
 
-- https://www.makeviral.ai/media/templates/caught-at-the-window-ai-ad/example-flamory-v1.mp4
-- https://www.makeviral.ai/media/templates/caught-at-the-window-ai-ad/original-karina-v1.mp4
-- https://www.makeviral.ai/media/templates/caught-at-the-window-ai-ad/original-main-v1.mp4
+- https://media.makeviral.ai/templates/caught-at-the-window-ai-ad/example-flamory-v1.mp4
+- https://media.makeviral.ai/templates/caught-at-the-window-ai-ad/original-karina-v1.mp4
+- https://media.makeviral.ai/templates/caught-at-the-window-ai-ad/original-main-v1.mp4
 
 ## Posters
 
-- https://www.makeviral.ai/media/templates/caught-at-the-window-ai-ad/example-flamory-input-v1.jpg
-- https://www.makeviral.ai/media/templates/caught-at-the-window-ai-ad/example-flamory-v1.jpg
-- https://www.makeviral.ai/media/templates/caught-at-the-window-ai-ad/original-karina-v1.jpg
-- https://www.makeviral.ai/media/templates/caught-at-the-window-ai-ad/original-main-v1.jpg
+- https://media.makeviral.ai/templates/caught-at-the-window-ai-ad/example-flamory-input-v1.jpg
+- https://media.makeviral.ai/templates/caught-at-the-window-ai-ad/example-flamory-v1.jpg
+- https://media.makeviral.ai/templates/caught-at-the-window-ai-ad/original-karina-v1.jpg
+- https://media.makeviral.ai/templates/caught-at-the-window-ai-ad/original-main-v1.jpg
 
 ## Prompts
 

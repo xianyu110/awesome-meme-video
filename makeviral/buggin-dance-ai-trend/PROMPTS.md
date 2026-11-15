@@ -7,13 +7,13 @@ The Buggin dance is the TikTok routine to "She Bugging" by Khantrast, the song w
 
 ## Demo videos (CDN)
 
-- https://www.makeviral.ai/media/templates/buggin-dance-ai-trend/original-main-full-v2.mp4
-- https://www.makeviral.ai/media/templates/buggin-dance-ai-trend/original-pet-full-v2.mp4
+- https://media.makeviral.ai/templates/buggin-dance-ai-trend/original-main-full-v2.mp4
+- https://media.makeviral.ai/templates/buggin-dance-ai-trend/original-pet-full-v2.mp4
 
 ## Posters
 
-- https://www.makeviral.ai/media/templates/buggin-dance-ai-trend/original-main-full-v1.jpg
-- https://www.makeviral.ai/media/templates/buggin-dance-ai-trend/original-pet-full-v1.jpg
+- https://media.makeviral.ai/templates/buggin-dance-ai-trend/original-main-full-v1.jpg
+- https://media.makeviral.ai/templates/buggin-dance-ai-trend/original-pet-full-v1.jpg
 
 ## Prompts
 

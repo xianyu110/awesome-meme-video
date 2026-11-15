@@ -7,11 +7,11 @@ The celebrity signature filter is the AI autograph trend where you become the st
 
 ## Demo videos (CDN)
 
-- https://www.makeviral.ai/media/templates/ai-celebrity-autograph-signing/original-entrance-v2.mp4
+- https://media.makeviral.ai/templates/ai-celebrity-autograph-signing/original-entrance-v2.mp4
 
 ## Posters
 
-- https://www.makeviral.ai/media/templates/ai-celebrity-autograph-signing/original-entrance-v1.jpg
+- https://media.makeviral.ai/templates/ai-celebrity-autograph-signing/original-entrance-v1.jpg
 
 ## Prompts
 

@@ -7,11 +7,11 @@ The subway outfit change is the fashion clip filmed across the tracks: you wait 
 
 ## Demo videos (CDN)
 
-- https://www.makeviral.ai/media/templates/subway-outfit-change-ai-trend/original-main-v2.mp4
+- https://media.makeviral.ai/templates/subway-outfit-change-ai-trend/original-main-v2.mp4
 
 ## Posters
 
-- https://www.makeviral.ai/media/templates/subway-outfit-change-ai-trend/original-main-v1.jpg
+- https://media.makeviral.ai/templates/subway-outfit-change-ai-trend/original-main-v1.jpg
 
 ## Prompts
 

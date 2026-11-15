@@ -10,10 +10,10 @@
   "published": "2026-10-20",
   "credits": 126,
   "demo_videos": [
-    "https://www.makeviral.ai/media/templates/abcdefg-i-need-money-ai-trend/original-reel-v2.mp4"
+    "https://media.makeviral.ai/templates/abcdefg-i-need-money-ai-trend/original-reel-v2.mp4"
   ],
   "posters": [
-    "https://www.makeviral.ai/media/templates/abcdefg-i-need-money-ai-trend/original-reel-v1.jpg"
+    "https://media.makeviral.ai/templates/abcdefg-i-need-money-ai-trend/original-reel-v1.jpg"
   ],
   "prompts": [
     {
@@ -43,5 +43,5 @@
     "Make your own ABCDEFG I Need Money video"
   ],
   "prompt_count": 2,
-  "scraped_at": "2026-11-14"
+  "scraped_at": "2026-11-15"
 }

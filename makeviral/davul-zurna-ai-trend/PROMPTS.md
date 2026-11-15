@@ -7,11 +7,11 @@ The davul zurna yapay zeka trend puts a new face on a real Turkish clip: a man d
 
 ## Demo videos (CDN)
 
-- https://www.makeviral.ai/media/templates/davul-zurna-ai-trend/original-full-v2.mp4
+- https://media.makeviral.ai/templates/davul-zurna-ai-trend/original-full-v2.mp4
 
 ## Posters
 
-- https://www.makeviral.ai/media/templates/davul-zurna-ai-trend/original-full-v1.jpg
+- https://media.makeviral.ai/templates/davul-zurna-ai-trend/original-full-v1.jpg
 
 ## Prompts
 
@@ -80,5 +80,51 @@ The performance, matching [Video 1] second by second:
 The zurna player plays the zurna and the davul player beats the drum the whole time. The pet's mouth opens and closes exactly when the original dancer's mouth does in [Video 1].
 
 Anatomy rules: one head only, one muzzle, natural teeth and tongue. Two front paws and two hind legs, animal paws, never human hands. No extra animals, no extra people in front. Real live-action phone footage, natural light, no distortion. No dialogue, no background music. No text, no captions, no stickers, no logos, no watermark.
+```
+
+### 4. 1. The video prompt is filled in. Settings: Seedance 2.5, 15 s, 720p, 9:16, sound on. The video prompt
+
+*Kind: video_prompt*
+
+```text
+A real phone video, one continuous take, vertical 9:16, at night inside a small saz workshop: many long-necked wooden saz bodies hang in rows on a gray wall, wooden beams under a low ceiling, warm bare bulbs, a gray concrete floor, two low wooden stools. The phone is held still at chest height a few meters away and shows all three men from the knees up, the davul player on the LEFT with a big drum on a strap, the zurna player on the RIGHT playing a wooden zurna, and the dancer in the MIDDLE between them.
+
+The dancer in the MIDDLE = the person in [Image 1]. The zurna player on the RIGHT = the person in [Image 2]. The davul player on the LEFT = the person in [Image 3]. For each of them, in EVERY frame, copy the exact face from their own photo: face shape, eye color and eye shape, eyebrows, nose, mouth, skin tone, age, hair color, hair length and hairstyle, and any beard, moustache, glasses or freckles exactly as in the photo. Each wears the clothes and keeps the age of their own photo; invent any part of the body a photo does not show. The faces are fully locked by place: [Image 1] in the middle, [Image 2] on the right, [Image 3] on the left. Never blend their faces, never swap places. Each face stays the same from the first frame to the last, so their friends recognize them at once, also in the close shout at the end. If an image shows an animal, that person is that animal standing upright, with its own face, fur and markings and the natural body proportions of that animal, not a person.
+
+[Image 1], [Image 2] and [Image 3] are the sole face references, one each. The workshop, the instruments and the moves come from this text.
+
+The performance, second by second:
+00:00-00:04: the dancer sits on the low wooden stool in the middle, sways to the drum and raises both arms high, shoulders shaking, a big grin.
+00:04-00:06: the dancer jumps up from the stool with both arms up and gives a loud joyful shout.
+00:06-00:10: the dancer dances in a small circle on the spot, arms up, snapping the fingers, turning once with the back to the camera.
+00:10-00:15: the dancer turns to face the camera, takes one step toward it, leans in and shouts at the camera with the mouth wide open, one arm up, the face big and sharp in the frame.
+The davul player beats the drum and the zurna player plays the zurna the whole time, smiling at the dancer.
+
+Sound: a loud, live davul and zurna dance tune (a Turkish oyun havasi) from the first frame to the last, recorded in the small room: the deep booming drum beat and the bright, piercing zurna melody. At 00:04 and from 00:10 the dancer gives loud, wordless joyful shouts ("Heyyy!"). No dialogue, no sung words, no other music.
+
+Real live-action phone footage, warm light, clear facial features, no distortion. One head only on each body; a face never appears on hands, clothes, the drum or the saz bodies. Five fingers on each hand. Exactly three people in the video. No text, no captions, no stickers, no logos, no watermark.
+```
+
+### 5. 1. The video prompt is filled in. Settings: Seedance 2.5, 15 s, 720p, 9:16, sound on. The video prompt
+
+*Kind: video_prompt*
+
+```text
+A real phone video, one continuous take, vertical 9:16, at night inside a small saz workshop: many long-necked wooden saz bodies hang in rows on a gray wall, wooden beams under a low ceiling, warm bare bulbs, a gray concrete floor, two low wooden stools. The phone is held still at chest height a few meters away and shows all three men from the knees up, the davul player on the LEFT with a big drum on a strap, the zurna player on the RIGHT playing a wooden zurna, and the dancer in the MIDDLE between them.
+
+The dancer in the MIDDLE = the person in [Image 1], in EVERY frame: copy the exact face from [Image 1]: face shape, eye color and eye shape, eyebrows, nose, mouth, skin tone, age, hair color, hair length and hairstyle, and any beard, moustache, glasses or freckles exactly as in the photo. The dancer wears the clothes from [Image 1]; if [Image 1] shows only the head or the upper body, invent the rest so it matches naturally. The same real person in every frame, from the first second to the last, so their friends instantly recognize them, also in the close shout at the end. Never morph. If [Image 1] shows an animal, the dancer is that animal standing upright on its hind legs, with its own face, fur and markings and the natural body volume and proportions of that animal: never flattened, squashed, stretched or merged with anything.
+
+[Image 1] is the sole face reference for the dancer. The two players are two other adult men in plain dark shirts with their own ordinary faces, never a copy of [Image 1].
+
+The performance, second by second:
+00:00-00:04: the dancer sits on the low wooden stool in the middle, sways to the drum and raises both arms high, shoulders shaking, a big grin.
+00:04-00:06: the dancer jumps up from the stool with both arms up and gives a loud joyful shout.
+00:06-00:10: the dancer dances in a small circle on the spot, arms up, snapping the fingers, turning once with the back to the camera.
+00:10-00:15: the dancer turns to face the camera, takes one step toward it, leans in and shouts at the camera with the mouth wide open, one arm up, the face big and sharp in the frame.
+The davul player beats the drum and the zurna player plays the zurna the whole time, smiling at the dancer.
+
+Sound: a loud, live davul and zurna dance tune (a Turkish oyun havasi) from the first frame to the last, recorded in the small room: the deep booming drum beat and the bright, piercing zurna melody. At 00:04 and from 00:10 the dancer gives loud, wordless joyful shouts ("Heyyy!"). No dialogue, no sung words, no other music.
+
+Real live-action phone footage, warm light, clear facial features, no distortion. One head only on each body; a face never appears on hands, clothes, the drum or the saz bodies. Five fingers on each hand. Exactly three people in the video. No text, no captions, no stickers, no logos, no watermark.
 ```
 

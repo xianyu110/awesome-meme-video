@@ -10,11 +10,11 @@
   "published": "2026-10-29",
   "credits": 54,
   "demo_videos": [
-    "https://www.makeviral.ai/media/templates/meri-nas-nas-mein-ai-trend/example-v1.mp4"
+    "https://media.makeviral.ai/templates/meri-nas-nas-mein-ai-trend/example-v1.mp4"
   ],
   "posters": [
-    "https://www.makeviral.ai/media/templates/meri-nas-nas-mein-ai-trend/example-input-v1.jpg",
-    "https://www.makeviral.ai/media/templates/meri-nas-nas-mein-ai-trend/example-v1-poster.jpg"
+    "https://media.makeviral.ai/templates/meri-nas-nas-mein-ai-trend/example-input-v1.jpg",
+    "https://media.makeviral.ai/templates/meri-nas-nas-mein-ai-trend/example-v1-poster.jpg"
   ],
   "prompts": [
     {
@@ -45,5 +45,5 @@
     "Make your own Meri Nas Nas Mein video"
   ],
   "prompt_count": 2,
-  "scraped_at": "2026-11-14"
+  "scraped_at": "2026-11-15"
 }

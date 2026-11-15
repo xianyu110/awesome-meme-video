@@ -10,11 +10,11 @@
   "published": "2026-11-06",
   "credits": 3,
   "demo_videos": [
-    "https://www.makeviral.ai/media/templates/thanksgiving-pfp-ai-trend/example.mp4"
+    "https://media.makeviral.ai/templates/thanksgiving-pfp-ai-trend/example.mp4"
   ],
   "posters": [
-    "https://www.makeviral.ai/media/templates/thanksgiving-pfp-ai-trend/example-input.jpg",
-    "https://www.makeviral.ai/media/templates/thanksgiving-pfp-ai-trend/example-poster.jpg"
+    "https://media.makeviral.ai/templates/thanksgiving-pfp-ai-trend/example-input.jpg",
+    "https://media.makeviral.ai/templates/thanksgiving-pfp-ai-trend/example-poster.jpg"
   ],
   "prompts": [
     {
@@ -65,5 +65,5 @@
     "Make your own Thanksgiving PFP photo"
   ],
   "prompt_count": 6,
-  "scraped_at": "2026-11-14"
+  "scraped_at": "2026-11-15"
 }

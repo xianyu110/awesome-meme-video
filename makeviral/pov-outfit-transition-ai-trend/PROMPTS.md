@@ -7,11 +7,11 @@ The POV outfit transition is the fashion reel filmed from your friend's eyes: a 
 
 ## Demo videos (CDN)
 
-- https://www.makeviral.ai/media/templates/pov-outfit-transition-ai-trend/original-main-v2.mp4
+- https://media.makeviral.ai/templates/pov-outfit-transition-ai-trend/original-main-v2.mp4
 
 ## Posters
 
-- https://www.makeviral.ai/media/templates/pov-outfit-transition-ai-trend/original-main-v1.jpg
+- https://media.makeviral.ai/templates/pov-outfit-transition-ai-trend/original-main-v1.jpg
 
 ## Prompts
 

@@ -7,11 +7,11 @@ The Mom Dad Sister Brother trend is a TikTok clip where the names Mom, Dad, Sist
 
 ## Demo videos (CDN)
 
-- https://www.makeviral.ai/media/templates/mom-dad-sister-brother-ai-trend/original-main-v2.mp4
+- https://media.makeviral.ai/templates/mom-dad-sister-brother-ai-trend/original-main-v2.mp4
 
 ## Posters
 
-- https://www.makeviral.ai/media/templates/mom-dad-sister-brother-ai-trend/original-main-v1.jpg
+- https://media.makeviral.ai/templates/mom-dad-sister-brother-ai-trend/original-main-v1.jpg
 
 ## Prompts
 

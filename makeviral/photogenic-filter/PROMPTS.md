@@ -7,12 +7,12 @@ The photogenic filter is a TikTok edit that turns a short clip of you into a pho
 
 ## Demo videos (CDN)
 
-- https://www.makeviral.ai/media/templates/photogenic-filter/example-v1.mp4
+- https://media.makeviral.ai/templates/photogenic-filter/example-v1.mp4
 
 ## Posters
 
-- https://www.makeviral.ai/media/templates/photogenic-filter/example-v1-input.jpg
-- https://www.makeviral.ai/media/templates/photogenic-filter/example-v1-poster.jpg
+- https://media.makeviral.ai/templates/photogenic-filter/example-v1-input.jpg
+- https://media.makeviral.ai/templates/photogenic-filter/example-v1-poster.jpg
 
 ## Prompts
 

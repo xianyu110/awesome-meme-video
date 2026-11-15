@@ -7,11 +7,11 @@ The stop sign what stop sign meme is a night traffic stop on a police body camer
 
 ## Demo videos (CDN)
 
-- https://www.makeviral.ai/media/templates/what-stop-sign-ai-trend/original-pet-v2.mp4
+- https://media.makeviral.ai/templates/what-stop-sign-ai-trend/original-pet-v2.mp4
 
 ## Posters
 
-- https://www.makeviral.ai/media/templates/what-stop-sign-ai-trend/original-pet-v1.jpg
+- https://media.makeviral.ai/templates/what-stop-sign-ai-trend/original-pet-v1.jpg
 
 ## Prompts
 

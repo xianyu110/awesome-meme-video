@@ -7,12 +7,12 @@ The End is an AI trend where your dog or cat waving goodbye becomes a tiny movie
 
 ## Demo videos (CDN)
 
-- https://www.makeviral.ai/media/templates/the-end-ai-trend/example-v1.mp4
+- https://media.makeviral.ai/templates/the-end-ai-trend/example-v1.mp4
 
 ## Posters
 
-- https://www.makeviral.ai/media/templates/the-end-ai-trend/example-v1-input.jpg
-- https://www.makeviral.ai/media/templates/the-end-ai-trend/example-v1-poster.jpg
+- https://media.makeviral.ai/templates/the-end-ai-trend/example-v1-input.jpg
+- https://media.makeviral.ai/templates/the-end-ai-trend/example-v1-poster.jpg
 
 ## Prompts
 

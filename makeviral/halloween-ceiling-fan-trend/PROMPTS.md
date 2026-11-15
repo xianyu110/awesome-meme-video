@@ -7,14 +7,14 @@ The Halloween ceiling fan trend is the ceiling fan outfit change in costume: you
 
 ## Demo videos (CDN)
 
-- https://www.makeviral.ai/media/templates/ai-ceiling-fan-trend/example-v2-halloween.mp4
-- https://www.makeviral.ai/media/templates/ai-ceiling-fan-trend/original-pet-v2.mp4
+- https://media.makeviral.ai/templates/ai-ceiling-fan-trend/example-v2-halloween.mp4
+- https://media.makeviral.ai/templates/ai-ceiling-fan-trend/original-pet-v2.mp4
 
 ## Posters
 
-- https://www.makeviral.ai/media/templates/ai-ceiling-fan-trend/example-input.jpg
-- https://www.makeviral.ai/media/templates/ai-ceiling-fan-trend/example-v2-halloween.jpg
-- https://www.makeviral.ai/media/templates/ai-ceiling-fan-trend/original-pet-v1.jpg
+- https://media.makeviral.ai/templates/ai-ceiling-fan-trend/example-input.jpg
+- https://media.makeviral.ai/templates/ai-ceiling-fan-trend/example-v2-halloween.jpg
+- https://media.makeviral.ai/templates/ai-ceiling-fan-trend/original-pet-v1.jpg
 
 ## Prompts
 

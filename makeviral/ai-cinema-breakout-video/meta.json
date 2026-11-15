@@ -10,11 +10,11 @@
   "published": "2026-09-30",
   "credits": 103,
   "demo_videos": [
-    "https://www.makeviral.ai/media/templates/ai-cinema-breakout-video/example.mp4"
+    "https://media.makeviral.ai/templates/ai-cinema-breakout-video/example.mp4"
   ],
   "posters": [
-    "https://www.makeviral.ai/media/templates/ai-cinema-breakout-video/example-input.jpg",
-    "https://www.makeviral.ai/media/templates/ai-cinema-breakout-video/example-poster.jpg"
+    "https://media.makeviral.ai/templates/ai-cinema-breakout-video/example-input.jpg",
+    "https://media.makeviral.ai/templates/ai-cinema-breakout-video/example-poster.jpg"
   ],
   "prompts": [
     {
@@ -45,5 +45,5 @@
     "Make your own Cinema Breakout video"
   ],
   "prompt_count": 2,
-  "scraped_at": "2026-11-14"
+  "scraped_at": "2026-11-15"
 }

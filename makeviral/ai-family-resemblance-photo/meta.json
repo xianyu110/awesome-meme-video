@@ -10,12 +10,12 @@
   "published": "2026-10-15",
   "credits": 3,
   "demo_videos": [
-    "https://www.makeviral.ai/media/templates/ai-family-resemblance-photo/original-family-v2.mp4",
-    "https://www.makeviral.ai/media/templates/ai-family-resemblance-photo/original-main-v2.mp4"
+    "https://media.makeviral.ai/templates/ai-family-resemblance-photo/original-family-v2.mp4",
+    "https://media.makeviral.ai/templates/ai-family-resemblance-photo/original-main-v2.mp4"
   ],
   "posters": [
-    "https://www.makeviral.ai/media/templates/ai-family-resemblance-photo/original-family-v1.jpg",
-    "https://www.makeviral.ai/media/templates/ai-family-resemblance-photo/original-main-v1.jpg"
+    "https://media.makeviral.ai/templates/ai-family-resemblance-photo/original-family-v1.jpg",
+    "https://media.makeviral.ai/templates/ai-family-resemblance-photo/original-main-v1.jpg"
   ],
   "prompts": [
     {
@@ -36,5 +36,5 @@
     "Make your own Split Face Trend photo"
   ],
   "prompt_count": 1,
-  "scraped_at": "2026-11-14"
+  "scraped_at": "2026-11-15"
 }

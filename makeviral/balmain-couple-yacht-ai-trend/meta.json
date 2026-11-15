@@ -10,10 +10,10 @@
   "published": "2026-11-13",
   "credits": 152,
   "demo_videos": [
-    "https://www.makeviral.ai/media/templates/balmain-couple-yacht-ai-trend/original-trend-v2.mp4"
+    "https://media.makeviral.ai/templates/balmain-couple-yacht-ai-trend/original-trend-v2.mp4"
   ],
   "posters": [
-    "https://www.makeviral.ai/media/templates/balmain-couple-yacht-ai-trend/original-trend-v1.jpg"
+    "https://media.makeviral.ai/templates/balmain-couple-yacht-ai-trend/original-trend-v1.jpg"
   ],
   "prompts": [
     {
@@ -52,5 +52,5 @@
     "Make your own Balmain Yacht Selfie video"
   ],
   "prompt_count": 3,
-  "scraped_at": "2026-11-14"
+  "scraped_at": "2026-11-15"
 }

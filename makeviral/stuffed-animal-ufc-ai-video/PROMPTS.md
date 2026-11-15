@@ -7,11 +7,11 @@ The stuffed animal UFC edit is an AI fight video: a soft plush toy takes the win
 
 ## Demo videos (CDN)
 
-- https://www.makeviral.ai/media/templates/stuffed-animal-ufc-ai-video/original-plush-v2.mp4
+- https://media.makeviral.ai/templates/stuffed-animal-ufc-ai-video/original-plush-v2.mp4
 
 ## Posters
 
-- https://www.makeviral.ai/media/templates/stuffed-animal-ufc-ai-video/original-plush-v1.jpg
+- https://media.makeviral.ai/templates/stuffed-animal-ufc-ai-video/original-plush-v1.jpg
 
 ## Prompts
 

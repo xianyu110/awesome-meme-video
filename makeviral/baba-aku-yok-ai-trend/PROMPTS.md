@@ -1,0 +1,65 @@
+# Baba Akü Yok Yapay Zeka: Star in the Vizontele Battery Scene
+
+- Source: [makeviral](https://www.makeviral.ai/templates/baba-aku-yok-ai-trend)
+- Slug: `baba-aku-yok-ai-trend`
+
+The baba akü yok trend puts two friends into the famous battery scene of the Turkish comedy Vizontele (2001): one opens the hood of an orange pickup, finds the battery stolen and shouts "Baba, akü yok!", the other answers "Kaputu açtınız, bari aküyü çalmayın!".
+
+## Demo videos (CDN)
+
+- https://media.makeviral.ai/templates/baba-aku-yok-ai-trend/original-main-v2.mp4
+
+## Posters
+
+- https://media.makeviral.ai/templates/baba-aku-yok-ai-trend/original-main-v1.jpg
+
+## Prompts
+
+### 1. 1. The video prompt is filled in. Settings: Seedance 2.5, 15 s, 720p, 9:16, sound on. The video prompt
+
+*Kind: video_prompt*
+
+```text
+A funny Turkish comedy film scene set in the 1970s, filmed like a real film: warm sunny colors, light film grain, photorealistic, natural skin. Medium shots and close-ups keep both faces large and sharp.
+
+The one at the truck is the person in [Image 1], in every frame: copy the exact face from [Image 1] (the face shape, eye color and eye shape, eyebrows, nose, mouth, skin tone, age, hair color, hair length and hairstyle, and any beard, moustache, glasses or freckles), with the clothes from [Image 1].
+The one on the chair is the person in [Image 2], in every frame: copy the exact face from [Image 2] (the face shape, eye color and eye shape, eyebrows, nose, mouth, skin tone, age, hair color, hair length and hairstyle, and any beard, moustache, glasses or freckles), with the clothes from [Image 2].
+Both are adults. Never blend their faces, never swap their places or their clothes. Each face stays the same from the first frame to the last, so their friends recognize them at once. Never morph. If an image shows an animal, that one is that animal with its own face, fur and markings, standing on its hind legs, and its mouth moves with its words like a talking animal in a family film.
+
+The place: a dusty little town square in the 1970s on a hot, sunny day: a whitewashed wall with old torn posters, a tall pale blue wooden double door, a small blue wooden chair against the wall, and a small old orange pickup truck with a black wooden flatbed parked in front of the blue door, with no badge and no brand. Nobody else is seen.
+
+0-3 s, a wide shot: the one from [Image 1] gets out of the truck that will not start, slams the door, mutters "Allah Allah..." and lifts the hood. The one from [Image 2] sits on the blue chair by the wall, legs crossed, relaxed.
+3-5 s, a medium close-up of [Image 1] at the open hood: bends in, stares at the empty metal tray where the battery should be, turns toward the wall and calls out, shocked: "Baba, akü yok!"
+5-7 s, a medium shot of [Image 2] on the chair, not getting up, one hand waving: "Şarjı mı bitmiş lan?"
+7-11 s, a hard cut to both at the open hood, from the waist up, both faces large and sharp: [Image 1] spreads both hands: "Baba, akü komple yok. Çalmışlar! Kaputu açmışlar, bir de aküyü çalmışlar!" [Image 2] bends in and stares at the empty tray.
+11-15 s, a closer shot of [Image 2] from the chest up, exactly the face from [Image 2]: straightens up, turns to the empty street, raises one hand and says, dead serious and offended: "Kaputu açtınız, bari aküyü çalmayın!" [Image 1] stares at [Image 2], lost for words, with a straight face.
+
+Audio: natural, clear Turkish speech, each line in the speaker's own voice, the mouth in sync with every word; a door slam, the hood's creak, birds and a quiet street. No music, no other words.
+
+Exactly two characters, nobody else. One head, two arms and five fingers on each hand. No text, no captions, no subtitles, no signs with words, no logos, no watermark.
+```
+
+### 2. 1. The video prompt is filled in. Settings: Seedance 2.5, 15 s, 720p, 9:16, sound on. The video prompt
+
+*Kind: video_prompt*
+
+```text
+A funny Turkish comedy film scene set in the 1970s, filmed like a real film: warm sunny colors, light film grain, photorealistic, natural fur and skin. Medium shots and close-ups keep both faces large and sharp.
+
+The pet at the truck is the animal in [Image 1], in every frame: the same species and breed, face, eyes, ears, muzzle, fur colors, fur length and markings as in [Image 1], with the natural body volume and proportions of that animal: never flattened, squashed, stretched or merged with anything. A talking animal like in a family film: its mouth moves with its words; it keeps its animal face, paws and fur, never a human face, no clothes unless [Image 1] shows them.
+The one on the chair is the person in [Image 2], in every frame: copy the exact face from [Image 2] (the face shape, eye color and eye shape, eyebrows, nose, mouth, skin tone, age, hair color, hair length and hairstyle, and any beard, moustache, glasses or freckles), with the clothes from [Image 2]. If [Image 2] shows an animal too, it is that animal sitting upright on the chair, with its own face, fur and markings, and it talks the same way.
+Never blend them. Each face stays the same from the first frame to the last, so their friends recognize them at once. Never morph.
+
+The place: a dusty little town square in the 1970s on a hot, sunny day: a whitewashed wall with old torn posters, a tall pale blue wooden double door, a small blue wooden chair against the wall, and a small old orange pickup truck with a black wooden flatbed parked in front of the blue door, with no badge and no brand. Nobody else is seen.
+
+0-3 s, a wide shot: the hood of the truck is open. The pet from [Image 1] stands on its hind legs with its front paws on the front bumper and peers into the engine. The one from [Image 2] sits on the blue chair by the wall, legs crossed, relaxed.
+3-5 s, a close-up of the pet at the open hood: it stares at the empty metal tray where the battery should be, ears up, then turns its head toward the wall and says, shocked, in a funny, clear voice: "Baba, akü yok!"
+5-7 s, a medium shot of [Image 2] on the chair, not getting up, one hand waving: "Şarjı mı bitmiş lan?"
+7-11 s, a hard cut to both at the open hood, both faces large and sharp: the pet, paws on the bumper: "Baba, akü komple yok. Çalmışlar!" [Image 2] bends in next to it, stares at the empty tray: "Kaputu açmışlar, bir de aküyü çalmışlar!"
+11-15 s, a closer shot of [Image 2] from the chest up: straightens up, turns to the empty street, raises one hand and says, dead serious and offended: "Kaputu açtınız, bari aküyü çalmayın!" The pet looks up at [Image 2] and tilts its head.
+
+Audio: natural, clear Turkish speech, the pet in a funny, clear voice and [Image 2] in their own voice, the mouths in sync with every word; the creak of the hood, birds and a quiet street. No music, no other words.
+
+Exactly two characters, nobody else. The pet has four paws and one head. No text, no captions, no subtitles, no signs with words, no logos, no watermark.
+```
+

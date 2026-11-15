@@ -7,11 +7,11 @@ The Christmas princess trend, also called the Christmas princess carriage or pri
 
 ## Demo videos (CDN)
 
-- https://www.makeviral.ai/media/templates/christmas-princess-carriage-ai-trend/original-main-v2.mp4
+- https://media.makeviral.ai/templates/christmas-princess-carriage-ai-trend/original-main-v2.mp4
 
 ## Posters
 
-- https://www.makeviral.ai/media/templates/christmas-princess-carriage-ai-trend/original-main-v1.jpg
+- https://media.makeviral.ai/templates/christmas-princess-carriage-ai-trend/original-main-v1.jpg
 
 ## Prompts
 

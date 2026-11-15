@@ -10,11 +10,11 @@
   "published": "2026-11-08",
   "credits": 152,
   "demo_videos": [
-    "https://www.makeviral.ai/media/templates/careless-whisper-car-meme/example-main-v1.mp4"
+    "https://media.makeviral.ai/templates/careless-whisper-car-meme/example-main-v1.mp4"
   ],
   "posters": [
-    "https://www.makeviral.ai/media/templates/careless-whisper-car-meme/example-main-input.jpg",
-    "https://www.makeviral.ai/media/templates/careless-whisper-car-meme/example-main-poster.jpg"
+    "https://media.makeviral.ai/templates/careless-whisper-car-meme/example-main-input.jpg",
+    "https://media.makeviral.ai/templates/careless-whisper-car-meme/example-main-poster.jpg"
   ],
   "prompts": [
     {
@@ -50,5 +50,5 @@
     "Make your own Careless Whisper Car video"
   ],
   "prompt_count": 3,
-  "scraped_at": "2026-11-14"
+  "scraped_at": "2026-11-15"
 }

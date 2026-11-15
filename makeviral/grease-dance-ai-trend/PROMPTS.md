@@ -7,12 +7,12 @@ The Grease trend is back for Halloween: couples dress as Sandy and Danny and dan
 
 ## Demo videos (CDN)
 
-- https://www.makeviral.ai/media/templates/grease-dance-ai-trend/example-main.mp4
+- https://media.makeviral.ai/templates/grease-dance-ai-trend/example-main.mp4
 
 ## Posters
 
-- https://www.makeviral.ai/media/templates/grease-dance-ai-trend/example-main-input.jpg
-- https://www.makeviral.ai/media/templates/grease-dance-ai-trend/example-main-poster.jpg
+- https://media.makeviral.ai/templates/grease-dance-ai-trend/example-main-input.jpg
+- https://media.makeviral.ai/templates/grease-dance-ai-trend/example-main-poster.jpg
 
 ## Prompts
 

@@ -7,11 +7,11 @@ The Coraline filter trend turns you into a doll with black buttons for eyes, the
 
 ## Demo videos (CDN)
 
-- https://www.makeviral.ai/media/templates/coraline-ai-trend/original-main-v2.mp4
+- https://media.makeviral.ai/templates/coraline-ai-trend/original-main-v2.mp4
 
 ## Posters
 
-- https://www.makeviral.ai/media/templates/coraline-ai-trend/original-main-v1.jpg
+- https://media.makeviral.ai/templates/coraline-ai-trend/original-main-v1.jpg
 
 ## Prompts
 

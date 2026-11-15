@@ -7,16 +7,16 @@ The Somebody That I Used To Know AI trend puts two people into the most famous s
 
 ## Demo videos (CDN)
 
-- https://www.makeviral.ai/media/templates/somebody-that-i-used-to-know-ai-trend/example-duo-v2.mp4
-- https://www.makeviral.ai/media/templates/somebody-that-i-used-to-know-ai-trend/original-solo-v2.mp4
-- https://www.makeviral.ai/media/templates/somebody-that-i-used-to-know-ai-trend/original-wall-v2.mp4
+- https://media.makeviral.ai/templates/somebody-that-i-used-to-know-ai-trend/example-duo-v2.mp4
+- https://media.makeviral.ai/templates/somebody-that-i-used-to-know-ai-trend/original-solo-v2.mp4
+- https://media.makeviral.ai/templates/somebody-that-i-used-to-know-ai-trend/original-wall-v2.mp4
 
 ## Posters
 
-- https://www.makeviral.ai/media/templates/somebody-that-i-used-to-know-ai-trend/example-duo-input.jpg
-- https://www.makeviral.ai/media/templates/somebody-that-i-used-to-know-ai-trend/example-duo-poster.jpg
-- https://www.makeviral.ai/media/templates/somebody-that-i-used-to-know-ai-trend/original-solo-v1.jpg
-- https://www.makeviral.ai/media/templates/somebody-that-i-used-to-know-ai-trend/original-wall-v1.jpg
+- https://media.makeviral.ai/templates/somebody-that-i-used-to-know-ai-trend/example-duo-input.jpg
+- https://media.makeviral.ai/templates/somebody-that-i-used-to-know-ai-trend/example-duo-poster.jpg
+- https://media.makeviral.ai/templates/somebody-that-i-used-to-know-ai-trend/original-solo-v1.jpg
+- https://media.makeviral.ai/templates/somebody-that-i-used-to-know-ai-trend/original-wall-v1.jpg
 
 ## Prompts
 

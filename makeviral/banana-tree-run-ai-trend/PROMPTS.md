@@ -7,11 +7,11 @@ AI running on banana trees is the October 2026 trend where you run and jump acro
 
 ## Demo videos (CDN)
 
-- https://www.makeviral.ai/media/templates/banana-tree-run-ai-trend/original-main-v2.mp4
+- https://media.makeviral.ai/templates/banana-tree-run-ai-trend/original-main-v2.mp4
 
 ## Posters
 
-- https://www.makeviral.ai/media/templates/banana-tree-run-ai-trend/original-main-v1.jpg
+- https://media.makeviral.ai/templates/banana-tree-run-ai-trend/original-main-v1.jpg
 
 ## Prompts
 

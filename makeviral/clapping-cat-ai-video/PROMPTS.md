@@ -7,11 +7,11 @@ The clapping cat meme, also called black cat clapping, is an AI clip from Septem
 
 ## Demo videos (CDN)
 
-- https://www.makeviral.ai/media/templates/clapping-cat-ai-video/original-pet-v2.mp4
+- https://media.makeviral.ai/templates/clapping-cat-ai-video/original-pet-v2.mp4
 
 ## Posters
 
-- https://www.makeviral.ai/media/templates/clapping-cat-ai-video/original-pet-v1.jpg
+- https://media.makeviral.ai/templates/clapping-cat-ai-video/original-pet-v1.jpg
 
 ## Prompts
 

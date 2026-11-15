@@ -7,12 +7,12 @@ The Cilvelim AI trend is the Turkish back-seat lip-sync of November 2026: one ph
 
 ## Demo videos (CDN)
 
-- https://www.makeviral.ai/media/templates/cilvelim-ai-trend/example-main-v1.mp4
+- https://media.makeviral.ai/templates/cilvelim-ai-trend/example-main-v1.mp4
 
 ## Posters
 
-- https://www.makeviral.ai/media/templates/cilvelim-ai-trend/example-main-poster.jpg
-- https://www.makeviral.ai/media/templates/insallah-masallah-ai-trend/example-main-input.jpg
+- https://media.makeviral.ai/templates/cilvelim-ai-trend/example-main-poster.jpg
+- https://media.makeviral.ai/templates/insallah-masallah-ai-trend/example-main-input.jpg
 
 ## Prompts
 

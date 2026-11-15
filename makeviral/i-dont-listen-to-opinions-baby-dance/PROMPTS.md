@@ -7,12 +7,12 @@ The I Don't Listen to Opinions baby dance is a TikTok AI trend: a baby does a pr
 
 ## Demo videos (CDN)
 
-- https://www.makeviral.ai/media/templates/i-dont-listen-to-opinions-baby-dance/example-v1.mp4
+- https://media.makeviral.ai/templates/i-dont-listen-to-opinions-baby-dance/example-v1.mp4
 
 ## Posters
 
-- https://www.makeviral.ai/media/templates/i-dont-listen-to-opinions-baby-dance/example-v1-input.jpg
-- https://www.makeviral.ai/media/templates/i-dont-listen-to-opinions-baby-dance/example-v1-poster.jpg
+- https://media.makeviral.ai/templates/i-dont-listen-to-opinions-baby-dance/example-v1-input.jpg
+- https://media.makeviral.ai/templates/i-dont-listen-to-opinions-baby-dance/example-v1-poster.jpg
 
 ## Prompts
 

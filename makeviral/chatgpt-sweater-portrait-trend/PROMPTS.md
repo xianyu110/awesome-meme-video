@@ -7,13 +7,13 @@ The ChatGPT sweater trend, also called the AI sweater trend, turns one selfie in
 
 ## Demo videos (CDN)
 
-- https://www.makeviral.ai/media/templates/chatgpt-sweater-portrait-trend/original-billie-v2.mp4
-- https://www.makeviral.ai/media/templates/chatgpt-sweater-portrait-trend/original-darstarr-v2.mp4
+- https://media.makeviral.ai/templates/chatgpt-sweater-portrait-trend/original-billie-v2.mp4
+- https://media.makeviral.ai/templates/chatgpt-sweater-portrait-trend/original-darstarr-v2.mp4
 
 ## Posters
 
-- https://www.makeviral.ai/media/templates/chatgpt-sweater-portrait-trend/original-billie-v1.jpg
-- https://www.makeviral.ai/media/templates/chatgpt-sweater-portrait-trend/original-darstarr-v1.jpg
+- https://media.makeviral.ai/templates/chatgpt-sweater-portrait-trend/original-billie-v1.jpg
+- https://media.makeviral.ai/templates/chatgpt-sweater-portrait-trend/original-darstarr-v1.jpg
 
 ## Prompts
 

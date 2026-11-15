@@ -7,11 +7,11 @@ The Opa Opa Opa trend is the TikTok trend where you film a selfie, bounce to a s
 
 ## Demo videos (CDN)
 
-- https://www.makeviral.ai/media/templates/opa-opa-bouncy-hair-ai/original-bounce-v2.mp4
+- https://media.makeviral.ai/templates/opa-opa-bouncy-hair-ai/original-bounce-v2.mp4
 
 ## Posters
 
-- https://www.makeviral.ai/media/templates/opa-opa-bouncy-hair-ai/original-bounce-v1.jpg
+- https://media.makeviral.ai/templates/opa-opa-bouncy-hair-ai/original-bounce-v1.jpg
 
 ## Prompts
 

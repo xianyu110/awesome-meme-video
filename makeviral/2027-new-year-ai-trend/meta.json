@@ -10,15 +10,15 @@
   "published": "2026-10-29",
   "credits": 46,
   "demo_videos": [
-    "https://www.makeviral.ai/media/templates/2027-new-year-ai-trend/example-self.mp4",
-    "https://www.makeviral.ai/media/templates/2027-new-year-ai-trend/original-goodbye-v1.mp4",
-    "https://www.makeviral.ai/media/templates/2027-new-year-ai-trend/original-human-v1.mp4"
+    "https://media.makeviral.ai/templates/2027-new-year-ai-trend/example-self.mp4",
+    "https://media.makeviral.ai/templates/2027-new-year-ai-trend/original-goodbye-v1.mp4",
+    "https://media.makeviral.ai/templates/2027-new-year-ai-trend/original-human-v1.mp4"
   ],
   "posters": [
-    "https://www.makeviral.ai/media/templates/2027-new-year-ai-trend/example-self-input.jpg",
-    "https://www.makeviral.ai/media/templates/2027-new-year-ai-trend/example-self-poster.jpg",
-    "https://www.makeviral.ai/media/templates/2027-new-year-ai-trend/original-goodbye-v1.jpg",
-    "https://www.makeviral.ai/media/templates/2027-new-year-ai-trend/original-human-v1.jpg"
+    "https://media.makeviral.ai/templates/2027-new-year-ai-trend/example-self-input.jpg",
+    "https://media.makeviral.ai/templates/2027-new-year-ai-trend/example-self-poster.jpg",
+    "https://media.makeviral.ai/templates/2027-new-year-ai-trend/original-goodbye-v1.jpg",
+    "https://media.makeviral.ai/templates/2027-new-year-ai-trend/original-human-v1.jpg"
   ],
   "prompts": [
     {
@@ -99,5 +99,5 @@
     "Make your own Hello 2027 video"
   ],
   "prompt_count": 10,
-  "scraped_at": "2026-11-14"
+  "scraped_at": "2026-11-15"
 }

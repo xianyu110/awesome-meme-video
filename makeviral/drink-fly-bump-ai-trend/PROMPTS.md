@@ -7,13 +7,13 @@ The drink fly bump is a viral AI clip: a woman on the phone walks a sunny street
 
 ## Demo videos (CDN)
 
-- https://www.makeviral.ai/media/templates/drink-fly-bump-ai-trend/original-drink-v2.mp4
-- https://www.makeviral.ai/media/templates/drink-fly-bump-ai-trend/original-tall-drink-v2.mp4
+- https://media.makeviral.ai/templates/drink-fly-bump-ai-trend/original-drink-v2.mp4
+- https://media.makeviral.ai/templates/drink-fly-bump-ai-trend/original-tall-drink-v2.mp4
 
 ## Posters
 
-- https://www.makeviral.ai/media/templates/drink-fly-bump-ai-trend/original-drink-v1.jpg
-- https://www.makeviral.ai/media/templates/drink-fly-bump-ai-trend/original-tall-drink-v1.jpg
+- https://media.makeviral.ai/templates/drink-fly-bump-ai-trend/original-drink-v1.jpg
+- https://media.makeviral.ai/templates/drink-fly-bump-ai-trend/original-tall-drink-v1.jpg
 
 ## Prompts
 

@@ -3,7 +3,7 @@
 > The wedding money rain is the moment at a Pakistani or Indian wedding when friends shower the dancers with banknotes.
 
 Canonical: https://www.makeviral.ai/templates/ai-money-rain-party
-Updated: 2026-10-22
+Updated: 2026-11-14
 Published: 2026-10-22
 Author: MakeViral Team (https://www.makeviral.ai/about)
 Publisher: MakeViral (https://www.makeviral.ai)
@@ -12,11 +12,11 @@ The **wedding money rain** is the moment at a Pakistani or Indian wedding when f
 
 Add one photo. AI makes a 10-second clip: you dance in the middle of a wedding crowd while the guests throw cash and a storm of paper notes rains down on you.
 
-Also called: Notan di barish, Shaadi money rain, Note barsana, Money rain scene, Paisa hi paisa.
+Also called: Notan di barish, Shaadi money rain, Note barsana, Money rain scene, Paisa hi paisa, Helicopter money drop, Helicopter cash drop.
 
 **Make it now:** [Make this video](https://www.makeviral.ai/templates/ai-money-rain-party/create). 1 photo · 10 s · 9:16 with sound · 126 credits, charged once · ready in a few minutes · no prompt to write.
 
-Keyword: wedding money rain. Also answers: money rain wedding, paise ki barish, ai money rain, money rain party, money rain dance, paise ki barish video, money rain video, paison ki barish, wedding money rain status, money rain in friends wedding, paiso ki barish, shadi me paise udana, noto ki barish, pakistani wedding money rain, desi wedding money rain, paise ki barish app, paise ki barish photo, money shower dance, throwing money at wedding, money rain dance video, money rain effect, how to make money rain video, ai wedding dance video, wedding money dance, پیسوں کی بارش, पैसों की बारिश.
+Keyword: wedding money rain. Also answers: money rain wedding, paise ki barish, ai money rain, money rain party, money rain dance, paise ki barish video, money rain video, paison ki barish, wedding money rain status, money rain in friends wedding, paiso ki barish, shadi me paise udana, noto ki barish, pakistani wedding money rain, desi wedding money rain, paise ki barish app, paise ki barish photo, money shower dance, throwing money at wedding, money rain dance video, money rain effect, how to make money rain video, ai wedding dance video, wedding money dance, پیسوں کی بارش, पैसों की बारिश, throwing money from helicopter, money dropped from helicopter, money from helicopter, dropping money from helicopter, money thrown from helicopter, money falling from helicopter, money drop helicopter.
 
 ## What is the Money Rain Party trend, and where did it start?
 
@@ -36,11 +36,14 @@ In October 2026 the custom became an AI trend. On 16 October the Pakistani AI te
 Made from the prompts on this page. The people and pets are AI-made, not real persons, and the sound is original. Your result will differ from run to run.
 
 - **Example 1** (4 s, 9:16 MP4 with sound): An AI result from @lulu.ai04's tutorial (16 October 2026, 607,700 views): men in festive shalwar kameez dance down a wedding hall under chandeliers while the notes rain on them. The Wedding hall place makes this kind of clip with you in the middle.
-  - Video: https://www.makeviral.ai/media/templates/ai-money-rain-party/original-hall-v2.mp4
-  - Poster: https://www.makeviral.ai/media/templates/ai-money-rain-party/original-hall-v1.jpg
+  - Video: https://media.makeviral.ai/templates/ai-money-rain-party/original-hall-v2.mp4
+  - Poster: https://media.makeviral.ai/templates/ai-money-rain-party/original-hall-v1.jpg
 - **Example 2** (4 s, 9:16 MP4 with sound): An AI result from @lulu.ai04's tutorial of 18 October 2026 (405,100 views): a guest dances past a seated band on a lit terrace while the notes fly. The Terrace party place is this look.
-  - Video: https://www.makeviral.ai/media/templates/ai-money-rain-party/original-terrace-v2.mp4
-  - Poster: https://www.makeviral.ai/media/templates/ai-money-rain-party/original-terrace-v1.jpg
+  - Video: https://media.makeviral.ai/templates/ai-money-rain-party/original-terrace-v2.mp4
+  - Poster: https://media.makeviral.ai/templates/ai-money-rain-party/original-terrace-v1.jpg
+- **Example 3** (10 s, 9:16 MP4 with sound): The trend's template clip for the helicopter money drop (November 2026): a passenger tosses stacks of bills from the open door of a helicopter over a big city, and the crowd in the street below catches them. The Helicopter version puts you in that seat.
+  - Video: https://media.makeviral.ai/templates/ai-money-rain-party/original-heli-v2.mp4
+  - Poster: https://media.makeviral.ai/templates/ai-money-rain-party/original-heli-v1.jpg
 
 ## How to make the Money Rain Party video on MakeViral
 
@@ -55,6 +58,8 @@ Everything runs in the browser. No editing app, no watermark.
 ### The by-hand way, with the exact prompts
 
 The one-tap flow runs this prompt for you. The video model takes your photo as a reference ([Image 1]) and films the scene straight from it, with no photo step first. AI Video takes one photo as the first frame, so it cannot run this prompt the same way: the prompt is here to read.
+
+#### Variant: You
 
 Settings: 1 photo (you, face clear, knees up or full body) · Seedance 2.5 · 10 s · 720p · 9:16 · with sound · 126 credits in one tap.
 
@@ -81,6 +86,64 @@ The person from [Image 1] is the only dancer in the center; every guest is a dif
 2. Press Generate, then download the 9:16 MP4.
 
 One-tap version of this variant: https://www.makeviral.ai/templates/ai-money-rain-party/create
+
+#### Variant: Helicopter
+
+Settings: 1 photo (you, face clear, waist up or knees up) · Seedance 2.5 · 11 s · 720p · 9:16 · no sound · 168 credits in one tap.
+
+1. The video prompt is filled in. Settings: Seedance 2.5, 11 s, 720p, 9:16, sound off. The video prompt:
+
+   ```text
+   Edit Video 1: recreate the reference video [Video 1] shot for shot: the open door of a helicopter high above the skyscrapers of a big city on a bright day, then the crowd in the street below, with the same four shots, camera angles, cuts, timing and moves. Replace the subject tossing cash from a helicopter doorway as banknotes soar away in the wind. The ONLY change: the woman by the open door is now the person in [Image 1]. Only replace the person; the helicopter cabin, the cash, the city, the crowd, the moves, the timing and the camera stay completely unchanged. Keep everything else the same.
+
+The passenger = the person in [Image 1], in EVERY shot where the passenger shows: copy the exact face from [Image 1] (the face shape, eye color and eye shape, eyebrows, nose, mouth, skin tone, age, hair color, hair length and hairstyle, and any beard, moustache, glasses or freckles). The passenger wears the clothes from [Image 1]; if [Image 1] shows only the head or the upper body, invent the rest so it matches naturally. The same real person in every frame, so their friends recognize them at once. Never morph, never drift back to the original woman's face. NO long wavy blonde hair and NO drop earrings unless [Image 1] shows them.
+
+Shot 1 [0-2.6s]: inside the helicopter cabin, a medium shot: the passenger sits on the cream leather seat right by the open door with a pile of cash bundles on the lap, one hand up on the grab handle, glances out over the skyline and tosses a few bills out of the door with the other hand, calm and confident. The face is large, sharp and clearly visible.
+Shot 2 [2.6-5.8s]: hard cut, the passenger's point of view through the open door: the passenger's arm, in the sleeve of the clothes from [Image 1], reaches out and tosses handfuls of bills into the wind, the bills scatter and soar away over the city far below, a hand holds a phone at the bottom of the frame and films, and the camera tilts down toward the streets.
+Shot 3 [5.8-8.5s]: hard cut, street level, looking up: a big crowd of adults in a city street between tall buildings reaches up with both hands while the helicopter hovers in the blue sky above and the bills rain down.
+Shot 4 [8.5-10.4s]: hard cut, another angle on the crowd: people reach up, catch the falling bills and cheer.
+
+The crowd in shots 3 and 4 stays exactly as in [Video 1]: grown adults, each with their own face, never the face from [Image 1].
+
+The cash: generic banded bundles of green bills, like movie prop money. The bills stay soft, with no readable serial numbers, no portrait in focus and no other writing.
+
+No dialogue throughout the entire video. No background music.
+
+Anatomy rules: one head only, on the passenger's shoulders. Two arms and two hands, five fingers on each hand. Exactly one person in the helicopter cabin. No text, no captions, no subtitles, no logos, no watermark, no readable writing on the bills or on the phone.
+   ```
+
+2. Press Generate, then download the 9:16 MP4.
+
+One-tap version of this variant: https://www.makeviral.ai/templates/ai-money-rain-party/create?variant=heli
+
+#### Variant: Pet
+
+Settings: 1 photo (your pet, face clear) · Seedance 2.5 · 11 s · 720p · 9:16 · no sound · 168 credits in one tap.
+
+1. The video prompt is filled in. Settings: Seedance 2.5, 11 s, 720p, 9:16, sound off. The video prompt:
+
+   ```text
+   Edit Video 1: recreate the reference video [Video 1] shot for shot: the open door of a helicopter high above the skyscrapers of a big city on a bright day, then the crowd in the street below, with the same four shots, camera angles, cuts, timing and moves. Replace the subject tossing cash from a helicopter doorway as banknotes soar away in the wind. The ONLY change: the woman by the open door is now the pet in [Image 1]. Only replace the passenger; the helicopter cabin, the cash, the city, the crowd, the timing and the camera stay completely unchanged. Keep everything else the same.
+
+The pet = the pet in [Image 1], in EVERY shot where the passenger shows: the same species and breed, face, eyes, ears, muzzle, fur colors, fur length and markings as in [Image 1], with the natural body volume and proportions of that animal: never flattened, squashed, stretched or merged with anything. Whether [Image 1] shows a dog, a cat or another animal, it stays that animal, sitting upright on the cream leather seat by the open door. The same pet in every frame, so its owner recognizes it at once. Never drift back to the woman: no human body, no human face, no long blonde hair, no earrings, no black suit unless [Image 1] shows them.
+
+Shot 1 [0-2.6s]: inside the helicopter cabin, a medium shot: the pet sits upright on the seat right by the open door with a pile of cash bundles in front of it, looks out over the skyline, then swipes a front paw and knocks a few bills out of the door. The face is large, sharp and clearly visible.
+Shot 2 [2.6-5.8s]: hard cut, the view through the open door: the pet's front paw reaches out and swipes bundles of bills into the wind, the bills scatter and soar away over the city far below, and the camera tilts down toward the streets. The only human in the cabin is the person filming: only one hand with the phone shows at the bottom of the frame. The paw that swipes the bills is an animal paw, never a human hand.
+Shot 3 [5.8-8.5s]: hard cut, street level, looking up: a big crowd of adults in a city street between tall buildings reaches up with both hands while the helicopter hovers in the blue sky above and the bills rain down.
+Shot 4 [8.5-10.4s]: hard cut, another angle on the crowd: people reach up, catch the falling bills and cheer.
+
+The crowd in shots 3 and 4 stays exactly as in [Video 1]: grown adults, each with their own face, never the face from [Image 1].
+
+The cash: generic banded bundles of green bills, like movie prop money. The bills stay soft, with no readable serial numbers, no portrait in focus and no other writing.
+
+No dialogue throughout the entire video. No background music.
+
+Anatomy rules: one head only, one muzzle, natural teeth and tongue. Animal paws, never human hands on the pet. Exactly one animal in the helicopter cabin. No text, no captions, no subtitles, no logos, no watermark, no readable writing on the bills or on the phone.
+   ```
+
+2. Press Generate, then download the 9:16 MP4.
+
+One-tap version of this variant: https://www.makeviral.ai/templates/ai-money-rain-party/create?variant=pet
 
 ### Which photo works best?
 
@@ -125,6 +188,8 @@ Pick the place on the create page. All three cost the same and run 10 seconds. T
 - **Terrace party:** a rooftop terrace at night with lit stone pillars and a seated band. The money rain party look, for a birthday or any big night.
 
 The crowd in every place is grown-ups only.
+
+**Helicopter** (its own version, with a **Pet** take): the helicopter money drop. You sit by the open door of a helicopter high over a big city and toss stacks of bills into the wind while the crowd below catches them, about 10 seconds with the clip's own sound.
 
 ## The money rain on TikTok vs the AI version here
 
@@ -190,6 +255,10 @@ No. In the ATM glitch, cash bursts out of an ATM on a security camera. In the mo
 
 Yes. A 10-second video costs credits, the create page shows the exact price on the Generate button before you spend anything, and if a run fails, the credits come back.
 
+### Can I make the helicopter money drop?
+
+Yes, with the Helicopter version. AI video sites added this helicopter cash drop clip on 10 November 2026: you sit by the open door of a helicopter, throwing money from the helicopter in stacks, and the money dropped from the helicopter goes falling onto a cheering crowd in a city street. It copies real stunts like dropping money from a helicopter onto fans, as the Czech TV personality Kazma did with $1 million in October 2023. The Pet version puts your dog or cat in the seat. The money thrown in the video is a party prop too.
+
 ### Is my photo private?
 
 Yes. MakeViral does not post your photo or the video anywhere or show them to other users. The video goes to your private My videos page, and you can delete it there at any time.
@@ -204,12 +273,12 @@ Yes. MakeViral does not post your photo or the video anywhere or show them to ot
 
 ## New AI video trends this week
 
-- [AI Cat Gym Video: Put Your Pet on the Air Walker](https://www.makeviral.ai/templates/ai-cat-gym-video): Add one photo, and your cat or dog stands upright on an outdoor air walker, legs swinging out of control, until it slips off and tumbles to the ground, in the same take as the viral clip, with its original sound. You can take the fall yourself, too.
-- [Jensen Huang AI Video: Take the Wheel Next to the Nvidia CEO](https://www.makeviral.ai/templates/jensen-huang-ai-video): The car clip that started the Jensen Huang AI memes, with you at the wheel. Add one photo, and you (or your pet) drive the Nvidia CEO in his black leather jacket, with the clip's own sound.
-- [Cat Shower AI: Dodge the Water, Dive Under the Blanket](https://www.makeviral.ai/templates/cat-shower-ai-trend): The cat scoops the water, pours it over its head and leans away so not one drop hits it. Then it shivers and runs to bed. Add one photo, and you or your pet take the cat's place, with the trend's own sound.
-- [Tying My Shoes Meme: Put Yourself Behind the Tip Cup](https://www.makeviral.ai/templates/tying-shoes-money-ai-trend): You put your cup down to tie your shoe, and people start dropping cash in it. Add one photo, and you or your pet star in the viral clip, grin and all, with its original sound.
-- [MobLand Dance AI: Do Paul's Dance From One Photo](https://www.makeviral.ai/templates/mobland-paul-dance-ai): Lean in to the camera, step back, then the knee lifts, the little kicks, the shrugs and the hand flicks, with a straight face that keeps breaking into a grin. Add one photo of you or your pet and get the 10 second clip with the music.
-- [Bad Aim Edit AI Trend: Miss the Target, Then Own the Office](https://www.makeviral.ai/templates/bad-aim-edit-ai-trend): You try archery in a grass field and miss the flying target badly. Then a hard cut: a cool black and white office edit in black fight gloves, with a mug, a shh and a walk out the door. Add one photo of you or your pet.
+- [Never Let Her Pay: Pay for Dinner With a Sponge](https://www.makeviral.ai/templates/never-let-her-pay-ai-trend): "I got this." Add one photo, and you play the gentleman in the white dinner jacket who stops his date from paying, opens his pouch to show a kitchen sponge and gets walked to the kitchen to wash the dishes. With the clip's own sound.
+- [Snowman Dance AI: Do the Viral Sia Couple Dance From Two Photos](https://www.makeviral.ai/templates/snowman-dance-ai-trend): Hands behind your backs, a spin under the arm, a quick twirl around each other, and then one of you jumps on the other. Add a photo of you and one of your partner, or of two pets, and get the whole Snowman dance with the song.
+- [Self Hug Sketch: A Giant Pencil Drawing of You Hugs You](https://www.makeviral.ai/templates/self-hug-sketch-ai-trend): Add one photo. You lean on a grey wall while a huge black-and-white pencil sketch of you, drawn on the wall, wraps its arms around you, with "Embrace of my own self" written beside you.
+- [Need for Speed AI Trend: Your Car in the Movie Scene](https://www.makeviral.ai/templates/need-for-speed-ai-trend): Add one photo of your car or truck. AI puts it in the trend's movie-style street scene: it rolls through town, spins burnouts in thick tire smoke while people watch, and rolls away, with the trend's own sound.
+- [Tweenslop AI: Turn One Photo Into a Tweenslop Animation](https://www.makeviral.ai/templates/tweenslop-ai-trend): Your photo becomes a flat cut-out that zooms, squashes, spins and flies with a rainbow trail on every beat of a Brazilian funk track, with white, pink, purple and green flashes. You, your pet or any object.
+- [We Don't Talk Anymore Dance: Do the Viral Freestyle From One Photo](https://www.makeviral.ai/templates/we-dont-talk-anymore-dance-ai-trend): The sped-up "We Don't Talk Anymore" freestyle is all over TikTok. Add one photo, and you dance it on the trend's stage, barefoot on a driveway at night with your shoes in one hand, or your pet takes the stage.
 
 ## Make your own Money Rain Party video
 

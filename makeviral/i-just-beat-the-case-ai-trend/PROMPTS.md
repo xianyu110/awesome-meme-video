@@ -7,11 +7,11 @@ I just beat the case is a viral phone clip of a man who pushes out of a courthou
 
 ## Demo videos (CDN)
 
-- https://www.makeviral.ai/media/templates/i-just-beat-the-case-ai-trend/original-pet-v2.mp4
+- https://media.makeviral.ai/templates/i-just-beat-the-case-ai-trend/original-pet-v2.mp4
 
 ## Posters
 
-- https://www.makeviral.ai/media/templates/i-just-beat-the-case-ai-trend/original-pet-v1.jpg
+- https://media.makeviral.ai/templates/i-just-beat-the-case-ai-trend/original-pet-v1.jpg
 
 ## Prompts
 

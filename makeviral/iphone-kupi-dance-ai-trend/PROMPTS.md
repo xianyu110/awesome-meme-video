@@ -7,11 +7,11 @@ The iPhone Kupi dance is Win William's viral clip of 23 October 2026: he opens a
 
 ## Demo videos (CDN)
 
-- https://www.makeviral.ai/media/templates/iphone-kupi-dance-ai-trend/original-main-v4.mp4
+- https://media.makeviral.ai/templates/iphone-kupi-dance-ai-trend/original-main-v4.mp4
 
 ## Posters
 
-- https://www.makeviral.ai/media/templates/iphone-kupi-dance-ai-trend/original-main-v1.jpg
+- https://media.makeviral.ai/templates/iphone-kupi-dance-ai-trend/original-main-v1.jpg
 
 ## Prompts
 

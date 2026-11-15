@@ -10,12 +10,12 @@
   "published": "2026-10-16",
   "credits": 101,
   "demo_videos": [
-    "https://www.makeviral.ai/media/templates/topo-gigio-celebration-ai-trend/original-reel-v2.mp4",
-    "https://www.makeviral.ai/media/templates/topo-gigio-celebration-ai-trend/original-trend-v2.mp4"
+    "https://media.makeviral.ai/templates/topo-gigio-celebration-ai-trend/original-reel-v2.mp4",
+    "https://media.makeviral.ai/templates/topo-gigio-celebration-ai-trend/original-trend-v2.mp4"
   ],
   "posters": [
-    "https://www.makeviral.ai/media/templates/topo-gigio-celebration-ai-trend/original-reel-v1.jpg",
-    "https://www.makeviral.ai/media/templates/topo-gigio-celebration-ai-trend/original-trend-v1.jpg"
+    "https://media.makeviral.ai/templates/topo-gigio-celebration-ai-trend/original-reel-v1.jpg",
+    "https://media.makeviral.ai/templates/topo-gigio-celebration-ai-trend/original-trend-v1.jpg"
   ],
   "prompts": [
     {
@@ -42,5 +42,5 @@
     "Make your own Topo Gigio Celebration video"
   ],
   "prompt_count": 2,
-  "scraped_at": "2026-11-14"
+  "scraped_at": "2026-11-15"
 }

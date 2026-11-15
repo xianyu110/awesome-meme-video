@@ -7,15 +7,15 @@ An AI Halloween costume try-on shows you in a costume, on your own body, before 
 
 ## Demo videos (CDN)
 
-- https://www.makeviral.ai/media/templates/ai-halloween-costume/example-reveal.mp4
-- https://www.makeviral.ai/media/templates/ai-halloween-costume/example-v2.mp4
+- https://media.makeviral.ai/templates/ai-halloween-costume/example-reveal.mp4
+- https://media.makeviral.ai/templates/ai-halloween-costume/example-v2.mp4
 
 ## Posters
 
-- https://www.makeviral.ai/media/templates/ai-halloween-costume/example-reveal-input.jpg
-- https://www.makeviral.ai/media/templates/ai-halloween-costume/example-reveal-poster.jpg
-- https://www.makeviral.ai/media/templates/ai-halloween-costume/example-v2-input.jpg
-- https://www.makeviral.ai/media/templates/ai-halloween-costume/example-v2-poster.jpg
+- https://media.makeviral.ai/templates/ai-halloween-costume/example-reveal-input.jpg
+- https://media.makeviral.ai/templates/ai-halloween-costume/example-reveal-poster.jpg
+- https://media.makeviral.ai/templates/ai-halloween-costume/example-v2-input.jpg
+- https://media.makeviral.ai/templates/ai-halloween-costume/example-v2-poster.jpg
 
 ## Prompts
 

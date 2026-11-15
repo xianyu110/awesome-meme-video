@@ -7,21 +7,21 @@ The angel or devil filter is the TikTok face effect that puts a meter over your 
 
 ## Demo videos (CDN)
 
-- https://www.makeviral.ai/media/templates/angel-or-devil-ai-filter/example-angel.mp4
-- https://www.makeviral.ai/media/templates/angel-or-devil-ai-filter/example-devil.mp4
-- https://www.makeviral.ai/media/templates/angel-or-devil-ai-filter/example-main.mp4
-- https://www.makeviral.ai/media/templates/angel-or-devil-ai-filter/example-pet.mp4
+- https://media.makeviral.ai/templates/angel-or-devil-ai-filter/example-angel.mp4
+- https://media.makeviral.ai/templates/angel-or-devil-ai-filter/example-devil.mp4
+- https://media.makeviral.ai/templates/angel-or-devil-ai-filter/example-main.mp4
+- https://media.makeviral.ai/templates/angel-or-devil-ai-filter/example-pet.mp4
 
 ## Posters
 
-- https://www.makeviral.ai/media/templates/angel-or-devil-ai-filter/example-angel-input.jpg
-- https://www.makeviral.ai/media/templates/angel-or-devil-ai-filter/example-angel-poster.jpg
-- https://www.makeviral.ai/media/templates/angel-or-devil-ai-filter/example-devil-input.jpg
-- https://www.makeviral.ai/media/templates/angel-or-devil-ai-filter/example-devil-poster.jpg
-- https://www.makeviral.ai/media/templates/angel-or-devil-ai-filter/example-main-input.jpg
-- https://www.makeviral.ai/media/templates/angel-or-devil-ai-filter/example-main-poster.jpg
-- https://www.makeviral.ai/media/templates/angel-or-devil-ai-filter/example-pet-input.jpg
-- https://www.makeviral.ai/media/templates/angel-or-devil-ai-filter/example-pet-poster.jpg
+- https://media.makeviral.ai/templates/angel-or-devil-ai-filter/example-angel-input.jpg
+- https://media.makeviral.ai/templates/angel-or-devil-ai-filter/example-angel-poster.jpg
+- https://media.makeviral.ai/templates/angel-or-devil-ai-filter/example-devil-input.jpg
+- https://media.makeviral.ai/templates/angel-or-devil-ai-filter/example-devil-poster.jpg
+- https://media.makeviral.ai/templates/angel-or-devil-ai-filter/example-main-input.jpg
+- https://media.makeviral.ai/templates/angel-or-devil-ai-filter/example-main-poster.jpg
+- https://media.makeviral.ai/templates/angel-or-devil-ai-filter/example-pet-input.jpg
+- https://media.makeviral.ai/templates/angel-or-devil-ai-filter/example-pet-poster.jpg
 
 ## Prompts
 

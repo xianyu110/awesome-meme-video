@@ -7,11 +7,11 @@ The hole in shirt effect is a TikTok photo effect from October 2026: a round hol
 
 ## Demo videos (CDN)
 
-- https://www.makeviral.ai/media/templates/hole-in-shirt-ai-effect/original-main-v2.mp4
+- https://media.makeviral.ai/templates/hole-in-shirt-ai-effect/original-main-v2.mp4
 
 ## Posters
 
-- https://www.makeviral.ai/media/templates/hole-in-shirt-ai-effect/original-main-v1.jpg
+- https://media.makeviral.ai/templates/hole-in-shirt-ai-effect/original-main-v1.jpg
 
 ## Prompts
 

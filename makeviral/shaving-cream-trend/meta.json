@@ -10,10 +10,10 @@
   "published": "2026-10-28",
   "credits": 92,
   "demo_videos": [
-    "https://www.makeviral.ai/media/templates/shaving-cream-trend/original-car-v2.mp4"
+    "https://media.makeviral.ai/templates/shaving-cream-trend/original-car-v2.mp4"
   ],
   "posters": [
-    "https://www.makeviral.ai/media/templates/shaving-cream-trend/original-car-v1.jpg"
+    "https://media.makeviral.ai/templates/shaving-cream-trend/original-car-v1.jpg"
   ],
   "prompts": [
     {
@@ -49,5 +49,5 @@
     "Make your own Shaving Cream Trend video"
   ],
   "prompt_count": 3,
-  "scraped_at": "2026-11-14"
+  "scraped_at": "2026-11-15"
 }

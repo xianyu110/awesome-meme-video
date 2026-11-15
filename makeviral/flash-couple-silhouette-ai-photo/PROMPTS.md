@@ -7,13 +7,13 @@ The flashlight trend is a romantic AI couple photo: the two of you close togethe
 
 ## Demo videos (CDN)
 
-- https://www.makeviral.ai/media/templates/flash-couple-silhouette-ai-photo/original-main-v2.mp4
-- https://www.makeviral.ai/media/templates/flash-couple-silhouette-ai-photo/original-top-v2.mp4
+- https://media.makeviral.ai/templates/flash-couple-silhouette-ai-photo/original-main-v2.mp4
+- https://media.makeviral.ai/templates/flash-couple-silhouette-ai-photo/original-top-v2.mp4
 
 ## Posters
 
-- https://www.makeviral.ai/media/templates/flash-couple-silhouette-ai-photo/original-main-v1.jpg
-- https://www.makeviral.ai/media/templates/flash-couple-silhouette-ai-photo/original-top-v1.jpg
+- https://media.makeviral.ai/templates/flash-couple-silhouette-ai-photo/original-main-v1.jpg
+- https://media.makeviral.ai/templates/flash-couple-silhouette-ai-photo/original-top-v1.jpg
 
 ## Prompts
 

@@ -10,12 +10,12 @@
   "published": "2026-11-13",
   "credits": 168,
   "demo_videos": [
-    "https://www.makeviral.ai/media/templates/aint-you-my-gangsta-ai-trend/original-duo-v2.mp4",
-    "https://www.makeviral.ai/media/templates/aint-you-my-gangsta-ai-trend/original-pet-v2.mp4"
+    "https://media.makeviral.ai/templates/aint-you-my-gangsta-ai-trend/original-duo-v2.mp4",
+    "https://media.makeviral.ai/templates/aint-you-my-gangsta-ai-trend/original-pet-v2.mp4"
   ],
   "posters": [
-    "https://www.makeviral.ai/media/templates/aint-you-my-gangsta-ai-trend/original-duo-v1.jpg",
-    "https://www.makeviral.ai/media/templates/aint-you-my-gangsta-ai-trend/original-pet-v1.jpg"
+    "https://media.makeviral.ai/templates/aint-you-my-gangsta-ai-trend/original-duo-v1.jpg",
+    "https://media.makeviral.ai/templates/aint-you-my-gangsta-ai-trend/original-pet-v1.jpg"
   ],
   "prompts": [
     {
@@ -46,5 +46,5 @@
     "Make your own Ain't You My Gangsta video"
   ],
   "prompt_count": 2,
-  "scraped_at": "2026-11-14"
+  "scraped_at": "2026-11-15"
 }

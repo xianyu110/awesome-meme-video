@@ -7,11 +7,11 @@ The wyw my sweetie dance is the jersey club routine that took over TikTok in aut
 
 ## Demo videos (CDN)
 
-- https://www.makeviral.ai/media/templates/wyw-my-sweetie-ai-dance/original-main-v2.mp4
+- https://media.makeviral.ai/templates/wyw-my-sweetie-ai-dance/original-main-v2.mp4
 
 ## Posters
 
-- https://www.makeviral.ai/media/templates/wyw-my-sweetie-ai-dance/original-main-v1.jpg
+- https://media.makeviral.ai/templates/wyw-my-sweetie-ai-dance/original-main-v1.jpg
 
 ## Prompts
 

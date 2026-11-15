@@ -7,12 +7,12 @@ The face bouquet trend, also called the flower bouquet of me, is a picture of a 
 
 ## Demo videos (CDN)
 
-- https://www.makeviral.ai/media/templates/flower-bouquet-of-me-ai-trend/example.mp4
+- https://media.makeviral.ai/templates/flower-bouquet-of-me-ai-trend/example.mp4
 
 ## Posters
 
-- https://www.makeviral.ai/media/templates/flower-bouquet-of-me-ai-trend/example-input.jpg
-- https://www.makeviral.ai/media/templates/flower-bouquet-of-me-ai-trend/example-poster.jpg
+- https://media.makeviral.ai/templates/flower-bouquet-of-me-ai-trend/example-input.jpg
+- https://media.makeviral.ai/templates/flower-bouquet-of-me-ai-trend/example-poster.jpg
 
 ## Prompts
 

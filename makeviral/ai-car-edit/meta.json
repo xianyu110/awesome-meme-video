@@ -10,10 +10,10 @@
   "published": "2026-11-04",
   "credits": 228,
   "demo_videos": [
-    "https://www.makeviral.ai/media/templates/ai-car-edit/original-night-v2.mp4"
+    "https://media.makeviral.ai/templates/ai-car-edit/original-night-v2.mp4"
   ],
   "posters": [
-    "https://www.makeviral.ai/media/templates/ai-car-edit/original-night-v1.jpg"
+    "https://media.makeviral.ai/templates/ai-car-edit/original-night-v1.jpg"
   ],
   "prompts": [
     {
@@ -35,5 +35,5 @@
     "Make your own AI Car Edit video"
   ],
   "prompt_count": 1,
-  "scraped_at": "2026-11-14"
+  "scraped_at": "2026-11-15"
 }

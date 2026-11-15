@@ -7,11 +7,11 @@ The beer jacket AI trend puts you in a see-through puffer jacket whose chambers 
 
 ## Demo videos (CDN)
 
-- https://www.makeviral.ai/media/templates/ai-beer-jacket-trend/original-away-end-v1.mp4
+- https://media.makeviral.ai/templates/ai-beer-jacket-trend/original-away-end-v1.mp4
 
 ## Posters
 
-- https://www.makeviral.ai/media/templates/ai-beer-jacket-trend/original-away-end-v1.jpg
+- https://media.makeviral.ai/templates/ai-beer-jacket-trend/original-away-end-v1.jpg
 
 ## Prompts
 

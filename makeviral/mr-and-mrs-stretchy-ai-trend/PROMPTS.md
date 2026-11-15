@@ -7,11 +7,11 @@ Mr and Mrs Stretchy is the TikTok AI trend of late October 2026: a lanky clay ca
 
 ## Demo videos (CDN)
 
-- https://www.makeviral.ai/media/templates/mr-and-mrs-stretchy-ai-trend/original-main-v2.mp4
+- https://media.makeviral.ai/templates/mr-and-mrs-stretchy-ai-trend/original-main-v2.mp4
 
 ## Posters
 
-- https://www.makeviral.ai/media/templates/mr-and-mrs-stretchy-ai-trend/original-main-v1.jpg
+- https://media.makeviral.ai/templates/mr-and-mrs-stretchy-ai-trend/original-main-v1.jpg
 
 ## Prompts
 

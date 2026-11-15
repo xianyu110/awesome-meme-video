@@ -7,12 +7,12 @@ A Christmas pfp is a Christmas version of your profile picture, and the trend is
 
 ## Demo videos (CDN)
 
-- https://www.makeviral.ai/media/templates/christmas-pfp-ai-trend/example.mp4
+- https://media.makeviral.ai/templates/christmas-pfp-ai-trend/example.mp4
 
 ## Posters
 
-- https://www.makeviral.ai/media/templates/christmas-pfp-ai-trend/example-input.jpg
-- https://www.makeviral.ai/media/templates/christmas-pfp-ai-trend/example-poster.jpg
+- https://media.makeviral.ai/templates/christmas-pfp-ai-trend/example-input.jpg
+- https://media.makeviral.ai/templates/christmas-pfp-ai-trend/example-poster.jpg
 
 ## Prompts
 

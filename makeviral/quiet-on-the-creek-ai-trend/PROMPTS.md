@@ -7,15 +7,15 @@ The Quiet on the Creek dance trend is the TikTok dance where you hush the camera
 
 ## Demo videos (CDN)
 
-- https://www.makeviral.ai/media/templates/quiet-on-the-creek-ai-trend/original-duo-v2.mp4
-- https://www.makeviral.ai/media/templates/quiet-on-the-creek-ai-trend/original-main-v2.mp4
-- https://www.makeviral.ai/media/templates/quiet-on-the-creek-ai-trend/original-pet-v2.mp4
+- https://media.makeviral.ai/templates/quiet-on-the-creek-ai-trend/original-duo-v2.mp4
+- https://media.makeviral.ai/templates/quiet-on-the-creek-ai-trend/original-main-v2.mp4
+- https://media.makeviral.ai/templates/quiet-on-the-creek-ai-trend/original-pet-v2.mp4
 
 ## Posters
 
-- https://www.makeviral.ai/media/templates/quiet-on-the-creek-ai-trend/original-duo-v1.jpg
-- https://www.makeviral.ai/media/templates/quiet-on-the-creek-ai-trend/original-main-v1.jpg
-- https://www.makeviral.ai/media/templates/quiet-on-the-creek-ai-trend/original-pet-v1.jpg
+- https://media.makeviral.ai/templates/quiet-on-the-creek-ai-trend/original-duo-v1.jpg
+- https://media.makeviral.ai/templates/quiet-on-the-creek-ai-trend/original-main-v1.jpg
+- https://media.makeviral.ai/templates/quiet-on-the-creek-ai-trend/original-pet-v1.jpg
 
 ## Prompts
 

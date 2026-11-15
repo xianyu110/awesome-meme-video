@@ -7,11 +7,11 @@ The AI text prank is a TikTok trend: you edit a real photo of your house with AI
 
 ## Demo videos (CDN)
 
-- https://www.makeviral.ai/media/templates/ai-text-prank/original-pet-v2.mp4
+- https://media.makeviral.ai/templates/ai-text-prank/original-pet-v2.mp4
 
 ## Posters
 
-- https://www.makeviral.ai/media/templates/ai-text-prank/original-pet-v1.jpg
+- https://media.makeviral.ai/templates/ai-text-prank/original-pet-v1.jpg
 
 ## Prompts
 

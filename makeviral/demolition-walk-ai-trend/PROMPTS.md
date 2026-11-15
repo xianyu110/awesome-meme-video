@@ -7,11 +7,11 @@ The Jake Gyllenhaal headphones walk is the Demolition walking scene that TikTok 
 
 ## Demo videos (CDN)
 
-- https://www.makeviral.ai/media/templates/demolition-walk-ai-trend/original-edit-v2.mp4
+- https://media.makeviral.ai/templates/demolition-walk-ai-trend/original-edit-v2.mp4
 
 ## Posters
 
-- https://www.makeviral.ai/media/templates/demolition-walk-ai-trend/original-edit-v1.jpg
+- https://media.makeviral.ai/templates/demolition-walk-ai-trend/original-edit-v1.jpg
 
 ## Prompts
 

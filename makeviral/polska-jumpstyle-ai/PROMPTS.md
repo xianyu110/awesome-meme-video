@@ -7,11 +7,11 @@ The Polska Jumpstyle AI trend is a viral AI clip from November 2026: a grandpa a
 
 ## Demo videos (CDN)
 
-- https://www.makeviral.ai/media/templates/polska-jumpstyle-ai/original-main-v2.mp4
+- https://media.makeviral.ai/templates/polska-jumpstyle-ai/original-main-v2.mp4
 
 ## Posters
 
-- https://www.makeviral.ai/media/templates/polska-jumpstyle-ai/original-main-v1.jpg
+- https://media.makeviral.ai/templates/polska-jumpstyle-ai/original-main-v1.jpg
 
 ## Prompts
 

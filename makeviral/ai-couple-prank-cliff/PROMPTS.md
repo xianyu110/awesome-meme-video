@@ -7,11 +7,11 @@ The AI couple prank is a 15-second AI sketch: on a grey sea cliff, one partner s
 
 ## Demo videos (CDN)
 
-- https://www.makeviral.ai/media/templates/ai-couple-prank-cliff/original-main-v2.mp4
+- https://media.makeviral.ai/templates/ai-couple-prank-cliff/original-main-v2.mp4
 
 ## Posters
 
-- https://www.makeviral.ai/media/templates/ai-couple-prank-cliff/original-main-v1.jpg
+- https://media.makeviral.ai/templates/ai-couple-prank-cliff/original-main-v1.jpg
 
 ## Prompts
 

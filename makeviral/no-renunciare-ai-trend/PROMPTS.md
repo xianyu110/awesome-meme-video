@@ -7,12 +7,12 @@ The No Renunciaré trend is an AI singing clip from October 2026: you sing a dra
 
 ## Demo videos (CDN)
 
-- https://www.makeviral.ai/media/templates/no-renunciare-ai-trend/example-v1.mp4
+- https://media.makeviral.ai/templates/no-renunciare-ai-trend/example-v1.mp4
 
 ## Posters
 
-- https://www.makeviral.ai/media/templates/no-renunciare-ai-trend/example-funny-input.jpg
-- https://www.makeviral.ai/media/templates/no-renunciare-ai-trend/example-v1-poster.jpg
+- https://media.makeviral.ai/templates/no-renunciare-ai-trend/example-funny-input.jpg
+- https://media.makeviral.ai/templates/no-renunciare-ai-trend/example-v1-poster.jpg
 
 ## Prompts
 

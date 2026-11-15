@@ -10,10 +10,10 @@
   "published": "2026-10-22",
   "credits": 91,
   "demo_videos": [
-    "https://www.makeviral.ai/media/templates/ai-danger-scene-trend/original-main-v2.mp4"
+    "https://media.makeviral.ai/templates/ai-danger-scene-trend/original-main-v2.mp4"
   ],
   "posters": [
-    "https://www.makeviral.ai/media/templates/ai-danger-scene-trend/original-main-v1.jpg"
+    "https://media.makeviral.ai/templates/ai-danger-scene-trend/original-main-v1.jpg"
   ],
   "prompts": [
     {
@@ -97,5 +97,5 @@
     "Make your own AI Danger Video video"
   ],
   "prompt_count": 10,
-  "scraped_at": "2026-11-14"
+  "scraped_at": "2026-11-15"
 }

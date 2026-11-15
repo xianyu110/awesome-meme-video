@@ -7,15 +7,15 @@ The champagne birthday trend is a TikTok birthday video: you sit on a park bench
 
 ## Demo videos (CDN)
 
-- https://www.makeviral.ai/media/templates/champagne-birthday-ai-trend/original-pop-v2.mp4
-- https://www.makeviral.ai/media/templates/champagne-birthday-ai-trend/original-roof-v2.mp4
-- https://www.makeviral.ai/media/templates/champagne-birthday-ai-trend/original-sunroof-v2.mp4
+- https://media.makeviral.ai/templates/champagne-birthday-ai-trend/original-pop-v2.mp4
+- https://media.makeviral.ai/templates/champagne-birthday-ai-trend/original-roof-v2.mp4
+- https://media.makeviral.ai/templates/champagne-birthday-ai-trend/original-sunroof-v2.mp4
 
 ## Posters
 
-- https://www.makeviral.ai/media/templates/champagne-birthday-ai-trend/original-pop-v1.jpg
-- https://www.makeviral.ai/media/templates/champagne-birthday-ai-trend/original-roof-v1.jpg
-- https://www.makeviral.ai/media/templates/champagne-birthday-ai-trend/original-sunroof-v1.jpg
+- https://media.makeviral.ai/templates/champagne-birthday-ai-trend/original-pop-v1.jpg
+- https://media.makeviral.ai/templates/champagne-birthday-ai-trend/original-roof-v1.jpg
+- https://media.makeviral.ai/templates/champagne-birthday-ai-trend/original-sunroof-v1.jpg
 
 ## Prompts
 

@@ -7,12 +7,12 @@ Eşref Tek yapay zeka is a Turkish AI video trend: people put their own face int
 
 ## Demo videos (CDN)
 
-- https://www.makeviral.ai/media/templates/esref-tek-ai-trend/example-main-v1.mp4
+- https://media.makeviral.ai/templates/esref-tek-ai-trend/example-main-v1.mp4
 
 ## Posters
 
-- https://www.makeviral.ai/media/templates/esref-tek-ai-trend/example-main-input.jpg
-- https://www.makeviral.ai/media/templates/esref-tek-ai-trend/example-main-poster.jpg
+- https://media.makeviral.ai/templates/esref-tek-ai-trend/example-main-input.jpg
+- https://media.makeviral.ai/templates/esref-tek-ai-trend/example-main-poster.jpg
 
 ## Prompts
 

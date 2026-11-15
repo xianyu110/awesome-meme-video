@@ -7,13 +7,13 @@ The squishy face AI trend turns one photo of your face into a glossy, jelly-like
 
 ## Demo videos (CDN)
 
-- https://www.makeviral.ai/media/templates/squishy-ai-trend/original-alt-v2.mp4
-- https://www.makeviral.ai/media/templates/squishy-ai-trend/original-main-v2.mp4
+- https://media.makeviral.ai/templates/squishy-ai-trend/original-alt-v2.mp4
+- https://media.makeviral.ai/templates/squishy-ai-trend/original-main-v2.mp4
 
 ## Posters
 
-- https://www.makeviral.ai/media/templates/squishy-ai-trend/original-alt-v1.jpg
-- https://www.makeviral.ai/media/templates/squishy-ai-trend/original-main-v1.jpg
+- https://media.makeviral.ai/templates/squishy-ai-trend/original-alt-v1.jpg
+- https://media.makeviral.ai/templates/squishy-ai-trend/original-main-v1.jpg
 
 ## Prompts
 

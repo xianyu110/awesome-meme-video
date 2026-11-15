@@ -7,11 +7,11 @@ Strike A Pole is the AI video of two cats dancing on a garden path: one stands u
 
 ## Demo videos (CDN)
 
-- https://www.makeviral.ai/media/templates/strike-a-pole-ai-trend/original-pets-v1.mp4
+- https://media.makeviral.ai/templates/strike-a-pole-ai-trend/original-pets-v1.mp4
 
 ## Posters
 
-- https://www.makeviral.ai/media/templates/strike-a-pole-ai-trend/original-pets-v1.jpg
+- https://media.makeviral.ai/templates/strike-a-pole-ai-trend/original-pets-v1.jpg
 
 ## Prompts
 

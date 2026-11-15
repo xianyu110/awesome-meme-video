@@ -7,13 +7,13 @@ The La La Land dance is the hillside tap duet from the 2016 musical film, set to
 
 ## Demo videos (CDN)
 
-- https://www.makeviral.ai/media/templates/la-la-land-ai-dance/original-main-tall-v1.mp4
-- https://www.makeviral.ai/media/templates/la-la-land-ai-dance/original-p1-tall-v1.mp4
+- https://media.makeviral.ai/templates/la-la-land-ai-dance/original-main-tall-v1.mp4
+- https://media.makeviral.ai/templates/la-la-land-ai-dance/original-p1-tall-v1.mp4
 
 ## Posters
 
-- https://www.makeviral.ai/media/templates/la-la-land-ai-dance/original-main-tall-v1.jpg
-- https://www.makeviral.ai/media/templates/la-la-land-ai-dance/original-p1-tall-v1.jpg
+- https://media.makeviral.ai/templates/la-la-land-ai-dance/original-main-tall-v1.jpg
+- https://media.makeviral.ai/templates/la-la-land-ai-dance/original-p1-tall-v1.jpg
 
 ## Prompts
 

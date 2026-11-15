@@ -7,11 +7,11 @@ The Jawn dance is the TikTok trend set to Jerri's song "The JAWN": a drink at yo
 
 ## Demo videos (CDN)
 
-- https://www.makeviral.ai/media/templates/the-jawn-ai-dance/original-pet-v2.mp4
+- https://media.makeviral.ai/templates/the-jawn-ai-dance/original-pet-v2.mp4
 
 ## Posters
 
-- https://www.makeviral.ai/media/templates/the-jawn-ai-dance/original-pet-v1.jpg
+- https://media.makeviral.ai/templates/the-jawn-ai-dance/original-pet-v1.jpg
 
 ## Prompts
 

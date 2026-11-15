@@ -10,10 +10,10 @@
   "published": "2026-11-01",
   "credits": 3,
   "demo_videos": [
-    "https://www.makeviral.ai/media/templates/ai-text-prank/original-pet-v2.mp4"
+    "https://media.makeviral.ai/templates/ai-text-prank/original-pet-v2.mp4"
   ],
   "posters": [
-    "https://www.makeviral.ai/media/templates/ai-text-prank/original-pet-v1.jpg"
+    "https://media.makeviral.ai/templates/ai-text-prank/original-pet-v1.jpg"
   ],
   "prompts": [
     {
@@ -55,5 +55,5 @@
     "Make your own AI Text Prank photo"
   ],
   "prompt_count": 4,
-  "scraped_at": "2026-11-14"
+  "scraped_at": "2026-11-15"
 }

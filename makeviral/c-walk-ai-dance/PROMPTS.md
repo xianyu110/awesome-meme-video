@@ -7,13 +7,13 @@ C-Walk AI is the trend where one photo becomes a C-Walk dance video: the person 
 
 ## Demo videos (CDN)
 
-- https://www.makeviral.ai/media/templates/c-walk-ai-dance/original-pet-v2.mp4
-- https://www.makeviral.ai/media/templates/c-walk-ai-dance/original-street-v1.mp4
+- https://media.makeviral.ai/templates/c-walk-ai-dance/original-pet-v2.mp4
+- https://media.makeviral.ai/templates/c-walk-ai-dance/original-street-v1.mp4
 
 ## Posters
 
-- https://www.makeviral.ai/media/templates/c-walk-ai-dance/original-pet-v1.jpg
-- https://www.makeviral.ai/media/templates/c-walk-ai-dance/original-street-v1.jpg
+- https://media.makeviral.ai/templates/c-walk-ai-dance/original-pet-v1.jpg
+- https://media.makeviral.ai/templates/c-walk-ai-dance/original-street-v1.jpg
 
 ## Prompts
 

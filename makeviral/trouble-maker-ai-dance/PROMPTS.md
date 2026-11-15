@@ -7,13 +7,13 @@ The Trouble Maker dance is the flirty duet routine of the 2011 K-pop song "Troub
 
 ## Demo videos (CDN)
 
-- https://www.makeviral.ai/media/templates/trouble-maker-ai-dance/original-couple-v2.mp4
-- https://www.makeviral.ai/media/templates/trouble-maker-ai-dance/original-friends-v2.mp4
+- https://media.makeviral.ai/templates/trouble-maker-ai-dance/original-couple-v2.mp4
+- https://media.makeviral.ai/templates/trouble-maker-ai-dance/original-friends-v2.mp4
 
 ## Posters
 
-- https://www.makeviral.ai/media/templates/trouble-maker-ai-dance/original-couple-v1.jpg
-- https://www.makeviral.ai/media/templates/trouble-maker-ai-dance/original-friends-v1.jpg
+- https://media.makeviral.ai/templates/trouble-maker-ai-dance/original-couple-v1.jpg
+- https://media.makeviral.ai/templates/trouble-maker-ai-dance/original-friends-v1.jpg
 
 ## Prompts
 

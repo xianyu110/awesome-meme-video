@@ -10,11 +10,11 @@
   "published": "2026-10-21",
   "credits": 183,
   "demo_videos": [
-    "https://www.makeviral.ai/media/templates/i-put-my-heart-in-this-ai-trend/example-swap-v1.mp4"
+    "https://media.makeviral.ai/templates/i-put-my-heart-in-this-ai-trend/example-swap-v1.mp4"
   ],
   "posters": [
-    "https://www.makeviral.ai/media/templates/i-put-my-heart-in-this-ai-trend/example-swap-v1-input.jpg",
-    "https://www.makeviral.ai/media/templates/i-put-my-heart-in-this-ai-trend/example-swap-v1.jpg"
+    "https://media.makeviral.ai/templates/i-put-my-heart-in-this-ai-trend/example-swap-v1-input.jpg",
+    "https://media.makeviral.ai/templates/i-put-my-heart-in-this-ai-trend/example-swap-v1.jpg"
   ],
   "prompts": [
     {
@@ -36,5 +36,5 @@
     "Make your own I Put My Heart in This video"
   ],
   "prompt_count": 1,
-  "scraped_at": "2026-11-14"
+  "scraped_at": "2026-11-15"
 }

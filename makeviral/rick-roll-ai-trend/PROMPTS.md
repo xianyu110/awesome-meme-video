@@ -7,11 +7,11 @@ The Rick Roll meme sends people to the 1987 "Never Gonna Give You Up" music vide
 
 ## Demo videos (CDN)
 
-- https://www.makeviral.ai/media/templates/rick-roll-ai-trend/original-sample-v2.mp4
+- https://media.makeviral.ai/templates/rick-roll-ai-trend/original-sample-v2.mp4
 
 ## Posters
 
-- https://www.makeviral.ai/media/templates/rick-roll-ai-trend/original-sample-v1.jpg
+- https://media.makeviral.ai/templates/rick-roll-ai-trend/original-sample-v1.jpg
 
 ## Prompts
 

@@ -7,12 +7,12 @@ Oh he tweakin, also called "you tweaking", is a 2024 dating-show meme, now an AI
 
 ## Demo videos (CDN)
 
-- https://www.makeviral.ai/media/templates/you-tweaking-ai-trend/example-v1.mp4
+- https://media.makeviral.ai/templates/you-tweaking-ai-trend/example-v1.mp4
 
 ## Posters
 
-- https://www.makeviral.ai/media/templates/you-tweaking-ai-trend/example-v1-input.jpg
-- https://www.makeviral.ai/media/templates/you-tweaking-ai-trend/example-v1-poster.jpg
+- https://media.makeviral.ai/templates/you-tweaking-ai-trend/example-v1-input.jpg
+- https://media.makeviral.ai/templates/you-tweaking-ai-trend/example-v1-poster.jpg
 
 ## Prompts
 

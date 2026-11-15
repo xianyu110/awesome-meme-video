@@ -7,11 +7,11 @@ The Uptown Funk AI trend puts your own face at the front of a funk street crew i
 
 ## Demo videos (CDN)
 
-- https://www.makeviral.ai/media/templates/uptown-funk-ai-trend/original-tall-v2.mp4
+- https://media.makeviral.ai/templates/uptown-funk-ai-trend/original-tall-v2.mp4
 
 ## Posters
 
-- https://www.makeviral.ai/media/templates/uptown-funk-ai-trend/original-tall-v1.jpg
+- https://media.makeviral.ai/templates/uptown-funk-ai-trend/original-tall-v1.jpg
 
 ## Prompts
 

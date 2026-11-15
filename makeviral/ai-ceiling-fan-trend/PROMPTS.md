@@ -7,23 +7,23 @@ The AI ceiling fan trend is the TikTok clip filmed straight down through a slowl
 
 ## Demo videos (CDN)
 
-- https://www.makeviral.ai/media/templates/ai-ceiling-fan-trend/example-v2-men.mp4
-- https://www.makeviral.ai/media/templates/ai-ceiling-fan-trend/example-v2.mp4
-- https://www.makeviral.ai/media/templates/ai-ceiling-fan-trend/original-main-v2.mp4
-- https://www.makeviral.ai/media/templates/ai-ceiling-fan-trend/original-men-v2.mp4
-- https://www.makeviral.ai/media/templates/ai-ceiling-fan-trend/original-pet-v2.mp4
-- https://www.makeviral.ai/media/templates/remote-control-outfit-change-ai-trend/original-main-v2.mp4
+- https://media.makeviral.ai/templates/ai-ceiling-fan-trend/example-v2-men.mp4
+- https://media.makeviral.ai/templates/ai-ceiling-fan-trend/example-v2.mp4
+- https://media.makeviral.ai/templates/ai-ceiling-fan-trend/original-main-v2.mp4
+- https://media.makeviral.ai/templates/ai-ceiling-fan-trend/original-men-v2.mp4
+- https://media.makeviral.ai/templates/ai-ceiling-fan-trend/original-pet-v2.mp4
+- https://media.makeviral.ai/templates/remote-control-outfit-change-ai-trend/original-main-v2.mp4
 
 ## Posters
 
-- https://www.makeviral.ai/media/templates/ai-ceiling-fan-trend/example-halloween-input.jpg
-- https://www.makeviral.ai/media/templates/ai-ceiling-fan-trend/example-input.jpg
-- https://www.makeviral.ai/media/templates/ai-ceiling-fan-trend/example-v2-men.jpg
-- https://www.makeviral.ai/media/templates/ai-ceiling-fan-trend/example-v2.jpg
-- https://www.makeviral.ai/media/templates/ai-ceiling-fan-trend/original-main-v1.jpg
-- https://www.makeviral.ai/media/templates/ai-ceiling-fan-trend/original-men-v1.jpg
-- https://www.makeviral.ai/media/templates/ai-ceiling-fan-trend/original-pet-v1.jpg
-- https://www.makeviral.ai/media/templates/remote-control-outfit-change-ai-trend/original-main-v1.jpg
+- https://media.makeviral.ai/templates/ai-ceiling-fan-trend/example-halloween-input.jpg
+- https://media.makeviral.ai/templates/ai-ceiling-fan-trend/example-input.jpg
+- https://media.makeviral.ai/templates/ai-ceiling-fan-trend/example-v2-men.jpg
+- https://media.makeviral.ai/templates/ai-ceiling-fan-trend/example-v2.jpg
+- https://media.makeviral.ai/templates/ai-ceiling-fan-trend/original-main-v1.jpg
+- https://media.makeviral.ai/templates/ai-ceiling-fan-trend/original-men-v1.jpg
+- https://media.makeviral.ai/templates/ai-ceiling-fan-trend/original-pet-v1.jpg
+- https://media.makeviral.ai/templates/remote-control-outfit-change-ai-trend/original-main-v1.jpg
 
 ## Prompts
 

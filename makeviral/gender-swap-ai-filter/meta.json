@@ -10,11 +10,11 @@
   "published": "2026-10-25",
   "credits": 126,
   "demo_videos": [
-    "https://www.makeviral.ai/media/templates/gender-swap-ai-filter/example-main-v1.mp4"
+    "https://media.makeviral.ai/templates/gender-swap-ai-filter/example-main-v1.mp4"
   ],
   "posters": [
-    "https://www.makeviral.ai/media/templates/gender-swap-ai-filter/example-main-input.jpg",
-    "https://www.makeviral.ai/media/templates/gender-swap-ai-filter/example-main-poster.jpg"
+    "https://media.makeviral.ai/templates/gender-swap-ai-filter/example-main-input.jpg",
+    "https://media.makeviral.ai/templates/gender-swap-ai-filter/example-main-poster.jpg"
   ],
   "prompts": [
     {
@@ -40,5 +40,5 @@
     "Make your own Gender Swap Filter video"
   ],
   "prompt_count": 2,
-  "scraped_at": "2026-11-14"
+  "scraped_at": "2026-11-15"
 }

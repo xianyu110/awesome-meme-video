@@ -7,14 +7,14 @@ The AI lion trend is a night clip filmed through a car windshield: you stand on 
 
 ## Demo videos (CDN)
 
-- https://www.makeviral.ai/media/templates/ai-lion-friend-video/example-wolf.mp4
-- https://www.makeviral.ai/media/templates/ai-lion-friend-video/original-main-v2.mp4
+- https://media.makeviral.ai/templates/ai-lion-friend-video/example-wolf.mp4
+- https://media.makeviral.ai/templates/ai-lion-friend-video/original-main-v2.mp4
 
 ## Posters
 
-- https://www.makeviral.ai/media/templates/ai-lion-friend-video/example-wolf-input.jpg
-- https://www.makeviral.ai/media/templates/ai-lion-friend-video/example-wolf-poster.jpg
-- https://www.makeviral.ai/media/templates/ai-lion-friend-video/original-main-v1.jpg
+- https://media.makeviral.ai/templates/ai-lion-friend-video/example-wolf-input.jpg
+- https://media.makeviral.ai/templates/ai-lion-friend-video/example-wolf-poster.jpg
+- https://media.makeviral.ai/templates/ai-lion-friend-video/original-main-v1.jpg
 
 ## Prompts
 

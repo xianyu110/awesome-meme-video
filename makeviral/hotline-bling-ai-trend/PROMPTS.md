@@ -7,12 +7,12 @@ The Hotline Bling dance is the loose, goofy solo dance from Drake's 2015 music v
 
 ## Demo videos (CDN)
 
-- https://www.makeviral.ai/media/templates/hotline-bling-ai-trend/example-main-v1.mp4
+- https://media.makeviral.ai/templates/hotline-bling-ai-trend/example-main-v1.mp4
 
 ## Posters
 
-- https://www.makeviral.ai/media/templates/hotline-bling-ai-trend/example-main-poster.jpg
-- https://www.makeviral.ai/media/templates/storm-ai-trend/example-input.jpg
+- https://media.makeviral.ai/templates/hotline-bling-ai-trend/example-main-poster.jpg
+- https://media.makeviral.ai/templates/storm-ai-trend/example-input.jpg
 
 ## Prompts
 

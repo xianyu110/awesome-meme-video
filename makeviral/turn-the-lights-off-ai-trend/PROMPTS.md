@@ -7,12 +7,12 @@ The Turn the Lights Off AI trend puts you in the viral club meme: you dance alon
 
 ## Demo videos (CDN)
 
-- https://www.makeviral.ai/media/templates/turn-the-lights-off-ai-trend/example-main-v1.mp4
+- https://media.makeviral.ai/templates/turn-the-lights-off-ai-trend/example-main-v1.mp4
 
 ## Posters
 
-- https://www.makeviral.ai/media/templates/turn-the-lights-off-ai-trend/example-main-input.jpg
-- https://www.makeviral.ai/media/templates/turn-the-lights-off-ai-trend/example-main-poster.jpg
+- https://media.makeviral.ai/templates/turn-the-lights-off-ai-trend/example-main-input.jpg
+- https://media.makeviral.ai/templates/turn-the-lights-off-ai-trend/example-main-poster.jpg
 
 ## Prompts
 

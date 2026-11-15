@@ -10,10 +10,10 @@
   "published": "2026-10-30",
   "credits": 126,
   "demo_videos": [
-    "https://www.makeviral.ai/media/templates/passenger-princess-ai-trend/original-pets-v2.mp4"
+    "https://media.makeviral.ai/templates/passenger-princess-ai-trend/original-pets-v2.mp4"
   ],
   "posters": [
-    "https://www.makeviral.ai/media/templates/passenger-princess-ai-trend/original-pets-v1.jpg"
+    "https://media.makeviral.ai/templates/passenger-princess-ai-trend/original-pets-v1.jpg"
   ],
   "prompts": [
     {
@@ -54,5 +54,5 @@
     "Make your own Passenger Princess video"
   ],
   "prompt_count": 4,
-  "scraped_at": "2026-11-14"
+  "scraped_at": "2026-11-15"
 }

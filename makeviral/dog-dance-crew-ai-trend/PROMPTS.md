@@ -7,11 +7,11 @@ The dog dance crew is the viral AI trend where four dogs of different breeds on 
 
 ## Demo videos (CDN)
 
-- https://www.makeviral.ai/media/templates/dog-dance-crew-ai-trend/original-pet-v2.mp4
+- https://media.makeviral.ai/templates/dog-dance-crew-ai-trend/original-pet-v2.mp4
 
 ## Posters
 
-- https://www.makeviral.ai/media/templates/dog-dance-crew-ai-trend/original-pet-v1.jpg
+- https://media.makeviral.ai/templates/dog-dance-crew-ai-trend/original-pet-v1.jpg
 
 ## Prompts
 
