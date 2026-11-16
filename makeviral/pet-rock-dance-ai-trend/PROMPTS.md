@@ -15,7 +15,7 @@ The pet rock dance, also called Pet Metal Era, is a TikTok trend that started in
 
 ## Prompts
 
-### 1. 1. The video prompt is filled in. Settings: Seedance 2.5, 10 s, 720p, 9:16, sound off. The video prompt
+### 1. 1. The video prompt is filled in. Settings: Seedance 2.5, 10 s, 720p, 9:16, sound off. The video prompt (Human)
 
 *Kind: video_prompt*
 

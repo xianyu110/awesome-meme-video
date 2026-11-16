@@ -48,7 +48,7 @@ Everything runs in the browser. No editing app, no watermark.
 
 ### The one-tap way (no prompt to write)
 
-1. **Add your photo.** Press "Make yours" and add your selfie (18+), face clear, chest up. Take it with the camera or pick it from your library. Start here: https://www.makeviral.ai/templates/gender-swap-ai-filter/create
+1. **Add your photo.** Press "Make yours" and add your selfie, face clear, chest up. Take it with the camera or pick it from your library. Start here: https://www.makeviral.ai/templates/gender-swap-ai-filter/create
 2. **Press Generate.** The button shows the price. Seedance 2.5 films the Gender Swap Filter scene straight from your photo, with no in-between picture, for 10 seconds with original sound. You write no prompt.
 3. **Download or share.** The video is ready in a few minutes as a 9:16 MP4. Download it, share it from your phone, or find it later in My videos.
 
@@ -58,7 +58,7 @@ The one-tap flow runs this prompt for you. The video model takes your photo as a
 
 #### Variant: Swap video
 
-Settings: 1 photo (your selfie (18+), face clear, chest up) · Seedance 2.5 · 10 s · 720p · 9:16 · with sound · 126 credits in one tap.
+Settings: 1 photo (your selfie, face clear, chest up) · Seedance 2.5 · 10 s · 720p · 9:16 · with sound · 126 credits in one tap.
 
 1. The video prompt is filled in. Settings: Seedance 2.5, 10 s, 720p, 9:16, sound on. The video prompt:
 
@@ -85,9 +85,9 @@ One-tap version of this variant: https://www.makeviral.ai/templates/gender-swap-
 
 #### Variant: Swap photo
 
-Settings: 1 photo (your selfie (18+): you, or you two, faces clear) · Nano Banana 2.1 · photo · 2K · 9:16 · 3 credits in one tap.
+Settings: 1 photo (your selfie: you, or you two, faces clear) · Nano Banana 2.1 · photo · 2K · 9:16 · 3 credits in one tap.
 
-1. Open [AI Photo with this template](https://www.makeviral.ai/photo?template=gender-swap-ai-filter&variant=photo) and add your photo (your selfie (18+): you, or you two, faces clear). Pick 2K for the same size as the one-tap photo. The photo prompt is filled in:
+1. Open [AI Photo with this template](https://www.makeviral.ai/photo?template=gender-swap-ai-filter&variant=photo) and add your photo (your selfie: you, or you two, faces clear). Pick 2K for the same size as the one-tap photo. The photo prompt is filled in:
 
    ```text
    Use the uploaded image as the base. Based on the photo uploaded by the user, generate the same photo with the person as a gender-transformed version (opposite gender), while strictly retaining the same core identity and recognizability; do NOT change age group, facial proportions, face shape, eye distance, nose shape, lip shape, bone structure, skin tone tendency, or key expression features; ensure the result clearly looks like the same person rather than a different individual; for gender transformation, apply minimal and controlled adjustments instead of reconstruction: adjust hairstyle, subtle facial softness or sharpness, eyebrow thickness, and styling cues rather than altering core facial geometry; if transforming female to male, slightly increase jawline definition, reduce facial softness, slightly thicken eyebrows, simplify makeup to none, and use a short or mid-short natural hairstyle while strictly preserving original hair color, hair density, and hairline; if transforming male to female, slightly soften facial contours, refine skin texture, lightly adjust eyebrows, and apply minimal natural makeup while keeping facial structure intact. A man becomes a woman with longer hair in his own hair color and no beard or moustache; a woman becomes a man, light stubble is fine. If the photo shows two or more people, each one becomes their own opposite-gender version, each in their own place; never blend their faces. Keep the pose, the expression, the background, the light and the framing exactly as in the photo, like a real phone photo. The clothes keep their colors and fabric and become an everyday cut for the new gender, as casual as in the photo, modest and fully covered. Vertical 9:16: if the photo is wider, extend the background naturally. Grown adults only, nobody added. Friendly and natural, a playful what-if: never a costume, a stage look or a mocking look; nothing sexy or revealing. No text, no logos, no watermark, no border. The only change is the gender: the identity rules below apply to the face shape, eyes and eye color, nose, lips, skin tone, ethnicity, age, freckles, moles and glasses, while the hairstyle, the facial hair, the makeup and the softer or stronger features that this prompt asks for change.
@@ -105,7 +105,7 @@ Use **one clear selfie** of yourself: your face toward the camera, in good light
 - A simple background works best, because it stays the same before and after the swap.
 - No sunglasses, no hand over the face, no beauty filter.
 - **Swap video** takes one person. **Swap photo** also works with a photo of you two: each of you gets swapped.
-- Adults only (18+), and only people who agreed to it. Logos and printed words on clothes are best avoided.
+- Adults only, and only people who agreed to it. Logos and printed words on clothes are best avoided.
 
 ## How many credits does it cost?
 
@@ -176,7 +176,7 @@ That is the question of the trend. Make your Swap video, add the question as you
 
 ### Can I use a photo of a child or a celebrity?
 
-No. Use a selfie of yourself or of adults (18+) who agreed to it. We do not swap children, celebrities or strangers.
+No. Use a selfie of yourself or of adults who agreed to it. We do not swap children, celebrities or strangers.
 
 ## Other AI video templates and tools
 
@@ -188,12 +188,12 @@ No. Use a selfie of yourself or of adults (18+) who agreed to it. We do not swap
 
 ## New AI video trends this week
 
-- [Never Let Her Pay: Pay for Dinner With a Sponge](https://www.makeviral.ai/templates/never-let-her-pay-ai-trend): "I got this." Add one photo, and you play the gentleman in the white dinner jacket who stops his date from paying, opens his pouch to show a kitchen sponge and gets walked to the kitchen to wash the dishes. With the clip's own sound.
-- [Snowman Dance AI: Do the Viral Sia Couple Dance From Two Photos](https://www.makeviral.ai/templates/snowman-dance-ai-trend): Hands behind your backs, a spin under the arm, a quick twirl around each other, and then one of you jumps on the other. Add a photo of you and one of your partner, or of two pets, and get the whole Snowman dance with the song.
-- [Self Hug Sketch: A Giant Pencil Drawing of You Hugs You](https://www.makeviral.ai/templates/self-hug-sketch-ai-trend): Add one photo. You lean on a grey wall while a huge black-and-white pencil sketch of you, drawn on the wall, wraps its arms around you, with "Embrace of my own self" written beside you.
-- [Need for Speed AI Trend: Your Car in the Movie Scene](https://www.makeviral.ai/templates/need-for-speed-ai-trend): Add one photo of your car or truck. AI puts it in the trend's movie-style street scene: it rolls through town, spins burnouts in thick tire smoke while people watch, and rolls away, with the trend's own sound.
-- [Tweenslop AI: Turn One Photo Into a Tweenslop Animation](https://www.makeviral.ai/templates/tweenslop-ai-trend): Your photo becomes a flat cut-out that zooms, squashes, spins and flies with a rainbow trail on every beat of a Brazilian funk track, with white, pink, purple and green flashes. You, your pet or any object.
-- [We Don't Talk Anymore Dance: Do the Viral Freestyle From One Photo](https://www.makeviral.ai/templates/we-dont-talk-anymore-dance-ai-trend): The sped-up "We Don't Talk Anymore" freestyle is all over TikTok. Add one photo, and you dance it on the trend's stage, barefoot on a driveway at night with your shoes in one hand, or your pet takes the stage.
+- [GTA 6 Loading Screen AI: Turn Your Photo Into a GTA Poster](https://www.makeviral.ai/templates/gta-6-loading-screen-ai): Add one photo and get your own GTA 6 loading screen: a painted crime-game poster of you in sunset colors, with palm trees, neon signs and a sports car. Same face, your own clothes, no logo.
+- [Jingle Bell Brazil Dance AI: Your Crew in the Viral Christmas Line Dance](https://www.makeviral.ai/templates/jingle-bell-brazil-dance-ai): Three dancers in Santa hats stand in a row under blue lights, then cross their arms, tap their chests and bounce in sync to a Brazilian funk Jingle Bell Rock. Add photos of you and two friends, one friend, just you, or your pet.
+- [Reaching Out Cat Trend: Put Your Pet in the Viral Clip](https://www.makeviral.ai/templates/reaching-out-cat-ai): A hand reaches up to the ceiling on "reaching out", then the cut, and the cat gets whisked out of the frame. Add one photo, and your cat, your dog or you sit in that spot, with the trend's sound. Your real pet never gets picked up.
+- [Dancing With Santa: Dance With Santa Claus From One Photo](https://www.makeviral.ai/templates/dance-with-santa-ai): Add one photo, and you dance side by side with Santa Claus on a red carpet between two lit Christmas trees: 15 seconds, the same steps, the same turns and the trend's own Santa song. Your pet can dance with Santa too, or bring your partner.
+- [You Rock My World Trend: Make the Couple Glow-Up Transition From 2 Photos](https://www.makeviral.ai/templates/you-rock-my-world-ai-trend): White T-shirts at home, a hand sweeps across the lens, and the two of you are dressed up somewhere else: on a garden terrace, in front of the iron tower in Paris, or there at night. Add a photo of each of you, or of two pets, and get the transition with the song.
+- [Tiger Transition: Your AI Glow-Up on "You Cannot Reason With a Tiger"](https://www.makeviral.ai/templates/tiger-transition-ai-trend): "You cannot reason with a tiger when your head is in its mouth!" Add one photo: you start plain, swipe a hand over the lens and come back in full glam hair and makeup, or in full tiger face paint, with the original sound.
 
 ## Make your own Gender Swap Filter video
 

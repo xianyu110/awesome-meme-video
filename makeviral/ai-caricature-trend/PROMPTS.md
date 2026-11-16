@@ -15,7 +15,7 @@ The AI caricature trend turns one photo into a polished 3D caricature with an ov
 
 ## Prompts
 
-### 1. 1. Open [AI Photo with this template](https://www.makeviral.ai/photo?template=ai-caricature-trend) and add your photo (you (18+), face clear, waist up or full body). The photo prompt is filled in
+### 1. 1. Open [AI Photo with this template](https://www.makeviral.ai/photo?template=ai-caricature-trend) and add your photo (you, face clear, waist up or full body). The photo prompt is filled in
 
 *Kind: photo_prompt*
 

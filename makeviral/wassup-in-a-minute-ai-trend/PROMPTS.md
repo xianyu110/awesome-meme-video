@@ -1,4 +1,4 @@
-# Wassup in a Minute Trend: Your Own Swaying Anime Character
+# Wassup in a Minute Trend: The Field Dance With 2 Friends, or Anime
 
 - Source: [makeviral](https://www.makeviral.ai/templates/wassup-in-a-minute-ai-trend)
 - Slug: `wassup-in-a-minute-ai-trend`
@@ -7,18 +7,98 @@ The wassup in a minute trend is the TikTok edit where hand-drawn anime character
 
 ## Demo videos (CDN)
 
-- https://media.makeviral.ai/templates/wassup-in-a-minute-ai-trend/example-main.mp4
+- https://media.makeviral.ai/templates/wassup-in-a-minute-ai-trend/example-anime.mp4
 - https://media.makeviral.ai/templates/wassup-in-a-minute-ai-trend/original-duo-v2.mp4
+- https://media.makeviral.ai/templates/wassup-in-a-minute-ai-trend/original-main-v3.mp4
+- https://media.makeviral.ai/templates/wassup-in-a-minute-ai-trend/original-trend-v3.mp4
 
 ## Posters
 
 - https://media.makeviral.ai/templates/wassup-in-a-minute-ai-trend/example-main-input.jpg
 - https://media.makeviral.ai/templates/wassup-in-a-minute-ai-trend/example-main-poster.jpg
 - https://media.makeviral.ai/templates/wassup-in-a-minute-ai-trend/original-duo-v1.jpg
+- https://media.makeviral.ai/templates/wassup-in-a-minute-ai-trend/original-main-v2.jpg
+- https://media.makeviral.ai/templates/wassup-in-a-minute-ai-trend/original-trend-v2.jpg
 
 ## Prompts
 
-### 1. Prompt 1
+### 1. 1. The video prompt is filled in. Settings: Seedance 2.5, 15 s, 720p, 9:16, sound off. The video prompt
+
+*Kind: video_prompt*
+
+```text
+Edit Video 1: Recreate the reference video [Video 1] shot for shot: three dancers do the in a minute wassup dance on a green grassy hillside on a grey, misty day, with the same 4:3 frame, camera angles, cuts, timing and moves. The ONLY change: all three women are now the people in the photos. [Image 1] replaces the woman in the cream sleeveless top (in the middle, the close-up), [Image 2] the woman in the white sweater (front right at the start), [Image 3] the woman in the black turtleneck (on the left). Only replace the people; the hillside, the lake, the moves, the timing, the camera and the cuts stay completely unchanged. Keep everything else the same.
+
+[Image 1], [Image 2] and [Image 3] are the sole face references, one per dancer; [Video 1] is for the moves, the place and the camera only.
+
+Dancer 1 = the person in [Image 1], in EVERY shot: copy the exact face from [Image 1] (the face shape, eye color and eye shape, eyebrows, nose, mouth, skin tone, age, hair color, hair length and hairstyle, and any beard, moustache, glasses or freckles). Dancer 2 = the person in [Image 2], and dancer 3 = the person in [Image 3], each by the same rule with their own photo. Each wears the clothes from their own photo. NO cream top, NO white sweater and NO black turtleneck unless their photo shows one. All three change: no one from the video stays, also in the wide shots where the dancers are small. The same real people from the first second to the last; never morph, never blend or swap two faces, never drift back to the original women's faces or their long dark hair. If an image shows an animal, that dancer is that animal standing upright, with its own face, fur and markings, not a person.
+
+Shot 1 [0-3.7s]: the three dance down the hill toward the camera, swaying and bouncing: dancer 2 at the front right, closest to the camera, dancer 1 in the middle, dancer 3 behind on the left.
+Shot 2 [3.7-7.3s]: hard cut: a close-up of dancer 1 from the chest up, smiling and nodding while pointing both thumbs back and forth; behind, dancer 3 on the left and dancer 2 on the right dance with their arms up.
+Shot 3 [7.3-10.8s]: hard cut: a wide shot of the three in a row on the hilltop, a lake and misty mountains behind: dancer 3 on the left, dancer 1 in the middle, dancer 2 on the right; they sway the shoulders and hips, then open their arms.
+Shot 4 [10.8-15s]: hard cut: a very wide shot of a sloping meadow: the three spread out and dance freely with their arms out, dancer 3 on the left, dancer 1 in the middle, dancer 2 small at the far right.
+
+One head per dancer, on that dancer's own shoulders. A face never appears on hands, legs or clothes. Exactly three dancers. No dialogue throughout the entire video. No background music. No text, no captions, no logos, no watermark.
+```
+
+### 2. 1. The video prompt is filled in. Settings: Seedance 2.5, 15 s, 720p, 9:16, sound off. The video prompt
+
+*Kind: video_prompt*
+
+```text
+Edit Video 1: Recreate the reference video [Video 1] shot for shot: three dancers do the in a minute wassup dance on a green grassy hillside on a grey, misty day, with the same 4:3 frame, camera angles, cuts, timing and moves. The ONLY change: the woman in the cream sleeveless top, who dances in the middle and gets the close-up, is now the person in [Image 1]. Only replace this one person; the other two women, the hillside, the lake, the moves, the timing, the camera and the cuts stay completely unchanged. Keep everything else the same.
+
+[Image 1] is the sole look reference for the lead dancer; [Video 1] is for the moves, the other two women, the place and the camera only.
+
+The lead dancer = the person in [Image 1], in EVERY shot: copy the exact face from [Image 1] (the face shape, eye color and eye shape, eyebrows, nose, mouth, skin tone, age, hair color, hair length and hairstyle, and any beard, moustache, glasses or freckles). They wear the clothes and shoes from [Image 1]; where [Image 1] does not show the legs, plain dark trousers. NO cream sleeveless top unless [Image 1] shows one. The same real person from the first second to the last, also in the wide shots where the dancers are small, so their friends recognize them at once. Never morph, never drift back to the original woman's face or her long dark brown hair, and never put this face on the other two women.
+
+Shot 1 [0-3.7s]: the three dance down the hill toward the camera, swaying and bouncing: the woman in the white sweater at the front right, closest to the camera, the lead dancer in the middle, the woman in the black turtleneck behind on the left.
+Shot 2 [3.7-7.3s]: hard cut: a close-up of the lead dancer from the chest up, smiling and nodding on the beat while pointing both thumbs back and forth; behind, the other two dance with their arms up.
+Shot 3 [7.3-10.8s]: hard cut: a wide shot of the three in a row on the hilltop, a lake and misty mountains behind: the black turtleneck on the left, the lead dancer in the middle, the white sweater on the right; they sway the shoulders and hips, then open their arms.
+Shot 4 [10.8-15s]: hard cut: a very wide shot of a sloping meadow: the three spread out and dance freely with their arms out, the black turtleneck on the left, the lead dancer in the middle, the white sweater small at the far right.
+
+One head per person, on that person's own shoulders. A face never appears on hands, legs or clothes. Exactly three people. No dialogue throughout the entire video. No background music. No text, no captions, no logos, no watermark.
+```
+
+### 3. 1. The video prompt is filled in. Settings: Seedance 2.5, 15 s, 720p, 9:16, sound off. The video prompt (Pet)
+
+*Kind: video_prompt*
+
+```text
+Edit Video 1: Recreate the reference video [Video 1] shot for shot: three dancers do the in a minute wassup dance on a green grassy hillside on a grey, misty day, with the same 4:3 frame, camera angles, cuts, timing and moves. The ONLY change: the woman in the cream sleeveless top, who dances in the middle and gets the close-up, is now the pet in [Image 1]. Only replace this one woman; the other two women, the hillside, the lake, the moves, the timing, the camera and the cuts stay completely unchanged. Keep everything else the same.
+
+[Image 1] is the sole look reference for the pet; [Video 1] is for the moves, the other two women, the place and the camera only.
+
+The pet = the pet in [Image 1], whole body, in EVERY shot: the same species and breed, head shape, muzzle, eyes, ears, fur colors, fur length and markings as in [Image 1], with the natural body volume and proportions of that animal: never flattened, squashed, stretched or merged with anything, so its owner instantly recognizes it, also in the close-up and in the wide shots. It stands upright on its hind legs like a person the whole time and dances with its front paws. A dog stays a dog and a cat stays a cat. No cream top, no clothes, no human face, no human hands.
+
+Shot 1 [0-3.7s]: the three dance down the hill toward the camera, swaying and bouncing: the woman in the white sweater at the front right, closest to the camera, the pet in the middle, the woman in the black turtleneck behind on the left.
+Shot 2 [3.7-7.3s]: hard cut: a close-up of the pet from the chest up, a happy open mouth, nodding on the beat while it waves both front paws back and forth; behind, the two women dance with their arms up.
+Shot 3 [7.3-10.8s]: hard cut: a wide shot of the three in a row on the hilltop, a lake and misty mountains behind: the black turtleneck on the left, the pet in the middle, the white sweater on the right; they sway, then open their arms and front legs.
+Shot 4 [10.8-15s]: hard cut: a very wide shot of a sloping meadow: the three spread out and dance freely, the black turtleneck on the left, the pet in the middle with its front legs out, the white sweater small at the far right.
+
+Anatomy rules: one head per body. The pet has two hind legs and two front legs, no extra legs or paws. The two women are people and keep their own faces: no woman gets an animal head. Exactly one animal. No dialogue throughout the entire video. No background music. No text, no captions, no logos, no watermark.
+```
+
+### 4. 1. The video prompt is filled in. Settings: Seedance 2.5, 15 s, 720p, 9:16, sound off. The video prompt (Pet)
+
+*Kind: video_prompt*
+
+```text
+Edit Video 1: Recreate the reference video [Video 1] shot for shot: three dancers do the in a minute wassup dance on a green grassy hillside on a grey, misty day, with the same 4:3 frame, camera angles, cuts, timing and moves. The ONLY change: the three women are now the three pets in the photos. The pet in [Image 1] replaces the woman in the cream sleeveless top (in the middle, the close-up), the pet in [Image 2] the woman in the white sweater (front right at the start), the pet in [Image 3] the woman in the black turtleneck (on the left). Only replace the women; the hillside, the lake, the moves, the timing, the camera and the cuts stay completely unchanged. Keep everything else the same.
+
+[Image 1], [Image 2] and [Image 3] are the sole look references, one per pet; [Video 1] is for the moves, the place and the camera only.
+
+Pet 1 = the pet in [Image 1], whole body, in EVERY shot: the same species and breed, head shape, muzzle, eyes, ears, fur colors, fur length and markings as in [Image 1], with the natural body volume and proportions of that animal: never flattened, squashed, stretched or merged with anything, so its owner instantly recognizes it. Pet 2 = the pet in [Image 2], and pet 3 = the pet in [Image 3], each by the same rules with its own photo. All three stand upright on their hind legs like people the whole time and dance with their front paws. A dog stays a dog and a cat stays a cat. Never swap or blend two pets. All three change: no woman from the video stays, also in the wide shots. No clothes, no human faces, no human hands.
+
+Shot 1 [0-3.7s]: the three pets dance down the hill toward the camera, swaying and bouncing: pet 2 at the front right, closest to the camera, pet 1 in the middle, pet 3 behind on the left.
+Shot 2 [3.7-7.3s]: hard cut: a close-up of pet 1 from the chest up, a happy open mouth, nodding on the beat while it waves both front paws back and forth; behind, pet 3 on the left and pet 2 on the right dance with their front legs up.
+Shot 3 [7.3-10.8s]: hard cut: a wide shot of the three pets in a row on the hilltop, a lake and misty mountains behind: pet 3 on the left, pet 1 in the middle, pet 2 on the right; they sway, then open their front legs.
+Shot 4 [10.8-15s]: hard cut: a very wide shot of a sloping meadow: the three pets spread out and dance freely with their front legs out, pet 3 on the left, pet 1 in the middle, pet 2 small at the far right.
+
+Anatomy rules: one head per body. Two hind legs and two front legs per pet, no extra legs or paws. Exactly three animals, no people. No dialogue throughout the entire video. No background music. No text, no captions, no logos, no watermark.
+```
+
+### 5. Prompt 5
 
 *Kind: prompt*
 
@@ -33,15 +113,15 @@ Composition: Center the character, keep the entire body visible, and maintain co
 The face is always drawn in this anime style, never a photo face: the identity rules below apply to the anime character's face shape, eye color, hair color, hairstyle, bangs, skin tone, glasses, facial hair and gender. The clothes are the streetwear above, not the clothes from the photo.
 ```
 
-### 2. 3. Press the film button on the still to open AI Video with the still as the first frame. Settings: Kling 3.0, 10 s, 1080p, 9:16, sound on. The video prompt
+### 6. 3. Press the film button on the still to open AI Video with the still as the first frame. Settings: Kling 3.0, 10 s, 1080p, 9:16, sound off. The video prompt
 
 *Kind: video_prompt*
 
 ```text
-Animate the drawn character with the bouncy side-to-side sway of a hand-animated sticker edit, on the beat. Keep the exact same pose, composition, and framing. The whole figure rocks from the feet: it leans a little to the left, then a little to the right, about two sways per second, and the head and shoulders bob along just behind the body with small, cocky nods. The feet stay planted on the same spot. The hand with the banknotes keeps fanning them at chest height and gives them a small flick on the beat; the other hand stays on the jacket collar. Add gentle secondary motion to the jacket, the chain and the hair. The character keeps the calm, cocky half smile with the mouth closed, blinks now and then, and raises the eyebrows once near the end. The face stays the same drawn face from the first frame to the last. Keep the exact same drawing style, linework, shading, colors and outfit, and keep the background completely unchanged: plain white, with the soft drop shadow moving with the body. No camera movement, panning, zooming, or perspective changes. Sound: a bouncy, punchy jersey club beat with fast kicks and claps. No voice, no singing, no words. One continuous shot. No text, no subtitles, no logos, no watermark, no extra people, no extra hands, no cuts.
+Animate the drawn character with the bouncy side-to-side sway of a hand-animated sticker edit, on the beat. Keep the exact same pose, composition, and framing. The whole figure rocks from the feet: it leans a little to the left, then a little to the right, about two sways per second, and the head and shoulders bob along just behind the body with small, cocky nods. The feet stay planted on the same spot. The hand with the banknotes keeps fanning them at chest height and gives them a small flick on the beat; the other hand stays on the jacket collar. Add gentle secondary motion to the jacket, the chain and the hair. The character keeps the calm, cocky half smile with the mouth closed, blinks now and then, and raises the eyebrows once near the end. The face stays the same drawn face from the first frame to the last. Keep the exact same drawing style, linework, shading, colors and outfit, and keep the background completely unchanged: plain white, with the soft drop shadow moving with the body. No camera movement, panning, zooming, or perspective changes. The sway keeps a steady bouncy rhythm of about two sways per second, like a fast jersey club beat. No dialogue throughout the entire video. No background music. No voice, no singing, no words. One continuous shot. No text, no subtitles, no logos, no watermark, no extra people, no extra hands, no cuts.
 ```
 
-### 3. 1. The video prompt is filled in. Settings: kling-3-motion, 15 s, 720p, 9:16, sound off. The video prompt
+### 7. 1. The video prompt is filled in. Settings: kling-3-motion, 15 s, 720p, 9:16, sound off. The video prompt
 
 *Kind: video_prompt*
 
@@ -50,7 +130,7 @@ Track the exact camera movement, framing, facial expressions, and body movements
 Replace the character in the video with the person from the uploaded image. Keep actions, poses, facial expressions and rhythm. Preserve the person's original facial features, maintain character consistency, no distortion, no glitches, no artifacts. The person dances in the place from the uploaded image, in the clothes and shoes from the uploaded image, not the navy t-shirt with a small white logo or the printed pajama pants of the dancer in the video, and keeps their own hair, and their own beard or no beard, from the uploaded image. Follow the dancer's moves and timing exactly: a loose sway with the hands pointing out to the sides, both hands on top of the head with the head down, a step close to the camera with a big smile and both thumbs up, a step back, then the side-to-side sway with the arms out, the hands pointing and waving at the camera, and a small bounce to the end. Keep the body in view, with natural balance and stable ground contact. Exactly one person, no other people. No text, no captions, no logos.
 ```
 
-### 4. 1. The video prompt is filled in. Settings: Seedance 2.5, 14 s, 720p, 9:16, sound off. The video prompt
+### 8. 1. The video prompt is filled in. Settings: Seedance 2.5, 14 s, 720p, 9:16, sound off. The video prompt
 
 *Kind: video_prompt*
 
@@ -74,7 +154,7 @@ Shot 3 [10.4-14s]: hard cut: dancer 2 dances at the front center with the arms o
 One head per person, on that person's own shoulders. A face never appears on knees, legs, hands or clothes. No dialogue throughout the entire video. No background music. No text, no captions, no logos, no watermark.
 ```
 
-### 5. 1. The video prompt is filled in. Settings: Seedance 2.5, 15 s, 720p, 9:16, sound off. The video prompt (Pet)
+### 9. 1. The video prompt is filled in. Settings: Seedance 2.5, 15 s, 720p, 9:16, sound off. The video prompt (Pet)
 
 *Kind: video_prompt*
 
@@ -94,7 +174,7 @@ Only replace the man; the hallway, the light, the moves, the timing, the camera 
 Anatomy rules: one head only. Two hind legs and two front legs, no extra legs or paws. Exactly one animal, no people. No dialogue throughout the entire video. No background music. No text, no captions, no logos, no watermark.
 ```
 
-### 6. 1. The video prompt is filled in. Settings: Seedance 2.5, 14 s, 720p, 9:16, sound off. The video prompt (Pet)
+### 10. 1. The video prompt is filled in. Settings: Seedance 2.5, 14 s, 720p, 9:16, sound off. The video prompt (Pet)
 
 *Kind: video_prompt*
 

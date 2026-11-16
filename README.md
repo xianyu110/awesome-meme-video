@@ -6,12 +6,12 @@
 
 ## Stats
 
-- **Total**: 673 templates
-- **MakeViral**: 522 templates · 1522 prompt blocks · 751 demo videos
+- **Total**: 684 templates
+- **MakeViral**: 533 templates · 1581 prompt blocks · 774 demo videos
 - **Remake Your Meme**: 34 templates · public prompts: **none** (one-tap remake only) · demos/posters archived
 - **Media.io**: 18 templates · 12 prompt blocks · 12 demo videos
 - **Kavel**: 99 templates · 321 prompt blocks · 377 demo videos
-- Scraped: 2026-11-15 (Asia/Shanghai)
+- Scraped: 2026-11-16 (Asia/Shanghai)
 - Sort: **newest first** by `published || updated (newest first); undated=unknown; never scraped_at`
 - Gallery: https://xianyu110.github.io/awesome-meme-video/
 
@@ -46,6 +46,17 @@ Demo MP4s are stored via Git LFS when present. Each template folder also lists o
 
 | Template | Slug | Date | Prompts | Demo | Page |
 | --- | --- | --- | ---: | --- | --- |
+| [You Rock My World Trend: Make the Couple Glow-Up Transition From 2 Photos](makeviral/you-rock-my-world-ai-trend/PROMPTS.md) | `you-rock-my-world-ai-trend` | 2026-11-15 | 4 | ✅ | [link](https://www.makeviral.ai/templates/you-rock-my-world-ai-trend) |
+| [Tiger Transition: Your AI Glow-Up on "You Cannot Reason With a Tiger"](makeviral/tiger-transition-ai-trend/PROMPTS.md) | `tiger-transition-ai-trend` | 2026-11-15 | 4 | ✅ | [link](https://www.makeviral.ai/templates/tiger-transition-ai-trend) |
+| [Ronaldo Header AI: The Soccer Header Leap, Starring You](makeviral/ronaldo-header-ai-trend/PROMPTS.md) | `ronaldo-header-ai-trend` | 2026-11-15 | 3 | ✅ | [link](https://www.makeviral.ai/templates/ronaldo-header-ai-trend) |
+| [Reaching Out Cat Trend: Put Your Pet in the Viral Clip](makeviral/reaching-out-cat-ai/PROMPTS.md) | `reaching-out-cat-ai` | 2026-11-15 | 3 | ✅ | [link](https://www.makeviral.ai/templates/reaching-out-cat-ai) |
+| [Nadie Ta Frío Trend AI: Do the Hand Dance From One Photo](makeviral/nadie-ta-frio-ai-trend/PROMPTS.md) | `nadie-ta-frio-ai-trend` | 2026-11-15 | 2 | ✅ | [link](https://www.makeviral.ai/templates/nadie-ta-frio-ai-trend) |
+| [Jingle Bell Brazil Dance AI: Your Crew in the Viral Christmas Line Dance](makeviral/jingle-bell-brazil-dance-ai/PROMPTS.md) | `jingle-bell-brazil-dance-ai` | 2026-11-15 | 4 | ✅ | [link](https://www.makeviral.ai/templates/jingle-bell-brazil-dance-ai) |
+| [GTA 6 Loading Screen AI: Turn Your Photo Into a GTA Poster](makeviral/gta-6-loading-screen-ai/PROMPTS.md) | `gta-6-loading-screen-ai` | 2026-11-15 | 8 | ✅ | [link](https://www.makeviral.ai/templates/gta-6-loading-screen-ai) |
+| [Dog Washing Dishes AI: Your Pet Opens the Sponge Box](makeviral/dog-washing-dishes-ai-trend/PROMPTS.md) | `dog-washing-dishes-ai-trend` | 2026-11-15 | 5 | ✅ | [link](https://www.makeviral.ai/templates/dog-washing-dishes-ai-trend) |
+| [Dancing With Santa: Dance With Santa Claus From One Photo](makeviral/dance-with-santa-ai/PROMPTS.md) | `dance-with-santa-ai` | 2026-11-15 | 3 | ✅ | [link](https://www.makeviral.ai/templates/dance-with-santa-ai) |
+| [Airport Transition AI: From the Gate to a Neon City in One Cut](makeviral/airport-transition-ai-trend/PROMPTS.md) | `airport-transition-ai-trend` | 2026-11-15 | 3 | ✅ | [link](https://www.makeviral.ai/templates/airport-transition-ai-trend) |
+| [AI Tidal Wave Video: The Giant Wave Hits You and Your Friends](makeviral/ai-tidal-wave-video/PROMPTS.md) | `ai-tidal-wave-video` | 2026-11-15 | 4 | ✅ | [link](https://www.makeviral.ai/templates/ai-tidal-wave-video) |
 | [We Don't Talk Anymore Dance: Do the Viral Freestyle From One Photo](makeviral/we-dont-talk-anymore-dance-ai-trend/PROMPTS.md) | `we-dont-talk-anymore-dance-ai-trend` | 2026-11-14 | 3 | ✅ | [link](https://www.makeviral.ai/templates/we-dont-talk-anymore-dance-ai-trend) |
 | [Tweenslop AI: Turn One Photo Into a Tweenslop Animation](makeviral/tweenslop-ai-trend/PROMPTS.md) | `tweenslop-ai-trend` | 2026-11-14 | 3 | ✅ | [link](https://www.makeviral.ai/templates/tweenslop-ai-trend) |
 | [Snowman Dance AI: Do the Viral Sia Couple Dance From Two Photos](makeviral/snowman-dance-ai-trend/PROMPTS.md) | `snowman-dance-ai-trend` | 2026-11-14 | 2 | ✅ | [link](https://www.makeviral.ai/templates/snowman-dance-ai-trend) |
@@ -63,7 +74,7 @@ Demo MP4s are stored via Git LFS when present. Each template folder also lists o
 | [Talk to Me Doja AI Trend: The Anime Girl Sway From One Photo](makeviral/talk-to-me-doja-ai-trend/PROMPTS.md) | `talk-to-me-doja-ai-trend` | 2026-11-13 | 3 | ✅ | [link](https://www.makeviral.ai/templates/talk-to-me-doja-ai-trend) |
 | [Cat Taxi AI: Your Giant Pet Picks You Up After Work](makeviral/pet-taxi-ai-trend/PROMPTS.md) | `pet-taxi-ai-trend` | 2026-11-13 | 2 | ✅ | [link](https://www.makeviral.ai/templates/pet-taxi-ai-trend) |
 | [MobLand Dance AI: Do Paul's Dance From One Photo](makeviral/mobland-paul-dance-ai/PROMPTS.md) | `mobland-paul-dance-ai` | 2026-11-13 | 2 | ✅ | [link](https://www.makeviral.ai/templates/mobland-paul-dance-ai) |
-| [Jensen Huang AI Video: Take the Wheel Next to the Nvidia CEO](makeviral/jensen-huang-ai-video/PROMPTS.md) | `jensen-huang-ai-video` | 2026-11-13 | 2 | ✅ | [link](https://www.makeviral.ai/templates/jensen-huang-ai-video) |
+| [Jensen Huang AI Video: Take the Wheel Next to the Nvidia CEO](makeviral/jensen-huang-ai-video/PROMPTS.md) | `jensen-huang-ai-video` | 2026-11-13 | 5 | ✅ | [link](https://www.makeviral.ai/templates/jensen-huang-ai-video) |
 | [Flashlight Trend: Your Couple Photo on Pure Black With a Warm Rim Light](makeviral/flash-couple-silhouette-ai-photo/PROMPTS.md) | `flash-couple-silhouette-ai-photo` | 2026-11-13 | 3 | ✅ | [link](https://www.makeviral.ai/templates/flash-couple-silhouette-ai-photo) |
 | [Favorite Rumors About Us AI: Do the Couple Rumors Trend From Two Photos](makeviral/favorite-rumors-about-us-ai-trend/PROMPTS.md) | `favorite-rumors-about-us-ai-trend` | 2026-11-13 | 4 | ✅ | [link](https://www.makeviral.ai/templates/favorite-rumors-about-us-ai-trend) |
 | [Jake Gyllenhaal Headphones Walk AI: Your Own Demolition Scene](makeviral/demolition-walk-ai-trend/PROMPTS.md) | `demolition-walk-ai-trend` | 2026-11-13 | 2 | ✅ | [link](https://www.makeviral.ai/templates/demolition-walk-ai-trend) |
@@ -89,7 +100,7 @@ Demo MP4s are stored via Git LFS when present. Each template folder also lists o
 | [ChatGPT Sweater Trend: Black and White Portrait, Colored Sweater](makeviral/chatgpt-sweater-portrait-trend/PROMPTS.md) | `chatgpt-sweater-portrait-trend` | 2026-11-12 | 3 | ✅ | [link](https://www.makeviral.ai/templates/chatgpt-sweater-portrait-trend) |
 | [Come On Barbie Let's Go Party AI: Do the Barbie Girl Dance Trend From Two Photos](makeviral/barbie-girl-dance-ai-trend/PROMPTS.md) | `barbie-girl-dance-ai-trend` | 2026-11-12 | 3 | ✅ | [link](https://www.makeviral.ai/templates/barbie-girl-dance-ai-trend) |
 | [Ahh Almost Almost: Train Hard, Miss by an Inch, From One Photo](makeviral/almost-almost-ai-trend/PROMPTS.md) | `almost-almost-ai-trend` | 2026-11-12 | 4 | ✅ | [link](https://www.makeviral.ai/templates/almost-almost-ai-trend) |
-| [Kara Sevda AI Trend: Your AI Video with Celebrity Stars Kemal and Emir](makeviral/ai-video-with-celebrity/PROMPTS.md) | `ai-video-with-celebrity` | 2026-11-12 | 5 | ✅ | [link](https://www.makeviral.ai/templates/ai-video-with-celebrity) |
+| [Kara Sevda AI Trend: Your AI Video with Celebrity Stars Kemal and Emir](makeviral/ai-video-with-celebrity/PROMPTS.md) | `ai-video-with-celebrity` | 2026-11-12 | 7 | ✅ | [link](https://www.makeviral.ai/templates/ai-video-with-celebrity) |
 | [Wizard Cat Meme: Put Your Pet or You at the Keyboard](makeviral/wizard-cat-keyboard-smash-ai-trend/PROMPTS.md) | `wizard-cat-keyboard-smash-ai-trend` | 2026-11-11 | 2 | ✅ | [link](https://www.makeviral.ai/templates/wizard-cat-keyboard-smash-ai-trend) |
 | [Waist Heart Trend AI: Make the Waist Heart Pose From One Photo](makeviral/waist-heart-ai-trend/PROMPTS.md) | `waist-heart-ai-trend` | 2026-11-11 | 3 | ✅ | [link](https://www.makeviral.ai/templates/waist-heart-ai-trend) |
 | [Truck Driver AI Trend: Back the Big Truck Into the Yard](makeviral/truck-driver-ai-trend/PROMPTS.md) | `truck-driver-ai-trend` | 2026-11-11 | 2 | ✅ | [link](https://www.makeviral.ai/templates/truck-driver-ai-trend) |
@@ -113,7 +124,7 @@ Demo MP4s are stored via Git LFS when present. Each template folder also lists o
 | [La Mujer del Pelotero Dance: Do the Trend From One Photo](makeviral/la-mujer-del-pelotero-ai-dance/PROMPTS.md) | `la-mujer-del-pelotero-ai-dance` | 2026-11-10 | 3 | ✅ | [link](https://www.makeviral.ai/templates/la-mujer-del-pelotero-ai-dance) |
 | [La La Land Dance AI: Tap Dance on the Hilltop at Sunset With Your Partner](makeviral/la-la-land-ai-dance/PROMPTS.md) | `la-la-land-ai-dance` | 2026-11-10 | 3 | ✅ | [link](https://www.makeviral.ai/templates/la-la-land-ai-dance) |
 | [Kiat Jud Dai Cat: Turn Your Pet Into the Kitten Parade](makeviral/kiat-jud-dai-kitten-parade-ai/PROMPTS.md) | `kiat-jud-dai-kitten-parade-ai` | 2026-11-10 | 1 | ✅ | [link](https://www.makeviral.ai/templates/kiat-jud-dai-kitten-parade-ai) |
-| [Mariah Carey It's Time: Go From Halloween to Christmas at Midnight](makeviral/its-time-christmas-ai-trend/PROMPTS.md) | `its-time-christmas-ai-trend` | 2026-11-10 | 2 | ✅ | [link](https://www.makeviral.ai/templates/its-time-christmas-ai-trend) |
+| [Mariah Carey It's Time: Go From Halloween to Christmas at Midnight](makeviral/its-time-christmas-ai-trend/PROMPTS.md) | `its-time-christmas-ai-trend` | 2026-11-10 | 4 | ✅ | [link](https://www.makeviral.ai/templates/its-time-christmas-ai-trend) |
 | [Iconic By Mistake Dance AI: Do the Viral Challenge With a Friend](makeviral/iconic-by-mistake-ai-dance/PROMPTS.md) | `iconic-by-mistake-ai-dance` | 2026-11-10 | 3 | ✅ | [link](https://www.makeviral.ai/templates/iconic-by-mistake-ai-dance) |
 | [Husband Emporium: Put Your Partner on Display in the Retro Ad](makeviral/husband-emporium-ai-trend/PROMPTS.md) | `husband-emporium-ai-trend` | 2026-11-10 | 4 | ✅ | [link](https://www.makeviral.ai/templates/husband-emporium-ai-trend) |
 | [Hotline Bling Dance AI: Your Own Color Room Video From One Photo](makeviral/hotline-bling-ai-trend/PROMPTS.md) | `hotline-bling-ai-trend` | 2026-11-10 | 3 | ✅ | [link](https://www.makeviral.ai/templates/hotline-bling-ai-trend) |
@@ -122,7 +133,7 @@ Demo MP4s are stored via Git LFS when present. Each template folder also lists o
 | [Dog Pool Party AI Dance: Your Pet Owns the Pool Party](makeviral/dog-pool-party-ai-dance/PROMPTS.md) | `dog-pool-party-ai-dance` | 2026-11-10 | 2 | ✅ | [link](https://www.makeviral.ai/templates/dog-pool-party-ai-dance) |
 | [Car Chips Prank: Star in the Accidental Touch Car Meme with Your Friends](makeviral/car-chips-prank-ai-trend/PROMPTS.md) | `car-chips-prank-ai-trend` | 2026-11-10 | 3 | ✅ | [link](https://www.makeviral.ai/templates/car-chips-prank-ai-trend) |
 | [Pixie Cut Filter: See Yourself With a Short, Layered Pixie Haircut](makeviral/ai-pixie-haircut-filter/PROMPTS.md) | `ai-pixie-haircut-filter` | 2026-11-10 | 3 | ✅ | [link](https://www.makeviral.ai/templates/ai-pixie-haircut-filter) |
-| [AI Fight Video Generator: Make Any Two Characters Fight](makeviral/ai-fight-video-generator/PROMPTS.md) | `ai-fight-video-generator` | 2026-11-10 | 3 | ✅ | [link](https://www.makeviral.ai/templates/ai-fight-video-generator) |
+| [AI Fight Video Generator: Make Any Two Characters Fight](makeviral/ai-fight-video-generator/PROMPTS.md) | `ai-fight-video-generator` | 2026-11-10 | 6 | ✅ | [link](https://www.makeviral.ai/templates/ai-fight-video-generator) |
 | [Turning My Mom Into Me: Put Your Mom in Your Outfit With AI](makeviral/turning-my-mom-into-me-ai-trend/PROMPTS.md) | `turning-my-mom-into-me-ai-trend` | 2026-11-09 | 2 | ✅ | [link](https://www.makeviral.ai/templates/turning-my-mom-into-me-ai-trend) |
 | [Beans Greens Potatoes Tomatoes Dance: Your Thanksgiving Bend](makeviral/thanksgiving-dance-ai-trend/PROMPTS.md) | `thanksgiving-dance-ai-trend` | 2026-11-09 | 2 | ✅ | [link](https://www.makeviral.ai/templates/thanksgiving-dance-ai-trend) |
 | [Stuffed Animal UFC AI Video: Your Plush Wins the Fight](makeviral/stuffed-animal-ufc-ai-video/PROMPTS.md) | `stuffed-animal-ufc-ai-video` | 2026-11-09 | 2 | ✅ | [link](https://www.makeviral.ai/templates/stuffed-animal-ufc-ai-video) |
@@ -322,7 +333,7 @@ Demo MP4s are stored via Git LFS when present. Each template folder also lists o
 | [Deep Down In My Heart, I Still Love You: The Crying Meme Starring You and a Friend](makeviral/deep-down-in-my-heart-ai-trend/PROMPTS.md) | `deep-down-in-my-heart-ai-trend` | 2026-10-27 | 1 | ✅ | [link](https://www.makeviral.ai/templates/deep-down-in-my-heart-ai-trend) |
 | [Bonito Bonito AI Baby Dance: Your Baby Sips, Hugs and Sways to Un Cafecito Riquito](makeviral/bonito-bonito-ai-baby-dance/PROMPTS.md) | `bonito-bonito-ai-baby-dance` | 2026-10-27 | 1 | ✅ | [link](https://www.makeviral.ai/templates/bonito-bonito-ai-baby-dance) |
 | [Window Dance Trend: Get Caught Dancing at the Lit Window](makeviral/window-dance-ai-trend/PROMPTS.md) | `window-dance-ai-trend` | 2026-10-26 | 2 | ✅ | [link](https://www.makeviral.ai/templates/window-dance-ai-trend) |
-| [Wassup in a Minute Trend: Your Own Swaying Anime Character](makeviral/wassup-in-a-minute-ai-trend/PROMPTS.md) | `wassup-in-a-minute-ai-trend` | 2026-10-26 | 6 | ✅ | [link](https://www.makeviral.ai/templates/wassup-in-a-minute-ai-trend) |
+| [Wassup in a Minute Trend: The Field Dance With 2 Friends, or Anime](makeviral/wassup-in-a-minute-ai-trend/PROMPTS.md) | `wassup-in-a-minute-ai-trend` | 2026-10-26 | 10 | ✅ | [link](https://www.makeviral.ai/templates/wassup-in-a-minute-ai-trend) |
 | [Robot Girl AI: Become the Android at the Tech Expo and Get Your First Hug](makeviral/robot-girl-ai-trend/PROMPTS.md) | `robot-girl-ai-trend` | 2026-10-26 | 3 | ✅ | [link](https://www.makeviral.ai/templates/robot-girl-ai-trend) |
 | [Is That What You Tell Your Little Puerto Rican Mami? Do the Dance From Your Photo](makeviral/puerto-rican-mami-ai-dance/PROMPTS.md) | `puerto-rican-mami-ai-dance` | 2026-10-26 | 2 | ✅ | [link](https://www.makeviral.ai/templates/puerto-rican-mami-ai-dance) |
 | [Mandem in Disguise AI Trend: Turn Your Friends Into the Mandem](makeviral/mandem-in-disguise-ai-trend/PROMPTS.md) | `mandem-in-disguise-ai-trend` | 2026-10-26 | 2 | ✅ | [link](https://www.makeviral.ai/templates/mandem-in-disguise-ai-trend) |
@@ -369,7 +380,7 @@ Demo MP4s are stored via Git LFS when present. Each template folder also lists o
 | [Venom Makeup AI: Black Goo Takes Over Half Your Face](makeviral/venom-makeup-ai-trend/PROMPTS.md) | `venom-makeup-ai-trend` | 2026-10-22 | 2 | ✅ | [link](https://www.makeviral.ai/templates/venom-makeup-ai-trend) |
 | [Training Season Dance AI: Your Face in the Paris Outfit Reel](makeviral/training-season-dance-ai-trend/PROMPTS.md) | `training-season-dance-ai-trend` | 2026-10-22 | 1 | ✅ | [link](https://www.makeviral.ai/templates/training-season-dance-ai-trend) |
 | [Stones to Castle AI Trend: They Threw Stones, You Built a Castle](makeviral/stones-to-castle-ai-trend/PROMPTS.md) | `stones-to-castle-ai-trend` | 2026-10-22 | 2 | ✅ | [link](https://www.makeviral.ai/templates/stones-to-castle-ai-trend) |
-| [No Scrubs AI Dance: You and Two Friends in a 1999-Style Music Video](makeviral/no-scrubs-ai-trend/PROMPTS.md) | `no-scrubs-ai-trend` | 2026-10-22 | 5 | ✅ | [link](https://www.makeviral.ai/templates/no-scrubs-ai-trend) |
+| [No Scrubs AI Dance: You and Two Friends in a 1999-Style Music Video](makeviral/no-scrubs-ai-trend/PROMPTS.md) | `no-scrubs-ai-trend` | 2026-10-22 | 6 | ✅ | [link](https://www.makeviral.ai/templates/no-scrubs-ai-trend) |
 | [No Guidance Dance: Do the Train Dance or a Duo From Your Photos](makeviral/no-guidance-dance-ai-trend/PROMPTS.md) | `no-guidance-dance-ai-trend` | 2026-10-22 | 2 | ✅ | [link](https://www.makeviral.ai/templates/no-guidance-dance-ai-trend) |
 | [Laughing Fairy Meme AI: Turn You and Your Bestie Into Gossiping Fairies](makeviral/laughing-fairy-ai-trend/PROMPTS.md) | `laughing-fairy-ai-trend` | 2026-10-22 | 5 | ✅ | [link](https://www.makeviral.ai/templates/laughing-fairy-ai-trend) |
 | [Hot Tea Prank AI: Put Yourself or Your Dog in the Cafe Prank](makeviral/hot-tea-prank-ai/PROMPTS.md) | `hot-tea-prank-ai` | 2026-10-22 | 7 | ✅ | [link](https://www.makeviral.ai/templates/hot-tea-prank-ai) |
@@ -484,7 +495,7 @@ Demo MP4s are stored via Git LFS when present. Each template folder also lists o
 | [APT AI Video: You and a Friend in the Pink APT. Studio](makeviral/apt-ai-trend/PROMPTS.md) | `apt-ai-trend` | 2026-10-15 | 2 | ✅ | [link](https://www.makeviral.ai/templates/apt-ai-trend) |
 | [AI Muscle Generator: You, With a Huge Bodybuilder Body](makeviral/ai-steroids-filter/PROMPTS.md) | `ai-steroids-filter` | 2026-10-15 | 3 | ✅ | [link](https://www.makeviral.ai/templates/ai-steroids-filter) |
 | [Split Face Trend: Half Your Face, Half Your Parent's](makeviral/ai-family-resemblance-photo/PROMPTS.md) | `ai-family-resemblance-photo` | 2026-10-15 | 1 | ✅ | [link](https://www.makeviral.ai/templates/ai-family-resemblance-photo) |
-| [AI Dunk Trend: Dunk in a Pro Game From One Photo](makeviral/ai-dunk-trend/PROMPTS.md) | `ai-dunk-trend` | 2026-10-15 | 7 | ✅ | [link](https://www.makeviral.ai/templates/ai-dunk-trend) |
+| [AI Dunk Trend: Dunk in a Pro Game From One Photo](makeviral/ai-dunk-trend/PROMPTS.md) | `ai-dunk-trend` | 2026-10-15 | 8 | ✅ | [link](https://www.makeviral.ai/templates/ai-dunk-trend) |
 | [Car Crash Prank: The AI Airbag Filter From One Photo](makeviral/ai-car-crash-prank-filter/PROMPTS.md) | `ai-car-crash-prank-filter` | 2026-10-15 | 2 | ✅ | [link](https://www.makeviral.ai/templates/ai-car-crash-prank-filter) |
 | [Wipe Me Down AI Dance: Do the Viral Dance From One Photo](makeviral/wipe-me-down-ai-dance/PROMPTS.md) | `wipe-me-down-ai-dance` | 2026-10-14 | 1 | ✅ | [link](https://www.makeviral.ai/templates/wipe-me-down-ai-dance) |
 | [Walk It Like I Talk It AI: Your Squad in the Carpool Rap](makeviral/walk-it-like-i-talk-it-ai-trend/PROMPTS.md) | `walk-it-like-i-talk-it-ai-trend` | 2026-10-14 | 3 | ✅ | [link](https://www.makeviral.ai/templates/walk-it-like-i-talk-it-ai-trend) |

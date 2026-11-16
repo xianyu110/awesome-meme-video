@@ -18,7 +18,7 @@
   "prompts": [
     {
       "label": "1. The video prompt is filled in. Settings: Seedance 2.5, 10 s, 720p, 9:16, sound off. The video prompt",
-      "variant": null,
+      "variant": "Human",
       "kind": "video_prompt",
       "text": "Recreate the reference video [Video 1] shot for shot: the same bright room with a plain white wall, a light gray floor, a small green rubber toy on the floor at the left and the edge of a wooden shelf at the right, the same soft indoor light, the same fixed phone camera, the same framing, timing and moves, one continuous take with no cuts. The ONLY change: the dog in the black hoodie who stands upright and headbangs like a heavy metal fan is now the person in [Image 1], a real grown adult.\n\nThe headbanger = the person in [Image 1], in EVERY frame: copy the exact face from [Image 1] (the face shape, eye color and eye shape, eyebrows, nose, mouth, skin tone, age, hair color, hair length and hairstyle, and any beard, moustache, glasses or freckles), so their friends recognize them at once, also in the big close-up at the end and while the head whips. A HUMAN head and a human body: never a dog head, no dog ears, no fur, no muzzle, no tail, no pink hair tie. They wear a plain black hoodie like the dog's, never the clothes from [Image 1]. The same real person from the first second to the last: never morph, never drift back to the dog of [Video 1]. If [Image 1] shows an animal, it stays that animal with its own face, fur and markings, not a person.\n\nSize: the person has a grown adult's real size, never shrunk to the dog's size, never a child's body. They stand in the middle of the room, seen from the hips up, with adult shoulders, arms and hands, and the head always inside the frame, never cut off by the top edge.\n\nThe person copies the dog's whole performance with the same timing, like a metal fan at a rock concert. Matching the reference second by second:\n0-0.5 s: the head thrown back, both hands out at shoulder height.\n0.5-2 s: two hard headbangs, the head whips down and back up, the hair (if any) flying.\n2-3 s: they face the camera and throw one fist high in the air.\n3-4.5 s: another big headbang down, then a toss of the head back up.\n4.5-6.5 s: they face the camera and shake the head fast from side to side, both fists pumping.\n6.5-7.5 s: they step toward the camera, still nodding hard.\n7.5-9.9 s: big close-up, the face fills the upper half of the frame, a wide happy grin, both hands up and open, the head bobbing to the beat; at the very end the head whips to one side.\n\nReal live-action footage, natural motion, real skin, five fingers on each hand. No dialogue throughout the entire video. No background music. No text, no captions, no logos, no watermark, no animals, no other people."
     },
@@ -60,5 +60,5 @@
     "Make your own Pet Rock Dance video"
   ],
   "prompt_count": 3,
-  "scraped_at": "2026-11-15"
+  "scraped_at": "2026-11-16"
 }

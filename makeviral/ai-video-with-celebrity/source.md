@@ -3,7 +3,7 @@
 > The Kara Sevda AI trend is the viral night selfie with AI look-alikes of Kemal and Emir, the Endless Love stars Burak Özçivit and Kaan Urgancıoğlu: she leans in to kiss Kemal, and Emir walks in jealous.
 
 Canonical: https://www.makeviral.ai/templates/ai-video-with-celebrity
-Updated: 2026-11-12
+Updated: 2026-11-15
 Published: 2026-11-12
 Author: MakeViral Team (https://www.makeviral.ai/about)
 Publisher: MakeViral (https://www.makeviral.ai)
@@ -12,11 +12,11 @@ The **Kara Sevda AI** trend is the viral night selfie with AI look-alikes of Kem
 
 You film a night selfie, the camera swings to the Kemal look-alike in his navy suit, face to face with you, and the Emir look-alike walks in and rests his head on his shoulder, jealous. One photo is enough. It is an AI video with look-alikes, not a real meeting.
 
-Also called: Endless Love AI trend, Мои слёзы trend, Moi slezy trend.
+Also called: Endless Love AI trend, Мои слёзы trend, Moi slezy trend, My tears AI couple trend.
 
 **Make it now:** [Make this video](https://www.makeviral.ai/templates/ai-video-with-celebrity/create). 1 photo · 12 s · 9:16 with sound · 183 credits, charged once · ready in up to several minutes · no prompt to write.
 
-Keyword: kara sevda ai. Also answers: kara sevda ai trend, ai video with celebrity, kemal and emir, kemal emir kara sevda, ai selfie video with celebrity, ai selfie with celebrity, make ai video with celebrity, ai video with famous people, endless love turkish drama, kemal emir nihan, ai video with celebrities, how to make ai selfie video with celebrity, ai selfie with celebrity trend, ai video with celebrity prompt, create ai video with celebrity, generate ai video with celebrity, kemal ve emir, kemal y emir, amor eterno kemal y emir, nihan kara sevda, kara sevda tiktok, endless love turkish drama cast, kara sevda yapay zeka, черная любовь, حب اعمى, burak özçivit ai video, kemal emir ai trend, ai selfie with celebrity video, selfie with celebrity ai video, ai selfie with celebrity prompt, ai selfie with celebrity app, ai selfie with celebrities, ai selfie with famous people, make ai videos with famous people, ai video generator with famous people, ai video meeting celebrities, how to make ai video with celebrity, ai video with actors, ai video selfie with actors, ai video with turkish actor, ai selfie with celebrity generator, ai selfie with celebrity tutorial, my tears trend, мои слезы тренд, тренд мои слезы.
+Keyword: kara sevda ai. Also answers: kara sevda ai trend, ai video with celebrity, kemal and emir, kemal emir kara sevda, ai selfie video with celebrity, ai selfie with celebrity, make ai video with celebrity, ai video with famous people, endless love turkish drama, kemal emir nihan, ai video with celebrities, how to make ai selfie video with celebrity, ai selfie with celebrity trend, ai video with celebrity prompt, create ai video with celebrity, generate ai video with celebrity, kemal ve emir, kemal y emir, amor eterno kemal y emir, nihan kara sevda, kara sevda tiktok, endless love turkish drama cast, kara sevda yapay zeka, черная любовь, حب اعمى, burak özçivit ai video, kemal emir ai trend, ai selfie with celebrity video, selfie with celebrity ai video, ai selfie with celebrity prompt, ai selfie with celebrity app, ai selfie with celebrities, ai selfie with famous people, make ai videos with famous people, ai video generator with famous people, ai video meeting celebrities, how to make ai video with celebrity, ai video with actors, ai video selfie with actors, ai video with turkish actor, ai selfie with celebrity generator, ai selfie with celebrity tutorial, my tears trend, мои слезы тренд, тренд мои слезы, мои слёзы нейросеть, тренд мои слезы сделать, тренд с парнем нейросеть, мне не стать такой крылатой, ai couple video trend.
 
 ## What is the Kara Sevda AI trend, and where did it start?
 
@@ -37,11 +37,14 @@ On 10 November @anillinka posted the Kara Sevda AI version: AI look-alikes of Ni
 
 ## What the Kara Sevda AI video looks like
 
-The reel is AI-made: a bot put AI look-alikes of three real actors into the creator's own night video, and the actors were never there. The woman is not the creator either. With Kara Sevda stars, your face takes her place and the two men stay as in the reel; the other versions put the faces from your photos on the men too. No two runs come out the same.
+The first reel is AI-made: a bot put AI look-alikes of three real actors into the creator's own night video, and the actors were never there. The woman is not the creator either. The second clip is that real night video, the creator and her partner, which Your couple copies. With Kara Sevda stars, your face takes her place and the two men stay as in the reel; the other versions put the faces from your photos on the men too. No two runs come out the same.
 
 - **Example 1** (12 s, 9:16 MP4 with sound): The original reel by @anillinka: the Kara Sevda AI trend, a night selfie with AI look-alikes of Nihan, Kemal and Emir. She leans in to kiss Kemal, and Emir walks in and rests his head on his shoulder. The Kara Sevda stars version puts you in her place.
   - Video: https://media.makeviral.ai/templates/ai-video-with-celebrity/original-main-v2.mp4
   - Poster: https://media.makeviral.ai/templates/ai-video-with-celebrity/original-main-v1.jpg
+- **Example 2** (13 s, 9:16 MP4 with sound): The original night clip by @anillinka (26 October 2026), the base of the Мои слёзы template: she sings into the lens, the phone swings, and she stands face to face with her partner. Your couple puts your two photos in it.
+  - Video: https://media.makeviral.ai/templates/ai-video-with-celebrity/original-couple-v2.mp4
+  - Poster: https://media.makeviral.ai/templates/ai-video-with-celebrity/original-couple-v1.jpg
 
 ## How to make the Kara Sevda AI video on MakeViral
 
@@ -81,6 +84,54 @@ Anatomy rules: exactly three people, one head each, on their own shoulders; two 
 2. Press Generate, then download the 9:16 MP4.
 
 One-tap version of this variant: https://www.makeviral.ai/templates/ai-video-with-celebrity/create
+
+#### Variant: Your couple
+
+Settings: 2 photos (you, face clear (you film the selfie and sing) + your partner, face clear (face to face with you)) · Seedance 2.5 · 13 s · 720p · 9:16 · no sound · 198 credits in one tap.
+
+1. The video prompt is filled in. Settings: Seedance 2.5, 13 s, 720p, 9:16, sound off. The video prompt:
+
+   ```text
+   Recreate the reference video [Video 1] shot for shot: one continuous handheld phone selfie video outdoors at night in a city: a dark sky, lit high-rise buildings far behind, blurred city lights, warm street light on the faces; the phone is held at arm's length by the one who films and moves a little, exactly as in [Video 1]; the same framing, timing, camera moves and light. The ONLY change: both people are now the people in the photos. [Image 1] replaces the woman who films the selfie and sings into the lens (on the right after the swing), and [Image 2] replaces the man who stands face to face with her (on the left). Both change: no one from the video stays, also when a face is half out of the frame or turned away.
+
+PERSON A = the person in [Image 1], PERSON B = the person in [Image 2], in EVERY frame: copy each exact face from its own photo (the face shape, eye color and eye shape, eyebrows, nose, mouth, skin tone, age, hair color, hair length and hairstyle, and any beard, moustache, glasses or freckles). Each face stays the same from the first frame to the last, also in profile and very close to the other face, so friends recognize them at once. Never blend the faces, never swap the sides. Never drift back to the faces of the people in [Video 1]: NO short blonde bob on PERSON A unless [Image 1] shows it, NO short dark hair and NO round clean-shaven face of the man in [Video 1] on PERSON B unless [Image 2] shows them.
+
+PERSON A and PERSON B wear the clothes from their own photo. If a photo shows only the head: PERSON A a dark coat with a grey scarf, PERSON B a black coat with a high collar.
+
+WHAT HAPPENS, matching the reference second by second, one take, no cuts:
+0-1.3 s: PERSON A holds the phone at arm's length, tilts the head and softly sings into the lens, the face big and sharp, looking into the camera.
+1.3-2 s: PERSON A turns the head to the side and the phone swings with it, showing PERSON B standing right next to PERSON A, close to the lens.
+2-13 s: PERSON A and PERSON B stand face to face, very close, in profile to the camera, looking into each other's eyes. PERSON B looks down at PERSON A with a small, warm smile; PERSON A looks up at PERSON B, mouths the song with pursed lips, smiles, and leans in as if for a kiss. They never kiss. Both faces stay big and sharp to the end.
+
+Anatomy rules: exactly two people, one head each, on their own shoulders; two arms each, five fingers on each hand. The two faces come close but never touch and never merge. No dialogue throughout the entire video. No background music. No text on screen, no subtitles, no watermark, no logos.
+   ```
+
+2. Press Generate, then download the 9:16 MP4.
+
+One-tap version of this variant: https://www.makeviral.ai/templates/ai-video-with-celebrity/create?variant=couple
+
+#### Variant: Two pets
+
+Settings: 2 photos (your pet (looks into the camera first) + your second pet (nose to nose with the first)) · Seedance 2.5 · 13 s · 720p · 9:16 · no sound · 198 credits in one tap.
+
+1. The video prompt is filled in. Settings: Seedance 2.5, 13 s, 720p, 9:16, sound off. The video prompt:
+
+   ```text
+   Recreate the reference video [Video 1] shot for shot: one continuous handheld phone selfie video outdoors at night in a city: a dark sky, lit high-rise buildings far behind, blurred city lights, warm street light on the faces; the phone is held at arm's length by the one who films and moves a little, exactly as in [Video 1]; the same framing, timing, camera moves and light. The ONLY change: the two people are now the two pets in the photos. The pet in [Image 1] takes the place of the woman who films the selfie (on the right after the swing), and the pet in [Image 2] takes the place of the man who stands face to face with her (on the left). No person from the video stays, also when a head is half out of the frame.
+
+PET A = the pet in [Image 1], PET B = the pet in [Image 2], in EVERY frame: each has the same species and breed, face, eyes, ears, muzzle, fur colors, fur length and markings as in its own photo, with the natural body volume and proportions of that animal: never flattened, squashed, stretched or merged with anything. Both sit on a low wall, so their heads are at the height of the two faces in [Video 1]. No human body, no coats, no human hair, no human hands; never blend the two pets, never swap the sides.
+
+WHAT HAPPENS, matching the reference second by second, one take, no cuts:
+0-1.3 s: PET A looks into the lens from very close, as if it films the selfie itself, the head tilted, the face big and sharp.
+1.3-2 s: PET A turns the head to the side and the camera swings with it, showing PET B sitting right next to PET A.
+2-13 s: PET A and PET B are face to face, nose almost to nose, in profile to the camera, looking into each other's eyes. PET B looks down at PET A, calm and soft; PET A looks up and reaches its nose toward PET B. Both faces stay big and sharp to the end.
+
+Anatomy rules: exactly two animals, one head each, four legs each, no people. The two noses come close but the heads never merge. No dialogue throughout the entire video. No background music. No text on screen, no subtitles, no watermark, no logos.
+   ```
+
+2. Press Generate, then download the 9:16 MP4.
+
+One-tap version of this variant: https://www.makeviral.ai/templates/ai-video-with-celebrity/create?variant=couple-pets
 
 #### Variant: You + 2 stars
 
@@ -234,6 +285,8 @@ Every version copies the viral reel shot for shot, in one continuous handheld ta
 | You + 1 star | 2: you, your star | You and your star face to face. The one who walks in is a made-up friend with red hair and glasses, not a real person. |
 | Pet + Kara Sevda | 1: your pet | Your dog or cat takes your place, nose to nose with the Kemal look-alike, while Emir leans on his shoulder. |
 | Pet + your star | 2: your pet, your star | Your pet nose to nose with your own star, while the made-up friend leans on the star's shoulder. |
+| Your couple | 2: you, your partner | The trend's own night clip, no stars and no third person: you sing Мои слёзы into the lens, the phone swings, and you two stand face to face to the end. 13 seconds. |
+| Two pets | 2: pet 1, pet 2 | Your two pets in the same night selfie: the first looks into the lens, then they sit nose to nose. 13 seconds. |
 
 The stars can be anyone you pick: actors, singers, athletes, or simply your friends playing the famous part. A woman or a man works in every place: the video keeps the gender, the face and the hair of each photo.
 
@@ -293,6 +346,10 @@ You need no app: MakeViral works in the browser on your phone or computer. It ma
 
 Some AI video models refuse photos of very famous people. MakeViral then tries other models by itself, which takes longer. If all of them refuse, the run fails and your credits come back.
 
+### Can I make the Мои слёзы trend with my boyfriend or girlfriend?
+
+Yes: pick Your couple and add two photos, you first and then your partner. It copies the night clip from 26 October 2026 that the Russian template bots use, the couple video people look for with мои слёзы нейросеть (also мои слезы нейросеть, тренд мои слезы сделать or тренд с парнем нейросеть): you sing "мне не стать такой крылатой" into the lens, the phone swings, and you two stand face to face, with no star and no third person. It works for any couple, and Two pets does the same with your pets. This AI couple video trend version runs 13 seconds, with the song.
+
 ### Can I do it with my pet?
 
 Yes. With Pet + Kara Sevda your dog or cat takes your place, nose to nose with the Kemal look-alike, while Emir leans on his shoulder; with Pet + your star it meets your own star instead.
@@ -317,12 +374,12 @@ Yes. The Generate button shows the exact price before you spend anything, and if
 
 ## New AI video trends this week
 
-- [Never Let Her Pay: Pay for Dinner With a Sponge](https://www.makeviral.ai/templates/never-let-her-pay-ai-trend): "I got this." Add one photo, and you play the gentleman in the white dinner jacket who stops his date from paying, opens his pouch to show a kitchen sponge and gets walked to the kitchen to wash the dishes. With the clip's own sound.
-- [Snowman Dance AI: Do the Viral Sia Couple Dance From Two Photos](https://www.makeviral.ai/templates/snowman-dance-ai-trend): Hands behind your backs, a spin under the arm, a quick twirl around each other, and then one of you jumps on the other. Add a photo of you and one of your partner, or of two pets, and get the whole Snowman dance with the song.
-- [Self Hug Sketch: A Giant Pencil Drawing of You Hugs You](https://www.makeviral.ai/templates/self-hug-sketch-ai-trend): Add one photo. You lean on a grey wall while a huge black-and-white pencil sketch of you, drawn on the wall, wraps its arms around you, with "Embrace of my own self" written beside you.
-- [Need for Speed AI Trend: Your Car in the Movie Scene](https://www.makeviral.ai/templates/need-for-speed-ai-trend): Add one photo of your car or truck. AI puts it in the trend's movie-style street scene: it rolls through town, spins burnouts in thick tire smoke while people watch, and rolls away, with the trend's own sound.
-- [Tweenslop AI: Turn One Photo Into a Tweenslop Animation](https://www.makeviral.ai/templates/tweenslop-ai-trend): Your photo becomes a flat cut-out that zooms, squashes, spins and flies with a rainbow trail on every beat of a Brazilian funk track, with white, pink, purple and green flashes. You, your pet or any object.
-- [We Don't Talk Anymore Dance: Do the Viral Freestyle From One Photo](https://www.makeviral.ai/templates/we-dont-talk-anymore-dance-ai-trend): The sped-up "We Don't Talk Anymore" freestyle is all over TikTok. Add one photo, and you dance it on the trend's stage, barefoot on a driveway at night with your shoes in one hand, or your pet takes the stage.
+- [GTA 6 Loading Screen AI: Turn Your Photo Into a GTA Poster](https://www.makeviral.ai/templates/gta-6-loading-screen-ai): Add one photo and get your own GTA 6 loading screen: a painted crime-game poster of you in sunset colors, with palm trees, neon signs and a sports car. Same face, your own clothes, no logo.
+- [Jingle Bell Brazil Dance AI: Your Crew in the Viral Christmas Line Dance](https://www.makeviral.ai/templates/jingle-bell-brazil-dance-ai): Three dancers in Santa hats stand in a row under blue lights, then cross their arms, tap their chests and bounce in sync to a Brazilian funk Jingle Bell Rock. Add photos of you and two friends, one friend, just you, or your pet.
+- [Reaching Out Cat Trend: Put Your Pet in the Viral Clip](https://www.makeviral.ai/templates/reaching-out-cat-ai): A hand reaches up to the ceiling on "reaching out", then the cut, and the cat gets whisked out of the frame. Add one photo, and your cat, your dog or you sit in that spot, with the trend's sound. Your real pet never gets picked up.
+- [Dancing With Santa: Dance With Santa Claus From One Photo](https://www.makeviral.ai/templates/dance-with-santa-ai): Add one photo, and you dance side by side with Santa Claus on a red carpet between two lit Christmas trees: 15 seconds, the same steps, the same turns and the trend's own Santa song. Your pet can dance with Santa too, or bring your partner.
+- [You Rock My World Trend: Make the Couple Glow-Up Transition From 2 Photos](https://www.makeviral.ai/templates/you-rock-my-world-ai-trend): White T-shirts at home, a hand sweeps across the lens, and the two of you are dressed up somewhere else: on a garden terrace, in front of the iron tower in Paris, or there at night. Add a photo of each of you, or of two pets, and get the transition with the song.
+- [Tiger Transition: Your AI Glow-Up on "You Cannot Reason With a Tiger"](https://www.makeviral.ai/templates/tiger-transition-ai-trend): "You cannot reason with a tiger when your head is in its mouth!" Add one photo: you start plain, swipe a hand over the lens and come back in full glam hair and makeup, or in full tiger face paint, with the original sound.
 
 ## Make your own Kara Sevda AI video
 

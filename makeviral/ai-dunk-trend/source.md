@@ -3,7 +3,7 @@
 > The AI dunk trend turns one photo into a pro basketball moment: you, in your everyday clothes, dribble down the court of a packed night game, slam the ball home with one hand and scream at the camera.
 
 Canonical: https://www.makeviral.ai/templates/ai-dunk-trend
-Updated: 2026-10-21
+Updated: 2026-11-15
 Published: 2026-10-15
 Author: MakeViral Team (https://www.makeviral.ai/about)
 Publisher: MakeViral (https://www.makeviral.ai)
@@ -12,11 +12,11 @@ The **AI dunk** trend turns one photo into a pro basketball moment: you, in your
 
 Add one photo. AI puts you on the court in your own clothes: dunk in a packed night game and scream at the camera, jump over a green furry mascot, cross up a pickup game, or catch an alley-oop in slow motion. Add a friend's photo too, and you dunk right over them.
 
-Also called: Court dunk trend, Mascot dunk courtside, NBA court dunk, Dunking AI video, Basketball meme dunk trend, Pickup game crossover dunk, Walk-on alley-oop.
+Also called: Court dunk trend, Mascot dunk courtside, NBA court dunk, Dunking AI video, Basketball meme dunk trend, Pickup game crossover dunk, Walk-on alley-oop, Ankle breaker.
 
 **Make it now:** [Make this video](https://www.makeviral.ai/templates/ai-dunk-trend/create). 1 photo · 10 s · 9:16 with sound · 126 credits, charged once · ready in a few minutes · no prompt to write.
 
-Keyword: ai dunk. Also answers: basketball dunk meme, alley oop dunk, alley oop slam dunk, basketball meme dunk, ai basketball meme, ai dunking, ai dunk trend, ai dunking meme, ai basketball video, ai basketball trend, mascot dunk, ai slam dunk, ai dunk video, ai basketball video generator, ai dunk contest, ai basketball trend prompt, dunk over mascot, nba mascot dunk, mascot slam dunk, slow motion dunk, ai generated dunk, crossover dunk, slow motion slam dunk, alley oop dunk meme, dunk and fall, poster dunk, poster dunk ai, ai poster dunk, poster dunk meme, posterize dunk, posterized dunk, dunk on someone meme, dunking on someone meme template, ai dunk on someone, dunking on my friend, ai dunk on friend, poster dunk ai video, ai basketball duo, basketball duo ai video, po and tai lung basketball, ai dunk video generator, ai dunk generator, dunking ai, dunking ai template, how to dunk on ai, dunk on ai, ai dunking video, ai dunk meme, dunking ai meme, ai dunking app, ai dunk basketball, ai dunking basketball, slam dunk ai video, ai generated slam dunk, ai slam dunk meme, ai dunk prompt, slam dunk ai prompt, ai basketball trend tiktok, how to do the ai basketball trend, basketball trend ai video, ai trend basketball game, ai basketball tiktok, nba ai trend, ai nba video, nba dunk ai, ai dunk filter, dunk ai filter, ai dunk tutorial, dunking ai tutorial, dunk ai template, mascot dunk ai, dunk over mascot ai, jump over mascot dunk, dunk contest over mascot, pet slam dunk, cat dunk ai, dog basketball ai, grandpa dunk ai, ai alley oop, alley oop ai, ai alley oop dunk, alley oop dunk ai, ai crossover dunk, crossover dunk ai, pickup game ai, ai pickup basketball, ai dunk and fall, ai slow motion dunk, basketball dunk meme video, basketball dunk meme tiktok, basketball dunk meme template, ai basketball dunk, ai basketball dunk generator, basketball dunk ai video, ai dunk highlights, ai basketball video maker, ai basketball video prompt, ai video basketball player.
+Keyword: ai dunk. Also answers: basketball dunk meme, alley oop dunk, alley oop slam dunk, basketball meme dunk, ai basketball meme, ai dunking, ai dunk trend, ai dunking meme, ai basketball video, ai basketball trend, mascot dunk, ai slam dunk, ai dunk video, ai basketball video generator, ai dunk contest, ai basketball trend prompt, dunk over mascot, nba mascot dunk, mascot slam dunk, slow motion dunk, ai generated dunk, crossover dunk, slow motion slam dunk, alley oop dunk meme, dunk and fall, ankle breaker ai, broke his ankles ai, ankle breaker meme, broke his ankles meme, suit ankle breaker, ai ankle breaker, ankle breaker ai video, broke his ankles ai video, ankle breaker basketball, ankle breaker crossover, ankle breaker in a suit, broken ankles ai, poster dunk, poster dunk ai, ai poster dunk, poster dunk meme, posterize dunk, posterized dunk, dunk on someone meme, dunking on someone meme template, ai dunk on someone, dunking on my friend, ai dunk on friend, poster dunk ai video, ai basketball duo, basketball duo ai video, po and tai lung basketball, ai dunk video generator, ai dunk generator, dunking ai, dunking ai template, how to dunk on ai, dunk on ai, ai dunking video, ai dunk meme, dunking ai meme, ai dunking app, ai dunk basketball, ai dunking basketball, slam dunk ai video, ai generated slam dunk, ai slam dunk meme, ai dunk prompt, slam dunk ai prompt, ai basketball trend tiktok, how to do the ai basketball trend, basketball trend ai video, ai trend basketball game, ai basketball tiktok, nba ai trend, ai nba video, nba dunk ai, ai dunk filter, dunk ai filter, ai dunk tutorial, dunking ai tutorial, dunk ai template, mascot dunk ai, dunk over mascot ai, jump over mascot dunk, dunk contest over mascot, pet slam dunk, cat dunk ai, dog basketball ai, grandpa dunk ai, ai alley oop, alley oop ai, ai alley oop dunk, alley oop dunk ai, ai crossover dunk, crossover dunk ai, pickup game ai, ai pickup basketball, ai dunk and fall, ai slow motion dunk, basketball dunk meme video, basketball dunk meme tiktok, basketball dunk meme template, ai basketball dunk, ai basketball dunk generator, basketball dunk ai video, ai dunk highlights, ai basketball video maker, ai basketball video prompt, ai video basketball player.
 
 ## What is the AI Dunk trend, and where did it start?
 
@@ -202,6 +202,41 @@ Exactly two people at the rim; no other player jumps. No injury. Exactly one bal
 
 One-tap version of this variant: https://www.makeviral.ai/templates/ai-dunk-trend/create?variant=poster
 
+#### Variant: Ankle breaker
+
+Settings: 1 photo (you, face clear (full body is best)) · Seedance 2.5 · 12 s · 720p · 9:16 · with sound · 152 credits in one tap.
+
+1. The video prompt is filled in. Settings: Seedance 2.5, 12 s, 720p, 9:16, sound on. The video prompt:
+
+   ```text
+   An AI ankle breaker video made from [Image 1]: the person in [Image 1] breaks a defender's ankles with a crossover and walks off. A vertical 9:16 clip, photorealistic and sharp.
+
+THE BALL HANDLER is the person in [Image 1], in every frame: copy the exact face from [Image 1] (the face shape, eye color and eye shape, eyebrows, nose, mouth, skin tone, age, hair color, hair length and hairstyle, and any beard, moustache, glasses or freckles), the same build, and the clothes and shoes from [Image 1] (a suit if it shows a suit), never a jersey. An adult. The same face from the first frame to the last, also in the close-up and while laughing. Never morph. If [Image 1] shows an animal, THE BALL HANDLER is that animal upright on its hind legs, with its own face, fur and markings.
+
+WHO IS WHO: THE DEFENDER, a made-up adult streetballer in a plain grey T-shirt and black shorts, guards, falls and is only on screen in the first five seconds. In the wide shot THE BALL HANDLER starts on the LEFT and THE DEFENDER on the RIGHT.
+
+THE SET: an outdoor public basketball court at golden hour: a worn red-brown court with blue key areas and white lines, a white backboard and orange rim, a chain-link fence, tall green trees, and a crowd of young adult strangers in T-shirts along the fence. A real handheld phone video in natural colour. No written words anywhere.
+
+THE SHOTS: ONE continuous handheld take with no cuts.
+[00:00-00:01.50] WIDE, full length: THE BALL HANDLER dribbles an orange basketball low and fast; THE DEFENDER guards up close, arms up, hopping side to side.
+[00:01.50-00:02.35] A quick crossover between the legs and a drive right past; THE DEFENDER lunges the wrong way, the legs give out, and falls straight back onto their backside.
+[00:02.35-00:04.83] THE DEFENDER sits sprawled and stunned, then scrambles up; THE BALL HANDLER walks off, ball at the hip, glancing back once; the crowd grabs their heads and yells.
+[00:04.83-00:06.30] The camera whips round to THE BALL HANDLER passing the lens, in profile, grinning, a fist raised.
+[00:06.30-00:09.30] From behind: fans slap THE BALL HANDLER's shoulders and back; then THE BALL HANDLER turns back toward the camera.
+[00:09.30-00:10.70] CLOSE-UP, face to the camera, large and sharp: THE BALL HANDLER grins at the person filming.
+[00:10.70-00:12.00] MEDIUM, walking toward the camera: THE BALL HANDLER laughs at the cheering crowd, many filming on their phones.
+
+FACES: THE BALL HANDLER is locked in, mouth closed, until 00:04.83, then grinning and laughing to the end. THE DEFENDER is shocked, mouth open, on the floor.
+
+Audio: the ball, sneakers and the crowd's roar. No dialogue throughout the entire video. No background music.
+
+The fall is slapstick: THE DEFENDER always falls, no injury. The crowd are strangers, never copies of THE BALL HANDLER. Exactly one ball. No logos, no team names, no boards with words, no captions, no watermark. No famous athlete: every other player and fan is a generic adult. One head, two arms, two legs, five fingers on each hand; THE BALL HANDLER never merges with THE DEFENDER or the ball. No cut, no frozen frame.
+   ```
+
+2. Press Generate, then download the 9:16 MP4.
+
+One-tap version of this variant: https://www.makeviral.ai/templates/ai-dunk-trend/create?variant=ankles
+
 #### Variant: Pet dunk
 
 Settings: 1 photo (your pet, face and body clear) · Kling 3.0 · 10 s · 1080p · 9:16 · with sound · 56 credits in one tap.
@@ -227,7 +262,7 @@ One-tap version of this variant: https://www.makeviral.ai/templates/ai-dunk-tren
 
 ### Which photo works best?
 
-Upload **one photo**: you for Court dunk, Mascot dunk, Pickup game and Alley-oop, your pet for Pet dunk. For **Poster dunk**, upload **two photos**: you first (the dunker), then your friend (the defender).
+Upload **one photo**: you for Court dunk, Mascot dunk, Pickup game, Alley-oop and Ankle breaker, your pet for Pet dunk. For **Poster dunk**, upload **two photos**: you first (the dunker), then your friend (the defender).
 
 - **Full body or from the knees up, face clear and well lit.** The AI keeps your face, build, clothes and shoes, so wear what you want to dunk in. Heels, a suit or a T-shirt all work: the contrast is the joke.
 - **Look at the camera or a little to the side.** No sunglasses, and no cap or hair over the eyes.
@@ -252,15 +287,16 @@ Credits come with a plan; see [pricing](https://www.makeviral.ai/pricing). A fai
 | **Court dunk** | You dribble fast down the court of a packed night game in your own clothes, gather the ball, jump over a defender and slam it home with one hand. Then you turn to the camera and scream. | 10 s |
 | **Mascot dunk** | You stand courtside. A green furry mascot runs out and holds up the ball, you sprint, jump over the mascot, grab the ball in the air and dunk. You land laughing, then two fans courtside jump up and scream. | 12 s |
 | **Pickup game** | A packed college gym, a pickup run. You cross over one defender, spin past a second, drive and dunk with one hand, hang on the rim, then fall flat on your back and burst out laughing. It is the basketball dunk meme in one clip: the dunk goes in and the dunker goes down. | 12 s |
+| **Ankle breaker** | A streetball run on an outdoor court at golden hour, filmed on a phone. You cross up a defender, his legs give out and he falls on his backside, then you walk off grinning while the crowd loses it and fans slap your back. No dunk: the crossover is the highlight. | 12 s |
 | **Alley-oop** | You walk onto a dark arena court in your street clothes, as if you came down from the stands. A player lobs the ball high, and in slow motion you jump, catch it above the rim and throw it down, the alley-oop slam dunk of the trend clips. You land and walk off cool. | 10 s |
 | **Poster dunk** | Two photos: you and a friend. In a packed night game you drive to the basket, your friend jumps to block, and in slow motion you rise over them and throw down a one-handed poster dunk that shakes the backboard. Then you scream at the camera while your friend holds their head behind you. | 12 s |
 | **Pet dunk** | Your pet stands at the foul line in a red jersey, bounces the ball, runs to the hoop on its hind legs and dunks, then celebrates while the crowd goes wild. | 10 s |
 
-All six are vertical (9:16) with game sounds: sneakers, the bouncing ball, the rim and a roaring crowd; in the alley-oop the sound drops to a heartbeat during the slow motion dunk, and in the poster dunk to a low hum. There is no music, so you can add your own sound when you post. The arena, the players and the mascot are generic: no league, team or arena logos, no real players and no real team mascot.
+All seven are vertical (9:16) with game sounds: sneakers, the bouncing ball, the rim and a roaring crowd; in the alley-oop the sound drops to a heartbeat during the slow motion dunk, and in the poster dunk to a low hum. There is no music, so you can add your own sound when you post. The arena, the players and the mascot are generic: no league, team or arena logos, no real players and no real team mascot.
 
 ## How does MakeViral make the AI dunk video?
 
-**Court dunk, Mascot dunk, Pickup game and Alley-oop** are made straight from your photo with Seedance 2.5, ByteDance's newest video model, with no in-between picture, so your face stays close to the photo. Our prompt starts from the line the AI template sites use for this trend, "replace the person, copy the dunk, keep the scene", then writes out the arena, the moves second by second and the end shot, so your face is large and sharp when you scream, laugh or look into the camera. Think of it as an AI basketball video generator, or an AI basketball video maker for one shot: you add the photo, it does the rest, and in the AI video you are the basketball player.
+**Court dunk, Mascot dunk, Pickup game, Alley-oop and Ankle breaker** are made straight from your photo with Seedance 2.5, ByteDance's newest video model, with no in-between picture, so your face stays close to the photo. Our prompt starts from the line the AI template sites use for this trend, "replace the person, copy the dunk, keep the scene", then writes out the arena, the moves second by second and the end shot, so your face is large and sharp when you scream, laugh or look into the camera. Think of it as an AI basketball video generator, or an AI basketball video maker for one shot: you add the photo, it does the rest, and in the AI video you are the basketball player.
 
 **Poster dunk** works the same way from your two photos: top-quality AI video models put both of you into one clip with no in-between picture, so both faces stay close to the photos. The prompt says who dunks and who defends, keeps the two faces apart when you meet in the air, and ends on a close shot of both of you.
 
@@ -302,7 +338,7 @@ It is an AI basketball trend from October 2026: one photo becomes a video of you
 
 ### How do I make an AI dunking video?
 
-Press "Create your own", pick Court dunk, Mascot dunk, Pickup game, Alley-oop, Poster dunk or Pet dunk, add one photo (two for Poster dunk) and press Generate. MakeViral works as an AI dunk video generator: the AI dunking video lands in My videos, ready to post. You need no app, no template and no prompt.
+Press "Create your own", pick Court dunk, Mascot dunk, Pickup game, Alley-oop, Ankle breaker, Poster dunk or Pet dunk, add one photo (two for Poster dunk) and press Generate. MakeViral works as an AI dunk video generator: the AI dunking video lands in My videos, ready to post. You need no app, no template and no prompt.
 
 ### Is this the dunking AI template from TikTok?
 
@@ -311,6 +347,10 @@ It is the same idea with a new scene. The dunking AI template that spread on Tik
 ### Can I do the pickup game dunk where you fall?
 
 Yes. Pick Pickup game. You cross over two defenders in a packed college gym, dunk with one hand, then fall flat on your back and laugh: a crossover dunk and a dunk and fall in one 12-second clip. The fall is slapstick, so nobody gets hurt. Call it a pickup game AI clip or an AI crossover dunk: it is the dunk-and-fall joke of the trend, made from your photo.
+
+### Can I make the ankle breaker AI video, where the defender falls?
+
+Yes. Pick Ankle breaker and add one photo. On an outdoor court at golden hour you hit an ankle breaker crossover between the legs, the defender falls flat on his backside, and you walk off grinning while fans slap your back: the broke his ankles meme in one 12-second basketball clip. AI template sites added the scene as "Suit Ankle Breaker" on 29 October 2026 and "Broke His Ankles" on 14 November 2026. Your own clothes stay, so wear a suit in your photo for the suit ankle breaker look. The defender is a made-up streetballer, never a real player, and the fall is slapstick: no broken ankles, nobody gets hurt.
 
 ### How do I make the AI alley-oop dunk video?
 
@@ -366,7 +406,7 @@ Because it is clearly impossible: a woman in heels, an office worker in a T-shir
 
 ### Does it cost credits?
 
-Yes. The people versions cost more than the Pet dunk, which uses a picture first, and the 12-second versions (Mascot dunk, Pickup game and Poster dunk) cost a little more than the 10-second ones. The second photo in Poster dunk costs nothing extra. The create page shows the exact price on the Generate button before you spend anything, and if a run fails, the credits come back.
+Yes. The people versions cost more than the Pet dunk, which uses a picture first, and the 12-second versions (Mascot dunk, Pickup game, Ankle breaker and Poster dunk) cost a little more than the 10-second ones. The second photo in Poster dunk costs nothing extra. The create page shows the exact price on the Generate button before you spend anything, and if a run fails, the credits come back.
 
 ### Is my photo private?
 
@@ -384,12 +424,12 @@ Yes. MakeViral does not post your photo or the result anywhere or show them to o
 
 ## New AI video trends this week
 
-- [Never Let Her Pay: Pay for Dinner With a Sponge](https://www.makeviral.ai/templates/never-let-her-pay-ai-trend): "I got this." Add one photo, and you play the gentleman in the white dinner jacket who stops his date from paying, opens his pouch to show a kitchen sponge and gets walked to the kitchen to wash the dishes. With the clip's own sound.
-- [Snowman Dance AI: Do the Viral Sia Couple Dance From Two Photos](https://www.makeviral.ai/templates/snowman-dance-ai-trend): Hands behind your backs, a spin under the arm, a quick twirl around each other, and then one of you jumps on the other. Add a photo of you and one of your partner, or of two pets, and get the whole Snowman dance with the song.
-- [Self Hug Sketch: A Giant Pencil Drawing of You Hugs You](https://www.makeviral.ai/templates/self-hug-sketch-ai-trend): Add one photo. You lean on a grey wall while a huge black-and-white pencil sketch of you, drawn on the wall, wraps its arms around you, with "Embrace of my own self" written beside you.
-- [Need for Speed AI Trend: Your Car in the Movie Scene](https://www.makeviral.ai/templates/need-for-speed-ai-trend): Add one photo of your car or truck. AI puts it in the trend's movie-style street scene: it rolls through town, spins burnouts in thick tire smoke while people watch, and rolls away, with the trend's own sound.
-- [Tweenslop AI: Turn One Photo Into a Tweenslop Animation](https://www.makeviral.ai/templates/tweenslop-ai-trend): Your photo becomes a flat cut-out that zooms, squashes, spins and flies with a rainbow trail on every beat of a Brazilian funk track, with white, pink, purple and green flashes. You, your pet or any object.
-- [We Don't Talk Anymore Dance: Do the Viral Freestyle From One Photo](https://www.makeviral.ai/templates/we-dont-talk-anymore-dance-ai-trend): The sped-up "We Don't Talk Anymore" freestyle is all over TikTok. Add one photo, and you dance it on the trend's stage, barefoot on a driveway at night with your shoes in one hand, or your pet takes the stage.
+- [GTA 6 Loading Screen AI: Turn Your Photo Into a GTA Poster](https://www.makeviral.ai/templates/gta-6-loading-screen-ai): Add one photo and get your own GTA 6 loading screen: a painted crime-game poster of you in sunset colors, with palm trees, neon signs and a sports car. Same face, your own clothes, no logo.
+- [Jingle Bell Brazil Dance AI: Your Crew in the Viral Christmas Line Dance](https://www.makeviral.ai/templates/jingle-bell-brazil-dance-ai): Three dancers in Santa hats stand in a row under blue lights, then cross their arms, tap their chests and bounce in sync to a Brazilian funk Jingle Bell Rock. Add photos of you and two friends, one friend, just you, or your pet.
+- [Reaching Out Cat Trend: Put Your Pet in the Viral Clip](https://www.makeviral.ai/templates/reaching-out-cat-ai): A hand reaches up to the ceiling on "reaching out", then the cut, and the cat gets whisked out of the frame. Add one photo, and your cat, your dog or you sit in that spot, with the trend's sound. Your real pet never gets picked up.
+- [Dancing With Santa: Dance With Santa Claus From One Photo](https://www.makeviral.ai/templates/dance-with-santa-ai): Add one photo, and you dance side by side with Santa Claus on a red carpet between two lit Christmas trees: 15 seconds, the same steps, the same turns and the trend's own Santa song. Your pet can dance with Santa too, or bring your partner.
+- [You Rock My World Trend: Make the Couple Glow-Up Transition From 2 Photos](https://www.makeviral.ai/templates/you-rock-my-world-ai-trend): White T-shirts at home, a hand sweeps across the lens, and the two of you are dressed up somewhere else: on a garden terrace, in front of the iron tower in Paris, or there at night. Add a photo of each of you, or of two pets, and get the transition with the song.
+- [Tiger Transition: Your AI Glow-Up on "You Cannot Reason With a Tiger"](https://www.makeviral.ai/templates/tiger-transition-ai-trend): "You cannot reason with a tiger when your head is in its mouth!" Add one photo: you start plain, swipe a hand over the lens and come back in full glam hair and makeup, or in full tiger face paint, with the original sound.
 
 ## Make your own AI Dunk video
 

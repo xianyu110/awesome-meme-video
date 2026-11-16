@@ -126,7 +126,36 @@ Audio: sneakers, the crowd roaring, a muffled hum in the slow motion, a loud rim
 Exactly two people at the rim; no other player jumps. No injury. Exactly one ball. No league, team, college or arena logos, no team names, no sponsor boards with words, no scoreboard text, no captions, no watermark. No famous athlete: every other player and every fan is a generic adult. Anatomy rules: one head, two arms, two legs, five fingers on each hand; the dunker never merges with another player, the rim or the ball.
 ```
 
-### 6. 1. Open [AI Photo with this template](https://www.makeviral.ai/photo?template=ai-dunk-trend&variant=pet) and add your photo (your pet, face and body clear). The photo prompt is filled in (Pet)
+### 6. 1. The video prompt is filled in. Settings: Seedance 2.5, 12 s, 720p, 9:16, sound on. The video prompt
+
+*Kind: video_prompt*
+
+```text
+An AI ankle breaker video made from [Image 1]: the person in [Image 1] breaks a defender's ankles with a crossover and walks off. A vertical 9:16 clip, photorealistic and sharp.
+
+THE BALL HANDLER is the person in [Image 1], in every frame: copy the exact face from [Image 1] (the face shape, eye color and eye shape, eyebrows, nose, mouth, skin tone, age, hair color, hair length and hairstyle, and any beard, moustache, glasses or freckles), the same build, and the clothes and shoes from [Image 1] (a suit if it shows a suit), never a jersey. An adult. The same face from the first frame to the last, also in the close-up and while laughing. Never morph. If [Image 1] shows an animal, THE BALL HANDLER is that animal upright on its hind legs, with its own face, fur and markings.
+
+WHO IS WHO: THE DEFENDER, a made-up adult streetballer in a plain grey T-shirt and black shorts, guards, falls and is only on screen in the first five seconds. In the wide shot THE BALL HANDLER starts on the LEFT and THE DEFENDER on the RIGHT.
+
+THE SET: an outdoor public basketball court at golden hour: a worn red-brown court with blue key areas and white lines, a white backboard and orange rim, a chain-link fence, tall green trees, and a crowd of young adult strangers in T-shirts along the fence. A real handheld phone video in natural colour. No written words anywhere.
+
+THE SHOTS: ONE continuous handheld take with no cuts.
+[00:00-00:01.50] WIDE, full length: THE BALL HANDLER dribbles an orange basketball low and fast; THE DEFENDER guards up close, arms up, hopping side to side.
+[00:01.50-00:02.35] A quick crossover between the legs and a drive right past; THE DEFENDER lunges the wrong way, the legs give out, and falls straight back onto their backside.
+[00:02.35-00:04.83] THE DEFENDER sits sprawled and stunned, then scrambles up; THE BALL HANDLER walks off, ball at the hip, glancing back once; the crowd grabs their heads and yells.
+[00:04.83-00:06.30] The camera whips round to THE BALL HANDLER passing the lens, in profile, grinning, a fist raised.
+[00:06.30-00:09.30] From behind: fans slap THE BALL HANDLER's shoulders and back; then THE BALL HANDLER turns back toward the camera.
+[00:09.30-00:10.70] CLOSE-UP, face to the camera, large and sharp: THE BALL HANDLER grins at the person filming.
+[00:10.70-00:12.00] MEDIUM, walking toward the camera: THE BALL HANDLER laughs at the cheering crowd, many filming on their phones.
+
+FACES: THE BALL HANDLER is locked in, mouth closed, until 00:04.83, then grinning and laughing to the end. THE DEFENDER is shocked, mouth open, on the floor.
+
+Audio: the ball, sneakers and the crowd's roar. No dialogue throughout the entire video. No background music.
+
+The fall is slapstick: THE DEFENDER always falls, no injury. The crowd are strangers, never copies of THE BALL HANDLER. Exactly one ball. No logos, no team names, no boards with words, no captions, no watermark. No famous athlete: every other player and fan is a generic adult. One head, two arms, two legs, five fingers on each hand; THE BALL HANDLER never merges with THE DEFENDER or the ball. No cut, no frozen frame.
+```
+
+### 7. 1. Open [AI Photo with this template](https://www.makeviral.ai/photo?template=ai-dunk-trend&variant=pet) and add your photo (your pet, face and body clear). The photo prompt is filled in (Pet)
 
 *Kind: photo_prompt*
 
@@ -136,7 +165,7 @@ Use the input pet image as the main subject and strictly preserve the pet's orig
 It holds the ball in its front paws: animal paws, never human hands. Exactly one animal, no person in the front. Vertical 9:16. No logos, no team names, no text on the court or the boards, no watermark.
 ```
 
-### 7. 3. Press the film button on the still to open AI Video with the still as the first frame. Settings: Kling 3.0, 10 s, 1080p, 9:16, sound on. The video prompt
+### 8. 3. Press the film button on the still to open AI Video with the still as the first frame. Settings: Kling 3.0, 10 s, 1080p, 9:16, sound on. The video prompt
 
 *Kind: video_prompt*
 

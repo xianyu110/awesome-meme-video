@@ -1,0 +1,125 @@
+# AI Tidal Wave Video: The Giant Wave Hits You and Your Friends
+
+- Source: [makeviral](https://www.makeviral.ai/templates/ai-tidal-wave-video)
+- Slug: `ai-tidal-wave-video`
+
+The AI tidal wave video puts you into the viral Istanbul storm clip: you pose with friends at a seafront railing at night, a huge wave crashes over the railing and knocks everyone flat, and you wade out of the foam laughing.
+
+## Demo videos (CDN)
+
+- https://media.makeviral.ai/templates/ai-tidal-wave-video/original-main-v2.mp4
+
+## Posters
+
+- https://media.makeviral.ai/templates/ai-tidal-wave-video/original-main-v1.jpg
+
+## Prompts
+
+### 1. 1. The video prompt is filled in. Settings: Seedance 2.5, 13 s, 720p, 9:16, sound off. The video prompt
+
+*Kind: video_prompt*
+
+```text
+Recreate the reference video [Video 1] shot for shot: one continuous handheld phone shot at night on a stormy seafront promenade: wet tiled pavement, a low metal railing with pale posts, the dark rough sea behind it, a small lit white tower on a tiny island in the water and the lights of a city on the far shore under a low cloudy sky, the same framing, camera shake, timing, wave, water and moves. The ONLY change: [Image 1] replaces the man on the LEFT at the start, the one who later gets up first and walks past the camera laughing. The man in the middle and the man on the right stay exactly as in [Video 1].
+
+The man on the left = the person in [Image 1], in EVERY frame: copy the exact face from [Image 1]: face shape, eye color and eye shape, eyebrows, nose, mouth, skin tone, age, hair color, hair length and hairstyle, and any beard, moustache, glasses or freckles exactly as in the photo. They wear the clothes from [Image 1], soaked by the wave. No moustache, no beard and no dark quilted or leather jacket unless [Image 1] shows them.
+
+The same real person in every frame, so their friends instantly recognize them, also when soaked, in the spray, on the ground and when laughing with the mouth wide open. Never morph, never drift back to the original man's face. Do not put the face from [Image 1] on the other two men.
+
+The action, second by second, exactly as in [Video 1]:
+0-1.3 s: the men stand side by side with their backs to the railing and pose calmly for the camera.
+1.3-2.0 s: a giant wave rises behind them, far above their heads.
+2.0-3.3 s: the wave crashes over the railing onto them; white water fills the frame and the camera shakes.
+3.3-5.0 s: they are knocked flat in the foam on the promenade and push themselves up.
+5.0-6.8 s: they get up and wade through knee-deep foam toward the camera, soaked, laughing.
+6.8-8.2 s: a second wave bursts over the railing behind them.
+8.2-10.3 s: they walk out of the water toward the camera and past it, laughing, the faces big and sharp; a few onlookers' heads show at the bottom edge.
+10.3-13.4 s: the empty, flooded promenade while more waves break over the railing.
+
+The wave, the foam and the spray look exactly as heavy and real as in [Video 1]. Nobody is hurt: they get up laughing.
+
+Anatomy rules: one head per person, on that person's own shoulders, two arms and two legs. A face never appears in the water, on hands or on clothes. No extra people beyond the onlookers at the bottom edge. No text, no logos, no watermark.
+```
+
+### 2. 1. The video prompt is filled in. Settings: Seedance 2.5, 13 s, 720p, 9:16, sound off. The video prompt
+
+*Kind: video_prompt*
+
+```text
+Recreate the reference video [Video 1] shot for shot: one continuous handheld phone shot at night on a stormy seafront promenade: wet tiled pavement, a low metal railing with pale posts, the dark rough sea behind it, a small lit white tower on a tiny island in the water and the lights of a city on the far shore under a low cloudy sky, the same framing, camera shake, timing, wave, water and moves. The ONLY change: [Image 1] replaces the man on the LEFT at the start (the one who later gets up first and walks past the camera), and [Image 2] replaces the man in the MIDDLE (the second one who gets up and wades out). The man on the right stays exactly as in [Video 1].
+
+The man on the left = the person in [Image 1], in EVERY frame: copy the exact face from [Image 1]: face shape, eye color and eye shape, eyebrows, nose, mouth, skin tone, age, hair color, hair length and hairstyle, and any beard, moustache, glasses or freckles exactly as in the photo. They wear the clothes from [Image 1], soaked by the wave. No moustache, no beard and no dark quilted or leather jacket unless [Image 1] shows them.
+
+The man in the middle = the person in [Image 2], in EVERY frame: copy the exact face from [Image 2] in the same way, with the clothes from [Image 2], soaked. No moustache, no beard and no dark jacket unless [Image 2] shows them.
+
+The same two real people in every frame, so their friends instantly recognize them, also when soaked, in the spray, on the ground and when laughing. Never morph, never drift back to the original men's faces. Do not mix the two faces: [Image 1] is only the man on the left, [Image 2] is only the man in the middle.
+
+The action, second by second, exactly as in [Video 1]:
+0-1.3 s: the men stand side by side with their backs to the railing and pose calmly for the camera.
+1.3-2.0 s: a giant wave rises behind them, far above their heads.
+2.0-3.3 s: the wave crashes over the railing onto them; white water fills the frame and the camera shakes.
+3.3-5.0 s: they are knocked flat in the foam on the promenade and push themselves up.
+5.0-6.8 s: they get up and wade through knee-deep foam toward the camera, soaked, laughing.
+6.8-8.2 s: a second wave bursts over the railing behind them.
+8.2-10.3 s: they walk out of the water toward the camera and past it, laughing, the faces big and sharp; a few onlookers' heads show at the bottom edge.
+10.3-13.4 s: the empty, flooded promenade while more waves break over the railing.
+
+The wave, the foam and the spray look exactly as heavy and real as in [Video 1]. Nobody is hurt: they get up laughing.
+
+Anatomy rules: one head per person, on that person's own shoulders, two arms and two legs. A face never appears in the water, on hands or on clothes. No extra people beyond the onlookers at the bottom edge. No text, no logos, no watermark.
+```
+
+### 3. 1. The video prompt is filled in. Settings: Seedance 2.5, 13 s, 720p, 9:16, sound off. The video prompt
+
+*Kind: video_prompt*
+
+```text
+Recreate the reference video [Video 1] shot for shot: one continuous handheld phone shot at night on a stormy seafront promenade: wet tiled pavement, a low metal railing with pale posts, the dark rough sea behind it, a small lit white tower on a tiny island in the water and the lights of a city on the far shore under a low cloudy sky, the same framing, camera shake, timing, wave, water and moves. The ONLY change: [Image 1] replaces the man on the LEFT (who later gets up first and walks past the camera), [Image 2] replaces the man in the MIDDLE (the second one who wades out) and [Image 3] replaces the man on the RIGHT. All three change: no one from the video stays, also in the wide shot, in the spray and when only the back of a head shows.
+
+The man on the left = the person in [Image 1], in EVERY frame: copy the exact face from [Image 1]: face shape, eye color and eye shape, eyebrows, nose, mouth, skin tone, age, hair color, hair length and hairstyle, and any beard, moustache, glasses or freckles exactly as in the photo. They wear the clothes from [Image 1], soaked by the wave. No moustache, no beard and no dark quilted or leather jacket unless [Image 1] shows them.
+
+The man in the middle = the person in [Image 2], in EVERY frame: copy the exact face from [Image 2] in the same way, with the clothes from [Image 2], soaked. No moustache, no beard and no dark jacket unless [Image 2] shows them.
+
+The man on the right = the person in [Image 3], in EVERY frame: copy the exact face from [Image 3] in the same way, with the clothes from [Image 3], soaked. No moustache, no beard and no dark jacket unless [Image 3] shows them.
+
+The same three real people in every frame, so their friends instantly recognize them. Never morph, never drift back to the original men's faces, never mix the faces.
+
+The action, second by second, exactly as in [Video 1]:
+0-1.3 s: the men stand side by side with their backs to the railing and pose calmly for the camera.
+1.3-2.0 s: a giant wave rises behind them, far above their heads.
+2.0-3.3 s: the wave crashes over the railing onto them; white water fills the frame and the camera shakes.
+3.3-5.0 s: they are knocked flat in the foam on the promenade and push themselves up.
+5.0-6.8 s: they get up and wade through knee-deep foam toward the camera, soaked, laughing.
+6.8-8.2 s: a second wave bursts over the railing behind them.
+8.2-10.3 s: they walk out of the water toward the camera and past it, laughing, the faces big and sharp; a few onlookers' heads show at the bottom edge.
+10.3-13.4 s: the empty, flooded promenade while more waves break over the railing.
+
+The wave, the foam and the spray look exactly as heavy and real as in [Video 1]. Nobody is hurt: they get up laughing.
+
+Anatomy rules: one head per person, on that person's own shoulders, two arms and two legs. A face never appears in the water, on hands or on clothes. No extra people beyond the onlookers at the bottom edge. No text, no logos, no watermark.
+```
+
+### 4. 1. The video prompt is filled in. Settings: Seedance 2.5, 13 s, 720p, 9:16, sound off. The video prompt (Pet)
+
+*Kind: video_prompt*
+
+```text
+Recreate the reference video [Video 1] shot for shot: one continuous handheld phone shot at night on a stormy seafront promenade: wet tiled pavement, a low metal railing with pale posts, the dark rough sea behind it, a small lit white tower on a tiny island in the water and the lights of a city on the far shore under a low cloudy sky, the same framing, camera shake, timing, wave, water and moves. The ONLY change: the pet in [Image 1] takes the place of the man on the LEFT at the start. It stands on its own four legs by the railing next to the two other men, who stay exactly as in [Video 1].
+
+The pet = the pet in [Image 1], in EVERY frame: the same species and breed, face, eyes, ears, muzzle, fur colors, fur length and markings as in [Image 1], with the natural body volume and proportions of that animal: never flattened, squashed, stretched or merged with anything, so its owner instantly recognizes it, also when its fur is soaked. If [Image 1] shows a person, that person takes the man's place with their own face.
+
+The action, second by second, exactly as in [Video 1]:
+0-1.3 s: the pet sits or stands calmly by the railing between the posing men and looks at the camera.
+1.3-2.0 s: a giant wave rises behind them, far above their heads.
+2.0-3.3 s: the wave crashes over the railing onto them; white water fills the frame and the camera shakes.
+3.3-5.0 s: the pet is tumbled over in the foam and scrambles back onto its feet; the man from the middle pushes himself up.
+5.0-6.8 s: the pet runs through the foam toward the camera, soaked, next to the man from the middle.
+6.8-8.2 s: a second wave bursts over the railing behind them.
+8.2-10.3 s: the pet trots out of the water up to the camera and past it, dripping, and shakes the water off its fur.
+10.3-13.4 s: the empty, flooded promenade while more waves break over the railing.
+
+The wave, the foam and the spray look exactly as heavy and real as in [Video 1]. Nobody is hurt.
+
+Anatomy rules: the pet stays a real animal: one head, four legs, paws, one tail if the animal has one, no human hands, no human face, never standing like a person. No text, no logos, no watermark.
+```
+

@@ -1,0 +1,55 @@
+{
+  "source": "makeviral",
+  "source_site": "https://www.makeviral.ai",
+  "slug": "dance-with-santa-ai",
+  "name": "Dancing With Santa: Dance With Santa Claus From One Photo",
+  "url": "https://www.makeviral.ai/templates/dance-with-santa-ai",
+  "markdown_url": "https://www.makeviral.ai/templates/dance-with-santa-ai.md",
+  "blurb": "Dancing with Santa is the Christmas AI trend of November 2026: from one photo, an AI video shows you and Santa Claus dancing side by side in a cozy Christmas studio, with the same bouncy steps and turns, to a Spanish Santa song.",
+  "updated": "2026-11-15",
+  "published": "2026-11-15",
+  "credits": 228,
+  "demo_videos": [
+    "https://media.makeviral.ai/templates/dance-with-santa-ai/original-main-v2.mp4"
+  ],
+  "posters": [
+    "https://media.makeviral.ai/templates/dance-with-santa-ai/original-main-v1.jpg"
+  ],
+  "prompts": [
+    {
+      "label": "1. The video prompt is filled in. Settings: Seedance 2.5, 15 s, 720p, 9:16, sound off. The video prompt",
+      "variant": null,
+      "kind": "video_prompt",
+      "text": "Edit [Video 1]: recreate [Video 1] shot for shot: a cozy Christmas studio: a dark wooden plank wall with warm string lights and two lanterns, two tall lit Christmas trees with red bows and gold baubles, an arched window with a starry night, wrapped gift boxes and a red carpet on a wooden floor, the same fixed frontal full-body shot, timing and dance. The ONLY change: the dancer on the LEFT is now the person in [Image 1].\n\nUse [Video 1] as the sole reference for video structure, camera movements, character actions, dance choreography, interactions, environment, and overall timeline. Use [Image 1] as the exclusive identity, appearance, body-proportion, and clothing reference for the dancer on the LEFT.\n\n1. Targeted Character Replacement: replace ONLY the dancer on the LEFT with the person from [Image 1], in EVERY frame: copy the exact face from [Image 1]: face shape, eye color and eye shape, eyebrows, nose, mouth, skin tone, age, hair color, hair length and hairstyle, and any beard, moustache, glasses or freckles exactly as in the photo. The same real person from the first second to the last, so their friends instantly recognize them. Never morph, never drift back to the original dancer's face.\n\n2. Preserve the Santa Character Completely: the Santa Claus on the RIGHT stays completely unchanged: his face, white beard, glasses, red suit, hat, boots, white gloves, dance moves and position, from the first frame to the last. Do not blend the person with Santa.\n\n3. Body Shape Lock: the physique comes entirely from [Image 1]. Transfer ONLY the original dancer's moves and rhythm.\n\n4. Clothing: the dancer wears the exact clothing and footwear from [Image 1]; if it shows only the upper body, invent the rest to match. NO white sleeveless top and NO striped wide-leg trousers unless [Image 1] shows them. No Santa costume unless [Image 1] shows one.\n\n5. Choreography, matching [Video 1] second by second, the same direction, size, speed and timing:\n00:00-00:01: they step into place side by side, Santa waves at the camera.\n00:01-00:06: bouncy side steps in sync, hip sways, a small kick, a hand to the cheek, both smiling.\n00:06-00:07: both turn their backs to the camera, then turn back.\n00:07-00:10: side steps, Santa raises a hand, the dancer laughs.\n00:10-00:12: backs to the camera again with the arms up, then turn back.\n00:12-00:15: last steps facing the camera, a happy end pose.\n\n6. Positions: the person always on the LEFT, Santa always on the RIGHT, never exchanged.\n\n7. Keep the studio, the lights and the camera as in [Video 1]. Keep everything else the same.\n\nIf [Image 1] shows an animal, the dancer is that animal standing upright on its hind legs, with its own face, fur and markings and the natural body volume and proportions of that animal.\n\nAnatomy rules: one head only, on the dancer's shoulders. Two arms, five fingers on each hand. Exactly two characters.\n\nNo dialogue throughout the entire video. No background music. No text, no captions, no logos, no watermark."
+    },
+    {
+      "label": "1. The video prompt is filled in. Settings: Seedance 2.5, 15 s, 720p, 9:16, sound off. The video prompt",
+      "variant": null,
+      "kind": "video_prompt",
+      "text": "A real, live-action 15-second vertical video, one continuous take from a fixed camera in front: a cozy Christmas studio: a dark wooden plank wall with warm string lights and two lanterns, two tall lit Christmas trees with red bows and gold baubles, an arched window with a starry night, wrapped gift boxes and a red carpet on a wooden floor. Three characters dance side by side in one row, full body from head to shoes, all three facing the camera.\n\nThe dancer on the LEFT is the one in [Image 1], in every frame: copy the exact face from [Image 1] (face shape, eye color and eye shape, eyebrows, nose, mouth, skin tone, age, hair color, hair length and hairstyle, and any beard, moustache, glasses or freckles exactly as in the photo), and the clothes from [Image 1].\nThe dancer on the RIGHT is the one in [Image 2], in every frame: copy the exact face from [Image 2] (face shape, eye color and eye shape, eyebrows, nose, mouth, skin tone, age, hair color, hair length and hairstyle, and any beard, moustache, glasses or freckles exactly as in the photo), and the clothes from [Image 2].\nIf an image shows an animal, that dancer is that animal standing upright, with its own face, fur and markings, not a person. Never blend their faces. Each face stays the same from the first frame to the last, so their friends recognize them at once.\n\nIn the MIDDLE: a jolly Santa Claus made up for this video, a big man with a full white beard, round glasses, a red velvet suit and hat with white fur trim, a black belt with a gold buckle, white gloves and black boots. He is a character, never a third photo.\n\nThe dance, all three in sync, happy and a little silly:\n00:00-00:02: they step into place in the row, Santa waves a white-gloved hand at the camera.\n00:02-00:06: bouncy side steps, hip sways, a small kick, a hand to the cheek, Santa's belly bounce, all smiling.\n00:06-00:08: all three turn around, backs to the camera, then turn back.\n00:08-00:11: side steps, Santa raises a hand, the two dancers pat their chests and laugh.\n00:11-00:13: they turn their backs to the camera again with the arms up, then turn back.\n00:13-00:15: last steps facing the camera, big smiles, a happy end pose, the couple leans in toward Santa.\n\nWarm, cozy light from the string lights and the trees. Anatomy rules: one head per body, two arms and two hands each, five fingers on each hand, exactly three characters.\n\nNo dialogue throughout the entire video. No background music. No text, no captions, no logos, no watermark, no extra people."
+    },
+    {
+      "label": "1. The video prompt is filled in. Settings: Seedance 2.5, 15 s, 720p, 9:16, sound off. The video prompt",
+      "variant": "Pet",
+      "kind": "video_prompt",
+      "text": "Edit [Video 1]: recreate [Video 1] shot for shot: a cozy Christmas studio: a dark wooden plank wall with warm string lights and two lanterns, two tall lit Christmas trees with red bows and gold baubles, an arched window with a starry night, wrapped gift boxes and a red carpet on a wooden floor, the same fixed frontal full-body shot, timing and dance. The ONLY change: the dancer on the LEFT is now the pet in [Image 1].\n\nUse [Video 1] as the sole reference for video structure, camera movements, character actions, dance choreography, interactions, environment, and overall timeline. Use [Image 1] as the exclusive identity reference for the dancer on the LEFT.\n\n1. Targeted Character Replacement (Highest Priority): replace ONLY the dancer on the LEFT with the pet from [Image 1], in EVERY frame: the same species and breed, face, eyes, ears, muzzle, fur colors, fur length and markings as in [Image 1], with the natural body volume and proportions of that animal: never flattened, squashed, stretched or merged with anything. Whether [Image 1] shows a dog, a cat or another animal, it stays that animal, standing upright on its hind legs where the dancer stood, at about the height of Santa's belt. The same pet from the first second to the last, so its owner instantly recognizes it. No human body, no human face, no clothes unless [Image 1] shows them.\n\n2. Preserve the Santa Character Completely: the Santa Claus on the RIGHT stays completely unchanged: his face, white beard, glasses, red Santa suit, hat, belt, boots, white gloves, body, dance movements and position, visible from the first frame to the last. Do not blend the pet with Santa.\n\n3. Choreography: the pet copies the dancer's moves with its own body: bounces, sways, paw waves, the turns. Matching [Video 1] second by second:\n00:00-00:01: they step into place side by side, Santa waves at the camera.\n00:01-00:06: bouncy side steps in sync, hip sways, a small kick, a hand to the cheek, both smiling.\n00:06-00:07: both turn their backs to the camera, then turn back.\n00:07-00:10: side steps, Santa raises a hand, the dancer laughs.\n00:10-00:12: backs to the camera again with the arms up, then turn back.\n00:12-00:15: last steps facing the camera, a happy end pose.\n\n4. Positions: the pet always on the LEFT, Santa always on the RIGHT, never exchanged.\n\n5. Keep the studio, the lights and the camera as in [Video 1]. Keep everything else the same.\n\nAnatomy rules: one head only, one muzzle. Animal paws, never human hands. No extra legs, no extra animals. Exactly two characters, the pet and Santa.\n\nNo dialogue throughout the entire video. No background music. No text, no captions, no logos, no watermark, no extra people."
+    }
+  ],
+  "variant_headings": [
+    "What the Dance With Santa video looks like",
+    "How to make the Dance With Santa video on MakeViral",
+    "Which photo works best?",
+    "What happens in the dancing with Santa video, second by second?",
+    "You, Couple with Santa or Pet: which one should you make?",
+    "How do I make the dance with Santa AI video with my photo?",
+    "What song is in the dancing with Santa video?",
+    "How long is the dance with Santa video and what format is it?",
+    "Does the dancing with Santa video cost credits?",
+    "Is the video real?",
+    "Other AI video templates and tools",
+    "New AI video trends this week",
+    "Make your own Dance With Santa video"
+  ],
+  "prompt_count": 3,
+  "scraped_at": "2026-11-16"
+}

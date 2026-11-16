@@ -1,0 +1,54 @@
+{
+  "source": "makeviral",
+  "slug": "gta-6-loading-screen-ai",
+  "prompts": [
+    {
+      "label": null,
+      "variant": null,
+      "kind": "prompt",
+      "text": "Use the uploaded image as the base. Create a realistic portrait of this picture in the art style of a classic open-world crime video game loading screen and a modern sunny coastal crime game atmosphere. The person is wearing the same clothes as the photo attached. They have confident expression. Beach and cityscape, palm trees, super cars and vintage cinema signs are in the background. Include soft sunset lighting and cinematic atmosphere. clean outlines, painted loading-screen illustration aesthetic of a big-budget crime game. Vertical 9:16 poster: the person from the knees up, big and sharp in the front, facing the camera or three-quarters to it, with the scene behind them. Hand-painted digital illustration with smooth shading and crisp edges, saturated pink, orange and teal colors. Exactly one person. No text, no letters, no logos, no game title, no watermark, no frame or border."
+    },
+    {
+      "label": null,
+      "variant": null,
+      "kind": "prompt",
+      "text": "Use the uploaded image as the base. Create a realistic portrait of this picture in the art style of a classic open-world crime video game loading screen and a modern sunny coastal crime game atmosphere. The person is wearing the same clothes as the photo attached. They have a serious look, arms crossed. A neon-lit downtown street at night is in the background, wet pavement reflecting the signs, car headlights in the background. Include dramatic neon rim light and cinematic atmosphere. clean outlines, painted loading-screen illustration aesthetic of a big-budget crime game. Vertical 9:16 poster: the person from the knees up, big and sharp in the front, facing the camera or three-quarters to it, with the scene behind them. Hand-painted digital illustration with smooth shading and crisp edges, saturated pink, orange and teal colors. Exactly one person. No text, no letters, no logos, no game title, no watermark, no frame or border."
+    },
+    {
+      "label": null,
+      "variant": null,
+      "kind": "prompt",
+      "text": "Use the uploaded image as the base. Create a realistic portrait of this picture in the art style of a classic open-world crime video game loading screen and a modern sunny coastal crime game atmosphere. The person is wearing the same clothes as the photo attached. They have a confident grin, hands on the steering wheel of a convertible, sitting in the driver's seat with the top down. A coastal highway at dusk is in the background, ocean cliffs and palm trees. Include warm dusk lighting and cinematic atmosphere. clean outlines, painted loading-screen illustration aesthetic of a big-budget crime game. Vertical 9:16 poster: the person from the waist up in the open car, big and sharp in the front, the face turned to the camera or three-quarters to it, with the road and the sea behind them. Hand-painted digital illustration with smooth shading and crisp edges, saturated pink, orange and teal colors. Exactly one person. No text, no letters, no logos, no game title, no watermark, no frame or border."
+    },
+    {
+      "label": null,
+      "variant": null,
+      "kind": "prompt",
+      "text": "Use the uploaded image as the base. Transform this photo into a fan-made crime-game loading-screen portrait. Bold thick black outlines, flat cel shading, saturated colors. Keep my face recognizable, same person, confident smirk, sunglasses pushed up on my head. Coastal city at sunset behind me, palm trees, neon signs, art-deco hotel fronts. Dramatic rim light, comic book style, no text, no logos. Keep my own clothes from the photo. Vertical 9:16 poster: from the knees up, big in the front, facing the camera or three-quarters to it. Exactly one person. No letters, no game title, no watermark, no frame or border."
+    },
+    {
+      "label": null,
+      "variant": null,
+      "kind": "prompt",
+      "text": "Use the two uploaded images as the base. The person in the first image is on the LEFT. The person in the second image is on the RIGHT. Do not blend the two people and do not swap their faces or their clothes. Create a realistic portrait of these two pictures in the art style of a classic open-world crime video game loading screen and a modern sunny coastal crime game atmosphere. Each person is wearing the same clothes as in their own photo. They have confident expressions and lean side by side against a shiny sports car. Beach and cityscape, palm trees, super cars and vintage cinema signs are in the background. Include soft sunset lighting and cinematic atmosphere. clean outlines, painted loading-screen illustration aesthetic of a big-budget crime game. Vertical 9:16 poster: both people from the knees up, big and sharp in the front, both faces turned to the camera or three-quarters to it, with the scene behind them. Hand-painted digital illustration with smooth shading and crisp edges, saturated pink, orange and teal colors. Exactly two people. No text, no letters, no logos, no game title, no watermark, no frame or border."
+    },
+    {
+      "label": null,
+      "variant": "Pet",
+      "kind": "prompt",
+      "text": "Use the uploaded image as the base. Create a realistic portrait of this pet in the art style of a classic open-world crime video game loading screen and a modern sunny coastal crime game atmosphere. The pet keeps its own face, eyes, ears, fur colors, markings and body shape exactly as in the photo, as a real animal on four legs. It has a confident expression and sits proudly on the hood of a shiny sports car. Beach and cityscape, palm trees, super cars and vintage cinema signs are in the background. Include soft sunset lighting and cinematic atmosphere. clean outlines, painted loading-screen illustration aesthetic of a big-budget crime game. Vertical 9:16 poster: the whole pet big and sharp in the front, its face to the camera, with the car and the scene behind it. Hand-painted digital illustration with smooth shading and crisp edges, saturated pink, orange and teal colors. Exactly one animal and no people. No text, no letters, no logos, no game title, no watermark, no frame or border."
+    },
+    {
+      "label": null,
+      "variant": null,
+      "kind": "prompt",
+      "text": "Use the uploaded image as the base. Create a realistic portrait of this picture in the art style of a classic open-world crime video game loading screen and a modern sunny coastal crime game atmosphere. The person is wearing the same clothes as the photo attached. They have confident expression. Beach and cityscape, palm trees, super cars and vintage cinema signs are in the background. Include soft sunset lighting and cinematic atmosphere. clean outlines, painted loading-screen illustration aesthetic of a big-budget crime game. Vertical 9:16 poster: the person from the knees up, big and sharp in the front, facing the camera or three-quarters to it, with the scene behind them. Hand-painted digital illustration with smooth shading and crisp edges, saturated pink, orange and teal colors. Exactly one person. No text, no letters, no logos, no game title, no watermark, no frame or border."
+    },
+    {
+      "label": "3. Press the film button on the still to open AI Video with the still as the first frame. Settings: Kling 3.0, 8 s, 1080p, 9:16, sound off. The video prompt",
+      "variant": null,
+      "kind": "video_prompt",
+      "text": "A living video game loading screen, one continuous shot. Keep the person's face, hair, clothes and pose and the hand-painted poster style exactly as in the image: it stays a painted illustration the whole time and never turns into a real photo. The palm trees sway gently in the warm wind, the neon signs flicker softly, the sunset clouds drift slowly and the light shimmers on the cars. The person breathes, shifts their weight a little, slowly turns their head to the camera and gives a small, confident smile. The camera pushes in very slowly. No cuts. No text, no logos, no game title, no extra people, no morphing."
+    }
+  ]
+}

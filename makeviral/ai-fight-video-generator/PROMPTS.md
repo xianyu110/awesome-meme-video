@@ -77,3 +77,67 @@ Audio: a bouncy, playful cartoon music bed with a light drum beat, soft whooshes
 Exactly two characters in every frame, no referee, no crowd. One head each, its own limbs as in its image. Never swap or blend the two fighters. No text, no logos, no watermark.
 ```
 
+### 4. 1. The video prompt is filled in. Settings: Seedance 2.5, 14 s, 720p, 9:16, sound on. The video prompt
+
+*Kind: video_prompt*
+
+```text
+Make the people from [Image 1] and [Image 2] fight: a funny staged slapstick fight in a backyard, filmed like a real phone video.
+FIGHTER 1 (the winner, on the LEFT) = the person in [Image 1], in every frame: copy the exact face from [Image 1] (the face shape, eye color and eye shape, eyebrows, nose, mouth, skin tone, hair color, hair length and hairstyle, and any beard, moustache, glasses or freckles) and wear the clothes of [Image 1]. FIGHTER 2 (on the RIGHT) = the person in [Image 2], in every frame, with the same exact face list from [Image 2] and the clothes of [Image 2]. Each keeps the gender, age and body of their own photo. Never blend or swap the two faces: each face stays the same from the first frame to the last, also in the clinch and the fall, so their friends recognize them at once.
+Both fighters are adults. If an image shows a child or a baby, do not copy that face: make an adult stranger with only the same hair color and skin tone. If an image shows an animal, that fighter is that animal standing upright on its hind legs, with its own face, fur and markings, not a person.
+
+Style: photoreal, like a real handheld phone video: natural light, real skin, hair and fabric. Not a cartoon.
+Setting: a sunny suburban backyard: a concrete patio, a dry lawn, a small pool, a wooden fence and stucco houses behind, a plain beige stucco house wall at the side. Bright midday sun. Add small puffs of dust when FIGHTER 2 lands.
+
+The movements, in two shots, 14 seconds:
+Shot 1 [0-7.2 s]: a wide handheld shot at chest height on the patio, the pool behind them. FIGHTER 1 on the LEFT and FIGHTER 2 on the RIGHT square up in wild karate stances. FIGHTER 2 throws fast open-hand slaps and a raised-knee kick into the air; FIGHTER 1 hops back and slaps at FIGHTER 2's arms. They trade quick slaps at arms and shoulders, then FIGHTER 1 rushes in and grabs FIGHTER 2 in a clumsy clinch.
+Shot 2 [7.2-14 s]: hard cut to a closer handheld shot beside the stucco house wall, both bodies in view. 7.2-9.5 s: still in the clinch, FIGHTER 1 pushes FIGHTER 2 back against the wall and brings a knee up to FIGHTER 2's stomach, a pulled stage knee. 9.5-11 s: FIGHTER 2 folds over with a comic gasp, slides down the wall and sits on the concrete, dazed; FIGHTER 1 steps back and walks out of the frame. 11-14 s: the camera tilts down and follows FIGHTER 2, who tips over and lies flat on the back on the concrete, arms out, blinking up at the sky, the face clearly visible.
+
+A staged comedy fight: every hit is a pulled stage hit with a big comic reaction. No hit to the face or head, no blood, no cuts, no bruises, no injury, no weapons, no choking, no hits on the ground. The fallen fighter is dazed and fine.
+Audio: a bouncy, punchy music bed with a heavy beat, cloth swishes, shoe scuffs on concrete, a soft thud when FIGHTER 2 sits down. No dialogue throughout the entire video.
+Exactly two people, nobody else. One head, two arms and two legs each, five fingers on each hand. No text, no logos, no watermark.
+```
+
+### 5. 1. The video prompt is filled in. Settings: Seedance 2.5, 12 s, 720p, 9:16, sound on. The video prompt
+
+*Kind: video_prompt*
+
+```text
+Make the people from [Image 1] and [Image 2] fight: a funny staged slapstick knockout in a gaming room, filmed like a real phone video.
+FIGHTER 1 (the winner, on the LEFT) = the person in [Image 1], in every frame: copy the exact face from [Image 1] (the face shape, eye color and eye shape, eyebrows, nose, mouth, skin tone, hair color, hair length and hairstyle, and any beard, moustache, glasses or freckles) and wear the clothes of [Image 1]. FIGHTER 2 (on the RIGHT) = the person in [Image 2], in every frame, with the same exact face list from [Image 2] and the clothes of [Image 2]. Each keeps the gender, age and body of their own photo. Never blend or swap the two faces: each face stays the same from the first frame to the last, also in the clinch and the fall, so their friends recognize them at once.
+Both fighters are adults. If an image shows a child or a baby, do not copy that face: make an adult stranger with only the same hair color and skin tone. If an image shows an animal, that fighter is that animal standing upright on its hind legs, with its own face, fur and markings, not a person.
+
+Style: photoreal, like a real handheld phone video: natural light, real skin, hair and fabric. Not a cartoon.
+Setting: a gamer's bedroom at night, lit by purple and blue neon LED strips: a dark sofa, shelves of colorful sneaker boxes and collectibles, a gaming desk with a glowing rainbow keyboard and two monitors, a neon shape on the wall with no letters. Add a small puff of dust from the rug when FIGHTER 2 lands.
+
+The movements, in three shots, 12 seconds:
+Shot 1 [0-6.5 s]: a wide shot from across the room, camera still. FIGHTER 1 on the LEFT and FIGHTER 2 on the RIGHT square up in boxing stances. FIGHTER 1 throws quick jabs; FIGHTER 2 covers up with both forearms in front of the face and the jabs land on the forearms. They clinch and shove each other. At 5.5 s FIGHTER 1 shoves FIGHTER 2 off; FIGHTER 2 stumbles, drops to the rug and covers the head with both arms.
+Shot 2 [6.5-9.5 s]: hard cut to a high angle from behind the gaming desk, the glowing keyboard in the front of the frame. FIGHTER 2 lies on the rug, dazed, waving one arm weakly; FIGHTER 1 stands over FIGHTER 2, throws both arms up and jumps in celebration.
+Shot 3 [9.5-12 s]: hard cut to a close-up of FIGHTER 1 alone, chest up, in front of a dark acoustic-foam wall and a shelf of sneakers, laughing and grinning straight into the camera, like a phone selfie, the face big and sharp: the exact face from [Image 1].
+
+A staged comedy fight: every hit is a pulled stage hit with a big comic reaction. No hit to the face or head, no blood, no cuts, no bruises, no injury, no weapons, no choking, no hits on the ground. The fallen fighter is dazed and fine.
+Audio: a playful, upbeat music bed with a strong beat, cloth swishes, sneaker squeaks, a soft thud when FIGHTER 2 drops, a burst of laughter at the end. No dialogue throughout the entire video.
+Exactly two people, nobody else. One head, two arms and two legs each, five fingers on each hand. No text, no logos, no watermark.
+```
+
+### 6. 1. The video prompt is filled in. Settings: Seedance 2.5, 13 s, 720p, 9:16, sound on. The video prompt
+
+*Kind: video_prompt*
+
+```text
+Make the people from [Image 1] and [Image 2] fight as grandma and grandpa: a funny staged slapstick fight between two old people in an alley, filmed like a real phone video.
+FIGHTER 1 (the winner, on the LEFT) = the person in [Image 1], in every frame. FIGHTER 2 (on the RIGHT) = the person in [Image 2], in every frame. Each one is shown as their own elderly self, about 80 years old, that their friends and family recognize at once: the same face shape, eye color and eye shape, eyebrows, nose, mouth and skin tone as their own photo, with soft wrinkles and white or silver hair in the same hairstyle as their photo, and any beard, moustache or glasses of their photo. Each keeps the gender of their own photo: a woman is a grandma, a man is a grandpa. A person who is already old in the photo stays as they are. Each wears the clothes of their own photo. Never blend or swap the two faces: each face stays the same from the first frame to the last, also in the fall.
+Only adults are made old. If an image shows a child or a teen, do not copy that face: make a friendly elderly stranger with only the same hair color and skin tone. If an image shows an animal, that fighter is an old, grey-muzzled version of that animal standing upright on its hind legs, with its own face, fur and markings, not a person.
+
+Style: photoreal, like a real handheld phone video: natural light, real skin, hair and fabric. Not a cartoon.
+Setting: a narrow brick alley in an old city in daylight: red brick walls with iron fire escapes, small wall lamps, green dumpsters, cracked wet asphalt. FIGHTER 1 carries a light cloth tote bag on one arm. Add a small puff of dust when FIGHTER 2 lands.
+
+The movements, in two shots, 13 seconds:
+Shot 1 [0-4.2 s]: a wide shot down the alley, camera still at chest height. FIGHTER 1 on the LEFT and FIGHTER 2 on the RIGHT bounce on the spot in wobbly martial-arts stances, arms out, circling slowly and glaring at each other.
+Shot 2 [4.2-13 s]: hard cut to a closer shot from the side, both from the knees up, both faces in three-quarter view. 4.2-7 s: they trade quick open-hand slaps at each other's hands and shoulders; FIGHTER 2 grabs FIGHTER 1's sleeve. 7-9.5 s: FIGHTER 1 swings the soft tote bag into FIGHTER 2's shoulder with a light comic thump; FIGHTER 2 staggers back. 9.5-11.5 s: FIGHTER 2 trips, sits down hard and rolls onto the asphalt. 11.5-13 s: FIGHTER 2 lies on the ground, dazed and grumbling, waving one hand; FIGHTER 1 stands over FIGHTER 2, straightens the jacket, turns three-quarters to the camera and gives a proud little nod.
+
+A staged comedy fight: every hit is a pulled stage hit with a big comic reaction. No hit to the face or head, no blood, no cuts, no bruises, no injury, no weapons, no choking, no hits on the ground. The fallen fighter is dazed and fine.
+Audio: a jaunty, bouncy music bed with a light beat, cloth swishes, shuffling shoes, a soft thud when FIGHTER 2 sits down. No dialogue throughout the entire video.
+Exactly two people, nobody else. One head, two arms and two legs each, five fingers on each hand. No text, no logos, no watermark.
+```
+

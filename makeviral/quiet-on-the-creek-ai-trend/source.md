@@ -78,7 +78,7 @@ One-tap version of this variant: https://www.makeviral.ai/templates/quiet-on-the
 
 #### Variant: Duo
 
-Settings: 2 photos (you (18+), on the left + your friend (18+), on the right) · Seedance 2.5 · 8 s · 720p · 9:16 · no sound · 122 credits in one tap.
+Settings: 2 photos (you, on the left + your friend, on the right) · Seedance 2.5 · 8 s · 720p · 9:16 · no sound · 122 credits in one tap.
 
 1. The video prompt is filled in. Settings: Seedance 2.5, 8 s, 720p, 9:16, sound off. The video prompt:
 
@@ -258,7 +258,7 @@ Solo makes 12 seconds at 720p in the frame of your photo, so a vertical photo gi
 
 - [Bad Times AI Trend: Argue With the Camera From One Photo](https://www.makeviral.ai/templates/bad-times-ai-trend): Hands on the head, a hand on the hip, stop palms and a long stare at whoever is filming: the viral routine to Imael Angel's "Bad Times". Add one photo of you or your pet and get the clip with the song.
 - [Toc Toc Dance AI: Do the Viral Jean Phil Dance From One Photo](https://www.makeviral.ai/templates/toc-toc-dance-ai-trend): One-foot hops with a knee up, a fist that knocks on an invisible door, kicks and a wide-arm finish, all on the toc toc beat. Add a photo of you, of you and a friend, or of your pet, and get the dance with the sound.
-- [Wassup in a Minute Trend: Your Own Swaying Anime Character](https://www.makeviral.ai/templates/wassup-in-a-minute-ai-trend): Your photo becomes a full-body anime drawing of you in baggy streetwear, cash in hand, on a clean white background. Then you sway side to side on the beat, just like the viral edits. One photo, 10 seconds.
+- [Wassup in a Minute Trend: The Field Dance With 2 Friends, or Anime](https://www.makeviral.ai/templates/wassup-in-a-minute-ai-trend): You and two friends become the three dancers of the viral field dance: three photos, the same misty green hillside, the same four shots and the close-up, with the trend sound. 15 seconds. Only you? Pick You. Prefer the anime look? Pick Anime and sway as a streetwear anime drawing of you, with the same sound.
 - [AI TikTok Video](https://www.makeviral.ai/tools/ai-tiktok-video-generator): Eight native TikTok formats, one prompt or product URL, a finished 9:16 video with captions burned in.
 - [AI Reels](https://www.makeviral.ai/tools/ai-reels-generator): Pick a format, give it a topic or a product link, and get a finished vertical reel with voice and captions. Nothing to film, nothing to edit.
 - [AI photo generator](https://www.makeviral.ai/ai-photo-generator)
@@ -266,12 +266,12 @@ Solo makes 12 seconds at 720p in the frame of your photo, so a vertical photo gi
 
 ## New AI video trends this week
 
-- [Never Let Her Pay: Pay for Dinner With a Sponge](https://www.makeviral.ai/templates/never-let-her-pay-ai-trend): "I got this." Add one photo, and you play the gentleman in the white dinner jacket who stops his date from paying, opens his pouch to show a kitchen sponge and gets walked to the kitchen to wash the dishes. With the clip's own sound.
-- [Snowman Dance AI: Do the Viral Sia Couple Dance From Two Photos](https://www.makeviral.ai/templates/snowman-dance-ai-trend): Hands behind your backs, a spin under the arm, a quick twirl around each other, and then one of you jumps on the other. Add a photo of you and one of your partner, or of two pets, and get the whole Snowman dance with the song.
-- [Self Hug Sketch: A Giant Pencil Drawing of You Hugs You](https://www.makeviral.ai/templates/self-hug-sketch-ai-trend): Add one photo. You lean on a grey wall while a huge black-and-white pencil sketch of you, drawn on the wall, wraps its arms around you, with "Embrace of my own self" written beside you.
-- [Need for Speed AI Trend: Your Car in the Movie Scene](https://www.makeviral.ai/templates/need-for-speed-ai-trend): Add one photo of your car or truck. AI puts it in the trend's movie-style street scene: it rolls through town, spins burnouts in thick tire smoke while people watch, and rolls away, with the trend's own sound.
-- [Tweenslop AI: Turn One Photo Into a Tweenslop Animation](https://www.makeviral.ai/templates/tweenslop-ai-trend): Your photo becomes a flat cut-out that zooms, squashes, spins and flies with a rainbow trail on every beat of a Brazilian funk track, with white, pink, purple and green flashes. You, your pet or any object.
-- [We Don't Talk Anymore Dance: Do the Viral Freestyle From One Photo](https://www.makeviral.ai/templates/we-dont-talk-anymore-dance-ai-trend): The sped-up "We Don't Talk Anymore" freestyle is all over TikTok. Add one photo, and you dance it on the trend's stage, barefoot on a driveway at night with your shoes in one hand, or your pet takes the stage.
+- [GTA 6 Loading Screen AI: Turn Your Photo Into a GTA Poster](https://www.makeviral.ai/templates/gta-6-loading-screen-ai): Add one photo and get your own GTA 6 loading screen: a painted crime-game poster of you in sunset colors, with palm trees, neon signs and a sports car. Same face, your own clothes, no logo.
+- [Jingle Bell Brazil Dance AI: Your Crew in the Viral Christmas Line Dance](https://www.makeviral.ai/templates/jingle-bell-brazil-dance-ai): Three dancers in Santa hats stand in a row under blue lights, then cross their arms, tap their chests and bounce in sync to a Brazilian funk Jingle Bell Rock. Add photos of you and two friends, one friend, just you, or your pet.
+- [Reaching Out Cat Trend: Put Your Pet in the Viral Clip](https://www.makeviral.ai/templates/reaching-out-cat-ai): A hand reaches up to the ceiling on "reaching out", then the cut, and the cat gets whisked out of the frame. Add one photo, and your cat, your dog or you sit in that spot, with the trend's sound. Your real pet never gets picked up.
+- [Dancing With Santa: Dance With Santa Claus From One Photo](https://www.makeviral.ai/templates/dance-with-santa-ai): Add one photo, and you dance side by side with Santa Claus on a red carpet between two lit Christmas trees: 15 seconds, the same steps, the same turns and the trend's own Santa song. Your pet can dance with Santa too, or bring your partner.
+- [You Rock My World Trend: Make the Couple Glow-Up Transition From 2 Photos](https://www.makeviral.ai/templates/you-rock-my-world-ai-trend): White T-shirts at home, a hand sweeps across the lens, and the two of you are dressed up somewhere else: on a garden terrace, in front of the iron tower in Paris, or there at night. Add a photo of each of you, or of two pets, and get the transition with the song.
+- [Tiger Transition: Your AI Glow-Up on "You Cannot Reason With a Tiger"](https://www.makeviral.ai/templates/tiger-transition-ai-trend): "You cannot reason with a tiger when your head is in its mouth!" Add one photo: you start plain, swipe a hand over the lens and come back in full glam hair and makeup, or in full tiger face paint, with the original sound.
 
 ## Make your own Quiet on the Creek video
 

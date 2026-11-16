@@ -17,7 +17,7 @@
   ],
   "prompts": [
     {
-      "label": "1. Open [AI Photo with this template](https://www.makeviral.ai/photo?template=ai-caricature-trend) and add your photo (you (18+), face clear, waist up or full body). The photo prompt is filled in",
+      "label": "1. Open [AI Photo with this template](https://www.makeviral.ai/photo?template=ai-caricature-trend) and add your photo (you, face clear, waist up or full body). The photo prompt is filled in",
       "variant": null,
       "kind": "photo_prompt",
       "text": "Use the uploaded image as the base. A highly stylized 3D caricature of the person in the uploaded photo, with an oversized head, expressive facial features, and playful exaggeration. Rendered in a smooth, polished style with clean materials and soft ambient lighting. Minimal background to emphasize the character's charm and presence.\n\nThe trend look: the person as their funny older self, about thirty years older: their own hairstyle turned grey or silver (white for older people), soft wrinkles and deep laugh lines, big bushy expressive eyebrows, a slightly bigger nose and ears, and the same eye color, skin tone, face shape, glasses, beard or moustache, earrings, jewelry and tattoos as in the photo, so their friends recognize them at once. The head is about a third of the whole height, on a smaller body in the same pose and in the same clothes, colors and prints as in the photo. The expression is the person's own expression from the photo, pushed into a funny exaggerated version: a smile becomes a big smug grin, a straight face becomes a grumpy, skeptical frown with one eyebrow raised. The background is the place from the photo, simplified, warm and softly blurred, like a cinematic film still; if the photo's place is plain or busy, a warm dark brown studio backdrop with a soft glow behind the head. The same framing as the photo: a selfie stays a close shot from the chest up, a full-body photo stays full body. Vertical 9:16. \n\nExactly the people from the photo and no one else. Friendly and funny, never cruel: no mocking of the body, weight, skin, race or disability, no sickness, no sad or scary look. Grown adults only. Five fingers on each hand. No text, no letters, no logos and no brand marks anywhere: any logo, brand or printed words on the clothes become plain fabric in the same color. No watermark. The face is the 3D caricature face described above, never a flat photo face: the identity rules below apply to the caricature's face shape, eyes and eye color, nose, lips, skin tone, hairline, hairstyle, facial hair, glasses, tattoos, gender and clothes, while the older age, the grey hair, the wrinkles and the exaggeration that this prompt asks for stay."
@@ -71,5 +71,5 @@
     "Make your own AI Caricature video"
   ],
   "prompt_count": 7,
-  "scraped_at": "2026-11-15"
+  "scraped_at": "2026-11-16"
 }

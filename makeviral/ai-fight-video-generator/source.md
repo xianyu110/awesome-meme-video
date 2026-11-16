@@ -3,7 +3,7 @@
 > This AI fight video generator turns two photos into the cartoon toddler fight that took over Instagram in November 2026: two tiny 3D fighters face off in a sunny park, circle, clinch, and one tips the other onto the grass.
 
 Canonical: https://www.makeviral.ai/templates/ai-fight-video-generator
-Updated: 2026-11-10
+Updated: 2026-11-15
 Published: 2026-11-10
 Author: MakeViral Team (https://www.makeviral.ai/about)
 Publisher: MakeViral (https://www.makeviral.ai)
@@ -12,11 +12,11 @@ This **AI fight video generator** turns two photos into the cartoon toddler figh
 
 Add two photos: you and a friend, two pets or two toys. Both become 3D cartoon toddlers who square up in a sunny park, circle, clinch, and photo 1 tips photo 2 onto the grass. 13 seconds, vertical, with playful music. Comedy wrestling, nobody gets hurt.
 
-Also called: Masha MMA revenge, Cartoon toddler fight, Cartoon character fight.
+Also called: Masha MMA revenge, Cartoon toddler fight, Cartoon character fight, Grandma vs Grandpa knockout, Backyard fight knockdown, Gaming room knockout.
 
 **Make it now:** [Make this video](https://www.makeviral.ai/templates/ai-fight-video-generator/create). 2 photos · 13 s · 9:16 with sound · 164 credits, charged once · ready in a few minutes · no prompt to write.
 
-Keyword: ai fight video generator. Also answers: ai fight video, ai fight generator, ai fighting video, ai fight video maker, ai fight video prompt, ai fighting video generator, funny ai fight video generator, cartoon characters fighting, ai fight scene generator, masha mma, masha fight, fight video generator, ai battle generator, ai fight maker, cartoon characters fight ai, masha and the bear ai fight, mma ai video generator, two cartoon characters fighting, ai baby fight, ai fight video app, how to make ai fight video, ai video fight scene prompt, cartoon fight.
+Keyword: ai fight video generator. Also answers: ai fight video, ai fight generator, ai fighting video, ai fight video maker, ai fight video prompt, ai fighting video generator, funny ai fight video generator, cartoon characters fighting, ai fight scene generator, masha mma, masha fight, fight video generator, ai battle generator, ai fight maker, cartoon characters fight ai, masha and the bear ai fight, mma ai video generator, two cartoon characters fighting, ai baby fight, ai fight video app, how to make ai fight video, ai video fight scene prompt, cartoon fight, grandma vs grandpa fight, grandma and grandpa fighting, funny staged fight video, ai knockout video, ai fight video with friends, realistic ai fight video, backyard fight video.
 
 ## What is the AI Fight Video trend, and where did it start?
 
@@ -133,6 +133,88 @@ Exactly two characters in every frame, no referee, no crowd. One head each, its 
 
 One-tap version of this variant: https://www.makeviral.ai/templates/ai-fight-video-generator/create?variant=characters
 
+#### Variant: Backyard knee
+
+Settings: 2 photos (you, the winner (an adult) + a friend who takes the fall (an adult)) · Seedance 2.5 · 14 s · 720p · 9:16 · with sound · 177 credits in one tap.
+
+1. The video prompt is filled in. Settings: Seedance 2.5, 14 s, 720p, 9:16, sound on. The video prompt:
+
+   ```text
+   Make the people from [Image 1] and [Image 2] fight: a funny staged slapstick fight in a backyard, filmed like a real phone video.
+FIGHTER 1 (the winner, on the LEFT) = the person in [Image 1], in every frame: copy the exact face from [Image 1] (the face shape, eye color and eye shape, eyebrows, nose, mouth, skin tone, hair color, hair length and hairstyle, and any beard, moustache, glasses or freckles) and wear the clothes of [Image 1]. FIGHTER 2 (on the RIGHT) = the person in [Image 2], in every frame, with the same exact face list from [Image 2] and the clothes of [Image 2]. Each keeps the gender, age and body of their own photo. Never blend or swap the two faces: each face stays the same from the first frame to the last, also in the clinch and the fall, so their friends recognize them at once.
+Both fighters are adults. If an image shows a child or a baby, do not copy that face: make an adult stranger with only the same hair color and skin tone. If an image shows an animal, that fighter is that animal standing upright on its hind legs, with its own face, fur and markings, not a person.
+
+Style: photoreal, like a real handheld phone video: natural light, real skin, hair and fabric. Not a cartoon.
+Setting: a sunny suburban backyard: a concrete patio, a dry lawn, a small pool, a wooden fence and stucco houses behind, a plain beige stucco house wall at the side. Bright midday sun. Add small puffs of dust when FIGHTER 2 lands.
+
+The movements, in two shots, 14 seconds:
+Shot 1 [0-7.2 s]: a wide handheld shot at chest height on the patio, the pool behind them. FIGHTER 1 on the LEFT and FIGHTER 2 on the RIGHT square up in wild karate stances. FIGHTER 2 throws fast open-hand slaps and a raised-knee kick into the air; FIGHTER 1 hops back and slaps at FIGHTER 2's arms. They trade quick slaps at arms and shoulders, then FIGHTER 1 rushes in and grabs FIGHTER 2 in a clumsy clinch.
+Shot 2 [7.2-14 s]: hard cut to a closer handheld shot beside the stucco house wall, both bodies in view. 7.2-9.5 s: still in the clinch, FIGHTER 1 pushes FIGHTER 2 back against the wall and brings a knee up to FIGHTER 2's stomach, a pulled stage knee. 9.5-11 s: FIGHTER 2 folds over with a comic gasp, slides down the wall and sits on the concrete, dazed; FIGHTER 1 steps back and walks out of the frame. 11-14 s: the camera tilts down and follows FIGHTER 2, who tips over and lies flat on the back on the concrete, arms out, blinking up at the sky, the face clearly visible.
+
+A staged comedy fight: every hit is a pulled stage hit with a big comic reaction. No hit to the face or head, no blood, no cuts, no bruises, no injury, no weapons, no choking, no hits on the ground. The fallen fighter is dazed and fine.
+Audio: a bouncy, punchy music bed with a heavy beat, cloth swishes, shoe scuffs on concrete, a soft thud when FIGHTER 2 sits down. No dialogue throughout the entire video.
+Exactly two people, nobody else. One head, two arms and two legs each, five fingers on each hand. No text, no logos, no watermark.
+   ```
+
+2. Press Generate, then download the 9:16 MP4.
+
+One-tap version of this variant: https://www.makeviral.ai/templates/ai-fight-video-generator/create?variant=backyard
+
+#### Variant: Gaming room KO
+
+Settings: 2 photos (you, the winner and the close-up at the end (an adult) + a friend who goes down (an adult)) · Seedance 2.5 · 12 s · 720p · 9:16 · with sound · 152 credits in one tap.
+
+1. The video prompt is filled in. Settings: Seedance 2.5, 12 s, 720p, 9:16, sound on. The video prompt:
+
+   ```text
+   Make the people from [Image 1] and [Image 2] fight: a funny staged slapstick knockout in a gaming room, filmed like a real phone video.
+FIGHTER 1 (the winner, on the LEFT) = the person in [Image 1], in every frame: copy the exact face from [Image 1] (the face shape, eye color and eye shape, eyebrows, nose, mouth, skin tone, hair color, hair length and hairstyle, and any beard, moustache, glasses or freckles) and wear the clothes of [Image 1]. FIGHTER 2 (on the RIGHT) = the person in [Image 2], in every frame, with the same exact face list from [Image 2] and the clothes of [Image 2]. Each keeps the gender, age and body of their own photo. Never blend or swap the two faces: each face stays the same from the first frame to the last, also in the clinch and the fall, so their friends recognize them at once.
+Both fighters are adults. If an image shows a child or a baby, do not copy that face: make an adult stranger with only the same hair color and skin tone. If an image shows an animal, that fighter is that animal standing upright on its hind legs, with its own face, fur and markings, not a person.
+
+Style: photoreal, like a real handheld phone video: natural light, real skin, hair and fabric. Not a cartoon.
+Setting: a gamer's bedroom at night, lit by purple and blue neon LED strips: a dark sofa, shelves of colorful sneaker boxes and collectibles, a gaming desk with a glowing rainbow keyboard and two monitors, a neon shape on the wall with no letters. Add a small puff of dust from the rug when FIGHTER 2 lands.
+
+The movements, in three shots, 12 seconds:
+Shot 1 [0-6.5 s]: a wide shot from across the room, camera still. FIGHTER 1 on the LEFT and FIGHTER 2 on the RIGHT square up in boxing stances. FIGHTER 1 throws quick jabs; FIGHTER 2 covers up with both forearms in front of the face and the jabs land on the forearms. They clinch and shove each other. At 5.5 s FIGHTER 1 shoves FIGHTER 2 off; FIGHTER 2 stumbles, drops to the rug and covers the head with both arms.
+Shot 2 [6.5-9.5 s]: hard cut to a high angle from behind the gaming desk, the glowing keyboard in the front of the frame. FIGHTER 2 lies on the rug, dazed, waving one arm weakly; FIGHTER 1 stands over FIGHTER 2, throws both arms up and jumps in celebration.
+Shot 3 [9.5-12 s]: hard cut to a close-up of FIGHTER 1 alone, chest up, in front of a dark acoustic-foam wall and a shelf of sneakers, laughing and grinning straight into the camera, like a phone selfie, the face big and sharp: the exact face from [Image 1].
+
+A staged comedy fight: every hit is a pulled stage hit with a big comic reaction. No hit to the face or head, no blood, no cuts, no bruises, no injury, no weapons, no choking, no hits on the ground. The fallen fighter is dazed and fine.
+Audio: a playful, upbeat music bed with a strong beat, cloth swishes, sneaker squeaks, a soft thud when FIGHTER 2 drops, a burst of laughter at the end. No dialogue throughout the entire video.
+Exactly two people, nobody else. One head, two arms and two legs each, five fingers on each hand. No text, no logos, no watermark.
+   ```
+
+2. Press Generate, then download the 9:16 MP4.
+
+One-tap version of this variant: https://www.makeviral.ai/templates/ai-fight-video-generator/create?variant=gaming-ko
+
+#### Variant: Grandma vs Grandpa
+
+Settings: 2 photos (the winner, made about 80 (an adult) + the one who falls, made about 80 (an adult)) · Seedance 2.5 · 13 s · 720p · 9:16 · with sound · 164 credits in one tap.
+
+1. The video prompt is filled in. Settings: Seedance 2.5, 13 s, 720p, 9:16, sound on. The video prompt:
+
+   ```text
+   Make the people from [Image 1] and [Image 2] fight as grandma and grandpa: a funny staged slapstick fight between two old people in an alley, filmed like a real phone video.
+FIGHTER 1 (the winner, on the LEFT) = the person in [Image 1], in every frame. FIGHTER 2 (on the RIGHT) = the person in [Image 2], in every frame. Each one is shown as their own elderly self, about 80 years old, that their friends and family recognize at once: the same face shape, eye color and eye shape, eyebrows, nose, mouth and skin tone as their own photo, with soft wrinkles and white or silver hair in the same hairstyle as their photo, and any beard, moustache or glasses of their photo. Each keeps the gender of their own photo: a woman is a grandma, a man is a grandpa. A person who is already old in the photo stays as they are. Each wears the clothes of their own photo. Never blend or swap the two faces: each face stays the same from the first frame to the last, also in the fall.
+Only adults are made old. If an image shows a child or a teen, do not copy that face: make a friendly elderly stranger with only the same hair color and skin tone. If an image shows an animal, that fighter is an old, grey-muzzled version of that animal standing upright on its hind legs, with its own face, fur and markings, not a person.
+
+Style: photoreal, like a real handheld phone video: natural light, real skin, hair and fabric. Not a cartoon.
+Setting: a narrow brick alley in an old city in daylight: red brick walls with iron fire escapes, small wall lamps, green dumpsters, cracked wet asphalt. FIGHTER 1 carries a light cloth tote bag on one arm. Add a small puff of dust when FIGHTER 2 lands.
+
+The movements, in two shots, 13 seconds:
+Shot 1 [0-4.2 s]: a wide shot down the alley, camera still at chest height. FIGHTER 1 on the LEFT and FIGHTER 2 on the RIGHT bounce on the spot in wobbly martial-arts stances, arms out, circling slowly and glaring at each other.
+Shot 2 [4.2-13 s]: hard cut to a closer shot from the side, both from the knees up, both faces in three-quarter view. 4.2-7 s: they trade quick open-hand slaps at each other's hands and shoulders; FIGHTER 2 grabs FIGHTER 1's sleeve. 7-9.5 s: FIGHTER 1 swings the soft tote bag into FIGHTER 2's shoulder with a light comic thump; FIGHTER 2 staggers back. 9.5-11.5 s: FIGHTER 2 trips, sits down hard and rolls onto the asphalt. 11.5-13 s: FIGHTER 2 lies on the ground, dazed and grumbling, waving one hand; FIGHTER 1 stands over FIGHTER 2, straightens the jacket, turns three-quarters to the camera and gives a proud little nod.
+
+A staged comedy fight: every hit is a pulled stage hit with a big comic reaction. No hit to the face or head, no blood, no cuts, no bruises, no injury, no weapons, no choking, no hits on the ground. The fallen fighter is dazed and fine.
+Audio: a jaunty, bouncy music bed with a light beat, cloth swishes, shuffling shoes, a soft thud when FIGHTER 2 sits down. No dialogue throughout the entire video.
+Exactly two people, nobody else. One head, two arms and two legs each, five fingers on each hand. No text, no logos, no watermark.
+   ```
+
+2. Press Generate, then download the 9:16 MP4.
+
+One-tap version of this variant: https://www.makeviral.ai/templates/ai-fight-video-generator/create?variant=grandma
+
 ### Which photo works best?
 
 You need **two photos**, one fighter per photo. **Photo 1 is the winner.**
@@ -173,7 +255,9 @@ It is comedy wrestling: no punch or kick lands, nobody is hit in the face, no bl
 | Two pets | Two pets | Your pets as cartoon baby animals who stand up and wrestle |
 | Toys or characters | Two toys, plushes, figures or drawings | Your characters come to life and fight, like the creator's later versions |
 
-Every version is a vertical 9:16 video, 13 seconds long, for TikTok, Reels or Shorts. A mixed pair works too: in Toys or characters, a person becomes a cartoon toddler and a pet a cartoon baby animal.
+Every cartoon version is a vertical 9:16 video, 13 seconds long, for TikTok, Reels or Shorts. A mixed pair works too: in Toys or characters, a person becomes a cartoon toddler and a pet a cartoon baby animal.
+
+Three real-looking versions are new since 15 November 2026: **Backyard knee**, **Gaming room KO** and **Grandma vs Grandpa**. They are photoreal staged fights in which you and a friend stay yourselves (in Grandma vs Grandpa, both of you about 80 years old), 12 to 14 seconds, vertical, with their own music.
 
 ## Masha MMA and the cartoon characters fighting trend
 
@@ -227,11 +311,15 @@ It is a cartoon MMA AI video: a playground wrestling match with a takedown, not 
 
 ### Is there an AI fight video app or an AI fight scene generator for other fights?
 
-You need no app: this page works in your browser. It makes one fight scene, the park takedown. For other fights, an AI battle generator or an AI fight maker of your own, you can describe your own scene on the MakeViral video page, or try the [AI Baby Gangster](https://www.makeviral.ai/templates/ai-baby-gangster) from the same creator.
+You need no app: this page works in your browser. It makes the cartoon park takedown and three real-looking fights. For other fights, an AI battle generator or an AI fight maker of your own, you can describe your own scene on the MakeViral video page, or try the [AI Baby Gangster](https://www.makeviral.ai/templates/ai-baby-gangster) from the same creator.
+
+### Can I make a realistic AI fight video with friends, like a staged knockout?
+
+Yes. Pick Backyard knee, Gaming room KO or Grandma vs Grandpa and add two photos: photo 1 wins. They are real-looking takes on the AI knockout video trend, where creators restage famous cage-fight finishes with unlikely fighters (one "Guess the fighter" reel on TikTok passed 3.3 million views in November 2026). Backyard knee is a backyard fight video by a pool that ends with photo 2 flat on the concrete (14 seconds). Gaming room KO ends on a close-up of the winner grinning into the camera (12 seconds). The Grandma vs Grandpa fight shows you both about 80 years old, a grandma and grandpa fighting in a brick alley (13 seconds). Each one is a funny staged fight video: pulled stage hits, no blood, no weapons and no hits to the face, vertical 9:16, with its own music. Use photos of adults who said yes, and post it as a joke, never as a real fight.
 
 ### How long is the video, and does it have sound?
 
-13 seconds, vertical 9:16, 720p, as an MP4 file. It has its own sound: bouncy cartoon music with a light beat, whooshes and a soft thump on the grass. There is no talking. The original reel's music is not on the result.
+13 seconds (the real-looking versions: 12 to 14 seconds), vertical 9:16, 720p, as an MP4 file. It has its own sound: bouncy cartoon music with a light beat, whooshes and a soft thump on the grass. There is no talking. The original reel's music is not on the result.
 
 ### Is it an AI video fight scene prompt I can change?
 
@@ -247,12 +335,12 @@ Not on this page: the AI video fight scene prompt is fixed, so every run gets th
 
 ## New AI video trends this week
 
-- [Never Let Her Pay: Pay for Dinner With a Sponge](https://www.makeviral.ai/templates/never-let-her-pay-ai-trend): "I got this." Add one photo, and you play the gentleman in the white dinner jacket who stops his date from paying, opens his pouch to show a kitchen sponge and gets walked to the kitchen to wash the dishes. With the clip's own sound.
-- [Snowman Dance AI: Do the Viral Sia Couple Dance From Two Photos](https://www.makeviral.ai/templates/snowman-dance-ai-trend): Hands behind your backs, a spin under the arm, a quick twirl around each other, and then one of you jumps on the other. Add a photo of you and one of your partner, or of two pets, and get the whole Snowman dance with the song.
-- [Self Hug Sketch: A Giant Pencil Drawing of You Hugs You](https://www.makeviral.ai/templates/self-hug-sketch-ai-trend): Add one photo. You lean on a grey wall while a huge black-and-white pencil sketch of you, drawn on the wall, wraps its arms around you, with "Embrace of my own self" written beside you.
-- [Need for Speed AI Trend: Your Car in the Movie Scene](https://www.makeviral.ai/templates/need-for-speed-ai-trend): Add one photo of your car or truck. AI puts it in the trend's movie-style street scene: it rolls through town, spins burnouts in thick tire smoke while people watch, and rolls away, with the trend's own sound.
-- [Tweenslop AI: Turn One Photo Into a Tweenslop Animation](https://www.makeviral.ai/templates/tweenslop-ai-trend): Your photo becomes a flat cut-out that zooms, squashes, spins and flies with a rainbow trail on every beat of a Brazilian funk track, with white, pink, purple and green flashes. You, your pet or any object.
-- [We Don't Talk Anymore Dance: Do the Viral Freestyle From One Photo](https://www.makeviral.ai/templates/we-dont-talk-anymore-dance-ai-trend): The sped-up "We Don't Talk Anymore" freestyle is all over TikTok. Add one photo, and you dance it on the trend's stage, barefoot on a driveway at night with your shoes in one hand, or your pet takes the stage.
+- [GTA 6 Loading Screen AI: Turn Your Photo Into a GTA Poster](https://www.makeviral.ai/templates/gta-6-loading-screen-ai): Add one photo and get your own GTA 6 loading screen: a painted crime-game poster of you in sunset colors, with palm trees, neon signs and a sports car. Same face, your own clothes, no logo.
+- [Jingle Bell Brazil Dance AI: Your Crew in the Viral Christmas Line Dance](https://www.makeviral.ai/templates/jingle-bell-brazil-dance-ai): Three dancers in Santa hats stand in a row under blue lights, then cross their arms, tap their chests and bounce in sync to a Brazilian funk Jingle Bell Rock. Add photos of you and two friends, one friend, just you, or your pet.
+- [Reaching Out Cat Trend: Put Your Pet in the Viral Clip](https://www.makeviral.ai/templates/reaching-out-cat-ai): A hand reaches up to the ceiling on "reaching out", then the cut, and the cat gets whisked out of the frame. Add one photo, and your cat, your dog or you sit in that spot, with the trend's sound. Your real pet never gets picked up.
+- [Dancing With Santa: Dance With Santa Claus From One Photo](https://www.makeviral.ai/templates/dance-with-santa-ai): Add one photo, and you dance side by side with Santa Claus on a red carpet between two lit Christmas trees: 15 seconds, the same steps, the same turns and the trend's own Santa song. Your pet can dance with Santa too, or bring your partner.
+- [You Rock My World Trend: Make the Couple Glow-Up Transition From 2 Photos](https://www.makeviral.ai/templates/you-rock-my-world-ai-trend): White T-shirts at home, a hand sweeps across the lens, and the two of you are dressed up somewhere else: on a garden terrace, in front of the iron tower in Paris, or there at night. Add a photo of each of you, or of two pets, and get the transition with the song.
+- [Tiger Transition: Your AI Glow-Up on "You Cannot Reason With a Tiger"](https://www.makeviral.ai/templates/tiger-transition-ai-trend): "You cannot reason with a tiger when your head is in its mouth!" Add one photo: you start plain, swipe a hand over the lens and come back in full glam hair and makeup, or in full tiger face paint, with the original sound.
 
 ## Make your own AI Fight Video video
 

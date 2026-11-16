@@ -7,10 +7,12 @@ The Kara Sevda AI trend is the viral night selfie with AI look-alikes of Kemal a
 
 ## Demo videos (CDN)
 
+- https://media.makeviral.ai/templates/ai-video-with-celebrity/original-couple-v2.mp4
 - https://media.makeviral.ai/templates/ai-video-with-celebrity/original-main-v2.mp4
 
 ## Posters
 
+- https://media.makeviral.ai/templates/ai-video-with-celebrity/original-couple-v1.jpg
 - https://media.makeviral.ai/templates/ai-video-with-celebrity/original-main-v1.jpg
 
 ## Prompts
@@ -34,7 +36,43 @@ WHAT HAPPENS, matching the reference second by second, one take, no cuts:
 Anatomy rules: exactly three people, one head each, on their own shoulders; two arms each, five fingers on each hand. The head of the man in black rests ON the tall man's shoulder and never merges with his face or neck. No dialogue throughout the entire video. No background music. No text on screen, no subtitles, no watermark, no logos.
 ```
 
-### 2. 1. The video prompt is filled in. Settings: Seedance 2.5, 12 s, 720p, 9:16, sound off. The video prompt
+### 2. 1. The video prompt is filled in. Settings: Seedance 2.5, 13 s, 720p, 9:16, sound off. The video prompt
+
+*Kind: video_prompt*
+
+```text
+Recreate the reference video [Video 1] shot for shot: one continuous handheld phone selfie video outdoors at night in a city: a dark sky, lit high-rise buildings far behind, blurred city lights, warm street light on the faces; the phone is held at arm's length by the one who films and moves a little, exactly as in [Video 1]; the same framing, timing, camera moves and light. The ONLY change: both people are now the people in the photos. [Image 1] replaces the woman who films the selfie and sings into the lens (on the right after the swing), and [Image 2] replaces the man who stands face to face with her (on the left). Both change: no one from the video stays, also when a face is half out of the frame or turned away.
+
+PERSON A = the person in [Image 1], PERSON B = the person in [Image 2], in EVERY frame: copy each exact face from its own photo (the face shape, eye color and eye shape, eyebrows, nose, mouth, skin tone, age, hair color, hair length and hairstyle, and any beard, moustache, glasses or freckles). Each face stays the same from the first frame to the last, also in profile and very close to the other face, so friends recognize them at once. Never blend the faces, never swap the sides. Never drift back to the faces of the people in [Video 1]: NO short blonde bob on PERSON A unless [Image 1] shows it, NO short dark hair and NO round clean-shaven face of the man in [Video 1] on PERSON B unless [Image 2] shows them.
+
+PERSON A and PERSON B wear the clothes from their own photo. If a photo shows only the head: PERSON A a dark coat with a grey scarf, PERSON B a black coat with a high collar.
+
+WHAT HAPPENS, matching the reference second by second, one take, no cuts:
+0-1.3 s: PERSON A holds the phone at arm's length, tilts the head and softly sings into the lens, the face big and sharp, looking into the camera.
+1.3-2 s: PERSON A turns the head to the side and the phone swings with it, showing PERSON B standing right next to PERSON A, close to the lens.
+2-13 s: PERSON A and PERSON B stand face to face, very close, in profile to the camera, looking into each other's eyes. PERSON B looks down at PERSON A with a small, warm smile; PERSON A looks up at PERSON B, mouths the song with pursed lips, smiles, and leans in as if for a kiss. They never kiss. Both faces stay big and sharp to the end.
+
+Anatomy rules: exactly two people, one head each, on their own shoulders; two arms each, five fingers on each hand. The two faces come close but never touch and never merge. No dialogue throughout the entire video. No background music. No text on screen, no subtitles, no watermark, no logos.
+```
+
+### 3. 1. The video prompt is filled in. Settings: Seedance 2.5, 13 s, 720p, 9:16, sound off. The video prompt (Pet)
+
+*Kind: video_prompt*
+
+```text
+Recreate the reference video [Video 1] shot for shot: one continuous handheld phone selfie video outdoors at night in a city: a dark sky, lit high-rise buildings far behind, blurred city lights, warm street light on the faces; the phone is held at arm's length by the one who films and moves a little, exactly as in [Video 1]; the same framing, timing, camera moves and light. The ONLY change: the two people are now the two pets in the photos. The pet in [Image 1] takes the place of the woman who films the selfie (on the right after the swing), and the pet in [Image 2] takes the place of the man who stands face to face with her (on the left). No person from the video stays, also when a head is half out of the frame.
+
+PET A = the pet in [Image 1], PET B = the pet in [Image 2], in EVERY frame: each has the same species and breed, face, eyes, ears, muzzle, fur colors, fur length and markings as in its own photo, with the natural body volume and proportions of that animal: never flattened, squashed, stretched or merged with anything. Both sit on a low wall, so their heads are at the height of the two faces in [Video 1]. No human body, no coats, no human hair, no human hands; never blend the two pets, never swap the sides.
+
+WHAT HAPPENS, matching the reference second by second, one take, no cuts:
+0-1.3 s: PET A looks into the lens from very close, as if it films the selfie itself, the head tilted, the face big and sharp.
+1.3-2 s: PET A turns the head to the side and the camera swings with it, showing PET B sitting right next to PET A.
+2-13 s: PET A and PET B are face to face, nose almost to nose, in profile to the camera, looking into each other's eyes. PET B looks down at PET A, calm and soft; PET A looks up and reaches its nose toward PET B. Both faces stay big and sharp to the end.
+
+Anatomy rules: exactly two animals, one head each, four legs each, no people. The two noses come close but the heads never merge. No dialogue throughout the entire video. No background music. No text on screen, no subtitles, no watermark, no logos.
+```
+
+### 4. 1. The video prompt is filled in. Settings: Seedance 2.5, 12 s, 720p, 9:16, sound off. The video prompt
 
 *Kind: video_prompt*
 
@@ -55,7 +93,7 @@ WHAT HAPPENS, matching the reference second by second, one take, no cuts:
 Anatomy rules: exactly three people, one head each, on their own shoulders; two arms each, five fingers on each hand. PERSON C's head rests ON PERSON B's shoulder and never merges with PERSON B's face or neck. No dialogue throughout the entire video. No background music. No text on screen, no subtitles, no watermark, no logos.
 ```
 
-### 3. 1. The video prompt is filled in. Settings: Seedance 2.5, 12 s, 720p, 9:16, sound off. The video prompt
+### 5. 1. The video prompt is filled in. Settings: Seedance 2.5, 12 s, 720p, 9:16, sound off. The video prompt
 
 *Kind: video_prompt*
 
@@ -76,7 +114,7 @@ WHAT HAPPENS, matching the reference second by second, one take, no cuts:
 Anatomy rules: exactly three people, one head each, on their own shoulders; two arms each, five fingers on each hand. The friend's head rests ON PERSON B's shoulder and never merges with PERSON B's face or neck. No dialogue throughout the entire video. No background music. No text on screen, no subtitles, no watermark, no logos.
 ```
 
-### 4. 1. The video prompt is filled in. Settings: Seedance 2.5, 12 s, 720p, 9:16, sound off. The video prompt (Pet)
+### 6. 1. The video prompt is filled in. Settings: Seedance 2.5, 12 s, 720p, 9:16, sound off. The video prompt (Pet)
 
 *Kind: video_prompt*
 
@@ -95,7 +133,7 @@ WHAT HAPPENS, matching the reference second by second, one take, no cuts:
 Anatomy rules: one pet and two men, one head each, five fingers on each human hand. The head of the man in black rests ON the tall man's shoulder and never merges with his face or neck. No dialogue throughout the entire video. No background music. No text on screen, no subtitles, no watermark, no logos.
 ```
 
-### 5. 1. The video prompt is filled in. Settings: Seedance 2.5, 12 s, 720p, 9:16, sound off. The video prompt (Pet)
+### 7. 1. The video prompt is filled in. Settings: Seedance 2.5, 12 s, 720p, 9:16, sound off. The video prompt (Pet)
 
 *Kind: video_prompt*
 

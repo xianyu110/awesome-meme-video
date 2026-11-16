@@ -10,6 +10,7 @@ The No Scrubs AI trend puts you and two friends into a glossy 1999-style girl-gr
 - https://media.makeviral.ai/templates/no-scrubs-ai-trend/example-guys.mp4
 - https://media.makeviral.ai/templates/no-scrubs-ai-trend/example-v1.mp4
 - https://media.makeviral.ai/templates/no-scrubs-ai-trend/original-tall-v2-glam-trio.mp4
+- https://media.makeviral.ai/templates/no-scrubs-ai-trend/original-tall-v2-pets.mp4
 
 ## Posters
 
@@ -18,6 +19,7 @@ The No Scrubs AI trend puts you and two friends into a glossy 1999-style girl-gr
 - https://media.makeviral.ai/templates/no-scrubs-ai-trend/example-v1-input.jpg
 - https://media.makeviral.ai/templates/no-scrubs-ai-trend/example-v1-poster.jpg
 - https://media.makeviral.ai/templates/no-scrubs-ai-trend/original-tall-glam-v1.jpg
+- https://media.makeviral.ai/templates/no-scrubs-ai-trend/original-tall-pets-v1.jpg
 
 ## Prompts
 
@@ -151,5 +153,26 @@ Live-action footage, sharp faces in every close-up. The mouths move as in [Video
 One head per performer, two arms, two legs, five fingers per hand. Exactly three performers.
 
 No letters on the sculpture, no text, no captions, no logos, no watermark, no morphing.
+```
+
+### 6. 1. The video prompt is filled in. Settings: Seedance 2.5, 15 s, 720p, 9:16, sound off. The video prompt (Pet)
+
+*Kind: video_prompt*
+
+```text
+A vertical, glossy 1999-style R&B group music video, made new, starring three pets. [Image 1], [Image 2] and [Image 3] are the three pets. Three animal performers in the video, one pet each, in every shot, including every close-up and the solo shots: the performer in the MIDDLE (the one alone in the elevator at the start, in the second close-up and in the overhead shot) is the pet in [Image 1]; the performer on the LEFT (the first close-up) is the pet in [Image 2]; the performer on the RIGHT (the third close-up) is the pet in [Image 3]. Lock these mappings for the whole clip and never swap them.
+
+Each pet keeps its own image-defined appearance, anatomy, proportions, fur and markings: the same species and breed, face, eyes, ears, muzzle, fur colors, fur length and markings as in its own image, with the natural body volume of that animal, never flattened, squashed, stretched or merged with anything. Never blend the pets and never swap them. Each pet stays the same from the first frame to the last, so its owner recognizes it at once. Each pet wears only what its own image shows, with no added clothes or wigs. All three stand upright on their hind legs like performers: translate every move to their own paws, legs and tail.
+
+The set: a futuristic space station, all brushed silver and white: curved metal walls, glossy white floors and cool blue-white light. Plain walls with no letters, no logos and no writing.
+
+Shot 1 [0-2.5s]: the elevator intro: a long, narrow silver elevator shaft lit from the sides; [Image 1] rides up alone on a small platform toward the camera, upright, head high, front paws loose.
+Shot 2 [2.5-5s]: hard cut, the first close-up, against a pale blue-white wall: [Image 2] points one front paw at the camera with attitude. The face is large and sharp: exactly the face from [Image 2].
+Shot 3 [5-7.5s]: hard cut, the second close-up: [Image 1] raises both front paws at the sides and tilts the head. Exactly the face from [Image 1].
+Shot 4 [7.5-9.5s]: hard cut, the third close-up: [Image 3] leans toward the lens with a sly look and wags one front paw. Exactly the face from [Image 3].
+Shot 5 [9.5-11.5s]: hard cut, an overhead fisheye shot from the ceiling: [Image 1] looks up into the lens with both front legs spread wide, [Image 2] and [Image 3] at the sides.
+Shot 6 [11.5-15s]: hard cut, a wide, low shot: all three dance the same sharp, slinky R&B routine in sync on the glossy floor, upright, [Image 2] on the left, [Image 1] in the middle, [Image 3] on the right: head bobs, paw gestures, forelimb swings, rhythmic steps, a slow turn and a paw wag at the camera.
+
+Keep every face clearly lit. Sound: none of its own; a late-90s R&B song is put on afterwards, so the performers mouth along on a steady mid-tempo beat with attitude. No dialogue. No background music. Exactly three performers, no other people or animals. Do not add any text or logos: no subtitles, no letters on the walls, no watermark.
 ```
 

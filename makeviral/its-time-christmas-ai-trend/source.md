@@ -3,7 +3,7 @@
 > Mariah Carey It's Time is the yearly November 1st clip in which she "defrosts" and starts the Christmas season.
 
 Canonical: https://www.makeviral.ai/templates/its-time-christmas-ai-trend
-Updated: 2026-11-10
+Updated: 2026-11-15
 Published: 2026-11-10
 Author: MakeViral Team (https://www.makeviral.ai/about)
 Publisher: MakeViral (https://www.makeviral.ai)
@@ -12,11 +12,11 @@ Publisher: MakeViral (https://www.makeviral.ai)
 
 The clock hits 12:00:00 AM, the punk Halloween look screams "It's time", frost covers everything, and you appear in a red Santa outfit on top of a giant Christmas tree. Add one photo of yourself or your pet, with the song of the clip.
 
-Also called: It's Time!!!! (2026), It's tiiiime, Mariah Carey thawing, The November 1st switch.
+Also called: It's Time!!!! (2026), It's tiiiime, Mariah Carey thawing, The November 1st switch, Mariah Carey ice block.
 
 **Make it now:** [Make this video](https://www.makeviral.ai/templates/its-time-christmas-ai-trend/create). 1 photo · 15 s · 9:16 with sound · 228 credits, charged once · ready in up to several minutes · no prompt to write.
 
-Keyword: mariah carey it's time. Also answers: it's time meme, mariah carey defrosting, mariah carey it's time meme, it's time christmas, mariah carey november 1, mariah carey it's time 2026, its time mariah carey, mariah carey defrosting meme, it's time christmas meme, mariah carey it's time ai, mariah carey it's time video, mariah carey it's time halloween, mariah carey it's timeeee, mariah carey defrosting 2026, mariah carey defrosting countdown, mariah carey november 1st, does mariah carey defrost on november 1, mariah carey it's time song, mariah carey it's time audio, mariah carey it's time gif, it's time ai trend, halloween to christmas ai video.
+Keyword: mariah carey it's time. Also answers: it's time meme, mariah carey defrosting, mariah carey it's time meme, it's time christmas, mariah carey november 1, mariah carey it's time 2026, its time mariah carey, mariah carey defrosting meme, it's time christmas meme, mariah carey it's time ai, mariah carey it's time video, mariah carey it's time halloween, mariah carey it's timeeee, mariah carey defrosting 2026, mariah carey defrosting countdown, mariah carey november 1st, does mariah carey defrost on november 1, mariah carey it's time song, mariah carey it's time audio, mariah carey it's time gif, it's time ai trend, halloween to christmas ai video, mariah carey thawing out, mariah carey ice breaking, mariah carey ice cracking, mariah carey defrost video, mariah carey defrosting video, mariah carey ice block meme, mariah carey frozen in ice meme.
 
 ## What is the It's Time Christmas trend, and where did it start?
 
@@ -42,6 +42,9 @@ This is a 15-second cut of the official 2026 clip, not a MakeViral result. Your 
 - **Example 1** (15 s, 9:16 MP4 with sound): The official 2026 clip from the Mariah Carey YouTube channel, 0:28 to 0:43 in a vertical crop, shown from the Santa reveal: the red Santa look sings "It's time" and ends on top of a giant Christmas tree, then the clock hits 12:00:00 AM, the punk Halloween look screams and frost covers the frame. Your photo takes her place in both looks.
   - Video: https://media.makeviral.ai/templates/its-time-christmas-ai-trend/original-main-v3.mp4
   - Poster: https://media.makeviral.ai/templates/its-time-christmas-ai-trend/original-main-v1.jpg
+- **Example 2** (11 s, 9:16 MP4 with sound): The ice-block defrost reel by @notlalalisaaa, an AI face swap on the 2023 "It's time" clip: the singer stands frozen in a block of ice while helpers blow hair dryers at it, the ice cracks, she bursts out singing and dances at a Christmas party. Your photo takes her place in the Ice block versions. Shown: the first 10.5 seconds; the reel's last shot is left out.
+  - Video: https://media.makeviral.ai/templates/its-time-christmas-ai-trend/original-defrost-v2.mp4
+  - Poster: https://media.makeviral.ai/templates/its-time-christmas-ai-trend/original-defrost-v1.jpg
 
 ## How to make the It's Time Christmas video on MakeViral
 
@@ -111,6 +114,60 @@ Anatomy rules: one head only, one muzzle, natural teeth and tongue. Four legs, t
 
 One-tap version of this variant: https://www.makeviral.ai/templates/its-time-christmas-ai-trend/create?variant=pet
 
+#### Variant: Ice block defrost
+
+Settings: 1 photo (your photo, face clear) · Seedance 2.5 · 10 s · 720p · 9:16 · no sound · 152 credits in one tap.
+
+1. The video prompt is filled in. Settings: Seedance 2.5, 10 s, 720p, 9:16, sound off. The video prompt:
+
+   ```text
+   Recreate the reference video [Video 1] shot for shot: the same ice-palace hall, the same ice block and helpers with hair dryers, the same cracks and shattering ice, the same Christmas party under the snowy mountain, the same camera moves, cuts and timing. The ONLY change: the singer in the sparkly bodysuit is now the person in [Image 1].
+
+The singer = the person in [Image 1], in EVERY shot: copy the exact face from [Image 1]: face shape, eye color and eye shape, eyebrows, nose, mouth, skin tone, age, hair color, hair length and hairstyle, and any beard, moustache, glasses or freckles exactly as in the photo. The same real person in every frame, from the first second to the last, also behind the ice and while singing with the mouth wide open. Never morph, never drift back to the original singer's face. The singer keeps the hair color, hair length and hairstyle of [Image 1]: NO long honey-blonde hair with bangs and NO red lipstick unless [Image 1] shows them. The costume comes from [Video 1], fitted to the person's own body, never the clothes from [Image 1]; if [Image 1] shows a man, he wears a matching sparkly silver and ice-blue crystal stage jacket and trousers instead of the bodysuit.
+
+Shot 1 [0-1.0s]: a wide shot of a tall gothic ice-palace hall with pointed arched windows and white fog on the floor: the singer stands frozen inside a tall clear block of ice, hands on hips, in a sparkly silver and ice-blue crystal stage bodysuit with glittering knee-high boots; helpers in dark hooded coats and knit beanies kneel and stand around the block and blow pink hair dryers at it.
+Shot 2 [1.0-4.3s]: hard cut, a medium shot through the clear ice: the singer stands frozen, hands on hips, then thin white cracks spread across the ice and the singer opens the mouth wide and sings a long high note.
+Shot 3 [4.3-5.0s]: the ice block shatters into flying white shards and the singer bursts out through them.
+Shot 4 [5.0-7.4s]: the singer steps toward the camera in front of the ice palace with arms spread wide, the hair flying, singing with the mouth wide open, snow and glitter in the air.
+Shot 5 [7.4-9.3s]: hard cut, a wide shot of a Christmas party outdoors at night under a snowy mountain peak, with string lights, snowy pine trees and stacks of wrapped red presents: the singer dances in the center while men in red Christmas sweaters and Santa hats dance, cheer and kneel around.
+Shot 6 [9.3-10.5s]: hard cut, a medium shot: the singer dances with both arms up between the cheering men in Christmas sweaters and Santa hats.
+
+The mouth opens and closes exactly when the singer's mouth does in [Video 1]. No dialogue throughout the entire video. No background music.
+
+Real live-action footage. Anatomy rules: one head only, on the singer's shoulders. Two arms and two hands, five fingers on each hand. Exactly one singer; the helpers and the party guests are adult men as in [Video 1] and keep their own faces. No children. No text, no captions, no logos, no watermark.
+   ```
+
+2. Press Generate, then download the 9:16 MP4.
+
+One-tap version of this variant: https://www.makeviral.ai/templates/its-time-christmas-ai-trend/create?variant=defrost
+
+#### Variant: Ice block pet
+
+Settings: 1 photo (your pet) · Seedance 2.5 · 10 s · 720p · 9:16 · no sound · 152 credits in one tap.
+
+1. The video prompt is filled in. Settings: Seedance 2.5, 10 s, 720p, 9:16, sound off. The video prompt:
+
+   ```text
+   Recreate the reference video [Video 1] shot for shot: the same ice-palace hall, the same ice block and helpers with hair dryers, the same cracks and shattering ice, the same Christmas party under the snowy mountain, the same camera moves, cuts and timing. The ONLY change: the singer in the sparkly bodysuit is now the pet in [Image 1].
+
+The pet = the pet in [Image 1], in EVERY shot: the same species and breed, face, eyes, ears, muzzle, fur colors, fur length and markings as in [Image 1], with the natural body volume and proportions of that animal: never flattened, squashed, stretched or merged with anything. Whether [Image 1] shows a dog, a cat or another animal, it stays that animal, standing upright on its hind legs, with its own head and its own ears. The same pet in every frame, also behind the ice, so its owner instantly recognizes it. Never a person: NO human face, NO human hair, NO long blonde hair, NO makeup. Only the costume comes from [Video 1], sized to the pet's own body.
+
+Shot 1 [0-1.0s]: a wide shot of a tall gothic ice-palace hall with pointed arched windows and white fog on the floor: the pet stands frozen inside a tall clear block of ice, hands on hips, in a small sparkly silver and ice-blue crystal outfit; helpers in dark hooded coats and knit beanies kneel and stand around the block and blow pink hair dryers at it.
+Shot 2 [1.0-4.3s]: hard cut, a medium shot through the clear ice: the pet stands frozen, hands on hips, then thin white cracks spread across the ice and the pet opens the mouth wide and sings a long high note.
+Shot 3 [4.3-5.0s]: the ice block shatters into flying white shards and the pet bursts out through them.
+Shot 4 [5.0-7.4s]: the pet steps toward the camera in front of the ice palace with arms spread wide, its fur and ears flying, singing with the mouth wide open, snow and glitter in the air.
+Shot 5 [7.4-9.3s]: hard cut, a wide shot of a Christmas party outdoors at night under a snowy mountain peak, with string lights, snowy pine trees and stacks of wrapped red presents: the pet dances in the center while men in red Christmas sweaters and Santa hats dance, cheer and kneel around.
+Shot 6 [9.3-10.5s]: hard cut, a medium shot: the pet dances with both arms up between the cheering men in Christmas sweaters and Santa hats.
+
+The pet's mouth opens wide when the singer's mouth does in [Video 1], as if it sings. No dialogue throughout the entire video. No background music.
+
+Anatomy rules: one head only, one muzzle, natural teeth and tongue. Four legs, the front ones ending in animal paws, never human hands. Exactly one pet; the helpers and the party guests are adult men as in [Video 1]. No children. No text, no captions, no logos, no watermark.
+   ```
+
+2. Press Generate, then download the 9:16 MP4.
+
+One-tap version of this variant: https://www.makeviral.ai/templates/its-time-christmas-ai-trend/create?variant=defrost-pet
+
 ### Which photo works best?
 
 Upload **one photo**: of yourself for Human, of your pet for Pet.
@@ -149,6 +206,7 @@ Both versions copy the same 15 seconds of the 2026 clip, and your photo takes th
 
 - **Human** puts you in both looks: the punk Halloween scream at midnight, then the red Santa outfit on top of the tree. Your face and your own hair stay the same in every shot, so your friends see it is you.
 - **Pet** does the same with your dog, cat or other pet: a tiny punk in a studded leather jacket until 12:00:00 AM, then a Santa pet on top of the Christmas tree. A calm, serious-looking pet is the funniest.
+- **Ice block defrost** and **Ice block pet** play the classic Mariah Carey ice block scene instead: you or your pet stand frozen in a block of ice while helpers thaw it with hair dryers, the ice cracks, and you burst out into a Christmas party. 10 seconds, with the reel's own sound.
 
 **Caption ideas:** "Me at 11:59 PM on October 31st vs 12:00 AM", "My cat has defrosted", "It's time. The decorations go up today", "POV: Halloween is over", "It's time, Mariah Carey and my cat agree". Or write your own.
 
@@ -190,6 +248,10 @@ That is the joke: she is frozen all year and wakes up on 1 November, when Christ
 ### Is the Mariah Carey defrosting meme from 2026 the punk one?
 
 Yes. Mariah Carey defrosting 2026 is the punk version: she spends Halloween as a punk singer, and at midnight the frost turns her into the Christmas look. Earlier years used other ideas, such as breaking out of a block of ice.
+
+### Can I make the Mariah Carey ice block defrosting video?
+
+Yes. Pick Ice block defrost (or Ice block pet) and add one photo. You stand frozen in a block of ice while helpers blow hair dryers at it, the ice starts cracking and breaking, and you burst out singing and dance at a Christmas party: the Mariah Carey thawing out scene from her 2023 "It's time" clip, also known as the Mariah Carey ice block meme or the frozen in ice meme. The defrost video is 10 seconds, with the sound of the reel.
 
 ### Can I make a Mariah Carey It's Time AI video with my own face?
 
@@ -243,12 +305,12 @@ No. Your face or your pet is put into the clip by AI from one still photo. The s
 
 ## New AI video trends this week
 
-- [Never Let Her Pay: Pay for Dinner With a Sponge](https://www.makeviral.ai/templates/never-let-her-pay-ai-trend): "I got this." Add one photo, and you play the gentleman in the white dinner jacket who stops his date from paying, opens his pouch to show a kitchen sponge and gets walked to the kitchen to wash the dishes. With the clip's own sound.
-- [Snowman Dance AI: Do the Viral Sia Couple Dance From Two Photos](https://www.makeviral.ai/templates/snowman-dance-ai-trend): Hands behind your backs, a spin under the arm, a quick twirl around each other, and then one of you jumps on the other. Add a photo of you and one of your partner, or of two pets, and get the whole Snowman dance with the song.
-- [Self Hug Sketch: A Giant Pencil Drawing of You Hugs You](https://www.makeviral.ai/templates/self-hug-sketch-ai-trend): Add one photo. You lean on a grey wall while a huge black-and-white pencil sketch of you, drawn on the wall, wraps its arms around you, with "Embrace of my own self" written beside you.
-- [Need for Speed AI Trend: Your Car in the Movie Scene](https://www.makeviral.ai/templates/need-for-speed-ai-trend): Add one photo of your car or truck. AI puts it in the trend's movie-style street scene: it rolls through town, spins burnouts in thick tire smoke while people watch, and rolls away, with the trend's own sound.
-- [Tweenslop AI: Turn One Photo Into a Tweenslop Animation](https://www.makeviral.ai/templates/tweenslop-ai-trend): Your photo becomes a flat cut-out that zooms, squashes, spins and flies with a rainbow trail on every beat of a Brazilian funk track, with white, pink, purple and green flashes. You, your pet or any object.
-- [We Don't Talk Anymore Dance: Do the Viral Freestyle From One Photo](https://www.makeviral.ai/templates/we-dont-talk-anymore-dance-ai-trend): The sped-up "We Don't Talk Anymore" freestyle is all over TikTok. Add one photo, and you dance it on the trend's stage, barefoot on a driveway at night with your shoes in one hand, or your pet takes the stage.
+- [GTA 6 Loading Screen AI: Turn Your Photo Into a GTA Poster](https://www.makeviral.ai/templates/gta-6-loading-screen-ai): Add one photo and get your own GTA 6 loading screen: a painted crime-game poster of you in sunset colors, with palm trees, neon signs and a sports car. Same face, your own clothes, no logo.
+- [Jingle Bell Brazil Dance AI: Your Crew in the Viral Christmas Line Dance](https://www.makeviral.ai/templates/jingle-bell-brazil-dance-ai): Three dancers in Santa hats stand in a row under blue lights, then cross their arms, tap their chests and bounce in sync to a Brazilian funk Jingle Bell Rock. Add photos of you and two friends, one friend, just you, or your pet.
+- [Reaching Out Cat Trend: Put Your Pet in the Viral Clip](https://www.makeviral.ai/templates/reaching-out-cat-ai): A hand reaches up to the ceiling on "reaching out", then the cut, and the cat gets whisked out of the frame. Add one photo, and your cat, your dog or you sit in that spot, with the trend's sound. Your real pet never gets picked up.
+- [Dancing With Santa: Dance With Santa Claus From One Photo](https://www.makeviral.ai/templates/dance-with-santa-ai): Add one photo, and you dance side by side with Santa Claus on a red carpet between two lit Christmas trees: 15 seconds, the same steps, the same turns and the trend's own Santa song. Your pet can dance with Santa too, or bring your partner.
+- [You Rock My World Trend: Make the Couple Glow-Up Transition From 2 Photos](https://www.makeviral.ai/templates/you-rock-my-world-ai-trend): White T-shirts at home, a hand sweeps across the lens, and the two of you are dressed up somewhere else: on a garden terrace, in front of the iron tower in Paris, or there at night. Add a photo of each of you, or of two pets, and get the transition with the song.
+- [Tiger Transition: Your AI Glow-Up on "You Cannot Reason With a Tiger"](https://www.makeviral.ai/templates/tiger-transition-ai-trend): "You cannot reason with a tiger when your head is in its mouth!" Add one photo: you start plain, swipe a hand over the lens and come back in full glam hair and makeup, or in full tiger face paint, with the original sound.
 
 ## Make your own It's Time Christmas video
 

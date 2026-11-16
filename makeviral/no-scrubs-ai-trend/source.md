@@ -3,7 +3,7 @@
 > The No Scrubs AI trend puts you and two friends into a glossy 1999-style girl-group music video, the look of the TLC No Scrubs music video: a silver space-station set, an elevator intro, solo close-ups and a dance in a row.
 
 Canonical: https://www.makeviral.ai/templates/no-scrubs-ai-trend
-Updated: 2026-11-13
+Updated: 2026-11-15
 Published: 2026-10-22
 Author: MakeViral Team (https://www.makeviral.ai/about)
 Publisher: MakeViral (https://www.makeviral.ai)
@@ -14,11 +14,11 @@ The **No Scrubs AI dance** that took over TikTok in November 2026 is a second lo
 
 One of you rides up a silver elevator, each of you gets a close-up, the camera looks down from the ceiling, then all three of you dance in a row. Add three photos, or one photo for a solo lead. Or pick Glam denim: one photo makes you all three dancers of the trend's denim clip, with the song.
 
-Also called: No Scrubs music video AI, TLC No Scrubs AI, No Scrubs girl group AI, No Scrubs AI dance, TLC No Scrubs AI dance, No Scrubs trio AI, No Scrubs AI CapCut template.
+Also called: No Scrubs music video AI, TLC No Scrubs AI, No Scrubs girl group AI, No Scrubs AI dance, TLC No Scrubs AI dance, No Scrubs trio AI, No Scrubs AI CapCut template, No Scrubs pets AI.
 
 **Make it now:** [Make this video](https://www.makeviral.ai/templates/no-scrubs-ai-trend/create). 3 photos · 15 s · 9:16 with sound · 189 credits, charged once · ready in a few minutes · no prompt to write.
 
-Keyword: no scrubs ai. Also answers: no scrubs music video, tlc no scrubs, no scrubs video, tlc no scrubs music video, no scrubs dance, no scrubs outfit, no scrubs costume, no scrubs tiktok, no scrubs trend, no scrubs dance trend, no scrubs meme, no scrubs tiktok trend, no scrubs music video outfits, no scrubs halloween costume, no scrubs remake, no scrubs ai trend, no scrubs ai video, no scrubs ai filter, no scrubs face swap, tlc no scrubs face swap, 90s music video ai face swap, no scrubs ai video generator, no scrubs template, no scrubs capcut template, tlc ai video, girl group music video ai, 90s music video ai, no scrubs elevator, no scrubs boy version, no scrubs male version, no scrubs guy version, tlc no scrubs male version, no scrubs ai one photo, no scrubs ai tutorial.
+Keyword: no scrubs ai. Also answers: no scrubs music video, tlc no scrubs, no scrubs video, tlc no scrubs music video, no scrubs dance, no scrubs outfit, no scrubs costume, no scrubs tiktok, no scrubs trend, no scrubs dance trend, no scrubs meme, no scrubs tiktok trend, no scrubs music video outfits, no scrubs halloween costume, no scrubs remake, no scrubs ai trend, no scrubs ai video, no scrubs ai filter, no scrubs face swap, tlc no scrubs face swap, 90s music video ai face swap, no scrubs ai video generator, no scrubs template, no scrubs capcut template, tlc ai video, girl group music video ai, 90s music video ai, no scrubs elevator, no scrubs boy version, no scrubs male version, no scrubs guy version, tlc no scrubs male version, no scrubs ai one photo, no scrubs ai tutorial, no scrubs pets, no scrubs cats, no scrubs dogs, no scrubs dog meme, no scrubs ai cats.
 
 ## What is the No Scrubs AI Dance trend, and where did it start?
 
@@ -40,7 +40,7 @@ In November the trend moved to a new template clip: a glam denim girl group on a
 
 ## What the No Scrubs AI Dance video looks like
 
-The first two clips are MakeViral results made from photos of AI-made adults, made before the song went on, so they play the model's own beat: your Trio, Solo or Guys video comes with the No Scrubs song, from "I don't want no scrub" through the chorus. The third is the trend's template clip, not a MakeViral result: Glam denim and Glam trio copy it shot by shot with your faces and its No Scrubs chorus. Your result will differ from run to run.
+The first two clips are MakeViral results made from photos of AI-made adults, made before the song went on, so they play the model's own beat: your Trio, Solo or Guys video comes with the No Scrubs song, from "I don't want no scrub" through the chorus. The third is the trend's template clip, not a MakeViral result: Glam denim and Glam trio copy it shot by shot with your faces and its No Scrubs chorus. The fourth is a cat owner's own AI clip of three cats, also not a MakeViral result: Three pets makes a clip like it with your pets. Your result will differ from run to run.
 
 - **Example 1** (15 s, 9:16 MP4 with sound): Made with MakeViral from three photos of AI-made adults (not real people): the elevator intro, three close-ups, the overhead shot and the dance on a silver set, 15 seconds.
   - Video: https://media.makeviral.ai/templates/no-scrubs-ai-trend/example-v1.mp4
@@ -53,6 +53,9 @@ The first two clips are MakeViral results made from photos of AI-made adults, ma
 - **Example 3** (21 s, 9:16 MP4 with sound): The trend's template clip: three dancers in denim and rhinestones on a white set with giant chrome letters, with low-angle trio shots, an overhead shot and close-ups. Glam denim and Glam trio copy it with your faces. Shown: the 4:3 clip in a vertical frame.
   - Video: https://media.makeviral.ai/templates/no-scrubs-ai-trend/original-tall-v2-glam-trio.mp4
   - Poster: https://media.makeviral.ai/templates/no-scrubs-ai-trend/original-tall-glam-v1.jpg
+- **Example 4** (23 s, 9:16 MP4 with sound): A cat owner's own AI clip of the No Scrubs pets trend: three cats stand up and do the elevator intro, the close-ups, the overhead shot and the dance in a row. Three pets makes a new clip like it with your pets, on our own silver set with no letters. Shown: the 4:3 clip in a vertical frame.
+  - Video: https://media.makeviral.ai/templates/no-scrubs-ai-trend/original-tall-v2-pets.mp4
+  - Poster: https://media.makeviral.ai/templates/no-scrubs-ai-trend/original-tall-pets-v1.jpg
 
 ## How to make the No Scrubs AI Dance video on MakeViral
 
@@ -230,6 +233,33 @@ No letters on the sculpture, no text, no captions, no logos, no watermark, no mo
 
 One-tap version of this variant: https://www.makeviral.ai/templates/no-scrubs-ai-trend/create?variant=glam-trio
 
+#### Variant: Three pets
+
+Settings: 3 photos (pet 1: the middle + pet 2: the left + pet 3: the right) · Seedance 2.5 · 15 s · 720p · 9:16 · no sound · 189 credits in one tap.
+
+1. The video prompt is filled in. Settings: Seedance 2.5, 15 s, 720p, 9:16, sound off. The video prompt:
+
+   ```text
+   A vertical, glossy 1999-style R&B group music video, made new, starring three pets. [Image 1], [Image 2] and [Image 3] are the three pets. Three animal performers in the video, one pet each, in every shot, including every close-up and the solo shots: the performer in the MIDDLE (the one alone in the elevator at the start, in the second close-up and in the overhead shot) is the pet in [Image 1]; the performer on the LEFT (the first close-up) is the pet in [Image 2]; the performer on the RIGHT (the third close-up) is the pet in [Image 3]. Lock these mappings for the whole clip and never swap them.
+
+Each pet keeps its own image-defined appearance, anatomy, proportions, fur and markings: the same species and breed, face, eyes, ears, muzzle, fur colors, fur length and markings as in its own image, with the natural body volume of that animal, never flattened, squashed, stretched or merged with anything. Never blend the pets and never swap them. Each pet stays the same from the first frame to the last, so its owner recognizes it at once. Each pet wears only what its own image shows, with no added clothes or wigs. All three stand upright on their hind legs like performers: translate every move to their own paws, legs and tail.
+
+The set: a futuristic space station, all brushed silver and white: curved metal walls, glossy white floors and cool blue-white light. Plain walls with no letters, no logos and no writing.
+
+Shot 1 [0-2.5s]: the elevator intro: a long, narrow silver elevator shaft lit from the sides; [Image 1] rides up alone on a small platform toward the camera, upright, head high, front paws loose.
+Shot 2 [2.5-5s]: hard cut, the first close-up, against a pale blue-white wall: [Image 2] points one front paw at the camera with attitude. The face is large and sharp: exactly the face from [Image 2].
+Shot 3 [5-7.5s]: hard cut, the second close-up: [Image 1] raises both front paws at the sides and tilts the head. Exactly the face from [Image 1].
+Shot 4 [7.5-9.5s]: hard cut, the third close-up: [Image 3] leans toward the lens with a sly look and wags one front paw. Exactly the face from [Image 3].
+Shot 5 [9.5-11.5s]: hard cut, an overhead fisheye shot from the ceiling: [Image 1] looks up into the lens with both front legs spread wide, [Image 2] and [Image 3] at the sides.
+Shot 6 [11.5-15s]: hard cut, a wide, low shot: all three dance the same sharp, slinky R&B routine in sync on the glossy floor, upright, [Image 2] on the left, [Image 1] in the middle, [Image 3] on the right: head bobs, paw gestures, forelimb swings, rhythmic steps, a slow turn and a paw wag at the camera.
+
+Keep every face clearly lit. Sound: none of its own; a late-90s R&B song is put on afterwards, so the performers mouth along on a steady mid-tempo beat with attitude. No dialogue. No background music. Exactly three performers, no other people or animals. Do not add any text or logos: no subtitles, no letters on the walls, no watermark.
+   ```
+
+2. Press Generate, then download the 9:16 MP4.
+
+One-tap version of this variant: https://www.makeviral.ai/templates/no-scrubs-ai-trend/create?variant=pets
+
 ### Which photo works best?
 
 You need **three photos** for Trio, one person in each, or **one photo** for Solo.
@@ -276,6 +306,7 @@ Solo plays the same shots in 10 seconds with you as the lead in every one, and t
 | Guys | 3 men: the middle, the left, the right | You and two friends as a three-man group: the same six shots, done straight-faced, each in your own clothes, 15 seconds |
 | Glam denim | 1 person | You as all three dancers of the trend's denim clip: the low trio dance on a white chrome set, the overhead shot and both close-ups, 15 seconds, with the No Scrubs chorus |
 | Glam trio | 3 people: the middle, the left, the right | The same denim clip with you and two friends: photo 1 leads and gets the overhead shot, photos 2 and 3 get a close-up each, 15 seconds, with the chorus |
+| Three pets | 3 pets: the middle, the left, the right | Your three cats, dogs or a mix as the group, up on their hind legs: the elevator intro, a close-up each, the overhead shot and the dance in a row on the silver set, 15 seconds, with the No Scrubs song |
 
 Photo 1 is the middle performer in every version, so the same photo works in each. Men, women and mixed groups all work. In Trio, Solo and Guys each person keeps their own face, hair and clothes; the Glam versions keep your face and hair and put everyone in the clip's denim looks.
 
@@ -335,6 +366,10 @@ No creator shared one, and the app templates show none. One AI template site run
 
 Yes: pick Guys. Three men add one photo each and get the same elevator intro, close-ups, overhead shot and dance as Trio, done straight-faced as a three-man group, each in his own clothes, 15 seconds. It is the AI music video, not a TLC No Scrubs male version of the song: the clip has the same No Scrubs song as Trio. Trio stays the pick for women and mixed groups.
 
+### Can I make No Scrubs with my pets: cats, dogs or a mix?
+
+Yes: pick Three pets and add one photo of each pet, photo 1 for the middle, photo 2 for the left and photo 3 for the right. Your pets stand up on their hind legs and get the same elevator intro, close-ups, overhead shot and dance as Trio, 15 seconds with the No Scrubs song. It is the No Scrubs pets AI clip that owners post as No Scrubs cats or No Scrubs dogs, the pet spin on the dog meme and cat videos of the song. Use a sharp photo of each pet with its face and body in view.
+
 ### Can I make it alone?
 
 Yes. Pick Solo and add one photo: you are the lead in every shot, from the elevator intro to the dance, with two backup dancers behind you at the end. It is 10 seconds long. Or pick Glam denim: one photo makes you all three dancers of the trend's denim clip, 15 seconds with the song.
@@ -379,12 +414,12 @@ Yes. Sites call it the No Scrubs AI video generator, a No Scrubs remake, a TLC A
 
 ## New AI video trends this week
 
-- [Never Let Her Pay: Pay for Dinner With a Sponge](https://www.makeviral.ai/templates/never-let-her-pay-ai-trend): "I got this." Add one photo, and you play the gentleman in the white dinner jacket who stops his date from paying, opens his pouch to show a kitchen sponge and gets walked to the kitchen to wash the dishes. With the clip's own sound.
-- [Snowman Dance AI: Do the Viral Sia Couple Dance From Two Photos](https://www.makeviral.ai/templates/snowman-dance-ai-trend): Hands behind your backs, a spin under the arm, a quick twirl around each other, and then one of you jumps on the other. Add a photo of you and one of your partner, or of two pets, and get the whole Snowman dance with the song.
-- [Self Hug Sketch: A Giant Pencil Drawing of You Hugs You](https://www.makeviral.ai/templates/self-hug-sketch-ai-trend): Add one photo. You lean on a grey wall while a huge black-and-white pencil sketch of you, drawn on the wall, wraps its arms around you, with "Embrace of my own self" written beside you.
-- [Need for Speed AI Trend: Your Car in the Movie Scene](https://www.makeviral.ai/templates/need-for-speed-ai-trend): Add one photo of your car or truck. AI puts it in the trend's movie-style street scene: it rolls through town, spins burnouts in thick tire smoke while people watch, and rolls away, with the trend's own sound.
-- [Tweenslop AI: Turn One Photo Into a Tweenslop Animation](https://www.makeviral.ai/templates/tweenslop-ai-trend): Your photo becomes a flat cut-out that zooms, squashes, spins and flies with a rainbow trail on every beat of a Brazilian funk track, with white, pink, purple and green flashes. You, your pet or any object.
-- [We Don't Talk Anymore Dance: Do the Viral Freestyle From One Photo](https://www.makeviral.ai/templates/we-dont-talk-anymore-dance-ai-trend): The sped-up "We Don't Talk Anymore" freestyle is all over TikTok. Add one photo, and you dance it on the trend's stage, barefoot on a driveway at night with your shoes in one hand, or your pet takes the stage.
+- [GTA 6 Loading Screen AI: Turn Your Photo Into a GTA Poster](https://www.makeviral.ai/templates/gta-6-loading-screen-ai): Add one photo and get your own GTA 6 loading screen: a painted crime-game poster of you in sunset colors, with palm trees, neon signs and a sports car. Same face, your own clothes, no logo.
+- [Jingle Bell Brazil Dance AI: Your Crew in the Viral Christmas Line Dance](https://www.makeviral.ai/templates/jingle-bell-brazil-dance-ai): Three dancers in Santa hats stand in a row under blue lights, then cross their arms, tap their chests and bounce in sync to a Brazilian funk Jingle Bell Rock. Add photos of you and two friends, one friend, just you, or your pet.
+- [Reaching Out Cat Trend: Put Your Pet in the Viral Clip](https://www.makeviral.ai/templates/reaching-out-cat-ai): A hand reaches up to the ceiling on "reaching out", then the cut, and the cat gets whisked out of the frame. Add one photo, and your cat, your dog or you sit in that spot, with the trend's sound. Your real pet never gets picked up.
+- [Dancing With Santa: Dance With Santa Claus From One Photo](https://www.makeviral.ai/templates/dance-with-santa-ai): Add one photo, and you dance side by side with Santa Claus on a red carpet between two lit Christmas trees: 15 seconds, the same steps, the same turns and the trend's own Santa song. Your pet can dance with Santa too, or bring your partner.
+- [You Rock My World Trend: Make the Couple Glow-Up Transition From 2 Photos](https://www.makeviral.ai/templates/you-rock-my-world-ai-trend): White T-shirts at home, a hand sweeps across the lens, and the two of you are dressed up somewhere else: on a garden terrace, in front of the iron tower in Paris, or there at night. Add a photo of each of you, or of two pets, and get the transition with the song.
+- [Tiger Transition: Your AI Glow-Up on "You Cannot Reason With a Tiger"](https://www.makeviral.ai/templates/tiger-transition-ai-trend): "You cannot reason with a tiger when your head is in its mouth!" Add one photo: you start plain, swipe a hand over the lens and come back in full glam hair and makeup, or in full tiger face paint, with the original sound.
 
 ## Make your own No Scrubs AI Dance video
 
