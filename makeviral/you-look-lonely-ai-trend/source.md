@@ -3,7 +3,7 @@
 > You look lonely, I can fix that is the line of a giant hologram that leans down to a lonely person in a rainy neon city.
 
 Canonical: https://www.makeviral.ai/templates/you-look-lonely-ai-trend
-Updated: 2026-10-17
+Updated: 2026-11-16
 Published: 2026-10-17
 Author: MakeViral Team (https://www.makeviral.ai/about)
 Publisher: MakeViral (https://www.makeviral.ai)
@@ -107,7 +107,7 @@ Settings: 1 photo (you, the giant, face clear) · Nano Banana 2.1 · photo · 2K
 1. Open [AI Photo with this template](https://www.makeviral.ai/photo?template=you-look-lonely-ai-trend&variant=wallpaper) and add your photo (you, the giant, face clear). Pick 2K for the same size as the one-tap photo. The photo prompt is filled in:
 
    ```text
-   Use the uploaded image as the base. A vertical cinematic shot in the style of a neon sci-fi noir film. A colossal holographic projection of the person from the uploaded image, keeping their exact outfit and appearance unchanged, but with a translucent purple digital texture. They are gigantic, lean down from the sky and reach out their index finger to touch a small silhouette of a stranger in a long dark coat, seen only from behind, who stands on a rainy futuristic bridge. Dramatic cyberpunk atmosphere, volumetric purple and violet neon lighting, wet surfaces, heavy rain, emotional connection, massive difference in scale, 8k resolution, photorealistic masterpiece. The stranger looks straight at the giant, with emphasis on the holographic effect of the giant. The giant's face is turned toward the camera, large, sharp and clear through the glow. Vertical 9:16. Exactly one giant and one small stranger. No text, no logos, no brand names, no readable signs, no watermark.
+   A colossal futuristic version of the person from the uploaded image, without changing the face or the facial features, rising above a neon-lit cyberpunk city at night, wearing a sleek high-tech bodysuit with glowing circuits in purple, pink and blue. The giant gently reaches one hand forward, pinching a tiny bright light between the fingertips, pointing at the silhouette, while a small human silhouette of a man stands on a bridge below, emphasizing the huge difference in scale. A cyberpunk city skyline in the background with skyscrapers, flying vehicles, holographic lights, a purple sky, atmospheric fog and cinematic lighting. An ultra-detailed face, realistic skin, expressive eyes, and the hair from the photo lit by neon reflections. Epic cinematic composition, shallow depth of field, volumetric lighting, dramatic perspective, a sci-fi fantasy mood, 4K ultra-high resolution, hyperrealistic digital art, concept art quality, no text, no watermark. Vertical 9:16 phone wallpaper. The giant stands behind the skyline, seen from the head down to the hips, the legs hidden by the towers and the fog; the head and shoulders are high above the tallest towers. A soft holographic glow along the edges of the giant. The bridge crosses the lower part of the image, and the man stands in its middle, seen from behind in a long dark coat, looking up at the giant, smaller than the giant's hand. The giant's face is turned toward the camera, large, sharp and clear. The giant wears only the glowing suit, never the clothes, jewelry or background from the photo. If the uploaded image shows an animal, the giant is that animal with its own face, fur and markings, in the same glowing suit. Exactly one giant and one small man. No text, no logos, no brand names, no readable signs, no watermark.
    ```
 
 2. Press Generate, then download the 9:16 image. To make it move, press "Make it a video" on it.
@@ -120,7 +120,7 @@ One-tap version of this variant: https://www.makeviral.ai/templates/you-look-lon
 
 - **A sharp face, turned to the camera**, in good light. The hologram's face fills the screen when it says the line, and the glow and the purple light make a clear face matter even more.
 - **One person per photo.** For the Duo, use two separate photos, not a photo of you together.
-- **You keep the clothes from your photo.** The hologram wears them in see-through purple light.
+- **In the videos you keep the clothes from your photo**, in see-through purple light. **The Wallpaper photo** dresses you in a glowing neon suit, like the example.
 - Use your own photo, or the photo of an adult who said yes. Never a celebrity, a stranger or a child.
 
 ## How many credits does it cost?
@@ -139,7 +139,7 @@ Credits come with a plan; see [pricing](https://www.makeviral.ai/pricing). A fai
 |---|---|---|
 | Duo | 2 | 12-second video. Photo 1 is the giant hologram, photo 2 stands on the rainy bridge, looks up, and hears "You look lonely. I can fix that." |
 | Solo | 1 | 10-second video. You are the giant hologram, and you say the line to a lonely stranger in a long coat, seen from behind. |
-| Wallpaper photo | 1 | A still, vertical 9:16: you as the giant hologram over a neon city, reaching a glowing finger to a small figure on a bridge. The January 2026 look, made for a phone or console screen. |
+| Wallpaper photo | 1 | A still, vertical 9:16: you as a giant in a glowing neon suit, taller than the towers of a cyberpunk city, with a tiny light at your fingertips that points at a small figure on a bridge. The January 2026 look of the example, made for a phone or console screen. |
 
 The videos are vertical 9:16 at 720p with their own sound: rain, a low city hum, a slow synth, and the hologram's soft voice. They are made straight from your photos with Seedance 2.5, so there is no in-between picture. The exact price shows on the Generate button before you spend anything.
 
@@ -178,7 +178,7 @@ Pick Duo or Solo, add your photo (photo 1 is the hologram), add photo 2 for the 
 
 ### What is the Blade Runner IA wallpaper?
 
-It is the January 2026 wave of this trend: a still of you as a giant cyberpunk hologram pointing a glowing finger at a small figure on a bridge, made as a phone or console wallpaper. The Blade Runner wallpaper version here makes that photo from one selfie. Spanish TikTok called it Blade Runner IA, the Blade Runner style photo or the fondo Blade Runner (a giant hologram wallpaper), with searches for Blade Runner foto IA, Blade Runner filtro IA and Blade Runner escena IA, and the Blade Runner AI tutorial posts passed 980,000 views.
+It is the January 2026 wave of this trend: a still of you as a giant in a glowing cyberpunk suit, a tiny light at your fingertips pointing at a small figure on a bridge, made as a phone or console wallpaper. The Blade Runner wallpaper version here makes that photo from one selfie. Spanish TikTok called it Blade Runner IA, the Blade Runner style photo or the fondo Blade Runner (a giant hologram wallpaper), with searches for Blade Runner foto IA, Blade Runner filtro IA and Blade Runner escena IA, and the Blade Runner AI tutorial posts passed 980,000 views.
 
 ### Do I need a Blade Runner AI prompt?
 
@@ -212,12 +212,12 @@ No. It is made with AI from still photos, and the city, the rain and the hologra
 
 ## New AI video trends this week
 
-- [GTA 6 Loading Screen AI: Turn Your Photo Into a GTA Poster](https://www.makeviral.ai/templates/gta-6-loading-screen-ai): Add one photo and get your own GTA 6 loading screen: a painted crime-game poster of you in sunset colors, with palm trees, neon signs and a sports car. Same face, your own clothes, no logo.
-- [Jingle Bell Brazil Dance AI: Your Crew in the Viral Christmas Line Dance](https://www.makeviral.ai/templates/jingle-bell-brazil-dance-ai): Three dancers in Santa hats stand in a row under blue lights, then cross their arms, tap their chests and bounce in sync to a Brazilian funk Jingle Bell Rock. Add photos of you and two friends, one friend, just you, or your pet.
-- [Reaching Out Cat Trend: Put Your Pet in the Viral Clip](https://www.makeviral.ai/templates/reaching-out-cat-ai): A hand reaches up to the ceiling on "reaching out", then the cut, and the cat gets whisked out of the frame. Add one photo, and your cat, your dog or you sit in that spot, with the trend's sound. Your real pet never gets picked up.
-- [Dancing With Santa: Dance With Santa Claus From One Photo](https://www.makeviral.ai/templates/dance-with-santa-ai): Add one photo, and you dance side by side with Santa Claus on a red carpet between two lit Christmas trees: 15 seconds, the same steps, the same turns and the trend's own Santa song. Your pet can dance with Santa too, or bring your partner.
-- [You Rock My World Trend: Make the Couple Glow-Up Transition From 2 Photos](https://www.makeviral.ai/templates/you-rock-my-world-ai-trend): White T-shirts at home, a hand sweeps across the lens, and the two of you are dressed up somewhere else: on a garden terrace, in front of the iron tower in Paris, or there at night. Add a photo of each of you, or of two pets, and get the transition with the song.
-- [Tiger Transition: Your AI Glow-Up on "You Cannot Reason With a Tiger"](https://www.makeviral.ai/templates/tiger-transition-ai-trend): "You cannot reason with a tiger when your head is in its mouth!" Add one photo: you start plain, swipe a hand over the lens and come back in full glam hair and makeup, or in full tiger face paint, with the original sound.
+- [What If You Fly Meme: Fall, Then Fly Above the Clouds](https://www.makeviral.ai/templates/what-if-you-fly-ai-trend): "What if you fall?" "Twin!" "What if you... FLY." Your bedroom floor drops away, you fall into the sky, take off on fire and fly over the sea and above the clouds. One photo of you or your pet, 15 seconds, with the original sound.
+- [My Moon My Man Trend: The AI Jesus Painting With You In It](https://www.makeviral.ai/templates/my-moon-my-man-ai-trend): Add one photo. MakeViral paints you into the soft oil painting of the my moon my man Jesus trend: you kneel to pick a small flower, and Jesus stands over you with a huge pastel bouquet hidden behind his back.
+- [Put The Rollie On My Wrist Trend, Starring You Two](https://www.makeviral.ai/templates/rollie-on-my-wrist-ai-trend): Add a photo of each of you. Our AI puts you both into the most viewed Put The Rollie On My Wrist reel: one carries the other across the shoulders, turns round, and the hidden one's face pops up in front, on the trend's sound.
+- [Whoville Character AI: The ChatGPT Whoville Trend From One Selfie](https://www.makeviral.ai/templates/whoville-ai-trend): Add one selfie. The AI keeps your face, smile and hair color, piles your hair up into tall Christmas curls with bows and candy canes, and puts you in a fur-trimmed outfit in a snowy town of crooked, glowing houses.
+- [Olly Olly Dance AI: Do the TikTok Dance From One Photo](https://www.makeviral.ai/templates/olly-olly-dance-ai-trend): A bounce, fist pumps, arms thrown wide, a side-step, then a sprint out of the frame: the TikTok dance on OLLY's beat. Add one photo of you or your pet and get the clip with the sound.
+- [King Jin AI Trend: Stand Still While the Whole Street Bows](https://www.makeviral.ai/templates/king-jin-ai-trend): One photo, and you are the boss of a neon Korean street at night: you stand still, the crowd in dark jackets bows deeply, and the camera pushes in on your calm stare. Or give the street to your dog or cat.
 
 ## Make your own You Look Lonely video
 

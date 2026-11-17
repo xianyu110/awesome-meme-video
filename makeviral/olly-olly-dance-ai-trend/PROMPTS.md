@@ -1,0 +1,54 @@
+# Olly Olly Dance AI: Do the TikTok Dance From One Photo
+
+- Source: [makeviral](https://www.makeviral.ai/templates/olly-olly-dance-ai-trend)
+- Slug: `olly-olly-dance-ai-trend`
+
+The Olly Olly dance is a short TikTok dance on a beat by the producer OLLY: you bounce, pump both fists, throw your arms wide, side-step, and keep dashing out of the frame and back.
+
+## Demo videos (CDN)
+
+- https://media.makeviral.ai/templates/olly-olly-dance-ai-trend/original-main-v2.mp4
+
+## Posters
+
+- https://media.makeviral.ai/templates/olly-olly-dance-ai-trend/original-main-v1.jpg
+
+## Prompts
+
+### 1. 1. The video prompt is filled in. Settings: kling-3-motion, 12 s, 720p, 9:16, sound off. The video prompt (Human)
+
+*Kind: video_prompt*
+
+```text
+Use the reference image as the sole character identity reference and the reference video as the motion reference. Animate exactly one adult dancer, in the place from the reference image. Preserve the person's recognizable face, hairstyle, skin tone, body proportions, outfit, shoes, and accessories throughout the video. Follow the reference dancer's movement order and timing: the person bounces, pumps both fists, throws the arms wide, side-steps, then sprints out of the frame, again and again on the beat. Do not invent additional moves.
+Matching the video second by second: 0-1.6 s close to the camera, a bounce with both fists pumping at the chest; 1.6-2.3 s the person has dashed out of the frame and the place stays empty; 2.3-3.9 s back in front of the camera, bouncing with both arms thrown out wide; 3.9-4.8 s out of the frame again; 4.8-6.4 s further back, turned away from the camera, the arms thrown wide and swung on the beat; 6.4-7.0 s out of the frame; 7.0-8.7 s facing the camera, side-steps left and right with the fists pumping; 8.7-9.4 s the person runs out of the frame to the right; 9.4-10.4 s a full sprint back across the frame from right to left; 10.4-12 s standing further back in the middle, bouncing on the beat.
+Keep the entire body visible from head to shoes whenever the person is in the frame, with enough space around both hands and feet. Follow the reference framing and camera. Maintain natural balance, stable ground contact, and consistent shadows. Keep the face recognizable during turns and the sprint. No extra dancers, duplicate bodies, extra limbs, fused fingers, outfit changes, text, or watermark. Use a vertical 9:16 reference and output when supported.
+No black zip hoodie, no black wide-leg trousers, no long dark hair and no pink scarf unless the reference image shows them. The friend who dances at the back of the video is never copied: exactly one person.
+```
+
+### 2. 1. The video prompt is filled in. Settings: Seedance 2.5, 12 s, 720p, 9:16, sound off. The video prompt (Pet)
+
+*Kind: video_prompt*
+
+```text
+Recreate the reference video [Video 1] shot for shot: the same empty parking lot at night with the white parking lines, the row of lit shops along the back and the dark sky, the same fixed phone camera, framing, timing, cuts and dance moves. The ONLY change: the woman with long dark hair in the black zip hoodie and black wide-leg trousers who dances in front of the camera and runs in and out of the frame is now the pet in [Image 1]. [Image 1] is the sole look reference for the pet; [Video 1] is for the moves, the place and the camera only.
+
+The dancer = the pet in [Image 1], whole body, in EVERY shot where the dancer is in the frame: the same species and breed, head shape, muzzle, eyes, ears, fur colors, fur length and markings as in [Image 1], with the natural body volume and proportions of that animal: never flattened, squashed, stretched or merged with anything, so its owner instantly recognizes it. It stands upright on its hind legs like a person while it dances. A dog stays a dog and a cat stays a cat. No hoodie, no trousers, no pink scarf and no clothes unless [Image 1] shows them, no human face, no human hands. Never drift back to the woman of the original video.
+
+The friend in the black T-shirt and grey trousers who dances at the back from 4.8 to 6.4 s stays exactly as in the video and never takes the look of [Image 1].
+
+Keep every move in time with the beat: the bounce, both front paws pumped at the chest like fists, the front legs thrown out wide, the side-steps and the sprint out of the frame. Matching the reference second by second:
+0-1.6 s: close to the camera, it bounces on its hind legs with both front paws pumping at the chest.
+1.6-2.3 s: the frame is empty: the pet has dashed out.
+2.3-3.9 s: back in front of the camera, bouncing with both front legs thrown out wide.
+3.9-4.8 s: the frame is empty again.
+4.8-6.4 s: further back, its back to the camera, the front legs thrown wide and swung on the beat, next to the friend.
+6.4-7.0 s: the frame is empty.
+7.0-8.7 s: facing the camera, side-steps left and right with the paws pumping.
+8.7-9.4 s: it runs out of the frame to the right.
+9.4-10.4 s: it sprints back across the whole frame from right to left, ears and fur flying.
+10.4-12 s: it stands further back in the middle of the lot and bounces on the beat.
+
+Anatomy rules: one head only, one tail. Two hind legs and two front legs, furry paws covered in the pet's own fur, never human hands or fingers, no extra legs or paws. Exactly one animal; the only person is the friend at the back. No text, no captions, no logos, no watermark.
+```
+

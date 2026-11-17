@@ -6,7 +6,7 @@
   "url": "https://www.makeviral.ai/templates/you-look-lonely-ai-trend",
   "markdown_url": "https://www.makeviral.ai/templates/you-look-lonely-ai-trend.md",
   "blurb": "You look lonely, I can fix that is the line of a giant hologram that leans down to a lonely person in a rainy neon city.",
-  "updated": "2026-10-17",
+  "updated": "2026-11-16",
   "published": "2026-10-17",
   "credits": 152,
   "demo_videos": [
@@ -32,7 +32,7 @@
       "label": null,
       "variant": null,
       "kind": "prompt",
-      "text": "Use the uploaded image as the base. A vertical cinematic shot in the style of a neon sci-fi noir film. A colossal holographic projection of the person from the uploaded image, keeping their exact outfit and appearance unchanged, but with a translucent purple digital texture. They are gigantic, lean down from the sky and reach out their index finger to touch a small silhouette of a stranger in a long dark coat, seen only from behind, who stands on a rainy futuristic bridge. Dramatic cyberpunk atmosphere, volumetric purple and violet neon lighting, wet surfaces, heavy rain, emotional connection, massive difference in scale, 8k resolution, photorealistic masterpiece. The stranger looks straight at the giant, with emphasis on the holographic effect of the giant. The giant's face is turned toward the camera, large, sharp and clear through the glow. Vertical 9:16. Exactly one giant and one small stranger. No text, no logos, no brand names, no readable signs, no watermark."
+      "text": "A colossal futuristic version of the person from the uploaded image, without changing the face or the facial features, rising above a neon-lit cyberpunk city at night, wearing a sleek high-tech bodysuit with glowing circuits in purple, pink and blue. The giant gently reaches one hand forward, pinching a tiny bright light between the fingertips, pointing at the silhouette, while a small human silhouette of a man stands on a bridge below, emphasizing the huge difference in scale. A cyberpunk city skyline in the background with skyscrapers, flying vehicles, holographic lights, a purple sky, atmospheric fog and cinematic lighting. An ultra-detailed face, realistic skin, expressive eyes, and the hair from the photo lit by neon reflections. Epic cinematic composition, shallow depth of field, volumetric lighting, dramatic perspective, a sci-fi fantasy mood, 4K ultra-high resolution, hyperrealistic digital art, concept art quality, no text, no watermark. Vertical 9:16 phone wallpaper. The giant stands behind the skyline, seen from the head down to the hips, the legs hidden by the towers and the fog; the head and shoulders are high above the tallest towers. A soft holographic glow along the edges of the giant. The bridge crosses the lower part of the image, and the man stands in its middle, seen from behind in a long dark coat, looking up at the giant, smaller than the giant's hand. The giant's face is turned toward the camera, large, sharp and clear. The giant wears only the glowing suit, never the clothes, jewelry or background from the photo. If the uploaded image shows an animal, the giant is that animal with its own face, fur and markings, in the same glowing suit. Exactly one giant and one small man. No text, no logos, no brand names, no readable signs, no watermark."
     }
   ],
   "variant_headings": [
@@ -48,5 +48,5 @@
     "Make your own You Look Lonely video"
   ],
   "prompt_count": 3,
-  "scraped_at": "2026-11-16"
+  "scraped_at": "2026-11-17"
 }

@@ -27,4 +27,4 @@ Inventory, README tables, PROMPTS.md, and the Pages gallery are sorted **newest 
 `published` → else `updated`. **Never** use `scraped_at` as the listing date.
 If a source has no public publish/update date, display **unknown** (sort to the end).
 
-Synced 2026-11-16T09:25:57+08:00 (Asia/Shanghai) for the awesome-meme-video inventory.
+Synced 2026-11-17T09:30:36+08:00 (Asia/Shanghai) for the awesome-meme-video inventory.

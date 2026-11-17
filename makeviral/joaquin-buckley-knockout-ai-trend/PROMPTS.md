@@ -1,0 +1,88 @@
+# Joaquin Buckley Kick AI: Land the Spinning Back Kick Knockout
+
+- Source: [makeviral](https://www.makeviral.ai/templates/joaquin-buckley-knockout-ai-trend)
+- Slug: `joaquin-buckley-knockout-ai-trend`
+
+The Joaquin Buckley kick is the caught-kick, leaping spinning back kick that knocked an opponent out cold in a UFC cage in October 2020, and the clip is all over TikTok again in 2026.
+
+## Demo videos (CDN)
+
+- https://media.makeviral.ai/templates/joaquin-buckley-knockout-ai-trend/original-ko-v2.mp4
+
+## Posters
+
+- https://media.makeviral.ai/templates/joaquin-buckley-knockout-ai-trend/original-ko-v1.jpg
+
+## Prompts
+
+### 1. 1. The video prompt is filled in. Settings: Seedance 2.5, 12 s, 720p, 9:16, sound on. The video prompt
+
+*Kind: video_prompt*
+
+```text
+Make the person from [Image 1] fight: the famous spinning back kick knockout, filmed like a real televised cage-fight highlight.
+[Image 1] is the sole face reference for FIGHTER 1.
+FIGHTER 1 (the winner, on the LEFT) = the person in [Image 1], in every frame: copy the exact face from [Image 1] (the face shape, eye color and eye shape, eyebrows, nose, mouth, skin tone, age, hair color, hair length and hairstyle, and any beard, moustache, glasses or freckles), and the gender, age, skin tone and build of [Image 1], as a fit fighter: fight shorts in the main color of the clothes in [Image 1], small black fingerless gloves, barefoot; a man shirtless, a woman in a plain sports top. FIGHTER 1 is an adult: if [Image 1] shows a child, make an adult stranger with only the same hair color and skin tone. If [Image 1] shows an animal, FIGHTER 1 is that animal standing upright at fighter height, with its own face, fur and markings.
+The same real person from the first frame to the last, so their friends recognize them at once. Never drift to another face.
+The OPPONENT (on the RIGHT): an unnamed adult fighter of the same gender as FIGHTER 1, in dark blue shorts, who looks nothing like [Image 1].
+
+Style: photoreal, like a real televised cage-fight highlight, bright arena light. Not a cartoon.
+Setting: a brightly lit eight-sided cage, black chain-link walls, a plain light gray canvas, a dark arena with a big crowd. Add a short spray of sweat drops when the heel lands.
+
+The movements, in three shots, 12 seconds:
+Shot 1 [0-5 s]: a wide shot through the cage at chest height, both full bodies in view, camera still. FIGHTER 1 on the LEFT, the OPPONENT on the RIGHT, in fighting stances. 0-1.2 s: FIGHTER 1 throws a body kick; the OPPONENT catches the leg under one arm. 1.2-2.4 s: hopping on the standing leg, FIGHTER 1 leaps, spins in the air and whips the free leg round in a spinning back kick: the heel lands on the side of the OPPONENT's jaw, a stage kick seen only in this wide shot. 2.4-5 s: the OPPONENT goes stiff and falls flat on the back, out cold for a moment. FIGHTER 1 lands and turns away.
+Shot 2 [5-7.5 s]: hard cut, a high wide angle: the referee, an adult man in black, rushes in, kneels by the OPPONENT and waves the fight off. FIGHTER 1 walks away behind them.
+Shot 3 [7.5-12 s]: hard cut, a medium tracking shot from the knees up: FIGHTER 1 walks toward the camera with a cold, calm stare, then at 10 s stops, throws both arms wide and roars at the crowd, the face big and sharp: the exact face from [Image 1].
+
+Staged: no blood, no cuts, no bruises, no close-up of the impact. The fallen fighter is dazed and fine.
+Audio: a roaring crowd, the slap of the kick, a thud on the canvas, the referee shouting "Stop! Stop!", an excited male commentator: "Spinning back kick! It's all over!" No other dialogue. No background music.
+Two fighters and one referee in the cage. One head, two arms, two legs and five fingers per hand each. No logos, no brand names, no letters or numbers anywhere, no on-screen graphics, no caption, no watermark.
+```
+
+### 2. 1. The video prompt is filled in. Settings: Seedance 2.5, 12 s, 720p, 9:16, sound on. The video prompt
+
+*Kind: video_prompt*
+
+```text
+Make the people from [Image 1] and [Image 2] fight: the famous spinning back kick knockout, filmed like a real televised cage-fight highlight.
+[Image 1] is the sole face reference for FIGHTER 1 (LEFT); [Image 2] for the OPPONENT (RIGHT).
+FIGHTER 1 (the winner, on the LEFT) = the person in [Image 1], in every frame: copy the exact face from [Image 1] (the face shape, eye color and eye shape, eyebrows, nose, mouth, skin tone, age, hair color, hair length and hairstyle, and any beard, moustache, glasses or freckles), and the gender, age, skin tone and build of [Image 1], as a fit fighter: fight shorts in the main color of the clothes in [Image 1], small black fingerless gloves, barefoot; a man shirtless, a woman in a plain sports top. FIGHTER 1 is an adult: if [Image 1] shows a child, make an adult stranger with only the same hair color and skin tone. If [Image 1] shows an animal, FIGHTER 1 is that animal standing upright at fighter height, with its own face, fur and markings.
+The OPPONENT (on the RIGHT) = the person in [Image 2], in every frame, the same rules with [Image 2].
+Never blend or swap the two faces: each stays the same from the first frame to the last, also in the spin and the fall, so their friends recognize them at once.
+
+Style: photoreal, like a real televised cage-fight highlight, bright arena light. Not a cartoon.
+Setting: a brightly lit eight-sided cage, black chain-link walls, a plain light gray canvas, a dark arena with a big crowd. Add a short spray of sweat drops when the heel lands.
+
+The movements, in three shots, 12 seconds:
+Shot 1 [0-5 s]: a wide shot through the cage at chest height, both full bodies in view, camera still. FIGHTER 1 on the LEFT, the OPPONENT on the RIGHT, in fighting stances. 0-1.2 s: FIGHTER 1 throws a body kick; the OPPONENT catches the leg under one arm. 1.2-2.4 s: hopping on the standing leg, FIGHTER 1 leaps, spins in the air and whips the free leg round in a spinning back kick: the heel lands on the side of the OPPONENT's jaw, a stage kick seen only in this wide shot. 2.4-5 s: the OPPONENT goes stiff and falls flat on the back, dazed, the face from [Image 2] in view. FIGHTER 1 lands and turns away.
+Shot 2 [5-7.5 s]: hard cut, a high wide angle: the referee, an adult man in black, rushes in, kneels by the OPPONENT and waves the fight off. FIGHTER 1 walks away behind them.
+Shot 3 [7.5-12 s]: hard cut, a medium tracking shot from the knees up: FIGHTER 1 walks toward the camera with a cold, calm stare, then at 10 s stops, throws both arms wide and roars at the crowd, the face big and sharp: the exact face from [Image 1]. Behind, the OPPONENT sits up, dazed and fine.
+
+Staged: no blood, no cuts, no bruises, no close-up of the impact. The fallen fighter is dazed and fine.
+Audio: a roaring crowd, the slap of the kick, a thud on the canvas, the referee shouting "Stop! Stop!", an excited male commentator: "Spinning back kick! It's all over!" No other dialogue. No background music.
+Two fighters and one referee in the cage. One head, two arms, two legs and five fingers per hand each. No logos, no brand names, no letters or numbers anywhere, no on-screen graphics, no caption, no watermark.
+```
+
+### 3. 1. The video prompt is filled in. Settings: Seedance 2.5, 12 s, 720p, 9:16, sound on. The video prompt (Pet)
+
+*Kind: video_prompt*
+
+```text
+Make the pet from [Image 1] fight: the famous spinning back kick knockout, filmed like a real televised cage-fight highlight, with a pet as the winner.
+[Image 1] is the sole reference for FIGHTER 1.
+FIGHTER 1 (the winner, on the LEFT) = the pet in [Image 1], in every frame: the same species, breed, face, eyes, ears, muzzle, fur colors, fur length and markings, with the natural body volume of that animal, never flattened or stretched. Grown to adult fighter size, it fights upright on its hind legs like a pro, in tiny black fight shorts, small black gloves on its front paws. Animal paws, no human hands or face, never a person in a costume. The same pet in every frame, so its owner knows it at once. If [Image 1] shows a person, FIGHTER 1 is that adult person with the exact face from [Image 1].
+The OPPONENT (on the RIGHT): an unnamed adult male fighter in dark blue shorts.
+
+Style: photoreal, like a real televised cage-fight highlight, bright arena light. Not a cartoon.
+Setting: a brightly lit eight-sided cage, black chain-link walls, a plain light gray canvas, a dark arena with a big crowd. Add a short spray of sweat drops when the heel lands.
+
+The movements, in three shots, 12 seconds:
+Shot 1 [0-5 s]: a wide shot through the cage at chest height, both full bodies in view, camera still. FIGHTER 1 on the LEFT, the OPPONENT on the RIGHT, in fighting stances. 0-1.2 s: FIGHTER 1 throws a body kick with a hind leg; the OPPONENT catches the leg under one arm. 1.2-2.4 s: hopping on the standing leg, FIGHTER 1 leaps, spins in the air and whips the free leg round in a spinning back kick: the hind paw lands on the side of the OPPONENT's jaw, a stage kick seen only in this wide shot. 2.4-5 s: the OPPONENT goes stiff and falls flat on the back in a comic fall, out cold for a moment. FIGHTER 1 lands and turns away.
+Shot 2 [5-7.5 s]: hard cut, a high wide angle: the referee, an adult man in black, rushes in, kneels by the OPPONENT and waves the fight off. FIGHTER 1 walks away behind them.
+Shot 3 [7.5-12 s]: hard cut, a medium tracking shot from the knees up: FIGHTER 1 walks toward the camera with a cold, calm stare, then at 10 s stops, throws both front paws up and roars at the crowd, the face big and sharp: the exact face, ears and fur of the pet in [Image 1].
+
+Staged: no blood, no cuts, no bruises, no close-up of the impact. The fallen fighter is dazed and fine.
+Audio: a roaring crowd, the slap of the kick, a thud on the canvas, the referee shouting "Stop! Stop!", an excited male commentator: "Spinning back kick! It's all over!" No other dialogue. No background music.
+Two fighters and one referee in the cage. The pet: one head, four limbs, its own tail. The people: one head, two arms, two legs each. No logos, no brand names, no letters or numbers anywhere, no on-screen graphics, no caption, no watermark.
+```
+

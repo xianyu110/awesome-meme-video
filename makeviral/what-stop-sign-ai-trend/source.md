@@ -3,18 +3,18 @@
 > The stop sign what stop sign meme is a night traffic stop on a police body camera: the driver asks why he was stopped, mishears the officer's "I'm about to tell you" and says "Stop sign?
 
 Canonical: https://www.makeviral.ai/templates/what-stop-sign-ai-trend
-Updated: 2026-10-27
+Updated: 2026-11-16
 Published: 2026-10-21
 Author: MakeViral Team (https://www.makeviral.ai/about)
 Publisher: MakeViral (https://www.makeviral.ai)
 
-The **stop sign what stop sign** meme is a night traffic stop on a police body camera: the driver asks why he was stopped, mishears the officer's "I'm about to tell you" and says "Stop sign? What stop sign, man?". This template makes a new AI version of the scene from one photo of you, or of your pet.
+The **stop sign what stop sign** meme is a night traffic stop on a police body camera: the driver asks why he was stopped, mishears the officer's "I'm about to tell you" and says "Stop sign? What stop sign, man?". This template puts you, or your pet, into the viral AI version of the scene, from one photo.
 
-Pulled over at night, you ask why, mishear the officer and answer "Stop sign? What stop sign, man?" with the most innocent face. A new AI bodycam scene made from your photo, or with your dog or cat at the wheel.
+Pulled over at night, you ask why, and you mishear the officer: "Stop sign?" The viral AI bodycam clip with your face, or with your dog or cat at the wheel, and the meme's own sound.
 
 Also called: Stop sign? What stop sign?, What Stop Sign Man filter, Why you stopping me meme, Stop sign old man.
 
-**Make it now:** [Make this video](https://www.makeviral.ai/templates/what-stop-sign-ai-trend/create). 1 photo · 10 s · 9:16 with sound · 126 credits, charged once · ready in a few minutes · no prompt to write.
+**Make it now:** [Make this video](https://www.makeviral.ai/templates/what-stop-sign-ai-trend/create). 1 photo · 12 s · 9:16 with sound · 183 credits, charged once · ready in up to several minutes · no prompt to write.
 
 Keyword: stop sign what stop sign. Also answers: what stop sign, stop sign meme, what stop sign ai, what stop sign meme, stop sign meme ai, what stop sign man, stop sign what stop sign meme, stop sign what stop sign man, what stop sign trend, what stop sign video, stop sign meme script, stop sign video, stop sign what stop sign meme meaning, stop sign original video, stop sign guy meme, stop sign traffic stop meme, stop sign what stop sign copypasta, stop sogn meme, what is the stop sign meme, huh stop sign, stop sign trend, stop sign what stop sign script, stop sign meme video, stop sign what stop sign original, why you stopping me stop sign, stop sign mem, stop sign man what stop sign, stop sign what stop sign man meme, stopsign meme, what stop sign guy, a stop sign what stop sign, meme stop sign, original stop sign video, police stop sign meme, stop sign guy, stop sign video funny, stopsign what stop sign, what is stop sign meme, what stop sign meme meaning, huh stop sign meme, stop sign ai, stop sign police meme, what stop sign tiktok, what stop sign gif, stop sign ai video, why you stopping me, what stop sign ai video, what stop sign ai trend, stop sign ai meme, stop sign ai trend, what stop sign original video, what stop sign meme video, what stop sign meaning, what stop sign meme explained, what stop sign meme origin, what stop sign meme tiktok, stop sign what stop sign tiktok, stop sign meme gif, what stop sign meme gif, stop sign meme guy, what stop sign man meme, stop sign old man meme, tell me why you stopping me, stop sign meme generator, what stop sign filter, what stop sign capcut template, what stop sign dog, stop sign dog meme, what stop sign cat, dog pulled over meme, ai bodycam video, ai traffic stop video.
 
@@ -48,33 +48,32 @@ Everything runs in the browser. No editing app, no watermark.
 ### The one-tap way (no prompt to write)
 
 1. **Add your photo.** Press "Make yours" and add you, face clear. Take it with the camera or pick it from your library. Start here: https://www.makeviral.ai/templates/what-stop-sign-ai-trend/create
-2. **Press Generate.** The button shows the price. Seedance 2.5 films the Stop Sign? What Stop Sign? scene straight from your photo, with no in-between picture, for 10 seconds with original sound. You write no prompt.
-3. **Download or share.** The video is ready in a few minutes as a 9:16 MP4. Download it, share it from your phone, or find it later in My videos.
+2. **Press Generate.** The button shows the price. Seedance 2.5 puts your photos into the Stop Sign? What Stop Sign? trend clip and copies it shot by shot for 12 seconds, with the reel's original song. You write no prompt.
+3. **Download or share.** The video is ready in up to several minutes as a 9:16 MP4. Download it, share it from your phone, or find it later in My videos.
 
 ### The by-hand way, with the exact prompts
 
-The one-tap flow runs this prompt for you. The video model takes your photo as a reference ([Image 1]) and films the scene straight from it, with no photo step first. AI Video takes one photo as the first frame, so it cannot run this prompt the same way: the prompt is here to read.
+The one-tap flow runs this prompt for you. The video prompt animates your own photo directly. To change it, copy it and edit it in AI Video.
 
 #### Variant: Human
 
-Settings: 1 photo (you, face clear) · Seedance 2.5 · 10 s · 720p · 9:16 · with sound · 126 credits in one tap.
+Settings: 1 photo (you, face clear) · Seedance 2.5 · 12 s · 720p · 9:16 · no sound · 183 credits in one tap.
 
-1. The video prompt is filled in. Settings: Seedance 2.5, 10 s, 720p, 9:16, sound on. The video prompt:
+1. The video prompt is filled in. Settings: Seedance 2.5, 12 s, 720p, 9:16, sound off. The video prompt:
 
    ```text
-   Create a fictional vertical 9:16 nighttime traffic-stop comedy from a human-height bodycam-style view beside a stopped plain silver four-door sedan with no badge, emblem or lettering. An adult officer's shoulder and black-gloved hand occupy one edge; the officer's face never shows. The driver sits at the wheel behind the open side window. Handheld, slightly shaky body camera footage with a wide, slightly curved lens, red and blue lights from a patrol car parked far behind washing over the car, a dark, empty road shoulder and a few street lights.
-THE DRIVER IS the person in [Image 1], with the same face, hair, age, build and clothes, in every shot: copy the exact face from [Image 1] (the face shape, eye color and eye shape, eyebrows, nose, mouth, skin tone, age, hair color, hair length and hairstyle, and any beard, moustache, glasses or freckles), so their friends recognize them at once. The face shows large and sharp through the open window. The same real person from the first frame to the last; never morph. If [Image 1] shows an animal, the driver is that animal sitting upright at the wheel, with its own face, fur and markings.
+   Recreate the reference video [Video 1] shot for shot: the same night traffic stop seen on a police body camera, one handheld take with no cuts, the same wide curved lens, low light, soft grain and dark edges, the same red and blue lights of a patrol car far behind, the same silver car and open driver's window, the same camera walk-up along the car, the same framing, timing and moves. The ONLY change: the small dog in the grey hoodie at the wheel is now the person in [Image 1], an adult human driver.
 
-[00:00-00:02] Begin with the officer walking up to the open driver's window; the driver turns to the camera.
-[00:02-00:04] The driver, puzzled and polite, says: "Can you please tell me why you stopping me?" The officer, off screen, answers calmly: "I'm about to tell you."
-[00:04-00:07] The driver squints and leans toward the camera as if mishearing, and asks: "Huh? Stop sign?" The officer says: "No."
-[00:07-00:10] The driver throws both open palms up with a completely confused, innocent face, eyebrows high: "What stop sign, man?" Then holds that baffled look into the lens.
+The driver = the person in [Image 1], in EVERY frame: copy the exact face from [Image 1] (the face shape, eye color and eye shape, eyebrows, nose, mouth, skin tone, age, hair color, hair length and hairstyle, and any beard, moustache, glasses or freckles). A full-size adult with a human head, human shoulders and two human hands, sitting at the wheel where the dog sits in the video. The driver wears the clothes from [Image 1]: NO grey hoodie and NO hood unless [Image 1] shows one, so the hair shows. NO dog: no snout, no fur, no dog ears. Never drift back to the dog. The same real person from the first frame to the last, so their friends recognize them at once; never morph.
 
-Keep the driver seated, the officer clear of the vehicle and the background stable. A light comedy: the driver is confused, never angry, never scared. Sound: night road ambience, a soft crackle of a police radio, the officer's calm voice off screen and the driver's puzzled voice, each line once, clear and in this order. No music. Only the officer and the driver speak.
+The moves, matching the reference second by second (the video's own sound goes back on after, so the head and the mouth move exactly when they move in [Video 1]):
+0-1.5 s: the camera walks up along the driver's side of the car; the driver at the wheel turns toward the window.
+1.5-5 s: at the open window the driver looks into the lens, puzzled, and talks.
+5-6.5 s: the driver leans in close to the lens and squints, as if mishearing.
+6.5-9.5 s: the driver sits back and listens with a confused, innocent face.
+9.5-11.3 s: in the flashlight glare the driver holds up a plain white paper with no writing and asks one more time, baffled.
 
-真人实拍、五官清晰、面部稳定、不扭曲、不变形、人体结构正常、比例自然、同一角色、服装一致、发型不变.
-
-No arrest, handcuffs, chase, weapons, alcohol, bottles or cans, collisions or injury. No police insignia, badge text, patches, department names or any writing on the uniform or the patrol car. No on-screen text of any kind: no date, time, camera name, serial number, timestamps, captions, subtitles or watermark. No badge or readable number plate on any car, no road signs in view. No other people. This is staged AI parody.
+Keep the officer off screen, as in the video. One person in the car: no passenger, no animal, nobody else from the photo. If [Image 1] shows several people, the driver is only the main, largest face. Anatomy: one head, two arms, five fingers on each hand. No text of any kind: no timestamp, no camera name, no caption, no watermark, no police badge, patch or lettering, no readable number plate, no road signs. No arrest, no weapons. This is staged AI parody.
    ```
 
 2. Press Generate, then download the 9:16 MP4.
@@ -83,22 +82,23 @@ One-tap version of this variant: https://www.makeviral.ai/templates/what-stop-si
 
 #### Variant: Pet
 
-Settings: 1 photo (your pet, face clear) · Seedance 2.5 · 10 s · 720p · 9:16 · with sound · 126 credits in one tap.
+Settings: 1 photo (your pet, face clear) · Seedance 2.5 · 12 s · 720p · 9:16 · no sound · 183 credits in one tap.
 
-1. The video prompt is filled in. Settings: Seedance 2.5, 10 s, 720p, 9:16, sound on. The video prompt:
+1. The video prompt is filled in. Settings: Seedance 2.5, 12 s, 720p, 9:16, sound off. The video prompt:
 
    ```text
-   Create a fictional vertical 9:16 nighttime traffic-stop comedy from a human-height bodycam-style view beside a stopped plain silver four-door sedan with no badge, emblem or lettering. An adult officer's shoulder and black-gloved hand occupy one edge; the officer's face never shows. The driver sits at the wheel behind the open side window. Handheld, slightly shaky body camera footage with a wide, slightly curved lens, red and blue lights from a patrol car parked far behind washing over the car, a dark, empty road shoulder and a few street lights.
-THE DRIVER IS the pet in [Image 1], in every shot: the same species and breed, face, eyes, ears, muzzle, fur colors, fur length and markings as in [Image 1], with the natural body volume and proportions of that animal: never flattened, squashed, stretched or merged with anything. Its owner recognizes it at once. It sits upright at the wheel like a person, front paws on the wheel, and wears a plain grey hoodie with the hood down, so its ears show. It speaks the driver's lines in a deep, relaxed adult man's voice, like the puzzled driver in the original meme, never a high-pitched, squeaky, childlike or female voice: it keeps its own animal face, teeth and tongue, only its mouth moves with the words. The face shows large and sharp through the open window.
+   Recreate the reference video [Video 1] shot for shot: the same night traffic stop seen on a police body camera, one handheld take with no cuts, the same wide curved lens, low light, soft grain and dark edges, the same red and blue lights of a patrol car far behind, the same silver car and open driver's window, the same camera walk-up along the car, the same framing, timing and moves. The ONLY change: the tan Chihuahua in the grey hoodie at the wheel is now the pet in [Image 1].
 
-[00:00-00:02] Begin with the officer walking up to the open driver's window; the driver turns to the camera.
-[00:02-00:04] The driver, puzzled and polite, says: "Can you please tell me why you stopping me?" The officer, off screen, answers calmly: "I'm about to tell you."
-[00:04-00:07] The driver squints and leans toward the camera as if mishearing, and asks: "Huh? Stop sign?" The officer says: "No."
-[00:07-00:10] The pet lifts both front paws off the wheel with a completely confused, innocent face, eyebrows high: "What stop sign, man?" Then holds that baffled look into the lens.
+The driver = the pet in [Image 1], in EVERY frame: the same species and breed, face, eyes, ears, muzzle, fur colors, fur length and markings as in [Image 1], with the natural body volume and proportions of that animal: never flattened, squashed, stretched or merged with anything. It sits upright at the wheel in the same grey hoodie with the hood up, as in the video; the whole face, both eyes and the muzzle stay in view, and its own ears may stick out of the hood. NO tan Chihuahua: never drift back to the original dog's face, coat or big pointed ears unless [Image 1] shows them. Its owner recognizes it at once, from the first frame to the last.
 
-Keep the driver seated, the officer clear of the vehicle and the background stable. A light comedy: the driver is confused, never angry, never scared. Sound: night road ambience, a soft crackle of a police radio, the officer's calm voice off screen and the driver's puzzled voice, each line once, clear and in this order. No music. Only the officer and the driver speak.
+The moves, matching the reference second by second (the video's own sound goes back on after, so the head and the mouth move exactly when they move in [Video 1]):
+0-1.5 s: the camera walks up along the driver's side of the car; the pet at the wheel turns toward the window.
+1.5-5 s: at the open window the pet looks into the lens, puzzled, and its mouth opens and closes as if it talks.
+5-6.5 s: the pet leans in close to the lens and squints, as if mishearing.
+6.5-9.5 s: the pet sits back and listens with a confused, innocent face.
+9.5-11.3 s: in the flashlight glare the pet holds up a plain white paper with no writing in its front paws and looks baffled.
 
-One animal at the wheel, one head, four legs and one tail, no human hands or human body parts on the pet. Avoid: a cartoon look, a plush toy, extra animals, morphing. No arrest, handcuffs, chase, weapons, alcohol, bottles or cans, collisions or injury. No police insignia, badge text, patches, department names or any writing on the uniform or the patrol car. No on-screen text of any kind: no date, time, camera name, serial number, timestamps, captions, subtitles or watermark. No badge or readable number plate on any car, no road signs in view. No other people. This is staged AI parody.
+Keep the officer off screen, as in the video. One animal at the wheel: one head, four legs and one tail, its own paws, no human hands or human body parts on the pet, no other animals, no people in the car. Avoid a cartoon look or a plush toy. No text of any kind: no timestamp, no camera name, no caption, no watermark, no police badge, patch or lettering, no readable number plate, no road signs. No arrest, no weapons. This is staged AI parody.
    ```
 
 2. Press Generate, then download the 9:16 MP4.
@@ -107,9 +107,9 @@ One-tap version of this variant: https://www.makeviral.ai/templates/what-stop-si
 
 ### Which photo works best?
 
-**Human:** one photo of you, face to the camera, sharp and in good light. Your face is big in the car window, so a clear face matters most. You keep your own hair and clothes.
+**Human:** one photo of you, face to the camera, sharp and in good light. Your face is in the car window on a dark body camera, so a sharp, front-facing photo in good light matters most. You keep your own hair and clothes.
 
-- **Pet:** a clear photo of your dog or cat with the whole head, the eyes and the ears in view. Your pet gets a plain grey hoodie, hood down, and sits at the wheel like a person.
+- **Pet:** a clear photo of your dog or cat with the whole head, the eyes and the ears in view. Your pet gets a grey hoodie with the hood up, like the original dog, and sits at the wheel like a person; its face stays in view.
 - **One person or one pet per photo.** No sunglasses or hat over the eyes: the joke is the confused face.
 - Use your own photo or a photo of an adult who said yes. Never a stranger, a celebrity or a child.
 
@@ -119,7 +119,7 @@ You pay per video in credits, and the create page shows the exact price on the G
 
 | Video model | Settings | Credits |
 | --- | --- | --- |
-| Seedance 2.5 (this template) | 10 s, 720p, straight from your photos, one tap | 126 |
+| Seedance 2.5 (this template) | 12 s, 720p, copies the trend clip, one tap | 183 |
 
 Credits come with a plan; see [pricing](https://www.makeviral.ai/pricing). A failed video gives its credits back.
 
@@ -127,33 +127,34 @@ Credits come with a plan; see [pricing](https://www.makeviral.ai/pricing). A fai
 
 | Version | Photos | What you get |
 |---|---|---|
-| Human | 1 | 10-second video. A body camera walks up to your car window at night, you ask why you were stopped, mishear the officer and answer "Stop sign? What stop sign, man?" with both hands up and a completely innocent face. |
-| Pet | 1 | 10-second video. The same stop with your dog or cat at the wheel in a grey hoodie: your pet asks the questions and gives the baffled look. |
+| Human | 1 | 11-second video. A body camera walks up to your car window at night, you ask why you were stopped, mishear the officer's "I'm about to" as "Stop sign?", lean in, and hold up a paper at the end. |
+| Pet | 1 | 11-second video. The same stop with your dog or cat at the wheel in a grey hoodie with the hood up: your pet leans in, gives the baffled look and holds up the paper. |
 
-Both are vertical 9:16 at 720p, made straight from your photo with the best AI video models available, so there is no in-between picture. They come with sound: the officer's calm voice off screen and the driver's puzzled voice, made by the AI, never the real clip's audio. The car is a plain silver sedan with no badge, and there is no text on the picture. The exact price shows on the Generate button before you spend anything.
+Both are vertical 9:16 at 720p: your face or pet put into the viral AI clip with the best AI video models available, in one dark, grainy body camera take. They come with the meme's own sound, the same audio as the viral AI dog clip and the CapCut template; you can turn it off on the result screen. The car is a plain silver sedan with no badge, and there is no text on the picture. The exact price shows on the Generate button before you spend anything.
 
 ## What happens in the video, second by second?
 
 | Time | What happens |
 |---|---|
-| 0-2 s | The officer walks up to your open window; only a shoulder and a black glove are in view. You turn to the camera. |
-| 2-4 s | You ask: "Can you please tell me why you stopping me?" The officer: "I'm about to tell you." |
-| 4-7 s | You squint and lean in: "Huh? Stop sign?" The officer: "No." |
-| 7-10 s | Both hands up, eyebrows high: "What stop sign, man?" Then you hold the baffled look into the lens. |
+| 0-1.5 s | The body camera walks up along your car to the open window. |
+| 1.5-5 s | "Can you please tell me why you stopping me?" "Yeah, I'm about to." "Huh?" "I'm about to." "What?" "I'm about to tell you." |
+| 5-6.5 s | You lean in close to the lens: "Stop sign?" |
+| 6.5-9.5 s | "No. I said, I said I'm about to tell you." You sit back, confused. |
+| 9.5-11 s | You hold up a paper in the flashlight glare: "Huh? You say stop sign?" "No." |
 
-That is the line order of the real clip, the part people quote as "why you stopping me". The scene itself is made new: no frame comes from the police footage.
+That is the sound of the viral AI clip, the part people quote as "why you stopping me". The picture copies the moves of that AI dog clip: no frame comes from the police footage.
 
 ## Why is it a new scene and not the real clip?
 
-The what stop sign original video is real police footage of a real, private driver. We never use it: not as a reference, not as an example and not as a background. Every frame of your video is made new by AI from your photo. There is no police department name, no badge, no patch, no camera text such as a date or a serial number, and no number plate. The stop stays a light comedy: no arrest, no chase, nobody gets hurt. Like the original, it is funny because of one misheard line. If you post it, keep the AI label on, so nobody takes it for a real stop.
+The what stop sign original video is real police footage of a real, private driver. No frame of it is used: not as a reference, not as an example and not as a background. The picture copies the moves of the viral AI dog clip with your face or your pet, and the sound is the meme's own audio, as in that AI clip. There is no police department name, no badge, no patch, no camera text such as a date or a serial number, and no number plate. The stop stays a light comedy: no arrest, no chase, nobody gets hurt. Like the original, it is funny because of one misheard line. If you post it, keep the AI label on, so nobody takes it for a real stop.
 
 ## What goes wrong, and how do you fix it?
 
 | Problem | Fix |
 |---|---|
 | A face looks less like the photo | Use a sharp, front-facing photo in even light, one person per photo, and run it again. |
-| The lines come out in the wrong order or twice | Every run is a new take. Run it again: the order is set in the prompt. |
-| The officer's voice comes from the driver | Run it again. Only the officer speaks off screen, the driver speaks in the window. |
+| The mouth is a little out of time with the words | Every run is a new take. Run it again. |
+| Your face looks small or less like you | Use a sharp, front-facing photo in good light, and run it again. |
 | Your pet loses the hoodie or looks less like its photo | Use a photo with the whole head and both ears in view, and run it again. |
 | A word or a sign shows up in the picture | Run it again. The prompt bans text, badges, patches, plates and road signs. |
 | The model refuses a photo | Some photos get refused. The credits come back; try another photo. |
@@ -178,7 +179,7 @@ Yes. The Pet version puts your dog or cat at the wheel in a grey hoodie, like th
 
 ### What does the driver say in the why you stopping me clip?
 
-In order: "Can you please tell me why you stopping me?", the officer's "I'm about to tell you", then "Huh? Stop sign?", the officer's "No", and "What stop sign, man?". The why you stopping me stop sign line starts with tell me why you stopping me, and our video keeps that order.
+In order: "Can you please tell me why you stopping me?", the officer's "I'm about to tell you", then "Huh? Stop sign?", the officer's "No", and "What stop sign, man?". The why you stopping me stop sign line starts with tell me why you stopping me. Our video uses the trend's own sound, up to "Huh? You say stop sign?" "No."
 
 ### Is it on TikTok, and can I make a GIF?
 
@@ -190,11 +191,11 @@ It is the same stop sign AI meme and the same scene, but with your face or your 
 
 ### Is the video real?
 
-No. It is an AI bodycam video, an AI traffic stop video made from a still photo: the officer, the car, the road and the voices are made up. Use only a photo of yourself, an adult who agreed or your own pet, never a child, and keep the AI label on when you post.
+No. It is an AI bodycam video, an AI traffic stop video made from a still photo: the picture is AI, the officer never shows, and the sound is the meme's audio. Use only a photo of yourself, an adult who agreed or your own pet, never a child, and keep the AI label on when you post.
 
 ## Other AI video templates and tools
 
-- [Flying Tesla Roadster AI Video: Rocket Over the Traffic Jam](https://www.makeviral.ai/templates/flying-roadster-ai-trend): You sit in a freeway jam, throw your hands up, smirk and slam a button. Rocket boosters fire under the rear bumper and your car flies over the traffic. Add a selfie, or a selfie and a photo of your own car.
+- [Flying Tesla Roadster AI Video: Rocket Out of the Traffic Jam](https://www.makeviral.ai/templates/flying-roadster-ai-trend): Stuck between yellow cabs, you scroll your phone, roll your eyes and press a button. Thrusters fire under the car, it blasts straight up between the skyscrapers and your coffee flies. Add a selfie, or a selfie and a photo of your own car.
 - [White Chicks Car Scene AI: Sing A Thousand Miles With a Friend](https://www.makeviral.ai/templates/white-chicks-ai-trend): One of you drives at night and belts out the song with full emotion. The other holds a tiny dog and gets more and more annoyed. Put your two faces in the car, or your pet at the wheel.
 - [Hit the Road Dude: Be the Private Property Meme Driver](https://www.makeviral.ai/templates/hit-the-road-dude-ai-trend): "State? This? It ain't. Hit the road, dude. This ain't no state property. This is private property." Add one photo, and you, your dog or your cat play the grumpy pickup driver from the viral clip, with the original audio.
 - [AI TikTok Video](https://www.makeviral.ai/tools/ai-tiktok-video-generator): Eight native TikTok formats, one prompt or product URL, a finished 9:16 video with captions burned in.
@@ -204,15 +205,15 @@ No. It is an AI bodycam video, an AI traffic stop video made from a still photo:
 
 ## New AI video trends this week
 
-- [GTA 6 Loading Screen AI: Turn Your Photo Into a GTA Poster](https://www.makeviral.ai/templates/gta-6-loading-screen-ai): Add one photo and get your own GTA 6 loading screen: a painted crime-game poster of you in sunset colors, with palm trees, neon signs and a sports car. Same face, your own clothes, no logo.
-- [Jingle Bell Brazil Dance AI: Your Crew in the Viral Christmas Line Dance](https://www.makeviral.ai/templates/jingle-bell-brazil-dance-ai): Three dancers in Santa hats stand in a row under blue lights, then cross their arms, tap their chests and bounce in sync to a Brazilian funk Jingle Bell Rock. Add photos of you and two friends, one friend, just you, or your pet.
-- [Reaching Out Cat Trend: Put Your Pet in the Viral Clip](https://www.makeviral.ai/templates/reaching-out-cat-ai): A hand reaches up to the ceiling on "reaching out", then the cut, and the cat gets whisked out of the frame. Add one photo, and your cat, your dog or you sit in that spot, with the trend's sound. Your real pet never gets picked up.
-- [Dancing With Santa: Dance With Santa Claus From One Photo](https://www.makeviral.ai/templates/dance-with-santa-ai): Add one photo, and you dance side by side with Santa Claus on a red carpet between two lit Christmas trees: 15 seconds, the same steps, the same turns and the trend's own Santa song. Your pet can dance with Santa too, or bring your partner.
-- [You Rock My World Trend: Make the Couple Glow-Up Transition From 2 Photos](https://www.makeviral.ai/templates/you-rock-my-world-ai-trend): White T-shirts at home, a hand sweeps across the lens, and the two of you are dressed up somewhere else: on a garden terrace, in front of the iron tower in Paris, or there at night. Add a photo of each of you, or of two pets, and get the transition with the song.
-- [Tiger Transition: Your AI Glow-Up on "You Cannot Reason With a Tiger"](https://www.makeviral.ai/templates/tiger-transition-ai-trend): "You cannot reason with a tiger when your head is in its mouth!" Add one photo: you start plain, swipe a hand over the lens and come back in full glam hair and makeup, or in full tiger face paint, with the original sound.
+- [What If You Fly Meme: Fall, Then Fly Above the Clouds](https://www.makeviral.ai/templates/what-if-you-fly-ai-trend): "What if you fall?" "Twin!" "What if you... FLY." Your bedroom floor drops away, you fall into the sky, take off on fire and fly over the sea and above the clouds. One photo of you or your pet, 15 seconds, with the original sound.
+- [My Moon My Man Trend: The AI Jesus Painting With You In It](https://www.makeviral.ai/templates/my-moon-my-man-ai-trend): Add one photo. MakeViral paints you into the soft oil painting of the my moon my man Jesus trend: you kneel to pick a small flower, and Jesus stands over you with a huge pastel bouquet hidden behind his back.
+- [Put The Rollie On My Wrist Trend, Starring You Two](https://www.makeviral.ai/templates/rollie-on-my-wrist-ai-trend): Add a photo of each of you. Our AI puts you both into the most viewed Put The Rollie On My Wrist reel: one carries the other across the shoulders, turns round, and the hidden one's face pops up in front, on the trend's sound.
+- [Whoville Character AI: The ChatGPT Whoville Trend From One Selfie](https://www.makeviral.ai/templates/whoville-ai-trend): Add one selfie. The AI keeps your face, smile and hair color, piles your hair up into tall Christmas curls with bows and candy canes, and puts you in a fur-trimmed outfit in a snowy town of crooked, glowing houses.
+- [Olly Olly Dance AI: Do the TikTok Dance From One Photo](https://www.makeviral.ai/templates/olly-olly-dance-ai-trend): A bounce, fist pumps, arms thrown wide, a side-step, then a sprint out of the frame: the TikTok dance on OLLY's beat. Add one photo of you or your pet and get the clip with the sound.
+- [King Jin AI Trend: Stand Still While the Whole Street Bows](https://www.makeviral.ai/templates/king-jin-ai-trend): One photo, and you are the boss of a neon Korean street at night: you stand still, the crowd in dark jackets bows deeply, and the camera pushes in on your calm stare. Or give the street to your dog or cat.
 
 ## Make your own What Stop Sign AI video
 
-Add one photo and press Generate. No prompt to write. 126 credits, charged once.
+Add one photo and press Generate. No prompt to write. 183 credits, charged once.
 
 [Make this video](https://www.makeviral.ai/templates/what-stop-sign-ai-trend/create)

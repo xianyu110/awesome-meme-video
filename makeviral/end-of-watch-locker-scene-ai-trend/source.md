@@ -3,7 +3,7 @@
 > The End of Watch locker scene is the meme where you hold your gear up to a handheld camera, one piece at a time, like Jake Gyllenhaal in the locker room of the 2012 film.
 
 Canonical: https://www.makeviral.ai/templates/end-of-watch-locker-scene-ai-trend
-Updated: 2026-11-04
+Updated: 2026-11-16
 Published: 2026-11-02
 Author: MakeViral Team (https://www.makeviral.ai/about)
 Publisher: MakeViral (https://www.makeviral.ai)
@@ -232,6 +232,35 @@ NO weapon of any kind in any frame: no gun, no rifle, no pistol, no water gun, n
 
 One-tap version of this variant: https://www.makeviral.ai/templates/end-of-watch-locker-scene-ai-trend/create?variant=toys-pet
 
+#### Variant: Toys two pets
+
+Settings: 2 photos (pet 1, shows the toys, face clear + pet 2, leans in beside it, face clear) · Seedance 2.5 · 10 s · 720p · 9:16 · no sound · 126 credits in one tap.
+
+1. The video prompt is filled in. Settings: Seedance 2.5, 10 s, 720p, 9:16, sound off. The video prompt:
+
+   ```text
+   Real live-action footage, a vertical handheld selfie video in a dark locker room: rows of dark blue-grey metal lockers, a bench, a cold overhead light. The camera is a phone held very close, at chest height, from the chest up, so the faces stay big and clear; it shakes a little with the beat. Keep the pet from [Image 1] as the main character.
+
+The main pet = the pet in [Image 1], in EVERY frame: the same species and breed, face, eyes, ears, muzzle, fur colors, fur length and markings as in [Image 1], with the natural body volume and proportions of that animal: never flattened, squashed, stretched or merged with anything.
+The friend pet = the pet in [Image 2], in every frame it shows, copied from [Image 2] in the same way.
+Never blend the two animals: [Image 1] is only the main pet, [Image 2] is only the friend pet. Each keeps its own face, fur and markings from the first frame to the last, so their owners recognize them at once. Real animals with animal paws, never human hands, never a human body, no clothes. No person in the frame.
+If an image shows a person instead of an animal, that one is that person with their own face, in the clothes from their photo.
+
+The beats, second by second:
+0-2.5s: the main pet sits on the locker room bench very close to the lens and stares into it with a serious, cool face, the head bobbing a little to the beat; the friend pet leans in from the side behind its shoulder, looks into the lens too and bobs its head.
+2.5-4s: the main pet nudges a tall stack of colorful plastic building blocks (red, yellow, green, blue) toward the lens with its nose; the stack wobbles, and the friend pet watches it.
+4-5.5s: the main pet holds a yellow rubber duck in its mouth close to the lens and squeaks it once; the friend pet sniffs the duck.
+5.5-7s: the main pet pushes a small red toy car toward the lens with one front paw; the wheels roll, and the friend pet taps the car with a paw.
+7-8.5s: the main pet brings a soft brown teddy bear up to the lens in its mouth; the friend pet leans in close beside it.
+8.5-10s: the main pet drops the teddy bear, and both pets stare into the lens side by side, dead serious, with a slow head tilt.
+
+NO weapon of any kind in any frame: no gun, no rifle, no pistol, no water gun, no toy gun, no knife, no blade, no handcuffs, no spray, no ammunition. Every object is a bright, harmless child's toy in plain colors, held up to the lens as a joke, never pointed at anyone. No uniform, no badge, no patch, no tactical gear. No text, no captions, no logos, no brand names on the toys or the lockers, no watermark. Exactly two animals: one head, one muzzle and four legs each. Never a third animal, never two animals merged into one body.
+   ```
+
+2. Press Generate, then download the 9:16 MP4.
+
+One-tap version of this variant: https://www.makeviral.ai/templates/end-of-watch-locker-scene-ai-trend/create?variant=toys-pets
+
 ### Which photo works best?
 
 You need **one photo** for Human or Pet, **two** for Duo, one person in each.
@@ -278,7 +307,7 @@ Your video copies the AI locker scene clip shot for shot, with you in it. You st
 
 All three are wide 16:9, like the clip. The Duo is the two-officer shot of the End of Watch locker room scene.
 
-**Toy versions:** the TikTok locker room trend also has a toy edition, where the "gear" is all toys. Toys duo (2 photos), Toys (1 photo, with an AI-made friend) and Toys pet show building blocks, a rubber duck, a yo-yo, a toy car and a teddy bear: no weapon at all. They are 10 seconds, vertical, with the meme song.
+**Toy versions:** the TikTok locker room trend also has a toy edition, where the "gear" is all toys. Toys duo (2 photos), Toys (1 photo, with an AI-made friend), Toys pet (1 pet) and Toys two pets (2 pets, for example a dog and a cat) show building blocks, a rubber duck, a yo-yo, a toy car and a teddy bear: no weapon at all. They are 10 seconds, vertical, with the meme song.
 
 ## The song, the meme and the tutorials
 
@@ -334,6 +363,10 @@ Yes. Pick Pet and add a photo of your dog or cat. Your pet stands on its hind le
 
 Yes. The locker room toys trend swaps the gear for toys. Pick Toys duo for you and a friend, Toys for one photo (an AI-made friend leans in), or Toys pet. You show building blocks, a rubber duck, a yo-yo, a toy car and a teddy bear to the camera, with no weapon of any kind. The video is 10 seconds, vertical, with the meme song, and you can turn the sound off.
 
+### Can my dog and my cat do the toy version together?
+
+Yes. Pick Toys two pets and add two pet photos, one animal per photo: photo 1 is the pet that shows the toys to the camera, photo 2 is the pet that leans in beside it. Any two pets work, for example a dog and a cat or two dogs. The video is 10 seconds, vertical, with the meme song.
+
 ### Is there a gun in the video?
 
 In the End of Watch gun locker scene the officer shows his pistol to the lens. In ours, as in the clip it copies, you hold a black pistol up turned sideways, never aimed at anyone. The End of Watch gun meme and the Jake Gyllenhaal gun locker scene edits show the same moment. Pick a Toys version for a video with no weapon.
@@ -372,12 +405,12 @@ Yes. MakeViral does not post your photos or the result anywhere or show them to 
 
 ## New AI video trends this week
 
-- [GTA 6 Loading Screen AI: Turn Your Photo Into a GTA Poster](https://www.makeviral.ai/templates/gta-6-loading-screen-ai): Add one photo and get your own GTA 6 loading screen: a painted crime-game poster of you in sunset colors, with palm trees, neon signs and a sports car. Same face, your own clothes, no logo.
-- [Jingle Bell Brazil Dance AI: Your Crew in the Viral Christmas Line Dance](https://www.makeviral.ai/templates/jingle-bell-brazil-dance-ai): Three dancers in Santa hats stand in a row under blue lights, then cross their arms, tap their chests and bounce in sync to a Brazilian funk Jingle Bell Rock. Add photos of you and two friends, one friend, just you, or your pet.
-- [Reaching Out Cat Trend: Put Your Pet in the Viral Clip](https://www.makeviral.ai/templates/reaching-out-cat-ai): A hand reaches up to the ceiling on "reaching out", then the cut, and the cat gets whisked out of the frame. Add one photo, and your cat, your dog or you sit in that spot, with the trend's sound. Your real pet never gets picked up.
-- [Dancing With Santa: Dance With Santa Claus From One Photo](https://www.makeviral.ai/templates/dance-with-santa-ai): Add one photo, and you dance side by side with Santa Claus on a red carpet between two lit Christmas trees: 15 seconds, the same steps, the same turns and the trend's own Santa song. Your pet can dance with Santa too, or bring your partner.
-- [You Rock My World Trend: Make the Couple Glow-Up Transition From 2 Photos](https://www.makeviral.ai/templates/you-rock-my-world-ai-trend): White T-shirts at home, a hand sweeps across the lens, and the two of you are dressed up somewhere else: on a garden terrace, in front of the iron tower in Paris, or there at night. Add a photo of each of you, or of two pets, and get the transition with the song.
-- [Tiger Transition: Your AI Glow-Up on "You Cannot Reason With a Tiger"](https://www.makeviral.ai/templates/tiger-transition-ai-trend): "You cannot reason with a tiger when your head is in its mouth!" Add one photo: you start plain, swipe a hand over the lens and come back in full glam hair and makeup, or in full tiger face paint, with the original sound.
+- [What If You Fly Meme: Fall, Then Fly Above the Clouds](https://www.makeviral.ai/templates/what-if-you-fly-ai-trend): "What if you fall?" "Twin!" "What if you... FLY." Your bedroom floor drops away, you fall into the sky, take off on fire and fly over the sea and above the clouds. One photo of you or your pet, 15 seconds, with the original sound.
+- [My Moon My Man Trend: The AI Jesus Painting With You In It](https://www.makeviral.ai/templates/my-moon-my-man-ai-trend): Add one photo. MakeViral paints you into the soft oil painting of the my moon my man Jesus trend: you kneel to pick a small flower, and Jesus stands over you with a huge pastel bouquet hidden behind his back.
+- [Put The Rollie On My Wrist Trend, Starring You Two](https://www.makeviral.ai/templates/rollie-on-my-wrist-ai-trend): Add a photo of each of you. Our AI puts you both into the most viewed Put The Rollie On My Wrist reel: one carries the other across the shoulders, turns round, and the hidden one's face pops up in front, on the trend's sound.
+- [Whoville Character AI: The ChatGPT Whoville Trend From One Selfie](https://www.makeviral.ai/templates/whoville-ai-trend): Add one selfie. The AI keeps your face, smile and hair color, piles your hair up into tall Christmas curls with bows and candy canes, and puts you in a fur-trimmed outfit in a snowy town of crooked, glowing houses.
+- [Olly Olly Dance AI: Do the TikTok Dance From One Photo](https://www.makeviral.ai/templates/olly-olly-dance-ai-trend): A bounce, fist pumps, arms thrown wide, a side-step, then a sprint out of the frame: the TikTok dance on OLLY's beat. Add one photo of you or your pet and get the clip with the sound.
+- [King Jin AI Trend: Stand Still While the Whole Street Bows](https://www.makeviral.ai/templates/king-jin-ai-trend): One photo, and you are the boss of a neon Korean street at night: you stand still, the crowd in dark jackets bows deeply, and the camera pushes in on your calm stare. Or give the street to your dog or cat.
 
 ## Make your own End of Watch Locker video
 

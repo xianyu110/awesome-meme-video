@@ -1,0 +1,50 @@
+{
+  "source": "makeviral",
+  "source_site": "https://www.makeviral.ai",
+  "slug": "king-jin-ai-trend",
+  "name": "King Jin AI Trend: Stand Still While the Whole Street Bows",
+  "url": "https://www.makeviral.ai/templates/king-jin-ai-trend",
+  "markdown_url": "https://www.makeviral.ai/templates/king-jin-ai-trend.md",
+  "blurb": "The King Jin AI trend is a viral CapCut photo template: one photo becomes a moody Korean drama scene in which you stand calmly on a neon street at night while a crowd in dark jackets bows deeply to you.",
+  "updated": "2026-11-16",
+  "published": "2026-11-16",
+  "credits": 126,
+  "demo_videos": [
+    "https://media.makeviral.ai/templates/king-jin-ai-trend/original-trend-v2.mp4"
+  ],
+  "posters": [
+    "https://media.makeviral.ai/templates/king-jin-ai-trend/original-trend-v1.jpg"
+  ],
+  "prompts": [
+    {
+      "label": "1. The video prompt is filled in. Settings: Seedance 2.5, 10 s, 720p, 9:16, sound off. The video prompt",
+      "variant": "Human",
+      "kind": "video_prompt",
+      "text": "The person in [Image 1] stands in the middle of the scene. Keep their face, hair, body and clothes exactly as in the photo: copy the exact face from [Image 1] (the face shape, eye color and eye shape, eyebrows, nose, mouth, skin tone, age, hair color, hair length and hairstyle, and any beard, moustache, glasses or freckles). The same real person in every frame, from the first second to the last, so their friends recognize them at once: never morph, never drift to another face. Vertical 9:16. The person stands still on a dim Korean city street at night and looks straight into the camera with a calm, composed expression. Neon shop signs and parked cars glow behind them. A crowd of people in dark jackets around and behind them all bend forward at the waist and bow deeply toward them in respect, heads lowered, and stay bowed. Slow cinematic push-in, slightly handheld, from the knees up at the start to a chest-up close-up of the face at the end. No hand gestures other than a slight nod. Everyone wears plain clothes with no text, logos or stripes, no letters or words anywhere in frame.\n\nOnly the person from [Image 1] stands upright and faces the camera. Every other person bows with the head low, so no other face looks like theirs. If [Image 1] shows an animal, that animal sits calmly in the middle of the street with its own face, fur and markings and the natural body volume and proportions of that animal, not a person.\n\nSound: none of its own; the trend's song is put on afterwards. No dialogue throughout the entire video. No background music.\n\nPhotorealistic live action, one continuous take, clear facial features, a stable face, no distortion. Avoid: cuts, a split screen, a second person standing upright, text, captions, subtitles, logos, watermarks, extra limbs, morphing."
+    },
+    {
+      "label": "1. The video prompt is filled in. Settings: Seedance 2.5, 10 s, 720p, 9:16, sound off. The video prompt",
+      "variant": "Pet",
+      "kind": "video_prompt",
+      "text": "The pet in [Image 1] stands in the middle of the scene. Keep it exactly as in the photo, same fur, markings and face, with real animal anatomy: the same species and breed, face, eyes, ears, muzzle, fur colors, fur length and markings as in [Image 1], with the natural body volume and proportions of that animal: never flattened, squashed, stretched or merged with anything. Its owner recognizes it at once, in every frame. Vertical 9:16, night. A neon Korean street with parked cars; the pet sits calmly in the middle of the pavement, looking straight into the camera like it owns the street, while a circle of people in dark jackets bow deeply toward it and stay bowed. Slow cinematic push-in to the pet's face. Plain clothes with no text or logos, no letters or words anywhere in frame, no watermark.\n\nSound: none of its own; the trend's song is put on afterwards. No dialogue throughout the entire video. No background music.\n\nExactly one animal, with one head, its own number of legs and one tail, no clothes on the pet, no human hands. The people keep their heads low. Photorealistic live action, one continuous take. Avoid: a cartoon look, a plush toy, extra animals, cuts, a split screen, text, captions, subtitles, logos, watermarks, morphing."
+    }
+  ],
+  "variant_headings": [
+    "What the King Jin AI Trend video looks like",
+    "How to make the King Jin AI Trend video on MakeViral",
+    "Which photo works best?",
+    "What happens in your King Jin AI video?",
+    "Human or Pet: which King Jin version should you make?",
+    "How do I make the King Jin AI video with my photo?",
+    "How long is the video and what format is it?",
+    "Is it the same as the King Jin CapCut video?",
+    "Is there a crowd bowing AI video for other scenes?",
+    "Does the King Jin video cost credits?",
+    "Is the video real?",
+    "Other AI video templates and tools",
+    "New AI video trends this week",
+    "Make your own King Jin AI Trend video"
+  ],
+  "prompt_count": 2,
+  "scraped_at": "2026-11-17"
+}

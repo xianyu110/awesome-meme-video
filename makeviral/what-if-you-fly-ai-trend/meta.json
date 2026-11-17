@@ -1,0 +1,51 @@
+{
+  "source": "makeviral",
+  "source_site": "https://www.makeviral.ai",
+  "slug": "what-if-you-fly-ai-trend",
+  "name": "What If You Fly Meme: Fall, Then Fly Above the Clouds",
+  "url": "https://www.makeviral.ai/templates/what-if-you-fly-ai-trend",
+  "markdown_url": "https://www.makeviral.ai/templates/what-if-you-fly-ai-trend.md",
+  "blurb": "The What If You Fly meme turns the quote \"What if I fall?",
+  "updated": "2026-11-16",
+  "published": "2026-11-16",
+  "credits": 228,
+  "demo_videos": [
+    "https://media.makeviral.ai/templates/what-if-you-fly-ai-trend/original-full-v2.mp4"
+  ],
+  "posters": [
+    "https://media.makeviral.ai/templates/what-if-you-fly-ai-trend/original-full-v1.jpg"
+  ],
+  "prompts": [
+    {
+      "label": "1. The video prompt is filled in. Settings: Seedance 2.5, 15 s, 720p, 9:16, sound off. The video prompt",
+      "variant": null,
+      "kind": "video_prompt",
+      "text": "[Video 1] is the finished video. Use [Video 1] as the reference for the entire edit. Use [Image 1] only for the replacement person's identity. Replace the young man with messy black curly hair (the only person in the video: he rocks back on his chair at his desk in front of the webcam, falls through the floor into the sky, and flies with fire over the clouds and the sea) with that same recognizable identity from [Image 1] in every shot he appears in. Match [Image 1]'s facial structure, skin tone, eyes, brows, nose, lips, distinctive marks, facial hair, hairline, hair color, texture and length. Do not inherit the original performer's messy black curly hair or add hair, makeup or facial hair absent from [Image 1]. Keep the original body proportions and the outfit: the oversized plain white T-shirt, loose black drawstring trousers and bare feet. Transfer the original performance exactly: the chair tipping back, the lunge to save himself, both hands on the head, the lip sync of every line, the arms spread wide as he falls, the fall through the sky, the fire take-off and every turn in the flight. Do not copy [Image 1]'s fixed pose or expression. Do not invent extra gestures, expressions or shots. Preserve the exact camera positions and movement, cuts, shot order, duration, speed and aspect ratio. Preserve the bedroom, the webcam look, the floor collapsing, the falling furniture, the fire, the clouds, the sea, the on-screen text and all the light exactly as they are. Match the replacement person to each shot's existing light, with the same focus, motion blur, grade and grain. No new music, dialogue, titles, transitions or graphics.\n\nThe same real person from [Image 1] in every frame, from the first second to the last, so their friends instantly recognize them, also in the far flight shots over the sea and above the clouds. Never morph, never drift back to the original performer's face.\n\nThe shots of [Video 1]: Shot 1 [0-7.4s]: the webcam take at the desk: \"What if you fall?\", \"Twin!\", \"what if you\", the big on-screen \"FLY\", then the floor drops away and the fall into the clouds. Shot 2 [7.4-9.25s]: fire from the feet, shooting forward over the clouds. Shot 3 [9.25-11.2s]: a whip past the lens, then racing low over the sea. Shot 4 [11.2-13.45s]: a roll onto the back over the sea, arms wide. Shot 5 [13.45-15s]: a blast up past the camera, rising above the clouds. No dialogue other than the three lines. No background music.\n\nAnatomy rules: one head only. Two hands with five fingers each, two bare feet. Exactly one person. The fire starts just off the soles and palms, never on the skin. No new text, logos or watermarks."
+    },
+    {
+      "label": "1. The video prompt is filled in. Settings: Seedance 2.5, 15 s, 720p, 9:16, sound off. The video prompt",
+      "variant": "Pet",
+      "kind": "video_prompt",
+      "text": "[Video 1] is the finished video. Use [Video 1] as the reference for the entire edit. Use [Image 1] only for the replacement pet's identity. Replace the young man with messy black curly hair (the only person in the video: he rocks back on his chair at his desk in front of the webcam, falls through the floor into the sky, and flies with fire over the clouds and the sea) with the pet from [Image 1] in every shot he appears in. Match [Image 1]'s species and breed, face, eyes, ears, muzzle, fur colors, fur length and markings, with the natural body volume and proportions of that animal: never flattened, squashed, stretched or merged with anything. No human face, no human hair, no human hands or feet: its own furry paws and its own tail. Keep the outfit, sized to the pet's own body: the oversized plain white T-shirt and loose black drawstring trousers. Transfer the original performance in the pet's own animal way: sitting upright on the chair as it tips back, the lunge to the desk with both front paws, both front paws on the head, the mouth opening on every line as if it says them, the front legs spread wide as it falls, the fall through the sky, the fire take-off from its paws and every turn in the flight. Do not copy [Image 1]'s fixed pose. Do not invent extra gestures, expressions or shots. Preserve the exact camera positions and movement, cuts, shot order, duration, speed and aspect ratio. Preserve the bedroom, the webcam look, the floor collapsing, the falling furniture, the fire, the clouds, the sea, the on-screen text and all the light exactly as they are. Match the pet to each shot's existing light, with the same focus, motion blur, grade and grain. No new music, dialogue, titles, transitions or graphics.\n\nThe same pet from [Image 1] in every frame, from the first second to the last, so its owner instantly recognizes it, also in the far flight shots. Whether [Image 1] shows a dog, a cat or another animal, it stays that animal. Never drift back to the young man: no person appears anywhere in the video.\n\nThe shots of [Video 1]: Shot 1 [0-7.4s]: the webcam take at the desk: \"What if you fall?\", \"Twin!\", \"what if you\", the big on-screen \"FLY\", then the floor drops away and the fall into the clouds. Shot 2 [7.4-9.25s]: fire from the feet, shooting forward over the clouds. Shot 3 [9.25-11.2s]: a whip past the lens, then racing low over the sea. Shot 4 [11.2-13.45s]: a roll onto the back over the sea, arms wide. Shot 5 [13.45-15s]: a blast up past the camera, rising above the clouds. No dialogue other than the three lines. No background music.\n\nAnatomy rules: one head only, one muzzle, animal paws, never a human hand. Exactly one animal, no people. The fire starts just off the paws, never on the fur. No new text, logos or watermarks."
+    }
+  ],
+  "variant_headings": [
+    "What the What If You Fly video looks like",
+    "How to make the What If You Fly video on MakeViral",
+    "Which photo works best?",
+    "What happens in the What If You Fly video, second by second?",
+    "You or Pet: which one should you make?",
+    "How do I make the What If You Fly AI video with my photo?",
+    "How long is the video and what format is it?",
+    "Is there a What If You Fly quote video without AI?",
+    "Is it a real flying video?",
+    "Does the What If You Fly video cost credits?",
+    "Can I make a fly above the clouds AI video without the fall?",
+    "Is this a firebending AI video?",
+    "Other AI video templates and tools",
+    "New AI video trends this week",
+    "Make your own What If You Fly video"
+  ],
+  "prompt_count": 2,
+  "scraped_at": "2026-11-17"
+}

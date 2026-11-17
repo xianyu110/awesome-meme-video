@@ -1,4 +1,4 @@
-# Media — Flying Tesla Roadster AI Video: Rocket Over the Traffic Jam
+# Media — Flying Tesla Roadster AI Video: Rocket Out of the Traffic Jam
 
 - video: https://media.makeviral.ai/templates/flying-roadster-ai-trend/original-flip-v2.mp4
 - video: https://media.makeviral.ai/templates/flying-roadster-ai-trend/original-main-v2.mp4

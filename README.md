@@ -6,12 +6,12 @@
 
 ## Stats
 
-- **Total**: 684 templates
-- **MakeViral**: 533 templates · 1581 prompt blocks · 774 demo videos
+- **Total**: 693 templates
+- **MakeViral**: 542 templates · 1613 prompt blocks · 784 demo videos
 - **Remake Your Meme**: 34 templates · public prompts: **none** (one-tap remake only) · demos/posters archived
 - **Media.io**: 18 templates · 12 prompt blocks · 12 demo videos
 - **Kavel**: 99 templates · 321 prompt blocks · 377 demo videos
-- Scraped: 2026-11-16 (Asia/Shanghai)
+- Scraped: 2026-11-17 (Asia/Shanghai)
 - Sort: **newest first** by `published || updated (newest first); undated=unknown; never scraped_at`
 - Gallery: https://xianyu110.github.io/awesome-meme-video/
 
@@ -46,6 +46,15 @@ Demo MP4s are stored via Git LFS when present. Each template folder also lists o
 
 | Template | Slug | Date | Prompts | Demo | Page |
 | --- | --- | --- | ---: | --- | --- |
+| [Whoville Character AI: The ChatGPT Whoville Trend From One Selfie](makeviral/whoville-ai-trend/PROMPTS.md) | `whoville-ai-trend` | 2026-11-16 | 8 | ✅ | [link](https://www.makeviral.ai/templates/whoville-ai-trend) |
+| [What If You Fly Meme: Fall, Then Fly Above the Clouds](makeviral/what-if-you-fly-ai-trend/PROMPTS.md) | `what-if-you-fly-ai-trend` | 2026-11-16 | 2 | ✅ | [link](https://www.makeviral.ai/templates/what-if-you-fly-ai-trend) |
+| [Tom Hardy Legend Edit: You as the 1960s London Gangster](makeviral/tom-hardy-legend-edit-ai/PROMPTS.md) | `tom-hardy-legend-edit-ai` | 2026-11-16 | 3 | ✅ | [link](https://www.makeviral.ai/templates/tom-hardy-legend-edit-ai) |
+| [Put The Rollie On My Wrist Trend, Starring You Two](makeviral/rollie-on-my-wrist-ai-trend/PROMPTS.md) | `rollie-on-my-wrist-ai-trend` | 2026-11-16 | 3 | ✅ | [link](https://www.makeviral.ai/templates/rollie-on-my-wrist-ai-trend) |
+| [Olly Olly Dance AI: Do the TikTok Dance From One Photo](makeviral/olly-olly-dance-ai-trend/PROMPTS.md) | `olly-olly-dance-ai-trend` | 2026-11-16 | 2 | ✅ | [link](https://www.makeviral.ai/templates/olly-olly-dance-ai-trend) |
+| [My Moon My Man Trend: The AI Jesus Painting With You In It](makeviral/my-moon-my-man-ai-trend/PROMPTS.md) | `my-moon-my-man-ai-trend` | 2026-11-16 | 5 | ✅ | [link](https://www.makeviral.ai/templates/my-moon-my-man-ai-trend) |
+| [King Jin AI Trend: Stand Still While the Whole Street Bows](makeviral/king-jin-ai-trend/PROMPTS.md) | `king-jin-ai-trend` | 2026-11-16 | 2 | ✅ | [link](https://www.makeviral.ai/templates/king-jin-ai-trend) |
+| [Joaquin Buckley Kick AI: Land the Spinning Back Kick Knockout](makeviral/joaquin-buckley-knockout-ai-trend/PROMPTS.md) | `joaquin-buckley-knockout-ai-trend` | 2026-11-16 | 3 | ✅ | [link](https://www.makeviral.ai/templates/joaquin-buckley-knockout-ai-trend) |
+| [Dog Cake Smash: Your Dog Pushes the Cake Into Your Face](makeviral/dog-cake-smash-ai-trend/PROMPTS.md) | `dog-cake-smash-ai-trend` | 2026-11-16 | 3 | ✅ | [link](https://www.makeviral.ai/templates/dog-cake-smash-ai-trend) |
 | [You Rock My World Trend: Make the Couple Glow-Up Transition From 2 Photos](makeviral/you-rock-my-world-ai-trend/PROMPTS.md) | `you-rock-my-world-ai-trend` | 2026-11-15 | 4 | ✅ | [link](https://www.makeviral.ai/templates/you-rock-my-world-ai-trend) |
 | [Tiger Transition: Your AI Glow-Up on "You Cannot Reason With a Tiger"](makeviral/tiger-transition-ai-trend/PROMPTS.md) | `tiger-transition-ai-trend` | 2026-11-15 | 4 | ✅ | [link](https://www.makeviral.ai/templates/tiger-transition-ai-trend) |
 | [Ronaldo Header AI: The Soccer Header Leap, Starring You](makeviral/ronaldo-header-ai-trend/PROMPTS.md) | `ronaldo-header-ai-trend` | 2026-11-15 | 3 | ✅ | [link](https://www.makeviral.ai/templates/ronaldo-header-ai-trend) |
@@ -252,7 +261,7 @@ Demo MP4s are stored via Git LFS when present. Each template folder also lists o
 | [Monkey Eating Apple AI: A Macaque Steals Your Apple](makeviral/monkey-eating-apple-ai-trend/PROMPTS.md) | `monkey-eating-apple-ai-trend` | 2026-11-02 | 3 | ✅ | [link](https://www.makeviral.ai/templates/monkey-eating-apple-ai-trend) |
 | [I Don't Listen to Opinions Baby Dance: Your Baby Claps, Pats Its Chest and Shakes Off the Haters](makeviral/i-dont-listen-to-opinions-baby-dance/PROMPTS.md) | `i-dont-listen-to-opinions-baby-dance` | 2026-11-02 | 3 | ✅ | [link](https://www.makeviral.ai/templates/i-dont-listen-to-opinions-baby-dance) |
 | [Your First Time in a Fancy Cafe: Star in the Viral Clip](makeviral/first-time-in-a-fancy-cafe-ai-trend/PROMPTS.md) | `first-time-in-a-fancy-cafe-ai-trend` | 2026-11-02 | 5 | ✅ | [link](https://www.makeviral.ai/templates/first-time-in-a-fancy-cafe-ai-trend) |
-| [End of Watch Locker Scene AI: Show Your Gear to the Camera](makeviral/end-of-watch-locker-scene-ai-trend/PROMPTS.md) | `end-of-watch-locker-scene-ai-trend` | 2026-11-02 | 6 | ✅ | [link](https://www.makeviral.ai/templates/end-of-watch-locker-scene-ai-trend) |
+| [End of Watch Locker Scene AI: Show Your Gear to the Camera](makeviral/end-of-watch-locker-scene-ai-trend/PROMPTS.md) | `end-of-watch-locker-scene-ai-trend` | 2026-11-02 | 7 | ✅ | [link](https://www.makeviral.ai/templates/end-of-watch-locker-scene-ai-trend) |
 | [Closing Door Prank: Sprint at the Door Before It Shuts](makeviral/closing-door-prank-ai-trend/PROMPTS.md) | `closing-door-prank-ai-trend` | 2026-11-02 | 3 | ✅ | [link](https://www.makeviral.ai/templates/closing-door-prank-ai-trend) |
 | [Chipmunks Dance AI: Put Your Trio in the You Spin Me Round Trend](makeviral/chipmunks-dance-ai-trend/PROMPTS.md) | `chipmunks-dance-ai-trend` | 2026-11-02 | 4 | ✅ | [link](https://www.makeviral.ai/templates/chipmunks-dance-ai-trend) |
 | [Bicep Heart Trend AI: Flex a Heart on Your Arm From One Photo](makeviral/bicep-heart-ai-trend/PROMPTS.md) | `bicep-heart-ai-trend` | 2026-11-02 | 2 | ✅ | [link](https://www.makeviral.ai/templates/bicep-heart-ai-trend) |
@@ -453,7 +462,7 @@ Demo MP4s are stored via Git LFS when present. Each template folder also lists o
 | [Sen Sağ Bek, Sen Sol Bek AI: Be the Halı Saha Captain Who Says "Konum Gönderin"](makeviral/hali-saha-konum-gonderin-ai-trend/PROMPTS.md) | `hali-saha-konum-gonderin-ai-trend` | 2026-10-17 | 2 | ✅ | [link](https://www.makeviral.ai/templates/hali-saha-konum-gonderin-ai-trend) |
 | [AI Grandma Parkour: Your Grandma (or Grandpa) Does the Stunts](makeviral/grandma-parkour-ai-trend/PROMPTS.md) | `grandma-parkour-ai-trend` | 2026-10-17 | 3 | ✅ | [link](https://www.makeviral.ai/templates/grandma-parkour-ai-trend) |
 | [Gemini Rain AI Effect: Put Yourself, or the Two of You, in Cinematic Rain](makeviral/gemini-rain-ai-effect/PROMPTS.md) | `gemini-rain-ai-effect` | 2026-10-17 | 4 | ✅ | [link](https://www.makeviral.ai/templates/gemini-rain-ai-effect) |
-| [Flying Tesla Roadster AI Video: Rocket Over the Traffic Jam](makeviral/flying-roadster-ai-trend/PROMPTS.md) | `flying-roadster-ai-trend` | 2026-10-17 | 8 | ✅ | [link](https://www.makeviral.ai/templates/flying-roadster-ai-trend) |
+| [Flying Tesla Roadster AI Video: Rocket Out of the Traffic Jam](makeviral/flying-roadster-ai-trend/PROMPTS.md) | `flying-roadster-ai-trend` | 2026-10-17 | 8 | ✅ | [link](https://www.makeviral.ai/templates/flying-roadster-ai-trend) |
 | [Damon Salvatore AI Trend: Walk Into the Church and Smirk as Damon](makeviral/damon-salvatore-ai-trend/PROMPTS.md) | `damon-salvatore-ai-trend` | 2026-10-17 | 2 | ✅ | [link](https://www.makeviral.ai/templates/damon-salvatore-ai-trend) |
 | [Closer Dance AI: You and a Friend in the Original Reel](makeviral/closer-dance-ai-trend/PROMPTS.md) | `closer-dance-ai-trend` | 2026-10-17 | 1 | ✅ | [link](https://www.makeviral.ai/templates/closer-dance-ai-trend) |
 | [Closed on Sunday AI Trend: Stand Still While the Choir Sings](makeviral/closed-on-sunday-ai-trend/PROMPTS.md) | `closed-on-sunday-ai-trend` | 2026-10-17 | 2 | ✅ | [link](https://www.makeviral.ai/templates/closed-on-sunday-ai-trend) |

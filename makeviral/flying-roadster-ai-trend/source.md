@@ -1,16 +1,16 @@
-# Flying Tesla Roadster AI Video: Rocket Over the Traffic Jam
+# Flying Tesla Roadster AI Video: Rocket Out of the Traffic Jam
 
-> The flying Tesla Roadster meme is the AI video trend that followed Tesla's Roadster demo of 15 October 2026: you sit stuck in traffic, press a button, rockets fire and your car flies over the jam while your coffee goes everywhere.
+> The flying Tesla Roadster meme is the AI video trend that followed Tesla's Roadster demo of 15 October 2026: you sit stuck in traffic, press a button, rockets fire and your car blasts straight up out of the jam while your coffee goes everywhere.
 
 Canonical: https://www.makeviral.ai/templates/flying-roadster-ai-trend
-Updated: 2026-10-19
+Updated: 2026-11-16
 Published: 2026-10-17
 Author: MakeViral Team (https://www.makeviral.ai/about)
 Publisher: MakeViral (https://www.makeviral.ai)
 
-The **flying Tesla Roadster** meme is the AI video trend that followed Tesla's Roadster demo of 15 October 2026: you sit stuck in traffic, press a button, rockets fire and your car flies over the jam while your coffee goes everywhere. You need one clear selfie, plus a photo of your car to fly your own ride.
+The **flying Tesla Roadster** meme is the AI video trend that followed Tesla's Roadster demo of 15 October 2026: you sit stuck in traffic, press a button, rockets fire and your car blasts straight up out of the jam while your coffee goes everywhere. You need one clear selfie, plus a photo of your car to fly your own ride.
 
-You sit in a freeway jam, throw your hands up, smirk and slam a button. Rocket boosters fire under the rear bumper and your car flies over the traffic. Add a selfie, or a selfie and a photo of your own car.
+Stuck between yellow cabs, you scroll your phone, roll your eyes and press a button. Thrusters fire under the car, it blasts straight up between the skyscrapers and your coffee flies. Add a selfie, or a selfie and a photo of your own car.
 
 Also called: Tesla Roadster meme, Day 1 owning a Tesla Roadster, Flying car AI trend, Roadster Stole My Parking Spot, I Wasn't Finished Talking, Roadster Ramp, Roadster Police Stop.
 
@@ -82,18 +82,26 @@ Settings: 1 photo (you, face clear) · Seedance 2.5 · 10 s · 720p · 9:16 · w
 1. The video prompt is filled in. Settings: Seedance 2.5, 10 s, 720p, 9:16, sound on. The video prompt:
 
    ```text
-   SHOT 1 [00:00-00:03] Handheld iPhone from the shoulder of a jammed freeway on a sunny day: the subject sits at the wheel of THE CAR, seen through the open driver's window from a step away, the face large and sharp: exactly the face from [Image 1]. Their car creeps past in the jam. The subject is fed up: throws both hands up, "what is this?!", shakes their head at the jam. Then they glance at the phone, a slow smirk, and slam a button on the dashboard. Four round rocket BOOSTER nozzles under the REAR bumper of the car IGNITE with white-hot flame and smoke; the phone shakes from the blast.
-SHOT 2 [00:03-00:06] HARD CUT inside the car: the camera sits in the BACK SEAT looking FORWARD past the subject's shoulder and out the windshield. The car RISES: through the windshield we see the roofs of the jammed cars drop away below, sky ahead, and further down the freeway the jam ending at orange traffic cones with EMPTY road beyond. The subject grips the wheel, leaning forward. The takeaway coffee cup in the cup holder jumps out and splashes across the dashboard.
-SHOT 3 [00:06-00:10] HARD CUT to a shot from BEHIND and slightly above the car, looking forward down the freeway: we see the car's REAR (tail lights and blazing boosters facing us) as it flies FORWARD, NOSE FIRST, AWAY from the camera, HIGH over the long line of stopped cars below, the jam ending at orange cones with EMPTY freeway beyond. It drops down past the cones and LANDS hard on the empty road, a burst of tyre smoke, then speeds off into the distance. The jam sits stuck below and behind it.
+   TASK: Recreate the "Flying Roadster" trend clip with the person from [Image 1] as the driver. Follow every rule exactly.
 
-THE SUBJECT IS the person in [Image 1], with the same face, hair, age, build and clothes, in every shot: copy the exact face from [Image 1] (the face shape, eye color and eye shape, eyebrows, nose, mouth, skin tone, age, hair color, hair length and hairstyle, and any beard, moustache, glasses or freckles), so their friends recognize them at once. The same real person from the first frame to the last; never morph. If [Image 1] shows an animal, the driver is that animal sitting upright at the wheel, with its own face, fur and markings.
-THE CAR IS a sleek, low, white two-seat electric sports car with a dark glass roof: exactly that car in every shot: the same shape, colour and wheels, with no badge, emblem, lettering or readable number plate. THE WHEELS NEVER CHANGE: four round, upright, normal tyres, never folding, turning flat or becoming thrusters.
+SCENE (never change):
+- THE CAR: a sleek, low, white two-seat electric sports car with a sharp wedge shape and a dark glass roof, no badge, lettering or readable plate. The same car, colour and wheels in every shot.
+- A jammed city street between skyscrapers on a sunny day: yellow taxis stuck right beside THE CAR, a white box truck in the next lane.
+- Realistic handheld phone footage, vertical 9:16.
 
-Sound: traffic and distant horns, the driver's fed-up "what is this?!", a button click, a rising electric whine, a deep roaring rocket blast and rushing wind, a thud and tyre squeal on the landing. No music.
+SHOTS (exact timing):
+[00:00-00:01.2] A high view from above and in front: THE CAR stuck bumper to bumper between yellow taxis.
+[00:01.2-00:05] HARD CUT inside THE CAR, handheld from the passenger seat toward the driver, a yellow taxi right outside the driver's window. The driver's face is large and sharp, turned three-quarters to the camera, in daylight: exactly the face from [Image 1]. The driver is annoyed, never smiling at the camera; eyes on the phone, then on the jam. The driver scrolls their phone, looks up at the jam, rolls their eyes and sighs, puts the phone down and presses a button on the centre console, next to a paper takeaway coffee cup in the cup holder.
+[00:05-00:07.5] HARD CUT outside, at street level in front of THE CAR: four thruster jets under its floor fire white-hot in a huge burst of white smoke, and THE CAR lifts STRAIGHT UP off the street, flat, past the box truck. Then from below: its underside and four glowing jets rise fast between the skyscrapers, and it tips nose up to the sky.
+[00:07.5-00:10] HARD CUT back inside, the same passenger-seat angle: the driver is thrown back into the seat by the force, arms flailing, mouth wide open, eyes wide in shock. The coffee cup flies out of the cup holder and coffee splashes over the dashboard, never over the face. Rooftops and sky rush down past the side window. The face stays large and sharp: exactly the face from [Image 1].
+
+THE DRIVER = [Image 1], in every frame: the exact face, hair, skin tone and age, and any glasses, beard or moustache exactly as in [Image 1] (none if it has none), so their friends recognize them at once. Never morph, never a different, younger or smoother face. If [Image 1] shows several people, use only the largest, most central face. If [Image 1] shows a pet, the driver is that pet, with its own face, fur and markings, upright with its paws on the wheel.
+
+SOUND: city traffic and horns, the driver's tired sigh, a button click, a rising electric whine, a deep roaring thruster blast and rushing wind, the cup clattering, a shocked wordless yell. No music, no words.
 
 真人实拍、五官清晰、面部稳定、不扭曲、不变形、人体结构正常、比例自然、同一角色、服装一致、发型不变.
 
-Avoid: the car flying backward, the car turning around, wheels folding or becoming thrusters, the car hitting other cars, a different car, the car changing colour, the face changing, text, watermarks, morphing, distortion. One person in the car. No badges or lettering on any car, no readable plates or road signs, no logos, no subtitles.
+NEVER: a freeway; the car flying forward over the traffic, sideways or backward; a landing; a crash; the face hidden, turned away, seen only from behind or in a mirror, or small; a different face or car; a colour change; wheels turning into thrusters; a second person; text, subtitles, logos, badges, readable plates, taxi roof signs, watermark.
    ```
 
 2. Press Generate, then download the 9:16 MP4.
@@ -133,18 +141,26 @@ Settings: 2 photos (you, face clear + your car, whole vehicle in view) · Seedan
 1. The video prompt is filled in. Settings: Seedance 2.5, 10 s, 720p, 9:16, sound on. The video prompt:
 
    ```text
-   SHOT 1 [00:00-00:03] Handheld iPhone from the shoulder of a jammed freeway on a sunny day: the subject sits at the wheel of THE CAR, seen through the open driver's window from a step away, the face large and sharp: exactly the face from [Image 1]. Their car creeps past in the jam. The subject is fed up: throws both hands up, "what is this?!", shakes their head at the jam. Then they glance at the phone, a slow smirk, and slam a button on the dashboard. Four round rocket BOOSTER nozzles under the REAR bumper of the car IGNITE with white-hot flame and smoke; the phone shakes from the blast.
-SHOT 2 [00:03-00:06] HARD CUT inside the car: the camera sits in the BACK SEAT looking FORWARD past the subject's shoulder and out the windshield. The car RISES: through the windshield we see the roofs of the jammed cars drop away below, sky ahead, and further down the freeway the jam ending at orange traffic cones with EMPTY road beyond. The subject grips the wheel, leaning forward. The takeaway coffee cup in the cup holder jumps out and splashes across the dashboard.
-SHOT 3 [00:06-00:10] HARD CUT to a shot from BEHIND and slightly above the car, looking forward down the freeway: we see the car's REAR (tail lights and blazing boosters facing us) as it flies FORWARD, NOSE FIRST, AWAY from the camera, HIGH over the long line of stopped cars below, the jam ending at orange cones with EMPTY freeway beyond. It drops down past the cones and LANDS hard on the empty road, a burst of tyre smoke, then speeds off into the distance. The jam sits stuck below and behind it.
+   TASK: Recreate the "Flying Roadster" trend clip with the person from [Image 1] as the driver of the vehicle from [Image 2]. Follow every rule exactly.
 
-THE SUBJECT IS the person in [Image 1], with the same face, hair, age, build and clothes, in every shot: copy the exact face from [Image 1] (the face shape, eye color and eye shape, eyebrows, nose, mouth, skin tone, age, hair color, hair length and hairstyle, and any beard, moustache, glasses or freckles), so their friends recognize them at once. The same real person from the first frame to the last; never morph. If [Image 1] shows an animal, the driver is that animal sitting upright at the wheel, with its own face, fur and markings.
-THE CAR IS the car in [Image 2]: exactly that car in every shot: the same body shape, size, colour, grille, lights and wheels, any kind of vehicle, but with no badge, emblem, lettering or readable number plate, even if [Image 2] shows them. If [Image 2] shows people, leave them out. THE WHEELS NEVER CHANGE: four round, upright, normal tyres, never folding, turning flat or becoming thrusters.
+SCENE (never change):
+- THE CAR = the vehicle in [Image 2], exactly: the same type, body shape, paint colour, wheels, lights and every part, so its owner knows it at once, in every shot. Only the thruster jets under its floor are added. No badge, lettering or readable plate. Never the background or people of [Image 2].
+- A jammed city street between skyscrapers on a sunny day: yellow taxis stuck right beside THE CAR, a white box truck in the next lane.
+- Realistic handheld phone footage, vertical 9:16.
 
-Sound: traffic and distant horns, the driver's fed-up "what is this?!", a button click, a rising electric whine, a deep roaring rocket blast and rushing wind, a thud and tyre squeal on the landing. No music.
+SHOTS (exact timing):
+[00:00-00:01.2] A high view from above and in front: THE CAR stuck bumper to bumper between yellow taxis.
+[00:01.2-00:05] HARD CUT inside THE CAR, handheld from the passenger seat toward the driver, a yellow taxi right outside the driver's window. The driver's face is large and sharp, turned three-quarters to the camera, in daylight: exactly the face from [Image 1]. The driver is annoyed, never smiling at the camera; eyes on the phone, then on the jam. The driver scrolls their phone, looks up at the jam, rolls their eyes and sighs, puts the phone down and presses a button on the centre console, next to a paper takeaway coffee cup in the cup holder.
+[00:05-00:07.5] HARD CUT outside, at street level in front of THE CAR: four thruster jets under its floor fire white-hot in a huge burst of white smoke, and THE CAR lifts STRAIGHT UP off the street, flat, past the box truck. Then from below: its underside and four glowing jets rise fast between the skyscrapers, and it tips nose up to the sky.
+[00:07.5-00:10] HARD CUT back inside, the same passenger-seat angle: the driver is thrown back into the seat by the force, arms flailing, mouth wide open, eyes wide in shock. The coffee cup flies out of the cup holder and coffee splashes over the dashboard, never over the face. Rooftops and sky rush down past the side window. The face stays large and sharp: exactly the face from [Image 1].
+
+THE DRIVER = [Image 1], in every frame: the exact face, hair, skin tone and age, and any glasses, beard or moustache exactly as in [Image 1] (none if it has none), so their friends recognize them at once. Never morph, never a different, younger or smoother face. If [Image 1] shows several people, use only the largest, most central face. If [Image 1] shows a pet, the driver is that pet, with its own face, fur and markings, upright with its paws on the wheel.
+
+SOUND: city traffic and horns, the driver's tired sigh, a button click, a rising electric whine, a deep roaring thruster blast and rushing wind, the cup clattering, a shocked wordless yell. No music, no words.
 
 真人实拍、五官清晰、面部稳定、不扭曲、不变形、人体结构正常、比例自然、同一角色、服装一致、发型不变.
 
-Avoid: the car flying backward, the car turning around, wheels folding or becoming thrusters, the car hitting other cars, a different car, the car changing colour, the face changing, text, watermarks, morphing, distortion. One person in the car. No badges or lettering on any car, no readable plates or road signs, no logos, no subtitles.
+NEVER: a freeway; the car flying forward over the traffic, sideways or backward; a landing; a crash; the face hidden, turned away, seen only from behind or in a mirror, or small; a different face; a different or mixed vehicle; a colour change; wheels turning into thrusters; a second person; text, subtitles, logos, badges, readable plates, taxi roof signs, watermark.
    ```
 
 2. Press Generate, then download the 9:16 MP4.
@@ -289,13 +305,14 @@ One-tap version of this variant: https://www.makeviral.ai/templates/flying-roads
 
 Upload **one selfie** for Selfie, **one photo of any vehicle** for Ramp flip, **two photos** for Your car (you first, then your car), **one car photo** for Parking spot, **two photos** for Plane window (you, then your partner), **one selfie** for Police stop, or **one car photo** for Tunnel wall or Paris street.
 
-- **Face to the camera, sharp and well lit, no sunglasses.** Your face shows large in the first shot, through the open car window, so make it a clear one.
+- **Face to the camera, sharp and well lit, no sunglasses.** Your face shows large in two shots inside the car, filmed from the passenger seat, so make it a clear one.
 - **Head and shoulders or waist up** works best. You keep the clothes from your photo.
 - **One person per photo,** so the AI picks the right face.
-- **The car photo:** the whole vehicle in daylight, from the back or a back corner, because the boosters fire under the rear bumper. Any car, truck or van works. Badges and number plates come out blank.
+- **Selfie and Your car: photo 1 must show you,** not a car or a screenshot of one.
+- **The car photo:** the whole vehicle in daylight, from the front or a front corner, because the car is seen from above and in front. Any car, truck or van works. Badges and number plates come out blank.
 - **Parking spot, Tunnel wall and Paris street:** just the whole car, sharp, in daylight, best from the side or a back corner. No person needed.
 - **Police stop:** a face photo, like Selfie. The face shows through the open car window, so look at the camera.
-- **Ramp flip:** the whole vehicle, sharp and well lit, from any angle. A car, truck, van, bus or motorbike works; a rider on it stays on it.
+- **Ramp flip:** the whole vehicle, sharp and well lit, from any angle. A car, truck, van, bus or motorbike works; a rider on it stays on it. A photo of the vehicle only: not a person, a bag or furniture.
 - Use your own photo, or one of a friend who said yes. Never a celebrity or a stranger.
 
 ## How many credits does it cost?
@@ -310,21 +327,22 @@ Credits come with a plan; see [pricing](https://www.makeviral.ai/pricing). A fai
 
 ## What happens in the flying Tesla Roadster AI video, second by second?
 
-The AI builds the whole scene from your photo, in three shots:
+The AI builds the whole scene from your photo, in four shots, like the first clip of the trend:
 
 | Time | What you see |
 |---|---|
-| 0 to 3 s | Seen through your open window, you sit in a freeway jam on a sunny day. You throw your hands up ("what is this?!"), glance at your phone, smirk and slam a button. Four rocket boosters under the rear bumper ignite. |
-| 3 to 6 s | Inside the car, from the back seat: the car rises, the roofs of the stuck cars drop away below, and your coffee jumps out of the cup holder and splashes over the dashboard. |
-| 6 to 10 s | From behind: the car flies nose first over the long line of stopped cars, drops past the orange cones and lands on the empty road in a burst of tyre smoke, then speeds off. |
+| 0 to 1 s | A high view: your white car is stuck bumper to bumper between yellow cabs. |
+| 1 to 5 s | Inside, from the passenger seat: you scroll your phone, roll your eyes at the jam and press the button by the coffee cup. |
+| 5 to 7.5 s | Outside: thrusters under the car fire in a burst of white smoke, it lifts straight up and rises between the skyscrapers. |
+| 7.5 to 10 s | Inside: you are thrown back in shock, and the coffee splashes over the dashboard. |
 
-**How it works:** Seedance 2.5 makes the clip straight from your photo, with no in-between picture, so your face stays yours. You get 10 seconds at 720p, vertical, with the model's own sound: traffic, horns, the button click, the rocket blast, the landing. There is no music, so you can add a sound when you post. The exact price shows on the Generate button before you spend anything, and every run is a new take.
+**How it works:** the best AI video models available make the clip straight from your photo, with no in-between picture, so your face stays yours. You get 10 seconds at 720p, vertical, with the model's own sound: traffic, horns, the button click, the thruster roar. There is no music, so you can add a sound when you post. The exact price shows on the Generate button before you spend anything, and every run is a new take.
 
 ## Which of the eight flying car videos should you make?
 
 - **Selfie** (1 photo): you drive a sleek white two-seat sports car with a dark glass roof and no badge. It is the look of the first AI clips of the flying Tesla car, without any brand on the car.
 - **Ramp flip** (1 photo of any vehicle): the real footage of the Roadster ramp, the most viewed clip of the event, with your vehicle in place of the Tesla. It waits at the foot of the giant curved ramp, climbs it, hangs upside down at the top, drops off, flips on thrusters and lands in smoke. 13 seconds, with the event's own sound.
-- **Your car** (2 photos): photo 1 is you, photo 2 is your car. Your own car gets the boosters and flies over the traffic: the make my car fly AI version. It works with a car, a truck or a van; badges, lettering and number plates come out blank on purpose.
+- **Your car** (2 photos): photo 1 is you, photo 2 is your car. Your own car gets the thrusters and blasts straight up out of the traffic: the make my car fly AI version. It works with a car, a truck or a van; badges, lettering and number plates come out blank on purpose.
 - **Parking spot** (1 photo of your car): the Roadster stole my parking spot meme. Seen from high above a parking lot at night, another car is about to pull into the last empty space when your car drops out of the sky on blue thrusters and takes it in a cloud of smoke.
 - **Plane window** (2 photos: you, then your partner): the "I wasn't finished talking" meme. You sit at a plane window, and your partner flies up beside it in a red sports car, holding a big cardboard sign that says "I WASN'T FINISHED TALKING".
 - **Police stop** (1 photo of you): the Tesla Roadster police stop meme. At night, on the officer's body camera, a gloved hand knocks on the window of your sleek red roadster. You turn and stare into the lens, the officer asks "Do you know how fast you were going?", and white vapour swallows the camera as the car lifts straight up into the night sky.
@@ -338,9 +356,9 @@ Ramp flip costs a little more and can take 5 to 15 minutes, because it swaps you
 | Problem | Fix |
 |---|---|
 | The face looks like someone else | Use a sharp, front-facing photo in good light, without sunglasses. Run it again. |
-| The car flies backward or turns around | The prompt bans it, but it can happen. Run it again. |
+| The car flies forward instead of straight up | The prompt asks for a straight-up launch, but it can happen. Run it again. |
 | The boosters replace the wheels | The prompt keeps four normal tyres. Run it again. |
-| Your car looks different from your photo | Use a photo of the whole car in daylight, from the back or a back corner. |
+| Your car looks different from your photo | Use a photo of the whole car in daylight, from the front or a front corner. |
 | A badge or a plate is missing | That is on purpose: the prompt asks for no badges, lettering or readable plates. |
 | Your car lands across two spaces (Parking spot) | Run it again. A photo of the whole car from the side helps. |
 | A letter on the sign is wrong (Plane window) | The AI draws the sign. Run it again. |
@@ -361,7 +379,7 @@ Ramp flip costs a little more and can take 5 to 15 minutes, because it swaps you
 
 ### What is the flying Tesla Roadster meme?
 
-It is a viral AI video meme where you sit in traffic, press a button and your car blasts off over the jam on rocket boosters. It follows Tesla's demo of 15 October 2026, where the new Roadster drove upside down on a ramp, lifted on thrusters and flipped. The first AI clip of it was posted on X on 16 October.
+It is a viral AI video meme where you sit in traffic, press a button and your car blasts straight up out of the jam on rocket thrusters. It follows Tesla's demo of 15 October 2026, where the new Roadster drove upside down on a ramp, lifted on thrusters and flipped. The first AI clip of it was posted on X on 16 October.
 
 ### Is the Tesla Roadster flying video real or AI?
 
@@ -373,7 +391,7 @@ Pick a version (Selfie, Ramp flip, Your car, Parking spot, Plane window, Police 
 
 ### Can I make my car fly with AI?
 
-Yes. Make my car fly AI is the Your car version: add a selfie and a photo of your own car, and your car gets the rocket boosters and flies over the traffic. With only a photo of your car, pick Ramp flip, Parking spot, Tunnel wall or Paris street. In those made from your photos, badges and number plates come out blank.
+Yes. Make my car fly AI is the Your car version: add a selfie and a photo of your own car, and your car gets the rocket thrusters and blasts straight up out of the traffic. With only a photo of your car, pick Ramp flip, Parking spot, Tunnel wall or Paris street. In those made from your photos, badges and number plates come out blank.
 
 ### Can I make the Tesla Roadster ramp and flip with a photo of my car?
 
@@ -405,7 +423,7 @@ Yes. Some template sites added a flying car Paris scene, and Paris street is our
 
 ### What prompt does the flying Roadster AI trend use?
 
-No creator shared a prompt for the flying Roadster AI video, so this template uses a 3-shot Seedance prompt for the traffic jam scene from an AI template site, kept in its order, with rules that keep your face, a car with no badge and the coffee from the first clip. You write no Tesla Roadster AI prompt yourself; if you were looking for a flying car AI video prompt, it is built in.
+No creator shared a prompt for the flying Roadster AI video, so this template follows the first clip shot by shot: the jam between yellow cabs, the button by the coffee cup, the straight-up launch between the towers and the shocked driver, with rules that keep your face and a car with no badge. You write no Tesla Roadster AI prompt yourself; if you were looking for a flying car AI video prompt, it is built in.
 
 ### Who made the first flying car AI clip of the trend?
 
@@ -417,7 +435,7 @@ It is the caption most creators put on the flying car clip: "Day 1 owning a Tesl
 
 ### Is this a rocket car meme or a flying car meme?
 
-Both names fit. Rocket boosters fire under the rear bumper, the car flies over the traffic and lands on the empty road beyond the jam: a rocket car meme and a flying car meme in one clip.
+Both names fit. Rocket thrusters fire under the car and it blasts straight up between the towers, out of the traffic: a rocket car meme and a flying car meme in one clip.
 
 ### Is the flying car trend on TikTok?
 
@@ -433,7 +451,7 @@ You can try. When the first photo shows an animal, the prompt sits that animal u
 
 ### How long is the video and what format is it?
 
-10 seconds as a vertical 9:16 MP4 at 720p, with sound from the model: traffic, the rocket blast and the landing. Ramp flip runs 13 seconds at 720p, with the event's own sound of the fans, the thrusters and the crowd. It plays on TikTok, Reels and Shorts, and there is no watermark.
+10 seconds as a vertical 9:16 MP4 at 720p, with sound from the model: traffic, the button click and the thruster roar. Ramp flip runs 13 seconds at 720p, with the event's own sound of the fans, the thrusters and the crowd. It plays on TikTok, Reels and Shorts, and there is no watermark.
 
 ### Is the video real?
 
@@ -448,7 +466,7 @@ No. Use your own photo, or a friend who said yes. Never a celebrity or a strange
 - [Car Jump AI Video: A Truck Flies Over You, You Stay Calm](https://www.makeviral.ai/templates/ai-car-jump-trend): You sit in a folding camp chair with your legs crossed, raise one fist, and a black pickup flies over the field behind you and lands at your back. You never turn around. Add a selfie, or a selfie and a photo of your own car.
 - [Venom Car Trend: Black Liquid Builds Your Car](https://www.makeviral.ai/templates/venom-car-ai-trend): Add one photo of your car. A glossy black living liquid crawls across a dark underground car park, builds the engine and chassis, flows into the body, and your own car stands there with its headlights on. 10 or 20 seconds, with sound.
 - [24 Unforgettable Car Trend AI: Flick the 2 and 4, Reveal Your Car](https://www.makeviral.ai/templates/unforgettable-car-trend-ai): You walk up to the camera, hold up a 2 and a 4, flick both cards at the lens, and a sports car is parked behind you. One photo, add a photo of the car you want, swap the car for a private jet, or make the car backflip on thrusters. 10 to 14 seconds, with the song from the viral clips.
-- [Stop Sign? What Stop Sign? AI: Put Yourself or Your Pet in the Bodycam Meme](https://www.makeviral.ai/templates/what-stop-sign-ai-trend): Pulled over at night, you ask why, mishear the officer and answer "Stop sign? What stop sign, man?" with the most innocent face. A new AI bodycam scene made from your photo, or with your dog or cat at the wheel.
+- [Stop Sign? What Stop Sign? AI: Put Yourself or Your Pet in the Bodycam Meme](https://www.makeviral.ai/templates/what-stop-sign-ai-trend): Pulled over at night, you ask why, and you mishear the officer: "Stop sign?" The viral AI bodycam clip with your face, or with your dog or cat at the wheel, and the meme's own sound.
 - [AI TikTok Video](https://www.makeviral.ai/tools/ai-tiktok-video-generator): Eight native TikTok formats, one prompt or product URL, a finished 9:16 video with captions burned in.
 - [AI Reels](https://www.makeviral.ai/tools/ai-reels-generator): Pick a format, give it a topic or a product link, and get a finished vertical reel with voice and captions. Nothing to film, nothing to edit.
 - [AI photo generator](https://www.makeviral.ai/ai-photo-generator)
@@ -456,12 +474,12 @@ No. Use your own photo, or a friend who said yes. Never a celebrity or a strange
 
 ## New AI video trends this week
 
-- [GTA 6 Loading Screen AI: Turn Your Photo Into a GTA Poster](https://www.makeviral.ai/templates/gta-6-loading-screen-ai): Add one photo and get your own GTA 6 loading screen: a painted crime-game poster of you in sunset colors, with palm trees, neon signs and a sports car. Same face, your own clothes, no logo.
-- [Jingle Bell Brazil Dance AI: Your Crew in the Viral Christmas Line Dance](https://www.makeviral.ai/templates/jingle-bell-brazil-dance-ai): Three dancers in Santa hats stand in a row under blue lights, then cross their arms, tap their chests and bounce in sync to a Brazilian funk Jingle Bell Rock. Add photos of you and two friends, one friend, just you, or your pet.
-- [Reaching Out Cat Trend: Put Your Pet in the Viral Clip](https://www.makeviral.ai/templates/reaching-out-cat-ai): A hand reaches up to the ceiling on "reaching out", then the cut, and the cat gets whisked out of the frame. Add one photo, and your cat, your dog or you sit in that spot, with the trend's sound. Your real pet never gets picked up.
-- [Dancing With Santa: Dance With Santa Claus From One Photo](https://www.makeviral.ai/templates/dance-with-santa-ai): Add one photo, and you dance side by side with Santa Claus on a red carpet between two lit Christmas trees: 15 seconds, the same steps, the same turns and the trend's own Santa song. Your pet can dance with Santa too, or bring your partner.
-- [You Rock My World Trend: Make the Couple Glow-Up Transition From 2 Photos](https://www.makeviral.ai/templates/you-rock-my-world-ai-trend): White T-shirts at home, a hand sweeps across the lens, and the two of you are dressed up somewhere else: on a garden terrace, in front of the iron tower in Paris, or there at night. Add a photo of each of you, or of two pets, and get the transition with the song.
-- [Tiger Transition: Your AI Glow-Up on "You Cannot Reason With a Tiger"](https://www.makeviral.ai/templates/tiger-transition-ai-trend): "You cannot reason with a tiger when your head is in its mouth!" Add one photo: you start plain, swipe a hand over the lens and come back in full glam hair and makeup, or in full tiger face paint, with the original sound.
+- [What If You Fly Meme: Fall, Then Fly Above the Clouds](https://www.makeviral.ai/templates/what-if-you-fly-ai-trend): "What if you fall?" "Twin!" "What if you... FLY." Your bedroom floor drops away, you fall into the sky, take off on fire and fly over the sea and above the clouds. One photo of you or your pet, 15 seconds, with the original sound.
+- [My Moon My Man Trend: The AI Jesus Painting With You In It](https://www.makeviral.ai/templates/my-moon-my-man-ai-trend): Add one photo. MakeViral paints you into the soft oil painting of the my moon my man Jesus trend: you kneel to pick a small flower, and Jesus stands over you with a huge pastel bouquet hidden behind his back.
+- [Put The Rollie On My Wrist Trend, Starring You Two](https://www.makeviral.ai/templates/rollie-on-my-wrist-ai-trend): Add a photo of each of you. Our AI puts you both into the most viewed Put The Rollie On My Wrist reel: one carries the other across the shoulders, turns round, and the hidden one's face pops up in front, on the trend's sound.
+- [Whoville Character AI: The ChatGPT Whoville Trend From One Selfie](https://www.makeviral.ai/templates/whoville-ai-trend): Add one selfie. The AI keeps your face, smile and hair color, piles your hair up into tall Christmas curls with bows and candy canes, and puts you in a fur-trimmed outfit in a snowy town of crooked, glowing houses.
+- [Olly Olly Dance AI: Do the TikTok Dance From One Photo](https://www.makeviral.ai/templates/olly-olly-dance-ai-trend): A bounce, fist pumps, arms thrown wide, a side-step, then a sprint out of the frame: the TikTok dance on OLLY's beat. Add one photo of you or your pet and get the clip with the sound.
+- [King Jin AI Trend: Stand Still While the Whole Street Bows](https://www.makeviral.ai/templates/king-jin-ai-trend): One photo, and you are the boss of a neon Korean street at night: you stand still, the crowd in dark jackets bows deeply, and the camera pushes in on your calm stare. Or give the street to your dog or cat.
 
 ## Make your own Flying Roadster AI video
 

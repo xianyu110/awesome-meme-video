@@ -154,3 +154,26 @@ The beats, second by second:
 NO weapon of any kind in any frame: no gun, no rifle, no pistol, no water gun, no toy gun, no knife, no blade, no handcuffs, no spray, no ammunition. Every object is a bright, harmless child's toy in plain colors, held up to the lens as a joke, never pointed at anyone. No uniform, no badge, no patch, no tactical gear. No text, no captions, no logos, no brand names on the toys or the lockers, no watermark. One animal only, one head, one muzzle, four legs.
 ```
 
+### 7. 1. The video prompt is filled in. Settings: Seedance 2.5, 10 s, 720p, 9:16, sound off. The video prompt (Pet)
+
+*Kind: video_prompt*
+
+```text
+Real live-action footage, a vertical handheld selfie video in a dark locker room: rows of dark blue-grey metal lockers, a bench, a cold overhead light. The camera is a phone held very close, at chest height, from the chest up, so the faces stay big and clear; it shakes a little with the beat. Keep the pet from [Image 1] as the main character.
+
+The main pet = the pet in [Image 1], in EVERY frame: the same species and breed, face, eyes, ears, muzzle, fur colors, fur length and markings as in [Image 1], with the natural body volume and proportions of that animal: never flattened, squashed, stretched or merged with anything.
+The friend pet = the pet in [Image 2], in every frame it shows, copied from [Image 2] in the same way.
+Never blend the two animals: [Image 1] is only the main pet, [Image 2] is only the friend pet. Each keeps its own face, fur and markings from the first frame to the last, so their owners recognize them at once. Real animals with animal paws, never human hands, never a human body, no clothes. No person in the frame.
+If an image shows a person instead of an animal, that one is that person with their own face, in the clothes from their photo.
+
+The beats, second by second:
+0-2.5s: the main pet sits on the locker room bench very close to the lens and stares into it with a serious, cool face, the head bobbing a little to the beat; the friend pet leans in from the side behind its shoulder, looks into the lens too and bobs its head.
+2.5-4s: the main pet nudges a tall stack of colorful plastic building blocks (red, yellow, green, blue) toward the lens with its nose; the stack wobbles, and the friend pet watches it.
+4-5.5s: the main pet holds a yellow rubber duck in its mouth close to the lens and squeaks it once; the friend pet sniffs the duck.
+5.5-7s: the main pet pushes a small red toy car toward the lens with one front paw; the wheels roll, and the friend pet taps the car with a paw.
+7-8.5s: the main pet brings a soft brown teddy bear up to the lens in its mouth; the friend pet leans in close beside it.
+8.5-10s: the main pet drops the teddy bear, and both pets stare into the lens side by side, dead serious, with a slow head tilt.
+
+NO weapon of any kind in any frame: no gun, no rifle, no pistol, no water gun, no toy gun, no knife, no blade, no handcuffs, no spray, no ammunition. Every object is a bright, harmless child's toy in plain colors, held up to the lens as a joke, never pointed at anyone. No uniform, no badge, no patch, no tactical gear. No text, no captions, no logos, no brand names on the toys or the lockers, no watermark. Exactly two animals: one head, one muzzle and four legs each. Never a third animal, never two animals merged into one body.
+```
+
